@@ -39,7 +39,7 @@ class DevelopmentSkillContractTests(unittest.TestCase):
     def test_source_skill_uses_one_house_and_protects_author_notes(self):
         text = self.skill("return-of-zero-source")
         for required in (
-            "sources/<source_id>/SOURCE.md",
+            "sources/<primary_domain>/<author>/<source_id>/SOURCE.md",
             "NOTES.md",
             "never create, edit, append, normalise, migrate, relocate, index as canonical evidence, or delete it",
             "stable passage ID",

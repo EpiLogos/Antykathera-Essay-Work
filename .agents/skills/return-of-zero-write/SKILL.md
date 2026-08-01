@@ -11,4 +11,4 @@ For manuscript work, open the exact movement and the sovereign master manuscript
 
 Frank’s established proposition governs. Sources deepen, historicise, test, and articulate it; they do not grant it permission to exist. Preserve a qualification only when a concrete source, inference, attribution, or canonically live tension changes the movement. Scope the claim; do not soften it into a safer neighbour or manufacture counterpressure.
 
-Before authored prose, read `writing-guidance-tools/README.md` and the references it routes to, including `writing-guidance-tools/WRITING-RUBRIC.md`. Use fresh-eyes and ship-note checks at the scale of the passage, not as a universal completion ritual.
+Before authored prose, read `writing-guidance-tools/README.md` and follow the load contract in `writing-guidance-tools/SKILL.md`: draft with only `references/WRITING-LAWS.md` and `references/WRITING-RUBRIC.md` open, audit independently, and keep calibration files cold until after that audit. Use fresh-eyes and ship-note checks at the scale of the passage, not as a universal completion ritual.

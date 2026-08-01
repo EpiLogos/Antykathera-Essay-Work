@@ -16,5 +16,6 @@ python3 tools/build-source-projections.py --project-root .
 python3 tools/build-source-projections.py --project-root . --check
 ```
 
-Current inventory: 83 sources and
-133 stable passages.
+The generated `../SOURCE-INDEX.md` and `../PASSAGE-LEDGER.md` are the live
+inventory; as of the 2026-07-29 rebuild they list 111 source houses and 288
+stable passage locators.

@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "Chang — Tao: A New Way of Thinking"
-  - "Tao: A New Way of Thinking (2014)"
+- 'Chang — Tao: A New Way of Thinking'
+- 'Tao: A New Way of Thinking (2014)'
 record_type: book
 source_role:
-  - taoist-philosophy
-  - tao-te-ching-translation
-  - comparative-philosophy
-  - heidegger-reception
+- taoist-philosophy
+- tao-te-ching-translation
+- comparative-philosophy
+- heidegger-reception
 citation_style: chicago-notes-bibliography-18
 metadata_status: verified
 edition_status: selected-2014-singing-dragon-reprint-of-1975-harper
@@ -15,30 +15,32 @@ citation_status: citation-ready
 quote_status: no-excerpts
 chicago_ready: true
 author:
-  - Chang Chung-yuan
-title_full: "Tao: A New Way of Thinking — A Translation of the Tao Tê Ching with an Introduction and Commentaries"
+- Chang Chung-yuan
+title_full: 'Tao: A New Way of Thinking — A Translation of the Tao Tê Ching with an Introduction and Commentaries'
 publisher: Singing Dragon
 publication_place: London
 year: 2014
-page_count: "240"
+page_count: '240'
 isbn:
-  - "9781848192010"
-accessed: "2026-07-29"
+- '9781848192010'
+accessed: '2026-07-29'
 consumed_by_sections: []
 consumed_by_arguments: []
 tags:
-  - epi-logos/antikythera-essay
-  - source-bank/record
-  - source-bank/chinese-philosophy
-  - source-bank/taoism
-  - source-bank/comparative-philosophy
-title: "Chang Chung-yuan — Tao: A New Way of Thinking (2014)"
+- epi-logos/antikythera-essay
+- source-bank/record
+- source-bank/chinese-philosophy
+- source-bank/taoism
+- source-bank/comparative-philosophy
+title: 'Chang Chung-yuan — Tao: A New Way of Thinking (2014)'
 source_id: chung-yuan-chang-tao-a-new-way-of-thinking-2014
 primary_domain: chinese-philosophy
-node_type: source-house
 ownership: canonical-source-house
 schema_version: 1
-passage_surface: "#passages"
+passage_surface: '#passages'
+type: source-house
+canonical_path: essay-workshop/sources-texts-references/source-bank/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md
+canonical_sha256: 447c5bcec907d863542b98c6b8438debfa38baf81f6cfceacba251fabea32b2d
 ---
 
 # Chang Chung-yuan — *Tao: A New Way of Thinking* (2014)

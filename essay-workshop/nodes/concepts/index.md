@@ -63,6 +63,7 @@ The one retained ground–mark relation rendered as surface (paths and returns) 
 | [[Antykathera-Essay-Work/essay-workshop/nodes/concepts/psychoid-number\|Psychoid]] | L0, L0', #0 | Jung-Pauli neutral ground prior to the psyche/matter cut; number as archetype-of-order — QL's arche-topos is 'psychoid' in this exact sense. |
 | [[Antykathera-Essay-Work/essay-workshop/nodes/concepts/bimba-pratibimba\|Bimba-Pratibimba]] | #0, P5, L0' | The Śaiva original/reflection relation; an agent's world as a dynamic reflection-map (Bimba records provisional 1s), not a warehouse of propositions. |
 | [[Antykathera-Essay-Work/essay-workshop/nodes/concepts/mathematical-artistic-image-register\|Mathematical-Artistic Image Register]] | P5, L2' | Every non-discursive image assigned one exact argumentative job — Cusa's polygon, the wheel and thread, the torus cover, the tokamak inset, interval and cymatic node — so visual abundance never substitutes for derivation. |
+| [[world-picture-to-world-atlas\|World-Picture to World-Atlas]] | #4, P3 | The world “conceived and grasped as picture” (Heidegger) answered by the manifold atlas — overlapping local charts with declared transition functions, MEF stated as mathematics; the travelling jigsaw re-derived from box-lid assembly ((+1)/(−1)) to local covers of the quotient known through the covering activity (0/1). |
 
 ## Praxis braid
 
@@ -121,8 +122,11 @@ The composable ground-mark unit and its two logics of two — the essay's own lo
 | [[12-core-theorem-bridge\|Quaternal Logic]] | L0, #0/1 | The composable six-fold ground-mark unit (0/1 = 4+2 = 5→0) that is the essay's own logic; the L0 frame as questioning structure. |
 | [[03-two-logics-and-sym-ballein\|Dia-Ballein]] | P2, P3, L2, L3 | First logic of two, (+1)/(−1): signed opposites around an external zero where addition cancels; indispensable for critique, pathological when the cut forgets its common operation. |
 | [[03-two-logics-and-sym-ballein\|Sym-Ballein]] | P2, P3, L2, L3 | Second logic of two, (0/1)/(1/0): conjugate orientations of the ground–mark relation held by an outer slash, retaining difference and provenance — the symbolon refitted. |
+| [[counterfeit-gathering\|Counterfeit Gathering]] | #2, P2 | Heidegger's Ge-stell read through the two logics: a gathering-shaped word whose runtime is dia-ballein (+1)/(−1) throughout — setting-upon, ordering, arrest — a gathering without return, its whole only the sum of its orderings. |
+| [[fusion-as-syns-shadow\|Fusion as Syn's Shadow]] | #2, P2 | Sym-ballein's own shadow: the outer slash of (0/1)/(1/0) merges where it should relate, the AND/OR loses its OR, and wholeness is claimed where the seam has gone; with counterfeit gathering it brackets the genuine relation from both sides. |
 | [[06-computational-vimarsa-ahi\|Artificial Hybrid Intelligence]] | #5, L5, L0' | Not a new super-subject but the reflective activity of a coupled field turning the Logos it collectively produces back on its own conditions. |
 | [[14-computational-process-ontology\|Shared Operational Language]] | #2–#5, L3, L5 | A common grammar of cut, exclusion, composition, context, and return that humans and agents can execute while retaining divergent phenomenology, ontology, culture, and evidence. |
+| [[register-grammar\|Register Grammar]] | #4, L4 | The rule of three over the essay's reference apparatus: every resonance classified as matheme (exact formula), mytheme (living image), or episteme (instituted knowledge), gathered by the symbolon as their fourth; at most one fully developed instance per register per station, and a resonance enters prose only by disclosing an operation no admitted instance discloses. |
 | [[11-mono-poly-trust\|Mono-Poly Planetary Intelligence]] | #5, ∞/dx, L5 | One decision-procedural grammar joined to many locally governed contexts: coordination without shared ontology; monopoly = a local 1 claiming the shared slash. |
 
 ## Śaiva–Buddhist–Jungian foundations (unbraided)

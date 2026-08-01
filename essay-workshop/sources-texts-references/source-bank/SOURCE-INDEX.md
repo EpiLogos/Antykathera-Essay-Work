@@ -2,7 +2,7 @@
 title: "Return of Zero — Canonical Source Index"
 generated: true
 generator: tools/build-source-projections.py
-source_digest: "c88ed23867cb67f9789df5cc904a7e2d76c43b9677fa6484baef6d9d2fde9710"
+source_digest: "11bb327c7221715bdaba9012ab1c8530d77f3a9ed2aa257bf8d838b6be86921b"
 ---
 
 <!-- Generated from canonical SOURCE.md houses. Do not edit by hand. -->
@@ -21,6 +21,7 @@ source_digest: "c88ed23867cb67f9789df5cc904a7e2d76c43b9677fa6484baef6d9d2fde9710
 - [Bohm — Wholeness and the Implicate Order (1980)](sources/process-systems-theory/bohm/bohm-1980-wholeness-implicate-order/SOURCE.md) — `bohm-1980-wholeness-implicate-order` — citation-ready
 - [Bradley and Terry — Rank Analysis of Incomplete Block Designs (1952)](sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md) — `bradley-terry-1952-paired-comparisons` — citation-ready
 - [Bratton — Antikythera Agentworld Brief (2026)](sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md) — `bratton-2026-agentworld-brief` — citation-ready
+- [Chang Chung-yuan — Tao: A New Way of Thinking (2014)](sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md) — `chung-yuan-chang-tao-a-new-way-of-thinking-2014` — citation-ready
 - [Christopher G. Brown — Ares, Aphrodite, and the Laughter of the Gods (1989)](sources/classical-philology/brown/brown-1989-ares-aphrodite-laughter/SOURCE.md) — `brown-1989-ares-aphrodite-laughter` — citation-ready
 - [Colebrooke — Brahmagupta and Bhāskara (1817)](sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md) — `colebrooke-1817-brahmagupta-bhaskara` — citation-ready
 - [Courtney — The Salt-Point: Kairos Emergent from Chaos (2019)](sources/psychology/courtney/courtney-2019-salt-point-kairos-chaos/SOURCE.md) — `courtney-2019-salt-point-kairos-chaos` — citation-ready
@@ -85,6 +86,7 @@ source_digest: "c88ed23867cb67f9789df5cc904a7e2d76c43b9677fa6484baef6d9d2fde9710
 - [Rafailov et al. — Direct Preference Optimization (2023)](sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md) — `rafailov-et-al-2023-dpo` — citation-ready
 - [Rotman — Signifying Nothing (1987)](sources/mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE.md) — `rotman-1987-signifying-nothing` — citation-ready
 - [Russell — Mathematical Logic as Based on the Theory of Types (1908)](sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE.md) — `russell-1908-theory-types` — citation-ready
+- [Saul A. Kripke — Naming and Necessity (1980)](sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md) — `kripke-1981-naming-and-necessity` — citation-ready
 - [Scholtz — Algorithms for Mapping Diatonic Keyboard Tunings and Temperaments (1998)](sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md) — `scholtz-1998-algorithms-diatonic-keyboard-tunings` — citation-ready
 - [SEED — The Language of Spirit Dialogues (2010)](sources/process-systems-theory/seed/seed-2010-language-spirit/SOURCE.md) — `seed-2010-language-spirit` — citation-ready
 - [Sheffer — A Set of Five Independent Postulates (1913)](sources/mathematics-logic/sheffer/sheffer-1913-five-postulates/SOURCE.md) — `sheffer-1913-five-postulates` — citation-ready

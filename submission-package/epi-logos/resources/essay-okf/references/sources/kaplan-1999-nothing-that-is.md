@@ -99,13 +99,13 @@ These source-specific fields were gathered before consolidation and remain part 
 - **Export status:** local-only
 
 > [!warning] Three authorities, kept apart
-> The bibliographic authority is Kaplan — The Nothing That Is (2000 OUP printing). Frank's marginalia remain byte-for-byte in [The Nothing That Is - Robert Kaplan](../../supporting/the-nothing-that-is-robert-kaplan.md). The local PDF is the selected 2000 Oxford printing, ISBN 0-19-512842-7: printed page `n` is PDF page `n + 13`. Its Z-Library-labelled provenance makes it locator-only. No Kaplan passage is quotation-ready. Exact primary text for Brahmagupta and Bhāskara comes instead from the public-domain [Colebrooke — Brahmagupta and Bhāskara (1817)](tye-2024-qualia-sep.md).
+> The bibliographic authority is Kaplan — The Nothing That Is (2000 OUP printing). Frank's marginalia remain byte-for-byte in [The Nothing That Is - Robert Kaplan](../../supporting/the-nothing-that-is-robert-kaplan.md). The local PDF is the selected 2000 Oxford printing, ISBN 0-19-512842-7: printed page `n` is PDF page `n + 13`. Its Z-Library-labelled provenance makes it locator-only. No Kaplan passage is quotation-ready. Exact primary text for Brahmagupta and Bhāskara comes instead from the public-domain [Colebrooke — Brahmagupta and Bhāskara (1817)](kripke-1981-naming-and-necessity.md).
 
 ## Why this book is load-bearing
 
 Kaplan lets §1 be read as a history of changed permissions. A blank may keep a place without counting as a number; a mark may enter arithmetic without admitting every operation; an empty set may represent zero and become a member of one; the boundary signs `0/1` and `1/0` may generate positive rationals without becoming ordinary quotients. The sequence matters because the essay's `0/1` must emerge from operations and prohibitions, not arrive already swollen with metaphysical meaning.
 
-The book is therefore the section's narrative spine, not its sole historical authority. Kaplan's Babylonian, Indian, Arabic, and European scenes identify what needs to be understood. Primary texts and specialist histories decide what can be asserted. This division is especially important at printed pp. 73–74: the algebraic cancellation argument is useful, but Kaplan's ensuing cultural explanation of Indian mathematics is not neutral history. Read it against [Dutta — Zero-Divided Numbers in Indian Mathematics (2023)](tye-2024-qualia-sep.md) and the primary verses rather than inheriting its judgement.
+The book is therefore the section's narrative spine, not its sole historical authority. Kaplan's Babylonian, Indian, Arabic, and European scenes identify what needs to be understood. Primary texts and specialist histories decide what can be asserted. This division is especially important at printed pp. 73–74: the algebraic cancellation argument is useful, but Kaplan's ensuing cultural explanation of Indian mathematics is not neutral history. Read it against [Dutta — Zero-Divided Numbers in Indian Mathematics (2023)](kripke-1981-naming-and-necessity.md) and the primary verses rather than inheriting its judgement.
 
 ## Historical reading spine
 
@@ -155,7 +155,7 @@ Read printed pp. 4–13, 14–27, and 36–56 in sequence. On each pass identify
 
 ### 2. What changes when *śūnya* enters arithmetic?
 
-Read Kaplan's printed pp. 68–75 beside [Colebrooke passages](tye-2024-qualia-sep.md#passages). Work through addition, subtraction, multiplication, and division one operation at a time. The primary verses prevent the history from becoming Kaplan's paraphrase; Kaplan supplies the narrative transition by which rules change the sign's status.
+Read Kaplan's printed pp. 68–75 beside [Colebrooke passages](kripke-1981-naming-and-necessity.md#passages). Work through addition, subtraction, multiplication, and division one operation at a time. The primary verses prevent the history from becoming Kaplan's paraphrase; Kaplan supplies the narrative transition by which rules change the sign's status.
 
 The consumer is [14-s1-p1-sunya-operational](../../sections/14-s1-p1-sunya-operational.md). A statement about Indian “nothingness” earns no place here unless it names a text, an operation, and a boundary. The section's stronger point is that arithmetic citizenship is distributed unevenly: zero can be an additive identity and multiplicative absorber while division remains a contested edge.
 
@@ -175,7 +175,7 @@ At printed pp. 208–212, separate the empty product from the von Neumann constr
 
 Kaplan's printed pp. 212–215 teach the Peirce down-arrow as NOR: `p ↓ q = ¬(p ∨ q)`, “neither p nor q.” He then connects the result to Sheffer and Wittgenstein. The formal sequence can be checked: NOR generates negation by `p ↓ p`, and disjunction by denying the denied result. Kaplan's historical and philosophical transitions remain secondary claims needing Peirce, Sheffer, and Wittgenstein in their own texts.
 
-Modern NAND is also functionally complete, but it is a different connective: `p | q = ¬(p ∧ q)`. The existing NAND exercise remains below as a comparison. It must not be reported as Kaplan's operation or silently attributed to Sheffer's 1913 notation. [Sheffer — A Set of Five Independent Postulates (1913)](tye-2024-qualia-sep.md) is citation-ready but its exact movement remains unassigned. The QL slash has its own derivation; functional completeness can become a defined resonance only after that difference is stated.
+Modern NAND is also functionally complete, but it is a different connective: `p | q = ¬(p ∧ q)`. The existing NAND exercise remains below as a comparison. It must not be reported as Kaplan's operation or silently attributed to Sheffer's 1913 notation. [Sheffer — A Set of Five Independent Postulates (1913)](kripke-1981-naming-and-necessity.md) is citation-ready but its exact movement remains unassigned. The QL slash has its own derivation; functional completeness can become a defined resonance only after that difference is stated.
 
 ## Mathematical workbench
 

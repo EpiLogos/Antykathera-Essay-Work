@@ -1,13 +1,13 @@
 ---
 aliases:
-  - Kripke — Naming and Necessity
-  - Naming and Necessity (1980)
+- Kripke — Naming and Necessity
+- Naming and Necessity (1980)
 record_type: book
 source_role:
-  - philosophy-of-language
-  - modal-logic
-  - rigid-designation
-  - theory-of-reference
+- philosophy-of-language
+- modal-logic
+- rigid-designation
+- theory-of-reference
 citation_style: chicago-notes-bibliography-18
 metadata_status: verified
 edition_status: selected-harvard-1980-book-edition-copy-printing-unconfirmed
@@ -15,30 +15,32 @@ citation_status: citation-ready
 quote_status: no-excerpts
 chicago_ready: true
 author:
-  - Saul A. Kripke
-title_full: "Naming and Necessity"
+- Saul A. Kripke
+title_full: Naming and Necessity
 publisher: Harvard University Press
 publication_place: Cambridge, MA
 year: 1980
 isbn:
-  - "9780674598461"
-  - "0674598466"
-  - "9780674598454"
-accessed: "2026-07-29"
+- '9780674598461'
+- 0674598466
+- '9780674598454'
+accessed: '2026-07-29'
 consumed_by_sections: []
 consumed_by_arguments: []
 tags:
-  - epi-logos/antikythera-essay
-  - source-bank/record
-  - source-bank/analytic-philosophy
-  - source-bank/philosophy-of-language
-title: "Saul A. Kripke — Naming and Necessity (1980)"
+- epi-logos/antikythera-essay
+- source-bank/record
+- source-bank/analytic-philosophy
+- source-bank/philosophy-of-language
+title: Saul A. Kripke — Naming and Necessity (1980)
 source_id: kripke-1981-naming-and-necessity
 primary_domain: analytic-philosophy
-node_type: source-house
 ownership: canonical-source-house
 schema_version: 1
-passage_surface: "#passages"
+passage_surface: '#passages'
+type: source-house
+canonical_path: essay-workshop/sources-texts-references/source-bank/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md
+canonical_sha256: ac5ce00334aa4918d2f516519ac116a6685822adcef553971511ed50ede54358
 ---
 
 # Saul A. Kripke — *Naming and Necessity* (1980)

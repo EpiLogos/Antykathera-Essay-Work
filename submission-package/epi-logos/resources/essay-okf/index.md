@@ -2,7 +2,7 @@
 title: The Return of Zero — OKF Index
 type: index
 format: OKF v0.1-compatible Markdown bundle
-source_digest: e358b815efa24e2666845a138ebdab2e6299e6f130326a17868efd0488cfe421
+source_digest: 9e9fef60448804a2b2e0c9241b6dea059c3f3e5b3b28115587b9975973d53596
 ---
 
 # The Return of Zero — OKF Index
@@ -146,6 +146,7 @@ Begin with the path for the whole essay, a braid for one argument across station
 - [Bratton 2026 Agentworld Brief](references/sources/bratton-2026-agentworld-brief.md)
 - [Brown 1989 Ares Aphrodite Laughter](references/sources/brown-1989-ares-aphrodite-laughter.md)
 - [Burkert 1960 Lied Ares Aphrodite](references/sources/burkert-1960-lied-ares-aphrodite.md)
+- [Chung Yuan Chang Tao A New Way Of Thinking 2014](references/sources/chung-yuan-chang-tao-a-new-way-of-thinking-2014.md)
 - [Colebrooke 1817 Brahmagupta Bhaskara](references/sources/colebrooke-1817-brahmagupta-bhaskara.md)
 - [Courtney 2019 Salt Point Kairos Chaos](references/sources/courtney-2019-salt-point-kairos-chaos.md)
 - [Cusa On Learned Ignorance](references/sources/cusa-on-learned-ignorance.md)
@@ -183,6 +184,7 @@ Begin with the path for the whole essay, a braid for one argument across station
 - [Kapsner 2020 Cutting Corners](references/sources/kapsner-2020-cutting-corners.md)
 - [Kauffman 2014 Iterants Fermions Dirac Arxiv](references/sources/kauffman-2014-iterants-fermions-dirac-arxiv.md)
 - [Kirchner Elkamhawy Hammer 2024 Entanglement Nucleon Scattering](references/sources/kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering.md)
+- [Kripke 1981 Naming And Necessity](references/sources/kripke-1981-naming-and-necessity.md)
 - [Lacan 2017 Talking To Brick Walls](references/sources/lacan-2017-talking-to-brick-walls.md)
 - [Le Bon 1895 Crowd Popular Mind](references/sources/le-bon-1895-crowd-popular-mind.md)
 - [Lecun Et Al 2006 Energy Based Learning](references/sources/lecun-et-al-2006-energy-based-learning.md)
@@ -224,6 +226,7 @@ Begin with the path for the whole essay, a braid for one argument across station
 - [Taylor 2026 Definition God Draft3](references/sources/taylor-2026-definition-god-draft3.md)
 - [Taylor 2026 Mef Twelve Lenses](references/sources/taylor-2026-mef-twelve-lenses.md)
 - [Taylor 2026 Mono Poly Two Ones](references/sources/taylor-2026-mono-poly-two-ones.md)
+- [Taylor 2026 Personal Poetry Corpus](references/sources/taylor-2026-personal-poetry-corpus.md)
 - [Taylor 2026 Ql Musical Derivation V3](references/sources/taylor-2026-ql-musical-derivation-v3.md)
 - [Taylor 2026 Revision Notes Trust](references/sources/taylor-2026-revision-notes-trust.md)
 - [Taylor 2026 Sym Dia Ballein Views](references/sources/taylor-2026-sym-dia-ballein-views.md)

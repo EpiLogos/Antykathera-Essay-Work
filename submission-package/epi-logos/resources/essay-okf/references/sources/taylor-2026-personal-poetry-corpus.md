@@ -1,12 +1,12 @@
 ---
 aliases:
-  - franki-taylor-personal-poetry
-  - taylor-poetry-corpus
+- franki-taylor-personal-poetry
+- taylor-poetry-corpus
 record_type: manuscript
 source_role:
-  - internal-primary-corpus
-  - authorial-poetry
-  - language-source
+- internal-primary-corpus
+- authorial-poetry
+- language-source
 citation_style: chicago-notes-bibliography-18
 metadata_status: verified
 edition_status: authorial-compilation
@@ -14,24 +14,26 @@ citation_status: internal-ready
 quote_status: quotation-ready
 chicago_ready: false
 author:
-  - Franki Taylor
-title_full: "Personal Poetry Corpus, March–June 2026 and Undated Earlier Work"
+- Franki Taylor
+title_full: Personal Poetry Corpus, March–June 2026 and Undated Earlier Work
 year: 2026
 local_copy: /Users/admin/Documents/Nara-Personal/Antykathera-Essay-Work/essay-workshop/sources-texts-references/source-bank/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md
 consumed_by_sections: []
 consumed_by_arguments: []
 tags:
-  - epi-logos/antikythera-essay
-  - source-bank/record
-  - source-bank/internal-corpus
-  - source-bank/poetry
+- epi-logos/antikythera-essay
+- source-bank/record
+- source-bank/internal-corpus
+- source-bank/poetry
 title: Taylor — Personal Poetry Corpus (2026)
 source_id: taylor-2026-personal-poetry-corpus
 primary_domain: internal-corpus
-node_type: source-house
 ownership: canonical-source-house
 schema_version: 1
 passage_surface: '#complete-poems'
+type: source-house
+canonical_path: essay-workshop/sources-texts-references/source-bank/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md
+canonical_sha256: 222271415b6fa5d9e071bc913fa03ea7325332f39ba51f1f87346150e40074de
 ---
 
 # Taylor — Personal Poetry Corpus (2026)

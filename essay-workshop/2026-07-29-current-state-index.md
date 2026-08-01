@@ -79,18 +79,23 @@ Each contribution carries: exact section-level insertion maps, corrections that 
 - `tools/`: `okf-workspace.py` (1,494-line read-only graph/effects CLI), `source_resolver.py`, `build-source-projections.py` (`--check`), `build-essay-okf.py` (07-29), `build-section-rooms.py` (`--check`), `audit-room-depth.py`, `curate-main-source-relations.py`, `project-agent-harness.py` (`writing-context <movement-id> --json`), `bkmr-essay` (6 corpora, FTS + opt-in semantic).
 - `refs-sources-args.base` (07-15): live Obsidian Base over the evidence field.
 
-## 7. Defect / debt ledger (actionable, small)
+## 7. Defect / debt ledger (actionable, small) — status as of pre-phase close, 2026-07-29
 
-1. No git commits — commit the pre-harmonisation state before mass edits.
-2. Concept Map (`nodes/concepts/index.md`) stale: 4 unrouted concepts, 8 rewritten nodes unreflected.
-3. `arguments/14-computational-process-ontology.md`: empty `## Claim`.
-4. Empty SOURCE.md shells: Kripke 1981, Chung-Yuan Chang 2014.
-5. `source-bank/README.md` stale counts (83/133 vs actual 110/255).
-6. Section body schema bimodal (28 card / 19 movement / 1 bespoke) — decide, don't drift.
-7. 6 of 9 transverse threads lack path files (the vault's transverse reading mode will want them).
-8. CLAUDE.md stale in spots: "17 arguments" (20), `.claude/skills/` projections absent, "60 concepts" framing vs 22 nodes + 72-link routing.
-9. 9 specialist lens skills + `/mef-refract` not yet revised to the 07-29 content-agnostic framing.
-10. `_to_delete/quilt-append-015retbf-consumed.md` awaiting confirmed deletion.
+1. ~~No git commits~~ **Done** — baseline frozen at `c679d02`; `.gitignore` added (`.DS_Store`, `.bkmr/`).
+2. ~~Concept Map stale~~ **Done** — 4 concepts routed (3 → Synthesis braid, 1 → Topology-Music braid); 8 rewritten nodes verified, zero gloss corrections needed.
+3. ~~Argument 14 empty Claim~~ **Not a defect** — the claim exists under `## Core claim` (heading variant vs siblings' `## Claim`). Optional normalisation is Frank's call; no inbound anchors target the heading.
+4. ~~Empty SOURCE.md shells~~ **Done** — Kripke (Harvard 1980 book edition, citation-ready/no-excerpts) and Chang (Singing Dragon 2014 reprint of Harper & Row 1975, citation-ready/no-excerpts) populated; projections rebuilt clean. **Corrected live counts: 111 houses / 288 passage locators.**
+5. ~~README stale counts~~ **Done** — `sources/README.md` now points at the generated projections as the live inventory.
+6. Section body schema bimodal (28 card / 19 movement / 1 bespoke) — **open**, for the flow-refinement phase; decide, don't drift.
+7. 6 of 9 transverse threads lack path files — **open**, for the flow-refinement phase.
+8. ~~CLAUDE.md stale spots~~ **Done** — 17→20 arguments corrected; `.claude/skills/` symlinks restored (4 project skills + writing-guidance-tools); new governing-doc entries added (expression grammar, process ledger, this index).
+9. 9 specialist lens skills + `/mef-refract` not yet revised to the 07-29 content-agnostic framing — **open**, vault-reorganisation phase.
+10. `_to_delete/quilt-append-015retbf-consumed.md` — **left staged** (Frank's deletion queue; his confirmation).
+11. Stale test expectation fixed: `tests/test_skill_contracts.py` still asserted the pre-renesting source path; updated to `sources/<primary_domain>/<author>/<source_id>/SOURCE.md`. All 6 tests green.
+12. Proposed to Frank, untouched: conversational tail at core-theorems file L494–498 (authorial file — removal is his edit).
+13. **Pre-existing test debt (verified failing at the frozen baseline `c679d02`, untouched by pre-phase):** `test_claude_compatibility` (1F), `test_learning_surfaces` (5E — Kaplan/marginalia contracts), `test_main_source_relations` (1F — curation currency), `test_source_house_migration` (2F/2E — Kaplan house, van-eenwyk presence, clean-canonical-file sweep). Same staleness class as the skill-contract path fixed in item 11; each encodes a real contract and needs individual investigation, not blanket repair — queue for a hygiene session. All other suites green (`test_skill_contracts` 6/6, `test_submission_package` 9/9, projections `--check` clean, room `--check` clean, essay-okf rebuilt at 230 files).
+
+**Pre-phase additions:** `essay-workshop/ql-expression-grammar.md` (expression law, subordinate); `essay-workshop/process-ledger.md` (append-only); writing-guidance migrated to skill form at `writing-guidance-tools/` (old stack archived at `archive-2026-07-14/`, comparative-and-negation-gate carried forward into `references/`); node 25 notation normalised to backtick convention.
 
 ## 8. Addendum (same day) — expression forms and writing guidance
 

@@ -1,2 +1,4 @@
 .DS_Store
 .bkmr/
+__pycache__/
+*.pyc
