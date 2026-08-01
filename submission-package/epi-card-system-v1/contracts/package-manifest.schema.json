@@ -1,0 +1,383 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:epi-card:schema:package-manifest:1.0.0",
+  "title": "Epi-Card portable package manifest",
+  "description": "Normative manifest for a .epicard directory or ZIP package. Paths are UTF-8, forward-slash-separated, package-relative, and MUST NOT contain dot segments.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "manifest_version",
+    "package_id",
+    "package_slug",
+    "product_version",
+    "created_at",
+    "engagement",
+    "disclosure",
+    "entrypoints",
+    "files",
+    "integrity"
+  ],
+  "properties": {
+    "$schema": {
+      "const": "urn:epi-card:schema:package-manifest:1.0.0"
+    },
+    "manifest_version": {
+      "const": "1.0.0"
+    },
+    "package_id": {
+      "$ref": "#/$defs/uuid"
+    },
+    "package_slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "minLength": 1,
+      "maxLength": 120
+    },
+    "product_version": {
+      "$ref": "#/$defs/semver"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "created_by_actor_id": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/uuid"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "engagement": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "engagement_id",
+        "engagement_revision_no",
+        "ql_frame_revision_id",
+        "ql_frame_sha256",
+        "profile_set_id",
+        "profile_set_sha256",
+        "database_schema_version",
+        "specification_sha256"
+      ],
+      "properties": {
+        "engagement_id": {
+          "$ref": "#/$defs/uuid"
+        },
+        "engagement_revision_no": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "ql_frame_revision_id": {
+          "$ref": "#/$defs/uuid"
+        },
+        "ql_frame_sha256": {
+          "$ref": "#/$defs/sha256"
+        },
+        "profile_set_id": {
+          "$ref": "#/$defs/uuid"
+        },
+        "profile_set_sha256": {
+          "$ref": "#/$defs/sha256"
+        },
+        "return_deposit_id": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/uuid"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "database_schema_version": {
+          "$ref": "#/$defs/semver"
+        },
+        "specification_sha256": {
+          "$ref": "#/$defs/sha256"
+        }
+      }
+    },
+    "disclosure": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "projection_id",
+        "projection_kind",
+        "projection_sha256",
+        "disclosure_manifest_sha256"
+      ],
+      "properties": {
+        "projection_id": {
+          "$ref": "#/$defs/uuid"
+        },
+        "projection_kind": {
+          "enum": [
+            "private",
+            "shared",
+            "public"
+          ]
+        },
+        "projection_sha256": {
+          "$ref": "#/$defs/sha256"
+        },
+        "disclosure_manifest_sha256": {
+          "$ref": "#/$defs/sha256"
+        }
+      }
+    },
+    "entrypoints": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "database",
+        "okf_root",
+        "validation_report",
+        "audit_summary"
+      ],
+      "properties": {
+        "database": {
+          "$ref": "#/$defs/packagePath"
+        },
+        "okf_root": {
+          "$ref": "#/$defs/packagePath"
+        },
+        "validation_report": {
+          "$ref": "#/$defs/packagePath"
+        },
+        "audit_summary": {
+          "$ref": "#/$defs/packagePath"
+        },
+        "master_video": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/packagePath"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "loop_video": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/packagePath"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "poster": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/packagePath"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "audio_master": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/packagePath"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "print_front": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/packagePath"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "print_back": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/packagePath"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      }
+    },
+    "renditions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "rendition_id",
+          "kind",
+          "revision_no",
+          "primary_path",
+          "sha256"
+        ],
+        "properties": {
+          "rendition_id": {
+            "$ref": "#/$defs/uuid"
+          },
+          "kind": {
+            "enum": [
+              "base_video",
+              "extended_video",
+              "loop_video",
+              "poster",
+              "audio_master",
+              "symbol_master",
+              "symbol_animation",
+              "print_front",
+              "print_back",
+              "okf_bundle",
+              "card_package",
+              "other"
+            ]
+          },
+          "revision_no": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "primary_path": {
+            "$ref": "#/$defs/packagePath"
+          },
+          "sha256": {
+            "$ref": "#/$defs/sha256"
+          }
+        }
+      }
+    },
+    "files": {
+      "type": "array",
+      "minItems": 4,
+      "items": {
+        "$ref": "#/$defs/fileEntry"
+      }
+    },
+    "integrity": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "algorithm",
+        "file_list_order",
+        "root_digest_input",
+        "root_sha256"
+      ],
+      "properties": {
+        "algorithm": {
+          "const": "sha256"
+        },
+        "file_list_order": {
+          "const": "path-codepoint-ascending"
+        },
+        "root_digest_input": {
+          "const": "For every files[] entry sorted by path using Unicode code-point order: lowercase sha256, two U+0020 spaces, path, U+000A. manifest.json is excluded."
+        },
+        "root_sha256": {
+          "$ref": "#/$defs/sha256"
+        }
+      }
+    }
+  },
+  "$defs": {
+    "uuid": {
+      "type": "string",
+      "format": "uuid"
+    },
+    "semver": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+(?:-[0-9A-Za-z.-]+)?(?:\\+[0-9A-Za-z.-]+)?$"
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "packagePath": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 1024,
+      "pattern": "^(?!/)(?!.*(?:^|/)\\.{1,2}(?:/|$))(?!.*\\\\)(?!.*//)[^\\u0000]+$"
+    },
+    "fileEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "path",
+        "sha256",
+        "byte_length",
+        "media_type",
+        "role",
+        "disclosure"
+      ],
+      "properties": {
+        "path": {
+          "$ref": "#/$defs/packagePath"
+        },
+        "sha256": {
+          "$ref": "#/$defs/sha256"
+        },
+        "byte_length": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "media_type": {
+          "type": "string",
+          "minLength": 3,
+          "maxLength": 255
+        },
+        "role": {
+          "enum": [
+            "database",
+            "asset",
+            "rendition",
+            "okf",
+            "validation_report",
+            "audit_summary",
+            "schema",
+            "other"
+          ]
+        },
+        "disclosure": {
+          "enum": [
+            "secret",
+            "private",
+            "shared",
+            "public"
+          ]
+        },
+        "asset_id": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/uuid"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "rendition_id": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/uuid"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

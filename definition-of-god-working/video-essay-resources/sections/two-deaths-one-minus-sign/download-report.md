@@ -1,0 +1,44 @@
+# Download Report
+
+Mode: downloaded
+
+- `apollo-daphne-bernini__apollo-daphne-september-2015-1a-jpg.jpg` — score 12 — File:Apollo & Daphne September 2015-1a.jpg
+  - Query: Apollo Daphne Bernini
+  - License: CC BY-SA 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:Apollo_%26_Daphne_September_2015-1a.jpg
+- `apollo-and-daphne-painting-public-domain__luca-giordano-apollo-and-daphne-jpg.jpg` — score 12 — File:Luca Giordano - Apollo and Daphne.jpg
+  - Query: Apollo and Daphne painting public domain
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Luca_Giordano_-_Apollo_and_Daphne.jpg
+- `echo-and-narcissus-john-william-waterhou__echo-and-narcissus-john-william-waterhouse-jpg.jpg` — score 18 — File:Echo and Narcissus - John William Waterhouse.jpg
+  - Query: Echo and Narcissus John William Waterhouse
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Echo_and_Narcissus_-_John_William_Waterhouse.jpg
+- `narcissus-caravaggio__narcissus-caravaggio-1594-96-jpg.jpg` — score 9 — File:Narcissus-Caravaggio (1594-96).jpg
+  - Query: Narcissus Caravaggio
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Narcissus-Caravaggio_%281594-96%29.jpg
+- `zoroaster-faravahar-relief__media-babylon-and-persia-including-a-study-of-the-zend-avesta-or-religion-of-zoroaster-fro.jpg` — score 12 — File:Media, Babylon and Persia - including a study of the Zend-Avesta or religion of Zoroaster, from the fall of Nineveh to the Persian war (1889) (14778104751).jpg
+  - Query: Zoroaster Faravahar relief
+  - License: No restrictions
+  - Source: https://commons.wikimedia.org/wiki/File:Media%2C_Babylon_and_Persia_-_including_a_study_of_the_Zend-Avesta_or_religion_of_Zoroaster%2C_from_the_fall_of_Nineveh_to_the_Persian_war_%281889%29_%2814778104751%29.jpg
+- `ares-aphrodite-hephaestus-net__mars-en-venus-verrast-door-vulcanus-rp-p-ob-15-475-jpg.jpg` — score 15 — File:Mars en Venus verrast door Vulcanus, RP-P-OB-15.475.jpg
+  - Query: Ares Aphrodite Hephaestus net
+  - License: CC0
+  - Source: https://commons.wikimedia.org/wiki/File:Mars_en_Venus_verrast_door_Vulcanus%2C_RP-P-OB-15.475.jpg
+- `cupid-and-psyche-lamp-painting__antonio-bellucci-amor-und-psyche-915-bavarian-state-painting-collections-jpg.jpg` — score 14 — File:Antonio Bellucci - Amor und Psyche - 915 - Bavarian State Painting Collections.jpg
+  - Query: Cupid and Psyche lamp painting
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Antonio_Bellucci_-_Amor_und_Psyche_-_915_-_Bavarian_State_Painting_Collections.jpg
+- `psyche-opening-golden-box__john-william-waterhouse-psyche-opening-the-golden-box-jpg.jpg` — score 14 — File:John William Waterhouse, Psyche Opening The Golden Box.jpg
+  - Query: Psyche opening golden box
+  - License: CC BY-SA 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:John_William_Waterhouse%2C_Psyche_Opening_The_Golden_Box.jpg
+- `ardhanarishvara-sculpture__11th-century-trishul-with-shaivism-ardhanarishvara-cleveland-museum-of-art-jpg.jpg` — score 9 — File:11th century Trishul with Shaivism Ardhanarishvara, Cleveland Museum of Art.jpg
+  - Query: Ardhanarishvara sculpture
+  - License: CC0
+  - Source: https://commons.wikimedia.org/wiki/File:11th_century_Trishul_with_Shaivism_Ardhanarishvara%2C_Cleveland_Museum_of_Art.jpg
+- `alchemy-rebis-manuscript__rebis-gif.gif` — score 8 — File:Rebis.gif
+  - Query: alchemy Rebis manuscript
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Rebis.gif

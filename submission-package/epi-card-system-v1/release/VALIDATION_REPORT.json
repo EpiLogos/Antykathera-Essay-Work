@@ -1,0 +1,268 @@
+{
+  "package": "Epi-Card QL Conjugate System",
+  "version": "1.0.0",
+  "validator": "scripts/validate-spec-package.py",
+  "passed": true,
+  "checks": [
+    {
+      "name": "required_files",
+      "passed": true,
+      "detail": {
+        "missing": [],
+        "required_count": 44
+      }
+    },
+    {
+      "name": "no_backup_files",
+      "passed": true,
+      "detail": {
+        "found": []
+      }
+    },
+    {
+      "name": "no_unresolved_markers",
+      "passed": true,
+      "detail": {}
+    },
+    {
+      "name": "no_invisible_control_characters",
+      "passed": true,
+      "detail": {}
+    },
+    {
+      "name": "google_adk_absent",
+      "passed": true,
+      "detail": {}
+    },
+    {
+      "name": "json_parse",
+      "passed": true,
+      "detail": {
+        "files": 14,
+        "errors": {}
+      }
+    },
+    {
+      "name": "json_schema_meta_validation",
+      "passed": true,
+      "detail": {
+        "schemas": 8,
+        "errors": {}
+      }
+    },
+    {
+      "name": "example_contract_validation",
+      "passed": true,
+      "detail": {}
+    },
+    {
+      "name": "yaml_parse",
+      "passed": true,
+      "detail": {
+        "files": 3,
+        "errors": {}
+      }
+    },
+    {
+      "name": "action_registry",
+      "passed": true,
+      "detail": {
+        "actions": 66,
+        "errors": []
+      }
+    },
+    {
+      "name": "action_payload_contracts",
+      "passed": true,
+      "detail": {
+        "indexed_actions": 66,
+        "errors": []
+      }
+    },
+    {
+      "name": "gate_predicate_registry",
+      "passed": true,
+      "detail": {
+        "predicates": 22,
+        "errors": []
+      }
+    },
+    {
+      "name": "gate_predicate_cross_references",
+      "passed": true,
+      "detail": {
+        "declared": 22,
+        "referenced": 22,
+        "undeclared_references": [],
+        "unreferenced": []
+      }
+    },
+    {
+      "name": "canonical_ql_frame",
+      "passed": true,
+      "detail": {
+        "positions": [
+          "P0",
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P0′",
+          "P1′",
+          "P2′",
+          "P3′",
+          "P4′",
+          "P5′"
+        ],
+        "traversal": [
+          "P0",
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P0′",
+          "P1′",
+          "P2′",
+          "P3′",
+          "P4′",
+          "P5′",
+          "P0+"
+        ]
+      }
+    },
+    {
+      "name": "canonical_address_encoding",
+      "passed": true,
+      "detail": {
+        "canonical": [
+          "P0",
+          "P1",
+          "P2",
+          "P3",
+          "P4",
+          "P5",
+          "P0′",
+          "P1′",
+          "P2′",
+          "P3′",
+          "P4′",
+          "P5′"
+        ],
+        "errors": []
+      }
+    },
+    {
+      "name": "package_manifest_semantics",
+      "passed": true,
+      "detail": {
+        "files": 5,
+        "errors": []
+      }
+    },
+    {
+      "name": "specification_hash_alignment",
+      "passed": true,
+      "detail": {
+        "specification_hash": "dfdaa496ef90261ba185510f2b65abde88e0ee6059dfd3fbbd47b7be3b07a902",
+        "errors": []
+      }
+    },
+    {
+      "name": "sqlite_ddl_and_seed",
+      "passed": true,
+      "detail": {
+        "tables": 70,
+        "seeded_actions": 66
+      }
+    },
+    {
+      "name": "sql_logical_schema_parity",
+      "passed": true,
+      "detail": {
+        "postgres_tables": 70,
+        "sqlite_tables": 70,
+        "errors": []
+      }
+    },
+    {
+      "name": "openapi_structure",
+      "passed": true,
+      "detail": {
+        "version": "3.1.0",
+        "paths": 13,
+        "missing_refs": []
+      }
+    },
+    {
+      "name": "action_registry_reproducibility",
+      "passed": true,
+      "detail": {
+        "returncode": 0,
+        "stdout": "Generated 66 actions",
+        "stderr": "",
+        "hashes_unchanged": true
+      }
+    },
+    {
+      "name": "action_payload_reproducibility",
+      "passed": true,
+      "detail": {
+        "returncode": 0,
+        "stdout": "Generated 66 input and 66 output schemas",
+        "stderr": "",
+        "hash_unchanged": true
+      }
+    },
+    {
+      "name": "skill_wrapper_executable",
+      "passed": true,
+      "detail": {
+        "path": "skills/epi-card/scripts/run-epicard",
+        "mode": "0o755"
+      }
+    },
+    {
+      "name": "skill_wrapper_syntax",
+      "passed": true,
+      "detail": {
+        "executable": "/bin/bash",
+        "returncode": 0,
+        "stderr": ""
+      }
+    },
+    {
+      "name": "agent_skill_frontmatter",
+      "passed": true,
+      "detail": {
+        "name": "epi-card",
+        "errors": []
+      }
+    },
+    {
+      "name": "typescript_ui_contract",
+      "passed": true,
+      "detail": {
+        "executable": "/Users/admin/Documents/Epi-Logos/Idea/epi-claw/node_modules/.bin/tsc",
+        "returncode": 0,
+        "stdout": "",
+        "stderr": ""
+      }
+    },
+    {
+      "name": "local_markdown_links",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "file_manifest_integrity",
+      "passed": true,
+      "detail": {
+        "entries": 42,
+        "errors": []
+      }
+    }
+  ],
+  "failures": []
+}

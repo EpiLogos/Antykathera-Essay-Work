@@ -1,0 +1,1 @@
+Mathematics and linguistic meaning are one at bottom - there is one universal language, known at the highest level as Logos, The Word or Para Vak. But heretofore these concepts have failed to recognise the mathematical co-essence of this metaphysical principle - this is why we, explicitly recognising mathematics in the Logos, go beyond Logos to a more comprehensive notion; Code.

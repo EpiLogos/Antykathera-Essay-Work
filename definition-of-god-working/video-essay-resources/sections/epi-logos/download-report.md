@@ -1,0 +1,48 @@
+# Download Report
+
+Mode: downloaded
+
+- `thoth-writing-egyptian-relief__luxortemplepm027-jpg.jpg` — score 13 — File:LuxorTemplePM027.jpg
+  - Query: Thoth writing Egyptian relief
+  - License: CC BY-SA 3.0
+  - Source: https://commons.wikimedia.org/wiki/File:LuxorTemplePM027.jpg
+- `egyptian-scribe-palette__egyptian-scribe-s-palette-with-two-reed-pens-penn-museum-jpg.jpg` — score 12 — File:Egyptian Scribe's palette with two reed pens Penn Museum.jpg
+  - Query: Egyptian scribe palette
+  - License: CC BY-SA 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:Egyptian_Scribe%27s_palette_with_two_reed_pens_Penn_Museum.jpg
+- `ptah-relief-memphis__memphis-museum-lower-half-of-a-statue-of-ptah-in-alabaster-jpg.jpg` — score 12 — File:Memphis - Museum - Lower half of a statue of Ptah in alabaster.JPG
+  - Query: Ptah relief Memphis
+  - License: CC BY-SA 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:Memphis_-_Museum_-_Lower_half_of_a_statue_of_Ptah_in_alabaster.JPG
+- `shabaka-stone-british-museum__british-museum-6424753957-jpg.jpg` — score 15 — File:British Museum (6424753957).jpg
+  - Query: Shabaka Stone British Museum
+  - License: CC BY 2.0
+  - Source: https://commons.wikimedia.org/wiki/File:British_Museum_%286424753957%29.jpg
+- `hermes-trismegistus-engraving__hermestrismegistuscauchighreshighcontr-svg.png` — score 14 — File:HermesTrismegistusCaucHighResHighContr.svg
+  - Query: Hermes Trismegistus engraving
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:HermesTrismegistusCaucHighResHighContr.svg
+- `greek-manuscript-marginalia__greek-medical-texts-wellcome-l0050065-jpg.jpg` — score 16 — File:Greek Medical Texts Wellcome L0050065.jpg
+  - Query: Greek manuscript marginalia
+  - License: CC BY 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:Greek_Medical_Texts_Wellcome_L0050065.jpg
+- `medieval-mathematical-manuscript__treatises-on-natural-science-philosophy-and-mathematics-planets-jpg.jpg` — score 11 — File:Treatises On Natural Science, Philosophy, And Mathematics - Planets.jpg
+  - Query: medieval mathematical manuscript
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Treatises_On_Natural_Science%2C_Philosophy%2C_And_Mathematics_-_Planets.jpg
+- `codex-manuscript-annotation__codex-bodmer-127-059v-detail-jpg.jpg` — score 16 — File:Codex Bodmer 127 059v Detail.jpg
+  - Query: codex manuscript annotation
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Codex_Bodmer_127_059v_Detail.jpg
+- `ada-lovelace-notes__houghton-ac85-su662-zz843m-inscription-jpg.jpg` — score 12 — File:Houghton AC85.Su662.Zz843m - inscription.jpg
+  - Query: Ada Lovelace notes
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Houghton_AC85.Su662.Zz843m_-_inscription.jpg
+- `turing-machine-diagram__turing-machine-turing-s-first-machine-jpg.jpg` — score 9 — File:Turing machine Turing's first machine.JPG
+  - Query: Turing machine diagram
+  - License: CC BY-SA 3.0
+  - Source: https://commons.wikimedia.org/wiki/File:Turing_machine_Turing%27s_first_machine.JPG
+- `early-computer-memory-core__memories-of-the-saturn-v-49622589023-jpg.jpg` — score 17 — File:Memories of the Saturn V (49622589023).jpg
+  - Query: early computer memory core
+  - License: CC BY 2.0
+  - Source: https://commons.wikimedia.org/wiki/File:Memories_of_the_Saturn_V_%2849622589023%29.jpg

@@ -1,0 +1,1 @@
+The Mind of Man is just a series of failed attempts to deal with the Unknown, in the process of which, however, we deal with a lot of unknowns.

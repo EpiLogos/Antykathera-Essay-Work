@@ -1,0 +1,44 @@
+# Download Report
+
+Mode: downloaded
+
+- `newton-prism-dispersion__experiment-dels-primes-d-isaac-newton-refracci-de-la-llum-png.png` — score 14 — File:Experiment dels primes d'Isaac Newton - Refracció de la llum.png
+  - Query: Newton prism dispersion
+  - License: CC BY-SA 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:Experiment_dels_primes_d%27Isaac_Newton_-_Refracci%C3%B3_de_la_llum.png
+- `isaac-newton-opticks-prism-diagram__diagrams-of-optical-phenomena-including-the-rainbow-the-double-icelandic-spar-and-prism-re.jpg` — score 8 — File:Diagrams of optical phenomena, including the rainbow, the double Icelandic spar, and prism refraction LCCN92518614.jpg
+  - Query: Isaac Newton Opticks prism diagram
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Diagrams_of_optical_phenomena%2C_including_the_rainbow%2C_the_double_Icelandic_spar%2C_and_prism_refraction_LCCN92518614.jpg
+- `prism-dispersion-white-light-spectrum__dispersionprisme-jpg.jpg` — score 20 — File:DispersionPrisme.jpg
+  - Query: Prism dispersion white light spectrum
+  - License: CC BY-SA 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:DispersionPrisme.jpg
+- `circle-geometry-manuscript__fotothek-df-tg-0000046-geometrie-vermessung-winkelmesser-jpg.jpg` — score 13 — File:Fotothek df tg 0000046 Geometrie ^ Vermessung ^ Winkelmesser.jpg
+  - Query: Circle geometry manuscript
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0000046_Geometrie_%5E_Vermessung_%5E_Winkelmesser.jpg
+- `euclid-elements-circle-diagram__the-first-six-books-of-the-elements-of-euclid-jpg.jpg` — score 14 — File:The First Six Books of the Elements of Euclid.jpg
+  - Query: Euclid Elements circle diagram
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:The_First_Six_Books_of_the_Elements_of_Euclid.jpg
+- `mathematical-manuscript-geometry-circle__on-the-sphere-and-the-cylinder-on-the-measurement-of-the-circle-on-conoids-and-spheroids-o.jpg` — score 17 — File:On the Sphere and the Cylinder; On the Measurement of the Circle; On Conoids and Spheroids; On Spirals; On the Equilibrium of Planes; On the Quadrature of the Parabola; The Sand Reckoner WDL10646.jpg
+  - Query: Mathematical manuscript geometry circle
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:On_the_Sphere_and_the_Cylinder%3B_On_the_Measurement_of_the_Circle%3B_On_Conoids_and_Spheroids%3B_On_Spirals%3B_On_the_Equilibrium_of_Planes%3B_On_the_Quadrature_of_the_Parabola%3B_The_Sand_Reckoner_WDL10646.jpg
+- `torus-mathematical-surface__ring-torus-to-degenerate-torus-short-gif.gif` — score 12 — File:Ring Torus to Degenerate Torus (Short).gif
+  - Query: Torus mathematical surface
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Ring_Torus_to_Degenerate_Torus_%28Short%29.gif
+- `torus-topology-diagram__cosmic-topology-1-intuitive-svg.png` — score 10 — File:Cosmic topology 1 intuitive.svg
+  - Query: Torus topology diagram
+  - License: CC BY-SA 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:Cosmic_topology_1_intuitive.svg
+- `blackboard-mathematical-notation__blackboard-bold-on-a-blackboard-jpg.jpg` — score 12 — File:Blackboard bold on a blackboard.jpg
+  - Query: Blackboard mathematical notation
+  - License: CC BY-SA 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:Blackboard_bold_on_a_blackboard.jpg
+- `handwritten-mathematical-formula-manuscr__text-page-to-prima-pars-huius-libri-de-cosmographi-geographi-principiis-5-ia-dr-text-page-.jpg` — score 12 — File:Text Page to) Prima pars huius libri de cosmographiæ & geographiæ principiis. (5 (IA dr text-page-to-prima-pars-huius-libri-de-cosmographi-geographi-principi-14336011).jpg
+  - Query: Handwritten mathematical formula manuscript
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Text_Page_to%29_Prima_pars_huius_libri_de_cosmographi%C3%A6_%26_geographi%C3%A6_principiis._%285_%28IA_dr_text-page-to-prima-pars-huius-libri-de-cosmographi-geographi-principi-14336011%29.jpg

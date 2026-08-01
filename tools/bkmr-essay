@@ -1,0 +1,430 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+BKMR_BIN="${BKMR_BIN:-bkmr}"
+STATE_DIR="$ROOT/.bkmr"
+ADAPTER_ROOT="$STATE_DIR/adapters"
+MANIFEST="$STATE_DIR/manifest.tsv"
+
+usage() {
+  cat <<'USAGE'
+Usage:
+  bkmr-essay status
+  bkmr-essay sync <records|passages|arguments|sections|concepts|rooms> [--dry-run] [--semantic-provider gemini|openai]
+  bkmr-essay search <records|passages|arguments|sections|concepts|rooms> "fts query" [--limit N]
+  bkmr-essay query <records|passages|arguments|sections|concepts|rooms> "semantic query" --semantic-provider gemini|openai [--limit N]
+  bkmr-essay doctor <records|passages|arguments|sections|concepts|rooms> [--json]
+
+The canonical vault is never imported directly. `sync` derives small adapters under
+.bkmr/adapters and records their provenance in .bkmr/manifest.tsv. Semantic mode is
+an explicit opt-in because it sends adapter content to the chosen embedding provider.
+USAGE
+}
+
+collection_db() {
+  case "$1" in
+    records|passages|arguments|sections|concepts|rooms) printf '%s/db/%s.sqlite' "$STATE_DIR" "$1" ;;
+    *) printf 'Unknown collection: %s\n' "$1" >&2; exit 64 ;;
+  esac
+}
+
+require_collection() {
+  case "$1" in records|passages|arguments|sections|concepts|rooms) ;; *) usage >&2; exit 64 ;; esac
+}
+
+generate_adapters() {
+  local requested="$1"
+  mkdir -p "$ADAPTER_ROOT/$requested" "$STATE_DIR/db"
+  ruby - "$ROOT" "$ADAPTER_ROOT" "$MANIFEST" "$requested" <<'RUBY'
+require 'yaml'
+require 'digest'
+require 'fileutils'
+require 'json'
+require 'set'
+
+root, adapters, manifest, collection = ARGV
+FileUtils.rm_rf(File.join(adapters, collection))
+FileUtils.mkdir_p(File.join(adapters, collection))
+
+def frontmatter(path)
+  text = File.read(path, encoding: 'UTF-8')
+  return [{}, text] unless text.start_with?("---\n")
+  _, raw, body = text.split(/^---\s*$/, 3)
+  [YAML.safe_load(raw, aliases: true) || {}, body || '']
+rescue Psych::Exception
+  [{}, '']
+end
+
+def clean(value)
+  value.to_s.gsub(/[\r\n\t]+/, ' ').strip
+end
+
+def slug(value)
+  value.to_s.downcase.gsub(/[^a-z0-9]+/, '-').sub(/^-/, '').sub(/-$/, '')
+end
+
+def write_adapter(dir, doc, rows)
+  name = clean(doc.fetch(:name))
+  id = clean(doc.fetch(:id))
+  tags = Array(doc.fetch(:tags)).map { |tag| slug(clean(tag)) }.reject(&:empty?).join(',')
+  file = File.join(dir, "#{slug(id)}.md")
+  File.write(file, "---\nname: #{name.to_json}\ntags: #{tags.to_json}\ntype: \"md\"\n---\n\n#{rows.join("\n")}\n", encoding: 'UTF-8')
+  file
+end
+
+def canonical_sources(root)
+  houses = {}
+  Dir.glob(File.join(root, 'essay-workshop/sources-texts-references/source-bank/sources/**/SOURCE.md')).sort.each do |path|
+    next if File.zero?(path)
+    data, = frontmatter(path)
+    id = data['source_id'].to_s
+    houses[id] = path unless id.empty?
+  end
+  houses
+end
+
+def heading_index(body)
+  body.scan(/^\#{2,6}\s+(.+?)\s*$/).flatten.map { |heading| heading.gsub('`', '').strip }
+end
+
+def body_without_passages(body)
+  body.gsub(/^## Passages\s*$.*?(?=^##\s+|\z)/m, '').strip
+end
+
+def field_from_card(content, *names)
+  names.each do |name|
+    match = content.match(/^\s*(?:[-*]\s*)?(?:\*\*)?#{Regexp.escape(name)}\s*:\s*(?:\*\*)?\s*(.+?)\s*$/i)
+    return clean(match[1]).delete_prefix('`').delete_suffix('`') if match
+  end
+  ''
+end
+
+def legacy_row_fields(content, passage_id)
+  content.each_line do |line|
+    cells = line.strip.sub(/^\|/, '').sub(/\|$/, '').split('|').map { |cell| clean(cell).delete_prefix('`').delete_suffix('`') }
+    return [cells[2], cells[3], cells[4]] if cells.length >= 5 && cells[0] == passage_id
+  end
+  ['', '', '']
+end
+
+def source_provenance(body)
+  match = body.match(/^(?:access_provenance|edition_consulted|edition)\s*:\s*["']?(.+?)["']?\s*$/i)
+  match ? clean(match[1]).delete_prefix('"').delete_suffix('"') : ''
+end
+
+def redact_transcription(value)
+  value.to_s.gsub(/“[^”]*”|‘[^’]*’|"[^"]*"/, '[transcription omitted]')
+end
+
+def passage_cards(body, source_id = '')
+  headings = body.enum_for(:scan, /^(\#{2,6})\s+(.+?)\s*$/).map { Regexp.last_match }
+  cards = []
+  anchors = body.enum_for(:scan, /<a\s+(?:[^>]*?\s)?id=["']([^"']+)["'][^>]*><\/a>/i).map { Regexp.last_match }
+  unless anchors.empty?
+    anchors.each do |anchor|
+      id = anchor[1]
+      next unless !source_id.empty? && id.downcase.start_with?(source_id.downcase + '-')
+      match = headings.find { |heading| heading.begin(0) > anchor.end(0) }
+      abort "Passage anchor has no following heading: #{id}" unless match
+      finish = headings.find { |candidate| candidate.begin(0) > match.begin(0) && candidate[1].length <= match[1].length }
+      content = body[match.end(0)...(finish ? finish.begin(0) : body.length)].strip
+      cards << [id, match[2].gsub('`', '').strip, content]
+    end
+    return cards
+  end
+  headings.each_with_index do |match, index|
+    id = match[2][/[a-z0-9][a-z0-9-]*(?:-q\d{3,}|-p\d{3,})/i]
+    next unless id
+    finish = headings[(index + 1)..].to_a.find { |candidate| candidate[1].length <= match[1].length }
+    content = body[match.end(0)...(finish ? finish.begin(0) : body.length)].strip
+    cards << [id, match[2].gsub('`', '').strip, content]
+  end
+  cards
+end
+
+records = []
+case collection
+when 'records'
+  canonical_sources(root).sort.each do |_, path|
+    data, body = frontmatter(path)
+    next if data['source_id'].to_s.empty?
+    rel = path.delete_prefix(root + '/')
+    id = data['source_id']
+    quote_status = data['quotation_status'] || data['quote_status'] || 'unspecified'
+    house = File.basename(path) == 'SOURCE.md'
+    searchable_body = house ? '' : body
+    output = write_adapter(File.join(adapters, collection), {
+      id: id, name: data['title'] || id,
+      tags: ['collection-records', "source-#{id}", "citation-#{data['citation_status']}", "quote-#{quote_status}"]
+    }, ["canonical_path: #{rel}", "source_id: #{id}", "record_type: #{house ? 'source-house' : data['record_type']}", "citation_status: #{data['citation_status']}", "quotation_status: #{quote_status}", "main_source_for: #{Array(data['main_source_for']).join(', ')}", "source_role: #{Array(data['source_role']).join(', ')}", "consumers: #{Array(data['consumed_by_arguments']).join('; ')}", "headings: #{heading_index(body).join('; ')}", "retrieval_scope: canonical source house metadata; open canonical_path for the self-contained reading and evidence object", "", searchable_body])
+    records << [id, collection, rel, data['title'] || id, data['citation_status'], quote_status, '', Array(data['consumed_by_arguments']).join('; '), Digest::SHA256.file(path).hexdigest]
+  end
+when 'arguments', 'sections', 'concepts'
+  subdir = collection
+  Dir.glob(File.join(root, "essay-workshop/nodes/#{subdir}/*.md")).sort.each do |path|
+    data, body = frontmatter(path)
+    title = data['title'] || File.basename(path, '.md')
+    id = "#{collection}-#{File.basename(path, '.md')}"
+    rel = path.delete_prefix(root + '/')
+    sources = Array(data['source_ids']).join(', ')
+    coords = Array(data['coordinates']).join(', ')
+    output = write_adapter(File.join(adapters, collection), {
+      id: id, name: title,
+      tags: ["collection-#{collection}", "node-#{File.basename(path, '.md')}", "status-#{data['claim_status'] || data['status'] || 'unspecified'}"]
+    }, ["canonical_path: #{rel}", "node_id: #{id}", "title: #{title}", "status: #{data['claim_status'] || data['status'] || 'unspecified'}", "coordinates: #{coords}", "source_ids: #{sources}", "frontmatter: #{data.to_json}", "retrieval_scope: canonical full body; generated adapter only", "", body.strip])
+    records << [id, collection, rel, title, data['claim_status'] || data['status'], '', '', sources, Digest::SHA256.file(path).hexdigest]
+  end
+when 'passages'
+  paths = Dir.glob(File.join(root, 'essay-workshop/sources-texts-references/source-bank/sources/**/SOURCE.md')).sort
+  paths.each do |path|
+    next if File.basename(path).start_with?('_')
+    next if File.zero?(path)
+    data, body = frontmatter(path)
+    source_id = data['source_id'].to_s
+    next if source_id.empty?
+    rel = path.delete_prefix(root + '/')
+    default_status = data['quotation_status'] || data['quote_status'] || 'unspecified'
+    passage_cards(body, source_id).each do |quote_id, heading, passage|
+      row_locator, row_status, row_provenance = legacy_row_fields(body, quote_id)
+      locator = field_from_card(passage, 'Locator', 'Edition locator')
+      locator = row_locator if locator.empty?
+      status = field_from_card(passage, 'Quotation status', 'Quote status', 'Status')
+      status = row_status if status.empty?
+      status = default_status if status.empty?
+      provenance = field_from_card(passage, 'Provenance', 'Carrier', 'Verification', 'Access provenance')
+      provenance = row_provenance if provenance.empty?
+      provenance = source_provenance(body) if provenance.empty?
+      provenance = redact_transcription(provenance)
+      write_adapter(File.join(adapters, collection), {
+        id: quote_id, name: heading,
+        tags: ['collection-passages', "source-#{source_id}", "status-#{status}"]
+      }, ["canonical_path: #{rel}", "passage_id: #{quote_id}", "source_id: #{source_id}", "locator: #{locator}", "quotation_status: #{status}", "provenance: #{provenance}", "retrieval_scope: locator only; open canonical_path##{quote_id} for the single canonical transcription"])
+      records << [quote_id, collection, rel, heading, '', status, locator, Array(data['consumed_by_arguments']).join('; '), Digest::SHA256.file(path).hexdigest]
+    end
+  end
+when 'rooms'
+  all_rooms = Dir.glob(File.join(root, 'essay-workshop/section-rooms/**/*.md')).sort
+  migrated_rooms = all_rooms.select { |path| File.basename(path) == 'ROOM.md' }.map { |path| File.dirname(path) }.to_set
+  all_rooms.each do |path|
+    next if path.split(File::SEPARATOR).include?('legacy')
+    if migrated_rooms.include?(File.dirname(path))
+      next unless %w[ROOM.md READING.md SCRATCH.md VISUALS.md].include?(File.basename(path))
+    end
+    data, body = frontmatter(path)
+    rel = path.delete_prefix(root + '/')
+    room = File.basename(File.dirname(path))
+    id = "rooms-#{room}-#{File.basename(path, '.md')}"
+    title = data['title'] || body[/^#\s+(.+)$/, 1] || id
+    write_adapter(File.join(adapters, collection), {
+      id: id, name: title,
+      tags: ['collection-rooms', "room-#{room}", "stage-#{data['stage'] || 'unspecified'}"]
+    }, ["canonical_path: #{rel}", "room_id: #{room}", "stage: #{data['stage']}", "retrieval_scope: canonical room body; generated adapter only", "", body.strip])
+    records << [id, collection, rel, title, data['stage'], '', '', room, Digest::SHA256.file(path).hexdigest]
+  end
+end
+
+duplicate_ids = records.group_by { |row| row[0] }.select { |_, rows| rows.length > 1 }
+unless duplicate_ids.empty?
+  details = duplicate_ids.map { |id, rows| "#{id} (#{rows.map { |row| row[2] }.uniq.join(', ')})" }.join('; ')
+  abort "Duplicate #{collection} adapter IDs: #{details}"
+end
+records = records.map do |row|
+  adapter = File.join(adapters, collection, "#{slug(row[0])}.md")
+  row + [File.exist?(adapter) ? Digest::SHA256.file(adapter).hexdigest : '']
+end
+header = "doc_id\tcollection\tcanonical_path\ttitle\tcitation_or_claim_status\tquote_status\tlocator\tconsumers\tcontent_sha256\tadapter_sha256\n"
+existing = File.exist?(manifest) ? File.readlines(manifest, encoding: 'UTF-8')[1..] : []
+existing.reject! { |line| ['studies', collection].include?(line.split("\t", 3)[1]) }
+File.write(manifest, header + (existing + records.map { |row| row.map { |value| clean(value) }.join("\t") + "\n" }).join, encoding: 'UTF-8')
+puts "Generated #{records.length} #{collection} adapters."
+RUBY
+}
+
+collection_fingerprint() {
+  local collection="$1"
+  ruby -rdigest -e '
+    manifest, collection = ARGV
+    rows = File.exist?(manifest) ? File.readlines(manifest, encoding: "UTF-8").drop(1) : []
+    selected = rows.select { |row| row.split("\t", 3)[1] == collection }.sort.join
+    print Digest::SHA256.hexdigest(selected)
+  ' "$MANIFEST" "$collection"
+}
+
+manifest_count() {
+  local collection="$1"
+  ruby -e '
+    manifest, collection = ARGV
+    rows = File.exist?(manifest) ? File.readlines(manifest, encoding: "UTF-8").drop(1) : []
+    puts rows.count { |row| row.split("\t", 3)[1] == collection }
+  ' "$MANIFEST" "$collection"
+}
+
+database_count() {
+  local collection="$1" db
+  db="$(collection_db "$collection")"
+  if [[ ! -f "$db" ]]; then
+    printf '0'
+    return
+  fi
+  sqlite3 "$db" 'select count(*) from bookmarks;' 2>/dev/null || printf 'invalid'
+}
+
+database_state() {
+  local collection="$1" db stamp expected actual expected_count actual_count
+  db="$(collection_db "$collection")"
+  stamp="$STATE_DIR/db/$collection.sha256"
+  if [[ ! -f "$db" ]]; then
+    printf 'absent'
+    return
+  fi
+  if [[ ! -f "$stamp" ]]; then
+    printf 'stale'
+    return
+  fi
+  expected="$(collection_fingerprint "$collection")"
+  actual="$(<"$stamp")"
+  if [[ "$expected" != "$actual" ]]; then
+    printf 'stale'
+    return
+  fi
+  expected_count="$(manifest_count "$collection")"
+  actual_count="$(database_count "$collection")"
+  [[ "$expected_count" == "$actual_count" ]] && printf 'fresh' || printf 'incomplete'
+}
+
+require_fresh_database() {
+  local collection="$1" state
+  state="$(database_state "$collection")"
+  [[ "$state" == "fresh" ]] || {
+    printf '%s database is %s; run bkmr-essay sync %s before searching.\n' "$collection" "$state" "$collection" >&2
+    exit 1
+  }
+}
+
+literal_safe_fts_query() {
+  local query="$1" token rendered="" separator=""
+  local -a tokens=()
+  read -r -a tokens <<< "$query"
+  for token in "${tokens[@]}"; do
+    if [[ "$token" == *-* && "$token" != \"*\" ]]; then
+      token="\"$token\""
+    fi
+    rendered+="$separator$token"
+    separator=" "
+  done
+  printf '%s' "$rendered"
+}
+
+doctor() {
+  local collection="$1" json="${2:-}" state db_count
+  state="$(database_state "$collection")"
+  db_count="$(database_count "$collection")"
+  ruby -rjson -rdigest - "$ROOT" "$MANIFEST" "$ADAPTER_ROOT" "$collection" "$state" "$db_count" "$json" <<'RUBY'
+root, manifest, adapters, collection, database_state, database_count, json_flag = ARGV
+rows = File.exist?(manifest) ? File.readlines(manifest, encoding: 'UTF-8').drop(1) : []
+selected = rows.map { |row| row.chomp.split("\t", -1) }.select { |fields| fields[1] == collection }
+stale_canonical = []
+stale_generated = []
+selected.each do |fields|
+  path = File.join(root, fields[2])
+  stale_canonical << fields[0] unless File.exist?(path) && Digest::SHA256.file(path).hexdigest == fields[8]
+  adapter = File.join(adapters, collection, fields[0].downcase.gsub(/[^a-z0-9]+/, '-').sub(/^-/, '').sub(/-$/, '') + '.md')
+  stale_generated << fields[0] unless fields[9] && File.exist?(adapter) && Digest::SHA256.file(adapter).hexdigest == fields[9]
+end
+actual_adapter_count = Dir.glob(File.join(adapters, collection, '*.md')).length
+result = {
+  collection: collection,
+  adapter_count: selected.length,
+  adapter_fresh: stale_canonical.empty? && stale_generated.empty? && actual_adapter_count == selected.length,
+  stale_canonical_ids: stale_canonical,
+  stale_generated_ids: stale_generated,
+  actual_adapter_count: actual_adapter_count,
+  database_state: database_state,
+  database_count: database_count == 'invalid' ? nil : database_count.to_i
+}
+if json_flag == '--json'
+  puts JSON.generate(result)
+else
+  puts JSON.pretty_generate(result)
+end
+RUBY
+}
+
+sync() {
+  local collection="$1"; shift
+  local dry_run=false provider=""
+  while (($#)); do
+    case "$1" in
+      --dry-run) dry_run=true ;;
+      --semantic-provider) provider="${2:-}"; shift ;;
+      *) usage >&2; exit 64 ;;
+    esac
+    shift
+  done
+  [[ -z "$provider" || "$provider" == "gemini" || "$provider" == "openai" ]] || { printf 'Provider must be gemini or openai.\n' >&2; exit 64; }
+  generate_adapters "$collection"
+  local db; db="$(collection_db "$collection")"
+  if [[ "$dry_run" == true ]]; then
+    if [[ ! -f "$db" ]]; then
+      printf 'No %s database yet; adapters and manifest were generated, but no database was created in dry-run mode.\n' "$collection"
+      return
+    fi
+    BKMR_DB_URL="$db" "$BKMR_BIN" import-files --dry-run --update "$ADAPTER_ROOT/$collection"
+    return
+  fi
+  # bkmr 6.5.0's --update importer appends duplicates for changed Markdown
+  # adapters. These databases are disposable retrieval caches, so rebuild the
+  # selected isolated collection deterministically from the generated manifest.
+  rm -f "$db"
+  "$BKMR_BIN" create-db "$db"
+  if [[ -n "$provider" ]]; then
+    BKMR_DB_URL="$db" "$BKMR_BIN" "--$provider" import-files "$ADAPTER_ROOT/$collection"
+  else
+    BKMR_DB_URL="$db" "$BKMR_BIN" import-files "$ADAPTER_ROOT/$collection"
+  fi
+  collection_fingerprint "$collection" > "$STATE_DIR/db/$collection.sha256"
+}
+
+main() {
+  (($#)) || { usage; exit 64; }
+  local command="$1"; shift
+  case "$command" in
+    status)
+      printf 'BKMR executable: '; "$BKMR_BIN" --version
+      for collection in records passages arguments sections concepts rooms; do
+        db="$(collection_db "$collection")"
+        printf '%-10s %s (%s)\n' "$collection" "$db" "$(database_state "$collection")"
+      done
+      [[ -f "$MANIFEST" ]] && printf 'Manifest: %s\n' "$MANIFEST" || printf 'Manifest: absent (run sync --dry-run)\n'
+      ;;
+    sync)
+      collection="${1:-}"; shift || true; require_collection "$collection"; sync "$collection" "$@"
+      ;;
+    doctor)
+      collection="${1:-}"; shift || true; require_collection "$collection"
+      [[ $# -eq 0 || ( $# -eq 1 && "$1" == "--json" ) ]] || { usage >&2; exit 64; }
+      doctor "$collection" "${1:-}"
+      ;;
+    search)
+      collection="${1:-}"; query="${2:-}"; shift 2 || true; require_collection "$collection"; [[ -n "$query" ]] || { usage >&2; exit 64; }
+      limit=10; [[ "${1:-}" == "--limit" ]] && { limit="${2:-10}"; shift 2; }; (($# == 0)) || { usage >&2; exit 64; }
+      require_fresh_database "$collection"
+      db="$(collection_db "$collection")"
+      query="$(literal_safe_fts_query "$query")"
+      BKMR_DB_URL="$db" "$BKMR_BIN" search --json --limit "$limit" "$query"
+      ;;
+    query)
+      collection="${1:-}"; query="${2:-}"; shift 2 || true; require_collection "$collection"; [[ -n "$query" ]] || { usage >&2; exit 64; }
+      provider=""; limit=10
+      while (($#)); do case "$1" in --semantic-provider) provider="${2:-}"; shift 2 ;; --limit) limit="${2:-10}"; shift 2 ;; *) usage >&2; exit 64 ;; esac; done
+      [[ "$provider" == "gemini" || "$provider" == "openai" ]] || { printf 'Semantic querying requires explicit --semantic-provider gemini|openai.\n' >&2; exit 64; }
+      require_fresh_database "$collection"
+      db="$(collection_db "$collection")"
+      BKMR_DB_URL="$db" "$BKMR_BIN" "--$provider" sem-search --limit "$limit" "$query"
+      ;;
+    *) usage >&2; exit 64 ;;
+  esac
+}
+
+main "$@"

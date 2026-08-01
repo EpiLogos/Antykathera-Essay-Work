@@ -1,0 +1,457 @@
+{
+  "frame_version": "1.0.0",
+  "engagement_id": "fae0da36-f3fd-5e80-b26c-4d5287b7792d",
+  "threshold": {
+    "pasu_snapshot_id": "ddfa8cd3-50d1-55c4-816c-e603d9113c61",
+    "session_ids": [
+      "b6490ee6-34b7-52cc-bac5-4f68a9476662"
+    ],
+    "temporal_snapshot_id": "dc3f2cd6-de8a-5668-b1e3-9bb01ed7eb68",
+    "attractor_revision_id": "ab5ec106-2bd9-5e05-a8ce-a69ce6b4b1aa",
+    "question": "What symbolic form gathers this engagement?",
+    "intention": "Resolve one situated constellation through the full conjugate QL frame.",
+    "talismanic_activation_id": null,
+    "active_lens": {
+      "id": "canonical-day-night",
+      "version": "1.0.0"
+    },
+    "profile_set": {
+      "ql": "ql-core-1.0.0",
+      "resonance": "resonance-baseline-1.0.0"
+    },
+    "source_form_ids": [
+      "b934ce25-29e8-5ffd-94e3-4836008bacd6"
+    ],
+    "disclosure": "private"
+  },
+  "positions": {
+    "P0": {
+      "id": "d759d9dc-362c-5946-860c-1e1e88aba720",
+      "address": "P0",
+      "phase": "bimba",
+      "index": 0,
+      "canonical_unit": "Truth",
+      "canonical_question": "Why?",
+      "structural_role": "Ground / source / ever-present origin",
+      "local_label": null,
+      "local_question": null,
+      "short_summary": null,
+      "extended_articulation": null,
+      "occupancy": "latent",
+      "occupancy_reason": null,
+      "salience": 0.0,
+      "source_assignments": [],
+      "claims": [],
+      "resonance": null,
+      "symbol_state_id": null,
+      "scene_atom_id": null,
+      "audio_state_id": null,
+      "card_edge_index": 0,
+      "audit_status": "unstarted"
+    },
+    "P1": {
+      "id": "e2feffe5-e642-5a43-896a-42172d3b18f0",
+      "address": "P1",
+      "phase": "bimba",
+      "index": 1,
+      "canonical_unit": "Mind",
+      "canonical_question": "What?",
+      "structural_role": "First definition / material articulation",
+      "local_label": null,
+      "local_question": null,
+      "short_summary": null,
+      "extended_articulation": null,
+      "occupancy": "latent",
+      "occupancy_reason": null,
+      "salience": 0.0,
+      "source_assignments": [],
+      "claims": [],
+      "resonance": null,
+      "symbol_state_id": null,
+      "scene_atom_id": null,
+      "audio_state_id": null,
+      "card_edge_index": 1,
+      "audit_status": "unstarted"
+    },
+    "P2": {
+      "id": "4940e837-b839-5bc0-bba0-c48b572d3981",
+      "address": "P2",
+      "phase": "bimba",
+      "index": 2,
+      "canonical_unit": "Word",
+      "canonical_question": "How?",
+      "structural_role": "Dynamis / operation / energetic expression",
+      "local_label": null,
+      "local_question": null,
+      "short_summary": null,
+      "extended_articulation": null,
+      "occupancy": "latent",
+      "occupancy_reason": null,
+      "salience": 0.0,
+      "source_assignments": [],
+      "claims": [],
+      "resonance": null,
+      "symbol_state_id": null,
+      "scene_atom_id": null,
+      "audio_state_id": null,
+      "card_edge_index": 2,
+      "audit_status": "unstarted"
+    },
+    "P3": {
+      "id": "b2b48b20-a594-5b85-ab6a-9b983c0960e2",
+      "address": "P3",
+      "phase": "bimba",
+      "index": 3,
+      "canonical_unit": "Logos",
+      "canonical_question": "Who? Which? Whereby?",
+      "structural_role": "Pattern / identity / ordering relation",
+      "local_label": null,
+      "local_question": null,
+      "short_summary": null,
+      "extended_articulation": null,
+      "occupancy": "latent",
+      "occupancy_reason": null,
+      "salience": 0.0,
+      "source_assignments": [],
+      "claims": [],
+      "resonance": null,
+      "symbol_state_id": null,
+      "scene_atom_id": null,
+      "audio_state_id": null,
+      "card_edge_index": 3,
+      "audit_status": "unstarted"
+    },
+    "P4": {
+      "id": "aede34ef-5c5a-59db-b8df-87b75cba0ed3",
+      "address": "P4",
+      "phase": "bimba",
+      "index": 4,
+      "canonical_unit": "Son",
+      "canonical_question": "Where? When? Whither?",
+      "structural_role": "Context / horizon / situated embodiment",
+      "local_label": null,
+      "local_question": null,
+      "short_summary": null,
+      "extended_articulation": null,
+      "occupancy": "latent",
+      "occupancy_reason": null,
+      "salience": 0.0,
+      "source_assignments": [],
+      "claims": [],
+      "resonance": null,
+      "symbol_state_id": null,
+      "scene_atom_id": null,
+      "audio_state_id": null,
+      "card_edge_index": 4,
+      "audit_status": "unstarted"
+    },
+    "P5": {
+      "id": "8e974e83-9b98-556c-9fcb-3c65b46dc6db",
+      "address": "P5",
+      "phase": "bimba",
+      "index": 5,
+      "canonical_unit": "Image",
+      "canonical_question": "Why-for? Why-not?",
+      "structural_role": "Synthesis / integration / manifested whole",
+      "local_label": null,
+      "local_question": null,
+      "short_summary": null,
+      "extended_articulation": null,
+      "occupancy": "latent",
+      "occupancy_reason": null,
+      "salience": 0.0,
+      "source_assignments": [],
+      "claims": [],
+      "resonance": null,
+      "symbol_state_id": null,
+      "scene_atom_id": null,
+      "audio_state_id": null,
+      "card_edge_index": 5,
+      "audit_status": "unstarted"
+    },
+    "P0′": {
+      "id": "b5247997-d1f3-5fcd-abb6-4304c62b0685",
+      "address": "P0′",
+      "phase": "pratibimba",
+      "index": 0,
+      "canonical_unit": "Play",
+      "canonical_question": "Why, through groundlessness?",
+      "structural_role": "Abyss, freedom, ungrounded source condition",
+      "local_label": null,
+      "local_question": null,
+      "short_summary": null,
+      "extended_articulation": null,
+      "occupancy": "latent",
+      "occupancy_reason": null,
+      "salience": 0.0,
+      "source_assignments": [],
+      "claims": [],
+      "resonance": null,
+      "symbol_state_id": null,
+      "scene_atom_id": null,
+      "audio_state_id": null,
+      "card_edge_index": 0,
+      "audit_status": "unstarted"
+    },
+    "P1′": {
+      "id": "b8cf4e1e-5fb8-5970-b226-e0431fa962e0",
+      "address": "P1′",
+      "phase": "pratibimba",
+      "index": 1,
+      "canonical_unit": "Need",
+      "canonical_question": "What hidden form or trace remains?",
+      "structural_role": "Residue, evidence, demand, concealed definition",
+      "local_label": null,
+      "local_question": null,
+      "short_summary": null,
+      "extended_articulation": null,
+      "occupancy": "latent",
+      "occupancy_reason": null,
+      "salience": 0.0,
+      "source_assignments": [],
+      "claims": [],
+      "resonance": null,
+      "symbol_state_id": null,
+      "scene_atom_id": null,
+      "audio_state_id": null,
+      "card_edge_index": 1,
+      "audit_status": "unstarted"
+    },
+    "P2′": {
+      "id": "0197de88-3a4d-5e66-975f-6b1d7e661606",
+      "address": "P2′",
+      "phase": "pratibimba",
+      "index": 2,
+      "canonical_unit": "Sacrifice",
+      "canonical_question": "How does operation meet obstruction and cost?",
+      "structural_role": "Resistance, shadow, exchange, necessary loss",
+      "local_label": null,
+      "local_question": null,
+      "short_summary": null,
+      "extended_articulation": null,
+      "occupancy": "latent",
+      "occupancy_reason": null,
+      "salience": 0.0,
+      "source_assignments": [],
+      "claims": [],
+      "resonance": null,
+      "symbol_state_id": null,
+      "scene_atom_id": null,
+      "audio_state_id": null,
+      "card_edge_index": 2,
+      "audit_status": "unstarted"
+    },
+    "P3′": {
+      "id": "f2ac9066-8bc7-55d3-80f2-bff4a3002e1c",
+      "address": "P3′",
+      "phase": "pratibimba",
+      "index": 3,
+      "canonical_unit": "Decision",
+      "canonical_question": "Which pattern operates beneath the recognised pattern?",
+      "structural_role": "Cut, counter-pattern, recurrence, governing choice",
+      "local_label": null,
+      "local_question": null,
+      "short_summary": null,
+      "extended_articulation": null,
+      "occupancy": "latent",
+      "occupancy_reason": null,
+      "salience": 0.0,
+      "source_assignments": [],
+      "claims": [],
+      "resonance": null,
+      "symbol_state_id": null,
+      "scene_atom_id": null,
+      "audio_state_id": null,
+      "card_edge_index": 3,
+      "audit_status": "unstarted"
+    },
+    "P4′": {
+      "id": "b194fe10-5b88-519c-90b5-5b077f7014f5",
+      "address": "P4′",
+      "phase": "pratibimba",
+      "index": 4,
+      "canonical_unit": "Love",
+      "canonical_question": "Which sources and missed contexts reopen the horizon?",
+      "structural_role": "Context examining itself, care, embrace, reframing",
+      "local_label": null,
+      "local_question": null,
+      "short_summary": null,
+      "extended_articulation": null,
+      "occupancy": "latent",
+      "occupancy_reason": null,
+      "salience": 0.0,
+      "source_assignments": [],
+      "claims": [],
+      "resonance": null,
+      "symbol_state_id": null,
+      "scene_atom_id": null,
+      "audio_state_id": null,
+      "card_edge_index": 4,
+      "audit_status": "unstarted"
+    },
+    "P5′": {
+      "id": "3951c2ab-cc19-54a5-9c06-8aa681842b20",
+      "address": "P5′",
+      "phase": "pratibimba",
+      "index": 5,
+      "canonical_unit": "Work",
+      "canonical_question": "What crystallises from the conjugate passage?",
+      "structural_role": "Verified expression, public work, completed recognition",
+      "local_label": null,
+      "local_question": null,
+      "short_summary": null,
+      "extended_articulation": null,
+      "occupancy": "latent",
+      "occupancy_reason": null,
+      "salience": 0.0,
+      "source_assignments": [],
+      "claims": [],
+      "resonance": null,
+      "symbol_state_id": null,
+      "scene_atom_id": null,
+      "audio_state_id": null,
+      "card_edge_index": 5,
+      "audit_status": "unstarted"
+    }
+  },
+  "relations": {
+    "traversal": [
+      "P0",
+      "P1",
+      "P2",
+      "P3",
+      "P4",
+      "P5",
+      "P0′",
+      "P1′",
+      "P2′",
+      "P3′",
+      "P4′",
+      "P5′",
+      "P0+"
+    ],
+    "conjugates": [
+      [
+        "P0",
+        "P0′"
+      ],
+      [
+        "P1",
+        "P1′"
+      ],
+      [
+        "P2",
+        "P2′"
+      ],
+      [
+        "P3",
+        "P3′"
+      ],
+      [
+        "P4",
+        "P4′"
+      ],
+      [
+        "P5",
+        "P5′"
+      ]
+    ],
+    "complements": {
+      "bimba": [
+        [
+          "P0",
+          "P5"
+        ],
+        [
+          "P1",
+          "P4"
+        ],
+        [
+          "P2",
+          "P3"
+        ]
+      ],
+      "pratibimba": [
+        [
+          "P0′",
+          "P5′"
+        ],
+        [
+          "P1′",
+          "P4′"
+        ],
+        [
+          "P2′",
+          "P3′"
+        ]
+      ]
+    },
+    "partitions": {
+      "bimba_4_2": {
+        "explicate": [
+          "P1",
+          "P2",
+          "P3",
+          "P4"
+        ],
+        "implicate": [
+          "P0",
+          "P5"
+        ]
+      },
+      "pratibimba_4_2": {
+        "explicate": [
+          "P1′",
+          "P2′",
+          "P3′",
+          "P4′"
+        ],
+        "implicate": [
+          "P0′",
+          "P5′"
+        ]
+      },
+      "bimba_3_3": [
+        [
+          "P1",
+          "P2",
+          "P3"
+        ],
+        [
+          "P4",
+          "P5",
+          "P0"
+        ]
+      ],
+      "pratibimba_3_3": [
+        [
+          "P1′",
+          "P2′",
+          "P3′"
+        ],
+        [
+          "P4′",
+          "P5′",
+          "P0′"
+        ]
+      ]
+    }
+  },
+  "return": {
+    "self_implication": "The generated object reveals the form of its own situated construction.",
+    "remainder": "The unassigned and still-latent field remains available rather than being erased.",
+    "achieved_work": "A complete structural shell awaiting sourced articulation and media production.",
+    "next_ground": "The approved return becomes the threshold of the next engagement.",
+    "external_implications": [],
+    "next_seeds": [],
+    "semantic_delta": {
+      "status": "initial-shell"
+    },
+    "media_delta": {
+      "loop_relation": "P5′→P0"
+    },
+    "visual_loop": true,
+    "semantic_tick": 1,
+    "next_engagement_id": null
+  }
+}

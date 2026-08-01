@@ -1,0 +1,1 @@
+Online psycho-coralling through algorithmic "bubbles" as a kin of Concentration camps, as camps of and for our concentration, to be locked in crafted techno-media babble-bubbles

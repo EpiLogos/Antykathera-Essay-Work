@@ -1,0 +1,48 @@
+# Download Report
+
+Mode: downloaded
+
+- `jacques-derrida-portrait__self-described-and-self-defined-1965-joseph-kosuth-1948-24010621475-jpg.jpg` — score 16 — File:Self Described and Self Defined (1965) - Joseph Kosuth (1948) (24010621475).jpg
+  - Query: Jacques Derrida portrait
+  - License: CC BY 2.0
+  - Source: https://commons.wikimedia.org/wiki/File:Self_Described_and_Self_Defined_%281965%29_-_Joseph_Kosuth_%281948%29_%2824010621475%29.jpg
+- `saussure-signifier-signified-diagram__saussure-signifie-signifiant-pa-svg.png` — score 11 — File:Saussure Signifie-Signifiant-pa.svg
+  - Query: Saussure signifier signified diagram
+  - License: CC0
+  - Source: https://commons.wikimedia.org/wiki/File:Saussure_Signifie-Signifiant-pa.svg
+- `palimpsest-manuscript__composite-images-or-6581-palimpsest-fragments-jpg.jpg` — score 8 — File:Composite images Or. 6581 palimpsest fragments.jpg
+  - Query: palimpsest manuscript
+  - License: CC BY 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:Composite_images_Or._6581_palimpsest_fragments.jpg
+- `footprint-fossil__jpg.jpg` — score 9 — File:다양한 종류의 공룡발자국 보행렬.jpg
+  - Query: footprint fossil
+  - License: KOGL Type 1
+  - Source: https://commons.wikimedia.org/wiki/File:%EB%8B%A4%EC%96%91%ED%95%9C_%EC%A2%85%EB%A5%98%EC%9D%98_%EA%B3%B5%EB%A3%A1%EB%B0%9C%EC%9E%90%EA%B5%AD_%EB%B3%B4%ED%96%89%EB%A0%AC.jpg
+- `wood-grain-macro__beilstein-billensbach-kirchstra-e-3-holzstruktur-antipoden-1-jpg.jpg` — score 12 — File:Beilstein - Billensbach - Kirchstraße 3 - Holzstruktur - Antipoden 1.jpg
+  - Query: wood grain macro
+  - License: CC BY-SA 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:Beilstein_-_Billensbach_-_Kirchstra%C3%9Fe_3_-_Holzstruktur_-_Antipoden_1.jpg
+- `fishing-net-ocean__a-fishing-net-110055601-jpeg.jpg` — score 12 — File:A Fishing Net (110055601).jpeg
+  - Query: fishing net ocean
+  - License: CC BY 3.0
+  - Source: https://commons.wikimedia.org/wiki/File:A_Fishing_Net_%28110055601%29.jpeg
+- `patanjali-yoga-sutra-manuscript__patanjali-s-yogabhasya-sanskrit-devanagari-script-sample-page-f13r-jpg.jpg` — score 15 — File:Patanjali's Yogabhasya, Sanskrit, Devanagari script, sample page f13r.jpg
+  - Query: Patanjali Yoga Sutra manuscript
+  - License: CC BY-SA 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:Patanjali%27s_Yogabhasya%2C_Sanskrit%2C_Devanagari_script%2C_sample_page_f13r.jpg
+- `meditating-buddha-sculpture-dhyana__033-buddha-meditating-nalanda-9221408780-jpg.jpg` — score 12 — File:033 Buddha Meditating, Nalanda (9221408780).jpg
+  - Query: meditating Buddha sculpture dhyana
+  - License: CC BY 2.0
+  - Source: https://commons.wikimedia.org/wiki/File:033_Buddha_Meditating%2C_Nalanda_%289221408780%29.jpg
+- `laozi-painting__baby-laozi-qingyanggong-chengdu-jpg.jpg` — score 9 — File:Baby Laozi Qingyanggong Chengdu.jpg
+  - Query: Laozi painting
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Baby_Laozi_Qingyanggong_Chengdu.jpg
+- `tao-te-ching-manuscript__mawangdui-laotsu-ms2-jpg.jpg` — score 11 — File:Mawangdui LaoTsu Ms2.JPG
+  - Query: Tao Te Ching manuscript
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Mawangdui_LaoTsu_Ms2.JPG
+- `water-erosion-rock__erosion-of-tephra-layers-lanzarote-11-jpg.jpg` — score 9 — File:Erosion of tephra layers - Lanzarote 11.jpg
+  - Query: water erosion rock
+  - License: CC BY-SA 3.0
+  - Source: https://commons.wikimedia.org/wiki/File:Erosion_of_tephra_layers_-_Lanzarote_11.jpg

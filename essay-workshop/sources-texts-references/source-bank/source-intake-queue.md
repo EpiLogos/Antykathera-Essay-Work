@@ -1,0 +1,161 @@
+---
+title: "Source Intake Queue"
+aliases:
+  - "Source Intake Queue — Return of Zero"
+  - "Return of Zero Research Queue"
+page_type: source-intake-queue
+status: live
+tags:
+  - epi-logos/antikythera-essay
+  - source-bank/intake
+---
+
+# Source Intake Queue
+
+This is a queue of **bibliographic decisions and passage needs**, not a list of names to decorate the essay. Each item exits the queue only when it becomes one or more canonical one-work files under `sources/`.
+
+> [!important] Current state
+> The queue is actively extended by [[Eastern Corpus Program — Return of Zero]]: selected works may enter as citation-ready sources, but no passage is promoted without a lawful fixed edition, exact locator, and context check. Do not reopen an item by adding a pseudo-source or an unverified quotation.
+
+## Edition selection required before quotation
+
+| Field | Works or authors to resolve | Passage burden |
+|---|---|---|
+| Kashmir Śaivism | Abhinavagupta, *Tantrāloka* (especially āhnika 4); *Īśvarapratyabhijñāvimarśinī*; Utpaladeva's *Īśvarapratyabhijñākārikā*; *Spandakārikā*; a reliable tattva source | `prakāśa-vimarśa`, `vikalpa`, `śuddha-vikalpa`, `saṃkalpa`, recognition, manifestation, the 36 tattvas, antaḥkaraṇa, nāda/vāk. Record Sanskrit, translation, translator, and section numbers. |
+| Buddhist exclusion and dependent-arising braid | Dignāga and Dharmakīrti primary passages plus current apoha scholarship; *pratītya-samutpāda* and śūnyatā sources; direct *Avataṃsaka Sūtra* locus beyond the admitted Dushun-attributed passage and Huayan scholarly control | Apoha's double-negation as context of determination; conditioned arising; śūnyatā as pūrṇatā; the relation of all three to saṃkalpa's world-building. The jewel-net image now has a Huayan textual carrier and secondary control; a direct sutra translation remains a separate acquisition. |
+| Jung and Pauli | Jung CW editions for psychoid archetype, *Aion* quaternios/senarius and real zero-point; Jung–Pauli correspondence; Pauli essays | `X=x`, number/archetype, neutral language, individuation, complexio oppositorum, quaternity and eight determinations. Verify all paragraph numbers. |
+| Marie-Louise von Franz | *Number and Time* exact edition | Number as qualitative archetypal ordering; quaternity; time and synchronicity. |
+| Nicholas of Cusa | *De docta ignorantia* reliable translation; *Liber XXIV Philosophorum* separate edition/source | Coincidence of opposites, learned ignorance, sphere/circle images. Do not attribute the sphere aphorism to Cusa without textual history. |
+| Meister Eckhart | Flasch, *Meister Eckhart: Philosopher of Christianity* (2015), with an exact primary edition added only as direct quotation or textual-critical work requires | Record Flasch page locators for `in quantum`, analogy, Word, ground, desert/abyss, and dialectical apophaticism; distinguish Flasch's historical-philosophical account from any later direct sermon or Latin-work quotation. |
+| Wittgenstein | Select PI edition/translation; confirm Tractatus translation | 6.54, 7, showing/saying, rule-following, forms of life, “whereof” wording. |
+| Spencer-Brown | Select the edition actually used | Opening injunction, crossing/condensation, re-entry, time/oscillation passages, appendix claims. |
+
+## Source families to instantiate
+
+### §0/1 and §0 — limit, experience, differentiation
+
+- Jean Gebser, *The Ever-Present Origin*: integral structure, diaphaneity/transparency, origin-presence, and the art/optics genealogy of the mental-rational perspectival mutation. Recover the passages needed for the argument that Internet/AI signal a contextual mutation by making prompt, memory, retrieval, permissions, provenance, and feedback operational conditions of intelligence.
+- Henri Bergson: duration, intellect, division, creative evolution; choose works by exact use.
+- Humberto Maturana and Francisco Varela: *Autopoiesis and Cognition*; Varela, Thompson, and Rosch, *The Embodied Mind*; enaction/structural coupling.
+- Heidegger: *Being and Time* for *Geworfenheit*, worldhood, care; a separate record for any translation consulted.
+- **Heidegger technology cluster, admitted 2026-07-18:** three source houses now stand — [[Heidegger — The Question Concerning Technology and Other Essays (Lovitt, 1977)]] (title essay + "The Age of the World Picture"; the Lovitt/Krell edition trap is documented in the house — circulating PDFs silently carry Krell's revised text, so every quotation must be checked against the 1977 printing), [[Heidegger — Discourse on Thinking (1966)]] (Memorial Address: calculative/meditative, Gelassenheit), and [[Heidegger — Early Greek Thinking (1975)]] (Logos essay: *die lesende Lege*). Outstanding debts: (a) physical Harper 1977 collation for the flagged AWP page numbers (128, 129, 131; 118, 125); (b) Harper 1966 collation, including the flagged "meditative being" sentence at p. 56 region; (c) *Early Greek Thinking* p. 63 locator; (d) **Bremen lectures** (*Insight Into That Which Is*, trans. Mitchell, Indiana UP 2012) to verify the reported *stellen → nachstellen* (stalking/entrapment) connection — if verified, the net–Gestell link becomes near-philological; (e) **Gebser–Heidegger relation**: check the *Ever-Present Origin* index under Heidegger — no published comparison surfaced in this cycle's searches, so the essay's twinning stays Argued until then.
+- Alfred North Whitehead beyond *Process and Reality* only if a distinct work is actually used.
+
+### §1 — zero and its histories
+
+- Brahmagupta, *Brāhmasphuṭasiddhānta*: translation and chapter/verse locators for zero rules.
+- Bhāskara II, *Bījagaṇita*: `khahara` and division-by-zero wording in a defensible translation.
+- Histories of Indian zero, Arabic transmission, Chinese counting rods, and European reception; do not force one civilisational origin story.
+- Gerbert of Aurillac / Sylvester II and relevant manuscript scholarship.
+- John von Neumann's ordinal construction and a modern set-theory source.
+- Meadows or other rigorous surveys of division by zero; wheel theory, transreal arithmetic, projective/extended complex conventions as separate records.
+
+### §2 — two logics, myth, atomisation
+
+- Liddell–Scott–Jones and/or philological source for `dia-ballein`, `sym-ballein`, `symbolon`.
+- Monier-Williams plus specialist sources for `vi-kalpa`, `saṃ-kalpa`, `kalpa`; etymology must not replace doctrinal use.
+- Dynamical-systems sources for symmetry breaking, bifurcation, attractors, basin boundaries, phase transition, and self-organisation.
+- Classical primary texts for Ares–Aphrodite–Hephaestus–Harmonia; record each ancient work separately.
+- **Homeric-apparatus scholarship cluster, admitted 2026-07-18:** four source houses now stand — [[Detienne and Vernant — Cunning Intelligence in Greek Culture and Society (1978)]] (mētis; "The Circle and the Bond" chapter needs print collation, ch. 10 / pp. 269–75), [[Burkert — Das Lied von Ares und Aphrodite (1960)]] (technē-over-physis thesis; German sentences and the 1997 English translation span need extraction), [[Brown — Ares, Aphrodite, and the Laughter of the Gods (1989)]] (*Phoenix* 43 acquisition for page locators), and [[Phillips — Moicheia and the Unity of Greek Law]] (venue and year unresolved — identify the published volume). The Murray house now carries passage cards q004–q008 (Helios's σκοπιή, δεσμοὶ τεχνήεντες, ἕεδνα/μοιχάγρια, Hermes's quip, the ἐγγύη surety exchange); all need the Perseus reread noted in-card. The diabolē naming and every technological reading remain the essay's Argued moves.
+- **Huayan jewel-net braid, admitted 2026-07-16:** [[Dushun (attributed) — The Jewel Net of Indra (Cleary, 2000)]] supplies the selected primary-text pathway at *Huayan wujiao zhiguan*, T45, no. 1867, 513a28–513b21; [[Van Norden and Jones — Huayan Buddhism (SEP, 2024)]] supplies the fixed scholarly account of reciprocal dependence, recursive reflection, and inclusion without loss of distinctness. Collate Cleary's printed pages 58–60 before direct quotation, and acquire a direct *Avataṃsaka Sūtra* translation as its own source rather than treating the Dushun-attributed treatise as the sutra itself. The `0/1` versus Hephaestian `(+1)/(−1)` reading remains the essay's mythematical development.
+- Nietzsche and primary/critical sources for Apollo–Dionysus; avoid making Nietzsche the origin of the gods' polarity.
+- **Mass-formation braid, promoted 2026-07-14:** Le Bon now supplies lawful public-domain crowd passages; Jung's Routledge 2013 edition supplies the verified p. 10 individual/crowd hinge; Desmet's public 2022 statement supplies his four-condition model; Iakovou is the institutional/political qualification but needs issue-metadata resolution. Keep the four voices distinct: crowd formation, psychic dispossession, affective preconditions, and institutional power. The QL `divine and concur` synthesis remains the essay's argued movement.
+- Polylogos and Moltbook primary/technical records for autonomous agent community formation, idea propagation, creativity, and collective intelligence.
+
+### §3 — formal mathematics, topology, and music
+
+- **Catuṣkoṭi/FDE cluster, admitted 2026-07-18:** six source houses now stand — [[Priest — The Logic of the Catuskoti (2010)]] (open access; the quotation-ready formal core: FDE values as subsets of {T,F}, the fifth status *e* and its infectiousness, evaluations as relations, the two-truths formalisation), [[Priest — The Fifth Corner of Four (2018)]] (chapter arc from Quintum Non Datur through Jizang's hierarchy to Dōgen; copyright-year 2018/2019 check open), [[Garfield and Priest — Nāgārjuna and the Limits of Thought (2003)]] (inclosure schema; journal collation pending), [[Kapsner — Cutting Corners (2020)]] (the gate: rejection of the fifth value — QL's #0-as-precondition sidesteps it, and the citation says so), [[Siderits, Tillemans, and Chakrabarti — Apoha (2011)]] (nominally/verbally bound negation; book collation needed), and [[Priest — One (2014)]] (gluon theory as Western formal neighbour of mono–poly; book collation needed). Manifold atlas/transition-function textbook source (Hatcher suffices or add a differential-geometry primary) for ledger row 35.
+- Louis H. Kauffman on iterants, imaginary values, and virtual logic; one record per article/book used.
+- Standard complex analysis for complex plane, Riemann sphere, stereographic projection, and projective completion.
+- Projective geometry source for cross-ratio and points at infinity.
+- Quantum-information source for `CP¹` and Bloch sphere.
+- Nuel Belnap / FDE primary source; scholarly catuṣkoṭi and Jaina fourfold/sevenfold sources kept separate.
+- Algebraic topology/surface classification source for `χ=2−2g`, quotient models, fundamental group, universal cover, torus flows.
+- Pythagorean tuning, 3-limit ratios, whole tone `9/8`, comma `81/80`, octave equivalence, and interval-class sources.
+- Acoustics and cymatics: Chladni, standing waves, mode shapes, harmonics, and a sober modern source separating physical pattern formation from metaphysical inference.
+- ITER magnet-system page, DOE tokamak explainer, PPPL stellarator material, NASA ring current; each becomes its own canonical web source.
+
+### §4 — psychoid, matheme, and disclosed experience
+
+- **Zero–subject historical braid, admitted and tracked 2026-07-16:** [[Freud — “The Unconscious” (1915; Strachey trans. 1957)]], [[Jung — Psychology and Religion: West and East, CW 11 (1969)]], and [[Neumann — The Origins and History of Consciousness (1954)]] now have selected bibliographic source houses. Recover one lawful selected-edition carrier and exact passage ledger for each before quotation or detailed source-specific exposition. Their distinct work remains Freud's disciplinary admission of unconscious processes, Jung's religious-psychological facticity, and Neumann's post-Jungian history of ego formation; none establishes authorial `X/x` or QL's formal derivation.
+- **Wave 5 admitted:** [[Atmanspacher — Pauli–Jung Conjecture (2020)]], [[Smythe — Dialogical Jung (2013)]], [[Courtney — Salt-Point, Kairos, Chaos (2019)]], [[Darmon — Mathème (1992)]], and [[Nietzsche — Birth of Tragedy (Haussmann, 1910)]]. Their dossiers distinguish later reception, scholarly synthesis, specialist reference context, and Nietzsche’s aesthetic construction from the essay’s QL derivations.
+- Jung, Pauli, and von Franz editions above.
+- **2026-07-14 targeted intake:** [[Lacan — Talking to Brick Walls (Price, 2017)]] now gives source-matched Price pp. 80–81 for the Sainte-Anne brick-wall address. Promote only after authorised-page collation; it does not establish `S/s = X/x`, the matheme, topology, subject theory, or mytheme.
+- Lacan seminars/Écrits for matheme, topology, subject, and myth; choose exact claims before works.
+- Critical scholarship on synaesthesia and cross-modal correspondences.
+- Psychedelic phenomenology and neurophenomenology to place Bache beside critical and empirical sources rather than alone.
+- Bohm–Krishnamurti dialogue corpus: identify recordings/transcripts and dates individually.
+- Indigenous participants/publications related to SEED's Language of Spirit dialogues; the organisation's brochure cannot speak for elders by itself.
+- Prompt Thrownness and Moltbook source objects with authorship, dates, method, and recoverable archive.
+
+### §5 and §5→0 — AI, energy, governance, planetary intelligence
+
+- **Two-modalities witness cluster, admitted 2026-07-18:** [[McGilchrist — The Master and His Emissary (2009)]] (edition decision 2009 vs 2019 open; print locators for all quotes; the Nietzsche-footnote text; criticism dossier carried in-house — Grayling via Willis/BJGP 2010, the RBB 2019 "hemispheric homunculi" symposium) and [[McGilchrist — Resist the Machine Apocalypse (2022)]] (First Things; month/URL verification). Admitted under the gate: cross-register witness for asymmetry only, never neuroscientific derivation. [[Jorjani — Prometheus and Atlas (2016)]] remains a **book-level acquisition contract**: the P1 notes cover the Prologue only; the Atlas/cartography chapters, any Gestell material, and pagination (416 vs 468 pp. discrepancy) await the physical book.
+- Vaswani et al., “Attention Is All You Need.”
+- Sources for softmax, argmax, cross-entropy, contrastive learning (InfoNCE/SimCLR/CLIP), and representation geometry.
+- Preference modelling beyond the 1952 Bradley–Terry paper; identify the exact invariance/non-identifiability claim used.
+- KL-regularised RLHF and reference-model anchoring.
+- Modern EBM and JEPA sources; topological data analysis and mode-connectivity sources.
+- Multi-agent and collective-intelligence literature; direct records for Agentworld experiments where public.
+- AI surveillance, military infrastructures, human oversight, labour, and delegated authority responsive to the Agentworld brief.
+- Commons, federation, local computation, and governance sources for 4:2 Techne.
+- Schopenhauer, Kastrup, and Kashmir Śaivism for the “world is mind/agency” horizon; state clearly whether each is primary philosophy, contemporary argument, or the essay's synthesis.
+- Antikythera mechanism scholarship: Freeth et al. 2006 and 2021 plus technical/archaeological sources for the final image.
+
+## Existing records needing passages rather than more metadata
+
+- [[Frank, Gleiser, and Thompson — The Blind Spot (2024)]] — passages on surreptitious substitution, experience, AI/mind, and planetary science.
+- [[Russell — Mathematical Logic as Based on the Theory of Types (1908)]] — reflexiveness and the vicious-circle principle.
+- [[Gödel — Formally Undecidable Propositions (1931)]] — exact theorem formulation from the chosen translation/edition.
+- [[Whitehead — Process and Reality (1978 corrected edition)]] — Creativity; many/one; concrescence; perishing/objective immortality.
+- [[Varela — A Calculus for Self-Reference (1975)]] — third state, autonomy, and epistemological scope.
+- [[Kaplan — The Nothing That Is (2000 OUP printing)]] — the complete local edition is locator-mapped; obtain a purchased or library copy before quotation. The active debts are critical history behind pp. 4–75 and 90–115, the Salem Codex, Stern–Brocot/Farey terminology, and the Peirce–Sheffer–Wittgenstein sequence.
+- [[Rotman — Signifying Nothing (1987)]] — meta-sign and meta-subject; collect the passage and the constructivist boundary.
+- [[Bohm — Wholeness and the Implicate Order (1980)]] — implicate/explicate and holomovement.
+- [[Van Eenwyk — Archetypes, the Strange Attractors of the Psyche (1991)]] — technical analogy and limits.
+- [[Bache — LSD and the Mind of the Universe (2019)]] — structured phenomenological reports, with context and methodological caveats.
+- [[Bradley and Terry — Rank Analysis of Incomplete Block Designs (1952)]]; [[Ouyang et al. — Training Language Models to Follow Instructions with Human Feedback (2022)]]; [[Rafailov et al. — Direct Preference Optimization (2023)]] — exact mathematical passages for preference invariance and reference anchoring.
+
+## Wave 1 admitted leads — §0/1 formal limit
+
+| Proposed source ID | Recoverable work | Evidence question | State and lawful next step |
+|---|---|---|---|
+| `maroski-2025-seeing-through-solid-words` | Lisa Maroski, “Seeing Through Solid Words: Using Gebser’s Concept of Transparency to Understand a Gnostic Poem Expressing Integral Consciousness” (2025) | Does a fixed scholarly source articulate Gebserian transparency as a form that preserves non-identical structures rather than stages or fusion? | **Ready for record:** public article PDF and CIIS metadata are fixed; promote the article's own passages only. Acquire the authorised 1985/2020 *Ever-Present Origin* separately before quoting Gebser directly. |
+| `dasgupta-1922-history-indian-philosophy-v1` | Surendranath Dasgupta, *A History of Indian Philosophy*, vol. 1 (1922) | Can the knower/means/known vocabulary be carried historically without claiming it is specifically Śaiva or equivalent to QL? | **Deferred:** visually compare the public-domain facsimile at the cited leaf, then record exact printed-page data and a support/qualification pair. |
+| `spinoza-1674-letter-50-jelles` | Benedict de Spinoza, Letter 50 to Jarig Jelles, in Elwes's 1901 public-domain translation | How does finite geometrical determination become negation, and how does that operation stand beside apoha's conceptual exclusion? | **Admitted:** public-domain fixed edition and page-image check supply the paired passages. Use it at §0/1 as the Western geometrical line of the negational cut, beside Pind's Dignāga translation. |
+| `spinoza-1677-ethics-elwes` | Benedict de Spinoza, *Ethics*, trans. R. H. M. Elwes | How do active conception, adequate ideas, the kinds of knowledge, and geometric order furnish the Western return into a geometric epistemology and metaphysics? | **Admitted:** use the public-domain Elwes text already identified for the §3 return; recover the exact Part II passages that carry conception, adequacy, and knowledge before assembling the later Spinoza packet. |
+| `raatikainen-2026-godel-incompleteness-sep` | Panu Raatikainen, “Gödel's Incompleteness Theorems,” *Stanford Encyclopedia of Philosophy*, Spring 2026 edition | What exact hypotheses and scope prevent the genealogy from inflating Gödel into a general failure-of-reason thesis? | **Ready for record:** archived public edition has a direct theorem-scope statement and a correction of the common misunderstanding. It complements, rather than replaces, Gödel's primary article. |
+
+## Wave 2 admitted leads — §0 differentiation
+
+| Proposed source ID | Recoverable work | Evidence question | State and lawful next step |
+|---|---|---|---|
+| `isvarakrishna-colebrooke-wilson-1837-sankhya-karika` | Īśvarakṛṣṇa, *The Sāṅkhya Kārikā*, trans. H. T. Colebrooke; Gauḍapāda’s *Bhāṣya*, trans./annot. H. H. Wilson (1837) | Can a fixed historical text distinguish *buddhi*, *ahaṃkāra*, and *manas* from the witnessing *puruṣa*, without projecting that triad unchanged into Trika or computation? | **Ready for record:** public-domain scan and verse locators XXIII, XXIV, XXVII, XXIX, and XIX have been checked. Use as a bounded Sāṅkhya functional distinction. |
+| `wilson-et-al-2020-embodied-cognition-sep` | Robert A. Wilson et al., “Embodied Cognition,” *Stanford Encyclopedia of Philosophy*, Spring 2020 archive | What makes a context-world relationally enacted rather than a private internal container, and what blocks its transfer to conventional computation? | **Ready for record:** fixed archive gives an enactive world-disclosure passage and a direct computation limitation. |
+| `tye-2024-qualia-sep` | Michael Tye, “Qualia,” *Stanford Encyclopedia of Philosophy*, Spring 2024 archive | What must remain distinct between an inspectable operational context and phenomenal character? | **Ready for record:** fixed archive gives a definition of phenomenal character and an explicit controversy boundary. |
+| `pind-2009-dignaga-anyapoha-dissertation` | Ole Holten Pind, *Dignāga’s Philosophy of Language—Dignāga on anyāpoha* (University of Vienna diss., 2009) | Can a source-critical translation establish exclusion while blocking its reduction to mere preclusion? | **Admitted:** q001 is Pind’s verified PSV V:11d translation; q002 is Pind’s verified translation of a prose fragment only provisionally assigned to SPVy. Preserve that textual distinction. |
+| `maccracken-2017-recognizing-recognition` | Sean MacCracken, “Recognizing Recognition,” *Religions* 8, no. 11 (2017): 243 | What distinguishes a shared *vikalpa/kalpanā* problem from an identity between Dharmakīrti’s epistemic relation and Utpaladeva’s ontological relation? | **Admitted:** publisher PDF yields a supporting historical distinction and a qualifying no-conflation passage; use only as cross-tradition context and limitation. |
+| `patanjali-woods-1914-yoga-system` | Patañjali, *The Yoga-System of Patañjali*, trans. James Haughton Woods (1914) | How does a fixed Yoga-system account of *vikalpa* resist its use as a generic Śaiva or QL operation? | **Deferred:** Internet Archive scan has a locator-verified lead at Yoga Sūtra 1.9 / commentary p. 26; visually compare page images before any promotion. |
+
+## Wave 3 admitted leads — §2 two logics
+
+| Proposed source ID | Recoverable work | Evidence question | State and lawful next step |
+|---|---|---|---|
+| `das-2022-sriharsa-sep` | Nilanjan Das, “Śrīharṣa,” *Stanford Encyclopedia of Philosophy*, Spring 2022 archive | Can a specialist secondary entry state a distinction/non-distinction tension without converting it into the QL theorem? | **Admitted:** the official archived entry gives a contextual formulation and explicitly notes that the interpretation remains controversial. It is secondary context only; use a primary edition for direct Śrīharṣa claims. |
+| `daza-et-al-2016-basin-entropy` | Alvar Daza et al., “Basin Entropy: A New Tool to Analyze Uncertainty in Dynamical Systems,” *Scientific Reports* 6 (2016): 31416 | What is a basin of attraction in a controlled dynamical-systems sense, and where does the vocabulary fail? | **Admitted:** the open publisher version defines a basin and restricts the discussion to applicable system classes. Do not transfer the concept directly to psyche, life, or AI. |
+| `hesiod-1920-theogony-evelyn-white` | Hesiod, *Theogony*, trans. Hugh G. Evelyn-White (1920 reprint) | What genealogy does the selected public-domain translation actually give for Aphrodite/Cytherea, Ares, and Harmonia? | **Admitted:** support and limiting genealogy cards are exact and line-located. The Offered two-logics reading remains Taylor’s. |
+| `homer-1919-odyssey-murray` | Homer, *The Odyssey*, vol. 1, trans. A. T. Murray (1919), Book VIII | What does the selected public-domain translation actually call Hephaestus’s capture device and how does the scene frame it? | **Admitted:** Murray’s text gives “bonds,” capture, shame, and laughter. Use “bonds” or “snare”; do not silently standardise it to “net.” |
+| `mackenzie-2021-heraclitean-allusion-odyssey` | Tom Mackenzie, “A Heraclitean Allusion to the Odyssey” (2021) | What does B51 say about differing, agreement, and the bow-and-lyre fastening, and which ancient witness and textual variant carry it? | **Admitted:** official Cambridge text supplies Greek, translation, the Hippolytus 9.9.2 witness, the *palintropos/palintonos* issue, and the article's proposed Homeric intertext. The QL and Jungian development remains the essay's argument. |
+| `dushun-cleary-2000-jewel-net-indra` | Dushun (attributed), “The Jewel Net of Indra,” trans. Thomas Cleary, in *Dharma Rain* (2000), 58–60 | Can a selected Huayan passage establish recursive jewel-net reflection before the opposed-net reading begins? | **Admitted as source-matched:** work, page span, and T45 no. 1867, 513a28–513b21 are fixed. Collate the selected printed translation before promoting exact English wording. |
+| `van-norden-jones-2024-huayan-sep` | Bryan Van Norden and Nicholaos Jones, “Huayan Buddhism,” *SEP*, Fall 2024 | What does Huayan mutual inclusion preserve, and how does the jewel-net image bear existence, identity, reflection, and distinctness? | **Admitted:** fixed official archive provides quotation-ready dependence language and scholarly control against reading interpenetration as featureless fusion. |
+| `maturana-varela-1980-autopoiesis-cognition` | Humberto R. Maturana and Francisco J. Varela, *Autopoiesis and Cognition* (1980) | Can the selected fixed edition support a narrow account of operational closure or structural coupling? | **Deferred:** the official publisher record verifies metadata only. Lawfully borrow or purchase the selected edition, inspect a fixed text for one support and one limiting passage, and record printed-page locators before quotation or close paraphrase. |
+
+## Wave 4 admitted leads — §3 proof-spine
+
+| Proposed source ID | Recoverable work | Evidence question | State and lawful next step |
+|---|---|---|---|
+| `strang-herman-2016-openstax-calculus-v1` | Gilbert Strang and Edwin “Jed” Herman, *Calculus Volume 1* (OpenStax, 2016), §4.10 | What exact interval-relative result constrains the essay’s image of a derivative, an antiderivative, and an integration constant? | **Admitted:** official OpenStax HTML supplies the constant-family statement and the interval-bound uniqueness condition. Use it to limit the calculus image; it does not establish metaphysical provenance. |
+| `kauffman-2014-iterants-fermions-dirac-arxiv` | Louis H. Kauffman, “Iterants, Fermions and the Dirac Equation,” arXiv:1406.1929v2 (2014) | Can a fixed iterant construction support alternation-plus-shift as a formal neighbour of complex orientation without treating it as the unique meaning of `i`? | **Admitted:** page-verified v2 passages establish shifted alternating views and representation non-uniqueness. Keep the arXiv overlap note and cite v2 pages 27–28 only. |
+| `nist-dlmf-2026-complex-variable` | NIST DLMF, release 1.2.7, §1.9(iv) (2026) | What exact complex-analysis facts establish extended-complex-plane completion and scope cross-ratio invariance? | **Admitted:** NIST gives the ideal infinity point and restricts cross-ratio invariance to bilinear transformations. A real-projective parallel-line claim requires a separate source. |
+| `kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering` | Tanja Kirchner, Wael Elkamhawy, and Hans-Werner Hammer, “Entanglement in Few-Nucleon Scattering Events” (2024) | What exact conditions make pure two-level states a `CP¹`/Bloch-sphere state space? | **Admitted:** the open version of record gives the normalization/overall-phase condition and `CP¹`/Bloch-sphere representation. It does not cover mixed or multi-qubit states. |
+| `scholtz-1998-algorithms-diatonic-keyboard-tunings` | Kenneth P. Scholtz, “Algorithms for Mapping Diatonic Keyboard Tunings and Temperaments” (1998) | Which fixed historical tuning system establishes 3/2, 4/3, 9/8, 2/1, the comma, and the tempering qualification? | **Admitted:** official HTML/PDF supplies a Pythagorean tuning construction, comma, and equal-temperament adjustment. Do not generalise the interval values across all tuning systems. |

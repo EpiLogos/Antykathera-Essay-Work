@@ -1,0 +1,1 @@
+Our creative philosophical practice as akin to hip hop, sampling the old and giving it  new voice - this falls into the umbrella of the song symbology for episteme/logos

@@ -1,0 +1,55 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/usr/local/bin/python3 \"${CLAUDE_PROJECT_DIR}/.codex/hooks/return_zero_hook.py\"",
+            "timeout": 15,
+            "statusMessage": "Loading Return of Zero orientation"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash|Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/usr/local/bin/python3 \"${CLAUDE_PROJECT_DIR}/.codex/hooks/return_zero_hook.py\"",
+            "timeout": 15,
+            "statusMessage": "Protecting author notes"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Bash|Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/usr/local/bin/python3 \"${CLAUDE_PROJECT_DIR}/.codex/hooks/return_zero_hook.py\"",
+            "timeout": 15,
+            "statusMessage": "Verifying author notes"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/usr/local/bin/python3 \"${CLAUDE_PROJECT_DIR}/.codex/hooks/return_zero_hook.py\"",
+            "timeout": 60,
+            "statusMessage": "Checking generated projections"
+          }
+        ]
+      }
+    ]
+  }
+}

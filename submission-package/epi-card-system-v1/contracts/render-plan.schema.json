@@ -1,0 +1,1280 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://epi-logos.dev/schemas/epi-card/render-plan-1.0.0.schema.json",
+  "title": "Epi-Card Deterministic Render Plan",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "version",
+    "engagement_id",
+    "profile",
+    "canvas",
+    "timeline",
+    "scene_pairs",
+    "scene_atoms",
+    "layers",
+    "audio",
+    "loop",
+    "outputs",
+    "renderer"
+  ],
+  "properties": {
+    "version": {
+      "const": "1.0.0"
+    },
+    "engagement_id": {
+      "type": "string",
+      "format": "uuid"
+    },
+    "profile": {
+      "enum": [
+        "base",
+        "extended",
+        "custom"
+      ]
+    },
+    "canvas": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "width",
+        "height",
+        "pixel_aspect",
+        "safe_area"
+      ],
+      "properties": {
+        "width": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "height": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "pixel_aspect": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        },
+        "safe_area": {
+          "type": "object"
+        }
+      }
+    },
+    "timeline": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fps_num",
+        "fps_den",
+        "duration_frames"
+      ],
+      "properties": {
+        "fps_num": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "fps_den": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "duration_frames": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    },
+    "scene_pairs": {
+      "type": "array",
+      "minItems": 6,
+      "maxItems": 6,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "pair_index",
+          "addresses",
+          "start_frame",
+          "duration_frames",
+          "reciprocity_mode"
+        ],
+        "properties": {
+          "pair_index": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 5
+          },
+          "addresses": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+              "enum": [
+                "P0",
+                "P1",
+                "P2",
+                "P3",
+                "P4",
+                "P5",
+                "P0′",
+                "P1′",
+                "P2′",
+                "P3′",
+                "P4′",
+                "P5′"
+              ]
+            }
+          },
+          "start_frame": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "duration_frames": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "reciprocity_mode": {
+            "enum": [
+              "phase_flip",
+              "crossfade",
+              "interleaved",
+              "split_field",
+              "masked_reveal",
+              "conjugate_cut",
+              "audio_visual_exchange"
+            ]
+          }
+        }
+      }
+    },
+    "scene_atoms": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "P0",
+        "P1",
+        "P2",
+        "P3",
+        "P4",
+        "P5",
+        "P0′",
+        "P1′",
+        "P2′",
+        "P3′",
+        "P4′",
+        "P5′"
+      ],
+      "properties": {
+        "P0": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "address",
+            "ql_position_id",
+            "pair_index",
+            "face_order",
+            "start_frame",
+            "duration_frames",
+            "intent",
+            "visual_action",
+            "generation_plan",
+            "symbol_state_id",
+            "audio_state_id"
+          ],
+          "properties": {
+            "address": {
+              "const": "P0"
+            },
+            "ql_position_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "pair_index": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 5
+            },
+            "face_order": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "start_frame": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_frames": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "intent": {
+              "type": "object"
+            },
+            "visual_action": {
+              "type": "string",
+              "minLength": 1
+            },
+            "camera": {
+              "type": "object"
+            },
+            "light_material": {
+              "type": "object"
+            },
+            "generation_plan": {
+              "type": "object"
+            },
+            "accepted_plate_asset_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "format": "uuid"
+            },
+            "symbol_state_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "audio_state_id": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        },
+        "P1": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "address",
+            "ql_position_id",
+            "pair_index",
+            "face_order",
+            "start_frame",
+            "duration_frames",
+            "intent",
+            "visual_action",
+            "generation_plan",
+            "symbol_state_id",
+            "audio_state_id"
+          ],
+          "properties": {
+            "address": {
+              "const": "P1"
+            },
+            "ql_position_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "pair_index": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 5
+            },
+            "face_order": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "start_frame": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_frames": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "intent": {
+              "type": "object"
+            },
+            "visual_action": {
+              "type": "string",
+              "minLength": 1
+            },
+            "camera": {
+              "type": "object"
+            },
+            "light_material": {
+              "type": "object"
+            },
+            "generation_plan": {
+              "type": "object"
+            },
+            "accepted_plate_asset_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "format": "uuid"
+            },
+            "symbol_state_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "audio_state_id": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        },
+        "P2": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "address",
+            "ql_position_id",
+            "pair_index",
+            "face_order",
+            "start_frame",
+            "duration_frames",
+            "intent",
+            "visual_action",
+            "generation_plan",
+            "symbol_state_id",
+            "audio_state_id"
+          ],
+          "properties": {
+            "address": {
+              "const": "P2"
+            },
+            "ql_position_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "pair_index": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 5
+            },
+            "face_order": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "start_frame": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_frames": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "intent": {
+              "type": "object"
+            },
+            "visual_action": {
+              "type": "string",
+              "minLength": 1
+            },
+            "camera": {
+              "type": "object"
+            },
+            "light_material": {
+              "type": "object"
+            },
+            "generation_plan": {
+              "type": "object"
+            },
+            "accepted_plate_asset_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "format": "uuid"
+            },
+            "symbol_state_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "audio_state_id": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        },
+        "P3": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "address",
+            "ql_position_id",
+            "pair_index",
+            "face_order",
+            "start_frame",
+            "duration_frames",
+            "intent",
+            "visual_action",
+            "generation_plan",
+            "symbol_state_id",
+            "audio_state_id"
+          ],
+          "properties": {
+            "address": {
+              "const": "P3"
+            },
+            "ql_position_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "pair_index": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 5
+            },
+            "face_order": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "start_frame": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_frames": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "intent": {
+              "type": "object"
+            },
+            "visual_action": {
+              "type": "string",
+              "minLength": 1
+            },
+            "camera": {
+              "type": "object"
+            },
+            "light_material": {
+              "type": "object"
+            },
+            "generation_plan": {
+              "type": "object"
+            },
+            "accepted_plate_asset_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "format": "uuid"
+            },
+            "symbol_state_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "audio_state_id": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        },
+        "P4": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "address",
+            "ql_position_id",
+            "pair_index",
+            "face_order",
+            "start_frame",
+            "duration_frames",
+            "intent",
+            "visual_action",
+            "generation_plan",
+            "symbol_state_id",
+            "audio_state_id"
+          ],
+          "properties": {
+            "address": {
+              "const": "P4"
+            },
+            "ql_position_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "pair_index": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 5
+            },
+            "face_order": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "start_frame": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_frames": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "intent": {
+              "type": "object"
+            },
+            "visual_action": {
+              "type": "string",
+              "minLength": 1
+            },
+            "camera": {
+              "type": "object"
+            },
+            "light_material": {
+              "type": "object"
+            },
+            "generation_plan": {
+              "type": "object"
+            },
+            "accepted_plate_asset_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "format": "uuid"
+            },
+            "symbol_state_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "audio_state_id": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        },
+        "P5": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "address",
+            "ql_position_id",
+            "pair_index",
+            "face_order",
+            "start_frame",
+            "duration_frames",
+            "intent",
+            "visual_action",
+            "generation_plan",
+            "symbol_state_id",
+            "audio_state_id"
+          ],
+          "properties": {
+            "address": {
+              "const": "P5"
+            },
+            "ql_position_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "pair_index": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 5
+            },
+            "face_order": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "start_frame": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_frames": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "intent": {
+              "type": "object"
+            },
+            "visual_action": {
+              "type": "string",
+              "minLength": 1
+            },
+            "camera": {
+              "type": "object"
+            },
+            "light_material": {
+              "type": "object"
+            },
+            "generation_plan": {
+              "type": "object"
+            },
+            "accepted_plate_asset_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "format": "uuid"
+            },
+            "symbol_state_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "audio_state_id": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        },
+        "P0′": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "address",
+            "ql_position_id",
+            "pair_index",
+            "face_order",
+            "start_frame",
+            "duration_frames",
+            "intent",
+            "visual_action",
+            "generation_plan",
+            "symbol_state_id",
+            "audio_state_id"
+          ],
+          "properties": {
+            "address": {
+              "const": "P0′"
+            },
+            "ql_position_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "pair_index": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 5
+            },
+            "face_order": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "start_frame": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_frames": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "intent": {
+              "type": "object"
+            },
+            "visual_action": {
+              "type": "string",
+              "minLength": 1
+            },
+            "camera": {
+              "type": "object"
+            },
+            "light_material": {
+              "type": "object"
+            },
+            "generation_plan": {
+              "type": "object"
+            },
+            "accepted_plate_asset_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "format": "uuid"
+            },
+            "symbol_state_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "audio_state_id": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        },
+        "P1′": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "address",
+            "ql_position_id",
+            "pair_index",
+            "face_order",
+            "start_frame",
+            "duration_frames",
+            "intent",
+            "visual_action",
+            "generation_plan",
+            "symbol_state_id",
+            "audio_state_id"
+          ],
+          "properties": {
+            "address": {
+              "const": "P1′"
+            },
+            "ql_position_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "pair_index": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 5
+            },
+            "face_order": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "start_frame": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_frames": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "intent": {
+              "type": "object"
+            },
+            "visual_action": {
+              "type": "string",
+              "minLength": 1
+            },
+            "camera": {
+              "type": "object"
+            },
+            "light_material": {
+              "type": "object"
+            },
+            "generation_plan": {
+              "type": "object"
+            },
+            "accepted_plate_asset_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "format": "uuid"
+            },
+            "symbol_state_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "audio_state_id": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        },
+        "P2′": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "address",
+            "ql_position_id",
+            "pair_index",
+            "face_order",
+            "start_frame",
+            "duration_frames",
+            "intent",
+            "visual_action",
+            "generation_plan",
+            "symbol_state_id",
+            "audio_state_id"
+          ],
+          "properties": {
+            "address": {
+              "const": "P2′"
+            },
+            "ql_position_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "pair_index": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 5
+            },
+            "face_order": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "start_frame": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_frames": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "intent": {
+              "type": "object"
+            },
+            "visual_action": {
+              "type": "string",
+              "minLength": 1
+            },
+            "camera": {
+              "type": "object"
+            },
+            "light_material": {
+              "type": "object"
+            },
+            "generation_plan": {
+              "type": "object"
+            },
+            "accepted_plate_asset_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "format": "uuid"
+            },
+            "symbol_state_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "audio_state_id": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        },
+        "P3′": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "address",
+            "ql_position_id",
+            "pair_index",
+            "face_order",
+            "start_frame",
+            "duration_frames",
+            "intent",
+            "visual_action",
+            "generation_plan",
+            "symbol_state_id",
+            "audio_state_id"
+          ],
+          "properties": {
+            "address": {
+              "const": "P3′"
+            },
+            "ql_position_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "pair_index": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 5
+            },
+            "face_order": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "start_frame": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_frames": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "intent": {
+              "type": "object"
+            },
+            "visual_action": {
+              "type": "string",
+              "minLength": 1
+            },
+            "camera": {
+              "type": "object"
+            },
+            "light_material": {
+              "type": "object"
+            },
+            "generation_plan": {
+              "type": "object"
+            },
+            "accepted_plate_asset_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "format": "uuid"
+            },
+            "symbol_state_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "audio_state_id": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        },
+        "P4′": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "address",
+            "ql_position_id",
+            "pair_index",
+            "face_order",
+            "start_frame",
+            "duration_frames",
+            "intent",
+            "visual_action",
+            "generation_plan",
+            "symbol_state_id",
+            "audio_state_id"
+          ],
+          "properties": {
+            "address": {
+              "const": "P4′"
+            },
+            "ql_position_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "pair_index": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 5
+            },
+            "face_order": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "start_frame": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_frames": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "intent": {
+              "type": "object"
+            },
+            "visual_action": {
+              "type": "string",
+              "minLength": 1
+            },
+            "camera": {
+              "type": "object"
+            },
+            "light_material": {
+              "type": "object"
+            },
+            "generation_plan": {
+              "type": "object"
+            },
+            "accepted_plate_asset_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "format": "uuid"
+            },
+            "symbol_state_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "audio_state_id": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        },
+        "P5′": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "address",
+            "ql_position_id",
+            "pair_index",
+            "face_order",
+            "start_frame",
+            "duration_frames",
+            "intent",
+            "visual_action",
+            "generation_plan",
+            "symbol_state_id",
+            "audio_state_id"
+          ],
+          "properties": {
+            "address": {
+              "const": "P5′"
+            },
+            "ql_position_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "pair_index": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 5
+            },
+            "face_order": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "start_frame": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_frames": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "intent": {
+              "type": "object"
+            },
+            "visual_action": {
+              "type": "string",
+              "minLength": 1
+            },
+            "camera": {
+              "type": "object"
+            },
+            "light_material": {
+              "type": "object"
+            },
+            "generation_plan": {
+              "type": "object"
+            },
+            "accepted_plate_asset_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "format": "uuid"
+            },
+            "symbol_state_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "audio_state_id": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        }
+      }
+    },
+    "layers": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "kind",
+          "z_index",
+          "start_frame",
+          "duration_frames",
+          "source",
+          "operations"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "kind": {
+            "enum": [
+              "video",
+              "image",
+              "symbol",
+              "mask",
+              "type",
+              "colour",
+              "effect"
+            ]
+          },
+          "z_index": {
+            "type": "integer"
+          },
+          "start_frame": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "duration_frames": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "source": {
+            "type": "object"
+          },
+          "operations": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          }
+        }
+      }
+    },
+    "audio": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "sample_rate",
+        "channels",
+        "master_asset_id",
+        "mix_plan"
+      ],
+      "properties": {
+        "sample_rate": {
+          "type": "integer",
+          "minimum": 8000
+        },
+        "channels": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 8
+        },
+        "master_asset_id": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "mix_plan": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        }
+      }
+    },
+    "loop": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "enabled",
+        "first_anchor",
+        "last_anchor",
+        "max_visual_delta",
+        "max_audio_discontinuity_db",
+        "semantic_delta_required"
+      ],
+      "properties": {
+        "enabled": {
+          "const": true
+        },
+        "first_anchor": {
+          "type": "object"
+        },
+        "last_anchor": {
+          "type": "object"
+        },
+        "max_visual_delta": {
+          "type": "number",
+          "minimum": 0
+        },
+        "max_audio_discontinuity_db": {
+          "type": "number",
+          "minimum": 0
+        },
+        "semantic_delta_required": {
+          "const": true
+        }
+      }
+    },
+    "outputs": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "container",
+          "video_codec",
+          "audio_codec",
+          "width",
+          "height",
+          "alpha"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "container": {
+            "enum": [
+              "mp4",
+              "webm",
+              "mov",
+              "gif",
+              "png",
+              "webp",
+              "pdf",
+              "wav",
+              "flac",
+              "opus"
+            ]
+          },
+          "video_codec": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "audio_codec": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "width": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 1
+          },
+          "height": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 1
+          },
+          "alpha": {
+            "type": "boolean"
+          },
+          "settings": {
+            "type": "object"
+          }
+        }
+      }
+    },
+    "renderer": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "version",
+        "ffmpeg_version",
+        "composition_id"
+      ],
+      "properties": {
+        "name": {
+          "const": "remotion"
+        },
+        "version": {
+          "type": "string"
+        },
+        "ffmpeg_version": {
+          "type": "string"
+        },
+        "composition_id": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

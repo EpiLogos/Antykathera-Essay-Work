@@ -1,0 +1,34 @@
+{
+  "kind": "request",
+  "action": "ql.map",
+  "action_version": "1.0.0",
+  "request_id": "f6d022a8-ec36-542f-b570-8de7d93176ad",
+  "idempotency_key": "fixture-ql-map-0001",
+  "actor": {
+    "kind": "agent",
+    "id": "fixture-agent",
+    "harness": "reference-shell"
+  },
+  "session_id": "b6490ee6-34b7-52cc-bac5-4f68a9476662",
+  "engagement_id": "fae0da36-f3fd-5e80-b26c-4d5287b7792d",
+  "input": {
+    "engagement_id": "fae0da36-f3fd-5e80-b26c-4d5287b7792d",
+    "source_form_ids": [
+      "b934ce25-29e8-5ffd-94e3-4836008bacd6"
+    ],
+    "basin_revision_id": "24261cce-69b0-57f2-809e-e3ab769d0ea0",
+    "lens_profile": {
+      "profile_id": "0fd391e0-dd44-5145-8674-f0cf500fd334",
+      "kind": "ql-lens",
+      "version": "1.0.0",
+      "content_hash": "6b28e20f65e2297d7b842be94b43b97920575f055a320eaf6b9e0d631c7ce5a1"
+    },
+    "mapping_constraints": []
+  },
+  "options": {
+    "dry_run": false,
+    "approval_mode": "required-when-declared",
+    "wait": false,
+    "resume_run_id": null
+  }
+}

@@ -1,0 +1,80 @@
+# Download Report
+
+Mode: downloaded
+
+- `pyramidion-benben-egyptian-museum__egyptian-priest-teti-with-his-family-walters-22163-jpg.jpg` — score 16 — File:Egyptian - Priest Teti with His Family - Walters 22163.jpg
+  - Query: pyramidion benben Egyptian museum
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Egyptian_-_Priest_Teti_with_His_Family_-_Walters_22163.jpg
+- `atum-egyptian-god-relief__section-of-a-limestone-temple-relief-of-ramesses-ii-slaying-an-asiatic-enemy-excavated-at-.jpg` — score 19 — File:Section of a Limestone Temple Relief of Ramesses II slaying an Asiatic enemy excavated at Tell El-Retaba 1292-1190 BCE (Dynasty 19) Egypt Penn Museum.jpg
+  - Query: Atum Egyptian god relief
+  - License: CC BY-SA 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:Section_of_a_Limestone_Temple_Relief_of_Ramesses_II_slaying_an_Asiatic_enemy_excavated_at_Tell_El-Retaba_1292-1190_BCE_%28Dynasty_19%29_Egypt_Penn_Museum.jpg
+- `shu-tefnut-egyptian-relief__temple-relief-from-wadi-es-sebua-by-dennis-g-jarvis-jpg.jpg` — score 12 — File:Temple relief from Wadi es-Sebua by Dennis G. Jarvis.jpg
+  - Query: Shu Tefnut Egyptian relief
+  - License: CC BY 2.0
+  - Source: https://commons.wikimedia.org/wiki/File:Temple_relief_from_Wadi_es-Sebua_by_Dennis_G._Jarvis.jpg
+- `shabaka-stone-british-museum__british-museum-6424753957-jpg.jpg` — score 19 — File:British Museum (6424753957).jpg
+  - Query: Shabaka Stone British Museum
+  - License: CC BY 2.0
+  - Source: https://commons.wikimedia.org/wiki/File:British_Museum_%286424753957%29.jpg
+- `ptah-egyptian-god-relief__relief-showing-part-of-a-temple-of-ptah-with-haremhab-smiting-an-enemy-in-front-of-the-god.jpg` — score 19 — File:Relief showing part of a temple of Ptah with Haremhab smiting an enemy in front of the god MET DP234767.jpg
+  - Query: Ptah Egyptian god relief
+  - License: CC0
+  - Source: https://commons.wikimedia.org/wiki/File:Relief_showing_part_of_a_temple_of_Ptah_with_Haremhab_smiting_an_enemy_in_front_of_the_god_MET_DP234767.jpg
+- `maat-feather-weighing-of-the-heart__bd-weighing-of-the-heart-jpg.jpg` — score 21 — File:BD Weighing of the Heart.jpg
+  - Query: Maat feather weighing of the heart
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:BD_Weighing_of_the_Heart.jpg
+- `maat-goddess-feather-relief__the-sacred-beetle-a-popular-treatise-on-egyptian-scarabs-in-art-and-history-1902-147682707.jpg` — score 19 — File:The sacred beetle- a popular treatise on Egyptian scarabs in art and history (1902) (14768270742).jpg
+  - Query: Maat goddess feather relief
+  - License: No restrictions
+  - Source: https://commons.wikimedia.org/wiki/File:The_sacred_beetle-_a_popular_treatise_on_Egyptian_scarabs_in_art_and_history_%281902%29_%2814768270742%29.jpg
+- `ra-solar-barque-apophis__barque-solaire-contre-apopi-jpg.jpg` — score 17 — File:Barque solaire contre Apopi.jpg
+  - Query: Ra solar barque Apophis
+  - License: CC BY-SA 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:Barque_solaire_contre_Apopi.jpg
+- `amduat-ra-osiris__sarcophagus-of-nectanebo-ii-53499057626-jpg.jpg` — score 9 — File:Sarcophagus of Nectanebo II (53499057626).jpg
+  - Query: Amduat Ra Osiris
+  - License: CC BY 2.0
+  - Source: https://commons.wikimedia.org/wiki/File:Sarcophagus_of_Nectanebo_II_%2853499057626%29.jpg
+- `book-of-gates-ra-osiris__tomb-corridor-b-of-tomb-kv1-of-ramesses-vii-jpg.jpg` — score 16 — File:Tomb Corridor B of Tomb KV1 of Ramesses VII.jpg
+  - Query: Book of Gates Ra Osiris
+  - License: CC BY-SA 4.0
+  - Source: https://commons.wikimedia.org/wiki/File:Tomb_Corridor_B_of_Tomb_KV1_of_Ramesses_VII.jpg
+- `hermes-trismegistus-engraving__hermestrismegistuscauchighreshighcontr-svg.png` — score 18 — File:HermesTrismegistusCaucHighResHighContr.svg
+  - Query: Hermes Trismegistus engraving
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:HermesTrismegistusCaucHighResHighContr.svg
+- `corpus-hermeticum-manuscript__asclepius-bml-san-marco-341-jpg.jpg` — score 12 — File:Asclepius, BML San Marco 341.jpg
+  - Query: Corpus Hermeticum manuscript
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Asclepius%2C_BML_San_Marco_341.jpg
+- `emerald-tablet-hermes-trismegistus__table-emeraude-chrysogonus-jpg.jpg` — score 18 — File:Table Emeraude Chrysogonus.jpg
+  - Query: Emerald Tablet Hermes Trismegistus
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Table_Emeraude_Chrysogonus.jpg
+- `tabula-smaragdina-manuscript__aurora-consurgens-zurich-007-f-3r-7-building-jpg.jpg` — score 12 — File:Aurora consurgens zurich 007 f-3r-7 building.jpg
+  - Query: Tabula Smaragdina manuscript
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Aurora_consurgens_zurich_007_f-3r-7_building.jpg
+- `chrysopoeia-of-cleopatra-ouroboros__chrysopoea-of-cleopatra-1-png.png` — score 14 — File:Chrysopoea of Cleopatra 1.png
+  - Query: Chrysopoeia of Cleopatra ouroboros
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Chrysopoea_of_Cleopatra_1.png
+- `tao-te-ching-manuscript__mawangdui-laotsu-ms2-jpg.jpg` — score 11 — File:Mawangdui LaoTsu Ms2.JPG
+  - Query: Tao Te Ching manuscript
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:Mawangdui_LaoTsu_Ms2.JPG
+- `tiamat-babylonian-chaos__image-from-page-43-of-ancient-seals-of-the-near-east-1940-jpg.jpg` — score 9 — File:Image from page 43 of "Ancient seals of the Near East" (1940).jpg
+  - Query: Tiamat Babylonian chaos
+  - License: No restrictions
+  - Source: https://commons.wikimedia.org/wiki/File:Image_from_page_43_of_%22Ancient_seals_of_the_Near_East%22_%281940%29.jpg
+- `okeanos-greek-mosaic__syr-1964-minr0873-pm-b002-jpg.jpg` — score 12 — File:SYR 1964 MiNr0873 pm B002.jpg
+  - Query: Okeanos Greek mosaic
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:SYR_1964_MiNr0873_pm_B002.jpg
+- `plato-academy-mosaic__mannapoli-124545-plato-s-academy-mosaic-jpg.jpg` — score 12 — File:MANNapoli 124545 plato's academy mosaic.jpg
+  - Query: Plato Academy mosaic
+  - License: Public domain
+  - Source: https://commons.wikimedia.org/wiki/File:MANNapoli_124545_plato%27s_academy_mosaic.jpg

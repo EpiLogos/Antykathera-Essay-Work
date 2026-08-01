@@ -1,0 +1,48 @@
+{
+  "manifest_version": "1.0.0",
+  "package": "Antikythera submission artifacts",
+  "current_specification": "2026-07-29-published-vault-reader-package-spec.md",
+  "artifacts": [
+    {
+      "id": "published-vault",
+      "path": "published-vault/",
+      "kind": "obsidian-publish-vault",
+      "role": "primary-publication",
+      "status": "specified-build-pending",
+      "description": "The sovereign essay and its linked depth, diagrams, paths, sources, and public graph navigation."
+    },
+    {
+      "id": "traversal-ledger",
+      "path": "epi-logos/resources/reader/",
+      "kind": "reader-owned-markdown-protocol",
+      "role": "reading-continuity",
+      "status": "protocol-and-template-present",
+      "description": "A content-agnostic record of linear, branching, rejoining, revisiting, and returning movement through a vault release."
+    },
+    {
+      "id": "epi-logos",
+      "path": "epi-logos/",
+      "kind": "claude-code-plugin",
+      "role": "reader-companion",
+      "status": "installable-package-under-revision",
+      "description": "Reads, follows, teaches, and investigates the published work through one QL/MEF instrument."
+    },
+    {
+      "id": "epi-card-system-v1",
+      "path": "epi-card-system-v1/",
+      "kind": "optional-integration-specification",
+      "role": "reader-encounter-capsule",
+      "status": "contract-validated-runtime-not-included",
+      "integrates_with": [
+        "published-vault",
+        "traversal-ledger",
+        "epi-logos"
+      ],
+      "boundary": "Consumes a frozen reader-owned traversal snapshot and stable vault asset references to produce an optional Epi-Card engagement. It neither defines nor mutates the essay canon, vault architecture, source authority, or traversal history.",
+      "validation": {
+        "command": "python scripts/validate-spec-package.py --json release/VALIDATION_REPORT.json --markdown release/VALIDATION_REPORT.md",
+        "scope": "Specification, schemas, generated registries, examples, SQL parity, integrity manifest, skill wrapper, and links; no application runtime."
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orient Return of Zero"
+  short_description: "Recover the project’s canonical working context"
+  default_prompt: "Orient this task inside the Return of Zero canon and open the exact material it requires."

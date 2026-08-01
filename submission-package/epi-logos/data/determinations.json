@@ -1,0 +1,82 @@
+{
+  "_source": "Serialized from the canonical derivation resources/updated-ql-mef/non-dual-binary/six_determinations.md ('The Six Determinations: A Self-Derivation Through the Poem'). The six isoid signs are the six QL positions' native operators; the -/- parent (lines 21, 119-125) brackets above and the 1/0 return-switch (lines 21, 107-117) below. Line names (Ground/Definition/Dynamis/Pattern/Context/Realisation) and operations taken from each line's exposition. No signs or operations invented; also cross-checked against CLAUDE.md 'six determinations' matheme (0/1, ?/!, -/+, X/x, AM/IS, infinity/dx) and canon/ refraction ledger item 7.",
+  "_status": "canon-sourced (six_determinations.md); operation glosses distilled from the named line-expositions",
+  "matheme": "0/1 = 4+2 = 5->0 = 0/1  (the -/- parent held in reserve above; the 1/0 return performed below)",
+  "parent": {
+    "number": "parent",
+    "sign": "-/-",
+    "name": "Bare relationality",
+    "operation": "grounds-without-containing -- the parent relation of bare relationality before any field is differentiated; the unnamed centre the six determinations orbit, held in formal reserve (never named, or it would fall into the determinate field). Svatantrya at the determinative threshold: the freedom that does not negotiate with what it brings forth.",
+    "threshold": "above"
+  },
+  "determinations": [
+    {
+      "number": "#0",
+      "sign": "0/1",
+      "name": "Ground",
+      "harmonic": "Being",
+      "operation": "grounds / opens -- the conscious circumstance in which determination can take place at all; the slash is the original distinction by which a field can have something in it (field/apparition, opening/mark). The Being-pole: appearing is in awareness, and awareness is met only through appearing.",
+      "poem_line": "The unchanging is beyond consequence, but is the opposite of inconsequential."
+    },
+    {
+      "number": "#1",
+      "sign": "?/!",
+      "name": "Definition",
+      "harmonic": "Being",
+      "operation": "asks-and-asserts -- poses the question and takes the determinative mark in one breath; openness-to-determination (?) and determinative speech (!) as the first formal face of definition. Ratio in its living sense: the reckoning that gives an account while staying answerable to what called it forth.",
+      "poem_line": "What allows for an essence is essentially inessential."
+    },
+    {
+      "number": "#2",
+      "sign": "-/+",
+      "name": "Dynamis",
+      "harmonic": "Becoming",
+      "operation": "pulses -- force as polarity: reserve/withdrawal/contraction (-) and issue/extension/release (+) as one sustained motion, not two states. The definitional minimum of Spanda: the subtle movement that moves before it manifests as motion.",
+      "poem_line": "What builds for itself a journey is perpetually residential."
+    },
+    {
+      "number": "#3",
+      "sign": "X/x",
+      "name": "Pattern",
+      "harmonic": "Becoming",
+      "operation": "multiplies / instances -- capacity (X) that gives determinate forms (lower-case x) without being exhausted by them; identity-in-difference, progenitive: the same letter recurring, doing the same thing each time it instances and never depleted by any instance.",
+      "poem_line": "Sojourning through time yet unmovingly presidential."
+    },
+    {
+      "number": "#4",
+      "sign": "AM/IS",
+      "name": "Context",
+      "harmonic": "Knowing-Unknowing",
+      "operation": "situates -- the copula in lived grammar: AM (living first-person presence) / IS (third-person describability) met through the second-person slash; person as the situated holding of first, second, and third person together in one lived where (Dasein's there).",
+      "poem_line": "Context total yet totally incidental."
+    },
+    {
+      "number": "#5",
+      "sign": "∞/dx",
+      "name": "Realisation",
+      "harmonic": "Knowing-Unknowing",
+      "operation": "differentiates -- reads the finite instance (dx, the infinitesimal differential) as exact in its ratio to the inexhaustible depth (∞) it does not exhaust; the x of X/x becomes dx, the local differential of the field. Achievement recognised as not-closure.",
+      "poem_line": "Silent but in structure reverential."
+    }
+  ],
+  "return": {
+    "number": "return",
+    "sign": "1/0",
+    "name": "The Return-switch",
+    "operation": "returns / phase-flips -- flips the achieved field back onto its ground; not a seventh determination but the switch by which the sequence reads itself as resting on what it cannot reach. 5->0 = 0/1: pratyabhijna, the recognition that the foundation was never found because it is what does the finding.",
+    "poem_line": "Foundation of mind, unfound by the mental.",
+    "threshold": "below"
+  },
+  "harmonics": {
+    "_note": "Three disclosures, each articulated through a pair of determinations (six_determinations.md, 'The Harmonics'). This is why QL has six positions.",
+    "Being": ["#0", "#1"],
+    "Becoming": ["#2", "#3"],
+    "Knowing-Unknowing": ["#4", "#5"]
+  },
+  "symmetries": {
+    "_note": "Cross-sequence pairs summing to 5 (six_determinations.md, 'The Symmetries').",
+    "Essence": {"pair": ["#0", "#5"], "sum": 5},
+    "Constitution": {"pair": ["#1", "#4"], "sum": 5},
+    "Text-Texture": {"pair": ["#2", "#3"], "sum": 5}
+  }
+}

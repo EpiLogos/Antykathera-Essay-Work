@@ -1,0 +1,1 @@
+The -hood suffix denotes a personal acting out of a given role, whilst the -ship is the principle or archetype of the role. "The Mothership can't save you so your ass is gon' get left." as Erykah said. The Mothership is the coming 4th, the Great Mother principle that will return as the Motherhood of the Earth draws on through menopausal years. 

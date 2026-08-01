@@ -1,0 +1,1848 @@
+version: 1.0.0
+action_count: 66
+actions:
+- name: pasu.create
+  version: 1.0.0
+  side_effect: write
+  required_input: kind, public_handle?, locale?, timezone_default?, consent_profile
+  output_contract: pasu_id
+  permissions:
+  - pasu:write
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: true
+  idempotency_policy: request key
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/pasu_create_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/pasu_create_output
+  success_condition: Pasu row and creator audit committed
+- name: pasu.snapshot
+  version: 1.0.0
+  side_effect: write
+  required_input: pasu_id, attribute_ids?, disclosure, provider_scope
+  output_contract: pasu_snapshot_id, included/redacted attributes
+  permissions:
+  - pasu:read
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: true
+  idempotency_policy: content hash
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/pasu_snapshot_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/pasu_snapshot_output
+  success_condition: Immutable snapshot and disclosure receipt committed
+- name: session.open
+  version: 1.0.0
+  side_effect: write
+  required_input: pasu_id?, parent_session_id?, harness, harness_session_ref?, timezone, locale?, disclosure
+  output_contract: session_id, one-time raw session_key
+  permissions:
+  - session:write
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: true
+  idempotency_policy: request key
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/session_open_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/session_open_output
+  success_condition: UUIDv7 session and hashed 256-bit key stored
+- name: session.resume
+  version: 1.0.0
+  side_effect: read
+  required_input: session_id or raw session_key, last_event_sequence?
+  output_contract: session state, active runs, continuation set
+  permissions:
+  - session:read
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: false
+  idempotency_policy: read idempotent
+  transaction_class: read_only
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/session_resume_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/session_resume_output
+  success_condition: Credential verified; no state mutation except acknowledged sequence
+- name: session.close
+  version: 1.0.0
+  side_effect: write
+  required_input: session_id
+  output_contract: ended_at, final state
+  permissions:
+  - session:write
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: true
+  idempotency_policy: session+close
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/session_close_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/session_close_output
+  success_condition: Session closed once; repeated calls return same result
+- name: temporal.capture
+  version: 1.0.0
+  side_effect: write
+  required_input: session_id, event_time?, observed_at, timezone, location?, astronomy request?, astrology profile?
+  output_contract: temporal_snapshot_id, raw facts, interpreted contribution refs
+  permissions:
+  - temporal:write
+  provider_dependencies:
+  - provider_capability
+  gate_summary: provider disclosure when external astronomy is used
+  gate_mode: conditional
+  gates:
+  - kind: provider_disclosure
+    stage: pre_execute
+    mode: conditional
+    when:
+      predicate: provider.is_external
+      arguments:
+        capability: astronomy
+    requires:
+      predicate: disclosure.provider_receipt_valid
+      arguments:
+        purpose: astronomy
+  audit_required: true
+  idempotency_policy: fact-input hash
+  transaction_class: external_saga
+  retry_policy:
+    max_attempts: 3
+    backoff: exponential_jitter
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/temporal_capture_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/temporal_capture_output
+  success_condition: Facts and interpretations stored separately with provider/profile versions
+- name: source.ingest
+  version: 1.0.0
+  side_effect: write
+  required_input: engagement_id, source_kind, declared_arity?, source URI/file/value, disclosure
+  output_contract: source_form_id, source_member_ids, asset_ids
+  permissions:
+  - source:write
+  provider_dependencies:
+  - provider_capability
+  gate_summary: provider disclosure when extraction leaves runtime
+  gate_mode: conditional
+  gates:
+  - kind: provider_disclosure
+    stage: pre_execute
+    mode: conditional
+    when:
+      predicate: source.extraction_leaves_runtime
+      arguments: {}
+    requires:
+      predicate: disclosure.provider_receipt_valid
+      arguments:
+        purpose: source_extraction
+  audit_required: true
+  idempotency_policy: source hash
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/source_ingest_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/source_ingest_output
+  success_condition: Native form and every source member stored before mapping
+- name: recording.ingest
+  version: 1.0.0
+  side_effect: write
+  required_input: session_id, engagement_id?, recording file, speaker map?, consent_state, disclosure
+  output_contract: recording_id, source asset_id
+  permissions:
+  - recording:write
+  provider_dependencies: []
+  gate_summary: explicit consent state required
+  gate_mode: required
+  gates:
+  - kind: consent
+    stage: pre_execute
+    mode: always
+    when:
+      predicate: always
+      arguments: {}
+    requires:
+      predicate: consent.recording_allows_scope
+      arguments: {}
+  audit_required: true
+  idempotency_policy: asset hash
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/recording_ingest_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/recording_ingest_output
+  success_condition: Recording asset hashed and consent metadata present
+- name: recording.transcribe
+  version: 1.0.0
+  side_effect: generate
+  required_input: recording_id, provider profile, language hints?, diarisation settings
+  output_contract: transcript_id, segment_ids, transcript asset
+  permissions:
+  - recording:transcribe
+  provider_dependencies:
+  - provider_capability
+  gate_summary: external-provider disclosure required
+  gate_mode: conditional
+  gates:
+  - kind: provider_disclosure
+    stage: pre_execute
+    mode: conditional
+    when:
+      predicate: provider.is_external
+      arguments:
+        capability: transcription
+    requires:
+      predicate: disclosure.provider_receipt_valid
+      arguments:
+        purpose: transcription
+  audit_required: true
+  idempotency_policy: recording hash+provider+settings
+  transaction_class: external_saga
+  retry_policy:
+    max_attempts: 3
+    backoff: exponential_jitter
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/recording_transcribe_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/recording_transcribe_output
+  success_condition: Time-addressed segments, model version, confidence and digest stored
+- name: evidence.link
+  version: 1.0.0
+  side_effect: write
+  required_input: engagement_id, target kind/id, source kind/id/URI, selector, relation, register, note?
+  output_contract: evidence_link_id
+  permissions:
+  - evidence:write
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: true
+  idempotency_policy: target+source+selector hash
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/evidence_link_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/evidence_link_output
+  success_condition: Typed evidence edge resolves to an allowed source and target kind
+- name: projection.materialize
+  version: 1.0.0
+  side_effect: write
+  required_input: engagement_id, projection_kind, disclosure profile/version, source revision manifest, provider/purpose when applicable
+  output_contract: projection_id, snapshot hash, included/redacted paths
+  permissions:
+  - projection:write
+  provider_dependencies: []
+  gate_summary: review required for shared, public, and provider projections
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_commit
+    mode: conditional
+    when:
+      predicate: projection.kind_in
+      arguments:
+        values:
+        - shared
+        - public
+        - provider
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: projection
+  - kind: provider_disclosure
+    stage: pre_execute
+    mode: conditional
+    when:
+      predicate: projection.kind_is
+      arguments:
+        value: provider
+    requires:
+      predicate: disclosure.provider_receipt_valid
+      arguments:
+        purpose: provider_projection
+  audit_required: true
+  idempotency_policy: engagement revisions+profile+target hash
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/projection_materialize_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/projection_materialize_output
+  success_condition: Immutable disclosure-scoped snapshot is stored; provider projection names provider and purpose
+- name: projection.validate
+  version: 1.0.0
+  side_effect: read
+  required_input: projection_id, validation profile/version
+  output_contract: validation report, disclosure findings
+  permissions:
+  - projection:read
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: false
+  idempotency_policy: projection hash+validator version
+  transaction_class: read_only
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/projection_validate_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/projection_validate_output
+  success_condition: Snapshot hash, allowed fields/assets, source revisions, and disclosure constraints validate without mutation
+- name: attractor.create
+  version: 1.0.0
+  side_effect: write
+  required_input: kind, label, description?, stable_key?
+  output_contract: attractor_id, revision_id
+  permissions:
+  - attractor:write
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: true
+  idempotency_policy: stable_key or request key
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/attractor_create_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/attractor_create_output
+  success_condition: Attractor and revision 1 committed without graph dependency
+- name: basin.resolve
+  version: 1.0.0
+  side_effect: generate
+  required_input: engagement/attractor revision, source forms, context, active lens/profile
+  output_contract: candidate basin revision, members, exclusions, unresolved set
+  permissions:
+  - basin:write
+  provider_dependencies: []
+  gate_summary: review required before canonical use
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: promotion.requested
+      arguments:
+        target: canonical_basin
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: basin
+  audit_required: true
+  idempotency_policy: input revision hash
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/basin_resolve_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/basin_resolve_output
+  success_condition: Every member has relation, weight, register, rationale and evidence/audit
+- name: basin.revise
+  version: 1.0.0
+  side_effect: write
+  required_input: attractor_id, prior revision, patch operations, rationale
+  output_contract: new attractor_revision_id, basin member set
+  permissions:
+  - basin:write
+  provider_dependencies: []
+  gate_summary: review when exclusions/essential members change
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: basin.essential_or_excluded_changed
+      arguments: {}
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: basin_revision
+  audit_required: true
+  idempotency_policy: prior revision+patch hash
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/basin_revise_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/basin_revise_output
+  success_condition: Immutable new revision; prior revision unchanged
+- name: ql.initialize
+  version: 1.0.0
+  side_effect: write
+  required_input: engagement_id
+  output_contract: 12 ql_position ids, canonical relations
+  permissions:
+  - ql:write
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: true
+  idempotency_policy: engagement id
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/ql_initialize_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/ql_initialize_output
+  success_condition: Exactly P0…P5 and P0′…P5′ plus relation seeds exist
+- name: ql.map
+  version: 1.0.0
+  side_effect: generate
+  required_input: engagement_id, source forms, basin revision, active lens/profile, mapping constraints
+  output_contract: assignments, claims, occupancy, summaries for 12 positions
+  permissions:
+  - ql:write
+  provider_dependencies: []
+  gate_summary: review required
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: promotion.requested
+      arguments:
+        target: approved_ql_frame
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: ql_frame
+  audit_required: true
+  idempotency_policy: semantic input hash
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/ql_map_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/ql_map_output
+  success_condition: No source member silently discarded; all claims registered/evidenced; full 6+6′ audit complete
+- name: ql.reconcile
+  version: 1.0.0
+  side_effect: generate
+  required_input: engagement_id, reconciliation scopes (conjugate/complement/partition/return)
+  output_contract: reconciliation findings and proposed patches
+  permissions:
+  - ql:write
+  provider_dependencies: []
+  gate_summary: review required for content mutation
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_commit
+    mode: conditional
+    when:
+      predicate: action.input_flag_true
+      arguments:
+        path: /input/apply_content_mutation
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: ql_reconciliation
+  audit_required: true
+  idempotency_policy: frame revision+scope
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/ql_reconcile_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/ql_reconcile_output
+  success_condition: Six conjugates, six complement relations by phase and 4:2/3:3 partitions inspected
+- name: ql.validate
+  version: 1.0.0
+  side_effect: read
+  required_input: engagement_id, validation profile
+  output_contract: validation_report_id, findings
+  permissions:
+  - ql:read
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: false
+  idempotency_policy: frame revision+validator version
+  transaction_class: read_only
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/ql_validate_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/ql_validate_output
+  success_condition: Structural, semantic and evidence validators run without mutation
+- name: ql.approve
+  version: 1.0.0
+  side_effect: write
+  required_input: engagement_id, frame revision, validation_report_id, approval actor/comment
+  output_contract: approval_id, approved frame revision
+  permissions:
+  - ql:approve
+  provider_dependencies: []
+  gate_summary: human or declared authorised actor
+  gate_mode: required
+  gates:
+  - kind: actor_authorization
+    stage: pre_execute
+    mode: always
+    when:
+      predicate: always
+      arguments: {}
+    requires:
+      predicate: actor.has_permission
+      arguments:
+        permission: ql:approve
+  audit_required: true
+  idempotency_policy: frame revision+actor
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/ql_approve_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/ql_approve_output
+  success_condition: All blocking findings cleared and approval stored
+- name: lock.acquire
+  version: 1.0.0
+  side_effect: write
+  required_input: engagement_id, target kind/id, field path, lock type, reason, expiry?
+  output_contract: resource_lock_id
+  permissions:
+  - lock:write
+  provider_dependencies: []
+  gate_summary: actor must hold lock permission for target
+  gate_mode: required
+  gates:
+  - kind: actor_authorization
+    stage: pre_execute
+    mode: always
+    when:
+      predicate: always
+      arguments: {}
+    requires:
+      predicate: actor.has_permission
+      arguments:
+        permission: lock:write
+  audit_required: true
+  idempotency_policy: active target+path
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/lock_acquire_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/lock_acquire_output
+  success_condition: One active lock exists for target/path and dependent actions receive conflict on mutation
+- name: lock.release
+  version: 1.0.0
+  side_effect: write
+  required_input: resource_lock_id, release reason
+  output_contract: released lock record
+  permissions:
+  - lock:write
+  provider_dependencies: []
+  gate_summary: lock owner or authorised lock manager
+  gate_mode: required
+  gates:
+  - kind: actor_authorization
+    stage: pre_execute
+    mode: always
+    when:
+      predicate: always
+      arguments: {}
+    requires:
+      predicate: actor.lock_release_authorized
+      arguments: {}
+  audit_required: true
+  idempotency_policy: lock id+release actor
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/lock_release_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/lock_release_output
+  success_condition: Lock is released once with actor/time/reason; immutable lock history remains
+- name: return.deposit
+  version: 1.0.0
+  side_effect: write
+  required_input: engagement_id, self_implication, remainder, achieved_work?, external implications, next_ground, seeds, semantic/media delta,
+    next engagement?
+  output_contract: return_deposit_id, next tick link
+  permissions:
+  - return:write
+  provider_dependencies: []
+  gate_summary: review required
+  gate_mode: required
+  gates:
+  - kind: human_review
+    stage: pre_commit
+    mode: always
+    when:
+      predicate: always
+      arguments: {}
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: return_deposit
+  audit_required: true
+  idempotency_policy: engagement+return content hash
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/return_deposit_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/return_deposit_output
+  success_condition: 5′→0⁺ record complete; optional next engagement does not equal current
+- name: resonance.resolve
+  version: 1.0.0
+  side_effect: generate
+  required_input: engagement_id, correspondence profile set, source contribution proposals
+  output_contract: aggregate and 12 position resonance_state ids, receipts
+  permissions:
+  - resonance:write
+  provider_dependencies: []
+  gate_summary: review for new open-extension contributions
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: resonance.open_extension_changed
+      arguments: {}
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: resonance_extension
+  audit_required: true
+  idempotency_policy: inputs+profile versions
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/resonance_resolve_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/resonance_resolve_output
+  success_condition: Circular phase and scalar/vector aggregates reproducible from persisted rows
+- name: resonance.project
+  version: 1.0.0
+  side_effect: write
+  required_input: resonance_state_ids, modality projection profile ids/versions
+  output_contract: projected_parameter_set ids
+  permissions:
+  - resonance:write
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: true
+  idempotency_policy: state hash+profile version
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/resonance_project_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/resonance_project_output
+  success_condition: Deterministic parameters and calculation receipts stored
+- name: resonance.compare
+  version: 1.0.0
+  side_effect: read
+  required_input: state ids or engagement ids, modalities?
+  output_contract: component deltas, profile deltas, nearest/contrasting states
+  permissions:
+  - resonance:read
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: true
+  idempotency_policy: read idempotent
+  transaction_class: read_only
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/resonance_compare_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/resonance_compare_output
+  success_condition: Comparison preserves circular phase and ratio-set semantics
+- name: art-direction.resolve
+  version: 1.0.0
+  side_effect: generate
+  required_input: engagement_id, projected parameters, constraints, references
+  output_contract: art_direction_revision candidate
+  permissions:
+  - art:write
+  provider_dependencies: []
+  gate_summary: review required
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: promotion.requested
+      arguments:
+        target: canonical_art_direction
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: art_direction
+  audit_required: true
+  idempotency_policy: resonance+constraints hash
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/art_direction_resolve_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/art_direction_resolve_output
+  success_condition: All palette/type/geometry/motion/light choices trace to projections or registered extension
+- name: palette.resolve
+  version: 1.0.0
+  side_effect: generate
+  required_input: engagement_id, colour projection, accessibility/print constraints
+  output_contract: semantic OKLCH tokens and fallbacks
+  permissions:
+  - art:write
+  provider_dependencies: []
+  gate_summary: review when canonical
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: action.input_flag_true
+      arguments:
+        path: /input/canonical_use
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: palette
+  audit_required: true
+  idempotency_policy: projection+constraints hash
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/palette_resolve_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/palette_resolve_output
+  success_condition: Required field/figure/boundary/bimba/pratibimba/accent/return/text tokens pass contrast checks
+- name: typography.resolve
+  version: 1.0.0
+  side_effect: generate
+  required_input: engagement_id, typography projection, text set, font inventory/licences
+  output_contract: typography signature, font refs, outlined title plan
+  permissions:
+  - art:write
+  provider_dependencies: []
+  gate_summary: review when canonical
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: action.input_flag_true
+      arguments:
+        path: /input/canonical_use
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: typography
+  audit_required: true
+  idempotency_policy: projection+inventory hash
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/typography_resolve_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/typography_resolve_output
+  success_condition: Font licensing recorded; bespoke display text has outline path
+- name: symbol.search
+  version: 1.0.0
+  side_effect: read
+  required_input: engagement_id, operation/topology/resonance/basin query, exclusions
+  output_contract: ranked symbol family/revision candidates and distances
+  permissions:
+  - symbol:read
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: true
+  idempotency_policy: query hash
+  transaction_class: read_only
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_search_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_search_output
+  success_condition: Results expose matching dimensions and do not auto-select
+- name: symbol.propose
+  version: 1.0.0
+  side_effect: generate
+  required_input: engagement_id, search result, resolution mode, grammar constraints
+  output_contract: candidate symbol revision and twelve-state plan
+  permissions:
+  - symbol:write
+  provider_dependencies: []
+  gate_summary: review required
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: promotion.requested
+      arguments:
+        target: canonicalization_candidate
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: symbol_proposal
+  audit_required: true
+  idempotency_policy: semantic+constraint hash
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_propose_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_propose_output
+  success_condition: Mode is one of reuse/parameterise/transform/combine/generate_new and has full audit
+- name: symbol.generate
+  version: 1.0.0
+  side_effect: generate
+  required_input: candidate grammar, vector/raster provider profile, references
+  output_contract: candidate assets, generation receipt
+  permissions:
+  - symbol:generate
+  provider_dependencies:
+  - provider_capability
+  gate_summary: external-provider disclosure and later review
+  gate_mode: conditional
+  gates:
+  - kind: provider_disclosure
+    stage: pre_execute
+    mode: conditional
+    when:
+      predicate: provider.is_external
+      arguments:
+        capability: symbol_generation
+    requires:
+      predicate: disclosure.provider_receipt_valid
+      arguments:
+        purpose: symbol_generation
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: promotion.requested
+      arguments:
+        target: canonicalization_candidate
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: symbol_generation
+  audit_required: true
+  idempotency_policy: grammar+provider+seed/reference hash
+  transaction_class: external_saga
+  retry_policy:
+    max_attempts: 3
+    backoff: exponential_jitter
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_generate_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_generate_output
+  success_condition: Outputs remain candidate; provider/model/version/input hashes stored
+- name: symbol.transform
+  version: 1.0.0
+  side_effect: generate
+  required_input: source symbol revision, permitted operators, target resonance/grammar
+  output_contract: candidate transformed revision/assets
+  permissions:
+  - symbol:write
+  provider_dependencies: []
+  gate_summary: review required
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: promotion.requested
+      arguments:
+        target: canonicalization_candidate
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: symbol_transform
+  audit_required: true
+  idempotency_policy: source hash+operator params
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_transform_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_transform_output
+  success_condition: Invariant grammar constraints remain satisfied or action fails
+- name: symbol.canonicalize
+  version: 1.0.0
+  side_effect: write
+  required_input: candidate revision, reconstructed grammar, SVG, geometry report
+  output_contract: validated symbol_revision and derivatives
+  permissions:
+  - symbol:write
+  provider_dependencies: []
+  gate_summary: human/authorised approval required
+  gate_mode: required
+  gates:
+  - kind: human_approval
+    stage: pre_commit
+    mode: always
+    when:
+      predicate: always
+      arguments: {}
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: symbol_canonicalization
+  audit_required: true
+  idempotency_policy: SVG hash+grammar hash
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_canonicalize_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_canonicalize_output
+  success_condition: Sanitised script-free SVG passes geometry, print and alpha checks
+- name: symbol.state.render
+  version: 1.0.0
+  side_effect: render
+  required_input: approved symbol revision, 12 transformation states, output profile
+  output_contract: 12 SVG states, transparent derivatives, mask assets
+  permissions:
+  - symbol:render
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: true
+  idempotency_policy: revision+state profile hash
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_state_render_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_state_render_output
+  success_condition: Exactly one state per QL address; P5′ and P0 loop anchors recorded
+- name: symbol.validate
+  version: 1.0.0
+  side_effect: read
+  required_input: symbol revision/assets, validator profile
+  output_contract: validation report and visual diff assets
+  permissions:
+  - symbol:read
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: false
+  idempotency_policy: asset hash+validator version
+  transaction_class: read_only
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_validate_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_validate_output
+  success_condition: SVG sanitation, grammar, bounds, alpha, print and loop-anchor checks complete
+- name: symbol.approve
+  version: 1.0.0
+  side_effect: write
+  required_input: symbol revision, passing report, actor decision
+  output_contract: approval id; revision status approved
+  permissions:
+  - symbol:approve
+  provider_dependencies: []
+  gate_summary: human or declared authorised actor
+  gate_mode: required
+  gates:
+  - kind: actor_authorization
+    stage: pre_execute
+    mode: always
+    when:
+      predicate: always
+      arguments: {}
+    requires:
+      predicate: actor.has_permission
+      arguments:
+        permission: symbol:approve
+  audit_required: true
+  idempotency_policy: revision+actor
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_approve_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/symbol_approve_output
+  success_condition: Canonical revision frozen; prior approval supersession explicit
+- name: storyboard.plan
+  version: 1.0.0
+  side_effect: generate
+  required_input: engagement_id, QL frame, art direction, symbol/audio states, duration profile
+  output_contract: storyboard revision, six pairs, twelve atoms, storyboard assets
+  permissions:
+  - storyboard:write
+  provider_dependencies: []
+  gate_summary: review required
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: promotion.requested
+      arguments:
+        target: production_storyboard
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: storyboard
+  audit_required: true
+  idempotency_policy: frame+art+duration hash
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/storyboard_plan_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/storyboard_plan_output
+  success_condition: Exactly 6 pairs/12 atoms cover all addresses and fit timeline
+- name: image.collect
+  version: 1.0.0
+  side_effect: write
+  required_input: engagement_id, search/import request, rights requirements
+  output_contract: reference asset ids, rights/provenance records
+  permissions:
+  - asset:collect
+  provider_dependencies:
+  - provider_capability
+  gate_summary: none unless external account access
+  gate_mode: conditional
+  gates:
+  - kind: account_authorization
+    stage: pre_execute
+    mode: conditional
+    when:
+      predicate: request.external_account_access
+      arguments: {}
+    requires:
+      predicate: account.authorization_valid
+      arguments: {}
+  audit_required: true
+  idempotency_policy: content/import hash
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/image_collect_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/image_collect_output
+  success_condition: Every asset has licence/rights/disclosure metadata
+- name: image.generate
+  version: 1.0.0
+  side_effect: generate
+  required_input: scene/symbol reference, provider profile, prompt plan, reference assets
+  output_contract: candidate image assets, provider receipt
+  permissions:
+  - asset:generate
+  provider_dependencies:
+  - provider_capability
+  gate_summary: external-provider disclosure
+  gate_mode: conditional
+  gates:
+  - kind: provider_disclosure
+    stage: pre_execute
+    mode: conditional
+    when:
+      predicate: provider.is_external
+      arguments:
+        capability: image_generation
+    requires:
+      predicate: disclosure.provider_receipt_valid
+      arguments:
+        purpose: image_generation
+  audit_required: true
+  idempotency_policy: request hash
+  transaction_class: external_saga
+  retry_policy:
+    max_attempts: 3
+    backoff: exponential_jitter
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/image_generate_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/image_generate_output
+  success_condition: Candidates only; exact symbol/type are not baked as canonical layers
+- name: image.edit
+  version: 1.0.0
+  side_effect: generate
+  required_input: input asset, edit instructions/mask, provider or deterministic mode
+  output_contract: edited candidate/intermediate asset
+  permissions:
+  - asset:generate
+  provider_dependencies:
+  - provider_capability
+  gate_summary: provider disclosure if external
+  gate_mode: conditional
+  gates:
+  - kind: provider_disclosure
+    stage: pre_execute
+    mode: conditional
+    when:
+      predicate: provider.is_external
+      arguments:
+        capability: image_edit
+    requires:
+      predicate: disclosure.provider_receipt_valid
+      arguments:
+        purpose: image_edit
+  audit_required: true
+  idempotency_policy: input hash+edit params
+  transaction_class: external_saga
+  retry_policy:
+    max_attempts: 3
+    backoff: exponential_jitter
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/image_edit_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/image_edit_output
+  success_condition: Derivation link and model/operation version stored
+- name: image.alpha
+  version: 1.0.0
+  side_effect: generate
+  required_input: input image, method/profile, edge constraints
+  output_contract: transparent asset, alpha mask, matte report
+  permissions:
+  - asset:generate
+  provider_dependencies: []
+  gate_summary: review for canonical symbol
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: target.role_equals
+      arguments:
+        value: canonical_symbol
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: symbol_alpha
+  audit_required: true
+  idempotency_policy: input hash+method
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/image_alpha_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/image_alpha_output
+  success_condition: Alpha edge, fringing, hole and bounds tests pass
+- name: scene.plan
+  version: 1.0.0
+  side_effect: write
+  required_input: storyboard revision, position/pair patch, timing/camera/light/generation plan
+  output_contract: new storyboard revision
+  permissions:
+  - storyboard:write
+  provider_dependencies: []
+  gate_summary: review if approved revision changed
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_commit
+    mode: conditional
+    when:
+      predicate: storyboard.approved_revision_changed
+      arguments: {}
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: storyboard_change
+  audit_required: true
+  idempotency_policy: prior revision+patch
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/scene_plan_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/scene_plan_output
+  success_condition: Immutable revision maintains 6/12 coverage and timeline limits
+- name: video.submit
+  version: 1.0.0
+  side_effect: generate
+  required_input: scene atom/pair or full storyboard, provider capability version, prompt/reference allocation
+  output_contract: provider_job id, request hash
+  permissions:
+  - video:generate
+  provider_dependencies:
+  - provider_capability
+  gate_summary: external-provider disclosure
+  gate_mode: conditional
+  gates:
+  - kind: provider_disclosure
+    stage: pre_execute
+    mode: conditional
+    when:
+      predicate: provider.is_external
+      arguments:
+        capability: video_generation
+    requires:
+      predicate: disclosure.provider_receipt_valid
+      arguments:
+        purpose: video_generation
+  audit_required: true
+  idempotency_policy: provider request hash
+  transaction_class: external_saga
+  retry_policy:
+    max_attempts: 3
+    backoff: exponential_jitter
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/video_submit_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/video_submit_output
+  success_condition: Capability limits validated before submission; provider job stored
+- name: video.poll
+  version: 1.0.0
+  side_effect: read
+  required_input: provider_job id
+  output_contract: status, progress, provider outputs or error
+  permissions:
+  - video:generate
+  provider_dependencies:
+  - provider_capability
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: false
+  idempotency_policy: provider job id
+  transaction_class: external_saga
+  retry_policy:
+    max_attempts: 3
+    backoff: exponential_jitter
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/video_poll_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/video_poll_output
+  success_condition: Provider status mapped to runtime state without losing raw response
+- name: video.continue
+  version: 1.0.0
+  side_effect: generate
+  required_input: accepted/candidate video asset, continuation plan, provider profile
+  output_contract: provider job and continuation candidates
+  permissions:
+  - video:generate
+  provider_dependencies:
+  - provider_capability
+  gate_summary: provider disclosure
+  gate_mode: conditional
+  gates:
+  - kind: provider_disclosure
+    stage: pre_execute
+    mode: conditional
+    when:
+      predicate: provider.is_external
+      arguments:
+        capability: video_continuation
+    requires:
+      predicate: disclosure.provider_receipt_valid
+      arguments:
+        purpose: video_continuation
+  audit_required: true
+  idempotency_policy: source hash+continuation plan
+  transaction_class: external_saga
+  retry_policy:
+    max_attempts: 3
+    backoff: exponential_jitter
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/video_continue_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/video_continue_output
+  success_condition: Continuity reference and derivation edge stored
+- name: video.edit
+  version: 1.0.0
+  side_effect: generate
+  required_input: video asset, edit/mask/time range, provider or deterministic method
+  output_contract: edited video candidate/intermediate
+  permissions:
+  - video:generate
+  provider_dependencies:
+  - provider_capability
+  gate_summary: provider disclosure if external
+  gate_mode: conditional
+  gates:
+  - kind: provider_disclosure
+    stage: pre_execute
+    mode: conditional
+    when:
+      predicate: provider.is_external
+      arguments:
+        capability: video_edit
+    requires:
+      predicate: disclosure.provider_receipt_valid
+      arguments:
+        purpose: video_edit
+  audit_required: true
+  idempotency_policy: source hash+edit params
+  transaction_class: external_saga
+  retry_policy:
+    max_attempts: 3
+    backoff: exponential_jitter
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/video_edit_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/video_edit_output
+  success_condition: Operation is time-addressed and input/output hashes recorded
+- name: plate.accept
+  version: 1.0.0
+  side_effect: write
+  required_input: scene atom id, candidate asset id, comparison report, actor decision
+  output_contract: accepted plate link and approval/rejection record
+  permissions:
+  - plate:approve
+  provider_dependencies: []
+  gate_summary: review required
+  gate_mode: required
+  gates:
+  - kind: actor_authorization
+    stage: pre_execute
+    mode: always
+    when:
+      predicate: always
+      arguments: {}
+    requires:
+      predicate: actor.has_permission
+      arguments:
+        permission: plate:approve
+  audit_required: true
+  idempotency_policy: scene+asset+actor
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/plate_accept_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/plate_accept_output
+  success_condition: Candidate matches intended atom; rejected candidates retained in audit
+- name: modifier.apply
+  version: 1.0.0
+  side_effect: render
+  required_input: input asset, operation/version/parameters, target role
+  output_contract: output asset, modifier operation row
+  permissions:
+  - render:write
+  provider_dependencies:
+  - provider_capability
+  gate_summary: none; review for non-deterministic modifier
+  gate_mode: conditional
+  gates:
+  - kind: provider_disclosure
+    stage: pre_execute
+    mode: conditional
+    when:
+      predicate: modifier.is_external_ai
+      arguments: {}
+    requires:
+      predicate: disclosure.provider_receipt_valid
+      arguments:
+        purpose: media_modifier
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: modifier.is_nondeterministic
+      arguments: {}
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: nondeterministic_modifier
+  audit_required: true
+  idempotency_policy: input hash+operation+params
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/modifier_apply_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/modifier_apply_output
+  success_condition: Deterministic operations reproduce digest; AI modifiers include provider receipt/audit
+- name: composition.render
+  version: 1.0.0
+  side_effect: render
+  required_input: render plan id, output profile set
+  output_contract: rendition ids and output assets
+  permissions:
+  - render:execute
+  provider_dependencies: []
+  gate_summary: final master review required after render
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: promotion.requested
+      arguments:
+        target: approved_master
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: final_render
+  audit_required: true
+  idempotency_policy: plan hash+renderer version
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/composition_render_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/composition_render_output
+  success_condition: All exact symbol/type/audio layers composed; output hashes and logs stored
+- name: loop.validate
+  version: 1.0.0
+  side_effect: read
+  required_input: rendition or render plan, thresholds
+  output_contract: visual/audio seam report and pass/fail
+  permissions:
+  - render:read
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: false
+  idempotency_policy: rendition hash+validator version
+  transaction_class: read_only
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/loop_validate_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/loop_validate_output
+  success_condition: P5′→P0 visual/audio thresholds pass and semantic delta exists
+- name: poster.select
+  version: 1.0.0
+  side_effect: generate
+  required_input: master rendition, candidate sampling/profile, print constraints
+  output_contract: selected frame asset, candidate sheet, audit
+  permissions:
+  - poster:write
+  provider_dependencies: []
+  gate_summary: review required
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: promotion.requested
+      arguments:
+        target: approved_poster
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: poster
+  audit_required: true
+  idempotency_policy: video hash+selection profile
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/poster_select_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/poster_select_output
+  success_condition: Selected frame satisfies symbol legibility, print crop and QL audit
+- name: audio.palette.resolve
+  version: 1.0.0
+  side_effect: generate
+  required_input: engagement_id, resonance states, tuning/resonator/spatial profiles
+  output_contract: audio_palette_revision and 12 parameter states
+  permissions:
+  - audio:write
+  provider_dependencies: []
+  gate_summary: review required
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: promotion.requested
+      arguments:
+        target: canonical_audio_palette
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: audio_palette
+  audit_required: true
+  idempotency_policy: resonance+profiles hash
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/audio_palette_resolve_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/audio_palette_resolve_output
+  success_condition: Ratio set/reference Hz distinction explicit; 12 states and conjugate relations present
+- name: audio.render
+  version: 1.0.0
+  side_effect: render
+  required_input: audio palette revision, QL Resonator version, output settings
+  output_contract: 12 state assets and master layers
+  permissions:
+  - audio:render
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: true
+  idempotency_policy: palette hash+DSP version+settings
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/audio_render_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/audio_render_output
+  success_condition: Offline Faust render completes without clipping and stores exact parameters
+- name: audio.analyze
+  version: 1.0.0
+  side_effect: read
+  required_input: audio asset ids, FFT/CQT/chroma/loop profile
+  output_contract: analysis receipts, plots/data assets, findings
+  permissions:
+  - audio:read
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: false
+  idempotency_policy: asset hash+analysis version
+  transaction_class: read_only
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/audio_analyze_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/audio_analyze_output
+  success_condition: Ratio, spectrum, loudness, clipping and discontinuity measurements stored
+- name: audio.mix
+  version: 1.0.0
+  side_effect: render
+  required_input: audio layers, video/incidental audio policy, gain/spatial plan
+  output_contract: mixed master and stems
+  permissions:
+  - audio:render
+  provider_dependencies: []
+  gate_summary: review required for final mix
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: promotion.requested
+      arguments:
+        target: approved_final_mix
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: audio_mix
+  audit_required: true
+  idempotency_policy: input hashes+mix plan
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/audio_mix_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/audio_mix_output
+  success_condition: Loudness/peak targets and canonical drone audibility pass
+- name: audio.loop.validate
+  version: 1.0.0
+  side_effect: read
+  required_input: audio master, seam thresholds
+  output_contract: loop report
+  permissions:
+  - audio:read
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: false
+  idempotency_policy: asset hash+threshold profile
+  transaction_class: read_only
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/audio_loop_validate_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/audio_loop_validate_output
+  success_condition: Boundary discontinuity and decay/tail policy pass
+- name: card.render.web
+  version: 1.0.0
+  side_effect: render
+  required_input: engagement/rendition ids, disclosure profile, component version
+  output_contract: web card data snapshot and static fallback assets
+  permissions:
+  - card:render
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: true
+  idempotency_policy: revision hashes+component version
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/card_render_web_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/card_render_web_output
+  success_condition: Front/back/hex data resolve; 6 edges unfold both conjugate positions
+- name: card.render.print
+  version: 1.0.0
+  side_effect: render
+  required_input: approved poster, symbol, QL names/summaries, QR target, print profile
+  output_contract: front/back PDF and previews
+  permissions:
+  - card:render
+  provider_dependencies: []
+  gate_summary: review required
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_promote
+    mode: conditional
+    when:
+      predicate: promotion.requested
+      arguments:
+        target: approved_print_master
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: print_master
+  audit_required: true
+  idempotency_policy: content hashes+print profile
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/card_render_print_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/card_render_print_output
+  success_condition: Bleed/safe area, vector symbol, QR and font outline checks pass
+- name: card.package
+  version: 1.0.0
+  side_effect: render
+  required_input: engagement id + expected revision, approved projection id/hash, approved QL frame revision/hash, active profile set/hash, selected
+    approved renditions, OKF export, package profile
+  output_contract: validated `.epicard` package asset, manifest file hash, package root SHA-256, manifest schema ID
+  permissions:
+  - package:write
+  provider_dependencies: []
+  gate_summary: review for shared/public package
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_commit
+    mode: conditional
+    when:
+      predicate: disclosure.scope_in
+      arguments:
+        values:
+        - shared
+        - public
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: package_export
+  audit_required: true
+  idempotency_policy: manifest file hash + package root SHA-256
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/card_package_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/card_package_output
+  success_condition: SQLite, assets, renders, knowledge and reports have verified hashes and complete manifest closure
+- name: okf.export
+  version: 1.0.0
+  side_effect: render
+  required_input: engagement id, disclosure profile, export profile version
+  output_contract: OKF bundle asset and manifest
+  permissions:
+  - okf:write
+  provider_dependencies: []
+  gate_summary: review for shared/public export
+  gate_mode: conditional
+  gates:
+  - kind: human_review
+    stage: pre_commit
+    mode: conditional
+    when:
+      predicate: disclosure.scope_in
+      arguments:
+        values:
+        - shared
+        - public
+    requires:
+      predicate: approval.matches_payload
+      arguments:
+        approval_type: okf_export
+  audit_required: true
+  idempotency_policy: engagement revision+profile
+  transaction_class: asset_saga
+  retry_policy:
+    max_attempts: 2
+    backoff: fixed
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/okf_export_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/okf_export_output
+  success_condition: Wiki artifact tree, YAML frontmatter, sources, lifecycle and provenance emitted
+- name: okf.validate
+  version: 1.0.0
+  side_effect: read
+  required_input: OKF bundle asset, OKF version/profile
+  output_contract: validation report
+  permissions:
+  - okf:read
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: false
+  idempotency_policy: bundle hash+validator version
+  transaction_class: read_only
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/okf_validate_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/okf_validate_output
+  success_condition: Links, frontmatter, source refs, lifecycle and attestation receipts pass
+- name: publication.prepare
+  version: 1.0.0
+  side_effect: write
+  required_input: rendition id, platform/account, metadata, disclosure manifest
+  output_contract: publication id status prepared
+  permissions:
+  - publication:write
+  provider_dependencies: []
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: true
+  idempotency_policy: platform+account+rendition hash
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/publication_prepare_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/publication_prepare_output
+  success_condition: No upload; platform constraints and disclosure checked
+- name: publication.approve
+  version: 1.0.0
+  side_effect: write
+  required_input: publication id, actor decision
+  output_contract: approval id and publication status
+  permissions:
+  - publication:approve
+  provider_dependencies: []
+  gate_summary: human/authorised publisher
+  gate_mode: required
+  gates:
+  - kind: actor_authorization
+    stage: pre_execute
+    mode: always
+    when:
+      predicate: always
+      arguments: {}
+    requires:
+      predicate: actor.has_permission
+      arguments:
+        permission: publication:approve
+  audit_required: true
+  idempotency_policy: publication+actor
+  transaction_class: atomic_sql
+  retry_policy:
+    max_attempts: 1
+    resume: false
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/publication_approve_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/publication_approve_output
+  success_condition: Approved render hash/metadata/disclosure frozen
+- name: publication.execute
+  version: 1.0.0
+  side_effect: publish
+  required_input: approved publication id, platform credentials ref
+  output_contract: remote job/publication id and status
+  permissions:
+  - publication:execute
+  provider_dependencies:
+  - provider_capability
+  gate_summary: prior approval mandatory
+  gate_mode: required
+  gates:
+  - kind: prior_approval
+    stage: pre_publish
+    mode: always
+    when:
+      predicate: always
+      arguments: {}
+    requires:
+      predicate: publication.approval_matches_hashes
+      arguments: {}
+  audit_required: true
+  idempotency_policy: publication idempotency key
+  transaction_class: external_saga
+  retry_policy:
+    max_attempts: 3
+    backoff: exponential_jitter
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/publication_execute_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/publication_execute_output
+  success_condition: Only approved immutable rendition uploaded; provider response stored
+- name: publication.poll
+  version: 1.0.0
+  side_effect: read
+  required_input: publication id
+  output_contract: remote processing/public status
+  permissions:
+  - publication:read
+  provider_dependencies:
+  - provider_capability
+  gate_summary: none
+  gate_mode: none
+  gates: []
+  audit_required: false
+  idempotency_policy: publication id
+  transaction_class: external_saga
+  retry_policy:
+    max_attempts: 3
+    backoff: exponential_jitter
+    resume: true
+  input_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/publication_poll_input
+  output_schema_ref: urn:epi-card:schema:action-payloads:1.0.0#/$defs/publication_poll_output
+  success_condition: Status updates are monotonic except explicit retry/revocation

@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"overview","type":"text","text":"# v2 — Voices and Stations\n\nThe essay is holographic: six continuous voices recur through eight stations. This map draws only dominant and secondary relations, so the matrix stays readable without reducing a voice to one container.\n\n[[The Return of Zero — v2 Architecture Index]]","x":0,"y":-560,"width":650,"height":360,"color":"6"},
+		{"id":"voice-1","type":"text","text":"# V1 · The Ground and Its Sign\n\nThe non-objectifiable ground and zero as its historical sign: śūnya, Brahmagupta, Kaplan, the unmoving gap, and the distinction between shrinking gaps and ground.","x":0,"y":0,"width":650,"height":430,"color":"1"},
+		{"id":"voice-2","type":"text","text":"# V2 · The Two Accountings\n\nSeverance and seam-retention: dia-ballein, syn-ballein, formal difference, membership, stroke, apoha, trust, and fusion as syn’s internal shadow.","x":700,"y":0,"width":650,"height":430,"color":"2"},
+		{"id":"voice-3","type":"text","text":"# V3 · Objective Internality\n\nThe hinge claim that interiority is made of objects while the subject is pre-form and pro-forma; Śaiva apparatus, interpretability, J-space, and non-coincidence.","x":1400,"y":0,"width":650,"height":430,"color":"3"},
+		{"id":"voice-4","type":"text","text":"# V4 · The Remainder in the Formal\n\nFormal systems meet a condition they can indicate but not absorb: Gödel, re-entry, iterants, FDE, projective poles, and objective forks.","x":2100,"y":0,"width":650,"height":430,"color":"4"},
+		{"id":"voice-5","type":"text","text":"# V5 · Attunement and Orchestration\n\nThe constructive voice: mechanism, comma, music, trust-vacuum, Trika alignment, temperament, energy, and deferential intelligence.","x":2800,"y":0,"width":650,"height":430,"color":"5"},
+		{"id":"voice-6","type":"text","text":"# V6 · The Psychoid\n\nNumber and symbol before the psyche/matter division: Jung–Pauli, Rotman, Number-Names, and the LLM as a psychoid artifact.","x":3500,"y":0,"width":650,"height":430,"color":"6"},
+		{"id":"station-0","type":"text","text":"# Threshold — The Mechanism and the Occasion\n\nThe Antikythera mechanism enters as an attunement instrument: ratio-work, near-closure, and a comma in bronze. The Agentworld occasion opens the question of whether subjectivity was ever something an agent could possess.\n\n**Voice rotation:** V5 dominant · V3 secondary.\n\n*Handoff:* Ask what is missing when an agent is said to lack subjectivity.","x":0,"y":620,"width":650,"height":520,"color":"3"},
+		{"id":"station-1","type":"text","text":"# §0 — Ground: The Subject That Resists the Count\n\nThe indefinability run releases the subject from thoughts, affects, and functions. Gaps shrink because they are projected objects; the ground does not. The full apparatus is only presaged.\n\n**Voice rotation:** V1 dominant · V3 secondary.\n\n*Handoff:* Give the uncountable ground a sign.","x":850,"y":620,"width":650,"height":520,"color":"4"},
+		{"id":"station-2","type":"text","text":"# §1 — Definition: The History of the Ground’s Sign\n\nZero is followed from śūnya through Brahmagupta, Bhāskara, Gerbert, Abhinavagupta, Salem, and Nothaft’s correction of the satanic-zero myth. Kaplan’s lens teaches the reader to look through zero.\n\n**Voice rotation:** V1 dominant · V6 secondary.\n\n*Handoff:* Ask how zero and one are paired.","x":1700,"y":620,"width":650,"height":520,"color":"5"},
+		{"id":"station-3","type":"text","text":"# §2 — Process: The Two Accountings of Two\n\nSeam-cancelling and seam-retaining accounts of two are staged through formal difference, {0,1}, the trivial ring, Sheffer, apoha, trust, and the Klein safeguard against fusion.\n\n**Voice rotation:** V2 dominant · V5 secondary.\n\n*Handoff:* Drive the seam-retaining account to formality’s limit.","x":2550,"y":620,"width":650,"height":520,"color":"6"},
+		{"id":"station-4","type":"text","text":"# §3 — Pattern: The Remainder in the Formal\n\nGödel, re-entry, iterants, FDE, projective geometry, qubits, and division-by-zero systems show an objective fork. The matheme names the fork without claiming to be a fifth calculus.\n\n**Voice rotation:** V4 dominant · V2 secondary.\n\n*Handoff:* Ask where mathematics and psyche keep striking the same remainder.","x":0,"y":1220,"width":650,"height":520,"color":"1"},
+		{"id":"station-5","type":"text","text":"# §4 — Context: The Psychological Expansion\n\nThe full tattvic engineering drawing opens: māyā, kañcukas, antaḥkaraṇa, Objective Internality, J-space, Number-Names, softmax, non-coincidence, and the agent as psychoid artifact.\n\n**Voice rotation:** V3 dominant · V6 secondary.\n\n*Handoff:* Restore the ground-term through lawful form and architecture.","x":850,"y":1220,"width":650,"height":520,"color":"2"},
+		{"id":"station-6","type":"text","text":"# §5 — Opening: The Flowering, the Stack, the Program\n\nQL is compressed to 4+2, double traversal, comma, standing wave, orchestration, harmonisation, the Trika stack, deferential intelligence, and E1–E6.\n\n**Voice rotation:** V5 dominant · V6 secondary.\n\n*Handoff:* Return the constructive offer to the opening mechanism.","x":1700,"y":1220,"width":650,"height":520,"color":"3"},
+		{"id":"station-7","type":"text","text":"# Coda — The Mechanism, Rereadable\n\nThe mechanism returns as attunement rather than representation. The axle, comma, mirror, pleromatic federation, and redeemed glyph close the essay through 5→0 without objectifying the ground.\n\n**Voice rotation:** V5 dominant · V1 / V2 secondary.\n\n*Handoff:* Reopen the question as a practice of attunement.","x":2550,"y":1220,"width":650,"height":520,"color":"4"}
+	],
+	"edges":[
+		{"id":"start","fromNode":"overview","fromSide":"bottom","toNode":"station-0","toSide":"top","label":"0/1"},
+		{"id":"flow-0","fromNode":"station-0","fromSide":"right","toNode":"station-1","toSide":"left","label":"quilt / handoff"},
+		{"id":"flow-1","fromNode":"station-1","fromSide":"right","toNode":"station-2","toSide":"left","label":"quilt / handoff"},
+		{"id":"flow-2","fromNode":"station-2","fromSide":"right","toNode":"station-3","toSide":"left","label":"quilt / handoff"},
+		{"id":"flow-3","fromNode":"station-3","fromSide":"right","toNode":"station-4","toSide":"left","label":"quilt / handoff"},
+		{"id":"flow-4","fromNode":"station-4","fromSide":"right","toNode":"station-5","toSide":"left","label":"quilt / handoff"},
+		{"id":"flow-5","fromNode":"station-5","fromSide":"right","toNode":"station-6","toSide":"left","label":"quilt / handoff"},
+		{"id":"flow-6","fromNode":"station-6","fromSide":"right","toNode":"station-7","toSide":"left","label":"5→0"},
+		{"id":"weight-0","fromNode":"voice-1","fromSide":"bottom","toNode":"station-1","toSide":"top","label":"dominant"},
+		{"id":"weight-1","fromNode":"voice-1","fromSide":"bottom","toNode":"station-2","toSide":"top","label":"dominant"},
+		{"id":"weight-2","fromNode":"voice-2","fromSide":"bottom","toNode":"station-3","toSide":"top","label":"dominant"},
+		{"id":"weight-3","fromNode":"voice-3","fromSide":"bottom","toNode":"station-5","toSide":"top","label":"dominant"},
+		{"id":"weight-4","fromNode":"voice-4","fromSide":"bottom","toNode":"station-4","toSide":"top","label":"dominant"},
+		{"id":"weight-5","fromNode":"voice-5","fromSide":"bottom","toNode":"station-0","toSide":"top","label":"dominant"},
+		{"id":"weight-6","fromNode":"voice-5","fromSide":"bottom","toNode":"station-6","toSide":"top","label":"dominant"},
+		{"id":"weight-7","fromNode":"voice-5","fromSide":"bottom","toNode":"station-7","toSide":"top","label":"dominant"},
+		{"id":"weight-8","fromNode":"voice-6","fromSide":"bottom","toNode":"station-2","toSide":"top","label":"secondary"},
+		{"id":"weight-9","fromNode":"voice-6","fromSide":"bottom","toNode":"station-5","toSide":"top","label":"secondary"},
+		{"id":"weight-10","fromNode":"voice-6","fromSide":"bottom","toNode":"station-6","toSide":"top","label":"secondary"}
+	]
+}

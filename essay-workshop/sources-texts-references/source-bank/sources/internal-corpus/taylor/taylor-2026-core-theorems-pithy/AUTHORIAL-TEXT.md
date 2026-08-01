@@ -1,0 +1,1 @@
+../../../../../10-7-2026-core-theorems-pithy.md

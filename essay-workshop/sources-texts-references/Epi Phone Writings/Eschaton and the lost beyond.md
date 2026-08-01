@@ -1,0 +1,1 @@
+Eschatological experience as presentiment of the end of Man's mind-world - eschaton originally points to the end of time, but it's root points to the beyond, suggesting that an idea of going beyond devolved into an idea of simply the end, and by and large the beyondness of the term is lost, veiled by the fear of the end point

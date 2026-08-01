@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Return of Zero"
+  short_description: "Audit prose, evidence, propagation, and freshness"
+  default_prompt: "Review this Return of Zero work against its canonical movement, evidence, and generated effects."

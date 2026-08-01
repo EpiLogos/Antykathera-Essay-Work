@@ -1,0 +1,18 @@
+{
+  "name": "epi-logos-submission",
+  "description": "Development marketplace for the installable Epi-Logos reader companion",
+  "owner": {
+    "name": "Epi-Logos"
+  },
+  "plugins": [
+    {
+      "name": "epi-logos",
+      "description": "Published-vault reading, teaching, traversal continuity, and unified QL/MEF inquiry",
+      "version": "0.1.0",
+      "source": "./epi-logos",
+      "author": {
+        "name": "Epi-Logos"
+      }
+    }
+  ]
+}

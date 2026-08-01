@@ -1,0 +1,1 @@
+Our method of taking long excerpts from texts is our way of philosophising by way of a kind of integral stenography, faithfully reporting on a re-contextualising the essential pronouncements of the Integral Spirit, pre-jected before itself in humanity's greatest, most harmonious works. 

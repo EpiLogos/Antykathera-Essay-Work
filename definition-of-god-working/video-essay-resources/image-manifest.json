@@ -1,0 +1,99 @@
+{
+  "source_draft": "../The Definition of God — Draft 3.md",
+  "api": {
+    "provider": "Wikimedia Commons",
+    "endpoint": "https://commons.wikimedia.org/w/api.php",
+    "user_agent": "NaraPersonalDefinitionOfGodVideoEssay/1.0 (local research; Wikimedia Commons API)"
+  },
+  "license_policy": {
+    "allow_public_domain": true,
+    "allow_creative_commons": true,
+    "reject_license_fragments": ["fair use", "non-free", "copyrighted free use"]
+  },
+  "sections": [
+    {
+      "slug": "title-matheme-overture",
+      "title": "Title / Matheme Overture",
+      "visual_intent": "Open with the matheme, refraction, circle, and torus as latent forms.",
+      "symbols": ["0/1", "4+2", "5->0", "1/0", "prism", "torus", "circle"],
+      "queries": ["Newton prism dispersion", "Isaac Newton Opticks prism diagram", "Prism dispersion white light spectrum", "Camera obscura diagram aperture", "Circle geometry manuscript", "Euclid Elements circle diagram", "Mathematical manuscript geometry circle", "Torus mathematical surface", "Torus topology diagram", "Blackboard mathematical notation", "Handwritten mathematical formula manuscript", "Riemann surface torus model"]
+    },
+    {
+      "slug": "edge-of-the-rational",
+      "title": "The Edge of the Rational",
+      "visual_intent": "Reason discovers its own horizon: formal logic, self-reference, unsaying, remainder.",
+      "symbols": ["Goedel", "Wittgenstein", "neti neti", "pi", "formal system", "limit"],
+      "queries": ["Kurt Goedel portrait", "Kurt Goedel Institute for Advanced Study", "Goedel incompleteness theorem manuscript", "Mathematical logic manuscript", "Principia Mathematica title page", "Ludwig Wittgenstein portrait", "Tractatus Logico-Philosophicus title page", "Wittgenstein ladder", "Upanishad manuscript Sanskrit", "Brihadaranyaka Upanishad manuscript", "Pi circle diagram", "Gravitational lensing diagram"]
+    },
+    {
+      "slug": "images-that-constellate",
+      "title": "The Images That Constellate",
+      "visual_intent": "Images orbit an absent centre: archetype, attractor, crystal lattice, refraction.",
+      "symbols": ["archetype", "strange attractor", "Lorenz attractor", "crystal lattice", "prism", "Kali", "Quetzalcoatl"],
+      "queries": ["iron filings magnetic field lines", "Carl Jung mandala Red Book", "Jung mandala manuscript", "Lorenz attractor diagram", "strange attractor phase space", "crystal lattice diagram", "Newton prism dispersion", "colour wheel Isaac Newton", "Kali painting public domain", "Quetzalcoatl Codex Borgia", "Zeus thunderbolt vase painting", "Meister Eckhart manuscript"]
+    },
+    {
+      "slug": "fall-and-what-it-reveals",
+      "title": "The Fall, And What It Reveals",
+      "visual_intent": "A living aperture hardens into an idol; symbol becomes diabolon.",
+      "symbols": ["infinite sphere", "mirror", "idol", "broken token", "window", "bureaucracy"],
+      "queries": ["infinite sphere center everywhere circumference nowhere", "Nicholas of Cusa manuscript", "Book of the Twenty-Four Philosophers manuscript", "camera aperture lens diagram", "tessera hospitalis broken token", "ancient Greek knucklebones astragaloi", "Ares Aphrodite Hephaestus net vase painting", "Aphrodite Ares vase painting", "Hephaestus net Odyssey illustration", "Carl Jung portrait", "alchemy philosopher's stone manuscript", "panopticon diagram Bentham"]
+    },
+    {
+      "slug": "two-deaths-one-minus-sign",
+      "title": "Two Deaths, One Minus Sign",
+      "visual_intent": "Distinguish self-emptying from cancellation through subtraction, negative space, and dissolution.",
+      "symbols": ["minus sign", "kenosis", "alchemy nigredo", "negative space", "cancellation"],
+      "queries": ["Apollo Daphne Bernini", "Apollo and Daphne painting public domain", "Echo and Narcissus John William Waterhouse", "Narcissus Caravaggio", "Zoroaster Faravahar relief", "Zurvan Ahriman Ohrmazd", "Ares Aphrodite Hephaestus net", "Cupid and Psyche lamp painting", "Psyche opening golden box", "Ardhanarishvara sculpture", "alchemy Rebis manuscript", "Inanna Ishtar descent relief"]
+    },
+    {
+      "slug": "the-definition",
+      "title": "The Definition",
+      "visual_intent": "The slash as co-constituting relation: quotient topology, torus, love, spanda.",
+      "symbols": ["R2/Z2", "quotient topology", "torus", "Shiva Shakti", "spanda", "iccha"],
+      "queries": ["torus fundamental polygon", "fundamental polygon torus edge identification", "quotient space torus", "covering space torus", "lattice quotient torus R2 Z2", "Moses burning bush manuscript", "Moses before the burning bush icon", "I am that I am Hebrew manuscript", "Shiva Shakti Ardhanarishvara sculpture", "Kashmir Shaivism manuscript", "Tantraloka manuscript", "Rene Descartes portrait"]
+    },
+    {
+      "slug": "quaternal-logic",
+      "title": "Quaternal Logic",
+      "visual_intent": "Binary contradiction opens into a fourfold field.",
+      "symbols": ["tetralemma", "quaternity", "mandala", "four elements", "Klein bottle"],
+      "queries": ["von Neumann ordinal construction", "empty set symbol mathematics", "modular arithmetic clock diagram", "binary numbers diagram", "torus fundamental group", "torus meridian longitude", "Euler characteristic polyhedron", "sphere torus genus", "surface genus topology", "Szilassi polyhedron", "torus seven color theorem", "Indra's net Avatamsaka Sutra"]
+    },
+    {
+      "slug": "winds-round-one-torus",
+      "title": "The Winds Round The One Torus",
+      "visual_intent": "Named traditions wind around one invariant surface without being flattened into sameness.",
+      "symbols": ["Nun", "benben", "Atum", "Shabaka Stone", "Ptah", "Thoth", "Maat", "Apophis", "Set", "Ra barque", "ouroboros", "Hermes Trismegistus"],
+      "queries": ["Nun Egyptian god primordial waters", "Book of the Dead primeval waters Nun", "benben stone pyramidion", "pyramidion benben Egyptian museum", "Atum Egyptian god relief", "Heliopolitan Ennead relief", "Shu Tefnut Egyptian relief", "Shabaka Stone British Museum", "Ptah Egyptian god relief", "Thoth ibis writing relief", "Maat feather weighing of the heart", "Maat goddess feather relief", "Ra solar barque Apophis", "Set spearing Apophis", "Amduat Ra Osiris", "Book of Gates Ra Osiris", "Hermes Trismegistus engraving", "Corpus Hermeticum manuscript", "Emerald Tablet Hermes Trismegistus", "Tabula Smaragdina manuscript", "ouroboros hen to pan", "Chrysopoeia of Cleopatra ouroboros", "Asha Druj Zoroastrian manuscript", "Faravahar Persepolis relief Asha", "Rigveda manuscript Rta", "Dharma wheel ancient relief", "Tao Te Ching manuscript", "Greek Dike goddess vase", "Tiamat Babylonian chaos", "Okeanos Greek mosaic", "Plato Academy mosaic", "Plato manuscript anamnesis", "tessera hospitalis broken token", "ancient Greek symbolon token", "Isis Osiris reassembled relief", "Isis lactans Virgin Mary comparison"]
+    },
+    {
+      "slug": "the-return",
+      "title": "The Return",
+      "visual_intent": "The definition returns to lived finitude as aperture: Dasein, reflection, remembrance, dawn.",
+      "symbols": ["Dasein", "threshold", "reflection", "laurel", "dawn", "remembrance"],
+      "queries": ["Martin Heidegger 1920s portrait", "Heidegger hut Todtnauberg", "Daphne Apollo laurel painting public domain", "Laurus nobilis botanical illustration", "ancient Greek laurel wreath", "Egyptian solar barque sunrise", "Ma'at feather Egyptian relief", "window light interior painting public domain", "mirror reflection painting public domain", "threshold doorway architecture light", "water reflection landscape public domain", "camera aperture diagram"]
+    },
+    {
+      "slug": "the-edge",
+      "title": "The Edge",
+      "visual_intent": "A quieter return to the limit, now recognised as relation.",
+      "symbols": ["horizon", "threshold", "open circle", "limit"],
+      "queries": ["Jacques Derrida portrait", "Derrida manuscript", "Saussure signifier signified diagram", "palimpsest manuscript", "footprint fossil", "wood grain macro", "fishing net ocean", "Patanjali Yoga Sutra manuscript", "meditating Buddha sculpture dhyana", "Laozi painting", "Tao Te Ching manuscript", "water erosion rock"]
+    },
+    {
+      "slug": "maya-and-the-code",
+      "title": "Maya And The Code",
+      "visual_intent": "Code and machine representation as modern images of the same appearance-limit.",
+      "symbols": ["Maya", "code", "computation", "interface", "simulation", "algorithm"],
+      "queries": ["Kashmir Shaivism manuscript", "Abhinavagupta manuscript", "Shiva Shakti painting public domain", "Nataraja Chola bronze", "Taijitu diagram", "ouroboros hen to pan", "tessera hospitalis", "punch card computer", "Ada Lovelace diagram", "Analytical Engine diagram", "ENIAC computer public domain", "logic gate diagram"]
+    },
+    {
+      "slug": "epi-logos",
+      "title": "Epi-Logos",
+      "visual_intent": "Writing, reckoning, notation, and living archive gathered as disciplined relation.",
+      "symbols": ["Thoth", "Hermes", "Logos", "manuscript", "notation", "archive", "torus"],
+      "queries": ["Thoth writing Egyptian relief", "Egyptian scribe palette", "Ptah relief Memphis", "Shabaka Stone British Museum", "Hermes Trismegistus engraving", "Aristotle Rhetoric manuscript", "Greek manuscript marginalia", "medieval mathematical manuscript", "codex manuscript annotation", "Ada Lovelace notes", "Turing machine diagram", "early computer memory core"]
+    }
+  ]
+}

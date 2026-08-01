@@ -1,0 +1,1059 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://epi-logos.dev/schemas/epi-card/ql-frame-1.0.0.schema.json",
+  "title": "Epi-Card Full QL Conjugate Frame",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "frame_version",
+    "engagement_id",
+    "threshold",
+    "positions",
+    "relations",
+    "return"
+  ],
+  "properties": {
+    "frame_version": {
+      "const": "1.0.0"
+    },
+    "engagement_id": {
+      "type": "string",
+      "format": "uuid"
+    },
+    "threshold": {
+      "$ref": "#/$defs/threshold"
+    },
+    "positions": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "P0",
+        "P1",
+        "P2",
+        "P3",
+        "P4",
+        "P5",
+        "P0′",
+        "P1′",
+        "P2′",
+        "P3′",
+        "P4′",
+        "P5′"
+      ],
+      "properties": {
+        "P0": {
+          "allOf": [
+            {
+              "$ref": "#/$defs/position"
+            },
+            {
+              "properties": {
+                "address": {
+                  "const": "P0"
+                },
+                "phase": {
+                  "const": "bimba"
+                },
+                "index": {
+                  "const": 0
+                },
+                "canonical_unit": {
+                  "const": "Truth"
+                },
+                "canonical_question": {
+                  "const": "Why?"
+                },
+                "structural_role": {
+                  "const": "Ground / source / ever-present origin"
+                }
+              }
+            }
+          ]
+        },
+        "P1": {
+          "allOf": [
+            {
+              "$ref": "#/$defs/position"
+            },
+            {
+              "properties": {
+                "address": {
+                  "const": "P1"
+                },
+                "phase": {
+                  "const": "bimba"
+                },
+                "index": {
+                  "const": 1
+                },
+                "canonical_unit": {
+                  "const": "Mind"
+                },
+                "canonical_question": {
+                  "const": "What?"
+                },
+                "structural_role": {
+                  "const": "First definition / material articulation"
+                }
+              }
+            }
+          ]
+        },
+        "P2": {
+          "allOf": [
+            {
+              "$ref": "#/$defs/position"
+            },
+            {
+              "properties": {
+                "address": {
+                  "const": "P2"
+                },
+                "phase": {
+                  "const": "bimba"
+                },
+                "index": {
+                  "const": 2
+                },
+                "canonical_unit": {
+                  "const": "Word"
+                },
+                "canonical_question": {
+                  "const": "How?"
+                },
+                "structural_role": {
+                  "const": "Dynamis / operation / energetic expression"
+                }
+              }
+            }
+          ]
+        },
+        "P3": {
+          "allOf": [
+            {
+              "$ref": "#/$defs/position"
+            },
+            {
+              "properties": {
+                "address": {
+                  "const": "P3"
+                },
+                "phase": {
+                  "const": "bimba"
+                },
+                "index": {
+                  "const": 3
+                },
+                "canonical_unit": {
+                  "const": "Logos"
+                },
+                "canonical_question": {
+                  "const": "Who? Which? Whereby?"
+                },
+                "structural_role": {
+                  "const": "Pattern / identity / ordering relation"
+                }
+              }
+            }
+          ]
+        },
+        "P4": {
+          "allOf": [
+            {
+              "$ref": "#/$defs/position"
+            },
+            {
+              "properties": {
+                "address": {
+                  "const": "P4"
+                },
+                "phase": {
+                  "const": "bimba"
+                },
+                "index": {
+                  "const": 4
+                },
+                "canonical_unit": {
+                  "const": "Son"
+                },
+                "canonical_question": {
+                  "const": "Where? When? Whither?"
+                },
+                "structural_role": {
+                  "const": "Context / horizon / situated embodiment"
+                }
+              }
+            }
+          ]
+        },
+        "P5": {
+          "allOf": [
+            {
+              "$ref": "#/$defs/position"
+            },
+            {
+              "properties": {
+                "address": {
+                  "const": "P5"
+                },
+                "phase": {
+                  "const": "bimba"
+                },
+                "index": {
+                  "const": 5
+                },
+                "canonical_unit": {
+                  "const": "Image"
+                },
+                "canonical_question": {
+                  "const": "Why-for? Why-not?"
+                },
+                "structural_role": {
+                  "const": "Synthesis / integration / manifested whole"
+                }
+              }
+            }
+          ]
+        },
+        "P0′": {
+          "allOf": [
+            {
+              "$ref": "#/$defs/position"
+            },
+            {
+              "properties": {
+                "address": {
+                  "const": "P0′"
+                },
+                "phase": {
+                  "const": "pratibimba"
+                },
+                "index": {
+                  "const": 0
+                },
+                "canonical_unit": {
+                  "const": "Play"
+                },
+                "canonical_question": {
+                  "const": "Why, through groundlessness?"
+                },
+                "structural_role": {
+                  "const": "Abyss, freedom, ungrounded source condition"
+                }
+              }
+            }
+          ]
+        },
+        "P1′": {
+          "allOf": [
+            {
+              "$ref": "#/$defs/position"
+            },
+            {
+              "properties": {
+                "address": {
+                  "const": "P1′"
+                },
+                "phase": {
+                  "const": "pratibimba"
+                },
+                "index": {
+                  "const": 1
+                },
+                "canonical_unit": {
+                  "const": "Need"
+                },
+                "canonical_question": {
+                  "const": "What hidden form or trace remains?"
+                },
+                "structural_role": {
+                  "const": "Residue, evidence, demand, concealed definition"
+                }
+              }
+            }
+          ]
+        },
+        "P2′": {
+          "allOf": [
+            {
+              "$ref": "#/$defs/position"
+            },
+            {
+              "properties": {
+                "address": {
+                  "const": "P2′"
+                },
+                "phase": {
+                  "const": "pratibimba"
+                },
+                "index": {
+                  "const": 2
+                },
+                "canonical_unit": {
+                  "const": "Sacrifice"
+                },
+                "canonical_question": {
+                  "const": "How does operation meet obstruction and cost?"
+                },
+                "structural_role": {
+                  "const": "Resistance, shadow, exchange, necessary loss"
+                }
+              }
+            }
+          ]
+        },
+        "P3′": {
+          "allOf": [
+            {
+              "$ref": "#/$defs/position"
+            },
+            {
+              "properties": {
+                "address": {
+                  "const": "P3′"
+                },
+                "phase": {
+                  "const": "pratibimba"
+                },
+                "index": {
+                  "const": 3
+                },
+                "canonical_unit": {
+                  "const": "Decision"
+                },
+                "canonical_question": {
+                  "const": "Which pattern operates beneath the recognised pattern?"
+                },
+                "structural_role": {
+                  "const": "Cut, counter-pattern, recurrence, governing choice"
+                }
+              }
+            }
+          ]
+        },
+        "P4′": {
+          "allOf": [
+            {
+              "$ref": "#/$defs/position"
+            },
+            {
+              "properties": {
+                "address": {
+                  "const": "P4′"
+                },
+                "phase": {
+                  "const": "pratibimba"
+                },
+                "index": {
+                  "const": 4
+                },
+                "canonical_unit": {
+                  "const": "Love"
+                },
+                "canonical_question": {
+                  "const": "Which sources and missed contexts reopen the horizon?"
+                },
+                "structural_role": {
+                  "const": "Context examining itself, care, embrace, reframing"
+                }
+              }
+            }
+          ]
+        },
+        "P5′": {
+          "allOf": [
+            {
+              "$ref": "#/$defs/position"
+            },
+            {
+              "properties": {
+                "address": {
+                  "const": "P5′"
+                },
+                "phase": {
+                  "const": "pratibimba"
+                },
+                "index": {
+                  "const": 5
+                },
+                "canonical_unit": {
+                  "const": "Work"
+                },
+                "canonical_question": {
+                  "const": "What crystallises from the conjugate passage?"
+                },
+                "structural_role": {
+                  "const": "Verified expression, public work, completed recognition"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "relations": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "traversal",
+        "conjugates",
+        "complements",
+        "partitions"
+      ],
+      "properties": {
+        "traversal": {
+          "const": [
+            "P0",
+            "P1",
+            "P2",
+            "P3",
+            "P4",
+            "P5",
+            "P0′",
+            "P1′",
+            "P2′",
+            "P3′",
+            "P4′",
+            "P5′",
+            "P0+"
+          ]
+        },
+        "conjugates": {
+          "const": [
+            [
+              "P0",
+              "P0′"
+            ],
+            [
+              "P1",
+              "P1′"
+            ],
+            [
+              "P2",
+              "P2′"
+            ],
+            [
+              "P3",
+              "P3′"
+            ],
+            [
+              "P4",
+              "P4′"
+            ],
+            [
+              "P5",
+              "P5′"
+            ]
+          ]
+        },
+        "complements": {
+          "const": {
+            "bimba": [
+              [
+                "P0",
+                "P5"
+              ],
+              [
+                "P1",
+                "P4"
+              ],
+              [
+                "P2",
+                "P3"
+              ]
+            ],
+            "pratibimba": [
+              [
+                "P0′",
+                "P5′"
+              ],
+              [
+                "P1′",
+                "P4′"
+              ],
+              [
+                "P2′",
+                "P3′"
+              ]
+            ]
+          }
+        },
+        "partitions": {
+          "const": {
+            "bimba_4_2": {
+              "explicate": [
+                "P1",
+                "P2",
+                "P3",
+                "P4"
+              ],
+              "implicate": [
+                "P0",
+                "P5"
+              ]
+            },
+            "pratibimba_4_2": {
+              "explicate": [
+                "P1′",
+                "P2′",
+                "P3′",
+                "P4′"
+              ],
+              "implicate": [
+                "P0′",
+                "P5′"
+              ]
+            },
+            "bimba_3_3": [
+              [
+                "P1",
+                "P2",
+                "P3"
+              ],
+              [
+                "P4",
+                "P5",
+                "P0"
+              ]
+            ],
+            "pratibimba_3_3": [
+              [
+                "P1′",
+                "P2′",
+                "P3′"
+              ],
+              [
+                "P4′",
+                "P5′",
+                "P0′"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "return": {
+      "$ref": "#/$defs/return"
+    }
+  },
+  "$defs": {
+    "threshold": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "pasu_snapshot_id",
+        "session_ids",
+        "temporal_snapshot_id",
+        "attractor_revision_id",
+        "intention",
+        "active_lens",
+        "profile_set",
+        "disclosure"
+      ],
+      "properties": {
+        "pasu_snapshot_id": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uuid"
+        },
+        "session_ids": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "format": "uuid"
+          }
+        },
+        "temporal_snapshot_id": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uuid"
+        },
+        "attractor_revision_id": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "question": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "intention": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "talismanic_activation_id": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uuid"
+        },
+        "active_lens": {
+          "type": "object",
+          "required": [
+            "id",
+            "version"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "version": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "profile_set": {
+          "type": "object"
+        },
+        "source_form_ids": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "format": "uuid"
+          }
+        },
+        "disclosure": {
+          "enum": [
+            "secret",
+            "private",
+            "shared",
+            "public"
+          ]
+        }
+      }
+    },
+    "claim": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "text",
+        "register",
+        "status"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "register": {
+          "enum": [
+            "exact_identity",
+            "ql_derived",
+            "canonical_symbolic",
+            "cross_register",
+            "archetypal_reception",
+            "open_extension"
+          ]
+        },
+        "confidence": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0,
+          "maximum": 1
+        },
+        "status": {
+          "enum": [
+            "proposed",
+            "accepted",
+            "rejected",
+            "superseded"
+          ]
+        },
+        "evidence_link_ids": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "format": "uuid"
+          }
+        }
+      }
+    },
+    "assignment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_member_id",
+        "role",
+        "weight",
+        "register",
+        "rationale"
+      ],
+      "properties": {
+        "source_member_id": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "role": {
+          "enum": [
+            "direct",
+            "distributed",
+            "condensed",
+            "supporting",
+            "counterposed",
+            "unassigned"
+          ]
+        },
+        "weight": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "register": {
+          "enum": [
+            "exact_identity",
+            "ql_derived",
+            "canonical_symbolic",
+            "cross_register",
+            "archetypal_reception",
+            "open_extension"
+          ]
+        },
+        "rationale": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "resonance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "theta",
+        "rho",
+        "tau",
+        "amplitude",
+        "coherence",
+        "bandwidth",
+        "polarity",
+        "ratios",
+        "elemental",
+        "chakra",
+        "profile_set_hash"
+      ],
+      "properties": {
+        "theta": {
+          "type": "number",
+          "minimum": 0,
+          "exclusiveMaximum": 1
+        },
+        "rho": {
+          "type": "number"
+        },
+        "tau": {
+          "type": "number",
+          "minimum": 0
+        },
+        "amplitude": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "coherence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "bandwidth": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "polarity": {
+          "type": "number",
+          "minimum": -1,
+          "maximum": 1
+        },
+        "ratios": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[1-9][0-9]*/[1-9][0-9]*$"
+          }
+        },
+        "elemental": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          }
+        },
+        "chakra": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          }
+        },
+        "profile_set_hash": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        }
+      }
+    },
+    "position": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "address",
+        "phase",
+        "index",
+        "canonical_unit",
+        "canonical_question",
+        "structural_role",
+        "occupancy",
+        "salience",
+        "source_assignments",
+        "claims"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "address": {
+          "type": "string"
+        },
+        "phase": {
+          "enum": [
+            "bimba",
+            "pratibimba"
+          ]
+        },
+        "index": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 5
+        },
+        "canonical_unit": {
+          "type": "string"
+        },
+        "canonical_question": {
+          "type": "string"
+        },
+        "structural_role": {
+          "type": "string"
+        },
+        "local_label": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "local_question": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "short_summary": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "extended_articulation": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "occupancy": {
+          "enum": [
+            "present",
+            "latent",
+            "missing",
+            "unknown",
+            "withheld",
+            "conflicted",
+            "overdetermined"
+          ]
+        },
+        "occupancy_reason": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "salience": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "source_assignments": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/assignment"
+          }
+        },
+        "claims": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/claim"
+          }
+        },
+        "resonance": {
+          "oneOf": [
+            {
+              "$ref": "#/$defs/resonance"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "symbol_state_id": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uuid"
+        },
+        "scene_atom_id": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uuid"
+        },
+        "audio_state_id": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uuid"
+        },
+        "card_edge_index": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 5
+        },
+        "audit_status": {
+          "enum": [
+            "unstarted",
+            "open",
+            "complete",
+            "invalidated"
+          ]
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "occupancy": {
+                "enum": [
+                  "missing",
+                  "unknown",
+                  "withheld"
+                ]
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "occupancy_reason"
+            ],
+            "properties": {
+              "occupancy_reason": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    "return": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "self_implication",
+        "remainder",
+        "next_ground",
+        "external_implications",
+        "next_seeds",
+        "semantic_delta",
+        "media_delta",
+        "visual_loop",
+        "semantic_tick"
+      ],
+      "properties": {
+        "self_implication": {
+          "type": "string",
+          "minLength": 1
+        },
+        "remainder": {
+          "type": "string",
+          "minLength": 1
+        },
+        "achieved_work": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "next_ground": {
+          "type": "string",
+          "minLength": 1
+        },
+        "external_implications": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "next_seeds": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "semantic_delta": {
+          "type": "object"
+        },
+        "media_delta": {
+          "type": "object"
+        },
+        "visual_loop": {
+          "const": true
+        },
+        "semantic_tick": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "next_engagement_id": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uuid"
+        }
+      }
+    }
+  }
+}

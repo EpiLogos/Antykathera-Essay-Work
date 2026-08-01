@@ -1,0 +1,201 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://epi-logos.dev/schemas/epi-card/provider-capability-1.0.0.schema.json",
+  "title": "Epi-Card Provider Capability Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "version",
+    "provider",
+    "model_id",
+    "model_version",
+    "capability_version",
+    "checked_at",
+    "modalities_in",
+    "modalities_out",
+    "operations",
+    "limits",
+    "features",
+    "constraints",
+    "disclosure",
+    "active"
+  ],
+  "properties": {
+    "version": {
+      "const": "1.0.0"
+    },
+    "provider": {
+      "type": "string",
+      "minLength": 1
+    },
+    "model_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "model_version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "capability_version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "checked_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "modalities_in": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "text",
+          "image",
+          "audio",
+          "video",
+          "mask",
+          "storyboard"
+        ]
+      }
+    },
+    "modalities_out": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "text",
+          "image",
+          "audio",
+          "video",
+          "mask",
+          "metadata"
+        ]
+      }
+    },
+    "operations": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "generate",
+          "edit",
+          "continue",
+          "inpaint",
+          "outpaint",
+          "reference",
+          "audio_video_joint",
+          "transcribe",
+          "remove_background"
+        ]
+      }
+    },
+    "limits": {
+      "type": "object",
+      "required": [
+        "max_duration_seconds",
+        "min_duration_seconds",
+        "max_reference_images",
+        "max_reference_videos",
+        "max_reference_audio"
+      ],
+      "properties": {
+        "max_duration_seconds": {
+          "type": "number",
+          "minimum": 0
+        },
+        "min_duration_seconds": {
+          "type": "number",
+          "minimum": 0
+        },
+        "max_reference_images": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "max_reference_videos": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "max_reference_audio": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "max_prompt_chars": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        }
+      },
+      "additionalProperties": true
+    },
+    "features": {
+      "type": "object",
+      "required": [
+        "native_audio",
+        "multi_shot",
+        "video_extension",
+        "video_editing",
+        "seed_control",
+        "alpha_output"
+      ],
+      "properties": {
+        "native_audio": {
+          "type": "boolean"
+        },
+        "multi_shot": {
+          "type": "boolean"
+        },
+        "video_extension": {
+          "type": "boolean"
+        },
+        "video_editing": {
+          "type": "boolean"
+        },
+        "seed_control": {
+          "type": "boolean"
+        },
+        "alpha_output": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": true
+    },
+    "constraints": {
+      "type": "object"
+    },
+    "terms_snapshot_ref": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "disclosure": {
+      "type": "object",
+      "required": [
+        "external_provider",
+        "allowed_classes"
+      ],
+      "properties": {
+        "external_provider": {
+          "type": "boolean"
+        },
+        "allowed_classes": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "secret",
+              "private",
+              "shared",
+              "public"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "active": {
+      "type": "boolean"
+    }
+  }
+}

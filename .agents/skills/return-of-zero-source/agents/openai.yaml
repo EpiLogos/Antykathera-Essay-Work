@@ -1,0 +1,4 @@
+interface:
+  display_name: "Source Return of Zero"
+  short_description: "Retrieve and verify canonical source evidence"
+  default_prompt: "Work from the exact Return of Zero source house and preserve quotation provenance."

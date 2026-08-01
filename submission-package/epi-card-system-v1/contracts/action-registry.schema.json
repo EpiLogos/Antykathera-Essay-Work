@@ -1,0 +1,228 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:epi-card:schema:action-registry:1.0.0",
+  "title": "Epi-Card Action Registry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "version",
+    "action_count",
+    "actions"
+  ],
+  "properties": {
+    "version": {
+      "const": "1.0.0"
+    },
+    "action_count": {
+      "const": 66
+    },
+    "actions": {
+      "type": "array",
+      "minItems": 66,
+      "maxItems": 66,
+      "items": {
+        "$ref": "#/$defs/action"
+      }
+    }
+  },
+  "$defs": {
+    "action": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "version",
+        "side_effect",
+        "required_input",
+        "output_contract",
+        "permissions",
+        "provider_dependencies",
+        "gate_summary",
+        "gate_mode",
+        "gates",
+        "audit_required",
+        "idempotency_policy",
+        "transaction_class",
+        "retry_policy",
+        "input_schema_ref",
+        "output_schema_ref",
+        "success_condition"
+      ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9-]*(?:\\.[a-z][a-z0-9-]*)+$"
+        },
+        "version": {
+          "type": "string",
+          "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+        },
+        "side_effect": {
+          "enum": [
+            "read",
+            "write",
+            "generate",
+            "render",
+            "publish"
+          ]
+        },
+        "required_input": {
+          "type": "string",
+          "minLength": 1
+        },
+        "output_contract": {
+          "type": "string",
+          "minLength": 1
+        },
+        "permissions": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z-]+:[a-z-]+$"
+          }
+        },
+        "provider_dependencies": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "gate_summary": {
+          "type": "string",
+          "minLength": 1
+        },
+        "gate_mode": {
+          "enum": [
+            "none",
+            "conditional",
+            "required"
+          ]
+        },
+        "gates": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/gate"
+          }
+        },
+        "audit_required": {
+          "type": "boolean"
+        },
+        "idempotency_policy": {
+          "type": "string",
+          "minLength": 1
+        },
+        "transaction_class": {
+          "enum": [
+            "read_only",
+            "atomic_sql",
+            "asset_saga",
+            "external_saga"
+          ]
+        },
+        "retry_policy": {
+          "$ref": "#/$defs/retry"
+        },
+        "input_schema_ref": {
+          "type": "string",
+          "pattern": "^urn:epi-card:schema:action-payloads:1\\.0\\.0#/\\$defs/[a-z][a-z0-9_]*_input$"
+        },
+        "output_schema_ref": {
+          "type": "string",
+          "pattern": "^urn:epi-card:schema:action-payloads:1\\.0\\.0#/\\$defs/[a-z][a-z0-9_]*_output$"
+        },
+        "success_condition": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "gate": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "kind",
+        "stage",
+        "mode",
+        "when",
+        "requires"
+      ],
+      "properties": {
+        "kind": {
+          "enum": [
+            "provider_disclosure",
+            "consent",
+            "human_review",
+            "human_approval",
+            "actor_authorization",
+            "account_authorization",
+            "prior_approval"
+          ]
+        },
+        "stage": {
+          "enum": [
+            "pre_execute",
+            "pre_commit",
+            "pre_promote",
+            "pre_publish"
+          ]
+        },
+        "mode": {
+          "enum": [
+            "always",
+            "conditional"
+          ]
+        },
+        "when": {
+          "$ref": "#/$defs/predicateCall"
+        },
+        "requires": {
+          "$ref": "#/$defs/predicateCall"
+        }
+      }
+    },
+    "retry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "max_attempts",
+        "resume"
+      ],
+      "properties": {
+        "max_attempts": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 10
+        },
+        "backoff": {
+          "enum": [
+            "fixed",
+            "exponential_jitter"
+          ]
+        },
+        "resume": {
+          "type": "boolean"
+        }
+      }
+    },
+    "predicateCall": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "predicate",
+        "arguments"
+      ],
+      "properties": {
+        "predicate": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_]*(?:\\.[a-z][a-z0-9_]*)*$"
+        },
+        "arguments": {
+          "type": "object"
+        }
+      }
+    }
+  }
+}

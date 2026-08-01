@@ -1,0 +1,127 @@
+{
+  "_source": "Serialized verbatim-in-value from resources/epi_logos_coordinate_system.md (canonical copy of context/epi_logos_coordinate_system.md). Positions: §II Day Positions, lines 67-123. Semantic duals, questions, QL units, L-links per position block. Elements: P5=Salt explicit at line 115; full position->element mapping from the L2' element-bearing lens 6-fold, lines 451-456 (.0 Aether, .1 Earth, .2 Water, .3 Air, .4 Fire, .5 Salt), corroborated by the QL/MEF element column. Klein squares: §IV lines 545-591. Complementary pairs: lines 181, 593-595. No values invented.",
+  "_notation": "The base alignment. Six Day positions P0-P5 (Torus, orientable/explicate); each has its Night inversion P0'-P5' (Klein extension). ql_unit is the Day/(No)Name unit; ql_unit_night is the Night/Power unit (complementarity per line 181).",
+  "positions": [
+    {
+      "position": "P0",
+      "number": "#0",
+      "question": "Why?",
+      "semantic": "Ground / Source",
+      "day_lens": "L0 Quaternal",
+      "night_lens": "L5' Divine Logos",
+      "klein_square": "A",
+      "element": "Aether",
+      "ql_unit": "Truth",
+      "ql_unit_night": "Play",
+      "gebser_structure": "Archaic",
+      "note": "The ever-present Origin; the single 0-cell to which all 1-cells attach (bindu / basepoint)."
+    },
+    {
+      "position": "P1",
+      "number": "#1",
+      "question": "What?",
+      "semantic": "Material / Definition",
+      "day_lens": "L1 Causal",
+      "night_lens": "L4' Scientific",
+      "klein_square": "B",
+      "element": "Earth",
+      "ql_unit": "Mind",
+      "ql_unit_night": "Need",
+      "gebser_structure": "Magic",
+      "note": "First emergence of explicit form; identity established through vital connection."
+    },
+    {
+      "position": "P2",
+      "number": "#2",
+      "question": "How?",
+      "semantic": "Dynamis / Operation",
+      "day_lens": "L2 Logical",
+      "night_lens": "L3' Chronological",
+      "klein_square": "C",
+      "element": "Water",
+      "ql_unit": "Word",
+      "ql_unit_night": "Sacrifice",
+      "gebser_structure": "Mythic",
+      "note": "Active process and energic operation; defined form begins to move and transform."
+    },
+    {
+      "position": "P3",
+      "number": "#3",
+      "question": "Who / Which / Whereby?",
+      "semantic": "Pattern / Identity",
+      "day_lens": "L3 Processual",
+      "night_lens": "L2' Alchemical-Elemental",
+      "klein_square": "C",
+      "element": "Air",
+      "ql_unit": "Logos",
+      "ql_unit_night": "Decision",
+      "gebser_structure": "Mental-Rational",
+      "note": "Perspectival recognition; operational dynamics crystallise into repeatable patterns and agency."
+    },
+    {
+      "position": "P4",
+      "number": "#4",
+      "question": "Where / When / Whither?",
+      "semantic": "Context / Horizon",
+      "day_lens": "L4 Phenomenological",
+      "night_lens": "L1' Phenomenal",
+      "klein_square": "B",
+      "element": "Fire",
+      "ql_unit": "Son",
+      "ql_unit_night": "Love",
+      "gebser_structure": "Integral",
+      "note": "Lemniscate anchor. The aperture where the context-frame fires and the () operator ignites; generates the .0-.5 internal positions the L-lenses receive."
+    },
+    {
+      "position": "P5",
+      "number": "#5",
+      "question": "Why-for / Why-not?",
+      "semantic": "Synthesis / Integration",
+      "day_lens": "L5 Para Vāk",
+      "night_lens": "L0' Archetypal-Numerical",
+      "klein_square": "A",
+      "element": "Salt",
+      "ql_unit": "Image",
+      "ql_unit_night": "Work",
+      "gebser_structure": "Supermental / Samavesa",
+      "note": "Quintessence. Mobius return: P5->P0 (Torus, ground renewed) and P5->P0' (Klein, the Twist). pros hen / focal-meaning point (analogia)."
+    }
+  ],
+  "klein_squares": {
+    "A": {
+      "sum": "0+5=5",
+      "name": "Speech-Number Axis",
+      "axis": "articulation",
+      "positions": ["P0", "P5"],
+      "day_lenses": ["L0 Quaternal", "L5 Para Vak"],
+      "night_lenses": ["L5' Divine Logos", "L0' Archetypal-Numerical"],
+      "p_pair": "Truth+Image (Day) / Play+Work (Night)",
+      "note": "Holds the two implicate poles (0 and 5) and their Night inversions; governs potential<->expression, silence<->speech, number<->word."
+    },
+    "B": {
+      "sum": "1+4=5",
+      "name": "Cause-Experience Axis",
+      "axis": "encounter",
+      "positions": ["P1", "P4"],
+      "day_lenses": ["L1 Causal", "L4 Phenomenological"],
+      "night_lenses": ["L4' Scientific", "L1' Phenomenal"],
+      "p_pair": "Mind+Son (Day) / Need+Love (Night)",
+      "note": "The science-experience bridge; objective structure (L1) <-> subjective appearance (L4). Basin for the /Self/Thought/ field."
+    },
+    "C": {
+      "sum": "2+3=5",
+      "name": "Logic-Process Axis",
+      "axis": "becoming",
+      "positions": ["P2", "P3"],
+      "day_lenses": ["L2 Logical", "L3 Processual"],
+      "night_lenses": ["L3' Chronological", "L2' Alchemical-Elemental"],
+      "p_pair": "Word+Logos (Day) / Sacrifice+Decision (Night)",
+      "note": "Logical structure <-> actual process; historical macro-scale (L3') <-> alchemical micro-scale (L2'). Grounds the tetralemma and transformative process work."
+    }
+  },
+  "complementary_pairs": [
+    {"pair": ["P0", "P5"], "sum": 5, "square": "A", "gloss": "Ground/Synthesis = Truth/Image = Play/Work"},
+    {"pair": ["P1", "P4"], "sum": 5, "square": "B", "gloss": "Definition/Context = Mind/Son = Need/Love"},
+    {"pair": ["P2", "P3"], "sum": 5, "square": "C", "gloss": "Operation/Pattern = Word/Logos = Sacrifice/Decision"}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:epi-card:schema:gate-predicates:1.0.0",
+  "title": "Epi-Card Gate Predicate Registry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version", "predicate_count", "predicates"],
+  "properties": {
+    "version": {"const": "1.0.0"},
+    "predicate_count": {"const": 22},
+    "predicates": {
+      "type": "array",
+      "minItems": 22,
+      "maxItems": 22,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "reads", "arguments_schema", "returns_true_when", "failure_code"],
+        "properties": {
+          "name": {"type": "string", "pattern": "^[a-z][a-z0-9_]*(?:\\.[a-z][a-z0-9_]*)*$"},
+          "reads": {"type": "array", "uniqueItems": true, "items": {"type": "string", "minLength": 1}},
+          "arguments_schema": {"type": "object"},
+          "returns_true_when": {"type": "string", "minLength": 1},
+          "failure_code": {"type": "string", "pattern": "^[A-Z][A-Z0-9_]+$"}
+        }
+      }
+    }
+  }
+}

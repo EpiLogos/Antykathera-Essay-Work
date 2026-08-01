@@ -1,0 +1,493 @@
+{
+  "version": "1.0.0",
+  "engagement_id": "fae0da36-f3fd-5e80-b26c-4d5287b7792d",
+  "profile": "base",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "pixel_aspect": 1.0,
+    "safe_area": {
+      "top": 96,
+      "right": 72,
+      "bottom": 120,
+      "left": 72
+    }
+  },
+  "timeline": {
+    "fps_num": 24,
+    "fps_den": 1,
+    "duration_frames": 192
+  },
+  "scene_pairs": [
+    {
+      "pair_index": 0,
+      "addresses": [
+        "P0",
+        "P0′"
+      ],
+      "start_frame": 0,
+      "duration_frames": 32,
+      "reciprocity_mode": "masked_reveal"
+    },
+    {
+      "pair_index": 1,
+      "addresses": [
+        "P1",
+        "P1′"
+      ],
+      "start_frame": 32,
+      "duration_frames": 32,
+      "reciprocity_mode": "phase_flip"
+    },
+    {
+      "pair_index": 2,
+      "addresses": [
+        "P2",
+        "P2′"
+      ],
+      "start_frame": 64,
+      "duration_frames": 32,
+      "reciprocity_mode": "masked_reveal"
+    },
+    {
+      "pair_index": 3,
+      "addresses": [
+        "P3",
+        "P3′"
+      ],
+      "start_frame": 96,
+      "duration_frames": 32,
+      "reciprocity_mode": "phase_flip"
+    },
+    {
+      "pair_index": 4,
+      "addresses": [
+        "P4",
+        "P4′"
+      ],
+      "start_frame": 128,
+      "duration_frames": 32,
+      "reciprocity_mode": "masked_reveal"
+    },
+    {
+      "pair_index": 5,
+      "addresses": [
+        "P5",
+        "P5′"
+      ],
+      "start_frame": 160,
+      "duration_frames": 32,
+      "reciprocity_mode": "phase_flip"
+    }
+  ],
+  "scene_atoms": {
+    "P0": {
+      "address": "P0",
+      "ql_position_id": "d759d9dc-362c-5946-860c-1e1e88aba720",
+      "pair_index": 0,
+      "face_order": 0,
+      "start_frame": 0,
+      "duration_frames": 32,
+      "intent": {
+        "summary": "Express P0 within conjugate pair 0."
+      },
+      "visual_action": "The field performs the declared P0 operation without baking the exact emblem.",
+      "camera": {
+        "movement": "restrained axial drift"
+      },
+      "light_material": {
+        "light": "raking soft field",
+        "material": "profile-resolved"
+      },
+      "generation_plan": {
+        "mode": "accepted-plate-or-provider",
+        "provider_capability_ref": "seedance-2.0-reference-2026-07"
+      },
+      "accepted_plate_asset_id": null,
+      "symbol_state_id": "139d6351-ebab-5410-96dd-a6f85c8795ac",
+      "audio_state_id": "48f63274-8f2b-5650-9aa4-65f555f5711b"
+    },
+    "P0′": {
+      "address": "P0′",
+      "ql_position_id": "b5247997-d1f3-5fcd-abb6-4304c62b0685",
+      "pair_index": 0,
+      "face_order": 1,
+      "start_frame": 0,
+      "duration_frames": 32,
+      "intent": {
+        "summary": "Express P0′ within conjugate pair 0."
+      },
+      "visual_action": "The field performs the declared P0′ operation without baking the exact emblem.",
+      "camera": {
+        "movement": "restrained axial drift"
+      },
+      "light_material": {
+        "light": "raking soft field",
+        "material": "profile-resolved"
+      },
+      "generation_plan": {
+        "mode": "accepted-plate-or-provider",
+        "provider_capability_ref": "seedance-2.0-reference-2026-07"
+      },
+      "accepted_plate_asset_id": null,
+      "symbol_state_id": "817d0827-e579-5c62-bf94-0ad754cdff7b",
+      "audio_state_id": "6ff7e1e6-b85e-59e8-bf38-fad20923a898"
+    },
+    "P1": {
+      "address": "P1",
+      "ql_position_id": "e2feffe5-e642-5a43-896a-42172d3b18f0",
+      "pair_index": 1,
+      "face_order": 0,
+      "start_frame": 32,
+      "duration_frames": 32,
+      "intent": {
+        "summary": "Express P1 within conjugate pair 1."
+      },
+      "visual_action": "The field performs the declared P1 operation without baking the exact emblem.",
+      "camera": {
+        "movement": "restrained axial drift"
+      },
+      "light_material": {
+        "light": "raking soft field",
+        "material": "profile-resolved"
+      },
+      "generation_plan": {
+        "mode": "accepted-plate-or-provider",
+        "provider_capability_ref": "seedance-2.0-reference-2026-07"
+      },
+      "accepted_plate_asset_id": null,
+      "symbol_state_id": "834c0694-0109-5f29-8903-3ef48053e4f1",
+      "audio_state_id": "7e158ca1-1730-5a76-a02e-312f91656979"
+    },
+    "P1′": {
+      "address": "P1′",
+      "ql_position_id": "b8cf4e1e-5fb8-5970-b226-e0431fa962e0",
+      "pair_index": 1,
+      "face_order": 1,
+      "start_frame": 32,
+      "duration_frames": 32,
+      "intent": {
+        "summary": "Express P1′ within conjugate pair 1."
+      },
+      "visual_action": "The field performs the declared P1′ operation without baking the exact emblem.",
+      "camera": {
+        "movement": "restrained axial drift"
+      },
+      "light_material": {
+        "light": "raking soft field",
+        "material": "profile-resolved"
+      },
+      "generation_plan": {
+        "mode": "accepted-plate-or-provider",
+        "provider_capability_ref": "seedance-2.0-reference-2026-07"
+      },
+      "accepted_plate_asset_id": null,
+      "symbol_state_id": "bea482e0-44ec-5b3f-9e8c-8d5007deb6e5",
+      "audio_state_id": "3ffd2cb8-b0ba-55a5-b6d6-88411c7d3378"
+    },
+    "P2": {
+      "address": "P2",
+      "ql_position_id": "4940e837-b839-5bc0-bba0-c48b572d3981",
+      "pair_index": 2,
+      "face_order": 0,
+      "start_frame": 64,
+      "duration_frames": 32,
+      "intent": {
+        "summary": "Express P2 within conjugate pair 2."
+      },
+      "visual_action": "The field performs the declared P2 operation without baking the exact emblem.",
+      "camera": {
+        "movement": "restrained axial drift"
+      },
+      "light_material": {
+        "light": "raking soft field",
+        "material": "profile-resolved"
+      },
+      "generation_plan": {
+        "mode": "accepted-plate-or-provider",
+        "provider_capability_ref": "seedance-2.0-reference-2026-07"
+      },
+      "accepted_plate_asset_id": null,
+      "symbol_state_id": "a33391c2-22cb-52f0-8698-39ae72792ef6",
+      "audio_state_id": "245998bc-e7ab-575e-b85a-e4c16a943ae3"
+    },
+    "P2′": {
+      "address": "P2′",
+      "ql_position_id": "0197de88-3a4d-5e66-975f-6b1d7e661606",
+      "pair_index": 2,
+      "face_order": 1,
+      "start_frame": 64,
+      "duration_frames": 32,
+      "intent": {
+        "summary": "Express P2′ within conjugate pair 2."
+      },
+      "visual_action": "The field performs the declared P2′ operation without baking the exact emblem.",
+      "camera": {
+        "movement": "restrained axial drift"
+      },
+      "light_material": {
+        "light": "raking soft field",
+        "material": "profile-resolved"
+      },
+      "generation_plan": {
+        "mode": "accepted-plate-or-provider",
+        "provider_capability_ref": "seedance-2.0-reference-2026-07"
+      },
+      "accepted_plate_asset_id": null,
+      "symbol_state_id": "5edde53e-a1f2-5040-a501-e565f7836def",
+      "audio_state_id": "efa9dab3-2196-5516-a6e0-c6c1dbfd237b"
+    },
+    "P3": {
+      "address": "P3",
+      "ql_position_id": "b2b48b20-a594-5b85-ab6a-9b983c0960e2",
+      "pair_index": 3,
+      "face_order": 0,
+      "start_frame": 96,
+      "duration_frames": 32,
+      "intent": {
+        "summary": "Express P3 within conjugate pair 3."
+      },
+      "visual_action": "The field performs the declared P3 operation without baking the exact emblem.",
+      "camera": {
+        "movement": "restrained axial drift"
+      },
+      "light_material": {
+        "light": "raking soft field",
+        "material": "profile-resolved"
+      },
+      "generation_plan": {
+        "mode": "accepted-plate-or-provider",
+        "provider_capability_ref": "seedance-2.0-reference-2026-07"
+      },
+      "accepted_plate_asset_id": null,
+      "symbol_state_id": "d0387f9b-4dcd-5c72-a5bb-cad60a17818b",
+      "audio_state_id": "27a7bd3d-c66a-538f-ab95-568166a00559"
+    },
+    "P3′": {
+      "address": "P3′",
+      "ql_position_id": "f2ac9066-8bc7-55d3-80f2-bff4a3002e1c",
+      "pair_index": 3,
+      "face_order": 1,
+      "start_frame": 96,
+      "duration_frames": 32,
+      "intent": {
+        "summary": "Express P3′ within conjugate pair 3."
+      },
+      "visual_action": "The field performs the declared P3′ operation without baking the exact emblem.",
+      "camera": {
+        "movement": "restrained axial drift"
+      },
+      "light_material": {
+        "light": "raking soft field",
+        "material": "profile-resolved"
+      },
+      "generation_plan": {
+        "mode": "accepted-plate-or-provider",
+        "provider_capability_ref": "seedance-2.0-reference-2026-07"
+      },
+      "accepted_plate_asset_id": null,
+      "symbol_state_id": "d654df80-7107-5004-b341-2a60d467b92a",
+      "audio_state_id": "887c425a-e80d-5f13-a931-8022f0427a35"
+    },
+    "P4": {
+      "address": "P4",
+      "ql_position_id": "aede34ef-5c5a-59db-b8df-87b75cba0ed3",
+      "pair_index": 4,
+      "face_order": 0,
+      "start_frame": 128,
+      "duration_frames": 32,
+      "intent": {
+        "summary": "Express P4 within conjugate pair 4."
+      },
+      "visual_action": "The field performs the declared P4 operation without baking the exact emblem.",
+      "camera": {
+        "movement": "restrained axial drift"
+      },
+      "light_material": {
+        "light": "raking soft field",
+        "material": "profile-resolved"
+      },
+      "generation_plan": {
+        "mode": "accepted-plate-or-provider",
+        "provider_capability_ref": "seedance-2.0-reference-2026-07"
+      },
+      "accepted_plate_asset_id": null,
+      "symbol_state_id": "df7ff35b-4d81-595f-922a-b04c6ecb2d1c",
+      "audio_state_id": "d72bb4fc-4b8f-520d-a1c4-0b7e80611198"
+    },
+    "P4′": {
+      "address": "P4′",
+      "ql_position_id": "b194fe10-5b88-519c-90b5-5b077f7014f5",
+      "pair_index": 4,
+      "face_order": 1,
+      "start_frame": 128,
+      "duration_frames": 32,
+      "intent": {
+        "summary": "Express P4′ within conjugate pair 4."
+      },
+      "visual_action": "The field performs the declared P4′ operation without baking the exact emblem.",
+      "camera": {
+        "movement": "restrained axial drift"
+      },
+      "light_material": {
+        "light": "raking soft field",
+        "material": "profile-resolved"
+      },
+      "generation_plan": {
+        "mode": "accepted-plate-or-provider",
+        "provider_capability_ref": "seedance-2.0-reference-2026-07"
+      },
+      "accepted_plate_asset_id": null,
+      "symbol_state_id": "129e3445-e810-5501-8ec4-f96b218ad0a7",
+      "audio_state_id": "1b6a667d-ce8a-5f88-8e5e-41f86b3e74f5"
+    },
+    "P5": {
+      "address": "P5",
+      "ql_position_id": "8e974e83-9b98-556c-9fcb-3c65b46dc6db",
+      "pair_index": 5,
+      "face_order": 0,
+      "start_frame": 160,
+      "duration_frames": 32,
+      "intent": {
+        "summary": "Express P5 within conjugate pair 5."
+      },
+      "visual_action": "The field performs the declared P5 operation without baking the exact emblem.",
+      "camera": {
+        "movement": "restrained axial drift"
+      },
+      "light_material": {
+        "light": "raking soft field",
+        "material": "profile-resolved"
+      },
+      "generation_plan": {
+        "mode": "accepted-plate-or-provider",
+        "provider_capability_ref": "seedance-2.0-reference-2026-07"
+      },
+      "accepted_plate_asset_id": null,
+      "symbol_state_id": "c4651cad-7737-5e55-b479-90fc3a9a148b",
+      "audio_state_id": "36b5eba2-f88b-56aa-8c04-7232f042db37"
+    },
+    "P5′": {
+      "address": "P5′",
+      "ql_position_id": "3951c2ab-cc19-54a5-9c06-8aa681842b20",
+      "pair_index": 5,
+      "face_order": 1,
+      "start_frame": 160,
+      "duration_frames": 32,
+      "intent": {
+        "summary": "Express P5′ within conjugate pair 5."
+      },
+      "visual_action": "The field performs the declared P5′ operation without baking the exact emblem.",
+      "camera": {
+        "movement": "restrained axial drift"
+      },
+      "light_material": {
+        "light": "raking soft field",
+        "material": "profile-resolved"
+      },
+      "generation_plan": {
+        "mode": "accepted-plate-or-provider",
+        "provider_capability_ref": "seedance-2.0-reference-2026-07"
+      },
+      "accepted_plate_asset_id": null,
+      "symbol_state_id": "0424f3f5-9a89-5757-9e07-cbd730137512",
+      "audio_state_id": "cdbbf404-4d86-5591-ae8b-1155372b7ffe"
+    }
+  },
+  "layers": [
+    {
+      "id": "world",
+      "kind": "video",
+      "z_index": 0,
+      "start_frame": 0,
+      "duration_frames": 192,
+      "source": {
+        "role": "reciprocal-plates"
+      },
+      "operations": []
+    },
+    {
+      "id": "symbol",
+      "kind": "symbol",
+      "z_index": 20,
+      "start_frame": 0,
+      "duration_frames": 192,
+      "source": {
+        "symbol_revision_id": "17d29584-1995-50f7-822d-a8de68e68481"
+      },
+      "operations": [
+        {
+          "op": "state-by-address"
+        }
+      ]
+    },
+    {
+      "id": "title",
+      "kind": "type",
+      "z_index": 30,
+      "start_frame": 0,
+      "duration_frames": 192,
+      "source": {
+        "outlined_asset_id": "4f1fdd3f-4ee3-5df8-bdeb-34b8b121c723"
+      },
+      "operations": []
+    }
+  ],
+  "audio": {
+    "sample_rate": 48000,
+    "channels": 2,
+    "master_asset_id": "6c561b28-a54a-52c6-b6b8-c445e0a2d83f",
+    "mix_plan": [
+      {
+        "role": "ql-resonator",
+        "gain_db": -3.0
+      }
+    ]
+  },
+  "loop": {
+    "enabled": true,
+    "first_anchor": {
+      "address": "P0",
+      "frame": 0
+    },
+    "last_anchor": {
+      "address": "P5′",
+      "frame": 191
+    },
+    "max_visual_delta": 0.05,
+    "max_audio_discontinuity_db": 48.0,
+    "semantic_delta_required": true
+  },
+  "outputs": [
+    {
+      "name": "vertical-master",
+      "container": "mp4",
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "width": 1080,
+      "height": 1920,
+      "alpha": false,
+      "settings": {
+        "crf": 18
+      }
+    },
+    {
+      "name": "transparent-symbol",
+      "container": "webm",
+      "video_codec": "vp9",
+      "audio_codec": null,
+      "width": 1080,
+      "height": 1920,
+      "alpha": true,
+      "settings": {
+        "pixel_format": "yuva420p"
+      }
+    }
+  ],
+  "renderer": {
+    "name": "remotion",
+    "version": "reference-v1",
+    "ffmpeg_version": "pinned-at-build",
+    "composition_id": "EpiCardMaster"
+  }
+}

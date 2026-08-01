@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+set -eu
+BIN="${EPICARD_BIN:-epicard}"
+if ! command -v "$BIN" >/dev/null 2>&1; then
+  printf '%s\n' "Epi-Card CLI not found. Set EPICARD_BIN or install the epicard executable." >&2
+  exit 127
+fi
+exec "$BIN" "$@"

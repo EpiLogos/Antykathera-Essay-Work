@@ -1,0 +1,160 @@
+{
+  "nodes": [
+    {
+      "id": "flow-overview",
+      "type": "text",
+      "text": "# The Return of Zero — v2 Station Flow\n\nEach station repeats the whole argument from a different angle. The prior station arrives as a quilt, never a recap.\n\n[[The Return of Zero — v2 Architecture Index]]",
+      "x": 0,
+      "y": -520,
+      "width": 650,
+      "height": 320,
+      "color": "6"
+    },
+    {
+      "id": "flow-0",
+      "type": "text",
+      "text": "# Threshold — The Mechanism and the Occasion\n\nThe Antikythera mechanism enters as an attunement instrument: ratio-work, near-closure, and a comma in bronze. The Agentworld occasion opens the question of whether subjectivity was ever something an agent could possess.\n\n**Voice rotation:** V5 dominant · V3 secondary.\n\n**Handoff:** Ask what is missing when an agent is said to lack subjectivity.",
+      "x": 0,
+      "y": 0,
+      "width": 650,
+      "height": 500,
+      "color": "1"
+    },
+    {
+      "id": "flow-1",
+      "type": "text",
+      "text": "# §0 — Ground: The Subject That Resists the Count\n\nThe indefinability run releases the subject from thoughts, affects, and functions. Gaps shrink because they are projected objects; the ground does not. The full apparatus is only presaged.\n\n**Voice rotation:** V1 dominant · V3 secondary.\n\n**Handoff:** Give the uncountable ground a sign.",
+      "x": 850,
+      "y": 0,
+      "width": 650,
+      "height": 500,
+      "color": "2"
+    },
+    {
+      "id": "flow-2",
+      "type": "text",
+      "text": "# §1 — Definition: The History of the Ground’s Sign\n\nZero is followed from śūnya through Brahmagupta, Bhāskara, Gerbert, Abhinavagupta, Salem, and Nothaft’s correction of the satanic-zero myth. Kaplan’s lens teaches the reader to look through zero.\n\n**Voice rotation:** V1 dominant · V6 secondary.\n\n**Handoff:** Ask how zero and one are paired.",
+      "x": 1700,
+      "y": 0,
+      "width": 650,
+      "height": 500,
+      "color": "3"
+    },
+    {
+      "id": "flow-3",
+      "type": "text",
+      "text": "# §2 — Process: The Two Accountings of Two\n\nSeam-cancelling and seam-retaining accounts of two are staged through formal difference, {0,1}, the trivial ring, Sheffer, apoha, trust, and the Klein safeguard against fusion.\n\n**Voice rotation:** V2 dominant · V5 secondary.\n\n**Handoff:** Drive the seam-retaining account to formality’s limit.",
+      "x": 2550,
+      "y": 0,
+      "width": 650,
+      "height": 500,
+      "color": "4"
+    },
+    {
+      "id": "flow-4",
+      "type": "text",
+      "text": "# §3 — Pattern: The Remainder in the Formal\n\nGödel, re-entry, iterants, FDE, projective geometry, qubits, and division-by-zero systems show an objective fork. The matheme names the fork without claiming to be a fifth calculus.\n\n**Voice rotation:** V4 dominant · V2 secondary.\n\n**Handoff:** Ask where mathematics and psyche keep striking the same remainder.",
+      "x": 0,
+      "y": 600,
+      "width": 650,
+      "height": 500,
+      "color": "5"
+    },
+    {
+      "id": "flow-5",
+      "type": "text",
+      "text": "# §4 — Context: The Psychological Expansion\n\nThe full tattvic engineering drawing opens: māyā, kañcukas, antaḥkaraṇa, Objective Internality, J-space, Number-Names, softmax, non-coincidence, and the agent as psychoid artifact.\n\n**Voice rotation:** V3 dominant · V6 secondary.\n\n**Handoff:** Restore the ground-term through lawful form and architecture.",
+      "x": 850,
+      "y": 600,
+      "width": 650,
+      "height": 500,
+      "color": "6"
+    },
+    {
+      "id": "flow-6",
+      "type": "text",
+      "text": "# §5 — Opening: The Flowering, the Stack, the Program\n\nQL is compressed to 4+2, double traversal, comma, standing wave, orchestration, harmonisation, the Trika stack, deferential intelligence, and E1–E6.\n\n**Voice rotation:** V5 dominant · V6 secondary.\n\n**Handoff:** Return the constructive offer to the opening mechanism.",
+      "x": 1700,
+      "y": 600,
+      "width": 650,
+      "height": 500,
+      "color": "1"
+    },
+    {
+      "id": "flow-7",
+      "type": "text",
+      "text": "# Coda — The Mechanism, Rereadable\n\nThe mechanism returns as attunement rather than representation. The axle, comma, mirror, pleromatic federation, and redeemed glyph close the essay through 5→0 without objectifying the ground.\n\n**Voice rotation:** V5 dominant · V1 / V2 secondary.\n\n**Handoff:** Reopen the question as a practice of attunement.",
+      "x": 2550,
+      "y": 600,
+      "width": 650,
+      "height": 500,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "flow-start",
+      "fromNode": "flow-overview",
+      "fromSide": "bottom",
+      "toNode": "flow-0",
+      "toSide": "top",
+      "label": "0/1"
+    },
+    {
+      "id": "station-flow-0",
+      "fromNode": "flow-0",
+      "fromSide": "right",
+      "toNode": "flow-1",
+      "toSide": "left",
+      "label": "quilt"
+    },
+    {
+      "id": "station-flow-1",
+      "fromNode": "flow-1",
+      "fromSide": "right",
+      "toNode": "flow-2",
+      "toSide": "left",
+      "label": "quilt"
+    },
+    {
+      "id": "station-flow-2",
+      "fromNode": "flow-2",
+      "fromSide": "right",
+      "toNode": "flow-3",
+      "toSide": "left",
+      "label": "quilt"
+    },
+    {
+      "id": "station-flow-3",
+      "fromNode": "flow-3",
+      "fromSide": "right",
+      "toNode": "flow-4",
+      "toSide": "left",
+      "label": "quilt"
+    },
+    {
+      "id": "station-flow-4",
+      "fromNode": "flow-4",
+      "fromSide": "right",
+      "toNode": "flow-5",
+      "toSide": "left",
+      "label": "quilt"
+    },
+    {
+      "id": "station-flow-5",
+      "fromNode": "flow-5",
+      "fromSide": "right",
+      "toNode": "flow-6",
+      "toSide": "left",
+      "label": "quilt"
+    },
+    {
+      "id": "station-flow-6",
+      "fromNode": "flow-6",
+      "fromSide": "right",
+      "toNode": "flow-7",
+      "toSide": "left",
+      "label": "5→0"
+    }
+  ]
+}

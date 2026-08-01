@@ -1,0 +1,49 @@
+filters:
+  or:
+    - 'file.inFolder("Antykathera-Essay-Work/essay-workshop/legacy/v2/cards")'
+    - 'file.inFolder("Antykathera-Essay-Work/sources-texts-references/reference-notes")'
+formulas:
+  planning_role: 'if(node_type == "station", "drafting station", if(node_type == "voice", "continuous voice", if(node_type == "lexicon", "lexicon", "evidence")))'
+properties:
+  node_type:
+    displayName: Node
+  planning_version:
+    displayName: Version
+  dominant_voice:
+    displayName: Dominant voice
+  secondary_voice:
+    displayName: Secondary voice
+  source_status:
+    displayName: Source status
+  formula.planning_role:
+    displayName: Role
+views:
+  - type: table
+    name: Station drafting
+    filters:
+      and:
+        - 'node_type == "station"'
+    order:
+      - file.name
+  - type: table
+    name: Voice continuity
+    filters:
+      and:
+        - 'node_type == "voice"'
+    order:
+      - file.name
+  - type: cards
+    name: v2 lexicon
+    filters:
+      and:
+        - 'node_type == "lexicon"'
+    order:
+      - file.name
+  - type: table
+    name: Evidence ledger
+    filters:
+      and:
+        - 'node_type == "reference"'
+    order:
+      - source_status
+      - file.name

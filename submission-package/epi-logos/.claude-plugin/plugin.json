@@ -1,0 +1,22 @@
+{
+  "name": "epi-logos",
+  "description": "A reader companion for published Obsidian and linked Markdown works. Reads, follows, teaches, and retains traversals through one QL/MEF instrument, with optional Epi-Card encounter-capsule integration.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Epi-Logos"
+  },
+  "license": "Proprietary",
+  "keywords": [
+    "quaternal-logic",
+    "mef",
+    "epi-logos",
+    "paradox",
+    "topology",
+    "tetralemma",
+    "cmea",
+    "epistemology",
+    "obsidian-vault",
+    "traversal",
+    "epi-card"
+  ]
+}

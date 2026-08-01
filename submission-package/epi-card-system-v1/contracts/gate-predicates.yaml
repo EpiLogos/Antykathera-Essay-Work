@@ -1,0 +1,176 @@
+version: 1.0.0
+predicate_count: 22
+predicates:
+  - name: always
+    reads: []
+    arguments_schema: {type: object, additionalProperties: false}
+    returns_true_when: The predicate is evaluated.
+    failure_code: GATE_INTERNAL_ALWAYS_FALSE
+
+  - name: provider.is_external
+    reads: [action.input.provider_profile_id, provider_capability.execution_boundary]
+    arguments_schema:
+      type: object
+      additionalProperties: false
+      required: [capability]
+      properties: {capability: {type: string, minLength: 1}}
+    returns_true_when: The selected provider capability for the named capability has execution_boundary other than local.
+    failure_code: PROVIDER_BOUNDARY_UNRESOLVED
+
+  - name: source.extraction_leaves_runtime
+    reads: [action.input.extraction_mode, action.input.provider_profile_id, deployment.trust_boundary]
+    arguments_schema: {type: object, additionalProperties: false}
+    returns_true_when: Source bytes or extracted content will be transmitted beyond the active deployment trust boundary.
+    failure_code: SOURCE_BOUNDARY_UNRESOLVED
+
+  - name: projection.kind_in
+    reads: [action.input.projection_kind]
+    arguments_schema:
+      type: object
+      additionalProperties: false
+      required: [values]
+      properties:
+        values: {type: array, minItems: 1, uniqueItems: true, items: {enum: [private, shared, public, provider]}}
+    returns_true_when: action.input.projection_kind is a member of arguments.values.
+    failure_code: PROJECTION_KIND_MISSING
+
+  - name: projection.kind_is
+    reads: [action.input.projection_kind]
+    arguments_schema:
+      type: object
+      additionalProperties: false
+      required: [value]
+      properties: {value: {enum: [private, shared, public, provider]}}
+    returns_true_when: action.input.projection_kind equals arguments.value.
+    failure_code: PROJECTION_KIND_MISSING
+
+  - name: promotion.requested
+    reads: [action.input.promotion_target, action.input.canonical_use]
+    arguments_schema:
+      type: object
+      additionalProperties: false
+      required: [target]
+      properties: {target: {type: string, minLength: 1}}
+    returns_true_when: The invocation requests promotion to arguments.target rather than candidate-only production.
+    failure_code: PROMOTION_INTENT_UNRESOLVED
+
+  - name: basin.essential_or_excluded_changed
+    reads: [action.input.patch_operations, attractor_revision.current_basin]
+    arguments_schema: {type: object, additionalProperties: false}
+    returns_true_when: The patch adds, removes, reweights, or reclassifies an essential or excluded basin member.
+    failure_code: BASIN_DIFF_UNRESOLVED
+
+  - name: action.input_flag_true
+    reads: [action.input]
+    arguments_schema:
+      type: object
+      additionalProperties: false
+      required: [path]
+      properties: {path: {type: string, pattern: '^/input(?:/[^/]+)+$'}}
+    returns_true_when: The RFC 6901 pointer in arguments.path resolves to the JSON boolean true.
+    failure_code: INPUT_FLAG_UNRESOLVED
+
+  - name: actor.has_permission
+    reads: [action.actor_id, actor_role, role_permission]
+    arguments_schema:
+      type: object
+      additionalProperties: false
+      required: [permission]
+      properties: {permission: {type: string, pattern: '^[a-z-]+:[a-z-]+$'}}
+    returns_true_when: The action actor has an active non-expired grant for arguments.permission in the engagement scope.
+    failure_code: ACTOR_PERMISSION_DENIED
+
+  - name: actor.lock_release_authorized
+    reads: [action.actor_id, action.input.resource_lock_id, resource_lock.actor_id, role_permission]
+    arguments_schema: {type: object, additionalProperties: false}
+    returns_true_when: The actor owns the active lock or has the lock:manage permission in the engagement scope.
+    failure_code: LOCK_RELEASE_DENIED
+
+  - name: resonance.open_extension_changed
+    reads: [action.input.contributions, resonance_contribution.current]
+    arguments_schema: {type: object, additionalProperties: false}
+    returns_true_when: The proposed contribution set introduces, removes, or changes a contribution registered as open_extension.
+    failure_code: RESONANCE_EXTENSION_DIFF_UNRESOLVED
+
+  - name: request.external_account_access
+    reads: [action.input.account_ref, action.input.collection_mode]
+    arguments_schema: {type: object, additionalProperties: false}
+    returns_true_when: The collection request requires credentials or data from an account outside the active deployment.
+    failure_code: ACCOUNT_BOUNDARY_UNRESOLVED
+
+  - name: target.role_equals
+    reads: [action.input.target_role]
+    arguments_schema:
+      type: object
+      additionalProperties: false
+      required: [value]
+      properties: {value: {type: string, minLength: 1}}
+    returns_true_when: action.input.target_role equals arguments.value.
+    failure_code: TARGET_ROLE_MISSING
+
+  - name: storyboard.approved_revision_changed
+    reads: [action.input.prior_revision_id, action.input.patch, storyboard_revision.status]
+    arguments_schema: {type: object, additionalProperties: false}
+    returns_true_when: The prior storyboard revision is approved and the patch changes semantic intent, timing, QL address coverage, or accepted plate assignment.
+    failure_code: STORYBOARD_DIFF_UNRESOLVED
+
+  - name: modifier.is_external_ai
+    reads: [action.input.method, action.input.provider_profile_id, provider_capability.execution_boundary]
+    arguments_schema: {type: object, additionalProperties: false}
+    returns_true_when: The modifier uses an AI provider whose execution_boundary is not local.
+    failure_code: MODIFIER_BOUNDARY_UNRESOLVED
+
+  - name: modifier.is_nondeterministic
+    reads: [action.input.operation_version, modifier_definition.determinism_class]
+    arguments_schema: {type: object, additionalProperties: false}
+    returns_true_when: The pinned modifier definition has determinism_class other than deterministic.
+    failure_code: MODIFIER_DETERMINISM_UNRESOLVED
+
+  - name: disclosure.scope_in
+    reads: [action.input.disclosure_scope]
+    arguments_schema:
+      type: object
+      additionalProperties: false
+      required: [values]
+      properties:
+        values: {type: array, minItems: 1, uniqueItems: true, items: {enum: [private, shared, public, provider]}}
+    returns_true_when: action.input.disclosure_scope is a member of arguments.values.
+    failure_code: DISCLOSURE_SCOPE_MISSING
+
+  - name: disclosure.provider_receipt_valid
+    reads: [action.input.disclosure_receipt_id, provider_disclosure_receipt]
+    arguments_schema:
+      type: object
+      additionalProperties: false
+      required: [purpose]
+      properties: {purpose: {type: string, minLength: 1}}
+    returns_true_when: An unexpired receipt exists for the same Pasu snapshot, provider, model or service, purpose, transmitted field manifest, and action request hash.
+    failure_code: PROVIDER_DISCLOSURE_REQUIRED
+
+  - name: consent.recording_allows_scope
+    reads: [action.input.consent_state, action.input.disclosure_scope, recording.consent_state, pasu.consent_profile]
+    arguments_schema: {type: object, additionalProperties: false}
+    returns_true_when: The declared recording consent and Pasu consent profile both permit ingestion and the requested disclosure scope.
+    failure_code: RECORDING_CONSENT_REQUIRED
+
+  - name: approval.matches_payload
+    reads: [action.input.approval_id, approval, action.request_hash, action.output_candidate_hash]
+    arguments_schema:
+      type: object
+      additionalProperties: false
+      required: [approval_type]
+      properties: {approval_type: {type: string, minLength: 1}}
+    returns_true_when: An unrevoked approval of arguments.approval_type exists for the same engagement, actor scope, immutable request hash, candidate payload hash, and source revision manifest.
+    failure_code: MATCHING_APPROVAL_REQUIRED
+
+  - name: account.authorization_valid
+    reads: [action.input.account_ref, credential_reference, actor_account_grant]
+    arguments_schema: {type: object, additionalProperties: false}
+    returns_true_when: The actor has an active account grant and the referenced credential is available for the requested read scope without exposing the credential value.
+    failure_code: ACCOUNT_AUTHORIZATION_REQUIRED
+
+  - name: publication.approval_matches_hashes
+    reads: [publication, approval, rendition.asset_sha256, publication.metadata_hash, publication.disclosure_manifest_hash]
+    arguments_schema: {type: object, additionalProperties: false}
+    returns_true_when: An unrevoked publication approval exactly matches the platform, account, immutable rendition hash, metadata hash, privacy setting, and disclosure manifest hash.
+    failure_code: PUBLICATION_APPROVAL_MISMATCH

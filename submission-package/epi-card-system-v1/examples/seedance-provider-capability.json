@@ -1,0 +1,56 @@
+{
+  "version": "1.0.0",
+  "provider": "ByteDance Seed",
+  "model_id": "seedance-2.0",
+  "model_version": "2.0",
+  "capability_version": "reference-2026-07-28",
+  "checked_at": "2026-07-28T10:00:00Z",
+  "modalities_in": [
+    "text",
+    "image",
+    "audio",
+    "video",
+    "storyboard"
+  ],
+  "modalities_out": [
+    "video",
+    "audio",
+    "metadata"
+  ],
+  "operations": [
+    "generate",
+    "edit",
+    "continue",
+    "reference",
+    "audio_video_joint"
+  ],
+  "limits": {
+    "max_duration_seconds": 15,
+    "min_duration_seconds": 1,
+    "max_reference_images": 9,
+    "max_reference_videos": 3,
+    "max_reference_audio": 3,
+    "max_prompt_chars": null
+  },
+  "features": {
+    "native_audio": true,
+    "multi_shot": true,
+    "video_extension": true,
+    "video_editing": true,
+    "seed_control": false,
+    "alpha_output": false
+  },
+  "constraints": {
+    "exact_symbol_layer": "deterministic-compositor-required",
+    "capability_source": "official provider material; verify before production use"
+  },
+  "terms_snapshot_ref": null,
+  "disclosure": {
+    "external_provider": true,
+    "allowed_classes": [
+      "shared",
+      "public"
+    ]
+  },
+  "active": true
+}

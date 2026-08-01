@@ -1,0 +1,1 @@
+There is worldly knowledge and there is knowing the mystery of the world; these foundational types of knowing are worlds apart. But follow either long enough and you'll meet the other, for the world and it's mystery are like son and mother.

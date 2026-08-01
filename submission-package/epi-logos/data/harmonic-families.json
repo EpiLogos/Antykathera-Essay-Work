@@ -1,0 +1,46 @@
+{
+  "_source": "resources/canon/ql-musical-derivation-v3.md; file-four-musical-epistemic.md §2 'The Universal Pairing Grammar' (lines 137–189). Serialized 2026-07-14.",
+  "_note": "The full relational grammar between the six positions. Three families (named by register, NOT by 'family A/B/C', which collides with the lens-squares) × three pairs, doubled by the Day/Night cover = nine squares, EIGHT distinct (the (2,3) hinge coincides). The three lens-squares of coordinate-system.json are the Becoming/mirror family alone — one family of three. A convergence reading organised only by the complementary-pair squares sees Becoming and misses Being and Knowing.",
+  "families": [
+    {
+      "register": "Being",
+      "relation_type": "Adjacent-Identity",
+      "edge": "ADJACENTLY_ARTICULATES",
+      "pairs": [[0, 1], [2, 3], [4, 5]],
+      "gloss": "the natural dyads — neighbours co-constituting, neither able to be what it is without the other; adjacency as co-constitution",
+      "sounds_as": "whole-tones (chromatic basis) / perfect fifths (fifths basis)"
+    },
+    {
+      "register": "Becoming",
+      "relation_type": "Converse-Mirror",
+      "edge": "MIRRORS_COMPLEMENT",
+      "pairs": [[0, 5], [1, 4], [2, 3]],
+      "gloss": "the mirror-pairs summing to 5 — a position and its converse answering one another across the field's centre; the mirror is how the field moves",
+      "note": "these three pairs are the three lens-squares [0+5], [1+4], [2+3] — the complementary-pair slice the skills enter as basins (Square A, Square B, Square C)"
+    },
+    {
+      "register": "Knowing-Unknowing",
+      "relation_type": "Offset-Transition",
+      "edge": "CROSSES_KNOWING_LIMIT",
+      "pairs": [[1, 2], [3, 4], [5, 0]],
+      "gloss": "the crossings — each leaving one constituted dyad and crossing a knowing-limit into the next; (5,0) is the §5→§0' return itself, the whole crossing back into the ground it cannot know as content"
+    }
+  ],
+  "squares": {
+    "count_slots": 9,
+    "count_distinct": 8,
+    "doubling": "each square is a Day-pair doubled by its conjugate Night inversion (the D↔ operator). D voices the Night (pratibimba) face of the pair; it is NOT a fourth family.",
+    "coincidence": {
+      "pair": [2, 3],
+      "slots": ["Being/Adjacent on (2,3)", "Becoming/Mirror on (2,3)"],
+      "reason": "(2,3) is the only pair both adjacent (→ Being) and summing to 5 (→ Becoming/mirror) — the hexad midpoint where adjacency coincides with complementarity. L2/L3 (Word/Logos, Operation/Pattern) is Being and Becoming at once: logic and process, one structure seen from two faces. The coincidence is basis-invariant.",
+      "arithmetic": "9 − 1 = 8"
+    }
+  },
+  "held_envelope": {
+    "square": "lens-square [0+5] (L0, L0', L5, L5') = the Converse-Mirror (Becoming) tetrad on the two implicate poles P0/P5",
+    "role": "held as the reading's #0/#5 envelope — the poles frame the explicate four (positions 1–4), they do not participate as differentiated content",
+    "correction": "NOT 'ground and quintessence' — that names the endpoint positions' semantic duals, not their relation (Converse-Mirror). Held for its pole-position, and it is one of three mirror-squares (the other two, [1+4] and [2+3], are inside the fanned work)."
+  },
+  "reading_constraint": "A convergence reading (e.g. /mef-refract) must declare which REGISTER each convergence holds under (Being / Becoming / Knowing-Unknowing; both at the #2/#3 hinge). Register (which relation) is orthogonal to STRENGTH (homology = same operation in different materials; analogy = mere resemblance). Reading by the mirror squares alone misses two-thirds of the grammar."
+}
