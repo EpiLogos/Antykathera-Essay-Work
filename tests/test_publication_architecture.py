@@ -8,6 +8,7 @@ import yaml
 
 PROJECT = Path(__file__).resolve().parents[1]
 SYMBOLON = PROJECT / "symbolon"
+WIKILINK = re.compile(r"\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]")
 
 
 def frontmatter(path: Path):
@@ -19,6 +20,28 @@ def frontmatter(path: Path):
 
 
 class PublicationArchitectureTests(unittest.TestCase):
+    REGISTER_DOMAINS = {
+        "matheme": {
+            "ql",
+            "spanda",
+            "topology",
+            "harmonics",
+            "formal-neighbours",
+            "computation",
+            "diagrams",
+        },
+        "mytheme": {"myth", "narrative", "poetry", "media", "art", "music", "plates"},
+        "episteme": {
+            "sources",
+            "histories",
+            "etymologies",
+            "lenses",
+            "maps",
+            "dossiers",
+            "figures",
+        },
+    }
+
     def test_symbolon_has_direct_root_and_exact_internal_registers(self):
         self.assertTrue((SYMBOLON / "README.md").is_file())
         self.assertFalse((SYMBOLON / "relations").exists())
@@ -31,13 +54,50 @@ class PublicationArchitectureTests(unittest.TestCase):
         root_data, root_body = frontmatter(SYMBOLON / "README.md")
         self.assertEqual("symbolon", root_data["register"])
         self.assertEqual("publication-root", root_data["record_type"])
-        self.assertIn("There is no `relations/` subdirectory", root_body)
+        self.assertIn("The relations that organise every register belong directly in Symbolon", root_body)
 
         for register in registers:
             data, body = frontmatter(SYMBOLON / register / "README.md")
             self.assertEqual(register, data["register"])
-            self.assertEqual("register-entry", data["record_type"])
-            self.assertIn("Return to [[../README|Symbolon]]", body)
+            self.assertEqual("register-root", data["record_type"])
+            self.assertNotIn("preliminary", body.casefold())
+            self.assertNotIn("ratification", body.casefold())
+            self.assertNotIn("migration", body.casefold())
+
+    def test_each_register_has_the_complete_functional_domain_shape(self):
+        for register, expected_domains in self.REGISTER_DOMAINS.items():
+            root = SYMBOLON / register
+            actual_domains = {path.name for path in root.iterdir() if path.is_dir()}
+            self.assertEqual(expected_domains, actual_domains, register)
+
+            register_readme = (root / "README.md").read_text(encoding="utf-8")
+            for domain in expected_domains:
+                readme = root / domain / "README.md"
+                self.assertTrue(readme.is_file(), readme)
+                data, body = frontmatter(readme)
+                self.assertEqual(register, data["register"], readme)
+                self.assertEqual(domain, data["domain"], readme)
+                self.assertEqual("register-domain", data["record_type"], readme)
+                self.assertGreater(len(body.split()), 55, readme)
+                self.assertIn(f"[[{domain}/README|", register_readme, register_readme)
+
+    def test_symbolon_root_describes_actual_core_records_and_page_anatomy(self):
+        _, body = frontmatter(SYMBOLON / "README.md")
+        for record in (
+            "THE-RETURN-OF-ZERO.md",
+            "0-1.md",
+            "1-0.md",
+            "the-slash.md",
+            "self-identity.md",
+            "mono-poly.md",
+            "complexio-oppositorum.md",
+            "eight-determinations.md",
+        ):
+            self.assertIn(record, body)
+        self.assertIn("## Page anatomy", body)
+        self.assertIn("## Four reading movements", body)
+        for administrative_word in ("preliminary", "ratification", "migration", "transition"):
+            self.assertNotIn(administrative_word, body.casefold())
 
     def test_writing_protocol_governs_without_becoming_symbolon_content(self):
         protocol = PROJECT / "WRITING-PROTOCOL.md"
@@ -64,6 +124,10 @@ class PublicationArchitectureTests(unittest.TestCase):
 
         artifacts = {artifact["id"]: artifact for artifact in manifest["artifacts"]}
         self.assertEqual("symbolon/", artifacts["published-vault"]["path"])
+        self.assertEqual(
+            "content-architecture-present-core-record-migration-pending",
+            artifacts["published-vault"]["status"],
+        )
         self.assertEqual("WRITING-PROTOCOL.md", artifacts["writing-protocol"]["path"])
 
         for artifact in artifacts.values():
@@ -73,6 +137,8 @@ class PublicationArchitectureTests(unittest.TestCase):
         settings = json.loads((SYMBOLON / ".obsidian/app.json").read_text(encoding="utf-8"))
         self.assertTrue(settings["alwaysUpdateLinks"])
         self.assertFalse(settings["useMarkdownLinks"])
+        self.assertEqual("./", settings["attachmentFolderPath"])
+        self.assertEqual("current", settings["newFileLocation"])
 
     def test_old_vault_spec_is_explicitly_provenance(self):
         old = (PROJECT / "submission-package/2026-07-29-published-vault-reader-package-spec.md").read_text(
@@ -80,6 +146,14 @@ class PublicationArchitectureTests(unittest.TestCase):
         )
         self.assertIn("Status:** Superseded design provenance", old)
         self.assertIn("Superseded by:** `../WRITING-PROTOCOL.md`", old)
+
+    def test_every_symbolon_wikilink_resolves_inside_the_vault(self):
+        for path in SYMBOLON.rglob("*.md"):
+            for target in WIKILINK.findall(path.read_text(encoding="utf-8")):
+                candidate = path.parent / target
+                if candidate.suffix != ".md":
+                    candidate = candidate.with_suffix(".md")
+                self.assertTrue(candidate.resolve().is_file(), f"{path}: [[{target}]]")
 
 
 if __name__ == "__main__":

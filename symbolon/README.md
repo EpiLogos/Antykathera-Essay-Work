@@ -3,40 +3,66 @@ title: "Symbolon — The Return of Zero"
 record_id: symbolon-root
 record_type: publication-root
 register: symbolon
-status: preliminary-structure
 claim_status: Derived
-publication_status: preparing
 ---
 
 # Symbolon
 
-Symbolon is the published body of *The Return of Zero*: the relation that holds its differentiated registers together and returns each through the others without fusion. It is not an index placed above the work. Its structure is the work's own ontology made navigable.
+Symbolon is the whole form of *The Return of Zero*. Its root relation is `0/1`: the non-objectifiable ground and the determinate mark held through the slash that differentiates them. Read in the obverse direction, `1/0`, the mark returns toward the condition it cannot possess. The equality `0/1 = 1/0` names the two orientations of one relation.
 
-Direct Symbolon records belong in this folder. They carry `0/1`, `1/0`, the slash, self-identity, mono–poly, complexio oppositorum, the eight determinations, inversion, ground, mark, and return. There is no `relations/` subdirectory and no separate `INDEX.md`; inserting that extra layer would misplace the relations Symbolon itself performs.
+The folder holds one continuous essay and the records that unfold its internal relations. A reader can follow the essay from beginning to end, open a sentence into its formal derivation or historical warrant, cross into a myth or image that performs the same movement, and return to the exact point from which the depth opened.
 
-The three internal registers are:
+## Root records
 
-- [[matheme/README|Matheme]] — formal derivation, notation, topology, harmonic relation, and proof boundary;
-- [[mytheme/README|Mytheme]] — myth, narrative, poetry, media, and artistic embodiment;
-- [[episteme/README|Episteme]] — sources, histories, etymologies, MEF lenses, maps, comparisons, and scholarly warrant.
+The relations that organise every register belong directly in Symbolon:
 
-The sovereign essay will move here as `THE-RETURN-OF-ZERO.md` after the quilt foundation is ratified and the manuscript-writing branches have completed their work. It will remain a single self-sufficient linear piece. The surrounding records open its exact blocks into deeper derivation, history, evidence, image, and return.
+| Root record | Work in the whole |
+|---|---|
+| `THE-RETURN-OF-ZERO.md` | The complete linear essay and sovereign reader encounter. |
+| `0-1.md` | Ground, mark and differentiating activity in their first orientation. |
+| `1-0.md` | The obverse orientation: determination returning through its ground. |
+| `the-slash.md` | `/` as division, ratio and AND/OR; the activity that makes both poles legible. |
+| `self-identity.md` | Identity as an active relation to, for, as and with itself. |
+| `mono-poly.md` | The one and the many as mutually implicate accountings rather than rival totals. |
+| `complexio-oppositorum.md` | The holding of opposites through transformation without cancellation or fusion. |
+| `eight-determinations.md` | The complete determination field, its sequence, inversions and returns. |
 
-## Admission during the transition
+These records gather formal, imaginal and epistemic developments without duplicating them. Their mathematical derivations descend into [[matheme/README|Matheme]], their lived images into [[mytheme/README|Mytheme]], and their source histories and maps into [[episteme/README|Episteme]].
 
-`essay-workshop/` remains canonical until each record is ratified and moved. Nothing is copied here merely to make the vault look complete. A migrated record receives one canonical public path, stable identity, exact essay and argument targets, declared register and node type, provenance, and a route back to the passage that opened it.
+## The three registers
 
-The present pages establish the real vault and its register contracts. Quilt-dependent content waits for ratification; repository preparation does not.
+### [[matheme/README|Matheme]]
 
-## Reading forms
+Matheme makes the relation transmissible through notation, derivation, construction and formal comparison. It contains QL, the Spanda equations, topology, harmonics, neighbouring mathematical formalisms, computational operations and diagrams.
 
-The final work supports four mutually available movements:
+### [[mytheme/README|Mytheme]]
 
-- follow the essay linearly;
-- open radially from a block into depth;
-- follow a declared relation transversely across the work;
-- return toroidally to an earlier passage with a changed understanding.
+Mytheme lets the relation become lived and memorable through myth, narrative, poetry, media, art, music and composed plates. Its images perform operations; they do not stand as decorative equivalents of equations.
 
-Every link must say in prose why the movement matters. Graphs and local minigraphs disclose declared relations; they never invent them.
+### [[episteme/README|Episteme]]
 
-See the repository-level [[../WRITING-PROTOCOL|Writing, Review, and Publication Protocol]] for the complete production, review, migration, and release discipline.
+Episteme carries instituted knowledge: canonical source houses, histories, etymologies, MEF lenses, argument maps, comparative dossiers and evidential figures. It shows what the work inherits, disputes, derives from and offers in its own name.
+
+## Page anatomy
+
+Every substantive record carries:
+
+- a positive proposition or object;
+- the operation it performs in its own register;
+- exact links to the essay blocks and argument records it serves;
+- claim and source status where those apply;
+- outgoing links into necessary depth;
+- a prose route back to the passage or relation that opened it.
+
+The local minigraph on each page renders only declared relations: the immediate parent relation, the principal incoming and outgoing movements, and the few depth records needed to orient the reader. The accompanying text names the same routes, so navigation remains intelligible without graph software.
+
+## Four reading movements
+
+The vault supports four movements without ranking one above another:
+
+- **linear** — follow the complete essay;
+- **radial** — open one claim into derivation, image or warrant;
+- **transverse** — follow a declared relation across stations and registers;
+- **toroidal** — return to an earlier passage after the circuit has changed what it can mean.
+
+The whole remains present in each movement because every depth retains its point of departure and its route of return.

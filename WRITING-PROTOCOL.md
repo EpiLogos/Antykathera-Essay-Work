@@ -44,11 +44,37 @@ The repository has one ontological publication body and several sibling support 
 ├── symbolon/
 │   ├── README.md
 │   ├── THE-RETURN-OF-ZERO.md          # after manuscript migration
-│   ├── [direct Symbolon records]       # names ratified from canon
+│   ├── 0-1.md
+│   ├── 1-0.md
+│   ├── the-slash.md
+│   ├── self-identity.md
+│   ├── mono-poly.md
+│   ├── complexio-oppositorum.md
+│   ├── eight-determinations.md
 │   ├── matheme/
+│   │   ├── ql/
+│   │   ├── spanda/
+│   │   ├── topology/
+│   │   ├── harmonics/
+│   │   ├── formal-neighbours/
+│   │   ├── computation/
+│   │   └── diagrams/
 │   ├── mytheme/
+│   │   ├── myth/
+│   │   ├── narrative/
+│   │   ├── poetry/
+│   │   ├── media/
+│   │   ├── art/
+│   │   ├── music/
+│   │   └── plates/
 │   └── episteme/
-├── assets/                            # publication media, when admitted
+│       ├── sources/
+│       ├── histories/
+│       ├── etymologies/
+│       ├── lenses/
+│       ├── maps/
+│       ├── dossiers/
+│       └── figures/
 ├── essay-workshop/                    # development canon during transition
 ├── submission-package/                # manifest, companion, cards, release support
 ├── writing-guidance-tools/
@@ -68,7 +94,7 @@ The three descending registers are:
 
 Symbolon does not become a fourth topical bucket beside these three. It is their holding relation and return. Its root records carry the operations by which the registers belong to one work without collapsing into one another.
 
-The writing protocol remains at repository root. It governs Symbolon but is not Symbolon-content. Submission machinery, the reader companion, Epi-Card, validation reports, and release manifests also remain outside the `symbolon/` chain. Media files may live in a root `assets/` surface while their meaning, admission, caption, and exact essay targets remain declared in the appropriate register record.
+The writing protocol remains at repository root. It governs Symbolon but is not Symbolon-content. Submission machinery, the reader companion, Epi-Card, validation reports, and release manifests also remain outside the `symbolon/` chain. Media remains beside its governing record: formal assets in `matheme/diagrams/`, composed imaginal assets in `mytheme/plates/`, and evidential visualisations in `episteme/figures/`.
 
 ## 4. Record identity, node type, and register
 
@@ -383,7 +409,7 @@ A visual enters only when it performs argumentative or experiential work that pr
 - what the visual must not be taken to prove;
 - forward and return links.
 
-Formal derivation diagrams are governed from Matheme; mythic, narrative, poetic, and artistic plates from Mytheme; source, history, etymology, and argument maps from Episteme. A visual whose work is precisely to hold those operations together may be governed by a direct Symbolon record. Binary media files live outside the ontology in `assets/`; their governing record remains inside the correct register.
+Formal derivation diagrams are governed from Matheme; mythic, narrative, poetic, and artistic plates from Mytheme; source, history, etymology, and argument maps from Episteme. A visual whose work is precisely to hold those operations together may be governed by a direct Symbolon record. The editable and rendered media files remain beside that governing record inside its register domain.
 
 The essay earns each placement in prose before embedding the asset. The caption continues the argument without repeating the paragraph. Alt text communicates the visual's argumentative content, not merely its appearance. Rights-unclear assets do not ship.
 
@@ -491,7 +517,7 @@ As of 2026-08-04:
 
 - the ontology-led `symbolon/` vault exists;
 - Symbolon has no `relations/` layer and no separate `INDEX.md`;
-- Matheme, Mytheme, and Episteme have explicit admission contracts;
+- Matheme, Mytheme, and Episteme have complete functional domain trees and record contracts;
 - this protocol is the live publication and writing workflow;
 - the previous 2026-07-29 published-vault specification is retained only as design provenance;
 - the working tree contains quilt-session changes and is not a safe base for model branches;

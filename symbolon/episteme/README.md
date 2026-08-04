@@ -1,21 +1,31 @@
 ---
 title: "Episteme"
 record_id: register-episteme
-record_type: register-entry
+record_type: register-root
 register: episteme
-status: active-contract
 claim_status: Derived
-publication_status: preparing
 ---
 
 # Episteme
 
-Episteme carries the work's source records, intellectual and technical histories, etymologies, MEF lenses, essay and argument maps, comparative dossiers, evidence boundaries, and further-reading routes. It makes the work's warrant, inheritance, disagreement, and situated knowledge legible without allowing source administration to replace the argument.
+Episteme carries the forms in which knowledge stands: sources, histories, etymologies, interpretive lenses, argument maps, comparative dossiers and evidential figures. It makes attribution, inheritance, disagreement and public warrant legible at the point where they bear the essay.
 
-Every source-bearing claim declares whether it is Extracted, Paraphrased, Argued from, or Resonant with. Citation and quotation readiness remain distinct from the essay's own Derived, Argued, Offered, or Open status. A missing citation never licenses a safer neighbouring thesis; it identifies the exact public-evidence task still owed.
+This register preserves the difference between the essay's position and what a source can establish. A claim can remain Derived or Argued while its citation work is incomplete; the record states both conditions. Source relations—Extracted, Paraphrased, Argued from and Resonant with—name how a work enters the argument.
 
-Histories retain their own development rather than becoming name lists. MEF lenses and maps expose real relations and counterpressures already declared in the canon; they do not infer connections from shared vocabulary. Source records preserve edition, locator, quotation provenance, use boundary, and exact consumers.
+## Domains
 
-Each record points granularly to the essay and argument locations it sources, historicises, qualifies, compares, or tests, and provides a route back to them.
+- [[sources/README|Sources]] — canonical work houses organised by epistemic domain, author and stable source identity.
+- [[histories/README|Histories]] — developed accounts of how concepts, practices and problems change through time.
+- [[etymologies/README|Etymologies]] — word histories that recover operative relations without treating origins as verdicts.
+- [[lenses/README|Lenses]] — MEF and other declared perspectives through which one object is read without collapsing the perspectives.
+- [[maps/README|Maps]] — essay, argument, concept and path structures built from declared canonical relations.
+- [[dossiers/README|Dossiers]] — sustained comparative treatments of one pressure across several sources or fields.
+- [[figures/README|Figures]] — timelines, tables, genealogies and evidential visualisations that make a warranted relation inspectable.
 
-Return to [[../README|Symbolon]].
+## Record form
+
+An Episteme record identifies its object, the knowledge operation it performs, its provenance, its exact consumers and its evidential boundary. Histories develop change rather than enumerate names. Maps expose declared dependencies rather than infer links from vocabulary. Dossiers preserve disagreement and difference among sources. Figures state the data or sources from which they are constructed.
+
+## Cross-register routes
+
+Formal derivations supported or tested by a knowledge record open into [[../matheme/README|Matheme]]. Myths, poems and cultural scenes whose history is established here open into [[../mytheme/README|Mytheme]]. The relation that returns instituted knowledge to its ground and limits returns to [[../README|Symbolon]].
