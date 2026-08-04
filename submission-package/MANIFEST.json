@@ -1,19 +1,28 @@
 {
-  "manifest_version": "1.0.0",
+  "manifest_version": "2.0.0",
   "package": "Antikythera submission artifacts",
-  "current_specification": "2026-07-29-published-vault-reader-package-spec.md",
+  "path_base": "repository-root",
+  "current_specification": "WRITING-PROTOCOL.md",
   "artifacts": [
     {
       "id": "published-vault",
-      "path": "published-vault/",
+      "path": "symbolon/",
       "kind": "obsidian-publish-vault",
       "role": "primary-publication",
-      "status": "specified-build-pending",
-      "description": "The sovereign essay and its linked depth, diagrams, paths, sources, and public graph navigation."
+      "status": "preliminary-structure-present-content-ratification-pending",
+      "description": "The ontology-led publication body: direct Symbolon records with Matheme, Mytheme, and Episteme as its three internal registers."
+    },
+    {
+      "id": "writing-protocol",
+      "path": "WRITING-PROTOCOL.md",
+      "kind": "governing-writing-and-publication-protocol",
+      "role": "production-governance",
+      "status": "active-preliminary",
+      "description": "Governs preliminary setup, equal-base model branches, recursive writing and review, migration, and clean public release."
     },
     {
       "id": "traversal-ledger",
-      "path": "epi-logos/resources/reader/",
+      "path": "submission-package/epi-logos/resources/reader/",
       "kind": "reader-owned-markdown-protocol",
       "role": "reading-continuity",
       "status": "protocol-and-template-present",
@@ -21,7 +30,7 @@
     },
     {
       "id": "epi-logos",
-      "path": "epi-logos/",
+      "path": "submission-package/epi-logos/",
       "kind": "claude-code-plugin",
       "role": "reader-companion",
       "status": "installable-package-under-revision",
@@ -29,7 +38,7 @@
     },
     {
       "id": "epi-card-system-v1",
-      "path": "epi-card-system-v1/",
+      "path": "submission-package/epi-card-system-v1/",
       "kind": "optional-integration-specification",
       "role": "reader-encounter-capsule",
       "status": "contract-validated-runtime-not-included",

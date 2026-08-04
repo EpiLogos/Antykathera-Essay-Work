@@ -270,7 +270,7 @@ class SubmissionPackageTests(unittest.TestCase):
         )
         self.assertEqual(["epi-logos"], [plugin["name"] for plugin in marketplace["plugins"]])
 
-    def test_current_submission_spec_uses_obsidian_publish_and_static_diagrams(self):
+    def test_superseded_submission_spec_retains_obsidian_design_provenance(self):
         spec = (
             SUBMISSION / "2026-07-29-published-vault-reader-package-spec.md"
         ).read_text(encoding="utf-8")
@@ -281,5 +281,7 @@ class SubmissionPackageTests(unittest.TestCase):
         self.assertIn("traversal ledger", spec_lower)
         self.assertIn("linear and non-linear", spec_lower)
         self.assertIn("static diagram", spec_lower)
+        self.assertIn("Superseded design provenance", spec)
+        self.assertIn("../WRITING-PROTOCOL.md", spec)
         self.assertNotIn("Quartz", spec)
         self.assertNotIn("symbol-engine", spec)

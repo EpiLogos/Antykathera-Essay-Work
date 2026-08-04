@@ -1,8 +1,11 @@
 # Published Vault and Reader Package Specification
 
-**Date:** 2026-07-29  
-**Status:** Current submission-package specification  
-**Supersedes:** the publication, navigation, and reader-package decisions in `2026-07-12-submission-package-design.md`
+**Date:** 2026-07-29
+**Status:** Superseded design provenance
+**Superseded by:** `../WRITING-PROTOCOL.md` on 2026-08-04
+**Previously superseded:** the publication, navigation, and reader-package decisions in `2026-07-12-submission-package-design.md`
+
+> This file records the preceding published-vault design. It no longer governs folder placement, writing phases, branch execution, register architecture, or public-release scope. The live protocol places direct Symbolon records at `symbolon/`, with `matheme/`, `mytheme/`, and `episteme/` beneath it and submission support outside that chain.
 
 ## 1. The work being made
 

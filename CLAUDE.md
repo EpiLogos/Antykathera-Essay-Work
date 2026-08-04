@@ -70,7 +70,7 @@ The companion plugin and site are therefore not a stretch of the format — they
 
 ## Current submission package shape
 
-The current specification is `submission-package/2026-07-29-published-vault-reader-package-spec.md`; the artifact inventory is `submission-package/MANIFEST.json`. The architecture is independent of the work's provisional title, section names, and current node census.
+The live writing and publication specification is `WRITING-PROTOCOL.md`; the ontology-led public vault begins at `symbolon/README.md`, and the artifact inventory is `submission-package/MANIFEST.json`. The dated specifications in `submission-package/` are design provenance. The architecture is independent of the work's provisional title, section names, and current node census.
 
 | Surface | What it is | Status |
 |---|---|---|

@@ -1,6 +1,6 @@
 # Submission Package Design — The Return of Zero (Agentworld)
 
-> **Superseded for publication, vault navigation, reader skills, diagrams, and submission-artifact scope.** The current specification is `2026-07-29-published-vault-reader-package-spec.md`. This file remains as design provenance only; its fixed title/census, symbol-runtime surface, Quartz recommendation, QL/MEF routing split, and index-only traversal model no longer govern the package.
+> **Superseded for publication, vault navigation, reader skills, diagrams, writing phases, and submission-artifact scope.** The current specification is `../WRITING-PROTOCOL.md`; the intervening `2026-07-29-published-vault-reader-package-spec.md` is also design provenance. This file's fixed title/census, symbol-runtime surface, Quartz recommendation, QL/MEF routing split, and index-only traversal model no longer govern the package.
 
 **Date:** 2026-07-12
 **Status:** Draft for Frank's review. Decisions below are settled; everything else in this document implements them and is open to revision until Frank approves.

@@ -25,6 +25,8 @@ Read the whole declared transverse thread before changing one of its members. Pr
 7. `essay-workshop/legacy/` and `essay-workshop/sources-texts-references/reference-notes/` are frozen provenance and govern nothing.
 8. Submission design documents describe intended artifacts; they do not override the live essay or developer workflow.
 
+`WRITING-PROTOCOL.md` is the live workflow and publication-shape authority for the multi-model written edition and ontology-led vault. It is subordinate to the central plan and canonical argument. Dated files in `submission-package/` are provenance unless the protocol explicitly promotes them. During the preliminary transition, `essay-workshop/` remains canonical; records move into `symbolon/` only after ratification and are never maintained there as generated duplicates.
+
 ## Status and voice
 
 Keep these axes independent:
@@ -38,6 +40,8 @@ Keep these axes independent:
 Missing citation or quotation readiness never downgrades an internally Derived or Argued position. Scope the claim accurately and preserve its earned force. Use `may`, `might`, `perhaps`, or `could` only for a named modal, causal, empirical, or genuinely open uncertainty. Never turn the essay's position into a merely acceptable neighbouring position.
 
 For authored prose, use the project-local `return-of-zero-write` skill when its writing guidance is needed. Frank's `[F]` blocks, the master manuscript, and any Frank-authored `SCRATCH.md` are sovereign.
+
+Preliminary publication work occurs on `main` without new writing worktrees. Model-written versions begin only from one ratified base commit and use sequential `codex/write-<model-slug>` branches under the common execution receipt defined in `WRITING-PROTOCOL.md`.
 
 ## Hooks and optional continuity
 
