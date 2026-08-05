@@ -23,7 +23,7 @@ This path preserves the ontological kernel across the essay without turning it i
 
 1. [[15-s1-p2-empty-set-generates-one|§1 · #2 — The Empty Set Generates One]] gives the numerical floor: `0 = ∅`, `1 = {0}`, and `2 = {0,1}`; whole-number and natural-number firstness divide the two ones without reducing QL `0` to a set-theoretic object.
 2. [[17-s1-p4-zero-outside-math|§1 · #4 — Zero Keeps One Foot Outside Mathematics]] exposes the return-edge at which the marked one cannot make its condition into ordinary content.
-3. [[18-s1-p5-loan-returns|§1 · #5→0 — The Loan Returns]] earns `0/1 ↔ 1/0` as the root symbolon and introduces Mono/One and Poly/All in their exact asymmetry.
+3. [[18-s1-p5-loan-returns|§1 · #5→0 — The Loan Returns]] earns `0/1 = 1/0` as the root symbolon in QL's relational register and introduces Mono/One and Poly/All in their exact asymmetry.
 4. [[19-s2-p0-difference-cannot-be-escaped|§2 · #0 — Difference Cannot Be Escaped]], [[20-s2-p1-dia-ballein|§2 · #1 — Dia-Ballein]], and [[21-s2-p2-sym-ballein|§2 · #2 — Sym-Ballein]] distinguish the primordial relation from the two ways polarity is accounted: signed displacement and seam-retaining return.
 5. [[22-s2-p3-ares-aphrodite-harmonia|§2 · #3 — Ares, Aphrodite, Harmonia, Eros, and Hephaestus]] gives the relation a mythemic body. Hephaestus remains inside this circuit: capture makes relation observable only after substituting its surface for encounter.
 6. [[24-s2-p5-zero-changes-role|§2 · #5→0 — Zero Changes Its Role]] derives `2 + 2² = 4+2`; QL emerges from the two ones rather than receiving mono–poly as a later application.

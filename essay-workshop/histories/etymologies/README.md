@@ -38,6 +38,7 @@ The field is deliberately porous: a single word can belong to more than one clus
 
 ## Clusters opened
 
+- [Encounter, region, countenance, and count](encounter-region-name-count/HISTORY.md) — the primordial *with* differentiating into counter-facing, region, name, count, personed bearing, account, and non-severing return.
 - [Apportionment, naming, number, and oikonomia](apportionment-and-economy/HISTORY.md) — the distribution of shares, the naming and measuring of value, coinage, and the question of an economy of fullness.
 - [Homologia, analogia, and the discipline of comparison](homology-and-analogy/HISTORY.md) — agreements in word, ratio, operation, or sound, together with the boundaries that keep comparison from becoming annexation.
 - [Symbol, account, and trust](symbol-account-and-trust/HISTORY.md) — broken tokens, counting, narration, credit, record, claim, and the mark that must circulate without pretending to ground itself.
@@ -46,6 +47,7 @@ The field is deliberately porous: a single word can belong to more than one clus
 
 | Etymological cluster | History it thickens | Canonical movement it can retrieve |
 |---|---|---|
+| Encounter, region, countenance, and count | [Language, symbol, and dialogue](../language-symbol-dialogue/HISTORY.md) | [The Two Ones — Mono–Poly Matheme](../../nodes/arguments/19-two-ones-mono-poly-matheme.md); [Sym-Ballein](../../nodes/arguments/03-two-logics-and-sym-ballein.md); [§3 · #0 — Eight Determinations](../../nodes/sections/25-s3-p0-eight-determinations.md) |
 | Apportionment and economy | [Technology, politics, and institutions](../technology-politics/HISTORY.md) | [§5 · #3 — Preference Models and the Hidden Zero](../../nodes/sections/40-s5-p3-preference-hidden-zero.md); [§5→0 · #3 — 4:2 Technē and the Sovereign Commons](../../nodes/sections/46-s50-p3-4-2-mono-poly.md) |
 | Homologia and analogia | [Language, symbol, and dialogue](../language-symbol-dialogue/HISTORY.md) | [Sym-Ballein](../../nodes/arguments/03-two-logics-and-sym-ballein.md); [Core Theorem Bridge](../../nodes/arguments/12-core-theorem-bridge.md) |
 | Symbol, account, and trust | [Language, symbol, and dialogue](../language-symbol-dialogue/HISTORY.md); [Technology, politics, and institutions](../technology-politics/HISTORY.md) | [§2 · #2 — Sym-Ballein](../../nodes/sections/21-s2-p2-sym-ballein.md); [Trust, Faith, and the Formal Limit](../../nodes/arguments/18-trust-faith-formal-limit.md) |

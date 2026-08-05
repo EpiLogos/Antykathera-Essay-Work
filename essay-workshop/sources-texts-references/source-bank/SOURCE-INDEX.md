@@ -2,7 +2,7 @@
 title: "Return of Zero — Canonical Source Index"
 generated: true
 generator: tools/build-source-projections.py
-source_digest: "11bb327c7221715bdaba9012ab1c8530d77f3a9ed2aa257bf8d838b6be86921b"
+source_digest: "449a65a75df0345125825c3f37792d52f5296dfce12e07eeef5605c650c6dd38"
 ---
 
 <!-- Generated from canonical SOURCE.md houses. Do not edit by hand. -->
@@ -15,6 +15,11 @@ source_digest: "11bb327c7221715bdaba9012ab1c8530d77f3a9ed2aa257bf8d838b6be86921b
 - [Andreas Kapsner — Cutting Corners (2020)](sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE.md) — `kapsner-2020-cutting-corners` — citation-ready
 - [Atmanspacher — The Pauli–Jung Conjecture and Its Relatives (2020)](sources/physics/atmanspacher/atmanspacher-2020-pauli-jung-conjecture/SOURCE.md) — `atmanspacher-2020-pauli-jung-conjecture` — citation-ready
 - [Bache — LSD and the Mind of the Universe (2019)](sources/psychology/bache/bache-2019-lsd-mind-universe/SOURCE.md) — `bache-2019-lsd-mind-universe` — citation-ready
+- [Baudrillard — Fatal Strategies (1983)](sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE.md) — `baudrillard-1983-fatal-strategies` — intake
+- [Baudrillard — Forget Foucault (1977)](sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md) — `baudrillard-1977-forget-foucault` — intake
+- [Baudrillard — Simulacra and Simulation (1981)](sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE.md) — `baudrillard-1981-simulacra-and-simulation` — intake
+- [Baudrillard — Symbolic Exchange and Death (1976)](sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md) — `baudrillard-1976-symbolic-exchange-death` — intake
+- [Baudrillard — The Transparency of Evil (1990)](sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md) — `baudrillard-1990-transparency-evil` — intake
 - [Berkeley — Three Dialogues (1734 text, Wilkins ed. 2002)](sources/classical-premodern-philosophy/berkeley/berkeley-1734-three-dialogues-wilkins-2002/SOURCE.md) — `berkeley-1734-three-dialogues-wilkins-2002` — citation-ready
 - [Bohm and Krishnamurti — Truth, Actuality, and the Limits of Thought (18 May 1975)](sources/process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/SOURCE.md) — `bohm-krishnamurti-1975-05-18-dialogue` — metadata-verified
 - [Bohm — On Dialogue (1996)](sources/process-systems-theory/bohm/bohm-1996-on-dialogue/SOURCE.md) — `bohm-1996-on-dialogue` — citation-ready
@@ -35,6 +40,7 @@ source_digest: "11bb327c7221715bdaba9012ab1c8530d77f3a9ed2aa257bf8d838b6be86921b
 - [Dutta — Zero-Divided Numbers in Indian Mathematics (2023)](sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md) — `dutta-2023-zero-divided-numbers-india` — citation-ready
 - [Dyczkowski — Doctrine of Vibration (2000)](sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) — `dyczkowski-2000-doctrine-vibration` — citation-ready
 - [Flasch — Meister Eckhart: Philosopher of Christianity (2015)](sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE.md) — `flasch-2015-meister-eckhart` — citation-ready
+- [Foucault — The History of Sexuality, Volume 1 (1976)](sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/SOURCE.md) — `foucault-1976-history-sexuality-v1` — intake
 - [Frank, Gleiser, and Thompson — The Blind Spot (2024)](sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE.md) — `frank-gleiser-thompson-2024-blind-spot` — citation-ready
 - [Freeth et al. — A Model of the Cosmos in the Antikythera Mechanism (2021)](sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md) — `freeth-et-al-2021-model-cosmos` — citation-ready
 - [Freeth et al. — Decoding the Antikythera Mechanism (2006)](sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md) — `freeth-et-al-2006-antikythera` — citation-ready
@@ -72,6 +78,7 @@ source_digest: "11bb327c7221715bdaba9012ab1c8530d77f3a9ed2aa257bf8d838b6be86921b
 - [Mackenzie — A Heraclitean Allusion to the Odyssey (2021)](sources/classical-philology/mackenzie/mackenzie-2021-heraclitean-allusion-odyssey/SOURCE.md) — `mackenzie-2021-heraclitean-allusion-odyssey` — citation-ready
 - [Maroski — Seeing Through Solid Words (2025)](sources/phenomenology-continental-philosophy/maroski/maroski-2025-seeing-through-solid-words/SOURCE.md) — `maroski-2025-seeing-through-solid-words` — citation-ready
 - [Maturana and Varela — Autopoiesis and Cognition (1980)](sources/process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/SOURCE.md) — `maturana-varela-1980-autopoiesis-cognition` — citation-ready
+- [McGoohan and Markstein — The Prisoner (1967–68)](sources/media-technology-philosophy/mcgoohan-markstein/mcgoohan-markstein-1967-the-prisoner/SOURCE.md) — `mcgoohan-markstein-1967-the-prisoner` — citation-ready
 - [Neumann — The Origins and History of Consciousness (1954)](sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md) — `neumann-1954-origins-history-consciousness` — citation-ready
 - [Nicholas of Cusa — On Learned Ignorance](sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE.md) — `cusa-on-learned-ignorance` — citation-ready
 - [Nietzsche — The Birth of Tragedy (Haussmann, 1910)](sources/phenomenology-continental-philosophy/nietzsche/nietzsche-1910-birth-tragedy-haussmann/SOURCE.md) — `nietzsche-1910-birth-tragedy-haussmann` — citation-ready
@@ -98,6 +105,7 @@ source_digest: "11bb327c7221715bdaba9012ab1c8530d77f3a9ed2aa257bf8d838b6be86921b
 - [Taylor and Claude — Derivational Chat Record (2026)](sources/internal-corpus/taylor/taylor-claude-2026-derivational-chat/SOURCE.md) — `taylor-claude-2026-derivational-chat` — internal-only
 - [Taylor — Christ and Mono-Poly Theory, P4 (2026)](sources/internal-corpus/taylor/taylor-2026-christ-mono-poly-theory/SOURCE.md) — `taylor-2026-christ-mono-poly-theory` — internal-ready
 - [Taylor — Core Theorems Pithy (2026)](sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) — `taylor-2026-core-theorems-pithy` — internal-ready
+- [Taylor — Encounter, Region, Name, and Count (2026)](sources/internal-corpus/taylor/taylor-2026-encounter-region-name-count/SOURCE.md) — `taylor-2026-encounter-region-name-count` — internal-ready
 - [Taylor — MEF Twelve Lenses Reference (2026)](sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) — `taylor-2026-mef-twelve-lenses` — internal-ready
 - [Taylor — Mono-Poly, the Two Ones, and the Whole Field (2026)](sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) — `taylor-2026-mono-poly-two-ones` — internal-ready
 - [Taylor — Personal Poetry Corpus (2026)](sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md) — `taylor-2026-personal-poetry-corpus` — internal-ready

@@ -2,7 +2,7 @@
 title: "Return of Zero — Main Sources by Section"
 generated: true
 generator: tools/build-source-projections.py
-source_digest: "11bb327c7221715bdaba9012ab1c8530d77f3a9ed2aa257bf8d838b6be86921b"
+source_digest: "449a65a75df0345125825c3f37792d52f5296dfce12e07eeef5605c650c6dd38"
 ---
 
 <!-- Generated from canonical SOURCE.md houses. Do not edit by hand. -->
@@ -60,6 +60,7 @@ Main source is a declared relation to an essay section, not a second copy of a w
 - [Jason Reza Jorjani — Prometheus and Atlas (2016)](sources/media-technology-philosophy/jorjani/jorjani-2016-prometheus-atlas/SOURCE.md) — `jorjani-2016-prometheus-atlas` — §2 · technoscience frame — pending book acquisition
 - [Jung — The Undiscovered Self (Routledge, 2013)](sources/psychology/jung/jung-2013-undiscovered-self-routledge/SOURCE.md) — `jung-2013-undiscovered-self-routledge` — §2 · mass, State, and statistical-abstraction pressure
 - [Mackenzie — A Heraclitean Allusion to the Odyssey (2021)](sources/classical-philology/mackenzie/mackenzie-2021-heraclitean-allusion-odyssey/SOURCE.md) — `mackenzie-2021-heraclitean-allusion-odyssey` — §2 · Heraclitus B51 bow-and-lyre carrier
+- [McGoohan and Markstein — The Prisoner (1967–68)](sources/media-technology-philosophy/mcgoohan-markstein/mcgoohan-markstein-1967-the-prisoner/SOURCE.md) — `mcgoohan-markstein-1967-the-prisoner` — §2 · The Prisoner political counter-image to the 4+2 count
 - [Taylor — Core Theorems Pithy (2026)](sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) — `taylor-2026-core-theorems-pithy` — §2 · native two-logics derivation
 - [Van Norden and Jones — Huayan Buddhism (SEP, 2024)](sources/indian-philosophy/van-norden/van-norden-jones-2024-huayan-sep/SOURCE.md) — `van-norden-jones-2024-huayan-sep` — §2 · Huayan interdependence and distinctness control
 - [Walter Burkert — Das Lied von Ares und Aphrodite (1960)](sources/classical-philology/burkert/burkert-1960-lied-ares-aphrodite/SOURCE.md) — `burkert-1960-lied-ares-aphrodite` — §2 · philological control for the technē-over-physis reading of the Demodocus song
@@ -103,6 +104,7 @@ Main source is a declared relation to an essay section, not a second copy of a w
 - [Graham Priest — One (2014)](sources/mathematics-logic/priest/priest-2014-one/SOURCE.md) — `priest-2014-one` — §50 · gluon theory as Western formal neighbour of mono-poly
 - [Iain McGilchrist — Resist the Machine Apocalypse (First Things, 2022)](sources/psychology/mcgilchrist/mcgilchrist-2022-resist-machine-apocalypse/SOURCE.md) — `mcgilchrist-2022-resist-machine-apocalypse` — §5 · McGilchrist's explicit, dated AI-as-left-hemisphere mapping
 - [LeCun et al. — A Tutorial on Energy-Based Learning (2006)](sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md) — `lecun-et-al-2006-energy-based-learning` — §5 · J-space and Bimba energy-field technical spine
+- [McGoohan and Markstein — The Prisoner (1967–68)](sources/media-technology-philosophy/mcgoohan-markstein/mcgoohan-markstein-1967-the-prisoner/SOURCE.md) — `mcgoohan-markstein-1967-the-prisoner` — §5 · numbering and the hidden ground of evaluation
 - [PyTorch — Softmax and Argmax API (v2.9)](sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md) — `pytorch-2-9-softmax-argmax-api` — §5 · exact softmax and argmax mechanism
 - [Rafailov et al. — Direct Preference Optimization (2023)](sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md) — `rafailov-et-al-2023-dpo` — §5 · contemporary preference optimisation
 - [Vaswani et al. — Attention Is All You Need (2017)](sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md) — `vaswani-et-al-2017-attention` — §5 · transformer and attention baseline

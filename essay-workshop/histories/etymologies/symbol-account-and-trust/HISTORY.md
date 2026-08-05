@@ -66,3 +66,5 @@ These are not decorative world examples. Each could alter the essay's account of
 | [Language, Symbol, and Dialogue](../../language-symbol-dialogue/HISTORY.md) | Connects symbol, signification, and shared meaning to the existing historical route. |
 
 The cluster supplies a disciplined vocabulary for the movement from mark to account to return. Its entries are invitations to retrieve the source shelf and the canonical passage, never substitute warrants.
+
+Related etymological movement: [[Encounter, Region, Countenance, and Count — The With-Field Becomes an Account]] gives this cluster its prior field. The circulating mark begins in encounter, becomes countable through naming and differentiation, and returns as an account addressed to another.

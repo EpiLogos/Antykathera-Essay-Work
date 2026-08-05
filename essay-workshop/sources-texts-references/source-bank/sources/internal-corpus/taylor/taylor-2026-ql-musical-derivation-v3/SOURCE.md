@@ -41,7 +41,7 @@ main_source_for:
 
 Internal derivation showing how the second Spanda equation generates the musical ratios and how the same QL arche-topos can be rendered topologically and musically.
 
-**Local-copy state:** no recoverable project-local file was present at this pass; retain this record only as in-house provenance until the manuscript is supplied or indexed.
+**Local-copy state:** recovered at `epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/ql-musical-derivation-v3.md`. The local manuscript is the internal derivational object; this house remains the canonical identity, provenance, passage, and consumption surface.
 
 ## Essay use
 
@@ -52,4 +52,4 @@ Carries the positive resolution of the mathematical substrate into audition: int
 <a id="passages"></a>
 ## Passages and excerpts
 
-No passage or excerpt has yet been gathered for this source.
+The local manuscript is available and has been read for the current formal consolidation. Passage extraction remains to be completed before direct quotation. Current internal anchors include the parent `0/1` pivot, the First-to-Second Spanda bridge, Galperin's collision-cycle homology, rhythm-to-pitch continuity, the `3:3` / `4:2` cross-reading, and the wheel-of-fifths derivation. External empirical claims require their own public source houses even when the QL derivation is internally complete.

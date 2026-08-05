@@ -37,7 +37,7 @@ tags:
 
 [[15-s1-p2-empty-set-generates-one|§1 · #2]] carries the formal neighbour: whole-number counting begins at `0`, positive natural-number counting begins at `1`, and the von Neumann construction gives `1 = {0}` and `2 = {0,1}`. This mathematical floor does not identify the QL meta-sign `0` with the empty set. It establishes the limited formal neighbourhood in which a first mark contains the zero it cannot generate.
 
-`0/1` and `1/0` are the two orientations of one relation. [[Sym-Ballein]] derives dia-ballein’s signed accounting, `(+1)/(−1)`, and sym-ballein’s seam-retaining accounting, `(0/1)/(1/0)`. Mono–poly names the whole/many relation to which these distinct operations answer; it does not replace either operation.
+`/ = −/−` is relation before the ones are assigned. `0/1 = 1/0` is that relation in its two AND/OR-generated orientations. [[Sym-Ballein]] distinguishes polar dia-ballein, `(-1)/(+1)`, from collapsed duality, `(-1)+/-(+1)`, and from sym-ballein's seam-retaining self-relation, `(0/1)/(1/0)`. Mono–poly names the whole/many relation to which these operations answer; it does not replace them. The two ones generate the two logics of two, and their retained self-relation produces `2+2² = 4+2`.
 
 ## Consequence
 

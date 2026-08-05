@@ -17,7 +17,7 @@ The recovered zero reveals why “binary logic” is ambiguous.
 
 ## Section wager
 
-There are two complete accountings of polarity. Dia-ballein writes two as `(+1)/(-1)`: opposed determinations on a signed line whose zero functions as origin and cancellation.
+The bare relation `/ = -/-` generates two complete ways of accounting for two. Dia-ballein first writes polarity as `(-1)/(+1)`, retaining zero as the axis of tension and connection; when the stroke collapses into `(-1)+/-(+1)`, addition cancels the two ones to `0` and subtraction appropriates their span as `-2` or `+2`.
 
 **Present burden:** derive the two forms as classical and superpositional logic, show their AND/OR structure, and carry the difference through dynamical systems, myth, psychology, and technical power.
 
@@ -43,7 +43,7 @@ There are two complete accountings of polarity. Dia-ballein writes two as `(+1)/
 
 **Carry-forward:** The signed line retains its analytic power when the field it externalised becomes available for recomposition and return.
 
-**Open:** [movement](../../nodes/sections/20-s2-p1-dia-ballein.md) · arguments: [Sym-Ballein](../../nodes/arguments/03-two-logics-and-sym-ballein.md), [Trust, Faith, and the Formal Limit](../../nodes/arguments/18-trust-faith-formal-limit.md) · sources: [taylor-2026-core-theorems-pithy](../../sources-texts-references/source-bank/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [le-bon-1895-crowd-popular-mind](../../sources-texts-references/source-bank/sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/SOURCE.md), [jung-2013-undiscovered-self-routledge](../../sources-texts-references/source-bank/sources/psychology/jung/jung-2013-undiscovered-self-routledge/SOURCE.md), [desmet-2022-psychology-totalitarianism-web-essay](../../sources-texts-references/source-bank/sources/psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/SOURCE.md), [iakovou-2022-misuse-totalitarianism](../../sources-texts-references/source-bank/sources/political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/SOURCE.md), [taylor-2026-advent-zero-subject](../../sources-texts-references/source-bank/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md), [heidegger-1966-discourse-on-thinking](../../sources-texts-references/source-bank/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md), [heidegger-1977-question-concerning-technology](../../sources-texts-references/source-bank/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md)
+**Open:** [movement](../../nodes/sections/20-s2-p1-dia-ballein.md) · arguments: [Number Two Names Number Six: The Prisoner and the Politics of the Count](../../nodes/arguments/21-prisoner-politics-of-the-count.md), [Sym-Ballein](../../nodes/arguments/03-two-logics-and-sym-ballein.md), [Trust, Faith, and the Formal Limit](../../nodes/arguments/18-trust-faith-formal-limit.md) · sources: [taylor-2026-core-theorems-pithy](../../sources-texts-references/source-bank/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [le-bon-1895-crowd-popular-mind](../../sources-texts-references/source-bank/sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/SOURCE.md), [jung-2013-undiscovered-self-routledge](../../sources-texts-references/source-bank/sources/psychology/jung/jung-2013-undiscovered-self-routledge/SOURCE.md), [desmet-2022-psychology-totalitarianism-web-essay](../../sources-texts-references/source-bank/sources/psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/SOURCE.md), [iakovou-2022-misuse-totalitarianism](../../sources-texts-references/source-bank/sources/political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/SOURCE.md), [taylor-2026-advent-zero-subject](../../sources-texts-references/source-bank/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md), [heidegger-1966-discourse-on-thinking](../../sources-texts-references/source-bank/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md), [heidegger-1977-question-concerning-technology](../../sources-texts-references/source-bank/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md)
 
 ### #2 · Sym-Ballein
 
@@ -83,7 +83,7 @@ There are two complete accountings of polarity. Dia-ballein writes two as `(+1)/
 
 **Carry-forward:** The mathematical substrate now has a precise task.
 
-**Open:** [movement](../../nodes/sections/24-s2-p5-zero-changes-role.md) · arguments: [Computational Process Ontology](../../nodes/arguments/14-computational-process-ontology.md), [The Two Ones — Mono–Poly Matheme](../../nodes/arguments/19-two-ones-mono-poly-matheme.md)
+**Open:** [movement](../../nodes/sections/24-s2-p5-zero-changes-role.md) · arguments: [Computational Process Ontology](../../nodes/arguments/14-computational-process-ontology.md), [Number Two Names Number Six: The Prisoner and the Politics of the Count](../../nodes/arguments/21-prisoner-politics-of-the-count.md), [The Two Ones — Mono–Poly Matheme](../../nodes/arguments/19-two-ones-mono-poly-matheme.md)
 
 ## Release
 

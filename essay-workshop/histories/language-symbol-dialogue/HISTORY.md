@@ -52,6 +52,14 @@ A methodological yield of this register now governs the essay's reference econom
 
 This operation becomes psychological in [Van Eenwyk's account of symbols and strange attractors](../../sources-texts-references/source-bank/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md). A symbol can alter the trajectory through which a complex organises psychic life, joining conscious encounter to an ordering pattern that cannot be reduced to a literal message. It becomes philosophical and physical in [Bohm's implicate order](../../sources-texts-references/source-bank/sources/process-systems-theory/bohm/bohm-1980-wholeness-implicate-order/SOURCE.md), where locally explicated forms retain participation in a wider enfolded process.
 
+## Encounter becomes name, count, and account
+
+[[Encounter, Region, Countenance, and Count — The With-Field Becomes an Account]] carries the linguistic ground beneath exclusion and symbol. Encounter is prior: a field of with, facing, answer, and reciprocal presence in which something can first become determinate. Naming and counting are the field's own cuts. A name makes one articulation callable; a count places the articulation in an ordered relation; an account returns the ordered marks as a telling addressed to another.
+
+The multilingual history gives the movement several bodies. The Latin *com-/con-/contra* field differentiates being-with into counter-facing, pruning, self-holding, and accompaniment. *Regio* and *Gegend* distinguish region as ruled line from region as counter-facing expanse. Countenance gives the field a personed face. The Chinese 鄉 field joins facing, shared meal, native place, orientation, and response, while the Laozi and Zhuangzi passages carry naming into recursive count and return ordering through the field it does not sever.
+
+The QL application is direct. The parent slash is encounter before named terms; `0/1` is the unnamed region; `?/!` the naming cut; `−/+` counter-facing; `X/x` fitting and reckoning; `AM/IS` countenance and domain; `∞/dx` telling and gathering; `1/0` the achieved account returning through its ground. [[Taylor — Encounter, Region, Name, and Count (2026)]] preserves the authorial synthesis, while [[Taylor — Core Theorems Pithy (2026)]], [[The Two Ones — Mono–Poly Matheme]], [[Sym-Ballein]], and [[Core Theorem Bridge]] carry its native law.
+
 ## Dialogue becomes a shared practice of meaning
 
 The 1975 [Bohm–Krishnamurti dialogue](../../sources-texts-references/source-bank/sources/process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/SOURCE.md) works directly through observer and observed, truth and actuality, and the limits of thought. [Bohm's *On Dialogue*](../../sources-texts-references/source-bank/sources/process-systems-theory/bohm/bohm-1996-on-dialogue/SOURCE.md) later gives the practice a collective form: participants suspend assumptions, attend to tacit thought, and allow a stream of meaning to move through the group without requiring identical opinions. Dialogue thus becomes a practical history of sym-ballein.
@@ -68,6 +76,7 @@ The [SEED Language of Spirit dialogues](../../sources-texts-references/source-ba
 
 | Movement | Historical work |
 |---|---|
+| [Encounter, region, name, and count](../etymologies/encounter-region-name-count/HISTORY.md) | The primordial with differentiates into opposition, domain, naming, enumeration, countenance, account, and return across the complete QL language-unit. |
 | [§0/1 · #2–#3 — Definition and formal limit](../../nodes/sections/03-s01-p2-definition-cut-gift-danger.md) | Apoha, geometrical determination, and Wittgenstein establish different powers and limits of the cut. |
 | [§0 · #2–#3 — Concept and exclusion](../../nodes/sections/09-s0-p2-vikalpa-samkalpa.md) | Indian philosophy supplies the semantic history beneath conceptual determination. |
 | [§1 · #0 and #3 — Migrating and crossed signs](../../nodes/sections/13-s1-p0-sign-migrates.md) | Zero becomes a case study in how a mark changes office and turns upon its own limit. |

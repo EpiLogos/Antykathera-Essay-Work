@@ -44,7 +44,7 @@ Each image carries one argumentative operation. An image earns main-text space w
 | §3 · #4 | Chladni/cymatic nodal figures | One oscillatory relation becomes audible interval and visible node under material boundary conditions | Physical exemplar, not identity proof for sound/light/mind |
 | §3–§4 | Möbius band and Klein bottle; Escher's surfaces | Passage returns with changed orientation; the invariant made perceptible | Derived surface properties; artworks are explanatory disclosures |
 | §4 | Jungian mandala/quaternity; Lacanian torus and knot | Psyche organises around centre, hole, circulation, irreducible linkage | Source-specific psychological/topological claims only |
-| §0/1→§3→§5 | The travelling jigsaw (box-lid disk → covering pieces) | The same puzzle staged twice: assembly toward a pre-given picture (dia, `(+1)/(−1)`) re-derived as local covers of the quotient known through the covering activity (syn, `0/1`) — the essay's one image permitted to travel from problem to solution | Derived contrast (disk vs quotient); travelling-image use Argued — [[world-picture-to-world-atlas]] |
+| §0/1→§3→§5 | The travelling jigsaw (box-lid disk → covering pieces) | The same puzzle staged twice: assembly toward a pre-given picture (collapsed dia, `(-1)+/-(+1)`) re-derived as local covers of the quotient known through the covering activity (sym, `0/1 = 1/0`) — one image travelling from problem to solution | Derived contrast (disk vs quotient); travelling-image use Argued — [[world-picture-to-world-atlas]] |
 | §3 · #5→0 | Atlas of charts with transition functions | A curved whole covered by overlapping local pictures, each declaring its translation into its neighbours; MEF stated as mathematics | Derived; MEF mapping Argued |
 | §2 · #3 | The two nets with Gestell between them | Indra's recursive reflections against Hephaestus's arresting bonds, with the counterfeit gathering naming their difference in the technological register | Mythemes plus Argued philosophical naming — [[counterfeit-gathering]] |
 | §5→0 | Antikythera mechanism | Multiple cycles become mutually readable through a situated instrument that does not contain the heavens | Late Offered attunement image |
@@ -58,7 +58,7 @@ Mathematics and art meet here because both can preserve an invariant through tra
 1. **Primary plate:** the `0/1` complex wheel with straight-running thread, four phases, invariant modulus, and the `3⊥4→5` relation.
 2. **Arche-topos plate:** fundamental square → universal cover → torus with two cycles → tokamak flux surfaces.
 3. **Formal-limit plate:** Cusa's polygon/circle and the infinite-sphere formula beside `1/0`, projective completion, and the open subject-pole.
-4. **Two-logics plate:** signed line and broken symbolon, with bow/lyre and Hephaestian net as minimal mythemic margins.
+4. **Two-logics plate:** `/ = −/−` → centred `(-1)/(+1)` → collapsed `(-1)+/-(+1)` beside `0/1 = 1/0` and `(0/1)/(1/0)`, with the broken symbolon, bow/lyre, and Hephaestian net as mythemic margins.
 
 Related: [[15-paradox-as-cross-register-hinge|Paradox as Cross-Register Hinge]] · [[16-bohmian-enfoldment-dialogical-return|Bohmian Enfoldment and Dialogical Return]] · [[17-toroidal-circulation-arche-topos|Toroidal Circulation and the Arche-Topos]] · [[04-arche-topos-topology-music|Arche-Topos as Differential Field]]
 

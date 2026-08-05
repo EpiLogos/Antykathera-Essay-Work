@@ -4156,3 +4156,386 @@ The Taoist layer now has a properly prepared threshold. Its source work must est
 ---
 
 **End of contribution `session-20260730-advent-zero-paradoxical-return`.**
+
+---
+
+## Session contribution: Positio and ballein — a positional grammar for the two logics
+
+```xml
+<session_contribution
+  contribution_id="session-20260801-ponere-ballein-positional-grammar"
+  session_id="2026-08-01-position-opposition-superposition-interposition"
+  date_quilted="2026-08-01"
+  timezone="Europe/London"
+  thread_source="user"
+  status="complete-as-session-record; awaiting-cross-session-harmonisation"
+  authority="pre-canonical-session-quilt"
+  project="The Return of Zero">
+
+  <participants>
+    <participant role="author-and-theoretical-originator">Frank G. Taylor</participant>
+    <participant role="research-and-synthesis-assistant">Codex</participant>
+  </participants>
+
+  <session_scope>
+    <primary_thread>Position, opposition, superposition, and interposition as a four-phase vocabulary for the two QL accountings</primary_thread>
+    <formal_thread>Dia-ballein (+1)/(−1), sym-ballein (0/1)/(1/0), and the explication of the retained dyad as 4+2</formal_thread>
+    <etymological_thread>Latin ponere compounds read beside the Greek ballein compounds without treating the roots as cognate</etymological_thread>
+  </session_scope>
+
+  <authority_notice>
+    This contribution records an authorial QL development on a pre-canonical
+    quilting surface. The formal relations inherit their force from the QL theorem
+    spine. The ponere/ballein cross-reading is the project's own argued operation,
+    not a doctrine attributed to Latin or Greek authors.
+  </authority_notice>
+
+  <files_read>
+    <file authority="user-supplied-session-context" read="full"
+      path="/Users/admin/.codex/attachments/a31124b2-6b72-42a9-b4b5-50cf8696832d/pasted-text.txt" />
+    <file authority="mandatory-project-orientation" read="full"
+      path="essay-workshop/return-of-zero-orienting-principles.md" />
+    <file authority="structural-authority" read="relevant-complete-movements"
+      path="essay-workshop/the-return-of-zero-central-plan.md" />
+    <file authority="sovereign-manuscript" read="full"
+      path="essay-workshop/THE-RETURN-OF-ZERO.md" />
+    <file authority="native-theorem-language" read="full"
+      path="essay-workshop/sources-texts-references/10-7-2026-core-theorems-pithy.md" />
+    <file authority="canonical-argument" read="full"
+      path="essay-workshop/nodes/arguments/03-two-logics-and-sym-ballein.md" />
+    <file authority="canonical-section" read="full"
+      path="essay-workshop/nodes/sections/20-s2-p1-dia-ballein.md" />
+    <file authority="canonical-section" read="full"
+      path="essay-workshop/nodes/sections/21-s2-p2-sym-ballein.md" />
+    <file authority="canonical-section" read="full"
+      path="essay-workshop/nodes/sections/25-s3-p0-eight-determinations.md" />
+  </files_read>
+
+  <external-research-surfaces>
+    <surface authority="historical-lexicon"
+      identity="Lewis and Short, A Latin Dictionary"
+      use="checked pono compounds: positio, oppono, superpono, interpono/interpositio" />
+    <surface authority="historical-lexicon"
+      identity="Liddell-Scott-Jones Greek-English Lexicon"
+      use="checked symballo and symbolon; retained the wider senses meet, compare, reckon, and token alongside throw together" />
+  </external-research-surfaces>
+
+  <files_changed>
+    <file path="essay-workshop/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md"
+      operation="append-this-session-contribution" />
+  </files_changed>
+
+  <files-explicitly-not-changed>
+    <class>all canonical source houses and authorial NOTES.md files</class>
+    <class>all live section, argument, concept, and transverse-path nodes</class>
+    <class>the central plan and sovereign manuscript</class>
+  </files-explicitly-not-changed>
+</session_contribution>
+```
+
+### 1. The fourfold and the unit it opens
+
+The live proposition is a fourfold: **position, opposition, superposition, interposition**. Its QL force does not lie in assigning the four words to four of the six canonical positions. It names the movement by which a signed opposition is recovered as a retained relation and then explicated as the full `4+2` body:
+
+$$
+\underbrace{(+1)/(−1)}_{\text{position/opposition}}
+\quad\longrightarrow\quad
+\underbrace{(0/1)/(1/0)}_{\text{superposition}}
+\quad\longrightarrow\quad
+\underbrace{\{00,01,10,11\}+\{0,1\}}_{\text{interposition }=4+2}.
+$$
+
+Position and opposition are the two determinate standings of dia-ballein: the positive mark set forth and the negative set against it. Superposition does not add a third term above them. It recovers the prior relation that the signed line externalised: `0/1` together with its inverse orientation `1/0`, held under the outer slash as one differentiated event. Interposition then lays that retained two through its own relational field. The two singles remain as qualitative poles, while their four ordered doubles—`00`, `01`, `10`, `11`—give the complete explicate quaternity. The result is the already-derived count `2+2²=4+2=6`, now given a positional verb.
+
+The fourth phase therefore carries the required QL unit without turning the fourfold into a new list of six labels. **Superposition holds; interposition distributes.** The former retains the two orientations synchronically as a ratio of ratios. The latter gives their internal relation places, spreading what was held implicately into the four doubles while retaining the two singles that generate them. Interposition is the passage from the superposed parent-relation to its positional body.
+
+### 2. Ponere and ballein as a root-pair
+
+The Latin family supplies a stable architecture of placing. *Positio*, from *ponere*, is a putting, placing, or setting. *Opponere* sets one thing against another; *superponere* places over or upon; *interponere* places between or among. The preverbs alter where and how the placement stands. They let the fourfold say, in one lexical family, what happens to determination as it moves from a marked term, through its counter-term, into co-presence, and then into a relational field.
+
+The Greek *ballein* family supplies a different register: casting, meeting, comparison, collision, accusation, and gathering. Dia-ballein and sym-ballein name kinetic operations rather than settled locations. Dia-ballein casts through or across and, in its developed semantic field, sets at variance and accuses. Sym-ballein throws or brings together, meets, compares, and reckons; *symbolon* names the token or sign through which separated parties or terms can recognise a relation.
+
+The roots are not cognate and should not be made equivalent. Their difference is the gain. **Ponere names the architecture left by an operation; ballein names the movement by which the architecture is produced, broken, compared, and gathered.** The first answers: where does a determination stand? The second answers: what has been done across the interval so that these standings can oppose or compose? Read together, they give QL a static/kinetic root-pair without reducing either root to the other.
+
+### 3. The exact relation to the two logics
+
+The pair sharpens the established account of dia-ballein. A dia-operation produces the opposition it makes legible: it **positions** one mark as `+1` and **opposes** another as `−1`, placing zero outside them as origin, midpoint, or cancellation. The signed line is thus the positional residue of a prior differentiating act. Its values remain exact and indispensable; the new vocabulary discloses the placing by which they come to stand as externally opposed terms.
+
+Sym-ballein begins when that residue is read back through its ground. `0/1` and `1/0` do not abolish position and opposition. They retain each determination together with the orientation, inverse, and uncounted condition through which it is determinate. This is superposition in the project's native dual-non-dual register: conjunction without fusion and disjunction without severance.
+
+Interposition names the next operation more exactly than “expansion” alone. The relation does not swell into six by importing four further objects. It places its own two terms through each other. Each ordered double records a distinct way the poles can be jointly present, absent, or oriented; the singles remain the implicate sources of those placements. Nothing is added: the six are what the two amount to once their self-relation becomes positional.
+
+This supplies a compact crossing of the two root-families:
+
+| Positional phase | QL form | Ballein operation | Local work |
+|---|---:|---|---|
+| **Position** | `+1` | dia-ballein differentiates a positive standing | a determinate mark is set forth |
+| **Opposition** | `−1` | dia-ballein sets the counter-standing across the cut | the distinction becomes measurable as cancellation or span |
+| **Superposition** | `(0/1)/(1/0)` | sym-ballein retains both inverse orientations | the ground remains internal to each determination |
+| **Interposition** | `{00,01,10,11}+{0,1}` | sym-ballein composes the relation through itself | the implicate dyad explicates as `4+2` |
+
+The fourfold is consequently neither another QL position-table nor a moral ascent from a bad first pair to a good second pair. It is a process grammar. Position and opposition remain the analytic edge by which anything becomes definite. Superposition restores the relation that lets the cut remain answerable to its own condition. Interposition makes that restoration operative as a field of distinct places.
+
+### 4. Boundaries and rejected overextensions
+
+Several attractive continuations remain outside the present derivation. *Supposition*, *proposition*, *composition*, and *transposition* also belong to the broad *ponere* family, but they do not thereby furnish the missing names of QL positions `#0–#5`. Assigning them serially would replace the canonical determinations—Ground, Definition, Dynamis, Pattern, Context, Realisation—with a lexical resemblance that has not earned the same operations.
+
+The same boundary applies to Greek parallels such as *hypothesis*, *thesis*, *antithesis*, *epithesis*, *metathesis*, *hyperbole*, *parabole*, or *metabole*. Some may later refract a local move. None is admitted as a position merely because its prefix appears spatially suggestive. The *ponere/ballein* pair presently governs one precise movement: opposed placement, retained inverse relation, and the interposition of that relation as `4+2`.
+
+The four doubles are likewise not newly assigned to tetralemmatic corners here. The canonical order, the logical semantics of each corner, and the relation of silence or a fifth value require their own formal and source controls. This contribution establishes the generative placement of the four doubles plus two singles; it does not settle every later reading of those six terms.
+
+### 5. Claim status, evidence state, and likely canonical landing
+
+**Derived within the inherited QL field:** dia-ballein as `(+1)/(−1)`; sym-ballein as `(0/1)/(1/0)`; the categorical distinction between two singles and four doubles; and `2+2²=4+2=6`.
+
+**Argued in this contribution:** the four-phase vocabulary `position → opposition → superposition → interposition`; the description of interposition as the positional explication of superposition; and *ponere/ballein* as an architectural/kinetic root-pair.
+
+**Lexically checked but not yet housed as canonical evidence:** the ordinary Latin senses of *positio*, *opponere*, *superponere*, and *interponere/interpositio*, and the relevant Greek senses of *symballein* and *symbolon*. Before manuscript attribution, the selected lexicon entries need canonical source houses or another approved source route with exact locators and use boundaries. The QL derivation does not depend on those historical lexicons for permission; they control what may be said about the words' attested meanings.
+
+The primary later landing lies across §2 · #1, §2 · #2, and §2 · #5→0: the signed positions, their superpositional recovery, and the emergence of the sixfold from the retained two. §3 · #1 can receive the final interposition formula when the `4+2` count is derived. The concept nodes for the slash and the two logics, together with the core-theorem bridge, are downstream consumers. No propagation occurs during the gathering phase.
+
+### 6. Full movement for later harmonisation
+
+A distinction first appears as a placement. One mark is set forth; another is set against it. Dia-ballein casts the interval across which they can cancel to zero or disclose their span as two. The operation is exact because the terms stand apart enough to compare, decide, and act.
+
+The same distinction can remember the condition of its standing. Zero then ceases to be only the external origin or cancelled result and returns inside each term as its uncounted ground. `0/1` and `1/0` become the two orientations of one relation. Sym-ballein holds them together without erasing the cut: a superposition of inverse directions under a common slash.
+
+What is held can then be laid through itself. The poles remain as `0` and `1`; their ordered relations take the four places `00`, `01`, `10`, and `11`. This is interposition: the relation placing itself between, among, and through its own terms until its implicate dyad becomes an explicate quaternity without ceasing to be the dyad that generated it. `4+2` is the positional body of the superposition.
+
+The two word-families now cross without merging. *Ponere* gives the standings and their architecture. *Ballein* gives the cast, comparison, severance, meeting, and gathering by which those standings arise and return. QL is able to say both where its terms stand and how the interval between them acts.
+
+### 7. Writing-gate ship ledger
+
+**Authorial proposition preserved:** the fourfold was treated as Frank's positional language for the already-established two logics and their `4+2` explication, not as an agent-discovered replacement schema.
+
+**Formal distinction preserved:** the four phases were not confused with the six canonical QL positions or the eight-determination traversal. Superposition names the retained ratio of inverse orientations; interposition names its explication as four doubles plus two singles.
+
+**Etymological boundary preserved:** Latin placing and Greek casting were related as an authorial cross-reading while their distinct roots, semantic ranges, and evidential statuses remained explicit.
+
+**Comparative and negation audit:** the prose sweep returned twelve candidates. Two rhetorical feints were rewritten; the retained candidates mark lexical-attribution, formal-placement, and canonical-propagation boundaries or the operational difference between dia-ballein and sym-ballein. XML element names were excluded from the prose count.
+
+**Gathering discipline retained:** only the pre-canonical quilting surface changed. The likely canonical consumers were recorded without propagation.
+
+---
+
+**End of contribution `session-20260801-ponere-ballein-positional-grammar`.**
+
+
+---
+
+## Session contribution: French power theory — Baudrillard and Foucault source houses, and the candidate relations to the argument
+
+```xml
+<session_contribution
+  contribution_id="session-20260802-baudrillard-foucault-source-houses"
+  session_id="2026-08-02-french-power-theory-source-houses"
+  date_quilted="2026-08-02"
+  timezone="Europe/London"
+  thread_source="user"
+  status="source-house-intake and gathering record; awaiting-cross-session-harmonisation"
+  authority="pre-canonical-session-quilt with canonical source-house intake (six new houses)"
+  project="The Return of Zero">
+
+  <participants>
+    <participant role="author-and-theoretical-originator">Frank G. Taylor</participant>
+    <participant role="research-source-development-and-synthesis-assistant"
+                 model="Hermes-Nara">Hermes-Nara</participant>
+  </participants>
+
+  <session_scope>
+    <primary_thread>Deep research on Jean Baudrillard's power-and-simulation corpus, and the Foucault references already living in the essay materials, as preparation for the eventual harmonisation pass</primary_thread>
+    <source_thread>Six canonical source houses created (five Baudrillard, one Foucault), all intake-stage: bibliographic identity verified, no edition selected, no quotation-ready passages</source_thread>
+    <relation_thread>The candidate relations between the French power-theory material and the essay's existing architecture (two accountings, mono/poly, trust, the simulation concept node, the technical kernel, the Heidegger thread, prakāśa–vimarśa–māyā) — recorded as candidates to be weighed at harmonisation, with no placement decisions made</relation_thread>
+    <encounter_thread>The Shunyamurti satsang (mRf0KYs1sT4) as the external encounter that opened the thread: power as installed belief, the simulacrum as copy-without-original, sex as control mechanism, and the convergence with the Shaivite claim of consciousness as total freedom</encounter_thread>
+  </session_scope>
+
+  <authority_notice>
+    This contribution records a source-house intake and the candidate relations it
+    supplies to the full-argument surface. It changes no canonical argument, concept,
+    section, path, history, central-plan movement, or sovereign-manuscript passage.
+    The six source houses are canonical records in the source bank with intake-stage
+    status. The argument relations recorded here are candidates for the harmonisation
+    pass to weigh against the full argumentative surface; this session explicitly does
+    not decide where or whether Baudrillard and Foucault enter the essay's derivation
+    chain, its comparative field, its histories, or its applied surfaces.
+  </authority_notice>
+
+  <files_read>
+    <file authority="pre-canonical-session-quilt" read="consulted-protocol-and-prior-contributions; final boundary verified"
+      path="essay-workshop/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md" />
+    <file authority="source-bank-governance" read="full"
+      path="essay-workshop/sources-texts-references/source-bank/sources/README.md" />
+    <file authority="source-bank-governance" read="full"
+      path="essay-workshop/sources-texts-references/source-bank/sources/SOURCE-TEMPLATE.md" />
+    <file authority="source-bank-governance" read="full"
+      path="essay-workshop/sources-texts-references/source-bank/source-intake-queue.md" />
+    <file authority="canonical-source-house" read="full (exemplar for format)"
+      path="essay-workshop/sources-texts-references/source-bank/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md" />
+    <file authority="canonical-concept-node" read="full"
+      path="essay-workshop/nodes/concepts/simulation.md" />
+    <file authority="authorial-notes" read="Foucault-relevant lines (11, 22)"
+      path="essay-workshop/sources-texts-references/Epi Paper Write-ups/P1 - Jorjani - Prometheus and Atlas.md" />
+    <file authority="authorial-native-theory" read="Foucault-relevant placement (postmodernism at #4 without #5 or #0)"
+      path="epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/the-immutable-subject-and-the-matheme-of-its-recognition.md" />
+    <file authority="authorial-native-theory" read="Foucault-relevant mentions (care of the self; epistemes and power-knowledge)"
+      path="epi-logos-plugin-resources-copy-10-07/resources/deep/MEF-flagship-Essay-Rewrite.md" />
+    <file authority="authorial-notes" read="Foucault-relevant line (51)"
+      path="essay-workshop/sources-texts-references/source-bank/sources/psychology/watson/watson-1998-resonance-of-emptiness/NOTES.md" />
+    <file authority="external-encounter-surface" read="full transcript fetched (mRf0KYs1sT4, Shunyamurti satsang, 2026-08-01)"
+      path="(fetched to /tmp/satyoga-transcript.txt; not yet archived to the Nara sat-yoga transcripts archive)" />
+  </files_read>
+
+  <external-research-surfaces>
+    <surface authority="standard-reference-bibliography"
+      identity="Wikipedia, 'Jean Baudrillard' article (fetched 2026-08-02)"
+      use="bibliographic identity, translation history, reception; concept orientation only — not quotation authority" />
+    <surface authority="standard-reference-exposition"
+      identity="Wikipedia, 'Simulacra and Simulation' article (fetched 2026-08-02)"
+      use="the four stages of the sign and three orders of simulacra as standard exposition; wording orientation only" />
+    <surface authority="scholarly-reception-lead"
+      identity="Rex Butler, Jean Baudrillard: The Defence of the Real (SAGE, 1999)"
+      use="reception seam: the corpus read as a defence of the real; critique-from-inside as Baudrillard's recurring structure. Recorded via PhilPapers/Semantic Scholar records; book not read" />
+    <surface authority="criticism-gates"
+      identity="Mark Poster (failure to define key terms; hyperbolic declarative style); Christopher Norris, Uncritical Theory; Douglas Kellner (fatalism, loss of critical distance); Richard Wolin, The Seduction of Unreason (9/11 essays)"
+      use="recorded as gates for any canonical use, per the project's comparison-and-verification discipline" />
+  </external-research-surfaces>
+
+  <claim_registers>
+    <register name="QL-native">the two accountings; 0/1 and 1/0; the notation ruling; mono/poly; the slash and its occupation; the eight determinations; 5→0 as return-not-cancellation</register>
+    <register name="authorial-derived">the candidate mappings (four phases of the image to the four falls of 0/1; the code to the occupied slash; the hyperreal to sealed prapañca; the masses to the imploded Poly; obscenity to prakāśa-without-vimarśa; fatal strategy as a candidate fourth posture) — all recorded as candidates for harmonisation, none decided</register>
+    <register name="comparative-argued">the satsang's convergence-claim (power as installed belief; consciousness as total freedom); the Śaiva mirror argument as the candidate completion of the "copy with no original" half-truth</register>
+    <register name="historical-source">what Baudrillard and Foucault can be said to state, restricted to intake-stage identity: bibliographic verified, edition not selected, no passage quotation-ready</register>
+    <register name="offered-research-programme">edition selection and passage acquisition for six houses; Deleuze's societies-of-control as recorded neighbour; the perfect-crime vs. sheaf-obstruction counter-move as an open formal question</register>
+  </claim_registers>
+
+  <files_changed>
+    <file path="essay-workshop/sources-texts-references/source-bank/sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md" operation="created" />
+    <file path="essay-workshop/sources-texts-references/source-bank/sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md" operation="created" />
+    <file path="essay-workshop/sources-texts-references/source-bank/sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE.md" operation="created" />
+    <file path="essay-workshop/sources-texts-references/source-bank/sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE.md" operation="created" />
+    <file path="essay-workshop/sources-texts-references/source-bank/sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md" operation="created" />
+    <file path="essay-workshop/sources-texts-references/source-bank/sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/SOURCE.md" operation="created" />
+    <file path="essay-workshop/sources-texts-references/source-bank/source-intake-queue.md" operation="added French power-theory cluster entry" />
+    <file path="essay-workshop/sources-texts-references/source-bank/SOURCE-INDEX.md" operation="regenerated by build-source-projections.py" />
+    <file path="essay-workshop/sources-texts-references/source-bank/PASSAGE-LEDGER.md" operation="regenerated by build-source-projections.py" />
+    <file path="essay-workshop/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md" operation="append-this-session-contribution" />
+  </files_changed>
+
+  <files-explicitly-not_changed>
+    <class>all canonical argument, concept, section, and path nodes</class>
+    <class>the central plan, orienting principles, and theorem spine</class>
+    <class>all histories, the Agentworld matrix, and the sovereign manuscript</class>
+    <class>all Frank-authored NOTES.md files</class>
+  </files-explicitly-not-changed>
+</session_contribution>
+```
+
+### 1. What this session actually did
+
+The session researched Jean Baudrillard's power-and-simulation corpus at depth (five works), located every Foucault reference already living in the essay materials, and converted the results into canonical source-bank records plus this gathering contribution. No placement decision was made and none is recorded here: the relations below are candidates for the harmonisation pass to weigh against the full argumentative surface.
+
+The source work stands at intake stage: six source houses were created with verified bibliographic identity (against publisher records and the standard bibliography), intake citation status, and chapter-level passage leads only — no edition selected, no quotation-ready text. The houses record the candidate relations in-house; the harmonisation pass reads them against the whole quilt.
+
+The corpus search results are recorded because they change the shape of any future French-power-theory work: Foucault is absent from the live canon (central plan, section nodes, histories, response matrix) and present in exactly five places, two of which are live seeds (the P1 Jorjani endorsements of power-knowledge; the immutable-subject placement of Foucault's episteme-archaeology at #4 without #5 or #0). Baudrillard is absent from the entire Nara corpus before this session — the earlier broad search hits were "bula" false positives. The essay's power analysis runs through Heidegger, the ballein lattice, Arendt, and the monopoly-of-the-slash, not through the French genealogy; the French material is therefore a genuinely open seam, not a recovery.
+
+### 2. The source houses created and their verification state
+
+Six houses, all intake-stage (`metadata_status: verified-identity`, `edition_status: needed`, `citation_status: intake`, `quote_status: no-excerpts`):
+
+1. **baudrillard-1977-forget-foucault** (media-technology-philosophy). *Oublier Foucault*, Galilée 1977; English Nicole Dufresne, Semiotext(e) 1987. Leads: the orgy opening; power as simulated sign and the forgetting; sex represses the failure of desire.
+2. **baudrillard-1976-symbolic-exchange-death** (media-technology-philosophy). Gallimard 1976; English Iain Hamilton Grant, Sage 1993. Leads: the four values; the orders of simulacra; the code and the end of the signifier.
+3. **baudrillard-1981-simulacra-and-simulation** (media-technology-philosophy). Galilée 1981; English Sheila Faria Glaser, University of Michigan Press 1994 (distinct from the partial 1983 Semiotext(e) *Simulations* selection — the house flags the conflation risk). Leads: the precession; the four phases of the image; the hyperreal; the orders.
+4. **baudrillard-1983-fatal-strategies** (media-technology-philosophy). Grasset 1983; English Beitchman/Niesluchowski, Semiotext(e)/Pluto 1990, new ed. 2008. Leads: the object wiser than the subject; the masses as black hole; the fatal strategy and collapse of its own perfection.
+5. **baudrillard-1990-transparency-evil** (media-technology-philosophy). Galilée 1990; English James Benedict, Verso 1993. Leads: obscenity; the fractal stage of value; the perfect-crime motif.
+6. **foucault-1976-history-sexuality-v1** (phenomenology-continental-philosophy). Gallimard 1976; English Robert Hurley, Pantheon 1978. Leads: the repressive hypothesis refuted; power-knowledge; bio-power. The house records the corpus's existing placements (Jorjani endorsements; the #4-without-#5 placement; the care-of-the-self citation in the MEF resources) as inherited, and flags *The Order of Things*, *Discipline and Punish*, and the care-of-the-self volumes as related works needing their own houses if selected.
+
+The intake queue carries a new cluster entry recording the six houses, the inherited corpus placements, and the outstanding debts (edition selection; the four candidate additional houses; the Deleuze neighbour; the criticism gates). The generated SOURCE-INDEX and PASSAGE-LEDGER were rebuilt and verified current.
+
+### 3. Existing corpus placements (recorded, not created)
+
+These placements predate this session and are recorded here so the harmonisation pass reads the new material against them:
+
+- **Power-knowledge inextricability — endorsed.** P1 Jorjani notes, lines 11 and 22: "Feyerabend also {with Foucault} sees the power of discursive practice to dialectically crystallise and then dissolve what appear to be even the most fundamental structures of knowledge" ("we agree") and "The point that Foucault makes with respect to the inextricability of knowledge and power holds even more radically in the case of a scientific revolution..." ("we align with thoroughly"). The corpus already carries Foucault's power-knowledge as an inherited position.
+- **Episteme-archaeology at #4 without #5 or #0.** The immutable-subject document: "Postmodernism sits at #4 without #5 or #0... Derrida's différance, Lyotard's incredulity toward metanarratives, Foucault's archaeology of episteme — these are #4 work in the sense that they reach the field where the systematising activity..." — the corpus's structural judgment that the French field reaches the contextual field but does not complete the return.
+- **Care of the self — cited.** The MEF-plugin resources cite Foucault's care of the self (with Hadot) as epistemology-as-lived-practice: philosophy as a way of life.
+- **Simulation — already a canonical concept node.** nodes/concepts/simulation.md carries the Agentworld relays ("the membrane between simulation and simulated perforates... real-to-sim-to-real-to-sim-to-real", Bratton p. 25), the Matryoshka nesting, the counter-simulation economies, Q9's "simulation as political force," and the essay's response: "a simulation is a pratibimba whose bimba, gauge, exclusions, and permissions must be disclosed." This is the essay's existing answer at the technical register; Baudrillard's relation to it is open.
+
+### 4. Candidate argument relations — Baudrillard (for the harmonisation pass to weigh)
+
+Each relation is recorded with its register and its candidate status. None is adopted here.
+
+- **The four phases of the image ↔ the four falls of 0/1 (candidate mapping, structural register).** Phase 1 (sacramental: the sign as reflection of a profound reality) ↔ the mark bearing its ground — 0/1 carried, the symbol as the whole relation. Phase 2 (maleficence: the sign that masks and denatures reality) ↔ the slash struck — dia-ballein fallen, the excluded ground returning as threat. Phase 3 (sorcery: the sign that masks the absence of a profound reality — "a copy with no original") ↔ the 0 deleted while the 1 performs the absence — provenance erased, the pratibimba that has forgotten it is a reflection, prapañca sealed (x promoted to X). Phase 4 (pure simulacrum: no relation to any reality, total equivalency) ↔ even the deletion forgotten — a counterfeit 0 occupying the ground, the fallen accounting (−1)+(+1)=0 completed as a finished regime. The mapping's status (structural vs. resonant) awaits testing against the actual text at harmonisation.
+- **"Copy with no original" ↔ the Śaiva mirror argument (candidate completion, metaphysical register).** Abhinavagupta's mirror (per Dyczkowski, already housed): there is no original outside the mirror of Consciousness. Baudrillard's third phase states the same negative and stops. The candidate completion: the reflection is the Original's own self-display; the simulacrum's error is not the absence of an original but the forgetting that it is a reflection-of. Whether the essay adopts this completion, or reads the fourth phase as itself the final occlusion (apoha: the negation of the relation still presupposes the relation), is a harmonisation decision. The satsang (mRf0KYs1sT4) explicitly presents Baudrillard's simulacrum as the solution to the Advaita aporeia (the false world's origin) that Abhinavagupta's mirror could not complete — that convergence-claim is recorded as the encounter's own argument, to be weighed like any other.
+- **The precession of simulacra ↔ the Agentworld relays (candidate escalation, applied register).** The map preceding the territory is the metaphysical form of the relay the essay already carries technically: the simulation that governs the field it claims to describe. The concept node's answer (disclosed pratibimba) stands; Baudrillard's relation to it — witness, escalation, or target — is open.
+- **The code ↔ the occupied slash / counterfeit Mono (candidate, political-economic register).** The code as universal equivalent of sign-value is the nomisma measure taken to completion — the measure occupying the ground it was meant to mediate; the endpoint of the technical addendum's gauge tower (softmax at token scale; Bradley–Terry at preference scale; institutional occupation at governance scale). "Regime of total equivalency" is what the gauge tower looks like when every gauge is occupied and the occupation is forgotten.
+- **Sign-value ↔ currency whose backing is deleted (candidate, trust register).** The trust thread's "every 'is' is a credit event": sign-value is the credit event denied while drawn upon — circulation continuing after the ground's deletion, the ledger posted as its own collateral.
+- **The hyperreal ↔ sealed prapañca (candidate, epistemic register).** Signs reflecting signs because the chain to any ground is severed; the contracted failure of the prapañca thread (x begetting x with provenance erased) at cultural scale. Neighbour, not identity.
+- **The masses ↔ the imploded Poly (candidate, political register).** The atomisation thread's terminus: units that absorb meaning and return nothing; the statistical echo of the Poly the code destroyed; the "dissolve" response's collective form.
+- **Obscenity ↔ transparency without trust (candidate, technical register).** "The most intimate becomes the most visible": the §5 observability-without-trust argument at cultural scale — visibility without entry, display without apprehension.
+- **Obscenity ↔ prakāśa without vimarśa (candidate mythematic reading).** Light that displays without bending back to know itself as light; the essay's lost aesthetic ("the presence of the invisible within the visible") as exactly what total visibility deletes. Status (structural vs. resonant) to be weighed.
+- **The fractal stage of value ↔ the code completed (candidate).** Total convertibility, no referent: the endpoint of the sign-value thesis.
+- **The perfect crime ↔ the ledger posted as its own collateral, with the sheaf counter-move (candidate, formal register).** The ground's murder with no corpse: no provenance, no residue. The essay's technical kernel supplies the candidate counter-move: the perfect crime is impossible because cohomology does not vanish — the sheaf obstruction is where the surety lives; the ungluable remainder is the clue the perfect crime would have to destroy. Whether this is argued against Baudrillard or alongside him is open.
+- **Fatal strategy ↔ a candidate fourth posture beside seize/dissolve/recognise (candidate, moral-topology register).** The three responses to the discovery that the world is one's own construction: seize, dissolve, recognise. Baudrillard's fatal strategy — acceleration, the object's revenge, ironic complicity — is a candidate fourth: the 1 that knows return is foreclosed and courts the annihilating zero; the conceded error without the return-register. Whether the essay names it, diagnoses it (ekbolē turned inward, the masochistic jouissance of the fallen accounting), or neither, is a harmonisation question recorded here.
+- **Collapse of its own perfection ↔ the ground denied re-emerging (candidate).** The essay's fallen-accounting theorem in secular form: the system's perfection is its vulnerability — the ground excluded from the account returns through the system's own point of failure (cf. *The Spirit of Terrorism*, 2002: the towers' perfection as the strike point). Candidate reading, not decided.
+
+### 5. Candidate argument relations — Foucault (recorded against the corpus's existing placements)
+
+- **The repressive hypothesis refuted ↔ the step to desire-based self-discipline (candidate, power register).** Foucault's refutation of the repressive hypothesis (power multiplies the discourse of desire rather than prohibiting it) is the pivot of the step Baudrillard claims Foucault stopped short of: "you don't need to discipline people anymore because you have installed an internal self-discipline mechanism that is based on desire" (satsang gloss, mRf0KYs1sT4, ~11:25–11:50). Candidate relation: Foucault's productive power is the external face of the internalisation the essay's §2 fallen accounting describes at the level of the slash.
+- **The #4-without-#5 placement (inherited).** The corpus already judges Foucault's episteme-archaeology as #4 work that reaches the contextual field without completing the return to #5/#0. Whether Baudrillard's simulation-theory extends that placement, transforms it, or is itself a case of it, is open.
+- **Power-knowledge (inherited endorsement).** The Jorjani endorsements stand; the house records them as the corpus's existing relation, not a new claim.
+- **Care of the self (inherited citation).** The MEF resources' care-of-the-self Foucault (with Hadot) is a separate register from the power analyst; whether the essay keeps the two apart (power-knowledge in §2, care of the self in §4) is a placement question for harmonisation.
+
+### 6. The satsang encounter surface
+
+The thread opened from a Shunyamurti satsang (Sat Yoga Institute, mRf0KYs1sT4, "How Can We Explain Our Collective Stupidity?", 2026-08-01, 44:10) in which Baudrillard is presented as the late-20th-century solution to the Advaita aporeia that Abhinavagupta's mirror could not complete: the world as simulacrum, a copy with no original. The satsang's claims include: power is only a thought installed as a belief, a delusional belief, and there is no actual power; once you stop believing in the system's power it does not have it — converging with the Shaivite paradigm of consciousness as total freedom; sex is the control mechanism because it represses the failure of desire (against the Freudian repression thesis); the ego can no longer process signifiers, life flattens to momentary affects, meaning loses meaning, obscenity becomes normative, and the world becomes a kind of porn — with money as "the real sex" and the libidinal economy. The transcript was fetched but is not yet archived to the Nara sat-yoga transcripts archive (`sat-yoga/transcripts/2026-08-01-...`); that archiving is a Nara-side debt. The satsang is an external encounter surface: its convergence-claims are recorded as the encounter's own argument, subject to the same weighing as any other comparative material.
+
+### 7. Registers and gates
+
+- **Episteme/mytheme only, never inside the derivation chain.** Baudrillard and Foucault enter, if they enter, at the episteme or mytheme register — the same rule already governing Heidegger. The matheme register exists to lift the essay out of any single cultural thread; the French power-theory material is a cultural thread, not a source of the notation.
+- **Theory-fiction status.** Baudrillard's claims are hyperbolic and declarative by design; Poster's editor's critique ("fails to define key terms, such as the code; his writing style is hyperbolic and declarative") is not a misunderstanding but the method. Any use must quote him as a lens, not a witness — the same discipline as the mythic register's rule of use.
+- **Criticism gates.** Poster (key terms, style), Norris (*Uncritical Theory*: rejection of the media theory), Kellner (fatalism, loss of critical distance), Wolin (*The Seduction of Unreason*: the 9/11 essays) are recorded gates. Butler's *The Defence of the Real* (1999) is the recorded reception seam: the corpus read as a defence of the real — simulation intelligible only if the real is presupposed, critique-from-inside as the recurring structure. The book is a reception lead, not yet read or housed.
+- **No fabrication, no promotion.** All six houses carry chapter-level leads only; the four-phases and concept wording used for orientation came from standard reference expositions (Wikipedia articles fetched 2026-08-02) and is explicitly not quotation authority. Nothing in this contribution is quotation-ready.
+
+### 8. Open propositions and live research debts
+
+1. Acquire and collate the selected English editions of all six works (editions listed in-house); record exact page locators and wording for the passage leads.
+2. Decide whether *The Order of Things* (1966), *Discipline and Punish* (1975), *In the Shadow of the Silent Majorities* (1978), and *The Perfect Crime* (1995) receive their own source houses; the masses and perfect-crime material spans the houses already created.
+3. Keep Deleuze's "Postscript on the Societies of Control" (1990) as a recorded neighbour of the discipline→control step; house it if the step is selected.
+4. Test the four-phases ↔ four-falls mapping against the actual wording of the stages passage before deciding its status (structural vs. resonant).
+5. Test the obscenity ↔ prakāśa-without-vimarśa reading against the actual text and the housed Dyczkowski material.
+6. Resolve whether the *Matrix* disavowal anecdote belongs in the essay at all.
+7. Archive the satsang transcript to the Nara sat-yoga archive (Nara-side debt).
+8. Read Butler's *The Defence of the Real* before any harmonisation decision that leans on the defence-of-the-real reading; its chapter structure (simulation, seduction, doubling) is recorded from the secondary records only.
+9. Decide, at harmonisation, the status of the fatal-strategy candidate: fourth posture named, fourth posture diagnosed, or neither.
+10. Decide whether the perfect-crime vs. sheaf-obstruction counter-move is argued against Baudrillard or alongside him.
+
+### 9. Likely canonical blast radius — recorded, not propagated
+
+The French power-theory material, if selected, bears on: the two accountings and the notation ruling (§2 — the four phases as the itinerary of the fallen accounting; the code as the occupied slash); the trust thread (§2, §5→0 — sign-value as the credit event denied; the perfect crime vs. the surety at the sheaf obstruction); mono/poly (§5→0 — the masses as the imploded Poly; the code as counterfeit Mono); the simulation concept node (§5 — the precession as the metaphysical form of the Agentworld relays; Q9's simulation-as-political-force); the hidden-zero/gauge argument (§5·#3 — the code's occupied gauge); observability-without-trust (§5 — obscenity); the God-image and the trust-function (§4 — the idol that images nothing; the orgy-era as the aftermath register); the three-responses topology (§5→0 or §4 — the fatal-strategy candidate); the Heidegger thread (§2, §5→0 — the hyperreal as the world-picture completed; Gestell as the code's industrial form); and the prakāśa–vimarśa register (§0 — light without self-apprehension). No section node, argument node, history, or central-plan movement is changed by this contribution.
+
+### 10. Candidate quilting joins
+
+- **Join with session-015retbf (copula/ballein/Heidegger):** the notation ruling and the fallen accounting receive the four-phase itinerary as a candidate external witness; the code joins the *nem-* braid and the monopoly-of-the-slash; Heidegger's world-picture and Gestell meet the hyperreal and the code.
+- **Join with session-2cb3e99f (trust/mono-poly/oikonomia):** sign-value and the code join the naming–counting–law–currency–integrity chain and the credit-event reading; the masses join atomisation; the poly-daimonic field gains the French analytical neighbour.
+- **Join with the technical-kernel addendum (session-015retbf-addendum):** the gauge tower meets the code; the sheaf obstruction meets the perfect crime; the health criteria meet the fatal-strategy diagnosis.
+- **Join with session-20260730 (advent of zero, paradoxical notation):** the four phases of the image as the fallen itinerary of the sign — a candidate inversion of the zero's history (the sign losing its referent where zero returns to ontology).
+- **Join with session-019f6ccb (symbolon/selfing/prapañca):** the hyperreal as sealed prapañca; "copy with no original" as the pratibimba that has forgotten it is a reflection.
+- **Join with session-f769e952 and its corrective session-c73cd2dd (consciousness-as-world; bimba/pratibimba):** the stained-glass and refraction optics meet the hyperreal; the disclosed-pratibimba answer to the simulation relays is the essay's existing response, against which Baudrillard's status is to be weighed.
+
+### 11. Condensed movement for later harmonisation
+
+The French power-theory material supplies a candidate external anatomy of the fallen accounting's end-state. The sign loses its referent in four steps — the mark bearing its ground, the slash struck, the 0 deleted while the 1 performs the absence, and finally even the deletion forgotten — and the code installs itself as the universal equivalent that occupies the ground it was meant to mediate, its gauge occupied at every scale at once. The hyperreal is the sealed prapañca of the cultural field: signs reflecting signs, provenance erased, the map governing the territory it claims to describe. The masses are the Poly imploded; obscenity is light without self-apprehension; the perfect crime is the ledger posted as its own collateral — and the essay's own technical kernel supplies the candidate counter-move: the obstruction is where the surety lives, and the remainder cannot be destroyed. Whether this material enters the essay as witness, escalation, target, or all three, and where, is a decision for the harmonisation pass against the full argumentative surface. This session records the houses, the relations, and the gates; it makes no placement decision.
+
+### 12. Writing-gate ship ledger
+
+**Surface changed:** six new source houses; one cluster entry in the intake queue; the regenerated SOURCE-INDEX and PASSAGE-LEDGER (via build-source-projections.py, verified current); one contribution appended to the quilting file. No canonical node, history, central-plan movement, or sovereign-manuscript passage was changed.
+
+**Register discipline retained:** the candidate relations are marked candidate throughout; the inherited corpus placements (power-knowledge endorsement, #4-without-#5, care-of-the-self, the simulation concept node) are recorded as inherited and not re-claimed; verification states are explicit (intake-stage houses, chapter-level leads, no quotation-ready text).
+
+**Placement discipline retained:** no section, argument, or derivation-chain placement is proposed as a decision; the harmonisation pass reads the candidates against the whole quilt. The fatal-strategy candidate is recorded as a question, not a fourth topology.
+
+**Gathering discipline retained:** the quilting file was appended only; all Frank-authored NOTES.md files remain untouched; the satsang transcript archiving is recorded as a Nara-side debt rather than performed here.
+
+---
+
+**End of contribution `session-20260802-baudrillard-foucault-source-houses`.**

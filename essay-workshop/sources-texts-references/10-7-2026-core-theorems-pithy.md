@@ -38,7 +38,7 @@ Read term by term, every symbol is a position of the unit read through proportio
 - **([[Antykathera-Essay-Work/essay-workshop/sources-texts-references/QL-Essay-Rewrite#2.0 Trika — Relation That Keeps Both|1/0]] + [[Antykathera-Essay-Work/essay-workshop/sources-texts-references/QL-Essay-Rewrite#1.3 The Emergence of Spanda|0/1]])** — the **bridge / interference term**, where the two directed movements recombine and discover they were always one circuit.
 - **1/1 = 1 = 100%** — resolution into self-consistent unity: the ratio that has found itself whole, the equation that has equated itself.
 
-**The latent 3:3.** The equation carries two triads — its "horizontal reading" of the six:
+**The latent 3:3, which is also 3:1.** The equation carries two triads—its horizontal reading of the six—but their primary sense comes from the subject-definition: the first three unfold first-, second-, and third-person perspective; the second three void their isolation, recognise their unity, and return that one as `0/1`.
 
 | Emanative / bimba triad (source→expression, Prakāśa) | Reversionary / pratibimba triad (return→recognition, Vimarśa) |
 | ---------------------------------------------------- | ------------------------------------------------------------- |
@@ -48,7 +48,7 @@ Read term by term, every symbol is a position of the unit read through proportio
 
 $$3_{\text{emanative}} + 3_{\text{reversionary}} = 3_{\text{bimba}} + 3_{\text{pratibimba}}$$
 
-This maps exactly onto the kernel partition **1-2-3 / 4-5-0**: the physical pole (source-to-expression) is the emanative-bimba triad; the mental pole (return-to-recognition) is the reversionary-pratibimba triad. The 3:3 is the closest live relation back to the standing 1:1 identity, because the two triplets are *complementary aspects of one operation* — emanation-from-void in the first three steps, return-to-unity in the second three.
+This maps exactly onto the kernel partition **1-2-3 / 4-5-0**. The first pass is sequential perspective. The second is one recognition in three operations: void, one, `0/1`. Thus `3:3` is also `3:1`. Emanation/reversion, physical/mental, bimba/pratibimba, and the later musical ratio are further readings of this subject-structure. The two triplets remain complementary aspects of one operation—emanation-from-void and return-to-unity—rather than two substances.
 
 ## The Second Spanda Equation — the internal accounting (AND+OR register, the base frame)
 
@@ -170,7 +170,7 @@ The six-position QL unit and the eight determinations answer different questions
 
 | Turn | Expression | QL determination and its work | What remains invariant through the change |
 | --- | ---: | --- | --- |
-| **Parent relation** | `−/−` | Bare relationality before the field has been divided into named terms: two present marks held in one expression, the capacity for relation prior to a determinate contrast. It is the unnamed parent of the six, not an additional position among them. | The relation has a condition that cannot appear as one more product of the relation. |
+| **Parent relation** | `/ = −/−` | Bare relationality before the field has been divided into named terms: the stroke is its own determination form, two unassigned marks held in one expression, the capacity for relation prior to a determinate contrast. It is the unnamed parent of the six, not an additional position among them. | The relation has a condition that cannot appear as one more product of the relation. |
 | **#0 Ground** | `0/1` | **Awareness / phenomenon; conscious circumstance.** “I am here; something appears; the appearing is known.” `0` names the open, unobjectifiable fact of awareness; `1` the appearing mark; `/` the relation by which the real becomes readable without being exhausted by its readability. Appearing is in awareness, and awareness is encountered only through appearing; the relation precedes any picture of two completed substances separated by a wall. | The ground is immanent to every mark without becoming another positive mark or a hidden object behind it. |
 | **#1 Definition** | `?/!` | **Questioning / asserting; ratio, reckoning, mark.** To ask “what is this?” already asserts that something has appeared stably enough to call for account; to assert “this is” keeps open the question of whether the account runs true. Definition is therefore double: openness to determination and determinative speech. It marks while remaining answerable to what called for the mark. | Every assertion bears the unsettled question that makes it accountable; every genuine question already takes a provisional mark. |
 | **#2 Dynamis** | `−/+` | **Withdrawal / extension; force, polarity, Spanda-seed.** The relation becomes energetic: one side functions as reserve, contraction, withholding; the other as issue, release, presentation. The positive is the void’s own self-relation appearing as extension. The poles form a sustained pulse whose moments remain co-present—breath gathers and releases; attention contracts around a word and opens into sense. | The two poles remain one differentiating movement: distinction has force without becoming a war of independent substances. |
@@ -185,7 +185,7 @@ The six also have internal grammar. **Being** joins Ground and Definition: a fie
 
 The calculus turn makes the final determination mathematically exact. Differentiation yields local change while losing the additive constant; integration restores a family `F(x)+C`, with no single self-grounding whole selected by the local derivative alone. The missing `C` is the formally required provenance that local change cannot reconstruct; mystical surplus and defective calculation are both unnecessary explanations. The psychological and metaphysical claim begins there: a determination can be exact without containing the whole condition from which its exactness was taken.
 
-**QL placement.** `−/−` and `1/0` bracket rather than enlarge the six positions. `−/−` is the parent-relation before the count; `1/0` is the inversion through which the counted form recognises the ground that never became one of its contents. Within the bracket, `0/1`, `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` are the first qualitative body of the `4+2`. This preserves the distinction between the eight-turn traversal and QL's sixfold base count: Jung's four functions plus introversion/extroversion can disclose the same psychological `4+2`, while the fuller account can still traverse from pre-distinction, through conscious circumstance, to the incomputable return.
+**QL placement.** `/ = −/−` and `1/0` bracket rather than enlarge the six positions. `/ = −/−` is the parent-relation before the count; `1/0` is the inversion through which the counted form recognises the ground that never became one of its contents. Within the bracket, `0/1`, `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` are the first qualitative body of the `4+2`. This preserves the distinction between the eight-turn traversal and QL's sixfold base count: Jung's four functions plus introversion/extroversion can disclose the same psychological `4+2`, while the fuller account can still traverse from pre-distinction, through conscious circumstance, to the incomputable return.
 
 ---
 
@@ -234,7 +234,7 @@ $$16 + 9 = 25 = 5^2, \qquad 3^2 + 4^2 = 5^2$$
 
 The explicate triad (1-2-3) sits in perfect alignment at #1-#2-#3; then the offset kicks in — [[The Nothing That Is - Robert Kaplan|zero]] goes not to #0 but to **#4** (context), four to #5, five down to #0. The implicate triad occupies the implicate positions but *rotated*, each number finding its home at the position that names its **function**, not its face-value. This mismatch discloses the **two axes**:
 
-- **3:3 — physical / mental.** Explicate triad 1-2-3 at #1-#2-#3 = the *physical* pole (manifest, countable, *physis*); implicate triad 0-4-5 at #4-#5-#0 = the *mental* pole (contextual ground, interiority, the conditions of appearance).
+- **3:3 and 3:1 — perspective / recognition before physical / mental.** The primary derivation is the definition of subject: `1-2-3` at #1-#2-#3 are first-, second-, and third-person perspectives; `4/5/0` is the recognition sequence as void, one, and `0/1`. Three sequential views are answered by three phases of one recognition, so `3:3` is also `3:1`. The later physical/mental and musical readings inherit this subject-structure; they do not generate it.
 - **4:2 — explicate / implicate.** Four explicate positions (#1-#4) = the four sides of the fundamental polygon (→ the [[Antykathera-Essay-Work/essay-workshop/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|torus]] surface, in §3); two implicate positions (#0, #5) = the two generators (meridional / longitudinal loops). The `4g+2g` written as positions.
 
 The two axes **cross at #4** — the gate, belonging to the explicate set (a polygon side) but bearing an implicate number ([[The Nothing That Is - Robert Kaplan|zero]]). Which is exactly why [[The Nothing That Is - Robert Kaplan|zero]]-at-#4 works in both modes at once: `0+1+2+3 = 6` (permissive boundary, de-fining) and `0×1×2×3 = 0` (total boundary, con-fining). The convergence is total: **the Pythagorean perfect number (6), the QL mod6 cycle (0-5), the topological formula (4g+2g), and the five Platonic solids + archetopos (5+1)** all land on one architecture.
@@ -245,16 +245,28 @@ The two axes **cross at #4** — the gate, belonging to the explicate set (a pol
 
 The whole fork is *the arithmetic of the two ones*. Begin with the one operational bedrock of consciousness: **distinction** — "One and some Other One," knower/known, centre/surface. No fall in the drawing of the boundary itself. The fall is in **how the two are accounted for** — and there are, initially, exactly two accountings.
 
-## Dia-ballein (διαβάλλειν, "to throw apart") — the fallen line
+## Dia-ballein (διαβάλλειν, "to throw apart") — polarity and collapsed duality
 
-Account the pair as **inverse quantities**, `1` and `−1`, each the other's negation:
+The parent determination is the bare stroke itself:
 
-$$2 \;\rightarrow\; 1 + (-1) \;\rightarrow\; 0$$
+$$ /\;=\;-/- $$
 
-- Writing the pair as `1` and `−1` **displaces the [[The Nothing That Is - Robert Kaplan|zero]] point** — the centre-natured One is recast as one more mark among marks, a pole on the number line.
-- The two is now the *span* covering the first positive and negative integers; the mutual dependence **covers over the [[The Nothing That Is - Robert Kaplan|zero]] point**.
-- Difference collapses into **cancellation**: this relation projects difference as a *war of exclusions*. The ground from which both terms emerged disappears in the arithmetic — and re-emerges only as the *consequence of war*: **[[The Nothing That Is - Robert Kaplan|zero]] as annihilation**, generated by the collision of opposites.
-- **The [[The Nothing That Is - Robert Kaplan|zero]] is a terminus.** The account is closed, nothing left.
+Assigning signs produces the polar line:
+
+$$(-1)/(+1)$$
+
+Zero remains the axis of tension and connection. This polarity is the orienting power required by signed measure, symmetry breaking, trigonometric direction, and analytic distinction. Dia-ballein is not a fall merely because it cuts.
+
+The collapse occurs when the held stroke becomes addition or subtraction between isolated terms:
+
+$$(-1)+(+1)=0$$
+
+$$(-1)-(+1)=-2,\qquad (+1)-(-1)=+2$$
+
+- The polar slash preserves the centre as the axis through which each sign has direction. It gives a polarity rather than two self-sufficient substances.
+- Addition collapses that axis into **cancellation**. The ground reappears as the consequence of collision: zero as annihilation and terminus.
+- Subtraction assigns the full span to the pole from which it is measured. The result `-2` or `+2` is **arrogation / appropriation**: one of the two ones takes the relation's whole magnitude as its own.
+- The two ones therefore generate two logics of two. Dia isolates, cancels, or appropriates them. Sym keeps the two and their self-relation alive as `2+2²`.
 
 Logically and etymologically this is the structure of **the diabolical**: cognition that divides and then *forgets the whole it divided*, taking its own operation for the nature of what it operates upon. It discards what it cannot include in order to maintain a false separation of identities. Run inwardly it is **repression** — the `−1` is the share of the psyche denied a sign, stored in the shadow, returning with interest (Jung's *enantiodromia*, the compensatory revenge of the censored pole).
 
@@ -288,9 +300,9 @@ The slash resists the collapse by working **double**:
 This introduces a *structured irrationality* into what standard arithmetic treats as the defining form of a *rational* number. Under that stroke:
 
 - `0/1` reads: **the ground as expressed through the distinction.**
-- `1/0` reads: **the distinction as held within and by the ground.**
+- Its AND/OR operation generates the obverse `1/0`: **the distinction as held within and by the ground.**
 
-Neither is a second relation — each is the *one* relation looked through from its other end. So the two are **same AND different**; the notation generates its own counter-reading in the act of being written — `0/1` and `1/0` in co-oscillation, a **non-dual-two**. Because both carry the same `0`, **the two ones are one**: one mark, doubly oriented, joined through the ground each contains.
+Neither is a second relation — each is the *one* relation looked through from its other end. QL therefore asserts `0/1 = 1/0` in the matheme's relational register: same relation, obverse orientation. Ordinary arithmetic's non-equivalence is not an embarrassment to be softened; the defined/undefined seam is the exact mathematical pressure through which the notation returns to mathematics' own metaphysical ground. The two are **same AND different**; the notation generates its counter-reading in the act of being written, a **non-dual-two**. Because both carry the same `0`, **the two ones are one**: one mark, doubly oriented, joined through the ground each contains.
 
 The full form:
 
@@ -364,7 +376,7 @@ The **explicate triad (1-2-3)** sits at #1-#2-#3 in perfect alignment — each n
 
 This discloses the **two axes**:
 
-- **3:3 — physical and mental.** The explicate triad `1-2-3` at #1-#2-#3 = the **physical pole** (manifest, countable, *physis*). The implicate triad `0-4-5` at #4-#5-#0 = the **mental pole** (contextual ground, interiority, the conditions of appearance). Not two substances — two poles of one self-referential reality.
+- **3:3 and 3:1 — subject before its cross-register readings.** The explicate pass `1-2-3` at #1-#2-#3 is first-, second-, and third-person perspective: I, you/between, it. The `4/5/0` pass is void, one, and `0/1`: the isolation of the views is voided into context, their unity is recognised, and the achieved one returns as the relation of ground and mark. Thus the two triads form `3:3`, while the second triad reckons the unity of the first and makes the same passage `3:1`. Physical/mental and harmonic readings are further exact refractions of this primary subject-account, not its source.
 - **4:2 — explicate and implicate.** Four explicate positions (#1-#4) = the four sides of the fundamental polygon (→ [[Antykathera-Essay-Work/essay-workshop/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|torus]] surface). Two implicate positions (#0, #5) = the two generators (the loops). The `4g+2g` written as positions.
 
 The axes **cross at #4** — the last of the four explicates (in the 4:2) *and* the first of the recognition-triad (in the 3:3, #4 begins the 4/5/0). The gate where surface discovers it was always depth; the structural reason #4 is Context.
@@ -376,11 +388,11 @@ The axes **cross at #4** — the last of the four explicates (in the 4:2) *and* 
 - **#1: 1st person** — the I, the knower, the *here* (the line).
 - **#2: 2nd person** — the you, the means, the *between* (the angle).
 - **#3: 3rd person** — the it, the known, the *there* — and the `?/!`, because the object refuses to resolve when you try to exhaust it by knowing (the triangle, 180°).
-- **#4: meta-perspectival** — all three held simultaneously. Context. The Da-Sein; the Nara who has seen the Necker-flip and can no longer take one reading as final (triangle's 180° doubles to the square's 360°).
-- **#5: trans-perspectival** — recognition. The three seen as one. *Pratyabhijñā*: `1/1 = 1 = 100%`.
-- **#0: pre-perspectival** — the ground from which persons arise. Anuttara, the 0 that represents what cannot be represented because it is the condition for representation.
+- **#4: void / meta-perspectival** — the exclusivity of each view is voided as all three become simultaneously available in Context. The Da-Sein; the Nara who has seen the Necker-flip and can no longer take one reading as final (triangle's 180° doubles to the square's 360°).
+- **#5: one / trans-perspectival** — recognition. The three are reckoned as one appearing-act. *Pratyabhijñā*: `1/1 = 1 = 100%`.
+- **#0: `0/1` / pre-perspectival return** — the achieved one returns to the ground–mark relation from which persons arise. Anuttara is not another perspective; it is the condition for representation now recognised through its determinations.
 
-> **The body (1-2-3) is sequential** — three perspectives counted one by one, the way a story unfolds. **The mind (4/5/0) is simultaneous** — one recognition with three faces, the way a recognition happens all at once.
+> **The `1-2-3` pass is sequential** — three perspectives counted one by one, the way a story unfolds. **The `4/5/0` pass is one recognition in three operations** — void, one, `0/1`. This is why `3:3` is also `3:1`.
 
 The count departs at #1 (the I asserting), runs the explicate body 1→2→3, crosses the gate at #4, achieves recognition at #5, and **returns to #0** — the pre-perspectival ground re-discovered as always-already-present, never having left. `6 ≡ 0 (mod 6)`: the end is the beginning.
 
@@ -514,14 +526,14 @@ The thirty-six [[36 Tattvas|tattvas]] describe how undivided consciousness becom
 |---|---|---|---|
 | **#0** | **Paramaśiva / Anuttara** | Unsurpassable, non-objectifiable ground; all determinations held without separation | Ground / `0`: the subject-position presupposed by every appearing object but never exhausted as one |
 | **#1** | **Śiva–Śakti** | Consciousness and its power as the first internal differentiation of one reality | Definition / first stirring: luminosity bears the power to disclose and recognise without yet facing an external object |
-| **#2** | **Sadāśiva / Īśvara** | “I am this” and “This am I”: manifestation read in its subjectward and objectward directions | Dynamis / `0/1 ↔ 1/0`: two orientations of one relating, the universe appearing within consciousness |
+| **#2** | **Sadāśiva / Īśvara** | “I am this” and “This am I”: manifestation read in its subjectward and objectward directions | Dynamis / `0/1 = 1/0` in QL: two obverse orientations of one relating, the universe appearing within consciousness |
 | **#3** | **Sadvidyā / Māyā** | Knower and known become determinately distinguishable; differentiation opens the field of relation | Pattern / the subject–object seam: the cut becomes explicit without proving that its poles are independent substances |
 | **#4** | **Five kañcukas + Puruṣa** | Infinite power contracts as limited agency (*kalā*), knowledge (*vidyā*), desire (*rāga*), time (*kāla*), and ordering or necessity (*niyati*), yielding the situated knower | Context / bounded horizon: the finite standpoint and the objective-internal machinery through which a world becomes available |
 | **#5** | **Pratyabhijñā** | Re-cognition: the contracted knower recognises the ground it never ceased to express | Real-isation / `5→0`: differentiation returns without being erased; the ground is regained with its determinations intact |
 
 ## Descent — differentiation becomes world
 
-At #0 there is no object available against which the ground could be measured. [[36 Tattvas|Paramaśiva or Anuttara]] names the condition from which subject and object can arise, not a highest object placed above them. #1 gives that condition its first inward articulation: [[Śiva-Śakti-Object Triad|Śiva and Śakti]] are consciousness and its power of manifestation, inseparable yet genuinely distinguishable as the light and its capacity to turn, show, and know. #2 gives the turn two directions. In Sadāśiva's “I am this,” the appearing universe is held toward the I-pole; in Īśvara's “This am I,” the same unity is read from the disclosed side. Their pair therefore prepares the conjugate movement `0/1 ↔ 1/0` without reducing a metaphysical doctrine to a fraction.
+At #0 there is no object available against which the ground could be measured. [[36 Tattvas|Paramaśiva or Anuttara]] names the condition from which subject and object can arise, not a highest object placed above them. #1 gives that condition its first inward articulation: [[Śiva-Śakti-Object Triad|Śiva and Śakti]] are consciousness and its power of manifestation, inseparable yet genuinely distinguishable as the light and its capacity to turn, show, and know. #2 gives the turn two directions. In Sadāśiva's “I am this,” the appearing universe is held toward the I-pole; in Īśvara's “This am I,” the same unity is read from the disclosed side. Their pair therefore prepares the QL relational identity `0/1 = 1/0` without reducing a metaphysical doctrine to a fraction.
 
 At #3 the difference becomes operative. Sadvidyā holds the balance of I and this; Māyā permits the balance to appear as separation, giving knower and known enough distance for determination, relation, and experience. The descent does not treat difference as an error. A world can appear only because consciousness can delimit, and a relation can live only while its terms remain distinct. The danger begins when the cut forgets that it is an activity and presents its products as self-grounding substances.
 
@@ -569,7 +581,7 @@ The two logics are the primitive runtime of this ontology. They arise from the p
 
 | Runtime | Matheme | Operations | Productive necessity | Pathology when absolutised |
 |---|---:|---|---|---|
-| **Dia-ballein** | `(+1)/(−1)` | distinguish, compare, exclude, classify, rank, route, decide, bifurcate | makes an actual difference available for action; gives science, critique, and computation their analytic edge | atomisation: the products forget the field and operation that produced them, so the part stands against the whole and the rival appears eliminable |
+| **Dia-ballein** | `/ = −/−` → `(-1)/(+1)` → `(-1)+/-(+1)` | relate prior to assignment; orient; distinguish, compare, exclude, classify, rank, route, decide, bifurcate | makes an actual difference available for action; gives science, critique, trigonometric orientation, and computation their analytic edge | collapse: addition cancels the poles to a terminal zero; subtraction lets one pole appropriate the span as `±2`; the products forget the field and operation that produced them |
 | **Sym-ballein** | `(0/1)/(1/0)` | relate, preserve provenance, invert, recombine, contextualise, recurse, return | lets distinct determinations form a higher-order unity without ceasing to differ; carries source and inverse orientation inside the result | fusion or capture: the seam is erased, difference is appropriated by a totality, and enclosure is misnamed wholeness |
 
 The familiar computational method “divide and conquer” exposes the issue cleanly. Its first move is dia-ballein: recursively divide a problem into independently tractable parts. Yet an actual divide-and-conquer algorithm succeeds only because it also combines the results. The dangerous axiom is therefore not division itself but **division whose conquest is taken as the whole intelligence of the method**—decomposition without a provenance-preserving return. Atomisation is the social, psychic, and technical result of this truncated runtime. A living computation must divide *and* gather: `solve et coagula`, science and *con-scire*, dia and sym.
@@ -579,7 +591,7 @@ The runtime is consequently not a linear moral sequence in which a bad cut is la
 $$
 0/1
 \quad\xrightarrow{\text{dia: differentiate}}\quad
-(+1)/(-1)
+(-1)/(+1)\;\to\;(-1)+/-(+1)
 \quad\xleftrightarrow[\text{return / provenance}]{\text{sym: compose}}\quad
 (0/1)/(1/0)
 \quad\xrightarrow{5\to0}\quad
