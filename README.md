@@ -14,6 +14,14 @@ The linked plain-English flow is the best current way to understand the complete
 4. Follow the [argument nodes](essay-workshop/nodes/arguments/), [concept nodes](essay-workshop/nodes/concepts/), [section movements](essay-workshop/nodes/sections/), and [transverse paths](essay-workshop/nodes/paths/) when you want the granular form of a claim.
 5. Enter the [source bank](essay-workshop/sources-texts-references/source-bank/README.md) when a thinker, text, quotation, historical statement, or source relation needs its exact scholarly home.
 
+## Video, 3D, and Epi-Card production
+
+The [Epi-Card QL Conjugate System v1](submission-package/epi-card-system-v1/README.md) is the active parallel production lane for turning the essay's QL movements into symbolic-media objects. It is the direct starting point for video and 3D collaboration: twelve QL addresses become six conjugate pairs, with film, exact vector symbols, masks, audio, loops, master renders, and web, print, or portable card forms carried through one production system.
+
+Start with the [nested Epi-Card repository guide](submission-package/epi-card-system-v1/README.md). The [complete product and production specification](submission-package/epi-card-system-v1/SPEC.md) gives the full system, while the [symbolic-media pipeline](submission-package/epi-card-system-v1/skills/epi-card/references/media-pipeline.md) gives the clearest route into shots, paired plates, exact finishing, symbols, and audio.
+
+Epi-Card work proceeds alongside the quilt and essay lanes. It consumes stable, ratified argument and assets; it does not govern or silently alter the essay canon.
+
 ## The argument in brief
 
 Experience proves a subject-pole which cannot be reduced to one more object within experience. The essay calls this unobjectifiable condition zero. Mind differentiates the field into determinate ones. The slash records the relation which makes that differentiation possible.
@@ -46,7 +54,8 @@ The distinction matters. The plain-English document is current enough to share a
 | [`essay-workshop/sources-texts-references/source-bank/`](essay-workshop/sources-texts-references/source-bank/README.md) | 119 canonical source houses and the passage, citation, provenance, acquisition, and consumption system. |
 | [`essay-workshop/section-rooms/`](essay-workshop/section-rooms/) | Generated authoring refractions. Rooms help drafting and never replace their canonical sources or nodes. |
 | [`symbolon/`](symbolon/README.md) | The intended ontology-led publication vault. Its Matheme, Mytheme, and Episteme architecture exists; quilt-dependent content has not yet migrated into it. |
-| [`submission-package/`](submission-package/README.md) | Submission manifests, companion materials, Epi-Card work, and retained design provenance. |
+| [Epi-Card QL Conjugate System](submission-package/epi-card-system-v1/README.md) | Active parallel video, 3D, symbolic-media, card, and rendering lane. |
+| [`submission-package/`](submission-package/README.md) | Submission manifests, companion materials, Epi-Card integration, and retained design provenance. |
 | [`writing-guidance-tools/`](writing-guidance-tools/README.md) | The local writing laws, rubric, and selective calibration material used for the published prose. |
 | [`tools/`](tools/) and [`tests/`](tests/) | Workspace retrieval, source resolution, generation, freshness, link, and publication checks. |
 | [`WRITING-PROTOCOL.md`](WRITING-PROTOCOL.md) | The live workflow for review, migration, model drafting, comparison, and publication. |
