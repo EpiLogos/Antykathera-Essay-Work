@@ -513,15 +513,17 @@ The work is ready for publication only when all of the following are true:
 
 ## 18. Current preliminary state
 
-As of 2026-08-04:
+As of 2026-08-05:
 
 - the ontology-led `symbolon/` vault exists;
 - Symbolon has no `relations/` layer and no separate `INDEX.md`;
 - Matheme, Mytheme, and Episteme have complete functional domain trees and record contracts;
 - this protocol is the live publication and writing workflow;
 - the previous 2026-07-29 published-vault specification is retained only as design provenance;
-- the working tree contains quilt-session changes and is not a safe base for model branches;
-- GitHub identifies the intended account as `EpiLogos`, but its current CLI token is invalid;
-- no public remote has been attached and no development history has been exposed.
+- the [current plain-English full flow](essay-workshop/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md) gives the corrected argument in reader-facing form;
+- the [parallel harmonised quilt](essay-workshop/2026-08-02-PARALLEL-HARMONISED-QUILT.md) is the sole completed pre-propagation ledger;
+- the central plan and granular nodes remain canonical and have not yet received the quilt's prospective changes;
+- the GitHub remote is live and `main` is the shared preliminary state;
+- no model-writing branch should be cut from this pre-ratification base.
 
-The next content gate is Frank's quilt ratification. Once it is recorded on `main`, the repository can complete the move from `essay-workshop/` into the ontology-led homes, cut equal-base model branches, and begin the writing phase.
+The next content gate is Frank's complete review of the 48 movements for order, focus, carrier hierarchy, source depth, recurrence, and hand-off. Accepted changes then land in the central plan, propagate through the granular canon, and close with regeneration and source checks. Quilt-dependent migration into `symbolon/` and equal-base model drafting begin only from the resulting ratified commit.
