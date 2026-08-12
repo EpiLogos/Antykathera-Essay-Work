@@ -12,7 +12,7 @@ The package does not depend on the work retaining its current title, section nam
 - **Pedagogy** (`skills/converse-pedagogically`) — teaches through the live question and the pages actually encountered.
 - **Specialist operations** — tetralemma, CMEA, encounter-axis, topological, etymological, and other operations used internally as lenses and movements of the same QL/MEF instrument.
 - **Reader traversal resources** (`resources/reader/`) — the traversal-ledger contract and a copyable Markdown note.
-- **The current publication snapshot** (`resources/essay-okf/index.md`) — the entry to a generated linked reader bundle. Its present census is discovered from that index rather than encoded into the skills.
+- **The published essay body** (`essay/README.md`, field at `essay/symbolon/README.md`) — the entry to the live navigable work. Its present census is discovered from that entry rather than encoded into the skills.
 - **QL/MEF resources** (`data/`, `resources/canon/`, `resources/units/`) — the coordinate and lens material used when the reading needs formal depth.
 
 The package runs without a session hook, external persona injection, or semantic retrieval service.
@@ -62,3 +62,5 @@ claude --plugin-dir /path/to/submission-package/epi-logos
 ```
 
 The marketplace manifest lists only the installable Epi-Logos plugin. The card specification remains in the submission manifest until it has a real runtime and plugin boundary.
+
+The multi-lens reasoning workflow is exposed as `epi-logos:mef-refract`; its dispatch contract lives in `commands/mef-refract.md`.

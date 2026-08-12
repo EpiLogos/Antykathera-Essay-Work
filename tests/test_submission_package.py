@@ -9,7 +9,7 @@ import yaml
 
 
 PROJECT = Path(__file__).resolve().parents[1]
-BUILDER = PROJECT / "tools/build-essay-okf.py"
+ESSAY = PROJECT / "submission-package/essay"
 PACKAGE = PROJECT / "submission-package/epi-logos"
 SUBMISSION = PROJECT / "submission-package"
 MARKDOWN_LINK = re.compile(r"(?<!!)\[[^\]]*\]\(([^)]+)\)")
@@ -24,159 +24,121 @@ def frontmatter(path: Path):
 
 
 class SubmissionPackageTests(unittest.TestCase):
-    def build(self, output: Path):
-        subprocess.run(
-            ["python3", str(BUILDER), "--project-root", str(PROJECT), "--output", str(output)],
-            cwd=PROJECT,
-            check=True,
-            capture_output=True,
-            text=True,
+    def test_essay_body_is_the_complete_sixfold_one_home(self):
+        self.assertTrue((ESSAY / "README.md").is_file())
+        self.assertTrue((ESSAY / "THE-RETURN-OF-ZERO.md").is_file())
+        self.assertEqual(
+            48,
+            len(list((ESSAY / "section-rooms").glob("*/movements/*.md"))),
         )
-
-    def test_export_builds_a_complete_typed_reader_bundle(self):
-        with tempfile.TemporaryDirectory() as temp:
-            output = Path(temp) / "essay-okf"
-            self.build(output)
-
-            self.assertTrue((output / "index.md").is_file())
-            self.assertTrue((output / "log.md").is_file())
-            self.assertEqual(
-                len(list((PROJECT / "essay-workshop/nodes/sections").glob("*.md"))),
-                len(list((output / "sections").glob("*.md"))),
-            )
-            self.assertEqual(
-                len(list((PROJECT / "essay-workshop/nodes/arguments").glob("*.md"))),
-                len(list((output / "arguments").glob("*.md"))),
-            )
-            self.assertEqual(
-                len(
-                    [
-                        path
-                        for path in (PROJECT / "essay-workshop/nodes/concepts").glob("*.md")
-                        if path.name != "index.md"
-                    ]
-                ),
-                len(list((output / "concepts").glob("*.md"))),
-            )
-            canonical_records = PROJECT / "essay-workshop/sources-texts-references/source-bank/sources"
-            self.assertEqual(
-                len(
-                    [
-                        path
-                        for path in canonical_records.rglob("SOURCE.md")
-                        if path.read_text(encoding="utf-8").strip()
-                    ]
-                ),
-                len(list((output / "references/sources").glob("*.md"))),
-            )
-            self.assertFalse((output / "references/quotes").exists())
-            self.assertGreater(len(list((output / "braids").glob("*.md"))), 0)
-
-            record, body = frontmatter(output / "references/sources/le-bon-1895-crowd-popular-mind.md")
-            extraction, _ = frontmatter(output / "supporting/source-extraction-core-theorems.md")
-            authorial_text = (
-                output / "supporting/taylor-2026-core-theorems-pithy-authorial-text.md"
-            )
-            self.assertEqual("source-house", record["type"])
-            self.assertEqual("canonical-source-house", record["ownership"])
-            self.assertIn("le-bon-1895-crowd-popular-mind-lb-03", body)
-            self.assertEqual("source-extraction", extraction["type"])
-            self.assertTrue(authorial_text.is_file())
-            theorem_source = (
-                output / "references/sources/taylor-2026-core-theorems-pithy.md"
-            ).read_text(encoding="utf-8")
-            self.assertIn(
-                "../../supporting/taylor-2026-core-theorems-pithy-authorial-text.md",
-                theorem_source,
-            )
-
-            for path in output.rglob("*.md"):
-                data, _ = frontmatter(path)
-                self.assertIn("type", data, path)
-                self.assertNotIn("[[", path.read_text(encoding="utf-8"), path)
-                if path.name not in {"index.md", "log.md"}:
-                    self.assertIn("canonical_path", data, path)
-                    self.assertRegex(data["canonical_sha256"], r"^[0-9a-f]{64}$", path)
-
-            section, _ = frontmatter(output / "sections/01-s01-p0-question-before-mechanism.md")
-            self.assertEqual(["§0/1", "#0"], section["coordinates"])
-
-    def test_every_exported_internal_link_resolves_and_index_reaches_every_node(self):
-        with tempfile.TemporaryDirectory() as temp:
-            output = Path(temp) / "essay-okf"
-            self.build(output)
-            index_text = (output / "index.md").read_text(encoding="utf-8")
-
-            for path in output.rglob("*.md"):
-                text = path.read_text(encoding="utf-8")
-                for raw in MARKDOWN_LINK.findall(text):
-                    target = raw.strip().strip("<>").split("#", 1)[0]
-                    if not target or target.startswith(("http://", "https://", "mailto:", "resource:")):
-                        continue
-                    resolved = (path.parent / target).resolve()
-                    self.assertTrue(resolved.is_file(), f"{path}: {raw}")
-
-                if path.name not in {"index.md", "log.md"}:
-                    relative = path.relative_to(output).as_posix()
-                    self.assertIn(f"({relative})", index_text, relative)
-
-            subprocess.run(
+        self.assertEqual(
+            21,
+            len(list((ESSAY / "section-rooms/arguments").glob("*.md"))),
+        )
+        self.assertEqual(
+            8,
+            len(list((ESSAY / "section-rooms").glob("*/ROOM.md"))),
+        )
+        self.assertEqual(
+            22,
+            len(
                 [
-                    "python3",
-                    str(BUILDER),
-                    "--project-root",
-                    str(PROJECT),
-                    "--output",
-                    str(output),
-                    "--check",
-                ],
-                cwd=PROJECT,
-                check=True,
-                capture_output=True,
-                text=True,
-            )
+                    path
+                    for path in (ESSAY / "symbolon/episteme/concepts").glob("*.md")
+                    if path.name not in {"index.md", "README.md"}
+                ]
+            ),
+        )
+        self.assertEqual(
+            4,
+            len(
+                [
+                    path
+                    for path in (ESSAY / "symbolon/episteme/maps").glob("*.md")
+                    if path.name != "README.md"
+                ]
+            ),
+        )
+        self.assertEqual(
+            124,
+            len(list((ESSAY / "symbolon/episteme/sources").rglob("SOURCE.md"))),
+        )
+        self.assertTrue((ESSAY / "symbolon/episteme/histories").is_dir())
+        self.assertTrue((ESSAY / "symbolon/episteme/etymologies").is_dir())
+        self.assertFalse(
+            (PROJECT / "submission-package/epi-logos/resources/essay-okf").exists()
+        )
+        self.assertFalse((PROJECT / "symbolon").exists())
+        self.assertFalse((PROJECT / "essay-workshop").exists())
 
-    def test_export_preserves_status_and_quote_provenance(self):
-        with tempfile.TemporaryDirectory() as temp:
-            output = Path(temp) / "essay-okf"
-            self.build(output)
-            argument, _ = frontmatter(output / "arguments/02-objective-internality.md")
-            source, body = frontmatter(output / "references/sources/le-bon-1895-crowd-popular-mind.md")
+    def test_essay_body_wikilinks_and_relative_links_resolve(self):
+        import importlib.util
+        import sys
 
-            self.assertEqual("Argued", argument["claim_status"])
-            self.assertEqual("citation-ready", source["citation_status"])
-            self.assertEqual("quotation-ready", source["quote_status"])
-            self.assertIn("LB-03", body)
-            self.assertIn("book I, ch. 1", body)
+        spec = importlib.util.spec_from_file_location(
+            "return_of_zero_workspace", PROJECT / "tools/okf-workspace.py"
+        )
+        module = importlib.util.module_from_spec(spec)
+        sys.modules[spec.name] = module
+        spec.loader.exec_module(module)
+        workspace = module.Workspace(PROJECT)
+        for path in ESSAY.rglob("*.md"):
+            if "reference-notes" in path.parts or path.name == "AUTHORIAL-TEXT.md":
+                continue
+            text = path.read_text(encoding="utf-8")
+            for raw in MARKDOWN_LINK.findall(text):
+                target = raw.strip().strip("<>").split("#", 1)[0]
+                if not target or target.startswith(("http://", "https://", "mailto:", "resource:")):
+                    continue
+                resolved = (path.parent / target).resolve()
+                self.assertTrue(
+                    resolved.is_file() or resolved.is_dir(), f"{path}: {raw}"
+                )
+            for raw in re.findall(r"\[\[([^\]|#]+)", text):
+                try:
+                    workspace.resolve(raw.replace("\\", ""))
+                except KeyError:
+                    self.fail(f"{path}: [[{raw}]]")
 
-    def test_canonical_source_house_keeps_kaplan_learning_material_together(self):
-        with tempfile.TemporaryDirectory() as temp:
-            output = Path(temp) / "essay-okf"
-            self.build(output)
-            source, body = frontmatter(
-                output / "references/sources/kaplan-1999-nothing-that-is.md"
-            )
+    def test_essay_body_preserves_status_and_quote_provenance(self):
+        argument, _ = frontmatter(
+            ESSAY / "section-rooms/arguments/02-objective-internality.md"
+        )
+        source, body = frontmatter(
+            ESSAY
+            / "symbolon/episteme/sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/SOURCE.md"
+        )
+        self.assertEqual("Argued", argument["claim_status"])
+        self.assertEqual("citation-ready", source["citation_status"])
+        self.assertEqual("quotation-ready", source["quote_status"])
+        self.assertIn("LB-03", body)
+        self.assertIn("book I, ch. 1", body)
 
-            self.assertFalse((output / "references/studies").exists())
-            self.assertEqual(["§1 · narrative and learning spine"], source["main_source_for"])
-            self.assertIn("## Scholarly reading and worked material", body)
-            self.assertIn("## Historical reading spine", body)
-            self.assertIn("## Mathematical workbench", body)
+    def test_essay_body_keeps_kaplan_learning_material_in_the_sources_domain(self):
+        source, body = frontmatter(
+            ESSAY
+            / "symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md"
+        )
+        self.assertEqual(["§1 · narrative and learning spine"], source["main_source_for"])
+        self.assertIn("## Scholarly reading and worked material", body)
+        self.assertIn("## Historical reading spine", body)
+        self.assertIn("## Mathematical workbench", body)
 
     def test_source_and_passage_routes_converge_on_one_canonical_house(self):
-        with tempfile.TemporaryDirectory() as temp:
-            output = Path(temp) / "essay-okf"
-            self.build(output)
-            section = (
-                output / "sections/14-s1-p1-sunya-operational.md"
-            ).read_text(encoding="utf-8")
-            self.assertIn(
-                "[Colebrooke — Brahmagupta and Bhāskara (1817)]"
-                "(../references/sources/colebrooke-1817-brahmagupta-bhaskara.md)",
-                section,
-            )
-            self.assertIn("`colebrooke-1817-brahmagupta-bhaskara-q001`", section)
-            self.assertFalse((output / "references/quotes").exists())
+        section = (
+            ESSAY / "section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("colebrooke-1817-brahmagupta-bhaskara", section)
+        self.assertIn("`colebrooke-1817-brahmagupta-bhaskara-q001`", section)
+        house = (
+            ESSAY
+            / "symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md"
+        )
+        self.assertTrue(house.is_file())
+        self.assertIn(
+            '<a id="colebrooke-1817-brahmagupta-bhaskara-q001"></a>',
+            house.read_text(encoding="utf-8"),
+        )
 
     def test_reader_skills_use_only_the_shipped_bundle_contract(self):
         okf = (PACKAGE / "skills/okf-wiki/SKILL.md").read_text(encoding="utf-8")
@@ -189,14 +151,14 @@ class SubmissionPackageTests(unittest.TestCase):
         canon_readme = (PACKAGE / "resources/canon/README.md").read_text(encoding="utf-8")
 
         for text in (okf, walk, pedagogy):
-            self.assertIn("resources/essay-okf/index.md", text)
+            self.assertIn("symbolon/README.md", text)
         for text in (okf, walk, okf_format, okf_scan):
-            self.assertNotIn("essay-workshop/", text)
+            self.assertNotIn("working/", text)
             self.assertNotIn("quote-ledger.md", text)
         self.assertIn("quote_status", okf)
         for text in (bootstrap, pedagogy, readme):
             self.assertNotIn("SessionStart hook", text)
-        self.assertIn("resources/essay-okf/index.md", readme)
+        self.assertIn("symbolon/README.md", readme)
         self.assertNotIn("once regenerated", readme)
         for text in (bootstrap, pedagogy):
             self.assertNotIn("resources/persona/epii.md", text)

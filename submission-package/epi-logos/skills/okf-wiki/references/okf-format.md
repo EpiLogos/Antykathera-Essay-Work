@@ -1,6 +1,6 @@
 # OKF reader schema
 
-This is the portable schema used by the shipped `resources/essay-okf/index.md` bundle. Read `SKILL.md` for the traversal protocol.
+This is the portable schema used by the published essay body. Read `SKILL.md` for the traversal protocol.
 
 ## OKF core
 
@@ -25,6 +25,7 @@ The shipped essay uses these types:
 | `source-record` | Bibliographic identity, licensed use, readiness, and claim boundary |
 | `quote-dossier` | Passage transcription, locator, verification, relation, and use boundary |
 | `source-extraction` | Development provenance and quotation staging; never quotation authority |
+| `dialogue-record` | Provenance of an idea's formation through dialogue; never evidence. The citation/quotation gate does not apply: quotations of the dialogue are quotations of the conversation, never of the named works |
 | supporting document types | Included orientation, venue, method, or in-house material |
 | `index` | Bundle routing map |
 | `log` | Export history and source digest |
@@ -32,6 +33,7 @@ The shipped essay uses these types:
 ## Argument fields
 
 - `claim_status`: `Derived`, `Argued`, `Offered`, or `Open`. Relay it as written; never launder it upward.
+- `register`: `symbolon`, `matheme`, `mytheme`, `episteme`, or a declared cross-register composition (for example `matheme/mytheme`). It is the content's own anatomy, independent of node type; placement must match the operation the record performs. A record with no declared register is a register-census debt, not an opportunity to guess from folder placement.
 - `coordinates`: the node's essay station/position or other canonical coordinates. `#` is the Möbius parent, not P4. P and L families remain distinct.
 - `aperture`: calibrated contextual entry such as novice, expert, or prerequisite framing.
 - `analogia`: nodes said in relation to one structure. This marks focal relation, not identity or proof.
@@ -75,4 +77,4 @@ These fields make the export auditable. They do not require the reader to posses
 
 ## The gate in one line
 
-Orient at `resources/essay-okf/index.md` → follow links to the claim's complete argumentative neighbourhood → preserve `claim_status` → independently check source-record `citation_status` and dossier `quote_status` before attribution or quotation → cite the file and line range actually used.
+Orient at the essay package entry (`essay/README.md`; the field opens at `essay/symbolon/README.md`) → follow links to the claim's complete argumentative neighbourhood → preserve `claim_status` → independently check source-record `citation_status` and dossier `quote_status` before attribution or quotation → cite the file and line range actually used.

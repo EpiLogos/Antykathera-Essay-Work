@@ -22,9 +22,8 @@ from source_resolver import iter_source_houses, resolve_source_house
 
 
 PROJECT = Path(__file__).resolve().parents[1]
-DEFAULT_IDEAS = PROJECT / "essay-workshop/active-ideas.json"
-SOURCE_ROOT = Path("essay-workshop/sources-texts-references/source-bank/sources")
-SECTION_ROOT = Path("essay-workshop/nodes/sections")
+DEFAULT_IDEAS = PROJECT / "working/active-ideas.json"
+SOURCE_ROOT = Path("submission-package/essay/symbolon/episteme/sources")
 
 
 def now() -> str:
@@ -174,13 +173,18 @@ def passage(project: Path, passage_id: str) -> dict:
 
 
 def writing_context(project: Path, movement_id: str) -> dict:
-    path = project / SECTION_ROOT / f"{movement_id}.md"
-    if not path.is_file():
+    path = None
+    for candidate in (project / "submission-package/essay/section-rooms").glob("*/movements/*.md"):
+        if candidate.stem == movement_id:
+            path = candidate
+            break
+    if path is None:
         raise ValueError(f"unknown movement: {movement_id}")
     frontmatter, body = split_frontmatter(path.read_text(encoding="utf-8"))
     return {
         "movement_id": movement_id,
         "title": scalar(frontmatter, "title"),
+        "register": scalar(frontmatter, "register"),
         "claim_status": scalar(frontmatter, "claim_status"),
         "claim": section(body, "Movement thesis"),
         "warrant": section(body, "Formal payload"),
@@ -210,6 +214,7 @@ def copy_source_workspace(project: Path, destination: Path) -> None:
     shutil.copytree(source_bank, target_bank)
     (destination / "tools").mkdir()
     shutil.copy2(project / "tools/build-source-projections.py", destination / "tools")
+    shutil.copy2(project / "tools/source_resolver.py", destination / "tools")
 
 
 def evaluate(project: Path) -> dict:
@@ -256,7 +261,7 @@ def evaluate(project: Path) -> dict:
         disabled_note.write_text("attempted agent mutation\n", encoding="utf-8")
         disabled_note_hash = hashlib.sha256(disabled_note.read_bytes()).hexdigest()
 
-        idea_file = root / "essay-workshop/active-ideas.json"
+        idea_file = root / "working/active-ideas.json"
         idea_doc = {
             "version": 1,
             "ideas": [{
@@ -309,7 +314,7 @@ def evaluate(project: Path) -> dict:
         "protected-notes": protected.get("continue") is False and enabled_note_hash == original_hash,
         "canonical-propagation": completion.get("continue") is False,
         "active-idea-lifecycle": "idea-evaluation" in orientation_text,
-        "fresh-session-orientation": "Return of Zero project agent" in orientation_text,
+        "fresh-session-orientation": "Return of Zero orientation" in orientation_text,
     }
     disabled_checks = {
         **enabled_checks,

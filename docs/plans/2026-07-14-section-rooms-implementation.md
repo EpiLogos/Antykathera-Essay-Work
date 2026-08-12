@@ -67,8 +67,8 @@ Expected: all tests pass.
 ### Task 3: Generate the live section rooms
 
 **Files:**
-- Create: `Antykathera-Essay-Work/essay-workshop/section-rooms/README.md`
-- Generate: `Antykathera-Essay-Work/essay-workshop/section-rooms/<eight-room-directories>/**`
+- Create: `Antykathera-Essay-Work/submission-package/essay/section-rooms/README.md`
+- Generate: `Antykathera-Essay-Work/submission-package/essay/section-rooms/<eight-room-directories>/**`
 
 **Step 1: Run the builder against the real vault**
 
@@ -88,7 +88,7 @@ Hash the protected files, rerun the builder, and confirm the hashes are unchange
 
 **Files:**
 - Modify: `Antykathera-Essay-Work/CLAUDE.md`
-- Modify: `Antykathera-Essay-Work/essay-workshop/section-rooms/README.md`
+- Modify: `Antykathera-Essay-Work/submission-package/essay/section-rooms/README.md`
 
 **Step 1: Document room ownership**
 

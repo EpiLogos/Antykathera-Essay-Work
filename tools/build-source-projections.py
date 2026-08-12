@@ -212,7 +212,7 @@ def render(root: Path) -> dict[Path, bytes]:
     digest = hashlib.sha256(
         "\n".join(f"{source.source_id}:{source.sha256}" for source in sources).encode()
     ).hexdigest()
-    bank = root / "essay-workshop/sources-texts-references/source-bank"
+    bank = root / "submission-package/essay/symbolon/episteme/sources"
     outputs = {name: bank / name for name in OUTPUT_NAMES}
 
     main_rows: dict[str, list[tuple[Source, str]]] = {code: [] for code in SECTION_CODES}
@@ -245,7 +245,7 @@ def render(root: Path) -> dict[Path, bytes]:
         ]
     )
     for code, title, room in SECTIONS:
-        room_path = root / f"essay-workshop/section-rooms/{room}/ROOM.md"
+        room_path = root / f"submission-package/essay/section-rooms/{room}/ROOM.md"
         room_rel = Path(os.path.relpath(room_path, outputs["MAIN-SOURCES.md"].parent)).as_posix()
         main.extend([f"## {code} — {title}", "", f"[Open section room]({room_rel})", ""])
         rows = sorted(main_rows[code], key=lambda row: (row[0].title.casefold(), row[0].source_id))

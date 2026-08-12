@@ -13,8 +13,11 @@ import yaml
 
 
 PROJECT = Path(__file__).resolve().parents[1]
-BANK = PROJECT / "essay-workshop/sources-texts-references/source-bank"
+BANK = PROJECT / "submission-package/essay/symbolon/episteme/sources"
 SOURCES = BANK / "sources"
+
+sys.path.insert(0, str(PROJECT / "tools"))
+from source_resolver import iter_source_houses, resolve_source_house
 
 
 def frontmatter(path: Path) -> dict:
@@ -27,13 +30,12 @@ class CanonicalSourceTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
             copied_bank = (
-                root / "essay-workshop/sources-texts-references/source-bank"
+                root / "submission-package/essay/symbolon/episteme/sources"
             )
             shutil.copytree(BANK, copied_bank)
-            note = (
-                copied_bank
-                / "sources/kaplan-1999-nothing-that-is/NOTES.md"
-            )
+            house = resolve_source_house(root, "kaplan-1999-nothing-that-is")
+            self.assertIsNotNone(house)
+            note = house.parent / "NOTES.md"
             note.write_text(
                 "# Frank's notes\n\nA provisional quotation and an unfinished insight.\n",
                 encoding="utf-8",
@@ -56,7 +58,7 @@ class CanonicalSourceTests(unittest.TestCase):
             self.assertEqual(before, hashlib.sha256(note.read_bytes()).hexdigest())
 
     def test_every_source_has_one_clean_canonical_file(self) -> None:
-        paths = sorted(SOURCES.glob("*/SOURCE.md"))
+        paths = sorted(iter_source_houses(PROJECT))
         self.assertGreaterEqual(len(paths), 83)
         ids: set[str] = set()
         for path in paths:
@@ -85,7 +87,7 @@ class CanonicalSourceTests(unittest.TestCase):
 
     def test_all_projected_passages_resolve_once(self) -> None:
         ledger = (BANK / "PASSAGE-LEDGER.md").read_text(encoding="utf-8")
-        links = re.findall(r"\]\((sources/[^)#]+/SOURCE\.md)#([^)]+)\)", ledger)
+        links = re.findall(r"\]\(([^)#]+/SOURCE\.md)#([^)]+)\)", ledger)
         self.assertTrue(links)
         seen: set[str] = set()
         for relative, passage_id in links:
@@ -95,7 +97,9 @@ class CanonicalSourceTests(unittest.TestCase):
             self.assertEqual(1, text.count(f'<a id="{passage_id}"></a>'))
 
     def test_kaplan_contains_bibliography_passage_and_full_reading_material(self) -> None:
-        text = (SOURCES / "kaplan-1999-nothing-that-is/SOURCE.md").read_text(encoding="utf-8")
+        house = resolve_source_house(PROJECT, "kaplan-1999-nothing-that-is")
+        self.assertIsNotNone(house)
+        text = house.read_text(encoding="utf-8")
         for required in (
             "## Bibliographic identity",
             "## Chicago 18 forms",
@@ -110,7 +114,8 @@ class CanonicalSourceTests(unittest.TestCase):
             self.assertIn(required, text)
 
     def test_previously_missing_van_eenwyk_source_is_present(self) -> None:
-        path = SOURCES / "van-eenwyk-1991-strange-attractors/SOURCE.md"
+        path = resolve_source_house(PROJECT, "van-eenwyk-1991-strange-attractors")
+        self.assertIsNotNone(path)
         self.assertTrue(path.is_file())
         self.assertEqual("van-eenwyk-1991-strange-attractors", frontmatter(path)["source_id"])
 

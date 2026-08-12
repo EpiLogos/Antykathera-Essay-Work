@@ -75,7 +75,7 @@ end
 
 def canonical_sources(root)
   houses = {}
-  Dir.glob(File.join(root, 'essay-workshop/sources-texts-references/source-bank/sources/**/SOURCE.md')).sort.each do |path|
+  Dir.glob(File.join(root, 'submission-package/essay/symbolon/episteme/sources/**/SOURCE.md')).sort.each do |path|
     next if File.zero?(path)
     data, = frontmatter(path)
     id = data['source_id'].to_s
@@ -161,8 +161,15 @@ when 'records'
     records << [id, collection, rel, data['title'] || id, data['citation_status'], quote_status, '', Array(data['consumed_by_arguments']).join('; '), Digest::SHA256.file(path).hexdigest]
   end
 when 'arguments', 'sections', 'concepts'
-  subdir = collection
-  Dir.glob(File.join(root, "essay-workshop/nodes/#{subdir}/*.md")).sort.each do |path|
+  sources = case collection
+  when 'arguments'
+    Dir.glob(File.join(root, "submission-package/essay/section-rooms/arguments/*.md"))
+  when 'sections'
+    Dir.glob(File.join(root, "submission-package/essay/section-rooms/*/movements/*.md"))
+  when 'concepts'
+    Dir.glob(File.join(root, "submission-package/essay/symbolon/episteme/concepts/*.md"))
+  end
+  sources.sort.each do |path|
     data, body = frontmatter(path)
     title = data['title'] || File.basename(path, '.md')
     id = "#{collection}-#{File.basename(path, '.md')}"
@@ -176,7 +183,7 @@ when 'arguments', 'sections', 'concepts'
     records << [id, collection, rel, title, data['claim_status'] || data['status'], '', '', sources, Digest::SHA256.file(path).hexdigest]
   end
 when 'passages'
-  paths = Dir.glob(File.join(root, 'essay-workshop/sources-texts-references/source-bank/sources/**/SOURCE.md')).sort
+  paths = Dir.glob(File.join(root, 'submission-package/essay/symbolon/episteme/sources/**/SOURCE.md')).sort
   paths.each do |path|
     next if File.basename(path).start_with?('_')
     next if File.zero?(path)
@@ -204,7 +211,11 @@ when 'passages'
     end
   end
 when 'rooms'
-  all_rooms = Dir.glob(File.join(root, 'essay-workshop/section-rooms/**/*.md')).sort
+  all_rooms = Dir.glob(File.join(root, 'submission-package/essay/section-rooms/**/*.md')).sort
+  all_rooms = all_rooms.reject do |path|
+    parts = path.split(File::SEPARATOR)
+    parts.include?('movements') || parts.include?('arguments')
+  end
   migrated_rooms = all_rooms.select { |path| File.basename(path) == 'ROOM.md' }.map { |path| File.dirname(path) }.to_set
   all_rooms.each do |path|
     next if path.split(File::SEPARATOR).include?('legacy')

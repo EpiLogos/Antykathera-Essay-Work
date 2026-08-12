@@ -16,12 +16,12 @@ This protocol governs the passage from the ratified development canon to the ful
 
 The authority order remains:
 
-1. `essay-workshop/the-return-of-zero-central-plan.md` — sole structural authority;
-2. `essay-workshop/return-of-zero-orienting-principles.md` — mandatory orientation, subordinate to the plan;
+1. `the-return-of-zero-central-plan.md` — sole structural authority;
+2. `return-of-zero-orienting-principles.md` — mandatory orientation, subordinate to the plan;
 3. live section, argument, concept, history, and traversal records — granular argument;
 4. canonical source-house `SOURCE.md` files — evidence and source authority;
 5. Frank-authored source-house `NOTES.md` files — readable, never agent-writable;
-6. `essay-workshop/THE-RETURN-OF-ZERO.md` — sovereign manuscript;
+6. `submission-package/essay/THE-RETURN-OF-ZERO.md` — sovereign manuscript;
 7. this protocol — workflow and publication-shape authority, never argument authority;
 8. generated rooms, indexes, ledgers, databases, and exports — locators or refractions only.
 
@@ -29,9 +29,7 @@ Where this protocol and the central plan diverge about the argument, the central
 
 ## 2. The non-duplication principle
 
-The publication vault is the natural reorganisation of the work, not a generated likeness of it. A public record is therefore admitted by **ratifying and moving the record into its final place**, then updating its links, authority declarations, retrieval tools, and tests. It is not maintained as a second copy beside a supposedly more real internal original.
-
-During the transition, `essay-workshop/` remains canonical. No file becomes public authority merely because a similarly named file exists under `symbolon/`. When migration begins, each record receives one declared canonical home and the former path is retired or retained only as explicit frozen provenance. Source quotations are never duplicated as convenience copies; their public use points to one admissible source record with preserved provenance.
+The publication body is the natural reorganisation of the work, not a generated likeness of it, and it has **one home: `submission-package/essay/`**. A record is admitted by **moving the record into its final place**, then updating its links, authority declarations, retrieval tools, and tests. It is never maintained as a second copy beside a supposedly more real internal original. `working/` holds only non-publication development surfaces (ledgers, raw authorial shelves, legacy); nothing there is public authority because a similarly named file exists in the essay body. Source quotations are never duplicated as convenience copies; their public use points to one admissible source record with preserved provenance.
 
 ## 3. Publication ontology and repository shape
 
@@ -41,42 +39,33 @@ The repository has one ontological publication body and several sibling support 
 /
 ├── README.md
 ├── WRITING-PROTOCOL.md
-├── symbolon/
-│   ├── README.md
-│   ├── THE-RETURN-OF-ZERO.md          # after manuscript migration
-│   ├── 0-1.md
-│   ├── 1-0.md
-│   ├── the-slash.md
-│   ├── self-identity.md
-│   ├── mono-poly.md
-│   ├── complexio-oppositorum.md
-│   ├── eight-determinations.md
-│   ├── matheme/
-│   │   ├── ql/
-│   │   ├── spanda/
-│   │   ├── topology/
-│   │   ├── harmonics/
-│   │   ├── formal-neighbours/
-│   │   ├── computation/
-│   │   └── diagrams/
-│   ├── mytheme/
-│   │   ├── myth/
-│   │   ├── narrative/
-│   │   ├── poetry/
-│   │   ├── media/
-│   │   ├── art/
-│   │   ├── music/
-│   │   └── plates/
-│   └── episteme/
-│       ├── sources/
-│       ├── histories/
-│       ├── etymologies/
-│       ├── lenses/
-│       ├── maps/
-│       ├── dossiers/
-│       └── figures/
-├── essay-workshop/                    # development canon during transition
-├── submission-package/                # manifest, companion, cards, release support
+├── submission-package/
+│   └── essay/                         # THE publication body
+│       ├── README.md
+│       ├── THE-RETURN-OF-ZERO.md      # #5 the sovereign essay
+│       ├── section-rooms/             # #0 the rooms: arguments/ (0) + <room>/movements/ (1)
+│       └── symbolon/                  # #1–#4 the field
+│           ├── README.md
+│           ├── 0-1.md                 # root relations (census pending)
+│           ├── 1-0.md
+│           ├── the-slash.md
+│           ├── self-identity.md
+│           ├── mono-poly.md
+│           ├── complexio-oppositorum.md
+│           ├── eight-determinations.md
+│           ├── matheme/               # #2 exact operations
+│           ├── mytheme/               # #3 lived images
+│           └── episteme/              # #4 instituted knowledge
+│               ├── sources/
+│               ├── histories/
+│               ├── etymologies/
+│               ├── lenses/
+│               ├── maps/
+│               ├── dossiers/
+│               ├── figures/
+│               ├── concepts/
+│               └── dialogues/
+├── working/                           # non-publication development surfaces
 ├── writing-guidance-tools/
 ├── tools/
 └── tests/
@@ -86,15 +75,26 @@ The filenames shown for future Symbolon records express the required kind of dir
 
 There is **no `symbolon/relations/` directory**. `0/1`, `1/0`, the slash, self-identity, mono–poly, complexio oppositorum, the eight determinations, inversion, ground, mark, and return are the direct work of Symbolon and sit at its root. Introducing another container between Symbolon and these relations would turn the relation itself into a category beneath an index and would misstate the mathematics.
 
+The rooms and the essay sit **parallel to the symbolon root, not inside it**. The publication-level sixfold is the 4+2, and its offices are fixed:
+
+- `#0` — the rooms. Each room holds its six movements (`movements/`, the determinate `1`s) with the shared argument field (`arguments/`, the implicate `0`) — a nested `0/1` at the heart of the book.
+- `#1` — **Symbolon**, the root relation and its inner nature.
+- `#2` — **Matheme**, the exact operations.
+- `#3` — **Mytheme**, the lived images.
+- `#4` — **Episteme**, the instituted knowledge.
+- `#5` — the essay, the full singular written reflection of the structured section-and-argument potential.
+
+The four (`#1`–`#4`), through inference, increase the value of the rooms (`#0`): each field record is recovered at its operation and carried into the room, so the room's section-and-argument structure grows in value; the enriched rooms improve how the essay operates; and the same enriched rooms are what let the inner stacks under `#1`–`#4` be generated file by file as the holographic world of the piece. The essay then returns the whole to the field. This is the operational loop the repo itself enacts — `0/1 = 4+2 = 5→0 = 1/0` — and it governs both the writing protocol and the agent skills, not only the folder map.
+
 The three descending registers are:
 
 - **Matheme** — the Spanda equations, QL derivations, formal notation, topology, harmonic and projective constructions, proof boundaries, and worked mathematical foundations.
 - **Mytheme** — narrative, myth, poems, artistic operations, media references, cultural figures, and the forms through which a relation becomes liveable or perceptible.
-- **Episteme** — source records, histories, etymologies, MEF lenses, essay and argument maps, comparative dossiers, evidence qualifications, and scholarly routes.
+- **Episteme** — source records, histories, etymologies, MEF lenses, essay and argument maps, comparative dossiers, evidence qualifications, concept nodes, dialogue records, and scholarly routes.
 
 Symbolon does not become a fourth topical bucket beside these three. It is their holding relation and return. Its root records carry the operations by which the registers belong to one work without collapsing into one another.
 
-The writing protocol remains at repository root. It governs Symbolon but is not Symbolon-content. Submission machinery, the reader companion, Epi-Card, validation reports, and release manifests also remain outside the `symbolon/` chain. Media remains beside its governing record: formal assets in `matheme/diagrams/`, composed imaginal assets in `mytheme/plates/`, and evidential visualisations in `episteme/figures/`.
+The writing protocol remains at repository root. It governs the essay body but is not essay content. Submission machinery, the reader companion, Epi-Card, validation reports, and release manifests also remain outside the `symbolon/` chain inside `submission-package/essay/`. Media remains beside its governing record: formal assets in `matheme/diagrams/`, composed imaginal assets in `mytheme/plates/`, and evidential visualisations in `episteme/figures/`.
 
 ## 4. Record identity, node type, and register
 
@@ -108,6 +108,8 @@ Folder placement does not replace record identity. Every admitted record declare
 - its canonical status and public status;
 - exact essay and argument targets;
 - outgoing and return relations.
+
+Register is the **admission-and-return channel**, not a filing label: it is how polyvalent detail from across the field maps back into the sections with precision, and how records that live outside the essay return to exact essay locations. A movement or argument declares the register composition it admits and carries — a station may draw on matheme, mytheme, and episteme at once — and every depth record outside the essay names its register boundary and its route of return to the precise essay block. That outward-and-return movement is the holographic nature of the piece, enacted by the vault rather than only described by it.
 
 The ontology carries the content by determining the record's home and relation. It does not erase the historical and argumentative node types that make that content intelligible.
 
@@ -274,6 +276,17 @@ For each movement:
 10. after the full draft, perform a cold whole-work read before any branch comparison.
 
 Freshness is functional, not theatrical. A new agent or context receives the canonical packet and necessary adjacent prose, but not the drafting agent's self-justification or fault explanations. A section agent may propose prose or a patch; the branch owner admits it only after reading it in the whole. A seam reader judges what the reader actually receives. A whole-work reader judges the complete essay as one piece.
+
+### The pre-write contemplation gate
+
+No write wave begins on machinery alone. At the threshold of every write wave — each station batch, register batch, or manuscript room — the orchestrating agent and Frank hold a brief joint contemplation before any drafting starts:
+
+1. the agent presents the wave brief: the packet manifest (movements in scope, station-ledger rows, controlling arguments, source readiness, transverse threads), the section's register-envelope table (tone contract and prose envelopes — equal depth across all stations, differing in tone and register, never in weight), and the open debts the wave must close or explicitly carry;
+2. Frank and the agent consider the brief together — what the section is for, what it must not say yet, where its difficulty sits, what the venue-facing constraints demand — until the wave's intent can be stated in one breath that both parties accept;
+3. the accepted intent is minuted (wave key, date, the one-breath intent, any redispatch of scope) into the working ledger, and the minute travels with the wave's packets to every writing subagent;
+4. only then does drafting begin.
+
+The gate is contemplative, not administrative. A section drafted without shared presence to its purpose can pass every mechanical check and still miss what it was for. The gate is one exchange at a threshold; it is cheap and it is not waivable. A wave that begins without its minute fails verification (§17).
 
 ## 10. Writing laws and rubric load order
 
@@ -466,7 +479,7 @@ Deleting a private file in a later commit does not remove it from public history
 The public repository contains only what a reader or reviewer needs:
 
 - root orientation and the writing protocol;
-- the `symbolon/` vault;
+- the `symbolon/` field inside `submission-package/essay/`;
 - admitted assets and rights information;
 - the submission manifest and genuinely submitted companion or card systems;
 - minimal validation and publication tooling where it is part of the submitted work.
@@ -481,14 +494,16 @@ The work is ready for publication only when all of the following are true:
 
 - the essay is complete and self-sufficient as one linear work;
 - every movement preserves its inherited proposition, local operation, and outgoing transformation;
+- every write wave carries its pre-write contemplation-gate minute (§9);
 - withholdings arrive where earned;
 - no evidence debt has softened or replaced the declared argument;
 - the full rubric and comparative-negation gates pass after the final revision.
 
 ### Ontology and navigation
 
-- Symbolon root relations live directly at `symbolon/`;
+- Symbolon root relations live directly at `submission-package/essay/symbolon/`;
 - Matheme, Mytheme, and Episteme contain records whose actual operation matches their placement;
+- the sovereign essay and the rooms sit parallel to the symbolon root as the publication 4+2, and no essay or room record is filed inside the field;
 - node type and register remain independent metadata;
 - every depth record points to exact essay or argument locations and provides a route back;
 - all wikilinks, embeds, backlinks, headings, and block references resolve;
@@ -515,15 +530,17 @@ The work is ready for publication only when all of the following are true:
 
 As of 2026-08-05:
 
-- the ontology-led `symbolon/` vault exists;
+- the ontology-led `symbolon/` field exists inside `submission-package/essay/`, with the rooms and the sovereign essay beside it as the publication `#0` and `#5`;
 - Symbolon has no `relations/` layer and no separate `INDEX.md`;
+- rooms and the essay sit parallel to the symbolon root as the publication 4+2; concept nodes and dialogue records have declared homes under `episteme/`;
 - Matheme, Mytheme, and Episteme have complete functional domain trees and record contracts;
+- OKF is a formatter/validator over the vault, not a generator; the writing protocol generates the files, and the generated `essay-okf` bundle is a retired, backwards artifact with no authority;
 - this protocol is the live publication and writing workflow;
 - the previous 2026-07-29 published-vault specification is retained only as design provenance;
-- the [current plain-English full flow](essay-workshop/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md) gives the corrected argument in reader-facing form;
-- the [parallel harmonised quilt](essay-workshop/2026-08-02-PARALLEL-HARMONISED-QUILT.md) is the sole completed pre-propagation ledger;
+- the [current plain-English full flow](2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md) gives the corrected argument in reader-facing form;
+- the [parallel harmonised quilt](2026-08-02-PARALLEL-HARMONISED-QUILT.md) is the sole completed pre-propagation ledger;
 - the central plan and granular nodes remain canonical and have not yet received the quilt's prospective changes;
 - the GitHub remote is live and `main` is the shared preliminary state;
 - no model-writing branch should be cut from this pre-ratification base.
 
-The next content gate is Frank's complete review of the 48 movements for order, focus, carrier hierarchy, source depth, recurrence, and hand-off. Accepted changes then land in the central plan, propagate through the granular canon, and close with regeneration and source checks. Quilt-dependent migration into `symbolon/` and equal-base model drafting begin only from the resulting ratified commit.
+The next content gate is Frank's complete review of the 48 movements for order, focus, carrier hierarchy, source depth, recurrence, and hand-off. Accepted changes then land in the central plan, propagate through the granular canon, and close with regeneration and source checks. Equal-base model drafting begins only from the resulting ratified commit.

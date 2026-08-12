@@ -28,10 +28,10 @@ No one of these documents substitutes for the others. The voice and style refere
 
 The tools apply to authored prose in:
 
-- `essay-workshop/the-return-of-zero-central-plan.md`;
-- `essay-workshop/nodes/sections/`;
-- `essay-workshop/nodes/arguments/`;
-- `essay-workshop/sources-texts-references/10-7-2026-core-theorems-pithy.md` and any other live in-house theorem spine;
+- `the-return-of-zero-central-plan.md`;
+- `working/nodes/sections/`;
+- `submission-package/essay/section-rooms/arguments/`;
+- `working/sources-texts-references/10-7-2026-core-theorems-pithy.md` and any other live in-house theorem spine;
 - source-bank summaries, licensed uses, boundaries, and editorial annotations;
 - submission prose, captions, plate commentary, and public-facing index material.
 

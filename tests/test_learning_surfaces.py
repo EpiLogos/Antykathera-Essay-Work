@@ -9,13 +9,18 @@ import yaml
 
 
 PROJECT = Path(__file__).resolve().parents[1]
-KAPLAN = PROJECT / "essay-workshop/sources-texts-references/source-bank/sources/kaplan-1999-nothing-that-is/SOURCE.md"
-COLEBROOKE = PROJECT / "essay-workshop/sources-texts-references/source-bank/sources/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md"
-THRESHOLD_READING = PROJECT / "essay-workshop/section-rooms/00-integral-threshold/READING.md"
-ZERO_READING = PROJECT / "essay-workshop/section-rooms/02-return-of-zero/READING.md"
-ZERO_ROOM = PROJECT / "essay-workshop/section-rooms/02-return-of-zero/ROOM.md"
-MANUSCRIPT = PROJECT / "essay-workshop/THE-RETURN-OF-ZERO.md"
-RAW_KAPLAN_NOTE = PROJECT / "essay-workshop/sources-texts-references/The Nothing That Is - Robert Kaplan.md"
+THRESHOLD_READING = PROJECT / "submission-package/essay/section-rooms/00-integral-threshold/READING.md"
+ZERO_READING = PROJECT / "submission-package/essay/section-rooms/02-return-of-zero/READING.md"
+ZERO_ROOM = PROJECT / "submission-package/essay/section-rooms/02-return-of-zero/ROOM.md"
+MANUSCRIPT = PROJECT / "submission-package/essay/THE-RETURN-OF-ZERO.md"
+RAW_KAPLAN_NOTE = PROJECT / "working/sources-texts-references/The Nothing That Is - Robert Kaplan.md"
+
+sys.path.insert(0, str(PROJECT / "tools"))
+from source_resolver import resolve_source_house
+
+
+KAPLAN = resolve_source_house(PROJECT, "kaplan-1999-nothing-that-is")
+COLEBROOKE = resolve_source_house(PROJECT, "colebrooke-1817-brahmagupta-bhaskara")
 
 
 def parse_markdown(path: Path) -> tuple[dict, str]:
@@ -91,7 +96,7 @@ class LearningSurfaceContractTests(unittest.TestCase):
         self.assertIn("PDF pp. 435–436", body)
 
     def test_two_admitted_reading_routes_are_human_routes_with_resolvable_sources(self) -> None:
-        routes = sorted((PROJECT / "essay-workshop/section-rooms").glob("*/READING.md"))
+        routes = sorted((PROJECT / "submission-package/essay/section-rooms").glob("*/READING.md"))
         self.assertEqual(routes, [THRESHOLD_READING, ZERO_READING])
         for path in routes:
             frontmatter, body = parse_markdown(path)
@@ -154,7 +159,8 @@ class LearningSurfaceContractTests(unittest.TestCase):
         self.assertEqual(body.count("**Carry:**"), 6)
         for quote_id in expected_quote_ids:
             source_id = quote_id.rsplit("-q", 1)[0]
-            source_house = PROJECT / f"essay-workshop/sources-texts-references/source-bank/sources/{source_id}/SOURCE.md"
+            source_house = resolve_source_house(PROJECT, source_id)
+            self.assertIsNotNone(source_house, source_id)
             self.assertIn(f"#{quote_id}", body)
             self.assertTrue(fragment_resolves(source_house, quote_id), quote_id)
         for learning_detail in (

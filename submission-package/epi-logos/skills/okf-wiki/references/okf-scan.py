@@ -12,6 +12,7 @@ Usage:
     okf-scan.py ROOT --type reference   # only nodes of this type
     okf-scan.py ROOT --coord P4         # only nodes whose coordinates include P4
     okf-scan.py ROOT --status Offered   # only nodes with this claim_status
+    okf-scan.py ROOT --register matheme # only nodes declaring this register
     okf-scan.py ROOT --unverified       # reference nodes whose verification_status != verified
     okf-scan.py ROOT --dangling         # only the dangling-link report
 
@@ -57,6 +58,7 @@ def parse_frontmatter(text):
         return []
     fm['type'] = scalar('type') or scalar('node_type') or scalar('page_type') or '?'
     fm['title'] = scalar('title')
+    fm['register'] = scalar('register')
     fm['coordinates'] = listvals('coordinates')
     fm['aliases'] = listvals('aliases')
     fm['claim_status'] = scalar('claim_status')
@@ -108,10 +110,11 @@ def main():
     f_type = flagval2('type')
     f_coord = flagval2('coord')
     f_status = flagval2('status')
+    f_register = flagval2('register')
     only_unverified = '--unverified' in flags
     only_dangling = '--dangling' in flags
     # a value consumed by --type/--coord/--status is not a root
-    consumed = {v for v in (f_type, f_coord, f_status) if v}
+    consumed = {v for v in (f_type, f_coord, f_status, f_register) if v}
     roots = [r for r in roots if r not in consumed] or ['.']
 
     nodes = []            # (relpath, fm, [links])
@@ -151,6 +154,8 @@ def main():
             return False
         if f_status and norm(fm.get('claim_status') or '') != norm(f_status):
             return False
+        if f_register and norm(fm.get('register') or '') != norm(f_register):
+            return False
         if only_unverified:
             if norm(fm.get('type') or '') != norm('reference'):
                 return False
@@ -186,6 +191,12 @@ def main():
         print(f"  {n:>4}  {t}")
     print()
 
+    by_register = Counter((fm.get('register') or 'undeclared') for _, fm, _ in shown)
+    print("## by register")
+    for r, n in by_register.most_common():
+        print(f"  {n:>4}  {r}")
+    print()
+
     print("## nodes  (id · type · coordinates · status)")
     for rel, fm, lk in sorted(shown, key=lambda x: x[0]):
         ident = os.path.splitext(os.path.basename(rel))[0]
@@ -193,13 +204,14 @@ def main():
         status = fm.get('claim_status') or fm.get('verification_status') or fm.get('source_status') or "—"
         extra = []
         if fm.get('tier'): extra.append(f"tier {fm['tier']}")
+        if fm.get('register'): extra.append(f"register {fm['register']}")
         if fm.get('has_aperture'): extra.append("aperture")
         if fm.get('has_analogia'): extra.append("analogia")
         tail = ("  [" + " · ".join(extra) + "]") if extra else ""
         print(f"  {ident:<40} {str(fm.get('type') or '?'):<10} {coords:<22} {status}{tail}")
     print()
 
-    if dangling and not (f_type or f_coord or f_status or only_unverified):
+    if dangling and not (f_type or f_coord or f_status or f_register or only_unverified):
         print(f"## dangling links  ({len(dangling)} distinct — run --dangling for detail)")
         for t in sorted(dangling, key=str.lower)[:12]:
             print(f"  [[{t}]]  ({len(dangling[t])}x)")

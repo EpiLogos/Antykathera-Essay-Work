@@ -35,16 +35,14 @@ class CompactRoomAuditTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temporary:
             copy = Path(temporary) / "Antykathera-Essay-Work"
             for relative in (
-                "essay-workshop/nodes/sections",
-                "essay-workshop/nodes/arguments",
-                "essay-workshop/section-rooms/02-return-of-zero",
-                "essay-workshop/sources-texts-references/source-bank/sources",
+                "submission-package/essay/section-rooms",
+                "submission-package/essay/symbolon/episteme/sources",
             ):
                 shutil.copytree(PROJECT / relative, copy / relative)
             for relative in (
-                "essay-workshop/the-return-of-zero-central-plan.md",
-                "essay-workshop/THE-RETURN-OF-ZERO.md",
-                "essay-workshop/section-rooms/README.md",
+                "the-return-of-zero-central-plan.md",
+                "submission-package/essay/THE-RETURN-OF-ZERO.md",
+                "submission-package/essay/section-rooms/README.md",
             ):
                 target = copy / relative
                 target.parent.mkdir(parents=True, exist_ok=True)
@@ -52,8 +50,9 @@ class CompactRoomAuditTests(unittest.TestCase):
             tools = copy / "tools"
             tools.mkdir(parents=True, exist_ok=True)
             shutil.copy2(BUILDER, tools / BUILDER.name)
+            shutil.copy2(PROJECT / "tools/source_resolver.py", tools / "source_resolver.py")
 
-            room = copy / "essay-workshop/section-rooms/02-return-of-zero/ROOM.md"
+            room = copy / "submission-package/essay/section-rooms/02-return-of-zero/ROOM.md"
             room.write_text(room.read_text(encoding="utf-8") + "\n> fabricated room quotation\n", encoding="utf-8")
             result = self.run_audit(copy, ok=False)
             self.assertNotEqual(result.returncode, 0)
@@ -64,16 +63,14 @@ class CompactRoomAuditTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temporary:
             copy = Path(temporary) / "Antykathera-Essay-Work"
             for relative in (
-                "essay-workshop/nodes/sections",
-                "essay-workshop/nodes/arguments",
-                "essay-workshop/section-rooms/00-integral-threshold",
-                "essay-workshop/sources-texts-references/source-bank/sources",
+                "submission-package/essay/section-rooms",
+                "submission-package/essay/symbolon/episteme/sources",
             ):
                 shutil.copytree(PROJECT / relative, copy / relative)
             for relative in (
-                "essay-workshop/the-return-of-zero-central-plan.md",
-                "essay-workshop/THE-RETURN-OF-ZERO.md",
-                "essay-workshop/section-rooms/README.md",
+                "the-return-of-zero-central-plan.md",
+                "submission-package/essay/THE-RETURN-OF-ZERO.md",
+                "submission-package/essay/section-rooms/README.md",
             ):
                 target = copy / relative
                 target.parent.mkdir(parents=True, exist_ok=True)
@@ -81,8 +78,9 @@ class CompactRoomAuditTests(unittest.TestCase):
             tools = copy / "tools"
             tools.mkdir(parents=True, exist_ok=True)
             shutil.copy2(BUILDER, tools / BUILDER.name)
+            shutil.copy2(PROJECT / "tools/source_resolver.py", tools / "source_resolver.py")
 
-            reading = copy / "essay-workshop/section-rooms/00-integral-threshold/READING.md"
+            reading = copy / "submission-package/essay/section-rooms/00-integral-threshold/READING.md"
             reading.write_text(
                 reading.read_text(encoding="utf-8").replace("**Exercise:**", "**Exercise removed:**", 1),
                 encoding="utf-8",

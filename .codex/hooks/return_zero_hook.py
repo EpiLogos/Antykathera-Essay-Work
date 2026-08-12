@@ -12,7 +12,7 @@ import subprocess
 import sys
 
 
-SOURCE_NOTES = Path("essay-workshop/sources-texts-references/source-bank/sources")
+SOURCE_NOTES = Path("submission-package/essay/symbolon/episteme/sources")
 
 
 def project_root(event: dict) -> Path:
@@ -45,7 +45,7 @@ def tool_key(event: dict) -> str:
 
 def notes(root: Path) -> list[Path]:
     base = root / SOURCE_NOTES
-    return sorted(base.glob("*/NOTES.md")) if base.is_dir() else []
+    return sorted(base.rglob("NOTES.md")) if base.is_dir() else []
 
 
 def could_touch_notes(event: dict) -> bool:
@@ -61,7 +61,7 @@ def could_touch_notes(event: dict) -> bool:
         for path in (
             "source-bank/sources",
             "sources-texts-references",
-            "essay-workshop",
+            "submission-package/essay/quilt",
         )
     )
     return destructive and protected_parent
@@ -115,7 +115,7 @@ def post_tool(event: dict, root: Path) -> dict:
 
 
 def active_idea_context(root: Path) -> str:
-    path = root / "essay-workshop/active-ideas.json"
+    path = root / "working/active-ideas.json"
     if not path.is_file():
         return ""
     try:
@@ -140,9 +140,9 @@ def session_start(root: Path) -> dict:
         "way of extending it; do not approach it as a blank topic to be made safe or simplified. "
         "AGENTS.md governs the work. Before canonical work, read it, then the appropriate local "
         "workflow in .agents/skills (orient, source, write, or review). Before touching a section, "
-        "argument, room, or dossier, also read essay-workshop/return-of-zero-orienting-principles.md "
+        "argument, room, or dossier, also read return-of-zero-orienting-principles.md "
         "and recover the governing canonical body; the central plan is structural authority and "
-        "essay-workshop/THE-RETURN-OF-ZERO.md is the sovereign manuscript. \n\n"
+        "submission-package/essay/THE-RETURN-OF-ZERO.md is the sovereign manuscript. \n\n"
         "Work from Frank's declared proposition, its register, and its unresolved pressure. Let sources "
         "deepen, test, historicise, or qualify that movement; do not let an evidence debt replace it with "
         "a safer neighbouring claim. Preserve the exact operation across formal, phenomenological, "

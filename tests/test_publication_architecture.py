@@ -7,7 +7,7 @@ import yaml
 
 
 PROJECT = Path(__file__).resolve().parents[1]
-SYMBOLON = PROJECT / "symbolon"
+SYMBOLON = PROJECT / "submission-package/essay/symbolon"
 WIKILINK = re.compile(r"\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]")
 
 
@@ -39,6 +39,8 @@ class PublicationArchitectureTests(unittest.TestCase):
             "maps",
             "dossiers",
             "figures",
+            "concepts",
+            "dialogues",
         },
     }
 
@@ -123,9 +125,9 @@ class PublicationArchitectureTests(unittest.TestCase):
         self.assertEqual("WRITING-PROTOCOL.md", manifest["current_specification"])
 
         artifacts = {artifact["id"]: artifact for artifact in manifest["artifacts"]}
-        self.assertEqual("symbolon/", artifacts["published-vault"]["path"])
+        self.assertEqual("submission-package/essay/", artifacts["published-vault"]["path"])
         self.assertEqual(
-            "content-architecture-present-core-record-migration-pending",
+            "one-home-canonical-body",
             artifacts["published-vault"]["status"],
         )
         self.assertEqual("WRITING-PROTOCOL.md", artifacts["writing-protocol"]["path"])
@@ -148,12 +150,24 @@ class PublicationArchitectureTests(unittest.TestCase):
         self.assertIn("Superseded by:** `../WRITING-PROTOCOL.md`", old)
 
     def test_every_symbolon_wikilink_resolves_inside_the_vault(self):
+        import importlib.util
+        import sys
+
+        spec = importlib.util.spec_from_file_location(
+            "return_of_zero_workspace", PROJECT / "tools/okf-workspace.py"
+        )
+        module = importlib.util.module_from_spec(spec)
+        sys.modules[spec.name] = module
+        spec.loader.exec_module(module)
+        workspace = module.Workspace(PROJECT)
         for path in SYMBOLON.rglob("*.md"):
+            if "reference-notes" in path.parts or path.name == "AUTHORIAL-TEXT.md":
+                continue  # quilt-pending working shelf, not vault content
             for target in WIKILINK.findall(path.read_text(encoding="utf-8")):
-                candidate = path.parent / target
-                if candidate.suffix != ".md":
-                    candidate = candidate.with_suffix(".md")
-                self.assertTrue(candidate.resolve().is_file(), f"{path}: [[{target}]]")
+                try:
+                    workspace.resolve(target.replace("\\", ""))
+                except KeyError:
+                    self.fail(f"{path}: [[{target}]]")
 
 
 if __name__ == "__main__":

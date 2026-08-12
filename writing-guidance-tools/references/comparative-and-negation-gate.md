@@ -66,9 +66,9 @@ Keep negation when the limit itself supplies content. Examples include the unobj
 Run from `Antykathera-Essay-Work/`. These searches produce candidates, never automatic violations.
 
 ```bash
-rg -n --glob '*.md' --glob '!**/The_Doctrine_of_Vibration_Pages_60-85.md' --pcre2 '(?i)\b(?:is|are|was|were|does|do|did|can|could|means?)\s+not\b[^.!?\n]{0,140}\bbut\b|\bnot\s+(?:merely|simply|only|just)\b|\bnot\s+as\b[^.!?\n]{0,140}\bbut\s+as\b' essay-workshop/the-return-of-zero-central-plan.md essay-workshop/nodes/sections essay-workshop/nodes/arguments essay-workshop/sources-texts-references/source-bank/records essay-workshop/sources-texts-references/10-7-2026-core-theorems-pithy.md
+rg -n --glob '*.md' --glob '!**/The_Doctrine_of_Vibration_Pages_60-85.md' --pcre2 '(?i)\b(?:is|are|was|were|does|do|did|can|could|means?)\s+not\b[^.!?\n]{0,140}\bbut\b|\bnot\s+(?:merely|simply|only|just)\b|\bnot\s+as\b[^.!?\n]{0,140}\bbut\s+as\b' the-return-of-zero-central-plan.md working/nodes/sections working/nodes/arguments submission-package/essay/symbolon/episteme/sources/records working/sources-texts-references/10-7-2026-core-theorems-pithy.md
 
-rg -n --glob '*.md' --glob '!**/The_Doctrine_of_Vibration_Pages_60-85.md' --pcre2 '^(?:This|That|It|The [^.!?]{1,80})\s+(?:is|are|was|were|does|do|means?)\s+not\b' essay-workshop/the-return-of-zero-central-plan.md essay-workshop/nodes/sections essay-workshop/nodes/arguments essay-workshop/sources-texts-references/source-bank/records essay-workshop/sources-texts-references/10-7-2026-core-theorems-pithy.md
+rg -n --glob '*.md' --glob '!**/The_Doctrine_of_Vibration_Pages_60-85.md' --pcre2 '^(?:This|That|It|The [^.!?]{1,80})\s+(?:is|are|was|were|does|do|means?)\s+not\b' the-return-of-zero-central-plan.md working/nodes/sections working/nodes/arguments submission-package/essay/symbolon/episteme/sources/records working/sources-texts-references/10-7-2026-core-theorems-pithy.md
 ```
 
 Then inspect ordinary `not`, `rather than`, `instead of`, `unlike`, and `whereas` by eye. Automated replacement is forbidden because quoted language and formal negation are part of the evidence.

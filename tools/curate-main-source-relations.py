@@ -11,6 +11,9 @@ from pathlib import Path
 
 import yaml
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from source_resolver import iter_source_houses
+
 
 RELATIONS: dict[str, list[str]] = {
     "bratton-2026-agentworld-brief": [
@@ -137,8 +140,7 @@ def render(data: dict, body: str) -> str:
 
 
 def expected_outputs(root: Path) -> dict[Path, str]:
-    source_root = root / "essay-workshop" / "sources-texts-references" / "source-bank" / "sources"
-    houses = {path.parent.name: path for path in source_root.glob("*/SOURCE.md")}
+    houses = {path.parent.name: path for path in iter_source_houses(root)}
     missing = sorted(set(RELATIONS) - set(houses))
     if missing:
         raise ValueError("main-source relation names missing houses: " + ", ".join(missing))

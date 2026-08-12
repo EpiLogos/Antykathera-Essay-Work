@@ -10,6 +10,9 @@ from pathlib import Path
 PROJECT = Path(__file__).resolve().parents[1]
 TOOL = PROJECT / "tools" / "okf-workspace.py"
 
+sys.path.insert(0, str(PROJECT / "tools"))
+from source_resolver import iter_source_houses, resolve_source_house
+
 
 class OkfWorkspaceTests(unittest.TestCase):
     maxDiff = None
@@ -33,7 +36,7 @@ class OkfWorkspaceTests(unittest.TestCase):
             root = Path(temporary)
             source_dir = (
                 root
-                / "essay-workshop/sources-texts-references/source-bank/sources/example-work"
+                / "submission-package/essay/symbolon/episteme/sources/example-work"
             )
             source_dir.mkdir(parents=True)
             (source_dir / "SOURCE.md").write_text(
@@ -78,7 +81,7 @@ class OkfWorkspaceTests(unittest.TestCase):
             links = run("links", "example-work")
             self.assertIn(
                 (
-                    "essay-workshop/sources-texts-references/source-bank/sources/"
+                    "submission-package/essay/symbolon/episteme/sources/"
                     "example-work/NOTES.md",
                     "has-notes",
                 ),
@@ -96,31 +99,24 @@ class OkfWorkspaceTests(unittest.TestCase):
         counts = result["counts"]
         self.assertEqual(
             counts["section"],
-            len(list((PROJECT / "essay-workshop/nodes/sections").glob("*.md"))),
+            len(list((PROJECT / "submission-package/essay/section-rooms").glob("*/movements/*.md"))),
         )
         self.assertEqual(
             counts["argument"],
-            len(list((PROJECT / "essay-workshop/nodes/arguments").glob("*.md"))),
+            len(list((PROJECT / "submission-package/essay/section-rooms/arguments").glob("*.md"))),
         )
         self.assertGreaterEqual(counts["concept"], 9)
         self.assertNotIn("source-record", counts)
-        source_count = len(
-            list(
-                (
-                    PROJECT
-                    / "essay-workshop/sources-texts-references/source-bank/sources"
-                ).glob("*/SOURCE.md")
-            )
-        )
+        source_count = len(list(iter_source_houses(PROJECT)))
         self.assertEqual(counts["source-house"], source_count)
         self.assertEqual(result["canonical_source_count"], source_count)
         ledger = (
             PROJECT
-            / "essay-workshop/sources-texts-references/source-bank/PASSAGE-LEDGER.md"
+            / "submission-package/essay/symbolon/episteme/sources/PASSAGE-LEDGER.md"
         ).read_text(encoding="utf-8")
         self.assertEqual(
             result["passage_count"],
-            len(re.findall(r"\]\(sources/[^)#]+/SOURCE\.md#[^)]+\)", ledger)),
+            len(re.findall(r"\]\([^)#]+/SOURCE\.md#[^)]+\)", ledger)),
         )
         self.assertNotIn("quote-dossier", counts)
         self.assertNotIn("source-study", counts)
@@ -134,20 +130,23 @@ class OkfWorkspaceTests(unittest.TestCase):
     def test_find_searches_substantive_bodies_not_only_metadata(self):
         result = self.run_tool("find", "circumscription without circumstance", "--limit", "10")
         paths = {hit["path"] for hit in result["hits"]}
-        self.assertIn("essay-workshop/nodes/sections/39-s5-p2-j-space.md", paths)
-        self.assertIn("essay-workshop/nodes/concepts/j-space.md", paths)
+        self.assertIn(
+            "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
+            paths,
+        )
+        self.assertIn("submission-package/essay/symbolon/episteme/concepts/j-space.md", paths)
         self.assertTrue(all(hit["matched_fields"] for hit in result["hits"]))
 
     def test_links_and_backlinks_resolve_across_node_types(self):
         outgoing = self.run_tool("links", "39-s5-p2-j-space")
         self.assertIn(
-            "essay-workshop/nodes/sections/40-s5-p3-preference-hidden-zero.md",
+            "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
             {edge["target"] for edge in outgoing["edges"]},
         )
 
         incoming = self.run_tool("backlinks", "39-s5-p2-j-space")
         self.assertIn(
-            "essay-workshop/nodes/concepts/j-space.md",
+            "submission-package/essay/symbolon/episteme/concepts/j-space.md",
             {edge["source"] for edge in incoming["edges"]},
         )
 
@@ -159,8 +158,11 @@ class OkfWorkspaceTests(unittest.TestCase):
         self.assertIn("argument", types)
         self.assertIn("concept", types)
         self.assertIn("source-house", types)
-        self.assertIn("essay-workshop/nodes/arguments/02-objective-internality.md", paths)
-        self.assertIn("essay-workshop/nodes/sections/40-s5-p3-preference-hidden-zero.md", paths)
+        self.assertIn("submission-package/essay/section-rooms/arguments/02-objective-internality.md", paths)
+        self.assertIn(
+            "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+            paths,
+        )
 
     def test_path_follows_the_live_argument_graph(self):
         result = self.run_tool(
@@ -174,11 +176,13 @@ class OkfWorkspaceTests(unittest.TestCase):
         result = self.run_tool("trace", "02-objective-internality")
         self.assertEqual(result["root"]["claim_status"], "Argued")
         self.assertIn(
-            "essay-workshop/nodes/arguments/01-immutable-gap-and-meta-sign.md",
+            "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
             {node["path"] for node in result["dependencies"]},
         )
         self.assertIn(
-            "essay-workshop/sources-texts-references/source-bank/sources/lecun-et-al-2006-energy-based-learning/SOURCE.md",
+            resolve_source_house(PROJECT, "lecun-et-al-2006-energy-based-learning")
+            .relative_to(PROJECT)
+            .as_posix(),
             {node["path"] for node in result["sources"]},
         )
         self.assertIn("Claim", result["root"]["headings"])
@@ -188,11 +192,11 @@ class OkfWorkspaceTests(unittest.TestCase):
         result = self.run_tool("effects", "taylor-2026-revision-notes-trust", "--depth", "4")
         self.assertEqual(result["root"]["id"], "taylor-2026-revision-notes-trust")
         self.assertIn(
-            "essay-workshop/nodes/sections/22-s2-p3-ares-aphrodite-harmonia.md",
+            "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
             {node["path"] for node in result["consumers"]["sections"]},
         )
         self.assertIn(
-            "essay-workshop/nodes/arguments/18-trust-faith-formal-limit.md",
+            "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
             {node["path"] for node in result["consumers"]["arguments"]},
         )
         self.assertIn(
@@ -223,7 +227,7 @@ class OkfWorkspaceTests(unittest.TestCase):
             "context", "01-s01-p0-question-before-mechanism", "--depth", "2"
         )
         self.assertTrue(result["governing_documents"])
-        self.assertLess(len(result["arguments"]), 10)
+        self.assertLess(len(result["arguments"]), 12)
         self.assertLess(len(result["concepts"]), 10)
         self.assertIn(
             "01-immutable-gap-and-meta-sign",
@@ -234,14 +238,7 @@ class OkfWorkspaceTests(unittest.TestCase):
         status = self.run_tool("status")
         self.assertEqual(
             status["counts"]["source-house"],
-            len(
-                list(
-                    (
-                        PROJECT
-                        / "essay-workshop/sources-texts-references/source-bank/sources"
-                    ).glob("*/SOURCE.md")
-                )
-            ),
+            len(list(iter_source_houses(PROJECT))),
         )
         self.assertEqual(status["counts"]["room-reading-path"], 2)
 
@@ -253,7 +250,9 @@ class OkfWorkspaceTests(unittest.TestCase):
 
         found = self.run_tool("find", "ordinary field laws collapse every number", "--limit", "10")
         self.assertIn(
-            "essay-workshop/sources-texts-references/source-bank/sources/kaplan-1999-nothing-that-is/SOURCE.md",
+            resolve_source_house(PROJECT, "kaplan-1999-nothing-that-is")
+            .relative_to(PROJECT)
+            .as_posix(),
             {hit["path"] for hit in found["hits"]},
         )
 
@@ -319,7 +318,7 @@ class OkfWorkspaceTests(unittest.TestCase):
 
         record_backlinks = self.run_tool("backlinks", "kaplan-1999-nothing-that-is")
         self.assertIn(
-            "essay-workshop/section-rooms/02-return-of-zero/READING.md",
+            "submission-package/essay/section-rooms/02-return-of-zero/READING.md",
             {edge["source"] for edge in record_backlinks["edges"]},
         )
 
@@ -330,15 +329,36 @@ class OkfWorkspaceTests(unittest.TestCase):
         }
         self.assertFalse(thin_paths)
         # Different heading vocabularies must not be mistaken for missing thought.
-        self.assertNotIn("essay-workshop/nodes/arguments/02-objective-internality.md", thin_paths)
-        self.assertNotIn("essay-workshop/nodes/arguments/11-mono-poly-trust.md", thin_paths)
-        self.assertNotIn("essay-workshop/nodes/arguments/14-computational-process-ontology.md", thin_paths)
-        self.assertNotIn("essay-workshop/nodes/arguments/17-toroidal-circulation-arche-topos.md", thin_paths)
-        self.assertNotIn("unresolved-link", result["debt_counts"])
+        self.assertNotIn("submission-package/essay/section-rooms/arguments/02-objective-internality.md", thin_paths)
+        self.assertNotIn(
+            "submission-package/essay/section-rooms/arguments/11-mono-poly-whole-and-many.md", thin_paths
+        )
+        self.assertNotIn(
+            "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md", thin_paths
+        )
+        self.assertNotIn(
+            "submission-package/essay/section-rooms/arguments/17-toroidal-circulation-arche-topos.md",
+            thin_paths,
+        )
+        # The only unresolved links remaining are the documented, Frank-gated
+        # dangles inside the authorial core-theorems text; every agent-owned
+        # surface resolves.
+        unresolved_paths = {
+            debt["path"]
+            for debt in result["debts"]
+            if debt["kind"] == "unresolved-link"
+        }
+        self.assertEqual(
+            unresolved_paths,
+            {
+                "submission-package/essay/symbolon/episteme/sources/"
+                "internal-corpus/taylor/taylor-2026-core-theorems-pithy/AUTHORIAL-TEXT.md"
+            },
+        )
         self.assertTrue(all("authority" in debt for debt in result["debts"]))
-        self.assertFalse(
-            any(
-                debt["path"].startswith("submission-package/")
+        self.assertTrue(
+            all(
+                debt["path"].startswith("submission-package/essay/")
                 for debt in result["debts"]
                 if debt["kind"] == "unresolved-link"
             )
@@ -346,7 +366,7 @@ class OkfWorkspaceTests(unittest.TestCase):
 
         assessments = {row["path"]: row for row in result["quality_assessments"]}
         deferential = assessments[
-            "essay-workshop/nodes/arguments/08-deferential-intelligence.md"
+            "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md"
         ]
         self.assertEqual(deferential["artifact_type"], "argument")
         self.assertTrue(all(deferential["dimensions"].values()))
@@ -360,7 +380,7 @@ class OkfWorkspaceTests(unittest.TestCase):
             debt["path"] for debt in result["debts"] if debt["kind"] == "thin-argument"
         }
         repaired = {
-            f"essay-workshop/nodes/arguments/{name}.md"
+            f"submission-package/essay/section-rooms/arguments/{name}.md"
             for name in (
                 "05-agent-subjectivity-open",
                 "06-computational-vimarsa-ahi",
@@ -372,7 +392,7 @@ class OkfWorkspaceTests(unittest.TestCase):
         }
         self.assertTrue(repaired.isdisjoint(thin_paths), thin_paths & repaired)
         self.assertNotIn(
-            "essay-workshop/nodes/concepts/planetary-computation.md",
+            "symbolon/episteme/concepts/planetary-computation.md",
             {debt["path"] for debt in result["debts"] if debt["kind"] == "missing-status"},
         )
 

@@ -23,8 +23,8 @@ from source_resolver import build_source_index
 
 BUILDER_VERSION = "2.0.0"
 ROOM_FILE = "ROOM.md"
-MANUSCRIPT = "essay-workshop/THE-RETURN-OF-ZERO.md"
-ROOM_ROOT = "essay-workshop/section-rooms"
+MANUSCRIPT = "submission-package/essay/THE-RETURN-OF-ZERO.md"
+ROOM_ROOT = "submission-package/essay/section-rooms"
 STATIONS = ("§0/1", "§0", "§1", "§2", "§3", "§4", "§5", "§5→0")
 
 
@@ -191,7 +191,7 @@ TRANSITION_HEADINGS = (
 
 def load_movements(project: Path) -> list[dict[str, Any]]:
     movements: list[dict[str, Any]] = []
-    for path in sorted((project / "essay-workshop/nodes/sections").glob("*.md")):
+    for path in sorted((project / "submission-package/essay/section-rooms").glob("*/movements/*.md")):
         metadata, body = parse_frontmatter(read_text(path))
         required = ("title", "station", "position", "sequence", "claim_status")
         if not all(key in metadata for key in required):
@@ -235,7 +235,7 @@ def load_argument_relations(project: Path, movements: list[dict[str, Any]]) -> d
         movement_alias[str(movement["title"]).casefold()] = stem
     argument_alias: dict[str, dict[str, str]] = {}
     arguments: list[tuple[Path, dict[str, Any], str]] = []
-    for path in sorted((project / "essay-workshop/nodes/arguments").glob("*.md")):
+    for path in sorted((project / "submission-package/essay/section-rooms/arguments").glob("*.md")):
         metadata, body = parse_frontmatter(read_text(path))
         item = {"path": path.relative_to(project).as_posix(), "title": str(metadata.get("title", path.stem))}
         for name in aliases(metadata, path):
@@ -365,7 +365,7 @@ def render_room(
     release = sentence_excerpt(movements[-1]["transition"] or (following or movements[-1])["claim"])
     manuscript = project / MANUSCRIPT
     inputs: list[Path] = [
-        project / "essay-workshop/the-return-of-zero-central-plan.md",
+        project / "the-return-of-zero-central-plan.md",
         manuscript,
     ]
     lines = [
@@ -487,7 +487,7 @@ def validate_manuscript(project: Path) -> None:
 
 def build(project: Path, check: bool, selected_rooms: list[str] | None) -> None:
     validate_manuscript(project)
-    plan_path = project / "essay-workshop/the-return-of-zero-central-plan.md"
+    plan_path = project / "the-return-of-zero-central-plan.md"
     plans = parse_plan(plan_path)
     all_movements = load_movements(project)
     relations = load_argument_relations(project, all_movements)

@@ -15,7 +15,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from source_resolver import resolve_source_house
 
 
-ROOM_ROOT = Path("essay-workshop/section-rooms")
+ROOM_ROOT = Path("submission-package/essay/section-rooms")
 ALLOWED = {"ROOM.md", "READING.md", "SCRATCH.md", "VISUALS.md"}
 LEGACY = {
     ".section-room.json", "00-SECTION-CONTEXT.md", "04-READING-PATH.md",

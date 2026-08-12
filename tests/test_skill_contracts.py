@@ -55,7 +55,7 @@ class DevelopmentSkillContractTests(unittest.TestCase):
         text = self.skill("return-of-zero-write")
         for required in (
             "may remain in chat",
-            "essay-workshop/THE-RETURN-OF-ZERO.md",
+            "submission-package/essay/THE-RETURN-OF-ZERO.md",
             "ROOM.md",
             "READING.md",
             "SCRATCH.md",

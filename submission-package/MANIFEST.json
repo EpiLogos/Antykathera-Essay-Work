@@ -6,11 +6,11 @@
   "artifacts": [
     {
       "id": "published-vault",
-      "path": "symbolon/",
-      "kind": "obsidian-publish-vault",
+      "path": "submission-package/essay/",
+      "kind": "publication-body",
       "role": "primary-publication",
-      "status": "content-architecture-present-core-record-migration-pending",
-      "description": "The ontology-led publication body: direct Symbolon records with complete Matheme, Mytheme, and Episteme domain trees."
+      "status": "one-home-canonical-body",
+      "description": "The one publication body in the 4+2 sixfold: rooms #0 (arguments + movements), symbolon/matheme/mytheme/episteme #1-#4, sovereign essay #5. Single canonical home; working/ holds non-publication development surfaces only."
     },
     {
       "id": "writing-protocol",

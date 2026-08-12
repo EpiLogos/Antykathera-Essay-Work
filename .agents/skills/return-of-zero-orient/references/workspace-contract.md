@@ -9,8 +9,11 @@
 | Section, argument, concept, traversal nodes | Canonical argument | Granular claims, warrants, relations, and movement |
 | `sources/<source_id>/SOURCE.md` | Source authority and learning surface | Work identity, edition, citation, exact passages, locators, context, verification, worked examples, sustained reading, role, use boundary and consumers |
 | `sources/<source_id>/NOTES.md` | Frank's authorial source encounter | Optional free-form notes, copied leads, intent and insight; agents read only; never citation or quotation authority |
-| `essay-workshop/THE-RETURN-OF-ZERO.md` | Sovereign manuscript | Frank's single essay body and live writing locus |
+| `sources/internal-corpus/taylor/chat-logs/<source_id>/SOURCE.md` | Dialogue record | Provenance of an idea's formation through dialogue; never evidence. Quotations are of the conversation, never of the named works; assistant statements are verification leads |
+| `submission-package/essay/THE-RETURN-OF-ZERO.md` | Sovereign manuscript | Frank's single essay body and live writing locus |
 | `section-rooms/<room>/ROOM.md` | Generated authoring refraction | Compact earned position, movement waypoints and exact paths into canon and source houses |
+| `section-rooms/<room>/movements/` | The room's six canonical movements — the determinate `1`s of the nested `0/1` | Canonical granular argument |
+| `section-rooms/arguments/` | The shared argument field — the implicate `0` of the nested `0/1` | Canonical granular argument |
 | `section-rooms/<room>/READING.md` | Protected learning refraction | Optional cross-source progression for one room; never source or argument authority |
 | `section-rooms/<room>/SCRATCH.md` | Protected temporary writing | Optional Frank-authored section pad; never a second manuscript or canon |
 | `section-rooms/<room>/VISUALS.md` | Protected visual argument | Optional admitted diagram or plate programme |
@@ -40,7 +43,7 @@ Room `READING.md` files must expose a short entry, a full sequence, named source
 
 A valid working context identifies:
 
-1. entry node and canonical path;
+1. entry node, its declared register (or the unratified-register debt), and canonical path;
 2. previous and next movement when section-bound;
 3. controlling arguments and concepts;
 4. warrant and live counterpressure;

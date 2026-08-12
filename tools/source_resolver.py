@@ -12,7 +12,7 @@ from pathlib import Path
 
 
 def source_bank_root(project_root: Path) -> Path:
-    return project_root / "essay-workshop/sources-texts-references/source-bank/sources"
+    return project_root / "submission-package/essay/symbolon/episteme/sources"
 
 
 def iter_source_houses(project_root: Path):

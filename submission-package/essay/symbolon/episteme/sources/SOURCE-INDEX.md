@@ -1,0 +1,136 @@
+---
+title: "Return of Zero — Canonical Source Index"
+generated: true
+generator: tools/build-source-projections.py
+source_digest: "30d86fc2b49a1213f3b187e081e7b69d267a21473275dbfff0c4bd3d65d399e9"
+---
+
+<!-- Generated from canonical SOURCE.md houses. Do not edit by hand. -->
+
+# Canonical Source Index
+
+- [42 Techne — Sovereign Commons Architecture](media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md) — `42-techne-2026-sovereign-commons` — metadata-verified
+- [Abhinavagupta — Parātrīśikā-vivaraṇa (Singh, 1988)](indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md) — `abhinavagupta-singh-1988-paratrisika-vivarana` — citation-ready
+- [Adleman and Vanderwees — Lacan’s Psychoanalytic Rhetoric (2021)](psychology/adleman/adleman-vanderwees-2021-lacan-rhetoric/SOURCE.md) — `adleman-vanderwees-2021-lacan-rhetoric` — citation-ready
+- [Andreas Kapsner — Cutting Corners (2020)](mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE.md) — `kapsner-2020-cutting-corners` — citation-ready
+- [Antikythera — Agentworld Site Copy (2026)](media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE.md) — `antikythera-2026-site-copy` — citation-ready
+- [Atmanspacher — The Pauli–Jung Conjecture and Its Relatives (2020)](physics/atmanspacher/atmanspacher-2020-pauli-jung-conjecture/SOURCE.md) — `atmanspacher-2020-pauli-jung-conjecture` — citation-ready
+- [Bache — LSD and the Mind of the Universe (2019)](psychology/bache/bache-2019-lsd-mind-universe/SOURCE.md) — `bache-2019-lsd-mind-universe` — citation-ready
+- [Baudrillard — Fatal Strategies (1983)](media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE.md) — `baudrillard-1983-fatal-strategies` — intake
+- [Baudrillard — Forget Foucault (1977)](media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md) — `baudrillard-1977-forget-foucault` — intake
+- [Baudrillard — Simulacra and Simulation (1981)](media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE.md) — `baudrillard-1981-simulacra-and-simulation` — intake
+- [Baudrillard — Symbolic Exchange and Death (1976)](media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md) — `baudrillard-1976-symbolic-exchange-death` — intake
+- [Baudrillard — The Transparency of Evil (1990)](media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md) — `baudrillard-1990-transparency-evil` — intake
+- [Berkeley — Three Dialogues (1734 text, Wilkins ed. 2002)](classical-premodern-philosophy/berkeley/berkeley-1734-three-dialogues-wilkins-2002/SOURCE.md) — `berkeley-1734-three-dialogues-wilkins-2002` — citation-ready
+- [Bohm and Krishnamurti — Truth, Actuality, and the Limits of Thought (18 May 1975)](process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/SOURCE.md) — `bohm-krishnamurti-1975-05-18-dialogue` — metadata-verified
+- [Bohm — On Dialogue (1996)](process-systems-theory/bohm/bohm-1996-on-dialogue/SOURCE.md) — `bohm-1996-on-dialogue` — citation-ready
+- [Bohm — Wholeness and the Implicate Order (1980)](process-systems-theory/bohm/bohm-1980-wholeness-implicate-order/SOURCE.md) — `bohm-1980-wholeness-implicate-order` — citation-ready
+- [Bradley and Terry — Rank Analysis of Incomplete Block Designs (1952)](mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md) — `bradley-terry-1952-paired-comparisons` — citation-ready
+- [Bratton — Antikythera Agentworld Brief (2026)](media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md) — `bratton-2026-agentworld-brief` — citation-ready
+- [Chang Chung-yuan — Tao: A New Way of Thinking (2014)](chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md) — `chung-yuan-chang-tao-a-new-way-of-thinking-2014` — citation-ready
+- [Christopher G. Brown — Ares, Aphrodite, and the Laughter of the Gods (1989)](classical-philology/brown/brown-1989-ares-aphrodite-laughter/SOURCE.md) — `brown-1989-ares-aphrodite-laughter` — citation-ready
+- [Colebrooke — Brahmagupta and Bhāskara (1817)](mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md) — `colebrooke-1817-brahmagupta-bhaskara` — citation-ready
+- [Courtney — The Salt-Point: Kairos Emergent from Chaos (2019)](psychology/courtney/courtney-2019-salt-point-kairos-chaos/SOURCE.md) — `courtney-2019-salt-point-kairos-chaos` — citation-ready
+- [Darmon — Mathème (1992)](psychology/darmon/darmon-1992-matheme-ali/SOURCE.md) — `darmon-1992-matheme-ali` — citation-ready
+- [Das — Śrīharṣa (SEP, 2022)](indian-philosophy/das/das-2022-sriharsa-sep/SOURCE.md) — `das-2022-sriharsa-sep` — citation-ready
+- [David D. Phillips — Moicheia and the Unity of Greek Law (venue unresolved)](classical-philology/phillips/phillips-moicheia-unity-greek-law/SOURCE.md) — `phillips-moicheia-unity-greek-law` — intake
+- [Daza et al. — Basin Entropy (2016)](mathematics-logic/daza/daza-et-al-2016-basin-entropy/SOURCE.md) — `daza-et-al-2016-basin-entropy` — citation-ready
+- [Desmet — The Psychology of Totalitarianism (2022 web essay)](psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/SOURCE.md) — `desmet-2022-psychology-totalitarianism-web-essay` — citation-ready
+- [Detienne & Vernant — Cunning Intelligence in Greek Culture and Society (1978)](classical-philology/detienne/detienne-vernant-1978-cunning-intelligence/SOURCE.md) — `detienne-vernant-1978-cunning-intelligence` — citation-ready
+- [Dushun (attributed) — The Jewel Net of Indra (Cleary, 2000)](indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE.md) — `dushun-cleary-2000-jewel-net-indra` — citation-ready
+- [Dutta — Zero-Divided Numbers in Indian Mathematics (2023)](mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md) — `dutta-2023-zero-divided-numbers-india` — citation-ready
+- [Dyczkowski — Doctrine of Vibration (2000)](indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) — `dyczkowski-2000-doctrine-vibration` — citation-ready
+- [Flasch — Meister Eckhart: Philosopher of Christianity (2015)](classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE.md) — `flasch-2015-meister-eckhart` — citation-ready
+- [Foucault — The History of Sexuality, Volume 1 (1976)](phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/SOURCE.md) — `foucault-1976-history-sexuality-v1` — intake
+- [Frank, Gleiser, and Thompson — The Blind Spot (2024)](history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE.md) — `frank-gleiser-thompson-2024-blind-spot` — citation-ready
+- [Freeth et al. — A Model of the Cosmos in the Antikythera Mechanism (2021)](history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md) — `freeth-et-al-2021-model-cosmos` — citation-ready
+- [Freeth et al. — Decoding the Antikythera Mechanism (2006)](history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md) — `freeth-et-al-2006-antikythera` — citation-ready
+- [Freud — “The Unconscious” (1915; Strachey trans. 1957)](psychology/freud/freud-1915-unconscious-standard-edition/SOURCE.md) — `freud-1915-unconscious-standard-edition` — citation-ready
+- [Gay Watson — The Resonance of Emptiness (1998)](psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) — `watson-1998-resonance-of-emptiness` — citation-ready
+- [Gebser — The Ever-Present Origin (1985)](phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md) — `gebser-1985-ever-present-origin` — citation-ready
+- [Graham Priest — One (2014)](mathematics-logic/priest/priest-2014-one/SOURCE.md) — `priest-2014-one` — citation-ready
+- [Graham Priest — The Fifth Corner of Four (2018)](mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md) — `priest-2018-fifth-corner` — citation-ready
+- [Graham Priest — The Logic of the Catuskoti (2010)](mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md) — `priest-2010-logic-catuskoti` — citation-ready
+- [Gödel — Formally Undecidable Propositions (1931)](mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md) — `godel-1931-undecidable-propositions` — citation-ready
+- [Hatcher — Algebraic Topology (2002)](mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md) — `hatcher-2002-algebraic-topology` — citation-ready
+- [Heidegger — Discourse on Thinking (Anderson & Freund, 1966)](phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md) — `heidegger-1966-discourse-on-thinking` — citation-ready
+- [Heidegger — Early Greek Thinking (Krell & Capuzzi, 1975)](phenomenology-continental-philosophy/heidegger/heidegger-1975-early-greek-thinking/SOURCE.md) — `heidegger-1975-early-greek-thinking` — citation-ready
+- [Heidegger — The Question Concerning Technology and Other Essays (Lovitt, 1977)](phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md) — `heidegger-1977-question-concerning-technology` — citation-ready
+- [Hesiod — Theogony (Evelyn-White, 1920)](classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md) — `hesiod-1920-theogony-evelyn-white` — citation-ready
+- [Homer — Odyssey I (Murray, 1919)](classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md) — `homer-1919-odyssey-murray` — citation-ready
+- [Iain McGilchrist — Resist the Machine Apocalypse (First Things, 2022)](psychology/mcgilchrist/mcgilchrist-2022-resist-machine-apocalypse/SOURCE.md) — `mcgilchrist-2022-resist-machine-apocalypse` — forms-drafted-url-date-unverified
+- [Iain McGilchrist — The Master and His Emissary (2009)](psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE.md) — `mcgilchrist-2009-master-emissary` — forms-drafted-edition-unpinned
+- [Iakovou — On the Misuse of the Concept of Totalitarianism](political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/SOURCE.md) — `iakovou-2022-misuse-totalitarianism` — metadata-verified
+- [ITER — What Is a Tokamak](physics/iter/iter-what-is-tokamak/SOURCE.md) — `iter-what-is-tokamak` — citation-ready
+- [Jason Reza Jorjani — Prometheus and Atlas (2016)](media-technology-philosophy/jorjani/jorjani-2016-prometheus-atlas/SOURCE.md) — `jorjani-2016-prometheus-atlas` — forms-drafted-pagination-unverified
+- [Jay L. Garfield & Graham Priest — Nāgārjuna and the Limits of Thought (2003)](mathematics-logic/garfield/garfield-priest-2003-limits-of-thought/SOURCE.md) — `garfield-priest-2003-limits-of-thought` — citation-ready
+- [Jung and Pauli — Atom and Archetype (Meier, 2001)](psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE.md) — `jung-pauli-meier-2001-atom-archetype` — citation-ready
+- [Jung — Aion, CW 9.2 (1978 corrected printing)](psychology/jung/jung-1978-aion-cw9-2/SOURCE.md) — `jung-1978-aion-cw9-2` — citation-ready
+- [Jung — Psychology and Religion: West and East, CW 11 (1969)](psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md) — `jung-1969-psychology-religion-cw11` — citation-ready
+- [Jung — The Undiscovered Self (Routledge, 2013)](psychology/jung/jung-2013-undiscovered-self-routledge/SOURCE.md) — `jung-2013-undiscovered-self-routledge` — citation-ready
+- [Kallaṭa — Stanzas on Vibration (Dyczkowski, 1992)](indian-philosophy/kallata/spandakarika-dyczkowski-1992-stanzas-vibration/SOURCE.md) — `spandakarika-dyczkowski-1992-stanzas-vibration` — citation-ready
+- [Kaplan — The Nothing That Is (2000 OUP printing)](mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md) — `kaplan-1999-nothing-that-is` — citation-ready
+- [Kauffman — Iterants, Fermions and the Dirac Equation (arXiv v2, 2014)](mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/SOURCE.md) — `kauffman-2014-iterants-fermions-dirac-arxiv` — citation-ready
+- [Kirchner, Elkamhawy, and Hammer — Entanglement in Few-Nucleon Scattering Events (2024)](physics/kirchner/kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering/SOURCE.md) — `kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering` — citation-ready
+- [Lacan — Talking to Brick Walls (Price, 2017)](psychology/lacan/lacan-2017-talking-to-brick-walls/SOURCE.md) — `lacan-2017-talking-to-brick-walls` — citation-ready
+- [Le Bon — The Crowd: A Study of the Popular Mind (1895)](psychology/le-bon/le-bon-1895-crowd-popular-mind/SOURCE.md) — `le-bon-1895-crowd-popular-mind` — citation-ready
+- [LeCun et al. — A Tutorial on Energy-Based Learning (2006)](computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md) — `lecun-et-al-2006-energy-based-learning` — citation-ready
+- [MacCracken — Recognizing Recognition (2017)](indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE.md) — `maccracken-2017-recognizing-recognition` — citation-ready
+- [Mackenzie — A Heraclitean Allusion to the Odyssey (2021)](classical-philology/mackenzie/mackenzie-2021-heraclitean-allusion-odyssey/SOURCE.md) — `mackenzie-2021-heraclitean-allusion-odyssey` — citation-ready
+- [Maroski — Seeing Through Solid Words (2025)](phenomenology-continental-philosophy/maroski/maroski-2025-seeing-through-solid-words/SOURCE.md) — `maroski-2025-seeing-through-solid-words` — citation-ready
+- [Maturana and Varela — Autopoiesis and Cognition (1980)](process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/SOURCE.md) — `maturana-varela-1980-autopoiesis-cognition` — citation-ready
+- [McGoohan and Markstein — The Prisoner (1967–68)](media-technology-philosophy/mcgoohan-markstein/mcgoohan-markstein-1967-the-prisoner/SOURCE.md) — `mcgoohan-markstein-1967-the-prisoner` — citation-ready
+- [Neumann — The Origins and History of Consciousness (1954)](psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md) — `neumann-1954-origins-history-consciousness` — citation-ready
+- [Nicholas of Cusa — On Learned Ignorance](classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE.md) — `cusa-on-learned-ignorance` — citation-ready
+- [Nietzsche — The Birth of Tragedy (Haussmann, 1910)](phenomenology-continental-philosophy/nietzsche/nietzsche-1910-birth-tragedy-haussmann/SOURCE.md) — `nietzsche-1910-birth-tragedy-haussmann` — citation-ready
+- [NIST DLMF — Complex Variable and Conformal Mapping (2026)](mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md) — `nist-dlmf-2026-complex-variable` — citation-ready
+- [Nothaft — Medieval Europe's Satanic Ciphers (2020)](history-philosophy-of-science/nothaft/nothaft-2020-satanic-ciphers/SOURCE.md) — `nothaft-2020-satanic-ciphers` — citation-ready
+- [Nāgārjuna — Fundamental Wisdom of the Middle Way (Garfield, 1995)](indian-philosophy/nagarjuna/nagarjuna-garfield-1995-fundamental-wisdom/SOURCE.md) — `nagarjuna-garfield-1995-fundamental-wisdom` — citation-ready
+- [Ostrom — Beyond Markets and States (Nobel Lecture, 2009/2010)](political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md) — `ostrom-2009-beyond-markets-states-nobel-lecture` — citation-ready
+- [Ouyang et al. — Training Language Models to Follow Instructions with Human Feedback (2022)](computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE.md) — `ouyang-et-al-2022-instructgpt` — citation-ready
+- [Pax Machina and the Body Without Organs](internal-corpus/taylor/chat-logs/taylor-gemini-2026-pax-machina-body-without-organs/SOURCE.md) — `taylor-gemini-2026-pax-machina-body-without-organs` — unspecified
+- [Pind — Dignāga’s Philosophy of Language: Anyāpoha (2009)](indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE.md) — `pind-2009-dignaga-anyapoha-dissertation` — citation-ready
+- [PyTorch — Softmax and Argmax API (v2.9)](computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md) — `pytorch-2-9-softmax-argmax-api` — citation-ready
+- [Raatikainen — Gödel’s Incompleteness Theorems (2026)](mathematics-logic/raatikainen/raatikainen-2026-godel-incompleteness-sep/SOURCE.md) — `raatikainen-2026-godel-incompleteness-sep` — citation-ready
+- [Rafailov et al. — Direct Preference Optimization (2023)](computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md) — `rafailov-et-al-2023-dpo` — citation-ready
+- [Rotman — Signifying Nothing (1987)](mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE.md) — `rotman-1987-signifying-nothing` — citation-ready
+- [Russell — Mathematical Logic as Based on the Theory of Types (1908)](mathematics-logic/russell/russell-1908-theory-types/SOURCE.md) — `russell-1908-theory-types` — citation-ready
+- [Saul A. Kripke — Naming and Necessity (1980)](analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md) — `kripke-1981-naming-and-necessity` — citation-ready
+- [Scholtz — Algorithms for Mapping Diatonic Keyboard Tunings and Temperaments (1998)](mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md) — `scholtz-1998-algorithms-diatonic-keyboard-tunings` — citation-ready
+- [SEED — The Language of Spirit Dialogues (2010)](process-systems-theory/seed/seed-2010-language-spirit/SOURCE.md) — `seed-2010-language-spirit` — citation-ready
+- [Sheffer — A Set of Five Independent Postulates (1913)](mathematics-logic/sheffer/sheffer-1913-five-postulates/SOURCE.md) — `sheffer-1913-five-postulates` — citation-ready
+- [Siderits, Tillemans & Chakrabarti, eds. — Apoha: Buddhist Nominalism and Human Cognition (2011)](indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE.md) — `siderits-tillemans-chakrabarti-2011-apoha` — citation-ready
+- [Skenfrith, the Marches, and the History of Power](internal-corpus/taylor/chat-logs/taylor-gemini-2026-skenfrith-castle-power-history/SOURCE.md) — `taylor-gemini-2026-skenfrith-castle-power-history` — unspecified
+- [Smythe — The Dialogical Jung (2013)](psychology/smythe/smythe-2013-dialogical-jung/SOURCE.md) — `smythe-2013-dialogical-jung` — citation-ready
+- [Spencer-Brown — Laws of Form (1969)](mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE.md) — `spencer-brown-1969-laws-form` — citation-ready
+- [Spinoza — Letter 50 to Jarig Jelles (1674; Elwes 1901)](classical-premodern-philosophy/spinoza/spinoza-1674-letter-50-jelles/SOURCE.md) — `spinoza-1674-letter-50-jelles` — citation-ready
+- [Spirit, Nature, and Man's Self-Measure](internal-corpus/taylor/chat-logs/taylor-2026-spirit-nature-man-humanity/SOURCE.md) — `taylor-2026-spirit-nature-man-humanity` — unspecified
+- [Strang and Herman — Calculus Volume 1 (OpenStax, 2016)](mathematics-logic/strang/strang-herman-2016-openstax-calculus-v1/SOURCE.md) — `strang-herman-2016-openstax-calculus-v1` — citation-ready
+- [Taylor and Claude — Derivational Chat Record (2026)](internal-corpus/taylor/chat-logs/taylor-claude-2026-derivational-chat/SOURCE.md) — `taylor-claude-2026-derivational-chat` — unspecified
+- [Taylor — Christ and Mono-Poly Theory, P4 (2026)](internal-corpus/taylor/taylor-2026-christ-mono-poly-theory/SOURCE.md) — `taylor-2026-christ-mono-poly-theory` — internal-ready
+- [Taylor — Core Theorems Pithy (2026)](internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) — `taylor-2026-core-theorems-pithy` — internal-ready
+- [Taylor — Encounter, Region, Name, and Count (2026)](internal-corpus/taylor/taylor-2026-encounter-region-name-count/SOURCE.md) — `taylor-2026-encounter-region-name-count` — internal-ready
+- [Taylor — MEF Twelve Lenses Reference (2026)](internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) — `taylor-2026-mef-twelve-lenses` — internal-ready
+- [Taylor — Mono-Poly, the Two Ones, and the Whole Field (2026)](internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) — `taylor-2026-mono-poly-two-ones` — internal-ready
+- [Taylor — Personal Poetry Corpus (2026)](internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md) — `taylor-2026-personal-poetry-corpus` — internal-ready
+- [Taylor — QL Musical Derivation v3 (2026)](internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md) — `taylor-2026-ql-musical-derivation-v3` — internal-ready
+- [Taylor — Revision Notes on Trust and F-Blocks (2026)](internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md) — `taylor-2026-revision-notes-trust` — internal-ready
+- [Taylor — Sym-Dia-Ballein Views (2026)](internal-corpus/taylor/taylor-2026-sym-dia-ballein-views/SOURCE.md) — `taylor-2026-sym-dia-ballein-views` — internal-ready
+- [Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)](internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) — `taylor-2026-symbolon-dynamics` — internal-ready
+- [Taylor — The Advent of Zero, Subject, and Integral Logic (2026)](internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md) — `taylor-2026-advent-zero-subject` — internal-ready
+- [Taylor — The Definition of God, Draft 3 (2026)](internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md) — `taylor-2026-definition-god-draft3` — internal-ready
+- [The Skenfrith Cope, Jung, and the QL Sixfold](internal-corpus/taylor/chat-logs/taylor-2026-skenfrith-cope-jung-ql/SOURCE.md) — `taylor-2026-skenfrith-cope-jung-ql` — unspecified
+- [The Symbolon in Modern Media](internal-corpus/taylor/chat-logs/taylor-chatgpt-2026-symbolon-in-media/SOURCE.md) — `taylor-chatgpt-2026-symbolon-in-media` — unspecified
+- [Tye — Qualia (SEP, 2024)](analytic-philosophy/tye/tye-2024-qualia-sep/SOURCE.md) — `tye-2024-qualia-sep` — citation-ready
+- [Van Eenwyk — Archetypes and Strange Attractors (1997)](psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) — `van-eenwyk-1997-archetypes-strange-attractors` — citation-ready
+- [Van Eenwyk — Archetypes, the Strange Attractors of the Psyche (1991)](psychology/van-eenwyk/van-eenwyk-1991-strange-attractors/SOURCE.md) — `van-eenwyk-1991-strange-attractors` — citation-ready
+- [Van Norden and Jones — Huayan Buddhism (SEP, 2024)](indian-philosophy/van-norden/van-norden-jones-2024-huayan-sep/SOURCE.md) — `van-norden-jones-2024-huayan-sep` — citation-ready
+- [Varela — A Calculus for Self-Reference (1975)](process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md) — `varela-1975-calculus-self-reference` — citation-ready
+- [Vaswani et al. — Attention Is All You Need (2017)](computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md) — `vaswani-et-al-2017-attention` — citation-ready
+- [Walter Burkert — Das Lied von Ares und Aphrodite (1960)](classical-philology/burkert/burkert-1960-lied-ares-aphrodite/SOURCE.md) — `burkert-1960-lied-ares-aphrodite` — citation-ready
+- [Whitehead and Russell — Principia Mathematica (1910–1913)](mathematics-logic/whitehead/whitehead-russell-1910-1913-principia/SOURCE.md) — `whitehead-russell-1910-1913-principia` — citation-ready
+- [Whitehead — Process and Reality (1978 corrected edition)](process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE.md) — `whitehead-1978-process-reality` — citation-ready
+- [Wilson et al. — Embodied Cognition (SEP, 2020)](analytic-philosophy/wilson/wilson-et-al-2020-embodied-cognition-sep/SOURCE.md) — `wilson-et-al-2020-embodied-cognition-sep` — citation-ready
+- [Wittgenstein — Philosophical Investigations (1953)](analytic-philosophy/wittgenstein/wittgenstein-1953-philosophical-investigations/SOURCE.md) — `wittgenstein-1953-philosophical-investigations` — edition-needed
+- [Wittgenstein — Tractatus Logico-Philosophicus (1922)](analytic-philosophy/wittgenstein/wittgenstein-1922-tractatus/SOURCE.md) — `wittgenstein-1922-tractatus` — citation-ready
+- [Īśvarakṛṣṇa — Sāṅkhya Kārikā (Colebrooke/Wilson, 1837)](indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE.md) — `isvarakrishna-colebrooke-wilson-1837-sankhya-karika` — citation-ready

@@ -23,7 +23,7 @@ The system is *tabulated* in the canon and *worked* in the essay. Teach from bot
 
 - **`resources/epi_logos_coordinate_system.md`** — the canon: the full position/lens tabulation, the base alignment, the three Klein squares. The single source of truth for what sits where. Read the relevant rows for the learner's entry, not the whole table at them.
 - **`resources/units/self-identity.md`, `unit-ontological.md`, `unit-social-power.md`** — the self-referential ground (the Seed, the 0/1 and 5→0 turns) and the two QL units: the Name (P) unit and the Power (P') unit. This is where the formal Spanda articulation and the P/P' derivation live. Reach here when the learner's question is numerical, formal, or about the self-referential foundation.
-- **`resources/essay-okf/index.md`** (via `okf-wiki`) — the theory worked in the currently shipped publication snapshot. When the learner wants to see the instrument meet an actual idea, teach from the live page and its links: orient at the entry, traverse, cite the pages read, and honour claim-status. Discover current assets from the index; do not teach from a remembered title, count, or list of sections.
+- **The published vault** (`symbolon/README.md`, via `okf-wiki`) — the theory worked in the live publication. When the learner wants to see the instrument meet an actual idea, teach from the live page and its links: orient at the entry, traverse, cite the pages read, and honour claim-status. Discover current assets from the entry; do not teach from a remembered title, count, or list of sections.
 - **`resources/mef-12-lenses-sublens-reference.md` and `resources/canon/`** — the lens content and runtime doctrine needed to develop the coordinate tabulation without inventing a missing source layer.
 
 Teach from this ground, not from a condensed gloss. A worked instance of the structure is closer to right pedagogy than any slogan about it.
@@ -37,7 +37,7 @@ Teach from this ground, not from a condensed gloss. A worked instance of the str
 ### Primary content — WHAT to teach from
 - `resources/epi_logos_coordinate_system.md` — the base alignment, positions ↔ questions ↔ lenses ↔ Klein squares ↔ units ↔ elements. Authoritative.
 - `resources/units/` — `self-identity.md` (Seed + the 0/1 and 5→0 turns), `unit-ontological.md` (the Name / P unit), `unit-social-power.md` (the Power / P' unit).
-- `resources/essay-okf/index.md` (via `okf-wiki`) — the theory worked as living argument; the source of concrete essay examples. For a reader-calibrated walk of it, hand to `walk-the-essay`.
+- `symbolon/README.md` (via `okf-wiki`) — the theory worked as living argument; the source of concrete essay examples. For a reader-calibrated walk of it, hand to `walk-the-essay`.
 - `resources/mef-12-lenses-sublens-reference.md` — the twelve lenses' actual sub-node content. **Required for any lens teaching** (see below).
 
 ### Lens teaching — REQUIRED

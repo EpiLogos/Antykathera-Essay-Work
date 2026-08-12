@@ -6,11 +6,16 @@ import tempfile
 import unittest
 from pathlib import Path
 
+import yaml
+
 
 PROJECT = Path(__file__).resolve().parents[1]
 OKF = PROJECT / "tools/okf-workspace.py"
 PROJECTIONS = PROJECT / "tools/build-source-projections.py"
-BANK = PROJECT / "essay-workshop/sources-texts-references/source-bank"
+BANK = PROJECT / "submission-package/essay/symbolon/episteme/sources"
+
+sys.path.insert(0, str(PROJECT / "tools"))
+from source_resolver import iter_source_houses, resolve_source_house
 
 
 class SourceProjectionAndRetrievalTests(unittest.TestCase):
@@ -44,29 +49,32 @@ class SourceProjectionAndRetrievalTests(unittest.TestCase):
         text = (BANK / "MAIN-SOURCES.md").read_text(encoding="utf-8")
         section_one = text.split("## §1 — Return of Zero", 1)[1].split("\n## ", 1)[0]
         self.assertIn("kaplan-1999-nothing-that-is", section_one)
-        self.assertIn("sources/kaplan-1999-nothing-that-is/SOURCE.md", section_one)
+        self.assertIn(
+            resolve_source_house(PROJECT, "kaplan-1999-nothing-that-is")
+            .relative_to(BANK)
+            .as_posix(),
+            section_one,
+        )
         self.assertNotIn("source-bank/records/", text)
         self.assertNotIn("source-bank/quotes/", text)
         self.assertNotIn("_No main source declared._", text)
         projected_relations = re.findall(
-            r"^- \[.+?\]\(sources/.+?/SOURCE\.md\)", text, re.MULTILINE
+            r"^- \[.+?\]\([^)#]+/SOURCE\.md\)", text, re.MULTILINE
         )
         canonical_relations = 0
-        for source_house in (BANK / "sources").glob("*/SOURCE.md"):
+        for source_house in iter_source_houses(PROJECT):
             source_text = source_house.read_text(encoding="utf-8")
             frontmatter = source_text.split("---", 2)[1]
-            match = re.search(
-                r"^main_source_for:\n((?:- .+\n)+)", frontmatter, re.MULTILINE
-            )
-            if match:
-                canonical_relations += len(
-                    re.findall(r"^- ", match.group(1), re.MULTILINE)
-                )
+            data = yaml.safe_load(frontmatter) or {}
+            raw_relations = data.get("main_source_for") or []
+            if isinstance(raw_relations, str):
+                raw_relations = [raw_relations]
+            canonical_relations += len(raw_relations)
         self.assertEqual(canonical_relations, len(projected_relations))
 
     def test_every_passage_projection_fragment_resolves_to_the_canonical_house(self):
         ledger = (BANK / "PASSAGE-LEDGER.md").read_text(encoding="utf-8")
-        links = re.findall(r"\]\((sources/[^)#]+/SOURCE\.md)#([^)]+)\)", ledger)
+        links = re.findall(r"\]\(([^)#]+/SOURCE\.md)#([^)]+)\)", ledger)
         self.assertTrue(links)
         for relative, fragment in links:
             source = BANK / relative
@@ -117,13 +125,9 @@ class SourceProjectionAndRetrievalTests(unittest.TestCase):
     def test_projection_check_marks_all_human_views_stale_after_a_real_source_change(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp) / "project"
-            (root / "essay-workshop/sources-texts-references/source-bank").mkdir(parents=True)
+            (root / "submission-package/essay/symbolon/episteme/sources").mkdir(parents=True)
             subprocess.run(
-                ["cp", "-R", str(BANK / "sources"), str(root / "essay-workshop/sources-texts-references/source-bank/sources")],
-                check=True,
-            )
-            subprocess.run(
-                ["cp", "-R", str(PROJECT / "essay-workshop"), str(root / "essay-workshop")],
+                ["cp", "-R", str(BANK) + "/.", str(root / "submission-package/essay/symbolon/episteme/sources")],
                 check=True,
             )
             subprocess.run(
@@ -132,7 +136,8 @@ class SourceProjectionAndRetrievalTests(unittest.TestCase):
                 capture_output=True,
                 text=True,
             )
-            kaplan = root / "essay-workshop/sources-texts-references/source-bank/sources/kaplan-1999-nothing-that-is/SOURCE.md"
+            kaplan = resolve_source_house(root, "kaplan-1999-nothing-that-is")
+            self.assertIsNotNone(kaplan)
             kaplan.write_text(kaplan.read_text(encoding="utf-8") + "\n<!-- freshness probe -->\n", encoding="utf-8")
             result = subprocess.run(
                 [sys.executable, str(PROJECTIONS), "--project-root", str(root), "--check"],
@@ -141,7 +146,7 @@ class SourceProjectionAndRetrievalTests(unittest.TestCase):
             )
             self.assertEqual(1, result.returncode)
             for name in ("MAIN-SOURCES.md", "SOURCE-INDEX.md", "PASSAGE-LEDGER.md"):
-                self.assertIn(f"stale:essay-workshop/sources-texts-references/source-bank/{name}", result.stderr)
+                self.assertIn(f"stale:submission-package/essay/symbolon/episteme/sources/{name}", result.stderr)
 
 
 if __name__ == "__main__":

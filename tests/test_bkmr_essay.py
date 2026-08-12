@@ -2,6 +2,7 @@ import hashlib
 import json
 import re
 import subprocess
+import sys
 import unittest
 from pathlib import Path
 
@@ -10,6 +11,13 @@ PROJECT = Path(__file__).resolve().parents[1]
 TOOL = PROJECT / "tools" / "bkmr-essay"
 ADAPTERS = PROJECT / ".bkmr" / "adapters"
 MANIFEST = PROJECT / ".bkmr" / "manifest.tsv"
+
+sys.path.insert(0, str(PROJECT / "tools"))
+from source_resolver import iter_source_houses, resolve_source_house
+
+
+def source_relative(source_id: str) -> str:
+    return resolve_source_house(PROJECT, source_id).relative_to(PROJECT).as_posix()
 
 
 class BkmrEssayIntegrationTests(unittest.TestCase):
@@ -56,11 +64,11 @@ class BkmrEssayIntegrationTests(unittest.TestCase):
     def test_passage_adapters_point_to_canonical_source_house_anchors_without_transcription(self):
         self.run_tool("sync", "passages", "--dry-run")
         text = self.adapter_text("passages")
-        self.assertIn("sources/le-bon-1895-crowd-popular-mind/SOURCE.md", text)
+        self.assertIn(source_relative("le-bon-1895-crowd-popular-mind"), text)
         self.assertIn("passage_id: le-bon-1895-crowd-popular-mind-lb-01", text)
         self.assertIn("canonical_path#le-bon-1895-crowd-popular-mind-lb-01", text)
         self.assertNotIn("a combination followed by the creation of new characteristics", text)
-        self.assertNotIn("canonical_path: essay-workshop/sources-texts-references/source-bank/quote-ledger.md", text)
+        self.assertNotIn("canonical_path: submission-package/essay/symbolon/episteme/sources/quote-ledger.md", text)
 
         adapters = {
             path.stem: path.read_text(encoding="utf-8")
@@ -68,19 +76,24 @@ class BkmrEssayIntegrationTests(unittest.TestCase):
         }
         ledger = (
             PROJECT
-            / "essay-workshop/sources-texts-references/source-bank/PASSAGE-LEDGER.md"
+            / "submission-package/essay/symbolon/episteme/sources/PASSAGE-LEDGER.md"
         ).read_text(encoding="utf-8")
         expected = len(
-            re.findall(r"\]\(sources/[^)#]+/SOURCE\.md#[^)]+\)", ledger)
+            re.findall(r"\]\([^)#]+/SOURCE\.md#[^)]+\)", ledger)
         )
         self.assertEqual(expected, len(adapters))
-        for source in (PROJECT / "essay-workshop/sources-texts-references/source-bank/sources").glob("*/SOURCE.md"):
+        for source in iter_source_houses(PROJECT):
             body = source.read_text(encoding="utf-8")
             anchors = list(re.finditer(r'<a id="([^"]+)"></a>', body))
             for index, anchor in enumerate(anchors):
                 passage_id = anchor.group(1)
                 if passage_id not in adapters:
                     continue
+                adapter = adapters[passage_id]
+                # Title metadata (the frontmatter) may carry an authorial
+                # first-line name for untitled poems; the locator surface
+                # itself must never transcribe the passage.
+                adapter_body = adapter.split("---", 2)[-1]
                 end = anchors[index + 1].start() if index + 1 < len(anchors) else len(body)
                 card = body[anchor.end() : end]
                 transcribed_lines = [
@@ -89,12 +102,16 @@ class BkmrEssayIntegrationTests(unittest.TestCase):
                     if line.startswith(">") and len(line.removeprefix(">").strip()) >= 20
                 ]
                 for transcription in transcribed_lines:
-                    self.assertNotIn(transcription, adapters[passage_id], passage_id)
+                    self.assertNotIn(transcription, adapter_body, passage_id)
 
     def test_manifest_hash_matches_each_canonical_full_body_input(self):
         self.run_tool("sync", "arguments", "--dry-run")
         rows = MANIFEST.read_text(encoding="utf-8").splitlines()
-        target = next(row for row in rows if "\targuments\t" in row and "02-objective-internality.md" in row)
+        target = next(
+            row
+            for row in rows
+            if row.split("\t", 3)[1] == "arguments" and "02-objective-internality.md" in row
+        )
         fields = target.split("\t")
         canonical_path = PROJECT / fields[2]
         self.assertEqual(fields[8], hashlib.sha256(canonical_path.read_bytes()).hexdigest())
@@ -117,13 +134,13 @@ class BkmrEssayIntegrationTests(unittest.TestCase):
         self.run_tool("sync", "records")
         text = self.adapter_text("records")
         self.assertIn(
-            "essay-workshop/sources-texts-references/source-bank/sources/kaplan-1999-nothing-that-is/SOURCE.md",
+            source_relative("kaplan-1999-nothing-that-is"),
             text,
         )
         self.assertIn("main_source_for: §1 · narrative and learning spine", text)
 
         result = self.run_tool("search", "records", "Kaplan", "--limit", "10")
-        self.assertIn("sources/kaplan-1999-nothing-that-is/SOURCE.md", result.stdout)
+        self.assertIn(source_relative("kaplan-1999-nothing-that-is"), result.stdout)
         doctor = json.loads(self.run_tool("doctor", "records", "--json").stdout)
         self.assertEqual(doctor["database_state"], "fresh")
         self.assertEqual(doctor["database_count"], doctor["adapter_count"])
@@ -133,7 +150,7 @@ class BkmrEssayIntegrationTests(unittest.TestCase):
         result = self.run_tool(
             "search", "records", "Zero-Divided", "--limit", "5"
         )
-        self.assertIn("sources/dutta-2023-zero-divided-numbers-india/SOURCE.md", result.stdout)
+        self.assertIn(source_relative("dutta-2023-zero-divided-numbers-india"), result.stdout)
 
 
 if __name__ == "__main__":

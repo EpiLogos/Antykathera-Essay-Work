@@ -10,8 +10,10 @@ import yaml
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 TOOL = PROJECT_ROOT / "tools" / "curate-main-source-relations.py"
-SOURCE_ROOT = PROJECT_ROOT / "essay-workshop" / "sources-texts-references" / "source-bank" / "sources"
 SECTIONS = {"§0/1", "§0", "§1", "§2", "§3", "§4", "§5", "§5→0"}
+
+sys.path.insert(0, str(PROJECT_ROOT / "tools"))
+from source_resolver import iter_source_houses
 
 
 class MainSourceRelationTests(unittest.TestCase):
@@ -26,7 +28,7 @@ class MainSourceRelationTests(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
         covered: set[str] = set()
-        for path in SOURCE_ROOT.glob("*/SOURCE.md"):
+        for path in iter_source_houses(PROJECT_ROOT):
             text = path.read_text(encoding="utf-8")
             payload = text.split("---", 2)[1]
             data = yaml.safe_load(payload) or {}

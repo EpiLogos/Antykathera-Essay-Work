@@ -1,0 +1,1 @@
+../../../../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md

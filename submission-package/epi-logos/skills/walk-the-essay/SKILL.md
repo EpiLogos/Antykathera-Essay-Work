@@ -9,7 +9,7 @@ Run `using-epi-logos` first. Use `okf-wiki` for grounded retrieval and source-fo
 
 This is the reader-facing entrance to the published work. Begin from the reader's current page, diagram, heading, link, question, or attraction. Discover what the vault presently contains; never rely on a remembered title, filename, section count, concept census, or named set of paths.
 
-The default shipped entry is `../../resources/essay-okf/index.md`. In an Obsidian vault, use the published reading root and the current page. If the reader enters through a diagram, use its embed, caption, alt text, neighbouring prose, source link, or backlinks to recover its local home before choosing a route. Name an unresolved entry rather than inventing one.
+The default shipped entry is the published vault: `[package-root]/symbolon/README.md`, reachable from this skill as `../../../../symbolon/README.md`. In an Obsidian vault, use the published reading root and the current page. If the reader enters through a diagram, use its embed, caption, alt text, neighbouring prose, source link, or backlinks to recover its local home before choosing a route. Name an unresolved entry rather than inventing one.
 
 ## Discover the live work
 

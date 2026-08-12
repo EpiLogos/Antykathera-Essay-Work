@@ -50,7 +50,7 @@ If the seam is externalised as enemy or erased through fusion, the relation has 
 
 - **The Draft-3 fall-diagnosis.** The fall is the **denial of the ground relation** — the seam cancelled, `0/1` misread as a fixed `1` that forgot the `0` it stands on. dia-ballein pathology *is* the fall in miniature.
 - **File 1's `=/≠`.** Identity and difference are themselves the two logics of two: `=` collapsed to bare identity is fusion; `≠` absolutised is severance. The seam-retaining reading holds `=` and `≠` as one relation.
-- **Mono-poly.** Many real `1`s articulate one relational field; **monopoly begins when a local `1` claims ownership of the slash** that relates them — a dia-ballein capture of the shared seam. (See `[[11-mono-poly-trust]]`, `[[mono-poly-planetary-intelligence]]`.)
+- **Mono-poly.** Many real `1`s articulate one relational field; **monopoly begins when a local `1` claims ownership of the slash** that relates them — a dia-ballein capture of the shared seam. (See `[[11-mono-poly-whole-and-many]]`, `[[mono-poly-planetary-intelligence]]`.)
 
 ## Composes with
 

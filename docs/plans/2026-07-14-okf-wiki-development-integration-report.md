@@ -32,7 +32,7 @@ Old-style IDs survived nowhere outside regenerable projections (rooms rebuilt; a
 - **Full suite: 36/36 OK** (`unittest discover -s tests`): builder 10, depth-audit 5, okf-workspace 10, bkmr 7, skill contracts 4.
 - **`build-section-rooms.py --check`: passes** on all eight rooms (slug gate, locked-expression gate, staleness gate); movements 1–48 uniquely assigned; protected surfaces preserved.
 - **`bkmr-essay status`: all six collections fresh**; FTS spot-check (`epogdoon` → section 26) correct.
-- **`okf-scan.py`** (foreign-bundle fallback) still runs over `essay-workshop/nodes` (85 nodes).
+- **`okf-scan.py`** (foreign-bundle fallback) still runs over `working/nodes` (85 nodes).
 - **`.codex/config.toml` parses.**
 - **End-to-end crawl:** `context 21-s2-p2-sym-ballein --depth 1 --json` assembles a ~27 KB traceable context with canonical paths and statuses.
 

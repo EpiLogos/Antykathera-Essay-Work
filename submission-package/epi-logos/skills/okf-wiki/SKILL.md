@@ -7,7 +7,7 @@ description: "Use when researching, explaining, teaching, reviewing, or writing 
 
 Use the wiki as a connected work, not as a folder of excerpts. Discover the roles and relations present in the current release, then follow them until the proposition or image is understood in its neighbourhood. Do not assume a title, asset census, folder layout, or fixed set of node types.
 
-The default bundle entry is `[plugin-root]/resources/essay-okf/index.md`. This skill lives at `[plugin-root]/skills/okf-wiki/SKILL.md`, so the same file is reachable as `../../resources/essay-okf/index.md`. If the user supplies another OKF bundle, use its `index.md` and schema instead. `$OKF_BUNDLE` may name that alternate root.
+The default bundle entry is the published essay body when it ships with the package: `[package-root]/essay/README.md`, reachable from this skill as `../../../../essay/README.md`. The field itself opens at `[package-root]/essay/symbolon/README.md` (also reachable as `../../../../essay/symbolon/README.md`). If the user supplies another OKF-compatible root, use its entry page and schema instead; `$OKF_BUNDLE` may name that alternate root. The essay body is the work; there is no generated export beside it.
 
 ## The retrieval loop
 
@@ -16,8 +16,8 @@ Run this loop before substantive synthesis:
 1. **Orient** — read the bundle entry or the reader's current vault page. Discover the available roles, links, embeds, headings, and paths.
 2. **Find** — resolve the reader's named page, diagram, heading, or issue through the entry surface, local prose, captions, backlinks, and declared links. Do not infer relevance from filename or folder adjacency.
 3. **Open** — read the whole entry page, including frontmatter where present, not only the matching paragraph.
-4. **Expand** — follow ordinary Markdown links and embeds to the governing argument, incoming movement, outgoing movement, defined ideas, diagrams, and source material.
-5. **Trace** — recover the proposition, warrant, tension or boundary, incoming dependency, outgoing consequence, and relevant source relation.
+4. **Expand** — follow ordinary Markdown links, wikilinks, embeds, and `^block` references to the governing argument, incoming movement, outgoing movement, defined ideas, diagrams, and source material.
+5. **Trace** — recover the proposition, warrant, tension or boundary, incoming dependency, outgoing consequence, relevant source relation, and the **register** of the claim and of every carrier it crosses.
 6. **Assemble** — retain a compact context packet containing the exact nodes and statuses needed for the answer. Compression may remove repetition; it must not erase disagreement, qualification, transition, or claim force.
 7. **Verify** — apply the independent status gates below and re-open any file whose role or wording is uncertain.
 8. **Act** — answer from the recovered trace, cite the bundle files used, and state any named context debt.
@@ -29,6 +29,7 @@ An index, search result, remembered phrase, or summary is a locator, never the p
 Before explaining or developing an essay position, have these on the table:
 
 - the home section or argument and its `claim_status`;
+- the claim's `register` and the register of each carrier it crosses (matheme, mytheme, episteme, symbolon, or a declared cross-register composition);
 - the claim in its own wording;
 - the warrant that earns it;
 - its explicit tension, limit, counterpressure, or proof boundary;
@@ -43,17 +44,20 @@ This is the anti-loss rule. A short answer may be short because the trace is und
 
 Use the current index and page frontmatter to discover the roles the release actually contains. A manuscript or path carries declared sequence; a movement carries local development and transition; an argument carries a proposition and warrant; an idea fixes its local meaning; a diagram carries an image-operation; a source house carries bibliographic identity, learning material, passages, readiness, and use boundaries; supporting material remains subordinate to the pages that give it argumentative work.
 
-The shipped snapshot presently consolidates source identity and passage material under `references/sources/`. Other vaults may use another layout. Resolve the linked source house from the page and its declared type rather than assuming a directory name.
+Discover each node's `register` from its frontmatter and carry it with the node. A register is the content's own anatomy, not a routing label: placement must match the operation the record performs. A record with no declared register is a debt — name it rather than inferring a register from its folder or its links.
+
+The shipped vault keeps source houses under `episteme/sources/`. Other vaults may use another layout. Resolve the linked source house from the page and its declared type rather than assuming a directory name.
 
 Prefer a purposeful traversal over bulk reading: one live entry, the context that controls it, and the links that genuinely bear on the reader's question.
 
-## Keep the five axes independent
+## Keep the six axes independent
 
 1. **Node role and authority** — a source record, quote dossier, concept, and argument do different work.
 2. **Claim force** — `claim_status`: `Derived`, `Argued`, `Offered`, or `Open`.
 3. **Citation readiness** — `citation_status` on a source record. This licenses bibliographic attribution or paraphrase, not exact quotation.
 4. **Quotation readiness** — `quote_status` on a quote dossier, together with the passage's locator, edition/provenance, verification, and use boundary.
 5. **Retrieval confidence** — how completely the current traversal recovered the proposition's context.
+6. **Provenance status** — a `dialogue-record` documents how an idea was formed in dialogue; it is never evidence. The citation/quotation gate does not apply to it: quotations of the dialogue are quotations of the conversation, never of the named works, and assistant-provided statements inside it are verification leads until they resolve to a real source record.
 
 Never use one axis to silently alter another. In particular:
 
@@ -62,6 +66,7 @@ Never use one axis to silently alter another. In particular:
 - `Offered` must remain Offered; `Open` must remain open.
 - Do not retreat from an earned position into generic academic hedging. State the essay's actual force, then state its actual boundary.
 - Do not upgrade resonance into evidence or make a source author endorse the essay's inference.
+- Do not let a cross-register step fuse its sides: treat it as analogical or operational only after the distinct operation on each side has been recovered, and keep the register boundary named in the answer.
 
 When a source matters, preserve its declared relation: `Extracted`, `Paraphrased`, `Argued-from`, or `Resonant-with`.
 
@@ -82,7 +87,7 @@ Every exported node carries `canonical_path` and `canonical_sha256`. These are t
 
 Cite the bundle file and exact line range, for example:
 
-`resources/essay-okf/arguments/02-objective-internality.md:L18-L31`
+`essay/section-rooms/arguments/02-objective-internality.md:L18-L31`
 
 Name the traversal when it helps the reader reproduce the reasoning: home argument → controlling concept → source record → quote dossier. Do not cite an index for a claim that lives in a section, or a record for wording that only appears in a dossier.
 
@@ -99,6 +104,7 @@ When the reader wants to retain or resume the route, read `../../resources/reade
 Stop and name the debt instead of improvising when:
 
 - the claim's home node cannot be found;
+- a claim's or carrier's register cannot be recovered from frontmatter — report the debt rather than assuming a register from folder placement;
 - a referenced warrant, definition, transition, or source node is absent;
 - the bundle contains conflicting status fields that cannot be resolved from its schema;
 - exact quotation is requested without a quotation-ready dossier and citation-ready record;

@@ -128,29 +128,41 @@ def classify(rel: Path, fm: dict[str, Any]) -> str:
     declared = str(fm.get("node_type") or fm.get("type") or fm.get("page_type") or "").casefold()
 
     if posix in {
-        "essay-workshop/the-return-of-zero-central-plan.md",
-        "essay-workshop/return-of-zero-orienting-principles.md",
+        "the-return-of-zero-central-plan.md",
+        "return-of-zero-orienting-principles.md",
     }:
         return "governing-document"
-    if "/nodes/sections/" in f"/{posix}":
+    if "/nodes/sections/" in f"/{posix}" or (
+        "/section-rooms/" in f"/{posix}" and "/movements/" in f"/{posix}"
+    ):
         return "section"
-    if "/nodes/arguments/" in f"/{posix}":
+    if "/nodes/arguments/" in f"/{posix}" or "/section-rooms/arguments/" in f"/{posix}":
         return "argument"
-    if "/nodes/concepts/" in f"/{posix}":
-        return "index" if name == "index.md" else "concept"
-    if "/nodes/paths/" in f"/{posix}":
+    if "/nodes/concepts/" in f"/{posix}" or (
+        "/symbolon/episteme/concepts/" in f"/{posix}"
+        and "/reference-notes/" not in f"/{posix}"
+    ):
+        if name in {"index.md", "README.md"}:
+            return "index" if name == "index.md" else "document"
+        return "concept"
+    if "/nodes/paths/" in f"/{posix}" or (
+        "/symbolon/episteme/maps/" in f"/{posix}" and name != "README.md"
+    ):
         return "path"
     if (
-        "/source-bank/sources/" in f"/{posix}"
+        ("/source-bank/sources/" in f"/{posix}" or "/episteme/sources/" in f"/{posix}")
         and name == "SOURCE.md"
         and fm.get("source_id")
     ):
         return "source-house"
-    if "/source-bank/sources/" in f"/{posix}" and name == "NOTES.md":
+    if (
+        ("/source-bank/sources/" in f"/{posix}" or "/episteme/sources/" in f"/{posix}")
+        and name == "NOTES.md"
+    ):
         return "source-notes"
-    if "/source-bank/" in f"/{posix}":
+    if "/source-bank/" in f"/{posix}" or "/episteme/sources/" in f"/{posix}":
         return "source-governance"
-    if "/essay-workshop/sources-texts-references/reference-notes/" in f"/{posix}":
+    if "/symbolon/episteme/concepts/reference-notes/" in f"/{posix}":
         return "legacy-reference"
     if "/section-rooms/" in f"/{posix}" and declared in {
         "room-reading-path",
@@ -242,6 +254,7 @@ class Artifact:
             "position",
             "sequence",
             "coordinates",
+            "register",
             "tags",
         ):
             if key in self.frontmatter:
@@ -705,6 +718,21 @@ class Workspace:
     def status(self) -> dict[str, Any]:
         counts = Counter(a.artifact_type for a in self.artifacts.values())
         authorities = Counter(a.authority for a in self.artifacts.values())
+        canonical_register_types = {"section", "argument", "concept", "path", "argument-map"}
+        register_canonical = [
+            artifact
+            for artifact in self.artifacts.values()
+            if artifact.artifact_type in canonical_register_types
+        ]
+        registers = Counter(
+            str(artifact.frontmatter.get("register") or "undeclared")
+            for artifact in register_canonical
+        )
+        declared = [
+            artifact
+            for artifact in register_canonical
+            if artifact.frontmatter.get("register")
+        ]
         return {
             "project_root": str(self.root),
             "artifact_count": len(self.artifacts),
@@ -712,15 +740,30 @@ class Workspace:
             "passage_count": len(self.passages),
             "counts": dict(sorted(counts.items())),
             "authority_classes": dict(sorted(authorities.items())),
+            "registers": dict(sorted(registers.items())),
+            "register_census": {
+                "canonical_nodes": len(register_canonical),
+                "declared": len(declared),
+                "missing": len(register_canonical) - len(declared),
+                "missing_paths": sorted(
+                    artifact.path
+                    for artifact in register_canonical
+                    if not artifact.frontmatter.get("register")
+                ),
+            },
         }
 
-    def find(self, query: str, limit: int) -> dict[str, Any]:
+    def find(self, query: str, limit: int, register: str | None = None) -> dict[str, Any]:
         query_fold = query.casefold().strip()
         terms = [term.casefold() for term in WORD_RE.findall(query)]
         hits: list[tuple[float, Artifact, list[str], str]] = []
         for artifact in self.artifacts.values():
             if artifact.artifact_type == "submission-artifact":
                 continue
+            if register:
+                declared = str(artifact.frontmatter.get("register") or "")
+                if normalise(declared) != normalise(register):
+                    continue
             fields = {
                 "title": artifact.title,
                 "aliases": " ".join(artifact.aliases),
@@ -757,6 +800,7 @@ class Workspace:
         return {
             "query": query,
             "search_scope": "canonical-full-body",
+            "register": register,
             "hits": [
                 {
                     **artifact.compact(),
@@ -943,7 +987,14 @@ class Workspace:
                     next_node = candidate.compact()
 
         status_axes: dict[str, list[Any]] = {}
-        for key in ("claim_status", "evidence_status", "citation_status", "quote_status", "source_status"):
+        for key in (
+            "claim_status",
+            "evidence_status",
+            "citation_status",
+            "quote_status",
+            "source_status",
+            "register",
+        ):
             values = []
             for node in nodes:
                 value = node.frontmatter.get(key)
@@ -973,6 +1024,7 @@ class Workspace:
 
         return {
             "entry": artifact.compact(),
+            "register": str(artifact.frontmatter.get("register") or "undeclared"),
             "previous": previous,
             "next": next_node,
             "arguments": of_type("argument"),
@@ -1040,7 +1092,10 @@ class Workspace:
             candidate.compact()
             for candidate in self.artifacts.values()
             if candidate.frontmatter.get("thread_id") in thread_ids
-            and not candidate.path.startswith("submission-package/")
+            and not (
+                candidate.path.startswith("submission-package/")
+                and not candidate.path.startswith("submission-package/essay/")
+            )
         ]
         consumers = {
             f"{kind}s": [
@@ -1062,6 +1117,19 @@ class Workspace:
             "consumers": consumers,
             "downstream": {"paths": downstream_paths, "edges": traversed},
             "transverse_threads": threads,
+            "registers": {
+                "root": str(artifact.frontmatter.get("register") or "undeclared"),
+                "carriers": [
+                    {
+                        "path": path,
+                        "register": str(
+                            self.artifacts[path].frontmatter.get("register") or "undeclared"
+                        ),
+                    }
+                    for path in sorted(distance, key=lambda item: (distance[item], item))
+                    if path != artifact.path
+                ],
+            },
         }
 
     @staticmethod
@@ -1273,6 +1341,60 @@ class Workspace:
                     )
             if artifact.artifact_type in {"section", "argument", "concept"} and not artifact.frontmatter.get("claim_status"):
                 debts.append({**base, "kind": "missing-status", "detail": "claim_status is absent"})
+            if artifact.artifact_type in {
+                "section", "argument", "concept", "path", "argument-map",
+            }:
+                declared = str(artifact.frontmatter.get("register") or "").strip()
+                if not declared:
+                    debts.append(
+                        {
+                            **base,
+                            "kind": "missing-register",
+                            "detail": "unratified-register-census",
+                        }
+                    )
+                else:
+                    declared_fold = declared.casefold()
+                    if (
+                        declared_fold not in {"symbolon", "matheme", "mytheme", "episteme"}
+                        and "/" not in declared_fold
+                        and "," not in declared_fold
+                    ):
+                        debts.append(
+                            {
+                                **base,
+                                "kind": "invalid-register",
+                                "detail": declared,
+                            }
+                        )
+                    if (
+                        artifact.artifact_type in {"concept", "path"}
+                        and declared_fold != "episteme"
+                    ):
+                        debts.append(
+                            {
+                                **base,
+                                "kind": "register-domain-mismatch",
+                                "detail": (
+                                    f"{artifact.artifact_type} must declare register "
+                                    f"episteme, found {declared}"
+                                ),
+                            }
+                        )
+            if (
+                artifact.frontmatter.get("record_type") == "dialogue-record"
+                and any(
+                    artifact.frontmatter.get(key)
+                    for key in ("citation_status", "quote_status", "quotation_status")
+                )
+            ):
+                debts.append(
+                    {
+                        **base,
+                        "kind": "dialogue-record-evidence-status",
+                        "detail": "dialogue records carry no citation or quotation status",
+                    }
+                )
             if artifact.authority in unresolved_authorities:
                 for edge in artifact.outgoing:
                     if edge.target is None:
@@ -1404,6 +1526,7 @@ def parser() -> argparse.ArgumentParser:
     find = commands.add_parser("find")
     find.add_argument("query")
     find.add_argument("--limit", type=int, default=20)
+    find.add_argument("--register", dest="register")
     add_json_flag(find)
 
     open_cmd = commands.add_parser("open")
@@ -1448,7 +1571,7 @@ def main() -> int:
         if args.command == "status":
             result = workspace.status()
         elif args.command == "find":
-            result = workspace.find(args.query, args.limit)
+            result = workspace.find(args.query, args.limit, args.register)
         elif args.command == "open":
             passage = workspace.passage(args.artifact)
             if passage:

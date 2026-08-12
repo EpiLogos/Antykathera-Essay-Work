@@ -13,9 +13,15 @@ import unittest
 PROJECT = Path(__file__).resolve().parents[1]
 HARNESS = PROJECT / "tools/project-agent-harness.py"
 HOOK = PROJECT / ".codex/hooks/return_zero_hook.py"
-IDEAS = PROJECT / "essay-workshop/active-ideas.json"
-SOURCE_ROOT = PROJECT / "essay-workshop/sources-texts-references/source-bank/sources"
-NOTES = SOURCE_ROOT / "van-eenwyk-1997-archetypes-strange-attractors/NOTES.md"
+IDEAS = PROJECT / "working/active-ideas.json"
+
+sys.path.insert(0, str(PROJECT / "tools"))
+from source_resolver import resolve_source_house
+
+
+NOTES = resolve_source_house(
+    PROJECT, "van-eenwyk-1997-archetypes-strange-attractors"
+).parent / "NOTES.md"
 
 
 def run_json(command, *, cwd=PROJECT, env=None, input_data=None, check=True):
@@ -114,7 +120,7 @@ class CanonicalJourneyTests(unittest.TestCase):
         self.assertIn("rendered scan", result["verification"])
         self.assertEqual(result["source_relation"], "extracted")
         self.assertTrue(Path(result["canonical_path"]).samefile(
-            SOURCE_ROOT / "colebrooke-1817-brahmagupta-bhaskara/SOURCE.md"
+            resolve_source_house(PROJECT, "colebrooke-1817-brahmagupta-bhaskara")
         ))
 
     def test_writing_context_preserves_the_canonical_claim_without_generic_counterpressure(self):

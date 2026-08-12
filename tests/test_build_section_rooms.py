@@ -47,7 +47,7 @@ class SectionRoomV2Tests(unittest.TestCase):
         run([sys.executable, str(BUILDER), "--project-root", str(PROJECT), "--check"])
 
     def test_active_rooms_are_compact_and_complete(self) -> None:
-        root = PROJECT / "essay-workshop/section-rooms"
+        root = PROJECT / "submission-package/essay/section-rooms"
         for slug in ROOMS:
             room = root / slug
             files = {path.name for path in room.iterdir() if path.is_file()}
@@ -66,7 +66,7 @@ class SectionRoomV2Tests(unittest.TestCase):
 
 
     def test_master_manuscript_is_the_only_active_writing_surface(self) -> None:
-        manuscript = PROJECT / "essay-workshop/THE-RETURN-OF-ZERO.md"
+        manuscript = PROJECT / "submission-package/essay/THE-RETURN-OF-ZERO.md"
         text = manuscript.read_text(encoding="utf-8")
         self.assertEqual(text.count('ownership: frank-sovereign'), 1)
         self.assertEqual(text.count('<a id="section-'), 8)
@@ -75,15 +75,15 @@ class SectionRoomV2Tests(unittest.TestCase):
             self.assertIn(f"section-rooms/{slug}/ROOM.md", text)
 
     def test_builder_never_changes_manuscript_or_reading_routes(self) -> None:
-        protected = [PROJECT / "essay-workshop/THE-RETURN-OF-ZERO.md"]
-        protected.extend((PROJECT / "essay-workshop/section-rooms").glob("*/READING.md"))
+        protected = [PROJECT / "submission-package/essay/THE-RETURN-OF-ZERO.md"]
+        protected.extend((PROJECT / "submission-package/essay/section-rooms").glob("*/READING.md"))
         before = {path: digest(path) for path in protected}
         run([sys.executable, str(BUILDER), "--project-root", str(PROJECT)])
         self.assertEqual(before, {path: digest(path) for path in protected})
 
     def test_real_room_links_and_fragments_resolve(self) -> None:
         run([sys.executable, str(BUILDER), "--project-root", str(PROJECT), "--check"])
-        for reading in (PROJECT / "essay-workshop/section-rooms").glob("*/READING.md"):
+        for reading in (PROJECT / "submission-package/essay/section-rooms").glob("*/READING.md"):
             text = reading.read_text(encoding="utf-8")
             for destination in re.findall(r"\[[^]]+\]\(([^)]+)\)", text):
                 path_part, _, _fragment = destination.partition("#")
@@ -93,27 +93,26 @@ class SectionRoomV2Tests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temporary:
             copy = Path(temporary) / "Antykathera-Essay-Work"
             for relative in (
-                "essay-workshop/nodes/sections",
-                "essay-workshop/nodes/arguments",
-                "essay-workshop/sources-texts-references/source-bank/sources",
+                "submission-package/essay/section-rooms",
+                "submission-package/essay/symbolon/episteme/sources",
             ):
                 shutil.copytree(PROJECT / relative, copy / relative)
             for relative in (
-                "essay-workshop/the-return-of-zero-central-plan.md",
-                "essay-workshop/THE-RETURN-OF-ZERO.md",
+                "the-return-of-zero-central-plan.md",
+                "submission-package/essay/THE-RETURN-OF-ZERO.md",
             ):
                 target = copy / relative
                 target.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy2(PROJECT / relative, target)
             for slug in ("00-integral-threshold", "02-return-of-zero"):
-                source = PROJECT / "essay-workshop/section-rooms" / slug / "READING.md"
+                source = PROJECT / "submission-package/essay/section-rooms" / slug / "READING.md"
                 if source.is_file():
-                    target = copy / "essay-workshop/section-rooms" / slug / "READING.md"
+                    target = copy / "submission-package/essay/section-rooms" / slug / "READING.md"
                     target.parent.mkdir(parents=True, exist_ok=True)
                     shutil.copy2(source, target)
 
             run([sys.executable, str(BUILDER), "--project-root", str(copy)])
-            node = copy / "essay-workshop/nodes/sections/13-s1-p0-sign-migrates.md"
+            node = copy / "submission-package/essay/section-rooms/02-return-of-zero/movements/13-s1-p0-sign-migrates.md"
             node.write_text(
                 node.read_text(encoding="utf-8").replace(
                     "Zero converges several historically distinct inventions",
