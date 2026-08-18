@@ -19,6 +19,7 @@ source_ids:
   - taylor-2026-revision-notes-trust
   - taylor-2026-core-theorems-pithy
   - bratton-2026-agentworld-brief
+  - ionescu-khan-milne-mocan-2025-minimum-viable-interiority
   - 42-techne-2026-sovereign-commons
   - taylor-claude-2026-derivational-chat
   - seed-2010-language-spirit
@@ -53,11 +54,14 @@ tags:
 
 [[The Two Ones — Mono–Poly Matheme]] supplies the ontological kernel: Mono/One and Poly/All are already held in `0/1`, before dia-ballein and sym-ballein account for their differentiation. At social, epistemic, and infrastructural scales, dia-ballein converts plurality into externally opposed units and lets one unit claim the displaced ground as monopoly; sym-ballein retains each particular `1` together with the relation through which the many belong. [[Core Theorem Bridge|*Pros hen* analogia]] is the philosophical discipline of this reading: genuinely many meanings and forms oriented toward one focal relation without univocal collapse.
 
+[[Ionescu, Khan, Milne & Mocan — Minimum Viable Interiority (2025)|Minimum Viable Interiority]] supplies a contemporary artificial-agent case in the inverse direction: rather than beginning with individuals and assembling a collective, it begins from internally collective organisation and asks how a locally singular individual becomes real through nested functional closure and selection. This strongly supports the anti-atomistic proposition that a one can be internally many and nevertheless possess level-specific organisation. Its evidence does **not** establish the QL claim that the whole is ontologically prior, nor does its many→one construction derive the Two Ones matheme. QL adds the return-direction in which the achieved local one remains answerable to the relations and conditions that constituted it and can itself become a participant in a larger poly.
+
 ## Warrants
 
 - [[Sym-Ballein]] retains the ground, fracture, and possibility of recognition; the historical symbolon displays whole and part as relation rather than inventory.
 - [[Sym-Ballein|dia-ballein]] produces necessary distinctions but becomes pathological when it lets a part claim that it has no constitutive field.
 - [[Objective Internality]] shows an agent as a provisional operational whole whose coherence depends upon model, context, tools, permissions, memory, institution, and milieu.
+- [[Ionescu, Khan, Milne & Mocan — Minimum Viable Interiority (2025)|Minimum Viable Interiority]] shows how a multi-model architecture can become a locally coherent individual without treating that individual as internally simple; its functional-closure account is an external architectural resonance, not the metaphysical ground of mono–poly.
 - [[compassion-as-sensitivity-to-origins|compassion as sensitivity to origins]] supplies the vocational test: every determination remains answerable to the many origins through which the whole became this particular form.
 
 ## Tensions retained
