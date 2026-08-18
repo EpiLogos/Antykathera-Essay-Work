@@ -17,6 +17,7 @@ source_ids:
   - whitehead-1978-process-reality
   - bohm-1980-wholeness-implicate-order
   - bratton-2026-agentworld-brief
+  - ionescu-khan-milne-mocan-2025-minimum-viable-interiority
   - seed-2010-language-spirit
   - taylor-2026-mef-twelve-lenses
   - maturana-varela-1980-autopoiesis-cognition
@@ -108,6 +109,8 @@ Epi-Logos is therefore a process architecture whose unit of intelligence is the 
 ## Agentworld consequence: shared language for shared intelligence
 
 The [[Antikythera Agentworld Brief#Source PDF page 3|Agentworld brief]] states that technology has outpaced the concepts and language needed to orient it. It asks for interaction paradigms less dependent on anthropomorphic disguise and more capable of robust collective hybrid intelligence ([[Antikythera Agentworld Brief#Source PDF page 5|p. 5]]); it describes agents and open-world niches as mutually reconstructing ([[Antikythera Agentworld Brief#Source PDF page 6|p. 6]]); and it locates cumulative capability in the harness, ensemble, institutional substrate, and commons ([[Antikythera Agentworld Brief#Source PDF page 49|pp. 49–51]]).
+
+[[Ionescu, Khan, Milne & Mocan — Minimum Viable Interiority (2025)|Minimum Viable Interiority]] supplies the complementary inward process case. Its nested pandemonium architecture shows a provisional individual being achieved from multiple interacting components through selection and functional closure. That supports the process-ontology claim that local identity can be a real organised stability rather than a primitive atom. The source stops at local functional individuation; the QL extension is the return test—whether the achieved closure can expose and revise the sources, exclusions, constraints, and consequences through which it became this one.
 
 Shared intelligence requires a **shared operational grammar** and a **plural inheritance of intelligence**. Its translation must run both ways: agents acquire humanly legible language while humans learn to perceive computational process outside anthropomorphic masks. Its common grammar must also preserve divergent cultures rather than installing a universal machine ontology. Greek *logos*, ratio, dia-ballein, sym-ballein, and symbolon meet Sanskrit and Buddhist Vāk, *kalpa*, apoha, tattva, Spanda, and recognition; process philosophy contributes duration, concrescence, creative advance, and diaphaneity. QL supplies common positions and transformations. MEF preserves the language, tradition, lens, and evidence through which each contribution remains itself.
 
