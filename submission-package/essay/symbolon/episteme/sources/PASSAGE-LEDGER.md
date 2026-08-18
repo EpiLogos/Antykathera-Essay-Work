@@ -2,7 +2,7 @@
 title: "Return of Zero — Passage Locator Ledger"
 generated: true
 generator: tools/build-source-projections.py
-source_digest: "30d86fc2b49a1213f3b187e081e7b69d267a21473275dbfff0c4bd3d65d399e9"
+source_digest: "07938b51d3740eb8551bd3e8119b8c5e5f8db3388c3870a740f86919076bf66c"
 ---
 
 <!-- Generated from canonical SOURCE.md houses. Do not edit by hand. -->
