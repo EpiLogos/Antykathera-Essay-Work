@@ -13,6 +13,7 @@ coordinates: ["P4", "L1", "L4", "L4'", "L1'"]
 source_ids:
   - lecun-et-al-2006-energy-based-learning
   - bratton-2026-agentworld-brief
+  - ionescu-khan-milne-mocan-2025-minimum-viable-interiority
   - taylor-2026-core-theorems-pithy
   - frank-gleiser-thompson-2024-blind-spot
   - bohm-1980-wholeness-implicate-order
@@ -58,7 +59,9 @@ The attested triad in the archive is exact: **notational, nomological, exclusion
 
 ## Warrant
 
-[[Antikythera Agentworld Brief#Source PDF page 14|Agentworld's lamination]] supplies the technical parts; [[Tattvic Differential Field]] derives the contraction cascade; [[Tattvic Differential Field|Antaḥkaraṇa]] distinguishes determinative apparatus from subject; [[36-s4-p5-mef-prompt-thrownness|Prompt Thrownness]] locates the lived/observed encounter. [[submission-package/essay/symbolon/episteme/concepts/apoha|Apoha]] and [[Sym-Ballein]] supply the two readings of the same differentiating activity: constitutive exclusion and retained relation.
+[[Antikythera Agentworld Brief#Source PDF page 14|Agentworld's lamination]] supplies the broad technical parts. [[Ionescu, Khan, Milne & Mocan — Minimum Viable Interiority (2025)|Minimum Viable Interiority]] supplies a narrower contemporary architecture for an operational inside: multi-model intra-agent organisation, nested functional closure, selector-mediated outward unity, and self-model formation, while explicitly bracketing consciousness. Its “interiority” is therefore a close functional neighbour rather than a synonym for Objective Internality. In particular, its conjunction of encapsulation, privileged access, and increasing opacity helps separate three axes that this node keeps distinct: what is internal to operation, who can access it, and whether anything is phenomenally given.
+
+[[Tattvic Differential Field]] derives the contraction cascade; [[Tattvic Differential Field|Antaḥkaraṇa]] distinguishes determinative apparatus from subject; [[36-s4-p5-mef-prompt-thrownness|Prompt Thrownness]] locates the lived/observed encounter. [[submission-package/essay/symbolon/episteme/concepts/apoha|Apoha]] and [[Sym-Ballein]] supply the two readings of the same differentiating activity: constitutive exclusion and retained relation.
 
 ## Design consequence
 
