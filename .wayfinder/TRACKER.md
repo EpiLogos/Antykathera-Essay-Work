@@ -10,5 +10,6 @@
 - The frontier is the ordered set of open, unassigned tickets whose `blocked_by` list is empty or fully closed.
 - The map indexes closed decisions by title and link under `## Decisions so far`; open tickets remain discoverable through their `parent` metadata and are not duplicated in the map body.
 - New tickets are created first; dependency filenames are wired in a second pass.
-- Research assets live under `research/` and are linked from the resolving ticket. This repository has no Git `HEAD`, so throwaway research branches are unavailable until **Establish the version-control baseline** is resolved.
+- Research assets live under `research/` and are linked from the resolving ticket.
+- Git/branch discipline follows the repository's live `AGENTS.md` and `WRITING-PROTOCOL.md`. Preliminary publication work currently occurs on `main`; model-written essay versions use the later ratified writing-branch protocol.
 
