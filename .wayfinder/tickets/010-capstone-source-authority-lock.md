@@ -1,7 +1,7 @@
 ---
 title: Lock the capstone essay and O:I authority field
 label: wayfinder:research
-status: in-progress
+status: done
 parent: ../maps/objective-internality-capstone-quilt.md
 assignee: "GPT-5.6 Sol"
 blocked_by: []
@@ -36,3 +36,7 @@ Do not harmonise yet. This ticket establishes the field within which harmonisati
 ## Done when
 
 The source map is complete enough that tickets 011–015 can cite authority rather than guessing; implementation claims are not inferred from vision documents; authorial essay claims are not downgraded because a source has a different office; all named debts are explicit.
+
+## Resolution
+
+Completed 2026-08-19. See `SOURCE-AND-AUTHORITY-MAP.md`; authority classes and live product revisions are pinned and the known protocol conflicts are handed to 011a rather than silently normalised.
