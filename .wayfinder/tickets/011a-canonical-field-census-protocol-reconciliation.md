@@ -1,9 +1,9 @@
 ---
 title: Recensus the canonical field and reconcile publication protocols
 label: wayfinder:task
-status: open
+status: in-progress
 parent: ../maps/objective-internality-capstone-quilt.md
-assignee: ""
+assignee: "GPT-5.6 Sol"
 blocked_by:
   - 011-objective-internality-48-movement-traversal.md
 assets:
