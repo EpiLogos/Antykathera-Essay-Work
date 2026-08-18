@@ -1,0 +1,45 @@
+name: Append late quilt 2026-08-18
+
+on:
+  push:
+    branches:
+      - agent/late-quilt-jung-trust-counterculture-2026-08-18
+    paths:
+      - .github/workflows/append-late-quilt-2026-08-18.yml
+
+permissions:
+  contents: write
+
+jobs:
+  append:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/late-quilt-jung-trust-counterculture-2026-08-18
+          fetch-depth: 0
+
+      - name: Append late quilt and clean staging files
+        shell: bash
+        run: |
+          set -euo pipefail
+          target='submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md'
+          printf '\n' >> "$target"
+          cat .late-quilt-payload-1.b64 .late-quilt-payload-2.b64 .late-quilt-payload-3.b64 .late-quilt-payload-4.b64 \
+            | base64 -d \
+            | gzip -d >> "$target"
+          rm .late-quilt-payload-1.b64 .late-quilt-payload-2.b64 .late-quilt-payload-3.b64 .late-quilt-payload-4.b64
+          rm .github/workflows/append-late-quilt-2026-08-18.yml
+
+      - name: Commit appended quilt
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md \
+                  .late-quilt-payload-1.b64 .late-quilt-payload-2.b64 .late-quilt-payload-3.b64 .late-quilt-payload-4.b64 \
+                  .github/workflows/append-late-quilt-2026-08-18.yml
+          git commit -m 'quilt: append Jung trust and counterculture late weave'
+          git push origin HEAD:agent/late-quilt-jung-trust-counterculture-2026-08-18
