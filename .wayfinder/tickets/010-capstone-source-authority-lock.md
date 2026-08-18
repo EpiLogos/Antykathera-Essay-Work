@@ -1,9 +1,9 @@
 ---
 title: Lock the capstone essay and O:I authority field
 label: wayfinder:research
-status: open
+status: in-progress
 parent: ../maps/objective-internality-capstone-quilt.md
-assignee: ""
+assignee: "GPT-5.6 Sol"
 blocked_by: []
 assets:
   - ../../working/harmonisation-2026-08-18-objective-internality-capstone/SOURCE-AND-AUTHORITY-MAP.md
