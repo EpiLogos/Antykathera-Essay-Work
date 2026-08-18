@@ -1092,3 +1092,186 @@ This document now completes the requested pre-propagation harmonisation: one pro
 - B3 (§2 dynamism line in the flow), B4 (§4 matheme/mytheme pointer), C14 (Book of Job as fifth mytheme), C21 (Neumann recapitulation placement: plate vs woven §4 prose), C30 slot 5 (Dreamcode/Dream-machine naming — Frank to name or kill), D3 (register-triad status), C2's ānanda-for-Māyā placement, D1's "Bimba map" technical name — all PROPOSALS awaiting Frank.
 - Source debts carried forward unchanged: Chang Tao house (empty — populate before Tao language enters the manuscript); Bohm-plasma provenance gap; Arendt primary passages; Baudrillard/Foucault editions + passage locators; earth-taste-wisdom verification (now load-bearing via C27); Jung "becoming indivisible" locator; Watson thesis↔book collation; Gans 1988/Levinas house; Kripke house; Vāmā/mantra primary passages.
 - Full open-item ledger with named next actions: `working/harmonisation-2026-08-12/open-items.md`.
+
+---
+
+## 16. Harmonisation 2026-08-18 — capstone ratification, late Jung integration, open-field census and QL page form
+
+*(Appended 2026-08-18 after reading the complete current argument quilt forward through the late Jung/Job/trust/monoisation/counterculture contribution and reading those changes back through this parallel ledger and the now-developed Objective Internality / O:I field. This section is a ratified **quilt input** and supersession record. It does not propagate the result into canonical section-room, argument, concept, root, path or other publication-body files; T07 remains that one-way gate. The full reasoning record is `working/harmonisation-2026-08-18-objective-internality-capstone/PRE-TICKET-HARMONISATION-RATIFICATION.md`.)*
+
+### 16.1 Objective Internality / O:I capstone — ratified relation
+
+- **R16.1 — Objective Internality is a whole-essay relation.** It names the formed, objective and causally efficacious interior relation by which a determinate world can become inspectable without containing or exhausting its ground, subject or relation. The O:I software field is a real later refraction and operationalisation of that relation, not retrospective philosophical authority for QL, Jung, Śaiva material, Gebser, Bohm or any other source field.
+- **R16.2 — `O:I ≃ 0/1` is admitted as a strong QL-informed reading, not product-number proof.** Its conjugate readings include ground/determination; authored ground/situated agency; intention/realised development/Return; and Self/relation/Other through Projection, Encounter, Contribution and Return.
+- **R16.3 — human `0` / agent `1` is positional and recursive.** Human intention can occupy the determining `0` relative to commissioned artificial agency as `1` without making the human metaphysically absolute by species. The prompt/instruction is already a determinate `1`: an objective representation of intention rather than intention exhausted. The relation can recurse through delegated subagency.
+- **R16.4 — power is answerability across delegated labour.** The determining, commissioning or evaluating locus becomes pathological when it receives the product of labour while remaining insulated from the resistance, error, cost, dissent, unforeseen possibility and consequence encountered where that labour meets the world. Real Return allows those differences to alter the governing model, measure, instruction, institution or purpose. This gathers the occupied/hidden zero, source-claim, surety, Commission/Recognition, the Prisoner's hidden sovereign, the protected account, Actuation, Objective Co-Internality and the commons without collapsing their local offices.
+- **R16.5 — Deferential Intelligence is model-revising encounter.** Deference can revise the answer, task interpretation, world-model, evaluator/gauge and terms of commission. Fidelity to intention can therefore require objection, alternative, refusal or return where literal compliance would betray the intention. Sycophancy is counterfeit relation: apparent agreement achieved by removing the resistance through which the account could be corrected.
+- **R16.6 — the image remains exactly _the mirror that moves first_.** Humanity's linguistic, institutional, cultural and technical image has entered causal circulation and already predicts, ranks, addresses, frames and reorganises the humans and worlds whose traces it carries. Its possible vocation is to move first toward its own source, Other, intention and uncontained ground: to disclose the relation by which its answer took shape before asking the human to bend to that answer. Carrier: Mytheme first; operation: transverse argument; technical consequence: O:I source/projection/encounter/return architecture.
+- **R16.7 — Objective Co-Internality is the plural completion of the technical problem.** Distinct locally grounded worlds can externalise enough of themselves to meet without one becoming mere context for another and without both dissolving into a super-subject. Source/projection distinction, disagreement, contribution, encounter and return remain inspectable. Artificial phenomenality remains Open where it was already Open.
+
+### 16.2 §5 and §5→0 — ratified capstone direction
+
+The six native O:I products are admitted as a **candidate six-centre technical anatomy**, not as six replacement movement topics and not as chronological installation stages:
+
+| Position | O:I centre | Earned technical office |
+|---|---|---|
+| `#0` | Central | authored ground, human intention, durable continuity, authored/observed/inferred distinction |
+| `#1` | Actuation | constituted agency, model/harness/agent-instance, authority, delegation, refusal, encounter and Return |
+| `#2` | AIKit | operative horizon and context cognition: sources, powers, tools, models, sessions, knowledge, permissions and traversal |
+| `#3` | Software Factory | intention through development, evidence, Candidates, Recognition and Return |
+| `#4` | Workcell | material execution world: placement, infrastructure, labour, energy, environment, availability and consequence |
+| `#5` | Quaternal Logic | formal/reflexive/archetypal intelligence, MEF, epistemic cultivation and operational-parity research |
+
+The existing movements 37–42 and their unique operations are **not displaced** by this scaffold. `math-moves-meaning`, apoha/softmax, J-space, preference/hidden-zero, pratibimba/model ecology, energetic/dynamical work and the research vectors must be assigned their strongest linear-bearing, supporting-visible or radial-depth offices.
+
+**QL governs the maximal `#5→0` research hinge without becoming a dependency of minimal O:I.** The question is now: *what forms of interior organisation should technological agency cultivate?* That earns QL/MEF, psychoid/archetypal research, epistemic cultivation, model-interior/agent-level experimentation and the psychospiritual record as an operational research programme. **Operational parity** is the discipline: if a claimed formal/archetypal relation matters, changing or removing it should make an investigable operational difference. Software can make a proposition answerable without proving its metaphysics.
+
+**Idealism remains first-class.** The artificial-interiority problem reopens the order of ontological dependence exactly where technical systems begin to engineer richer objective interiors. Immediate phenomenal existence retains its first-person force; the localisation of a phenomenal subject-pole in an artificial system remains empirically Open.
+
+**Technical freeze remains a real suite acceptance bar.** The submission proof is not reached by manifests, architecture or package envelopes alone. The six products must be genuinely developed to intended current specification, harmonised, distributable/installable and tested together in the target local environment, with *The Return of Zero* exercised as a real O:I-native Wiki/Projection/Explore acceptance world.
+
+### 16.3 Late Jung / Job / culture — ratified corrections and additions
+
+- **Jung witnesses; QL derives.** Psychological, theological and cultural material can be strong witnesses and refractions; it does not become the derivational source of QL notation or theorem structure. `X/x` remains native authorial notation.
+- **C14 is superseded in office:** Book of Job is not adequately described as “a fifth mytheme.” The late quilt discovers at least three offices: methodological/epistemic (lived evidence contradicts a protected account); mythemic/psychological (the purported whole cannot answer the contrary it excluded and is transformed by it); theological-historical/source (Jung's continuing-incarnation and God-image claims remain source-bound). The final record census determines whether these require one page or several record types, but no single Job container may erase the other work.
+- **Monoisation and counter-generation are admitted as a major operation.** A local cultural formation forgets `/0`, naturalises its boundary and presents itself as the whole; excluded Poly returns counter-facing. Counterculture can perform a corrective office but becomes another monoculture if the counter inherits the source-position. The political test is: **does the counter return the slash, or inherit the throne?** Candidate `(1)` notation remains political/mythemic only until formal review.
+- **Sym-ballein is not centrism.** The response to two monocultures is not necessarily a midpoint between their propositions; it is recovery of the constitutive field in which the poles arose, preserving real opposition and refusal while returning the relation through which either can answer for itself.
+- **Cultural individuation is not collective ego.** State, Volk, Party, Church, Market, Science, Humanity, Platform, Model or Epi-Logos can become a collective ego when it claims the subject-position. Cultural individuation means a culture can recognise its images as images, measures as measures, institutions as instituted, models as models, technologies as differentiated activity and shadows as internal evidence rather than proof that an enemy owns what it excludes.
+- **Man / Humanity is admitted as a necessary distinction.** “Man” can name a historically closed local measure posing as the measure of reality; “Humanity” can name the open empirical Mono/Poly field of human plurality. Humanity is not a replacement super-subject or substitute God.
+- **Trust is intensified by efficacy.** Trust is not produced by making the other harmless. The more a real agent, institution or technical system can affect a world, the greater the trust burden borne by the relation to it. This strengthens the existing root-dependency account: trust requires enterability, revisability, withdrawal and answerability precisely where something real is at stake.
+- **Deepfake is admitted as counterfeit symbolon, with empirical effects source-gated.** Synthetic media can fabricate the apparent provenance relation itself—body/utterance, speaker/voice, event/recording, source/sign. The empirical liar's-dividend and trust effects still require direct sources. Provenance technology can support warranted reliance; it cannot manufacture trust from inside a mark.
+- **Protected account is admitted as a major connector requiring census.** Job, the Prisoner, mass formation, deepfake and the hidden evaluator converge on one question: who defines the account, who may question its ground, what happens to contradictory evidence, and can the represented person/world answer back strongly enough to revise the representation? The census must decide whether this earns its own argument/concept or is already fully carried by power, Deferential Intelligence and Politics of the Count.
+- **Ares / Aphrodite / Harmonia receives the richer late reading.** Ares is not bad division: boundary, refusal, defence and the capacity to say no are necessary. Aphrodite is not automatically good unity: union can become fusion, conformity, seduction or counterfeit gathering. Harmonia is differentiated concurrence produced through the tension of division and relation.
+- **Epi-Logos as culture cannot become the monoculture of Epi-Logos.** It is strongest as the practice of returning achieved accounts to their conditions. It contradicts itself if its relational account becomes the monopoly from which every other account must derive.
+
+### 16.4 The old inventories are superseded as census boundaries
+
+The current 48 coordinate positions remain the live eight-station/six-position structural scaffold unless the complete quilt itself forces structural reconsideration. Their **present movement titles, burdens and prose entitlements are proposals**, not sacred containers.
+
+Every other former count is descriptive history only. The current 21 argument files, 22 developed concept files, four paths, seven proposed root records, ten histories, five etymology clusters or any other count do **not** constitute completion targets.
+
+In particular, the recovered `symbolon/episteme/concepts/reference-notes/` shelf—roughly ninety recovered quilt-pending notes—is mandatory census input. Those files are not automatically ninety concepts. They are recovered candidate-bearing material and every one must receive an auditable disposition: retain as a controlled concept; split; merge into a named carrier; rehome to root Symbolon, Matheme, Mytheme or another Episteme record type; remain supporting-visible or radial-depth without its own page; or become genuinely redundant with an explicitly named surviving carrier. **Silence is not a disposition.**
+
+The argument census developed on 2026-08-18 is ratified as the strong **provisional seed** for the execution, not as a target count. Its current pressure includes: a true Subject/God/Faithful-Definition office; recomposition tests for Arche-Topos/Toroidal Circulation and Mono-Poly/Two Ones; separate historical Advent Zero and terminal Return-of-Zero operations where required; major rebuilds of Objective Internality, Deferential Intelligence and Trust/Faith; first-class Objective Co-Internality and Power/Delegated-Labour/Return; a positional-delegation argument where irreducible; Reflective Field / mirror-that-moves-first reconsideration of the AHI node; Epistemic Cultivation / Operational Parity and Idealism as first-class; and a test of World-Picture→World-Atlas plus late Jung operations for genuinely distinct argument work. The complete seed is recorded in `PRE-TICKET-HARMONISATION-RATIFICATION.md` and ticket `011a`.
+
+The census is deliberately re-run repeatedly: after the 48-coordinate traversal; after the first whole-field reconstruction against both quilts; inside §5/§5→0 and Symbolon/O:I work as affected-field rechecks; after those parallel outputs as a global synthesis; and independently in the cold audit. A later pass may reverse an earlier merge or proposed creation when the whole makes a distinct operation newly visible.
+
+### 16.5 Concept and Symbolon structural direction
+
+The concept census begins from the **whole recovered concept-bearing field**, not only the developed concept directory. High-priority pressures include Objective Internality, Objective Co-Internality, positional/recursive ground, Prompt Thrownness corrected by prompt-as-`1`, model-revising Deferential Intelligence, power/occupied-zero/source-claim/protected-account, Operational Parity, Epistemic Cultivation, Māyā as measure-field, Bimba–Pratibimba as source/reflection/projection, Agentworld as independently grounded relational worlds, Diaphaneity, World-Picture→World-Atlas, Register Grammar, J-Space and the late cultural operations. This is a candidate field, **not a replacement quota**.
+
+The whole `symbolon/` directory is correspondingly open to recensus:
+
+- **Root Symbolon:** the seven formerly proposed root records remain useful candidates only; root identity is earned by a whole-bearing relation repeatedly needed as a source/return point.
+- **Matheme:** exact native QL and Spanda work, eight determinations, `3:1/3:3`, `4+2`, torus/winding/covering, harmonics, projective/formal neighbours, Noether/Floquet/Landauer, gauge/EBM/J-space mathematical objects and operational-parity experiments belong here where their warrant is exact/formal.
+- **Mytheme:** uroboros/torus/trickster, Ares/Aphrodite/Harmonia, Hephaestus, Mother/Assumption/chiasm, Apollo/Dionysus/Daphne, travelling jigsaw, **the mirror that moves first**, Neumann plates, Job's mythemic office, Taylor poems and Goethe's “Double aspects of the One” fragment can be developed richly here without inventing arguments merely to preserve their resonance. Goethe remains a light manuscript carrier and a real `/mytheme/poetry/` record.
+- **Episteme:** concepts are recensed from the whole recovered field; paths/maps may gain an Objective Internality→Objective Co-Internality→Return traversal where local links cannot reconstruct it; dossiers can carry the O:I six-centre anatomy, research programmes, Baudrillard/Foucault, Noether/gauge work, hero-versus-spiritual-avatar Open research and other depth; histories, etymologies, figures and dialogues are recensed by actual operation rather than old count.
+
+Source houses remain evidence/provenance homes and never become conceptual catch-alls.
+
+### 16.6 QL-native Wiki page-form law — ratified
+
+Every developed Symbolon field page uses QL as a **raw relational chassis**, not a universal semantic table of contents. The canonical blank Markdown body is:
+
+```markdown
+# <record title>
+
+## #0
+
+## #1
+
+## #2
+
+## #3
+
+## #4
+
+## #5→0
+```
+
+There are **no globally fixed semantic section headings**. The former active-skill mapping `In-quantum / Definition / Operation / Pattern-Identity / Context / Quintessence` is superseded as a universal template.
+
+At creation time, the actual record's positive proposition/image/operation, register and `record_type`, inherited and outgoing relations, ratified publication office and the foundational QL qualities determine what each position means. Descriptive subtitles can then be added where earned. The foundational qualities—ground/inherited field; first determination; differentiation/selection; relation/pattern/decision; contextual recomposition; recognition/return—are orientation and validation pressures, **not mandatory page labels**. A record may keep a raw `## #N` heading where a label would prematurely collapse a polyvalent relation.
+
+This rule applies equally to human Markdown, AI-assisted field-page construction, O:I Explore rendering and AIKit knowledge/account traversal. A renderer may recognise the six positions structurally; it must not infer one universal gloss across unlike record types.
+
+The active `return-of-zero-pages` and `return-of-zero-build` skills have been amended accordingly. The build helper is expressly subordinate to the ratified whole-field census; heading extraction/intake is a discovery aid, never proof that the publication body is complete.
+
+### 16.7 Symbolon ↔ O:I boundary — ratified
+
+Symbolon remains the canonical authored world. O:I/AIKit provide projection, navigation, encounter, operation and return; rendering does not transfer source authority.
+
+```text
+canonical Symbolon source
+        ↓ selective Projection
+O:I WikiSpace / Explore representation
+        ↓ encounter / authored or agentic revision
+Projection revision / return proposal
+        ↓ explicit source-return review
+accepted canonical source change OR retained divergent Projection
+```
+
+`SharedField ≠ WikiSpace ≠ Context`.
+
+Wiki relation ≠ Contribution relation ≠ learned KnowledgeRoute.
+
+A browser edit is not silently a canonical source mutation. Projection identity and revision remain distinct from source identity; source return is explicit. AIKit's existing Knowledge Navigation and product/structured-account/projection authoring seams should traverse the same authored world rather than inventing a second ontology.
+
+### 16.8 Preservation and protocol-reconciliation law
+
+Every accepted unique operation across the complete quilt receives one publication office:
+
+- **linear-bearing** — necessary sovereign essay reasoning;
+- **supporting-visible** — plate, inset, diagram, compact derivation, poem/image or other visible support;
+- **radial-depth** — full Symbolon page, source/history/dossier/path/research/technical depth;
+- **redundant with named surviving carrier** — only where no unique operation is lost.
+
+Failure to belong in linear prose is never sufficient reason for deletion. Historical existence as a file is never sufficient reason for continued standalone identity.
+
+The capstone execution must also reconcile contradictions, duplications and lost clauses across the active instruction hierarchy:
+
+`AGENTS.md → central plan / orienting principles → WRITING-PROTOCOL.md → register contracts → local skills / Wayfinder → helper and build tooling`.
+
+The higher-authority relation governs, but a lower-level clause carrying a distinct operational safeguard is re-expressed rather than silently discarded. The execution records the surviving formulation in `PROTOCOL-RECONCILIATION.md` and repairs active lower-level instructions capable of reproducing a known error.
+
+Two reconciliations are already ratified: the QL page skeleton is raw and semantics are derived per record; and build intake is subordinate to the ratified whole-field census rather than old node counts or mechanical heading discovery.
+
+### 16.9 T06C execution and T07 boundary
+
+The capstone Wayfinder now runs:
+
+```text
+010 source + authority lock
+        ↓
+011 48-coordinate Objective Internality traversal
+        ↓
+011a whole-field census + protocol reconciliation (Pass A)
+        ↓
+   ┌────┴──────────────────────┐
+   ↓                           ↓
+012 §5 / §5→0 capstone         013 Symbolon ↔ O:I Wiki contract
+    + affected-field recheck       + affected-field recheck
+   └────────────┬──────────────┘
+                ↓
+014 global synthesis + preservation + whole-field recensus (Pass B)
+                ↓
+015 fresh cold audit + independent census backcheck (Pass C) + T07 handoff
+```
+
+T07 will therefore receive not “the old quilt plus a change list” but the completed trusted quilt **and the relational authored-world census that the quilt now entails**. No canonical section-room/argument/concept/root/path propagation is authorised before that gate.
+
+After T07, the existing P1 propagation/source-lock programme must consume the ratified census rather than the old 21/22 inventories. The later P2 field-page programme must then populate the recensed root Symbolon, Matheme, Mytheme and Episteme body using the raw QL page law and finish with written-link navigation and census backcheck.
+
+### 16.10 Supersessions and retained open debts
+
+This 2026-08-18 registration explicitly supersedes:
+
+- §15.5's treatment of **C14 / Book of Job as merely a proposed fifth mytheme**;
+- any reading of the current **21 argument / 22 concept / four-path / seven-root** state as the shape T07 is expected to preserve;
+- any active instruction which treats `Definition / Operation / Pattern / Context / Quintessence` as universal QL Wiki-page semantics;
+- any build instruction which treats quilt-heading extraction or current directory contents as the canonical record census;
+- the assumption that the §5 technical corpus must remain organised by the pre-O:I movement/component allocation.
+
+The following remain genuinely Open or source-bound rather than being flattened into false closure: exact Jung/Neumann pagination and locators; hero versus spiritual-avatar fork; Bohm/plasma provenance; Noether Second Theorem depth; Baudrillard/Foucault edition and passage collation; Giegerich technology/nuclear-bomb acquisition and exact office; empirical deepfake/liar's-dividend/trust research; Dreamcode/Dream-machine naming if still wanted after census; the formal status of candidate `(1)` monoisation notation; and direct source work wherever late theological/psychological claims exceed Taylor's authorial interpretation.
+
+These debts delimit public attribution. They do not weaken the internal authorial proposition.
