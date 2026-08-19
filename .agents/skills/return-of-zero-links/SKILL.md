@@ -40,7 +40,7 @@ Do not use to infer links from vocabulary or shared keywords; inferred links are
 
 ## Minigraph target
 
-A well-written page has exactly the neighborhood it needs: 5–7 declared relations, never an inferred fog. Count them. If the local graph is unreadable, the prose has not done its linking work.
+A well-written page has exactly the neighborhood its actual operation requires. There is **no numerical target** for link degree. Count is evidence for audit, never a quota: three necessary declared relations are better than seven padded ones, while a genuinely transverse page may require more relations than a narrow leaf. If the local graph is unreadable, inspect whether the prose has named real relations at the right grain rather than deleting or adding links merely to hit a number.
 
 ## Common mistakes
 
@@ -48,3 +48,4 @@ A well-written page has exactly the neighborhood it needs: 5–7 declared relati
 - Linking to a hub page that does not itself resolve to a real home.
 - Generating an index or MOC before the written links exist.
 - Treating every mention as a link; only implicating relations earn a link.
+- Adding or deleting relations to satisfy an arbitrary numerical quota.
