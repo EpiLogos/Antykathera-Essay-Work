@@ -1,9 +1,9 @@
 ---
 title: Define the Symbolon ↔ O:I native Wiki and knowledge-layer contract
 label: wayfinder:task
-status: open
+status: in-progress
 parent: ../maps/objective-internality-capstone-quilt.md
-assignee: ""
+assignee: "GPT-5.6 Sol"
 blocked_by:
   - 011a-canonical-field-census-protocol-reconciliation.md
 assets:
