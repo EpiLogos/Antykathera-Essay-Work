@@ -38,17 +38,17 @@ A source can be authoritative for one kind of claim without being authoritative 
 
 ## 2026-08-19 live-programme revalidation
 
-The first 010 pass contained stale programme heads and, critically, an AIKit SHA that did not resolve. 011a therefore reopened the evidence lock before 012/013 could inherit it. The following heads were fetched directly from each repository's live `main` and are the capstone's current implementation/design evidence boundary:
+The first 010 pass contained stale programme heads and an AIKit SHA that did not resolve. A first revalidation write then transcribed several returned SHA strings incorrectly. **Both earlier pin sets are superseded by the exact branch-API values below.** Each value has been copied from a fresh `branches/main` response or, for AIKit, validated by successful file reads at that exact commit.
 
 | Responsibility centre | Repository | Revalidated live head |
 |---|---|---|
 | whole / coordination | `EpiLogos/O-I` | `9a34a83158dada7df236aa04efaa24f47704263d` |
-| #0 Central | `EpiLogos/Central` | `a332b26ef78dd9a8e76f9aec04dbc7a1221dccbb` |
-| #1 Actuation | `EpiLogos/Actuation` | `0c6a9147145d52bb78084112ba1cb9cc8ecacdc6` |
+| #0 Central | `EpiLogos/Central` | `a332b26eb08b95581533fc5053a2d16a22cf1f69` |
+| #1 Actuation | `EpiLogos/Actuation` | `0c6a9147a780329007733df643eb07108f589ac6` |
 | #2 AIKit | `EpiLogos/ai-kit` | `42127820d6e5bf4ea5ee248e88e305e14c5c1a7c` |
-| #3 Software Factory | `EpiLogos/agent-system-design` | `02627a2370078353ba51755a4353119beb8ce78c` |
-| #4 Workcell | `EpiLogos/Workcell` | `8a744b1dfcede5d795774b26897eaff2625183d0` |
-| #5 Quaternal Logic | `EpiLogos/QL-MEF` | `75d42730c1a59efdc405728a46064e0f2e63fc65` |
+| #3 Software Factory | `EpiLogos/agent-system-design` | `02627a2373ada04369e9d2d338cfd0809f49725c` |
+| #4 Workcell | `EpiLogos/Workcell` | `8a744b1ddbdc694ad71b7aea72064f7def6620d2` |
+| #5 Quaternal Logic | `EpiLogos/QL-MEF` | `75d4273060270de4771fe853875b798a1306c219` |
 
 These SHAs are **evidence pins**, not permanent product version claims: T16 or any later technical-source use must record drift if a main branch changes before the claim is propagated.
 
@@ -65,13 +65,13 @@ Revalidated live head: `EpiLogos/O-I@9a34a83158dada7df236aa04efaa24f47704263d`.
 
 ### Central — #0
 
-Revalidated head: `EpiLogos/Central@a332b26ef78dd9a8e76f9aec04dbc7a1221dccbb`.
+Revalidated head: `EpiLogos/Central@a332b26eb08b95581533fc5053a2d16a22cf1f69`.
 
 Central is authority for durable authored/project ground and source identity. Human-authored source remains source; observed/inferred material may propose but cannot silently become authored ground; derived projections remain subordinate. Exact current implementation claims are tied to this head rather than earlier README recollection.
 
 ### Actuation — #1
 
-Revalidated head: `EpiLogos/Actuation@0c6a9147145d52bb78084112ba1cb9cc8ecacdc6`. Authority for situated agency as such: constitution of agency, authority/delegation/refusal, composition/metagency, encounter and Return. In this essay it is a technical responsibility centre and evidence source, never proof of phenomenal subjectivity.
+Revalidated head: `EpiLogos/Actuation@0c6a9147a780329007733df643eb07108f589ac6`. Authority for situated agency as such: constitution of agency, authority/delegation/refusal, composition/metagency, encounter and Return. In this essay it is a technical responsibility centre and evidence source, never proof of phenomenal subjectivity.
 
 ### AIKit — #2
 
@@ -82,7 +82,7 @@ The actual implemented knowledge seams at this head are stronger and more precis
 - `crates/aikit-core/src/knowledge_operations.rs` defines the canonical provider-neutral Knowledge Navigation operations: `search`, `read`, `relations`, `route`, `frame`, `sources`, `explain`, `history`, `status`;
 - `KnowledgeApplication` is explicitly a **federation, not a universal graph**: providers retain relation, ranking, identity and authority semantics;
 - `crates/aikit-core/src/knowledge_wiki.rs` exposes open `okf-wiki/v1` objects (`WikiSpace`, `WikiNode`, `WikiEdge`, `WikiFrame`, `WikiReading`) with revision and provenance; provider/index/database identifiers are forbidden from defining canonical Wiki identity, and project ontology/node types remain open rather than translated into AIKit kinds;
-- the current `main` merge binds Central/ProjectCentral local Wiki worlds into Knowledge Navigation while preserving Central source identity/provenance and delaying human-material reads until explicit ContextSource/Wiki reads.
+- the current `main` binds Central/ProjectCentral local Wiki worlds into Knowledge Navigation while preserving Central source identity/provenance and delaying human-material reads until explicit ContextSource/Wiki reads.
 
 The 013 ticket's prose labels `product-understanding`, `structured-account-authoring` and `projection-authoring` are therefore **not treated as proven literal implemented Skills merely because the ticket names them**. 013 must bind to the real Knowledge Navigation/Wiki/ProjectCentral primitives above and identify any higher-order authoring praxis as an explicit downstream requirement unless separately proven.
 
@@ -90,15 +90,15 @@ AIKit's `projection.rs` target-projection machinery is also not to be confused w
 
 ### Software Factory — #3
 
-Revalidated head: `EpiLogos/agent-system-design@02627a2370078353ba51755a4353119beb8ce78c`. Authority for developmental form: Projects/Runs, plans, evidence, candidates, Recognition and return from implementation reality to authored understanding. It is not the source owner of Symbolon; current praxis/reflection developments may add evidence channels but cannot silently edit authored ground.
+Revalidated head: `EpiLogos/agent-system-design@02627a2373ada04369e9d2d338cfd0809f49725c`. Authority for developmental form: Projects/Runs, plans, evidence, candidates, Recognition and return from implementation reality to authored understanding. The 2026-08-19 head also accepts the Skill / UsageOverlay / Method / SkillSet / Profile distinction consumed by current Factory praxis work. Factory is not the source owner of Symbolon; praxis/reflection may add evidence channels but cannot silently edit authored ground.
 
 ### Workcell — #4
 
-Revalidated head: `EpiLogos/Workcell@8a744b1dfcede5d795774b26897eaff2625183d0`. Authority for material execution, provider/world/service/binding/lifecycle contracts and the resistant material facts of placement/infrastructure. Its facts can return pressure into models; they do not set essay ontology.
+Revalidated head: `EpiLogos/Workcell@8a744b1ddbdc694ad71b7aea72064f7def6620d2`. Authority for material execution, provider/world/service/binding/lifecycle contracts and the resistant material facts of placement/infrastructure. Its facts can return pressure into models; they do not set essay ontology.
 
 ### Quaternal Logic — #5
 
-Revalidated head: `EpiLogos/QL-MEF@75d42730c1a59efdc405728a46064e0f2e63fc65`. Authority for the current formal/refractive programme and executable operations actually present at this head, including the newly developed coordinate-bearing computational floor. Native essay QL remains authorial: implementation/formal neighbours can operationalise, test and pressure it, but do not retroactively prove the metaphysics. Maximal QL/psychoid/archetypal claims remain research unless independently warranted.
+Revalidated head: `EpiLogos/QL-MEF@75d4273060270de4771fe853875b798a1306c219`. The 2026-08-19 head accepts the parity-proven R1/R2 native C primitive floor together with a coordinate/provenance manifest and validation gate, while explicitly leaving Bimba/source-authority/ring/build gaps open. It is authority for the current formal/refractive programme and executable operations actually present at this head. Native essay QL remains authorial: implementation/formal neighbours can operationalise, test and pressure it, but do not retroactively prove the metaphysics. Maximal QL/psychoid/archetypal claims remain research unless independently warranted.
 
 ## Capstone claim boundaries recovered before traversal
 
@@ -120,4 +120,4 @@ The lock recovers these load-bearing essay claims without deciding their final c
 
 ## Revalidated lock result
 
-010 is again closed on a trustworthy evidence boundary. The earlier stale/invalid programme pins are superseded by the revalidated table above. 012/013 may now use current product evidence without treating current software as the source of the essay's dia/sym-ballein, QL, psychoid or metaphysical derivations; implementation may demonstrate, operationalise or return pressure, but it does not dictate ontology.
+010 is again closed on a trustworthy evidence boundary. Both earlier pin sets are superseded by the exact revalidated table above. 012/013 may now use current product evidence without treating current software as the source of the essay's dia/sym-ballein, QL, psychoid or metaphysical derivations; implementation may demonstrate, operationalise or return pressure, but it does not dictate ontology.
