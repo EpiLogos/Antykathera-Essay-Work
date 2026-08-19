@@ -118,3 +118,87 @@ T23 uses written relations, not degree quotas. T24 audits all 48 coordinates + r
 The essay capstone can specify and source current O:I relations; it cannot falsely certify external software-suite completion. Later technical-suite acceptance requires the six responsibility centres to be genuinely developed to the intended specification, installable/distributable where required, tested together in the target environment, and *The Return of Zero* exercised as a real source-bound O:I Wiki/Projection/Explore world.
 
 This repository's 013 contract defines that acceptance relation. Product implementation remains external work unless separately evidenced at its source revision.
+
+---
+
+# Pass-C cold-audit preflight — 2026-08-19
+
+**Posture:** reconstruction from recorded governing/artifact surfaces only. This is a preflight while 014 remains technically open; it does **not** claim 015 completion or T07 readiness.
+
+## A. Independent reconstruction result
+
+The recorded field can be reconstructed without starting from the Pass-B count as:
+
+`subject/condition → faithful definition/cut → immutable gap/meta-sign → 0/1 and slash → dia/sym-ballein → process ontology → native QL theorem-units → manifestation/tattvic contraction → arche-topos/psychoid/refraction → Objective Internality → positional delegation/power/plural worlds → Objective Co-Internality/model-revising encounter → technē/trust/Idealism → restored /0`.
+
+That reconstruction reaches the same 23 proposed linear operations only after separating radial/supporting offices; the count is therefore an outcome rather than an audit premise.
+
+The foundational correction survives cold reading: O:I has **not** become the source of the earlier logic. Dia-ballein and Sym-ballein remain upstream operators, Computational Process Ontology remains their process account, and the Core Theorem Bridge retains native-Ql-before-correspondence discipline.
+
+## B. Argument / preservation backcheck
+
+No HIGH or MEDIUM conceptual omission was found in the preflight trace of the former 21 argument identities:
+
+- Hephaestus survives as Mytheme plus Counterfeit Gathering/Power/Trust;
+- Prisoner survives as Mytheme plus Two Logics/Power/Protected Account;
+- Bohm survives as dossier/lens/dialogue plus CPO/Two Logics process work;
+- Vāk survives in Indian Episteme/Mytheme plus articulation consumers;
+- standalone torus survives in Arche-Topos + Matheme topology/harmonics;
+- Two Ones survives in Matheme + Mono–Poly argument;
+- AHI/computational-vimarśa survives as bounded Reflective Field / **THE MIRROR THAT MOVES FIRST**, without becoming terminal subject;
+- World-Atlas survives as a distinct linear operation plus radial formal/epistemic depth.
+
+The late field is not compressed into one O:I mega-argument: Positional Delegation, Power, Co-Internality, Deferential Intelligence, Operational Parity/Epistemic Cultivation, Reflective Field, World-Atlas, Trust, Idealism and terminal Return retain different transformations.
+
+The Jung/Job/cultural material remains differentiated: Job's methodological, mythemic/psychological and theological/source offices; monoisation/counter-generation; Cultural Individuation; Man/Humanity; Protected Account; Counterfeit Symbolon; trust under efficacy; and Epi-Logos anti-monoculture pressure all have named carriers/offices.
+
+## C. Recovered field / one-home backcheck
+
+The Pass-A annex contains an explicit disposition + named carrier for each of the 89 recovered `reference-notes` records, and Pass B explicitly preserves that matrix with no carrier reversal. No recovered item is being treated as automatically a concept and no silent-deletion class appears in the synthesis.
+
+Root/Matheme/Mytheme/Episteme separation is coherent under one-home law. The same named relation may have root identity, linear consequence and exact Matheme derivation only where those are different publication operations and are required to link rather than copy.
+
+## D. Protocol backcheck
+
+Verified against active page/link/build instructions already inspected in this run:
+
+- raw developed-page chassis remains `#0/#1/#2/#3/#4/#5→0`;
+- `return-of-zero-pages` explicitly forbids universal Definition/Operation/Pattern/Context/Quintessence semantics;
+- the old numerical `5–7` link-degree rule is absent after the Pass-A repair;
+- build authority remains ratified-census-first, not heading/count discovery;
+- renderer/Wiki requirements do not rename QL positions;
+- source identity, Projection revision and provider/render identity remain distinct;
+- `SharedField ≠ WikiSpace ≠ Context` and Wiki relation ≠ Contribution ≠ KnowledgeRoute remain explicit.
+
+The known old counts in `docs/REPOSITORY-SHAPE.md` and the former seven-root proposal in `symbolon/README.md` are still stale factual locators, but the governing reconciliation explicitly marks them non-authoritative until T08/P1. They are not currently executable completion criteria.
+
+## E. Technical/source truth backcheck
+
+The product evidence lock was reopened after stale/invalid pins were discovered and then corrected against exact live branch values. The Wiki contract binds to verified AIKit primitives (`okf-wiki/v1`, federated `KnowledgeApplication`, and `search/read/relations/route/frame/sources/explain/history/status`) rather than treating ticket-level Skill names as implemented fact.
+
+The six O:I positions remain responsibility/research centres, not chronology or proof of QL. The acceptance bar still explicitly says the external suite is **not** certified complete merely because this essay contract exists.
+
+## F. Findings
+
+### MEDIUM — M1 — required §17 registration is not appended to the authoritative harmonised quilt
+
+- **Exact path:** `submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md`.
+- **Governing requirement:** ticket 014 requires a dated append-only capstone registration/supersession section in that file before 015.
+- **Observed state:** the authoritative quilt still ends at §16.10. `CAPSTONE-QUILT-REGISTRATION-2026-08-19.md` contains the prepared §17 text, but a sidecar is not the required append.
+- **What survives:** Pass-A/Pass-B censuses, F-series decisions, sections/field map, §5 capstone, Wiki contract and prepared registration are internally available and conceptually backcheckable.
+- **Exact repair:** append the prepared registration text, byte-preserving the historical quilt body; verify §17 at the tail; then re-run this cold audit as official 015 input.
+- **Reason unresolved here:** the connected GitHub contents API only supports whole-file replacement for this 235,832-byte file; the runtime has no authenticated local Git credential; two one-shot GitHub Actions trigger attempts did not execute. No unsafe whole-file reconstruction or false completion was substituted.
+
+### LOW — L1 — local OKF/BKMR/freshness commands remain unexecuted in this runtime
+
+- **Paths/commands:** `tools/okf-workspace.py ... doctor/dangling/effects`, BKMR/freshness suite.
+- **Governing requirement:** required before theorem/concept/thread-bearing canonical propagation and again by final T24 acceptance.
+- **Observed state:** no executable authenticated checkout is available in this session; these commands have not been run and are not reported as run.
+- **What survives:** harmonisation/census reasoning and connected-GitHub source verification.
+- **Repair:** run in an executable checkout or via a working repository CI path before P1 canonical changes. This does not by itself invalidate the pre-ratification conceptual census, but it is a hard propagation gate.
+
+## G. Preflight verdict
+
+**Not ready for official 015/T07 because M1 remains open.**
+
+Apart from M1, this preflight found no HIGH or MEDIUM conceptual/provenance/census failure in the recorded capstone. Once the authoritative quilt actually contains §17, official Pass C should recompute the same questions rather than merely deleting this finding. If it confirms the current result, the structural authorial docket remains empty and T07 can ratify the completed quilt + relational authored-world census as one field.
