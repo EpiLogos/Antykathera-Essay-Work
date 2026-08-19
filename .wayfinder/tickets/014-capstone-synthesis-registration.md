@@ -1,9 +1,9 @@
 ---
 title: Synthesize the capstone, recensus the whole field and register it into the quilt programme
 label: wayfinder:task
-status: open
+status: in-progress
 parent: ../maps/objective-internality-capstone-quilt.md
-assignee: ""
+assignee: "GPT-5.6 Sol"
 blocked_by:
   - 012-s5-s50-objective-internality-capstone.md
   - 013-symbolon-oi-native-wiki-contract.md
