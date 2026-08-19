@@ -1,0 +1,38 @@
+name: Capstone quilt append
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/capstone-quilt-append.yml
+
+permissions:
+  contents: write
+
+jobs:
+  append-registration:
+    if: github.event.head_commit.message == 'ops: run capstone quilt append'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Append Pass-B registration exactly once
+        shell: bash
+        run: |
+          set -euo pipefail
+          quilt='submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md'
+          registration='working/harmonisation-2026-08-18-objective-internality-capstone/CAPSTONE-QUILT-REGISTRATION-2026-08-19.md'
+          marker='# 2026-08-19 — Capstone synthesis / Pass-B supersession registration'
+          if grep -Fqx "$marker" "$quilt"; then
+            echo 'registration already present; no change'
+            exit 0
+          fi
+          printf '\n\n---\n\n' >> "$quilt"
+          cat "$registration" >> "$quilt"
+          git diff --check
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add "$quilt"
+          git commit -m 'capstone: append Pass-B registration to harmonised quilt'
+          git push
