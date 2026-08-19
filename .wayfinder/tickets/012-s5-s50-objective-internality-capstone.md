@@ -1,9 +1,9 @@
 ---
 title: Complete the §5 and §5→0 Objective Internality capstone quilting
 label: wayfinder:task
-status: open
+status: in-progress
 parent: ../maps/objective-internality-capstone-quilt.md
-assignee: ""
+assignee: "GPT-5.6 Sol"
 blocked_by:
   - 011a-canonical-field-census-protocol-reconciliation.md
 assets:
