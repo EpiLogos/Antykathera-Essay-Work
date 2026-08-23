@@ -4,7 +4,8 @@ label: wayfinder:research
 status: open
 parent: ../maps/final-whole-argument-quilt.md
 assignee: ""
-blocked_by: []
+blocked_by:
+  - 017-developmental-full-quilt-traversal.md
 assets:
   - ../../working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md
 created: 2026-08-23
