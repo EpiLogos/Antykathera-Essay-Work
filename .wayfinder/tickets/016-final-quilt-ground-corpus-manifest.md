@@ -3,7 +3,7 @@ title: Establish final-quilt ground, corpus manifest and inherited-capstone reco
 label: wayfinder:research
 status: open
 parent: ../maps/final-whole-argument-quilt.md
-assignee: ""
+assignee: "phase3-final-quilt-session"
 blocked_by: []
 assets:
   - ../../working/final-argument-quilt-2026-08-23/CURRENT-GROUND-AND-CORPUS-MANIFEST.md
