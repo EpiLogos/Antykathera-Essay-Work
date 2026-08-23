@@ -4,7 +4,10 @@ label: wayfinder:research
 status: open
 parent: ../maps/final-whole-argument-quilt.md
 assignee: ""
-blocked_by: []
+blocked_by:
+  - 018-argument-concept-etymology-recensus.md
+  - 020-recover-degraded-mythemes-deep-seams.md
+  - 021-primary-antikythera-brief-recovery.md
 assets:
   - ../../working/final-argument-quilt-2026-08-23/PARALLEL-QUILT-LATE-RECAPITULATION.md
 created: 2026-08-23
