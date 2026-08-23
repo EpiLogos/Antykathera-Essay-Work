@@ -1,7 +1,7 @@
 ---
 title: Establish final-quilt ground, corpus manifest and inherited-capstone reconciliation
 label: wayfinder:research
-status: open
+status: closed
 parent: ../maps/final-whole-argument-quilt.md
 assignee: "phase3-final-quilt-session"
 blocked_by: []
@@ -36,8 +36,12 @@ Classify T06C/#31 as inherited development and record exactly where the Phase-3 
 
 ## Resolution
 
-Record the completed ground in `CURRENT-GROUND-AND-CORPUS-MANIFEST.md` and link the exact revision here.
+Completed in `working/final-argument-quilt-2026-08-23/CURRENT-GROUND-AND-CORPUS-MANIFEST.md` at commit `b8f876d9ba97a3dc8e9e61c2e5995492def137d3`.
+
+The manifest fixes the live authority stack, exact quilt shelf, current 21-argument / 22-developed-concept / 89-reference-note census, etymology/Matheme/Mytheme/Episteme architecture, complete inherited T06C working corpus, Phase-3 capstone extensions, provenance/status rules, developmental read order and no-propagation boundary. The primary Antikythera/Agentworld source path remains an explicit discovery obligation of ticket 021/#42 rather than being inferred from downstream summaries.
 
 ## Done when
 
 A new worker can enter through the manifest and know authority, corpus, reading order, current authorial capstone, provenance/status rules and the Phase-3/no-propagation boundary without this chat context.
+
+**Done:** 2026-08-23.
