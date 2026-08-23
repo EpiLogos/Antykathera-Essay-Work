@@ -4,7 +4,11 @@ label: wayfinder:grilling
 status: open
 parent: ../maps/final-whole-argument-quilt.md
 assignee: ""
-blocked_by: []
+blocked_by:
+  - 018-argument-concept-etymology-recensus.md
+  - 020-recover-degraded-mythemes-deep-seams.md
+  - 021-primary-antikythera-brief-recovery.md
+  - 022-late-parallel-quilt-recapitulation.md
 assets:
   - ../../working/final-argument-quilt-2026-08-23/FINAL-WHOLE-ARGUMENT-QUILT.md
   - ../../working/final-argument-quilt-2026-08-23/FINAL-QUILT-ACCEPTANCE.md
