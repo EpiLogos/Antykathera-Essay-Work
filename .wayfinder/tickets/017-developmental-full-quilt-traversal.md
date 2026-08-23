@@ -3,7 +3,7 @@ title: Traverse the full developmental quilt and build the eight-determination y
 label: wayfinder:research
 status: open
 parent: ../maps/final-whole-argument-quilt.md
-assignee: ""
+assignee: "phase3-final-quilt-session"
 blocked_by:
   - 016-final-quilt-ground-corpus-manifest.md
 assets:
