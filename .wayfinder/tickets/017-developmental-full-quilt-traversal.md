@@ -4,7 +4,8 @@ label: wayfinder:research
 status: open
 parent: ../maps/final-whole-argument-quilt.md
 assignee: ""
-blocked_by: []
+blocked_by:
+  - 016-final-quilt-ground-corpus-manifest.md
 assets:
   - ../../working/final-argument-quilt-2026-08-23/DEVELOPMENTAL-QUILT-LEDGER.md
   - ../../working/final-argument-quilt-2026-08-23/EIGHT-DETERMINATION-TRANSVERSE-MATRIX.md
