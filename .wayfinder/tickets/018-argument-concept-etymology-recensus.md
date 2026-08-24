@@ -1,35 +1,105 @@
 ---
-title: Recense relations after the complete quilt × granular crosswalk
+title: Derive the ought-be argument, concept, and etymology architecture
 label: wayfinder:research
 status: open
 parent: ../maps/final-whole-argument-quilt.md
 assignee: ""
 blocked_by:
   - 025-current-granular-quilt-crosswalk.md
+  - 020-recover-degraded-mythemes-deep-seams.md
+  - 021-primary-antikythera-brief-recovery.md
 assets:
   - ../../working/final-argument-quilt-2026-08-23/ARGUMENT-CONCEPT-ETYMOLOGY-RECENSUS.md
+  - ../../working/final-argument-quilt-2026-08-23/OUGHT-BE-ARGUMENT-ARCHITECTURE.md
+  - ../../working/final-argument-quilt-2026-08-23/OUGHT-BE-CONCEPT-ARCHITECTURE.md
+  - ../../working/final-argument-quilt-2026-08-23/OUGHT-BE-ETYMOLOGY-ARCHITECTURE.md
   - ../../working/final-argument-quilt-2026-08-23/LEXICAL-CONSTELLATION-AND-RELATIONAL-OPERATORS.md
   - ../../working/final-argument-quilt-2026-08-23/EIGHT-DETERMINATION-TRANSVERSE-MATRIX.md
+  - ../../working/final-argument-quilt-2026-08-23/CANONICAL-REBUILD-MANIFEST.md
 created: 2026-08-23
 github_issue: 39
 ---
 
-# Recense relations after the complete quilt × granular crosswalk
+# Derive the ought-be argument, concept, and etymology architecture
 
-## Question
+## Why this gate exists
 
-What transverse architecture becomes visible only after every current movement, argument, concept, path and argument-bearing deep surface has been recovered locally and crossed against all relevant quilt surfaces?
+Recovery is valuable because it lets the project determine the **right whole**. This gate converts the fully recovered field into the newly minted relational architecture before any canonical rebuilding.
 
-## Work
+Inherited filenames, counts, scopes and boundaries are provenance, not authority. The architecture is derived from what the final argument requires.
 
-Consume native 025's section/argument/concept/path/deep-research ledgers together with native 024's six-surface quilt ledger and native 017's developmental provenance. This ticket performs **synthesis after quilting contact**.
+## Ground consumed
 
-Recense roots, recovered reference notes, Matheme/Mytheme/Episteme records, histories, etymologies, maps/paths/dossiers/dialogues/figures and source-facing fixtures after their local dispositions exist.
+Consume together:
 
-A transverse thread is admitted only when its current granular carriers, prospective quilt carriers and developmental provenance can be named. Preserve the distinct offices of arbitration, judgment, measure, valuation, determination, decision, mediation, authority, adjudication, discrimination, selection, orientation, surety, credit, trust, governance, apportionment, reckoning/accounting, recognition, Return and corpus-native cognates.
+- native 017 developmental provenance;
+- native 024 complete six-surface quilt field;
+- native 025 inherited active/defunct/orphaned corpus recovery;
+- native 020 whole-mytheme/deep-seam recovery;
+- native 021 primary Antikythera/Agentworld recovery;
+- Phase-3 capstone developments;
+- native 019 source/evidence support continuously, without giving incomplete citation work veto power over internally developed theory.
 
-Explicitly map power/truth/valuation, mono/poly, identity/non-identity, trust/dependency/deference, nested internality/frame-of-reference, knowledge/power, image/complex/archetype, Śakti, Māyā/Mahāmāyā, Buddhist epistemic dynamics, energetics, technoscience and oikonomia across `−/− · 0/1 · ?/! · −/+ · X/x · AM/IS · ∞/dx · 1/0` and dia-/sym-ballein.
+## Three co-equal architectures
+
+### 1. Argument architecture
+
+Determine the actual load-bearing argumentative distinctions, scopes, dependencies, conjunctions, returns, section consumers and transverse relations.
+
+- merge inherited nodes where an accidental file boundary separated one operation;
+- split nodes where distinct operations are compressed together;
+- create missing arguments demanded by the recovered whole;
+- retire or demote records whose work belongs in concept, etymology, Matheme, Mytheme or another Episteme office;
+- preserve provenance for every changed identity.
+
+An argument exists because a distinct inferential operation must be carried, not because an earlier agent made a file.
+
+### 2. Concept architecture
+
+Determine which terms require stable instituted definitions and recurrent reuse.
+
+- distinguish concepts from aliases, facets and merely frequent words;
+- rehome Symbolon-root, Matheme, Mytheme and other Episteme work to its proper register;
+- disposition developed, recovered, reference-note, legacy and defunct concept-bearing material;
+- create new concepts where the final argument depends on a distinction not currently instituted.
+
+A concept exists because the field needs a controlled distinction that other records can rely upon.
+
+### 3. Etymology architecture
+
+Treat etymology as a first-class reasoning system rather than a source appendix. Recover the existing word-fields and derive the architecture the new argument actually needs.
+
+- merge, divide, expand, retire or add clusters according to their distinct operations;
+- preserve the four truth-conditions: philological descent, attested semantic field, operational homology, poetic/phonic re-entry;
+- route every live word-operation into exact arguments, concepts, sections and other records;
+- keep source debt separate from the authorial operation a word-field already performs.
+
+An etymology/word-field exists because linguistic memory or re-entry materially sharpens and carries a relation in the argument.
+
+## Relational discipline
+
+Carry continuously:
+
+`−/− · 0/1 · ?/! · −/+ · X/x · AM/IS · ∞/dx · 1/0`
+
+Trace dia-/sym-ballein and Symbolon/Matheme/Mytheme/Episteme offices dynamically rather than attaching labels after the fact.
+
+Preserve why each of these differs: arbitration, judgment, measure, valuation, determination, decision, mediation, authority, adjudication, discrimination, selection, orientation, surety, credit, trust, governance, apportionment, reckoning/accounting, recognition and Return.
+
+Explicitly integrate, where generated by the recovered field: power/truth/valuation; Mono/Poly; identity/non-identity; trust/dependency/deference; nested Objective Internality / Objective Co-Internality; knowledge/power; image/complex/archetype; Śakti and Māyā/Mahāmāyā; Buddhist epistemic dynamics; energetics/plasma; technoscience; oikonomia; whole mythemes; and venue-facing Agentworld pressures.
+
+## Required outputs
+
+- `ARGUMENT-CONCEPT-ETYMOLOGY-RECENSUS.md` — inherited-to-ought-be disposition ledger;
+- `OUGHT-BE-ARGUMENT-ARCHITECTURE.md`;
+- `OUGHT-BE-CONCEPT-ARCHITECTURE.md`;
+- `OUGHT-BE-ETYMOLOGY-ARCHITECTURE.md`;
+- `LEXICAL-CONSTELLATION-AND-RELATIONAL-OPERATORS.md`;
+- `EIGHT-DETERMINATION-TRANSVERSE-MATRIX.md`;
+- `CANONICAL-REBUILD-MANIFEST.md` — exact create/update/split/merge/rehome/retire operations proposed for ratification and later propagation.
 
 ## Done when
 
-Every transverse claim points to actual current carriers plus exact quilt/developmental provenance; missing/degraded propagation is handed to native 020 / GitHub #41; no canonical propagation has occurred.
+The newly minted argument can be traversed without referring to inherited node counts; every proposed record has a reason for existing and explicit relations to its neighbours; every useful inherited operation has a disposition; and the late Parallel pass can test this architecture rather than dictate it.
+
+No canonical rebuilding occurs here.
