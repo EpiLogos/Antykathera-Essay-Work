@@ -33,10 +33,11 @@ It establishes:
 - `[[working/sources-texts-references/10-7-2026-core-theorems-pithy|Core Theorems — Pithy]]` as native QL derivational source of record;
 - `[[submission-package/essay/quilt/copula-derivation-chain-and-resource-pools|The Copula Derivation Chain]]` as deep native derivational authority;
 - Earth/Taste/Wisdom as authorially ratified foundational etymological ground;
-- Arbitration/Crisis/Con-text as a new foundational etymological/theoretical field;
+- the corrected Arbitration field: Criterion/Distinction → Delineation/Difference → Arbitration/Crisis, with mediation in the #3 family, followed by Con-text/Diaphaneity;
+- the strong-copula / `= = =//=` AND/OR identity relation as upstream of the Jungian `X=x` refraction;
 - current terminology: **dia-ballein / syn-ballein / diachronic / synchronic / Symbolon**;
 - relational wikilink/backlink/source laws designed to make later canonical pages extrudable from the graph built during quilting;
-- current §0 pressures around protected internality → Self/root-attractor presage, script/conditioning, paśu, and full capstone integration.
+- current §0 pressures around protected internality → Self/root-attractor presage, script/conditioning, paśu, Objective Internality and the later Objective Co-Internality relation between bounded operative frames.
 
 Where an older T06D ledger lacks these relations, update it when that region is next touched; do not restart completed recovery merely for cosmetic conformity.
 
@@ -84,7 +85,7 @@ Current progress:
 | Station | Recovery ledger | Status |
 |---|---|---|
 | `§0/1` | `[[00-INTEGRAL-THRESHOLD]]` | active — first deep pass substantially developed |
-| `§0` | `[[01-DIFFERENTIATING-MIND]]` | current frontier — must include 2026-08-24 addendum pressures |
+| `§0` | `[[01-DIFFERENTIATING-MIND]]` + `[[01-DIFFERENTIATING-MIND-CARRIER-DISPOSITIONS|carrier dispositions / OCI bridge]]` | **current frontier — deep carrier recensus substantially developed; closure gates remain** |
 | `§1` | `02-RETURN-OF-ZERO.md` | pending |
 | `§2` | `03-TWO-LOGICS.md` | pending |
 | `§3` | `04-MATHEMATICAL-SUBSTRATE.md` | pending |
@@ -92,11 +93,13 @@ Current progress:
 | `§5` | `06-OBJECTIVE-INTERNALITY.md` | pending |
 | `§5→0` | `07-INSTRUMENT-RETURNS.md` | pending |
 
+The §0 carrier companion is part of the station record. It preserves the direct Objective Co-Internality bridge and the operation-level dispositions of deprecated reference notes so that a future reader does not need this conversation to know what survived and why.
+
 ### Cross-cutting inherited fields
 
 - `[[ARGUMENT-FIELD]]` — all argument-bearing records and their unique operations, including thin/misplaced/orphaned candidates.
 - `[[CONCEPT-FIELD]]` — developed plus recovered/reference-note/legacy/defunct concept-bearing material.
-- `[[ETYMOLOGY-FIELD]]` — all live and recovered word-fields, relation ledgers, source shelves and routes; read with the 2026-08-24 addendum for ratified Earth/Taste/Wisdom and the new Arbitration field.
+- `[[ETYMOLOGY-FIELD]]` — all live and recovered word-fields, relation ledgers, source shelves and routes; read with the 2026-08-24 addendum for ratified Earth/Taste/Wisdom and the corrected Arbitration/Delineation/Difference field.
 - `SYMBOLON-MATHEME-MYTHEME-EPISTEME-FIELD.md` — register/root/depth material whose present home may not equal its final home; this recovery must explicitly include native theorem units and Self-Identity/(No)Name/Power.
 - `[[PATHS-MAPS-HISTORIES-DEEP-SURFACES]]` — transverse and research-bearing surfaces.
 - `QUILT-CAPSTONE-TO-INHERITED-CORPUS-CROSSWALK.md` — relation-level landing/discrepancy matrix.
