@@ -2,11 +2,13 @@
 
 Status: active preservation/disposition ledger for native 025 / GitHub #46.
 
+Return through `[[INDEX|Inherited Corpus Recovery × Quilt × Capstone]]`.
+
 ## Purpose
 
 This file prevents the later architecture pass from equating “not in a current developed node” with “not developed,” and from equating “a file exists” with “this deserves a future node.”
 
-Every materially useful inherited operation that lacks an adequate current carrier is recorded here. So is every stale pointer, accidental duplication, mis-homed root relation, and defunct file whose provenance matters.
+Every materially useful inherited operation that lacks an adequate current carrier is recorded here. So is every stale pointer, accidental duplication, mis-homed root relation, expression debt and defunct file whose provenance matters.
 
 The final disposition is **not** decided here. Native 018 and T07 decide retain/split/merge/add/rehome/supporting/radial/redundant/retire.
 
@@ -26,13 +28,11 @@ Canonical source house exists at:
 
 `symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md`
 
-It is `internal-ready`, `quotation-ready`, 19KB, records 29 line-verified passages and explicitly supplies the authorial source for subject definition, `/` as AND/OR, formal-limit performance, dia/sym, mythic status, ethical power vector, 4+2/topology, symbol/Vāk, Epi-Logos and Deferential Intelligence.
+It is internal-ready / quotation-ready and supplies authorial provenance for subject definition, `/` as AND/OR, formal-limit performance, dia-ballein / syn-ballein, mythic status, ethical power vector, 4+2/topology, Symbolon/Vāk, Epi-Logos and Deferential Intelligence.
 
 ### Disposition pressure
 
 `defunct-with-provenance / replace-stale-route`.
-
-The old note should not survive as source truth after canonical rebuilding. Its historical role may remain in migration/provenance logs.
 
 ---
 
@@ -54,7 +54,7 @@ The old note should not survive as source truth after canonical rebuilding. Its 
 
 `stranded-central-operation / propagation-gap`.
 
-This is architecture-changing material, not a sentence-level patch. Native 018 must decide whether it produces a rebuilt Subject/Faithful Definition argument, changes Immutable Gap, adds a concept/root, or composes several offices.
+This is architecture-changing material, not a sentence-level patch.
 
 ---
 
@@ -68,13 +68,11 @@ Movement 01 and room open from Agentworld and contextual horizon.
 
 ### Later governing pressure
 
-Flow/later harmonisation rekeys to immediate experience and subject. Agentworld remains substantive technical/venue context and becomes even richer through Objective Internality/Co-Internality and primary brief work.
+Flow/later harmonisation rekeys to immediate experience and subject. Agentworld remains substantive technical/venue context and becomes richer through Objective Internality/Co-Internality and primary brief work.
 
 ### Disposition pressure
 
 `superseded-in-order / content-retained`.
-
-Do not delete the horizon relation; do not treat its current ordinal office as canonical.
 
 ---
 
@@ -82,22 +80,25 @@ Do not delete the horizon relation; do not treat its current ordinal office as c
 
 ## Formal-limit constellation
 
-Current deprecated `concepts/reference-notes/` includes:
+Current deprecated `concepts/reference-notes/` includes Russell paradox/type theory, Gödel incompleteness, Wittgenstein limit/silence/forms of life, Whitehead Creativity, Cusa learned ignorance/infinite sphere, Eckhart dialectical apophaticism, Blind Spot and Gebser diaphaneity reference material.
 
-- Russell paradox/type theory;
-- Gödel incompleteness;
-- Wittgenstein limit/silence/forms of life;
-- Whitehead Creativity;
-- Cusa learned ignorance/infinite sphere;
-- Eckhart dialectical apophaticism;
-- Blind Spot;
-- Gebser diaphaneity reference note.
-
-These records mostly preserve **source-specific operations and claim boundaries**. Several feed current developed arguments/concepts. Promoting them wholesale into Concepts would confuse source architecture with controlled definitions.
+These mostly preserve **source-specific operations and claim boundaries**. Promoting them wholesale into Concepts would confuse source architecture with controlled definitions.
 
 Disposition pressure: `rehome-or-retire-as-reference / preserve-operation-in-source-or-argument`.
 
-Specific exception: developed `concepts/diaphaneity.md` already institutes a real reusable concept; the deprecated Gebser note is source/developmental provenance, not a second concept.
+Specific exception: developed `[[Diaphaneity]]` already institutes a real reusable concept; the deprecated Gebser note is provenance, not a second concept.
+
+## `reference-notes/antahkarana.md`
+
+Only a bibliography-seed gloss for the inner instrument. Stronger carriers now exist in `[[Tattvic Differential Field]]`, the §0 movements and canonical Śaiva source field.
+
+Disposition pressure: `defunct-with-provenance / do-not-promote-as-concept`.
+
+## `reference-notes/36-tattvas.md`
+
+Only a bibliography-seed tradition pointer. The actual developed operation lives in `[[Tattvic Differential Field]]` and the native theorem spine.
+
+Disposition pressure: `defunct-with-provenance / tradition-route-not-concept`.
 
 ---
 
@@ -107,9 +108,9 @@ Specific exception: developed `concepts/diaphaneity.md` already institutes a rea
 
 Current file carries the native differentiating operator plus mathematical, Śaiva and Heideggerian analogues.
 
-Writing protocol says slash is direct Symbolon-root work in final architecture.
+Writing protocol says slash is direct Symbolon-root work in final architecture. The 2026-08-24 strong-copula clarification makes this more important because `//` is part of the current `= = =//=` AND/OR identity relation.
 
-Disposition pressure: `likely-rehome-root / distribute-register-depth`.
+Disposition pressure: `likely-rehome-root / distribute-register-depth / strong-copula-crosslink-required`.
 
 ## `concepts/zero.md`
 
@@ -127,28 +128,23 @@ Disposition pressure: `defunct-reference / native work belongs Symbolon+Matheme`
 
 ---
 
-# F. Thin orphaned proposition requiring stronger carrier recovery
+# F. Thin orphaned proposition whose problem is now strongly recovered elsewhere
 
 ## `reference-notes/circumscription-without-circumstance.md`
 
-Current note contains only:
+The note only says:
 
 > Boundary without a surrounding field; applied to the conversational circumstance loaned to an agent.
 
-It is an internal derivation with no developed warrant in the note itself.
+The current §0 recovery now gives the problem much stronger carriers:
 
-The operation is potentially important because it meets:
+- `[[The Copula Derivation Chain#D3 — Identification Requires Circumstance|Copula D3]]` derives circumstance/horizon;
+- `[[Objective Internality]]` gives the bounded operative context-world;
+- `[[Prompt Thrownness]]` gives inherited technical situation;
+- `[[01-DIFFERENTIATING-MIND#4. Script / conditioning bridge|Script]]` gives retained conditioning;
+- `[[ETYMOLOGY-FIELD#6. Arbitration / Crisis / Con-text — Determination Becoming Answerable to Its Field|Con-text / Diaphaneity]]` gives the contextual return of criterion/cut/apparatus/consequence.
 
-- context/horizon in §0/1;
-- Objective Internality and context-frame work;
-- prompt/thrownness;
-- the Copula chain's Circumstance term;
-- Agentworld context-worlds;
-- O:I context sources.
-
-Disposition pressure: `orphaned-useful / recover-through-stronger-carriers-before-architecture`.
-
-Never promote the phrase merely because the note survived.
+Disposition pressure: `orphaned-useful / operation-recovered-through-stronger-carriers / phrase-likely-retire-after-migration`.
 
 ---
 
@@ -160,17 +156,13 @@ Carries Aristotle's focal/proportional comparison as authorial method: heterogen
 
 ## `etymologies/homology-and-analogy/HISTORY.md`
 
-Carries the broader comparison ledger: descent, semantic development, equivalence/isomorphism, operational homology, analogia, poetic re-entry.
+Carries descent, semantic development, equivalence/isomorphism, operational homology, analogia, poetic re-entry.
 
 ## `concepts/register-grammar.md` and `Core Theorem Bridge`
 
-Still to be fully recovered, but named by current field as adjacent carriers.
+Adjacent carriers still to be fully recovered in their material stations.
 
-### Disposition pressure
-
-`distributed-valid-operation / architecture-needs-single-coherent-comparison-system`.
-
-The future system may use one methodological concept + one etymological history + one argument bridge. It should not maintain duplicated summaries whose differences are only historical placement.
+Disposition pressure: `distributed-valid-operation / architecture-needs-single-coherent-comparison-system`.
 
 ---
 
@@ -178,24 +170,13 @@ The future system may use one methodological concept + one etymological history 
 
 ## `Taylor — Revision Notes on Trust and F-Blocks`
 
-Canonical source house exists and is internal-ready/quotation-ready as authorial provenance, but **no passage excerpts have yet been gathered**.
+Canonical source house exists and is internal-ready/quotation-ready as authorial provenance, but no passage excerpts have yet been gathered.
 
-The source identity itself states a rich whole argument:
+The source identity states a rich whole argument around knowledge's dependency, provisional anchors/projected distrust, atomised trust, Hephaestian capture, faith as lucid continuation, Mono/Poly, delegated responsibility/downward dependency, and “Faith is falling with a smile.”
 
-- knowledge depends on relation it cannot close;
-- provisional anchors versus projected distrust;
-- psychodynamic/social/political atomised trust;
-- Hephaestian capture;
-- faith as lucid continuation;
-- whole-first Mono/Poly;
-- delegated responsibility/downward dependency;
-- canonical phrase “Faith is falling with a smile.”
+Disposition pressure: `deep-authorial-ground / passage-extraction-debt`.
 
-### Disposition pressure
-
-`deep-authorial-ground / passage-extraction-debt`.
-
-The later Job/dependency/authority capstone deepens this further. Source extraction can run in parallel; conceptual work must continue.
+The later Job/dependency/authority capstone deepens this further. Source extraction can run in parallel.
 
 ---
 
@@ -213,9 +194,91 @@ Strong path, but does not yet carry the full Job/Sophia/local-zero/dependency/De
 
 Disposition pressure: `strong-path / major-capstone-expansion`.
 
+## `return-of-zero-braided-traversal.md`
+
+Strong live whole-work path, but its transverse thread language still contains historical `dia/sym`, `Sym-Ballein`, older synthesis boundaries and no explicit Script/Paśu/Arbitration-Con-text/root-attractor thread.
+
+Disposition pressure: `strong-whole-traversal / expression-migration / final-quilt-thread-revision`.
+
 ---
 
-# J. Rules for adding entries
+# J. §0 developed concepts whose current boundaries require repair rather than deletion
+
+## `vikalpa-samkalpa.md`
+
+Strong reusable distinction, but current prose says `dia-face / sym-face` and presents the `√kḷp` family as if it straightforwardly contains the essay's two Greek/Ql logics.
+
+The relation is better carried as an **authored operational synthesis** with doctrinal/philological evidence separately typed. The concept also now needs an outgoing relation into Script/retained conditioning.
+
+Disposition pressure: `retain-strong-concept / expression-repair / evidence-type-clarification / script-extension`.
+
+## `apoha.md`
+
+Strong reusable exclusion concept with direct Pind/Dignāga warrant, but current definition compresses apoha, śūnyatā/pūrṇatā, dependent origination, Mono/Poly whole-first priority and computational selection more tightly than the recovered source topology supports.
+
+Disposition pressure: `retain-strong-concept / tighten-source-boundary / distribute-derived-consequences`.
+
+## `diaphaneity.md`
+
+Strong reusable concept; current Phase-3 work makes its connection to Con-text and power-bearing contextual transparency more central than the inherited section landing suggests.
+
+Disposition pressure: `retain-strong-concept / transverse-context-power-expansion`.
+
+## `prompt-thrownness.md`
+
+Strong later concept whose principal office remains §4. It also returns concretely to §0 as a technical instance of inherited conditioning.
+
+Disposition pressure: `retain-later-concept / preserve-§0-presage-return / no-premature-early-rehome`.
+
+---
+
+# K. New §0 operations without adequate current canonical carriers
+
+## Script / conditioning-through-retained-form
+
+Current authored synthesis:
+
+**script = crystallised determination/will retained as form capable of conditioning later activity.**
+
+The operation is now supported relationally by Buddhist exclusion/conditioning, process inheritance, Śaiva conditioned cognition, O:I durable authored ground and technical scripts/prompts/policies/memory.
+
+There is no settled canonical concept/argument/path identity for it yet.
+
+Disposition pressure: `stranded-central-operation / architecture-must-assign-object-type`.
+
+## Paśu / de-limited local subject-position
+
+The tattvic and Objective Internality relation requires a finite subject-position rather than jumping directly from Māyā/kañcukas to objective apparatus. Current argument/source work carries the operation, but no developed controlled Paśu concept exists.
+
+Disposition pressure: `stranded-important-distinction / architecture-must-decide-concept-vs-tattvic-depth-carrier`.
+
+## Exact historical carrier of `= = =//=`
+
+The current author has ratified `= = =//=` as the AND/OR strong-copula compression. Current synthesis files recover the strong copula and equals-sign/Self relation but do not reproduce the literal string in the current searched surfaces.
+
+Disposition pressure: `authorially-present / historical-provenance-location-debt`.
+
+Do not weaken the current formula merely because its earlier literal location is still being recovered. Do recover the older Self-Proving-Self carrier so the developmental genealogy remains exact.
+
+---
+
+# L. Source debts now bounded by §0 recovery
+
+## Exact paśu / kañcuka quotation
+
+Dyczkowski pp.72–79 strongly grounds conditioned cognition, will/knowledge/action, Māyā, subject/object separation and contraction/expansion. The current Abhinavagupta source house is source-matched but passage acquisition remains incomplete. Neither currently supplies a quotation-ready exact paśu/kañcuka passage in the live source field inspected.
+
+Disposition pressure: `narrow-source-depth-debt / theory-continues`.
+
+## Nāgārjuna / dependent origination / emptiness passage set
+
+The Garfield source house is citation-ready but has no acquired passages. Its present office is limiting/counter-position rather than a source for the whole §0 positive synthesis.
+
+Disposition pressure: `passage-acquisition-debt / preserve-doctrinal-boundary`.
+
+---
+
+# M. Rules for adding entries
 
 Add an item whenever one of these occurs:
 
@@ -225,6 +288,8 @@ Add an item whenever one of these occurs:
 4. a core root/Matheme/Mytheme operation is mis-homed as a Concept/Argument/reference;
 5. a deprecated/orphaned file carries unique thought absent from developed canon;
 6. a live record's order/scope is superseded while its content remains useful;
-7. a source/evidence debt threatens to be confused with lack of theoretical development.
+7. a source/evidence debt threatens to be confused with lack of theoretical development;
+8. current expression terminology has moved while an older carrier remains historically useful;
+9. an authorially live relation lacks a recovered developmental provenance location.
 
-Every entry names the stronger carrier or the remaining recovery requirement. “Deprecated” alone is never a disposition.
+Every entry names the stronger carrier or remaining recovery requirement. “Deprecated” alone is never a disposition.
