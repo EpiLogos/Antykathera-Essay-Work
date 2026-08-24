@@ -5,6 +5,7 @@ status: open
 parent: ../maps/final-whole-argument-quilt.md
 assignee: ""
 blocked_by:
+  - 024-current-rebuilt-essay-deep-traversal.md
   - 018-argument-concept-etymology-recensus.md
   - 020-recover-degraded-mythemes-deep-seams.md
   - 021-primary-antikythera-brief-recovery.md
@@ -18,13 +19,13 @@ github_issue: 43
 
 ## Question
 
-What does the orderly 2026-08-02 harmonisation preserve, compress, misplace or omit when read after the developmental field has been freshly recovered?
+What does the orderly 2026-08-02 harmonisation preserve, compress, misplace or omit when read against both the developmental history and the **deeply known current rebuilt essay**?
 
 ## Work
 
-Read `2026-08-02-PARALLEL-HARMONISED-QUILT.md` from beginning to end only after the developmental traversal, recensus, mytheme/deep-seam recovery and primary brief work.
+Read `2026-08-02-PARALLEL-HARMONISED-QUILT.md` from beginning to end only after native 024 current-body traversal, relational recensus, mytheme/deep-seam recovery and primary brief work.
 
-Classify each relevant station/movement/argument/concept/source debt/propagation decision as unique surviving work, later deepened, superseded, misplaced, omitted from current understanding, or requiring return to the final quilt.
+Classify each relevant station/movement/argument/concept/source debt/propagation decision against both conjugate grounds: developmental history and current rebuilt body. Mark unique surviving work, later deepening, supersession, misplacement, omission, or required return to the final quilt.
 
 Look especially for resolution loss around Objective Internality; complete mythemes; power/trust/valuation; Jung/Job/Self; co-internality/frames and knowledge/power; Śakti; irrationality/synchronicity; plasma/energetics; Buddhist local-zero dynamics; etymological braids; and source debt.
 
