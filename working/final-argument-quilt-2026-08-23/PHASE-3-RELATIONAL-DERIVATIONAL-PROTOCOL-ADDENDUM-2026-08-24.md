@@ -15,7 +15,7 @@ Three requirements are therefore explicit from this point forward:
 2. every recovered operation is wired into a traversable wiki/relation graph while it is being understood;
 3. source/reference relations remain typed so authorial derivation, internal proof, historical source, external warrant and research debt cannot silently exchange offices.
 
-This addendum supplements `[[CURRENT-GROUND-AND-CORPUS-MANIFEST]]`, `[[INDEX|Inherited Corpus Recovery × Quilt × Capstone]]`, `[[WRITING-PROTOCOL]]` and `[[QL Expression Grammar]]`. Where an older T06D surface lacks the requirements below, this addendum supplies the current Phase-3 law until T07 propagates the settled form into enduring protocol.
+This addendum supplements `[[CURRENT-GROUND-AND-CORPUS-MANIFEST]]`, `[[INDEX|Inherited Corpus Recovery × Quilt × Capstone]]`, `[[WRITING-PROTOCOL]]`, `[[QL Expression Grammar]]`, and the live `[[01-DIFFERENTIATING-MIND|§0 — Differentiating Mind recovery ledger]]`. Where an older T06D surface lacks the requirements below, this addendum supplies the current Phase-3 law until T07 propagates the settled form into enduring protocol.
 
 ---
 
@@ -41,21 +41,42 @@ The theorem spine is not an external citation witness. Its office is **project-n
 
 ### Self-Identity / (No)Name / Power carrier
 
-The theorem spine already supplies a foundational identity-power relation that Phase 3 must keep continuously available:
+The foundational identity-power relation must be read through the **actual copula derivation**, rather than treating the equals sign as a free-standing metaphor for Self.
+
+`[[submission-package/essay/quilt/copula-derivation-chain-and-resource-pools#D1 — The Copula Is Double|Copula D1]]` establishes the strong copula as **one act with two moments**:
+
+1. predication — `this is F`;
+2. identification — `this is that very one`.
+
+The strong copula **identifies what it distinguishes and distinguishes what it identifies, equally, in a single act**. This is the native ground from which the psychological `X = x` refraction must be read.
+
+The current authorial compression of that AND/OR identity logic is:
 
 ```text
-Self as unexhausted X / Nameless / Mono
-        ↓
-Self's own equating operation = relation / power
-        ↓
-determinate x / Named / Poly
-        ↓
-context exposes the measure and conditions of the determination
-        ↓
-recognition returns the named determination through its Nameless ground
+= = =//=
 ```
 
-In the Jungian unit, `X = x` names the Self as identity-in-difference and the equals relation as the Self's own operation. In the Pythagorean unit, zero's additive/multiplicative bifurcation makes contextual power explicit: naming can delimit without exhausting ground, while the Nameless can void the total field of names. In the Śaiva refraction this belongs with Śiva–Śakti, prakāśa–vimarśa, svātantrya and the movement through which One becomes All while remaining one field.
+This formula is now part of the Phase-3 native field. The `//` is read through the project's slash/AND-OR work: identity and difference, predication and identification, sameness and non-collapse remain co-active rather than resolving into a flat equation. The exact earlier literal carrier of the `= = =//=` notation in the pre-synthesis Self-Proving-Self material remains a **provenance-recovery task**; that source-location debt does not suspend the presently ratified formula or the already recovered strong-copula derivation.
+
+The relation can therefore be carried provisionally as:
+
+```text
+Nameless / unexhausted ground
+        ↓
+strong copula: identification AND/OR predication
+        ↓
+= = =//=  — identity holding its own differentiation
+        ↓
+Named / determinate articulation
+        ↓
+context/circumstance discloses the conditions of the determination
+        ↓
+recognition returns the determination through the ground it did not exhaust
+```
+
+`[[working/sources-texts-references/10-7-2026-core-theorems-pithy#VII. The QL Unit — Jungian / Psyche Register|X = x]]` is a later psychological QL refraction of this copular relation: `X` and `x` are held as identity-in-difference through `=`, but the copula derivation and `= = =//=` relation are upstream of that local Jungian reading.
+
+In the Pythagorean unit, zero's additive/multiplicative bifurcation makes contextual power explicit: naming can delimit without exhausting ground, while the Nameless can void the total field of names. In the Śaiva refraction this belongs with Śiva–Śakti, prakāśa–vimarśa, svātantrya and the movement through which One becomes All while remaining one field.
 
 This relation is foundational ground for later work on identity, value, will, power, arbitration, the local zero and the energetic/attractor account.
 
@@ -113,13 +134,13 @@ The future architecture must therefore preserve this field; source work can deep
 
 ## 2.2 Arbitration enters the foundational etymology field
 
-The 2026-08-24 authorial arbitration constellation is accepted as **new working etymological/theoretical ground**. Its current sixfold/conjugate form is:
+The 2026-08-24 authorial arbitration constellation is accepted as **new working etymological/theoretical ground**. Its corrected sixfold/conjugate form is:
 
 | Position | 6 — manifest operation | 6′ — constitutive/depth operation |
 |---|---|---|
 | `#0` | **Continuity** | **Indeterminacy** |
 | `#1` | **Criterion** | **Distinction** |
-| `#2` | **Deliberation** | **Mediation** |
+| `#2` | **Delineation** | **Difference** |
 | `#3` | **Arbitration** | **Crisis** |
 | `#4` | **Con-text** | **Diaphaneity** |
 | `#5` | **Resolution** | **Reconciliation** |
@@ -127,20 +148,24 @@ The 2026-08-24 authorial arbitration constellation is accepted as **new working 
 Working movement:
 
 ```text
-Continuity → Criterion → Deliberation → Arbitration → Con-text → Resolution
-      ↕            ↕              ↕             ↕             ↕              ↕
-Indeterminacy → Distinction → Mediation → Crisis → Diaphaneity → Reconciliation
+Continuity → Criterion → Delineation → Arbitration → Con-text → Resolution
+      ↕            ↕             ↕             ↕             ↕              ↕
+Indeterminacy → Distinction → Difference → Crisis → Diaphaneity → Reconciliation
 ```
+
+Where the specifically Derridean operation is materially intended, **différance** can deepen the #2 Difference office; it is not used as a blanket synonym or invented philological identity.
 
 The central operational sentence is:
 
-> **The criterion distinguishes; deliberation holds; arbitration cuts; con-text discloses what the cut belongs to.**
+> **The criterion distinguishes; delineation gives difference its line; arbitration cuts and mediates through the differentiated field; con-text discloses what the cut belongs to.**
 
-The current archaeology also carries these explicit relations for later verification/deepening:
+The current archaeology carries these explicit relations for later verification/deepening:
 
 - criterion → crisis as standard/possibility of judgment → decisive judgment/cut;
-- deliberation ↔ weighing / `libra` field;
+- delineation as the drawing/giving of line through which difference becomes articulable without yet becoming the decisive arbitration;
+- difference / différance as the constitutive #2 depth relation where the appropriate philosophical warrant is actually earned;
 - arbitration as office/event of consequential determination;
+- **mediation as a #3-family operation**, belonging with arbitration/crisis rather than occupying #2;
 - crisis as constitutive decisive separation/judgment;
 - con-text as woven-with: the cut, cutter, criterion, apparatus, exclusions and consequences returned into one contextual weave;
 - diaphaneity as seeing-through that weave;
@@ -151,7 +176,7 @@ The current archaeology also carries these explicit relations for later verifica
 
 The pasted field cites Etymonline for `context` and `crisis`, and Merriam-Webster for `arbiter`; these are **opening source routes**, with stronger philological/lexicographical verification carried as source debt. The theoretical constellation remains available while that work proceeds.
 
-This field must be related to the existing `[[ETYMOLOGY-FIELD]]` braid, the core QL theorem units, power/valuation/trust/local-zero work, and the later meaning-crisis / `#3→#4` cultural argument.
+This field must be related to the existing `[[ETYMOLOGY-FIELD]]` braid, `[[Core Theorems — Pithy]]`, `[[The Copula Derivation Chain: Name, Count, Account, Economy]]`, power/valuation/trust/local-zero work, and the later meaning-crisis / `#3→#4` cultural argument.
 
 ---
 
@@ -345,10 +370,11 @@ This relation should be followed through:
 
 A future agent resuming Phase 3 does not need this conversation if it begins from live repository state and reads:
 
-1. `.wayfinder/maps/final-whole-argument-quilt.md`;
+1. `[[.wayfinder/maps/final-whole-argument-quilt|Final Whole-Argument Quilt]]`;
 2. `[[CURRENT-GROUND-AND-CORPUS-MANIFEST]]`;
 3. `[[INDEX|Inherited Corpus Recovery × Quilt × Capstone]]`;
 4. this addendum;
-5. the current station ledger and all linked carriers before making any determination.
+5. `[[01-DIFFERENTIATING-MIND|the current station ledger]]` or the station ledger named current by the live index;
+6. all linked carriers before making any determination.
 
 Then it continues the earliest incomplete recovery/architecture gate, updating wikilinks, relation records and preservation/debt ledgers as discoveries are made.
