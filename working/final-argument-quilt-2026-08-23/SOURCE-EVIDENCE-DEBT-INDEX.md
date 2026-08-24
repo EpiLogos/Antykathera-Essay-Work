@@ -74,6 +74,76 @@ A debt blocks **only** the attribution/use that depends on it. It does not downg
 
 ---
 
+# §1 — Return of Zero
+
+## S1-01 — Kaplan passage verification and boundary-fraction lead
+
+**Proposition:** Kaplan can support the section's narrative of zero's changing representational permissions and, if the pages actually warrant it, the Stern–Brocot/Farey/mediant boundary-fraction demonstration cited in the §1 reading route.
+
+- **theoretical status:** external historical/narrative support; possible mathematical-neighbour lead.
+- **debt type:** lawful-edition passage verification / locator.
+- **current source state:** `[[submission-package/essay/symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE|Kaplan — The Nothing That Is]]` is citation-ready but its excerpts remain unverified. `[[submission-package/essay/section-rooms/02-return-of-zero/READING|§1 Reading Route]]` points to pp. 204–207 for the fraction-tree/mediant lead. Repository search on 2026-08-24 found no separate indexed Stern–Brocot/Farey carrier.
+- **completion task:** verify the selected edition; extract only the passages actually needed for zero-history and inspect pp. 204–207 to determine the exact mathematical construction and whether it adds a distinct operation beyond the existing formal-neighbour field.
+- **target office:** `[[inherited-corpus-crosswalk/02-RETURN-OF-ZERO#3. #0 — Sign migration: zero has a history of changing permissions|§1 sign migration]]`; `[[inherited-corpus-crosswalk/02-RETURN-OF-ZERO-CARRIER-DISPOSITIONS#6. Stern–Brocot / Farey / mediant boundary-fraction lead|boundary-fraction lead]]`.
+- **blocking scope:** blocks Kaplan quotation and any publication-bearing use of the mediant lead; it does not block the authored Advent synthesis or standard mathematics available elsewhere.
+
+## S1-02 — Rotman passage/locator acquisition
+
+**Proposition:** Rotman's *Signifying Nothing* can serve as a precise semiotic interlocutor for zero as a reorganisation of the signifying economy and the emergence of a meta-subject, while preserving the essay's explicit constructivist divergence.
+
+- **theoretical status:** external semiotic/historical interlocutor.
+- **debt type:** passage acquisition / locator / contextual qualification.
+- **current source state:** `[[submission-package/essay/symbolon/episteme/sources/mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE|Rotman — Signifying Nothing]]` is citation-ready but currently has no acquired passages.
+- **completion task:** acquire exact passages for zero/meta-sign/meta-subject and record the context required to distinguish Rotman's semiotic production of a meta-subject from the essay's independent subject-pole derivation.
+- **target office:** `[[inherited-corpus-crosswalk/02-RETURN-OF-ZERO#3. #0 — Sign migration: zero has a history of changing permissions|§1 sign migration]]`; Advent Zero historical braid.
+- **blocking scope:** blocks precise Rotman attribution/quotation only.
+
+## S1-03 — Dutta excerpt for zero-divided algebraic regime
+
+**Proposition:** historical Indian zero-divided expressions should be interpreted through the algebraic rules actually in force, including restrictions on cancellation/cross-multiplication and delayed evaluation where Dutta's specialist reconstruction warrants them.
+
+- **theoretical status:** external mathematical-historical qualification.
+- **debt type:** passage acquisition / claim locator.
+- **current source state:** `[[submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE|Dutta — Zero-Divided Numbers in Indian Mathematics]]` is citation-ready but has no excerpt. Colebrooke q002/q003 already provides quotation-ready historical translations for Bhāskara's expression/comparison.
+- **completion task:** extract the smallest passages that state Dutta's algebraic reconstruction and its scope; keep it distinct from the older translated rule itself.
+- **target office:** `[[inherited-corpus-crosswalk/02-RETURN-OF-ZERO#4. #1 — Śūnya becomes operational: arithmetic citizenship is uneven|§1 arithmetic citizenship]]`; division-pluralism depth.
+- **blocking scope:** blocks direct attribution of Dutta's detailed reconstruction, not the already quotation-ready Colebrooke passages or the general structure-dependence argument.
+
+## S1-04 — Sanskrit-critical / philological zero and khahara route
+
+**Proposition:** the essay's use of *śūnya*, *kha*, *khahara*, zero-denominator terminology and theological comparison should be philologically anchored beyond Colebrooke's nineteenth-century translation where wording/history matters.
+
+- **theoretical status:** external historical/philological support.
+- **debt type:** critical-edition / Sanskrit philology / translation comparison.
+- **current source state:** Colebrooke is public-domain and quotation-ready; `khahara.md` itself is only a deprecated research stub; Dutta supplies specialist secondary context but no excerpt yet.
+- **completion task:** identify an appropriate critical Sanskrit edition and/or modern specialist translation/commentary for the exact zero/zero-denominator passages; compare terminology and semantic range without retroactively importing QL meaning.
+- **target office:** §1 #1, §1 #4, zero etymology/history depth.
+- **blocking scope:** blocks strong philological claims about the Sanskrit terms; it does not block historically qualified use of Colebrooke's selected translation.
+
+## S1-05 — medieval transmission / reception specificity
+
+**Proposition:** the Latin-European reception of Hindu-Arabic numerals/zero may include both technical transmission and culturally hostile or religiously charged reception, but each historical claim must be separately sourced.
+
+- **theoretical status:** historical deepening of Advent Zero.
+- **debt type:** chronology / historical scholarship / passage extraction.
+- **current source state:** `gerbert-sylvester-ii.md` is a bibliography seed explicitly warning that chronology needs care. `nothaft-satanic-ciphers.md` contains a verified bibliographic record for C. Philipp E. Nothaft's 2020 article but no extracted claim.
+- **completion task:** recover source-specific chronology for Gerbert/Latin numeral reception and inspect Nothaft before making any claim about “satanic ciphers” or hostility to the new notation.
+- **target office:** Advent Zero historical braid / history of changed cultural permissions.
+- **blocking scope:** blocks specific medieval reception claims only.
+
+## S1-06 — standard formal neighbour citation floor
+
+**Proposition:** the local standard-mathematical claims used in §1—von Neumann ordinals, trivial collapse under an inverse for zero, projective/Riemann completion and other named structures—should have stable exact formal references where publication requires them.
+
+- **theoretical status:** standard mathematics supporting formal neighbours.
+- **debt type:** theorem/source citation routing, not conceptual invention.
+- **current source state:** the operations are accurately differentiated in `[[Dimensional Reframing at Zero and Infinity]]`, `division-pluralisms.md`, §1 movements and `[[Core Theorem Bridge]]`; several legacy reference notes remain bibliography seeds.
+- **completion task:** attach a compact reliable source/theorem reference to each formal case actually retained in final prose; omit unused cases rather than source every exploratory neighbour.
+- **target office:** §1 #2/#4 and later §3 Matheme depth.
+- **blocking scope:** publication citation floor for retained formal examples only; native QL derivation remains separately grounded.
+
+---
+
 # Transverse / later-station debts already known
 
 ## ST-01 — `= = =//=` earlier literal carrier
