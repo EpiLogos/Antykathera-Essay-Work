@@ -1,36 +1,41 @@
 ---
-title: Recense arguments, concepts, etymologies and relational operators
+title: Recense relations across the deeply recovered current corpus
 label: wayfinder:research
 status: open
 parent: ../maps/final-whole-argument-quilt.md
 assignee: ""
 blocked_by:
-  - 017-developmental-full-quilt-traversal.md
+  - 024-current-rebuilt-essay-deep-traversal.md
 assets:
   - ../../working/final-argument-quilt-2026-08-23/ARGUMENT-CONCEPT-ETYMOLOGY-RECENSUS.md
   - ../../working/final-argument-quilt-2026-08-23/LEXICAL-CONSTELLATION-AND-RELATIONAL-OPERATORS.md
+  - ../../working/final-argument-quilt-2026-08-23/EIGHT-DETERMINATION-TRANSVERSE-MATRIX.md
 created: 2026-08-23
 github_issue: 39
 ---
 
-# Recense arguments, concepts, etymologies and relational operators
+# Recense relations across the deeply recovered current corpus
 
 ## Question
 
-What publication/knowledge field does the fully recovered developmental quilt actually require?
+What transverse architecture becomes visible once every current movement, argument, concept and argument-bearing deep surface has already been recovered on its own terms?
 
 ## Work
 
-After the developmental traversal, recense all current argument nodes, developed concepts, recovered concept reference notes, roots, Matheme/Mytheme/Episteme records, histories, etymologies, maps/paths/dossiers/dialogues/figures and source-facing fixtures.
+Consume native 024's section/argument/concept/map/deep-research ledgers. This ticket performs **synthesis after contact**; it is not a substitute for the deep read.
 
-Preserve local argument integrity while tracing transverse relations. `arbitration` is a powerful current word but cannot monopolise the field. Recover corpus-native distinctions among judgment, measure, valuation, determination, decision, mediation, authority, adjudication, discrimination, selection, orientation, surety, credit, trust, governance, apportionment, reckoning/accounting, recognition, Return and further cognates actually present.
+Recense roots, recovered reference notes, Matheme/Mytheme/Episteme records, histories, etymologies, maps/paths/dossiers/dialogues/figures, source-facing fixtures and the non-parallel companion quilts already dispositioned against the current body.
 
-Explicitly test power/truth/valuation, mono/poly, identity/non-identity, trust/dependency/deference, nested internality/frame-of-reference, knowledge/power, image/complex/archetype, Śakti, Māyā/Mahāmāyā, Buddhist epistemic dynamics, energetics, technoscience and oikonomia against the eight determinations and dia-/sym-ballein.
+Preserve local argument integrity while tracing transverse relations. A thread is admitted only when its current carriers can be named and its developmental provenance shown.
+
+`arbitration` is a powerful current word but cannot monopolise the field. Recover corpus-native distinctions among judgment, measure, valuation, determination, decision, mediation, authority, adjudication, discrimination, selection, orientation, surety, credit, trust, governance, apportionment, reckoning/accounting, recognition, Return and further cognates actually present.
+
+Explicitly map power/truth/valuation, mono/poly, identity/non-identity, trust/dependency/deference, nested internality/frame-of-reference, knowledge/power, image/complex/archetype, Śakti, Māyā/Mahāmāyā, Buddhist epistemic dynamics, energetics, technoscience and oikonomia across `−/− · 0/1 · ?/! · −/+ · X/x · AM/IS · ∞/dx · 1/0` and dia-/sym-ballein.
 
 ## Resolution
 
-Create the recensus and lexical-operator files with an explicit disposition for every candidate-bearing item.
+Create the recensus, lexical-operator file and eight-determination transverse matrix from deeply recovered current units.
 
 ## Done when
 
-No developed/candidate-bearing item disappears silently and the vocabulary retains the unique resonance of each operative term.
+Every transverse claim points to its current local carriers; every candidate-bearing item has an explicit disposition; vocabulary retains the reason and office of each distinction; and missing/degraded propagation is handed explicitly to native 020 / GitHub #41.
