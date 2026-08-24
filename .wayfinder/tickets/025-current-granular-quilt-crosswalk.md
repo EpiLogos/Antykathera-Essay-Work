@@ -3,7 +3,7 @@ title: Traverse current granular essay state against the complete quilt field
 label: wayfinder:research
 status: open
 parent: ../maps/final-whole-argument-quilt.md
-assignee: ""
+assignee: "phase3-final-quilt-session"
 blocked_by:
   - 024-complete-quilt-directory-traversal.md
 assets:
