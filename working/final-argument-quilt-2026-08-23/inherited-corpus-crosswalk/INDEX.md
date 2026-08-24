@@ -37,7 +37,8 @@ It establishes:
 - the strong-copula / `= = =//=` AND/OR identity relation as upstream of the Jungian `X=x` refraction;
 - current terminology: **dia-ballein / syn-ballein / diachronic / synchronic / Symbolon**;
 - relational wikilink/backlink/source laws designed to make later canonical pages extrudable from the graph built during quilting;
-- current §0 pressures around protected internality → Self/root-attractor presage, script/conditioning, paśu, Objective Internality and the later Objective Co-Internality relation between bounded operative frames.
+- §0's recovered finite-frame grammar and its later Objective Co-Internality relation between and around bounded operative frames;
+- §1's controlling distinction between **Advent Zero** (historical/formal admission) and terminal **Return of Zero** (later restoration/answerability), per T06C F8.
 
 Where an older T06D ledger lacks these relations, update it when that region is next touched; do not restart completed recovery merely for cosmetic conformity.
 
@@ -85,15 +86,15 @@ Current progress:
 | Station | Recovery ledger | Status |
 |---|---|---|
 | `§0/1` | `[[00-INTEGRAL-THRESHOLD]]` | active — first deep pass substantially developed |
-| `§0` | `[[01-DIFFERENTIATING-MIND]]` + `[[01-DIFFERENTIATING-MIND-CARRIER-DISPOSITIONS|carrier dispositions / OCI bridge]]` | **current frontier — deep carrier recensus substantially developed; closure gates remain** |
-| `§1` | `02-RETURN-OF-ZERO.md` | pending |
+| `§0` | `[[01-DIFFERENTIATING-MIND]]` · `[[01-DIFFERENTIATING-MIND-CARRIER-DISPOSITIONS|carrier dispositions / OCI bridge]]` · `[[01-DIFFERENTIATING-MIND-COLD-RETURN|cold return]]` | **recovered for native 025** |
+| `§1` | `[[02-RETURN-OF-ZERO]]` | **current frontier — room/movements + principal argument/concept/source carriers recovered; legacy/Matheme disposition and cold return remain** |
 | `§2` | `03-TWO-LOGICS.md` | pending |
 | `§3` | `04-MATHEMATICAL-SUBSTRATE.md` | pending |
 | `§4` | `05-PSYCHOID-FLOWERING.md` | pending |
 | `§5` | `06-OBJECTIVE-INTERNALITY.md` | pending |
 | `§5→0` | `07-INSTRUMENT-RETURNS.md` | pending |
 
-The §0 carrier companion is part of the station record. It preserves the direct Objective Co-Internality bridge and the operation-level dispositions of deprecated reference notes so that a future reader does not need this conversation to know what survived and why.
+The §0 companion/cold-return set preserves its direct Objective Co-Internality bridge, legacy carrier dispositions, source debts and later propagation gaps. The §1 ledger now controls the active recovery and preserves the Advent/terminal-Return distinction before the later architecture pass.
 
 ### Cross-cutting inherited fields
 
@@ -104,6 +105,7 @@ The §0 carrier companion is part of the station record. It preserves the direct
 - `[[PATHS-MAPS-HISTORIES-DEEP-SURFACES]]` — transverse and research-bearing surfaces.
 - `QUILT-CAPSTONE-TO-INHERITED-CORPUS-CROSSWALK.md` — relation-level landing/discrepancy matrix.
 - `[[STRANDED-DUPLICATED-DEGRADED-AND-DEFUNCT-WORK]]` — preservation ledger for unique work that present canon does not adequately carry.
+- `[[../SOURCE-EVIDENCE-DEBT-INDEX|Source / Evidence Debt Index]]` — parallel support debt; consumed continuously and non-blocking for theory.
 
 ## Link / relation capture during recovery
 
