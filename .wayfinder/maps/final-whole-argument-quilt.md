@@ -17,6 +17,26 @@ Complete the true final quilting pass of *The Return of Zero* by recovering enou
 
 This phase is **not** the canonical rebuild itself. It determines what the rebuild must be and why.
 
+## Singular continuation graph
+
+This map is the stable entrypoint into one central line of work. A resuming agent follows:
+
+```text
+[[Final Whole-Argument Quilt]]
+        ↓
+[[CURRENT-GROUND-AND-CORPUS-MANIFEST]]
+        ↓
+[[PHASE-3-RELATIONAL-DERIVATIONAL-PROTOCOL-ADDENDUM-2026-08-24|Phase 3 Relational / Derivational Protocol Addendum]]
+        ↓
+[[INDEX|Inherited Corpus Recovery × Quilt × Capstone]]
+        ↓
+[[01-DIFFERENTIATING-MIND|current active station ledger]]
+        ↓
+its linked theorem / quilt / argument / concept / etymology / source / capstone carriers
+```
+
+The live `[[INDEX|recovery index]]` determines which station is current if the frontier has moved. Every station and deep carrier returns through explicit typed links into this graph; Obsidian backlinks provide the complementary retrieval surface.
+
 ## Why the stages exist
 
 The programme follows a causal order:
@@ -61,31 +81,41 @@ Carry continuously:
 
 `−/− · 0/1 · ?/! · −/+ · X/x · AM/IS · ∞/dx · 1/0`
 
-`0/1` is the Symbolon heart/evolved zero; `1/0` is Return/non-self-authorisation. The determinations are a dynamic traversal, not labels pasted onto eight topics. Dia-ballein and sym-ballein are operative logics. Symbolon, Matheme, Mytheme and Episteme retain distinct offices and relations.
+`0/1` is the Symbolon heart/evolved zero; `1/0` is Return/non-self-authorisation. The determinations are a dynamic traversal, not labels pasted onto eight topics. **Dia-ballein and syn-ballein** are operative logics. Symbolon, Matheme, Mytheme and Episteme retain distinct offices and relations.
+
+The native proof field is first-class ground:
+
+- `[[working/sources-texts-references/10-7-2026-core-theorems-pithy|Core Theorems — Pithy]]`;
+- `[[submission-package/essay/quilt/copula-derivation-chain-and-resource-pools|The Copula Derivation Chain: Name, Count, Account, Economy]]`;
+- `[[PHASE-3-RELATIONAL-DERIVATIONAL-PROTOCOL-ADDENDUM-2026-08-24#Self-Identity / (No)Name / Power carrier|strong copula / = = =//= / Self-Identity relation]]`.
 
 ## Six quilt surfaces
 
-1. `27-07-26-QUILTING-FOR-FULL-ARGUMENT.md` — developmental provenance at session resolution.
-2. `2026-08-02-PARALLEL-HARMONISED-QUILT.md` — target-keyed prospective harmonisation, landing architecture and dated supersession/capstone records.
-3. `2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md` — corrected prospective whole as one readable argument.
-4. `copula-derivation-chain-and-resource-pools.md` — D0–D9 / C1–C13 derivation around identity, name, instance, circumstance, count, account and oikonomia.
-5. `agentworld-response-matrix.md` — venue-facing R1–R23 control architecture, including explicit still-open positive response obligations.
-6. `ql-expression-grammar.md` — expression law.
+1. `[[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|27-07-26 Quilting for Full Argument]]` — developmental provenance at session resolution.
+2. `[[submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT|Parallel Harmonised Quilt]]` — target-keyed prospective harmonisation, landing architecture and dated supersession/capstone records.
+3. `[[submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW|Plain-English Full Flow]]` — corrected prospective whole as one readable argument.
+4. `[[submission-package/essay/quilt/copula-derivation-chain-and-resource-pools|Copula Derivation Chain and Resource Pools]]` — D0–D9 / C1–C13 derivation around identity, name, instance, circumstance, count, account and oikonomia.
+5. `[[submission-package/essay/quilt/agentworld-response-matrix|Agentworld Response Matrix]]` — venue-facing R1–R23 control architecture, including explicit still-open positive response obligations.
+6. `[[submission-package/essay/quilt/ql-expression-grammar|QL Expression Grammar]]` — expression law.
 
 These are sibling authored working surfaces with different offices. None can stand in for the other five.
 
 ## Etymology is a first-class architectural field
 
-The live etymology system is not decoration or source administration. It carries meaning-fields and operations through four distinct truth-conditions:
+The live etymology system is one of the argument's thinking surfaces. It carries meaning-fields and operations through four distinct truth-conditions:
 
 1. philological descent;
 2. attested semantic field;
 3. operational homology;
 4. poetic / phonic re-entry.
 
-Current clusters such as encounter/region/name/count, apportionment/oikonomia, homology/analogy, symbol/account/trust and earth/taste/wisdom are inherited developed material, not a five-cluster quota. The final architecture may merge, split, expand, retire or add word-fields according to what the argument needs.
+`[[ETYMOLOGY-FIELD]]` now carries the inherited fields plus current authorial additions. **Earth / Taste / Wisdom is ratified foundational ground.** The new Arbitration field is currently:
 
-Arguments, concepts and etymologies are therefore co-equal architecture targets in the quilting decision.
+`Continuity/Indeterminacy → Criterion/Distinction → Delineation/Difference → Arbitration/Crisis → Con-text/Diaphaneity → Resolution/Reconciliation`.
+
+Mediation belongs to the #3 arbitration/crisis family; *différance* is available as a specific Derridean deepening of #2 Difference where actually warranted.
+
+Arguments, concepts and etymologies are co-equal architecture targets in the quilting decision. The current number of etymology folders or fields has no target authority.
 
 ## Receive-before-determine law
 
@@ -103,12 +133,14 @@ The recovery phase may mark a candidate implication; it does not prematurely pre
 
 Source readiness and theoretical status remain distinct. Missing citation work is routed to support, never used to weaken an internally developed relation.
 
+Every material operation must also be wired while it is recovered according to the `[[PHASE-3-RELATIONAL-DERIVATIONAL-PROTOCOL-ADDENDUM-2026-08-24#4. Relational wiki law for Phase 3|Phase-3 relational wiki law]]`: strongest carrier, exact theorem/source carrier, typed relation, target, state and semantic return.
+
 ## Current T06D execution order
 
 1. **Native 016 / GitHub #37 — ground/corpus authority.** Complete.
 2. **Native 017 / #38 — developmental parent quilt.** Complete.
 3. **Native 024 / #45 — complete six-surface quilt directory.** Complete.
-4. **Native 025 / #46 — inherited corpus recovery × quilt × capstone. CURRENT FRONTIER.** Recover rooms/movements and the complete argument-, concept-, etymology-, register-, path-, history- and deep-bearing field recursively. Historical counts have no target authority.
+4. **Native 025 / #46 — inherited corpus recovery × quilt × capstone. CURRENT FRONTIER.** Recover rooms/movements and the complete argument-, concept-, etymology-, register-, path-, history- and deep-bearing field recursively. Historical counts have no target authority. Current station: `[[01-DIFFERENTIATING-MIND|§0 — Differentiating Mind]]` until the live index records its closure.
 5. **Native 019 / #40 — source/evidence support.** Parallel and non-blocking.
 6. **Native 020 / #41 — whole-mytheme/deep-seam recovery.** Runs after 025 and before architecture freeze because full myths may change node boundaries.
 7. **Native 021 / #42 — primary Antikythera/Agentworld brief.** Runs after 025 and before architecture freeze because genuine venue pressures may require distinct carriers.
@@ -120,23 +152,24 @@ Source readiness and theoretical status remain distinct. Missing citation work i
 
 Completed:
 
-- `CURRENT-GROUND-AND-CORPUS-MANIFEST.md`
-- `DEVELOPMENTAL-QUILT-LEDGER.md`
-- `QUILT-DIRECTORY-SURFACE-LEDGER.md`
-- `QUILT-SURFACE-RELATION-MATRIX.md`
-- `PRE-PROPAGATION-STATE-AND-BOUNDARY.md`
+- `[[CURRENT-GROUND-AND-CORPUS-MANIFEST]]`
+- `[[DEVELOPMENTAL-QUILT-LEDGER]]`
+- `[[QUILT-DIRECTORY-SURFACE-LEDGER]]`
+- `[[QUILT-SURFACE-RELATION-MATRIX]]`
+- `[[PRE-PROPAGATION-STATE-AND-BOUNDARY]]`
+- `[[PHASE-3-RELATIONAL-DERIVATIONAL-PROTOCOL-ADDENDUM-2026-08-24|Phase 3 Relational / Derivational Protocol Addendum]]`
 
 Native 025 writes under `working/final-argument-quilt-2026-08-23/inherited-corpus-crosswalk/`:
 
-- `INDEX.md`
-- section/room/movement recovery ledgers
-- `ARGUMENT-FIELD.md`
-- `CONCEPT-FIELD.md`
-- `ETYMOLOGY-FIELD.md`
+- `[[INDEX]]`
+- section/room/movement recovery ledgers, currently `[[01-DIFFERENTIATING-MIND]]`
+- `[[ARGUMENT-FIELD]]`
+- `[[CONCEPT-FIELD]]`
+- `[[ETYMOLOGY-FIELD]]`
 - `SYMBOLON-MATHEME-MYTHEME-EPISTEME-FIELD.md`
-- `PATHS-MAPS-HISTORIES-DEEP-SURFACES.md`
+- `[[PATHS-MAPS-HISTORIES-DEEP-SURFACES]]`
 - `QUILT-CAPSTONE-TO-INHERITED-CORPUS-CROSSWALK.md`
-- `STRANDED-DUPLICATED-DEGRADED-AND-DEFUNCT-WORK.md`
+- `[[STRANDED-DUPLICATED-DEGRADED-AND-DEFUNCT-WORK]]`
 
 Architecture/final outputs include:
 
