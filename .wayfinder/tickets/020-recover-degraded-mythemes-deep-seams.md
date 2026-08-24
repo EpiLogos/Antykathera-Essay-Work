@@ -1,37 +1,55 @@
 ---
-title: Recover degraded mythemes and deep cross-register source seams
+title: Recover whole mythemes and deep cross-register seams before architecture freeze
 label: wayfinder:research
 status: open
 parent: ../maps/final-whole-argument-quilt.md
 assignee: ""
 blocked_by:
-  - 018-argument-concept-etymology-recensus.md
+  - 025-current-granular-quilt-crosswalk.md
 assets:
   - ../../working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md
 created: 2026-08-23
 github_issue: 41
 ---
 
-# Recover degraded mythemes and deep cross-register source seams
+# Recover whole mythemes and deep cross-register seams before architecture freeze
 
-## Question
+## Why this gate exists
 
-Which whole images and cross-register relations have actually been thinned, displaced or left prospective across the current selectively-propagated granular canon, and what complete operations must the final quilt restore?
+A final argument architecture derived from fragment labels would reproduce earlier degradation. Whole images and deep cross-register relations must be recovered **before** native 018 freezes the ought-be argument/concept/etymology architecture, because the complete relation may require different node boundaries, definitions, word-fields or publication offices.
 
 ## Work
 
-Start from the omissions/degradations demonstrated by native 024's complete quilt-field recovery, native 025's granular propagation crosswalk and native 018's recensus. Recover whole myths/images before extracting argumentative fragments.
+Consume native 025's recovery evidence and the complete quilt/developmental field. Recover each myth/image as a whole relational field before extracting a local argumentative operation.
 
-Mandatory starting fields: Apollo–Daphne; Apollo–Dionysus; Ares–Aphrodite–Harmonia; Hephaestus–Ares–Aphrodite–Poseidon; ouroboros/torus/trickster; Job/Yahweh/Sophia/Satan; mirror-that-moves-first; avatar/idol/image; Number Six only in its stipulated supporting office.
+Mandatory starting complexes:
 
-For each field recover the telling actually present in quilt/developmental/current/source surfaces, its matheme/logical operation, what it changes in the argument, and exactly where current nodes preserve, compress, omit or conflict with that work.
+- Apollo–Daphne;
+- Apollo–Dionysus;
+- Ares–Aphrodite–Harmonia;
+- Hephaestus–Ares–Aphrodite–Poseidon;
+- ouroboros / torus / trickster;
+- Job / Yahweh / Sophia / Satan;
+- the mirror that moves first;
+- avatar / idol / image;
+- Number Six / *The Prisoner* in its stipulated supporting-visible office.
 
-Deepen the earned seams among image/libido/prāṇa/Śakti/will; complex and captured valuation; power/identity/effectivity; jñāna/icchā/kriyā; irrational effects crossing nested frames; synchronicity; layered cosmos/firmament/archons; Gebser perspective→context/180°→360°; Levinas One/All/Other; plasma/energetics.
+For each recover:
+
+- the whole telling/relation actually developed;
+- its exact matheme/logical operation and why the image is needed;
+- what changes in the argument when it is restored at full resolution;
+- current carriers, compressions, omissions, misplaced fragments and source relations;
+- implications for argument, concept and **etymology** architecture;
+- candidate `linear-bearing / supporting-visible / radial-depth` office;
+- source/evidence debt separately from theoretical yield.
+
+Deepen the earned seams among image/libido/prāṇa/Śakti/will; complex/captured valuation; power/identity/effectivity; jñāna/icchā/kriyā; irrational effectuality across nested frames; synchronicity; layered cosmos/firmament/archons; Gebser perspective→context and 180°→360°; Levinas One/All/Other; plasma/energetics.
 
 ## Resolution
 
-Create `MYTHEME-AND-DEEP-SOURCE-SEAMS.md` with precise current carriers, quilt/developmental provenance, claim/source status and surviving office.
+Create `MYTHEME-AND-DEEP-SOURCE-SEAMS.md` with precise inherited/quilt carriers, provenance, operation, architecture pressure and source status.
 
 ## Done when
 
-The final quilt can use the full relational myths and deep seams without relying on degraded node labels, chat memory or quilt-only inference.
+Native 018 can derive canonical distinctions from whole relational images rather than inherited fragment labels. No canonical rebuilding occurs here.
