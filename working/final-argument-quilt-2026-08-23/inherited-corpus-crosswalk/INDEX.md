@@ -39,7 +39,9 @@ It establishes:
 - relational wikilink/backlink/source laws designed to make later canonical pages extrudable from the graph built during quilting;
 - §0's recovered finite-frame grammar and its later Objective Co-Internality relation between and around bounded operative frames;
 - §1's controlling distinction between **Advent Zero** (historical/formal admission) and terminal **Return of Zero** (later restoration/answerability), per T06C F8;
-- §2 receives the earned slash/zero relation as a **dynamic conjugate grammar**: dia-ballein differentiates/actualises; syn-ballein retains, composes and returns differentiated relation. Their meaning must be recovered through operation, mytheme, dynamical process and consequence rather than two static labels.
+- §2's recovered **dynamic conjugate grammar**: living dia-ballein differentiates/actualises while retaining the slash; syn-ballein preserves provenance, composition and return; severance, fusion and counterfeit gathering are distinct failures of relation;
+- §2 hands §3 a compact `2 + 2² = 6` binary census, while the full Spanda / 4+2 / 3:3 / complex-plane / topological derivation remains §3/Matheme work;
+- §3 is the station of **formal QL disclosure**: native theorem-units must be recovered in their own dependency order before mathematical, physical, psychological or musical correspondences are allowed to bear on them.
 
 Where an older T06D ledger lacks these relations, update it when that region is next touched; do not restart completed recovery merely for cosmetic conformity.
 
@@ -89,13 +91,13 @@ Current progress:
 | `§0/1` | `[[00-INTEGRAL-THRESHOLD]]` | active — first deep pass substantially developed |
 | `§0` | `[[01-DIFFERENTIATING-MIND]]` · `[[01-DIFFERENTIATING-MIND-CARRIER-DISPOSITIONS|carrier dispositions / OCI bridge]]` · `[[01-DIFFERENTIATING-MIND-COLD-RETURN|cold return]]` | **recovered for native 025** |
 | `§1` | `[[02-RETURN-OF-ZERO]]` · `[[02-RETURN-OF-ZERO-CARRIER-DISPOSITIONS|carrier dispositions]]` · `[[02-RETURN-OF-ZERO-COLD-RETURN|cold return]]` | **recovered for native 025** |
-| `§2` | `[[03-TWO-LOGICS]]` | **current frontier — live room recovered; movement/depth traversal active** |
-| `§3` | `04-MATHEMATICAL-SUBSTRATE.md` | pending |
+| `§2` | `[[03-TWO-LOGICS]]` · `[[03-TWO-LOGICS-CARRIER-DISPOSITIONS|carrier dispositions]]` · `[[03-TWO-LOGICS-SOURCE-DEBTS|source debts]]` · `[[03-TWO-LOGICS-COLD-RETURN|cold return]]` | **recovered for native 025** |
+| `§3` | `[[04-MATHEMATICAL-SUBSTRATE]]` | **current frontier — formal theorem disclosure / movement traversal begins** |
 | `§4` | `05-PSYCHOID-FLOWERING.md` | pending |
 | `§5` | `06-OBJECTIVE-INTERNALITY.md` | pending |
 | `§5→0` | `07-INSTRUMENT-RETURNS.md` | pending |
 
-The §0 companion/cold-return set preserves its direct Objective Co-Internality bridge, legacy carrier dispositions, source debts and later propagation gaps. The §1 set preserves historical Advent, formal neighbours, native root/Matheme derivation, outgoing re-entry depth and the distinction from terminal Return. §2 now controls the active recovery.
+The §0 set preserves its direct Objective Co-Internality bridge, legacy carrier dispositions, source debts and later propagation gaps. The §1 set preserves historical Advent, formal neighbours, native root/Matheme derivation, outgoing re-entry depth and the distinction from terminal Return. The §2 set preserves the primitive Dia/Syn process grammar, its failure diagnostics, the whole Ares/Aphrodite/Harmonia/Hephaestus/Poseidon field, complex-dynamical depth and the compact two→six hand-off. §3 now controls the active recovery.
 
 ### Cross-cutting inherited fields
 
