@@ -41,7 +41,12 @@ It establishes:
 - §1's controlling distinction between **Advent Zero** (historical/formal admission) and terminal **Return of Zero** (later restoration/answerability), per T06C F8;
 - §2's recovered **dynamic conjugate grammar**: living dia-ballein differentiates/actualises while retaining the slash; syn-ballein preserves provenance, composition and return; severance, fusion and counterfeit gathering are distinct failures of relation;
 - §2 hands §3 a compact `2 + 2² = 6` binary census, while the full Spanda / 4+2 / 3:3 / complex-plane / topological derivation remains §3/Matheme work;
-- §3 is the station of **formal QL disclosure**: native theorem-units must be recovered in their own dependency order before mathematical, physical, psychological or musical correspondences are allowed to bear on them.
+- §3 is the station of **formal QL disclosure**: native theorem-units stand in their own declared operations before external mathematical, physical, psychological or musical correspondences bear on them;
+- §3's sixfold positional body and eight-turn threshold-to-return traversal are distinct but coordinated structures;
+- P4 is the contextual/lemniscate aperture where the sixfold recursively internalises itself; CF5 is the fractal-doubling executive at which the nested `4.0…4.5` cycle becomes active and is received by the L-lenses;
+- the inherited §3 harmonic ratio kernel is now only the opening of the canonical V3 musical field, which develops through two co-foundational `Z12` bases, P/P′, A/B/C/D, twelve L/L′ anchors, seven Context Frames and an 84-instance mode-tonic field;
+- current QL-MEF V3 source, open PR implementation state and recorded CI evidence retain distinct provenance offices;
+- §4 receives the formally earned field psychologically: psyche/complex/archetype/image/psychoid relations may refract §3, but may not become retrospective proof of the theorem.
 
 Where an older T06D ledger lacks these relations, update it when that region is next touched; do not restart completed recovery merely for cosmetic conformity.
 
@@ -92,12 +97,12 @@ Current progress:
 | `§0` | `[[01-DIFFERENTIATING-MIND]]` · `[[01-DIFFERENTIATING-MIND-CARRIER-DISPOSITIONS|carrier dispositions / OCI bridge]]` · `[[01-DIFFERENTIATING-MIND-COLD-RETURN|cold return]]` | **recovered for native 025** |
 | `§1` | `[[02-RETURN-OF-ZERO]]` · `[[02-RETURN-OF-ZERO-CARRIER-DISPOSITIONS|carrier dispositions]]` · `[[02-RETURN-OF-ZERO-COLD-RETURN|cold return]]` | **recovered for native 025** |
 | `§2` | `[[03-TWO-LOGICS]]` · `[[03-TWO-LOGICS-CARRIER-DISPOSITIONS|carrier dispositions]]` · `[[03-TWO-LOGICS-SOURCE-DEBTS|source debts]]` · `[[03-TWO-LOGICS-COLD-RETURN|cold return]]` | **recovered for native 025** |
-| `§3` | `[[04-MATHEMATICAL-SUBSTRATE]]` | **current frontier — formal theorem disclosure / movement traversal begins** |
-| `§4` | `05-PSYCHOID-FLOWERING.md` | pending |
+| `§3` | `[[04-MATHEMATICAL-SUBSTRATE]]` · `[[04-MATHEMATICAL-SUBSTRATE-CARRIER-DISPOSITIONS|carrier dispositions]]` · `[[04-MATHEMATICAL-SUBSTRATE-SOURCE-DEBTS|source debts]]` · `[[04-MATHEMATICAL-SUBSTRATE-COLD-RETURN|cold return]]` | **recovered for native 025** |
+| `§4` | `[[05-PSYCHOID-FLOWERING]]` | **current frontier — psyche receives the formal field** |
 | `§5` | `06-OBJECTIVE-INTERNALITY.md` | pending |
 | `§5→0` | `07-INSTRUMENT-RETURNS.md` | pending |
 
-The §0 set preserves its direct Objective Co-Internality bridge, legacy carrier dispositions, source debts and later propagation gaps. The §1 set preserves historical Advent, formal neighbours, native root/Matheme derivation, outgoing re-entry depth and the distinction from terminal Return. The §2 set preserves the primitive Dia/Syn process grammar, its failure diagnostics, the whole Ares/Aphrodite/Harmonia/Hephaestus/Poseidon field, complex-dynamical depth and the compact two→six hand-off. §3 now controls the active recovery.
+The §0 set preserves its direct Objective Co-Internality bridge, legacy carrier dispositions, source debts and later propagation gaps. The §1 set preserves historical Advent, formal neighbours, native root/Matheme derivation, outgoing re-entry depth and the distinction from terminal Return. The §2 set preserves the primitive Dia/Syn process grammar, its failure diagnostics, the whole Ares/Aphrodite/Harmonia/Hephaestus/Poseidon field, complex-dynamical depth and the compact two→six hand-off. The §3 set preserves the full native theorem chain, its exact proof boundaries, P4/CF5 recursive context, the current V3/QL-MEF depth, torus/harmonic/arche-topos relations, supporting formal plates and the large unpropagated Matheme field. §4 now controls the active recovery.
 
 ### Cross-cutting inherited fields
 
