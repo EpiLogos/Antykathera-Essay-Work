@@ -38,7 +38,8 @@ It establishes:
 - current terminology: **dia-ballein / syn-ballein / diachronic / synchronic / Symbolon**;
 - relational wikilink/backlink/source laws designed to make later canonical pages extrudable from the graph built during quilting;
 - §0's recovered finite-frame grammar and its later Objective Co-Internality relation between and around bounded operative frames;
-- §1's controlling distinction between **Advent Zero** (historical/formal admission) and terminal **Return of Zero** (later restoration/answerability), per T06C F8.
+- §1's controlling distinction between **Advent Zero** (historical/formal admission) and terminal **Return of Zero** (later restoration/answerability), per T06C F8;
+- §2 receives the earned slash/zero relation as a **dynamic conjugate grammar**: dia-ballein differentiates/actualises; syn-ballein retains, composes and returns differentiated relation. Their meaning must be recovered through operation, mytheme, dynamical process and consequence rather than two static labels.
 
 Where an older T06D ledger lacks these relations, update it when that region is next touched; do not restart completed recovery merely for cosmetic conformity.
 
@@ -87,14 +88,14 @@ Current progress:
 |---|---|---|
 | `§0/1` | `[[00-INTEGRAL-THRESHOLD]]` | active — first deep pass substantially developed |
 | `§0` | `[[01-DIFFERENTIATING-MIND]]` · `[[01-DIFFERENTIATING-MIND-CARRIER-DISPOSITIONS|carrier dispositions / OCI bridge]]` · `[[01-DIFFERENTIATING-MIND-COLD-RETURN|cold return]]` | **recovered for native 025** |
-| `§1` | `[[02-RETURN-OF-ZERO]]` | **current frontier — room/movements + principal argument/concept/source carriers recovered; legacy/Matheme disposition and cold return remain** |
-| `§2` | `03-TWO-LOGICS.md` | pending |
+| `§1` | `[[02-RETURN-OF-ZERO]]` · `[[02-RETURN-OF-ZERO-CARRIER-DISPOSITIONS|carrier dispositions]]` · `[[02-RETURN-OF-ZERO-COLD-RETURN|cold return]]` | **recovered for native 025** |
+| `§2` | `[[03-TWO-LOGICS]]` | **current frontier — live room recovered; movement/depth traversal active** |
 | `§3` | `04-MATHEMATICAL-SUBSTRATE.md` | pending |
 | `§4` | `05-PSYCHOID-FLOWERING.md` | pending |
 | `§5` | `06-OBJECTIVE-INTERNALITY.md` | pending |
 | `§5→0` | `07-INSTRUMENT-RETURNS.md` | pending |
 
-The §0 companion/cold-return set preserves its direct Objective Co-Internality bridge, legacy carrier dispositions, source debts and later propagation gaps. The §1 ledger now controls the active recovery and preserves the Advent/terminal-Return distinction before the later architecture pass.
+The §0 companion/cold-return set preserves its direct Objective Co-Internality bridge, legacy carrier dispositions, source debts and later propagation gaps. The §1 set preserves historical Advent, formal neighbours, native root/Matheme derivation, outgoing re-entry depth and the distinction from terminal Return. §2 now controls the active recovery.
 
 ### Cross-cutting inherited fields
 
