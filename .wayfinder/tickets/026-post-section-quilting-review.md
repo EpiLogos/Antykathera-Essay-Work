@@ -6,6 +6,8 @@ parent: ../maps/final-whole-argument-quilt.md
 assignee: "phase3-final-quilt-session"
 blocked_by:
   - 025-current-granular-quilt-crosswalk.md
+  - 020-recover-degraded-mythemes-deep-seams.md
+  - 021-primary-antikythera-brief-recovery.md
 assets:
   - ../../working/final-argument-quilt-2026-08-23/inherited-corpus-crosswalk/05-PSYCHOID-FLOWERING-CARRIER-DISPOSITIONS.md
   - ../../working/final-argument-quilt-2026-08-23/inherited-corpus-crosswalk/05-PSYCHOID-FLOWERING-COLD-RETURN.md
@@ -21,6 +23,8 @@ github_issue: 48
 This is a retroactive authorial refinement discovered during the §4→§5 handoff. It is intentionally **not** a restart of §4 recovery and not a canonical-propagation ticket.
 
 Its job is to return across the completed section traversals after native 025 has finished, repair any section-level emphasis that became too narrow during local recovery, and test the section field against current QL/MEF/Context-Frame semantics before the ought-be architecture is frozen.
+
+Because the review must test the whole Agentworld brief and the recovered whole-mytheme field rather than the same local slices that generated the correction, it also waits for native 020 and native 021.
 
 ## Thread 1 — §4 MEF is theory-first
 
