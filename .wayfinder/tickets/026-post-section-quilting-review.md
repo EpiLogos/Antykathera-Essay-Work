@@ -8,10 +8,13 @@ blocked_by:
   - 025-current-granular-quilt-crosswalk.md
   - 020-recover-degraded-mythemes-deep-seams.md
   - 021-primary-antikythera-brief-recovery.md
+  - 027-final-authorial-intake-root-web.md
 assets:
   - ../../working/final-argument-quilt-2026-08-23/inherited-corpus-crosswalk/05-PSYCHOID-FLOWERING-CARRIER-DISPOSITIONS.md
   - ../../working/final-argument-quilt-2026-08-23/inherited-corpus-crosswalk/05-PSYCHOID-FLOWERING-COLD-RETURN.md
   - ../../working/final-argument-quilt-2026-08-23/ANTIKYTHERA-BRIEF-DEEP-RECOVERY.md
+  - ../../working/final-argument-quilt-2026-08-23/AUTHORIAL-RETURN-INTAKE.md
+  - ../../working/final-argument-quilt-2026-08-23/ROOT-WEB-RELATION-MAP.md
 created: 2026-08-26
 github_issue: 48
 ---
@@ -22,9 +25,11 @@ github_issue: 48
 
 This is a retroactive authorial refinement discovered during the §4→§5 handoff. It is intentionally **not** a restart of §4 recovery and not a canonical-propagation ticket.
 
-Its job is to return across the completed section traversals after native 025 has finished, repair any section-level emphasis that became too narrow during local recovery, and test the section field against current QL/MEF/Context-Frame semantics before the ought-be architecture is frozen.
+Its job is to return across the completed section traversals after native 025 has finished, repair any section-level emphasis that became too narrow during local recovery, and test the whole section field against current QL/MEF/Context-Frame semantics before the ought-be architecture is frozen.
 
-Because the review must test the whole Agentworld brief and the recovered whole-mytheme field rather than the same local slices that generated the correction, it also waits for native 020 and native 021.
+This review **consumes the completed returns** of native 020 whole-mytheme recovery, native 021 primary Antikythera/Agentworld recovery and native 027 final authorial intake. These are execution-order dependencies, not passive waits.
+
+Source/citation completion remains a parallel support circuit. Incomplete evidence work never blocks a developed authorial/native relation from entering this review; it only constrains the external attribution that depends on it.
 
 ## Thread 1 — §4 MEF is theory-first
 
@@ -44,8 +49,8 @@ Test §4/#5 as a return through the field already earned:
 ```text
 §0/1  defined indefinability / unobjectifiable subject-pole / faithful formal limit
 §0    differentiating mind / tattvic and antaḥkaraṇa mediation / finite frame
-§1    Advent Zero / operative sign and paradoxical limit
-§2    0/1 / dia-ballein / syn-ballein / retained relation and Return
+§1    Advent Zero / zero-one foundational relation / Primordial Symbolon hinge
+§2    dia-ballein / syn-ballein / retained relation and return
 §3    theorem braid / P4 contextual aperture / Context Frames / Matheme / arche-topos
 §4    X/x / psyche-image-complex / matheme-mytheme / diaphaneity / finite disclosure
         ↓
@@ -54,9 +59,31 @@ MEF as a whole-field epistemic return
 
 The question is not whether MEF can label each prior station. It is whether those earned relations generate MEF's claim that a determination can know itself as a situated refraction without exhausting its ground.
 
-## Thread 3 — post-phase QL / Context-Frame conformance
+### §1 hinge to test explicitly
 
-After the section recoveries finish and before architecture ratification/canonical propagation, run a dedicated relational-health pass.
+The review must test the now-clarified §1 office:
+
+```text
+psycho-spiritual / metaphysical zero
+        ↓
+historical Advent of Zero
+        ↓
+mathematical admission and differentiation of zero and one
+        ↓
+set-theoretic / formal / fractional / re-entry discoveries
+        ↓
+0/1 ↔ 1/0
+        ↓
+Primordial Symbolon
+        ↓
+formal achievement returned to the wider psychoid / metaphysical / ontological / epistemological field
+```
+
+This is neither mathematics proving metaphysics nor metaphysics predicting mathematics. It is the essay's argument that formal differentiation can return to the ontological problem its own operation had bracketed without losing the precision gained along the way.
+
+## Thread 3 — post-section QL / Context-Frame conformance
+
+After the section recoveries and final authorial intake are complete and before architecture ratification/canonical propagation, run a dedicated relational-health pass.
 
 Test:
 - section-to-section connectivity;
@@ -64,7 +91,8 @@ Test:
 - P4 as contextual/recursive aperture where materially earned;
 - whether maximal CF readings remain bounded by the argument;
 - whether any section became over-connected, under-connected or mechanically sixfold;
-- whether the eight determinations still operate dynamically rather than as metadata tags.
+- whether the eight determinations still operate dynamically rather than as metadata tags;
+- whether the section field preserves the distinction between linear-essential, supporting-visible, radial/depth and whole-form/Mytheme material.
 
 This is conformance of an authored field to its current formal grammar, not a claim that the current QL software retroactively caused the essay.
 
@@ -72,7 +100,7 @@ This is conformance of an authored field to its current formal grammar, not a cl
 
 Prompt Thrownness remains a sharp local case, but it must not become a proxy for the full Agentworld brief.
 
-The dedicated primary-brief recovery remains native 021 / GitHub #42. This review consumes that full recovery and asks:
+The dedicated primary-brief recovery is native 021 / GitHub #42. This review consumes that full recovery and asks:
 - what wider venue questions concern agent self-description, world-modelling, agency, interaction, institution, culture and technical conditions;
 - which of those genuinely belong to §4/#5;
 - whether Prompt Thrownness has received more argumentative weight than it earns because it is memorable and recursively easy for agents to return to;
@@ -94,14 +122,41 @@ Current corpus mapping distributes:
 
 Do not overwrite that mapping here. The conformance pass must recover the exact current twelve-lens/Context-Frame semantics and determine how L4′ participates in self-disclosure and reflexive return.
 
+## Thread 6 — root-web and burden review
+
+Consume native 027's authorial return and test the section field as one traversable intelligence graph:
+
+`source ↔ etymology ↔ concept ↔ argument ↔ section ↔ quilt`
+
+Check meaningful wikilinks/backlinks, typed relation verbs and return routes. Repair over-compressed or orphaned relations in the working review field without prematurely rebuilding canonical nodes.
+
+Use the four burden offices:
+
+- `linear-essential`;
+- `supporting-visible`;
+- `radial/depth`;
+- `whole-form/Mytheme`.
+
+Deep/speculative Epi-Logos work remains fully present through radial records and links without becoming an unnecessary burden of proof for the linear essay. Whole myths/poems/images preserve their own integrity while their exact argumentative operations remain linked into the section field.
+
+## Thread 7 — nomenclature review
+
+Treat `The Return of Zero` as an inherited working title during this phase. Consume native 027's title register, including the current candidate:
+
+**Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality**
+
+Test title/subtitle candidates against the recovered whole. Do not rename inherited files during this review.
+
 ## Done when
 
 Before native 018 freezes the ought-be architecture, the programme can state clearly:
 
 1. what §4 MEF means as a theory in its own right;
-2. how it gathers the prior stations;
+2. how it gathers the prior stations, including the Advent Zero → Primordial Symbolon hinge;
 3. where O:I/product implementation belongs later;
 4. how the full Agentworld brief qualifies the current §4/#5 composition;
-5. whether section↔Context-Frame relations remain healthy, bounded and dynamically QL-conformant.
+5. whether section↔Context-Frame relations remain healthy, bounded and dynamically QL-conformant;
+6. whether root-web links and burden classifications make the essay's essential path distinct from its radial/mythemic depth;
+7. which nomenclature/title candidates actually fit the final argument.
 
 No canonical rebuilding occurs here.
