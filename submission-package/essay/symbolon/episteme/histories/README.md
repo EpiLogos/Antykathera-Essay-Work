@@ -16,7 +16,7 @@ The folders register that movement across recurring sources. Bohm belongs to phy
 
 Every history has two linked bodies. The prose follows ideas in time from the canonical [source houses](../sources/), using their actual teaching, passages, locators, and stated boundaries. The movement index then points into the [48 granular sections](../../../section-rooms) at the places where that history bears the essay's argument. Source houses remain the authority for evidence; section nodes remain the authority for the essay's claims. These files are where the two can be learned together.
 
-The histories also provide the **trunk and branch body** for the project's etymological archaeology. Word-histories remain rooted in [[../etymologies/README|Etymologies]]; a historical register follows the actual persons, texts, laws, institutions and episodes through which those words and their operative relations become time-bound worlds. [[../../../working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS|Etymological Archaeology Tree Seams]] keeps the root→trunk→branch→leaf return visible to the final quilt.
+The histories also provide the **trunk and branch body** for the project's etymological archaeology. Word-histories remain rooted in [[../etymologies/README|Etymologies]]; a historical register follows the actual persons, texts, laws, institutions and episodes through which those words and their operative relations become time-bound worlds. [[working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS|Etymological Archaeology Tree Seams]] keeps the root→trunk→branch→leaf return visible to the final quilt.
 
 ## Register histories
 
