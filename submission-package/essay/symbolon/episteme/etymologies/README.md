@@ -18,6 +18,12 @@ These are repeatable anchors for the essay's flights: a writer can return to *no
 
 **Second intake (proposal pending Frank's verification):** Frank's Neumann reading notes of 2026-08-05/06 opened the earth/taste/wisdom cluster — *homo/humus*, *sapiens/sapientia*, *scire/scientia*, the *homos*/*monos* re-entry, and the Hebrew *adam/adamah* + *taʿam* homology — around the p. 16 "Homo sapiens" passage. The cluster is drafted as a proposal; its lexical shelf, the Neumann collation, and its authorial glosses await Frank's amendment or acceptance before first-class canon integration.
 
+## The whole relational unit
+
+The etymological source is the **whole relational field**, not an isolated dictionary item. Where a QL sixfold has matured through several word-histories, the entry preserves the complete sixfold, the source status of each word, the operations among positions, the lateral phonic/metaphoric relations, the historical branches through which those meanings act, and the return routes into argument, concept, Mytheme, section and quilt.
+
+This is the etymological analogue of the whole-Mytheme law in `[[working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS|Native 020]]`: later architecture may consume one operation, but the whole remains recoverable. `[[working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS|Etymological Archaeology Tree Seams]]` carries the live root→trunk→branch→leaf intake for the final quilt.
+
 ## The four registers
 
 | Register | What it records | What it may do in the essay |
@@ -29,21 +35,37 @@ These are repeatable anchors for the essay's flights: a writer can return to *no
 
 The last two are not embarrassed versions of the first two. They have their own truth-conditions: the operation has to be named, its local consequences have to be shown, and the involved traditions must retain their own terms, history, and warrant. A rhyme is not a root; a root does not dictate a theorem.
 
+## The archaeology tree
+
+The field is cultivated as a tree because the morphology preserves several kinds of depth at once:
+
+- **roots** carry lexical descent, semantic layers, morphology, translation and material practices;
+- **mycelial/rhizomatic relations** carry rhyme, puns, idioms, phonetics, metaphor, false friends, graphic echoes and cross-language meetings, each marked by its evidential register;
+- the **trunk** carries forward yet spiralic historical development through actual persons, texts, institutions and events;
+- **rings** retain earlier linguistic, theological, mythic, psychic and institutional formations inside later growth;
+- **branches** differentiate regions and domains whose local histories must retain their own sources;
+- **leaves** are the treaty, law, speech, manuscript, object, marriage, school rule, classification, ledger or technical act through which the larger relation becomes evidence;
+- **fruit and seed** record the `5→0` return by which a historically achieved category, standard or institution becomes inherited ground for a later generation.
+
+The full operational protocol and current historical/mythic branch ledger live in [[working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS|Etymological Archaeology Tree Seams]].
+
 ## How an entry is built
 
 Each cluster keeps five things together:
 
 1. **Word record** — forms, languages, and the exact relation being claimed.
-2. **Meaning-field** — the operation that makes the cluster available to this essay.
+2. **Meaning-field** — the operation that makes the cluster available to this essay, including its full QL sixfold where one has been established.
 3. **Relation ledger** — whether a connection is descent, attested semantic range, operational homology, or poetic re-entry.
 4. **Source shelf** — dictionaries, editions, grammars, or passages needed to move a lead toward quotation-ready evidence. These remain internal research references unless a work begins to bear a first-class burden elsewhere in the essay.
-5. **Argument routes** — exact sections, concepts, arguments, and histories where the field does work. The linked canonical node remains the authority for the claim.
+5. **Argument and history routes** — exact sections, concepts, arguments, Mythemes and histories where the field does work. The linked canonical node remains the authority for the local claim; the cluster remains the authority for the whole etymological relation.
 
 The field is deliberately porous: a single word can belong to more than one cluster, and a cluster can enter more than one history. The relation is named each time rather than inferred from adjacency.
 
 ## Clusters opened
 
-- [Encounter, region, countenance, and count](encounter-region-name-count/HISTORY.md) — the primordial *with* differentiating into counter-facing, region, name, count, personed bearing, account, and non-severing return.
+- [Encounter, region, countenance, and count](encounter-region-name-count/HISTORY.md) — the primordial *with* differentiating into counter-facing, region, name, count, personed bearing, account, and non-severing return; includes the mature complete QL language-unit.
+- [Arbitration, Hybris, Regard, and Anamnesis](arbitration-hybris-regard-anamnesis/HISTORY.md) — the established Continuity→Measure→Delineation→Arbitration→Con-text→Return sixfold together with its Origin→Māyā→Perspective→Hybris→Regard→Anamnesis charge and the lexical witness/judgment/crisis fields beneath it.
+- [Fides, Topos, Logos, Nomos, Natio, Credere](trust-place-logos-nomos-natio-credere/HISTORY.md) — trust becoming emplacement, articulation, distribution/law, belonging and renewed entrustment; carries `Topos → Logos → Nomos → Natio` and `credere → fides`.
 - [Apportionment, naming, number, and oikonomia](apportionment-and-economy/HISTORY.md) — the distribution of shares, the naming and measuring of value, coinage, and the question of an economy of fullness.
 - [Homologia, analogia, and the discipline of comparison](homology-and-analogy/HISTORY.md) — agreements in word, ratio, operation, or sound, together with the boundaries that keep comparison from becoming annexation.
 - [Symbol, account, and trust](symbol-account-and-trust/HISTORY.md) — broken tokens, counting, narration, credit, record, claim, and the mark that must circulate without pretending to ground itself.
@@ -53,10 +75,12 @@ The field is deliberately porous: a single word can belong to more than one clus
 
 | Etymological cluster | History it thickens | Canonical movement it can retrieve |
 |---|---|---|
-| Encounter, region, countenance, and count | [Language, symbol, and dialogue](../histories/language-symbol-dialogue/HISTORY.md) | [The Two Ones — Mono–Poly Matheme](../../../section-rooms/arguments/19-two-ones-mono-poly-matheme.md); [Sym-Ballein](../../../section-rooms/arguments/03-two-logics-and-sym-ballein.md); [§3 · #0 — Eight Determinations](../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md) |
+| Encounter, region, countenance, and count | [Language, symbol, and dialogue](../histories/language-symbol-dialogue/HISTORY.md); [Language, law, nation, and centralisation](../histories/language-law-nation-centralisation/HISTORY.md) | [The Two Ones — Mono–Poly Matheme](../../../section-rooms/arguments/19-two-ones-mono-poly-matheme.md); [Sym-Ballein](../../../section-rooms/arguments/03-two-logics-and-sym-ballein.md); [§3 · #0 — Eight Determinations](../../../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md) |
+| Arbitration, Hybris, Regard, and Anamnesis | [Language, law, nation, and centralisation](../histories/language-law-nation-centralisation/HISTORY.md); [Technology, politics, and institutions](../histories/technology-politics/HISTORY.md) | [§2 · #1 — Dia-Ballein](../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md); [Sym-Ballein](../../../section-rooms/arguments/03-two-logics-and-sym-ballein.md); [§5 · #3 — Preference Models and the Hidden Zero](../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) |
+| Fides, Topos, Logos, Nomos, Natio, Credere | [Language, law, nation, and centralisation](../histories/language-law-nation-centralisation/HISTORY.md); [Language, symbol, and dialogue](../histories/language-symbol-dialogue/HISTORY.md) | [Trust, Faith, and the Formal Limit](../../../section-rooms/arguments/18-trust-faith-formal-limit.md); [§2 · #2 — Sym-Ballein](../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md); [§5→0 · #3 — 4:2 Technē and the Sovereign Commons](../../../section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md) |
 | Apportionment and economy | [Technology, politics, and institutions](../histories/technology-politics/HISTORY.md) | [§5 · #3 — Preference Models and the Hidden Zero](../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md); [§5→0 · #3 — 4:2 Technē and the Sovereign Commons](../../../section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md) |
 | Homologia and analogia | [Language, symbol, and dialogue](../histories/language-symbol-dialogue/HISTORY.md) | [Sym-Ballein](../../../section-rooms/arguments/03-two-logics-and-sym-ballein.md); [Core Theorem Bridge](../../../section-rooms/arguments/12-core-theorem-bridge.md) |
 | Symbol, account, and trust | [Language, symbol, and dialogue](../histories/language-symbol-dialogue/HISTORY.md); [Technology, politics, and institutions](../histories/technology-politics/HISTORY.md) | [§2 · #2 — Sym-Ballein](../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md); [Trust, Faith, and the Formal Limit](../../../section-rooms/arguments/18-trust-faith-formal-limit.md) |
 | Earth, taste, and wisdom | [Zero, subject, and the advent of integral logic](../histories/zero-subject-advent/HISTORY.md); [Language, symbol, and dialogue](../histories/language-symbol-dialogue/HISTORY.md); [Psychology](../histories/psychology/HISTORY.md) | [The Two Ones — Mono–Poly Matheme](../../../section-rooms/arguments/19-two-ones-mono-poly-matheme.md); [Sym-Ballein](../../../section-rooms/arguments/03-two-logics-and-sym-ballein.md); [Compassion as Sensitivity to Origins](../concepts/compassion-as-sensitivity-to-origins.md); [§5→0 · #0 — From Theory to Vocation](../../../section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md) |
 
-The routes are invitations to retrieve, not permissions to insert an etymology into a passage. Before a canonical use, reopen the local movement, ask what operation the word performs there, and retain only the relation that carries that work.
+The routes are invitations to retrieve, not permissions to insert an etymology into a passage. Before a canonical use, reopen the local movement and the whole etymological unit, ask what operation the word performs there, and retain the relation that carries that work.
