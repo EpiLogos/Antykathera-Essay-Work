@@ -15,5 +15,6 @@ A record marks the beginning state, decisive turns, achieved transformation and 
 ## Current whole records
 
 - `[[jung-aion-fishes-christ-antichrist-alchemy/WHOLE|Jung's Aion — Self, Christ/Antichrist, Fishes, Alchemy, and the Historical Shadow]]` — recovers *Aion* as one interpretive-symbolic history before Christ, Antichrist, Pisces, fish, alchemy or aeon become reusable indexes; exact passage/source debt remains Episteme work.
+- `[[fanon-language-gaze-mask-recognition/WHOLE|Fanon — Language, White Gaze, Racialised Body, Mask, and Recognition]]` — recovers the racial-colonial language/gaze/body-schema/mask/recognition field before “mask,” “chameleon” or adaptive identity are abstracted into generic symbolism; all project-side comparisons currently remain `human-amplified: no`.
 
 Return to [[../README|Mytheme]].
