@@ -13,19 +13,41 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 # §5 · #4 — Bimba and Energy-Based Fields
 
 ## Claim
-[[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba–Pratibimba]] should govern the relation between an agent's world-model and what it models. **Bimba names the Original/source office; Pratibimba names the reflection/refraction.** The Offered technical design is therefore a dynamic Pratibimba: a governed reflection-map of settling, competing and reorganising meanings rather than a warehouse of propositions or a single reward scalar.
+The [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba–Pratibimba]] relation becomes technical here by making epistemic reference itself first-class. The **Bimba Map** is the explicit reference/original field for the inquiry: a governed field of provisional world-objects, constitutive relations, provenance, lenses, gauges, exclusions and transformations against which situated agency can be read. Within this Context Frame it occupies the Bimba office. Agent states, judgments, trajectories and active [[j-space|J-Spaces]] are Pratibimba relative to that field.
+
+Energy-based models, attractor landscapes, graph dynamics and topological data analysis are candidate formalisms for reading settling, competition, distance, basin structure and phase change across this anchored field. The EBM does not supply the epistemic ground from nowhere; its energies and trajectories become interpretable because there is a Bimba field against which their relation can be stated.
 
 ## Warrant
-Energy-based models, attractor landscapes, graph dynamics and topological data analysis offer candidate formalisms for maintaining multiple lens-conditioned maps and phase changes.
+[[02-objective-internality|Objective Internality]] already requires the Bimba Map to expose the constitutive relations, attractors, transformations, exclusions and provenance of an operative interior. [[40-s5-p3-preference-hidden-zero|The Hidden Zero]] establishes why that reference field cannot remain implicit: dataset, comparison set, evaluator, policy, source authority and gauge otherwise condition judgment while disappearing from the judged object. Bimba turns those conditions into inspectable epistemic architecture.
 
-The design answers the world-picture diagnosis of §0/1 without pretending that a better picture becomes the world. Its mathematical neighbour is the atlas of §3 · #5→0: plural local charts, declared transition functions, provenance retained, no chart claiming to be the territory. The travelling-jigsaw image reaches the same point. What matters is no longer correspondence to one hidden box-lid picture but the disclosed covering relation among local pieces, their transitions and the domain that exceeds each cover.
+This is the point at which **epistemics becomes first-class** in the technical proposal. A model output is no longer evaluated only as a finished token, score or action. Its relation to source, evidence, lens, reference field, alternatives, local world-object and governing gauge can itself be represented, compared and returned. QL supplies the relational grammar; MEF keeps the lens-conditioned reading explicit; Bimba supplies the anchored epistemic field; the harness preserves the conditions and consequences of each determination.
 
-This makes the Agentworld pressure exact. An agent requires some operative articulation of its world in order to judge and act, but that articulation remains Pratibimba. Resistance, other internalities and returned consequences can exceed and revise it. `world`, `world-model` and `Original` therefore remain distinct even when the model enters causal circulation and changes the shared field.
+The design therefore answers the world-picture diagnosis of §0/1 without renouncing picturing. The Bimba Map is a *designed* world-picture—artificial in the reclaimed sense of made-and-avowed rather than fake—whose conditions of construction remain inside the picture. Its mathematical neighbour is the atlas of §3 · #5→0: plural local charts, declared transition functions, provenance retained in the fibres, no local chart silently becoming the whole. The travelling jigsaw lands here in its solved form: the box-lid is replaced by a covering relation whose pieces and transitions are themselves knowable.
+
+## Recursive office
+
+`Bimba` does not name one globally fixed artefact. It names the original/reference office in a relation. QL's recursive Context-Frame grammar therefore permits a constructed epistemic field to function as Bimba for the determinations nested within that inquiry without claiming that the artefact is the metaphysical Original of reality.
+
+```text
+wider world / sources / returned evidence
+        ↓
+Bimba Map
+explicit epistemic reference field for this inquiry
+        ↓
+Pratibimba₁ · Pratibimba₂ · ...
+situated agency / reading / trajectory
+        ↓
+comparison · action · consequence · Return
+        ↺
+revision of the Bimba field where warranted
+```
+
+The map must be stable enough to anchor comparison and revisable enough not to become a [[40-s5-p3-preference-hidden-zero|Protected/hidden account]]. Its authority is carried by provenance, declared construction and corrigible return rather than by pretending to be unmade.
 
 ## Tension / limit
-The reflection-map is a design hypothesis. Human verification must be plural, source-visible, contestable and institutionally scaffolded. An invisible master judgment would reproduce the hidden zero the design is meant to expose. A technically rich Pratibimba also does not become Bimba by accumulating more context.
+The Bimba Map is an Offered epistemic instrument, not a claim to final metaphysical possession. Human verification must remain plural, source-visible, contestable and institutionally scaffolded. Pratibimba can disclose mismatch, novelty or resistance that forces revision of the local Bimba field; without that return the reference map hardens into the very hidden zero it was built to expose.
 
-The source/map distinction is a required part of [[PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE]].
+The contextual Bimba office and its recursive relation to Pratibimba are required by [[PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE]].
 
 ## Anchor and transition
-**Image:** an inspectable field of basins whose map remains answerable to what it does not contain. Its claims become researchable through [[42-s5-p5-research-vectors|§5 · #5→0 — Six Research Vectors]].
+**Image:** an inspectable field of basins whose reference conditions are part of the field. Its claims become researchable through [[42-s5-p5-research-vectors|§5 · #5→0 — Six Research Vectors]].
