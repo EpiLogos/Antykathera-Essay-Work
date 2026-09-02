@@ -12,7 +12,16 @@ Mytheme carries the forms in which a relation can be seen, heard, suffered, reme
 
 The primary Mytheme carrier is therefore not a detachable character, object or symbol but the **whole relational image / story / scene / artwork** in which those elements act together. The Ares–Aphrodite–Hephaestus–Poseidon field is one whole before “Hephaestus” becomes a technē index; Apollo–Eros–Daphne–Peneus is one whole before “Daphne” becomes an alterity/tree index; Job's divine council, losses, friends, Wisdom, whirlwind and restoration remain one whole before Leviathan, Satan or Sophia are amplified separately.
 
-`[[working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS|Native 020 — Whole Mythemes and Deep Source Seams]]` owns the current whole-form recovery. `[[working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW|Mytheme Whole-Story Amplification Law]]` governs how characters, animals, plants, elements, objects, places and higher-order archetypal fields may subsequently be abstracted **from** recovered wholes and integrated **across** them. `[[myth/attica-athena-poseidon-cecrops/WHOLE|Attica — Athena, Poseidon, Cecrops, Olive, Sea, Verdict, and the Remembered Counter-Claim]]` is the first worked whole-record exemplar.
+`[[working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS|Native 020 — Whole Mythemes and Deep Source Seams]]` owns the current whole-form recovery. `[[working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW|Mytheme Whole-Story Amplification Law]]` governs how characters, animals, plants, elements, objects, places and higher-order archetypal fields may subsequently be abstracted **from** recovered wholes and integrated **across** them.
+
+## Current whole-source exemplars
+
+- `[[myth/attica-athena-poseidon-cecrops/WHOLE|Attica — Athena, Poseidon, Cecrops, Olive, Sea, Verdict, and the Remembered Counter-Claim]]` — first fully worked whole-record exemplar with relation-local human amplification.
+- `[[myth/hypostasis-archons-norea-sophia/WHOLE|The Hypostasis of the Archons — Sophia, Veil, Rulers, Adam, Norea, Eleleth, and the Root Above]]` — source-first cosmological whole resolving Native 020's layered-cosmos / archons seam while modern symbolic comparisons remain `human-amplified: no`.
+- `[[narrative/jung-aion-fishes-christ-antichrist-alchemy/WHOLE|Jung's Aion — Self, Christ/Antichrist, Fishes, Alchemy, and the Historical Shadow]]` — interpretive-symbolic history kept whole before Pisces, Christ, Antichrist, fish, alchemy or aeon become indexes.
+- `[[narrative/fanon-language-gaze-mask-recognition/WHOLE|Fanon — Language, White Gaze, Racialised Body, Mask, and Recognition]]` — source-bearing racial-colonial whole preventing mask/chameleon/persona from becoming a generic identity metaphor.
+
+These exemplars deliberately show different authorial states. Attica already contains `human-amplified: yes` relations supplied by Frank. The Hypostasis and Fanon records currently preserve system-visible comparisons as `human-amplified: no`. Source recovery and symbolic ratification remain distinct operations.
 
 ## Whole first, amplification outward
 
@@ -35,7 +44,7 @@ higher-order constellation
 return to every whole from which the abstraction was drawn
 ```
 
-This prevents a symbolic lexicon from becoming a substitute for encounter with the image. “Poseidon,” “serpent,” “tree,” “water,” “king,” “mother,” “child,” “sun,” or “shadow” may become powerful cross-Mytheme carriers, but none receives a fixed meaning in advance. Its operative range is earned by comparing the different offices it actually performs inside intact wholes.
+This prevents a symbolic lexicon from becoming a substitute for encounter with the image. “Poseidon,” “serpent,” “tree,” “water,” “king,” “mother,” “child,” “sun,” “shadow,” “archon,” “mask,” or “aeon” may become powerful cross-Mytheme carriers, but none receives a fixed meaning in advance. Its operative range is earned by comparing the different offices it actually performs inside intact wholes.
 
 An archetypal index is consequently **derivative but generative**. It can reveal an invariant or recurrent relation across variations only because the variations remain recoverable. The figure does not explain the stories; the stories progressively disclose the figure.
 
