@@ -10,6 +10,7 @@ Purpose: preserve the distinct office and relational order of every live quilt f
 | Parallel Harmonised Quilt | reorganise complete quilt pressure by target; harmonise prospective whole; record 48 landing proposals and later supersessions | working-ledger-only; fully harmonised before granular propagation | parent quilt + central plan + orienting/theorem/source/Taylor/Tao fields | exact target burden for 48 movements; argument/concept/path effects; §15 registrations/holds | accepted formal/non-section adjudications propagated selectively; granular movements/rooms/manuscript deliberately unopened |
 | Plain-English Full Flow | state corrected prospective whole as one readable argumentative necessity | supporting document; current-reader-synthesis; no canonical propagation | central plan + Parallel Quilt + theorem spine | governs where later flow disagrees with earlier Parallel Quilt; gives section-to-section necessity and current pre-propagation state | none directly; declares next act as 48-movement review then plan-first propagation |
 | Copula Derivation Chain | derive name/instance/circumstance → count/account/oikonomia/return and preserve source/confidence architecture | resource for essay construction; internally status-marked | Self-Proving Self + analytic/historical/comparative fields + QL copula | D0–D9 / C1–C13 load-bearing identity/account/economy argument; source pools and open defence debts | prospective; current-carrier coverage must be tested, not assumed |
+| **Whole-Story Mytheme Amplification Law** | keep the intact story/image primary, then derive story-internal elements, cross-story figure/motif indexes and higher-order archetypal constellations from recovered wholes | **working methodological qualifier** over Native 018–020 and the Mytheme publication root; no independent claim authority | Native 020 whole recovery + Mytheme register + source tellings + authored comparative relations | anti-fragmentation; sequence/aftermath retention; reusable character/animal/element/archetype indexes whose local offices remain story-addressable | any abstracted figure/motif/archetype must reverse-link to every whole Mytheme from which its patterned relation was earned |
 | **Etymological Archaeology Tree Seam** | preserve complete QL word-fields as roots and follow their historical trunk, rings, branches, leaves and return routes | **working first-class source-of-detail**; lexical/history evidence remains governed by source houses; canonical claim authority remains with arguments/concepts/sections/manuscript | etymology clusters + Episteme histories + Thread Intake + Native 020 whole-Mytheme seam | whole sixfolds; lexical/semantic depth; lateral phonic/mycelial relations; concrete historical episodes; historical-archetypal joins; source debt; prospective Mytheme additions | relation-level only: any consumed word/episode/image retains a return address to its complete etymological/historical carrier |
 | Agentworld Response Matrix | force every outer station to answer actual venue/agentworld pressures | live source-synthesised argument/control map | primary Agentworld brief + essay architecture | R1–R23 response threads; Q1–Q14 concordance; design/political/technical obligations | mixed: developed responses plus explicit open R15–R21 obligations to compose |
 | QL Expression Grammar | govern how accepted QL/theorem/table/figure relations are expressed and cited | live; declared subordinate to central plan; form-only | central plan + theorem spine + existing expression precedents | notation/table/figure/citation law | expression propagation after content decision; authority contradiction must be repaired |
@@ -26,6 +27,7 @@ Parallel target harmonisation ──────────┐
 Plain-English whole-flow                 │
            │                             │
            ├── Copula derivation         │
+           ├── whole-Mytheme law ↔ Native 020
            ├── Etymological archaeology  │
            │      ↕                      │
            │   histories / Mytheme seam  │
@@ -41,13 +43,13 @@ Plain-English whole-flow                 │
        late Parallel discrepancy read ───┘
 ```
 
-The side surfaces are not subordinate content summaries. Copula, Etymological Archaeology and Agentworld inject unique argumentative obligations; QL grammar constrains expression after content is resolved. The archaeology seam is specifically a **renewable detail source**: its roots, historical branches and local leaves remain addressable after the quilt takes a compressed operation from them.
+The side surfaces are not subordinate content summaries. Copula, Etymological Archaeology and Agentworld inject unique argumentative obligations; QL grammar constrains expression after content is resolved. The whole-Mytheme law constrains **direction of symbolic abstraction**: recover story first, amplify elements within it, then compare across wholes. The archaeology seam is a renewable detail source whose roots, historical branches and local leaves remain addressable after the quilt takes a compressed operation from them.
 
 ## Authority relation
 
 The quilt surfaces remain pre-canonical/working. The central plan is structural authority, orienting principles mandatory/subordinate, live granular arguments/concepts/paths/sections carry current canonical work, canonical source houses govern public evidence, protected notes preserve authorial encounter, and the manuscript remains sovereign.
 
-The etymological archaeology field adds no competing authority. Its clusters govern the complete relational word-field; its histories govern the temporal relation among sourced leaves; source houses remain the evidential authority for the individual philological and historical claims consumed from them.
+The whole-Mytheme law and etymological archaeology field add no competing claim authority. The former governs how image-relations are recovered and abstracted; the latter governs complete relational word-fields and temporal relations among sourced leaves. Source houses remain evidential authority for local philological, historical and mythographic claims.
 
 The quilt field can prove a propagation debt or expose a later development. It does not silently make the proposed relation canonical.
 
@@ -89,5 +91,6 @@ Before any relation is called harmonised in the final T06D quilt, it must answer
 5. What later correction or source debt qualifies it?
 6. Which downstream units depend on the determination?
 7. **Where an etymological/historical relation is consumed: what root → trunk → branch → leaf return-path carries the detail, and which source house warrants the local evidence?**
+8. **Where a Mytheme character/motif/archetype is consumed: which whole story/image generated this local office, what changes across other contributing wholes, and can the reader return to every intact source whole?**
 
 This is the minimum sufficient contact for later synthesis.
