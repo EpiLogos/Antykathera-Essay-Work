@@ -12,7 +12,7 @@ Mytheme carries the forms in which a relation can be seen, heard, suffered, reme
 
 The primary Mytheme carrier is therefore not a detachable character, object or symbol but the **whole relational image / story / scene / artwork** in which those elements act together. The Ares–Aphrodite–Hephaestus–Poseidon field is one whole before “Hephaestus” becomes a technē index; Apollo–Eros–Daphne–Peneus is one whole before “Daphne” becomes an alterity/tree index; Job's divine council, losses, friends, Wisdom, whirlwind and restoration remain one whole before Leviathan, Satan or Sophia are amplified separately.
 
-`[[working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS|Native 020 — Whole Mythemes and Deep Source Seams]]` owns the current whole-form recovery. `[[working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW|Mytheme Whole-Story Amplification Law]]` governs how characters, animals, plants, elements, objects, places and higher-order archetypal fields may subsequently be abstracted **from** recovered wholes and integrated **across** them.
+`[[working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS|Native 020 — Whole Mythemes and Deep Source Seams]]` owns the current whole-form recovery. `[[working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW|Mytheme Whole-Story Amplification Law]]` governs how characters, animals, plants, elements, objects, places and higher-order archetypal fields may subsequently be abstracted **from** recovered wholes and integrated **across** them. `[[myth/attica-athena-poseidon-cecrops/WHOLE|Attica — Athena, Poseidon, Cecrops, Olive, Sea, Verdict, and the Remembered Counter-Claim]]` is the first worked whole-record exemplar.
 
 ## Whole first, amplification outward
 
@@ -39,6 +39,21 @@ This prevents a symbolic lexicon from becoming a substitute for encounter with t
 
 An archetypal index is consequently **derivative but generative**. It can reveal an invariant or recurrent relation across variations only because the variations remain recoverable. The figure does not explain the stories; the stories progressively disclose the figure.
 
+## Human amplification
+
+Every **interpretive** Mytheme relation also carries a relation-local boolean:
+
+```yaml
+human-amplified: yes | no
+```
+
+This is not a source-truth flag. Factual/source recovery continues to use its ordinary evidential status. The boolean answers a different question: **has Frank actually supplied or ratified this symbolic/Jungian/Symbolon interpretation?**
+
+- `human-amplified: yes` — the interpretation has human authorial standing. The system may source, deepen, connect and articulate it without silently changing its office.
+- `human-amplified: no` — the system has produced a plausible amplification which still requires Frank's encounter/ratification. It remains visible as a prompt and may not propagate as settled authorial meaning.
+
+This lets the system do serious Jungian amplification without pretending that technical plausibility substitutes for the human symbolic encounter at the centre of the project. A whole record may therefore contain fully sourced narrative material, several ratified interpretations, and a clearly bounded queue of still-unratified symbolic possibilities.
+
 ## Domains
 
 - [[myth/README|Myth]] — inherited whole stories and scenes, followed through their actors, actions, transformations, settings and aftermath before component abstraction.
@@ -53,13 +68,13 @@ An archetypal index is consequently **derivative but generative**. It can reveal
 
 The register can eventually contain several linked record types while retaining one direction of derivation:
 
-1. **Whole Mytheme record** — primary carrier: tells the source work/story/scene sufficiently fully that every active relation and transformation remains available.
+1. **Whole Mytheme record** — primary carrier: tells the source work/story/scene sufficiently fully that every active relation and transformation remains available; carries the relation-local human-amplification ledger for project interpretations.
 2. **Story-internal element index** — character, object, animal, plant, element, place, number, gesture or motif as it acts **inside one named whole**.
 3. **Cross-story figure / motif index** — gathers one figure or motif across two or more recovered wholes and records how its office changes.
 4. **Higher-order archetypal constellation** — serpent, tree, water, king, child, mother, shadow, trickster, sun, sea and similar fields inferred through patterned variation across whole Mythemes.
 5. **Comparative authored Mytheme** — an explicitly project-composed relation among otherwise distinct source wholes, with the composition itself marked as authored.
 
-The latter four never replace the first. Every abstraction carries reverse links to the exact whole-story moments from which it was earned.
+The latter four never replace the first. Every abstraction carries reverse links to the exact whole-story moments from which it was earned, and every interpretive edge retains `human-amplified: yes/no`.
 
 A Whole Mytheme record identifies the work or source tradition, preserves the actors and relations materially required by its movement, follows the sequence and transformations far enough for the ending/aftermath to qualify the beginning, and states whether the whole figures, embodies, presages, inverts, occludes, gathers or returns a relation. It names the precise essay blocks it serves and the limit of the inference carried from image to argument.
 
