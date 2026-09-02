@@ -2,6 +2,7 @@
 
 Status: **active methodological qualifier / Native 018–020 field**  
 Primary whole-form carrier: `[[MYTHEME-AND-DEEP-SOURCE-SEAMS|Native 020 — Whole Mythemes and Deep Source Seams]]`  
+First worked whole: `[[submission-package/essay/symbolon/mytheme/myth/attica-athena-poseidon-cecrops/WHOLE|Attica — Athena, Poseidon, Cecrops, Olive, Sea, Verdict, and the Remembered Counter-Claim]]`  
 Cross-register neighbour: `[[ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS|Etymological Archaeology Tree Seams]]`  
 Publication root: `[[submission-package/essay/symbolon/mytheme/README|Mytheme]]`
 
@@ -33,11 +34,92 @@ No abstraction becomes permission to reread the source backwards as though the l
 
 This qualifies shorthand character lists in earlier crosswalks and the “Prospective Mytheme additions” headings in `ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md`. Those lists are **indexes into whole relations**, not rival primary Mytheme units. Native 020's whole-form law remains governing.
 
+## Human amplification gate
+
+Whole-story recovery and interpretation are not the same operation. The project therefore requires a relation-local boolean on every **authored/amplificatory edge**:
+
+```yaml
+human-amplified: yes | no
+```
+
+The flag does not apply to a straightforward source fact. Source facts remain governed by ordinary source/claim status. It applies when the project says what an image, relation, transformation, character, object, animal, element or whole **means or does symbolically for us**.
+
+### `human-amplified: yes`
+
+Frank has supplied the interpretation or explicitly ratified it. The system may:
+
+- recover fuller source context;
+- deepen the Jungian, etymological, historical or formal neighbourhood;
+- expose implications already contained in the ratified relation;
+- build return-links and cross-whole indexes.
+
+It may **not** silently replace the human appointment with a more convenient interpretation merely because another reading fits the architecture.
+
+### `human-amplified: no`
+
+The system has identified a plausible amplification which Frank has not yet supplied or ratified. The relation remains valuable as an **amplification prompt**. It may be stored, sourced, compared and brought back for encounter, but it does not propagate as current authorial truth.
+
+This gives the Mytheme world a simple division of labour:
+
+```text
+source recovery
+      ↓
+whole relation
+      ↓
+system can notice candidate symbolic relations
+      ↓
+           human-amplified: no
+      ↓
+human encounter / amplification / ratification
+      ↓
+           human-amplified: yes
+      ↓
+system may deepen and integrate without changing the appointment
+```
+
+The flag is especially important in the Jungian register. A technically competent amplification can still miss the psychic significance by entering at the wrong depth. The system must therefore know when it is **proposing** rather than pretending it has already encountered the image in the human author's place.
+
 ## Jungian methodological neighbour
 
-This direction is congenial with Jung's practice of first establishing the context of an image and then amplifying it rather than leaving the dream/story by free association or assigning a universal symbol-key in advance. The project takes the methodological consequence seriously: **amplification widens the image's tissue; it does not detach the image from the psychic or narrative event in which it appeared.**
+This direction is congenial with Jung's practice of first establishing the context of an image and then amplifying it rather than leaving the dream/story by free association or assigning a universal symbol-key in advance. Jung's “taking up the context” procedure insists that the salient image be treated as unknown until its web of associations has been recovered; amplification then widens that image rather than replacing it with a ready-made symbol dictionary.
 
-A future Jung source pass should install exact Collected Works carriers for the “taking up the context” and amplification method (especially the dream-method material in CW 12 and CW 18). The present rule is already native to the recovered whole-Mytheme architecture and does not wait on that source acquisition.
+The project takes the methodological consequence seriously: **amplification widens the image's tissue; it does not detach the image from the psychic or narrative event in which it appeared.** The human-amplification flag adds an authorial provenance control that the project requires because its Mytheme work is both Jungian and first-person/symbolonic.
+
+A future Jung source pass should install the exact Collected Works carriers for “taking up the context” and amplification, especially *Psychology and Alchemy* CW 12 ¶48 and the dream-method material in CW 8 / CW 18. The present rule is already native to the recovered whole-Mytheme architecture and does not wait on that source acquisition.
+
+## Proper worked-record form
+
+The Attica record now establishes the intended full form:
+
+```text
+SOURCE WHOLE
+  telling · variants · material/historical continuation
+        ↓
+RELATIONAL SCENE
+  every materially active figure / object / place / action / aftermath
+        ↓
+HUMAN AMPLIFICATION LEDGER
+  human-amplified: yes/no on every interpretive edge
+        ↓
+JUNGIAN / SYMBOLONIC AMPLIFICATION
+  only human-amplified: yes relations treated as current authorial field
+        ↓
+SYSTEM AMPLIFICATION QUEUE
+  human-amplified: no relations retained as prompts, not canon
+        ↓
+CROSS-REGISTER ROUTES
+  Matheme · Episteme · etymology · argument · history · section
+        ↓
+DERIVED INDEXES
+  figure · animal · plant · element · object · motif
+        ↓
+CROSS-WHOLE ARCHETYPE
+  only after several intact wholes can be compared
+        ↺
+RETURN TO EVERY SOURCE WHOLE
+```
+
+The record can therefore be rich before it is finished. A source whole may be fully recovered while several interpretive edges remain `human-amplified: no`; those are explicit invitations to further human work rather than gaps the system is authorised to fill silently.
 
 ## Three levels of Mytheme intelligence
 
@@ -75,6 +157,8 @@ transformation / marriage / exile / return
 
 The relevant unit remains a relation: **X-as-it-acts-in-Whole-A**. “Olive” therefore first means the olive **given in the contest for Attica**, in relation to Poseidon's salt water, Cecrops's witness, the arbiters, Athens' naming and the later cultic memory. Only then can its root/tree/fruit/oil/flame chain be developed as an authored amplification.
 
+Every project interpretation generated here receives `human-amplified: yes/no` before it can propagate.
+
 ### 3. Cross-story archetypal integration
 
 After two or more wholes are recovered, the same figure or motif may become an index across them. Its value lies in variation.
@@ -95,7 +179,7 @@ but the patterned relation among claim, force, standing, debt, guaranty and unre
 
 The invariant, where one emerges, is discovered through transformed offices. This is where higher-order archetypal work becomes genuinely generative rather than taxonomic.
 
-The same rule applies to animals and elements. A serpent field may eventually gather Cecrops, Python, ouroboros, Leviathan or other admitted images; a tree field may gather olive, laurel and later trees; a water field may gather Poseidon's sea/spring, Peneus, flood, baptismal or abyssal images. Each edge retains its whole-story address.
+The same rule applies to animals and elements. A serpent field may eventually gather Cecrops, Python, ouroboros, Leviathan or other admitted images; a tree field may gather olive, laurel and later trees; a water field may gather Poseidon's sea/spring, Peneus, flood, baptismal or abyssal images. Each edge retains its whole-story address **and its human-amplification state**.
 
 ## Reclassification of the archaeology-seam additions
 
@@ -103,7 +187,7 @@ The additions introduced in `ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md` should be r
 
 ### Primary whole: the contest for Attica
 
-**Athena/Minerva · Poseidon/Neptune · Cecrops · gifts/signs · arbiters · verdict · Athens · flood / aftermath** is the primary Mytheme candidate.
+**Athena/Minerva · Poseidon/Neptune · Cecrops · gifts/signs · arbiters · verdict · Athens · flood / aftermath** is the primary Mytheme candidate and now has its first whole record at `submission-package/essay/symbolon/mytheme/myth/attica-athena-poseidon-cecrops/WHOLE.md`.
 
 The story begins with a place and a dispute over divine possession/patronage. Cecrops is not simply “the witness”: in the Pseudo-Apollodoran tradition he is autochthonous, earth-born and serpent-bodied, already joining human civic kingship to the ground from which the polity rises. Poseidon strikes the Acropolis and makes the sea-sign; Athena calls Cecrops as witness and plants the olive. Zeus interrupts the conflict and appoints arbiters. The verdict goes to Athena; the city receives her name; Poseidon's rejected claim answers as flood.
 
@@ -111,11 +195,7 @@ The whole therefore carries **place → competing claims/gifts → witness → a
 
 A further historical-cultic amplification makes the ending more important still. The later Erechtheion did not simply monumentalise Athena's victory by erasing Poseidon. Its sacred complex held Athena together with Poseidon-Erechtheus and incorporated the olive, trident marks and salt-water spring associated with the contest. The city's victorious civic name therefore coexisted with a ritual/architectural memory of the counter-claim in its sacred centre.
 
-The project's strongest current authored reading is consequently not a flat polarity of rational Athena versus archaic Poseidon. It is closer to:
-
-> **a civic determination is won through arbitration and naming, while the whole sacred form retains the power that the verdict could not make unreal.**
-
-That is a much deeper neighbour of Con-text / Diaphaneity and of the project's historical theorem that successful arbitration can become pathological when it hardens into ontology. Here the mythic/cultic whole itself refuses the simplest ontology: “Athens belongs to Athena” does not mean Poseidon ceases to belong to Athens.
+The project's current **human-amplified** core is stronger and more specific than a flat Athena/Poseidon polarity: Frank has appointed Poseidon's retained well/sea as the archaic-magical/unconscious `#0`-depth enshrined within the heart of Athena/Minerva's rational-civic form; the whole can be held toroidally, with the formed civic surface organised around a depth it does not fill. Frank has also supplied the olive's `root → tree → fruit → pressing → oil → anointing → flame/light` chain. Those appointments are `human-amplified: yes`. Cecrops as psychoid mediator, the flood as return of the repressed, and several further readings remain explicitly `human-amplified: no` until human encounter occurs.
 
 ### Derived story-internal amplification: olive
 
@@ -127,7 +207,7 @@ root → tree → fruit → pressing → oil → anointing → flame / light
 
 is **not a separate primary Mytheme**. It is an amplification of Athena's gift after the Attica whole has established what kind of gift it is, against what rival sign it stands, how it enters judgment, and what civic naming follows.
 
-Its strongest further question is therefore relational: what does a gift of cultivated, recurrent fruitfulness do **in a contest of sovereignty** against a sea-sign of Poseidon's power? The answer should be developed from the whole story and its historical material life rather than imposed from an isolated “tree” symbolism.
+Its strongest further question is therefore relational: what does a gift of cultivated, recurrent fruitfulness do **in a contest of sovereignty** against a sea-sign of Poseidon's power? Any answer not yet supplied by Frank remains `human-amplified: no` rather than being promoted from system fluency to authorial interpretation.
 
 ### Derived cross-story abstraction: Poseidon
 
@@ -143,21 +223,25 @@ The Pisces / Christ–Antichrist / alchemical / scientific-age field should firs
 
 ## What whole-story recovery newly reveals across current Mythemes
 
-### Attica: the unchosen power remains inside the chosen city
+### Attica: rational civic form around an archaic-magical depth
 
-The Attica whole gives a striking image of arbitration that does not abolish the contrary. The civic Logos/Natio takes Athena's name after judgment, yet Poseidon's sign and cult remain materially central. This offers a mythic body for a principle already active elsewhere in the project:
+The Attica whole gives a striking image of arbitration that does not abolish the contrary. The civic Logos/Natio takes Athena's name after judgment, yet Poseidon's sign and cult remain materially central.
+
+The **human-amplified** appointment now carried by the Attica record is exact: the Poseidon well/sea is the archaic-magical/unconscious depth retained at the centre of Minerva/Athena's rational-civic world; the whole is read toroidally rather than as one linear stage superseding another. Athena's victory is real, but the winning determination does not convert the unchosen depth into unreality.
+
+This gives lived-image form to a principle already active elsewhere in the project:
 
 > **a true determination can be binding without being exhaustive.**
 
-The failure would be to forget the counter-claim and reinterpret the verdict as proof that no contrary power ever belonged to the field.
+and to the arbitration warning:
 
-The user's toroidal image becomes much more exact at this whole-story resolution: the Poseidon sea/well retained in Athena's civic-sacred centre can figure the **unassimilated / implicate depth around which a successful rational-civic form is organised**. That is an authored amplification, not a claim that ancient Athenians encoded QL topology.
+> **the verdict determines the city; it does not exhaust the place.**
 
 ### Apollo–Daphne: Python changes the entire field
 
 The whole Ovidian sequence prevents “Apollo = form; Daphne = alterity” from being sufficient. Apollo has just killed Python and boasts over his bow before mocking Eros. The pursuit is therefore preceded by a triumph over a chthonic/serpentine adversary and by the overconfidence that follows it. Eros answers with opposed arrows; Daphne already has her own orientation; Peneus enters as father/river; Apollo enumerates his powers; the living woman finally becomes tree; Apollo then appropriates the surviving image as his emblem.
 
-That sequence opens a future **serpent → eros → river → tree → emblem** constellation which could never be seen if Python, Peneus and the laurel were stripped away as decorative details. Only after this whole is stable should Python join Cecrops or ouroboros inside a larger serpent field, and only then should olive and laurel join a larger tree field.
+That sequence opens a future **serpent → eros → river → tree → emblem** constellation which could never be seen if Python, Peneus and the laurel were stripped away as decorative details. Interpretations newly proposed by the system receive `human-amplified: no` until Frank works them.
 
 ### Ares–Aphrodite–Hephaestus–Poseidon: the audience is part of the machine
 
@@ -171,7 +255,7 @@ Behemoth, Leviathan, whirlwind, Wisdom and the divine council should not first b
 
 ### Ouroboros / torus / trickster: mouth and metabolism precede “eternal return”
 
-Native 020's new recovery already follows this law well: snake, mouth, body, opening, ingestion, inside/outside and return remain one image before the toroidal/trickster abstractions are drawn. That should be the model for the later serpent index: the ouroboros enters it as **this whole metabolic self-relation**, not merely as “a snake symbolising infinity.”
+Native 020's recovery already follows this law well: snake, mouth, body, opening, ingestion, inside/outside and return remain one image before the toroidal/trickster abstractions are drawn. That should be the model for the later serpent index: the ouroboros enters it as **this whole metabolic self-relation**, not merely as “a snake symbolising infinity.”
 
 ## Proposed Mytheme-world graph discipline
 
@@ -180,6 +264,11 @@ No new directory explosion is required now. When Native 018 eventually instantia
 ```text
 WHOLE_MYTHEME
   contains / stages → FIGURE | OBJECT | ELEMENT | PLACE | MOTIF | ACTION
+
+INTERPRETIVE_EDGE
+  human-amplified → yes | no
+  provenance → human | system | shared
+  derives-from → exact whole-story occurrence
 
 DERIVED_INDEX
   appears-in → WHOLE_MYTHEME
@@ -192,9 +281,9 @@ ARCHETYPAL_CONSTELLATION
   returns-to → every WHOLE_MYTHEME source
 ```
 
-The graph direction matters. The whole has ontological priority **inside the Mytheme register** even where a character or archetype becomes more reusable downstream.
+The graph direction matters. The whole has ontological priority **inside the Mytheme register** even where a character or archetype becomes more reusable downstream. The `human-amplified` edge prevents system interpretation from silently taking authorial priority inside that whole.
 
-## Anti-fragmentation test
+## Anti-fragmentation / amplification test
 
 Before admitting a character, animal, plant, element, object or archetype as a first-class Mytheme index, answer:
 
@@ -202,11 +291,13 @@ Before admitting a character, animal, plant, element, object or archetype as a f
 2. Has that whole been recovered sufficiently that sequence and aftermath can change the interpretation?
 3. What exact local office does the element perform there?
 4. Which other figures and relations materially condition that office?
-5. If this is a cross-story abstraction, what changes between the contributing wholes?
-6. What pattern survives those changes strongly enough to justify the abstraction?
-7. Can a reader return from the abstraction to every intact whole without reconstructing the story from symbolic labels?
+5. Is this interpretation `human-amplified: yes` or `human-amplified: no`?
+6. If `no`, what exact relation should be returned to Frank for encounter rather than propagated?
+7. If this is a cross-story abstraction, what changes between the contributing wholes?
+8. What pattern survives those changes strongly enough to justify the abstraction?
+9. Can a reader return from the abstraction to every intact whole without reconstructing the story from symbolic labels?
 
-If the seventh answer is no, the abstraction is premature.
+If the ninth answer is no, the abstraction is premature. If an interpretive edge lacks the fifth answer, its provenance is incomplete.
 
 ## Return to the quilt
 
@@ -230,4 +321,4 @@ cross-whole patterned relation
 every contributing whole remains available
 ```
 
-The result is a denser Mytheme world rather than a larger symbolic dictionary: **whole stories generate archetypal relations, and those relations return the reader to the stories with more of their field visible.**
+Every consumed authored interpretation also retains its human-amplification state. The result is a denser Mytheme world rather than a larger symbolic dictionary: **whole stories generate archetypal relations, human amplification gives those relations authorial standing, and the resulting constellations return the reader to the stories with more of their field visible.**
