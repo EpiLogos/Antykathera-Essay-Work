@@ -12,4 +12,8 @@ Narrative houses sequences whose order carries philosophical work: fables, encou
 
 A record marks the beginning state, decisive turns, achieved transformation and remainder. It identifies whether the narrative belongs to Frank, to an external work or to a documented encounter. Argument links attach to exact turns rather than to the title as a whole.
 
+## Current whole records
+
+- `[[jung-aion-fishes-christ-antichrist-alchemy/WHOLE|Jung's Aion — Self, Christ/Antichrist, Fishes, Alchemy, and the Historical Shadow]]` — recovers *Aion* as one interpretive-symbolic history before Christ, Antichrist, Pisces, fish, alchemy or aeon become reusable indexes; exact passage/source debt remains Episteme work.
+
 Return to [[../README|Mytheme]].
