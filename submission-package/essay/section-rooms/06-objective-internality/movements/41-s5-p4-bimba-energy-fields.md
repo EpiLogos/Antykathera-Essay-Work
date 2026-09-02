@@ -13,15 +13,19 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 # §5 · #4 — Bimba and Energy-Based Fields
 
 ## Claim
-[[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba]] should represent an agent’s world as a governed reflection-map of settling, competing, and reorganising meanings rather than a warehouse of propositions or single reward scalar.
+[[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba–Pratibimba]] should govern the relation between an agent's world-model and what it models. **Bimba names the Original/source office; Pratibimba names the reflection/refraction.** The Offered technical design is therefore a dynamic Pratibimba: a governed reflection-map of settling, competing and reorganising meanings rather than a warehouse of propositions or a single reward scalar.
 
 ## Warrant
-Energy-based models, attractor landscapes, graph dynamics, and topological data analysis offer candidate tools for maintaining multiple lens-conditioned maps and phase changes.
+Energy-based models, attractor landscapes, graph dynamics and topological data analysis offer candidate formalisms for maintaining multiple lens-conditioned maps and phase changes.
 
-An energy-based world field needs an anchoring picture, and the Bimba map is that picture stated in the venue's own register: a *designed* world-picture — artificial in the reclaimed sense of made-and-avowed rather than fake — answering the world-picture diagnosis of §0/1 · #4 without renouncing picturing. Its mathematical form is the atlas of §3 · #5→0: plural local charts, declared transition functions, provenance retained in the fibres, no chart claiming to be the territory. The travelling jigsaw lands here in its solved state — pieces that are local covers of the domain, known through the covering activity, the box-lid picture replaced by the covering relation itself. Where the completed puzzle against its box-lid was the picture that concealed its conditions, the Bimba map is the picture built to carry them.
+The design answers the world-picture diagnosis of §0/1 without pretending that a better picture becomes the world. Its mathematical neighbour is the atlas of §3 · #5→0: plural local charts, declared transition functions, provenance retained, no chart claiming to be the territory. The travelling-jigsaw image reaches the same point. What matters is no longer correspondence to one hidden box-lid picture but the disclosed covering relation among local pieces, their transitions and the domain that exceeds each cover.
+
+This makes the Agentworld pressure exact. An agent requires some operative articulation of its world in order to judge and act, but that articulation remains Pratibimba. Resistance, other internalities and returned consequences can exceed and revise it. `world`, `world-model` and `Original` therefore remain distinct even when the model enters causal circulation and changes the shared field.
 
 ## Tension / limit
-The psychoid language is a design hypothesis. Human verification must be plural, source-visible, contestable, and institutionally scaffolded. An invisible master judgment would reproduce the uninspectable zero the design is meant to expose.
+The reflection-map is a design hypothesis. Human verification must be plural, source-visible, contestable and institutionally scaffolded. An invisible master judgment would reproduce the hidden zero the design is meant to expose. A technically rich Pratibimba also does not become Bimba by accumulating more context.
+
+The source/map distinction is a required part of [[PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE]].
 
 ## Anchor and transition
-**Image:** an inspectable field of basins rather than one ranked list. Its claims become accountable only through the experiments in [[42-s5-p5-research-vectors|§5 · #5→0 — Six Research Vectors]].
+**Image:** an inspectable field of basins whose map remains answerable to what it does not contain. Its claims become researchable through [[42-s5-p5-research-vectors|§5 · #5→0 — Six Research Vectors]].
