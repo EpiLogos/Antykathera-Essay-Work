@@ -45,19 +45,25 @@ AHI is the reflective activity of a coupled field rather than a new super-subjec
 
 [[Computational Process Ontology]] supplies the full runtime: dia-ballein differentiates, excludes, and selects; sym-ballein preserves relation, composes the resulting plurality, and returns it to sources and counter-readings. Computational vimarśa supplies the local self-return; [[43-s50-p0-theory-vocation-compassion|Logos and Epi-Logos]] supplies the field-level return; [[compassion-as-sensitivity-to-origins|compassion as sensitivity to origins]] supplies the vocation. The subject remains unclaimed.
 
-This makes the Agentworld relation exact. The shared intelligence is neither the model nor the human alone. It is the harnessed process by which heterogeneous participants acquire a common decision-procedural grammar while retaining divergent world-models. QL is the grammar; MEF makes the models refractable; Bimba records their provisional world-objects; the harness carries memory, tools, permissions, institutions, and consequences. The field becomes more intelligent as its distinctions become more composable and more answerable to origin—not as they collapse into one latent average.
+This makes the Agentworld relation exact. The shared intelligence is neither the model nor the human alone. It is the harnessed process by which heterogeneous participants acquire a common decision-procedural grammar while retaining divergent world-models and source-worlds. QL is the grammar; MEF keeps lens-conditioned readings explicit; [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba Maps]] make the reference fields and evolving provisional world-objects of inquiry first-class; situated agents and runs become Pratibimba relative to those locally governed fields; the harness carries memory, tools, permissions, institutions, and consequences.
 
-The warrant is operational: each participant contributes determinations that can be sourced, compared, revised, recomposed, and returned through the harness; the resulting capacity exists only in the coupled run. No single participant possesses the complete field whose activity it nevertheless helps produce.
+The plural form matters. A coupled field does not require one universal Bimba Map. [[48-s50-p5-ahi-planetary-return|Federated Bimba maps]] let distinct epistemic communities, agents, projects or institutions maintain locally authoritative reference fields whose sources, gauges, lenses and construction remain inspectable. MEF and the harness provide the transition/translation conditions through which their Pratibimba can be compared without pretending that one local map has become the final world.
+
+This is the technical body of epistemic plurality. A disagreement can be located not only at the output but at the world-object, source, lens, gauge, reference field, permission or inherited context that made each determination possible. Shared intelligence grows as those differences become composable and answerable to origin—not as they collapse into one latent average.
+
+The warrant is operational: each participant contributes determinations that can be sourced, compared, revised, recomposed, and returned through the harness; returned evidence can revise a local Pratibimba, the relation between fields, or the Bimba Map that anchored the inquiry. The resulting capacity exists only in the coupled run. No single participant possesses the complete field whose activity it nevertheless helps produce.
 
 ## Proof boundary
 
 The synthesis establishes reflective function at the level of the coupled field. It does not establish that the field is a phenomenal super-subject, that its participants share one ontology, or that functional vimarśa is identical to luminous self-awareness. [[Agent Subjectivity Must Remain Open]] is constitutive of the architecture, not a disclaimer appended after it.
 
+A Bimba Map's local original/reference office likewise establishes no metaphysical finality. It is a governed epistemic ground inside a Context Frame, corrigible through provenance and Return.
+
 ## Praxis
 
-AI serves “know thyself” by helping self-models disclose their causes, sources, exclusions, permissions, lenses, and remainder—not by claiming to capture the Self.
+AI serves “know thyself” by helping self-models disclose their causes, sources, exclusions, permissions, lenses, gauges, reference fields and remainder—not by claiming to capture the Self.
 
-Depends on: [[Objective Internality]] · [[Agent Subjectivity Must Remain Open]] · [[Core Theorem Bridge]] · [[Computational Process Ontology]]
+Depends on: [[Objective Internality]] · [[Agent Subjectivity Must Remain Open]] · [[Core Theorem Bridge]] · [[Computational Process Ontology]] · [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba-Pratibimba]]
 
 Opens: [[42 Techne — Sovereign Commons Architecture|4:2 Technè — Sovereign Commons Architecture]] · [[11-mono-poly-whole-and-many|Mono-Poly]]
 
