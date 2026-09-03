@@ -2,7 +2,7 @@
 
 Status: **Native 026 / #48 addendum; required input to #39, not a new programme**  
 Date: 2026-09-02  
-Primary recovered ground: [[NATIVE-020-COLD-RETURN]] · [[ANTIKYTHERA-BRIEF-DEEP-RECOVERY]] · [[AGENTWORLD-COINTERNALITY-AND-COMMONS-SEAM]] · [[NATIVE-026-POST-SECTION-CONFORMANCE-REVIEW]] · [[AUTHORIAL-RETURN-INTAKE]]  
+Primary recovered ground: [[NATIVE-020-COLD-RETURN]] · [[ANTIKYTHERA-BRIEF-DEEP-RECOVERY]] · [[AGENTWORLD-COINTERNALITY-AND-COMMONS-SEAM]] · [[NATIVE-026-POST-SECTION-CONFORMANCE-REVIEW]] · [[AUTHORIAL-RETURN-INTAKE]] · [[PRE-39-QUILT-TOPOLOGY-AND-NUMBERING-LEDGER]]  
 Section carriers: [[11-s0-p4-tattvic-compression|§0 · #4 — The Sixfold Tattvic Compression]] · [[12-s0-p5-objective-internality|§0 · #5→0 — Objective Internality]] · [[38-s5-p1-apoha-softmax|§5 · #1 — Apoha, Softmax, and Argmax]] · [[41-s5-p4-bimba-energy-fields|§5 · #4 — Bimba and Energy-Based Fields]] · [[06-objective-internality/ROOM|§5 — Objective Internality and Agentic Research]]
 
 This gate is a conformance pass over already recovered work. Before #39 derives canonical Argument / Concept / Etymology architecture it must:
@@ -11,7 +11,8 @@ This gate is a conformance pass over already recovered work. Before #39 derives 
 2. expose the real argument graph through clean semantic links and backlinks;
 3. preserve the tattvas as active meta-context across the essay rather than a local §0 topic;
 4. preserve **context-relative and recursively nested semantic offices** rather than overwriting a local technical relation with a higher-level gloss;
-5. state §5 and O:I's Agentworld contribution as an investigation of how **world, epistemic ground and agency become available to one another**.
+5. state §5 and O:I's Agentworld contribution as an investigation of how **world, epistemic ground and agency become available to one another**;
+6. preserve the live numbered carrier topology so the later full quilt can relate rather than silently replace the recovered field.
 
 No item here authorises a new metaphysical claim, sixfold retrofit, product-led rewrite, or premature #39 architecture.
 
@@ -60,6 +61,8 @@ Required reciprocal relations include:
 - Concept / Argument / Mytheme / Matheme / Episteme records linked where their **operation** enters, not because vocabulary happens to match.
 
 Broken, ambiguous and duplicate local links are conformance failures. A backlink earns its place by exposing dependency, inheritance, pressure or Return.
+
+The later full quilt extends this same law across stable addresses. Current **Arguments 01–21** and **global Movements 01–48** are continuous provenance/traversal anchors. Their reciprocal crosswalk must make the same semantic relations inspectable across source, Etymology, Concept, Argument, Mytheme/Figure, section/movement, transverse thread and Return. A changed exposition order does not by itself warrant silent renumbering.
 
 ---
 
@@ -208,6 +211,8 @@ Before #39 derives final architecture:
 - Agentworld's `world` is an explicit problem rather than an assumed container;
 - O:I remains research infrastructure and evidence-return, not proof;
 - 4:2 Technē remains an Offered institutional answer-form for common worldhood;
+- current Argument `01–21` and global Movement `01–48` identity is preserved as the stable handoff topology, with any later renumbering requiring an explicit migration map;
+- the eventual full quilt can traverse Argument ↔ source/evidence ↔ Concept ↔ Etymology ↔ Mytheme/Figure ↔ section/movement ↔ transverse relation ↔ burden office without any one register becoming the unilateral owner of the others;
 - the full relation can be stated more cleanly than the excavation corpus without losing the reasons its distinctions exist.
 
-Passing this gate means #39 can architecture the recovered world without inheriting recovery noise, flattening transverse contexts, or overwriting recursively situated meanings with higher-level slogans.
+Passing this gate means #39 can architecture the recovered world without inheriting recovery noise, flattening transverse contexts, overwriting recursively situated meanings with higher-level slogans, or losing the numbered provenance through which the quilt was actually built.
