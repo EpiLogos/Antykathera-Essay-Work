@@ -3,7 +3,7 @@
 Status: **substantively complete against Native 020 + Native 021 + current Native 027 intake; final closure waits only on final authorial ratification in #50**  
 Programme: T06D.R / GitHub #48  
 Date: 2026-09-02  
-Primary upstreams: `[[NATIVE-020-COLD-RETURN]]` · `[[ANTIKYTHERA-BRIEF-DEEP-RECOVERY]]` · `[[AGENTWORLD-COINTERNALITY-AND-COMMONS-SEAM]]` · `[[AUTHORIAL-RETURN-INTAKE]]` · native-025 section cold returns
+Primary upstreams: `[[NATIVE-020-COLD-RETURN]]` · `[[ANTIKYTHERA-BRIEF-DEEP-RECOVERY]]` · `[[AGENTWORLD-COINTERNALITY-AND-COMMONS-SEAM]]` · `[[AUTHORIAL-RETURN-INTAKE]]` · `[[PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE]]` · `[[PRE-39-QUILT-TOPOLOGY-AND-NUMBERING-LEDGER]]` · native-025 section cold returns
 
 This is a post-section **conformance and relational-health review**. It does not rederive the essay from QL, current software, Agentworld, or a sixfold template; it does not rebuild canonical Argument / Concept / Etymology records.
 
@@ -412,12 +412,30 @@ world increasingly disclosed, modelled and altered through agents
 
 The brief does not prove idealism. It makes technically contemporary the essay's question of how worldhood, appearing, intelligibility and action depend upon situated internalities.
 
-The native guard remains:
+The metaphysical-register guard remains:
 
 ```text
 Bimba ≠ Pratibimba
 Original ≠ world-model
 ```
+
+The same Bimba/Pratibimba relation recurses inside §5's epistemic Context Frame:
+
+```text
+wider world / sources / returned evidence
+        ↓
+Bimba Map
+explicit local original / reference field
+        ↓
+Pratibimba
+situated agency / J-Space / reading / trajectory
+        ↓
+comparison · action · consequence · Return
+        ↺
+possible revision of Bimba field
+```
+
+The local Bimba Map is constructed and revisable relative to a wider field while remaining genuinely Bimba relative to the determinations it anchors. Its local office does not make it the metaphysical Original; its constructed status does not make it Pratibimba in that nested relation. This is the epistemic architecture by which sources, gauges, lenses, exclusions, provisional world-objects and reference conditions become first-class rather than hidden.
 
 The 4:2 Technē agentic commons is therefore one **Offered concrete answer-form** to the institutional problem:
 
@@ -427,7 +445,7 @@ one shared field / protocol / purpose
 many locally grounded worlds / sources / permissions / refusals
 ```
 
-The commons has operational reality without becoming a super-agent or final world-model.
+Locally governed Bimba fields can remain distinct inside that commons while provenance, translation, contestation and Return remain composable across them. The commons has operational reality without becoming a super-agent, universal Bimba Map or final world-model.
 
 Its pathology is the occupied slash: platform, evaluator, institution or dominant participant claims source-authority over the shared field.
 
@@ -500,6 +518,8 @@ opening formal limit seen again through achieved technical and social efficacy
 
 This is relational connectivity, not a claim that the essay secretly had to be eight or six sections.
 
+The live section traversal also now has an explicit stable carrier spine: eight rooms × six movements, globally numbered `01–48`. That movement identity is distinct from each local section/P office and must survive the later quilt even if final exposition order changes.
+
 ---
 
 # 8. What #39 must receive from Native 026
@@ -520,6 +540,8 @@ Native 026 adds or sharpens these architecture requirements without deciding fin
 12. **Context Frames stay bounded:** P4/CF5 supplies recursive contextual grammar where generated; it is not a mandatory sixfold page template.
 13. **Implementation evidence moves later** into §5/§5→0 Operational-Parity/refraction offices.
 14. **Prompt Thrownness and memorable venue language remain proportionate.**
+15. **Context-relative semantic office is preserved:** the metaphysical Original/reflection guard does not erase §5's local Bimba Map/Pratibimba relation; locally governed Bimba fields remain provenance-bearing and corrigible.
+16. **The numbered quilt topology is a required handoff constraint:** current Arguments `01–21` and Movements `01–48` remain stable provenance/traversal identities. The later Argument ↔ Concept ↔ Etymology ↔ Section quilt must crosswalk those identities through sources/evidence, canonical Concept homes, Etymology operations/registers, Mytheme/Figure, transverse relations and burden office; any semantically earned renumbering requires an explicit migration table.
 
 ---
 
@@ -530,25 +552,31 @@ Against #48's five required questions:
 1. **Where §4 MEF stands as theory in its own right:** resolved.
 2. **How it gathers prior stations:** resolved.
 3. **Where current O:I/product implementation properly enters later:** resolved.
-4. **How the full Agentworld brief changes/qualifies §4/#5:** resolved, including P19 worldhood/commons seam.
+4. **How the full Agentworld brief changes/qualifies §4/#5:** resolved, including P19 worldhood/commons seam and the recursively contextual Bimba epistemic office.
 5. **Whether section↔Context-Frame connectivity is healthy and bounded:** resolved on current authored/recovered ground.
 
-The review is therefore **substantively complete**.
+The review is therefore **substantively complete**, and the subsequent pre-#39 conformance addenda have now returned its semantic/link/topology projections to current ground.
 
-It is not yet marked final/closed only because Native 027 / #50 explicitly remains an authorial-return gate and its final ratification can still change nomenclature, lexical archaeology or pithy formulations that #48 must consume before handing an immutable cold return to #39.
+It is not yet marked final/closed only because Native 027 / #50 explicitly remains an authorial-return gate and its final ratification can still change nomenclature, lexical archaeology or pithy formulations that #48 must consume before handing a cold return to #39.
 
 The correct next state is:
 
 ```text
-Native 026 conformance — current substantive review complete
+Native 026 substantive review + pre-#39 conformance — complete on current non-authorial ground
         +
-Native 027 current intake — materialised, final ratification still open
+Native 027 current intake — materialised, final authorial ratification still open
         ↓
 receive final Native 027 delta only
         ↓
+re-read live Argument / Movement / Concept-home / Etymology topology
+        ↓
 Native 026 cold acceptance / close #48
         ↓
-#39 ought-be architecture
+generate fresh-session #39 execution prompt with Unslop mandatory
+        ↓
+#39 full Argument ↔ Concept ↔ Etymology ↔ Section quilt / ought-be architecture
 ```
 
-No canonical propagation has occurred.
+The actual #39 execution belongs in that **fresh session**, not here. The prompt should be generated from the live boundary rather than frozen while Native 027 is still moving.
+
+No #39 canonical rebuild has occurred. Current-main edits made during this conformance pass are bounded semantic/link corrections to existing carriers, not execution of the later architecture phase.
