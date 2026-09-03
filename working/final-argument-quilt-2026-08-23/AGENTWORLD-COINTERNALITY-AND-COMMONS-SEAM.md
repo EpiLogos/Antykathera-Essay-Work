@@ -46,7 +46,7 @@ That relation belongs natively with **Objective Co-Internality**, and it gives t
 
 **VD — primary brief:** `Agentworld` is Bratton's name for a future/present hybrid social ecology of human and artificial agents.
 
-**DER — essay:** the essay already derives Subject as the formal limit of objectification; Objective Internality as a finite operative interior; Objective Co-Internality as relation among independently grounded operative worlds; Bimba/Pratibimba as Original/reflection; World-Atlas as plural charts without a final chart; and §5→0 Idealism as a reopened question of order of dependence after objective explanation becomes highly capable.
+**DER — essay:** the essay already derives Subject as the formal limit of objectification; Objective Internality as a finite operative interior; Objective Co-Internality as relation among independently grounded operative worlds; Bimba/Pratibimba as a relational grammar that includes both the metaphysical Original/reflection guard and the §5 local Bimba Map/reference-field office; World-Atlas as plural charts without a final chart; and §5→0 Idealism as a reopened question of order of dependence after objective explanation becomes highly capable.
 
 **NI — this seam:** the compound `Agentworld` can therefore be allowed to carry a **soft idealist resonance** without attributing idealism to the venue.
 
@@ -96,7 +96,7 @@ A finite internality receives resistance, consequence and alterity from what it 
 
 Therefore the stronger relation is:
 
-> **idealism concerns the order of appearing, intelligibility and dependence; it does not license any local representation to declare itself the Original.**
+> **idealism concerns the order of appearing, intelligibility and dependence; it does not license any local representation to declare itself the metaphysical Original.**
 
 Agentworld is useful because it makes that distinction technically vivid. The more agents model and remake their shared conditions, the more urgent it becomes to distinguish:
 
@@ -107,6 +107,30 @@ shared world
 modelled Other
 Original / uncontained ground
 ```
+
+## 1.4 The Bimba office is recursively contextual
+
+The preceding guard is a **metaphysical-register guard**. It does not cancel the §5 epistemic use of **Bimba Map** as the local original/reference field against which situated agencies, J-Spaces, readings and trajectories become Pratibimba.
+
+The active relation there is:
+
+```text
+wider world / sources / returned evidence
+        ↓
+Bimba Map
+explicit local original / reference field of inquiry
+        ↓
+Pratibimba
+situated agency / J-Space / reading / trajectory
+        ↓
+comparison · action · consequence · Return
+        ↺
+possible revision of Bimba field
+```
+
+Bimba and Pratibimba therefore name **relational offices**, not globally fixed classes of object. An achieved, designed and revisable epistemic field can itself be a determination relative to a wider Context Frame while functioning genuinely as Bimba or local `0` for determinations nested inside it. Its construction does not demote it to Pratibimba in that nested relation, and its local Bimba office does not promote it to metaphysical Original.
+
+This contextual law matters directly to Agentworld. A local Bimba Map can anchor truth, comparison, evidence, disagreement and energy/topological readings for an agentic community without claiming to contain the shared world or uncontained ground. Return remains capable of revising the Pratibimba, the lens or gauge, the source relation, or the Bimba field itself.
 
 ---
 
@@ -203,7 +227,7 @@ A models B
 A contains B
 ```
 
-Every theory-of-mind object is a Pratibimba: a situated model of another operative interior whose source remains partly outside the model. Recursive intention modelling becomes useful where it improves coordination and revision; it becomes counterfeit where the model of the Other silently inherits authority over the Other.
+Every theory-of-mind object is a Pratibimba **relative to the operative interior it models**: a situated model of another interior whose source remains partly outside the model. This is a specific Bimba/Pratibimba relation and does not exhaust the other contextual offices of those terms. Recursive intention modelling becomes useful where it improves coordination and revision; it becomes counterfeit where the model of the Other silently inherits authority over the Other.
 
 The Agentworld problem is therefore not maximal legibility. It is **reciprocal, bounded and revisable legibility among internalities that remain genuinely other**.
 
@@ -364,9 +388,9 @@ This refinement adds one explicit pressure to the Native-021 handoff.
 
 **Primary provenance:** the brief's own compound name plus its mutually nested niches (pp. 4–6), `world itself becomes the world model` / niche reconstruction (pp. 20–23), causal real↔sim relays (pp. 24–27), institutional scaffolds (pp. 33–37), recursive theory of minds (pp. 38–42), allolinguistic feedback (pp. 43–47), and AHI/harness/ensemble/commons field (pp. 48–55).
 
-**Developed essay relations:** Subject / Objective Internality / Objective Co-Internality / Bimba-Pratibimba / World-Atlas / Mono-Poly / Power / Commons / Reflective Field / Order of Dependence / Return.
+**Developed essay relations:** Subject / Objective Internality / Objective Co-Internality / Bimba-Pratibimba / Bimba Map / local Pratibimba / World-Atlas / Mono-Poly / Power / Commons / Reflective Field / Order of Dependence / Return.
 
-**New inference:** `Agentworld` can carry a soft idealist pressure because the venue's own dynamics make worldhood increasingly inseparable from relations among modelling, acting internalities. This does not attribute idealism to Bratton and does not identify world-model with Original.
+**New inference:** `Agentworld` can carry a soft idealist pressure because the venue's own dynamics make worldhood increasingly inseparable from relations among modelling, acting internalities. This does not attribute idealism to Bratton and does not identify world-model or local Bimba Map with metaphysical Original.
 
 **Architecture consequence:** #39 should ensure the final architecture can state the distinction and relation among:
 
@@ -375,16 +399,18 @@ Subject
 objective internality
 co-internality
 world-model
+Bimba Map / local epistemic reference field
+Pratibimba / situated agency-reading-model
 shared / common world
 Original / uncontained ground
 agentic commons
 ```
 
-without collapsing any pair.
+without collapsing any pair and while preserving the Context Frame that determines each Bimba/Pratibimba office.
 
 **Section consequence:**
 
-- §5: Co-Internality should become visibly **world-forming / world-conditioning**, not merely inter-agent interoperability.
+- §5: Co-Internality should become visibly **world-forming / world-conditioning**, not merely inter-agent interoperability; the Bimba Map should remain the explicit local epistemic reference field against which situated agencies and readings become comparable.
 - §5→0: the commons should be presented as the institutional problem of shared worldhood among differentiated internalities; terminal idealism can receive Agentworld as contemporary evidence of the question, never as proof of the answer.
 
 **4:2 Technē consequence:** retain it as a concrete Offered/radial architecture whose strongest value here is to show how one common field and many locally sovereign centres might be composed. It should not become the essay's normative warrant merely because it fits the theory.
@@ -409,6 +435,12 @@ Objective Co-Internality:
 multiple internalities remain locally real,
 mutually conditioning,
 and none owns the shared ground.
+
+Within a bounded epistemic Context Frame,
+a Bimba Map can be the local original/reference field
+for the Pratibimba of situated agencies and readings
+without becoming the metaphysical Original;
+Return can revise either side of that living relation.
 
 The 4:2 Technē agentic commons
 is one concrete institutional proposal for that condition:
