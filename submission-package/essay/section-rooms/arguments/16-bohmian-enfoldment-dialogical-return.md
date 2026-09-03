@@ -46,7 +46,7 @@ The complex plane supplies the mathematical carrier. Phase rotates through `1→
 
 Bohmian dialogue carries the same relation into collective intelligence. Meaning moves through distinct participants, brings tacit assumptions into articulation, and composes a shared field without forcing identical views. The long Bohm–Krishnamurti conversations enact this between physics, philosophy, and contemplative inquiry. The [[SEED — The Language of Spirit Dialogues (2010)|Language of Spirit dialogues]] later carry the method into intercultural encounters between Indigenous and Western knowledge-worlds.
 
-This grounds Epi-Logos as more than an information architecture. A Bimba commons should let claims unfold, circulate through plural lenses, expose their tacit and historical grounds, and return for correction by the people and worlds from which they arose. Shared intelligence is a dialogical holomovement, not a central model aggregating finished statements.
+This grounds Epi-Logos as more than an information architecture. A dialogical epistemic commons organised through **locally governed [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba Maps]]** can let claims unfold, circulate through plural lenses, expose their tacit and historical grounds, and return for correction by the people, sources and worlds from which they arose. The maps need not collapse into one final reference field: their provenance, gauges, lenses and transition relations can remain explicit while shared procedures make disagreement and Return possible across them. Shared intelligence is a dialogical holomovement, not a central model aggregating finished statements.
 
 ## Agentworld consequence
 
