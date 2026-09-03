@@ -2,6 +2,7 @@
 
 Status: **current authorial-return burden map / not final canonical architecture**  
 Programme: T06D / GitHub #50  
+Read with: `[[PRE-39-QUILT-TOPOLOGY-AND-NUMBERING-LEDGER]]`  
 Downstream: native 026 / #48 → #39
 
 This carrier answers one practical question before #39 freezes architecture:
@@ -16,6 +17,8 @@ The four offices are inherited from native 025:
 - `whole-form/Mytheme`.
 
 They are editorial/architectural offices, not rankings of truth or importance. Radial material can be foundational to the wider opus while not requiring full traversal in the bounded essay.
+
+The burden offices also do **not** replace stable carrier identity. Current Arguments `01–21` and global Movements `01–48` remain provenance/traversal anchors until #39 explicitly derives any migration; burden is a relation a carrier or operation occupies in the bounded essay, not a new numbering system.
 
 ---
 
@@ -313,3 +316,5 @@ For every proposed node ask:
 - does its intelligence depend on preserving the intact narrative/image? → `whole-form/Mytheme`.
 
 A carrier may participate in more than one office through different operations, but its full content should not be promoted into the linear essay merely because one operation is essential.
+
+At the full-quilt boundary, this burden decision must be **joined back to the stable topology rather than replacing it**. The fresh #39 session should therefore evaluate each current Argument `01–21` and Movement `01–48` through the reciprocal crosswalk in `[[PRE-39-QUILT-TOPOLOGY-AND-NUMBERING-LEDGER]]`: claim/standing ↔ sources ↔ Concept homes ↔ Etymology operations/registers ↔ Mytheme/Figure ↔ section/movement consumers ↔ transverse neighbours ↔ burden office. If the final exposition changes order, preserve the old identities or publish an explicit migration table.
