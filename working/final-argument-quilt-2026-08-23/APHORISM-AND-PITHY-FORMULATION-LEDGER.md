@@ -1,244 +1,145 @@
 # Native 027 — Aphorism and Pithy Formulation Ledger
 
-Status: **supplied/current-language ledger / no invented corpus / final authorial disposition open**  
+Status: **authorial boundary ratified / one complete supplied aphorism retained / anti-sloganisation rule active**  
 Programme: T06D / GitHub #50  
 Read with: `[[AUTHORIAL-RETURN-INTAKE]]`
 
-This ledger exists to prevent two opposite failures:
+This ledger now records a correction to the recovery process itself.
 
-1. losing authorially supplied concise formulations because they remain buried in conversational/intake prose;
-2. turning every memorable sentence produced during recovery into an “aphorism.”
+The earlier version did two useful things — it prevented supplied concise language from disappearing, and it distinguished formulae from prose — but it also began reproducing a familiar model failure: extracting locally concise sentences from fuller arguments and then treating those fragments as candidate aphorisms because they sounded complete in isolation.
 
-Only formulations already supplied or ratified in the current authorial field are recorded here. Classification is provisional unless explicitly marked otherwise.
+The author has rejected that promotion logic.
 
-Possible future offices:
+The operative rule is now:
 
-- **Episteme aphorism candidate** — a compact independent formulation worth instituting as its own record;
-- **pithy argument formulation** — concise wording whose primary home is inside an argument/section;
-- **Matheme / symbolic formula** — exact compact notation, not an aphorism merely because it is short;
-- **governing distinction** — compact language that controls a boundary/provenance relation;
-- **title/nomenclature** — handled separately.
+> **An aphorism is authorially supplied or ratified as a complete form. It is not manufactured by extracting a memorable sentence from a larger argument.**
+
+The essay's Argument, Symbolon, Matheme, Mytheme, Episteme and Etymology carriers remain primary. Concision is not a new semantic office.
 
 ---
 
-# 1. Explicitly supplied aphoristic / symbolic ground
+# 1. Ratified complete aphoristic form
 
-## `0 = One, 1 = All`
+The following formulation is ratified in full and may be treated as an independent Episteme aphorism:
 
-Status: **explicitly authorially supplied ground**  
-Likely office: `Matheme/Symbolon compact formulation + possible Episteme aphorism`  
-Final disposition: authorial ratification still required for record type.
+> **The approachable limit is the basis of investigation;  
+> the absolute limit is the basis of faith;  
+> the limit of investigation is the limit of determination;  
+> the limit of faith is never to be determined.**
 
-Reason for preservation:
+Its independence is earned because the author has supplied and ratified the formulation as a whole, not because a recovery process found it memorable.
 
-This is the most explicit currently supplied aphoristic formula. It compresses Mono/Poly without reducing either side to ordinary numerical identity.
-
-Do not paraphrase it into a more conventional slogan.
-
----
-
-# 2. Strong current aphorism candidates
-
-## “Exhaustive relation is not exhaustion of reality.”
-
-Provenance: current authorial `0/1 = 4+2` development.  
-Likely office: **Episteme aphorism candidate / opening-formal hinge**.
-
-Operation:
-
-A formal relational census can be exhaustive in its declared domain while the Real is not thereby exhausted as an object.
-
-This protects the whole mathematical project from the exact totalisation it diagnoses.
-
-## “The approachable limit is the basis of investigation; the absolute limit is the basis of faith; the limit of investigation is the limit of determination; the limit of faith is never to be determined.”
-
-Provenance: current mature authorial formulation.  
-Likely office: **Episteme aphorism candidate / direct argument formulation**.
-
-Operation:
-
-Investigation and faith are conjugate limits rather than enemies. Investigation persists because determinate closure remains revisable; faith persists because the absolute condition cannot legitimately become one more determined object.
-
-Preserve exact wording pending final authorial ratification.
-
-## “Hybris is a measure claiming the authority of the unmeasurable.”
-
-Provenance: current etymological/argument synthesis.  
-Likely office: **Episteme aphorism candidate + lexical-argument hinge**.
-
-Operation:
-
-Hybris is not mere excess. It is source-office usurpation by a bounded measure/frame/account.
-
-## “The Real reconciles difference not by erasing difference, but by giving difference an inside.”
-
-Provenance: current authorial experiential/Objective-Internality return.  
-Likely office: **Episteme aphorism candidate / phenomenological-ethical hinge**.
-
-Operation:
-
-Reconciliation is internal relation rather than fusion. It links the invariant-I experiential field, compassion, Objective Internality, Co-Internality and harmony-in-difference.
-
-## “The living symbol is a determination whose conditions of determination exceed the determination itself.”
-
-Provenance: Thread Intake 002 mature formulation.  
-Likely office: **Episteme aphorism candidate / Symbolon definition**.
-
-Operation:
-
-A living symbol is specific and determinate while still carrying a relation to what it does not exhaust.
-
-## “Self-identity is the persistence of a relational whole through its own differentiating determinations; symbolisation is the form in which a determination carries its still-unexhausted relation to that whole.”
-
-Provenance: current combined Intake 001/002 theorem.  
-Likely office: **pithy argument theorem, possible paired aphorism**.
-
-Operation:
-
-Joins self-identity and symbolisation without collapsing them into one noun.
+Its relation to the larger essay remains intact: investigation and faith are conjugate limits, and the formulation belongs back into the argument concerning determination, absolute limit and the refusal of totalisation.
 
 ---
 
-# 3. Strong pithy argument formulations
+# 2. `0 = One, 1 = All` — do not reconstruct the incomplete form here
 
-These are concise and important, but their current natural office may be argument prose rather than independent aphorism record.
+The author confirms that a fuller and correct formulation related to `0 = One, 1 = All` already exists elsewhere in the repository.
 
-## “0 is not empty because it is unmanifest; it is overfull relative to any single 1. A 1 is not self-grounding because it is determinate; it is the local determination of relations that exceed it.”
+Native 027 did not recover that complete carrier during this ratification pass. Therefore:
 
-Office candidate: **Symbolon/Matheme explanatory formulation**.
+- do not promote the abbreviated phrase as though it were the final aphorism;
+- do not manufacture the missing completion from memory or neighbouring QL material;
+- do not block #39 on recovering it;
+- when the actual fuller carrier is encountered later, preserve its native form and provenance.
 
-Reason:
-
-It prevents `0 = nothing` and `1 = self-sufficient thing` misreadings. The relation is explanatory enough that it may belong beside the matheme rather than as a standalone aphorism.
-
-## “Determination occurs through a relation between what appears determinately and an overdeterminate ground that the appearance expresses without exhausting.”
-
-Office candidate: **argument theorem / Symbolon explanatory definition**.
-
-Reason:
-
-This states the cross-register operation in prose. It is structurally central but perhaps too definitional for an aphorism office.
-
-## “Fides is prior to arbitration; credere is what becomes possible again after arbitration.”
-
-Office candidate: **etymology/argument hinge; possible aphorism**.
-
-Reason:
-
-Makes the trust-field temporal/relational order explicit. Final status depends on authorial ratification of the moving lexical archaeology.
-
-## “Arbitration is what happens when trust can no longer remain tacit.”
-
-Office candidate: **etymology/argument hinge; possible aphorism**.
-
-Reason:
-
-Condenses the transition from lived relation to explicit mediating decision. Keep coupled to the Fides/Credere field rather than generalising beyond its current argument.
-
-## “The mediator receives an arbitrated field; the mediator does not thereby become the source of arbitration.”
-
-Office candidate: **governing distinction / pithy political-theological formulation**.
-
-Reason:
-
-Controls the priest/king/politician seam and the wider usurpation problem.
-
-## “A models B ≠ A contains B.”
-
-Office candidate: **Matheme-like compact boundary / Co-Internality argument formulation**.
-
-Reason:
-
-This is the cleanest current statement of the theory-of-mind / Co-Internality limit. It may function better as a formal plate or marginal theorem than as a prose aphorism.
+The abbreviation remains a retrieval pointer, not a canonical Episteme record created here.
 
 ---
 
-# 4. Compact formal statements — preserve, do not automatically aphorise
+# 3. Withdrawal of the synthetic aphorism-candidate set
 
-## `0 / 1`
+The previous ledger listed a number of concise recovery formulations as `Episteme aphorism candidate`, `pithy argument formulation`, or similar.
 
-Office: **Primordial Symbolon / root relation**.
+That classification is withdrawn.
 
-Do not institute merely as an aphorism. Its meaning depends upon the full ground / mediation / determination relation.
+Those lines arose while agents were receiving and summarising fuller developed arguments around:
 
-## `0/1 ↔ 1/0`
+- exhaustive formal relation and the non-exhaustion of the Real;
+- Hybris, measure and the unmeasurable;
+- Objective Internality, difference and reconciliation;
+- the living Symbolon and overdetermination;
+- self-identity through differentiation;
+- the `0/1` field;
+- fides / arbitration / credere;
+- covenant and mediating office;
+- Co-Internality and model/Other limits.
 
-Office: **Symbolon/Matheme conjugacy**.
+They may remain discoverable in developmental provenance, but they are **not independent authored aphorisms** merely because they compress something true about those arguments.
 
-Current prose interpretation:
-
-a determinate form arises from a source-field it does not exhaust and is recursively returned toward that field.
-
-## `[00, 01, 10, 11] + [0,1] = 4+2`
-
-Office: **Matheme derivation**.
-
-Not an aphorism; keep exact proof/status boundary.
-
-## `Bimba ≠ Pratibimba`
-
-Office: **governing conceptual/Symbolon boundary**.
-
-Meaning:
-Original/source relation is not identical with a reflection/refraction/world-model.
-
-## `A models B ≠ A contains B`
-
-Office: **Co-Internality formal boundary**.
-
-May be represented as a plate rather than independent Episteme aphorism.
-
----
-
-# 5. Current title/nomenclature items — not aphorisms
-
-## The Return of Zero
-
-Status: current working essay title with genuine terminal operation.
-
-The title completes the cycle:
+The correct return path is:
 
 ```text
-Zero becomes a term of the system
-→ the system discovers that terms cannot ground themselves
-→ Zero returns as relation to the uncontained condition
-→ not as a new sovereign object
+fragment / recovery summary
+        ↓
+locate the full authored argument or relational carrier
+        ↓
+recover its logic, source, operation and neighbours
+        ↓
+preserve that whole
+        ↓
+only instantiate a separate aphorism if the author supplies or ratifies one
 ```
 
-## Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality
-
-Status: current supplied title candidate.  
-No ratification.
-
-## `(no)name`
-
-Status: live Symbolon-level nomenclature pressure.  
-Not an aphorism and not final naming.
+This rule should survive #39 and later writing passes.
 
 ---
 
-# 6. Explicit non-admissions
+# 4. Formal and symbolic statements remain in their native offices
 
-The following kinds of language must **not** be promoted into the aphorism corpus merely because they are memorable:
+Compact notation does not become an aphorism by virtue of brevity.
 
-- venue slogans or Agentworld `FROM → TO` phrases;
-- assistant-generated summaries unless separately adopted by the author;
-- source quotations from Jung, Pauli, Heidegger, Bratton, etc.;
-- provisional headings created for recovery files;
-- technical names of O:I/QL-MEF products;
-- compressed analogies that have not been authorially ratified.
+The existing forms remain available through their actual carriers, including:
 
-No aphorism is inferred from popularity or recurrence in the repository.
+```text
+0 / 1
+0/1 ↔ 1/0
+[00, 01, 10, 11] + [0, 1] = 4+2
+Bimba ≠ Pratibimba
+A models B ≠ A contains B
+```
+
+Their standing must be read from their Argument / Symbolon / Matheme / conceptual context. This ledger does not create duplicate Episteme records for them.
 
 ---
 
-# 7. Final-ratification questions for Native 027
+# 5. Title disposition
 
-For each candidate above, final authorial return should decide:
+The essay title is now authorially ratified as:
 
-1. Is this exact wording retained?
-2. Is it an independent Episteme aphorism, a section/argument sentence, a Matheme plate, or a governing distinction?
-3. Does it require paired context to prevent misreading?
-4. Is it current wording or only a developmental formulation that should remain in provenance?
+# **Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality**
 
-Until that return, this ledger preserves **availability without canonical promotion**.
+`The Return of Zero` remains developmental provenance and an important internal/terminal image, not the current title awaiting decision.
+
+`(no)name` is not an essay-title or essay-architecture obligation. Its source is the Antichrist-repository esoteric development and it is not imported through this ledger.
+
+---
+
+# 6. Non-admission rule for later agents
+
+Do not create an aphorism corpus by:
+
+- extracting the sharpest sentence from each Argument;
+- turning assistant summaries into authored propositions;
+- promoting headings or transition sentences because they read cleanly;
+- paraphrasing a complex Symbolon or etymological field into a slogan;
+- converting formal plates into prose aphorisms;
+- filling an expected ontology with one concise line per node.
+
+Aphoristic form is an **authorial form**, not a compression pass.
+
+Future authorial aphorisms can be added later without reopening Native 027 or blocking the architectural quilt.
+
+---
+
+# 7. Native 027 return
+
+The aphorism gate is closed with a deliberately small result:
+
+1. one complete ratified investigation / faith aphorism;
+2. one retrieval pointer toward the fuller repository form related to `0 = One, 1 = All`;
+3. explicit withdrawal of the recovery-generated candidate set from aphorism status;
+4. a standing anti-fragmentation / anti-sloganisation rule for #39 and later writing.
+
+That is sufficient. The essay does not need an artificially populated aphorism layer before architecture can proceed.
