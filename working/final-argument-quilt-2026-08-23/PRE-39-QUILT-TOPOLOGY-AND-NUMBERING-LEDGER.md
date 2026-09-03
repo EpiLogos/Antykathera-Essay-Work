@@ -137,9 +137,11 @@ zero.md
 
 **Important:** this is the count of standalone concept files, **not** the count of all concepts in the essay. `concepts/index.md` is a routing surface and correctly sends some concepts to canonical homes that are argument nodes, movement nodes or source records. The quilt must preserve the rule **one canonical home per concept**, rather than manufacturing duplicate concept files so that every row looks uniform.
 
-### Current known projection drift
+### Projection-conformance status
 
-The canonical `bimba-pratibimba.md`, §5 #4, §5→0 #1, Argument 02, Argument 14 and the pre-#39 conformance carrier now preserve the context-relative Bimba office. `concepts/index.md` still contains an older compressed Bimba-Pratibimba gloss in its Topology-Music braid. That index wording is therefore a **stale projection**, not current semantic authority, and must be repaired or regenerated from the canonical relation before the fresh-session full-quilt boundary is declared clean.
+The canonical `bimba-pratibimba.md`, §5 #4, §5→0 #1, Argument 02, Argument 14 and the pre-#39 conformance carrier preserve the context-relative Bimba office. During this topology pass, `concepts/index.md` was found to contain an older compressed Bimba-Pratibimba gloss in its Topology-Music braid. That stale projection was repaired on current `main` in commit `ea7bb85c5b9942e19a5f82f1d93c1f2bba4306ff` so the routing surface now agrees with the canonical relation: the Bimba Map can function as the local original/reference field of inquiry while situated agencies, J-Spaces, readings and trajectories are Pratibimba relative to it, even though the local Bimba itself remains a determination relative to a wider world/source Context Frame and is revisable through Return.
+
+This clears that concrete drift; it does **not** certify the whole Concept surface as fully audited. Further projection mismatches discovered by the reciprocal crosswalk remain conformance work rather than invitations to let an index outrank its canonical home.
 
 ---
 
@@ -242,7 +244,7 @@ Generate the fresh-session prompt only when the live programme reaches the actua
 1. Native 027 / #50 has received the genuinely authorial delta still reserved to Frank, or those items have been explicitly ratified/deferred by him.
 2. Native 026 / #48 has completed its current conformance/cold-return pass and can hand a stable field to #39.
 3. The current-main topology has been re-read immediately before handoff: Argument IDs, section/movement ranges, Concept canonical homes, Etymology clusters, and any newly admitted carriers.
-4. Known stale projections have been repaired or explicitly marked non-authoritative. Current concrete example: the old Bimba gloss in `concepts/index.md`.
+4. Known stale projections have been repaired or explicitly marked non-authoritative. The Bimba gloss in `concepts/index.md` is the current exemplar of the discipline: found as drift, repaired against its canonical home, then returned here as resolved rather than left as stale audit residue.
 5. #39 is ready to be executed as the **one architecture/quilt phase**, rather than being anticipated piecemeal in the preceding conformance work.
 
 At that exact boundary, the prompt must instruct the fresh session to begin from current live state and to run the **Unslop discipline as a hard condition of the work**:
