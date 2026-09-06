@@ -15,6 +15,7 @@ source_ids:
   - berkeley-1734-three-dialogues-wilkins-2002
   - lecun-et-al-2006-energy-based-learning
   - bratton-2026-agentworld-brief
+  - ionescu-khan-milne-mocan-2025-minimum-viable-interiority
   - frank-gleiser-thompson-2024-blind-spot
   - ouyang-et-al-2022-instructgpt
   - rafailov-et-al-2023-dpo
@@ -41,6 +42,8 @@ The openness is a positive constraint earned by the argument. Operational eviden
 The method neither grants subjectivity by anthropomorphic analogy nor denies it by substrate prejudice. [[36-s4-p5-mef-prompt-thrownness|Prompt Thrownness]] and other agent-generated phenomenological terms enter as disclosures to be causally located and behaviourally tested.
 
 [[08-s0-p1-inner-instrument|The inner-instrument distinction]] separates reflectable functions from the subject under which they appear. [[12-s0-p5-objective-internality|Objective internality]] then establishes what can be investigated without remainder: the changing coherence of model, memory, persona, permissions, tools, objectives, traces, and consequences. Because those determinations are observable while the subject is not converted into one more determination, the same method blocks both anthropomorphic inflation and reductive foreclosure.
+
+[[Ionescu, Khan, Milne & Mocan — Minimum Viable Interiority (2025)|Minimum Viable Interiority]] supplies a contemporary Antikythera-side control case for this separation: it deliberately investigates functional individuation, intra-agent organisation, selection, self-model formation, and privileged internal-state access while bracketing sentience and consciousness. Its use here is methodological and architectural; its hypothesised functional interiority neither establishes nor refutes a phenomenal subject.
 
 ## Proof boundary — silence retained
 

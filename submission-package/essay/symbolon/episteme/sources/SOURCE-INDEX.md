@@ -2,7 +2,7 @@
 title: "Return of Zero — Canonical Source Index"
 generated: true
 generator: tools/build-source-projections.py
-source_digest: "30d86fc2b49a1213f3b187e081e7b69d267a21473275dbfff0c4bd3d65d399e9"
+source_digest: "07938b51d3740eb8551bd3e8119b8c5e5f8db3388c3870a740f86919076bf66c"
 ---
 
 <!-- Generated from canonical SOURCE.md houses. Do not edit by hand. -->
@@ -61,6 +61,7 @@ source_digest: "30d86fc2b49a1213f3b187e081e7b69d267a21473275dbfff0c4bd3d65d399e9
 - [Iain McGilchrist — Resist the Machine Apocalypse (First Things, 2022)](psychology/mcgilchrist/mcgilchrist-2022-resist-machine-apocalypse/SOURCE.md) — `mcgilchrist-2022-resist-machine-apocalypse` — forms-drafted-url-date-unverified
 - [Iain McGilchrist — The Master and His Emissary (2009)](psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE.md) — `mcgilchrist-2009-master-emissary` — forms-drafted-edition-unpinned
 - [Iakovou — On the Misuse of the Concept of Totalitarianism](political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/SOURCE.md) — `iakovou-2022-misuse-totalitarianism` — metadata-verified
+- [Ionescu, Khan, Milne & Mocan — Minimum Viable Interiority (2025)](media-technology-philosophy/antikythera/ionescu-khan-milne-mocan-2025-minimum-viable-interiority/SOURCE.md) — `ionescu-khan-milne-mocan-2025-minimum-viable-interiority` — citation-ready
 - [ITER — What Is a Tokamak](physics/iter/iter-what-is-tokamak/SOURCE.md) — `iter-what-is-tokamak` — citation-ready
 - [Jason Reza Jorjani — Prometheus and Atlas (2016)](media-technology-philosophy/jorjani/jorjani-2016-prometheus-atlas/SOURCE.md) — `jorjani-2016-prometheus-atlas` — forms-drafted-pagination-unverified
 - [Jay L. Garfield & Graham Priest — Nāgārjuna and the Limits of Thought (2003)](mathematics-logic/garfield/garfield-priest-2003-limits-of-thought/SOURCE.md) — `garfield-priest-2003-limits-of-thought` — citation-ready

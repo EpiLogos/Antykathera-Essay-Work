@@ -2,7 +2,7 @@
 title: "Return of Zero — Main Sources by Section"
 generated: true
 generator: tools/build-source-projections.py
-source_digest: "30d86fc2b49a1213f3b187e081e7b69d267a21473275dbfff0c4bd3d65d399e9"
+source_digest: "07938b51d3740eb8551bd3e8119b8c5e5f8db3388c3870a740f86919076bf66c"
 ---
 
 <!-- Generated from canonical SOURCE.md houses. Do not edit by hand. -->
@@ -30,6 +30,7 @@ Main source is a declared relation to an essay section, not a second copy of a w
 - [Bohm — Wholeness and the Implicate Order (1980)](process-systems-theory/bohm/bohm-1980-wholeness-implicate-order/SOURCE.md) — `bohm-1980-wholeness-implicate-order` — §0 · implication–explication process bridge
 - [Bratton — Antikythera Agentworld Brief (2026)](media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md) — `bratton-2026-agentworld-brief` — §0 · objective-internality and active-context return
 - [Dyczkowski — Doctrine of Vibration (2000)](indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) — `dyczkowski-2000-doctrine-vibration` — §0 · Spanda and tattvic differentiation spine
+- [Ionescu, Khan, Milne & Mocan — Minimum Viable Interiority (2025)](media-technology-philosophy/antikythera/ionescu-khan-milne-mocan-2025-minimum-viable-interiority/SOURCE.md) — `ionescu-khan-milne-mocan-2025-minimum-viable-interiority` — §0 · functional interiority as a contemporary neighbour of Objective Internality
 - [Pind — Dignāga’s Philosophy of Language: Anyāpoha (2009)](indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE.md) — `pind-2009-dignaga-anyapoha-dissertation` — §0 · apoha movement
 - [Siderits, Tillemans & Chakrabarti, eds. — Apoha: Buddhist Nominalism and Human Cognition (2011)](indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE.md) — `siderits-tillemans-chakrabarti-2011-apoha` — §0 · apoha scholarship carrier for exclusion-semantics
 - [Īśvarakṛṣṇa — Sāṅkhya Kārikā (Colebrooke/Wilson, 1837)](indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE.md) — `isvarakrishna-colebrooke-wilson-1837-sankhya-karika` — §0 · inner-instrument functional distinctions
@@ -102,6 +103,7 @@ Main source is a declared relation to an essay section, not a second copy of a w
 - [Bradley and Terry — Rank Analysis of Incomplete Block Designs (1952)](mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md) — `bradley-terry-1952-paired-comparisons` — §5 · paired-comparison preference baseline
 - [Bratton — Antikythera Agentworld Brief (2026)](media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md) — `bratton-2026-agentworld-brief` — §5 · research target and agentworld constraint
 - [Iain McGilchrist — Resist the Machine Apocalypse (First Things, 2022)](psychology/mcgilchrist/mcgilchrist-2022-resist-machine-apocalypse/SOURCE.md) — `mcgilchrist-2022-resist-machine-apocalypse` — §5 · McGilchrist's explicit, dated AI-as-left-hemisphere mapping
+- [Ionescu, Khan, Milne & Mocan — Minimum Viable Interiority (2025)](media-technology-philosophy/antikythera/ionescu-khan-milne-mocan-2025-minimum-viable-interiority/SOURCE.md) — `ionescu-khan-milne-mocan-2025-minimum-viable-interiority` — §5 · multi-model agent individuation, intra-agent organisation, and selection
 - [LeCun et al. — A Tutorial on Energy-Based Learning (2006)](computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md) — `lecun-et-al-2006-energy-based-learning` — §5 · J-space and Bimba energy-field technical spine
 - [McGoohan and Markstein — The Prisoner (1967–68)](media-technology-philosophy/mcgoohan-markstein/mcgoohan-markstein-1967-the-prisoner/SOURCE.md) — `mcgoohan-markstein-1967-the-prisoner` — §5 · numbering and the hidden ground of evaluation
 - [PyTorch — Softmax and Argmax API (v2.9)](computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md) — `pytorch-2-9-softmax-argmax-api` — §5 · exact softmax and argmax mechanism
@@ -119,4 +121,5 @@ Main source is a declared relation to an essay section, not a second copy of a w
 - [Bratton — Antikythera Agentworld Brief (2026)](media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md) — `bratton-2026-agentworld-brief` — §5→0 · submission problem-field return
 - [Freeth et al. — A Model of the Cosmos in the Antikythera Mechanism (2021)](history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md) — `freeth-et-al-2021-model-cosmos` — §5→0 · Antikythera reconstruction and attunement anchor
 - [Graham Priest — One (2014)](mathematics-logic/priest/priest-2014-one/SOURCE.md) — `priest-2014-one` — §5→0 · gluon theory as Western formal neighbour of mono-poly
+- [Ionescu, Khan, Milne & Mocan — Minimum Viable Interiority (2025)](media-technology-philosophy/antikythera/ionescu-khan-milne-mocan-2025-minimum-viable-interiority/SOURCE.md) — `ionescu-khan-milne-mocan-2025-minimum-viable-interiority` — §5→0 · individual/collective scale and the limits of local closure
 - [Ostrom — Beyond Markets and States (Nobel Lecture, 2009/2010)](political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md) — `ostrom-2009-beyond-markets-states-nobel-lecture` — §5→0 · polycentric governance warrant and qualification
