@@ -1,75 +1,142 @@
 ---
 title: Final Whole-Argument Quilt
 label: wayfinder:map
-status: open
+status: open — post-#39 ratification / pre-T07 acceptance
 created: 2026-08-23
+updated: 2026-09-06
 tracker: ../TRACKER.md
 github_issue: 36
 programme_parent: "T06 / GitHub #7; consumes T06C / GitHub #31"
-next_gate: "T07 / GitHub #8"
+next_gate: "T07 / GitHub #8 → T08 / #9 → T09 / #10"
 ---
 
 # Final Whole-Argument Quilt
 
 ## Destination
 
-Recover and quilt the complete developed essay field, receive the final authorial return, review the whole relational composition, derive the canonical architecture the argument actually requires, and hand T07 one trusted whole-bearing quilt plus a proposed canonical-field census.
+Recover and quilt the complete developed essay field, receive the authorial return, determine the semantic architecture the actual argument requires, ratify that field, and materialise one coherent canonical relational foundation before section/movement propagation.
 
-`The Return of Zero` remains an inherited working title only. Current authorial title candidate for later review:
+The ratified essay title is:
 
 **Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality**
 
-No canonical rebuilding or inherited-path renaming occurs before T07 ratification.
+The recovered whole is not represented by inherited directory counts. The ratified semantic census is:
+
+```text
+36 canonical Argument identities
++
+64 canonical Concept identities
+=
+100 indexed Argument/Concept grounds
+
+held with:
+Etymology whole-fields
+Matheme / Mytheme / Episteme depth
+whole Mythemes
+Quaternal Logic / theorem provenance
+global Movements 01–48
+historical Argument 01–21 provenance
+```
+
+The numerical `36 + 64 = 100` is consonant with the authored Second Spanda `6² + 2⁶`; membership is still determined by the developed field rather than quota.
 
 ---
 
-# Current state
+# Current state — 2026-09-06
 
-Complete:
+Completed as recovery/architecture ground:
 
 - native 016 / #37 — ground/corpus authority;
 - native 017 / #38 — developmental parent quilt;
 - native 024 / #45 — complete six-surface quilt traversal;
-- **native 025 / #46 — inherited corpus recovery, including all stations §0/1–§5→0 and cross-cutting reconciliation.**
+- native 025 / #46 — inherited corpus recovery;
+- native 020 / #41 — whole-Mytheme/deep-seam recovery and Form-Growth developments;
+- native 021 / #42 — primary Antikythera/Agentworld brief recovery;
+- native 026 / #48 — post-section world/agency/tattva conformance and recursive semantic-office correction;
+- native 027 / #50 — final authorial return / root-web conditioning;
+- #39 — ought-be Argument / Concept / Etymology architecture;
+- **2026-09-06 authorial correction/ratification of the 36-Argument / 64-Concept semantic census.**
 
-Native-025 acceptance:
+Current ratification carrier:
 
-`[[working/final-argument-quilt-2026-08-23/inherited-corpus-crosswalk/NATIVE-025-RECOVERY-ACCEPTANCE|Native 025 Recovery Acceptance]]`
+`[[working/final-argument-quilt-2026-08-23/AUTHORIAL-RATIFICATION-2026-09-06-100-GROUND-RECENSUS|Authorial Ratification — 36 Arguments / 64 Concepts]]`
 
-The programme is now in the **pre-review return tranche**. Three sibling inputs are required before native 026:
+Current rebuild authority:
 
-1. **native 020 / #41 — whole-mytheme/deep-seam recovery**;
-2. **native 021 / #42 — full primary Antikythera/Agentworld brief recovery**;
-3. **native 027 / #50 — final authorial intake/root-web conditioning**, once the author supplies/ratifies the final etymological archaeology, direct argument formulations, aphorisms and title/nomenclature return.
+`[[working/final-argument-quilt-2026-08-23/CANONICAL-REBUILD-MANIFEST|Canonical Rebuild Manifest]]`
 
-These are execution inputs, not passive waits. Native 019 / #40 remains parallel non-blocking evidence support.
+Current unresolved programme gate:
+
+- **T07 / #8 remains formally open.** The 100-ground authorial ratification supplies its decisive census input, but the explicit §12 acceptance receipt/tests still need to be recorded.
+
+No agent may treat the authorial ratification as permission to erase T07/T08 from the programme. Equally, T07/T08 must not be used to reopen already ratified identities without actual evidence of a contradiction.
 
 ---
 
 # Continuation graph
 
 ```text
-Native-025 recovered whole
+RECOVERY / ARCHITECTURE COMPLETE
+Q27 + six-surface recovery
         ↓
-┌──────────────────┬──────────────────────┬──────────────────────┐
-│ 020 whole myths  │ 021 primary brief    │ 027 authorial return │
-│ + deep seams     │ + venue pressures    │ + root web           │
-└──────────────────┴──────────────────────┴──────────────────────┘
+whole Mythemes + primary brief + authorial return
         ↓
-026 post-section whole-field review
+Native 026 whole-field review
         ↓
-018 ought-be relational architecture
+#39 architecture
         ↓
-022 late Parallel Quilt discrepancy pass
+2026-09-06 36+64 authorial ratification
         ↓
-023 final quilt / census / cold audit
+T07 / #8
+acceptance receipt against the ratified whole
         ↓
-T07 human ratification
+T08 / #9
+re-point downstream maps/tickets/identities
         ↓
-T09+ canonical rebuilding and propagation
+T09 / #10 — ONE FOUNDATION WAVE
+A01–A36 Arguments
+        ↓
+C01–C64 Concepts
+        ↓
+Etymology whole-fields + Relational Form Growth
+        ↺ reciprocal A/C/E links
+        ↓
+whole non-section field validation
+        ↓
+T10–T14 section/Movement propagation
+        ↓
+T17+ full Symbolon / Matheme / Mytheme / Episteme world
+        ↓
+Depth Restoration / whole graph Return
 ```
 
-A resuming agent reads the native-025 acceptance before reopening any section. Section recovery is complete.
+T09 is explicitly **not** complete when the Arguments alone exist. Its purpose is to rebuild the reusable non-section field as one relational whole before sections begin consuming it.
+
+---
+
+# Governing semantic topology
+
+## Historical and semantic identities stay distinct
+
+```text
+historical Argument 01–21
+= provenance / developed carrier addresses
+
+A01–A36
+= ratified semantic Argument identities
+
+C01–C64
+= ratified semantic Concept identities
+
+Movement 01–48
+= sovereign linear / traversal addresses
+```
+
+Do not silently renumber or delete historical Argument carriers because the semantic census has changed.
+
+The former `CT-01`–`CT-06` summaries are **not canonical theorem identities**. They may survive only as explicitly non-authoritative human integration summaries.
+
+`Core Theorem Bridge` is not a semantic Argument. It may only route into the actual Taylor theorem/source field and deeper updated QL/MEF / non-dual-binary provenance.
 
 ---
 
@@ -81,18 +148,15 @@ Carry continuously:
 
 The determinations are one dynamic traversal, not topical labels.
 
-Current native proof ground includes:
+A18 is **Primordial Symbolon and Its Eight Determinations**. The Primordial Symbolon is the living `0/1` whole; the eight determinations articulate that whole. They do not exhaust Quaternal Logic.
 
-- `[[working/sources-texts-references/10-7-2026-core-theorems-pithy|Core Theorems — Pithy]]`;
-- `[[submission-package/essay/quilt/copula-derivation-chain-and-resource-pools|Copula Derivation Chain]]`;
-- strong-copula `= = =//=` / Self-Identity;
-- living dia-ballein / syn-ballein process from the §2 recovery.
+Quaternal Logic is the wider general formal/research field which generates, houses and relates multiple distinct arguments and concepts, including but not limited to the Two Ones, Mono/Poly, Dia/Syn, Spanda, the Eight Determinations, Psychoid Number, Arche-Topos and their further formal developments.
 
 ---
 
-# Opening → Primordial Symbolon hinge
+# Opening → Primordial Symbolon → Integral Return
 
-The completed section recovery now gives the central movement a clearer form:
+The governing hinge remains:
 
 ```text
 immediate appearing / experience
@@ -103,7 +167,8 @@ faithful definition / formal limit
         ↓
 promissory 0/1
         ↓
-historical Advent of Zero
+Advent of Zero
+zero becomes exact mathematical sign
         ↓
 mathematical differentiation of zero / one
         ↓
@@ -111,149 +176,237 @@ mathematical differentiation of zero / one
         ↓
 (0/1)/(1/0)
         ↓
-Primordial Symbolon
+Primordial Symbolon and its Eight Determinations
         ↓
-formal precision returned to the wider psychoid / metaphysical /
-ontological / epistemological problem
+formal / psychoid / psychic / world / technical developments
+        ↓
+Advent of Integral Zero
+exact sign becomes Symbol again
+without surrendering its mathematical determination
 ```
 
-The essay does not claim mathematics proves metaphysics or metaphysics predicts mathematics. It argues that formally differentiated precision can return to the ontological problem its development bracketed without surrendering what the formal development achieved.
-
-This hinge later opens into computation/calculative technoscience and the wider Epi-Logos symbolic-mathematical programme. Material beyond the bounded essay's proof burden remains available as radial/depth work.
-
----
-
-# Source/evidence law
-
-Native 019 is parallel support.
-
-Incomplete citation, edition, quotation or source-house work does **not** block theoretical quilting, native derivation or authorial synthesis. It constrains only the external attribution that depends upon it.
+Mathematics does not prove metaphysics; metaphysics does not overrule mathematics. The argument concerns the integral return of achieved formal precision into the wider ontological problem from which it was historically abstracted.
 
 ---
 
 # Root-web intelligence
 
-Strengthen:
+Strengthen continuously:
 
-`source ↔ etymology ↔ concept ↔ argument ↔ section ↔ quilt`
+`source ↔ etymology ↔ concept ↔ argument ↔ section/movement ↔ quilt ↔ Return`
 
-Every material relation should eventually carry exact `[[wikilinks]]`, typed relation verbs, provenance/source state, semantic backlinks explaining **why** the connection exists, and an explicit return route.
+Every material relation should ultimately carry:
 
-Etymology is pre-compositional intelligence, not proof by origin. Developed argument can return and reveal which lexical relation genuinely matters.
+- exact `[[wikilinks]]`;
+- typed relation verbs;
+- provenance/source state;
+- semantic backlinks explaining **why** the connection exists;
+- an explicit return route.
 
----
-
-# Etymology and aphorisms
-
-Current recovered etymology fields include Encounter/Region/Name/Count; Symbol/Account/Trust; Apportionment/Economy; Homology/Analogy; Earth/Taste/Wisdom; and Arbitration/Crisis/Con-text.
-
-Current Arbitration spine:
-
-`Continuity/Indeterminacy → Criterion/Distinction → Delineation/Difference → Arbitration/Crisis/Mediation → Con-text/Diaphaneity → Resolution/Reconciliation`
-
-The later Hybris / Regard / Anamnesis material remains authorially moving. Native 027 receives the final supplied/ratified form; do not anticipate it.
-
-Aphorisms are a future **Episteme** record family. Do not invent a corpus. Current authorially supplied ground includes only:
-
-`0 = One, 1 = All`
-
-and future concomitant pithy/koan formulations once supplied/ratified.
+A backlink without the relation that gives it meaning is not a finished semantic link.
 
 ---
 
-# Essay-burden offices
+# Etymology is co-equal reasoning architecture
 
-Use:
+Etymology is not a glossary and not proof by origin. Its canonical unit is the **whole relational / lexical field** with exact operations consumed by Arguments and Concepts.
 
-- `linear-essential` — core essay inference requires the operation;
-- `supporting-visible` — materially clarifies or figures the linear argument;
-- `radial/depth` — preserves wider Epi-Logos, specialist, speculative or deeply comparative development without burdening the linear proof;
-- `whole-form/Mytheme` — preserves myth, poem, artwork or narrative in its integrity while the essay consumes an exact linked operation.
+Mature fields presently include:
 
-Radial/depth is not lower-status work.
+- Encounter / Region / Name / Count / Account;
+- Arbitration / Hybris / Regard / Anamnesis;
+- Fides / Topos / Logos / Nomos / Natio / Credere;
+- Symbol / Account / Trust;
+- Homology / Analogy;
+- Apportionment / Economy.
+
+Every load-bearing use must state:
+
+```text
+whole field
++
+exact consumed operation / generated relation / branch
++
+evidence register
++
+return to the Argument/Concept it changes
+```
+
+Evidence registers remain:
+
+1. philological descent;
+2. attested semantic field;
+3. operational homology;
+4. poetic / phonic re-entry.
+
+No register may borrow the warrant of another.
 
 ---
 
-# Register field
+# Relational Form Growth
 
 Current authority:
 
-`[[working/final-argument-quilt-2026-08-23/inherited-corpus-crosswalk/SYMBOLON-MATHEME-MYTHEME-EPISTEME-FIELD|Symbolon / Matheme / Mytheme / Episteme Field]]`
+`[[working/final-argument-quilt-2026-08-23/RELATIONAL-FORM-GROWTH-GRAMMAR|Relational Form Growth Grammar]]`
 
-- Symbolon — holding relation / return, not a fourth topical bucket;
-- Matheme — exact operations and proof boundaries;
-- Mytheme — whole lived/image/narrative forms;
-- Episteme — instituted knowledge, sources, histories, etymologies, concepts, maps/lenses/dialogues and future aphorisms.
+Governing law:
 
----
+> **Fullness means maximum earned articulation with recursive return.**
 
-# Pre-review inputs
+Cardinality is earned by the material. No dyad, triad, fourfold, sixfold, eightfold, twelvefold or other form is imposed merely because it fits an available schema.
 
-## Native 020 — whole-mytheme/deep-seam recovery
+Where a developed `N` genuinely has a conjugate `N′`, the fuller relation may generate:
 
-Recover whole myths, poems, artworks and deep cross-register seams before final architecture freezes their fragmented inherited uses.
+```text
+N          N′
+ \        /
+  \      /
+   N+N′
+```
 
-Priority fields include Ares/Aphrodite/Harmonia/Eros; Hephaestus/Poseidon; Apollo/Daphne; Apollo/Dionysus; Job/Yahweh/Sophia/Satan; Antikythera where it functions as instrument-image; and any other whole-form material actually carrying the argument.
+Here `N+N′` means **N newly generated relational determinations**, not the numerical sum or merged labels of two lists.
 
-Classify exact linear operation versus supporting/radial/whole-form depth.
+At a higher scale:
 
-## Native 021 — primary Antikythera/Agentworld brief
+```text
+N      :     N+N′     :      N′
+0      :       /      :       1
+```
 
-Recover the actual primary venue brief directly. Do not use Prompt Thrownness, the Agentworld response matrix or another memorable derived object as a substitute for the venue's real question-set and assumptions.
+The generated relational middle articulates the slash; the achieved named whole can become a higher `0/1` and enter another relation.
 
-## Native 027 — final authorial return
+Keep this distinct from distributive recursion:
 
-Receive, once supplied/ratified:
+```text
+N / N′ → N+N′
+what does each position become THROUGH its conjugate?
 
-- final parallel etymological archaeology;
-- concomitant Episteme aphorisms;
-- simplest/direct formulations of core arguments;
-- title/nomenclature candidates.
+N → N×N
+what does the WHOLE N-fold become inside this position?
+```
 
-Use these to strengthen the root web and alignment before whole-field review. Do not anticipate still-moving material.
+The arbitration field is the worked exemplar; it is not the mould from which every other Etymology field is cut.
 
----
+Tree morphology is both historical and generative:
 
-# Native 026 — post-section review
-
-Consumes 020 + 021 + 027 together with native-025 recovery.
-
-It tests:
-
-- MEF as whole-field epistemic/self-referential theory, not product evidence;
-- section-to-section relational health;
-- QL / Context-Frame conformance without mechanical section→position mapping;
-- full Agentworld breadth and anti-fixation;
-- root-web link/backlink integrity;
-- essential/supporting/radial/whole-form burden;
-- title/nomenclature against the actual whole.
-
-No canonical rebuilding occurs here.
-
----
-
-# Native 018 and after
-
-Native 018 derives the **ought-be** architecture only after the reviewed whole exists: arguments, concepts, etymologies, Episteme aphorisms, register homes, section relations, root-web links and exact create/split/merge/rehome/retire operations.
-
-Then:
-
-1. native 022 late Parallel discrepancy test;
-2. native 023 final whole-bearing quilt + proposed census + cold audit;
-3. T07 human ratification;
-4. T09 rebuild complete canonical non-section field;
-5. T10–T14 update sections/rooms/movements from that field;
-6. T17+ develop the full meetable Symbolon/Matheme/Mytheme/Episteme page world.
+```text
+root / coordinate
+→ relational stem / articulated slash
+→ semantic branch
+→ lexical / historical / Mytheme leaf
+→ fruit / achieved whole
+→ seed / further relation
+```
 
 ---
 
-# Current decisions
+# T09 foundation law
 
-- native 025 and section recovery are complete;
-- inherited counts have no target authority;
-- source debt cannot veto developed theory;
-- `The Return of Zero` is working nomenclature only;
-- Advent Zero / Primordial Symbolon is the recovered §1 hinge;
-- whole Mythemes and full primary venue pressures enter before post-section review;
-- final moving etymologies/direct arguments/aphorisms enter through native 027 only after authorial supply;
-- T07 remains the human ratification gate before canonical rebuilding.
+T09 / #10 already determines the procedural order and the reason for it: Arguments, Concepts and Etymologies form the reusable relational field **before** section propagation. No section wave may begin while those layers are still being improvised piecemeal.
+
+The foundation wave therefore runs:
+
+```text
+A01–A36 materialisation
+        ↓
+C01–C64 materialisation
+        ↓
+Etymology / Form-Growth reciprocal rebuild
+        ↺
+repair all A↔C↔E routes
+        ↓
+non-section graph / provenance validation
+```
+
+One A/C/E layer may pressure another while being built. The order is dependency order, not permission to finish one layer in isolation and forget its reciprocal obligations.
+
+---
+
+# Writing / anti-compression law
+
+Canonical A/C/E records are philosophical writing.
+
+Before materialisation, read:
+
+- `writing-guidance-tools/SKILL.md`;
+- `writing-guidance-tools/references/WRITING-LAWS.md`;
+- `writing-guidance-tools/references/WRITING-RUBRIC.md`.
+
+The record must be written from the actual argument/field outward. Never generate an administrative shell from metadata and then fill it with summary prose.
+
+Reject especially:
+
+- census prose promoted into final argument;
+- lists of nouns standing in for relations;
+- source traditions averaged into generic similarity;
+- framework names promoted into Arguments;
+- etymological words promoted into Concepts merely because the archaeology is productive;
+- local section jargon promoted into whole-system ontology;
+- QL labels replacing an unfollowed operation;
+- mature authored terms freshly redefined because a short definition seems convenient;
+- machine cadence, uniform slogan paragraphs, tour-guide narration and listing under compression.
+
+Top-level materialisation should preserve enough real depth for the reader to understand the operation and consequence. Later Depth Restoration enriches that page from the complete source field; it must not have to reconstruct an argument which was summarised away at creation.
+
+---
+
+# Depth Restoration
+
+The 100-ground census is an identity-and-routing carrier, never a semantic ceiling.
+
+Every substantive A/C/Symbolon page eventually returns through:
+
+1. relevant Q27 contribution(s) first;
+2. direct authored/Taylor/theorem/source carriers;
+3. full deeper QL/non-dual-binary provenance where theorem work is involved;
+4. canonical source houses, whole Etymology fields, histories and whole Mythemes;
+5. historical/current carriers;
+6. QH/T06D later as discrepancy/correction/returned-development surfaces;
+7. exact Movement / sovereign passage.
+
+A page is not mature until that return restores derivation, notation, examples, images, tensions, source distinctions and authorial force.
+
+If that recovery genuinely contradicts an A/C identity, return the evidence to the recensus explicitly. Do not silently change architecture during page editing.
+
+---
+
+# Stable authorial corrections
+
+Carry without re-litigation unless new authored evidence appears:
+
+- A10 Advent of Zero = zero becomes operative mathematical **sign**;
+- A36 Advent of Integral Zero = the exact sign becomes **Symbol again**;
+- A11 Two Ones = `0 = One`, `1 = All`;
+- A15 Ratio / Rationality remains an Argument; Paradox is C64;
+- A18 = Primordial Symbolon and Its Eight Determinations;
+- A22 World-Picture → World-Atlas remains its own Argument; C07 Conditions of Worldhood is wider but does not absorb it;
+- A24 Arbitration and the Usurpation of Measure remains an Argument; its mature lexical field remains Etymology;
+- A26 Objective Internality = Mind as Worldhood;
+- A27 Self and Other = Unity without Possession;
+- Agent Subjectivity Must Remain Open is a Concept/proof-boundary;
+- A31 Deferential Intelligence routes to its developed carrier rather than being repeatedly redefined;
+- A33 Epistemic Cultivation / Operational Parity remains a core Argument;
+- C39 = Meta-Epistemic Framework, framework not Argument;
+- C40 = Model Internality / Judgment Field; J-Space is the local §5 representation;
+- C61 = Symbolon Disclosure Architecture, routing not a second Symbolon theorem;
+- C63 = Pros Hen / In Quantum with Aristotle/Eckhart source distinctions preserved;
+- historical/mathematical Zero remains Episteme/history rather than consuming a Concept slot;
+- Etymology has its own office; lexical productivity alone never creates an Argument or Concept.
+
+---
+
+# Current next action
+
+A fresh execution session should:
+
+1. reinspect live `main` and T07/T08/T09 states;
+2. execute/record T07 acceptance against the 100-ground ratified field;
+3. execute T08 semantic/mechanical re-pointing of downstream references;
+4. continue immediately into T09 if no genuine blocker appears;
+5. materialise A01–A36;
+6. materialise C01–C64;
+7. rebuild/join mature Etymology fields under Relational Form Growth;
+8. validate complete reciprocal A↔C↔E provenance and links;
+9. stop **before section/movement propagation** except for link/reference repairs required to make the field reciprocal.
+
+That is the next clean programme boundary.
