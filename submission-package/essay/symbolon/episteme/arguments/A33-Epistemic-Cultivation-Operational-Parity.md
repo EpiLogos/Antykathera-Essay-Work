@@ -1,39 +1,50 @@
+---
+title: "A33 — Epistemic Cultivation / Operational Parity"
+record_id: A33
+record_type: argument
+register: episteme
+claim_status: Argued
+source_relation: "Argued engineering requirement; Offered experimental programme"
+---
+
 # A33 — Epistemic Cultivation / Operational Parity
 
-**Standing:** canonical semantic Argument. This is a substantive Argument, not merely a software checklist.
+## #0
 
-## Argument
+Technical design already decides what counts as memory, evidence, user, source, permission, context, confidence, agency and success. Epistemic cultivation makes these operative distinctions explicit, revisable and more adequate through use. [[A31-Deferential-Intelligence|A31]] requires encountered difference to revise a model; [[A32-Reflective-Field-The-Mirror-That-Moves-First|A32]] shows why model effects return to the field. A33 asks where those commitments change actual work.
 
-Responsible technical development includes epistemic and ontological investigation of the models, worlds, gauges, interiors and agencies being built. A system embodies distinctions whether its designers acknowledge them or not: what counts as memory, evidence, user, source, permission, context, confidence, agency and success is already an ontology translated into operations. Epistemic cultivation is the practice of making those distinctions explicit, revisable and more adequate through use.
+Operational parity applies when a philosophical or formal distinction is used to justify a technical feature. That distinction must have a discriminable consequence. It does not require every philosophical claim to become a data object, and a passing implementation test does not prove the metaphysics that motivated it. [[submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity|C45 Operational Parity]] defines the enactment test; [[submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation|C46 Epistemic Cultivation]] defines its continuing practice.
 
-Operational parity supplies the test. When a formal or philosophical distinction is promoted into software, it should produce some inspectable or discriminable operational consequence. If a system claims to distinguish world from world-model but both are represented and updated identically, the distinction has not become technical. If it claims that source authority differs from derivative judgment but provenance cannot affect action, the distinction is decorative. If it claims deference but no encounter can revise weighting, routing, state or behaviour, deference remains prose.
+## #1
 
-The converse matters equally. Not every philosophical distinction belongs in code. Operational parity does not demand compulsory reification of the entire ontology. It applies when a distinction is *used to justify or organise a technical feature*. At that point the software must disclose where the difference is enacted and how failure would be observed.
+The direct computational-process carrier, developed canonically in [[A14-Computational-Process-Ontology|A14]], supplies six concrete inquiries: what was inherited, what was excluded, what stabilised the branch, what retains source/inverse/context, what the result changes, and whether the result can perish into revisable common data. Computation names repeatable transformation of a field here; it does not turn every reality into a digital machine.
 
-This turns testing into a mode of epistemology. A failed test can reveal not only buggy implementation but an underdetermined concept: perhaps two supposedly distinct states have no operational difference, or a gauge measures a proxy rather than the claimed phenomenon. Conversely, philosophical analysis can expose missing tests because a system has silently collapsed two offices — model/world, evaluator/source, prompt/subject, reflection/phenomenality — that the architecture says must remain distinct.
+A supposedly source-aware system can be tested at the point where a corrected primary passage changes its inherited conclusion. A system claiming that world differs from world-model must expose which represented state changed and which encountered resistance prompted the change. A model's record of an event is never the full world itself; separate database columns would not alone establish that distinction. The test concerns the relation between evidence, representation and consequence.
 
-## Pressure and distinctness
+## #2
 
-A31 makes revision by encounter constitutive of intelligence; A32 shows models feeding back into worlds. A33 therefore asks how those claims become responsible engineering rather than metaphor. It is distinct from C45 Operational Parity and C46 Epistemic Cultivation, and from C39 MEF, the framework used to investigate such distinctions.
+[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE|The MEF reference house]] sources an internal architecture, with its direct local twelve-lens reference recoverable despite the house's stale absence statement. Each lens carries the whole rotated Name/Power constellation. L4 is not all Power and L4′ is not all Name: the same constellation is grounded from opposite faces. Same-index Day/Night pairing and complementary-index pairing are different relations.
 
-## Relations and Return
+The Name sequence Truth/Mind/Word/Logos/Son/Image keeps articulation; Power's Play/Need/Sacrifice/Decision/Love/Work keeps transformative cost. The native core and supporting field ground these as coequal offices. Operational parity asks what changes when a distinction is promoted into a technical feature: retrieval, retention of exclusions, evaluation, collaboration or return. Attaching twelve labels to the same unchanged output does not demonstrate twelve operative lenses.
 
-**Concept dependencies:** C39 Meta-Epistemic Framework, C40 Model Internality / Judgment Field, C43 Computational Vimarśa, C45 Operational Parity, C46 Epistemic Cultivation, C47 Deferential Intelligence, C57 Agentworld.
+[[submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework|C39 MEF]] owns the framework. Its mathematical subset and historical-source claims remain independent tasks; neither a musical resemblance nor a generated scale table proves epistemic utility.
 
-**Consequences:** A34–A36 and the technical vocation of A35.
+## #3
 
-**Etymology whole field:** *Encounter / Region / Name / Count / Countenance / Account*. **Consumed operation:** **Account** must expose how a named distinction changes the count, judgment or action produced by the system. **Evidence register:** 3. **What changes:** ontology becomes experimentally answerable without being reduced to instrumentation. **Return route:** A33 → C45/C46 → C39/C40 → A31/C47 → A33.
+Testing can expose a conceptual failure as well as faulty implementation. Two allegedly distinct states may induce identical transitions because the distinction has not been specified. An evaluator may measure agreement where the claim concerns warranted correction. A system may display source authority yet allow derivative judgment to overwrite it without any change in standing. These failures return questions to the concepts that justified the feature.
 
-**Movement consumers:** MEF, prompt-thrownness, agentworld and final technical-return movements; no section rewriting.
+The converse also holds: philosophical analysis identifies tests the implementation did not know it lacked. [[A27-Self-and-Other-Unity-without-Possession|A27]] separates another's account from the Other; [[A28-Authored-Ground-Positional-Delegation|A28]] separates prompt from intention; [[A30-Objective-Co-Internality|A30]] separates collective artifact continuity from a collective Subject. The architecture must not transfer evidence between those offices simply because their labels sound related. Artificial phenomenality is not made test-complete by measuring functional reflexivity.
 
-**Matheme:** formal distinction → discriminable state/transition; **Mytheme:** workshop, instrument, mirror and cultivation/garden; **Episteme:** philosophy of science, software testing, interpretability, evaluation and epistemic practice.
+## #4
 
-## Provenance
+The [[submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT|ratified O:I capstone]] admits six native centres as a **candidate technical anatomy**. Minimal Objective Internality does not depend on completion of the maximal QL research programme. [[submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field|C40 Model Internality / Judgment Field]] keeps J-space as a subordinate research object rather than the total concept of the model's interior. A proposed experiment must say which layer it tests and what would count against its result.
 
-Q27; MEF and J-Space research (J-Space remains subordinate research object under C40); live computational-vimarśa/Objective Internality/Deferential Intelligence carriers; T06D technical harmonisation as correction surface rather than primary authority.
+The mature deference carrier's comparison with and without pre-action disclosure supplies one such test design. The relevant changes are delegation, correction and answerability. A result that merely increases self-description does not discharge it. [[submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Agentworld]] compares capability situated in coupling and institutions; the unit under evaluation can therefore include artifacts, collaborators and permissions rather than weights alone. The brief's scenarios are research pressures, not evaluated evidence for this architecture.
 
-## Unresolved Delta
+## #5→0
 
-Restore exact J-Space/MEF experiments, concrete operational-parity test cases and boundaries where philosophical distinctions should deliberately remain non-reified.
+The [[submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter field]] derives Account's obligation to disclose how a named distinction changes count, judgment or action. The result returns to inquiry: preserve the successful operation, revise the failing relation, recover an omitted source or withhold a claim whose criterion remains unclear. This is register-3 application, not a lexical proof of engineering method.
 
-**Depth Restoration: pending**
+[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE|Draft 3]] sources the vocation of an intelligence more exact through structural acknowledgment of its limit. [[submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE|Watson’s protected encounter]] adds durable inheritance across discontinuous acts: corrected products become conditions for later work. [[A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation|A35]] gives that continuing cultivation its orientation toward origins and affected lives. The inquiry remains capable of changing its own instruments without promoting the latest instrument into its ground.
+
+**Depth Restoration:** six process questions, native Name/Power parity and L4/L4′ correction, discriminable source/model/evaluator consequences, concept–test feedback, minimal/maximal programme distinction and J-space's subordinate office restored from A33's packet and direct computational/MEF/QH carriers. **Remaining debt:** real J-space/MEF comparisons, implementation cases and source-specific research results. No experiment was run or outcome inferred by this conceptual enrichment. P1 consumers M36–M39/M42/M44/M48 remain distinct.

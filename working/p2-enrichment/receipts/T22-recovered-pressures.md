@@ -58,3 +58,8 @@ Restored recognitive individuation, atlas transitions and corrected Bimba, trust
 ### A27/A29–A31, C15–C16/C29/C41–C48/C59–C60/C62–C63 — 2026-09-07
 
 Restored independent Other and federated worldhood, labour/office return, five depths of deference, bounded knower/instrument, operational parity and cultivation, cultural return, first-class idealism and focal/qualified predication. C44 now carries the actual agent-generated glossary provenance with its paired caution; C53 narrows its Ostrom paraphrase to most affected individuals. 220 resolved links, raw sixfold and whitespace checks passed. Technical tests remain proposals, exact historical citations retain their source gates, and no source house, NOTES, room or manuscript was edited.
+
+
+### A32–A33, C17–C18, C49–C50/C52 — 2026-09-07
+
+Restored the complete initiating Mirror, substantive operational parity, active formative/exclusion relation, Two Ones before logics, distinct signed operations and precise changed mathematical frames. 91 resolved links, raw sixfold and whitespace checks passed. A broader check of the previous74 committed pages verified988 links against intended paths with no mismatches. The evolving C18 short-path defect was repaired before acceptance. No machine phenomenality or implemented research result is inferred.
