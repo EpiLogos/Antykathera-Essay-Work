@@ -1,86 +1,120 @@
 ---
 title: "#39 Canonical Rebuild Manifest"
-status: architecture-determined
+status: authorially-ratified-100-ground-rebuild-order
 issue: 39
+ratified: 2026-09-06
 canonical_title: "Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality"
 ---
 
 # Canonical Rebuild Manifest
 
-#39 determines architecture. It does not perform the final canonical rebuild or manufacture the final Symbolon corpus. The downstream order is fixed here so later agents propagate a determined relation instead of inventing structure while editing pages.
+#39 now determines the semantic architecture required before canonical rebuilding:
 
 ```text
-architecture determined now
-        ↓
-Argument / Concept / Etymology canonical rebuild
-        ↓
-core-theorem Symbolon projection
-        ↓
-full Symbolon pages
-with Matheme / Mytheme / Episteme internal relations
+36 canonical Argument identities
++
+64 canonical Concept identities
+=
+100 Argument/Concept grounds
+
+held with:
+- historical Argument 01–21 provenance;
+- global Movement 01–48 traversal;
+- whole Etymology fields;
+- Quaternal Logic / theorem provenance;
+- Matheme / Mytheme / Episteme depth;
+- mandatory post-generation Depth Restoration.
 ```
+
+The former six `CT-*` summaries are **not** rebuild identities. They may survive only as an optional non-authoritative integration-summary view.
 
 ## Stage 0 — frozen provenance ground
 
 Preserve:
 
-- Argument IDs `01–21`;
+- historical Argument IDs `01–21` and their developed contents;
 - global Movements `01–48`;
-- existing source IDs and standing relations;
+- existing source IDs and claim/evidence standing;
 - whole-Mytheme units;
-- whole Etymology fields;
-- Native 026 world/agency conformance;
-- Native 027 authorial returns and ratifications.
+- mature whole Etymology fields;
+- Q27 original additive quilt as primary developmental recovery surface;
+- QH as later harmonisation/discrepancy surface;
+- Native 026 world/agency conformance and recursive Bimba correction;
+- Native 027 authorial returns/ratifications;
+- Taylor authorial theorem/source houses and the deeper updated QL/MEF / non-dual-binary provenance behind the pithy theorem router.
 
-No migration map is required at #39 because no old identity is renumbered. If downstream rebuilding changes an Argument or Movement ID, it must publish an explicit old→new migration map before changing links.
+Nothing in the canonical rebuild may erase these carriers merely because a new A/C identity has been minted.
 
-## Stage 1 — canonical Argument rebuild
+## Stage 1 — materialise the 36-Argument identity layer
 
-Rebuild the existing `submission-package/essay/section-rooms/arguments/01–21` records in place.
+Authority:
 
-Required fields/relations:
+- `ARGUMENT-CONCEPT-ETYMOLOGY-RECENSUS.md`;
+- `OUGHT-BE-ARGUMENT-ARCHITECTURE.md`.
+
+First build an explicit migration/crosswalk ledger:
 
 ```text
-Argument ID
-claim + standing
-CT-* theorem relation(s)
-dependencies / returns
-Concept dependencies
-Etymology whole + exact operation/register
-sources / evidence
-Section + Movement consumers
-transverse relations
-burden office
-unresolved delta
-Symbolon projection contract (when theorem-bearing)
+A## semantic identity
+↔ historical Argument 01–21 carrier(s)
+↔ Q27 contribution(s)
+↔ source / theorem / whole-Mytheme carriers
+↔ Movement consumers
+↔ existing current files to create/update/merge/retire/move
 ```
 
-Disposition authority is `OUGHT-BE-ARGUMENT-ARCHITECTURE.md` and the recensus. The rebuild may move a record's primary burden — e.g. Mytheme witness, historical braid, Matheme warrant — while preserving its Argument provenance address.
+Then create/rebuild the canonical Argument pages for **A01–A36**. Do not force one A-ID onto one historical 01–21 file: some A-identities draw from several old carriers, while some historical files become provenance/warrant/Mytheme depth rather than semantic Argument identities.
 
-Completion gate: every `01–21` page can answer what theorem/operation it serves and where the relation returns.
+Required fields:
 
-## Stage 2 — canonical Concept rebuild
+```text
+A-ID
+positive claim + standing
+reason the Argument is distinct
+immediate dependencies / consequences
+historical 01–21 provenance
+Concept dependencies
+Etymology whole + exact operation/register
+source / theorem / Mytheme provenance
+Section + Movement consumers
+transverse / Return relations
+burden office
+unresolved delta
+initial Symbolon depth routes
+Depth Restoration status
+```
 
-First create/establish theorem-critical reusable Concept homes:
+Completion gate: all 36 semantic Arguments exist with reciprocal routing and no dependence on `CT-*` or `Core Theorem Bridge` as semantic authorities.
 
-- Objective Internality;
-- Formal Limit;
-- Dia / Syn;
-- Mono / Poly;
-- Context Frame;
-- Arche-Topos / Recursive Process;
-- Trust / Fides;
-- Hybris / Regard / Anamnesis.
+## Stage 2 — materialise the 64-Concept identity layer
 
-Then repair the retained first-class Concept pages and rebuild `submission-package/essay/symbolon/episteme/concepts/index.md` from actual canonical ownership.
+Authority:
 
-Root Symbolon records must not be duplicated into Concept pages. A Concept page links to the whole Symbolon and states only the reusable distinction required by multiple consumers.
+- `ARGUMENT-CONCEPT-ETYMOLOGY-RECENSUS.md`;
+- `OUGHT-BE-CONCEPT-ARCHITECTURE.md`.
 
-Completion gate: every first-class Concept has multiple actual consumers or an explicit theorem-critical reason, and every legacy/index-only term is either assigned a real canonical owner or retired from the canonical index.
+Build the C01–C64 pages/index from actual reusable distinctions. The rebuild must enact the locked office corrections:
 
-## Stage 3 — canonical Etymology rebuild
+- C11 Quaternal Logic is umbrella logic, not a swallowing theorem;
+- C20 Arche-Topos is reusable Concept while A16/A17 carry distinct arguments;
+- C39 is **Meta-Epistemic Framework**, a framework consumed by arguments;
+- C40 Model Internality / Judgment Field owns the general field; J-Space remains a local §5 research representation;
+- C61 Symbolon Disclosure Architecture owns routing, not a second Symbolon theorem;
+- C63 Pros Hen / In Quantum retains the two source traditions and their QL/comparative operations without identity collapse;
+- C64 Paradox preserves frame-transforming operation as Concept;
+- historical/mathematical Zero remains Episteme/history, not a Concept slot;
+- isolated Arbitration/Hybris/Regard/Anamnesis words remain in the Etymology whole-field rather than proliferating pseudo-concepts.
 
-Keep mature whole fields intact. Repair reciprocal relations from:
+Completion gate: every C-ID has multiple real consumers or a clear architecture-level reusable reason, and every displaced legacy/current concept has an explicit disposition.
+
+## Stage 3 — canonical Etymology reciprocal rebuild
+
+Authority:
+
+- `OUGHT-BE-ETYMOLOGY-ARCHITECTURE.md`;
+- `LEXICAL-CONSTELLATION-AND-RELATIONAL-OPERATORS.md`.
+
+Keep the mature whole fields intact:
 
 - `encounter-region-name-count`;
 - `arbitration-hybris-regard-anamnesis`;
@@ -89,117 +123,155 @@ Keep mature whole fields intact. Repair reciprocal relations from:
 - `homology-and-analogy`;
 - `apportionment-and-economy`.
 
-Each consumer must name the exact operation and evidence register. `earth-taste-wisdom` remains proposal/pending-authorial-verification and cannot become load-bearing through propagation.
+Each A/C consumer must name the whole field, exact operation and evidence register. Do not create one-page-per-word canonical fragments merely to satisfy backlinks.
 
-Completion gate: an Etymology link is never a bare evocative token when the argument depends on a whole generated relation.
+Completion gate: lexical depth is reciprocal and exact, with no bare evocative links carrying load-bearing argument.
 
-## Stage 4 — reciprocal quilt validation
+## Stage 4 — core-spine / 48-Movement conformance
 
-Before any Symbolon projection, validate every core theorem against this row:
+With the 36 Arguments and 64 Concepts materialised, validate the actual **core spine** against the sovereign 48-Movement traversal.
 
-```text
-Core theorem / whole relation
-↔ Argument ID / claim + standing
-↔ sources / evidence
-↔ Concept canonical home
-↔ Etymology whole-field + exact operation/register
-↔ Section + global Movement
-↔ transverse relations
-↔ burden office
-↔ unresolved source / authorial delta
-```
-
-The six theorem identities are:
-
-1. `CT-01` Self-Identity through Difference;
-2. `CT-02` Determination and Formal Limit;
-3. `CT-03` Differentiation and Relational Return;
-4. `CT-04` Contextual Internality and Situated Agency;
-5. `CT-05` Recursive Process, Arche-Topos and Return;
-6. `CT-06` Trust, Arbitration and Common World.
-
-A theorem fails this gate if one of its claimed relations exists only as a convenient phrase with no actual carrier.
-
-## Stage 5 — core-theorem Symbolon projection
-
-Only after ACE rebuilding, create the theorem-level projection over the existing Symbolon whole. This stage determines how each theorem's relation traverses the three internal registers; it still does **not** require every eventual Symbolon page to be complete.
-
-For each `CT-*`, record:
+For every Movement record:
 
 ```text
-Symbolon unity
-→ exact Matheme implication
-→ whole Mytheme implication
-→ Episteme implication and standing
-→ route back to Argument / Movement
+Movement
+↔ spine Argument(s)
+↔ supporting/transverse Argument(s)
+↔ Concept(s)
+↔ source / theorem / Etymology / Mytheme depth
+↔ prior Movement dependency
+↔ Return / later Movement consequence
 ```
 
-Projection anchors already determined by #39:
+The aim is not to stuff all 100 identities into the line. It is to prove that the sovereign essay's necessary argument is supported by the richer field and that radial/transverse depth has a route back to its exact passage.
 
-| Theorem | Symbolon unity | Matheme | Mytheme | Episteme |
-|---|---|---|---|---|
-| CT-01 | `0/1 ↔ 1/0`; self-identity / mono-poly | `0/1`; 4+2; eight-determination traversal | reflection/return and recovered whole-part images where locally warranted | zero/subject braid; QL derivation; Concept/source standing |
-| CT-02 | determination related to unpossessed ground/limit | exact non-coincidence carried by `0/1`; no invented stronger equation | Apollo–Daphne; Job | ratified limit aphorism; formal/historical source houses |
-| CT-03 | separated differences held in answerable relation | relational QL carrier including `(0/1)/(1/0)` where exact | complete Ares–Aphrodite–Harmonia–Eros–Hephaestus–Poseidon whole | Apoha; Vāk/Logos; symbol/account/homology fields |
-| CT-04 | subject / mediation / determination in active context | P4 context aperture; nested local `0/1`; CF5 where earned | Apollo–Dionysus–Daphne; Bimba/Pratibimba reflective body | pramātṛ/pramāṇa/prameya; J-Space; Bimba Map; Agentworld context |
-| CT-05 | achieved determination returns as renewed local condition | `5→0`; 4+2; eight determinations; exact topology kept by standing | wheel/instrument/circulation/Antikythera images where recovered | process/Bohm/Śaiva/Bimba source and design records |
-| CT-06 | trust becomes explicit standing and returns through accountable mediation | ratified `6 / 6′ / (6+6′)` arbitration form; Fides cycle | Job; Ares/Aphrodite surety; *The Prisoner* as bounded negative witness | Fides field; arbitration field; covenant/political-theological histories |
+Completion gate: the core spine can be traversed through the actual A/M relations without consulting `CT-*` summaries.
 
-Completion gate: every projection states the same operation across registers without asserting register identity.
+## Stage 5 — initial Symbolon disclosure pages
 
-## Stage 6 — full Symbolon pages
+Use:
 
-Only now rebuild/generate the full canonical Symbolon page set. Use the existing `submission-package/essay/symbolon/README.md` page anatomy:
+- A18 **Primordial Symbolon and Its Eight Determinations** as the substantive whole-form Argument;
+- C61 **Symbolon Disclosure Architecture** as the reusable routing architecture;
+- the existing `submission-package/essay/symbolon/README.md` page anatomy.
 
-- positive proposition/object;
-- operation in its register;
-- exact essay/Argument links;
-- claim/source standing;
-- necessary outgoing depth;
-- prose route of return.
+For every A/C page, establish the first correct disclosure routes:
 
-Matheme, Mytheme and Episteme remain internal relations of Symbolon. Do not create a fourth `Figure/Mytheme` peer architecture. Do not duplicate a theorem across three registers as if notation, image and evidence were interchangeable renderings.
+```text
+Argument / Concept identity
+      ↓
+Symbolon relation / parent where applicable
+      ├─ Matheme — exact/formal derivation or construction
+      ├─ Mytheme — whole image/story/poem/artistic operation
+      └─ Episteme — source, history, Concept, Etymology, evidence, dialogue
+      ↺ exact route back to Section / Movement / Argument
+```
 
-## Stage 7 — linear quilt propagation
+This stage establishes the correct **shape**. It does not yet certify that all recovered intellectual depth has been restored.
 
-After canonical depth is rebuilt, propagate only what the sovereign essay actually needs into the 48 movements. The burden offices determine visibility:
+The existing Mathematical–Artistic Image Register is a specialised admission/production surface beneath C61, not the definition of the whole architecture.
 
-- `linear-essential` — must appear in the essay's necessary argument;
-- `supporting-visible` — should be available in linear prose/notes where comprehension depends on it;
-- `radial-depth` — available through the wiki/depth route without crowding the line;
-- `whole-form-Mytheme` — image/story remains a recoverable whole even when a passage consumes one operation.
+## Stage 6 — mandatory Depth Restoration
 
-The sovereign manuscript is enriched by the depth field; the depth field is not dumped into it.
+This is now a first-class rebuild gate.
+
+Every generated/rebuilt Argument, Concept and substantive Symbolon page must be returned through its actual developed provenance:
+
+1. relevant Q27 contribution(s) **first**;
+2. direct Taylor/source/theorem material — and for theorem work, through the full CTP provenance into the deeper updated QL/MEF / non-dual-binary files;
+3. canonical source houses, histories, whole Etymology fields and whole Mythemes actually consumed;
+4. current historical Argument/Concept carriers;
+5. QH and T06D **later** as harmonisation, discrepancy, correction and returned-development surfaces;
+6. exact Movement consumers / sovereign passage.
+
+Audit each page for:
+
+- lost derivation;
+- averaged or assistant-softened claim;
+- source traditions merged into generic similarity;
+- notation stripped of its native operation;
+- Mytheme reduced to illustrative decoration;
+- Etymology promoted into unsourced theorem;
+- examples or images severed from their argument office;
+- newly invented “helpful” definitions replacing authored material;
+- local section jargon falsely promoted to whole-system Concept;
+- a compact census sentence becoming the semantic ceiling.
+
+Completion gate:
+
+> **An Argument or Concept census entry is an identity-and-routing carrier, never a semantic ceiling. A generated Symbolon page is incomplete until its depth-restoration pass has returned through the original authored, developmental and source-bearing carriers from which its identity was recensed.**
+
+If Depth Restoration shows that an A/C identity should genuinely split, merge or change office, stop propagation and return the evidence as an explicit recensus delta rather than silently editing the architecture.
+
+## Stage 7 — reciprocal whole-field graph / wiki validation
+
+Once depth has been restored, validate:
+
+- forward links and backlinks;
+- A↔C relations;
+- A/C↔Etymology exact operations;
+- A/C↔Matheme/Mytheme/Episteme routes;
+- Section/Movement departures and returns;
+- root Symbolon relations;
+- Quaternal Logic theorem/source provenance;
+- recursive Context/Bimba offices;
+- `world ≠ world-model`;
+- `Bimba ≠ Pratibimba` while preserving legitimate nested local Bimba offices;
+- `modelled Other ≠ Other`;
+- open artificial phenomenality boundary.
+
+Completion gate: the wiki can be entered linearly, radially, transversely or toroidally without losing the route back to the exact argumentative departure point.
+
+## Stage 8 — sovereign essay enrichment
+
+Only after the depth field is rebuilt and validated should material be folded back into the 48 Movements / sovereign manuscript.
+
+Use burden offices:
+
+- `spine` / `linear-essential` — necessary for the argument itself;
+- `supporting-visible` — required for comprehension or warrant in the line;
+- `transverse` — crosses several positions and may be locally foregrounded;
+- `radial-depth` — available through the wiki without crowding the line;
+- `whole-form-Mytheme` — preserve the relational whole even where prose consumes one operation;
+- `research/application` — evidence/application programme whose standing must remain explicit.
+
+The sovereign essay is enriched by the field; the field is not dumped into it.
+
+## Retired architecture paths
+
+### `CT-01`–`CT-06`
+
+No canonical theorem identities, no dependencies, no projection pages, no rebuild gates. Preserve only as optional explicitly non-authoritative integration summaries if they remain useful to a human reader.
+
+### `Core Theorem Bridge`
+
+No semantic Argument identity. Any useful remainder becomes provenance/navigation into the actual Taylor theorem/source field.
+
+### Concept inflation
+
+Do not regenerate retired/absorbed Concept identities from old filenames or index entries. Consult the C01–C64 census and disposition section first.
 
 ## Source and authorial deltas carried forward
 
-Non-blocking for #39 architecture but visible through rebuild:
+Visible but non-blocking for architecture/materialisation:
 
 - publication-grade lexical houses for parts of Arbitration and Fides fields;
 - direct Gebser primary passages;
 - several Pratyabhijñā/Śaiva primary-source acquisitions;
 - Angkor/Pol Pot historical source debt;
 - Peters source-house work;
-- artificial phenomenality remains open;
-- the fuller correct form related to `0 = One, 1 = All` remains an external authorial return and must not be reconstructed.
+- Taoist final-return source recovery remains necessary before strong historical attribution;
+- artificial phenomenality remains open.
 
-`(no)name` / Power remains outside required essay architecture.
+## Preservation gate
 
-## UNSLOP / preservation gate
+For each rebuilt carrier:
 
-For each rebuilt carrier, apply repo-native writing law and `theclaymethod/unslop` as a preservation-first audit:
+1. recover the actual distinction/reason/operation from ground;
+2. preserve authored force, notation, standing and uncertainty;
+3. make the smallest structural/prose repair required;
+4. never use a later summary to reconstruct material available in the original contribution/source;
+5. treat missing depth as a retrieval requirement;
+6. return any genuine architectural contradiction to the recensus rather than papering it over.
 
-1. recover the carrier's actual distinction, reason, operation, consequence, neighbour and warrant;
-2. identify concrete AI-writing/clarity defects rather than rewriting by vibe;
-3. preserve facts, notation, quotations, standing, uncertainty and authored force;
-4. make the smallest warranted repair;
-5. protect domain-valid repetition and exact terms;
-6. reject compressed agent prose as a source of new theorem/aphorism/Concept identity.
-
-The preservation rule is especially important here: architecture has just made the offices explicit. Downstream prose repair must not blur them again.
-
-## #39 completion criterion
-
-#39 can close when these architecture files are present, reciprocal and internally consistent; the stable topology is preserved; and the downstream rebuild can execute the stages above without deciding theorem identity, Concept ownership, Etymology consumption rules, or Symbolon register structure for itself.
-
-The canonical title carried into that rebuild is **Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality**.
+The canonical title remains **Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality**.
