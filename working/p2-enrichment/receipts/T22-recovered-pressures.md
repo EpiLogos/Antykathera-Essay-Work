@@ -29,3 +29,7 @@ A13 restores polar/cancelled/appropriated operations, two monocultures and the w
 ## 2026-09-07 — A05/A06/A15/A16 and C03/C04
 
 Restored reflective appearing and speech/address operations, accountable ratio and the differential field, and the distinct reusable determination/formal-limit concepts. Exact finite-ratio checks pass; formal objects remain differentiated and external locators Open. A06's absent explicit P1 match is retained as a mapping discrepancy. A13's noncoincidence quotation is corrected to developmental paraphrase: the later corpus-sweep and harmonisation D4 require author confirmation of verbatim wording. The operation survives; no source readiness is promoted. Raw sixfold and links pass for all seven reviewed files. No structural identity or section change.
+
+## 2026-09-07 — A07/A08/A26 and C05/C06
+
+Restored conditioned formation versus script, qualified preclusion and live positive-reference pressure, and notational/nomological/exclusion-constituted worldhood with returned inheritance. C05/C06 distinguish recurrent noncoincidence from positive identification. The Buddhist comparison retains Pind's qualified referent; no blanket denial of positive reference is asserted. C03/C04 source links now use exact canonical homes. All seven files pass raw-sixfold and link checks; no new source standing, identity or section propagation.

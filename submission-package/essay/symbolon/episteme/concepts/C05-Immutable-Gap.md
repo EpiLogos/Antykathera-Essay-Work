@@ -1,23 +1,51 @@
+---
+title: C05 — Immutable Gap
+record_id: C05
+record_type: concept
+register: episteme
+claim_status: Argued
+source_relation: Argued from
+source_ids: [taylor-2026-core-theorems-pithy, taylor-2026-definition-god-draft3, taylor-2026-revision-notes-trust]
+argument_consumers: [A01, A02, A03, A04, A17, A23, A27, A36]
+---
 # C05 — Immutable Gap
 
-**Definition.** The Immutable Gap is the non-coincidence between a determination and the determining condition that remains when the condition is itself represented. It is “immutable” because reflexive enlargement relocates the gap rather than eliminating it.
+## #0
 
-The distinction exists because “limit” can sound like an external boundary that more power might cross. C05 names the more exact structure: the act that includes a prior edge creates another present relation between inclusion and field. Nothing mystical has been added; the gap is the relational seam disclosed by self-reference.
+The Immutable Gap is the non-coincidence between a determination and its determining condition. Representing that condition makes another determination; the present act of representing has not become the object it presents. “Immutable” names the recurrence of this relation through enlargement. It does not mean that descriptions, instruments or lives remain unchanged.
 
-Its operation is **persistent non-coincidence under reflexive representation**. C04 gives the formal rule; C05 names the stable result. C09 Diaphaneity is its positive neighbour: the gap can become increasingly articulate and transparent even though it cannot be converted into final identity.
+[C04 — Formal Limit](C04-Formal-Limit.md) **grounds** the operation that produces the gap. C05 names what persists through its repetition. [C06 — Copula](C06-Copula-Identification-with-Difference.md) **qualifies** the result: non-coincidence need not mean severance. The terms can answer to one another precisely through the difference that their relation retains.
 
-The nearest complement is **C06 Copula / Identification-with-Difference**. The gap prevents identification from becoming fusion; the copula prevents non-coincidence from becoming severance.
+## #1
 
-**Argument consumers:** A01–A04, A17, A23, A27, A36. **Movement consumers:** opening Subject/formal-limit braid, Arche-Topos return and final idealism sequence.
+A self-portrait is an exact initial test. It can disclose something true of the person making it; a portrait of the act of portraiture can disclose more. Neither contains the present seeing through which it becomes a portrait. The difference survives the additional representation, without rendering the representation worthless.
 
-**Etymology relation:** *Symbol / Account / Trust*; exact operation: the account preserves the seam to its source rather than declaring the seam closed. Register **3**. Return: C05 → A03 → C06/A02 → C21/A18.
+[A01 — Subject and Faithful Definition](../arguments/A01-Subject-God-and-Faithful-Definition.md) **grounds** the first-person pressure in the direct defining performance. The Subject's inability to become its own exhaustive object is not inability to know itself. Recognition occurs from within the act, while a further predicate would again describe something. [C01 — Defined Indefinability](C01-Subject-Defined-Indefinability.md) **defines** that positive distinction.
 
-**Source/tradition standing:** Taylor's immutable-gap/meta-sign carrier is primary. Formal-logical and contemplative comparisons remain secondary warrants.
+## #2
 
-**Carrier disposition:** CREATE as canonical C05; live Immutable Gap argument-map remains provenance, not replaced.
+The gap relocates when the frame enlarges. What stood outside the first account can become explicit within the second. The second account then occurs through its own language, selection and situated attention. This is why a complete inventory of prior conditions would not abolish the relation between the inventory and the act now using it.
 
-## Unresolved Delta
+The [[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|core theorem spine]] **grounds** this pressure across the native eightfold. In `X/x`, a local instance discloses a capacity it does not exhaust; in `AM/IS`, first-person presence and third-person sayability meet without becoming interchangeable; `∞/dx` makes exact local difference answerable to an inexhaustible horizon. These inherit parent relation, `0/1`, question/assertion and polarity, and return through `1/0`. [A18](../arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) **grounds** their complete sequence. The gap is a relation within that field, not an unexplained object hidden behind it.
 
-Restore the primitive-worlds/formal-limits figure and exact relation to meta-sign notation.
+## #3
 
-**Depth Restoration: pending**
+The meta-sign makes this non-coincidence writable. `0` is a determinate glyph with an unusual office: it marks the condition that cannot enter the account as one more ordinary object. Its written form is available; what it marks is not thereby possessed. A represented empty set, by contrast, is a perfectly determinate mathematical object. Confusing those offices would make the symbol's availability refute the relation it was introduced to disclose.
+
+[A03 — Immutable Gap / Formal Limit](../arguments/A03-Immutable-Gap-Formal-Limit.md) **grounds** this difference through the empty-set operations and crossed-zero development. In `Ø`, the slash is initially fused with the apparent self; it can then appear as mediation, become available in a contextual relation and return as recognised unity. The stroke crossing the zero does not fill it. The sequence changes how mediation is lived, while the non-coincidence remains.
+
+## #4
+
+The lived consequence is more intimate than an observer remaining outside every picture. The trust revision's coincidence passage relates the self's inability to coincide exhaustively with its image to a life in which relations actually meet. A self can be altered by an encounter that its prior self-account could not produce. The [[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE|trust-revision source house]] **sources** that developmental pressure at §7.3 of the direct revision notes. Its exact first-person wording has a separate confirmation debt; the operation can be retained without treating the preserved formulation as an independently verified transcript.
+
+[A27 — Self and Other](../arguments/A27-Self-and-Other-Unity-without-Possession.md) **tests** this relation where another person answers. The Other's inclusion within the whole does not make the Other a possession of my account. [A17 — Toroidal Circulation](../arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) **compares** a different retained difference: a local return can preserve travelled displacement on a covering space. That mathematical relation has its own proof. It does not identify a topological hole with the Subject.
+
+## #5→0
+
+[C09 — Diaphaneity](C09-Diaphaneity.md) **extends** the positive response: mediation becomes increasingly articulate without claiming to disappear. The account can expose its position, receive correction and change what it makes possible. Transparency is active return, not a final view from outside.
+
+The [[submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|Symbol / Account / Trust whole-field]] **grounds** this operation at evidence register3. Account preserves its relation to source; trust lets a finite account guide committed action without making it sovereign over what returns. C05 **returns-to** [C02 — Faithful Definition](C02-Faithful-Definition.md), and [A36 — Integral Zero](../arguments/A36-Advent-of-Integral-Zero.md) **extends** the return of exact sign as living Symbol.
+
+**Depth Restoration:** recurrent relocation, meta-sign versus represented emptiness, crossed-zero mediation, lived non-coincidence and non-possessive return are restored. C04 retains the formal rule; C06 retains positive identification. No identity change.
+
+**Unresolved Delta:** the named primitive-worlds/formal-limits figure still lacks its exact carrier. Revision §7.3 marks its first-person line as Frank's, while the later corpus-sweep and harmonisation D4 require confirmation of the exact wording because no independent transcript was found. It is therefore used here as developmental paraphrase. No historical, topological or contemplative attribution is promoted by the native Argued claim.
