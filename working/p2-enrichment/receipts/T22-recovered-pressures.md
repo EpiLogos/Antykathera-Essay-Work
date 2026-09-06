@@ -48,3 +48,8 @@ Restored Two Ones and aspect-specific dependency, whole/plural and countercultur
 ### C55–C58 — 2026-09-07
 
 Restored the Mirror’s three motions and initiating return, compassion’s loving/non-devouring triad and offering, persistent Agentworld inheritance and anthropomorphic interface before unwarranted attribution. Bounded peer review found no material issue; 48 resolved links, raw sixfold and whitespace checks passed. Actual P1/Chang carriers replace the stale missing-Reflection-paper claim. Machine phenomenality, source quotation collation and projected social outcomes remain separate.
+
+
+### A21–A24, C11–C14, C35–C40 — 2026-09-07
+
+Restored recognitive individuation, atlas transitions and corrected Bimba, trust/surety/release and whole arbitration; full QL parents/Name–Power, conditioned script, active Śaiva reflection and finite horizon; distinct self offices and inspectable lens/judgment fields. 148 resolved links, raw sixfold and whitespace checks passed. Full generated relations survive independently of source-locator debts. MEF’s actual local reference is linked despite stale source locality prose; source houses remain untouched. No section-room propagation or manuscript work.

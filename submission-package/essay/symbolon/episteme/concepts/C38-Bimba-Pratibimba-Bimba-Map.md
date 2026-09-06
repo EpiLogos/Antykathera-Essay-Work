@@ -1,19 +1,30 @@
 # C38 — Bimba–Pratibimba / Bimba Map
 
-**Definition.** Bimba–Pratibimba names a reference/reflection relation in which a **Bimba** functions as the locally governing source/reference office and **Pratibimba** as situated reflection, appearance or judgment relative to it. A **Bimba Map** is the explicit graph/field through which such local reference relations can be organised.
+## #0
 
-The distinction exists because models need stable local reference offices without those offices being mistaken for ultimate reality. The canonical law remains:
+Bimba is Original; pratibimba is its situated display or reflection. The ontological relation preserves display without severance and dependence without diminishment. A Bimba Map is the authorial technical design by which a locally governed reference field can orient multiple judgments. These offices must remain explicit whenever the same term crosses scale.
 
-```text
-Bimba ≠ Pratibimba
-world ≠ world-model
-```
+## #1
 
-A recursively local Bimba is valid. Inside a bounded Context Frame, a project source, canonical record or agreed reference can serve as Bimba for multiple judgments. That same Bimba may remain Pratibimba relative to a wider world or source field. Recursive locality therefore gives strong operational authority without metaphysical finality.
+Ontological Bimba is prior in being and later in recognition: the Original is recognised through proportions, inversions and differences among appearances which do not exhaust it. Dyczkowski's source-matched mirror discussion places manifestation within consciousness, with no separately existing exterior original required. The doctrine is a source-specific neighbour of the native QL mirror relation, not an ancient description of a database.
 
-Its operation is **declare local reference office → relate situated reflections → preserve recursive source distinction**. C08 Context Frame gives the boundary; C37 World-Atlas gives plural model relation; C41/C42 carry the world-constituted interior consequences.
+## #2
 
-Nearest neighbours are C37, C40–C42 and C55 Reflective Field.
+The native parents `(0/1)/(1/0)` and `(1/0)/(0/1)` carry the complete body in inverse orientations. The first and returned accounts preserve their source relation. Q27's corrected optical stack places QL in the light's ordered spectrum, MEF in the refracting apparatus and pratibimba in the cast image. A technical world-picture is thus a reflection relative to the wider world; renaming it cannot make it metaphysically Original.
+
+## #3
+
+Recursive locality nevertheless gives a real reference office. Inside a declared Context Frame, a source record or agreed world-object can serve as Bimba for judgments compared with it. That same field remains pratibimba relative to wider sources and reality. The [retained Bimba carrier](bimba-pratibimba.md) explicitly restores this contextual use: local authority can be strong and operational without being final.
+
+## #4
+
+The map exposes provisional world-objects, source authority, lens, gauge, exclusions, transformation and governance as parts of the inquiry. This makes disagreement locatable: two judgments can diverge because their evidence differs, because they refer to different objects, or because permission and evaluation differ. A federation can keep several locally authoritative maps with declared transition rules instead of requiring one universal map.
+
+## #5→0
+
+Returned evidence can revise a situated judgment, a relation between reference fields, or the local Bimba itself. Stability provides orientation; corrigibility preserves truth-seeking. A map anchors by attributable source relations and contestable construction, not by storing Truth. C42 develops reciprocal world-constitution and C55 the reflective field in which the map's own authority can turn first toward its source.
+
+### Declared field
 
 **Argument consumers:** A22, A27, A30–A33. **Movement consumers:** Bimba/model, Agentworld, reflective-field and MEF movements.
 
@@ -21,10 +32,12 @@ Nearest neighbours are C37, C40–C42 and C55 Reflective Field.
 
 **Source/tradition standing:** Taylor's Bimba Map and source/reflection architecture is primary; Sanskrit and contemplative source histories remain to be restored without retroactive technicalisation.
 
-**Carrier disposition:** existing `bimba-pratibimba.md` is **MERGE/RETAIN-PROVENANCE**. C38 owns canonical identity; unique detailed material remains in the lower-case carrier.
+### Provenance
 
-## Unresolved Delta
+Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>), [Q27 with its Bimba correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), and the [federated reflective-field carrier](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md). The [MEF source house](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) has a recoverable [local twelve-lens reference](../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md) despite its stale unavailable statement. That reference is developmental architecture; its historical attributions and musical selection claims are not independently established by the compilation. [Dyczkowski](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) retains source-matched, not quotation-verified, reflection passages. Technical designs remain Offered until their own experiments establish functioning consequences.
+
+### Remaining depth
 
 Restore Sanskrit/source traditions and exact Bimba Map technical semantics, especially recursive local reference offices.
 
-**Depth Restoration: pending**
+**Depth Restoration: enriched; source/implementation debts retained.**

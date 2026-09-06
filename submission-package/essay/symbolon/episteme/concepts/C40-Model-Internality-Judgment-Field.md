@@ -1,12 +1,30 @@
 # C40 — Model Internality / Judgment Field
 
-**Definition.** Model Internality / Judgment Field is the broad inspectable field in which a model's sources, representations, memories, gauges, evaluators, intermediate judgments, alternatives and revisions become available as causal parts of an output. It supersedes any attempt to make **J-Space** the general canonical concept; J-Space remains a subordinate research object.
+## #0
 
-The distinction exists because finished outputs hide the process that made them determinate. C40 turns that process into an epistemic object without pretending that inspectability captures subjectivity or the world itself.
+Model Internality / Judgment Field makes the production of a determination an inspectable epistemic object. It includes sources, representations, memories, gauges, evaluators, intermediate judgments, alternatives and revisions insofar as they actually condition an output. J-Space is one subordinate research object within this broader field.
 
-Its operation is **externalise the judgment path for inspection and revision**. C39 MEF supplies the inquiry framework; C41 Objective Internality expands beyond the model into the context-world constituting the operative interior; C43 Computational Vimarśa gives reflexive return; C45 Operational Parity tests whether formal distinctions are visible in operation.
+## #1
 
-Nearest neighbours are C39, C41, C43, C45 and C57 Agentworld. The invariant is `model field ≠ world` and `model internals ≠ subjectivity as such`.
+A finished answer hides the selections that made it possible. The process test recovered in A14/A33 asks what was inherited, what was excluded, which rule stabilised the branch, what retains its counter-reading, what the result changes, and whether it can enter revisable common data. Observing only the final text cannot answer those questions.
+
+## #2
+
+The judgment field must distinguish its sites of causation. A source changes available evidence; a gauge changes what an evaluator measures; a permission changes available action; an inherited context changes what can count as salient. Recording these differences lets a correction target the cause of divergence. A narrative about reasoning is not automatically evidence of the process it describes.
+
+## #3
+
+A locally governed Bimba field can anchor comparison while itself remaining a constructed reflection relative to wider sources. This makes model positions, trajectories and judgments comparable without treating the model field as the world. Objective Internality is broader still: collaborators, institutions, material supports and lived conditions can constitute agency beyond what a model inspection captures.
+
+## #4
+
+Q27 distinguishes searching for a better output inside a fixed evaluation from an encounter that changes `(m, θ, Eθ)` itself. The second is an Offered design inscription, not an executed training result: representation, parameters, evaluator or commission can change together. A system that records novel answers while protecting every original category has not demonstrated model-revising encounter.
+
+## #5→0
+
+The returned judgment can become a source for later work only with its scope and provenance retained. C39 supplies the lens discipline, C43 computational self-return and C45 the check that a distinction made a discriminable operational difference. The result is an accountable model field, not possession of the world or a demonstration of subjectivity. Exact J-Space experiment history and observability requirements remain research tasks under this wider Concept.
+
+### Declared field
 
 **Argument consumers:** A14, A22, A26, A31, A33. **Movement consumers:** model-internality, MEF, prompt, evaluation and Agentworld movements.
 
@@ -14,10 +32,12 @@ Nearest neighbours are C39, C41, C43, C45 and C57 Agentworld. The invariant is `
 
 **Source/tradition standing:** Taylor MEF/J-Space/technical inquiry primary; interpretability/evaluation research supplies application evidence.
 
-**Carrier disposition:** CREATE as canonical C40. **J-Space: MOVE/SUBORDINATE** to research/experiment status beneath C40, preserving all unique material.
+### Provenance
 
-## Unresolved Delta
+Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>), [Q27 with its Bimba correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), and the [federated reflective-field carrier](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md). The [MEF source house](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) has a recoverable [local twelve-lens reference](../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md) despite its stale unavailable statement. That reference is developmental architecture; its historical attributions and musical selection claims are not independently established by the compilation. [Dyczkowski](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) retains source-matched, not quotation-verified, reflection passages. Technical designs remain Offered until their own experiments establish functioning consequences.
+
+### Remaining depth
 
 Restore exact J-Space experiments and specify the minimum observability needed for different classes of judgment.
 
-**Depth Restoration: pending**
+**Depth Restoration: enriched; source/implementation debts retained.**

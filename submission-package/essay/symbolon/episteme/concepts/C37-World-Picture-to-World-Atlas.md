@@ -1,12 +1,30 @@
 # C37 — World-Picture → World-Atlas
 
-**Definition.** C37 names the reusable epistemic transformation from a single positioned world-picture to an atlas of situated models whose domains, distortions, translations and revision routes are explicitly related.
+## #0
 
-The distinction exists because pluralism alone does not produce an atlas. Multiple pictures can remain isolated, or one can silently govern the others. An atlas requires both difference and transformation rules: what changes when the position, scale, gauge or source changes?
+A world-picture orders a view from a position. A world-atlas relates situated views through their domains, distortions, translations, overlaps and obstructions. The transformation changes the relation to picturing itself: `world ≠ world-model` remains operative through every additional view.
 
-Its operation is **situate view → expose projection conditions → relate multiple views → retain world as revision-source**. C07 Conditions of Worldhood is broader: it names what makes worlds inhabitable and actionable. C38 Bimba–Pratibimba supplies a source/reflection grammar; C39 MEF supplies a framework for explicit multi-lens inquiry.
+## #1
 
-Nearest neighbours are C07–C09, C38–C40. The invariant is `world ≠ world-model`.
+A picture can silently fix the frame within which all later pieces must fit. The recovered jigsaw/box-lid pressure asks who supplied that completed image and which possible arrangements it excludes. More panels do not remedy the problem if one panel still decides what the others are allowed to show. The atlas begins by exposing each picture's projection conditions and authority.
+
+## #2
+
+The corrected stained-glass image makes those conditions tangible. Originary white light bears Bimba; the ordered implicate spectrum bears QL; panes, angles, colours, media and joins bear MEF; the cast image is pratibimba. Moving viewer, sun or pane changes the appearance. The seams preserve source differences and translation limits rather than concealing them beneath a composite picture.
+
+## #3
+
+A usable transition states what changes with position, scale, gauge or source and what remains comparable. It can also state why composition fails. Disagreement at a source, reference field or permission cannot be solved by averaging the outputs. The atlas preserves a route between views while allowing a genuine obstruction to remain an informative result.
+
+## #4
+
+An atlas and an attractor do different work. The former coordinates charts; the latter organises trajectories within a dynamical field. Symbolic amplification traverses partial disclosures, while the encounter can change the interpreter and the future paths available. The 180→360 contextual turn holds conditions and positions together without appointing an omniscient observer outside them.
+
+## #5→0
+
+Return makes the world a continuing source of revision. An encountered person can answer the categories under which they were counted; a model can alter the reference used by later models; an obstruction can force a change of frame. C38 governs local reference/reflection, C39 the lenses, and C47 the model-revising encounter. The atlas remains an achievement inside worldhood, capable of correction by what it maps.
+
+### Declared field
 
 **Argument consumers:** A22, A26–A27, A31, A34. **Movement consumers:** worldhood, Bimba/Pratibimba, MEF and idealism movements.
 
@@ -14,10 +32,12 @@ Nearest neighbours are C07–C09, C38–C40. The invariant is `world ≠ world-m
 
 **Source/tradition standing:** authorial world-atlas development primary; cartographic, perspectival and model-pluralist traditions are Episteme warrants.
 
-**Carrier disposition:** CREATE as canonical C37; world-atlas material dispersed through Objective Internality/MEF remains provenance.
+### Provenance
 
-## Unresolved Delta
+Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>), [Q27 with its Bimba correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), and the [federated reflective-field carrier](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md). The [MEF source house](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) has a recoverable [local twelve-lens reference](../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md) despite its stale unavailable statement. That reference is developmental architecture; its historical attributions and musical selection claims are not independently established by the compilation. [Dyczkowski](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) retains source-matched, not quotation-verified, reflection passages. Technical designs remain Offered until their own experiments establish functioning consequences.
+
+### Remaining depth
 
 Restore cartographic examples and exact criteria for valid translation among models.
 
-**Depth Restoration: pending**
+**Depth Restoration: enriched; source/implementation debts retained.**

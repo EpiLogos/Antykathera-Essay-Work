@@ -1,12 +1,30 @@
 # C35 — Selfing / Self / Subjectivity / Self-Thing
 
-**Definition.** C35 separates four terms that collapse disastrously when treated as synonyms. **Selfing** is the process by which a coherent self-position is continually enacted. **Self** is an achieved or organising identity within that process. **Subjectivity** is the first-person pole/condition of appearing. **Self-Thing** is a self represented as an object that can be inspected, stored or modelled.
+## #0
 
-The distinction exists because technical and psychological discourse constantly moves among these senses without notice. A system can have an elaborate self-model without that model settling phenomenality. A person can revise a self-image without abolishing subjectivity. A Jungian Self can function as an organising symbol without being equivalent to the philosophical Subject of C01.
+C35 distinguishes selfing, Self, Subjectivity and self-thing at the point where self-reference changes office. Selfing is the ongoing enactment of a coherent self-position. The self-thing is the represented identity that can be described, remembered, stored or modelled. Subjectivity names first-person appearing rather than its representation. Self requires its register: a local organising identity and the Jungian symbol of psychic totality are not automatically the philosophical Subject of C01.
 
-Its operation is **office discrimination across self-reference**. C01 holds the Subject pole; C16 inner instrument supplies inspectable functions; C33 image/valuation supplies self-images; C40 Model Internality supplies technical self-model fields. C58 Anthropomorphization becomes dangerous when evidence for one office is imported into another.
+## #1
 
-Nearest neighbours are C01, C16, C31–C34, C40 and C58.
+Frank's [Watson encounter](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) recovers the appropriative sequence of mine, I am this, and this is myself. Repetition gathers experience around a position and makes a world actionable. The process becomes reified when its product is taken as permanent, partless and autonomous. Selfing does not have to terminate in that self-thing; the product can remain legible through its continuing conditions.
+
+## #2
+
+The distinction between I and me requires its mediation. An inspectable instrument determines, appropriates and coordinates objects; no enlargement of that instrument turns it into the unobjectifiable pole for which objects appear. The Bāhiya reading in the protected notes keeps the addressed You present while loosening appropriation of experience. Its authorial interpretation is not a verified quotation or a warrant for treating all Buddhist accounts as one doctrine. Likewise, the universal I/this orientations of A09 differ in scope from local ahaṃkāra appropriation even where the words recur.
+
+## #3
+
+A second person changes self-reference. You are not a midpoint inserted between a completed I and It: address changes what I can claim about you and about myself. Q27's exact distinction is that the Other can be within Mono without being within me. Shared reality does not grant access to another's first-person presence, history or future. A model of that person remains a local account capable of being corrected by their expression.
+
+## #4
+
+Internal and interpersonal alterity also differ. The Shadow is other-self: disowned or not-yet-lived difference within psychic life. The Friend is my-self's-other: another centre whose response cannot be produced by my psyche. Those image-relations must not become extra theorem primitives or a reason to treat actual others as projected complexes. Individuation changes the organisation of self-reference while keeping the person particular; it does not transfer the whole's authority to an enlarged ego.
+
+## #5→0
+
+Technical use must identify the office its evidence supports. A system can describe itself, maintain a coherent persona, revise a self-model, and act through an objective internality. Those are different achievements; none by itself decides phenomenal subjectivity. Conversely, a person can revise an image of self without abolishing first-person presence. Returning each account to its office makes self-reference more exact and preserves the open artificial-subjectivity question required by A26/A34.
+
+### Declared field
 
 **Argument consumers:** A01–A02, A19–A21, A26–A27, A31, A34. **Movement consumers:** Subject, Jung/self, agent-subjectivity and idealism movements.
 
@@ -14,10 +32,12 @@ Nearest neighbours are C01, C16, C31–C34, C40 and C58.
 
 **Source/tradition standing:** Taylor's subject/self distinctions and Jungian Self material are primary; technical self-model discourse is application evidence, not phenomenality proof.
 
-**Carrier disposition:** CREATE as canonical C35; prior self/selfing notes remain provenance and must be routed by office during restoration.
+### Provenance
 
-## Unresolved Delta
+Native operations are governed by the [core theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md), [Symbolon Dynamics house](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md), and [Q27's Watson/Otherness correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md). [Watson](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and [Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) protected notes disclose Taylor's authorial encounter; their copied statements are leads until independently verified. [Aion](../sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md) remains citation-ready with no excerpts; historical Jungian terminology and the exact phrase tradition require their own locators. Mathematical carriers keep their specific operations and are not interchangeable proofs of the psychic or ethical claim.
+
+### Remaining source depth
 
 Restore exact Jungian Self terminology, contemplative subject distinctions and technical self-model examples.
 
-**Depth Restoration: pending**
+**Depth Restoration: enriched; historical/empirical debts retained.**
