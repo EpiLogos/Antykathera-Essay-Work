@@ -1,12 +1,30 @@
 # C33 — Image / Valuation
 
-**Definition.** Image / Valuation names the relation by which a formed appearance acquires significance, attraction, threat, authority or desire within a situated field. The image is the determinate carrier; valuation is the pattern of force through which the carrier matters.
+## #0
 
-The distinction exists because images do not possess their psychological or political power simply by resembling an object. A self-image, enemy-image, icon, score, persona or model becomes operative through the values gathered around it. C33 therefore lets the essay analyse possession without treating every image as deceptive.
+Image / Valuation names the relation by which a formed appearance acquires significance, attraction, threat, authority or desire within a situated field. The image gives the force a local carrier; valuation makes that carrier matter enough to alter attention and action.
 
-Its operation is **formed appearance → attributed/precipitated value → altered salience and action**. C31 Complex can organise valuation; C32 Archetype can be inferred through recurring images; C21 Living Symbol / Idol discriminates whether the valued image remains answerable to a source; C38 Bimba–Pratibimba distinguishes source/reference office from situated reflection.
+## #1
 
-Nearest neighbours are C21, C31, C32 and C35 Selfing. The critical failure is not strong valuation as such but insulation from encounter: an image becomes possessive when its valuation cannot be revised by what it represents.
+An archetypal image is a concrete appearance; archetype-as-such is the ordering capacity no appearance exhausts. A complex organises associations and feeling-tones; a symbol transforms their relation. [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>) preserves these different offices. A recurrent image can disclose a pattern without becoming the pattern's final form.
+
+## #2
+
+Valuation gathers associations and redistributes psychic investment: what looks threatening, desirable, authoritative or negligible changes with the organisation of the field. A complex can settle this distribution before reflective judgment. In the source's dynamic reading, the image can reinforce a familiar trajectory, expose its boundary, or help move between regimes. Its force is therefore more than resemblance to a depicted object.
+
+## #3
+
+Possession is an office change. The image stops answering to encounter and requires what it represents to conform to its assigned value. A self-image can rule which experiences count as mine; an enemy-image can make a response legible only as confirmation of threat. In the technical extension, a profile or score occupies the same office when contrary testimony can alter neither its categories nor the decisions authorised through them. The issue is insulation from revision, not intensity of feeling or the mere use of representation.
+
+## #4
+
+A living symbol changes the interpreter as well as the interpreted object; the changed interpreter changes what the image can do on its next return. Frank's protected encounter with Van Eenwyk pp.69–73 follows known→unknown→known and distinguishes a deliberately made vehicle from symbolic efficacy. Assigning a mythic name to a model does not produce that efficacy. The test is an actual transformation of attention, interpretation and relation, including the capacity for the source to revise the image's authority.
+
+## #5→0
+
+The returned image remains usable while its valuation becomes answerable to what it discloses. C21 distinguishes living symbol from idol; C38 distinguishes original/reference office from situated reflection; C47 asks whether the encounter can change the governing model. Valuation is preserved as the power by which a world matters, with a route through which that power can be reoriented.
+
+### Declared field
 
 **Argument consumers:** A19–A22, A27, A31. **Movement consumers:** complex/image, world-picture, Self/Other and model-revision movements.
 
@@ -14,10 +32,12 @@ Nearest neighbours are C21, C31, C32 and C35 Selfing. The critical failure is no
 
 **Source/tradition standing:** Jungian image/archetype theory and authorial Symbolon work are primary; media/technical representations are bounded application fields.
 
-**Carrier disposition:** CREATE as canonical C33; prior image/valuation material remains developmental provenance.
+### Provenance
 
-## Unresolved Delta
+[Symbolon Dynamics source house](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) carries the authorial synthesis; [Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) and its protected sibling notes carry the source encounter. Notes are authorial provenance and copied quotation leads; the source has no verified passages. [Jung's Aion](../sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md) is citation-ready with no excerpts. The native operations retain their Argued standing while exact Jung/Van Eenwyk attribution remains Open.
+
+### Remaining source depth
 
 Restore Jung source passages, valuation theory and technical examples where model-images acquire institutional force.
 
-**Depth Restoration: pending**
+**Depth Restoration: enriched; exact external passage debts retained.**

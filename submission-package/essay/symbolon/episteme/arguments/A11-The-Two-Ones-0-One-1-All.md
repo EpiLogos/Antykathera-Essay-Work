@@ -2,28 +2,54 @@
 
 **Standing:** canonical semantic Argument; historical Argument 13 and live `19-two-ones-mono-poly-matheme.md` remain provenance.
 
-## Argument
+## #0
 
-The Two Ones are prior to Mono/Poly and prior to Dia/Syn. This ordering is canonical. `0` bears **One** as the uncounted condition of determination; `1` bears **All** as determinate manifestation — every actual mark insofar as it appears through relations it does not generate or own. The compressed formula is therefore:
+The primordial slash, `/ = −/−`, is relation before its terms have been assigned. The marks cannot first be collected as independently finished things and then related: their difference becomes legible through the relation. The Two Ones articulate this prior operation before Mono/Poly develops its ontological consequence and before Dia/Syn accounts for the differentiated field.
+
+## #1
+
+The authorial offices are exact:
 
 ```text
-0 = One
-1 = All
+0 = One = Self-Identity
+1 = All = Self-Difference
 ```
 
-This does not equate ordinary arithmetic zero with a metaphysical deity, nor ordinary arithmetic one with the numerical totality of things. It assigns two offices inside the authorial QL relation `0/1`. Zero names the condition that does not enter the count as one further positive item; one names the fact of determinate manifestation, repeated in every local `1`. The “two ones” are thus two senses of unity: the unity of ground and the unity achieved by a determinate articulation of that ground.
+One is the non-objectifiable identity present through determination without entering its inventory as one further item. All is the entire manifest and determinable field, and every indefinite particular in which that field locally appears. The first mark opens the possibility of marks, names, beings and worlds. All therefore cannot shrink to a list of discrete things; its plurality is already active in the relations that make any one of them this one.
 
-The formal neighbour matters without becoming the proof. Whole-number counting includes `0`; positive natural counting begins at `1`; the von Neumann construction gives `1 = {0}`. This demonstrates a formal situation in which a first positive mark includes a represented zero it does not itself generate. QL takes up a different question at that seam: what is the relation between the condition of determination and whatever becomes determinate?
+The broken symbolon gives a concrete relation: its singular and polyvalent halves remain distinct while fitting through their real seam. A mark, image, name or person bears its source-relation without enclosing the source as another mark. Frank's Draft3 corrections require this operation to remain visible wherever a generic ground/mark label would conceal it.
 
-The Two Ones prevent a recurrent conceptual collapse. If only the first unity is kept, manifestation can be dismissed as unreal or derivative in a way that empties difference of force. If only the second is kept, every determinate part can appear self-grounding. `0/1` holds the asymmetry: the local form is real, exact and consequential, but its actuality is relational from the beginning.
+## #2
 
-## Pressure and distinctness
+The slash gives the Two Ones reciprocal dependency in distinct respects. `1` depends on `0` for being, coherence and determining reality; `0` depends on `1` for manifestation, articulation, reflection and knowability. This is neither symmetrical causal production nor an event in which zero existed for a time before one arrived. The condition becomes manifest through what depends on it, while the manifestation cannot possess that condition.
 
-A10 makes zero mathematically operative; A11 gives zero and one their native QL offices. This argument must come before A12 because Mono/Poly names the ontological whole/many consequence of the two offices. It must come before A13 because Dia/Syn describe operations upon a differentiated field. Reversing that order would make the two logics generate the ontological poles they are supposed to operate upon.
+The [Q27 authorial correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) calls this dependency trust at the root. A being does not first establish a neutral reality and then decide whether to depend on it. Perception, memory, language and action already enact the dependency that later becomes explicit as knowledge, belief and faith. A23 develops that epistemic and existential fidelity; A11 preserves the relation that makes it possible. Distinguishing the Arguments cannot sever their common root.
 
-A11 also protects A18 from becoming an arbitrary eightfold. The transverse determinations arise from one primordial relation whose ground and mark already have distinct offices.
+## #3
 
-## Relations and Return
+`0/1` reads the condition becoming articulate; `1/0` reverses the orientation, returning a determinate form towards what it cannot make into a further determinate possession. Their retained co-presence is `(0/1)/(1/0)`: the same relation read from both ends, with its non-coincidence intact. Ordinary arithmetic remains asymmetric: `0/1` computes, `1/0` is undefined. The authorial relation does not assert equality between two ordinary numerical values.
+
+A10's formal floor supplies a precise neighbour: in von Neumann's representation, `0 = ∅`, `1 = {0}`, and `2 = {0,1}`. Membership is the operation by which the first positive ordinal contains the represented zero. The QL zero is not that set-theoretic object. The construction locates a question about the condition and its articulation; it does not prove the native One/All offices.
+
+## #4
+
+Self-application keeps the binary inputs as well as the binary of the binary:
+
+```text
+single terms: 0, 1
+two-place possibilities: 00, 01, 10, 11
+retained terms + their self-relation: 2 + 2² = 4 + 2 = 6
+```
+
+The six is generated by retaining two original terms with their four pairings. Counting only the pairs would lose what the pairs relate; relabelling six themes would not perform the derivation. `4+2` names generation. `4:2` subsequently reads orientation; `3:3` and `3:1` read recognition through different folds. Those operations must not replace one another.
+
+The complete native determination order remains `/ = −/− → 0/1 → ?/! → −/+ → X/x → AM/IS → ∞/dx → 1/0`. Parent relation and return bracket the six positions. The root is thus carried through assertion/question, signed force, capacity/particular, personed presence, differential exactness and return, not abandoned for eight independent analogies. The complementary Essence (0+5), Constitution (1+4), and Text-Texture (2+3) folds cross Being, Becoming and Knowing/unKnowing within that field.
+
+## #5→0
+
+The achieved `1` returns to its condition with its determination intact. It remains real, exact and consequential while relinquishing the claim to generate all that makes it real. A12 follows this as Self-Identity becoming real Self-Difference; A13 follows the two logics; A18 carries the transverse determinations. This ordering prevents either logic from being made to generate the primordial offices upon which it already operates.
+
+### Declared field
 
 **Concept dependencies:** C11 Quaternal Logic, C49 The Two Ones, C50 Dia/Syn, C52 Dimensional Reframing.
 
@@ -35,12 +61,8 @@ A11 also protects A18 from becoming an arbitrary eightfold. The transverse deter
 
 **Matheme:** `0/1`, `/ = −/−`, inverse `1/0`; **Mytheme:** One/All images and source/manifestation whole-relations; **Episteme:** number history and cross-traditional unity claims remain comparative warrants, not derivation.
 
-## Provenance
+### Provenance and remaining depth
 
-Historical Argument 13; Taylor `Mono-Poly, the Two Ones, and the Whole Field`; Core Theorems; live `19-two-ones-mono-poly-matheme.md`; Q27 and ratified architecture.
+Direct recovery: [Taylor Mono-Poly source house](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md), its [complete manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>), the [core theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md), Draft3's authorial corrections and Q27's ratified trust/One-All contribution. Internal authorial derivation has its own standing; historical mathematics, Buddhist/Śaiva doctrine, psychology, myth and institutions retain distinct source houses and passage debts.
 
-## Unresolved Delta
-
-Restore the complete local theorem derivation and every notation step between the primordial slash, two offices and generated self-relation. Preserve the strict order A11 → A12/A13.
-
-**Depth Restoration: pending**
+P1 consumers M06, M15, M18, M24 and M26. External mathematical neighbours retain their own proof and attribution requirements. **Depth Restoration: enriched; named source and residue debts retained.**

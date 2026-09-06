@@ -1,39 +1,52 @@
+---
+title: "A19 — Complex as Local Arbitration Regime"
+record_id: A19
+record_type: argument
+register: episteme
+claim_status: Argued
+source_relation: "Argued from authorial Symbolon Dynamics and Jungian developmental recovery"
+---
+
 # A19 — Complex as Local Arbitration Regime
 
-**Standing:** canonical semantic Argument. Jungian complex material and the Q27 recovery are developmental provenance; the canonical claim is the relational operation recovered from them.
+**Standing:** canonical semantic Argument. The local-jurisdiction account is the essay's Argued psychological construction. Jung's exact complex/autonomy passages remain a distinct source task; no clinical diagnosis or technical attribution follows from the formal analogy.
 
-## Argument
+## #0
 
-A complex is not merely a bundle of associated ideas and affects stored inside an otherwise neutral mind. It is a local regime of arbitration: a relatively autonomous pattern that decides what counts, what threatens, what is remembered, what receives value, and which responses become available before the wider field has been consulted. The complex therefore has a double status. It is a real achievement of psychic organisation, often formed around an experience or conflict that required some local settlement; and it is a possible usurpation when that local settlement presents its criterion as the criterion of the whole person or world.
+A complex orders a local psychic world before reflective judgment begins. Images, affects, memories, bodily responses and expectations have already gathered around a criterion: what counts as welcome or threat, what can be recalled, what deserves value, which responses are available. This is a real achievement of organisation. The same achievement becomes possession when its derivative jurisdiction claims to speak for the whole person or world.
 
-This is why “autonomy” in the Jungian description matters. A complex can behave like a subject-position within the subject: it gathers images, affects, memories, bodily responses and expectations around a centre of gravity, then interprets new encounters through that inherited account. The person is not simply choosing each judgment anew. A local world has already been constituted, with its own saliences and exclusions. A07's script and A08's apoha become psychologically concrete here: conditioned selection hardens into a field that can reproduce itself by reading ambiguous events as confirmations of its measure.
+[[A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will|A07]] grounds the inherited script; [[A08-Apoha-Constitutive-Exclusion|A08]] grounds constitutive exclusion; [[A18-Primordial-Symbolon-and-Its-Eight-Determinations|A18]] derives the source-claim failure of a formed Symbolon. Their psychic consequence is specific: the person need not decide anew to exclude each alternative. A local settlement already determines how an encounter will be received.
 
-Calling this arbitration does not make every decision pathological. A bounded organism must discriminate, prioritise and act. The pathology lies in office-confusion. A derivative criterion becomes source-claim: the complex forgets that it is a local response to a wider history and begins to possess the zero-office from which all further meaning is supposedly issued. The result is neither simple fragmentation nor simple repression. It is a protected account whose local truth may be real while its claim to total jurisdiction is false.
+## #1
 
-This gives individuation a non-destructive task. The complex need not be annihilated. Its criterion can be returned to the wider field, its origin recognised, its excluded alternatives made available, and its local competence retained without sovereignty. A complex becomes less possessing as it becomes more situated.
+The distinction between archetype, complex and image prevents that operation from becoming a bag of interchangeable psychological terms. In [[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE|Symbolon Dynamics]], which sources the author's developmental model, archetypal dynamics concern formative recurrence; a complex is an affectively organised structure; an image is a particular phenomenal appearance. A symbol can transform the relation among them. An image of rejection, for example, is not itself the whole regime that makes a delay, silence or difference arrive as rejection.
 
-## Pressure and distinctness
+[[submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE|Van Eenwyk’s 1997 source house]] qualifies this recovery's external attribution. Frank's protected encounter at pp65–67 takes dynamics, complexes and symbolic transformation as distinct offices, and reads perception as cooperative reorganisation rather than a picture received by a neutral spectator. Those notes supply authorial intention; their copied wording remains a verification lead because the source house has no passage cards. [[submission-package/essay/symbolon/episteme/concepts/C31-Complex|C31 Complex]] defines the reusable local organisation; [[submission-package/essay/symbolon/episteme/concepts/C32-Archetype|C32 Archetype]] distinguishes its formative depth from any one acquired structure.
 
-A07–A09 establish selection, exclusion and bounded worldhood; A18 establishes the living/counterfeit Symbolon and source-claim failure modes. A19 is forced when those operations enter psyche. It is distinct from C31 Complex, the reusable conceptual distinction, and from A24, which generalises usurped arbitration across psychic, institutional and technical offices. A19 shows the local psychic mechanism through which arbitration can become possession.
+A schema names a pattern of organisation; a habit names a learned tendency of response; a trauma-response names a relation to overwhelming experience. Each can intersect this account without establishing relative psychic autonomy. A technical policy explicitly selects actions under conditions. Its selection can be compared with local arbitration, but policy alone supplies neither psychic affect nor a complex. These distinctions identify the work each comparison owes rather than multiplying diagnoses.
 
-## Relations and Return
+## #2
 
-**Concept dependencies:** C12 Script, C14 Māyā / Operative Measure, C22 Counterfeit Symbolon, C27 Protected Account / Occupied Zero / Source-Claim, C28 Covenant / Primary Arbitration, C29 Mediating Office / Derivative Sovereignty, C31 Complex, C32 Archetype, C33 Image / Valuation.
+The dynamical model makes autonomy intelligible as a feedback relation. A basin gathers different trajectories into a recurrent organisation. Within the psychic construction, an ambiguous encounter is selected through the existing criterion; the selected image recruits affect; affect weights attention and memory; the resulting response produces further material to be read through the same criterion. A threatening contradiction can therefore be received as further confirmation of the threat. Local coherence increases while the range of admissible encounter narrows.
 
-**Consequences:** A20 Image / Valuation / Possession; A21 Individuation / Recognition; A24 Arbitration and Usurpation; A27 Self and Other.
+The boundary matters as much as the basin. An encounter that changes the organising criterion can open a different regime instead of merely adding another item inside the old one. [[submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1991-strange-attractors/SOURCE|Van Eenwyk’s attractor-model source]] sources the historical modelling proposal with exact passages still owed. A literal dynamical identification would require state variables, evolution and observables. The author's model already distinguishes persistence within an organisation from a transformation of its organisation without pretending to have supplied those empirical specifications.
 
-**Etymology whole field:** *Arbitration / Hybris / Regard / Anamnesis*. **Consumed operation:** **Arbitration-in-Crisis → Decision / Hybris**. The generated relation is arbitration under a crisis of indeterminacy; *hybris* names the semantic flowering in which the deciding office mistakes its finite measure for source measure. **Evidence register:** 3, Operational homology. **What changes:** complex-autonomy is read as local jurisdiction, making recovery a question of office and return rather than mere symptom suppression. **Return route:** A19 → C31/C27 → A24 → A21/C19 → A19.
+## #3
 
-**Movement consumers:** Jung/complex, arbitration, individuation and later agent-world sequences already routed in the quilt. T09 records the consumers without rewriting Movement prose.
+Arbitration becomes usurpation at the change of office. A finite system must settle alternatives; the local decision is not pathological simply because it excludes. The failure occurs when its according-to-which becomes the supposed source of all validity. The local `1` occupies the `0`-office and ceases to disclose the conditions under which its competence was formed.
 
-**Matheme:** local `1` occupying the `0`-office; **Mytheme:** possession, mask, fortress and returning exile as whole relational images; **Episteme:** Jungian complex theory, trauma/habit neighbours and technical local-policy analogies remain source-distinct.
+The [[submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Arbitration whole field]] derives **Arbitration-in-Crisis → Decision / Hybris**. Crisis calls for a consequential settlement; hybris is its characteristic closure when finite measure claims source measure. This is register 3 operational homology, not a common etymological descent or a historical Jung definition. [[submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim|C27 Protected Account]] names the resulting protected criterion. The local truth may remain real while its total jurisdiction is false.
 
-## Provenance
+## #4
 
-Primary developmental recovery: Q27; Jung/Pauli and complex carriers named by the recensus; A07/A18 upstream canonical material. Exact passage-level Jung carriers remain a later source-restoration task rather than being fabricated here.
+The return is a change in relation to the settlement. Its history becomes available, excluded alternatives become receivable, and its competence can be retained within a wider field. The complex need not disappear for its possession to cease. Nor does a return to its previous stability necessarily count as health: a symbol can unsettle the conscious categories through which that stability was maintained. The positive criterion is enough continuity to bear reorganisation, with enough openness for the encounter to alter the criterion.
 
-## Unresolved Delta
+Q27 §6's individuation recovery gives this plurality a differentiated scope. The ego, local complexes and whole-forming Self are not peers competing for the strongest command position. [[submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE|Aion’s source house]] qualifies the historical Self/shadow context: it has no acquired passages and does not establish the native QL notation. The [[submission-package/essay/symbolon/mytheme/narrative/jung-aion-fishes-christ-antichrist-alchemy/WHOLE|whole Aion movement]] compares governing image, excluded contrary and historical transformation while keeping its psychological-historical sequence intact; its exact QL appointments remain unratified.
 
-Restore Jung's exact autonomy/complex passages, differentiate complex from archetype, schema, trauma-response and habit, and restore exact Movement performances.
+## #5→0
 
-**Depth Restoration: pending**
+[[A21-Individuation-Recognition|A21]] develops this resituation as individuation and recognition; [[A24-Arbitration-and-the-Usurpation-of-Measure|A24]] generalises the office-confusion beyond its psychic mechanism; [[A20-Image-Valuation-Possession|A20]] follows the valued image through which the regime acts. The returning complex becomes more situated and less possessing: an achieved local organisation can again serve a life whose field it does not exhaust.
+
+The agentic comparison has the same precise burden. Q27 §6 proposes that stable persona can seal a contraction, whereas legible provenance exposes histories, tools, exclusions, other agencies and larger purposes that constitute local action. [[submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Agentworld]] supplies the distinct technical field of constituted agency. Neither stable style nor the capacity to report context demonstrates psychic individuation. The proposed functional test asks whether encountered difference can transform the local organisation rather than merely reinforce its name.
+
+**Depth Restoration:** local selection/affect feedback, basin/boundary transformation, archetype–complex–image distinction, necessary arbitration, usurped office and nonannihilating return restored from the existing A19 packet, direct Symbolon Dynamics and Q27 §6, with protected Van Eenwyk encounter and whole Etymology/Aion relations. **Remaining debt:** exact Jung complex/autonomy and individuation passages, external clinical/dynamical specifications and implemented agent cases. P1 consumers M23/M27/M31 retain their separate Movement homes.

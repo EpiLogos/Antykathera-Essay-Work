@@ -38,3 +38,8 @@ Restored conditioned formation versus script, qualified preclusion and live posi
 ### A09–A10, A17–A18, A28, C07–C08, C53–C54 — 2026-09-07
 
 Restored effective tattvic contraction and zero’s distinct permissions; finite address/infinite lift, full eightfold and inverse folds; recursive commissioning, worldhood/context, delegated labour and non-monopolising commons. Targeted sixfold, whitespace and 123 resolved-link checks passed. Native operations retain their claim strength; exact doctrinal sequencing, historical priority, formal-source locators, empirical deployment and cultural outcomes remain named debts. The source-return obligation reaches the commissioning office itself. No section-room or manuscript changes.
+
+
+### A11–A12, A19–A20, C09–C10, C33–C34 — 2026-09-07
+
+Restored Two Ones and aspect-specific dependency, whole/plural and counterculture sequence; complex/image jurisdiction and basin transformation; invested diaphaneity, epistemic mediation and differentiated individuation. 79 resolved links, raw sixfold and whitespace checks passed. Archetype/image/complex/Self remain distinct; source-occupation is the failure, not determination or valuation. Exact external passages, clinical specifications, Alpha/Delta residue and implemented outcomes remain local debts. No section-room propagation.
