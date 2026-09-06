@@ -1,23 +1,46 @@
+---
+title: "C31 — Complex"
+record_id: C31
+record_type: concept
+register: episteme
+claim_status: Argued
+source_relation: "Authorial local-arbitration operation developed through Jungian source encounters"
+---
+
 # C31 — Complex
 
-**Definition.** A complex is a relatively autonomous psychic organisation of affect, image, memory, expectation and judgment that can function as a local centre of arbitration within the wider psyche.
+## #0
 
-The distinction exists because “bias” or “belief” is too thin for the developed phenomenon. A complex does not merely hold content; it can reorganise salience, select evidence, precipitate bodily response and reproduce a local world. Its autonomy is therefore functional and relational.
+A complex organises what can matter before reflective judgment arrives. **A relatively autonomous psychic organisation of affect, image, memory, expectation and response**, it makes some evidence salient, some encounters threatening and some actions available. Its local order is an achievement of psychic life. [[A19-Complex-as-Local-Arbitration-Regime|Complex as local arbitration regime]] identifies the danger when this derivative competence installs itself as the measure of the entire field.
 
-C31 operates as **local jurisdiction over meaning and response**. C33 Image/Valuation supplies a chief medium; C27 Protected Account names the source-usurpation failure; C34 Individuation names the larger process by which a complex can be re-situated without annihilation.
+## #1
 
-Nearest neighbours are C12 Script, C32 Archetype and C33 Image/Valuation. Archetype is not another word for complex: an archetypal pattern can organise images beyond a particular autobiographical complex.
+The recurrent loop is operative: a selection of the encounter elicits affect; affect lends urgency and apparent certainty to a response; the response and its consequences confirm the initial selection. [[submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation|Image / Valuation]] supplies the image through which an Other or situation is met and the investment that makes it count. An image of threat can preselect evidence before an account of the threat has been consciously examined.
 
-**Argument consumers:** A19–A21, A24, A27, A35. **Movement consumers:** Jung/complex, possession, individuation and cultural-return movements.
+The complex's autonomy is functional and relational. It can speak and act against an ego's declared intention without being another complete person inside the person. The wider psyche is not an otherwise neutral container interrupted by an alien object. Its existing relations give the complex both its history and its power to recur.
 
-**Etymology relation:** *Arbitration / Hybris / Regard / Anamnesis*; consumed operation: **Arbitration-in-Crisis → Decision/Hybris** explains how a local complex can promote its measure; **Resolution-in-Reconciliation → Recognition** supplies return. Register **3**. Return C31 → A19 → C34/A21 → C31.
+## #2
 
-**Source/tradition standing:** Jungian complex theory is primary; trauma/schema/habit and technical policy analogies remain neighbours only.
+[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE|Symbolon Dynamics]] distinguishes complex, archetype, image and symbol through their different work. The complex stabilises a recurrent organisation of association and response; [[submission-package/essay/symbolon/episteme/concepts/C32-Archetype|archetypal dynamics]] supplies a generative recurrence which exceeds any particular autobiographical organisation; the image gives that organisation a particular appearance; the symbol can transform the organisation itself.
 
-**Carrier disposition:** current `complex.md` is **MERGE/RETAIN-PROVENANCE**. C31 owns the canonical ID; the developed lower-case file remains intact as a source carrier.
+The basin comparison makes a boundary visible. A trajectory repeatedly returns toward an organisation, yet not every encounter belongs to the same basin. Perturbation can expose a boundary or lead to a different regime. Symbolic return is therefore not always restoration of the old equilibrium. Enough integrity to persist and enough openness to reorganise belong together. This is Taylor's developed dynamical/psychic relation, not a claim that a measured equation for every clinical complex has been supplied.
 
-## Unresolved Delta
+## #3
 
-Restore exact Jung passages and separate complex, archetype, schema, subpersonality and trauma-response.
+Frank's protected [[submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE|Van Eenwyk encounter]] at pp.65–73 sharpens the distinction: archetypes as dynamics, complexes as structures, symbols as mechanisms of energetic transformation. The p.67 encounter makes the symbol capable of undoing a conscious category and permitting a more complex organisation. A symbol can also intensify an established complex; numinous force by itself does not certify successful return.
 
-**Depth Restoration: pending**
+[[submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim|The protected account]] names the usurpation: the local settlement exempts its own measure from revision while treating every new witness as further material for the same verdict. The [[submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Arbitration field]] keeps Arbitration-in-Crisis prior to its hybris flowering. Finite life must settle alternatives; failure occurs when the deciding office mistakes its local measure for source measure.
+
+## #4
+
+Neighbours identify different objects. A habit names a learned regularity of action; a schema a pattern for organising interpretation; a trauma-response a response related to traumatic experience; a subpersonality a particular model or personification of psychic plurality. None automatically supplies the complex's affective autonomy and local world-making office. A script or technical policy can repeat an analogous arbitration, but this does not establish that it is a psychic complex or that its system experiences possession.
+
+The technical extension in the Van Eenwyk notes asks how harness, tools and world participate in an agent's recurrent organisation. [[A24-Arbitration-and-the-Usurpation-of-Measure|Monoculture]] tests the hidden local measure, and [[A27-Self-and-Other-Unity-without-Possession|the Other]] tests whether encounter can change it. These are named functional applications; exact Jungian clinical attribution remains a separate source task.
+
+## #5→0
+
+[[submission-package/essay/symbolon/episteme/concepts/C34-Individuation|Individuation]] re-situates the complex without exterminating its acquired competence. A local agency can be recognised, related to others and made answerable without being allowed to impersonate the whole. The Self is not a larger complex promoted to chief executive. [[A21-Individuation-Recognition|Recognition and individuation]] changes the relations among agencies and returns the person's account to what it had excluded. C31 supplies the local organisation whose jurisdiction changes in that movement.
+
+**Provenance and debt:** A19/A21 recovery, the complete direct Symbolon Dynamics and Van Eenwyk SOURCE/protected NOTES supply the restored operation. [[submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE|Jung’s Aion]] carries the historical Self/shadow field but presently has no verified excerpt for exact autonomy/complex wording. Van Eenwyk's copied quotations also remain passage/edition leads. The earlier proposed `complex.md` carrier is not present in the live tree; no replacement provenance file is invented.
+
+**Depth Restoration:** canonical complex/arbitration/transformation operation restored; exact clinical and historical formulations retain named source debt.

@@ -78,3 +78,8 @@ Restored Epi-Logos’s ratified harmonisation office, bidirectional whole-bearin
 ### A34–A36, C21–C28 — 2026-09-07
 
 Restored first-class ontological dependence, loving source-return and Integral Zero, together with living/counterfeit symbols, distinct severance/fusion, counter-generation and covenant before derived office. Peer review restored the full native parent `/ = −/−`; C26 retains the forgotten condition within candidate `(1)`, and C25 preserves Ostrom's affected-participant scope. 134 resolved links, intended-target, raw sixfold and whitespace checks passed. External historical and empirical gates remain distinct from authorial claim strength.
+
+
+### C30–C32 and completed A/C acceptance — 2026-09-07
+
+Restored psychoid number's distinct research crossing and adopting-system transformation, complex as affective local arbitration, and archetype as generative organisation through variable manifestations. Native QL precedes its psychic refraction; notebook and copied-source wording retain their named edition/speaker/passage gates. The final three pages passed41 link checks. All36 Arguments and64 Concepts now pass raw sixfold and whitespace checks; all1,306 links resolve, with path-qualified targets checked against intended canonical files. Final doctor introduces no unresolved-link or dangling-fragment debt against the starting baseline; its existing fixed-heading thin-concept heuristic does not assess raw sixfold depth. Only numbered A/C pages and this concise fold-back entered these commits. Original preparation work and both stashes remain preserved; no rooms, source houses, NOTES or manuscript were edited.
