@@ -199,200 +199,239 @@
     {
       "target": "A02",
       "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Copula, name/instance/circumstance, I=Is→I=Am"
+      "relation": "returns-to",
+      "operation": "The performed I Am returns to identification through difference, the copula’s proper office.",
+      "direction": "current-to-target"
     },
     {
       "target": "A03",
       "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Recursive limit and exact formal-neighbour boundaries"
+      "relation": "presages",
+      "operation": "The recursive failure of final definition opens formal-limit articulation.",
+      "direction": "current-to-target"
     },
     {
       "target": "A04",
       "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Contextual turn without fourth pronoun or disembodied outside view"
+      "relation": "presages",
+      "operation": "The fourth turn makes the determining circumstance visible through its determinations.",
+      "direction": "current-to-target"
     },
     {
       "target": "A05",
       "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Appearing/reflexive relation beneath representable instrument"
+      "relation": "grounds",
+      "operation": "Appearing and reflexive recognition provide the source-distinct phenomenological relation.",
+      "direction": "target-to-current"
     },
     {
       "target": "A06",
       "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Address and the first/second/third-person speech relation"
+      "relation": "extends",
+      "operation": "Personed articulation and address develop the I/you/it relation.",
+      "direction": "target-to-current"
     },
     {
       "target": "A08",
       "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Definition excludes; exclusions remain constitutive"
+      "relation": "qualifies",
+      "operation": "Definition’s cut remains dependent on what it excludes.",
+      "direction": "target-to-current"
     },
     {
       "target": "A11",
       "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Singular/polyvalent halves; explicit F correction to thin ground-label"
+      "relation": "grounds",
+      "operation": "Singular and polyvalent halves give concrete meaning to source/manifest relation.",
+      "direction": "target-to-current"
     },
     {
       "target": "A18",
       "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Whole native field, eight determinations and exact sixfold movement"
+      "relation": "grounds",
+      "operation": "The whole native determination sequence places this local performed sixfold.",
+      "direction": "target-to-current"
     },
     {
       "target": "A20",
       "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Living symbol versus source-occupying idol"
+      "relation": "extends",
+      "operation": "Image claiming source-office develops the idol failure first exposed by definition.",
+      "direction": "target-to-current"
     },
     {
       "target": "A23",
       "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Fidelity/trust as relation under non-possession"
+      "relation": "returns-to",
+      "operation": "Fidelity opens into trust under a limit that knowledge cannot abolish.",
+      "direction": "current-to-target"
     },
     {
       "target": "A24",
       "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Definition’s finite measure and usurped source-office"
+      "relation": "extends",
+      "operation": "A derivative criterion occupying source-office develops definition’s political consequence.",
+      "direction": "target-to-current"
     },
     {
       "target": "A25",
       "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Source versus derivative office, return to source"
+      "relation": "extends",
+      "operation": "Covenant distinguishes source authority from the office that represents it.",
+      "direction": "target-to-current"
     },
     {
       "target": "A26",
       "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Objective internality versus unobjectifiable Subject"
+      "relation": "qualifies",
+      "operation": "Inspectable interiority does not locate phenomenal Subject by accumulation.",
+      "direction": "target-to-current"
     },
     {
       "target": "A27",
       "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Other remains beyond its model without erasing relation"
+      "relation": "qualifies",
+      "operation": "A representation of Other does not contain the Other; relation retains difference.",
+      "direction": "target-to-current"
     },
     {
       "target": "A34",
       "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Order of dependence; immediate first-person existence and Open engineered localisation"
+      "relation": "extends",
+      "operation": "Subject-first recognition opens an argued order of dependence.",
+      "direction": "target-to-current"
     },
     {
       "target": "A36",
       "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
-      "relation": "grounds / returns-to / qualifies as stated",
-      "operation": "Return of the achieved sign as Symbol, not terminal capture"
+      "relation": "returns-to",
+      "operation": "The exact sign returns as Symbol under the original non-possession condition.",
+      "direction": "target-to-current"
     },
     {
       "target": "C01",
       "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
-      "relation": "depends-on",
-      "operation": "Retain its exact canonical distinction from A01 Dependencies and Return; no new Concept identity."
+      "relation": "defines",
+      "operation": "Subject is definedly indefinable; present subjecthood is not another represented thing.",
+      "direction": "target-to-current"
     },
     {
       "target": "C02",
       "path": "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
-      "relation": "depends-on",
-      "operation": "Retain its exact canonical distinction from A01 Dependencies and Return; no new Concept identity."
+      "relation": "defines",
+      "operation": "Definition remains faithful by making its determining act visible.",
+      "direction": "target-to-current"
     },
     {
       "target": "C03",
       "path": "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
-      "relation": "depends-on",
-      "operation": "Retain its exact canonical distinction from A01 Dependencies and Return; no new Concept identity."
+      "relation": "defines",
+      "operation": "Each asserted contour is a determination with a constitutive cut.",
+      "direction": "target-to-current"
     },
     {
       "target": "C04",
       "path": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
-      "relation": "depends-on",
-      "operation": "Retain its exact canonical distinction from A01 Dependencies and Return; no new Concept identity."
+      "relation": "qualifies",
+      "operation": "The account does not contain the condition of its accounting.",
+      "direction": "target-to-current"
     },
     {
       "target": "C05",
       "path": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
-      "relation": "depends-on",
-      "operation": "Retain its exact canonical distinction from A01 Dependencies and Return; no new Concept identity."
+      "relation": "qualifies",
+      "operation": "Renewed representation reproduces the non-coincidence of act and represented condition.",
+      "direction": "target-to-current"
     },
     {
       "target": "C06",
       "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
-      "relation": "depends-on",
-      "operation": "Retain its exact canonical distinction from A01 Dependencies and Return; no new Concept identity."
+      "relation": "defines",
+      "operation": "Identification can retain difference without becoming inert sameness.",
+      "direction": "target-to-current"
     },
     {
       "target": "C08",
       "path": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
-      "relation": "depends-on",
-      "operation": "Retain its exact canonical distinction from A01 Dependencies and Return; no new Concept identity."
+      "relation": "grounds",
+      "operation": "The three asserted positions become visible within their shared circumstance.",
+      "direction": "target-to-current"
     },
     {
       "target": "C09",
       "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
-      "relation": "depends-on",
-      "operation": "Retain its exact canonical distinction from A01 Dependencies and Return; no new Concept identity."
+      "relation": "extends",
+      "operation": "Form can disclose its conditioning context.",
+      "direction": "target-to-current"
     },
     {
       "target": "C10",
       "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
-      "relation": "depends-on",
-      "operation": "Retain its exact canonical distinction from A01 Dependencies and Return; no new Concept identity."
+      "relation": "grounds",
+      "operation": "The means of knowing participates in the act and is not the Subject.",
+      "direction": "target-to-current"
     },
     {
       "target": "C21",
       "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
-      "relation": "anticipates-and-returns-to",
-      "operation": "Retain its exact canonical distinction from A01 Dependencies and Return; no new Concept identity."
+      "relation": "qualifies",
+      "operation": "The living symbol returns to source; the idol installs its image in source-office.",
+      "direction": "target-to-current"
     },
     {
       "target": "C48",
       "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
-      "relation": "anticipates-and-returns-to",
-      "operation": "Retain its exact canonical distinction from A01 Dependencies and Return; no new Concept identity."
+      "relation": "returns-to",
+      "operation": "Fidelity continues as trust without exhaustive possession.",
+      "direction": "current-to-target"
     },
     {
       "target": "E4",
       "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
-      "relation": "consumes-and-returns-to",
-      "operation": "Account answers source without substituting for source; register3 operational relation."
+      "relation": "grounds",
+      "operation": "Account answers source without substituting for source; register3 operational relation.",
+      "direction": "target-to-current",
+      "return_relation": "returns-to"
     },
     {
       "target": "M01",
       "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md",
-      "relation": "P1-declared-consumer-read-only",
-      "operation": "Question precedes mechanism; functional agency does not settle Subject"
+      "relation": "embodies",
+      "operation": "Question precedes mechanism; functional agency does not settle Subject",
+      "direction": "target-to-current",
+      "mutation_policy": "read-only P1 consumer; no movement rewrite in pilot"
     },
     {
       "target": "M02",
       "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
-      "relation": "P1-declared-consumer-read-only",
-      "operation": "Positive defined-indefinability and copula-through-difference"
+      "relation": "embodies",
+      "operation": "Positive defined-indefinability and copula-through-difference",
+      "direction": "target-to-current",
+      "mutation_policy": "read-only P1 consumer; no movement rewrite in pilot"
     },
     {
       "target": "M03",
       "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md",
-      "relation": "P1-declared-consumer-read-only",
-      "operation": "Necessary cut becomes source-usurpation when its measure claims whole"
+      "relation": "embodies",
+      "operation": "Necessary cut becomes source-usurpation when its measure claims whole",
+      "direction": "target-to-current",
+      "mutation_policy": "read-only P1 consumer; no movement rewrite in pilot"
     },
     {
       "target": "M07",
       "path": "submission-package/essay/section-rooms/01-differentiating-mind/movements/07-s0-p0-awareness-bends-display.md",
-      "relation": "P1-declared-consumer-read-only",
-      "operation": "Appearing/awareness relation cannot reduce to displayed inner object"
+      "relation": "embodies",
+      "operation": "Appearing/awareness relation cannot reduce to displayed inner object",
+      "direction": "target-to-current",
+      "mutation_policy": "read-only P1 consumer; no movement rewrite in pilot"
     },
     {
       "target": "M47",
       "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md",
-      "relation": "P1-declared-consumer-read-only",
-      "operation": "Order of dependence without private-ego idealism or machine phenomenality inference"
+      "relation": "embodies",
+      "operation": "Order of dependence without private-ego idealism or machine phenomenality inference",
+      "direction": "target-to-current",
+      "mutation_policy": "read-only P1 consumer; no movement rewrite in pilot"
     }
   ],
   "register_contract": "submission-package/essay/symbolon/episteme/README.md",
@@ -455,5 +494,19 @@
     "B8 declined restoring performed definition in flow Movement04; targetA01 restoration follows later P2 authority and leaves its genealogy office intact.",
     "Do not upgrade Kripke NOTES quotations to source evidence, equate ordinary division by zero with native notation, or turn local Gödel/topology into a universal proof of this definition.",
     "Biblical first-person names and Trika relations can be clearly labeled authorial comparative readings; detailed historical/philological attribution requires its own ready source."
-  ]
+  ],
+  "input_audit": {
+    "status": "read-obligations-bound",
+    "shared_full_read_receipts": [
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-direct-carriers-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md"
+    ],
+    "protection": "Kripke and Watson SOURCE siblings present, full protected NOTES reads recorded. Other seven selected houses have no sibling NOTES. No NOTES mutation.",
+    "retrieval_caution": "Bare A01 resolves to working depth receipt in current index; canonical effects/links must use exact canonical_home path.",
+    "latest_source_state": "Draft3 SOURCE local_copy now repaired to accepted working path by parent; do not reintroduce stale absolute pointer from older receipt."
+  }
 }

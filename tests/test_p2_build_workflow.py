@@ -70,6 +70,17 @@ class P2WorkflowTests(unittest.TestCase):
         self.assertNotEqual(result['returncode'], 0)
         self.assertIn('No artifact resolves', result['stderr'])
 
+    def test_hygiene_rejects_duplicate_admissions_at_real_canonical_homes(self):
+        first = {'record_id': 'A01', 'register': 'episteme', 'canonical_home':
+                 'submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md'}
+        second = {'record_id': 'A02', 'register': 'episteme', 'canonical_home':
+                  'submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md'}
+        self.assertEqual(len(workflow.canonical_targets(ROOT, {'elements': [first, second]})), 2)
+        with self.assertRaisesRegex(ValueError, 'one canonical home'):
+            workflow.canonical_targets(ROOT, {'elements': [first, {**first, 'record_id': 'A02'}]})
+        with self.assertRaisesRegex(ValueError, 'multiple canonical homes'):
+            workflow.canonical_targets(ROOT, {'elements': [first, {**second, 'record_id': 'A01'}]})
+
 
 if __name__ == '__main__':
     unittest.main()

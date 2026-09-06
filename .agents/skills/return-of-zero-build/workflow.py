@@ -177,8 +177,10 @@ def cmd_packet(args: argparse.Namespace) -> int:
         accepted = {d["argument_id"]: d for d in depth}
         selected_depth = [accepted[identity] for identity in element["argument_depth"]]
         inputs = []
-        for relative in [*element["direct_carriers"], element["register_contract"],
-                         ".agents/skills/return-of-zero-pages/SKILL.md", ".agents/skills/return-of-zero-links/SKILL.md"]:
+        required_paths = [*element["direct_carriers"], *element.get("additional_required_inputs", []),
+                          element["register_contract"], ".agents/skills/return-of-zero-pages/SKILL.md",
+                          ".agents/skills/return-of-zero-links/SKILL.md"]
+        for relative in dict.fromkeys(required_paths):
             path = input_file(root, relative)
             inputs.append({"path": relative, "sha256": hashlib.sha256(path.read_bytes()).hexdigest()})
         sources = []
@@ -213,6 +215,7 @@ def run_okf(root: Path, *args: str) -> subprocess.CompletedProcess:
 def canonical_targets(root: Path, manifest: dict[str, Any]) -> list[str]:
     """Require explicit reconciled homes; never resolve a heading as an identity."""
     targets = []
+    identities = set()
     for element in manifest.get("elements", []):
         if element.get("disposition") in {"merged", "redundant", "non-page", "superseded"}:
             if not element.get("disposition_reason"):
@@ -225,8 +228,14 @@ def canonical_targets(root: Path, manifest: dict[str, Any]) -> list[str]:
         if not path.is_relative_to(root) or not path.is_file():
             raise ValueError(f"Canonical home does not exist inside project: {home}")
         target = str(path.relative_to(root))
-        if target not in targets:
-            targets.append(target)
+        identity = element.get("record_id")
+        if target in targets:
+            raise ValueError(f"Multiple admitted records occupy one canonical home: {target}")
+        if identity and identity in identities:
+            raise ValueError(f"One admitted identity occupies multiple canonical homes: {identity}")
+        if identity:
+            identities.add(identity)
+        targets.append(target)
     if not targets:
         raise ValueError("No reconciled page targets supplied")
     return targets

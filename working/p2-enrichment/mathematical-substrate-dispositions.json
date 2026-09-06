@@ -1,0 +1,663 @@
+{
+  "schema_version": 1,
+  "authority": "the-return-of-zero-central-plan.md#mathematical-substrate-ledger",
+  "rows": [
+    {
+      "row": 1,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 747,
+      "substrate": "`/ = −/−`; `(-1)/(+1)`; `(-1)+/-(+1)`",
+      "operation": "Parent relation; centred polarity; cancellation and appropriated span",
+      "claim_status": "Derived",
+      "principal_landing": "§2 · #1",
+      "target_ids": [
+        "matheme-slash-and-or"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/ql/slash-and-or.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 2,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 748,
+      "substrate": "Empty set and von Neumann ordinals",
+      "operation": "`0` generates `1` and the natural-number sequence",
+      "claim_status": "Derived",
+      "principal_landing": "§1 · #2",
+      "target_ids": [
+        "matheme-von-neumann-ordinals"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 3,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 749,
+      "substrate": "Sheffer stroke / functional completeness",
+      "operation": "A single relational cut can generate a logical basis",
+      "claim_status": "Derived locally; synthesis Argued",
+      "principal_landing": "§3 · #1–#2",
+      "target_ids": [
+        "matheme-sheffer-stroke"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/formal-neighbours/sheffer-stroke.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 4,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 750,
+      "substrate": "Spencer-Brown's mark and re-entry",
+      "operation": "Distinction becomes reflexive",
+      "claim_status": "Derived from source; mapping Argued",
+      "principal_landing": "§0/1 · #3; §3 · #2",
+      "target_ids": [
+        "matheme-laws-of-form-varela"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 5,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 751,
+      "substrate": "Kauffman iterants",
+      "operation": "Alternation temporalises the seam",
+      "claim_status": "Derived from source; mapping Argued",
+      "principal_landing": "§3 · #2",
+      "target_ids": [
+        "matheme-kauffman-iterants"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 6,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 752,
+      "substrate": "Complex plane",
+      "operation": "Orthogonal orientation and rotation beyond one signed line",
+      "claim_status": "Derived; QL placement Argued",
+      "principal_landing": "§3 · #2",
+      "target_ids": [
+        "matheme-complex-orientation"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/ql/complex-orientation.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 7,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 753,
+      "substrate": "Projective line",
+      "operation": "Affine obstruction reframed through ideal completion",
+      "claim_status": "Derived",
+      "principal_landing": "§3 · #3",
+      "target_ids": [
+        "matheme-projective-line"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/topology/projective-line.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 8,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 754,
+      "substrate": "Riemann sphere",
+      "operation": "Complex plane compactified by a point at infinity",
+      "claim_status": "Derived",
+      "principal_landing": "§3 · #3",
+      "target_ids": [
+        "matheme-riemann-sphere"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/topology/riemann-sphere.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 9,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 755,
+      "substrate": "Cross-ratio",
+      "operation": "Relation invariant under projective transformation",
+      "claim_status": "Derived",
+      "principal_landing": "§3 · #3",
+      "target_ids": [
+        "matheme-cross-ratio"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/formal-neighbours/cross-ratio.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 10,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 756,
+      "substrate": "`CP¹` / Bloch sphere",
+      "operation": "Pure qubit state-space equivalence",
+      "claim_status": "Derived; QL analogy Argued",
+      "principal_landing": "§3 · #3",
+      "target_ids": [
+        "matheme-qubit-bloch-sphere"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/formal-neighbours/qubit-bloch-sphere.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 11,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 757,
+      "substrate": "First-Degree Entailment / four-valued logic",
+      "operation": "Both/neither without explosion",
+      "claim_status": "Derived from formal source; tetralemma bridge Argued",
+      "principal_landing": "§3 · #3",
+      "target_ids": [
+        "matheme-fde-catuskoti"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/formal-neighbours/fde-catuskoti.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 12,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 758,
+      "substrate": "Division pluralisms",
+      "operation": "`1/0` changes meaning with axiomatic container",
+      "claim_status": "Derived comparatively",
+      "principal_landing": "§1 · #4; §3 · #3",
+      "target_ids": [
+        "matheme-division-pluralisms"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 13,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 759,
+      "substrate": "Perfect six",
+      "operation": "First perfect number and harmonic closure",
+      "claim_status": "Derived; symbolic use Offered",
+      "principal_landing": "§3 · #4",
+      "target_ids": [
+        "matheme-perfect-six"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/harmonics/perfect-six.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 14,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 760,
+      "substrate": "Tetraktys and `3–4–5` triangle",
+      "operation": "Ratio, measure, and geometrical articulation",
+      "claim_status": "Derived historically; QL bridge Offered",
+      "principal_landing": "§3 · #4",
+      "target_ids": [
+        "matheme-tetraktys-triangle"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/harmonics/tetraktys-triangle.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 15,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 761,
+      "substrate": "Musical harmonics and commas",
+      "operation": "Concord as maintained ratio rather than identity",
+      "claim_status": "Derived; mythemic bridge Argued",
+      "principal_landing": "§2 · #3; §3 · #4",
+      "target_ids": [
+        "matheme-whole-tone-return",
+        "matheme-pythagorean-comma",
+        "matheme-cycle-interval-octave"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/harmonics/whole-tone-return.md",
+        "submission-package/essay/symbolon/matheme/harmonics/pythagorean-comma.md",
+        "submission-package/essay/symbolon/matheme/harmonics/cycle-interval-octave.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 16,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 762,
+      "substrate": "Torus, covering space, and winding",
+      "operation": "`T²=R²/Z²`, `π₁(T²)=Z×Z`, local return with globally retained displacement, periodic and dense circulations",
+      "claim_status": "Derived; arche-topos mapping Argued",
+      "principal_landing": "§3 · #4–#5→0",
+      "target_ids": [
+        "matheme-torus-cover-winding"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 17,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 763,
+      "substrate": "Möbius and Klein surfaces",
+      "operation": "Twist, inversion, and return across orientation change",
+      "claim_status": "Derived; QL application Offered",
+      "principal_landing": "§3 · #4",
+      "target_ids": [
+        "matheme-mobius-klein-surfaces"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/topology/mobius-klein-surfaces.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 18,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 764,
+      "substrate": "Quaternion group `Q8`",
+      "operation": "Non-commutative rotational relations",
+      "claim_status": "Derived; QL application Offered",
+      "principal_landing": "§3 · #4",
+      "target_ids": [
+        "matheme-quaternion-q8"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/formal-neighbours/quaternion-q8.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 19,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 765,
+      "substrate": "`∞/dx` and calculus",
+      "operation": "Infinite field entering local change",
+      "claim_status": "Derived mathematically; psychological determination Argued",
+      "principal_landing": "§3 · #0",
+      "target_ids": [
+        "matheme-calculus-infinity-dx",
+        "matheme-eight-determinations"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/formal-neighbours/calculus-infinity-dx.md",
+        "submission-package/essay/symbolon/matheme/ql/eight-determinations.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 20,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 766,
+      "substrate": "Softmax, argmax, Bradley–Terry, KL",
+      "operation": "Differential selection and hidden preference baselines",
+      "claim_status": "Derived",
+      "principal_landing": "§5 · #1–#3",
+      "target_ids": [
+        "matheme-softmax-argmax",
+        "matheme-preference-gauge"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/computation/softmax-argmax.md",
+        "submission-package/essay/symbolon/matheme/computation/preference-gauge.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 21,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 767,
+      "substrate": "TDA / attractor landscapes / EBMs",
+      "operation": "Shape and stability of agentic meaning-fields",
+      "claim_status": "Derived methods; Bimba use Offered",
+      "principal_landing": "§5 · #4",
+      "target_ids": [
+        "matheme-ebm-resonance"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 22,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 768,
+      "substrate": "Two Spanda equations and `2+2²=4+2`",
+      "operation": "QL's internal sixfold count",
+      "claim_status": "Derived within QL axioms",
+      "principal_landing": "§3 · #1",
+      "target_ids": [
+        "matheme-spanda-equations",
+        "matheme-binary-and-binary-of-binary"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/spanda/spanda-equations.md",
+        "submission-package/essay/symbolon/matheme/ql/binary-and-binary-of-binary.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 23,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 769,
+      "substrate": "Chaos theory: bifurcation and strange attractors",
+      "operation": "Symmetry breaking, basin formation, novelty through non-closure",
+      "claim_status": "Derived concepts; QL translation Argued",
+      "principal_landing": "§2 · #3–#4; §4 · #1",
+      "target_ids": [
+        "matheme-chaos-attractors",
+        "dossier-process"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md",
+        "submission-package/essay/symbolon/episteme/dossiers/process.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 24,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 770,
+      "substrate": "Autopoiesis, structural coupling, enaction",
+      "operation": "Identity as operationally closed yet environmentally coupled process",
+      "claim_status": "Derived from sources; QL bridge Argued",
+      "principal_landing": "§2 · #4; §5 · #2",
+      "target_ids": [
+        "dossier-process",
+        "A14"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/episteme/dossiers/process.md",
+        "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 25,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 771,
+      "substrate": "Arche-topos",
+      "operation": "Differential field coordinating formal and imaginal domains",
+      "claim_status": "Derived through the QL theorem braid; witnesses cross-register",
+      "principal_landing": "§3 · #5→0 onward",
+      "target_ids": [
+        "matheme-arche-topos-musical-resolution",
+        "A16"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+        "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 26,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 772,
+      "substrate": "Subject-first `3:3 = 3:1`; First-Spanda `3:3` / Second-Spanda `4:2` cross-reading",
+      "operation": "Three perspectives are reckoned as one recognition before the same structure generates the fourth/fifth ratio family",
+      "claim_status": "Derived within QL; musical interpretation Argued",
+      "principal_landing": "§3 · #1 and #4",
+      "target_ids": [
+        "matheme-spanda-equations",
+        "matheme-arche-topos-musical-resolution"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/spanda/spanda-equations.md",
+        "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 27,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 773,
+      "substrate": "`16/9`, `9/8`, `2/1` ratio chain",
+      "operation": "Remainder carries totality-ratio into octave return",
+      "claim_status": "Derived identities; non-closure reading Argued",
+      "principal_landing": "§3 · #4–#5→0",
+      "target_ids": [
+        "matheme-whole-tone-return"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/harmonics/whole-tone-return.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 28,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 774,
+      "substrate": "Pitch-class circle and octave equivalence",
+      "operation": "Return as same class at doubled frequency",
+      "claim_status": "Derived mathematically; QL use Argued",
+      "principal_landing": "§3 · #4",
+      "target_ids": [
+        "matheme-cycle-interval-octave"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/harmonics/cycle-interval-octave.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 29,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 775,
+      "substrate": "Standing waves and cymatics",
+      "operation": "One vibrational relation rendered audibly and as visible nodal form",
+      "claim_status": "Derived physics; psychoid/synaesthetic use Offered",
+      "principal_landing": "§3 · #4; §4 · #0",
+      "target_ids": [
+        "matheme-cymatics-standing-waves"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/harmonics/cymatics-standing-waves.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 30,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 776,
+      "substrate": "Dimensional reframing at zero/infinity",
+      "operation": "Mathematical obstructions made legible by enlarging or changing representational space",
+      "claim_status": "Derived case-by-case; general synthesis Argued",
+      "principal_landing": "§3 · #2–#3",
+      "target_ids": [
+        "matheme-projective-completion"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/topology/projective-completion.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 31,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 777,
+      "substrate": "Covering map `π: R²→T²`",
+      "operation": "Each finite torus-point carries an infinite lattice of pre-images; local return retains global displacement",
+      "claim_status": "Derived topology; `∞/0`, `∞/dx`, and psychoid readings Argued",
+      "principal_landing": "§3 · #4–#5→0",
+      "target_ids": [
+        "matheme-torus-cover-winding"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 32,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 778,
+      "substrate": "Computational process ontology",
+      "operation": "Dia/sym runtime carries differentiation through composition, context, and return",
+      "claim_status": "Derived from QL theorem units; philosophical lineage source-synthesised",
+      "principal_landing": "§0 · #2; §2; §4 · #5→0; §5→0 · #1",
+      "target_ids": [
+        "A14",
+        "dossier-process"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "submission-package/essay/symbolon/episteme/dossiers/process.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 33,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 779,
+      "substrate": "Complex modulus and the wheel “running true”",
+      "operation": "Transformation of argument with retained magnitude supplies the mathematical-artistic image of invariant relation through movement",
+      "claim_status": "Derived mathematics; Bohm–Krishnamurti truth-reading Argued",
+      "principal_landing": "§3 · #2; §4 · #5→0",
+      "target_ids": [
+        "matheme-complex-orientation",
+        "dossier-bohm"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/ql/complex-orientation.md",
+        "submission-package/essay/symbolon/episteme/dossiers/bohm.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 34,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 780,
+      "substrate": "Toroidal magnetic confinement",
+      "operation": "Toroidal and poloidal fields generate helical circulation that constrains end-loss in a tokamak",
+      "claim_status": "Derived physics/engineering; arche-topos use Argued",
+      "principal_landing": "§3 · #4–#5→0",
+      "target_ids": [
+        "matheme-toroidal-poloidal-confinement"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/topology/toroidal-poloidal-confinement.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 35,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 781,
+      "substrate": "Manifold atlas, charts, transition functions",
+      "operation": "A curved whole covered by overlapping local charts with declared translations; MEF stated as mathematics",
+      "claim_status": "Derived; MEF mapping Argued",
+      "principal_landing": "§3 · #5→0; §5 · #4",
+      "target_ids": [
+        "matheme-manifold-atlas",
+        "A22"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
+        "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 36,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 782,
+      "substrate": "FDE values as subsets of {T,F}; Priest's fifth value *e*",
+      "operation": "Four relational positions generated from two marks; ineffability beyond the lattice as silent, infectious ground",
+      "claim_status": "Derived from source; internal #1–#4 and ground-analogue mappings Argued",
+      "principal_landing": "§3 · #3",
+      "target_ids": [
+        "matheme-fde-catuskoti"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/formal-neighbours/fde-catuskoti.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    },
+    {
+      "row": 37,
+      "source": "the-return-of-zero-central-plan.md",
+      "source_line": 783,
+      "substrate": "Disk vs quotient (the travelling jigsaw)",
+      "operation": "Simply-connected assembly toward a pre-given picture versus identification retaining infinite fibres",
+      "claim_status": "Derived; travelling-image use Argued",
+      "principal_landing": "§3 · #4–#5→0; §5 · #4",
+      "target_ids": [
+        "matheme-torus-cover-winding",
+        "mytheme-travelling-jigsaw-atlas",
+        "matheme-manifold-atlas"
+      ],
+      "target_homes": [
+        "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+        "submission-package/essay/symbolon/mytheme/narrative/travelling-jigsaw-atlas/WHOLE.md",
+        "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md"
+      ],
+      "disposition": "develop exact operation inside named admitted body; preserve register-specific scope",
+      "new_identity_from_intake": false
+    }
+  ]
+}

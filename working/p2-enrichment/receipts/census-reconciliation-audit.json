@@ -1,0 +1,22 @@
+{
+  "status": "pass",
+  "census_identities": 197,
+  "unique_homes": 197,
+  "intake_exact_roundtrip": 487,
+  "reference_dispositions": 89,
+  "legacy_and_retained_map_dispositions": 48,
+  "mathematical_ledger_rows": 37,
+  "canonical_files_changed_by_this_subtask": 0,
+  "register_counts": {
+    "episteme": 125,
+    "symbolon": 5,
+    "matheme": 46,
+    "mytheme": 21
+  },
+  "non_page_dispositions": {
+    "retained-proposal": 1,
+    "retained-evidence-house": 125,
+    "retained-history-with-whole-field": 6
+  },
+  "remaining_gate": "target bindings and developed-page acceptance; no claim of T17 completion"
+}

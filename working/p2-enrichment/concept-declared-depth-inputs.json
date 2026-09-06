@@ -1,0 +1,1491 @@
+{
+  "standing": "Locator for explicit canonical Concept consumer declarations only; neither complete page binding nor permission to omit further materially relevant Argument recovery. No vocabulary-inferred links. Writers recover the actual operation in every named packet and add declared transverse recovery when it bears the page.",
+  "records": [
+    {
+      "record_id": "C01",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+      "canonical_sha256": "309bec829ee7b82bc6c2898a44bfbb2e2020bfb4d3076f56b095f14ad2ad649c",
+      "declaration": "A01, A02, A05, A27, A34, A36.",
+      "declaration_line": 9,
+      "minimum_declared_argument_depth": [
+        "A01",
+        "A02",
+        "A05",
+        "A27",
+        "A34",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A01.md",
+        "working/p2-enrichment/argument-depth/A02.md",
+        "working/p2-enrichment/argument-depth/A05.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A34.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C02",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+      "canonical_sha256": "4b0b514d8bceab4dd897783f3307e95046166fc9c04a0d715c86ce89c2ee9906",
+      "declaration": "A01, A03, A18, A23, A36.",
+      "declaration_line": 9,
+      "minimum_declared_argument_depth": [
+        "A01",
+        "A03",
+        "A18",
+        "A23",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A01.md",
+        "working/p2-enrichment/argument-depth/A03.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A23.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C03",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+      "canonical_sha256": "c2f868ac0986060769ed326e1a7a7674ef8752814cb1de1938f3657b9c61eb1e",
+      "declaration": "A01–A04, A08–A11, A15, A18, A33.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A01",
+        "A02",
+        "A03",
+        "A04",
+        "A08",
+        "A09",
+        "A10",
+        "A11",
+        "A15",
+        "A18",
+        "A33"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A01.md",
+        "working/p2-enrichment/argument-depth/A02.md",
+        "working/p2-enrichment/argument-depth/A03.md",
+        "working/p2-enrichment/argument-depth/A04.md",
+        "working/p2-enrichment/argument-depth/A08.md",
+        "working/p2-enrichment/argument-depth/A09.md",
+        "working/p2-enrichment/argument-depth/A10.md",
+        "working/p2-enrichment/argument-depth/A11.md",
+        "working/p2-enrichment/argument-depth/A15.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A33.md"
+      ]
+    },
+    {
+      "record_id": "C04",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+      "canonical_sha256": "dcc5c86e42390906fa3bfdcf27dcf48eb1be1ed1248bd125a029ecbc33d8cbdc",
+      "declaration": "A01, A03, A10, A23, A33, A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A01",
+        "A03",
+        "A10",
+        "A23",
+        "A33",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A01.md",
+        "working/p2-enrichment/argument-depth/A03.md",
+        "working/p2-enrichment/argument-depth/A10.md",
+        "working/p2-enrichment/argument-depth/A23.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C05",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+      "canonical_sha256": "5a15fab90ac62617eed62286f2ae314e3d85c256ca03eb50bc054dd7f9544d5b",
+      "declaration": "A01–A04, A17, A23, A27, A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A01",
+        "A02",
+        "A03",
+        "A04",
+        "A17",
+        "A23",
+        "A27",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A01.md",
+        "working/p2-enrichment/argument-depth/A02.md",
+        "working/p2-enrichment/argument-depth/A03.md",
+        "working/p2-enrichment/argument-depth/A04.md",
+        "working/p2-enrichment/argument-depth/A17.md",
+        "working/p2-enrichment/argument-depth/A23.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C06",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+      "canonical_sha256": "65ea295ec3e28a0d9514d3cd16eba49dbb57dc6906950ba9687d8c189cf2922a",
+      "declaration": "A01–A03, A11–A13, A21, A27, A34.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A01",
+        "A02",
+        "A03",
+        "A11",
+        "A12",
+        "A13",
+        "A21",
+        "A27",
+        "A34"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A01.md",
+        "working/p2-enrichment/argument-depth/A02.md",
+        "working/p2-enrichment/argument-depth/A03.md",
+        "working/p2-enrichment/argument-depth/A11.md",
+        "working/p2-enrichment/argument-depth/A12.md",
+        "working/p2-enrichment/argument-depth/A13.md",
+        "working/p2-enrichment/argument-depth/A21.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A34.md"
+      ]
+    },
+    {
+      "record_id": "C07",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md",
+      "canonical_sha256": "438a9d0fc1f285b19e17463c81cb0e4fa1bff2620aaf82fb9cd0ec62820bb33c",
+      "declaration": "A04, A22, A26, A30, A34.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A04",
+        "A22",
+        "A26",
+        "A30",
+        "A34"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A04.md",
+        "working/p2-enrichment/argument-depth/A22.md",
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A30.md",
+        "working/p2-enrichment/argument-depth/A34.md"
+      ]
+    },
+    {
+      "record_id": "C08",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+      "canonical_sha256": "c2b69707fd0e1cc26d901cd738a9be0db46b6d4ba281a8849039fb677c9010e5",
+      "declaration": "A01, A03–A04, A22, A26–A28, A30.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A01",
+        "A03",
+        "A04",
+        "A22",
+        "A26",
+        "A27",
+        "A28",
+        "A30"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A01.md",
+        "working/p2-enrichment/argument-depth/A03.md",
+        "working/p2-enrichment/argument-depth/A04.md",
+        "working/p2-enrichment/argument-depth/A22.md",
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A28.md",
+        "working/p2-enrichment/argument-depth/A30.md"
+      ]
+    },
+    {
+      "record_id": "C09",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "canonical_sha256": "7d69d57f9b898b5d807f5de058a7da36a9a4f93e4552f9b927bf3c8338f71457",
+      "declaration": "A04, A22, A26, A31, A33.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A04",
+        "A22",
+        "A26",
+        "A31",
+        "A33"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A04.md",
+        "working/p2-enrichment/argument-depth/A22.md",
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A33.md"
+      ]
+    },
+    {
+      "record_id": "C10",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+      "canonical_sha256": "e8cd30e9ec8b6a8c4ecae8cd53fde0395932e9f7e8c8051b18e8db213f46c693",
+      "declaration": "A01, A04–A06, A23, A25, A31, A33.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A01",
+        "A04",
+        "A05",
+        "A06",
+        "A23",
+        "A25",
+        "A31",
+        "A33"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A01.md",
+        "working/p2-enrichment/argument-depth/A04.md",
+        "working/p2-enrichment/argument-depth/A05.md",
+        "working/p2-enrichment/argument-depth/A06.md",
+        "working/p2-enrichment/argument-depth/A23.md",
+        "working/p2-enrichment/argument-depth/A25.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A33.md"
+      ]
+    },
+    {
+      "record_id": "C11",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+      "canonical_sha256": "923adbdd145983526d1ba650a8dbce37c60facb3487e1ee5cbc6ad3abcfacd7a",
+      "declaration": "A11–A18, A24, A33, A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A11",
+        "A12",
+        "A13",
+        "A14",
+        "A15",
+        "A16",
+        "A17",
+        "A18",
+        "A24",
+        "A33",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A11.md",
+        "working/p2-enrichment/argument-depth/A12.md",
+        "working/p2-enrichment/argument-depth/A13.md",
+        "working/p2-enrichment/argument-depth/A14.md",
+        "working/p2-enrichment/argument-depth/A15.md",
+        "working/p2-enrichment/argument-depth/A16.md",
+        "working/p2-enrichment/argument-depth/A17.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A24.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C12",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "canonical_sha256": "9c6130a6b651af47253ba30c6064eb56f8cf1ae76c2b6098d773038179e2ad6a",
+      "declaration": "A07, A19, A24, A26, A31, A33.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A07",
+        "A19",
+        "A24",
+        "A26",
+        "A31",
+        "A33"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A07.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A24.md",
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A33.md"
+      ]
+    },
+    {
+      "record_id": "C13",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+      "canonical_sha256": "3451e1d40f71c1399638dd2a463d1b2bb1f233976de0147d8da6a9c978f5280d",
+      "declaration": "A05, A06, A09, A14, A26, A32.",
+      "declaration_line": 9,
+      "minimum_declared_argument_depth": [
+        "A05",
+        "A06",
+        "A09",
+        "A14",
+        "A26",
+        "A32"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A05.md",
+        "working/p2-enrichment/argument-depth/A06.md",
+        "working/p2-enrichment/argument-depth/A09.md",
+        "working/p2-enrichment/argument-depth/A14.md",
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A32.md"
+      ]
+    },
+    {
+      "record_id": "C14",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+      "canonical_sha256": "175fdaf7065a45fec17d77c4d64cb14d6c38c3f279af10de15e36a00c4171789",
+      "declaration": "A09, A15, A19, A24, A26.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A09",
+        "A15",
+        "A19",
+        "A24",
+        "A26"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A09.md",
+        "working/p2-enrichment/argument-depth/A15.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A24.md",
+        "working/p2-enrichment/argument-depth/A26.md"
+      ]
+    },
+    {
+      "record_id": "C15",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+      "canonical_sha256": "ac345db4e6959444b68f8af4b52d34b9381cf4cae2ed1a77cada478d68334282",
+      "declaration": "A09, A19, A26–A28.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A09",
+        "A19",
+        "A26",
+        "A27",
+        "A28"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A09.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A28.md"
+      ]
+    },
+    {
+      "record_id": "C16",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+      "canonical_sha256": "c42c6f9a31efaf595066938c59b34358eb5a3d2b6ffadb4b117f208d85e29044",
+      "declaration": "A09, A19, A26, A27, A33.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A09",
+        "A19",
+        "A26",
+        "A27",
+        "A33"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A09.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A33.md"
+      ]
+    },
+    {
+      "record_id": "C17",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "canonical_sha256": "1f32e681323eb1d9b3127c5377640bf48b747750cc5940d565f45b160040a435",
+      "declaration": "A06–A09, A19, A26, A33.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A06",
+        "A07",
+        "A08",
+        "A09",
+        "A19",
+        "A26",
+        "A33"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A06.md",
+        "working/p2-enrichment/argument-depth/A07.md",
+        "working/p2-enrichment/argument-depth/A08.md",
+        "working/p2-enrichment/argument-depth/A09.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A33.md"
+      ]
+    },
+    {
+      "record_id": "C18",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "canonical_sha256": "1ed640fe2cfa40b5505897944b551f0e00735e022ba859f703f9cdadbfaf0709",
+      "declaration": "A08, A12–A14, A19, A33.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A08",
+        "A12",
+        "A13",
+        "A14",
+        "A19",
+        "A33"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A08.md",
+        "working/p2-enrichment/argument-depth/A12.md",
+        "working/p2-enrichment/argument-depth/A13.md",
+        "working/p2-enrichment/argument-depth/A14.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A33.md"
+      ]
+    },
+    {
+      "record_id": "C19",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+      "canonical_sha256": "7802d1411828c59f282e00a3709aa1547da721ea03038eaa20f373d0fb7b3e1e",
+      "declaration": "A09, A21, A27, A31, A35–A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A09",
+        "A21",
+        "A27",
+        "A31",
+        "A35",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A09.md",
+        "working/p2-enrichment/argument-depth/A21.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A35.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C20",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+      "canonical_sha256": "dd6279ba304b6cdd3d3244f2bc144e3cafe0b7bba645cc7aeed91b3b2c5e70f5",
+      "declaration": "A16–A19, A22, A26, A32.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A16",
+        "A17",
+        "A18",
+        "A19",
+        "A22",
+        "A26",
+        "A32"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A16.md",
+        "working/p2-enrichment/argument-depth/A17.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A22.md",
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A32.md"
+      ]
+    },
+    {
+      "record_id": "C21",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "canonical_sha256": "65c54a1888cfa2dc5806e8f18afd4c2fb135a04c498df392586f4c06e2c5e62a",
+      "declaration": "A01, A18, A20, A23, A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A01",
+        "A18",
+        "A20",
+        "A23",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A01.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A20.md",
+        "working/p2-enrichment/argument-depth/A23.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C22",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+      "canonical_sha256": "43eb25fc08e58af14beeff05c707f4804ca295f6356dd8b9803e8521d24c6a46",
+      "declaration": "A18–A20, A24, A27, A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A18",
+        "A19",
+        "A20",
+        "A24",
+        "A27",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A20.md",
+        "working/p2-enrichment/argument-depth/A24.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C23",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+      "canonical_sha256": "1c77e695c712eedd1d079b73158dbccb06164d365655984face0868ea594b776",
+      "declaration": "A13, A18–A20, A24, A27, A29.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A13",
+        "A18",
+        "A19",
+        "A20",
+        "A24",
+        "A27",
+        "A29"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A13.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A20.md",
+        "working/p2-enrichment/argument-depth/A24.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A29.md"
+      ]
+    },
+    {
+      "record_id": "C24",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "canonical_sha256": "534a2c1ad36abbb8ee52c2148f190806ec9f6250f5b20d1521869aafb518e6ae",
+      "declaration": "A02, A13, A18–A21, A27, A35.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A02",
+        "A13",
+        "A18",
+        "A19",
+        "A20",
+        "A21",
+        "A27",
+        "A35"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A02.md",
+        "working/p2-enrichment/argument-depth/A13.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A20.md",
+        "working/p2-enrichment/argument-depth/A21.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A35.md"
+      ]
+    },
+    {
+      "record_id": "C25",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "canonical_sha256": "04e5e320d6e7eb1e3c60fb968c22395fd0902fa4978b35f6f82133d49126beb8",
+      "declaration": "A18–A20, A22, A24, A29, A35.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A18",
+        "A19",
+        "A20",
+        "A22",
+        "A24",
+        "A29",
+        "A35"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A20.md",
+        "working/p2-enrichment/argument-depth/A22.md",
+        "working/p2-enrichment/argument-depth/A24.md",
+        "working/p2-enrichment/argument-depth/A29.md",
+        "working/p2-enrichment/argument-depth/A35.md"
+      ]
+    },
+    {
+      "record_id": "C26",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+      "canonical_sha256": "a577a277c80627b4b6d95814ee0ebeb23c39627eff0e9bc585299f714a4a8b67",
+      "declaration": "A12, A18, A24, A29, A34–A35.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A12",
+        "A18",
+        "A24",
+        "A29",
+        "A34",
+        "A35"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A12.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A24.md",
+        "working/p2-enrichment/argument-depth/A29.md",
+        "working/p2-enrichment/argument-depth/A34.md",
+        "working/p2-enrichment/argument-depth/A35.md"
+      ]
+    },
+    {
+      "record_id": "C27",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "canonical_sha256": "424e2e18a6157718cd7ab908f7d9b9f2e029a6ccd9f9c97a833bf53cad0e9c76",
+      "declaration": "A15, A18–A20, A24–A29, A31, A33.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A15",
+        "A18",
+        "A19",
+        "A20",
+        "A24",
+        "A25",
+        "A26",
+        "A27",
+        "A28",
+        "A29",
+        "A31",
+        "A33"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A15.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A20.md",
+        "working/p2-enrichment/argument-depth/A24.md",
+        "working/p2-enrichment/argument-depth/A25.md",
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A28.md",
+        "working/p2-enrichment/argument-depth/A29.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A33.md"
+      ]
+    },
+    {
+      "record_id": "C28",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+      "canonical_sha256": "c055a6906ea4748936aa8ff511701043bdfb8fab470f11ab70cfb8d813be7da8",
+      "declaration": "A19, A23–A25, A28–A31, A35.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A19",
+        "A23",
+        "A24",
+        "A25",
+        "A28",
+        "A29",
+        "A30",
+        "A31",
+        "A35"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A23.md",
+        "working/p2-enrichment/argument-depth/A24.md",
+        "working/p2-enrichment/argument-depth/A25.md",
+        "working/p2-enrichment/argument-depth/A28.md",
+        "working/p2-enrichment/argument-depth/A29.md",
+        "working/p2-enrichment/argument-depth/A30.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A35.md"
+      ]
+    },
+    {
+      "record_id": "C29",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+      "canonical_sha256": "6e86613b7eaf796bb0a9374e5bb824c608dd3c77d9befc236c85ef322bd38e66",
+      "declaration": "A19, A24–A25, A28–A31, A33.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A19",
+        "A24",
+        "A25",
+        "A28",
+        "A29",
+        "A30",
+        "A31",
+        "A33"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A24.md",
+        "working/p2-enrichment/argument-depth/A25.md",
+        "working/p2-enrichment/argument-depth/A28.md",
+        "working/p2-enrichment/argument-depth/A29.md",
+        "working/p2-enrichment/argument-depth/A30.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A33.md"
+      ]
+    },
+    {
+      "record_id": "C30",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+      "canonical_sha256": "13f5b9a1c044127d5947976eccf5ae0c9dfbdcb56964ffc77ea31c5208264498",
+      "declaration": "A16–A19, A33, A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A16",
+        "A17",
+        "A18",
+        "A19",
+        "A33",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A16.md",
+        "working/p2-enrichment/argument-depth/A17.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C31",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "canonical_sha256": "0b77e18ca7a4e51002c06239f0e3211f451a2503e58f4bcbc0447adebc28e24c",
+      "declaration": "A19–A21, A24, A27, A35.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A19",
+        "A20",
+        "A21",
+        "A24",
+        "A27",
+        "A35"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A20.md",
+        "working/p2-enrichment/argument-depth/A21.md",
+        "working/p2-enrichment/argument-depth/A24.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A35.md"
+      ]
+    },
+    {
+      "record_id": "C32",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+      "canonical_sha256": "a4b7b2501fbb482dd4ee5bca04c75ebcccb6c00f407c1471d87ecbeeaedffb6d",
+      "declaration": "A16, A19–A21, A32, A35.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A16",
+        "A19",
+        "A20",
+        "A21",
+        "A32",
+        "A35"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A16.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A20.md",
+        "working/p2-enrichment/argument-depth/A21.md",
+        "working/p2-enrichment/argument-depth/A32.md",
+        "working/p2-enrichment/argument-depth/A35.md"
+      ]
+    },
+    {
+      "record_id": "C33",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+      "canonical_sha256": "07bad7752ea90dbcd1a633e61ef0a96d2bc0d502d6b31a435cf7b5aae3c84ae2",
+      "declaration": "A19–A22, A27, A31.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A19",
+        "A20",
+        "A21",
+        "A22",
+        "A27",
+        "A31"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A20.md",
+        "working/p2-enrichment/argument-depth/A21.md",
+        "working/p2-enrichment/argument-depth/A22.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A31.md"
+      ]
+    },
+    {
+      "record_id": "C34",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "canonical_sha256": "75ea7a437e1ed8469528d333360a034f72a952dccf4d3f171cfbc7d1f4f63aa5",
+      "declaration": "A21, A27, A35–A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A21",
+        "A27",
+        "A35",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A21.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A35.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C35",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
+      "canonical_sha256": "565bfcc56571dbf55965834c9e2f6b4e52c9c0bbac4a7e7e1028a1319d58a9e2",
+      "declaration": "A01–A02, A19–A21, A26–A27, A31, A34.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A01",
+        "A02",
+        "A19",
+        "A20",
+        "A21",
+        "A26",
+        "A27",
+        "A31",
+        "A34"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A01.md",
+        "working/p2-enrichment/argument-depth/A02.md",
+        "working/p2-enrichment/argument-depth/A19.md",
+        "working/p2-enrichment/argument-depth/A20.md",
+        "working/p2-enrichment/argument-depth/A21.md",
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A34.md"
+      ]
+    },
+    {
+      "record_id": "C36",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+      "canonical_sha256": "b52e940928f853292f5665a20da31b5a47fc097bd825f0e20f562febf5d63c5d",
+      "declaration": "A16–A18, A21, A27, A34–A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A16",
+        "A17",
+        "A18",
+        "A21",
+        "A27",
+        "A34",
+        "A35",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A16.md",
+        "working/p2-enrichment/argument-depth/A17.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A21.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A34.md",
+        "working/p2-enrichment/argument-depth/A35.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C37",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "canonical_sha256": "befdc7b7ead1e72b7a741b8132e1b9df7259b792236d2efdaed822e52052a186",
+      "declaration": "A22, A26–A27, A31, A34.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A22",
+        "A26",
+        "A27",
+        "A31",
+        "A34"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A22.md",
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A34.md"
+      ]
+    },
+    {
+      "record_id": "C38",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "canonical_sha256": "babb43586d369788d3d396901c96b1189d418229d4a7cd6dd4beca41e0c46793",
+      "declaration": "A22, A27, A30–A33.",
+      "declaration_line": 18,
+      "minimum_declared_argument_depth": [
+        "A22",
+        "A27",
+        "A30",
+        "A31",
+        "A32",
+        "A33"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A22.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A30.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A32.md",
+        "working/p2-enrichment/argument-depth/A33.md"
+      ]
+    },
+    {
+      "record_id": "C39",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "canonical_sha256": "92c0b82deb9649ee6c8bac5d21f1c385050aa590ee9f059259c6ede23aedd908",
+      "declaration": "A14, A22, A33, A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A14",
+        "A22",
+        "A33",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A14.md",
+        "working/p2-enrichment/argument-depth/A22.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C40",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "canonical_sha256": "998aa34d5d6565baf78e2de8f3f6766b2eb34c4cdd88e382794337414e602844",
+      "declaration": "A14, A22, A26, A31, A33.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A14",
+        "A22",
+        "A26",
+        "A31",
+        "A33"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A14.md",
+        "working/p2-enrichment/argument-depth/A22.md",
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A33.md"
+      ]
+    },
+    {
+      "record_id": "C41",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "canonical_sha256": "3e57148deac1d8a9d45b08a733e2eddf01819a44b9efcc78961b1943e115216b",
+      "declaration": "A26–A27, A30–A34.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A26",
+        "A27",
+        "A30",
+        "A31",
+        "A32",
+        "A33",
+        "A34"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A30.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A32.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A34.md"
+      ]
+    },
+    {
+      "record_id": "C42",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "canonical_sha256": "c50db9b5594fc13cd85e0a34238c26392d0199224de114bcc32528c2f3f232b2",
+      "declaration": "A27, A30–A33, A35.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A27",
+        "A30",
+        "A31",
+        "A32",
+        "A33",
+        "A35"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A30.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A32.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A35.md"
+      ]
+    },
+    {
+      "record_id": "C43",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+      "canonical_sha256": "671c061e7ceafb779dcfaeb8688ec1a334fcdb5d6f7dc542f77b24db8196d4b5",
+      "declaration": "A14, A26, A32–A33.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A14",
+        "A26",
+        "A32",
+        "A33"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A14.md",
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A32.md",
+        "working/p2-enrichment/argument-depth/A33.md"
+      ]
+    },
+    {
+      "record_id": "C44",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+      "canonical_sha256": "9b6dfaa368162ac78e84f45240276460847949bfddc0f59539d283db595fd342",
+      "declaration": "A26, A28, A31, A33.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A26",
+        "A28",
+        "A31",
+        "A33"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A28.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A33.md"
+      ]
+    },
+    {
+      "record_id": "C45",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "canonical_sha256": "11f812c44a97fbe31cfb7ac3d2f14874017b5a049799c5cb34e73b97e2e0b738",
+      "declaration": "A15, A24, A31, A33.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A15",
+        "A24",
+        "A31",
+        "A33"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A15.md",
+        "working/p2-enrichment/argument-depth/A24.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A33.md"
+      ]
+    },
+    {
+      "record_id": "C46",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "canonical_sha256": "36bf25ff92266027183a6da56ed0b471bb848ea6dc0d0e98afef3da3b6f3c080",
+      "declaration": "A31, A33, A35.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A31",
+        "A33",
+        "A35"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A35.md"
+      ]
+    },
+    {
+      "record_id": "C47",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "canonical_sha256": "2195b86b6d38a11c6b6238a430eeb92cc5aa62f690d0d0ce137e57cef9551bce",
+      "declaration": "A27, A31–A33, A35.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A27",
+        "A31",
+        "A32",
+        "A33",
+        "A35"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A32.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A35.md"
+      ]
+    },
+    {
+      "record_id": "C48",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "canonical_sha256": "24728843947eb62665e43f0592a346162fbc856ff36a08390549706a0cc1e4c9",
+      "declaration": "A01, A23–A25, A27, A31, A35.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A01",
+        "A23",
+        "A24",
+        "A25",
+        "A27",
+        "A31",
+        "A35"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A01.md",
+        "working/p2-enrichment/argument-depth/A23.md",
+        "working/p2-enrichment/argument-depth/A24.md",
+        "working/p2-enrichment/argument-depth/A25.md",
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A35.md"
+      ]
+    },
+    {
+      "record_id": "C49",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "canonical_sha256": "3ae6220ae9714033544c297cee2fe187ba49f232a9bbbbddbbd09aeba4ce5934",
+      "declaration": "A11–A13, A18, A34, A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A11",
+        "A12",
+        "A13",
+        "A18",
+        "A34",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A11.md",
+        "working/p2-enrichment/argument-depth/A12.md",
+        "working/p2-enrichment/argument-depth/A13.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A34.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C50",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "canonical_sha256": "40d459ace27a41877e46e47bf1153c98c5bba688a575f4133ea4fc25e13fa3a1",
+      "declaration": "A12–A18, A21, A24, A33, A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A12",
+        "A13",
+        "A14",
+        "A15",
+        "A16",
+        "A17",
+        "A18",
+        "A21",
+        "A24",
+        "A33",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A12.md",
+        "working/p2-enrichment/argument-depth/A13.md",
+        "working/p2-enrichment/argument-depth/A14.md",
+        "working/p2-enrichment/argument-depth/A15.md",
+        "working/p2-enrichment/argument-depth/A16.md",
+        "working/p2-enrichment/argument-depth/A17.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A21.md",
+        "working/p2-enrichment/argument-depth/A24.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C51",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+      "canonical_sha256": "fd4bfe3faf506d293e9fc9480122bc26d9876c146a3c388a2ce801cfb8565c94",
+      "declaration": "A06, A14, A35–A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A06",
+        "A14",
+        "A35",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A06.md",
+        "working/p2-enrichment/argument-depth/A14.md",
+        "working/p2-enrichment/argument-depth/A35.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C52",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "canonical_sha256": "ff2f7fe5cb03f1879e5165be094e8430211d218084a1b350fcc6dfe876265f3b",
+      "declaration": "A10, A16–A18, A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A10",
+        "A16",
+        "A17",
+        "A18",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A10.md",
+        "working/p2-enrichment/argument-depth/A16.md",
+        "working/p2-enrichment/argument-depth/A17.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C53",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "canonical_sha256": "3e4b4a26667ea062fa734c202f358b91e294ca0adb7b970de9e6668deb1377be",
+      "declaration": "A25, A28–A30, A33, A35.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A25",
+        "A28",
+        "A29",
+        "A30",
+        "A33",
+        "A35"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A25.md",
+        "working/p2-enrichment/argument-depth/A28.md",
+        "working/p2-enrichment/argument-depth/A29.md",
+        "working/p2-enrichment/argument-depth/A30.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A35.md"
+      ]
+    },
+    {
+      "record_id": "C54",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+      "canonical_sha256": "780e12bb91a3324aceb5c6c1df17efc2d8310d00886557440bb6b6d4083ee7f8",
+      "declaration": "A12, A29, A35.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A12",
+        "A29",
+        "A35"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A12.md",
+        "working/p2-enrichment/argument-depth/A29.md",
+        "working/p2-enrichment/argument-depth/A35.md"
+      ]
+    },
+    {
+      "record_id": "C55",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "canonical_sha256": "c8975ca155998d6759bc6af30c9f7d1b00049d4eaccb2648cb249ab2c6fdb60b",
+      "declaration": "A32–A35.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A32",
+        "A33",
+        "A34",
+        "A35"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A32.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A34.md",
+        "working/p2-enrichment/argument-depth/A35.md"
+      ]
+    },
+    {
+      "record_id": "C56",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "canonical_sha256": "1a838247ac31ad036a90ffab5858f287c8d413776e8fad46302c84515e12016e",
+      "declaration": "A31, A35–A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A31",
+        "A35",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A35.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C57",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+      "canonical_sha256": "f95b0e4ca77a04c662df6f904cc4ddab60da53f4e8ea27923b3397765ec3bf66",
+      "declaration": "A26, A28, A30–A33, A35.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A26",
+        "A28",
+        "A30",
+        "A31",
+        "A32",
+        "A33",
+        "A35"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A28.md",
+        "working/p2-enrichment/argument-depth/A30.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A32.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A35.md"
+      ]
+    },
+    {
+      "record_id": "C58",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C58-Anthropomorphization.md",
+      "canonical_sha256": "6a327b01b1d69d8f5dc37b297c61dd715a0fbd8c6e6f61014a50a67793d00eb4",
+      "declaration": "A27, A31, A33–A34.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A27",
+        "A31",
+        "A33",
+        "A34"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A27.md",
+        "working/p2-enrichment/argument-depth/A31.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A34.md"
+      ]
+    },
+    {
+      "record_id": "C59",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
+      "canonical_sha256": "38c74ce4ee20cc9504a31714f79aa9b48ad4e5f53d923d2222a0aadbc2b8184a",
+      "declaration": "A29, A35–A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A29",
+        "A35",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A29.md",
+        "working/p2-enrichment/argument-depth/A35.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C60",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+      "canonical_sha256": "5f08a9d401e2e6cb73da39a5a0735208b513209a5000e8077766bcdaa9ae8129",
+      "declaration": "A26, A32–A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A26",
+        "A32",
+        "A33",
+        "A34",
+        "A35",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A26.md",
+        "working/p2-enrichment/argument-depth/A32.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A34.md",
+        "working/p2-enrichment/argument-depth/A35.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C61",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "canonical_sha256": "e86f05b44c3d7e4dcb760d9a38928fa75bc1412ebaa29e29140c528580431957",
+      "declaration": "A18, A20, A33, A36.",
+      "declaration_line": 24,
+      "minimum_declared_argument_depth": [
+        "A18",
+        "A20",
+        "A33",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A20.md",
+        "working/p2-enrichment/argument-depth/A33.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C62",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+      "canonical_sha256": "ad85b92bf0f18ad7afb1269b8628adba6c9627f91a27dbf669bd644609e4aefb",
+      "declaration": "A14, A29–A30, A32, A35–A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A14",
+        "A29",
+        "A30",
+        "A32",
+        "A35",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A14.md",
+        "working/p2-enrichment/argument-depth/A29.md",
+        "working/p2-enrichment/argument-depth/A30.md",
+        "working/p2-enrichment/argument-depth/A32.md",
+        "working/p2-enrichment/argument-depth/A35.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C63",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+      "canonical_sha256": "cc40e31e97616c99dc428d0b41bd5b8fdc5803631329562b0057f91db06807f0",
+      "declaration": "A02, A25, A34, A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A02",
+        "A25",
+        "A34",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A02.md",
+        "working/p2-enrichment/argument-depth/A25.md",
+        "working/p2-enrichment/argument-depth/A34.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    },
+    {
+      "record_id": "C64",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "canonical_sha256": "69fff2c361af55dbece83a186b7583ca0c9d9d8f79a1ca3724e50521a87aa367",
+      "declaration": "A03, A17–A18, A21, A34–A36.",
+      "declaration_line": 11,
+      "minimum_declared_argument_depth": [
+        "A03",
+        "A17",
+        "A18",
+        "A21",
+        "A34",
+        "A35",
+        "A36"
+      ],
+      "depth_paths": [
+        "working/p2-enrichment/argument-depth/A03.md",
+        "working/p2-enrichment/argument-depth/A17.md",
+        "working/p2-enrichment/argument-depth/A18.md",
+        "working/p2-enrichment/argument-depth/A21.md",
+        "working/p2-enrichment/argument-depth/A34.md",
+        "working/p2-enrichment/argument-depth/A35.md",
+        "working/p2-enrichment/argument-depth/A36.md"
+      ]
+    }
+  ]
+}

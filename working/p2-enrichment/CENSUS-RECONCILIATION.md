@@ -1,6 +1,6 @@
 # P2 census reconciliation — live working decision
 
-Status: reconciliation in progress, not a completed queue. T17 remains open. The user’s execution instruction is the current intention record: recover original developed depth, preserve source encounters, develop T17–T23, fold back after each batch, and stop before composition/T24 acceptance. No repeated prewrite approval is required for that authorised work.
+Status: identity and discovery census reconciled; target binding and developed-page acceptance remain pending. This is not yet a completed bulk queue. T17 remains open. The user’s execution instruction is the current intention record: recover original developed depth, preserve source encounters, develop T17–T23, fold back after each batch, and stop before composition/T24 acceptance. No repeated prewrite approval is required for that authorised work.
 
 ## Controlling ground
 
@@ -34,6 +34,23 @@ Canonical SOURCE houses retain the evidence/provenance office; they are not dupl
 
 Maps remain candidates until T23 tests their distinct transverse movement against written local relations. Navigation is assembled after those relations exist. No page may be admitted merely to satisfy a scan heading, old count, or writer's need for a convenient destination.
 
+## Identity and discovery reconciliation receipt
+
+The working census now names **197 admitted bodies**, up from the initial 185. This increase repairs omissions against read governing material; no canonical file was created by the reconciliation.
+
+- Native 020 §§2, 7–8 and its §11 completed-wholes statement admit the separate Apollo/Eros/Daphne/Peneus telling, the authored Māyā/eye/veil/frame/horizon whole, and the avatar/image/mask/idol ecology. Apollo's Ovidian whole remains distinct from the comparative Apollo/Dionysus/Daphne whole. Cross-source appointments are explicit; source debt remains separate from their authorial operation.
+- Pass-B §9 explicitly retains Noether/gauge in Matheme/formal-neighbour. Exact symmetry/conservation precedes any offered generalised energetic analogy.
+- The central plan's 37-row mathematical substrate ledger requires exact homes for perfect six, tetraktys/3–4–5, Q8, ∞/dx calculus, chaos/attractors and manifold atlas. `mathematical-substrate-dispositions.json` names the surviving targets for **all 37 rows**. Disk/quotient belongs with torus/atlas and its travelling-jigsaw image; autopoiesis and computational process retain A14/Process dossier homes. Co-housing preserves distinct local operations; it does not identify their mathematical objects.
+- Central-plan §2·#3 positively appoints Indra's net as the living relational counter-image to Hephaestian capture. It receives a whole Mytheme home. Central-plan Eros/Psyche receives its explicitly supplementary QL plate home: presentation in prose remains optional, and it does not become a second governing myth. Pass-B §7 separates developed field/plate work from later manuscript exposure.
+
+Native 020 was read in full for this decision. Its remaining deep seams are explicitly retained in `census.json` under `pending_nonpage_seams`: King/arbitrator; synchronicity; layered cosmos; Levinas; energetic registers and Śaiva powers; success/succession; philology; private mask/chameleon encounters; desert-wanderer. Existing Hypostasis, Fanon and Aion wholes receive their specific recovered source relations. No generic myth or new A/C identity is invented to absorb the wider seam.
+
+`reference-note-dispositions.json` resolves **89/89** reference carriers. `legacy-carrier-dispositions.json` resolves **21 historical Arguments + 23 legacy Concepts + 4 existing maps**, with exact filenames and numerical discrepancies preserved. Every destination with a record ID validates against the expanded census. All originals remain in place. The four maps are retained pending T23's distinct-movement test, not quota-admitted new identities. The census separately retains **125 SOURCE houses**, six Etymology HISTORY companions and the earth/taste/wisdom proposal; none is a duplicate page admission.
+
+The actual `intake.json` contains **487 discoveries: 473 headings and 14 session markers in the six quilts**. `intake-dispositions.json` retains every exact input entry, source line and explicit disposition. There are 292 entries with named downstream development routes, 156 protocol/navigation/source-control anchors, six raw-sixfold format examples, and 14 session markers; substantive subsection anchors retain their corpus office whether or not a narrow downstream route is named. These categories are discovery dispositions, not the page census. A route requires its completed A-depth recovery and target packet before a writer may consume it.
+
+Two governing staleness items are carried to T22: the central plan's older Jung-attributed X=x heading versus the native authorial derivation, and older open/offered idealism wording versus the ratified A34 claim. They do not license attribution of X/x to Jung or weakening the positive argument. Machine phenomenality remains separately Open.
+
 ## Pending acceptance work
 
-Finish and review all 36 depth packets; execute actual intake only then; reconcile every live candidate and legacy disposition; assemble target-keyed page packets; prove the pilot; run target hygiene and Argument-depth/T22 backcheck. This document records substantive reconciliations already recovered while those gates remain open.
+The 36 depth packets exist and substantive review belongs to the parent execution receipt. The actual intake and identity/discovery reconciliation are now recorded. Every writer still requires a target-keyed packet binding all materially relevant A-depth receipts, direct carriers, SOURCE/NOTES recovery, Concept/Etymology relations and register contract. The scoped A01 pilot can be bound against its unchanged ratified identity while the global queue remains undispatchable until its own input gates pass. Pilot development, local hygiene, Argument-depth backcheck and T22 receipt remain required; T23 navigational acceptance and T24 developed-world audit remain ahead of manuscript composition.

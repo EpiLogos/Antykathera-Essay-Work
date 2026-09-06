@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "status": "partial-census-lock-not-dispatchable",
-  "authority": "working reconciliation; register admissions and all recovered dispositions remain to be enumerated",
+  "status": "identity-and-discovery-census-reconciled-target-binding-pending",
+  "authority": "Working census reconciles ratified T09 A/C/E, governing Pass A/B, native020 wholes and central-plan exact operations; it fixes admitted development addresses without creating canonical files.",
   "elements": [
     {
       "record_id": "A01",
@@ -2584,14 +2584,217 @@
         "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md#9-episteme--final-pre-t07-structural-census"
       ],
       "packet_status": "awaiting-complete-36-depth-review"
+    },
+    {
+      "record_id": "mytheme-apollo-eros-daphne-peneus",
+      "title": "Apollo · Eros/Cupid · Daphne · Peneus",
+      "register": "mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/myth/apollo-eros-daphne-peneus/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:65–93",
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:764–776"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "whole-mytheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "Opposed arrows, prior refusal, paternal intervention, pursuit and laurel appropriation form one Ovidian whole; distinct from the Nietzsche/Gebser comparative Apollo/Dionysus/Daphne.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt."
+    },
+    {
+      "record_id": "mytheme-maya-eye-veil-frame-horizon",
+      "title": "Anuttara · Śakti · Māyā · eye · veil · frame · horizon",
+      "register": "mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/narrative/maya-eye-veil-frame-horizon/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:305–454",
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:764–776"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "whole-mytheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "Authored cross-source image: constitutive self-veiling makes finite sight possible; secondary hybris absolutises its frame; regard and recognition reopen it. Never one inherited historical myth.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt."
+    },
+    {
+      "record_id": "mytheme-avatar-image-mask-idol",
+      "title": "Avatar · image · mask · idol",
+      "register": "mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/narrative/avatar-image-mask-idol/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:457–535",
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:764–776"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "whole-mytheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "One authored image ecology: mediation makes presence effective, then can close return and require bearer to serve image. Sanskrit, psychological, racial-historical and theological source relations stay separate.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt."
+    },
+    {
+      "record_id": "mytheme-indra-net",
+      "title": "Indra’s jewel net",
+      "register": "mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/myth/indra-net/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md:352–354"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "whole-mytheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "Huayan recursively implicated jewel field retains distinct local members; living relation counter-image to Hephaestian capture, not a generic Internet picture.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt."
+    },
+    {
+      "record_id": "mytheme-eros-psyche",
+      "title": "Eros and Psyche",
+      "register": "mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/plates/eros-psyche/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md:513–515",
+        "the-return-of-zero-central-plan.md:813–819",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md:193"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "whole-mytheme",
+      "admission_standing": "admitted-supplementary-plate-not-governing-prose-myth",
+      "distinct_operation": "Four labours, descent, apparent death, waking and marriage without merger form the optional supplementary contemplation; linked-plate default is admitted, manuscript exposure remains optional.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt."
+    },
+    {
+      "record_id": "matheme-noether-symmetry-conservation",
+      "title": "Noether: symmetry and conservation",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md:168",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md:227"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "matheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "Exact variational symmetry/conservation theorem before offered generalised energetic translation; no proof of universal psychic or computational energy equivalence.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt."
+    },
+    {
+      "record_id": "matheme-perfect-six",
+      "title": "Perfect six",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/perfect-six.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md:759",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md:199–205"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "matheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "Divisor-sum perfection is exact arithmetic; harmonic or QL significance is separately Offered.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt."
+    },
+    {
+      "record_id": "matheme-tetraktys-triangle",
+      "title": "Tetraktys and the 3–4–5 triangle",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/tetraktys-triangle.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md:760",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md:199–205"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "matheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "Historical number figure and exact right-triangle relation retain distinct proof and symbolic offices.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt."
+    },
+    {
+      "record_id": "matheme-quaternion-q8",
+      "title": "Quaternion group Q8",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/quaternion-q8.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md:764",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md:199–205"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "matheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "Noncommutative rotation relations and exact quaternion operations; QL application Offered, not inferred from sixfold count.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt."
+    },
+    {
+      "record_id": "matheme-calculus-infinity-dx",
+      "title": "∞/dx and calculus",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/calculus-infinity-dx.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md:765",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md:199–205"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "matheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "Local change and infinite-field determination: exact calculus distinct from native ∞/dx determination and psychological refraction.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt."
+    },
+    {
+      "record_id": "matheme-chaos-attractors",
+      "title": "Chaos, bifurcation and strange attractors",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md:769",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md:199–205"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "matheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "Bifurcation, attractor basin and sensitivity carry distinct dynamical operations; psychic and QL translation remains Argued.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt."
+    },
+    {
+      "record_id": "matheme-manifold-atlas",
+      "title": "Manifold atlas, charts and transition functions",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md:781",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md:199–205"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "matheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "Overlapping local charts with explicit transition functions; MEF mapping Argued and world-picture application answerable to exact mathematical scope.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt."
     }
   ],
   "remaining_reconciliation": [
-    "89 reference-note exact surviving carrier matrix",
-    "all historical/developed legacy dispositions",
-    "T23 conditional maps and MEF lens/figure contribution grain",
-    "published dialogue source versus formation-dialogue placement",
-    "Argument-depth review and all target inputs"
+    "Complete target-keyed packets with every materially relevant A-depth receipt, direct carriers and full SOURCE/NOTES reading before each writer dispatch.",
+    "T23 tests four retained maps and any proposed new transverse route for a distinct movement; no inherited quota.",
+    "Source edition/locator and empirical debts remain Open until evidence work closes them.",
+    "T22 must reconcile named governing staleness before structural or claim-status changes; T24 acceptance still gates manuscript composition."
   ],
   "non_page_carriers": [
     {
@@ -3254,5 +3457,139 @@
       "disposition": "retained-history-with-whole-field",
       "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
     }
-  ]
+  ],
+  "pending_nonpage_seams": [
+    {
+      "seam": "King / arbitrator",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "No new Mytheme: intact owning image still required; recovered civic office stays A25/E2.",
+      "existing_routes": [
+        "A25",
+        "etymology-arbitration-hybris-regard-anamnesis"
+      ]
+    },
+    {
+      "seam": "synchronicity / psychoid ordering",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Source/empirical/native claims remain distinct inside admitted dossier and A19.",
+      "existing_routes": [
+        "A19",
+        "dossier-jung-pauli-psychoid"
+      ]
+    },
+    {
+      "seam": "layered cosmos / firmament / archons",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Existing Hypostasis whole receives its exact source telling; do not generalise all cosmologies into it.",
+      "existing_routes": [
+        "mytheme-hypostasis-archons-norea-sophia"
+      ]
+    },
+    {
+      "seam": "Levinas One / All / Other",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Source-deepen inside relational argument and Indian/process comparatives; no new Levinas illustrative Mytheme.",
+      "existing_routes": [
+        "A12",
+        "A27"
+      ]
+    },
+    {
+      "seam": "plasma / energetics / jñāna-icchā-kriyā",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Physical, psychic, Śaiva and computational operations remain separately sourced; no one-substance page.",
+      "existing_routes": [
+        "A14",
+        "A19",
+        "matheme-toroidal-poloidal-confinement",
+        "matheme-noether-symmetry-conservation",
+        "dossier-indian-philosophy"
+      ]
+    },
+    {
+      "seam": "success / succession / Origin / Aion",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Not yet a recovered whole Mytheme; Aion history and existing whole retain their narrower source operations.",
+      "existing_routes": [
+        "A36",
+        "mytheme-jung-aion-fishes-christ-antichrist-alchemy"
+      ]
+    },
+    {
+      "seam": "regard / hybris / metron / crisis / context / pretext",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Historical philology remains source work inside mature T09 E2, not native020 candidate sixfold replacement.",
+      "existing_routes": [
+        "etymology-arbitration-hybris-regard-anamnesis"
+      ]
+    },
+    {
+      "seam": "mask / chameleon / Fanon",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Existing Fanon whole retains source-specific racial-historical work; private biographical seam remains nonpublication provenance.",
+      "existing_routes": [
+        "mytheme-fanon-language-gaze-mask-recognition",
+        "mytheme-avatar-image-mask-idol"
+      ]
+    },
+    {
+      "seam": "desert-wanderer / renunciant / return-to-culture",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Pending source-bearing whole or explicit cross-source appointment; not admitted. No generic mystic record.",
+      "existing_routes": []
+    }
+  ],
+  "reconciliation_receipts": {
+    "reference_notes": {
+      "path": "working/p2-enrichment/reference-note-dispositions.json",
+      "count": 89,
+      "status": "all surviving destinations named; originals retained; no reference heading admitted as page"
+    },
+    "legacy_and_maps": {
+      "path": "working/p2-enrichment/legacy-carrier-dispositions.json",
+      "count": 48,
+      "historical_arguments": 21,
+      "legacy_concepts": 23,
+      "existing_maps": 4,
+      "status": "all filenames resolved; numeric mismatches preserved; four maps retained pending T23 distinct-movement test"
+    },
+    "mathematical_substrate": {
+      "path": "working/p2-enrichment/mathematical-substrate-dispositions.json",
+      "count": 37,
+      "status": "all exact operations have named surviving homes"
+    },
+    "etymology": {
+      "whole_fields": 6,
+      "history_companions": 6,
+      "earth_taste_wisdom": "retained proposal; no additional whole-field admitted"
+    },
+    "source_houses": {
+      "count": 125,
+      "status": "retained evidence/provenance houses; SOURCE schema retained; no duplicate raw-sixfold page"
+    },
+    "intake": {
+      "path": "working/p2-enrichment/intake-dispositions.json",
+      "status": "all 487 entries explicitly disposed; no heading promoted to identity"
+    }
+  },
+  "governing_staleness_for_T22": [
+    {
+      "authority": "the-return-of-zero-central-plan.md:503",
+      "problem": "Old heading calls X=x Jung’s; native core and AGENTS establish authorial X/x before Jungian refraction.",
+      "disposition": "Plan-first correction required; never attribute authorial notation to Jung."
+    },
+    {
+      "authority": "the-return-of-zero-central-plan.md#open-decisions-to-settle-during-drafting",
+      "problem": "Older offered/open idealism wording must be compared with ratified A34 and direct authored argument.",
+      "disposition": "Do not weaken earned A34 claim due stale global heading; machine phenomenality remains separately Open."
+    }
+  ],
+  "identity_reconciliation": {
+    "previous_elements": 185,
+    "elements": 197,
+    "new_admitted_bodies": 12,
+    "previous_sha256": "9321add8d86223d56db74310727314639c9ce488eb272b199ec87247e5899a99",
+    "canonical_files_created": 0,
+    "status": "ready-for-parent-review-and-target-specific-pilot-binding"
+  }
 }

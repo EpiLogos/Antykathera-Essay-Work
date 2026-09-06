@@ -25,3 +25,9 @@ All 36 depth packets passed worker coverage audits and parent review; `depth-acc
 A source-locality repair updated the Draft3 SOURCE local_copy from its stale Documents address to the existing repository carrier. The full carrier, SOURCE, and three declared transverse maps were read after the effect map was recorded. Source readiness and the historical extraction record remain unchanged. All three source projections were regenerated and their check passed. No protected NOTES was changed or restored from the stash.
 
 T17 is not complete: the pilot still must prove canonical sixfold development, written relations, local hygiene, Argument backcheck, and T22 disposition. T18–T23 and the T24 pre-composition audit remain outstanding.
+
+## Census and target-packet checkpoint
+
+Identity reconciliation now records 197 admitted homes, with 487 intake entries explicitly retained/disposed as discovery/provenance rather than scanner-created identities. The 37 mathematical substrate rows, 89 reference notes and 48 legacy/map carriers have named dispositions. `dispatch-queue.json` locks those identities while keeping missing target bindings explicit. Six bindings are available: A01 and the five root Symbolon relations. The actual packet command passed for all six, including required direct, source and additional canonical inputs. A01 is released as the single T17 pilot; bulk page writing remains after pilot acceptance.
+
+Six real-workspace functional tests pass. The latest check rejects duplicate admitted homes and duplicate identities at different existing homes; target packet extraction now hashes the additional required canonical inputs as well. No philosophical completion is inferred from these mechanical checks.
