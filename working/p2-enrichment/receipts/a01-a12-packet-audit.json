@@ -6,84 +6,97 @@
       "quilt_files": 6,
       "missing": [],
       "bad_markers": [],
-      "bytes": 16955
+      "bytes": 17388,
+      "sha256": "55f8d29502bfb37460a3e87902a53f674993b6afc3f17e56a16148cdcd449aeb"
     },
     {
       "argument": "A02",
       "quilt_files": 6,
       "missing": [],
       "bad_markers": [],
-      "bytes": 17267
+      "bytes": 17995,
+      "sha256": "4c7a504b470a9fba3c55970801437fc09f684a973dc63dc09d3a716aca3ea72f"
     },
     {
       "argument": "A03",
       "quilt_files": 6,
       "missing": [],
       "bad_markers": [],
-      "bytes": 15806
+      "bytes": 16239,
+      "sha256": "683fa44eacf5e9c0023aebd5217fcd8ad1b0b581edf24879198cef59ddc201d4"
     },
     {
       "argument": "A04",
       "quilt_files": 6,
       "missing": [],
       "bad_markers": [],
-      "bytes": 16553
+      "bytes": 17841,
+      "sha256": "def73d301c429c7329520560700f730361109c70bf660a1c2ba603eed372f65d"
     },
     {
       "argument": "A05",
       "quilt_files": 6,
       "missing": [],
       "bad_markers": [],
-      "bytes": 16327
+      "bytes": 17320,
+      "sha256": "16fafeac903944e7bfcbcd9f9e96d8fccd0611fbc65c4984c628591fba6cfda1"
     },
     {
       "argument": "A06",
       "quilt_files": 6,
       "missing": [],
       "bad_markers": [],
-      "bytes": 16672
+      "bytes": 17400,
+      "sha256": "72cd7d73ae8583a1d7dec1dd8974669d9cc5f7497aa8efb95dfa768e0608c262"
     },
     {
       "argument": "A07",
       "quilt_files": 6,
       "missing": [],
       "bad_markers": [],
-      "bytes": 17164
+      "bytes": 18452,
+      "sha256": "8f6aae272cc86877286b844e6fa65911c05885d3e50b388179ed623294406e01"
     },
     {
       "argument": "A08",
       "quilt_files": 6,
       "missing": [],
       "bad_markers": [],
-      "bytes": 16138
+      "bytes": 16866,
+      "sha256": "b7d191ee608836a003f0e73d28b770ee4f2fcd37dcca054ad64a8bc3156e1fb7"
     },
     {
       "argument": "A09",
       "quilt_files": 6,
       "missing": [],
       "bad_markers": [],
-      "bytes": 17600
+      "bytes": 18888,
+      "sha256": "7bbb367d7fe465f1d22b962495426f1a89d462d6f6c7fe4e3636dcd37978af5f"
     },
     {
       "argument": "A10",
       "quilt_files": 6,
       "missing": [],
       "bad_markers": [],
-      "bytes": 16527
+      "bytes": 18769,
+      "sha256": "bab78b321241cb345013760b9e68011086eb8380ba640d98a7c525e87e7df17a"
     },
     {
       "argument": "A11",
       "quilt_files": 6,
       "missing": [],
       "bad_markers": [],
-      "bytes": 15764
+      "bytes": 17299,
+      "sha256": "10aa4b818a9949cc76ef57cb1a80dcf37f560c933f22c7d8212f80025267d8ff"
     },
     {
       "argument": "A12",
       "quilt_files": 6,
       "missing": [],
       "bad_markers": [],
-      "bytes": 17745
+      "bytes": 19575,
+      "sha256": "a4bfa473d034e31cd6cbd7afc45b96236929665a4dd42f4e3f056e3973c58b39"
     }
-  ]
+  ],
+  "semantic_audit": "Beside canonical first-materialisation, each packet names recovered operations and exact quilt current-preservation assessments. Source readiness stays separate from authorial standing; delegated full reads explicitly attributed. No canonical restoration is certified."
 }

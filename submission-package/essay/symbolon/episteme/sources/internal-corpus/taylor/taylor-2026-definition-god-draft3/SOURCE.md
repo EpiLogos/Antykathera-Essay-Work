@@ -13,7 +13,7 @@ author:
 - Frank G. Taylor
 title_full: The Definition of God — Draft 3
 year: 2026
-local_copy: /Users/admin/Documents/Nara-Personal/Antykathera-Essay-Work/definition-of-god-working/The Definition of God — Draft 3.md
+local_copy: working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md
 consumed_by_sections:
 - '[[02-s01-p1-define-subject|§0/1/#1]]'
 - '[[03-s01-p2-definition-cut-gift-danger|§0/1/#2]]'
@@ -63,7 +63,7 @@ passage_surface: '#passages'
 
 Fixed local internal manuscript by Frank G. Taylor. It is the authorial source for the definition of the subject, `/` as AND/OR, Eros, Apollo/Dionysus, Ares/Aphrodite/Hephaestus/Harmonia, apophatic paradox, trust, faith, the 4+2 prose route, and Deferential Intelligence.
 
-**Local-copy state:** recoverable fixed local Markdown file at the path in frontmatter; 279 lines, checked 2026-07-14. The detailed line-verified extraction is [[Source Extraction — The Definition of God, Draft 3]].
+**Local-copy state:** present in the accepted local checkout at the repository-relative path in frontmatter; 279 lines, read in full again during P2 on 2026-09-06. The former personal-checkout path is stale; the manuscript itself was not missing. Its protected `[F]` corrections remain intact. The detailed line-verified extraction is [[Source Extraction — The Definition of God, Draft 3]].
 
 ## Chicago 18 forms
 
@@ -100,7 +100,7 @@ Mine this work for the author's own complete arguments and formulations. Its 29 
 - **Metadata source:** title, author, year, and complete text inspected in the fixed local manuscript.
 - **Text consulted:** `/Users/admin/Documents/Nara-Personal/definition-of-god-working/The Definition of God — Draft 3.md`.
 - **Local copy:** Markdown, 279 lines; no OCR; no ambiguity in transcription.
-- **Last checked:** 2026-07-14.
+- **Last checked:** source extraction 2026-07-14; current locality and full direct manuscript recovery 2026-09-06. Passage readiness is unchanged by this locator repair.
 
 ## Research notes
 

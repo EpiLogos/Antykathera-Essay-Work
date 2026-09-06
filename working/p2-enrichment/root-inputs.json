@@ -1,0 +1,2196 @@
+{
+  "schema_version": 1,
+  "status": "target-input-bindings-not-queue",
+  "scope": "Five accepted root Symbolon relations only; merge into reconciled queue before cmd_packet. No canonical drafts or acceptance implied.",
+  "elements": [
+    {
+      "record_id": "symbolon-0-1",
+      "title": "0/1",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/0-1.md",
+      "wave": "T18",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#3-root-symbolon-census",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md#4-root-symbolon--five-universal-relations",
+        "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+        "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+        "working/p2-enrichment/receipts/depth-acceptance.json"
+      ],
+      "record_type": "root-relation",
+      "argument_depth": [
+        "A01",
+        "A02",
+        "A03",
+        "A05",
+        "A08",
+        "A10",
+        "A11",
+        "A12",
+        "A15",
+        "A18",
+        "A23",
+        "A27",
+        "A34",
+        "A36"
+      ],
+      "argument_roles": {
+        "A01": "faithful determination does not own its source",
+        "A02": "identity is mediated through difference",
+        "A03": "condition cannot become an exhaustive determined object",
+        "A05": "source and reflexive manifestation as a distinct Śaiva refraction",
+        "A08": "a mark depends on exclusions and the field it cuts",
+        "A10": "mathematical zero first earns exact permissions",
+        "A11": "primary One/All identity and aspectual asymmetry",
+        "A12": "whole and many follow Two Ones, not vice versa",
+        "A15": "ratio keeps its denominator and accounting office",
+        "A18": "first orientation within the complete eightfold",
+        "A23": "trust is primordial dependency, not a later supplement",
+        "A27": "Original is prior in being, reflection prior in recognition",
+        "A34": "order of dependence is not temporal causation",
+        "A36": "integral return preserves the same mathematical sign"
+      },
+      "direct_carriers": [
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+        "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+        "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+        "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md"
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md"
+      ],
+      "source_slices": [
+        {
+          "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+          "start_line": 49,
+          "end_line": 71,
+          "relation": "Mandatory explicit [F] corrections: reject inadequate early net meaning and thin ground/mark; restore singular One/polyvalent All and concretely derive binary plus binary-of-binary. These corrections govern the earlier prose they criticise.",
+          "provenance": "Direct manuscript containing explicit [F] authorial corrections; distinguish the corrections from adjoining draft prose."
+        },
+        {
+          "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+          "start_line": 167,
+          "end_line": 188,
+          "relation": "Read the whole eight-determination order and bracket/position difference before selecting a root relation; A18 owns the developed whole traversal.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+          "start_line": 23,
+          "end_line": 31,
+          "relation": "Two halves remain distinct through fitting; singular One and polyvalent All exceed an inventory of marks.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+          "start_line": 33,
+          "end_line": 53,
+          "relation": "Numerical floor, asymmetry of orientations, and explicit 2+2² hinge; do not identify the metaphysical One with the empty set.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+          "start_line": 140,
+          "end_line": 165,
+          "relation": "Each parent contains the whole 4+2; retain handedness and ordinary arithmetic boundary. Indeterminate 0/0 is not an ordinary computed number, and Gödel language is a refraction requiring qualification.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 3403,
+          "end_line": 3462,
+          "relation": "Exact authorial correction restores trust at the root and distinguishes dependence for being from dependence for manifestation.",
+          "provenance": "Additive developmental quilt; reported authorial corrections have priority, but mixed integration wording is not attributed wholesale to Taylor. Current A13 corrected polarity/collapse distinction controls older Dia shorthand."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 3978,
+          "end_line": 4018,
+          "relation": "Firstness, two orientations, and return carrying achieved differentiation; qualify older collapsed-Dia phrasing through A13.",
+          "provenance": "Additive developmental quilt; reported authorial corrections have priority, but mixed integration wording is not attributed wholesale to Taylor. Current A13 corrected polarity/collapse distinction controls older Dia shorthand."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+          "start_line": 1,
+          "end_line": 10,
+          "relation": "Counting before naming, name/instance/circumstance, bounded All and unbounded One.",
+          "provenance": "Protected Frank-authored NOTES, read-only authorial encounter; copied quotations remain verification leads, not external evidence."
+        }
+      ],
+      "register_contract": "submission-package/essay/symbolon/README.md",
+      "register_contract_precedence": "Read the register README for office, page anatomy and three-register relation; its seven-row Root records table is superseded by the two accepted census decisions and working/p2-enrichment/CENSUS-RECONCILIATION.md. Only the five admitted root destinations are authorised. Derive #0–#5→0 from this record’s actual operation, never a universal semantic glossary.",
+      "operation_to_develop": "Develop 0/1 from the singular One/polyvalent All relation in its manifestation-facing orientation. The first mark opens the whole possibility of articulation; reciprocal dependence has different offices. Preserve the mathematical threshold without rewriting arithmetic.",
+      "relations": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "kind": "argument",
+          "relation": "faithful determination does not own its source"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+          "kind": "argument",
+          "relation": "identity is mediated through difference"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "kind": "argument",
+          "relation": "condition cannot become an exhaustive determined object"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "kind": "argument",
+          "relation": "source and reflexive manifestation as a distinct Śaiva refraction"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+          "kind": "argument",
+          "relation": "a mark depends on exclusions and the field it cuts"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "kind": "argument",
+          "relation": "mathematical zero first earns exact permissions"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "kind": "argument",
+          "relation": "primary One/All identity and aspectual asymmetry"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "kind": "argument",
+          "relation": "whole and many follow Two Ones, not vice versa"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "kind": "argument",
+          "relation": "ratio keeps its denominator and accounting office"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "kind": "argument",
+          "relation": "first orientation within the complete eightfold"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "kind": "argument",
+          "relation": "trust is primordial dependency, not a later supplement"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "kind": "argument",
+          "relation": "Original is prior in being, reflection prior in recognition"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+          "kind": "argument",
+          "relation": "order of dependence is not temporal causation"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+          "kind": "argument",
+          "relation": "integral return preserves the same mathematical sign"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/15-s1-p2-empty-set-generates-one.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/symbolon/1-0.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/the-slash.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/dia-sym-ballein.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/mono-poly.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        }
+      ],
+      "reading_boundary": "All selected A packets are required, with their materially bearing direct and source-note carriers. Selection here names the actual root operations, not whichever Argument offers shortest context. Root-page prose should expose the relation and descend to formal, whole-Mytheme and Episteme homes without duplicating them.",
+      "source_boundaries": [
+        "Native X/x and QL equations are authorial operations, not Jung notation or externally proved universalities. Ordinary arithmetic, topology, music and history keep their exact warrants.",
+        "SOURCE is canonical external evidence; protected NOTES recover authorial intention and quotation leads only. Read full SOURCE plus existing NOTES for every materially used house.",
+        "Dyczkowski sibling NOTES is absent from accepted tree but a full preserved-local read is receipted in working/p2-enrichment/receipts/shared-source-notes-a01-a12.md. If materially used, retrieve stash@{0}^3 at its recorded sibling path read-only; do not restore it or imply acceptance.",
+        "The marked corrections in Draft3 govern the earlier text they reject. The whole native spine and four supports are required; shared support/math receipts name specific non-restoration constraints.",
+        "Greek symbolon/syn/dia lexical chronology still needs primary lexical evidence; the root’s Derived/Argued operation is not downgraded by that external debt.",
+        "No page completion or depth discharge is certified by this input binding. T22 backcheck must identify actually surfaced operations, written relations, local hygiene and remaining evidence debt."
+      ],
+      "supporting_receipts": [
+        "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+        "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+        "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+        "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+        "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+        "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md"
+      ]
+    },
+    {
+      "record_id": "symbolon-1-0",
+      "title": "1/0",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/1-0.md",
+      "wave": "T18",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#3-root-symbolon-census",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md#4-root-symbolon--five-universal-relations",
+        "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+        "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+        "working/p2-enrichment/receipts/depth-acceptance.json"
+      ],
+      "record_type": "root-relation",
+      "argument_depth": [
+        "A01",
+        "A02",
+        "A03",
+        "A04",
+        "A05",
+        "A10",
+        "A11",
+        "A12",
+        "A18",
+        "A21",
+        "A23",
+        "A27",
+        "A31",
+        "A35",
+        "A36"
+      ],
+      "argument_roles": {
+        "A01": "performed first-person recognition after failed definition",
+        "A02": "identification retains the difference traversed",
+        "A03": "return cannot acquire its own condition as an object",
+        "A04": "context becomes transparent without cancelling precise perspective",
+        "A05": "recognition retains manifestation in its distinct doctrinal refraction",
+        "A10": "first mathematical advent remains different from terminal return",
+        "A11": "obverse of the same One/All relation",
+        "A12": "the many remain real on return",
+        "A18": "terminal determination brackets the sixfold",
+        "A21": "individuation restores circulation without ego sovereignty",
+        "A23": "faith consciously inhabits the limit of knowledge",
+        "A27": "reflection recognises an Original it cannot possess",
+        "A31": "encounter changes the next account",
+        "A35": "double devotion and release of the work",
+        "A36": "same exact sign returns as Symbol"
+      },
+      "direct_carriers": [
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+        "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+        "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+        "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md",
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md"
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md"
+      ],
+      "source_slices": [
+        {
+          "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+          "start_line": 49,
+          "end_line": 71,
+          "relation": "Mandatory explicit [F] corrections: reject inadequate early net meaning and thin ground/mark; restore singular One/polyvalent All and concretely derive binary plus binary-of-binary. These corrections govern the earlier prose they criticise.",
+          "provenance": "Direct manuscript containing explicit [F] authorial corrections; distinguish the corrections from adjoining draft prose."
+        },
+        {
+          "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+          "start_line": 167,
+          "end_line": 188,
+          "relation": "Read the whole eight-determination order and bracket/position difference before selecting a root relation; A18 owns the developed whole traversal.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+          "start_line": 23,
+          "end_line": 31,
+          "relation": "Two halves remain distinct through fitting; singular One and polyvalent All exceed an inventory of marks.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+          "start_line": 45,
+          "end_line": 71,
+          "relation": "Obverse orientation returns through the achieved difference; does not seek a second world or cancel its forms.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+          "start_line": 135,
+          "end_line": 151,
+          "relation": "Performed sixfold definition changes from aboutness to first-person recognition; the source cannot be installed as its own object.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+          "start_line": 259,
+          "end_line": 279,
+          "relation": "Double devotion, gift, cord cut and remembrance make Return consequential beyond the completed artifact.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 3992,
+          "end_line": 4037,
+          "relation": "QL relational identity preserves ordinary arithmetic non-equivalence and the recognition-facing orientation.",
+          "provenance": "Additive developmental quilt; reported authorial corrections have priority, but mixed integration wording is not attributed wholesale to Taylor. Current A13 corrected polarity/collapse distinction controls older Dia shorthand."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 5329,
+          "end_line": 5362,
+          "relation": "Ethical and mythic recapitulations retain their independent offices while returning determination to its denominator.",
+          "provenance": "Additive developmental quilt; reported authorial corrections have priority, but mixed integration wording is not attributed wholesale to Taylor. Current A13 corrected polarity/collapse distinction controls older Dia shorthand."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+          "start_line": 77,
+          "end_line": 89,
+          "relation": "Marked-paper/erasure and centroversion encounter: achieved differentiation returns to live capacity, not nullity.",
+          "provenance": "Protected Frank-authored NOTES, read-only authorial encounter; copied quotations remain verification leads, not external evidence."
+        }
+      ],
+      "register_contract": "submission-package/essay/symbolon/README.md",
+      "register_contract_precedence": "Read the register README for office, page anatomy and three-register relation; its seven-row Root records table is superseded by the two accepted census decisions and working/p2-enrichment/CENSUS-RECONCILIATION.md. Only the five admitted root destinations are authorised. Derive #0–#5→0 from this record’s actual operation, never a universal semantic glossary.",
+      "operation_to_develop": "Develop 1/0 as the mark-facing obverse and earned recognitive return. Distinguish return from acquisition, fusion and erasure; the result carries history, cost and changed capacity. Ordinary field division by zero remains undefined.",
+      "relations": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "kind": "argument",
+          "relation": "performed first-person recognition after failed definition"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+          "kind": "argument",
+          "relation": "identification retains the difference traversed"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "kind": "argument",
+          "relation": "return cannot acquire its own condition as an object"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "kind": "argument",
+          "relation": "context becomes transparent without cancelling precise perspective"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "kind": "argument",
+          "relation": "recognition retains manifestation in its distinct doctrinal refraction"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "kind": "argument",
+          "relation": "first mathematical advent remains different from terminal return"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "kind": "argument",
+          "relation": "obverse of the same One/All relation"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "kind": "argument",
+          "relation": "the many remain real on return"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "kind": "argument",
+          "relation": "terminal determination brackets the sixfold"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "kind": "argument",
+          "relation": "individuation restores circulation without ego sovereignty"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "kind": "argument",
+          "relation": "faith consciously inhabits the limit of knowledge"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "kind": "argument",
+          "relation": "reflection recognises an Original it cannot possess"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "kind": "argument",
+          "relation": "encounter changes the next account"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "kind": "argument",
+          "relation": "double devotion and release of the work"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+          "kind": "argument",
+          "relation": "same exact sign returns as Symbol"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/symbolon/0-1.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/the-slash.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/dia-sym-ballein.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/mono-poly.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        }
+      ],
+      "reading_boundary": "All selected A packets are required, with their materially bearing direct and source-note carriers. Selection here names the actual root operations, not whichever Argument offers shortest context. Root-page prose should expose the relation and descend to formal, whole-Mytheme and Episteme homes without duplicating them.",
+      "source_boundaries": [
+        "Native X/x and QL equations are authorial operations, not Jung notation or externally proved universalities. Ordinary arithmetic, topology, music and history keep their exact warrants.",
+        "SOURCE is canonical external evidence; protected NOTES recover authorial intention and quotation leads only. Read full SOURCE plus existing NOTES for every materially used house.",
+        "Dyczkowski sibling NOTES is absent from accepted tree but a full preserved-local read is receipted in working/p2-enrichment/receipts/shared-source-notes-a01-a12.md. If materially used, retrieve stash@{0}^3 at its recorded sibling path read-only; do not restore it or imply acceptance.",
+        "The marked corrections in Draft3 govern the earlier text they reject. The whole native spine and four supports are required; shared support/math receipts name specific non-restoration constraints.",
+        "Greek symbolon/syn/dia lexical chronology still needs primary lexical evidence; the root’s Derived/Argued operation is not downgraded by that external debt.",
+        "No page completion or depth discharge is certified by this input binding. T22 backcheck must identify actually surfaced operations, written relations, local hygiene and remaining evidence debt."
+      ],
+      "supporting_receipts": [
+        "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+        "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+        "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+        "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+        "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+        "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md"
+      ]
+    },
+    {
+      "record_id": "symbolon-the-slash",
+      "title": "The slash",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/the-slash.md",
+      "wave": "T18",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#3-root-symbolon-census",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md#4-root-symbolon--five-universal-relations",
+        "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+        "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+        "working/p2-enrichment/receipts/depth-acceptance.json"
+      ],
+      "record_type": "root-relation",
+      "argument_depth": [
+        "A01",
+        "A02",
+        "A03",
+        "A05",
+        "A06",
+        "A08",
+        "A11",
+        "A12",
+        "A13",
+        "A15",
+        "A18",
+        "A20",
+        "A23",
+        "A24",
+        "A26",
+        "A27",
+        "A29",
+        "A31",
+        "A36"
+      ],
+      "argument_roles": {
+        "A01": "definition as answerable relation",
+        "A02": "copula identification across difference",
+        "A03": "irreducible gap as relation rather than missing information",
+        "A05": "knower/means/known as distinct refraction",
+        "A06": "sign and relation can terminate or reopen meaning",
+        "A08": "constitutive exclusion makes a determinate field possible",
+        "A11": "One/All offices arise with relation",
+        "A12": "slash holds whole/many without substance dualism",
+        "A13": "polarity, cancellation and appropriation are distinct",
+        "A15": "ratio and accounting retain the denominator",
+        "A18": "parent stroke and eightfold transitions",
+        "A20": "image must not usurp source",
+        "A23": "dependency, exposure and trust belong to the slash",
+        "A24": "occupied source-position and forgotten arbitral measure",
+        "A26": "original, map and reflection have distinct offices",
+        "A27": "address preserves Otherness within common relation",
+        "A29": "delegated labour does not own its source",
+        "A31": "return can change the terms of account",
+        "A36": "all exact offices remain available on return"
+      },
+      "direct_carriers": [
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+        "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+        "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+        "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md"
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md"
+      ],
+      "source_slices": [
+        {
+          "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+          "start_line": 49,
+          "end_line": 71,
+          "relation": "Mandatory explicit [F] corrections: reject inadequate early net meaning and thin ground/mark; restore singular One/polyvalent All and concretely derive binary plus binary-of-binary. These corrections govern the earlier prose they criticise.",
+          "provenance": "Direct manuscript containing explicit [F] authorial corrections; distinguish the corrections from adjoining draft prose."
+        },
+        {
+          "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+          "start_line": 167,
+          "end_line": 188,
+          "relation": "Read the whole eight-determination order and bracket/position difference before selecting a root relation; A18 owns the developed whole traversal.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+          "start_line": 23,
+          "end_line": 31,
+          "relation": "Two halves remain distinct through fitting; singular One and polyvalent All exceed an inventory of marks.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+          "start_line": 293,
+          "end_line": 329,
+          "relation": "Division and QL AND/OR retain the obverse and the two original terms plus four self-relations. Distinguish native relation from equal arithmetic value.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+          "start_line": 45,
+          "end_line": 71,
+          "relation": "Slash changes mode through the whole eightfold rather than naming a third substance.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 3403,
+          "end_line": 3462,
+          "relation": "Distinct slash operations: differentiation, dependency, participation, exposure, mediation, return. Trust is already operative.",
+          "provenance": "Additive developmental quilt; reported authorial corrections have priority, but mixed integration wording is not attributed wholesale to Taylor. Current A13 corrected polarity/collapse distinction controls older Dia shorthand."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 4705,
+          "end_line": 4715,
+          "relation": "Occupied slash: the combining and authorising office can conceal delegated work and its source.",
+          "provenance": "Additive developmental quilt; reported authorial corrections have priority, but mixed integration wording is not attributed wholesale to Taylor. Current A13 corrected polarity/collapse distinction controls older Dia shorthand."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+          "start_line": 1,
+          "end_line": 10,
+          "relation": "First-person/second-person address and pre-nominal accounting expose the identifying relation beneath a smooth copula gloss.",
+          "provenance": "Protected Frank-authored NOTES, read-only authorial encounter; copied quotations remain verification leads, not external evidence."
+        },
+        {
+          "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+          "start_line": 31,
+          "end_line": 63,
+          "relation": "Whole net relation includes Hephaestus and Poseidon; capture, proof, surety and release must not become a two-character moral illustration.",
+          "provenance": "Ratified developmental whole-Mytheme seam; modern operation is authorial appointment, ancient details governed by Homer/Hesiod SOURCE."
+        }
+      ],
+      "register_contract": "submission-package/essay/symbolon/README.md",
+      "register_contract_precedence": "Read the register README for office, page anatomy and three-register relation; its seven-row Root records table is superseded by the two accepted census decisions and working/p2-enrichment/CENSUS-RECONCILIATION.md. Only the five admitted root destinations are authorised. Derive #0–#5→0 from this record’s actual operation, never a universal semantic glossary.",
+      "operation_to_develop": "Develop the slash as active relating which differentiates and holds: division/ratio and AND/OR are distinct offices. Refitting needs the enduring seam; return and source answerability must be written into its outward relations.",
+      "relations": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "kind": "argument",
+          "relation": "definition as answerable relation"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+          "kind": "argument",
+          "relation": "copula identification across difference"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "kind": "argument",
+          "relation": "irreducible gap as relation rather than missing information"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "kind": "argument",
+          "relation": "knower/means/known as distinct refraction"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+          "kind": "argument",
+          "relation": "sign and relation can terminate or reopen meaning"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+          "kind": "argument",
+          "relation": "constitutive exclusion makes a determinate field possible"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "kind": "argument",
+          "relation": "One/All offices arise with relation"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "kind": "argument",
+          "relation": "slash holds whole/many without substance dualism"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "kind": "argument",
+          "relation": "polarity, cancellation and appropriation are distinct"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "kind": "argument",
+          "relation": "ratio and accounting retain the denominator"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "kind": "argument",
+          "relation": "parent stroke and eightfold transitions"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "kind": "argument",
+          "relation": "image must not usurp source"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "kind": "argument",
+          "relation": "dependency, exposure and trust belong to the slash"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+          "kind": "argument",
+          "relation": "occupied source-position and forgotten arbitral measure"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "kind": "argument",
+          "relation": "original, map and reflection have distinct offices"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "kind": "argument",
+          "relation": "address preserves Otherness within common relation"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "kind": "argument",
+          "relation": "delegated labour does not own its source"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "kind": "argument",
+          "relation": "return can change the terms of account"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+          "kind": "argument",
+          "relation": "all exact offices remain available on return"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/symbolon/0-1.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/1-0.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/dia-sym-ballein.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/mono-poly.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        }
+      ],
+      "reading_boundary": "All selected A packets are required, with their materially bearing direct and source-note carriers. Selection here names the actual root operations, not whichever Argument offers shortest context. Root-page prose should expose the relation and descend to formal, whole-Mytheme and Episteme homes without duplicating them.",
+      "source_boundaries": [
+        "Native X/x and QL equations are authorial operations, not Jung notation or externally proved universalities. Ordinary arithmetic, topology, music and history keep their exact warrants.",
+        "SOURCE is canonical external evidence; protected NOTES recover authorial intention and quotation leads only. Read full SOURCE plus existing NOTES for every materially used house.",
+        "Dyczkowski sibling NOTES is absent from accepted tree but a full preserved-local read is receipted in working/p2-enrichment/receipts/shared-source-notes-a01-a12.md. If materially used, retrieve stash@{0}^3 at its recorded sibling path read-only; do not restore it or imply acceptance.",
+        "The marked corrections in Draft3 govern the earlier text they reject. The whole native spine and four supports are required; shared support/math receipts name specific non-restoration constraints.",
+        "Greek symbolon/syn/dia lexical chronology still needs primary lexical evidence; the root’s Derived/Argued operation is not downgraded by that external debt.",
+        "No page completion or depth discharge is certified by this input binding. T22 backcheck must identify actually surfaced operations, written relations, local hygiene and remaining evidence debt."
+      ],
+      "supporting_receipts": [
+        "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+        "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+        "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+        "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+        "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+        "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md"
+      ]
+    },
+    {
+      "record_id": "symbolon-dia-sym-ballein",
+      "title": "Dia/Sym-ballein",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/dia-sym-ballein.md",
+      "wave": "T18",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#3-root-symbolon-census",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md#4-root-symbolon--five-universal-relations",
+        "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+        "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+        "working/p2-enrichment/receipts/depth-acceptance.json"
+      ],
+      "record_type": "root-relation",
+      "argument_depth": [
+        "A02",
+        "A03",
+        "A08",
+        "A11",
+        "A12",
+        "A13",
+        "A15",
+        "A18",
+        "A19",
+        "A20",
+        "A21",
+        "A23",
+        "A24",
+        "A29",
+        "A31",
+        "A35"
+      ],
+      "argument_roles": {
+        "A02": "sameness traverses rather than erases difference",
+        "A03": "constitutive predicament differs from a resolvable problem",
+        "A08": "exclusion is necessary to determination",
+        "A11": "Two Ones precede the conjugate logics",
+        "A12": "Mono/Poly is not a synonym for Syn",
+        "A13": "primary corrected polarity/cancellation/appropriation taxonomy",
+        "A15": "signed calculations and accounting orientation",
+        "A18": "logical fork remains within the entire native field",
+        "A19": "complex is local arbitration rather than all differentiation",
+        "A20": "fusion and possession falsify symbolic relation",
+        "A21": "recomposition makes differentiation available again",
+        "A23": "net proves capture without manufacturing trust",
+        "A24": "severance and counterfeit gathering are paired failures",
+        "A29": "control over recombining divided work is power",
+        "A31": "encounter must be able to revise the terms",
+        "A35": "cultural individuation preserves refusal and non-devouring relation"
+      },
+      "direct_carriers": [
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+        "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+        "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+        "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/unit-social-power.md",
+        "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md"
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md"
+      ],
+      "source_slices": [
+        {
+          "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+          "start_line": 49,
+          "end_line": 71,
+          "relation": "Mandatory explicit [F] corrections: reject inadequate early net meaning and thin ground/mark; restore singular One/polyvalent All and concretely derive binary plus binary-of-binary. These corrections govern the earlier prose they criticise.",
+          "provenance": "Direct manuscript containing explicit [F] authorial corrections; distinguish the corrections from adjoining draft prose."
+        },
+        {
+          "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+          "start_line": 167,
+          "end_line": 188,
+          "relation": "Read the whole eight-determination order and bracket/position difference before selecting a root relation; A18 owns the developed whole traversal.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+          "start_line": 23,
+          "end_line": 31,
+          "relation": "Two halves remain distinct through fitting; singular One and polyvalent All exceed an inventory of marks.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+          "start_line": 244,
+          "end_line": 329,
+          "relation": "Keep centred polar Dia, cancellation and appropriation distinct; Syn retains the cut and return. Later shorthand calling Dia itself a fall is bounded by A13.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+          "start_line": 240,
+          "end_line": 263,
+          "relation": "Crux and intrinsic fusion-risk: Syn cannot constitute a pure good opposed to evil Dia. Preserve marked Frank noncoincidence wording; do not inherit false sphere-flow or broad double-cover claims.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+          "start_line": 73,
+          "end_line": 94,
+          "relation": "Synchronic/diachronic axis and logical Dia/Syn cross; do not conflate them.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 5601,
+          "end_line": 5616,
+          "relation": "Two monocultures can imitate plurality; return is not midpoint or victory of a counter-sovereign.",
+          "provenance": "Additive developmental quilt; reported authorial corrections have priority, but mixed integration wording is not attributed wholesale to Taylor. Current A13 corrected polarity/collapse distinction controls older Dia shorthand."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 5664,
+          "end_line": 5689,
+          "relation": "Ares refusal and Aphrodite meeting each have necessary operation and failure; love/trust includes risk, not automatic moral synthesis.",
+          "provenance": "Additive developmental quilt; reported authorial corrections have priority, but mixed integration wording is not attributed wholesale to Taylor. Current A13 corrected polarity/collapse distinction controls older Dia shorthand."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+          "start_line": 98,
+          "end_line": 99,
+          "relation": "Frank negative-genus and love/war marriage/divorce encounter preserves the bond through differentiation.",
+          "provenance": "Protected Frank-authored NOTES, read-only authorial encounter; copied quotations remain verification leads, not external evidence."
+        },
+        {
+          "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+          "start_line": 31,
+          "end_line": 63,
+          "relation": "Dispatch the whole Ares/Aphrodite/Harmonia/Eros/Hephaestus/Poseidon relation; later register writer must retain independent Homer/Hesiod witnesses.",
+          "provenance": "Whole-Mytheme developmental appointment, source-specific external standing."
+        }
+      ],
+      "register_contract": "submission-package/essay/symbolon/README.md",
+      "register_contract_precedence": "Read the register README for office, page anatomy and three-register relation; its seven-row Root records table is superseded by the two accepted census decisions and working/p2-enrichment/CENSUS-RECONCILIATION.md. Only the five admitted root destinations are authorised. Derive #0–#5→0 from this record’s actual operation, never a universal semantic glossary.",
+      "operation_to_develop": "Develop conjugate differentiation and recomposition. Dia permits exact cut, comparison and refusal; Syn preserves the field and return. Their failures are severance and fusion, not two exhaustive moral substances. Write arithmetic cases separately and keep philological chronology Open.",
+      "relations": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+          "kind": "argument",
+          "relation": "sameness traverses rather than erases difference"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "kind": "argument",
+          "relation": "constitutive predicament differs from a resolvable problem"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+          "kind": "argument",
+          "relation": "exclusion is necessary to determination"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "kind": "argument",
+          "relation": "Two Ones precede the conjugate logics"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "kind": "argument",
+          "relation": "Mono/Poly is not a synonym for Syn"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "kind": "argument",
+          "relation": "primary corrected polarity/cancellation/appropriation taxonomy"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "kind": "argument",
+          "relation": "signed calculations and accounting orientation"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "kind": "argument",
+          "relation": "logical fork remains within the entire native field"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+          "kind": "argument",
+          "relation": "complex is local arbitration rather than all differentiation"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "kind": "argument",
+          "relation": "fusion and possession falsify symbolic relation"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "kind": "argument",
+          "relation": "recomposition makes differentiation available again"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "kind": "argument",
+          "relation": "net proves capture without manufacturing trust"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+          "kind": "argument",
+          "relation": "severance and counterfeit gathering are paired failures"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "kind": "argument",
+          "relation": "control over recombining divided work is power"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "kind": "argument",
+          "relation": "encounter must be able to revise the terms"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "kind": "argument",
+          "relation": "cultural individuation preserves refusal and non-devouring relation"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/symbolon/0-1.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/1-0.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/the-slash.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/mono-poly.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        }
+      ],
+      "reading_boundary": "All selected A packets are required, with their materially bearing direct and source-note carriers. Selection here names the actual root operations, not whichever Argument offers shortest context. Root-page prose should expose the relation and descend to formal, whole-Mytheme and Episteme homes without duplicating them.",
+      "source_boundaries": [
+        "Native X/x and QL equations are authorial operations, not Jung notation or externally proved universalities. Ordinary arithmetic, topology, music and history keep their exact warrants.",
+        "SOURCE is canonical external evidence; protected NOTES recover authorial intention and quotation leads only. Read full SOURCE plus existing NOTES for every materially used house.",
+        "Dyczkowski sibling NOTES is absent from accepted tree but a full preserved-local read is receipted in working/p2-enrichment/receipts/shared-source-notes-a01-a12.md. If materially used, retrieve stash@{0}^3 at its recorded sibling path read-only; do not restore it or imply acceptance.",
+        "The marked corrections in Draft3 govern the earlier text they reject. The whole native spine and four supports are required; shared support/math receipts name specific non-restoration constraints.",
+        "Greek symbolon/syn/dia lexical chronology still needs primary lexical evidence; the root’s Derived/Argued operation is not downgraded by that external debt.",
+        "No page completion or depth discharge is certified by this input binding. T22 backcheck must identify actually surfaced operations, written relations, local hygiene and remaining evidence debt."
+      ],
+      "supporting_receipts": [
+        "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+        "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+        "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+        "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+        "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+        "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md"
+      ]
+    },
+    {
+      "record_id": "symbolon-mono-poly",
+      "title": "Mono/Poly",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/mono-poly.md",
+      "wave": "T18",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#3-root-symbolon-census",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md#4-root-symbolon--five-universal-relations",
+        "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+        "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+        "working/p2-enrichment/receipts/depth-acceptance.json"
+      ],
+      "record_type": "root-relation",
+      "argument_depth": [
+        "A02",
+        "A05",
+        "A08",
+        "A09",
+        "A11",
+        "A12",
+        "A13",
+        "A18",
+        "A19",
+        "A21",
+        "A23",
+        "A24",
+        "A27",
+        "A28",
+        "A29",
+        "A30",
+        "A31",
+        "A34",
+        "A35",
+        "A36"
+      ],
+      "argument_roles": {
+        "A02": "self-identity becomes self-difference",
+        "A05": "reciprocal manifestation is not two substances",
+        "A08": "each bounded All depends on what it excludes",
+        "A09": "differentiation produces real fields and positions",
+        "A11": "Two Ones primary identity",
+        "A12": "primary whole/many relation and priority distinctions",
+        "A13": "logics of differentiation follow, not produce, the root",
+        "A18": "same relation changes mode through eight determinations",
+        "A19": "local arbitration can claim the whole",
+        "A21": "individuation is not a chief-executive Self",
+        "A23": "trust and Mono/Poly share root but keep distinct Arguments",
+        "A24": "monopoly occupies the source-position",
+        "A27": "Other remains irreducible within the shared whole",
+        "A28": "judgment fields inherit constitutive conditions",
+        "A29": "common labour and ownership differ",
+        "A30": "shared interiority is not one super-subject",
+        "A31": "return permits revision by encountered difference",
+        "A34": "structural priority is not a prior giant thing",
+        "A35": "culture holds plural inheritance without collective ego",
+        "A36": "integral return keeps achieved plurality and exactness"
+      },
+      "direct_carriers": [
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+        "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+        "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+        "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/unit-social-power.md",
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md"
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md"
+      ],
+      "source_slices": [
+        {
+          "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+          "start_line": 49,
+          "end_line": 71,
+          "relation": "Mandatory explicit [F] corrections: reject inadequate early net meaning and thin ground/mark; restore singular One/polyvalent All and concretely derive binary plus binary-of-binary. These corrections govern the earlier prose they criticise.",
+          "provenance": "Direct manuscript containing explicit [F] authorial corrections; distinguish the corrections from adjoining draft prose."
+        },
+        {
+          "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+          "start_line": 167,
+          "end_line": 188,
+          "relation": "Read the whole eight-determination order and bracket/position difference before selecting a root relation; A18 owns the developed whole traversal.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+          "start_line": 23,
+          "end_line": 31,
+          "relation": "Two halves remain distinct through fitting; singular One and polyvalent All exceed an inventory of marks.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+          "start_line": 23,
+          "end_line": 71,
+          "relation": "Primary One/All, the two orientations and mode changes; ontology precedes social or technical refractions.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+          "start_line": 79,
+          "end_line": 103,
+          "relation": "Monopoly is a local source-claim; trust and whole net remain distinct; hybrid intelligence has shared grammar and real plurality.",
+          "provenance": "Taylor internal authorial/developmental carrier; its native operation is retained, external historical/technical attribution needs its own SOURCE evidence."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 3403,
+          "end_line": 3462,
+          "relation": "Explicit correction restores Mono/Poly and trust at the same root while differentiating downstream jobs.",
+          "provenance": "Additive developmental quilt; reported authorial corrections have priority, but mixed integration wording is not attributed wholesale to Taylor. Current A13 corrected polarity/collapse distinction controls older Dia shorthand."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 5527,
+          "end_line": 5550,
+          "relation": "Mono is not monoculture; the enclosed (1) is explicitly candidate notation, not a new theorem primitive.",
+          "provenance": "Additive developmental quilt; reported authorial corrections have priority, but mixed integration wording is not attributed wholesale to Taylor. Current A13 corrected polarity/collapse distinction controls older Dia shorthand."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 5587,
+          "end_line": 5616,
+          "relation": "One-sided compensation and two-monoculture fake plurality preserve the actual political dynamic.",
+          "provenance": "Additive developmental quilt; reported authorial corrections have priority, but mixed integration wording is not attributed wholesale to Taylor. Current A13 corrected polarity/collapse distinction controls older Dia shorthand."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 5647,
+          "end_line": 5663,
+          "relation": "Cultural individuation preserves many persons, inheritances and idioms without installing a collective ego.",
+          "provenance": "Additive developmental quilt; reported authorial corrections have priority, but mixed integration wording is not attributed wholesale to Taylor. Current A13 corrected polarity/collapse distinction controls older Dia shorthand."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+          "start_line": 9,
+          "end_line": 12,
+          "relation": "Bounded Alls and the unbounded One; fixed names depend on circumstance and the pre-counted relation.",
+          "provenance": "Protected Frank-authored NOTES, read-only authorial encounter; copied quotations remain verification leads, not external evidence."
+        },
+        {
+          "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+          "start_line": 31,
+          "end_line": 63,
+          "relation": "Whole net supplies a return relation through risk and surety, never a proof that shared grammar manufactures trust.",
+          "provenance": "Whole-Mytheme developmental appointment; Homer/Hesiod evidence remains separate."
+        }
+      ],
+      "register_contract": "submission-package/essay/symbolon/README.md",
+      "register_contract_precedence": "Read the register README for office, page anatomy and three-register relation; its seven-row Root records table is superseded by the two accepted census decisions and working/p2-enrichment/CENSUS-RECONCILIATION.md. Only the five admitted root destinations are authorised. Derive #0–#5→0 from this record’s actual operation, never a universal semantic glossary.",
+      "operation_to_develop": "Develop whole/many as mutual implication under the prior Two Ones. Preserve structural priority without temporal giant, sum, collective ego or sovereign distributor. The many remain real; non-monopoly requires accountable return and shared conditions, not uniformity.",
+      "relations": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+          "kind": "argument",
+          "relation": "self-identity becomes self-difference"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "kind": "argument",
+          "relation": "reciprocal manifestation is not two substances"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+          "kind": "argument",
+          "relation": "each bounded All depends on what it excludes"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "kind": "argument",
+          "relation": "differentiation produces real fields and positions"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "kind": "argument",
+          "relation": "Two Ones primary identity"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "kind": "argument",
+          "relation": "primary whole/many relation and priority distinctions"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "kind": "argument",
+          "relation": "logics of differentiation follow, not produce, the root"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "kind": "argument",
+          "relation": "same relation changes mode through eight determinations"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+          "kind": "argument",
+          "relation": "local arbitration can claim the whole"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "kind": "argument",
+          "relation": "individuation is not a chief-executive Self"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "kind": "argument",
+          "relation": "trust and Mono/Poly share root but keep distinct Arguments"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+          "kind": "argument",
+          "relation": "monopoly occupies the source-position"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "kind": "argument",
+          "relation": "Other remains irreducible within the shared whole"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+          "kind": "argument",
+          "relation": "judgment fields inherit constitutive conditions"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "kind": "argument",
+          "relation": "common labour and ownership differ"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+          "kind": "argument",
+          "relation": "shared interiority is not one super-subject"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "kind": "argument",
+          "relation": "return permits revision by encountered difference"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+          "kind": "argument",
+          "relation": "structural priority is not a prior giant thing"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "kind": "argument",
+          "relation": "culture holds plural inheritance without collective ego"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+          "kind": "argument",
+          "relation": "integral return keeps achieved plurality and exactness"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+          "kind": "concept",
+          "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "kind": "etymology",
+          "relation": "Whole-field operational relations and return."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORY.md",
+          "kind": "etymology",
+          "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+          "kind": "movement",
+          "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+        },
+        {
+          "path": "submission-package/essay/symbolon/0-1.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/1-0.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/the-slash.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        },
+        {
+          "path": "submission-package/essay/symbolon/dia-sym-ballein.md",
+          "kind": "admitted-root",
+          "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        }
+      ],
+      "reading_boundary": "All selected A packets are required, with their materially bearing direct and source-note carriers. Selection here names the actual root operations, not whichever Argument offers shortest context. Root-page prose should expose the relation and descend to formal, whole-Mytheme and Episteme homes without duplicating them.",
+      "source_boundaries": [
+        "Native X/x and QL equations are authorial operations, not Jung notation or externally proved universalities. Ordinary arithmetic, topology, music and history keep their exact warrants.",
+        "SOURCE is canonical external evidence; protected NOTES recover authorial intention and quotation leads only. Read full SOURCE plus existing NOTES for every materially used house.",
+        "Dyczkowski sibling NOTES is absent from accepted tree but a full preserved-local read is receipted in working/p2-enrichment/receipts/shared-source-notes-a01-a12.md. If materially used, retrieve stash@{0}^3 at its recorded sibling path read-only; do not restore it or imply acceptance.",
+        "The marked corrections in Draft3 govern the earlier text they reject. The whole native spine and four supports are required; shared support/math receipts name specific non-restoration constraints.",
+        "Greek symbolon/syn/dia lexical chronology still needs primary lexical evidence; the root’s Derived/Argued operation is not downgraded by that external debt.",
+        "No page completion or depth discharge is certified by this input binding. T22 backcheck must identify actually surfaced operations, written relations, local hygiene and remaining evidence debt."
+      ],
+      "supporting_receipts": [
+        "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+        "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+        "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+        "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+        "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+        "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md"
+      ]
+    }
+  ]
+}

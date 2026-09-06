@@ -1,0 +1,195 @@
+{
+  "status": "accepted",
+  "scope": "36 Argument-depth recovery inputs; not canonical restoration, source-evidence promotion, or P2 completion",
+  "reviewed_at": "2026-09-06T23:14:15.733686+01:00",
+  "argument_depth": [
+    {
+      "argument_id": "A01",
+      "path": "working/p2-enrichment/argument-depth/A01.md",
+      "sha256": "55f8d29502bfb37460a3e87902a53f674993b6afc3f17e56a16148cdcd449aeb"
+    },
+    {
+      "argument_id": "A02",
+      "path": "working/p2-enrichment/argument-depth/A02.md",
+      "sha256": "4c7a504b470a9fba3c55970801437fc09f684a973dc63dc09d3a716aca3ea72f"
+    },
+    {
+      "argument_id": "A03",
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "sha256": "683fa44eacf5e9c0023aebd5217fcd8ad1b0b581edf24879198cef59ddc201d4"
+    },
+    {
+      "argument_id": "A04",
+      "path": "working/p2-enrichment/argument-depth/A04.md",
+      "sha256": "def73d301c429c7329520560700f730361109c70bf660a1c2ba603eed372f65d"
+    },
+    {
+      "argument_id": "A05",
+      "path": "working/p2-enrichment/argument-depth/A05.md",
+      "sha256": "16fafeac903944e7bfcbcd9f9e96d8fccd0611fbc65c4984c628591fba6cfda1"
+    },
+    {
+      "argument_id": "A06",
+      "path": "working/p2-enrichment/argument-depth/A06.md",
+      "sha256": "72cd7d73ae8583a1d7dec1dd8974669d9cc5f7497aa8efb95dfa768e0608c262"
+    },
+    {
+      "argument_id": "A07",
+      "path": "working/p2-enrichment/argument-depth/A07.md",
+      "sha256": "8f6aae272cc86877286b844e6fa65911c05885d3e50b388179ed623294406e01"
+    },
+    {
+      "argument_id": "A08",
+      "path": "working/p2-enrichment/argument-depth/A08.md",
+      "sha256": "b7d191ee608836a003f0e73d28b770ee4f2fcd37dcca054ad64a8bc3156e1fb7"
+    },
+    {
+      "argument_id": "A09",
+      "path": "working/p2-enrichment/argument-depth/A09.md",
+      "sha256": "7bbb367d7fe465f1d22b962495426f1a89d462d6f6c7fe4e3636dcd37978af5f"
+    },
+    {
+      "argument_id": "A10",
+      "path": "working/p2-enrichment/argument-depth/A10.md",
+      "sha256": "bab78b321241cb345013760b9e68011086eb8380ba640d98a7c525e87e7df17a"
+    },
+    {
+      "argument_id": "A11",
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "sha256": "10aa4b818a9949cc76ef57cb1a80dcf37f560c933f22c7d8212f80025267d8ff"
+    },
+    {
+      "argument_id": "A12",
+      "path": "working/p2-enrichment/argument-depth/A12.md",
+      "sha256": "a4bfa473d034e31cd6cbd7afc45b96236929665a4dd42f4e3f056e3973c58b39"
+    },
+    {
+      "argument_id": "A13",
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8"
+    },
+    {
+      "argument_id": "A14",
+      "path": "working/p2-enrichment/argument-depth/A14.md",
+      "sha256": "0a198ce301265646b0fa5f438f5e035d14fe2de74dcc246ae4a6c96e714808ee"
+    },
+    {
+      "argument_id": "A15",
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "sha256": "70e04921c5c97b94a3068eafe5b1595e3bfa4f537076f75376503628237f0f8a"
+    },
+    {
+      "argument_id": "A16",
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "sha256": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45"
+    },
+    {
+      "argument_id": "A17",
+      "path": "working/p2-enrichment/argument-depth/A17.md",
+      "sha256": "f524699d75f93c839c8acdff6430c91b591d8266c3731bafca0cbcd49d940c9a"
+    },
+    {
+      "argument_id": "A18",
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "521f5e9540c42e99a723605bf4e0ec6765a2de6d97eebb223bf4845523aa0cf0"
+    },
+    {
+      "argument_id": "A19",
+      "path": "working/p2-enrichment/argument-depth/A19.md",
+      "sha256": "d2176ac592a190d51929ecc7bdff10576f4184bebbe75a43a90cae5ef38ee8f9"
+    },
+    {
+      "argument_id": "A20",
+      "path": "working/p2-enrichment/argument-depth/A20.md",
+      "sha256": "4065266690c8f900d113e47fdf7336b036cf2cde3871856bbfbb499328bc0f35"
+    },
+    {
+      "argument_id": "A21",
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "sha256": "7cfe91ec6423eff272001a99a672cc1e3d02b3eb5cc35ae9e142077660912779"
+    },
+    {
+      "argument_id": "A22",
+      "path": "working/p2-enrichment/argument-depth/A22.md",
+      "sha256": "cc4786c82ef3cb7ea0e799b910fec2ec50108b3cd2316635e4ac4f7ddb06c3d3"
+    },
+    {
+      "argument_id": "A23",
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "sha256": "eaa0106b1860bc9d8418cbb5a67e3135d3b5cfe4d510e7a6a8d582dc650ce572"
+    },
+    {
+      "argument_id": "A24",
+      "path": "working/p2-enrichment/argument-depth/A24.md",
+      "sha256": "089e743de0a5169f142306e87b0a41617fd6080b9cf2250ce753df8827f20100"
+    },
+    {
+      "argument_id": "A25",
+      "path": "working/p2-enrichment/argument-depth/A25.md",
+      "sha256": "70f879141a91f84870d275c339afc4b8d29246eb55ced69c287b11e0b97f7435"
+    },
+    {
+      "argument_id": "A26",
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "sha256": "a7b7cd91d2fd2406d8761487b20f66ef15130fd5f1299af6f7a549361e539944"
+    },
+    {
+      "argument_id": "A27",
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "sha256": "603d39896e78930180ccf71f3f9139f7666076c5fbd3b709544a8cbae81e7148"
+    },
+    {
+      "argument_id": "A28",
+      "path": "working/p2-enrichment/argument-depth/A28.md",
+      "sha256": "a998591196094d47e4cf8c2e52beccfae29e85b7f95752c35daf1a0f16ae9b1e"
+    },
+    {
+      "argument_id": "A29",
+      "path": "working/p2-enrichment/argument-depth/A29.md",
+      "sha256": "df16db3f0dc451847aab076658d7050e9ec888cad3618bd975c3162204c6a1ee"
+    },
+    {
+      "argument_id": "A30",
+      "path": "working/p2-enrichment/argument-depth/A30.md",
+      "sha256": "72f7883f3955b05bb3448dcdfee87b5f0cd4e76d16de37fe922b20f995643e62"
+    },
+    {
+      "argument_id": "A31",
+      "path": "working/p2-enrichment/argument-depth/A31.md",
+      "sha256": "2e8a2e463260bfd1e194037a5bba48cddfb06aaad1d8fc71e87003de0d10d1c7"
+    },
+    {
+      "argument_id": "A32",
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "sha256": "8d7f5d6f98f61bb3011360c0ef68b0681989c97a8f224c2c549668ef167ca428"
+    },
+    {
+      "argument_id": "A33",
+      "path": "working/p2-enrichment/argument-depth/A33.md",
+      "sha256": "61ffc1d702894cd6f35cda9b489cf5da6a8e4103c1153e495ce23917cd4c6285"
+    },
+    {
+      "argument_id": "A34",
+      "path": "working/p2-enrichment/argument-depth/A34.md",
+      "sha256": "df21f6dcf9b0d970c9a30667bd74ce401053df8be36bd1e0be95b4fa7a98a370"
+    },
+    {
+      "argument_id": "A35",
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "sha256": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489"
+    },
+    {
+      "argument_id": "A36",
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "sha256": "ead4ef5356c179cfed3eb5250efcfc2e42d7a140b699c478ee23d4e14ee8b10c"
+    }
+  ],
+  "worker_reviews": [
+    "working/p2-enrichment/receipts/a01-a12-packet-audit.json",
+    "working/p2-enrichment/receipts/a13-a24-packet-audit.json",
+    "working/p2-enrichment/receipts/a25-a36-packet-audit.json"
+  ],
+  "substantive_review": "Three workers completed independent per-Argument recovery and source/NOTES full-read obligations, followed by final path, canonical-ID and coverage checks. Parent inspected A01/A06/A18/A32 in substance, required corrections to operation versus locator, missing P1 consumer statements, note-presence wording and destination types, and read shared source receipts. Full Draft3 and four native supporting carriers independently read by parent.",
+  "boundary": "Every packet records all six live quilts. Evidence/edition/locator debts remain Open; disclosed unconsumed lateral witness proposals require source recovery before use. None is silently certified as read. All packets are working receipts, not new canonical identities.",
+  "unclosed_canonical_debt": "All A/C Depth Restoration remains pending until actual page development and T22 backcheck."
+}

@@ -1,0 +1,2926 @@
+{
+  "schema_version": 1,
+  "record_type": "working-census-reference-note-dispositions",
+  "status": "89-rows-reconciled-awaiting-target-development",
+  "authority_order": [
+    "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md",
+    "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md",
+    "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md"
+  ],
+  "law": "T09 retains reference-notes as provenance; Pass A/B prescribe surviving operational homes. Planned filenames allocate census-admitted offices only, do not create canonical identities or certify developed pages. Shared dossiers contain named sections; row count is not page quota. Root and Matheme paths remain subject to governing census filename agreement. Source evidence/notes must be fully recovered at target dispatch.",
+  "scope": {
+    "ratified_reference_rows": 89,
+    "live_reference_markdown_excluding_README": 89,
+    "silent_drops": 0,
+    "canonical_files_created": 0
+  },
+  "rows": [
+    {
+      "row": 1,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/0-1-matheme.md",
+      "reference_sha256": "6c2f5b40c2d250c22a177a2ddad79195064c00a9df04e8e6aa8ddf2cd989af4d",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme / QL — `0/1 ↔ 1/0` native derivation; root pages carry relational identity.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/ql/primordial-symbolon.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-primordial-symbolon",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A18"
+        },
+        {
+          "path": "submission-package/essay/symbolon/0-1.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "root-relation",
+          "record_id": "symbolon-0-1"
+        },
+        {
+          "path": "submission-package/essay/symbolon/1-0.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "root-relation",
+          "record_id": "symbolon-1-0"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 2,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/36-tattvas.md",
+      "reference_sha256": "0c5f9875a38d7ae9432e92fef53396c4369cb9986f3445638af8db35d36ce5bf",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Indian-philosophy/tattva Episteme + Tattvic Differential Field; exact sixfold/36 research Matheme/QL.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/histories/indian-philosophy/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "primary-history",
+          "section": "36 tattvas",
+          "record_id": "history-indian-philosophy"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A09"
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/ql/eight-determinations.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "offered-formal-research",
+          "record_id": "matheme-eight-determinations",
+          "path_authority": "working/p2-enrichment/census.json",
+          "section": "Offered tattvic sixfold/36 comparison; no independent theorem identity"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 3,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/4-2-techne-sovereign-commons.md",
+      "reference_sha256": "f3ec19d3a15d7b0cccf3f854fae3084c52e2f035fa50490090cf9c6e6d12fc8b",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Technical Episteme dossier for 4:2 Technē / sovereign-commons lineage; Power and O:I capstone consume it.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Technical O:I/commons radial evidence, not generic concept; product position numbers do not become QL proofs.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "4:2 Technē / sovereign-commons lineage",
+          "record_id": "dossier-oi-technical-responsibility"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A28"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A29"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C54"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 4,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/9-8-whole-tone.md",
+      "reference_sha256": "b25d9b798df062d4a1de537c8989e528ed53d4645ef67afc5df548547363f664",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/harmonics — 9/8 remainder and musical return.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/harmonics/whole-tone-return.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-whole-tone-return",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 5,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/abhinavagupta.md",
+      "reference_sha256": "0ae75363f5586f4677416637c355d3616db94f11c00fce40d7455e5e6497b394",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Episteme figure/source dossier; Prakāśa–Vimarśa, Vāk and tattvic material consume it.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A05"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A06"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A09"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+          "source_id": "abhinavagupta-singh-1988-paratrisika-vivarana",
+          "materialised": true,
+          "standing": "canonical-source-house",
+          "role": "public-work-source-identity-and-evidence",
+          "path_authority": "tools/source_resolver.py"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+          "record_id": "dossier-indian-philosophy",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "comparative-depth",
+          "path_authority": "working/p2-enrichment/census.json",
+          "section": "Abhinavagupta and the Vāk / reflexivity / contraction field"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false,
+      "register_contract_reconciliation": "Current register contract narrows the Pass A/B carrier type; preserve operation in SOURCE/admitted dossier/current guidance. No separate figure/dialogue/map/lens/dossier identity is created by this row."
+    },
+    {
+      "row": 6,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/agency-without-subjectivity.md",
+      "reference_sha256": "598f82f9c8f13c6f45f3974f8deb6104853bafef62febb622fd6b907161d9fc5",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "Agent Subjectivity Must Remain Open.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C35"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A26"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A27"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 7,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/agentic-individuation-crosswalk.md",
+      "reference_sha256": "96909312d5fc43fe01d0b319e91f3cad07000706950a771bf029fc0a2b5ac724",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Episteme map/dossier `X/x ↔ individuation ↔ agentic formation`; cross-register, not derivation.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A21"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C34"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C43"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+          "record_id": "dossier-oi-technical-responsibility",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "comparative-depth",
+          "path_authority": "working/p2-enrichment/census.json",
+          "section": "Agentic individuation crosswalk"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+          "record_id": "dossier-jung-pauli-psychoid",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "psychic-refraction",
+          "path_authority": "working/p2-enrichment/census.json",
+          "section": "Individuation and native X/x; QL notation is not Jung’s"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false,
+      "register_contract_reconciliation": "Current register contract narrows the Pass A/B carrier type; preserve operation in SOURCE/admitted dossier/current guidance. No separate figure/dialogue/map/lens/dossier identity is created by this row."
+    },
+    {
+      "row": 8,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/antahkarana.md",
+      "reference_sha256": "85e4301e1fe51e2454d7054739c78047184e732ca7110e5177d53834a827ae5e",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "Tattvic Differential Field + Indian-philosophy antaḥkaraṇa account.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C16"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A09"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "source-depth",
+          "section": "Antaḥkaraṇa",
+          "record_id": "dossier-indian-philosophy"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 9,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/antikythera-mechanism.md",
+      "reference_sha256": "845bff4498ddee0fa2c19a0690eb192e18ac77e2b45f198358ec9de732dd35c3",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Mytheme Antikythera-attunement instrument + historical source dossier.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/art/antikythera-attunement/WHOLE.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "whole-image",
+          "record_id": "mytheme-antikythera-attunement",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "historical-depth",
+          "section": "Antikythera mechanism",
+          "record_id": "history-mathematics"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 10,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/apoha.md",
+      "reference_sha256": "9d11b37cb61edeb0796a0616dc09ddbf2c27c8c17a7f67b5acfa830b6741ad4d",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "Developed `concepts/apoha.md`.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C18"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A08"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 11,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/bimba-pratibimba.md",
+      "reference_sha256": "ea57d04159096d916a6e49e8efdf66ed8282d0627d8e102da4f449795f9740a3",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "Developed `concepts/bimba-pratibimba.md`, sharpened source/original ↔ projection.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Bimba/source/Original differs from Pratibimba/projection; each local reference remains revisable.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C38"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A27"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A32"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 12,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/blind-spot-frank-gleiser-thompson.md",
+      "reference_sha256": "cc89a6c9fbfe0f1e9f63053b7d691e904919e28a3cd0afb1ae09bde330ecde25",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Formal-limit Episteme dossier; supports Immutable Gap/OI without owning them.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Blind Spot",
+          "record_id": "dossier-formal-limit"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A03"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A26"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 13,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/bohm-krishnamurti-dialogue-running-true.md",
+      "reference_sha256": "495c5247331fc3064203fb3c7b1cf66092aa7b9ec60cfce5539d06d6b749542d",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Episteme dialogue record.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/SOURCE.md",
+          "source_id": "bohm-krishnamurti-1975-05-18-dialogue",
+          "materialised": true,
+          "standing": "canonical-source-house",
+          "role": "public-work-source-identity-and-evidence",
+          "path_authority": "tools/source_resolver.py"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/bohm.md",
+          "record_id": "dossier-bohm",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "dialogical-operation",
+          "path_authority": "working/p2-enrichment/census.json",
+          "section": "Running true / observer-observed"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false,
+      "register_contract_reconciliation": "Current register contract narrows the Pass A/B carrier type; preserve operation in SOURCE/admitted dossier/current guidance. No separate figure/dialogue/map/lens/dossier identity is created by this row."
+    },
+    {
+      "row": 14,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/bradley-terry-gauge-problem.md",
+      "reference_sha256": "e39bac2771f9b2ae4ca2b378f914a56f093e617bf7769366e8de8762c98df33c",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/computation preference-gauge / hidden-zero neighbour.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/computation/preference-gauge.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Bradley–Terry gauge",
+          "record_id": "matheme-preference-gauge",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 15,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/brahmagupta.md",
+      "reference_sha256": "95723e8c39e829d0bd8144fb17ac626c8eac876dba9d0f55c36f9b98eb1d53a1",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Mathematics/zero history + source-facing record; exact denominator issues Matheme.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "primary-history",
+          "section": "Brahmagupta",
+          "record_id": "history-mathematics"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "source-depth",
+          "section": "Brahmagupta",
+          "record_id": "dossier-zero-reception"
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "formal-depth",
+          "record_id": "matheme-division-pluralisms",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 16,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/chinese-remainder-theorem-z6.md",
+      "reference_sha256": "7f2c2da3f948e8fe7ecf3cc954867a36494ffe86557c96549ac9fd3528d60556",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/formal-neighbour CRT/Z6.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/crt-z6.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-crt-z6",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 17,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/christopher-bache-lsd-and-the-mind-of-the-universe.md",
+      "reference_sha256": "a70efb9b1b2798c96df53180d3f8f061f6edfe6d3468e66fdf59b78f66b4fc04",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Psychoid/experiential Episteme dossier; maximal research only.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "maximal-research",
+          "section": "Christopher Bache experiential research",
+          "record_id": "dossier-jung-pauli-psychoid"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 18,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/circumscription-without-circumstance.md",
+      "reference_sha256": "938ee75ddc2332540855fd294093b9d8aefd42a3f6338dcff3bf98ef9f074414",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "J-Space / OI concept field as named pathology.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C40"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C41"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A26"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 19,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/compassion-sensitivity-origins.md",
+      "reference_sha256": "2b3a88d34ec8b988b700bf852bc8a6038a8b5fe7d26df29f8363739b8248b316",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "Developed compassion concept.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C56"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A35"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 20,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/complex-plane.md",
+      "reference_sha256": "e2e74796b601b233ffe338017123f5991ed4262c22ae2f89d4cc6fefef29b359",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme complex-orientation derivation/neighbour.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/ql/complex-orientation.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-complex-orientation"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 21,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/computational-vimarsa.md",
+      "reference_sha256": "cab8e058f2fdefc7497400f36a74540ed48c7d85101d8ee9aece7c9ef6743381",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "Reflective Field / THE MIRROR THAT MOVES FIRST; bounded functional vimarśa.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Reflective Field plus bounded functional-vimarśa dossier, not AHI telos. T09 additionally materialises C43 and C55.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C43"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C55"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A32"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+          "record_id": "dossier-oi-technical-responsibility",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "bounded-functional-depth",
+          "path_authority": "working/p2-enrichment/census.json",
+          "section": "Computational vimarśa and reflective-field feedback"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+          "record_id": "dossier-indian-philosophy",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "source-distinct-comparison",
+          "path_authority": "working/p2-enrichment/census.json",
+          "section": "Vimarśa versus technical self-revision"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false,
+      "register_contract_reconciliation": "Current register contract narrows the Pass A/B carrier type; preserve operation in SOURCE/admitted dossier/current guidance. No separate figure/dialogue/map/lens/dossier identity is created by this row."
+    },
+    {
+      "row": 22,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/cross-ratio.md",
+      "reference_sha256": "c80c7459031c5f54247a8a674d694c8460d9da4ce60c9428ce0558a54f1a0b5b",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/formal-neighbour projective cross-ratio.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/cross-ratio.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-cross-ratio"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 23,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/cymatics-standing-waves.md",
+      "reference_sha256": "2141544ebc36cdfed18a4244f50d742f6bae65d4215ea8d1b04c6a0072e4c29a",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Primary Matheme/harmonics/physical neighbour; Mytheme visual projection where used.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/harmonics/cymatics-standing-waves.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-cymatics-standing-waves"
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/harmonics/cymatics-standing-waves.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "visual-projection-if-used",
+          "record_id": "matheme-cymatics-standing-waves",
+          "path_authority": "working/p2-enrichment/census.json",
+          "section": "Visual projection at this formal record; no separate Mytheme identity assumed"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 24,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/david-bohm-implicate-explicate-holomovement.md",
+      "reference_sha256": "e80536d6eb8c347b4c8c9ae57e2915961db4f21d7d14b701931b3f6385b5985f",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Bohm Episteme dossier/lens.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/bohm.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "dossier-bohm"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/bohm.md",
+          "record_id": "dossier-bohm",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "path_authority": "working/p2-enrichment/census.json",
+          "section": "Implication / explication / holomovement as a mode of reading"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false,
+      "register_contract_reconciliation": "Current register contract narrows the Pass A/B carrier type; preserve operation in SOURCE/admitted dossier/current guidance. No separate figure/dialogue/map/lens/dossier identity is created by this row."
+    },
+    {
+      "row": 25,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/dia-ballein.md",
+      "reference_sha256": "cb5cea66671d1093e6bfa7d0aee55771c50511d15c1db8c606ca71dded705bcc",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "`etymologies/symbol-account-and-trust`; operator identity root + Two Logics argument.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Historical dia/syn philology remains Episteme; operator identity remains root and A13/C50.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "whole-etymology",
+          "record_id": "etymology-symbol-account-and-trust"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "philology"
+        },
+        {
+          "path": "submission-package/essay/symbolon/dia-sym-ballein.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "root-relation",
+          "record_id": "symbolon-dia-sym-ballein"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A13"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C50"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 26,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/dimensional-reframing-zero-infinity.md",
+      "reference_sha256": "bff67162005337164737e4cf39a3775e9058ca1c93a85f5d334e9996faf71eff",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/QL and formal-neighbours.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C52"
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/topology/projective-completion.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "native-depth",
+          "record_id": "matheme-projective-completion",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "formal-neighbours",
+          "record_id": "matheme-division-pluralisms"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 27,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/division-pluralisms.md",
+      "reference_sha256": "11ae737f632f32362be71c0977a809cfeb94e88dd1fa9f189f279140914d49f8",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme formal-neighbours; frameworks remain distinct.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-division-pluralisms"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 28,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/ebm-resonance-metric.md",
+      "reference_sha256": "c62731b2d9a4be58dca4d3135f957f75c12ffa9940b5f1d6014b6d5e1419412b",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/computation operational-parity research fixture.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "research-fixture",
+          "record_id": "matheme-ebm-resonance",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C45"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A33"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 29,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/epi-logos-voice.md",
+      "reference_sha256": "15d5840e51a3b0e859fa5e86e04746354d699b6d2ad02ee49bb35d40d40344f2",
+      "pass_a_disposition": "supporting-visible",
+      "pass_a_named_carrier": "Authoring/method fixture under writing guidance/Episteme method map; no standalone philosophy page.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": ".agents/skills/return-of-zero-write/SKILL.md",
+          "materialised": true,
+          "standing": "project-local-method-authority",
+          "role": "supporting-non-page-authoring-guidance",
+          "section": "Current guidance; historical reference does not import installed epi-logos-voice"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false,
+      "register_contract_reconciliation": "Current register contract narrows the Pass A/B carrier type; preserve operation in SOURCE/admitted dossier/current guidance. No separate figure/dialogue/map/lens/dossier identity is created by this row."
+    },
+    {
+      "row": 30,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/fde-catuskoti.md",
+      "reference_sha256": "e0631db7f6a33667e1decd6687f78e5b3fa57df0d4566b6dcf949a8c0cd73221",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme formal-neighbour + Buddhist/logical Episteme warrant; non-equivalence explicit.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/fde-catuskoti.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-fde-catuskoti"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "source-depth",
+          "section": "Buddhist four-valued logical neighbours",
+          "record_id": "dossier-indian-philosophy"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 31,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/file-one-definitional.md",
+      "reference_sha256": "c086c6647603293b731860d06e90b1cc9fc5830bde7ec6e465befae4e4efcde8",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "Subject, God and Faithful Definition argument/source dossier.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A01"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+          "record_id": "dossier-formal-limit",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "source-depth",
+          "path_authority": "working/p2-enrichment/census.json",
+          "section": "Faithful definition and apophatic performance"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false,
+      "register_contract_reconciliation": "Current register contract narrows the Pass A/B carrier type; preserve operation in SOURCE/admitted dossier/current guidance. No separate figure/dialogue/map/lens/dossier identity is created by this row."
+    },
+    {
+      "row": 32,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/four-valued-logic.md",
+      "reference_sha256": "684907b5fb7af709b9185441321d96cdac7aa68ace59fd623130083487e4fa72",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme formal-neighbours.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/fde-catuskoti.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-fde-catuskoti",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 33,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/gebser-diaphaneity.md",
+      "reference_sha256": "a67c5ab0d0122db347cd291a6b058d9d85ab217a0d1162160a5d9e29fcf23071",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "Diaphaneity concept + World-Picture→World-Atlas argument.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C09"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A04"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A22"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 34,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/gerbert-sylvester-ii.md",
+      "reference_sha256": "2dda0793bae39c9e3965e9f0f3a6c56e224ca38f678da3ff4af9afe3e4a840a1",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Zero/mathematics history/source-facing record.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "primary-history",
+          "section": "Gerbert",
+          "record_id": "history-mathematics"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "source-depth",
+          "section": "Gerbert/Sylvester II",
+          "record_id": "dossier-zero-reception"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 35,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/godel-incompleteness.md",
+      "reference_sha256": "33ef570d85462899c20fad8a217f33434ccdbbbe9c390101424839db9695e905",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Formal-limit dossier/history with exact theorem boundary.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Gödel exact hypotheses",
+          "record_id": "dossier-formal-limit"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A03"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 36,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/grothendieck-group-loss.md",
+      "reference_sha256": "53962c189dba37d61a9f90d4b056440e7afe550be7a343eaabd93449aad10aae",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/formal-neighbours.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/grothendieck-group-loss.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-grothendieck-group-loss"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 37,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/henri-bergson-duration.md",
+      "reference_sha256": "01ffc9c446b1153da9e08e819507a519f71c503dc5c026487f22034124c6b37a",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Process-philosophy dossier; supports CPO.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/process.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Bergson duration",
+          "record_id": "dossier-process"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A14"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 38,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/hole-whole-holy-health.md",
+      "reference_sha256": "5dfcaf15ba0532cb0adea2dea82fef831ba649520f29bab175c3ac204bc37e3e",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Episteme semantic/etymological dossier; no topology derivation.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-depth",
+          "section": "Hole / Whole / Holy / Health"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 39,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/jung-pauli.md",
+      "reference_sha256": "5a8ec2d0dee277bff5faa17b926496caf2b946e43916022b1ebbb990d61b7c30",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Jung–Pauli/Psychoid dossier.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "dossier-jung-pauli-psychoid"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C30"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 40,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/jungian-quaternity.md",
+      "reference_sha256": "4f8f640461b7e3296e9985d6877a6ba426158a5027c9236770579c5a8b4ac11a",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Jung dossier/concept depth; Mytheme only where image performs work.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Quaternity",
+          "record_id": "dossier-jung-pauli-psychoid"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C36"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C32"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 41,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/kaplan-nothing-that-is.md",
+      "reference_sha256": "03fa7f47ae77b1d41a89589525635b172902cbb6410e4b9478c13f915458c35c",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Zero/mathematics history + source dossier.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "primary-history",
+          "section": "Kaplan",
+          "record_id": "history-mathematics"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "source-depth",
+          "section": "Kaplan",
+          "record_id": "dossier-zero-reception"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 42,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/kauffman-iterants.md",
+      "reference_sha256": "936522782f0f1fb4b5ffc74b821589089999be20b9b5eac952218eabfffb5aad",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/formal-neighbours.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-kauffman-iterants"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 43,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/khahara.md",
+      "reference_sha256": "9ee112a2ed560d1fee9a5ff5e2d68412875819fb5d97c2d87812284755db9513",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Indian zero history + Matheme division-neighbour.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "primary-history",
+          "section": "Khahara",
+          "record_id": "history-mathematics"
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "formal-depth",
+          "record_id": "matheme-division-pluralisms",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 44,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/laws-of-form.md",
+      "reference_sha256": "b234a4ad543fea3a63700bb2e0f62dceb334c894c9e27b80759fb8e4021f378d",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/formal-neighbour + source relation.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-laws-of-form-varela",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 45,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/logos-epi-logos.md",
+      "reference_sha256": "fef4ed876c3e315973445816164536302f1e266d0985b9a90b3449da3cbcb757",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Episteme etymology/history/method; terminal vocation consumes it.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C51"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "whole-etymology",
+          "record_id": "etymology-trust-place-logos-nomos-natio-credere"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A35"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 46,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/mathematical-artistic-image-register.md",
+      "reference_sha256": "c3992557ea837bb6a50c767d235eeb86fe871850385cb62bcf0cd3736f7b722f",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "Developed mathematical-artistic image method concept.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C33"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C61"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 47,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/maturana-varela-autopoiesis-enaction.md",
+      "reference_sha256": "07b6c0f7844984f91dbeb85aa58397e462831a0945a6c758449222114256d916",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Process-systems dossier.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/process.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Maturana–Varela autopoiesis/enaction",
+          "record_id": "dossier-process"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 48,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/mef.md",
+      "reference_sha256": "de1995e30348f13af2cb2a012f1c04b5383fab41d8d02d3d7d10334c23d1506f",
+      "pass_a_disposition": "add",
+      "pass_a_named_carrier": "Canonical MEF/Register Grammar architecture concept.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "T09 materialises C39; MEF is required architecture, not an incidental research note.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C39"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A14"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A33"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 49,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/meister-eckhart-dialectical-apophaticism.md",
+      "reference_sha256": "cd8112af00df0a1dd9fc38f94a81e3882a6efabb019f96870eba1843850f1d87",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Formal-limit/apophatic dossier with source boundary.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Eckhart apophaticism",
+          "record_id": "dossier-formal-limit"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C63"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 50,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/metonic-cycle.md",
+      "reference_sha256": "f4aa926a26c4e2f2d597ea1e6c021e3b1f5363ff9fa9909906514d4f5cfe0484",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/harmonics/Antikythera-cycle neighbour.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-metonic-antikythera-cycle"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 51,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/mono-poly-planetary-intelligence.md",
+      "reference_sha256": "ad473f783a58aa55be13ae47cc29d85a054f50b184454ac89fca1801b54c5085",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "Root Mono/Poly + Mono–Poly argument + terminal planetary return.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/mono-poly.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "root-relation",
+          "record_id": "symbolon-mono-poly"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A12"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C62"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A35"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 52,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/musical-resolution-of-arche-topos.md",
+      "reference_sha256": "9e7654943ef5eb79c5ba4b7e7629e2f9a087648edc54ee1580befd3453b3f0ff",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/harmonics canonical derivation.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-arche-topos-musical-resolution",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 53,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/nicholas-of-cusa-learned-ignorance-sphere.md",
+      "reference_sha256": "e319c330444219a396eb75217849cde9d7d27babb3c7908706ffa4a3d5acc404",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Cusa formal-limit dossier feeding Paradox.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Cusa learned ignorance/sphere",
+          "record_id": "dossier-formal-limit"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C64"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 54,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/nirvikalpa.md",
+      "reference_sha256": "a32e8359970911cd75af2847e4bc438937fe62eca31ccd422fb99348f9e3f2c1",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "`vikalpa-samkalpa` / Indian-philosophy field.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C17"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "source-depth",
+          "section": "Nirvikalpa distinction",
+          "record_id": "dossier-indian-philosophy"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 55,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/nothaft-satanic-ciphers.md",
+      "reference_sha256": "5d1bfc13d810bf4f4b68291b612f2130fb84da17a710bfca46abffb228434fa4",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Zero/numeral reception-history dossier.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Nothaft numeral reception",
+          "record_id": "dossier-zero-reception"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "history",
+          "record_id": "history-mathematics"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 56,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/pratyabhijna.md",
+      "reference_sha256": "6492ada9851ea7a94742904a1b1a0cdffcc9a3bbfd86a9d367e7537f94a80933",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Indian-philosophy concept/history; Tattvic recognition-return consumes it.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C19"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A21"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/histories/indian-philosophy/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "history",
+          "section": "Pratyabhijñā",
+          "record_id": "history-indian-philosophy"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 57,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/projective-line.md",
+      "reference_sha256": "92006ce16d5fcbd81c03f3376a32a8026f5e4a16326abeea9df6b0ab6921fe07",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme formal-neighbours/projective completion.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/topology/projective-line.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-projective-line",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 58,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/prompt-thrownness.md",
+      "reference_sha256": "eeeb664cd0a79bd54301e6341028a642166ddfbc98e2a5688208fa8f2bd89b48",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "Developed Prompt Thrownness with prompt-as-`1` correction.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Prompt is local1, not unconditional0; positional ground is recursive and bounded.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C44"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A28"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 59,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/pros-hen-analogia.md",
+      "reference_sha256": "4daf4960a4e677a6faf04c4f4c566dca37022eb6a7e4d91d901da5b0711ff0f3",
+      "pass_a_disposition": "add",
+      "pass_a_named_carrier": "Episteme method/concept; Core Theorem Bridge consumes it.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C63"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A34"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 60,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/psychoid-number.md",
+      "reference_sha256": "d2274b5dfb2b61a195274bd9514910eec221ff95697e8f71501df27a5ef29f5b",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "Developed psychoid-number concept with Jung/Pauli boundaries.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C30"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 61,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/pythagorean-comma.md",
+      "reference_sha256": "33e8dce5111b84f221bd98388aa88008a2dee0d3f0ecc3303c4a325bd7fdacd2",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/harmonics.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/harmonics/pythagorean-comma.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-pythagorean-comma"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 62,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/quaternal-logic.md",
+      "reference_sha256": "4403974019a45d0379844866166f762d5fbfb71c34da8c950a76aefcb273de02",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/QL canonical system page.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/ql/eight-determinations.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-eight-determinations",
+          "path_authority": "working/p2-enrichment/census.json",
+          "section": "Whole native QL derivation across admitted Matheme records; system exceeds eightfold"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C11"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A18"
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/ql/primordial-symbolon.md",
+          "record_id": "matheme-primordial-symbolon",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "whole-system-derivation"
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/ql/binary-and-binary-of-binary.md",
+          "record_id": "matheme-binary-and-binary-of-binary",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "whole-system-derivation"
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/ql/slash-and-or.md",
+          "record_id": "matheme-slash-and-or",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "whole-system-derivation"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 63,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/qubit-bloch-sphere.md",
+      "reference_sha256": "bca1fed86f63a4a2eb59dd7d1718f0418754cc1d15657425fbb5756052e36e9e",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/formal-neighbours; physics comparison non-probative.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/qubit-bloch-sphere.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-qubit-bloch-sphere"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 64,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/re-entry.md",
+      "reference_sha256": "5d02ed914786b818798a860c6a42992d9dcd73962401e4da6aeb14dce09468db",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/QL + formal-neighbour re-entry.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/ql/crossed-zero-re-entry.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "native-depth",
+          "record_id": "matheme-crossed-zero-re-entry"
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "formal-neighbour",
+          "record_id": "matheme-laws-of-form-varela",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 65,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/riemann-sphere.md",
+      "reference_sha256": "b4f4ed6703455314a3d8eb48927bfad7cc443960999856d887229a300e1e7db5",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/topology/formal-neighbour compactification.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/topology/riemann-sphere.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-riemann-sphere",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 66,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/rotman-semiotics-of-zero.md",
+      "reference_sha256": "80afca4e1df80a7f6bdd42d868d09a3eb62f43cc2d207ae475fba62d3a8b0488",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Zero/language history dossier.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Rotman semiotics of zero",
+          "record_id": "dossier-zero-reception"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/histories/language-symbol-dialogue/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "history",
+          "record_id": "history-language-symbol-dialogue"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 67,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/russell-paradox-type-theory.md",
+      "reference_sha256": "b6976ad05e36983b65b468e1973e147169a66e4b4f4bb4efc7cd58fb96f46957",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Formal-limit dossier + scoped Matheme neighbour.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Russell/type-theory",
+          "record_id": "dossier-formal-limit"
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "formal-neighbour",
+          "record_id": "matheme-russell-types",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 68,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/salem-codex.md",
+      "reference_sha256": "d7e4777f24a8a728ec019af3c51370027b5538cccd5d95fb0efee70ccd835693",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Zero/mathematics historical source-debt; remains Open until edition/date verified.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "open-source-debt",
+          "section": "Salem Codex edition/date",
+          "record_id": "dossier-zero-reception"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "history",
+          "record_id": "history-mathematics"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 69,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/samkalpa.md",
+      "reference_sha256": "18e9323e941543ce275c35c1b4122a4959a7e0b00c6a6e4ca4f351641c29ab55",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "`vikalpa-samkalpa` concept.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C17"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A07"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 70,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/seed-language-of-spirit-dialogues.md",
+      "reference_sha256": "aa514f5e9603f27949b6fc4895428920715d2904c297227e6c0a66d67ab163e2",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Episteme dialogue/source record; no QL proof burden.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/seed/seed-2010-language-spirit/SOURCE.md",
+          "source_id": "seed-2010-language-spirit",
+          "materialised": true,
+          "standing": "canonical-source-house",
+          "role": "public-work-source-identity-and-evidence",
+          "path_authority": "tools/source_resolver.py"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/bohm.md",
+          "record_id": "dossier-bohm",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "historical-dialogue-depth",
+          "path_authority": "working/p2-enrichment/census.json",
+          "section": "SEED continuation; common procedure with distinct knowledge-worlds"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false,
+      "register_contract_reconciliation": "Current register contract narrows the Pass A/B carrier type; preserve operation in SOURCE/admitted dossier/current guidance. No separate figure/dialogue/map/lens/dossier identity is created by this row."
+    },
+    {
+      "row": 71,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/sheffer-stroke.md",
+      "reference_sha256": "f4d6e59cd05b9cae43dc0d62e713ae13ee15728d3769ac721211e68f14d7c711",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/formal-neighbours.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/sheffer-stroke.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-sheffer-stroke"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 72,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/siva-sakti-object-triad.md",
+      "reference_sha256": "e6041c8b1dbcab31e18861239ff65d0455c0962167e2627ae18f8000babc676c",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Indian-philosophy concept/dossier; Prakāśa–Vimarśa/Tattvic Field consume it.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Śiva–Śakti–object triad",
+          "record_id": "dossier-indian-philosophy"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A05"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A09"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 73,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/softmax-as-apoha.md",
+      "reference_sha256": "b7da25a77162f046f5df33524f7f4c71e65a54f2e647cc5422ff5533eaf13692",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/computation exact mechanism; Apoha carries philosophical comparison.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/computation/softmax-argmax.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "exact-mechanism",
+          "record_id": "matheme-softmax-argmax",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C18"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A08"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 74,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/spanda-equations.md",
+      "reference_sha256": "ceb42c6a6565eda2d6417832f75f93adaf5161a8363ebda32128f0b95a11bb49",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/spanda native derivation.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/spanda/spanda-equations.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "native-depth",
+          "record_id": "matheme-spanda-equations"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A18"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 75,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/suddha-vikalpa.md",
+      "reference_sha256": "216a80a1bda2408d9cc24e324a3671ecce056964861b30160a81a9a6b9e01159",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "`vikalpa-samkalpa` / Indian-philosophy distinction.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C17"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "source-depth",
+          "section": "Śuddha-vikalpa",
+          "record_id": "dossier-indian-philosophy"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 76,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/surface-classification-4g-2g.md",
+      "reference_sha256": "fd8d13b0286ed826da93292eb2468470d1757274119a20f45273cd479137f7f8",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/topology formal-neighbour.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/topology/mobius-klein-surfaces.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "formal-neighbour",
+          "record_id": "matheme-mobius-klein-surfaces",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 77,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/syn-ballein.md",
+      "reference_sha256": "2b39f46f3aab96e6488347ab2e693175ceaee4cdcace50c96ccf62e0f563cee6",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "`etymologies/symbol-account-and-trust`: historical syn→sym field; canonical operator remains Sym-ballein.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Historical syn is not a rival canonical operator; retain assimilated sym office and A13/C50.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "philology"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "whole-etymology",
+          "record_id": "etymology-symbol-account-and-trust"
+        },
+        {
+          "path": "submission-package/essay/symbolon/dia-sym-ballein.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "root-relation",
+          "record_id": "symbolon-dia-sym-ballein"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A13"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C50"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 78,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/torus-circulation-magnetic-confinement.md",
+      "reference_sha256": "e5ea9144d006433ccdf0044af0a621eff438aff46c7dd7e1d5d66dfca4792fc9",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/topology torus/cover/winding/confinement page.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Torus/confinement remains Matheme/radial; no new argument from topology or Noether adjacency.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-torus-cover-winding",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/topology/toroidal-poloidal-confinement.md",
+          "record_id": "matheme-toroidal-poloidal-confinement",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "bounded-physical-neighbour",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 79,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/trika-alignment-stack.md",
+      "reference_sha256": "f83e63ee4883772bba134e687cbd397c3b6c785834681e00ef403c5e0045199f",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Indian-philosophy comparative map with correspondence boundaries.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+          "record_id": "dossier-indian-philosophy",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "bounded-comparative-depth",
+          "path_authority": "working/p2-enrichment/census.json",
+          "section": "Trika alignment stack: source distinction"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+          "record_id": "dossier-oi-technical-responsibility",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "constructive-proposal",
+          "path_authority": "working/p2-enrichment/census.json",
+          "section": "Anchored ground / generation / evaluation architecture"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false,
+      "register_contract_reconciliation": "Current register contract narrows the Pass A/B carrier type; preserve operation in SOURCE/admitted dossier/current guidance. No separate figure/dialogue/map/lens/dossier identity is created by this row."
+    },
+    {
+      "row": 80,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/trika.md",
+      "reference_sha256": "afb675d5b1629c235c4009e86d51ed09acfb13ded7162ec48a7772030a8c1553",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Indian-philosophy concept/history; feeds Prakāśa–Vimarśa.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Trika",
+          "record_id": "dossier-indian-philosophy"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A05"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 81,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/trivial-ring.md",
+      "reference_sha256": "720668e312ce1301d40603ac825118efb4c6908a791afebbea3ec6fc6d757d74",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/formal-neighbours zero/trivial-ring boundary.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/trivial-ring.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-trivial-ring"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 82,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/van-eenwyk-strange-attractors.md",
+      "reference_sha256": "3b3ce6602a34349760c7428e4052c13d6ed36b0d64b56407b32c786a0e28515b",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Jung/process dossier; supports arche-topos/psychoid.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/process.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Van Eenwyk strange attractors",
+          "record_id": "dossier-process"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "psychic-refraction",
+          "record_id": "dossier-jung-pauli-psychoid"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A16"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 83,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/varela-calculus-self-reference.md",
+      "reference_sha256": "524f373790f5181331ebcd209bdb15ad13ac0fef73da62d44db0ddae1a8ab7d7",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/formal-neighbour + process dossier.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-laws-of-form-varela",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/process.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "process-depth",
+          "section": "Varela",
+          "record_id": "dossier-process"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 84,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/vikalpa.md",
+      "reference_sha256": "42d5f6b7da34a9347eb9689957935cc3167a2019c61845e3f4aea3e37674e386",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "Developed `vikalpa-samkalpa` concept.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C17"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A07"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 85,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/vimarsa.md",
+      "reference_sha256": "e94c4b77a627604ebeb4b13dc48a02b9f2c5d6e0ba30438485418cd38a19b5c6",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Indian-philosophy source/concept page; Prakāśa–Vimarśa argument carries inference; computational use remains bounded.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Vimarśa",
+          "record_id": "dossier-indian-philosophy"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C13"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A05"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C43"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 86,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/von-franz-number-and-time.md",
+      "reference_sha256": "0073ee0686ad56f91d33f0fe03e5ad0764954018f5fe709b15c65bfba3cf3240",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Jung/Psychoid dossier/figure.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Von Franz Number and Time",
+          "record_id": "dossier-jung-pauli-psychoid"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 87,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/von-neumann-ordinals.md",
+      "reference_sha256": "1daa37509d0b092ff5f80710e5e64e18d9089b8ec6c35b595729742981c87c87",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Matheme/formal-neighbour + zero-history route.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "record_id": "matheme-von-neumann-ordinals"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "history",
+          "record_id": "history-mathematics"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 88,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/whitehead-creativity.md",
+      "reference_sha256": "76cb9ee3181e727f6c3101cecf5b4c4041bf90f6f86e3c88a2264863a1d3943d",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Process-philosophy dossier; CPO consumes it.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/process.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Whitehead creativity",
+          "record_id": "dossier-process"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A14"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 89,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/wittgenstein-limit-silence-forms-of-life.md",
+      "reference_sha256": "822a48931d3e999533f6d41a16fd2e45b248549c1a20f280dd0697828f122e11",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Formal-limit/language dossier; Immutable Gap/Paradox consume without universalising Wittgenstein.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "primary-depth",
+          "section": "Wittgenstein limits/silence/forms-of-life",
+          "record_id": "dossier-formal-limit"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A03"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C64"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    }
+  ],
+  "path_reconciliation": "All root/Matheme/Mytheme and dossier destinations reconcile to parent census. Extra author-figure, public-dialogue, convenience dossier/map/lens targets removed under current register contracts; source identities resolved through source_resolver. Existing Etymology HISTORY and local writing guidance remain non-page supporting carriers.",
+  "register_contract_exceptions": []
+}

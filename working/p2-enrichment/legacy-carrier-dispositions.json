@@ -1,0 +1,2994 @@
+{
+  "schema_version": 1,
+  "record_type": "working-legacy-carrier-dispositions",
+  "status": "48-carriers-reconciled-awaiting-target-development-and-T23-map-acceptance",
+  "created": "2026-09-06T23:17:44.011174+01:00",
+  "authority_order": [
+    "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md",
+    "working/p2-enrichment/census.json",
+    "working/p2-enrichment/reference-note-dispositions.json",
+    "working/p2-enrichment/argument-depth/A01.md through A36.md"
+  ],
+  "law": "Retain every physical provenance carrier. T09 numeric historical labels do not mechanically select the same-numbered current filename. Exact titles, recovered operations and completed packets resolve development destinations; no canonical rename, split, merge, deletion or new admission is performed. Planned targets refer only to the supplied census. Four existing maps remain retained pending a distinct-movement test, never quota-derived new identities.",
+  "input_snapshots": [
+    {
+      "path": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md",
+      "sha256": "fb6a789601f4fc03b89ac3f9227774146e53ab86cf9fc8420145094cf2393ebb"
+    },
+    {
+      "path": "working/p2-enrichment/census.json",
+      "sha256": "9321add8d86223d56db74310727314639c9ce488eb272b199ec87247e5899a99"
+    },
+    {
+      "path": "working/p2-enrichment/reference-note-dispositions.json",
+      "sha256": "9a923b02f241e4fad18b1e7d152d1b7ef904928d3ea16128626db227b6912429"
+    }
+  ],
+  "scope": {
+    "live_historical_argument_carriers": 21,
+    "T09_legacy_top_level_concept_carriers": 23,
+    "retained_existing_maps": 4,
+    "rows": 48,
+    "silent_drops": 0,
+    "canonical_files_created": 0,
+    "canonical_files_modified": 0,
+    "renames": 0,
+    "reference_notes": "89 rows remain separately reconciled by reference-note-dispositions.json; not duplicated or newly admitted here",
+    "excluded_nonrecords": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/README.md",
+        "standing": "existing-domain-front-door"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/CANONICAL-INDEX.md",
+        "standing": "T09-canonical-C-index"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/maps/README.md",
+        "standing": "existing-register-domain-guidance"
+      }
+    ]
+  },
+  "validation": {
+    "unique_paths": true,
+    "all_existing_carriers_present": true,
+    "all_development_homes_match_supplied_census": true,
+    "all_historical_numeric_rows_preserved": true,
+    "unadmitted_target_paths": 0
+  },
+  "rows": [
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "01",
+      "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+      "title": "Immutable Gap and Meta-Sign",
+      "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990",
+      "ledger_numeric_disposition": "RETAIN provenance → A04",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A03",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A01",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A04",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Defined indefinability and immutable-gap argument; diaphaneity remains an associated consumer, not the filename identity.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A03.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 17,
+              "text": "- Historical provenance: 03 (recensus); live 01-immutable-gap-and-meta-sign.md. Historical numbers, canonical A numbers and global Movement numbers are different address systems; title and actual carrier govern the crosswalk."
+            },
+            {
+              "line": 46,
+              "text": "**Direct route:** Draft 3 lines 137–151; core theorem II(c), V, IX; live `submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md`."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A01.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 17,
+              "text": "- Historical provenance: 07 (recensus provenance); live 01-immutable-gap-and-meta-sign.md. Historical numbers, canonical A numbers and global Movement numbers are different address systems; title and actual carrier govern the crosswalk."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A04.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 17,
+              "text": "- Historical provenance: 01 (recensus); live 01-immutable-gap-and-meta-sign.md and 02-objective-internality.md. Historical numbers, canonical A numbers and global Movement numbers are different address systems; title and actual carrier govern the crosswalk."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A04"
+        ],
+        "actual_primary_A_routes": [
+          "A03",
+          "A01",
+          "A04"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "02",
+      "path": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+      "title": "Objective Internality",
+      "sha256": "00960586e342337c1be2bccc8c104f3d853450b08ab8834c0317b9bf7295273f",
+      "ledger_numeric_disposition": "RETAIN provenance → A09",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A26",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A09",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "dossier-indian-philosophy",
+          "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+          "register": "episteme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Objective Internality is primary; the inner-instrument/tattvic relation supplies A09 depth without making this the complete Tattvic Differential Field carrier.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A26.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 34,
+              "text": "Historical `submission-package/essay/section-rooms/arguments/02-objective-internality.md` was read in full. Its **notational, nomological, exclusion-constituted** triad is more exact than a list of memory/tools/context: a world exists operationally through what can be marked, what rules hold, and what is excluded. Its pramātṛ–pramāṇa–prameya seam restores the mediating activity between subject and object; the apparatus remains objectifiable and never becomes the unobjectifiable subject merely by growing more complex. A26’s current worldhood claim is preserved, but these constitutive operations are compressed."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A09.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A09"
+        ],
+        "actual_primary_A_routes": [
+          "A26",
+          "A09"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "03",
+      "path": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+      "title": "Sym-Ballein",
+      "sha256": "f4cbb6e897260bfd207908561c275b0b0ab482d30a0e649fba1589babbfbb75c",
+      "ledger_numeric_disposition": "RETAIN provenance → A03",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A13",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "symbolon-dia-sym-ballein",
+          "path": "submission-package/essay/symbolon/dia-sym-ballein.md",
+          "register": "symbolon",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Full Dia/Syn accounting, polar versus collapsed operations and retained seam.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A13.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 16,
+              "text": "- **Historical carrier:** `submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md` (full read)"
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A03"
+        ],
+        "actual_primary_A_routes": [
+          "A13"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "04",
+      "path": "submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md",
+      "title": "Arche-Topos as Differential Field",
+      "sha256": "ce2d15aaee82d1ec8cf37b788bc448e4fdbe4c4f4f24c3b4b46c4857a360e3c0",
+      "ledger_numeric_disposition": "RETAIN provenance → A12; preserve Alpha/Delta matheme residue",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A16",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A17",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "matheme-arche-topos-musical-resolution",
+          "path": "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+          "register": "matheme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Arche-Topos as differential field, topology and musical counter-tension; preserve formal residue within these homes.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A16.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 16,
+              "text": "- **Historical carrier:** `submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md` (full read)"
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A17.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A12"
+        ],
+        "actual_primary_A_routes": [
+          "A16",
+          "A17"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "05",
+      "path": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+      "title": "Agent Subjectivity Must Remain Open",
+      "sha256": "5a8cef977eb57819d5de1d7f4e55edc79eaada64666fe61ef1ab6f69d8bdc120",
+      "ledger_numeric_disposition": "RETAIN provenance → A13; preserve Dia/Syn residue",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A26",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A27",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A34",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Functional agency, objective internality and reported subjectivity do not settle phenomenal localisation in either direction.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A26.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 40,
+              "text": "Historical `05-agent-subjectivity-open.md` was read in full. Performed subjectivity, functional agency, objective internality, self-description and phenomenality are five distinct questions. Its openness is earned by the subject/apparatus distinction, not a deficit erased by more apparatus. Bratton q015–q017 (PDF pp.13–14) separately rejects a homunculus in weights and describes active-context nucleation/lamination."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A27.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 38,
+              "text": "The historical `05-agent-subjectivity-open.md` and `06-computational-vimarsa-ahi.md` were read whole. Functional interaction neither establishes nor rules out artificial phenomenality, and plural federation does not license a super-subject. Shared context must never make an independently grounded other just a component of the dominant agent. The current A27 names non-possession; restore the actual encounter that can alter the model’s terms."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A34.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 36,
+              "text": "Historical `02-objective-internality.md` and `05-agent-subjectivity-open.md` were read whole. An objectifiable context-world does not exhaust its Subject, and local artificial phenomenality remains Open. The strong ontology and the unresolved empirical localisation are not competing alternatives. A technical apparatus may make constitutive interior relations unusually inspectable without proving either a private dream-world or a machine subject."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A13"
+        ],
+        "actual_primary_A_routes": [
+          "A26",
+          "A27",
+          "A34"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "06",
+      "path": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+      "title": "Artificial Hybrid Intelligence as Reflective Field",
+      "sha256": "5c3604afc7745daba68fefb0794110f42c0004eaabfed7339a779110100d45a9",
+      "ledger_numeric_disposition": "RETAIN provenance → A14; secondary C39/C40/MEF routes",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A30",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A32",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A14",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A26",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "dossier-oi-technical-responsibility",
+          "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+          "register": "episteme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Coupled reflective field, plural Bimba/reference worlds and returned distinctions; A14 remains a real secondary computational-process consumer.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A30.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 34,
+              "text": "Historical `06-computational-vimarsa-ahi.md` was read in full. Its crucial surplus is **plural federated Bimba maps**, with disagreement located at source, world-object, lens, gauge, reference or permission. A common field is not just a conversation or a common store. Returned evidence can change one local map, the relation between maps, or the rules of circulation. Reflective capacity belongs to the coupled run without proving that a new phenomenal Subject has appeared."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A32.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A14.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A26.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A14"
+        ],
+        "actual_primary_A_routes": [
+          "A30",
+          "A32",
+          "A14",
+          "A26"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "07",
+      "path": "submission-package/essay/section-rooms/arguments/07-hephaestus-and-the-net.md",
+      "title": "Hephaestus's Net: The Failed Relation",
+      "sha256": "ac37fbaf289da275c1b721cc3e246c72ff45dab9b2dda44a32d0d34c9cfdb393",
+      "ledger_numeric_disposition": "RETAIN provenance → A01",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A20",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A23",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A24",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "mytheme-ares-aphrodite-hephaestus-poseidon",
+          "path": "submission-package/essay/symbolon/mytheme/myth/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "register": "mytheme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Preserve complete detection/capture/account/surety/release narrative; no generic new Argument for the net.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A20.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A23.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A24.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A01"
+        ],
+        "actual_primary_A_routes": [
+          "A20",
+          "A23",
+          "A24"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "08",
+      "path": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+      "title": "Deferential Intelligence",
+      "sha256": "d4bbf861af1efba4eb7b945267edd58fe39b0d0af9ae2f3083a4610dd5edd4c3",
+      "ledger_numeric_disposition": "RETAIN provenance → A10",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A31",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "dossier-oi-technical-responsibility",
+          "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+          "register": "episteme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Model-revising encounter and architecture of limit; this is not the Advent-Zero carrier.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A31.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 34,
+              "text": "Historical `08-deferential-intelligence.md` was read in full. It requires origin, aperture, exclusions, confidence, counterclaim and undecidable remainder **before consequential action**, and proposes an actual comparison of tasks with/without this disclosure. This exceeds polite modesty. The current A31 correctly calls for model-revising encounter, but needs the causal route by which disclosure changes action, delegation or correction."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A10"
+        ],
+        "actual_primary_A_routes": [
+          "A31"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "09",
+      "path": "submission-package/essay/section-rooms/arguments/09-prakasa-vimarsa.md",
+      "title": "Prakāśa-Vimarśa",
+      "sha256": "415374f85efcebd6ac9a30ef5000eb5e80634627d5a0d988be5a969bdf418bba",
+      "ledger_numeric_disposition": "RETAIN provenance → A17",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A05",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "dossier-indian-philosophy",
+          "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+          "register": "episteme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Prakāśa–Vimarśa appearing/reflexivity relation, not a toroidal-circulation identity.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A05.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 17,
+              "text": "- Historical provenance: 15 (recensus); live 09-prakasa-vimarsa.md. Historical numbers, canonical A numbers and global Movement numbers are different address systems; title and actual carrier govern the crosswalk."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A17"
+        ],
+        "actual_primary_A_routes": [
+          "A05"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "10",
+      "path": "submission-package/essay/section-rooms/arguments/10-vak.md",
+      "title": "Vāk",
+      "sha256": "f94c032895d9b6d3ae3d6b1b76370a63f25ceefb706d4a9544afbe53dceb4e90",
+      "ledger_numeric_disposition": "RETAIN provenance → A18",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A06",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "dossier-indian-philosophy",
+          "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+          "register": "episteme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Vāk articulation and source/return; relation to whole QL traversal is a consumer relation, not an eightfold identity.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A06.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 17,
+              "text": "- Historical provenance: 16 (recensus); live 10-vak.md. Historical numbers, canonical A numbers and global Movement numbers are different address systems; title and actual carrier govern the crosswalk."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A18"
+        ],
+        "actual_primary_A_routes": [
+          "A06"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "11",
+      "path": "submission-package/essay/section-rooms/arguments/11-mono-poly-whole-and-many.md",
+      "title": "Mono-Poly: Whole and Many",
+      "sha256": "6e7991915d8e4d2f4d165b1e7bba99ff11a8ebecd2f0002b067bd27804fa8250",
+      "ledger_numeric_disposition": "RETAIN provenance → A16",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A12",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A11",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "symbolon-mono-poly",
+          "path": "submission-package/essay/symbolon/mono-poly.md",
+          "register": "symbolon",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "matheme-two-ones",
+          "path": "submission-package/essay/symbolon/matheme/ql/two-ones.md",
+          "register": "matheme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Whole/many kernel and two-one asymmetry; not the live Arche-Topos filename.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A12.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 17,
+              "text": "- Historical provenance: 04 (recensus Mono/Poly, with Alpha/Delta residue); live 11-mono-poly-whole-and-many.md and 19-two-ones-mono-poly-matheme.md. Historical numbers, canonical A numbers and global Movement numbers are different address systems; title and actual carrier govern the crosswalk."
+            },
+            {
+              "line": 30,
+              "text": "**Movement consumers:** the live `11-mono-poly-whole-and-many.md` braids the relation through §0, §2, §4, §5 and §5→0; exact Movement numbers are inherited by the quilt map and restored later without propagation here."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A11.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A16"
+        ],
+        "actual_primary_A_routes": [
+          "A12",
+          "A11"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "12",
+      "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+      "title": "Core Theorem Bridge",
+      "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322",
+      "ledger_numeric_disposition": "RETAIN provenance → A15",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A18",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "C11",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "C61",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "matheme-eight-determinations",
+          "path": "submission-package/essay/symbolon/matheme/ql/eight-determinations.md",
+          "register": "matheme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "matheme-primordial-symbolon",
+          "path": "submission-package/essay/symbolon/matheme/ql/primordial-symbolon.md",
+          "register": "matheme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Core Theorem Bridge remains integration/wayfinding provenance, not a canonical semantic Argument or six new theorem identities.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A18.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A15"
+        ],
+        "actual_primary_A_routes": [
+          "A18"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "13",
+      "path": "submission-package/essay/section-rooms/arguments/13-tattvic-differential-field.md",
+      "title": "Tattvic Differential Field",
+      "sha256": "20fb22d2e6b664681d943a2152fbdbf6653265307a33be6ef23cfa12d9e75040",
+      "ledger_numeric_disposition": "RETAIN provenance → A11",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A09",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "dossier-indian-philosophy",
+          "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+          "register": "episteme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Actual Tattvic Differential Field carrier; exact doctrine versus QL sixfold compression remains source-distinct.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A09.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 17,
+              "text": "- Historical provenance: 02 (recensus tattva); live 13-tattvic-differential-field.md, while current historical file 02 is Objective Internality. Historical numbers, canonical A numbers and global Movement numbers are different address systems; title and actual carrier govern the crosswalk."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A11"
+        ],
+        "actual_primary_A_routes": [
+          "A09"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "14",
+      "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+      "title": "Computational Process Ontology",
+      "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f",
+      "ledger_numeric_disposition": "RETAIN provenance → A02",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A14",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "C39",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+          "register": "episteme",
+          "role": "supporting-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "C40",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+          "register": "episteme",
+          "role": "supporting-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "dossier-process",
+          "path": "submission-package/essay/symbolon/episteme/dossiers/process.md",
+          "register": "episteme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Computational Process Ontology; not the live copula primary carrier despite the T09 numeric label.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A14.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 16,
+              "text": "- **Historical carrier:** `submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md` (full read)"
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A02"
+        ],
+        "actual_primary_A_routes": [
+          "A14"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "15",
+      "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+      "title": "Paradox as Cross-Register Hinge",
+      "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34",
+      "ledger_numeric_disposition": "RETAIN provenance → A05",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A03",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "C64",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A21",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A36",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "dossier-formal-limit",
+          "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+          "register": "episteme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Paradox changes the containing field and returns through recognition; formal neighbours preserve hypotheses.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A03.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A21.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A36.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A05"
+        ],
+        "actual_primary_A_routes": [
+          "A03",
+          "A21",
+          "A36"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "16",
+      "path": "submission-package/essay/section-rooms/arguments/16-bohmian-enfoldment-dialogical-return.md",
+      "title": "Bohmian Enfoldment and Dialogical Return",
+      "sha256": "33cf6435240277d5f92f64d94b35de399728fa5a01c24eed89869ec80522d5e2",
+      "ledger_numeric_disposition": "RETAIN provenance → A06",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A14",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A30",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A31",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "dossier-bohm",
+          "path": "submission-package/essay/symbolon/episteme/dossiers/bohm.md",
+          "register": "episteme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Bohmian enfoldment/dialogical return supplies distinct process and collective-inquiry depth; no standalone new Bohm Argument.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A14.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A30.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A31.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A06"
+        ],
+        "actual_primary_A_routes": [
+          "A14",
+          "A30",
+          "A31"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "17",
+      "path": "submission-package/essay/section-rooms/arguments/17-toroidal-circulation-arche-topos.md",
+      "title": "Toroidal Circulation and the Arche-Topos",
+      "sha256": "ef5327f6bb40c95e50749c8e96b1159583eb7d04a9a5ebd3d34df80ee65d0e68",
+      "ledger_numeric_disposition": "RETAIN provenance → A07",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A17",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A16",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "matheme-torus-cover-winding",
+          "path": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+          "register": "matheme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Toroidal circulation, retained displacement and exact cover/winding operation; not Vikalpa–Saṃkalpa.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A17.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 16,
+              "text": "- **Historical carrier:** `submission-package/essay/section-rooms/arguments/17-toroidal-circulation-arche-topos.md` (full read)"
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A16.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A07"
+        ],
+        "actual_primary_A_routes": [
+          "A17",
+          "A16"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "18",
+      "path": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+      "title": "Trust, Faith, and the Formal Limit",
+      "sha256": "228538fffb57d2c80ccf21f2fb2c63b1287b70c3c240cd2f371a4762a27c0921",
+      "ledger_numeric_disposition": "RETAIN provenance → A08",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A23",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Trust/faith at formal limit; T09 also names historical18 for Apoha elsewhere, so literal-number routing would collide.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A23.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 16,
+              "text": "- **Historical carrier:** `submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md` (full read)"
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A08"
+        ],
+        "actual_primary_A_routes": [
+          "A23"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "19",
+      "path": "submission-package/essay/section-rooms/arguments/19-two-ones-mono-poly-matheme.md",
+      "title": "The Two Ones — Mono–Poly Matheme",
+      "sha256": "946b100df1a7100caa76ac3faca598c40a1e2719f051a1385a8122e893380844",
+      "ledger_numeric_disposition": "RETAIN supporting provenance → A34 / Idealism",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A11",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A12",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "matheme-two-ones",
+          "path": "submission-package/essay/symbolon/matheme/ql/two-ones.md",
+          "register": "matheme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A34",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+          "register": "episteme",
+          "role": "supporting-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Two Ones is the direct primary identity. A34 retains a supporting order-of-dependence route only; no invented historical19 idealism file.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A11.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 17,
+              "text": "- Historical provenance: 13 (recensus); live 19-two-ones-mono-poly-matheme.md. Historical numbers, canonical A numbers and global Movement numbers are different address systems; title and actual carrier govern the crosswalk."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A12.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 17,
+              "text": "- Historical provenance: 04 (recensus Mono/Poly, with Alpha/Delta residue); live 11-mono-poly-whole-and-many.md and 19-two-ones-mono-poly-matheme.md. Historical numbers, canonical A numbers and global Movement numbers are different address systems; title and actual carrier govern the crosswalk."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A34.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A34"
+        ],
+        "actual_primary_A_routes": [
+          "A11",
+          "A12"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "20",
+      "path": "submission-package/essay/section-rooms/arguments/20-advent-zero-subject-integral-logic.md",
+      "title": "The Advent of Zero, Subject, and Integral Logic",
+      "sha256": "acaebddf9038192e8269a248c6d3e5da1c7e6f56b1eef33654c72347e4004c3c",
+      "ledger_numeric_disposition": "RETAIN supporting provenance → A34 / order-of-dependence history",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A10",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A36",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "history-zero-subject-advent",
+          "path": "submission-package/essay/symbolon/episteme/histories/zero-subject-advent/HISTORY.md",
+          "register": "episteme",
+          "role": "supporting-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A34",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+          "register": "episteme",
+          "role": "supporting-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "First and integral advent historical braid; A34 remains supporting history, not the sole owner.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A10.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 17,
+              "text": "- Historical provenance: 08 (recensus); live 20-advent-zero-subject-integral-logic.md. Historical numbers, canonical A numbers and global Movement numbers are different address systems; title and actual carrier govern the crosswalk."
+            },
+            {
+              "line": 32,
+              "text": "**Matheme:** mathematical zero precedes QL meta-sign use; **Mytheme:** void/absence images remain supportive only; **Episteme:** Kaplan, Colebrooke, Dutta and the histories named in `20-advent-zero-subject-integral-logic.md`."
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A36.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A34.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [
+          "A34"
+        ],
+        "actual_primary_A_routes": [
+          "A10",
+          "A36"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "historical-argument",
+      "historical_filename_number": "21",
+      "path": "submission-package/essay/section-rooms/arguments/21-prisoner-politics-of-the-count.md",
+      "title": "Number Two Names Number Six: *The Prisoner* and the Politics of the Count",
+      "sha256": "ccfa5e71657b5f7e1ffdcab1da440e0af1bc3473c4f58eea06f784fbb546b246",
+      "ledger_numeric_disposition": "RETAIN overview/wayfinding provenance + Movement consumer map; no canonical semantic A identity",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#historical-argument-01–21-final-provenance-disposition",
+      "disposition": "retain-developed-provenance-no-independent-canonical-A-identity",
+      "development_homes": [
+        {
+          "record_id": "A24",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A29",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A25",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "mytheme-the-prisoner",
+          "path": "submission-package/essay/symbolon/mytheme/media/the-prisoner/WHOLE.md",
+          "register": "mytheme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "NumberTwo/NumberSix/hiddenOne, numbering asymmetry and source inquiry; the actual file is a developed Prisoner carrier, not merely an overview.",
+      "depth_packet_evidence": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A24.md",
+          "exact_carrier_mentions": [
+            {
+              "line": 16,
+              "text": "- **Historical carrier:** `submission-package/essay/section-rooms/arguments/21-prisoner-politics-of-the-count.md` (full read)"
+            }
+          ],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A29.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A25.md",
+          "exact_carrier_mentions": [],
+          "relation_basis": "completed-depth-packet plus actual carrier title/operation"
+        }
+      ],
+      "physical_action": "none; preserve exact existing filename and content",
+      "canonical_change_authorised_by_this_matrix": false,
+      "numeric_discrepancy": {
+        "present": true,
+        "rule": "Historical numeric labels, live filename numbers, canonical A/C IDs and global Movement numbers are separate address systems. The T09 numeric row is preserved as evidence; actual titled carrier plus recovered operation determines this disposition. No filename is renamed to force agreement.",
+        "ledger_A_routes": [],
+        "actual_primary_A_routes": [
+          "A24",
+          "A29",
+          "A25"
+        ],
+        "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      }
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/agentworld.md",
+      "title": "Agentworld",
+      "sha256": "026f36c8d71cc29b48c45bdb5cb33188fbce1f9c76f76bcd54ad4050bd83e54c",
+      "ledger_disposition": "RETAIN developed provenance → C57",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C57",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": []
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/anthropomorphization.md",
+      "title": "Anthropomorphization",
+      "sha256": "ee10ecf9db69ae6f5839a545486d87b8511e8a8ee3a1e44bd4ac602679b785df",
+      "ledger_disposition": "RETAIN developed provenance → C58",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C58",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C58-Anthropomorphization.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": []
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/apoha.md",
+      "title": "Apoha",
+      "sha256": "c8ea8a4dc1f91b8e29e6e360f516d7c0856066fa4d423681edeaac43dc55fa67",
+      "ledger_disposition": "RETAIN developed provenance → C18",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C18",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/apoha.md",
+          "row": 10,
+          "rule": "Distinct physical provenance carrier; corresponding reference-note matrix remains authoritative for its own surviving homes."
+        }
+      ]
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba.md",
+      "title": "Bimba-Pratibimba",
+      "sha256": "9e2fb3929acd016293a059c8d97f9b024f3cd5c8052be03795c102505ca85554",
+      "ledger_disposition": "RETAIN developed provenance → C38",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C38",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/bimba-pratibimba.md",
+          "row": 11,
+          "rule": "Distinct physical provenance carrier; corresponding reference-note matrix remains authoritative for its own surviving homes."
+        }
+      ]
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/centaur-societies.md",
+      "title": "centaur-societies.md",
+      "sha256": "a67e0007301aa794681bb234c22297f398adc157808d66bb71461cc988ffdc5d",
+      "ledger_disposition": "RETAIN supporting Agentworld/cultural-individuation research → C42/C57/C59; no separate canonical C identity",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C42",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "C57",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "C59",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": []
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+      "title": "Compassion as Sensitivity to Origins",
+      "sha256": "13fccd291d706d4ba0aa6c688b046dcd78c5b47527d632185f7da1e50064a80c",
+      "ledger_disposition": "RETAIN developed provenance → C56",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C56",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": []
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+      "title": "Counterfeit Gathering",
+      "sha256": "6351cff4307a4f0ae5cfb603d355ae2fffe3f94cc303cf1c2ffc0070250e19a1",
+      "ledger_disposition": "RETAIN developed provenance → C25",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C25",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": []
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/diaphaneity.md",
+      "title": "Diaphaneity",
+      "sha256": "9dc305b18f5eee49dcf3fd693612818169dbd9c43900c81bd022f8bdc76ae6ae",
+      "ledger_disposition": "RETAIN developed provenance → C09",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C09",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": []
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/dimensional-reframing-at-zero-and-infinity.md",
+      "title": "Dimensional Reframing at Zero and Infinity",
+      "sha256": "ad28ef52c95faf6c4c7717abe293330ca064821bdcd9d82c80c03bda87a3928f",
+      "ledger_disposition": "RETAIN developed provenance → C52",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C52",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": []
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/fusion-as-syns-shadow.md",
+      "title": "Fusion as Syn's Shadow",
+      "sha256": "28ad563dd98631f25c5c26bff35b4cbb771aa1d4e4fc00cbf237fa8b83847633",
+      "ledger_disposition": "RETAIN developed provenance/support → C24/C50",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C24",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "C50",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": []
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/index.md",
+      "title": "Concept Map",
+      "sha256": "61240a914984a870cdbffbc8ed5d5b3985e0e23ea0a83f13d8ef9e57b0c10100",
+      "ledger_disposition": "RETAIN pre-T09 transverse-braid/developed map as provenance; it is no longer the canonical C identity front door",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-pre-T09-transverse-navigation-provenance",
+      "development_homes": [
+        {
+          "record_id": "C61",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": [],
+      "current_front_door": "submission-package/essay/symbolon/episteme/concepts/CANONICAL-INDEX.md",
+      "standing_note": "Index is not a C61 identity: C61 consumes its disclosure/routing residue. Preserve existing map without claiming canonical Concept identity."
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/j-space.md",
+      "title": "J-Space",
+      "sha256": "150470e5601c53370433a8ef5c5cb2a1c02adac13f0d163014eff58fcf6d2b48",
+      "ledger_disposition": "MOVE/SUBORDINATE as research object beneath C40/C39; preserve all experiments/material",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "subordinate-research-object-beneath-C40-C39",
+      "development_homes": [
+        {
+          "record_id": "C40",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "C39",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "matheme-j-space",
+          "path": "submission-package/essay/symbolon/matheme/computation/j-space.md",
+          "register": "matheme",
+          "role": "co-consumer",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": [],
+      "standing_note": "MOVE in standing only here; exact formal operation belongs to census-admitted matheme-j-space. No physical migration and no new ordinary C identity."
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/mathematical-artistic-image-register.md",
+      "title": "Mathematical-Artistic Image Register",
+      "sha256": "073d5b20cb93fe17d4216c1b7bff93c6f8225e0629f3e4e5b5f55776b0b9f03f",
+      "ledger_disposition": "RETAIN supporting Episteme/image-routing register → C33/C61; no separate canonical C identity",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C33",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "C61",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/mathematical-artistic-image-register.md",
+          "row": 46,
+          "rule": "Distinct physical provenance carrier; corresponding reference-note matrix remains authoritative for its own surviving homes."
+        }
+      ]
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/parasociety.md",
+      "title": "Parasociety",
+      "sha256": "ca1ca6243cb5d8fd0bdd49775e44c1cb149d417eb5765c9fda748f0ac74fbb4a",
+      "ledger_disposition": "RETAIN supporting Agentworld research → C57/C59; no separate canonical C identity",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C57",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "C59",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": []
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/planetary-computation.md",
+      "title": "Planetary Computation",
+      "sha256": "1363c308a94b75cca3739907b737d285b8e40d9da9ee605a872fc4bb35d81826",
+      "ledger_disposition": "RETAIN developed provenance → C62",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C62",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": []
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/prompt-thrownness.md",
+      "title": "Prompt Thrownness",
+      "sha256": "f8f14404e74e9646ffce70e53a8dc2287cd96612012023f92c9876e1beb982cc",
+      "ledger_disposition": "RETAIN developed provenance → C44",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C44",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/prompt-thrownness.md",
+          "row": 58,
+          "rule": "Distinct physical provenance carrier; corresponding reference-note matrix remains authoritative for its own surviving homes."
+        }
+      ]
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/psychoid-number.md",
+      "title": "Psychoid Number",
+      "sha256": "46bcee65dccf5bd1f8184b94cbbbd6417aeb5c5bcf2a2577a234999bb33a6ebf",
+      "ledger_disposition": "RETAIN developed provenance → C30",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C30",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/psychoid-number.md",
+          "row": 60,
+          "rule": "Distinct physical provenance carrier; corresponding reference-note matrix remains authoritative for its own surviving homes."
+        }
+      ]
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/register-grammar.md",
+      "title": "Register Grammar — Matheme, Mytheme, Episteme",
+      "sha256": "28250daf8a9ea961395736f502169fb633ec0573918d2c01c963ca3d9362b339",
+      "ledger_disposition": "RETAIN governing/supporting register grammar → C61; not a Concept identity",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-governing-supporting-register-grammar-not-concept",
+      "development_homes": [
+        {
+          "record_id": "C61",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": [],
+      "standing_note": "C61 consumes disclosure relations; do not convert the governing grammar into an ordinary Concept page."
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/simulation.md",
+      "title": "Simulation",
+      "sha256": "492de7634eeac6c7e49183e4e49c4daab3b497250ccbc71eb3f3498b4f15067a",
+      "ledger_disposition": "RETAIN supporting Agentworld/representation research → C37/C57; no separate canonical C identity",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C37",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "C57",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": []
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/the-slash.md",
+      "title": "The Slash (AND/OR)",
+      "sha256": "ed9599aa3858fb218931bf9407ae6fdb8b9630b531af3dc78d5ca3d9f8e13b9f",
+      "ledger_disposition": "MOVE/REHOME in standing to Matheme/operator provenance; supports A15/A18/C11/C61, not an ordinary Concept identity",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "rehome-in-standing-to-Matheme-operator-provenance",
+      "development_homes": [
+        {
+          "record_id": "matheme-slash-and-or",
+          "path": "submission-package/essay/symbolon/matheme/ql/slash-and-or.md",
+          "register": "matheme",
+          "role": "primary-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "symbolon-the-slash",
+          "path": "submission-package/essay/symbolon/the-slash.md",
+          "register": "symbolon",
+          "role": "co-consumer",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A15",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A18",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "C11",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "C61",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": [],
+      "standing_note": "Root relation and exact operator are separately admitted; ordinary Concept identity is not retained."
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+      "title": "Vikalpa / Saṃkalpa",
+      "sha256": "d7484b78659ebf53eeea77daf3d98988902e104bf021412972d3728af7dbb688",
+      "ledger_disposition": "RETAIN developed provenance → C17",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C17",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": []
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/world-picture-to-world-atlas.md",
+      "title": "World-Picture to World-Atlas",
+      "sha256": "f24b427f1dcb4f3593e51733e03209fbbf8db58dac7bb91e4f977372fd1d5266",
+      "ledger_disposition": "RETAIN developed provenance → C37 / A22",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retain-developed-provenance-subordinate-to-listed-survivors",
+      "development_homes": [
+        {
+          "record_id": "C37",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A22",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": []
+    },
+    {
+      "carrier_kind": "legacy-top-level-concept",
+      "path": "submission-package/essay/symbolon/episteme/concepts/zero.md",
+      "title": "Zero",
+      "sha256": "060ab29ef9f6234e9b552f851cd1a32d31cf1f547b883eed7a144b3f3984b98f",
+      "ledger_disposition": "RETIRE as ordinary Concept identity; RETAIN material as Episteme/history + A10/A36 + root `0` Symbolon/Matheme provenance",
+      "ledger_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "disposition": "retire-ordinary-Concept-identity-retain-all-material",
+      "development_homes": [
+        {
+          "record_id": "history-mathematics",
+          "path": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+          "register": "episteme",
+          "role": "primary-depth",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "dossier-zero-reception",
+          "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A10",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A36",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+          "register": "episteme",
+          "role": "co-consumer",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "symbolon-0-1",
+          "path": "submission-package/essay/symbolon/0-1.md",
+          "register": "symbolon",
+          "role": "co-consumer",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "matheme-primordial-symbolon",
+          "path": "submission-package/essay/symbolon/matheme/ql/primordial-symbolon.md",
+          "register": "matheme",
+          "role": "co-consumer",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "physical_action": "none; standing-only reconciliation, retain all unique developed material",
+      "canonical_change_authorised_by_this_matrix": false,
+      "reference_note_relation": [],
+      "standing_note": "T09 root0 wording does not authorise an extra zero.md root: only existing census root0-1/primordial-symbolon target is used, with zero-pole relation as section. Mathematical sign history and integral Symbol return retain A10/A36 separation."
+    },
+    {
+      "carrier_kind": "existing-map",
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "title": "Mono–Poly and the Two Ones — Transverse Thread",
+      "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+      "disposition": "explicitly-retained-pending-T23-distinct-movement-test",
+      "standing": "existing-navigation-carrier-not-new-quota-admission",
+      "new_canonical_identity": false,
+      "admitted_as_new_page": false,
+      "surviving_existing_register_home": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "development_homes": [
+        {
+          "record_id": "A11",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A12",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A13",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A18",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A29",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A30",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Retains the two-one kernel through mathematical admission, logical differentiation, psychic refraction and non-monopolistic governance.",
+      "T23_acceptance_test": "Demonstrate a whole traversal distinct from the trust path and zero historical braid; preserve One/All asymmetry, real plurality and source/return at each transition.",
+      "read_status": "complete-existing-map-read",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/maps/README.md",
+        "working/p2-enrichment/census.json",
+        "working/p2-enrichment/reference-note-dispositions.json",
+        "user-programme:T23-navigable-developed-world"
+      ],
+      "physical_action": "none; retain exact existing file pending substantive T23 audit",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "carrier_kind": "existing-map",
+      "path": "submission-package/essay/symbolon/episteme/maps/return-of-zero-braided-traversal.md",
+      "title": "Return of Zero — Braided Traversal",
+      "sha256": "f19c364d0c8619d78ec1bf63ee2e757c0113e6a3a9b2bee18e83c311765809f1",
+      "disposition": "explicitly-retained-pending-T23-distinct-movement-test",
+      "standing": "existing-navigation-carrier-not-new-quota-admission",
+      "new_canonical_identity": false,
+      "admitted_as_new_page": false,
+      "surviving_existing_register_home": "submission-package/essay/symbolon/episteme/maps/return-of-zero-braided-traversal.md",
+      "development_homes": [
+        {
+          "record_id": "A01",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A02",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A03",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A04",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A05",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A06",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A07",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A08",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A09",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A10",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A11",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A12",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A13",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A14",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A15",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A16",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A17",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A18",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A19",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A20",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A21",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A22",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A23",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A24",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A25",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A26",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A27",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A28",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A29",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A30",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A31",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A32",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A33",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A34",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A35",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A36",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Retains the existing forty-eight-Movement day spine, venue-facing night pressure and named transverse braids.",
+      "T23_acceptance_test": "Verify exactly the sovereign forty-eight movements and their distinct work against P1; demonstrate navigability across root/Matheme/Mytheme/Episteme without substituting an invented second manuscript or merely counting links.",
+      "read_status": "complete-existing-map-read",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/maps/README.md",
+        "working/p2-enrichment/census.json",
+        "working/p2-enrichment/reference-note-dispositions.json",
+        "user-programme:T23-navigable-developed-world"
+      ],
+      "physical_action": "none; retain exact existing file pending substantive T23 audit",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "carrier_kind": "existing-map",
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+      "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+      "disposition": "explicitly-retained-pending-T23-distinct-movement-test",
+      "standing": "existing-navigation-carrier-not-new-quota-admission",
+      "new_canonical_identity": false,
+      "admitted_as_new_page": false,
+      "surviving_existing_register_home": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "development_homes": [
+        {
+          "record_id": "A03",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A13",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A20",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A23",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A24",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A25",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A29",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A31",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A35",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Retains formal limit→humility→provisional anchor/projected distrust→risked continuation across psychological, institutional and technical registers.",
+      "T23_acceptance_test": "Show that this is the lived/evidential trust movement rather than a duplicate Mono/Poly topology; retain surety, real risk and the distinction between observability and trust.",
+      "read_status": "complete-existing-map-read",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/maps/README.md",
+        "working/p2-enrichment/census.json",
+        "working/p2-enrichment/reference-note-dispositions.json",
+        "user-programme:T23-navigable-developed-world"
+      ],
+      "physical_action": "none; retain exact existing file pending substantive T23 audit",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "carrier_kind": "existing-map",
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+      "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+      "disposition": "explicitly-retained-pending-T23-distinct-movement-test",
+      "standing": "existing-navigation-carrier-not-new-quota-admission",
+      "new_canonical_identity": false,
+      "admitted_as_new_page": false,
+      "surviving_existing_register_home": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "development_homes": [
+        {
+          "record_id": "A04",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A10",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A11",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A18",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A21",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A26",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A34",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "A36",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+          "register": "episteme",
+          "role": "semantic-traversal-owner",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "path_authority": "working/p2-enrichment/census.json"
+        }
+      ],
+      "distinct_operation_retained": "Retains the source-distinct mathematical/psychological/integral historical braid through the first advent and terminal return.",
+      "T23_acceptance_test": "Show the history’s distinct changing offices and source boundaries; A10 mathematical sign and A36 Integral Zero cannot collapse, and historical witnesses never become the native QL derivation.",
+      "read_status": "complete-existing-map-read",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/maps/README.md",
+        "working/p2-enrichment/census.json",
+        "working/p2-enrichment/reference-note-dispositions.json",
+        "user-programme:T23-navigable-developed-world"
+      ],
+      "physical_action": "none; retain exact existing file pending substantive T23 audit",
+      "canonical_change_authorised_by_this_matrix": false
+    }
+  ]
+}

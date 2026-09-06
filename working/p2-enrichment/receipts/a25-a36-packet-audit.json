@@ -1,0 +1,148 @@
+{
+  "receipt_type": "A25-A36-packet-local-verification",
+  "checked": "2026-09-06T23:12:22.381312+01:00",
+  "live_quilts": [
+    "2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+    "2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md",
+    "27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+    "agentworld-response-matrix.md",
+    "copula-derivation-chain-and-resource-pools.md",
+    "ql-expression-grammar.md"
+  ],
+  "packets": [
+    {
+      "argument": "A25",
+      "path": "working/p2-enrichment/argument-depth/A25.md",
+      "sha256": "70f879141a91f84870d275c339afc4b8d29246eb55ced69c287b11e0b97f7435",
+      "words": 2327,
+      "quilt_census_complete": true,
+      "missing_paths": [],
+      "required_sections_present": true,
+      "canonical_depth_pending": true,
+      "trailing_whitespace_lines": []
+    },
+    {
+      "argument": "A26",
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "sha256": "a7b7cd91d2fd2406d8761487b20f66ef15130fd5f1299af6f7a549361e539944",
+      "words": 2744,
+      "quilt_census_complete": true,
+      "missing_paths": [],
+      "required_sections_present": true,
+      "canonical_depth_pending": true,
+      "trailing_whitespace_lines": []
+    },
+    {
+      "argument": "A27",
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "sha256": "603d39896e78930180ccf71f3f9139f7666076c5fbd3b709544a8cbae81e7148",
+      "words": 2319,
+      "quilt_census_complete": true,
+      "missing_paths": [],
+      "required_sections_present": true,
+      "canonical_depth_pending": true,
+      "trailing_whitespace_lines": []
+    },
+    {
+      "argument": "A28",
+      "path": "working/p2-enrichment/argument-depth/A28.md",
+      "sha256": "a998591196094d47e4cf8c2e52beccfae29e85b7f95752c35daf1a0f16ae9b1e",
+      "words": 2160,
+      "quilt_census_complete": true,
+      "missing_paths": [],
+      "required_sections_present": true,
+      "canonical_depth_pending": true,
+      "trailing_whitespace_lines": []
+    },
+    {
+      "argument": "A29",
+      "path": "working/p2-enrichment/argument-depth/A29.md",
+      "sha256": "df16db3f0dc451847aab076658d7050e9ec888cad3618bd975c3162204c6a1ee",
+      "words": 2352,
+      "quilt_census_complete": true,
+      "missing_paths": [],
+      "required_sections_present": true,
+      "canonical_depth_pending": true,
+      "trailing_whitespace_lines": []
+    },
+    {
+      "argument": "A30",
+      "path": "working/p2-enrichment/argument-depth/A30.md",
+      "sha256": "72f7883f3955b05bb3448dcdfee87b5f0cd4e76d16de37fe922b20f995643e62",
+      "words": 2505,
+      "quilt_census_complete": true,
+      "missing_paths": [],
+      "required_sections_present": true,
+      "canonical_depth_pending": true,
+      "trailing_whitespace_lines": []
+    },
+    {
+      "argument": "A31",
+      "path": "working/p2-enrichment/argument-depth/A31.md",
+      "sha256": "2e8a2e463260bfd1e194037a5bba48cddfb06aaad1d8fc71e87003de0d10d1c7",
+      "words": 2275,
+      "quilt_census_complete": true,
+      "missing_paths": [],
+      "required_sections_present": true,
+      "canonical_depth_pending": true,
+      "trailing_whitespace_lines": []
+    },
+    {
+      "argument": "A32",
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "sha256": "8d7f5d6f98f61bb3011360c0ef68b0681989c97a8f224c2c549668ef167ca428",
+      "words": 2528,
+      "quilt_census_complete": true,
+      "missing_paths": [],
+      "required_sections_present": true,
+      "canonical_depth_pending": true,
+      "trailing_whitespace_lines": []
+    },
+    {
+      "argument": "A33",
+      "path": "working/p2-enrichment/argument-depth/A33.md",
+      "sha256": "61ffc1d702894cd6f35cda9b489cf5da6a8e4103c1153e495ce23917cd4c6285",
+      "words": 2686,
+      "quilt_census_complete": true,
+      "missing_paths": [],
+      "required_sections_present": true,
+      "canonical_depth_pending": true,
+      "trailing_whitespace_lines": []
+    },
+    {
+      "argument": "A34",
+      "path": "working/p2-enrichment/argument-depth/A34.md",
+      "sha256": "df21f6dcf9b0d970c9a30667bd74ce401053df8be36bd1e0be95b4fa7a98a370",
+      "words": 2466,
+      "quilt_census_complete": true,
+      "missing_paths": [],
+      "required_sections_present": true,
+      "canonical_depth_pending": true,
+      "trailing_whitespace_lines": []
+    },
+    {
+      "argument": "A35",
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "sha256": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489",
+      "words": 2775,
+      "quilt_census_complete": true,
+      "missing_paths": [],
+      "required_sections_present": true,
+      "canonical_depth_pending": true,
+      "trailing_whitespace_lines": []
+    },
+    {
+      "argument": "A36",
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "sha256": "ead4ef5356c179cfed3eb5250efcfc2e42d7a140b699c478ee23d4e14ee8b10c",
+      "words": 3402,
+      "quilt_census_complete": true,
+      "missing_paths": [],
+      "required_sections_present": true,
+      "canonical_depth_pending": true,
+      "trailing_whitespace_lines": []
+    }
+  ],
+  "tracked_notes_changes": [],
+  "scope": "Local paths, complete live-quilt accounting, section presence and canonical pending status. Semantic review remains parent responsibility; this audit does not certify external facts or restoration completion."
+}
