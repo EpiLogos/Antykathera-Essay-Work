@@ -63,3 +63,8 @@ Restored independent Other and federated worldhood, labour/office return, five d
 ### A32–A33, C17–C18, C49–C50/C52 — 2026-09-07
 
 Restored the complete initiating Mirror, substantive operational parity, active formative/exclusion relation, Two Ones before logics, distinct signed operations and precise changed mathematical frames. 91 resolved links, raw sixfold and whitespace checks passed. A broader check of the previous74 committed pages verified988 links against intended paths with no mismatches. The evolving C18 short-path defect was repaired before acceptance. No machine phenomenality or implemented research result is inferred.
+
+
+### C19–C20 — 2026-09-07
+
+Restored recognition’s changed particular return and Arche-Topos as place-generation, with memory/recognition, Necker view/context, quotient/lift and atlas/trajectory distinctions intact. 28 resolved links, raw sixfold and whitespace checks passed. External passage locators remain debts without displacing the authorial operations.
