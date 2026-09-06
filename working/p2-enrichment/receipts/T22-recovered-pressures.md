@@ -68,3 +68,8 @@ Restored the complete initiating Mirror, substantive operational parity, active 
 ### C19–C20 — 2026-09-07
 
 Restored recognition’s changed particular return and Arche-Topos as place-generation, with memory/recognition, Necker view/context, quotient/lift and atlas/trajectory distinctions intact. 28 resolved links, raw sixfold and whitespace checks passed. External passage locators remain debts without displacing the authorial operations.
+
+
+### C51/C61/C64 — 2026-09-07
+
+Restored Epi-Logos’s ratified harmonisation office, bidirectional whole-bearing disclosure and productive transformation of the containing field. Review corrected the repeated unconfirmed noncoincidence quotation to developmental paraphrase with corpus-sweep/D4 provenance debt. 24 resolved links, raw sixfold and whitespace checks passed. Focal, analogical and causal governance remains settled architecture with distinct historical source gates.

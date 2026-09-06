@@ -1,25 +1,30 @@
 # C61 — Symbolon Disclosure Architecture
 
-**Definition.** Symbolon Disclosure Architecture is the routing architecture by which one relational subject-matter can disclose itself through Matheme, Mytheme and Episteme while remaining connected to Arguments, Concepts and Movement consumers. It is **architecture**, not a second Symbolon theorem.
+## #0
 
-The distinction exists to prevent two opposite losses. Without routing, formal, mythic and historical materials become disconnected dossiers. Without office boundaries, they collapse into one register and borrow each other's warrant. C61 keeps the relations explicit while preserving standing.
+Symbolon Disclosure Architecture routes one relational subject-matter through Matheme, Mytheme and Episteme while preserving its Arguments, Concepts and consumers. A18 carries the substantive primordial Symbolon and eight determinations; C11 the wider QL field. C61 gives their disclosures a traversable architecture, not another theorem.
 
-Its operation is:
+## #1
 
-```text
-A18 — Primordial Symbolon
-        ↓
-C61 — disclosure / routing architecture
-        ↓
-Matheme / Mytheme / Episteme
-        ↕
-Argument / Concept / Section-Movement
-        ↺ Return
-```
+The registers do different work. Matheme makes an operation exact and repeatable; Mytheme gives it a life capable of being remembered, suffered, desired and transformed; Episteme establishes a claim's standing in a history, method, institution or practice. The Symbolon gathers their relations without flattening the differences that let each contribute.
 
-Whole Mythemes remain whole relational carriers; they are not atomised merely because several Arguments consume them. Matheme supplies exact formal operations; Episteme supplies historical/source warrant. Cross-register links must state their evidence register and consumed operation.
+## #2
 
-Nearest neighbours are C11 QL, C21 Living Symbol, C30 Psychoid Number and C64 Paradox. C11 is the wider formal field; A18 is the substantive eight-determination Argument.
+Each register has its own source/appearance relation. A written formula carries a field of possible operations; a finite story carries more than its characters' labels; an authorised statement carries tacit methods, exclusions and institutions. Symbolon Dynamics gives a conjugate reading: Mytheme can supply the imaginal source from which a Matheme emerges as exact expression. The routing must therefore work in both directions rather than ranking the registers once for all.
+
+## #3
+
+A cross-register link states the operation consumed, its source, its relation and what changes at the destination. A source's quotation readiness is separate from the native claim's Derived, Argued, Offered or Open standing. An internal authorial manuscript establishes provenance of a derivation; it does not turn every historical reference inside it into verified external evidence.
+
+## #4
+
+Whole Mythemes remain whole relational carriers even when several Arguments consume distinct moments. Extracting capture from a net-story while losing exposure, surety and release can reverse the operation; treating an independent genealogy as another scene in the same poem confuses provenance. The architectural return must retain the whole carrier and locate the exact consumed relation, while leaving its source-specific detail with its proper owner.
+
+## #5→0
+
+The disclosed form changes what can next be encountered. Symbolon Dynamics follows image→changed interpreter→changed future image; A33 asks whether technical disclosure alters an operation; A36 returns the mathematical sign as Symbol with its exactness intact. The routing thus carries source, transformation, consequence and return, rather than accumulating disconnected dossiers. No CT-01–CT-06 identities or extra determination are created by this architecture.
+
+### Declared field
 
 **Argument consumers:** A18, A20, A33, A36. **Movement consumers:** every later traversal that consumes Matheme/Mytheme/Episteme; T09 itself does not propagate sections.
 
@@ -27,10 +32,12 @@ Nearest neighbours are C11 QL, C21 Living Symbol, C30 Psychoid Number and C64 Pa
 
 **Source/tradition standing:** current Symbolon architecture, deep-source seam and canonical-rebuild carriers are authoritative for routing; they are not prose substitutes.
 
-**Carrier disposition:** CREATE as canonical C61; architecture notes remain governing provenance. No CT-01–CT-06 theorem identities are created.
+### Provenance
 
-## Unresolved Delta
+[Core SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [direct theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md) govern native operations. [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) and [complete manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>) supply the register/recursive body. [Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) with protected sibling NOTES supplies the symbolic encounter; no copied passage has been promoted to quotation-ready. The [trust revision §7.3](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md) records the first-person chiasmus, but the [corpus sweep](../../../../../working/sources-texts-references/definition-of-god-working/corpus-sweep-2-crux-staging.md) found no independent transcript and [harmonisation-plan D4](../../../../../working/sources-texts-references/definition-of-god-working/harmonisation-plan.md) requires Frank's confirmation of exact wording. Its operation is carried here as developmental paraphrase, not verified verbatim. External mathematical and historical claims retain independent source tasks; internal derivation retains its own force.
+
+### Remaining depth
 
 Restore complete bidirectional links to all Matheme/Mytheme/Episteme carriers during later Depth Restoration and Movement propagation.
 
-**Depth Restoration: pending**
+**Depth Restoration: enriched; exact source/route debts retained.**

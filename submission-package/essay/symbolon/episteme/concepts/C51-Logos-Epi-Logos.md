@@ -1,12 +1,32 @@
 # C51 — Logos / Epi-Logos
 
-**Definition.** Logos names articulated word, account, reason and ordering in the Greek/source field; **Epi-Logos** is the authorial operation of returning *upon* an achieved logos/account—examining its source, exclusions, effects, mediations and capacity for renewed relation.
+## #0
 
-The distinction exists because articulation can become sovereign over what it articulates. Epi-Logos does not replace Logos or simply mean “meta”. It adds the recursive responsibility by which an account returns to the field that made it possible.
+Logos carries articulated word, account, reason and ordering within its Greek source histories. Epi-Logos is Taylor's authorial return upon an achieved account: its source, exclusions, effects, mediation and renewed possibility of articulation become part of the inquiry.
 
-Its operation is **articulate → achieve account → turn upon account/source/effects → reopen articulation**. C06 Vāk's Argument gives a distinct Śaiva articulation field; C46 Epistemic Cultivation gives a technical/epistemic practice; C56 Compassion gives the ethical orientation of sensitivity to origins.
+## #1
 
-Nearest neighbours are C46, C56 and C59. Vāk and Logos remain source-distinct; their relation is operational homology, not common descent.
+Articulation does real work. A06's Vāk account gives a distinct Śaiva field in which speaking and determining have generative force; A14 follows repeatable operations through which a claim or world becomes stable enough to act. Vāk and Logos retain different sources. Their operational relation does not establish common descent or interchangeable doctrine.
+
+## #2
+
+A completed account can hide the conditions that gave it authority. The return therefore asks who speaks, through which instrument, under what permission, with which exclusions and costs. Name needs its coequal Power relation: Truth/Mind/Word/Logos/Son/Image cannot replace Play/Need/Sacrifice/Decision/Love/Work. An articulated result has passed through work and decision, not words alone.
+
+## #3
+
+Draft3's double devotion keeps the exceeding whole and the particular aperture together. The account becomes more exact through admitting its limit rather than dissolving into general humility. Its eros of logos is the desire of articulation to know its own sources; compassion gives the return a non-devouring orientation.
+
+## #4
+
+The [ratified quilt §2.3.6](../../../quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md#236-aristotle-gebser-and-epi-logos) gives this return its collective office: the harmonisation of differentiated knowledge. Each tradition, science, model, myth, experience and institution seeks its indistinct ground uniquely in a common inquiry. C63 preserves focal orientation and proportional comparison across distinct objects and warrants; the causal quaternity makes material, efficient, formal and final conditions answerable through ground and return. Gebserian diaphaneity makes inherited structures transparent to origin, while Taylor’s fourth-person development includes care, participation and telos. C59 carries cultural individuation; the sovereign commons gives collective human and artificial Self-understanding an institution. This architecture is settled authorial work; exact Aristotle and Gebser passages remain separate historical attribution gates.
+
+In the technical register, the return must change what can be done with an account: inspect, contest, revise, delegate or refuse. C46 cultivates the means of knowing; C47 lets an Other change the model. Source records and traces provide a minimum body for that responsibility, while no architecture manufactures the relation it serves.
+
+## #5→0
+
+The work returns to use beyond its maker. Draft3's gift, cut cord and reader's remembrance place completion in another life rather than in the author's possession of a final definition. A36 gives the exact sign its symbolic return without cancelling mathematical integrity. Epi-Logos reopens articulation through the history and consequences of what it has already said.
+
+### Declared field
 
 **Argument consumers:** A06, A14, A35–A36. **Movement consumers:** Vāk/Logos, vocation and final return movements.
 
@@ -14,10 +34,12 @@ Nearest neighbours are C46, C56 and C59. Vāk and Logos remain source-distinct; 
 
 **Source/tradition standing:** Greek Logos histories and Taylor Epi-Logos formation must remain clearly distinguished; Śaiva Vāk is comparative.
 
-**Carrier disposition:** CREATE as canonical C51; earlier Epi-Logos/Logos notes remain provenance.
+### Provenance
 
-## Unresolved Delta
+Native derivation: [core theorem SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [full theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md); [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>); [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md). The [Draft3 SOURCE](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md) and [direct Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>) preserve the author's corrections and vocational return. The derivation does not turn mathematical, linguistic or historical neighbours into borrowed proofs.
+
+### Remaining depth
 
 Restore exact Greek lexical history and authorial formation chronology; separate prefix morphology from philosophical operation.
 
-**Depth Restoration: pending**
+**Depth Restoration: enriched; exact external attribution debts retained.**
