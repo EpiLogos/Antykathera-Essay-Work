@@ -33,3 +33,8 @@ Restored reflective appearing and speech/address operations, accountable ratio a
 ## 2026-09-07 — A07/A08/A26 and C05/C06
 
 Restored conditioned formation versus script, qualified preclusion and live positive-reference pressure, and notational/nomological/exclusion-constituted worldhood with returned inheritance. C05/C06 distinguish recurrent noncoincidence from positive identification. The Buddhist comparison retains Pind's qualified referent; no blanket denial of positive reference is asserted. C03/C04 source links now use exact canonical homes. All seven files pass raw-sixfold and link checks; no new source standing, identity or section propagation.
+
+
+### A09–A10, A17–A18, A28, C07–C08, C53–C54 — 2026-09-07
+
+Restored effective tattvic contraction and zero’s distinct permissions; finite address/infinite lift, full eightfold and inverse folds; recursive commissioning, worldhood/context, delegated labour and non-monopolising commons. Targeted sixfold, whitespace and 123 resolved-link checks passed. Native operations retain their claim strength; exact doctrinal sequencing, historical priority, formal-source locators, empirical deployment and cultural outcomes remain named debts. The source-return obligation reaches the commissioning office itself. No section-room or manuscript changes.

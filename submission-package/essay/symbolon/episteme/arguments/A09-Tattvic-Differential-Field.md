@@ -1,24 +1,46 @@
 # A09 — Tattvic Differential Field
 
-**Standing:** canonical semantic Argument; historical Argument 02 and live `13-tattvic-differential-field.md` remain provenance.
+**Standing:** canonical semantic Argument. Native sixfold contraction is Argued from the theorem field; the tattvic doctrine retains its own source register; the gnomonic cross-reading is Offered/Argued.
 
-## Argument
+## #0
 
-The tattvas matter to this essay as a genealogy of differentiation, not as a list of metaphysical furniture. Their movement shows how a non-dual luminous field can become a subject/object seam, a bounded horizon, an inner instrument and a material world without requiring a second reality to be created outside the first. Each contraction is therefore an operation by which a field becomes more locally determinate and more capable of situated action.
+The tattvas give differentiation a genealogy: a luminous field becomes a subject/object seam, a bounded horizon, an inner instrument and a material world without creating a second reality outside itself. Anuttara names the field for which no external measuring object stands outside. This beginning matters to every subsequent contraction: what becomes limited is a power of the field, and the limit remains effective within it.
 
-The developed carrier organises the descent through six turns. Anuttara names a field for which no external measuring object stands outside. Śiva–Śakti differentiates luminosity from self-articulating power without splitting reality. Sadāśiva–Īśvara gives two directed readings, “I am this” and “This am I”. Sadvidyā–Māyā makes the orientation workable as a subject/object distinction. The kañcukas, puruṣa and antaḥkaraṇa contract power into finite capacities of knowledge, desire, time, order, determination, appropriation and coordination. Pratyabhijñā returns the contracted field to recognition of provenance without cancelling the distinctions through which it now lives.
+## #1
 
-This is why Māyā must be understood here as operative measure rather than simple illusion. The bounded world is effective. A subject can act precisely because capacity, knowledge, desire, time and order have become finite enough to form a context. The error is not differentiation itself; it is the amnesia by which a conditioned position takes its local horizon as self-grounding reality.
+Śiva–Śakti distinguishes luminosity and its self-articulating power. Prakāśa makes appearing possible; vimarśa is the awareness through which appearing can be known, distinguished, joined and withdrawn. [A05](A05-Prakasa-Vimarsa.md) restores Dyczkowski's mirror contrast: the reflected display of an inert crystal does not know its display. The tattvic descent depends on active self-articulation, not a succession of objects deposited before an unchanged spectator.
 
-The argument also gives Objective Internality its metaphysical precursor. Antaḥkaraṇa — buddhi, ahaṃkāra, manas and associated operations — is an inspectable inner instrument while remaining distinct from the subject-pole. That distinction later becomes technically decisive: memory, prompt, model, tools, policies and judgments can constitute a real operative interior without settling the question of phenomenal subjectivity.
+[Dyczkowski](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) p.75 distinguishes two axes of this activity. Vertically, manifestation and withdrawal articulate the movement between unity and diversity. Horizontally, awareness goes towards and returns from its object in each perception. Will, knowledge and action generate, sustain and annul dimensions of experience; they are phases of the living movement through which the levels operate. Frank's preserved source-note request for nested co-internality and causal interrelation belongs here: an effect remains within the power that differentiates it, and an act of perception recapitulates the relation rather than merely looking at a finished cosmological inventory.
 
-## Pressure and distinctness
+## #2
 
-A05 supplies self-articulating luminosity; A07 and A08 supply determination and exclusion. A09 must show how those operations compose a world. It is distinct from A26 because the tattvic field is a metaphysical/phenomenological genealogy, whereas Objective Internality is the general argument that mind is dynamically constituted through context-world. It is distinct from A14 because “runtime” is a technical refraction, not the source meaning of the tattvas.
+Sadāśiva and Īśvara give the field inverse universal readings: “I am this” and “This am I”, `0/1 ↔ 1/0`. The reversal changes the direction of apprehension within one field. Ahaṃkāra can later say “I am this” while appropriating a particular local form. The grammar repeats, but its scope has contracted: a universal orientation and identification with a finite body, role or thought do different work. Keeping the scope explicit explains how the whole becomes locally inhabitable and how local identity can forget its provenance.
 
-The offered `36 = 6²` relation remains research rather than foundation. T09 does not use numerical coincidence to prove the tattvic argument.
+## #3
 
-## Relations and Return
+Sadvidyā–Māyā makes the orientation a workable distinction. Māyā is the horizon at which this appears while that is withheld; the withholding lets an agent discriminate and act. Mahāmāyā remains Śakti: revealing and concealing are powers of the same field. The horizon is therefore neither the unobjectifiable Subject nor the hole of a topological picture. In Dyczkowski's source-matched pp.78–79, inner/outer separation is produced through consciousness's creative activity, and external manifestation preserves its internal nature. The experienced world has efficacy.
+
+The [Q27 correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) gives the lived operation through the sleeper who forgets sleeping: that forgetting lets a dream count as immediately real. Dream shows why objective need not mean externally material; the example does not make every waking distinction fictitious. Recognition changes the relation to the horizon through which experience occurs.
+
+## #4
+
+The kañcukas contract efficacy, knowledge, desire, time and order into the finite parameters of a context. Puruṣa is the point for which this field is mine; antaḥkaraṇa determines, appropriates and coordinates within it. Buddhi, ahaṃkāra and manas retain their distinct functions. The [Sāṅkhya source](../sources/indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE.md), kārikās XXIII, XXIV, XXVII and XXIX, supplies the functional triad; XIX qualifies it with the passive witness. Those are Sāṅkhya determinations, not a substitute primary Trika inventory.
+
+The recovered gnomon makes the comparison precise:
+
+```text
+36 − 25 = 6² − 5² = (6 − 5)(6 + 5) = 11 = 5 + 1 + 5.
+```
+
+A row of five and a column of five meet at one corner to complete the larger square. The cross-reading places five pure powers and five contracted powers around the Māyā hinge, above the twenty-fivefold Sāṅkhya apparatus. Its yield is a relation between the differentiated apparatus and its genesis through contraction. The arithmetic is exact; the mapping is Offered/Argued. It neither attributes square arithmetic to Abhinavagupta nor assigns every tattva a proved coordinate in a six-by-six table. The six-turn derivation does not depend on that stronger identification.
+
+## #5→0
+
+Pratyabhijñā returns the contracted field to recognition of its provenance while preserving the distinctions through which it lives. The movement runs back through an effective world, an inspectable instrument, a measuring horizon and inverse orientations to the power already active within them. It reverses amnesia rather than differentiation.
+
+This is the pressure passed to Objective Internality and the computational register: memory, prompt, model, tools, policy and judgment can constitute an operative interior whose determining activities are inspectable. Their efficacy does not establish a phenomenal subject. A09 supplies the genealogy of contraction; A26 develops context-world constitution; A14's runtime language is their technical refraction. These offices remain distinct.
+
+### Declared field
 
 **Concept dependencies:** C13 Prakāśa–Vimarśa, C14 Māyā / Operative Measure, C15 Paśu, C16 Antaḥkaraṇa, C17 Vikalpa–Saṃkalpa, C18 Apoha, C19 Recognition.
 
@@ -30,12 +52,8 @@ The offered `36 = 6²` relation remains research rather than foundation. T09 doe
 
 **Matheme:** `0/1 ↔ 1/0` into signed local orientation and return; **Mytheme:** descent, contraction, veil and recognition; **Episteme:** Kashmir Śaivism, Sāṃkhya neighbours, Buddhist exclusion and modern process comparison kept source-distinct.
 
-## Provenance
+### Provenance and remaining depth
 
-Direct carrier: `submission-package/essay/section-rooms/arguments/13-tattvic-differential-field.md`, with Taylor core theorem, Singh/Abhinavagupta, Dyczkowski, Sāṃkhya, MacCracken and apoha sources already named. Historical Argument 02 remains the provenance identity.
+Direct carriers: [core theorem X](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md), [historical tattvic Argument](../../../section-rooms/arguments/13-tattvic-differential-field.md), and Q27 §17 and the later Māyā correction. Dyczkowski's embedded transcript is source-matched, not quotation-verified, and stops during p.81; the protected note's pp.90–91 remain beyond it. The note was read from preserved stash content without restoration or mutation. Singh's introduction/commentary relation remains governed by its source house. Buddhist exclusion and Śaiva reflective power retain the distinction developed in A08.
 
-## Unresolved Delta
-
-Restore passage-level doctrinal verification, exact 36-tattva sequencing where needed, and the boundary of the sixfold QL compression. The `36=6²` hypothesis remains explicitly non-foundational.
-
-**Depth Restoration: pending**
+P1 consumers: M08 Inner Instrument, M09 Vikalpa–Saṃkalpa, M11 Tattvic Compression. Exact category-by-category doctrinal sequencing, selected-book collation and the wider Neumann mythic seam remain Open. **Depth Restoration: enriched; source and mapping debts retained.**

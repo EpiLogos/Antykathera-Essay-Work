@@ -1,23 +1,57 @@
+---
+title: C08 — Context / Context Frame
+record_id: C08
+record_type: concept
+register: episteme
+claim_status: Argued
+source_relation: Argued from
+source_ids: [taylor-2026-core-theorems-pithy, taylor-2026-symbolon-dynamics]
+argument_consumers: [A01, A03, A04, A22, A26, A27, A28, A30]
+---
 # C08 — Context / Context Frame
 
-**Definition.** Context is the active relational surround through which a determination gains meaning and possibility. A Context Frame is a bounded, explicit arrangement of such conditions used to make a local act, judgment or agent-position inspectable without pretending that the bound is the whole world.
+## #0
 
-The distinction exists because “context” can become either an infinite background invoked vaguely or a bag of metadata appended to content. C08 gives it operational form. A Context Frame states which sources, rules, histories, tools, permissions, participants and horizons are presently treated as constitutive, and it records that this selection remains local.
+Context is the active relation through which a determination has meaning and possibility. A Context Frame is a bounded holding of those conditions through which a particular inquiry can proceed. The boundary lets an operation become intelligible to itself; it does not put that operation outside its world.
 
-Its operation is **bounded contextualisation with recursive locality**. A frame can contain a local Bimba/reference office and still be Pratibimba relative to a wider frame. This is why nested contexts need not collapse the ultimate distinction between world and world-model.
+[C07 — Conditions of Worldhood](C07-Conditions-of-Worldhood.md) **grounds** the larger field. The frame selects what is currently held together, while worldhood includes conditions which that selection has not captured. Context is therefore neither an indefinitely receding excuse nor a finished container waiting to be filled.
 
-Nearest neighbours are C07 Conditions of Worldhood, C09 Diaphaneity and C44 Prompt Thrownness. The frame is the bounded arrangement; diaphaneity is the degree to which that arrangement becomes readable through its effects; thrownness is arrival into a frame not authored wholly by the arriving agent.
+## #1
 
-**Argument consumers:** A01, A03–A04, A22, A26–A28, A30. **Movement consumers:** contextualisation, Objective Internality, prompt/agent and model-world movements.
+The direct QL rewrite calls context frames operational modalities of self-holding: a process gives itself enough form to continue processing. A temporary boundary stabilises a relation without requiring its movement to cease. The frame is itself an operation within what it frames.
 
-**Etymology relation:** *Arbitration / Hybris / Regard / Anamnesis*; exact generated operation: **Con-text-through-Diaphaneity → Regard**. Register **3** for the generated relation. This changes context from backdrop into a participant that can become visible through the determination. Return: C08 → C09/A04 → E-Arbitration → C08.
+The [[working/sources-texts-references/QL-Essay-Rewrite|QL rewrite]], PartIII §3.1, **sources** this developmental operation. The [[working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/the-immutable-subject-and-the-matheme-of-its-recognition|immutable-subject study]], “The context-frame architecture,” **extends** it into the formal nesting behind the term. A local relation can articulate its own ground, distinctions, means and return, becoming a participant within another relation. The same sixfold can therefore recur at a different grain. This is not permission to impose one set of six semantic headings on every frame. The local operation determines what the positions do.
 
-**Source/tradition standing:** Taylor Context Frame/MEF/Agentworld work is primary; linguistic and systems uses of context remain comparative.
+[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems]] **grounds** the controlling native field: parent and inverse return bracket six determinations, while each parent can hold the complete body in its own orientation. A nested frame is not an additional primary determination.
 
-**Carrier disposition:** CREATE as canonical C08; prior Context Frame materials remain framework/source carriers.
+## #2
 
-## Unresolved Delta
+A working frame makes its inclusions consequential. Sources supply material and standing; rules constrain permissible transformations; tools make particular operations available; permissions establish authority to act; histories retain how the current state arose. Selecting them does not confer finality on the selection.
 
-Restore exact Context Frame formalism and its relation to QL/MEF implementation without turning the concept into a universal container schema.
+[A26 — Objective Internality](../arguments/A26-Objective-Internality-Mind-as-Worldhood.md) **grounds** this technical consequence in its notational, nomological and exclusion-constituted field. The frame must distinguish a source from a world-object, a lens from an evaluator, and an authority from an instruction. Reducing all six to “context” would hide the very relations the frame exists to expose.
 
-**Depth Restoration: pending**
+## #3
+
+A frame can contain a **local original/reference office**. A selected source-field can serve as the basis against which downstream projections are compared. Yet that source-field is itself a constructed determination relative to the wider world. It can occupy Bimba's office locally while remaining Pratibimba in the encompassing relation.
+
+[A22 — World-Picture to World-Atlas](../arguments/A22-World-Picture-to-World-Atlas.md) **grounds** this recursive locality. A map never becomes the ultimate Original merely because another map derives from it. Two frames can differ over source, object, lens, gauge, reference or permission; an atlas has to preserve which relation changed rather than flatten their disagreement into two opinions about one finished object.
+
+[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE|Taylor — Symbolon Dynamics]] **grounds** the temporal relation: the present configuration and its actual history condition one another. A returned projection can change the reference field for the next inquiry.
+
+## #4
+
+A commission gives this locality a practical test. Human intention can ground an agent's task, but the written prompt is already a determination of that intention. Literal compliance with the first wording can fail the purpose when the task encounters an unforeseen constraint. The ratified R16.3 correction therefore makes human0/agent1 positional and recursive, while keeping the prompt itself on the side of determinate representation.
+
+[A28 — Authored Ground](../arguments/A28-Authored-Ground-Positional-Delegation.md) **extends** the relation into delegation. The frame preserves who authorised what, which means are available, and where a discovered contradiction must return. [C44 — Prompt Thrownness](C44-Prompt-Thrownness.md) **defines** the arriving agent's inheritance: it begins within conditions it did not wholly author.
+
+## #5→0
+
+[C09 — Diaphaneity](C09-Diaphaneity.md) **tests** whether those conditions become readable through their effects. Contextualisation succeeds when the account can show how its means, exclusions and position shaped what it says, and when returned resistance can change those terms.
+
+[[submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Arbitration / Hybris / Regard / Anamnesis]] **grounds** the generated relation **Con-text-through-Diaphaneity → Regard**, at evidence register3. Con-text-through-Diaphaneity is the generated relation; Regard is the operation becoming available there. The two offices must not be compressed into a synonym.
+
+[A30 — Objective Co-Internality](../arguments/A30-Objective-Co-Internality.md) **extends** the return between frames: another participant externalises enough of its ground to meet this one while retaining its own source-relations. C08 **returns-to** [C07](C07-Conditions-of-Worldhood.md). A bounded frame remains useful because it can be revised within a world, not because it has become that world.
+
+**Depth Restoration:** processual self-holding, formal nesting, differentiated constitutive objects, recursive Bimba/Pratibimba locality, intention/prompt separation and return between frames are restored. No universal context schema or implementation is asserted.
+
+**Unresolved Delta:** the QL rewrite and immutable-subject study are direct developmental carriers, not a ratified software specification. Their detailed modal enumerations and implementation correspondence require a separately scoped technical backcheck. The recovered nesting operation remains Argued; lexical histories and external theories of context keep their own evidence tasks.

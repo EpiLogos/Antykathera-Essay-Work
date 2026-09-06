@@ -1,22 +1,46 @@
 # A10 — Advent of Zero
 
-**Standing:** canonical semantic Argument; historical Argument 08 and the live zero-history carrier remain provenance.
+**Standing:** canonical semantic Argument; historical Argument 08 remains provenance. Historical synthesis is Argued; mathematical operations retain their stated systems; QL's later office is native authorial derivation.
 
-## Argument
+## #0
 
-A10 concerns a precise historical event: zero becomes an operative mathematical sign. It is not yet the final symbolic return of A36. The distinction matters because zero acquires its later philosophical force only by first becoming exact enough to work inside mathematics without depending upon the symbolic meanings from which absence, void or nothingness may historically have been imagined.
+Zero becomes an operative mathematical sign through changes in what an inscription permits. An absent place matters because neighbouring marks acquire their value from position. A positional blank can preserve that absence through context; an internal separator makes it visible without yet functioning as a terminal digit or an arithmetic operand. The first achieved distinction is a place for which no quantity has been entered.
 
-The developmental carrier follows changing offices of zero: placeholder and absence-marker, numeral and arithmetic element, boundary and empty-set neighbour, and the difficult cases in which operations involving zero expose the rules of the containing formal system. The Indian mathematical history is especially important because *śūnya* becomes calculable rather than merely contemplative. Zero enters an account and changes what the account can do.
+[Kaplan's source-facing learning surface](../sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md#reading), mapped to pp.4–13 and 14–27 of the selected 2000 printing, separates this scribal scene from the astronomical circle marking absent sexagesimal measure. The marks solve specific problems before zero acquires later permissions. Resemblance of shape does not establish transmission; dates, tablets and priority require their own historical evidence.
 
-This advent is a gain in determination. A blank position becomes markable; a missing quantity can participate in calculation; the number line acquires an origin through which positive and negative directions can be oriented. Nothing in A10 requires zero to be the Subject, God, the unconscious, or the QL meta-sign. Those are later and cross-register determinations. The historical sign must first be allowed its mathematical integrity.
+## #1
 
-Yet the integrity of the sign generates a pressure of its own. Zero is peculiar because a determinate sign can mark absence within the same system that counts presences. Operations at zero can disclose where ordinary algebraic expectations fail or where a formal container must change. Thus mathematics itself supplies a disciplined neighbour for the essay's formal-limit problem: not because division by zero proves metaphysics, but because a sign internal to a system can reveal the system's operative frame.
+With arithmetic, zero meets other quantities under explicit rules. The distinction is operational: addition by zero leaves a quantity unchanged, whereas multiplication by zero yields zero. [Colebrooke's selected translation](../sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#passages), Brahmagupta XVIII.31/34, p.339, supplies the primary passage for these offices. A sign that once held a place now participates in a calculation.
 
-## Pressure and distinctness
+Kaplan pp.36–75 locates the Indian vocabulary and practices through which the history must be recovered: positional place, words for empty space, inscription and arithmetic. These scenes are not one invention attributed to a single person. The hollow circle, dust-board and dot are material leads; Bakhshali dating inherited from a 2000 history remains unfit to establish current priority. The achieved claim is exact enough without that priority: zero acquires arithmetic citizenship through rules.
 
-A03 makes the formal limit available; A10 shows a historical mathematical sign arriving whose operation can make a limit visible from within a formal order. A10 is distinct from A11, where zero receives the authorial QL office `0 = One`, and absolutely distinct from A36, where the same exact sign returns as Symbol without ceasing to be mathematical sign. The historical zero remains historical and mathematical Episteme; it is deliberately not promoted into an ordinary Concept.
+## #2
 
-## Relations and Return
+The permissions separate again at division. Bhāskara's retained cipher denominator in Colebrooke I.14, p.137, is a written object under a stated regime. His I.16, p.138, places a theological invariance image alongside the rule. The historical presence of that image is supported by the selected translation; neither image nor rule proves the other's metaphysical or algebraic validity.
+
+Ordinary field laws forbid cancelling a common zero: `6·0 = 17·0` does not license `6 = 17`. More generally, assigning zero an ordinary multiplicative inverse collapses the field's distinctions. [Dutta](../sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md) reopens the historical question by distinguishing retained zero-denominator expressions, restricted cancellation or cross-multiplication, and postponed evaluation. This is a change in permitted operations. Kaplan p.73's cancellation lesson survives; the cultural inference on p.74 is not thereby established.
+
+## #3
+
+Four generative procedures make the later zero/one relation active, each under its own law. In the mediant construction, the formal boundary markers `0/1` and `1/0` admit `1/1` between them, then `1/2` and `2/1`; between `a/b` and `c/d`, insertion uses `(a+c)/(b+d)`. The endpoints remain while positive ratios proliferate. Here `1/0` is a boundary marker, not an ordinary quotient.
+
+The empty product has value one because one is multiplication's identity. The ordinal construction instead represents `0 = ∅` and uses `S(n) = n ∪ {n}`: `1 = {0}`, `2 = {0,1}`. One contains zero by membership in this representation; it is not identical to zero. Neither construction licenses identifying the empty set with awareness.
+
+NOR has a different generative task. With `p ↓ q = ¬(p ∨ q)`, repetition produces negation as `p ↓ p`, disjunction as `(p ↓ q) ↓ (p ↓ q)`, and conjunction as `(p ↓ p) ↓ (q ↓ q)`. This is the route mapped to Kaplan pp.212–215. NAND is another complete connective and must not silently replace it. The mathematics makes comparison possible by keeping the operations distinct; it does not establish a single proof that nothing makes everything or derive the native QL slash.
+
+## #4
+
+Exact notation can travel through algorithms, teaching, tables, trade and accounting without requiring its users to share a metaphysical interpretation of emptiness. Kaplan pp.90–115 supplies the historical route to investigate through Arabic and European reception. An algorithm's usefulness and its institutional acceptance are different achievements: unfamiliar figures, competing counting practices and alteration risks bear on reception. Exact bans and routes remain specialist-verification debts.
+
+This transmissibility is the force of the first advent. Zero becomes sufficiently determined to work through institutions and calculations whose users need no agreement about God, Subject or void. It changes an account's possibilities while its own conceptual depth can recede into routine use. Taylor's [Advent-Zero manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md>) treats that gain in exactness as indispensable to the later return.
+
+## #5→0
+
+At an exceptional operation, the successful sign makes its containing rules visible. Zero's historical integrity thus gives A03's formal-limit problem a disciplined mathematical neighbour: specify the expression, the allowed operation, and the law that would fail or change. The limit has a determinate form rather than an unspecified mystery.
+
+A11 receives the authorial `0 = One` office through its own derivation; A15 follows dimensional reframing; A36 receives the second advent in which the exact sign returns as Symbol. A10 earns that later movement by preserving the first advent's mathematical achievements. The same sign can return with its exactness intact because its historical abstraction has already made that exactness possible.
+
+### Declared field
 
 **Concept dependencies:** C03 Determination, C04 Formal Limit, C49 Two Ones, C52 Dimensional Reframing at Zero and Infinity. There is no standalone canonical “Zero” Concept.
 
@@ -28,12 +52,8 @@ A03 makes the formal limit available; A10 shows a historical mathematical sign a
 
 **Matheme:** mathematical zero precedes QL meta-sign use; **Mytheme:** void/absence images remain supportive only; **Episteme:** Kaplan, Colebrooke, Dutta and the histories named in `20-advent-zero-subject-integral-logic.md`.
 
-## Provenance
+### Provenance and remaining depth
 
-Historical Argument 08; Q27 zero thread; direct live carrier `submission-package/essay/section-rooms/arguments/20-advent-zero-subject-integral-logic.md`; Taylor `advent-zero-subject` source plus Kaplan/Indian mathematical histories named there.
+The [Taylor source house](../sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md) identifies the internal historical synthesis; its external claims remain controlled by the relevant source houses. Direct developmental recovery includes Q27's double-advent contribution and the [historical zero carrier](../../../section-rooms/arguments/20-advent-zero-subject-integral-logic.md). Kaplan is citation-ready but no Kaplan wording is quotation-ready. Colebrooke's three selected primary passages are ready within the 1817 English translation; critical Sanskrit collation remains distinct. Dutta is citation-ready with no excerpt card. The set-theoretic successor formula and precise historical naming of mediant/NOR constructions retain their independent formal-source debts.
 
-## Unresolved Delta
-
-Restore detailed chronology, primary-source passage verification and distinctions among placeholder, numeral, number and formal zero. Do not back-project A36's Symbolon return into the first advent.
-
-**Depth Restoration: pending**
+P1 consumers: M06, M13–17 and M28. Detailed chronology, contested transmission and priority, legal reception claims, selected Kaplan quotation and primary logic attribution remain Open. **Depth Restoration: enriched; historical and quotation debts retained.**
