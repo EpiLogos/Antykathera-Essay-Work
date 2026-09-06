@@ -1,7 +1,8 @@
 ---
 title: "#39 Lexical Constellation and Relational Operators"
-status: architecture-determined
+status: authorially-aligned-with-100-ground-census
 issue: 39
+ratified_alignment: 2026-09-06
 ---
 
 # Lexical Constellation and Relational Operators
@@ -57,7 +58,7 @@ Architectural rule: never gloss `/` once globally and then infer every local use
 
 `0/1` carries unobjectifiable ground / determinate mark through the slash. `1/0` is the obverse movement by which achieved determination turns toward the condition it cannot possess. They are orientations of one relation, not two independent substances.
 
-Consumers: CT-01, CT-02, CT-04, CT-05.
+Principal Argument consumers include A01–A03, A10–A13, A18, A23, A26 and A36. C11 Quaternal Logic, C49 Two Ones and C61 Symbolon Disclosure Architecture provide reusable routing without replacing the actual Argument/source carriers.
 
 ### `dia` — determination through distinction
 
@@ -71,7 +72,7 @@ Failure charge: severance — the cut forgets the relation/field that made it po
 
 Failure charge: fusion / counterfeit gathering — the whole is declared by erasing differences or the source of relation.
 
-`dia` and `syn` are conjugate operations. Neither is a moral good or bad term by itself.
+`dia` and `syn` are conjugate operations. Neither is a moral good or bad term by itself. A13 is the principal Argument; C50 is the reusable Concept.
 
 ### `name ↔ count ↔ account`
 
@@ -88,7 +89,7 @@ encounter / with
 → return
 ```
 
-A name and an account are neighbouring expressions of determination: one differentiates enough to call; the other articulates enough to answer. Count mediates measure and recurrence. This relation supports CT-03 and CT-06 but does not reduce language to arithmetic.
+A name and an account are neighbouring expressions of determination: one differentiates enough to call; the other articulates enough to answer. Count mediates measure and recurrence. This relation supports A02 Copula, A06 Vāk, A15 Ratio/Rationality, A22 World-Picture→Atlas and A26 Objective Internality without reducing language to arithmetic.
 
 ### `criterion → delineation → arbitration → con-text → resolution`
 
@@ -104,7 +105,7 @@ Con-text-through-Diaphaneity
 Resolution-in-Reconciliation
 ```
 
-Hybris, Regard and Anamnesis are semantic flowerings of generated relations, not replacements for positions.
+Hybris, Regard and Anamnesis are semantic flowerings of generated relations, not replacements for positions and not automatically standalone Concepts. A24 **Arbitration and the Usurpation of Measure** is the principal Argument consuming this whole field.
 
 ### `Fides → ... → Credere → Fides`
 
@@ -113,6 +114,8 @@ Fides → Topos → Logos → Nomos → Natio → Credere → Fides
 ```
 
 Trust is prior relational standing. Topos emplaces; Logos articulates; Nomos distributes/institutes standing; Natio gathers/narrates belonging; Credere entrusts toward a future return. The cycle is a project composition over separately warranted word-fields.
+
+Principal Argument consumers are A23–A25, A29 and A35. C48 Trust/Faith under Formal Limit keeps the reusable distinction while the lexical field retains its own history.
 
 ### `source → mediation → return`
 
@@ -128,7 +131,7 @@ source / divine relation
 → return / renewed arbitration
 ```
 
-The mediating office may be priest, king, politician or another historically situated carrier. The theorem concerns answerability of office to source, not a timeless equivalence among those offices.
+The mediating office may be priest, king, politician or another historically situated carrier. The Argument concerns answerability of office to source, not a timeless equivalence among those offices. A25 is the principal Argument; C28/C29 keep primary-arbitration and derivative-sovereignty distinctions reusable.
 
 ## Comparison operators
 
@@ -149,7 +152,7 @@ These operators are the connective tissue of the rebuilt wiki. They are not deco
 
 ## Anti-collapse rules
 
-- A root does not dictate a theorem.
+- A root does not dictate an Argument.
 - A rhyme is not a root.
 - A mathematical likeness is not an ontological identity.
 - A Mytheme performs; it does not prove.
@@ -157,5 +160,6 @@ These operators are the connective tissue of the rebuilt wiki. They are not deco
 - A local Bimba office does not become the metaphysical Original.
 - A compressed agent sentence does not become a theorem or aphorism because it sounds memorable.
 - `world`, `agent`, `internality`, `commons` and similar live Concept terms receive etymological treatment only when the actual lexical field earns it.
+- No relation should route through the retired `CT-*` summaries when an actual A/C/source carrier exists.
 
 The purpose of the constellation is to increase relational precision: every link should say what kind of joining is occurring and what difference survives it.
