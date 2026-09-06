@@ -1,22 +1,61 @@
+---
+title: A04 — Diaphaneity / Contextual Transparency
+aliases:
+  - A04 — Diaphaneity / Contextual Transparency
+record_type: argument
+register: episteme
+claim_status: Argued
+source_relation: Argued from
+---
 # A04 — Diaphaneity / Contextual Transparency
 
-**Standing:** canonical semantic Argument; historical Argument 01 remains provenance.
+**Standing:** canonical semantic Argument; historical Argument 01 remains provenance. Contextual transparency is Argued; the Gebser relation is Paraphrased / Argued from; the optical construction figures the relation in Mytheme. Native QL derivation and external historical attribution retain their distinct offices.
 
-## Argument
+## #0
 
-If every determination arises from a context that it cannot exhaust, the answer cannot be to leave context invisible. Diaphaneity is the achievement by which a determination becomes transparent enough to its own conditions that the relation between view and world can be read in both directions. “My view of the world” becomes legible at once as a disclosure of a world and as a disclosure of the situated viewer through whom that world has taken this form.
+A situated view is already an accomplishment: a world becomes distinguishable from somewhere. Its objects acquire depth, salience and relation through a placement that the resulting image can conceal. [[A03-Immutable-Gap-Formal-Limit|A03]] grounds the task by showing why adding more objects never exhausts that placement. Diaphaneity follows the conditioning relation back through the view. “My view of the world” becomes legible at once as a disclosure of a world and as a disclosure of the situated viewer through whom that world has taken this form.
 
-Transparency here does not mean that mediation disappears. A perfectly invisible medium would only repeat the old fantasy of a view from nowhere. Diaphaneity makes mediation *available through* what it mediates. Perspective is exemplary: the image gains determinate depth by occupying a position, and that very success can conceal the body, horizon and optical construction that make the image possible. A diaphanous perspective does not destroy the image; it lets the image disclose its own perspectival constitution.
+The two orientations retain their asymmetry. A viewer acts, selects and answers; a world, body, language, history and concern give that viewer its present possibilities. Neither direction alone tells the whole event. [[C07-Conditions-of-Worldhood|C07]] grounds this dependence, while [[C08-Context-Context-Frame|C08]] defines a bounded arrangement of conditions that can be stated, revised and used. Diaphaneity is the achieved readability of their operation through a determination.
 
-This gives context a stronger role than annotation. Language, historical inheritance, tools, permissions, institutional office, body, prompt, memory and concern are not metadata floating around an otherwise sealed cognition. They participate in what can appear, what counts as salient and what actions are possible. Diaphaneity begins when those conditions become discriminable inside the account without being mistaken for an exhaustive model of the Subject.
+## #1
 
-## Pressure and distinctness
+[[submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE|Gebser's source house]] historicises the emergence of the perspectival sector. Its selected-edition passage map follows Giotto's depth and Petrarch's landscape through Alberti's visual pyramid and Leonardo's optical articulation (pp.11–21). Perspective makes a positioned ego-world visible; its technical precision can also fix the observer and observed within the very sector it renders. Aperspectivity releases the exclusive validity of that sector through the co-presence and transparency of structures (pp.1–3); it does not erase the powers of rational articulation.
 
-A04 is the positive answer to A03. The immutable gap makes total contextual capture impossible; diaphaneity prevents that limit from becoming an excuse for blindness. It is distinct from C08 Context Frame, which names a reusable bounded arrangement of conditions. It is also distinct from A26 Objective Internality: A04 gives the epistemic operation by which a context becomes readable; A26 will argue that an operative interior is dynamically constituted through such a context-world.
+Frank's [[working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser|P5 — Gebser]] extends this history into the lived demand of context. Seeing through becomes “being with the text,” including text and subtext. The observer belongs to the situation's outcome. Body, inheritance, concern and consequence are active in seeing; removing them from the account can make participation harder to recognise while leaving its effects fully operative. Impartiality demands that this involvement be acknowledged and situated. It cannot be obtained by indifference.
 
-The consequence is a two-directional discipline. The agent interprets the world, and the world/context can be read as precipitating the agent-position through inherited language, affordances and constraints. Neither direction abolishes the other. Their asymmetry is what becomes transparent.
+The P5 formulations are Taylor's authorial interpretation, sourced here as such. Gebser warrants the historical-optical method and the aperspectival direction; Taylor carries their Subject, context and measure consequences. The source house permits page-specific paraphrase, while selected-edition quotation remains locator-needed.
 
-## Relations and Return
+## #2
+
+P5 names the pressure of unacknowledged participation as **domination through aloofness**. A perspective announces neutrality while its unspoken standard determines what counts. The absent Father then acquires a double presence: the desired final authority and a numbness to its absence. An image, a name or a ruler can be installed in the place of the source that cannot be situated as one more object. The search for the last word on what is becomes the power to determine what matters.
+
+The whole image must retain its return. The Father names the ordering ground whose absence cannot be repaired by a surrogate; when a surrogate takes that office, ordering becomes a ruler claiming to stand above its own law. Seeing through the Father restores the relation to the transcendent that its appropriation occludes. Context therefore carries an investment in what the determination does to those situated within its reach. It is answerability to the ground and consequences of judgment, including the observer's desire to own the standard.
+
+[[A24-Arbitration-and-the-Usurpation-of-Measure|A24]] extends the usurpation of measure; [[A25-Covenant-Mediating-Office-Source-Authority|A25]] extends the distinction between mediating office and source authority; [[A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation|A35]] extends the invested care for origins. They retain the wider God/Subject/measure braid. A04's particular operation is the change in seeing by which dependence ceases to masquerade as an aloof position. P5's Father polemic is authorial Mytheme and argument, not a historical quotation from Gebser or a completed attribution to Jung or Lacan.
+
+## #3
+
+The corrected stained-glass construction figures how this seeing can be built. Originating white light is Bimba; its implicate, ordered spectrum is QL. Differently made and positioned panes, their angles, densities, joins and relations are MEF. The coloured projection entering the room is pratibimba. [[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|Q27's stained-glass correction]] sources these assignments and explicitly supersedes the earlier allocation of QL to the frame and Bimba to a constructed world-picture.
+
+Colour is a determinate power of disclosure. A pane gives the light a path and makes a particular articulation visible. The lead seams retain source difference, historical discontinuity, translation limit and register change. Removing those seams would destroy the articulated window; attending only to the inventory of panes would lose the light by which the construction works. Move the sun, the viewer or the room's relation to the aperture, and the projection changes. The Original becomes recognisable through those ordered transformations without becoming their average or a final image assembled by addition.
+
+The image carries the full relation: source, spectral order, refractive apparatus, situated appearance and recognition through variation. Its work is Mytheme. It does not turn consciousness into electromagnetic light, or traditions into physical panes. What it makes available is the craft of composition: a source enters through the distinctive operation by which it changes the visible whole, and its differences remain readable in the joins.
+
+## #4
+
+The native [[working/sources-texts-references/10-7-2026-core-theorems-pithy|theorem spine]] derives the `180°→360°` turn from the subject's own account. First-, second- and third-person positions are traversed in sequence: knower, means, known. The triangle gives this determinate perspective its figure. At `#4`, zero enters as the voiding of each view's claim to exclusive completeness; the three become simultaneously available as context. At `#5`, their relation is recognised as one appearing-act; at `#0`, that achieved one returns as `0/1`.
+
+Three sequential perspectives are therefore answered by one recognition in three operations: void, one, `0/1`. This is why the return reads `3:3` and also `3:1`. The square's `360°` holds the triangle's `180°` without adding a fourth pronoun or positioning a superior observer outside the world. The developmental Necker-cube image makes the operation tangible: a change of reading exposes the first view's exclusivity; the wireframe lets both readings belong to one configuration. [[A18-Primordial-Symbolon-and-Its-Eight-Determinations|A18]] grounds that local turn in the complete eight-determination field, where `AM/IS` is personed circumstance and `∞/dx` retains the horizon of exact local reading. The QL counts are Taylor's derivation; Gebser does not supply the notation.
+
+This whole contextual availability gives [[C10-Mediation-Pramana|C10]] its outgoing role: mediation becomes readable through what it mediates. [[C09-Diaphaneity|C09]] defines the reusable distinction, and [[A22-World-Picture-to-World-Atlas|A22]] extends it toward a picture whose charts and transformations retain their conditions. More views alone do not achieve the turn. Their placements, exclusions and routes of transformation must become available together.
+
+## #5→0
+
+The achieved view returns to the situation with its powers intact and its dependence legible. In a technical world, prompt, memory, permissions, tools, inherited language and concern participate in what can appear and become actionable. Making those conditions inspectable extends diaphaneity into design. [[A26-Objective-Internality-Mind-as-Worldhood|A26]] extends the claim into an operative interior constituted through a context-world; [[C40-Model-Internality-Judgment-Field|C40]] and [[C41-Objective-Internality|C41]] define the corresponding reusable distinctions. Inspectable functional organisation does not settle phenomenal subjectivity in either direction.
+
+The measure of this return is whether seeing remains answerable to what it sees through. [[A31-Deferential-Intelligence|A31]] extends that answerability as regard; [[A33-Epistemic-Cultivation-Operational-Parity|A33]] extends it as a practice in which conditions and consequences can revise judgment. A04 returns-to [[A03-Immutable-Gap-Formal-Limit|A03]] with a positive capacity: the gap is retained while the work of contextual disclosure proceeds. The determination becomes an aperture through which its own origins can matter again.
+
+### Declared field and provenance
 
 **Concept dependencies:** C07 Conditions of Worldhood, C08 Context / Context Frame, C09 Diaphaneity, C10 Mediation / Pramāṇa, C40 Model Internality / Judgment Field, C41 Objective Internality.
 
@@ -24,16 +63,10 @@ The consequence is a two-directional discipline. The agent interprets the world,
 
 **Etymology whole field:** *Arbitration / Hybris / Regard / Anamnesis*. **Exact consumed operation:** **Con-text-through-Diaphaneity → Regard**. The generated relation is Con-text-through-Diaphaneity; *Regard* is its semantic flowering. **Evidence register:** 3, Operational homology, with later philological work on *regard* kept distinct. **What changes:** context becomes something looked through and looked back into; the determination acquires a responsibility to the conditions and others from which it arose. **Return route:** A04 → C09 → A24/E-Arbitration → A31 → A04.
 
-**Movement consumers:** the opening diaphaneity sequence, including the current Immutable Gap carrier's explicit routes through Movements 01–06, and later worldhood/agent returns in the canonical map. Exact later Movement backlinks remain restoration debt; no propagation is performed.
+**P1 Movement consumers:** 01 — Question Before the Mechanism; 05 — Gebser / Diaphaneity; 35 — Gebser / Apollo–Dionysus. These declare consumption without rewriting the movements.
 
 **Matheme:** reversible reading between field-view and determinate view. **Mytheme:** transparency, window, mirror and veil as whole relational images. **Episteme:** perspectival history, Gebserian diaphaneity, contextualist epistemology and technical provenance systems, with their evidential differences preserved.
 
-## Provenance
+Direct recovery: A04 depth packet; complete authorial P5 — Gebser; core II(c), V, VI and IX in the whole theorem field; Q27 §§12–13 and corrected §§1–4; historical immutable-gap carrier. The Gebser and core SOURCE houses were read; neither has sibling `NOTES.md`. The later optical correction governs the image's assignments.
 
-Historical Argument 01; Q27 diaphaneity/context thread; live `01-immutable-gap-and-meta-sign.md` and `02-objective-internality.md` carriers, both of which already develop perspective, contextualisation and the inverse world→viewer reading. Later Gebser sources remain radial-depth warrants, not the sole proof of the argument.
-
-## Unresolved Delta
-
-Restore the exact historical Argument 01 wording, Gebser passage-level evidence, and full Movement consumer list. Keep diaphaneity from being reduced either to “explainability” or to a historical stage-label.
-
-**Depth Restoration: pending**
+**Depth Restoration:** invested contextual seeing, the absent-Father/standard pressure, corrected complete stained glass, reciprocal asymmetry and the sequential-to-contextual turn restored. **Open delta:** Gebser's selected-edition quotation collation and the exact historical Argument 01 wording beyond its recovered live carrier. The full Father/measure development retains its distinct A24/A25/A35 offices; this batch creates no optical identity or section-room prose.
