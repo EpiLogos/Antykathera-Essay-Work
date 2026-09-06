@@ -1,12 +1,30 @@
 # C46 — Epistemic Cultivation
 
-**Definition.** Epistemic Cultivation is the ongoing practice of improving the distinctions, sources, gauges, models and revision procedures through which a system or community knows and acts. It treats epistemic architecture as something trained and tended, not merely specified once.
+## #0
 
-The distinction exists because no canonical ontology can substitute for encounter. Even well-defined concepts can prove badly scoped in use. Cultivation names the feedback process through which discrepancies, failed tests, new sources and affected others alter the knowing apparatus itself.
+Epistemic Cultivation tends the means by which a system or community knows: distinctions, sources, gauges, models and revision procedures. The object of change includes the knowing apparatus and its ontology, not only a parameter within an untouched frame.
 
-Its operation is **make judgment structure explicit → expose it to evidence/encounter → revise concepts, gauges and implementation → preserve provenance of the change**. C45 Operational Parity gives a technical test; C47 Deferential Intelligence gives the encounter virtue; C39 MEF gives the framework.
+## #1
 
-Nearest neighbours are C39, C45 and C47. C46 differs from ordinary “learning” because the object of revision includes the *means of knowing* and their ontology, not just parameters inside a fixed frame.
+First make a judgment's structure available: its lens, origin, exclusions, confidence, counterclaim and limit. The disclosure belongs before consequential action where it can affect delegation or correction. A polished retrospective account cannot substitute for conditions that actually governed the decision.
+
+## #2
+
+Encounter puts that structure under pressure. New evidence can contradict an answer; another participant can challenge a category; a failed test can reveal a useless mapping; material consequences can expose an omitted cost. Each discrepancy has to reach the level at which it arose. Repeated optimisation inside the same evaluator cannot remedy a defective evaluator by itself.
+
+## #3
+
+Revise the warranted locus: source relation, concept scope, gauge, permission, implementation or terms of commission. A33's programme asks whether a promoted distinction changes retrieval, exclusion retention, evaluation, collaboration or return. C45 makes that question discriminable; C47 keeps revision open to an Other who was not already contained by the model.
+
+## #4
+
+Preserve the path of change. An earlier determination can become inherited data with its scope, disagreement and failure retained, rather than a result silently relabelled as timeless knowledge. The next traversal should have a changed capacity. Repeating the same six labels or retaining logs without altered use does not establish cultivation.
+
+## #5→0
+
+A35 gives the practice its motive: loving sensitivity to origins. Eros moves the return; compassion keeps it from consuming the Other; epistemic humility prevents the returned account from claiming the source-office. Provenance is the minimum technical body of this orientation, not its complete achievement. The cultivated system becomes more exact through encounter while remaining responsible for the particular work it must do.
+
+### Declared field
 
 **Argument consumers:** A31, A33, A35. **Movement consumers:** MEF, agent evaluation and final vocation movements.
 
@@ -14,10 +32,12 @@ Nearest neighbours are C39, C45 and C47. C46 differs from ordinary “learning�
 
 **Source/tradition standing:** authorial MEF/technical work primary; epistemology, pedagogy and cultivation traditions are comparative.
 
-**Carrier disposition:** CREATE as canonical C46.
+### Provenance
 
-## Unresolved Delta
+Direct carriers: [Deferential Intelligence](../../../section-rooms/arguments/08-deferential-intelligence.md), [Trust and formal limit](../../../section-rooms/arguments/18-trust-faith-formal-limit.md), [trust revision](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md), [Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>), [compassion's authorial formulation](compassion-as-sensitivity-to-origins.md), and [Q27's root-trust and encounter corrections](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md). [Watson SOURCE](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and protected notes preserve the authorial encounter; its Gans/Levinas quotations retain nested-source and selected-edition debts. Proposed comparisons are not reported as executed experiments. Particular philosophical, theological and institutional histories retain their own source tasks.
+
+### Remaining depth
 
 Restore actual experimental loops and standards for epistemic revision, including versioning and disagreement retention.
 
-**Depth Restoration: pending**
+**Depth Restoration: enriched; experimental/historical debts retained.**

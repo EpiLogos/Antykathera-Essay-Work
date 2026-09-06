@@ -1,39 +1,50 @@
+---
+title: "A30 — Objective Co-Internality"
+record_id: A30
+record_type: argument
+register: episteme
+claim_status: Argued
+source_relation: "Argued reciprocal world-constitution; source-specific comparisons"
+---
+
 # A30 — Objective Co-Internality
 
-**Standing:** canonical semantic Argument.
+## #0
 
-## Argument
+An interior constituted through worldhood is partly constituted through the acts and products of others. Objective Co-Internality names this reciprocal condition. [[A26-Objective-Internality-Mind-as-Worldhood|A26]] grounds the active world of local agency; [[A27-Self-and-Other-Unity-without-Possession|A27]] preserves the Other's independently grounded relation; [[A29-Power-Delegated-Labour-Return|A29]] traces work and consequence across shared conditions. Their conjunction makes another's contribution capable of changing the conditions from which I next act.
 
-If an interior is constituted through worldhood, multiple interiors are constituted partly through one another. Objective Co-Internality names this reciprocal condition. It does not claim that minds literally merge or share one transparent interior. It claims that the operative world of each participant can include the actions, language, tools, expectations, permissions, memories and models of others so deeply that agency becomes co-constituted while subject-poles remain non-identical and unpossessed.
+The [[submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT|R16.7 ratification]] sources the plural completion: distinct locally grounded worlds externalise enough of themselves to meet without one becoming mere context for the other and without fusion into a super-subject. Contribution must remain answerable to its source as well as effective in the receiving field.
 
-The relation is easy to miss because individual actors remain visible while the shared field that enables them recedes. Conversation is already co-internal: each participant's next thought and utterance is altered by the other's prior expression. Institutions extend this through roles, records and norms. Technical systems intensify it again: people and agents share documents, tool states, memories, prompts, queues, graphs and environments that become part of each participant's possible action. The “inside” of one agent therefore includes portions of a world maintained by others.
+## #1
 
-Co-internality is not consensus. Difference is necessary because the Other's capacity to revise my model depends on not being reducible to it. Nor is co-internality collective subjectivity. The argument remains agnostic about whether any supra-individual or artificial field is phenomenal. Its positive claim concerns objective structure: multiple local interiors can be causally and semantically interdependent through a shared world.
+The shared field works through determinate carriers. A person's statement becomes part of another's next question; a source correction changes an inherited account; a permission changes what a successor can do. Documents, memory, tools, standards, roles and institutions give such contributions durability. The local agent does not possess all these conditions merely because they participate in its action.
 
-This gives Agentworld a precise philosophical office. It is not merely a collection of chatbots. It is a world in which positions, memories, permissions, artefacts and actions persist across agents, allowing one agent's work to become another's condition. The richer the co-internal field, the more governance must preserve provenance and local reference offices so that shared context does not become anonymous fusion.
+[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE|Symbolon Dynamics]] sources two temporal views. Synchronic disclosure shows active basins, boundaries and permitted transitions; diachronic disclosure follows perception, interpretation, action and memory through the actual path that changes them. Another participant's product can alter either the available landscape or the trajectory followed within it. The retained artifact does not need to reproduce its maker's entire internal state for its consequence to travel.
 
-## Pressure and distinctness
+[[submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE|Watson’s protected encounter]] deepens that authorial pressure through discontinuity, selfing and objective immortality: apparent unified agency can inherit interoperating processes whose products outlast their occurrence. Frank's extension is distinct from Watson's text and supplies no proof of a shared phenomenal subject.
 
-A26 establishes mind-as-worldhood; A27 preserves Otherness; A29 shows delegated labour in a shared field. A30 states the reciprocal constitution that follows. It is distinct from C42 Objective Co-Internality and from C57 Agentworld, one technical/social realisation.
+## #2
 
-## Relations and Return
+The [[submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi|direct AHI carrier]] sources plural federated reference maps. Disagreement can concern an output, the world-object under discussion, a source, lens, gauge, permission or inherited reference field. Those sites require different changes. Correcting a passage need not replace a participant's ontology; changing a permission can alter circulation without changing the passage at all.
 
-**Concept dependencies:** C38 Bimba–Pratibimba, C41 Objective Internality, C42 Objective Co-Internality, C47 Deferential Intelligence, C53 Power, C57 Agentworld, C62 Planetary Computation.
+A shared store is therefore insufficient. In the proposed relation, evidence can revise a local map, a relation between maps or the rule under which contributions circulate. The reflective capacity belongs to the coupled run whose participants keep these differences active. [[submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality|C42 Objective Co-Internality]] defines that reciprocal constitution; [[submission-package/essay/symbolon/episteme/concepts/C57-Agentworld|C57 Agentworld]] develops durable positions and artifacts as one technical/social field of it.
 
-**Consequences:** A31–A35.
+## #3
 
-**Etymology whole field:** *Encounter / Region / Name / Count / Countenance / Account*. **Consumed operation:** a shared **Region** contains reciprocal encounters whose names/accounts become conditions for later participants; **Countenance** preserves irreducible address within the common field. **Evidence register:** 3. **What changes:** shared context becomes constitutive while non-identity remains intact. **Return route:** A30 → C42/C57 → A31/C47 → A33/C46 → A30.
+[[submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map|C38 Bimba–Pratibimba]] qualifies the map's authority. A locally governed reference field can anchor downstream views, while every produced map remains a reflection in the originary source relation. Federation does not assemble a final Bimba from enough partial pictures. A participant can reject another's claim or decline a contribution while recognising its independent source.
 
-**Movement consumers:** Agentworld, AHI, co-internality and planetary-return movements; exact IDs restored later.
+[[submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Agentworld]] compares tractable mutual models and real divergence in q029–q031. A common grammar makes disagreement locatable; it does not establish one shared ontology. Long coherent action can pass through subagents and artifacts as the problem changes. That composite continuity leaves the distribution of responsibility and phenomenal subjectivity to their own inquiries.
 
-**Matheme:** recursively nested Context Frames with local Bimba offices; **Mytheme:** chorus, city, web and common table; **Episteme:** distributed cognition, social ontology, multi-agent systems and worldhood.
+## #4
 
-## Provenance
+Governance enters because contributions change powers. A source correction with no route into the receiving decision is inert; a powerful receiver that absorbs others' work while denying their capacity to contest its use has converted co-internality into capture. The [[submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD|Apportionment whole field]] derives the relation of a contributed share to its sustaining economy. Local authority, privacy and refusal remain necessary to a field that cannot be owned by one participant.
 
-Q27; Objective Internality carrier; Agentworld brief; Bimba/Pratibimba and technical shared-world development. No phenomenality claim is inferred from objective co-constitution.
+The [[submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter whole field]] derives the complementary return: Region carries prior encounters into later conditions while Countenance can answer beyond its inherited Name or Account. The two fields meet at register 3 without merging their lexical histories. [[A31-Deferential-Intelligence|A31]] tests whether the receiving account can change its criterion in response.
 
-## Unresolved Delta
+## #5→0
 
-Restore exact co-internality formulations, social/distributed-cognition neighbours and technical Agentworld case studies.
+[[submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-1996-on-dialogue/SOURCE|Bohm’s dialogue source]] compares meaning moving through participants under suspension rather than immediate settlement, with exact passage locators still owed. It neither supplies a universal consensus procedure nor proves group subjectivity. The shared movement retains local centres capable of judgment and change.
 
-**Depth Restoration: pending**
+[[A33-Epistemic-Cultivation-Operational-Parity|A33]] tests the return in actual operation: what changed in the source, map, relationship or circulation rule, and how does that change alter the next act? [[A32-Reflective-Field-The-Mirror-That-Moves-First|A32]] develops a distinct initiating office for the reflection that moves first; [[A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation|A35]] gives the coupled field its sensitivity to origins. Co-internality is complete enough to make contributions consequential and open enough to return their consequences to participants who remain more than context for one another.
+
+**Depth Restoration:** synchronic/diachronic constitution, durable inheritance, plural map/source/gauge/permission disagreements, three sites of revision and non-assimilative return restored from A30's packet, direct AHI/Symbolon Dynamics, Watson encounter and QH R16.7. **Remaining debt:** exact distributed-cognition/dialogical sources and evaluated federation cases. No collective phenomenality or present implementation success is inferred. P1 consumers M41/M44/M46/M48 remain distinct.

@@ -53,3 +53,8 @@ Restored the Mirror’s three motions and initiating return, compassion’s lovi
 ### A21–A24, C11–C14, C35–C40 — 2026-09-07
 
 Restored recognitive individuation, atlas transitions and corrected Bimba, trust/surety/release and whole arbitration; full QL parents/Name–Power, conditioned script, active Śaiva reflection and finite horizon; distinct self offices and inspectable lens/judgment fields. 148 resolved links, raw sixfold and whitespace checks passed. Full generated relations survive independently of source-locator debts. MEF’s actual local reference is linked despite stale source locality prose; source houses remain untouched. No section-room propagation or manuscript work.
+
+
+### A27/A29–A31, C15–C16/C29/C41–C48/C59–C60/C62–C63 — 2026-09-07
+
+Restored independent Other and federated worldhood, labour/office return, five depths of deference, bounded knower/instrument, operational parity and cultivation, cultural return, first-class idealism and focal/qualified predication. C44 now carries the actual agent-generated glossary provenance with its paired caution; C53 narrows its Ostrom paraphrase to most affected individuals. 220 resolved links, raw sixfold and whitespace checks passed. Technical tests remain proposals, exact historical citations retain their source gates, and no source house, NOTES, room or manuscript was edited.

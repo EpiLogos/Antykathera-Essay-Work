@@ -34,7 +34,7 @@ Q27's Work/Play inversion figures an account which records public performance wh
 
 ## #4
 
-Ostrom's [[submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE#ostrom-2009-beyond-markets-states-nobel-lecture-q001|participation principle]] **tests** the institutional relation: affected participants have standing to make and modify rules. Its **Paraphrased** governance claim is distinct from the essay's delegated-labour derivation. The source's warning against rigid transplantation prevents treating this principle as a complete design for every field.
+Ostrom's [[submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE#ostrom-2009-beyond-markets-states-nobel-lecture-q001|participation principle]] **tests** the institutional relation: most individuals affected by a resource regime can participate in making and modifying its rules. Its **Paraphrased** governance claim is distinct from the essay's delegated-labour derivation. The source's warning against rigid transplantation prevents treating this principle as a complete design for every field.
 
 [C54 — Commons / Non-Monopoly](submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md) **extends** return beyond a single commission. A shared field sustains many offices, and no recipient of its labour acquires ownership of the whole by receiving a product. [C62 — Planetary Computation](submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md) **extends** the inquiry to material support, energy, data and infrastructure. Particular supply-chain claims remain evidence tasks.
 

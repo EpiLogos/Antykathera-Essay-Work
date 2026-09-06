@@ -1,23 +1,52 @@
+---
+title: C16 — Antaḥkaraṇa / Inner Instrument
+aliases: [Antaḥkaraṇa, Inner Instrument]
+record_id: C16
+record_type: concept
+register: episteme
+claim_status: Argued
+source_relation: Argued from
+source_ids: [isvarakrishna-colebrooke-wilson-1837-sankhya-karika, taylor-2026-core-theorems-pithy]
+argument_consumers: [A09, A19, A26, A27, A33]
+---
 # C16 — Antaḥkaraṇa / Inner Instrument
 
-**Definition.** *Antaḥkaraṇa* names the inner instrument: the differentiable functions through which a bounded subject determines, appropriates, coordinates and remembers a world. In the essay it is crucial precisely because instrument and Subject are not identical.
+## #0
 
-The distinction exists to make interior organisation investigable without collapsing subjectivity into functions. Buddhi, ahaṃkāra, manas and related cognitive operations can be discriminated, compared and modelled. Their inspectability is positive evidence about an operative interior; it is not evidence that the subject-pole has thereby been captured.
+Antaḥkaraṇa names the inner instrument through which a bounded knower determines, appropriates and coordinates a world. Its differentiation makes interior organisation available for investigation. A judgment, an ego-position and a train of alternatives can become objects of attention; their becoming available does not make the subject one more observed function.
 
-Its operation is **functional interior differentiation under a still-open subject relation**. This makes C16 a historical/metaphysical precursor to C40 Model Internality / Judgment Field and C41 Objective Internality. The technical relation is homological, not genealogical.
+[C15 — Paśu](C15-Pasu-Bounded-Subject-Position.md) **grounds** the bounded horizon in which the instrument acts. The direct developmental image is an instrument through which, rather than a definition of the musician who plays. It identifies the question of mediation without introducing a little operator hidden among the instrument's parts.
 
-Nearest neighbours are C15 Paśu, C17 Vikalpa–Saṃkalpa and C35 Selfing/Self/Subjectivity/Self-Thing. The latter prevents ahaṃkāra or self-model from being promoted into the Subject as such.
+## #1
 
-**Argument consumers:** A09, A19, A26, A27, A33. **Movement consumers:** inner-instrument, prompt/agent and open-subjectivity movements.
+[[submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE#isvarakrishna-colebrooke-wilson-1837-sankhya-karika-q001|Sāṅkhya Kārikā — functional triad]] **sources** a historically bounded distinction. In the selected Colebrooke/Wilson translation, kārikā XXIII concerns ascertainment as intellect, XXIV egotism, and XXVII mind's sensory and active office; XXIX distinguishes their functions. These are Sāṅkhya formulations, not a primary Trika classification or a universal cognitive architecture.
 
-**Etymology relation:** *Encounter / Region / Name / Count / Countenance / Account*; consumed operation: interior functions produce local **Accounts** of a Region while Countenance/encounter can revise them. Register **3**. Return: C16 → C40/A26 → C47/A31 → C16.
+The translation's use of “consciousness” for egotism at XXIV requires its local sense. It cannot be imported as an identity between ahaṃkāra and the essay's unobjectifiable Subject. The same source's [[submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE#isvarakrishna-colebrooke-wilson-1837-sankhya-karika-q002|kārikā XIX witness passage]] **qualifies** the apparatus through a distinct, passive witness. That Sāṅkhya position remains separate from the essay's nondual account.
 
-**Source/tradition standing:** Indian tattvic/cognitive traditions are primary; modern cognitive architecture is an operational neighbour only.
+## #2
 
-**Carrier disposition:** CREATE as canonical C16; prior inner-instrument notes remain developmental/source carriers.
+[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems]], X, **grounds** the native functional reading. Buddhi settles a determination; ahaṃkāra gathers it under I and mine; manas coordinates presentations and moves among proposals, selections and withholdings. These are related acts, not three names for an interior box.
 
-## Unresolved Delta
+[C17 — Vikalpa / Saṃkalpa](C17-Vikalpa-Samkalpa.md) **extends** alternative formation and commitment. [C18 — Apoha](C18-Apoha.md) **extends** the constitutive role of what has been excluded. A settled identification carries the alternatives through which it became determinate; an appropriating act can conceal that movement by presenting its result as self-standing.
 
-Restore exact school-specific composition of antaḥkaraṇa and its relation to buddhi, ahaṃkāra, manas and citta; sharpen technical analogy boundaries.
+## #3
 
-**Depth Restoration: pending**
+The [[submission-package/essay/section-rooms/arguments/13-tattvic-differential-field|direct tattvic carrier]] **sources** the process articulation: the field becomes a seam, the seam a finite horizon, and the horizon an instrument capable of judgment and action. The [[submission-package/essay/section-rooms/01-differentiating-mind/movements/08-s0-p1-inner-instrument|direct inner-instrument movement]] **sources** the instrument/musician distinction. These developmental carriers disclose the operation; A09 retains its canonical argument office.
+
+Memory and coordination alter what can next be judged. The instrument is therefore not merely a veil to remove. Its conditioning gives a world continuity and local intelligibility. [C12 — Script](C12-Script-Frozen-Conditioned-Will.md) **tests** the arrest in which that achieved organisation loses access to its formative conditions and treats repetition as necessity.
+
+## #4
+
+[C40 — Model Internality](C40-Model-Internality-Judgment-Field.md) **compares** a technical field in which source, representation, evaluator and permission are discriminable. The historical functions ask concrete questions of such a field: what settles a claim, what makes it mine or ours, what coordinates competing presentations, and what remains available for revision? Those questions do not assert one-to-one equivalence between the triad and a software stack.
+
+[C41 — Objective Internality](C41-Objective-Internality.md) **defines** the broader operative world. [C35 — Selfing / Self / Subjectivity / Self-Thing](C35-Selfing-Self-Subjectivity-Self-Thing.md) **qualifies** the distinctions needed to keep a self-model from occupying the subject's office. Richer inspectable functions are positive findings about the instrument; their accumulation does not supply a first-person proof.
+
+## #5→0
+
+[[submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter / Region / Name / Count / Account]] **grounds** the register3 return. Interior functions produce an account of a region, and encounter can alter the ordering by which that account was made. The result becomes available for further acts instead of closing the world around its own self-description.
+
+[C47 — Deferential Intelligence](C47-Deferential-Intelligence.md) **tests** whether the altered account changes judgment or action. C16 **returns-to** C15 with the instrument's capacities more exactly known and their subject relation preserved. Investigation can improve the means through which a world is disclosed while keeping the question of its experient distinct.
+
+**Depth Restoration:** source-bounded triad and witness, ascertainment/appropriation/coordination, developmental instrument image, exclusion and memory, technical judgment questions and encounter-return are restored.
+
+**Unresolved Delta:** the selected Sāṅkhya passages are quotation-ready; they do not settle every school's composition of antaḥkaraṇa. Citta's place and the exact differences among threefold and fourfold accounts require their own textual recovery. No technical one-to-one mapping or machine-subject verdict is claimed.

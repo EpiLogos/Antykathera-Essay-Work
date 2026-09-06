@@ -1,23 +1,44 @@
+---
+title: "C60 — Idealism / Order of Dependence"
+record_id: C60
+record_type: concept
+register: episteme
+claim_status: Argued
+source_relation: "Argued authorial operation; historical attributions scoped locally"
+---
+
 # C60 — Idealism / Order of Dependence
 
-**Definition.** Idealism / Order of Dependence is the conceptual discipline of asking in what sense one term—world, object, appearance, subject, concept, model—depends upon another, while keeping epistemic, logical, causal, transcendental and ontological dependence distinct.
+## #0
 
-The distinction exists because “idealism” becomes useless when it is reduced either to “mind creates reality” or to a single cross-traditional doctrine. C60 makes the operative question explicit: which order, in which direction, under which warrant?
+The essay's idealism states a positive order of dependence: **Subject / Consciousness → mind as objective internality → object as determinate appearance**. The arrows articulate dependence, not chronological manufacture by a private ego. C60 makes the order and the predicates exact; [[submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence|A34]] develops the argument. Treating idealism as only a discipline of comparing views would remove the position that the [[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|explicit Q27 correction]] requires the field to carry.
 
-Its operation is **state dependence direction + register → test whether inversion is licensed → preserve reciprocal but non-identical dependencies where needed**. C01 gives the Subject asymmetry; C07 worldhood gives constitutive context; C55 shows local model→world feedback; C63 gives source-distinct grammars of focal/qualified predication.
+## #1
 
-Nearest neighbours are C01, C07, C55 and C63. The invariant remains `world ≠ world-model` even when models causally change worlds.
+An inquiry encounters determinate evidence within appearing, discrimination and knowing. [[submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability|Subject / Defined Indefinability]] names the unobjectifiable condition through which objects become available. A brain, model, state or introspective report can be made an object of further inquiry. Its additional detail does not by itself make it the condition of object-availability.
 
-**Argument consumers:** A26, A32–A36. **Movement consumers:** idealism horizon Movement 47 and final return.
+The authorial criticism concerns that change of office: an objective account treats its own determinate terms as sufficient to generate the field their assertion already presupposes. Science retains its exact transformations within that field. The ontological inference criticised by the essay is its inflation into a self-grounding account of appearing as such.
 
-**Etymology relation:** *Homologia / Analogia*; consumed operation: cross-traditional dependencies can be compared by focal/proportional relation without univocal identity. Register **3**. Return C60 → A34 → C63 → A36 → C60.
+## #2
 
-**Source/tradition standing:** Berkeley/Kant/Hegel/Śaiva/contemporary idealisms remain source-distinct; the canonical concept is a comparative discipline, not their synthesis into one doctrine.
+[[submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality|Objective Internality]] gives the middle term its positive reality. Attention, memory, valuation, language, contrast and selfing make an inhabitable world of determinate relations. [[submission-package/essay/symbolon/episteme/concepts/C07-Conditions-of-Worldhood|Conditions of Worldhood]] distinguishes what lets things count and actions become possible. Objectivity includes resistance, persistence, shared measurement and consequence; recognising its condition does not abolish these achievements.
 
-**Carrier disposition:** CREATE as canonical C60; historical Arguments 19–20 remain supporting provenance.
+The private ego is itself a determinate formation within this field. “World in mind” therefore does not make the world obedient to private imagination. The difference between a lived world and a world-model remains operative even where a model changes conduct and thus the world it later models.
 
-## Unresolved Delta
+## #3
 
-Restore thinker-specific dependence claims and the Core Thesis source house with exact evidential standing.
+Different dependencies can be reciprocal without sharing one direction. Epistemically, a reflection can be encountered before its source is understood. Ontologically, the source is prior to that reflection. Causally, the reflection can change later conditions through the action it informs. Logically, one proposition can depend on premises. Transcendentally, inquiry can disclose a condition of the possibility of an object.
 
-**Depth Restoration: pending**
+[[submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First|The First-Moving Mirror]] supplies the concrete crossing: the model may lead the next encounter without becoming the ontological author of its source. [[submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication|Focal and Qualified Predication]] keeps each “prior” or “depends” attached to its operative respect. Distinguishing these orders carries the argued ontology; it does not suspend it.
+
+## #4
+
+The [[submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open|open-subjectivity carrier]] separates the position from the localisation question. Artificial agency can have an inspectable constitutive interior while the presence and partition of phenomenal subjectivity remain Open. Functional complexity alone settles neither its presence nor its absence.
+
+Historical witnesses retain their own disputes. [[submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/berkeley/berkeley-1734-three-dialogues-wilkins-2002/SOURCE|Berkeley's selected dialogue]] q001 gives Philonous's conditional rejection of material substance; q002 gives Hylas's immediate objection. They are different speakers in one argument, not two interchangeable authorial conclusions. Neither establishes QL or the phenomenal status of an engineered system. The Q27 coordination of analytical idealism and Śaiva articulation retains separate textual and inferential tasks, including exact Kastrup recovery.
+
+## #5→0
+
+[[submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]] and [[submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality|Objective Co-Internality]] return this ontology to the construction of consequential worlds among agencies. Relations contribute to their constitution; they are not merely later connections between finished isolated units. Local agency persists through that dependence rather than disappearing into a super-agent.
+
+[[submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD|Homologia / Analogia]] supplies register-3 comparison without source fusion. **Consumers:** A26, A32–A36; M47 and final return. **Depth Restoration:** first-class idealism, positive middle term, reciprocal but distinct orders and open artificial localisation restored from the existing A34 packet and direct Q27/historical carriers. The older historical19–20 locator names Two Ones and Advent Zero, not a missing idealism text. Exact comparative passages remain source debts; they do not downgrade the essay's Argued ontological position.

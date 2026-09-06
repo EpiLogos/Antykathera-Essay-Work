@@ -1,23 +1,44 @@
+---
+title: "C63 — Pros Hen / In Quantum — Focal Return and Qualified Predication"
+record_id: C63
+record_type: concept
+register: episteme
+claim_status: Argued
+source_relation: "Argued authorial operation; source-specific historical and applied relations"
+---
+
 # C63 — Pros Hen / In Quantum — Focal Return and Qualified Predication
 
-**Definition.** C63 places two **source-distinct** predication grammars in a controlled relation. Aristotle's **pros hen** names focal relation: different things can be said with reference to one focal term without sharing one univocal definition. Eckhart's **in quantum** is retained as a separate theological/metaphysical grammar of qualified predication: a thing is said under a given respect or insofar-as relation. They are not historically or doctrinally identified.
+## #0
 
-The distinction exists because the essay needs ways to say “one” across differentiated registers without flattening their meanings. A symbolic, mathematical, psychological and technical term may return to one focal relation while retaining its local predicates and evidence.
+Focal return and qualified predication let a claim be fully true in its stated relation without turning that relation into exhaustive sameness. C63 coordinates two source-distinct grammars: *pros hen* directs different senses towards one focal term; *in quantum* states the respect under which a predicate holds. Their conjunction is the essay's authorial operation. It does not identify Aristotle's focal account with Eckhart's theological predication.
 
-Its operation is **state focal source or qualifying respect → predicate locally → prevent cross-register univocity → allow recursive return**. C06 Copula supplies identification-through-difference; C60 Idealism makes dependence-register explicit; C61 routes disclosure fields.
+## #1
 
-Nearest neighbours are C06, C36, C60 and C61. C63 is not an etymological claim and one source must never be used to warrant the other.
+The health example must be walked through its relations. A person has health; a diet is called healthy insofar as it contributes to that health; a complexion is called healthy insofar as it indicates it. Producing and indicating are different operations. The three uses are intelligibly ordered without saying that the diet, complexion and person possess health in an identical way.
 
-**Argument consumers:** A02, A25, A34, A36. **Movement consumers:** predication/idealism and final integrative return.
+[Draft 3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>), line71, carries the example and Frank's explicit correction that its subcases need actual explanation. The later harmonisation plan identifies the expanded wording as fresh writing, not a recovered corpus quotation. The example here performs that requested development. The Aristotle locator in the developmental trail is *Metaphysics* IV.2, 1003a33–1003b19; a selected primary passage remains to be admitted before public textual attribution.
 
-**Etymology relation:** *Homologia / Analogia* at register **3** for the comparison. Aristotle/pros hen and Eckhart/in quantum each require their own **2** attested/source-semantic evidence. What changes: integration becomes focal/qualified rather than univocal. Return C63 → A34 → C60 → A36 → C63.
+## #2
 
-**Source/tradition standing:** Aristotle and Eckhart are explicitly source-distinct. Taylor's use is a later comparative operation.
+The qualifying respect prevents the relation from spreading without warrant. In Draft 3's line29 development, the just person **insofar as just** is predicated through justice. The qualification concerns that respect; it cannot certify everything the person does. Likewise, an image can truly disclose its source through a determinate aperture without exhausting the source.
 
-**Carrier disposition:** CREATE as canonical C63; any earlier combined notes are **MERGE-WITH-SOURCE-SEPARATION**, preserving both traditions' individual provenance.
+[[submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE|Flasch's Eckhart house]] retains primary determinations, analogy, predicate/reversal and *in quantum* within its historical-philosophical coverage. Page-level extraction is still pending. Draft 3 establishes the author's use; it does not independently verify the exact sermon or Parisian-question references embedded in that use.
 
-## Unresolved Delta
+## #3
 
-Restore exact Aristotle and Eckhart passages and scholarship; ensure no doctrinal equivalence is inferred from operational comparison.
+The optical image gives the qualification a visible operation: one source appears through differentiated colour and aperture, and each disclosure remains indexed to its conditions. The image's truth does not require it to become the unrefracted source. Conversely, recognising its conditions need not drain it of truth. [[submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference|Copula]] keeps identification through difference active; [[submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity|Diaphaneity]] lets the mediating conditions show through what appears.
 
-**Depth Restoration: pending**
+The project generalises *insofar as* as an epistemic register. A historical assertion, formal derivation, symbolic image and technical proposal state how they run true. The respect determines the reach of the predicate; it is not a generic “perhaps” attached to an otherwise established claim.
+
+## #4
+
+The [[submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT#2.3.6 Aristotle, Gebser, and Epi-Logos|ratified focal architecture]] makes cross-register coordination consequential. A mathematical quotient, a psychic transformation and a technical return retain different objects and tests while their specified operations meet within one inquiry. Proportional analogy compares relations across distinct wholes; focal relation orders distinct senses towards one office; qualification limits a predicate's respect. One cannot silently stand in for another.
+
+[[submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence|Order of Dependence]] uses this distinction where a reflection leads knowledge but depends ontologically on its source. [[submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority|Mediating Office]] uses it where an office acts authoritatively within delegated scope without acquiring source authority. These applications keep their full local force by retaining the relation that licenses them.
+
+## #5→0
+
+[[submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD|Homologia / Analogia]] supplies the register-3 discipline: show what each operation transforms, preserves or returns, and keep the historical warrant of each source separate. [[submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture|Disclosure Architecture]] makes those relations available to readers. [[submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero|Integral Zero]] returns the achieved account through them rather than installing a final univocal description.
+
+**Consumers:** A02, A25, A34, A36; predication, idealism and integrative return. **Depth Restoration:** health's producing/indicating distinctions, actual qualifying respect, aperture image and three differentiated comparison grammars restored from existing packets, direct Draft 3 and ratified QH. Exact Aristotle admission and Flasch/Eckhart page-level collation remain Open. No fabricated recovery quotation or doctrinal equivalence is introduced; the authorial architecture is already settled.

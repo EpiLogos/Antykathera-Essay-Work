@@ -1,47 +1,52 @@
+---
+title: "A27 — Self and Other — Unity without Possession"
+record_id: A27
+record_type: argument
+register: episteme
+claim_status: Argued
+source_relation: "Argued non-dual encounter; Paraphrased nested Watson–Gans–Levinas witnesses"
+---
+
 # A27 — Self and Other — Unity without Possession
 
-**Standing:** canonical semantic Argument. The proof boundary on artificial subjectivity remains open and is not promoted into another Argument.
+## #0
 
-## Argument
+The Other can belong to the whole without belonging inside my possession. Q27's Watson–Gans–Levinas development makes the scale difference decisive: **Other can be within Mono without being within me.** My situated self is not the all-inclusive whole. Metaphysical unity cannot authorise the substitution of my representation, consciousness-content or model for another's own relation to that whole.
 
-The Other can participate in one relational field with the Self without becoming an object possessed by the Self. This is the ethical and epistemic consequence of the essay's non-dualism. Unity does not mean that the Other is “really” only my representation, my consciousness-content, my model or my projection. Such a move would use metaphysical unity to authorise precisely the possession that faithful definition forbids.
+[[A20-Image-Valuation-Possession|A20]] grounds image-possession; [[A22-World-Picture-to-World-Atlas|A22]] distinguishes world from model; [[A26-Objective-Internality-Mind-as-Worldhood|A26]] grounds mind's constituted world without turning the subject-pole into a completed object. A27 gathers their consequence into encounter. The Other's excess is active: what another says or does can change the categories through which I first approached them.
 
-Three distinctions therefore remain invariant:
+## #1
 
-```text
-world ≠ world-model
-modelled Other ≠ Other
-Bimba ≠ Pratibimba
-```
+[[submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE|Watson’s source house and protected encounter]] sources the distinction between selfing and a self-thing, and the movement from egoic need to interpersonal desire. Its Gans carrier is the 1988 chapter transmitted through Watson's 1996 thesis pp112–13, with the 1998 book and direct Gans collation still owed. The later Gans1997 article is not silently substituted for that chain.
 
-A modelled Other is real as a model: it can predict, recall, coordinate and make action possible. But encounter can exceed it. Bimba and Pratibimba provide a recursive technical grammar for this without pretending to solve metaphysics by graph architecture. Within a bounded Context Frame, a Bimba can validly function as the local reference office against which multiple appearances or judgments are related. That locally authoritative office does not become the ultimate source of the world. Nested reference is possible without abolishing the distinction between reference-field and appearance.
+The nested Levinas passages supply an exact resistance to possession. In q006 the face exceeds the idea held by the Same; q007's encounter challenges the exercise of power rather than confronting it merely as more power on the same scale. Those primary movements were source-checked, with exact edition collation pending. The QL development is Argued from them: a local Same can claim universal jurisdiction over what counts as satisfaction, but it is not Mono itself.
 
-The argument becomes especially important with artificial agents. Anthropomorphic projection can promote fluent behaviour into an unwarranted verdict about phenomenality; substrate prejudice can use the absence of human biology to issue the opposite verdict. Both replace encounter with a protected prior model. The live subjectivity carrier therefore keeps phenomenality unresolved by design while allowing strong claims about functional agency, objective internality and recursive self-description.
+Q27 makes the capture a two-stage operation. A distinction selects me/not-me or useful/useless; then one pole appropriates the relation that generated both. The not-me is admitted only as for-me—resource, threat, customer, labour, lover or mirror. Selection is necessary for finite action. Its positivisation as the whole economy of encounter makes it possession.
 
-Unity without possession gives a positive alternative. The Other is approached as capable of revising the model under which it is encountered. This capacity for model-revising encounter will become A31 Deferential Intelligence. Ethical respect and epistemic corrigibility become the same relational discipline at this point: the Other matters not because the model knows that it has an interior of a certain kind, but because the account refuses to make its own representation sovereign over encounter.
+## #2
 
-## Pressure and distinctness
+Address changes the relation that description can leave untouched. “You” is not a midpoint inserted between an already complete I and It. A reply can disclose that the question itself has misnamed the situation; the speaker who asked it must then change the terms of understanding. Frank's Watson encounter places this qualitative difference in the native `AM/IS` determination: first-person presence and third-person sayability meet through a second-person relation. The authorial notation is not attributed to Watson or Levinas.
 
-A20 shows image-possession; A22 separates atlas from world; A26 makes mind world-constituted while preserving the subject-pole. A27 gathers them into the Self/Other relation. It is distinct from C35 Selfing/Self/Subjectivity/Self-Thing, C38 Bimba–Pratibimba and C58 Anthropomorphization. It prepares A30 co-internality and A31 deference.
+[[submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing|C35 Selfing / Self / Subjectivity / Self-Thing]] defines the offices that prevent a pronoun, a self-model and the Subject from exchanging their criteria. [[submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map|C38 Bimba–Pratibimba]] defines why my image of another remains a reflection. Another's belonging to the Original does not make my reference map the Original of that other.
 
-## Relations and Return
+The [[submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter whole field]] derives Countenance's return upon Name and Account. A name can keep reference through changing descriptions without finishing the person it names. [[submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE|Kripke’s source house]] compares that distinct linguistic office; rigid reference is not a proof that the referent has been exhaustively known.
 
-**Concept dependencies:** C01 Subject, C19 Recognition, C35 Selfing / Self / Subjectivity / Self-Thing, C38 Bimba–Pratibimba / Bimba Map, C41 Objective Internality, C42 Objective Co-Internality, C47 Deferential Intelligence, C58 Anthropomorphization.
+## #3
 
-**Consequences:** A30–A33 and A35.
+Inner alterity and interpersonal otherness require different practices. Q27 distinguishes Shadow as **other-self**, the disowned or not-yet-lived difference within my psyche, and Friend as **my-self's-other**, another centre whose response my psyche cannot produce. An inward figure can surprise and reorganise the ego; the actual friend cannot be reduced to that figure's projection. Conversely, the existence of another person does not make all psychic otherness external.
 
-**Etymology whole fields:** *Encounter / Region / Name / Count / Countenance / Account* and *Arbitration / Hybris / Regard / Anamnesis*. **Consumed operation:** **Countenance** resists reduction of encounter to count/account; **Con-text-through-Diaphaneity → Regard** makes the constituting Other/context visible through the model. **Evidence register:** 3 for the cross-field operation; philological claims are separately warranted. **What changes:** Otherness becomes an active revision-condition rather than an unknowable supplement to a closed model. **Return route:** A27 → C38/C58 → A31/C47 → A30/C42 → A27.
+Q27's God/Shadow/Friend/Alien constellation keeps these image-relations together: source or archetypal totality, internal estrangement, shared-world other, and the unfamiliar other made a container for projected uncertainty. These are developmental mythematic operators, not extra formal primitives or a universal symbol dictionary. [[A21-Individuation-Recognition|A21]] develops the psychic return without making integration an annexation of the interpersonal field.
 
-**Movement consumers:** direct subjectivity carrier supports Movements 36, 47 and 48; Bimba/Pratibimba and Otherness consumers remain routed in the quilt.
+## #4
 
-**Matheme:** local `1` remains related to but cannot occupy the other's `0`-office; **Mytheme:** mirror, face/countenance, guest and twin; **Episteme:** idealism, phenomenology of Otherness, Jungian projection and agent subjectivity.
+The offered computational test makes the change of economy visible. In a fixed selection `y* = argminᵧ Eθ(m,y)`, the existing model and evaluator decide which candidate is satisfactory. Search can produce novelty while leaving every criterion unchanged. Q27 then offers a transition of `(m, θ, Eθ)` through encounter: the representation, parameters and evaluative frame themselves become revisable. This is a design unit, not an established EBM theorem or implemented result. A mathematical minimum also requires its stated domain and existence conditions; the notation does not turn a person into an actual optimisation variable.
 
-## Provenance
+[[A31-Deferential-Intelligence|A31]] owns the full technical operation. Its ethical pressure is already exact here: the Other is not merely a better answer to the need I brought. The [[submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Arbitration whole field]] derives **Con-text-through-Diaphaneity → Regard**, through which encounter can change the measure. Generalised energetics must therefore preserve the possibility of a changed scale, rather than translating ethical excess into a stronger force within the old one.
 
-Direct carriers `02-objective-internality.md`, `05-agent-subjectivity-open.md`, current `bimba-pratibimba.md` concept carrier, Q27 and Agentworld brief. The open phenomenality boundary is retained as concept/proof constraint, not new Argument identity.
+## #5→0
 
-## Unresolved Delta
+[[submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Agentworld]] compares intention-modelling, divergent worlds and productive estrangement in q028–q035. Successful prediction does not possess an intention; humanlike presentation does not prove phenomenal subjectivity; unfamiliar substrate does not disprove it. [[submission-package/essay/symbolon/episteme/concepts/C58-Anthropomorphization|C58 Anthropomorphization]] preserves those distinct tests. The historical open-subjectivity carrier permits fully assertable functional agency while leaving artificial phenomenality Open.
 
-Restore Bimba/Pratibimba tradition and technical implementation history, philosophical Otherness sources, and exact artificial-subjectivity evidence. Do not close phenomenality by anthropomorphism or substrate prejudice.
+[[A30-Objective-Co-Internality|A30]] develops the shared field in which independently grounded participants change one another's conditions. [[A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation|A35]] returns sensitivity to origins without consuming them. Unity acquires its ethical force through this continuing difference: my determination can bear the fact that it is mine, and your answer can alter a relation I cannot complete on your behalf.
 
-**Depth Restoration: pending**
+**Depth Restoration:** whole/within-me asymmetry, two-stage totalisation, second-person address, inner/interpersonal alterity, source/reflection, changed evaluator and open artificial subjectivity restored from the A27 packet, full Watson SOURCE/NOTES, Q27 §§4–12 and historical open-subjectivity/AHI carriers. **Remaining debt:** nested Gans/book/Levinas edition collation, independent Bimba history and implemented evaluator-change/phenomenality evidence. P1 consumers M41/M47 remain distinct.
