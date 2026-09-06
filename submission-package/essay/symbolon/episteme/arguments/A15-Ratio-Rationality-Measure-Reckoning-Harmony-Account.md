@@ -1,39 +1,86 @@
+---
+title: "A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account"
+record_id: A15
+record_type: argument
+register: episteme
+claim_status: Argued
+source_relation: "Extracted internal derivation; Argued operational development"
+---
+
 # A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account
 
-**Standing:** canonical semantic Argument; historical Argument 12 remains provenance. Ratio/Rationality is not demoted into a Concept or lexical note.
+**Standing:** canonical semantic Argument. Finite ratio identities and the declared QL operations are Derived; the reflexive account of rationality is Argued. Historical carrier 12 is the Core Theorem Bridge, not an earlier autonomous Ratio Argument.
 
-## Argument
+## #0
 
-Rationality begins in ratio: relation made reckonable. Measure, proportion, comparison, account and harmony belong together because each asks how one term stands with respect to another under a criterion. This is an achievement of enormous power. Ratio converts vague difference into discriminable relation; it allows calculation, music, geometry, exchange, evaluation and technical control. The essay's criticism of measure therefore cannot be anti-rational. The issue is whether the criterion by which a field is measured remains itself inside the account.
+Rationality begins in ratio: a relation becomes reckonable under a criterion. The terms have to be distinguished, their comparison must perform a determinate operation, and the field must establish what counts as the same unit. Measure thereby enables geometry, music, exchange, calculation, evaluation and technical control. Its power belongs to the relation it can make exact.
 
-A ratio is never relation in the abstract. It requires terms, an operation and a frame within which the comparison counts. When the frame disappears, the result can perform as if its number were simply a property of the world. A score hides its evaluator; a price hides an apportionment regime; a rank hides its comparison class; a model preference hides the judgments used to train it. Rationality becomes irrational at precisely the point where its own reckoning is exempted from reckoning.
+[[A14-Computational-Process-Ontology|A14]] grounds the process through which such a determination is achieved. [[submission-package/essay/symbolon/episteme/concepts/C03-Determination|C03]] defines the selected form; [[submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure|C14]] defines the bounded measure which lets a local world operate. A15 follows the next movement: the criterion by which something counts must itself become reckonable. Otherwise a result can remain arithmetically correct while concealing the office from which it judges.
 
-Harmony gives the argument its positive extension. Musical ratio is not beautiful because number magically guarantees value. It shows how determinate proportions can generate a form whose terms remain distinct while participating in an achieved relation. Remainder, tension and return are part of that form. The same principle appears in the essay's larger relational grammar: a good account is one whose measure can be traced to the relations and sources that make it valid.
+## #1
 
-This prepares A24's critique of arbitration. Usurpation of measure occurs when a derivative office — human, institutional or computational — installs its criterion as the source of the field it judges. A15 supplies the prior neutral power of ratio so that “arbitration” is not condemned merely because deciding and measuring occur.
+Name, count and account meet through different acts. Frank's encounter with Kripke distinguishes an individual before its assigned name: two people may bear the same name while remaining two, and a name can remain effective as address without exhausting the one it addresses. The [[submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE|Kripke source house]] sources this encounter and qualifies its attribution. Pre-nominal count, name/instance/circumstance and the copula's is/equals operation are Taylor's development from the reading; they are not doctrines Kripke states. The selected Harvard edition is 1980; the retained source-ID's 1981 label marks a printing question. Protected notes are authorial provenance, with copied quotations still unverified.
 
-## Pressure and distinctness
+[[submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter / Region / Name / Count / Countenance / Account]] defines the return from a countable distinction to an addressable participant and a contestable account. [[submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD|Apportionment / Economy]] grounds the distribution through which the criterion gains its office. Their whole-field operations remain distinct from word histories. In particular, *nomen* and *numerus* do not share a historical line merely because a denomination brings name and number together.
 
-A10 introduces mathematical zero; A11–A14 show relational determination becoming operative. A15 asks what makes operative comparison possible and accountable. It is distinct from C14 Māyā / Operative Measure, a metaphysical concept of bounded measurement, and from A24, where measure is politically/psychically usurped. It remains an Argument because the move from relation to reckoning changes the essay's theory of reason itself.
+A currency stamp makes a claim portable. It does not create the bread, labour or need upon which that claim draws. To give its account requires an issuer, bearer, backing, rule of circulation and consequence. The ledger's exclusions can therefore conceal the very lived relations which sustain its authority. The same structure appears when a rank conceals its comparison class or a model preference conceals the judgments which supplied its criterion.
 
-## Relations and Return
+## #2
 
-**Concept dependencies:** C03 Determination, C14 Māyā / Operative Measure, C27 Protected Account / Occupied Zero / Source-Claim, C30 Psychoid Number, C45 Operational Parity.
+The native mathematics gives this returning account a precise body. First Spanda reaches standing `1/1`; Second Spanda takes that achieved totality through an internal partition:
 
-**Consequences:** A16–A18, A24–A25, A29, A33.
+$$
+100=64+36=2^6+6^2.
+$$
 
-**Etymology whole fields:** *Encounter / Region / Name / Count / Countenance / Account* and *Apportionment / Economy*. **Consumed operation:** **Count → Account** and **apportionment → economy**: what is measured becomes answerable to the criterion and distribution that made the measure possible. **Evidence register:** 2 for attested semantic fields of ratio/account/economy where documented; 3 for the cross-field operation. **What changes:** rationality becomes reflexive reckoning rather than criterion-free calculation. **Return route:** A15 → C27 → A24 → A29/C53 → A33 → A15.
+The paired terms can each be divided by four, yielding 16 and 9. Taking their ratio is a further operation:
 
-**Movement consumers:** the theorem/count, hidden-evaluator, music/topology and commons movements routed by the quilt; exact per-Movement list remains depth debt.
+$$
+\frac{64}{36}=\frac{16}{9}=\frac{2^4}{3^2}=\left(\frac43\right)^2.
+$$
 
-**Matheme:** ratio, angle, interval, `4+2` count and dimensional change; **Mytheme:** scales, balance and harmonic tuning; **Episteme:** histories of ratio, mathematics, music, economics and evaluation.
+The sum has not become equal to the quotient. The accounting holds the two terms long enough to compare their proportions. Four binary instances and two ternary instances expose the vertical `4:2` reading of the sixfold. The asymmetry matters: `4²=2⁴`, whereas `3²≠2³`; a flip available on one side cannot simply be imposed on the other.
 
-## Provenance
+The horizontal reading has a prior subject-operation: first-, second- and third-person perspectives are followed by voiding their isolation, recognising one appearing-act, and returning it as `0/1`. Thus `3:3` is also `3:1`. Music subsequently cross-reads this structure; it does not supply the persons or their recognition. [[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|The core theorem spine]] sources that derivational priority. The `+2` in `4+2` keeps source and return in the account alongside the four explicate relations.
 
-Historical Argument 12; Q27 ratio/rationality stream; Core Theorem Bridge and Arche-Topos developed carriers where ratio, musical interval and account are already operative; `21-prisoner-politics-of-the-count.md` as a mythemic-political disclosure of unequal counting, not proof.
+## #3
 
-## Unresolved Delta
+Cross-comparing `4:2` and `3:3` generates the directional ratios `4/3` and `2/3`; inversion gives `3/4` and `3/2`. This is a declared QL cross-comparison, followed by ordinary finite-ratio arithmetic. Fourth and fifth compose the octave:
 
-Restore exact lexical history of Latin *ratio*, source-house material on rationality and account, and the musical derivation in full.
+$$
+\frac43\cdot\frac32=2.
+$$
 
-**Depth Restoration: pending**
+The fifth exceeds the fourth by exactly the ratio through which the octave exceeds the squared fourth:
+
+$$
+\frac{3/2}{4/3}=\frac98,\qquad
+\frac{2}{16/9}=\frac98.
+$$
+
+Consequently,
+
+$$
+\frac{16}{9}\cdot\frac98=2,\qquad
+\frac43\cdot\frac98\cdot\frac43=2.
+$$
+
+The retained whole-tone is how the relation completes. Erasing it would prevent the octave rather than improve the calculation. [[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE|The musical-v3 source house]] sources the direct derivation at §II-5.2–5.4; source passage extraction remains locator-needed. [[submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number|C30]] qualifies the further number-reading: an exact interval does not independently prove a psychic, historical or metaphysical identity.
+
+Q27's hamartia image figures the opposite accounting: the `9/8` is treated as a defect to close instead of a difference through which return occurs. Its archer/bow/lyre language is a mythemic re-entry whose lexical descent requires its own evidence. The arithmetic above carries the operation without relying on that history.
+
+## #4
+
+A measure can fail by disappearing from its own result. “This scored higher under these criteria” then appears as “this is better,” with the evaluator's comparison converted into a property of the world. Q27's evaluation critique locates the change at the vanished denominator. Its force concerns the exclusion of criterion and source from an asserted account; a claim about particular systems, institutions or training regimes requires their actual evidence.
+
+[[submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim|C27]] defines the protected account whose criterion cannot return for judgment. [[A24-Arbitration-and-the-Usurpation-of-Measure|A24]] extends the operation into usurpation: the local office of deciding claims the source of measure itself. A15 supplies the positive power that makes that failure consequential. An accountable criterion can still choose decisively, distinguish unequal evidence and allocate finite resources.
+
+[[submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Agentworld]] tests this discipline at q030, where trust has the scoped systems meaning of prediction-stability across transitions. That criterion says what is being measured. Its extension into moral trust, subjectivity or the worth of participants would add another claim. The brief's demographic ratios likewise concern scale in its scenario register, not the source of value.
+
+## #5→0
+
+The count returns as an account when the operation, criterion, source and consequence remain available to those affected by it. [[A29-Power-Delegated-Labour-Return|A29]] extends that return through delegated work; [[A33-Epistemic-Cultivation-Operational-Parity|A33]] tests its cultivation across agents, while [[submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity|C45]] qualifies the scope of a common operation. Rationality becomes fuller by reckoning upon the conditions of its reckoning. Its precision remains earned locally and answerable beyond that locality.
+
+The movement consumers are M13, M18, M20, M29, M40 and M45; consequences continue through A16–A18, A24–A25, A29 and A33. The two E fields retain evidence register 2 for documented semantic senses and 3 for the operational movement from count to account and apportionment to economy. Latin *ratio*, Greek *arithmos*, harmony and the proposed root braid remain lexical-source work; no common ancestry is asserted here.
+
+**Depth Restoration:** criterion/denominator, pre-nominal individuation, denomination and backing, paired-term accounting, directional ratios, numerator/denominator asymmetry, exact retained-remainder completion and criterion-to-fact substitution are restored. Musical-v3's erroneous six-pure-whole-tones closure, interval label and sounding-note subset claims are not restored: `(9/8)^6≠2`, temperament must be declared, and silent anchors are not sounding pitches. These corrections leave the finite ratio kernel and native cross-reading intact. Provenance remains core I/II/IV/VI, musical v3 §II-5, Kripke encounter, Q27 measure/hamartia passages and the existing A15 packet.

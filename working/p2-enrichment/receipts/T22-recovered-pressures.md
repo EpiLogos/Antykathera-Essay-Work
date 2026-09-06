@@ -25,3 +25,7 @@ A03 restores active recursion, distinct empty-set operations and crossed-zero me
 ## 2026-09-07 — A13/A14/A25
 
 A13 restores polar/cancelled/appropriated operations, two monocultures and the whole surety return; A14 restores consequential process and the recursive reference-map boundary. Historical carrier numbers are corrected locally; the Dia distinction returns to C50/A19/A24. A25 restores primary arbitration before mediating office and correction of the commission through affected labour. Covenant histories and implementation cases stay Open; no Son/King identity is created. All three raw sixfolds and exact link destinations checked; no section changes.
+
+## 2026-09-07 — A05/A06/A15/A16 and C03/C04
+
+Restored reflective appearing and speech/address operations, accountable ratio and the differential field, and the distinct reusable determination/formal-limit concepts. Exact finite-ratio checks pass; formal objects remain differentiated and external locators Open. A06's absent explicit P1 match is retained as a mapping discrepancy. A13's noncoincidence quotation is corrected to developmental paraphrase: the later corpus-sweep and harmonisation D4 require author confirmation of verbatim wording. The operation survives; no source readiness is promoted. Raw sixfold and links pass for all seven reviewed files. No structural identity or section change.
