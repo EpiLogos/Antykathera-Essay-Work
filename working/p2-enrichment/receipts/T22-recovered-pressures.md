@@ -21,3 +21,7 @@ Reviewed and accepted the existing four-page enrichment against its direct defin
 ## 2026-09-07 — A03/A04
 
 A03 restores active recursion, distinct empty-set operations and crossed-zero mediation; initial-object source attribution and the primitive-world figure remain Open. A04 restores invested contextual seeing, the P5 Father/measure pressure and the corrected whole stained-glass assignments. Father/office consequences return to A24/A25/A35; no identity or section change. Both raw sixfolds and all 35 links pass; source-specific quotation debts remain explicit.
+
+## 2026-09-07 — A13/A14/A25
+
+A13 restores polar/cancelled/appropriated operations, two monocultures and the whole surety return; A14 restores consequential process and the recursive reference-map boundary. Historical carrier numbers are corrected locally; the Dia distinction returns to C50/A19/A24. A25 restores primary arbitration before mediating office and correction of the commission through affected labour. Covenant histories and implementation cases stay Open; no Son/King identity is created. All three raw sixfolds and exact link destinations checked; no section changes.

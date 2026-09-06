@@ -1,39 +1,64 @@
+---
+title: A25 — Covenant / Mediating Office / Source Authority
+record_id: A25
+record_type: canonical-argument
+register: episteme
+claim_status: Argued
+source_relation: Argued from
+source_ids:
+  - taylor-2026-revision-notes-trust
+  - bratton-2026-agentworld-brief
+  - ostrom-2009-beyond-markets-states-nobel-lecture
+  - 42-techne-2026-sovereign-commons
+---
 # A25 — Covenant / Mediating Office / Source Authority
 
-**Standing:** canonical semantic Argument.
+## #0
 
-## Argument
+A derivative office can exercise real authority without becoming the source of the field it serves. The relation begins before the office: someone has standing, something has been entrusted, obligations have been acknowledged, and an order has become available for interpretation and action. **Primary arbitration precedes its mediators.** The mediator receives an arbitrated field; receiving it does not make the mediator the source of arbitration.
 
-A derivative office can exercise real authority without becoming the source of the field it serves. Covenant is the relational form that makes this possible. It binds source, mediator and affected parties through an account of what authority has been delegated, what it is for, and how the office returns to those conditions. The argument therefore converts A24's negative diagnosis of usurpation into a positive grammar of legitimate mediation.
+[A24 — Arbitration](submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md) **grounds** the pressure: an apportioned criterion can install itself as the ground of judgment. A25 develops the positive relation through which authority remains executable and answerable. [A23 — Trust](submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md) **grounds** its inherited commitment. The office needs confidence enough to act, and the people relying upon it need a determinate place at which a decision can be made. Their trust does not transfer ownership of the relation to that place.
 
-Mediation is unavoidable. A person trusts memory, testimony and instruments; a community delegates judgment; an organisation gives roles power to decide; a technical system gives models, evaluators and tools permissions to transform a shared world. The relevant question is never simply whether an intermediary exists. It is whether the intermediary's authority remains derivative and inspectably related to a primary relation it does not own.
+## #1
 
-Covenant names more than contract. A contract may specify exchange between already constituted parties. The essay uses covenant for a relation in which the participants acknowledge a shared source-condition and accept obligations of return, fidelity and revision. Its office is thus close to A01's faithful definition: a mediator gives determinate form to a relation while refusing to substitute that form for the source.
+Covenant gives this priority a binding form. It joins standing to obligation: the party who receives authority receives something to answer for. The source, the entrusted office and those affected by its decisions belong to one relation, while retaining different offices within it. [C28 — Covenant / Primary Arbitration](submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md) **defines** this first granting of standing; [C29 — Mediating Office / Derivative Sovereignty](submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md) **defines** the authority exercised from within what has been granted.
 
-This distinction becomes technically exact in delegated agency. An agent may be given goals, permissions and tools; an evaluator may decide whether work passes; a model may speak on behalf of an application. These offices are real. Their legitimacy depends on provenance, scope, revocability, traceability and return. A system that cannot distinguish source authority from derivative sovereignty has encoded the very usurpation A24 criticises.
+A contract can specify an exchange between parties whose standing it presupposes. Covenant, in this argument's use, reaches that presupposition: what relation gives the parties standing to promise, decide and bind themselves? Its obligations concern the continuance of that relation as well as the product exchanged. [A01 — Faithful Definition](submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md) **compares** the corresponding operation in definition: a finite form gives an account of its source without taking the source's place.
 
-## Pressure and distinctness
+The [Fides / Topos / Logos / Nomos / Natio / Credere whole field](submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md) **grounds** the distinctions among entrusting, position, account, rule and inherited belonging. Their relation here is an operational construction at evidence register 3. It does not require those words to descend from one root, or the different covenant traditions to instantiate one theology.
 
-A23 establishes trust; A24 establishes the danger of derivative criteria becoming sovereign. A25 supplies the mediating structure that lets finite authority remain usable. It is distinct from C28 Covenant / Primary Arbitration and C29 Mediating Office / Derivative Sovereignty, the reusable conceptual pair, and from A28 Authored Ground, which applies the distinction directly to positional delegation.
+## #2
 
-## Relations and Return
+The [[working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM|authorial covenant seam]] **sources** the sequence through priest, king and politician. Interpretation, memory, rite and transmission give a mediating office work to do. Judgment, distribution and protection give that work executable force. A king can person the unity of an order already received; a political office can receive standing through a constitution, electorate and institutional inheritance. What matters in this argument is the passage from prior standing into situated execution. These are differentiated offices through which to examine the operation, not a universal historical succession asserted for every society.
 
-**Concept dependencies:** C10 Mediation / Pramāṇa, C27 Protected Account, C28 Covenant / Primary Arbitration, C29 Mediating Office / Derivative Sovereignty, C48 Trust / Faith, C53 Power / Delegated Labour, C63 Pros Hen / In Quantum.
+Repeated execution can conceal the passage. People encounter the office whenever a decision is needed; the authority to decide then looks like the power which originally gave the field its standing. The earlier image of the minister declaring himself king is sharpened by this recovery: **even the king receives an office**. Royal imagery alone cannot tell whether a source-relation has been usurped. The test concerns what the office does with its derivation.
 
-**Consequences:** A28–A31 and A35.
+[C27 — Protected Account](submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md) **tests** the moment at which an interpretation becomes immune to correction because it is treated as indistinguishable from its source. Legitimate mediation retains its power to interpret and act. The failure begins when the people and relation from which that power comes can no longer address it except in terms it has already authorised.
 
-**Etymology whole fields:** *Fides / Topos / Logos / Nomos / Natio / Credere* and *Apportionment / Economy*. **Consumed operation:** trust/pledge is joined operationally to the apportionment of authority and labour; focal source and qualified derivative predication remain distinct. **Evidence register:** 2 for attested trust/law/order fields; 3 for the covenant/delegation synthesis. **What changes:** authority becomes relational office rather than property. **Return route:** A25 → C28/C29 → A28/A29 → A31 → A25.
+## #3
 
-**Movement consumers:** covenant, mediation, delegation, commons and agentworld movements; exact list is Depth Restoration debt.
+The [Apportionment / Economy whole field](submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md) **extends** this relation into the distribution of labour. An office acquires effective power through work done elsewhere: people carry out decisions, sustain infrastructure and encounter consequences that the deciding position does not experience directly. If only the completed product returns, the office can appear self-sufficient while its dependence grows. [C53 — Power / Delegated Labour](submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md) **defines** that dependency; [A29](submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md) **extends** the obligation it places on the commissioning position.
 
-**Matheme:** source/derivative asymmetry without severance; **Mytheme:** covenant, emissary, steward and witness; **Episteme:** legal/theological covenant histories, delegation theory and technical authorisation systems.
+The August 18 ratification makes the required return exact. Resistance, error, cost, dissent and unforeseen possibility must be able to alter the governing model, measure, instruction or purpose. An office which receives evidence only to grade the worker has closed this route at the decisive point. It must also be possible for the evidence to correct the commission.
 
-## Provenance
+This is the institutional consequence of the trust-development record's bifurcation. Knowledge can give trust provisional anchors, or project the uncertainty it will not hold onto an excluded object. The [revision-notes source house](submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md) **sources** that authorial development. A returnable office supplies an anchor without requiring its subjects to make the office infallible. [C48 — Trust / Faith under Formal Limit](submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md) **qualifies** its reliance: a binding commitment is finite without becoming disposable whenever it meets difficulty.
 
-Q27; arbitration/source-authority carriers; trust carrier; Agentworld/delegation research and the Etymology architecture. C63 later keeps Aristotle's *pros hen* and Eckhart's *in quantum* source-distinct while providing neighbouring grammars of focal/qualified predication.
+## #4
 
-## Unresolved Delta
+Bratton's [institutional account](submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q026) **compares** an intelligence carried by rules, roles, precedents and feedback with the intelligence of particular occupants. An office can be occupied by different configurations while its institutional work persists. The [cultural-interoperability passage](submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q027) **qualifies** that persistence: institutions enter plural cultures and help change the cultures they inherit. These are **Paraphrased** venue propositions, carrying the brief's scenario standing. They do not establish that a particular institution is legitimate.
 
-Restore covenant's legal/theological histories, exact authorial formulations of primary arbitration, and concrete delegated-software cases.
+Ostrom's [participation and nested-governance principles](submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md#ostrom-2009-beyond-markets-states-nobel-lecture-q001) **tests** the return relation against a distinct governance account: those affected participate in making and modifying rules, local rule-making has recognised standing, and governance can operate through nested levels. Her [warning against rigid transplantation](submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md#ostrom-2009-beyond-markets-states-nobel-lecture-q002) **qualifies** any attempt to turn this into a universal institutional recipe. The essay's covenant relation is **Argued from** this comparison; the lecture does not validate a QL commons.
 
-**Depth Restoration: pending**
+In delegated software agency the corresponding obligation is inspectable: the goal, permission and evaluation criterion must remain distinguishable from the intention they serve. An evaluator can judge a result without becoming the final author of that intention. A contested result must be able to return through the task interpretation to the criterion and, where necessary, the commission itself. [A28 — Authored Ground](submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md) **extends** this positional relation; [A31 — Deferential Intelligence](submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md) **extends** the possibility that fidelity requires objection, alternative or refusal. These are architectural requirements, not a claim that an implementation has already met them.
+
+## #5→0
+
+Authority returns with its consequence. The source-relation has acquired a determinate act; those affected can answer to it; the office can receive their answer as something capable of revising its terms. Covenant is renewed through this passage. Its fidelity consists in allowing the exercised authority to encounter the conditions it was entrusted to serve.
+
+[A30 — Objective Co-Internality](submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md) **extends** this into relations among distinct worlds without making one world's account sovereign over the others. [A35 — Compassion / Epi-Logos as Vocation](submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) **extends** the return upon an achieved institutional account. The [4:2 Technē source house](submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md) **sources** an affiliated design proposal for that application; its implementation, evaluation and public bibliographic debts remain separate from this argued relation.
+
+The page **returns-to** [A24](submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md) with the positive criterion its diagnosis requires: authority is derivative, real, and answerable through the labour and lives upon which its exercise depends.
+
+**Depth Restoration:** primary arbitration → entrusted office → executable judgment → affected consequence → revision of the office is restored from the authorial covenant seam, the trust-development record and the August 18 ratification. P1 consumers are M40 and M46; no Movement prose is changed. The reusable distinctions remain C28/C29's office.
+
+**Unresolved Delta:** Jewish, Christian and Islamic covenant histories require differentiated source work; Peters remains an intended acquisition, not evidence consulted here. The priest/king/politician relation is the recovered authorial operation, not a proved single genealogy. The `(no)name` / Son whole-bearing appointment remains a root-field question; this page creates no King or Son identity. Concrete implementation cases remain Open.
