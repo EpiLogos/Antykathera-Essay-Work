@@ -1,41 +1,52 @@
+---
+title: "A36 — Advent of Integral Zero"
+record_id: A36
+record_type: argument
+register: episteme
+claim_status: Argued
+source_relation: "Native QL return and authorial historical braid"
+---
+
 # A36 — Advent of Integral Zero
 
-**Standing:** canonical semantic Argument. A36 is distinct from A10.
+## #0
 
-## Argument
+[[A10-Advent-of-Zero|The first advent]] gave zero an operative mathematical life. The final return depends upon that achievement: **the exact sign becomes living Symbol again without ceasing to be mathematical sign**. The history a sign has to live through matters. Abstraction wins new permissions; its success can hide the relations it abstracts from; its later use makes those conditions available to renewed recognition. Integral Zero carries that passage, rather than projecting an already completed integral meaning into every earlier zero.
 
-A10 told the first advent: zero became an operative mathematical sign. A36 tells the return. **The same exact sign becomes Symbol again without ceasing to be mathematical sign.** Nothing in the intervening argument licenses replacing arithmetic zero with a mystical object. The achievement is instead integral: the sign can carry its mathematical office together with the historical, formal, epistemic and symbolic relations that the essay has recovered around it.
+## #1
 
-The return is possible because the argument never required a determination to exhaust its source. Mathematical zero remains exact inside its formal systems. QL can use `0` in a distinct authorial office as the uncounted pole of `0/1`; histories of *śūnya* can preserve their own contexts; psychoid or mythemic forms can disclose other relations. Integral Zero is the capacity to hold these determinations in one routed field without pretending that one register proves or absorbs the others.
+The direct [[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE|Advent of Zero manuscript]] joins the history of the sign to the question of Subject. An account that objectifies its world also makes its own uncounted context a live problem. The parallel is an Argued historical braid: mathematical practice, psychic inquiry and philosophical recognition retain different objects and warrants. Freud, Jung, Neumann and Gebser enter through distinct witness tasks; none supplies native QL notation or proves the whole movement through historical resemblance.
 
-The eightfold traversal now returns as `1/0`. Manifest determination turns toward ground carrying everything acquired in the passage: difference, question, polarity, determining/particular relation, first-person/predicative distinction and finite/infinite horizon. Return is not reversal to the untouched beginning. The first zero was a sign whose formal power required abstraction from many prior symbolic meanings; the integral zero is that abstract achievement itself re-entering a larger Symbolon without surrendering its precision.
+The return preserves gained powers of discrimination. Mathematical zero remains exact within its system. Retained zero-denominator forms, mediants, ordinal constructions and logical constructions have their separate hypotheses and histories under A10. The QL operation `1/0` is the manifest determination's return toward its source; it does not authorise ordinary division by zero wherever arithmetic leaves that undefined.
 
-This is also the final test of the essay's method. If synthesis meant fusion, the histories, mathematics, Śaiva metaphysics, Jungian psychology, AI architecture and etymological archaeology would be collapsed into one doctrine. If separation were absolute, no common argument could be made among them. Integral Zero instead performs recursive return: each office remains bounded, while the relations among offices become part of what the sign can disclose.
+## #2
 
-The Subject returns here too. `0` cannot be made the positive metaphysical object called “the Absolute”. Its office is relational and formal: it marks the condition/source pole that every achieved `1` can turn toward without enclosing. The final Symbol therefore returns the reader to A01's faithful definition. What has been determined can be said strongly; what conditions determination is encountered through the limit and relations of the saying itself.
+The [[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|native theorem field]] carries the whole sequence:
 
-## Pressure and distinctness
+`/ = −/− → 0/1 → ?/! → −/+ → X/x → AM/IS → ∞/dx → 1/0`.
 
-A36 is forced by the entire spine, especially A10–A18 and A32–A35. It is not a second history of zero and not a synonym for QL. It is the terminal Argument that demonstrates how mathematical sign, Symbolon disclosure and philosophical return can coexist without office-collapse.
+[[A18-Primordial-Symbolon-and-Its-Eight-Determinations|The eight determinations]] owns this traversal. Parent and Return bracket the six determinations; a page's sixfold presentation neither removes those brackets nor turns eight into six. Return brings back difference, question, polarity, the determining/particular relation, the first-person/predicative distinction and the finite/infinite horizon. It is not a ninth result appended to them or an erasure that restores an untouched beginning.
 
-## Relations and Return
+Name and Power are coequal in what returns. Truth, Mind, Word, Logos, Son and Image alone would leave out Play, Need, Sacrifice, Decision, Love and Work. A returned determination bears the cost and history of becoming capable of its return. [[A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account|The finite musical relation]] and [[A17-Toroidal-Circulation-and-the-Arche-Topos|the winding and its retained passage]] keep their exact local operations; neither is licence to cancel every difference into a universal identity.
 
-**Concept dependencies:** C04 Formal Limit, C21 Living Symbol / Idol, C30 Psychoid Number, C49 Two Ones, C52 Dimensional Reframing, C61 Symbolon Disclosure Architecture, C63 Pros Hen / In Quantum, C64 Paradox.
+## #3
 
-**Consequences / Return:** A36 returns to A01, A02 and A10 rather than opening a new Argument sequence. It supplies the non-section canonical ground from which later Movement propagation may eventually proceed.
+The terminal [F] corrections in [[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE|Draft 3]] insist on **Zero as One / One as All**. A generic label of ground thins away the singular and polyvalent texture. The uncounted source and the articulated whole are not rival objects competing to occupy one place. [[submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All|Two Ones]] distinguishes the whole's unity from a counted one's appropriation of it. The determination can return toward source without possessing it; source is recognised in the relation, not added as the final item in the inventory.
 
-**Etymology whole fields:** *Symbol / Account / Trust* and *Homologia / Analogia*. **Consumed operation:** multiple exact offices of the same sign can return into a common **Symbolon account** by analogical/operational relation without univocal merger. **Evidence register:** 3 for the cross-register integration; 1–2 only for separately documented lexical histories; 4 only for explicit authorial/phonic re-entry. **What changes:** zero becomes a routed whole-field participant whose mathematical validity is preserved inside broader symbolic disclosure. **Return route:** A36 → C61/C64 → A01/C02 → A10 → A11/A18 → A36.
+Q27's recapitulations at lines5329–5362 bring two complete movements to this return. The mythic/genetic traversal follows world-parent differentiation, light, hunger, ego and unconscious, recognition, the great round and descent/return. The ethical traversal brings the addressed You, whose encounter changes an economy organised solely for me. They meet at `AM/IS` without acquiring one evidence class. Frank's paśu correction preserves recognition before egoic appropriation; the author's reading must not be attributed wholesale to Neumann or made a new philological proof.
 
-**Movement consumers:** the final zero/idealism/AHI planetary-return sequence including Movements 47–48, plus the early zero braid through recursive return. No Movement rewriting occurs in T09.
+## #4
 
-**Matheme:** exact mathematical `0`; QL `0/1`; eightfold return `1/0`; **Mytheme:** void, wheel, homecoming and whole Symbolon retained as whole relational carriers; **Episteme:** zero history, formal mathematics, idealism, Śaiva/Jungian and computational source houses remain distinct.
+The measured field returns to its denominator. In the authorial articulation this brings structural restoration, recognition and responsibility together: the source relation becomes explicit, the uncarved is recognised in the carving, and the addressed Other interrupts totalisation. [[submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture|Symbolon disclosure]] gives the relation a navigable body; [[submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|transformation of the containing field]] keeps paradox from becoming a static trophy. [[submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication|Qualified and focal relations]] prevents one office from appropriating all the others.
 
-## Provenance
+The technical return is correspondingly actual. [[A32-Reflective-Field-The-Mirror-That-Moves-First|The mirror]] initiates disclosure; [[A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation|compassion]] lets the disclosed origin change conduct; plural institutions must carry disagreement and the right to revise. A planetary apparatus does not manufacture trust or become the sole planetary Subject merely by connecting its participants. [[submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Agentworld’s scenarios]] poses this construction problem without delivering its successful outcome or endorsing the essay's ontology.
 
-A10; A18; `20-advent-zero-subject-integral-logic.md`; Core Theorem corpus; eight-determination matrix; Q27; whole-Mytheme and final return carriers.
+## #5→0
 
-## Unresolved Delta
+The offered work returns to its reader with its cord cut, as Draft3's terminal gift requires. Remembrance must recur in a judgment, encounter or act beyond the completed account. [[A01-Subject-God-and-Faithful-Definition|Faithful definition]] can now be re-entered carrying the developed differentiations: what has been determined is said with its earned strength, while the source of determining is not exhausted by the saying. [[A02-Copula-Self-Identity-through-Difference|The formal limit]] is thus performed again through a changed capacity to answer it.
 
-Restore the full zero-history/source seam, exact formal derivation of integral return and final Movement performance. Preserve the governing distinction: the sign returns as Symbol **without ceasing to be sign**.
+The whole fields [[submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|Symbol, Account and Trust]] and [[submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD|Homology and Analogy]] keep this return relational: exact offices can participate in a common Symbolon without becoming univocal. A10 remains the first advent, A36 the acquired return. The distinction is the history's indispensable movement.
 
-**Depth Restoration: pending**
+**Provenance and remaining debt:** the complete direct Advent manuscript, native core/eightfold field, Draft3's [F] corrections and terminal gift, and Q27's two recapitulations carry the restored operation. Public mathematical/psychological history retains its separately housed source, edition and passage obligations; the internal historical braid does not discharge them. Native `X/x` is authorial, not Jungian notation. No topology, consciousness or technical result is established merely by a cross-register recurrence. The noncoincidence formulation remains developmental until Frank confirms exact wording.
+
+**Depth Restoration:** canonical integral return restored; first-advent history, external evidence and realised technical consequences retain their distinct offices and debts.

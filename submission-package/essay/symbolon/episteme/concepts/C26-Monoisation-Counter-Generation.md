@@ -1,12 +1,30 @@
 # C26 — Monoisation / Counter-Generation
 
-**Definition.** Monoisation is the operation by which a local determination is promoted into the sole source or measure of a relational field. Counter-Generation names the resulting reversal: instead of the field generating local determinations, the local form claims to generate the field that conditioned it.
+## #0
 
-The distinction exists to give “monopoly” and source-usurpation a formal grammar deeper than ownership alone. A dominant term can permit many subordinate forms while still claiming that their reality or legitimacy derives from it.
+Monoisation promotes a local determination into the sole source or measure of its relational field. Counter-Generation names the resulting reversal: the local form claims to generate the field that conditioned it. Mono in Mono/Poly names relational wholeness; monoisation names a part's occupation of that whole's source-office.
 
-Its operation is **local `1` → occupied source-office → field re-described as derivative of the local term**. C49 Two Ones supplies the office distinction; C27 Protected Account supplies the stabilising mechanism; C54 Commons gives the institutional counter-form.
+## #1
 
-Nearest neighbours are C22, C25 and C27. It is not the same as Mono in Mono/Poly: **Mono** names relational wholeness; **monoisation** is a local part's counterfeit occupation of that whole's source-office.
+C49's Two Ones supplies the distinction. Self-Identity and Self-Difference are aspects of one complete relation; the Any and All do not arise by aggregating independent units. A local determination is generated within this field and can express it without exhausting or possessing it. Its efficacy is real precisely through relations that exceed its local boundary.
+
+## #2
+
+The reversal runs local `1` → occupied source-office → field redescribed as derivative of that `1`. A name, measure, institution or self-image forgets its received conditions and makes those conditions answer to its own account. This is an office-confusion in native QL; it neither alters ordinary arithmetic nor makes every focal centre illegitimate.
+
+## #3
+
+Q27's divide-and-conquer operation shows how the reversal becomes social: actionable units lose sight of their horizontal dependencies, while the apparatus monopolises recombination. A central measure then appears to supply the unity whose relational conditions it has concealed. The late Mono/Poly discussion adds a second turn: a counterculture can preserve the initiating monoculture's frame and become a rival monoculture. That counter-generation of an opposing camp is a related consequence; C26's defining counter-generation remains the reversal of conditioning field and local form.
+
+## #4
+
+Coordination, temporary arbitration and delegated authority remain necessary offices. The question is whether their warrant, scope and consequences remain answerable to the field. A focal measure can organise a task while admitting that another aperture or consequence requires its revision. C27 diagnoses the protected criterion; C28/C29 recover the covenant and mediating office that can authorise action without granting ownership of its source.
+
+## #5→0
+
+The return retains differentiated powers and their shared conditions. It does not defeat one monoculture by enthroning its counter. A12's candidate `(1)` pictures a local determination enclosed by its forgotten condition; restoring that relation lets polarity remain real without becoming war. C54 gives this relation institutional pressure: set terms, refuse, revise, leave and reconnect without losing every route to shared life. An apportioned office returns its work and effects to the economy that sustains it.
+
+### Declared field
 
 **Argument consumers:** A12, A18, A24, A29, A34–A35. **Movement consumers:** Mono/Poly, politics-of-count, commons and idealism movements.
 
@@ -16,8 +34,14 @@ Nearest neighbours are C22, C25 and C27. It is not the same as Mono in Mono/Poly
 
 **Carrier disposition:** CREATE as canonical C26; older monoisation/counter-generation notes remain provenance.
 
-## Unresolved Delta
+### Developmental provenance
+
+[Core SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and its [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>) govern the native operation. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and [QH](../../../quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md) are developmental/ratified carriers, with mixed dialogue attribution retained. The [covenant seam](../../../../../working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md) specifies primary arbitration and derivative offices. These establish the essay's argument; historical claims inside them require their own sources.
+
+The late Q27 monoculture/counterculture turn and its candidate `(1)` remain developmental operations; neither speculative root histories nor political allegations are promoted to external fact.
+
+### Remaining depth
 
 Restore formal notation and distinguish monoisation from legitimate centralisation, focal coordination and temporary arbitration.
 
-**Depth Restoration: pending**
+**Depth Restoration: enriched; named historical and implementation debts retained.**

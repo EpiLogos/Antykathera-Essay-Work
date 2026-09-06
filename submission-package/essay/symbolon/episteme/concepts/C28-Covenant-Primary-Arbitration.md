@@ -1,12 +1,30 @@
 # C28 — Covenant / Primary Arbitration
 
-**Definition.** Covenant is the explicit relation by which participants acknowledge a shared source-condition and bind finite authority to obligations of fidelity, scope and return. **Primary Arbitration** names the source-level relation from which a derivative office receives legitimate measure; it is not a claim that any finite actor possesses absolute source authority.
+## #0
 
-The distinction exists because A24's critique of arbitration requires a positive alternative to either usurpation or indecision. Some criterion must be authorised if action is to occur. C28 states how authorisation can remain relational.
+Covenant is the explicit relation through which participants acknowledge a shared source-condition and bind finite authority to fidelity, scope and return. Primary Arbitration names the source-level relation from which a mediating office receives measure. It grants no finite actor possession of absolute source authority.
 
-Its operation is **source relation → bounded authorisation → accountable return**. C29 names the derivative mediating office; C48 supplies trust; C53 supplies delegated labour. If the return route is closed, C27 Protected Account results.
+## #1
 
-Nearest neighbours are C29, C48 and C53. Covenant is broader than contract in this canonical usage because it includes relation to a constituting source/commons, not only exchange among already self-sufficient parties.
+Action requires an authorised criterion. A24's critique of source-usurpation therefore needs a positive relation capable of authorising decision. The covenant seam recovers source relation → obligation, promise, law and belonging → interpretation, administration and transmission. The mediating office receives an already arbitrated field; its execution does not originate that field simply because participants repeatedly meet it through the office.
+
+## #2
+
+The king is an office within this movement, not an independent missing root Mytheme. Priest, king and politician can mediate received order through different forms of interpretation and power. Repeated mediation can make the office appear generative: the administrator of the relation comes to claim its source. C29 preserves the legitimate office; C27 identifies its insulation; C26 names the reversal by which its local form claims to produce its conditions.
+
+## #3
+
+The historical branches remain separate. The Abrahamic covenant proposition requires Jewish, Christian and Islamic source tasks; priesthood is neither identical across them nor pathological merely by existing. Political arbitration can be distributed across law, electorate, courts, parties and institutions. The seam establishes no universal priest→king→politician chronology and no single actor need hold the whole field. Its source/office operation survives these uncompleted historical tasks.
+
+## #4
+
+Delegation makes fidelity practical. The authorised agent needs a named role, bounded powers and a route for the consequences of work to change the commission. Return includes refusal when obedience would destroy the relation the office serves. C48 supplies trust's lived dependence without reducing it to prediction; C53 follows labour and costs. Ostrom's recognised local rule-making and nested governance offer a distinct institutional comparison, qualified by her warning against transplanting rigid principles.
+
+## #5→0
+
+Covenant renews authority through answerability to the shared condition. In this canonical usage it exceeds contract between supposedly self-sufficient parties because their relation helps constitute the parties and the field in which they act. This is the essay's relational distinction, not a universal legal definition of contract. Renewed authorisation remains finite: the office can decide, receive dissent and consequence, revise its scope and return its power without claiming to be the source it serves.
+
+### Declared field
 
 **Argument consumers:** A19, A23–A25, A28–A31, A35. **Movement consumers:** faith/covenant, delegation, commons and agent-governance movements.
 
@@ -16,8 +34,14 @@ Nearest neighbours are C29, C48 and C53. Covenant is broader than contract in th
 
 **Carrier disposition:** CREATE as canonical C28.
 
-## Unresolved Delta
+### Developmental provenance
+
+[Core SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and its [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>) govern the native operation. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and [QH](../../../quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md) are developmental/ratified carriers, with mixed dialogue attribution retained. The [covenant seam](../../../../../working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md) specifies primary arbitration and derivative offices. These establish the essay's argument; historical claims inside them require their own sources.
+
+[Trust revision SOURCE](../sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md) and [direct carrier](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md) supply trust and delegated responsibility. [Ostrom SOURCE](../sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md), q001–002, supplies a qualified comparison, not proof of a proposed AI commons. Exact covenant/compact/contract/mandate distinctions and each theological lineage remain separate historical debts.
+
+### Remaining depth
 
 Restore legal/theological distinctions among covenant, compact, contract, mandate and trust; clarify finite versus ultimate source offices.
 
-**Depth Restoration: pending**
+**Depth Restoration: enriched; named historical and implementation debts retained.**

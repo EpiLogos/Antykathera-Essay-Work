@@ -1,12 +1,30 @@
 # C25 — Counterfeit Gathering
 
-**Definition.** Counterfeit Gathering is the production of an apparent whole by arranging differences under a relation whose source and terms cannot genuinely revise the gathering. It gathers by enclosure rather than reciprocal participation.
+## #0
 
-The distinction exists because a system can preserve visible plurality while still monopolising the rule by which plurality counts. Dashboards, taxonomies, empires, theories or platforms may display many parts while a hidden criterion decides their meaning and relation.
+Counterfeit Gathering produces an apparent whole by arranging differences under a relation whose source and terms cannot be revised by those gathered. Its operation is plural inclusion under protected relation. Fusion removes difference; severance removes relation; counterfeit gathering keeps both visible while arresting their reciprocity.
 
-Its operation is **plural inclusion under protected relation**. This distinguishes it from fusion, where difference disappears, and severance, where relation disappears. C25 keeps both visible but makes their relation non-reciprocal.
+## #1
 
-Nearest neighbours are C22 Counterfeit Symbolon, C26 Monoisation and C27 Protected Account. The positive complement is C54 Commons / Non-Monopoly, where shared conditions do not become owned source.
+The older carrier recovers the precise opening in Heidegger: *Ge-stell* is named through *Ge-* as gathering, with *Gebirg* and *Gemüt*, then defined as gathering people into the ordering of beings as standing-reserve. Taylor's Argued reading names the resulting counterfeit: the outward shape of throwing-together operates through arrest and orderability. Heidegger supplies the gathering/ordering relation; the two-logics name and constructive return belong to the essay.
+
+## #2
+
+The missing operation is return. Ordering establishes a totality-condition through which a world can be addressed at all; the failure occurs when this defining-towards-wholeness arrests at enclosure. A taxonomy, platform or evaluative field can contain many positions while reserving to itself what counts as a position, an error or a successful answer. More entries then enlarge the enclosure without altering its governing relation.
+
+## #3
+
+The Homeric carrier makes this visible as a complete sequence: Helios detects, Hephaestus forges concealed bonds, the lovers are arrested, the audience gathers, the relation becomes a demand for repayment, and Hermes treats exposure as an acceptable price. Capture and spectacle do not conclude the scene. Poseidon offers to stand for Ares at his own cost; accepted surety permits release. This technological and trust reading is the essay's development of the narrated sequence, not Homer's theory of surveillance. Harmonia's genealogy belongs to another source, not this song.
+
+## #4
+
+Q27 gives the political operation: divide participants into actionable units, conceal the combine-phase, optimise each under a central measure, then present that order as their necessary unity. Horizontal dependencies still sustain the field, but access to unity returns vertically through the apparatus. The defect lies in who may revise the cut and the coordination, not in counting or organisation as such.
+
+## #5→0
+
+The positive return restores the gathered participants' capacity to alter the gathering. C54's commons must carry consequences back to the rule and its authorised office. Ostrom supplies a source-distinct institutional neighbour: most individuals affected by the resource regime can participate in modifying its rules, local rule-making is recognised, and governance nests; her next passage warns against rigid transplantation. These conditions guide a proposed commons without verifying its implementation. The achieved whole remains capable of renewed relation rather than merely further ordering.
+
+### Declared field
 
 **Argument consumers:** A18–A20, A22, A24, A29, A35. **Movement consumers:** Symbolon, world-atlas, politics-of-count and commons movements.
 
@@ -16,8 +34,14 @@ Nearest neighbours are C22 Counterfeit Symbolon, C26 Monoisation and C27 Protect
 
 **Carrier disposition:** **MERGE/RETAIN-PROVENANCE** for current `counterfeit-gathering.md`; C25 owns canonical identity and the older carrier retains unique developed material.
 
-## Unresolved Delta
+### Developmental provenance
+
+[Core SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and its [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>) govern the native operation. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and [QH](../../../quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md) are developmental/ratified carriers, with mixed dialogue attribution retained. The [covenant seam](../../../../../working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md) specifies primary arbitration and derivative offices. These establish the essay's argument; historical claims inside them require their own sources.
+
+[Older developed carrier](counterfeit-gathering.md) retains its unique provenance. [Heidegger SOURCE](../sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md), especially q007–009, supplies the gathering/standing-reserve account; Lovitt 1977 print collation remains pending. [Homer SOURCE](../sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md) supplies the full capture-to-release sequence; q004–008 remain wording-verified with Perseus reread pending. No Heidegger/Homer historical connection is claimed. [Ostrom SOURCE](../sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md), q001–002, supplies the qualified governance comparison.
+
+### Remaining depth
 
 Restore concrete institutional/technical examples and relation to aggregation, totalisation and representation.
 
-**Depth Restoration: pending**
+**Depth Restoration: enriched; named historical and implementation debts retained.**

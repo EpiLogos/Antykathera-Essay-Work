@@ -73,3 +73,8 @@ Restored recognition’s changed particular return and Arche-Topos as place-gene
 ### C51/C61/C64 — 2026-09-07
 
 Restored Epi-Logos’s ratified harmonisation office, bidirectional whole-bearing disclosure and productive transformation of the containing field. Review corrected the repeated unconfirmed noncoincidence quotation to developmental paraphrase with corpus-sweep/D4 provenance debt. 24 resolved links, raw sixfold and whitespace checks passed. Focal, analogical and causal governance remains settled architecture with distinct historical source gates.
+
+
+### A34–A36, C21–C28 — 2026-09-07
+
+Restored first-class ontological dependence, loving source-return and Integral Zero, together with living/counterfeit symbols, distinct severance/fusion, counter-generation and covenant before derived office. Peer review restored the full native parent `/ = −/−`; C26 retains the forgotten condition within candidate `(1)`, and C25 preserves Ostrom's affected-participant scope. 134 resolved links, intended-target, raw sixfold and whitespace checks passed. External historical and empirical gates remain distinct from authorial claim strength.
