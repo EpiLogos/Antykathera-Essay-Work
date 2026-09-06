@@ -52,6 +52,19 @@ class P2WorkflowTests(unittest.TestCase):
             self.assertEqual(result['gates']['effects'][0]['returncode'], 0)
             self.assertIn('debt_counts', result['gates']['doctor']['data'])
 
+    def test_target_slice_recovers_real_lines_and_rejects_whole_quilt(self):
+        path = workflow.live_quilts(ROOT)[0]
+        lines = path.read_text().splitlines()
+        item = {'path': str(path.relative_to(ROOT)), 'start_line': 3, 'end_line': 8,
+                'relation': 'recovery-anchor-verification', 'provenance': 'actual-developmental-quilt'}
+        result = workflow.extract_slice(ROOT, item)
+        self.assertEqual(result['text'], '\n'.join(lines[2:8]))
+        self.assertEqual(len(result['sha256']), 64)
+        with self.assertRaisesRegex(ValueError, 'whole-quilt'):
+            workflow.extract_slice(ROOT, {**item, 'start_line': 1, 'end_line': len(lines)})
+        with self.assertRaisesRegex(ValueError, 'Invalid source range'):
+            workflow.extract_slice(ROOT, {**item, 'end_line': len(lines) + 1})
+
     def test_actual_unresolvable_identity_is_a_command_failure(self):
         result = workflow.command_result(workflow.run_okf(ROOT, 'links', 'p2-deliberately-unresolvable-negative-control', '--json'))
         self.assertNotEqual(result['returncode'], 0)

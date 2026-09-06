@@ -134,6 +134,77 @@ def cmd_intake(args: argparse.Namespace) -> int:
     return 0
 
 
+def input_file(root: Path, relative: str) -> Path:
+    path = (root / relative).resolve()
+    if not path.is_relative_to(root) or not path.is_file():
+        raise ValueError(f"Input is not a file inside the project: {relative}")
+    return path
+
+
+def extract_slice(root: Path, item: dict[str, Any]) -> dict[str, Any]:
+    path = input_file(root, item["path"])
+    lines = path.read_text(encoding="utf-8").splitlines()
+    start, end = item["start_line"], item["end_line"]
+    if not isinstance(start, int) or not isinstance(end, int) or not 1 <= start <= end <= len(lines):
+        raise ValueError(f"Invalid source range: {item}")
+    if path.parent == root / QUILT_DIRECTORY and start == 1 and end == len(lines):
+        raise ValueError("Page packets use target-keyed quilt slices, never whole-quilt dumps")
+    if not item.get("relation") or not item.get("provenance"):
+        raise ValueError("Every source slice needs its relation and provenance")
+    return {**item, "sha256": hashlib.sha256(path.read_bytes()).hexdigest(),
+            "text": "\n".join(lines[start - 1:end])}
+
+
+def cmd_packet(args: argparse.Namespace) -> int:
+    root = Path(args.project_root).resolve()
+    try:
+        depth = depth_inputs(root, live_quilts(root))
+        queue = json.loads(Path(args.queue).read_text(encoding="utf-8"))
+        if queue.get("status") != "reconciled":
+            raise ValueError("Page packets require a reconciled census queue")
+        acceptance = json.loads(input_file(root, queue["depth_acceptance"]).read_text(encoding="utf-8"))
+        if acceptance.get("status") != "accepted" or acceptance.get("argument_depth") != depth:
+            raise ValueError("Argument-depth review is absent or stale against current packet hashes")
+        matches = [e for e in queue["elements"] if e.get("record_id") == args.target]
+        if len(matches) != 1:
+            raise ValueError(f"Target must have exactly one admitted identity: {args.target}")
+        element = matches[0]
+        for field in ("canonical_home", "register", "record_type", "authority", "argument_depth", "direct_carriers", "source_houses", "source_slices", "relations", "register_contract"):
+            if field not in element:
+                raise ValueError(f"Target missing required input field: {field}")
+        if not element["argument_depth"] or not element["direct_carriers"] or not element["source_slices"]:
+            raise ValueError("Target needs recovered Argument depth, direct carriers, and target-keyed slices")
+        accepted = {d["argument_id"]: d for d in depth}
+        selected_depth = [accepted[identity] for identity in element["argument_depth"]]
+        inputs = []
+        for relative in [*element["direct_carriers"], element["register_contract"],
+                         ".agents/skills/return-of-zero-pages/SKILL.md", ".agents/skills/return-of-zero-links/SKILL.md"]:
+            path = input_file(root, relative)
+            inputs.append({"path": relative, "sha256": hashlib.sha256(path.read_bytes()).hexdigest()})
+        sources = []
+        for relative in element["source_houses"]:
+            source = input_file(root, relative)
+            if source.name != "SOURCE.md":
+                raise ValueError(f"Source-house input must name SOURCE.md: {relative}")
+            notes = source.with_name("NOTES.md")
+            sources.append({"source": relative, "source_sha256": hashlib.sha256(source.read_bytes()).hexdigest(),
+                            "notes": str(notes.relative_to(root)) if notes.is_file() else None,
+                            "notes_sha256": hashlib.sha256(notes.read_bytes()).hexdigest() if notes.is_file() else None,
+                            "notes_policy": "read in full; authorial provenance; never mutate"})
+        packet = {"schema_version": 1, "target": element, "argument_depth": selected_depth,
+                  "required_inputs": inputs, "sources": sources,
+                  "slices": [extract_slice(root, item) for item in element["source_slices"]],
+                  "raw_skeleton": "# " + element.get("title", args.target) + "\n\n" + "\n\n".join("## " + p for p in ["#0", "#1", "#2", "#3", "#4", "#5→0"]),
+                  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"}
+    except (OSError, ValueError, TypeError, KeyError) as exc:
+        print(f"error: {exc}", file=sys.stderr)
+        return 1
+    output = Path(args.output)
+    output.write_text(json.dumps(packet, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"wrote target packet: {output}")
+    return 0
+
+
 def run_okf(root: Path, *args: str) -> subprocess.CompletedProcess:
     cmd = [sys.executable, "tools/okf-workspace.py", "--project-root", str(root), *args]
     return subprocess.run(cmd, cwd=root, capture_output=True, text=True)
@@ -228,6 +299,13 @@ def main(argv: list[str] | None = None) -> int:
     p_intake.add_argument("--project-root", default=argparse.SUPPRESS, help="project root path")
     p_intake.add_argument("--output", default="intake.json", help="output manifest path")
     p_intake.set_defaults(func=cmd_intake)
+
+    p_packet = sub.add_parser("packet", help="extract a target-keyed packet from a reviewed census queue")
+    p_packet.add_argument("--project-root", default=argparse.SUPPRESS)
+    p_packet.add_argument("--queue", required=True)
+    p_packet.add_argument("--target", required=True)
+    p_packet.add_argument("--output", required=True)
+    p_packet.set_defaults(func=cmd_packet)
 
     p_hygiene = sub.add_parser("hygiene", help="run link/effect validation gates")
     p_hygiene.add_argument("--project-root", default=argparse.SUPPRESS, help="project root path")

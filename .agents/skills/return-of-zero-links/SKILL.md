@@ -32,9 +32,9 @@ Do not use to infer links from vocabulary or shared keywords; inferred links are
 5. **Run link hygiene.** Validate with:
    ```bash
    python3 tools/okf-workspace.py --project-root . doctor --json
-   python3 tools/okf-workspace.py --project-root . dangling
+   python3 tools/okf-workspace.py --project-root . links <canonical-page-path> --json
    ```
-   *Done when no dangling targets or invalid exact heading anchors remain.*
+   Use each changed page’s exact canonical path. This checkout has no `dangling` subcommand; `links` requires an artifact argument. Inspect unresolved targets and exact heading anchors, and distinguish inherited doctor debt from failures introduced by the current batch. *Done when the batch has no dangling targets or invalid exact heading anchors.*
 
 6. **Aggregate MOC/intents only after links exist.** Once the written map is stable, generate contents lists extended to intents — what a file implicates, not what it mentions. This layer is navigation-only; it never precedes authorship. *Done when the MOC is a mirror of the written graph, not its substitute.*
 

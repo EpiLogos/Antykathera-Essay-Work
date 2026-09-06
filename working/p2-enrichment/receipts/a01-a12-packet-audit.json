@@ -1,0 +1,89 @@
+{
+  "scope": "working depth recovery, not canonical restoration",
+  "packets": [
+    {
+      "argument": "A01",
+      "quilt_files": 6,
+      "missing": [],
+      "bad_markers": [],
+      "bytes": 16955
+    },
+    {
+      "argument": "A02",
+      "quilt_files": 6,
+      "missing": [],
+      "bad_markers": [],
+      "bytes": 17267
+    },
+    {
+      "argument": "A03",
+      "quilt_files": 6,
+      "missing": [],
+      "bad_markers": [],
+      "bytes": 15806
+    },
+    {
+      "argument": "A04",
+      "quilt_files": 6,
+      "missing": [],
+      "bad_markers": [],
+      "bytes": 16553
+    },
+    {
+      "argument": "A05",
+      "quilt_files": 6,
+      "missing": [],
+      "bad_markers": [],
+      "bytes": 16327
+    },
+    {
+      "argument": "A06",
+      "quilt_files": 6,
+      "missing": [],
+      "bad_markers": [],
+      "bytes": 16672
+    },
+    {
+      "argument": "A07",
+      "quilt_files": 6,
+      "missing": [],
+      "bad_markers": [],
+      "bytes": 17164
+    },
+    {
+      "argument": "A08",
+      "quilt_files": 6,
+      "missing": [],
+      "bad_markers": [],
+      "bytes": 16138
+    },
+    {
+      "argument": "A09",
+      "quilt_files": 6,
+      "missing": [],
+      "bad_markers": [],
+      "bytes": 17600
+    },
+    {
+      "argument": "A10",
+      "quilt_files": 6,
+      "missing": [],
+      "bad_markers": [],
+      "bytes": 16527
+    },
+    {
+      "argument": "A11",
+      "quilt_files": 6,
+      "missing": [],
+      "bad_markers": [],
+      "bytes": 15764
+    },
+    {
+      "argument": "A12",
+      "quilt_files": 6,
+      "missing": [],
+      "bad_markers": [],
+      "bytes": 17745
+    }
+  ]
+}
