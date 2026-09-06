@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-06T22:41:59.175030+01:00",
+  "branch": "agent/t10-t16-p1-propagation",
+  "accepted_head": "347e53dd80a275da30df3e5605dc38c23f7118e1",
+  "stash_ref": "stash@{0}",
+  "stash_oid": "1bc0d43b42e01c3982795e310d2a8f31a920ac04",
+  "stash_message": "pre-P2-handoff-20260906-223929",
+  "initial_tree_clean_verified": true,
+  "safety_branch": null,
+  "quilt": {
+    "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+    "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+    "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+    "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+    "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+    "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+  },
+  "protected_notes": {
+    "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md": "609fc9dc801e535013ef2d51500f2a40d64735bb149d48818bfb55c304c52193",
+    "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/NOTES.md": "e57f6d10a874fd70856c27d278d62af0a1576dc04bd2c6d9596f4b693e992d50",
+    "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/NOTES.md": "23a9bbb954eda15cd3491616863c1a32483b11a8b7d11599e0df6fd6cab3330a",
+    "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md": "768da367dfd6ece009bc1c6717e64156d3ac16e38b570e513ae95939c6e7bc0f",
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/NOTES.md": "f89b884d2c315e65efbeb5c2ceae441543b08f13c6686f552531fcd142c94949"
+  }
+}

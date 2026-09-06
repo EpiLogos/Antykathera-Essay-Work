@@ -1,0 +1,55 @@
+[
+  {
+    "check": "rooms",
+    "command": [
+      "python3",
+      "tools/build-section-rooms.py",
+      "--project-root",
+      ".",
+      "--check"
+    ],
+    "exit_code": 1,
+    "stdout_bytes": 0,
+    "stderr": "error: section rooms are stale or incomplete:\n  - submission-package/essay/section-rooms/README.md\n  - submission-package/essay/section-rooms/06-objective-internality/ROOM.md\n  - submission-package/essay/section-rooms/07-instrument-returns/ROOM.md\n"
+  },
+  {
+    "check": "sources",
+    "command": [
+      "python3",
+      "tools/build-source-projections.py",
+      "--project-root",
+      ".",
+      "--check"
+    ],
+    "exit_code": 0,
+    "stdout_bytes": 37,
+    "stderr": ""
+  },
+  {
+    "check": "doctor",
+    "command": [
+      "python3",
+      "tools/okf-workspace.py",
+      "--project-root",
+      ".",
+      "doctor",
+      "--json"
+    ],
+    "exit_code": 0,
+    "stdout_bytes": 318404,
+    "stderr": ""
+  },
+  {
+    "check": "dangling",
+    "command": [
+      "python3",
+      "tools/okf-workspace.py",
+      "--project-root",
+      ".",
+      "dangling"
+    ],
+    "exit_code": 2,
+    "stdout_bytes": 0,
+    "stderr": "usage: okf-workspace.py [-h] [--project-root PROJECT_ROOT]\n                        {status,find,open,links,backlinks,trace,neighbourhood,path,context,section-context,effects,doctor} ...\nokf-workspace.py: error: argument command: invalid choice: 'dangling' (choose from status, find, open, links, backlinks, trace, neighbourhood, path, context, section-context, effects, doctor)\n"
+  }
+]
