@@ -1,155 +1,211 @@
 ---
 title: "#39 Ought-Be Argument Architecture"
-status: architecture-determined
+status: authorially-ratified-36-argument-field
 issue: 39
+ratified: 2026-09-06
 ---
 
 # Ought-Be Argument Architecture
 
-The Argument field is the essay's claim-and-dependency architecture. It is not a collection in which every recovered record has equal theorem standing.
-
-## Identity layers
-
-Three identities remain distinct and reciprocal:
+The Argument architecture has two different scales which must not be collapsed again:
 
 ```text
-CT-*     theorem / whole-relation identity
-Arg 01–21 provenance address and claim carrier
-M01–48   linear/traversal address
+CORE ARGUMENT SPINE
+= the necessary dependency / traversal by which the sovereign essay argues
+= composed through global Movements 01–48
+
+FULL ARGUMENT FIELD
+= 36 canonical semantic Argument identities
+= the richer field which bears, supports, crosses and deepens that spine
 ```
 
-`CT-*` determines what relation must remain coherent across the essay. An Argument record states or bears part of that relation with a declared standing. A Movement is where that work becomes linear prose. None is a substitute for the others.
+The old six `CT-*` summaries are not a theorem ontology. They are retired from canonical dependency and may survive only as optional integration summaries over the real field.
 
-## The six theorem contracts
+## Identity and provenance layers
 
-### CT-01 — Self-Identity through Difference
-
-**Whole relation.** The Real is self-identity. Self-reference requires differentiation without loss of identity; determination is therefore difference internal to identity rather than an independently grounded second substance.
-
-**Argument office.** `19` is the principal ontology bearer. `01` supplies the consequence that a determination cannot coincide with the condition of its own determinability. `12` supplies formal dependency. `20` supplies historical Episteme.
-
-**Symbolon unity.** `0/1 ↔ 1/0`: ground, mediation and determination, with return.
-
-**Matheme implication.** `0/1`; `[00,01,10,11] + [0,1] = 4+2`; the complete eight-determination field must remain a transverse formal development rather than an alternative movement numbering.
-
-**Mytheme implication.** Images of reflection, return, wheel/torus and whole/part may carry the operation where recovered; no single image is the theorem.
-
-**Episteme implication.** Zero/subject histories, QL derivation, philosophical sources and the distinction between authored theorem and neighbouring mathematics remain explicit.
-
-**Burden.** linear-essential at the opening and mathematical substrate; radial-depth for historical/formal derivations.
-
-### CT-02 — Determination and Formal Limit
-
-**Whole relation.** A determination is bounded because it is a determination. Recursive objectification can alter the object but cannot turn the condition of determination into one final object without reproducing the same non-coincidence.
-
-**Argument office.** `01` bears the formal-limit theorem; `18` develops the trust/faith consequence; `15` supplies the paradox method; `20` supplies the historical braid.
-
-**Symbolon unity.** The slash remains live: finite determination relates to a condition it cannot possess.
-
-**Matheme implication.** Keep `0/1` as the exact non-coincidence carrier. Do not invent a stronger equation. The approachable/absolute distinction is an authored semantic determination of the limit, not a new arithmetic identity.
-
-**Mytheme implication.** Apollo–Daphne performs form meeting the limit of possession; Job carries contradiction into address rather than closing it.
-
-**Episteme implication.** The ratified aphorism is the only aphorism admitted here:
-
-> **The approachable limit is the basis of investigation; the absolute limit is the basis of faith; the limit of investigation is the limit of determination; the limit of faith is never to be determined.**
-
-Historical/formal neighbours deepen and test this theorem; none licenses conversion of the absolute limit into an object called the Absolute.
-
-### CT-03 — Differentiation and Relational Return
-
-**Whole relation.** Dia and Syn are conjugate operations. Dia differentiates; Syn gathers differences into a relation capable of answer and return. Dia without Syn becomes severance. Syn without maintained difference becomes fusion/counterfeit gathering.
-
-**Argument office.** `03` bears the theorem. `07` is a whole-Mytheme witness. `10` supplies Vāk/Logos articulation depth. `15` tests cross-register paradox.
-
-**Symbolon unity.** *sym-ballein* is not a decorative etymology for Symbolon; it names the operation by which separated determinations can belong to one relation without cancellation.
-
-**Matheme implication.** Preserve the recovered contrast between polar differentiation and relational return, including `(0/1)/(1/0)` where the QL carrier is exact. Do not equate an etymological opposition with a mathematical identity.
-
-**Mytheme implication.** The complete Ares–Aphrodite–Harmonia–Eros–Hephaestus–Poseidon relation is the principal whole-Mytheme body. Hephaestus's net is not extracted as a standalone theorem.
-
-**Episteme implication.** Apoha supplies determination-through-exclusion; Vāk/Logos supplies articulation; the symbol/account/trust and homology/analogy fields bound lexical and comparative claims.
-
-### CT-04 — Contextual Internality and Situated Agency
-
-**Whole relation.** Subjectivity is not made objective by turning the subject into another presented object. Objective Internality makes the mediating context-world inspectable: sources, memories, tools, policies, lenses, exclusions, transformations and standing can become objects of inquiry while the subjective pole remains unobjectifiable as such.
-
-**Argument office.** `02` bears the theorem. `05` preserves the artificial-subjectivity boundary. `13` supplies the transverse Tattva meta-context. `08` derives deferential intelligence. `06` applies the architecture to AHI/O:I.
-
-**Symbolon unity.** pramātṛ / pramāṇa / prameya is carried as subjective pole / mediating internality / presented determination, under a context that can reopen the relation.
-
-**Matheme implication.** Context is the P4 aperture: the field and relations among prior positions become jointly available. Nested contexts may internalise a complete local `0/1`; CF5 names maximal recursive availability only where the actual field earns it.
-
-**Mytheme implication.** Apollo–Dionysus–Daphne carries finite form, participation and the refusal of possession. Bimba–Pratibimba supplies a reflective image while retaining its distinct metaphysical and epistemic offices.
-
-**Episteme implication.** The §5 sequence remains exact: mathematical transform → differential selection → J-Space → hidden evaluator/gauge → Bimba Map → experimental Return. Agentworld is the venue/context horizon, not proof of the theorem. `world-model ≠ world`; `model of other ≠ other`.
-
-### CT-05 — Recursive Process, Arche-Topos and Return
-
-**Whole relation.** What appears as a thing is carried by operations and relations. An achieved determination can become a local condition for a nested act, so recursion is real only when context and provenance make the shift of office legible and Return permits the result to revise its ground.
-
-**Argument office.** `14` bears process ontology; `04` bears arche-topos and cross-register form. `12` gives dependency order; `16` is Bohm/dialogue warrant; `17` supplies exact toroidal topology plus bounded physical analogy; `09` is a Śaiva source-neighbour.
-
-**Symbolon unity.** `5 → 0` is achieved determination returning as condition without erasing the path by which it was achieved.
-
-**Matheme implication.** `4+2`, the eight determinations, nested context frames and toroidal/topological recurrence are kept distinct by standing. The torus may be exact topology; tokamak circulation is a bounded analogy; neither proves the metaphysical theorem.
-
-**Mytheme implication.** wheel, instrument, Antikythera mechanism, reflection and circulation may carry the same return operation when locally recovered.
-
-**Episteme implication.** Bohm, Prakāśa–Vimarśa, process/computation and the Bimba Map enter with source standing intact. The metaphysical Bimba/Pratibimba relation and the §5 epistemic Bimba Map relation are recursive offices, not rivals.
-
-### CT-06 — Trust, Arbitration and Common World
-
-**Whole relation.** Relation and standing precede their exhaustive codification. When trust can no longer remain tacit, arbitration makes a consequential cut. Legitimate arbitration remains answerable to source, persons, context and consequence; Hybris occurs when the local measure assumes the office of its own determining condition. Regard reopens the cut; Anamnesis/Recognition returns the achieved determination through its provenance.
-
-**Argument office.** `18` bears trust/faith; `11` bears the common-world/mono-poly consequence. `08` gives a technical norm; `21` is a political/cultural witness; `07` supplies surety/trust Mytheme.
-
-**Symbolon unity.** The whole arbitration field is itself a higher relational Symbolon:
+Three identities remain distinct:
 
 ```text
-6 : 6+6′ : 6′
-0 :   /   : 1
+A01–A36
+canonical semantic Argument identity
+
+historical Argument 01–21
+provenance address / inherited developed carrier
+
+global Movement 01–48
+linear/traversal address in the essay
 ```
 
-with the ratified conjugate sixfold and generated relations preserved exactly.
+An `A##` identity answers **what distinct argument exists in the whole field**. A historical `01–21` file answers **where important prior argument material currently lives**. A Movement answers **where the sovereign essay performs that work linearly**.
 
-**Matheme implication.** The exact formal object is the conjugate form `6 / 6′ / (6+6′)` and its generated six processual relations. `3:3`, `4:2`, and `6×6` are related readings/recursions, not arithmetic identities.
+No layer is a replacement for another.
 
-**Mytheme implication.** Job carries fidelity under unresolved contradiction; Ares–Aphrodite–Hephaestus–Poseidon carries exposure, debt, surety and release; *The Prisoner* may remain a negative political witness to numbering and hidden source.
+## The core spine
 
-**Episteme implication.** Preserve both mature lexical cycles:
+The core spine must be recovered from the actual 36-Argument dependency field and the 48 Movements rather than replaced by a smaller assistant-authored summary ontology.
+
+At #39 resolution its governing passage is:
 
 ```text
-Fides → Topos → Logos → Nomos → Natio → Credere → Fides
+Subject / faithful definition
+→ Copula / Self-Identity / immutable limit
+→ differentiating mind, Script and world-making
+→ Advent of Zero: zero becomes exact sign
+→ Two Ones: 0 = One / 1 = All
+→ Mono/Poly
+→ Dia / Syn
+→ process, ratio/rationality and QL-native formal disclosure
+→ Primordial Symbolon and its Eight Determinations
+→ arche-topos / psyche / image / individuation
+→ World-Picture → World-Atlas
+→ trust / arbitration / covenant / mediating office
+→ Objective Internality: mind as worldhood
+→ Self and Other
+→ delegation / power / Objective Co-Internality / deference
+→ epistemic cultivation as a technical-ontological research burden
+→ idealist order of dependence / vocation
+→ Advent of Integral Zero: sign becomes Symbol again
+→ Return
 ```
 
-and the political/theological seam:
+This is a **routing statement**, not a compressed substitute for the developed prose. The 48 Movements remain the exact linear composition.
+
+## The 36 Argument field
+
+The detailed top-level determinations and depth routes live in `ARGUMENT-CONCEPT-ETYMOLOGY-RECENSUS.md`. The canonical identity set is:
+
+| ID | Argument | Architectural office / immediate relation |
+|---|---|---|
+| A01 | Subject, God and Faithful Definition | opening subject/definition limit; begins the spine |
+| A02 | Copula / Self-Identity through Difference | relational identity; grounds determination without severance |
+| A03 | Immutable Gap / Formal Limit | non-coincidence of determination and determining condition |
+| A04 | Diaphaneity / Contextual Transparency | form becoming transparent to context/ground |
+| A05 | Prakāśa–Vimarśa | sourced metaphysical neighbour for appearing/reflexive articulation |
+| A06 | Vāk | articulation, address and return of word toward source |
+| A07 | Vikalpa–Saṃkalpa / Script — Frozen Conditioned Will | differentiation/selection becoming inherited condition |
+| A08 | Apoha / Constitutive Exclusion | exclusion as constitutive of bounded determination |
+| A09 | Tattvic Differential Field | manifestation/contraction/worldhood transverse field |
+| A10 | Advent of Zero | zero becomes mathematically operative sign |
+| A11 | The Two Ones — `0 = One`, `1 = All` | source-One / manifest-All prior to the two accountings |
+| A12 | Mono/Poly — One / All, Whole / Many | metaphysical Self-Identity/Self-Difference and later power consequences |
+| A13 | Two Logics of Two — Dia / Syn | differentiation and relational gathering/return |
+| A14 | Computational Process Ontology | process prior to achieved thing; recursive exact transformation |
+| A15 | Ratio / Rationality — Measure, Reckoning, Harmony and the Account | rational determination, measure and the return of account to ground |
+| A16 | Arche-Topos as Differential Field | generative place-making field |
+| A17 | Toroidal Circulation and the Arche-Topos | exact topology of retained opening, winding and non-dead return |
+| A18 | Primordial Symbolon and Its Eight Determinations | living `0/1` whole differentiated through parent/sixfold/return |
+| A19 | Complex as Local Arbitration Regime | local psychic/agentic basin of valuation and measure |
+| A20 | Image / Valuation / Possession | image as energetic mediation; living symbol versus possession/idol |
+| A21 | Individuation / Recognition | increasing indivisibility through differentiated recognition |
+| A22 | World-Picture → World-Atlas | specific movement from exhaustive picture to situated chart plurality |
+| A23 | Trust, Faith and the Formal Limit | finite dependency and conscious continuation at non-possessable limit |
+| A24 | Arbitration and the Usurpation of Measure | bounded criterion becoming power; Hybris as source-office usurpation |
+| A25 | Covenant / Mediating Office / Source Authority | primary standing versus derivative sovereignty |
+| A26 | Objective Internality — Mind as Worldhood | operative interior as dynamically organised context-world |
+| A27 | Self and Other — Unity without Possession | ontological unity with ethical/phenomenological irreducibility of Other |
+| A28 | Authored Ground / Positional Delegation | recursively scoped agency without transfer of ultimate source-office |
+| A29 | Power / Delegated Labour / Return | consequential asymmetry and revision-capable delegation |
+| A30 | Objective Co-Internality | mutually conditioning operative worlds without ontology collapse |
+| A31 | Deferential Intelligence | preserve the developed model-revising encounter argument in full |
+| A32 | Reflective Field / THE MIRROR THAT MOVES FIRST | reflection entering causal circulation; AHI as coupled field, not super-subject |
+| A33 | Epistemic Cultivation / Operational Parity | epistemic/ontological AI research as coequal engineering burden; discriminable technical consequences |
+| A34 | Idealism / Order of Dependence | priority of appearing/conditions without private-ego solipsism |
+| A35 | Compassion / Sensitivity to Origins / Epi-Logos as Vocation | return toward origins, conditions and affected others |
+| A36 | Advent of Integral Zero | exact sign becomes Symbol again: sign plus its relation beyond the sign |
+
+## Quaternal Logic and theorem provenance
+
+Quaternal Logic is the general formal logic/research field in which many of the central arguments receive exact form. It therefore has an umbrella relation to, among others:
 
 ```text
-source / divine relation
-→ covenant / primary arbitration
-→ standing / obligation / law / peoplehood
-→ priest / king / politician as mediating offices
-→ interpretation / execution
-→ fidelity to source OR usurpation of source-office
+A11 Two Ones
+A12 Mono/Poly
+A13 Dia / Syn
+A14 Process
+A15 Ratio / Rationality
+A16 Arche-Topos
+A17 Toroidal circulation
+A18 Primordial Symbolon / Eight Determinations
 ```
 
-`(no)name` / Power remains outside required essay architecture. Peters remains later source-house work.
+This umbrella relation **does not merge those arguments into “the QL argument.”** QL supplies formal generation, relation and traversal; the individual Arguments retain distinct claims and source/depth burdens.
 
-## Reciprocal record contract
+The Taylor `Core Theorems — Pithy` file is likewise not a `Core Theorem Bridge`. It routes into the complete authorial theorem source and deeper updated QL/MEF / non-dual-binary provenance. Downstream agents must follow those actual carriers when theorem detail is load-bearing.
 
-Every rebuilt Argument page must state:
+## Important office rulings
 
-1. theorem relation(s) served;
-2. its own claim and standing;
-3. dependency Arguments and return Arguments;
-4. exact Concept dependencies;
-5. exact Etymology field + consumed operation/register where lexical work is load-bearing;
-6. source/evidence standing;
-7. Section/Movement consumers;
-8. transverse relation(s);
-9. burden office: `linear-essential`, `supporting-visible`, `radial-depth`, or `whole-form-Mytheme`;
-10. unresolved source/authorial delta;
-11. Symbolon projection contract where it is a theorem bearer.
+### Paradox
 
-The rebuild may merge prose or move burdens across surfaces. It may not destroy the stable `01–21` identity layer without an explicit migration ledger.
+Paradox is no longer a standalone Argument identity. It is a first-class Concept, **Paradox / Transforming the Containing Field**, consumed by A03, A15–A18 and A23. This preserves the operation without pretending that every paradox instance constitutes a separate spine step.
+
+### Agent subjectivity
+
+`Agent Subjectivity Must Remain Open` is no longer a standalone Argument identity. It is a governing Concept/proof-boundary across A26–A34: agency, Objective Internality, self-description and Computational Vimarśa do not decide phenomenal localisation.
+
+### Epistemic Cultivation / Operational Parity
+
+A33 **remains a core Argument**. The essay is not saying that epistemology and ontology merely accompany AI engineering. It argues that, as model capability, EBMs, world models, alignment architectures and agentic systems develop, the epistemic/ontological investigation of the worlds, gauges, interiors and agencies being produced is itself part of responsible technical development. Operational parity gives the experimental discipline: a formal distinction promoted into software should make some inspectable difference rather than survive as decorative terminology.
+
+### Worldhood and World-Atlas
+
+`Conditions of Worldhood` is a Concept, not an Argument replacing A22. It supplies circumstance, horizon, perspective, thrownness, material/social context and the conditions under which a world can appear. A22 remains the specific movement **World-Picture → World-Atlas** within that broader field.
+
+### Objective Internality
+
+A26's full claim is **Mind as Worldhood**. Objective Internality is not a list of inspectable metadata around an otherwise sealed mind. It is the argument that an operative interior is constituted through a dynamically organised context-world — language, memory, tools, others, institutions, permissions, materials and environment — while the subjective pole remains unobjectifiable as such.
+
+### Arbitration
+
+A24 is not a list of four etymologically interesting words. The Argument is **Arbitration and the Usurpation of Measure**. The mature Arbitration/Hybris/Regard/Anamnesis Etymology field supplies its exact generated operations and lexical histories.
+
+## Symbolon relation
+
+A18 is the substantive Argument for the **Primordial Symbolon and Its Eight Determinations**.
+
+Do not create a second Argument called “Symbolon whole-form” merely to describe the wiki architecture. The routing of Argument/Concept/Section into Matheme/Mytheme/Episteme belongs to the reusable **Symbolon Disclosure Architecture** Concept and the repository protocol.
+
+The relation is:
+
+```text
+A18 Primordial Symbolon
+        ↓ disclosure / routing
+C61 Symbolon Disclosure Architecture
+        ↓
+Matheme / Mytheme / Episteme
+        ↕
+Argument / Concept / Section-Movement
+        ↺ Return
+```
+
+## Argument record contract
+
+Every rebuilt Argument page must carry:
+
+1. canonical `A##` identity;
+2. historical `01–21` provenance carriers where applicable;
+3. positive claim in the Argument's own terms;
+4. reason the Argument is distinct;
+5. immediate dependencies and consequences;
+6. Concept dependencies;
+7. Etymology whole-field + exact consumed operation/evidence register where load-bearing;
+8. source / authorial / research standing;
+9. exact Section + Movement consumers;
+10. transverse relations and return route;
+11. burden office (`spine`, `supporting-visible`, `transverse`, `radial-depth`, `research/application`, `whole-form-Mytheme` as appropriate);
+12. unresolved source/authorial delta;
+13. initial Symbolon/Matheme/Mytheme/Episteme routes;
+14. **Depth Restoration status**.
+
+## Depth Restoration is mandatory
+
+The first rebuilt page establishes identity and reciprocal routing. It is not complete intellectual recovery.
+
+After structural rebuilding, each Argument must return through its original Q27 contribution(s), direct authored/theorem/source carriers, source houses and whole Mythemes, and only then QH/T06D harmonisation/correction surfaces. The pass must restore derivations, examples, notation, source-specific distinctions and tensions that the census necessarily compresses.
+
+A compact census description must never become the source from which a later agent “recreates” the argument.
+
+## Disposition of the former `CT-*` layer
+
+`CT-01`–`CT-06` have no canonical theorem identity, no rebuild dependency and no Symbolon-generation requirement.
+
+If their prose remains useful, preserve it only as an explicitly non-authoritative integration-summary view over the A/C field. Never route native Taylor theorem work, an Argument identity or source tradition through a `CT-*` summary instead of the actual developed carrier.
