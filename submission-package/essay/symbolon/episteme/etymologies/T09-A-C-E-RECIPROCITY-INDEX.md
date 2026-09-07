@@ -28,3 +28,7 @@ A argument  ↔  C concept
 ```
 
 This is reciprocal routing, not proof by etymology. Arguments and Concepts consume operations from the whole relational field and return to it with newly discriminated questions; historical warrant remains located in the Etymology `HISTORY.md` and source carriers.
+
+### Routing note — 2026-09-07 reharmonisation
+
+A35's title-component *Epi-Logos as Vocation* routes its vocation register to **C51's owning space** (C51 is the owner of epi-logos, of which eros-of-logos is one name); A35's argument text is unchanged. C59's retired *Epi-Logos-as-Culture* component routes its culture register to C51 the same way, surviving as C59's historical alias. No etymology row changes: the Fides/Topos/Logos row already returns through C51.

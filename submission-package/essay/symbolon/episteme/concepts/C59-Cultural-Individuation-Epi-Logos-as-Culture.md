@@ -1,5 +1,7 @@
 ---
-title: "C59 — Cultural Individuation / Epi-Logos-as-Culture"
+title: "C59 — Cultural Individuation"
+aliases:
+  - "Epi-Logos-as-Culture" (historical title-component, retired 2026-09-07; the culture register of epi-logos is owned by C51)
 record_id: C59
 record_type: concept
 register: episteme
@@ -7,7 +9,9 @@ claim_status: Argued
 source_relation: "Argued authorial operation; historical attributions scoped locally"
 ---
 
-# C59 — Cultural Individuation / Epi-Logos-as-Culture
+# C59 — Cultural Individuation
+
+**Title succession.** The former compound component *Epi-Logos-as-Culture* retired on office grounds (2026-09-07 reharmonisation): the culture register of epi-logos is a determination of C51's owning space, not a second title-holder. The retired component survives as this node's historical alias; C59's own office — cultural individuation — is unchanged.
 
 ## #0
 

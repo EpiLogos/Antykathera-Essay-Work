@@ -24,6 +24,8 @@ Addition cancels the opposed values; the two subtraction orientations assign the
 
 Syn retains `(0/1)/(1/0)`: distinct orientations joined through the condition each carries. The broken token must keep both halves and their fracture for fitting to disclose belonging. Fusion destroys that relation as surely as loss. The retained binary terms and their four pairings give `2+2² = 4+2`, the self-referential body rather than an average between signs.
 
+**The Syn-pole is the sym-ballein space at full strength** — the throw-together that retains source, inverse reading and affected context while composing. This re-scope makes ownership explicit where it was derivable: the gathering operation was already this node's criterion, unowned in name. Its failure-modes are therefore not free-floating pathologies: C23 Severance, C24 Fusion, C25 Counterfeit Gathering and C26 Monoisation are what the sym-ballein office fails at, and C21 guards the reception end where its product stays a living symbol rather than an idol. The claim that the gathering at full strength *is* the eros of logos — sym-ballein as love — is the pending [A-candidacy](../../../../../working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md); C50 references it as pending and neither absorbs it nor is absorbed by it.
+
 ## #4
 
 The temporal distinction crosses the logical one. A synchronic view holds a configuration together; a diachronic view follows change, bifurcation and return. Either view can retain or conceal the provenance of its differences. Recursive division likewise succeeds through recombination; control of the combining operation can turn an otherwise productive decomposition into domination of the divided field.

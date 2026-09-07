@@ -2,6 +2,8 @@
 title: P2 Enrichment Handoff
 label: wayfinder:map
 status: ready — P1 propagated/source-locked; T17 is next gate
+
+> **Addendum 2026-09-07:** the conjugate programme completed and was promoted to `submission-package/essay/symbolon/episteme/conjugate/` (36 A′ + A/C root, `record_type: canonical-argument`; process record in `working/conjugate-field/`). Wayfinder ticket 018 (#39 ought-be architecture) is closed — remainder folded to T21/#22. Descartes/Levinas/CSM source houses created; core-theorems SOURCE carries the fuller accounting; C01/A34/A01 amendments and the bounded-64 reharmonisation enacted. T17 remains the gate; the census the queue assembles must now include the conjugate bodies.
 created: 2026-09-06
 programme_parent: "Return of Zero Writing Programme / GitHub #1"
 completed_through: "T16 / GitHub #17"

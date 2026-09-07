@@ -25,6 +25,8 @@ This is intimate before it is theoretical. I can question a memory, revise my id
 
 [[submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition|A01 — Subject, God and Faithful Definition]] **grounds** this distinction through the performed definition. C01 retains its reusable criterion: distinguish the presence to which something is given from the something given, including every representation of that presence. It does not repeat A01's complete movement through the predicates of God.
 
+The finding can be stated in its fact/contents form. The fact of first-person immediacy is undeniable by definition: any denial of it is performed in the presence it denies. Its contents are not. A thought, a doubting, a self-image — and the thinking-thing a *res cogitans* names — remain determinate occurrences within that presence, corrigible like every determination. The classical reification converted the condition of appearing into one more appearance and then treated that conversion as capture of the condition; the essay's crossed zero names the resulting occlusion `Ø`. Denying the fact is impossible; reifying it is the opposite error; defined indefinability holds both edges at once.
+
 ## #1
 
 **Defined indefinability** positively determines this asymmetry. It does not mean that the Subject is obscure because the correct description has not yet been found. It means that any description, however exact, remains a determination *for* the subject-pole it seeks to describe. The definition states why exhaustive objectification changes the office of its referent: it converts the condition of appearing into an appearance and then treats that conversion as capture of the condition.

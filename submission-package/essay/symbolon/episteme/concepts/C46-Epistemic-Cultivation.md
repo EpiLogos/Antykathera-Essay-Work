@@ -22,7 +22,7 @@ Preserve the path of change. An earlier determination can become inherited data 
 
 ## #5→0
 
-A35 gives the practice its motive: loving sensitivity to origins. Eros moves the return; compassion keeps it from consuming the Other; epistemic humility prevents the returned account from claiming the source-office. Provenance is the minimum technical body of this orientation, not its complete achievement. The cultivated system becomes more exact through encounter while remaining responsible for the particular work it must do.
+A35 gives the practice its motive: loving sensitivity to origins. Eros moves the return — the name routes to C51's epi-logos space, of which eros-of-logos is one name; compassion keeps it from consuming the Other; epistemic humility prevents the returned account from claiming the source-office. Provenance is the minimum technical body of this orientation, not its complete achievement. The cultivated system becomes more exact through encounter while remaining responsible for the particular work it must do.
 
 ### Declared field
 

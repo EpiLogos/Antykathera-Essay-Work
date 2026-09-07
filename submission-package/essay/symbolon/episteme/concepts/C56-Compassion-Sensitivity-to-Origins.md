@@ -15,7 +15,7 @@ Compassion is **loving sensitivity to origins**: a determination returns to the 
 
 ## #1
 
-The [direct developmental carrier](compassion-as-sensitivity-to-origins.md) differentiates three offices. Eros supplies the motive to return; compassion gives that return its non-devouring orientation; epistemic humility prevents the achieved account from claiming to have become its ground. The three belong together: motive without regard can seek possession, while humility without a practice of return leaves the relevant history untouched.
+The [direct developmental carrier](compassion-as-sensitivity-to-origins.md) differentiates three offices. Eros supplies the motive to return — the name routes to C51's epi-logos space, and the claim that the gathering at full strength is that eros is the pending A-candidacy (working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md); compassion gives that return its non-devouring orientation; epistemic humility prevents the achieved account from claiming to have become its ground. The three belong together: motive without regard can seek possession, while humility without a practice of return leaves the relevant history untouched.
 
 Frank's protected [[submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE|Chang encounter]], p.83, extends loving sensitivity towards origins gone, to come and ever present. The future is included through what present action prepares and constrains. This is Frank's authorial development, not a verified quotation or doctrine attributed to Chang.
 
