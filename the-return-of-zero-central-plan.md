@@ -930,3 +930,15 @@ Every public source uses Chicago 18 Notes and Bibliography and tracks metadata, 
 
 > [!summary] Drafting invariant
 > The essay is a theory of differentiation and how to handle it. Every section must answer the same test at a new scale: **what distinction is being made, what activity makes it, what ground does it exclude, and how can the mark return without either severance or fusion?**
+
+---
+
+## Amendment 2026-09-07 — Symbolon root layer, Vāk registers, and the matheme structure
+
+Ratified in session. Three determinations, binding on all downstream work:
+
+1. **The Symbolon root layer is the twelvefold.** The eight determinations are roots in their own right — `the-slash` (`/ = −/−`), `0-1`, `question-assertion` (`?/!`), `minus-plus` (`−/+`), `X-x`, `AM-IS`, `infinity-dx` (`∞/dx`), `1-0` — organised as (4+2)+2: the primordial essence (`§0/1` held with `−/−`), the full 4+2 sixfold, and the consequent essence (`§5→0` as `1/0`, the return vector, with 5 implicated in 1 through this connection; the Whitehead reading is the named analogy). Four heads read and operationalise the spine: `mono-poly`, `complexio-oppositorum` (carried by the `#` mark, under which the whole of QL maps), `self-identity`, and `subject-logics` (the Ø crossed-zero traversal). `eight-determinations` is the spine-index. This supersedes the earlier seven-root README enumeration.
+
+2. **The four registers carry the Vāk layering, in straight order:** Symbolon = parā, Matheme = paśyantī (the visionary operative logic, more primordial than the mytheme), Mytheme = madhyamā (formed visual/narrative operations built through the logic), Episteme = vaikharī. The register-foundations are the Binary Explication four-file system — definition, process, quilt, music; the 0, the /, the 1, the 0/1 returned ("the four-file shape is itself the matheme") — housed at `taylor-2026-binary-explication` and nested-aligned to the registers. The musical system is an expression of the MEF and is epistemic; music operates as File 4's register of return and as the mytheme's sounding engine. File 4 parallels `ql-musical-derivation-v3`; both are superseded in practice by the ql-mef package, whose details centralise into current work.
+
+3. **The matheme register's structure:** the four-file folders (definition, process, quilt, music), the two logic folders (Dia/Syn — ballein plus the chronic pair — and Mono/Poly, the field of notations implied by the symbolon works), the domain projections (QL, Spanda, topology, harmonics, formal neighbours, computation, diagrams) absorbing the deep material. The core-theorems spine is the curated extraction set over the Binary Explication corpus and its siblings: the deep ontology stays deep, floats up, and conditions the writing; the essay carries only earned compression.

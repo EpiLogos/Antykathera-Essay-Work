@@ -26,7 +26,7 @@ Every content record belongs to one of the four classes, and the classes organis
 | Class | What it carries | Home |
 |---|---|---|
 | **Symbolon** | The whole relation and its root records: `0/1`, `1/0`, the slash, self-identity, mono–poly, complexio oppositorum, the eight determinations. | `submission-package/essay/symbolon/` root |
-| **Matheme** | Exact operations: QL, Spanda, topology, harmonics, formal neighbours, computation, diagrams. | `submission-package/essay/symbolon/matheme/` |
+| **Matheme** | The matheme as register and subject — the full equation `0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1` — organised by the four-file system (definition/process/quilt/music) with the Dia/Syn and Mono/Poly logic folders and the domain projections: QL, Spanda, topology, harmonics, formal neighbours, computation, diagrams. | `submission-package/essay/symbolon/matheme/` |
 | **Mytheme** | Lived forms: myth, narrative, poetry, media, art, music, plates. | `submission-package/essay/symbolon/mytheme/` |
 | **Episteme** | Instituted knowledge: sources, histories, etymologies, lenses, maps, dossiers, figures, concept nodes, dialogues. | `submission-package/essay/symbolon/episteme/` |
 

@@ -8,19 +8,41 @@ claim_status: Derived
 
 # Matheme
 
-Matheme carries the exact and transmissible operations of *The Return of Zero*. A record belongs here when notation, derivation, construction, proof boundary or formal comparison performs its central work.
+Matheme carries the exact and transmissible operations of *The Return of Zero* — and it is its own subject: the full equation and its expressions.
 
-The register begins from Frank's QL rather than from a neighbouring mathematics. `0/1`, `1/0`, `/`, `X/x`, the determinations and the Spanda equations receive their native derivation first. Arithmetic, logic, topology, music, computation and physics then meet that derivation through named agreements and differences.
+$$\frac{0}{1} = 4+2 = 5 \rightarrow 0 = \frac{1}{0} = 4'+2' = 5' \rightarrow 0' = \frac{0}{1}$$
 
-## Domains
+The shorter chain `0/1 = 4+2 = 5→0 = 0/1` is the definitional statement (the 0-side, carried by **definition** and **quilt**); the full chain is earned processually (carried by **process** and **music**). Both are licensed by vantage. The standing identity `0/1 + 1/0 = 1/1 ≡ 100%` holds across the system. In the Vāk layering of the registers this is **paśyantī** — the visionary operative logic, more primordial than the mytheme, which builds formed operations through and on it.
 
-- [[ql/README|QL]] — native notation, core theorem language, determination sequence, inversion and return.
-- [[spanda/README|Spanda]] — the equations and generative counts through which relation becomes pulse and articulation.
-- [[topology/README|Topology]] — re-entry, covering, orientation, torus, Klein bottle, Möbius return and arche-topos.
-- [[harmonics/README|Harmonics]] — ratio, interval, octave, remainder, cyclic return and the formal side of music.
-- [[formal-neighbours/README|Formal neighbours]] — external mathematical and logical constructions tested at exact points of contact.
-- [[computation/README|Computation]] — formal treatments of objective internality, selection, energy, preference and agentic research.
-- [[diagrams/README|Diagrams]] — visual derivations whose spatial organisation is part of the proof or explanation.
+## The four-file system
+
+The register is organised by the Binary Explication four-file set (housed at [taylor-2026-binary-explication](../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md)) — "the four-file shape is itself the matheme": **File 1 the 0, File 2 the /, File 3 the 1, File 4 the 0/1 returned.** Each file's internal structure follows the matheme it is about; the folders below project that structure.
+
+- [[definition/README|Definition]] — the 0: what the matheme IS. The lived grammar earning 0/1; −/−; the copula; the harmonics and recount; the six determinations; the Catuṣkoṭi crossing; the immutable subject.
+- [[process/README|Process]] — the /: what the matheme DOES. T1 geometry; the §1/0 phase-flip; T0 onto-logic; both Spanda equations; the ratio threshold; the consolidated QL positions.
+- [[quilt/README|Quilt]] — the 1: what the matheme MEANS. Six independent reconstitutions (etymology, Jungian architecture, Pythagorean number, topology, Kaśmir Śaivism, recognition); the Requilting; the Foundation Stone; the Möbius Stitch.
+- [[music/README|Music]] — the 0/1 returned: what the matheme SOUNDS, COMPUTES, AND KNOWS AS. The canonical ratios; chromatic substrates; the pairing grammar; the CF grammar and the 84-fold field; the observer and the instrument.
+
+## The logic folders
+
+- [[dia-syn/README|Dia/Syn]] — the two logics of two: ballein (dia-cut, syn-gather) and the chronic pair (synchronic holding, diachronic passage). Grounded across the essay space — the core-theorems spine §IV, the central plan's Two Logics of Two, C50's temporal distinction, the Symbolon Dynamics landscape/trajectory — the operations by which the symbolon's details become expressible as real relations between notations.
+- [[mono-poly/README|Mono/Poly]] — the whole field of notations implied by the symbolon directory works: many notations, one field. Grounded as the Becoming harmonic (process §4′) and the plan's sustained whole/many relation.
+
+## Deep ontology law
+
+The four files live in their source house, not here. They are the deep ontology of the folders: too deep to propagate wholesale, and the essay should never try. The [core-theorems spine](../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) is the **curated extraction set** — the balance-keeper through which the files' insight floats up and conditions what is written. Deep material may inform any page; it enters the essay only through earned compression.
+
+## Domains (projection targets)
+
+The domain folders absorb the projection of the four-file structure:
+
+- [[ql/README|QL]] ← the definition and process core; the determination sequence, inversions, return.
+- [[spanda/README|Spanda]] ← both Spanda equations (process §3′).
+- [[topology/README|Topology]] ← quilt §3 and music §4 (ℝ²/ℤ² = T²; the pitch-space ℝ/ℤ ≅ S¹). Most topology references arrive via [[../episteme/README|Episteme]] sources; the toroidal stays implicit in the symbolon and matheme layers.
+- [[harmonics/README|Harmonics]] ← process ratio-threshold and all of music.
+- [[formal-neighbours/README|Formal neighbours]] ← the honesty-protocol contacts (toric code, Gödel, von Neumann).
+- [[computation/README|Computation]] ← the computational close and quilt §5's Logos→Code.
+- [[diagrams/README|Diagrams]] ← squared circle, torus, whole-tone helices, the 3×3 squares.
 
 ## Record form
 
@@ -30,7 +52,12 @@ A Matheme record gives the symbols before using them, derives operations before 
 2. what an external formalism independently establishes;
 3. what relation between them the essay argues or offers.
 
-Each record names its inputs, operations, result, proof boundary, source dependencies and exact essay targets. Worked steps remain available in the record even when the main essay carries only the earned compression.
+Each record names its inputs, operations, result, proof boundary, source dependencies and exact essay targets. Worked steps remain available in the record even when the main essay carries only the earned compression. Projection discipline: the folder structure above is the locked skeleton; pages are projected into it from the housed files, preserving each file's own headings as the load-bearing names.
+
+## Two locks
+
+1. **Two chains, two vantages:** definition and quilt carry the short chain; process and music carry the full chain. Never flattened.
+2. **The prime glyph carries two meanings in the sources** — File 2's inverse-phase positions (#0′–#5′) and File 3's Night-pass sequence (#0′–#5′). The projection keeps them explicitly distinguished.
 
 ## Cross-register routes
 

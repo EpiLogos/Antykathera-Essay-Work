@@ -14,27 +14,43 @@ The folder holds the records that unfold the essay's internal relations. A reade
 
 The sovereign essay itself — `THE-RETURN-OF-ZERO.md` — and the authoring rooms sit **parallel to this field**, not inside it. The publication-level sixfold is the 4+2: rooms are its `#0` (each room holds its movements with the argument field as a nested `0/1`), this field and its three registers are `#1`–`#4`, and the essay is its `#5`. The four, through inference, increase the value of the rooms; the enriched rooms improve how the essay operates and let the inner stacks under `#1`–`#4` be generated file by file as the holographic world of the piece. Symbolon is the self-nesting 3+1 the essay traverses: the root relation and its inner nature, holding Matheme, Mytheme, and Episteme without becoming a fourth bucket.
 
-## Root records
+## Root records — the twelvefold
 
-The relations that organise every register belong directly in Symbolon:
+The root layer is the twelvefold: the eight determinations (the inner nature of `0/1`, organised as (4+2)+2 — the primordial essence `§0/1` held with `−/−`, the full 4+2 sixfold, and `§5→0` as `1/0`, the consequent essence and return vector, with 5 implicated in 1 through exactly this connection) plus the four heads by which the spine is read and operationalised. `eight-determinations.md` is the spine-index that traverses them in sequence.
+
+**The spine (8):**
 
 | Root record | Work in the whole |
 |---|---|
+| `the-slash.md` | `/ = −/−`: relation before named terms; division, ratio and AND/OR; the activity that makes both poles legible. |
 | `0-1.md` | Ground, mark and differentiating activity in their first orientation. |
+| `question-assertion.md` | `?/!`: inquiry and naming in one sign; answerability; the four corners and their SILENCE. |
+| `minus-plus.md` | `−/+`: polarity and force; withdrawal/extension, reserve/issue; the dynamis. |
+| `X-x.md` | Determining capacity over its determinate face; one letter in two cases. |
+| `AM-IS.md` | The personed copula: AM living first-person presence, IS third-person describability, the slash between as second-person relation. |
+| `infinity-dx.md` | `∞/dx`: the horizon no finite mark contains; the infinitesimal difference through which relation becomes possible. |
 | `1-0.md` | The obverse orientation: determination returning through its ground. |
-| `the-slash.md` | `/` as division, ratio and AND/OR; the activity that makes both poles legible. |
-| `self-identity.md` | Identity as an active relation to, for, as and with itself. |
+
+**The heads (4):**
+
+| Root record | Work in the whole |
+|---|---|
 | `mono-poly.md` | The one and the many as mutually implicate accountings rather than rival totals. |
-| `complexio-oppositorum.md` | The holding of opposites through transformation without cancellation or fusion. |
-| `eight-determinations.md` | The complete determination field, its sequence, inversions and returns. |
+| `complexio-oppositorum.md` | The holding of opposites through transformation without cancellation or fusion — carried by the `#` mark, under which the whole of QL can be mapped. |
+| `self-identity.md` | Identity as an active relation to, for, as and with itself; the non-dual-binary unfolding of `0/1 → 4+2`. |
+| `subject-logics.md` | The Ø traversal: the crossed-zero sequence, the antaḥkaraṇa's signature, the pramātṛ–pramāṇa–prameya dynamics, Descartes and Hume at #1. |
+
+Plus the spine-index: `eight-determinations.md` — the complete determination field, its sequence, inversions and returns.
 
 These records gather formal, imaginal and epistemic developments without duplicating them. Their mathematical derivations descend into [[matheme/README|Matheme]], their lived images into [[mytheme/README|Mytheme]], and their source histories, maps and concepts into [[episteme/README|Episteme]].
 
 ## The three registers
 
+The four registers carry the Vāk layering — one descent of speech, held architecturally as `#1`–`#4`: **Symbolon = parā** (the whole unsayable form), **Matheme = paśyantī** (the visionary operative logic, more primordial than the mytheme), **Mytheme = madhyamā** (the formed visual and narrative operations built through that logic), **Episteme = vaikharī** (the inspected, documented utterance). The four register-foundations are the Binary Explication four-file system — definition, process, quilt, music: the 0, the /, the 1, the 0/1 returned ([taylor-2026-binary-explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md)) — nested-aligned to the registers and housed in Matheme's source layer.
+
 ### [[matheme/README|Matheme]]
 
-Matheme makes the relation transmissible through notation, derivation, construction and formal comparison. It contains QL, the Spanda equations, topology, harmonics, neighbouring mathematical formalisms, computational operations and diagrams.
+Matheme makes the relation transmissible through notation, derivation, construction and formal comparison — and is its own subject: the full equation `0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1`. Organised by the four-file system (definition, process, quilt, music), the two logic folders (Dia/Syn, Mono/Poly), and the domain projections (QL, Spanda, topology, harmonics, formal neighbours, computation, diagrams).
 
 ### [[mytheme/README|Mytheme]]
 
