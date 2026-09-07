@@ -1,0 +1,7 @@
+# Conjugate Argument Field — A01′–A36′ and the A/C Root
+
+The conjugate field holds the thirty-six prime-face arguments and their root. Each A′ node is the technological face of its partner argument in `../arguments/`: the same operation, run on the side where theory becomes praxis — grounded in Objective Internality as denominator, the O:I primitive field as grammar, and the Antikythera/Agentworld brief as venue instance. `AC.md` is the dual-form root: the A face links the frozen ethic (*Respect for Experience*, held outside this repository at its authorial home); the C face carries the ratified primitive field. **A/C is the full `0/1` field; both series, A01–A36 and A01′–A36′, are its determinations.**
+
+Development provenance lives in `working/conjugate-field/`: the workshop draft and pass-2 charter (process law for this field), the five arc receipts per pass, the flipside package (state and decision ledger), and the three proposals still awaiting authorial enactment — the eros-of-logos A-node candidacy, the bounded-64 concept reharmonisation, and the Descartes landing.
+
+Conventions: brief citations run through the `bratton-2026-agentworld-brief` source house q-anchors; `[[bare wikilinks]]` that resolve to no file are anticipatory concept seeds — the web's open edges, materialised only when the argument demands a node. The array self-reading (this field as the traversal run in the technological direction) is carried at A18′ #5→0.
