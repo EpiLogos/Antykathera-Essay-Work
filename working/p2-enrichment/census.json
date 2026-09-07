@@ -2188,7 +2188,7 @@
       "packet_status": "awaiting-complete-36-depth-review"
     },
     {
-      "record_id": "mytheme-attica-athena-poseidon-cecrops",
+      "record_id": "mytheme-myth-attica-athena-poseidon-cecrops",
       "title": "attica-athena-poseidon-cecrops",
       "register": "mytheme",
       "record_type": "whole-mytheme",
@@ -2202,7 +2202,7 @@
       "packet_status": "awaiting-complete-36-depth-review"
     },
     {
-      "record_id": "mytheme-hypostasis-archons-norea-sophia",
+      "record_id": "mytheme-myth-hypostasis-archons-norea-sophia",
       "title": "hypostasis-archons-norea-sophia",
       "register": "mytheme",
       "record_type": "whole-mytheme",
@@ -2216,7 +2216,7 @@
       "packet_status": "awaiting-complete-36-depth-review"
     },
     {
-      "record_id": "mytheme-fanon-language-gaze-mask-recognition",
+      "record_id": "mytheme-narrative-fanon-language-gaze-mask-recognition",
       "title": "fanon-language-gaze-mask-recognition",
       "register": "mytheme",
       "record_type": "whole-mytheme",
@@ -2230,7 +2230,7 @@
       "packet_status": "awaiting-complete-36-depth-review"
     },
     {
-      "record_id": "mytheme-jung-aion-fishes-christ-antichrist-alchemy",
+      "record_id": "mytheme-narrative-jung-aion-fishes-christ-antichrist-alchemy",
       "title": "jung-aion-fishes-christ-antichrist-alchemy",
       "register": "mytheme",
       "record_type": "whole-mytheme",
@@ -3482,7 +3482,7 @@
       "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
       "disposition": "Existing Hypostasis whole receives its exact source telling; do not generalise all cosmologies into it.",
       "existing_routes": [
-        "mytheme-hypostasis-archons-norea-sophia"
+        "mytheme-myth-hypostasis-archons-norea-sophia"
       ]
     },
     {
@@ -3512,7 +3512,7 @@
       "disposition": "Not yet a recovered whole Mytheme; Aion history and existing whole retain their narrower source operations.",
       "existing_routes": [
         "A36",
-        "mytheme-jung-aion-fishes-christ-antichrist-alchemy"
+        "mytheme-narrative-jung-aion-fishes-christ-antichrist-alchemy"
       ]
     },
     {
@@ -3528,7 +3528,7 @@
       "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
       "disposition": "Existing Fanon whole retains source-specific racial-historical work; private biographical seam remains nonpublication provenance.",
       "existing_routes": [
-        "mytheme-fanon-language-gaze-mask-recognition",
+        "mytheme-narrative-fanon-language-gaze-mask-recognition",
         "mytheme-avatar-image-mask-idol"
       ]
     },

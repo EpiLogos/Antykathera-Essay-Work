@@ -1,0 +1,430 @@
+{
+  "status": "input-path-and-production-slice-validation-passed",
+  "matheme_count": 46,
+  "bindings_sha256": "63bb2c0ff6b722021c8938621bcf949a26cea5410f87b994c75f99a94311d662",
+  "scope": "Checks census identity equality, input files, selected depth existence and production extract_slice ranges/provenance; does not certify final prose, source verification or experiment results.",
+  "targets": [
+    {
+      "record_id": "matheme-primordial-symbolon",
+      "arguments": 10,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 58106,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-two-ones",
+      "arguments": 8,
+      "sources": 3,
+      "slices": 3,
+      "slice_characters": 19935,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-slash-and-or",
+      "arguments": 11,
+      "sources": 3,
+      "slices": 3,
+      "slice_characters": 22097,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-eight-determinations",
+      "arguments": 18,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 29867,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-binary-and-binary-of-binary",
+      "arguments": 9,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 47484,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-crossed-zero-re-entry",
+      "arguments": 8,
+      "sources": 4,
+      "slices": 3,
+      "slice_characters": 25999,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-x-x",
+      "arguments": 10,
+      "sources": 4,
+      "slices": 4,
+      "slice_characters": 17768,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-complex-orientation",
+      "arguments": 7,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 25262,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-spanda-equations",
+      "arguments": 10,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 29901,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-projective-completion",
+      "arguments": 7,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 19403,
+      "evidence_blockers": [
+        "Real-projective claims require their own exact source/proof rather than borrowing NIST complex-plane card."
+      ]
+    },
+    {
+      "record_id": "matheme-projective-line",
+      "arguments": 7,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 14732,
+      "evidence_blockers": [
+        "Select exact real-projective theorem/locator for attribution; NIST house explicitly does not warrant real-projective parallel-line claims."
+      ]
+    },
+    {
+      "record_id": "matheme-riemann-sphere",
+      "arguments": 6,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 18658,
+      "evidence_blockers": [
+        "Stereographic formulas and CP¹ identification need a worked derivation or exact technical locator beyond the short SOURCE card."
+      ]
+    },
+    {
+      "record_id": "matheme-torus-cover-winding",
+      "arguments": 8,
+      "sources": 2,
+      "slices": 4,
+      "slice_characters": 17595,
+      "evidence_blockers": [
+        "Hatcher exact chapter/page/figure collation required before external quotation."
+      ]
+    },
+    {
+      "record_id": "matheme-mobius-klein-surfaces",
+      "arguments": 7,
+      "sources": 2,
+      "slices": 4,
+      "slice_characters": 18408,
+      "evidence_blockers": [
+        "Explicit gluing conventions and covering diagram must be verified; exclude inherited claim sphere cannot circulate/conserve."
+      ]
+    },
+    {
+      "record_id": "matheme-toroidal-poloidal-confinement",
+      "arguments": 4,
+      "sources": 3,
+      "slices": 3,
+      "slice_characters": 17939,
+      "evidence_blockers": [
+        "Acquire canonical plasma-field geometry/stability source before describing combined fields or quantitative confinement; page can develop the explicit bounded comparison meanwhile."
+      ]
+    },
+    {
+      "record_id": "matheme-whole-tone-return",
+      "arguments": 6,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 18651,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-pythagorean-comma",
+      "arguments": 4,
+      "sources": 3,
+      "slices": 3,
+      "slice_characters": 15125,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-cycle-interval-octave",
+      "arguments": 5,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 22744,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-arche-topos-musical-resolution",
+      "arguments": 10,
+      "sources": 3,
+      "slices": 6,
+      "slice_characters": 26403,
+      "evidence_blockers": [
+        "Recompute every printed interval/chord used; standalone musical transcriptions must reflect actual note content, not inherited label."
+      ]
+    },
+    {
+      "record_id": "matheme-metonic-antikythera-cycle",
+      "arguments": 6,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 14377,
+      "evidence_blockers": [
+        "Obtain exact Metonic/Saros/gearing locators and specify year/month conventions before numerical drift or tooth-count claims."
+      ]
+    },
+    {
+      "record_id": "matheme-cymatics-standing-waves",
+      "arguments": 6,
+      "sources": 2,
+      "slices": 3,
+      "slice_characters": 10638,
+      "evidence_blockers": [
+        "No canonical primary standing-wave/cymatics source house found; acquire one and define apparatus before physical pattern assertions."
+      ]
+    },
+    {
+      "record_id": "matheme-von-neumann-ordinals",
+      "arguments": 6,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 32561,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-division-pluralisms",
+      "arguments": 6,
+      "sources": 4,
+      "slices": 4,
+      "slice_characters": 17228,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-sheffer-stroke",
+      "arguments": 7,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 10831,
+      "evidence_blockers": [
+        "Check Sheffer1913 exact notation and page before attributing modern NAND stroke to original printed formulation."
+      ]
+    },
+    {
+      "record_id": "matheme-laws-of-form-varela",
+      "arguments": 7,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 14008,
+      "evidence_blockers": [
+        "Extract exact calling/crossing/re-entry equations and Varela third-state rules from selected originals before attributed derivation."
+      ]
+    },
+    {
+      "record_id": "matheme-russell-types",
+      "arguments": 6,
+      "sources": 3,
+      "slices": 3,
+      "slice_characters": 14314,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-godel-incompleteness",
+      "arguments": 6,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 17634,
+      "evidence_blockers": [
+        "Exact theorem hypotheses must be recovered from full technical source before publication; current abbreviated quotation cards omit them. Selected English translation of SatzVI/XI remains Open."
+      ]
+    },
+    {
+      "record_id": "matheme-fde-catuskoti",
+      "arguments": 8,
+      "sources": 4,
+      "slices": 4,
+      "slice_characters": 37878,
+      "evidence_blockers": [
+        "Collate2018book before direct quotation; Kapsner full argument extraction Open. State Siderits/Westerhoff/Green alternatives at only the recorded evidence depth."
+      ]
+    },
+    {
+      "record_id": "matheme-crt-z6",
+      "arguments": 5,
+      "sources": 1,
+      "slices": 3,
+      "slice_characters": 16722,
+      "evidence_blockers": [
+        "Historical/general CRT attribution needs selected source; finite table/proof may be developed directly without invented citation."
+      ]
+    },
+    {
+      "record_id": "matheme-trivial-ring",
+      "arguments": 6,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 11366,
+      "evidence_blockers": [
+        "Choose algebra source for external attribution and explicitly declare whether ring definition permits0=1."
+      ]
+    },
+    {
+      "record_id": "matheme-grothendieck-group-loss",
+      "arguments": 6,
+      "sources": 1,
+      "slices": 4,
+      "slice_characters": 11997,
+      "evidence_blockers": [
+        "No canonical K-theory/group-completion source found. Select one and verify example; page must not present blanket loss as an established theorem."
+      ]
+    },
+    {
+      "record_id": "matheme-kauffman-iterants",
+      "arguments": 6,
+      "sources": 2,
+      "slices": 3,
+      "slice_characters": 16648,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-cross-ratio",
+      "arguments": 6,
+      "sources": 2,
+      "slices": 4,
+      "slice_characters": 14371,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-qubit-bloch-sphere",
+      "arguments": 6,
+      "sources": 2,
+      "slices": 4,
+      "slice_characters": 22354,
+      "evidence_blockers": [
+        "No canonical primary qubit/Bloch source found in live source bank. Acquire quantum-state/measurement source before attributed physical claim; NIST does not cover it."
+      ]
+    },
+    {
+      "record_id": "matheme-softmax-argmax",
+      "arguments": 8,
+      "sources": 3,
+      "slices": 4,
+      "slice_characters": 23881,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-preference-gauge",
+      "arguments": 9,
+      "sources": 4,
+      "slices": 4,
+      "slice_characters": 17306,
+      "evidence_blockers": [
+        "Original Bradley–Terry exact identifiability passage remains Open; use current DPO cards for the specific displayed modern mechanism."
+      ]
+    },
+    {
+      "record_id": "matheme-j-space",
+      "arguments": 13,
+      "sources": 4,
+      "slices": 4,
+      "slice_characters": 17521,
+      "evidence_blockers": [
+        "Select dataset,state variables,metric and perturbation protocol before reporting operational results. No implementation or parity result is supplied by this packet."
+      ]
+    },
+    {
+      "record_id": "matheme-ebm-resonance",
+      "arguments": 11,
+      "sources": 4,
+      "slices": 4,
+      "slice_characters": 20551,
+      "evidence_blockers": [
+        "Provide actual fixture and baseline; do not label Proposed as implemented or a positive result."
+      ]
+    },
+    {
+      "record_id": "matheme-operational-parity",
+      "arguments": 14,
+      "sources": 5,
+      "slices": 4,
+      "slice_characters": 27689,
+      "evidence_blockers": [
+        "No parity experiment is accepted by an input binding. Writer must define executable or empirically interpretable protocol and retain null/negative outcomes."
+      ]
+    },
+    {
+      "record_id": "matheme-noether-symmetry-conservation",
+      "arguments": 14,
+      "sources": 2,
+      "slices": 4,
+      "slice_characters": 15785,
+      "evidence_blockers": [
+        "No canonical Noether/Tavel/Banados–Reyes source house found. Acquire theorem source and exact assumptions before attribution; Floquet/Landauer claims stay separate Open acquisition."
+      ]
+    },
+    {
+      "record_id": "matheme-perfect-six",
+      "arguments": 4,
+      "sources": 2,
+      "slices": 3,
+      "slice_characters": 17015,
+      "evidence_blockers": [
+        "Historical perfect-number meaning requires exact ancient/history source if asserted."
+      ]
+    },
+    {
+      "record_id": "matheme-tetraktys-triangle",
+      "arguments": 4,
+      "sources": 3,
+      "slices": 3,
+      "slice_characters": 20309,
+      "evidence_blockers": [
+        "Select historical tetraktys source before ancient practice/doctrine attribution; Scholtz is tuning only."
+      ]
+    },
+    {
+      "record_id": "matheme-quaternion-q8",
+      "arguments": 5,
+      "sources": 1,
+      "slices": 4,
+      "slice_characters": 99994,
+      "evidence_blockers": [
+        "No dedicated quaternion/Q8 source house found; verify multiplication/rotation conventions and source before attributed geometric claims."
+      ]
+    },
+    {
+      "record_id": "matheme-calculus-infinity-dx",
+      "arguments": 8,
+      "sources": 3,
+      "slices": 3,
+      "slice_characters": 14346,
+      "evidence_blockers": []
+    },
+    {
+      "record_id": "matheme-chaos-attractors",
+      "arguments": 11,
+      "sources": 5,
+      "slices": 4,
+      "slice_characters": 22552,
+      "evidence_blockers": [
+        "Choose explicit dynamical equations/parameter regime and exact bifurcation/chaos sources before theorem-level generalisation."
+      ]
+    },
+    {
+      "record_id": "matheme-manifold-atlas",
+      "arguments": 12,
+      "sources": 5,
+      "slices": 5,
+      "slice_characters": 33476,
+      "evidence_blockers": [
+        "Exact atlas/differential-structure source locator required. Mapper/sheaf/persistent-homology claims need separate foundational houses; no universal atlas/gluing proof inherited from metaphor."
+      ]
+    }
+  ]
+}

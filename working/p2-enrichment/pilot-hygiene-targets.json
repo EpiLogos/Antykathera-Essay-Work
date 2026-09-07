@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "reconciled",
-  "scope": "T17 single-record A01 pilot; not the completed bulk queue or T17 completion",
+  "scope": "A01 pilot and five existing declared P1 consumer return links only",
   "census": "working/p2-enrichment/census.json",
   "census_sha256": "32b569e176e2af3c49e69531e1e94aaf5e54299efcd4a2dd637452b7cf4326a2",
   "identity_review": "Parent checked the A01 identity against T09 and its input binding; reviewed 197 identity homes and twelve recovered additions against their declared governing operations. Global discovery dispositions and bulk input bindings continue separately.",
@@ -526,6 +526,36 @@
         "parent_review_expansion": "A19 full depth read completed after predicate/self-predicament recovery; exact paragraph needs no additional external SOURCE/NOTES. See pilot-A01-writer.md."
       },
       "binding_state": "pilot-accepted"
+    },
+    {
+      "record_id": "pilot-return-01",
+      "register": "section-movement",
+      "canonical_home": "submission-package/essay/section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md",
+      "disposition": "existing-declared-consumer-return-link"
+    },
+    {
+      "record_id": "pilot-return-02",
+      "register": "section-movement",
+      "canonical_home": "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+      "disposition": "existing-declared-consumer-return-link"
+    },
+    {
+      "record_id": "pilot-return-03",
+      "register": "section-movement",
+      "canonical_home": "submission-package/essay/section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md",
+      "disposition": "existing-declared-consumer-return-link"
+    },
+    {
+      "record_id": "pilot-return-07",
+      "register": "section-movement",
+      "canonical_home": "submission-package/essay/section-rooms/01-differentiating-mind/movements/07-s0-p0-awareness-bends-display.md",
+      "disposition": "existing-declared-consumer-return-link"
+    },
+    {
+      "record_id": "pilot-return-47",
+      "register": "section-movement",
+      "canonical_home": "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md",
+      "disposition": "existing-declared-consumer-return-link"
     }
   ]
 }

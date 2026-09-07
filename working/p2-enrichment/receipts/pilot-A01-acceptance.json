@@ -1,0 +1,54 @@
+{
+  "status": "accepted-pilot",
+  "scope": "T17 end-to-end single-page proof, not completion of T18–T23 or all A01 historical/source restoration",
+  "baseline_commit": "ac0cc7d",
+  "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+  "canonical_sha256": "e5f60963ac4f7e500cf942f83eb3dcbbfeec9b1ddb6a5958cc1c7a2feb8bd2e7",
+  "argument_depth": [
+    "A01",
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A06",
+    "A08",
+    "A11",
+    "A18",
+    "A19",
+    "A20",
+    "A23",
+    "A24",
+    "A25",
+    "A26",
+    "A27",
+    "A34",
+    "A36"
+  ],
+  "hygiene": "working/p2-enrichment/receipts/pilot-A01-hygiene.json",
+  "written_links": 43,
+  "link_failures": 0,
+  "source_projection_check": "current before separate new-source batch",
+  "room_projection_check": "Room-generator detour reverted after user correction; original accepted room files restored. Withdrawn diff preserved separately.",
+  "operations_restored": [
+    "performed assertion/failure/success/context/first-person recognition/return",
+    "fourth remains an account; fifth changes register",
+    "four omni-predicates and two completing attributes",
+    "actual self-limitation/forgetting; lack and direction of power",
+    "fish/window images; One/All and source/account/trust",
+    "exact present P1 consumers; B8 Movement04 exclusion retained"
+  ],
+  "remaining": [
+    "source-specific quotation/edition and broader historical development",
+    "Spanda and Job fuller home development; A19/A24 consequences",
+    "T18–T23 register development with per-batch T22",
+    "T24 census/flow acceptance before manuscript composition"
+  ],
+  "checks": "Parent read original Draft3 115–154 and revised A01; writer completed additional full A19 depth read. Protected notes and all six quilts unchanged. Metadata/debt disposition updated after successful link hygiene; link text unchanged.",
+  "inverse_routes": {
+    "receipt": "working/p2-enrichment/receipts/pilot-return-hygiene.json",
+    "consumer_count": 5,
+    "failures": 0,
+    "scope": "one written inverse link per already declared P1 consumer; existing claims retained",
+    "status": "withdrawn after user correction; five consumer link additions reverted"
+  }
+}

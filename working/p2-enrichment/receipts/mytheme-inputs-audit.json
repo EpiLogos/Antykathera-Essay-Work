@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "tool": "actual workflow.py input_file and extract_slice functions",
+  "targets": 21,
+  "source_slices_validated": 112,
+  "all_required_paths_inside_checkout": true,
+  "source_houses_unique": 22,
+  "input_sha256": "5e9faf64f4eb78361a9effcdf952695d680756b672913d3069f1371a42d3ea93",
+  "canonical_writes": 0,
+  "identity_correction_pending": "Parent replacing four working IDs with actual canonical frontmatter IDs; actual_record_id recorded.",
+  "primary_acquisition_receipt": "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+  "goethe_identity": "resolved; selectededitioncollationOpen"
+}

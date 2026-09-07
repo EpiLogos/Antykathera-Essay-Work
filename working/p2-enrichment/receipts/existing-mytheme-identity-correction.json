@@ -1,0 +1,11 @@
+{
+  "status": "corrected-working-census-to-existing-canonical-identities",
+  "mapping": {
+    "mytheme-attica-athena-poseidon-cecrops": "mytheme-myth-attica-athena-poseidon-cecrops",
+    "mytheme-hypostasis-archons-norea-sophia": "mytheme-myth-hypostasis-archons-norea-sophia",
+    "mytheme-fanon-language-gaze-mask-recognition": "mytheme-narrative-fanon-language-gaze-mask-recognition",
+    "mytheme-jung-aion-fishes-christ-antichrist-alchemy": "mytheme-narrative-jung-aion-fishes-christ-antichrist-alchemy"
+  },
+  "canonical_files_changed": false,
+  "standing": "Existing frontmatter record_id governs; provisional working census labels were wrong. Homes and admitted body count remain unchanged. No new aliases or renamed canonical records."
+}
