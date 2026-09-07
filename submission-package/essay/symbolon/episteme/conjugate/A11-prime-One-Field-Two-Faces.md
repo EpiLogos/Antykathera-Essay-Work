@@ -1,7 +1,7 @@
 ---
 title: "A11′ — One Field, Two Faces"
 record_id: A11p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

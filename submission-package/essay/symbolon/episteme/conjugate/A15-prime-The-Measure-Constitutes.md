@@ -1,7 +1,7 @@
 ---
 title: "A15′ — The Measure Constitutes"
 record_id: A15p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

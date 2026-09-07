@@ -1,7 +1,7 @@
 ---
 title: "A04′ — The Mask as Document"
 record_id: A04p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

@@ -1,7 +1,7 @@
 ---
 title: "A35′ — The Commons Behind the System"
 record_id: A35p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued vocational operation re-sited at technological register; Paraphrased brief scenarios as instance and test; authorial lecture note as intent-grounding"

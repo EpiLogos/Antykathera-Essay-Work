@@ -1,7 +1,7 @@
 ---
 title: "A31′ — Deference as Co-Evolutionary Alignment"
 record_id: A31p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued re-sited deference operation; Paraphrased venue alignment; authorial-adjacent Naur framing"

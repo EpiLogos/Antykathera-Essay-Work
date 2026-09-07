@@ -1,7 +1,7 @@
 ---
 title: "A02′ — Continuity as Maintained Identification"
 record_id: A02p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

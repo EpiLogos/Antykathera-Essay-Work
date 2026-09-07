@@ -1,7 +1,7 @@
 ---
 title: "A25′ — Covenant Architecture"
 record_id: A25p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued re-sited covenant operation; Paraphrased venue instances"

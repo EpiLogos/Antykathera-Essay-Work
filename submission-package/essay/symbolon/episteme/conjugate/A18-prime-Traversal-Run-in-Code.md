@@ -1,7 +1,7 @@
 ---
 title: "A18′ — The Traversal Run in Code"
 record_id: A18p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

@@ -1,7 +1,7 @@
 ---
 title: "A07′ — Purpose That Survives the Metric"
 record_id: A07p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

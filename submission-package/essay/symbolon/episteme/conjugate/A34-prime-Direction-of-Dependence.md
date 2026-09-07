@@ -1,7 +1,7 @@
 ---
 title: "A34′ — The Direction of Dependence"
 record_id: A34p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued order of dependence re-sited at technological register; Paraphrased brief scenarios as instance and test"

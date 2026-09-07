@@ -1,7 +1,7 @@
 ---
 title: "A29′ — Return or Extraction"
 record_id: A29p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued re-sited return operation; Paraphrased venue crossover instances"

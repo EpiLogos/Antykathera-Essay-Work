@@ -1,7 +1,7 @@
 ---
 title: "A/C — Argument / Concept — Root of the Conjugate Field"
 record_id: A/C
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued authorial frame; source relations named per link"

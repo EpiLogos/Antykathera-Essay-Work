@@ -1,7 +1,7 @@
 ---
 title: "A12′ — Against Monoculture"
 record_id: A12p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

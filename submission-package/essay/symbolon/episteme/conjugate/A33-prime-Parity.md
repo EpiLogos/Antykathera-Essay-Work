@@ -1,7 +1,7 @@
 ---
 title: "A33′ — Parity"
 record_id: A33p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued re-sited parity discipline; Paraphrased venue design questions"

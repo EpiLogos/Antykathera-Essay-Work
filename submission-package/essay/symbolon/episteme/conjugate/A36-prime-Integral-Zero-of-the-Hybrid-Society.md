@@ -1,7 +1,7 @@
 ---
 title: "A36′ — Integral Zero of the Hybrid Society"
 record_id: A36p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued integral return re-sited at technological register; Paraphrased brief scenarios as instance and test"

@@ -1,7 +1,7 @@
 ---
 title: "A05′ — Lights, Camera, Action"
 record_id: A05p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

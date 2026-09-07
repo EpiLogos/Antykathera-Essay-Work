@@ -1,7 +1,7 @@
 ---
 title: "A21′ — Individuation with Recognition"
 record_id: A21p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued from partner operation; brief Paraphrased venue material in scenario modality"

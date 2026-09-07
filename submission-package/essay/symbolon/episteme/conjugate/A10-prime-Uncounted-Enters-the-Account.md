@@ -1,7 +1,7 @@
 ---
 title: "A10′ — The Uncounted Enters the Account"
 record_id: A10p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

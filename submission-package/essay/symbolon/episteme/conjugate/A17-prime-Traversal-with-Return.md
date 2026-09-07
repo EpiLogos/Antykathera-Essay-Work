@@ -1,7 +1,7 @@
 ---
 title: "A17′ — Traversal with Return"
 record_id: A17p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

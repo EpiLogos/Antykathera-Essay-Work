@@ -1,7 +1,7 @@
 ---
 title: "A28′ — The Authored Session"
 record_id: A28p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued re-sited delegation operation; Paraphrased venue instances"

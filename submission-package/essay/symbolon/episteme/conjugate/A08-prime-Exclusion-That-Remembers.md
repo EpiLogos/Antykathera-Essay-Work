@@ -1,7 +1,7 @@
 ---
 title: "A08′ — Exclusion That Remembers"
 record_id: A08p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

@@ -1,7 +1,7 @@
 ---
 title: "A30′ — Shared Worlds, Unmerged"
 record_id: A30p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued re-sited co-internality operation; Paraphrased venue ecology"

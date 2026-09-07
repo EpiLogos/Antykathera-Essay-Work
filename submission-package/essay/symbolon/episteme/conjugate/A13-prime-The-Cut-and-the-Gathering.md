@@ -1,7 +1,7 @@
 ---
 title: "A13′ — The Cut and the Gathering"
 record_id: A13p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

@@ -1,7 +1,7 @@
 ---
 title: "A06′ — Articulation as Ontological Descent"
 record_id: A06p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

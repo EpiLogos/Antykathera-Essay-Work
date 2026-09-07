@@ -1,7 +1,7 @@
 ---
 title: "A26′ — The Essay Inside the Film"
 record_id: A26p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued self-application of the worldhood operation; workspace facts verifiable in-repo"

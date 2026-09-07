@@ -1,7 +1,7 @@
 ---
 title: "A20′ — The Image That Closes the Loop"
 record_id: A20p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued from partner operation; brief Paraphrased venue material in scenario modality"

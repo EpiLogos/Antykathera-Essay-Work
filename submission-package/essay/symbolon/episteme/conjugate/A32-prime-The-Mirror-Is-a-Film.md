@@ -1,7 +1,7 @@
 ---
 title: "A32′ — The Mirror Is a Film"
 record_id: A32p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued completed film operation; Paraphrased venue loop instances"

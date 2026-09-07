@@ -1,7 +1,7 @@
 ---
 title: "A03′ — The Limit of Self-Surfacing"
 record_id: A03p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

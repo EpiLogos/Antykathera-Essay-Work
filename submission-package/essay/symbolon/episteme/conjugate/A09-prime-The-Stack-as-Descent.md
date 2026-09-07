@@ -1,7 +1,7 @@
 ---
 title: "A09′ — The Stack as Descent"
 record_id: A09p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

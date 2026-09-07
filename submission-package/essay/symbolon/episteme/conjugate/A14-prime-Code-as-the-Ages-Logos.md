@@ -1,7 +1,7 @@
 ---
 title: "A14′ — Code as the Age's Logos"
 record_id: A14p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

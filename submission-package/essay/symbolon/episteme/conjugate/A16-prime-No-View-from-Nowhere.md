@@ -1,7 +1,7 @@
 ---
 title: "A16′ — No View from Nowhere"
 record_id: A16p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from

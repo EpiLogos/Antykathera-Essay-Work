@@ -1,7 +1,7 @@
 ---
 title: "A27′ — Encounter over Sovereignty"
 record_id: A27p
-record_type: argument
+record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: "Argued re-sited encounter operation; Paraphrased venue diagnostics"
