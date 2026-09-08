@@ -295,6 +295,9 @@ def render(root: Path) -> dict[Path, bytes]:
     for passage in sorted(all_passages, key=lambda item: item.passage_id):
         link = source_link(outputs["PASSAGE-LEDGER.md"], passage.source, passage.anchor)
         values = [passage.locator, passage.status, passage.provenance]
+        # Metadata is a text excerpt. Source-relative links belong to the
+        # canonical card; the first column provides the projection's own route.
+        values = [re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", value) for value in values]
         values = [value.replace("|", "\\|").replace("\n", " ") or "—" for value in values]
         ledger.append(
             f"| [`{passage.passage_id}`]({link}) | `{passage.source.source_id}` | {values[0]} | {values[1]} | {values[2]} |"

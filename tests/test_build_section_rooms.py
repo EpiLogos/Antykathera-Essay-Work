@@ -52,8 +52,12 @@ class SectionRoomV2Tests(unittest.TestCase):
             room = root / slug
             files = {path.name for path in room.iterdir() if path.is_file()}
             self.assertIn("ROOM.md", files)
+            self.assertIn("P1-CANONICAL-ALIGNMENT.md", files)
             self.assertFalse(files & LEGACY_NAMES)
-            self.assertTrue(files <= {"ROOM.md", "READING.md", "SCRATCH.md", "VISUALS.md"})
+            self.assertTrue(files <= {
+                "ROOM.md", "READING.md", "SCRATCH.md", "VISUALS.md",
+                "P1-CANONICAL-ALIGNMENT.md",
+            })
 
             text = (room / "ROOM.md").read_text(encoding="utf-8")
             words = len(re.findall(r"\b[^\s]+\b", re.sub(r"---.*?---", "", text, count=1, flags=re.DOTALL)))

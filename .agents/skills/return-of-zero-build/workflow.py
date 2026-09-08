@@ -141,6 +141,69 @@ def input_file(root: Path, relative: str) -> Path:
     return path
 
 
+def file_hash(path: Path) -> str:
+    return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def quilt_hashes(root: Path) -> dict[str, str]:
+    return {str(path.relative_to(root)): file_hash(path) for path in live_quilts(root)}
+
+
+def identity_index(root: Path, elements: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
+    """Validate identities without requiring not-yet-materialised pages to exist."""
+    index, homes = {}, set()
+    for element in elements:
+        identity = element.get("record_id")
+        home = element.get("canonical_home")
+        if not identity or not home or not element.get("register") or not element.get("record_type"):
+            raise ValueError("Census and queue require record_id, canonical_home, register and record_type")
+        path = (root / home).resolve()
+        if not path.is_relative_to(root):
+            raise ValueError(f"Canonical home escapes project: {home}")
+        if identity in index:
+            raise ValueError(f"Duplicate admitted identity: {identity}")
+        if path in homes:
+            raise ValueError(f"Multiple admitted records occupy one canonical home: {home}")
+        index[identity] = element
+        homes.add(path)
+    if not index:
+        raise ValueError("No admitted identities supplied")
+    return index
+
+
+def validate_queue(root: Path, queue_path: Path) -> tuple[dict[str, Any], list[dict[str, str]], dict[str, Any]]:
+    queue_path = input_file(root, str(queue_path))
+    queue = json.loads(queue_path.read_text(encoding="utf-8"))
+    if queue.get("status") != "reconciled":
+        raise ValueError("Page packets require a reconciled census queue")
+    census_path = input_file(root, queue["census"])
+    if queue.get("census_sha256") != file_hash(census_path):
+        raise ValueError("Queue census binding is absent or stale")
+    census = json.loads(census_path.read_text(encoding="utf-8"))
+    census_index = identity_index(root, census["elements"])
+    queue_index = identity_index(root, queue["elements"])
+    for identity, element in queue_index.items():
+        admitted = census_index.get(identity)
+        if admitted is None or any(element[field] != admitted[field] for field in
+                                   ("canonical_home", "register", "record_type")):
+            raise ValueError(f"Queue identity disagrees with census: {identity}")
+    depth = depth_inputs(root, live_quilts(root))
+    acceptance_path = input_file(root, queue["depth_acceptance"])
+    if queue.get("depth_acceptance_sha256") != file_hash(acceptance_path):
+        raise ValueError("Queue depth-acceptance binding is absent or stale")
+    acceptance = json.loads(acceptance_path.read_text(encoding="utf-8"))
+    if acceptance.get("status") != "accepted" or acceptance.get("argument_depth") != depth:
+        raise ValueError("Argument-depth review is absent or stale against current packet hashes")
+    quilts = quilt_hashes(root)
+    if not quilts or acceptance.get("quilt_hashes") != quilts:
+        raise ValueError("Argument-depth review quilt binding is absent or stale")
+    binding = {"queue": str(queue_path.relative_to(root)), "queue_sha256": file_hash(queue_path),
+               "census": str(census_path.relative_to(root)), "census_sha256": file_hash(census_path),
+               "depth_acceptance": str(acceptance_path.relative_to(root)),
+               "depth_acceptance_sha256": file_hash(acceptance_path), "quilt_hashes": quilts}
+    return queue, depth, binding
+
+
 def extract_slice(root: Path, item: dict[str, Any]) -> dict[str, Any]:
     path = input_file(root, item["path"])
     lines = path.read_text(encoding="utf-8").splitlines()
@@ -158,13 +221,7 @@ def extract_slice(root: Path, item: dict[str, Any]) -> dict[str, Any]:
 def cmd_packet(args: argparse.Namespace) -> int:
     root = Path(args.project_root).resolve()
     try:
-        depth = depth_inputs(root, live_quilts(root))
-        queue = json.loads(Path(args.queue).read_text(encoding="utf-8"))
-        if queue.get("status") != "reconciled":
-            raise ValueError("Page packets require a reconciled census queue")
-        acceptance = json.loads(input_file(root, queue["depth_acceptance"]).read_text(encoding="utf-8"))
-        if acceptance.get("status") != "accepted" or acceptance.get("argument_depth") != depth:
-            raise ValueError("Argument-depth review is absent or stale against current packet hashes")
+        queue, depth, binding = validate_queue(root, Path(args.queue))
         matches = [e for e in queue["elements"] if e.get("record_id") == args.target]
         if len(matches) != 1:
             raise ValueError(f"Target must have exactly one admitted identity: {args.target}")
@@ -180,6 +237,8 @@ def cmd_packet(args: argparse.Namespace) -> int:
         required_paths = [*element["direct_carriers"], *element.get("additional_required_inputs", []),
                           element["register_contract"], ".agents/skills/return-of-zero-pages/SKILL.md",
                           ".agents/skills/return-of-zero-links/SKILL.md"]
+        if element.get("register_contract_domain"):
+            required_paths.append(element["register_contract_domain"])
         for relative in dict.fromkeys(required_paths):
             path = input_file(root, relative)
             inputs.append({"path": relative, "sha256": hashlib.sha256(path.read_bytes()).hexdigest()})
@@ -193,7 +252,7 @@ def cmd_packet(args: argparse.Namespace) -> int:
                             "notes": str(notes.relative_to(root)) if notes.is_file() else None,
                             "notes_sha256": hashlib.sha256(notes.read_bytes()).hexdigest() if notes.is_file() else None,
                             "notes_policy": "read in full; authorial provenance; never mutate"})
-        packet = {"schema_version": 1, "target": element, "argument_depth": selected_depth,
+        packet = {"schema_version": 2, "binding": binding, "target": element, "argument_depth": selected_depth,
                   "required_inputs": inputs, "sources": sources,
                   "slices": [extract_slice(root, item) for item in element["source_slices"]],
                   "raw_skeleton": "# " + element.get("title", args.target) + "\n\n" + "\n\n".join("## " + p for p in ["#0", "#1", "#2", "#3", "#4", "#5→0"]),
@@ -204,6 +263,30 @@ def cmd_packet(args: argparse.Namespace) -> int:
     output = Path(args.output)
     output.write_text(json.dumps(packet, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"wrote target packet: {output}")
+    return 0
+
+
+def cmd_verify_packet(args: argparse.Namespace) -> int:
+    """Rebuild from live inputs and compare every bound field and extracted slice."""
+    import tempfile
+    try:
+        packet = json.loads(Path(args.packet).read_text(encoding="utf-8"))
+        if packet.get("schema_version") != 2 or "binding" not in packet:
+            raise ValueError("Packet has no current manifest binding")
+        root = Path(args.project_root).resolve()
+        queue_path = input_file(root, packet["binding"]["queue"])
+        with tempfile.TemporaryDirectory() as temporary:
+            rebuilt = Path(temporary) / "packet.json"
+            result = cmd_packet(argparse.Namespace(project_root=str(root), queue=str(queue_path),
+                                target=packet["target"]["record_id"], output=str(rebuilt)))
+            if result:
+                return result
+            if packet != json.loads(rebuilt.read_text(encoding="utf-8")):
+                raise ValueError("Packet is stale or altered against its queue and current inputs")
+    except (OSError, ValueError, TypeError, KeyError) as exc:
+        print(f"error: {exc}", file=sys.stderr)
+        return 1
+    print(f"verified packet freshness: {args.packet}")
     return 0
 
 
@@ -315,6 +398,11 @@ def main(argv: list[str] | None = None) -> int:
     p_packet.add_argument("--target", required=True)
     p_packet.add_argument("--output", required=True)
     p_packet.set_defaults(func=cmd_packet)
+
+    p_verify = sub.add_parser("verify-packet", help="check manifest binding and every live packet input")
+    p_verify.add_argument("--project-root", default=argparse.SUPPRESS)
+    p_verify.add_argument("--packet", required=True)
+    p_verify.set_defaults(func=cmd_verify_packet)
 
     p_hygiene = sub.add_parser("hygiene", help="run link/effect validation gates")
     p_hygiene.add_argument("--project-root", default=argparse.SUPPRESS, help="project root path")

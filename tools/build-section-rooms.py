@@ -21,7 +21,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from source_resolver import build_source_index
 
 
-BUILDER_VERSION = "2.0.0"
+BUILDER_VERSION = "2.0.1"
 ROOM_FILE = "ROOM.md"
 MANUSCRIPT = "submission-package/essay/THE-RETURN-OF-ZERO.md"
 ROOM_ROOT = "submission-package/essay/section-rooms"
@@ -139,6 +139,9 @@ def first_body_section(body: str) -> str:
 def sentence_excerpt(text: str, maximum_sentences: int = 1, maximum_words: int = 48) -> str:
     """Keep complete opening sentences; never cut a proposition mid-sentence."""
     clean = re.sub(r"\[\[([^]|]+)(?:\|([^]]+))?\]\]", lambda m: m.group(2) or m.group(1), text)
+    # Excerpts carry prose; the Open row supplies links resolved from the room.
+    # A movement's relative destinations cannot be copied one directory up.
+    clean = re.sub(r"!?\[([^\]]+)\]\((?:[^()]|\([^()]*\))*\)", r"\1", clean)
     clean = re.sub(r"\s+", " ", clean).strip()
     clean = re.sub(r"^\*\*[^*]+:\*\*\s*", "", clean)
     if not clean:
@@ -454,7 +457,7 @@ def root_readme() -> str:
 
 The essay is written in [`THE-RETURN-OF-ZERO.md`](../THE-RETURN-OF-ZERO.md). These eight rooms are compact section-local waypoints into the canonical argument and source houses.
 
-Each room requires only `ROOM.md`, which is generated and should not be edited. A room may also contain `READING.md` when cross-source order genuinely teaches the section, `SCRATCH.md` for temporary writing, or `VISUALS.md` for an admitted visual argument. Full quotation, source teaching, bibliographic detail and worked examples belong in the linked `SOURCE.md` houses.
+Each room contains generated `ROOM.md` and authored `P1-CANONICAL-ALIGNMENT.md`. The alignment preserves the six Movements' programme roles and their exact routes to canonical Arguments and Concepts; the builder does not rewrite it. A room may also contain `READING.md` when cross-source order genuinely teaches the section, `SCRATCH.md` for temporary writing, or `VISUALS.md` for an admitted visual argument. Full quotation, source teaching, bibliographic detail and worked examples belong in the linked `SOURCE.md` houses.
 
 ```bash
 python3 tools/build-section-rooms.py --project-root .

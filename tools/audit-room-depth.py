@@ -16,7 +16,7 @@ from source_resolver import resolve_source_house
 
 
 ROOM_ROOT = Path("submission-package/essay/section-rooms")
-ALLOWED = {"ROOM.md", "READING.md", "SCRATCH.md", "VISUALS.md"}
+ALLOWED = {"ROOM.md", "P1-CANONICAL-ALIGNMENT.md", "READING.md", "SCRATCH.md", "VISUALS.md"}
 LEGACY = {
     ".section-room.json", "00-SECTION-CONTEXT.md", "04-READING-PATH.md",
     "05-ROOM-DOSSIER.md", "10-FRANK-DRAFT.md", "20-SCHOLARLY-EDITION.md",
@@ -159,7 +159,7 @@ def audit_room(project: Path, slug: str) -> list[str]:
         errors.append("unexpected active files: " + ", ".join(sorted(unexpected)))
     if files & LEGACY:
         errors.append("legacy room system remains active: " + ", ".join(sorted(files & LEGACY)))
-    for required in ("ROOM.md",):
+    for required in ("ROOM.md", "P1-CANONICAL-ALIGNMENT.md"):
         if required not in files:
             errors.append(f"required file is missing: {required}")
     if errors:
