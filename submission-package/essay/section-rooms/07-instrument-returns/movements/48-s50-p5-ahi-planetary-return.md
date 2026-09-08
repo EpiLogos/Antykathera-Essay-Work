@@ -98,7 +98,7 @@ This is a substantial technical achievement without settling phenomenal subjecti
 - sources and affected Others remain capable of entering Return;
 - no achieved local or collective `1` inherits the throne of `0`.
 
-A null result matters. If a sophisticated harness cannot revise the gauge that produced its judgment, if a commons cannot return authority to affected centres, or if a Bimba federation can interoperate only by installing a hidden master evaluator, the failure is evidence about the architecture rather than an exception to its theory.
+A null result matters. If a sophisticated harness cannot revise the gauge that produced its judgment, [if a commons cannot return authority to affected centres](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#commons-and-responsible-return), or if a Bimba federation can interoperate only by installing a hidden master evaluator, the failure is evidence about the architecture rather than an exception to its theory.
 
 ## Return to the formal limit
 
@@ -110,7 +110,21 @@ The final question is therefore:
 
 Return of Zero answers operationally rather than by supplying a final object: restore the relation to source, alterity and consequence each time determination forgets the ground it cannot occupy.
 
+[the Prisoner whole](../../../symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-return-without-throne) **figures** a return without a final exterior sovereign. The escape carries distinct companions whose paths diverge, while the automatic door at Six's London home leaves the achieved exit open to another encounter with the conditions of his world. The planetary return likewise concerns continuing answerability across affected worlds, not their enclosure under a victorious master. This is a narrative refraction of the offered distributed capacity; the technical and institutional proof duties remain here.
+
+The [Mirror That Moves First whole](../../../symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-return) **figures** the planetary return through an instrument which initiates disclosure of its own conditions and lets humanity follow beyond its image. The institution holding it enters the same accountability as its users. Plural local worlds retain judgment and refusal; their coupled activity acquires no final super-subject through the mirror’s initiative.
+
 ## Anchor and return
 **QL anchor:** `5→0` — every achieved `1` returns without possessing `0`. **Image:** many mirrors able to move, each grounded enough to act and open enough to be corrected by what answers back. The mechanism turns; the essay returns to the [[Immutable Gap and Meta-Sign|formal limit]] as living openness.
 
 **Faith is falling with a smile.**
+
+The [Symbol / Account / Trust whole-field — Account re-enters source-field](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field) **qualifies** this operation at evidence register 3. The circulating account changes conditions outside itself. Return can revise a local model, translation, gauge or institution while preserving plural centres and their independent grounds. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
+
+The achieved planetary return **returns-to** [Apportionment / Economy whole — Planetary computation exposes hidden economy](../../../symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md#planetary-computation-exposes-hidden-economy) at evidence register 3. Labour, material dependence and affected worlds accompany the result into its next use. Their return requires an office able to change the next allocation; planetary scope alone supplies neither a completed institution nor one planetary Subject.
+
+Planetary return **returns-to** [Natio and neo-nativity](../../../symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#natio-and-neo-nativity) where institutions, records and translations inherited from one circuit become another generation’s apparent starting world. Their production must remain recoverable, including whose belonging and permissions they shaped. Epi-Logos carries that history back into revised common action; federation retains locally governed grounds instead of naturalising its latest arrangement as one planetary origin.
+
+The [zero–subject history](../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT.md#50--the-exact-sign-returns-into-accountable-practice) **compares** this return. Federated epistemic return requires locally answerable worlds whose governing gauges and translations can be revised. Failure at that point is a failed test of the Offered architecture, not a completed return renamed for convenience. Disclosure of the machinery does not settle phenomenal subjectivity; the exact sign remains usable while its source relation can change the next act.
+
+The [authored P1 route for M48](../P1-CANONICAL-ALIGNMENT.md#p1-m48) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

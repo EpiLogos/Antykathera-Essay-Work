@@ -24,3 +24,9 @@ The senarius derives its force from the exact relation between four explicit and
 
 ## Anchor and transition
 **Image:** Ares and Aphrodite bearing Harmonia without merger. **QL anchor:** quaternity-in-motion. Eros and Psyche may be given as an optional self-contained QL plate linked from this movement — the four labours as the explicate middle, descent and waking as implicate thresholds, marriage without merger — rather than a second long narrative inside the prose. Transmission across sign and image is handled by [[34-s4-p3-lacan-matheme-mytheme|§4 · #3 — Lacan, Matheme, and Mytheme]].
+
+The supplementary contemplation **returns-to** [the Eros–Psyche whole](submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md#psyche-native-return). It retains all helpers, the descent’s reserved return, arrow-prick waking, the earlier pregnancy and Voluptas’s birth. [A13](submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md) owns the native relation, and [Homology / Analogy](submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#a-whole-that-can-qualify-its-comparison) keeps the source’s legal-possession ending distinct from the author’s union-without-merger reading.
+
+The [myth historical development](../../../symbolon/episteme/histories/encounters-and-transmissions/myth/DEVELOPMENT.md#4--aesthetic-reciprocity-becomes-a-perspective-capable-of-return) **qualifies** the quaternity comparison through distinct functions and attitudes. The four-function/two-attitude source task belongs to the Jung dossier; A18 retains the complete native eightfold derivation and no numerical identity is inferred.
+
+The [authored P1 route for M33](../P1-CANONICAL-ALIGNMENT.md#p1-m33) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

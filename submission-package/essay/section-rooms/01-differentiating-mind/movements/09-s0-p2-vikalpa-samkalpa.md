@@ -31,3 +31,9 @@ Construction proceeds under constraint: vikalpa inherits the field of relations 
 
 ## Anchor and transition
 **QL anchor:** inherited `0/1` → dia-cut → selected `1` → sym-composition → revised field. **Image:** weaving by cutting and joining. The semantic mechanism of the cut is specified by [[10-s0-p3-apoha|§0 · #3 — Apoha]].
+
+Constructive selection **returns-to** [Name-through-Count](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count) at the passage from available alternatives into a committed course. A name gathers something already distinguishable in a circumstance; the resulting intention can become script when that circumstance and its excluded possibilities can no longer change the next act. The return preserves selection while restoring the means of forming another course.
+
+Constitutive exclusion remains one joint within differentiation, gathering and recognition; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-exclusion) **qualifies** this historical attribution.
+
+The [authored P1 route for M09](../P1-CANONICAL-ALIGNMENT.md#p1-m09) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

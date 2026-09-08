@@ -24,7 +24,7 @@ That analogue returns to the wider §0 field rather than detaching apoha from it
 
 Dignāga makes a term determinate through exclusion, and the double negation carries real weight: *cow* as *not non-cow* does not collapse into plain affirmation because the two negations function differently. The excluded field remains constitutive of the determination.
 
-The machine comparison is narrower. Softmax retains alternatives as a weighted distribution; sampling or argmax yields a selected mark. Preference training can then operate on records produced through repeated selections. This gives the essay an inspectable contrast between a determination that retains a differential field and a determination viewed only at the point of selection.
+The machine comparison is narrower. Softmax retains alternatives as a weighted distribution; sampling or argmax yields a selected mark. [Preference training can then operate on records produced through repeated selections](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#preference-training-and-delegation). This gives the essay an inspectable contrast between a determination that retains a differential field and a determination viewed only at the point of selection.
 
 The contrast matters technically because argmax has no gradient: learning does not pass through the bare discrete choice. It operates through differentiable fields around such choices or through other training estimators and objectives. The essay uses that asymmetry to test its distinction between a calculative office that selects and a meditative office that keeps exclusion, provenance and ground available for return. The relation is a research proposition, not an identity between Buddhist semantics and machine learning.
 
@@ -37,3 +37,11 @@ The broader transverse context is governed by [[PRE-39-SIGNAL-LINK-TATTVA-WORLD-
 
 ## Anchor and transition
 **QL trace:** selected `1`, relevant excluded field `0`, and the contextual slash that made the contrast operative. The inspectable differentiation history opens onto [[39-s5-p2-j-space|§5 · #2 — J-Space]], where judgments, affordances, uncertainties, memories, tools and interlocutors become a relational field.
+
+Token selection **returns-to** [Name-through-Count](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count) with its comparison class and the rule that made the output count. Scores, normalisation and the selected token retain different information. Preserving a relevant rejected candidate can make the choice revisable; calling the final token exclusion-constituted does not recover that information or turn softmax into a Buddhist semantic theory.
+
+The [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#50--evaluation-returns-to-the-practice-selecting-it) **historicises** this operation. Vaswani’s attention weights values through a softmax distribution; the selected PyTorch definitions distinguish that distribution from argmax’s index, including the first-maximum tie convention. Scores, weights and a selected mark retain separate jobs. Preserving the weights does not itself preserve the prompt, source authority or excluded comparison class required by the argued apoha return.
+
+PyTorch2.9 softmax/argmax cards specify different retained information; neither establishes Buddhist doctrinal identity; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-selection) **qualifies** this operational comparison.
+
+The [authored P1 route for M38](../P1-CANONICAL-ALIGNMENT.md#p1-m38) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

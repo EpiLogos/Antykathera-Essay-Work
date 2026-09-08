@@ -25,4 +25,10 @@ The historical sequence matters. Freud's scientific admission of the unconscious
 Persona consistency stabilises a presented pattern; individuation makes the local formation increasingly transparent to the larger relation through which it forms. Technical individuation can be evaluated at that functional level, while phenomenality remains a separate open question.
 
 ## Anchor and transition
+
+The individuation passage returns to [E2’s resolution in reconciliation](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation) through reconciliation that changes the history of participation while retaining its differences. Taylor’s X/x derivation remains prior to its Jungian refraction. The return tests whether integration opens the ego’s account to the whole it inhabits or merely enlarges the ego’s protected jurisdiction.
 **QL anchor:** authorial `X/x` as determining-capacity / indefinite-particular relation. **Agentworld pressure:** provisional coherence must disclose its conditions. Differentiated wholeness expands in [[33-s4-p2-complexio-quaternity-senarius|§4 · #2 — Complexio, Quaternity, and Senarius]].
+
+The [Indian philosophy companion](../../../symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT.md#4--recognition-returns-through-the-life-that-has-become-finite) **compares** the Śaiva and psychological recognition branches, retaining the changed participation of this particular life and E2’s generated return relation. Native X/x governs the refraction.
+
+The [authored P1 route for M32](../P1-CANONICAL-ALIGNMENT.md#p1-m32) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

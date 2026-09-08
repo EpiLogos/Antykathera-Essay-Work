@@ -92,5 +92,11 @@ Berkeley supplies a bounded historical idealist warrant, not the whole terminal 
 
 The movement therefore remains **Offered**. Its achievement is to state why the question of dependence survives technical completion and becomes sharper at the point where the technical field can finally disclose so much of its own epistemic constitution.
 
+[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#analogical-proportion) **qualifies** this terminal horizon by keeping dependence attached to its stated respect. A local Bimba genuinely conditions an inquiry and its subsequent determinations; in the wider relation that original remains source-dependent. Epistemic priority, causal influence and ontological dependence therefore cannot exchange directions merely because each is called priority. The inherited Offered horizon here names the technical passage and its further comparisons; A34 and C60 carry the essay's positive Argued order Subject/Consciousness → Mind/Objective Internality → Object. That ontology remains in force while particular historical identifications and artificial phenomenal localisation retain their separate open tasks.
+
 ## Anchor and transition
 **Image:** a locally authoritative map held inside a field it cannot finally map from outside. **Question:** when every inspectable condition of a determination has become explicit, what is the order of dependence of the appearing field itself? The practical return is [[48-s50-p5-ahi-planetary-return|§5→0 · #5→0 — AHI and Planetary Return]].
+
+The terminal comparison **returns-to** [Count-through-Countenance](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-through-countenance) where an encountered other exceeds the account under which they were named. That reply can correct an epistemic attribution without deciding the ontological order by itself. A34’s Argued dependence remains its own proposition; the Offered technical horizon and the still-open artificial phenomenal question retain their distinct offices.
+
+The [authored P1 route for M47](../P1-CANONICAL-ALIGNMENT.md#p1-m47) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

@@ -6,9 +6,9 @@
 
 ## Section burden after T09
 
-§3 gives the native/formal body without collapsing formal neighbours into proofs of the authored ontology. Its governing centre is **A18 Primordial Symbolon and Its Eight Determinations**, supported by A11–A17 and articulated through C11 QL, C20 Arche-Topos, C49 Two Ones, C50 Dia/Syn, C52 dimensional reframing and C61 disclosure architecture.
+§3 gives the native/formal body without collapsing formal neighbours into proofs of the authored ontology. Its governing centre is **[A18](../../symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) Primordial Symbolon and Its Eight Determinations**, supported by [A11](../../symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md)/[A12](../../symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md)/[A13](../../symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md)/[A14](../../symbolon/episteme/arguments/A14-Computational-Process-Ontology.md)/[A15](../../symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md)/[A16](../../symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md)/[A17](../../symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) and articulated through [C11](../../symbolon/episteme/concepts/C11-Quaternal-Logic.md) QL, [C20](../../symbolon/episteme/concepts/C20-Arche-Topos.md) Arche-Topos, [C49](../../symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md) Two Ones, [C50](../../symbolon/episteme/concepts/C50-Dia-Syn.md) Dia/Syn, [C52](../../symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md) dimensional reframing and [C61](../../symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md) disclosure architecture.
 
-The exact A18 traversal is one continuous relation:
+The exact [A18](../../symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md) traversal is one continuous relation:
 
 `−/−, 0/1, ?/!, −/+, X/x, AM/IS, ∞/dx, 1/0`.
 
@@ -16,12 +16,14 @@ It is not eight detachable topics and is not the definition of QL as a whole. Re
 
 ## Canonical routes
 
-- M25 → A18; C11/C21/C49/C50/C61/C64; exact traversal + Symbol/Account/Trust.
-- M26 → A11–A14/A18; C11/C49/C50; Spanda/4+2 Matheme with source boundary intact.
-- M27 → A14/A18/A19; C31/C64; re-entry/complex formal neighbours via source-distinct Homologia/Analogia.
-- M28 → A10/A17; C52/C64; projective/dimensional Matheme; witness not metaphysical derivation.
-- M29 → A15–A17; C20/C52; topology/music Matheme + Homologia/Analogia.
-- M30 → A16/A17/A18; C20/C30/C61; Arche-Topos across Matheme/Mytheme/Episteme without register collapse.
+Each anchored row **returns-to** its Movement; its linked A/C route **grounds** the canonical alignment within the authored phase bounds and dispositions below.
+
+- <a id="p1-m25"></a>[M25](movements/25-s3-p0-eight-determinations.md) → [A18](../../symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md); [C11](../../symbolon/episteme/concepts/C11-Quaternal-Logic.md)/[C21](../../symbolon/episteme/concepts/C21-Living-Symbol-Idol.md)/[C49](../../symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md)/[C50](../../symbolon/episteme/concepts/C50-Dia-Syn.md)/[C61](../../symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md)/[C64](../../symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md); exact traversal + Symbol/Account/Trust.
+- <a id="p1-m26"></a>[M26](movements/26-s3-p1-spanda-4-2.md) → [A11](../../symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md)/[A12](../../symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md)/[A13](../../symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md)/[A14](../../symbolon/episteme/arguments/A14-Computational-Process-Ontology.md)/[A18](../../symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md); [C11](../../symbolon/episteme/concepts/C11-Quaternal-Logic.md)/[C49](../../symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md)/[C50](../../symbolon/episteme/concepts/C50-Dia-Syn.md); Spanda/4+2 Matheme with source boundary intact.
+- <a id="p1-m27"></a>[M27](movements/27-s3-p2-mark-reentry-complex.md) → [A14](../../symbolon/episteme/arguments/A14-Computational-Process-Ontology.md)/[A18](../../symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md)/[A19](../../symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md); [C31](../../symbolon/episteme/concepts/C31-Complex.md)/[C64](../../symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md); re-entry/complex formal neighbours via source-distinct Homologia/Analogia.
+- <a id="p1-m28"></a>[M28](movements/28-s3-p3-projective-dimensional-reframing.md) → [A10](../../symbolon/episteme/arguments/A10-Advent-of-Zero.md)/[A17](../../symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md); [C52](../../symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md)/[C64](../../symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md); projective/dimensional Matheme; witness not metaphysical derivation.
+- <a id="p1-m29"></a>[M29](movements/29-s3-p4-topology-music-resolution.md) → [A15](../../symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md)/[A16](../../symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md)/[A17](../../symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md); [C20](../../symbolon/episteme/concepts/C20-Arche-Topos.md)/[C52](../../symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md); topology/music Matheme + Homologia/Analogia.
+- <a id="p1-m30"></a>[M30](movements/30-s3-p5-arche-topos.md) → [A16](../../symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md)/[A17](../../symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md)/[A18](../../symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md); [C20](../../symbolon/episteme/concepts/C20-Arche-Topos.md)/[C30](../../symbolon/episteme/concepts/C30-Psychoid-Number.md)/[C61](../../symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md); Arche-Topos across Matheme/Mytheme/Episteme without register collapse.
 
 ## Release
 

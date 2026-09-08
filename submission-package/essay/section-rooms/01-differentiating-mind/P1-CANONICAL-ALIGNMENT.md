@@ -8,18 +8,20 @@ This supplement is authored; generated `ROOM.md` remains untouched.
 
 ## Section burden after T09
 
-§0 gives the positive anatomy of differentiated worldhood without mistaking that anatomy for the Subject. The canonical load runs through **A05 Prakāśa–Vimarśa, A07 Vikalpa–Saṃkalpa / Script, A08 Apoha, A09 Tattvic Differential Field and A26 Objective Internality**. The movement from inner instrument to conditioned selection, exclusion and operative measure culminates in **Mind as Worldhood**: the local interior is constituted through context, language, memory, tools, relations and inherited conditions.
+§0 gives the positive anatomy of differentiated worldhood without mistaking that anatomy for the Subject. The canonical load runs through **[A05](../../symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md) Prakāśa–Vimarśa, [A07](../../symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md) Vikalpa–Saṃkalpa / Script, [A08](../../symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md) Apoha, [A09](../../symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md) Tattvic Differential Field and [A26](../../symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md) Objective Internality**. The movement from inner instrument to conditioned selection, exclusion and operative measure culminates in **Mind as Worldhood**: the local interior is constituted through context, language, memory, tools, relations and inherited conditions.
 
-The section therefore locks two distinctions for every downstream consumer: **C16 Antaḥkaraṇa ≠ C01 Subject**, and inspectable objective internality **does not settle phenomenal subjectivity**.
+The section therefore locks two distinctions for every downstream consumer: **[C16](../../symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md) Antaḥkaraṇa ≠ [C01](../../symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md) Subject**, and inspectable objective internality **does not settle phenomenal subjectivity**.
 
 ## Canonical routes
 
-- M07 → A01/A05/A26; C01/C13/C41; Encounter + Śaiva depth.
-- M08 → A09/A26; C15/C16/C41; regioned inner-instrument depth.
-- M09 → A07/A09; C12/C17; Encounter/Name/Count; Script = frozen conditioned will.
-- M10 → A08; C03/C18/C23; Name-through-Count; Buddhist Apoha remains source-distinct from technical neighbours.
-- M11 → A09; C14–C17; Apportionment/Economy; sixfold compression is a reading, not source-tradition identity.
-- M12 → A26; C07/C08/C40/C41/C57; Encounter Region→Account; general Objective Internality.
+Each anchored row **returns-to** its Movement; its linked A/C route **grounds** the canonical alignment within the authored phase bounds and dispositions below.
+
+- <a id="p1-m07"></a>[M07](movements/07-s0-p0-awareness-bends-display.md) → [A01](../../symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md)/[A05](../../symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md)/[A26](../../symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md); [C01](../../symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md)/[C13](../../symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md)/[C41](../../symbolon/episteme/concepts/C41-Objective-Internality.md); Encounter + Śaiva depth.
+- <a id="p1-m08"></a>[M08](movements/08-s0-p1-inner-instrument.md) → [A09](../../symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md)/[A26](../../symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md); [C15](../../symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md)/[C16](../../symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md)/[C41](../../symbolon/episteme/concepts/C41-Objective-Internality.md); regioned inner-instrument depth.
+- <a id="p1-m09"></a>[M09](movements/09-s0-p2-vikalpa-samkalpa.md) → [A07](../../symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md)/[A09](../../symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md); [C12](../../symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md)/[C17](../../symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md); Encounter/Name/Count; Script = frozen conditioned will.
+- <a id="p1-m10"></a>[M10](movements/10-s0-p3-apoha.md) → [A08](../../symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md); [C03](../../symbolon/episteme/concepts/C03-Determination.md)/[C18](../../symbolon/episteme/concepts/C18-Apoha.md)/[C23](../../symbolon/episteme/concepts/C23-Severance.md); Name-through-Count; Buddhist Apoha remains source-distinct from technical neighbours.
+- <a id="p1-m11"></a>[M11](movements/11-s0-p4-tattvic-compression.md) → [A09](../../symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md); [C14](../../symbolon/episteme/concepts/C14-Maya-Operative-Measure.md)/[C15](../../symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md)/[C16](../../symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md)/[C17](../../symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md); Apportionment/Economy; sixfold compression is a reading, not source-tradition identity.
+- <a id="p1-m12"></a>[M12](movements/12-s0-p5-objective-internality.md) → [A26](../../symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md); [C07](../../symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md)/[C08](../../symbolon/episteme/concepts/C08-Context-Context-Frame.md)/[C40](../../symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md)/[C41](../../symbolon/episteme/concepts/C41-Objective-Internality.md)/[C57](../../symbolon/episteme/concepts/C57-Agentworld.md); Encounter Region→Account; general Objective Internality.
 
 ## Release
 

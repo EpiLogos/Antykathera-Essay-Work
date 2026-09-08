@@ -46,3 +46,5 @@ Within set theory, `∅` is an exact object and `{∅}` its exact singleton. The
 ## Transition
 
 The next movement asks how this relation can be carried as a sign without pretending that the mark exhausts its ground: [[16-s1-p3-crossed-zero|§1 · #3 — The Crossed Zero]].
+
+The [authored P1 route for M15](../P1-CANONICAL-ALIGNMENT.md#p1-m15) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

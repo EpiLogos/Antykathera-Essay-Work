@@ -19,8 +19,14 @@ Kashmir Śaivism’s [[Prakāśa-Vimarśa]] names luminosity and self-recognitio
 
 [[16-bohmian-enfoldment-dialogical-return|Bohm's holomovement]] articulates the same process burden in a distinct lineage: the whole recurrently enfolds and unfolds, while apparently separate things are relatively stable explicate forms within that movement. The tattvas will specify the ordered differentiations that “implication” alone leaves general.
 
+The [Indian philosophy dossier](../../../symbolon/episteme/dossiers/indian-philosophy.md#1--reflexive-awareness-gives-differentiation-its-active-middle) **historicises** the active knowing and differentiating power through the source-local Śaiva account.
+
+
+
 ## Tension / limit
 This metaphysical register supplies a grammar for the functional technical analogue developed in the agent sections. Any attribution of its ontological or phenomenal claims to machines would require a separate argument and remains open.
 
 ## Anchor and transition
 **QL anchor:** the slash is activity before it is a separator. **Image:** light seeing its own reflection; the whole folded into each local display. Differentiation requires an articulable apparatus, addressed by [[08-s0-p1-inner-instrument|§0 · #1 — The Inner Instrument]].
+
+The [authored P1 route for M07](../P1-CANONICAL-ALIGNMENT.md#p1-m07) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

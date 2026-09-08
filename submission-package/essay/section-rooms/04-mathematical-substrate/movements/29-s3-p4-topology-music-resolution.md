@@ -80,6 +80,12 @@ Thus the \(16/9\) totality reaches octave return through the \(9/8\) remainder. 
 
 Cymatics gives the disciplined bridge between auditory and visual expression. Under material boundary conditions, acoustic standing waves become visible as nodal form. The same dynamic has a sounded and seen face. This supports the prakāśa–vimarśa and nāda–vāk framing without claiming that every visual form, sound, and conscious event is physically identical.
 
+[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#e5-whole-returns) **qualifies** the spatial and temporal return through two exact witnesses. The lifted loop's integer displacement retains its winding class, not every detail of the traversed history. The musical product retains `9/8` as the factor completing `16/9` to `2`. Their coordination is the native return through difference; it does not identify vector displacement with ratio or supply a physical mechanism connecting every corresponding image. Confinement and visible nodal patterns keep their material conditions and empirical warrants as this relation passes into the Arche-Topos.
+
 ## Transition
 
 Topology and music now become spatial and temporal renderings of a single relational field: toroidal winding carries return in space; interval and cadence carry return in time; cymatics lets vibration cross into visible nodal pattern. §3 · #5→0 names that field the arche-topos.
+
+The [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#4--commensuration-makes-a-remainder-consequential) **historicises** this operation. The completing product 16/9 · 9/8 = 2 is exact. Scholtz’s twelve-fifths/seven-octaves comparison instead produces 531441/524288, whose distribution changes tuning according to a selected criterion. Temperament and exact completion consequently return different accounts of the remainder; six pure tones cannot be substituted for the octave.
+
+The [authored P1 route for M29](../P1-CANONICAL-ALIGNMENT.md#p1-m29) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

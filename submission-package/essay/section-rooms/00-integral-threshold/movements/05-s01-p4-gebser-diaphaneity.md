@@ -32,5 +32,15 @@ This establishes the historical promise that the later theorem makes exact: the 
 ## Tension / limit
 Every cross-register bridge carries a declared claim status and identifies the operation shared across distinct objects. “Same problem” licenses comparison only at that stated level.
 
+The [travelling-jigsaw whole](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **figures** the initial box-lid whose picture fixes every later placement, then opens the promise of reconstructive picturing. Encounter can make the view’s framing activity legible without renouncing the local picture. The exact chart and technical atlas developments retain their later places in the movement of the argument.
+
 ## Anchor and transition
 **Image:** light refracted without losing the prism; the prism becomes visible in the colour it makes possible. **QL anchor:** multiple lenses around a retained `0`. The method asks which sign can position the unobjectifiable, opening [[06-s01-p5-return-zero|§0/1 · #5→0 — The Return to Zero]].
+
+The [complete stained-glass whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-projection) **figures** this contextual turn through light, pane, seam, projected image and situated viewer. Its source distinctions remain visible in the resulting display; recognition returns through the apparatus rather than completing an exhaustive picture. The whole carries the optical development behind this local Movement.
+
+The perspectival turn **returns-to** [Con-text-through-Diaphaneity → Regard](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity) as the viewer becomes readable within the conditions of the view. Delineation-through-Difference keeps the frame and its exclusions explicit; Regard makes this disclosure consequential for judgment. More visible context can leave a measure unchanged, so the return must reach the office able to reconsider that measure. The generated relations are authorial developments with Gebser’s historical warrant kept distinct.
+
+The [zero–subject history](../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT.md#2--the-seeing-condition-becomes-a-represented-centre) **compares** this return. Gebser’s cultural account of perspective and Heidegger’s diagnosis of representation make different aspects of the seeing condition available. Their conjunction here is an argued juxtaposition, with no documented mutual influence asserted. Taylor’s contextual return concerns participation in the view’s work, preserving the source-specific histories and the native double reading.
+
+The [authored P1 route for M05](../P1-CANONICAL-ALIGNMENT.md#p1-m05) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

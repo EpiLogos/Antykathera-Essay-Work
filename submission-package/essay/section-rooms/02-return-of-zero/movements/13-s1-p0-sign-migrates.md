@@ -35,3 +35,11 @@ This migration also gives the essay its later historical braid: the sign which m
 ## Audit boundary
 
 The migration and mathematical transformation are historical claims; the reading of that transformation as the return of the formal limit is the essay’s argument.
+
+The migrating sign **returns-to** [Name-through-Count](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count) through the permissions its receiving practice gives it. A place-marker and an arithmetic operand can share an inscription while allowing different operations. The account of migration must carry that change of office, so recognition of the same mark does not silently identify its successive mathematical or institutional uses.
+
+The [zero-reception dossier](../../../symbolon/episteme/dossiers/zero-reception.md#3--gerbert-and-salem-require-different-recoveries) **compares** this operation. Numeral form, calculating apparatus and positional use of operational zero are separate predicates. The receiving medium and rule establish which office the mark actually performs. Gerbert needs an independently dated technical witness; the Salem route has Cantor’s edition pointer but no verified manuscript, folio or Latin collation. Recognising a shape does not settle either operation or transmission.
+
+Rotman’s semiotic subject-position remains distinct from Taylor’s irreducible subject-condition; chronology and office of zero still require specialists; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-dialogue) **qualifies** this operational comparison.
+
+The [authored P1 route for M13](../P1-CANONICAL-ALIGNMENT.md#p1-m13) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

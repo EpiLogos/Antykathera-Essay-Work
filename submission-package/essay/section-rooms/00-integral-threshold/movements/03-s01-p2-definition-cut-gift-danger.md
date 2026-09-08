@@ -24,4 +24,10 @@ The terminating concept closes around what it counts; the *symbolon* retains its
 The cut remains necessary. *Neti neti* and *catuṣkoṭi* develop its negative power otherwise: apophatic refusal keeps the ground from becoming a final predicate, while the tetralemma keeps a proposition from occupying the whole field of possibility.
 
 ## Anchor and transition
+
+The cut’s gift and danger return to [E2’s criterion through distinction](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#criterion-through-distinction): Criterion distinguishes, Delineation gives that difference a workable boundary, and Arbitration decides through it. These are distinct operations. Usurpation occurs when the deciding boundary claims exemption from the continuity that enabled it; productive definition remains capable of receiving a consequence that redraws its line.
 **QL anchor:** `0 / 1`—field, differentiating slash, mark. **Image:** the broken token that signifies by relation. The Eastern semantic line is deepened in [[10-s0-p3-apoha|§0 · #3 — Apoha]]; the cut's formal and apophatic consequences lead to [[04-s01-p3-formal-limit-genealogy|§0/1 · #3 — The Formal-Limit Genealogy]].
+
+Pind semantic exclusion and Spinoza finite figure remain independent witnesses for the gift and danger of a cut; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-exclusion) **qualifies** this historical attribution.
+
+The [authored P1 route for M03](../P1-CANONICAL-ALIGNMENT.md#p1-m03) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

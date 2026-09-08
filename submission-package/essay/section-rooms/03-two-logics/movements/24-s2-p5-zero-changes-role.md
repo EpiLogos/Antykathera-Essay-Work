@@ -37,8 +37,12 @@ The same move generates the essay’s internal architecture:
 - six positions in one returning unit;
 - the \(5\to0\) hinge by which completed form becomes renewed ground.
 
+[the Prisoner whole](../../../symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count) **figures** the counterfeit after the native derivation: the Village answers the question about Number One with the designation Number Six, assigning the questioner a completed place while withholding the relation that counts him. The programme's Two and Six make this authored reversal memorable; they are neither the derivation of `2 + 2² = 6` nor fixed identities for the native poles and states. The full narrative and its unresolved return remain in the whole.
+
 ## Release into §3
 
 The mathematical substrate now has a precise task. It must derive how this ground–mark relation behaves under distinction, re-entry, alternation, complex orientation, quotienting, topological return, and harmonic resolution. Similarity is insufficient; each plate must expose the operation that carries the relation. In this sense §3 is not a gallery of analogies. It is the substrate test of the process claim: whether the same differentiated return can actually be followed through several mathematical registers without losing its operative form.
 
 Continue to [[25-s3-p0-eight-determinations|§3 · #0 — Eight Determinations]].
+
+The [authored P1 route for M24](../P1-CANONICAL-ALIGNMENT.md#p1-m24) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

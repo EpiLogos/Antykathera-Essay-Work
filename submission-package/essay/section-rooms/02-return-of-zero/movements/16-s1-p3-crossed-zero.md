@@ -36,3 +36,7 @@ This is the place for the humanity/God-of-the-gaps reversal. Once the immutable 
 ## Transition
 
 When a determinate one returns directly toward zero, the result depends on the space that contains the operation. See [[17-s1-p4-zero-outside-math|§1 · #4 — Zero Keeps One Foot Outside Mathematics]].
+
+The crossed-zero operation is native authorial work; Wittgenstein’s limit supplies no derivation of its positive return; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-practice) **qualifies** this historical attribution.
+
+The [authored P1 route for M16](../P1-CANONICAL-ALIGNMENT.md#p1-m16) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

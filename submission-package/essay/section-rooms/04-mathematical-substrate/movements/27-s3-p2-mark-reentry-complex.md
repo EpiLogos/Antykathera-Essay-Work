@@ -16,7 +16,7 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 
 [[spencer-brown-1969-laws-form|Spencer-Brown]] begins with the injunction to draw a distinction. The mark creates inside and outside together; calling and crossing specify how marks condense or cancel. A distinction is therefore already an operation, not a static pair of values.
 
-When the mark re-enters the space it distinguishes, the system cannot settle into one timeless value. It oscillates between its states. [[varela-1975-calculus-self-reference|Varela]] and the calculus of self-reference develop this consequence: re-entry gives the binary a temporal dimension and turns contradiction into dynamism. The present state carries its prior crossing as memory.
+The essay’s Argued temporal reading treats a re-entering mark as carrying its prior crossing into the next state as memory. [[varela-1975-calculus-self-reference|Varela]] formally introduces an [autonomous third state](../../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md#varela-1975-calculus-self-reference-q001). His [temporal and systemic interpretations](../../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md#varela-1975-calculus-self-reference-q002) leave frequency characterisation for further investigation. The [frequency-to-retention task](../../../symbolon/episteme/dossiers/formal-limit.md#frequency-retention-and-signed-dia-research) must specify what recurs, how frequency is measured, what retains the prior state and how that retention changes the next crossing. Varela’s calculus does not itself complete that authorial chain.
 
 ## Iterant derivation
 
@@ -32,7 +32,7 @@ $$
 i^2=-1.
 $$
 
-The imaginary unit is thereby readable as alternation plus temporal shift, not as an arbitrary impossible number. Dia-ballein is the seam unrolled in time: the signed poles alternate; re-entry makes their relation operative; complex orientation records the phase that a one-dimensional number line cannot.
+The imaginary unit is thereby readable as alternation plus temporal shift, not as an arbitrary impossible number. The essay’s Offered signed-dia reading proposes the seam unrolled in time: the signed poles alternate; re-entry makes their relation operative; complex orientation records the phase that a one-dimensional number line cannot. Mapping signs, states and temporal order remains a distinct research task; the iterant derivation alone does not complete it.
 
 ## Complex plane and comparison boundary
 
@@ -50,8 +50,12 @@ The [[bohm-krishnamurti-1975-05-18-dialogue|Bohm–Krishnamurti wheel and thread
 
 ## Argumentative consequence
 
-Re-entry gives the essay a precise account of time and memory. A mark that returns cannot return as though no distinction occurred. The slash retains its crossing. This is why the return to zero is not annihilation: the cycle arrives at origin with transformed phase and accumulated relation.
+Within the essay’s Argued temporal account, a mark that returns cannot return as though no distinction occurred. The slash retains its crossing. This is why the return to zero is not annihilation: the cycle arrives at origin with transformed phase and accumulated relation.
 
 ## Transition
 
 Complex orientation solves a limitation by enlarging the representational space. Projective geometry, compactification, cross-ratio, and many-valued logic repeat that exact methodological move in [[28-s3-p3-projective-dimensional-reframing|§3 · #3 — Projective Completion and Dimensional Reframing]].
+
+The [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#3--re-entry-representation-and-retained-passage) **historicises** this operation. Kauffman’s selected swap law [a,b]η = η[b,a] makes the shift operative. With D = diag(1,−1), η² = I and ηD = −Dη, the square of Dη is −I. Anticommutation carries the result; a picture of recurrence alone does not. The selected representation and its kernel qualification remain distinct from a uniqueness claim and from the complete native eightfold.
+
+The [authored P1 route for M27](../P1-CANONICAL-ALIGNMENT.md#p1-m27) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

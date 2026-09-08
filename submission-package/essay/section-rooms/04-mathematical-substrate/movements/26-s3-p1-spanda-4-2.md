@@ -127,6 +127,12 @@ The arithmetic identities are derived. The cross-comparison is derived within th
 
 The first Spanda is the return-reading (\(3:3\)) of the second Spanda's base-frame (\(4+2\)); the ratios are born from holding the two readings together rather than collapsing to one. The \(3:3\) without the \(4:2\) is a *vibe* — proportion with nothing to proportion; the \(4:2\) without the \(3:3\) is a *catalogue* — positions with no inner relation. Together they are a logic: countable *and* relational.
 
+[the Prisoner whole](../../../symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count) **qualifies** the narrative use of the sixfold count: its administered number figures a completed assignment which conceals its governing relation. That authored return preserves the difference between the native 4:2 derivation, the harmonic carrier developed here and a television designation. Neither the episode's numbering nor its narrative success supplies mathematical or musical proof.
+
+[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#e5-whole-returns) **qualifies** the cross-reading by retaining the actual operation at each step. The finite pair `64` and `36` yields the ratio `64/36`, whose reduction gives `16/9`; dividing their sum by four would instead give `25`. The QL passage from accounting to proportion is therefore a change of operation, with the coequal horizontal and vertical readings intact. The exact completion `16/9 × 9/8 = 2` supplies its own musical relation. The primary personed `3:3`, also read as `3:1`, and the further emanation/reversion names retain their distinct offices; a historical naming debt cannot turn the native derivation into a borrowed doctrine.
+
 ## Transition
 
 The pulse must now be tested in other dynamic formalisms. Spencer-Brown’s re-entry and Kauffman’s iterants show how the seam generates time, memory, and complex orientation in [[27-s3-p2-mark-reentry-complex|§3 · #2 — Mark, Re-entry, and Complex Orientation]].
+
+The [authored P1 route for M26](../P1-CANONICAL-ALIGNMENT.md#p1-m26) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

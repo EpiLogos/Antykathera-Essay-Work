@@ -32,3 +32,11 @@ Compression must preserve provenance and cannot substitute for the full traditio
 
 ## Anchor and transition
 **QL anchor:** `#0 → #1 → #2 → #3 → #4 → #5→0`. **Image:** a hologram whose local unit retains the whole descent. Its contracted result is [[12-s0-p5-objective-internality|§0 · #5→0 — Objective Internality]].
+
+Finite contraction **returns-to** [Apportionment / Economy whole — Power becomes finite by apportionment](../../../symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md#power-becomes-finite-by-apportionment) at evidence register 3. The contraction makes finite knowledge, desire, time, order and agency effective within the field from which they arise. Recognition returns through those capacities without undoing their differentiation.
+
+The [Indian philosophy companion](../../../symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT.md#3--manifestation-gives-contraction-a-positive-anatomy) **historicises** the manifestation whose native compression operates here, preserving the distinction among six-turn contraction, eightfold traversal and thirty-sixfold research.
+
+[Māyā — eye, veil, frame and horizon](../../../symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-recognition-return): The complete Māyā descent **figures** this movement’s whole-bearing local unit. Manifesting power becomes effective measure, the five contractions give the bounded knower capacities, and the inner instrument lets that knower judge, remember and form alternatives. Recognition traverses those achieved relations again without deleting the inhabitable world. The holographic unit carries its descent and return through those relations; it supplies no claim that a physical fragment exhaustively stores a whole, and the sixfold compression does not renumber the native eight determinations.
+
+The [authored P1 route for M11](../P1-CANONICAL-ALIGNMENT.md#p1-m11) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

@@ -24,3 +24,5 @@ This is a positional proposal whose historical and mathematical warrants are del
 
 ## Anchor and transition
 **QL anchor:** `0` marks the condition under which counting occurs, while every counted item occupies the position of `1`. **Image:** an open place in the score; an enfolded order before local explication. The return asks how a field becomes determinate in [[07-s0-p0-awareness-bends-display|§0 · #0 — Awareness Bends Toward Display]].
+
+The [authored P1 route for M06](../P1-CANONICAL-ALIGNMENT.md#p1-m06) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

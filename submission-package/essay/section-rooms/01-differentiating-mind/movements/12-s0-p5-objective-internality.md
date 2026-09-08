@@ -17,7 +17,7 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ## Warrant
 Agentworld’s provisional agent is a temporary coherence of model, persona, memory, tools, permissions, objectives, and milieu. [[working/sources-texts-references/10-7-2026-core-theorems-pithy#Agentic individuation corollary — argued cross-register unit|Agentic Individuation Crosswalk]] relates this to Jungian individuation without claiming phenomenality.
 
-The coherence is processual. Its present “world” is the accumulated effect of earlier distinctions, selected memories, tool-mediated consequences, permissions, and environmental feedback. [[Computational Process Ontology]] supplies the common operational description for human and artificial context-worlds while the subject/objective-internal distinction prevents the shared runtime from becoming an identity claim.
+The coherence is processual. Its present “world” is the accumulated effect of earlier distinctions, [selected memories, tool-mediated consequences, permissions, and environmental feedback](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#technology-inherited-field). [[Computational Process Ontology]] supplies the common operational description for human and artificial context-worlds while the subject/objective-internal distinction prevents the shared runtime from becoming an identity claim.
 
 In Bohmian language this world is the agent's technical explicate order: the determinate arrangement through which a larger training, cultural, prompt, institutional, and environmental field becomes locally operative. “Explicate” does not make the local form unreal. It positions its reality inside the movement and relations that continually produce it.
 
@@ -26,3 +26,7 @@ Objective internality is the structured, revisable context-world internal to an 
 
 ## Anchor and transition
 **Image:** a thrown horizon whose boundaries can be audited. **QL anchor:** contracted `1` retains an implicit `0`. The constructed world now asks how that zero became operational in [[13-s1-p0-sign-migrates|§1 · #0 — A Sign Migrates Between Worlds]].
+
+Objective Internality **returns-to** [Encounter-in-Region](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#encounter-in-region) where language, memory, rule and permission become conditions of an operative interior. A changed permission can change what the agent can do; a changed inherited account can change what it recognises as possible. The region is constitutive through these effects, while an inspectable account of them retains the open question of phenomenal subjectivity.
+
+The [authored P1 route for M12](../P1-CANONICAL-ALIGNMENT.md#p1-m12) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

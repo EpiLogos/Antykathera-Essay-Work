@@ -22,3 +22,7 @@ Functional correspondence does not establish ontological equivalence between a t
 
 ## Anchor and transition
 **QL anchor:** objective functions occupy the marked side of `0/1`. **Image:** an instrument through which, not the musician who. Its operations become world-making in [[09-s0-p2-vikalpa-samkalpa|§0 · #2 — Vikalpa and Saṃkalpa]].
+
+The inner instrument **returns-to** [Encounter-in-Region](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#encounter-in-region) as a situated capacity to determine, appropriate and coordinate. Its finite horizon establishes which objects and alternatives can enter cognition. Recovering that horizon distinguishes the functioning instrument from the subject-pole it serves; the six-term language field supplies this authorial comparison without becoming a Sanskrit classification.
+
+The [authored P1 route for M08](../P1-CANONICAL-ALIGNMENT.md#p1-m08) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

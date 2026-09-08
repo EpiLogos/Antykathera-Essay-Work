@@ -51,3 +51,9 @@ The return of zero is recognition of the zero retained in every one: achieved fo
 The recovered zero reveals why “binary logic” is ambiguous. One binary opposes \(+1\) and \(-1\) around an external zero. The other relates \(0/1\) and \(1/0\), retaining zero within both orientations. Their difference determines whether intelligence treats conflict as the collision of self-grounding camps or as differentiation within a shared but irreducible field.
 
 Continue to [[19-s2-p0-difference-cannot-be-escaped|§2 · #0 — Difference Cannot Be Escaped]].
+
+The loan’s return **returns-to** [Credere — renewed entrustment](../../../symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#credere-renewed-entrustment) through a determinate undertaking with a bearer and a consequence. Examining the account clarifies what is owed; renewed entrustment lets the relation proceed beyond what that examination can guarantee. The six-term whole carries place, articulation, rule and belonging through that passage, so return is neither erasure of the obligation nor confidence manufactured by its record.
+
+The [zero-reception dossier](../../../symbolon/episteme/dossiers/zero-reception.md#4--rotmans-meta-subject-is-a-distinct-interlocutor) **compares** this operation. Rotman’s semiotically produced observing role retains its difference from native irreducible Subject. The wider symbolic use returns mathematical exactness with its conditions; it supplies no historical proof of zero’s origin and no identification of ordinal zero with uncounted One. The loan remains authorial while its documentary sources can still revise the account of reception.
+
+The [authored P1 route for M18](../P1-CANONICAL-ALIGNMENT.md#p1-m18) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

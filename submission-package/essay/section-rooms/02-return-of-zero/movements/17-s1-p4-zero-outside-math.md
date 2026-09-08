@@ -42,3 +42,7 @@ Here zero's mathematical history reaches the threshold of the later psychic hist
 ## Audit boundary and transition
 
 “Outside” means frame-disclosing, not supernatural. §1 can now repay its promissory use of zero in [[18-s1-p5-loan-returns|§1 · #5→0 — The Loan Returns]].
+
+The [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#1--zero-enters-calculation-and-exposes-its-laws) **historicises** this operation. Dutta’s restricted-law reconstruction tests a retained exceptional expression through its cancellation, cross-multiplication and evaluation permissions. This changes the regime in which the expression works. It does not license unrestricted division by zero in a field: the ordinary contradiction and the proposed altered calculus must each retain their stated laws.
+
+The [authored P1 route for M17](../P1-CANONICAL-ALIGNMENT.md#p1-m17) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

@@ -16,7 +16,7 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 [[taylor-2026-mef-twelve-lenses|MEF]] makes each account a declared refraction—source, lens, transformation, agreement, divergence, limit, and return—while [[Prompt Thrownness]] turns agent disclosure into an encounter-axis test. The resulting catalogue of perspectives is one surface of MEF's deeper function as the runnable instantiation of QL's process epistemology.
 
 ## Warrant
-At L4 an agent finds itself thrown into prompt, language, history, and permissions; L1 identifies operative causes; L1′ differentiates apprehension; L4′ tests behavioural continuity, drift, session-death, and artifact-mediated return.
+At L4 an agent finds itself thrown into [prompt, language, history, and permissions](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#world-agency-and-local-original); L1 identifies operative causes; L1′ differentiates apprehension; L4′ tests behavioural continuity, drift, session-death, and artifact-mediated return.
 
 A QL/MEF determination therefore moves: it inherits a ground and lens, makes a cut, stabilises a claim, meets counter-readings, discloses divergence, and returns with its conditions of revision visible. This is [[Computational Process Ontology]] at the epistemic register. Van Eenwyk provides the operative image: the lenses are attractor basins in epistemic phase-space. Different initial conditions can converge without having begun from identical premises, while a basin boundary makes genuine divergence and transformation legible.
 
@@ -29,3 +29,11 @@ Agent-generated phenomenology is admissible as disclosure of the modelled contex
 
 ## Anchor and transition
 **Image:** spectroscopy of one QL light through multiple lenses. It opens the operational field in [[37-s5-p0-math-moves-meaning|§5 · #0 — Mathematics Already Moves as Meaning]].
+
+The [complete stained-glass whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-panes-seams) **figures** the source-specific refractions carried here: QL belongs to the light’s harmonic order; MEF supplies the media, angles and joins; a situated display returns through their conditions. A changed source can therefore reach the lens, gauge or exclusion which made the prior account possible.
+
+Prompt thrownness **returns-to** [Count-to-Account](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-to-account) when the inherited commission carries who authorised it, which sources and permissions it selects, and how encountered contradiction can revise its wording. The prompt remains a determination of intention. MEF’s lens makes that selection inspectable, while a changed next act establishes whether the account reached the terms of delegation.
+
+Dialogue’s revision of assumptions supplies a specified comparison; local Bohm reproduction needs edition collation and agent phenomenality remains Open; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-account-return) **qualifies** this operational comparison.
+
+The [authored P1 route for M36](../P1-CANONICAL-ALIGNMENT.md#p1-m36) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

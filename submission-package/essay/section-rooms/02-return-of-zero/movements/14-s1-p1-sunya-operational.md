@@ -45,4 +45,12 @@ Retain [[kaplan-1999-nothing-that-is|Kaplan]] for narrative movement rather than
 
 ## Transition
 
+Operative śūnya **returns-to** [Name-through-Count](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count) at the distinction between an unfilled place and a sign permitted to act in calculation. Naming the absence does not alone confer every later arithmetic rule. The receiving count supplies the relevant permission, and an account of zero retains which operation has actually become possible. This is the authorial comparison; historical priority and transmission keep their separate sources.
+
+The use of an operative sign **returns-to** [Fides before arbitration](../../../symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#fides-before-arbitration) through reliance already enacted in a rule, notation and transmitted practice. Investigation can examine each permission without first manufacturing all the relations on which examination depends. This authorial trust-operation does not prove a history of śūnya from Latin fides or make mathematical exactness a guarantee of every future use.
+
 Operational zero prepares the deeper formal discovery: emptiness can generate the first one and the whole sequence that follows. That derivation is local and exact in [[15-s1-p2-empty-set-generates-one|§1 · #2 — The Empty Set Generates One]].
+
+The [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#1--zero-enters-calculation-and-exposes-its-laws) **historicises** this operation. Colebrooke q001 gives Brahmagupta’s zero addition and multiplication; q002 retains Bhāskara’s zero denominator; q003 gives the translated theological comparison with divine immutability. These selected English witnesses have three offices. The third is an analogy in that source, and supplies no independent proof of native Subject; critical Sanskrit remains a separate source task.
+
+The [authored P1 route for M14](../P1-CANONICAL-ALIGNMENT.md#p1-m14) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

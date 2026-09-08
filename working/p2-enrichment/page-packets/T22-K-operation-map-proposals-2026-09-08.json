@@ -1,0 +1,1275 @@
+{
+  "owner": "parent shared272-row matrix; no shared-row writes by this task",
+  "rows": [
+    {
+      "row_id": "T21-M04",
+      "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+      "action": "retain original office and materialise additional distinct operation; do not overwrite original272-map row",
+      "edits": [
+        {
+          "old": "faith consciously continues through their non-exhaustion of ground",
+          "new": "[faith consciously continues through their non-exhaustion of ground](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active)",
+          "href": "../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active",
+          "operation": "E3 prior reliance/renewed entrustment stays; E4 carries the finite account into an undertaking with return open.",
+          "kind": "href-only"
+        }
+      ],
+      "status": "canonical operation links landed and T22 verified; parent-only shared-row foldback",
+      "original_row_snapshot": {
+        "row_id": "T21-M04",
+        "row_kind": "transferred-39-movement-alignment",
+        "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+        "operation": "Trust keeps the return route active",
+        "evidence_register": 3,
+        "canonical_home": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+        "original_canonical_home": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+        "consumers": [
+          {
+            "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+            "operation": "formal limits witness non-coincidence locally; no borrowed theorem proves the whole metaphysics",
+            "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+            "occurrence": {
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+              "start_line": 22,
+              "end_line": 23,
+              "text": "## Tension / limit\nGödel performs a formal proof; Cusa and Eckhart perform mathematical-apophatic and linguistic disciplines; Whitehead supplies process metaphysics, and Bohm's process bridge enters only at #5→0. Their distinct objects and methods prevent their convergence from being mistaken for one theorem and give the wider architecture its strength."
+            },
+            "current_literal_return_fragments": [],
+            "current_literal_forward_fragments": [],
+            "semantic_standing": "Pair-specific comparison not inferred from either link or a primary-row judgment."
+          }
+        ],
+        "development_status": "covered-mediated-return",
+        "source_obligations": [],
+        "consumer_obligations": [],
+        "judgment": "Distinct formal and apophatic responses lead into prior reliance and renewed entrustment through E3 and the complete aphorism. This is the E4 Trust operation by a source-visible mediated route, not a missing investigation/faith argument.",
+        "observations": [
+          {
+            "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+            "sha256": "db1cf8eaf0a302432385bbe6e1b8c80455a8f5020d566bb110a712f8dd38a075",
+            "line_count": 32,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+            "sha256": "72edba52f029676ae3b51426cd0a91b3737d4921399ee5a858f75186938849ad",
+            "line_count": 135,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+            "sha256": "03ce9c4ef160a3a187148a9b206813fe83636a6539a6da5900234078652a859f",
+            "line_count": 70,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          }
+        ],
+        "semantic_operation_witnessed": true,
+        "global_row_closure": false,
+        "current_fragment_candidates": [],
+        "observation_sha256": "cf7da3e19f36347a598e8e4fa8c035a2293541e9d808f4a2aaf3c406625d50aa",
+        "evidence_scope": "Native/authorial operation and historical/source warrant remain independent; present audit does not reacquire six source corpora.",
+        "proposed_operation_reconciliation": "Current direct route is E3 Fides/Credere plus complete aphorism; old row assigns E4 Trust. Keep genealogy scopes; materialise E3 route and preserve/complete distinct E4 undertaking return.",
+        "source_disposition_authorities": [
+          "working/p2-enrichment/reference-note-dispositions.json",
+          "working/p2-enrichment/legacy-carrier-dispositions.json",
+          "working/p2-enrichment/T21-record-input-locators.json"
+        ],
+        "proposed_row_update": {
+          "row_id": "T21-M04",
+          "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "operation": "Trust keeps the return route active",
+          "evidence_register": 3,
+          "canonical_home": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+          "development_status": "covered-mediated-return",
+          "coverage_status": "covered-mediated-return",
+          "research_status": "no-new-research-debt-asserted",
+          "judgment": "Distinct formal and apophatic responses lead into prior reliance and renewed entrustment through E3 and the complete aphorism. This is the E4 Trust operation by a source-visible mediated route, not a missing investigation/faith argument.",
+          "source_obligations": [],
+          "consumer_obligations": [],
+          "consumers": [
+            {
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+              "operation": "formal limits witness non-coincidence locally; no borrowed theorem proves the whole metaphysics",
+              "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+              "occurrence": {
+                "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+                "start_line": 22,
+                "end_line": 23,
+                "text": "## Tension / limit\nGödel performs a formal proof; Cusa and Eckhart perform mathematical-apophatic and linguistic disciplines; Whitehead supplies process metaphysics, and Bohm's process bridge enters only at #5→0. Their distinct objects and methods prevent their convergence from being mistaken for one theorem and give the wider architecture its strength."
+              },
+              "current_literal_return_fragments": [],
+              "current_literal_forward_fragments": [],
+              "semantic_standing": "Pair-specific comparison not inferred from either link or a primary-row judgment."
+            }
+          ]
+        },
+        "semantic_judgment_complete": true,
+        "coverage_status": "covered-mediated-return",
+        "research_status": "no-new-research-debt-asserted",
+        "scope_witnesses": [
+          {
+            "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+            "start_line": 29,
+            "end_line": 30,
+            "text": "The [complete Investigation and Faith aphorism](../../../symbolon/episteme/aphorisms/investigation-and-faith.md#complete-aphorism) **returns-to** the authorial relation carried through A03 and A23: investigation makes determinations; [faith consciously continues through their non-exhaustion of ground](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active). Its whole four-line movement remains available as a contemplation object. Each historical response in this Movement retains its own method and warrant.\n**Mathematical anchor:** undecidability under stated formal conditions. **Images:** the ladder, the re-entering mark, the polygon approaching the circle, the sphere with centre everywhere and circumference nowhere. The positive response is [[05-s01-p4-gebser-diaphaneity|§0/1 · #4 — Gebserian Diaphaneity]]."
+          }
+        ],
+        "scope_closure": "judged",
+        "global_row_closure_meaning": "Not an assertion of universal historical acquisition or executed empirical/technical programme; use coverage_status and research_status independently.",
+        "current_sha256": "27113cef9f17deb2becedda833eb68cc1b406458dd017eabd14dcca1267971e5"
+      },
+      "proposed_row_patch": {
+        "retain_unchanged": {
+          "operation": "Trust keeps the return route active",
+          "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "evidence_register": 3,
+          "source_obligations": []
+        },
+        "development_status": "movement-operation-pair-witnessed; distinct offices retained; pending parent matrix acceptance",
+        "semantic_operation_witnessed": true,
+        "global_row_closure": false,
+        "append_operation_relations": [
+          {
+            "relation": "returns-to",
+            "href": "../../../symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#fides-before-arbitration",
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#fides-before-arbitration",
+            "operation": "E3 prior reliance and renewed entrustment through the distinct formal-limit genealogy",
+            "standing": "existing distinct office preserved; add to shared row without replacing original operation",
+            "current_occurrence": [
+              {
+                "line": 27,
+                "text": "[E3’s fides before arbitration](../../../symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#fides-before-arbitration) gives the enquiry its prior reliance and its subsequent renewed entrustment: formal investigation already undertakes a practice before it can arbitrate its results. Russell’s, Gödel’s and Wittgenstein’s distinct limits retain their own scopes. Fides and Credere articulate the project’s relational passage through those limits; Latin lexical history neither derives nor proves the formal results."
+              }
+            ]
+          },
+          {
+            "relation": "returns-to",
+            "path": "../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active",
+            "operation": "E3 prior reliance/renewed entrustment stays; E4 carries the finite account into an undertaking with return open.",
+            "current_occurrence": [
+              {
+                "line": 29,
+                "text": "The [complete Investigation and Faith aphorism](../../../symbolon/episteme/aphorisms/investigation-and-faith.md#complete-aphorism) **returns-to** the authorial relation carried through A03 and A23: investigation makes determinations; [faith consciously continues through their non-exhaustion of ground](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active). Its whole four-line movement remains available as a contemplation object. Each historical response in this Movement retains its own method and warrant."
+              }
+            ],
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active"
+          }
+        ],
+        "preserve_all_prior_other_field_returns": true,
+        "receipt": "working/p2-enrichment/receipts/T22-K-combined-movement-traversal-proof-2026-09-08.json"
+      }
+    },
+    {
+      "row_id": "T21-M23",
+      "path": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+      "action": "retain original office and materialise additional distinct operation; do not overwrite original272-map row",
+      "edits": [
+        {
+          "old": "Con-text exposes the conditions under which arbitration has operated",
+          "new": "[Con-text exposes the conditions under which arbitration has operated](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity)",
+          "href": "../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity",
+          "operation": "Retain Arbitration-in-Crisis and expose the conditions of its regime.",
+          "kind": "href-only"
+        },
+        {
+          "old": "Resolution lets consequence revise them",
+          "new": "[Resolution lets consequence revise them](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation)",
+          "href": "../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation",
+          "operation": "A changed governing regime differs from movement inside its basin; preserve both exposed conditions and consequent revision.",
+          "kind": "href-only"
+        }
+      ],
+      "status": "canonical operation links landed and T22 verified; parent-only shared-row foldback",
+      "original_row_snapshot": {
+        "row_id": "T21-M23",
+        "row_kind": "transferred-39-movement-alignment",
+        "field_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+        "branch_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+        "operation": "Resolution-in-Reconciliation → Anamnesis / Recognition / Return",
+        "evidence_register": 3,
+        "canonical_home": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+        "original_canonical_home": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+        "consumers": [
+          {
+            "path": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+            "operation": "a complex locally arbitrates attention/value; individuation returns that local regime through what it excluded",
+            "return_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+            "occurrence": {
+              "path": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+              "start_line": 31,
+              "end_line": 31,
+              "text": "The political psychic cycle has the same dynamic shape. Atomisation and loss of meaningful relation leave affect unbound; a single narrative can bind that affect by intensifying one branch and converting the excluded branch into the cause of the field's pain. The resolution is real as affect but false as ground: the local determination has occupied `0`. Divine and concur reopens the basin—not by dissolving conflict, but by restoring the relational field in which differentiated parties can become mutually answerable. The institutional question remains irreducible: no psychic account is adequate unless it asks how offices, media, property, and coercion stabilise or interrupt the cycle."
+            },
+            "current_literal_return_fragments": [
+              {
+                "path": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+                "start_line": 43,
+                "end_line": 43,
+                "text": "[E2’s arbitration in crisis](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#arbitration-in-crisis) gives this movement its relational test for a change of regime: Con-text exposes the conditions under which arbitration has operated, and Resolution lets consequence revise them. The distinction between movement within a basin and transformation of its governing regime remains necessary. The E-field supplies that operation of return; it does not constitute empirical proof of a particular dynamical model."
+              }
+            ],
+            "current_literal_forward_fragments": [
+              {
+                "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+                "start_line": 208,
+                "end_line": 208,
+                "text": "The exact Movement routes retain their separate publication offices. [M03](../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md) receives productive distinction before source-usurpation; [M05](../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) and [M35](../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md) receive perspective's disclosure of its conditions. [M23](../../../../section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md) receives the difference between a stable basin and a transformed regime, while [M32](../../../../section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md) receives native `X/x` before the psychic refraction. [M40](../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) receives the finite evaluator's hidden conditioning, distinguished from metaphysical Zero and from trust. [M42](../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md) receives an Offered gauge/return experiment; [M43](../../../../section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md) receives the loving manner of return; [M46](../../../../section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md) receives contestable local rule and common consequence without an infallible master reference field. Each Movement receives the relation at its own scale: the field keeps the generated operation recoverable through those differences."
+              }
+            ],
+            "semantic_standing": "Pair-specific comparison not inferred from either link or a primary-row judgment."
+          }
+        ],
+        "development_status": "movement-operation-witnessed; original-alignment-retained; operation-map-adjustment-needed",
+        "source_obligations": [],
+        "consumer_obligations": [
+          "Direct anchor Arbitration-in-Crisis; paragraph exposes conditions and changes regime through Resolution. Expand operation mapping; do not identify within-basin motion with changed regime."
+        ],
+        "judgment": "The current movement fragment makes the local E operation consequential in this movement, rather than only listing the operation: Resolution-in-Reconciliation → Anamnesis / Recognition / Return",
+        "observations": [
+          {
+            "path": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+            "sha256": "8e6ff0bb2e979afc1a2ff7ab3fa5c1195d48bc7a659559ae7be301ad3d295394",
+            "line_count": 45,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+            "sha256": "58c7e374fe38ac56ce60fcd0180aa0cf0c1f789135cdb92b10c440d49e52bc94",
+            "line_count": 248,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+            "sha256": "ec8f32cb86117c0c7efa4c0c894f44f1d6c686008c34e2f8fa426a9e7a8ea815",
+            "line_count": 230,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          }
+        ],
+        "semantic_operation_witnessed": true,
+        "global_row_closure": false,
+        "current_fragment_candidates": [
+          {
+            "path": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+            "start_line": 43,
+            "end_line": 43,
+            "text": "[E2’s arbitration in crisis](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#arbitration-in-crisis) gives this movement its relational test for a change of regime: Con-text exposes the conditions under which arbitration has operated, and Resolution lets consequence revise them. The distinction between movement within a basin and transformation of its governing regime remains necessary. The E-field supplies that operation of return; it does not constitute empirical proof of a particular dynamical model."
+          }
+        ],
+        "observation_sha256": "8e6ff0bb2e979afc1a2ff7ab3fa5c1195d48bc7a659559ae7be301ad3d295394",
+        "evidence_scope": "Native/authorial operation and historical/source warrant remain independent; present audit does not reacquire six source corpora.",
+        "proposed_operation_reconciliation": "Direct anchor Arbitration-in-Crisis; paragraph exposes conditions and changes regime through Resolution. Expand operation mapping; do not identify within-basin motion with changed regime.",
+        "source_disposition_authorities": [
+          "working/p2-enrichment/reference-note-dispositions.json",
+          "working/p2-enrichment/legacy-carrier-dispositions.json",
+          "working/p2-enrichment/T21-record-input-locators.json"
+        ],
+        "proposed_row_update": {
+          "row_id": "T21-M23",
+          "field_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "branch_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+          "operation": "Resolution-in-Reconciliation → Anamnesis / Recognition / Return",
+          "evidence_register": 3,
+          "canonical_home": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+          "development_status": "movement-operation-witnessed; original-alignment-retained; operation-map-adjustment-needed",
+          "coverage_status": "covered",
+          "research_status": "no-new-research-debt-asserted",
+          "judgment": "The current movement fragment makes the local E operation consequential in this movement, rather than only listing the operation: Resolution-in-Reconciliation → Anamnesis / Recognition / Return",
+          "source_obligations": [],
+          "consumer_obligations": [
+            "Direct anchor Arbitration-in-Crisis; paragraph exposes conditions and changes regime through Resolution. Expand operation mapping; do not identify within-basin motion with changed regime."
+          ],
+          "consumers": [
+            {
+              "path": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+              "operation": "a complex locally arbitrates attention/value; individuation returns that local regime through what it excluded",
+              "return_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+              "occurrence": {
+                "path": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+                "start_line": 31,
+                "end_line": 31,
+                "text": "The political psychic cycle has the same dynamic shape. Atomisation and loss of meaningful relation leave affect unbound; a single narrative can bind that affect by intensifying one branch and converting the excluded branch into the cause of the field's pain. The resolution is real as affect but false as ground: the local determination has occupied `0`. Divine and concur reopens the basin—not by dissolving conflict, but by restoring the relational field in which differentiated parties can become mutually answerable. The institutional question remains irreducible: no psychic account is adequate unless it asks how offices, media, property, and coercion stabilise or interrupt the cycle."
+              },
+              "current_literal_return_fragments": [
+                {
+                  "path": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+                  "start_line": 43,
+                  "end_line": 43,
+                  "text": "[E2’s arbitration in crisis](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#arbitration-in-crisis) gives this movement its relational test for a change of regime: Con-text exposes the conditions under which arbitration has operated, and Resolution lets consequence revise them. The distinction between movement within a basin and transformation of its governing regime remains necessary. The E-field supplies that operation of return; it does not constitute empirical proof of a particular dynamical model."
+                }
+              ],
+              "current_literal_forward_fragments": [
+                {
+                  "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+                  "start_line": 208,
+                  "end_line": 208,
+                  "text": "The exact Movement routes retain their separate publication offices. [M03](../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md) receives productive distinction before source-usurpation; [M05](../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) and [M35](../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md) receive perspective's disclosure of its conditions. [M23](../../../../section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md) receives the difference between a stable basin and a transformed regime, while [M32](../../../../section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md) receives native `X/x` before the psychic refraction. [M40](../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) receives the finite evaluator's hidden conditioning, distinguished from metaphysical Zero and from trust. [M42](../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md) receives an Offered gauge/return experiment; [M43](../../../../section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md) receives the loving manner of return; [M46](../../../../section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md) receives contestable local rule and common consequence without an infallible master reference field. Each Movement receives the relation at its own scale: the field keeps the generated operation recoverable through those differences."
+                }
+              ],
+              "semantic_standing": "Pair-specific comparison not inferred from either link or a primary-row judgment."
+            }
+          ]
+        },
+        "semantic_judgment_complete": true,
+        "coverage_status": "covered",
+        "research_status": "no-new-research-debt-asserted",
+        "scope_closure": "judged",
+        "global_row_closure_meaning": "Not an assertion of universal historical acquisition or executed empirical/technical programme; use coverage_status and research_status independently.",
+        "current_sha256": "93262c383044b6c620213c525db44955fe0fc8625558a04f65d76455239ceb1c"
+      },
+      "proposed_row_patch": {
+        "retain_unchanged": {
+          "operation": "Resolution-in-Reconciliation → Anamnesis / Recognition / Return",
+          "field_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "branch_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+          "evidence_register": 3,
+          "source_obligations": []
+        },
+        "development_status": "movement-operation-pair-witnessed; distinct offices retained; pending parent matrix acceptance",
+        "semantic_operation_witnessed": true,
+        "global_row_closure": false,
+        "append_operation_relations": [
+          {
+            "relation": "returns-to",
+            "href": "../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#arbitration-in-crisis",
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#arbitration-in-crisis",
+            "operation": "E2 deciding regime, kept distinct from exposing and changing its conditions",
+            "standing": "existing distinct office preserved; add to shared row without replacing original operation",
+            "current_occurrence": [
+              {
+                "line": 43,
+                "text": "[E2’s arbitration in crisis](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#arbitration-in-crisis) gives this movement its relational test for a change of regime: [Con-text exposes the conditions under which arbitration has operated](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity), and [Resolution lets consequence revise them](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation). The distinction between movement within a basin and transformation of its governing regime remains necessary. The E-field supplies that operation of return; it does not constitute empirical proof of a particular dynamical model."
+              }
+            ]
+          },
+          {
+            "relation": "returns-to",
+            "path": "../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity",
+            "operation": "Retain Arbitration-in-Crisis and expose the conditions of its regime.",
+            "current_occurrence": [
+              {
+                "line": 43,
+                "text": "[E2’s arbitration in crisis](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#arbitration-in-crisis) gives this movement its relational test for a change of regime: [Con-text exposes the conditions under which arbitration has operated](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity), and [Resolution lets consequence revise them](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation). The distinction between movement within a basin and transformation of its governing regime remains necessary. The E-field supplies that operation of return; it does not constitute empirical proof of a particular dynamical model."
+              }
+            ],
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity"
+          },
+          {
+            "relation": "returns-to",
+            "path": "../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation",
+            "operation": "A changed governing regime differs from movement inside its basin; preserve both exposed conditions and consequent revision.",
+            "current_occurrence": [
+              {
+                "line": 43,
+                "text": "[E2’s arbitration in crisis](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#arbitration-in-crisis) gives this movement its relational test for a change of regime: [Con-text exposes the conditions under which arbitration has operated](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity), and [Resolution lets consequence revise them](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation). The distinction between movement within a basin and transformation of its governing regime remains necessary. The E-field supplies that operation of return; it does not constitute empirical proof of a particular dynamical model."
+              }
+            ],
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation"
+          }
+        ],
+        "preserve_all_prior_other_field_returns": true,
+        "receipt": "working/p2-enrichment/receipts/T22-K-combined-movement-traversal-proof-2026-09-08.json"
+      }
+    },
+    {
+      "row_id": "T21-M25",
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+      "action": "retain original office and materialise additional distinct operation; do not overwrite original272-map row",
+      "edits": [
+        {
+          "old": "remaining answerable to what called for the mark",
+          "new": "[remaining answerable to what called for the mark](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source)",
+          "href": "../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source",
+          "operation": "E1 refracts the complete native field; E4 separately keeps the derived mark answerable to its source, without lexical derivation.",
+          "kind": "href-only"
+        }
+      ],
+      "status": "canonical operation links landed and T22 verified; parent-only shared-row foldback",
+      "original_row_snapshot": {
+        "row_id": "T21-M25",
+        "row_kind": "transferred-39-movement-alignment",
+        "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+        "operation": "Symbol answers to source",
+        "evidence_register": 3,
+        "canonical_home": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+        "original_canonical_home": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+        "consumers": [
+          {
+            "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+            "operation": "exact single traversal `−/−, 0/1, ?/!, −/+, X/x, AM/IS, ∞/dx, 1/0`; QL remains wider than this traversal",
+            "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+            "occurrence": {
+              "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+              "start_line": 31,
+              "end_line": 31,
+              "text": "The table fixes the actual order of determination. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their meanings and prevent them from becoming decorative or interchangeable correspondences. [[working/sources-texts-references/10-7-2026-core-theorems-pithy#(c) The eight determinations — one relation traversed from field to return|The core theorem table]] is the source of record."
+            },
+            "current_literal_return_fragments": [],
+            "current_literal_forward_fragments": [],
+            "semantic_standing": "Pair-specific comparison not inferred from either link or a primary-row judgment."
+          }
+        ],
+        "development_status": "covered-mediated-return",
+        "source_obligations": [],
+        "consumer_obligations": [],
+        "judgment": "All eight qualitative transitions, inverse brackets and sixfold substructure give source-answerability its native body. Current E1 native-field return is additional; E4 Symbol remains mediated through A18 and the full derived field.",
+        "observations": [
+          {
+            "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+            "sha256": "771cd8b179e800409a14b5a5d47d2bec68b1c204e06beda97bb8f09d55146563",
+            "line_count": 63,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+            "sha256": "72edba52f029676ae3b51426cd0a91b3737d4921399ee5a858f75186938849ad",
+            "line_count": 135,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+            "sha256": "03ce9c4ef160a3a187148a9b206813fe83636a6539a6da5900234078652a859f",
+            "line_count": 70,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          }
+        ],
+        "semantic_operation_witnessed": true,
+        "global_row_closure": false,
+        "current_fragment_candidates": [],
+        "observation_sha256": "771cd8b179e800409a14b5a5d47d2bec68b1c204e06beda97bb8f09d55146563",
+        "evidence_scope": "Native/authorial operation and historical/source warrant remain independent; present audit does not reacquire six source corpora.",
+        "proposed_operation_reconciliation": "Current direct route E1 native-field return; old row assigns E4 Symbol. Preserve all-eight source precedence and explicitly route source-answerability separately if retained.",
+        "source_disposition_authorities": [
+          "working/p2-enrichment/reference-note-dispositions.json",
+          "working/p2-enrichment/legacy-carrier-dispositions.json",
+          "working/p2-enrichment/T21-record-input-locators.json"
+        ],
+        "proposed_row_update": {
+          "row_id": "T21-M25",
+          "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "operation": "Symbol answers to source",
+          "evidence_register": 3,
+          "canonical_home": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+          "development_status": "covered-mediated-return",
+          "coverage_status": "covered-mediated-return",
+          "research_status": "no-new-research-debt-asserted",
+          "judgment": "All eight qualitative transitions, inverse brackets and sixfold substructure give source-answerability its native body. Current E1 native-field return is additional; E4 Symbol remains mediated through A18 and the full derived field.",
+          "source_obligations": [],
+          "consumer_obligations": [],
+          "consumers": [
+            {
+              "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+              "operation": "exact single traversal `−/−, 0/1, ?/!, −/+, X/x, AM/IS, ∞/dx, 1/0`; QL remains wider than this traversal",
+              "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+              "occurrence": {
+                "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+                "start_line": 31,
+                "end_line": 31,
+                "text": "The table fixes the actual order of determination. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their meanings and prevent them from becoming decorative or interchangeable correspondences. [[working/sources-texts-references/10-7-2026-core-theorems-pithy#(c) The eight determinations — one relation traversed from field to return|The core theorem table]] is the source of record."
+              },
+              "current_literal_return_fragments": [],
+              "current_literal_forward_fragments": [],
+              "semantic_standing": "Pair-specific comparison not inferred from either link or a primary-row judgment."
+            }
+          ]
+        },
+        "semantic_judgment_complete": true,
+        "coverage_status": "covered-mediated-return",
+        "research_status": "no-new-research-debt-asserted",
+        "scope_witnesses": [
+          {
+            "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+            "start_line": 31,
+            "end_line": 31,
+            "text": "The table fixes the actual order of determination. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their meanings and prevent them from becoming decorative or interchangeable correspondences. [[working/sources-texts-references/10-7-2026-core-theorems-pithy#(c) The eight determinations — one relation traversed from field to return|The core theorem table]] is the source of record."
+          }
+        ],
+        "scope_closure": "judged",
+        "global_row_closure_meaning": "Not an assertion of universal historical acquisition or executed empirical/technical programme; use coverage_status and research_status independently.",
+        "current_sha256": "6968faaa309ae39f75f2ae4f128248a8eac87bd9cbe21859ab03a02ea34f8200"
+      },
+      "proposed_row_patch": {
+        "retain_unchanged": {
+          "operation": "Symbol answers to source",
+          "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "evidence_register": 3,
+          "source_obligations": []
+        },
+        "development_status": "movement-operation-pair-witnessed; distinct offices retained; pending parent matrix acceptance",
+        "semantic_operation_witnessed": true,
+        "global_row_closure": false,
+        "append_operation_relations": [
+          {
+            "relation": "returns-to",
+            "href": "../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#native-field-return",
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#native-field-return",
+            "operation": "E1 refraction through the complete native eightfold",
+            "standing": "existing distinct office preserved; add to shared row without replacing original operation",
+            "current_occurrence": [
+              {
+                "line": 61,
+                "text": "The language-field comparison **returns-to** [E1’s native-field return](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#native-field-return) within the full eight determinations: `/ = −/− → 0/1 → ?/! → −/+ → X/x → AM/IS → ∞/dx → 1/0`. Encounter, naming, counting and personed address refract operations within that body; they supply neither eight replacement primitives nor a lexical derivation of Taylor’s `X/x`. The parent and inverse return retain the complete field in their respective orientations."
+              }
+            ]
+          },
+          {
+            "relation": "returns-to",
+            "path": "../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source",
+            "operation": "E1 refracts the complete native field; E4 separately keeps the derived mark answerable to its source, without lexical derivation.",
+            "current_occurrence": [
+              {
+                "line": 24,
+                "text": "| **#1 Definition** | `?/!` | **Questioning / asserting; ratio, reckoning, mark.** To ask “what is this?” already asserts that something has appeared stably enough to call for account; to assert “this is” keeps open the question of whether the account runs true. Definition is therefore double: openness to determination and determinative speech. It marks while [remaining answerable to what called for the mark](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source). | Every assertion bears the unsettled question that makes it accountable; every genuine question already takes a provisional mark. |"
+              }
+            ],
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source"
+          }
+        ],
+        "preserve_all_prior_other_field_returns": true,
+        "receipt": "working/p2-enrichment/receipts/T22-K-combined-movement-traversal-proof-2026-09-08.json"
+      }
+    },
+    {
+      "row_id": "T21-M34",
+      "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+      "action": "retain original office and materialise additional distinct operation; do not overwrite original272-map row",
+      "edits": [
+        {
+          "old": "native QL sequence carries its own positive source-relation and recognitive return",
+          "new": "[native QL sequence carries its own positive source-relation and recognitive return](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source)",
+          "href": "../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source",
+          "operation": "E5 keeps source-distinct comparison; E4 conducts the native sequence’s own source relation and imaginal/formal reciprocal return.",
+          "kind": "href-only"
+        }
+      ],
+      "status": "canonical operation links landed and T22 verified; parent-only shared-row foldback",
+      "original_row_snapshot": {
+        "row_id": "T21-M34",
+        "row_kind": "transferred-39-movement-alignment",
+        "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+        "operation": "Symbol answers to source",
+        "evidence_register": 3,
+        "canonical_home": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+        "original_canonical_home": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+        "consumers": [
+          {
+            "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+            "operation": "Matheme, Mytheme and Episteme disclose one field through different warrants; no register inherits proof from another",
+            "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+            "occurrence": {
+              "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+              "start_line": 21,
+              "end_line": 21,
+              "text": "The crossed zero now unfolds as a psychoid sequence rather than a single glyph:"
+            },
+            "current_literal_return_fragments": [],
+            "current_literal_forward_fragments": [],
+            "semantic_standing": "Pair-specific comparison not inferred from either link or a primary-row judgment."
+          }
+        ],
+        "development_status": "covered-mediated-return",
+        "source_obligations": [],
+        "consumer_obligations": [],
+        "judgment": "Formal transmission and lived image reciprocally change one another while Lacanian cut and native positive return retain distinct sources. The E5 return qualifies exactly the E4 source-answerability duty; no missing primitive or image body is implied.",
+        "observations": [
+          {
+            "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+            "sha256": "c05b2ac275dcd43234fb28361155794497da11add9be6d6a4c39cc366dcbe5f8",
+            "line_count": 43,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+            "sha256": "72edba52f029676ae3b51426cd0a91b3737d4921399ee5a858f75186938849ad",
+            "line_count": 135,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+            "sha256": "03ce9c4ef160a3a187148a9b206813fe83636a6539a6da5900234078652a859f",
+            "line_count": 70,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          }
+        ],
+        "semantic_operation_witnessed": true,
+        "global_row_closure": false,
+        "current_fragment_candidates": [],
+        "observation_sha256": "696cf598c324d1cd329591d4209aee50d3cb8f14debf7842261f85c1d07f8e86",
+        "evidence_scope": "Native/authorial operation and historical/source warrant remain independent; present audit does not reacquire six source corpora.",
+        "proposed_operation_reconciliation": "Current direct route E5 comparison separating Lacan and native QL; old row assigns E4 Symbol. Preserve E5 warrant and add E4 source-answerability only as distinct office.",
+        "source_disposition_authorities": [
+          "working/p2-enrichment/reference-note-dispositions.json",
+          "working/p2-enrichment/legacy-carrier-dispositions.json",
+          "working/p2-enrichment/T21-record-input-locators.json"
+        ],
+        "proposed_row_update": {
+          "row_id": "T21-M34",
+          "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "operation": "Symbol answers to source",
+          "evidence_register": 3,
+          "canonical_home": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+          "development_status": "covered-mediated-return",
+          "coverage_status": "covered-mediated-return",
+          "research_status": "no-new-research-debt-asserted",
+          "judgment": "Formal transmission and lived image reciprocally change one another while Lacanian cut and native positive return retain distinct sources. The E5 return qualifies exactly the E4 source-answerability duty; no missing primitive or image body is implied.",
+          "source_obligations": [],
+          "consumer_obligations": [],
+          "consumers": [
+            {
+              "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+              "operation": "Matheme, Mytheme and Episteme disclose one field through different warrants; no register inherits proof from another",
+              "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+              "occurrence": {
+                "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+                "start_line": 21,
+                "end_line": 21,
+                "text": "The crossed zero now unfolds as a psychoid sequence rather than a single glyph:"
+              },
+              "current_literal_return_fragments": [],
+              "current_literal_forward_fragments": [],
+              "semantic_standing": "Pair-specific comparison not inferred from either link or a primary-row judgment."
+            }
+          ]
+        },
+        "semantic_judgment_complete": true,
+        "coverage_status": "covered-mediated-return",
+        "research_status": "no-new-research-debt-asserted",
+        "scope_witnesses": [
+          {
+            "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+            "start_line": 40,
+            "end_line": 40,
+            "text": "[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#e5-whole-returns) **qualifies** the transmission by retaining the different work of each mark and image. Lacan's cut and barred subject remain attached to their source-specific account; the [native QL sequence carries its own positive source-relation and recognitive return](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source). A shared stroke or incomplete formalisation does not establish doctrinal identity. Mytheme can supply the imaginal source of a Matheme, and the resulting formal expression can return to change the image's reading. This reciprocal movement preserves the whole lived carrier instead of treating it as an example exhausted by its notation."
+          }
+        ],
+        "scope_closure": "judged",
+        "global_row_closure_meaning": "Not an assertion of universal historical acquisition or executed empirical/technical programme; use coverage_status and research_status independently.",
+        "current_sha256": "b7cdb4874b1204086c65e81984bf0e498ae98a38760fdaf5563991d82b1c4460"
+      },
+      "proposed_row_patch": {
+        "retain_unchanged": {
+          "operation": "Symbol answers to source",
+          "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "evidence_register": 3,
+          "source_obligations": []
+        },
+        "development_status": "movement-operation-pair-witnessed; distinct offices retained; pending parent matrix acceptance",
+        "semantic_operation_witnessed": true,
+        "global_row_closure": false,
+        "append_operation_relations": [
+          {
+            "relation": "returns-to",
+            "href": "../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#e5-whole-returns",
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#e5-whole-returns",
+            "operation": "E5 source-distinct comparison and reciprocal imaginal/formal return",
+            "standing": "existing distinct office preserved; add to shared row without replacing original operation",
+            "current_occurrence": [
+              {
+                "line": 40,
+                "text": "[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#e5-whole-returns) **qualifies** the transmission by retaining the different work of each mark and image. Lacan's cut and barred subject remain attached to their source-specific account; the [native QL sequence carries its own positive source-relation and recognitive return](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source). A shared stroke or incomplete formalisation does not establish doctrinal identity. Mytheme can supply the imaginal source of a Matheme, and the resulting formal expression can return to change the image's reading. This reciprocal movement preserves the whole lived carrier instead of treating it as an example exhausted by its notation."
+              }
+            ]
+          },
+          {
+            "relation": "returns-to",
+            "path": "../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source",
+            "operation": "E5 keeps source-distinct comparison; E4 conducts the native sequence’s own source relation and imaginal/formal reciprocal return.",
+            "current_occurrence": [
+              {
+                "line": 40,
+                "text": "[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#e5-whole-returns) **qualifies** the transmission by retaining the different work of each mark and image. Lacan's cut and barred subject remain attached to their source-specific account; the [native QL sequence carries its own positive source-relation and recognitive return](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source). A shared stroke or incomplete formalisation does not establish doctrinal identity. Mytheme can supply the imaginal source of a Matheme, and the resulting formal expression can return to change the image's reading. This reciprocal movement preserves the whole lived carrier instead of treating it as an example exhausted by its notation."
+              }
+            ],
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source"
+          }
+        ],
+        "preserve_all_prior_other_field_returns": true,
+        "receipt": "working/p2-enrichment/receipts/T22-K-combined-movement-traversal-proof-2026-09-08.json"
+      }
+    },
+    {
+      "row_id": "T21-M40",
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+      "action": "retain original office and materialise additional distinct operation; do not overwrite original272-map row",
+      "edits": [
+        {
+          "old": "datasets, comparison sets, reference policies, evaluators, institutions, and gauges",
+          "new": "[datasets, comparison sets, reference policies, evaluators, institutions, and gauges](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#criterion-through-distinction)",
+          "href": "../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#criterion-through-distinction",
+          "operation": "Criterion constitutes the comparison; Con-text/Regard separately exposes and revises the deciding office. Preserve both.",
+          "kind": "href-only"
+        }
+      ],
+      "status": "canonical operation links landed and T22 verified; parent-only shared-row foldback",
+      "original_row_snapshot": {
+        "row_id": "T21-M40",
+        "row_kind": "transferred-39-movement-alignment",
+        "field_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+        "branch_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+        "operation": "Criterion-through-Distinction → Measure / Limit",
+        "evidence_register": 3,
+        "canonical_home": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+        "original_canonical_home": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+        "consumers": [
+          {
+            "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+            "operation": "measure becomes power when one locus controls `/` while another bears consequence; Return must be able to revise the determining locus",
+            "return_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+            "occurrence": {
+              "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+              "start_line": 34,
+              "end_line": 35,
+              "text": "## Tension / limit\nExposing a gauge makes value conflict attributable and revisable: participants can see which comparison, baseline, or preference function produced the decision and contest it at the right level."
+            },
+            "current_literal_return_fragments": [
+              {
+                "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+                "start_line": 43,
+                "end_line": 44,
+                "text": "[E2’s con text through diaphaneity](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity) carries preference’s concealed conditions back to the criterion that selected and evaluated the answer. Increased observability can expose those conditions while leaving the evaluator protected. Regard becomes consequential when what is disclosed can revise the criterion and its commission; a finite hidden condition is not thereby identified with metaphysical Zero.\n**Mathematical anchor:** preference values identifiable through comparative relations and reference frames. **Political image:** the hidden zero as invisible governor. [[Mono-Poly: Whole and Many]] asks how dependencies remain shared without a metric claiming the whole; [[Trust, Faith, and the Formal Limit]] asks whether the relation to those dependencies has become honest enough for trust to be risked. A plural alternative is modelled in [[41-s5-p4-bimba-energy-fields|§5 · #4 — Bimba and Energy-Based Fields]]."
+              }
+            ],
+            "current_literal_forward_fragments": [
+              {
+                "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+                "start_line": 208,
+                "end_line": 208,
+                "text": "The exact Movement routes retain their separate publication offices. [M03](../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md) receives productive distinction before source-usurpation; [M05](../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) and [M35](../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md) receive perspective's disclosure of its conditions. [M23](../../../../section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md) receives the difference between a stable basin and a transformed regime, while [M32](../../../../section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md) receives native `X/x` before the psychic refraction. [M40](../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) receives the finite evaluator's hidden conditioning, distinguished from metaphysical Zero and from trust. [M42](../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md) receives an Offered gauge/return experiment; [M43](../../../../section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md) receives the loving manner of return; [M46](../../../../section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md) receives contestable local rule and common consequence without an infallible master reference field. Each Movement receives the relation at its own scale: the field keeps the generated operation recoverable through those differences."
+              }
+            ],
+            "semantic_standing": "Pair-specific comparison not inferred from either link or a primary-row judgment."
+          }
+        ],
+        "development_status": "movement-operation-witnessed; original-alignment-retained; operation-map-adjustment-needed",
+        "source_obligations": [],
+        "consumer_obligations": [
+          "Current direct route E2 Con-text/Regard; original assigns Criterion-through-Distinction. Preserve criterion constituting the score and regard revising its office as two operations."
+        ],
+        "judgment": "The current movement fragment makes the local E operation consequential in this movement, rather than only listing the operation: Criterion-through-Distinction → Measure / Limit",
+        "observations": [
+          {
+            "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+            "sha256": "abc03cb4f69039a5f3db150f0bc16d8a5d579e43599c671cfb62d20fdfbefbda",
+            "line_count": 54,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+            "sha256": "58c7e374fe38ac56ce60fcd0180aa0cf0c1f789135cdb92b10c440d49e52bc94",
+            "line_count": 248,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+            "sha256": "ec8f32cb86117c0c7efa4c0c894f44f1d6c686008c34e2f8fa426a9e7a8ea815",
+            "line_count": 230,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          }
+        ],
+        "semantic_operation_witnessed": true,
+        "global_row_closure": false,
+        "current_fragment_candidates": [
+          {
+            "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+            "start_line": 43,
+            "end_line": 44,
+            "text": "[E2’s con text through diaphaneity](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity) carries preference’s concealed conditions back to the criterion that selected and evaluated the answer. Increased observability can expose those conditions while leaving the evaluator protected. Regard becomes consequential when what is disclosed can revise the criterion and its commission; a finite hidden condition is not thereby identified with metaphysical Zero.\n**Mathematical anchor:** preference values identifiable through comparative relations and reference frames. **Political image:** the hidden zero as invisible governor. [[Mono-Poly: Whole and Many]] asks how dependencies remain shared without a metric claiming the whole; [[Trust, Faith, and the Formal Limit]] asks whether the relation to those dependencies has become honest enough for trust to be risked. A plural alternative is modelled in [[41-s5-p4-bimba-energy-fields|§5 · #4 — Bimba and Energy-Based Fields]]."
+          }
+        ],
+        "observation_sha256": "abc03cb4f69039a5f3db150f0bc16d8a5d579e43599c671cfb62d20fdfbefbda",
+        "evidence_scope": "Native/authorial operation and historical/source warrant remain independent; present audit does not reacquire six source corpora.",
+        "proposed_operation_reconciliation": "Current direct route E2 Con-text/Regard; original assigns Criterion-through-Distinction. Preserve criterion constituting the score and regard revising its office as two operations.",
+        "source_disposition_authorities": [
+          "working/p2-enrichment/reference-note-dispositions.json",
+          "working/p2-enrichment/legacy-carrier-dispositions.json",
+          "working/p2-enrichment/T21-record-input-locators.json"
+        ],
+        "proposed_row_update": {
+          "row_id": "T21-M40",
+          "field_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "branch_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+          "operation": "Criterion-through-Distinction → Measure / Limit",
+          "evidence_register": 3,
+          "canonical_home": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+          "development_status": "movement-operation-witnessed; original-alignment-retained; operation-map-adjustment-needed",
+          "coverage_status": "covered",
+          "research_status": "no-new-research-debt-asserted",
+          "judgment": "The current movement fragment makes the local E operation consequential in this movement, rather than only listing the operation: Criterion-through-Distinction → Measure / Limit",
+          "source_obligations": [],
+          "consumer_obligations": [
+            "Current direct route E2 Con-text/Regard; original assigns Criterion-through-Distinction. Preserve criterion constituting the score and regard revising its office as two operations."
+          ],
+          "consumers": [
+            {
+              "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+              "operation": "measure becomes power when one locus controls `/` while another bears consequence; Return must be able to revise the determining locus",
+              "return_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+              "occurrence": {
+                "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+                "start_line": 34,
+                "end_line": 35,
+                "text": "## Tension / limit\nExposing a gauge makes value conflict attributable and revisable: participants can see which comparison, baseline, or preference function produced the decision and contest it at the right level."
+              },
+              "current_literal_return_fragments": [
+                {
+                  "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+                  "start_line": 43,
+                  "end_line": 44,
+                  "text": "[E2’s con text through diaphaneity](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity) carries preference’s concealed conditions back to the criterion that selected and evaluated the answer. Increased observability can expose those conditions while leaving the evaluator protected. Regard becomes consequential when what is disclosed can revise the criterion and its commission; a finite hidden condition is not thereby identified with metaphysical Zero.\n**Mathematical anchor:** preference values identifiable through comparative relations and reference frames. **Political image:** the hidden zero as invisible governor. [[Mono-Poly: Whole and Many]] asks how dependencies remain shared without a metric claiming the whole; [[Trust, Faith, and the Formal Limit]] asks whether the relation to those dependencies has become honest enough for trust to be risked. A plural alternative is modelled in [[41-s5-p4-bimba-energy-fields|§5 · #4 — Bimba and Energy-Based Fields]]."
+                }
+              ],
+              "current_literal_forward_fragments": [
+                {
+                  "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+                  "start_line": 208,
+                  "end_line": 208,
+                  "text": "The exact Movement routes retain their separate publication offices. [M03](../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md) receives productive distinction before source-usurpation; [M05](../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md) and [M35](../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md) receive perspective's disclosure of its conditions. [M23](../../../../section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md) receives the difference between a stable basin and a transformed regime, while [M32](../../../../section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md) receives native `X/x` before the psychic refraction. [M40](../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) receives the finite evaluator's hidden conditioning, distinguished from metaphysical Zero and from trust. [M42](../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md) receives an Offered gauge/return experiment; [M43](../../../../section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md) receives the loving manner of return; [M46](../../../../section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md) receives contestable local rule and common consequence without an infallible master reference field. Each Movement receives the relation at its own scale: the field keeps the generated operation recoverable through those differences."
+                }
+              ],
+              "semantic_standing": "Pair-specific comparison not inferred from either link or a primary-row judgment."
+            }
+          ]
+        },
+        "semantic_judgment_complete": true,
+        "coverage_status": "covered",
+        "research_status": "no-new-research-debt-asserted",
+        "scope_closure": "judged",
+        "global_row_closure_meaning": "Not an assertion of universal historical acquisition or executed empirical/technical programme; use coverage_status and research_status independently.",
+        "current_sha256": "abc03cb4f69039a5f3db150f0bc16d8a5d579e43599c671cfb62d20fdfbefbda"
+      },
+      "proposed_row_patch": {
+        "retain_unchanged": {
+          "operation": "Criterion-through-Distinction → Measure / Limit",
+          "field_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "branch_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+          "evidence_register": 3,
+          "source_obligations": []
+        },
+        "development_status": "movement-operation-pair-witnessed; distinct offices retained; pending parent matrix acceptance",
+        "semantic_operation_witnessed": true,
+        "global_row_closure": false,
+        "append_operation_relations": [
+          {
+            "relation": "returns-to",
+            "href": "../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity",
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity",
+            "operation": "E2 Regard lets consequence reach criterion and commission; distinct from constituting the comparison",
+            "standing": "existing distinct office preserved; add to shared row without replacing original operation",
+            "current_occurrence": [
+              {
+                "line": 43,
+                "text": "[E2’s con text through diaphaneity](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity) carries preference’s concealed conditions back to the criterion that selected and evaluated the answer. Increased observability can expose those conditions while leaving the evaluator protected. Regard becomes consequential when what is disclosed can revise the criterion and its commission; a finite hidden condition is not thereby identified with metaphysical Zero."
+              }
+            ]
+          },
+          {
+            "relation": "returns-to",
+            "path": "../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#criterion-through-distinction",
+            "operation": "Criterion constitutes the comparison; Con-text/Regard separately exposes and revises the deciding office. Preserve both.",
+            "current_occurrence": [
+              {
+                "line": 17,
+                "text": "The neutral baseline in alignment is already occupied by [datasets, comparison sets, reference policies, evaluators, institutions, and gauges](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#criterion-through-distinction)."
+              }
+            ],
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#criterion-through-distinction"
+          }
+        ],
+        "preserve_all_prior_other_field_returns": true,
+        "receipt": "working/p2-enrichment/receipts/T22-K-combined-movement-traversal-proof-2026-09-08.json"
+      }
+    },
+    {
+      "row_id": "T21-M41",
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+      "action": "retain original office and materialise additional distinct operation; do not overwrite original272-map row",
+      "edits": [
+        {
+          "old": "relation to source, evidence, lens, reference field",
+          "new": "[relation to source, evidence, lens, reference field](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source)",
+          "href": "../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source",
+          "operation": "E1 receives the Other’s answering Countenance; E4 keeps the real local original dependent on wider sources rather than equating model and world.",
+          "kind": "href-only"
+        }
+      ],
+      "status": "canonical operation links landed and T22 verified; parent-only shared-row foldback",
+      "original_row_snapshot": {
+        "row_id": "T21-M41",
+        "row_kind": "transferred-39-movement-alignment",
+        "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+        "operation": "Account does not replace source",
+        "evidence_register": 3,
+        "canonical_home": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+        "original_canonical_home": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+        "consumers": [
+          {
+            "path": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+            "operation": "world ≠ world-model; Bimba ≠ Pratibimba; independently grounded worlds can become mutually conditioning without super-agent collapse",
+            "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+            "occurrence": {
+              "path": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+              "start_line": 29,
+              "end_line": 29,
+              "text": "`Bimba` does not name one globally fixed artefact. It names the original/reference office in a relation. QL's recursive Context-Frame grammar therefore permits a constructed epistemic field to function as Bimba for the determinations nested within that inquiry without claiming that the artefact is the metaphysical Original of reality."
+            },
+            "current_literal_return_fragments": [],
+            "current_literal_forward_fragments": [],
+            "semantic_standing": "Pair-specific comparison not inferred from either link or a primary-row judgment."
+          }
+        ],
+        "development_status": "covered-mediated-return",
+        "source_obligations": [],
+        "consumer_obligations": [],
+        "judgment": "A made-and-avowed local Bimba really anchors judgments and remains source-dependent. Contrary encounter can revise that local original, gauge or translation; E1 address and the jigsaw/history carry the original E4 account/source operation.",
+        "observations": [
+          {
+            "path": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+            "sha256": "6de2b4354cdbf41a5fa66ad5d95ecb7dbe3a4cdd5780bc7044e12a01a8111b34",
+            "line_count": 59,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+            "sha256": "72edba52f029676ae3b51426cd0a91b3737d4921399ee5a858f75186938849ad",
+            "line_count": 135,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+            "sha256": "03ce9c4ef160a3a187148a9b206813fe83636a6539a6da5900234078652a859f",
+            "line_count": 70,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          }
+        ],
+        "semantic_operation_witnessed": true,
+        "global_row_closure": false,
+        "current_fragment_candidates": [],
+        "observation_sha256": "6de2b4354cdbf41a5fa66ad5d95ecb7dbe3a4cdd5780bc7044e12a01a8111b34",
+        "evidence_scope": "Native/authorial operation and historical/source warrant remain independent; present audit does not reacquire six source corpora.",
+        "proposed_operation_reconciliation": "Current direct route E1 Count-through-Countenance; old assigns E4 Account. Real local Bimba and wider source-dependence are developed; retain both routes with their distinct obligations.",
+        "source_disposition_authorities": [
+          "working/p2-enrichment/reference-note-dispositions.json",
+          "working/p2-enrichment/legacy-carrier-dispositions.json",
+          "working/p2-enrichment/T21-record-input-locators.json"
+        ],
+        "proposed_row_update": {
+          "row_id": "T21-M41",
+          "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "operation": "Account does not replace source",
+          "evidence_register": 3,
+          "canonical_home": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+          "development_status": "covered-mediated-return",
+          "coverage_status": "covered-mediated-return",
+          "research_status": "no-new-research-debt-asserted",
+          "judgment": "A made-and-avowed local Bimba really anchors judgments and remains source-dependent. Contrary encounter can revise that local original, gauge or translation; E1 address and the jigsaw/history carry the original E4 account/source operation.",
+          "source_obligations": [],
+          "consumer_obligations": [],
+          "consumers": [
+            {
+              "path": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+              "operation": "world ≠ world-model; Bimba ≠ Pratibimba; independently grounded worlds can become mutually conditioning without super-agent collapse",
+              "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+              "occurrence": {
+                "path": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+                "start_line": 29,
+                "end_line": 29,
+                "text": "`Bimba` does not name one globally fixed artefact. It names the original/reference office in a relation. QL's recursive Context-Frame grammar therefore permits a constructed epistemic field to function as Bimba for the determinations nested within that inquiry without claiming that the artefact is the metaphysical Original of reality."
+              },
+              "current_literal_return_fragments": [],
+              "current_literal_forward_fragments": [],
+              "semantic_standing": "Pair-specific comparison not inferred from either link or a primary-row judgment."
+            }
+          ]
+        },
+        "semantic_judgment_complete": true,
+        "coverage_status": "covered-mediated-return",
+        "research_status": "no-new-research-debt-asserted",
+        "scope_witnesses": [
+          {
+            "path": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+            "start_line": 47,
+            "end_line": 47,
+            "text": "The map must be stable enough to anchor comparison and revisable enough not to become a [[40-s5-p3-preference-hidden-zero|Protected/hidden account]]. Its authority is carried by provenance, declared construction and corrigible return rather than by pretending to be unmade."
+          }
+        ],
+        "scope_closure": "judged",
+        "global_row_closure_meaning": "Not an assertion of universal historical acquisition or executed empirical/technical programme; use coverage_status and research_status independently.",
+        "current_sha256": "6de2b4354cdbf41a5fa66ad5d95ecb7dbe3a4cdd5780bc7044e12a01a8111b34"
+      },
+      "proposed_row_patch": {
+        "retain_unchanged": {
+          "operation": "Account does not replace source",
+          "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "evidence_register": 3,
+          "source_obligations": []
+        },
+        "development_status": "movement-operation-pair-witnessed; distinct offices retained; pending parent matrix acceptance",
+        "semantic_operation_witnessed": true,
+        "global_row_closure": false,
+        "append_operation_relations": [
+          {
+            "relation": "returns-to",
+            "href": "../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-through-countenance",
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-through-countenance",
+            "operation": "E1 answering Countenance can revise an attribution and the real local original",
+            "standing": "existing distinct office preserved; add to shared row without replacing original operation",
+            "current_occurrence": [
+              {
+                "line": 57,
+                "text": "The Bimba comparison **returns-to** [Count-through-Countenance](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-through-countenance) where another’s response challenges an attribution held in the reference field. A local Bimba genuinely anchors downstream judgments and remains Pratibimba relative to wider sources. Returned address can therefore revise that local original, its gauge or its translation; counting another as a modelled participant does not give the model possession of their response."
+              }
+            ]
+          },
+          {
+            "relation": "returns-to",
+            "path": "../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source",
+            "operation": "E1 receives the Other’s answering Countenance; E4 keeps the real local original dependent on wider sources rather than equating model and world.",
+            "current_occurrence": [
+              {
+                "line": 23,
+                "text": "This is the point at which **epistemics becomes first-class** in the technical proposal. A model output is no longer evaluated only as a finished token, score or action. Its [relation to source, evidence, lens, reference field](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source), alternatives, local world-object and governing gauge can itself be represented, compared and returned. QL supplies the relational grammar; MEF keeps the lens-conditioned reading explicit; Bimba supplies the anchored epistemic field; the harness preserves the conditions and consequences of each determination."
+              }
+            ],
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source"
+          }
+        ],
+        "preserve_all_prior_other_field_returns": true,
+        "receipt": "working/p2-enrichment/receipts/T22-K-combined-movement-traversal-proof-2026-09-08.json"
+      }
+    },
+    {
+      "row_id": "T21-M44",
+      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "action": "retain original office and materialise additional distinct operation; do not overwrite original272-map row",
+      "edits": [
+        {
+          "old": "a permission, criterion or subsequent act",
+          "new": "[a permission, criterion or subsequent act](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field)",
+          "href": "../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field",
+          "operation": "Existing E4 Account does not replace source retains inspection; E4 re-entry reaches changed next use, retaining the specific permission/criterion/action test.",
+          "kind": "href-only"
+        }
+      ],
+      "status": "canonical operation links landed and T22 verified; parent-only shared-row foldback",
+      "original_row_snapshot": {
+        "row_id": "T21-M44",
+        "row_kind": "transferred-39-movement-alignment",
+        "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+        "operation": "Account re-enters source-field",
+        "evidence_register": 3,
+        "canonical_home": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+        "original_canonical_home": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+        "consumers": [
+          {
+            "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+            "operation": "shared grammar makes worlds mutually legible without ontology collapse; Projection ≠ source",
+            "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+            "occurrence": {
+              "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+              "start_line": 21,
+              "end_line": 22,
+              "text": "## Warrant\nThe unit can nest across sentence, claim, agent, research programme, and institution while retaining source and disagreement. [[submission-package/epi-logos/resources/mef-12-lenses-sublens-reference|MEF 12 Lenses and Sublenses]] supplies the initial diaphaneity seed. The architecture answers Agentworld's conceptual-language lag by giving humans and agents a common set of operations—distinguish, exclude, relate, compose, contextualise, return—without forcing one ontology or hiding every machine process behind a humanoid mask."
+            },
+            "current_literal_return_fragments": [
+              {
+                "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+                "start_line": 44,
+                "end_line": 44,
+                "text": "The [Symbol / Account / Trust whole-field — Account does not replace source](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. A bounded Bimba reference field remains inspectable and revisable in its wider context. The harness carries source, gauge, exclusion and consequence so the account’s return can reach its own reference office. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained."
+              }
+            ],
+            "current_literal_forward_fragments": [
+              {
+                "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+                "start_line": 109,
+                "end_line": 109,
+                "text": "The Movement return also has distinct tasks. [M20](../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md) **extends** the loss of source and recomposition after a cut; [M21](../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md) **extends** the provisional anchor whose seam remains executable. [M40](../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) **tests** the difference between exposing an evaluator's conditions and warranted reliance. [M44](../../../../section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md) **extends** the inspectable return through a harness, while [M48](../../../../section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md) **returns-to** source and affected worlds after a determination has acted. Their source-specific historical claims and implementation duties remain with those movements. No common list of labels substitutes for their different consequences."
+              }
+            ],
+            "semantic_standing": "Pair-specific comparison not inferred from either link or a primary-row judgment."
+          }
+        ],
+        "development_status": "movement-operation-witnessed; original-alignment-retained; operation-map-adjustment-needed",
+        "source_obligations": [],
+        "consumer_obligations": [
+          "Current E4 label Account does not replace source; original Account re-enters source-field. Paragraph carries revisable reference; add actual changed-next-use consequence or record pair without treating inspection alone as re-entry."
+        ],
+        "judgment": "The current movement fragment makes the local E operation consequential in this movement, rather than only listing the operation: Account re-enters source-field",
+        "observations": [
+          {
+            "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+            "sha256": "2f4617c27ca3a73a576c484a272bb8c50278cddb3b3b1fa557936e9b9cbc8255",
+            "line_count": 50,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+            "sha256": "72edba52f029676ae3b51426cd0a91b3737d4921399ee5a858f75186938849ad",
+            "line_count": 135,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+            "sha256": "03ce9c4ef160a3a187148a9b206813fe83636a6539a6da5900234078652a859f",
+            "line_count": 70,
+            "standing": "read-time file observation; not semantic certification or frozen-hash gate"
+          }
+        ],
+        "semantic_operation_witnessed": true,
+        "global_row_closure": false,
+        "current_fragment_candidates": [
+          {
+            "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+            "start_line": 44,
+            "end_line": 44,
+            "text": "The [Symbol / Account / Trust whole-field — Account does not replace source](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. A bounded Bimba reference field remains inspectable and revisable in its wider context. The harness carries source, gauge, exclusion and consequence so the account’s return can reach its own reference office. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained."
+          }
+        ],
+        "observation_sha256": "28a358455821612f16dbc2f74463256ef01d4ccf1ed901d8e3928c60d8cbff5e",
+        "evidence_scope": "Native/authorial operation and historical/source warrant remain independent; present audit does not reacquire six source corpora.",
+        "proposed_operation_reconciliation": "Current E4 label Account does not replace source; original Account re-enters source-field. Paragraph carries revisable reference; add actual changed-next-use consequence or record pair without treating inspection alone as re-entry.",
+        "source_disposition_authorities": [
+          "working/p2-enrichment/reference-note-dispositions.json",
+          "working/p2-enrichment/legacy-carrier-dispositions.json",
+          "working/p2-enrichment/T21-record-input-locators.json"
+        ],
+        "proposed_row_update": {
+          "row_id": "T21-M44",
+          "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "operation": "Account re-enters source-field",
+          "evidence_register": 3,
+          "canonical_home": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+          "development_status": "movement-operation-witnessed; original-alignment-retained; operation-map-adjustment-needed",
+          "coverage_status": "covered",
+          "research_status": "no-new-research-debt-asserted",
+          "judgment": "The current movement fragment makes the local E operation consequential in this movement, rather than only listing the operation: Account re-enters source-field",
+          "source_obligations": [],
+          "consumer_obligations": [
+            "Current E4 label Account does not replace source; original Account re-enters source-field. Paragraph carries revisable reference; add actual changed-next-use consequence or record pair without treating inspection alone as re-entry."
+          ],
+          "consumers": [
+            {
+              "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+              "operation": "shared grammar makes worlds mutually legible without ontology collapse; Projection ≠ source",
+              "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+              "occurrence": {
+                "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+                "start_line": 21,
+                "end_line": 22,
+                "text": "## Warrant\nThe unit can nest across sentence, claim, agent, research programme, and institution while retaining source and disagreement. [[submission-package/epi-logos/resources/mef-12-lenses-sublens-reference|MEF 12 Lenses and Sublenses]] supplies the initial diaphaneity seed. The architecture answers Agentworld's conceptual-language lag by giving humans and agents a common set of operations—distinguish, exclude, relate, compose, contextualise, return—without forcing one ontology or hiding every machine process behind a humanoid mask."
+              },
+              "current_literal_return_fragments": [
+                {
+                  "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+                  "start_line": 44,
+                  "end_line": 44,
+                  "text": "The [Symbol / Account / Trust whole-field — Account does not replace source](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. A bounded Bimba reference field remains inspectable and revisable in its wider context. The harness carries source, gauge, exclusion and consequence so the account’s return can reach its own reference office. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained."
+                }
+              ],
+              "current_literal_forward_fragments": [
+                {
+                  "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+                  "start_line": 109,
+                  "end_line": 109,
+                  "text": "The Movement return also has distinct tasks. [M20](../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md) **extends** the loss of source and recomposition after a cut; [M21](../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md) **extends** the provisional anchor whose seam remains executable. [M40](../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) **tests** the difference between exposing an evaluator's conditions and warranted reliance. [M44](../../../../section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md) **extends** the inspectable return through a harness, while [M48](../../../../section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md) **returns-to** source and affected worlds after a determination has acted. Their source-specific historical claims and implementation duties remain with those movements. No common list of labels substitutes for their different consequences."
+                }
+              ],
+              "semantic_standing": "Pair-specific comparison not inferred from either link or a primary-row judgment."
+            }
+          ]
+        },
+        "semantic_judgment_complete": true,
+        "coverage_status": "covered",
+        "research_status": "no-new-research-debt-asserted",
+        "scope_closure": "judged",
+        "global_row_closure_meaning": "Not an assertion of universal historical acquisition or executed empirical/technical programme; use coverage_status and research_status independently.",
+        "current_sha256": "28a358455821612f16dbc2f74463256ef01d4ccf1ed901d8e3928c60d8cbff5e"
+      },
+      "proposed_row_patch": {
+        "retain_unchanged": {
+          "operation": "Account re-enters source-field",
+          "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "evidence_register": 3,
+          "source_obligations": []
+        },
+        "development_status": "movement-operation-pair-witnessed; distinct offices retained; pending parent matrix acceptance",
+        "semantic_operation_witnessed": true,
+        "global_row_closure": false,
+        "append_operation_relations": [
+          {
+            "relation": "returns-to",
+            "href": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source",
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source",
+            "operation": "E4 inspectable source-dependent account, distinguished from changed subsequent use",
+            "standing": "existing distinct office preserved; add to shared row without replacing original operation",
+            "current_occurrence": [
+              {
+                "line": 44,
+                "text": "The [Symbol / Account / Trust whole-field — Account does not replace source](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. A bounded Bimba reference field remains inspectable and revisable in its wider context. The harness carries source, gauge, exclusion and consequence so the account’s return can reach its own reference office. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained."
+              }
+            ]
+          },
+          {
+            "relation": "returns-to",
+            "path": "../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field",
+            "operation": "Existing E4 Account does not replace source retains inspection; E4 re-entry reaches changed next use, retaining the specific permission/criterion/action test.",
+            "current_occurrence": [
+              {
+                "line": 39,
+                "text": "The [travelling-jigsaw whole](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **figures** a harness in which the map-making operation remains inspectable with the map. Local originals, their situated readings, transitions and unresolved disagreement keep distinct offices. A changed source or encountered resistance must reach [a permission, criterion or subsequent act](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field) for the proposed return to operate."
+              }
+            ],
+            "canonical_target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field"
+          }
+        ],
+        "preserve_all_prior_other_field_returns": true,
+        "receipt": "working/p2-enrichment/receipts/T22-K-combined-movement-traversal-proof-2026-09-08.json"
+      }
+    }
+  ],
+  "observed_utc": "2026-09-08T12:54:39.337861+00:00",
+  "shared_input": {
+    "path": "working/p2-enrichment/audits/T21-current-reconciliation/current-row-audit.json",
+    "sha256": "d8eb3ea9b5472ba87ea365589f46eedf905ab3716dbcc97ffd27da44b0849a0c"
+  },
+  "source_R4": {
+    "status": "source-specific attribution repaired in M27",
+    "edits": [
+      {
+        "old": "When the mark re-enters the space it distinguishes, the system cannot settle into one timeless value. It oscillates between its states. [[varela-1975-calculus-self-reference|Varela]] and the calculus of self-reference develop this consequence: re-entry gives the binary a temporal dimension and turns contradiction into dynamism. The present state carries its prior crossing as memory.",
+        "new": "The essay’s Argued temporal reading treats a re-entering mark as carrying its prior crossing into the next state as memory. [[varela-1975-calculus-self-reference|Varela]] formally introduces an [autonomous third state](../../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md#varela-1975-calculus-self-reference-q001). His [temporal and systemic interpretations](../../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md#varela-1975-calculus-self-reference-q002) leave frequency characterisation for further investigation. The [frequency-to-retention task](../../../symbolon/episteme/dossiers/formal-limit.md#frequency-retention-and-signed-dia-research) must specify what recurs, how frequency is measured, what retains the prior state and how that retention changes the next crossing. Varela’s calculus does not itself complete that authorial chain.",
+        "kind": "R4-attribution-scope",
+        "operation": "Separate Varela autonomous third state/frequency research, native Argued retention chain, Offered signed-dia programme and Kauffman anticommuting shift."
+      },
+      {
+        "old": "Dia-ballein is the seam unrolled in time: the signed poles alternate; re-entry makes their relation operative; complex orientation records the phase that a one-dimensional number line cannot.",
+        "new": "The essay’s Offered signed-dia reading proposes the seam unrolled in time: the signed poles alternate; re-entry makes their relation operative; complex orientation records the phase that a one-dimensional number line cannot. Mapping signs, states and temporal order remains a distinct research task; the iterant derivation alone does not complete it.",
+        "kind": "R4-attribution-scope",
+        "operation": "Separate Varela autonomous third state/frequency research, native Argued retention chain, Offered signed-dia programme and Kauffman anticommuting shift."
+      },
+      {
+        "old": "Re-entry gives the essay a precise account of time and memory. A mark that returns cannot return as though no distinction occurred.",
+        "new": "Within the essay’s Argued temporal account, a mark that returns cannot return as though no distinction occurred.",
+        "kind": "R4-attribution-scope",
+        "operation": "Separate Varela autonomous third state/frequency research, native Argued retention chain, Offered signed-dia programme and Kauffman anticommuting shift."
+      }
+    ],
+    "native_claim": "Argued temporal-retention chain retained",
+    "research": "Varela frequency-to-retention and signed-dia unrolled-time not promoted",
+    "Kauffman": "anticommuting shift, i²=-1 and kernel/nonuniqueness paragraph unchanged"
+  }
+}

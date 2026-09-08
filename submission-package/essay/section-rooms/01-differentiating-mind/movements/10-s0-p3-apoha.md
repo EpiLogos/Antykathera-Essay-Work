@@ -34,6 +34,14 @@ An intelligent system should retain the excluded field, source conditions, and c
 
 The [[Dushun (attributed) — The Jewel Net of Indra (Cleary, 2000)|Huayan jewel-net passage]] gives this epistemic–ontogenic sequence an image: reflections pass through every jewel and recur within the reflections themselves. [[Van Norden and Jones — Huayan Buddhism (SEP, 2024)|Huayan scholarship]] states the native force more carefully—each member depends upon the others for existence and identity while remaining distinct. The essay brings that operation into relation with apoha's constitutive exclusion, dependent arising's conditioned occurrence, and *saṃkalpa*'s world-building. [[22-s2-p3-ares-aphrodite-harmonia|§2 · #3]] will set this living web against Hephaestus's bonds after the Homeric scene has supplied the opposing mytheme.
 
+The [Indra’s jewel-net whole](../../../symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-whole-return) **compares** the selected jewel’s constitutive field with this movement’s account of determination. Its recursive inclusion joins the authored braid only with apoha’s semantic exclusion, conditioned occurrence and saṃkalpa’s world-building still distinguishable. The complete contemplation supplies the positive image before the later two-net encounter.
+
 ## Anchor and transition
 
+The determinate term **returns-to** [Name-through-Count](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count) with the contrast through which it applies. Recovering the materially constitutive non-selection makes the chosen name answerable without cancelling its positive reach. Apoha’s semantic operation and the native count remain distinct: neither a shared word for exclusion nor an inventory of every absent possibility establishes their relation.
+
 **Mathematical anchor:** relative scores become a distribution and local output. **Ethical image:** every mark carries a remainder. The full contraction is compacted in [[11-s0-p4-tattvic-compression|§0 · #4 — The Sixfold Tattvic Compression]].
+
+Pind’s two passages and secondary nominal/verbal negation retain distinct evidential offices; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-exclusion) **qualifies** this historical attribution.
+
+The [authored P1 route for M10](../P1-CANONICAL-ALIGNMENT.md#p1-m10) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

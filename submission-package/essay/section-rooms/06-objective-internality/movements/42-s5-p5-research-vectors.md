@@ -46,9 +46,17 @@ Introduce counter-evidence, resistant world conditions, other internalities, dis
 These vectors can vary memory, source access, permissions, gauges, tools, sensorium, action-space, context composition, other internalities and return conditions without assuming that additional context automatically constitutes a richer world. The minimal/maximal distinction is an experimental envelope, not an intelligence ladder; its governing limits are recorded in [[PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE]].
 
 ## Tension / limit
-Each vector needs a baseline, metric, failure condition and counter-hypothesis. None may manufacture a claim of machine subjectivity, treat the Bimba Map as a final metaphysical world, or infer truth from internal coherence alone. The map is epistemically useful because its grounds are explicit and revisable, not because its local Bimba office makes it infallible.
+[Each vector needs a baseline, metric, failure condition and counter-hypothesis](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#world-agency-and-local-original). None may manufacture a claim of machine subjectivity, treat the Bimba Map as a final metaphysical world, or infer truth from internal coherence alone. The map is epistemically useful because its grounds are explicit and revisable, not because its local Bimba office makes it infallible.
 
 Current O:I products may supply executable conditions for these tests only where their authored roles and implementation make a distinct world–agency or epistemic relation variable or inspectable. Returned failures and null results remain evidence capable of revising the proposed correspondence.
 
+The [travelling-jigsaw whole](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **tests** the atlas proposal by carrying filter, cover, local clustering and nerve construction into a specified research route. Sheaf restriction and gluing offer a distinct test of compatibility. A disclosed obstruction remains a result to investigate; neither route counts as implemented through the image alone.
+
 ## Anchor and transition
 **QL anchor:** every experiment performs the `1/0` return by declaring origin, exclusion, lens, reference field and limit. Sustaining such inquiry requires an institution in [[43-s50-p0-theory-vocation-compassion|§5→0 · #0 — From Theory to Vocation]].
+
+The research programme **returns-to** [Count-to-Account](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-to-account) by making encounter discriminable in a subsequent judgment. An answering participant can challenge an attribution; the trial must show whether source, representation, evaluator or permission changed through that challenge. The account retains its conditions and result, including a null finding, so the proposed revision route is not certified by its own description.
+
+The next research cycle **returns-to** [Resolution-in-Reconciliation → Anamnesis / Recognition / Return](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation) with the conditions and consequence of its prior result retained. Con-text-through-Diaphaneity makes them available for Regard; resolution carries a warranted change, or a warranted retention, into the next trial. A new summary of the old result does not demonstrate that change. The programme remains Offered until actual comparisons distinguish these outcomes.
+
+The [authored P1 route for M42](../P1-CANONICAL-ALIGNMENT.md#p1-m42) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

@@ -28,12 +28,20 @@ The pulse belongs to a wider process line. Bergsonian duration makes the present
 
 [[16-bohmian-enfoldment-dialogical-return|Bohm]] distinguishes analysis from fragmentation. Analysis explicates a relatively stable form so its behaviour can be known. Fragmentation occurs when the analytic divisions are attributed to the whole as final separations and internal relatedness disappears. Dia-ballein is the necessary explicating cut; sym-ballein is the retention of implication through the cut. Atomisation is the runtime arrested between them.
 
-The political psychic cycle has the same dynamic shape. Atomisation and loss of meaningful relation leave affect unbound; a single narrative can bind that affect by intensifying one branch and converting the excluded branch into the cause of the field's pain. The resolution is real as affect but false as ground: the local determination has occupied `0`. Divine and concur reopens the basin—not by dissolving conflict, but by restoring the relational field in which differentiated parties can become mutually answerable. The institutional question remains irreducible: no psychic account is adequate unless it asks how offices, media, property, and coercion stabilise or interrupt the cycle.
+The political psychic cycle has the same dynamic shape. Atomisation and loss of meaningful relation leave affect unbound; a single narrative can bind that affect by intensifying one branch and converting the excluded branch into the cause of the field's pain. The resolution is real as affect but false as ground: the local determination has occupied `0`. Divine and concur reopens the basin—not by dissolving conflict, but by restoring the relational field in which differentiated parties can become mutually answerable. The institutional question remains irreducible: no psychic account is adequate unless it asks [how offices, media, property, and coercion stabilise or interrupt the cycle](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#formation-and-enframing).
 
 ## Apollo–Dionysus safeguard
 
 Apollo makes the \(1\) visible through measure, boundary, and form. Dionysus returns fixed form to participatory life. Apollo without Dionysian depth petrifies what it illuminates; Dionysus without Apollonian articulation dissolves the differences through which relation lives. Gebserian diaphaneity is their mature conjunction: form transparent to origin, life capable of returning as form.
 
+The [myth historical development](../../../symbolon/episteme/histories/encounters-and-transmissions/myth/DEVELOPMENT.md#4--aesthetic-reciprocity-becomes-a-perspective-capable-of-return) **historicises** the Apollo–Dionysus safeguard through Nietzsche’s aesthetic reciprocity and Taylor’s distinct Gebserian return. The source histories preserve articulation and participation without supplying a dynamical model’s empirical proof.
+
+
+
 ## Transition
 
+[E2’s arbitration in crisis](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#arbitration-in-crisis) gives this movement its relational test for a change of regime: [Con-text exposes the conditions under which arbitration has operated](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity), and [Resolution lets consequence revise them](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation). The distinction between movement within a basin and transformation of its governing regime remains necessary. The E-field supplies that operation of return; it does not constitute empirical proof of a particular dynamical model.
+
 The complex-dynamical pulse shows why the two accountings cannot remain merely philosophical. Once the relation includes its own differentiation, two expands into the sixfold generative unit in [[24-s2-p5-zero-changes-role|§2 · #5→0 — Zero Changes Its Role]].
+
+The [authored P1 route for M23](../P1-CANONICAL-ALIGNMENT.md#p1-m23) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

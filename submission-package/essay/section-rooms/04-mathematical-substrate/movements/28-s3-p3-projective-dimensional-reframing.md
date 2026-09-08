@@ -44,6 +44,10 @@ The comparison is gated. Kapsner's "Cutting Corners" rejects precisely the fifth
 
 Zero and infinity are the pressure-points at which dimensionality becomes visible. Their obstructions force the line to become plane, sphere, projective space, quotient, cover, or extended algebra, revealing more than two extreme coordinates on a single axis. [[dimensional-reframing-at-zero-and-infinity|Dimensional Reframing at Zero and Infinity]] keeps the cases distinct while establishing this common move.
 
+[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#e5-whole-returns) **qualifies** the formal comparison by keeping its generated objects countable. FDE's subsets of `{T,F}` give four values; QL's `2+2²` additionally retains the two initial terms and therefore gives six. The fourfold neighbour illustrates a related generation without itself performing that retained-two operation. Likewise, adjoining a point, changing an algebra and specifying a covering map have distinct hypotheses. The movement into topology and music carries the stated relation of reframing and return, while each construction remains responsible for the invariant it actually preserves.
+
 ## Transition
 
 The next movement shows the same relation as a space one can traverse and a consonance one can hear: [[29-s3-p4-topology-music-resolution|§3 · #4 — Topology and Musical Resolution]].
+
+The [authored P1 route for M28](../P1-CANONICAL-ALIGNMENT.md#p1-m28) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
