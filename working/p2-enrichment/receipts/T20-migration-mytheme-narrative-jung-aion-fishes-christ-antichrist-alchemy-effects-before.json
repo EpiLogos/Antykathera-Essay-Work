@@ -1,0 +1,47 @@
+{
+  "root": {
+    "id": "WHOLE",
+    "title": "Jung's Aion — Self, Christ/Antichrist, Fishes, Alchemy, and the Historical Shadow",
+    "path": "submission-package/essay/symbolon/mytheme/narrative/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Jung's Aion — Self, Christ/Antichrist, Fishes, Alchemy, and the Historical Shadow",
+      "1. Source whole — the work's movement",
+      "1.1 Self and Christ",
+      "1.2 Christ and Antichrist — the contrary belongs to the aeonic field",
+      "1.3 The fishes / Pisces — historical symbol becomes temporal image",
+      "1.4 Alchemy — the contrary is worked rather than merely named",
+      "1.5 Gnostic images and the structure/dynamics of the Self",
+      "2. Why this is one Mytheme whole for the quilt",
+      "3. Human-amplified ledger",
+      "3.1 Whole-before-fragments",
+      "3.2 Exact symbolic appointment to QL / Symbolon",
+      "3.3 Christ/Antichrist as 1/1′ or another conjugate formalism",
+      "3.4 Pisces / precession / succession",
+      "4. Deep-seam yield for Native 020",
+      "5. Source-control boundary",
+      "6. Derived indexes opened but not yet instantiated",
+      "Return statement"
+    ],
+    "sha256": "9acb7252ed213c2a4ad920625a8a1fe0f92f8f36b5498be670eb30138baeefb6",
+    "register": "mytheme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "mytheme",
+    "carriers": []
+  }
+}

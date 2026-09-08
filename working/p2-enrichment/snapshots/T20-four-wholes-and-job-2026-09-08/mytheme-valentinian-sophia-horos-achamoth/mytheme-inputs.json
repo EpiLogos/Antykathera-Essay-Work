@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "record_type": "target-keyed-mytheme-input-bindings",
+  "status": "21-admitted-wholes-bound-parent-review-required-source-telling-gates-explicit",
+  "census": "working/p2-enrichment/census.json",
+  "authority": [
+    "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+    "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+    "the-return-of-zero-central-plan.md",
+    "working/p2-enrichment/CENSUS-RECONCILIATION.md"
+  ],
+  "elements": [
+    {
+      "record_id": "mytheme-valentinian-sophia-horos-achamoth",
+      "title": "Valentinian Sophia, Horos, Achamoth and Soter",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/p2-enrichment/receipts/T22-four-whole-admissions-and-job-preparation-2026-09-08.json",
+        ".wayfinder/maps/t20-t21-world-registers.md",
+        "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md:315",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "source-telling-gated",
+      "dispatch_status": "admitted-preparation-only; await source/telling recovery",
+      "argument_depth": [
+        "A13",
+        "A19"
+      ],
+      "argument_depth_roles": {
+        "A13": "Paired relation, separation, boundary and syn-ballein recovery; original synthesis remains Offered.",
+        "A19": "Symbolic organising powers and interpretive history remain source-specific."
+      },
+      "direct_carriers": [
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+        "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md"
+      ],
+      "direct_carrier_roles": {
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md": "Native theorem and complete supporting-field context",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md": "Native theorem and complete supporting-field context",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md": "Native theorem and complete supporting-field context",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md": "Native theorem and complete supporting-field context",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md": "Native theorem and complete supporting-field context",
+        "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "Direct authored/developmental carrier; read target material with complete source programme",
+        "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "Direct authored/developmental carrier; read target material with complete source programme"
+      },
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md"
+      ],
+      "source_slices": [
+        {
+          "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+          "start_line": 275,
+          "end_line": 338,
+          "relation": "Preserve upper Sophia, limit-restoration and lower Achamoth as one specific reported narrative; it is not the Hypostasis of the Archons story.",
+          "provenance": "Read source programme context; Taylor-authored propositions and later developmental synthesis distinguished by local speaker/author. External attribution remains source-specific."
+        },
+        {
+          "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+          "start_line": 450,
+          "end_line": 508,
+          "relation": "Preserve upper Sophia, limit-restoration and lower Achamoth as one specific reported narrative; it is not the Hypostasis of the Archons story.",
+          "provenance": "Read source programme context; Taylor-authored propositions and later developmental synthesis distinguished by local speaker/author. External attribution remains source-specific."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 736,
+          "end_line": 949,
+          "relation": "Preserve upper Sophia, limit-restoration and lower Achamoth as one specific reported narrative; it is not the Hypostasis of the Archons story.",
+          "provenance": "Read source programme context; Taylor-authored propositions and later developmental synthesis distinguished by local speaker/author. External attribution remains source-specific."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 3667,
+          "end_line": 3696,
+          "relation": "Preserve upper Sophia, limit-restoration and lower Achamoth as one specific reported narrative; it is not the Hypostasis of the Archons story.",
+          "provenance": "Read source programme context; Taylor-authored propositions and later developmental synthesis distinguished by local speaker/author. External attribution remains source-specific."
+        }
+      ],
+      "relations": [
+        {
+          "target": "A13-Two-Logics-of-Two-Dia-Syn",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "relation": "returns-to",
+          "operation": "Preserve upper Sophia, limit-restoration and lower Achamoth as one specific reported narrative; it is not the Hypostasis of the Archons story.",
+          "register": "Episteme/Argument; authored Mytheme return",
+          "direction": "current-to-target"
+        },
+        {
+          "target": "A19-Complex-as-Local-Arbitration-Regime",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+          "relation": "returns-to",
+          "operation": "Preserve upper Sophia, limit-restoration and lower Achamoth as one specific reported narrative; it is not the Hypostasis of the Archons story.",
+          "register": "Episteme/Argument; authored Mytheme return",
+          "direction": "current-to-target"
+        }
+      ],
+      "register_contract": "submission-package/essay/symbolon/mytheme/README.md",
+      "additional_required_inputs": [
+        "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+        "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md",
+        "working/p2-enrichment/T20-quilt-to-whole-coverage.json",
+        "working/p2-enrichment/receipts/T22-four-whole-admissions-and-job-preparation-2026-09-08.json",
+        "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md"
+      ],
+      "target_operation": "Preserve upper Sophia, limit-restoration and lower Achamoth as one specific reported narrative; it is not the Hypostasis of the Archons story.",
+      "whole_figures_and_relations": "Bythos; Sige; thirty aeons/fifteen syzygies; Sophia; Horos/Stauros; Achamoth; collective Soter",
+      "whole_sequence": "Sophia seeks Father alone → passion/excess → Horos separates and restores → lower Achamoth excluded → Soter gives form → passion enters cosmic differentiation.",
+      "specific_boundaries": [
+        "Copula VI.3 calls the 0/1→4+2 founding role a candidate. This qualifies amplification, not the existence of the source-led narrative registered in Q27.",
+        "No canonical prose or new human-amplified:yes relation authorised by this preparation.",
+        "Raw #0/#1/#2/#3/#4/#5→0 form derives semantics from the whole."
+      ],
+      "source_or_telling_blockers": [
+        "Recover selected Irenaeus passage/translation in a SOURCE house; hostile testimony and divergent Valentinian tellings stay visible. Founding-myth comparison is Offered, not ancient QL terminology."
+      ],
+      "status": "admitted-source-telling-gated",
+      "canonical_write_authorised_by_this_file": false,
+      "coverage_row_id": "T20-mytheme-valentinian-sophia-horos-achamoth",
+      "source_read_obligations": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+          "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+          "notes": null,
+          "notes_policy": "Read whole SOURCE and complete sibling NOTES; protected authorial provenance, never mutate.",
+          "read_coverage": "Census and source/depth receipts locate contributions; writer must read actual supplied full bodies. This preparation does not certify new quotations."
+        }
+      ]
+    }
+  ],
+  "canonical_files_created": 0,
+  "validation": {
+    "targets": 21,
+    "census_ids_and_homes_match": true,
+    "all_source_ranges_valid": true,
+    "source_house_resolution": "tools/source_resolver.py build_source_index",
+    "writer_read_obligation": "Bindings/receipts do not substitute for full required writer reads",
+    "global_dispatch": "This file is not a reconciled queue; parent merges reviewed bindings after resolving target-specific gates."
+  }
+}

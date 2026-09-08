@@ -1,0 +1,415 @@
+{
+  "rows": [
+    {
+      "row_id": "T20-mytheme-narrative-fanon-language-gaze-mask-recognition",
+      "whole_id": "mytheme-narrative-fanon-language-gaze-mask-recognition",
+      "title": "fanon-language-gaze-mask-recognition",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+          "start_line": 1,
+          "end_line": 136,
+          "section": "whole sixfold",
+          "operation": "Racial-colonial embodied history makes mask meaningful; no generic disguise allegory can replace its source world."
+        }
+      ],
+      "disposition": "admitted-whole",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "operation": "Language and racialising gaze impose a mask whose lived refusal cannot be replaced by a generic avatar.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "operation": "Recognition preserves the other’s irreducibility under an imposed image.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md"
+      ],
+      "development_status": "developed-draft-audited-awaiting-parent-T22",
+      "figures": "Colonial language/status; Antillean speaker; metropolitan French; white gaze; lived Black body; historico-racial schema; epidermal racial schema; imposed mask; recognition field",
+      "sequence": "Colonial history preweights language/recognition→speech opens access and alien measure→racial hail reorganises body-schema→mask becomes self-administration→recognition relation itself requires revision.",
+      "authored_operation": "Racial-colonial embodied history makes mask meaningful; no generic disguise allegory can replace its source world.",
+      "authored_corrections": [
+        "All four current QL/OCI/idol/category comparisons remain human-amplified:no. Chameleon is user-lived separate source, not Fanon’s governing image.",
+        "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation.",
+        "Whole narration precedes element amplification; ending/aftermath qualifies beginning. Every interpretive edge keeps human-amplified:yes/no. No canonical motif/character identity by stealth.",
+        "Raw sixfold must be derived from this whole’s own movement; no Definition/Operation/Pattern/Context glossary. The form may host source/story/amplification substructure without turning its positions into universal semantics."
+      ],
+      "ratification_authority": [
+        "WRITING-PROTOCOL.md",
+        "submission-package/essay/symbolon/mytheme/narrative/fanon-language-gaze-mask-recognition/WHOLE.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "source_debt": [
+        "Fanon French/English edition and SOURCE absent; chapter/page locators and gendered/sexual argument scope needed before publication expansion."
+      ],
+      "unresolved_source_houses": [],
+      "unverified_inherited_locators": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/narrative/fanon-language-gaze-mask-recognition/WHOLE.md",
+          "start_line": 1,
+          "end_line": 214,
+          "relation": "Racial-colonial embodied history makes mask meaningful; no generic disguise allegory can replace its source world.",
+          "provenance": "Canonical whole source recovery with relation-local human-amplification state"
+        }
+      ],
+      "inherited_return_candidates": [
+        {
+          "target": "A02",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A02 — Copula / Self-Identity through Difference",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "A06",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A06 — Vāk",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "A07",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A07 — Vikalpa–Saṃkalpa / Script — Frozen Conditioned Will",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "A20",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A20 — Image / Valuation / Possession",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "A21",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A21 — Individuation / Recognition",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "A24",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A24 — Arbitration and the Usurpation of Measure",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "A25",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A25 — Covenant / Mediating Office / Source Authority",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "A26",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A26 — Objective Internality — Mind as Worldhood",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "A27",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A27 — Self and Other — Unity without Possession",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "A28",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A28 — Authored Ground / Positional Delegation",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "A29",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A29 — Power / Delegated Labour / Return",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "A30",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A30 — Objective Co-Internality",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "A31",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A31 — Deferential Intelligence",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "A32",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A32 — Reflective Field / THE MIRROR THAT MOVES FIRST",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "C06",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C06 — Copula / Identification-with-Difference",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "C17",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C17 — Vikalpa–Saṃkalpa",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "C21",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C21 — Living Symbol / Idol",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "C27",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C27 — Protected Account / Occupied Zero / Source-Claim",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "C38",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C38 — Bimba–Pratibimba / Bimba Map",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "C41",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C41 — Objective Internality",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "C42",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C42 — Objective Co-Internality",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "C53",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C53 — Power / Delegated Labour",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "C55",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C55 — Reflective Field / Mirror That Moves First",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "etymology-encounter-region-name-count",
+          "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: encounter-region-name-count",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        },
+        {
+          "target": "etymology-arbitration-hybris-regard-anamnesis",
+          "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: arbitration-hybris-regard-anamnesis",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+        }
+      ],
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md"
+        ],
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md"
+        ],
+        "source_updates": "Separate bounded source task only for the named source debt; protected NOTES excluded.",
+        "exact_additions": []
+      },
+      "coverage_origin": "Inherited whole figures/sequence semantically reviewed against source and programme; incoming generic argument relations are candidates, not verified returns.",
+      "home_decision": "Accepted by parent for inherited 21; source/production world is distinct from narrated setting and later reception.",
+      "return_policy": "Each return is a local operation. Already enriched A bodies require only changed-content/reciprocity review, never blanket restoration. Generic inherited candidates below are not authorised writes.",
+      "occurrence_policy": "Listed bodies were read at the scope stated in corpus. Unverified inherited locators remain explicitly separate; they are not counted as read or source-ready.",
+      "existing_exemplar_backcheck": {
+        "disposition": "Full existing whole read earlier in this audit; preserve complete sequence, source differences and every human-amplified flag. Parent owns migration/current writer acceptance.",
+        "path_at_read": "submission-package/essay/symbolon/mytheme/narrative/fanon-language-gaze-mask-recognition/WHOLE.md",
+        "current_home": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+        "read_snapshot_commit": "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138",
+        "read_snapshot_sha256": "3c170c15309739eba7c0b35660891fdf63b4bb5059371cf06ffe0ed2421be074",
+        "read_scope": "full pre-migration WHOLE body",
+        "line_count": 214
+      },
+      "ready_for_canonical_whole_dispatch": true,
+      "semantic_subunits": [
+        {
+          "unit_key": "colonial-language-status",
+          "standing": "inherited subordinate figure; not a new record",
+          "occurrences": [
+            {
+              "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+              "start_line": 29,
+              "end_line": 42,
+              "section": "fanon-language",
+              "operation": "colonial language status"
+            }
+          ]
+        },
+        {
+          "unit_key": "antillean-speaker",
+          "standing": "inherited subordinate figure; not a new record",
+          "occurrences": [
+            {
+              "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+              "start_line": 16,
+              "end_line": 28,
+              "section": "fanon-whole",
+              "operation": "antillean speaker"
+            }
+          ]
+        },
+        {
+          "unit_key": "metropolitan-french",
+          "standing": "inherited subordinate figure; not a new record",
+          "occurrences": [
+            {
+              "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+              "start_line": 29,
+              "end_line": 42,
+              "section": "fanon-language",
+              "operation": "metropolitan french"
+            }
+          ]
+        },
+        {
+          "unit_key": "white-gaze",
+          "standing": "inherited subordinate figure; not a new record",
+          "occurrences": [
+            {
+              "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+              "start_line": 43,
+              "end_line": 58,
+              "section": "fanon-racial-hail",
+              "operation": "white gaze"
+            }
+          ]
+        },
+        {
+          "unit_key": "lived-black-body",
+          "standing": "inherited subordinate figure; not a new record",
+          "occurrences": [
+            {
+              "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+              "start_line": 43,
+              "end_line": 58,
+              "section": "fanon-racial-hail",
+              "operation": "lived black body"
+            }
+          ]
+        },
+        {
+          "unit_key": "historico-racial-schema",
+          "standing": "inherited subordinate figure; not a new record",
+          "occurrences": [
+            {
+              "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+              "start_line": 43,
+              "end_line": 58,
+              "section": "fanon-racial-hail",
+              "operation": "historico racial schema"
+            }
+          ]
+        },
+        {
+          "unit_key": "epidermal-racial-schema",
+          "standing": "inherited subordinate figure; not a new record",
+          "occurrences": [
+            {
+              "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+              "start_line": 43,
+              "end_line": 58,
+              "section": "fanon-racial-hail",
+              "operation": "epidermal racial schema"
+            }
+          ]
+        },
+        {
+          "unit_key": "imposed-mask",
+          "standing": "inherited subordinate figure; not a new record",
+          "occurrences": [
+            {
+              "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+              "start_line": 59,
+              "end_line": 73,
+              "section": "fanon-mask",
+              "operation": "imposed mask"
+            }
+          ]
+        },
+        {
+          "unit_key": "recognition-field",
+          "standing": "inherited subordinate figure; not a new record",
+          "occurrences": [
+            {
+              "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+              "start_line": 74,
+              "end_line": 89,
+              "section": "fanon-recognition",
+              "operation": "recognition field"
+            }
+          ]
+        }
+      ],
+      "source_debt_current": [
+        "Canonical Fanon SOURCE absent: parent owns source installation.",
+        "English edition/translation not selected or collated.",
+        "Chapters II/III gendered and sexual argument require their own complete source treatment before expansion."
+      ]
+    }
+  ],
+  "standing": "Private final backcheck only; shared census unchanged."
+}

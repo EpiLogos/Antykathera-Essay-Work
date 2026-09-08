@@ -1,0 +1,286 @@
+{
+  "rows": [
+    {
+      "quilt_unit": "T20-mytheme-ares-aphrodite-hephaestus-poseidon",
+      "occurrences": [
+        {
+          "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+          "start_line": 31,
+          "end_line": 63,
+          "section": "1. Ares · Aphrodite · Harmonia · Eros · Hephaestus · Poseidon",
+          "operation": "Difference and attraction bear concurrence; capture can expose relation without producing the trust required for release. The audience and economic settlement belong to the apparatus."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 5657,
+          "end_line": 5695,
+          "section": "10. Ares and Aphrodite: divide/unite become felt love/war logics",
+          "operation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Difference and attraction bear concurrence; capture can expose relation without producing the trust required for release. The audience and economic settlement belong to the apparatus."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+          "start_line": 39,
+          "end_line": 196,
+          "section": "Homer — Odyssey I (Murray, 1919)",
+          "operation": "Read complete source-specific contribution, passage readiness and boundaries for Ares, Aphrodite, Harmonia, Eros, Hephaestus and Poseidon — the whole relation"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md",
+          "start_line": 41,
+          "end_line": 118,
+          "section": "Hesiod — Theogony (Evelyn-White, 1920)",
+          "operation": "Read complete source-specific contribution, passage readiness and boundaries for Ares, Aphrodite, Harmonia, Eros, Hephaestus and Poseidon — the whole relation"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md"
+      ],
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "sha256": "b41b556514a41fd21854ddbf70ff8c03c1523eb478b1444f71563b62b3cf334c",
+      "actual_anchors": [
+        "ares-source-song",
+        "ares-distinct-genealogies",
+        "ares-generative-difference",
+        "ares-capture-gaze",
+        "ares-guarantee-release",
+        "ares-field-return"
+      ],
+      "operation": "Difference and attraction bear concurrence; capture can expose relation without producing the trust required for release. The audience and economic settlement belong to the apparatus.",
+      "disposition": "admitted-whole",
+      "source_debt": [
+        "Homer q004–008 web wording needs selected-edition collation where quoted; Hesiod/Homer genealogy and episode remain separate."
+      ],
+      "verification": "Parent read complete finished whole, whole source houses, actual quilt corrections and source-specific writer full-read receipts. Anchors carry the ordered telling and distinct interpretation; not an existence-only match.",
+      "bound_authorial_source_slices": [
+        {
+          "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+          "start_line": 31,
+          "end_line": 63,
+          "relation": "Difference and attraction bear concurrence; capture can expose relation without producing the trust required for release. The audience and economic settlement belong to the apparatus.",
+          "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+        },
+        {
+          "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+          "start_line": 101,
+          "end_line": 105,
+          "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Difference and attraction bear concurrence; capture can expose relation without producing the trust required for release. The audience and economic settlement belong to the apparatus.",
+          "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 5657,
+          "end_line": 5695,
+          "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Difference and attraction bear concurrence; capture can expose relation without producing the trust required for release. The audience and economic settlement belong to the apparatus.",
+          "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+        },
+        {
+          "path": "the-return-of-zero-central-plan.md",
+          "start_line": 340,
+          "end_line": 354,
+          "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Difference and attraction bear concurrence; capture can expose relation without producing the trust required for release. The audience and economic settlement belong to the apparatus.",
+          "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+          "start_line": 39,
+          "end_line": 196,
+          "relation": "Read complete source-specific contribution, passage readiness and boundaries for Ares, Aphrodite, Harmonia, Eros, Hephaestus and Poseidon — the whole relation",
+          "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md",
+          "start_line": 41,
+          "end_line": 118,
+          "relation": "Read complete source-specific contribution, passage readiness and boundaries for Ares, Aphrodite, Harmonia, Eros, Hephaestus and Poseidon — the whole relation",
+          "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+          "start_line": 60,
+          "end_line": 288,
+          "relation": "Read complete source-specific contribution, passage readiness and boundaries for Ares, Aphrodite, Harmonia, Eros, Hephaestus and Poseidon — the whole relation",
+          "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+        }
+      ]
+    },
+    {
+      "quilt_unit": "T20-mytheme-apollo-eros-daphne-peneus",
+      "occurrences": [
+        {
+          "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+          "start_line": 65,
+          "end_line": 93,
+          "section": "2. Apollo · Eros/Cupid · Daphne · Peneus — form meeting the limit of possession",
+          "operation": "An image can remain culturally powerful after living Other escapes; knowledge/power never converts refusal into consent."
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md"
+      ],
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+      "sha256": "f4837d9f88f1d663677b36aff002ea6e49752dafa23390c6c7006e7ca00ba4a9",
+      "actual_anchors": [
+        "apollo-python-boast",
+        "apollo-contrary-arrows-daphne-request",
+        "apollo-powers-and-pursuit",
+        "daphne-transformation-and-recoil",
+        "apollo-laurel-public-office",
+        "apollo-appropriation-after-withdrawal"
+      ],
+      "operation": "An image can remain culturally powerful after living Other escapes; knowledge/power never converts refusal into consent.",
+      "disposition": "admitted-whole",
+      "source_debt": [
+        "Primary Latin/English whole sequence available I.452–567 with Pythonprelude416–451; canonical SOURCE pending selected Miller1921/1951 witness decision. Do not silently combine edition metadata or call it Goold revision. Exact print-page/quotation collation remains Open."
+      ],
+      "verification": "Parent read complete finished whole, whole source houses, actual quilt corrections and source-specific writer full-read receipts. Anchors carry the ordered telling and distinct interpretation; not an existence-only match.",
+      "bound_authorial_source_slices": [
+        {
+          "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+          "start_line": 65,
+          "end_line": 93,
+          "relation": "An image can remain culturally powerful after living Other escapes; knowledge/power never converts refusal into consent.",
+          "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+        },
+        {
+          "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+          "start_line": 95,
+          "end_line": 101,
+          "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: An image can remain culturally powerful after living Other escapes; knowledge/power never converts refusal into consent.",
+          "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+        },
+        {
+          "path": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+          "start_line": 240,
+          "end_line": 250,
+          "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: An image can remain culturally powerful after living Other escapes; knowledge/power never converts refusal into consent.",
+          "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+          "start_line": 60,
+          "end_line": 288,
+          "relation": "Read complete source-specific contribution, passage readiness and boundaries for Apollo · Eros/Cupid · Daphne · Peneus",
+          "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+        },
+        {
+          "path": "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+          "start_line": 25,
+          "end_line": 31,
+          "relation": "Primary work identity, exact whole-story/poem acquisition routes and edition boundaries for this admitted whole; use its named target section.",
+          "provenance": "Delegated source acquisition receipt, not canonical SOURCE and not proof of unclaimed full reads or selected-print collation."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ovid/ovid-1921-metamorphoses-miller/SOURCE.md",
+          "start_line": 48,
+          "end_line": 113,
+          "relation": "Current source-house acquisition and intact telling supersede inherited missing-house flags.",
+          "provenance": "Canonical source house: selected witness, complete read scope and precise residual quotation debts."
+        }
+      ]
+    },
+    {
+      "quilt_unit": "T20-mytheme-eros-psyche",
+      "occurrences": [],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md"
+      ],
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+      "sha256": "2a7c31a84f8a560505023641513926b4c17858c7543ebdd4fd3de4eaeaf60ef6",
+      "actual_anchors": [
+        "psyche-lamp-and-separation",
+        "psyche-sanctuaries-and-helpers",
+        "psyche-descent-and-waking",
+        "psyche-marriage-and-voluptas",
+        "psyche-native-return"
+      ],
+      "operation": "Redeemed relation includes its ownfall, labour andreturn; bliss born fromtraversedtension; lovers remain distinct inmarriage.",
+      "disposition": "admitted-whole",
+      "source_debt": [
+        "BLOCKING FULL SOURCE READ: selected Purser1913Latin exactidentity and completeonline IV.28–VI.24 nowlocated; delegated retrieval wastruncated, so unbroken read andchapter alignment remain. Pomona English Book VI full read buttranslation/editorunverified; do not label Gaselee1915. Sourcehouse pending parentidentityreview."
+      ],
+      "verification": "Parent read complete finished whole, whole source houses, actual quilt corrections and source-specific writer full-read receipts. Anchors carry the ordered telling and distinct interpretation; not an existence-only match.",
+      "bound_authorial_source_slices": [
+        {
+          "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+          "start_line": 103,
+          "end_line": 109,
+          "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Redeemed relation includes its ownfall, labour andreturn; bliss born fromtraversedtension; lovers remain distinct inmarriage.",
+          "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+        },
+        {
+          "path": "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+          "start_line": 108,
+          "end_line": 119,
+          "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Redeemed relation includes its ownfall, labour andreturn; bliss born fromtraversedtension; lovers remain distinct inmarriage.",
+          "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+        },
+        {
+          "path": "the-return-of-zero-central-plan.md",
+          "start_line": 813,
+          "end_line": 819,
+          "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Redeemed relation includes its ownfall, labour andreturn; bliss born fromtraversedtension; lovers remain distinct inmarriage.",
+          "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+          "start_line": 60,
+          "end_line": 288,
+          "relation": "Read complete source-specific contribution, passage readiness and boundaries for Eros and Psyche",
+          "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md",
+          "start_line": 51,
+          "end_line": 74,
+          "relation": "Read complete source-specific contribution, passage readiness and boundaries for Eros and Psyche",
+          "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+        },
+        {
+          "path": "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+          "start_line": 33,
+          "end_line": 45,
+          "relation": "Primary work identity, exact whole-story/poem acquisition routes and edition boundaries for this admitted whole; use its named target section.",
+          "provenance": "Delegated source acquisition receipt, not canonical SOURCE and not proof of unclaimed full reads or selected-print collation."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/apuleius/apuleius-1913-psyche-cupido-purser/SOURCE.md",
+          "start_line": 48,
+          "end_line": 129,
+          "relation": "Current source-house acquisition and intact telling supersede inherited missing-house flags.",
+          "provenance": "Canonical source house: selected witness, complete read scope and precise residual quotation debts."
+        }
+      ]
+    },
+    {
+      "quilt_unit": "T20-mytheme-bow-lyre-hamartia",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 4677,
+          "end_line": 4693,
+          "section": "5. The hard point — the fall at `1/0`; hamartia",
+          "operation": "Counter-tension makes one fastening capable of sounding or releasing; the mark misses its ground in the authored hamartia operation."
+        }
+      ],
+      "source_houses": [],
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "sha256": "b41b556514a41fd21854ddbf70ff8c03c1523eb478b1444f71563b62b3cf334c",
+      "actual_anchors": [
+        "ares-bow-lyre-hamartia"
+      ],
+      "operation": "Counter-tension makes one fastening capable of sounding or releasing; the mark misses its ground in the authored hamartia operation.",
+      "disposition": "admitted-subordinate-unit",
+      "source_debt": [
+        "Heraclitus B51 source and hamartia lexical history have independent source duties."
+      ],
+      "verification": "Parent read complete finished whole, whole source houses, actual quilt corrections and source-specific writer full-read receipts. Anchors carry the ordered telling and distinct interpretation; not an existence-only match."
+    }
+  ],
+  "scope": "three complete selected wholes plus one admitted subordinate operation; no whole-programme completion claim"
+}

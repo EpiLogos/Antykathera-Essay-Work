@@ -1,0 +1,22 @@
+{
+  "checkpoint_utc": "2026-09-08T12:39:43.208803+00:00",
+  "standing": "Parent-reported integration updates; not an independent re-audit of changed bodies.",
+  "E19_records": 19,
+  "E_carrier_pairs": 63,
+  "E_pair_errors": 0,
+  "source_curator_real_test": "PASS",
+  "reference_note_homes_present": 89,
+  "whole_fixes_commit": "d7e7cc4",
+  "whole_fixes": 25,
+  "separate_current_127_audit": {
+    "total": 127,
+    "accepted": 95,
+    "held": 22,
+    "other": 9,
+    "research": 1
+  },
+  "pending_parent_integration": "R01 consumers",
+  "crosswalk_rows": 272,
+  "local_semantic_witness_rows": 185,
+  "boundary": "127-unit acceptance statuses and 63 E/carrier pairs are separate from272 crosswalk rows. No automatic promotion of row closure."
+}

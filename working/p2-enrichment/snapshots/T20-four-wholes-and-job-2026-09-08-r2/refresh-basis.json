@@ -1,0 +1,36 @@
+{
+  "status": "rebind after parent T22 changes",
+  "changed_manifest_fields": [
+    {
+      "path": "working/p2-enrichment/census.json",
+      "old_job_source_hash": "3d2387e8ea2dd12ada8eb15d78b941b4b4c39476b65e1246a81f63b35a59e258",
+      "current_job_source_hash": "d34ee76be511b9a755a5a96aa4a0dc19eb99ffd670c86df1752f10daac3383c0"
+    },
+    {
+      "path": "working/p2-enrichment/dispatch-queue.json",
+      "old_job_source_hash": "3d2387e8ea2dd12ada8eb15d78b941b4b4c39476b65e1246a81f63b35a59e258",
+      "current_job_source_hash": "d34ee76be511b9a755a5a96aa4a0dc19eb99ffd670c86df1752f10daac3383c0"
+    },
+    {
+      "path": "working/p2-enrichment/mytheme-inputs.json",
+      "old_job_source_hash": "3d2387e8ea2dd12ada8eb15d78b941b4b4c39476b65e1246a81f63b35a59e258",
+      "current_job_source_hash": "d34ee76be511b9a755a5a96aa4a0dc19eb99ffd670c86df1752f10daac3383c0"
+    }
+  ],
+  "parent_changes": [
+    "A13",
+    "A20",
+    "A23",
+    "A25",
+    "A27",
+    "E4",
+    "E5",
+    "E6",
+    "M22",
+    "M33",
+    "M35"
+  ],
+  "job_source_change": "Parent metadata-only main_source_for=[]; intended_consumers and complete42chapter content retained. No repeat whole-reading claim.",
+  "prior_immutable_revision": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08",
+  "policy": "No old sealed snapshots or canonical prose changed."
+}

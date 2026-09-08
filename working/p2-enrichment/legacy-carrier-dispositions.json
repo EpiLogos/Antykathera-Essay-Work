@@ -239,9 +239,18 @@
           "path_authority": "working/p2-enrichment/census.json"
         },
         {
-          "record_id": "symbolon-dia-sym-ballein",
-          "path": "submission-package/essay/symbolon/dia-sym-ballein.md",
-          "register": "symbolon",
+          "record_id": "matheme-dia-syn-dia",
+          "path": "submission-package/essay/symbolon/matheme/dia-syn/dia.md",
+          "register": "matheme",
+          "role": "supporting-depth",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "path_authority": "working/p2-enrichment/census.json"
+        },
+        {
+          "record_id": "matheme-dia-syn-syn",
+          "path": "submission-package/essay/symbolon/matheme/dia-syn/syn.md",
+          "register": "matheme",
           "role": "supporting-depth",
           "materialised": false,
           "standing": "census-admitted-planned-target",
@@ -273,6 +282,16 @@
           "A13"
         ],
         "resolution": "retrieval/disposition correction only; governing/canonical wording corrections, where needed, pass through T22"
+      },
+      "structure_reconciliation_2026_09_07": {
+        "authority": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+        "retired_root_id": "symbolon-dia-sym-ballein",
+        "successors": [
+          "matheme-dia-syn-dia",
+          "matheme-dia-syn-syn"
+        ],
+        "basis": "Historical carrier develops the polar and collapsed dia operations together with the retained-seam syn operation.",
+        "chronic_route": "not added: recovered passage does not explicitly develop the synchronic/diachronic pair"
       }
     },
     {

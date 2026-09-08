@@ -1,0 +1,17 @@
+{
+  "method": "Parse actual lens table; exact integer maps and finite sets",
+  "lens_rows_verified": 12,
+  "anchor_bijections": 2,
+  "worked_reference_examples": 2,
+  "transposition_reference_identities": 1728,
+  "architectural_partition": [
+    8,
+    4
+  ],
+  "CF_major_partition": [
+    5,
+    2
+  ],
+  "return_involutions": 12,
+  "passed": true
+}

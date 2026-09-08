@@ -1,0 +1,48 @@
+{
+  "root": {
+    "id": "WHOLE",
+    "title": "Fanon — Language, White Gaze, Racialised Body, Mask, and Recognition",
+    "path": "submission-package/essay/symbolon/mytheme/narrative/fanon-language-gaze-mask-recognition/WHOLE.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Fanon — Language, White Gaze, Racialised Body, Mask, and Recognition",
+      "1. Chapter 1 — language is entry into a world, not a neutral costume",
+      "2. The lived racial scene — the body is returned through an imposed historical image",
+      "3. Mask — recognition purchased through an alien measure",
+      "4. Recognition — the problem is relational, not private self-esteem",
+      "5. Chameleon — current project status",
+      "6. Human-amplified ledger",
+      "6.1 Mask as adaptive interface with a double edge",
+      "6.2 Category before encounter",
+      "6.3 Objective Co-Internality",
+      "6.4 Idol / image",
+      "7. Cross-whole returns now available",
+      "Number Six",
+      "Apollo · Daphne",
+      "Moving mirror",
+      "Attica",
+      "8. Source control",
+      "Return statement"
+    ],
+    "sha256": "3c170c15309739eba7c0b35660891fdf63b4bb5059371cf06ffe0ed2421be074",
+    "register": "mytheme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "mytheme",
+    "carriers": []
+  }
+}

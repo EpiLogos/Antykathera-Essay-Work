@@ -1,0 +1,966 @@
+{
+  "schema_version": 1,
+  "status": "reconciled",
+  "standing": "Identity and discovery census reconciled. This is not a claim that all target inputs or pages are complete. The packet command rejects each target until its required recovered inputs are bound.",
+  "census": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-stained-glass-refraction/census.json",
+  "census_sha256": "6cc71266f971420462e1f2f0ae30903692a3927d4f84756e593d74d1da68c608",
+  "discovery_dispositions": "working/p2-enrichment/intake-dispositions.json",
+  "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+  "elements": [
+    {
+      "record_id": "mytheme-stained-glass-refraction",
+      "title": "Stained glass: source, spectrum, panes, seams and projected image",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/p2-enrichment/receipts/T22-four-whole-admissions-and-job-preparation-2026-09-08.json",
+        ".wayfinder/maps/t20-t21-world-registers.md",
+        "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md:2498",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "prepared-for-bounded-packet",
+      "dispatch_status": "admitted-preparation-only; packet ready for next writer assignment",
+      "argument_depth": [
+        "A04",
+        "A05",
+        "A16",
+        "A22"
+      ],
+      "argument_depth_roles": {
+        "A04": "Invested seeing, complete corrected optic and sequential-to-contextual turn.",
+        "A05": "Prakāśa/Vimarśa: light and self-apprehension remain distinct from inert optical mechanisms.",
+        "A16": "Atlas/trajectory/phase and complete stained-glass apparatus retain distinct jobs.",
+        "A22": "Box-lid failure, disclosed transitions and differentiated panes make context visible."
+      },
+      "direct_carriers": [
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
+        "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+        "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+        "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md"
+      ],
+      "direct_carrier_roles": {
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md": "Native theorem and complete supporting-field context",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md": "Native theorem and complete supporting-field context",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md": "Native theorem and complete supporting-field context",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md": "Native theorem and complete supporting-field context",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md": "Native theorem and complete supporting-field context",
+        "working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md": "Direct authored/developmental carrier; read target material with complete source programme",
+        "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md": "Direct authored/developmental carrier; read target material with complete source programme",
+        "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "Direct authored/developmental carrier; read target material with complete source programme",
+        "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "Direct authored/developmental carrier; read target material with complete source programme"
+      },
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-1980-wholeness-implicate-order/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md"
+      ],
+      "source_slices": [
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 2227,
+          "end_line": 2812,
+          "relation": "Construct the method through differential transmission and visible joins; corrected assignments are Bimba Original, QL light’s harmonic fullness, MEF refractive construction, pratibimba projected image.",
+          "provenance": "Read source programme context; Taylor-authored propositions and later developmental synthesis distinguished by local speaker/author. External attribution remains source-specific."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 2813,
+          "end_line": 3211,
+          "relation": "Construct the method through differential transmission and visible joins; corrected assignments are Bimba Original, QL light’s harmonic fullness, MEF refractive construction, pratibimba projected image.",
+          "provenance": "Read source programme context; Taylor-authored propositions and later developmental synthesis distinguished by local speaker/author. External attribution remains source-specific."
+        },
+        {
+          "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+          "start_line": 370,
+          "end_line": 405,
+          "relation": "Construct the method through differential transmission and visible joins; corrected assignments are Bimba Original, QL light’s harmonic fullness, MEF refractive construction, pratibimba projected image.",
+          "provenance": "Read source programme context; Taylor-authored propositions and later developmental synthesis distinguished by local speaker/author. External attribution remains source-specific."
+        },
+        {
+          "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+          "start_line": 439,
+          "end_line": 478,
+          "relation": "Construct the method through differential transmission and visible joins; corrected assignments are Bimba Original, QL light’s harmonic fullness, MEF refractive construction, pratibimba projected image.",
+          "provenance": "Read source programme context; Taylor-authored propositions and later developmental synthesis distinguished by local speaker/author. External attribution remains source-specific."
+        }
+      ],
+      "relations": [
+        {
+          "target": "A04-Diaphaneity-Contextual-Transparency",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "relation": "returns-to",
+          "operation": "Construct the method through differential transmission and visible joins; corrected assignments are Bimba Original, QL light’s harmonic fullness, MEF refractive construction, pratibimba projected image.",
+          "register": "Episteme/Argument; authored Mytheme return",
+          "direction": "current-to-target"
+        },
+        {
+          "target": "A16-Arche-Topos-as-Differential-Field",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "relation": "returns-to",
+          "operation": "Construct the method through differential transmission and visible joins; corrected assignments are Bimba Original, QL light’s harmonic fullness, MEF refractive construction, pratibimba projected image.",
+          "register": "Episteme/Argument; authored Mytheme return",
+          "direction": "current-to-target"
+        },
+        {
+          "target": "A22-World-Picture-to-World-Atlas",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+          "relation": "returns-to",
+          "operation": "Construct the method through differential transmission and visible joins; corrected assignments are Bimba Original, QL light’s harmonic fullness, MEF refractive construction, pratibimba projected image.",
+          "register": "Episteme/Argument; authored Mytheme return",
+          "direction": "current-to-target"
+        },
+        {
+          "target": "C09-Diaphaneity",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+          "relation": "returns-to",
+          "operation": "Whole optical construction makes contextual disclosure perceptible with corrected offices.",
+          "register": "Episteme/Concept; body verified",
+          "direction": "current-to-target"
+        },
+        {
+          "target": "C37-World-Picture-to-World-Atlas",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+          "relation": "returns-to",
+          "operation": "Projection conditions qualify a world-picture’s claim to completion.",
+          "register": "Episteme/Concept; body verified",
+          "direction": "current-to-target"
+        },
+        {
+          "target": "C39-Meta-Epistemic-Framework",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+          "relation": "returns-to",
+          "operation": "Panes/media/angles/joins belong to MEF; QL belongs to ordered spectrum.",
+          "register": "Episteme/Concept; body verified",
+          "direction": "current-to-target"
+        },
+        {
+          "target": "05-s01-p4-gebser-diaphaneity",
+          "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+          "relation": "returns-to",
+          "operation": "Introduce the corrected epistemic optic at diaphaneity.",
+          "register": "Movement; declared programme landing; canonical fold-back to be checked by parent",
+          "direction": "current-to-target"
+        },
+        {
+          "target": "30-s3-p5-arche-topos",
+          "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+          "relation": "returns-to",
+          "operation": "Atlas supplies local chart discipline; stained glass supplies differential transmission.",
+          "register": "Movement; declared programme landing; canonical fold-back to be checked by parent",
+          "direction": "current-to-target"
+        },
+        {
+          "target": "36-s4-p5-mef-prompt-thrownness",
+          "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md",
+          "relation": "returns-to",
+          "operation": "MEF carries explicit refractive conditions, sources and returns.",
+          "register": "Movement; declared programme landing; canonical fold-back to be checked by parent",
+          "direction": "current-to-target"
+        }
+      ],
+      "register_contract": "submission-package/essay/symbolon/mytheme/README.md",
+      "additional_required_inputs": [
+        "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+        "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md",
+        "working/p2-enrichment/T20-quilt-to-whole-coverage.json",
+        "working/p2-enrichment/receipts/T22-four-whole-admissions-and-job-preparation-2026-09-08.json",
+        "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+        "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+        "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+        "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+        "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+        "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+        "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+        "submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md"
+      ],
+      "target_operation": "Construct the method through differential transmission and visible joins; corrected assignments are Bimba Original, QL light’s harmonic fullness, MEF refractive construction, pratibimba projected image.",
+      "whole_figures_and_relations": "Light; spectrum; coloured panes; lead seams; projection; observer",
+      "whole_sequence": "Source disclosed through determinate panes and joins → situated image → recognition through changing display.",
+      "specific_boundaries": [
+        "Supersede the earlier QL/MEF lead-seam conflation with Q27 §4 Stained glass corrected; atlas and window remain complementary wholes.",
+        "No canonical prose or new human-amplified:yes relation authorised by this preparation.",
+        "Raw #0/#1/#2/#3/#4/#5→0 form derives semantics from the whole."
+      ],
+      "source_or_telling_blockers": [],
+      "status": "admitted-inputs-prepared",
+      "canonical_write_authorised_by_this_file": false,
+      "coverage_row_id": "T20-mytheme-stained-glass-refraction",
+      "source_read_obligations": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+          "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+          "notes": null,
+          "notes_policy": "Read whole SOURCE and complete sibling NOTES; protected authorial provenance, never mutate.",
+          "read_coverage": "Census and source/depth receipts locate contributions; writer must read actual supplied full bodies. This preparation does not certify new quotations."
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+          "source_sha256": "0976dcd50c7294983866760c2938509c0d296a4917be9516792ec9ec329d37f7",
+          "notes": null,
+          "notes_policy": "Read whole SOURCE and complete sibling NOTES; protected authorial provenance, never mutate.",
+          "read_coverage": "Census and source/depth receipts locate contributions; writer must read actual supplied full bodies. This preparation does not certify new quotations."
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md",
+          "source_sha256": "e1a1622c3c5b3789e177a54ebd55ecf22b4b752361485c20176ed7bd85c1f450",
+          "notes": null,
+          "notes_policy": "Read whole SOURCE and complete sibling NOTES; protected authorial provenance, never mutate.",
+          "read_coverage": "Census and source/depth receipts locate contributions; writer must read actual supplied full bodies. This preparation does not certify new quotations."
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+          "source_sha256": "625eed9f1ef4116f983c084601f78f7287275d212646fa997242081bf59bf28e",
+          "notes": null,
+          "notes_policy": "Read whole SOURCE and complete sibling NOTES; protected authorial provenance, never mutate.",
+          "read_coverage": "Census and source/depth receipts locate contributions; writer must read actual supplied full bodies. This preparation does not certify new quotations."
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-1980-wholeness-implicate-order/SOURCE.md",
+          "source_sha256": "60cd8570abea86ee0e415b60b059c62a59cc7e7f63aea2bb2775083f82922107",
+          "notes": null,
+          "notes_policy": "Read whole SOURCE and complete sibling NOTES; protected authorial provenance, never mutate.",
+          "read_coverage": "Census and source/depth receipts locate contributions; writer must read actual supplied full bodies. This preparation does not certify new quotations."
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+          "source_sha256": "a2c9746c0610c7154764fb46a02f6ec8c03324db7db6607ec93afc3d33abb74f",
+          "notes": null,
+          "notes_policy": "Read whole SOURCE and complete sibling NOTES; protected authorial provenance, never mutate.",
+          "read_coverage": "Census and source/depth receipts locate contributions; writer must read actual supplied full bodies. This preparation does not certify new quotations."
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+          "source_sha256": "119db75ad7cf485ae9ad5bb33437785bdbb9acbc1fcfe981cafd9e4bc7959c65",
+          "notes": null,
+          "notes_policy": "Read whole SOURCE and complete sibling NOTES; protected authorial provenance, never mutate.",
+          "read_coverage": "Census and source/depth receipts locate contributions; writer must read actual supplied full bodies. This preparation does not certify new quotations."
+        }
+      ]
+    }
+  ],
+  "non_page_carriers": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/earth-taste-wisdom/HISTORY.md",
+      "disposition": "retained-proposal",
+      "reason": "OUGHT-BE-ETYMOLOGY-ARCHITECTURE explicitly keeps this pending authorial verification; no canonical lexical-warrant promotion."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/tye/tye-2024-qualia-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wilson/wilson-et-al-2020-embodied-cognition-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1922-tractatus/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1953-philosophical-investigations/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/brown/brown-1989-ares-aphrodite-laughter/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/burkert/burkert-1960-lied-ares-aphrodite/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/detienne/detienne-vernant-1978-cunning-intelligence/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/mackenzie/mackenzie-2021-heraclitean-allusion-odyssey/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/phillips/phillips-moicheia-unity-greek-law/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/berkeley/berkeley-1734-three-dialogues-wilkins-2002/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/spinoza/spinoza-1674-letter-50-jelles/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/nothaft/nothaft-2020-satanic-ciphers/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/das/das-2022-sriharsa-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/kallata/spandakarika-dyczkowski-1992-stanzas-vibration/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/nagarjuna/nagarjuna-garfield-1995-fundamental-wisdom/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/van-norden/van-norden-jones-2024-huayan-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-skenfrith-cope-jung-ql/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-spirit-nature-man-humanity/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-chatgpt-2026-symbolon-in-media/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-claude-2026-derivational-chat/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-gemini-2026-pax-machina-body-without-organs/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-gemini-2026-skenfrith-castle-power-history/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-christ-mono-poly-theory/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-encounter-region-name-count/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-sym-dia-ballein-views/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/garfield/garfield-priest-2003-limits-of-thought/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2014-one/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/raatikainen/raatikainen-2026-godel-incompleteness-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/sheffer/sheffer-1913-five-postulates/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/strang/strang-herman-2016-openstax-calculus-v1/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/whitehead/whitehead-russell-1910-1913-principia/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/jorjani/jorjani-2016-prometheus-atlas/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/mcgoohan-markstein/mcgoohan-markstein-1967-the-prisoner/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1975-early-greek-thinking/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/maroski/maroski-2025-seeing-through-solid-words/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/nietzsche/nietzsche-1910-birth-tragedy-haussmann/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/physics/atmanspacher/atmanspacher-2020-pauli-jung-conjecture/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/physics/iter/iter-what-is-tokamak/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/physics/kirchner/kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-1980-wholeness-implicate-order/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-1996-on-dialogue/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/seed/seed-2010-language-spirit/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/adleman/adleman-vanderwees-2021-lacan-rhetoric/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/bache/bache-2019-lsd-mind-universe/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/courtney/courtney-2019-salt-point-kairos-chaos/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/darmon/darmon-1992-matheme-ali/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-2013-undiscovered-self-routledge/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/lacan/lacan-2017-talking-to-brick-walls/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2022-resist-machine-apocalypse/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/smythe/smythe-2013-dialogical-jung/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1991-strange-attractors/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/apuleius/apuleius-1913-psyche-cupido-purser/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ovid/ovid-1921-metamorphoses-miller/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/literature/goethe/goethe-1983-selected-poems-nims/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1961-totality-and-infinity/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1981-otherwise-than-being/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    }
+  ],
+  "remaining": [
+    "Complete target-keyed packets with every materially relevant A-depth receipt, direct carriers and full SOURCE/NOTES reading before each writer dispatch.",
+    "T23 tests four retained maps and any proposed new transverse route for a distinct movement; no inherited quota.",
+    "Source edition/locator and empirical debts remain Open until evidence work closes them.",
+    "T22 must reconcile named governing staleness before structural or claim-status changes; T24 acceptance still gates manuscript composition."
+  ],
+  "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c"
+}

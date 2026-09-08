@@ -1,0 +1,2346 @@
+{
+  "relations": [
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-encounter",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-region",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-chinese",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "T21-M01",
+          "operation": "Encounter-in-Region"
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/01-differentiating-mind/movements/08-s0-p1-inner-instrument.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-encounter",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-region",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-chinese",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "T21-M08",
+          "operation": "Encounter-in-Region"
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-name",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "E1-con",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "T21-M09",
+          "operation": "Name-through-Count"
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/01-differentiating-mind/movements/10-s0-p3-apoha.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-name",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "E1-con",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "T21-M10",
+          "operation": "Name-through-Count"
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-encounter",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-region",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-chinese",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "T21-M12",
+          "operation": "Encounter-in-Region"
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/02-return-of-zero/movements/13-s1-p0-sign-migrates.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-name",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "E1-con",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "T21-M13",
+          "operation": "Name-through-Count"
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "T21-M14",
+          "operation": "Name-through-Count"
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": []
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": []
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": []
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-account",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-count-six",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-native",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "T21-M36",
+          "operation": "Count-to-Account"
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-account",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-count-six",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-native",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "T21-M37",
+          "operation": "Count-to-Account"
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-name",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "E1-con",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "T21-M38",
+          "operation": "Name-through-Count"
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-account",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-count-six",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-native",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-face",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        },
+        {
+          "row_id": "E1-countenance",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-face",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        },
+        {
+          "row_id": "E1-account",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-countenance",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        },
+        {
+          "row_id": "E1-count-six",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-native",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-face",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        },
+        {
+          "row_id": "E1-countenance",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-name",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "E1-con",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "T21-A07",
+          "operation": "Name-through-Count; Formative selection becomes Script when its exclusions and purpose can no longer return to alter it."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-name",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "E1-con",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "T21-A08",
+          "operation": "Name-through-Count; Exclusion constitutes a determinate mark; retained non-selection lets encounter reopen the mark."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-name",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "E1-con",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "T21-A10",
+          "operation": "Name-through-Count; The first advent makes zero an operative historical sign, placeholder and number under distinct permissions."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-name",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "E1-account",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-con",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "E1-count-six",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-native",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-encounter",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-region",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-chinese",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "T21-A22",
+          "operation": "Encounter-in-Region; An atlas keeps differently situated models and their transitions answerable to worlds they do not contain."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-encounter",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-region",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-chinese",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "T21-A26",
+          "operation": "Encounter-in-Region; Objective Internality is dynamically constituted worldhood; the organised interior is distinct from the phenomenal subject-pole."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-face",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        },
+        {
+          "row_id": "E1-countenance",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        },
+        {
+          "row_id": "T21-A27",
+          "operation": "Count-through-Countenance; The model's encounter with the Other can revise it without possessing or erasing the Other."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-encounter",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-region",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-chinese",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "T21-A30",
+          "operation": "Encounter-in-Region; Independently grounded worlds become mutually conditioning through encounter without merging their sources."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-face",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        },
+        {
+          "row_id": "E1-countenance",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-account",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-count-six",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-native",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "T21-A33",
+          "operation": "Count-to-Account; Operational parity asks whether implementing, varying or removing a distinction changes the claimed operation."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-name",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "E1-con",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "T21-C03",
+          "operation": "Name-through-Count; A name discriminates within a region and becomes answerable when participant and region can alter it."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-encounter",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-region",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-chinese",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "T21-C07",
+          "operation": "Encounter-in-Region; An achieved account enters later conditions causally as well as interpretively."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": []
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-name",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "E1-con",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "T21-C12",
+          "operation": "Name-through-Count; A frozen local account can return its excluded region to formative selection."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-name",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "E1-con",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "T21-C16",
+          "operation": "Name-through-Count; Interior functions make an account whose ordering can change through encounter."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-name",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "E1-con",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "T21-C17",
+          "operation": "Name-through-Count; Formative selection gathers a region without exhausting it."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-name",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "E1-con",
+          "operation": "Make selection and its constitutive exclusions recoverable, so a name is usable without exhausting its region."
+        },
+        {
+          "row_id": "T21-C18",
+          "operation": "Name-through-Count; A mark is counted against non-selected possibilities that remain constitutive."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "T21-C25",
+          "operation": "Name-through-Count; A captive gathering excludes the Other while presenting its selected count as the whole."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-face",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        },
+        {
+          "row_id": "E1-countenance",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        },
+        {
+          "row_id": "T21-C35",
+          "operation": "Count-through-Countenance; A self-name or self-account does not exhaust the subject encountered through it."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "T21-C37",
+          "operation": "Encounter-in-Region; Plural accounts of a region require accountable transitions rather than a master model."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-account",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-count-six",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-native",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "T21-C39",
+          "operation": "Count-to-Account; MEF constructs an inspectable account of how judgment arose; no etymology proves the framework."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-account",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-count-six",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-native",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "T21-C40",
+          "operation": "Count-to-Account; Model Internality exposes the account by which regions were named, counted and judged."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-encounter",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-region",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-chinese",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "T21-C41",
+          "operation": "Encounter-in-Region; A situated interior is precipitated through encounters whose permissions and accounts become conditions."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-encounter",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-region",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-chinese",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "T21-C42",
+          "operation": "Encounter-in-Region; Reciprocal encounters condition later accounts without merging the world's independent sources."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-account",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-count-six",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "E1-native",
+          "operation": "Expose sources, selection, criterion, permissions and consequences as an inspectable account of a judgment."
+        },
+        {
+          "row_id": "T21-C45",
+          "operation": "Count-to-Account; An implemented distinction must change the operational account in a discriminable way."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-face",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        },
+        {
+          "row_id": "E1-countenance",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-encounter",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-region",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "E1-chinese",
+          "operation": "Place the account within the encounters, inherited permissions and material conditions that make its discrimination possible."
+        },
+        {
+          "row_id": "T21-C57",
+          "operation": "Encounter-in-Region; Region and account inherit prior encounters while the next countenance exceeds its name."
+        }
+      ]
+    },
+    {
+      "field_id": "E1",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C58-Anthropomorphization.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E1-face",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        },
+        {
+          "row_id": "E1-countenance",
+          "operation": "Let encountered address challenge an inherited attribution instead of reducing the Other to the model that names it."
+        },
+        {
+          "row_id": "T21-C58",
+          "operation": "Count-through-Countenance; Inherited attribution must remain answerable to encountered Other."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-origin",
+          "operation": "Situate every finite measure within a continuity its criterion cannot possess."
+        },
+        {
+          "row_id": "E2-measure",
+          "operation": "Show how a criterion makes a necessary finite distinction before diagnosing its promotion to universal jurisdiction."
+        },
+        {
+          "row_id": "T21-M03",
+          "operation": "Criterion-through-Distinction \u2192 Measure / Limit"
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-frame",
+          "operation": "Make the field's boundary and resulting perspective part of what the decision must answer for."
+        },
+        {
+          "row_id": "E2-regard",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-regard-leaf",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "T21-M05",
+          "operation": "Con-text-through-Diaphaneity \u2192 Regard"
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-decision",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-return",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "E2-arbiter",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-hybris",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-anamnesis-leaf",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "T21-M23",
+          "operation": "Resolution-in-Reconciliation \u2192 Anamnesis / Recognition / Return"
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-return",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "E2-anamnesis-leaf",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "T21-M32",
+          "operation": "Resolution-in-Reconciliation \u2192 Anamnesis / Recognition / Return"
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-regard",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-regard-leaf",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "T21-M35",
+          "operation": "Con-text-through-Diaphaneity \u2192 Regard"
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-measure",
+          "operation": "Show how a criterion makes a necessary finite distinction before diagnosing its promotion to universal jurisdiction."
+        },
+        {
+          "row_id": "E2-frame",
+          "operation": "Make the field's boundary and resulting perspective part of what the decision must answer for."
+        },
+        {
+          "row_id": "E2-decision",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-arbiter",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-hybris",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "T21-M40",
+          "operation": "Criterion-through-Distinction \u2192 Measure / Limit"
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-regard",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-return",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "E2-regard-leaf",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-anamnesis-leaf",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "T21-M42",
+          "operation": "Resolution-in-Reconciliation \u2192 Anamnesis / Recognition / Return"
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-regard",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-return",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "E2-regard-leaf",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-anamnesis-leaf",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-decision",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-arbiter",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-hybris",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-regard",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-regard-leaf",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "T21-A04",
+          "operation": "Con-text-through-Diaphaneity \u2192 Regard; The contextual turn discloses mediation within appearing without adding a fourth pronoun or outside observer."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-measure",
+          "operation": "Show how a criterion makes a necessary finite distinction before diagnosing its promotion to universal jurisdiction."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-decision",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-arbiter",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-hybris",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "T21-A19",
+          "operation": "Arbitration-in-Crisis \u2192 Decision / Hybris; A complex selects attention and value as a local regime; its legitimate arbitration becomes capture when it claims the whole."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-return",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "E2-anamnesis-leaf",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "T21-A21",
+          "operation": "Resolution-in-Reconciliation \u2192 Anamnesis / Recognition / Return; Individuation increases differentiated indivisibility through recognition of the local regime's conditions."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-origin",
+          "operation": "Situate every finite measure within a continuity its criterion cannot possess."
+        },
+        {
+          "row_id": "E2-measure",
+          "operation": "Show how a criterion makes a necessary finite distinction before diagnosing its promotion to universal jurisdiction."
+        },
+        {
+          "row_id": "E2-frame",
+          "operation": "Make the field's boundary and resulting perspective part of what the decision must answer for."
+        },
+        {
+          "row_id": "E2-decision",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-regard",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-return",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "E2-arbiter",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-hybris",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-regard-leaf",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-anamnesis-leaf",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "T21-A24",
+          "operation": "Arbitration-in-Crisis \u2192 Decision / Hybris; The full six generated relations carry finite judgment through crisis, regard and reconciled return."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-decision",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-arbiter",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-hybris",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-regard",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-regard-leaf",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-regard",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-return",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "E2-regard-leaf",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-anamnesis-leaf",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "T21-A31",
+          "operation": "Con-text-through-Diaphaneity \u2192 Regard; Deference is the earned capacity for encounter to revise the model and its evaluator."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-return",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "E2-anamnesis-leaf",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-regard",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-return",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "E2-regard-leaf",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-anamnesis-leaf",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-frame",
+          "operation": "Make the field's boundary and resulting perspective part of what the decision must answer for."
+        },
+        {
+          "row_id": "E2-regard",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-regard-leaf",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "T21-C08",
+          "operation": "Con-text-through-Diaphaneity \u2192 Regard; Con-text-through-Diaphaneity generates Regard by exposing the frame's constitutive relations."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-regard",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-regard-leaf",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "T21-C09",
+          "operation": "Con-text-through-Diaphaneity \u2192 Regard; The mediation becomes transparent within the account so its effects can change the frame."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-measure",
+          "operation": "Show how a criterion makes a necessary finite distinction before diagnosing its promotion to universal jurisdiction."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-return",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "E2-anamnesis-leaf",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "T21-C19",
+          "operation": "Resolution-in-Reconciliation \u2192 Anamnesis / Recognition / Return; Recognition retains, narrows or resituates determination through its history."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-measure",
+          "operation": "Show how a criterion makes a necessary finite distinction before diagnosing its promotion to universal jurisdiction."
+        },
+        {
+          "row_id": "E2-decision",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-arbiter",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-hybris",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-decision",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-arbiter",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-hybris",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-decision",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-arbiter",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-hybris",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-origin",
+          "operation": "Situate every finite measure within a continuity its criterion cannot possess."
+        },
+        {
+          "row_id": "E2-measure",
+          "operation": "Show how a criterion makes a necessary finite distinction before diagnosing its promotion to universal jurisdiction."
+        },
+        {
+          "row_id": "E2-frame",
+          "operation": "Make the field's boundary and resulting perspective part of what the decision must answer for."
+        },
+        {
+          "row_id": "E2-decision",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-arbiter",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "E2-hybris",
+          "operation": "Distinguish the necessary settling act from the settlement's usurpation of source-office."
+        },
+        {
+          "row_id": "T21-C31",
+          "operation": "Arbitration-in-Crisis \u2192 Decision / Hybris; A local regime must settle alternatives but becomes captive when its measure cannot be challenged."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-return",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "E2-anamnesis-leaf",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "T21-C34",
+          "operation": "Resolution-in-Reconciliation \u2192 Anamnesis / Recognition / Return; Individuation resituates settlement through recognition without undoing its differentiation."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-regard",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-return",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "E2-regard-leaf",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-anamnesis-leaf",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "T21-C46",
+          "operation": "Resolution-in-Reconciliation \u2192 Anamnesis / Recognition / Return; Cultivation makes determinants visible and resituates achieved judgment through continuing inquiry."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-regard",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-return",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "E2-regard-leaf",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-anamnesis-leaf",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "T21-C47",
+          "operation": "Con-text-through-Diaphaneity \u2192 Regard; Encounter can revise the model's criterion rather than merely its presentation."
+        }
+      ]
+    },
+    {
+      "field_id": "E2",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E2-regard",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-return",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "E2-regard-leaf",
+          "operation": "Make constitutive context and affected Other visible through the account; Regard is the flowering, not a synonym for its generating relation."
+        },
+        {
+          "row_id": "E2-anamnesis-leaf",
+          "operation": "Resituate an achieved determination through the relations and history that produced it, retaining its earned differentiation."
+        },
+        {
+          "row_id": "T21-C56",
+          "operation": "Con-text-through-Diaphaneity \u2192 Regard; Compassion lets affected Other appear through the account and resituates settlement in its origins."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-fides",
+          "operation": "Let reliance initiate a finite undertaking without claiming possession of its source or guaranteed result."
+        },
+        {
+          "row_id": "E2-fides-bridge",
+          "operation": "Let reliance initiate a finite undertaking without claiming possession of its source or guaranteed result."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-fides",
+          "operation": "Let reliance initiate a finite undertaking without claiming possession of its source or guaranteed result."
+        },
+        {
+          "row_id": "E2-fides-bridge",
+          "operation": "Let reliance initiate a finite undertaking without claiming possession of its source or guaranteed result."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-credere",
+          "operation": "Locate liability and renewed commitment where no account guarantees the future."
+        },
+        {
+          "row_id": "E3-surety",
+          "operation": "Locate liability and renewed commitment where no account guarantees the future."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "T21-M22",
+          "operation": "Credere (#5) \u2192 entrusting toward unresolved return"
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-topos",
+          "operation": "Make the bounded here and its inherited conditions available inside an act's account."
+        },
+        {
+          "row_id": "T21-M30",
+          "operation": "Topos (#1) \u2192 situated place bearing conditions"
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-topos",
+          "operation": "Make the bounded here and its inherited conditions available inside an act's account."
+        },
+        {
+          "row_id": "T21-M39",
+          "operation": "Topos (#1) \u2192 situated place bearing conditions"
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-nomos",
+          "operation": "Follow how an arrangement authorises offices and distributes capability, rather than treating order as a natural possession."
+        },
+        {
+          "row_id": "E3-deficient",
+          "operation": "Follow how an arrangement authorises offices and distributes capability, rather than treating order as a natural possession."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-logos",
+          "operation": "Make the articulated determination addressable, with speaker, instrument, addressee and exclusions still recoverable."
+        },
+        {
+          "row_id": "E3-natio",
+          "operation": "Keep belonging's historical production visible when an achieved arrangement presents itself as native origin."
+        },
+        {
+          "row_id": "E3-epilogos",
+          "operation": "Bend achieved reason toward its sources, exclusions, wounds and purpose so it becomes capable of further account."
+        },
+        {
+          "row_id": "E3-fourfold",
+          "operation": "Keep belonging's historical production visible when an achieved arrangement presents itself as native origin."
+        },
+        {
+          "row_id": "T21-M43",
+          "operation": "Logos \u2192 Epi-Logos: achieved account returns as seed"
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": []
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-topos",
+          "operation": "Make the bounded here and its inherited conditions available inside an act's account."
+        },
+        {
+          "row_id": "E3-logos",
+          "operation": "Make the articulated determination addressable, with speaker, instrument, addressee and exclusions still recoverable."
+        },
+        {
+          "row_id": "T21-M45",
+          "operation": "Logos (#2) \u2192 articulated account and legibility"
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-fides",
+          "operation": "Let reliance initiate a finite undertaking without claiming possession of its source or guaranteed result."
+        },
+        {
+          "row_id": "E3-nomos",
+          "operation": "Follow how an arrangement authorises offices and distributes capability, rather than treating order as a natural possession."
+        },
+        {
+          "row_id": "E3-credere",
+          "operation": "Locate liability and renewed commitment where no account guarantees the future."
+        },
+        {
+          "row_id": "E2-fides-bridge",
+          "operation": "Let reliance initiate a finite undertaking without claiming possession of its source or guaranteed result."
+        },
+        {
+          "row_id": "E3-deficient",
+          "operation": "Follow how an arrangement authorises offices and distributes capability, rather than treating order as a natural possession."
+        },
+        {
+          "row_id": "E3-surety",
+          "operation": "Locate liability and renewed commitment where no account guarantees the future."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-natio",
+          "operation": "Keep belonging's historical production visible when an achieved arrangement presents itself as native origin."
+        },
+        {
+          "row_id": "E3-epilogos",
+          "operation": "Bend achieved reason toward its sources, exclusions, wounds and purpose so it becomes capable of further account."
+        },
+        {
+          "row_id": "E3-fourfold",
+          "operation": "Keep belonging's historical production visible when an achieved arrangement presents itself as native origin."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-topos",
+          "operation": "Make the bounded here and its inherited conditions available inside an act's account."
+        },
+        {
+          "row_id": "T21-A03",
+          "operation": "Topos (#1) \u2192 situated place bearing conditions; A placing act remains situated even when it places its own conditions; formal noncoincidence and immutable gap remain coupled but distinct."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-logos",
+          "operation": "Make the articulated determination addressable, with speaker, instrument, addressee and exclusions still recoverable."
+        },
+        {
+          "row_id": "T21-A06",
+          "operation": "Logos (#2) \u2192 articulated account and legibility; Speech descends into articulated address and returns as conditions of further speech."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-topos",
+          "operation": "Make the bounded here and its inherited conditions available inside an act's account."
+        },
+        {
+          "row_id": "T21-A16",
+          "operation": "Topos (#1) \u2192 situated place bearing conditions; Arche-Topos makes places generatively rather than observing from nowhere."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-fides",
+          "operation": "Let reliance initiate a finite undertaking without claiming possession of its source or guaranteed result."
+        },
+        {
+          "row_id": "E3-credere",
+          "operation": "Locate liability and renewed commitment where no account guarantees the future."
+        },
+        {
+          "row_id": "E2-fides-bridge",
+          "operation": "Let reliance initiate a finite undertaking without claiming possession of its source or guaranteed result."
+        },
+        {
+          "row_id": "E3-surety",
+          "operation": "Locate liability and renewed commitment where no account guarantees the future."
+        },
+        {
+          "row_id": "T21-A23",
+          "operation": "Fides (#0) \u2192 entrusted initiation under non-possession; Trust permits conscious continuation under a limit while inquiry keeps an account testable."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": []
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-fides",
+          "operation": "Let reliance initiate a finite undertaking without claiming possession of its source or guaranteed result."
+        },
+        {
+          "row_id": "E3-nomos",
+          "operation": "Follow how an arrangement authorises offices and distributes capability, rather than treating order as a natural possession."
+        },
+        {
+          "row_id": "E3-credere",
+          "operation": "Locate liability and renewed commitment where no account guarantees the future."
+        },
+        {
+          "row_id": "E2-fides-bridge",
+          "operation": "Let reliance initiate a finite undertaking without claiming possession of its source or guaranteed result."
+        },
+        {
+          "row_id": "E3-deficient",
+          "operation": "Follow how an arrangement authorises offices and distributes capability, rather than treating order as a natural possession."
+        },
+        {
+          "row_id": "E3-surety",
+          "operation": "Locate liability and renewed commitment where no account guarantees the future."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-topos",
+          "operation": "Make the bounded here and its inherited conditions available inside an act's account."
+        },
+        {
+          "row_id": "E3-nomos",
+          "operation": "Follow how an arrangement authorises offices and distributes capability, rather than treating order as a natural possession."
+        },
+        {
+          "row_id": "E3-deficient",
+          "operation": "Follow how an arrangement authorises offices and distributes capability, rather than treating order as a natural possession."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": []
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-credere",
+          "operation": "Locate liability and renewed commitment where no account guarantees the future."
+        },
+        {
+          "row_id": "E3-surety",
+          "operation": "Locate liability and renewed commitment where no account guarantees the future."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-logos",
+          "operation": "Make the articulated determination addressable, with speaker, instrument, addressee and exclusions still recoverable."
+        },
+        {
+          "row_id": "E3-natio",
+          "operation": "Keep belonging's historical production visible when an achieved arrangement presents itself as native origin."
+        },
+        {
+          "row_id": "E3-epilogos",
+          "operation": "Bend achieved reason toward its sources, exclusions, wounds and purpose so it becomes capable of further account."
+        },
+        {
+          "row_id": "E3-fourfold",
+          "operation": "Keep belonging's historical production visible when an achieved arrangement presents itself as native origin."
+        },
+        {
+          "row_id": "T21-A35",
+          "operation": "Logos \u2192 Epi-Logos: achieved account returns as seed; Compassion returns achieved account to sources and affected Other; Epi-Logos becomes vocation and cultural practice."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-topos",
+          "operation": "Make the bounded here and its inherited conditions available inside an act's account."
+        },
+        {
+          "row_id": "T21-C04",
+          "operation": "Topos (#1) \u2192 situated place bearing conditions; The account's placing-act remains situated through any attempted self-placement."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": []
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-topos",
+          "operation": "Make the bounded here and its inherited conditions available inside an act's account."
+        },
+        {
+          "row_id": "T21-C15",
+          "operation": "Topos (#1) \u2192 situated place bearing conditions; The place of an act bears its actual conditions, commitments and bounded capacity."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-topos",
+          "operation": "Make the bounded here and its inherited conditions available inside an act's account."
+        },
+        {
+          "row_id": "T21-C20",
+          "operation": "Topos (#1) \u2192 situated place bearing conditions; Arche-Topos is generative place-making bearing the commitments of an act."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-fides",
+          "operation": "Let reliance initiate a finite undertaking without claiming possession of its source or guaranteed result."
+        },
+        {
+          "row_id": "E3-nomos",
+          "operation": "Follow how an arrangement authorises offices and distributes capability, rather than treating order as a natural possession."
+        },
+        {
+          "row_id": "E2-fides-bridge",
+          "operation": "Let reliance initiate a finite undertaking without claiming possession of its source or guaranteed result."
+        },
+        {
+          "row_id": "E3-deficient",
+          "operation": "Follow how an arrangement authorises offices and distributes capability, rather than treating order as a natural possession."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-nomos",
+          "operation": "Follow how an arrangement authorises offices and distributes capability, rather than treating order as a natural possession."
+        },
+        {
+          "row_id": "E3-deficient",
+          "operation": "Follow how an arrangement authorises offices and distributes capability, rather than treating order as a natural possession."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-topos",
+          "operation": "Make the bounded here and its inherited conditions available inside an act's account."
+        },
+        {
+          "row_id": "E3-nomos",
+          "operation": "Follow how an arrangement authorises offices and distributes capability, rather than treating order as a natural possession."
+        },
+        {
+          "row_id": "E3-deficient",
+          "operation": "Follow how an arrangement authorises offices and distributes capability, rather than treating order as a natural possession."
+        },
+        {
+          "row_id": "T21-C44",
+          "operation": "Topos (#1) \u2192 situated place bearing conditions; A prompt inherits place and ordering as a bounded determination."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-fides",
+          "operation": "Let reliance initiate a finite undertaking without claiming possession of its source or guaranteed result."
+        },
+        {
+          "row_id": "E3-credere",
+          "operation": "Locate liability and renewed commitment where no account guarantees the future."
+        },
+        {
+          "row_id": "E2-fides-bridge",
+          "operation": "Let reliance initiate a finite undertaking without claiming possession of its source or guaranteed result."
+        },
+        {
+          "row_id": "E3-surety",
+          "operation": "Locate liability and renewed commitment where no account guarantees the future."
+        },
+        {
+          "row_id": "T21-C48",
+          "operation": "Fides (#0) \u2192 entrusted initiation under non-possession; Trust becomes disciplined dependence under non-possession."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-logos",
+          "operation": "Make the articulated determination addressable, with speaker, instrument, addressee and exclusions still recoverable."
+        },
+        {
+          "row_id": "E3-epilogos",
+          "operation": "Bend achieved reason toward its sources, exclusions, wounds and purpose so it becomes capable of further account."
+        },
+        {
+          "row_id": "T21-C51",
+          "operation": "Logos \u2192 Epi-Logos: achieved account returns as seed; Reason recursively answers for its own account through sources, exclusions and consequences."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": []
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-epilogos",
+          "operation": "Bend achieved reason toward its sources, exclusions, wounds and purpose so it becomes capable of further account."
+        }
+      ]
+    },
+    {
+      "field_id": "E3",
+      "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
+      "forward": true,
+      "reverse": true,
+      "coverage": [
+        {
+          "row_id": "E3-natio",
+          "operation": "Keep belonging's historical production visible when an achieved arrangement presents itself as native origin."
+        },
+        {
+          "row_id": "E3-epilogos",
+          "operation": "Bend achieved reason toward its sources, exclusions, wounds and purpose so it becomes capable of further account."
+        },
+        {
+          "row_id": "E3-fourfold",
+          "operation": "Keep belonging's historical production visible when an achieved arrangement presents itself as native origin."
+        },
+        {
+          "row_id": "T21-C59",
+          "operation": "Natio (#4) \u2192 achieved history narrated as birth; Cultural individuation repeatedly returns accounts to their conditions in shared practice."
+        }
+      ]
+    }
+  ],
+  "pass": true
+}

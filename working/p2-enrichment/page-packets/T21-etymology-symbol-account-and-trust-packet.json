@@ -1,0 +1,430 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/T21-etymology-symbol-account-and-trust-queue.json",
+    "queue_sha256": "d0fb64bc6aece53df56c6a875edcdf46498a2f179f0fe189585fea0c0d1401d2",
+    "census": "working/p2-enrichment/T21-etymology-symbol-account-and-trust-census.json",
+    "census_sha256": "998cb4cd1a839aa9320663e00e4188f0ff171f23dcc44fbd5ced0fe93732394a",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "etymology-symbol-account-and-trust",
+    "title": "symbol-account-and-trust",
+    "register": "episteme",
+    "record_type": "etymology-whole",
+    "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+    "wave": "T21",
+    "disposition": "enrich-existing-whole",
+    "authority": [
+      "working/final-argument-quilt-2026-08-23/OUGHT-BE-ETYMOLOGY-ARCHITECTURE.md"
+    ],
+    "packet_status": "single-target-authorized-current-inputs-bound",
+    "binding_state": "fresh-target-binding",
+    "dispatch_status": "authorized-by-user-after-E4-edit-barrier",
+    "argument_depth": [
+      "A01",
+      "A13",
+      "A15",
+      "A18",
+      "A20",
+      "A22",
+      "A23",
+      "A25",
+      "A27",
+      "A31",
+      "A32",
+      "A33",
+      "A36"
+    ],
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+        "start_line": 1,
+        "end_line": 70,
+        "relation": "Whole protected lexical and historical branch; preserve its leads and separate registers.",
+        "provenance": "Protected learning surface; full read, never mutate."
+      },
+      {
+        "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+        "start_line": 19,
+        "end_line": 43,
+        "relation": "Whole symbolic relation, seam and recursive interpreter return; read complete manuscript.",
+        "provenance": "Authorial synthesis, not external philological evidence."
+      },
+      {
+        "path": "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+        "start_line": 7,
+        "end_line": 57,
+        "relation": "Knowledge as provisional trust anchor versus projected distrust; whole revision read with later ratifications.",
+        "provenance": "Mixed developmental provenance; exact first-person chiasmus unconfirmed."
+      }
+    ],
+    "relations": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+        "relation": "returns-to",
+        "operation": "Image efficacy returns to source-answerability, including appropriation after withdrawal."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "relation": "returns-to",
+        "operation": "Evidence makes obligation inspectable; committed reliance remains an act."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+        "relation": "returns-to",
+        "operation": "Entrusted authority returns liability and can receive correction of its commission."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "relation": "returns-to",
+        "operation": "Account changes future field; initiated return is distinct from feedback."
+      }
+    ],
+    "register_contract": "working/final-argument-quilt-2026-08-23/OUGHT-BE-ETYMOLOGY-ARCHITECTURE.md",
+    "additional_required_inputs": [
+      "working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md",
+      "working/final-argument-quilt-2026-08-23/RELATIONAL-FORM-GROWTH-GRAMMAR.md",
+      "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+      "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+      "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "submission-package/essay/symbolon/episteme/etymologies/T09-A-C-E-RECIPROCITY-INDEX.md",
+      "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "submission-package/essay/symbolon/episteme/concepts/reference-notes/hole-whole-holy-health.md"
+    ],
+    "cardinalities": {
+      "terms": 3,
+      "generated_operations": 4,
+      "page_positions": 6,
+      "evidence_registers": 4
+    }
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A01",
+      "path": "working/p2-enrichment/argument-depth/A01.md",
+      "sha256": "cf90a1fb09c619f8829858a7c5dda50e8f29abf61edf1a2e142dcbf4f77f63e8"
+    },
+    {
+      "argument_id": "A13",
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8"
+    },
+    {
+      "argument_id": "A15",
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "sha256": "70e04921c5c97b94a3068eafe5b1595e3bfa4f537076f75376503628237f0f8a"
+    },
+    {
+      "argument_id": "A18",
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f"
+    },
+    {
+      "argument_id": "A20",
+      "path": "working/p2-enrichment/argument-depth/A20.md",
+      "sha256": "31e8980f2955a784f02b5f84b1e6c63bdcf3a22cb25e24afec678c19a166c2c2"
+    },
+    {
+      "argument_id": "A22",
+      "path": "working/p2-enrichment/argument-depth/A22.md",
+      "sha256": "cc4786c82ef3cb7ea0e799b910fec2ec50108b3cd2316635e4ac4f7ddb06c3d3"
+    },
+    {
+      "argument_id": "A23",
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3"
+    },
+    {
+      "argument_id": "A25",
+      "path": "working/p2-enrichment/argument-depth/A25.md",
+      "sha256": "eaeeae9754e349e495e21dd60bf83d380fa3eaac3d54b9d33b779ec72775139b"
+    },
+    {
+      "argument_id": "A27",
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "sha256": "2480e3c0322aa54e36bcd924ec3e60cb6e3430372125ad215d12f56b583080e0"
+    },
+    {
+      "argument_id": "A31",
+      "path": "working/p2-enrichment/argument-depth/A31.md",
+      "sha256": "2e8a2e463260bfd1e194037a5bba48cddfb06aaad1d8fc71e87003de0d10d1c7"
+    },
+    {
+      "argument_id": "A32",
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "sha256": "8d7f5d6f98f61bb3011360c0ef68b0681989c97a8f224c2c549668ef167ca428"
+    },
+    {
+      "argument_id": "A33",
+      "path": "working/p2-enrichment/argument-depth/A33.md",
+      "sha256": "61ffc1d702894cd6f35cda9b489cf5da6a8e4103c1153e495ce23917cd4c6285"
+    },
+    {
+      "argument_id": "A36",
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "sha256": "e3a57cce16073324c647f808dcdd485541cbf3c85be87f9000655651b21322a6"
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+      "sha256": "8fcd965a4da2cba357ffd7203eb141bd5fd654f8cf0f0ba897d3bf5589aa94bd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+      "sha256": "a46b2a8233e9cf86e93eefbe86fcc7668794632787ec54c4ead6a93dd5ae74fe"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "097cca1c3907e8dd6588113f42052c6a286fda6550692dbae4367ccb06e9ba70"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md",
+      "sha256": "bf117e661c3e3fc79b6606837b99eb8830a63aef5b3ce9ced9fec5a0c4d5d6ae"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/RELATIONAL-FORM-GROWTH-GRAMMAR.md",
+      "sha256": "2f572993b962beeaa2010b47280476c67654f5286f851ada8064cb4c4acf908c"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+      "sha256": "cfb12675ff193ac3bf38f4ecb2e7f4a16637b1198cfedb7d3d205ed6027c5b3a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "sha256": "071bb9b17daaecd29d69b91b1ff26236baf5426ca71b0bdc1ef3aa950ec024a4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "sha256": "b2fc60a9f32346b1132aa3d98b9530546c77cbf5752c121bcdaf9afb8a7037db"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "sha256": "c64676778f118e2f255e3c2c78c1f7bae9d0eeb52246f2b727a2c1c261489c1e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "a9b89f88f88c95583e724e0e2c4d5fd5816d28cd2ab57d9fc79c1bdf65880fc8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "sha256": "52b181242bf8ea20839ef8102f4b9d2f04b75e635e68b5c6bf16ab8f63bc2d48"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "sha256": "a2d8f28cb507631a43dd95b65bd4032a3e3fae6fad709f088cdf70099afca27e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "sha256": "319c378bd9133afd0e3fc61967ba1036916c4366e2ac3105717214fb84eab1c7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "sha256": "987c5b27e9aba95adccf843c792d9f8d3ae9df1cab834b72244c3d9d5b2bef7d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "sha256": "d4e9548c72559bdb024f292f9554b1084afb67be8b9766c99d81c0bd99cb19d2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "sha256": "e0d633b11f90a3f217782fd72c706effefb1ff3fd8c81ca72a8f1dd1343dcfc0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "sha256": "67a86b880bb9ee0b3acf974beee560f5ad9817902d9e99c30ff1b63f66b53654"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "sha256": "bf4fb3347e7341cf5f3327e5e6fd7872d603fb3a2d5223de6531e8bb3e69a469"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "sha256": "53bb1bd03da452dadcebd2957cc240546640d4d18d542cd7055f5490ca077c2d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "sha256": "28d848078312f5e5372d5068163b45130e7f5f21e602bd3ed968a7c8bd6fbea7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+      "sha256": "ae7833804db2f889be3514b25abeb0612c27881860e4ef3ebea87ef3e040ca73"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "sha256": "db0cfe3c2fdbcd36526ee38d67335a7b76f094744a9f7d09509b5dee7e5c7a2e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "sha256": "923c796f44d41e1ee8efbb1d7e67ee9abaae03314fc65e05a0924c74e2d130f6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "sha256": "38153fe262b742a672f7a3379b1abec166a24506f2bf5fc2032229d45b3737e7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "sha256": "b2853156fe586cbcec1a72bca6759f1a4d0bcc437ac210a4314b298da4352ea2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "sha256": "724e422c9ef3786ba69c3e431d637a21cd624a06f3259e45ece5a8f011ba009c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "sha256": "8890f417b8b1aba0b973a90683c4b5b734c8e0aa25a5a9fc403d9dacbf93f837"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "sha256": "06a6b5fc5ca89524c9fdbaaf0eee442b81449d71fa1c5e1dc261bfb2a4680d63"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/T09-A-C-E-RECIPROCITY-INDEX.md",
+      "sha256": "5eb704d4b3a696f6b5688117697b3992b2ca2831a9023076fb0cdc1c8ea58674"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/hole-whole-holy-health.md",
+      "sha256": "5dfcaf15ba0532cb0adea2dea82fef831ba649520f29bab175c3ac204bc37e3e"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/OUGHT-BE-ETYMOLOGY-ARCHITECTURE.md",
+      "sha256": "2e6b2fe22c23127627966a70c5080e5b94a221c89006d9b8689ed1fb7ee89e96"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "source_sha256": "0976dcd50c7294983866760c2938509c0d296a4917be9516792ec9ec329d37f7",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+      "source_sha256": "ca62d327f1f4d53424310e66c00aaa185ebcacb959d90fac3d7c5c081b46a425",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+      "start_line": 1,
+      "end_line": 70,
+      "relation": "Whole protected lexical and historical branch; preserve its leads and separate registers.",
+      "provenance": "Protected learning surface; full read, never mutate.",
+      "sha256": "a46b2a8233e9cf86e93eefbe86fcc7668794632787ec54c4ead6a93dd5ae74fe",
+      "text": "---\ntitle: \"Symbol, Account, and Trust — Marks That Circulate\"\npage_type: etymological-cluster\nownership: protected-learning-surface\nstatus: living\ncluster_status: active-working-field\nphilology_readiness: mixed-leads-and-attested-basics\n---\n\n# Symbol, Account, and Trust — Marks That Circulate\n\nA tally makes a cut and preserves it as a mark. A symbolon is broken so that the break can later attest a relation. An account orders marks into a telling. Credit advances trust. A record returns an event to the heart of a community that must remember it. These are not one word-family, and the cluster does not need them to be. Their resonance concerns the life of a mark that travels beyond its first situation while remaining answerable to what gave it standing.\n\n## Word record\n\n| Term | Historical field | Relation held here | Readiness |\n|---|---|---|---|\n| Greek *sym-ballein* / *symbolon* | Throwing or bringing together; a token whose separated pieces can be matched. | **Attested semantic field.** The broken token becomes an exact material figure for seam-retaining relation. | Existing project sources and [§2 · #2](../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md) provide the current argument route; recover a primary lexical witness for historical exposition. |\n| Greek *dia-ballein* | Throwing across/apart; later conflict, accusation, and division belong to its semantic history. | **Attested semantic field.** The verb gives an historical body to separating operations. | Verify chronological senses before public philology. |\n| Latin *computare* / account | *Computare* joins counting with calculation; the later account-field also names a rendering or telling. | **Semantic development / operational homology.** A ledger and a narrative both make events answerable through an ordered sequence of marks. | The “cut together” rendering is a lexical lead, not yet a public claim. |\n| reckon / rule / right | The Germanic reckon-field is commonly connected to directing, straightening, or ruling. | **Lexical lead.** Reckoning may give a scattered set a line, rule, or measure; the root-chain needs a specialist dictionary before use. | Do not use the connection as evidence until it is verified. |\n| *credit* / *record* | *Credere* belongs to the trust/belief field; *recordari* is remembering through the heart (*cor*). | **Philological descent, pending lexical confirmation.** Credit advances a claim on trust; record makes a past act return to collective memory. | Acquire Latin dictionary and legal-history witnesses. |\n| coin / coinage / claim / fiat / value | Coining is striking a marked token; a claim is publicly voiced; *fiat* is “let it be made”; *value* reaches English through Latin *valere*, strength or worth. | **Mixed semantic field.** The relation among coined word, token, decree, claim, and worth is operational, not a single descent. | Verify individual English and Latin paths before historical use. |\n| tally / score / digit | Bodily and material counting practices connect marks, fingers, notches, and totals. | **Material-historical lead.** | Do not make a PIE root claim for *digitus* or a universal origin story without specialised sources. |\n\n## The account as a relation that must return\n\nTo give an account is already more than to possess information. The account arranges a sequence, makes a claim about what happened, and offers that claim to another who can accept, correct, or refuse it. The financial ledger and the narrative account therefore meet in a project-level operational homology: both stabilise a field of relations by marks that can circulate and be reviewed. Their distinct histories remain distinct.\n\nThis is why the cluster belongs beside trust. A credit relation does not eliminate risk; it stages risk by making a future return claimable. A record does not resurrect what happened; it carries a revisable trace into a later present. The architectural consequence is direct: provenance, source, memory, review, and contestability form the minimum body of an account that does not mistake legibility for possession. They are the system's way of keeping a mark from quietly occupying the zero.\n\nThe operation is strongest where it meets the historical *symbolon*. The mark survives separation because it bears a shape through which a counterpart can be recognised. A ledger can become a dead inventory when it forgets the relations that made its entries meaningful; a symbol becomes a fetish when it forgets the fracture and the other half. In both cases sym-ballein asks whether the trace still carries provenance, reciprocal address, and a route of return.\n\n## Comparative lenses held as leads\n\nThe initial intake opens several non-cognate cultural lines whose semantic knots deserve dedicated sources before they are used substantively:\n\n| Field | Lead | Relation at present |\n|---|---|---|\n| Sanskrit *Sāṃkhya* | A philosophical school whose name is associated with enumeration or counting. | A possible historical neighbour for philosophical counting; no project inference follows until a source is recovered. |\n| Hebrew S-P-R | Count, book, scribe, and number reportedly share a root field. | A promising count / write / tell braid; requires Hebrew lexicon and primary textual context. |\n| Chinese *zhengming* | The rectification of names connects social order to the fittingness of names and roles. | A political resonance with constitutive naming, not evidence of a shared linguistic origin. |\n| Arabic *ḥisāb* and the Names | Reckoning and the counted recitation of divine names open an accounting/devotional field. | Requires Arabic sources and theological context; currently a research lead. |\n| Egyptian *rn* | The name is reported as a load-bearing component of continued personhood. | A historical-religious lead requiring Egyptological sources; no cross-cultural claim is yet made. |\n\nThese are not decorative world examples. Each could alter the essay's account of naming, record, or value, but only after its own terms have been recovered and allowed to resist the cluster's desired pattern.\n\n## Source shelf and verification queue\n\n| Needed evidence | First research address | Why it is needed |\n|---|---|---|\n| *symbolon*, *sym-ballein*, *dia-ballein* | LSJ; primary Greek usage; existing symbolon source route | Stabilise the lexical history under the essay's existing derived operation. |\n| Accounting and calculation | Lewis & Short / Oxford Latin Dictionary; OED; Roman and medieval accounting history | Separate calculation, pruning/clearing, narration, and legal account. |\n| Trust and remembrance | Latin dictionaries for *credere* and *recordari*; legal history of credit | Test the heart/trust etymology and distinguish it from the project's philosophical account of trust. |\n| Cross-cultural leads | Specialist lexica and primary editions in the relevant language | Keep a meaningful resonance from becoming an ungrounded synthesis. |\n\n## Argument routes\n\n| Route | Work performed by the cluster |\n|---|---|\n| [§2 · #1 — Dia-Ballein](../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md) | A count or classification can render a field governable while concealing the exclusions and relations that make its terms possible. |\n| [§2 · #2 — Sym-Ballein](../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md) | The symbolon supplies the material test: a mark must retain separation, provenance, and the possibility of reciprocal recognition. |\n| [Trust, Faith, and the Formal Limit](../../../../section-rooms/arguments/18-trust-faith-formal-limit.md) | Credit and record sharpen the difference between a living relation of trust and the documents that can only make its conditions inspectable. |\n| [§5 · #3 — Preference Models and the Hidden Zero](../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) | Scores, baselines, and records become an account of value whose excluded conditions must remain contestable. |\n| [§5→0 · #1 — QL, MEF, Bimba, and Harness](../../../../section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md) | Provenance and revision give the abstract account a technical body without confusing its audit trail with the relation itself. |\n| [Language, Symbol, and Dialogue](../../histories/language-symbol-dialogue/HISTORY.md) | Connects symbol, signification, and shared meaning to the existing historical route. |\n\nThe cluster supplies a disciplined vocabulary for the movement from mark to account to return. Its entries are invitations to retrieve the source shelf and the canonical passage, never substitute warrants.\n\nRelated etymological movement: [[Encounter, Region, Countenance, and Count — The With-Field Becomes an Account]] gives this cluster its prior field. The circulating mark begins in encounter, becomes countable through naming and differentiation, and returns as an account addressed to another."
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "start_line": 19,
+      "end_line": 43,
+      "relation": "Whole symbolic relation, seam and recursive interpreter return; read complete manuscript.",
+      "provenance": "Authorial synthesis, not external philological evidence.",
+      "sha256": "e3a57cce16073324c647f808dcdd485541cbf3c85be87f9000655651b21322a6",
+      "text": "\n## The living fraction\n\nThe archetype as such never appears. What appears is an archetypal image: a dream, god, number, symptom, fantasy, narrative, concept, bodily intensity, social formation, or pattern recognised across several of these at once. Yet the image carries a power that its visible content cannot contain. It gathers associations, redistributes feeling, alters the field of possible meanings, and draws a life into trajectories which no single interpretation commands. The archetype becomes effective through representation while remaining irreducible to everything by which it is represented.\n\nQL first writes the native relation as unrepresentable ground, relating stroke, and representable mark: `0` is the ground which no appearance exhausts, `1` the mark through which it becomes determinate, and `/` the AND/OR activity which keeps ground and mark distinct while reading each through the other. In the psychic register, archetype as such and archetypal manifestation instantiate this relation exactly:\n\n$$\n\\frac{0}{1}\n=\n\\frac{\\text{archetype as such}}{\\text{archetypal manifestation}}.\n$$\n\nHere the ground operates psychically as irrepresentable ordering capacity, the mark as representable manifestation, and the slash as the symbolic activity through which each becomes legible in relation to the other. The symbol cannot therefore be confined to the manifest `1`. A living symbol is the complete `0/1` event: a determinate form whose force lies in its continued participation in an unobjectified depth. When the form ceases to conduct this relation, the symbol becomes a sign with a settled reference, an inherited shell, or an idol occupying the place of the power it once transmitted.\n\nThe broken *symbolon* gives the relation its material image. One half does not imitate an absent whole; its fracture makes the absent counterpart operative in the present token. Recognition occurs at the seam. The half authenticates because it carries the shape of a relation which neither separated piece can manufacture alone. In the psychic register, an archetypal image has this same constitution: its particularity gives the unknown ordering factor a local face, while its strange excess keeps the local face open to the field from which it came.\n\n`X/x` is QL's native determination at Pattern: capital `X` names determining capacity and lower-case `x` its indefinite particular. Archetypal recurrence is its psychic instantiation. Across dreams, myths, symptoms, concepts, and historical formations, multiple `x` formations make `X` legible as a recurrent capacity without turning that capacity into one more image. The Ground relation `0/1` has acquired a patterned body at `X/x` while retaining the excess through which further instances can differ.\n\n## The eightfold life of the archetypal relation\n\nQL's six-position generative body and eight-turn traversal answer different questions. The sixfold gives the two implicate poles and four explicate relational positions; the eightfold places that body between its pre-determinate threshold and its phase-flipped return. Symbolic experience can therefore traverse all eight without becoming the derivation of the eight. At `−/−`, relational capacity has not yet divided itself into an ordering factor and its appearance. At `0/1`, the irrepresentable becomes available through an image without becoming representable as such. At `?/!`, the image questions consciousness in the same act by which it asserts that something has appeared and demands a response. At `−/+`, libido withdraws and extends, the symbol attracts and repels, and the psyche gathers around a tension whose energy cannot yet be allotted to one settled meaning. At `X/x`, force becomes pattern: another dream, another myth, another event can be recognised as a transformation of the same determining capacity. At `AM/IS`, the symbol passes between lived first-person presence and third-person predication, between what occurs in me and what can be said of it, with interpretation itself occupying the second-person slash. At `∞/dx`, an inexhaustible field enters an exact local change; the symbol transforms this life here without enclosing the depth from which the transformation takes its force. At `1/0`, the formed image turns consciousness toward the ground it presupposes and cannot capture. Individuation completes no inventory of the archetype. It recognises the life as a trajectory within a greater ordering relation and returns its achieved differentiation to that relation.\n\nThis traversal places symbolisation inside self-reference. The image refers through its object into the conditions by which object and interpreter become mutually legible. Through the response it evokes, it alters the interpreter, the field of interpretation, and the future meaning of the image itself. The symbol includes its own mediation among its effects. Each return changes what can next be seen, so that the `1` produced by one circuit becomes a condition within the following `0`. Symbolic life is recursive because its products re-enter the field that produced them.\n"
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+      "start_line": 7,
+      "end_line": 57,
+      "relation": "Knowledge as provisional trust anchor versus projected distrust; whole revision read with later ratifications.",
+      "provenance": "Mixed developmental provenance; exact first-person chiasmus unconfirmed.",
+      "sha256": "8fcd965a4da2cba357ffd7203eb141bd5fd654f8cf0f0ba897d3bf5589aa94bd",
+      "text": "## 0. The working thesis — full form, undiluted\n\nThis has to be stated in full, not compressed to one sentence, because the compression is exactly what drops the operative half of the claim.\n\n**From the chat, verbatim, the spine — \"The claim, stated plainly\":**\n\n> \"Knowledge is a performance of trust wearing the mask of certainty. Underneath every 'I know X,' there's a prior, unconscious verdict — this works for me or this fails me — and the knowing is the socially presentable garment thrown over that verdict after the fact. This is why people can hold contradictory 'knowledge' without noticing the contradiction: the contradiction is only visible at the level of propositions, but propositions were never the load-bearing structure. Trust was.\"\n\nAnd Frank's own sharpest restatement of it, just given: **knowledge, being always provisional, hasn't accepted that beyond the certainty it projects, the real relationship to reality is one of trust — and knowledge in its various forms either gives provisional anchors for trust, or projects out distrust upon a scapegoated object.**\n\nThat second half — the bifurcation into two things knowledge *does* with the trust it's hiding — is the part a one-sentence gloss loses, and it's the part that actually explains every diagnosis in the Fall section. From the chat, \"Why atomization makes this acute\":\n\n> \"Trust, in its healthy form, is distributed — it lives in a web of relationships, embodied competence, lineage, land, ritual, family, all the slow infrastructures that let a person hold uncertainty without panicking. Sever those ... and you don't get an absence of trust, you get a vacuum with enormous suction. The person still has to place trust somewhere — it's not optional, it's structural... Desmet's mass formation is exactly this: free-floating anxiety with nowhere organic to land, offered a single narrow object it can finally, thankfully, trust completely. That object doesn't have to be true — it has to be available and totalizing, which is precisely the diabolical structure ... restaged at scale: a name stepping into the role of the thing that can create, destroy, conceal, and reveal, claiming the totality that belongs to the unnameable ground of trust itself.\"\n\nAnd, stated earlier in the same conversation, the mechanism of the battleground:\n\n> \"it's why trust becomes the battleground rather than knowledge: whoever occupies 'the hole' first gets the trust by default, because the alternative (trusting the unnameable directly) has no object to steady the nerves.\"\n\n**Why this maps exactly onto the essay's own already-derived apparatus, without needing new machinery.** The essay has already established, independently, that knowledge is structurally, permanently provisional — the entire opening move (Gödel's incompleteness, *neti neti*, \"True knowledge always entails its own deeper, conditional mystery,\" line 13; \"every act of knowing is partial, every system a circle drawn in reality rather than around it,\" the Humility passage). What the essay hasn't yet said is what Frank's thesis adds: knowledge, faced with its own permanent provisionality, has exactly two ways to relate to that fact — and they are the essay's own two accountings, dia-ballein and syn-ballein, applied for the first time specifically to *knowledge's relationship to trust*:\n\n- **Syn-ballein-mode knowledge — provisional anchors.** Knowledge that accepts its own incompleteness and functions honestly as scaffolding — the \"slow infrastructures\": lineage, land, ritual, family, embodied competence. Knowledge held as 0/1, the mark offered without severing it from the ground it can't capture. It doesn't resolve uncertainty falsely; it gives something real to stand on *while holding* uncertainty.\n- **Dia-ballein-mode knowledge — distrust, projected, scapegoated.** Knowledge that denies its own provisionality, claims a certainty it hasn't earned — and because the distrust generated by an actually-uncertain reality doesn't vanish just because knowledge pretends otherwise, that unmetabolized distrust gets displaced onto an external object instead. This *is* Girard's scapegoat mechanism (line 79) and Desmet's \"clear enemy\" (line 85), restated at the level of epistemology rather than sociology: the 1 + (−1) = 0 cancellation-arithmetic already in the essay (line 39), where the \"−1\" knowledge refuses to hold as its own honest uncertainty gets exported onto a scapegoat, and the projection itself is what lets the claimed-certain \"1\" feel whole.\n\n**This is the actual thesis driving every note below — not decoration on the Fall section, its diagnosis.** Palantir/Girard, mass formation/Desmet, the institutional blind spot, the Antichrist, even the Eden/tasting material (savour sought in the object rather than recognized as the taster's own nature, line 127) — all of them are instances of knowledge failing to accept its own provisionality, and consequently either offering itself honestly as a trust-anchor, or — in every diagnosed case — projecting the distrust it can't hold onto a scapegoated object, a false ground, or an idol claiming the totality owed only to the unnameable.\n\n**How this connects to the essay's own existing vocabulary** (supporting detail, not the lead): the essay already has two names for what ordinary speech calls trust, which is why \"trust\" language, where it's added, should mostly gloss what's already there rather than compete with it:\n\n- **Syn-ballein / the symbolon** (line 41) — the structural, relational register. A symbolon's entire historical function *was* trust-verification between strangers separated by time and distance: two halves kept apart, refitted later to prove a bond. The diabolon (line 41) doesn't divide something abstract — it severs the trust-bond specifically, teaching enmity where the halves were built to prove recognition.\n- **Eros / icchā / the desiring-between** (Hesiod at line 45, Plato's Symposium at line 109, icchā at line 199, \"the eros of logos\" at line 267) — the active, willing register. Eros, per the essay's own reading of the *Symposium*, \"is not a being that desires — the desiring-between,\" the *metaxu* between Poros and Penia. That is trust's exact structure: not a possession (a settled \"1\") but a living betweenness continually re-entered, never secured once and for all.\n\nSo the integration strategy is: **introduce \"trust\"/\"distrust\"/\"betrayal\"/\"faith\" mainly as plain-register glosses at the points these two technical strands are already operating** — not as a separate new topic requiring its own real estate in six different sections. This is more economical and better-warranted (rubric Teaching gate: gloss in place, don't import).\n\n**Why this unifies \"The Fall, and What It Reveals\" into one argument rather than six adjacent case studies:** every diagnosis in that section — the tasting/sapere material (knowing-relish mistaken for a property of the object), the institutional blind spot (subjectivity denied standing so it can be mined), Palantir/Girard (scapegoat mechanism as manufactured collective trust-restoration), transhumanism (escape from ever needing relational trust again), the death-drive split (self-loss as trust vs. self-loss as trust's collapse), Jung/Desmet mass formation (severed trust re-landing on a false totalizing object), the Antichrist (\"I and the Father are *not*-One\" as a declaration of severed trust) — is the same single mechanism: **knowledge (the mark, the made/bounded thing) substituting itself for trust (the ground, the living relation), claiming to secure or manufacture through possession/control what only continually-renewed relation can give.** Naming this once, cleanly, is worth more than decorating each instance separately.\n\n**Structural payoff this licenses (bigger than any single insertion):**\n- The completed theology (omnivalence + omni-lemmicity, pending §5.2) is the reason trust in this God can never be naive — it has to be the harder thing the \"faith\" register names: trust that keeps extending exactly past the point where the ground has shown it can genuinely withdraw. Job survives on these terms; he could not on the classical four alone.\n- Epi-Logos / Deferential Intelligence (line 269-271) reads as the essay's own constructive answer to everything diagnosed in the Fall section — a system built to refuse the one move every diagnosed power-structure makes (claiming totality, occupying the vacated trust-position) — once trust is named as what's at stake throughout.\n- \"The fall\" is *defined* twice, 200 lines apart (line 37 and line 241/\"The fall is nothing other than the refusal of this double movement\"). Trust, placed correctly, is what lets a reader feel these as one statement returned to, not a coincidental echo.\n\n---\n\n## 1. F-block resolutions\n\n### F1 — line 45, Hephaestus's net (close needs redoing + logical register brought in preemptively)\n\n**Current close:** *\"...intelligent craft betrayed by beauty, divorced from it, weaponises for capture, the mesh drawn tight over what it could not hold. That net returns below: first in full song, then as the woven surveillance of our own century.\"*\n\n**What's actually being missed:** this passage is a trust story, not just a capture-image. Hephaestus's marriage to Aphrodite is already named as a *made thing* — \"beauty bound to craft with nothing moving between them and nothing begotten, techne without its fire\" — one more of his own \"finished and bounded things,\" not a relation he trusts into. Ares and Aphrodite's bond is the dangerous, exposed, genuinely risked one, and it's *that* bond, not the safe one, that begets Harmonia (and, some tellings, Eros). When Hephaestus discovers the affair, his response isn't to trust, confront, or grieve — it's to engineer: total surveillance, capture, public tribunal. This is dia-ballein-mode knowledge exactly, per §0: unable to hold the actual trust/distrust of the marriage as his own to work through, he projects it outward as manufactured evidence and a public tribunal — the scapegoating gesture in miniature, expose-and-shame substituting for a provisional anchor he never built. And critically — this is the payoff currently sitting 60 lines downstream at line 103 and not yet gestured at here — **the net fails.** Nothing cancels. The bond was never the kind of \"two\" a net can hold, because it was already syn-ballein.\n\n**Direction for the close:** don't give away the full payoff (that belongs at line 103), but plant a promissory note in the essay's own established style (cf. \"the Quaternal Logic section weighs it exactly,\" line 39). Something like: register that the net's capture will prove unable to reach what it meant to hold — and that what the affair generates (Harmonia; Eros, arriving one sentence later via Hesiod) is the answer the net cannot touch. This also sets up the Eros cross-link (§2 below).\n"
+    }
+  ],
+  "raw_skeleton": "# symbol-account-and-trust\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

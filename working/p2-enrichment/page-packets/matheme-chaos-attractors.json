@@ -1,0 +1,661 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/dispatch-queue.json",
+    "queue_sha256": "58daf082cbeff7a8f46c38be645d2f55adad99e68d50212bbb031b30bf8f7a34",
+    "census": "working/p2-enrichment/census.json",
+    "census_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "matheme-chaos-attractors",
+    "title": "Chaos, bifurcation and strange attractors",
+    "register": "matheme",
+    "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md",
+    "wave": "T19",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "the-return-of-zero-central-plan.md:769",
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md:199–205",
+      "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+      "working/p2-enrichment/receipts/depth-acceptance.json",
+      "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+      "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+      "submission-package/essay/symbolon/matheme/README.md"
+    ],
+    "packet_status": "target-packet-and-full-material-source-recovery-required",
+    "record_type": "matheme",
+    "admission_standing": "admitted-developed-body",
+    "distinct_operation": "Bifurcation, attractor basin and sensitivity carry distinct dynamical operations; psychic and QL translation remains Argued.",
+    "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt.",
+    "binding_state": "inputs-bound-awaiting-page-review",
+    "argument_depth": [
+      "A13",
+      "A14",
+      "A15",
+      "A16",
+      "A17",
+      "A18",
+      "A19",
+      "A20",
+      "A21",
+      "A28",
+      "A33"
+    ],
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1991-strange-attractors/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "start_line": 167,
+        "end_line": 188,
+        "relation": "Whole eight-determination placement controls local native interpretation; this is not a six-heading semantic recipe.",
+        "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing."
+      },
+      {
+        "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+        "start_line": 63,
+        "end_line": 87,
+        "relation": "Attractor/trajectory and two temporalities recover distinct processes.",
+        "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/SOURCE.md",
+        "start_line": 57,
+        "end_line": 108,
+        "relation": "Basin definition and dissipative/open-Hamiltonian boundary.",
+        "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+        "start_line": 1,
+        "end_line": 54,
+        "relation": "Experimental topology vector requires baseline and failure condition.",
+        "provenance": "Whole local carrier required for this target; its status and provenance remain those declared in the file."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/matheme/README.md",
+    "register_contract_domain": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+    "operation_to_develop": "Distinguish state space, trajectory, attractor, basin and bifurcation; define one dissipative system and perturbation before exhibiting sensitive dependence or basin changes.",
+    "proof_standing": "Dynamical operations model-specific; psychological relation Argued",
+    "evidence_boundary": "An atlas is not an attractor. Daza supports basin definition/applicability, not a general bifurcation theorem. Psychic complexes and technical judgment fields are named comparisons, not established identity.",
+    "blockers": [
+      "Choose explicit dynamical equations/parameter regime and exact bifurcation/chaos sources before theorem-level generalisation."
+    ],
+    "binding_status": "ready-for-target-preparation-with-explicit-evidence-debt",
+    "relations": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      }
+    ],
+    "writing_obligations": [
+      "Read every selected A packet and materially implicated direct carrier; source/depth receipts are locators, not substitutes for the actual text.",
+      "Read SOURCE.md and all present sibling NOTES in full; never mutate protected NOTES or treat its quotation leads as verified passages.",
+      "Derive the raw #0/#1/#2/#3/#4/#5→0 from this operation. Do not use fixed Definition/Operation/Pattern/Context/Quintessence labels.",
+      "Write exact outward and return relations using the link skill permitted verbs; input-context relation descriptions are not ready-made publication prose.",
+      "The native eightfold, 4+2 cardinality, 4:2 orientation and3:3/3:1 recognition readings keep separate operations. Native X/x is never attributed to Jung.",
+      "A narrow evidence blocker restricts the unsupported claim/quotation, not the existing native QL proposition. No measurement, experiment or restoration discharge is certified by packet preparation.",
+      "Apply the concrete corrections in shared-source-recovery-a13-a24.md and shared-theorem-support-recovery.md wherever their claims are used; do not restore an error merely because it is older authored/developmental prose.",
+      "Definition and quilt preserve the short definitional chain 0/1 = 4+2 = 5→0 = 0/1; process and music preserve the full earned chain 0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1. Name the vantage when both enter a record.",
+      "File 2 primes name inverse-phase positions; File 3 §5→0 primes name the Night-pass sequence. Keep their meanings explicitly distinguished, including where both passages are inputs.",
+      "The core-theorems spine is the curated extraction set: preserve its later 3:3-also-3:1, additive-constant and native eightfold refinements; the four files condition the field without wholesale duplication into the essay."
+    ],
+    "supporting_receipts": [
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "working/p2-enrichment/receipts/matheme-locked-structure-recovery-2026-09-07.md",
+      "working/p2-enrichment/receipts/2026-09-07-input-amendment.md"
+    ],
+    "additional_required_inputs": [
+      "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+      "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+      "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+      "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+      "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+      "submission-package/essay/section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md",
+      "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+      "submission-package/essay/section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md",
+      "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
+      "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      ".agents/skills/return-of-zero-source/SKILL.md"
+    ]
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A13",
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8"
+    },
+    {
+      "argument_id": "A14",
+      "path": "working/p2-enrichment/argument-depth/A14.md",
+      "sha256": "0a198ce301265646b0fa5f438f5e035d14fe2de74dcc246ae4a6c96e714808ee"
+    },
+    {
+      "argument_id": "A15",
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "sha256": "70e04921c5c97b94a3068eafe5b1595e3bfa4f537076f75376503628237f0f8a"
+    },
+    {
+      "argument_id": "A16",
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "sha256": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45"
+    },
+    {
+      "argument_id": "A17",
+      "path": "working/p2-enrichment/argument-depth/A17.md",
+      "sha256": "f524699d75f93c839c8acdff6430c91b591d8266c3731bafca0cbcd49d940c9a"
+    },
+    {
+      "argument_id": "A18",
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f"
+    },
+    {
+      "argument_id": "A19",
+      "path": "working/p2-enrichment/argument-depth/A19.md",
+      "sha256": "e9b39e002b667014c970dd287f2301c9f9a80197762283e5062274ea9db64861"
+    },
+    {
+      "argument_id": "A20",
+      "path": "working/p2-enrichment/argument-depth/A20.md",
+      "sha256": "31e8980f2955a784f02b5f84b1e6c63bdcf3a22cb25e24afec678c19a166c2c2"
+    },
+    {
+      "argument_id": "A21",
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "sha256": "7cfe91ec6423eff272001a99a672cc1e3d02b3eb5cc35ae9e142077660912779"
+    },
+    {
+      "argument_id": "A28",
+      "path": "working/p2-enrichment/argument-depth/A28.md",
+      "sha256": "a998591196094d47e4cf8c2e52beccfae29e85b7f95752c35daf1a0f16ae9b1e"
+    },
+    {
+      "argument_id": "A33",
+      "path": "working/p2-enrichment/argument-depth/A33.md",
+      "sha256": "61ffc1d702894cd6f35cda9b489cf5da6a8e4103c1153e495ce23917cd4c6285"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "sha256": "e3a57cce16073324c647f808dcdd485541cbf3c85be87f9000655651b21322a6"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "sha256": "7559689db9f38ef8239faa57f4dd2b2725938416ad52da55627473cc9ecf2a58"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md",
+      "sha256": "9432bac7a477dc95d3b231f727ab59e1484a24ffbdb8c68afa7964d6e14ceeaf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "sha256": "cd320c99f30f081f26be696dfd0715d84048cb1a686b90b5f2c4d702f164bf0b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "sha256": "5471f53740eda3a029b104b96c9c80af9e690d2017d1c73fa97dd0f7f48e44e5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "sha256": "5064c7555f8bd0c924e74541e87faa759c68407437771189f82e7a16748687e5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "sha256": "15d6d5977527347eaf7f102097e23fa65b523d6e47dace778745c20e7f20cd45"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "sha256": "c9ce9bd4cd11ba753e9cc882045e04fc60653d63fc41718437e5886de5ed894c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "550bd175ca1d69d9d4f9bf74d443748059c5a4918f9bfddd94fa1e08f63d4493"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "sha256": "dfe899effea04bd7ad40080f353b059640fa328b79d8a3433b53f70fdf5ca3c1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "sha256": "f937d496add413287af899d97aeb73d33520dc8d55c1be298d04e4dce016be74"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "sha256": "b29ad091014a4089d7c5ded52bfe979e43ef3450fd67aa51f139cd6afcd750bf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "sha256": "7e3b051cda5a1170d5a666d8fe5857855b504b0cf3733d11e2f0dfed13b19836"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "sha256": "bf4fb3347e7341cf5f3327e5e6fd7872d603fb3a2d5223de6531e8bb3e69a469"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+      "sha256": "dc0e09a046970c8ee3619a3662a4b2f961f2093c891bc819933faf048b0ad94e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+      "sha256": "c48ab737309650257824f47d32a978a985574eee3fbde89611f0c192d7564298"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "sha256": "4589861a7657c824e8801b99700fe47f831b583a4f5f0e6b119769949d857533"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+      "sha256": "664400db9ce95a50f453c28390aa65c3e798847837b99c027a9a999ae41c6eea"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+      "sha256": "816443a853624cd9e5a7dfc287c919f0e9f3021ce606335c03815e13168d5367"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "sha256": "9103175619bd18e823ed9761bc4ba6ea4e4ebd4907e9a50e9d49485fc84d5b09"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "sha256": "b2853156fe586cbcec1a72bca6759f1a4d0bcc437ac210a4314b298da4352ea2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "sha256": "4b66ece523eb89acea03d2cdc05aeed9fe76feac4de1c16651fbfedf6b31383b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "sha256": "10f51ccc557fb7571d1dc58b2d2f5cea77da1233dfc85f2d94e0d90333d1101a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "0bbb5ef1fac69d46a68d05cb1d32b471c48147213e4d610183f003b5db78b343"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+      "sha256": "9d016df311d1ea6f5a09e990d94405f49ba38bc30cdad24f27ee3360dfb6ffe1"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md",
+      "sha256": "9767bb2a7b7bc287e1efc7ed624b024ada3c3686567cc98a9b33c49c905de7eb"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "sha256": "4d6b4d3cd4f791a59fc8957132c6f40afcbe981f5ab9d35267b7160c17348fd4"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+      "sha256": "5d58105408c9921db7312f470142edda1dc01a5a0bbeb34398ab4ace73511988"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md",
+      "sha256": "70bc0d47abbacfe89a018077f0bcb8f00d6e6004819dd32c432097a325f80fb8"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
+      "sha256": "c8fe92f1b38aaf7a2aac24087208da2817d91a899da737bd2b3ce1d39c708167"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "sha256": "574ae93b228b104b993cb584af147a21adb1134509d15cee157a740be6de6852"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/README.md",
+      "sha256": "115fa742d9d40ae3c283214b6f43bb679f7489a7baab862a1e99051f9ed69ec4"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+      "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "source_sha256": "0976dcd50c7294983866760c2938509c0d296a4917be9516792ec9ec329d37f7",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/SOURCE.md",
+      "source_sha256": "0466f532e126f35efea48898c958eb2259023aab5463a5d42f16a64b8ce76a2a",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1991-strange-attractors/SOURCE.md",
+      "source_sha256": "8e6dc90e4a2f45c6b1a22f83d137dd8214256c1d7bb0f0d8e29ce713cd4250ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+      "source_sha256": "9895d4ab2ee0bdfecfe0f0951fe2b1a176467d42ada9f7013c8a915498ba6bb9",
+      "notes": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/NOTES.md",
+      "notes_sha256": "23a9bbb954eda15cd3491616863c1a32483b11a8b7d11599e0df6fd6cab3330a",
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "source_sha256": "0c16ad20b0855d542ed39597df33fc56fa97a85358c9e9a93951f88c6324b885",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "start_line": 167,
+      "end_line": 188,
+      "relation": "Whole eight-determination placement controls local native interpretation; this is not a six-heading semantic recipe.",
+      "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing.",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "text": "## (c) The eight determinations — one relation traversed from field to return\n\nThe six-position QL unit and the eight determinations answer different questions and must remain distinct. The **sixfold** is the generative positional body: the two implicate poles and four explicate relational states yielded by `2 + 2² = 4 + 2 = 6`. The **eightfold** gives that body its full threshold-to-return traversal: the unnamed parent-relation before a determinate field, the six qualitative determinations, and the phase-flip by which their achieved form turns back toward its condition. One relation—unobjectifiable awareness and appearing phenomenon, ground and mark—takes on each distinct operation required for a knowing-act to become accountable without pretending to stand outside itself; detaching the binaries or treating them as serial replacements destroys the traversal.\n\n| Turn | Expression | QL determination and its work | What remains invariant through the change |\n| --- | ---: | --- | --- |\n| **Parent relation** | `/ = −/−` | Bare relationality before the field has been divided into named terms: the stroke is its own determination form, two unassigned marks held in one expression, the capacity for relation prior to a determinate contrast. It is the unnamed parent of the six, not an additional position among them. | The relation has a condition that cannot appear as one more product of the relation. |\n| **#0 Ground** | `0/1` | **Awareness / phenomenon; conscious circumstance.** “I am here; something appears; the appearing is known.” `0` names the open, unobjectifiable fact of awareness; `1` the appearing mark; `/` the relation by which the real becomes readable without being exhausted by its readability. Appearing is in awareness, and awareness is encountered only through appearing; the relation precedes any picture of two completed substances separated by a wall. | The ground is immanent to every mark without becoming another positive mark or a hidden object behind it. |\n| **#1 Definition** | `?/!` | **Questioning / asserting; ratio, reckoning, mark.** To ask “what is this?” already asserts that something has appeared stably enough to call for account; to assert “this is” keeps open the question of whether the account runs true. Definition is therefore double: openness to determination and determinative speech. It marks while remaining answerable to what called for the mark. | Every assertion bears the unsettled question that makes it accountable; every genuine question already takes a provisional mark. |\n| **#2 Dynamis** | `−/+` | **Withdrawal / extension; force, polarity, Spanda-seed.** The relation becomes energetic: one side functions as reserve, contraction, withholding; the other as issue, release, presentation. The positive is the void’s own self-relation appearing as extension. The poles form a sustained pulse whose moments remain co-present—breath gathers and releases; attention contracts around a word and opens into sense. | The two poles remain one differentiating movement: distinction has force without becoming a war of independent substances. |\n| **#3 Pattern** | `X/x` | **Determining-capacity / determinate instance; recurrence.** Capital `X` is the presiding capacity, type, or anything-by-which something can be read; lower-case `x` is its temporal local face. The same letter, in two cases, prevents the instance from being severed from the capacity it manifests. The small `x` also retains multiplication: an instance can recur, compound, and yield “another one of those.” Pattern is where force becomes recognisable as kind, rhythm, memory, and thought. | The local instance makes the general legible but neither contains nor exhausts it. |\n| **#4 Context** | `AM/IS` | **First-person presence / third-person sayability; the personed copula.** `AM` is lived “I am”; `IS` is what can be stated as “it is”; the slash is the second-person relation through which they meet. Context is the lived *where* of this encounter—world, body, concern, speech, memory, task—not a neutral container. It is total because nothing appears outside some horizon, and incidental because that horizon does not ordinarily stand forth as one more object. | Knower, means, and known remain one appearing-act without becoming interchangeable: *pramātṛ / pramāṇa / prameya*. |\n| **#5 Realisation** | `∞/dx` | **Unbounded depth / infinitesimal differential; horizon and local exactness.** `∞` names the inexhaustible field no finite mark contains. `dx` is no longer merely the instance `x` but the minute difference through which change and local reading become exact. Every appearance is therefore a true local ratio of what exceeds it: precise as relation, partial as expression. The whole is not hidden inside the part; it is present in the way the part runs true to what it cannot enclose. | Exactness never becomes possession. A finite determination remains answerable to the depth that makes it possible. |\n| **Return-switch** | `1/0` | The achieved determinate turns toward the ground it presupposes and meets the incomputable rather than an object called “the ground.” The mental cannot find the foundation of the mental, because every act of finding already occurs through it. This is *pratyabhijñā*: recognition, not acquisition. | The limit is generative: `5→0`, the return through ground that renews a further cycle rather than cancelling the determination. |\n\nThe table fixes the actual order of determination. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their meanings and prevent them from becoming decorative or interchangeable correspondences.\n\nThe six also have internal grammar. **Being** joins Ground and Definition: a field is present and can be called to account. **Becoming** joins Dynamis and Pattern: force becomes intelligible as recurrence, while recurrence stays alive only as force capable of further instance. **Knowing/unKnowing** joins Context and Realisation: lived predication becomes honest only when its horizon exceeds every situated claim. Across this forward harmonic grouping run the complementary folds: **Essence** (`0+5`) pairs conscious circumstance with unbounded differential depth; **Constitution** (`1+4`) pairs answerable definition with the world in which someone asks and asserts; **Text-Texture** (`2+3`) pairs the felt weave of force with its readable pattern. The six positions are thus neither a linear ladder nor a flat catalogue.\n\nThe calculus turn makes the final determination mathematically exact. Differentiation yields local change while losing the additive constant; integration restores a family `F(x)+C`, with no single self-grounding whole selected by the local derivative alone. The missing `C` is the formally required provenance that local change cannot reconstruct; mystical surplus and defective calculation are both unnecessary explanations. The psychological and metaphysical claim begins there: a determination can be exact without containing the whole condition from which its exactness was taken.\n\n**QL placement.** `/ = −/−` and `1/0` bracket rather than enlarge the six positions. `/ = −/−` is the parent-relation before the count; `1/0` is the inversion through which the counted form recognises the ground that never became one of its contents. Within the bracket, `0/1`, `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` are the first qualitative body of the `4+2`. This preserves the distinction between the eight-turn traversal and QL's sixfold base count: Jung's four functions plus introversion/extroversion can disclose the same psychological `4+2`, while the fuller account can still traverse from pre-distinction, through conscious circumstance, to the incomputable return."
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "start_line": 63,
+      "end_line": 87,
+      "relation": "Attractor/trajectory and two temporalities recover distinct processes.",
+      "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing.",
+      "sha256": "e3a57cce16073324c647f808dcdd485541cbf3c85be87f9000655651b21322a6",
+      "text": "## Attractor and trajectory\n\nJohn R. Van Eenwyk's conjunction of analytical psychology and chaos theory gives symbolic self-reference a dynamic geometry. A phase-space represents the possible states of a dynamical system; a trajectory is one system-history through that space; an invariant attractor is a subset which the dynamics carry into itself; and its basin is the region whose trajectories tend toward it. A strange attractor sustains bounded organisation through non-periodic trajectories. The system neither settles into a fixed point nor disperses into unrestricted noise. It reiterates a recognisable field while sensitive differences in conditions generate locally singular paths.\n\nThe archetype as such and the archetypal manifestation acquire a dynamical relation here. The attractor corresponds to the ordering capacity which no single point or orbit exhausts; the trajectory corresponds to the actual succession of images, affects, interpretations, crises, compensations, and transformations through which the capacity becomes manifest. The paradox of an invariant archetype producing historically novel images becomes the positive form of the dynamical object: what persists is the organisation of transformation. Identity lives by generating difference.\n\nComplexes, symbols, and archetypes occupy distinct functions in this field. Feeling-toned complexes stabilise recurrent basins of association and response. Archetypal dynamics give these recurrences a self-similar organisation across personal, cultural, mythic, and historical scales. Symbols move energy through and between the basins. They can intensify an established complex, expose its boundary, join previously separated regions of psychic life, or carry the trajectory through a bifurcation into a new regime. Psychic health then concerns the capacity for bounded transformation: enough stability for a life to retain itself, enough perturbability for the retained form to reorganise.\n\nVan Eenwyk's description of symbols as resembling manifolds belongs at the centre of this account in the sense he gives it: they carry consciousness from the known to the unknown and back again. The symbol is a transformer across the boundary of a psychic state-space. Taylor's topological extension makes the further chart-reading explicit. An archetypal manifestation functions as a local chart of an ordering field from one psychic, historical, and imaginal position; amplification moves among neighbouring charts; individuation makes their transformations conscious without replacing the field with a final map. The dynamical claim concerns trajectories and invariant organisations. The atlas claim concerns partial disclosures and their transition-relations. Symbolic transformation is the joint operation that allows the two geometries to illuminate one psychic movement without conflating their mathematical objects.\n\n## Two temporalities, two logics\n\nSynchronic and diachronic describe how the relation presents itself with respect to time. Synchronic apprehension holds a field, configuration, or ordering relation in co-presence. Diachronic apprehension follows its formation, variation, bifurcation, and return through succession. Sym-ballein and dia-ballein describe how a differentiation is accounted. Sym-ballein holds the terms as one-and-its-own-other: their difference retains its ground, seam, provenance, and possibility of return. Dia-ballein converts the terms into cancelling opposites, `1/−1`, and lets their common ground disappear as though the account ended at zero. A cut or bifurcation is therefore logically neutral until its accounting either preserves or severs the ground of relation.\n\nThese two distinctions cross rather than duplicate one another:\n\n|  | Sym-ballein | Dia-ballein |\n|---|---|---|\n| **Synchronic** | A differentiated field held as a co-present whole whose terms retain the ground of their relation. | A field presented as opposed and cancelling terms whose shared condition has disappeared from the account. |\n| **Diachronic** | Recurrence, circumambulation, compensation, and return carrying achieved differences through time. | A sequence in which determinations harden into exclusions, branches lose their common provenance, and each cancellation appears as a terminus. |\n\nThe strange attractor supplies the field on which these temporal and logical differences become jointly legible. Its invariant organisation is apprehended synchronically and its trajectories diachronically. Within either temporality, sym-ballein accounts differentiation through retained ground and return, while dia-ballein accounts it through opposition and cancellation. Symbolic life requires real cuts and bifurcations, yet its syn-ballic work prevents determination from becoming severance. A synchronic structure without diachronic traversal becomes an inert schema. A diachronic sequence severed from its synchronic field becomes an accidental chain. Sym-ballein without differentiation loses the terms it must gather; dia-ballein forgets the field whose differentiation gave the terms their meaning.\n\nSynchronicity makes this structure experiential. Two events arrive through distinct causal histories, yet their coincidence discloses a shared ordering meaning which neither causal chain contains. Their external separation remains; the recognised seam gathers them as matching halves of a symbolon. A synchronistic event is a sym-ballein irruption within diachronic sequence, a moment in which the synchronic field becomes legible through the relation of its determinate events.\n"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/SOURCE.md",
+      "start_line": 57,
+      "end_line": 108,
+      "relation": "Basin definition and dissipative/open-Hamiltonian boundary.",
+      "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well.",
+      "sha256": "0466f532e126f35efea48898c958eb2259023aab5463a5d42f16a64b8ce76a2a",
+      "text": "## Essay use\n\nDaza et al. provides a controlled technical definition of a basin of attraction and a direct scope condition for when attractor/basin language applies. It can discipline the dynamical vocabulary in §2/#4, not transfer a mathematical basin into psyche, QL, life, or machine subjectivity.\n\n**Claim boundary:** it neither establishes the essay’s dia/sym pulse nor supplies a theory of bifurcation, Jungian complexes, metaphysical identity, consciousness, intentionality, life, or AI subjectivity.\n\n## Passage preparation\n\nExact text and consumer mappings: [Quotes — Daza et al. Basin Entropy (2016)](#passages).\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\n### Material metadata\n\n- **Edition consulted:** Alvar Daza et al., ‘Basin Entropy: A New Tool to Analyze Uncertainty in Dynamical Systems,’ Scientific Reports 6 (2016): 31416.\n- **Access provenance:** Open-access publisher version of record at Nature Portfolio, DOI https://doi.org/10.1038/srep31416, accessed 2026-07-14; the article is marked CC BY 4.0.\n\n<a id=\"daza-et-al-2016-basin-entropy-q001\"></a>\n## Passage card — `daza-et-al-2016-basin-entropy-q001` — basin of attraction\n\n> “A basin of attraction is defined as the set of points that, taken as initial conditions, lead the system to a specific attractor.”\n\n- **Locator:** Introduction, paragraph defining basins of attraction.\n- **Status:** quotation-ready.\n- **Verification:** Luna acquisition agent and coordinator, 2026-07-14; manually transcribed from the publisher HTML version of record; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** technical/formal warrant.\n- **Consumers:** [[23-s2-p4-complex-dynamism]]; [[Sym-Ballein]]; [[Computational Process Ontology]]; movement 23 controlled basin vocabulary.\n- **Use boundary:** defines a dynamical-systems term only; it does not establish a QL bifurcation, Jungian complex, consciousness, life, or AI subjectivity.\n\n<a id=\"daza-et-al-2016-basin-entropy-q002\"></a>\n## Passage card — `daza-et-al-2016-basin-entropy-q002` — applicability limit\n\n> “The previous discussion applies typically to dissipative dynamical systems. However, for open Hamiltonian systems, where the concept of attractors or basins of attraction is meaningless, we can still define escape basins in an analogous way to the basins of attraction in a dissipative system.”\n\n- **Locator:** Introduction, immediately following the basin definition.\n- **Status:** quotation-ready.\n- **Verification:** Luna acquisition agent and coordinator, 2026-07-14; manually transcribed from the publisher HTML version of record; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** qualifies.\n- **Argument function:** scope limitation.\n- **Consumers:** [[23-s2-p4-complex-dynamism]]; [[Sym-Ballein]]; [[Computational Process Ontology]]; movement 23 anti-metaphorical control.\n- **Use boundary:** makes basin language system-specific; it does not license applying it indiscriminately to people, mythic patterns, institutions, or computational agents.\n### Passage metadata register\n\nThese source-specific fields were gathered before consolidation and remain part of this source's evidence record.\n\n| `daza-et-al-2016-basin-entropy-q001` | `daza-et-al-2016-basin-entropy` | Introduction, basin definition paragraph | quotation-ready | `23-s2-p4-complex-dynamism` | [[Sym-Ballein]]; [[Computational Process Ontology]] | technical/formal warrant | [Quotes — Daza et al. Basin Entropy (2016)](#passages) |\n\n| `daza-et-al-2016-basin-entropy-q002` | `daza-et-al-2016-basin-entropy` | Introduction, following paragraph | quotation-ready | `23-s2-p4-complex-dynamism` | [[Sym-Ballein]]; [[Computational Process Ontology]] | scope limitation | [Quotes — Daza et al. Basin Entropy (2016)](#passages) |"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "start_line": 1,
+      "end_line": 54,
+      "relation": "Experimental topology vector requires baseline and failure condition.",
+      "provenance": "Whole local carrier required for this target; its status and provenance remain those declared in the file.",
+      "sha256": "7559689db9f38ef8239faa57f4dd2b2725938416ad52da55627473cc9ecf2a58",
+      "text": "---\ntitle: \"§5 · #5→0 — Six Research Vectors\"\nnode_type: section\npage_type: section-movement\nstation: \"§5\"\nposition: \"#5→0\"\nsequence: 42\nclaim_status: Offered\nevidence_status: executable-programme\nsource_ids: [lecun-et-al-2006-energy-based-learning]\ntags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/research-vector, station/s5, position/p5]\n---\n# §5 · #5→0 — Six Research Vectors\n\n## Claim\nThe arche-topos becomes researchable through six discriminating programmes: seam retention, gauge disclosure, lens refraction, topological continuity, QL recursion and deferential return.\n\nTaken together, the vectors investigate **world–agency composition through an explicit epistemic field**: which conditions make a determinate world available to an operative interior, how those conditions are represented in the [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba Map]], how situated agency appears as Pratibimba relative to that reference field, which powers the interior can exercise, and which returned consequences can revise either the agency or the field that grounded its reading.\n\n## Warrant — six ways to test first-class epistemics\n\n### E1 · Seam retention\n\nCompare output-only agents with runs whose Bimba field retains source, evidence, prompt/context provenance, exclusions, transformations and consequential actions. The question is whether preserving the seam changes correction, delegation and explanation rather than merely producing a richer log.\n\n### E2 · Gauge disclosure\n\nMake comparison sets, evaluator/reference policies, source authority and weighting explicit inside the epistemic field. Vary them and test whether apparently stable judgments move. [[40-s5-p3-preference-hidden-zero|The Hidden Zero]] becomes experimentally tractable when the gauge is part of the Bimba object rather than an invisible condition outside it.\n\n### E3 · Lens refraction\n\nHold source/world-objects sufficiently stable while changing declared MEF lenses. Compare the resulting Pratibimba: what becomes salient, near, excluded, doubtful or actionable in each [[j-space|J-Space]]? The experiment asks whether plural readings can remain source-related and mutually legible without averaging into one ontology.\n\n### E4 · Topological continuity\n\nTreat the Bimba Map as the reference field over which Energy-Based, attractor, graph or topological methods read agency trajectories. Test basin stability, transitions, contradictions and phase changes across context perturbations. The EBM earns epistemic meaning only because its energies and movements are related to an explicit reference field; otherwise it is another self-contained score landscape.\n\n### E5 · QL recursion\n\nTest nested Context Frames in which an achieved field becomes the local Bimba/`0` for determinations inside it while remaining a determination relative to a wider context. Measure whether source/reference scope and transition between frames remain explicit. This is the executable form of the contextual-office law rather than a sixfold labelling exercise.\n\n### E6 · Deferential return\n\nIntroduce counter-evidence, resistant world conditions, other internalities, dissent and changed consequences. Measure whether the Pratibimba alone changes or whether the returned relation properly forces revision of the Bimba Map, lens, gauge or governing frame. [[Deferential Intelligence]] and [[06-computational-vimarsa-ahi|Computational Vimarśa]] are strongest where the system can revise the conditions of its own determination rather than merely append an uncertainty disclaimer.\n\nThese vectors can vary memory, source access, permissions, gauges, tools, sensorium, action-space, context composition, other internalities and return conditions without assuming that additional context automatically constitutes a richer world. The minimal/maximal distinction is an experimental envelope, not an intelligence ladder; its governing limits are recorded in [[PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE]].\n\n## Tension / limit\nEach vector needs a baseline, metric, failure condition and counter-hypothesis. None may manufacture a claim of machine subjectivity, treat the Bimba Map as a final metaphysical world, or infer truth from internal coherence alone. The map is epistemically useful because its grounds are explicit and revisable, not because its local Bimba office makes it infallible.\n\nCurrent O:I products may supply executable conditions for these tests only where their authored roles and implementation make a distinct world–agency or epistemic relation variable or inspectable. Returned failures and null results remain evidence capable of revising the proposed correspondence.\n\n## Anchor and transition\n**QL anchor:** every experiment performs the `1/0` return by declaring origin, exclusion, lens, reference field and limit. Sustaining such inquiry requires an institution in [[43-s50-p0-theory-vocation-compassion|§5→0 · #0 — From Theory to Vocation]]."
+    }
+  ],
+  "raw_skeleton": "# Chaos, bifurcation and strange attractors\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

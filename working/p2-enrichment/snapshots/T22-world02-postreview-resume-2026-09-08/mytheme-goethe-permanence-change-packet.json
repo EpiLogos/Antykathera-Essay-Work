@@ -1,0 +1,541 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/snapshots/T22-world02-postreview-resume-2026-09-08/queue.json",
+    "queue_sha256": "db645471276eba5d11a79bad88f64427a251f2dd9fb9973b52bbb7a518e9ebad",
+    "census": "working/p2-enrichment/snapshots/T22-world02-postreview-resume-2026-09-08/census.json",
+    "census_sha256": "128829eded20f0caad603e5c4347751f9735ee6e6835c1fbb435cbc96b004a4c",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "mytheme-goethe-permanence-change",
+    "title": "Goethe — Permanence and Change",
+    "register": "mytheme",
+    "record_type": "whole-mytheme",
+    "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+    "wave": "T20",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+      "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+      ".wayfinder/maps/t20-t21-world-registers.md"
+    ],
+    "packet_status": "current-binding-required",
+    "binding_state": "inputs-bound-source-acquisition-debts-explicit",
+    "argument_depth": [
+      "A11",
+      "A12",
+      "A13",
+      "A16",
+      "A19",
+      "A23",
+      "A27",
+      "A35",
+      "A36"
+    ],
+    "argument_depth_roles": {
+      "A11": "Material whole-field consumer: A11 — The Two Ones — 0 = One, 1 = All; consult completed A11 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A11.md:18.",
+      "A12": "Material whole-field consumer: A12 — Mono/Poly — One / All, Whole / Many; consult completed A12 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A12.md:18.",
+      "A13": "Material whole-field consumer: A13 — Two Logics of Two — Dia / Syn; consult completed A13 depth packet before extracting this register’s operation.",
+      "A16": "Material whole-field consumer: A16 — Arche-Topos as Differential Field; consult completed A16 depth packet before extracting this register’s operation.",
+      "A19": "Material whole-field consumer: A19 — Complex as Local Arbitration Regime; consult completed A19 depth packet before extracting this register’s operation.",
+      "A23": "Material whole-field consumer: A23 — Trust, Faith and the Formal Limit; consult completed A23 depth packet before extracting this register’s operation.",
+      "A27": "Material whole-field consumer: A27 — Self and Other — Unity without Possession; consult completed A27 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A27.md:14.",
+      "A35": "Material whole-field consumer: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation; consult completed A35 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A35.md:14.",
+      "A36": "Material whole-field consumer: A36 — Advent of Integral Zero; consult completed A36 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A36.md:14."
+    },
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md",
+      "working/p2-enrichment/receipts/mytheme-primary-acquisition.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/literature/goethe/goethe-1983-selected-poems-nims/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+        "start_line": 1163,
+        "end_line": 1169,
+        "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Ratified office is One in change / Two Ones with light manuscript burden; full poetic enactment must be read before development.",
+        "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+      },
+      {
+        "path": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md",
+        "start_line": 197,
+        "end_line": 217,
+        "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Ratified office is One in change / Two Ones with light manuscript burden; full poetic enactment must be read before development.",
+        "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+      },
+      {
+        "path": "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+        "start_line": 13,
+        "end_line": 23,
+        "relation": "Primary work identity, exact whole-story/poem acquisition routes and edition boundaries for this admitted whole; use its named target section.",
+        "provenance": "Delegated source acquisition receipt, not canonical SOURCE and not proof of unclaimed full reads or selected-print collation."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/literature/goethe/goethe-1983-selected-poems-nims/SOURCE.md",
+        "start_line": 48,
+        "end_line": 113,
+        "relation": "Current source-house acquisition and intact telling supersede inherited missing-house flags.",
+        "provenance": "Canonical source house: selected witness, complete read scope and precise residual quotation debts."
+      }
+    ],
+    "relations": [
+      {
+        "target": "A11",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A11 — The Two Ones — 0 = One, 1 = All",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A12",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A12 — Mono/Poly — One / All, Whole / Many",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A13",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A13 — Two Logics of Two — Dia / Syn",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A16",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A16 — Arche-Topos as Differential Field",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A19",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A19 — Complex as Local Arbitration Regime",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A23",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A23 — Trust, Faith and the Formal Limit",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A27",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A27 — Self and Other — Unity without Possession",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A35",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A36",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A36 — Advent of Integral Zero",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C21",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C21 — Living Symbol / Idol",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C49",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C49 — The Two Ones — 0 = One, 1 = All",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C50",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C50 — Dia / Syn",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "etymology-homology-and-analogy",
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: homology-and-analogy",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/mytheme/README.md",
+    "additional_required_inputs": [
+      "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      ".agents/skills/return-of-zero-pages/SKILL.md",
+      ".agents/skills/return-of-zero-links/SKILL.md",
+      ".agents/skills/return-of-zero-source/SKILL.md",
+      "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+      ".wayfinder/maps/t20-t21-world-registers.md",
+      "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json"
+    ],
+    "target_operation": "Ratified office is One in change / Two Ones with light manuscript burden; full poetic enactment must be read before development.",
+    "whole_figures_and_relations": "Goethe Dauer im Wechsel, five eight-line stanzas; passing bloom, changing landscape/self, irreversible substitution, beginning/end, content/form and double aspects of the One. Full exact German/selected English remains source-read obligation before detailed line interpretation.",
+    "whole_sequence": "Identity resolved by delegated primary-publication/poem retrieval: Permanence and Change is admitted alias of Dauer im Wechsel; Nims title Permanence in Change, final stanza contains Double aspects of the One. Five-stanza progression must be recovered intact, not reconstructed from the final fragment.",
+    "specific_boundaries": [
+      "No substituted Goethe lyric, invented translation, or prose paraphrase standing in for the absent complete poem. Goethe’s Selige Sehnsucht in mixed chat is a different work and cannot satisfy this target.",
+      "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no.",
+      "Whole narration precedes element amplification; ending/aftermath qualifies beginning. Every interpretive edge keeps human-amplified:yes/no. No canonical motif/character identity by stealth.",
+      "Raw sixfold must be derived from this whole’s own movement; no Definition/Operation/Pattern/Context glossary. The form may host source/story/amplification substructure without turning its positions into universal semantics."
+    ],
+    "source_or_telling_blockers": [
+      "House and complete German witness available; selected1983 Nims page169 collation remains Open; same poem, no invented translation."
+    ],
+    "status": "binding-complete-poem-identity-resolved-selected-text-collation-open",
+    "canonical_write_authorised_by_this_file": false,
+    "restoration_acceptance": [
+      "Intact telling and active figures available, not topical illustration.",
+      "Original developed operation surfaced; direct authored wording/provenance preserved.",
+      "Every materially consumed source and sibling NOTES read in full by writer; acquisition/edition debt scoped exactly.",
+      "Written A/C/E and cross-whole relations return to exact occurrences; unratified edges remain no.",
+      "Argument-depth backcheck and T22 receipt report actual restored operations and undisclosed debt."
+    ],
+    "source_read_obligations": [
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+        "notes": null,
+        "notes_policy": "Full read, authorial provenance, never mutate",
+        "read_coverage": "Existing full-read shared receipts or new mytheme preparation source receipt; writer must reread complete material source/notes",
+        "readiness": {
+          "citation_status": "internal-ready",
+          "quote_status": "excerpts-indexed-internal"
+        }
+      }
+    ],
+    "binding_readiness": {
+      "input_addresses_and_ranges": "validated",
+      "full_source_read_coverage": "preparation full reads or exact shared full-read receipts; writer repeat obligation remains",
+      "source_expansion": "blocked only at named external/telling gates, never resolved by weaker paraphrase",
+      "amplification": "unratified interpretation remains no; programme authorisation does not manufacture human encounter"
+    },
+    "primary_acquisition_receipt": "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+    "external_required_recovery": [
+      {
+        "url": "https://www.lieder.net/lieder/get_text.html?TextId=6356",
+        "role": "Complete German poem reading; source agent encountered five eight-line stanzas, printed witness uncollated."
+      },
+      {
+        "url": "https://www.poetryfoundation.org/poetrymagazine/issue/71009/august-1970",
+        "role": "Primary Nims publication metadata; scan403 means full English scan not inspected."
+      }
+    ],
+    "dispatch_status": "developed-world-batch-02-T22-reviewed",
+    "previous_canonical_home": "submission-package/essay/symbolon/mytheme/poetry/goethe-permanence-change/WHOLE.md",
+    "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json"
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A11",
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "sha256": "19585deb79a5ec0dabb39493e413e0579e313adeab68051a783b6ad737584ab8"
+    },
+    {
+      "argument_id": "A12",
+      "path": "working/p2-enrichment/argument-depth/A12.md",
+      "sha256": "a4bfa473d034e31cd6cbd7afc45b96236929665a4dd42f4e3f056e3973c58b39"
+    },
+    {
+      "argument_id": "A13",
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8"
+    },
+    {
+      "argument_id": "A16",
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "sha256": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45"
+    },
+    {
+      "argument_id": "A19",
+      "path": "working/p2-enrichment/argument-depth/A19.md",
+      "sha256": "e9b39e002b667014c970dd287f2301c9f9a80197762283e5062274ea9db64861"
+    },
+    {
+      "argument_id": "A23",
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3"
+    },
+    {
+      "argument_id": "A27",
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "sha256": "2480e3c0322aa54e36bcd924ec3e60cb6e3430372125ad215d12f56b583080e0"
+    },
+    {
+      "argument_id": "A35",
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "sha256": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489"
+    },
+    {
+      "argument_id": "A36",
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+      "sha256": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659"
+    },
+    {
+      "path": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md",
+      "sha256": "a64e7f34f0232b465be8c3228f5cd41c9e400d9a26e61c319191222a5ae43f0a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+      "sha256": "64c950f68687f5011d3343f8ac30d855619246718d3696b1dc3e7bffd7a98cc0"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "sha256": "b348adc7004f5d0daf4ea4f62f6b081edc5e5dcccdfbad83746a2f2e9e59f849"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "sha256": "c919827dd202bbc9a397250844658ef6b6bfe56fb87cf6f0c0d39f9cce9076d0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "sha256": "718788ae38ebdb8a7ad87da6326c4a8002afcab763635e4d639293abfb6ea21d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "sha256": "ccadaf9e4feaeef2316168a8842e215963b06e48ae1cf654a91eb0f2f9f19bd4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "sha256": "3ea0f4275ce5243ec1a2ed47318d88a94a4efe287901739387598b777558ebf3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "sha256": "f112bee401499d8b46dc767d990a2255939370698f26f446b0138a50c708e1dd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "sha256": "c8926fc2a9f1064fee4e7292fc0b5c7442721c500b0d69e3bfa6a07ec58a6d76"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "sha256": "be90c7e86e251b30db3fecca4e38858a1f5617ec2f063b4f0aa88d0d6fb0e057"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "sha256": "17f1b0fae5566e57440648e67d1a0cd2306400fd69a2bfef7905d2cdcac82ceb"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "sha256": "74f832be9c2f28b3c0193b276b33cef3a9d9841508117edb59c50cb8bde59b4b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "sha256": "b075cb9b42b60e749c274d3ae6e23b3004eb940e72dfea34962cd2ee8eeaa08f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "sha256": "d5306d69dace504a5efa5ab2c73645b74edd650d8c9d77b543e582750dd9e5f3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "sha256": "830df9a53403d0d87d96311803d0dd97e4428ae41e0885e6b2720d2855512719"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "sha256": "8013c8e021f013c53e95b8c23cd21549bc989bfe0737c2b86fd2ad8658d2cf63"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      "sha256": "6474225a3550ec632cef24ad988ec2ad17295a63bd65e4e3fdec1614db90639f"
+    },
+    {
+      "path": ".wayfinder/maps/t20-t21-world-registers.md",
+      "sha256": "a7589d1b663854888c3767854478a9ea4564a988d770af24f2d30e7ac07204a0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "sha256": "3e64c000294d3a13a15e0617f35dcbe5c0f5424b13758b2ae72e9b56e405e832"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/README.md",
+      "sha256": "20e220d9d9b35ac86584b154219ce263a4077b4ecb10229787ef22417f3be825"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/literature/goethe/goethe-1983-selected-poems-nims/SOURCE.md",
+      "source_sha256": "851dec0cff461f80b568b2cf286d7a6f348c85f5ed65a9e4faa68b7173eb7588",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+      "start_line": 1163,
+      "end_line": 1169,
+      "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Ratified office is One in change / Two Ones with light manuscript burden; full poetic enactment must be read before development.",
+      "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing.",
+      "sha256": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "text": "The whole `symbolon/` directory is correspondingly open to recensus:\n\n- **Root Symbolon:** the seven formerly proposed root records remain useful candidates only; root identity is earned by a whole-bearing relation repeatedly needed as a source/return point.\n- **Matheme:** exact native QL and Spanda work, eight determinations, `3:1/3:3`, `4+2`, torus/winding/covering, harmonics, projective/formal neighbours, Noether/Floquet/Landauer, gauge/EBM/J-space mathematical objects and operational-parity experiments belong here where their warrant is exact/formal.\n- **Mytheme:** uroboros/torus/trickster, Ares/Aphrodite/Harmonia, Hephaestus, Mother/Assumption/chiasm, Apollo/Dionysus/Daphne, travelling jigsaw, **the mirror that moves first**, Neumann plates, Job's mythemic office, Taylor poems and Goethe's “Double aspects of the One” fragment can be developed richly here without inventing arguments merely to preserve their resonance. Goethe remains a light manuscript carrier and a real `/mytheme/poetry/` record.\n- **Episteme:** concepts are recensed from the whole recovered field; paths/maps may gain an Objective Internality→Objective Co-Internality→Return traversal where local links cannot reconstruct it; dossiers can carry the O:I six-centre anatomy, research programmes, Baudrillard/Foucault, Noether/gauge work, hero-versus-spiritual-avatar Open research and other depth; histories, etymologies, figures and dialogues are recensed by actual operation rather than old count.\n"
+    },
+    {
+      "path": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md",
+      "start_line": 197,
+      "end_line": 217,
+      "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Ratified office is One in change / Two Ones with light manuscript burden; full poetic enactment must be read before development.",
+      "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing.",
+      "sha256": "a64e7f34f0232b465be8c3228f5cd41c9e400d9a26e61c319191222a5ae43f0a",
+      "text": "## 5. Mytheme census\n\nMytheme receives living images whose operation matters without making myth prove mathematics.\n\nRequired bodies after T07:\n\n- **Ares / Aphrodite / Harmonia / Eros** — difference, attraction/relation and differentiated concurrence; neither polarity is simply good/bad.\n- **Hephaestus's Net** — capture/observability/counterfeit gathering and failed surety.\n- **Apollo / Dionysus / Daphne** — articulation and participatory dissolution with objectification/fusion pathologies.\n- **The Prisoner** — numbering, occupied ground, administrative abstraction and refusal; political counter-image of `4+2`.\n- **Antikythera as attunement instrument** — coordinates cycles it does not own for an observer it does not replace.\n- **THE MIRROR THAT MOVES FIRST** — exact ratified wording; artificial/cultural reflection enters causal circulation and can move first toward source/Other before forcing the other to its image.\n- **Job** — at least mythemic/psychological office, while methodological Protected Account and theological/source offices remain distinct Episteme/argument relations.\n- **Mother / Assumption / chiasm** — retained where the late quilt uses the image to perform return/containment rather than prove it.\n- **Uroboros / circulation images** — only where a lived image performs the recurrence that Matheme derives.\n- **Travelling jigsaw / box-lid → atlas** — world-picture failure and local-chart reconstruction.\n- **Neumann imagery/plates** — psychological-development imagery with source limits.\n- **Goethe, “Permanence and Change”** — rich poetry home for the Two Ones/One-in-change relation; manuscript burden light unless composition earns it.\n- **Taylor poetry / authored image set** — preserve wording/voice/provenance; selection later by actual argument return.\n\nPlates may combine Matheme + Mytheme, but each plate declares which element carries proof and which makes it perceptible."
+    },
+    {
+      "path": "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+      "start_line": 13,
+      "end_line": 23,
+      "relation": "Primary work identity, exact whole-story/poem acquisition routes and edition boundaries for this admitted whole; use its named target section.",
+      "provenance": "Delegated source acquisition receipt, not canonical SOURCE and not proof of unclaimed full reads or selected-print collation.",
+      "sha256": "64c950f68687f5011d3343f8ac30d855619246718d3696b1dc3e7bffd7a98cc0",
+      "text": "## Goethe: identity resolved, selected edition collation still Open\n\nThe admitted name “Permanence and Change” resolves to **Dauer im Wechsel**, in John Frederick Nims's translation **Permanence in Change**. The fragment “Double aspects of the One” belongs to its final stanza. It is not a second poem. Do not replace it with Eins und Alles, Selige Sehnsucht, or Faust. Preserve the canonical admitted alias/home until governing correction is recorded; a source title should use the actual edition title.\n\nPrimary publication metadata: [Poetry Foundation, August 1970 issue](https://www.poetryfoundation.org/poetrymagazine/issue/71009/august-1970) lists six Goethe poems, including Nims's Permanence in Change. Its historical index identifies volume116, August1970, p345. The [publisher's digitized poem entry](https://www.poetryfoundation.org/poetrymagazine/poems/31637/song-of-the-traveller-at-evening) explicitly names Permanence in Change and Nims, but redirects to a shared browse surface. The scan endpoint returned403, so the image was not inspected. That redirect is not proof that browse-image78 contains the complete poem.\n\nA secondary locator, [Matthew Segall's author-hosted Goethe and Whitehead paper](https://footnotes2plato.com/wp-content/uploads/2022/08/goethe-and-whitehead-steps-to-a-science-of-organism-final.pdf), footnote117, attributes the final stanza to Nims in Christopher Middleton, ed., Goethe: The Collected Works, vol1, Selected Poems (Princeton University Press,1983), p169. [Google Books, Selected Poems](https://books.google.com/books/about/Selected_Poems.html?hl=en&id=LGDW6Df_y_gC&output=html_text) independently lists Nims's title at169 in the1994 reprint. The1983 first edition and1994 reprint must not be silently exchanged. Segall is a retrieval lead, not the selected primary quotation authority.\n\nThe German full poem is accessible at [LiederNet, Dauer im Wechsel](https://www.lieder.net/lieder/get_text.html?TextId=6356), with an attribution to Goethe's Werke, vollständige Ausgabe letzter Hand, BandIII, Gott und Welt. It has five eight-line stanzas. Its progression joins passing bloom, changing landscape and self, irreversible substitution and the gathering of beginning/end; the final content/form relation does not simply declare a static substance immune to change. This is a paraphrase of the encountered poem, not a new English translation. A critical/printed German witness remains to be selected and collated before exact German quotations are installed.\n\nProposed single selected translation house: `submission-package/essay/symbolon/episteme/sources/literature/goethe/goethe-1983-selected-poems-nims/SOURCE.md`, limited passage scope Dauer im Wechsel / Permanence in Change, pp168–169 (German/English facing-page locator remains a collation lead). Alternative1970 magazine house is possible if that is the edition actually verified; do not create both merely to fill one debt. Parent must decide selected object. Candidate passage `goethe-1983-selected-poems-nims-q001` remains quotation-Open until page169 is inspected. The six-word fragment above is the only reproduced poem excerpt here. Whole-poem development can proceed as a ratified Mytheme with transparent paraphrase/edition boundaries; no invented attribution to Frank or claim of print verification."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/literature/goethe/goethe-1983-selected-poems-nims/SOURCE.md",
+      "start_line": 48,
+      "end_line": 113,
+      "relation": "Current source-house acquisition and intact telling supersede inherited missing-house flags.",
+      "provenance": "Canonical source house: selected witness, complete read scope and precise residual quotation debts.",
+      "sha256": "851dec0cff461f80b568b2cf286d7a6f348c85f5ed65a9e4faa68b7173eb7588",
+      "text": "quote_status: selected-translation-quotation-open; German-witness-excerpt-ready\nchicago_ready: false\nurl: https://www.poetryfoundation.org/poetrymagazine/issue/71009/august-1970\n---\n# Goethe — Selected Poems: Permanence in Change (Nims, 1983)\n\n## Chicago 18 forms\n\n**Full note (selected edition; collation Open):** Johann Wolfgang von Goethe, “Permanence in Change,” trans. John Frederick Nims, in *Selected Poems*, ed. Christopher Middleton, vol. 1 of *Goethe: The Collected Works* (Princeton, NJ: Princeton University Press, 1983), 169.\n\n**Shortened note:** Goethe, “Permanence in Change,” 169.\n\n**Bibliography:** Goethe, Johann Wolfgang von. *Selected Poems*. Edited by Christopher Middleton. Vol. 1 of *Goethe: The Collected Works*. Princeton, NJ: Princeton University Press, 1983. Translation of “Dauer im Wechsel” by John Frederick Nims.\n\nThese forms identify the selected object. They do not certify inspection of its page 169. The German-facing p 168 remains an acquisition locator. The 1994 reprint and 1970 magazine publication are different witnesses.\n\n## Essay use and whole-poem recovery\n\nThis house supplies the literary witness for the already admitted `mytheme-goethe-permanence-change`, destined for `submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md`. Its ratified alias “Permanence and Change” names the same poem; the source uses the edition's “in.” The whole is a poetic refraction of A11/A12's Two Ones and A36's return, not a formal proof of QL or an equation attributed to Goethe.\n\nThe full German poem moves from blossom lost to wind, through ripening and a changing river, to changed perception, aging limbs and the passing bearer of a name. Its last movement gathers beginning and end while distinguishing the heart's content from the spirit's form. The native Mytheme must retain this embodied temporal loss and artistic return; a timeless abstraction would not carry the complete poem.\n\nThe final-stanza fragment named in the harmonised quilt belongs here. No independently distinguishable Taylor utterance quoting it was recovered; ratification licenses its programme use, not an attribution of Nims's wording to Taylor. Selige Sehnsucht, Eins und Alles and Faust remain distinct works.\n\n## Material metadata and access provenance\n\n- **Selected object:** Nims's translation in Middleton's 1983 collection. No local full copy found in the inspected repository/intake or Apple Books title metadata.\n- **Primary publication metadata:** [Poetry Foundation, August 1970](https://www.poetryfoundation.org/poetrymagazine/issue/71009/august-1970), volume 116; historical index identifies p 345. [Digitized entry](https://www.poetryfoundation.org/poetrymagazine/poems/31637/song-of-the-traveller-at-evening) names poem and translator; shared browse redirect and 403 image prevented page collation.\n- **Selected-edition locator:** [Segall, Goethe and Whitehead, footnote 117](https://footnotes2plato.com/wp-content/uploads/2022/08/goethe-and-whitehead-steps-to-a-science-of-organism-final.pdf) identifies 1983 p 169. This secondary lead is not primary quotation verification.\n- **Reprint locator:** [Google Books, 1994 Selected Poems](https://books.google.com/books/about/Selected_Poems.html?hl=en&id=LGDW6Df_y_gC&output=html_text) lists Nims at 169; no silent promotion to 1983 collation.\n- **German whole witness:** [Klett publisher's 2010 teaching excerpt](https://www2.klett.de/sixcms/media.php/229/350470_0239_Goethe_Dauer.pdf), one page, all 40 lines, explicitly sourced to Goethe, *Sämtliche Werke. Briefe, Tagebücher und Gespräche*, I.2, *Gedichte 1800–1832* (Deutscher Klassiker Verlag, 1988), 78–79. All 40 lines read via extracted text on 2026-09-06; image fetch 403. This is a separately identified German witness within the selected translation's verification trail, not Nims's wording.\n- **Identity crosscheck:** [Goethes Lyrik digital, 93052](https://goethe-lyrik.net/wissen/93052/) confirms title/incipit and WA I.1: 119. It does not establish Nims's exact translation.\n- **Authorial NOTES:** absent at admission; none created. Full modern translation is neither copied nor stored here.\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\n<a id=\"goethe-1983-selected-poems-nims-q001\"></a>\n## Passage card — `goethe-1983-selected-poems-nims-q001` — final-stanza translation lead\n\n> Double aspects of the One\n\n- **Locator:** selected 1983 edition, p 169, final stanza; quoted fragment independently located in Segall's quotation, footnote 117.\n- **Status:** Open — selected-edition quotation not collated.\n- **Verification:** exact six-word retrieval lead checked 2026-09-06; no claim of primary print transcription.\n- **Source relation:** resonant with the native Two Ones; excerpt lead only for Nims wording.\n- **Evidential action:** identifies the fragment and blocks a second-poem substitution.\n- **Consumers:** `mytheme-goethe-permanence-change`; A11; A12; A36.\n- **Use boundary:** do not publish as verified 1983 quotation until p 169 is inspected. Capitalized One in translation is not proof that Goethe taught QL's two differentiated ones.\n\n<a id=\"goethe-1983-selected-poems-nims-q002\"></a>\n## Passage card — `goethe-1983-selected-poems-nims-q002` — German content and form\n\n> Den Gehalt in deinem Busen / Und die Form in deinem Geist.\n\n- **Locator:** Dauer im Wechsel, lines 39–40; Klett 2010 single-page excerpt from FA I.2: 78–79. Slash denotes the printed line break.\n- **Status:** German digital-witness wording-verified; selected 1983 translation quotation remains Open.\n- **Verification:** transcribed from the complete line-numbered Klett extracted text 2026-09-06; not image-collated and not checked in the 1988 printed volume.\n- **Source relation:** extracted from the explicitly named German witness; resonant with the essay's whole-bearing return.\n- **Evidential action:** supports the actual closing distinction; qualifies a flattened static-One reading.\n- **Consumers:** `mytheme-goethe-permanence-change`; A12; A36.\n- **Use boundary:** this German wording does not authorize an invented Nims English translation. Native QL standing survives the translation debt.\n\n## Open source tasks\n\nInspect selected 1983 p 169; verify bibliographic title/imprint against that object; collate the short Nims excerpt. Compare German-facing text if used. Resolve the magazine scan only if 1970 becomes a specifically named comparison witness. Citation/quotation axes remain independent of the admitted Mytheme's Argued operation."
+    }
+  ],
+  "raw_skeleton": "# Goethe — Permanence and Change\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

@@ -1,0 +1,8 @@
+{
+  "status": "pass",
+  "workflow_returncode": 0,
+  "stdout": "wrote target packet: /var/folders/q0/g_91z7355tb58425qwg3xcy80000gn/T/tmpm570bt8k/packet.json\nverified packet freshness: working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-meal-epistemic-metabolism/packet.json\n",
+  "packet_sha256": "6276e1dbd6d6a21cbca2b17f20c96e0ddae253fa10fdade924fd3c29bd3753ad",
+  "input_archives_match_every_bound_hash": true,
+  "read_status": "Completed source readings reusable; hash-only binding refresh, not repeated foundational review."
+}

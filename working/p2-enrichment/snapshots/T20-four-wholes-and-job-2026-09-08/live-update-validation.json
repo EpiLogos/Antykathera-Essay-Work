@@ -1,0 +1,17 @@
+{
+  "status": "pass",
+  "existing_rows_preserved_except_authorised_job_source_binding": true,
+  "new_ids": [
+    "mytheme-stained-glass-refraction",
+    "mytheme-meal-epistemic-metabolism",
+    "mytheme-valentinian-sophia-horos-achamoth",
+    "mytheme-pauli-egg-dream"
+  ],
+  "counts": {
+    "census.json": 280,
+    "dispatch-queue.json": 280,
+    "mytheme-inputs.json": 25
+  },
+  "depth_and_T17_T19_snapshot_hashes_preserved": 128,
+  "old_status_fields_preserved": true
+}

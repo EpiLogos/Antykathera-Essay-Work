@@ -1,0 +1,1559 @@
+{
+  "scope": "Navigation READMEs only; excluded from 93 census bodies; explicit-path repair of relative README alias collisions",
+  "targets": [
+    {
+      "path": "submission-package/essay/symbolon/README.md",
+      "returncode": 0,
+      "edges": 17,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "Symbolon \u2014 The Return of Zero",
+          "path": "submission-package/essay/symbolon/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "Symbolon",
+            "Root records \u2014 the twelvefold",
+            "The three registers",
+            "[[submission-package/essay/symbolon/matheme/README.md|Matheme]]",
+            "[[submission-package/essay/symbolon/mytheme/README.md|Mytheme]]",
+            "[[submission-package/essay/symbolon/episteme/README.md|Episteme]]",
+            "Page anatomy",
+            "Four reading movements"
+          ],
+          "sha256": "5f791a4ab8af5a15917c75351dd6d66ebc2a346a5816d4a968e680aa2101470c",
+          "claim_status": "Derived",
+          "register": "symbolon"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/matheme/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/mytheme/README.md",
+            "raw_target": "submission-package/essay/symbolon/mytheme/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/episteme/README.md",
+            "raw_target": "submission-package/essay/symbolon/episteme/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/eight-determinations.md",
+            "raw_target": "eight-determinations.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/the-slash.md",
+            "raw_target": "the-slash.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/0-1.md",
+            "raw_target": "0-1.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/question-assertion.md",
+            "raw_target": "question-assertion.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/minus-plus.md",
+            "raw_target": "minus-plus.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/X-x.md",
+            "raw_target": "X-x.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/AM-IS.md",
+            "raw_target": "AM-IS.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/infinity-dx.md",
+            "raw_target": "infinity-dx.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/1-0.md",
+            "raw_target": "1-0.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/mono-poly.md",
+            "raw_target": "mono-poly.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/complexio-oppositorum.md",
+            "raw_target": "complexio-oppositorum.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/self-identity.md",
+            "raw_target": "self-identity.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/subject-logics.md",
+            "raw_target": "subject-logics.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/README.md",
+            "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+            "raw_target": "episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/README.md",
+      "returncode": 0,
+      "edges": 18,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "Matheme",
+          "path": "submission-package/essay/symbolon/matheme/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "Matheme",
+            "The four-file system",
+            "The logic folders",
+            "Deep ontology law",
+            "Domains (projection targets)",
+            "Record form",
+            "Two locks",
+            "Cross-register routes"
+          ],
+          "sha256": "115fa742d9d40ae3c283214b6f43bb679f7489a7baab862a1e99051f9ed69ec4",
+          "claim_status": "Derived",
+          "register": "matheme"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/matheme/definition/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/definition/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/matheme/process/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/process/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/matheme/quilt/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/quilt/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/matheme/music/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/music/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/matheme/ql/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/ql/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/matheme/spanda/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/spanda/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/matheme/topology/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/topology/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/episteme/README.md",
+            "raw_target": "submission-package/essay/symbolon/episteme/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/matheme/computation/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/computation/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/matheme/diagrams/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/diagrams/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/mytheme/README.md",
+            "raw_target": "submission-package/essay/symbolon/mytheme/README.md",
+            "relation": "opens-to",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/README.md",
+            "raw_target": "submission-package/essay/symbolon/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+            "raw_target": "../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/README.md",
+            "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+            "raw_target": "../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/README.md",
+      "returncode": 0,
+      "edges": 8,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "Computation",
+          "path": "submission-package/essay/symbolon/matheme/computation/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "Computation",
+            "Records"
+          ],
+          "sha256": "72d5a297b9b82eaaad3379afdafffdafd5843c1652e7fd8b6288d423975dc0ae",
+          "register": "matheme"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/matheme/computation/README.md",
+            "target": "submission-package/essay/symbolon/episteme/sources/README.md",
+            "raw_target": "submission-package/essay/symbolon/episteme/sources/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/computation/README.md",
+            "target": "submission-package/essay/symbolon/episteme/histories/README.md",
+            "raw_target": "submission-package/essay/symbolon/episteme/histories/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/computation/README.md",
+            "target": "submission-package/essay/symbolon/matheme/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/computation/README.md",
+            "target": "submission-package/essay/symbolon/matheme/computation/softmax-argmax.md",
+            "raw_target": "softmax-argmax.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/computation/README.md",
+            "target": "submission-package/essay/symbolon/matheme/computation/preference-gauge.md",
+            "raw_target": "preference-gauge.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/computation/README.md",
+            "target": "submission-package/essay/symbolon/matheme/computation/j-space.md",
+            "raw_target": "j-space.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/computation/README.md",
+            "target": "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md",
+            "raw_target": "ebm-resonance.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/computation/README.md",
+            "target": "submission-package/essay/symbolon/matheme/computation/operational-parity.md",
+            "raw_target": "operational-parity.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/README.md",
+      "returncode": 0,
+      "edges": 8,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "Definition \u2014 the 0",
+          "path": "submission-package/essay/symbolon/matheme/definition/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "Definition \u2014 the 0",
+            "Projected structure (the file's own headings)"
+          ],
+          "sha256": "f88ceb33805d3df40060b2d35b0ef57714bd8f53bdb4f076690a81887f364536",
+          "claim_status": "Derived",
+          "register": "matheme"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/matheme/definition/README.md",
+            "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+            "raw_target": "../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/definition/README.md",
+            "target": "submission-package/essay/symbolon/matheme/definition/the-matheme.md",
+            "raw_target": "the-matheme.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/definition/README.md",
+            "target": "submission-package/essay/symbolon/matheme/definition/minus-over-minus.md",
+            "raw_target": "minus-over-minus.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/definition/README.md",
+            "target": "submission-package/essay/symbolon/matheme/definition/copula.md",
+            "raw_target": "copula.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/definition/README.md",
+            "target": "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md",
+            "raw_target": "harmonics-and-recount.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/definition/README.md",
+            "target": "submission-package/essay/symbolon/matheme/definition/six-determinations.md",
+            "raw_target": "six-determinations.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/definition/README.md",
+            "target": "submission-package/essay/symbolon/matheme/definition/catuskoti-crossing.md",
+            "raw_target": "catuskoti-crossing.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/definition/README.md",
+            "target": "submission-package/essay/symbolon/matheme/definition/immutable-subject.md",
+            "raw_target": "immutable-subject.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+      "returncode": 0,
+      "edges": 8,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "Dia/Syn \u2014 the two logics of two",
+          "path": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "Dia/Syn \u2014 the two logics of two",
+            "Structure"
+          ],
+          "sha256": "f0033ed0c6c952ca377fed250ca91215863a3e95ff46edf8a359ffceb17cd4b6",
+          "claim_status": "Argued",
+          "register": "matheme"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+            "target": "submission-package/essay/symbolon/matheme/quilt/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/quilt/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+            "target": "submission-package/essay/symbolon/matheme/computation/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/computation/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+            "target": "submission-package/essay/symbolon/matheme/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+            "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+            "raw_target": "../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+            "target": "submission-package/essay/symbolon/matheme/dia-syn/dia.md",
+            "raw_target": "dia.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+            "target": "submission-package/essay/symbolon/matheme/dia-syn/syn.md",
+            "raw_target": "syn.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+            "target": "working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md",
+            "raw_target": "../../../../../working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+            "target": "submission-package/essay/symbolon/matheme/dia-syn/chronic.md",
+            "raw_target": "chronic.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/diagrams/README.md",
+      "returncode": 0,
+      "edges": 3,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "Matheme Diagrams",
+          "path": "submission-package/essay/symbolon/matheme/diagrams/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "Diagrams"
+          ],
+          "sha256": "b485ea3c4fe6b6ccc1f626b29d5e550d2bf6bd32695fe416dfd260e739a6bbb9",
+          "register": "matheme"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/matheme/diagrams/README.md",
+            "target": "submission-package/essay/symbolon/mytheme/plates/README.md",
+            "raw_target": "submission-package/essay/symbolon/mytheme/plates/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/diagrams/README.md",
+            "target": "submission-package/essay/symbolon/episteme/figures/README.md",
+            "raw_target": "submission-package/essay/symbolon/episteme/figures/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/diagrams/README.md",
+            "target": "submission-package/essay/symbolon/matheme/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+      "returncode": 0,
+      "edges": 20,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "Formal Neighbours",
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "Formal Neighbours",
+            "Records"
+          ],
+          "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f",
+          "register": "matheme"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/episteme/sources/README.md",
+            "raw_target": "submission-package/essay/symbolon/episteme/sources/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/episteme/histories/README.md",
+            "raw_target": "submission-package/essay/symbolon/episteme/histories/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md",
+            "raw_target": "von-neumann-ordinals.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md",
+            "raw_target": "division-pluralisms.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/sheffer-stroke.md",
+            "raw_target": "sheffer-stroke.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+            "raw_target": "laws-of-form-varela.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+            "raw_target": "russell-types.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/godel-incompleteness.md",
+            "raw_target": "godel-incompleteness.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/fde-catuskoti.md",
+            "raw_target": "fde-catuskoti.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/crt-z6.md",
+            "raw_target": "crt-z6.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/trivial-ring.md",
+            "raw_target": "trivial-ring.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/grothendieck-group-loss.md",
+            "raw_target": "grothendieck-group-loss.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md",
+            "raw_target": "kauffman-iterants.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/cross-ratio.md",
+            "raw_target": "cross-ratio.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/qubit-bloch-sphere.md",
+            "raw_target": "qubit-bloch-sphere.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md",
+            "raw_target": "noether-symmetry-conservation.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/quaternion-q8.md",
+            "raw_target": "quaternion-q8.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/calculus-infinity-dx.md",
+            "raw_target": "calculus-infinity-dx.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+            "target": "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md",
+            "raw_target": "chaos-attractors.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+      "returncode": 0,
+      "edges": 10,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "Harmonics",
+          "path": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "Harmonics",
+            "Records"
+          ],
+          "sha256": "d5d673ef7d1995c2d012742294403a6035ea228ee67b79f94bd2405a9af79849",
+          "register": "matheme"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+            "target": "submission-package/essay/symbolon/mytheme/music/README.md",
+            "raw_target": "submission-package/essay/symbolon/mytheme/music/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+            "target": "submission-package/essay/symbolon/matheme/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+            "target": "submission-package/essay/symbolon/matheme/harmonics/whole-tone-return.md",
+            "raw_target": "whole-tone-return.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+            "target": "submission-package/essay/symbolon/matheme/harmonics/pythagorean-comma.md",
+            "raw_target": "pythagorean-comma.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+            "target": "submission-package/essay/symbolon/matheme/harmonics/cycle-interval-octave.md",
+            "raw_target": "cycle-interval-octave.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+            "target": "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+            "raw_target": "arche-topos-musical-resolution.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+            "target": "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md",
+            "raw_target": "metonic-antikythera-cycle.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+            "target": "submission-package/essay/symbolon/matheme/harmonics/cymatics-standing-waves.md",
+            "raw_target": "cymatics-standing-waves.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+            "target": "submission-package/essay/symbolon/matheme/harmonics/perfect-six.md",
+            "raw_target": "perfect-six.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+            "target": "submission-package/essay/symbolon/matheme/harmonics/tetraktys-triangle.md",
+            "raw_target": "tetraktys-triangle.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+      "returncode": 0,
+      "edges": 6,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "Mono/Poly \u2014 the field of notations",
+          "path": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "Mono/Poly \u2014 the field of notations",
+            "Structure"
+          ],
+          "sha256": "87cf9e50b33f5b7efe1149f937e8af3a2991ceeea94aad8f962990e4de868051",
+          "claim_status": "Argued",
+          "register": "matheme"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+            "target": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+            "raw_target": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+            "target": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+            "target": "submission-package/essay/symbolon/matheme/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+            "target": "submission-package/essay/symbolon/matheme/mono-poly/mono.md",
+            "raw_target": "mono.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+            "target": "submission-package/essay/symbolon/matheme/mono-poly/poly.md",
+            "raw_target": "poly.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+            "target": "submission-package/essay/symbolon/matheme/mono-poly/translations.md",
+            "raw_target": "translations.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/README.md",
+      "returncode": 0,
+      "edges": 8,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "Music \u2014 the 0/1 returned",
+          "path": "submission-package/essay/symbolon/matheme/music/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "Music \u2014 the 0/1 returned",
+            "Projected structure (the file's own headings)"
+          ],
+          "sha256": "9d9e55b3faed5e79f4d0fd27f228aa3f4ad107b13601852f9d37251f9a28753a",
+          "claim_status": "Derived",
+          "register": "matheme"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/matheme/music/README.md",
+            "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+            "raw_target": "../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/music/README.md",
+            "target": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+            "raw_target": "foundational-ratios.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/music/README.md",
+            "target": "submission-package/essay/symbolon/matheme/music/chromatic-substrates.md",
+            "raw_target": "chromatic-substrates.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/music/README.md",
+            "target": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+            "raw_target": "pairing-grammar.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/music/README.md",
+            "target": "submission-package/essay/symbolon/matheme/music/lens-anchors.md",
+            "raw_target": "lens-anchors.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/music/README.md",
+            "target": "submission-package/essay/symbolon/matheme/music/diatonic-cf-grammar.md",
+            "raw_target": "diatonic-cf-grammar.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/music/README.md",
+            "target": "submission-package/essay/symbolon/matheme/music/field.md",
+            "raw_target": "field.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/music/README.md",
+            "target": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+            "raw_target": "observer-instrument.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/README.md",
+      "returncode": 0,
+      "edges": 9,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "Process \u2014 the /",
+          "path": "submission-package/essay/symbolon/matheme/process/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "Process \u2014 the /",
+            "Projected structure (the file's own headings)"
+          ],
+          "sha256": "63de70316017c420d667084c8ff346f4845d63018adfe420b7cae17464526040",
+          "claim_status": "Derived",
+          "register": "matheme"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/matheme/process/README.md",
+            "target": "submission-package/essay/symbolon/matheme/spanda/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/spanda/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/process/README.md",
+            "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+            "raw_target": "../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/process/README.md",
+            "target": "submission-package/essay/symbolon/matheme/process/t1-geometry.md",
+            "raw_target": "t1-geometry.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/process/README.md",
+            "target": "submission-package/essay/symbolon/matheme/process/phase-flip.md",
+            "raw_target": "phase-flip.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/process/README.md",
+            "target": "submission-package/essay/symbolon/matheme/process/t0-onto-logic.md",
+            "raw_target": "t0-onto-logic.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/process/README.md",
+            "target": "submission-package/essay/symbolon/matheme/process/spanda.md",
+            "raw_target": "spanda.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/process/README.md",
+            "target": "submission-package/essay/symbolon/matheme/process/ratio-threshold.md",
+            "raw_target": "ratio-threshold.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/process/README.md",
+            "target": "submission-package/essay/symbolon/matheme/process/harmonics-symmetries.md",
+            "raw_target": "harmonics-symmetries.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/process/README.md",
+            "target": "submission-package/essay/symbolon/matheme/process/ql-positions.md",
+            "raw_target": "ql-positions.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/README.md",
+      "returncode": 0,
+      "edges": 10,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "QL",
+          "path": "submission-package/essay/symbolon/matheme/ql/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "QL",
+            "Records"
+          ],
+          "sha256": "717f8ac41f50a81dcc02bef220a4f87aa092e7e50a646a2e7c5a4d39babeccf9",
+          "register": "matheme"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/matheme/ql/README.md",
+            "target": "submission-package/essay/symbolon/matheme/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/ql/README.md",
+            "target": "submission-package/essay/symbolon/README.md",
+            "raw_target": "submission-package/essay/symbolon/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/ql/README.md",
+            "target": "submission-package/essay/symbolon/matheme/ql/primordial-symbolon.md",
+            "raw_target": "primordial-symbolon.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/ql/README.md",
+            "target": "submission-package/essay/symbolon/matheme/ql/two-ones.md",
+            "raw_target": "two-ones.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/ql/README.md",
+            "target": "submission-package/essay/symbolon/matheme/ql/slash-and-or.md",
+            "raw_target": "slash-and-or.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/ql/README.md",
+            "target": "submission-package/essay/symbolon/matheme/ql/eight-determinations.md",
+            "raw_target": "eight-determinations.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/ql/README.md",
+            "target": "submission-package/essay/symbolon/matheme/ql/binary-and-binary-of-binary.md",
+            "raw_target": "binary-and-binary-of-binary.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/ql/README.md",
+            "target": "submission-package/essay/symbolon/matheme/ql/crossed-zero-re-entry.md",
+            "raw_target": "crossed-zero-re-entry.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/ql/README.md",
+            "target": "submission-package/essay/symbolon/matheme/ql/x-x.md",
+            "raw_target": "x-x.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/ql/README.md",
+            "target": "submission-package/essay/symbolon/matheme/ql/complex-orientation.md",
+            "raw_target": "complex-orientation.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/README.md",
+      "returncode": 0,
+      "edges": 8,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "Quilt \u2014 the 1",
+          "path": "submission-package/essay/symbolon/matheme/quilt/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "Quilt \u2014 the 1",
+            "Projected structure (the file's own headings)"
+          ],
+          "sha256": "0b29c01e79042098a68f72d7e0e681768d7ecce2b1bd5286cbc40f6cd0f87702",
+          "claim_status": "Derived",
+          "register": "matheme"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/matheme/quilt/README.md",
+            "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+            "raw_target": "../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/quilt/README.md",
+            "target": "submission-package/essay/symbolon/matheme/quilt/etymology.md",
+            "raw_target": "etymology.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/quilt/README.md",
+            "target": "submission-package/essay/symbolon/matheme/quilt/psychology.md",
+            "raw_target": "psychology.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/quilt/README.md",
+            "target": "submission-package/essay/symbolon/matheme/quilt/number.md",
+            "raw_target": "number.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/quilt/README.md",
+            "target": "submission-package/essay/symbolon/matheme/quilt/topology.md",
+            "raw_target": "topology.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/quilt/README.md",
+            "target": "submission-package/essay/symbolon/matheme/quilt/metaphysics.md",
+            "raw_target": "metaphysics.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/quilt/README.md",
+            "target": "submission-package/essay/symbolon/matheme/quilt/recognition.md",
+            "raw_target": "recognition.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/quilt/README.md",
+            "target": "submission-package/essay/symbolon/matheme/quilt/enantiodromic-return.md",
+            "raw_target": "enantiodromic-return.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/spanda/README.md",
+      "returncode": 0,
+      "edges": 2,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "Spanda",
+          "path": "submission-package/essay/symbolon/matheme/spanda/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "Spanda",
+            "Records"
+          ],
+          "sha256": "d299709cc6626e4ba077273e4c16728024fd4326d9443c940426cb17a3dea6ee",
+          "register": "matheme"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/matheme/spanda/README.md",
+            "target": "submission-package/essay/symbolon/matheme/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/spanda/README.md",
+            "target": "submission-package/essay/symbolon/matheme/spanda/spanda-equations.md",
+            "raw_target": "spanda-equations.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/README.md",
+      "returncode": 0,
+      "edges": 10,
+      "unresolved": [],
+      "frozen_targets": [],
+      "data": {
+        "root": {
+          "id": "README",
+          "title": "Topology",
+          "path": "submission-package/essay/symbolon/matheme/topology/README.md",
+          "artifact_type": "submission-artifact",
+          "authority": "submission-refraction",
+          "headings": [
+            "Topology",
+            "Records"
+          ],
+          "sha256": "0ee9333fa1fa044a12b3308dbb176245d38f5b027f8e63899659dbfe680cd780",
+          "register": "matheme"
+        },
+        "edges": [
+          {
+            "source": "submission-package/essay/symbolon/matheme/topology/README.md",
+            "target": "submission-package/essay/symbolon/matheme/diagrams/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/diagrams/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/topology/README.md",
+            "target": "submission-package/essay/symbolon/episteme/sources/README.md",
+            "raw_target": "submission-package/essay/symbolon/episteme/sources/README.md",
+            "relation": "wikilink",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/topology/README.md",
+            "target": "submission-package/essay/symbolon/matheme/README.md",
+            "raw_target": "submission-package/essay/symbolon/matheme/README.md",
+            "relation": "opens-to",
+            "origin": "wikilink",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/topology/README.md",
+            "target": "submission-package/essay/symbolon/matheme/topology/projective-completion.md",
+            "raw_target": "projective-completion.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/topology/README.md",
+            "target": "submission-package/essay/symbolon/matheme/topology/projective-line.md",
+            "raw_target": "projective-line.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/topology/README.md",
+            "target": "submission-package/essay/symbolon/matheme/topology/riemann-sphere.md",
+            "raw_target": "riemann-sphere.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/topology/README.md",
+            "target": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+            "raw_target": "torus-cover-winding.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/topology/README.md",
+            "target": "submission-package/essay/symbolon/matheme/topology/mobius-klein-surfaces.md",
+            "raw_target": "mobius-klein-surfaces.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/topology/README.md",
+            "target": "submission-package/essay/symbolon/matheme/topology/toroidal-poloidal-confinement.md",
+            "raw_target": "toroidal-poloidal-confinement.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          },
+          {
+            "source": "submission-package/essay/symbolon/matheme/topology/README.md",
+            "target": "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
+            "raw_target": "manifold-atlas.md",
+            "relation": "markdown-link",
+            "origin": "markdown-link",
+            "resolved": true
+          }
+        ]
+      },
+      "stderr": ""
+    }
+  ]
+}

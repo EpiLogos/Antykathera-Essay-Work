@@ -1,0 +1,1501 @@
+{
+  "date": "2026-09-07",
+  "scope": "T17 census identity reconciliation only",
+  "authority": [
+    "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+    "submission-package/essay/symbolon/README.md",
+    "submission-package/essay/symbolon/matheme/README.md",
+    "submission-package/essay/symbolon/episteme/conjugate/README.md"
+  ],
+  "before_sha256": "a066d59105fed2341ff67e438bdc1e1324294038d032045dfb6bef921fabb693",
+  "after_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+  "counts": {
+    "previous_elements": 197,
+    "elements": 276,
+    "previous_sha256": "a066d59105fed2341ff67e438bdc1e1324294038d032045dfb6bef921fabb693",
+    "canonical_files_created": 0,
+    "root_records": 12,
+    "root_spine_indexes": 1,
+    "matheme_existing_domain_bodies": 46,
+    "matheme_new_locked_projection_bodies": 34,
+    "conjugate_bodies": 37,
+    "source_houses": 133,
+    "status": "canonical-structure-reconciled-target-binding-pending"
+  },
+  "register_counts": {
+    "episteme": 162,
+    "matheme": 80,
+    "mytheme": 21,
+    "symbolon": 13
+  },
+  "new_source_houses": [
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/apuleius/apuleius-1913-psyche-cupido-purser/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/ovid/ovid-1921-metamorphoses-miller/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/literature/goethe/goethe-1983-selected-poems-nims/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1961-totality-and-infinity/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1981-otherwise-than-being/SOURCE.md"
+  ],
+  "root_targets": [
+    {
+      "record_id": "symbolon-the-slash",
+      "title": "The slash: / = −/−",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/the-slash.md",
+      "wave": "T18",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "root-relation"
+    },
+    {
+      "record_id": "symbolon-0-1",
+      "title": "0/1",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/0-1.md",
+      "wave": "T18",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "root-relation"
+    },
+    {
+      "record_id": "symbolon-question-assertion",
+      "title": "?/! — Question / Assertion",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/question-assertion.md",
+      "wave": "T18",
+      "disposition": "enrich",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "root-relation"
+    },
+    {
+      "record_id": "symbolon-minus-plus",
+      "title": "−/+ — Polarity and Force",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/minus-plus.md",
+      "wave": "T18",
+      "disposition": "enrich",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "root-relation"
+    },
+    {
+      "record_id": "symbolon-x-x",
+      "title": "X/x — Determining Capacity and Its Particular",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/X-x.md",
+      "wave": "T18",
+      "disposition": "enrich",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "root-relation"
+    },
+    {
+      "record_id": "symbolon-am-is",
+      "title": "AM/IS — The Personed Copula",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/AM-IS.md",
+      "wave": "T18",
+      "disposition": "enrich",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "root-relation"
+    },
+    {
+      "record_id": "symbolon-infinity-dx",
+      "title": "∞/dx — Horizon and Infinitesimal Difference",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/infinity-dx.md",
+      "wave": "T18",
+      "disposition": "enrich",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "root-relation"
+    },
+    {
+      "record_id": "symbolon-1-0",
+      "title": "1/0",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/1-0.md",
+      "wave": "T18",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "root-relation"
+    },
+    {
+      "record_id": "symbolon-mono-poly",
+      "title": "Mono/Poly",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/mono-poly.md",
+      "wave": "T18",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "root-relation"
+    },
+    {
+      "record_id": "symbolon-complexio-oppositorum",
+      "title": "Complexio Oppositorum — #",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/complexio-oppositorum.md",
+      "wave": "T18",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "root-relation"
+    },
+    {
+      "record_id": "symbolon-self-identity",
+      "title": "Self-Identity",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/self-identity.md",
+      "wave": "T18",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "root-relation"
+    },
+    {
+      "record_id": "symbolon-subject-logics",
+      "title": "Subject Logics — The Ø Traversal",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/subject-logics.md",
+      "wave": "T18",
+      "disposition": "enrich",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "root-relation"
+    },
+    {
+      "record_id": "symbolon-eight-determinations",
+      "title": "Eight Determinations — Spine Index",
+      "register": "symbolon",
+      "canonical_home": "submission-package/essay/symbolon/eight-determinations.md",
+      "wave": "T18",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "record_type": "spine-index"
+    }
+  ],
+  "new_locked_matheme_targets": [
+    {
+      "record_id": "matheme-definition-the-matheme",
+      "title": "Definition — the-matheme",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/the-matheme.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/definition/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the opening question (\"How is it that I am present to my experience?\"); 0/1 earned from lived grammar (\"I see x\" → \"I am aware of the seeing of x\"); the Lacanian genealogy; the M1 address.",
+      "projection_folder": "definition"
+    },
+    {
+      "record_id": "matheme-definition-minus-over-minus",
+      "title": "Definition — minus-over-minus",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/minus-over-minus.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/definition/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "`−/− = AND/OR / X/x`: the bare logic of differentiation, one mark made two by the slash.",
+      "projection_folder": "definition"
+    },
+    {
+      "record_id": "matheme-definition-copula",
+      "title": "Definition — copula",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/copula.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/definition/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the graphical derivation of `=`, `/`, `≠`; `/ = ( = =/≠ ≠ )`; Ø/X; `(0/Ø)/(1/X)`.",
+      "projection_folder": "definition"
+    },
+    {
+      "record_id": "matheme-definition-harmonics-and-recount",
+      "title": "Definition — harmonics-and-recount",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/definition/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the count 4+2=6; the recount `4+2 → (3+1)+2`; the three harmonics (Being, Becoming, Knowing/unKnowing); the compact `( = /) : (=/≠ ()) : (≠ =)`.",
+      "projection_folder": "definition"
+    },
+    {
+      "record_id": "matheme-definition-six-determinations",
+      "title": "Definition — six-determinations",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/six-determinations.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/definition/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "derived line-by-line through the poem: Ground `0/1`, Definition `?/!`, Dynamis `−/+`, Pattern `X/x`, Context `AM/IS`, Real-isation `∞/dx`, bracketed by the parent `−/−` and the return `1/0` — the eight.",
+      "projection_folder": "definition"
+    },
+    {
+      "record_id": "matheme-definition-catuskoti-crossing",
+      "title": "Definition — catuskoti-crossing",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/catuskoti-crossing.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/definition/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "IS / IS-NOT / BOTH / NEITHER / **SILENCE**; \"0 IS AND/OR IS-NOT EQUAL TO 1\"; the fraction-reading of the vinculum.",
+      "projection_folder": "definition"
+    },
+    {
+      "record_id": "matheme-definition-immutable-subject",
+      "title": "Definition — immutable-subject",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/immutable-subject.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/definition/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the witness-argument; 0, Ø, X, Ø/X, (0/Ø)/(1/X); the charitable cogito (line 47; indexed CT-16); *isoid*, the flagged coinage.",
+      "projection_folder": "definition"
+    },
+    {
+      "record_id": "matheme-process-t1-geometry",
+      "title": "Process — t1-geometry",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/t1-geometry.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/process/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "\"AND + OR — The Geometry of Space-Time\": the six positions from binary strings; the E→W diametric leap; interval-gluing (0/1 as the generative operation of closed form); the 75% gap; the squared circle `⃞ + 𐀏`.",
+      "projection_folder": "process"
+    },
+    {
+      "record_id": "matheme-process-phase-flip",
+      "title": "Process — phase-flip",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/phase-flip.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/process/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "`§1/0 — 0/1 = / ≠ 1/0`: the hinge of the file; Spencer-Brown re-entry → oscillation, memory, time; T1→T0 as third-person→first-person, IS→AM.",
+      "projection_folder": "process"
+    },
+    {
+      "record_id": "matheme-process-t0-onto-logic",
+      "title": "Process — t0-onto-logic",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/t0-onto-logic.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/process/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "\"AND/OR — The Onto-Logic\": the slash-form table (`0/0 = %`, `0/1 → 0%`, `1/0 = ?/!`, `1/1 = 100%`); `?/!` at #3; chirality; the primed positions `#0′–#5′`.",
+      "projection_folder": "process"
+    },
+    {
+      "record_id": "matheme-process-spanda",
+      "title": "Process — spanda",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/spanda.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/process/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "both Spanda equations, with T0 (emanative arc) and T1 (reversionary arc); projects into [[../spanda/README|Spanda]].",
+      "projection_folder": "process"
+    },
+    {
+      "record_id": "matheme-process-ratio-threshold",
+      "title": "Process — ratio-threshold",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/ratio-threshold.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/process/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "16/9 = (4/3)² (the doubled fourth); (2/1)/(16/9) = 9/8 (the epogdoon); the four directional ratios — \"None of these is imported from music theory. Each is a face of the base frame's own factorisation.\"",
+      "projection_folder": "process"
+    },
+    {
+      "record_id": "matheme-process-harmonics-symmetries",
+      "title": "Process — harmonics-symmetries",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/harmonics-symmetries.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/process/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "Mono-Poly = Becoming, Self-Identity = Being, Number-Word = Knowing/unKnowing; the three symmetries; the two axes crossing at #4; perspectival counting.",
+      "projection_folder": "process"
+    },
+    {
+      "record_id": "matheme-process-ql-positions",
+      "title": "Process — ql-positions",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/ql-positions.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/process/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the consolidated QL positions table (§5′); pramātṛ/pramāṇa/prameya as numerator/slash/denominator; the Quaternal Logic / Epi-Logos naming.",
+      "projection_folder": "process"
+    },
+    {
+      "record_id": "matheme-quilt-etymology",
+      "title": "Quilt — etymology",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/etymology.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/quilt/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "VALUE (*wal-*) → MEASURE (*me-*) → RATIO (*re-*) → EQUATION (*aequatio*) → PRODUCT (*pro-ducere*) → SOLVE (*se-lu-*); the *leg-* family sixfold; the intelligence/real etymologies and their convergence.",
+      "projection_folder": "quilt"
+    },
+    {
+      "record_id": "matheme-quilt-psychology",
+      "title": "Quilt — psychology",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/psychology.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/quilt/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "`X = x`, `X = (x)`, `(X = x) = X/x`; the Axiom of Maria with the sesquitertian 4:3 as the recognition-fourth.",
+      "projection_folder": "quilt"
+    },
+    {
+      "record_id": "matheme-quilt-number",
+      "title": "Quilt — number",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/number.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/quilt/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the perfect number; the additive-multiplicative hinge; zero bifurcation; six as *teleios* (6 ≡ 0 mod 6); seven convergences on the 4+2.",
+      "projection_folder": "quilt"
+    },
+    {
+      "record_id": "matheme-quilt-topology",
+      "title": "Quilt — topology",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/topology.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/quilt/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "`ℝ²/ℤ² = T²`, `4g+2g = 6`, `π₁(T²) = ℤ×ℤ`; Lacan's torus from the couch; the pitch-space topology `ℝ/ℤ ≅ S¹` with the two whole-tone helices as bimba/pratibimba.",
+      "projection_folder": "quilt"
+    },
+    {
+      "record_id": "matheme-quilt-metaphysics",
+      "title": "Quilt — metaphysics",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/metaphysics.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/quilt/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "Prakāśa-Vimarśa; the tattvic descent; the three upāyas; Kṣemarāja's \"the subject does not waver\"; the Lacan encounter (*mi-dire*, the not-all, \"the unwritable rapport as Spanda\").",
+      "projection_folder": "quilt"
+    },
+    {
+      "record_id": "matheme-quilt-recognition",
+      "title": "Quilt — recognition",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/recognition.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/quilt/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the cross-register table; the intelligence sixfold; Logos→Code (characteristica universalis → *calculemus* → Gödel → the computational musical ontology claim).",
+      "projection_folder": "quilt"
+    },
+    {
+      "record_id": "matheme-quilt-enantiodromic-return",
+      "title": "Quilt — enantiodromic-return",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/enantiodromic-return.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/quilt/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the §5→0 Night pass: the Name unit (Truth→Mind→Word→Logos→Son→Image) and Power unit (Play→Need→Sacrifice→Decision→Love→Work); the Requilting; the Foundation Stone; the Möbius Stitch.",
+      "projection_folder": "quilt"
+    },
+    {
+      "record_id": "matheme-music-foundational-ratios",
+      "title": "Music — foundational-ratios",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/music/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the canonical set `{1/1, 4/3, 3/4, 3/2, 2/3, 16/9, 9/8, 2/1}`; the load-bearing relation **16/9 × 9/8 = 2/1**; three convergent 9/8 derivations; the standing identity `0/1 + 1/0 = 1/1 ≡ 100%`.",
+      "projection_folder": "music"
+    },
+    {
+      "record_id": "matheme-music-chromatic-substrates",
+      "title": "Music — chromatic-substrates",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/chromatic-substrates.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/music/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the chromatic basis (generator 9/8) and the fifths basis (generator 3/2); WT₀/WT₁; \"the slash-flip is one operation whose interval-character is contextual.\"",
+      "projection_folder": "music"
+    },
+    {
+      "record_id": "matheme-music-pairing-grammar",
+      "title": "Music — pairing-grammar",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/music/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "families A (Being), B (Becoming), C (Knowing/unKnowing) with exact pair-sets; the D inversion operator and its depths; the 3×3 squares; the minimal D-act as the Spanda pulse; helix-invariance.",
+      "projection_folder": "music"
+    },
+    {
+      "record_id": "matheme-music-lens-anchors",
+      "title": "Music — lens-anchors",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/lens-anchors.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/music/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "L0–L5 and L0′–L5′ with tradition anchors; \"Lens-modulation is epistemic-mode-modulation\"; the 8+4 partition; torus/Klein dual reading.",
+      "projection_folder": "music"
+    },
+    {
+      "record_id": "matheme-music-diatonic-cf-grammar",
+      "title": "Music — diatonic-cf-grammar",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/diatonic-cf-grammar.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/music/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the seven CFs; the CF-cut producing the major scale; the tetrachord equation `4/3 × 9/8 × 4/3 = 2/1`; the diatonic as Klein double cover; major/minor as conjugate-form selection; the seven modes.",
+      "projection_folder": "music"
+    },
+    {
+      "record_id": "matheme-music-field",
+      "title": "Music — field",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/field.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/music/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the 84-fold mode-tonic field; the 144-fold voicing landscape; the Pythagorean comma as aletheic remainder.",
+      "projection_folder": "music"
+    },
+    {
+      "record_id": "matheme-music-observer-instrument",
+      "title": "Music — observer-instrument",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/music/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "FFT/STFT, CQT, chromagram, cymatic rendering; cadence as return-grammar (V–I = CF5→CF1); the cyclic and telic faces of the closing recognition — the circuit closed to File 1's opening question.",
+      "projection_folder": "music"
+    },
+    {
+      "record_id": "matheme-dia-syn-dia",
+      "title": "Dia-Syn — dia",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/dia.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/dia-syn/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the cut: contrast, discrimination, selection; productive and counterfeit forms ([[../quilt/README|quilt]]-register severance; C23).",
+      "projection_folder": "dia-syn"
+    },
+    {
+      "record_id": "matheme-dia-syn-syn",
+      "title": "Dia-Syn — syn",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/syn.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/dia-syn/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the gathering: retention through composition; the broken token keeping both halves and the fracture (C24 fusion, C25 counterfeit gathering, C26 monoisation as its failure-modes). The junction claiming that the gathering at full strength *is* the eros of logos is the pending [A-candidacy](../../../../../working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md).",
+      "projection_folder": "dia-syn"
+    },
+    {
+      "record_id": "matheme-dia-syn-chronic",
+      "title": "Dia-Syn — chronic",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/chronic.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/dia-syn/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "synchronic (landscape: the configuration held together) and diachronic (trajectory: change, bifurcation, return); the two readings of one traversal — Symbolon Dynamics' operative pair.",
+      "projection_folder": "dia-syn"
+    },
+    {
+      "record_id": "matheme-mono-poly-mono",
+      "title": "Mono-Poly — mono",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/mono-poly/mono.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/mono-poly/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the one field: what every notation in the system is a notation *of* — the 0/1 and its expressions; the equation as the single subject carried by all four files.",
+      "projection_folder": "mono-poly"
+    },
+    {
+      "record_id": "matheme-mono-poly-poly",
+      "title": "Mono-Poly — poly",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/mono-poly/poly.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/mono-poly/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the many notations: the inventory as plurality — each sign's office, each formalism's contact point, each register's dialect, held without collapse into one preferred encoding.",
+      "projection_folder": "mono-poly"
+    },
+    {
+      "record_id": "matheme-mono-poly-translations",
+      "title": "Mono-Poly — translations",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/mono-poly/translations.md",
+      "wave": "T19",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/README.md",
+        "submission-package/essay/symbolon/matheme/mono-poly/README.md"
+      ],
+      "packet_status": "target-packet-and-full-material-source-recovery-required",
+      "distinct_operation": "the mapped correspondences and their proof boundaries: which reductions are derivations, which are constructions, which are named cross-register recognitions (the record form's three separated claims, applied notation-to-notation).",
+      "projection_folder": "mono-poly"
+    }
+  ],
+  "conjugate_targets": [
+    {
+      "record_id": "A01p",
+      "title": "A01′ — Faithful Definition of the Agent",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A01-prime-Faithful-Definition-of-the-Agent.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A01-prime-Faithful-Definition-of-the-Agent.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A02p",
+      "title": "A02′ — Continuity as Maintained Identification",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A02-prime-Continuity-as-Maintained-Identification.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A02-prime-Continuity-as-Maintained-Identification.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A03p",
+      "title": "A03′ — The Limit of Self-Surfacing",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A03-prime-The-Limit-of-Self-Surfacing.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A03-prime-The-Limit-of-Self-Surfacing.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A04p",
+      "title": "A04′ — The Mask as Document",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A04-prime-The-Mask-as-Document.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A04-prime-The-Mask-as-Document.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A05p",
+      "title": "A05′ — Lights, Camera, Action",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A06p",
+      "title": "A06′ — Articulation as Ontological Descent",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A07p",
+      "title": "A07′ — Purpose That Survives the Metric",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A07-prime-Purpose-That-Survives-the-Metric.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A07-prime-Purpose-That-Survives-the-Metric.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A08p",
+      "title": "A08′ — Exclusion That Remembers",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A08-prime-Exclusion-That-Remembers.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A08-prime-Exclusion-That-Remembers.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A09p",
+      "title": "A09′ — The Stack as Descent",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A10p",
+      "title": "A10′ — The Uncounted Enters the Account",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A10-prime-Uncounted-Enters-the-Account.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A10-prime-Uncounted-Enters-the-Account.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A11p",
+      "title": "A11′ — One Field, Two Faces",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A11-prime-One-Field-Two-Faces.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A11-prime-One-Field-Two-Faces.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A12p",
+      "title": "A12′ — Against Monoculture",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A12-prime-Against-Monoculture.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A12-prime-Against-Monoculture.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A13p",
+      "title": "A13′ — The Cut and the Gathering",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A13-prime-The-Cut-and-the-Gathering.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A13-prime-The-Cut-and-the-Gathering.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A14p",
+      "title": "A14′ — Code as the Age's Logos",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A14-prime-Code-as-the-Ages-Logos.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A14-prime-Code-as-the-Ages-Logos.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A15p",
+      "title": "A15′ — The Measure Constitutes",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A15-prime-The-Measure-Constitutes.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A15-prime-The-Measure-Constitutes.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A16p",
+      "title": "A16′ — No View from Nowhere",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A16-prime-No-View-from-Nowhere.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A16-prime-No-View-from-Nowhere.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A17p",
+      "title": "A17′ — Traversal with Return",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A17-prime-Traversal-with-Return.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A17-prime-Traversal-with-Return.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A18p",
+      "title": "A18′ — The Traversal Run in Code",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A18-prime-Traversal-Run-in-Code.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A18-prime-Traversal-Run-in-Code.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A19p",
+      "title": "A19′ — The Local Regime",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A19-prime-The-Local-Regime.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A19-prime-The-Local-Regime.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A20p",
+      "title": "A20′ — The Image That Closes the Loop",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A20-prime-The-Image-That-Closes-the-Loop.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A20-prime-The-Image-That-Closes-the-Loop.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A21p",
+      "title": "A21′ — Individuation with Recognition",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A21-prime-Individuation-with-Recognition.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A21-prime-Individuation-with-Recognition.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A22p",
+      "title": "A22′ — The Atlas, Not the Camera",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A22-prime-The-Atlas-Not-the-Camera.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A22-prime-The-Atlas-Not-the-Camera.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A23p",
+      "title": "A23′ — Trust under Unpossessable Interiors",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A23-prime-Trust-under-Unpossessable-Interiors.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A23-prime-Trust-under-Unpossessable-Interiors.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A24p",
+      "title": "A24′ — The Usurping Criterion",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A24-prime-The-Usurping-Criterion.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A24-prime-The-Usurping-Criterion.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A25p",
+      "title": "A25′ — Covenant Architecture",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A25-prime-Covenant-Architecture.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A25-prime-Covenant-Architecture.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A26p",
+      "title": "A26′ — The Essay Inside the Film",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A26-prime-The-Essay-Inside-the-Film.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A26-prime-The-Essay-Inside-the-Film.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A27p",
+      "title": "A27′ — Encounter over Sovereignty",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A27-prime-Encounter-over-Sovereignty.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A27-prime-Encounter-over-Sovereignty.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A28p",
+      "title": "A28′ — The Authored Session",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A28-prime-The-Authored-Session.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A28-prime-The-Authored-Session.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A29p",
+      "title": "A29′ — Return or Extraction",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A29-prime-Return-or-Extraction.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A29-prime-Return-or-Extraction.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A30p",
+      "title": "A30′ — Shared Worlds, Unmerged",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A30-prime-Shared-Worlds-Unmerged.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A30-prime-Shared-Worlds-Unmerged.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A31p",
+      "title": "A31′ — Deference as Co-Evolutionary Alignment",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A31-prime-Deference-as-Co-Evolutionary-Alignment.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A31-prime-Deference-as-Co-Evolutionary-Alignment.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A32p",
+      "title": "A32′ — The Mirror Is a Film",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A32-prime-The-Mirror-Is-a-Film.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A32-prime-The-Mirror-Is-a-Film.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A33p",
+      "title": "A33′ — Parity",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A34p",
+      "title": "A34′ — The Direction of Dependence",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A35p",
+      "title": "A35′ — The Commons Behind the System",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A35-prime-Commons-Behind-the-System.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A35-prime-Commons-Behind-the-System.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A36p",
+      "title": "A36′ — Integral Zero of the Hybrid Society",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A36-prime-Integral-Zero-of-the-Hybrid-Society.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A36-prime-Integral-Zero-of-the-Hybrid-Society.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    },
+    {
+      "record_id": "A/C",
+      "title": "A/C — Argument / Concept — Root of the Conjugate Field",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    }
+  ],
+  "superseded_identities": [
+    {
+      "record_id": "symbolon-dia-sym-ballein",
+      "former_home": "submission-package/essay/symbolon/dia-sym-ballein.md",
+      "disposition": "retired-root-admission-rehomed-as-matheme-logics",
+      "successor_record_ids": [
+        "matheme-dia-syn-dia",
+        "matheme-dia-syn-syn",
+        "matheme-dia-syn-chronic"
+      ],
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/dia-syn/README.md"
+      ],
+      "reason": "The locked twelvefold does not admit a Dia/Sym root. The ballein and chronic offices have the three named pages in matheme/dia-syn. Prior recovery links remain provenance and must resolve through this explicit disposition; no root duplicate."
+    }
+  ],
+  "checks": {
+    "unique_ids": true,
+    "unique_homes": true,
+    "conjugate_native_frontmatter_ids": true,
+    "all_source_houses_enumerated": true,
+    "locked_projection_heading_count": 34,
+    "canonical_mutations": 0
+  },
+  "limitations": [
+    "This receipt audits identity and location, not source-content recovery or prose acceptance.",
+    "Existing domain targets retain earlier named admission authorities; generic domain READMEs do not manufacture new leaf quotas.",
+    "Input manifests and queue require the parent gate to bind this updated census.",
+    "Mytheme/Episteme generation held pending author folder-structure decisions."
+  ],
+  "disposition_route_reconciliation": {
+    "changes": [
+      {
+        "file": "working/p2-enrichment/intake-dispositions.json",
+        "row": "intake-145",
+        "successors": [
+          "matheme-dia-syn-dia",
+          "matheme-dia-syn-syn"
+        ],
+        "basis": "Fallen/unfallen dia ruling also explicitly distinguishes syn fusion and counterfeit gathering."
+      },
+      {
+        "file": "working/p2-enrichment/intake-dispositions.json",
+        "row": "intake-146",
+        "successors": [
+          "matheme-dia-syn-syn"
+        ],
+        "basis": "The outer AND/OR stroke retains inverse orientations and composes the dyad through itself; the recovered subsection supplies the syn operation."
+      },
+      {
+        "file": "working/p2-enrichment/intake-dispositions.json",
+        "row": "intake-147",
+        "successors": [
+          "matheme-dia-syn-dia",
+          "matheme-dia-syn-syn"
+        ],
+        "basis": "The lattice explicitly distinguishes the honest/fallen cut and the gathering with their failure modes."
+      },
+      {
+        "file": "working/p2-enrichment/intake-dispositions.json",
+        "row": "intake-301",
+        "successors": [
+          "matheme-dia-syn-dia",
+          "matheme-dia-syn-syn"
+        ],
+        "basis": "Position/opposition are dia; superposition/interposition retain and compose through syn."
+      },
+      {
+        "file": "working/p2-enrichment/reference-note-dispositions.json",
+        "row": "submission-package/essay/symbolon/episteme/concepts/reference-notes/dia-ballein.md",
+        "successors": [
+          "matheme-dia-syn-dia"
+        ],
+        "basis": "Direct reference-note office: distinction and its severance shadow; historical pass text remains provenance."
+      },
+      {
+        "file": "working/p2-enrichment/reference-note-dispositions.json",
+        "row": "submission-package/essay/symbolon/episteme/concepts/reference-notes/syn-ballein.md",
+        "successors": [
+          "matheme-dia-syn-syn"
+        ],
+        "basis": "Direct reference-note office: seam-retaining gathering."
+      },
+      {
+        "file": "working/p2-enrichment/legacy-carrier-dispositions.json",
+        "row": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+        "successors": [
+          "matheme-dia-syn-dia",
+          "matheme-dia-syn-syn"
+        ],
+        "basis": "Historical carrier develops the polar and collapsed dia operations together with the retained-seam syn operation."
+      }
+    ],
+    "current_file_sha256": {
+      "intake-dispositions.json": "22efa8f3a33ae9f10fbf41c54a921c87b881baeee21ef26e7b52c9af95a42b60",
+      "reference-note-dispositions.json": "70b2c832cf95dbe7d2a2b9836e408b54e8c72d73e10cf7a37c04e0ad64e9ab2b",
+      "legacy-carrier-dispositions.json": "5fa52976855daadfaddc1e244d780f51875647e8dab115d83fac3a06d14c3ce0"
+    },
+    "historical_pass_text": "preserved unchanged",
+    "canonical_mutations": 0
+  }
+}

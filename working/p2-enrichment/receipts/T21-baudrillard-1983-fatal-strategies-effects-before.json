@@ -1,0 +1,44 @@
+{
+  "root": {
+    "id": "baudrillard-1983-fatal-strategies",
+    "title": "Baudrillard — Fatal Strategies (1983)",
+    "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Baudrillard — Fatal Strategies (1983)",
+      "Bibliographic identity",
+      "Chicago 18 forms",
+      "Source scholarship",
+      "Argument relations (candidate — for the harmonisation pass to weigh)",
+      "Passage needs (leads — no quotation text)",
+      "Open acquisition and verification"
+    ],
+    "sha256": "e120a7f85ad4edee3b147c2c4b683a0093689507a33a8bd32fba31faa4b6e971",
+    "citation_status": "intake",
+    "quote_status": "no-excerpts",
+    "main_source_for": [],
+    "tags": [
+      "epi-logos/antikythera-essay",
+      "source-bank/record",
+      "source-bank/french-power-theory"
+    ]
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

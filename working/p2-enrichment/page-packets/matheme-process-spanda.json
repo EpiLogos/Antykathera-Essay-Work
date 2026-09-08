@@ -1,0 +1,401 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/dispatch-queue.json",
+    "queue_sha256": "58daf082cbeff7a8f46c38be645d2f55adad99e68d50212bbb031b30bf8f7a34",
+    "census": "working/p2-enrichment/census.json",
+    "census_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "matheme-process-spanda",
+    "title": "Spanda",
+    "register": "matheme",
+    "record_type": "matheme",
+    "canonical_home": "submission-package/essay/symbolon/matheme/process/spanda.md",
+    "wave": "T19",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+      "submission-package/essay/symbolon/matheme/process/README.md",
+      "submission-package/essay/symbolon/matheme/README.md",
+      "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+      "working/p2-enrichment/receipts/depth-acceptance.json"
+    ],
+    "packet_status": "target-packet-and-full-material-source-recovery-required",
+    "distinct_operation": "both Spanda equations, with T0 (emanative arc) and T1 (reversionary arc); projects into [[../spanda/README|Spanda]].",
+    "projection_folder": "process",
+    "argument_depth": [
+      "A18",
+      "A05",
+      "A09",
+      "A11",
+      "A12",
+      "A13",
+      "A15",
+      "A16",
+      "A17",
+      "A36"
+    ],
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/ql-musical-derivation-v3.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "start_line": 203,
+        "end_line": 266,
+        "relation": "Extracted internal authorial operation; read with whole four-file circuit and curated core-theorems refinements.",
+        "provenance": "Housed Binary Explication candidate manuscript; inherited internal derivation, not independent external attribution."
+      },
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "start_line": 167,
+        "end_line": 194,
+        "relation": "All eight determinations, their sequence, harmonics and inverse thresholds constrain this local page.",
+        "provenance": "Current native QL curated extraction."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/matheme/README.md",
+    "register_contract_domain": "submission-package/essay/symbolon/matheme/process/README.md",
+    "operation_to_develop": "Project both Spanda equations, with T0 (emanative arc) and T1 (reversionary arc); projects into [[../spanda/README|Spanda]]. Preserve this source section’s actual internal movement; expose inputs, operations, result, boundary and return. This is the process office, distinct from domain anatomy and root relation.",
+    "proof_standing": "Derived in native QL operations; independent finite mathematics exact under named assumptions; comparative recognition retains Argued/Offered standing.",
+    "evidence_boundary": "64+36=100 and reduced pair 16+9=25 are sums; ratio16/9 is a separate operation. 4²=2⁴ while3²≠2³. Neither arithmetic nor interval is an external proof of Śaiva doctrine or universality.",
+    "blockers": [],
+    "binding_status": "ready-for-target-preparation-with-explicit-evidence-debt",
+    "relations": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/harmonics/whole-tone-return.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      }
+    ],
+    "writing_obligations": [
+      "Read every selected A packet and materially implicated direct carrier; source/depth receipts are locators, not substitutes for the actual text.",
+      "Read SOURCE.md and all present sibling NOTES in full; never mutate protected NOTES or treat its quotation leads as verified passages.",
+      "Derive the raw #0/#1/#2/#3/#4/#5→0 from this operation. Do not use fixed Definition/Operation/Pattern/Context/Quintessence labels.",
+      "Write exact outward and return relations using the link skill permitted verbs; input-context relation descriptions are not ready-made publication prose.",
+      "The native eightfold, 4+2 cardinality, 4:2 orientation and3:3/3:1 recognition readings keep separate operations. Native X/x is never attributed to Jung.",
+      "A narrow evidence blocker restricts the unsupported claim/quotation, not the existing native QL proposition. No measurement, experiment or restoration discharge is certified by packet preparation.",
+      "Apply the concrete corrections in shared-source-recovery-a13-a24.md and shared-theorem-support-recovery.md wherever their claims are used; do not restore an error merely because it is older authored/developmental prose.",
+      "Definition and quilt preserve the short definitional chain 0/1 = 4+2 = 5→0 = 0/1; process and music preserve the full earned chain 0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1. Name the vantage when both enter a record.",
+      "File 2 primes name inverse-phase positions; File 3 §5→0 primes name the Night-pass sequence. Keep their meanings explicitly distinguished, including where both passages are inputs.",
+      "The core-theorems spine is the curated extraction set: preserve its later 3:3-also-3:1, additive-constant and native eightfold refinements; the four files condition the field without wholesale duplication into the essay.",
+      "Source/cross-register descriptions quoted in the locked README are input instructions, not finished public prose; independently verify external attribution before making it.",
+      "Reopen full relevant A packets and direct passages; this binding does not certify personal full reading of every inherited house."
+    ],
+    "supporting_receipts": [
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "working/p2-enrichment/receipts/matheme-locked-structure-recovery-2026-09-07.md",
+      "working/p2-enrichment/receipts/2026-09-07-input-amendment.md"
+    ],
+    "path_decision": "Explicit locked README leaf name; no heading-scanner admission. Reconciled with census_refresh on 2026-09-07."
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A18",
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f"
+    },
+    {
+      "argument_id": "A05",
+      "path": "working/p2-enrichment/argument-depth/A05.md",
+      "sha256": "d7992ff692cd1b0babef8b84157438fa89c92e5eefaa2a6b9752816e5ca23da9"
+    },
+    {
+      "argument_id": "A09",
+      "path": "working/p2-enrichment/argument-depth/A09.md",
+      "sha256": "7bbb367d7fe465f1d22b962495426f1a89d462d6f6c7fe4e3636dcd37978af5f"
+    },
+    {
+      "argument_id": "A11",
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "sha256": "19585deb79a5ec0dabb39493e413e0579e313adeab68051a783b6ad737584ab8"
+    },
+    {
+      "argument_id": "A12",
+      "path": "working/p2-enrichment/argument-depth/A12.md",
+      "sha256": "a4bfa473d034e31cd6cbd7afc45b96236929665a4dd42f4e3f056e3973c58b39"
+    },
+    {
+      "argument_id": "A13",
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8"
+    },
+    {
+      "argument_id": "A15",
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "sha256": "70e04921c5c97b94a3068eafe5b1595e3bfa4f537076f75376503628237f0f8a"
+    },
+    {
+      "argument_id": "A16",
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "sha256": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45"
+    },
+    {
+      "argument_id": "A17",
+      "path": "working/p2-enrichment/argument-depth/A17.md",
+      "sha256": "f524699d75f93c839c8acdff6430c91b591d8266c3731bafca0cbcd49d940c9a"
+    },
+    {
+      "argument_id": "A36",
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md",
+      "sha256": "9432bac7a477dc95d3b231f727ab59e1484a24ffbdb8c68afa7964d6e14ceeaf"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/ql-musical-derivation-v3.md",
+      "sha256": "61508658f871f232f554127052d683ecded15c28694cc79a110bcf7841492699"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/README.md",
+      "sha256": "115fa742d9d40ae3c283214b6f43bb679f7489a7baab862a1e99051f9ed69ec4"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/README.md",
+      "sha256": "63de70316017c420d667084c8ff346f4845d63018adfe420b7cae17464526040"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+      "source_sha256": "abff563740e2617c557b5d9c614a3336d34e5439e53320727cad5731292d8de7",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md",
+      "source_sha256": "caf16126bb1b26c79fe4d88768e977e820029198994b047a72b636507c579d20",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "source_sha256": "0c16ad20b0855d542ed39597df33fc56fa97a85358c9e9a93951f88c6324b885",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "start_line": 203,
+      "end_line": 266,
+      "relation": "Extracted internal authorial operation; read with whole four-file circuit and curated core-theorems refinements.",
+      "provenance": "Housed Binary Explication candidate manuscript; inherited internal derivation, not independent external attribution.",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0",
+      "text": "### §3' — 4'+2' = 5'→0'\n\nThe cross-mapping. Each position paired with its inverse-phase counterpart:\n\n| Pair | #X content | #X' content | Positional sum | Content sum |\n|---|---|---|---|---|\n| #0 / #0' | 0 | 1 | #0+#5 | **Essence** — the implicate poles, unchanged |\n| #1 / #1' | 0/1 | 1/0 | #1+#4 → but content = #2+#3 | **Structure → Formality** |\n| #2 / #2' | 0/0 | 1/1 | #2+#3 → but content = #1+#4 | **Formality → Structure** |\n| #3 / #3' | 1/1 | 0/0 | same as #2/#2' inverted | **Structure' → Formality'** |\n| #4 / #4' | 1/0 | 0/1 | same as #1/#1' inverted | **Formality' → Structure'** |\n| #5 / #5' | 1 | 0 | #0'+#5' | **Essence'** — the implicate poles, unchanged |\n\nThe crucial finding: **Structure and Formality exchange across the phase-shift.** What was Structure (#1+#4, the span from % to 100%, from indeterminate capacity to achieved wholeness) in the forward pass becomes Formality (#2+#3, the self-inverting core, the expression and its inverse) in the inverse pass, and vice versa. The Essence pair (#0+#5) stays fixed — the implicate poles do not permute because they are the phase-shift's own axis, the ground and the achievement that the entire circulation rotates around. But the two explicate pairings swap. The double cover is not a repetition; it is a **transformation** — the same elements rearranged by the phase-flip into a different complementary pattern. The harmonics (0/1, 2/3, 4/5) stay fixed across both phases, but the symmetries rotate. Structure permutes with Formality while Essence remains still — exactly the way the four cardinal points rotate while the centre and circumference provide the axis.\n\nThe total informational content: (3 harmonics + 3 symmetries) × (2 passes + 2 internal phases) = **(3+3) × (2+2) = 24**. The double double cover — 6 positions × 2 passes × 2 registers = 24 states, the full combinatorial expression of a sixfold read through its own inverse.\n\n**The First Spanda Equation** (from the AND/OR register — the ratio-logic, the emanative genesis):\n\n$$0 = (0/0) \\rightarrow \\left(\\frac{0/1}{1/0}\\right) \\rightarrow [T0] \\rightarrow [T1] \\rightarrow (1/0 + 0/1) \\rightarrow 1/1 = 1 = 100\\%$$\n\nEvery symbol in this equation is a position or operation from the forward table read through the AND/OR column. The void (0, #0) is indeterminate (0/0 = %, #1). The indeterminate differentiates into the ratio of ratios ((0/1)/(1/0), #0's own AND/OR form — the parent unfolding the child it has always contained). This differentiation produces two directed movements — the two tracks the full matheme encodes as its double pass:\n\n**T0** moves from **0/(0/1) to 0/1** — the emanative arc. The void takes the expression as its denominator and works *toward* the expression: the ground generating the figure, negation producing affirmation, the silent becoming articulate. This is the AND/OR register's own movement — the ratio-logic, the proportional passage, the descent from indeterminate to determinate through nothing but slash-relations.\n\n**T1** moves from **(1/0)/0 to 1/0** — the reversionary arc. The inverse takes the void as its denominator and works *toward* the inverse: the figure recognising its ground, affirmation acknowledging negation, the articulate discovering the silence that sustains it. This is the AND+OR register's own movement — the geometric passage, the spatial traversal, the ascent from determinate toward its own condition.\n\nThe two tracks **bridge** at **(1/0 + 0/1)** — the interference term where inverse and expression recombine, where the two directed movements meet, where the forward and the return discover they were always one circuit. And they **resolve** into 1/1 = 1 = 100% — self-consistent unity, the ratio that has found itself whole, the equation that has equated itself.\n\nThe First Spanda Equation traces the genesis of the whole system from the void's own self-reading. It is the Spanda in its emanative mode — the way silence becomes speech through nothing but its own internal differentiation. The void does not become something by being filled from outside; it becomes something by reading itself, by distinguishing within itself the possibility of a ratio that was always latent. Intelligence at its most primordial: the *inter-legere* of nothing and nothing producing the first difference — the cut that will eventually become the whole architecture of self-knowing.\n\n**The Second Spanda Equation** (from the AND+OR registers — the phase-space accounting, the base frame):\n\n$$100\\% = 2^6 + 6^2 = 64+36 \\;\\rightarrow\\; /4 \\;\\rightarrow\\; \\frac{16}{9} \\;\\rightarrow\\; \\frac{2^4}{3^2} \\;\\rightarrow\\; 4+2$$\n\n| Step | Operation | Result | Structural meaning |\n|---|---|---|---|\n| **100%** | — | 100 | The achieved wholeness: 1/1 = 1 = 100%. Starting point of the inverse derivation — the whole analysing itself into its own components. |\n| **= 2⁶ + 6²** | Partition | 64 + 36 | **2⁶ = 64**: the binary principle (2) raised to the power of the sixfold (6) — the 0/1 running through all six of its positions, producing 2×2×2×2×2×2 = 64 combinatorial states. **6² = 36**: the sixfold squared — the positions taken to their own second power, the meta-structural level where the six becomes the basis for its own second-order accounting. 100% = what the binary produces through the sixfold (2⁶) + what the sixfold produces through itself (6²). |\n| **→ 2⁶/6²** | Ratio | 64/36 | The ratio of the two components. Hidden within: 2⁶ = 2⁴ × 2² (the 4+2 latent in the numerator — four binary principles times two binary poles). 6² = (2×3)² = 2² × 3² (the sixfold squared carrying both the binary-squared and the ternary-squared). |\n| **→ /4** | Divide by quaternary | 16/9 | The /4 strips the common binary-squared factor (2² = 4) from both numerator and denominator: 2⁶/2² = 2⁴, and (2²×3²)/2² = 3². The quaternary is what the 64 and the 36 share — the binary foundation common to both — and dividing it out reveals the difference: four factors of 2 in the numerator (the four explicates as binary products), two factors of 3 in the denominator (the three harmonics as ternary structure). Notice: the /4 dividing step is the same quaternary that emerged from the copula's inner structure (File 1 §2, the 4 of = = ≠ ≠); the 4 is the invariant that proportions the whole. |\n| **→ 16/9** | The core ratio | 2⁴/3² = 4²/3² | As 2⁴: four instances of the binary principle — (4×2's) + (2×3's) = the **4+2**, the base frame of a single pass. As 4²: the quaternary squared — two instances of the quaternary, giving the 2-track bilateral structure (T0 and T1 as two quaternary principles). And 16/9 = (4/3)² — the 75% gap squared, because the double cover runs the gap twice. |\n| **→ 2⁴/3²** | Prime factorisation | (4×2's) + (2×3's) | Four instances of the binary principle (the AND, the concatenative, the explicate). Two instances of the ternary principle (the 3, the harmonics, the AND/OR, the implicate). |\n| **→ 4+2** | The base frame | 4 explicate + 2 implicate | The 4+2 derived from 100% through internal accounting — the Spanda's own self-reckoning, the whole discovering it was always already a sixfold. |\n\nThe Pythagorean triple lives inside: **16 + 9 = 25 = 5²**. The implicate (3² = 9) and the explicate (2⁴ = 16) stand at right angles in the 3-4-5 triangle — the implicate 3 and the explicate 4 at right angles, the hypotenuse 5 as the silent diagonal connecting them without appearing as either. Area = (4×3)/2 = **6** (the sixfold — one complete pass). Perimeter = 3+4+5 = **12** (the double cover — two complete passes). The hypotenuse is silent in the derivation — it does not appear as an intermediate value — because it is the transcendent connector, the relation that holds implicate and explicate without being either, the way the slash holds 0 and 1 without being either 0 or 1.\n\nThe central musical-ratio discovery of the processual file sits in this same arithmetic, and we should let it land with its full weight, because nothing in the later files exceeds it in consequence. The core ratio 16/9 factors as (4/3)² — the fourth, taken twice. The geometric pass had already given us the fourth in both directions: 4/3 as the ascending span by which the count reaches toward completion, 3/4 as the descending recognition by which completion reads back over the count. The base frame now tells us that the matheme's totality — the internal proportion of the achieved 100% — is the doubled fourth: the manifestation-span applied twice, once for each conjugate pass of the double cover. And this totality does not close. The octave, the doubling-relation 2/1 by which a cycle would return exactly to itself, stands a precise distance beyond it:\n\n$$\\frac{2/1}{16/9} = \\frac{9}{8}$$\n\nThe ratio 9/8 — the epogdoon, the Pythagorean whole-tone, the interval by which a fifth exceeds a fourth — is the exact measure of the matheme's non-closure. The system almost doubles and falls short by one whole-tone, and the shortfall is not an error in the arithmetic but the arithmetic's deepest result: a structure whose totality equalled its octave would be a dead identity, a cycle that returns without remainder, the closed system Gödel proved impossible and the ?/! at #3 already refused. The missing whole-tone is the live tick of the matheme — the interval by which closure remains processual, the residue that each cycle hands forward so that the next cycle has something to begin from. The same tick is doubly derived, because (3/2)/(4/3) = 9/8: the difference between the fifth and the fourth is the same interval as the difference between the octave and the totality. The four directional ratios are thereby complete as a family: **4/3** as manifestation, the span going forth; **3/4** as recognition, the span read home; **3/2** as aspiration, the fifth that lures the field toward completion; **2/3** as grounding, the fifth that settles it back. None of these is imported from music theory. Each is a face of the base frame's own factorisation, and their identification with the intervals every musical tradition has tuned by is recognition after the fact — the kind of recognition this whole proof is made of. File 4 will derive the full system these ratios generate; what matters here is that the proof has discovered them processually, as what the Spanda equations say when their two readings are held against one another.\n\nWhitehead has a word for what the aspirational fifth is doing, and it earns its place because his whole metaphysics turns on it. Eternal objects — and numbers are among his first examples — are pure potentials: timeless, neutral as to whether anything actualises them, possessing no agency of their own and yet exerting what he calls a lure, realised only when an actual occasion decides for them. The 3/2 is the lure written as ratio. Nothing compels the field toward completion; the fifth does not push; it draws — a potential whose mere availability inclines the traversal that takes it up. The fourth spans, the tick advances, and the fifth lures: the ratio-family carries, in miniature, the difference between efficient process and final attraction that Whitehead spent *Process and Reality* keeping distinct.\n\n**The mod nesting made rigorous:**\n\n- **mod2 inside mod4**: each double is composed of two binary terms — mod2 is the internal content of each mod4 position. 4 = 2².\n- **mod4 inside mod6**: the four doubles sit between the two singles. 6 = 4+2. The quaternary is the explicate face; the binary poles are the implicate frame.\n- **mod6 returning to mod2**: 6 mod 2 = 0 — the sixfold, taken modulo its own binary foundation, vanishes. The full pass closes back into its own base.\n- **6 mod 4 = 2** — the sixfold modulo the quaternary gives the binary. The remainder after the four explicates is the two implicates.\n- **6 mod 3 = 0** — the sixfold divides evenly by the ternary. The three harmonics tile the six positions exactly: three pairs of two.\n- **4 mod 3 = 1** — the quaternary modulo the ternary gives a remainder of one. The four explicates don't tile evenly by threes — there is always an excess, a remainder, a 1 left over. This is the 75% gap in modular dress: 4/3 = 1.333..., the explicate count exceeds the harmonic count by a non-integer amount, the counting cannot close cleanly into the harmonic structure. The remainder-1 is the same structural tension as the 75%/100% discrepancy — the count that requires the qualitative return (360° = 0°) to complete what enumeration structurally cannot.\n"
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "start_line": 167,
+      "end_line": 194,
+      "relation": "All eight determinations, their sequence, harmonics and inverse thresholds constrain this local page.",
+      "provenance": "Current native QL curated extraction.",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "text": "## (c) The eight determinations — one relation traversed from field to return\n\nThe six-position QL unit and the eight determinations answer different questions and must remain distinct. The **sixfold** is the generative positional body: the two implicate poles and four explicate relational states yielded by `2 + 2² = 4 + 2 = 6`. The **eightfold** gives that body its full threshold-to-return traversal: the unnamed parent-relation before a determinate field, the six qualitative determinations, and the phase-flip by which their achieved form turns back toward its condition. One relation—unobjectifiable awareness and appearing phenomenon, ground and mark—takes on each distinct operation required for a knowing-act to become accountable without pretending to stand outside itself; detaching the binaries or treating them as serial replacements destroys the traversal.\n\n| Turn | Expression | QL determination and its work | What remains invariant through the change |\n| --- | ---: | --- | --- |\n| **Parent relation** | `/ = −/−` | Bare relationality before the field has been divided into named terms: the stroke is its own determination form, two unassigned marks held in one expression, the capacity for relation prior to a determinate contrast. It is the unnamed parent of the six, not an additional position among them. | The relation has a condition that cannot appear as one more product of the relation. |\n| **#0 Ground** | `0/1` | **Awareness / phenomenon; conscious circumstance.** “I am here; something appears; the appearing is known.” `0` names the open, unobjectifiable fact of awareness; `1` the appearing mark; `/` the relation by which the real becomes readable without being exhausted by its readability. Appearing is in awareness, and awareness is encountered only through appearing; the relation precedes any picture of two completed substances separated by a wall. | The ground is immanent to every mark without becoming another positive mark or a hidden object behind it. |\n| **#1 Definition** | `?/!` | **Questioning / asserting; ratio, reckoning, mark.** To ask “what is this?” already asserts that something has appeared stably enough to call for account; to assert “this is” keeps open the question of whether the account runs true. Definition is therefore double: openness to determination and determinative speech. It marks while remaining answerable to what called for the mark. | Every assertion bears the unsettled question that makes it accountable; every genuine question already takes a provisional mark. |\n| **#2 Dynamis** | `−/+` | **Withdrawal / extension; force, polarity, Spanda-seed.** The relation becomes energetic: one side functions as reserve, contraction, withholding; the other as issue, release, presentation. The positive is the void’s own self-relation appearing as extension. The poles form a sustained pulse whose moments remain co-present—breath gathers and releases; attention contracts around a word and opens into sense. | The two poles remain one differentiating movement: distinction has force without becoming a war of independent substances. |\n| **#3 Pattern** | `X/x` | **Determining-capacity / determinate instance; recurrence.** Capital `X` is the presiding capacity, type, or anything-by-which something can be read; lower-case `x` is its temporal local face. The same letter, in two cases, prevents the instance from being severed from the capacity it manifests. The small `x` also retains multiplication: an instance can recur, compound, and yield “another one of those.” Pattern is where force becomes recognisable as kind, rhythm, memory, and thought. | The local instance makes the general legible but neither contains nor exhausts it. |\n| **#4 Context** | `AM/IS` | **First-person presence / third-person sayability; the personed copula.** `AM` is lived “I am”; `IS` is what can be stated as “it is”; the slash is the second-person relation through which they meet. Context is the lived *where* of this encounter—world, body, concern, speech, memory, task—not a neutral container. It is total because nothing appears outside some horizon, and incidental because that horizon does not ordinarily stand forth as one more object. | Knower, means, and known remain one appearing-act without becoming interchangeable: *pramātṛ / pramāṇa / prameya*. |\n| **#5 Realisation** | `∞/dx` | **Unbounded depth / infinitesimal differential; horizon and local exactness.** `∞` names the inexhaustible field no finite mark contains. `dx` is no longer merely the instance `x` but the minute difference through which change and local reading become exact. Every appearance is therefore a true local ratio of what exceeds it: precise as relation, partial as expression. The whole is not hidden inside the part; it is present in the way the part runs true to what it cannot enclose. | Exactness never becomes possession. A finite determination remains answerable to the depth that makes it possible. |\n| **Return-switch** | `1/0` | The achieved determinate turns toward the ground it presupposes and meets the incomputable rather than an object called “the ground.” The mental cannot find the foundation of the mental, because every act of finding already occurs through it. This is *pratyabhijñā*: recognition, not acquisition. | The limit is generative: `5→0`, the return through ground that renews a further cycle rather than cancelling the determination. |\n\nThe table fixes the actual order of determination. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their meanings and prevent them from becoming decorative or interchangeable correspondences.\n\nThe six also have internal grammar. **Being** joins Ground and Definition: a field is present and can be called to account. **Becoming** joins Dynamis and Pattern: force becomes intelligible as recurrence, while recurrence stays alive only as force capable of further instance. **Knowing/unKnowing** joins Context and Realisation: lived predication becomes honest only when its horizon exceeds every situated claim. Across this forward harmonic grouping run the complementary folds: **Essence** (`0+5`) pairs conscious circumstance with unbounded differential depth; **Constitution** (`1+4`) pairs answerable definition with the world in which someone asks and asserts; **Text-Texture** (`2+3`) pairs the felt weave of force with its readable pattern. The six positions are thus neither a linear ladder nor a flat catalogue.\n\nThe calculus turn makes the final determination mathematically exact. Differentiation yields local change while losing the additive constant; integration restores a family `F(x)+C`, with no single self-grounding whole selected by the local derivative alone. The missing `C` is the formally required provenance that local change cannot reconstruct; mystical surplus and defective calculation are both unnecessary explanations. The psychological and metaphysical claim begins there: a determination can be exact without containing the whole condition from which its exactness was taken.\n\n**QL placement.** `/ = −/−` and `1/0` bracket rather than enlarge the six positions. `/ = −/−` is the parent-relation before the count; `1/0` is the inversion through which the counted form recognises the ground that never became one of its contents. Within the bracket, `0/1`, `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` are the first qualitative body of the `4+2`. This preserves the distinction between the eight-turn traversal and QL's sixfold base count: Jung's four functions plus introversion/extroversion can disclose the same psychological `4+2`, while the fuller account can still traverse from pre-distinction, through conscious circumstance, to the incomputable return.\n\n---\n\n# III. The Pythagorean QL Unit\n\nThe Self's structure distilled to pure number — number as *[[working/sources-texts-references/QL-Essay-Rewrite#Part IX — Part IX — Resonances and Isomorphies: The Psychoid Continuum of Thought and World|psychoid]] archetype* (Jung/Pauli's *unus mundus*), where each numeral carries qualitative weight (1 = unity/first distinction, 2 = duality/relation, 3 = synthesis/the dynamic third). The unit is derived by watching the field of identity-as-difference **count itself**."
+    }
+  ],
+  "raw_skeleton": "# Spanda\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

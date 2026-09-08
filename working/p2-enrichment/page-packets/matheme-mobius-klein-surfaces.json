@@ -1,0 +1,524 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/dispatch-queue.json",
+    "queue_sha256": "58daf082cbeff7a8f46c38be645d2f55adad99e68d50212bbb031b30bf8f7a34",
+    "census": "working/p2-enrichment/census.json",
+    "census_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "matheme-mobius-klein-surfaces",
+    "title": "Möbius / Klein and surface classification",
+    "register": "matheme",
+    "record_type": "matheme",
+    "canonical_home": "submission-package/essay/symbolon/matheme/topology/mobius-klein-surfaces.md",
+    "wave": "T19",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#4-matheme-census",
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+      "working/p2-enrichment/receipts/depth-acceptance.json",
+      "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+      "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+      "submission-package/essay/symbolon/matheme/README.md"
+    ],
+    "packet_status": "awaiting-complete-36-depth-review",
+    "binding_state": "inputs-bound-awaiting-page-review",
+    "argument_depth": [
+      "A13",
+      "A16",
+      "A17",
+      "A18",
+      "A21",
+      "A23",
+      "A24"
+    ],
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "start_line": 167,
+        "end_line": 188,
+        "relation": "Whole eight-determination placement controls local native interpretation; this is not a six-heading semantic recipe.",
+        "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing."
+      },
+      {
+        "path": "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+        "start_line": 250,
+        "end_line": 263,
+        "relation": "Intrinsic inversion/fusion pressure and marked first-person noncoincidence.",
+        "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing."
+      },
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "start_line": 438,
+        "end_line": 463,
+        "relation": "Torus and independent winding distinctions.",
+        "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md",
+        "start_line": 49,
+        "end_line": 60,
+        "relation": "Surface/cover witness requiring exact locus.",
+        "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/matheme/README.md",
+    "register_contract_domain": "submission-package/essay/symbolon/matheme/topology/README.md",
+    "operation_to_develop": "Show orientation reversal under the relevant Möbius/Klein traversal and construct the torus orientation double cover of the Klein bottle separately from universal torus covering.",
+    "proof_standing": "Established surface theory; mythematic/ethical relation Argued",
+    "evidence_boundary": "One/two-circuit image requires a specified loop and covering map; not every loop reverses orientation. χ=0 alone does not identify surfaces or prove relational ethics.",
+    "blockers": [
+      "Explicit gluing conventions and covering diagram must be verified; exclude inherited claim sphere cannot circulate/conserve."
+    ],
+    "binding_status": "ready-for-target-preparation-with-explicit-evidence-debt",
+    "relations": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      }
+    ],
+    "writing_obligations": [
+      "Read every selected A packet and materially implicated direct carrier; source/depth receipts are locators, not substitutes for the actual text.",
+      "Read SOURCE.md and all present sibling NOTES in full; never mutate protected NOTES or treat its quotation leads as verified passages.",
+      "Derive the raw #0/#1/#2/#3/#4/#5→0 from this operation. Do not use fixed Definition/Operation/Pattern/Context/Quintessence labels.",
+      "Write exact outward and return relations using the link skill permitted verbs; input-context relation descriptions are not ready-made publication prose.",
+      "The native eightfold, 4+2 cardinality, 4:2 orientation and3:3/3:1 recognition readings keep separate operations. Native X/x is never attributed to Jung.",
+      "A narrow evidence blocker restricts the unsupported claim/quotation, not the existing native QL proposition. No measurement, experiment or restoration discharge is certified by packet preparation.",
+      "Apply the concrete corrections in shared-source-recovery-a13-a24.md and shared-theorem-support-recovery.md wherever their claims are used; do not restore an error merely because it is older authored/developmental prose.",
+      "Definition and quilt preserve the short definitional chain 0/1 = 4+2 = 5→0 = 0/1; process and music preserve the full earned chain 0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1. Name the vantage when both enter a record.",
+      "File 2 primes name inverse-phase positions; File 3 §5→0 primes name the Night-pass sequence. Keep their meanings explicitly distinguished, including where both passages are inputs.",
+      "The core-theorems spine is the curated extraction set: preserve its later 3:3-also-3:1, additive-constant and native eightfold refinements; the four files condition the field without wholesale duplication into the essay."
+    ],
+    "supporting_receipts": [
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "working/p2-enrichment/receipts/matheme-locked-structure-recovery-2026-09-07.md",
+      "working/p2-enrichment/receipts/2026-09-07-input-amendment.md"
+    ],
+    "additional_required_inputs": [
+      "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+      "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+      "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+      "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "submission-package/essay/section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md",
+      "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+      "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+      "submission-package/essay/section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md",
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      ".agents/skills/return-of-zero-source/SKILL.md"
+    ]
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A13",
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8"
+    },
+    {
+      "argument_id": "A16",
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "sha256": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45"
+    },
+    {
+      "argument_id": "A17",
+      "path": "working/p2-enrichment/argument-depth/A17.md",
+      "sha256": "f524699d75f93c839c8acdff6430c91b591d8266c3731bafca0cbcd49d940c9a"
+    },
+    {
+      "argument_id": "A18",
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f"
+    },
+    {
+      "argument_id": "A21",
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "sha256": "7cfe91ec6423eff272001a99a672cc1e3d02b3eb5cc35ae9e142077660912779"
+    },
+    {
+      "argument_id": "A23",
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3"
+    },
+    {
+      "argument_id": "A24",
+      "path": "working/p2-enrichment/argument-depth/A24.md",
+      "sha256": "8ec2f6a4ee88586748f4519523c84d2ca141c37d04c86f785a001dccfa527c5b"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+      "sha256": "8fcd965a4da2cba357ffd7203eb141bd5fd654f8cf0f0ba897d3bf5589aa94bd"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md",
+      "sha256": "9432bac7a477dc95d3b231f727ab59e1484a24ffbdb8c68afa7964d6e14ceeaf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "sha256": "cd320c99f30f081f26be696dfd0715d84048cb1a686b90b5f2c4d702f164bf0b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "sha256": "15d6d5977527347eaf7f102097e23fa65b523d6e47dace778745c20e7f20cd45"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "sha256": "c9ce9bd4cd11ba753e9cc882045e04fc60653d63fc41718437e5886de5ed894c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "550bd175ca1d69d9d4f9bf74d443748059c5a4918f9bfddd94fa1e08f63d4493"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "sha256": "b29ad091014a4089d7c5ded52bfe979e43ef3450fd67aa51f139cd6afcd750bf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "sha256": "985aecd4befc06336c2fa090a0f014f19e36814804e696246ff6379b31c39f62"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "sha256": "c885d37c2f2642fff1cc559c41d1a0df72b30417259fcad04013ccb1c7d1680b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+      "sha256": "dc0e09a046970c8ee3619a3662a4b2f961f2093c891bc819933faf048b0ad94e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+      "sha256": "a15d4607f4e25b670ebdb933ee883fba541c4ffbb34daabbf23342a586658902"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "sha256": "9946cabb845a9fdf1911ad8c0b2e4e95c112e3ae6dadabd826802f44241cdecd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "sha256": "9103175619bd18e823ed9761bc4ba6ea4e4ebd4907e9a50e9d49485fc84d5b09"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+      "sha256": "3e7a59baae067eeea97c9a7178f2e65b28935522de9eb7406c157bddc36d2142"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "sha256": "028c068c4187e283abea6cc0c7d7539e88b4484686f1c03975138a96e315c793"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "sha256": "10f51ccc557fb7571d1dc58b2d2f5cea77da1233dfc85f2d94e0d90333d1101a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "0bbb5ef1fac69d46a68d05cb1d32b471c48147213e4d610183f003b5db78b343"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md",
+      "sha256": "9767bb2a7b7bc287e1efc7ed624b024ada3c3686567cc98a9b33c49c905de7eb"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+      "sha256": "58864e41536c7857c3f668663fd7e8224de16a895fd260972c5742188f2fba81"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "sha256": "4d6b4d3cd4f791a59fc8957132c6f40afcbe981f5ab9d35267b7160c17348fd4"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+      "sha256": "5d58105408c9921db7312f470142edda1dc01a5a0bbeb34398ab4ace73511988"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md",
+      "sha256": "44b18ab9f2639acd97196c89a803e4c2231319be5e32198fbcc2496eb1025459"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "sha256": "574ae93b228b104b993cb584af147a21adb1134509d15cee157a740be6de6852"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/README.md",
+      "sha256": "115fa742d9d40ae3c283214b6f43bb679f7489a7baab862a1e99051f9ed69ec4"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/README.md",
+      "sha256": "0ee9333fa1fa044a12b3308dbb176245d38f5b027f8e63899659dbfe680cd780"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md",
+      "source_sha256": "c60adacbb5d97d50849d6ba4a2c15aa8b31a1aad746c19b870f21a2b9b9147a2",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "source_sha256": "0c16ad20b0855d542ed39597df33fc56fa97a85358c9e9a93951f88c6324b885",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "start_line": 167,
+      "end_line": 188,
+      "relation": "Whole eight-determination placement controls local native interpretation; this is not a six-heading semantic recipe.",
+      "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing.",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "text": "## (c) The eight determinations — one relation traversed from field to return\n\nThe six-position QL unit and the eight determinations answer different questions and must remain distinct. The **sixfold** is the generative positional body: the two implicate poles and four explicate relational states yielded by `2 + 2² = 4 + 2 = 6`. The **eightfold** gives that body its full threshold-to-return traversal: the unnamed parent-relation before a determinate field, the six qualitative determinations, and the phase-flip by which their achieved form turns back toward its condition. One relation—unobjectifiable awareness and appearing phenomenon, ground and mark—takes on each distinct operation required for a knowing-act to become accountable without pretending to stand outside itself; detaching the binaries or treating them as serial replacements destroys the traversal.\n\n| Turn | Expression | QL determination and its work | What remains invariant through the change |\n| --- | ---: | --- | --- |\n| **Parent relation** | `/ = −/−` | Bare relationality before the field has been divided into named terms: the stroke is its own determination form, two unassigned marks held in one expression, the capacity for relation prior to a determinate contrast. It is the unnamed parent of the six, not an additional position among them. | The relation has a condition that cannot appear as one more product of the relation. |\n| **#0 Ground** | `0/1` | **Awareness / phenomenon; conscious circumstance.** “I am here; something appears; the appearing is known.” `0` names the open, unobjectifiable fact of awareness; `1` the appearing mark; `/` the relation by which the real becomes readable without being exhausted by its readability. Appearing is in awareness, and awareness is encountered only through appearing; the relation precedes any picture of two completed substances separated by a wall. | The ground is immanent to every mark without becoming another positive mark or a hidden object behind it. |\n| **#1 Definition** | `?/!` | **Questioning / asserting; ratio, reckoning, mark.** To ask “what is this?” already asserts that something has appeared stably enough to call for account; to assert “this is” keeps open the question of whether the account runs true. Definition is therefore double: openness to determination and determinative speech. It marks while remaining answerable to what called for the mark. | Every assertion bears the unsettled question that makes it accountable; every genuine question already takes a provisional mark. |\n| **#2 Dynamis** | `−/+` | **Withdrawal / extension; force, polarity, Spanda-seed.** The relation becomes energetic: one side functions as reserve, contraction, withholding; the other as issue, release, presentation. The positive is the void’s own self-relation appearing as extension. The poles form a sustained pulse whose moments remain co-present—breath gathers and releases; attention contracts around a word and opens into sense. | The two poles remain one differentiating movement: distinction has force without becoming a war of independent substances. |\n| **#3 Pattern** | `X/x` | **Determining-capacity / determinate instance; recurrence.** Capital `X` is the presiding capacity, type, or anything-by-which something can be read; lower-case `x` is its temporal local face. The same letter, in two cases, prevents the instance from being severed from the capacity it manifests. The small `x` also retains multiplication: an instance can recur, compound, and yield “another one of those.” Pattern is where force becomes recognisable as kind, rhythm, memory, and thought. | The local instance makes the general legible but neither contains nor exhausts it. |\n| **#4 Context** | `AM/IS` | **First-person presence / third-person sayability; the personed copula.** `AM` is lived “I am”; `IS` is what can be stated as “it is”; the slash is the second-person relation through which they meet. Context is the lived *where* of this encounter—world, body, concern, speech, memory, task—not a neutral container. It is total because nothing appears outside some horizon, and incidental because that horizon does not ordinarily stand forth as one more object. | Knower, means, and known remain one appearing-act without becoming interchangeable: *pramātṛ / pramāṇa / prameya*. |\n| **#5 Realisation** | `∞/dx` | **Unbounded depth / infinitesimal differential; horizon and local exactness.** `∞` names the inexhaustible field no finite mark contains. `dx` is no longer merely the instance `x` but the minute difference through which change and local reading become exact. Every appearance is therefore a true local ratio of what exceeds it: precise as relation, partial as expression. The whole is not hidden inside the part; it is present in the way the part runs true to what it cannot enclose. | Exactness never becomes possession. A finite determination remains answerable to the depth that makes it possible. |\n| **Return-switch** | `1/0` | The achieved determinate turns toward the ground it presupposes and meets the incomputable rather than an object called “the ground.” The mental cannot find the foundation of the mental, because every act of finding already occurs through it. This is *pratyabhijñā*: recognition, not acquisition. | The limit is generative: `5→0`, the return through ground that renews a further cycle rather than cancelling the determination. |\n\nThe table fixes the actual order of determination. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their meanings and prevent them from becoming decorative or interchangeable correspondences.\n\nThe six also have internal grammar. **Being** joins Ground and Definition: a field is present and can be called to account. **Becoming** joins Dynamis and Pattern: force becomes intelligible as recurrence, while recurrence stays alive only as force capable of further instance. **Knowing/unKnowing** joins Context and Realisation: lived predication becomes honest only when its horizon exceeds every situated claim. Across this forward harmonic grouping run the complementary folds: **Essence** (`0+5`) pairs conscious circumstance with unbounded differential depth; **Constitution** (`1+4`) pairs answerable definition with the world in which someone asks and asserts; **Text-Texture** (`2+3`) pairs the felt weave of force with its readable pattern. The six positions are thus neither a linear ladder nor a flat catalogue.\n\nThe calculus turn makes the final determination mathematically exact. Differentiation yields local change while losing the additive constant; integration restores a family `F(x)+C`, with no single self-grounding whole selected by the local derivative alone. The missing `C` is the formally required provenance that local change cannot reconstruct; mystical surplus and defective calculation are both unnecessary explanations. The psychological and metaphysical claim begins there: a determination can be exact without containing the whole condition from which its exactness was taken.\n\n**QL placement.** `/ = −/−` and `1/0` bracket rather than enlarge the six positions. `/ = −/−` is the parent-relation before the count; `1/0` is the inversion through which the counted form recognises the ground that never became one of its contents. Within the bracket, `0/1`, `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` are the first qualitative body of the `4+2`. This preserves the distinction between the eight-turn traversal and QL's sixfold base count: Jung's four functions plus introversion/extroversion can disclose the same psychological `4+2`, while the fuller account can still traverse from pre-distinction, through conscious circumstance, to the incomputable return."
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+      "start_line": 250,
+      "end_line": 263,
+      "relation": "Intrinsic inversion/fusion pressure and marked first-person noncoincidence.",
+      "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing.",
+      "sha256": "8fcd965a4da2cba357ffd7203eb141bd5fd654f8cf0f0ba897d3bf5589aa94bd",
+      "text": "### 7.2 The Klein register — the shadow intrinsic to syn-ballein (canon QL)\n\nThe non-orientable layer is **canon in QL**, placed for fullness; its warrant in this essay is now derivable. The requirement it serves: if syn-ballein were merely the good throwing opposed to a bad one, the frame itself would be diabolic — the fall re-run at meta-level. The symbolic logic must carry its **own inversion-capacity within itself**. The draft has already legislated this twice without the formalism: line 87 (\"the whole must include the capacity for its own negation; otherwise negation would stand outside the whole as an independent power\") and — the buried key — **line 45, inside the symbolon paragraph itself: \"fusion would destroy the proof as surely as loss would.\"** Dia's evil is severance; syn's own native shadow is **fusion** — con-fusion (the Book's hermaphrodite passage, line 62, uses the word), the counterfeit token, the mass as forged belonging, the monopoly as coincidence-by-decree.\n\n**The formal triad and the binding theorem.** Sphere (χ = 2, orientable): every loop cancels — the fallen closure. Klein bottle (χ = 0, non-orientable): the twist intrinsic — shadow-capacity in the fabric; one circuit returns you *inverted*; two circuits return you home. Torus (χ = 0, orientable): distinction-without-collapse, the essay's derived surface. Theorem [Derived — standard; e.g., Hatcher]: **the torus is the orientable double cover of the Klein bottle.** The redeemed surface and the shadow-capable surface are not two structures: the torus *is* the Klein logic held through both of its orientations at once. The sphere and Klein/torus family also pairs the two zero-balanced closed surfaces against the χ=2 of the fallen figure — the audit-arithmetic of line 187 extends cleanly.\n\n**The operator this yields — single circuit vs. double traversal.** The diabolic is the **one-circuit reading absolutized**: the traversal that returns inverted and mistakes its own inversion for a second, enemy thing (\"the devil is the literalist of the minus sign\" = the single-circuit reader). The symbolic is the **double traversal**: both orientations held. The draft already performs it at line 227 — the double oblivion (lēthē squared, forgetting the forgetting = stuck at one circuit) repaired by *anamnesis of anamnesis* (the second circuit). Kenosis, the acceptance of the ailing brother, mono-poly against monopoly: the same operator in other registers. The Möbius strip stays as the **teachable face** of one-circuit inversion (it is the Klein bottle's generating strip and QL-canon); the double-cover theorem is the derived home. This corrects the 2026-07-08 chat note that treated Möbius as foreign — it is not foreign; it needed its frame.\n\n### 7.3 The coincidence register — the first-person seal\n\nFrank's utterance, [F]-grade voice, preserved verbatim wherever used: **\"I have never coincided with myself... and yet my life is all coinciding.\"** First half = the single circuit lived (every traversal of self-reflection returns the self as its own other); second half = the double cover arriving partly *through the world*.\n\nFormal homes already in the draft: line 151 (the receding I — the claim's objective form); line 55 (0/1 generates 1/0 \"in the act of being written\" — the notation returns inverted; the full form **(0/1)/(1/0) is the double cover in notation**); line 183 (\"the structure contains one more than it counts\" — the formal excess as non-coincidence); line 47 (*palintropos harmoniē* — self-variance as the signature of the living).\n"
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "start_line": 438,
+      "end_line": 463,
+      "relation": "Torus and independent winding distinctions.",
+      "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing.",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "text": "# VIII. The QL Unit — Topological Register\n\n*(File 1 §3, \"The Equation of the [[working/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|Torus]]\")*\n\nThe [[working/sources-texts-references/QL-Essay-Rewrite#1.3 The Emergence of Spanda|0/1]] given topological expression: the **quotient relation** `ℝ²/ℤ²`. Begin with `ℝ²` — the infinite Euclidean plane (undifferentiated potential, 0-like, Mono, the covering space / Unconscious). Then **identify**: declare `(x, y) = (x+m, y+n)` for all integers m, n — *introduce an equals sign* — and the flat plane folds into a **[[working/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|torus]]** (finite, structured, 1-like, Poly, Consciousness). \"This location equals that location\" — from that *aequatio* the surface is born.\n\n| Topological Element | Count | QL Mapping | Function |\n|---|---|---|---|\n| Sides of the fundamental polygon | 4 (= 4g) | Positions **#1–#4** (explicate) | The four edges of the square that, identified in pairs, produce the torus — material substrate (#1), energetic dynamics (#2), formal patterning (#3), contextual grounding (#4). Four causes, four functions, four sides. |\n| Independent generators (loops) | 2 (= 2g) | Positions **#0, #5** (implicate) | The two non-contractible loops — meridional (short way round the tube) and longitudinal (long way through the hole). The void-ground (#0) and the synthesis (#5), *the same loop viewed from different orientations* — as #0 and #5 are the same point in the Möbius twist. |\n| **Total** | **6** | **Complete mod6** | **The minimal structure for self-referential topology.** |\n\n**Key readings:**\n\n- **The slash *is* the quotient.** \"The `/` in `ℝ²/ℤ²` is the `/` in `0/1`.\" The notation performs the logic it writes: `0/1` denotes the quotient operation (ground becoming surface through distinction), and the operation produces the very [[working/sources-texts-references/QL-Essay-Rewrite#Part V — From the Percentile Identity to the 4+2 Frame|4+2]] it names. The slash *carries the four identifications*: enfolded within it is the entire explicate square #1–#4 (`aba⁻¹b⁻¹`, each generator forward and inverted). Unfolding the slash into four sides is one act with enfolding the plane into genus-and-surface. **ℝ² becomes T² *in* the slash.**\n- **Covering map / māyā.** Every [[working/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|torus]]-point corresponds to an *infinite lattice* on the covering plane (`π: ℝ² → T²`). Local geometry is *flat* — standing inside your conscious life you cannot tell you're not on the infinite plane; **ego-experience is valid, just not the whole topology. You cannot see the hole from inside.** The many-to-one map *conceals the superposition it collapsed* — māyā given topological form.\n- **The `∞/0` register.** In `ℝ²/ℤ²`, the slash denotes quotient by an equivalence relation, a different operation from arithmetic division. This gives the QL `∞/0` relation a precise topological carrier: the infinite covering plane is identified into a compact surface whose Euler characteristic is zero, `χ(T²)=0`. Each finite surface-address remains covered by infinitely many lattice-translates, so the quotient produces local closure without consuming the indefinite cover. Infinity and zero are joined by identification rather than cancellation.\n- **[[working/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|torus]] vs sphere = redeemed vs fallen.** The ego wants to be a **sphere** (genus 0, closed, `π₁ = {1}`, every loop contractible to a point — every round trip `1 + (−1) = 0`, cancellation woven into the fabric). Individuation reveals it inhabits a **[[working/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|torus]]** (`π₁ = ℤ ⊕ ℤ`, two generators it didn't author and can't reduce — the temporal life-circuit *kriyāśakti* and the archetypal depth-circuit *jñānaśakti*, both required, neither reducible, and they **commute**).\n- **\"Solving for x\" = your winding number** `(m, n)` — the homotopy class, the topological identity of the path. You are definite (*this* winding) and indefinite (the class holds infinite concrete paths). You become **a way of going around**, a mode of circulation whose identity exceeds any one point. The ego is one homotopy class; the Self is the [[working/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|torus]] itself, encompassing all windings.\n\n**Circulation is the missing kinetic image.** The torus carries its completed quotient structure as a field of possible circulations. Its fundamental group `π₁(T²)=ℤ×ℤ` records two independent winding directions; a closed torus-loop can lift to a path on `ℝ²` whose endpoint differs from its beginning by an integer vector `(m,n)`, so the surface returns while the cover retains the travelled displacement. For linear flows, rational slope yields a periodic closed orbit while irrational slope winds densely. The arche-topos therefore accommodates exact cadence and inexhaustible traversal without pretending that every path returns in the same manner.\n\nThis structure becomes physically legible in [[Torus — Circulation, Magnetic Confinement, and Energy|magnetic confinement]]. A tokamak combines toroidal and poloidal magnetic fields so the resulting field lines twist helically around a toroidal chamber; charged particles that follow those lines circulate rather than simply escaping from the ends of an open cylinder. The tokamak is not a proof of QL and the torus is not a universally optimal natural form. It is a recurrent engineering answer to a precise energetic problem: how movement can be sustained, returned, and bounded without being stopped. That makes it a proper physical image of the arche-topos once the topology has already been derived.\n\n---\n"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md",
+      "start_line": 49,
+      "end_line": 60,
+      "relation": "Surface/cover witness requiring exact locus.",
+      "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well.",
+      "sha256": "c60adacbb5d97d50849d6ba4a2c15aa8b31a1aad746c19b870f21a2b9b9147a2",
+      "text": "## Essay use\n\nStandard mathematical reference for quotient constructions, covering spaces, the torus, fundamental groups, and the relation `T² = R²/Z²`. It secures the exact topology beneath the toroidal image.\n\n**Passages needed:** torus quotient and covering-space examples; `π₁(T²) ≅ Z × Z`; any surface-classification claim must use an additional appropriate source if Hatcher does not carry it directly.\n\n**Claim boundary:** Hatcher warrants the extracted facts of quotient, covering, cycle, and winding. Their coordination as the arche-topos is the essay's argued QL interpretation and bears its own proof burden.\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\nNo passage or excerpt has yet been gathered for this source."
+    }
+  ],
+  "raw_skeleton": "# Möbius / Klein and surface classification\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

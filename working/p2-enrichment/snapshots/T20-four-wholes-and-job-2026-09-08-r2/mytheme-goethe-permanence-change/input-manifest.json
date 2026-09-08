@@ -1,0 +1,280 @@
+{
+  "inputs": [
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1",
+      "bytes": 3624
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a",
+      "bytes": 6289
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7",
+      "bytes": 2224
+    },
+    {
+      "path": ".wayfinder/maps/t20-t21-world-registers.md",
+      "sha256": "a7589d1b663854888c3767854478a9ea4564a988d770af24f2d30e7ac07204a0",
+      "bytes": 22826
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+      "sha256": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "bytes": 235832
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md",
+      "sha256": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "bytes": 46870
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "bytes": 763400
+    },
+    {
+      "path": "submission-package/essay/quilt/agentworld-response-matrix.md",
+      "sha256": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "bytes": 60000
+    },
+    {
+      "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+      "sha256": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "bytes": 85670
+    },
+    {
+      "path": "submission-package/essay/quilt/ql-expression-grammar.md",
+      "sha256": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277",
+      "bytes": 8632
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "sha256": "fbf482706e049c84437c600e0773ce05197ab7ae8140242bbf2ea55928f0335a",
+      "bytes": 7451
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "sha256": "2b685a7a96b444b98638be5b9d895f6fb327ab916a0e56ffff0637d31906cd3c",
+      "bytes": 8453
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "sha256": "360d199de17335d3f2747b93be771b02b5388f900c73a413b073dc9e49c72c83",
+      "bytes": 12207
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "sha256": "d54ea76954ccf1648326ca90f89287640e38011d7d057ae6fa596e5f71dda493",
+      "bytes": 11078
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "sha256": "2f68a80d591ef8938e7e7085c6b574e9a5540d39078ce6fa65afced4d1b2023a",
+      "bytes": 9491
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "sha256": "319c378bd9133afd0e3fc61967ba1036916c4366e2ac3105717214fb84eab1c7",
+      "bytes": 9166
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "sha256": "d4e9548c72559bdb024f292f9554b1084afb67be8b9766c99d81c0bd99cb19d2",
+      "bytes": 9322
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "sha256": "270e1540cbcc089f2d208f8a38e81cdf0f7f30e76ca616c746864e6e8a7e0727",
+      "bytes": 7261
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "sha256": "53bb1bd03da452dadcebd2957cc240546640d4d18d542cd7055f5490ca077c2d",
+      "bytes": 8474
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "sha256": "28d848078312f5e5372d5068163b45130e7f5f21e602bd3ed968a7c8bd6fbea7",
+      "bytes": 6323
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "sha256": "d5306d69dace504a5efa5ab2c73645b74edd650d8c9d77b543e582750dd9e5f3",
+      "bytes": 4328
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "sha256": "830df9a53403d0d87d96311803d0dd97e4428ae41e0885e6b2720d2855512719",
+      "bytes": 4883
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "sha256": "716dfc7d3b00a0793d4af78ae9bc4a790c882d4992901783204f95f83e749e25",
+      "bytes": 4474
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "bytes": 22575
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/literature/goethe/goethe-1983-selected-poems-nims/SOURCE.md",
+      "sha256": "4095b69fce4e5b717bb56f17f669957d72965582047a4d7153cf926552ce155c",
+      "bytes": 8099
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/README.md",
+      "sha256": "20e220d9d9b35ac86584b154219ce263a4077b4ecb10229787ef22417f3be825",
+      "bytes": 10907
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0",
+      "bytes": 76053
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "sha256": "b348adc7004f5d0daf4ea4f62f6b081edc5e5dcccdfbad83746a2f2e9e59f849",
+      "bytes": 19639
+    },
+    {
+      "path": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md",
+      "sha256": "a64e7f34f0232b465be8c3228f5cd41c9e400d9a26e61c319191222a5ae43f0a",
+      "bytes": 38507
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "sha256": "19585deb79a5ec0dabb39493e413e0579e313adeab68051a783b6ad737584ab8",
+      "bytes": 17896
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A12.md",
+      "sha256": "a4bfa473d034e31cd6cbd7afc45b96236929665a4dd42f4e3f056e3973c58b39",
+      "bytes": 19575
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8",
+      "bytes": 25809
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "sha256": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45",
+      "bytes": 25713
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A19.md",
+      "sha256": "e9b39e002b667014c970dd287f2301c9f9a80197762283e5062274ea9db64861",
+      "bytes": 23931
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3",
+      "bytes": 24694
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "sha256": "2480e3c0322aa54e36bcd924ec3e60cb6e3430372125ad215d12f56b583080e0",
+      "bytes": 20757
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "sha256": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489",
+      "bytes": 24915
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0",
+      "bytes": 32186
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "sha256": "3e64c000294d3a13a15e0617f35dcbe5c0f5424b13758b2ae72e9b56e405e832",
+      "bytes": 9216
+    },
+    {
+      "path": "working/p2-enrichment/receipts/depth-acceptance.json",
+      "sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+      "bytes": 9607
+    },
+    {
+      "path": "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      "sha256": "6474225a3550ec632cef24ad988ec2ad17295a63bd65e4e3fdec1614db90639f",
+      "bytes": 5905
+    },
+    {
+      "path": "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+      "sha256": "64c950f68687f5011d3343f8ac30d855619246718d3696b1dc3e7bffd7a98cc0",
+      "bytes": 14268
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2",
+      "bytes": 8939
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff",
+      "bytes": 4268
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192",
+      "bytes": 5217
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c",
+      "bytes": 17403
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64",
+      "bytes": 13483
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1",
+      "bytes": 5732
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-goethe-permanence-change/census.json",
+      "sha256": "74bbfad8e9339161918864381b98d7f2aa6f54296810bf8c08bb615915d25e72",
+      "bytes": 57662
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-goethe-permanence-change/queue.json",
+      "sha256": "6d919b80978d606c3ff8ab8cec3abc344dc3ac905e34984c5b09a78e44dcdfe1",
+      "bytes": 69600
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "bytes": 99465
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+      "bytes": 124906
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0",
+      "bytes": 82771
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66",
+      "bytes": 152226
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7",
+      "bytes": 62338
+    }
+  ],
+  "status": "immutable source-byte snapshot; current parent T22 state"
+}

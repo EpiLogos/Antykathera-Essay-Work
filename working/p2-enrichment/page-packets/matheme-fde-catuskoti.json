@@ -1,0 +1,516 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/dispatch-queue.json",
+    "queue_sha256": "58daf082cbeff7a8f46c38be645d2f55adad99e68d50212bbb031b30bf8f7a34",
+    "census": "working/p2-enrichment/census.json",
+    "census_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "matheme-fde-catuskoti",
+    "title": "FDE, four-valued logic and catuṣkoṭi",
+    "register": "matheme",
+    "record_type": "matheme",
+    "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/fde-catuskoti.md",
+    "wave": "T19",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#4-matheme-census",
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+      "working/p2-enrichment/receipts/depth-acceptance.json",
+      "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+      "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+      "submission-package/essay/symbolon/matheme/README.md"
+    ],
+    "packet_status": "awaiting-complete-36-depth-review",
+    "binding_state": "inputs-bound-awaiting-page-review",
+    "argument_depth": [
+      "A01",
+      "A03",
+      "A08",
+      "A13",
+      "A18",
+      "A23",
+      "A34",
+      "A36"
+    ],
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "submission-package/essay/symbolon/episteme/concepts/reference-notes/fde-catuskoti.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "start_line": 167,
+        "end_line": 188,
+        "relation": "Whole eight-determination placement controls local native interpretation; this is not a six-heading semantic recipe.",
+        "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md",
+        "start_line": 59,
+        "end_line": 217,
+        "relation": "Wording-verified FDE/fifth/plurivalence cards with pagination debt.",
+        "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md",
+        "start_line": 59,
+        "end_line": 200,
+        "relation": "Reception gates, review-transcribed book claims and historical misattribution boundary.",
+        "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE.md",
+        "start_line": 57,
+        "end_line": 106,
+        "relation": "Abstract only: cannot infer full objection details or claim all objections target exactly same issue.",
+        "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/matheme/README.md",
+    "register_contract_domain": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+    "operation_to_develop": "Define four FDE statuses as subsets{T,F}, specify truth-order not merely inclusion order, negation and designated values; then display Priest fifth e and plurivalent extension as a separate construction.",
+    "proof_standing": "Modern formal semantics exact; tradition/QL comparison Argued",
+    "evidence_boundary": "FDE is a modern reconstruction, not historical consensus or all Buddhism. QL0 is not a truth value. Distinguishing that office does not automatically answer every reception objection, especially historical uniformity/presupposition alternatives.",
+    "blockers": [
+      "Collate2018book before direct quotation; Kapsner full argument extraction Open. State Siderits/Westerhoff/Green alternatives at only the recorded evidence depth."
+    ],
+    "binding_status": "ready-for-target-preparation-with-explicit-evidence-debt",
+    "relations": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/topology/projective-completion.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      }
+    ],
+    "writing_obligations": [
+      "Read every selected A packet and materially implicated direct carrier; source/depth receipts are locators, not substitutes for the actual text.",
+      "Read SOURCE.md and all present sibling NOTES in full; never mutate protected NOTES or treat its quotation leads as verified passages.",
+      "Derive the raw #0/#1/#2/#3/#4/#5→0 from this operation. Do not use fixed Definition/Operation/Pattern/Context/Quintessence labels.",
+      "Write exact outward and return relations using the link skill permitted verbs; input-context relation descriptions are not ready-made publication prose.",
+      "The native eightfold, 4+2 cardinality, 4:2 orientation and3:3/3:1 recognition readings keep separate operations. Native X/x is never attributed to Jung.",
+      "A narrow evidence blocker restricts the unsupported claim/quotation, not the existing native QL proposition. No measurement, experiment or restoration discharge is certified by packet preparation.",
+      "Apply the concrete corrections in shared-source-recovery-a13-a24.md and shared-theorem-support-recovery.md wherever their claims are used; do not restore an error merely because it is older authored/developmental prose.",
+      "Definition and quilt preserve the short definitional chain 0/1 = 4+2 = 5→0 = 0/1; process and music preserve the full earned chain 0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1. Name the vantage when both enter a record.",
+      "File 2 primes name inverse-phase positions; File 3 §5→0 primes name the Night-pass sequence. Keep their meanings explicitly distinguished, including where both passages are inputs.",
+      "The core-theorems spine is the curated extraction set: preserve its later 3:3-also-3:1, additive-constant and native eightfold refinements; the four files condition the field without wholesale duplication into the essay."
+    ],
+    "supporting_receipts": [
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "working/p2-enrichment/receipts/matheme-locked-structure-recovery-2026-09-07.md",
+      "working/p2-enrichment/receipts/2026-09-07-input-amendment.md"
+    ],
+    "additional_required_inputs": [
+      "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+      "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+      "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      ".agents/skills/return-of-zero-source/SKILL.md"
+    ]
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A01",
+      "path": "working/p2-enrichment/argument-depth/A01.md",
+      "sha256": "cf90a1fb09c619f8829858a7c5dda50e8f29abf61edf1a2e142dcbf4f77f63e8"
+    },
+    {
+      "argument_id": "A03",
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "sha256": "12d3a0999ffec60d963f055cdbb1a857025a70f2a7bb46641eca20bb187b9b41"
+    },
+    {
+      "argument_id": "A08",
+      "path": "working/p2-enrichment/argument-depth/A08.md",
+      "sha256": "0665c59d9039ebe87706ea25faa1d85a66fc69b31ba5506f17523a04b1449548"
+    },
+    {
+      "argument_id": "A13",
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8"
+    },
+    {
+      "argument_id": "A18",
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f"
+    },
+    {
+      "argument_id": "A23",
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3"
+    },
+    {
+      "argument_id": "A34",
+      "path": "working/p2-enrichment/argument-depth/A34.md",
+      "sha256": "d3a568de103caa2a6f87231b435a661a014292b96f4ca1b8014086f653fd6920"
+    },
+    {
+      "argument_id": "A36",
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/fde-catuskoti.md",
+      "sha256": "e0631db7f6a33667e1decd6687f78e5b3fa57df0d4566b6dcf949a8c0cd73221"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md",
+      "sha256": "9432bac7a477dc95d3b231f727ab59e1484a24ffbdb8c68afa7964d6e14ceeaf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "sha256": "071bb9b17daaecd29d69b91b1ff26236baf5426ca71b0bdc1ef3aa950ec024a4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "sha256": "575b30a9d9fc68ed1f2ccfaf92ad4af4692625dc64a0fc052b2f81ce90b8941e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "sha256": "86f807b35428f1cfc3d53e68a27ff3373df9ffc42b7d0b934c3d4491ae5de9a2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "sha256": "cd320c99f30f081f26be696dfd0715d84048cb1a686b90b5f2c4d702f164bf0b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "550bd175ca1d69d9d4f9bf74d443748059c5a4918f9bfddd94fa1e08f63d4493"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "sha256": "985aecd4befc06336c2fa090a0f014f19e36814804e696246ff6379b31c39f62"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "sha256": "8e40db236ad4ed45aa4f0c963ac587e317a3636bfa0014e438f09bca7c1a9e5c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "sha256": "28d726c301f4a3ecd09b1267be1e5fb7ba981699adb1851a943047619e255c24"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+      "sha256": "ba5a7f839e2b944620070c5f7322694fea54ea9222719419939343504b6393c3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "sha256": "12b0786ac858b5291f57ae2199a117b9f9d45fe9c072e2373632e1743d0f4e31"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "sha256": "830df9a53403d0d87d96311803d0dd97e4428ae41e0885e6b2720d2855512719"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+      "sha256": "64637a3b0da021d6f3d25c65512212687039aa26ab1236444a9e29c80bc1e4c7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "sha256": "805dbb09d1caf690bf55ec539e0e3ca998af022f1a9f02f6158c2255a449738a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "sha256": "10f51ccc557fb7571d1dc58b2d2f5cea77da1233dfc85f2d94e0d90333d1101a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "0bbb5ef1fac69d46a68d05cb1d32b471c48147213e4d610183f003b5db78b343"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+      "sha256": "b530405f2f19fa8d9f5e002c709b846df58bf9519cce8c8c5359ce13c5dc1db0"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+      "sha256": "58864e41536c7857c3f668663fd7e8224de16a895fd260972c5742188f2fba81"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "sha256": "574ae93b228b104b993cb584af147a21adb1134509d15cee157a740be6de6852"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/README.md",
+      "sha256": "115fa742d9d40ae3c283214b6f43bb679f7489a7baab862a1e99051f9ed69ec4"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+      "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md",
+      "source_sha256": "ee744d0bbe97f00e1b2bd508d45cab5a6b1a3e0aa071f024ccd5703dbe399cef",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md",
+      "source_sha256": "d23056d6ab613716f7814c9d419d7194785efa83bebd9ff5f3a0a76ce6bc8698",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE.md",
+      "source_sha256": "240f142f0d58bd43465539f6d1803a6ce441877ce4867769f8cbfa2db3543475",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "source_sha256": "0c16ad20b0855d542ed39597df33fc56fa97a85358c9e9a93951f88c6324b885",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "start_line": 167,
+      "end_line": 188,
+      "relation": "Whole eight-determination placement controls local native interpretation; this is not a six-heading semantic recipe.",
+      "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing.",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "text": "## (c) The eight determinations — one relation traversed from field to return\n\nThe six-position QL unit and the eight determinations answer different questions and must remain distinct. The **sixfold** is the generative positional body: the two implicate poles and four explicate relational states yielded by `2 + 2² = 4 + 2 = 6`. The **eightfold** gives that body its full threshold-to-return traversal: the unnamed parent-relation before a determinate field, the six qualitative determinations, and the phase-flip by which their achieved form turns back toward its condition. One relation—unobjectifiable awareness and appearing phenomenon, ground and mark—takes on each distinct operation required for a knowing-act to become accountable without pretending to stand outside itself; detaching the binaries or treating them as serial replacements destroys the traversal.\n\n| Turn | Expression | QL determination and its work | What remains invariant through the change |\n| --- | ---: | --- | --- |\n| **Parent relation** | `/ = −/−` | Bare relationality before the field has been divided into named terms: the stroke is its own determination form, two unassigned marks held in one expression, the capacity for relation prior to a determinate contrast. It is the unnamed parent of the six, not an additional position among them. | The relation has a condition that cannot appear as one more product of the relation. |\n| **#0 Ground** | `0/1` | **Awareness / phenomenon; conscious circumstance.** “I am here; something appears; the appearing is known.” `0` names the open, unobjectifiable fact of awareness; `1` the appearing mark; `/` the relation by which the real becomes readable without being exhausted by its readability. Appearing is in awareness, and awareness is encountered only through appearing; the relation precedes any picture of two completed substances separated by a wall. | The ground is immanent to every mark without becoming another positive mark or a hidden object behind it. |\n| **#1 Definition** | `?/!` | **Questioning / asserting; ratio, reckoning, mark.** To ask “what is this?” already asserts that something has appeared stably enough to call for account; to assert “this is” keeps open the question of whether the account runs true. Definition is therefore double: openness to determination and determinative speech. It marks while remaining answerable to what called for the mark. | Every assertion bears the unsettled question that makes it accountable; every genuine question already takes a provisional mark. |\n| **#2 Dynamis** | `−/+` | **Withdrawal / extension; force, polarity, Spanda-seed.** The relation becomes energetic: one side functions as reserve, contraction, withholding; the other as issue, release, presentation. The positive is the void’s own self-relation appearing as extension. The poles form a sustained pulse whose moments remain co-present—breath gathers and releases; attention contracts around a word and opens into sense. | The two poles remain one differentiating movement: distinction has force without becoming a war of independent substances. |\n| **#3 Pattern** | `X/x` | **Determining-capacity / determinate instance; recurrence.** Capital `X` is the presiding capacity, type, or anything-by-which something can be read; lower-case `x` is its temporal local face. The same letter, in two cases, prevents the instance from being severed from the capacity it manifests. The small `x` also retains multiplication: an instance can recur, compound, and yield “another one of those.” Pattern is where force becomes recognisable as kind, rhythm, memory, and thought. | The local instance makes the general legible but neither contains nor exhausts it. |\n| **#4 Context** | `AM/IS` | **First-person presence / third-person sayability; the personed copula.** `AM` is lived “I am”; `IS` is what can be stated as “it is”; the slash is the second-person relation through which they meet. Context is the lived *where* of this encounter—world, body, concern, speech, memory, task—not a neutral container. It is total because nothing appears outside some horizon, and incidental because that horizon does not ordinarily stand forth as one more object. | Knower, means, and known remain one appearing-act without becoming interchangeable: *pramātṛ / pramāṇa / prameya*. |\n| **#5 Realisation** | `∞/dx` | **Unbounded depth / infinitesimal differential; horizon and local exactness.** `∞` names the inexhaustible field no finite mark contains. `dx` is no longer merely the instance `x` but the minute difference through which change and local reading become exact. Every appearance is therefore a true local ratio of what exceeds it: precise as relation, partial as expression. The whole is not hidden inside the part; it is present in the way the part runs true to what it cannot enclose. | Exactness never becomes possession. A finite determination remains answerable to the depth that makes it possible. |\n| **Return-switch** | `1/0` | The achieved determinate turns toward the ground it presupposes and meets the incomputable rather than an object called “the ground.” The mental cannot find the foundation of the mental, because every act of finding already occurs through it. This is *pratyabhijñā*: recognition, not acquisition. | The limit is generative: `5→0`, the return through ground that renews a further cycle rather than cancelling the determination. |\n\nThe table fixes the actual order of determination. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their meanings and prevent them from becoming decorative or interchangeable correspondences.\n\nThe six also have internal grammar. **Being** joins Ground and Definition: a field is present and can be called to account. **Becoming** joins Dynamis and Pattern: force becomes intelligible as recurrence, while recurrence stays alive only as force capable of further instance. **Knowing/unKnowing** joins Context and Realisation: lived predication becomes honest only when its horizon exceeds every situated claim. Across this forward harmonic grouping run the complementary folds: **Essence** (`0+5`) pairs conscious circumstance with unbounded differential depth; **Constitution** (`1+4`) pairs answerable definition with the world in which someone asks and asserts; **Text-Texture** (`2+3`) pairs the felt weave of force with its readable pattern. The six positions are thus neither a linear ladder nor a flat catalogue.\n\nThe calculus turn makes the final determination mathematically exact. Differentiation yields local change while losing the additive constant; integration restores a family `F(x)+C`, with no single self-grounding whole selected by the local derivative alone. The missing `C` is the formally required provenance that local change cannot reconstruct; mystical surplus and defective calculation are both unnecessary explanations. The psychological and metaphysical claim begins there: a determination can be exact without containing the whole condition from which its exactness was taken.\n\n**QL placement.** `/ = −/−` and `1/0` bracket rather than enlarge the six positions. `/ = −/−` is the parent-relation before the count; `1/0` is the inversion through which the counted form recognises the ground that never became one of its contents. Within the bracket, `0/1`, `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` are the first qualitative body of the `4+2`. This preserves the distinction between the eight-turn traversal and QL's sixfold base count: Jung's four functions plus introversion/extroversion can disclose the same psychological `4+2`, while the fuller account can still traverse from pre-distinction, through conscious circumstance, to the incomputable return."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md",
+      "start_line": 59,
+      "end_line": 217,
+      "relation": "Wording-verified FDE/fifth/plurivalence cards with pagination debt.",
+      "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well.",
+      "sha256": "ee744d0bbe97f00e1b2bd508d45cab5a6b1a3e0aa071f024ccd5703dbe399cef",
+      "text": "## Source scholarship\n\nThe article is the compressed original of the 2018 book's formal arc. It opens by taking the catuṣkoṭi at face value: \"given any question, there are four possibilities, yes, no, both, and neither\" (p. 24). It then states the classical embarrassment exactly — \"the four cases are supposed to be exclusive; yet case (c) entails both cases (a) and (b)\" (p. 27) — and resolves it by moving to First Degree Entailment, whose four values are the subsets of {T, F} arranged in the diamond lattice: \"Negation maps t to f, vice versa, n to itself, and b to itself. Conjunction is greatest lower bound, and disjunction is least upper bound.\" (p. 33). On this semantics the four corners are exclusive and exhaustive, and the early tetralemma is formally innocent.\n\nThe pressure comes from Nāgārjuna's rejection of all four corners. Priest's answer is the fifth status: \"They have some other status, namely, (e): none of the above.\" (pp. 36–37), with the infection conditions e-in/e-out (pp. 37–38) making ineffability spread through any compound that contains it. The self-referential embarrassment of ineffability-talk is met by plurivalence: \"evaluations are thought of, not as functions, but as relations, which relate sentences to some number of these values\" (p. 44), so a sentence can be related both to a spoken value and to e. The article even turns the catuṣkoṭi on itself — asked whether the koṭis are exclusive, \"The correct option in this case is the third: they are and are not\" (pp. 42–43) — a dialetheic self-application the essay reads as the value-theory straining toward what it cannot write. At the two-truths level the formalism reaches its own silence: at the ultimate level \"nothing of the form Tu⟨A⟩, Fu⟨A⟩, or Bu⟨A⟩ can hold; only things of the form Nu⟨A⟩ — or perhaps more appropriately, Eu⟨A⟩\" (p. 47). Priest closes by placing the construction historically: \"The catuskoti and its ramifications are a central part of logic in both the original and the later Madhyamaka Buddhist traditions\" (p. 48).\n\n## Essay use\n\n### Source's relevant contribution\n\nThe verified formal statements of the four-corner FDE semantics, the fifth status e with its infection conditions, plurivalent evaluation, the self-application of the tetralemma, and the ultimate-level silence — the exact wording the essay's §3 formal reconstruction quotes.\n\n### Licensed essay use\n\n- Quote the formal machinery verbatim in [[28-s3-p3-projective-dimensional-reframing]] as the codification of QL's four explicit positions and the arrival at the ground.\n- Use q007 (only Eu⟨A⟩ at the ultimate level) as the formalism's own falling-silent — the point where the return must be performed rather than written.\n- Use q008 for the historical standing of the catuṣkoṭi in Madhyamaka logic.\n\n### Claim boundary\n\nThis is Priest's construction, not settled history of the catuṣkoṭi. The reception gates recorded in [[priest-2018-fifth-corner]] (Siderits, Westerhoff, Green, Kapsner) apply to this article's machinery equally and must be cross-referenced wherever it is used. The reading of e's arrival as arrival at QL's #0 — and of the tradition as performing the 5→0 return — is the essay's own Argued move, not Priest's.\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\n### Material metadata\n\n- **Selected edition:** open-access PDF, scholarworks.sjsu.edu, *Comparative Philosophy* 1.2 (2010): 24–54.\n- **Access provenance:** full text read and wording verified against the open-access PDF, 2026-07-18. Page numbers per that PDF; spot-check against journal pagination pending.\n\n<a id=\"priest-2010-logic-catuskoti-q001\"></a>\n## Passage card — `priest-2010-logic-catuskoti-q001` — the four possibilities\n\n> \"given any question, there are four possibilities, yes, no, both, and neither\"\n\n- **Locator:** p. 24.\n- **Status:** wording-verified against open-access PDF; journal-pagination spot-check pending.\n- **Verification:** Coordinator, 2026-07-18; verbatim from PDF.\n- **Source relation:** quoted.\n- **Evidential action:** supports.\n- **Argument function:** the catuṣkoṭi's face-value fourfold — the codified counterpart of QL's #1–#4.\n- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[submission-package/essay/symbolon/episteme/histories/indian-philosophy/HISTORY|indian-philosophy]] history.\n- **Use boundary:** states the scheme; carries no claim about its ground.\n\n<a id=\"priest-2010-logic-catuskoti-q002\"></a>\n## Passage card — `priest-2010-logic-catuskoti-q002` — the classical problem\n\n> \"the four cases are supposed to be exclusive; yet case (c) entails both cases (a) and (b)\"\n\n- **Locator:** p. 27.\n- **Status:** wording-verified against open-access PDF; journal-pagination spot-check pending.\n- **Verification:** Coordinator, 2026-07-18; verbatim from PDF.\n- **Source relation:** quoted.\n- **Evidential action:** supports.\n- **Argument function:** why classical logic cannot host the tetralemma — motivates the move to FDE.\n- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]].\n- **Use boundary:** the problem as Priest frames it; Siderits's presupposition-failure reading dissolves it differently.\n\n<a id=\"priest-2010-logic-catuskoti-q003\"></a>\n## Passage card — `priest-2010-logic-catuskoti-q003` — FDE values and the diamond lattice\n\n> \"Negation maps t to f, vice versa, n to itself, and b to itself. Conjunction is greatest lower bound, and disjunction is least upper bound.\"\n\n- **Locator:** p. 33; values constructed as subsets of {T, F} arranged in the diamond lattice.\n- **Status:** wording-verified against open-access PDF; journal-pagination spot-check pending.\n- **Verification:** Coordinator, 2026-07-18; verbatim from PDF.\n- **Source relation:** quoted.\n- **Evidential action:** supports.\n- **Argument function:** the exact semantics of the four corners — the formal codification the essay maps to the four explicit positions.\n- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]].\n- **Use boundary:** a semantics for the corners, not an argument that the tradition possessed it.\n\n<a id=\"priest-2010-logic-catuskoti-q004\"></a>\n## Passage card — `priest-2010-logic-catuskoti-q004` — the fifth status\n\n> \"They have some other status, namely, (e): none of the above.\"\n\n- **Locator:** pp. 36–37; infection conditions e-in/e-out at pp. 37–38.\n- **Status:** wording-verified against open-access PDF; journal-pagination spot-check pending.\n- **Verification:** Coordinator, 2026-07-18; verbatim from PDF.\n- **Source relation:** quoted.\n- **Evidential action:** supports.\n- **Argument function:** the formal arrival at ineffability — QL reads this as arrival at #0, which the value-theory can only register as \"none of the above.\"\n- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]].\n- **Use boundary:** the gated joint; Kapsner's rejection of the fifth value targets exactly this card. QL's #0 is not a value.\n\n<a id=\"priest-2010-logic-catuskoti-q005\"></a>\n## Passage card — `priest-2010-logic-catuskoti-q005` — evaluations as relations\n\n> \"evaluations are thought of, not as functions, but as relations, which relate sentences to some number of these values\"\n\n- **Locator:** p. 44.\n- **Status:** wording-verified against open-access PDF; journal-pagination spot-check pending.\n- **Verification:** Coordinator, 2026-07-18; verbatim from PDF.\n- **Source relation:** quoted.\n- **Evidential action:** supports.\n- **Argument function:** plurivalence — how a claim can be both true and ineffable without self-refutation.\n- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]].\n- **Use boundary:** formal device only; no claim that the tradition held it.\n\n<a id=\"priest-2010-logic-catuskoti-q006\"></a>\n## Passage card — `priest-2010-logic-catuskoti-q006` — the catuṣkoṭi applied to itself\n\n> \"The correct option in this case is the third: they are and are not\"\n\n- **Locator:** pp. 42–43; answering whether the koṭis are exclusive.\n- **Status:** wording-verified against open-access PDF; journal-pagination spot-check pending.\n- **Verification:** Coordinator, 2026-07-18; verbatim from PDF.\n- **Source relation:** quoted.\n- **Evidential action:** supports.\n- **Argument function:** dialetheic self-application — the scheme straining against its own frame, read by the essay as the value-theory's gesture toward what it cannot write.\n- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]].\n- **Use boundary:** the \"straining toward the return\" gloss is the essay's, not Priest's.\n\n<a id=\"priest-2010-logic-catuskoti-q007\"></a>\n## Passage card — `priest-2010-logic-catuskoti-q007` — the ultimate level falls silent\n\n> at the ultimate level \"nothing of the form Tu⟨A⟩, Fu⟨A⟩, or Bu⟨A⟩ can hold; only things of the form Nu⟨A⟩ — or perhaps more appropriately, Eu⟨A⟩\"\n\n- **Locator:** p. 47.\n- **Status:** wording-verified against open-access PDF; journal-pagination spot-check pending.\n- **Verification:** Coordinator, 2026-07-18; verbatim from PDF (framing clause marked as paraphrase, quoted matter exact).\n- **Source relation:** quoted within framing paraphrase.\n- **Evidential action:** supports.\n- **Argument function:** the formalism's own terminus in silence at the ultimate — the essay's key evidence that the return (5→0) is performed by the tradition, not written in the value-theory.\n- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]].\n- **Use boundary:** shows where the formalism stops; the claim that something (the return) lies beyond the stopping point is the essay's.\n\n<a id=\"priest-2010-logic-catuskoti-q008\"></a>\n## Passage card — `priest-2010-logic-catuskoti-q008` — historical standing\n\n> \"The catuskoti and its ramifications are a central part of logic in both the original and the later Madhyamaka Buddhist traditions\"\n\n- **Locator:** p. 48.\n- **Status:** wording-verified against open-access PDF; journal-pagination spot-check pending.\n- **Verification:** Coordinator, 2026-07-18; verbatim from PDF.\n- **Source relation:** quoted.\n- **Evidential action:** supports.\n- **Argument function:** places the catuṣkoṭi as central to Madhyamaka logic for the history strand.\n- **Consumers:** [[submission-package/essay/symbolon/episteme/histories/indian-philosophy/HISTORY|indian-philosophy]] history; [[28-s3-p3-projective-dimensional-reframing]].\n- **Use boundary:** a historian-facing claim by a logician; Westerhoff's non-uniformity objection qualifies it.\n\n## Open acquisition and verification\n\n- Spot-check page numbers against the journal's own pagination (the open-access PDF is the working basis).\n- No acquisition needed; the article is open access and fully in hand.\n\n### Passage metadata register\n\n| passage_id | source_id | locator | status | movement consumers | argument consumers | function |\n|---|---|---|---|---|---|---|\n| `priest-2010-logic-catuskoti-q001` | `priest-2010-logic-catuskoti` | p. 24 | wording-verified; pagination spot-check pending | `28-s3-p3-projective-dimensional-reframing` | — | the four possibilities |\n| `priest-2010-logic-catuskoti-q002` | `priest-2010-logic-catuskoti` | p. 27 | wording-verified; pagination spot-check pending | `28-s3-p3-projective-dimensional-reframing` | — | classical exclusivity problem |\n| `priest-2010-logic-catuskoti-q003` | `priest-2010-logic-catuskoti` | p. 33 | wording-verified; pagination spot-check pending | `28-s3-p3-projective-dimensional-reframing` | — | FDE values, diamond lattice |\n| `priest-2010-logic-catuskoti-q004` | `priest-2010-logic-catuskoti` | pp. 36–38 | wording-verified; pagination spot-check pending | `28-s3-p3-projective-dimensional-reframing` | — | fifth status e; e-in/e-out |\n| `priest-2010-logic-catuskoti-q005` | `priest-2010-logic-catuskoti` | p. 44 | wording-verified; pagination spot-check pending | `28-s3-p3-projective-dimensional-reframing` | — | plurivalent evaluation |\n| `priest-2010-logic-catuskoti-q006` | `priest-2010-logic-catuskoti` | pp. 42–43 | wording-verified; pagination spot-check pending | `28-s3-p3-projective-dimensional-reframing` | — | catuṣkoṭi self-applied |\n| `priest-2010-logic-catuskoti-q007` | `priest-2010-logic-catuskoti` | p. 47 | wording-verified; pagination spot-check pending | `28-s3-p3-projective-dimensional-reframing` | — | ultimate level: only Eu⟨A⟩ |\n| `priest-2010-logic-catuskoti-q008` | `priest-2010-logic-catuskoti` | p. 48 | wording-verified; pagination spot-check pending | `28-s3-p3-projective-dimensional-reframing` | — | catuṣkoṭi central to Madhyamaka logic |"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md",
+      "start_line": 59,
+      "end_line": 200,
+      "relation": "Reception gates, review-transcribed book claims and historical misattribution boundary.",
+      "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well.",
+      "sha256": "d23056d6ab613716f7814c9d419d7194785efa83bebd9ff5f3a0a76ce6bc8698",
+      "text": "## Source scholarship\n\nThe book narrates a single formal idea across a millennium of Buddhist philosophy. The catuṣkoṭi's four corners — true, false, both, neither — are read as the four values of First Degree Entailment, constructed as subsets of {T, F}: {T}, {F}, {T, F}, and {}. That gives the early tradition's fourfold scheme an exact non-classical semantics in which \"both\" and \"neither\" are values in good standing rather than confusions. Chapter 2's title, \"Quintum Non Datur,\" names the thesis that there is no fifth possibility — and names it precisely so the book can break it. When Nāgārjuna rejects all four corners (Priest's anchor texts include MMK XXII:11 and XXV:17), Priest introduces a fifth value, e, for the ineffable. Crucially, e is not an extension of the FDE lattice: it stands outside the order entirely, and it is infectious — any compound with an e-valued component is itself e-valued (e-in/e-out). The apparent self-refutation of speaking about the ineffable is then handled by plurivalent semantics, in which evaluation is a relation rather than a function, so a single claim can bear more than one value — true and ineffable at once.\n\nThe East Asian chapters carry the construction forward. Jizang's hierarchy of the two truths iterates the pair: each level's distinction between conventional and ultimate becomes, at the next level, merely conventional — the process Priest titles \"And So On,\" an unbounded ascent in which every articulated ultimate is demoted the moment it is articulated. Dōgen arrives as the narrative's convergence point — \"a focal point of all the rays of our narrative\" (p. 142, via Westerhoff's review) — where ineffability and enlightenment practice meet. The methodological coda asks whether the anachronism is vicious and answers it directly: \"Would the actors in the drama of this book have used those insights and tools had they been available to them? I see no reason why not.\" (p. 149, via reviews). Priest is candid about the book's register: it \"is not a scholarly work\" (p. xvii) and does not claim to be \"an authoritative textual and historical interpretation\" (p. xviii). The essay must quote him at his own estimate.\n\n### Reception and gates\n\nThis house is gated: no use of Priest's construction may pass into the essay without clearing the published objections.\n\n- **Siderits (NDPR):** offers a rival presupposition-failure reading — all four lemmas are rejected because they share a false presupposition, and no non-classical logic is needed to say so. If Siderits is right, the fifth value is machinery without a job.\n- **Westerhoff (*Mind*):** the catuṣkoṭi is not uniform across contexts, so no single formal treatment can be the logic of the tetralemma; parsimony favors classical readings where they suffice; and a passage Priest attributes to Candrakīrti (p. 58) is in fact from the nineteenth-century Mipham — a dating error of some seven centuries that the essay must not reproduce.\n- **Green (*Journal of Buddhist Ethics*):** the tradition reads the tetralemma as refuting all positions, a reified \"ineffable\" included; hypostasizing ineffability as a value is exactly the move the texts warn against.\n- **Kapsner (\"Cutting Corners,\" *Comparative Philosophy* 11.2, 2020; see [[kapsner-2020-cutting-corners]]):** the friendliest logician's objection — the fifth value specifically is rejected on internal grounds, and an alternative account without it is sketched.\n\nThe essay's use survives these gates for a stated reason: QL's #0 is a generative precondition, not a truth-value. Every published objection targets e's standing *as a value*; none touches a ground that was never a value in the first place. That is the exact joint at which the essay's reading and Priest's part company, and it must be stated wherever this house is cited.\n\n## Essay use\n\n### Source's relevant contribution\n\nPriest's book is the fullest formal narrative of the catuṣkoṭi from FDE through the fifth value to Jizang and Dōgen — the arc the essay reads as the tradition's own performance of the return that the value-theory cannot write.\n\n### Licensed essay use\n\n- Carry the FDE reading of the four corners and the arrival of e as the formal counterpart of QL's four explicit positions and its ground #0.\n- Use Jizang's iterated hierarchy and Dōgen's convergence as the tradition performing the 5→0 return that Priest's formalism reaches only as silence.\n- Cite the methodological coda and Priest's own disclaimers to frame the book's register honestly.\n- State explicitly, wherever the fifth value is invoked, that QL's #0 is a precondition and not a value, and cite the reception gates.\n\n### Claim boundary\n\nPriest's construction is not settled history of the catuṣkoṭi; the reception above contests both the formal need for e and the historical uniformity of the tetralemma. The essay may not present the five-valued reading as the scholarly consensus, may not repeat the Candrakīrti/Mipham misattribution, and may not claim Priest for QL's ground — the identification of e's arrival with an arrival *at* #0 is the essay's own Argued move.\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\n### Material metadata\n\n- **Selected edition:** Priest, *The Fifth Corner of Four* (OUP, 2018; copyright year to verify).\n- **Access provenance:** TOC verified via OUP catalogue; all quotations transcribed from reviews by Westerhoff (*Mind*), Siderits (NDPR), and Green (*J. Buddhist Ethics*). Book not yet consulted; every card requires collation.\n\n<a id=\"priest-2018-fifth-corner-q001\"></a>\n## Passage card — `priest-2018-fifth-corner-q001` — the four corners as FDE's four values\n\n**Source-matched paraphrase:** The catuṣkoṭi's four corners are the four values of First Degree Entailment, constructed as the subsets of {T, F}: {T}, {F}, {T, F}, and {} — \"both\" and \"neither\" as values in good standing.\n\n- **Locator:** Part I, esp. ch. 2 \"Quintum Non Datur\"; pages pending.\n- **Status:** review-transcribed; book collation required.\n- **Verification:** Coordinator, 2026-07-18; construction confirmed across all three reviews and Priest's 2010 article ([[priest-2010-logic-catuskoti]] q003 carries the wording-verified formal statement).\n- **Source relation:** paraphrased.\n- **Evidential action:** supports.\n- **Argument function:** formal codification of the four explicit positions.\n- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[submission-package/essay/symbolon/episteme/histories/indian-philosophy/HISTORY|indian-philosophy]] history.\n- **Use boundary:** carries Priest's construction, not a historical consensus; cite with the reception gates.\n\n<a id=\"priest-2018-fifth-corner-q002\"></a>\n## Passage card — `priest-2018-fifth-corner-q002` — the fifth value e, outside the lattice, infectious\n\n**Source-matched paraphrase:** When Nāgārjuna rejects all four corners (MMK XXII:11, XXV:17), Priest introduces a fifth value e for the ineffable; e is not in the lattice order and is infectious (e-in/e-out); plurivalent semantics — evaluation as a relation, not a function — lets one claim be both true and ineffable.\n\n- **Locator:** Part II, chs. 5–6; pages pending.\n- **Status:** review-transcribed; book collation required.\n- **Verification:** Coordinator, 2026-07-18; confirmed across reviews and against the 2010 article's parallel machinery.\n- **Source relation:** paraphrased.\n- **Evidential action:** supports.\n- **Argument function:** the formal arrival at ineffability — the point QL reads as arrival at the ground that can only fall silent there.\n- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]].\n- **Use boundary:** this is the gated joint; Kapsner, Siderits, Westerhoff, and Green all press here. QL's #0 is not a value, and the essay's use must say so.\n\n<a id=\"priest-2018-fifth-corner-q003\"></a>\n## Passage card — `priest-2018-fifth-corner-q003` — Jizang's hierarchy of the two truths\n\n**Source-matched paraphrase:** Jizang iterates the two truths: each level's conventional/ultimate pair becomes the conventional of the next level, so every articulated ultimate is demoted upon articulation — the unbounded ascent Priest titles \"And So On.\"\n\n- **Locator:** Part III, ch. 7 \"And So On\"; pages pending.\n- **Status:** review-transcribed; book collation required.\n- **Verification:** Coordinator, 2026-07-18; confirmed via reviews and the 2010 article's two-truths section.\n- **Source relation:** paraphrased.\n- **Evidential action:** supports.\n- **Argument function:** the tradition performing the return — hierarchy as enacted 5→0, not written value-theory.\n- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[submission-package/essay/symbolon/episteme/histories/indian-philosophy/HISTORY|indian-philosophy]] history.\n- **Use boundary:** the \"performed return\" reading is the essay's; Priest presents an iteration, not a return to a generative ground.\n\n<a id=\"priest-2018-fifth-corner-q004\"></a>\n## Passage card — `priest-2018-fifth-corner-q004` — Dōgen as focal point\n\n> Dōgen is \"a focal point of all the rays of our narrative.\"\n\n- **Locator:** p. 142, as quoted in Westerhoff's review in *Mind*.\n- **Status:** review-transcribed; book collation required before quotation-ready.\n- **Verification:** Coordinator, 2026-07-18; wording taken from Westerhoff's review, not the book.\n- **Source relation:** quoted (via review).\n- **Evidential action:** supports.\n- **Argument function:** the narrative's convergence in practice — the essay's third performer of the return, after Jizang and Vimalakīrti.\n- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]].\n- **Use boundary:** carries Priest's narrative placement of Dōgen only; not a claim about Dōgen scholarship at large.\n\n<a id=\"priest-2018-fifth-corner-q005\"></a>\n## Passage card — `priest-2018-fifth-corner-q005` — the methodological coda\n\n> \"Would the actors in the drama of this book have used those insights and tools had they been available to them? I see no reason why not.\"\n\n- **Locator:** p. 149 (ch. 10, A Methodological Coda), as quoted in reviews.\n- **Status:** review-transcribed; book collation required.\n- **Verification:** Coordinator, 2026-07-18; cross-attested in more than one review. Companion disclaimers: the book \"is not a scholarly work\" (p. xvii) and is not \"an authoritative textual and historical interpretation\" (p. xviii), likewise review-transcribed.\n- **Source relation:** quoted (via reviews).\n- **Evidential action:** contextualizes.\n- **Argument function:** fixes the book's self-declared register; licenses the essay's parallel methodological candor about QL's own anachronism.\n- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]].\n- **Use boundary:** may be used to frame method; may not be used to immunize Priest's construction against the reception gates.\n\n<a id=\"priest-2018-fifth-corner-q006\"></a>\n## Passage card — `priest-2018-fifth-corner-q006` — emptiness as relational\n\n> Emptiness read such that \"all things depend in the last instance on a structural relation-matrix.\"\n\n- **Locator:** p. 56 n. 17, as quoted in Westerhoff's review.\n- **Status:** review-transcribed; book collation required.\n- **Verification:** Coordinator, 2026-07-18; wording via Westerhoff.\n- **Source relation:** quoted (via review).\n- **Evidential action:** supports.\n- **Argument function:** Priest's structuralist gloss on emptiness — a Western formal neighbour of the essay's relational reading; adjacent to [[priest-2014-one]].\n- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[submission-package/essay/symbolon/episteme/histories/indian-philosophy/HISTORY|indian-philosophy]] history.\n- **Use boundary:** a footnote gloss, not the book's central thesis; weight it accordingly.\n\n## Open acquisition and verification\n\n- Acquire the book; collate all six cards against printed pages.\n- Check the copyright page and fix the citation year (2018 vs. 2019 printings).\n- Complete full page collation for the TOC-anchored locators (chs. 2, 5–7, 10).\n\n### Passage metadata register\n\n| passage_id | source_id | locator | status | movement consumers | argument consumers | function |\n|---|---|---|---|---|---|---|\n| `priest-2018-fifth-corner-q001` | `priest-2018-fifth-corner` | Part I, ch. 2; pages pending | review-transcribed; collation required | `28-s3-p3-projective-dimensional-reframing` | — | four corners as FDE values |\n| `priest-2018-fifth-corner-q002` | `priest-2018-fifth-corner` | Part II, chs. 5–6; pages pending | review-transcribed; collation required | `28-s3-p3-projective-dimensional-reframing` | — | fifth value e; infectious; plurivalent semantics |\n| `priest-2018-fifth-corner-q003` | `priest-2018-fifth-corner` | Part III, ch. 7; pages pending | review-transcribed; collation required | `28-s3-p3-projective-dimensional-reframing` | — | Jizang's iterated two truths |\n| `priest-2018-fifth-corner-q004` | `priest-2018-fifth-corner` | p. 142 via Westerhoff | review-transcribed; collation required | `28-s3-p3-projective-dimensional-reframing` | — | Dōgen as narrative focal point |\n| `priest-2018-fifth-corner-q005` | `priest-2018-fifth-corner` | p. 149 via reviews (also pp. xvii–xviii) | review-transcribed; collation required | `28-s3-p3-projective-dimensional-reframing` | — | methodological coda and disclaimers |\n| `priest-2018-fifth-corner-q006` | `priest-2018-fifth-corner` | p. 56 n. 17 via Westerhoff | review-transcribed; collation required | `28-s3-p3-projective-dimensional-reframing` | — | emptiness as structural relation-matrix |"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE.md",
+      "start_line": 57,
+      "end_line": 106,
+      "relation": "Abstract only: cannot infer full objection details or claim all objections target exactly same issue.",
+      "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well.",
+      "sha256": "240f142f0d58bd43465539f6d1803a6ce441877ce4867769f8cbfa2db3543475",
+      "text": "## Source scholarship\n\nKapsner writes from inside the non-classical camp — a logician friendly to Priest's general program — and aims his critical note at one component only: the fifth value. Per the verified abstract, the note \"examines that fifth value and raises some concerns about it that seem grave enough to reject it. It then sketches an alternative to Priest's account that has no need for the fifth value.\" The shape of the objection matters more to the essay than its detail: the four-valued FDE reading of the corners is left standing, and what falls is precisely the promotion of ineffability to a *value* — a fifth thing of the same kind as the four. Even a sympathetic reconstruction, Kapsner shows, can keep everything Priest wants from the catuṣkoṭi while refusing to reify \"none of the above\" into a semantic status. Full-text extraction will supply the concerns themselves (their grounds and the sketched alternative); until then this house carries the abstract's exact wording and the article's role.\n\n## Essay use\n\n### Source's relevant contribution\n\nThe gate-source: the friendliest available logician's objection to Priest, targeting exactly the fifth value.\n\n### Licensed essay use\n\n- Cite in [[28-s3-p3-projective-dimensional-reframing]] as the sharpest internal objection to the five-valued construction, alongside the reception gates in [[priest-2018-fifth-corner]].\n- Use the objection's shape to display QL's difference: Kapsner rejects ineffability *as a value*; QL's ground-position #0 is not a truth-value at all but a generative precondition, so the objection does not reach it. Citing Kapsner shows the essay knows the construction's weak joint and does not stand on it.\n\n### Claim boundary\n\nKapsner does not know or discuss QL; the claim that his objection leaves QL's #0 untouched is the essay's own Argued move. Until full-text extraction, no wording beyond the abstract may be quoted, and the content of his \"grave concerns\" may be characterized only at abstract level.\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\n### Material metadata\n\n- **Selected edition:** *Comparative Philosophy* 11.2 (2020), open-access, scholarworks.sjsu.edu.\n- **Access provenance:** abstract verified against the journal record, 2026-07-18; full text open access, extraction pending.\n\n<a id=\"kapsner-2020-cutting-corners-q001\"></a>\n## Passage card — `kapsner-2020-cutting-corners-q001` — the fifth value rejected\n\n> The note \"examines that fifth value and raises some concerns about it that seem grave enough to reject it. It then sketches an alternative to Priest's account that has no need for the fifth value.\"\n\n- **Locator:** abstract.\n- **Status:** wording-verified (abstract); full-text extraction pending for the body of the argument.\n- **Verification:** Coordinator, 2026-07-18; abstract wording captured verbatim from the journal record.\n- **Source relation:** quoted.\n- **Evidential action:** qualifies (gates the essay's use of Priest's fifth value).\n- **Argument function:** the friendly logician's rejection of the fifth value — the gate QL passes because #0 is not a value.\n- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]].\n- **Use boundary:** abstract-level only until extraction; the QL-sidesteps-this claim is the essay's, not Kapsner's.\n\n## Open acquisition and verification\n\n- Extract the full text from scholarworks.sjsu.edu; fix the page range; card the specific concerns and the sketched alternative.\n\n### Passage metadata register\n\n| passage_id | source_id | locator | status | movement consumers | argument consumers | function |\n|---|---|---|---|---|---|---|\n| `kapsner-2020-cutting-corners-q001` | `kapsner-2020-cutting-corners` | abstract | wording-verified (abstract); extraction pending | `28-s3-p3-projective-dimensional-reframing` | — | rejection of the fifth value; gate-source |"
+    }
+  ],
+  "raw_skeleton": "# FDE, four-valued logic and catuṣkoṭi\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

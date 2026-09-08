@@ -1,0 +1,368 @@
+{
+  "schema_version": 1,
+  "status": "bounded-inherited-world-batch-corrected-homes",
+  "parent_census": "working/p2-enrichment/census.json",
+  "authority": [
+    ".wayfinder/maps/t20-t21-world-registers.md",
+    "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json"
+  ],
+  "elements": [
+    {
+      "record_id": "mytheme-ares-aphrodite-hephaestus-poseidon",
+      "title": "Ares, Aphrodite, Harmonia, Eros, Hephaestus and Poseidon — the whole relation",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/myth/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-apollo-dionysus-daphne",
+      "title": "Apollo, Dionysus and Daphne",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/myth/apollo-dionysus-daphne/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-the-prisoner",
+      "title": "The Prisoner",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/media/the-prisoner/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-antikythera-attunement",
+      "title": "Antikythera as attunement instrument",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/art/antikythera-attunement/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-mirror-that-moves-first",
+      "title": "The Mirror That Moves First",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/narrative/mirror-that-moves-first/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-job",
+      "title": "Job",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/myth/job/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-mother-assumption-chiasm",
+      "title": "Mother, Assumption and chiasm",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/myth/mother-assumption-chiasm/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-travelling-jigsaw-atlas",
+      "title": "Travelling jigsaw, box-lid and atlas",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/narrative/travelling-jigsaw-atlas/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-goethe-permanence-change",
+      "title": "Goethe — Permanence and Change",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/poetry/goethe-permanence-change/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-taylor-authored-images",
+      "title": "Taylor poetry and authored images",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/poetry/taylor-authored-images/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-myth-attica-athena-poseidon-cecrops",
+      "title": "attica-athena-poseidon-cecrops",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/hellenic/attica-athena-poseidon-cecrops/WHOLE.md",
+      "wave": "T20",
+      "disposition": "enrich-existing-whole",
+      "authority": [
+        "WRITING-PROTOCOL.md",
+        "submission-package/essay/symbolon/mytheme/myth/attica-athena-poseidon-cecrops/WHOLE.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/myth/attica-athena-poseidon-cecrops/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-myth-hypostasis-archons-norea-sophia",
+      "title": "hypostasis-archons-norea-sophia",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md",
+      "wave": "T20",
+      "disposition": "enrich-existing-whole",
+      "authority": [
+        "WRITING-PROTOCOL.md",
+        "submission-package/essay/symbolon/mytheme/myth/hypostasis-archons-norea-sophia/WHOLE.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/myth/hypostasis-archons-norea-sophia/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-narrative-fanon-language-gaze-mask-recognition",
+      "title": "fanon-language-gaze-mask-recognition",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+      "wave": "T20",
+      "disposition": "enrich-existing-whole",
+      "authority": [
+        "WRITING-PROTOCOL.md",
+        "submission-package/essay/symbolon/mytheme/narrative/fanon-language-gaze-mask-recognition/WHOLE.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/narrative/fanon-language-gaze-mask-recognition/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-narrative-jung-aion-fishes-christ-antichrist-alchemy",
+      "title": "jung-aion-fishes-christ-antichrist-alchemy",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md",
+      "wave": "T20",
+      "disposition": "enrich-existing-whole",
+      "authority": [
+        "WRITING-PROTOCOL.md",
+        "submission-package/essay/symbolon/mytheme/narrative/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/narrative/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-apollo-eros-daphne-peneus",
+      "title": "Apollo · Eros/Cupid · Daphne · Peneus",
+      "register": "mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:65–93",
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:764–776",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "record_type": "whole-mytheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "Opposed arrows, prior refusal, paternal intervention, pursuit and laurel appropriation form one Ovidian whole; distinct from the Nietzsche/Gebser comparative Apollo/Dionysus/Daphne.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt.",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/myth/apollo-eros-daphne-peneus/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-maya-eye-veil-frame-horizon",
+      "title": "Anuttara · Śakti · Māyā · eye · veil · frame · horizon",
+      "register": "mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:305–454",
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:764–776",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "record_type": "whole-mytheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "Authored cross-source image: constitutive self-veiling makes finite sight possible; secondary hybris absolutises its frame; regard and recognition reopen it. Never one inherited historical myth.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt.",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/narrative/maya-eye-veil-frame-horizon/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-avatar-image-mask-idol",
+      "title": "Avatar · image · mask · idol",
+      "register": "mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:457–535",
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:764–776",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "record_type": "whole-mytheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "One authored image ecology: mediation makes presence effective, then can close return and require bearer to serve image. Sanskrit, psychological, racial-historical and theological source relations stay separate.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt.",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/narrative/avatar-image-mask-idol/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-indra-net",
+      "title": "Indra’s jewel net",
+      "register": "mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md:352–354",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "record_type": "whole-mytheme",
+      "admission_standing": "admitted-developed-body",
+      "distinct_operation": "Huayan recursively implicated jewel field retains distinct local members; living relation counter-image to Hephaestian capture, not a generic Internet picture.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt.",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/myth/indra-net/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    },
+    {
+      "record_id": "mytheme-eros-psyche",
+      "title": "Eros and Psyche",
+      "register": "mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "the-return-of-zero-central-plan.md:513–515",
+        "the-return-of-zero-central-plan.md:813–819",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md:193",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "record_type": "whole-mytheme",
+      "admission_standing": "admitted-supplementary-plate-not-governing-prose-myth",
+      "distinct_operation": "Four labours, descent, apparent death, waking and marriage without merger form the optional supplementary contemplation; linked-plate default is admitted, manuscript exposure remains optional.",
+      "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt.",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/plates/eros-psyche/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    }
+  ]
+}

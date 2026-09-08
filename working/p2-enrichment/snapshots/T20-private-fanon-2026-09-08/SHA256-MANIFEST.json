@@ -1,0 +1,143 @@
+{
+  "status": "sealed-completed-private-snapshot",
+  "record_id": "mytheme-narrative-fanon-language-gaze-mask-recognition",
+  "whole_sha256": "a9b769f8669c5178cfbeaa2c36a8df8615410e58cb0c1021682f8ffd4f3c283c",
+  "warning": "Immutable evidence. Do not rerun validate-and-freeze.py into this directory. Later input changes require a new snapshot. packet-initial.json is superseded assembly provenance; packet.json is the validated final binding.",
+  "files": [
+    {
+      "path": "WHOLE-before.md",
+      "sha256": "3c170c15309739eba7c0b35660891fdf63b4bb5059371cf06ffe0ed2421be074",
+      "bytes": 12975
+    },
+    {
+      "path": "WHOLE-final.md",
+      "sha256": "a9b769f8669c5178cfbeaa2c36a8df8615410e58cb0c1021682f8ffd4f3c283c",
+      "bytes": 20330
+    },
+    {
+      "path": "bound-inputs-manifest.json",
+      "sha256": "920b4cf7062b548c44c16566d306f7127a90c000f322b3513e0bc569bf6689c8",
+      "bytes": 21518
+    },
+    {
+      "path": "bound-inputs.zip",
+      "sha256": "21bcc3f6da51580e92431008613fecd6b20b4ce3f1dc6e694b348072890c7c91",
+      "bytes": 2568624
+    },
+    {
+      "path": "census.json",
+      "sha256": "97ceb4aed23e0a408283b471a62bfbed90063d1a081f53ad6bed75b4bb075444",
+      "bytes": 57650
+    },
+    {
+      "path": "concurrent-input-drift.json",
+      "sha256": "3825a9791625e0c613abb75693a5ccb23c1a4d8b01f3bfa6c4ae28e54133ccab",
+      "bytes": 1305
+    },
+    {
+      "path": "coverage-rows.json",
+      "sha256": "9c39ed2b823476a748364994fb260b7791624fd6b5775a1fb1a6c6732e3dec1e",
+      "bytes": 20452
+    },
+    {
+      "path": "effects-A20-Image-Valuation-Possession.json",
+      "sha256": "7ae32ef855a1ed424a113fd302f88efc54f1ded23c68c76f40201b8c4cf3704c",
+      "bytes": 215368
+    },
+    {
+      "path": "effects-A27-Self-and-Other-Unity-without-Possession.json",
+      "sha256": "c71ff9c66992847abc3b3fdc04c8d4bb81642344236f0d985a4c67be68e235d1",
+      "bytes": 182810
+    },
+    {
+      "path": "effects-mytheme-narrative-fanon-language-gaze-mask-recognition.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "effects-taylor-2026-core-theorems-pithy.json",
+      "sha256": "5a3fed7efcde0c91d7d14d2c8a522d38841af7cae0b427f56c9ab0bc5e5ee310",
+      "bytes": 300812
+    },
+    {
+      "path": "effects-whole-by-path.json",
+      "sha256": "262b2881b2802917b8c03ba4a63ef0b217c96ba89b1601ec6d5828715439ab65",
+      "bytes": 1649
+    },
+    {
+      "path": "fanon-1952-electronic.pdf",
+      "sha256": "a1dc1f996b93017d32b4679eb0838311876ee7cfc53f1ee8ade74ec67afdf123",
+      "bytes": 1315614
+    },
+    {
+      "path": "fanon-1952-extracted.txt",
+      "sha256": "0092872afb45707f244617fca7e8b16a952f9a068d15c742255805a6f32533a2",
+      "bytes": 561033
+    },
+    {
+      "path": "fanon-1952-pages.json",
+      "sha256": "6ba5e1756fc1a955411c7834a23f1f09a52a847084fc68ab206bd1cc9308282b",
+      "bytes": 565034
+    },
+    {
+      "path": "final-validation.json",
+      "sha256": "f66998b4f1bbc404f2ca0b37c0e9a98e812f6f2c0b8e9fd011f729cc221e49c6",
+      "bytes": 2920
+    },
+    {
+      "path": "packet-current-check.json",
+      "sha256": "9891b53e282d0e2559d99f896b2cc4139628004df1c100ce3f47bf477b371421",
+      "bytes": 63406
+    },
+    {
+      "path": "packet-initial.json",
+      "sha256": "69b0362cbd035e236d9456d3a514df390e81af69730105dbe830c9ef8ef91ac7",
+      "bytes": 63828
+    },
+    {
+      "path": "packet.json",
+      "sha256": "18ee6db38a3a430ec5d8db722a69d5a5f80282df2bbb36826161e98c29977956",
+      "bytes": 63828
+    },
+    {
+      "path": "queue.json",
+      "sha256": "8ef1f9bdd76bec6e8a077a3acab88e07fb6bf22590119cd2ffde9da2895ece98",
+      "bytes": 78544
+    },
+    {
+      "path": "reading-receipt.json",
+      "sha256": "4c07c3df4553c1f41a6d6763835a41d1046003a322ba5c7d42f2cba3f7381e59",
+      "bytes": 29040
+    },
+    {
+      "path": "resolver-validation.json",
+      "sha256": "e03fa3295a5e58fcd8e7940b7d74552bda0603a2db86de8a732b7f2bc64b18b4",
+      "bytes": 170
+    },
+    {
+      "path": "semantic-audit-before-repair.json",
+      "sha256": "e1df9c2a51b330739781d56b4665a470cd06f62016afb6795eba23c654d5425c",
+      "bytes": 513
+    },
+    {
+      "path": "semantic-audit-final.json",
+      "sha256": "60340119b631506d6de52640bc2c11732d21915cd029124b7a26ddc33fce2472",
+      "bytes": 1587
+    },
+    {
+      "path": "source-recovery.json",
+      "sha256": "3a0e396ed6125fa8aa9ad849d7433a753941ce3a9c472f07eeea76c7f63a16bc",
+      "bytes": 1228
+    },
+    {
+      "path": "unit-crosswalk.json",
+      "sha256": "c658e2389cb57865c9419101a67facb9982fef23dc1f171c131b46e2f1e5951f",
+      "bytes": 25740
+    },
+    {
+      "path": "validate-and-freeze.py",
+      "sha256": "81622fd9a38c06186946d72cfef1151a865a247006197ff81ed4672519c18694",
+      "bytes": 8670
+    }
+  ]
+}

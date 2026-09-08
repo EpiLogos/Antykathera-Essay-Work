@@ -1,0 +1,53 @@
+{
+  "root": {
+    "id": "levinas-1981-otherwise-than-being",
+    "title": "Levinas — Otherwise than Being (Lingis, 1981)",
+    "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1981-otherwise-than-being/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Levinas — Otherwise than Being (Lingis, 1981)",
+      "Bibliographic identity",
+      "Chicago 18 forms",
+      "Source scholarship",
+      "Essay use",
+      "Source's relevant contribution",
+      "Licensed essay use",
+      "Claim boundary",
+      "Passages and excerpts",
+      "Material metadata",
+      "Lead passages (edition plan — no locators fixed, no wording claimed)",
+      "Open acquisition and verification",
+      "Passage metadata register"
+    ],
+    "sha256": "e33e0c4589b160cf391c9aacec7da4c7457064672c497c28410fbcd97f9b91c8",
+    "citation_status": "forms-drafted-pagination-unverified",
+    "quote_status": "no-excerpts",
+    "main_source_for": [
+      "the responsibility/substitution register drawn by the conjugate root's A face (proposed)"
+    ],
+    "tags": [
+      "epi-logos/antikythera-essay",
+      "source-bank/record",
+      "source-bank/levinas",
+      "source-bank/continental-philosophy"
+    ]
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

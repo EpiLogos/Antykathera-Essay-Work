@@ -1,0 +1,3414 @@
+{
+  "standing": "Time-bounded preservation of task development and review evidence. Intermediate drafts, failed checks, obsolete packets and intake statuses remain historical; current acceptance is separately published. Recent actively written closure proofs are committed after their writers release them. No packet or source hash is retroactively rebound.",
+  "cutoff_unix": 1788874287.459765,
+  "files": [
+    {
+      "path": "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+      "sha256": "31ec392b340ff0d80b615a51f6c776167459dc58745e3f05556106a3a6bb0092"
+    },
+    {
+      "path": "working/p2-enrichment/NEXT-SESSION.md",
+      "sha256": "40caa9bba6369e3b5d793f5527c7816f42b81b0c557180c033e8cfa23a290996"
+    },
+    {
+      "path": "working/p2-enrichment/RECOVERY-AUDIT-2026-09-08.json",
+      "sha256": "3cf897f41541e0a2ac11994a3409c6bb72eabda1b5a1d585e10b086c2f48651e"
+    },
+    {
+      "path": "working/p2-enrichment/RECOVERY-HANDOFF-2026-09-08.md",
+      "sha256": "14d5b2929c9e18933484204c4775f6d738f16bbd9bb9cfec197441ff448419f6"
+    },
+    {
+      "path": "working/p2-enrichment/T17-CENSUS-CANON-RECONCILIATION-2026-09-07.json",
+      "sha256": "638d81bd08fbf6476aa1a2a773ab1038ab79f93722d24f93a129ebb90b19c90b"
+    },
+    {
+      "path": "working/p2-enrichment/T19-hygiene-targets.json",
+      "sha256": "ccf521333ab4ac1a8a2bc4b22f5c1ee7b0c9340fd3f80503be2e28790c690407"
+    },
+    {
+      "path": "working/p2-enrichment/T19-root-matheme-hygiene-targets.json",
+      "sha256": "f98be611396910bad163b71989f64e6964589bf5d2613d8c2665030b3e857b73"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-apollo-dionysus-daphne-census.json",
+      "sha256": "c3d0438b6f49db71dfd2c49622d9f4ca51a0f342c4a3f58a57a5ab26963f14a6"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-apollo-dionysus-daphne-queue.json",
+      "sha256": "bf1a07e4ca3b0972052c133011dc991e33c600f7e56c1851d15166d2fbdbce3d"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-goethe-permanence-change-census.json",
+      "sha256": "74bbfad8e9339161918864381b98d7f2aa6f54296810bf8c08bb615915d25e72"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-goethe-permanence-change-queue.json",
+      "sha256": "2df81cfbe91a498b2929a82d33bec35b39ab869e989ff12538a062f66d50c864"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-indra-net-census.json",
+      "sha256": "1cd7d9649058fef6321a0f9b4fda65a6c61065b9a81d5918b8f8b116d4b39077"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-indra-net-queue.json",
+      "sha256": "6c82f999978c7f35bf3377d59e48fdfe424c903cba9e754488d6beb088653ba0"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-job-census.json",
+      "sha256": "4dbc2a95ff2f17c244d2e3c80a41bdead83aa52a115777c7bacb15454522cf1c"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-job-queue.json",
+      "sha256": "a26a640b25eda3037fdcf113559211df30c99fc45dd30967200ee421ee50704f"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-meal-epistemic-metabolism-census.json",
+      "sha256": "edcfd81d707e8ff95dc9ef89f5963e81d1fe4e7b6bffad9141ae65e792971777"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-meal-epistemic-metabolism-queue.json",
+      "sha256": "2e4522bdd618a2c6ab318d583c410bf8f8d736960939d13f14dd15d96e828db6"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-mirror-that-moves-first-census.json",
+      "sha256": "1965730a05721642472677d1c5a3befe78d45d2f6a77369e148f2da22584728c"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-mirror-that-moves-first-queue.json",
+      "sha256": "a851288f083a397f52fe497ea115476e8b8ef7037f8eb30ae538f100e651fd52"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-mother-assumption-chiasm-census.json",
+      "sha256": "ad29a771a39d1f36c1fefbacd64663a88d39a4d7fedb9f1d34abdef4f7005e26"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-mother-assumption-chiasm-queue.json",
+      "sha256": "3a3e030be24673929a835452767df57ca7f40b49fae5a8a1eaf93a367d9a04d9"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-the-prisoner-census.json",
+      "sha256": "ea500a95c859178df0cf8d0b2a70477a8d72550f2f8c6bdded0b21f212502f6c"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-the-prisoner-queue.json",
+      "sha256": "ad5ca28659480ccc60e61cc313fd1955b0bfc562edc18576be88f00f77a29f76"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-valentinian-sophia-horos-achamoth-census.json",
+      "sha256": "6021bd11da10c442fb04814501943c525de0c2ff8264a2a0440c7cf03a45af1a"
+    },
+    {
+      "path": "working/p2-enrichment/T20-PARENT-mytheme-valentinian-sophia-horos-achamoth-queue.json",
+      "sha256": "72d66cbf28e7a8d88c0f117f9c90cb21ebb63cb8ac0c0a3199c94ea0ab58397b"
+    },
+    {
+      "path": "working/p2-enrichment/T20-T21-EXECUTION-DECISIONS-2026-09-08.md",
+      "sha256": "54d1e899b87e1b65f9f415aecd6b6f9abef8c561926fd5c18603055f60efca30"
+    },
+    {
+      "path": "working/p2-enrichment/T20-exemplar-hygiene-targets.json",
+      "sha256": "0ee3d6c470beb274bd6021b205e0de9a8a5e30c542344b85e6cfce03c9e8a629"
+    },
+    {
+      "path": "working/p2-enrichment/T20-ground-census.json",
+      "sha256": "d784b08320c962d0a98543ad0f6cd1b19d2feae7b7fb1d6d75c555ec4f986923"
+    },
+    {
+      "path": "working/p2-enrichment/T20-ground-hygiene-targets.json",
+      "sha256": "7f6a613ebc0111bd6169caa2bc13128316a5af44439c91caa092f944123c62e1"
+    },
+    {
+      "path": "working/p2-enrichment/T20-ground-queue.json",
+      "sha256": "2bd42cde291f5d7caf2c30babee90593f163cb4f2292e7602a27421e792c496b"
+    },
+    {
+      "path": "working/p2-enrichment/T20-ground-recheck-targets.json",
+      "sha256": "b2565b001c6448dbeb3f5a4eeab81f6d6be83e4c4a2a8be96c6e4209bb530038"
+    },
+    {
+      "path": "working/p2-enrichment/T20-mytheme-apollo-eros-daphne-peneus-census.json",
+      "sha256": "377f19cfc471a89a75815822d62a0f0ac5a70cb8eac29767a284b4be7b63adb4"
+    },
+    {
+      "path": "working/p2-enrichment/T20-mytheme-apollo-eros-daphne-peneus-queue.json",
+      "sha256": "99848877e868ac94ab406896e8d17d48947e5c4f483633f9aee6006cb28419c6"
+    },
+    {
+      "path": "working/p2-enrichment/T20-mytheme-eros-psyche-census.json",
+      "sha256": "9d998a9608ba64a116e2915616756db034b4a8db1fc12cdcf400c2717c9553a5"
+    },
+    {
+      "path": "working/p2-enrichment/T20-mytheme-eros-psyche-queue.json",
+      "sha256": "8ad709ca787d16d3300ef7afa6c0881977a246d7eb5bc38c524f30e2e34239e2"
+    },
+    {
+      "path": "working/p2-enrichment/T20-quilt-to-whole-coverage.json",
+      "sha256": "57586ef3b3b41380be199b84661c94643eacf6d4938e86393bb862b003de19e8"
+    },
+    {
+      "path": "working/p2-enrichment/T20-quilt-to-whole-coverage.md",
+      "sha256": "5e31ee7c322f8a13d4d63d95dde894884df33328a2edb6ebdeb6aa4310a332e1"
+    },
+    {
+      "path": "working/p2-enrichment/T20-world-batch-01-hygiene-targets.json",
+      "sha256": "7cded2dc229212183ac9162a9f4ea14086b4869488ac1095669953fc20450363"
+    },
+    {
+      "path": "working/p2-enrichment/T20-world-batch-01-recheck-targets.json",
+      "sha256": "d7e59cbd0010043c78cbaa3aa1d08c753c741798ea4269c2c4c3dab7b5d9cbd0"
+    },
+    {
+      "path": "working/p2-enrichment/T20-worlds-census.json",
+      "sha256": "72270728118dc7665ab55546c9ad2feeb6dd529d480183116ced0bbb1d665cd4"
+    },
+    {
+      "path": "working/p2-enrichment/T20-worlds-queue.json",
+      "sha256": "eae03d72ee1d413e7523670c994a606d54ef532824dc9e274c47f04282259bd0"
+    },
+    {
+      "path": "working/p2-enrichment/T21-A18p-name-power-targets.json",
+      "sha256": "ace6bfacd418d045ab6c9f3c5869ed95d9c7855c0a461a2678563bfb38bb82ef"
+    },
+    {
+      "path": "working/p2-enrichment/T21-C59-A25-status-targets.json",
+      "sha256": "af5f406a107b69ee1ad0d7012529166e133a1cdeee5c04b77f16778df8c8b1f4"
+    },
+    {
+      "path": "working/p2-enrichment/T21-E4-hygiene-targets.json",
+      "sha256": "6cd63dab8af5b117bed66afcea53cbed9819557b6a57ef0ec19628316b62c0f1"
+    },
+    {
+      "path": "working/p2-enrichment/T21-aphorism-investigation-and-faith-census.json",
+      "sha256": "ae9aca3fbad6e76598c850a3fa70b155bc94bc9388c1342bb5eea95cbacf7ee2"
+    },
+    {
+      "path": "working/p2-enrichment/T21-aphorism-investigation-and-faith-queue.json",
+      "sha256": "c37fc75fa6f39cb68c1467163bd39ed5eaf7577fa8f65e83d2a41ebd98ec4d07"
+    },
+    {
+      "path": "working/p2-enrichment/T21-etymology-encounter-region-name-count-census.json",
+      "sha256": "b87c263cea0425525034013b835a95433887dab835844c0172e012181f9dc81a"
+    },
+    {
+      "path": "working/p2-enrichment/T21-etymology-encounter-region-name-count-queue.json",
+      "sha256": "eb2a73a6222c3768ac79a46c9258b08ec2fbaecbcf19e8d82e67c818673ce798"
+    },
+    {
+      "path": "working/p2-enrichment/T21-etymology-symbol-account-and-trust-census.json",
+      "sha256": "998cb4cd1a839aa9320663e00e4188f0ff171f23dcc44fbd5ced0fe93732394a"
+    },
+    {
+      "path": "working/p2-enrichment/T21-etymology-symbol-account-and-trust-queue.json",
+      "sha256": "d0fb64bc6aece53df56c6a875edcdf46498a2f179f0fe189585fea0c0d1401d2"
+    },
+    {
+      "path": "working/p2-enrichment/T21-etymology-trust-place-logos-nomos-natio-credere-census.json",
+      "sha256": "5fc583bb007451bd6b9170c4791b8533d46c7ee8ff745c5270f0986e693dbb41"
+    },
+    {
+      "path": "working/p2-enrichment/T21-etymology-trust-place-logos-nomos-natio-credere-queue.json",
+      "sha256": "88f2bbf29ac20d1488665c9033ad1137c2f690fe078ae5723a5d47044686654e"
+    },
+    {
+      "path": "working/p2-enrichment/T21-record-input-locators.json",
+      "sha256": "1518eef7b4eb54831be780e3503fbc4093178e0112127f51f112ee29f9865f9a"
+    },
+    {
+      "path": "working/p2-enrichment/T22-Indra-source-recheck-target.json",
+      "sha256": "8334880a1ba1570e32066019cc8be979eabc597caef9d893f978b614ddf411a3"
+    },
+    {
+      "path": "working/p2-enrichment/T22-stained-MEF-targets.json",
+      "sha256": "3bc32889333a8672a2783316a2ae20f882d6f3adbc17ca4eb20d6633a905f7b5"
+    },
+    {
+      "path": "working/p2-enrichment/T22-stained-glass-consumer-targets.json",
+      "sha256": "87f36347116bd5940bfc877005c666959733e8d2056c3b0dfb97c0c01b3a2a53"
+    },
+    {
+      "path": "working/p2-enrichment/T22-stained-only-target.json",
+      "sha256": "6c5e49a5310aa0f113906fc69543ccf3c7ffad4dcb361a4f76a31a8a9e1c5feb"
+    },
+    {
+      "path": "working/p2-enrichment/T22-world-batch-02-targets.json",
+      "sha256": "5cab5bcffbd244d305d1c68b967ca5107ed47a4e379bc362f39e056531a5a3a3"
+    },
+    {
+      "path": "working/p2-enrichment/T22-world-batch-03-text-source-targets.json",
+      "sha256": "f495d8e1f580f72f8b97a7aaee92f0d21789cfe821ea6a8e6205dfa42b178224"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/CHECKPOINT.json",
+      "sha256": "93bf550e37a53f8481f8f20b48d8013dbd0db9f88b48183855441028900a44b6"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/CHECKPOINT.md",
+      "sha256": "0e8eb2076b621d89c01991379146e4d8419f8802d4a3fef6876c05596fc6fea7"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/E4-source-case-refresh/FINAL-RELEASE.json",
+      "sha256": "a68ad9a6877382de4827e8b90118a727920ced77f3e6fd320cae48eaf588a8c5"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/E4-source-case-refresh/REFRESH.md",
+      "sha256": "655398a7ce7c30294575d474f5edc5b13198f1c8132fd844784cbc3de6dc8221"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/E4-source-case-refresh/proof-recheck.json",
+      "sha256": "6f640b8c4f926229dbbd1f4cc6c1d2ef948c4f1e4930d937b9b35c091ec81f5d"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/RECONCILIATION.md",
+      "sha256": "59b32220e5234463b4676672660ba532946f232738b9936992a0750e715d3ee3"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/add_occurrences_and_report.py",
+      "sha256": "4dccf649dee3bcdc85c9a02399b0901e96011a92d15cb3455c3aff60c98c46bf"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/audit-checks.json",
+      "sha256": "195f27a6e21cd881a2a7f0e6333763febd84227c4859849548536a497174cf42"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/bounded-audit-before-completion.json",
+      "sha256": "39b98de7beb9b39bf0e2e3eb028e967aeb0cc020aa845b4f4aa164a3a9b99761"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/collect_current_fragments.py",
+      "sha256": "5b5a57d9d74b1d8873804a954b22c3a8107cdbbbc224baa3a5c4aa08cf12c88b"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/complete_semantic_dispositions.py",
+      "sha256": "d9a81bd6764adac8aa8e3df0145a1e0242be21cda93678308967670d5fb382ec"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/conjugate-reuse-check.json",
+      "sha256": "1fcebffb025a8eda87e431f6e5df740f8ff7edb8aaf7605cb24b4166499406c6"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/current-fragment-locators.json",
+      "sha256": "3fe220cfc31eb1673f5ef513c1156eeccbfaad93193df28ec5cd6a49e3cc29bd"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/current-row-audit.json",
+      "sha256": "108464c66c843f3428584cd8ffa6c3d0f211603148920c3419d3fe2710ce9e46"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/final_current_integration.py",
+      "sha256": "768b256e52b973df12c2f6935d9f0c8c29cae2b6e7d9751503058d22e13c1e90"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/finalise_audit.py",
+      "sha256": "3aa8ba89c3183910fcf2d706f1333989e1016eda0c2b3e14eda44bb489ace360"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/judgment_updates.py",
+      "sha256": "794840198ea846b99f5592d689182e960ad5d039a431061877845f46a86639a1"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/lexical-source-paths.json",
+      "sha256": "78fa6a188987030708a1b9d239bb09a3c82bfd5c8cabe3227ed26110abc93510"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/proposed-row-updates.json",
+      "sha256": "dd8b356d0ec149f5f9e50de2cad70718841063a10f44d628a52ae9c85f013cf2"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/reconciliation-findings.json",
+      "sha256": "1e0408dcb4022351b61104f6be2ed33429d8aea09b573fa793e57f9296363cda"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T21-history-home-migration.json",
+      "sha256": "600e695c3504424f03067e9c38705e7fc0832ca68320a95cff8b758fd0c22a3c"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T21-lexical-source-admissions-resume.md",
+      "sha256": "aa4a7244d93fda9feef0820250273e2b64a10fde21186247b32f8095d55dd76e"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-A18p-name-power-decision.md",
+      "sha256": "d740a09b864458be4689c4326a0a48613667a5aa37a43bfc68ccce97a14f1f72"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-Aion-Maya-debt-targets.json",
+      "sha256": "b726d7b2a439ea8aedd4e2165b80ff9d6f9c3babc6e1fce687ee92ee2f047158"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-Aion-source-targets.json",
+      "sha256": "d8fbda01f9ac3dca746e9860a6e4b79463e0d1a5322ceefd0e46bf5d0f2caeb5"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-C59-A25-status-decision.md",
+      "sha256": "2947e80573ab067083dc757363112e423e860007b5a35cd66d5e77a67d90bacd"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-E1-parent-targets.json",
+      "sha256": "4375ff504e219cae59f7055aefc62c60141fcce55e7934d4c983eea6d0713158"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-E1-source-foldback.json",
+      "sha256": "1b7e0b294ae844c267ccdea23451f1c42772028eec26422a15f2ef7a4a168b6d"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-E123-parent-forwards.json",
+      "sha256": "a8a4a8e2ded326f64edec0abb9bd841e3c6598120e4871160a18230ac7b74ce0"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-E2-E3-free-targets.json",
+      "sha256": "0ed257090526fb347d9ecd07964086341f9c9346f3f64c44fb6cbc67430224f8"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-E2-E3-parent-free-consumers.json",
+      "sha256": "34a4688cccef9f0f404d506e886d28a72b6158ec93017e4278b05b0ef3457603"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-E2-resume-targets.json",
+      "sha256": "28d001b7ba56c70d33e8a6c0c599ba6baff4861e32ac7b3f397ce520e00acbbb"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-E4-returns.json",
+      "sha256": "08c100e10497c1cbdddfec47d9d54651c325d56b7a00d68b90cf46aa568564a1"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-E5-E6-source-targets.json",
+      "sha256": "442746995fd4f162f62f5822084d153debdb92ba9db506a46dda8de945336428"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-E5-parent-forward-targets.json",
+      "sha256": "5c43c9b612a795f3f15f4aa6c16c3a758cc9c14927daee17b06d59f20fb0ae65"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-E6-consumer-targets.json",
+      "sha256": "317fbbef5cbe7c16a2a92ac1b66048dfe0362fb5eb4319dd7aa7a7a55e4ec32a"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-E6-parent-consumers.json",
+      "sha256": "df770103edc5a66e611ea4803c83646f221d2949ad7975937557a08dfe57da2b"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-Hypostasis-source-targets.json",
+      "sha256": "395db840c2fc38ef35b79c9c95246b858bf896aa6617f103ceb534b9b3706e98"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-LSJ-E5-targets.json",
+      "sha256": "bc7e251ee19b5b037a04951703a7d50db1554fc89f26ab23ab8c70bc654f4c14"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-aphorism-admission.md",
+      "sha256": "e0d3ffe3e12ef306689c5ddad8675c72b080dff37f80317af9411ab009580541"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-aphorism-free-consumers.json",
+      "sha256": "24ed6f0897a88a388eaebdd8a030833dfd6ff5ee6940a4cde09489f5f2915bfa"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-aphorism-resume-targets.json",
+      "sha256": "23f238d7cb076e12ed78cc9d476b5b64b2b6aa62a9a09b82af8916decaa941bd"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-avatar-E-targets.json",
+      "sha256": "489cd855929a6a2723f6050740ba14c0517e615b20bb6da4b2a4153b1fa7f492"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-history-migration-targets.json",
+      "sha256": "7947ebac0add11c253396b7c6dc04e006aba8d6a2a200d20c7f9ae782efb5ea2"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-lexical-resume-targets.json",
+      "sha256": "262c50d30044115f19e1ccaa62f40d2cc408ba4df20acb3e7809523bb702e127"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-neumann-reciprocal-operations.json",
+      "sha256": "be77815a86f89db90b75c0ce989648bfc2d63d823dc6ecd07b195cb3f1d67e7e"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-stained-glass-consumer-returns.json",
+      "sha256": "40d94107ec190b61ae4755adbefaf3ab65158c0fd0aeba6d4514b98c43c9812e"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-world-batch-01.json",
+      "sha256": "7ed598a5cdfbf245892ee5c0754b36fc34f429a26760343989a29199bb9eddfc"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-world-batch-02.json",
+      "sha256": "a638215563e145e9cfeffa515882052cb3fd67d271bb0d79f573f07a7bc8fc98"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-world-source-binding.md",
+      "sha256": "d5c2d8458cec0f36b6a095e54cf680657b08deb030e1b3f3e44ddcd20231267c"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-world03-E-free-proposals.json",
+      "sha256": "0ae4627cf53bf216e39b86083bf23884d7642870ff3cc52c54383dc05371cc16"
+    },
+    {
+      "path": "working/p2-enrichment/batch-plans/T22-world03-E-free-targets.json",
+      "sha256": "720f7bafb9c291154da613104b60c6670b213aa304845d490317d96df4b1f0a8"
+    },
+    {
+      "path": "working/p2-enrichment/census.json",
+      "sha256": "16d56e61c73df61b03a766b61165a0ec752e092e6a753bd036a1563ea5d6a708"
+    },
+    {
+      "path": "working/p2-enrichment/dispatch-queue.json",
+      "sha256": "c3cc178686e92ea430cb211a5b944dff56b16fd5b4fd0576818c213e28258b34"
+    },
+    {
+      "path": "working/p2-enrichment/intake-dispositions.json",
+      "sha256": "22efa8f3a33ae9f10fbf41c54a921c87b881baeee21ef26e7b52c9af95a42b60"
+    },
+    {
+      "path": "working/p2-enrichment/legacy-carrier-dispositions.json",
+      "sha256": "5fa52976855daadfaddc1e244d780f51875647e8dab115d83fac3a06d14c3ce0"
+    },
+    {
+      "path": "working/p2-enrichment/matheme-inputs.json",
+      "sha256": "46ccd410656071fbcd7560c47aee686a19c8aeee84f2a8aba18f392beb976a05"
+    },
+    {
+      "path": "working/p2-enrichment/mytheme-inputs.json",
+      "sha256": "531c6cd30d1b4a59b002c7a243d55608ba0c96e8827fccafe9ba821423a443c0"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/A01.json",
+      "sha256": "784e78374a1a437a34984275736a2c95cfd381105d645e17cdf4e7da8341a89d"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-Aion-private-development-packet.json",
+      "sha256": "9c14e29d816d9b130691ea818898db6b6e1139b8c883ce5e37e755d5eb4116b4"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-PARENT-mytheme-apollo-dionysus-daphne.json",
+      "sha256": "29793542a1b7ff042eab5d3f3b7279485365797877e08fbb467988faae8eea07"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-PARENT-mytheme-goethe-permanence-change.json",
+      "sha256": "1b6ccbc7e7550d1a3e45909023bb499994b86e4f3f015f6e3ea15345e150ef15"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-PARENT-mytheme-indra-net.json",
+      "sha256": "b6a05f1051d443c8fcc7cb7d3bb221b54b12a2a34a32c743729bad0b7b70ffd2"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-PARENT-mytheme-job.json",
+      "sha256": "f402c3c00e19175a56de3b7c00b10de79f9877cc5aca12f55890e42308b038ee"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-PARENT-mytheme-meal-epistemic-metabolism.json",
+      "sha256": "74cb5cf9423cac3d3ae1ed0387fd3e9de822a73b61030f9ef8bc96280630ceda"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-PARENT-mytheme-mirror-that-moves-first.json",
+      "sha256": "af960827138c15cef2fc7d896a84f61bc1ce98c4a6646a20a688e1215dae723f"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-PARENT-mytheme-mother-assumption-chiasm.json",
+      "sha256": "d9a0b2f2528a08bc7b3eb6fdca16cbacba26fd9180b793cc75ba2710b39082db"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-PARENT-mytheme-the-prisoner.json",
+      "sha256": "4449821bde432c332a3c4911f4b5adffb86e8b4260f60f5ad173272551f40e31"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-PARENT-mytheme-valentinian-sophia-horos-achamoth.json",
+      "sha256": "440c38f19970475d40d982e6b86054283561d61c39a5cc588b5f5a97e0a999d6"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-avatar-image-mask-idol-resumed-2026-09-08.json",
+      "sha256": "2f900cafa2f252ec26e26eb93d7ae2e54e10c9658fae922ceca8dbfa8a55cd63"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-hypostasis-private-2026-09-08.json",
+      "sha256": "945da937730ef2fc0af990d90ca40ce8564b5c75f11c03b05ff59450c88a09dc"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-mytheme-apollo-eros-daphne-peneus.json",
+      "sha256": "0fcde555e945aec4b5658e772cd74c05437fce332974fc0ec3c32c598166e83a"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-mytheme-ares-aphrodite-hephaestus-poseidon.json",
+      "sha256": "1cadbf24354f4ce6ab9002a72de12dbebd1d08ec17e54cfdac5f64e866695e08"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-mytheme-eros-psyche.json",
+      "sha256": "dbdbacd698522871696899206670eb65601751c3f83017e9635598bcfbd07ae2"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-mytheme-neumann-images.json",
+      "sha256": "66f9c45a50324138bd6bc2270c524992e34a908ae44080661f3c3af277c7f59c"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-mytheme-uroboros-trickster.json",
+      "sha256": "faca5e40869546c123da24d79d0c3dc2d5dc1758aa5bf301445bfb64f84ccc46"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T21-E2-private-development-packet.json",
+      "sha256": "3427799cc63f86a5650041cfb39905decbbdfa75a102b0e5c1619b572bf7960c"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T21-E2-private-inputs-2026-09-08.json",
+      "sha256": "ac4caf66c3b4b02c830645c39d20e41d60226f75aa5348b75004a2cdfc3ff731"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T21-E5-homology-private-2026-09-08.json",
+      "sha256": "56c90a14fd58158c1b9eca1889a515b216034eec8346f784b9b4ad7e9a6714ab"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T21-E6-private-development-packet.json",
+      "sha256": "c69127b781da46050a0b66d9dc1b4a7c71404dbc661f39e3c645e2629ee97be1"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T21-aphorism-investigation-and-faith.json",
+      "sha256": "86a2fff7b766547e36b68ff671f6a247e4ada59050c8866f29a303db274c1658"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T21-etymology-encounter-region-name-count-packet.json",
+      "sha256": "7d24b0b39171eb5796748987e78cceb0cbfdcf3d8fd089873bfba80e90cec4e5"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T21-etymology-symbol-account-and-trust-packet.json",
+      "sha256": "174f95b3daeb53ee5c214e624e4dfc2f6a9d928e9ad1fa7c0a5fe61e5e6559d5"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T21-etymology-trust-place-logos-nomos-natio-credere-packet.json",
+      "sha256": "516813eebd7a4d5bb0916a021e6062bea443b16687fd8d3c025cddbd33f3753e"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-33-AC-frontmatter-recovery-2026-09-08.json",
+      "sha256": "b1de6af8c60ef6261e7b0f73afe5420b12f577e5d32c2b548d78c1d43db135f4"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-reference89-actionable-compact.json",
+      "sha256": "f16064af207c595ab7cc281f4859203a6e866b836c56e4d85cd59616baa595c9"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-transfer-carrier-readonly-audit-private.json",
+      "sha256": "a63af592cc3a73e4f1258b0335136e1a631ea72d4f3ed6873a42809a0eb3e3df"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-arche-topos-musical-resolution.json",
+      "sha256": "3fd4cdcd6ce3770e90c4cae1532ed4c838286b35a3706dbb725aa06431110496"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-binary-and-binary-of-binary.json",
+      "sha256": "dfeb4882ca37963ebf823d87b2cb6e171b532fb8b7ad96df6c7087fda0f48469"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-calculus-infinity-dx.json",
+      "sha256": "499677dcee55f054a069a3b74ed13d85d3d627dbffc586788f5813150fcfeed2"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-chaos-attractors.json",
+      "sha256": "ff72d25cde826ded0119e3f44047db0c664596fce250c6af66cb4f2b13e665ed"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-complex-orientation.json",
+      "sha256": "e3a7e57fce5d0c5c4bcb4351459334f314ad0beb8cadc3fb6c40ebaaa46f8afb"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-cross-ratio.json",
+      "sha256": "db7b3c062e4dc98a4b3587126237d35d7d41bf5c239811dd54fe1e65570ad1e8"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-crossed-zero-re-entry.json",
+      "sha256": "8ce81d03766999f34c562511a8876c3a5fd47f7c69343f0896380bc80c83d6d8"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-crt-z6.json",
+      "sha256": "18611083f380373387abf20b8e788cbb15e06065ee0ed22be27f3e5cbc2fce86"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-cycle-interval-octave.json",
+      "sha256": "6557e3b74c217935164c0a7c0a538d2abb666f4769417aae6295df25d8658d4f"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-cymatics-standing-waves.json",
+      "sha256": "43ae564690f0e277d2d18888c0ed9428e75b7888f012f7387b14f703a73d4fe5"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-definition-catuskoti-crossing.json",
+      "sha256": "fab18329e91a2eebde86b44b2f26f7c563459844c835fed5f71a331c22ce019d"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-definition-copula.json",
+      "sha256": "1f0bbc97a18f17de2f36bc2bda06b6b1c41f7b090424cf03e7081e72f28e2c74"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-definition-harmonics-and-recount.json",
+      "sha256": "06af4e9e3525afcff117b604a9a2c0b3a449e8e3509a25fdf429bc5b28cf6a17"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-definition-immutable-subject.json",
+      "sha256": "8bc577d697cba073f34e7a654cc24b52b97408dc546303a0f7a5e97c6a47ce40"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-definition-minus-over-minus.json",
+      "sha256": "da5ca072dac9f16a82675c00561e38e866313bbb6df95f6d8028af4c9c75744f"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-definition-six-determinations.json",
+      "sha256": "9c368c6114a420de5e982a68ce610bbfc2f461fd6d370d57d6579dec4ba6d6d5"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-definition-the-matheme.json",
+      "sha256": "3087da148961ba1ac0d74f711805315ceba699e215c790dd5e1d417ffa8adb3a"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-dia-syn-chronic.json",
+      "sha256": "3c89dba982bb49bca46f8f0bbcdb3a46b6a212e7a158326b811dc27bdc1c1193"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-dia-syn-dia.json",
+      "sha256": "7843cc64c000374d48c52e142fce9bfdb7c1bdd05c95f648a0fb29daf75737a2"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-dia-syn-syn.json",
+      "sha256": "f1a50185d766be978df18d1463d873493075006b4b6dde477e84649887208390"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-division-pluralisms.json",
+      "sha256": "b559d97ceb6095b7c78b02df43c2bf6cf6f13711794251b7ddf096e06ac4a1d8"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-ebm-resonance.json",
+      "sha256": "cc1384d78a09cb0d340e3542fb09aca8895b498dbf091ac4244dfd437d3c1759"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-eight-determinations.json",
+      "sha256": "b69a50b2ce2eac4573e12fcf0f3f96a66c6c0834f824f8abfefb538c8e04403a"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-fde-catuskoti.json",
+      "sha256": "53b32877e5513e21c44410f03c82dad240cdf461a964cece21c52f10c58db163"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-godel-incompleteness.json",
+      "sha256": "29af5b69bc4f0e6ace091a6c5e7270bbee96e08ab8aabe9010c1128489a6e863"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-grothendieck-group-loss.json",
+      "sha256": "49471d4da7bee603e40a51ecd669bbe1d429564a1b3c18e341efb7b5ac0ab98b"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-j-space.json",
+      "sha256": "d44540d59c08d568c52becad75b5c7e161c7faa60ffc96ecb82dfc1f39dfe158"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-kauffman-iterants.json",
+      "sha256": "65dd85338bb2a44b0c5fedbe7646d077b54a7c1fcfc22c668906e15cf599c8db"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-laws-of-form-varela.json",
+      "sha256": "f292891a3f318102b670a214f5d8c755a34633cc7193a83223b35940d03d9a25"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-manifold-atlas.json",
+      "sha256": "2523b3334e9ea6628baacc896df971b41e35b249f26fe4411587291e26e1e3fa"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-metonic-antikythera-cycle.json",
+      "sha256": "5a7a00d25c7aa19d31c6cf9e3a9c156233f8ee15299be392b116248ee620228e"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-mobius-klein-surfaces.json",
+      "sha256": "7ac637b45425cf707a0abf4f0a843fffed6a5f6885deb04f062b44eac6580d4a"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-mono-poly-mono.json",
+      "sha256": "2e1470bef2411e6479fa2a07f568b94a35a58ff12a580b3dbb93470cca56830b"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-mono-poly-poly.json",
+      "sha256": "e4ad6aacd538444fdbaccd5e89d00c2991a356ba5097b846cc57009b92bb8fb9"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-mono-poly-translations.json",
+      "sha256": "ebaa9d0c7a8eb0953f4649c4675c2faff55d8d62d8748d224dabcd27883b7416"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-music-chromatic-substrates.json",
+      "sha256": "9db812353687091b1da453ef0b443a29ab58c444100f4ed31784df148c1e11de"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-music-diatonic-cf-grammar.json",
+      "sha256": "79aa5ffc36a3dcc63bad6aa062ad296be0d17b5b8d96f6f694cab6b20d7f7d09"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-music-field.json",
+      "sha256": "42d0a3da2d7b4725c3da068ee61b8c1a25312a38a6f8e379a98dc34b2757620b"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-music-foundational-ratios.json",
+      "sha256": "f74ca3733a016b33129f77a703973b69918af1fbcb468d52fe2eac4254376646"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-music-lens-anchors.json",
+      "sha256": "bfd081bb937814372bc4cee8cc246966e6da42570b1a273907884efd1054829c"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-music-observer-instrument.json",
+      "sha256": "6b0f37b41b1d7506c886e8222a39f6a34de1ddde90f969fe7430e31e653f589d"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-music-pairing-grammar.json",
+      "sha256": "cc3faf67e571631bfc6340c63c5706c6057b6d5f2d620aa549540188e53f71cc"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-noether-symmetry-conservation.json",
+      "sha256": "4069facdfb34cab95ca70d19c9a7c484e706923d120b8a59342d2769f3a25000"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-operational-parity.json",
+      "sha256": "0c737f0fe8e7c87cbe8c888957f4ad8ef99a9343cd174eb12a89e671563b0e32"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-perfect-six.json",
+      "sha256": "296089087d54cb1abac867658e521bf25cc43697c38e5f57c8d35553202c6f47"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-preference-gauge.json",
+      "sha256": "10539604150f633b84b0e0d8dea51f1eed190abc170359e5fafd7056c2221f9d"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-primordial-symbolon.json",
+      "sha256": "4cc006b87047f173afc00040977236078dacf61131898d52e9f359d415b03ea9"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-process-harmonics-symmetries.json",
+      "sha256": "fa8cb43f4a0fcbcb5ad2a0649c0b83c28b80401d1d0cdcb1e7adc219a558d2c4"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-process-phase-flip.json",
+      "sha256": "62d1fc5a655cfe4e5b9b5e8f17ae00ee66e2431b25f8f9a378abed81339bb00c"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-process-ql-positions.json",
+      "sha256": "3dcbac3b0e7e23fef5ac794a5081c3108f147558aa98c579ab4c2e364964fefe"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-process-ratio-threshold.json",
+      "sha256": "1e08db52ab86ba52ddf13cc21791aaa5682379a0f39e94a519443c2bf914cc56"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-process-spanda.json",
+      "sha256": "1b4ea67360488165367206f468eef6d4fb9bfdc55247c5c8d9979ce472e1b188"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-process-t0-onto-logic.json",
+      "sha256": "4ef954ecc975d7d9a9807bcae02364ebc849a5192e2024b7fd21059d5bddce58"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-process-t1-geometry.json",
+      "sha256": "90d5490e02c4000a59a011b843b8e7cf6c7ca3fa1672c6df9a3a28d581e79794"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-projective-completion.json",
+      "sha256": "abd38a7d3b5a9b32f07e5f7f9138ee4fd2f9bd9269fa07d3d40d56f69e7734a6"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-projective-line.json",
+      "sha256": "f04a84cec9512c801c4f5ab389d0ee80395c7dadee24fb310f961fc1b14fe221"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-pythagorean-comma.json",
+      "sha256": "2b298af64a108ccdf46cd53c9251febae2459e9d3aedc0a8f580ada69f05941c"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-quaternion-q8.json",
+      "sha256": "3a234664aefce95792e81d4a604fbc06676e6b0b0a6950b5a20956959d65abbe"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-qubit-bloch-sphere.json",
+      "sha256": "d6c0c3d01a80b74dfbbbf88942924fdbbcc3ab838cf77550e7700dfee1718c95"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-quilt-enantiodromic-return.json",
+      "sha256": "d32fc40e3a41a01965607aeec1c8391814b5e7b05cce7c2d9736f4027d3ca54d"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-quilt-etymology.json",
+      "sha256": "e23d99c1e2a9ff3223f5d87097e2976b41f0e51cf0ac45b9e01d84ee72e26798"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-quilt-metaphysics.json",
+      "sha256": "ac80daf3715d2fdd7c3880f8f598fa45726a714b9384d18ceb779a7b12c4a311"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-quilt-number.json",
+      "sha256": "87bf1539162ebd7addd8b1e34d79391dc160619182db3b7b4c2fbdfe67215a2c"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-quilt-psychology.json",
+      "sha256": "d0138be25d58b1519486ac7226cb3e08a2bf27179504e328360a995f52e3a22b"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-quilt-recognition.json",
+      "sha256": "0c9815564850f247548c0aefe300e9c85de31a80d37a44b19c1dcad5765e4799"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-quilt-topology.json",
+      "sha256": "0d8cf3794580f61cd64fa40c09f9be78b7018e39b0b0854a6840b28d726dcecb"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-riemann-sphere.json",
+      "sha256": "dd34d12004febd379ba6e25d2ca39bc8e6c3c3dde562d9debfd14ec71a75b733"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-russell-types.json",
+      "sha256": "536753693477fb64033c141aa54143ed45d6e06c85be1640c411a40640962484"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-sheffer-stroke.json",
+      "sha256": "f42790f9665b178a120bbc83ca955eedd43995d3701625a2bc5eb8fe5b32a2a9"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-slash-and-or.json",
+      "sha256": "16eea4614a7ff3d7ed761e33ced9881acf798e98cddce14346a904e3acd18d39"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-softmax-argmax.json",
+      "sha256": "0d883a9dcfd0d204dcd4a0e08d940d34debf86b1919e86153e6d100c5243aa61"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-spanda-equations.json",
+      "sha256": "9cd39b2b4fe3668ffc84341fde0a9daf00f3ddb4dd84a6bf189e3f3ba5239038"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-tetraktys-triangle.json",
+      "sha256": "9d32187f72c7b42db251a72d6a0e7f8fa118928951cd8a6c9d1dd59fa9319076"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-toroidal-poloidal-confinement.json",
+      "sha256": "6dabb6f525a2c6049474c6061e1f263ef488a82715de6a008cb25ae21dc4ef45"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-torus-cover-winding.json",
+      "sha256": "7a5bcefd1b347105bdcbc0c2dddada802689fd262e3e965b1773b6b03d2466ed"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-trivial-ring.json",
+      "sha256": "07eaa053b9adc0d4fbaa77f12840494538cffb228382279f0f08d66c94656ab4"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-two-ones.json",
+      "sha256": "80635478b12f4d2753c6829059f96df128fab8e2b74975f8ba5370303b5ad17a"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-von-neumann-ordinals.json",
+      "sha256": "47cf315ca3d7911c506405331fa65c8680c73f57047903b8da0b35395630f206"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-whole-tone-return.json",
+      "sha256": "ef6804ae90cea1005e897c7f8af61f02b3e91bd1c8cf923555d16d232fb56cc8"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/matheme-x-x.json",
+      "sha256": "a507d65fcf93a4ece22cfea664ed8129e32c6d19ec6a40865eea980cfb09f3ad"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/symbolon-0-1.json",
+      "sha256": "df00e9d3c1d8aca06c83755ae21a4f6c4c1b4d5a48ef085056a2f606696249b9"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/symbolon-1-0.json",
+      "sha256": "e12c2089e5c24a70cb1481831006071b70e8fe9e078d9451e21158266da52adf"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/symbolon-am-is.json",
+      "sha256": "b7f5f59f6bcd685a6b3beef9896d7699bcc3cbad434c4b4aea447df5ba85fcef"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/symbolon-complexio-oppositorum.json",
+      "sha256": "209ca2f895c5594f95ea993ac047e50fb29bd8694412289121de2d94c11dc9ad"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/symbolon-eight-determinations.json",
+      "sha256": "5708e39dd90224e94d69946ce595fc3c16dcd6db58da1a9bbe6b30f19fcb7b1c"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/symbolon-infinity-dx.json",
+      "sha256": "353094d64466eb682f40a928a29eb869a5717afe01eafceb0fd2d7b6c8c7bd56"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/symbolon-minus-plus.json",
+      "sha256": "f62b10219e174565e94fc61da48245c1035319444624e6b5f372c12af7e5295b"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/symbolon-mono-poly.json",
+      "sha256": "9d0cfb184204885453b16984088026c01b25893f7c6f0cebccf149eeb6d811b3"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/symbolon-question-assertion.json",
+      "sha256": "5efb848854d366c25aa163b35a825d236c4365407504bc4aa691b55a538094ec"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/symbolon-self-identity.json",
+      "sha256": "aed08c3a148da1cfae2e9653535652f904dff8d58d3dff54782f62c5de3e95c1"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/symbolon-subject-logics.json",
+      "sha256": "5359ec24cad8c308ba992df88d86ac99b78daa76a2c833405448fbc25322ceb3"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/symbolon-the-slash.json",
+      "sha256": "73215a4b289183633d5525033c52faa4bdf46c109ff48940f6983fcb94e1564e"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/symbolon-x-x.json",
+      "sha256": "f92c8d162aa065680050dbd7740718c7f3cf06662eb2ac611d475a811b3ace75"
+    },
+    {
+      "path": "working/p2-enrichment/pilot-queue.json",
+      "sha256": "54830d9f54c13055370650b698c1128cb15341615934a34736adcc1303c8ed72"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/2026-09-07-input-amendment.md",
+      "sha256": "537bc2db6aaff46de3ef744d861db07ec8a91c85b77b06b73818f347d754558c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/NEUMANN-PAIRINGS-RECOVERY-2026-09-08.md",
+      "sha256": "b5bdbb020f871fc3c6530ea237f6c97af0a9da35b601e22ae56c9411e01ab2ec"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/RECOVERY-01a07e8c-74fb-7261-a93d-e493caa2b3c5.md",
+      "sha256": "e6562a42821779ef11cd4aa3b204f3973b5986d133040f4a38e1c9098638163f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/RECOVERY-01a07e8c-78de-76c3-b291-6e8079f20902.md",
+      "sha256": "811a0c6c9b28480b971cb8a69c1b54367f2681c0196543db0bb098c00ca37123"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T17-GATE-2026-09-07.json",
+      "sha256": "56bc3d6a11c9f5b449b5f4ba59d1522a1aaf97e85bdac99abc3154b4292d24ec"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T17-T19-COMPLETION-2026-09-07.md",
+      "sha256": "00d57c4409fbe69a945f7de53b7cef05161dda456933aa59e85a56f63c2562c4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-eight-determinations-review.md",
+      "sha256": "2d0f1b4aeba6dd3273aad76312e017c0dfb86babbcc20298f6c94ebdcf60bfac"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-parent-audit-AM-IS-links.json",
+      "sha256": "4f2b5abec0a6fa1ca11c21b361552f28a98e4f452fab7e7f7e5252e7e179286c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-parent-audit-X-x-links.json",
+      "sha256": "f1a6b86907fd4fa74d414b5f313ddad50df42e27aa76503887e69c120b04ca7f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-parent-audit-infinity-dx-links.json",
+      "sha256": "296ee8f771924ddab344072574020a1f82c8d03071e3127a9f14a40a0be6f2aa"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-parent-audit-minus-plus-links.json",
+      "sha256": "7c63ee9145e763b75441d952b06705a41dbdcc36713d1e991f43c03cf0f9bbf2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-parent-audit-question-assertion-links.json",
+      "sha256": "1d7c36866cef24cc9a788373a8c4bf71951a1eb28deef34bf76ba8b4dd55cc99"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-parent-audit-self-identity-links.json",
+      "sha256": "f9e6139cf565387c0dee194d6ac262972712be7ad44ad7a215e281bfd3e847f7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-parent-development.md",
+      "sha256": "a49d48439605b903b397502a01518f3ca3c98a82aed99e6656fca28d1fa6ea58"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-parent-roots-audit.md",
+      "sha256": "a188d75ea4b6daf35a17df91abd6758eda2c2cc7a269478694c0a33546f00195"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-root-hygiene-2026-09-07.json",
+      "sha256": "15934798fafbafd0016213b3c92d3356619a137d262c4c84e393de07a688edec"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-source-identity-repair.md",
+      "sha256": "8c1ad5996acbfd439e03e5b361892241db66addeadeaf03380b5a41204b86f66"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-symbolon-0-1.md",
+      "sha256": "bed97a846c79f2040652cc2360a395d39af9cc29dddcc1e1bdd11161e3456358"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-symbolon-1-0-links.json",
+      "sha256": "e6b01aee971e18dcf4b8071574f4a1a1ad4a7b7161b2955002d9ff861708a36a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-symbolon-1-0.md",
+      "sha256": "41452c22a7e0005c4834191992b8d5db11db3f08ca987d808454a447d5a451a7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-symbolon-complexio-oppositorum.md",
+      "sha256": "283c024b91e9d937d6923f6c1a97b08ff4228dc76e5d6ac683e05399d58ed845"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-symbolon-mono-poly.md",
+      "sha256": "8d113d9e89f15c6ce1e1b48bc337470d1d8efca66632ab7ebacefef781d5991b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-symbolon-subject-logics-links.json",
+      "sha256": "50e09f991d6653915a8c749849834a91d0f3b80521b1606e9e916d88ef19abad"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-symbolon-subject-logics.md",
+      "sha256": "4a26d324f08dd5769d16d61f830c578ed70d64c29fed467bdc1d71fa550dd52c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T18-symbolon-the-slash.md",
+      "sha256": "31f7aed0a2e29860ff0ba233c31b0e4c9cc1df2c016563e259a7e683081d458b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-census-pages-preservation-check.json",
+      "sha256": "0bb5bf71385aeba5ba3777599b3293e8ab9017af8eacd12e53d7f11a373a2d2b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-final-manifest-binding.json",
+      "sha256": "74cd1ce47a869091bbc2d5da95b5769f4ea09b0623ac5d9e3640f7fd8f1a4407"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-final-manifest-workflow-tests.log",
+      "sha256": "b5487d8330405bf291ccdd91701d0f718425ea49f32569b0a2520a64491c30f7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-hygiene-summary-2026-09-07.json",
+      "sha256": "e2bbd7bb34cb3690d77a7bcfd1dcad7ee2aca50d0ee66d34c79e678f670e646f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-arche-topos-musical-resolution-check.py",
+      "sha256": "ca8702626d7be6d9ed8ab88b0fab9679e17a6a6c33e9aabaee4f7d684abce217"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-arche-topos-musical-resolution-checks.json",
+      "sha256": "1ea4b356e6ccdec8eb4c328268e78d557b79f802cad73bbc15a6171f9346373a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-arche-topos-musical-resolution.md",
+      "sha256": "527f4fc1464b619680ce89991ba2af90fff453c97b03f1d388f2501856bf69d4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-division-pluralisms.md",
+      "sha256": "8bb879674e131f72bc560442da8129739dd632013feeb526076a2878ff107892"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-fde-catuskoti.md",
+      "sha256": "ee2d2f6132ba0a000511d2a462391012de1cb94ee57842b418653d1bc549168e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-godel-incompleteness.md",
+      "sha256": "80b0bfe772c7708c5014c3d6f332c901cebc57b125ebcd720be3593bea96c0a5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-hygiene-2026-09-07.json",
+      "sha256": "6ccfcb1cca72560cc061c2de21d1cb979dea6bb882c502f5f79b70503a6581fc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-kauffman-iterants.md",
+      "sha256": "8c96a3d6c39d897977dc43cd08196a6b44b1eab2e537bdd08c5609c65e99f582"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-laws-of-form-varela.md",
+      "sha256": "57e1e12434c53d499c0901b2dadefb61a13971b8de3641ed33ba0719a753c13a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-manifold-atlas.md",
+      "sha256": "cbbf3de3228134c75f0f039844f2bc82e58019421ad307d8a284f2b9ac2af9d1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-chromatic-substrates-arithmetic.json",
+      "sha256": "d06a3bca4e26e34d0cf00db69d386a30b7160a29656ff3200567cd0b25272327"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-chromatic-substrates-links.json",
+      "sha256": "0aa55ff951e7e4b24c48403fb6e4a75deb93cd99139be398bbd347a6d03a8f88"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-chromatic-substrates.md",
+      "sha256": "a4b34bf5c8f996740a37c26f415464574ed0f8944427259dc710c704945fab4c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-diatonic-cf-grammar-arithmetic.json",
+      "sha256": "d02567aa7b47e3960741e71932fa9e27862a3e276839dd7ca33411beba7ed802"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-diatonic-cf-grammar-check.py",
+      "sha256": "4c0bcd43d166c45d422f0940d8665fa8b88197ac389ae2f4be1f81923ff7c737"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-diatonic-cf-grammar-links.json",
+      "sha256": "7225d6c78e4f8235792830433f6a56295075d751628f6f881a728c28912d9ab8"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-diatonic-cf-grammar.md",
+      "sha256": "2caafa95160673abbba53b11bdcd8863f847b1cd98cf481fbe28618fb3dfc879"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-field-arithmetic.json",
+      "sha256": "dbcfe3519c345e69683e2257d735a8ec1ebf5f628bb93b6757b5c62b53259c93"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-field-check.py",
+      "sha256": "2405e929fcc4c0391bcefbc550efc9ccc97b9d2c2f7f99b07da951570e19383c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-field-links.json",
+      "sha256": "5e2a4d594d955c37f6aa579d7be135a90cd27719d5f2575a3553048393e519c7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-field.md",
+      "sha256": "4ae8d9c764648d4921551b2c93a6d87cb153bb93638c1c1d324747198e0957c4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-foundational-ratios-arithmetic.json",
+      "sha256": "51691f09d10fe73f97230f26aad1484bfb5142904a847c74af7f590ea0e4b217"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-foundational-ratios-links.json",
+      "sha256": "970482e00418ace8b32f17e64c1f998983a660113554690b4284a9f122487de4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-foundational-ratios.md",
+      "sha256": "aa021f7d303b606c5679523c322e0440ed7dd7ad5c8d847b579252aedb441fed"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-lens-anchors-arithmetic.json",
+      "sha256": "de54a09c15f8d9d47bf12b3db466a91ed78a69e7a480c5d5455eb6896a944fd0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-lens-anchors-check.py",
+      "sha256": "0afc5bc5eed993afcf2a19b03472a09ddd36eac2f2a5d87501f289979e7f4ebd"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-lens-anchors-links.json",
+      "sha256": "f6834f2ba38ea86e9a57ec9ca5d126caf234265a31f044bdfeb7a49fa80f62fc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-lens-anchors.md",
+      "sha256": "270150e207c6bd6be90fc55c591a519910fcb3c08f153229ba428473ff448f5f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-observer-instrument-arithmetic.json",
+      "sha256": "27177b130548094e7978ffd4965ab5758d68e120bf33f76d94705a67ca8fed47"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-observer-instrument-check.py",
+      "sha256": "4f92fc32fa7982d3e08fea404b5723ecd1a3a6f4cb9a7cbfed77f19f70089f5e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-observer-instrument-links.json",
+      "sha256": "7a79c52b9f536f9c28f36d7830b5b9764cf86eb384a0f79a637dd66f81d8e23c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-observer-instrument.md",
+      "sha256": "775748e1252e9d303da654aeebd72c7c8ed9e9252c008673492f403ed391731c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-pairing-grammar-arithmetic.json",
+      "sha256": "c14ab33620449be9a57aacb7cc1767222257aa27c9a98f016b9dc2d1393566f9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-pairing-grammar-check.py",
+      "sha256": "ffa35a7d8841c6034fb5778d9aa0b61d7257a439445153376d2a2bd1cbf749c1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-pairing-grammar-links.json",
+      "sha256": "a71f6965cdecda730675f54fd933b588128ad400f37c097ba5f513da2edb25cb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-music-pairing-grammar.md",
+      "sha256": "3d6a4f149f235c6c4912e33f663188e54a76f061dff861222f112351eef97dde"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-noether-symmetry-conservation.md",
+      "sha256": "62a4bd02b57335bd638cc32ac074e8ea39ec089ff6d1394afed549b4c4978b5e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-process-harmonics-symmetries.md",
+      "sha256": "6ed5e1f0e706d71c4bd64bb4b9fcfc65b6802bd022b29e15f919206a0ed2a7a0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-process-phase-flip.md",
+      "sha256": "2766696af1fca7493856c22e29c5c137b32c64854f2445a598847471d7071fdd"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-process-ql-positions.md",
+      "sha256": "25d4c12e37785a9ef87f14053acd240e4a308a2981aec481a1d8c322a1dfa327"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-process-ratio-threshold.md",
+      "sha256": "dda3109c106b209f369e341efd4b5a8365fe001ec5c823298e25708774421890"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-process-spanda.md",
+      "sha256": "811be18939502dae12ad7abc234b73e9c38545d54a02cd79e151dd9ce222e17d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-process-t0-onto-logic.md",
+      "sha256": "c64162bed903f4e46f7c7333d24b3ffbc6e0c6ed106fd459ef728869c8de8742"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-process-t1-geometry.md",
+      "sha256": "5ba61b5a8b5dedd3ee96999ba820b4bf81b63dc2ae1b3af791971dffb33c7820"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-russell-types.md",
+      "sha256": "396c0f9c5705343f288312004f4ff19f4e422cee2d0c6921379b1082ac4a864f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-sheffer-stroke.md",
+      "sha256": "c40347e030acec0c003f33a0c9f38c9a58c9232477e53acaf67804be782ec19e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-spanda-equations.md",
+      "sha256": "308b6a9bedda08d8dc3e87cc90df963b2fc1fc1d288dc298bd9a19efeec86e04"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-toroidal-poloidal-confinement.md",
+      "sha256": "7fe34c2a6780d7bbda1b3ff8f9b87d2ec9273e2eaa925b9c8e9e19f3f7e18a24"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-torus-cover-winding.md",
+      "sha256": "67727c8841df33c571e645a834c32fea9d41934e8bfcf705b19da4f94560dd1f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-matheme-von-neumann-ordinals.md",
+      "sha256": "22c4e459f9f87f09983c73aaa2d1b681879990c5e00c59f8dcb00fc7d72111a3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-navigation-alias-repairs.json",
+      "sha256": "058de4630aafc3805ac5631ab013363528898a720a52633f84d60bff4a01c736"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-navigation-links-2026-09-07.json",
+      "sha256": "6af6606a63c72de83af061206033bad9dea22ff49880ac93cd3148b3c531d29d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-noether-check.py",
+      "sha256": "46a6081a3de355ccf11c5eab3cf606f67fb116af0d3790a560c485031ea2d96f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-one-home-2026-09-07.json",
+      "sha256": "5edb88da039cd9bdcc88878832e6fbf79ead0831342cb5f57889b2f6d2f36fcc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-parent-development.md",
+      "sha256": "725123f3e6d10cd3580e655b3f68e6db864b86f60ec43699d76ba4632fcf18bc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-parent-mathematics-audit.md",
+      "sha256": "38b9da63ad61968410391adefe7ac813129b13c2e6bac63b1f602a620542bb56"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-parent-mathematics-check.py",
+      "sha256": "e31da88b47bec8b35f44973bcd9e27d2b3a887b34760d2d76dd65e452b73d915"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-parent-native-computation-audit-checks.json",
+      "sha256": "04d4dc7bb17bc35622b91ac8f922509091603c6f08d142c5a07b25e1c7e2bf90"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-parent-native-computation-audit-edits.json",
+      "sha256": "dd17bf6695aa79bdd9a91ab5e775ec2e4c513423c8e04a2f8141b61475ace86b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-parent-native-computation-audit.md",
+      "sha256": "a19857c0b1b986f3e21f1f6ae85496e36a151ecf45d15b88f1a7534e9d7266c8"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-root-matheme-hygiene-2026-09-07.json",
+      "sha256": "16bd98dd8444ac53940f469416293954c6f4585b30f8e8d2d021ba99367394bb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T19-source-routing-metadata-repair.json",
+      "sha256": "4c533e7d458e06a88a0d0af7938284f84ffad756a1f0b7e9eefec30ed2e6c892"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-Aion-migration-backcheck-2026-09-08.md",
+      "sha256": "cf3d6d628e85e273df137dc0c0b3cebc80ed42af0ccaa2912e7a799cb6d36aa9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-Aion-whole-development-2026-09-08.md",
+      "sha256": "a110d62a35f87bf003e04b1f459ccd15f8e0eb9b4937b00438107631c594d72b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-T21-architecture-lock-validation-2026-09-08.json",
+      "sha256": "b8815037ffd1a50f4143c07eada3672bfedd4320b22b539889bbb636b2972971"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-T21-canonical-input-baseline.json",
+      "sha256": "3482509f95d823305a6a0676d7a3700feead05a22578e396abf750c08a9cf838"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-T21-doctor-before.json",
+      "sha256": "6dbb013cd92d0f11d7bd1979bbcefc47cccdddd524719bf719080c966b684a1d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-T21-input-freshness-2026-09-08.json",
+      "sha256": "34a3d1e38b650d0f34c7cbce6db10dac3277a0e2f830caa5216722fd6e716e00"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-T21-live-issue-21.json",
+      "sha256": "1e423f67656f046830bc2730350cfcd042b4490e4ecfaa54e8aa852c5dbeb044"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-T21-live-issue-22.json",
+      "sha256": "e9a863767f8c7427607207dbbb84c71e68be24d81118dcc961027eee21dc7b60"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-T21-live-issue-23.json",
+      "sha256": "863f3c254272a104c0bc86f298e71a333b6da6f0547fccde11bc25c2cc2c66ef"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-T21-live-issue-39.json",
+      "sha256": "377ee0501185dd9fe340fc9c3d82179d200f6e6426a4ee84521cb60d896c8a5f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-T21-preservation-before.json",
+      "sha256": "577a60449ff57855915be78d41a5255f4bc87a909c53a2ae4e9fd4f266a6ac23"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-acceptance-2026-09-08.md",
+      "sha256": "ebeedc1a54b83a75930b41065b8c98a428495f5717982956a91075adbe700963"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-architecture-doctor-2026-09-08.json",
+      "sha256": "6dbb013cd92d0f11d7bd1979bbcefc47cccdddd524719bf719080c966b684a1d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-exemplar-migration-hygiene.json",
+      "sha256": "e1150b58eecbc5acb149729cfb156cd310875b3564c286e5bd171c11c5325c7d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-ground-hygiene-recheck.json",
+      "sha256": "0f29fa644ebe8cb52da414c9af2e6224737741d5e58843e3a277548c8f902dee"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-ground-hygiene.json",
+      "sha256": "a4717195aa574a34c463cc500f3960b6c08eb1c48b24bd57402eea544835b79d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-ground-one-home.json",
+      "sha256": "5ad1940e681db389dbf92ba412286535c7e81d167e1e228c5c849a6b5a697c56"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-hypostasis-archons-norea-sophia-development-2026-09-08.md",
+      "sha256": "a4cf8d8965b36475dc2d12cf6aeccf636ab322ef9a9650fd191fcdba129bea5e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-job-biblical-source-acquisition.md",
+      "sha256": "bb10469e7c36b43cbd68b9ee28f3d3777398ed527f3f237ac18aeadc339d8654"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-links-episteme-README.json",
+      "sha256": "c0897155058ba3f84dbea35ee8b79155cf510626f771f55cb20fe3cdc1bbe32c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-links-maps-t20-t21-world-registers.json",
+      "sha256": "f80a57c8a83cbf7a960a723317ce05c4905f2d7322f2dba85b2b7c95ab8b0cfa"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-links-mytheme-README.json",
+      "sha256": "2f57662a636efb6468c1dc8f49662475c734cae6e0bbea9b01c621495f6ffe9a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-links-receipts-NEUMANN-PAIRINGS-RECOVERY-2026-09-08.json",
+      "sha256": "413d5cb609528f56d735e718bebca892c03017ce6a7df10a02e866ebb5148719"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-migration-mytheme-myth-attica-athena-poseidon-cecrops-effects-before.json",
+      "sha256": "ce685b01fba450aaba6c9ac407890139491916652237fb13d8f5c534bc2bbae4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-migration-mytheme-myth-hypostasis-archons-norea-sophia-effects-before.json",
+      "sha256": "a45abc0710d452deb07d336dfb7aed87c4074475588d57252e95ef39a9fea4ff"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-migration-mytheme-narrative-fanon-language-gaze-mask-recognition-effects-before.json",
+      "sha256": "13be1e2efffe12aac75dddd6e9606dd8c9319453f7cb491dfeb888cf9a8c54d8"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-migration-mytheme-narrative-jung-aion-fishes-christ-antichrist-alchemy-effects-before.json",
+      "sha256": "7104a728a67e88b37f7919c34eab558159836c6c5df33c0c2fa9425b7756e89a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-antikythera-attunement-development.md",
+      "sha256": "bd23272b6b4f92d1ddaeb1ca4753d7433dcb544eb7281deee135102b9757a561"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-apollo-dionysus-daphne-development.md",
+      "sha256": "a5ef476c1769b6b6fe48149ba555fe7b4f03b9579e9590f86e6b347caf976a45"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-apollo-eros-daphne-peneus-development.md",
+      "sha256": "2014d3bc56f2a41694997aafc145a142cb3b93846d7f55894db840990b99e0ed"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-avatar-image-mask-idol-development.md",
+      "sha256": "57139cdaa72c0897b6d854c590942b5dbd2b03a125f2079ab95f464b0fbccdb6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-eros-psyche-development.md",
+      "sha256": "2639525228ca61a03148e6754290a133292f46752a8416f2f3e6c0f5039a42b3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-goethe-permanence-change-development.md",
+      "sha256": "3447cb262cc838c1c9e2f650aee5ba20beae4ca51bba65bdd638538d9171f72e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-indra-net-development.md",
+      "sha256": "9a0530da1905b5e466e267d58145024b0edf3329f8eb7f0e8261904bdb0b78a4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-job-development.md",
+      "sha256": "9d1c86c657dd5fe2cc4dd80abcb4e6e6dd858b33705fa46c018c8894b88261aa"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-maya-eye-veil-frame-horizon-development.md",
+      "sha256": "73a190ae6df6df04dee7548d423d7172148dd9cf9a9643ecafa4510c4a5917d4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-meal-epistemic-metabolism-development.md",
+      "sha256": "fe65ed762fdd9eea1594d702066c9652197b6b9c6b08e33329f52695d6e79ea1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-mirror-that-moves-first-development.md",
+      "sha256": "16289c8157cdc68429e511a8347504f485bb381a554dd86dec07004025d82ea4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-mother-assumption-chiasm-development.md",
+      "sha256": "f80c9c1856a36136d1831f25413d7a1d69b792bc108e5d9cf576459d88807de3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-narrative-fanon-language-gaze-mask-recognition-development.md",
+      "sha256": "0688e9d89938a2518e097ae0603892df10456df4aa2c2d921ec0e29d383dae40"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-navigation-after-exemplar-migration.json",
+      "sha256": "b7ce01395352ecc6c408450b1586b119e544bc7f7224234f030c6ea84830de30"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-neumann-images-development.md",
+      "sha256": "ba7d234e411cd23a3deb5b50de4c79cb80ac2ca66935b21054e9f5f4c9914112"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-stained-glass-refraction-development.md",
+      "sha256": "c1d92be71a105c55c2aa1519c4c311d4f693a1b543c0b17638cd96523cb3b386"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-taylor-authored-images-development.md",
+      "sha256": "91e6b0aa4ad8dfc8a65574449add5d9c1c164ce693100999b9e7418a1bebdd21"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-the-prisoner-development.md",
+      "sha256": "248d02b87e4f1e955436823eed12d624036dc30c4991ac3ec63f469adbdbf391"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-travelling-jigsaw-atlas-development.md",
+      "sha256": "a0bee19af41d0403b359bd7cdc6834981e1400093e4540f3322eb3ab0a651039"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-uroboros-trickster-development.md",
+      "sha256": "81bdb3290033239092c81fc2e8be1f31c7bd8563742c19a447f282b3564dd715"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-mytheme-valentinian-sophia-horos-achamoth-development.md",
+      "sha256": "13c8af61e19e4159d363bbb1a66a608918fb7de5ef591f44147b582f1707706c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-neumann-current-effects-before.json",
+      "sha256": "fdda6f3d5b9f6fa72be712ded4e20ed9546db869d971a9f3b9fd7685bb571e69"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-neumann-effects-before.json",
+      "sha256": "fdda6f3d5b9f6fa72be712ded4e20ed9546db869d971a9f3b9fd7685bb571e69"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-valentinian-source-acquisition.md",
+      "sha256": "eafec181a0e719043b6face1c5bf29564e0175866be46f76a31dc3d9d0392f70"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-world-batch-01-hygiene-recheck.json",
+      "sha256": "e02ca6a2dede0572297650e8c3bc0139f2dfed29f342fa3af8ededb0f04ac919"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-world-batch-01-hygiene.json",
+      "sha256": "a66ba656f5e087ec2e383ccb8a683b7d771a5c9e33497b0cd24ec96de20cde26"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "sha256": "3e64c000294d3a13a15e0617f35dcbe5c0f5424b13758b2ae72e9b56e405e832"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-A-field-backcheck.json",
+      "sha256": "850a28d061680c499d4fb530480699cca2cca1d4000e149fb3dc2b4309464515"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-A-field-backcheck.md",
+      "sha256": "43d739e31ce680bd4413992b0c88eff4758bb78a94bdb3b2d687b2aeaa46e02f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-Aion-source-foldback.json",
+      "sha256": "15126cc5b747afafde482221f4645e2e6dbfdae0cf45385b598848fff2f708c2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-Aristotle-source-admissions.json",
+      "sha256": "54b2b45528daf01a356e567caf9030e46830f9e1cce1fa0d16041d1064c122d9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-Bohm-source-effects-before.json",
+      "sha256": "ba41534c82776386c63c6640f23d13402cf366362ae1032803158cf0cdd5669e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-C-conjugate-backcheck.json",
+      "sha256": "71ae784b04e95506af4373b397a32d1f53a879cd18ed05383b825b0e9c8ed69e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-C-conjugate-backcheck.md",
+      "sha256": "152b5a17fd4d4e8c746fb65dc56955d3be8dcdef3fb9015aa781d0e9bd16451b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-E1-Chinese-source-foldback.json",
+      "sha256": "fd805496dbe7cb20118ccd16210a7d361df033834c9b94e58c55fee97e5c49bf"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-E1-E2-E3-remaining-reverses.json",
+      "sha256": "ebe43fd58d636ebce34fa8e9a7aa83398dea8003b8780958bb51bdeeef7308a6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-E1-dictionary-source-foldback.json",
+      "sha256": "7b6f657a469483b6dcf58cc6f8dae8eadc074ecf0e32f8e80ffa1cd45c1bbb7a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-E2-arbitration-hybris-regard-anamnesis-development.md",
+      "sha256": "50e9e15a4e26f92551583c6bfdcad5e7b7d202b56f633b41c744b67b8a925b47"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-E5-homology-and-analogy-development-2026-09-08.md",
+      "sha256": "2f0d02e885c29d3f31da9f7ec741508e32db92a7fa3010cc20eece47a73d27bc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-E6-apportionment-and-economy-development-2026-09-08.md",
+      "sha256": "7343a15b9775faab3fc3f7e59976964a20e4d8f08fa48445335d3495ab52b238"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-HOME-RECONCILIATION-2026-09-08.json",
+      "sha256": "38654bf0b0e9d13ae5d3b38e6cd98ad51f6205f11daf64ee00b13c714d846936"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-HOME-RECONCILIATION-2026-09-08.md",
+      "sha256": "dc33307abf2f7b718ac23fa299b1efd02bc5be13612ee49fc917f80bf41c9eaa"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-Hypostasis-source-foldback.json",
+      "sha256": "4c6e10abbba4cfdafc610be8a7e157c411b537e56cdeafd074c62b2980795187"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-Owen-Ephesians-source-admissions.json",
+      "sha256": "23badbc40385bbe8b5ef212c376df2bcd76212c6d79f32a0d4aa12b8fa7c6c6b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-aphorism-A03-effects-before.json",
+      "sha256": "10dd8a3236592acafc5b4eae8eed4122d9933057cdbb0496b6bfdd9a46bcc087"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-aphorism-A23-effects-before.json",
+      "sha256": "fe2e0370800c4ca7f1caa62a024f8f452c1eb30ac4b4b760b5358d5e80938fbd"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-aphorism-symbol-account-effects-before.json",
+      "sha256": "78241d2699fcef2e7164e8caecb616c2b52601285fdebcd09f5a97f91dd2d49f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-baudrillard-1976-symbolic-exchange-death-effects-before.json",
+      "sha256": "30f725991a166cc2ad5269f37462fbc2e40361bd22e30cb35f00f929f06cece8"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-baudrillard-1977-forget-foucault-effects-before.json",
+      "sha256": "9be584fe11d72e0e4993f798f01ea1342cda4efbba15765eca0aa21011cf4a09"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-baudrillard-1981-simulacra-and-simulation-effects-before.json",
+      "sha256": "867d6044dddede8865f1b469445c68cc80a7dcbd77637781eb8fe6674925d9da"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-baudrillard-1983-fatal-strategies-effects-before.json",
+      "sha256": "ccbbf8d3d3d9c88b8cf8e8b41c9d9ff43836deb8791f7a2de11caa4c346f8f88"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-baudrillard-1990-transparency-evil-effects-before.json",
+      "sha256": "579ff2a6cc68eb5fc3c9c020b43846196808840f605e5287c1868b97e073603b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-baudrillard-prior-four-commit-scope.json",
+      "sha256": "364fc9ca0d07af865edfaa4d5592fdedd96c6082a8cc160c7221af829f90f004"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-etymology-encounter-region-name-count-development.md",
+      "sha256": "d0044941615c9d3b3faa7f8d91607ed6460c6baa8088d9cca47530908b34a492"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-etymology-symbol-account-and-trust-development.md",
+      "sha256": "b18d51b375e544dc341b6e35cf61132ea55d0b3218790a0fc5f8a70af13d1180"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-etymology-trust-place-logos-nomos-natio-credere-development.md",
+      "sha256": "ebdf52229a6da6f81422d7f4c402d311abf715fcd1ab22f28970961dcc76dafe"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-nothaft-correction-effects-before.json",
+      "sha256": "ea86e639820e3409b86797df5d46ea1e544e95cad9aefbf33308bc97fe5661a9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-bohm-1980-wholeness-implicate-order-effects-before.json",
+      "sha256": "1ef2d467c8fa117a0ca0ff425aff8f9e4a53fffedc9eadfef3844dd8b41f765d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-bohm-1996-on-dialogue-effects-before.json",
+      "sha256": "fca7e37d0208bbe5fe6f29d6b6890e708e251c9a16b1f77594d08a30d4b4892d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-cusa-on-learned-ignorance-effects-before.json",
+      "sha256": "fdf61e759bd38995cec0fe42ba327f406ba1c18df8c80d9f572bad078e03200a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-daza-et-al-2016-basin-entropy-effects-before.json",
+      "sha256": "dfca37ce459352cd484b441fd6598a96b4c140ce44489bcde8640f93a748f0fa"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-flasch-2015-meister-eckhart-effects-before.json",
+      "sha256": "5080d1faec4f07a6feceece87bba54ea30e06c369bb5b5d3b75b7d87c4a02de8"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-frank-gleiser-thompson-2024-blind-spot-effects-before.json",
+      "sha256": "7aaacf54fed719354fae3444f6d111f46dafcbc210fdea9213cbf036baa742cc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-freeth-et-al-2006-antikythera-effects-before.json",
+      "sha256": "ea911798bf3fcf9143a255a1c6931214890d6e0d1c6a518a56de9f89bce15dbe"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-iter-what-is-tokamak-effects-before.json",
+      "sha256": "4cb19bd7b9c77ff470b893011a878591eb7092389bddedeafea3993dddadc083"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-lecun-et-al-2006-energy-based-learning-effects-before.json",
+      "sha256": "18c777f459a2dc25ad083f329b71a2d286bc58ceaf00aa47a5db5a3bb96e86cd"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-maturana-varela-1980-autopoiesis-cognition-effects-before.json",
+      "sha256": "52a65e9e851eb4a0e506468f43620915612b25f502b5e602c18b0380ae9ae347"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-spencer-brown-1969-laws-form-effects-before.json",
+      "sha256": "3eeb9373730c077a38a423e99056560847fb87e519f2bde0a29ce5cec8510513"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-spinoza-1674-letter-50-jelles-effects-before.json",
+      "sha256": "31441aeb69539b84a662969b4b991b6b95932b598cb7c9aadde402eaf4beeaf8"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-tye-2024-qualia-sep-effects-before.json",
+      "sha256": "aa305deec08523853bd60e3426de4d60e64f6fb192bab796d95e4bc1ad2db776"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-van-eenwyk-1997-archetypes-strange-attractors-effects-before.json",
+      "sha256": "122e54888badb365d688b818b42926349911ce45faea2ca94789bac4ea73d7e3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-varela-1975-calculus-self-reference-effects-before.json",
+      "sha256": "0784563689a29fe58ae1cee8b0b12653111bf2603e3b05f03b166a8803e41cd6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-whitehead-1978-process-reality-effects-before.json",
+      "sha256": "0072ae52739c4b265982edbb6d96d95e8db285eb1f59b3934be3f394211ad49c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-process-wilson-et-al-2020-embodied-cognition-sep-effects-before.json",
+      "sha256": "7d298dcee6985c5c170eaf9ea2d8b3c307b3971ddd2d35e8f332768c0f005bbe"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-reference-note-survival.json",
+      "sha256": "9cf123c3bd177cf44d062d446ca47d95d46db160f8d30fd797832455ff95168e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-reference-note-survival.md",
+      "sha256": "fba6f9536b07e05994a267b9314ca974aad0573d6208874da89e04963ad4ca91"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-resume-live-39.json",
+      "sha256": "16ecc07f80d9da63a5f9409f7dbed190835cc3ce6485fc6ef0a2cbbe1b605fde"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-33-AC-frontmatter-recovery-2026-09-08.md",
+      "sha256": "77ae57be4f1dab9da301f1fb1de23fad3563f5e61ceded5993050e9d007f7275"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Aion-Maya-debt-hygiene.json",
+      "sha256": "8fd1dda5360758153f1d443d699713f54c7bf467523c5705ccb70a1b1b0363c1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Aion-Maya-source-debt-updates.json",
+      "sha256": "029ee647c3de02f8dd323fbc131c385889f4b3aefd9b096c04202f26c0bb190a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Aion-source-effects-before.json",
+      "sha256": "9c16ff2094761b4f9a91a36d5e20ca1d220273c67b2bfffd29e074271d7b36eb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Aion-source-hygiene.json",
+      "sha256": "c5d9885e6e7a3470d237390e9a29dcea4a32c9d38ae5492496ca9c96e928365d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Bohm-E4-change.json",
+      "sha256": "8a273cb4ea8b990602a98547d7612de5e24c4c642156be833c1501f756940779"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Bohm-E4-effects-before.json",
+      "sha256": "9add6e1f2d46126445680234156b8b47c989e6600f065e057f7013cdce69f578"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Bohm-with-E4-hygiene.json",
+      "sha256": "bc41a07bd35c54b96aa4a6daa94c2e4becdce65a0c5eaccde5f2b820a4fd1e3c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Bohm-with-E4-intake.json",
+      "sha256": "5cb840cb0463cc5483ab3d8e009846541f95bf340f7be6109c696e915970b6b3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-C59-A25-status-effects-before.json",
+      "sha256": "0a8cca9f40d067b916ed0813ed2e8838fef34f8b7bfb782ef59b0f42a97836a7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-C59-A25-status-hygiene.json",
+      "sha256": "377d5067acf2e5936eef461c15c268207d0f238600aa7c97c99d593cbc8efb95"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-CW11-selected-paragraphs-effects-before.json",
+      "sha256": "7d2077aa8b0aab9189cc427b40deae850eb38feb5d2522357185a4dd2eda4525"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-CW11-selected-paragraphs.json",
+      "sha256": "78fcae72c94ffbb8357d60ad22aecf61f0e080290c044fd1d57016d74fa9d53d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E1-Chinese-effects-before.json",
+      "sha256": "abfc4228dbc1dc46b5fabccc4d1bf2d1e4f954e75c2be3a45b9fe21e926a3479"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E1-parent-effects-before.json",
+      "sha256": "566b1aeb8ff0edbaacca835a1a8924608a7da63a4701b700be003f5438dcd664"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E1-parent-hygiene.json",
+      "sha256": "73779cfab5499a6b7477a5788ddc4a78cfba6da4ea899a52c77e1b6c917fdf74"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E1-source-foldback-hygiene.json",
+      "sha256": "ab048c8a69b434a20f7b32b6b92c13473b4096d46a617553f56b1c440b330a75"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E1-world03-returns.json",
+      "sha256": "7258b2f00a4938a2cd4d31505db17557614be3dab4e1f852bc5575b19adfb7e3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E123-parent-bilateral-proof.json",
+      "sha256": "6125ef83867c260d3657734f888115902a8a8fc24f9a2c098571f2f928b3217e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E123-parent-forwards-changes.json",
+      "sha256": "8651d62949b594e304e5e0f6c5c046099be3399be6aedb59324846e24d2b6f3f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E123-parent-forwards-effects-before.json",
+      "sha256": "ce77045b754be4ab4ea35fd7be8b7c0c9d6c02315e89e05d11737a45f10f6e2e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E123-parent-forwards-hygiene.json",
+      "sha256": "073677c38aecbdc5e8db78979ad97764863bca22bd8060fcb812a4c9e268485e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E2-E3-free-before.json",
+      "sha256": "16123573d2809995ea85c83fa3bfbf0eb430169d537ad1dfad23834bb710064c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E2-E3-free-changes.json",
+      "sha256": "8ac5ea1fbe75c09e5140b1f6a65d0316c7f8e1c37053ac7bcdfd48ac34bd3823"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E2-E3-free-effects-before.json",
+      "sha256": "b1c4daf91cd039ed57646bd0324e3c5dd2fde4fd106e04f938fb24276e167476"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E2-E3-free-hygiene.json",
+      "sha256": "2181c29f660dcbd35ff617fadcb1631aa467b33678bcf772fcb8deda9e47170d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E2-E3-free-return-proof.json",
+      "sha256": "202ddf4fc1976f4bb0eff4ea00df294a9dc88f0b4dbb54579fb4847f758009d7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E2-E3-lexical-foldback.json",
+      "sha256": "2e430abbd56b4391673c1513a593caa2bcbdac7b2598df5d0bde0b88f34807aa"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E2-E3-resume-consumer-audit.json",
+      "sha256": "7059b4e97369c389899e6dc0f8c4136473dcd649cb1614c5dd2582a822265394"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E2-resume-effects-before.json",
+      "sha256": "1e373c14d1b327854289bf44cf7c647b52e44cc4aaa4ba042982ced679693c81"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E2-resume-hygiene.json",
+      "sha256": "63fedaf35f1e756449eb3c46fcb3d9c42c761a866491abf53e2907a2fb916cb1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E2-resume-landing.json",
+      "sha256": "4409a993f1af9319054016a43ed2d0e999eadd7ad92113675dba37ae168296c5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E3-E4-resume-effects-before.json",
+      "sha256": "56112efbca6cf1ad5e0c4d6fe5d8e313fcb5a3e795e2fa6bb81469428074b6ef"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-aphorism-return.json",
+      "sha256": "5dc53440aff8e19ddf9e85b9c8243e2c584df26c2c038d0b0e198c48ed63ab2c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-batch-2026-09-08.md",
+      "sha256": "98e565446df0b4b4dc0914148819e6303d7de34b769fb6e28b9ba9deae232181"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-consumer-changes.json",
+      "sha256": "b288bd74a3ac7e5bacfbe1024f02e7fb98e67a72ebdd5f0eacbaa3dffa74ede6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-effects-before.json",
+      "sha256": "501bafb298588b10aa7890479bb9132139ffd6ff6942f09e66c3aa818aea3d88"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-hygiene.json",
+      "sha256": "09e67072ba5a29c5b3f59142dd832ebff0a0c79e00362e6a10ab7e8753ad418a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-return-proof.json",
+      "sha256": "b280c790454415036baaff7b45a14813488af2745eadcfe401ab2307911cf3e4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-E6-source-debt-foldback.json",
+      "sha256": "fa707313d20094e8747143da0b57a03ff74bf486750c98d9f456db682987502e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-E6-source-hygiene.json",
+      "sha256": "4cb5896511f1ac4e3b4625366f6fed6e02252875379b1445ae4b1b37c2e27e48"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-parent-forward-changes.json",
+      "sha256": "79e7edbdba43daffff428cf7791fe79c6a6c96b0e06d0ccaf8ca01639a4f4403"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-parent-forward-effects-before.json",
+      "sha256": "744f87b147053d36a6de018dd412d5d8ff52e39a922fde54c94bb049a26f1be8"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-parent-forward-hygiene.json",
+      "sha256": "65720875291aa2863623068b34eb2e83d4208b7ab77da622f7863442f881d927"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-parent-reciprocal-proof.json",
+      "sha256": "dac324aa7a2a124e9c9135801a0af89f84bde1e42339fd28817cc63fa584db2b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E6-consumer-before.json",
+      "sha256": "b522192622ee9630038c4aa657a8f30771b51c248a4a9d2359672e052d5f0ac2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E6-consumer-changes.json",
+      "sha256": "cb721683f681254f210caee3d736698ae7f6c380c2a6a23b911493371eecb427"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E6-consumer-effects-before.json",
+      "sha256": "4d1f192e5fc86775a1ed8d2ccb5b18823244c03381a519994059a0f049a5eb3c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E6-consumer-hygiene.json",
+      "sha256": "72ff2481cdcd635b18a00a28c0cf3c2c264ff2103f7ce6c957ac1378dd0ce15c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E6-consumer-return-proof.json",
+      "sha256": "a726866862ab0839f8c8f3004261c8a36570791f4696d11ebb9220f5301372fc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E6-lexical-foldback.json",
+      "sha256": "de5ec80798659d0fc0e4e0dd2f2b6db820bf7ebf6cfe4b6d48da516d652aa4dc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Hypostasis-source-effects-before.json",
+      "sha256": "524f82d3e45f5503fd126bfd7ccdf813385f3b93e17dfa7723feaa54aea17d05"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Hypostasis-source-hygiene.json",
+      "sha256": "24be3cd3054969a297d89eab3e117f89c11a254a8a08621f71c096caf0877c34"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Indra-Meal-parent-changes.json",
+      "sha256": "6ca4b6b4d77eb6855cc03c352f3b3f0e328dbefe457225784eddd8a19313ac73"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Indra-Meal-parent-effects-before.json",
+      "sha256": "05600a25c0c036cbec28c9780737846235d0161d655219e25f2e5a81ed63430f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Indra-source-continuation.json",
+      "sha256": "084c985fa2b909d7d3fc1101ebe3795a34858c408a9a23ba8bdd375ea40cb35d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Indra-source-effects-before.json",
+      "sha256": "d191e98e3302b66093f69051326854470677c3437e64f6ebe9e489a844a4337d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Indra-source-hygiene-recheck.json",
+      "sha256": "39a1e6d50ed0b76681b12dbd17dd269ae9c47b3cd101d95f820d21f7413bb2d8"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-LSJ-E5-effects-before.json",
+      "sha256": "d7c3ba982da515fe5815c2fba8a4dce81c561bedbf5121e866d17eef5078ea0c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-LSJ-E5-foldback.json",
+      "sha256": "4321a713f20ec15ba23d2822bde0d75cda1687a33761d93bac7e37b56bcf4492"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-LSJ-E5-hygiene.json",
+      "sha256": "1c85f5e2c88231b18f8ad23432e9782f73e6ae4b37b46e22e2d2809e73d2e886"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-LewisShort-E6-effects-before.json",
+      "sha256": "77cc7a0fc91d776a4d1252b2bec38ad86f95b2b78ee4d6f4f3923a6830a3d61c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-MEF-locality-effects-before.json",
+      "sha256": "7d23493da72789895e20ea5df97e09c44a1e72f76d4a3c218efa5357ee9b64aa"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-MEF-locality-repair.json",
+      "sha256": "cf618823f241c79f96179e2704cef9d131b653f16c5e6c729b44a8a05c62aea3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Maya-Aion-debt-effects-before.json",
+      "sha256": "83cfb15a405ce8c166b818edf1fc018729367da3a785c70bdb8017eddef861cf"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Mother-Job-source-foldback-changes.json",
+      "sha256": "0f1b971bd524e2860903182877de27c505a3bcc56c5f366ea9fef23a0c4369cb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Mother-Job-source-foldback-effects-before.json",
+      "sha256": "a7ae1b1d5d3f7238cb48c0557cdb271acd5bda21ce57b4a66051c74663fafc9b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Pauli-Jung-commit-release-2026-09-08.md",
+      "sha256": "8b822a3d068899befa6a68ff016e35b3a06eea50cf30d3a53ca8950c66346822"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-T20-candidate-home-disposition-repair.json",
+      "sha256": "ea6b2547b6c4d3617ea908f4289164faa842f32125e1a58ab9521565e2ae0079"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aphorism-free-consumers-effects-before.json",
+      "sha256": "d70f5181e7f710a005ee608cf847839324cadeb5efa2b813cd31ffa8bef4d152"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aphorism-resume-changes.json",
+      "sha256": "5b979391a815091890ada8813e94b9b82ead2df6ff2902cb8b27cf95a3e6b29d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aphorism-resume-effects-before.json",
+      "sha256": "3e29a0432d7daf65a71b200956d0dd7315e6a52ffc641762ea444c93ba5c4145"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aphorism-resume-hygiene.json",
+      "sha256": "7316f42c0eb25a9cca49b94daefa48912ded6edcd532e13903f4c2b7073b2b64"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-atlas-N01-intake.json",
+      "sha256": "5ecae5f2fcd49f69cad131f1f741dc2a9fca4b2f09133acae5f6e3b179d01909"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-avatar-E-changes.json",
+      "sha256": "e92b5a0fcfba2098f2ac01cd6a1afb5515b080467a06f543f1c507c4599fc83c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-avatar-E-effects-before.json",
+      "sha256": "63d40dfdf330f8ce01778bcd8c97fe9937fff38d66d7f4de16f5e3fa1be64d85"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-avatar-E-hygiene.json",
+      "sha256": "2946f21c8561de478a72caad92976fce0adfb3e28e170bb6867cfb84a4c8a40a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-bohm-reference-foldback-effects-before.json",
+      "sha256": "0e9207494f1c9cb67a8a9dc9a4eb7e72bc38311f01f7aabd95a548bfb786e238"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-bohm-vortex-source-effects-before.json",
+      "sha256": "c565276c1b370111beaad6c5091a0af974b9ee142df63b4c09ca22e420eafe1e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-card-heading-bergson-1913-time-free-will-pogson-effects-before.json",
+      "sha256": "2d78abf1591c22239c09c4088468fbcf1697f9c508364125a898f7f8cf4bf83c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-card-heading-bohm-krishnamurti-1975-05-18-dialogue-effects-before.json",
+      "sha256": "9335b49c1efe91f369364503dfc18115b35943125303613f0359bcc6c51bdc1c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-card-heading-bohm-on-dialogue-undated-handout-effects-before.json",
+      "sha256": "d99b64a47856c5c3e1b12fc03e80929e2150d7f953b00b0585b02fb0f3865cea"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-card-heading-bohm-physics-and-beyond-interview-effects-before.json",
+      "sha256": "bcc4f660edb11bb5adb5461dab50ebe8d8209811833ea9fde5358b6546f46d84"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-card-heading-bohm-postmodern-science-postmodern-world-effects-before.json",
+      "sha256": "f1a728c3236aed1e8c63a33c04bdf64d8a4f99bd1ff0a734ba08668ff4d77ea2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-card-heading-maturana-varela-1980-autopoiesis-cognition-effects-before.json",
+      "sha256": "82fd10de2ab3cc4616d41fee8f2882e3bbce5ed7f7afe23a21889cc7a0c5c453"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-card-heading-seed-2010-language-spirit-effects-before.json",
+      "sha256": "735e4c7bbd557508488e8a42a4b781054da995f5588880c09a07af035678800b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-card-heading-varela-1975-calculus-self-reference-effects-before.json",
+      "sha256": "f0225b7db13b2e7d82d4addb52a9ce7ea8ce140488e8195edc0442c6137427bc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-card-heading-whitehead-1978-process-reality-effects-before.json",
+      "sha256": "c9c3b7684ac56238fa141d13b946edb0290004f2fc4be37f183815634853c4e7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-exemplar-migration-2026-09-08.md",
+      "sha256": "8f79cc844e9cb21db6f82ce0122a88a36b7f84f7222ec27bdb7874d190147b4d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-formal-limit-process-admissions-before.json",
+      "sha256": "cdee656b37e51b9b8268af639dc44d027191c7022bc8ee3522592f7e01cf4422"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-formal-limit-process-admissions-hygiene.json",
+      "sha256": "e3df5351908fb5803efe30abb3a70da432057631757d88fb979c53d50ed25566"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-formal-limit-process-admissions-targets.json",
+      "sha256": "d7e326d7aa4db2cfdc10bce5231140dfd66fbaf383bcbd519e9a44770b6301ac"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-formal-limit-process-admissions.md",
+      "sha256": "b1635b42d4d712126ced5739db0fa10287dbf9b6e9524557a5b0444f6d1594c5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-four-whole-admissions-and-job-preparation-2026-09-08.json",
+      "sha256": "9261d994c748f8d47e07eee84b8baf26e2e21240c51a780507cd0df6c243fd2b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-four-whole-packet-refresh-2026-09-08-r2.json",
+      "sha256": "ecba77ebdcae40469e491f265b6d0882cdf3c6482a7c0c75fdc1aa4d22c0550e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-ground-batch-2026-09-08.md",
+      "sha256": "9faa9cd28338bb0ff7b01fd99fc46a0b3d42f014b434eac0eff2ad8a6d626f48"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-ground-content-coverage.json",
+      "sha256": "75db2648423648fb690c471d0336c91ba798347fd6f7ded4ffd638abd8d034e5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-ground-return-proof.json",
+      "sha256": "a0053a88ad9a5c162b6bf1f4060687fe62dfd04f0a28f95e4c276f91b6937908"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-history-index-hygiene.json",
+      "sha256": "620a95b2ad4634cde110b218ede214a3fee09371f49074fbd47d42144eeb7ed6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-history-index-intake.json",
+      "sha256": "eaa7898094c330d5cec22b6d19079c05803d28aeb99f094d65a9006201c9fee7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-history-migration-effects-before.json",
+      "sha256": "260f2d725ed7787d170ee28c3e6d21eb8a465fd7e2164fc3f1b148284cf46db4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-history-migration-hygiene.json",
+      "sha256": "5930574aebadddb31bed2ae369772fa3676bcee4027b1175e52767c4e2608bb3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-history-migration-inherited-debts.json",
+      "sha256": "cc653830acf92c770ca2c2278ae44a32c526c0cbf6bc9026d6842ab877df03ec"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-internal-source-schema-hygiene.json",
+      "sha256": "c0b854bffeb6e1f841280705270ab5268fef55a384556ddec7b2bb1dd5b3cb5a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-internal-source-schema-intake.json",
+      "sha256": "d1d97f483fe34e59196bd1786861c48855a3eb0d89f8b786b2235ea9cba24d35"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-job-source-pending-relation-effects.json",
+      "sha256": "d75af8a61dc5a559231a6873f53ffa7d985c4af18d71c9cb874a8212459a3699"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-job-source-pending-relation.md",
+      "sha256": "82a3bf7dd9b34491d44f36ccb9840587e0fd9a1221494c9775e42fb1fd14bd94"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-lexical-resume-hygiene.json",
+      "sha256": "7fdecb70879f61d9cdd373b95579479197183481fdb859430bf177a5e12d07f4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-mathematics-additional-consumer-source-effects-before.json",
+      "sha256": "64437affbc23452ee6820bdaaab6efc9ebfbe3563ff838aea7e5cd43ca6b0cfa"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-mirror-apollo-parent-changes.json",
+      "sha256": "56d9ee544edb1c80cde3fa7fe26e026c0f123ccde901d1a3a07e517dcad8c327"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-mirror-apollo-parent-effects-before.json",
+      "sha256": "e098ba504cac9f0dcc9d14f5a537403774613f78a8ec8776ca4b774109d2b2c1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-music-source-corrections-2026-09-07.md",
+      "sha256": "7a65893ad407e0381aa80225282c2dfef37252824f7dce68c5f3695124e2b362"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-native-X-attribution-2026-09-08.md",
+      "sha256": "af8646ae21b95335de31d3dde491bb9fd9aae0aafef26dcc43cbac2971e3c113"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-native-X-attribution-effects-before.json",
+      "sha256": "02fa506741b4a493304edb84835373f975f4a34bb3fbc665b20beb3bbb0491f6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-neumann-consumers-effects-before.json",
+      "sha256": "47832db315a8a6c3c37860079858f572cc2f841850f995d25f6f481c4446d0fb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-neumann-reciprocal-changes.json",
+      "sha256": "674071a8df5e05c081d4cea9aa02a1d22d427f402415631acb907d9fa84b598f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-new-source-domain-effects-before.json",
+      "sha256": "15ac2cc370e14df38cfef4652362f5f86180f29bc16a963df0b389d0a754cdd7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-new-source-domain-reconciliation.json",
+      "sha256": "cb87c5f8ff5676e95caa548e592f58a96411699c9a9ac14c23d0cc397996e100"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-nothaft-intake.json",
+      "sha256": "fabe7562edfa430d9aab37b2bba2a0d45969e5248ca50b9fbbb2af41dc2713e4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-passage-heading-intake.json",
+      "sha256": "315044b6667e2a4ef57e93f8023bfb04f9f33863bebcc4c7982c073dc86e88a9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-37-47-changes.json",
+      "sha256": "ac148a7c54764036e264a716f2e0c4a03a08b5c87d115624d5ccfbaf312e53e2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-37-47-effects-before.json",
+      "sha256": "dc3d83a671214bcb710c2c0f3c3203b4b07c43072f217c0a404961af2c1364ca"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-37-47-hygiene.json",
+      "sha256": "223acd62818e45f4518c82782c36477133b6023be4ab34472424751d367a2081"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-37-47-intake.json",
+      "sha256": "6db97641bd5fc043308beca81edc78bea42a9f608b0b91fbd2619aeb52542c22"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-E4-change.json",
+      "sha256": "04f159b3e8afd0cb9afa364cbbcd264992f55a3bbf68f01b447c50c7cb8cad1a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-E4-effects-before.json",
+      "sha256": "79e031b6a296b48d1e6ddc778b73da466ec45a4d1a57494d6aa35828d81ec5ef"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-bohm-reference-foldback.json",
+      "sha256": "b0c8c4b586dcb2acf671122fa8b5b735e6dbc9799d00c3f275e08365f515b6da"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-bohm-reference-hygiene.json",
+      "sha256": "28206c4456ea379ba8bd92f958183e6ed1f50703c21fcb8b1846585faef2e064"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-bohm-reference-intake.json",
+      "sha256": "778bc093ba1342b1dd30d1318366e53ec6ea73f0590db72606bea5430dc977a3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-companion-effects-before.json",
+      "sha256": "a586a9dbb09385df81449f218f1ca1a13b127a4e1d113d179aa12eb522f0a2fc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-reference-foldback-effects-before.json",
+      "sha256": "e2ec4947a243e9524b9689779e07e5da8aa6db44d5d30aa82516abc0eaf46e0a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-with-E4-hygiene.json",
+      "sha256": "8142475e2a2927b8aa9d84ad6b21a8ae75599210a87e069fbf58bd2272fc9a8c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-with-E4-intake.json",
+      "sha256": "399f3fbd14c9f6adff3810b03d2e4b502a606365cfeef22e8d9696a881cfa732"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-reference89-actionable-compact-2026-09-08.md",
+      "sha256": "25269c8f89f54a3278a1ba2d48a3abfc59733a60d897de2ae7794535682470bb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-resume-E-returns-acceptance.md",
+      "sha256": "0cdfb03ca6c0a7a90e9f056b12633920820b833519fbe0957461dc4e93ebe1ac"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-resume-current-protected-check-v2.json",
+      "sha256": "48c01565624cd47295dd816a4fe201966e31793e1eb2ae7551ffc327105a06e9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-resume-current-protected-check.json",
+      "sha256": "f426506a7a989947255521f4c8f2944e5bb63fe37e295d1fc855a4c2e0bdc4d3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-resume-live-23.json",
+      "sha256": "c3e9ce7c5afcd18f7b84bdaee2882b30a426d219ed32f951aa4238a942e5c841"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-root-matheme-depth-backcheck.json",
+      "sha256": "8a1f56582fed3da7bd2818f3bd269bdeff612f0a64f103fc677d03c0d58c292e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-root-matheme-depth-backcheck.md",
+      "sha256": "07f74fd19b1855c5e37af686d2b89562ab90c4f2b3093f428b31ad56cf865c55"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-source-projections-mid-integration.txt",
+      "sha256": "1e1968d07e4cf3295b88b0f25f04d98597430414986d18c9e0817e40985a8d78"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-stained-MEF-hygiene.json",
+      "sha256": "3397bea6024bdd85a84ab02f52b771162e5d05584da155d5a8a5325104e9829a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-stained-glass-batch-2026-09-08.md",
+      "sha256": "0dcb768596b19f7e4f03cfeadcab137f9c0cffd5f6c411e3274df7e21152ad0e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-stained-glass-consumer-changes.json",
+      "sha256": "dcf977306cddb3444b6678fe6fcd1a8f62ec140d97e311d27e8c05d559e9313a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-stained-glass-consumer-effects-before.json",
+      "sha256": "01ae1e30f81d2da1f46fb0982ea43a0fe5ac84384457779142039c58e9dbab48"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-stained-glass-consumer-hygiene.json",
+      "sha256": "daf0c735f314119fc6f1a948a29fb5971aca0de36d482d8366abffec180640b9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-stained-glass-content-coverage.json",
+      "sha256": "d631c7f02cd28e005abd9b20426b779525cf858b4cdd3efbd751268f08fefd72"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-stained-glass-final-hygiene.json",
+      "sha256": "e0093b086083ca40a2574c825ad9f88577e55a96bb72f36da831be7748765f43"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-stained-glass-parent-effects-before.json",
+      "sha256": "85afe8dbb7dbd9f3d679d60f9925d77417314e2e5c71ec05db18add0ec5d80cf"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-stained-glass-parent-repair.json",
+      "sha256": "791e2e4ca57dc503165053b22f474161501debece610237aee8c02c00e204714"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-stained-glass-return-proof.json",
+      "sha256": "f201e6baeff32176eb7cde7f36a8f824b4242ed3c00ff66fbcbcf2c7eeeb07c6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-taylor-2026-antykathera-csm-lecture-notes-schema-effects-before.json",
+      "sha256": "decdda9928c1d9c9e3a63cd5add35f907a254b64b40682d6a0a4e5282d8d8071"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-taylor-2026-binary-explication-schema-effects-before.json",
+      "sha256": "a756bf4fc5992800b82becfb84fb29dd3e3da7364236ef7317399c716588ddc2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-transfer-carrier-readonly-audit-2026-09-08.md",
+      "sha256": "833f3f416b3ab7c64ef8969e851434731b833a7fc33c0baaef830545605aadc2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-uroboros-additional-consumers-effects-before.json",
+      "sha256": "cccac248be33b1f87570c6cb9488153441aa4b99571907ffc4274ed37266518f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-uroboros-effects-before-return.json",
+      "sha256": "ae5274eb0d0af475e11b217246917139774cb3b22608213858c806f30d8d9181"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-uroboros-reciprocal-changes.json",
+      "sha256": "85714909132a165978733378b9a5f35ecff59570427b02a2930d18ce7c753f14"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-valentinian-parent-effects-before.json",
+      "sha256": "df6b6e2a0f1bec1d921fc4fb6e8657dc4ff796ea9e8b745b9ec89b446503d8d1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-valentinian-parent-repair.json",
+      "sha256": "335c26a95cfa4518cd129145178f3a9b6f7a56695780d6b3969912d3a36c96a7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-01-2026-09-08.md",
+      "sha256": "01e8467773569c88b64e6ad4ca005234ea80b87af2e984c1442438b42e0721cc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-01-bow-lyre-effects.json",
+      "sha256": "d2b6933f4c4b0947174ab33fb75cf57f85e992d3df95c3d4649cd06666a59fdf"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-01-consumer-changes.json",
+      "sha256": "c17f1775aa5da15f4b5aa2334fa463ce25c105576dae1726146eb92662bc5075"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-01-content-coverage.json",
+      "sha256": "d9ec4d2a353b6125d8b7fb31721bc81d11e721ead89a2114b2257db7d5624aeb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-01-effects-before.json",
+      "sha256": "4dc0af2992478a1e6b4c77f5e09d29ecf511eb3ff43615b589bdc9a6223db088"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-01-return-proof.json",
+      "sha256": "6b1d8b15645ecdef83a9a2109163067dee69cd62199a25bce3c2964a0b19e89f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-01-shared-ground.json",
+      "sha256": "888d6496cc496b6bfc7f4028da670e412a3874f81556766aea0bbe61b7fd86f4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-changes.json",
+      "sha256": "7568c3d720cbb9b2c7ba98ed0aebc81acdd34fc7938619f878dbb401bc9a9dc6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-arguments-1-changes.json",
+      "sha256": "f9bc5d1da7f23eedb692663e6c0f1bd33d54cff0a0ce3294ad761e01a1597335"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-arguments-1-hygiene.json",
+      "sha256": "37707a4a512630924888d2e1f7921ec85d19471a11128e1ba91932aa158c063b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-arguments-1-intake.json",
+      "sha256": "2184dc7c77653078fdb02bcc2e63255a33820e0c9a4c7afaf1a52531869b802c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-arguments-2-changes.json",
+      "sha256": "147889b3ce8ad5367995e2890d94bdff0cc34eb17a49173eb79af12df89abf75"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-arguments-2-hygiene.json",
+      "sha256": "09d6a587b12cd456343be34b52b37d663726393c8db95628b7eed706b33319c7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-arguments-2-intake.json",
+      "sha256": "b23dbb96c5a5b1bedc96c1d44a6743ec86b73e7b6a4fd3b35340b700992585c3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-before.json",
+      "sha256": "d61d9fab92cee720aa6913163e8a48ecdf3600709aba884a7838150da38a0d1e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-changed-paths.json",
+      "sha256": "b445f7a19b88335579492e0db33bd1a8b65f3e511e980e023b66dbc438d2111f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-concepts-changes.json",
+      "sha256": "0c6d1ef97153fa6cdbe89ac126c01d561d30bacca9a14b04b456bb619e50cc93"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-concepts-hygiene.json",
+      "sha256": "7cecc4d16222b749687b4bee1cb3cb30777e38f51c18020559c873ead2a372ee"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-concepts-intake.json",
+      "sha256": "7b1888fcee6955455b91817d0c44920886cf646f635804bf3833b5e891e84cd8"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-decisions.json",
+      "sha256": "459cb8010510071ad11a9d35e6557ae278ae48e7259267aa7d26fad5d9e32d5e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-effects-before.json",
+      "sha256": "4bc89290b9b859ee97f2e5e9ba42488ee732f1a85c3b35d6bff25d7ea666d06f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-etymologies-changes.json",
+      "sha256": "2de0fbba3b7fd92308b918098b16dbadc2464c967da2f7603c651bf60ac4d1b0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-etymologies-hygiene.json",
+      "sha256": "9701b7d909f9fdafed8610fdc41fc6109a915a5eb823b12323284126af937e39"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-etymologies-intake.json",
+      "sha256": "5fa7a9215ee61727663bde5c4f2f6e10b49bc094ed54c3484f7991703181b04b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-final-spacing-hygiene.json",
+      "sha256": "be0ae2cbc3ae732cd448d1745f92c56d0fdb9cf5b0c16852919dcab56743f830"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-final-spacing-intake.json",
+      "sha256": "a92167765cd86169e34828af6a708aa5de25e8fe9ad2a8864b00a105812cbc74"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-movements-changes.json",
+      "sha256": "57e7c5b2ab7b97fe53c1a61f92aa57af7202c1a9cdf4b3c91bd7a66b9a7f3820"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-movements-hygiene.json",
+      "sha256": "b13e47a77ce595ad9c5d26148410f4c60261c98f6f8a43740c289c33843d353f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-movements-intake.json",
+      "sha256": "ec4b151751204304ab42aec7cce9872d8e0a3637813ebbd6c13d0720eabeeb7b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-return-proof.json",
+      "sha256": "d23be8a6028cc340907367396ad8afa415327db6575deaa707059b929de94122"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-source-effects-before.json",
+      "sha256": "64d10a91a488022595ce4306778e280aa8c4aa25146556cc4989f124b110abc7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-subbatches.json",
+      "sha256": "4f760e75c36e8ed3733866e0471920ddcf4c8e7cba6da18c46cc77e10f4eff06"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure.md",
+      "sha256": "ef298ab8da25d048e4363e2a40248af96a1ac8c58148f65467d7c8f4f68c090f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-content-coverage.json",
+      "sha256": "be9133a7f5d6836813e44ff35e0c753413c5c7fa628ac61892765901b77e1897"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-effects-before.json",
+      "sha256": "503a4526494c76a4a9bf4907d169ff369475115915ac0b3750968fbd8dd38afb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-hygiene.json",
+      "sha256": "daea6ea0b43dfddd31911157e1cef1f7c9195a69f74e47332636c8a691521726"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-resume-acceptance.md",
+      "sha256": "4b5d92585bdd639b25c95e8b65604b2cb3ac4520d2e23bf54fe6950ba1c7552f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-resume-content-coverage.json",
+      "sha256": "68d5672d926889592c7b494dd3af919fb823f50908d98086f03be5420fdbcc24"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-resume-return-proof.json",
+      "sha256": "994fbd4a35334a534e7a1e7b21bf8ad69e15ca0cf95b0dee19992ef9aaa09a85"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-return-proof.json",
+      "sha256": "5847ca5c4bb47396c1d837ed01d6ba57fbb10c9dac23456d3318fce3da5ea717"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-text-source-hygiene.json",
+      "sha256": "effbeb0fd5b62daecc116a647e928c47e03969d0760ed717b560632c870064f1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-source-binding.json",
+      "sha256": "6ceb7228be0e2db60d9c35a47b0f57e6368d8ad63814fb6c9e08675e9ef7aef5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world03-Avatar-all-E-proof.json",
+      "sha256": "4e08d70d3fc944cd43e3f4cbf25ea4f86a0d7c19ebfd8650db35f334994b45f8"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world03-E-free-changes.json",
+      "sha256": "4a7e8ff8a2606ca6ab49427072543a3d19b86f0508cd75445f5618196fdb48e2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world03-E-free-effects-before.json",
+      "sha256": "e0c7d57c5a92855ab1d823443bb58a2199a5eaa39b8737af83de99b8a72c26e2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world03-E-free-hygiene.json",
+      "sha256": "760c1108bdfb359df24726ba5bb5d5b6b1c7b1ade2e6c4e5ca2f28d41516ee15"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world03-E-free-return-proof.json",
+      "sha256": "d1a304716cb801bb13dec51de0d6164aa5e56c3b092ffe148e110223f570e935"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/depth-acceptance.json",
+      "sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/descartes-1641-meditations-metadata-effects-before.json",
+      "sha256": "a838f6a48d1c2900f53768c5e2cadc414a3e52b50116a2c87f55c9ee0eb0eb4f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/levinas-1961-totality-and-infinity-metadata-effects-before.json",
+      "sha256": "c8250c066c6f6dc4f2a9a190f172a6ac394c23e19eb1bd6db6ff728e4743c4e0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/levinas-1981-otherwise-than-being-metadata-effects-before.json",
+      "sha256": "17fe3ca33b536281f92e457145f8756ef6eb5ff4e63831f28bb64b9d71b5ace2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/matheme-locked-structure-recovery-2026-09-07.md",
+      "sha256": "33d16b81489de4dcb48bdf376b8fcf4ace39c58989af55eb0155b902a2e1d3f9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/neumann-effects-before-2026-09-08.json",
+      "sha256": "28f31a58d4af6afa285f57ef2afd320a4b6076eb398122b1421b9c36dcc81dd5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/pilot-A01-2026-09-07-continuity.json",
+      "sha256": "59d34c3052e224b67bbde2e1cbe2b099fe11c947ce84ab41737506d068fb3298"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/pilot-A01-hygiene-2026-09-07.json",
+      "sha256": "34bc66c0762a766403125206687842fa3e715117a3d5430ae0cbcc7718c1b94a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/taylor-2026-binary-explication-effects-before.json",
+      "sha256": "d759d372fd3c0ce1a995a4360fa2c35e8d62ccbeee7f96b8d64617c31736b7df"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/taylor-2026-core-theorems-pithy-effects-before.json",
+      "sha256": "f12f6f5d11f155a5317e30054260633c5acebb24b5ecd3e60e0b6be7fd747dbe"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/taylor-2026-core-theorems-pithy-metadata-effects-before.json",
+      "sha256": "f12f6f5d11f155a5317e30054260633c5acebb24b5ecd3e60e0b6be7fd747dbe"
+    },
+    {
+      "path": "working/p2-enrichment/root-hygiene-targets.json",
+      "sha256": "d054d860fa87a84a58c426ae168ac793099e5d46926d388fc3a859370e9ca3e9"
+    },
+    {
+      "path": "working/p2-enrichment/root-inputs.json",
+      "sha256": "d5fedd10f94010b59fa0391cc67649c2558b57f55ebf4f406d5c421a5fbe856a"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-antikythera-attunement-2026-09-08/census.json",
+      "sha256": "7bcad0433f0236a6dcde9de90bc16ab3a0baed9e969a19b22ebf2ae0f1855ede"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-antikythera-attunement-2026-09-08/coverage.json",
+      "sha256": "563450488e86e75ce9c387e44910d844c6b604191805bb34157590b29adf4da6"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-antikythera-attunement-2026-09-08/packet.json",
+      "sha256": "79328ab776de2a15f24662684d364961f1ace6fc6eb8e1c43b4191a903597876"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-antikythera-attunement-2026-09-08/queue.json",
+      "sha256": "18b722aa62a706edf82b951c7dbcc4e4ee0cf86fa22ca786c305f73331a8db91"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-avatar-image-mask-idol-2026-09-08/census.json",
+      "sha256": "51a1b004fbf47e0456b3bb4646ff566e90f6ce680862d238f01e0c34c7fe75e4"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-avatar-image-mask-idol-2026-09-08/coverage.json",
+      "sha256": "42be9532afc9978b6797c9efe842943b5bb387de8c3a07a8ee7a90cf80e14c23"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-avatar-image-mask-idol-2026-09-08/packet.json",
+      "sha256": "87b166657dac2554a777a7818f3907f1e0cccf1447a37ffbdcdebbcb104acd94"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-avatar-image-mask-idol-2026-09-08/queue.json",
+      "sha256": "2f86e30f1883762770dcc9c8526a3988ea05ab67dc8af024bd3e578a7aa641ab"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/README.md",
+      "sha256": "9afedb702a5aea9fba85d52fbaafc12c15d9e5c442d204e4b0f30c4d7fe4060a"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/before-census.json",
+      "sha256": "29efa59e44212a9df20f52195bc3b895e21909e05127e373d0e8e4e8b78933d1"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/before-dispatch-queue.json",
+      "sha256": "f62ec4aabc6db7b5ddff4f85a0c0d9d7043f14eb88039d114e0e0cbfbed2901c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/before-mytheme-inputs.json",
+      "sha256": "a2c316a7bd054fd8829b32d3da071eede2b4e276bc610e82014166efe1d41d98"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-goethe-permanence-change/SHA256SUMS.json",
+      "sha256": "23c0cc9183d7f5f77ac41f7793f3014f558876b473acdae19685454fb68d3e7f"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-goethe-permanence-change/census.json",
+      "sha256": "74bbfad8e9339161918864381b98d7f2aa6f54296810bf8c08bb615915d25e72"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-goethe-permanence-change/input-files.zip",
+      "sha256": "5da080b5c5b4173ea39348cedb4f5b92fc1a3c85eb95a8e6344072567b497a36"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-goethe-permanence-change/input-manifest.json",
+      "sha256": "b3180e6dfbd3405d9d9f697a328bfe4f806b5c3060f8c9428fd867a7c943e36c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-goethe-permanence-change/mytheme-inputs.json",
+      "sha256": "5b2cb0b74004bf45c5ea0b4e9bf4b6419bfc0641d114e38112064f62499b10bd"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-goethe-permanence-change/packet.json",
+      "sha256": "4943b3c63a818b048c761e0e7b1212dedb4f29db99a6e48b470cafd81c73818b"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-goethe-permanence-change/queue.json",
+      "sha256": "6d919b80978d606c3ff8ab8cec3abc344dc3ac905e34984c5b09a78e44dcdfe1"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-goethe-permanence-change/validation.json",
+      "sha256": "f6a546b84537c017e2b1bff026f34bcaebd18ea86712ffc24baf28d80c3e7c8b"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-job/SHA256SUMS.json",
+      "sha256": "4c6fd8dd8c244e5a86a28b71e89bff108a59505e77d70f78c27e37f0eb9cb24c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-job/census.json",
+      "sha256": "4dbc2a95ff2f17c244d2e3c80a41bdead83aa52a115777c7bacb15454522cf1c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-job/input-files.zip",
+      "sha256": "59044d6920fd03f308780896fb6ac48c6d0f17548c7c2b55e1547920b2a47bd4"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-job/input-manifest.json",
+      "sha256": "61f349a23d8ec12dee9fe93679ff93d6d53bfb31ade8dbd4b8b179f5350378d5"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-job/mytheme-inputs.json",
+      "sha256": "306b5fc1cb605c13f00e1b44d408fc8f5282002025caf7d770aa28b5de1d29cb"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-job/packet.json",
+      "sha256": "c82625a425022923f3c59c5d5288c4afd26a5a409d5a9b505ce74e521c84b620"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-job/queue.json",
+      "sha256": "26812c02e65c5684a3dd3596a091123bae57291e63e25bf46dc710367938142a"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-job/validation.json",
+      "sha256": "a3d0f8e95aa3d90e667780664b8c9f09542d7fc6430f93a0cf324475ccd6dd56"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-meal-epistemic-metabolism/SHA256SUMS.json",
+      "sha256": "d39094aefc726f5c88567fa4f64c53fe91079eeaf48d057823fe25c7bd19a514"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-meal-epistemic-metabolism/census.json",
+      "sha256": "edcfd81d707e8ff95dc9ef89f5963e81d1fe4e7b6bffad9141ae65e792971777"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-meal-epistemic-metabolism/input-files.zip",
+      "sha256": "2ffa2cc819c1e8c64e792750262d54c5c1240f7582e82e41e3787e62e2fa0160"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-meal-epistemic-metabolism/input-manifest.json",
+      "sha256": "1a73357daa971ec43fa56ed765bb2a5196e8218c753cf5cbe05527d8ee5c502c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-meal-epistemic-metabolism/mytheme-inputs.json",
+      "sha256": "06c3ac1a6e55e34ea692073e5ab9f0338020bbf4af63e4ca342650d04dcc74af"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-meal-epistemic-metabolism/packet.json",
+      "sha256": "6276e1dbd6d6a21cbca2b17f20c96e0ddae253fa10fdade924fd3c29bd3753ad"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-meal-epistemic-metabolism/queue.json",
+      "sha256": "594e7aac3c21fd78728567678ecb9db35d3256c8a42c88e6d2eef59fd3116743"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-meal-epistemic-metabolism/validation.json",
+      "sha256": "c8b92c37dea77c54db50b11eade66d37609c1ab76dd6ba48096eaf93b79ac6db"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-stained-glass-refraction/SHA256SUMS.json",
+      "sha256": "5472e23fdac156b301c7d858877ad16442f5b67aa5acebe6c70443f2e52917c8"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-stained-glass-refraction/census.json",
+      "sha256": "6cc71266f971420462e1f2f0ae30903692a3927d4f84756e593d74d1da68c608"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-stained-glass-refraction/input-files.zip",
+      "sha256": "418a2515f68647ef6f84f8007719765ebcc3017cea114e806f1434be41d8fb19"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-stained-glass-refraction/input-manifest.json",
+      "sha256": "0da7b14b918d3549fd3bf055261a9d796c3eb5002098a67ed0ff90b75e3b2394"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-stained-glass-refraction/mytheme-inputs.json",
+      "sha256": "e20bb8c1b496ed0c13fd93ac70cdd58e24f2030446ed8cbb67f3b47e979a367f"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-stained-glass-refraction/packet.json",
+      "sha256": "a5fb5713866fc75c5a029dc6af0547b44dda5629d3d9d42c0fd642bdc8839c9f"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-stained-glass-refraction/queue.json",
+      "sha256": "fc11bcfcfe05ed704a958b9abdd88994e321eab3a8dc79002109d2304f0b9708"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-stained-glass-refraction/validation.json",
+      "sha256": "508315aadbb695b4765902a94ca8ed84ca619a9eca98cc2cc61e6ac3c0061ba6"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-the-prisoner/SHA256SUMS.json",
+      "sha256": "617970afa160518950d4b36b8340e8d431c7180bdf65a0d763ed7ba07a76a41f"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-the-prisoner/census.json",
+      "sha256": "ea500a95c859178df0cf8d0b2a70477a8d72550f2f8c6bdded0b21f212502f6c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-the-prisoner/input-files.zip",
+      "sha256": "dab50e3087682c2dc81d858c78bc5fecd29ccb43eade955d673ff656affc9bc5"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-the-prisoner/input-manifest.json",
+      "sha256": "6a5f00074d117ed99cfba1efe34f68a3b9267655ac586c789ff1249ac099a5d2"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-the-prisoner/mytheme-inputs.json",
+      "sha256": "1b5d164d4104730dde4264f8d007fd356dd27b255b6a093276da0e922aa460cd"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-the-prisoner/packet.json",
+      "sha256": "6f2b278c605b4937c155abd3c69310575f7f4c91c09cb5e26ca22707e6b9fe4c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-the-prisoner/queue.json",
+      "sha256": "9373caa3482813c7a947e04ab597be46e3cfd960c03ccbda378527d74b9ba511"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-the-prisoner/validation.json",
+      "sha256": "002c0c7be2a10026edd00446a446c754f6cf4d594d39ae9121a54978eef67211"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/refresh-basis.json",
+      "sha256": "12df4a52d45f16ba8ef313ac0cf3d3b041787f4eef48effc42a47b3af483bece"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/validation.json",
+      "sha256": "921a9ef212f67027893f85f4c7052448814ca220176c694b070534fe73c9700e"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/README.md",
+      "sha256": "16acddb1ac9cd9a3841e6c5d2993d47f60258feb44a6ae174f007fcc7633b7a4"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/before-census.json",
+      "sha256": "9beb0d16986ecc4aec8d586b0ab7b1b0dc9f55a36cc8edaddbb3cc3289011b43"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/before-dispatch-queue.json",
+      "sha256": "88bc8249c55347e9a2014ee1d8d541490438ae90b7ab9f17f1a1e9efc3796e00"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/before-mytheme-inputs.json",
+      "sha256": "8f815fcd13df4cb8c52a782f9235cde7b8ff013dec6275d239d4846ef3d9aca5"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/live-update-validation.json",
+      "sha256": "938aa5366ccdb57882e3d7e3a53ae98b93c0c38439fbdf19ce153e3bef947e6a"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-goethe-permanence-change/SHA256SUMS.json",
+      "sha256": "907e878c0843941112f3465e49815a7bdc0c7ce19f553c56ede0bc3650da7255"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-goethe-permanence-change/census.json",
+      "sha256": "74bbfad8e9339161918864381b98d7f2aa6f54296810bf8c08bb615915d25e72"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-goethe-permanence-change/input-files.zip",
+      "sha256": "860457bfde6c67a4cab1d620fddc5505afbdc254e4ee08965bf70541692af252"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-goethe-permanence-change/input-manifest.json",
+      "sha256": "f3941eb10e8bb6d5b7c523a943634c5ec2d5653225b4b9fcc3921f49cf5be1fe"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-goethe-permanence-change/mytheme-inputs.json",
+      "sha256": "5b2cb0b74004bf45c5ea0b4e9bf4b6419bfc0641d114e38112064f62499b10bd"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-goethe-permanence-change/packet.json",
+      "sha256": "7360800e82680c9a871ebc46fda8d6e2a5fc559846d16bcae891cdb5a17427ca"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-goethe-permanence-change/queue.json",
+      "sha256": "28c514a4bcdf1e7466784ef5f045c921dcc7ca6f5606d5450d6055f1dffc4024"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-goethe-permanence-change/validation.json",
+      "sha256": "146ff45bfbd43d4fbe6bf10cb46a2a8ef81518f33e5a4d8cf1f10c7ab5d4622f"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-job/SHA256SUMS.json",
+      "sha256": "2ef0cb47336cdee1e207d3f72cbc665d835c8e6ef4658f0a43718c2aa36e6c54"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-job/census.json",
+      "sha256": "b9d3d4d671687eed15d1e857808e43ab2384f2f45bc36886abd0805e97c35585"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-job/input-files.zip",
+      "sha256": "88e43c30945bcba700a5e0298c769a5f50b83d26e23513565069aba524e734da"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-job/input-manifest.json",
+      "sha256": "6246e4b46c8bc7a7d75d6ea0f0cdba91490ae4dd39c241f7d1c8cdd20f125f6b"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-job/mytheme-inputs.json",
+      "sha256": "b9cdda166002811a83e902ed79e7c805158b2f938072582c864805290582af07"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-job/packet.json",
+      "sha256": "6260f2fba87b74a51c61650e0a341f4dd9b922346ee46e62681c903d336d2efe"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-job/queue.json",
+      "sha256": "3345f9305b2e5be2c00c509f9f620652bc007e3948559532ed4f4d27a3791e47"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-job/validation.json",
+      "sha256": "886dc103da0c0dfacf526eea9b73267a644ad6a3ba3d567dfa310928db49e8db"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-meal-epistemic-metabolism/SHA256SUMS.json",
+      "sha256": "5c97599e4d3f3d4ee14d9797ab20c368fde65bf383556bb5ee3887a6729026ac"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-meal-epistemic-metabolism/census.json",
+      "sha256": "edcfd81d707e8ff95dc9ef89f5963e81d1fe4e7b6bffad9141ae65e792971777"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-meal-epistemic-metabolism/input-files.zip",
+      "sha256": "68b80c92556705bdc2fd2a14936604aac5386f29f219424cb7b5a834405e0fd7"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-meal-epistemic-metabolism/input-manifest.json",
+      "sha256": "9e34e485d0b7b97742e4bc568ad694745baec3f0c07dad7752d3b762e5d1548b"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-meal-epistemic-metabolism/mytheme-inputs.json",
+      "sha256": "06c3ac1a6e55e34ea692073e5ab9f0338020bbf4af63e4ca342650d04dcc74af"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-meal-epistemic-metabolism/packet.json",
+      "sha256": "25e1c1da4d20c15c8116001a32704bbb76bf9b6d07b4f237330651e8fd6efd36"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-meal-epistemic-metabolism/queue.json",
+      "sha256": "a7ef08729848b9e01a2dc5c46b65a20b701ae44281e827861bceff4b5aac6fe2"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-meal-epistemic-metabolism/validation.json",
+      "sha256": "990e7dfcfd7c0f4190276589824270d5a9e884f2ceebd0cadea6f31dedb676de"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-pauli-egg-dream/SHA256SUMS.json",
+      "sha256": "3d98462e900b99e2e4ce1ada2418521946a45e144cfbf652794b0e2d74398b7b"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-pauli-egg-dream/admission-gate.json",
+      "sha256": "07126fb72470a8c1268463ccd68442e4484fd06d633d542483d21c252499492b"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-pauli-egg-dream/census.json",
+      "sha256": "afef76cf7737bfc07e3c30484c3d10f2cdb4943313a29554be012549f133bde9"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-pauli-egg-dream/input-files.zip",
+      "sha256": "c12eea05501ee582ff6d886860e0d7d449347eef4870261f4d5b26406c82cd0c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-pauli-egg-dream/input-manifest.json",
+      "sha256": "24f52a6fe68fcbc94a08ca183ca0ff90a20ed02a77563ca1357d3fc1d1a004bc"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-pauli-egg-dream/mytheme-inputs.json",
+      "sha256": "ef8744417c5cad0b0b302eb91851ff307a690d57cca92b32214aaf3fe3ea15f9"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-pauli-egg-dream/queue.json",
+      "sha256": "5d27b3590727c9c58ef007674c8732b15e720b5eb5cafe7a75036492a98c77ef"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-stained-glass-refraction/SHA256SUMS.json",
+      "sha256": "c4248a1fd53b798190110f7651fbefbbe69068af66f2e1a06d0063c7dcce1aa6"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-stained-glass-refraction/census.json",
+      "sha256": "6cc71266f971420462e1f2f0ae30903692a3927d4f84756e593d74d1da68c608"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-stained-glass-refraction/input-files.zip",
+      "sha256": "a51420a9d98d1ecc63ba8cf1b9b139a4a5e80b8c77077d51266b29ea3382daba"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-stained-glass-refraction/input-manifest.json",
+      "sha256": "388fa393f2f38e179a47a95bb4797b043630cf0a7b7080f99c628c85c1923e84"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-stained-glass-refraction/mytheme-inputs.json",
+      "sha256": "e20bb8c1b496ed0c13fd93ac70cdd58e24f2030446ed8cbb67f3b47e979a367f"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-stained-glass-refraction/packet.json",
+      "sha256": "15c5d727d0f4493c204a18f4b31d696e01f05de42a8553819d6760208a69f207"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-stained-glass-refraction/queue.json",
+      "sha256": "a99f00b565752f0b3f1076caa4651a64112289e476a34125440c58bdca28c8b2"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-stained-glass-refraction/validation.json",
+      "sha256": "bc61dced8a3747913a750ea4c2ffa6ddc66784303cb58a0014941344fed4b017"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-the-prisoner/SHA256SUMS.json",
+      "sha256": "df4d2fc61fffd23a9158081e2aa1f00b96c475890fa55b31398e5c8254d42cde"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-the-prisoner/census.json",
+      "sha256": "ea500a95c859178df0cf8d0b2a70477a8d72550f2f8c6bdded0b21f212502f6c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-the-prisoner/input-files.zip",
+      "sha256": "09631991e4749f4f36c2646e25a27417585f4c544db5584eee59e3a285b5f684"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-the-prisoner/input-manifest.json",
+      "sha256": "e50d9933f2db728a631404c9c515eb62372beac7f9567c6b4f64354acf0cc1b2"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-the-prisoner/mytheme-inputs.json",
+      "sha256": "1b5d164d4104730dde4264f8d007fd356dd27b255b6a093276da0e922aa460cd"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-the-prisoner/packet.json",
+      "sha256": "e900f9f2fc0e878e83134efde477d22b062b4f4891d9a4f5c0a0607739cd986d"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-the-prisoner/queue.json",
+      "sha256": "091e39988c6af25dc71b97f2637a091dc9d8536779f9463343dec19245d2cf7c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-the-prisoner/validation.json",
+      "sha256": "12a83c2f57a85431527fc88c32f713e59e58854ed36787566445fe9c01949a1f"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-valentinian-sophia-horos-achamoth/SHA256SUMS.json",
+      "sha256": "4b92aedf8f459bcb388038a94526a079e808c146cf405103d704578da14232f4"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-valentinian-sophia-horos-achamoth/admission-gate.json",
+      "sha256": "a0a1dbc4a7af8ccbd749a26fdddc43878e19377beb9b675ad74abd95358a4168"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-valentinian-sophia-horos-achamoth/census.json",
+      "sha256": "6021bd11da10c442fb04814501943c525de0c2ff8264a2a0440c7cf03a45af1a"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-valentinian-sophia-horos-achamoth/input-files.zip",
+      "sha256": "0d877a75eff94266d126e30db77518519c7edde7aec33f49475e61e327599e9a"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-valentinian-sophia-horos-achamoth/input-manifest.json",
+      "sha256": "513c9396f16d1fe937b15002e64bd9ca638c2065d29dd81b2e11717a9c2a4dee"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-valentinian-sophia-horos-achamoth/mytheme-inputs.json",
+      "sha256": "d0b7dfca82ac807db57314d4f560da3c7b9f27a238c10171f7902b387c85860c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-valentinian-sophia-horos-achamoth/queue.json",
+      "sha256": "9a9833d6814b237b00efb22e366b616915cdf0ce7ba65c9b4a7f5752a7808d8c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/packet-build-results.json",
+      "sha256": "d3dc28aa8be803d75aa2299d090a26dd76170569d91ac5de64f3e76e853454ba"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/preservation-before.json",
+      "sha256": "475680409c0fe71e7871c41cac5e9cb6f6c8793a107a6662e64eda4d82588113"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/validation.json",
+      "sha256": "bec849892f892a4ad9e3edeb64241f880117d42f91661258f2ca1d5e854e2877"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/SHA256-MANIFEST.json",
+      "sha256": "fbc86d8d9f269f09e9a72acba09ebaca8e3bdcd84aa7ebfbaa485e1c603a5c37"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/WHOLE-before.md",
+      "sha256": "3c170c15309739eba7c0b35660891fdf63b4bb5059371cf06ffe0ed2421be074"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/WHOLE-final.md",
+      "sha256": "a9b769f8669c5178cfbeaa2c36a8df8615410e58cb0c1021682f8ffd4f3c283c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/bound-inputs-manifest.json",
+      "sha256": "920b4cf7062b548c44c16566d306f7127a90c000f322b3513e0bc569bf6689c8"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/bound-inputs.zip",
+      "sha256": "21bcc3f6da51580e92431008613fecd6b20b4ce3f1dc6e694b348072890c7c91"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/census.json",
+      "sha256": "97ceb4aed23e0a408283b471a62bfbed90063d1a081f53ad6bed75b4bb075444"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/concurrent-input-drift.json",
+      "sha256": "3825a9791625e0c613abb75693a5ccb23c1a4d8b01f3bfa6c4ae28e54133ccab"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/coverage-rows.json",
+      "sha256": "9c39ed2b823476a748364994fb260b7791624fd6b5775a1fb1a6c6732e3dec1e"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/effects-A20-Image-Valuation-Possession.json",
+      "sha256": "7ae32ef855a1ed424a113fd302f88efc54f1ded23c68c76f40201b8c4cf3704c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/effects-A27-Self-and-Other-Unity-without-Possession.json",
+      "sha256": "c71ff9c66992847abc3b3fdc04c8d4bb81642344236f0d985a4c67be68e235d1"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/effects-mytheme-narrative-fanon-language-gaze-mask-recognition.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/effects-taylor-2026-core-theorems-pithy.json",
+      "sha256": "5a3fed7efcde0c91d7d14d2c8a522d38841af7cae0b427f56c9ab0bc5e5ee310"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/effects-whole-by-path.json",
+      "sha256": "262b2881b2802917b8c03ba4a63ef0b217c96ba89b1601ec6d5828715439ab65"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/fanon-1952-electronic.pdf",
+      "sha256": "a1dc1f996b93017d32b4679eb0838311876ee7cfc53f1ee8ade74ec67afdf123"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/fanon-1952-extracted.txt",
+      "sha256": "0092872afb45707f244617fca7e8b16a952f9a068d15c742255805a6f32533a2"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/fanon-1952-pages.json",
+      "sha256": "6ba5e1756fc1a955411c7834a23f1f09a52a847084fc68ab206bd1cc9308282b"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/final-validation.json",
+      "sha256": "f66998b4f1bbc404f2ca0b37c0e9a98e812f6f2c0b8e9fd011f729cc221e49c6"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/packet-current-check.json",
+      "sha256": "9891b53e282d0e2559d99f896b2cc4139628004df1c100ce3f47bf477b371421"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/packet-initial.json",
+      "sha256": "69b0362cbd035e236d9456d3a514df390e81af69730105dbe830c9ef8ef91ac7"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/packet.json",
+      "sha256": "18ee6db38a3a430ec5d8db722a69d5a5f80282df2bbb36826161e98c29977956"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/queue.json",
+      "sha256": "8ef1f9bdd76bec6e8a077a3acab88e07fb6bf22590119cd2ffde9da2895ece98"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/reading-receipt.json",
+      "sha256": "4c07c3df4553c1f41a6d6763835a41d1046003a322ba5c7d42f2cba3f7381e59"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/resolver-validation.json",
+      "sha256": "e03fa3295a5e58fcd8e7940b7d74552bda0603a2db86de8a732b7f2bc64b18b4"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/semantic-audit-before-repair.json",
+      "sha256": "e1df9c2a51b330739781d56b4665a470cd06f62016afb6795eba23c654d5425c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/semantic-audit-final.json",
+      "sha256": "60340119b631506d6de52640bc2c11732d21915cd029124b7a26ddc33fce2472"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/source-recovery.json",
+      "sha256": "3a0e396ed6125fa8aa9ad849d7433a753941ce3a9c472f07eeea76c7f63a16bc"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/unit-crosswalk.json",
+      "sha256": "c658e2389cb57865c9419101a67facb9982fef23dc1f171c131b46e2f1e5951f"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/validate-and-freeze.py",
+      "sha256": "81622fd9a38c06186946d72cfef1151a865a247006197ff81ed4672519c18694"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-maya-eye-veil-frame-horizon-2026-09-08/census.json",
+      "sha256": "11005060659aaacabb5a3bbaa1ff977dd940f72bc2cb615aa1bbc67c7a5982a1"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-maya-eye-veil-frame-horizon-2026-09-08/inputs.json",
+      "sha256": "c81528ce94d40eea3cc6015765723d39b474a72f707e24f63f6d6f8862efd5e1"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-maya-eye-veil-frame-horizon-2026-09-08/packet.json",
+      "sha256": "b6b457e82d8029d10a3d62a376d2acb20298eb03f3a709de73706de091b66321"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-maya-eye-veil-frame-horizon-2026-09-08/queue.json",
+      "sha256": "3672b7fef8267018926ed054e0ad115ec55776c25b236f7284f3cf4272838721"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/SHA256-MANIFEST.json",
+      "sha256": "bc1cfdd6457f203bd86489d182c0cfde06d9beb995134edb77499c0d56af7652"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/authorial-corrections.json",
+      "sha256": "512e51f9452081be52d6c17e5675e1353076b63f357d99b6b6e28fca6235553a"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/bind.py",
+      "sha256": "bd95b063f1d31d90d4dc40f190ed808fbedb9157ee239d9aafe9568b75a0704d"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/bound-inputs-manifest.json",
+      "sha256": "306f50114d55a2121271345ccd16d75c085f15b09531b05c47430a03e3e49e35"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/bound-inputs.zip",
+      "sha256": "a5227e7d67a5ce40c8a9ddb3b2c73dde43314447550753e05ea67f0265559d7e"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/census.json",
+      "sha256": "7707b3d239ddb065b1c22fe67b71b28baa1dd4ab39f3e8252d28beafa10fbd4f"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/compose.py",
+      "sha256": "b0b21128a68b5894ec2e24e9a66af2dfe19ec65c2b66cb7af33143e7a845c7e7"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/coverage-rows.json",
+      "sha256": "f81692d0c026fd0971e005214a9da36bc5137bc57fa67f8ff8a87888df9604fb"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/effects-C21-Living-Symbol-Idol.json",
+      "sha256": "926e9192a3e2f47638a8fdf7b53240572cb917d8d690129c69af6db6a1cc04ca"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/effects-C49-The-Two-Ones-0-One-1-All.json",
+      "sha256": "efa129ac879377a58accc9e810e9f9658d9f7409613664c9a5a018fdfc008b33"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/effects-abhinavagupta-singh-1988-paratrisika-vivarana.json",
+      "sha256": "66505d85b80111e034045f41efe31a79c29fd1455b112f87ec383078aa6cb560"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/effects-taylor-2026-core-theorems-pithy.json",
+      "sha256": "5337af448a009efa1e73851316c2f92e6d8e6fdadea81efdb2021c13ef8713a3"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/effects-taylor-2026-definition-god-draft3.json",
+      "sha256": "01e5491434e174e9ad6b6d9c78bb881b91738380d1e5c42a62b1adbc0be8e63a"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/effects-taylor-2026-personal-poetry-corpus.json",
+      "sha256": "7f5fd987ff3fda1bd80ffcf4e0297aa2d52a1a15c51968f52abe5990afe279ed"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/external-witnesses.json",
+      "sha256": "846e07338c411e445bc2f26513ce2befc3f7ede1a3edc3ed717e9c933a4bbe30"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/final-validation.json",
+      "sha256": "f5ae2e7f599738f717645b8b04e38d29719f91f70d3849d4fda7be9634e84678"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/mytheme-inputs.json",
+      "sha256": "bac5179969296013b32ae9bef0fa756a034b83e3744bfc85091d2d6b6e069e43"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/packet-validation-before-draft-review.json",
+      "sha256": "9e1a39229bc4dbf9eacc389027af7bcac36b7f8d45f501c60c645b87740b7e3b"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/packet.json",
+      "sha256": "aa80758bcf468c1b04434d9372e3598452f6444ef98afbb3d424e5b3c0fe2831"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/poem-blocks.json",
+      "sha256": "6da83994c2b55e2771c72da41036c808e0d114ad00876bb59312ac5e7d029739"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/queue.json",
+      "sha256": "da2ee5de7d34d93352ccd6e8661754e00cc49dec8d8e922ae7985fbe33a5e24c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/consequence-inconsequential-april-2026.md",
+      "sha256": "4bf0e662dccfec77ef07beeaa341ca8d0a0ff263b5af7f9957b32b2691448225"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/history-march-to-june-2026.md",
+      "sha256": "96fe16fffb1010a3d0529968ece9cde1999b948997ddb5c5adfe37332d7b03f7"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+      "sha256": "06d05ea84ad53b5c62e3c883e4187a61a32e619297cfa9a2b658c3841ba01d6c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/poem-07-06-2026.md",
+      "sha256": "a82541ba833f2b9cd4559e7dee5c488bf434f5e4fc51e7b00db7b9861840d40d"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/what-is-it-to-feel-may-2026.md",
+      "sha256": "dc0860a1cc767c6cb3792cddcefb225d398f0a2094ff01534156405d85333f2d"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/poem p4 lines rewrite.md",
+      "sha256": "0b034919275499968e85eefe3e2d75011358a5e847646805fc174c0789f66fb9"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/reading-receipt.json",
+      "sha256": "e24e8f4c31e4a08bfc9538da1d054bd7d7a76002fedc3910d62f36853fddb56a"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/semantic-audit-before-repair.json",
+      "sha256": "fd993e59502f792ab22c81d986c8fe4c2a8f78bb9225d7522c7904dd68aa9991"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/semantic-audit-final.json",
+      "sha256": "2438e6e6f2afec9e7d6b1fc453c022e8a130527c546ab6e3b5776b786b9975d8"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/shared-baseline.json",
+      "sha256": "96569b2ebef2b234f8fc263ce16116c42e54c759c21e6503f85f7401e09e3a5b"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/unit-crosswalk.json",
+      "sha256": "42a679866b89949edb426b675124487340c8bb3c71c444b8c37331730eedcafd"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/validate-final.py",
+      "sha256": "dafcee41f5f3dd3b78de5010c70c9d3b18a98bb77e0dd81f75626a51a910ff23"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-travelling-jigsaw-atlas-2026-09-08/census.json",
+      "sha256": "47efa7242f8b44a711f94d540a9fc0ded90d5431f331136d0e481f281b9c3181"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-travelling-jigsaw-atlas-2026-09-08/inputs.json",
+      "sha256": "876544507b3f769cfcdbc3ddcc0b9a2390c2c06a0b217faa9623cf5f9babd897"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-travelling-jigsaw-atlas-2026-09-08/packet.json",
+      "sha256": "deda40671a5deb46b8a5b4642514ceed0e15015356c54ff3cd44d57b6cf91268"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-travelling-jigsaw-atlas-2026-09-08/queue.json",
+      "sha256": "4bc26430782721dfba9cb3ccaf18d9b344044e17710834613de8d6bd5adfe1f9"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-reference89-final-2026-09-08/assemble.py",
+      "sha256": "e7b8e50ea968c85c1afdb65d2418213db1f36237c74743d5c65c03c9fe2e546d"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-reference89-final-2026-09-08/inherited-paragraph-recheck.json",
+      "sha256": "f5669b29cdc3a0dc8c3f537f7af07a5c8233660c1c5ba384ab9c121f9fa8f941"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-reference89-final-2026-09-08/inspect-proof.py",
+      "sha256": "083bbbf28f4c9d53a3a30f5d3b2d4da71ae2ecea806f32392b245e01a8c8995f"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-reference89-final-2026-09-08/paragraph-recheck-counts.txt",
+      "sha256": "a6197276d15d8e571908f9dd62808dd8efc2fdcd5918966db060d955b62e7b19"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-reference89-final-2026-09-08/validation.json",
+      "sha256": "6720879b9a48a65cd1de5b9eed57cabf3b75d41a0c389e5181424645be5bb29c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-stained-glass-postreview-2026-09-08/census.json",
+      "sha256": "5a42ed9a8ca2e63f7b0f6691ec7a2f07c3d84c33c7ca2713db5cd704e3e2d06a"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-stained-glass-postreview-2026-09-08/packet.json",
+      "sha256": "c343017f67d6aba98ac3f32cb6dc8027a0e4ff025118667d33c596815bffc4c8"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-stained-glass-postreview-2026-09-08/queue.json",
+      "sha256": "e6c2c1d6b448e994f61a9de3ca711d818f07a9f892f2a0acd469872227731de6"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-world02-postreview-resume-2026-09-08/census.json",
+      "sha256": "128829eded20f0caad603e5c4347751f9735ee6e6835c1fbb435cbc96b004a4c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-world02-postreview-resume-2026-09-08/mytheme-goethe-permanence-change-packet.json",
+      "sha256": "8fd67ed60996bd0374b277fd9884c661658d50bbbd66a85b111a642cb8398b9c"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-world02-postreview-resume-2026-09-08/mytheme-job-packet.json",
+      "sha256": "2eafa8d9844de4a5e2d1c124c1e7f07977b7c5d124c9c24e30a3bcfaf15b81f1"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-world02-postreview-resume-2026-09-08/mytheme-the-prisoner-packet.json",
+      "sha256": "86afd773f5aa73ba1696eae84cc79d774e3930228eb5e3854e4c09609c233b6b"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-world02-postreview-resume-2026-09-08/queue.json",
+      "sha256": "db645471276eba5d11a79bad88f64427a251f2dd9fb9973b52bbb7a518e9ebad"
+    }
+  ]
+}

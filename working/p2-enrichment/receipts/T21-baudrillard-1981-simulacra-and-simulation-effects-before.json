@@ -1,0 +1,45 @@
+{
+  "root": {
+    "id": "baudrillard-1981-simulacra-and-simulation",
+    "title": "Baudrillard — Simulacra and Simulation (1981)",
+    "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Baudrillard — Simulacra and Simulation (1981)",
+      "Bibliographic identity",
+      "Chicago 18 forms",
+      "Source scholarship",
+      "Argument relations (candidate — for the harmonisation pass to weigh)",
+      "Passage needs (leads — no quotation text)",
+      "Open acquisition and verification"
+    ],
+    "sha256": "ad3d1ba7b955c314680389e0c7dd0a68ab1fe02194c6fd22fc1b8d7fe089238d",
+    "citation_status": "intake",
+    "quote_status": "no-excerpts",
+    "main_source_for": [],
+    "tags": [
+      "epi-logos/antikythera-essay",
+      "source-bank/record",
+      "source-bank/french-power-theory",
+      "source-bank/simulation"
+    ]
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

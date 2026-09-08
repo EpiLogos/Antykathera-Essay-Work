@@ -1,0 +1,45 @@
+{
+  "root": {
+    "id": "baudrillard-1976-symbolic-exchange-death",
+    "title": "Baudrillard — Symbolic Exchange and Death (1976)",
+    "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Baudrillard — Symbolic Exchange and Death (1976)",
+      "Bibliographic identity",
+      "Chicago 18 forms",
+      "Source scholarship",
+      "Argument relations (candidate — for the harmonisation pass to weigh)",
+      "Passage needs (leads — no quotation text)",
+      "Open acquisition and verification"
+    ],
+    "sha256": "f8dccbbedf183cf771a2ef25065b43a8e752f9a7d3e28abdffb177c58d412095",
+    "citation_status": "intake",
+    "quote_status": "no-excerpts",
+    "main_source_for": [],
+    "tags": [
+      "epi-logos/antikythera-essay",
+      "source-bank/record",
+      "source-bank/french-power-theory",
+      "source-bank/political-economy"
+    ]
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

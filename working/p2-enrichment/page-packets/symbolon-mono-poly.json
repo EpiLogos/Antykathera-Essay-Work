@@ -1,5 +1,21 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/dispatch-queue.json",
+    "queue_sha256": "58daf082cbeff7a8f46c38be645d2f55adad99e68d50212bbb031b30bf8f7a34",
+    "census": "working/p2-enrichment/census.json",
+    "census_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
   "target": {
     "record_id": "symbolon-mono-poly",
     "title": "Mono/Poly",
@@ -12,9 +28,10 @@
       "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md#4-root-symbolon--five-universal-relations",
       "working/p2-enrichment/CENSUS-RECONCILIATION.md",
       "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
-      "working/p2-enrichment/receipts/depth-acceptance.json"
+      "working/p2-enrichment/receipts/depth-acceptance.json",
+      "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+      "submission-package/essay/symbolon/README.md"
     ],
-    "packet_status": "awaiting-complete-36-depth-review",
     "record_type": "root-relation",
     "argument_depth": [
       "A02",
@@ -71,7 +88,8 @@
       "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
       "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
       "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/unit-social-power.md",
-      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md"
+      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md"
     ],
     "source_houses": [
       "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
@@ -87,7 +105,8 @@
       "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
       "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
       "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
-      "submission-package/essay/symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md"
+      "submission-package/essay/symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md"
     ],
     "source_slices": [
       {
@@ -169,7 +188,7 @@
       }
     ],
     "register_contract": "submission-package/essay/symbolon/README.md",
-    "register_contract_precedence": "Read the register README for office, page anatomy and three-register relation; its seven-row Root records table is superseded by the two accepted census decisions and working/p2-enrichment/CENSUS-RECONCILIATION.md. Only the five admitted root destinations are authorised. Derive #0–#5→0 from this record’s actual operation, never a universal semantic glossary.",
+    "register_contract_precedence": "Current locked Symbolon README and central-plan 2026-09-07 amendment control twelvefold root offices; supersede older five-root statements in recovery receipts.",
     "operation_to_develop": "Develop whole/many as mutual implication under the prior Two Ones. Preserve structural priority without temporal giant, sum, collective ego or sovereign distributor. The many remain real; non-monopoly requires accountable return and shared conditions, not uniformity.",
     "relations": [
       {
@@ -473,9 +492,14 @@
         "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
       },
       {
-        "path": "submission-package/essay/symbolon/dia-sym-ballein.md",
-        "kind": "admitted-root",
-        "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+        "path": "submission-package/essay/symbolon/matheme/dia-syn/dia.md",
+        "kind": "matheme",
+        "relation": "extends: exact dia operation within the current locked Dia/Syn folder; read distinct local derivation."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/dia-syn/syn.md",
+        "kind": "matheme",
+        "relation": "extends: exact syn operation within the current locked Dia/Syn folder; read distinct local derivation."
       }
     ],
     "reading_boundary": "All selected A packets are required, with their materially bearing direct and source-note carriers. Selection here names the actual root operations, not whichever Argument offers shortest context. Root-page prose should expose the relation and descend to formal, whole-Mytheme and Episteme homes without duplicating them.",
@@ -495,73 +519,32 @@
       "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
       "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md"
     ],
-    "binding_state": "inputs-bound-awaiting-page-review",
     "additional_required_inputs": [
-      "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
-      "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
-      "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
-      "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
-      "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
-      "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
-      "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
-      "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
-      "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
-      "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
-      "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
-      "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
-      "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
-      "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
-      "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
-      "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
-      "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
-      "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
-      "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
-      "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
-      "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
-      "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
-      "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
-      "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
-      "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
-      "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
-      "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
-      "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
-      "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
-      "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
-      "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
-      "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
-      "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
-      "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
-      "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
-      "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
-      "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
-      "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
-      "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
-      "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
-      "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
-      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
-      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
-      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
-      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
-      "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
-      "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORY.md",
-      "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
-      "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORY.md",
-      "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
-      "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
-      "submission-package/essay/section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md",
-      "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
-      "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
-      "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
-      "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
-      "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
-      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
-      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
-      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
-      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
-      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
-      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
-      ".agents/skills/return-of-zero-source/SKILL.md"
-    ]
+      "working/p2-enrichment/receipts/2026-09-07-input-amendment.md",
+      "the-return-of-zero-central-plan.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A02-prime-Continuity-as-Maintained-Identification.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A08-prime-Exclusion-That-Remembers.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A11-prime-One-Field-Two-Faces.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A12-prime-Against-Monoculture.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A13-prime-The-Cut-and-the-Gathering.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A18-prime-Traversal-Run-in-Code.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A19-prime-The-Local-Regime.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A21-prime-Individuation-with-Recognition.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A23-prime-Trust-under-Unpossessable-Interiors.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A24-prime-The-Usurping-Criterion.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A27-prime-Encounter-over-Sovereignty.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A28-prime-The-Authored-Session.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A29-prime-Return-or-Extraction.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A30-prime-Shared-Worlds-Unmerged.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A31-prime-Deference-as-Co-Evolutionary-Alignment.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A35-prime-Commons-Behind-the-System.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A36-prime-Integral-Zero-of-the-Hybrid-Society.md"
+    ],
+    "binding_status": "ready-for-target-preparation",
+    "packet_status": "target-packet-and-full-material-source-recovery-required"
   },
   "argument_depth": [
     {
@@ -711,264 +694,100 @@
       "sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
-      "sha256": "4e067676033fcf2dded66ed28f11c1018956c81c733beb005e2c2ef4f5125d9b"
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
-      "sha256": "0ea875902ff937ab8af1129bb2d3ad771973804542af4bd2033d591370706b40"
+      "path": "working/p2-enrichment/receipts/2026-09-07-input-amendment.md",
+      "sha256": "537bc2db6aaff46de3ef744d861db07ec8a91c85b77b06b73818f347d754558c"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
-      "sha256": "a610b22b093ac4329b38c2437318131a1d61b2b177988f8a8143321c0f0b975f"
+      "path": "the-return-of-zero-central-plan.md",
+      "sha256": "b9943891d131350cbfe5f7094ac7e0f5715caf474d53ad85eaf8231250a109b7"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
-      "sha256": "67511e97e20b4b1021b2f3675684508f094f754bf6c91f973c321b2f566b5f46"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A02-prime-Continuity-as-Maintained-Identification.md",
+      "sha256": "ef19f8ff73b6a2421c7a038e206823dfefabbb2612daccd1252a580dc1ebbf31"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
-      "sha256": "299ab83a839221571f58fbd577b18b0a18b4ca046a9a378109fe62332f6710ce"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md",
+      "sha256": "dcf59a86cf3b9faaac88f49a274314e3656dfbcf415f1601ad486c6bf5a3c737"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
-      "sha256": "f06f4c45c04d7699b9a6f241174a65215bad3ecaf2ec12faaf0fa35b753fafa5"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A08-prime-Exclusion-That-Remembers.md",
+      "sha256": "d51a3e68d8b715e7fb7e809b4ca3a9e2aed0cc0369c802474480dc774ba30f4a"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
-      "sha256": "d9a9c58ca7eb5c6a4be9480382d7bd7b92fb901900ed4744b0d31ffa71d1e32b"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+      "sha256": "6c2608e9467a6242e3f5d2dc57a4dc5e78ed06f1dc65c889ae0d319a8147ccca"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
-      "sha256": "8ce1e9ad11541e3b4765935120b0ccebd6d1d36293fd971b9be12ad921aa1438"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A11-prime-One-Field-Two-Faces.md",
+      "sha256": "0763ee84b848ee9af2416ec976dc818ed016a21d7211245965421243bafea1d2"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
-      "sha256": "98fb7597aae77524a40ff046da09ee7be69d03611de46cb9ec1825319926bda4"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A12-prime-Against-Monoculture.md",
+      "sha256": "f439613ea5c75ef26d51c90353213ed48fdd12be35ff3e7fef3c02b4cf1fe0c8"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
-      "sha256": "4430a2ce888f6dab0d5805fbdfd762432fa8c199554bd7e832d307d88750ca62"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A13-prime-The-Cut-and-the-Gathering.md",
+      "sha256": "d48a22ff94bcaa8ff063633dbf579d373898d9216e039039e3c03e1079abcf90"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
-      "sha256": "7ee07a2b21fade1451767f57dcecddcf8a04ddcc0d72ef05e64e59fc4d710b30"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A18-prime-Traversal-Run-in-Code.md",
+      "sha256": "24b006a4376926bfd58d805f5f2c1fca769dc715edcc5f23a06fb7b674bd8bb6"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
-      "sha256": "1775afd3ce3a755b0c2ad74d5ccef1d979747b6d8a624f9ee1320e61bed61ed7"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A19-prime-The-Local-Regime.md",
+      "sha256": "03317ec68cee897bb37be07497514395cd88cf0356654d7d80943cbdeebcc4df"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
-      "sha256": "dc3b8f850b2d1084f35c36f3c6fd31b8870702156f60e967a489e22cbe56f8bf"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A21-prime-Individuation-with-Recognition.md",
+      "sha256": "1c0a5b3b497f371e7c524c458b30bf62163068e83e7be355ff3cb5331adfed44"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
-      "sha256": "807cd0c0e243a96363f7e7560096e14cb853ee22f774a9004b2ec375efd3104b"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A23-prime-Trust-under-Unpossessable-Interiors.md",
+      "sha256": "503258621c0215f80311507482c7de00f71a7604e2873f4edbde7832bf8fdb90"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
-      "sha256": "ba08fd96e7c50e3866580118efb4f2cdee1ce5c0c3a512e922296246ed108dd3"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A24-prime-The-Usurping-Criterion.md",
+      "sha256": "379e3c3fdf525b6248778bc8e592e37839252008a6dd9d660bfc7d6d637d03a5"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
-      "sha256": "f512634a1dcb6c469d02096d7cad7cd40aa29dee666d5422fa4389e615a01c67"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A27-prime-Encounter-over-Sovereignty.md",
+      "sha256": "3d4478ce8219d86d1c41a270197efc7f54e6e3d7ebab8defbf92e61968530b60"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
-      "sha256": "c9c1f2aba6712483ea67188b03ebdfa4d0d4ec19870a69e396c7eda4b6cc12a2"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A28-prime-The-Authored-Session.md",
+      "sha256": "57ae3394176bb2439a880b8f2a0a8142fd837e8ff45e9a2b92777f7d1ac208f8"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
-      "sha256": "5f88cd8d69c7ef40483c3e038a11c0c4d877c410eddc84ef5de50622cb30cddf"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A29-prime-Return-or-Extraction.md",
+      "sha256": "0bb6581ae2597ed5affaa4ba5c9f5ef66ef8ce824779daf273a4e94514af9ec3"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
-      "sha256": "be232dc9b3d66648226ec4866b01b84da9777440d3f89056210697dbc21e1663"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A30-prime-Shared-Worlds-Unmerged.md",
+      "sha256": "96c6cefb46cf10d6096fe5c1ddb910cd8d410086063345b33bb75304ff705405"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
-      "sha256": "3c5c0c0ebde854255332bff0a08c9d7195da8d547808c6334cabcc34c59ed353"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A31-prime-Deference-as-Co-Evolutionary-Alignment.md",
+      "sha256": "6744092c62986a73c5ac9dcfad2fb314d7b8814e05f985e9d40141222666a413"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
-      "sha256": "65ea295ec3e28a0d9514d3cd16eba49dbb57dc6906950ba9687d8c189cf2922a"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md",
+      "sha256": "183aecc363c36dc0f52e781b5741f126bf37af94e55e124a7791ee06131baf6a"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
-      "sha256": "1ed640fe2cfa40b5505897944b551f0e00735e022ba859f703f9cdadbfaf0709"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A35-prime-Commons-Behind-the-System.md",
+      "sha256": "8317fa88dc600afd8f0da2f18812e3dcf55c9224e204ebbcbf9be6da0b28566b"
     },
     {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
-      "sha256": "7802d1411828c59f282e00a3709aa1547da721ea03038eaa20f373d0fb7b3e1e"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
-      "sha256": "a577a277c80627b4b6d95814ee0ebeb23c39627eff0e9bc585299f714a4a8b67"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
-      "sha256": "424e2e18a6157718cd7ab908f7d9b9f2e029a6ccd9f9c97a833bf53cad0e9c76"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
-      "sha256": "565bfcc56571dbf55965834c9e2f6b4e52c9c0bbac4a7e7e1028a1319d58a9e2"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
-      "sha256": "babb43586d369788d3d396901c96b1189d418229d4a7cd6dd4beca41e0c46793"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
-      "sha256": "998aa34d5d6565baf78e2de8f3f6766b2eb34c4cdd88e382794337414e602844"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
-      "sha256": "3e57148deac1d8a9d45b08a733e2eddf01819a44b9efcc78961b1943e115216b"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
-      "sha256": "c50db9b5594fc13cd85e0a34238c26392d0199224de114bcc32528c2f3f232b2"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
-      "sha256": "2195b86b6d38a11c6b6238a430eeb92cc5aa62f690d0d0ce137e57cef9551bce"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
-      "sha256": "24728843947eb62665e43f0592a346162fbc856ff36a08390549706a0cc1e4c9"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
-      "sha256": "3ae6220ae9714033544c297cee2fe187ba49f232a9bbbbddbbd09aeba4ce5934"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
-      "sha256": "40d459ace27a41877e46e47bf1153c98c5bba688a575f4133ea4fc25e13fa3a1"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
-      "sha256": "3e4b4a26667ea062fa734c202f358b91e294ca0adb7b970de9e6668deb1377be"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
-      "sha256": "780e12bb91a3324aceb5c6c1df17efc2d8310d00886557440bb6b6d4083ee7f8"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
-      "sha256": "38c74ce4ee20cc9504a31714f79aa9b48ad4e5f53d923d2222a0aadbc2b8184a"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
-      "sha256": "5f08a9d401e2e6cb73da39a5a0735208b513209a5000e8077766bcdaa9ae8129"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
-      "sha256": "e86f05b44c3d7e4dcb760d9a38928fa75bc1412ebaa29e29140c528580431957"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
-      "sha256": "ad85b92bf0f18ad7afb1269b8628adba6c9627f91a27dbf669bd644609e4aefb"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
-      "sha256": "cc40e31e97616c99dc428d0b41bd5b8fdc5803631329562b0057f91db06807f0"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
-      "sha256": "10f51ccc557fb7571d1dc58b2d2f5cea77da1233dfc85f2d94e0d90333d1101a"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
-      "sha256": "ef56b85de5898c7d4caeda35634bb3be0ba139b76c5867fb1dea4d6295d32448"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
-      "sha256": "0bbb5ef1fac69d46a68d05cb1d32b471c48147213e4d610183f003b5db78b343"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
-      "sha256": "a46b2a8233e9cf86e93eefbe86fcc7668794632787ec54c4ead6a93dd5ae74fe"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
-      "sha256": "1c1eb2a47466036834b6963fa4fbb72a36b3f1531fd24b559276a01db1c36646"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORY.md",
-      "sha256": "1b7b2439c7922798dbecd89373f8c4f770a418c83d65bfcecc28415aaa2f8004"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
-      "sha256": "f16b5379f11032c4ab561c418ead2619d7f43da4c3f4e89882ad3280e1c5e587"
-    },
-    {
-      "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORY.md",
-      "sha256": "9016a69d55822318e8c5cbc9bfceb59861b224047db3baeef194f9f4dbc581b1"
-    },
-    {
-      "path": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
-      "sha256": "7dc548c19f4665e8ec2333912b68c8b8b174fff584a3066e427c2a2cc5aae289"
-    },
-    {
-      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
-      "sha256": "8ae6e81dc6fd0a33b6bab25b74f4f720e531a697e02c7240af303f5a43dc7c43"
-    },
-    {
-      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md",
-      "sha256": "5f9b785598f414d479beb08dcd2dfb231c07cb30f4055e0984617d8252e62320"
-    },
-    {
-      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
-      "sha256": "e49bce5baec0297564dc9bbc093c7197f08d8794cd983bc56df73456596550e8"
-    },
-    {
-      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
-      "sha256": "c8fe92f1b38aaf7a2aac24087208da2817d91a899da737bd2b3ce1d39c708167"
-    },
-    {
-      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
-      "sha256": "9ed888f67da1fe3ddeec65e313886128284aaf4e029557ee0ade0a1630dced44"
-    },
-    {
-      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
-      "sha256": "5803b2e53eec2b5954e94e204a6b52c54a2bbce4fb62f6535d76a6fe8e7b0337"
-    },
-    {
-      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
-      "sha256": "57d6671ffb33dbb5a8062fe7297fb2353e181b800db979e1b0d919d9372b8324"
-    },
-    {
-      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
-      "sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1"
-    },
-    {
-      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
-      "sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2"
-    },
-    {
-      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
-      "sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192"
-    },
-    {
-      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
-      "sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c"
-    },
-    {
-      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
-      "sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64"
-    },
-    {
-      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
-      "sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff"
-    },
-    {
-      "path": ".agents/skills/return-of-zero-source/SKILL.md",
-      "sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7"
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A36-prime-Integral-Zero-of-the-Hybrid-Society.md",
+      "sha256": "4edb4f20345033196e46746b574436030567c0fc66b55d452291c224bcc436e7"
     },
     {
       "path": "submission-package/essay/symbolon/README.md",
-      "sha256": "12e730b7983bdd880378ca543c995ca1d67e045e854e4812ef69a133da814d8b"
+      "sha256": "5f791a4ab8af5a15917c75351dd6d66ebc2a346a5816d4a968e680aa2101470c"
     },
     {
       "path": ".agents/skills/return-of-zero-pages/SKILL.md",
@@ -982,7 +801,7 @@
   "sources": [
     {
       "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
-      "source_sha256": "9f5a46d9adc123828b838b3f63b7cd112990f8ac11e85e58686eb3617d145785",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
       "notes": null,
       "notes_sha256": null,
       "notes_policy": "read in full; authorial provenance; never mutate"
@@ -1045,7 +864,7 @@
     },
     {
       "source": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
-      "source_sha256": "41f35044efcf9e5146cd20c54f5d127a11021b83206ce38cbc9410551ce0f19d",
+      "source_sha256": "2f651603974204647249c7a91023cf6edc4008c5bf839b9310cb0070d868fd3d",
       "notes": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
       "notes_sha256": "768da367dfd6ece009bc1c6717e64156d3ac16e38b570e513ae95939c6e7bc0f",
       "notes_policy": "read in full; authorial provenance; never mutate"
@@ -1074,6 +893,13 @@
     {
       "source": "submission-package/essay/symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md",
       "source_sha256": "887929c95fd9dcd9d77988598e3929d1dad740d88e360dfc42e15a32741c13fe",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "source_sha256": "0c16ad20b0855d542ed39597df33fc56fa97a85358c9e9a93951f88c6324b885",
       "notes": null,
       "notes_sha256": null,
       "notes_policy": "read in full; authorial provenance; never mutate"

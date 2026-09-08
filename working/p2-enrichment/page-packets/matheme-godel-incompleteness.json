@@ -1,0 +1,476 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/dispatch-queue.json",
+    "queue_sha256": "58daf082cbeff7a8f46c38be645d2f55adad99e68d50212bbb031b30bf8f7a34",
+    "census": "working/p2-enrichment/census.json",
+    "census_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "matheme-godel-incompleteness",
+    "title": "Scoped Gödel incompleteness",
+    "register": "matheme",
+    "record_type": "matheme",
+    "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/godel-incompleteness.md",
+    "wave": "T19",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#4-matheme-census",
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+      "working/p2-enrichment/receipts/depth-acceptance.json",
+      "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+      "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+      "submission-package/essay/symbolon/matheme/README.md"
+    ],
+    "packet_status": "awaiting-complete-36-depth-review",
+    "binding_state": "inputs-bound-awaiting-page-review",
+    "argument_depth": [
+      "A01",
+      "A03",
+      "A18",
+      "A23",
+      "A33",
+      "A36"
+    ],
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "submission-package/essay/symbolon/episteme/concepts/reference-notes/godel-incompleteness.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/raatikainen/raatikainen-2026-godel-incompleteness-sep/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "start_line": 167,
+        "end_line": 188,
+        "relation": "Whole eight-determination placement controls local native interpretation; this is not a six-heading semantic recipe.",
+        "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/godel-incompleteness.md",
+        "start_line": 1,
+        "end_line": 46,
+        "relation": "Bounded formal-limit genealogy.",
+        "provenance": "Whole local carrier required for this target; its status and provenance remain those declared in the file."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md",
+        "start_line": 53,
+        "end_line": 104,
+        "relation": "Ready German historical context cards do not supply full English theorem.",
+        "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/raatikainen/raatikainen-2026-godel-incompleteness-sep/SOURCE.md",
+        "start_line": 51,
+        "end_line": 102,
+        "relation": "Technical scope and no absolute provability boundary.",
+        "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/matheme/README.md",
+    "register_contract_domain": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+    "operation_to_develop": "State first and second incompleteness under effective axiomatization, consistency and adequate arithmetic; distinguish undecidability relative to theory from absolute unprovability.",
+    "proof_standing": "Scoped established theorems; larger formal-limit relation Argued",
+    "evidence_boundary": "1931original stronger hypothesis and modern Rosser form must not silently merge. Second theorem needs the relevant derivability/formalisation conditions. No proof of subject, God, consciousness, mind beyond computation or QL immunity.",
+    "blockers": [
+      "Exact theorem hypotheses must be recovered from full technical source before publication; current abbreviated quotation cards omit them. Selected English translation of SatzVI/XI remains Open."
+    ],
+    "binding_status": "ready-for-target-preparation-with-explicit-evidence-debt",
+    "relations": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      }
+    ],
+    "writing_obligations": [
+      "Read every selected A packet and materially implicated direct carrier; source/depth receipts are locators, not substitutes for the actual text.",
+      "Read SOURCE.md and all present sibling NOTES in full; never mutate protected NOTES or treat its quotation leads as verified passages.",
+      "Derive the raw #0/#1/#2/#3/#4/#5→0 from this operation. Do not use fixed Definition/Operation/Pattern/Context/Quintessence labels.",
+      "Write exact outward and return relations using the link skill permitted verbs; input-context relation descriptions are not ready-made publication prose.",
+      "The native eightfold, 4+2 cardinality, 4:2 orientation and3:3/3:1 recognition readings keep separate operations. Native X/x is never attributed to Jung.",
+      "A narrow evidence blocker restricts the unsupported claim/quotation, not the existing native QL proposition. No measurement, experiment or restoration discharge is certified by packet preparation.",
+      "Apply the concrete corrections in shared-source-recovery-a13-a24.md and shared-theorem-support-recovery.md wherever their claims are used; do not restore an error merely because it is older authored/developmental prose.",
+      "Definition and quilt preserve the short definitional chain 0/1 = 4+2 = 5→0 = 0/1; process and music preserve the full earned chain 0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1. Name the vantage when both enter a record.",
+      "File 2 primes name inverse-phase positions; File 3 §5→0 primes name the Night-pass sequence. Keep their meanings explicitly distinguished, including where both passages are inputs.",
+      "The core-theorems spine is the curated extraction set: preserve its later 3:3-also-3:1, additive-constant and native eightfold refinements; the four files condition the field without wholesale duplication into the essay."
+    ],
+    "supporting_receipts": [
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "working/p2-enrichment/receipts/matheme-locked-structure-recovery-2026-09-07.md",
+      "working/p2-enrichment/receipts/2026-09-07-input-amendment.md"
+    ],
+    "additional_required_inputs": [
+      "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+      "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+      "submission-package/essay/section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md",
+      "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      ".agents/skills/return-of-zero-source/SKILL.md"
+    ]
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A01",
+      "path": "working/p2-enrichment/argument-depth/A01.md",
+      "sha256": "cf90a1fb09c619f8829858a7c5dda50e8f29abf61edf1a2e142dcbf4f77f63e8"
+    },
+    {
+      "argument_id": "A03",
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "sha256": "12d3a0999ffec60d963f055cdbb1a857025a70f2a7bb46641eca20bb187b9b41"
+    },
+    {
+      "argument_id": "A18",
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f"
+    },
+    {
+      "argument_id": "A23",
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3"
+    },
+    {
+      "argument_id": "A33",
+      "path": "working/p2-enrichment/argument-depth/A33.md",
+      "sha256": "61ffc1d702894cd6f35cda9b489cf5da6a8e4103c1153e495ce23917cd4c6285"
+    },
+    {
+      "argument_id": "A36",
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/godel-incompleteness.md",
+      "sha256": "33ef570d85462899c20fad8a217f33434ccdbbbe9c390101424839db9695e905"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md",
+      "sha256": "9432bac7a477dc95d3b231f727ab59e1484a24ffbdb8c68afa7964d6e14ceeaf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "sha256": "071bb9b17daaecd29d69b91b1ff26236baf5426ca71b0bdc1ef3aa950ec024a4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "sha256": "575b30a9d9fc68ed1f2ccfaf92ad4af4692625dc64a0fc052b2f81ce90b8941e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "550bd175ca1d69d9d4f9bf74d443748059c5a4918f9bfddd94fa1e08f63d4493"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "sha256": "985aecd4befc06336c2fa090a0f014f19e36814804e696246ff6379b31c39f62"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "sha256": "bf4fb3347e7341cf5f3327e5e6fd7872d603fb3a2d5223de6531e8bb3e69a469"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "sha256": "28d726c301f4a3ecd09b1267be1e5fb7ba981699adb1851a943047619e255c24"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+      "sha256": "ba5a7f839e2b944620070c5f7322694fea54ea9222719419939343504b6393c3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+      "sha256": "3d5c2b11c38cd256dc7231697eac5ca08d8e45dc70f73f3f9dc55cc36dd07aa0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "sha256": "724e422c9ef3786ba69c3e431d637a21cd624a06f3259e45ece5a8f011ba009c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "sha256": "805dbb09d1caf690bf55ec539e0e3ca998af022f1a9f02f6158c2255a449738a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "sha256": "10f51ccc557fb7571d1dc58b2d2f5cea77da1233dfc85f2d94e0d90333d1101a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "0bbb5ef1fac69d46a68d05cb1d32b471c48147213e4d610183f003b5db78b343"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+      "sha256": "b530405f2f19fa8d9f5e002c709b846df58bf9519cce8c8c5359ce13c5dc1db0"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/27-s3-p2-mark-reentry-complex.md",
+      "sha256": "9767bb2a7b7bc287e1efc7ed624b024ada3c3686567cc98a9b33c49c905de7eb"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+      "sha256": "58864e41536c7857c3f668663fd7e8224de16a895fd260972c5742188f2fba81"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "sha256": "574ae93b228b104b993cb584af147a21adb1134509d15cee157a740be6de6852"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/README.md",
+      "sha256": "115fa742d9d40ae3c283214b6f43bb679f7489a7baab862a1e99051f9ed69ec4"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+      "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md",
+      "source_sha256": "9d8af269d2a8d49db9074be95c2c75b0c964e7ee579f4da1cf16c924696f231f",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/raatikainen/raatikainen-2026-godel-incompleteness-sep/SOURCE.md",
+      "source_sha256": "097c668b2d2dd558080393a31e2d61cc8de4fe302f1388748499f0b9083fb4ee",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "source_sha256": "0c16ad20b0855d542ed39597df33fc56fa97a85358c9e9a93951f88c6324b885",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "start_line": 167,
+      "end_line": 188,
+      "relation": "Whole eight-determination placement controls local native interpretation; this is not a six-heading semantic recipe.",
+      "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing.",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "text": "## (c) The eight determinations — one relation traversed from field to return\n\nThe six-position QL unit and the eight determinations answer different questions and must remain distinct. The **sixfold** is the generative positional body: the two implicate poles and four explicate relational states yielded by `2 + 2² = 4 + 2 = 6`. The **eightfold** gives that body its full threshold-to-return traversal: the unnamed parent-relation before a determinate field, the six qualitative determinations, and the phase-flip by which their achieved form turns back toward its condition. One relation—unobjectifiable awareness and appearing phenomenon, ground and mark—takes on each distinct operation required for a knowing-act to become accountable without pretending to stand outside itself; detaching the binaries or treating them as serial replacements destroys the traversal.\n\n| Turn | Expression | QL determination and its work | What remains invariant through the change |\n| --- | ---: | --- | --- |\n| **Parent relation** | `/ = −/−` | Bare relationality before the field has been divided into named terms: the stroke is its own determination form, two unassigned marks held in one expression, the capacity for relation prior to a determinate contrast. It is the unnamed parent of the six, not an additional position among them. | The relation has a condition that cannot appear as one more product of the relation. |\n| **#0 Ground** | `0/1` | **Awareness / phenomenon; conscious circumstance.** “I am here; something appears; the appearing is known.” `0` names the open, unobjectifiable fact of awareness; `1` the appearing mark; `/` the relation by which the real becomes readable without being exhausted by its readability. Appearing is in awareness, and awareness is encountered only through appearing; the relation precedes any picture of two completed substances separated by a wall. | The ground is immanent to every mark without becoming another positive mark or a hidden object behind it. |\n| **#1 Definition** | `?/!` | **Questioning / asserting; ratio, reckoning, mark.** To ask “what is this?” already asserts that something has appeared stably enough to call for account; to assert “this is” keeps open the question of whether the account runs true. Definition is therefore double: openness to determination and determinative speech. It marks while remaining answerable to what called for the mark. | Every assertion bears the unsettled question that makes it accountable; every genuine question already takes a provisional mark. |\n| **#2 Dynamis** | `−/+` | **Withdrawal / extension; force, polarity, Spanda-seed.** The relation becomes energetic: one side functions as reserve, contraction, withholding; the other as issue, release, presentation. The positive is the void’s own self-relation appearing as extension. The poles form a sustained pulse whose moments remain co-present—breath gathers and releases; attention contracts around a word and opens into sense. | The two poles remain one differentiating movement: distinction has force without becoming a war of independent substances. |\n| **#3 Pattern** | `X/x` | **Determining-capacity / determinate instance; recurrence.** Capital `X` is the presiding capacity, type, or anything-by-which something can be read; lower-case `x` is its temporal local face. The same letter, in two cases, prevents the instance from being severed from the capacity it manifests. The small `x` also retains multiplication: an instance can recur, compound, and yield “another one of those.” Pattern is where force becomes recognisable as kind, rhythm, memory, and thought. | The local instance makes the general legible but neither contains nor exhausts it. |\n| **#4 Context** | `AM/IS` | **First-person presence / third-person sayability; the personed copula.** `AM` is lived “I am”; `IS` is what can be stated as “it is”; the slash is the second-person relation through which they meet. Context is the lived *where* of this encounter—world, body, concern, speech, memory, task—not a neutral container. It is total because nothing appears outside some horizon, and incidental because that horizon does not ordinarily stand forth as one more object. | Knower, means, and known remain one appearing-act without becoming interchangeable: *pramātṛ / pramāṇa / prameya*. |\n| **#5 Realisation** | `∞/dx` | **Unbounded depth / infinitesimal differential; horizon and local exactness.** `∞` names the inexhaustible field no finite mark contains. `dx` is no longer merely the instance `x` but the minute difference through which change and local reading become exact. Every appearance is therefore a true local ratio of what exceeds it: precise as relation, partial as expression. The whole is not hidden inside the part; it is present in the way the part runs true to what it cannot enclose. | Exactness never becomes possession. A finite determination remains answerable to the depth that makes it possible. |\n| **Return-switch** | `1/0` | The achieved determinate turns toward the ground it presupposes and meets the incomputable rather than an object called “the ground.” The mental cannot find the foundation of the mental, because every act of finding already occurs through it. This is *pratyabhijñā*: recognition, not acquisition. | The limit is generative: `5→0`, the return through ground that renews a further cycle rather than cancelling the determination. |\n\nThe table fixes the actual order of determination. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their meanings and prevent them from becoming decorative or interchangeable correspondences.\n\nThe six also have internal grammar. **Being** joins Ground and Definition: a field is present and can be called to account. **Becoming** joins Dynamis and Pattern: force becomes intelligible as recurrence, while recurrence stays alive only as force capable of further instance. **Knowing/unKnowing** joins Context and Realisation: lived predication becomes honest only when its horizon exceeds every situated claim. Across this forward harmonic grouping run the complementary folds: **Essence** (`0+5`) pairs conscious circumstance with unbounded differential depth; **Constitution** (`1+4`) pairs answerable definition with the world in which someone asks and asserts; **Text-Texture** (`2+3`) pairs the felt weave of force with its readable pattern. The six positions are thus neither a linear ladder nor a flat catalogue.\n\nThe calculus turn makes the final determination mathematically exact. Differentiation yields local change while losing the additive constant; integration restores a family `F(x)+C`, with no single self-grounding whole selected by the local derivative alone. The missing `C` is the formally required provenance that local change cannot reconstruct; mystical surplus and defective calculation are both unnecessary explanations. The psychological and metaphysical claim begins there: a determination can be exact without containing the whole condition from which its exactness was taken.\n\n**QL placement.** `/ = −/−` and `1/0` bracket rather than enlarge the six positions. `/ = −/−` is the parent-relation before the count; `1/0` is the inversion through which the counted form recognises the ground that never became one of its contents. Within the bracket, `0/1`, `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` are the first qualitative body of the `4+2`. This preserves the distinction between the eight-turn traversal and QL's sixfold base count: Jung's four functions plus introversion/extroversion can disclose the same psychological `4+2`, while the fuller account can still traverse from pre-distinction, through conscious circumstance, to the incomputable return."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/godel-incompleteness.md",
+      "start_line": 1,
+      "end_line": 46,
+      "relation": "Bounded formal-limit genealogy.",
+      "provenance": "Whole local carrier required for this target; its status and provenance remain those declared in the file.",
+      "sha256": "33ef570d85462899c20fad8a217f33434ccdbbbe9c390101424839db9695e905",
+      "text": "---\ntitle: \"Gödel Incompleteness\"\naliases:\n  - \"Gödel Incompleteness\"\n  - \"Gödel — Incompleteness Theorems\"\nnode_type: \"reference\"\nlifecycle_status: deprecated-legacy\ncanonical_source_bank: \"[[Return of Zero Source Bank Index]]\"\nreference_kind: \"logic\"\nsource_status: \"source-synthesized\"\nverification_status: \"primary-source-check-required\"\ntags:\n  - epi-logos/antikythera-essay\n  - argument-map/reference\n  - argument-map/formal-limit\n---\n# Gödel Incompleteness\n\n> [!summary]\n> Gödel establishes a precise internal limit for sufficiently expressive formal systems. The essay uses that theorem as one member of a larger formal-limit genealogy, never as a proof of consciousness, God, or QL.\n\n**Reference kind:** logic. **Evidence status:** source-synthesized; theorem statement and quotation wording require primary-source verification.\n\n**Master context:** [[The Return of Zero — Central Argument Plan#§0/1 · #3 — The formal-limit genealogy: paradox, incompleteness, silence, creativity]].\n\n## Permitted claim\n\nFor any consistent, effectively axiomatized formal system strong enough to express the relevant arithmetic, there are statements undecidable within that system; under the appropriate conditions, the system cannot establish its own consistency from within.\n\n## Argumentative use\n\n- **Extracted:** formal completeness and internal self-assurance are limited under precisely stated conditions.\n- **Argued:** a sufficiently articulate formal frame can generate questions about its own operation that it cannot settle by routine continuation inside that frame.\n- **Not licensed:** that every system is incomplete; that human minds transcend computation; that Gödel mathematically proves the unobjectifiable subject; or that QL evades incompleteness.\n\n## Relation to the genealogy\n\n[[Russell — Paradox and Type-Theoretic Closure]] restricts problematic self-reference. Gödel shows that restriction and axiomatization do not purchase complete internal closure. [[Wittgenstein — Limit, Silence, and Forms of Life]] tracks what formal saying cannot state about its own conditions. [[Whitehead Creativity]] interprets non-closure processually as the opening through which novelty becomes real.\n\n## Source trail\n\n- Kurt Gödel, “Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I” (1931).\n- [[claude-fable-full-chat-end-12-7-2026]] — derivational history and scope warnings.\n- [[working/sources-texts-references/10-7-2026-core-theorems-pithy]] — QL's internal use of the incomputability/remainder motif.\n\n**Use rule:** no quotation or theorem paraphrase enters the essay until checked against a primary or authoritative technical source."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md",
+      "start_line": 53,
+      "end_line": 104,
+      "relation": "Ready German historical context cards do not supply full English theorem.",
+      "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well.",
+      "sha256": "9d8af269d2a8d49db9074be95c2c75b0c964e7ee579f4da1cf16c924696f231f",
+      "text": "## Essay use\n\nPrimary theorem source for precise internal limits on consistent, effectively axiomatized formal systems sufficiently expressive for arithmetic. It supports neither a generic “everything is incomplete” claim nor a proof that mind, God, QL, or the subject transcends computation.\n\n**Passages available:** short primary German context and scope excerpts are contained in the passage cards below. A fixed English translation of Satz VI and Satz XI remains a deferred burden; `raatikainen-2026-godel-incompleteness-sep` supplies a separate current technical scope source.\n\n## Passage preparation\n\nExact text and consumer mappings: [Quotes — Gödel Undecidable Propositions (1931)](#passages).\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\n### Material metadata\n\n- **Edition consulted:** Kurt Gödel, ‘Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I,’ Monatshefte für Mathematik und Physik 38 (1931): 173–98.\n- **Access provenance:** Springer publisher record and HTML rendition, accessed 2026-07-14.\n\n<a id=\"godel-1931-undecidable-propositions-q001\"></a>\n## Passage card — `godel-1931-undecidable-propositions-q001` — formal incompleteness context\n\n> Unvollständigkeit, welche allen formalen Systemen der Mathematik anhaftet.\n\n- **Locator:** note 46, original German article.\n- **Status:** quotation-ready.\n- **Verification:** Luna acquisition agent, 2026-07-14; manually transcribed from publisher text; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** contextualises.\n- **Argument function:** historical fact.\n- **Consumers:** [[04-s01-p3-formal-limit-genealogy]]; [[01-immutable-gap-and-meta-sign]]; [[15-paradox-as-cross-register-hinge]]; movement 4 primary formal context.\n- **Use boundary:** confirms only the article's formal/metamathematical discussion of incompleteness and extension; it is not a claim about a metaphysical remainder.\n\n<a id=\"godel-1931-undecidable-propositions-q002\"></a>\n## Passage card — `godel-1931-undecidable-propositions-q002` — axiomatic scope\n\n> Zu den Axiomen des Systems PM rechnen wir insbesondere auch.\n\n- **Locator:** note 1, original German article.\n- **Status:** quotation-ready.\n- **Verification:** Luna acquisition agent, 2026-07-14; manually transcribed from publisher text; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** qualifies.\n- **Argument function:** limitation.\n- **Consumers:** [[04-s01-p3-formal-limit-genealogy]]; [[15-paradox-as-cross-register-hinge]]; movement 4 theorem-scope control.\n- **Use boundary:** the article specifies a version of *Principia Mathematica* and axioms under discussion. It does not show that all reasoning fails or establish mind, God, QL, or zero beyond formal systems. A fixed English translation of Satz VI and Satz XI remains deferred.\n### Passage metadata register\n\nThese source-specific fields were gathered before consolidation and remain part of this source's evidence record.\n\n| `godel-1931-undecidable-propositions-q001` | `godel-1931-undecidable-propositions` | note 46 | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[Paradox as Cross-Register Hinge]] | primary historical/formal context | [Quotes — Gödel Undecidable Propositions (1931)](#passages) |\n\n| `godel-1931-undecidable-propositions-q002` | `godel-1931-undecidable-propositions` | note 1 | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[Paradox as Cross-Register Hinge]] | scope limitation | [Quotes — Gödel Undecidable Propositions (1931)](#passages) |"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/raatikainen/raatikainen-2026-godel-incompleteness-sep/SOURCE.md",
+      "start_line": 51,
+      "end_line": 102,
+      "relation": "Technical scope and no absolute provability boundary.",
+      "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well.",
+      "sha256": "097c668b2d2dd558080393a31e2d61cc8de4fe302f1388748499f0b9083fb4ee",
+      "text": "## Essay use\n\nRaatikainen supplies the contemporary technical scope statement for §0/1 #3 and directly corrects a common overreading of the first incompleteness theorem. It is a companion to, not a replacement for, Gödel's 1931 article.\n\n**Claim boundary:** it does not establish the essay's formal-limit synthesis, an unobjectifiable subject, QL, or a metaphysical zero.\n\n## Passage preparation\n\nExact text and consumer mappings: [Quotes — Raatikainen Gödel Incompleteness (2026)](#passages).\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\n### Material metadata\n\n- **Edition consulted:** Panu Raatikainen, ‘Gödel’s Incompleteness Theorems,’ Stanford Encyclopedia of Philosophy, Spring 2026 Edition.\n- **Access provenance:** Stanford Encyclopedia of Philosophy Spring 2026 archival edition, accessed 2026-07-14.\n\n<a id=\"raatikainen-2026-godel-incompleteness-sep-q001\"></a>\n## Passage card — `raatikainen-2026-godel-incompleteness-sep-q001` — scoped incompleteness\n\n> Any consistent formal system F … is incomplete.\n\n- **Locator:** §1.1, “First incompleteness theorem,” paras. 3–4.\n- **Status:** quotation-ready.\n- **Verification:** Luna acquisition agent, 2026-07-14; direct manual transcription from the fixed Spring 2026 HTML edition; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** formal mechanism.\n- **Consumers:** [[04-s01-p3-formal-limit-genealogy]]; [[01-immutable-gap-and-meta-sign]]; [[15-paradox-as-cross-register-hinge]]; movement 4 precise theorem scope.\n- **Use boundary:** supplies a modern technical scope statement, not a wording of Gödel's 1931 theorem or a proof of an unobjectifiable subject.\n\n<a id=\"raatikainen-2026-godel-incompleteness-sep-q002\"></a>\n## Passage card — `raatikainen-2026-godel-incompleteness-sep-q002` — no absolute provability claim\n\n> Not … provability in any absolute sense.\n\n- **Locator:** §1.1, immediately after the first-theorem statement.\n- **Status:** quotation-ready.\n- **Verification:** Luna acquisition agent, 2026-07-14; direct manual transcription from the fixed Spring 2026 HTML edition; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** qualifies.\n- **Argument function:** counterposition.\n- **Consumers:** [[04-s01-p3-formal-limit-genealogy]]; [[15-paradox-as-cross-register-hinge]]; movement 4 anti-overreach control.\n- **Use boundary:** blocks a generic “truth cannot be proved” reading; it does not settle broader philosophical or metaphysical questions.\n### Passage metadata register\n\nThese source-specific fields were gathered before consolidation and remain part of this source's evidence record.\n\n| `raatikainen-2026-godel-incompleteness-sep-q001` | `raatikainen-2026-godel-incompleteness-sep` | §1.1, paras. 3–4 | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[Paradox as Cross-Register Hinge]] | technical warrant | [Quotes — Raatikainen Gödel Incompleteness (2026)](#passages) |\n\n| `raatikainen-2026-godel-incompleteness-sep-q002` | `raatikainen-2026-godel-incompleteness-sep` | §1.1, following theorem statement | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[Paradox as Cross-Register Hinge]] | counterposition | [Quotes — Raatikainen Gödel Incompleteness (2026)](#passages) |"
+    }
+  ],
+  "raw_skeleton": "# Scoped Gödel incompleteness\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

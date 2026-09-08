@@ -1,0 +1,135 @@
+{
+  "root": {
+    "id": "1-0",
+    "title": "1/0 — The Determination Returns",
+    "path": "submission-package/essay/symbolon/1-0.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "1/0 — The Determination Returns",
+      "#0 — What has been achieved",
+      "#1 — The same relation from its other end",
+      "#2 — The limit encountered from within",
+      "#3 — Recognition changes the act",
+      "#4 — Difference carried through return",
+      "#5→0 — The work enters another life"
+    ],
+    "sha256": "bf140fe76631f9b2e2870def31801892bdb5a442fe5f1baac5713bf083d3bd64",
+    "claim_status": "Derived",
+    "register": "symbolon"
+  },
+  "edges": [
+    {
+      "source": "submission-package/essay/symbolon/1-0.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "raw_target": "episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/1-0.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+      "raw_target": "episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/1-0.md",
+      "target": "submission-package/essay/symbolon/matheme/README.md",
+      "raw_target": "matheme/README.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/1-0.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "raw_target": "episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/1-0.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "raw_target": "episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/1-0.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "raw_target": "episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/1-0.md",
+      "target": "submission-package/essay/symbolon/README.md",
+      "raw_target": "README.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/1-0.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "raw_target": "episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/1-0.md",
+      "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "raw_target": "../section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/1-0.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "raw_target": "episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/1-0.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "raw_target": "episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/1-0.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "raw_target": "taylor-2026-core-theorems-pithy",
+      "relation": "supported-by",
+      "origin": "source_ids",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/1-0.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+      "raw_target": "taylor-2026-mono-poly-two-ones",
+      "relation": "supported-by",
+      "origin": "source_ids",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/1-0.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "raw_target": "taylor-2026-definition-god-draft3",
+      "relation": "supported-by",
+      "origin": "source_ids",
+      "resolved": true
+    }
+  ]
+}

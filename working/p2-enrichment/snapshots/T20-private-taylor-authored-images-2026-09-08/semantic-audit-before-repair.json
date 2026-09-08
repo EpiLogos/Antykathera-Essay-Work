@@ -1,0 +1,41 @@
+{
+  "phase": "Independent semantic audit after completed drafting pass, before repairs",
+  "claim": "The whole preserves23 complete individual poetic movements and14 separately admitted image operations, with authored corrections and exact source/register boundaries. Common native structure does not erase their different forms, dates, settings or returns.",
+  "dependencies": "Canonical poetry SOURCE controls verse; precise later authorial corrections remain separate; raw quilt/programme and complete native field govern prose image offices; shared Neumann morphology is distinct from geography/time; two held units remain held.",
+  "draft_sha256": "9f63a56b921e7e394d11b00bfc263f6872a9c3d6c8dc0849e7f88d4dabe52f86",
+  "faults": [
+    {
+      "location": "#black-sun-radiating-star paragraph2",
+      "code": "G3/G9/F9",
+      "phrase": "an outer face of benevolence, a middle organisation of capital and an inner fixing of outcomes",
+      "failure": "Three-ring compression omits the distinct innermost corona and its reciprocal compromise mechanism.",
+      "repair": "Restore fourth ring, its binding function and contextual astronomical images as authored comparison, without promoting institutional allegations."
+    },
+    {
+      "location": "#black-sun-radiating-star paragraph3",
+      "code": "G3/G4",
+      "phrase": "pass into cynicism and withdraw, leaving the field to the same concealed decision",
+      "failure": "Compresses the explicit third phase: blankness prepared for re-inscription. False accounting of interior life is also omitted from the captured-return mechanism.",
+      "repair": "Restore staged consequence and epistemic exclusion of interior experience before the return."
+    },
+    {
+      "location": "#black-sun-radiating-star paragraph2",
+      "code": "G6/G9",
+      "phrase": "Play, Need, Sacrifice, Decision, Love and Work name the local sixfold",
+      "failure": "Local sequence is named but Play and Work framing, coequal Name/Power and the changed reach of identification need enough development to prevent the reader construing Power itself as pathology.",
+      "repair": "State healthy generative relation and its coequal Name/Power office; distinguish the unit’s particular occluded reading. Preserve local reciprocal Bimba."
+    }
+  ],
+  "gates": {
+    "G1": "Authorial sources warrant native/mythemic claims; historical and empirical claims remain at explicit gates. No new source inference.",
+    "G2": "Poem and image actors/actions stay explicit; correction makes corona actor relation complete.",
+    "G3": "Individual poem order preserved; six-route composition contiguous; two-pass FT-P21 retained; repair identified social sequence omissions.",
+    "G4": "Each poem retains its own complete movement; social unit requires fuller causal progression.",
+    "G5": "Source verse versus later correction distinct. Neumann/QL, geography/time, inner/actual Other and recursive Bimba keep offices.",
+    "G6": "Framework notation is inherited with source route; expand operative Power framing rather than adding labels.",
+    "G7": "Negatives address actual source corrections, erased counterparts, source debts and held dispositions; no invented opponent.",
+    "G8": "Sixfold follows earlier poems, authored ordered composition, dated voices, material images, then return.",
+    "G9": "23 complete texts and14 independent anchors retained; three social compressions recorded above.",
+    "G10": "Verse spelling, punctuation, lineation and long paragraphs are deliberate exact-source exceptions. Commentary remains explanatory, not synthetic verse or imitation."
+  }
+}

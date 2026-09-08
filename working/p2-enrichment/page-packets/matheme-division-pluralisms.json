@@ -1,0 +1,502 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/dispatch-queue.json",
+    "queue_sha256": "58daf082cbeff7a8f46c38be645d2f55adad99e68d50212bbb031b30bf8f7a34",
+    "census": "working/p2-enrichment/census.json",
+    "census_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "matheme-division-pluralisms",
+    "title": "Brahmagupta / khahara and plural division formalisms",
+    "register": "matheme",
+    "record_type": "matheme",
+    "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md",
+    "wave": "T19",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#4-matheme-census",
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+      "working/p2-enrichment/receipts/depth-acceptance.json",
+      "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+      "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+      "submission-package/essay/symbolon/matheme/README.md"
+    ],
+    "packet_status": "awaiting-complete-36-depth-review",
+    "binding_state": "inputs-bound-awaiting-page-review",
+    "argument_depth": [
+      "A03",
+      "A10",
+      "A11",
+      "A15",
+      "A18",
+      "A36"
+    ],
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md",
+      "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "start_line": 167,
+        "end_line": 188,
+        "relation": "Whole eight-determination placement controls local native interpretation; this is not a six-heading semantic recipe.",
+        "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+        "start_line": 61,
+        "end_line": 137,
+        "relation": "q001 addition/multiplication, q002 retained denominator, q003 source own divine-immutability analogy.",
+        "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+        "start_line": 53,
+        "end_line": 64,
+        "relation": "Restricted cancellation and postponed evaluation, specialist corrective.",
+        "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well."
+      },
+      {
+        "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+        "start_line": 413,
+        "end_line": 416,
+        "relation": "Several rigorous but incompatible zero/infinity treatments.",
+        "provenance": "Later harmonisation and disposition authority; a locator/correction surface, not external proof."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/matheme/README.md",
+    "register_contract_domain": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+    "operation_to_develop": "Display ordinary field division constraints beside Brahmagupta zero rules and Bhaskara khahara: keep zero denominator, postponed evaluation and restricted cancellation separately.",
+    "proof_standing": "Exact axioms specified per regime; historical claims source-specific",
+    "evidence_boundary": "Do not derive 0=1 by silently carrying field cancellation into altered regimes, nor declare all nonfield treatments meaningless. Historical theological analogy is in source but proves no equation.",
+    "blockers": [],
+    "binding_status": "ready-for-target-preparation",
+    "relations": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/trivial-ring.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/topology/projective-completion.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      }
+    ],
+    "writing_obligations": [
+      "Read every selected A packet and materially implicated direct carrier; source/depth receipts are locators, not substitutes for the actual text.",
+      "Read SOURCE.md and all present sibling NOTES in full; never mutate protected NOTES or treat its quotation leads as verified passages.",
+      "Derive the raw #0/#1/#2/#3/#4/#5→0 from this operation. Do not use fixed Definition/Operation/Pattern/Context/Quintessence labels.",
+      "Write exact outward and return relations using the link skill permitted verbs; input-context relation descriptions are not ready-made publication prose.",
+      "The native eightfold, 4+2 cardinality, 4:2 orientation and3:3/3:1 recognition readings keep separate operations. Native X/x is never attributed to Jung.",
+      "A narrow evidence blocker restricts the unsupported claim/quotation, not the existing native QL proposition. No measurement, experiment or restoration discharge is certified by packet preparation.",
+      "Apply the concrete corrections in shared-source-recovery-a13-a24.md and shared-theorem-support-recovery.md wherever their claims are used; do not restore an error merely because it is older authored/developmental prose.",
+      "Definition and quilt preserve the short definitional chain 0/1 = 4+2 = 5→0 = 0/1; process and music preserve the full earned chain 0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1. Name the vantage when both enter a record.",
+      "File 2 primes name inverse-phase positions; File 3 §5→0 primes name the Night-pass sequence. Keep their meanings explicitly distinguished, including where both passages are inputs.",
+      "The core-theorems spine is the curated extraction set: preserve its later 3:3-also-3:1, additive-constant and native eightfold refinements; the four files condition the field without wholesale duplication into the essay."
+    ],
+    "supporting_receipts": [
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "working/p2-enrichment/receipts/matheme-locked-structure-recovery-2026-09-07.md",
+      "working/p2-enrichment/receipts/2026-09-07-input-amendment.md"
+    ],
+    "additional_required_inputs": [
+      "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+      "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "submission-package/essay/section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational.md",
+      "submission-package/essay/section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md",
+      "submission-package/essay/section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md",
+      "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      ".agents/skills/return-of-zero-source/SKILL.md"
+    ]
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A03",
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "sha256": "12d3a0999ffec60d963f055cdbb1a857025a70f2a7bb46641eca20bb187b9b41"
+    },
+    {
+      "argument_id": "A10",
+      "path": "working/p2-enrichment/argument-depth/A10.md",
+      "sha256": "bab78b321241cb345013760b9e68011086eb8380ba640d98a7c525e87e7df17a"
+    },
+    {
+      "argument_id": "A11",
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "sha256": "19585deb79a5ec0dabb39493e413e0579e313adeab68051a783b6ad737584ab8"
+    },
+    {
+      "argument_id": "A15",
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "sha256": "70e04921c5c97b94a3068eafe5b1595e3bfa4f537076f75376503628237f0f8a"
+    },
+    {
+      "argument_id": "A18",
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f"
+    },
+    {
+      "argument_id": "A36",
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md",
+      "sha256": "f5008b29016ffcc5a3786c1cdcb83c9e2a884e81ab3804b42859bdd45b8d9940"
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+      "sha256": "d0d3c9d3cd7694dadf34fe3f2ed229266924e01f480a746f71b0560b91df4b54"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md",
+      "sha256": "9432bac7a477dc95d3b231f727ab59e1484a24ffbdb8c68afa7964d6e14ceeaf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "sha256": "575b30a9d9fc68ed1f2ccfaf92ad4af4692625dc64a0fc052b2f81ce90b8941e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+      "sha256": "75d53129a5cf4441764e078f908cf822b57b8fd62b4399a478b3d612f19957b3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "sha256": "a72c4233c732b9a12915b3b15ad6c288c2e29f7f75b3a300863fdfaf4c72dcb0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "sha256": "5064c7555f8bd0c924e74541e87faa759c68407437771189f82e7a16748687e5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "550bd175ca1d69d9d4f9bf74d443748059c5a4918f9bfddd94fa1e08f63d4493"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "sha256": "28d726c301f4a3ecd09b1267be1e5fb7ba981699adb1851a943047619e255c24"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+      "sha256": "ba5a7f839e2b944620070c5f7322694fea54ea9222719419939343504b6393c3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "sha256": "29b0ff95393ff99d5b1b4123e586fcb14f4f32da9ccd4a3f46d9bdf9a8266752"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "sha256": "028c068c4187e283abea6cc0c7d7539e88b4484686f1c03975138a96e315c793"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "sha256": "805dbb09d1caf690bf55ec539e0e3ca998af022f1a9f02f6158c2255a449738a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "sha256": "10f51ccc557fb7571d1dc58b2d2f5cea77da1233dfc85f2d94e0d90333d1101a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "0bbb5ef1fac69d46a68d05cb1d32b471c48147213e4d610183f003b5db78b343"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational.md",
+      "sha256": "8a65973c13981493d681def1190402632ab008745222feca9285fbbfc9730bcc"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md",
+      "sha256": "1b2e2a44eae02b141cdfaa4b383cdc83490f668926481f0e27aa92bcb8cdfb0c"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md",
+      "sha256": "a0e604cc1da6db47ef982b3befc92b959505745867e494bdd6f082bff13cc192"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+      "sha256": "58864e41536c7857c3f668663fd7e8224de16a895fd260972c5742188f2fba81"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "sha256": "574ae93b228b104b993cb584af147a21adb1134509d15cee157a740be6de6852"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/README.md",
+      "sha256": "115fa742d9d40ae3c283214b6f43bb679f7489a7baab862a1e99051f9ed69ec4"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+      "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md",
+      "source_sha256": "6da9866041dcbc22cbd017cd2884efe784984a74c27663a5209a771adc7b6de2",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+      "source_sha256": "b5a23ca645af1e70ae6162d821700b502abce720f89ea85364c1a1aacde6830d",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+      "source_sha256": "51346a37a50e92087b144d18af5a003b41da5fad2129373b7be42f704de0b742",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "source_sha256": "0c16ad20b0855d542ed39597df33fc56fa97a85358c9e9a93951f88c6324b885",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "start_line": 167,
+      "end_line": 188,
+      "relation": "Whole eight-determination placement controls local native interpretation; this is not a six-heading semantic recipe.",
+      "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing.",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "text": "## (c) The eight determinations — one relation traversed from field to return\n\nThe six-position QL unit and the eight determinations answer different questions and must remain distinct. The **sixfold** is the generative positional body: the two implicate poles and four explicate relational states yielded by `2 + 2² = 4 + 2 = 6`. The **eightfold** gives that body its full threshold-to-return traversal: the unnamed parent-relation before a determinate field, the six qualitative determinations, and the phase-flip by which their achieved form turns back toward its condition. One relation—unobjectifiable awareness and appearing phenomenon, ground and mark—takes on each distinct operation required for a knowing-act to become accountable without pretending to stand outside itself; detaching the binaries or treating them as serial replacements destroys the traversal.\n\n| Turn | Expression | QL determination and its work | What remains invariant through the change |\n| --- | ---: | --- | --- |\n| **Parent relation** | `/ = −/−` | Bare relationality before the field has been divided into named terms: the stroke is its own determination form, two unassigned marks held in one expression, the capacity for relation prior to a determinate contrast. It is the unnamed parent of the six, not an additional position among them. | The relation has a condition that cannot appear as one more product of the relation. |\n| **#0 Ground** | `0/1` | **Awareness / phenomenon; conscious circumstance.** “I am here; something appears; the appearing is known.” `0` names the open, unobjectifiable fact of awareness; `1` the appearing mark; `/` the relation by which the real becomes readable without being exhausted by its readability. Appearing is in awareness, and awareness is encountered only through appearing; the relation precedes any picture of two completed substances separated by a wall. | The ground is immanent to every mark without becoming another positive mark or a hidden object behind it. |\n| **#1 Definition** | `?/!` | **Questioning / asserting; ratio, reckoning, mark.** To ask “what is this?” already asserts that something has appeared stably enough to call for account; to assert “this is” keeps open the question of whether the account runs true. Definition is therefore double: openness to determination and determinative speech. It marks while remaining answerable to what called for the mark. | Every assertion bears the unsettled question that makes it accountable; every genuine question already takes a provisional mark. |\n| **#2 Dynamis** | `−/+` | **Withdrawal / extension; force, polarity, Spanda-seed.** The relation becomes energetic: one side functions as reserve, contraction, withholding; the other as issue, release, presentation. The positive is the void’s own self-relation appearing as extension. The poles form a sustained pulse whose moments remain co-present—breath gathers and releases; attention contracts around a word and opens into sense. | The two poles remain one differentiating movement: distinction has force without becoming a war of independent substances. |\n| **#3 Pattern** | `X/x` | **Determining-capacity / determinate instance; recurrence.** Capital `X` is the presiding capacity, type, or anything-by-which something can be read; lower-case `x` is its temporal local face. The same letter, in two cases, prevents the instance from being severed from the capacity it manifests. The small `x` also retains multiplication: an instance can recur, compound, and yield “another one of those.” Pattern is where force becomes recognisable as kind, rhythm, memory, and thought. | The local instance makes the general legible but neither contains nor exhausts it. |\n| **#4 Context** | `AM/IS` | **First-person presence / third-person sayability; the personed copula.** `AM` is lived “I am”; `IS` is what can be stated as “it is”; the slash is the second-person relation through which they meet. Context is the lived *where* of this encounter—world, body, concern, speech, memory, task—not a neutral container. It is total because nothing appears outside some horizon, and incidental because that horizon does not ordinarily stand forth as one more object. | Knower, means, and known remain one appearing-act without becoming interchangeable: *pramātṛ / pramāṇa / prameya*. |\n| **#5 Realisation** | `∞/dx` | **Unbounded depth / infinitesimal differential; horizon and local exactness.** `∞` names the inexhaustible field no finite mark contains. `dx` is no longer merely the instance `x` but the minute difference through which change and local reading become exact. Every appearance is therefore a true local ratio of what exceeds it: precise as relation, partial as expression. The whole is not hidden inside the part; it is present in the way the part runs true to what it cannot enclose. | Exactness never becomes possession. A finite determination remains answerable to the depth that makes it possible. |\n| **Return-switch** | `1/0` | The achieved determinate turns toward the ground it presupposes and meets the incomputable rather than an object called “the ground.” The mental cannot find the foundation of the mental, because every act of finding already occurs through it. This is *pratyabhijñā*: recognition, not acquisition. | The limit is generative: `5→0`, the return through ground that renews a further cycle rather than cancelling the determination. |\n\nThe table fixes the actual order of determination. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their meanings and prevent them from becoming decorative or interchangeable correspondences.\n\nThe six also have internal grammar. **Being** joins Ground and Definition: a field is present and can be called to account. **Becoming** joins Dynamis and Pattern: force becomes intelligible as recurrence, while recurrence stays alive only as force capable of further instance. **Knowing/unKnowing** joins Context and Realisation: lived predication becomes honest only when its horizon exceeds every situated claim. Across this forward harmonic grouping run the complementary folds: **Essence** (`0+5`) pairs conscious circumstance with unbounded differential depth; **Constitution** (`1+4`) pairs answerable definition with the world in which someone asks and asserts; **Text-Texture** (`2+3`) pairs the felt weave of force with its readable pattern. The six positions are thus neither a linear ladder nor a flat catalogue.\n\nThe calculus turn makes the final determination mathematically exact. Differentiation yields local change while losing the additive constant; integration restores a family `F(x)+C`, with no single self-grounding whole selected by the local derivative alone. The missing `C` is the formally required provenance that local change cannot reconstruct; mystical surplus and defective calculation are both unnecessary explanations. The psychological and metaphysical claim begins there: a determination can be exact without containing the whole condition from which its exactness was taken.\n\n**QL placement.** `/ = −/−` and `1/0` bracket rather than enlarge the six positions. `/ = −/−` is the parent-relation before the count; `1/0` is the inversion through which the counted form recognises the ground that never became one of its contents. Within the bracket, `0/1`, `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` are the first qualitative body of the `4+2`. This preserves the distinction between the eight-turn traversal and QL's sixfold base count: Jung's four functions plus introversion/extroversion can disclose the same psychological `4+2`, while the fuller account can still traverse from pre-distinction, through conscious circumstance, to the incomputable return."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+      "start_line": 61,
+      "end_line": 137,
+      "relation": "q001 addition/multiplication, q002 retained denominator, q003 source own divine-immutability analogy.",
+      "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well.",
+      "sha256": "b5a23ca645af1e70ae6162d821700b502abce720f89ea85364c1a1aacde6830d",
+      "text": "## Essay use\n\nThe record supplies a lawful primary-text carrier for [[14-s1-p1-sunya-operational]]. Brahmagupta's rules place zero among positive and negative quantities in addition, subtraction, multiplication, division, powers, and roots. Bhāskara's rules preserve a zero-denominator expression and then compare its invariance under finite addition or subtraction with divine immutability. The mathematical rule and the analogy must be read together without making either one prove the other.\n\n**Claim boundary:** this translation establishes what Colebrooke's 1817 English edition says at the cited verses. Philological claims about *śūnya*, *khahara*, textual dating, or the precise Sanskrit manuscripts require a critical edition and specialist scholarship. These rules also do not show that ordinary modern field division by zero is valid.\n\n## Passage preparation\n\nExact text, rendered-page verification, and consumer mappings: [Colebrooke passages](#passages).\n\n## Provenance\n\n- **Carrier:** [Internet Archive public-domain scan](https://archive.org/details/algebrawitharith00brahuoft).\n- **Bhāskara, Līlāvatī II.44–45:** printed p. 79; PDF p. 115.\n- **Bhāskara, Bījagaṇita I.14–16:** printed pp. 137–138; PDF pp. 233–234.\n- **Brahmagupta, Brāhmasphuṭasiddhānta XVIII.31–36:** printed pp. 339–340; PDF pp. 435–436.\n- **Verification:** text extraction and all cited page images checked on 2026-07-15.\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\n### Material metadata\n\n- **Quote status:** quotation-ready\n- **Edition consulted:** Brahmagupta and Bhāskara II, Algebra, with Arithmetic and Mensuration, trans. Henry Thomas Colebrooke (London: John Murray, 1817).\n- **Access provenance:** Internet Archive public-domain scan, accessed 2026-07-15.\n\n<a id=\"colebrooke-1817-brahmagupta-bhaskara-q001\"></a>\n## Passage card — `colebrooke-1817-brahmagupta-bhaskara-q001` — zero inside the algorithm\n\n> The sum of cipher and negative is negative; of affirmative and nought is positive; of two ciphers is cipher. [...] The product of cipher and negative, or of cipher and affirmative, is nought; of two ciphers, is cipher.\n\n- **Locator:** Brahmagupta, *Brāhmasphuṭasiddhānta*, ch. XVIII, §§31 and 34; Colebrooke trans., printed p. 339; Internet Archive PDF p. 435.\n- **Status:** quotation-ready.\n- **Verification:** rendered scan checked directly on 2026-07-15; OCR's erroneous “affinnative” was rejected in favour of the printed “affirmative.”\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** primary mathematical operation.\n- **Consumers:** [[14-s1-p1-sunya-operational]]; [[Core Theorem Bridge]]; movement 14 additive-identity and multiplicative-absorption teaching.\n- **Use boundary:** establishes the translated rules for addition and multiplication. It does not establish a modern ring-theoretic formulation in Brahmagupta's own vocabulary, and it does not license division by zero under ordinary field laws.\n\n<a id=\"colebrooke-1817-brahmagupta-bhaskara-q002\"></a>\n## Passage card — `colebrooke-1817-brahmagupta-bhaskara-q002` — the zero denominator remains written\n\n> a quantity, divided by cipher, becomes a fraction the denominator of which is cipher.\n\n- **Locator:** Bhāskara II, *Bījagaṇita*, ch. I, §14; Colebrooke trans., printed p. 137; Internet Archive PDF p. 233.\n- **Status:** quotation-ready.\n- **Verification:** rendered scan and extracted text checked 2026-07-15; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** qualifies.\n- **Argument function:** historical mathematical boundary.\n- **Consumers:** [[14-s1-p1-sunya-operational]]; [[17-s1-p4-zero-outside-math]]; [[Core Theorem Bridge]]; movement 14 division boundary and movement 17 changed-container question.\n- **Use boundary:** records Bhāskara's retained expression in this translation. It does not say that a nonzero quantity has an ordinary multiplicative quotient by zero, nor that cancellation and cross-multiplication remain valid for the expression.\n\n<a id=\"colebrooke-1817-brahmagupta-bhaskara-q003\"></a>\n## Passage card — `colebrooke-1817-brahmagupta-bhaskara-q003` — mathematical invariance receives a theological image\n\n> In this quantity consisting of that which has cipher for its divisor, there is no alteration, though many be inserted or extracted; as no change takes place in the infinite and immutable God, at the period of the destruction or creation of worlds, though numerous orders of beings are absorbed or put forth.\n\n- **Locator:** Bhāskara II, *Bījagaṇita*, ch. I, §16; Colebrooke trans., printed p. 138; Internet Archive PDF p. 234.\n- **Status:** quotation-ready.\n- **Verification:** rendered scan and extracted text checked 2026-07-15; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** contextualises and qualifies.\n- **Argument function:** primary historical analogy.\n- **Consumers:** [[14-s1-p1-sunya-operational]]; [[18-s1-p5-loan-returns]]; [[Immutable Gap and Meta-Sign]]; movement 14 mathematical/metaphysical distinction and movement 18 return boundary.\n- **Use boundary:** shows that the primary text itself places a theological analogy beside the rule. The analogy does not prove the arithmetic, and the arithmetic does not establish a doctrine of God or non-duality.\n### Passage metadata register\n\nThese source-specific fields were gathered before consolidation and remain part of this source's evidence record.\n\n| `colebrooke-1817-brahmagupta-bhaskara-q001` | `colebrooke-1817-brahmagupta-bhaskara` | Brahmagupta XVIII.31, 34; printed p. 339; PDF p. 435 | quotation-ready | `14-s1-p1-sunya-operational` | [[Core Theorem Bridge]] | primary arithmetic operation | [Colebrooke passages](#passages) |\n\n| `colebrooke-1817-brahmagupta-bhaskara-q002` | `colebrooke-1817-brahmagupta-bhaskara` | Bhāskara, *Bījagaṇita* I.14; printed p. 137; PDF p. 233 | quotation-ready | `14-s1-p1-sunya-operational`; `17-s1-p4-zero-outside-math` | [[Core Theorem Bridge]] | zero-denominator boundary | [Colebrooke passages](#passages) |\n\n| `colebrooke-1817-brahmagupta-bhaskara-q003` | `colebrooke-1817-brahmagupta-bhaskara` | Bhāskara, *Bījagaṇita* I.16; printed p. 138; PDF p. 234 | quotation-ready | `14-s1-p1-sunya-operational`; `18-s1-p5-loan-returns` | [[Immutable Gap and Meta-Sign]] | primary analogy / limitation | [Colebrooke passages](#passages) |"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+      "start_line": 53,
+      "end_line": 64,
+      "relation": "Restricted cancellation and postponed evaluation, specialist corrective.",
+      "provenance": "Canonical SOURCE evidence/provenance carrier; cards retain their exact locator/readiness and use boundary. Read the entire house and any sibling NOTES as well.",
+      "sha256": "51346a37a50e92087b144d18af5a003b41da5fad2129373b7be42f704de0b742",
+      "text": "## Essay use\n\nDutta reconstructs the rules for zero-divided expressions as a different algebraic regime: cancellation and cross-multiplication are restricted, and evaluation may be postponed. This directly tests Kaplan's p. 73–74 presentation. It lets the source teach why the collapse proof is decisive inside ordinary field assumptions while refusing the further claim that every historical zero-denominator practice was merely meaningless.\n\n**Claim boundary:** Dutta offers a mathematically revisionist defence and modern analogies, not a critical edition of Brahmagupta or Bhāskara. Use the Colebrooke record for the selected primary English text and further critical scholarship for Sanskrit philology, manuscript history, and priority claims.\n\nIn the zero–subject historical braid, Dutta prevents the formal limit from being falsified into an elementary prohibition: zero-divided expressions make the algebraic regime and its excluded operations visible. That mathematical disclosure is one strand of the authorial relation between zero's history and the later history of subjectivity.\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\nNo passage or excerpt has yet been gathered for this source."
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+      "start_line": 413,
+      "end_line": 416,
+      "relation": "Several rigorous but incompatible zero/infinity treatments.",
+      "provenance": "Later harmonisation and disposition authority; a locator/correction surface, not external proof.",
+      "sha256": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "text": "| 15 · Empty Set Generates One | Empty-set contribution supplies exact ∅, subset, initial-object, and von Neumann operations. | The counted one can be generated from exact emptiness within set-theoretic rules while QL zero remains the unobjectifiable subject-floor, not identical with ∅. | **Carry.** Add category-theory source if initial-object asymmetry enters prose. |\n| 16 · Crossed Zero | Crossed zero, `0/0`, apoha, history of zero; legacy formal anchors. | The mark becomes a crossing where a permitted operation encounters frame-dependence; `0/0` preserves all proportions as unselected rather than choosing a quotient. | **Carry.** Keep formal and authorial readings distinct. |\n| 17 · Zero Outside Mathematics | Projective, category, division-by-zero, plural algebraic resolutions; legacy trivial-ring fork. | Mathematics exposes a boundary by producing multiple rigorous but incompatible treatments of zero and infinity. The limit belongs to the containing rules. | **Carry; propose trivial-ring restoration.** Grothendieck/trivial-ring/Sheffer need exact placements and sources. |\n| 18 · Loan Returns | Advent earns relational obverse; count becomes account; Mono/Poly begins; Tao twofold One will later refract it. | Introduce `0/1 = 1/0` as one ground–manifestation relation under obverse orientation, preserving arithmetic difference as the seam. Mathematics returns its metaphysical loan as a more exact account and prepares the two accountings. | **Carry accepted grammar.** No Spanda equations yet. |"
+    }
+  ],
+  "raw_skeleton": "# Brahmagupta / khahara and plural division formalisms\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

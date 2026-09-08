@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "record_type": "target-keyed-mytheme-input-bindings",
+  "status": "21-admitted-wholes-bound-parent-review-required-source-telling-gates-explicit",
+  "census": "working/p2-enrichment/census.json",
+  "authority": [
+    "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+    "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+    "the-return-of-zero-central-plan.md",
+    "working/p2-enrichment/CENSUS-RECONCILIATION.md"
+  ],
+  "elements": [
+    {
+      "record_id": "mytheme-pauli-egg-dream",
+      "title": "Pauli egg-dream whole-form refraction",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/p2-enrichment/receipts/T22-four-whole-admissions-and-job-preparation-2026-09-08.json",
+        ".wayfinder/maps/t20-t21-world-registers.md",
+        "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md:840",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "source-telling-gated",
+      "dispatch_status": "admitted-preparation-only; await source/telling recovery",
+      "argument_depth": [
+        "A19",
+        "A16"
+      ],
+      "argument_depth_roles": {
+        "A19": "Historical symbolic/psychoid refraction follows native theorem; no substitution of World Clock for egg dream.",
+        "A16": "Formal refraction differs from historical evidence of a specific dream."
+      },
+      "direct_carriers": [
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+        "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md"
+      ],
+      "direct_carrier_roles": {
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md": "Native theorem and complete supporting-field context",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md": "Native theorem and complete supporting-field context",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md": "Native theorem and complete supporting-field context",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md": "Native theorem and complete supporting-field context",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md": "Native theorem and complete supporting-field context",
+        "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "Direct authored/developmental carrier; read target material with complete source programme",
+        "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "Direct authored/developmental carrier; read target material with complete source programme"
+      },
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md"
+      ],
+      "source_slices": [
+        {
+          "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+          "start_line": 820,
+          "end_line": 887,
+          "relation": "Promote the authorial egg-dream derivation after native QL; preserve historical attribution separately.",
+          "provenance": "Read source programme context; Taylor-authored propositions and later developmental synthesis distinguished by local speaker/author. External attribution remains source-specific."
+        },
+        {
+          "path": "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md",
+          "start_line": 213,
+          "end_line": 227,
+          "relation": "Promote the authorial egg-dream derivation after native QL; preserve historical attribution separately.",
+          "provenance": "Read source programme context; Taylor-authored propositions and later developmental synthesis distinguished by local speaker/author. External attribution remains source-specific."
+        }
+      ],
+      "relations": [
+        {
+          "target": "A19-Complex-as-Local-Arbitration-Regime",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+          "relation": "returns-to",
+          "operation": "Promote the authorial egg-dream derivation after native QL; preserve historical attribution separately.",
+          "register": "Episteme/Argument; authored Mytheme return",
+          "direction": "current-to-target"
+        }
+      ],
+      "register_contract": "submission-package/essay/symbolon/mytheme/README.md",
+      "additional_required_inputs": [
+        "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+        "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md",
+        "working/p2-enrichment/T20-quilt-to-whole-coverage.json",
+        "working/p2-enrichment/receipts/T22-four-whole-admissions-and-job-preparation-2026-09-08.json",
+        "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+        "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md"
+      ],
+      "target_operation": "Promote the authorial egg-dream derivation after native QL; preserve historical attribution separately.",
+      "whole_figures_and_relations": "Egg dream; dreamer; exact internal figures not yet recovered",
+      "whole_sequence": "Full telling and internal sequence remain unresolved; the programme explicitly retains a whole-form refraction.",
+      "specific_boundaries": [
+        "No canonical prose or new human-amplified:yes relation authorised by this preparation.",
+        "Raw #0/#1/#2/#3/#4/#5→0 form derives semantics from the whole."
+      ],
+      "source_or_telling_blockers": [
+        "QH names an Epi Paper egg-dream derivation, but no exact egg-dream carrier was located in the text search. The correspondence house holds notebook page leads, not this dream’s verified telling. Do not substitute World Clock."
+      ],
+      "status": "admitted-source-telling-gated",
+      "canonical_write_authorised_by_this_file": false,
+      "coverage_row_id": "T20-mytheme-pauli-egg-dream",
+      "source_read_obligations": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE.md",
+          "source_sha256": "d44709777f7159d86ec843ef9d48a82a02bf4db88095f17cd897497448f08838",
+          "notes": null,
+          "notes_policy": "Read whole SOURCE and complete sibling NOTES; protected authorial provenance, never mutate.",
+          "read_coverage": "Census and source/depth receipts locate contributions; writer must read actual supplied full bodies. This preparation does not certify new quotations."
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+          "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+          "notes": null,
+          "notes_policy": "Read whole SOURCE and complete sibling NOTES; protected authorial provenance, never mutate.",
+          "read_coverage": "Census and source/depth receipts locate contributions; writer must read actual supplied full bodies. This preparation does not certify new quotations."
+        }
+      ]
+    }
+  ],
+  "canonical_files_created": 0,
+  "validation": {
+    "targets": 21,
+    "census_ids_and_homes_match": true,
+    "all_source_ranges_valid": true,
+    "source_house_resolution": "tools/source_resolver.py build_source_index",
+    "writer_read_obligation": "Bindings/receipts do not substitute for full required writer reads",
+    "global_dispatch": "This file is not a reconciled queue; parent merges reviewed bindings after resolving target-specific gates."
+  }
+}

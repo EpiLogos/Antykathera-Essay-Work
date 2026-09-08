@@ -1,0 +1,95 @@
+{
+  "root": {
+    "id": "pairing-grammar",
+    "title": "The Universal Pairing Grammar",
+    "path": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "The Universal Pairing Grammar",
+      "#0 — A palette becomes relation",
+      "#1 — Adjacent articulation, mirror, crossing",
+      "#2 — A pair acquires an interval",
+      "#3 — D brings the conjugate face into a pair",
+      "#4 — The 3×3 squares",
+      "#5→0 — Invariance carries the return"
+    ],
+    "sha256": "ea28a7c43e03de0b203449424fe5bb5e0e13625e0ce78ae9c6e66889945265a5",
+    "claim_status": "Derived",
+    "register": "matheme"
+  },
+  "edges": [
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "target": "submission-package/essay/symbolon/matheme/music/chromatic-substrates.md",
+      "raw_target": "chromatic-substrates.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "raw_target": "../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "raw_target": "../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "target": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "raw_target": "foundational-ratios.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "target": "submission-package/essay/symbolon/the-slash.md",
+      "raw_target": "../../the-slash.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "raw_target": "../../episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "target": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "raw_target": "../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "raw_target": "taylor-2026-binary-explication",
+      "relation": "supported-by",
+      "origin": "source_ids",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "raw_target": "taylor-2026-core-theorems-pithy",
+      "relation": "supported-by",
+      "origin": "source_ids",
+      "resolved": true
+    }
+  ]
+}

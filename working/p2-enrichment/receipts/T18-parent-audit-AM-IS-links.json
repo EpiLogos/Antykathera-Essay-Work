@@ -1,0 +1,135 @@
+{
+  "root": {
+    "id": "AM-IS",
+    "title": "AM/IS — The Personed Copula",
+    "path": "submission-package/essay/symbolon/AM-IS.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "AM/IS — The Personed Copula",
+      "#0 — A pattern is lived",
+      "#1 — The copula changes person",
+      "#2 — The second person enters",
+      "#3 — Three perspectives become available together",
+      "#4 — The world accompanies the saying",
+      "#5→0 — Presence opens a horizon"
+    ],
+    "sha256": "351c3425798022a1e037a41f11cb732681b81d35fd3cc579a4bad4ae62c90371",
+    "claim_status": "Derived",
+    "register": "symbolon"
+  },
+  "edges": [
+    {
+      "source": "submission-package/essay/symbolon/AM-IS.md",
+      "target": "submission-package/essay/symbolon/X-x.md",
+      "raw_target": "X-x.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/AM-IS.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "raw_target": "episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/AM-IS.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "raw_target": "episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/AM-IS.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "raw_target": "episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/AM-IS.md",
+      "target": "submission-package/essay/symbolon/matheme/process/README.md",
+      "raw_target": "matheme/process/README.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/AM-IS.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "raw_target": "episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/AM-IS.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "raw_target": "episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/AM-IS.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "raw_target": "episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/AM-IS.md",
+      "target": "submission-package/essay/symbolon/infinity-dx.md",
+      "raw_target": "infinity-dx.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/AM-IS.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "raw_target": "episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/AM-IS.md",
+      "target": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+      "raw_target": "../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/AM-IS.md",
+      "target": "submission-package/essay/symbolon/eight-determinations.md",
+      "raw_target": "eight-determinations.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/AM-IS.md",
+      "target": "submission-package/essay/symbolon/1-0.md",
+      "raw_target": "1-0.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/AM-IS.md",
+      "target": "submission-package/essay/symbolon/subject-logics.md",
+      "raw_target": "subject-logics.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    }
+  ]
+}

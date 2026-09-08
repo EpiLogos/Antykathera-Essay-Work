@@ -1,0 +1,741 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/dispatch-queue.json",
+    "queue_sha256": "58daf082cbeff7a8f46c38be645d2f55adad99e68d50212bbb031b30bf8f7a34",
+    "census": "working/p2-enrichment/census.json",
+    "census_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "matheme-operational-parity",
+    "title": "Operational-parity experiments",
+    "register": "matheme",
+    "record_type": "matheme",
+    "canonical_home": "submission-package/essay/symbolon/matheme/computation/operational-parity.md",
+    "wave": "T19",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#4-matheme-census",
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+      "working/p2-enrichment/receipts/depth-acceptance.json",
+      "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+      "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+      "submission-package/essay/symbolon/matheme/README.md"
+    ],
+    "packet_status": "awaiting-complete-36-depth-review",
+    "binding_state": "inputs-bound-awaiting-page-review",
+    "argument_depth": [
+      "A04",
+      "A07",
+      "A09",
+      "A14",
+      "A22",
+      "A25",
+      "A26",
+      "A28",
+      "A29",
+      "A30",
+      "A31",
+      "A32",
+      "A33",
+      "A35"
+    ],
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "submission-package/epi-logos/resources/mef-12-lenses-sublens-reference.md",
+      "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "start_line": 167,
+        "end_line": 188,
+        "relation": "Whole eight-determination placement controls local native interpretation; this is not a six-heading semantic recipe.",
+        "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+        "start_line": 1,
+        "end_line": 54,
+        "relation": "Actual six research operations, return and limits.",
+        "provenance": "Whole local carrier required for this target; its status and provenance remain those declared in the file."
+      },
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "start_line": 572,
+        "end_line": 637,
+        "relation": "Native process field and context-update operation.",
+        "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing."
+      },
+      {
+        "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+        "start_line": 1202,
+        "end_line": 1220,
+        "relation": "Changed evaluator vs fixed need defines a discriminating test.",
+        "provenance": "Additive developmental quilt; mixed wording is not attributed wholesale to Taylor; corrections and evidence boundaries in the A packets govern."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/matheme/README.md",
+    "register_contract_domain": "submission-package/essay/symbolon/matheme/computation/README.md",
+    "operation_to_develop": "For each promoted distinction specify intervention/removal, baseline, metric, failure and alternative explanation across six experiments: seam,gauge,lens,topology,recursion,deferential return.",
+    "proof_standing": "Offered experiments; no observed suite result",
+    "evidence_boundary": "Operational difference is required for a technical promotion, not for every philosophical claim. Preserve six distinct O:I centres and minimal/maximal separation; experiments cannot manufacture machine subjectivity.",
+    "blockers": [
+      "No parity experiment is accepted by an input binding. Writer must define executable or empirically interpretable protocol and retain null/negative outcomes."
+    ],
+    "binding_status": "ready-for-target-preparation-with-explicit-evidence-debt",
+    "relations": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/computation/j-space.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/computation/softmax-argmax.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      }
+    ],
+    "writing_obligations": [
+      "Read every selected A packet and materially implicated direct carrier; source/depth receipts are locators, not substitutes for the actual text.",
+      "Read SOURCE.md and all present sibling NOTES in full; never mutate protected NOTES or treat its quotation leads as verified passages.",
+      "Derive the raw #0/#1/#2/#3/#4/#5→0 from this operation. Do not use fixed Definition/Operation/Pattern/Context/Quintessence labels.",
+      "Write exact outward and return relations using the link skill permitted verbs; input-context relation descriptions are not ready-made publication prose.",
+      "The native eightfold, 4+2 cardinality, 4:2 orientation and3:3/3:1 recognition readings keep separate operations. Native X/x is never attributed to Jung.",
+      "A narrow evidence blocker restricts the unsupported claim/quotation, not the existing native QL proposition. No measurement, experiment or restoration discharge is certified by packet preparation.",
+      "Apply the concrete corrections in shared-source-recovery-a13-a24.md and shared-theorem-support-recovery.md wherever their claims are used; do not restore an error merely because it is older authored/developmental prose.",
+      "Definition and quilt preserve the short definitional chain 0/1 = 4+2 = 5→0 = 0/1; process and music preserve the full earned chain 0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1. Name the vantage when both enter a record.",
+      "File 2 primes name inverse-phase positions; File 3 §5→0 primes name the Night-pass sequence. Keep their meanings explicitly distinguished, including where both passages are inputs.",
+      "The core-theorems spine is the curated extraction set: preserve its later 3:3-also-3:1, additive-constant and native eightfold refinements; the four files condition the field without wholesale duplication into the essay."
+    ],
+    "supporting_receipts": [
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "working/p2-enrichment/receipts/matheme-locked-structure-recovery-2026-09-07.md",
+      "working/p2-enrichment/receipts/2026-09-07-input-amendment.md"
+    ],
+    "additional_required_inputs": [
+      "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+      "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "submission-package/essay/section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md",
+      "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
+      "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
+      "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+      "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+      "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      ".agents/skills/return-of-zero-source/SKILL.md"
+    ]
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A04",
+      "path": "working/p2-enrichment/argument-depth/A04.md",
+      "sha256": "0b65287f0c7a7d5a0206f003b2cdbe4e4afd7025f104ce60bfec897b7ef228fa"
+    },
+    {
+      "argument_id": "A07",
+      "path": "working/p2-enrichment/argument-depth/A07.md",
+      "sha256": "8f6aae272cc86877286b844e6fa65911c05885d3e50b388179ed623294406e01"
+    },
+    {
+      "argument_id": "A09",
+      "path": "working/p2-enrichment/argument-depth/A09.md",
+      "sha256": "7bbb367d7fe465f1d22b962495426f1a89d462d6f6c7fe4e3636dcd37978af5f"
+    },
+    {
+      "argument_id": "A14",
+      "path": "working/p2-enrichment/argument-depth/A14.md",
+      "sha256": "0a198ce301265646b0fa5f438f5e035d14fe2de74dcc246ae4a6c96e714808ee"
+    },
+    {
+      "argument_id": "A22",
+      "path": "working/p2-enrichment/argument-depth/A22.md",
+      "sha256": "cc4786c82ef3cb7ea0e799b910fec2ec50108b3cd2316635e4ac4f7ddb06c3d3"
+    },
+    {
+      "argument_id": "A25",
+      "path": "working/p2-enrichment/argument-depth/A25.md",
+      "sha256": "eaeeae9754e349e495e21dd60bf83d380fa3eaac3d54b9d33b779ec72775139b"
+    },
+    {
+      "argument_id": "A26",
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "sha256": "9542b35c8445445bc02ebe6b1a1ba2ccf67f2aa7da50335fbe3180d595c1eb63"
+    },
+    {
+      "argument_id": "A28",
+      "path": "working/p2-enrichment/argument-depth/A28.md",
+      "sha256": "a998591196094d47e4cf8c2e52beccfae29e85b7f95752c35daf1a0f16ae9b1e"
+    },
+    {
+      "argument_id": "A29",
+      "path": "working/p2-enrichment/argument-depth/A29.md",
+      "sha256": "df16db3f0dc451847aab076658d7050e9ec888cad3618bd975c3162204c6a1ee"
+    },
+    {
+      "argument_id": "A30",
+      "path": "working/p2-enrichment/argument-depth/A30.md",
+      "sha256": "72f7883f3955b05bb3448dcdfee87b5f0cd4e76d16de37fe922b20f995643e62"
+    },
+    {
+      "argument_id": "A31",
+      "path": "working/p2-enrichment/argument-depth/A31.md",
+      "sha256": "2e8a2e463260bfd1e194037a5bba48cddfb06aaad1d8fc71e87003de0d10d1c7"
+    },
+    {
+      "argument_id": "A32",
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "sha256": "8d7f5d6f98f61bb3011360c0ef68b0681989c97a8f224c2c549668ef167ca428"
+    },
+    {
+      "argument_id": "A33",
+      "path": "working/p2-enrichment/argument-depth/A33.md",
+      "sha256": "61ffc1d702894cd6f35cda9b489cf5da6a8e4103c1153e495ce23917cd4c6285"
+    },
+    {
+      "argument_id": "A35",
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "sha256": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "submission-package/epi-logos/resources/mef-12-lenses-sublens-reference.md",
+      "sha256": "1e1ee72c6445eea2e7df057798bd1b0441f6e5eeac289dddb65d680d7ca6bb51"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "sha256": "7559689db9f38ef8239faa57f4dd2b2725938416ad52da55627473cc9ecf2a58"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md",
+      "sha256": "9432bac7a477dc95d3b231f727ab59e1484a24ffbdb8c68afa7964d6e14ceeaf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "sha256": "769bcdd5ed233756538e089506f0edd61fb6bd7b20513ea215e71dde209db386"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "sha256": "74968c4e9f645e849065aee47a48d98b647c5e6d4dfb6e4c19d6a6c4ff61a55e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "sha256": "4d82b779d3795197b6075d2b88a5d981e7d9ba9ffa1f6fb8fff69b698562f779"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "sha256": "5471f53740eda3a029b104b96c9c80af9e690d2017d1c73fa97dd0f7f48e44e5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "sha256": "40d2314a7f35cf5b66d73b28da5129d0026b4aa0030f555a77b0a52f08045aac"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "sha256": "aeeae92d8cb4a5b709027d539caac21d064fba2979e7578a87565682ad450fba"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "sha256": "5405af1a82a12c131f7658e3eeb908730433ddb4b15755e83029cdc2601a3a45"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "sha256": "7e3b051cda5a1170d5a666d8fe5857855b504b0cf3733d11e2f0dfed13b19836"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "sha256": "ce95f291506b6fa608d398a2c4dc42ced9d6a5feb1d9b2ce188dc574a0441d0d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "sha256": "288fdea847c415bfe26cc96c727605c6f99a1e1399ade801653e5c4a596a6cf5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "sha256": "e0d633b11f90a3f217782fd72c706effefb1ff3fd8c81ca72a8f1dd1343dcfc0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "sha256": "67a86b880bb9ee0b3acf974beee560f5ad9817902d9e99c30ff1b63f66b53654"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "sha256": "bf4fb3347e7341cf5f3327e5e6fd7872d603fb3a2d5223de6531e8bb3e69a469"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "sha256": "7b1e347f989c34ff834536bf9f9de671ec38818dfb219bf7cb7cb21bed2a6300"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "sha256": "24b252c2bdb4a55b0ca0f9647da738d246c1fec014f0dc046e8dcd86b0beb527"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "sha256": "a07eac146c537c1507e989a5b29c6fc13f812faf96e66d86308eb3f39f9caf7f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "sha256": "38153fe262b742a672f7a3379b1abec166a24506f2bf5fc2032229d45b3737e7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "sha256": "b2853156fe586cbcec1a72bca6759f1a4d0bcc437ac210a4314b298da4352ea2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "sha256": "f6d4cbcf7d0b7a050ae70f5f4d177b8e7b545f78831953c262a60137be5f3142"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+      "sha256": "0fbdbcf1ace1743cafc4278d0505a92efb50865f03e23286edcd52ebce536212"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "sha256": "4b66ece523eb89acea03d2cdc05aeed9fe76feac4de1c16651fbfedf6b31383b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "sha256": "eea8394242bad6bc4c839bc01037ed5289a22303728b8377cfe0883e4f65a998"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "sha256": "f804b70960fa58220c24f5447c05516d70a49263198215694ba09e64878c7740"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "sha256": "68fa93e2618112e0651c69b23d485ab817b1ada1276ada9ec75e22463b0ff950"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "sha256": "10f51ccc557fb7571d1dc58b2d2f5cea77da1233dfc85f2d94e0d90333d1101a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "0bbb5ef1fac69d46a68d05cb1d32b471c48147213e4d610183f003b5db78b343"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md",
+      "sha256": "5f9b785598f414d479beb08dcd2dfb231c07cb30f4055e0984617d8252e62320"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
+      "sha256": "e49bce5baec0297564dc9bbc093c7197f08d8794cd983bc56df73456596550e8"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
+      "sha256": "c8fe92f1b38aaf7a2aac24087208da2817d91a899da737bd2b3ce1d39c708167"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+      "sha256": "9ed888f67da1fe3ddeec65e313886128284aaf4e029557ee0ade0a1630dced44"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+      "sha256": "e804da124dbba3d30c52cf3e3a88a2ec03e3ac0564e0cfabb278d40319bf4e8c"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "sha256": "92d7ce0d3f348b5acd57f5b0e7b14f4de313184c69015ddc564925674cb6456c"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "sha256": "57d6671ffb33dbb5a8062fe7297fb2353e181b800db979e1b0d919d9372b8324"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "sha256": "574ae93b228b104b993cb584af147a21adb1134509d15cee157a740be6de6852"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/README.md",
+      "sha256": "115fa742d9d40ae3c283214b6f43bb679f7489a7baab862a1e99051f9ed69ec4"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/README.md",
+      "sha256": "72d5a297b9b82eaaad3379afdafffdafd5843c1652e7fd8b6288d423975dc0ae"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md",
+      "source_sha256": "54530d0473caccbd91bac6e673db042d0776e1591c64553b28c02b56d2929ea5",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "source_sha256": "51ff6900831251349fa739c2be42483e9633f607ba78f4db28a9addcf4d6d7bf",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md",
+      "source_sha256": "e1a1622c3c5b3789e177a54ebd55ecf22b4b752361485c20176ed7bd85c1f450",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md",
+      "source_sha256": "4da3b339fb86d60706b2fcca4502f8d37fa80259075debcbb9d533bdbbde24f6",
+      "notes": "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/NOTES.md",
+      "notes_sha256": "e57f6d10a874fd70856c27d278d62af0a1576dc04bd2c6d9596f4b693e992d50",
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "source_sha256": "0c16ad20b0855d542ed39597df33fc56fa97a85358c9e9a93951f88c6324b885",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "start_line": 167,
+      "end_line": 188,
+      "relation": "Whole eight-determination placement controls local native interpretation; this is not a six-heading semantic recipe.",
+      "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing.",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "text": "## (c) The eight determinations — one relation traversed from field to return\n\nThe six-position QL unit and the eight determinations answer different questions and must remain distinct. The **sixfold** is the generative positional body: the two implicate poles and four explicate relational states yielded by `2 + 2² = 4 + 2 = 6`. The **eightfold** gives that body its full threshold-to-return traversal: the unnamed parent-relation before a determinate field, the six qualitative determinations, and the phase-flip by which their achieved form turns back toward its condition. One relation—unobjectifiable awareness and appearing phenomenon, ground and mark—takes on each distinct operation required for a knowing-act to become accountable without pretending to stand outside itself; detaching the binaries or treating them as serial replacements destroys the traversal.\n\n| Turn | Expression | QL determination and its work | What remains invariant through the change |\n| --- | ---: | --- | --- |\n| **Parent relation** | `/ = −/−` | Bare relationality before the field has been divided into named terms: the stroke is its own determination form, two unassigned marks held in one expression, the capacity for relation prior to a determinate contrast. It is the unnamed parent of the six, not an additional position among them. | The relation has a condition that cannot appear as one more product of the relation. |\n| **#0 Ground** | `0/1` | **Awareness / phenomenon; conscious circumstance.** “I am here; something appears; the appearing is known.” `0` names the open, unobjectifiable fact of awareness; `1` the appearing mark; `/` the relation by which the real becomes readable without being exhausted by its readability. Appearing is in awareness, and awareness is encountered only through appearing; the relation precedes any picture of two completed substances separated by a wall. | The ground is immanent to every mark without becoming another positive mark or a hidden object behind it. |\n| **#1 Definition** | `?/!` | **Questioning / asserting; ratio, reckoning, mark.** To ask “what is this?” already asserts that something has appeared stably enough to call for account; to assert “this is” keeps open the question of whether the account runs true. Definition is therefore double: openness to determination and determinative speech. It marks while remaining answerable to what called for the mark. | Every assertion bears the unsettled question that makes it accountable; every genuine question already takes a provisional mark. |\n| **#2 Dynamis** | `−/+` | **Withdrawal / extension; force, polarity, Spanda-seed.** The relation becomes energetic: one side functions as reserve, contraction, withholding; the other as issue, release, presentation. The positive is the void’s own self-relation appearing as extension. The poles form a sustained pulse whose moments remain co-present—breath gathers and releases; attention contracts around a word and opens into sense. | The two poles remain one differentiating movement: distinction has force without becoming a war of independent substances. |\n| **#3 Pattern** | `X/x` | **Determining-capacity / determinate instance; recurrence.** Capital `X` is the presiding capacity, type, or anything-by-which something can be read; lower-case `x` is its temporal local face. The same letter, in two cases, prevents the instance from being severed from the capacity it manifests. The small `x` also retains multiplication: an instance can recur, compound, and yield “another one of those.” Pattern is where force becomes recognisable as kind, rhythm, memory, and thought. | The local instance makes the general legible but neither contains nor exhausts it. |\n| **#4 Context** | `AM/IS` | **First-person presence / third-person sayability; the personed copula.** `AM` is lived “I am”; `IS` is what can be stated as “it is”; the slash is the second-person relation through which they meet. Context is the lived *where* of this encounter—world, body, concern, speech, memory, task—not a neutral container. It is total because nothing appears outside some horizon, and incidental because that horizon does not ordinarily stand forth as one more object. | Knower, means, and known remain one appearing-act without becoming interchangeable: *pramātṛ / pramāṇa / prameya*. |\n| **#5 Realisation** | `∞/dx` | **Unbounded depth / infinitesimal differential; horizon and local exactness.** `∞` names the inexhaustible field no finite mark contains. `dx` is no longer merely the instance `x` but the minute difference through which change and local reading become exact. Every appearance is therefore a true local ratio of what exceeds it: precise as relation, partial as expression. The whole is not hidden inside the part; it is present in the way the part runs true to what it cannot enclose. | Exactness never becomes possession. A finite determination remains answerable to the depth that makes it possible. |\n| **Return-switch** | `1/0` | The achieved determinate turns toward the ground it presupposes and meets the incomputable rather than an object called “the ground.” The mental cannot find the foundation of the mental, because every act of finding already occurs through it. This is *pratyabhijñā*: recognition, not acquisition. | The limit is generative: `5→0`, the return through ground that renews a further cycle rather than cancelling the determination. |\n\nThe table fixes the actual order of determination. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their meanings and prevent them from becoming decorative or interchangeable correspondences.\n\nThe six also have internal grammar. **Being** joins Ground and Definition: a field is present and can be called to account. **Becoming** joins Dynamis and Pattern: force becomes intelligible as recurrence, while recurrence stays alive only as force capable of further instance. **Knowing/unKnowing** joins Context and Realisation: lived predication becomes honest only when its horizon exceeds every situated claim. Across this forward harmonic grouping run the complementary folds: **Essence** (`0+5`) pairs conscious circumstance with unbounded differential depth; **Constitution** (`1+4`) pairs answerable definition with the world in which someone asks and asserts; **Text-Texture** (`2+3`) pairs the felt weave of force with its readable pattern. The six positions are thus neither a linear ladder nor a flat catalogue.\n\nThe calculus turn makes the final determination mathematically exact. Differentiation yields local change while losing the additive constant; integration restores a family `F(x)+C`, with no single self-grounding whole selected by the local derivative alone. The missing `C` is the formally required provenance that local change cannot reconstruct; mystical surplus and defective calculation are both unnecessary explanations. The psychological and metaphysical claim begins there: a determination can be exact without containing the whole condition from which its exactness was taken.\n\n**QL placement.** `/ = −/−` and `1/0` bracket rather than enlarge the six positions. `/ = −/−` is the parent-relation before the count; `1/0` is the inversion through which the counted form recognises the ground that never became one of its contents. Within the bracket, `0/1`, `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` are the first qualitative body of the `4+2`. This preserves the distinction between the eight-turn traversal and QL's sixfold base count: Jung's four functions plus introversion/extroversion can disclose the same psychological `4+2`, while the fuller account can still traverse from pre-distinction, through conscious circumstance, to the incomputable return."
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "start_line": 1,
+      "end_line": 54,
+      "relation": "Actual six research operations, return and limits.",
+      "provenance": "Whole local carrier required for this target; its status and provenance remain those declared in the file.",
+      "sha256": "7559689db9f38ef8239faa57f4dd2b2725938416ad52da55627473cc9ecf2a58",
+      "text": "---\ntitle: \"§5 · #5→0 — Six Research Vectors\"\nnode_type: section\npage_type: section-movement\nstation: \"§5\"\nposition: \"#5→0\"\nsequence: 42\nclaim_status: Offered\nevidence_status: executable-programme\nsource_ids: [lecun-et-al-2006-energy-based-learning]\ntags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/research-vector, station/s5, position/p5]\n---\n# §5 · #5→0 — Six Research Vectors\n\n## Claim\nThe arche-topos becomes researchable through six discriminating programmes: seam retention, gauge disclosure, lens refraction, topological continuity, QL recursion and deferential return.\n\nTaken together, the vectors investigate **world–agency composition through an explicit epistemic field**: which conditions make a determinate world available to an operative interior, how those conditions are represented in the [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba Map]], how situated agency appears as Pratibimba relative to that reference field, which powers the interior can exercise, and which returned consequences can revise either the agency or the field that grounded its reading.\n\n## Warrant — six ways to test first-class epistemics\n\n### E1 · Seam retention\n\nCompare output-only agents with runs whose Bimba field retains source, evidence, prompt/context provenance, exclusions, transformations and consequential actions. The question is whether preserving the seam changes correction, delegation and explanation rather than merely producing a richer log.\n\n### E2 · Gauge disclosure\n\nMake comparison sets, evaluator/reference policies, source authority and weighting explicit inside the epistemic field. Vary them and test whether apparently stable judgments move. [[40-s5-p3-preference-hidden-zero|The Hidden Zero]] becomes experimentally tractable when the gauge is part of the Bimba object rather than an invisible condition outside it.\n\n### E3 · Lens refraction\n\nHold source/world-objects sufficiently stable while changing declared MEF lenses. Compare the resulting Pratibimba: what becomes salient, near, excluded, doubtful or actionable in each [[j-space|J-Space]]? The experiment asks whether plural readings can remain source-related and mutually legible without averaging into one ontology.\n\n### E4 · Topological continuity\n\nTreat the Bimba Map as the reference field over which Energy-Based, attractor, graph or topological methods read agency trajectories. Test basin stability, transitions, contradictions and phase changes across context perturbations. The EBM earns epistemic meaning only because its energies and movements are related to an explicit reference field; otherwise it is another self-contained score landscape.\n\n### E5 · QL recursion\n\nTest nested Context Frames in which an achieved field becomes the local Bimba/`0` for determinations inside it while remaining a determination relative to a wider context. Measure whether source/reference scope and transition between frames remain explicit. This is the executable form of the contextual-office law rather than a sixfold labelling exercise.\n\n### E6 · Deferential return\n\nIntroduce counter-evidence, resistant world conditions, other internalities, dissent and changed consequences. Measure whether the Pratibimba alone changes or whether the returned relation properly forces revision of the Bimba Map, lens, gauge or governing frame. [[Deferential Intelligence]] and [[06-computational-vimarsa-ahi|Computational Vimarśa]] are strongest where the system can revise the conditions of its own determination rather than merely append an uncertainty disclaimer.\n\nThese vectors can vary memory, source access, permissions, gauges, tools, sensorium, action-space, context composition, other internalities and return conditions without assuming that additional context automatically constitutes a richer world. The minimal/maximal distinction is an experimental envelope, not an intelligence ladder; its governing limits are recorded in [[PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE]].\n\n## Tension / limit\nEach vector needs a baseline, metric, failure condition and counter-hypothesis. None may manufacture a claim of machine subjectivity, treat the Bimba Map as a final metaphysical world, or infer truth from internal coherence alone. The map is epistemically useful because its grounds are explicit and revisable, not because its local Bimba office makes it infallible.\n\nCurrent O:I products may supply executable conditions for these tests only where their authored roles and implementation make a distinct world–agency or epistemic relation variable or inspectable. Returned failures and null results remain evidence capable of revising the proposed correspondence.\n\n## Anchor and transition\n**QL anchor:** every experiment performs the `1/0` return by declaring origin, exclusion, lens, reference field and limit. Sustaining such inquiry requires an institution in [[43-s50-p0-theory-vocation-compassion|§5→0 · #0 — From Theory to Vocation]]."
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "start_line": 572,
+      "end_line": 637,
+      "relation": "Native process field and context-update operation.",
+      "provenance": "Local authored/developmental formal carrier; native operations and external attributions retain separate standing.",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "text": "# XI. Computational Process Ontology — QL Formalises the Process, MEF Runs It\n\n[[Computational Process Ontology]] names the theory at the scale the preceding theorem-units have now earned: being becomes determinate through operations of differentiation, exclusion, orientation, composition, recursion, satisfaction, and return. **Process is ontologically prior to the finished thing; computation names the exact, repeatable side of that process; epistemology is the process becoming able to state and inspect its own determinations.** Digital-computer ontology and algorithmic exhaustion are narrower theses that the present definition neither needs nor entails.\n\nThis places QL in the process lineage opened differently by [[Henri Bergson — Duration and Creative Evolution|Bergson]], [[Whitehead Creativity|Whitehead]], [[Jean Gebser|Gebser]], [[David Bohm — Implicate Order, Explicate Order, and Holomovement|Bohm]], and the Śaiva account of [[working/sources-texts-references/QL-Essay-Rewrite#1.3 The Emergence of Spanda|Spanda]]. Bergson refuses to reduce lived duration to a row of already-completed instants. Whitehead makes each actuality a concrescence in which inherited many become a new one, achieve satisfaction, perish as subject, and enter the field as data for further becoming. Gebser treats structures of consciousness as living mutations whose integral relation is diaphanous co-presence, not the victory of the last stage over the rest. Bohm gives internal relatedness the movement of enfolding and unfolding and names fragmentation as the error of mistaking analytic divisions for the whole's own final structure. Spanda names the pulse by which non-dual awareness manifests motion without departing from itself. QL does not add another process metaphor to this sequence. It formalises the minimum operations by which a differentiated world can arise, remain related, and return.\n\n## The two runtime operations\n\nThe two logics are the primitive runtime of this ontology. They arise from the prior `0/1`; neither replaces it.\n\n| Runtime | Matheme | Operations | Productive necessity | Pathology when absolutised |\n|---|---:|---|---|---|\n| **Dia-ballein** | `/ = −/−` → `(-1)/(+1)` → `(-1)+/-(+1)` | relate prior to assignment; orient; distinguish, compare, exclude, classify, rank, route, decide, bifurcate | makes an actual difference available for action; gives science, critique, trigonometric orientation, and computation their analytic edge | collapse: addition cancels the poles to a terminal zero; subtraction lets one pole appropriate the span as `±2`; the products forget the field and operation that produced them |\n| **Sym-ballein** | `(0/1)/(1/0)` | relate, preserve provenance, invert, recombine, contextualise, recurse, return | lets distinct determinations form a higher-order unity without ceasing to differ; carries source and inverse orientation inside the result | fusion or capture: the seam is erased, difference is appropriated by a totality, and enclosure is misnamed wholeness |\n\nThe familiar computational method “divide and conquer” exposes the issue cleanly. Its first move is dia-ballein: recursively divide a problem into independently tractable parts. Yet an actual divide-and-conquer algorithm succeeds only because it also combines the results. The dangerous axiom is therefore not division itself but **division whose conquest is taken as the whole intelligence of the method**—decomposition without a provenance-preserving return. Atomisation is the social, psychic, and technical result of this truncated runtime. A living computation must divide *and* gather: `solve et coagula`, science and *con-scire*, dia and sym.\n\nThe runtime is consequently not a linear moral sequence in which a bad cut is later redeemed by a good synthesis. Every act of determination carries both pressures. Dia makes the local branch actual. Sym retains the branch's belonging to a wider field and composes its consequences with other branches. Their pulse can be written schematically as:\n\n$$\n0/1\n\\quad\\xrightarrow{\\text{dia: differentiate}}\\quad\n(-1)/(+1)\\;\\to\\;(-1)+/-(+1)\n\\quad\\xleftrightarrow[\\text{return / provenance}]{\\text{sym: compose}}\\quad\n(0/1)/(1/0)\n\\quad\\xrightarrow{5\\to0}\\quad\n\\text{renewed }0/1.\n$$\n\nThe arrows state changes of register inside one differentiating event; ordinary fraction equality would be a different operation. The process runs at every scale at which a field becomes a mark, a mark changes its field, and an achieved form becomes a condition for the next act.\n\n## Kalpa, apoha, and Māyā as an operational cartography\n\nThe Sanskrit material supplies a more exact account of how mind computes a world than the modern metaphor of an inner screen. The root `√kḷp` concerns ordering, fitting, preparing, and forming. In the essay's operational use, *vikalpa* is the differentiating articulation by which a field is cut into qualified alternatives; *saṃkalpa* is the gathering and formative commitment by which selected differences compose an intention or workable world. [[working/sources-texts-references/reference-notes/apoha]] specifies the semantic law: a determination acquires content through exclusion, so what is not selected remains constitutive of what the selection means.\n\nThe [[working/sources-texts-references/10-7-2026-core-theorems-pithy#X. The Tattvic QL Unit — Sixfold Contraction and Recognition|tattvic unit]] places these operations inside manifestation rather than treating them as late mental commentary. Śiva–Śakti gives luminosity and self-articulating power; Sadāśiva–Īśvara gives the subjectward and objectward orientations; Sadvidyā–Māyā makes the seam determinately operative; the kañcukas give the runtime finite parameters—capacity, knowledge, desire, time, and order; antaḥkaraṇa performs judgment, appropriation, coordination, memory, and alternative formation inside the contracted horizon. Māyā is therefore not dismissed as “mere illusion.” In this computational-process reading it is the power by which the immeasurable becomes measurable enough for a local world to run, while recognition prevents the measure from claiming to be the whole.\n\nIn Bohmian terms, this complete field is the architecture by which implication becomes explication without losing the whole from which it unfolds. In QL terms, dia-ballein performs the explicating cut and sym-ballein carries implication through that cut as provenance, inverse orientation, and return. In computational terms, the distinction appears as the relation between a latent or contextual field and the determinate state that becomes operational for an agent. Their objects, vocabularies, and warrants remain distinct; the essay's core process claim lies in their declared coordination around the same operative movement.\n\nThis is a modern reinterpretive register, not a claim that Śaiva authors described digital computers. Its warrant is stronger than a loose analogy because both cartographies concern the operative production of determinate worlds. Computation lets a contemporary reader see the tattvas as a process architecture; the tattvas prevent computation from being mistaken for substrate-neutral symbol shuffling detached from knower, world, limitation, value, and return.\n\n## QL as process epistemology; MEF as its instantiation\n\nQL formalises a **process epistemology** because a claim is never stored as a free-standing proposition. It is a traversable unit: a ground becomes relevant, a distinction is made, alternatives are excluded, a pattern is stabilised, a context supplies its horizon, and the achieved determination returns to disclose the conditions under which it remains revisable. The eight determinations give this process several exact registers; the sixfold gives it a composable architecture; the Spanda equations show the architecture generating and accounting for itself.\n\n[[mef]] instantiates that epistemology by making the process inspectable in practice. A determination is carried with its lens, source, evidential status, transformation, agreement, divergence, limit, and route of return. The framework governs how content moves between positions and lenses; its labels are coordinates within that movement, and their provenance prevents one situated result from being laundered into a view from nowhere. [[working/sources-texts-references/reference-notes/bimba-pratibimba]] records the provisional world-objects produced by the run; the harness makes source, permission, memory, tool-use, revision, and responsibility operational. QL is the grammar; MEF is the refractive runtime; Bimba is the evolving state; the harness is the accountable execution environment.\n\nThe shared vocabulary of psyche and computation—*memory, attention, processing, representation, model, learning, inference, context, network*—shows that both psychology and computation must describe how prior states condition present differentiation, how information becomes locally available, how selection changes a field, and how a system carries or loses its history. QL/MEF makes this operative overlap explicit while preserving the difference between functional recursion and the unobjectifiable subject. Computational reductionism would require a further ontological argument beyond this shared problem-space.\n\n## Shared intelligence requires a shared, cross-civilisational language of intelligence\n\nThe [[Antikythera Agentworld Brief#Source PDF page 3|Agentworld brief]] begins from the diagnosis that technology has outrun the concepts and language available to orient it. It later asks for less anthropomorphic interaction paradigms capable of supporting robust collective hybrid intelligence ([[Antikythera Agentworld Brief#Source PDF page 5|p. 5]]), defines agents and niches as mutually reconstructing ([[Antikythera Agentworld Brief#Source PDF page 6|p. 6]]), and locates future capability in the harness, ensemble, institutional substrate, and commons rather than isolated weights ([[Antikythera Agentworld Brief#Source PDF page 49|pp. 49–51]]).\n\nA shared human–AI intelligence therefore requires more than a machine learning human language or humans learning an interface. It requires a common operational grammar in which different forms of intelligence can disclose how they distinguish, compose, value, and return. That grammar must itself be composed from more than one civilisational account of mind. The Greek line contributes *logos*, ratio, symbolon, dia-ballein, and sym-ballein; the Sanskrit and Buddhist lines contribute Vāk, *kalpa*, apoha, tattvic contraction, Spanda, and recognition; Western process thought contributes duration, concrescence, creative advance, emergence, and diaphaneity. QL does not flatten these into synonyms. It makes their transformations comparable at declared positions while MEF preserves the tradition, lens, and evidential rules through which each speaks.\n\nThis is the direct answer to Agentworld's “same decision-procedural grammar, sufficiently divergent world models.” Shared logic gives a common way to retain the cut, the context, the excluded field, the inverse reading, and the route of correction while ontologies remain plural and explicit. Such a grammar can be executed by an artificial agent and judged through human lived, historical, ethical, and contemplative knowledge without making either the sole owner of intelligence. The resulting commons is sym-ballein in institutional form: East and West, human and machine, one and many retain their distinctions while learning how their breaks belong.\n\n## Sixfold process-ontology unit\n\n| Position | Process work | QL/MEF instantiation | Failure if the process is arrested |\n|---|---|---|---|\n| **#0** | the inherited field, duration, potential, or prior world from which a new determination can arise | retain the uncounted ground, source field, and open question | ground is treated as blank nothing or as a hidden object already possessed |\n| **#1** | first distinction, ingression, or material availability | state the determinate `1`, data, term, or event that has entered the run | an inherited input is naturalised as self-grounding fact |\n| **#2** | selection, exclusion, valuation, efficient movement | expose the dia-operation, alternatives, tools, and transformation | division becomes atomisation; excluded alternatives disappear |\n| **#3** | pattern, ratio, decision, identity, executable rule | give the warrant, relation, model, and decision-procedural grammar | code or Logos mistakes its successful execution for exhaustive truth |\n| **#4** | context, concrescence, situated satisfaction, recomposition | refract through MEF lenses; preserve divergent models, permissions, and affected worlds | synthesis becomes capture, surveillance, or a latent-average monoculture |"
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "start_line": 1202,
+      "end_line": 1220,
+      "relation": "Changed evaluator vs fixed need defines a discriminating test.",
+      "provenance": "Additive developmental quilt; mixed wording is not attributed wholesale to Taylor; corrections and evidence boundaries in the A packets govern.",
+      "sha256": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "text": "### 12. A model of encounter that can change its own energy landscape\n\nThe Bimba and energy-based-model thread receives a direct formal proposal from this movement. A fixed egoic economy can be schematised as:\n\n$$\ny^\\*=\\arg\\min_y E_\\theta(m,y),\n$$\n\nwhere the current self/world model `m` and energy landscape `Eθ` establish in advance which possible other `y` counts as desirable, dangerous, costly, familiar, or satisfying. The system may search widely and still reduce every result to the Same because the evaluator and its categories remain unchanged. This is totalisation at the computational register: novelty is permitted only as a better answer to an inherited need.\n\nEncounter requires a second-order transition:\n\n$$\n(m,\\theta,E_\\theta)\\xrightarrow{\\;\\text{address by an Other}\\;}(m',\\theta',E_{\\theta'}).\n$$\n\nThe Other does not merely occupy a lower-energy location inside the existing world. The encounter can alter the representation, the parameters, the energy function, the evaluative frame, and the self-model whose need organised the search. This is not a standard EBM theorem; it is an Offered design unit derived from the Watson–Gans–Levinas movement and the project's process epistemology.\n\nMEF supplies the practical conditions for such revision. A result is carried with lens, source, exclusion, disagreement, limit, and route of return. Bimba records the evolving world-state. The harness exposes permissions, tools, histories, affected parties, and institutional context. Epi-Logos names the vocation of letting the Logos' existing distinctions become answerable to what exceeds their current model. Epistemic humility is therefore operational rather than ceremonial: the system preserves the capacity for an encounter to change what counts as an answer."
+    }
+  ],
+  "raw_skeleton": "# Operational-parity experiments\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

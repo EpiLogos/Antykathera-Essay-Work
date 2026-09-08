@@ -1,0 +1,8 @@
+{
+  "status": "pass",
+  "workflow_returncode": 0,
+  "stdout": "wrote target packet: /var/folders/q0/g_91z7355tb58425qwg3xcy80000gn/T/tmpsd003e0n/packet.json\nverified packet freshness: working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-goethe-permanence-change/packet.json\n",
+  "packet_sha256": "4943b3c63a818b048c761e0e7b1212dedb4f29db99a6e48b470cafd81c73818b",
+  "input_archives_match_every_bound_hash": true,
+  "read_status": "Completed source readings reusable; hash-only binding refresh, not repeated foundational review."
+}

@@ -1,0 +1,469 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/dispatch-queue.json",
+    "queue_sha256": "58daf082cbeff7a8f46c38be645d2f55adad99e68d50212bbb031b30bf8f7a34",
+    "census": "working/p2-enrichment/census.json",
+    "census_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "matheme-dia-syn-syn",
+    "title": "Syn",
+    "register": "matheme",
+    "record_type": "matheme",
+    "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/syn.md",
+    "wave": "T19",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+      "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+      "submission-package/essay/symbolon/matheme/README.md",
+      "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+      "working/p2-enrichment/receipts/depth-acceptance.json"
+    ],
+    "packet_status": "target-packet-and-full-material-source-recovery-required",
+    "distinct_operation": "the gathering: retention through composition; the broken token keeping both halves and the fracture (C24 fusion, C25 counterfeit gathering, C26 monoisation as its failure-modes). The junction claiming that the gathering at full strength *is* the eros of logos is the pending [A-candidacy](../../../../../working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md).",
+    "projection_folder": "dia-syn",
+    "argument_depth": [
+      "A18",
+      "A01",
+      "A02",
+      "A03",
+      "A08",
+      "A11",
+      "A12",
+      "A13",
+      "A15",
+      "A23",
+      "A24"
+    ],
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+      "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+      "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/sheffer/sheffer-1913-five-postulates/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "start_line": 293,
+        "end_line": 354,
+        "relation": "Extracted internal authorial operation; read with whole four-file circuit and curated core-theorems refinements.",
+        "provenance": "Curated core-theorems extraction set; native QL operation."
+      },
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "start_line": 167,
+        "end_line": 194,
+        "relation": "All eight determinations, their sequence, harmonics and inverse thresholds constrain this local page.",
+        "provenance": "Current native QL curated extraction."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "start_line": 1,
+        "end_line": 53,
+        "relation": "Declared cross-file grounding of this logic folder, read as a whole.",
+        "provenance": "Canonical granular argument/concept or direct internal authorial carrier."
+      },
+      {
+        "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+        "start_line": 1,
+        "end_line": 124,
+        "relation": "Declared cross-file grounding of this logic folder, read as a whole.",
+        "provenance": "Canonical granular argument/concept or direct internal authorial carrier."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/matheme/README.md",
+    "register_contract_domain": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+    "operation_to_develop": "Project the gathering: retention through composition; the broken token keeping both halves and the fracture (C24 fusion, C25 counterfeit gathering, C26 monoisation as its failure-modes). The junction claiming that the gathering at full strength *is* the eros of logos is the pending [A-candidacy](../../../../../working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md). Preserve this source section’s actual internal movement; expose inputs, operations, result, boundary and return. This is the dia-syn office, distinct from domain anatomy and root relation.",
+    "proof_standing": "Derived in native QL operations; independent finite mathematics exact under named assumptions; comparative recognition retains Argued/Offered standing.",
+    "evidence_boundary": "The stroke is no imported Sheffer proof of QL. Syn retains the cut; Dia is not intrinsically severance. Two arithmetic subtraction orientations produce -2 and +2 separately.",
+    "blockers": [],
+    "binding_status": "ready-for-target-preparation-with-explicit-evidence-debt",
+    "relations": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/sheffer-stroke.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/ql/binary-and-binary-of-binary.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      }
+    ],
+    "writing_obligations": [
+      "Read every selected A packet and materially implicated direct carrier; source/depth receipts are locators, not substitutes for the actual text.",
+      "Read SOURCE.md and all present sibling NOTES in full; never mutate protected NOTES or treat its quotation leads as verified passages.",
+      "Derive the raw #0/#1/#2/#3/#4/#5→0 from this operation. Do not use fixed Definition/Operation/Pattern/Context/Quintessence labels.",
+      "Write exact outward and return relations using the link skill permitted verbs; input-context relation descriptions are not ready-made publication prose.",
+      "The native eightfold, 4+2 cardinality, 4:2 orientation and3:3/3:1 recognition readings keep separate operations. Native X/x is never attributed to Jung.",
+      "A narrow evidence blocker restricts the unsupported claim/quotation, not the existing native QL proposition. No measurement, experiment or restoration discharge is certified by packet preparation.",
+      "Apply the concrete corrections in shared-source-recovery-a13-a24.md and shared-theorem-support-recovery.md wherever their claims are used; do not restore an error merely because it is older authored/developmental prose.",
+      "Definition and quilt preserve the short definitional chain 0/1 = 4+2 = 5→0 = 0/1; process and music preserve the full earned chain 0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1. Name the vantage when both enter a record.",
+      "File 2 primes name inverse-phase positions; File 3 §5→0 primes name the Night-pass sequence. Keep their meanings explicitly distinguished, including where both passages are inputs.",
+      "The core-theorems spine is the curated extraction set: preserve its later 3:3-also-3:1, additive-constant and native eightfold refinements; the four files condition the field without wholesale duplication into the essay.",
+      "Source/cross-register descriptions quoted in the locked README are input instructions, not finished public prose; independently verify external attribution before making it.",
+      "Reopen full relevant A packets and direct passages; this binding does not certify personal full reading of every inherited house."
+    ],
+    "supporting_receipts": [
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "working/p2-enrichment/receipts/matheme-locked-structure-recovery-2026-09-07.md",
+      "working/p2-enrichment/receipts/2026-09-07-input-amendment.md"
+    ],
+    "path_decision": "Explicit locked README leaf name; no heading-scanner admission. Reconciled with census_refresh on 2026-09-07."
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A18",
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f"
+    },
+    {
+      "argument_id": "A01",
+      "path": "working/p2-enrichment/argument-depth/A01.md",
+      "sha256": "cf90a1fb09c619f8829858a7c5dda50e8f29abf61edf1a2e142dcbf4f77f63e8"
+    },
+    {
+      "argument_id": "A02",
+      "path": "working/p2-enrichment/argument-depth/A02.md",
+      "sha256": "76e00fc0f74e87943001d805b6864674755b716d32550a33d2def2a546a0b927"
+    },
+    {
+      "argument_id": "A03",
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "sha256": "12d3a0999ffec60d963f055cdbb1a857025a70f2a7bb46641eca20bb187b9b41"
+    },
+    {
+      "argument_id": "A08",
+      "path": "working/p2-enrichment/argument-depth/A08.md",
+      "sha256": "0665c59d9039ebe87706ea25faa1d85a66fc69b31ba5506f17523a04b1449548"
+    },
+    {
+      "argument_id": "A11",
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "sha256": "19585deb79a5ec0dabb39493e413e0579e313adeab68051a783b6ad737584ab8"
+    },
+    {
+      "argument_id": "A12",
+      "path": "working/p2-enrichment/argument-depth/A12.md",
+      "sha256": "a4bfa473d034e31cd6cbd7afc45b96236929665a4dd42f4e3f056e3973c58b39"
+    },
+    {
+      "argument_id": "A13",
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8"
+    },
+    {
+      "argument_id": "A15",
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "sha256": "70e04921c5c97b94a3068eafe5b1595e3bfa4f537076f75376503628237f0f8a"
+    },
+    {
+      "argument_id": "A23",
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3"
+    },
+    {
+      "argument_id": "A24",
+      "path": "working/p2-enrichment/argument-depth/A24.md",
+      "sha256": "8ec2f6a4ee88586748f4519523c84d2ca141c37d04c86f785a001dccfa527c5b"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md",
+      "sha256": "9432bac7a477dc95d3b231f727ab59e1484a24ffbdb8c68afa7964d6e14ceeaf"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+      "sha256": "d0d3c9d3cd7694dadf34fe3f2ed229266924e01f480a746f71b0560b91df4b54"
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+      "sha256": "8fcd965a4da2cba357ffd7203eb141bd5fd654f8cf0f0ba897d3bf5589aa94bd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "sha256": "830df9a53403d0d87d96311803d0dd97e4428ae41e0885e6b2720d2855512719"
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "sha256": "e3a57cce16073324c647f808dcdd485541cbf3c85be87f9000655651b21322a6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/README.md",
+      "sha256": "115fa742d9d40ae3c283214b6f43bb679f7489a7baab862a1e99051f9ed69ec4"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+      "sha256": "f0033ed0c6c952ca377fed250ca91215863a3e95ff46edf8a359ffceb17cd4b6"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+      "source_sha256": "a4c7c775c3c6817599680727d979380e1df4894a1b53b1749e4d38d4453da975",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/sheffer/sheffer-1913-five-postulates/SOURCE.md",
+      "source_sha256": "1c16f2f85999b4e5c3d9d048220a86cb60a2832827fbdab502a5606b9e56caae",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "source_sha256": "0c16ad20b0855d542ed39597df33fc56fa97a85358c9e9a93951f88c6324b885",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "start_line": 293,
+      "end_line": 354,
+      "relation": "Extracted internal authorial operation; read with whole four-file circuit and curated core-theorems refinements.",
+      "provenance": "Curated core-theorems extraction set; native QL operation.",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "text": "## The inner mechanics of the slash (why it doesn't collapse)\n\nThe slash resists the collapse by working **double**:\n\n- **As arithmetic** — the fraction-stroke, the sign for division (the most domesticated sign in the stock).\n- **As logic** — **AND/OR**, a stroke that declines to decide between conjunction and disjunction and holds both.\n\nThis introduces a *structured irrationality* into what standard arithmetic treats as the defining form of a *rational* number. Under that stroke:\n\n- `0/1` reads: **the ground as expressed through the distinction.**\n- Its AND/OR operation generates the obverse `1/0`: **the distinction as held within and by the ground.**\n\nNeither is a second relation — each is the *one* relation looked through from its other end. QL therefore asserts `0/1 = 1/0` in the matheme's relational register: same relation, obverse orientation. Ordinary arithmetic's non-equivalence is not an embarrassment to be softened; the defined/undefined seam is the exact mathematical pressure through which the notation returns to mathematics' own metaphysical ground. The two are **same AND different**; the notation generates its counter-reading in the act of being written, a **non-dual-two**. Because both carry the same `0`, **the two ones are one**: one mark, doubly oriented, joined through the ground each contains.\n\nThe full form:\n\n$$\\frac{0/1}{1/0} \\;=\\; (0/1)/(1/0)$$\n\n— a **superposition of superpositions**, the stroke now standing between the two orientations of itself, and it locates the irrationality exactly: `0/1` is arithmetic's most innocent fraction (defined, docile); `1/0` is its one forbidden gesture (division by zero, undefined). The full form **yokes the defined and the undefined across a single stroke**.\n\n## The superposition, and the count that yields 4+2\n\nAssign the terms:\n- `0` = the **unrepresentable** — ground, remainder, the whole no system closes around, the centre that appears in no picture.\n- `1` = the **mark** — the representable, the image, the bounded act, the surface.\n\n`0/1` holds the pair in **superposition** (the quantum term used advisedly — Jung/Pauli's *[[working/sources-texts-references/QL-Essay-Rewrite#Part IX — Part IX — Resonances and Isomorphies: The Psychoid Continuum of Thought and World|psychoid]]* number, belonging to neither mental nor physical register alone but to the *unus mundus* that precedes them). **The standard arithmetic handling of \"two\" is the measurement that collapses the superposition** — forcing the pair into a definite oppositional state and destroying the relational information. `1 + (−1)` *is* the collapse.\n\nAnd the redeemed line has its own **mathematics of distinction**, counted straight off the notation:\n\n- A distinction is a **two**: ground and mark — the two digits of `0/1`.\n- Held under AND/OR, the distinction must also distinguish its **own two readings** (`0/1` and `1/0`, the relation from each end). A two applied to a two is **2² = 4** — the four pairings, every way the two can meet itself.\n- The superposition keeps *both* counts alive at once — the original two AND its self-relation:\n\n$$2 + 2^2 \\;=\\; 2 + 4 \\;=\\; 6 \\;\\longrightarrow\\; 4+2$$\n\n**Nothing is added.** The six is what a two amounts to *once it includes itself* — the natural shape of a distinction that carries its own ground. This is the `4+2` of the matheme read from its root, and it is the same six that later shows up as the perfect number and as the construction of the [[working/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|torus]].\n\nThe two accountings, finally, are one criterion: **whether the act of distinction includes what makes it possible, or severs itself from its own condition.** The diabolon is that severance written as `1 + (−1) = 0`. The symbolon is the inclusion written as `0/1` — and its whole redemption is that its zero is a *ground it returns through*, not a terminus it ends at.\n\n---\n\n# V. The Six-Fold Process of Defining God / the Subject\n\n*(Draft 3, \"The Definition\" → \"[[working/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|Quaternal Logic]]\")*\n\nThe definition is **performed, not pronounced** — it walks the QL sixfold, and its success is its faithful failure. The five explicit moves plus the return to zero are the six positions.\n\n| QL | Move | What happens |\n|---|---|---|\n| **#1** | **We define God.** | *God is the whole that any coherent representational system participates in and necessarily fails to contain.* Formally exact — the point where notation folds back and finds itself embedded in something it cannot close around. The limit Gödel formalised, the *neti neti* strips toward. **Assertion.** |\n| **#2** | **We fail to define God.** | \"God is the undefinable\" is still a mark, a bounded claim, a sentence with a full stop — a fish describing water while swimming in it. The definition *includes its own failure as a structural feature*. The hand that writes \"the hand cannot grasp itself\" is still a hand grasping. **Failure.** |\n| **#3** | **We succeed *because* we fail.** | The proposition, now aware it depends on its own self-negation, *performs the structure it describes*. At its limit, what it cannot say is exactly what it means. A definition that did not fail would have produced an idol — a closed image, a cage where a window was needed. **Paradox — the productive `?/!`.** |\n| **#4** | **We neither succeed nor fail.** | The prior three exhaust the predicative possibilities; the fourth completes them as a living whole — Eckhart's *Gottheit* grounding the three persons, Jung's \"missing fourth.\" Where an entity was expected, an *activity* is revealed: a movement between meanings, a living tension the way a bow holds its string to produce the note. **The completing fourth — Context.** |\n| **#5** | **The recognition that transcends and includes the four.** | Positions 1–4 all speak *about* God, in the objective / third-person register. The **\"I Am\"** enters through the contextualising turn — not describing God from outside but announcing *as* God from within (*ehyeh asher ehyeh*; *aham*; \"Before Abraham was, I am\"; *aham brahmāsmi*). The four objective positions converge on an undefinability the fifth resolves by revealing **the one who was defining was always the one being defined.** **The loop through the surface — traversal / recognition.** |\n| **#0** | **The return to Zero.** | The Subject reveals itself as undefinable in the same way God is, and for the same structural reason: *the I can never be its own object* — every attempt to capture the I in a predicate produces a new I doing the capturing, receding endlessly. \"God is the blind spot in God's own work, the anonymous Self at identity's core.\" **The hole at the centre — the ground the whole organises around.** |\n\n**The topological confirmation.** The definition walked the [[working/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|torus]]:\n\n> Positions **1 through 4** — {00, 10, 01, 11} — *drew the surface*: assertion, failure, paradox, the completing fourth that closes the polygon. Position **5** is the *loop through the [[working/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|torus]]* — the complete traversal, the four positions recognised as a single coherent movement. Position **0** is the *hole in the middle* — the void at the centre that makes the [[working/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|torus]] a [[working/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|torus]], the blind spot the structure organises around and must not fill, because the hole is what gives the surface its genus, its self-referential capacity, its life. **The logic locates and inhabits its own blind spot as its centre.**\n\n**The 7th — the excess that is the return.** Summing the six as binary values gives **7**: mod-4 values (`0+1+2+3 = 6`) + mod-2 values (`0+1 = 1`). *The structure contains one more than it counts.* The 7th is the **5→0** return — *what the surface does*, the self-referential act it was built to perform. (Confirmed independently: the chromatic number of the [[working/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|torus]] is 7 — Heawood / Szilassi — six-around-one total adjacency.)"
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "start_line": 167,
+      "end_line": 194,
+      "relation": "All eight determinations, their sequence, harmonics and inverse thresholds constrain this local page.",
+      "provenance": "Current native QL curated extraction.",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "text": "## (c) The eight determinations — one relation traversed from field to return\n\nThe six-position QL unit and the eight determinations answer different questions and must remain distinct. The **sixfold** is the generative positional body: the two implicate poles and four explicate relational states yielded by `2 + 2² = 4 + 2 = 6`. The **eightfold** gives that body its full threshold-to-return traversal: the unnamed parent-relation before a determinate field, the six qualitative determinations, and the phase-flip by which their achieved form turns back toward its condition. One relation—unobjectifiable awareness and appearing phenomenon, ground and mark—takes on each distinct operation required for a knowing-act to become accountable without pretending to stand outside itself; detaching the binaries or treating them as serial replacements destroys the traversal.\n\n| Turn | Expression | QL determination and its work | What remains invariant through the change |\n| --- | ---: | --- | --- |\n| **Parent relation** | `/ = −/−` | Bare relationality before the field has been divided into named terms: the stroke is its own determination form, two unassigned marks held in one expression, the capacity for relation prior to a determinate contrast. It is the unnamed parent of the six, not an additional position among them. | The relation has a condition that cannot appear as one more product of the relation. |\n| **#0 Ground** | `0/1` | **Awareness / phenomenon; conscious circumstance.** “I am here; something appears; the appearing is known.” `0` names the open, unobjectifiable fact of awareness; `1` the appearing mark; `/` the relation by which the real becomes readable without being exhausted by its readability. Appearing is in awareness, and awareness is encountered only through appearing; the relation precedes any picture of two completed substances separated by a wall. | The ground is immanent to every mark without becoming another positive mark or a hidden object behind it. |\n| **#1 Definition** | `?/!` | **Questioning / asserting; ratio, reckoning, mark.** To ask “what is this?” already asserts that something has appeared stably enough to call for account; to assert “this is” keeps open the question of whether the account runs true. Definition is therefore double: openness to determination and determinative speech. It marks while remaining answerable to what called for the mark. | Every assertion bears the unsettled question that makes it accountable; every genuine question already takes a provisional mark. |\n| **#2 Dynamis** | `−/+` | **Withdrawal / extension; force, polarity, Spanda-seed.** The relation becomes energetic: one side functions as reserve, contraction, withholding; the other as issue, release, presentation. The positive is the void’s own self-relation appearing as extension. The poles form a sustained pulse whose moments remain co-present—breath gathers and releases; attention contracts around a word and opens into sense. | The two poles remain one differentiating movement: distinction has force without becoming a war of independent substances. |\n| **#3 Pattern** | `X/x` | **Determining-capacity / determinate instance; recurrence.** Capital `X` is the presiding capacity, type, or anything-by-which something can be read; lower-case `x` is its temporal local face. The same letter, in two cases, prevents the instance from being severed from the capacity it manifests. The small `x` also retains multiplication: an instance can recur, compound, and yield “another one of those.” Pattern is where force becomes recognisable as kind, rhythm, memory, and thought. | The local instance makes the general legible but neither contains nor exhausts it. |\n| **#4 Context** | `AM/IS` | **First-person presence / third-person sayability; the personed copula.** `AM` is lived “I am”; `IS` is what can be stated as “it is”; the slash is the second-person relation through which they meet. Context is the lived *where* of this encounter—world, body, concern, speech, memory, task—not a neutral container. It is total because nothing appears outside some horizon, and incidental because that horizon does not ordinarily stand forth as one more object. | Knower, means, and known remain one appearing-act without becoming interchangeable: *pramātṛ / pramāṇa / prameya*. |\n| **#5 Realisation** | `∞/dx` | **Unbounded depth / infinitesimal differential; horizon and local exactness.** `∞` names the inexhaustible field no finite mark contains. `dx` is no longer merely the instance `x` but the minute difference through which change and local reading become exact. Every appearance is therefore a true local ratio of what exceeds it: precise as relation, partial as expression. The whole is not hidden inside the part; it is present in the way the part runs true to what it cannot enclose. | Exactness never becomes possession. A finite determination remains answerable to the depth that makes it possible. |\n| **Return-switch** | `1/0` | The achieved determinate turns toward the ground it presupposes and meets the incomputable rather than an object called “the ground.” The mental cannot find the foundation of the mental, because every act of finding already occurs through it. This is *pratyabhijñā*: recognition, not acquisition. | The limit is generative: `5→0`, the return through ground that renews a further cycle rather than cancelling the determination. |\n\nThe table fixes the actual order of determination. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their meanings and prevent them from becoming decorative or interchangeable correspondences.\n\nThe six also have internal grammar. **Being** joins Ground and Definition: a field is present and can be called to account. **Becoming** joins Dynamis and Pattern: force becomes intelligible as recurrence, while recurrence stays alive only as force capable of further instance. **Knowing/unKnowing** joins Context and Realisation: lived predication becomes honest only when its horizon exceeds every situated claim. Across this forward harmonic grouping run the complementary folds: **Essence** (`0+5`) pairs conscious circumstance with unbounded differential depth; **Constitution** (`1+4`) pairs answerable definition with the world in which someone asks and asserts; **Text-Texture** (`2+3`) pairs the felt weave of force with its readable pattern. The six positions are thus neither a linear ladder nor a flat catalogue.\n\nThe calculus turn makes the final determination mathematically exact. Differentiation yields local change while losing the additive constant; integration restores a family `F(x)+C`, with no single self-grounding whole selected by the local derivative alone. The missing `C` is the formally required provenance that local change cannot reconstruct; mystical surplus and defective calculation are both unnecessary explanations. The psychological and metaphysical claim begins there: a determination can be exact without containing the whole condition from which its exactness was taken.\n\n**QL placement.** `/ = −/−` and `1/0` bracket rather than enlarge the six positions. `/ = −/−` is the parent-relation before the count; `1/0` is the inversion through which the counted form recognises the ground that never became one of its contents. Within the bracket, `0/1`, `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` are the first qualitative body of the `4+2`. This preserves the distinction between the eight-turn traversal and QL's sixfold base count: Jung's four functions plus introversion/extroversion can disclose the same psychological `4+2`, while the fuller account can still traverse from pre-distinction, through conscious circumstance, to the incomputable return.\n\n---\n\n# III. The Pythagorean QL Unit\n\nThe Self's structure distilled to pure number — number as *[[working/sources-texts-references/QL-Essay-Rewrite#Part IX — Part IX — Resonances and Isomorphies: The Psychoid Continuum of Thought and World|psychoid]] archetype* (Jung/Pauli's *unus mundus*), where each numeral carries qualitative weight (1 = unity/first distinction, 2 = duality/relation, 3 = synthesis/the dynamic third). The unit is derived by watching the field of identity-as-difference **count itself**."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "start_line": 1,
+      "end_line": 53,
+      "relation": "Declared cross-file grounding of this logic folder, read as a whole.",
+      "provenance": "Canonical granular argument/concept or direct internal authorial carrier.",
+      "sha256": "830df9a53403d0d87d96311803d0dd97e4428ae41e0885e6b2720d2855512719",
+      "text": "# C50 — Dia / Syn\n\n## #0\n\nDia and Syn are conjugate operations of differentiation and relational return. Dia cuts, contrasts, excludes, orients and selects; Syn retains the seam through which the determinate terms can compose and return. The Two Ones are prior to these operations, and both operations have productive and counterfeit forms.\n\n## #1\n\nAssigning signs to the primordial relation yields `(-1)/(+1)`. Zero remains the axis of tension and connection. Signed measure, analytic distinction and orientation require this polarity; the cut does not by itself sever the field. The healthy operation produces a distinction precise enough to do work.\n\n## #2\n\nCollapse changes the operation:\n\n```text\n(-1) + (+1) = 0\n(-1) - (+1) = -2\n(+1) - (-1) = +2\n```\n\nAddition cancels the opposed values; the two subtraction orientations assign the full span to different poles. The cultural and psychic readings distinguish loss of difference from appropriation of the relation. These exact arithmetic operations are carriers of the authorial interpretation, not a proof of every historical instance of conflict.\n\n## #3\n\nSyn retains `(0/1)/(1/0)`: distinct orientations joined through the condition each carries. The broken token must keep both halves and their fracture for fitting to disclose belonging. Fusion destroys that relation as surely as loss. The retained binary terms and their four pairings give `2+2² = 4+2`, the self-referential body rather than an average between signs.\n\n**The Syn-pole is the sym-ballein space at full strength** — the throw-together that retains source, inverse reading and affected context while composing. This re-scope makes ownership explicit where it was derivable: the gathering operation was already this node's criterion, unowned in name. Its failure-modes are therefore not free-floating pathologies: C23 Severance, C24 Fusion, C25 Counterfeit Gathering and C26 Monoisation are what the sym-ballein office fails at, and C21 guards the reception end where its product stays a living symbol rather than an idol. The claim that the gathering at full strength *is* the eros of logos — sym-ballein as love — is the pending [A-candidacy](../../../../../working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md); C50 references it as pending and neither absorbs it nor is absorbed by it.\n\n## #4\n\nThe temporal distinction crosses the logical one. A synchronic view holds a configuration together; a diachronic view follows change, bifurcation and return. Either view can retain or conceal the provenance of its differences. Recursive division likewise succeeds through recombination; control of the combining operation can turn an otherwise productive decomposition into domination of the divided field.\n\n## #5→0\n\nThe criterion is whether the achieved distinction retains what makes it possible. A returned term carries source, exclusion, counter-reading and changed context into another act. C23 and C24 locate severance and fusion; C36 retains active tension; C43 develops functional self-return. The two logics do not license treating every cut as evil or every unity as good.\n\n### Declared field\n\n**Argument consumers:** A12–A18, A21, A24, A33, A36. **Movement consumers:** Dia/Syn theorem and computational process movements.\n\n**Etymology relation:** *Homologia / Analogia*; consumed operation: differentiated terms remain related through agreement/proportional correspondence. Register **3**; Greek *dia-*/*syn-* and *ballein* histories require independent **1/2** warrant. Return C50 → A13 → C23/C24 → C50.\n\n**Source/tradition standing:** Taylor formal grammar primary; Greek lexical materials and computational analogues remain source-distinct.\n\n### Provenance\n\nNative derivation: [core theorem SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [full theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md); [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>); [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md). The [Draft3 SOURCE](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md) and [direct Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>) preserve the author's corrections and vocational return. The derivation does not turn mathematical, linguistic or historical neighbours into borrowed proofs.\n\n### Remaining depth\n\nRestore exact formal derivations and philological history of dia-/syn-/ballein without etymological overreach.\n\n**Depth Restoration: enriched; exact external attribution debts retained.**"
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "start_line": 1,
+      "end_line": 124,
+      "relation": "Declared cross-file grounding of this logic folder, read as a whole.",
+      "provenance": "Canonical granular argument/concept or direct internal authorial carrier.",
+      "sha256": "e3a57cce16073324c647f808dcdd485541cbf3c85be87f9000655651b21322a6",
+      "text": "---\ntitle: \"Symbolon Dynamics — Archetype, Attractor, and Objective Internality\"\nauthor: \"Frank G. Taylor\"\nyear: 2026\nstatus: authorial-synthesis\nclaim_status: Argued\nsource_id: taylor-2026-symbolon-dynamics\ntags:\n  - epi-logos/antikythera-essay\n  - authorial-source\n  - symbolon\n  - chaos-dynamics\n  - objective-internality\n  - archetype\n  - matheme-mytheme-episteme\n---\n\n# Symbolon Dynamics — Archetype, Attractor, and Objective Internality\n\n## The living fraction\n\nThe archetype as such never appears. What appears is an archetypal image: a dream, god, number, symptom, fantasy, narrative, concept, bodily intensity, social formation, or pattern recognised across several of these at once. Yet the image carries a power that its visible content cannot contain. It gathers associations, redistributes feeling, alters the field of possible meanings, and draws a life into trajectories which no single interpretation commands. The archetype becomes effective through representation while remaining irreducible to everything by which it is represented.\n\nQL first writes the native relation as unrepresentable ground, relating stroke, and representable mark: `0` is the ground which no appearance exhausts, `1` the mark through which it becomes determinate, and `/` the AND/OR activity which keeps ground and mark distinct while reading each through the other. In the psychic register, archetype as such and archetypal manifestation instantiate this relation exactly:\n\n$$\n\\frac{0}{1}\n=\n\\frac{\\text{archetype as such}}{\\text{archetypal manifestation}}.\n$$\n\nHere the ground operates psychically as irrepresentable ordering capacity, the mark as representable manifestation, and the slash as the symbolic activity through which each becomes legible in relation to the other. The symbol cannot therefore be confined to the manifest `1`. A living symbol is the complete `0/1` event: a determinate form whose force lies in its continued participation in an unobjectified depth. When the form ceases to conduct this relation, the symbol becomes a sign with a settled reference, an inherited shell, or an idol occupying the place of the power it once transmitted.\n\nThe broken *symbolon* gives the relation its material image. One half does not imitate an absent whole; its fracture makes the absent counterpart operative in the present token. Recognition occurs at the seam. The half authenticates because it carries the shape of a relation which neither separated piece can manufacture alone. In the psychic register, an archetypal image has this same constitution: its particularity gives the unknown ordering factor a local face, while its strange excess keeps the local face open to the field from which it came.\n\n`X/x` is QL's native determination at Pattern: capital `X` names determining capacity and lower-case `x` its indefinite particular. Archetypal recurrence is its psychic instantiation. Across dreams, myths, symptoms, concepts, and historical formations, multiple `x` formations make `X` legible as a recurrent capacity without turning that capacity into one more image. The Ground relation `0/1` has acquired a patterned body at `X/x` while retaining the excess through which further instances can differ.\n\n## The eightfold life of the archetypal relation\n\nQL's six-position generative body and eight-turn traversal answer different questions. The sixfold gives the two implicate poles and four explicate relational positions; the eightfold places that body between its pre-determinate threshold and its phase-flipped return. Symbolic experience can therefore traverse all eight without becoming the derivation of the eight. At `−/−`, relational capacity has not yet divided itself into an ordering factor and its appearance. At `0/1`, the irrepresentable becomes available through an image without becoming representable as such. At `?/!`, the image questions consciousness in the same act by which it asserts that something has appeared and demands a response. At `−/+`, libido withdraws and extends, the symbol attracts and repels, and the psyche gathers around a tension whose energy cannot yet be allotted to one settled meaning. At `X/x`, force becomes pattern: another dream, another myth, another event can be recognised as a transformation of the same determining capacity. At `AM/IS`, the symbol passes between lived first-person presence and third-person predication, between what occurs in me and what can be said of it, with interpretation itself occupying the second-person slash. At `∞/dx`, an inexhaustible field enters an exact local change; the symbol transforms this life here without enclosing the depth from which the transformation takes its force. At `1/0`, the formed image turns consciousness toward the ground it presupposes and cannot capture. Individuation completes no inventory of the archetype. It recognises the life as a trajectory within a greater ordering relation and returns its achieved differentiation to that relation.\n\nThis traversal places symbolisation inside self-reference. The image refers through its object into the conditions by which object and interpreter become mutually legible. Through the response it evokes, it alters the interpreter, the field of interpretation, and the future meaning of the image itself. The symbol includes its own mediation among its effects. Each return changes what can next be seen, so that the `1` produced by one circuit becomes a condition within the following `0`. Symbolic life is recursive because its products re-enter the field that produced them.\n\n## Tillich's sixfold symbol\n\nPaul Tillich's six characteristics of symbols already display the minimal body of this recursive relation. Symbols point beyond themselves; participate in that toward which they point; open levels of reality otherwise closed; unlock dimensions of the soul corresponding to those levels; arise beyond intentional manufacture; and grow or die according to their power to produce a response.\n\nThe QL derivation gives the mapping its precision. A distinction is two—ground and mark. Once the distinction includes its own two readings, ground-through-mark and mark-through-ground, the two relates to itself as `2² = 4`. Holding the original poles and their four self-relations together yields `2 + 2² = 4+2`: two implicate conditions and four explicate operations. Tillich's uncommanded arising and responsive growth-or-death occupy the implicate poles because they govern the source and return of symbolic life. His other four characteristics enact what occurs between those poles:\n\n| QL body | Tillichian function | Symbolic work |\n|---|---|---|\n| implicate source | Arises beyond intentional manufacture | The symbol issues from a ground exceeding the egoic or institutional will that fashions its manifest vehicle. |\n| explicate operation 1 | Points beyond itself | The manifest form directs consciousness toward a depth it cannot contain. |\n| explicate operation 2 | Participates in what it indicates | The form transmits the power of its ground rather than reporting upon an absent object. |\n| explicate operation 3 | Opens levels of reality | The symbol reorganises the objective field of what can appear and matter. |\n| explicate operation 4 | Unlocks corresponding dimensions of soul | The same event reorganises the subjective field capable of receiving that reality. |\n| implicate return | Grows and dies through response | Its historical efficacy returns through interpreters and environments, either renewing the circuit or leaving a form whose mediating life has ended. |\n\nThe same six also sustain the horizontal `3:3` of emanation and return. The emanative triad runs from uncommanded arising, through pointing, into the opening of reality: source becomes orientation and a world is disclosed. The reversionary triad runs from the corresponding opening of soul, through participation, into growth or death by response: the disclosed world transforms its receiver and the receiver's response returns into the symbol's historical life. This is not a partition by adjacency in Tillich's list. It is an operational cross-reading of one sixfold body: vertically, two life-conditions hold four relational operations; horizontally, three moments issue toward disclosure and three return through recognition. Tillich's principles thereby express the symbolic self-reference which QL derives as `4+2 / 3:3`.\n\nThis sixfold explains why symbols act as agents of change. A symbol participates in the reality it discloses, opens the receiver to that reality, and changes its own future efficacy through the response. Its operation loops through world, psyche, expression, and renewed world. Intentional production can fashion signs, images, stories, interfaces, and rituals; symbolic life enters when the fashioned `1` conducts a determining power which exceeds the purposes of its maker and reorganises the field in which maker, interpreter, and object meet.\n\n## Attractor and trajectory\n\nJohn R. Van Eenwyk's conjunction of analytical psychology and chaos theory gives symbolic self-reference a dynamic geometry. A phase-space represents the possible states of a dynamical system; a trajectory is one system-history through that space; an invariant attractor is a subset which the dynamics carry into itself; and its basin is the region whose trajectories tend toward it. A strange attractor sustains bounded organisation through non-periodic trajectories. The system neither settles into a fixed point nor disperses into unrestricted noise. It reiterates a recognisable field while sensitive differences in conditions generate locally singular paths.\n\nThe archetype as such and the archetypal manifestation acquire a dynamical relation here. The attractor corresponds to the ordering capacity which no single point or orbit exhausts; the trajectory corresponds to the actual succession of images, affects, interpretations, crises, compensations, and transformations through which the capacity becomes manifest. The paradox of an invariant archetype producing historically novel images becomes the positive form of the dynamical object: what persists is the organisation of transformation. Identity lives by generating difference.\n\nComplexes, symbols, and archetypes occupy distinct functions in this field. Feeling-toned complexes stabilise recurrent basins of association and response. Archetypal dynamics give these recurrences a self-similar organisation across personal, cultural, mythic, and historical scales. Symbols move energy through and between the basins. They can intensify an established complex, expose its boundary, join previously separated regions of psychic life, or carry the trajectory through a bifurcation into a new regime. Psychic health then concerns the capacity for bounded transformation: enough stability for a life to retain itself, enough perturbability for the retained form to reorganise.\n\nVan Eenwyk's description of symbols as resembling manifolds belongs at the centre of this account in the sense he gives it: they carry consciousness from the known to the unknown and back again. The symbol is a transformer across the boundary of a psychic state-space. Taylor's topological extension makes the further chart-reading explicit. An archetypal manifestation functions as a local chart of an ordering field from one psychic, historical, and imaginal position; amplification moves among neighbouring charts; individuation makes their transformations conscious without replacing the field with a final map. The dynamical claim concerns trajectories and invariant organisations. The atlas claim concerns partial disclosures and their transition-relations. Symbolic transformation is the joint operation that allows the two geometries to illuminate one psychic movement without conflating their mathematical objects.\n\n## Two temporalities, two logics\n\nSynchronic and diachronic describe how the relation presents itself with respect to time. Synchronic apprehension holds a field, configuration, or ordering relation in co-presence. Diachronic apprehension follows its formation, variation, bifurcation, and return through succession. Sym-ballein and dia-ballein describe how a differentiation is accounted. Sym-ballein holds the terms as one-and-its-own-other: their difference retains its ground, seam, provenance, and possibility of return. Dia-ballein converts the terms into cancelling opposites, `1/−1`, and lets their common ground disappear as though the account ended at zero. A cut or bifurcation is therefore logically neutral until its accounting either preserves or severs the ground of relation.\n\nThese two distinctions cross rather than duplicate one another:\n\n|  | Sym-ballein | Dia-ballein |\n|---|---|---|\n| **Synchronic** | A differentiated field held as a co-present whole whose terms retain the ground of their relation. | A field presented as opposed and cancelling terms whose shared condition has disappeared from the account. |\n| **Diachronic** | Recurrence, circumambulation, compensation, and return carrying achieved differences through time. | A sequence in which determinations harden into exclusions, branches lose their common provenance, and each cancellation appears as a terminus. |\n\nThe strange attractor supplies the field on which these temporal and logical differences become jointly legible. Its invariant organisation is apprehended synchronically and its trajectories diachronically. Within either temporality, sym-ballein accounts differentiation through retained ground and return, while dia-ballein accounts it through opposition and cancellation. Symbolic life requires real cuts and bifurcations, yet its syn-ballic work prevents determination from becoming severance. A synchronic structure without diachronic traversal becomes an inert schema. A diachronic sequence severed from its synchronic field becomes an accidental chain. Sym-ballein without differentiation loses the terms it must gather; dia-ballein forgets the field whose differentiation gave the terms their meaning.\n\nSynchronicity makes this structure experiential. Two events arrive through distinct causal histories, yet their coincidence discloses a shared ordering meaning which neither causal chain contains. Their external separation remains; the recognised seam gathers them as matching halves of a symbolon. A synchronistic event is a sym-ballein irruption within diachronic sequence, a moment in which the synchronic field becomes legible through the relation of its determinate events.\n\n## Matheme, mytheme, episteme, symbolon\n\nThe matheme, mytheme, and episteme are the three prime registers through which this dynamic becomes transmissible. The matheme gives the invariant relation an exact and repeatable form. The mytheme gives the relation a life capable of being remembered, suffered, desired, narrated, and transformed. The episteme gives the relation standing in a body of knowledge, practice, institution, history, and warrant. Their fourth is the symbolon which gathers the three while retaining their differences.\n\nIn the list-order reading, matheme occupies `0` as the ground-invariant, mytheme occupies `/` as living mediation, and episteme occupies `1` as knowledge brought to standing. The conjugate reading remains active: mytheme can bear the imaginal ground from which a matheme emerges as exact mark. This reversibility belongs to the grammar because every register has its own `0/1` interior. A matheme carries an unrepresented field of possible operations through a written expression. A mytheme carries an archetypal depth through a finite narrative. An episteme carries tacit histories, exclusions, methods, and institutions through each authorised statement. The symbolon gathers the three symbola; it does not flatten them into a common vocabulary.\n\nVan Eenwyk's work performs this gathering. Dynamical systems contributes an exact mathematics for bounded, non-periodic transformation through phase-space; archetypal images and narratives become mythemic where they carry that transformation through lived psychic form; analytical psychology and chaos theory remain differentiated epistemic formations with distinct objects, methods, and warrants. The productive seam is exact: chaos dynamics formalises invariant organisation across singular trajectories, while analytical psychology articulates how images, affects, complexes, and interpretation alter the lived trajectory. Each supplies a register the other lacks while the symbolon keeps their difference active.\n\n## Libido, prāṇa, Śakti\n\nChaos-dynamical formalism represents changes of state, tendencies of trajectories, stability, perturbation, and bifurcation. Its psychic enactment is energetic in the Jungian register: a symbol concentrates, diverts, releases, raises, or transforms libido by changing the organisation through which psychic valuation and intensity can move. The state-space description models the pattern of change; libido names the psychic charge whose disposition makes that pattern lived.\n\nPrāṇa, Śakti, and Spanda disclose three further energetic operations without collapsing into libido. Prāṇa concerns living circulation: breath, vitality, direction, and differentiated current. Śakti concerns manifestation-power: the unmanifest issues into form, maintains a world, conceals its source within determination, and returns through recognition. Spanda concerns pulsation: withdrawal and extension remain phases of one activity. Libido concerns psychic valuation, investment, and transformation. Their coordination occurs at `−/+`, where withdrawal and extension, reserve and issue, stability and perturbability must be held together. The cross-register claim is that pattern and energy are internally related: a pattern gives energy a repeatable route, while energy gives pattern its capacity to intensify, vary, and reorganise. Chaos dynamics renders the morphology of that coordination; the psychic, vital, and Śaiva registers name distinct modes in which it is enacted.\n\nThe symbol works prāṇically when it reorganises living circulation—breath, attention, rhythm, vitality, and current. It works Śāktically when manifestation, concealment, maintenance, and recognition become one self-articulating movement. A mantra can perform both: its breath and cadence organise circulation, while its sonic form conducts a power of manifestation back toward recognition. A dream works libidinally when its image redistributes psychic investment and opens a new trajectory. A matheme works symbolonically when its exact mark returns the reader into the unrepresented field of operations it conducts. These are distinct criteria for one cross-register energetic morphology, not a list of interchangeable signs.\n\n## Objective internality\n\nObjective internality is the situated context-world from which an intelligence perceives and acts. A phase-space models its possible configurations and trajectories; it is the mathematical image of the world's dynamical interior, not a substitute for the world itself. Memory, affect, language, concepts, habits, expectations, values, tools, permissions, social relations, material supports, and environmental affordances shape what can appear, how it can be distinguished, and which trajectories remain available. These relations are internal to the agent's operation because changing them changes the world from which the agent perceives and acts; they remain objective because their structures, effects, inheritances, and transformations can be investigated.\n\nThe synchronic view apprehends this internality as the present configuration of an attractor landscape: the active basins, boundaries, latent alternatives, symbolic anchors, and permitted transitions of the world. The diachronic view follows the actual trajectory by which perception, interpretation, action, response, and memory reorganise that landscape. The cut gives each determination its local edge. Dia-ballic accounting converts the edge into a severance whose opposing terms conceal their common condition; syn-ballic accounting retains source, exclusion, inverse reading, and return as dimensions of the achieved determination. Symbolisation is the circulation by which the context-world both forms an agent and becomes transformable through that agent's activity.\n\nArtificial agents make this context visible in technical form. Model, prompt, memory, retrieval, tools, permissions, evaluator, interface, collaborators, institutions, energy, and material infrastructure participate in the objective internality from which an answer or action emerges. The agent cannot be located in the model alone, because the model becomes this agent through the active arrangement of the wider field. Single- and multi-agent organisation therefore concerns the formation, coupling, competition, and transformation of attractor basins across a shared environment.\n\nQL, MEF, and Bimba give this field its symbolic technē. QL supplies the minimal operations of ground, determination, cut, inverse, context, and return. MEF makes the refracting lenses and their transformations inspectable. Bimba retains the governed source-field through which separate trajectories can recognise common inheritance without submitting to one totalising centre. Repeated circumambulation through the QL determinations trains a capacity to enter a form, expose its excluded field, meet its inverse, alter its context, and return the achieved difference to the ground from which another cycle can begin.\n\n## QL as entitled attractor\n\nQL claims entitled-attractor status because its native operations repeatedly generate exact yet non-identical transformations, while its psychic, mythic, epistemic, musical, topological, social, and technical uses remain declared cross-register applications. Its entitlement rests first on the internal derivation: the distinction `0/1` includes its inverse reading `1/0`; their self-relation yields `2+2² = 4+2`; the First and Second Spanda equations expose the horizontal `3:3` and vertical `4:2`; their cross-reading generates the ratio family; the ratio family retains its `9/8` remainder; and the positional body receives its topological return. It rests next on recurrence: distinct inquiries enter the field from different conditions and recover recognisable operations without repeating one vocabulary. It rests finally on non-closure: every achieved `1` returns through `1/0`, and the remainder becomes the live condition of another traversal.\n\nAn attractor worthy of intelligence must organise without arresting, gather without consuming, and return without erasing the path. The symbolon is the minimal body of this demand. Its seam keeps the irrepresentable active within representation; its fracture lets plurality authenticate relation; its recursive life lets every determination become a condition for further thought. Objective internality names the world this circulation composes from within. Chaos dynamics gives that world its motion, and the living energies named libido, prāṇa, and Śakti give the motion its psychic, vital, and ontological depth.\n\n## Source relation\n\nThis authorial synthesis arises from Frank G. Taylor's QL theorem field, the register grammar of matheme–mytheme–episteme–symbolon, and his reading notes on John R. Van Eenwyk's *Archetypes & Strange Attractors: The Chaotic World of Symbols*. Van Eenwyk supplies the book-length analytical-psychological engagement with attractors, trajectories, complexes, symbols, self-organisation, and transformation. His presentation of Tillich supplies the six characteristics of symbolic life developed here as a `4+2` and `3:3` structure. Jung supplies the distinction between archetype as such and archetypal manifestation, the transformative symbol, individuation, synchronicity, libido, and the Self. The prāṇic, Śāktic, and Spanda articulation belongs to Taylor's cross-register synthesis within the established QL field.\n\nThe external quotations and historical attributions remain housed with their recoverable sources. The derivations joining `0/1`, the eight determinations, `4+2`, the two logics, the register grammar, objective internality, and entitled-attractor status are the authorial claims of this source."
+    }
+  ],
+  "raw_skeleton": "# Syn\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

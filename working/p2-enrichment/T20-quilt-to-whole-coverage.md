@@ -1,10 +1,10 @@
 # T20 — Quilt-to-whole coverage
 
-**25 canonical whole Mythemes; 127 recovered units accounted for.** The current semantic audit records95 units accepted at admitted scope,22 held or source-led research units,9 units retained in other registers, and one World Clock telling debt distinct from the Pauli egg. The last named consumer check, R01, remains in progress; this report does not yet declare T20/T21 globally complete.
+**25 canonical whole Mythemes; 127 recovered units accounted for.** The current semantic audit records95 units accepted at admitted scope,22 held or source-led research units,9 units retained in other registers, and one World Clock telling debt distinct from the Pauli egg. R01’s four subordinate exemplars are now restored in their six appointed Arguments with scoped T22 passing. T20 is accepted at its admitted scope; T21’s final E4 comparative branch remains in development.
 
 Neumann supplies shared archetypal structuration. The worlds retain their distinct geographies and temporal sequences. All23 complete Taylor poems match their source texts and resolve through their actual `taylor-ft-pNN` anchors. No poem has been selected for the manuscript.
 
-The [semantic audit](receipts/T20-whole-semantic-audit-2026-09-08.md), [whole corrections](receipts/T20-audit-fixes-completion-2026-09-08.md), and machine crosswalk `T20-quilt-to-whole-coverage.json` retain exact source, local-operation, consumer and claim-standing evidence. The [initial recovery report](snapshots/T20-quilt-to-whole-intake-report-before-development.md) is historical provenance; its dispatch and source-availability statements are superseded by current evidence.
+The [R01 consumer closure](receipts/T22-R01-consumer-closure.md), [semantic audit](receipts/T20-whole-semantic-audit-2026-09-08.md), [whole corrections](receipts/T20-audit-fixes-completion-2026-09-08.md), and machine crosswalk `T20-quilt-to-whole-coverage.json` retain exact source, local-operation, consumer and claim-standing evidence. The [initial recovery report](snapshots/T20-quilt-to-whole-intake-report-before-development.md) is historical provenance; its dispatch and source-availability statements are superseded by current evidence.
 
 ## Every recovered unit
 
@@ -35,7 +35,7 @@ The [semantic audit](receipts/T20-whole-semantic-audit-2026-09-08.md), [whole co
 | 23 | Valentinian Sophia, Horos, Achamoth and Soter | accepted-at-admitted-scope | [Whole or retained carrier](../../submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md) |
 | 24 | Pauli egg-dream whole-form refraction | accepted-at-admitted-scope | [Whole or retained carrier](../../submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md) |
 | 25 | The Meal: epistemic digestion and shared table | accepted-at-admitted-scope | [Whole or retained carrier](../../submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md) |
-| 26 | Prometheus and Atlas as spectral technoscience pair | held-or-research-scope-preserved | [Whole or retained carrier](../../submission-package/essay/symbolon/mytheme/worlds/contemporary-philosophy/prometheus-atlas-technoscience/WHOLE.md) |
+| 26 | Prometheus and Atlas as spectral technoscience pair | held-or-research-scope-preserved | Held candidate; proposed destination retained in machine crosswalk |
 | 27 | Venus: Hesperus/Phosphorus and Lucifer/Christ vectors | held-or-research-scope-preserved | [Whole or retained carrier](../../submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md) |
 | 28 | Bow, lyre, arrow and hamartia | accepted-at-admitted-scope | [Whole or retained carrier](../../submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md) |
 | 29 | Taijitu with two, one and erased dots | accepted-at-admitted-scope | [Whole or retained carrier](../../submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md) |

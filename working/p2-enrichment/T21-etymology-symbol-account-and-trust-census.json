@@ -1,0 +1,170 @@
+{
+  "elements": [
+    {
+      "record_id": "etymology-symbol-account-and-trust",
+      "title": "symbol-account-and-trust",
+      "register": "episteme",
+      "record_type": "etymology-whole",
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "wave": "T21",
+      "disposition": "enrich-existing-whole",
+      "authority": [
+        "working/final-argument-quilt-2026-08-23/OUGHT-BE-ETYMOLOGY-ARCHITECTURE.md"
+      ],
+      "packet_status": "single-target-authorized-current-inputs-bound",
+      "binding_state": "fresh-target-binding",
+      "dispatch_status": "authorized-by-user-after-E4-edit-barrier",
+      "argument_depth": [
+        "A01",
+        "A13",
+        "A15",
+        "A18",
+        "A20",
+        "A22",
+        "A23",
+        "A25",
+        "A27",
+        "A31",
+        "A32",
+        "A33",
+        "A36"
+      ],
+      "direct_carriers": [
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+        "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+        "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+        "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md"
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md"
+      ],
+      "source_slices": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "start_line": 1,
+          "end_line": 70,
+          "relation": "Whole protected lexical and historical branch; preserve its leads and separate registers.",
+          "provenance": "Protected learning surface; full read, never mutate."
+        },
+        {
+          "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+          "start_line": 19,
+          "end_line": 43,
+          "relation": "Whole symbolic relation, seam and recursive interpreter return; read complete manuscript.",
+          "provenance": "Authorial synthesis, not external philological evidence."
+        },
+        {
+          "path": "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+          "start_line": 7,
+          "end_line": 57,
+          "relation": "Knowledge as provisional trust anchor versus projected distrust; whole revision read with later ratifications.",
+          "provenance": "Mixed developmental provenance; exact first-person chiasmus unconfirmed."
+        }
+      ],
+      "relations": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "relation": "returns-to",
+          "operation": "Image efficacy returns to source-answerability, including appropriation after withdrawal."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "relation": "returns-to",
+          "operation": "Evidence makes obligation inspectable; committed reliance remains an act."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+          "relation": "returns-to",
+          "operation": "Entrusted authority returns liability and can receive correction of its commission."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+          "relation": "returns-to",
+          "operation": "Account changes future field; initiated return is distinct from feedback."
+        }
+      ],
+      "register_contract": "working/final-argument-quilt-2026-08-23/OUGHT-BE-ETYMOLOGY-ARCHITECTURE.md",
+      "additional_required_inputs": [
+        "working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md",
+        "working/final-argument-quilt-2026-08-23/RELATIONAL-FORM-GROWTH-GRAMMAR.md",
+        "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+        "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+        "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+        "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+        "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+        "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+        "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+        "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+        "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+        "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+        "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+        "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+        "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+        "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+        "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "submission-package/essay/symbolon/episteme/etymologies/T09-A-C-E-RECIPROCITY-INDEX.md",
+        "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+        "submission-package/essay/symbolon/episteme/concepts/reference-notes/hole-whole-holy-health.md"
+      ],
+      "cardinalities": {
+        "terms": 3,
+        "generated_operations": 4,
+        "page_positions": 6,
+        "evidence_registers": 4
+      }
+    }
+  ],
+  "authority": [
+    "working/final-argument-quilt-2026-08-23/OUGHT-BE-ETYMOLOGY-ARCHITECTURE.md",
+    "working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md",
+    "working/final-argument-quilt-2026-08-23/RELATIONAL-FORM-GROWTH-GRAMMAR.md",
+    "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md"
+  ],
+  "snapshot_provenance": {
+    "captured_at": "2026-09-08T02:35:24.103393+00:00",
+    "full_queue": "working/p2-enrichment/dispatch-queue.json",
+    "full_queue_sha256": "95ed5f9144f0213154ddffce852e35440635cb927993c758fae925b5c2365020",
+    "full_census": "working/p2-enrichment/census.json",
+    "full_census_sha256": "f7f2412be99c472e0e5f4de329504ae73ea523aaaea9ce7c1a6c1aabf8419d99",
+    "original_queue_target": {
+      "record_id": "etymology-symbol-account-and-trust",
+      "title": "symbol-account-and-trust",
+      "register": "episteme",
+      "record_type": "etymology-whole",
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "wave": "T21",
+      "disposition": "enrich-existing-whole",
+      "authority": [
+        "working/final-argument-quilt-2026-08-23/OUGHT-BE-ETYMOLOGY-ARCHITECTURE.md"
+      ],
+      "packet_status": "awaiting-complete-36-depth-review",
+      "binding_state": "target-inputs-pending",
+      "dispatch_status": "held-folder-structure-discussion"
+    },
+    "authorization": "User: E4 edit barrier passed; one complete field, unique snapshots/packet, historical companion if warranted, receipt; no full queue or consumer edits.",
+    "baseline": {
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md": {
+        "sha256": "097cca1c3907e8dd6588113f42052c6a286fda6550692dbae4367ccb06e9ba70",
+        "text": "# Whole Field — Symbol / Account / Trust\n\n**Standing:** mature T09 Etymology whole-field. `HISTORY.md` preserves the historical symbol/account/trust material; this page states the canonical relational office consumed throughout A01–A36 and C01–C64.\n\n## The relation\n\nA **Symbol** is a determinate form that discloses a relation beyond what the form exhausts. An **Account** is the articulated reckoning/report by which that disclosure becomes answerable and transmissible. **Trust** is the committed reliance by which an account can guide action without being confused with possession of its source.\n\nThe field is not a common-descent claim. Historical senses of *symbol*, *account* and *trust* remain individually warranted. Canonically, their growth is operational:\n\n```text\nsource / relation\n        ↓\nSymbol — determinate disclosure\n        ↓\nAccount — articulated, inspectable relation\n        ↓\nTrust — committed use under non-possession\n        ↓\nencounter / consequence / revision\n        ↺\nSymbol and Account transformed\n```\n\n## Canonical operations\n\n### Symbol answers to source\n\nConsumed by **A01 Faithful Definition**, **A18 Primordial Symbolon**, **A20 Image/Valuation**, **C21 Living Symbol/Idol**, **C22 Counterfeit Symbolon**. A form becomes idolatrous when its source-relation is replaced by source-occupation.\n\n### Account does not replace source\n\nConsumed by **A15 Ratio/Rationality**, **A22 World-Atlas**, **A27 Self/Other**, **A33 Operational Parity**, **C39 MEF**, **C40 Model Internality**. The model or account can be exact and consequential without becoming the world.\n\n### Trust keeps the return route active\n\nConsumed by **A23 Trust/Faith**, **A25 Covenant**, **A31 Deferential Intelligence**, **C48 Trust/Faith**. Trust is strongest where grounds and revision conditions are explicit; it degenerates where the account becomes protected against the source that could revise it.\n\n### Account re-enters source-field\n\nConsumed by **A32 Reflective Field / Mirror That Moves First** and **C55 Reflective Field**. Once an account changes attention, action or infrastructure, later source conditions may themselves include effects of the prior account. This does not erase `world ≠ world-model`; it makes their causal relation recursive.\n\n## Evidence registers\n\n**1–2:** historical lexical descent and attested semantic fields remain in `HISTORY.md` and supporting source pages.\n\n**3:** the Symbol → Account → Trust → Return relational circuit is Operational Homology / authorial relational construction.\n\n**4:** any graphic or phonic return around *symbolon*, *account*, zero or other marks is explicitly poetic/authorial unless separately historically warranted.\n\n## Relation to Primordial Symbolon\n\nA18 is the substantive Argument and the eightfold traversal. C61 is routing architecture. This Etymology field neither replaces A18 nor proves it. It supplies the lexical/operational reasoning office by which historical symbol-language, accountable representation and trust can be consumed without office-collapse.\n\n**Depth Restoration:** historical branches remain pending where detailed source verification has not yet been completed; T09 relational routing is current.\n\n### Whole-mytheme returns\n\nAt evidence register 3, [the whole Ares–Aphrodite relation](submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md#ares-guarantee-release) **figures** the difference between an account of capture and the undertaking which makes release possible; [A23](../../arguments/A23-Trust-Faith-and-the-Formal-Limit.md) and [A25](../../arguments/A25-Covenant-Mediating-Office-Source-Authority.md) return its named bearer of liability. [the complete Apollo–Eros–Daphne–Peneus whole](submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md#apollo-appropriation-after-withdrawal) **figures** a different consequence: an emblem can remain culturally effective after the failed encounter, so [A20](../../arguments/A20-Image-Valuation-Possession.md) returns efficacy to source-answerability. [the Eros–Psyche whole](submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md#psyche-native-return) **figures** disclosure and injury followed by a changed continuation; its legal ending qualifies any attribution of the author’s non-possession philosophy to Apuleius. These returns retain the three-term field and its four operations. Each source tells its own sequence; no shared lexical descent follows from the comparison.\n"
+      },
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md": {
+        "sha256": "a46b2a8233e9cf86e93eefbe86fcc7668794632787ec54c4ead6a93dd5ae74fe"
+      }
+    }
+  }
+}

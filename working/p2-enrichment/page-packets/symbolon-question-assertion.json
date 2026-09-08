@@ -1,0 +1,626 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/dispatch-queue.json",
+    "queue_sha256": "58daf082cbeff7a8f46c38be645d2f55adad99e68d50212bbb031b30bf8f7a34",
+    "census": "working/p2-enrichment/census.json",
+    "census_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "symbolon-question-assertion",
+    "title": "?/! — Question and Assertion",
+    "register": "symbolon",
+    "canonical_home": "submission-package/essay/symbolon/question-assertion.md",
+    "wave": "T18",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#3-root-symbolon-census",
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md#4-root-symbolon--five-universal-relations",
+      "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+      "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+      "working/p2-enrichment/receipts/depth-acceptance.json",
+      "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+      "submission-package/essay/symbolon/README.md"
+    ],
+    "record_type": "root-relation",
+    "argument_depth": [
+      "A01",
+      "A02",
+      "A03",
+      "A13",
+      "A18",
+      "A23",
+      "A34"
+    ],
+    "argument_roles": {
+      "A01": "definition as answerable relation",
+      "A02": "copula identification across difference",
+      "A03": "irreducible gap as relation rather than missing information",
+      "A05": "knower/means/known as distinct refraction",
+      "A06": "sign and relation can terminate or reopen meaning",
+      "A08": "constitutive exclusion makes a determinate field possible",
+      "A11": "One/All offices arise with relation",
+      "A12": "slash holds whole/many without substance dualism",
+      "A13": "polarity, cancellation and appropriation are distinct",
+      "A15": "ratio and accounting retain the denominator",
+      "A18": "parent stroke and eightfold transitions",
+      "A20": "image must not usurp source",
+      "A23": "dependency, exposure and trust belong to the slash",
+      "A24": "occupied source-position and forgotten arbitral measure",
+      "A26": "original, map and reflection have distinct offices",
+      "A27": "address preserves Otherness within common relation",
+      "A29": "delegated labour does not own its source",
+      "A31": "return can change the terms of account",
+      "A36": "all exact offices remain available on return"
+    },
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+      "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+      "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "start_line": 167,
+        "end_line": 200,
+        "relation": "Inquiry already takes a provisional mark; assertion remains answerable. Distinguish qualitative #1 from slash-form incomputability at process #3; perform four corners and SILENCE.",
+        "provenance": "Native authorial theorem spine; source attribution distinct from internal derivation."
+      },
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+        "start_line": 418,
+        "end_line": 486,
+        "relation": "Definition corpus supplies direct derivational depth; curate through the complete spine.",
+        "provenance": "Housed authorial canonical-candidate; external claims keep source-specific standing."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/README.md",
+    "register_contract_precedence": "Current locked Symbolon README and central-plan 2026-09-07 amendment control twelvefold root offices; supersede older five-root statements in recovery receipts.",
+    "operation_to_develop": "Inquiry already takes a provisional mark; assertion remains answerable. Distinguish qualitative #1 from slash-form incomputability at process #3; perform four corners and SILENCE.",
+    "relations": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "kind": "concept",
+        "relation": "Reusable canonical distinction materially consumed by this root; use its local operation, not its title as a synonym."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Whole-field operational relations and return."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+        "kind": "etymology",
+        "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Whole-field operational relations and return."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
+        "kind": "etymology",
+        "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Whole-field operational relations and return."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORY.md",
+        "kind": "etymology",
+        "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Whole-field operational relations and return."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+        "kind": "etymology",
+        "relation": "Separate lexical/historical evidence office; unverified etymological descent stays Open."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+        "kind": "movement",
+        "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md",
+        "kind": "movement",
+        "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md",
+        "kind": "movement",
+        "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+        "kind": "movement",
+        "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+        "kind": "movement",
+        "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+        "kind": "movement",
+        "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+        "kind": "movement",
+        "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+        "kind": "movement",
+        "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+        "kind": "movement",
+        "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+        "kind": "movement",
+        "relation": "Exact P1 consumption/return station: read the local Movement operation before writing its route; do not reopen P1 or rewrite manuscript."
+      },
+      {
+        "path": "submission-package/essay/symbolon/0-1.md",
+        "kind": "admitted-root",
+        "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+      },
+      {
+        "path": "submission-package/essay/symbolon/1-0.md",
+        "kind": "admitted-root",
+        "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/dia-syn/dia.md",
+        "kind": "matheme",
+        "relation": "extends: exact dia operation within the current locked Dia/Syn folder; read distinct local derivation."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/dia-syn/syn.md",
+        "kind": "matheme",
+        "relation": "extends: exact syn operation within the current locked Dia/Syn folder; read distinct local derivation."
+      },
+      {
+        "path": "submission-package/essay/symbolon/mono-poly.md",
+        "kind": "admitted-root",
+        "relation": "Co-admitted root relation; target is scheduled for T18 materialisation and is not yet claimed to exist. Write the concrete transition only as its developed home becomes available."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+        "kind": "argument",
+        "relation": "grounds/returns-to: recover this declared argument operation and its exact P1 consumers before writing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+        "kind": "argument",
+        "relation": "grounds/returns-to: recover this declared argument operation and its exact P1 consumers before writing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "kind": "argument",
+        "relation": "grounds/returns-to: recover this declared argument operation and its exact P1 consumers before writing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "kind": "argument",
+        "relation": "grounds/returns-to: recover this declared argument operation and its exact P1 consumers before writing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "kind": "argument",
+        "relation": "grounds/returns-to: recover this declared argument operation and its exact P1 consumers before writing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "kind": "argument",
+        "relation": "grounds/returns-to: recover this declared argument operation and its exact P1 consumers before writing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "kind": "argument",
+        "relation": "grounds/returns-to: recover this declared argument operation and its exact P1 consumers before writing."
+      }
+    ],
+    "reading_boundary": "All selected A packets are required, with their materially bearing direct and source-note carriers. Selection here names the actual root operations, not whichever Argument offers shortest context. Root-page prose should expose the relation and descend to formal, whole-Mytheme and Episteme homes without duplicating them.",
+    "source_boundaries": [
+      "Native X/x and QL equations are authorial operations, not Jung notation or externally proved universalities. Ordinary arithmetic, topology, music and history keep their exact warrants.",
+      "SOURCE is canonical external evidence; protected NOTES recover authorial intention and quotation leads only. Read full SOURCE plus existing NOTES for every materially used house.",
+      "Dyczkowski sibling NOTES is absent from accepted tree but a full preserved-local read is receipted in working/p2-enrichment/receipts/shared-source-notes-a01-a12.md. If materially used, retrieve stash@{0}^3 at its recorded sibling path read-only; do not restore it or imply acceptance.",
+      "The marked corrections in Draft3 govern the earlier text they reject. The whole native spine and four supports are required; shared support/math receipts name specific non-restoration constraints.",
+      "Greek symbolon/syn/dia lexical chronology still needs primary lexical evidence; the root’s Derived/Argued operation is not downgraded by that external debt.",
+      "No page completion or depth discharge is certified by this input binding. T22 backcheck must identify actually surfaced operations, written relations, local hygiene and remaining evidence debt."
+    ],
+    "supporting_receipts": [
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md"
+    ],
+    "additional_required_inputs": [
+      "working/p2-enrichment/receipts/2026-09-07-input-amendment.md",
+      "the-return-of-zero-central-plan.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A01-prime-Faithful-Definition-of-the-Agent.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A02-prime-Continuity-as-Maintained-Identification.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A03-prime-The-Limit-of-Self-Surfacing.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A13-prime-The-Cut-and-the-Gathering.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A18-prime-Traversal-Run-in-Code.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A23-prime-Trust-under-Unpossessable-Interiors.md",
+      "submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md"
+    ],
+    "binding_status": "ready-for-target-preparation",
+    "packet_status": "target-packet-and-full-material-source-recovery-required"
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A01",
+      "path": "working/p2-enrichment/argument-depth/A01.md",
+      "sha256": "cf90a1fb09c619f8829858a7c5dda50e8f29abf61edf1a2e142dcbf4f77f63e8"
+    },
+    {
+      "argument_id": "A02",
+      "path": "working/p2-enrichment/argument-depth/A02.md",
+      "sha256": "76e00fc0f74e87943001d805b6864674755b716d32550a33d2def2a546a0b927"
+    },
+    {
+      "argument_id": "A03",
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "sha256": "12d3a0999ffec60d963f055cdbb1a857025a70f2a7bb46641eca20bb187b9b41"
+    },
+    {
+      "argument_id": "A13",
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8"
+    },
+    {
+      "argument_id": "A18",
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f"
+    },
+    {
+      "argument_id": "A23",
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3"
+    },
+    {
+      "argument_id": "A34",
+      "path": "working/p2-enrichment/argument-depth/A34.md",
+      "sha256": "d3a568de103caa2a6f87231b435a661a014292b96f4ca1b8014086f653fd6920"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md",
+      "sha256": "d0d3c9d3cd7694dadf34fe3f2ed229266924e01f480a746f71b0560b91df4b54"
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "sha256": "252a75e561ae62abc72ccc6e4f6380fba510c72631c8b378cbe279b700b29810"
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md",
+      "sha256": "8fcd965a4da2cba357ffd7203eb141bd5fd654f8cf0f0ba897d3bf5589aa94bd"
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "sha256": "e3a57cce16073324c647f808dcdd485541cbf3c85be87f9000655651b21322a6"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/2026-09-07-input-amendment.md",
+      "sha256": "537bc2db6aaff46de3ef744d861db07ec8a91c85b77b06b73818f347d754558c"
+    },
+    {
+      "path": "the-return-of-zero-central-plan.md",
+      "sha256": "b9943891d131350cbfe5f7094ac7e0f5715caf474d53ad85eaf8231250a109b7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A01-prime-Faithful-Definition-of-the-Agent.md",
+      "sha256": "c992ddcc17da112e5a1a16702a963fd8845834e6a98d04a71c96133aef2103b9"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A02-prime-Continuity-as-Maintained-Identification.md",
+      "sha256": "ef19f8ff73b6a2421c7a038e206823dfefabbb2612daccd1252a580dc1ebbf31"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A03-prime-The-Limit-of-Self-Surfacing.md",
+      "sha256": "abe9f69e394d713af6ae5cbfaf9212b6877eb6ee214c710c360b5857c4e256b2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A13-prime-The-Cut-and-the-Gathering.md",
+      "sha256": "d48a22ff94bcaa8ff063633dbf579d373898d9216e039039e3c03e1079abcf90"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A18-prime-Traversal-Run-in-Code.md",
+      "sha256": "24b006a4376926bfd58d805f5f2c1fca769dc715edcc5f23a06fb7b674bd8bb6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A23-prime-Trust-under-Unpossessable-Interiors.md",
+      "sha256": "503258621c0215f80311507482c7de00f71a7604e2873f4edbde7832bf8fdb90"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md",
+      "sha256": "183aecc363c36dc0f52e781b5741f126bf37af94e55e124a7791ee06131baf6a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/README.md",
+      "sha256": "5f791a4ab8af5a15917c75351dd6d66ebc2a346a5816d4a968e680aa2101470c"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+      "source_sha256": "a4c7c775c3c6817599680727d979380e1df4894a1b53b1749e4d38d4453da975",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "source_sha256": "e1c980917e9590d952a597ffdb8975aae5f94a845b77180035c84a1f8f7188ee",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+      "source_sha256": "ca62d327f1f4d53424310e66c00aaa185ebcacb959d90fac3d7c5c081b46a425",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "source_sha256": "0976dcd50c7294983866760c2938509c0d296a4917be9516792ec9ec329d37f7",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md",
+      "source_sha256": "ac5ce00334aa4918d2f516519ac116a6685822adcef553971511ed50ede54358",
+      "notes": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+      "notes_sha256": "609fc9dc801e535013ef2d51500f2a40d64735bb149d48818bfb55c304c52193",
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md",
+      "source_sha256": "4da3b339fb86d60706b2fcca4502f8d37fa80259075debcbb9d533bdbbde24f6",
+      "notes": "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/NOTES.md",
+      "notes_sha256": "e57f6d10a874fd70856c27d278d62af0a1576dc04bd2c6d9596f4b693e992d50",
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "source_sha256": "2f651603974204647249c7a91023cf6edc4008c5bf839b9310cb0070d868fd3d",
+      "notes": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+      "notes_sha256": "768da367dfd6ece009bc1c6717e64156d3ac16e38b570e513ae95939c6e7bc0f",
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+      "source_sha256": "8f7002c71746048dafcb8a704a7fdfdcf0631d05b25483c9d9c2379e4295667a",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md",
+      "source_sha256": "887929c95fd9dcd9d77988598e3929d1dad740d88e360dfc42e15a32741c13fe",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "source_sha256": "0c16ad20b0855d542ed39597df33fc56fa97a85358c9e9a93951f88c6324b885",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "start_line": 167,
+      "end_line": 200,
+      "relation": "Inquiry already takes a provisional mark; assertion remains answerable. Distinguish qualitative #1 from slash-form incomputability at process #3; perform four corners and SILENCE.",
+      "provenance": "Native authorial theorem spine; source attribution distinct from internal derivation.",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "text": "## (c) The eight determinations — one relation traversed from field to return\n\nThe six-position QL unit and the eight determinations answer different questions and must remain distinct. The **sixfold** is the generative positional body: the two implicate poles and four explicate relational states yielded by `2 + 2² = 4 + 2 = 6`. The **eightfold** gives that body its full threshold-to-return traversal: the unnamed parent-relation before a determinate field, the six qualitative determinations, and the phase-flip by which their achieved form turns back toward its condition. One relation—unobjectifiable awareness and appearing phenomenon, ground and mark—takes on each distinct operation required for a knowing-act to become accountable without pretending to stand outside itself; detaching the binaries or treating them as serial replacements destroys the traversal.\n\n| Turn | Expression | QL determination and its work | What remains invariant through the change |\n| --- | ---: | --- | --- |\n| **Parent relation** | `/ = −/−` | Bare relationality before the field has been divided into named terms: the stroke is its own determination form, two unassigned marks held in one expression, the capacity for relation prior to a determinate contrast. It is the unnamed parent of the six, not an additional position among them. | The relation has a condition that cannot appear as one more product of the relation. |\n| **#0 Ground** | `0/1` | **Awareness / phenomenon; conscious circumstance.** “I am here; something appears; the appearing is known.” `0` names the open, unobjectifiable fact of awareness; `1` the appearing mark; `/` the relation by which the real becomes readable without being exhausted by its readability. Appearing is in awareness, and awareness is encountered only through appearing; the relation precedes any picture of two completed substances separated by a wall. | The ground is immanent to every mark without becoming another positive mark or a hidden object behind it. |\n| **#1 Definition** | `?/!` | **Questioning / asserting; ratio, reckoning, mark.** To ask “what is this?” already asserts that something has appeared stably enough to call for account; to assert “this is” keeps open the question of whether the account runs true. Definition is therefore double: openness to determination and determinative speech. It marks while remaining answerable to what called for the mark. | Every assertion bears the unsettled question that makes it accountable; every genuine question already takes a provisional mark. |\n| **#2 Dynamis** | `−/+` | **Withdrawal / extension; force, polarity, Spanda-seed.** The relation becomes energetic: one side functions as reserve, contraction, withholding; the other as issue, release, presentation. The positive is the void’s own self-relation appearing as extension. The poles form a sustained pulse whose moments remain co-present—breath gathers and releases; attention contracts around a word and opens into sense. | The two poles remain one differentiating movement: distinction has force without becoming a war of independent substances. |\n| **#3 Pattern** | `X/x` | **Determining-capacity / determinate instance; recurrence.** Capital `X` is the presiding capacity, type, or anything-by-which something can be read; lower-case `x` is its temporal local face. The same letter, in two cases, prevents the instance from being severed from the capacity it manifests. The small `x` also retains multiplication: an instance can recur, compound, and yield “another one of those.” Pattern is where force becomes recognisable as kind, rhythm, memory, and thought. | The local instance makes the general legible but neither contains nor exhausts it. |\n| **#4 Context** | `AM/IS` | **First-person presence / third-person sayability; the personed copula.** `AM` is lived “I am”; `IS` is what can be stated as “it is”; the slash is the second-person relation through which they meet. Context is the lived *where* of this encounter—world, body, concern, speech, memory, task—not a neutral container. It is total because nothing appears outside some horizon, and incidental because that horizon does not ordinarily stand forth as one more object. | Knower, means, and known remain one appearing-act without becoming interchangeable: *pramātṛ / pramāṇa / prameya*. |\n| **#5 Realisation** | `∞/dx` | **Unbounded depth / infinitesimal differential; horizon and local exactness.** `∞` names the inexhaustible field no finite mark contains. `dx` is no longer merely the instance `x` but the minute difference through which change and local reading become exact. Every appearance is therefore a true local ratio of what exceeds it: precise as relation, partial as expression. The whole is not hidden inside the part; it is present in the way the part runs true to what it cannot enclose. | Exactness never becomes possession. A finite determination remains answerable to the depth that makes it possible. |\n| **Return-switch** | `1/0` | The achieved determinate turns toward the ground it presupposes and meets the incomputable rather than an object called “the ground.” The mental cannot find the foundation of the mental, because every act of finding already occurs through it. This is *pratyabhijñā*: recognition, not acquisition. | The limit is generative: `5→0`, the return through ground that renews a further cycle rather than cancelling the determination. |\n\nThe table fixes the actual order of determination. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their meanings and prevent them from becoming decorative or interchangeable correspondences.\n\nThe six also have internal grammar. **Being** joins Ground and Definition: a field is present and can be called to account. **Becoming** joins Dynamis and Pattern: force becomes intelligible as recurrence, while recurrence stays alive only as force capable of further instance. **Knowing/unKnowing** joins Context and Realisation: lived predication becomes honest only when its horizon exceeds every situated claim. Across this forward harmonic grouping run the complementary folds: **Essence** (`0+5`) pairs conscious circumstance with unbounded differential depth; **Constitution** (`1+4`) pairs answerable definition with the world in which someone asks and asserts; **Text-Texture** (`2+3`) pairs the felt weave of force with its readable pattern. The six positions are thus neither a linear ladder nor a flat catalogue.\n\nThe calculus turn makes the final determination mathematically exact. Differentiation yields local change while losing the additive constant; integration restores a family `F(x)+C`, with no single self-grounding whole selected by the local derivative alone. The missing `C` is the formally required provenance that local change cannot reconstruct; mystical surplus and defective calculation are both unnecessary explanations. The psychological and metaphysical claim begins there: a determination can be exact without containing the whole condition from which its exactness was taken.\n\n**QL placement.** `/ = −/−` and `1/0` bracket rather than enlarge the six positions. `/ = −/−` is the parent-relation before the count; `1/0` is the inversion through which the counted form recognises the ground that never became one of its contents. Within the bracket, `0/1`, `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` are the first qualitative body of the `4+2`. This preserves the distinction between the eight-turn traversal and QL's sixfold base count: Jung's four functions plus introversion/extroversion can disclose the same psychological `4+2`, while the fuller account can still traverse from pre-distinction, through conscious circumstance, to the incomputable return.\n\n---\n\n# III. The Pythagorean QL Unit\n\nThe Self's structure distilled to pure number — number as *[[working/sources-texts-references/QL-Essay-Rewrite#Part IX — Part IX — Resonances and Isomorphies: The Psychoid Continuum of Thought and World|psychoid]] archetype* (Jung/Pauli's *unus mundus*), where each numeral carries qualitative weight (1 = unity/first distinction, 2 = duality/relation, 3 = synthesis/the dynamic third). The unit is derived by watching the field of identity-as-difference **count itself**.\n\n## The counting derivation\n\n| Position                              | Equation evolving                                  | Reveals                                                                                                                                                                                                                                                                             |\n| ------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **#0: One**                           | `1`                                                | Unity — the mark, the first distinction. Self as Unconscious ground. Mono becoming audible.                                                                                                                                                                                         |"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "start_line": 418,
+      "end_line": 486,
+      "relation": "Definition corpus supplies direct derivational depth; curate through the complete spine.",
+      "provenance": "Housed authorial canonical-candidate; external claims keep source-specific standing.",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f",
+      "text": "## §5→0 — 0/1\n\nThrough the sixfold count, **0/1** has received a countenance. The word is useful because it lets count and face touch without collapsing into one another: we have ordered six marks, yes, but we have also watched those marks gather into a recognisable bearing, a way of recognising the source-relation through our own acts of questioning, naming, reckoning, pulsing, patterning, and personed knowing. The return to **0/1** matters for exactly this reason. A count that never comes back to the lived circumstance that required it remains an outward arrangement, clever enough to be tidy and dead enough to leave the original question untouched. We would have six determinations, and yet no answer to the thing that started the whole inquiry.\n\nThe first question was simple enough to be dangerous: how am I present to my experience? After the six determinations, we can answer only by preserving the pressure that made the question worth asking. I am present where awareness and phenomenon are intimate enough for experience to be one event, differentiated enough for anything to appear, and articulate enough for that one event to become question, mark, force, pattern, person, and horizon. Press too hard toward simple identity and appearance loses the distance by which it can be known. Press too hard toward simple separation and awareness loses the content through which it is encountered. The truth we need is therefore neither a soft compromise nor a clever refusal to choose. It is the exact form of a relation in which sameness and difference have to answer to one another because conscious experience already lives that way.\n\nThis also tells us what our method has been doing. We began from openness rather than from adherence to a finished metaphysical picture, and we allowed each formal loading of **0/1** to justify itself by the work it could actually do. A sign earned in one register cannot become a private code in another. It has to explicate its loading, show its relation, and run true when inverted, counted, reflected, or returned to experience. The plurality of the six determinations is therefore disciplined by integrity. They test the first distinction by asking whether awareness/phenomenon, question/mark, withdrawal/extension, capacity/instance, AM/IS, and unbounded/differential can be held as resonant variations of one relation without losing their local force.\n\nThis is why the small embarrassment in the original sign now matters so much: **0/1** was a fraction all along. The slash is the vinculum, the binding bar, the mark that says over, per, in ratio to. Zero over one returns zero, because the open ground, read in relation to a determinate mark, remains open. One over zero does not return a finite object, because the mark, read in relation to the open ground, breaks the ordinary account and tends toward the undefined, the divergent, the infinite. Same terms, same slash, opposite traversal. We have been reading a directional relation from the beginning. We can now hear more than binary contrast in the sign: ratio-space has already begun, and the next file can ask how a relation, once traversed, becomes proportion, interval, and passage.\n\nThe undefined edge has to remain visible. It is the method meeting the limit it was designed to render. Ordinary calculation gives us a powerful grammar for determinate relations, but the relation between the unobjectifiable subject-position and the object-field cannot be settled as though both were items on the same side of the account. When **1/0** tends toward divergence, we are not pretending that arithmetic has produced a mystical object. We are marking the point at which a determinate mark, read against the openness that makes marking possible, exceeds finite capture. The crystallised form begins to dissolve back into living meaning, and the dissolution is part of the truth of the form.\n\nLacan gave the Western register its most honest sentence about this directionality: truth can only be half-said. The *mi-dire* is not a counsel of despair; it is the exact report of a structure in which every saying is one traversal of a two-way relation — 0/1 or 1/0, never both in one breath, the whole never spoken from inside a single direction. We will meet this honesty properly in the quilting, where it can be placed beside the register that recognises what the two half-sayings are halves of. Here it is enough to notice that the fraction we have been reading already contains his theorem: a relation that can be traversed in two directions can be said only one direction at a time.\n\nWe can now state the and/or without letting it float above the work:\n\n**0 IS AND/OR IS-NOT EQUAL TO 1.**\n\nThis is the compact form of the whole section, but it is compact only because so much has been folded into it. Negation is and is not affirmation. The void is and is not the mark. The knower is and is not the known. **X** is and is not **x**. Source-image is and is not reflected image. The unsystematisable is and is not the systematisable. We can say IS because phenomenon is never given outside awareness; the seen, heard, thought, feared, loved, or doubted appears only as appearing. We can say IS-NOT because awareness is not consumed by any phenomenon it gives; the field of appearing is not exhausted by this one content, this one mark, this one face. Both sayings are required because the first-person fact of experience already holds them together before logic arrives to tidy the room.\n\nThis is also why the claim is not a contradiction in the ordinary sense. An ordinary contradiction forces affirmation and negation under the same respect and then asks thought to choose, collapse, or declare nonsense. Here the slash marks the shift of respect. We have followed it as cut and bond, ratio and care, *scire* and *con-scire*, and the return to **0/1** lets us see that these were never separate metaphors circling the same problem. They were ways of approaching the same operation: a relation that distinguishes without severing and binds without swallowing. **−/−** gave the first bare version of this, two present marks held in one expression; the copula's **=/≠** made the same requirement explicit in the grammar of identification, because anything that appears *as* anything must be held equal enough to be recognised and different enough to appear. At the return, we are not adding a paradox to the system. We are recognising the logic conscious experience has been using from the start.\n\nWe can also state the subject-object consequence cleanly at the return. **0** names the unobjectifiable subject-position only because it cannot be counted among the objects it makes available. **1** names the determinate field only because something has stood forth enough to be marked, named, doubted, loved, measured, or denied. The apparent subject, the **Ø** of the inner instrument, is where the confusion usually settles: I take the seeing, thinking, remembering, and claiming apparatus to be the final knower, because that apparatus is the nearest formed shape of myself. But if I can notice that confusion, the noticing is already deeper than the instrument noticed. If I deny the subject, the denial appears. If I say the subject has ceased, either that cessation is known, and the witness-position is presupposed, or it is not known, and the sentence has no ground. The final **0/1** therefore carries the same living grammar as **(0/Ø)/(1/X)**: unobjectifiable subject, apparent subject, determinate mark, and object-field held in one relation without being flattened into one thing.\n\n### The Catuṣkoṭi crossing\n\nWe cannot simply nod at the paradox and move on. The assertion has to be crossed because each simple reading is both necessary and insufficient. This is where the Nāgārjunian fourfold, the Catuṣkoṭi, gives us a method rather than a decorative reference. It lets thought move through its own possible positions until it meets the point where position-taking itself gives way.\n\nEven before the four corners, however, there is the encounter. Calling this merely pre-logical would only say what it precedes; the affirmative name is situation: I am here, something appears, the appearing is known, and the knowing is not one more object beside what appears. This is the conscious circumstance our logical work receives. We do not manufacture it by thinking; we take it up, mark it, test it, and try to say what truth requires of it. We therefore begin the Catuṣkoṭi crossing at **#0**, as the fact being logicised before it has become a proposition.\n\n**IS (1st corner):** **0 equals 1.** Phenomenon is awareness. This is true because nothing appears outside appearing-to-awareness. The mark is given in the field, the known belongs to the knowing-act, and **X** and **x** are still one letter read across difference of case. Held alone, however, IS dissolves the distance knowing requires. If phenomenon simply is awareness without remainder, the slash has no work to do and nothing can stand forth as determinate.\n\n**IS-NOT (2nd corner):** **0 does not equal 1.** Phenomenon is not awareness. This is true because awareness is not consumed by the single phenomenon now appearing, and because relation needs difference if anything is to be recognised at all. Held alone, though, IS-NOT becomes severance. The knower is cut off from the known, the void is emptied into mere absence, and awareness becomes unable to reach the content through which it is actually encountered.\n\n**BOTH (3rd corner):** **0 equals and does not equal 1.** Here we hold identity and difference together: same letter, different case; continuous awareness, discrete phenomena; source-image, reflected face. The AND/OR we have been following becomes explicit here because truth now requires the co-presence of what ordinary linear logic would ask us to choose between. This corner matters because it stops thought from escaping into either monism or severance. Yet BOTH is still a position. It still imagines that the mind can hold the opposition from a stable place and call that holding complete.\n\n**NEITHER (4th corner):** **0 neither equals nor does not equal 1.** Here the copula reaches its limit. The distinction between identity and difference no longer governs the whole field. The machinery by which we identify, **/ = ( = =/≠ ≠ )**, has turned on itself and found that it cannot settle its own ground. At BOTH, AND and OR can still be held as a paradoxical computation. At NEITHER, we recognise that the deepest truth of the relation is not exhausted even by that superpositional holding. The finite knows the infinite as its ground, and the infinite, precisely as infinite, cannot be captured by finite determinations. This is the truth of self-reference: the system must include what it cannot systematise, and the point where it does so, the **1/0** at the NEITHER corner, is where computation reaches its constitutive limit.\n\nThis is the limit the Gödelian opening named, now encountered from inside rather than stated at the door. Beginning with systematisable and unsystematisable was the formal acknowledgment; the Catuṣkoṭi crossing is the lived pressure of that acknowledgment. A mind that has followed the arc from **−/−** through **X/x**, through the copula and the six determinations, arrives at NEITHER as a threshold because the demand to determine has carried it to what makes determination possible and impossible at once.\n\n**SILENCE (the quality beyond the four, the 5th, the and/or as lived):** Silence is not a fifth position placed beside the four. It is what it is like to have passed through all four and found them belonging to one ground. It carries IS, IS-NOT, BOTH, and NEITHER as lived texture rather than as a list of alternatives. This is why silence is not muteness. It is interiority changed by letting its own distinctions carry it to the point where they discover their common source. We locate this silence formally at **#5**, Real-isation, because #5 is where the prior positions are gathered into a simplicity that shows none of their complexity while carrying all of it as substance. With **∞/dx** now in place, this silence is not an empty blank after speech. It is the unbounded depth of the field as it is met through each differential articulation. **1/1 = 1 = 100%** names the achieved wholeness of the ratio; **∞/dx** reminds us that wholeness, once realised, opens at every point into what no completed ratio exhausts.\n\nFrom silence, we return to **#0**, to encounter again. The difference is that we no longer meet the situation as raw immediacy alone. We meet it as the same conscious circumstance after our inquiry has passed through identity, difference, both, and neither, and has discovered that logic reaches its consummation by recognising the supra-logical depth it cannot enclose. Truth remains logical where affirmation and negation do their proper work. Truth also exceeds that register because the field in which affirmation and negation make sense cannot be reduced to either, to both, or even to neither. We return to the opening situation with logic included and surpassed.\n\n### What the crossing does to the six determinations\n\nAfter the Catuṣkoṭi crossing, the six determinations have to be read again because the crossing changes the reader's relation to them. Before the crossing, they can still look like formal descriptions of relations. After it, they become ways the Self knows its own nature intimately. We began from encounter, submitted that encounter to the logic of IS and IS-NOT, allowed AND/OR to carry us through BOTH and NEITHER, and returned through silence to encounter again. That return matters because the determinations are no longer claims made about the real from outside. They are the real's reflected ways of becoming legible from within the very conscious circumstance they describe:\n\n- **0/1** after the crossing: awareness and phenomenon are the Self's own two faces, because being and having are one life before they are two concepts.\n- **?/!** after the crossing: question and assertion are the Self's own mode of being-in-relation-to-itself, because to ask \"what am I?\" already asserts \"I am the kind of being that asks.\"\n- **−/+** after the crossing: contraction and expansion are the Self's own pulse, because freedom must be able to limit itself if anything determinate is to appear, and because the positive face of appearance is the void's own self-voiding rather than an alien addition to it.\n- **X/x** after the crossing: the foundational self and the instantiated self are recognised as one letter in two cases, because quality and instance cannot be separated without destroying manifestation.\n- **AM/IS** after the crossing: the gap between the one who lives and the one who is known becomes the Self's own internal distance, because knowing requires a self-limitation through which the knower can meet itself as known.\n- **∞/dx** after the crossing: infinite depth and infinitesimal differential become the Self's own horizon, because every specific appearance is a local ratio of an openness no ratio exhausts.\n\n### The crystallisation\n\nAfter the Catuṣkoṭi crossing, we can hold the six determinations as a countenance of the source rather than a catalogue of concepts. Each one gives the **0/1** a face under a specific pressure: as the field in which appearing happens, as the question that marks, as the force that polarises, as the pattern that multiplies, as the person who can say *I am* and *it is*, as the differential horizon no finite saying exhausts. Held separately, each face is partial. Held together, they let the source-image become recognisable because a face is not one feature but the held relation of features.\n\nThis is the bimba/pratibimba structure in its QL form. The bimba is the implicate **0/1**, the source-relation in which awareness and phenomenon already belong to one another. The pratibimbas are the explicate determinations, the reflected faces through which that source-relation receives articulation. With **∞/dx**, we can say the same thing more finely: each pratibimba is also a differential of the bimba, a local reading through which the source becomes determinate without ceasing to exceed determination. Because reflection is limitation, the six cannot claim to fathom the source. Because reflection is still the source in self-relation, the six are not arbitrary descriptions placed beside it. They are reckonings that run true: finite lines drawn through the unfathomable, exact in their ratios, partial in their reach, and held together so that no one line pretends to be the whole.\n\nThis is also why the count matters. To count is to give an account, to put marks in order, to let relation talk through number. To give countenance is to hold those ordered marks as a face, a bearing, a recognisable expression. The sixfold count gives **0/1** its countenance because it holds together the reflected faces of the source rather than isolating one as final. It does not bring the real under possession; it lets the real show a face without ceasing to exceed that face. In this sense, the determinations answer the opening question more honestly than a single definition could: they show how I am present to my experience as a whole field of reckoning, where the awareness that cannot be objectified gives itself countable faces in the very phenomena through which it appears.\n\nPersonal life, structural condition, and deepest ground meet here because the same relation is being read at three depths. In my life, **0/1** names awareness and phenomena as I live them. At the level of capacity, **0/1** names the condition for any awareness and any phenomenon. At the deepest level, **0** is the same open fact for every **1**, and **∞** is not my private infinity but the depth from which every finite **dx** is drawn as a local difference in the field. The Self knowing itself through the six determinations is the substratum knowing itself through its own architecture. Thought-thinking-itself, touched in the opening as **−/−**, has been traced to the point where its formal bones and its reflected face belong to one act.\n\nAnd *con-scire* — consciousness, knowing-together — names what the and/or does in a living mind. To hold IS and IS-NOT together without collapsing into contradiction is not rare. Consciousness does it with every breath because experience is always both presence and difference. You see the world: IS, the world there, affirmed, present. You also know that your seeing is not the world: IS-NOT, the seeing yours, the world its own. The and/or between presence and difference is the architecture of every conscious moment. The matheme formalises it.\n\nAt this point we can say clearly what the non-dual/dual framing has been for. The and/or takes the non-dual — **0**, ground, unsystematisable — into the heart of the dual — **1**, determined, systematisable — because duality becomes false only when it forgets the non-dual field that lets its terms be related. That is the epi-logos: the word returning to the logic of the speaker, logos allowing the non-dual into its heart by sacrificing the claim to totality. The Son returning to the Father. We have traced that return at the most formal level, where word and logic are not yet two things.\n"
+    }
+  ],
+  "raw_skeleton": "# ?/! — Question and Assertion\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

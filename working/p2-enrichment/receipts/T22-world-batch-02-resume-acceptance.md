@@ -1,0 +1,3 @@
+# World02 completed consumer barrier
+
+The parent landed the held E2 whole and historical companion plus the two exact Job/Prisoner returns. The complete current graph now records **61 reciprocal whole-to-A/C/E/Movement relations and zero missing reverse routes** for Job, Goethe and Prisoner. Existing whole semantic reads and content coverage remain valid; no whole text was rewritten during this barrier. The two E2 targets passed hygiene with zero failures; the earlier 37-consumer closure retains its bounded hygiene receipts. Three fresh postreview packets verified successfully. Census, queue and Mytheme inputs now record this bounded batch accepted. Source limitations in the whole/source receipts remain explicit. This closes world02, not global T20/T21.

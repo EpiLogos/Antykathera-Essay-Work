@@ -1,0 +1,66 @@
+{
+  "status": "pass",
+  "failures": [],
+  "whole_sha256": "a9b769f8669c5178cfbeaa2c36a8df8615410e58cb0c1021682f8ffd4f3c283c",
+  "words": 2700,
+  "lines": 136,
+  "sixfold": [
+    "#0",
+    "#1",
+    "#2",
+    "#3",
+    "#4",
+    "#5→0"
+  ],
+  "unique_explicit_anchors": 26,
+  "local_links": [
+    {
+      "path": "submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md",
+      "anchor": "neumann-round",
+      "resolved": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "anchor": "",
+      "resolved": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "anchor": "",
+      "resolved": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "anchor": "",
+      "resolved": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "anchor": "",
+      "resolved": true
+    }
+  ],
+  "semantic_subunits": 9,
+  "inherited_four_no_flags": "preserved",
+  "archive_files": 106,
+  "archive_integrity": "pass",
+  "reuse_unchanged": 70,
+  "reuse_changed": [
+    "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+    "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+    "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+    "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+    "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+    "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+    "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+    "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+    "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+    "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+    "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+    "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+    "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md"
+  ],
+  "workflow_returncode": 0,
+  "workflow_output": "wrote target packet: /var/folders/q0/g_91z7355tb58425qwg3xcy80000gn/T/tmpdi3rw7vi/packet.json\nverified packet freshness: working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/packet.json\n",
+  "scope": "Single-whole draft validation. Parent owns consumer review, source installation and aggregate T22."
+}

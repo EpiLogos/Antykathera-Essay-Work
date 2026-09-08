@@ -1,0 +1,85 @@
+{
+  "root": {
+    "id": "NEUMANN-PAIRINGS-RECOVERY-2026-09-08",
+    "title": "Neumann, the primordial pairings and the next registers",
+    "path": "working/p2-enrichment/receipts/NEUMANN-PAIRINGS-RECOVERY-2026-09-08.md",
+    "artifact_type": "document",
+    "authority": "supporting-document",
+    "headings": [
+      "Neumann, the primordial pairings and the next registers",
+      "Read surfaces and precedence",
+      "Recovered page leads and what they carry",
+      "The already locked eightfold recapitulation",
+      "Corrections that must travel",
+      "Architecture consequences and next intake",
+      "External navigation check and source debts"
+    ],
+    "sha256": "b5bdbb020f871fc3c6530ea237f6c97af0a9da35b601e22ae56c9411e01ab2ec"
+  },
+  "edges": [
+    {
+      "source": "working/p2-enrichment/receipts/NEUMANN-PAIRINGS-RECOVERY-2026-09-08.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "raw_target": "../../../submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "working/p2-enrichment/receipts/NEUMANN-PAIRINGS-RECOVERY-2026-09-08.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+      "raw_target": "../../../submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "working/p2-enrichment/receipts/NEUMANN-PAIRINGS-RECOVERY-2026-09-08.md",
+      "target": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "raw_target": "../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "working/p2-enrichment/receipts/NEUMANN-PAIRINGS-RECOVERY-2026-09-08.md",
+      "target": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "raw_target": "shared-theorem-support-recovery.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "working/p2-enrichment/receipts/NEUMANN-PAIRINGS-RECOVERY-2026-09-08.md",
+      "target": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "raw_target": "../../../submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "working/p2-enrichment/receipts/NEUMANN-PAIRINGS-RECOVERY-2026-09-08.md",
+      "target": "working/final-argument-quilt-2026-08-23/DEVELOPMENTAL-QUILT-LEDGER.md",
+      "raw_target": "../../../working/final-argument-quilt-2026-08-23/DEVELOPMENTAL-QUILT-LEDGER.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "working/p2-enrichment/receipts/NEUMANN-PAIRINGS-RECOVERY-2026-09-08.md",
+      "target": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "raw_target": "../../../working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "working/p2-enrichment/receipts/NEUMANN-PAIRINGS-RECOVERY-2026-09-08.md",
+      "target": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "raw_target": "../../../working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    }
+  ]
+}

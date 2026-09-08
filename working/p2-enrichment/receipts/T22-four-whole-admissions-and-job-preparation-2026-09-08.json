@@ -1,0 +1,65 @@
+{
+  "status": "four-whole-identity-decisions-recorded; preparation only",
+  "authority": "Parent explicit acceptance in this task,2026-09-08",
+  "decisions": [
+    {
+      "record_id": "mytheme-stained-glass-refraction",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "disposition": "admitted independent whole",
+      "development_gate": [],
+      "writer_ready_after_packet_validation": true,
+      "coverage_row_id": "T20-mytheme-stained-glass-refraction"
+    },
+    {
+      "record_id": "mytheme-meal-epistemic-metabolism",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "disposition": "admitted independent whole",
+      "development_gate": [
+        "Local outline is an authored video-essay programme. Medical/biological generalisations, etymologies and public-event claims need their own evidence; do not carry them as established facts merely from the image."
+      ],
+      "writer_ready_after_packet_validation": true,
+      "coverage_row_id": "T20-mytheme-meal-epistemic-metabolism"
+    },
+    {
+      "record_id": "mytheme-valentinian-sophia-horos-achamoth",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md",
+      "disposition": "admitted independent whole",
+      "development_gate": [
+        "Recover selected Irenaeus passage/translation in a SOURCE house; hostile testimony and divergent Valentinian tellings stay visible. Founding-myth comparison is Offered, not ancient QL terminology."
+      ],
+      "writer_ready_after_packet_validation": false,
+      "coverage_row_id": "T20-mytheme-valentinian-sophia-horos-achamoth"
+    },
+    {
+      "record_id": "mytheme-pauli-egg-dream",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md",
+      "disposition": "admitted independent whole",
+      "development_gate": [
+        "QH names an Epi Paper egg-dream derivation, but no exact egg-dream carrier was located in the text search. The correspondence house holds notebook page leads, not this dream’s verified telling. Do not substitute World Clock."
+      ],
+      "writer_ready_after_packet_validation": false,
+      "coverage_row_id": "T20-mytheme-pauli-egg-dream"
+    }
+  ],
+  "job_binding": {
+    "source": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/biblical-job-kjv-ebible-eng-kjv2006/SOURCE.md",
+    "local_copy": "working/sources-texts-references/biblical-job-kjv-ebible-eng-kjv2006/eng-kjv2006_JOB.pdf",
+    "sha256": "ed6ecb6c2670b33213d2a2227d38f330222ba9e2cda2ec7a1796af8794ce6ee6",
+    "removed_only": [
+      {
+        "file": "dispatch-queue.json",
+        "before": "Biblical selected translation/source house missing; exact Jung CW11 Answer-to-Job paragraph quotations not installed.",
+        "after": "exact Jung CW11 Answer-to-Job paragraph quotations not installed."
+      },
+      {
+        "file": "mytheme-inputs.json",
+        "before": "Biblical selected translation/source house missing; exact Jung CW11 Answer-to-Job paragraph quotations not installed.",
+        "after": "exact Jung CW11 Answer-to-Job paragraph quotations not installed."
+      }
+    ]
+  },
+  "preservation_before": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/preservation-before.json",
+  "scope": "Preparation only. No canonical prose, NOTES, source projections or oldT17–19 snapshots changed.",
+  "source_projection_debt": "Parent reports Job main_source_for explanatory label unresolved; parent owns repair after body exists. Packet binding does not depend on projection validation.",
+  "packet_validation_receipt": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/validation.json"
+}

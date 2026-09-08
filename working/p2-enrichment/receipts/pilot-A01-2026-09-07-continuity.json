@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-09-07",
+  "status": "pilot-operation-survives-current-canon-manifest-refresh-separate",
+  "scope": "Bounded review of the existing A01 pilot and September 7 canonical amendment; no A01, room, census, queue or source mutation; no fresh historical attribution or empirical verification.",
+  "prior_receipt": "working/p2-enrichment/receipts/pilot-A01-acceptance.json",
+  "prior_canonical_sha256": "e5f60963ac4f7e500cf942f83eb3dcbbfeec9b1ddb6a5958cc1c7a2feb8bd2e7",
+  "current_canonical_sha256": "071bb9b17daaecd29d69b91b1ff26236baf5426ca71b0bdc1ef3aa950ec024a4",
+  "comparison": {
+    "prior_blob": "f3d4ec3^:submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+    "amendment_commit": "f3d4ec3",
+    "exact_change": "The utterance is a content; the fact-question it appears to address is not settled by content production.",
+    "line": 94,
+    "verification": "Removing this single added sentence from current A01 reproduces the prior accepted bytes and SHA-256 exactly. All other prose, links and restored operations are unchanged."
+  },
+  "semantic_review": [
+    "The content/fact sentence specifies the already accepted distinction between produced I Am content and phenomenal localisation. It preserves the first-person Argued proposition and the separately Open artificial-localisation question.",
+    "C01 now states fact/contents explicitly: presence is enacted even in denial; thought, self-image and res cogitans remain determinate. A01 consumes this reusable criterion while retaining the performed definition in its own office.",
+    "A34 now makes the res-cogitans/solipsist reification correction explicit. Subject → objective internality → object remains the Argued order of dependence; refusal of a private ego does not weaken it.",
+    "AC grounds its facticity/ethical ruling in A01/C01 and keeps the machine utterance guard. A01p reruns faithful definition at the agent-assemblage register with scenario modality and named technical ground. Their promotion adds declared publication bodies and inputs; it does not replace A01 or extend its pilot to 36 conjugate bodies.",
+    "The September 7 twelvefold root/four-file/Vak/curated-extraction decisions supersede earlier routing expectations. They do not remove any of the six restored pilot operations. No A01 rewrite is needed to preserve this bounded proof."
+  ],
+  "current_link_check": {
+    "command": "python3 tools/okf-workspace.py --project-root . links submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md --json",
+    "returncode": 0,
+    "written_links": 43,
+    "unresolved": []
+  },
+  "effects": {
+    "A01": {
+      "method": "declared canonical graph and transverse-thread metadata only",
+      "depth": 4,
+      "consumers": {
+        "sections": [
+          "submission-package/essay/section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md",
+          "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+          "submission-package/essay/section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md",
+          "submission-package/essay/section-rooms/01-differentiating-mind/movements/07-s0-p0-awareness-bends-display.md",
+          "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md"
+        ],
+        "arguments": [],
+        "concepts": [
+          "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+          "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+          "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+          "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+          "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+          "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+          "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+          "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md"
+        ],
+        "paths": []
+      },
+      "transverse_threads": [
+        {
+          "id": "mono-poly-two-ones",
+          "title": "Mono–Poly and the Two Ones — Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "Mono–Poly and the Two Ones — Transverse Thread"
+          ],
+          "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/mono-poly"
+          ]
+        },
+        {
+          "id": "trust-faith-formal-limit",
+          "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "Trust, Faith, and the Formal Limit — Transverse Thread"
+          ],
+          "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/trust"
+          ]
+        },
+        {
+          "id": "zero-subject-advent",
+          "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+          ],
+          "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/zero",
+            "argument-map/psychoid",
+            "argument-map/gebser"
+          ]
+        }
+      ]
+    },
+    "C01": {
+      "method": "declared canonical graph and transverse-thread metadata only",
+      "depth": 4,
+      "consumers": {
+        "sections": [
+          "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+          "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md"
+        ],
+        "arguments": [],
+        "concepts": [
+          "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+          "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+          "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+          "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
+          "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md"
+        ],
+        "paths": []
+      },
+      "transverse_threads": [
+        {
+          "id": "mono-poly-two-ones",
+          "title": "Mono–Poly and the Two Ones — Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "Mono–Poly and the Two Ones — Transverse Thread"
+          ],
+          "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/mono-poly"
+          ]
+        },
+        {
+          "id": "trust-faith-formal-limit",
+          "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "Trust, Faith, and the Formal Limit — Transverse Thread"
+          ],
+          "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/trust"
+          ]
+        },
+        {
+          "id": "zero-subject-advent",
+          "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+          ],
+          "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/zero",
+            "argument-map/psychoid",
+            "argument-map/gebser"
+          ]
+        }
+      ]
+    },
+    "A34": {
+      "method": "declared canonical graph and transverse-thread metadata only",
+      "depth": 4,
+      "consumers": {
+        "sections": [],
+        "arguments": [],
+        "concepts": [
+          "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+          "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+          "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md"
+        ],
+        "paths": []
+      },
+      "transverse_threads": [
+        {
+          "id": "mono-poly-two-ones",
+          "title": "Mono–Poly and the Two Ones — Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "Mono–Poly and the Two Ones — Transverse Thread"
+          ],
+          "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/mono-poly"
+          ]
+        },
+        {
+          "id": "trust-faith-formal-limit",
+          "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "Trust, Faith, and the Formal Limit — Transverse Thread"
+          ],
+          "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/trust"
+          ]
+        },
+        {
+          "id": "zero-subject-advent",
+          "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+          ],
+          "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/zero",
+            "argument-map/psychoid",
+            "argument-map/gebser"
+          ]
+        }
+      ]
+    }
+  },
+  "effects_scope": "Declared consumer paths inspected for routing; full downstream prose/reprojection acceptance is outside this bounded pilot continuity review. No inverse links or room mutations performed.",
+  "inputs": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "sha256": "071bb9b17daaecd29d69b91b1ff26236baf5426ca71b0bdc1ef3aa950ec024a4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+      "sha256": "29413384856eaa9c472cc21096458715a3c3ae428f8ecf5fc8e34249d346c201"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "sha256": "8e40db236ad4ed45aa4f0c963ac587e317a3636bfa0014e438f09bca7c1a9e5c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "sha256": "e84fe6cb19b50d2c26f75d72e1cec04276ab31ab6365878d212744853ac11f5c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/conjugate/A01-prime-Faithful-Definition-of-the-Agent.md",
+      "sha256": "c992ddcc17da112e5a1a16702a963fd8845834e6a98d04a71c96133aef2103b9"
+    },
+    {
+      "path": "the-return-of-zero-central-plan.md",
+      "sha256": "be9f312577b65fc1a7f66b313fb4ee97bbcc4929ec4bbe3a682b6b4fd5855d17"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/README.md",
+      "sha256": "fc25f3d953af5f69fe9352d0deb85a7a64a4d0f52c704508d0849a81863a6b8d"
+    }
+  ],
+  "input_amendment_required": [
+    {
+      "input": "working/p2-enrichment/argument-depth/A18.md:21",
+      "superseded": "These are not eight independent canonical identities.",
+      "replacement": "The eight determinations now have ratified root identities within the twelvefold. Their belonging to one whole traversal survives; page identity must not be confused with conceptual independence. Root README and September 7 plan govern (4+2)+2 and the four operational heads."
+    },
+    {
+      "input": "working/p2-enrichment/argument-depth/A07.md:83",
+      "superseded": "Dreamcode is a candidate source-facing/mythemic name pending census disposition.",
+      "replacement": "Dreamcode/Dream-machine is the confirmed authorial name for Maya computational register (September 7). No automatic new page or current Mytheme development follows; user stop boundary remains."
+    },
+    {
+      "input": "working/p2-enrichment/argument-depth/A25.md:36,126",
+      "standing": "Partly dated routing; no-stealth identity constraint survives.",
+      "replacement": "Resolve source/mediator/return against current twelvefold and current census. Do not create an additional (no)name or King root from the old unresolved routing language."
+    },
+    {
+      "input": "working/p2-enrichment/argument-depth/A06.md:32,82; A18.md:153; A36.md:211",
+      "standing": "Generic register destinations require the newly ratified structure, rather than replacement of recovered operations.",
+      "replacement": "Apply straight Vak order; project housed Binary Explication headings into definition/process/quilt/music and dia-syn/mono-poly/domain skeleton. Keep short definition/quilt chain distinct from full process/music chain, and inverse-phase primes distinct from Night-pass primes. Core-theorems is curated extraction; supporting files remain full-depth inputs."
+    },
+    {
+      "input": "working/p2-enrichment/argument-depth/A01.md:50; A34.md:146; all pre-September-7 source-read statements",
+      "standing": "Historical recovery receipts, not assertions of current source-house completeness.",
+      "replacement": "Read current A01/C01/A34 and AC where directly bearing; reopen current SOURCE plus sibling NOTES. Bind the new Binary Explication house and promoted conjugates; historical missing-source/old-locality or incomplete-restoration language cannot override current files."
+    }
+  ],
+  "remaining": [
+    "Parent must regenerate the A01 schema-v2 packet through current census/queue/depth-acceptance/quilt binding and verify-packet; this semantic continuity receipt is not that mechanical proof.",
+    "Keep prior pilot receipt as provenance; it binds previous bytes and cannot certify current manifests or new target inputs by itself.",
+    "A01 line 117 still names matheme-spanda-equations and mytheme-job as planned destinations; resolve the current census aliases/addresses and respect stop-before-Mytheme. This review creates neither record.",
+    "Previously withdrawn inverse links remain withdrawn. Historical source/quotation debts and broader transverse restoration remain as recorded; no room or section propagation acceptance claimed."
+  ],
+  "fresh_hygiene": "working/p2-enrichment/receipts/pilot-A01-hygiene-2026-09-07.json",
+  "fresh_hygiene_failures": 0
+}

@@ -1,0 +1,33 @@
+{
+  "elements": [
+    {
+      "record_id": "etymology-apportionment-and-economy",
+      "title": "apportionment-and-economy",
+      "register": "episteme",
+      "record_type": "etymology-whole",
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "wave": "T21",
+      "disposition": "enrich-existing-whole",
+      "authority": [
+        "working/final-argument-quilt-2026-08-23/OUGHT-BE-ETYMOLOGY-ARCHITECTURE.md"
+      ],
+      "packet_status": "awaiting-complete-36-depth-review"
+    },
+    {
+      "record_id": "A18p",
+      "title": "A18′ — The Traversal Run in Code",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A18-prime-Traversal-Run-in-Code.md",
+      "wave": "T21",
+      "disposition": "retain-canonical-body",
+      "authority": [
+        "submission-package/essay/symbolon/episteme/conjugate/README.md",
+        "submission-package/essay/symbolon/episteme/conjugate/A18-prime-Traversal-Run-in-Code.md",
+        ".wayfinder/maps/p2-enrichment-handoff.md"
+      ],
+      "packet_status": "canonical-body-retained-no-dispatch-before-episteme-structure-ratification",
+      "dispatch_scope": "held-for-author-structure-discussion"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "root": {
+    "id": "README",
+    "title": "Episteme",
+    "path": "submission-package/essay/symbolon/episteme/README.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Episteme",
+      "Ratified architecture — 2026-09-08",
+      "T09 canonical non-section field",
+      "Other domains",
+      "Record form",
+      "Cross-register routes"
+    ],
+    "sha256": "e16868b2d83a7eb63bfae066135e0f6d4aaa9681ed488d0b517306e9037fa2d7",
+    "claim_status": "Derived",
+    "register": "episteme"
+  },
+  "edges": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "arguments/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/symbolon/episteme/concepts/CANONICAL-INDEX.md",
+      "raw_target": "concepts/CANONICAL-INDEX",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/symbolon/episteme/etymologies/T09-A-C-E-RECIPROCITY-INDEX.md",
+      "raw_target": "etymologies/T09-A-C-E-RECIPROCITY-INDEX",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/symbolon/episteme/etymologies/RELATIONAL-FORM-GROWTH.md",
+      "raw_target": "etymologies/RELATIONAL-FORM-GROWTH",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "sources/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "histories/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "etymologies/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "lenses/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "maps/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "dossiers/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "figures/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "concepts/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "dialogues/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "../matheme/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "../mytheme/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "README.md",
+      "raw_target": "../README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": "the-return-of-zero-central-plan.md",
+      "raw_target": "../../../../the-return-of-zero-central-plan.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/README.md",
+      "target": ".wayfinder/maps/t20-t21-world-registers.md",
+      "raw_target": "../../../../.wayfinder/maps/t20-t21-world-registers.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    }
+  ]
+}

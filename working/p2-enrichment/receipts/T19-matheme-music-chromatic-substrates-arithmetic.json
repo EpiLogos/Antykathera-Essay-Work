@@ -1,0 +1,170 @@
+{
+  "method": "Parse both printed note matrices; compare against modular maps; exact integer and Fraction operations",
+  "matrix_rows": [
+    {
+      "basis": "chromatic",
+      "position": 0,
+      "printed_notes": [
+        "C",
+        "C♯"
+      ],
+      "classes": [
+        0,
+        1
+      ],
+      "passed": true
+    },
+    {
+      "basis": "chromatic",
+      "position": 1,
+      "printed_notes": [
+        "D",
+        "D♯"
+      ],
+      "classes": [
+        2,
+        3
+      ],
+      "passed": true
+    },
+    {
+      "basis": "chromatic",
+      "position": 2,
+      "printed_notes": [
+        "E",
+        "F"
+      ],
+      "classes": [
+        4,
+        5
+      ],
+      "passed": true
+    },
+    {
+      "basis": "chromatic",
+      "position": 3,
+      "printed_notes": [
+        "F♯",
+        "G"
+      ],
+      "classes": [
+        6,
+        7
+      ],
+      "passed": true
+    },
+    {
+      "basis": "chromatic",
+      "position": 4,
+      "printed_notes": [
+        "G♯",
+        "A"
+      ],
+      "classes": [
+        8,
+        9
+      ],
+      "passed": true
+    },
+    {
+      "basis": "chromatic",
+      "position": 5,
+      "printed_notes": [
+        "A♯",
+        "B"
+      ],
+      "classes": [
+        10,
+        11
+      ],
+      "passed": true
+    },
+    {
+      "basis": "fifths",
+      "position": 0,
+      "printed_notes": [
+        "C",
+        "F♯"
+      ],
+      "classes": [
+        0,
+        6
+      ],
+      "passed": true
+    },
+    {
+      "basis": "fifths",
+      "position": 1,
+      "printed_notes": [
+        "G",
+        "C♯"
+      ],
+      "classes": [
+        7,
+        1
+      ],
+      "passed": true
+    },
+    {
+      "basis": "fifths",
+      "position": 2,
+      "printed_notes": [
+        "D",
+        "G♯"
+      ],
+      "classes": [
+        2,
+        8
+      ],
+      "passed": true
+    },
+    {
+      "basis": "fifths",
+      "position": 3,
+      "printed_notes": [
+        "A",
+        "D♯"
+      ],
+      "classes": [
+        9,
+        3
+      ],
+      "passed": true
+    },
+    {
+      "basis": "fifths",
+      "position": 4,
+      "printed_notes": [
+        "E",
+        "A♯"
+      ],
+      "classes": [
+        4,
+        10
+      ],
+      "passed": true
+    },
+    {
+      "basis": "fifths",
+      "position": 5,
+      "printed_notes": [
+        "B",
+        "F"
+      ],
+      "classes": [
+        11,
+        5
+      ],
+      "passed": true
+    }
+  ],
+  "bijections_checked": 2,
+  "conjugate_round_trips_checked": 24,
+  "generator_orbit_sizes": [
+    6,
+    12
+  ],
+  "pure_return_remainder": "531441/524288",
+  "worked_position_example": "k=2: E↔F, D↔G♯; E→D♯ changes k to1",
+  "passed": true
+}

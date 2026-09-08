@@ -1,0 +1,13 @@
+# T19 — Russell paradox / types — 2026-09-07
+
+One admitted page developed: `submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md`. No other drafts read, no hygiene/link sweep.
+
+Fresh full reads: Russell1908 SOURCE, joint Principia SOURCE, complete reference-note locator. Both houses have no sibling NOTES. Earlier same-session recovery covers the complete core/eightfold, Binary SOURCE, A01/A02/A03/A13/A18/A33 and the admitted formal-limit movement. Recovered the materially bearing restriction/closure paragraphs of all six A-depth packets rather than claiming fresh universal rereading. Effect map at `/tmp/T19-russell-effects.json`, depth4. Attempt to open Russell DOI through web failed with non-retryable safe-open error; existing verified p237 source cards remain the exact primary historical warrant. No assertion of fresh full1908article verification or source promotion.
+
+The sixfold derives contradiction from unrestricted comprehension and substitution; identifies ill-formed membership under a simple typed hierarchy; constructs valid singleton, higher collection and relative complement; compares separation as a different permission change; returns to M04 and A01/A02/A03/A13/A18/A33. Historical ramified types and definitional orders are expressly distinguished from the simplified membership illustration. Principia remains jointly authored; no psychological diagnosis or later Whitehead attribution is made.
+
+Independent audit: checked that the contradiction requires the unrestricted collecting permission, not self-reference alone. Checked that `xⁿ ∈ xⁿ` is malformed rather than false, and that changing an occurrence’s type changes the object/place instead of repairing the same self-membership predicate. Explicitly added natural-number levels to the hierarchy, making the impossible `n=n+1` constraint exact. The valid constructions keep admission/exclusion active. For separation, derived both `R_S ∉ S` and `R_S ∉ R_S` without pretending every subset is a member of its parent set. Native comparison retains its own determining/determined proposition rather than treating a typed hierarchy as proof of QL.
+
+Real checks: the unrestricted propositional equivalence has no Boolean valuation; the restricted equivalence `r ↔ (s ∧ ¬r)` has exactly the valuation r=false,s=false. Constructed actual typed a/b individuals, singleton A, higher singleton B and relative complement K; valid membership results passed and A-in-A was rejected by the adjacent-type rule. This tests the worked simple model only, not the consistency of the whole ramified system. The page contains the general derivation independently of these checks.
+
+Final SHA-256: `84fefdf4b3893ee347550d653d81320c0b873b97310a529b57f5987465abafc2`.

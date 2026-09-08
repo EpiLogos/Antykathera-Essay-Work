@@ -1,0 +1,68 @@
+{
+  "root": {
+    "id": "taylor-2026-personal-poetry-corpus",
+    "title": "Taylor — Personal Poetry Corpus (2026)",
+    "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Taylor — Personal Poetry Corpus (2026)",
+      "Provenance identity",
+      "Chicago 18 forms",
+      "Corpus register",
+      "Complete poems",
+      "FT-P01 — Play and Play",
+      "FT-P02 — Mystery Is Infinitely Deeper",
+      "FT-P03 — It Takes One to Know One",
+      "FT-P04 — The Zero and the One",
+      "FT-P05 — Every Field Is a Way",
+      "FT-P06 — Searching High and Low",
+      "FT-P07 — I Dream Of",
+      "FT-P08 — Waking Up",
+      "FT-P09 — Freedom",
+      "FT-P10 — Beyond All Borders",
+      "The six routes of two — current test-site sequence",
+      "FT-P11 — P0: The two roads of two",
+      "FT-P12 — P1: What binary cannot compute",
+      "FT-P13 — P2: Where life leads",
+      "FT-P14 — P3: 2 to two ones",
+      "FT-P15 — P4: There’s one underlying issue in our age",
+      "FT-P16 — P5: God is not a thing to argue over",
+      "FT-P17 — [Bullshit and horror so plain and clear]",
+      "FT-P18 — [The scratching is the itch]",
+      "FT-P19 — [The unchanging is beyond consequence]",
+      "FT-P20 — [The notion born of difference]",
+      "FT-P21 — [The infinite multiplied by the infinitesimal]",
+      "FT-P22 — What is it to feel?",
+      "FT-P23 — [How many layers to a surface]",
+      "Provenance and exclusions",
+      "Essay use"
+    ],
+    "sha256": "64d4b5422a232e9cd2d0acd7116e0fad8376d1126e6e81a8124bb2459a7cc860",
+    "citation_status": "internal-ready",
+    "quote_status": "quotation-ready",
+    "tags": [
+      "epi-logos/antikythera-essay",
+      "source-bank/record",
+      "source-bank/internal-corpus",
+      "source-bank/poetry"
+    ]
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

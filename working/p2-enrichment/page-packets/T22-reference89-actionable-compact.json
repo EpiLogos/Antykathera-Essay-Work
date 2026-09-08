@@ -1,0 +1,860 @@
+{
+  "schema_version": 1,
+  "scope": "Compact 89-row semantic-operation dispositions and exact actionable fields; parent-only shared matrix integration. No blanket T21 completion.",
+  "baseline_packet": "working/p2-enrichment/page-packets/T22-transfer-carrier-readonly-audit-private.json",
+  "method": "Reuse unchanged note/proof hashes; read current changed paragraphs of process, Bohm and formal-limit against saved full bodies; read all five Matheme bodies and current census for26/76. OI unchanged at comparison. Own references17/23/60 separately T22=0. Parent completion claims identified separately.",
+  "matrix_sha256": "70b2c832cf95dbe7d2a2b9836e408b54e8c72d73e10cf7a37c04e0ad64e9ab2b",
+  "census_sha256": "16d56e61c73df61b03a766b61165a0ec752e092e6a753bd036a1563ea5d6a708",
+  "rows": [
+    {
+      "row": 1,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/0-1-matheme.md",
+      "note_sha256": "6c2f5b40c2d250c22a177a2ddad79195064c00a9df04e8e6aa8ddf2cd989af4d",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 2,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/36-tattvas.md",
+      "note_sha256": "0c5f9875a38d7ae9432e92fef53396c4369cb9986f3445638af8db35d36ce5bf",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 3,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/4-2-techne-sovereign-commons.md",
+      "note_sha256": "f3ec19d3a15d7b0cccf3f854fae3084c52e2f035fa50490090cf9c6e6d12fc8b",
+      "disposition": "partial",
+      "operation_action_required": true
+    },
+    {
+      "row": 4,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/9-8-whole-tone.md",
+      "note_sha256": "b25d9b798df062d4a1de537c8989e528ed53d4645ef67afc5df548547363f664",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 5,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/abhinavagupta.md",
+      "note_sha256": "0ae75363f5586f4677416637c355d3616db94f11c00fce40d7455e5e6497b394",
+      "disposition": "source-task-carried",
+      "operation_action_required": false
+    },
+    {
+      "row": 6,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/agency-without-subjectivity.md",
+      "note_sha256": "598f82f9c8f13c6f45f3974f8deb6104853bafef62febb622fd6b907161d9fc5",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 7,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/agentic-individuation-crosswalk.md",
+      "note_sha256": "96909312d5fc43fe01d0b319e91f3cad07000706950a771bf029fc0a2b5ac724",
+      "disposition": "partial",
+      "operation_action_required": true
+    },
+    {
+      "row": 8,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/antahkarana.md",
+      "note_sha256": "85e4301e1fe51e2454d7054739c78047184e732ca7110e5177d53834a827ae5e",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 9,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/antikythera-mechanism.md",
+      "note_sha256": "845bff4498ddee0fa2c19a0690eb192e18ac77e2b45f198358ec9de732dd35c3",
+      "disposition": "developed-current-world",
+      "operation_action_required": false
+    },
+    {
+      "row": 10,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/apoha.md",
+      "note_sha256": "9d11b37cb61edeb0796a0616dc09ddbf2c27c8c17a7f67b5acfa830b6741ad4d",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 11,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/bimba-pratibimba.md",
+      "note_sha256": "ea57d04159096d916a6e49e8efdf66ed8282d0627d8e102da4f449795f9740a3",
+      "disposition": "source-locality-correction-survives",
+      "operation_action_required": false
+    },
+    {
+      "row": 12,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/blind-spot-frank-gleiser-thompson.md",
+      "note_sha256": "cc89a6c9fbfe0f1e9f63053b7d691e904919e28a3cd0afb1ae09bde330ecde25",
+      "disposition": "operation-carried",
+      "operation_action_required": false,
+      "evidence": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md#optical-figure-and-experiential-verification",
+      "carrier_sha256": "1c2aac9aa617d40ca8c7daf204366467770ab3d0459e0cd74f222bc0c896e139"
+    },
+    {
+      "row": 13,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/bohm-krishnamurti-dialogue-running-true.md",
+      "note_sha256": "495c5247331fc3064203fb3c7b1cf66092aa7b9ec60cfce5539d06d6b749542d",
+      "disposition": "developed-comparison",
+      "operation_action_required": false
+    },
+    {
+      "row": 14,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/bradley-terry-gauge-problem.md",
+      "note_sha256": "e39bac2771f9b2ae4ca2b378f914a56f093e617bf7769366e8de8762c98df33c",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 15,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/brahmagupta.md",
+      "note_sha256": "95723e8c39e829d0bd8144fb17ac626c8eac876dba9d0f55c36f9b98eb1d53a1",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 16,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/chinese-remainder-theorem-z6.md",
+      "note_sha256": "7f2c2da3f948e8fe7ecf3cc954867a36494ffe86557c96549ac9fd3528d60556",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 17,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/christopher-bache-lsd-and-the-mind-of-the-universe.md",
+      "note_sha256": "a70efb9b1b2798c96df53180d3f8f061f6edfe6d3468e66fdf59b78f66b4fc04",
+      "disposition": "research-disposition-carried",
+      "operation_action_required": false,
+      "evidence": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md#bache-experiential-comparison",
+      "carrier_sha256": "a47078c36ed93495d6a98980c211f8567de1f099f1493f1f2d740b49d19b0ded"
+    },
+    {
+      "row": 18,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/circumscription-without-circumstance.md",
+      "note_sha256": "938ee75ddc2332540855fd294093b9d8aefd42a3f6338dcff3bf98ef9f074414",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 19,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/compassion-sensitivity-origins.md",
+      "note_sha256": "2b3a88d34ec8b988b700bf852bc8a6038a8b5fe7d26df29f8363739b8248b316",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 20,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/complex-plane.md",
+      "note_sha256": "e2e74796b601b233ffe338017123f5991ed4262c22ae2f89d4cc6fefef29b359",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 21,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/computational-vimarsa.md",
+      "note_sha256": "cab8e058f2fdefc7497400f36a74540ed48c7d85101d8ee9aece7c9ef6743381",
+      "disposition": "operation-carried-parent-foldback",
+      "operation_action_required": false
+    },
+    {
+      "row": 22,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/cross-ratio.md",
+      "note_sha256": "c80c7459031c5f54247a8a674d694c8460d9da4ce60c9428ce0558a54f1a0b5b",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 23,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/cymatics-standing-waves.md",
+      "note_sha256": "2141544ebc36cdfed18a4244f50d742f6bae65d4215ea8d1b04c6a0072e4c29a",
+      "disposition": "research-disposition-carried",
+      "operation_action_required": false,
+      "evidence": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md#cymatic-psychoid-research",
+      "carrier_sha256": "a47078c36ed93495d6a98980c211f8567de1f099f1493f1f2d740b49d19b0ded"
+    },
+    {
+      "row": 24,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/david-bohm-implicate-explicate-holomovement.md",
+      "note_sha256": "e80536d6eb8c347b4c8c9ae57e2915961db4f21d7d14b701931b3f6385b5985f",
+      "disposition": "operation-carried",
+      "operation_action_required": false,
+      "evidence": "submission-package/essay/symbolon/episteme/dossiers/bohm.md",
+      "carrier_sha256": "71170770d756b5f7feee16d323f49242f88719fc6962bf14936069b50f9c0832"
+    },
+    {
+      "row": 25,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/dia-ballein.md",
+      "note_sha256": "cb5cea66671d1093e6bfa7d0aee55771c50511d15c1db8c606ca71dded705bcc",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 26,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/dimensional-reframing-zero-infinity.md",
+      "note_sha256": "bff67162005337164737e4cf39a3775e9058ca1c93a85f5d334e9996faf71eff",
+      "disposition": "matrix-materialisation-and-support-locators-stale",
+      "operation_action_required": false
+    },
+    {
+      "row": 27,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/division-pluralisms.md",
+      "note_sha256": "11ae737f632f32362be71c0977a809cfeb94e88dd1fa9f189f279140914d49f8",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 28,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/ebm-resonance-metric.md",
+      "note_sha256": "c62731b2d9a4be58dca4d3135f957f75c12ffa9940b5f1d6014b6d5e1419412b",
+      "disposition": "covered-by-row79",
+      "operation_action_required": false
+    },
+    {
+      "row": 29,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/epi-logos-voice.md",
+      "note_sha256": "15d5840e51a3b0e859fa5e86e04746354d699b6d2ad02ee49bb35d40d40344f2",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 30,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/fde-catuskoti.md",
+      "note_sha256": "e0631db7f6a33667e1decd6687f78e5b3fa57df0d4566b6dcf949a8c0cd73221",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 31,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/file-one-definitional.md",
+      "note_sha256": "c086c6647603293b731860d06e90b1cc9fc5830bde7ec6e465befae4e4efcde8",
+      "disposition": "identity-task-carried",
+      "operation_action_required": false,
+      "evidence": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md#file-one-identity-and-provenance",
+      "carrier_sha256": "1c2aac9aa617d40ca8c7daf204366467770ab3d0459e0cd74f222bc0c896e139"
+    },
+    {
+      "row": 32,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/four-valued-logic.md",
+      "note_sha256": "684907b5fb7af709b9185441321d96cdac7aa68ace59fd623130083487e4fa72",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 33,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/gebser-diaphaneity.md",
+      "note_sha256": "a67c5ab0d0122db347cd291a6b058d9d85ab217a0d1162160a5d9e29fcf23071",
+      "disposition": "native-correction-survives",
+      "operation_action_required": false
+    },
+    {
+      "row": 34,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/gerbert-sylvester-ii.md",
+      "note_sha256": "2dda0793bae39c9e3965e9f0f3a6c56e224ca38f678da3ff4af9afe3e4a840a1",
+      "disposition": "source-task-carried",
+      "operation_action_required": false
+    },
+    {
+      "row": 35,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/godel-incompleteness.md",
+      "note_sha256": "33ef570d85462899c20fad8a217f33434ccdbbbe9c390101424839db9695e905",
+      "disposition": "developed-comparison",
+      "operation_action_required": false
+    },
+    {
+      "row": 36,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/grothendieck-group-loss.md",
+      "note_sha256": "53962c189dba37d61a9f90d4b056440e7afe550be7a343eaabd93449aad10aae",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 37,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/henri-bergson-duration.md",
+      "note_sha256": "01ffc9c446b1153da9e08e819507a519f71c503dc5c026487f22034124c6b37a",
+      "disposition": "partial",
+      "operation_action_required": true
+    },
+    {
+      "row": 38,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/hole-whole-holy-health.md",
+      "note_sha256": "5dfcaf15ba0532cb0adea2dea82fef831ba649520f29bab175c3ac204bc37e3e",
+      "disposition": "developed-branch",
+      "operation_action_required": false
+    },
+    {
+      "row": 39,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/jung-pauli.md",
+      "note_sha256": "5a8ec2d0dee277bff5faa17b926496caf2b946e43916022b1ebbb990d61b7c30",
+      "disposition": "source-context-admitted",
+      "operation_action_required": false
+    },
+    {
+      "row": 40,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/jungian-quaternity.md",
+      "note_sha256": "4f8f640461b7e3296e9985d6877a6ba426158a5027c9236770579c5a8b4ac11a",
+      "disposition": "operation-carried-source-admission-proposed",
+      "operation_action_required": false,
+      "evidence": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md#four-functions-two-attitudes-native-senarius",
+      "carrier_sha256": "affe228115dcdcfa307b65de5408761af5c666fbe9e49bfc904b2384eef6c59b"
+    },
+    {
+      "row": 41,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/kaplan-nothing-that-is.md",
+      "note_sha256": "03fa7f47ae77b1d41a89589525635b172902cbb6410e4b9478c13f915458c35c",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 42,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/kauffman-iterants.md",
+      "note_sha256": "936522782f0f1fb4b5ffc74b821589089999be20b9b5eac952218eabfffb5aad",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 43,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/khahara.md",
+      "note_sha256": "9ee112a2ed560d1fee9a5ff5e2d68412875819fb5d97c2d87812284755db9513",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 44,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/laws-of-form.md",
+      "note_sha256": "b234a4ad543fea3a63700bb2e0f62dceb334c894c9e27b80759fb8e4021f378d",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 45,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/logos-epi-logos.md",
+      "note_sha256": "fef4ed876c3e315973445816164536302f1e266d0985b9a90b3449da3cbcb757",
+      "disposition": "developed-E-field",
+      "operation_action_required": false
+    },
+    {
+      "row": 46,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/mathematical-artistic-image-register.md",
+      "note_sha256": "c3992557ea837bb6a50c767d235eeb86fe871850385cb62bcf0cd3736f7b722f",
+      "disposition": "navigation-audit",
+      "operation_action_required": false
+    },
+    {
+      "row": 47,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/maturana-varela-autopoiesis-enaction.md",
+      "note_sha256": "07b6c0f7844984f91dbeb85aa58397e462831a0945a6c758449222114256d916",
+      "disposition": "partial",
+      "operation_action_required": true
+    },
+    {
+      "row": 48,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/mef.md",
+      "note_sha256": "de1995e30348f13af2cb2a012f1c04b5383fab41d8d02d3d7d10334c23d1506f",
+      "disposition": "outstanding-operation",
+      "operation_action_required": true
+    },
+    {
+      "row": 49,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/meister-eckhart-dialectical-apophaticism.md",
+      "note_sha256": "cd8112af00df0a1dd9fc38f94a81e3882a6efabb019f96870eba1843850f1d87",
+      "disposition": "source-specific-development-task-carried",
+      "operation_action_required": false,
+      "excluded_reason": "Exact source-specific exposition/collation task already named in formal-limit #4; not an uncarried operation request."
+    },
+    {
+      "row": 50,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/metonic-cycle.md",
+      "note_sha256": "f4aa926a26c4e2f2d597ea1e6c021e3b1f5363ff9fa9909906514d4f5cfe0484",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 51,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/mono-poly-planetary-intelligence.md",
+      "note_sha256": "ad473f783a58aa55be13ae47cc29d85a054f50b184454ac89fca1801b54c5085",
+      "disposition": "partial",
+      "operation_action_required": true
+    },
+    {
+      "row": 52,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/musical-resolution-of-arche-topos.md",
+      "note_sha256": "9e7654943ef5eb79c5ba4b7e7629e2f9a087648edc54ee1580befd3453b3f0ff",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 53,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/nicholas-of-cusa-learned-ignorance-sphere.md",
+      "note_sha256": "e319c330444219a396eb75217849cde9d7d27babb3c7908706ffa4a3d5acc404",
+      "disposition": "source-specific-development-task-carried",
+      "operation_action_required": false,
+      "excluded_reason": "Exact source-specific exposition/collation task already named in formal-limit #4; not an uncarried operation request."
+    },
+    {
+      "row": 54,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/nirvikalpa.md",
+      "note_sha256": "a32e8359970911cd75af2847e4bc438937fe62eca31ccd422fb99348f9e3f2c1",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 55,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/nothaft-satanic-ciphers.md",
+      "note_sha256": "5d1bfc13d810bf4f4b68291b612f2130fb84da17a710bfca46abffb228434fa4",
+      "disposition": "parent-reported-Nothaft-foldback-complete",
+      "operation_action_required": false,
+      "verification": "Parent reports complete; no redundant fix proposed."
+    },
+    {
+      "row": 56,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/pratyabhijna.md",
+      "note_sha256": "6492ada9851ea7a94742904a1b1a0cdffcc9a3bbfd86a9d367e7537f94a80933",
+      "disposition": "source-context-correction-survives",
+      "operation_action_required": false
+    },
+    {
+      "row": 57,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/projective-line.md",
+      "note_sha256": "92006ce16d5fcbd81c03f3376a32a8026f5e4a16326abeea9df6b0ab6921fe07",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 58,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/prompt-thrownness.md",
+      "note_sha256": "eeeb664cd0a79bd54301e6341028a642166ddfbc98e2a5688208fa8f2bd89b48",
+      "disposition": "outstanding-operation",
+      "operation_action_required": true
+    },
+    {
+      "row": 59,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/pros-hen-analogia.md",
+      "note_sha256": "4daf4960a4e677a6faf04c4f4c566dca37022eb6a7e4d91d901da5b0711ff0f3",
+      "disposition": "outstanding-design-disposition",
+      "operation_action_required": true
+    },
+    {
+      "row": 60,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/psychoid-number.md",
+      "note_sha256": "d2274b5dfb2b61a195274bd9514910eec221ff95697e8f71501df27a5ef29f5b",
+      "disposition": "research-disposition-carried-via17",
+      "operation_action_required": false,
+      "evidence": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md#bache-experiential-comparison",
+      "carrier_sha256": "a47078c36ed93495d6a98980c211f8567de1f099f1493f1f2d740b49d19b0ded"
+    },
+    {
+      "row": 61,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/pythagorean-comma.md",
+      "note_sha256": "33e8dce5111b84f221bd98388aa88008a2dee0d3f0ecc3303c4a325bd7fdacd2",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 62,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/quaternal-logic.md",
+      "note_sha256": "4403974019a45d0379844866166f762d5fbfb71c34da8c950a76aefcb273de02",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 63,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/qubit-bloch-sphere.md",
+      "note_sha256": "bca1fed86f63a4a2eb59dd7d1718f0418754cc1d15657425fbb5756052e36e9e",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 64,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/re-entry.md",
+      "note_sha256": "5d02ed914786b818798a860c6a42992d9dcd73962401e4da6aeb14dce09468db",
+      "disposition": "research-disposition-carried",
+      "operation_action_required": false,
+      "evidence": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md#frequency-retention-and-signed-dia-research",
+      "carrier_sha256": "1c2aac9aa617d40ca8c7daf204366467770ab3d0459e0cd74f222bc0c896e139"
+    },
+    {
+      "row": 65,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/riemann-sphere.md",
+      "note_sha256": "b4f4ed6703455314a3d8eb48927bfad7cc443960999856d887229a300e1e7db5",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 66,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/rotman-semiotics-of-zero.md",
+      "note_sha256": "80afca4e1df80a7f6bdd42d868d09a3eb62f43cc2d207ae475fba62d3a8b0488",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 67,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/russell-paradox-type-theory.md",
+      "note_sha256": "b6976ad05e36983b65b468e1973e147169a66e4b4f4bb4efc7cd58fb96f46957",
+      "disposition": "developed-comparison",
+      "operation_action_required": false
+    },
+    {
+      "row": 68,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/salem-codex.md",
+      "note_sha256": "d7e4777f24a8a728ec019af3c51370027b5538cccd5d95fb0efee70ccd835693",
+      "disposition": "source-task-carried",
+      "operation_action_required": false
+    },
+    {
+      "row": 69,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/samkalpa.md",
+      "note_sha256": "18e9323e941543ce275c35c1b4122a4959a7e0b00c6a6e4ca4f351641c29ab55",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 70,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/seed-language-of-spirit-dialogues.md",
+      "note_sha256": "aa514f5e9603f27949b6fc4895428920715d2904c297227e6c0a66d67ab163e2",
+      "disposition": "developed-comparison",
+      "operation_action_required": false
+    },
+    {
+      "row": 71,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/sheffer-stroke.md",
+      "note_sha256": "f4d6e59cd05b9cae43dc0d62e713ae13ee15728d3769ac721211e68f14d7c711",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 72,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/siva-sakti-object-triad.md",
+      "note_sha256": "e6041c8b1dbcab31e18861239ff65d0455c0962167e2627ae18f8000babc676c",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 73,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/softmax-as-apoha.md",
+      "note_sha256": "b7da25a77162f046f5df33524f7f4c71e65a54f2e647cc5422ff5533eaf13692",
+      "disposition": "outstanding-operation",
+      "operation_action_required": true
+    },
+    {
+      "row": 74,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/spanda-equations.md",
+      "note_sha256": "ceb42c6a6565eda2d6417832f75f93adaf5161a8363ebda32128f0b95a11bb49",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 75,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/suddha-vikalpa.md",
+      "note_sha256": "216a80a1bda2408d9cc24e324a3671ecce056964861b30160a81a9a6b9e01159",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 76,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/surface-classification-4g-2g.md",
+      "note_sha256": "fd8d13b0286ed826da93292eb2468470d1757274119a20f45273cd479137f7f8",
+      "disposition": "matrix-materialisation-and-support-locators-stale",
+      "operation_action_required": false
+    },
+    {
+      "row": 77,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/syn-ballein.md",
+      "note_sha256": "2b39f46f3aab96e6488347ab2e693175ceaee4cdcace50c96ccf62e0f563cee6",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 78,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/torus-circulation-magnetic-confinement.md",
+      "note_sha256": "e5ea9144d006433ccdf0044af0a621eff438aff46c7dd7e1d5d66dfca4792fc9",
+      "disposition": "research-disposition-carried",
+      "operation_action_required": false,
+      "evidence": "submission-package/essay/symbolon/episteme/dossiers/process.md#confinement-comparison-research",
+      "carrier_sha256": "124d156cf6420a1f6a783c739eb10bc6d4348fb1e4ac582e04aa696d33452ef4"
+    },
+    {
+      "row": 79,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/trika-alignment-stack.md",
+      "note_sha256": "f83e63ee4883772bba134e687cbd397c3b6c785834681e00ef403c5e0045199f",
+      "disposition": "developed-offered-comparison",
+      "operation_action_required": false
+    },
+    {
+      "row": 80,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/trika.md",
+      "note_sha256": "afb675d5b1629c235c4009e86d51ed09acfb13ded7162ec48a7772030a8c1553",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 81,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/trivial-ring.md",
+      "note_sha256": "720668e312ce1301d40603ac825118efb4c6908a791afebbea3ec6fc6d757d74",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 82,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/van-eenwyk-strange-attractors.md",
+      "note_sha256": "3b3ce6602a34349760c7428e4052c13d6ed36b0d64b56407b32c786a0e28515b",
+      "disposition": "argued-operation-and-offered-research-carried",
+      "operation_action_required": false,
+      "evidence": "submission-package/essay/symbolon/episteme/dossiers/process.md#dia-syn-dynamical-comparison",
+      "carrier_sha256": "124d156cf6420a1f6a783c739eb10bc6d4348fb1e4ac582e04aa696d33452ef4"
+    },
+    {
+      "row": 83,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/varela-calculus-self-reference.md",
+      "note_sha256": "524f373790f5181331ebcd209bdb15ad13ac0fef73da62d44db0ddae1a8ab7d7",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 84,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/vikalpa.md",
+      "note_sha256": "42d5f6b7da34a9347eb9689957935cc3167a2019c61845e3f4aea3e37674e386",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 85,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/vimarsa.md",
+      "note_sha256": "e94c4b77a627604ebeb4b13dc48a02b9f2c5d6e0ba30438485418cd38a19b5c6",
+      "disposition": "prior-proof-revalidated-visible-paragraphs",
+      "operation_action_required": false
+    },
+    {
+      "row": 86,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/von-franz-number-and-time.md",
+      "note_sha256": "0073ee0686ad56f91d33f0fe03e5ad0764954018f5fe709b15c65bfba3cf3240",
+      "disposition": "bibliographic-admission-complete-passage-task-carried",
+      "operation_action_required": false
+    },
+    {
+      "row": 87,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/von-neumann-ordinals.md",
+      "note_sha256": "1daa37509d0b092ff5f80710e5e64e18d9089b8ec6c35b595729742981c87c87",
+      "disposition": "prior-proof-revalidated",
+      "operation_action_required": false
+    },
+    {
+      "row": 88,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/whitehead-creativity.md",
+      "note_sha256": "76cb9ee3181e727f6c3101cecf5b4c4041bf90f6f86e3c88a2264863a1d3943d",
+      "disposition": "operation-carried",
+      "operation_action_required": false,
+      "evidence": "submission-package/essay/symbolon/episteme/dossiers/process.md",
+      "carrier_sha256": "124d156cf6420a1f6a783c739eb10bc6d4348fb1e4ac582e04aa696d33452ef4"
+    },
+    {
+      "row": 89,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/wittgenstein-limit-silence-forms-of-life.md",
+      "note_sha256": "822a48931d3e999533f6d41a16fd2e45b248549c1a20f280dd0697828f122e11",
+      "disposition": "operation-carried",
+      "operation_action_required": false,
+      "evidence": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md#ethics-value-and-the-mystical",
+      "carrier_sha256": "1c2aac9aa617d40ca8c7daf204366467770ab3d0459e0cd74f222bc0c896e139"
+    }
+  ],
+  "remaining_operation_actions": [
+    {
+      "row": 3,
+      "owner": "Laplace",
+      "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+      "sha256": "f6155af29942a1b1712e2e8a60925b03c5ab6ecf24ec5e3f3a97e5ef5f135f94",
+      "action": "#5→0 now develops Agora/feed/federation and material governance. Still make shared-session/KG→P5/P0 community-refinement procedure explicit; do not repeat the old absent-dossier finding.",
+      "standing": "Retain inherited register and source/claim separation.",
+      "shared_row_change": "Close only after fresh semantic proof; no matrix write performed."
+    },
+    {
+      "row": 7,
+      "owner": "Laplace",
+      "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+      "sha256": "f6155af29942a1b1712e2e8a60925b03c5ab6ecf24ec5e3f3a97e5ef5f135f94",
+      "action": "#4 has active-context nucleation, model potential and changed formation; explicit reserve→instance→active-context→return crosswalk remains to be set out as a comparison, not Jung notation.",
+      "standing": "Retain inherited register and source/claim separation.",
+      "shared_row_change": "Close only after fresh semantic proof; no matrix write performed."
+    },
+    {
+      "row": 37,
+      "owner": "parent-process",
+      "path": "submission-package/essay/symbolon/episteme/dossiers/process.md",
+      "sha256": "124d156cf6420a1f6a783c739eb10bc6d4348fb1e4ac582e04aa696d33452ef4",
+      "action": "Make the three distinct temporal offices explicit together: Bergson lived continuity, Whitehead concrescence/satisfaction/perishing/renewed data, Gebser mutation/diaphanous co-presence; return transformed history without treating the three as one doctrine.",
+      "standing": "Retain inherited register and source/claim separation.",
+      "shared_row_change": "Close only after fresh semantic proof; no matrix write performed."
+    },
+    {
+      "row": 47,
+      "owner": "parent-process",
+      "path": "submission-package/essay/symbolon/episteme/dossiers/process.md",
+      "sha256": "124d156cf6420a1f6a783c739eb10bc6d4348fb1e4ac582e04aa696d33452ef4",
+      "action": "#3 develops autopoietic production/coupling and a concrete technical boundary. Still specify enacted-world/biological normativity versus harness-permission organization as the note’s positive comparison; do not equate tool use with autopoiesis.",
+      "standing": "Retain inherited register and source/claim separation.",
+      "shared_row_change": "Close only after fresh semantic proof; no matrix write performed."
+    },
+    {
+      "row": 48,
+      "owner": "Laplace",
+      "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+      "sha256": "f6155af29942a1b1712e2e8a60925b03c5ab6ecf24ec5e3f3a97e5ef5f135f94",
+      "action": "Four-office division and L4/L1/L1′/L4′ intervention circuit are not supplied by the six product centres or research vectors. Preserve the specific experiment with C39/A33 and row58.",
+      "standing": "Retain inherited register and source/claim separation.",
+      "shared_row_change": "Close only after fresh semantic proof; no matrix write performed."
+    },
+    {
+      "row": 51,
+      "owner": "Laplace",
+      "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+      "sha256": "f6155af29942a1b1712e2e8a60925b03c5ab6ecf24ec5e3f3a97e5ef5f135f94",
+      "action": "Plural governance/local Bimba now substantive. Preserve exact lineage/land/ritual/family/local-continuity trust anchors and common-QL/plural-MEF/federated-Bimba distinction rather than counting generic federation as full survival.",
+      "standing": "Retain inherited register and source/claim separation.",
+      "shared_row_change": "Close only after fresh semantic proof; no matrix write performed."
+    },
+    {
+      "row": 58,
+      "owner": "Laplace",
+      "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+      "sha256": "f6155af29942a1b1712e2e8a60925b03c5ab6ecf24ec5e3f3a97e5ef5f135f94",
+      "action": "Preserve L4/L1/L1′/L4′ intervention protocol with C39/C44/A33. Constitutive prompt conditions and generic six research vectors do not specify the four-position experiment.",
+      "standing": "Retain inherited register and source/claim separation.",
+      "shared_row_change": "Close only after fresh semantic proof; no matrix write performed."
+    },
+    {
+      "row": 59,
+      "owner": "Laplace",
+      "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+      "sha256": "f6155af29942a1b1712e2e8a60925b03c5ab6ecf24ec5e3f3a97e5ef5f135f94",
+      "action": "Retain L0.5/P5 why/for and lens-routing proposal explicitly as design/source disposition. Do not derive it from C63’s focal-predication vocabulary.",
+      "standing": "Retain inherited register and source/claim separation.",
+      "shared_row_change": "Close only after fresh semantic proof; no matrix write performed."
+    },
+    {
+      "row": 73,
+      "owner": "Laplace",
+      "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+      "sha256": "f6155af29942a1b1712e2e8a60925b03c5ab6ecf24ec5e3f3a97e5ef5f135f94",
+      "action": "Cross-entropy training-loss operation and assumptions remain absent here; softmax/temperature/argmax or DPO loss is not its substitute. Preserve exact separate technical treatment or link an actual existing calculation.",
+      "standing": "Retain inherited register and source/claim separation.",
+      "shared_row_change": "Close only after fresh semantic proof; no matrix write performed."
+    }
+  ],
+  "locator_repairs": [
+    {
+      "row": 26,
+      "identity_finding": "Existing three older paths are current census identities, not renamed T19 files. Preserve them.",
+      "existing_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "record_id": "C52",
+          "exists": true,
+          "sha256": "32c2305afca00faddc871821d59fa289f6997eb6f07aa5e279cefee1c8dd9881",
+          "proposed_materialised": true,
+          "path_replacement": null
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/topology/projective-completion.md",
+          "record_id": "matheme-projective-completion",
+          "exists": true,
+          "sha256": "a568aba0008093bfc796bfc47600a5dd1ed22ccb7b2b795b4dd50994315a997f",
+          "proposed_materialised": true,
+          "path_replacement": null
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md",
+          "record_id": "matheme-division-pluralisms",
+          "exists": true,
+          "sha256": "170caf9d475247854eade69e2c3f99050c9e2a49cda235d8080dc801f8e40dd2",
+          "proposed_materialised": true,
+          "path_replacement": null
+        }
+      ],
+      "add_supporting_home": {
+        "record_id": "matheme-calculus-infinity-dx",
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/calculus-infinity-dx.md",
+        "sha256": "7065c58175076854296aae758cd7a39e348bf241f0b91d0361172ed9dd614bbf",
+        "materialised": true,
+        "role": "supporting-exact-operation",
+        "locus": "#1–#3 derivative/family/additional condition"
+      },
+      "proposed_development_state": "developed-carriers-semantic-proof-recorded; retain source debts separately"
+    },
+    {
+      "row": 76,
+      "identity_finding": "Existing three older paths are current census identities, not renamed T19 files. Preserve them.",
+      "existing_homes": [
+        {
+          "path": "submission-package/essay/symbolon/matheme/topology/mobius-klein-surfaces.md",
+          "record_id": "matheme-mobius-klein-surfaces",
+          "exists": true,
+          "sha256": "94c800528c38963522c423e3a2215b42a3cd93ca73ce07785c807a7ba09fdda2",
+          "proposed_materialised": true,
+          "path_replacement": null
+        }
+      ],
+      "add_supporting_home": {
+        "record_id": "matheme-quilt-topology",
+        "path": "submission-package/essay/symbolon/matheme/quilt/topology.md",
+        "sha256": "26cb2d81c83a701bff556894350e8001230e5f21bab611eda953ee92d46c3d40",
+        "materialised": true,
+        "role": "supporting-exact-operation",
+        "locus": "#1 presentation sides and generators distinguished from quotient cell-count/Euler characteristic"
+      },
+      "proposed_development_state": "developed-carriers-semantic-proof-recorded; retain source debts separately"
+    }
+  ],
+  "already_assigned_non_operation_repairs": {
+    "Copernicus": [
+      "334 P1 route inspection/repointing",
+      "A05/A11 E4 routes",
+      "C30 source-status corrections",
+      "mathematical-artistic Cusa href"
+    ],
+    "parent": [
+      "histories README two hrefs complete per parent",
+      "Nothaft foldback complete per parent"
+    ],
+    "ours": [
+      "AC ten hrefs scoped T22=0; no pending AC task",
+      "two dossier source-status sentences scoped T22=0"
+    ]
+  },
+  "excluded_from_operation_gaps": {
+    "properly_carried_source_or_research_tasks": [
+      5,
+      17,
+      23,
+      31,
+      34,
+      49,
+      53,
+      60,
+      64,
+      68,
+      78,
+      82,
+      86
+    ],
+    "parent_new_operations_read": [
+      12,
+      24,
+      88,
+      89
+    ],
+    "note": "Carried research disposition closes survival work, not the underlying empirical or source-acquisition question."
+  },
+  "projection_check_latest": {
+    "command": "python3 tools/build-source-projections.py --project-root . --check",
+    "exit_code": 1,
+    "error": "passage anchor has no following heading: bergson-1913-time-free-will-pogson#bergson-1913-time-free-will-pogson-q001",
+    "standing": "Read-only observation; earlier Foucault/Fanon schema failure superseded by this run. Parent owns Bergson."
+  },
+  "reference40_note": "Actual1921 German introduction recovered, not absent CW6 assumed. Exact source proposal in T22-Jung-reference40-private.json; native counts and A18/M33 return developed.",
+  "conjugate_navigation_final": {
+    "scope": 37,
+    "failures": 0,
+    "status": "All known and residual routes repaired; labels/propositions unchanged; separate unstaged batch",
+    "receipt": "working/p2-enrichment/receipts/T22-conjugate37-navigation-completion-2026-09-08.md"
+  }
+}

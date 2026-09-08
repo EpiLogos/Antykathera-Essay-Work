@@ -1,0 +1,40 @@
+{
+  "scope": "bounded reciprocal consumer review; existing identities only",
+  "elements": [
+    {
+      "canonical_home": "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+      "register": "section",
+      "record_id": "02-s01-p1-define-subject"
+    },
+    {
+      "canonical_home": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "register": "section",
+      "record_id": "20-s2-p1-dia-ballein"
+    },
+    {
+      "canonical_home": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+      "register": "section",
+      "record_id": "24-s2-p5-zero-changes-role"
+    },
+    {
+      "canonical_home": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+      "register": "section",
+      "record_id": "26-s3-p1-spanda-4-2"
+    },
+    {
+      "canonical_home": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+      "register": "section",
+      "record_id": "40-s5-p3-preference-hidden-zero"
+    },
+    {
+      "canonical_home": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "register": "section",
+      "record_id": "46-s50-p3-4-2-mono-poly"
+    },
+    {
+      "canonical_home": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "register": "section",
+      "record_id": "48-s50-p5-ahi-planetary-return"
+    }
+  ]
+}

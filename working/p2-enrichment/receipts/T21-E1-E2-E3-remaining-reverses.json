@@ -1,0 +1,47 @@
+{
+  "encounter-region-name-count": {
+    "field": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+    "consumers": 26,
+    "missing_reverse": [
+      "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+      "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+      "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md",
+      "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+      "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+      "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md"
+    ]
+  },
+  "arbitration-hybris-regard-anamnesis": {
+    "field": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+    "consumers": 28,
+    "missing_reverse": [
+      "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+      "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+      "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md"
+    ]
+  },
+  "trust-place-logos-nomos-natio-credere": {
+    "field": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+    "consumers": 25,
+    "missing_reverse": [
+      "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+      "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+      "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md"
+    ]
+  }
+}

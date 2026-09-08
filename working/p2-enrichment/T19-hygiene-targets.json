@@ -1,0 +1,485 @@
+{
+  "scope": "Census bodies only; navigation READMEs excluded",
+  "elements": [
+    {
+      "record_id": "matheme-primordial-symbolon",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/primordial-symbolon.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-two-ones",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/two-ones.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-slash-and-or",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/slash-and-or.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-eight-determinations",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/eight-determinations.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-binary-and-binary-of-binary",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/binary-and-binary-of-binary.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-crossed-zero-re-entry",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/crossed-zero-re-entry.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-x-x",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/x-x.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-complex-orientation",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/complex-orientation.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-spanda-equations",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/spanda/spanda-equations.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-projective-completion",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/projective-completion.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-projective-line",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/projective-line.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-riemann-sphere",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/riemann-sphere.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-torus-cover-winding",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-mobius-klein-surfaces",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/mobius-klein-surfaces.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-toroidal-poloidal-confinement",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/toroidal-poloidal-confinement.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-whole-tone-return",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/whole-tone-return.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-pythagorean-comma",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/pythagorean-comma.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-cycle-interval-octave",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/cycle-interval-octave.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-arche-topos-musical-resolution",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-metonic-antikythera-cycle",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-cymatics-standing-waves",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/cymatics-standing-waves.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-von-neumann-ordinals",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-division-pluralisms",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-sheffer-stroke",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/sheffer-stroke.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-laws-of-form-varela",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-russell-types",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-godel-incompleteness",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/godel-incompleteness.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-fde-catuskoti",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/fde-catuskoti.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-crt-z6",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/crt-z6.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-trivial-ring",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/trivial-ring.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-grothendieck-group-loss",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/grothendieck-group-loss.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-kauffman-iterants",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-cross-ratio",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/cross-ratio.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-qubit-bloch-sphere",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/qubit-bloch-sphere.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-softmax-argmax",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/computation/softmax-argmax.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-preference-gauge",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/computation/preference-gauge.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-j-space",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/computation/j-space.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-ebm-resonance",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-operational-parity",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/computation/operational-parity.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-noether-symmetry-conservation",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-perfect-six",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/perfect-six.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-tetraktys-triangle",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/tetraktys-triangle.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-quaternion-q8",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/quaternion-q8.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-calculus-infinity-dx",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/calculus-infinity-dx.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-chaos-attractors",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-manifold-atlas",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-definition-the-matheme",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/the-matheme.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-definition-minus-over-minus",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/minus-over-minus.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-definition-copula",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/copula.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-definition-harmonics-and-recount",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-definition-six-determinations",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/six-determinations.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-definition-catuskoti-crossing",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/catuskoti-crossing.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-definition-immutable-subject",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/immutable-subject.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-process-t1-geometry",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/t1-geometry.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-process-phase-flip",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/phase-flip.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-process-t0-onto-logic",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/t0-onto-logic.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-process-spanda",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/spanda.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-process-ratio-threshold",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/ratio-threshold.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-process-harmonics-symmetries",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/harmonics-symmetries.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-process-ql-positions",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/ql-positions.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-quilt-etymology",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/etymology.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-quilt-psychology",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/psychology.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-quilt-number",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/number.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-quilt-topology",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/topology.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-quilt-metaphysics",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/metaphysics.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-quilt-recognition",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/recognition.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-quilt-enantiodromic-return",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/enantiodromic-return.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-music-foundational-ratios",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-music-chromatic-substrates",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/chromatic-substrates.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-music-pairing-grammar",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-music-lens-anchors",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/lens-anchors.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-music-diatonic-cf-grammar",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/diatonic-cf-grammar.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-music-field",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/field.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-music-observer-instrument",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-dia-syn-dia",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/dia.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-dia-syn-syn",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/syn.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-dia-syn-chronic",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/chronic.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-mono-poly-mono",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/mono-poly/mono.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-mono-poly-poly",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/mono-poly/poly.md",
+      "wave": "T19"
+    },
+    {
+      "record_id": "matheme-mono-poly-translations",
+      "register": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/mono-poly/translations.md",
+      "wave": "T19"
+    }
+  ]
+}

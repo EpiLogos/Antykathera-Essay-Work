@@ -1,0 +1,35 @@
+{
+  "standing": "PASS:93 reconciled bodies and separately checked navigation",
+  "body_targets": 93,
+  "root_targets": 13,
+  "matheme_targets": 80,
+  "body_edges": 992,
+  "root_edges": 197,
+  "matheme_edges": 795,
+  "workflow_failures": 0,
+  "unresolved": 0,
+  "frozen_targets": 0,
+  "wrong_existing_local_targets": [],
+  "navigation_readmes": 15,
+  "navigation_edges": 145,
+  "navigation_unresolved": 0,
+  "navigation_alias_repairs": 47,
+  "one_home_issues": {},
+  "global_doctor_debts_separate": {
+    "dangling-room-fragment": 3,
+    "missing-passage-provenance": 9,
+    "missing-register": 97,
+    "missing-status": 28,
+    "stale-bkmr-adapter": 53,
+    "thin-concept": 65,
+    "unresolved-link": 16
+  },
+  "body_mutations_during_hygiene": 0,
+  "scope_notes": [
+    "READMEs are navigation, not census bodies.",
+    "Global doctor captured at start of the combined workflow run; its inherited debt counts are not local-body failures.",
+    "47 README relative wiki links made explicit after detecting false-positive README alias resolution; final navigation receipt verifies intended destinations.",
+    "No body semantic or link changes were needed. No global doctor repairs.",
+    "Matheme-only report is an explicitly labelled exact subset of the combined run."
+  ]
+}

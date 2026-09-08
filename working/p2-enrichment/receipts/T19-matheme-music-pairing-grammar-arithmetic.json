@@ -1,0 +1,20 @@
+{
+  "method": "Parse printed interval and square tables; compare modular maps and exact sets",
+  "interval_rows_verified": 9,
+  "square_rows_verified": 9,
+  "ordered_base_pairs": 8,
+  "unique_tetrads": 7,
+  "coincidences": [
+    "A-sq2=B-sq3",
+    "B-sq1=C-sq3 as unordered tetrads"
+  ],
+  "mirror_flip_states_verified": 12,
+  "full_inversion_pairs_and_bases": 16,
+  "anchor_transpositions_verified": 192,
+  "D_example_displacements": [
+    1,
+    3,
+    2
+  ],
+  "passed": true
+}

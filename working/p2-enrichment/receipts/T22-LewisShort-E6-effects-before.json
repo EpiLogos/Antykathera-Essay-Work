@@ -1,0 +1,40 @@
+{
+  "root": {
+    "id": "lewis-short-1879-latin-dictionary",
+    "title": "Lewis and Short — A Latin Dictionary (1879)",
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/lewis-short/lewis-short-1879-latin-dictionary/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Lewis and Short — A Latin Dictionary",
+      "Work and access",
+      "Use and return",
+      "Selected lexical witnesses",
+      "q001 — Fides: reliance and credibility",
+      "q002 — Credo: lending, protection and confidence",
+      "q003 — Natio: birth, kinds and peoples",
+      "q004 — Arbitrari: observation, weighing, judgment and credited testimony",
+      "q005 — Arbiter: witness and deciding office"
+    ],
+    "sha256": "80de0d773419a361be760e66675a0540f3937465590e355e3dafe9b9c6e3616d",
+    "citation_status": "citation-ready-for-named-online-entries",
+    "quote_status": "selected-lexical-phrase-verified; no-ancient-passage-quotation"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

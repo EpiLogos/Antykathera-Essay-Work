@@ -1,0 +1,83 @@
+{
+  "method": "Python fractions.Fraction, integer inputs; no floating-point approximations",
+  "checks": [
+    {
+      "operation": "partition",
+      "actual": "100",
+      "expected": "100",
+      "passed": true
+    },
+    {
+      "operation": "reduce",
+      "actual": "16/9",
+      "expected": "16/9",
+      "passed": true
+    },
+    {
+      "operation": "squared-fourth",
+      "actual": "16/9",
+      "expected": "16/9",
+      "passed": true
+    },
+    {
+      "operation": "fourth-times-fifth",
+      "actual": "2",
+      "expected": "2",
+      "passed": true
+    },
+    {
+      "operation": "epogdoon-octave-totality",
+      "actual": "9/8",
+      "expected": "9/8",
+      "passed": true
+    },
+    {
+      "operation": "epogdoon-fifth-fourth",
+      "actual": "9/8",
+      "expected": "9/8",
+      "passed": true
+    },
+    {
+      "operation": "epogdoon-counts",
+      "actual": "9/8",
+      "expected": "9/8",
+      "passed": true
+    },
+    {
+      "operation": "return",
+      "actual": "2",
+      "expected": "2",
+      "passed": true
+    },
+    {
+      "operation": "tetrachords",
+      "actual": "2",
+      "expected": "2",
+      "passed": true
+    },
+    {
+      "operation": "base-frequency-return",
+      "actual": "480",
+      "expected": "480",
+      "passed": true
+    },
+    {
+      "operation": "six-pure-tones-not-octave",
+      "actual": "531441/262144",
+      "comparison": "not equal to 2",
+      "passed": true
+    },
+    {
+      "operation": "example-doubled-fourth-frequency",
+      "actual": "1280/3",
+      "expected": "1280/3",
+      "passed": true
+    },
+    {
+      "operation": "example-additive-frequency-difference",
+      "actual": "160/3",
+      "expected": "160/3",
+      "passed": true
+    }
+  ]
+}

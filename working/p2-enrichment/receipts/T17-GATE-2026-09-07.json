@@ -1,0 +1,14 @@
+{
+  "status": "passed-scoped-dispatch-gate",
+  "scope": "T17 census and manifest binding; releases T18 then T19 only, not philosophical certification",
+  "census_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+  "queue_sha256": "58f3d57861f8572fa74cd5c6c4013949735971df9628e9746ecb22f59725927a",
+  "packet_targets": 93,
+  "packet_generation_failures": [],
+  "pilot_hygiene": "working/p2-enrichment/receipts/pilot-A01-hygiene-2026-09-07.json",
+  "pilot_current_failures": 0,
+  "harness_tests": "11 real workspace tests passed by harness worker",
+  "census": "276 admitted bodies; 13 Symbolon including spine-index, 80 Matheme; 37 conjugates retained and 133 source houses included",
+  "hold": "Mytheme and episteme generation held before author folder discussion. No manuscript or room rewrites.",
+  "obligations": "Writer reads every materially bearing input, derives local sixfold, audits prose; batch hygiene and T22 after barrier. Stale packet routing overridden by 2026-09-07-input-amendment.md."
+}

@@ -1,0 +1,564 @@
+{
+  "prior_reading_receipt": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/reading-receipt.json",
+  "reuse_hash_comparisons": [
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "previous_sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1",
+      "current_sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1",
+      "unchanged": true
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "previous_sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a",
+      "current_sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a",
+      "unchanged": true
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "previous_sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7",
+      "current_sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7",
+      "unchanged": true
+    },
+    {
+      "path": ".wayfinder/maps/t20-t21-world-registers.md",
+      "previous_sha256": "a7589d1b663854888c3767854478a9ea4564a988d770af24f2d30e7ac07204a0",
+      "current_sha256": "a7589d1b663854888c3767854478a9ea4564a988d770af24f2d30e7ac07204a0",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+      "previous_sha256": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "current_sha256": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md",
+      "previous_sha256": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "current_sha256": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "previous_sha256": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "current_sha256": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/quilt/agentworld-response-matrix.md",
+      "previous_sha256": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "current_sha256": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+      "previous_sha256": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "current_sha256": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/quilt/ql-expression-grammar.md",
+      "previous_sha256": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277",
+      "current_sha256": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "previous_sha256": "28850b09ec98706395603cb8452b67aa1722959879a8a9ab809931015b80bf06",
+      "current_sha256": "28850b09ec98706395603cb8452b67aa1722959879a8a9ab809931015b80bf06",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "previous_sha256": "83089fd04f322b61d98b7a4ca6082f69c82d398488f95332aac5da0ca96684c0",
+      "current_sha256": "7c1d7ce223fb6dc097da729be23f2fdfdc38b90844fa96e71ba644779c1e3f7e",
+      "unchanged": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "previous_sha256": "9a0dd0510f0bac9b876e5a03a29a85e604f08e63d58c438d8c0fbe4816a7053c",
+      "current_sha256": "1e7b07e1d370c70b58ba00d76948b5ccbc8ca854f930f8ff0af5e1fe5dd52d98",
+      "unchanged": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "previous_sha256": "269bc0ccc6e2a71ad01b1a17f57853f5ab63b72d5165dfc4bff99ab437cdd55f",
+      "current_sha256": "531b7c5e83341d829c782f75c978e0be65291c62cf016c889babe9a049380a97",
+      "unchanged": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "previous_sha256": "01ccb4f4847ceab0ea472b24d9a0129f5038f29b1e8694aa922ff08901fe997d",
+      "current_sha256": "5f9091f4a8ae18bda402d0198af03efbd12bc1dc0a3b297463b13dcea3b07b79",
+      "unchanged": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "previous_sha256": "cb370e0ab05445a87f80bad1ba05bd3a6a442cfed60aaedf9853d74c446617cb",
+      "current_sha256": "ee9c1810f1453f6eb9021f8fad7a6babd3e9cb4f558acd8a73f75d4f4b087341",
+      "unchanged": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "previous_sha256": "9a6488c74e51c913532d3db295849185c28e3105c910d8852f7d88b6016dfdb1",
+      "current_sha256": "ad98ab5646e4148cfe2da50f00ea84e7c9ba341d2ac5ed28870850a799b8b57e",
+      "unchanged": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "previous_sha256": "be90c7e86e251b30db3fecca4e38858a1f5617ec2f063b4f0aa88d0d6fb0e057",
+      "current_sha256": "1b66215f54c44ca0b85360ddbc0c389ee352bfd67b3034608032552e3a5ff5ad",
+      "unchanged": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "previous_sha256": "10b2887f020027a8a97b8f6188ee811cfdd45f9550540a240263de03d4c35d2e",
+      "current_sha256": "61d16504e31c3e92bf62081847a6e50cffbcce4a07390539ece9d0acc9fcd2f1",
+      "unchanged": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "previous_sha256": "9cdbf4a808f6d9267b03260cd4c4a46ccb0cf9c3c8ca3a4e460b476d0b31d1ac",
+      "current_sha256": "082712d78d00e8297f4b4664d06d8d4e800e98135d9759af150ab92680a982eb",
+      "unchanged": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "previous_sha256": "fcf48a6a3844e1282a80e2dcad729d6904e877fe580d9c021a102754f60e8dde",
+      "current_sha256": "1d01b3f7c5482873cc165905fb0d034a68f58becd02dae545e303541a6ac2e7f",
+      "unchanged": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "previous_sha256": "a1db88705001b8bca986784f3c984189a31f8ffe766f5d9bd72f078b595e724b",
+      "current_sha256": "2795949e322a0efaa19d7dc65899f86337fab196c1587edbd325ebab06929a75",
+      "unchanged": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+      "previous_sha256": "4986ca50ff5f68c5e2df63d6505e51b8858cd8534d319b56eb85bf1b5272a5b6",
+      "current_sha256": "4986ca50ff5f68c5e2df63d6505e51b8858cd8534d319b56eb85bf1b5272a5b6",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "previous_sha256": "b075cb9b42b60e749c274d3ae6e23b3004eb940e72dfea34962cd2ee8eeaa08f",
+      "current_sha256": "e6abdda15c114f4e2ffe216a0da62515889bedbf0efac057750aa5124305201a",
+      "unchanged": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "previous_sha256": "279a04a2c2e03b845a0e2eda9fd0a0add5040cc1b841a0fb1f73fbef229d1d34",
+      "current_sha256": "e3f0de61a8db28678bb42844c1abab64a5f4a70185a670d76d041a16b42e6c67",
+      "unchanged": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "previous_sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+      "current_sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "previous_sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+      "current_sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "previous_sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+      "current_sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "previous_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "current_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/README.md",
+      "previous_sha256": "20e220d9d9b35ac86584b154219ce263a4077b4ecb10229787ef22417f3be825",
+      "current_sha256": "20e220d9d9b35ac86584b154219ce263a4077b4ecb10229787ef22417f3be825",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md",
+      "previous_sha256": "018e6d46b9f31756469f9aca6ca143757f55185ca6b093673f47b6474e7a91a3",
+      "current_sha256": "018e6d46b9f31756469f9aca6ca143757f55185ca6b093673f47b6474e7a91a3",
+      "unchanged": true
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "previous_sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0",
+      "current_sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0",
+      "unchanged": true
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "previous_sha256": "b348adc7004f5d0daf4ea4f62f6b081edc5e5dcccdfbad83746a2f2e9e59f849",
+      "current_sha256": "b348adc7004f5d0daf4ea4f62f6b081edc5e5dcccdfbad83746a2f2e9e59f849",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A01.md",
+      "previous_sha256": "cf90a1fb09c619f8829858a7c5dda50e8f29abf61edf1a2e142dcbf4f77f63e8",
+      "current_sha256": "cf90a1fb09c619f8829858a7c5dda50e8f29abf61edf1a2e142dcbf4f77f63e8",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A02.md",
+      "previous_sha256": "76e00fc0f74e87943001d805b6864674755b716d32550a33d2def2a546a0b927",
+      "current_sha256": "76e00fc0f74e87943001d805b6864674755b716d32550a33d2def2a546a0b927",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "previous_sha256": "12d3a0999ffec60d963f055cdbb1a857025a70f2a7bb46641eca20bb187b9b41",
+      "current_sha256": "12d3a0999ffec60d963f055cdbb1a857025a70f2a7bb46641eca20bb187b9b41",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A04.md",
+      "previous_sha256": "0b65287f0c7a7d5a0206f003b2cdbe4e4afd7025f104ce60bfec897b7ef228fa",
+      "current_sha256": "0b65287f0c7a7d5a0206f003b2cdbe4e4afd7025f104ce60bfec897b7ef228fa",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A05.md",
+      "previous_sha256": "d7992ff692cd1b0babef8b84157438fa89c92e5eefaa2a6b9752816e5ca23da9",
+      "current_sha256": "d7992ff692cd1b0babef8b84157438fa89c92e5eefaa2a6b9752816e5ca23da9",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A06.md",
+      "previous_sha256": "aa37546fe2562ff16391e2c453022ae597c08cc431ec6c9660891d6c30ffbbad",
+      "current_sha256": "aa37546fe2562ff16391e2c453022ae597c08cc431ec6c9660891d6c30ffbbad",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A07.md",
+      "previous_sha256": "8f6aae272cc86877286b844e6fa65911c05885d3e50b388179ed623294406e01",
+      "current_sha256": "8f6aae272cc86877286b844e6fa65911c05885d3e50b388179ed623294406e01",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A08.md",
+      "previous_sha256": "0665c59d9039ebe87706ea25faa1d85a66fc69b31ba5506f17523a04b1449548",
+      "current_sha256": "0665c59d9039ebe87706ea25faa1d85a66fc69b31ba5506f17523a04b1449548",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A09.md",
+      "previous_sha256": "7bbb367d7fe465f1d22b962495426f1a89d462d6f6c7fe4e3636dcd37978af5f",
+      "current_sha256": "7bbb367d7fe465f1d22b962495426f1a89d462d6f6c7fe4e3636dcd37978af5f",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A10.md",
+      "previous_sha256": "bab78b321241cb345013760b9e68011086eb8380ba640d98a7c525e87e7df17a",
+      "current_sha256": "bab78b321241cb345013760b9e68011086eb8380ba640d98a7c525e87e7df17a",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "previous_sha256": "19585deb79a5ec0dabb39493e413e0579e313adeab68051a783b6ad737584ab8",
+      "current_sha256": "19585deb79a5ec0dabb39493e413e0579e313adeab68051a783b6ad737584ab8",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A12.md",
+      "previous_sha256": "a4bfa473d034e31cd6cbd7afc45b96236929665a4dd42f4e3f056e3973c58b39",
+      "current_sha256": "a4bfa473d034e31cd6cbd7afc45b96236929665a4dd42f4e3f056e3973c58b39",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "previous_sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8",
+      "current_sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A14.md",
+      "previous_sha256": "0a198ce301265646b0fa5f438f5e035d14fe2de74dcc246ae4a6c96e714808ee",
+      "current_sha256": "0a198ce301265646b0fa5f438f5e035d14fe2de74dcc246ae4a6c96e714808ee",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "previous_sha256": "70e04921c5c97b94a3068eafe5b1595e3bfa4f537076f75376503628237f0f8a",
+      "current_sha256": "70e04921c5c97b94a3068eafe5b1595e3bfa4f537076f75376503628237f0f8a",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "previous_sha256": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45",
+      "current_sha256": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A17.md",
+      "previous_sha256": "f524699d75f93c839c8acdff6430c91b591d8266c3731bafca0cbcd49d940c9a",
+      "current_sha256": "f524699d75f93c839c8acdff6430c91b591d8266c3731bafca0cbcd49d940c9a",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "previous_sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f",
+      "current_sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A19.md",
+      "previous_sha256": "e9b39e002b667014c970dd287f2301c9f9a80197762283e5062274ea9db64861",
+      "current_sha256": "e9b39e002b667014c970dd287f2301c9f9a80197762283e5062274ea9db64861",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A20.md",
+      "previous_sha256": "31e8980f2955a784f02b5f84b1e6c63bdcf3a22cb25e24afec678c19a166c2c2",
+      "current_sha256": "31e8980f2955a784f02b5f84b1e6c63bdcf3a22cb25e24afec678c19a166c2c2",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "previous_sha256": "7cfe91ec6423eff272001a99a672cc1e3d02b3eb5cc35ae9e142077660912779",
+      "current_sha256": "7cfe91ec6423eff272001a99a672cc1e3d02b3eb5cc35ae9e142077660912779",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A22.md",
+      "previous_sha256": "cc4786c82ef3cb7ea0e799b910fec2ec50108b3cd2316635e4ac4f7ddb06c3d3",
+      "current_sha256": "cc4786c82ef3cb7ea0e799b910fec2ec50108b3cd2316635e4ac4f7ddb06c3d3",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "previous_sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3",
+      "current_sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A24.md",
+      "previous_sha256": "8ec2f6a4ee88586748f4519523c84d2ca141c37d04c86f785a001dccfa527c5b",
+      "current_sha256": "8ec2f6a4ee88586748f4519523c84d2ca141c37d04c86f785a001dccfa527c5b",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A25.md",
+      "previous_sha256": "eaeeae9754e349e495e21dd60bf83d380fa3eaac3d54b9d33b779ec72775139b",
+      "current_sha256": "eaeeae9754e349e495e21dd60bf83d380fa3eaac3d54b9d33b779ec72775139b",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "previous_sha256": "9542b35c8445445bc02ebe6b1a1ba2ccf67f2aa7da50335fbe3180d595c1eb63",
+      "current_sha256": "9542b35c8445445bc02ebe6b1a1ba2ccf67f2aa7da50335fbe3180d595c1eb63",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "previous_sha256": "2480e3c0322aa54e36bcd924ec3e60cb6e3430372125ad215d12f56b583080e0",
+      "current_sha256": "2480e3c0322aa54e36bcd924ec3e60cb6e3430372125ad215d12f56b583080e0",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A28.md",
+      "previous_sha256": "a998591196094d47e4cf8c2e52beccfae29e85b7f95752c35daf1a0f16ae9b1e",
+      "current_sha256": "a998591196094d47e4cf8c2e52beccfae29e85b7f95752c35daf1a0f16ae9b1e",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A29.md",
+      "previous_sha256": "df16db3f0dc451847aab076658d7050e9ec888cad3618bd975c3162204c6a1ee",
+      "current_sha256": "df16db3f0dc451847aab076658d7050e9ec888cad3618bd975c3162204c6a1ee",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A30.md",
+      "previous_sha256": "72f7883f3955b05bb3448dcdfee87b5f0cd4e76d16de37fe922b20f995643e62",
+      "current_sha256": "72f7883f3955b05bb3448dcdfee87b5f0cd4e76d16de37fe922b20f995643e62",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A31.md",
+      "previous_sha256": "2e8a2e463260bfd1e194037a5bba48cddfb06aaad1d8fc71e87003de0d10d1c7",
+      "current_sha256": "2e8a2e463260bfd1e194037a5bba48cddfb06aaad1d8fc71e87003de0d10d1c7",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "previous_sha256": "8d7f5d6f98f61bb3011360c0ef68b0681989c97a8f224c2c549668ef167ca428",
+      "current_sha256": "8d7f5d6f98f61bb3011360c0ef68b0681989c97a8f224c2c549668ef167ca428",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A33.md",
+      "previous_sha256": "61ffc1d702894cd6f35cda9b489cf5da6a8e4103c1153e495ce23917cd4c6285",
+      "current_sha256": "61ffc1d702894cd6f35cda9b489cf5da6a8e4103c1153e495ce23917cd4c6285",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A34.md",
+      "previous_sha256": "d3a568de103caa2a6f87231b435a661a014292b96f4ca1b8014086f653fd6920",
+      "current_sha256": "d3a568de103caa2a6f87231b435a661a014292b96f4ca1b8014086f653fd6920",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "previous_sha256": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489",
+      "current_sha256": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "previous_sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0",
+      "current_sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "previous_sha256": "3e64c000294d3a13a15e0617f35dcbe5c0f5424b13758b2ae72e9b56e405e832",
+      "current_sha256": "3e64c000294d3a13a15e0617f35dcbe5c0f5424b13758b2ae72e9b56e405e832",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/depth-acceptance.json",
+      "previous_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+      "current_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      "previous_sha256": "6474225a3550ec632cef24ad988ec2ad17295a63bd65e4e3fdec1614db90639f",
+      "current_sha256": "6474225a3550ec632cef24ad988ec2ad17295a63bd65e4e3fdec1614db90639f",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "previous_sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2",
+      "current_sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "previous_sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff",
+      "current_sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "previous_sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192",
+      "current_sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "previous_sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c",
+      "current_sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "previous_sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64",
+      "current_sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "previous_sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1",
+      "current_sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1",
+      "unchanged": true
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "previous_sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "current_sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "unchanged": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "previous_sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+      "current_sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+      "unchanged": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "previous_sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0",
+      "current_sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0",
+      "unchanged": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "previous_sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66",
+      "current_sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66",
+      "unchanged": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "previous_sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7",
+      "current_sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7",
+      "unchanged": true
+    }
+  ],
+  "reuse_policy": "Prior complete readings reused only where hashes agree; this list establishes byte continuity, not new semantic reading. Native eight/four supports, accepted A-depth and prior whole corpus readings carry forward.",
+  "fresh_reading": [
+    "Existing Fanon whole in WHOLE-before.md: complete.",
+    "Corrected map lines1–120; rest previous corpus reading.",
+    "Native020 MYTHEME-AND-DEEP-SOURCE-SEAMS.md lines495–535, with packet context475–532; full earlier corpus reading reused.",
+    "Primary French PDF ranges listed in source-recovery.json, each entire selected chapter."
+  ],
+  "source_recovery": {
+    "source_id_proposed": "fanon-1952-peau-noire-masques-blancs",
+    "resolver_result": null,
+    "canonical_source_house": "absent; parent-owned proposal only",
+    "protected_notes": "No Fanon house or sibling NOTES located; none fabricated",
+    "electronic_edition_url": "https://classiques.uqam.ca/classiques/fanon_franz/peau_noire_masques_blancs/peau_noire_masques_blancs.pdf",
+    "edition_statement": "Electronic edition by Émilie Tremblay dated2011; title pages describe Seuil1952,239pp; includes Jeanson1952 preface and1965 postface, so electronic pagination is not1952 page identity.",
+    "pdf_sha256": "a1dc1f996b93017d32b4679eb0838311876ee7cfc53f1ee8ade74ec67afdf123",
+    "page_count": 260,
+    "full_material_read_ranges_pdf_one_based": [
+      [
+        1,
+        9
+      ],
+      [
+        28,
+        56
+      ],
+      [
+        118,
+        148
+      ],
+      [
+        207,
+        229
+      ]
+    ],
+    "scope": "Introduction; complete chaptersI,V,VII; complete conclusion. ChaptersII–IV/VI and Jeanson paratext not claimed read in full. Gendered/sexual and other chapter claims remain outside completed source expansion.",
+    "no_external_quote_promotion": true,
+    "english_translation": "not selected or collated",
+    "source_house_mutation": "none"
+  },
+  "concurrent_inputs": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "previous_sha256": "1777405f8bc6771ae57c1a70cff9c0544347aac43f6ba7579b78b2d128930978",
+      "current_sha256": "5f9091f4a8ae18bda402d0198af03efbd12bc1dc0a3b297463b13dcea3b07b79",
+      "standing": "Concurrent parent/other-writer input; hash refreshed only; changed prose not reviewed; parent owns acceptance."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "previous_sha256": "d4b81b68d1949f223105b2245cb3b077917fb0be9fd792e245e5e90dad553df3",
+      "current_sha256": "eb778041a0efab5c368012a722f1440c20c59be8537a0144808f8cdd2d269723",
+      "standing": "Concurrent parent/other-writer input; hash refreshed only; changed prose not reviewed; parent owns acceptance."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "previous_sha256": "64e6f0835189646094c39396d8464ba798ed3f2a74a1de869f70c56b057a2438",
+      "current_sha256": "e3f0de61a8db28678bb42844c1abab64a5f4a70185a670d76d041a16b42e6c67",
+      "standing": "Concurrent parent/other-writer input; hash refreshed only; changed prose not reviewed; parent owns acceptance."
+    }
+  ],
+  "protected_notes": "No Fanon house or NOTES found; core SOURCE sibling NOTES absent; no protected mutation.",
+  "effects": "Core source, A20, A27 and canonical whole path effects completed. Record-ID lookup failed; path resolution succeeded. Full declared transverse threads retained in required inputs."
+}

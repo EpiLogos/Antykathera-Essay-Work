@@ -1,0 +1,127 @@
+{
+  "root": {
+    "id": "observer-instrument",
+    "title": "Observer, Instrument, and the Musical-Epistemic Return",
+    "path": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Observer, Instrument, and the Musical-Epistemic Return",
+      "#0 — The score meets its sounding",
+      "#1 — Four observer surfaces",
+      "#2 — Frequency becomes an address",
+      "#3 — A played loop with its coordinates exposed",
+      "#4 — What verification returns",
+      "#5→0 — The player recognises the circuit"
+    ],
+    "sha256": "eec1824c84b514d5faf6ca89450e0e3dde1f66208cae2778f6fdd8359ef70b34",
+    "claim_status": "Derived",
+    "register": "matheme"
+  },
+  "edges": [
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "target": "submission-package/essay/symbolon/matheme/music/field.md",
+      "raw_target": "field.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "raw_target": "../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+      "raw_target": "../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "target": "submission-package/essay/symbolon/matheme/music/lens-anchors.md",
+      "raw_target": "lens-anchors.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "target": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "raw_target": "foundational-ratios.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "target": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "raw_target": "pairing-grammar.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "target": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+      "raw_target": "../formal-neighbours/README.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "raw_target": "../../episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "raw_target": "../../episteme/arguments/A06-Vak.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "target": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "raw_target": "../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "raw_target": "taylor-2026-binary-explication",
+      "relation": "supported-by",
+      "origin": "source_ids",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+      "raw_target": "taylor-2026-ql-musical-derivation-v3",
+      "relation": "supported-by",
+      "origin": "source_ids",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "raw_target": "taylor-2026-core-theorems-pithy",
+      "relation": "supported-by",
+      "origin": "source_ids",
+      "resolved": true
+    }
+  ]
+}

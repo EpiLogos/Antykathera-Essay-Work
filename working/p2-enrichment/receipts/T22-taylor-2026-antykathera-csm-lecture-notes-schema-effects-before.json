@@ -1,0 +1,148 @@
+{
+  "root": {
+    "id": "taylor-2026-antykathera-csm-lecture-notes",
+    "title": "Taylor — Antikythera CSM Lecture Notes (9 July 2026)",
+    "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Taylor — Antikythera CSM Lecture Notes (9 July 2026)",
+      "Work identity",
+      "Passage ledger",
+      "taylor-2026-antykathera-csm-lecture-notes-q001 — the eros-of-logos junction",
+      "taylor-2026-antykathera-csm-lecture-notes-q002 — computational and meditative intelligence",
+      "taylor-2026-antykathera-csm-lecture-notes-q003 — ossified symbols",
+      "Relations",
+      "Standing"
+    ],
+    "sha256": "64fcdd393440fee102abe6b1fb5fb9ca9a9bcf57eeed5ef5c1c4a4e42322dd0f",
+    "claim_status": "Argued",
+    "quote_status": "authorial-notes-indexed",
+    "register": "episteme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [
+      {
+        "id": "C50-Dia-Syn",
+        "title": "C50 — Dia / Syn",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C50 — Dia / Syn",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "5f647cf914b0fe9ebe7cd960aa3ef9f62018d77c6e2f05d6d6a8998a436abf83"
+      },
+      {
+        "id": "C51-Logos-Epi-Logos",
+        "title": "C51 — Logos / Epi-Logos",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C51 — Logos / Epi-Logos",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "6bea0d9338e75619dfbb344b2f2d809c4aacd2ffebc92b2b9309ddef14fcb2a4"
+      }
+    ],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [
+      {
+        "id": "C50-Dia-Syn",
+        "title": "C50 — Dia / Syn",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C50 — Dia / Syn",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "5f647cf914b0fe9ebe7cd960aa3ef9f62018d77c6e2f05d6d6a8998a436abf83"
+      },
+      {
+        "id": "C51-Logos-Epi-Logos",
+        "title": "C51 — Logos / Epi-Logos",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C51 — Logos / Epi-Logos",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "6bea0d9338e75619dfbb344b2f2d809c4aacd2ffebc92b2b9309ddef14fcb2a4"
+      }
+    ],
+    "edges": [
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/SOURCE.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "raw_target": "../../../concepts/C50-Dia-Syn.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/SOURCE.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+        "raw_target": "../../../concepts/C51-Logos-Epi-Logos.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      }
+    ]
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "episteme",
+    "carriers": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+        "register": "undeclared"
+      }
+    ]
+  }
+}

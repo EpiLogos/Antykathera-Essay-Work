@@ -1,0 +1,17 @@
+test_depth_review_cannot_survive_changed_quilt_or_depth_receipt (test_p2_build_workflow.P2ManifestBindingTests.test_depth_review_cannot_survive_changed_quilt_or_depth_receipt) ... ok
+test_domain_readme_change_invalidates_packet (test_p2_build_workflow.P2ManifestBindingTests.test_domain_readme_change_invalidates_packet) ... ok
+test_packet_binds_real_corpus_and_verifies_from_another_cwd (test_p2_build_workflow.P2ManifestBindingTests.test_packet_binds_real_corpus_and_verifies_from_another_cwd) ... ok
+test_stale_census_and_acceptance_bindings_block_output (test_p2_build_workflow.P2ManifestBindingTests.test_stale_census_and_acceptance_bindings_block_output) ... ok
+test_unadmitted_or_duplicate_identity_is_rejected (test_p2_build_workflow.P2ManifestBindingTests.test_unadmitted_or_duplicate_identity_is_rejected) ... ok
+test_verifier_rejects_altered_packet_and_queue (test_p2_build_workflow.P2ManifestBindingTests.test_verifier_rejects_altered_packet_and_queue) ... ok
+test_actual_unresolvable_identity_is_a_command_failure (test_p2_build_workflow.P2WorkflowTests.test_actual_unresolvable_identity_is_a_command_failure) ... ok
+test_discovery_candidates_cannot_enter_hygiene_as_canonical_targets (test_p2_build_workflow.P2WorkflowTests.test_discovery_candidates_cannot_enter_hygiene_as_canonical_targets) ... ok
+test_every_live_quilt_is_discovered_and_anchors_recover_actual_text (test_p2_build_workflow.P2WorkflowTests.test_every_live_quilt_is_discovered_and_anchors_recover_actual_text) ... ok
+test_hygiene_rejects_duplicate_admissions_at_real_canonical_homes (test_p2_build_workflow.P2WorkflowTests.test_hygiene_rejects_duplicate_admissions_at_real_canonical_homes) ... ok
+test_real_canonical_home_runs_links_and_effects_from_another_cwd (test_p2_build_workflow.P2WorkflowTests.test_real_canonical_home_runs_links_and_effects_from_another_cwd) ... ok
+test_target_slice_recovers_real_lines_and_rejects_whole_quilt (test_p2_build_workflow.P2WorkflowTests.test_target_slice_recovers_real_lines_and_rejects_whole_quilt) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 11.876s
+
+OK

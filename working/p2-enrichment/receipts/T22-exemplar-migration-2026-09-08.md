@@ -1,0 +1,9 @@
+# T22 — Existing Mytheme exemplars, home migration
+
+The September 8 world-register decision and `T20-world-home-decisions-2026-09-08.json` precede this four-record migration. Attica, Hypostasis, Aion and Fanon retain their existing identities, telling sequences, aftermath, source boundaries and relation-local human amplification. Their world homes respectively follow Hellenic, late-antique Gnostic, analytical-psychological and francophone anticolonial carriers. These labels locate the recovered telling; geographical setting and later reception remain separate relations.
+
+`T20-exemplar-migration-2026-09-08.json` records each old/new address and hash. Hypostasis, Aion and Fanon are byte-identical. Attica changes one relative E-history target to its exact canonical address. No unique operation was removed or merged. A19's existing Aion return and the Mytheme navigation links now point to the new homes. The incoming short `WHOLE` references previously exposed basename capture; exact addresses preserve their distinct identities.
+
+All four exact-home effect maps were recovered before moving. None declares a transverse thread or downstream canonical path. The four-body hygiene report `T20-exemplar-migration-hygiene.json` returns **zero target failures**. Global inherited doctor debt remains separate; this is not a claim that the whole repository is clean. Original source and amplification depths remain intact, with full later T20 development/backcheck still required against the quilt-to-whole ledger.
+
+This batch is a preservation/migration result, not acceptance of all T20 content. The current exemplars' developed narrative form must still be reconciled with the raw six-position programme, without erasing their source sequence or amplification bodies. Any added operations require their own exact quilt/source and A-depth return. No plate or new identity was introduced. T17–T19, protected NOTES and the sovereign manuscript remain untouched.

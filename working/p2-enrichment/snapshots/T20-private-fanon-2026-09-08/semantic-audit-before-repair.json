@@ -1,0 +1,14 @@
+{
+  "status": "faults-recorded-before-repair",
+  "faults": [
+    {
+      "id": "F1",
+      "finding": "Inherited objective-internal project comparison survives semantically but its named register is omitted. Restore explicitly without upgrading amplification."
+    },
+    {
+      "id": "F2",
+      "finding": "Old chameleon, comparison subsection and return anchors omitted. Preserve old links inside new sixfold."
+    }
+  ],
+  "whole_sha256": "b51805f65035ab77cc7cec7b3fccd1c3632a785cb55e9da1d641557cebcf8589"
+}

@@ -1,0 +1,20 @@
+{
+  "scope": "bounded reciprocal consumer review; existing identities only",
+  "elements": [
+    {
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "register": "episteme",
+      "record_id": "encounter-region-name-count"
+    },
+    {
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "register": "episteme",
+      "record_id": "homology-and-analogy"
+    },
+    {
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "register": "episteme",
+      "record_id": "symbol-account-and-trust"
+    }
+  ]
+}

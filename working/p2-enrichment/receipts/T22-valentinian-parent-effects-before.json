@@ -1,0 +1,42 @@
+{
+  "root": {
+    "id": "WHOLE",
+    "title": "Valentinian Sophia, Horos, Achamoth and Soter",
+    "path": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Valentinian Sophia, Horos, Achamoth and Soter",
+      "#0 — The fullness in conjunction",
+      "#1 — Sophia reaches; Horos restores",
+      "#2 — Teaching, thanksgiving and the common fruit",
+      "#3 — Achamoth receives form twice",
+      "#4 — A maker who does not know his mother",
+      "The second account of affects and elements",
+      "The human being and the seed's formation",
+      "#5→0 — Bridal return and what remains outside",
+      "Variants that keep the selected telling situated",
+      "The Offered founding comparison"
+    ],
+    "sha256": "1dc5863e20d6f96a99407b745b5608c78da644b4b906c33c5858d498e53578f0",
+    "claim_status": "Argued",
+    "register": "mytheme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "mytheme",
+    "carriers": []
+  }
+}

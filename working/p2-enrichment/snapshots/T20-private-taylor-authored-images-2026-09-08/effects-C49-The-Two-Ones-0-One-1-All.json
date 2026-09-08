@@ -1,0 +1,39 @@
+{
+  "root": {
+    "id": "C49-The-Two-Ones-0-One-1-All",
+    "title": "C49 — The Two Ones — 0 = One, 1 = All",
+    "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+    "artifact_type": "concept",
+    "authority": "canonical-argument",
+    "headings": [
+      "C49 — The Two Ones — 0 = One, 1 = All",
+      "#0",
+      "#1",
+      "#2",
+      "#3",
+      "#4",
+      "#5→0",
+      "Declared field",
+      "Provenance",
+      "Remaining depth"
+    ],
+    "sha256": "d5306d69dace504a5efa5ab2c73645b74edd650d8c9d77b543e582750dd9e5f3"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

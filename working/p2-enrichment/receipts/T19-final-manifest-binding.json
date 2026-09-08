@@ -1,0 +1,962 @@
+{
+  "status": "passed-final-manifest-binding",
+  "counts": {
+    "queue": 276,
+    "root_inputs": 13,
+    "matheme_inputs": 80,
+    "held_entries_preserved": 183,
+    "pilot": 1,
+    "schema2_packets_verified": 94
+  },
+  "held_entries_semantic_sha256": "44e5418ff31c7cda802eafabb79e013269e9bb2feea0baf1693224a0a7252155",
+  "hashes": {
+    "working/p2-enrichment/census.json": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+    "working/p2-enrichment/receipts/depth-acceptance.json": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "working/p2-enrichment/root-inputs.json": "d5fedd10f94010b59fa0391cc67649c2558b57f55ebf4f406d5c421a5fbe856a",
+    "working/p2-enrichment/matheme-inputs.json": "46ccd410656071fbcd7560c47aee686a19c8aeee84f2a8aba18f392beb976a05",
+    "working/p2-enrichment/dispatch-queue.json": "58daf082cbeff7a8f46c38be645d2f55adad99e68d50212bbb031b30bf8f7a34",
+    "working/p2-enrichment/pilot-queue.json": "54830d9f54c13055370650b698c1128cb15341615934a34736adcc1303c8ed72"
+  },
+  "identity_home_register_type_verified": true,
+  "packet_results": [
+    {
+      "target": "symbolon-0-1",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "e00ae87ca1d444430aa6b0dd6c6e0c6535330e139c699d35a3b805020aa07f0e"
+    },
+    {
+      "target": "symbolon-1-0",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "6f8b1a49cc7d27cb5d6c5e0dac65f1be50ebaf9b75a4a416ba96efb8405cdcd4"
+    },
+    {
+      "target": "symbolon-the-slash",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "e2a59fd835f08b5347c6489147db7fad4f4f382b2a50fb4a43900f42ea6efd81"
+    },
+    {
+      "target": "symbolon-mono-poly",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "a62072f6add4815ad1f6635f8d6266a9de52583b4024cff99fba83e8ba739fde"
+    },
+    {
+      "target": "symbolon-question-assertion",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "b7051f37523f2fbea8af5490da649172ee0e92a18ba1a466a2db9ca090d4c648"
+    },
+    {
+      "target": "symbolon-minus-plus",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "ab611bc0c59b5c1cce4a34a29bf8c58e675e07c4912251aae92b90340e009a60"
+    },
+    {
+      "target": "symbolon-x-x",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "1b9fae4bcc2af1892d62919e750de9d1ff0b52eeede0bb42f9b86ac378037717"
+    },
+    {
+      "target": "symbolon-am-is",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "320ed80b7f0b5b427d2c0fcc79cae96a4d992bfb0bc4f350fd88d390eedf3bb5"
+    },
+    {
+      "target": "symbolon-infinity-dx",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "716b3e4da545b3d7ee113db5878bcd2f6824376deabf2864b759037559135e88"
+    },
+    {
+      "target": "symbolon-complexio-oppositorum",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "7b8af9df540912fe59a63cb11e3233c4dea7a76f2afdc9928fc2eff97ba02260"
+    },
+    {
+      "target": "symbolon-self-identity",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "465fe50746f43a1da75c4c9da5073a87a1216b3151bd14a5ff9565427ef271db"
+    },
+    {
+      "target": "symbolon-subject-logics",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "0930e70c2e18807c82ca1d2ea80f3f8a92fe7092a0131ccac24b0bd32bc8fac0"
+    },
+    {
+      "target": "symbolon-eight-determinations",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "58ba58d84f236f09b85ca01185a3a4a733381425dbbf55abaaef980cc786de78"
+    },
+    {
+      "target": "matheme-primordial-symbolon",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "4cc006b87047f173afc00040977236078dacf61131898d52e9f359d415b03ea9"
+    },
+    {
+      "target": "matheme-two-ones",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "80635478b12f4d2753c6829059f96df128fab8e2b74975f8ba5370303b5ad17a"
+    },
+    {
+      "target": "matheme-slash-and-or",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "16eea4614a7ff3d7ed761e33ced9881acf798e98cddce14346a904e3acd18d39"
+    },
+    {
+      "target": "matheme-eight-determinations",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "b69a50b2ce2eac4573e12fcf0f3f96a66c6c0834f824f8abfefb538c8e04403a"
+    },
+    {
+      "target": "matheme-binary-and-binary-of-binary",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "dfeb4882ca37963ebf823d87b2cb6e171b532fb8b7ad96df6c7087fda0f48469"
+    },
+    {
+      "target": "matheme-crossed-zero-re-entry",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "8ce81d03766999f34c562511a8876c3a5fd47f7c69343f0896380bc80c83d6d8"
+    },
+    {
+      "target": "matheme-x-x",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "a507d65fcf93a4ece22cfea664ed8129e32c6d19ec6a40865eea980cfb09f3ad"
+    },
+    {
+      "target": "matheme-complex-orientation",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "e3a7e57fce5d0c5c4bcb4351459334f314ad0beb8cadc3fb6c40ebaaa46f8afb"
+    },
+    {
+      "target": "matheme-spanda-equations",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "9cd39b2b4fe3668ffc84341fde0a9daf00f3ddb4dd84a6bf189e3f3ba5239038"
+    },
+    {
+      "target": "matheme-projective-completion",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "abd38a7d3b5a9b32f07e5f7f9138ee4fd2f9bd9269fa07d3d40d56f69e7734a6"
+    },
+    {
+      "target": "matheme-projective-line",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "f04a84cec9512c801c4f5ab389d0ee80395c7dadee24fb310f961fc1b14fe221"
+    },
+    {
+      "target": "matheme-riemann-sphere",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "dd34d12004febd379ba6e25d2ca39bc8e6c3c3dde562d9debfd14ec71a75b733"
+    },
+    {
+      "target": "matheme-torus-cover-winding",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "7a5bcefd1b347105bdcbc0c2dddada802689fd262e3e965b1773b6b03d2466ed"
+    },
+    {
+      "target": "matheme-mobius-klein-surfaces",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "7ac637b45425cf707a0abf4f0a843fffed6a5f6885deb04f062b44eac6580d4a"
+    },
+    {
+      "target": "matheme-toroidal-poloidal-confinement",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "6dabb6f525a2c6049474c6061e1f263ef488a82715de6a008cb25ae21dc4ef45"
+    },
+    {
+      "target": "matheme-whole-tone-return",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "ef6804ae90cea1005e897c7f8af61f02b3e91bd1c8cf923555d16d232fb56cc8"
+    },
+    {
+      "target": "matheme-pythagorean-comma",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "2b298af64a108ccdf46cd53c9251febae2459e9d3aedc0a8f580ada69f05941c"
+    },
+    {
+      "target": "matheme-cycle-interval-octave",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "6557e3b74c217935164c0a7c0a538d2abb666f4769417aae6295df25d8658d4f"
+    },
+    {
+      "target": "matheme-arche-topos-musical-resolution",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "3fd4cdcd6ce3770e90c4cae1532ed4c838286b35a3706dbb725aa06431110496"
+    },
+    {
+      "target": "matheme-metonic-antikythera-cycle",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "5a7a00d25c7aa19d31c6cf9e3a9c156233f8ee15299be392b116248ee620228e"
+    },
+    {
+      "target": "matheme-cymatics-standing-waves",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "43ae564690f0e277d2d18888c0ed9428e75b7888f012f7387b14f703a73d4fe5"
+    },
+    {
+      "target": "matheme-von-neumann-ordinals",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "47cf315ca3d7911c506405331fa65c8680c73f57047903b8da0b35395630f206"
+    },
+    {
+      "target": "matheme-division-pluralisms",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "b559d97ceb6095b7c78b02df43c2bf6cf6f13711794251b7ddf096e06ac4a1d8"
+    },
+    {
+      "target": "matheme-sheffer-stroke",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "f42790f9665b178a120bbc83ca955eedd43995d3701625a2bc5eb8fe5b32a2a9"
+    },
+    {
+      "target": "matheme-laws-of-form-varela",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "f292891a3f318102b670a214f5d8c755a34633cc7193a83223b35940d03d9a25"
+    },
+    {
+      "target": "matheme-russell-types",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "536753693477fb64033c141aa54143ed45d6e06c85be1640c411a40640962484"
+    },
+    {
+      "target": "matheme-godel-incompleteness",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "29af5b69bc4f0e6ace091a6c5e7270bbee96e08ab8aabe9010c1128489a6e863"
+    },
+    {
+      "target": "matheme-fde-catuskoti",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "53b32877e5513e21c44410f03c82dad240cdf461a964cece21c52f10c58db163"
+    },
+    {
+      "target": "matheme-crt-z6",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "18611083f380373387abf20b8e788cbb15e06065ee0ed22be27f3e5cbc2fce86"
+    },
+    {
+      "target": "matheme-trivial-ring",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "07eaa053b9adc0d4fbaa77f12840494538cffb228382279f0f08d66c94656ab4"
+    },
+    {
+      "target": "matheme-grothendieck-group-loss",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "49471d4da7bee603e40a51ecd669bbe1d429564a1b3c18e341efb7b5ac0ab98b"
+    },
+    {
+      "target": "matheme-kauffman-iterants",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "65dd85338bb2a44b0c5fedbe7646d077b54a7c1fcfc22c668906e15cf599c8db"
+    },
+    {
+      "target": "matheme-cross-ratio",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "db7b3c062e4dc98a4b3587126237d35d7d41bf5c239811dd54fe1e65570ad1e8"
+    },
+    {
+      "target": "matheme-qubit-bloch-sphere",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "d6c0c3d01a80b74dfbbbf88942924fdbbcc3ab838cf77550e7700dfee1718c95"
+    },
+    {
+      "target": "matheme-softmax-argmax",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "0d883a9dcfd0d204dcd4a0e08d940d34debf86b1919e86153e6d100c5243aa61"
+    },
+    {
+      "target": "matheme-preference-gauge",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "10539604150f633b84b0e0d8dea51f1eed190abc170359e5fafd7056c2221f9d"
+    },
+    {
+      "target": "matheme-j-space",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "d44540d59c08d568c52becad75b5c7e161c7faa60ffc96ecb82dfc1f39dfe158"
+    },
+    {
+      "target": "matheme-ebm-resonance",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "cc1384d78a09cb0d340e3542fb09aca8895b498dbf091ac4244dfd437d3c1759"
+    },
+    {
+      "target": "matheme-operational-parity",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "0c737f0fe8e7c87cbe8c888957f4ad8ef99a9343cd174eb12a89e671563b0e32"
+    },
+    {
+      "target": "matheme-noether-symmetry-conservation",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "4069facdfb34cab95ca70d19c9a7c484e706923d120b8a59342d2769f3a25000"
+    },
+    {
+      "target": "matheme-perfect-six",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "296089087d54cb1abac867658e521bf25cc43697c38e5f57c8d35553202c6f47"
+    },
+    {
+      "target": "matheme-tetraktys-triangle",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "9d32187f72c7b42db251a72d6a0e7f8fa118928951cd8a6c9d1dd59fa9319076"
+    },
+    {
+      "target": "matheme-quaternion-q8",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "3a234664aefce95792e81d4a604fbc06676e6b0b0a6950b5a20956959d65abbe"
+    },
+    {
+      "target": "matheme-calculus-infinity-dx",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "499677dcee55f054a069a3b74ed13d85d3d627dbffc586788f5813150fcfeed2"
+    },
+    {
+      "target": "matheme-chaos-attractors",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "ff72d25cde826ded0119e3f44047db0c664596fce250c6af66cb4f2b13e665ed"
+    },
+    {
+      "target": "matheme-manifold-atlas",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "2523b3334e9ea6628baacc896df971b41e35b249f26fe4411587291e26e1e3fa"
+    },
+    {
+      "target": "matheme-definition-the-matheme",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "3087da148961ba1ac0d74f711805315ceba699e215c790dd5e1d417ffa8adb3a"
+    },
+    {
+      "target": "matheme-definition-minus-over-minus",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "da5ca072dac9f16a82675c00561e38e866313bbb6df95f6d8028af4c9c75744f"
+    },
+    {
+      "target": "matheme-definition-copula",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "1f0bbc97a18f17de2f36bc2bda06b6b1c41f7b090424cf03e7081e72f28e2c74"
+    },
+    {
+      "target": "matheme-definition-harmonics-and-recount",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "06af4e9e3525afcff117b604a9a2c0b3a449e8e3509a25fdf429bc5b28cf6a17"
+    },
+    {
+      "target": "matheme-definition-six-determinations",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "9c368c6114a420de5e982a68ce610bbfc2f461fd6d370d57d6579dec4ba6d6d5"
+    },
+    {
+      "target": "matheme-definition-catuskoti-crossing",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "fab18329e91a2eebde86b44b2f26f7c563459844c835fed5f71a331c22ce019d"
+    },
+    {
+      "target": "matheme-definition-immutable-subject",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "8bc577d697cba073f34e7a654cc24b52b97408dc546303a0f7a5e97c6a47ce40"
+    },
+    {
+      "target": "matheme-process-t1-geometry",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "90d5490e02c4000a59a011b843b8e7cf6c7ca3fa1672c6df9a3a28d581e79794"
+    },
+    {
+      "target": "matheme-process-phase-flip",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "62d1fc5a655cfe4e5b9b5e8f17ae00ee66e2431b25f8f9a378abed81339bb00c"
+    },
+    {
+      "target": "matheme-process-t0-onto-logic",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "4ef954ecc975d7d9a9807bcae02364ebc849a5192e2024b7fd21059d5bddce58"
+    },
+    {
+      "target": "matheme-process-spanda",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "1b4ea67360488165367206f468eef6d4fb9bfdc55247c5c8d9979ce472e1b188"
+    },
+    {
+      "target": "matheme-process-ratio-threshold",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "1e08db52ab86ba52ddf13cc21791aaa5682379a0f39e94a519443c2bf914cc56"
+    },
+    {
+      "target": "matheme-process-harmonics-symmetries",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "fa8cb43f4a0fcbcb5ad2a0649c0b83c28b80401d1d0cdcb1e7adc219a558d2c4"
+    },
+    {
+      "target": "matheme-process-ql-positions",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "3dcbac3b0e7e23fef5ac794a5081c3108f147558aa98c579ab4c2e364964fefe"
+    },
+    {
+      "target": "matheme-quilt-etymology",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "e23d99c1e2a9ff3223f5d87097e2976b41f0e51cf0ac45b9e01d84ee72e26798"
+    },
+    {
+      "target": "matheme-quilt-psychology",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "d0138be25d58b1519486ac7226cb3e08a2bf27179504e328360a995f52e3a22b"
+    },
+    {
+      "target": "matheme-quilt-number",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "87bf1539162ebd7addd8b1e34d79391dc160619182db3b7b4c2fbdfe67215a2c"
+    },
+    {
+      "target": "matheme-quilt-topology",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "0d8cf3794580f61cd64fa40c09f9be78b7018e39b0b0854a6840b28d726dcecb"
+    },
+    {
+      "target": "matheme-quilt-metaphysics",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "ac80daf3715d2fdd7c3880f8f598fa45726a714b9384d18ceb779a7b12c4a311"
+    },
+    {
+      "target": "matheme-quilt-recognition",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "0c9815564850f247548c0aefe300e9c85de31a80d37a44b19c1dcad5765e4799"
+    },
+    {
+      "target": "matheme-quilt-enantiodromic-return",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "d32fc40e3a41a01965607aeec1c8391814b5e7b05cce7c2d9736f4027d3ca54d"
+    },
+    {
+      "target": "matheme-music-foundational-ratios",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "f74ca3733a016b33129f77a703973b69918af1fbcb468d52fe2eac4254376646"
+    },
+    {
+      "target": "matheme-music-chromatic-substrates",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "9db812353687091b1da453ef0b443a29ab58c444100f4ed31784df148c1e11de"
+    },
+    {
+      "target": "matheme-music-pairing-grammar",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "cc3faf67e571631bfc6340c63c5706c6057b6d5f2d620aa549540188e53f71cc"
+    },
+    {
+      "target": "matheme-music-lens-anchors",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "bfd081bb937814372bc4cee8cc246966e6da42570b1a273907884efd1054829c"
+    },
+    {
+      "target": "matheme-music-diatonic-cf-grammar",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "79aa5ffc36a3dcc63bad6aa062ad296be0d17b5b8d96f6f694cab6b20d7f7d09"
+    },
+    {
+      "target": "matheme-music-field",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "42d0a3da2d7b4725c3da068ee61b8c1a25312a38a6f8e379a98dc34b2757620b"
+    },
+    {
+      "target": "matheme-music-observer-instrument",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "6b0f37b41b1d7506c886e8222a39f6a34de1ddde90f969fe7430e31e653f589d"
+    },
+    {
+      "target": "matheme-dia-syn-dia",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "7843cc64c000374d48c52e142fce9bfdb7c1bdd05c95f648a0fb29daf75737a2"
+    },
+    {
+      "target": "matheme-dia-syn-syn",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "f1a50185d766be978df18d1463d873493075006b4b6dde477e84649887208390"
+    },
+    {
+      "target": "matheme-dia-syn-chronic",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "3c89dba982bb49bca46f8f0bbcdb3a46b6a212e7a158326b811dc27bdc1c1193"
+    },
+    {
+      "target": "matheme-mono-poly-mono",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "2e1470bef2411e6479fa2a07f568b94a35a58ff12a580b3dbb93470cca56830b"
+    },
+    {
+      "target": "matheme-mono-poly-poly",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "e4ad6aacd538444fdbaccd5e89d00c2991a356ba5097b846cc57009b92bb8fb9"
+    },
+    {
+      "target": "matheme-mono-poly-translations",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "ebaa9d0c7a8eb0953f4649c4675c2faff55d8d62d8748d224dabcd27883b7416"
+    },
+    {
+      "target": "A01",
+      "generation_returncode": 0,
+      "verification_returncode": 0,
+      "sha256": "23a16e2886b904238fec5d72aa0cc04ecb0a504e21784cdadc4cbeb866744058"
+    }
+  ],
+  "packet_failures": [],
+  "schema2_packets_generated_and_verified": 94,
+  "all_current_input_fields_equal_queue": true,
+  "no_stale_symbolon_dia_sym_root_path": true,
+  "phase_flip_additional_source_houses": [
+    "submission-package/essay/symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/SOURCE.md"
+  ],
+  "ql_positions_direct_support": [
+    "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/binary-explication-complete-plan.md"
+  ],
+  "workflow_tests": {
+    "command": "python3 -m unittest discover -s tests -p test_p2_build_workflow.py -v",
+    "tests_run": 12,
+    "returncode": 0,
+    "status": "passed",
+    "log": "working/p2-enrichment/receipts/T19-final-manifest-workflow-tests.log",
+    "log_sha256": "b5487d8330405bf291ccdd91701d0f718425ea49f32569b0a2520a64491c30f7"
+  },
+  "scope": "93 root/matheme schema-2 packets plus existing A01 pilot rebound and verified; 183 held queue entries preserved; no canonical page/source/census/depth edits or batch hygiene",
+  "provenance_policy": "Earlier per-page receipts and their recorded hashes retained untouched.",
+  "navigation_freshness_refresh": {
+    "status": "passed",
+    "reason": "Final README links plus domain contract byte-binding",
+    "packets_generated_and_verified": 94,
+    "current_readme_input_hashes": {
+      "submission-package/essay/symbolon/README.md": "5f791a4ab8af5a15917c75351dd6d66ebc2a346a5816d4a968e680aa2101470c",
+      "submission-package/essay/symbolon/matheme/README.md": "115fa742d9d40ae3c283214b6f43bb679f7489a7baab862a1e99051f9ed69ec4",
+      "submission-package/essay/symbolon/matheme/ql/README.md": "717f8ac41f50a81dcc02bef220a4f87aa092e7e50a646a2e7c5a4d39babeccf9",
+      "submission-package/essay/symbolon/matheme/spanda/README.md": "d299709cc6626e4ba077273e4c16728024fd4326d9443c940426cb17a3dea6ee",
+      "submission-package/essay/symbolon/matheme/topology/README.md": "0ee9333fa1fa044a12b3308dbb176245d38f5b027f8e63899659dbfe680cd780",
+      "submission-package/essay/symbolon/matheme/harmonics/README.md": "d5d673ef7d1995c2d012742294403a6035ea228ee67b79f94bd2405a9af79849",
+      "submission-package/essay/symbolon/matheme/formal-neighbours/README.md": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f",
+      "submission-package/essay/symbolon/matheme/computation/README.md": "72d5a297b9b82eaaad3379afdafffdafd5843c1652e7fd8b6288d423975dc0ae",
+      "submission-package/essay/symbolon/matheme/definition/README.md": "f88ceb33805d3df40060b2d35b0ef57714bd8f53bdb4f076690a81887f364536",
+      "submission-package/essay/symbolon/matheme/process/README.md": "63de70316017c420d667084c8ff346f4845d63018adfe420b7cae17464526040",
+      "submission-package/essay/symbolon/matheme/quilt/README.md": "0b29c01e79042098a68f72d7e0e681768d7ecce2b1bd5286cbc40f6cd0f87702",
+      "submission-package/essay/symbolon/matheme/music/README.md": "9d9e55b3faed5e79f4d0fd27f228aa3f4ad107b13601852f9d37251f9a28753a",
+      "submission-package/essay/symbolon/matheme/dia-syn/README.md": "f0033ed0c6c952ca377fed250ca91215863a3e95ff46edf8a359ffceb17cd4b6",
+      "submission-package/essay/symbolon/matheme/mono-poly/README.md": "87cf9e50b33f5b7efe1149f937e8af3a2991ceeea94aad8f962990e4de868051",
+      "submission-package/essay/symbolon/episteme/README.md": "ae533c3453712c8931001f2b50a3cd93b06fbb1a87f64cdfef0d64f2f268f4d0"
+    },
+    "tests": "12 real workflow tests pass including domain README mutation regression",
+    "refreshed_at": "2026-09-07T21:51:19.209815+00:00"
+  },
+  "domain_contract_binding": {
+    "status": "passed",
+    "workflow_change": "Present register_contract_domain is added to packet required_paths and SHA256 bound.",
+    "real_regression": "Copy actual music domain README into test temporary workspace; build and verify real admitted music packet, then mutate only temporary domain text and require verify-packet failure. Canonical README untouched.",
+    "targets_bound": 80,
+    "domains": {
+      "matheme-primordial-symbolon": {
+        "path": "submission-package/essay/symbolon/matheme/ql/README.md",
+        "sha256": "717f8ac41f50a81dcc02bef220a4f87aa092e7e50a646a2e7c5a4d39babeccf9"
+      },
+      "matheme-two-ones": {
+        "path": "submission-package/essay/symbolon/matheme/ql/README.md",
+        "sha256": "717f8ac41f50a81dcc02bef220a4f87aa092e7e50a646a2e7c5a4d39babeccf9"
+      },
+      "matheme-slash-and-or": {
+        "path": "submission-package/essay/symbolon/matheme/ql/README.md",
+        "sha256": "717f8ac41f50a81dcc02bef220a4f87aa092e7e50a646a2e7c5a4d39babeccf9"
+      },
+      "matheme-eight-determinations": {
+        "path": "submission-package/essay/symbolon/matheme/ql/README.md",
+        "sha256": "717f8ac41f50a81dcc02bef220a4f87aa092e7e50a646a2e7c5a4d39babeccf9"
+      },
+      "matheme-binary-and-binary-of-binary": {
+        "path": "submission-package/essay/symbolon/matheme/ql/README.md",
+        "sha256": "717f8ac41f50a81dcc02bef220a4f87aa092e7e50a646a2e7c5a4d39babeccf9"
+      },
+      "matheme-crossed-zero-re-entry": {
+        "path": "submission-package/essay/symbolon/matheme/ql/README.md",
+        "sha256": "717f8ac41f50a81dcc02bef220a4f87aa092e7e50a646a2e7c5a4d39babeccf9"
+      },
+      "matheme-x-x": {
+        "path": "submission-package/essay/symbolon/matheme/ql/README.md",
+        "sha256": "717f8ac41f50a81dcc02bef220a4f87aa092e7e50a646a2e7c5a4d39babeccf9"
+      },
+      "matheme-complex-orientation": {
+        "path": "submission-package/essay/symbolon/matheme/ql/README.md",
+        "sha256": "717f8ac41f50a81dcc02bef220a4f87aa092e7e50a646a2e7c5a4d39babeccf9"
+      },
+      "matheme-spanda-equations": {
+        "path": "submission-package/essay/symbolon/matheme/spanda/README.md",
+        "sha256": "d299709cc6626e4ba077273e4c16728024fd4326d9443c940426cb17a3dea6ee"
+      },
+      "matheme-projective-completion": {
+        "path": "submission-package/essay/symbolon/matheme/topology/README.md",
+        "sha256": "0ee9333fa1fa044a12b3308dbb176245d38f5b027f8e63899659dbfe680cd780"
+      },
+      "matheme-projective-line": {
+        "path": "submission-package/essay/symbolon/matheme/topology/README.md",
+        "sha256": "0ee9333fa1fa044a12b3308dbb176245d38f5b027f8e63899659dbfe680cd780"
+      },
+      "matheme-riemann-sphere": {
+        "path": "submission-package/essay/symbolon/matheme/topology/README.md",
+        "sha256": "0ee9333fa1fa044a12b3308dbb176245d38f5b027f8e63899659dbfe680cd780"
+      },
+      "matheme-torus-cover-winding": {
+        "path": "submission-package/essay/symbolon/matheme/topology/README.md",
+        "sha256": "0ee9333fa1fa044a12b3308dbb176245d38f5b027f8e63899659dbfe680cd780"
+      },
+      "matheme-mobius-klein-surfaces": {
+        "path": "submission-package/essay/symbolon/matheme/topology/README.md",
+        "sha256": "0ee9333fa1fa044a12b3308dbb176245d38f5b027f8e63899659dbfe680cd780"
+      },
+      "matheme-toroidal-poloidal-confinement": {
+        "path": "submission-package/essay/symbolon/matheme/topology/README.md",
+        "sha256": "0ee9333fa1fa044a12b3308dbb176245d38f5b027f8e63899659dbfe680cd780"
+      },
+      "matheme-whole-tone-return": {
+        "path": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+        "sha256": "d5d673ef7d1995c2d012742294403a6035ea228ee67b79f94bd2405a9af79849"
+      },
+      "matheme-pythagorean-comma": {
+        "path": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+        "sha256": "d5d673ef7d1995c2d012742294403a6035ea228ee67b79f94bd2405a9af79849"
+      },
+      "matheme-cycle-interval-octave": {
+        "path": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+        "sha256": "d5d673ef7d1995c2d012742294403a6035ea228ee67b79f94bd2405a9af79849"
+      },
+      "matheme-arche-topos-musical-resolution": {
+        "path": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+        "sha256": "d5d673ef7d1995c2d012742294403a6035ea228ee67b79f94bd2405a9af79849"
+      },
+      "matheme-metonic-antikythera-cycle": {
+        "path": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+        "sha256": "d5d673ef7d1995c2d012742294403a6035ea228ee67b79f94bd2405a9af79849"
+      },
+      "matheme-cymatics-standing-waves": {
+        "path": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+        "sha256": "d5d673ef7d1995c2d012742294403a6035ea228ee67b79f94bd2405a9af79849"
+      },
+      "matheme-von-neumann-ordinals": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-division-pluralisms": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-sheffer-stroke": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-laws-of-form-varela": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-russell-types": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-godel-incompleteness": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-fde-catuskoti": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-crt-z6": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-trivial-ring": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-grothendieck-group-loss": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-kauffman-iterants": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-cross-ratio": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-qubit-bloch-sphere": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-softmax-argmax": {
+        "path": "submission-package/essay/symbolon/matheme/computation/README.md",
+        "sha256": "72d5a297b9b82eaaad3379afdafffdafd5843c1652e7fd8b6288d423975dc0ae"
+      },
+      "matheme-preference-gauge": {
+        "path": "submission-package/essay/symbolon/matheme/computation/README.md",
+        "sha256": "72d5a297b9b82eaaad3379afdafffdafd5843c1652e7fd8b6288d423975dc0ae"
+      },
+      "matheme-j-space": {
+        "path": "submission-package/essay/symbolon/matheme/computation/README.md",
+        "sha256": "72d5a297b9b82eaaad3379afdafffdafd5843c1652e7fd8b6288d423975dc0ae"
+      },
+      "matheme-ebm-resonance": {
+        "path": "submission-package/essay/symbolon/matheme/computation/README.md",
+        "sha256": "72d5a297b9b82eaaad3379afdafffdafd5843c1652e7fd8b6288d423975dc0ae"
+      },
+      "matheme-operational-parity": {
+        "path": "submission-package/essay/symbolon/matheme/computation/README.md",
+        "sha256": "72d5a297b9b82eaaad3379afdafffdafd5843c1652e7fd8b6288d423975dc0ae"
+      },
+      "matheme-noether-symmetry-conservation": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-perfect-six": {
+        "path": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+        "sha256": "d5d673ef7d1995c2d012742294403a6035ea228ee67b79f94bd2405a9af79849"
+      },
+      "matheme-tetraktys-triangle": {
+        "path": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+        "sha256": "d5d673ef7d1995c2d012742294403a6035ea228ee67b79f94bd2405a9af79849"
+      },
+      "matheme-quaternion-q8": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-calculus-infinity-dx": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-chaos-attractors": {
+        "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+        "sha256": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f"
+      },
+      "matheme-manifold-atlas": {
+        "path": "submission-package/essay/symbolon/matheme/topology/README.md",
+        "sha256": "0ee9333fa1fa044a12b3308dbb176245d38f5b027f8e63899659dbfe680cd780"
+      },
+      "matheme-definition-the-matheme": {
+        "path": "submission-package/essay/symbolon/matheme/definition/README.md",
+        "sha256": "f88ceb33805d3df40060b2d35b0ef57714bd8f53bdb4f076690a81887f364536"
+      },
+      "matheme-definition-minus-over-minus": {
+        "path": "submission-package/essay/symbolon/matheme/definition/README.md",
+        "sha256": "f88ceb33805d3df40060b2d35b0ef57714bd8f53bdb4f076690a81887f364536"
+      },
+      "matheme-definition-copula": {
+        "path": "submission-package/essay/symbolon/matheme/definition/README.md",
+        "sha256": "f88ceb33805d3df40060b2d35b0ef57714bd8f53bdb4f076690a81887f364536"
+      },
+      "matheme-definition-harmonics-and-recount": {
+        "path": "submission-package/essay/symbolon/matheme/definition/README.md",
+        "sha256": "f88ceb33805d3df40060b2d35b0ef57714bd8f53bdb4f076690a81887f364536"
+      },
+      "matheme-definition-six-determinations": {
+        "path": "submission-package/essay/symbolon/matheme/definition/README.md",
+        "sha256": "f88ceb33805d3df40060b2d35b0ef57714bd8f53bdb4f076690a81887f364536"
+      },
+      "matheme-definition-catuskoti-crossing": {
+        "path": "submission-package/essay/symbolon/matheme/definition/README.md",
+        "sha256": "f88ceb33805d3df40060b2d35b0ef57714bd8f53bdb4f076690a81887f364536"
+      },
+      "matheme-definition-immutable-subject": {
+        "path": "submission-package/essay/symbolon/matheme/definition/README.md",
+        "sha256": "f88ceb33805d3df40060b2d35b0ef57714bd8f53bdb4f076690a81887f364536"
+      },
+      "matheme-process-t1-geometry": {
+        "path": "submission-package/essay/symbolon/matheme/process/README.md",
+        "sha256": "63de70316017c420d667084c8ff346f4845d63018adfe420b7cae17464526040"
+      },
+      "matheme-process-phase-flip": {
+        "path": "submission-package/essay/symbolon/matheme/process/README.md",
+        "sha256": "63de70316017c420d667084c8ff346f4845d63018adfe420b7cae17464526040"
+      },
+      "matheme-process-t0-onto-logic": {
+        "path": "submission-package/essay/symbolon/matheme/process/README.md",
+        "sha256": "63de70316017c420d667084c8ff346f4845d63018adfe420b7cae17464526040"
+      },
+      "matheme-process-spanda": {
+        "path": "submission-package/essay/symbolon/matheme/process/README.md",
+        "sha256": "63de70316017c420d667084c8ff346f4845d63018adfe420b7cae17464526040"
+      },
+      "matheme-process-ratio-threshold": {
+        "path": "submission-package/essay/symbolon/matheme/process/README.md",
+        "sha256": "63de70316017c420d667084c8ff346f4845d63018adfe420b7cae17464526040"
+      },
+      "matheme-process-harmonics-symmetries": {
+        "path": "submission-package/essay/symbolon/matheme/process/README.md",
+        "sha256": "63de70316017c420d667084c8ff346f4845d63018adfe420b7cae17464526040"
+      },
+      "matheme-process-ql-positions": {
+        "path": "submission-package/essay/symbolon/matheme/process/README.md",
+        "sha256": "63de70316017c420d667084c8ff346f4845d63018adfe420b7cae17464526040"
+      },
+      "matheme-quilt-etymology": {
+        "path": "submission-package/essay/symbolon/matheme/quilt/README.md",
+        "sha256": "0b29c01e79042098a68f72d7e0e681768d7ecce2b1bd5286cbc40f6cd0f87702"
+      },
+      "matheme-quilt-psychology": {
+        "path": "submission-package/essay/symbolon/matheme/quilt/README.md",
+        "sha256": "0b29c01e79042098a68f72d7e0e681768d7ecce2b1bd5286cbc40f6cd0f87702"
+      },
+      "matheme-quilt-number": {
+        "path": "submission-package/essay/symbolon/matheme/quilt/README.md",
+        "sha256": "0b29c01e79042098a68f72d7e0e681768d7ecce2b1bd5286cbc40f6cd0f87702"
+      },
+      "matheme-quilt-topology": {
+        "path": "submission-package/essay/symbolon/matheme/quilt/README.md",
+        "sha256": "0b29c01e79042098a68f72d7e0e681768d7ecce2b1bd5286cbc40f6cd0f87702"
+      },
+      "matheme-quilt-metaphysics": {
+        "path": "submission-package/essay/symbolon/matheme/quilt/README.md",
+        "sha256": "0b29c01e79042098a68f72d7e0e681768d7ecce2b1bd5286cbc40f6cd0f87702"
+      },
+      "matheme-quilt-recognition": {
+        "path": "submission-package/essay/symbolon/matheme/quilt/README.md",
+        "sha256": "0b29c01e79042098a68f72d7e0e681768d7ecce2b1bd5286cbc40f6cd0f87702"
+      },
+      "matheme-quilt-enantiodromic-return": {
+        "path": "submission-package/essay/symbolon/matheme/quilt/README.md",
+        "sha256": "0b29c01e79042098a68f72d7e0e681768d7ecce2b1bd5286cbc40f6cd0f87702"
+      },
+      "matheme-music-foundational-ratios": {
+        "path": "submission-package/essay/symbolon/matheme/music/README.md",
+        "sha256": "9d9e55b3faed5e79f4d0fd27f228aa3f4ad107b13601852f9d37251f9a28753a"
+      },
+      "matheme-music-chromatic-substrates": {
+        "path": "submission-package/essay/symbolon/matheme/music/README.md",
+        "sha256": "9d9e55b3faed5e79f4d0fd27f228aa3f4ad107b13601852f9d37251f9a28753a"
+      },
+      "matheme-music-pairing-grammar": {
+        "path": "submission-package/essay/symbolon/matheme/music/README.md",
+        "sha256": "9d9e55b3faed5e79f4d0fd27f228aa3f4ad107b13601852f9d37251f9a28753a"
+      },
+      "matheme-music-lens-anchors": {
+        "path": "submission-package/essay/symbolon/matheme/music/README.md",
+        "sha256": "9d9e55b3faed5e79f4d0fd27f228aa3f4ad107b13601852f9d37251f9a28753a"
+      },
+      "matheme-music-diatonic-cf-grammar": {
+        "path": "submission-package/essay/symbolon/matheme/music/README.md",
+        "sha256": "9d9e55b3faed5e79f4d0fd27f228aa3f4ad107b13601852f9d37251f9a28753a"
+      },
+      "matheme-music-field": {
+        "path": "submission-package/essay/symbolon/matheme/music/README.md",
+        "sha256": "9d9e55b3faed5e79f4d0fd27f228aa3f4ad107b13601852f9d37251f9a28753a"
+      },
+      "matheme-music-observer-instrument": {
+        "path": "submission-package/essay/symbolon/matheme/music/README.md",
+        "sha256": "9d9e55b3faed5e79f4d0fd27f228aa3f4ad107b13601852f9d37251f9a28753a"
+      },
+      "matheme-dia-syn-dia": {
+        "path": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+        "sha256": "f0033ed0c6c952ca377fed250ca91215863a3e95ff46edf8a359ffceb17cd4b6"
+      },
+      "matheme-dia-syn-syn": {
+        "path": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+        "sha256": "f0033ed0c6c952ca377fed250ca91215863a3e95ff46edf8a359ffceb17cd4b6"
+      },
+      "matheme-dia-syn-chronic": {
+        "path": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+        "sha256": "f0033ed0c6c952ca377fed250ca91215863a3e95ff46edf8a359ffceb17cd4b6"
+      },
+      "matheme-mono-poly-mono": {
+        "path": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+        "sha256": "87cf9e50b33f5b7efe1149f937e8af3a2991ceeea94aad8f962990e4de868051"
+      },
+      "matheme-mono-poly-poly": {
+        "path": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+        "sha256": "87cf9e50b33f5b7efe1149f937e8af3a2991ceeea94aad8f962990e4de868051"
+      },
+      "matheme-mono-poly-translations": {
+        "path": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+        "sha256": "87cf9e50b33f5b7efe1149f937e8af3a2991ceeea94aad8f962990e4de868051"
+      }
+    },
+    "workflow_sha256": "26df0d9f18d4103e0272fedd045b201992241cdd2454fbd9672388ff21e34577",
+    "test_file_sha256": "ce408c771f1d9a5706879c39e296b6503fd38a551bcebfbf5e6a5827065f2442"
+  }
+}

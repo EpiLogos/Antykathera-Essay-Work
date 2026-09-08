@@ -1,0 +1,19 @@
+{
+  "method": "Parse actual selected-note, mode and lens-scale rows; exact Fraction ratio checks",
+  "CF_rows": 7,
+  "modal_rows_and_face_patterns": 7,
+  "lens_scales": 12,
+  "pure_step_ratios": [
+    "9/8",
+    "9/8",
+    "256/243",
+    "9/8",
+    "9/8",
+    "9/8",
+    "256/243"
+  ],
+  "pure_product": "2",
+  "parallel_minor_faces": "NNPPPNN",
+  "cluster_not_major_ninth": true,
+  "passed": true
+}

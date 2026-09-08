@@ -1,0 +1,11 @@
+# T18 parent development — 2026-09-07
+
+Parent wrote question-assertion, minus-plus, X-x, AM-IS, infinity-dx, self-identity and eight-determinations. These are projections of the current twelvefold root office. They preserve the whole-bearing relation, source/argument returns and locally derived sixfolds; the index performs navigation rather than adding a thirteenth substantive root.
+
+Directly reopened material: the complete current core spine (middle and late spans reread after a truncated initial display); the Binary Explication SOURCE and core SOURCE; File 1's qualitative determination derivation and complete Catuṣkoṭi crossing, its native negation/affirmation and X/x development, its graphical copula derivation; the copied Self-Identity resource's inversion/preposition/parent passages; current A18, A02 personed circuit, A01 performed definition/return, A03 formal-limit distinction; the three full declared transverse paths. Earlier accepted A-depth recovery is inherited context, not a claim that the parent reread every large bound source for every root. Source-specific quotation readiness remains distinct from native derivation.
+
+The parent wrote complete drafts before commissioning an independent substantive review of six pages. The spine-index was separately checked against all twelve root offices, the exact eightfold order, the two brackets versus six positions, and the three harmonic/complementary pairings in the core. No additional QL determination was introduced. The external mathematical boundary in infinity-dx is exhibited by differentiating x²+7 and integrating 2x; the root does not equate that specific information loss with every philosophical/formal limit.
+
+The source/record relation debt remains explicit for the directly copied Self-Identity resource: its content supplies native developmental provenance; the central-plan amendment supplies structural admission. No new source house was created during T18. No protected NOTES or original authorial text was changed.
+
+The Symbolon README's existing root filenames were made navigable as links after the root pages existed. This changes contract bytes while preserving the locked skeleton and semantics; refresh packet snapshots for final freshness reporting. No rooms, movements or sovereign manuscript were edited. Batch hygiene follows the completed writer/reviewer barrier.

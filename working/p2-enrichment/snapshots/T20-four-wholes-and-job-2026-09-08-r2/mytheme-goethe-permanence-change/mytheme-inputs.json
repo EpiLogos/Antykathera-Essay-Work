@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "record_type": "target-keyed-mytheme-input-bindings",
+  "status": "21-admitted-wholes-bound-parent-review-required-source-telling-gates-explicit",
+  "census": "working/p2-enrichment/census.json",
+  "authority": [
+    "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+    "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+    "the-return-of-zero-central-plan.md",
+    "working/p2-enrichment/CENSUS-RECONCILIATION.md"
+  ],
+  "elements": [
+    {
+      "record_id": "mytheme-goethe-permanence-change",
+      "title": "Goethe — Permanence and Change",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "argument_depth": [
+        "A11",
+        "A12",
+        "A13",
+        "A16",
+        "A19",
+        "A23",
+        "A27",
+        "A35",
+        "A36"
+      ],
+      "argument_depth_roles": {
+        "A11": "Material whole-field consumer: A11 — The Two Ones — 0 = One, 1 = All; consult completed A11 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A11.md:18.",
+        "A12": "Material whole-field consumer: A12 — Mono/Poly — One / All, Whole / Many; consult completed A12 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A12.md:18.",
+        "A13": "Material whole-field consumer: A13 — Two Logics of Two — Dia / Syn; consult completed A13 depth packet before extracting this register’s operation.",
+        "A16": "Material whole-field consumer: A16 — Arche-Topos as Differential Field; consult completed A16 depth packet before extracting this register’s operation.",
+        "A19": "Material whole-field consumer: A19 — Complex as Local Arbitration Regime; consult completed A19 depth packet before extracting this register’s operation.",
+        "A23": "Material whole-field consumer: A23 — Trust, Faith and the Formal Limit; consult completed A23 depth packet before extracting this register’s operation.",
+        "A27": "Material whole-field consumer: A27 — Self and Other — Unity without Possession; consult completed A27 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A27.md:14.",
+        "A35": "Material whole-field consumer: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation; consult completed A35 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A35.md:14.",
+        "A36": "Material whole-field consumer: A36 — Advent of Integral Zero; consult completed A36 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A36.md:14."
+      },
+      "direct_carriers": [
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md",
+        "working/p2-enrichment/receipts/mytheme-primary-acquisition.md"
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/literature/goethe/goethe-1983-selected-poems-nims/SOURCE.md"
+      ],
+      "source_slices": [
+        {
+          "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+          "start_line": 1163,
+          "end_line": 1169,
+          "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Ratified office is One in change / Two Ones with light manuscript burden; full poetic enactment must be read before development.",
+          "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+        },
+        {
+          "path": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md",
+          "start_line": 197,
+          "end_line": 217,
+          "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Ratified office is One in change / Two Ones with light manuscript burden; full poetic enactment must be read before development.",
+          "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+        },
+        {
+          "path": "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+          "start_line": 13,
+          "end_line": 23,
+          "relation": "Primary work identity, exact whole-story/poem acquisition routes and edition boundaries for this admitted whole; use its named target section.",
+          "provenance": "Delegated source acquisition receipt, not canonical SOURCE and not proof of unclaimed full reads or selected-print collation."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/literature/goethe/goethe-1983-selected-poems-nims/SOURCE.md",
+          "start_line": 48,
+          "end_line": 113,
+          "relation": "Current source-house acquisition and intact telling supersede inherited missing-house flags.",
+          "provenance": "Canonical source house: selected witness, complete read scope and precise residual quotation debts."
+        }
+      ],
+      "relations": [
+        {
+          "target": "A11",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A11 — The Two Ones — 0 = One, 1 = All",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A12",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A12 — Mono/Poly — One / All, Whole / Many",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A13",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A13 — Two Logics of Two — Dia / Syn",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A16",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A16 — Arche-Topos as Differential Field",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A19",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A19 — Complex as Local Arbitration Regime",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A23",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A23 — Trust, Faith and the Formal Limit",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A27",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A27 — Self and Other — Unity without Possession",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A35",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A36",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A36 — Advent of Integral Zero",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C21",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C21 — Living Symbol / Idol",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C49",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C49 — The Two Ones — 0 = One, 1 = All",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C50",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C50 — Dia / Syn",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "etymology-homology-and-analogy",
+          "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: homology-and-analogy",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        }
+      ],
+      "register_contract": "submission-package/essay/symbolon/mytheme/README.md",
+      "additional_required_inputs": [
+        "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+        "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+        "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+        "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+        "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+        "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+        "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+        "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+        "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+        "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+        "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+        "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+        "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+        "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+        "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        ".agents/skills/return-of-zero-pages/SKILL.md",
+        ".agents/skills/return-of-zero-links/SKILL.md",
+        ".agents/skills/return-of-zero-source/SKILL.md",
+        "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+        "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+        ".wayfinder/maps/t20-t21-world-registers.md",
+        "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json"
+      ],
+      "target_operation": "Ratified office is One in change / Two Ones with light manuscript burden; full poetic enactment must be read before development.",
+      "whole_figures_and_relations": "Goethe Dauer im Wechsel, five eight-line stanzas; passing bloom, changing landscape/self, irreversible substitution, beginning/end, content/form and double aspects of the One. Full exact German/selected English remains source-read obligation before detailed line interpretation.",
+      "whole_sequence": "Identity resolved by delegated primary-publication/poem retrieval: Permanence and Change is admitted alias of Dauer im Wechsel; Nims title Permanence in Change, final stanza contains Double aspects of the One. Five-stanza progression must be recovered intact, not reconstructed from the final fragment.",
+      "specific_boundaries": [
+        "No substituted Goethe lyric, invented translation, or prose paraphrase standing in for the absent complete poem. Goethe’s Selige Sehnsucht in mixed chat is a different work and cannot satisfy this target.",
+        "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no.",
+        "Whole narration precedes element amplification; ending/aftermath qualifies beginning. Every interpretive edge keeps human-amplified:yes/no. No canonical motif/character identity by stealth.",
+        "Raw sixfold must be derived from this whole’s own movement; no Definition/Operation/Pattern/Context glossary. The form may host source/story/amplification substructure without turning its positions into universal semantics."
+      ],
+      "source_or_telling_blockers": [
+        "House and complete German witness available; selected1983 Nims page169 collation remains Open; same poem, no invented translation."
+      ],
+      "status": "binding-complete-poem-identity-resolved-selected-text-collation-open",
+      "canonical_write_authorised_by_this_file": false,
+      "restoration_acceptance": [
+        "Intact telling and active figures available, not topical illustration.",
+        "Original developed operation surfaced; direct authored wording/provenance preserved.",
+        "Every materially consumed source and sibling NOTES read in full by writer; acquisition/edition debt scoped exactly.",
+        "Written A/C/E and cross-whole relations return to exact occurrences; unratified edges remain no.",
+        "Argument-depth backcheck and T22 receipt report actual restored operations and undisclosed debt."
+      ],
+      "source_read_obligations": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+          "source_sha256": "9f5a46d9adc123828b838b3f63b7cd112990f8ac11e85e58686eb3617d145785",
+          "notes": null,
+          "notes_policy": "Full read, authorial provenance, never mutate",
+          "read_coverage": "Existing full-read shared receipts or new mytheme preparation source receipt; writer must reread complete material source/notes",
+          "readiness": {
+            "citation_status": "internal-ready",
+            "quote_status": "excerpts-indexed-internal"
+          }
+        }
+      ],
+      "binding_readiness": {
+        "input_addresses_and_ranges": "validated",
+        "full_source_read_coverage": "preparation full reads or exact shared full-read receipts; writer repeat obligation remains",
+        "source_expansion": "blocked only at named external/telling gates, never resolved by weaker paraphrase",
+        "amplification": "unratified interpretation remains no; programme authorisation does not manufacture human encounter"
+      },
+      "primary_acquisition_receipt": "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+      "external_required_recovery": [
+        {
+          "url": "https://www.lieder.net/lieder/get_text.html?TextId=6356",
+          "role": "Complete German poem reading; source agent encountered five eight-line stanzas, printed witness uncollated."
+        },
+        {
+          "url": "https://www.poetryfoundation.org/poetrymagazine/issue/71009/august-1970",
+          "role": "Primary Nims publication metadata; scan403 means full English scan not inspected."
+        }
+      ],
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/poetry/goethe-permanence-change/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "dispatch_status": "authorised-bounded-T20-world-batches"
+    }
+  ],
+  "canonical_files_created": 0,
+  "validation": {
+    "targets": 21,
+    "census_ids_and_homes_match": true,
+    "all_source_ranges_valid": true,
+    "source_house_resolution": "tools/source_resolver.py build_source_index",
+    "writer_read_obligation": "Bindings/receipts do not substitute for full required writer reads",
+    "global_dispatch": "This file is not a reconciled queue; parent merges reviewed bindings after resolving target-specific gates."
+  }
+}

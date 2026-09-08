@@ -1,0 +1,168 @@
+{
+  "root": {
+    "id": "README",
+    "title": "Mytheme",
+    "path": "submission-package/essay/symbolon/mytheme/README.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Mytheme",
+      "Ratified architecture — 2026-09-08",
+      "Current whole-source exemplars",
+      "Whole first, amplification outward",
+      "Human amplification",
+      "Current medium homes — migrate under the ratified architecture",
+      "Record forms",
+      "Cross-register routes"
+    ],
+    "sha256": "c698badefcb8c6df2c176546b6b42ff54ab1a61e5e1ea4c10dbd979c72256413",
+    "claim_status": "Derived",
+    "register": "mytheme"
+  },
+  "edges": [
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "raw_target": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "raw_target": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "submission-package/essay/symbolon/mytheme/myth/attica-athena-poseidon-cecrops/WHOLE.md",
+      "raw_target": "myth/attica-athena-poseidon-cecrops/WHOLE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "submission-package/essay/symbolon/mytheme/myth/attica-athena-poseidon-cecrops/WHOLE.md",
+      "raw_target": "myth/hypostasis-archons-norea-sophia/WHOLE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "submission-package/essay/symbolon/mytheme/myth/attica-athena-poseidon-cecrops/WHOLE.md",
+      "raw_target": "narrative/jung-aion-fishes-christ-antichrist-alchemy/WHOLE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "submission-package/essay/symbolon/mytheme/myth/attica-athena-poseidon-cecrops/WHOLE.md",
+      "raw_target": "narrative/fanon-language-gaze-mask-recognition/WHOLE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "myth/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "narrative/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "poetry/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "media/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "art/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "music/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "plates/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "../matheme/README",
+      "relation": "opens-to",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "submission-package/essay/section-rooms/README.md",
+      "raw_target": "../episteme/README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "README.md",
+      "raw_target": "../README",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": "the-return-of-zero-central-plan.md",
+      "raw_target": "../../../../the-return-of-zero-central-plan.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/mytheme/README.md",
+      "target": ".wayfinder/maps/t20-t21-world-registers.md",
+      "raw_target": "../../../../.wayfinder/maps/t20-t21-world-registers.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    }
+  ]
+}

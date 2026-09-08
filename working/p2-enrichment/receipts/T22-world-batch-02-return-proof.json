@@ -1,0 +1,496 @@
+{
+  "method": "Real workspace graph plus separate parent whole semantic read; absent reverse edges explicitly remain pending",
+  "reciprocal_relations": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "f112bee401499d8b46dc767d990a2255939370698f26f446b0138a50c708e1dd"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "ae9bd8023ab8ac477dd485ceacdabff065890615270a02e24244344782f4fe4a"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "01ccb4f4847ceab0ea472b24d9a0129f5038f29b1e8694aa922ff08901fe997d"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "532c4b27a5b051c490f84e581266059c925105eb5cd31690791a9e5e265f1e7a",
+      "consumer_sha256": "c919827dd202bbc9a397250844658ef6b6bfe56fb87cf6f0c0d39f9cce9076d0"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "532c4b27a5b051c490f84e581266059c925105eb5cd31690791a9e5e265f1e7a",
+      "consumer_sha256": "718788ae38ebdb8a7ad87da6326c4a8002afcab763635e4d639293abfb6ea21d"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "532c4b27a5b051c490f84e581266059c925105eb5cd31690791a9e5e265f1e7a",
+      "consumer_sha256": "f9ec03d079aeed1f25d31ae9c3a4a87c61896660d3612c43f2fd00e43567b6e8"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "01ccb4f4847ceab0ea472b24d9a0129f5038f29b1e8694aa922ff08901fe997d"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "9a6488c74e51c913532d3db295849185c28e3105c910d8852f7d88b6016dfdb1"
+    }
+  ],
+  "remaining_reverse_returns": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "071bb9b17daaecd29d69b91b1ff26236baf5426ca71b0bdc1ef3aa950ec024a4"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "b4f3e060d7838c27be1ca66c651e5178695d79d46360d976dcbc2a9364c599d4"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "52b181242bf8ea20839ef8102f4b9d2f04b75e635e68b5c6bf16ab8f63bc2d48"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "319c378bd9133afd0e3fc61967ba1036916c4366e2ac3105717214fb84eab1c7"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "4375100b9a6dbae16f2650389c0f1ffe1b5377d9a73b64d3433c78b444b7c12b"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "49395998038356fe80fa15633d2608400c4a5c9c827028fd5ec8b15b3135abc4"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "ce95f291506b6fa608d398a2c4dc42ced9d6a5feb1d9b2ce188dc574a0441d0d"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "60fadc600ba9ddc9a8daa7830d9c8d186467ba2f877dd9716cbe2d2eafbbafb3"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "67a86b880bb9ee0b3acf974beee560f5ad9817902d9e99c30ff1b63f66b53654"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "270e1540cbcc089f2d208f8a38e81cdf0f7f30e76ca616c746864e6e8a7e0727"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "f9ec03d079aeed1f25d31ae9c3a4a87c61896660d3612c43f2fd00e43567b6e8"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "28d848078312f5e5372d5068163b45130e7f5f21e602bd3ed968a7c8bd6fbea7"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "4d4d613aab69ee39eae0708e7ea52e2aaeb8d0eae3cd0aec342375b4902ac41a"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "491ccbeb508301819730df126f9da184c1463271b032737180cee83f04d43769"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "812f396b26e20b5dfc6019f0a53205dd5b0ad9bea4ff599e27e80054957d220e"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "3dbd6f13842faf07112051aa4489ac0d9c63a6e6d479b11b2e32ffdf05f4ca06"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "2256439e8d9b20b72222c3e1ddae5f47d3469f2ee7fbb56c88a4c9c768a42928"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "4a466c5cdfc35600b44c403fd3815becc9380ef0b6726a2711313f0fe7f0b8a9"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "68fa93e2618112e0651c69b23d485ab817b1ada1276ada9ec75e22463b0ff950"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "df74b9f7bcdcdee7123067be678e325a76ecb8cf6a14d478056f4afae417c634"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "a2860df651645be601aeecd5525514b26ff7bbaa5e47309dc4cefdaf73f3e2f3"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "532c4b27a5b051c490f84e581266059c925105eb5cd31690791a9e5e265f1e7a",
+      "consumer_sha256": "716dfc7d3b00a0793d4af78ae9bc4a790c882d4992901783204f95f83e749e25"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "a2c9e8d6a523463bf75ca11ffb8460afab47da9f0e6cc2605691466e820bf66a"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "f1e2d897ba247667af29cd320e7773b5dd97362ee9c710579c1de92442834084"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "7dc548c19f4665e8ec2333912b68c8b8b174fff584a3066e427c2a2cc5aae289"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "8ae6e81dc6fd0a33b6bab25b74f4f720e531a697e02c7240af303f5a43dc7c43"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "06285e443f6227ec10f501fba50c00ca325813c3d15c95d5596a9e566fbce8e8"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "5803b2e53eec2b5954e94e204a6b52c54a2bbce4fb62f6535d76a6fe8e7b0337"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "553628b933fe1404cfba4b413be9f378099f69d8112197bbc6bd9ac454e44915"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "071bb9b17daaecd29d69b91b1ff26236baf5426ca71b0bdc1ef3aa950ec024a4"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "b8bf99945de680991c2f3c95a5fb2f353f07b3832e31c7e72d1ecbf2aab75069"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "b4f3e060d7838c27be1ca66c651e5178695d79d46360d976dcbc2a9364c599d4"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "b1be771563d077098f3305b8afddb936fdeee63eb65fdeec639ba46716c5cf87"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "a9b89f88f88c95583e724e0e2c4d5fd5816d28cd2ab57d9fc79c1bdf65880fc8"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "52b181242bf8ea20839ef8102f4b9d2f04b75e635e68b5c6bf16ab8f63bc2d48"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "ae9bd8023ab8ac477dd485ceacdabff065890615270a02e24244344782f4fe4a"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "319c378bd9133afd0e3fc61967ba1036916c4366e2ac3105717214fb84eab1c7"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "4375100b9a6dbae16f2650389c0f1ffe1b5377d9a73b64d3433c78b444b7c12b"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "49395998038356fe80fa15633d2608400c4a5c9c827028fd5ec8b15b3135abc4"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "7e3b051cda5a1170d5a666d8fe5857855b504b0cf3733d11e2f0dfed13b19836"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "ce95f291506b6fa608d398a2c4dc42ced9d6a5feb1d9b2ce188dc574a0441d0d"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "288fdea847c415bfe26cc96c727605c6f99a1e1399ade801653e5c4a596a6cf5"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "67a86b880bb9ee0b3acf974beee560f5ad9817902d9e99c30ff1b63f66b53654"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "28d848078312f5e5372d5068163b45130e7f5f21e602bd3ed968a7c8bd6fbea7"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "4d4d613aab69ee39eae0708e7ea52e2aaeb8d0eae3cd0aec342375b4902ac41a"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "812f396b26e20b5dfc6019f0a53205dd5b0ad9bea4ff599e27e80054957d220e"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "f6d4cbcf7d0b7a050ae70f5f4d177b8e7b545f78831953c262a60137be5f3142"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "2256439e8d9b20b72222c3e1ddae5f47d3469f2ee7fbb56c88a4c9c768a42928"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "4a466c5cdfc35600b44c403fd3815becc9380ef0b6726a2711313f0fe7f0b8a9"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "e01c35c7ca2d586935422d1856bbdc7730c7f2082021fb0186f8e3387fd96ed8"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "df74b9f7bcdcdee7123067be678e325a76ecb8cf6a14d478056f4afae417c634"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "f16b5379f11032c4ab561c418ead2619d7f43da4c3f4e89882ad3280e1c5e587"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "a2860df651645be601aeecd5525514b26ff7bbaa5e47309dc4cefdaf73f3e2f3"
+    }
+  ],
+  "complete": false
+}

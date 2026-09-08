@@ -1,0 +1,8 @@
+{
+  "status": "pass",
+  "workflow_returncode": 0,
+  "stdout": "wrote target packet: /var/folders/q0/g_91z7355tb58425qwg3xcy80000gn/T/tmp51i7xs9u/packet.json\nverified packet freshness: working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-stained-glass-refraction/packet.json\n",
+  "packet_sha256": "a5fb5713866fc75c5a029dc6af0547b44dda5629d3d9d42c0fd642bdc8839c9f",
+  "input_archives_match_every_bound_hash": true,
+  "read_status": "Completed source readings reusable; hash-only binding refresh, not repeated foundational review."
+}

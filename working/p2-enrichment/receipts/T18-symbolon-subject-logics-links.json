@@ -1,0 +1,111 @@
+{
+  "root": {
+    "id": "subject-logics",
+    "title": "Subject-Logics — The Ø Traversal",
+    "path": "submission-package/essay/symbolon/subject-logics.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Subject-Logics — The Ø Traversal",
+      "#0 — Presence before its self-description",
+      "#1 — The instrument taken as the I",
+      "#2 — The field cut into objects",
+      "#3 — The slash becomes visible",
+      "#4 — The relations become available together",
+      "#5→0 — The affirmed one retains its source"
+    ],
+    "sha256": "534c9016b83e9a1f8ce0c240fdda55feb53d96973f748142a607626654ca9ea1",
+    "claim_status": "Derived",
+    "register": "symbolon"
+  },
+  "edges": [
+    {
+      "source": "submission-package/essay/symbolon/subject-logics.md",
+      "target": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+      "raw_target": "episteme/concepts/C01-Subject-Defined-Indefinability.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/subject-logics.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "raw_target": "episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/subject-logics.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "raw_target": "episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/subject-logics.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "raw_target": "episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/subject-logics.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md",
+      "raw_target": "episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/subject-logics.md",
+      "target": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "raw_target": "episteme/concepts/C41-Objective-Internality.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/subject-logics.md",
+      "target": "submission-package/essay/section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md",
+      "raw_target": "../section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/subject-logics.md",
+      "target": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "raw_target": "episteme/conjugate/AC.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/subject-logics.md",
+      "target": "submission-package/essay/symbolon/1-0.md",
+      "raw_target": "1-0.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/subject-logics.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "raw_target": "taylor-2026-core-theorems-pithy",
+      "relation": "supported-by",
+      "origin": "source_ids",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/subject-logics.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md",
+      "raw_target": "descartes-1641-meditations",
+      "relation": "supported-by",
+      "origin": "source_ids",
+      "resolved": true
+    }
+  ]
+}

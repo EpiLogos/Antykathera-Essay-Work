@@ -1,0 +1,325 @@
+{
+  "method": "actual workspace graph plus independently read whole/consumer semantic operations",
+  "relations": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "operation": "The [complete stained-glass whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-projection) **figures** this dual reading through the room’s cast image and the situated viewer. The visible colour carries the construction through which it arrived; a changed encounter lets its source, placement and exclusions alter the next view. The image’s optical sequence gives contextual transparency a revisitable body.",
+      "whole_sha256": "f93496b2e626890f0fd9d84cf7a90156bc532a07d748d5da65841702a3cb509e",
+      "consumer_sha256": "d99bf5e830d5e0ec7c3bb8024a998baf33bbd1a9cf207b11ad33b324470b6d4d",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "raw_target": "../../../../episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "operation": "The [stained-glass whole’s source boundary](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-source-boundaries) **qualifies** the optical crossing through Dyczkowski’s lattice-window and mirror discussion. The authored sun outside the aperture cannot establish a metaphysical Original outside consciousness, and an inert display does not perform Vimarśa’s self-apprehension. The luminous/reflexive operation remains fully active while the particular optical simile retains its limits.",
+      "whole_sha256": "f93496b2e626890f0fd9d84cf7a90156bc532a07d748d5da65841702a3cb509e",
+      "consumer_sha256": "96f23cd5ebfaed839a3d7b1e18bcf7a690c527f09aa7c20d0cb45c40c42b8210",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "raw_target": "../../../../episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "operation": "The [stained-glass whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-atlas-complement) **figures** differential placement through transmission, obstruction, angle and a changing interior display. Its atlas complement retains chart domains and transitions as a distinct operation; its source distinction also keeps chart coordination separate from attractor dynamics. The whole returns the viewer and apparatus within the field they disclose.",
+      "whole_sha256": "f93496b2e626890f0fd9d84cf7a90156bc532a07d748d5da65841702a3cb509e",
+      "consumer_sha256": "3ea0f4275ce5243ec1a2ed47318d88a94a4efe287901739387598b777558ebf3",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "raw_target": "../../../../episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "operation": "The [stained-glass whole’s return](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-return) **figures** a changed reader returning through source, pane, seam and exclusion. The map can genuinely occupy Bimba as a local original within a declared Context Frame while remaining pratibimba relative to wider sources. That recursive office gives reference real authority and allows the returned encounter to revise the local reference itself.",
+      "whole_sha256": "f93496b2e626890f0fd9d84cf7a90156bc532a07d748d5da65841702a3cb509e",
+      "consumer_sha256": "250046dcf11f4eb4db93b0e7b3624e81f452fed89e4311744a74801440afc126",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+          "raw_target": "../../../../episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "operation": "The [complete window sequence](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-changing-context) **figures** the medium’s disclosed operation as sun, pane, room and viewer change together. The changed image makes the conditions of its predecessor readable; contextual transparency reaches the next judgement through that difference.",
+      "whole_sha256": "f93496b2e626890f0fd9d84cf7a90156bc532a07d748d5da65841702a3cb509e",
+      "consumer_sha256": "beea0182a987d6c754472867fcbe378d7169a7d47564775cd36ac25dcc8dd64b",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+          "raw_target": "../../../../episteme/concepts/C09-Diaphaneity.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "operation": "The [whole’s atlas complement](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-atlas-complement) **figures** the source, passage and obstruction which a fixed picture can conceal. Its optical event remains distinct from a chart transition, while both retain the conditions under which different disclosures can be brought into relation. The viewer returns able to revise the aperture rather than merely collect another picture.",
+      "whole_sha256": "f93496b2e626890f0fd9d84cf7a90156bc532a07d748d5da65841702a3cb509e",
+      "consumer_sha256": "9661722d4764c4e1978d030f1ae0884e281d3d5b07caea7eaa4a6c71732bf15a",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+          "raw_target": "../../../../episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "operation": "The [whole stained-glass apparatus](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-panes-seams) **figures** the selected media, angles, densities and joins through which a source becomes discloseable. Its cames preserve provenance and changes of warrant. The complete optical return gives MEF an exact question: what can a changed source or encountered difference alter in the next refraction?",
+      "whole_sha256": "f93496b2e626890f0fd9d84cf7a90156bc532a07d748d5da65841702a3cb509e",
+      "consumer_sha256": "03c1caac9bdf44ea1553b43a98323333173ee725159e11babe5f27e500aef479",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+          "raw_target": "../../../../episteme/concepts/C39-Meta-Epistemic-Framework.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "operation": "The [stained-glass whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-return) **figures** this recursive office explicitly: an achieved reference can be Bimba for its local readings and pratibimba within a wider relation. Recognition can revise the local original itself while preserving enough stability for comparison and error to have a definite address.",
+      "whole_sha256": "f93496b2e626890f0fd9d84cf7a90156bc532a07d748d5da65841702a3cb509e",
+      "consumer_sha256": "8edb7673e39ad3366806ddc10e0892526c9e1e928ef87bf95bb687d49b12c153",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+          "raw_target": "../../../../episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "operation": "The [complete stained-glass whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-projection) **figures** this contextual turn through light, pane, seam, projected image and situated viewer. Its source distinctions remain visible in the resulting display; recognition returns through the apparatus rather than completing an exhaustive picture. The whole carries the optical development behind this local Movement.",
+      "whole_sha256": "f93496b2e626890f0fd9d84cf7a90156bc532a07d748d5da65841702a3cb509e",
+      "consumer_sha256": "d40cccd17d7da57fca6e688cf8ff9bd1b552183f2599d5df937a4054ae3bf7b8",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "target": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+          "raw_target": "../../../../../section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "operation": "The [complete stained-glass whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-atlas-complement) **figures** the atlas’s optical complement: light enters through a made aperture whose panes, seams and position remain answerable within the display. Transmission and chart transition retain their different operations. The Bimba Map’s recursive local original office remains available within this wider source-dependent relation.",
+      "whole_sha256": "f93496b2e626890f0fd9d84cf7a90156bc532a07d748d5da65841702a3cb509e",
+      "consumer_sha256": "57502a6dd5884501fb24b9a440cefbeaf7c9b71f35260b004f9fabff7187d8d1",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "target": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+          "raw_target": "../../../../../section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "operation": "The [complete stained-glass whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-panes-seams) **figures** the source-specific refractions carried here: QL belongs to the light’s harmonic order; MEF supplies the media, angles and joins; a situated display returns through their conditions. A changed source can therefore reach the lens, gauge or exclusion which made the prior account possible.",
+      "whole_sha256": "f93496b2e626890f0fd9d84cf7a90156bc532a07d748d5da65841702a3cb509e",
+      "consumer_sha256": "dfd9e1a94413220842140b2228f1024388f56232cd024984730f0cf18c8d984e",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "target": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md",
+          "raw_target": "../../../../../section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "complete_for_declared_canonical_A_C_M_consumers": true
+}

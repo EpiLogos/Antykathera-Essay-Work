@@ -1,0 +1,71 @@
+{
+  "submission-package/essay/symbolon/episteme/sources/history-philosophy-science/owen/owen-1843-comparative-anatomy": {
+    "root": {
+      "id": "owen-1843-comparative-anatomy",
+      "title": "Owen — Lectures on Comparative Anatomy (1843)",
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-science/owen/owen-1843-comparative-anatomy/SOURCE.md",
+      "artifact_type": "source-house",
+      "authority": "source-authority",
+      "headings": [
+        "Lectures on Comparative Anatomy, delivered at the Royal College of Surgeons in 1843",
+        "Selected passages",
+        "q001 — Analogue",
+        "q002 — Homologue"
+      ],
+      "sha256": "caffcb6d5d8d5520f6723d606085a9543f2db58abc908f146f8553d2684a2641",
+      "citation_status": "citation-ready-for-selected-witness-and-locator",
+      "quote_status": "paraphrase-ready; image-transcription-not-collated"
+    },
+    "method": "declared canonical graph and transverse-thread metadata only",
+    "depth": 4,
+    "consumers": {
+      "sections": [],
+      "arguments": [],
+      "concepts": [],
+      "paths": []
+    },
+    "downstream": {
+      "paths": [],
+      "edges": []
+    },
+    "transverse_threads": [],
+    "registers": {
+      "root": "undeclared",
+      "carriers": []
+    }
+  },
+  "submission-package/essay/symbolon/episteme/sources/religion-theology/pauline-corpus/ephesians-sbl-reverse-interlinear": {
+    "root": {
+      "id": "ephesians-sbl-reverse-interlinear",
+      "title": "Ephesians — SBL-hosted reverse-interlinear witness",
+      "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/pauline-corpus/ephesians-sbl-reverse-interlinear/SOURCE.md",
+      "artifact_type": "source-house",
+      "authority": "source-authority",
+      "headings": [
+        "The Letter of Paul to the Ephesians",
+        "Selected passages",
+        "q001 — Administration in the fullness of times"
+      ],
+      "sha256": "15f76dec37ba7b18b48d6400d4be8842a31ce058f6bcdcd880e97b4ed3e0446a",
+      "citation_status": "citation-ready-for-selected-witness-and-locator",
+      "quote_status": "paraphrase-ready; image-transcription-not-collated"
+    },
+    "method": "declared canonical graph and transverse-thread metadata only",
+    "depth": 4,
+    "consumers": {
+      "sections": [],
+      "arguments": [],
+      "concepts": [],
+      "paths": []
+    },
+    "downstream": {
+      "paths": [],
+      "edges": []
+    },
+    "transverse_threads": [],
+    "registers": {
+      "root": "undeclared",
+      "carriers": []
+    }
+  }
+}

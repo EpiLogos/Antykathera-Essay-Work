@@ -1,0 +1,36 @@
+[
+  {
+    "record_id": "mytheme-stained-glass-refraction",
+    "status": "validated",
+    "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-stained-glass-refraction/packet.json",
+    "stderr": ""
+  },
+  {
+    "record_id": "mytheme-meal-epistemic-metabolism",
+    "status": "validated",
+    "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-meal-epistemic-metabolism/packet.json",
+    "stderr": ""
+  },
+  {
+    "record_id": "mytheme-goethe-permanence-change",
+    "status": "validated",
+    "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-goethe-permanence-change/packet.json",
+    "stderr": ""
+  },
+  {
+    "record_id": "mytheme-the-prisoner",
+    "status": "validated",
+    "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-the-prisoner/packet.json",
+    "stderr": ""
+  },
+  {
+    "record_id": "mytheme-valentinian-sophia-horos-achamoth",
+    "status": "gated-admission-snapshot",
+    "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-valentinian-sophia-horos-achamoth"
+  },
+  {
+    "record_id": "mytheme-pauli-egg-dream",
+    "status": "gated-admission-snapshot",
+    "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-pauli-egg-dream"
+  }
+]

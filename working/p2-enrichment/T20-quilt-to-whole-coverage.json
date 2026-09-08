@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "status": "25 canonical wholes developed; all127unitdispositions integrated; finalR01consumerinspection in progress",
+  "status": "T20 accepted at admitted scope:25wholeMythemes127unitdispositions; source/researchstandingretained",
   "coverage_complete": true,
   "canonical_write_authorised": false,
   "scope": "Full corrected T20 programme; inherited 21 is not a ceiling.",
@@ -8016,7 +8016,7 @@
         }
       ],
       "disposition": "candidate-whole-with-explicit-gate",
-      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/contemporary-philosophy/prometheus-atlas-technoscience/WHOLE.md",
+      "canonical_home": null,
       "returns": [
         {
           "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
@@ -8071,7 +8071,9 @@
         },
         "initial_source_debt_is_historical": true
       },
-      "canonical_file_present": false
+      "canonical_file_present": null,
+      "proposed_canonical_home": "submission-package/essay/symbolon/mytheme/worlds/contemporary-philosophy/prometheus-atlas-technoscience/WHOLE.md",
+      "home_standing": "Unratified candidate destination retained as proposal; no canonical home asserted"
     },
     {
       "row_id": "T20-mytheme-venus-naming-lucifer-christ",
@@ -17566,8 +17568,8 @@
       "source_debt_status": "Named source/edition/empirical debts in the quoted statement remain separate; no restoration inferred from their existence."
     }
   ],
-  "canonical_development_complete": false,
-  "completion_definition": "Complete census/disposition of materially recovered units across all six quilt programmes and map-owning T20 ledgers. Does not claim all underlying scholarly works acquired, all public tellings verified, all proposed relations written, or parent migration accepted.",
+  "canonical_development_complete": true,
+  "completion_definition": "All25admittedwholeMythemesdeveloped,127quiltunitsaccountedwithheld/research/other-registerdispositions,23poemsintact,appointedconsumeroperationsrestored; doesnotcloseindependenthistoricalacquisitionorT21/T23/T24.",
   "parent_coordination": {
     "inherited_21_homes": "Accepted by parent; 2 ground plus 19 world homes.",
     "ground_status": "Parent reports ground drafts and34 A/C/E reciprocal additions installed; exact anchors bound here.",
@@ -20957,9 +20959,7 @@
   },
   "current_named_residuals": {
     "whole": [],
-    "consumer": [
-      "R01"
-    ],
+    "consumer": [],
     "resolved_navigation": [
       "L01",
       "N01"
@@ -20971,6 +20971,10 @@
       "D03",
       "S02"
     ],
-    "whole_correction_receipt": "receipts/T20-audit-fixes-completion-2026-09-08.md"
+    "whole_correction_receipt": "receipts/T20-audit-fixes-completion-2026-09-08.md",
+    "resolved_consumer": [
+      "R01"
+    ],
+    "consumer_receipt": "receipts/T22-R01-consumer-closure.md"
   }
 }

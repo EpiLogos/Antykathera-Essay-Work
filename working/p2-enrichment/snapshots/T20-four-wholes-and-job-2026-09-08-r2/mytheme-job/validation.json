@@ -1,0 +1,8 @@
+{
+  "status": "pass",
+  "workflow_returncode": 0,
+  "stdout": "wrote target packet: /var/folders/q0/g_91z7355tb58425qwg3xcy80000gn/T/tmpwxxea6aa/packet.json\nverified packet freshness: working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-job/packet.json\n",
+  "packet_sha256": "c82625a425022923f3c59c5d5288c4afd26a5a409d5a9b505ce74e521c84b620",
+  "input_archives_match_every_bound_hash": true,
+  "refresh": "Job SOURCE metadata hash and complete-source end_line updated after parent main_source_for repair."
+}

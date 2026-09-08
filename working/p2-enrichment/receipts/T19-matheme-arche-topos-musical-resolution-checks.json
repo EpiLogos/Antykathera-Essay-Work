@@ -1,0 +1,84 @@
+{
+  "page": "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+  "sha256": "7fed0b46d19a2babd0bce566f3042094af91b7eb18be653fb59e73d2581039fc",
+  "checks": {
+    "six_sections": true,
+    "printed_pitch_maps": true,
+    "printed_D2_arrays": true,
+    "mirror_involution": true,
+    "ratio_path": true,
+    "totality_then_return": true,
+    "equal_remainders": true,
+    "comma": true,
+    "major_selection": true,
+    "inner_outer": true,
+    "dorian": true,
+    "distinct_indexed_modal_field": true,
+    "parallel_minor_moves": true,
+    "full_chain": true,
+    "relative_links": true
+  },
+  "links": [
+    {
+      "destination": "../../episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "exists": true
+    },
+    {
+      "destination": "../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "exists": true
+    },
+    {
+      "destination": "../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+      "exists": true
+    },
+    {
+      "destination": "../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "exists": true
+    },
+    {
+      "destination": "../music/foundational-ratios.md",
+      "exists": true
+    },
+    {
+      "destination": "../music/chromatic-substrates.md",
+      "exists": true
+    },
+    {
+      "destination": "../music/pairing-grammar.md",
+      "exists": true
+    },
+    {
+      "destination": "../music/diatonic-cf-grammar.md",
+      "exists": true
+    },
+    {
+      "destination": "../music/field.md",
+      "exists": true
+    },
+    {
+      "destination": "../../episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md",
+      "exists": true
+    },
+    {
+      "destination": "../../episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "exists": true
+    },
+    {
+      "destination": "../music/observer-instrument.md",
+      "exists": true
+    },
+    {
+      "destination": "../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "exists": true
+    },
+    {
+      "destination": "../../episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "exists": true
+    },
+    {
+      "destination": "../../episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "exists": true
+    }
+  ],
+  "standing": "Exact candidate mathematical constructions; no audio capture or deployed runtime observation"
+}

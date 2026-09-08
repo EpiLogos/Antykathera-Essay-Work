@@ -1,0 +1,1994 @@
+{
+  "scope": "51 landed returns; 2 E2 exact proposals withheld until parent landing. No global T20 completion.",
+  "method": "current actual Workspace.links resolved edges in both directions; no string-presence substitution for graph proof",
+  "original_proof_sha256": "5847ca5c4bb47396c1d837ed01d6ba57fbb10c9dac23456d3318fce3da5ea717",
+  "relations": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "anchor": "job-native-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "4f785ce44c6e5021641728c51d5c007b02e7bac06de23a986e7a241a1677189e",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "anchor": "job-native-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "4ea7099eaa2d0f73ea9bfb76d9796b9484c3dca326dba0f67cabc1ae055d86be",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "anchor": "job-protected-account-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "9a0dd0510f0bac9b876e5a03a29a85e604f08e63d58c438d8c0fbe4816a7053c",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "anchor": "job-measure-trust-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "c8926fc2a9f1064fee4e7292fc0b5c7442721c500b0d69e3bfa6a07ec58a6d76",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "anchor": "job-measure-trust-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "cb370e0ab05445a87f80bad1ba05bd3a6a442cfed60aaedf9853d74c446617cb",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "anchor": "job-measure-trust-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "be90c7e86e251b30db3fecca4e38858a1f5617ec2f063b4f0aa88d0d6fb0e057",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "anchor": "job-consequence-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "10b2887f020027a8a97b8f6188ee811cfdd45f9550540a240263de03d4c35d2e",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "anchor": "job-consequence-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "fcf48a6a3844e1282a80e2dcad729d6904e877fe580d9c021a102754f60e8dde",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "anchor": "job-consequence-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "a1db88705001b8bca986784f3c984189a31f8ffe766f5d9bd72f078b595e724b",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "anchor": "job-consequence-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "17f1b0fae5566e57440648e67d1a0cd2306400fd69a2bfef7905d2cdcac82ceb",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "anchor": "job-native-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "74f832be9c2f28b3c0193b276b33cef3a9d9841508117edb59c50cb8bde59b4b",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "anchor": "job-protected-account-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "b075cb9b42b60e749c274d3ae6e23b3004eb940e72dfea34962cd2ee8eeaa08f",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "anchor": "job-protected-account-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "a637597bb083c0065b1521cd7df9dc37857f684affefc1ae27a837e88f9b5150",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+      "anchor": "job-protected-account-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "cb99486ecf32881facd732e5349f35cc03b2a64d1f6740fca77ea7d5964d349d",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "anchor": "job-protected-account-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "34fc6086d912dca4665d08e85f5a70034d06e7536fc3f5bebaeaa23532488b75",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "anchor": "job-protected-account-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "dc5c1cf5fd1c30630acbfc8430be8e51bdefeea7da43b357b7c4b3e4c514c3d1",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "anchor": "job-measure-trust-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "7be0034270b7d2dc8100ae8f22328fdab826938827670972ff576854aadf0a6c",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "anchor": "job-consequence-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "908257d25e7b0229ffaeecf83e907ceb7a326dca9fa76aa11130ab828111fdde",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "anchor": "job-consequence-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "833b922bad29e197cab35fd75a74e6bacc20b3cb3524046aa9875be569903c7c",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "anchor": "job-measure-trust-return",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "df74b9f7bcdcdee7123067be678e325a76ecb8cf6a14d478056f4afae417c634",
+      "status": "parent-E2-landing-pending",
+      "anchor_verified": true,
+      "paragraph_present": null
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "anchor": "job-measure-trust-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "consumer_sha256": "ff478bfe0df605e2f0797f433dbe7565ef3fd94603db90921f5bf7ae6246f7a0",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "anchor": "goethe-two-ones-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "532c4b27a5b051c490f84e581266059c925105eb5cd31690791a9e5e265f1e7a",
+      "consumer_sha256": "8013c8e021f013c53e95b8c23cd21549bc989bfe0737c2b86fd2ad8658d2cf63",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+      "anchor": "prisoner-asymmetric-count",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "8f8ef1039afd1b857063f40ff2304f771537d6228074ca40353e207d2b9bec6a",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "anchor": "prisoner-administered-world",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "b34e01f0e25a1f08ee0b192c54f65ab1d472f329d95fe021e4954fb9237f3cdd",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+      "anchor": "prisoner-asymmetric-count",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "49acd0d1bd950ac19e548ed4ca0a073729bf533b3240b0f578aefd1dc84c1372",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+      "anchor": "prisoner-asymmetric-count",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "cb854baf2d4bc607dda623e61aa30e6a981dbc2b28d94c8bb45feae9b334957b",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+      "anchor": "prisoner-account-answerability",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "5f81082c3dece0d7b3a0405450cb2c22960400df647911bc804ce6137f133140",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "anchor": "prisoner-administered-world",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "57133c9d0f468625978d367a73a9f5b454aeb3db0e0ce63df8e04e46ba9626b5",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "anchor": "prisoner-return-without-throne",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "654588ae1568bf874096eeaf52b089cfb7e31d49d220518ad7f78279ae09d85f",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "anchor": "prisoner-asymmetric-count",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "4f785ce44c6e5021641728c51d5c007b02e7bac06de23a986e7a241a1677189e",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "anchor": "prisoner-asymmetric-count",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "28850b09ec98706395603cb8452b67aa1722959879a8a9ab809931015b80bf06",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "anchor": "prisoner-asymmetric-count",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "4ea7099eaa2d0f73ea9bfb76d9796b9484c3dca326dba0f67cabc1ae055d86be",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "anchor": "prisoner-asymmetric-count",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "ccadaf9e4feaeef2316168a8842e215963b06e48ae1cf654a91eb0f2f9f19bd4",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "anchor": "prisoner-asymmetric-count",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "f05098fe3dabfdddb03873639a3238a04671a4e07cd8a6b438cff8518f9a8219",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "anchor": "prisoner-account-answerability",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "9a0dd0510f0bac9b876e5a03a29a85e604f08e63d58c438d8c0fbe4816a7053c",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "anchor": "prisoner-degree-absolute-return",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "269bc0ccc6e2a71ad01b1a17f57853f5ab63b72d5165dfc4bff99ab437cdd55f",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "anchor": "prisoner-account-answerability",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "c8926fc2a9f1064fee4e7292fc0b5c7442721c500b0d69e3bfa6a07ec58a6d76",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "anchor": "prisoner-administered-world",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "cb370e0ab05445a87f80bad1ba05bd3a6a442cfed60aaedf9853d74c446617cb",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "anchor": "prisoner-return-without-throne",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "be90c7e86e251b30db3fecca4e38858a1f5617ec2f063b4f0aa88d0d6fb0e057",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "anchor": "prisoner-administered-world",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "d2815947257fcccbfe6a8dd5e67724458c233fbe96ef5c0c364dbfc9edade9bc",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "anchor": "prisoner-administered-world",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "10b2887f020027a8a97b8f6188ee811cfdd45f9550540a240263de03d4c35d2e",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "anchor": "prisoner-return-without-throne",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "9cdbf4a808f6d9267b03260cd4c4a46ccb0cf9c3c8ca3a4e460b476d0b31d1ac",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "anchor": "prisoner-account-answerability",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "a1db88705001b8bca986784f3c984189a31f8ffe766f5d9bd72f078b595e724b",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "anchor": "prisoner-account-answerability",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "b075cb9b42b60e749c274d3ae6e23b3004eb940e72dfea34962cd2ee8eeaa08f",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "anchor": "prisoner-administered-world",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "a637597bb083c0065b1521cd7df9dc37857f684affefc1ae27a837e88f9b5150",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "anchor": "prisoner-account-answerability",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "34fc6086d912dca4665d08e85f5a70034d06e7536fc3f5bebaeaa23532488b75",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "anchor": "prisoner-return-without-throne",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "6d9147f76e27cb72146c8e2cfa271bd3dc37790512d43d05891d248123e158f5",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "anchor": "prisoner-account-answerability",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "7be0034270b7d2dc8100ae8f22328fdab826938827670972ff576854aadf0a6c",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "anchor": "prisoner-administered-world",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "908257d25e7b0229ffaeecf83e907ceb7a326dca9fa76aa11130ab828111fdde",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+      "anchor": "prisoner-administered-world",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "51191148b09c30ed02dd4a7db7271330101289495ddeda1024275696e4d83173",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "anchor": "prisoner-account-answerability",
+      "forward_written": true,
+      "reverse_written": false,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "df74b9f7bcdcdee7123067be678e325a76ecb8cf6a14d478056f4afae417c634",
+      "status": "parent-E2-landing-pending",
+      "anchor_verified": true,
+      "paragraph_present": null
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "anchor": "prisoner-account-answerability",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "279a04a2c2e03b845a0e2eda9fd0a0add5040cc1b841a0fb1f73fbef229d1d34",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "anchor": "prisoner-account-answerability",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "ff478bfe0df605e2f0797f433dbe7565ef3fd94603db90921f5bf7ae6246f7a0",
+      "status": "complete",
+      "anchor_verified": true,
+      "paragraph_present": true
+    }
+  ],
+  "previous_complete_relations": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "f112bee401499d8b46dc767d990a2255939370698f26f446b0138a50c708e1dd",
+      "forward_current": true,
+      "reverse_current": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "ae9bd8023ab8ac477dd485ceacdabff065890615270a02e24244344782f4fe4a",
+      "forward_current": true,
+      "reverse_current": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "consumer_sha256": "01ccb4f4847ceab0ea472b24d9a0129f5038f29b1e8694aa922ff08901fe997d",
+      "forward_current": true,
+      "reverse_current": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "532c4b27a5b051c490f84e581266059c925105eb5cd31690791a9e5e265f1e7a",
+      "consumer_sha256": "c919827dd202bbc9a397250844658ef6b6bfe56fb87cf6f0c0d39f9cce9076d0",
+      "forward_current": true,
+      "reverse_current": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "532c4b27a5b051c490f84e581266059c925105eb5cd31690791a9e5e265f1e7a",
+      "consumer_sha256": "718788ae38ebdb8a7ad87da6326c4a8002afcab763635e4d639293abfb6ea21d",
+      "forward_current": true,
+      "reverse_current": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "532c4b27a5b051c490f84e581266059c925105eb5cd31690791a9e5e265f1e7a",
+      "consumer_sha256": "f9ec03d079aeed1f25d31ae9c3a4a87c61896660d3612c43f2fd00e43567b6e8",
+      "forward_current": true,
+      "reverse_current": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "01ccb4f4847ceab0ea472b24d9a0129f5038f29b1e8694aa922ff08901fe997d",
+      "forward_current": true,
+      "reverse_current": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "consumer_sha256": "9a6488c74e51c913532d3db295849185c28e3105c910d8852f7d88b6016dfdb1",
+      "forward_current": true,
+      "reverse_current": true
+    }
+  ],
+  "consumer_preservation": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "28d848078312f5e5372d5068163b45130e7f5f21e602bd3ed968a7c8bd6fbea7",
+      "after_sha256": "b075cb9b42b60e749c274d3ae6e23b3004eb940e72dfea34962cd2ee8eeaa08f",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "4d4d613aab69ee39eae0708e7ea52e2aaeb8d0eae3cd0aec342375b4902ac41a",
+      "after_sha256": "a637597bb083c0065b1521cd7df9dc37857f684affefc1ae27a837e88f9b5150",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "491ccbeb508301819730df126f9da184c1463271b032737180cee83f04d43769",
+      "after_sha256": "cb99486ecf32881facd732e5349f35cc03b2a64d1f6740fca77ea7d5964d349d",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "812f396b26e20b5dfc6019f0a53205dd5b0ad9bea4ff599e27e80054957d220e",
+      "after_sha256": "34fc6086d912dca4665d08e85f5a70034d06e7536fc3f5bebaeaa23532488b75",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "3dbd6f13842faf07112051aa4489ac0d9c63a6e6d479b11b2e32ffdf05f4ca06",
+      "after_sha256": "dc5c1cf5fd1c30630acbfc8430be8e51bdefeea7da43b357b7c4b3e4c514c3d1",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "f6d4cbcf7d0b7a050ae70f5f4d177b8e7b545f78831953c262a60137be5f3142",
+      "after_sha256": "6d9147f76e27cb72146c8e2cfa271bd3dc37790512d43d05891d248123e158f5",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "2256439e8d9b20b72222c3e1ddae5f47d3469f2ee7fbb56c88a4c9c768a42928",
+      "after_sha256": "7be0034270b7d2dc8100ae8f22328fdab826938827670972ff576854aadf0a6c",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "4a466c5cdfc35600b44c403fd3815becc9380ef0b6726a2711313f0fe7f0b8a9",
+      "after_sha256": "908257d25e7b0229ffaeecf83e907ceb7a326dca9fa76aa11130ab828111fdde",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "68fa93e2618112e0651c69b23d485ab817b1ada1276ada9ec75e22463b0ff950",
+      "after_sha256": "833b922bad29e197cab35fd75a74e6bacc20b3cb3524046aa9875be569903c7c",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "e01c35c7ca2d586935422d1856bbdc7730c7f2082021fb0186f8e3387fd96ed8",
+      "after_sha256": "51191148b09c30ed02dd4a7db7271330101289495ddeda1024275696e4d83173",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "071bb9b17daaecd29d69b91b1ff26236baf5426ca71b0bdc1ef3aa950ec024a4",
+      "after_sha256": "4f785ce44c6e5021641728c51d5c007b02e7bac06de23a986e7a241a1677189e",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "b8bf99945de680991c2f3c95a5fb2f353f07b3832e31c7e72d1ecbf2aab75069",
+      "after_sha256": "28850b09ec98706395603cb8452b67aa1722959879a8a9ab809931015b80bf06",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "b4f3e060d7838c27be1ca66c651e5178695d79d46360d976dcbc2a9364c599d4",
+      "after_sha256": "4ea7099eaa2d0f73ea9bfb76d9796b9484c3dca326dba0f67cabc1ae055d86be",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "b1be771563d077098f3305b8afddb936fdeee63eb65fdeec639ba46716c5cf87",
+      "after_sha256": "ccadaf9e4feaeef2316168a8842e215963b06e48ae1cf654a91eb0f2f9f19bd4",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "a9b89f88f88c95583e724e0e2c4d5fd5816d28cd2ab57d9fc79c1bdf65880fc8",
+      "after_sha256": "f05098fe3dabfdddb03873639a3238a04671a4e07cd8a6b438cff8518f9a8219",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "52b181242bf8ea20839ef8102f4b9d2f04b75e635e68b5c6bf16ab8f63bc2d48",
+      "after_sha256": "9a0dd0510f0bac9b876e5a03a29a85e604f08e63d58c438d8c0fbe4816a7053c",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "ae9bd8023ab8ac477dd485ceacdabff065890615270a02e24244344782f4fe4a",
+      "after_sha256": "269bc0ccc6e2a71ad01b1a17f57853f5ab63b72d5165dfc4bff99ab437cdd55f",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "319c378bd9133afd0e3fc61967ba1036916c4366e2ac3105717214fb84eab1c7",
+      "after_sha256": "c8926fc2a9f1064fee4e7292fc0b5c7442721c500b0d69e3bfa6a07ec58a6d76",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "f16b5379f11032c4ab561c418ead2619d7f43da4c3f4e89882ad3280e1c5e587",
+      "after_sha256": "279a04a2c2e03b845a0e2eda9fd0a0add5040cc1b841a0fb1f73fbef229d1d34",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "716dfc7d3b00a0793d4af78ae9bc4a790c882d4992901783204f95f83e749e25",
+      "after_sha256": "8013c8e021f013c53e95b8c23cd21549bc989bfe0737c2b86fd2ad8658d2cf63",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "a2860df651645be601aeecd5525514b26ff7bbaa5e47309dc4cefdaf73f3e2f3",
+      "after_sha256": "ff478bfe0df605e2f0797f433dbe7565ef3fd94603db90921f5bf7ae6246f7a0",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "4375100b9a6dbae16f2650389c0f1ffe1b5377d9a73b64d3433c78b444b7c12b",
+      "after_sha256": "cb370e0ab05445a87f80bad1ba05bd3a6a442cfed60aaedf9853d74c446617cb",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "49395998038356fe80fa15633d2608400c4a5c9c827028fd5ec8b15b3135abc4",
+      "after_sha256": "be90c7e86e251b30db3fecca4e38858a1f5617ec2f063b4f0aa88d0d6fb0e057",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "7e3b051cda5a1170d5a666d8fe5857855b504b0cf3733d11e2f0dfed13b19836",
+      "after_sha256": "d2815947257fcccbfe6a8dd5e67724458c233fbe96ef5c0c364dbfc9edade9bc",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "ce95f291506b6fa608d398a2c4dc42ced9d6a5feb1d9b2ce188dc574a0441d0d",
+      "after_sha256": "10b2887f020027a8a97b8f6188ee811cfdd45f9550540a240263de03d4c35d2e",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "288fdea847c415bfe26cc96c727605c6f99a1e1399ade801653e5c4a596a6cf5",
+      "after_sha256": "9cdbf4a808f6d9267b03260cd4c4a46ccb0cf9c3c8ca3a4e460b476d0b31d1ac",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "60fadc600ba9ddc9a8daa7830d9c8d186467ba2f877dd9716cbe2d2eafbbafb3",
+      "after_sha256": "fcf48a6a3844e1282a80e2dcad729d6904e877fe580d9c021a102754f60e8dde",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "67a86b880bb9ee0b3acf974beee560f5ad9817902d9e99c30ff1b63f66b53654",
+      "after_sha256": "a1db88705001b8bca986784f3c984189a31f8ffe766f5d9bd72f078b595e724b",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "270e1540cbcc089f2d208f8a38e81cdf0f7f30e76ca616c746864e6e8a7e0727",
+      "after_sha256": "17f1b0fae5566e57440648e67d1a0cd2306400fd69a2bfef7905d2cdcac82ceb",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "f9ec03d079aeed1f25d31ae9c3a4a87c61896660d3612c43f2fd00e43567b6e8",
+      "after_sha256": "74f832be9c2f28b3c0193b276b33cef3a9d9841508117edb59c50cb8bde59b4b",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "a2c9e8d6a523463bf75ca11ffb8460afab47da9f0e6cc2605691466e820bf66a",
+      "after_sha256": "8f8ef1039afd1b857063f40ff2304f771537d6228074ca40353e207d2b9bec6a",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "f1e2d897ba247667af29cd320e7773b5dd97362ee9c710579c1de92442834084",
+      "after_sha256": "b34e01f0e25a1f08ee0b192c54f65ab1d472f329d95fe021e4954fb9237f3cdd",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "7dc548c19f4665e8ec2333912b68c8b8b174fff584a3066e427c2a2cc5aae289",
+      "after_sha256": "49acd0d1bd950ac19e548ed4ca0a073729bf533b3240b0f578aefd1dc84c1372",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "8ae6e81dc6fd0a33b6bab25b74f4f720e531a697e02c7240af303f5a43dc7c43",
+      "after_sha256": "cb854baf2d4bc607dda623e61aa30e6a981dbc2b28d94c8bb45feae9b334957b",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "06285e443f6227ec10f501fba50c00ca325813c3d15c95d5596a9e566fbce8e8",
+      "after_sha256": "5f81082c3dece0d7b3a0405450cb2c22960400df647911bc804ce6137f133140",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "5803b2e53eec2b5954e94e204a6b52c54a2bbce4fb62f6535d76a6fe8e7b0337",
+      "after_sha256": "57133c9d0f468625978d367a73a9f5b454aeb3db0e0ce63df8e04e46ba9626b5",
+      "unresolved": []
+    },
+    {
+      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "original_text_preserved": true,
+      "original_edges_preserved": true,
+      "before_sha256": "553628b933fe1404cfba4b413be9f378099f69d8112197bbc6bd9ac454e44915",
+      "after_sha256": "654588ae1568bf874096eeaf52b089cfb7e31d49d220518ad7f78279ae09d85f",
+      "unresolved": []
+    }
+  ],
+  "baseline150": [
+    {
+      "path": "submission-package/essay/symbolon/matheme/README.md",
+      "before": "115fa742d9d40ae3c283214b6f43bb679f7489a7baab862a1e99051f9ed69ec4",
+      "after": "115fa742d9d40ae3c283214b6f43bb679f7489a7baab862a1e99051f9ed69ec4",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "before": "ea28a7c43e03de0b203449424fe5bb5e0e13625e0ce78ae9c6e66889945265a5",
+      "after": "ea28a7c43e03de0b203449424fe5bb5e0e13625e0ce78ae9c6e66889945265a5",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/chromatic-substrates.md",
+      "before": "5b806d933667580e5b7e20d723e55dbc221778d62c438611f8e366d58d49b7bb",
+      "after": "5b806d933667580e5b7e20d723e55dbc221778d62c438611f8e366d58d49b7bb",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "before": "eec1824c84b514d5faf6ca89450e0e3dde1f66208cae2778f6fdd8359ef70b34",
+      "after": "eec1824c84b514d5faf6ca89450e0e3dde1f66208cae2778f6fdd8359ef70b34",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/README.md",
+      "before": "9d9e55b3faed5e79f4d0fd27f228aa3f4ad107b13601852f9d37251f9a28753a",
+      "after": "9d9e55b3faed5e79f4d0fd27f228aa3f4ad107b13601852f9d37251f9a28753a",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/diatonic-cf-grammar.md",
+      "before": "dc4cfcc00222fd2f713a72787d0f7dc3c20df7c56978237b28827a75a117a403",
+      "after": "dc4cfcc00222fd2f713a72787d0f7dc3c20df7c56978237b28827a75a117a403",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/field.md",
+      "before": "faa8129880a381cb7b100989b32493d195c267e7c5d58326231909a3c428b681",
+      "after": "faa8129880a381cb7b100989b32493d195c267e7c5d58326231909a3c428b681",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "before": "12b4803781a948394fd862aebad2fed68a9a4ebae89996f16ae5ece79a112b41",
+      "after": "12b4803781a948394fd862aebad2fed68a9a4ebae89996f16ae5ece79a112b41",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/lens-anchors.md",
+      "before": "166c29139adc1098e6a1677635f8a0d181cfb4b3c259de9d27e3c776b8d6c897",
+      "after": "166c29139adc1098e6a1677635f8a0d181cfb4b3c259de9d27e3c776b8d6c897",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/mobius-klein-surfaces.md",
+      "before": "94c800528c38963522c423e3a2215b42a3cd93ca73ce07785c807a7ba09fdda2",
+      "after": "94c800528c38963522c423e3a2215b42a3cd93ca73ce07785c807a7ba09fdda2",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/toroidal-poloidal-confinement.md",
+      "before": "a27a7176142e0bb115ee944735d0d7b039f9368795294e4a32d8ad5998d929ea",
+      "after": "a27a7176142e0bb115ee944735d0d7b039f9368795294e4a32d8ad5998d929ea",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
+      "before": "9cb4c3a295fb43c044392188a55b3217ef6cb5e1bbd3d1efbce84c9743356119",
+      "after": "9cb4c3a295fb43c044392188a55b3217ef6cb5e1bbd3d1efbce84c9743356119",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/projective-line.md",
+      "before": "f7bfe18a3e899398ce4d3f9e68c7ce0a23d27899d208ff485cfd1b35e13df072",
+      "after": "f7bfe18a3e899398ce4d3f9e68c7ce0a23d27899d208ff485cfd1b35e13df072",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+      "before": "53beea3698569c79e6c65683199f703bace8454c7464c1bc90c8b82f3d090658",
+      "after": "53beea3698569c79e6c65683199f703bace8454c7464c1bc90c8b82f3d090658",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/riemann-sphere.md",
+      "before": "c20fdc470303a0e2749b28c701b201a9d4f846373b7db419e2e3384350c30070",
+      "after": "c20fdc470303a0e2749b28c701b201a9d4f846373b7db419e2e3384350c30070",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/README.md",
+      "before": "0ee9333fa1fa044a12b3308dbb176245d38f5b027f8e63899659dbfe680cd780",
+      "after": "0ee9333fa1fa044a12b3308dbb176245d38f5b027f8e63899659dbfe680cd780",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/projective-completion.md",
+      "before": "a568aba0008093bfc796bfc47600a5dd1ed22ccb7b2b795b4dd50994315a997f",
+      "after": "a568aba0008093bfc796bfc47600a5dd1ed22ccb7b2b795b4dd50994315a997f",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+      "before": "87cf9e50b33f5b7efe1149f937e8af3a2991ceeea94aad8f962990e4de868051",
+      "after": "87cf9e50b33f5b7efe1149f937e8af3a2991ceeea94aad8f962990e4de868051",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/mono-poly/mono.md",
+      "before": "6e3685da959c21ae9ee07f0a421e8ec5aa11b75a9a8ed83ac1080a7c9bbdeedb",
+      "after": "6e3685da959c21ae9ee07f0a421e8ec5aa11b75a9a8ed83ac1080a7c9bbdeedb",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/mono-poly/poly.md",
+      "before": "ae28c505e9945e082990776e100aec9c354391de2f3117edc455a7bbf9a893cf",
+      "after": "ae28c505e9945e082990776e100aec9c354391de2f3117edc455a7bbf9a893cf",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/mono-poly/translations.md",
+      "before": "131427ef6103dc00786930b999aeac5f7b690b4b3e6d7cb122d4172893ae5917",
+      "after": "131427ef6103dc00786930b999aeac5f7b690b4b3e6d7cb122d4172893ae5917",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/diagrams/README.md",
+      "before": "b485ea3c4fe6b6ccc1f626b29d5e550d2bf6bd32695fe416dfd260e739a6bbb9",
+      "after": "b485ea3c4fe6b6ccc1f626b29d5e550d2bf6bd32695fe416dfd260e739a6bbb9",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md",
+      "before": "af712057ee478e3c2b272c0c412f2889230a0b7f7dfbe032fe021f51b6cc7516",
+      "after": "af712057ee478e3c2b272c0c412f2889230a0b7f7dfbe032fe021f51b6cc7516",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md",
+      "before": "170caf9d475247854eade69e2c3f99050c9e2a49cda235d8080dc801f8e40dd2",
+      "after": "170caf9d475247854eade69e2c3f99050c9e2a49cda235d8080dc801f8e40dd2",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+      "before": "17bb8a1679b9f500d9460f1654144cf26b9bfb6268ad4251451fad2d88697038",
+      "after": "17bb8a1679b9f500d9460f1654144cf26b9bfb6268ad4251451fad2d88697038",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/grothendieck-group-loss.md",
+      "before": "2919163a8bc9c96b69b70343f99685ccd6a6d26b886b0fda960b7bbc1fd83c23",
+      "after": "2919163a8bc9c96b69b70343f99685ccd6a6d26b886b0fda960b7bbc1fd83c23",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/godel-incompleteness.md",
+      "before": "ead69a17ddda2235033652070ffb53759a6b3237f3af9335f708171b8adc266e",
+      "after": "ead69a17ddda2235033652070ffb53759a6b3237f3af9335f708171b8adc266e",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md",
+      "before": "3cd9a2847f1efee095fcd648a7dc09f0dce1def6d55867308ce77169401a1d4c",
+      "after": "3cd9a2847f1efee095fcd648a7dc09f0dce1def6d55867308ce77169401a1d4c",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/sheffer-stroke.md",
+      "before": "8d4cd6f0c2bd8d689d0af6d79de6865d31b3deaa7bcfc7c276613b724ead03e0",
+      "after": "8d4cd6f0c2bd8d689d0af6d79de6865d31b3deaa7bcfc7c276613b724ead03e0",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/crt-z6.md",
+      "before": "f67e21e17286a077a64c4ce8d69d671c5727cf26e0966db0b79088c3c0ff4929",
+      "after": "f67e21e17286a077a64c4ce8d69d671c5727cf26e0966db0b79088c3c0ff4929",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md",
+      "before": "a233295a47894c3c9274a72cd88e52ede7b2e46d4e7343c3ee6728d8c541e2d9",
+      "after": "a233295a47894c3c9274a72cd88e52ede7b2e46d4e7343c3ee6728d8c541e2d9",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+      "before": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f",
+      "after": "8bf0abd5c009cffcb356483b0d056640a5fc4dc4bbe927b8b502cc924118543f",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+      "before": "84fefdf4b3893ee347550d653d81320c0b873b97310a529b57f5987465abafc2",
+      "after": "84fefdf4b3893ee347550d653d81320c0b873b97310a529b57f5987465abafc2",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/trivial-ring.md",
+      "before": "c305239e2daadce852e9d589c3cc97aeca81f28cb44d4677976f0a0a0e468e96",
+      "after": "c305239e2daadce852e9d589c3cc97aeca81f28cb44d4677976f0a0a0e468e96",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/calculus-infinity-dx.md",
+      "before": "7065c58175076854296aae758cd7a39e348bf241f0b91d0361172ed9dd614bbf",
+      "after": "7065c58175076854296aae758cd7a39e348bf241f0b91d0361172ed9dd614bbf",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/fde-catuskoti.md",
+      "before": "820974af1b819b727d872699b2e9779b7992328e7635ac1d365ef131ba70c6b9",
+      "after": "820974af1b819b727d872699b2e9779b7992328e7635ac1d365ef131ba70c6b9",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md",
+      "before": "c64f53a4dec926e0e03402bf3e8dbcb758334e27917a25fcd62ed0c1dcda9b8a",
+      "after": "c64f53a4dec926e0e03402bf3e8dbcb758334e27917a25fcd62ed0c1dcda9b8a",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/quaternion-q8.md",
+      "before": "4d5b99654e90cdeeb13d8094a9d7c5d315b31aafed7408970d8a60912a3f3a77",
+      "after": "4d5b99654e90cdeeb13d8094a9d7c5d315b31aafed7408970d8a60912a3f3a77",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/qubit-bloch-sphere.md",
+      "before": "190f48437afc8a87b864293093a3f23bb91458ad9c60695b549c70c882073104",
+      "after": "190f48437afc8a87b864293093a3f23bb91458ad9c60695b549c70c882073104",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/cross-ratio.md",
+      "before": "1c5123237f479f5fec3ddf7dd397ed02f3176b727aa787b190f4ffb6c6309272",
+      "after": "1c5123237f479f5fec3ddf7dd397ed02f3176b727aa787b190f4ffb6c6309272",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/metaphysics.md",
+      "before": "78f0f74c856f9d3c2ed4a468ab4c6b97e583f03808b13a42f862dae4703ac37b",
+      "after": "78f0f74c856f9d3c2ed4a468ab4c6b97e583f03808b13a42f862dae4703ac37b",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/topology.md",
+      "before": "26cb2d81c83a701bff556894350e8001230e5f21bab611eda953ee92d46c3d40",
+      "after": "26cb2d81c83a701bff556894350e8001230e5f21bab611eda953ee92d46c3d40",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/etymology.md",
+      "before": "baed1df5a6667f8d91fb13c24ce138413f5c8215753a10e654d2c29d0958ff66",
+      "after": "baed1df5a6667f8d91fb13c24ce138413f5c8215753a10e654d2c29d0958ff66",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/README.md",
+      "before": "0b29c01e79042098a68f72d7e0e681768d7ecce2b1bd5286cbc40f6cd0f87702",
+      "after": "0b29c01e79042098a68f72d7e0e681768d7ecce2b1bd5286cbc40f6cd0f87702",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/enantiodromic-return.md",
+      "before": "23a264100c07f91a5463c038fb1b9054b7b0c98c5735305ef69d28f1ec9cf20d",
+      "after": "23a264100c07f91a5463c038fb1b9054b7b0c98c5735305ef69d28f1ec9cf20d",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/recognition.md",
+      "before": "bba9bca3895d637c7d67b299a9b0a90fc6323529da5a862a74c6e364bbb78dd6",
+      "after": "bba9bca3895d637c7d67b299a9b0a90fc6323529da5a862a74c6e364bbb78dd6",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/psychology.md",
+      "before": "b1036dfcfb6250f6ebe0ebeebb51b52aae734e2734b61bc24b974c9115c732e8",
+      "after": "b1036dfcfb6250f6ebe0ebeebb51b52aae734e2734b61bc24b974c9115c732e8",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/number.md",
+      "before": "1450f21c8418e24adb04da22ab91b0b85602c8c2c2c886220e8d53eedc914363",
+      "after": "1450f21c8418e24adb04da22ab91b0b85602c8c2c2c886220e8d53eedc914363",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/dia-syn/syn.md",
+      "before": "c2129a70488233c7a68a9f7152fdbd93b15b4606400baafcb64ca6e478479d24",
+      "after": "c2129a70488233c7a68a9f7152fdbd93b15b4606400baafcb64ca6e478479d24",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+      "before": "f0033ed0c6c952ca377fed250ca91215863a3e95ff46edf8a359ffceb17cd4b6",
+      "after": "f0033ed0c6c952ca377fed250ca91215863a3e95ff46edf8a359ffceb17cd4b6",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/dia-syn/dia.md",
+      "before": "c24c28d4d5d8124375270b6902e56d65d447e2292ccd4f31add4a297c8c8e470",
+      "after": "c24c28d4d5d8124375270b6902e56d65d447e2292ccd4f31add4a297c8c8e470",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/dia-syn/chronic.md",
+      "before": "79464c4b8a37d53438ac4f01a38d269cdde506af0eb6866a094d6dc8f9f13d84",
+      "after": "79464c4b8a37d53438ac4f01a38d269cdde506af0eb6866a094d6dc8f9f13d84",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+      "before": "7fed0b46d19a2babd0bce566f3042094af91b7eb18be653fb59e73d2581039fc",
+      "after": "7fed0b46d19a2babd0bce566f3042094af91b7eb18be653fb59e73d2581039fc",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md",
+      "before": "0d844379502a1ea08034a7adebe48909f77b1e14d083a60a3c6914e890ce871b",
+      "after": "0d844379502a1ea08034a7adebe48909f77b1e14d083a60a3c6914e890ce871b",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+      "before": "d5d673ef7d1995c2d012742294403a6035ea228ee67b79f94bd2405a9af79849",
+      "after": "d5d673ef7d1995c2d012742294403a6035ea228ee67b79f94bd2405a9af79849",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/perfect-six.md",
+      "before": "27a6d07a07deb05d9b4a6869b7e2fa262accc542167c46adccb3a72dc66f9ebb",
+      "after": "27a6d07a07deb05d9b4a6869b7e2fa262accc542167c46adccb3a72dc66f9ebb",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/tetraktys-triangle.md",
+      "before": "32a0d3a26386446a4bc2a06f2a67e0247f3c8e71bf9c81ad81c376f133373362",
+      "after": "32a0d3a26386446a4bc2a06f2a67e0247f3c8e71bf9c81ad81c376f133373362",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/pythagorean-comma.md",
+      "before": "85b771ca4c20fc56dd72dd4851dae39137757cd1b6005b51754aec3a0a66d668",
+      "after": "85b771ca4c20fc56dd72dd4851dae39137757cd1b6005b51754aec3a0a66d668",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/cycle-interval-octave.md",
+      "before": "e753292d9ede4e64b90c67c95b926e7ae811eab6c9937fda94b3de149a8b036e",
+      "after": "e753292d9ede4e64b90c67c95b926e7ae811eab6c9937fda94b3de149a8b036e",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/cymatics-standing-waves.md",
+      "before": "18844ff980c111bc0cf8f589e8c343edb944b2012b4ca6f10a22ecd36acda8da",
+      "after": "18844ff980c111bc0cf8f589e8c343edb944b2012b4ca6f10a22ecd36acda8da",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/whole-tone-return.md",
+      "before": "5490bd2a2644d3d58109e149db18211ec6a6b8dcc403aa4e9820a09273dc2b6c",
+      "after": "5490bd2a2644d3d58109e149db18211ec6a6b8dcc403aa4e9820a09273dc2b6c",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/j-space.md",
+      "before": "b6fe5e0cd29142b89af18c52050e9095800d1f0a15014f81379b6ae82407711a",
+      "after": "b6fe5e0cd29142b89af18c52050e9095800d1f0a15014f81379b6ae82407711a",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/softmax-argmax.md",
+      "before": "51290c2dfd988e22d02ff1c95cc52840bb6587da100dc449e4bc0b2d967ce6fc",
+      "after": "51290c2dfd988e22d02ff1c95cc52840bb6587da100dc449e4bc0b2d967ce6fc",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md",
+      "before": "0b2226a938407080fe7b2d7e5ff5e8d0b634d35344264cbc70523c71b7187340",
+      "after": "0b2226a938407080fe7b2d7e5ff5e8d0b634d35344264cbc70523c71b7187340",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/README.md",
+      "before": "72d5a297b9b82eaaad3379afdafffdafd5843c1652e7fd8b6288d423975dc0ae",
+      "after": "72d5a297b9b82eaaad3379afdafffdafd5843c1652e7fd8b6288d423975dc0ae",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/preference-gauge.md",
+      "before": "15323374335cb2834a8d837eeb7808f2ded3a7ea8d694dc42c9450ff64369ee0",
+      "after": "15323374335cb2834a8d837eeb7808f2ded3a7ea8d694dc42c9450ff64369ee0",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/operational-parity.md",
+      "before": "736781a36f8f0f698d8d0d5d10a67833824626abdcd89673127c3e1dc943591d",
+      "after": "736781a36f8f0f698d8d0d5d10a67833824626abdcd89673127c3e1dc943591d",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/immutable-subject.md",
+      "before": "c972c1ca063731e65948e2e17b6d1ddca8711d47b0ed4ab95da07597819f2fc7",
+      "after": "c972c1ca063731e65948e2e17b6d1ddca8711d47b0ed4ab95da07597819f2fc7",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/minus-over-minus.md",
+      "before": "870d891efc70deda69fa7fd27f9be3ff8d88bb7ec7af452eac41bb3b0a2f5315",
+      "after": "870d891efc70deda69fa7fd27f9be3ff8d88bb7ec7af452eac41bb3b0a2f5315",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/copula.md",
+      "before": "5fabbb3e15fab966dc9b907b5fdc725471c4dfd39e50eedef1c9b8e73c7a93ee",
+      "after": "5fabbb3e15fab966dc9b907b5fdc725471c4dfd39e50eedef1c9b8e73c7a93ee",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/README.md",
+      "before": "f88ceb33805d3df40060b2d35b0ef57714bd8f53bdb4f076690a81887f364536",
+      "after": "f88ceb33805d3df40060b2d35b0ef57714bd8f53bdb4f076690a81887f364536",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md",
+      "before": "3563e416d1aee63a1d4cd0a48ae8758c532bfbc534d77f6c2800b7d76813258a",
+      "after": "3563e416d1aee63a1d4cd0a48ae8758c532bfbc534d77f6c2800b7d76813258a",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/the-matheme.md",
+      "before": "8fe0358aeb8996055a6c1607bed61bb4406330e9c5e93c8b1ac1be66ca302d9c",
+      "after": "8fe0358aeb8996055a6c1607bed61bb4406330e9c5e93c8b1ac1be66ca302d9c",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/catuskoti-crossing.md",
+      "before": "171ced1117cb1ebe22d2e4156721ffe1e51dedd63f392a24fbe3b711ab677d47",
+      "after": "171ced1117cb1ebe22d2e4156721ffe1e51dedd63f392a24fbe3b711ab677d47",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/six-determinations.md",
+      "before": "a3cc539a6d37b87b71463637077e17f05cf1fe9d41879783d8b06f6cee53d540",
+      "after": "a3cc539a6d37b87b71463637077e17f05cf1fe9d41879783d8b06f6cee53d540",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/spanda/spanda-equations.md",
+      "before": "3793af502c7aea110674c2c6b554ed9db06c6b06be467e4d64e37e5de98030eb",
+      "after": "3793af502c7aea110674c2c6b554ed9db06c6b06be467e4d64e37e5de98030eb",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/spanda/README.md",
+      "before": "d299709cc6626e4ba077273e4c16728024fd4326d9443c940426cb17a3dea6ee",
+      "after": "d299709cc6626e4ba077273e4c16728024fd4326d9443c940426cb17a3dea6ee",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/crossed-zero-re-entry.md",
+      "before": "c042ada9dfbcf2e93e60d35f4aa66dfd4a0bf979d1bcb8b57d3092668ce56013",
+      "after": "c042ada9dfbcf2e93e60d35f4aa66dfd4a0bf979d1bcb8b57d3092668ce56013",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/binary-and-binary-of-binary.md",
+      "before": "63d1c09b84eda489ad7e123258c140d05160849525e8766b632da21ac7660dff",
+      "after": "63d1c09b84eda489ad7e123258c140d05160849525e8766b632da21ac7660dff",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/primordial-symbolon.md",
+      "before": "e19164edd3b98ec15b070e3f35e0cc9f0f45840e1c38427700849474beb36e91",
+      "after": "e19164edd3b98ec15b070e3f35e0cc9f0f45840e1c38427700849474beb36e91",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/x-x.md",
+      "before": "9376d8928693aa0e95b9f250d159c421d002276d96609668049d487dcf159ef9",
+      "after": "9376d8928693aa0e95b9f250d159c421d002276d96609668049d487dcf159ef9",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/two-ones.md",
+      "before": "b7f86cd44b011dea7d957ebaf84f1d00262a4d7b17b873240af8a7ee9b3d77dd",
+      "after": "b7f86cd44b011dea7d957ebaf84f1d00262a4d7b17b873240af8a7ee9b3d77dd",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/slash-and-or.md",
+      "before": "208ceeca0ecc488db19f0cd3129e259a843c8c7a21b7ce6d8e54a8084f1414f4",
+      "after": "208ceeca0ecc488db19f0cd3129e259a843c8c7a21b7ce6d8e54a8084f1414f4",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/README.md",
+      "before": "717f8ac41f50a81dcc02bef220a4f87aa092e7e50a646a2e7c5a4d39babeccf9",
+      "after": "717f8ac41f50a81dcc02bef220a4f87aa092e7e50a646a2e7c5a4d39babeccf9",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/complex-orientation.md",
+      "before": "18a2d56e6de29f44bbd99533cd1e8756d6745e269754d5a94921a430daedec7c",
+      "after": "18a2d56e6de29f44bbd99533cd1e8756d6745e269754d5a94921a430daedec7c",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/eight-determinations.md",
+      "before": "d9ec2f1c06eebce1ad5b8168f76fe13b3918ecf222f96721b40ea0a7de0c5ab6",
+      "after": "d9ec2f1c06eebce1ad5b8168f76fe13b3918ecf222f96721b40ea0a7de0c5ab6",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/ql-positions.md",
+      "before": "4a52afeee151f8f5b3682609084dd65e7ebf51f124cd1f1be3200b4d7d41dedc",
+      "after": "4a52afeee151f8f5b3682609084dd65e7ebf51f124cd1f1be3200b4d7d41dedc",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/README.md",
+      "before": "63de70316017c420d667084c8ff346f4845d63018adfe420b7cae17464526040",
+      "after": "63de70316017c420d667084c8ff346f4845d63018adfe420b7cae17464526040",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/t1-geometry.md",
+      "before": "71d58b64dd571c159abed03c56917936d21de5dea57836884f4bf52f4eb35c62",
+      "after": "71d58b64dd571c159abed03c56917936d21de5dea57836884f4bf52f4eb35c62",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/harmonics-symmetries.md",
+      "before": "039d469edb39ede1c681a3fd354e6cf023d32c39fc32f06cf062edf30351f8b0",
+      "after": "039d469edb39ede1c681a3fd354e6cf023d32c39fc32f06cf062edf30351f8b0",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/spanda.md",
+      "before": "a329b834e8137f640e47e4d0d5c00f8b2a0b655e74b75433c6d13a996587f64c",
+      "after": "a329b834e8137f640e47e4d0d5c00f8b2a0b655e74b75433c6d13a996587f64c",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/phase-flip.md",
+      "before": "2c906b0e6dff06b5950b2e225bf098ea7a9fc4586db19a2c8c72cb34a5d96c40",
+      "after": "2c906b0e6dff06b5950b2e225bf098ea7a9fc4586db19a2c8c72cb34a5d96c40",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/t0-onto-logic.md",
+      "before": "d13d0efa88786eecb3136d361b7c87b957791f235f80054b67963de3b3ff950b",
+      "after": "d13d0efa88786eecb3136d361b7c87b957791f235f80054b67963de3b3ff950b",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/ratio-threshold.md",
+      "before": "739ca3bdbc5539c8ac395cb5b520a8ce4cb3c1d2ce116907466ca81df9eec44d",
+      "after": "739ca3bdbc5539c8ac395cb5b520a8ce4cb3c1d2ce116907466ca81df9eec44d",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/infinity-dx.md",
+      "before": "c26332e6e0c76724a33d87138ae509e40800aad9274bb81039e1013aabfd1d75",
+      "after": "c26332e6e0c76724a33d87138ae509e40800aad9274bb81039e1013aabfd1d75",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/question-assertion.md",
+      "before": "62d1d19be77f31bcba5557ea741d6c07f40b5ea13934331a286566a011414bf4",
+      "after": "62d1d19be77f31bcba5557ea741d6c07f40b5ea13934331a286566a011414bf4",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/X-x.md",
+      "before": "3c9936c9babc69986f11301e790cba078325bbf617b78ef19717700d659adcca",
+      "after": "3c9936c9babc69986f11301e790cba078325bbf617b78ef19717700d659adcca",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/AM-IS.md",
+      "before": "351c3425798022a1e037a41f11cb732681b81d35fd3cc579a4bad4ae62c90371",
+      "after": "351c3425798022a1e037a41f11cb732681b81d35fd3cc579a4bad4ae62c90371",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/self-identity.md",
+      "before": "bac6531eb707bc4df0a6be295a0f72e57d3d2a7b665f3a78537c2e02cb118985",
+      "after": "bac6531eb707bc4df0a6be295a0f72e57d3d2a7b665f3a78537c2e02cb118985",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/mono-poly.md",
+      "before": "5c895d54038fe6dea3002de3f3558a934f57ca41b054e3b3851b6434fc1f4b5b",
+      "after": "5c895d54038fe6dea3002de3f3558a934f57ca41b054e3b3851b6434fc1f4b5b",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/README.md",
+      "before": "5f791a4ab8af5a15917c75351dd6d66ebc2a346a5816d4a968e680aa2101470c",
+      "after": "5f791a4ab8af5a15917c75351dd6d66ebc2a346a5816d4a968e680aa2101470c",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/subject-logics.md",
+      "before": "534c9016b83e9a1f8ce0c240fdda55feb53d96973f748142a607626654ca9ea1",
+      "after": "534c9016b83e9a1f8ce0c240fdda55feb53d96973f748142a607626654ca9ea1",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/minus-plus.md",
+      "before": "3101f205d53857953ed74a776ab8c706295fb15fb12082cb665c08d80311c735",
+      "after": "3101f205d53857953ed74a776ab8c706295fb15fb12082cb665c08d80311c735",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/the-slash.md",
+      "before": "887a3dbd1bf3541db33c5063f187c286bfa9a84c4261cab85a8608103dfb2b74",
+      "after": "887a3dbd1bf3541db33c5063f187c286bfa9a84c4261cab85a8608103dfb2b74",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/complexio-oppositorum.md",
+      "before": "f1aca0c28e19caef749a81e3d5c6ad6577dcd5c5fbe0b2e6fa38f8f62d850daf",
+      "after": "f1aca0c28e19caef749a81e3d5c6ad6577dcd5c5fbe0b2e6fa38f8f62d850daf",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/eight-determinations.md",
+      "before": "cbac593618012f9268bfd449953350f8b3a1aaf69f97e49a5f92bc323901e2b2",
+      "after": "cbac593618012f9268bfd449953350f8b3a1aaf69f97e49a5f92bc323901e2b2",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/0-1.md",
+      "before": "ab0bdc96d6e9b6b0613b65bc195a3a025c29c36e9716b879f38202485553603a",
+      "after": "ab0bdc96d6e9b6b0613b65bc195a3a025c29c36e9716b879f38202485553603a",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/1-0.md",
+      "before": "bf140fe76631f9b2e2870def31801892bdb5a442fe5f1baac5713bf083d3bd64",
+      "after": "bf140fe76631f9b2e2870def31801892bdb5a442fe5f1baac5713bf083d3bd64",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "before": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489",
+      "after": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A01.md",
+      "before": "cf90a1fb09c619f8829858a7c5dda50e8f29abf61edf1a2e142dcbf4f77f63e8",
+      "after": "cf90a1fb09c619f8829858a7c5dda50e8f29abf61edf1a2e142dcbf4f77f63e8",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "before": "19585deb79a5ec0dabb39493e413e0579e313adeab68051a783b6ad737584ab8",
+      "after": "19585deb79a5ec0dabb39493e413e0579e313adeab68051a783b6ad737584ab8",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A25.md",
+      "before": "eaeeae9754e349e495e21dd60bf83d380fa3eaac3d54b9d33b779ec72775139b",
+      "after": "eaeeae9754e349e495e21dd60bf83d380fa3eaac3d54b9d33b779ec72775139b",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A05.md",
+      "before": "d7992ff692cd1b0babef8b84157438fa89c92e5eefaa2a6b9752816e5ca23da9",
+      "after": "d7992ff692cd1b0babef8b84157438fa89c92e5eefaa2a6b9752816e5ca23da9",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A31.md",
+      "before": "2e8a2e463260bfd1e194037a5bba48cddfb06aaad1d8fc71e87003de0d10d1c7",
+      "after": "2e8a2e463260bfd1e194037a5bba48cddfb06aaad1d8fc71e87003de0d10d1c7",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "before": "7cfe91ec6423eff272001a99a672cc1e3d02b3eb5cc35ae9e142077660912779",
+      "after": "7cfe91ec6423eff272001a99a672cc1e3d02b3eb5cc35ae9e142077660912779",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "before": "70e04921c5c97b94a3068eafe5b1595e3bfa4f537076f75376503628237f0f8a",
+      "after": "70e04921c5c97b94a3068eafe5b1595e3bfa4f537076f75376503628237f0f8a",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A04.md",
+      "before": "0b65287f0c7a7d5a0206f003b2cdbe4e4afd7025f104ce60bfec897b7ef228fa",
+      "after": "0b65287f0c7a7d5a0206f003b2cdbe4e4afd7025f104ce60bfec897b7ef228fa",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A30.md",
+      "before": "72f7883f3955b05bb3448dcdfee87b5f0cd4e76d16de37fe922b20f995643e62",
+      "after": "72f7883f3955b05bb3448dcdfee87b5f0cd4e76d16de37fe922b20f995643e62",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A20.md",
+      "before": "31e8980f2955a784f02b5f84b1e6c63bdcf3a22cb25e24afec678c19a166c2c2",
+      "after": "31e8980f2955a784f02b5f84b1e6c63bdcf3a22cb25e24afec678c19a166c2c2",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A14.md",
+      "before": "0a198ce301265646b0fa5f438f5e035d14fe2de74dcc246ae4a6c96e714808ee",
+      "after": "0a198ce301265646b0fa5f438f5e035d14fe2de74dcc246ae4a6c96e714808ee",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A34.md",
+      "before": "d3a568de103caa2a6f87231b435a661a014292b96f4ca1b8014086f653fd6920",
+      "after": "d3a568de103caa2a6f87231b435a661a014292b96f4ca1b8014086f653fd6920",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A10.md",
+      "before": "bab78b321241cb345013760b9e68011086eb8380ba640d98a7c525e87e7df17a",
+      "after": "bab78b321241cb345013760b9e68011086eb8380ba640d98a7c525e87e7df17a",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A24.md",
+      "before": "8ec2f6a4ee88586748f4519523c84d2ca141c37d04c86f785a001dccfa527c5b",
+      "after": "8ec2f6a4ee88586748f4519523c84d2ca141c37d04c86f785a001dccfa527c5b",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A07.md",
+      "before": "8f6aae272cc86877286b844e6fa65911c05885d3e50b388179ed623294406e01",
+      "after": "8f6aae272cc86877286b844e6fa65911c05885d3e50b388179ed623294406e01",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A33.md",
+      "before": "61ffc1d702894cd6f35cda9b489cf5da6a8e4103c1153e495ce23917cd4c6285",
+      "after": "61ffc1d702894cd6f35cda9b489cf5da6a8e4103c1153e495ce23917cd4c6285",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "before": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3",
+      "after": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A17.md",
+      "before": "f524699d75f93c839c8acdff6430c91b591d8266c3731bafca0cbcd49d940c9a",
+      "after": "f524699d75f93c839c8acdff6430c91b591d8266c3731bafca0cbcd49d940c9a",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "before": "12d3a0999ffec60d963f055cdbb1a857025a70f2a7bb46641eca20bb187b9b41",
+      "after": "12d3a0999ffec60d963f055cdbb1a857025a70f2a7bb46641eca20bb187b9b41",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "before": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8",
+      "after": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "before": "2480e3c0322aa54e36bcd924ec3e60cb6e3430372125ad215d12f56b583080e0",
+      "after": "2480e3c0322aa54e36bcd924ec3e60cb6e3430372125ad215d12f56b583080e0",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "before": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0",
+      "after": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A02.md",
+      "before": "76e00fc0f74e87943001d805b6864674755b716d32550a33d2def2a546a0b927",
+      "after": "76e00fc0f74e87943001d805b6864674755b716d32550a33d2def2a546a0b927",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A12.md",
+      "before": "a4bfa473d034e31cd6cbd7afc45b96236929665a4dd42f4e3f056e3973c58b39",
+      "after": "a4bfa473d034e31cd6cbd7afc45b96236929665a4dd42f4e3f056e3973c58b39",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "before": "9542b35c8445445bc02ebe6b1a1ba2ccf67f2aa7da50335fbe3180d595c1eb63",
+      "after": "9542b35c8445445bc02ebe6b1a1ba2ccf67f2aa7da50335fbe3180d595c1eb63",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A06.md",
+      "before": "aa37546fe2562ff16391e2c453022ae597c08cc431ec6c9660891d6c30ffbbad",
+      "after": "aa37546fe2562ff16391e2c453022ae597c08cc431ec6c9660891d6c30ffbbad",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "before": "8d7f5d6f98f61bb3011360c0ef68b0681989c97a8f224c2c549668ef167ca428",
+      "after": "8d7f5d6f98f61bb3011360c0ef68b0681989c97a8f224c2c549668ef167ca428",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A22.md",
+      "before": "cc4786c82ef3cb7ea0e799b910fec2ec50108b3cd2316635e4ac4f7ddb06c3d3",
+      "after": "cc4786c82ef3cb7ea0e799b910fec2ec50108b3cd2316635e4ac4f7ddb06c3d3",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "before": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45",
+      "after": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A29.md",
+      "before": "df16db3f0dc451847aab076658d7050e9ec888cad3618bd975c3162204c6a1ee",
+      "after": "df16db3f0dc451847aab076658d7050e9ec888cad3618bd975c3162204c6a1ee",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A09.md",
+      "before": "7bbb367d7fe465f1d22b962495426f1a89d462d6f6c7fe4e3636dcd37978af5f",
+      "after": "7bbb367d7fe465f1d22b962495426f1a89d462d6f6c7fe4e3636dcd37978af5f",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A19.md",
+      "before": "e9b39e002b667014c970dd287f2301c9f9a80197762283e5062274ea9db64861",
+      "after": "e9b39e002b667014c970dd287f2301c9f9a80197762283e5062274ea9db64861",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A08.md",
+      "before": "0665c59d9039ebe87706ea25faa1d85a66fc69b31ba5506f17523a04b1449548",
+      "after": "0665c59d9039ebe87706ea25faa1d85a66fc69b31ba5506f17523a04b1449548",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "before": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f",
+      "after": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A28.md",
+      "before": "a998591196094d47e4cf8c2e52beccfae29e85b7f95752c35daf1a0f16ae9b1e",
+      "after": "a998591196094d47e4cf8c2e52beccfae29e85b7f95752c35daf1a0f16ae9b1e",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+      "before": "609fc9dc801e535013ef2d51500f2a40d64735bb149d48818bfb55c304c52193",
+      "after": "609fc9dc801e535013ef2d51500f2a40d64735bb149d48818bfb55c304c52193",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/NOTES.md",
+      "before": "e57f6d10a874fd70856c27d278d62af0a1576dc04bd2c6d9596f4b693e992d50",
+      "after": "e57f6d10a874fd70856c27d278d62af0a1576dc04bd2c6d9596f4b693e992d50",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/NOTES.md",
+      "before": "23a9bbb954eda15cd3491616863c1a32483b11a8b7d11599e0df6fd6cab3330a",
+      "after": "23a9bbb954eda15cd3491616863c1a32483b11a8b7d11599e0df6fd6cab3330a",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+      "before": "768da367dfd6ece009bc1c6717e64156d3ac16e38b570e513ae95939c6e7bc0f",
+      "after": "768da367dfd6ece009bc1c6717e64156d3ac16e38b570e513ae95939c6e7bc0f",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/NOTES.md",
+      "before": "f89b884d2c315e65efbeb5c2ceae441543b08f13c6686f552531fcd142c94949",
+      "after": "f89b884d2c315e65efbeb5c2ceae441543b08f13c6686f552531fcd142c94949",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/THE-RETURN-OF-ZERO.md",
+      "before": "75e80a7efd4042354fead2cde9180f04447b8f99182d28cd66bc8ce9a75eba81",
+      "after": "75e80a7efd4042354fead2cde9180f04447b8f99182d28cd66bc8ce9a75eba81",
+      "unchanged": true
+    }
+  ],
+  "whole_hashes": {
+    "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md": {
+      "before": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "current": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "change_authority": "unchanged"
+    },
+    "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md": {
+      "before": "036c9f9c3bd2d5ea353127b00594c85a2db8fbcfbffd666cb9b728d633189f37",
+      "current": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "change_authority": "parent announced selected CW11 source-standing paragraph repair"
+    },
+    "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md": {
+      "before": "532c4b27a5b051c490f84e581266059c925105eb5cd31690791a9e5e265f1e7a",
+      "current": "532c4b27a5b051c490f84e581266059c925105eb5cd31690791a9e5e265f1e7a",
+      "change_authority": "unchanged"
+    }
+  },
+  "counts": {
+    "landed_complete": 51,
+    "E2_pending": 2,
+    "failed": 0,
+    "consumers": 37,
+    "baseline150_unchanged": 150,
+    "previous_complete_preserved": 8
+  },
+  "scoped_diff_check": {
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  "bounded_hygiene": [
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-arguments-1-hygiene.json",
+      "targets": 8,
+      "failures": 0,
+      "sha256": "37707a4a512630924888d2e1f7921ec85d19471a11128e1ba91932aa158c063b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-arguments-2-hygiene.json",
+      "targets": 9,
+      "failures": 0,
+      "sha256": "09d6a587b12cd456343be34b52b37d663726393c8db95628b7eed706b33319c7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-concepts-hygiene.json",
+      "targets": 10,
+      "failures": 0,
+      "sha256": "7cecc4d16222b749687b4bee1cb3cb30777e38f51c18020559c873ead2a372ee"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-etymologies-hygiene.json",
+      "targets": 3,
+      "failures": 0,
+      "sha256": "9701b7d909f9fdafed8610fdc41fc6109a915a5eb823b12323284126af937e39"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-final-spacing-hygiene.json",
+      "targets": 3,
+      "failures": 0,
+      "sha256": "be0ae2cbc3ae732cd448d1745f92c56d0fdb9cf5b0c16852919dcab56743f830"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-02-closure-movements-hygiene.json",
+      "targets": 7,
+      "failures": 0,
+      "sha256": "b13e47a77ce595ad9c5d26148410f4c60261c98f6f8a43740c289c33843d353f"
+    }
+  ],
+  "completion": "Authorised consumer scope complete: 51 reciprocal returns. E2 two returns pending parent landing; no global T20 completion."
+}

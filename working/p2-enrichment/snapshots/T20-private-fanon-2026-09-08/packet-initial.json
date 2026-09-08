@@ -1,0 +1,718 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/queue.json",
+    "queue_sha256": "8ef1f9bdd76bec6e8a077a3acab88e07fb6bf22590119cd2ffde9da2895ece98",
+    "census": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/census.json",
+    "census_sha256": "97ceb4aed23e0a408283b471a62bfbed90063d1a081f53ad6bed75b4bb075444",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "mytheme-narrative-fanon-language-gaze-mask-recognition",
+    "title": "fanon-language-gaze-mask-recognition",
+    "register": "mytheme",
+    "record_type": "whole-mytheme",
+    "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+    "wave": "T20",
+    "disposition": "enrich-existing-whole",
+    "authority": [
+      "WRITING-PROTOCOL.md",
+      "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+      ".wayfinder/maps/t20-t21-world-registers.md"
+    ],
+    "packet_status": "current-binding-required",
+    "binding_state": "inputs-bound-source-acquisition-debts-explicit",
+    "argument_depth": [
+      "A02",
+      "A06",
+      "A07",
+      "A20",
+      "A21",
+      "A24",
+      "A25",
+      "A26",
+      "A27",
+      "A28",
+      "A29",
+      "A30",
+      "A31",
+      "A32"
+    ],
+    "argument_depth_roles": {
+      "A02": "Material whole-field consumer: A02 \u2014 Copula / Self-Identity through Difference; consult completed A02 depth packet before extracting this register\u2019s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A02.md:18.",
+      "A06": "Material whole-field consumer: A06 \u2014 V\u0101k; consult completed A06 depth packet before extracting this register\u2019s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A06.md:18.",
+      "A07": "Material whole-field consumer: A07 \u2014 Vikalpa\u2013Sa\u1e43kalpa / Script \u2014 Frozen Conditioned Will; consult completed A07 depth packet before extracting this register\u2019s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A07.md:18.",
+      "A20": "Material whole-field consumer: A20 \u2014 Image / Valuation / Possession; consult completed A20 depth packet before extracting this register\u2019s operation.",
+      "A21": "Material whole-field consumer: A21 \u2014 Individuation / Recognition; consult completed A21 depth packet before extracting this register\u2019s operation.",
+      "A24": "Material whole-field consumer: A24 \u2014 Arbitration and the Usurpation of Measure; consult completed A24 depth packet before extracting this register\u2019s operation.",
+      "A25": "Material whole-field consumer: A25 \u2014 Covenant / Mediating Office / Source Authority; consult completed A25 depth packet before extracting this register\u2019s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A25.md:14.",
+      "A26": "Material whole-field consumer: A26 \u2014 Objective Internality \u2014 Mind as Worldhood; consult completed A26 depth packet before extracting this register\u2019s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A26.md:14.",
+      "A27": "Material whole-field consumer: A27 \u2014 Self and Other \u2014 Unity without Possession; consult completed A27 depth packet before extracting this register\u2019s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A27.md:14.",
+      "A28": "Material whole-field consumer: A28 \u2014 Authored Ground / Positional Delegation; consult completed A28 depth packet before extracting this register\u2019s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A28.md:14.",
+      "A29": "Material whole-field consumer: A29 \u2014 Power / Delegated Labour / Return; consult completed A29 depth packet before extracting this register\u2019s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A29.md:14.",
+      "A30": "Material whole-field consumer: A30 \u2014 Objective Co-Internality; consult completed A30 depth packet before extracting this register\u2019s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A30.md:14.",
+      "A31": "Material whole-field consumer: A31 \u2014 Deferential Intelligence; consult completed A31 depth packet before extracting this register\u2019s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A31.md:14.",
+      "A32": "Material whole-field consumer: A32 \u2014 Reflective Field / THE MIRROR THAT MOVES FIRST; consult completed A32 depth packet before extracting this register\u2019s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A32.md:14."
+    },
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/WHOLE-before.md",
+      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/fanon-1952-extracted.txt",
+      "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/fanon-1952-electronic.pdf"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/WHOLE-before.md",
+        "start_line": 1,
+        "end_line": 214,
+        "relation": "Racial-colonial embodied history makes mask meaningful; no generic disguise allegory can replace its source world.",
+        "provenance": "Canonical whole source recovery with relation-local human-amplification state"
+      },
+      {
+        "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+        "start_line": 475,
+        "end_line": 532,
+        "relation": "Recovered mask/image category-before-encounter operation; private chameleon held apart from Fanon; source-bound comparison retains no",
+        "provenance": "Ratified Native020 whole programme, unchanged full prior read reused"
+      }
+    ],
+    "relations": [
+      {
+        "target": "A02",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A02 \u2014 Copula / Self-Identity through Difference",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "A06",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A06 \u2014 V\u0101k",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "A07",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A07 \u2014 Vikalpa\u2013Sa\u1e43kalpa / Script \u2014 Frozen Conditioned Will",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "A20",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A20 \u2014 Image / Valuation / Possession",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "A21",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A21 \u2014 Individuation / Recognition",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "A24",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A24 \u2014 Arbitration and the Usurpation of Measure",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "A25",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A25 \u2014 Covenant / Mediating Office / Source Authority",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "A26",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A26 \u2014 Objective Internality \u2014 Mind as Worldhood",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "A27",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A27 \u2014 Self and Other \u2014 Unity without Possession",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "A28",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A28 \u2014 Authored Ground / Positional Delegation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "A29",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A29 \u2014 Power / Delegated Labour / Return",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "A30",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A30 \u2014 Objective Co-Internality",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "A31",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A31 \u2014 Deferential Intelligence",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "A32",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A32 \u2014 Reflective Field / THE MIRROR THAT MOVES FIRST",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "C06",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C06 \u2014 Copula / Identification-with-Difference",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "C17",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C17 \u2014 Vikalpa\u2013Sa\u1e43kalpa",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "C21",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C21 \u2014 Living Symbol / Idol",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "C27",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C27 \u2014 Protected Account / Occupied Zero / Source-Claim",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "C38",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C38 \u2014 Bimba\u2013Pratibimba / Bimba Map",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "C41",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C41 \u2014 Objective Internality",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "C42",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C42 \u2014 Objective Co-Internality",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "C53",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C53 \u2014 Power / Delegated Labour",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "C55",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C55 \u2014 Reflective Field / Mirror That Moves First",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "etymology-encounter-region-name-count",
+        "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: encounter-region-name-count",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      },
+      {
+        "target": "etymology-arbitration-hybris-regard-anamnesis",
+        "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: arbitration-hybris-regard-anamnesis",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/mytheme/README.md",
+    "additional_required_inputs": [
+      "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+      "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      ".agents/skills/return-of-zero-pages/SKILL.md",
+      ".agents/skills/return-of-zero-links/SKILL.md",
+      ".agents/skills/return-of-zero-source/SKILL.md",
+      "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/WHOLE-before.md",
+      "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      ".wayfinder/maps/t20-t21-world-registers.md",
+      "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/source-recovery.json",
+      "submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md",
+      "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/coverage-rows.json",
+      "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md"
+    ],
+    "target_operation": "Racial-colonial embodied history makes mask meaningful; no generic disguise allegory can replace its source world.",
+    "whole_figures_and_relations": "Colonial language/status; Antillean speaker; metropolitan French; white gaze; lived Black body; historico-racial schema; epidermal racial schema; imposed mask; recognition field",
+    "whole_sequence": "Colonial history preweights language/recognition\u2192speech opens access and alien measure\u2192racial hail reorganises body-schema\u2192mask becomes self-administration\u2192recognition relation itself requires revision.",
+    "specific_boundaries": [
+      "All four current QL/OCI/idol/category comparisons remain human-amplified:no. Chameleon is user-lived separate source, not Fanon\u2019s governing image.",
+      "Preserve every existing human-amplified: yes/no locally; no existing no-edge is upgraded by programme execution authorisation.",
+      "Whole narration precedes element amplification; ending/aftermath qualifies beginning. Every interpretive edge keeps human-amplified:yes/no. No canonical motif/character identity by stealth.",
+      "Raw sixfold must be derived from this whole\u2019s own movement; no Definition/Operation/Pattern/Context glossary. The form may host source/story/amplification substructure without turning its positions into universal semantics."
+    ],
+    "source_or_telling_blockers": [
+      "Fanon French/English edition and SOURCE absent; chapter/page locators and gendered/sexual argument scope needed before publication expansion."
+    ],
+    "status": "binding-complete-evidence-and-amplification-boundaries-retained",
+    "canonical_write_authorised_by_this_file": false,
+    "restoration_acceptance": [
+      "Intact telling and active figures available, not topical illustration.",
+      "Original developed operation surfaced; direct authored wording/provenance preserved.",
+      "Every materially consumed source and sibling NOTES read in full by writer; acquisition/edition debt scoped exactly.",
+      "Written A/C/E and cross-whole relations return to exact occurrences; unratified edges remain no.",
+      "Argument-depth backcheck and T22 receipt report actual restored operations and undisclosed debt."
+    ],
+    "identity_discrepancy": {
+      "census_record_id": "mytheme-narrative-fanon-language-gaze-mask-recognition",
+      "existing_frontmatter_record_id": "mytheme-narrative-fanon-language-gaze-mask-recognition",
+      "standing": "Existing canonical frontmatter identity governs. Parent will correct working census/bindings/dispositions uniformly; no canonical rename or invented alias."
+    },
+    "source_read_obligations": [
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+        "notes": null,
+        "notes_policy": "Full read, authorial provenance, never mutate",
+        "read_coverage": "Existing full-read shared receipts or new mytheme preparation source receipt; writer must reread complete material source/notes",
+        "readiness": {
+          "citation_status": "internal-ready",
+          "quote_status": "excerpts-indexed-internal"
+        }
+      }
+    ],
+    "binding_readiness": {
+      "input_addresses_and_ranges": "validated",
+      "full_source_read_coverage": "preparation full reads or exact shared full-read receipts; writer repeat obligation remains",
+      "source_expansion": "blocked only at named external/telling gates, never resolved by weaker paraphrase",
+      "amplification": "unratified interpretation remains no; programme authorisation does not manufacture human encounter"
+    },
+    "actual_record_id": "mytheme-narrative-fanon-language-gaze-mask-recognition",
+    "dispatch_status": "authorised-bounded-T20-world-batches",
+    "previous_canonical_home": "submission-package/essay/symbolon/mytheme/narrative/fanon-language-gaze-mask-recognition/WHOLE.md",
+    "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json"
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A02",
+      "path": "working/p2-enrichment/argument-depth/A02.md",
+      "sha256": "76e00fc0f74e87943001d805b6864674755b716d32550a33d2def2a546a0b927"
+    },
+    {
+      "argument_id": "A06",
+      "path": "working/p2-enrichment/argument-depth/A06.md",
+      "sha256": "aa37546fe2562ff16391e2c453022ae597c08cc431ec6c9660891d6c30ffbbad"
+    },
+    {
+      "argument_id": "A07",
+      "path": "working/p2-enrichment/argument-depth/A07.md",
+      "sha256": "8f6aae272cc86877286b844e6fa65911c05885d3e50b388179ed623294406e01"
+    },
+    {
+      "argument_id": "A20",
+      "path": "working/p2-enrichment/argument-depth/A20.md",
+      "sha256": "31e8980f2955a784f02b5f84b1e6c63bdcf3a22cb25e24afec678c19a166c2c2"
+    },
+    {
+      "argument_id": "A21",
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "sha256": "7cfe91ec6423eff272001a99a672cc1e3d02b3eb5cc35ae9e142077660912779"
+    },
+    {
+      "argument_id": "A24",
+      "path": "working/p2-enrichment/argument-depth/A24.md",
+      "sha256": "8ec2f6a4ee88586748f4519523c84d2ca141c37d04c86f785a001dccfa527c5b"
+    },
+    {
+      "argument_id": "A25",
+      "path": "working/p2-enrichment/argument-depth/A25.md",
+      "sha256": "eaeeae9754e349e495e21dd60bf83d380fa3eaac3d54b9d33b779ec72775139b"
+    },
+    {
+      "argument_id": "A26",
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "sha256": "9542b35c8445445bc02ebe6b1a1ba2ccf67f2aa7da50335fbe3180d595c1eb63"
+    },
+    {
+      "argument_id": "A27",
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "sha256": "2480e3c0322aa54e36bcd924ec3e60cb6e3430372125ad215d12f56b583080e0"
+    },
+    {
+      "argument_id": "A28",
+      "path": "working/p2-enrichment/argument-depth/A28.md",
+      "sha256": "a998591196094d47e4cf8c2e52beccfae29e85b7f95752c35daf1a0f16ae9b1e"
+    },
+    {
+      "argument_id": "A29",
+      "path": "working/p2-enrichment/argument-depth/A29.md",
+      "sha256": "df16db3f0dc451847aab076658d7050e9ec888cad3618bd975c3162204c6a1ee"
+    },
+    {
+      "argument_id": "A30",
+      "path": "working/p2-enrichment/argument-depth/A30.md",
+      "sha256": "72f7883f3955b05bb3448dcdfee87b5f0cd4e76d16de37fe922b20f995643e62"
+    },
+    {
+      "argument_id": "A31",
+      "path": "working/p2-enrichment/argument-depth/A31.md",
+      "sha256": "2e8a2e463260bfd1e194037a5bba48cddfb06aaad1d8fc71e87003de0d10d1c7"
+    },
+    {
+      "argument_id": "A32",
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "sha256": "8d7f5d6f98f61bb3011360c0ef68b0681989c97a8f224c2c549668ef167ca428"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/WHOLE-before.md",
+      "sha256": "3c170c15309739eba7c0b35660891fdf63b4bb5059371cf06ffe0ed2421be074"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/fanon-1952-extracted.txt",
+      "sha256": "0092872afb45707f244617fca7e8b16a952f9a068d15c742255805a6f32533a2"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/fanon-1952-electronic.pdf",
+      "sha256": "a1dc1f996b93017d32b4679eb0838311876ee7cfc53f1ee8ade74ec67afdf123"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "sha256": "b348adc7004f5d0daf4ea4f62f6b081edc5e5dcccdfbad83746a2f2e9e59f849"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "sha256": "28850b09ec98706395603cb8452b67aa1722959879a8a9ab809931015b80bf06"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "sha256": "7c1d7ce223fb6dc097da729be23f2fdfdc38b90844fa96e71ba644779c1e3f7e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "sha256": "74968c4e9f645e849065aee47a48d98b647c5e6d4dfb6e4c19d6a6c4ff61a55e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "sha256": "1e7b07e1d370c70b58ba00d76948b5ccbc8ca854f930f8ff0af5e1fe5dd52d98"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "sha256": "531b7c5e83341d829c782f75c978e0be65291c62cf016c889babe9a049380a97"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "sha256": "1777405f8bc6771ae57c1a70cff9c0544347aac43f6ba7579b78b2d128930978"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "sha256": "ee9c1810f1453f6eb9021f8fad7a6babd3e9cb4f558acd8a73f75d4f4b087341"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "sha256": "ad98ab5646e4148cfe2da50f00ea84e7c9ba341d2ac5ed28870850a799b8b57e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "sha256": "1b66215f54c44ca0b85360ddbc0c389ee352bfd67b3034608032552e3a5ff5ad"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "sha256": "8e92da77a8df41890086bd67e5283c0f1b35096522f56fb57bb7daf3f2c63b21"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "sha256": "61d16504e31c3e92bf62081847a6e50cffbcce4a07390539ece9d0acc9fcd2f1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "sha256": "082712d78d00e8297f4b4664d06d8d4e800e98135d9759af150ab92680a982eb"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "sha256": "1d01b3f7c5482873cc165905fb0d034a68f58becd02dae545e303541a6ac2e7f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "sha256": "2795949e322a0efaa19d7dc65899f86337fab196c1587edbd325ebab06929a75"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+      "sha256": "4986ca50ff5f68c5e2df63d6505e51b8858cd8534d319b56eb85bf1b5272a5b6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "sha256": "bb9278b7143dcd3ae47df3e078f49add3acccf8a87f33e7e55ef6ce08f3be107"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "sha256": "e6abdda15c114f4e2ffe216a0da62515889bedbf0efac057750aa5124305201a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "sha256": "5a19659079a27043e7ea3322c6b32a37bcd37838f997a5e082f075863dd56e32"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "sha256": "9fc8bfca8b7a38e5e5980c2d1d30e0f659e2fb2ca9c6fb885cc120acbb6f7c9c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "sha256": "8307f5eabd57fc9aa0420a98840074983fae9a76f274029c119a515282ae1625"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "sha256": "e8e3855f06430fe3747f2f745ec7d4c94162030aaf63c0c6a95d5020eb3147d2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "sha256": "908257d25e7b0229ffaeecf83e907ceb7a326dca9fa76aa11130ab828111fdde"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "sha256": "d4b81b68d1949f223105b2245cb3b077917fb0be9fd792e245e5e90dad553df3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "sha256": "64e6f0835189646094c39396d8464ba798ed3f2a74a1de869f70c56b057a2438"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "sha256": "cc87e8115efa30cbf2407acc7dffcb356414ce2d380ca25d061adc3690f3f872"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      "sha256": "6474225a3550ec632cef24ad988ec2ad17295a63bd65e4e3fdec1614db90639f"
+    },
+    {
+      "path": ".wayfinder/maps/t20-t21-world-registers.md",
+      "sha256": "a7589d1b663854888c3767854478a9ea4564a988d770af24f2d30e7ac07204a0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "sha256": "3e64c000294d3a13a15e0617f35dcbe5c0f5424b13758b2ae72e9b56e405e832"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/source-recovery.json",
+      "sha256": "3a0e396ed6125fa8aa9ad849d7433a753941ce3a9c472f07eeea76c7f63a16bc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md",
+      "sha256": "018e6d46b9f31756469f9aca6ca143757f55185ca6b093673f47b6474e7a91a3"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/coverage-rows.json",
+      "sha256": "9c39ed2b823476a748364994fb260b7791624fd6b5775a1fb1a6c6732e3dec1e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/README.md",
+      "sha256": "20e220d9d9b35ac86584b154219ce263a4077b4ecb10229787ef22417f3be825"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-fanon-2026-09-08/WHOLE-before.md",
+      "start_line": 1,
+      "end_line": 214,
+      "relation": "Racial-colonial embodied history makes mask meaningful; no generic disguise allegory can replace its source world.",
+      "provenance": "Canonical whole source recovery with relation-local human-amplification state",
+      "sha256": "3c170c15309739eba7c0b35660891fdf63b4bb5059371cf06ffe0ed2421be074",
+      "text": "---\ntitle: \"Fanon \u2014 Language, White Gaze, Racialised Body, Mask, and Recognition\"\nrecord_id: mytheme-narrative-fanon-language-gaze-mask-recognition\nrecord_type: whole-mytheme\nregister: mytheme\ndomain: narrative\nstatus: living-source-recovery\nhuman_amplification: relation-local\nsource_readiness: primary-work-scenes-recovered-exact-edition-page-debt\n---\n\n# Fanon \u2014 Language, White Gaze, Racialised Body, Mask, and Recognition\n\n`[[working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW|Mytheme Whole-Story Amplification Law]]` **defines** the direction of this record. The primary carrier is not \u201cmask,\u201d \u201cchameleon,\u201d \u201cpersona,\u201d \u201ccode-switching,\u201d \u201crace,\u201d or \u201crecognition\u201d as a generic symbolic key. It is the **lived and historical relation Frantz Fanon develops across *Black Skin, White Masks***: colonial language and status; racialised recognition; the white gaze reorganising bodily self-experience; internalised social scripts; and the demand for a human relation not fixed in advance by the colonial image.\n\nThis record is a **project-composed whole-source field across distinct chapters and lived scenes in Fanon's book**, not a claim that Fanon presents one continuous narrative under this title. The chapter differences remain recoverable.\n\nThe field is admitted now because Native 020 had deliberately left `mask / chameleon / Fanon` blocked rather than use a private or generic identity example in place of the actual racial-colonial source relation.\n\n---\n\n# 1. Chapter 1 \u2014 language is entry into a world, not a neutral costume\n\nFanon's opening treatment of **language** establishes the social depth of the mask problem. For the colonised Antillean, mastery of metropolitan French is not merely acquisition of another instrument. Language carries a civilisation, prestige hierarchy, education, authority and an implied position relative to colonial culture. Speech can therefore change the social world through which the speaker is heard and can also reorganise how the speaker measures himself.\n\nThe source-side relation is:\n\n```text\ncolonial world already distributes prestige / humanity / authority\n        \u2193\nmetropolitan language bears that world socially\n        \u2193\ncolonised speaker acquires / performs the prestige language\n        \u2193\naccess and recognition can increase\n        \u2193\nthe speaker is also invited to evaluate self and others through the coloniser's measure\n```\n\nThe important distinction for Native 020 is already present: **adaptation can be real capability and real alienation at the same time.** The problem cannot be solved by declaring every acquired mask false, because the linguistic capacity genuinely opens domains of action. Nor can the social meaning of the adaptation be ignored, because the field has already attached racial and civilisational value to the mode of speech.\n\n---\n\n# 2. The lived racial scene \u2014 the body is returned through an imposed historical image\n\nIn the book's central phenomenological treatment of Black embodiment, Fanon describes a public encounter in which he is racially hailed and objectified through the white gaze. The scene matters as a **whole event**:\n\n```text\nFanon moves through an ordinary public world\n        \u2193\na white social field identifies him racially\n        \u2193\nexisting stories / fears / stereotypes arrive with the identification\n        \u2193\nhis lived body is no longer available only through his own practical bodily orientation\n        \u2193\nhe is made to encounter himself as the object of an already prepared racial image\n```\n\nFanon uses the scene to revise the phenomenological body-schema problem. His bodily self-relation is not formed only by immediate sensorimotor life. A **historico-racial schema** has been socially prepared from accumulated stories, anecdotes, classifications and colonial history; under the racialising gaze this becomes an **epidermal racial schema**, attaching the inherited field to visible skin and reorganising lived possibility.\n\nThe source whole therefore shows exactly why the category can seem to \u201cknow\u201d the person before encounter. The category is backed by a historical world which has already decided what the visible body signifies.\n\nThis is not merely an error inside another individual's private mind. It is an **objective-internal world** in the ordinary project sense: language, cultural images, institutions, remembered histories, expectations and affects have already been organised before the encounter and enter it as conditions.\n\nThat last sentence is a project comparison, not Fanon's terminology.\n\n---\n\n# 3. Mask \u2014 recognition purchased through an alien measure\n\nThe book's title gives the mask image its full relation. \u201cWhite mask\u201d cannot be reduced to conscious deception or theatrical disguise. Across Fanon's analysis, colonial recognition can require the Black subject to approach language, culture, desire and self-image through standards whose authority comes from a white colonial world.\n\nThe mask therefore belongs to a field of **recognition and self-administration**:\n\n```text\nsocial field establishes a racial hierarchy of recognisable humanity\n        \u2193\naccess / prestige / safety / intelligibility are distributed through that hierarchy\n        \u2193\ncolonised subject can learn forms recognised by the dominant world\n        \u2193\nthose forms become real capabilities and interfaces\n        \u2193\nthe dominant measure can also become internal criterion\n        \u2193\nself and others are judged through a world that first judged them\n```\n\nThis is stronger and more historically exact than a generic \u201cpersona hides the true self\u201d reading. The mask can be an adaptation to a world whose recognition is materially consequential. Its cost is not falsity alone; it is the possibility that the **condition of social appearance has already been racialised by another's measure**.\n\n---\n\n# 4. Recognition \u2014 the problem is relational, not private self-esteem\n\nLater in the book Fanon makes recognition explicit. Colonial racialisation creates a relation in which the Black subject is forced into comparison and into proving value against a hierarchy whose standard is already white. The resulting struggle cannot be cured simply by a stronger private image of the self if the social relation which distributes recognition remains intact.\n\nThe whole-source field can therefore be written:\n\n```text\ncolonial history / racial classification\n        \u2193\nprestige language \u00b7 images \u00b7 institutions \u00b7 white gaze\n        \u2193\nrecognition field is pre-weighted\n        \u2193\nBlack body / speech appears through inherited racial schema\n        \u2193\nadaptation / mask can open access\n        +\nmask can internalise the judging measure\n        \u2193\nfreedom requires more than changing the local self-image\n        \u2193\nthe relation of recognition itself must become revisable\n```\n\nThis is the source-bearing depth Native 020 needed before using \u201cmask/chameleon\u201d in the wider image/idol argument.\n\n---\n\n# 5. Chameleon \u2014 current project status\n\n**Chameleon is not Fanon's governing image in this source whole.** It belongs to the user's wider lived / symbolic intake as a possible image of adaptive modulation across worlds. Native 020 must therefore keep the provenance exact:\n\n- **Fanon** supplies the racial-colonial language / gaze / embodiment / mask / recognition field;\n- **Jungian persona** supplies a separate psychological history of socially adapted presentation;\n- **chameleon** remains a project/lived image whose exact owning scene and human amplification must be recovered before it becomes a public archetypal index.\n\nThe three may later be compared. They must not be presented as one inherited doctrine.\n\n---\n\n# 6. Human-amplified ledger\n\nThe present record recovers source structure. It deliberately limits project symbolism.\n\n## 6.1 Mask as adaptive interface with a double edge\n\n**human-amplified: no**  \n**system candidate:** Fanon's field may strongly qualify Native 020's current mask/persona definition: a socially readable interface can genuinely open access while forcing the bearer to administer self through an inherited measure.\n\nThis relation is close to the user's current architecture but has not yet been explicitly ratified as the author's Fanon appointment.\n\n## 6.2 Category before encounter\n\n**human-amplified: no**  \n**system candidate:** Fanon's racialised bodily scene can strongly **figure** the project's formula that \u201cthe category is permitted to know the person before encounter.\u201d\n\nThe source whole supports the comparison because Fanon's historico-racial schema literally precedes and reorganises the encounter. The project's formula remains its own compression.\n\n## 6.3 Objective Co-Internality\n\n**human-amplified: no**  \n**system candidate:** the source may later deepen Objective Co-Internality by showing that two inward centres do not meet across an empty gap: historically produced social images already mediate what each is able or permitted to see in the other.\n\nNo software or general metaphysical claim should be projected back into Fanon.\n\n## 6.4 Idol / image\n\n**human-amplified: no**  \n**system candidate:** racial image can compare with the idol field where an inherited representation is allowed to overrule the living bearer and protect itself from returned evidence.\n\nThe racial-historical specificity remains primary and is not interchangeable with theological idolatry or technical classification.\n\n---\n\n# 7. Cross-whole returns now available\n\nOnly now can the mask field be compared safely with other recovered wholes.\n\n### Number Six\n\nThe Village assigns a number which institutionally precedes encounter. Fanon's racial schema is different: its category is historically embodied, socially reproduced and attached to visible race rather than assigned by one fictional administration. The comparison may concern **pre-completed recognition**, while the differences remain essential.\n\n### Apollo \u00b7 Daphne\n\nApollo's projected image of Daphne overrules her refusal. Fanon's field concerns a racial image produced by historical power rather than erotic pursuit. The common operation, if later ratified, is that a prepared image can become more authoritative to the perceiver than the living subject who appears through it.\n\n### Moving mirror\n\nTechnical models can inherit historical categories and return them before encounter. Fanon provides a source-bearing human history of such prefiguration; the moving mirror adds machine-mediated causal recursion. The technical relation therefore **extends** rather than replaces the racial source field.\n\n### Attica\n\nAttica shows a legitimate determination retaining the unchosen contrary. Fanon's field shows a social determination whose authority is already racialised. Their difference is useful to the arbitration architecture: not every binding category has the same legitimacy, genesis or capacity for return.\n\n---\n\n# 8. Source control\n\n**Primary owner:** Frantz Fanon, *Peau noire, masques blancs* (1952), translated into English as *Black Skin, White Masks*.\n\n**Current source structure recovered:**\n\n- language / colonial world and recognition in the opening chapter;\n- lived Black embodiment and historico-racial / epidermal racial schema in the central phenomenological chapter;\n- recognition/comparison in the later recognition discussion;\n- the book's title-field as the governing mask problem.\n\n**Scholarly control used for this recovery:** contemporary scholarship on Fanon's corporeal, historico-racial and epidermal schemata confirms that the racialised body-schema is socially/historically constituted and that the white gaze becomes incorporated into lived self-experience.\n\n**Still owed:**\n\n- choose and install the authoritative French and English editions used by the submission;\n- exact page/section locators for language, historico-racial schema, epidermal racial schema and recognition;\n- keep Fanon's gendered/sexual arguments source-specific and do not silently generalise them;\n- any chameleon, Jungian persona, QL, Objective Internality or technical-model comparison remains project-side unless explicitly sourced and human-amplified.\n\n---\n\n## Return statement\n\nFanon's mask becomes intelligible only inside the colonial world that makes it necessary. Language carries prestige and civilisation; the white gaze arrives with histories and stereotypes already attached to the visible body; those inherited meanings reorganise bodily self-experience; adaptation can therefore become both capability and alienation; recognition can be purchased through a measure that was imposed before the encounter began. **Native 020 can now speak about mask, adaptive interface and pre-completed recognition without converting racial history into a generic metaphor\u2014provided every later abstraction returns to this lived and historical whole.** The final sentence is a system synthesis and remains `human-amplified: no` pending Frank's ratification."
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "start_line": 475,
+      "end_line": 532,
+      "relation": "Recovered mask/image category-before-encounter operation; private chameleon held apart from Fanon; source-bound comparison retains no",
+      "provenance": "Ratified Native020 whole programme, unchanged full prior read reused",
+      "sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0",
+      "text": "## Three recovered stories inside the ecology\n\n### Daphne \u2014 the image outlives the escaped source\n\nApollo cannot possess the living Daphne. The laurel remains and is made Apollo's emblem. The story therefore shows a particularly sharp idolatrous possibility: **symbolic possession can continue after the living Other has withdrawn from the relation that gave the symbol meaning**.\n\n### Job \u2014 the God-image can be defended against God/reality\n\nThe friends protect a moral/theological account by bending Job back into it. Jung later radicalises the point through the God-image itself. The project receives the operation as the possibility that fidelity to a representation of ultimate authority becomes the means by which contradictory lived reality is excluded.\n\n### Number Six \u2014 a category can know the person before encounter\n\nThe Village assigns a number and treats the assigned position as administratively sufficient. Six's refusal does not show that predicates are always false. It shows that **a true or useful predicate becomes tyrannical when the institution denies the excess of the subject over the designation by which it can act upon him**.\n\nTogether the stories produce the living image/idol distinction at a depth no definition can carry by itself.\n\n## Category before encounter\n\nThe mature formulation from this thread is:\n\n> **the category is permitted to know the person before encounter.**\n\nThis is a general operation of idolatrous measure. A racial identity, political identity, psychiatric category, credential, spiritual identity, scientific model or technical ontology can all be necessary and locally truthful determinations. None is dangerous merely by being determinate. The danger is that the category completes the encounter in advance and makes the living bearer answerable to the image while the image is no longer answerable to the bearer.\n\nThis is where regard returns. The image remains alive when encounter can revise it. It becomes idol when the other is permitted only to confirm the image already installed.\n\n## The mask/chameleon seam \u2014 held for deliberate recovery\n\nThe current authorial thread has opened a materially important **mask/chameleon** seam around racialised and cultural adaptation, including the Fanonian field: a socially legible mask can grant access to a world while simultaneously requiring the wearer to reproduce the measure through which that world renders parts of the wearer illegible. This is potentially a strong Objective Co-Internality and identity-politics aperture.\n\nNative 020 deliberately does **not** publish private biographical detail or flatten the racial-historical field into a generic metaphysical example. The seam is recorded for a dedicated, source-bearing recovery in which Fanon, mask/persona, adaptive code-switching/chameleon experience, recognition and self-administration can retain their historical and lived specificity before any public argumentative use.\n\n## Avatar and faithful form\n\nThe positive side matters just as much. The essay is committed to form. O:I and Epi-Logos themselves are attempts to let a formless or unobjectifiable ground become operative through concrete forms without those forms pretending to contain it.\n\nThe healthy avatar/image relation is therefore **incarnational without being idolatrous**:\n\n- the form is real;\n- the form can act;\n- the form can be loved, trusted, revised and inherited;\n- the form bears source/provenance;\n- the form remains mortal and revisable relative to what exceeds it.\n\nThis joins `Symbolon`: the separated half works because it carries the absent relation rather than replacing it.\n\n## What full recovery changes\n\nA standalone concept called \u201cidol\u201d would make the field moralistic and static. The whole image ecology shows why idolatry is tempting: images are precisely how invisible, inward, distributed or absent realities become socially effective. **The danger grows from the success of mediation.** The more an image can organise libido, identity and action, the more power it has to be mistaken for the source it mediates.\n\nFor #39, Avatar/Image/Mask/Idol may require several distinct concepts while remaining one Mytheme ecology. Their boundaries should be derived from the whole relation rather than made synonymous:\n\n- avatar \u2014 finite manifestation carrying wider presence;\n- image/pratibimba \u2014 situated display/reflection;\n- mask/persona \u2014 adaptive interface for participation;\n- idol \u2014 representation closing its route of return.\n\n**Source debt:** Sanskrit *avat\u0101ra* and the particular theological traditions intended; Jungian persona/image/God-image source passages; Bimba/pratibimba primary \u015aaiva depth; icon/idol histories if used historically; and the separate Fanon/mask recovery above."
+    }
+  ],
+  "raw_skeleton": "# fanon-language-gaze-mask-recognition\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5\u21920",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

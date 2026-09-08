@@ -1,0 +1,36 @@
+{
+  "root": {
+    "id": "WHOLE-FIELD",
+    "title": "Whole Field — Arbitration / Hybris / Regard / Anamnesis",
+    "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Whole Field — Arbitration / Hybris / Regard / Anamnesis",
+      "Evidence discipline",
+      "Conjugate field",
+      "Argument consumption",
+      "Concept consumption",
+      "Relational form growth",
+      "Return"
+    ],
+    "sha256": "df74b9f7bcdcdee7123067be678e325a76ecb8cf6a14d478056f4afae417c634"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

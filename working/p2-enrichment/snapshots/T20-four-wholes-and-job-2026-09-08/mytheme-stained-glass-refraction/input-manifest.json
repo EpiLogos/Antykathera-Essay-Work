@@ -1,0 +1,231 @@
+{
+  "status": "immutable source-byte snapshot",
+  "inputs": [
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1",
+      "bytes": 3624
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a",
+      "bytes": 6289
+    },
+    {
+      "path": ".wayfinder/maps/t20-t21-world-registers.md",
+      "sha256": "a7589d1b663854888c3767854478a9ea4564a988d770af24f2d30e7ac07204a0",
+      "bytes": 22826
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+      "sha256": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "bytes": 235832
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md",
+      "sha256": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "bytes": 46870
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "bytes": 763400
+    },
+    {
+      "path": "submission-package/essay/quilt/agentworld-response-matrix.md",
+      "sha256": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "bytes": 60000
+    },
+    {
+      "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+      "sha256": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "bytes": 85670
+    },
+    {
+      "path": "submission-package/essay/quilt/ql-expression-grammar.md",
+      "sha256": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277",
+      "bytes": 8632
+    },
+    {
+      "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+      "sha256": "053b3c5cb6fcb8a9895b14aebf1df3921d04646cf1b61493243cf03c8ae178c4",
+      "bytes": 5276
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+      "sha256": "5d58105408c9921db7312f470142edda1dc01a5a0bbeb34398ab4ace73511988",
+      "bytes": 6412
+    },
+    {
+      "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md",
+      "sha256": "397bc3619cbbb2a43dbfb4c9f776825d56d92ed1259694bd4d76fa366c89b2a8",
+      "bytes": 3080
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "sha256": "f9a72c47f5ced64dd9101b42405262707bfa0f3d361001de3a70e96fe9131fa4",
+      "bytes": 12532
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "sha256": "663e3b8b7a5a502cfe2382a2794bc087963cbc1bef5fd907719d0189abb82120",
+      "bytes": 10858
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "sha256": "d54ea76954ccf1648326ca90f89287640e38011d7d057ae6fa596e5f71dda493",
+      "bytes": 11078
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "sha256": "a2d8f28cb507631a43dd95b65bd4032a3e3fae6fad709f088cdf70099afca27e",
+      "bytes": 8464
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "sha256": "46353e7465a50fd66f6381cddcec08c4bf6b75c4911875cb5e4329bb6a25b6a9",
+      "bytes": 7102
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "sha256": "b0324d7bfcddc7bb31be6c4abe1e6ab476f8c609292c489846b45002125e1fbe",
+      "bytes": 4309
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "sha256": "38153fe262b742a672f7a3379b1abec166a24506f2bf5fc2032229d45b3737e7",
+      "bytes": 4551
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+      "sha256": "a2c9746c0610c7154764fb46a02f6ec8c03324db7db6607ec93afc3d33abb74f",
+      "bytes": 5332
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+      "sha256": "119db75ad7cf485ae9ad5bb33437785bdbb9acbc1fcfe981cafd9e4bc7959c65",
+      "bytes": 59274
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "bytes": 22575
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md",
+      "sha256": "e1a1622c3c5b3789e177a54ebd55ecf22b4b752361485c20176ed7bd85c1f450",
+      "bytes": 2095
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "sha256": "0976dcd50c7294983866760c2938509c0d296a4917be9516792ec9ec329d37f7",
+      "bytes": 4931
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+      "sha256": "625eed9f1ef4116f983c084601f78f7287275d212646fa997242081bf59bf28e",
+      "bytes": 7305
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-1980-wholeness-implicate-order/SOURCE.md",
+      "sha256": "60cd8570abea86ee0e415b60b059c62a59cc7e7f63aea2bb2775083f82922107",
+      "bytes": 2283
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/README.md",
+      "sha256": "20e220d9d9b35ac86584b154219ce263a4077b4ecb10229787ef22417f3be825",
+      "bytes": 10907
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "sha256": "b348adc7004f5d0daf4ea4f62f6b081edc5e5dcccdfbad83746a2f2e9e59f849",
+      "bytes": 19639
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+      "sha256": "cfb12675ff193ac3bf38f4ecb2e7f4a16637b1198cfedb7d3d205ed6027c5b3a",
+      "bytes": 9241
+    },
+    {
+      "path": "working/p2-enrichment/T20-quilt-to-whole-coverage.json",
+      "sha256": "e3d8f3a04798bb0edb9ac6d2b0cd442b1d654d92474475eed535a525482d5c75",
+      "bytes": 1147175
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A04.md",
+      "sha256": "0b65287f0c7a7d5a0206f003b2cdbe4e4afd7025f104ce60bfec897b7ef228fa",
+      "bytes": 18434
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A05.md",
+      "sha256": "d7992ff692cd1b0babef8b84157438fa89c92e5eefaa2a6b9752816e5ca23da9",
+      "bytes": 17908
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "sha256": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45",
+      "bytes": 25713
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A22.md",
+      "sha256": "cc4786c82ef3cb7ea0e799b910fec2ec50108b3cd2316635e4ac4f7ddb06c3d3",
+      "bytes": 23481
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-four-whole-admissions-and-job-preparation-2026-09-08.json",
+      "sha256": "9261d994c748f8d47e07eee84b8baf26e2e21240c51a780507cd0df6c243fd2b",
+      "bytes": 3909
+    },
+    {
+      "path": "working/p2-enrichment/receipts/depth-acceptance.json",
+      "sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+      "bytes": 9607
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-stained-glass-refraction/census.json",
+      "sha256": "6cc71266f971420462e1f2f0ae30903692a3927d4f84756e593d74d1da68c608",
+      "bytes": 75740
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08/mytheme-stained-glass-refraction/queue.json",
+      "sha256": "a99f00b565752f0b3f1076caa4651a64112289e476a34125440c58bdca28c8b2",
+      "bytes": 67999
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "bytes": 99465
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
+      "sha256": "ba7b16ed0a51c4c91957336ff784cecf98153805281d5d6848b1b0d2450bcc78",
+      "bytes": 4666
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "sha256": "e3a57cce16073324c647f808dcdd485541cbf3c85be87f9000655651b21322a6",
+      "bytes": 24291
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+      "bytes": 124906
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0",
+      "bytes": 82771
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66",
+      "bytes": 152226
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7",
+      "bytes": 62338
+    }
+  ],
+  "policy": "Use matching live bytes or archived originals. Never restore over canonical files. SOURCE/NOTES distinction and authorial provenance remain binding."
+}

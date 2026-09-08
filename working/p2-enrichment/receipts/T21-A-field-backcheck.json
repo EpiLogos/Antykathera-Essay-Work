@@ -1,0 +1,2291 @@
+{
+  "schema_version": 1,
+  "title": "T21 — bounded A01–A36 field backcheck",
+  "standing": "Read-only semantic preflight; not full T21, T22, source, reference-note, section-alignment or publication completion certification.",
+  "apply_gate": "Parent applies only after the T20 barrier and rechecks current hashes and migrated whole destinations.",
+  "head_at_read": "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138",
+  "scope": {
+    "canonical_arguments": 36,
+    "accepted_depth_inputs": 36,
+    "mature_etymology_wholes": 6,
+    "canonical_edits_performed": 0,
+    "permitted_outputs": [
+      "working/p2-enrichment/receipts/T21-A-field-backcheck.md",
+      "working/p2-enrichment/receipts/T21-A-field-backcheck.json"
+    ]
+  },
+  "method": [
+    "Read current A bodies against accepted direct-recovery/disposition operations; substantial completed work is credited. A source or packet's old pending label is not evidence that current argument prose is missing.",
+    "Read all six mature WHOLE-FIELD and HISTORY bodies, relational growth, Ought-Be architecture, archaeology seams, native 018/#39 transfer and corrected T20–T21 map. A whole-field relation is not inferred from shared vocabulary.",
+    "Read the native theorem spine across its eight determinations, sequence and inversions. Supporting-file recovery remains identified inherited coverage; this pass does not claim to have personally reread every deep supporting file or all source/NOTES collections.",
+    "An exact operation may be expressed semantically rather than by repeating its heading. Evidence register 3 stated in the owning linked whole counts; its absence as a repeated numeral in A is not cross-register misattribution.",
+    "Separate missing unique operation, missing address/declared reciprocal relation, source debt, and wider transferred obligation. Do not add a glossary, universal six headings, or speculative etymology.",
+    "Returned research questions below are this audit's explicit E-to-A-to-E crosswalk proposals. They are not claims that new historical evidence or a tested implementation has been produced. Where an A already performs return, a crosswalk entry can carry this further question without extra A prose."
+  ],
+  "transferred_obligations": {
+    "authority": ".wayfinder/tickets/018-argument-concept-etymology-recensus.md",
+    "remain_open": [
+      "remaining Etymology development",
+      "aphorism architecture",
+      "section-relation architecture",
+      "section-rooms ↔ arguments alignment"
+    ],
+    "local_alignment_findings": [
+      "A06: current line 78 records no explicit P1 A06 match although historical carrier declares M29/M30/M44; do not erase these consumers.",
+      "A12: lines 47/55 retain braided sections and M24/M26/M46; their coexistence does not certify full section alignment."
+    ],
+    "not_discharged": [
+      "all 162 Episteme records",
+      "all 89 reference-note dispositions",
+      "64 Concepts and 37 conjugate bodies",
+      "all historical streams",
+      "T20 whole-Mytheme completion",
+      "Movement prose or manuscript composition"
+    ]
+  },
+  "locator": {
+    "path": "working/p2-enrichment/T21-record-input-locators.json",
+    "use": "Declared retrieval edges, minimum A-depth inputs, reference-row IDs and hashes only; canonical bodies and owning E bodies decide semantics.",
+    "coverage_reported_by_parent": {
+      "records": 162,
+      "resolved_source_records": 153,
+      "etymology_target_records": 108
+    },
+    "warning": "A03–A12 explicitly name relevant E wholes in prose that the graph-derived target list can omit or supplement with inherited targets. An empty E target list is not an empty argument. No reference-note semantic certification follows.",
+    "sha256": "e44067eff8cdef3eb69b9da44401b7323c5e10db38924d8f2160f1440145bf24"
+  },
+  "effects": [
+    {
+      "query": "taylor-2026-core-theorems-pithy",
+      "exit": 0,
+      "root": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "method": "declared canonical graph and transverse-thread metadata only",
+      "consumers": {
+        "sections": 0,
+        "arguments": 15,
+        "concepts": 1,
+        "paths": 0
+      },
+      "downstream_count": 88,
+      "transverse_threads": [
+        "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+        "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+        "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md"
+      ]
+    },
+    {
+      "query": "ovid-1921-metamorphoses-miller",
+      "exit": 0,
+      "root": "submission-package/essay/symbolon/episteme/sources/classical-philology/ovid/ovid-1921-metamorphoses-miller/SOURCE.md",
+      "method": "declared canonical graph and transverse-thread metadata only",
+      "consumers": {
+        "sections": 0,
+        "arguments": 0,
+        "concepts": 0,
+        "paths": 0
+      },
+      "downstream_count": 0,
+      "transverse_threads": []
+    },
+    {
+      "query": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "exit": 0,
+      "root": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "method": "declared canonical graph and transverse-thread metadata only",
+      "consumers": {
+        "sections": 0,
+        "arguments": 0,
+        "concepts": 0,
+        "paths": 0
+      },
+      "downstream_count": 0,
+      "transverse_threads": []
+    },
+    {
+      "query": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "exit": 0,
+      "root": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "method": "declared canonical graph and transverse-thread metadata only",
+      "consumers": {
+        "sections": 0,
+        "arguments": 0,
+        "concepts": 0,
+        "paths": 0
+      },
+      "downstream_count": 0,
+      "transverse_threads": []
+    },
+    {
+      "query": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "exit": 0,
+      "root": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "method": "declared canonical graph and transverse-thread metadata only",
+      "consumers": {
+        "sections": 0,
+        "arguments": 0,
+        "concepts": 0,
+        "paths": 0
+      },
+      "downstream_count": 0,
+      "transverse_threads": []
+    },
+    {
+      "query": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "exit": 0,
+      "root": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "method": "declared canonical graph and transverse-thread metadata only",
+      "consumers": {
+        "sections": 0,
+        "arguments": 0,
+        "concepts": 0,
+        "paths": 0
+      },
+      "downstream_count": 0,
+      "transverse_threads": []
+    },
+    {
+      "query": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "exit": 0,
+      "root": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "method": "declared canonical graph and transverse-thread metadata only",
+      "consumers": {
+        "sections": 0,
+        "arguments": 0,
+        "concepts": 0,
+        "paths": 0
+      },
+      "downstream_count": 0,
+      "transverse_threads": []
+    },
+    {
+      "query": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "exit": 0,
+      "root": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "method": "declared canonical graph and transverse-thread metadata only",
+      "consumers": {
+        "sections": 0,
+        "arguments": 0,
+        "concepts": 0,
+        "paths": 0
+      },
+      "downstream_count": 0,
+      "transverse_threads": []
+    }
+  ],
+  "preservation_before_writing": {
+    "count": 690,
+    "changed": []
+  },
+  "E_fields": {
+    "E1": {
+      "name": "Encounter / Region / Name / Count / Countenance / Account",
+      "slug": "encounter-region-name-count",
+      "operations_lines": [
+        29,
+        33,
+        37,
+        41
+      ],
+      "return_line": 54,
+      "history_queue_line": 117,
+      "whole_path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "history_path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORY.md",
+      "whole_sha256": "f16b5379f11032c4ab561c418ead2619d7f43da4c3f4e89882ad3280e1c5e587",
+      "history_sha256": "9016a69d55822318e8c5cbc9bfceb59861b224047db3baeef194f9f4dbc581b1"
+    },
+    "E2": {
+      "name": "Arbitration / Hybris / Regard / Anamnesis",
+      "slug": "arbitration-hybris-regard-anamnesis",
+      "operations_lines": [
+        9,
+        48
+      ],
+      "return_line": 66,
+      "history_queue_line": 223,
+      "whole_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "history_path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+      "whole_sha256": "bd11368ddfa778184f352c976492338c9fca449ffa4822e1f59ac77e57cd3980",
+      "history_sha256": "eb0a9499bcd93db517d555c7c8fb98e69dfc0dd0baa944dc5198befca5015c7d"
+    },
+    "E3": {
+      "name": "Fides / Topos / Logos / Nomos / Natio / Credere",
+      "slug": "trust-place-logos-nomos-natio-credere",
+      "operations_lines": [
+        11,
+        23,
+        27
+      ],
+      "return_line": 31,
+      "history_queue_line": 172,
+      "whole_path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "history_path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORY.md",
+      "whole_sha256": "1d7b68a74bd23d8ab4ff5faf397bf4269f9b58d3fc2bc4aada7397fa2876680a",
+      "history_sha256": "c03b101c05bd986c07f3112fc34f70a1a539413362267f53ec06c289b1838df5"
+    },
+    "E4": {
+      "name": "Symbol / Account / Trust",
+      "slug": "symbol-account-and-trust",
+      "operations_lines": [
+        27,
+        31,
+        35,
+        39
+      ],
+      "return_line": 11,
+      "history_queue_line": 48,
+      "whole_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "history_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+      "whole_sha256": "0bbb5ef1fac69d46a68d05cb1d32b471c48147213e4d610183f003b5db78b343",
+      "history_sha256": "a46b2a8233e9cf86e93eefbe86fcc7668794632787ec54c4ead6a93dd5ae74fe"
+    },
+    "E5": {
+      "name": "Homologia / Analogia",
+      "slug": "homology-and-analogy",
+      "operations_lines": [
+        13,
+        19
+      ],
+      "return_line": 40,
+      "history_queue_line": 46,
+      "whole_path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "history_path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
+      "whole_sha256": "10f51ccc557fb7571d1dc58b2d2f5cea77da1233dfc85f2d94e0d90333d1101a",
+      "history_sha256": "ef56b85de5898c7d4caeda35634bb3be0ba139b76c5867fb1dea4d6295d32448"
+    },
+    "E6": {
+      "name": "Apportionment / Economy",
+      "slug": "apportionment-and-economy",
+      "operations_lines": [
+        13,
+        17,
+        21,
+        25,
+        29
+      ],
+      "return_line": 33,
+      "history_queue_line": 44,
+      "whole_path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "history_path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORY.md",
+      "whole_sha256": "1c1eb2a47466036834b6963fa4fbb72a36b3f1531fd24b559276a01db1c36646",
+      "history_sha256": "1b7b2439c7922798dbecd89373f8c4f770a418c83d65bfcecc28415aaa2f8004"
+    }
+  },
+  "source_reopenings": [
+    {
+      "source_id": "ovid-1921-metamorphoses-miller",
+      "coverage": "Full SOURCE read; sibling NOTES absent.",
+      "finding": "Existing source house supersedes A20 packet line 152's missing-house statement. q001–q003 support the full boast/arrows/refusal/pursuit/transformation/emblem sequence; recoil and seeming assent both retained.",
+      "remaining": "House reports digital-text quotation readiness and print-image collation Open. This pass did not independently recollate Ovid online or on print images."
+    },
+    {
+      "source_id": "taylor-2026-mef-twelve-lenses",
+      "coverage": "Full SOURCE read; sibling NOTES absent; actual local reference opening and Name/Power rotation account reopened.",
+      "finding": "SOURCE line 50 still says no recoverable local file; actual noncanonical compilation exists. A22 line 38 already correctly identifies this debt.",
+      "remaining": "Parent may repair SOURCE locality to the exact existing file while retaining noncanonical-compilation standing; this does not validate its music or external attributions."
+    },
+    {
+      "source_id": "descartes-1641-meditations",
+      "coverage": "Full SOURCE read; sibling NOTES absent.",
+      "finding": "CSM II selected; q001–q003 remain locator-recorded/unextracted. A34's native correction is not attributed to Descartes.",
+      "remaining": "Edition consultation and extraction remain independent of native Ø operation."
+    },
+    {
+      "source_id": "taylor-2026-core-theorems-pithy",
+      "coverage": "Full SOURCE read; sibling NOTES absent; complete native theorem spine recovered.",
+      "finding": "CT-08 native X/x; CT-10 quotient; CT-11–15 crossed-zero/linking-one; CT-16 companion provenance is not promoted.",
+      "remaining": "Deep four-file supporting corpus not wholly reread by this worker; shared support receipt is explicitly inherited coverage, not new personal full-read evidence."
+    }
+  ],
+  "rows": [
+    {
+      "id": "A01",
+      "completed_lines": "30–90,118–122",
+      "completed": "Performed definition reaches failure and succeeds through the disclosed condition; omni-attributes become omnivalence with real self-limitation and moral direction. Name/instance/circumstance, fourth/fifth asymmetry and first-person return are present.",
+      "observed_return": "Lines 90 and 122 return through A02/A23 and reader/source. This is a performed return, not a missing argument.",
+      "E_return": "Return the distinction between faithful definition and source-occupation to E4: what conditions let an account remain revisable while it is relied upon? E4 HISTORY must distinguish historical symbol, account and trust witnesses.",
+      "repairs": [],
+      "source_debt": "Kripke selected printing/passages; Singh introduction versus commentary and book collation; Watson 1996 thesis/1998 book and nested-source distinctions; Gebser locators. Native theological operation remains Argued; differentiated public witnesses are not recertified.",
+      "register_check": "Native God/Subject operation and moral vector retained; neither empirical AI phenomenality nor a source theorem is inferred.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "sha256": "071bb9b17daaecd29d69b91b1ff26236baf5426ca71b0bdc1ef3aa950ec024a4",
+      "depth_packet": {
+        "argument_id": "A01",
+        "path": "working/p2-enrichment/argument-depth/A01.md",
+        "sha256": "cf90a1fb09c619f8829858a7c5dda50e8f29abf61edf1a2e142dcbf4f77f63e8"
+      },
+      "minimum_declared_A_depth": [
+        "A01"
+      ],
+      "reference_rows_locator_only": [
+        31
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Symbol answers to source",
+          "consumer_line": 62,
+          "consequence": "Definition discloses without becoming the source; the reader's recognition makes another faithful account possible.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "Return the distinction between faithful definition and source-occupation to E4: what conditions let an account remain revisable while it is relied upon? E4 HISTORY must distinguish historical symbol, account and trust witnesses.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A02",
+      "completed_lines": "14–99",
+      "completed": "Identification and predication remain distinct within the copula. Count precedes naming in the operative act, without claiming a universal historical priority. Succession/memory, name/instance/circumstance and the Is→Am personal circuit preserve difference.",
+      "observed_return": "Lines 97–99 return accounting to its marks, circumstances and renewed judgment; register 3 covers the relational comparisons.",
+      "E_return": "E1 receives the difference between stable reference and exhaustible description; E5 receives identity/predication as a test of what a comparison preserves. Return their historical naming and copula witnesses separately.",
+      "repairs": [],
+      "source_debt": "External predication/indexical and Kripke evidence, Watson source distinctions and comparative theology remain source-specific; no fresh external collation here.",
+      "register_check": "Operative priority is distinguished from lexical chronology; no common root for all forms of 'is'.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "sha256": "b8bf99945de680991c2f3c95a5fb2f353f07b3832e31c7e72d1ecbf2aab75069",
+      "depth_packet": {
+        "argument_id": "A02",
+        "path": "working/p2-enrichment/argument-depth/A02.md",
+        "sha256": "76e00fc0f74e87943001d805b6864674755b716d32550a33d2def2a546a0b927"
+      },
+      "minimum_declared_A_depth": [
+        "A02"
+      ],
+      "reference_rows_locator_only": [],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E1",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "operation": "Encounter-in-Region; Count-through-Countenance",
+          "consumer_line": 51,
+          "consequence": "A counted participant can answer beyond its identification.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E1 receives the difference between stable reference and exhaustible description; E5 receives identity/predication as a test of what a comparison preserves. Return their historical naming and copula witnesses separately.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E5",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "operation": "Homological agreement; qualified respect",
+          "consumer_line": 97,
+          "consequence": "Cross-register sameness requires a specified operation and respect.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E1 receives the difference between stable reference and exhaustible description; E5 receives identity/predication as a test of what a comparison preserves. Return their historical naming and copula witnesses separately.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A03",
+      "completed_lines": "14–73",
+      "completed": "Noncoincidence is active within determination, including representation. Empty object, subset/member, ordinal successor and initial-object offices stay distinct. Crossed zero and the Bhāskara/Dutta alternative-law comparison retain their local scope.",
+      "observed_return": "Printed A03→C04/C05→A16/C20→A23/C48→A03 loop; the whole is named without a direct whole-field link.",
+      "E_return": "Return to E3 Topos the distinction between an object in a place and the placing condition. Its historical place senses require their own witnesses; formal initiality does not supply them.",
+      "repairs": [
+        {
+          "kind": "E_address_and_return",
+          "line": 73,
+          "E": "E3",
+          "action": "Link the existing whole-field name; retain the present A/C chain and append an explicit return to E3 Topos with the placing/placed distinction.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "anchor_text": "**Etymology whole field:** *Fides / Topos / Logos / Nomos / Natio / Credere*. **Consumed operation:** the *topos* branch supplies place/position as the condition under which an object can be placed, while the wider field keeps rule, word, trust and inherited belonging distinct. **Evidence register:** 2 for attested semantic fields; 3 for the operational homology between positioned determination and formal limit. **What changes:** “limit” ceases to mean a wall at the edge of a thing and becomes the condition disclosed when a determining field attempts to place itself. **Return route:** A03 → C04/C05 → A16/C20 → A23/C48 → A03.",
+          "applied": false,
+          "proposed_text": "**Etymology whole field:** [Fides / Topos / Logos / Nomos / Natio / Credere](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md). **Consumed operation:** the *topos* branch supplies place/position as the condition under which an object can be placed, while the wider field keeps rule, word, trust and inherited belonging distinct. **Evidence register:** 2 for attested semantic fields; 3 for the operational homology between positioned determination and formal limit. **What changes:** “limit” ceases to mean a wall at the edge of a thing and becomes the condition disclosed when a determining field attempts to place itself. **Return route:** A03 → C04/C05 → A16/C20 → A23/C48 → A03. **Return to the E whole:** Return to E3 Topos the distinction between an object in a place and the placing condition. Its historical place senses require their own witnesses; formal initiality does not supply them.",
+          "edit": "replace this line only"
+        }
+      ],
+      "source_debt": "Primitive-world figure locator, initial-object source, and individual formal-limit hypotheses remain distinct tasks; philosophical noncoincidence is not downgraded.",
+      "register_check": "Register 2 semantic history and register 3 comparison are expressly separated.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "sha256": "575b30a9d9fc68ed1f2ccfaf92ad4af4692625dc64a0fc052b2f81ce90b8941e",
+      "depth_packet": {
+        "argument_id": "A03",
+        "path": "working/p2-enrichment/argument-depth/A03.md",
+        "sha256": "12d3a0999ffec60d963f055cdbb1a857025a70f2a7bb46641eca20bb187b9b41"
+      },
+      "minimum_declared_A_depth": [
+        "A03",
+        "A26"
+      ],
+      "reference_rows_locator_only": [
+        12,
+        35,
+        89
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E3",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+          "operation": "Topos: placed object versus condition of placing",
+          "consumer_line": 73,
+          "consequence": "Formal limit discloses the determining position, rather than a wall around an object.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "Return to E3 Topos the distinction between an object in a place and the placing condition. Its historical place senses require their own witnesses; formal initiality does not supply them.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A04",
+      "completed_lines": "14–64",
+      "completed": "Invested contextual seeing replaces aloof domination. The corrected light/pane/projection relation, absent-Father pressure and sequential→contextual 180°→360° movement are present; no fourth pronoun is invented.",
+      "observed_return": "The existing A04→C09→A24/E-Arbitration→A31→A04 route already includes E semantically, but 'E-Arbitration' is not a direct whole address.",
+      "E_return": "E2 receives the distinction between disclosing context and being answerable through it; return to the history of regard without attributing the full generated relation to that word's descent.",
+      "repairs": [
+        {
+          "kind": "E_address",
+          "line": 64,
+          "E": "E2",
+          "action": "Link the named whole and replace the unlinked E-Arbitration token with its exact WHOLE-FIELD address; keep the existing operation and loop.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "anchor_text": "**Etymology whole field:** *Arbitration / Hybris / Regard / Anamnesis*. **Exact consumed operation:** **Con-text-through-Diaphaneity → Regard**. The generated relation is Con-text-through-Diaphaneity; *Regard* is its semantic flowering. **Evidence register:** 3, Operational homology, with later philological work on *regard* kept distinct. **What changes:** context becomes something looked through and looked back into; the determination acquires a responsibility to the conditions and others from which it arose. **Return route:** A04 → C09 → A24/E-Arbitration → A31 → A04.",
+          "applied": false,
+          "proposed_text": "**Etymology whole field:** [Arbitration / Hybris / Regard / Anamnesis](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md). **Exact consumed operation:** **Con-text-through-Diaphaneity → Regard**. The generated relation is Con-text-through-Diaphaneity; *Regard* is its semantic flowering. **Evidence register:** 3, Operational homology, with later philological work on *regard* kept distinct. **What changes:** context becomes something looked through and looked back into; the determination acquires a responsibility to the conditions and others from which it arose. **Return route:** A04 → C09 → A24/[E2 Arbitration](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md) → A31 → A04.",
+          "edit": "replace this line only"
+        }
+      ],
+      "source_debt": "Gebser quotation/edition and historical perspectivism remain independent; corrected Bimba is the authored relation, not an optical proof of metaphysics.",
+      "register_check": "Generated relation and semantic flowering are explicitly distinguished; evidence register 3 retained.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "sha256": "769bcdd5ed233756538e089506f0edd61fb6bd7b20513ea215e71dde209db386",
+      "depth_packet": {
+        "argument_id": "A04",
+        "path": "working/p2-enrichment/argument-depth/A04.md",
+        "sha256": "0b65287f0c7a7d5a0206f003b2cdbe4e4afd7025f104ce60bfec897b7ef228fa"
+      },
+      "minimum_declared_A_depth": [
+        "A04",
+        "A22"
+      ],
+      "reference_rows_locator_only": [
+        33
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E2",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "operation": "Con-text-through-Diaphaneity → Regard",
+          "consumer_line": 64,
+          "consequence": "Seeing conditions becomes responsibility to those conditions and others.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E2 receives the distinction between disclosing context and being answerable through it; return to the history of regard without attributing the full generated relation to that word's descent.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A05",
+      "completed_lines": "14–62",
+      "completed": "Inseparable luminous appearing and reflexive articulation, inert/living mirror difference, four operations/three levels, inner/outward knowing, karma/kriyā and trace/memory/imagination are developed.",
+      "observed_return": "A05→C13→A06/C51→A32/C55→A05 is printed; E4 whole is only named.",
+      "E_return": "Return the inert-image/self-apprehension distinction to E4: which source-return is performed, and which is merely represented? Keep the Śaiva passage history separate from symbol/account vocabulary.",
+      "repairs": [
+        {
+          "kind": "E_address_and_return",
+          "line": 62,
+          "E": "E4",
+          "action": "Link the existing whole name and extend the stated return from A32/A05 into E4's Symbol-answers-to-source operation.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "anchor_text": "**Etymology whole field:** *Symbol / Account / Trust*. **Consumed operation:** disclosure remains related to the source it articulates rather than turning the articulated form into the owner of appearing. **Evidence register:** 3, Operational homology. **What changes:** reflexivity is understood as self-return within appearing, not as possession of a separate internal image. **Return route:** A05 → C13 → A06/C51 → A32/C55 → A05.",
+          "applied": false,
+          "proposed_text": "**Etymology whole field:** [Symbol / Account / Trust](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md). **Consumed operation:** disclosure remains related to the source it articulates rather than turning the articulated form into the owner of appearing. **Evidence register:** 3, Operational homology. **What changes:** reflexivity is understood as self-return within appearing, not as possession of a separate internal image. **Return route:** A05 → C13 → A06/C51 → A32/C55 → A05. **Return to the E whole:** Return the inert-image/self-apprehension distinction to E4: which source-return is performed, and which is merely represented? Keep the Śaiva passage history separate from symbol/account vocabulary.",
+          "edit": "replace this line only"
+        }
+      ],
+      "source_debt": "Dyczkowski transcript ends during p.81; pp.82–91 and encounter quotations require book collation. Singh introductory synthesis and commentary retain distinct provenance.",
+      "register_check": "Line 18 expressly prevents Śaiva doctrine from becoming the historical source of native QL notation.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "sha256": "663e3b8b7a5a502cfe2382a2794bc087963cbc1bef5fd907719d0189abb82120",
+      "depth_packet": {
+        "argument_id": "A05",
+        "path": "working/p2-enrichment/argument-depth/A05.md",
+        "sha256": "d7992ff692cd1b0babef8b84157438fa89c92e5eefaa2a6b9752816e5ca23da9"
+      },
+      "minimum_declared_A_depth": [
+        "A05",
+        "A06",
+        "A09"
+      ],
+      "reference_rows_locator_only": [
+        5,
+        72,
+        80,
+        85
+      ],
+      "locator_E_targets": [],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Symbol answers to source; reflexive return",
+          "consumer_line": 62,
+          "consequence": "The articulated form remains within appearing and cannot own its source.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "Return the inert-image/self-apprehension distinction to E4: which source-return is performed, and which is merely represented? Keep the Śaiva passage history separate from symbol/account vocabulary.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A06",
+      "completed_lines": "14–64,78",
+      "completed": "Speech formation carries active second-person address, empty/full proper name, nāma beyond a detachable label, contextual person-transformation, nonarbitrary kaleidoscope and symbolic return.",
+      "observed_return": "A06→C51→A35→A06; E3 named without whole link. The P1 mismatch is explicitly retained at line 78.",
+      "E_return": "E3 receives the distinction between articulation and terminating label; its Logos history must answer alongside, not for, the independent Vāk and Buddhist passages. The older E1 architecture relation is a further declared crosswalk input, not a reason to duplicate this argument.",
+      "repairs": [
+        {
+          "kind": "E_address_and_return",
+          "line": 64,
+          "E": "E3",
+          "action": "Link E3 and append the Logos/Epi-Logos return from A35 to that whole; preserve the Vāk/Logos separation.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+          "anchor_text": "**Etymology whole field:** *Fides / Topos / Logos / Nomos / Natio / Credere*. **Consumed operation:** the **Logos** branch carries word/account/reason as articulated ordering, while the whole field prevents “logos” from being treated as a secret etymological key to unrelated Sanskrit terms. **Evidence register:** 2 for the attested semantic field of Greek *logos*; 3 for the operational relation between Logos and Vāk. **What changes:** language is treated as an achieved relational act rather than a detachable label. **Return route:** A06 → C51 → A35 → A06.",
+          "applied": false,
+          "proposed_text": "**Etymology whole field:** [Fides / Topos / Logos / Nomos / Natio / Credere](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md). **Consumed operation:** the **Logos** branch carries word/account/reason as articulated ordering, while the whole field prevents “logos” from being treated as a secret etymological key to unrelated Sanskrit terms. **Evidence register:** 2 for the attested semantic field of Greek *logos*; 3 for the operational relation between Logos and Vāk. **What changes:** language is treated as an achieved relational act rather than a detachable label. **Return route:** A06 → C51 → A35 → A06. **Return to the E whole:** E3 receives the distinction between articulation and terminating label; its Logos history must answer alongside, not for, the independent Vāk and Buddhist passages. The older E1 architecture relation is a further declared crosswalk input, not a reason to duplicate this argument.",
+          "edit": "replace this line only"
+        }
+      ],
+      "source_debt": "Bāhiya/nāma passages, speech-level selected-edition verification and Eckhart/Logos comparison remain not recertified. Section alignment: historical M29/M30/M44 versus no explicit P1 A06 match.",
+      "register_check": "Registers 2 and 3 distinguish Greek semantic range from Sanskrit comparison; no etymological identity.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "sha256": "83089fd04f322b61d98b7a4ca6082f69c82d398488f95332aac5da0ca96684c0",
+      "depth_packet": {
+        "argument_id": "A06",
+        "path": "working/p2-enrichment/argument-depth/A06.md",
+        "sha256": "aa37546fe2562ff16391e2c453022ae597c08cc431ec6c9660891d6c30ffbbad"
+      },
+      "minimum_declared_A_depth": [
+        "A05",
+        "A06",
+        "A09"
+      ],
+      "reference_rows_locator_only": [
+        5
+      ],
+      "locator_E_targets": [],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E3",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+          "operation": "Logos: articulated word/account/reason",
+          "consumer_line": 64,
+          "consequence": "Language is an achieved relational act; Logos remains a source-distinct neighbour of Vāk.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E3 receives the distinction between articulation and terminating label; its Logos history must answer alongside, not for, the independent Vāk and Buddhist passages. The older E1 architecture relation is a further declared crosswalk input, not a reason to duplicate this argument.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A07",
+      "completed_lines": "14–60",
+      "completed": "Selection becomes frozen script only when alternatives and conditions disappear from the account. Product-to-source substitution, circumstance-sensitive reference, traces, recomposition and dreamer/aperture relations remain developed.",
+      "observed_return": "A07→C12/C17→A26/C44→A31→A07; whole named without a link.",
+      "E_return": "E1 receives the difference between a determinate name and an account that has hidden its alternatives. Return the question of how a naming practice preserves its excluded region to the historical branch.",
+      "repairs": [
+        {
+          "kind": "E_address_and_return",
+          "line": 60,
+          "E": "E1",
+          "action": "Link E1; keep the A/C chain and append return of the recovered alternatives/region to its Name-through-Count operation.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+          "anchor_text": "**Etymology whole field:** *Encounter / Region / Name / Count / Countenance / Account*. **Consumed operation:** **Name/Account** — an achieved naming gathers a field into a usable account while leaving the surrounding region active. **Evidence register:** 3, Operational homology; no common descent with the Sanskrit terms is asserted. **What changes:** script is diagnosed as a local account that has hidden the region and alternatives from which it was selected. **Return route:** A07 → C12/C17 → A26/C44 → A31 → A07.",
+          "applied": false,
+          "proposed_text": "**Etymology whole field:** [Encounter / Region / Name / Count / Countenance / Account](../etymologies/encounter-region-name-count/WHOLE-FIELD.md). **Consumed operation:** **Name/Account** — an achieved naming gathers a field into a usable account while leaving the surrounding region active. **Evidence register:** 3, Operational homology; no common descent with the Sanskrit terms is asserted. **What changes:** script is diagnosed as a local account that has hidden the region and alternatives from which it was selected. **Return route:** A07 → C12/C17 → A26/C44 → A31 → A07. **Return to the E whole:** E1 receives the difference between a determinate name and an account that has hidden its alternatives. Return the question of how a naming practice preserves its excluded region to the historical branch.",
+          "edit": "replace this line only"
+        }
+      ],
+      "source_debt": "Primary saṃkalpa evidence and historical carrier-17 locality need their own resolution; no implemented workflow or psychological mechanism is certified.",
+      "register_check": "The Kripke encounter is not made Kripke's theory of QL or saṃkalpa; Sanskrit cognacy is not inferred.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "sha256": "74968c4e9f645e849065aee47a48d98b647c5e6d4dfb6e4c19d6a6c4ff61a55e",
+      "depth_packet": {
+        "argument_id": "A07",
+        "path": "working/p2-enrichment/argument-depth/A07.md",
+        "sha256": "8f6aae272cc86877286b844e6fa65911c05885d3e50b388179ed623294406e01"
+      },
+      "minimum_declared_A_depth": [
+        "A07"
+      ],
+      "reference_rows_locator_only": [
+        69,
+        84
+      ],
+      "locator_E_targets": [],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E1",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "operation": "Name-through-Count → Account within Region",
+          "consumer_line": 60,
+          "consequence": "A script is diagnosed by its concealed selecting region, not by determination as such.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E1 receives the difference between a determinate name and an account that has hidden its alternatives. Return the question of how a naming practice preserves its excluded region to the historical branch.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A08",
+      "completed_lines": "14–62",
+      "completed": "Nominal/verbal negation, Pind's thing-qualified-by-preclusion, provisional SPVy attribution and retained alternatives are present. Exclusion constitutes a real determination; it is not missing data or simple softmax analogy.",
+      "observed_return": "A08→C18→A14/C40→A33/C45→A08; the whole name has no direct link.",
+      "E_return": "Return constitutive exclusion versus accidental omission to E1. The lexical/historical naming inquiry and Buddhist apoha evidence remain separate sources for that distinction.",
+      "repairs": [
+        {
+          "kind": "E_address_and_return",
+          "line": 62,
+          "E": "E1",
+          "action": "Link E1 and extend return from the operational-parity test to Name-through-Count, retaining the excluded region.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+          "anchor_text": "**Etymology whole field:** *Encounter / Region / Name / Count / Countenance / Account*. **Consumed operation:** a **Name** becomes countable against a **Region** of non-selected possibilities; the resulting **Account** remains answerable to the region it has cut. **Evidence register:** 3, Operational homology. **What changes:** exclusion is treated as constitutive relation rather than accidental missing data. **Return route:** A08 → C18 → A14/C40 → A33/C45 → A08.",
+          "applied": false,
+          "proposed_text": "**Etymology whole field:** [Encounter / Region / Name / Count / Countenance / Account](../etymologies/encounter-region-name-count/WHOLE-FIELD.md). **Consumed operation:** a **Name** becomes countable against a **Region** of non-selected possibilities; the resulting **Account** remains answerable to the region it has cut. **Evidence register:** 3, Operational homology. **What changes:** exclusion is treated as constitutive relation rather than accidental missing data. **Return route:** A08 → C18 → A14/C40 → A33/C45 → A08. **Return to the E whole:** Return constitutive exclusion versus accidental omission to E1. The lexical/historical naming inquiry and Buddhist apoha evidence remain separate sources for that distinction.",
+          "edit": "replace this line only"
+        }
+      ],
+      "source_debt": "Printed collection and SPVy attribution verification remain independent. Rigid reference versus momentary svalakṣaṇa is a genuinely Open comparative issue, not merely a citation debt.",
+      "register_check": "The body preserves Pind's positive referent qualification and does not make the computational comparison an identity.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "sha256": "86f807b35428f1cfc3d53e68a27ff3373df9ffc42b7d0b934c3d4491ae5de9a2",
+      "depth_packet": {
+        "argument_id": "A08",
+        "path": "working/p2-enrichment/argument-depth/A08.md",
+        "sha256": "0665c59d9039ebe87706ea25faa1d85a66fc69b31ba5506f17523a04b1449548"
+      },
+      "minimum_declared_A_depth": [
+        "A08"
+      ],
+      "reference_rows_locator_only": [
+        10,
+        73
+      ],
+      "locator_E_targets": [],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E1",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "operation": "Name-through-Count",
+          "consumer_line": 62,
+          "consequence": "A countable name remains answerable to the region cut by its selection.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "Return constitutive exclusion versus accidental omission to E1. The lexical/historical naming inquiry and Buddhist apoha evidence remain separate sources for that distinction.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A09",
+      "completed_lines": "7–49",
+      "completed": "Universal I/this orientations, five contraction axes, Puruṣa and objective-internal apparatus are retained. The gnomon 36−25=11=5+1+5 is an Offered mapping; Māyā is not the opening or Subject.",
+      "observed_return": "A09→C14–C16→A26/C41→A21/C19→A09; whole named without link; page has no frontmatter.",
+      "E_return": "Return differentiated finite capacity to E6: what distinguishes a share of power from an independent source of power? Sanskrit category history must remain independent of economy's vocabulary.",
+      "repairs": [
+        {
+          "kind": "E_address_and_return",
+          "line": 49,
+          "E": "E6",
+          "action": "Link E6 and append return of finite-capacity recognition to its apportionment operation.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "anchor_text": "**Etymology whole field:** *Apportionment / Economy*. **Consumed operation:** finite capacities are understood as an **apportionment** of powers within a locally workable order, rather than evidence that the whole field has vanished. **Evidence register:** 3, Operational homology; no historical derivation of Sanskrit tattva terminology from this field is claimed. **What changes:** contraction becomes a positive distribution of operative capacities whose limit can later be recognised. **Return route:** A09 → C14–C16 → A26/C41 → A21/C19 → A09.",
+          "applied": false,
+          "proposed_text": "**Etymology whole field:** [Apportionment / Economy](../etymologies/apportionment-and-economy/WHOLE-FIELD.md). **Consumed operation:** finite capacities are understood as an **apportionment** of powers within a locally workable order, rather than evidence that the whole field has vanished. **Evidence register:** 3, Operational homology; no historical derivation of Sanskrit tattva terminology from this field is claimed. **What changes:** contraction becomes a positive distribution of operative capacities whose limit can later be recognised. **Return route:** A09 → C14–C16 → A26/C41 → A21/C19 → A09. **Return to the E whole:** Return differentiated finite capacity to E6: what distinguishes a share of power from an independent source of power? Sanskrit category history must remain independent of economy's vocabulary.",
+          "edit": "replace this line only"
+        },
+        {
+          "kind": "identity_register",
+          "line": 1,
+          "action": "Add explicit ratified A09 identity and episteme register metadata; leave the body's Argued/Offered distinctions unchanged.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "anchor_text": "# A09 — Tattvic Differential Field",
+          "applied": false,
+          "proposed_text": "---\ntitle: \"A09 — Tattvic Differential Field\"\nrecord_id: A09\nrecord_type: argument\nregister: episteme\n---\n",
+          "edit": "insert before line 1; retain body and its claim standing"
+        }
+      ],
+      "source_debt": "Complete Trika category sequence and Dyczkowski pp.82–91 collation; T20 Neumann/veil whole return remains beyond this preflight.",
+      "register_check": "No arithmetic proof of the tattvas and no Sanskrit descent from economy. Undeclared machine-readable register is a metadata gap, not a semantic misattribution.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "sha256": "4d82b779d3795197b6075d2b88a5d981e7d9ba9ffa1f6fb8fff69b698562f779",
+      "depth_packet": {
+        "argument_id": "A09",
+        "path": "working/p2-enrichment/argument-depth/A09.md",
+        "sha256": "7bbb367d7fe465f1d22b962495426f1a89d462d6f6c7fe4e3636dcd37978af5f"
+      },
+      "minimum_declared_A_depth": [
+        "A05",
+        "A06",
+        "A09"
+      ],
+      "reference_rows_locator_only": [
+        2,
+        5,
+        8,
+        72
+      ],
+      "locator_E_targets": [],
+      "declared_register": null,
+      "E_relations": [
+        {
+          "E_id": "E6",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+          "operation": "Power becomes finite by apportionment",
+          "consumer_line": 49,
+          "consequence": "Contraction positively distributes workable capacities whose limits can be recognised.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "Return differentiated finite capacity to E6: what distinguishes a share of power from an independent source of power? Sanskrit category history must remain independent of economy's vocabulary.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A10",
+      "completed_lines": "7–49",
+      "completed": "Blank, separator, astronomical/arithmetic zero and denominator offices remain distinct. Empty product, mediants, ordinals and NOR mark changed formal permissions; zero's travel is not collapsed into the later integral advent.",
+      "observed_return": "A10→A15→A11/C49→A36 stops before an E return; whole has no link; no frontmatter.",
+      "E_return": "E1 receives the distinction between unmarked absence and an operative place. Return each changed permission to its historical carrier; the A36 integral return is not evidence for a single origin story.",
+      "repairs": [
+        {
+          "kind": "E_address_and_return",
+          "line": 49,
+          "E": "E1",
+          "action": "Link E1 and append A36→E1 as the return of newly distinguished counting offices, without merging the two advents.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "anchor_text": "**Etymology whole field:** *Encounter / Region / Name / Count / Countenance / Account*. **Consumed operation:** **Count/Account** — zero enters the count as a nameable position and thereby changes the account's possibilities. **Evidence register:** 2 where historical semantic offices of zero/*śūnya* are attested; 3 when the mathematical frame-disclosure is compared with the essay's formal-limit operation. **What changes:** “nothing” becomes a discriminable operative place rather than an unmarked absence. **Return route:** A10 → A15 → A11/C49 → A36.",
+          "applied": false,
+          "proposed_text": "**Etymology whole field:** [Encounter / Region / Name / Count / Countenance / Account](../etymologies/encounter-region-name-count/WHOLE-FIELD.md). **Consumed operation:** **Count/Account** — zero enters the count as a nameable position and thereby changes the account's possibilities. **Evidence register:** 2 where historical semantic offices of zero/*śūnya* are attested; 3 when the mathematical frame-disclosure is compared with the essay's formal-limit operation. **What changes:** “nothing” becomes a discriminable operative place rather than an unmarked absence. **Return route:** A10 → A15 → A11/C49 → A36. **Return to the E whole:** E1 receives the distinction between unmarked absence and an operative place. Return each changed permission to its historical carrier; the A36 integral return is not evidence for a single origin story.",
+          "edit": "replace this line only"
+        },
+        {
+          "kind": "identity_register",
+          "line": 1,
+          "action": "Add explicit ratified A10 identity and episteme register metadata without changing claim standing.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "anchor_text": "# A10 — Advent of Zero",
+          "applied": false,
+          "proposed_text": "---\ntitle: \"A10 — Advent of Zero\"\nrecord_id: A10\nrecord_type: argument\nregister: episteme\n---\n",
+          "edit": "insert before line 1; retain body and its claim standing"
+        }
+      ],
+      "source_debt": "Dating/priority, Kaplan passages, Colebrooke translation versus Sanskrit, Dutta and formal/logical witnesses remain separate; not recertified here.",
+      "register_check": "Historical register 2 and authorial frame comparison register 3 are marked; relational division is not ordinary zero-denominator arithmetic.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+      "sha256": "75d53129a5cf4441764e078f908cf822b57b8fd62b4399a478b3d612f19957b3",
+      "depth_packet": {
+        "argument_id": "A10",
+        "path": "working/p2-enrichment/argument-depth/A10.md",
+        "sha256": "bab78b321241cb345013760b9e68011086eb8380ba640d98a7c525e87e7df17a"
+      },
+      "minimum_declared_A_depth": [
+        "A10"
+      ],
+      "reference_rows_locator_only": [],
+      "locator_E_targets": [],
+      "declared_register": null,
+      "E_relations": [
+        {
+          "E_id": "E1",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "operation": "Name-through-Count → Count-to-Account",
+          "consumer_line": 49,
+          "consequence": "An operative zero-place changes what the count and account can do.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E1 receives the distinction between unmarked absence and an operative place. Return each changed permission to its historical carrier; the A36 integral return is not evidence for a single origin story.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A11",
+      "completed_lines": "7–58",
+      "completed": "One/Self-Identity and All/Self-Difference, universal/particular participation, aspectual reciprocity, trust and 2+2² sixfold versus eight determinations retain their proper offices.",
+      "observed_return": "A11→C49→A12/A13→A18→A36→A11; E4 lacks direct link; no frontmatter.",
+      "E_return": "E4 receives the distinction between manifest unity and its source office: how can the same mark change office without claiming source-ownership? Historical number/trust witnesses remain independent.",
+      "repairs": [
+        {
+          "kind": "E_address_and_return",
+          "line": 58,
+          "E": "E4",
+          "action": "Link E4 and append the distinction of the two one-offices to its source/account return.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "anchor_text": "**Etymology whole field:** *Symbol / Account / Trust*. **Consumed operation:** a mark belongs to an account whose source-relation it cannot appropriate; the local `1` is answerable to the `0`-office without representing it exhaustively. **Evidence register:** 3, Operational homology. **What changes:** “one” splits into ground-unity and manifest-unity without becoming two unrelated substances. **Return route:** A11 → C49 → A12/A13 → A18 → A36 → A11.",
+          "applied": false,
+          "proposed_text": "**Etymology whole field:** [Symbol / Account / Trust](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md). **Consumed operation:** a mark belongs to an account whose source-relation it cannot appropriate; the local `1` is answerable to the `0`-office without representing it exhaustively. **Evidence register:** 3, Operational homology. **What changes:** “one” splits into ground-unity and manifest-unity without becoming two unrelated substances. **Return route:** A11 → C49 → A12/A13 → A18 → A36 → A11. **Return to the E whole:** E4 receives the distinction between manifest unity and its source office: how can the same mark change office without claiming source-ownership? Historical number/trust witnesses remain independent.",
+          "edit": "replace this line only"
+        },
+        {
+          "kind": "identity_register",
+          "line": 1,
+          "action": "Add explicit ratified A11 identity and episteme register metadata; do not recast its native derivation.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "anchor_text": "# A11 — The Two Ones — 0 = One, 1 = All",
+          "applied": false,
+          "proposed_text": "---\ntitle: \"A11 — The Two Ones — 0 = One, 1 = All\"\nrecord_id: A11\nrecord_type: argument\nregister: episteme\n---\n",
+          "edit": "insert before line 1; retain body and its claim standing"
+        }
+      ],
+      "source_debt": "Formal and cross-traditional witnesses retain their own hypotheses and passage debts. No new proof or public source verification in this pass.",
+      "register_check": "Native reciprocal notation remains relational; sixfold generation is not confused with the eight determinations.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "sha256": "a72c4233c732b9a12915b3b15ad6c288c2e29f7f75b3a300863fdfaf4c72dcb0",
+      "depth_packet": {
+        "argument_id": "A11",
+        "path": "working/p2-enrichment/argument-depth/A11.md",
+        "sha256": "19585deb79a5ec0dabb39493e413e0579e313adeab68051a783b6ad737584ab8"
+      },
+      "minimum_declared_A_depth": [
+        "A11"
+      ],
+      "reference_rows_locator_only": [],
+      "locator_E_targets": [],
+      "declared_register": null,
+      "E_relations": [
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Account does not replace source; local mark answers to ground",
+          "consumer_line": 58,
+          "consequence": "The two ones name different offices without becoming unrelated substances.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E4 receives the distinction between manifest unity and its source office: how can the same mark change office without claiming source-ownership? Historical number/trust witnesses remain independent.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A12",
+      "completed_lines": "7–45",
+      "completed": "Whole-first dependence, inclusive super-object under its named aspect, real many, trust, commons and two-monoculture capture are present. Unity does not become a sum or a private super-subject.",
+      "observed_return": "A12→C49/C50→A29/C54→A35→A12; E5 lacks link; no frontmatter. Material commons relation is already routed through A29/C54.",
+      "E_return": "E5 receives the distinction between inclusive whole and constitutive priority. E6's older architecture relation can be carried through the already named A29/C54, with its exact share/whole office stated in the wider T21 crosswalk.",
+      "repairs": [
+        {
+          "kind": "E_address_and_return",
+          "line": 45,
+          "E": "E5",
+          "action": "Link E5 and append the focal-versus-univocal distinction to its relational-growth return.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "anchor_text": "**Etymology whole field:** *Homologia / Analogia*. **Consumed operation:** many genuine terms can be proportionally related to one focal structure without becoming synonymous. **Evidence register:** 2 for attested agreement/proportion senses; 3 for the essay's cross-register use. **What changes:** unity becomes focal and relational rather than univocal; plurality can remain real without becoming atomised. **Return route:** A12 → C49/C50 → A29/C54 → A35 → A12.",
+          "applied": false,
+          "proposed_text": "**Etymology whole field:** [Homologia / Analogia](../etymologies/homology-and-analogy/WHOLE-FIELD.md). **Consumed operation:** many genuine terms can be proportionally related to one focal structure without becoming synonymous. **Evidence register:** 2 for attested agreement/proportion senses; 3 for the essay's cross-register use. **What changes:** unity becomes focal and relational rather than univocal; plurality can remain real without becoming atomised. **Return route:** A12 → C49/C50 → A29/C54 → A35 → A12. **Return to the E whole:** E5 receives the distinction between inclusive whole and constitutive priority. E6's older architecture relation can be carried through the already named A29/C54, with its exact share/whole office stated in the wider T21 crosswalk.",
+          "edit": "replace this line only"
+        },
+        {
+          "kind": "identity_register",
+          "line": 1,
+          "action": "Add explicit ratified A12 identity and episteme register metadata, preserving its aspectual distinctions.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "anchor_text": "# A12 — Mono/Poly — One / All, Whole / Many",
+          "applied": false,
+          "proposed_text": "---\ntitle: \"A12 — Mono/Poly — One / All, Whole / Many\"\nrecord_id: A12\nrecord_type: argument\nregister: episteme\n---\n",
+          "edit": "insert before line 1; retain body and its claim standing"
+        }
+      ],
+      "source_debt": "Alpha/Delta residue remains unrecovered and is not fine-structure alpha. Whitehead superject and particular institutional histories require their own evidence; M24/M26/M46 do not certify the full braid.",
+      "register_check": "The body keeps Buddhist preclusion, Śaiva articulation and Whitehead refraction source-distinct.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "sha256": "b151d99b0f728a7801fd7c1dac97a33cc87f31a6bffcfda1ea29dafc8bf3178a",
+      "depth_packet": {
+        "argument_id": "A12",
+        "path": "working/p2-enrichment/argument-depth/A12.md",
+        "sha256": "a4bfa473d034e31cd6cbd7afc45b96236929665a4dd42f4e3f056e3973c58b39"
+      },
+      "minimum_declared_A_depth": [
+        "A12",
+        "A35"
+      ],
+      "reference_rows_locator_only": [
+        51
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md"
+      ],
+      "declared_register": null,
+      "E_relations": [
+        {
+          "E_id": "E5",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "operation": "Analogical proportion / focal relation with real plurality",
+          "consumer_line": 45,
+          "consequence": "A shared focal structure does not make participating terms synonymous.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E5 receives the distinction between inclusive whole and constitutive priority. E6's older architecture relation can be carried through the already named A29/C54, with its exact share/whole office stated in the wider T21 crosswalk.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A13",
+      "completed_lines": "14–88",
+      "completed": "Polar relation, cancellation and appropriation are distinguished. Native AND/OR inversion, two-plus-four, hidden recombination, two monocultures and problem/predicament retain their exact roles; temporal axis is independent.",
+      "observed_return": "Line 84 sends the achieved relation through A14/A31; E5 is explicitly linked and register 3 stated.",
+      "E_return": "E5 receives the distinction between a necessary cut and a severed relation, and between recomposition and fusion. Historical dia-/sym- senses must answer separately.",
+      "repairs": [],
+      "source_debt": "Greek lexical descent, political histories and clinical extensions remain independent; revision §7.3 first-person wording still requires confirmation before direct quotation.",
+      "register_check": "Homer's capture/release and Hesiod's Harmonia genealogy stay source-distinct; no moral taxonomy of bad division/good union is restored.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "sha256": "cd320c99f30f081f26be696dfd0715d84048cb1a686b90b5f2c4d702f164bf0b",
+      "depth_packet": {
+        "argument_id": "A13",
+        "path": "working/p2-enrichment/argument-depth/A13.md",
+        "sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8"
+      },
+      "minimum_declared_A_depth": [
+        "A13"
+      ],
+      "reference_rows_locator_only": [
+        25,
+        77
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E5",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "operation": "Homological agreement: retained differentiation and return",
+          "consumer_line": 88,
+          "consequence": "The common operation does not assert common doctrine, history or cause.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E5 receives the distinction between a necessary cut and a severed relation, and between recomposition and fusion. Historical dia-/sym- senses must answer separately.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A14",
+      "completed_lines": "14–67",
+      "completed": "Concrescence/satisfaction/perishing, six process tests, consequential world-continuity, whole Name/Power and relative reference-map offices are developed. A result returns as changed availability, not merely an output.",
+      "observed_return": "A29 receives distributed cost and return; line 67 makes the result common data for the next act.",
+      "E_return": "E6 receives the proposed token-economy test: does a metered completion preserve an unresolved remainder or force closure, and to whom do its costs and results return? This remains a test question.",
+      "repairs": [],
+      "source_debt": "Whitehead/Bohm exact passages and proposed token-economy evaluation remain separate. Agentworld scenario modality is retained; no current implementation is certified.",
+      "register_check": "No inference from repeatable computation to digital exhaustion of reality or machine consciousness.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "sha256": "5471f53740eda3a029b104b96c9c80af9e690d2017d1c73fa97dd0f7f48e44e5",
+      "depth_packet": {
+        "argument_id": "A14",
+        "path": "working/p2-enrichment/argument-depth/A14.md",
+        "sha256": "0a198ce301265646b0fa5f438f5e035d14fe2de74dcc246ae4a6c96e714808ee"
+      },
+      "minimum_declared_A_depth": [
+        "A14",
+        "A33"
+      ],
+      "reference_rows_locator_only": [
+        37,
+        48,
+        88
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E6",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+          "operation": "Finite power apportioned before action; effects/evidence/value returned",
+          "consumer_line": 59,
+          "consequence": "Time, attention, labour and energy are constitutive conditions of process.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E6 receives the proposed token-economy test: does a metered completion preserve an unresolved remainder or force closure, and to whom do its costs and results return? This remains a test question.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A15",
+      "completed_lines": "14–84",
+      "completed": "A ratio exposes denominator and criterion; denomination keeps issuer/bearer/backing distinct. Four directional ratios, exponent asymmetry and 16/9×9/8=2 survive; paired 64/36 terms are not falsely equated with their sum.",
+      "observed_return": "Lines 82–84 return count through A29/A33 and those affected; E1/E6 are linked and registers separated.",
+      "E_return": "Return the issuer/bearer/backing/criterion distinction to E1 and E6, and the exact-but-nonexhaustive account to E4. A concrete token case must supply those roles rather than letting a lexical resemblance do so.",
+      "repairs": [
+        {
+          "kind": "declared_E_backlink",
+          "line": 82,
+          "E": "E4",
+          "action": "Attach E4's Account-does-not-replace-source relation to the already written final sentence about locally earned precision and answerability; no new ratio exposition.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "anchor_text": "The count returns as an account when the operation, criterion, source and consequence remain available to those affected by it. [[A29-Power-Delegated-Labour-Return|A29]] extends that return through delegated work; [[A33-Epistemic-Cultivation-Operational-Parity|A33]] tests its cultivation across agents, while [[submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity|C45]] qualifies the scope of a common operation. Rationality becomes fuller by reckoning upon the conditions of its reckoning. Its precision remains earned locally and answerable beyond that locality.",
+          "applied": false,
+          "proposed_text": "This is the [Symbol / Account / Trust field's Account-does-not-replace-source operation](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md), at register 3: the exact measure returns its criterion and consequence without occupying their source.",
+          "edit": "insert after anchor paragraph"
+        }
+      ],
+      "source_debt": "Ratio/arithmos/harmony lexical sources, material token cases and music-table verification remain independent. Known v3 tuning and subset errors are already excluded, not restoration targets.",
+      "register_check": "Nomen/numerus common descent is expressly denied; finite arithmetic and QL office relations remain distinct.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "sha256": "5064c7555f8bd0c924e74541e87faa759c68407437771189f82e7a16748687e5",
+      "depth_packet": {
+        "argument_id": "A15",
+        "path": "working/p2-enrichment/argument-depth/A15.md",
+        "sha256": "70e04921c5c97b94a3068eafe5b1595e3bfa4f537076f75376503628237f0f8a"
+      },
+      "minimum_declared_A_depth": [
+        "A15"
+      ],
+      "reference_rows_locator_only": [],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E1",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "operation": "Name-through-Count; Count-to-Account",
+          "consumer_line": 24,
+          "consequence": "Measure must disclose criterion, provenance and consequence.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "Return the issuer/bearer/backing/criterion distinction to E1 and E6, and the exact-but-nonexhaustive account to E4. A concrete token case must supply those roles rather than letting a lexical resemblance do so.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E6",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+          "operation": "Measure is an apportioned criterion",
+          "consumer_line": 24,
+          "consequence": "The measure's office is distributed within a wider economy.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "Return the issuer/bearer/backing/criterion distinction to E1 and E6, and the exact-but-nonexhaustive account to E4. A concrete token case must supply those roles rather than letting a lexical resemblance do so.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Account does not replace source",
+          "consumer_line": 82,
+          "consequence": "The exact local account remains answerable beyond itself; E4 owns this declared consumer but is not linked here.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "Return the issuer/bearer/backing/criterion distinction to E1 and E6, and the exact-but-nonexhaustive account to E4. A concrete token case must supply those roles rather than letting a lexical resemblance do so.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A16",
+      "completed_lines": "14–69",
+      "completed": "Placing precedes placed objects through four named refractions. Complex phase, quaternion conjugation/rotation cover, quotient topology, phase space and atlas remain distinct; corrected optics and perspective/holding are present.",
+      "observed_return": "A17 receives the kinetic image while A16 retains the generated field of placing; E3 is linked at register 3.",
+      "E_return": "E3 receives the difference between placing and placed thing; return the historical senses of arche/topos separately from exact mathematical chart, phase and quotient operations.",
+      "repairs": [],
+      "source_debt": "Topology locators and source-specific physical/psychoid claims remain separate. This preflight does not supply empirical causal evidence for the field.",
+      "register_check": "Infinite torus cover is not the rotation double cover; ancient attestation of the compound is not asserted.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "sha256": "15d6d5977527347eaf7f102097e23fa65b523d6e47dace778745c20e7f20cd45",
+      "depth_packet": {
+        "argument_id": "A16",
+        "path": "working/p2-enrichment/argument-depth/A16.md",
+        "sha256": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45"
+      },
+      "minimum_declared_A_depth": [
+        "A16"
+      ],
+      "reference_rows_locator_only": [
+        82
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E3",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+          "operation": "Topos: situated place/position and authorial Arche-Topos construction",
+          "consumer_line": 18,
+          "consequence": "The field conditions observer and object together; it is not a hidden location.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E3 receives the difference between placing and placed thing; return the historical senses of arche/topos separately from exact mathematical chart, phase and quotient operations.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A17",
+      "completed_lines": "14–79",
+      "completed": "Infinite cover/quotient, displaced lift, two independent windings, rational versus dense flow and χ=0 are explicit. Whole uroboros, opening, cyclic/telic return and bounded tokamak comparison preserve the kinetic operation.",
+      "observed_return": "A18/A36 receive the returning relation; E4 is directly linked with register 3.",
+      "E_return": "E4 receives closure versus source-return; the T20 whole must return the authored uroboros/mouth/metabolism distinctions after its full development. Do not turn homotopy displacement into a record of every historical event.",
+      "repairs": [],
+      "source_debt": "Hatcher locators and stronger ITER/helical geometry require their own evidence. The corrected map's full Neumann/world-parent/mytheme amplification is a T20 barrier obligation, not an absent A17 rewrite.",
+      "register_check": "No two-sheeted R²→T², sphere-cannot-circulate claim, or generic conservation proof is present.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "sha256": "c9ce9bd4cd11ba753e9cc882045e04fc60653d63fc41718437e5886de5ed894c",
+      "depth_packet": {
+        "argument_id": "A17",
+        "path": "working/p2-enrichment/argument-depth/A17.md",
+        "sha256": "f524699d75f93c839c8acdff6430c91b591d8266c3731bafca0cbcd49d940c9a"
+      },
+      "minimum_declared_A_depth": [
+        "A17"
+      ],
+      "reference_rows_locator_only": [],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Account returns to source rather than self-certifying closure",
+          "consumer_line": 75,
+          "consequence": "A closed circuit retains its opening and the information carried by its lift.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E4 receives closure versus source-return; the T20 whole must return the authored uroboros/mouth/metabolism distinctions after its full development. Do not turn homotopy displacement into a record of every historical event.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A18",
+      "completed_lines": "14–64",
+      "completed": "Whole eight-determination traversal, six/eight distinction, harmonic/complementary folds, full inverse parents and coequal Name/Power cost are present. Symbols transform interpreter/world; fabricated provenance and performed recognition retain their force.",
+      "observed_return": "A24/A36 carry criterion and final-symbol return; line 62 distinguishes traversal from merely describing it.",
+      "E_return": "E4 receives the difference between inspecting a symbolic circuit and undergoing a revisable traversal. The implemented disclosure-performance question returns to actual technical evidence, not an invented theorem.",
+      "repairs": [],
+      "source_debt": "Lexical symbolon history, independently quoted Tillich and empirical deepfake/disclosure claims remain separate. Deep musical 84/144 developments belong to their declared Matheme homes, not mandatory duplicate A prose.",
+      "register_check": "Native X/x, source-occupation notation and eightfold derivation retain their authorial office; register 2 history/3 operation/4 poetic re-entry are explicit.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "550bd175ca1d69d9d4f9bf74d443748059c5a4918f9bfddd94fa1e08f63d4493",
+      "depth_packet": {
+        "argument_id": "A18",
+        "path": "working/p2-enrichment/argument-depth/A18.md",
+        "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f"
+      },
+      "minimum_declared_A_depth": [
+        "A18"
+      ],
+      "reference_rows_locator_only": [
+        1,
+        62,
+        74
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Symbol answers to source; accountable source-return",
+          "consumer_line": 60,
+          "consequence": "The substantial eightfold remains A18's office; historical symbol-language cannot replace or prove it.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E4 receives the difference between inspecting a symbolic circuit and undergoing a revisable traversal. The implemented disclosure-performance question returns to actual technical evidence, not an invented theorem.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A19",
+      "completed_lines": "16–48",
+      "completed": "Archetype/complex/image, selection-affect feedback, basin/boundary transformation and usurped jurisdiction are distinguished. Resituation changes the complex's office without annihilating its achieved organisation.",
+      "observed_return": "A21/A24/A20 receive the resituated complex and valued-image consequences; E2 relation and register 3 are explicit.",
+      "E_return": "Return the difference between stability, necessary decision and protected jurisdiction to E2. Its historical arbiter/krisis/hybris witnesses and clinical dynamical tests retain separate burdens.",
+      "repairs": [],
+      "source_debt": "Exact Jung complex/autonomy/individuation and clinical/dynamical specifications remain not recertified. Ovid now exists as an additional declared consumer source; a missing-house claim must not be inherited.",
+      "register_check": "The generated E relation is not called Jung's definition; no blanket diagnosis of stability or civilisations.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "sha256": "dfe899effea04bd7ad40080f353b059640fa328b79d8a3433b53f70fdf5ca3c1",
+      "depth_packet": {
+        "argument_id": "A19",
+        "path": "working/p2-enrichment/argument-depth/A19.md",
+        "sha256": "e9b39e002b667014c970dd287f2301c9f9a80197762283e5062274ea9db64861"
+      },
+      "minimum_declared_A_depth": [
+        "A19"
+      ],
+      "reference_rows_locator_only": [],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E2",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "operation": "Arbitration-in-Crisis → Decision / Hybris",
+          "consumer_line": 38,
+          "consequence": "A necessary finite settlement becomes possessive when it claims source measure.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "Return the difference between stability, necessary decision and protected jurisdiction to E2. Its historical arbiter/krisis/hybris witnesses and clinical dynamical tests retain separate burdens.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A20",
+      "completed_lines": "16–50",
+      "completed": "Image→valuation→source-claim, transformed interpreter feedback, source/reflection asymmetry, visually identical symbol/idol, source-distinct Job offices, operational-profile feedback and second-order counterfeit provenance are developed.",
+      "observed_return": "A27/A31/A21 return representation into a changed encounter. The packet's Apollo–Eros–Daphne–Peneus operation is absent from this body.",
+      "E_return": "E4 receives a precise further case: public symbolic appropriation can outlive the living source's refusal/withdrawal. Return that distinction to the whole's full ending, retaining Ovid's recoil and seeming assent as a source tension.",
+      "missing_unique_operation": "Appropriation persisting as emblem after the living source withdraws: accepted A20 lines 23/152/156 and whole-seam §2. Job's witness-redescription and profile feedback do not perform this exact aftermath.",
+      "repairs": [
+        {
+          "kind": "unique_operation",
+          "line": 36,
+          "E": "E4",
+          "action": "After the Job paragraph, add one compact return from the complete Apollo–Eros–Daphne–Peneus whole. Parent resolves the canonical whole after T20; preserve all agents and the ambiguous ending.",
+          "support": "working/p2-enrichment/argument-depth/A20.md:23,152,156; working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:65–93; ovid-1921-metamorphoses-miller q001–q003",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "anchor_text": "The [[working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS|whole Job recovery]] figures the change through three distinct layers. The biblical sequence includes council and wager, loss and affliction, the wife's response, friends' initial solidarity and later explanatory closure, Job's protest, Wisdom, Elihu, whirlwind, rebuke and intercession. The project receives the friends' attempt to revise Job to preserve their moral account as a determinate failure of witness. Jung's later Yahweh/Sophia/incarnation interpretation is a second whole; the essay's extension into protected psychic and technical accounts is a third. [[submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE|Jung’s CW11 source house]] qualifies their historical attribution: exact selected-edition passages remain Open. The comparison does not make Jung's Sophia a character in the biblical story or an isolated symbolic key.",
+          "applied": false,
+          "proposed_text": "The Apollo–Eros–Daphne–Peneus whole carries a further limit: opposed desire and refusal lead through pursuit and transformation into a public emblem whose power survives the failed encounter. Ovid retains both the laurel's recoil and the ending's seeming assent. The essay's reading is that symbolic appropriation can persist after the living source withdraws; that reading returns to the Symbol / Account / Trust field without being substituted for the telling.",
+          "edit": "insert after anchor paragraph"
+        }
+      ],
+      "source_debt": "Ovid house exists and reports digital-text quotation readiness; print-image collation remains Open. Packet line 152's no-house claim is stale. Jung/Bohm passages, icon/idol histories and technical/media cases remain separate.",
+      "register_check": "No current cross-register misattribution found. The proposed repair must not assert that Ovid explicitly settles the poem's difficult ending as the essay does.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "sha256": "f937d496add413287af899d97aeb73d33520dc8d55c1be298d04e4dce016be74",
+      "depth_packet": {
+        "argument_id": "A20",
+        "path": "working/p2-enrichment/argument-depth/A20.md",
+        "sha256": "31e8980f2955a784f02b5f84b1e6c63bdcf3a22cb25e24afec678c19a166c2c2"
+      },
+      "minimum_declared_A_depth": [
+        "A20"
+      ],
+      "reference_rows_locator_only": [],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Symbol answers to source",
+          "consumer_line": 46,
+          "consequence": "The represented source must be able to alter image, valuation and governing criterion; register 3 is supplied by the linked whole.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E4 receives a precise further case: public symbolic appropriation can outlive the living source's refusal/withdrawal. Return that distinction to the whole's full ending, retaining Ovid's recoil and seeming assent as a source tension.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A21",
+      "completed_lines": "16–52",
+      "completed": "Self versus chief complex, native x→X→x, symbol-mediated energetic transformation, lived identifying return and integration/reconciliation/recognition distinctions are present; cultural recognition does not install a collective ego.",
+      "observed_return": "A27 receives the interpersonal consequence; A35/A36 receive cultural and integral return. E2 relation and register 3 are explicit.",
+      "E_return": "E2 receives the difference between remembering a settlement's genesis and undoing differentiation. Historical anamnesis, Śaiva recognition and Jungian individuation must each answer in their own sources.",
+      "repairs": [],
+      "source_debt": "Exact Jung and Śaiva passages plus external psychological/agentic demonstration remain not recertified.",
+      "register_check": "X/x is native before psychological refraction; no machine or collective phenomenality follows from structural analogy.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "sha256": "b29ad091014a4089d7c5ded52bfe979e43ef3450fd67aa51f139cd6afcd750bf",
+      "depth_packet": {
+        "argument_id": "A21",
+        "path": "working/p2-enrichment/argument-depth/A21.md",
+        "sha256": "7cfe91ec6423eff272001a99a672cc1e3d02b3eb5cc35ae9e142077660912779"
+      },
+      "minimum_declared_A_depth": [
+        "A21"
+      ],
+      "reference_rows_locator_only": [
+        7,
+        56
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E2",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "operation": "Resolution-in-Reconciliation → Anamnesis / Recognition / Return",
+          "consumer_line": 44,
+          "consequence": "A prior settlement is remembered and resituated without deleting its history.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E2 receives the difference between remembering a settlement's genesis and undoing differentiation. Historical anamnesis, Śaiva recognition and Jungian individuation must each answer in their own sources.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A22",
+      "completed_lines": "16–50",
+      "completed": "World-as-picture diagnosis, box-lid/stained-glass whole, chart transitions with hypotheses and obstruction, basin/atlas distinction, corrected Bimba stack and full L4/L4′ lens rotation are present.",
+      "observed_return": "Line 50 explicitly returns changed route, obstruction or situated account to the atlas. The MEF stale-locality problem is already correctly stated at line 38.",
+      "E_return": "E1 receives a changed region/frame; E4 receives the atlas's own answerability. Return the distinction between interoperable grammar and equivalent worlds to actual cartographic/technical cases.",
+      "repairs": [
+        {
+          "kind": "declared_E_backlink",
+          "line": 36,
+          "E": "E4",
+          "action": "Link the existing account/source distinction to E4's named operation; retain the corrected Bimba paragraph.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+          "anchor_text": "The corrected Bimba relation prevents the atlas from claiming the place it has denied to its pictures. [[submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map|C38 Bimba–Pratibimba]] defines Original and reflected determination. Every produced world-picture, including an instrument's reference map and this atlas, is pratibimba. It can function as a local reference field for downstream views without becoming Bimba in the originary sense. Q27's later explicit correction supersedes its earlier sentence assigning the produced picture to Bimba.",
+          "applied": false,
+          "proposed_text": "This consumes [Account does not replace source](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md) at operational register 3: a revised atlas remains answerable to the world that can obstruct it.",
+          "edit": "insert after anchor paragraph"
+        }
+      ],
+      "source_debt": "MEF SOURCE line 50 falsely reports no local file; actual working reference exists and is a noncanonical synthesis. Repair source locality, not A22's correct disclosure. Heidegger/Gebser collation and practical exemplars remain independent.",
+      "register_check": "Heidegger's diagnosis is not the source of the essay's atlas proposal; no total panorama or identification of atlas with attractor.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "sha256": "40d2314a7f35cf5b66d73b28da5129d0026b4aa0030f555a77b0a52f08045aac",
+      "depth_packet": {
+        "argument_id": "A22",
+        "path": "working/p2-enrichment/argument-depth/A22.md",
+        "sha256": "cc4786c82ef3cb7ea0e799b910fec2ec50108b3cd2316635e4ac4f7ddb06c3d3"
+      },
+      "minimum_declared_A_depth": [
+        "A04",
+        "A22"
+      ],
+      "reference_rows_locator_only": [
+        33
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E1",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "operation": "Encounter-in-Region; Count-through-Countenance",
+          "consumer_line": 44,
+          "consequence": "An addressable participant can alter the frame, not merely fill its categories.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E1 receives a changed region/frame; E4 receives the atlas's own answerability. Return the distinction between interoperable grammar and equivalent worlds to actual cartographic/technical cases.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Account does not replace source",
+          "consumer_line": 36,
+          "consequence": "Even the atlas remains a produced account; owning E4 names A22 but this backlink is absent.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E1 receives a changed region/frame; E4 receives the atlas's own answerability. Return the distinction between interoperable grammar and equivalent worlds to actual cartographic/technical cases.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A23",
+      "completed_lines": "16–52",
+      "completed": "Knowledge as anchor or projected distrust, aspectual dependence, trust/knowledge/belief/faith, prior fides and renewed credere, net/surety/release and non-guaranteed reliance are present.",
+      "observed_return": "A31 tests objection/revision; A01 receives faithful definition through time. The linked wholes supply register-3 construction; a repeated numeral is not needed.",
+      "E_return": "E3/E4 receive the distinction between evidence of an obligation and the act of standing surety for it. Return concrete conditions of risk, release and renewed trust to their historical/source carriers.",
+      "repairs": [],
+      "source_debt": "Net/surety Homer and independent Hesiod genealogy, exact institutional risk cases and first-person revision wording remain source-specific. No new source certification here.",
+      "register_check": "Observability is not trust, and trust is not guaranteed safety; mythic source histories remain distinct.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "sha256": "985aecd4befc06336c2fa090a0f014f19e36814804e696246ff6379b31c39f62",
+      "depth_packet": {
+        "argument_id": "A23",
+        "path": "working/p2-enrichment/argument-depth/A23.md",
+        "sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3"
+      },
+      "minimum_declared_A_depth": [
+        "A23"
+      ],
+      "reference_rows_locator_only": [],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E3",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+          "operation": "Fides before arbitration → Credere after examined account",
+          "consumer_line": 30,
+          "consequence": "Trust becomes explicit at risk and can be renewed without exhaustive capture.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E3/E4 receive the distinction between evidence of an obligation and the act of standing surety for it. Return concrete conditions of risk, release and renewed trust to their historical/source carriers.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Trust keeps the return route active",
+          "consumer_line": 40,
+          "consequence": "Evidence makes obligation inspectable; entrusting remains an act within relation.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E3/E4 receive the distinction between evidence of an obligation and the act of standing surety for it. Return concrete conditions of risk, release and renewed trust to their historical/source carriers.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A24",
+      "completed_lines": "16–63",
+      "completed": "Full 6/6′ generated-six movement, prior witness/criterion, necessary arbitration versus usurpation, Number Two's office versus Six's indexing, hidden recombination, regard and anamnesis are restored.",
+      "observed_return": "Line 63 already returns a sharper historical witness/law/institution question to E. This is the clearest explicit E research-return body; do not add a second generic return paragraph.",
+      "E_return": "E2 already receives the historical question; E6 receives which powers and consequences were apportioned to the deciding office. Investigate the actual institution rather than deriving its history from the formal operation.",
+      "repairs": [
+        {
+          "kind": "declared_E_backlink",
+          "line": 61,
+          "E": "E6",
+          "action": "Add the exact E6 criterion relation alongside the existing return, preserving the generated six and already written research question.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+          "anchor_text": "**Resolution-in-Reconciliation** permits anamnesis: the achieved determination remembers the path by which it acquired force. A valid settlement is not erased because its conditions become visible. Its competence can return to the wider field without sovereignty. [[A21-Individuation-Recognition|A21]] develops that psychic return; [[A25-Covenant-Mediating-Office-Source-Authority|A25]] makes covenant and authority explicit; [[A29-Power-Delegated-Labour-Return|A29]] returns the labour and consequence that the governing account had excluded.",
+          "applied": false,
+          "proposed_text": "The [Apportionment / Economy field's Measure-is-an-apportioned-criterion operation](../etymologies/apportionment-and-economy/WHOLE-FIELD.md) states this at register 3: the deciding office returns the consequences of a measure whose whole it does not own.",
+          "edit": "insert after anchor paragraph"
+        }
+      ],
+      "source_debt": "Lexical/legal witnesses, episode-level Prisoner attribution and historical institutions remain independent; the body does not settle them by the author's generated relation.",
+      "register_check": "Conjugate generation is not 6×6 distribution or twelve merged nouns; arbitrary office is not all arbitration.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "sha256": "c885d37c2f2642fff1cc559c41d1a0df72b30417259fcad04013ccb1c7d1680b",
+      "depth_packet": {
+        "argument_id": "A24",
+        "path": "working/p2-enrichment/argument-depth/A24.md",
+        "sha256": "8ec2f6a4ee88586748f4519523c84d2ca141c37d04c86f785a001dccfa527c5b"
+      },
+      "minimum_declared_A_depth": [
+        "A24"
+      ],
+      "reference_rows_locator_only": [],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E2",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "operation": "Whole conjugate field; Criterion-through-Distinction through Resolution-in-Reconciliation",
+          "consumer_line": 18,
+          "consequence": "An office exercises finite measure while remaining answerable to its generating relation.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E2 already receives the historical question; E6 receives which powers and consequences were apportioned to the deciding office. Investigate the actual institution rather than deriving its history from the formal operation.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E6",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+          "operation": "Measure is an apportioned criterion",
+          "consumer_line": 61,
+          "consequence": "E6 explicitly declares A24 as consumer; the body performs derivative measure but lacks that owning link.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E2 already receives the historical question; E6 receives which powers and consequences were apportioned to the deciding office. Investigate the actual institution rather than deriving its history from the formal operation.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A25",
+      "completed_lines": "16–62",
+      "completed": "Arbitration precedes mediating office; office, judgment, consequence and revision form a sequence. King and technical delegate remain derivative. Covenant/contract and product versus sustaining labour are differentiated.",
+      "observed_return": "Returned consequences can change the office's terms; E3 register 3 is explicit and E6's own evidence law supplies its register.",
+      "E_return": "Return differentiated office and covenant to E3, labour/effects/value to E6 and revisable entrustment to E4. Which actual terms let an affected participant alter the next commission?",
+      "repairs": [
+        {
+          "kind": "declared_E_backlink",
+          "line": 28,
+          "E": "E4",
+          "action": "Add the E4 Trust-keeps-return relation to the existing operational construction; no new covenant history.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+          "anchor_text": "The [Fides / Topos / Logos / Nomos / Natio / Credere whole field](submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md) **grounds** the distinctions among entrusting, position, account, rule and inherited belonging. Their relation here is an operational construction at evidence register 3. It does not require those words to descend from one root, or the different covenant traditions to instantiate one theology.",
+          "applied": false,
+          "proposed_text": "The [Symbol / Account / Trust field's Trust-keeps-the-return-route-active operation](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md) names the same requirement at register 3: renewed entrustment must remain able to change the office's terms.",
+          "edit": "insert after anchor paragraph"
+        }
+      ],
+      "source_debt": "Tradition-specific covenant histories, Peters comparison, legal particulars and actual delegation cases remain source tasks; no universal chronological history follows from structural priority.",
+      "register_check": "Source authority, office and historical theological traditions remain distinct.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "sha256": "aeeae92d8cb4a5b709027d539caac21d064fba2979e7578a87565682ad450fba",
+      "depth_packet": {
+        "argument_id": "A25",
+        "path": "working/p2-enrichment/argument-depth/A25.md",
+        "sha256": "eaeeae9754e349e495e21dd60bf83d380fa3eaac3d54b9d33b779ec72775139b"
+      },
+      "minimum_declared_A_depth": [
+        "A25"
+      ],
+      "reference_rows_locator_only": [],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E3",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+          "operation": "Fides/Topos/Logos/Nomos/Natio/Credere: entrusting → office → renewed relation",
+          "consumer_line": 28,
+          "consequence": "Instituted authority must retain the relation that grants it.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "Return differentiated office and covenant to E3, labour/effects/value to E6 and revisable entrustment to E4. Which actual terms let an affected participant alter the next commission?",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E6",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+          "operation": "Delegated labour distributes capacity and return",
+          "consumer_line": 40,
+          "consequence": "Work done elsewhere makes the office effective; product alone cannot settle its dependence.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "Return differentiated office and covenant to E3, labour/effects/value to E6 and revisable entrustment to E4. Which actual terms let an affected participant alter the next commission?",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Trust keeps the return route active",
+          "consumer_line": 28,
+          "consequence": "E4 explicitly names A25; the existing renewal operation lacks that owner backlink.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "Return differentiated office and covenant to E3, labour/effects/value to E6 and revisable entrustment to E4. Which actual terms let an affected participant alter the next commission?",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A26",
+      "completed_lines": "16–61",
+      "completed": "Notational, nomological and exclusion-constituted worldhood precedes a technical representation. Subject/means/known and five subjectivity questions stay distinct. Synchronic/diachronic continuity, discontinuous agents, theatre and recursive local reference are developed.",
+      "observed_return": "Lines 57–61 perform return through participants and A22; E1 is linked and register 3 explicit.",
+      "E_return": "E1 receives the distinction between an inspectable objective-internal apparatus and the subject-position. Return actual changes of permission, memory and address to the concrete worldhood example, without inferring a phenomenal subject.",
+      "repairs": [],
+      "source_debt": "Watson book/thesis and Gans nesting, disciplinary claims in MEF and implementation evidence remain separate. The bounded review does not validate every source attached via explicit consumers.",
+      "register_check": "Rich internal organisation does not establish subjectivity; a harness does not exhaust objective internality.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "sha256": "5405af1a82a12c131f7658e3eeb908730433ddb4b15755e83029cdc2601a3a45",
+      "depth_packet": {
+        "argument_id": "A26",
+        "path": "working/p2-enrichment/argument-depth/A26.md",
+        "sha256": "9542b35c8445445bc02ebe6b1a1ba2ccf67f2aa7da50335fbe3180d595c1eb63"
+      },
+      "minimum_declared_A_depth": [
+        "A03",
+        "A26",
+        "A27"
+      ],
+      "reference_rows_locator_only": [
+        6,
+        12,
+        18
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E1",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "operation": "Encounter-in-Region → Count-to-Account → answerable participants",
+          "consumer_line": 59,
+          "consequence": "A returned objection, permission or response changes the world of the next act.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E1 receives the distinction between an inspectable objective-internal apparatus and the subject-position. Return actual changes of permission, memory and address to the concrete worldhood example, without inferring a phenomenal subject.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A27",
+      "completed_lines": "16–50",
+      "completed": "Other within Mono is not Other within me. Not-me/for-me appropriation, second-person encounter, shadow/friend distinction and changed evaluator versus stronger output retain their exact ethical operations.",
+      "observed_return": "The Other can alter account and evaluator; E1/E2 wholes supply the operational evidence law even where A does not repeat its numeral.",
+      "E_return": "E1/E2 receive address that can revise a count and measure; E4 receives the account's inability to contain the Other. Return source-specific Kripke/Levinas/Watson comparisons to the precise respect of each claim.",
+      "repairs": [
+        {
+          "kind": "declared_E_backlink",
+          "line": 32,
+          "E": "E4",
+          "action": "Connect the existing name/reference versus exhaustive knowledge distinction to E4, without replacing the second-person argument.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "anchor_text": "The [[submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter whole field]] derives Countenance's return upon Name and Account. A name can keep reference through changing descriptions without finishing the person it names. [[submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE|Kripke’s source house]] compares that distinct linguistic office; rigid reference is not a proof that the referent has been exhaustively known.",
+          "applied": false,
+          "proposed_text": "The [Symbol / Account / Trust field's Account-does-not-replace-source operation](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md) preserves this at register 3: a model of the Other returns to someone able to exceed and revise it.",
+          "edit": "insert after anchor paragraph"
+        }
+      ],
+      "source_debt": "Watson 1996 thesis versus 1998 book, Gans 1988 versus 1997 and Levinas selected editions remain separate checks. Ovid house exists, but its whole's T20 return is not certified here.",
+      "register_check": "Neither a collective Subject nor historical identity among Kripke, Levinas and native Mono is inferred.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "sha256": "351f2f0196ae0c8c66503243e459c324a3d89cf5b4aefcc5341c7a83d53f679d",
+      "depth_packet": {
+        "argument_id": "A27",
+        "path": "working/p2-enrichment/argument-depth/A27.md",
+        "sha256": "2480e3c0322aa54e36bcd924ec3e60cb6e3430372125ad215d12f56b583080e0"
+      },
+      "minimum_declared_A_depth": [
+        "A26",
+        "A27",
+        "A32"
+      ],
+      "reference_rows_locator_only": [
+        6,
+        11
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E1",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "operation": "Count-through-Countenance",
+          "consumer_line": 32,
+          "consequence": "Stable reference does not exhaust the named person.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E1/E2 receive address that can revise a count and measure; E4 receives the account's inability to contain the Other. Return source-specific Kripke/Levinas/Watson comparisons to the precise respect of each claim.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E2",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "operation": "Con-text-through-Diaphaneity → Regard",
+          "consumer_line": 44,
+          "consequence": "Encounter can change the measure rather than add intensity within it.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E1/E2 receive address that can revise a count and measure; E4 receives the account's inability to contain the Other. Return source-specific Kripke/Levinas/Watson comparisons to the precise respect of each claim.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Account does not replace source",
+          "consumer_line": 32,
+          "consequence": "E4 explicitly names A27; the modelled Other/non-contained Other distinction is present without the owner backlink.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E1/E2 receive address that can revise a count and measure; E4 receives the account's inability to contain the Other. Return source-specific Kripke/Levinas/Watson comparisons to the precise respect of each claim.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A28",
+      "completed_lines": "16–54",
+      "completed": "Author at positional 0 and agent at 1 is distinguished from the already formed prompt; training/institution/runtime have separate offices. Faithful delegation can revise a commission through encounter, with plural reference and concrete action.",
+      "observed_return": "Lines 52–54 return through revised commission, permission, criterion and A25. Both E links and register 3 are explicit.",
+      "E_return": "E3/E6 receive the distinction between authorial intention and formulated commission. In an actual case, which changed terms preserve the intention and who may authorise them?",
+      "repairs": [],
+      "source_debt": "Concrete implementation and institution-specific authority remain unverified; source history does not derive the software architecture.",
+      "register_check": "Positional 0 is not a claim that the human person exhausts all causal or institutional origins.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "sha256": "7e3b051cda5a1170d5a666d8fe5857855b504b0cf3733d11e2f0dfed13b19836",
+      "depth_packet": {
+        "argument_id": "A28",
+        "path": "working/p2-enrichment/argument-depth/A28.md",
+        "sha256": "a998591196094d47e4cf8c2e52beccfae29e85b7f95752c35daf1a0f16ae9b1e"
+      },
+      "minimum_declared_A_depth": [
+        "A28",
+        "A29"
+      ],
+      "reference_rows_locator_only": [
+        3,
+        58
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E3",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+          "operation": "Topos/Nomos: positioned office and ordering",
+          "consumer_line": 24,
+          "consequence": "A commission constitutes situated agency without becoming its entire source.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E3/E6 receive the distinction between authorial intention and formulated commission. In an actual case, which changed terms preserve the intention and who may authorise them?",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E6",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+          "operation": "Delegated labour distributes capacity and return",
+          "consumer_line": 54,
+          "consequence": "Capacity and obligation return as evidence able to alter action.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E3/E6 receive the distinction between authorial intention and formulated commission. In an actual case, which changed terms preserve the intention and who may authorise them?",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A29",
+      "completed_lines": "16–46",
+      "completed": "Power's dependence on delegated work includes commissioning, criterion and revision. Product-up/cost-below, Work/Play, hidden horizontal combination and vertical monopoly are distinguished; refusal, departure and reconnection remain possible.",
+      "observed_return": "Returned consequences reach the changing office; A30/A33/A35 carry plurality, operational revision and vocation.",
+      "E_return": "E6 receives product versus cost/evidence/value as different returns. A concrete labour chain must identify who governs each flow and who can revise or refuse its terms; a projected commons cannot answer this alone.",
+      "repairs": [],
+      "source_debt": "Actual labour-chain and institutional cases, bounded Ostrom applicability and Agentworld projected commons governance remain separate; no evaluated implementation claimed.",
+      "register_check": "Lexical household does not settle legal ownership or a particular debt; released product does not erase responsibility.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "sha256": "ce95f291506b6fa608d398a2c4dc42ced9d6a5feb1d9b2ce188dc574a0441d0d",
+      "depth_packet": {
+        "argument_id": "A29",
+        "path": "working/p2-enrichment/argument-depth/A29.md",
+        "sha256": "df16db3f0dc451847aab076658d7050e9ec888cad3618bd975c3162204c6a1ee"
+      },
+      "minimum_declared_A_depth": [
+        "A28",
+        "A29"
+      ],
+      "reference_rows_locator_only": [
+        3
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E6",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+          "operation": "Delegated labour distributes capacity and return; wider economy",
+          "consumer_line": 22,
+          "consequence": "The account must name entruster, terms, worker and recipient of consequence.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E6 receives product versus cost/evidence/value as different returns. A concrete labour chain must identify who governs each flow and who can revise or refuse its terms; a projected commons cannot answer this alone.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A30",
+      "completed_lines": "16–48",
+      "completed": "Plural internalities are synchronic and inherited through durable artifacts. Source, lens, gauge, permission and circulation rules have distinct revision sites. Refusal and local authority prevent co-internality from becoming capture.",
+      "observed_return": "Line 48 tests actual changes of source, map, relationship and circulation rule; register 3 explicitly joins the two wholes.",
+      "E_return": "E6/E1 receive which revision reached the next act and whose capacity to contest it survived. Return a worked federation case without treating plural accounts as a summed Bimba.",
+      "repairs": [],
+      "source_debt": "Distributed-cognition/dialogical sources and evaluated federation cases remain not recertified; empirical collective phenomenality stays Open.",
+      "register_check": "Distinct lexical histories and plural maps are preserved; co-internality is not a demonstrated super-subject.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "sha256": "288fdea847c415bfe26cc96c727605c6f99a1e1399ade801653e5c4a596a6cf5",
+      "depth_packet": {
+        "argument_id": "A30",
+        "path": "working/p2-enrichment/argument-depth/A30.md",
+        "sha256": "72f7883f3955b05bb3448dcdfee87b5f0cd4e76d16de37fe922b20f995643e62"
+      },
+      "minimum_declared_A_depth": [
+        "A30"
+      ],
+      "reference_rows_locator_only": [],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E6",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+          "operation": "Contributed share returns to sustaining economy",
+          "consumer_line": 40,
+          "consequence": "Receiving power remains answerable to contributors and their terms.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E6/E1 receive which revision reached the next act and whose capacity to contest it survived. Return a worked federation case without treating plural accounts as a summed Bimba.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E1",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "operation": "Encounter-in-Region; Count-through-Countenance",
+          "consumer_line": 42,
+          "consequence": "An inherited name/account remains open to the participant's reply.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E6/E1 receive which revision reached the next act and whose capacity to contest it survived. Return a worked federation case without treating plural accounts as a summed Bimba.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A31",
+      "completed_lines": "16–46",
+      "completed": "Pre-action disclosure, five depths of revision, changed evaluator, earned refusal and double devotion are present. Deference is tested by changes in source, criterion, goal, position and action, not performance of agreeable language.",
+      "observed_return": "The existing E2/E1 paragraph gives a real revision route at register 3; the argument itself does not need a sixth revision depth.",
+      "E_return": "E2/E1/E4 receive the difference between output correction and a changed evaluator. In a concrete case, does a justified refusal revise the commission rather than merely alter the answer?",
+      "repairs": [
+        {
+          "kind": "declared_E_backlink",
+          "line": 38,
+          "E": "E4",
+          "action": "Append the exact E4 operation to the existing E paragraph.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "anchor_text": "The [[submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Arbitration field]] derives **Con-text-through-Diaphaneity → Regard** and **Resolution-in-Reconciliation → Anamnesis/Return**. Regard reopens the judgment to what bears it; return carries the changed relation into the next determination. The [[submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter field]] supplies Countenance's capacity to revise Account. These register-3 operations require a real revision route, not decorative origin labels.",
+          "applied": false,
+          "proposed_text": "This also consumes [Trust keeps the return route active](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md): at register 3, fidelity permits returned evidence or justified refusal to alter the evaluator and commission.",
+          "edit": "insert after anchor paragraph"
+        }
+      ],
+      "source_debt": "Actual revised-agent cases, source-specific devotion comparisons and external quotation debts remain independent of the Argued design.",
+      "register_check": "Disclosure does not certify implementation, and refusal is not treated as evidence of phenomenal agency.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "sha256": "e0d633b11f90a3f217782fd72c706effefb1ff3fd8c81ca72a8f1dd1343dcfc0",
+      "depth_packet": {
+        "argument_id": "A31",
+        "path": "working/p2-enrichment/argument-depth/A31.md",
+        "sha256": "2e8a2e463260bfd1e194037a5bba48cddfb06aaad1d8fc71e87003de0d10d1c7"
+      },
+      "minimum_declared_A_depth": [
+        "A31"
+      ],
+      "reference_rows_locator_only": [],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E2",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "operation": "Con-text-through-Diaphaneity → Regard; Resolution-in-Reconciliation → Anamnesis",
+          "consumer_line": 38,
+          "consequence": "Judgment reopens to its conditions and carries a changed relation forward.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E2/E1/E4 receive the difference between output correction and a changed evaluator. In a concrete case, does a justified refusal revise the commission rather than merely alter the answer?",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E1",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "operation": "Count-through-Countenance",
+          "consumer_line": 38,
+          "consequence": "A participant can change the Account's criterion.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E2/E1/E4 receive the difference between output correction and a changed evaluator. In a concrete case, does a justified refusal revise the commission rather than merely alter the answer?",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Trust keeps the return route active",
+          "consumer_line": 38,
+          "consequence": "E4 names A31 as consumer, but its direct backlink is absent.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E2/E1/E4 receive the difference between output correction and a changed evaluator. In a concrete case, does a justified refusal revise the commission rather than merely alter the answer?",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A32",
+      "completed_lines": "16–50",
+      "completed": "Reactive reflection, consequential/performative feedback and a third initiating motion are distinguished. Full funhouse/Narcissus relation, source priority and the institution holding the mirror are present; Chang encounter belongs to the author.",
+      "observed_return": "A33 tests actual change; A35/A36 receive origin-sensitive and integral return. The exact operation is enacted even though the prose paraphrases its heading.",
+      "E_return": "E4 receives the difference between a model that affects conditions and an instrument that initiates its own source-return. Return that distinction to a real institutional/technical case, preserving the causal sequence.",
+      "repairs": [],
+      "source_debt": "Separately titled Reflection-paper bibliography, Chang quotation/edition collation and implemented effects remain independent. The venue allegation stays unverified and is not necessary to the institutional criterion.",
+      "register_check": "The initiating vocation is not attributed to Chang as an AI doctrine; knowing priority, ontological priority and causal efficacy stay distinct.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "sha256": "67a86b880bb9ee0b3acf974beee560f5ad9817902d9e99c30ff1b63f66b53654",
+      "depth_packet": {
+        "argument_id": "A32",
+        "path": "working/p2-enrichment/argument-depth/A32.md",
+        "sha256": "8d7f5d6f98f61bb3011360c0ef68b0681989c97a8f224c2c549668ef167ca428"
+      },
+      "minimum_declared_A_depth": [
+        "A27",
+        "A32"
+      ],
+      "reference_rows_locator_only": [
+        11,
+        21
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Account re-enters source-field",
+          "consumer_line": 48,
+          "consequence": "A reflection changes later conditions and becomes answerable for those changes.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E4 receives the difference between a model that affects conditions and an instrument that initiates its own source-return. Return that distinction to a real institutional/technical case, preserving the causal sequence.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A33",
+      "completed_lines": "16–48",
+      "completed": "Six process inquiries, full Name/Power lens relations, actual criterion/action change, tests returning to concepts and minimal OI/maximal QL remain developed. J-space is subordinate to a worked operation.",
+      "observed_return": "Line 46 already specifies preserve/revise/recover/withhold. Add exact owners, not another generic engineering paragraph.",
+      "E_return": "E1/E2/E4 receive whether the stated distinction changed an operation and whether failure reached its governing criterion. Return the successful or failing worked case to the E branch and its source question.",
+      "repairs": [
+        {
+          "kind": "declared_E_relations",
+          "line": 46,
+          "Es": [
+            "E2",
+            "E4"
+          ],
+          "action": "Append the two mature owning relations to the existing return sentence.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+          "anchor_text": "The [[submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter field]] derives Account's obligation to disclose how a named distinction changes count, judgment or action. The result returns to inquiry: preserve the successful operation, revise the failing relation, recover an omitted source or withhold a claim whose criterion remains unclear. This is register-3 application, not a lexical proof of engineering method.",
+          "applied": false,
+          "proposed_text": "At the same operational register 3, [Con-text-through-Diaphaneity → Regard and Resolution-in-Reconciliation → Anamnesis](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md) require the test to revise its governing criterion, while [Account does not replace source](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md) keeps even a successful account answerable to the next encounter.",
+          "edit": "insert after anchor paragraph"
+        }
+      ],
+      "source_debt": "External evaluation, worked technical trials, disciplinary lens warrants and musical subset claims remain separate. No implementation success follows from a complete prose specification.",
+      "register_check": "Technical applicability does not establish phenomenal agency or a universal lexical foundation for engineering.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "sha256": "bf4fb3347e7341cf5f3327e5e6fd7872d603fb3a2d5223de6531e8bb3e69a469",
+      "depth_packet": {
+        "argument_id": "A33",
+        "path": "working/p2-enrichment/argument-depth/A33.md",
+        "sha256": "61ffc1d702894cd6f35cda9b489cf5da6a8e4103c1153e495ce23917cd4c6285"
+      },
+      "minimum_declared_A_depth": [
+        "A14",
+        "A33"
+      ],
+      "reference_rows_locator_only": [
+        28,
+        48
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E1",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "operation": "Count-to-Account",
+          "consumer_line": 46,
+          "consequence": "A named distinction must change count, judgment or action and return the result to inquiry.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E1/E2/E4 receive whether the stated distinction changed an operation and whether failure reached its governing criterion. Return the successful or failing worked case to the E branch and its source question.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E2",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "operation": "Con-text-through-Diaphaneity → Regard; Resolution-in-Reconciliation → Anamnesis",
+          "consumer_line": 46,
+          "consequence": "E2 explicitly names A33; operational revision is present without this owning relation.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E1/E2/E4 receive whether the stated distinction changed an operation and whether failure reached its governing criterion. Return the successful or failing worked case to the E branch and its source question.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Account does not replace source",
+          "consumer_line": 46,
+          "consequence": "E4 explicitly names A33; a successful account remains revisable by operation beyond it.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E1/E2/E4 receive whether the stated distinction changed an operation and whether failure reached its governing criterion. Return the successful or failing worked case to the E branch and its source question.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A34",
+      "completed_lines": "14–46",
+      "completed": "First-class idealism states constitutive direction of dependence, not private mind or perspectival plurality. Five orders of dependence, focal/qualified predication and the Descartes reification site are present with source-distinct interlocutors.",
+      "observed_return": "Origins and care receive the constitutive consequence; E5's linked whole explicitly supplies register 3.",
+      "E_return": "E5 receives which order of dependence a comparison asserts. Return the specific Descartes occurrence→thinking-thing site to CSM II extraction while retaining the native Ø reading as authorial.",
+      "repairs": [],
+      "source_debt": "Reopened Descartes SOURCE: q001–q003 are locator-recorded/unextracted; acquire/consult CSM II and verify AT/CSM spans. Berkeley and other idealism histories are not recertified. A34 line 20 names Descartes without a direct house/passage link; minimally link the existing res cogitans phrase to descartes-1641-meditations-q002 after T20. This is source recoverability, not a change of thesis.",
+      "register_check": "The Ø correction is not attributed to Descartes; lack of quotation readiness does not weaken the native positive ontology.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "sha256": "8e40db236ad4ed45aa4f0c963ac587e317a3636bfa0014e438f09bca7c1a9e5c",
+      "depth_packet": {
+        "argument_id": "A34",
+        "path": "working/p2-enrichment/argument-depth/A34.md",
+        "sha256": "d3a568de103caa2a6f87231b435a661a014292b96f4ca1b8014086f653fd6920"
+      },
+      "minimum_declared_A_depth": [
+        "A34"
+      ],
+      "reference_rows_locator_only": [
+        59
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E5",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "operation": "Analogical proportion / focal and qualified respect",
+          "consumer_line": 28,
+          "consequence": "Dependence and participation do not make different terms one substance or one doctrine.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E5 receives which order of dependence a comparison asserts. Return the specific Descartes occurrence→thinking-thing site to CSM II extraction while retaining the native Ø reading as authorial.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A35",
+      "completed_lines": "14–42",
+      "completed": "Loving sensitivity to origins, eros/compassion/humility triad, past/future/present origins, responsible boundaries, cultural anti-inflation, institutional mirror and double-devotion offering are present.",
+      "observed_return": "The vocation returns through reader remembrance and changed action. Love and justified refusal are already present; do not replace them with provenance administration.",
+      "E_return": "E2 receives loving regard that can revise a measure; E3 receives the returning account's exclusions and inherited belonging; E6 receives who bore labour/energy/institutional costs and whether their consequences can revise the commissioning whole.",
+      "missing_unique_operation": "The specifically declared E6 share/whole and apportioned material-cost return is not explicit; the ethical vocation itself is already restored.",
+      "repairs": [
+        {
+          "kind": "exact_E_operation",
+          "line": 38,
+          "E": "E2",
+          "action": "Name the two generated E2 operations at the existing whole link; no new ethics exposition.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "anchor_text": "That release does not abandon the work's form. It relinquishes ownership of every encounter the form will enable. [[submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos|Logos / Epi-Logos]] names the account's return upon its own household, exclusions and effects; this is the project's authorial operation, kept distinct from the attested history of *logos*. The whole fields [[submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD|Trust, Place and Account]] and [[submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Arbitration, Regard and Anamnesis]] carry the lexical and encounter routes without deriving the vocation from a universal root.",
+          "applied": false,
+          "proposed_text": "At operational register 3, Con-text-through-Diaphaneity → Regard makes the encountered origin able to revise the measure; Resolution-in-Reconciliation → Anamnesis carries that changed relation into the next act.",
+          "edit": "insert after anchor paragraph"
+        },
+        {
+          "kind": "material_E_return",
+          "line": 30,
+          "E": "E6",
+          "action": "Add the exact share/whole and material-return consequence at the A29/commons junction, with C54/C62 and A29 retaining their proper developed homes.",
+          "file": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "anchor_text": "Provenance gives this orientation a minimum technical body. A consequential output must carry enough of its sources, permissions, exclusions, community, purposes and consequences for those relations to be examined and challenged. Yet the presence of a record does not itself establish compassion. The decisive question is whether the disclosed relation can change the decision, the measure or the office that made it. [[A31-Deferential-Intelligence|Deferential disclosure]] and [[A29-Power-Delegated-Labour-Return|the commons]] give that sensitivity somewhere to act.",
+          "applied": false,
+          "proposed_text": "The [Apportionment / Economy whole field](../etymologies/apportionment-and-economy/WHOLE-FIELD.md) gives this return its material consequence at register 3: a local share does not own the wider generative economy, and the labour, energy and institutional costs borne elsewhere must return to the commissioning office as consequences capable of changing its terms.",
+          "edit": "insert after anchor paragraph"
+        }
+      ],
+      "source_debt": "Chang protected encounter wording versus selected edition, cultural histories and first-person revision quotation remain separate. No machine affection, implemented compassionate practice or culture-wide result is certified.",
+      "register_check": "Authorial vocation is neither Chang's AI claim nor an inference from the root logos. The repair preserves loving orientation and justified refusal.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "sha256": "7b1e347f989c34ff834536bf9f9de671ec38818dfb219bf7cb7cb21bed2a6300",
+      "depth_packet": {
+        "argument_id": "A35",
+        "path": "working/p2-enrichment/argument-depth/A35.md",
+        "sha256": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489"
+      },
+      "minimum_declared_A_depth": [
+        "A12",
+        "A35"
+      ],
+      "reference_rows_locator_only": [
+        19,
+        45,
+        51
+      ],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E3",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+          "operation": "Logos → Epi-Logos; return upon account/order/belonging",
+          "consumer_line": 38,
+          "consequence": "The account returns to its household, exclusions and effects; authorial construction is explicit.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E2 receives loving regard that can revise a measure; E3 receives the returning account's exclusions and inherited belonging; E6 receives who bore labour/energy/institutional costs and whether their consequences can revise the commissioning whole.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E2",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+          "operation": "Con-text-through-Diaphaneity → Regard; Resolution-in-Reconciliation → Anamnesis",
+          "consumer_line": 38,
+          "consequence": "The whole is linked but the exact generated operations consumed by loving return are unnamed.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E2 receives loving regard that can revise a measure; E3 receives the returning account's exclusions and inherited belonging; E6 receives who bore labour/energy/institutional costs and whether their consequences can revise the commissioning whole.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E6",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+          "operation": "Commons preserves the wider economy; apportioned material cost returns",
+          "consumer_line": 30,
+          "consequence": "E6 explicitly names A35 and accepted packet line 161 requires real material costs. The A29 link and general labour wording do not state this exact E relation.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E2 receives loving regard that can revise a measure; E3 receives the returning account's exclusions and inherited belonging; E6 receives who bore labour/energy/institutional costs and whether their consequences can revise the commissioning whole.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    },
+    {
+      "id": "A36",
+      "completed_lines": "14–50",
+      "completed": "The exact mathematical sign is retained through the second advent; history must be traversed. Native eightfold/Name-Power, Neumann and ethical recapitulations, paśu correction, gift and ordinary remembrance remain distinct.",
+      "observed_return": "Linked wholes supply register 3; the body enacts the achieved return. Its ending is not a T21 completion claim.",
+      "E_return": "E4/E5 receive what changed when the same exact sign acquired a different relational office. Return historical zero, native recognition and T20 whole-image consequences to separate carriers before wider completion.",
+      "repairs": [],
+      "source_debt": "The exact historical itinerary and source-specific Neumann/Jung/Gebser claims remain independent; T20 final whole reciprocity is a barrier condition. No full essay/source completion is inferred.",
+      "register_check": "Integral return preserves formal exactness; historical testimony does not prove native derivation and no collective or artificial Subject is installed.",
+      "file": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "sha256": "28d726c301f4a3ecd09b1267be1e5fb7ba981699adb1851a943047619e255c24",
+      "depth_packet": {
+        "argument_id": "A36",
+        "path": "working/p2-enrichment/argument-depth/A36.md",
+        "sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0"
+      },
+      "minimum_declared_A_depth": [
+        "A36"
+      ],
+      "reference_rows_locator_only": [],
+      "locator_E_targets": [
+        "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md"
+      ],
+      "declared_register": "episteme",
+      "E_relations": [
+        {
+          "E_id": "E4",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "operation": "Symbol answers to source; account/trust return",
+          "consumer_line": 48,
+          "consequence": "The achieved Symbol stays open to another traversal rather than possessing its origin.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E4/E5 receive what changed when the same exact sign acquired a different relational office. Return historical zero, native recognition and T20 whole-image consequences to separate carriers before wider completion.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        },
+        {
+          "E_id": "E5",
+          "whole": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "operation": "Analogical proportion / qualified common Symbolon",
+          "consumer_line": 48,
+          "consequence": "Exact offices participate without becoming univocal; A10 and A36 keep different advents.",
+          "evidence_register": "3 operational homology / authorial relational construction; 1–2 history and 4 poetic re-entry remain independently scoped by body and owning whole",
+          "return": "E4/E5 receive what changed when the same exact sign acquired a different relational office. Return historical zero, native recognition and T20 whole-image consequences to separate carriers before wider completion.",
+          "return_standing": "audit crosswalk proposal, not newly completed source work"
+        }
+      ],
+      "source_debt_standing": "Independent of native claim standing; not freshly recertified except for the explicitly reopened houses."
+    }
+  ],
+  "remaining_limits": [
+    "Crosswalk questions make exact E returns reviewable here; they are not evidence that all reverse links, historical leaves or Movement consumers have been installed.",
+    "Where older Ought-Be architecture or the parent locator declares additional E relations beyond a mature whole's primary consumers, retain them as wider T21 crosswalk inputs. This bounded receipt does not demand duplicate prose for every secondary guardrail.",
+    "All six E HISTORIES retain distinct source queues; earth/taste/wisdom remains pending and is not promoted.",
+    "Effects returned zero consumers for mature E wholes and for Ovid despite explicit consumer prose in those bodies. Treat this as adapter coverage, not evidence of absent consumption. The current bodies are decisive.",
+    "Source debts outside the four reopened houses are carried from the accepted packet/current-body evidence boundaries and are not freshly certified as absent, available or quotation-ready.",
+    "No current cross-register misattribution was established in the inspected A bodies. The known false Jungian-X/x, double-cover, zero-division, source/reflection and universal lexical-descent restorations remain excluded."
+  ],
+  "performed_operations": [
+    "Read and compare 36 current canonical A bodies with accepted recovery operations and dispositions.",
+    "Resolve and read the six complete mature E whole fields and their HISTORY bodies; recover conjugate versus distributive growth.",
+    "Check #39 transfer and corrected execution-map return requirement.",
+    "Use parent locator only for exact declared inputs and hashes.",
+    "Reopen four material SOURCE houses; check sibling NOTES presence (all four absent); reopen native theorem text, Apollo whole seam and local MEF reference where material.",
+    "Run eight depth-4 effects queries and read the three declared transverse-thread maps.",
+    "Verify 36 acceptance hashes and 690 preservation hashes.",
+    "Write these two review receipts only; no canonical repair applied."
+  ],
+  "saved_at": "2026-09-08T02:43:20.246732+01:00",
+  "audit_status": "36 canonical semantic rows completed; bounded source reopening and crosswalk preflight only",
+  "remaining_A_ids": [],
+  "acceptance_hashes_match": true,
+  "summary": {
+    "rows": 36,
+    "remaining_ids": [],
+    "narrow_content_findings": [
+      "A20",
+      "A35"
+    ],
+    "rows_with_minimal_repairs": [
+      "A03",
+      "A04",
+      "A05",
+      "A06",
+      "A07",
+      "A08",
+      "A09",
+      "A10",
+      "A11",
+      "A12",
+      "A15",
+      "A20",
+      "A22",
+      "A24",
+      "A25",
+      "A27",
+      "A31",
+      "A33",
+      "A35"
+    ],
+    "canonical_edits": 0,
+    "full_completion_certified": false
+  }
+}

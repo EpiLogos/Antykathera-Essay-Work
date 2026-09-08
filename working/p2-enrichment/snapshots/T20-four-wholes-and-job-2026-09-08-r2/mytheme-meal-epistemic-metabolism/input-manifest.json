@@ -1,0 +1,195 @@
+{
+  "inputs": [
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1",
+      "bytes": 3624
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a",
+      "bytes": 6289
+    },
+    {
+      "path": ".wayfinder/maps/t20-t21-world-registers.md",
+      "sha256": "a7589d1b663854888c3767854478a9ea4564a988d770af24f2d30e7ac07204a0",
+      "bytes": 22826
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+      "sha256": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "bytes": 235832
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md",
+      "sha256": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "bytes": 46870
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "bytes": 763400
+    },
+    {
+      "path": "submission-package/essay/quilt/agentworld-response-matrix.md",
+      "sha256": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "bytes": 60000
+    },
+    {
+      "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+      "sha256": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "bytes": 85670
+    },
+    {
+      "path": "submission-package/essay/quilt/ql-expression-grammar.md",
+      "sha256": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277",
+      "bytes": 8632
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "a9b89f88f88c95583e724e0e2c4d5fd5816d28cd2ab57d9fc79c1bdf65880fc8",
+      "bytes": 11036
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "sha256": "089c58e54e8dc1b123189f21bc67c2098b5c4121d9eb32ee52bb444d40088481",
+      "bytes": 9172
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "sha256": "ce95f291506b6fa608d398a2c4dc42ced9d6a5feb1d9b2ce188dc574a0441d0d",
+      "bytes": 7683
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "sha256": "288fdea847c415bfe26cc96c727605c6f99a1e1399ade801653e5c4a596a6cf5",
+      "bytes": 7304
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "sha256": "270e1540cbcc089f2d208f8a38e81cdf0f7f30e76ca616c746864e6e8a7e0727",
+      "bytes": 7261
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "bytes": 22575
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "sha256": "0976dcd50c7294983866760c2938509c0d296a4917be9516792ec9ec329d37f7",
+      "bytes": 4931
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+      "sha256": "768da367dfd6ece009bc1c6717e64156d3ac16e38b570e513ae95939c6e7bc0f",
+      "bytes": 48703
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "sha256": "2f651603974204647249c7a91023cf6edc4008c5bf839b9310cb0070d868fd3d",
+      "bytes": 13044
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/README.md",
+      "sha256": "20e220d9d9b35ac86584b154219ce263a4077b4ecb10229787ef22417f3be825",
+      "bytes": 10907
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "sha256": "b348adc7004f5d0daf4ea4f62f6b081edc5e5dcccdfbad83746a2f2e9e59f849",
+      "bytes": 19639
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/P2-A01-A36-DEPTH-RECOVERY-CONTRACT.md",
+      "sha256": "cfb12675ff193ac3bf38f4ecb2e7f4a16637b1198cfedb7d3d205ed6027c5b3a",
+      "bytes": 9241
+    },
+    {
+      "path": "working/p2-enrichment/T20-quilt-to-whole-coverage.json",
+      "sha256": "e3d8f3a04798bb0edb9ac6d2b0cd442b1d654d92474475eed535a525482d5c75",
+      "bytes": 1147175
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f",
+      "bytes": 26702
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "sha256": "7cfe91ec6423eff272001a99a672cc1e3d02b3eb5cc35ae9e142077660912779",
+      "bytes": 24732
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A29.md",
+      "sha256": "df16db3f0dc451847aab076658d7050e9ec888cad3618bd975c3162204c6a1ee",
+      "bytes": 20472
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A30.md",
+      "sha256": "72f7883f3955b05bb3448dcdfee87b5f0cd4e76d16de37fe922b20f995643e62",
+      "bytes": 22560
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "sha256": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489",
+      "bytes": 24915
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-four-whole-admissions-and-job-preparation-2026-09-08.json",
+      "sha256": "9261d994c748f8d47e07eee84b8baf26e2e21240c51a780507cd0df6c243fd2b",
+      "bytes": 3909
+    },
+    {
+      "path": "working/p2-enrichment/receipts/depth-acceptance.json",
+      "sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+      "bytes": 9607
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-meal-epistemic-metabolism/census.json",
+      "sha256": "edcfd81d707e8ff95dc9ef89f5963e81d1fe4e7b6bffad9141ae65e792971777",
+      "bytes": 69567
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-meal-epistemic-metabolism/queue.json",
+      "sha256": "594e7aac3c21fd78728567678ecb9db35d3256c8a42c88e6d2eef59fd3116743",
+      "bytes": 61830
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "bytes": 99465
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "sha256": "e3a57cce16073324c647f808dcdd485541cbf3c85be87f9000655651b21322a6",
+      "bytes": 24291
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+      "bytes": 124906
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0",
+      "bytes": 82771
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66",
+      "bytes": 152226
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7",
+      "bytes": 62338
+    },
+    {
+      "path": "working/sources-texts-references/the-meal-video-essay-outline.md",
+      "sha256": "4df365b762b92bcef1dbcb38e950d5ea3941f787a92f4f110138a25ab66c30e5",
+      "bytes": 30311
+    }
+  ],
+  "status": "immutable source-byte snapshot; current parent T22 state"
+}

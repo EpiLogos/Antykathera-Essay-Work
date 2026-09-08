@@ -1,0 +1,193 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/T21-aphorism-investigation-and-faith-queue.json",
+    "queue_sha256": "c37fc75fa6f39cb68c1467163bd39ed5eaf7577fa8f65e83d2a41ebd98ec4d07",
+    "census": "working/p2-enrichment/T21-aphorism-investigation-and-faith-census.json",
+    "census_sha256": "ae9aca3fbad6e76598c850a3fa70b155bc94bc9388c1342bb5eea95cbacf7ee2",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "aphorism-investigation-and-faith",
+    "title": "Investigation and Faith — the complete aphorism",
+    "register": "episteme",
+    "record_type": "aphorism",
+    "canonical_home": "submission-package/essay/symbolon/episteme/aphorisms/investigation-and-faith.md",
+    "wave": "T21",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "working/final-argument-quilt-2026-08-23/OUGHT-BE-APHORISM-ARCHITECTURE.md",
+      "working/final-argument-quilt-2026-08-23/APHORISM-AND-PITHY-FORMULATION-LEDGER.md",
+      ".wayfinder/maps/t20-t21-world-registers.md"
+    ],
+    "packet_status": "bound-current-admitted-form",
+    "argument_depth": [
+      "A03",
+      "A23"
+    ],
+    "argument_depth_roles": {
+      "A03": "Approachable determination and absolute condition retain their distinct limits",
+      "A23": "Conscious continuation and committed relation under non-possession"
+    },
+    "direct_carriers": [
+      "working/final-argument-quilt-2026-08-23/OUGHT-BE-APHORISM-ARCHITECTURE.md",
+      "working/final-argument-quilt-2026-08-23/APHORISM-AND-PITHY-FORMULATION-LEDGER.md",
+      "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/final-argument-quilt-2026-08-23/APHORISM-AND-PITHY-FORMULATION-LEDGER.md",
+        "start_line": 21,
+        "end_line": 36,
+        "relation": "One intact authorially ratified four-line form; no synthetic extra aphorisms",
+        "provenance": "Native027 authorial ratification"
+      },
+      {
+        "path": "working/final-argument-quilt-2026-08-23/OUGHT-BE-APHORISM-ARCHITECTURE.md",
+        "start_line": 15,
+        "end_line": 49,
+        "relation": "E4/E3 whole-field operation to A03/A23/M04 and return; no invented six-line form",
+        "provenance": "Recovered #39 transfer architecture"
+      }
+    ],
+    "relations": [
+      {
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "relation": "returns-to",
+        "operation": "Determination can advance without containing its determining condition"
+      },
+      {
+        "target": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "relation": "returns-to",
+        "operation": "Faith consciously continues through the absolute limit"
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/episteme/README.md",
+    "additional_required_inputs": [
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+      "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORY.md",
+      "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md"
+    ]
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A03",
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "sha256": "12d3a0999ffec60d963f055cdbb1a857025a70f2a7bb46641eca20bb187b9b41"
+    },
+    {
+      "argument_id": "A23",
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/final-argument-quilt-2026-08-23/OUGHT-BE-APHORISM-ARCHITECTURE.md",
+      "sha256": "b9324e67a0c31bba2a3f77bcfde9033f45987a5afdd7017e48eccdf29e014a31"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/APHORISM-AND-PITHY-FORMULATION-LEDGER.md",
+      "sha256": "94fa7ad025c758b799f140aa0203a44130c51e5779d9842392ea59549f45ca01"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "sha256": "b4f3e060d7838c27be1ca66c651e5178695d79d46360d976dcbc2a9364c599d4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "sha256": "319c378bd9133afd0e3fc61967ba1036916c4366e2ac3105717214fb84eab1c7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "sha256": "1d7b68a74bd23d8ab4ff5faf397bf4269f9b58d3fc2bc4aada7397fa2876680a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "f385d185dde0d69027813d4b0bd631176d94a93668d267711c6e57611fe8e3d6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+      "sha256": "a46b2a8233e9cf86e93eefbe86fcc7668794632787ec54c4ead6a93dd5ae74fe"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORY.md",
+      "sha256": "c03b101c05bd986c07f3112fc34f70a1a539413362267f53ec06c289b1838df5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+      "sha256": "b530405f2f19fa8d9f5e002c709b846df58bf9519cce8c8c5359ce13c5dc1db0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/README.md",
+      "sha256": "b0b3c8bc2e16e53c6c6a461a02528d03a2920d7d826807c4de031f1d1dde3ac6"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+      "source_sha256": "ca62d327f1f4d53424310e66c00aaa185ebcacb959d90fac3d7c5c081b46a425",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/final-argument-quilt-2026-08-23/APHORISM-AND-PITHY-FORMULATION-LEDGER.md",
+      "start_line": 21,
+      "end_line": 36,
+      "relation": "One intact authorially ratified four-line form; no synthetic extra aphorisms",
+      "provenance": "Native027 authorial ratification",
+      "sha256": "94fa7ad025c758b799f140aa0203a44130c51e5779d9842392ea59549f45ca01",
+      "text": "# 1. Ratified complete aphoristic form\n\nThe following formulation is ratified in full and may be treated as an independent Episteme aphorism:\n\n> **The approachable limit is the basis of investigation;  \n> the absolute limit is the basis of faith;  \n> the limit of investigation is the limit of determination;  \n> the limit of faith is never to be determined.**\n\nIts independence is earned because the author has supplied and ratified the formulation as a whole, not because a recovery process found it memorable.\n\nIts relation to the larger essay remains intact: investigation and faith are conjugate limits, and the formulation belongs back into the argument concerning determination, absolute limit and the refusal of totalisation.\n\n---\n\n# 2. `0 = One, 1 = All` — do not reconstruct the incomplete form here"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/OUGHT-BE-APHORISM-ARCHITECTURE.md",
+      "start_line": 15,
+      "end_line": 49,
+      "relation": "E4/E3 whole-field operation to A03/A23/M04 and return; no invented six-line form",
+      "provenance": "Recovered #39 transfer architecture",
+      "sha256": "b9324e67a0c31bba2a3f77bcfde9033f45987a5afdd7017e48eccdf29e014a31",
+      "text": "## Admitted identity and publication office\n\n| Identity | Canonical home | Register and form | Office | Authority |\n|---|---|---|---|---|\n| `aphorism-investigation-and-faith` | `submission-package/essay/symbolon/episteme/aphorisms/investigation-and-faith.md` | Episteme; authorially ratified complete aphorism | Supporting-visible contemplation object with radial expansion into the existing arguments | Native 027's complete-form ratification, retained by #39 and transferred through native 018 to T21 |\n\nThe new home materialises an existing explicit admission missing from the inherited P2 body queue. A T22 census entry records that omission before the body is created. Its text is authorial; explanatory relations inherit the Argued standing of their actual A/C carriers. It is not a new theorem or a replacement proof of those arguments.\n\nThe preferred sixfold applies to the developed record around the complete form. It does not redistribute four authorial lines among six mandatory slots, supply two invented lines, or turn each line into a separate aphorism. Page semantics must follow the difference between investigation, determination, faith and the absolute limit, with the intact form and its return available to the reader.\n\n## Etymology, argument and return\n\nThe lexical route begins in the mature [Symbol / Account / Trust whole-field](../../submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md). Its operation, **Trust keeps the return route active**, distinguishes reliance on an account from possession of the source that gives the account standing. The aphorism condenses that consequence at the limit of determination. This is **evidence register 3, operational homology / authorial construction**. It does not derive either *limit* or *faith* from a common root.\n\nThe [Fides / Topos / Logos / Nomos / Natio / Credere whole-field](../../submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md) contributes its **Fides/Credere — entrusting under non-possession** branch. [A23](../../submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md) develops the temporal consequence: an account can be investigated and acted upon without displacing the lived relation which certification cannot itself manufacture. Historical Latin senses retain registers 1–2 only where their HISTORY/source evidence warrants them; the aphorism's philosophical relation remains register 3.\n\nThe reciprocal route is exact:\n\n| Consumer | Consequence of the complete form | Return |\n|---|---|---|\n| [A03 — Immutable Gap / Formal Limit](../../submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md) | Successive inquiry can determine more while renewing the difference between its result and its determining condition. | The reader returns from the compact form to A03's performed and formal distinctions, including C04/C05. |\n| [A23 — Trust, Faith and the Formal Limit](../../submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md) | Faith names conscious continuation through a limit; knowledge retains its work of testing and making an account answerable. | A23 returns the form to the two whole-fields and their distinct trust, account and entrusting operations. |\n| [Movement 04 — Formal-Limit Genealogy](../../submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md) | The form can expose the relation between a determinate inquiry and its condition without replacing any historical source's particular theorem. | Movement 04 → A03/A23 → complete aphorism → E-field operations. |\n\nThe existing [trust–faith–formal-limit thread](../../submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md) supplies the declared cross-section context. Its entire movement retains separate psychic, political, infrastructural and technical registers. This architecture adds no new transverse path and does not execute T23.\n\n## Explicit non-admissions\n\nThe abbreviated `0 = One, 1 = All` remains a locator for the fuller authorial form whose recovery the ratification deliberately did not require. A11 and its native formal carriers retain the actual Two Ones argument. No fuller aphorism is reconstructed here.\n\nThe withdrawn recovery-generated pithy set remains developmental provenance, with its operations returned to their owning arguments and fields. Local brevity does not create a second record. `(no)name` and the esoteric Power unit acquire no essay dependency through this architecture.\n\n## Materialisation check\n\nT21 must preserve the complete authorial wording, declare source/provenance and claim standing, write the E-field and consumer return links, and verify the surviving form against the ratification. Its census and T22 record must show one identity and one canonical body. Historical lexical and source debts remain separately scoped. Manuscript insertion and composition remain outside this execution."
+    }
+  ],
+  "raw_skeleton": "# Investigation and Faith — the complete aphorism\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

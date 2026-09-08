@@ -1,0 +1,2593 @@
+{
+  "rows": [
+    {
+      "row_id": "T20-mytheme-taylor-authored-images",
+      "whole_id": "mytheme-taylor-authored-images",
+      "title": "Taylor poetry and authored images",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 37,
+          "end_line": 509,
+          "section": "Taylor — Personal Poetry Corpus (2026)",
+          "operation": "Read complete source-specific contribution, passage readiness and boundaries for Taylor poetry and authored images"
+        }
+      ],
+      "disposition": "admitted-whole",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "operation": "Poetic Two Ones and six routes retain their own wording and sequence; selected consumption follows local derivation.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "home-settled; recovery-census-complete; canonical development belongs to parent batch",
+      "figures": "All23 complete poems in canonical authorial compilation; P0 raw numerical fork; P1 common root; P2 cave/lips; P3 two routes; P4 sky/window/age; P5 release; other poem-specific fields remain intact",
+      "sequence": "Keep each complete poem’s order and voice. P0→P5 is one ordered six-work relation; P3 honors differentiating play and P4 criticises severance, so paired reading preserves their distinct lean. Other23-corpus works retain complete text and provenance before selection.",
+      "authored_operation": "Poetic enactment restores original wording, rhythm, ambiguity and release beyond conceptual gloss; not a new source for factual proof.",
+      "authored_corrections": [
+        "No spelling/lineation normalisation or silent rewritten verse. Preserve “it’s”, repeated words and source-specific lineation. Source compilation current text outranks earlier six-route gloss; no new poem identities by excerpt.",
+        "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no.",
+        "Whole narration precedes element amplification; ending/aftermath qualifies beginning. Every interpretive edge keeps human-amplified:yes/no. No canonical motif/character identity by stealth.",
+        "Raw sixfold must be derived from this whole’s own movement; no Definition/Operation/Pattern/Context glossary. The form may host source/story/amplification substructure without turning its positions into universal semantics."
+      ],
+      "ratification_authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "source_debt": [
+        "External/public historical claims embedded in verse need source warrant if restated as factual prose; original witnesses outside checkout are provenance paths, not permission to edit them."
+      ],
+      "unresolved_source_houses": [],
+      "unverified_inherited_locators": [
+        {
+          "path": "working/sources-texts-references/12-7-2026-poem-set-six-routes-of-two.md",
+          "start_line": 17,
+          "end_line": 130,
+          "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Poetic enactment restores original wording, rhythm, ambiguity and release beyond conceptual gloss; not a new source for factual proof.",
+          "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+        }
+      ],
+      "inherited_return_candidates": [
+        {
+          "target": "A01",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A01 — Subject, God and Faithful Definition",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A02",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A02 — Copula / Self-Identity through Difference",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A03",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A03 — Immutable Gap / Formal Limit",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A04",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A04 — Diaphaneity / Contextual Transparency",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A06",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A06 — Vāk",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A09",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A09 — Tattvic Differential Field",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A11",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A11 — The Two Ones — 0 = One, 1 = All",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A12",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A12 — Mono/Poly — One / All, Whole / Many",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A13",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A13 — Two Logics of Two — Dia / Syn",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A15",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A16",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A16 — Arche-Topos as Differential Field",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A18",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A18 — Primordial Symbolon and Its Eight Determinations",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A19",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A19 — Complex as Local Arbitration Regime",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A20",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A20 — Image / Valuation / Possession",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A21",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A21 — Individuation / Recognition",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A24",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A24 — Arbitration and the Usurpation of Measure",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A25",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A25 — Covenant / Mediating Office / Source Authority",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A26",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A26 — Objective Internality — Mind as Worldhood",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A27",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A27 — Self and Other — Unity without Possession",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A29",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A29 — Power / Delegated Labour / Return",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A30",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A30 — Objective Co-Internality",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A31",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A31 — Deferential Intelligence",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A32",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A32 — Reflective Field / THE MIRROR THAT MOVES FIRST",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A33",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A33 — Epistemic Cultivation / Operational Parity",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A34",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A34 — Idealism / Order of Dependence",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A35",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A36",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A36 — Advent of Integral Zero",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C01",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C01 — Subject / Defined Indefinability",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C02",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C02 — Faithful Definition",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C06",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C06 — Copula / Identification-with-Difference",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C09",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C09 — Diaphaneity",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C21",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C21 — Living Symbol / Idol",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C23",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C23 — Severance",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C24",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C24 — Fusion",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C49",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C49 — The Two Ones — 0 = One, 1 = All",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C50",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C50 — Dia / Syn",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C51",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C51 — Logos / Epi-Logos",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C56",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C56 — Compassion / Sensitivity to Origins",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C61",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C61 — Symbolon Disclosure Architecture",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C64",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C64 — Paradox / Transforming the Containing Field",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "etymology-encounter-region-name-count",
+          "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: encounter-region-name-count",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "etymology-homology-and-analogy",
+          "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: homology-and-analogy",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "etymology-symbol-account-and-trust",
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: symbol-account-and-trust",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        }
+      ],
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md"
+        ],
+        "source_updates": "Separate bounded source task only for the named source debt; protected NOTES excluded.",
+        "exact_additions": [
+          {
+            "row_id": "T20-mytheme-venus-naming-lucifer-christ",
+            "operation": "Keep the naming identity example distinct from the held mythic morning-star/Lucifer/Christ vector."
+          },
+          {
+            "row_id": "T20-mytheme-erased-taijitu",
+            "operation": "Two dots retain the living whole; one indicates orientation; none renders the dead binary. Monopoly erases its retained other."
+          },
+          {
+            "row_id": "T20-mytheme-black-sun-radiating-star",
+            "operation": "Adopt unit-social-power: energy captured versus circulated; Work/Play inversion and concentric attention rings retain their political operation."
+          },
+          {
+            "row_id": "T20-mytheme-god-city-bomb-surveillance-ai",
+            "operation": "Retain the cultural image’s change of medium and the distinct destruction/capture/counterfeit powers."
+          },
+          {
+            "row_id": "T20-mytheme-broken-symbolon-tessera",
+            "operation": "Fracture retained as the means of recognition: separated halves authenticate their relation through reunion."
+          },
+          {
+            "row_id": "T20-mytheme-bohr-taijitu-emblem",
+            "operation": "A historical physics emblem participates as reception evidence, distinct from the author’s erased-dot operation."
+          },
+          {
+            "row_id": "T20-mytheme-invariant-i-poured-dream",
+            "operation": "Formal world/person changes completely while invariant I and empathy remain."
+          },
+          {
+            "row_id": "T20-mytheme-centre-everywhere",
+            "operation": "Nested real internalities can each be a centre without a final objective circumference."
+          },
+          {
+            "row_id": "T20-mytheme-fish-water",
+            "operation": "Definition’s subject cannot stand outside its sustaining element."
+          },
+          {
+            "row_id": "T20-mytheme-cage-window",
+            "operation": "Definition can enclose its referent or open a return to it."
+          },
+          {
+            "row_id": "T20-mytheme-kaleidoscope",
+            "operation": "A term becomes a local orbital centre and can be decentered; manifold interpretation is not arbitrary."
+          },
+          {
+            "row_id": "T20-mytheme-necker-cube",
+            "operation": "A view flips; context then holds views together without claiming one final reading."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p01",
+            "operation": "Here/there and changing play culminate in checkmate and another game."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p02",
+            "operation": "Knowability of the unknown and unknowability of the known return as Known/Knower."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p03",
+            "operation": "Knowing one and becoming no-one enact recognition."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p04",
+            "operation": "Zero, One and All remain in one relational utterance."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p05",
+            "operation": "Field/way, sealed/opening, wind and bird return Real as re-All."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p06",
+            "operation": "Near/far, old/new and many/few change the seeking relation."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p07",
+            "operation": "Humanised spirituality refuses institutions that devour the human."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p08",
+            "operation": "Waking confronts tiredness and bullshit in the poem’s own voice."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p09",
+            "operation": "Law, window, wind and pigeonhole test freedom’s relation to form."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p10",
+            "operation": "Borders, defence and pretence disclose the cost of guarded identity."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p11",
+            "operation": "P0: two roads of two; cancellation and 2+4 remain distinct."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p12",
+            "operation": "P1: binary limitation returns to shared root and power."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p13",
+            "operation": "P2: language fixes and frays; life releases its achieved form."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p14",
+            "operation": "P3: one-and-done is answered by the retained relation of two Ones."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p15",
+            "operation": "P4: the underlying One question exposes framing, cloud and humility with precision."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p16",
+            "operation": "P5: God is context rather than an argumentative object."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p17",
+            "operation": "Plain horror and love/fear retain the poem’s affective force."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p18",
+            "operation": "Scratching is the itch: desire, capture, child/sin, healing and brothers remain in sequence."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p19",
+            "operation": "Beyond consequence is not inconsequential: journey becomes residential."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p20",
+            "operation": "The notion born of difference extends the companion consequence poem."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p21",
+            "operation": "Infinite multiplied by infinitesimal returns to one sentence and sameness/difference."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p22",
+            "operation": "Feeling is undergoing: sea, winds, captain’s boots, Venus/Sophia/Martian figures retain local poetic offices."
+          },
+          {
+            "row_id": "T20-mytheme-taylor-ft-p23",
+            "operation": "Surface/layers, shoe/sole and unreturn preserve the Blake-facing poetic turn."
+          },
+          {
+            "row_id": "T20-mytheme-god-other",
+            "operation": "Finite mind confronts source, law or archetypal totality; the divine-mind reading has its own register."
+          },
+          {
+            "row_id": "T20-mytheme-shadow-other-self",
+            "operation": "Disowned internal difference resists the ego’s completed self-model."
+          },
+          {
+            "row_id": "T20-mytheme-friend-myselfs-other",
+            "operation": "Another centre shares a world while exceeding one psyche’s production of it."
+          },
+          {
+            "row_id": "T20-mytheme-alien-enemy",
+            "operation": "Denied uncertainty is projected into an externalised negative pole."
+          }
+        ]
+      },
+      "coverage_origin": "Inherited whole figures/sequence semantically reviewed against source and programme; incoming generic argument relations are candidates, not verified returns.",
+      "home_decision": "Accepted by parent for inherited 21; source/production world is distinct from narrated setting and later reception.",
+      "return_policy": "Each return is a local operation. Already enriched A bodies require only changed-content/reciprocity review, never blanket restoration. Generic inherited candidates below are not authorised writes.",
+      "occurrence_policy": "Listed bodies were read at the scope stated in corpus. Unverified inherited locators remain explicitly separate; they are not counted as read or source-ready.",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-venus-naming-lucifer-christ",
+      "whole_id": "mytheme-venus-naming-lucifer-christ",
+      "title": "Venus: Hesperus/Phosphorus and Lucifer/Christ vectors",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 762,
+          "end_line": 762,
+          "section": "Session contribution: The two accountings, the copula, the ballein lattice, and the Heidegger double — the Western hemisphere brought to a head",
+          "operation": "Keep the naming identity example distinct from the held mythic morning-star/Lucifer/Christ vector."
+        }
+      ],
+      "disposition": "registered-unmined-vector",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+          "operation": "Keep the naming identity example distinct from the held mythic morning-star/Lucifer/Christ vector.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+          "operation": "Keep the naming identity example distinct from the held mythic morning-star/Lucifer/Christ vector.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; source-gated development",
+      "figures": "Venus; Hesperus; Phosphorus; Lucifer; Christ",
+      "sequence": "Naming one referent through two presentations; later symbolic reception remains unmined.",
+      "authored_operation": "Keep the naming identity example distinct from the held mythic morning-star/Lucifer/Christ vector.",
+      "authored_corrections": [],
+      "source_debt": [
+        "No synthetic cross-tradition story or transmission inferred; source/telling work remains open."
+      ],
+      "unresolved_source_houses": [],
+      "ratification_authority": [
+        "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md:762",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "human_amplification": "Existing authored operation preserved; new source-to-symbolic edges remain human-amplified:no.",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Keep the naming identity example distinct from the held mythic morning-star/Lucifer/Christ vector.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+          "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md"
+        ],
+        "source_updates": "Only identified SOURCE debt in a separately bound packet; NOTES read-only."
+      },
+      "ready_for_canonical_whole_dispatch": false
+    },
+    {
+      "row_id": "T20-mytheme-erased-taijitu",
+      "whole_id": "mytheme-erased-taijitu",
+      "title": "Taijitu with two, one and erased dots",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 4682,
+          "end_line": 4688,
+          "section": "5. The hard point — the fall at `1/0`; hamartia",
+          "operation": "Two dots retain the living whole; one indicates orientation; none renders the dead binary. Monopoly erases its retained other."
+        }
+      ],
+      "disposition": "admitted-subordinate-unit",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "operation": "Two dots retain the living whole; one indicates orientation; none renders the dead binary. Monopoly erases its retained other.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "operation": "Two dots retain the living whole; one indicates orientation; none renders the dead binary. Monopoly erases its retained other.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; ready for bounded development",
+      "figures": "Black/white fields; two dots; one dot; erased dots",
+      "sequence": "Relational whole → oriented disclosure → erasure and binary capture.",
+      "authored_operation": "Two dots retain the living whole; one indicates orientation; none renders the dead binary. Monopoly erases its retained other.",
+      "authored_corrections": [
+        "Authored diagram operation; no claim that an ancient Taoist source teaches the project’s exact notation."
+      ],
+      "source_debt": [],
+      "unresolved_source_houses": [],
+      "ratification_authority": [
+        "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md:4682",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "human_amplification": "Existing authored operation preserved; new source-to-symbolic edges remain human-amplified:no.",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Two dots retain the living whole; one indicates orientation; none renders the dead binary. Monopoly erases its retained other.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md"
+        ],
+        "source_updates": "Only identified SOURCE debt in a separately bound packet; NOTES read-only."
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-black-sun-radiating-star",
+      "whole_id": "mytheme-black-sun-radiating-star",
+      "title": "Black sun and radiating star",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 4700,
+          "end_line": 4707,
+          "section": "7. Power dynamics — the occupied slash; the venue's own gauge",
+          "operation": "Adopt unit-social-power: energy captured versus circulated; Work/Play inversion and concentric attention rings retain their political operation."
+        }
+      ],
+      "disposition": "admitted-subordinate-unit",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "operation": "Adopt unit-social-power: energy captured versus circulated; Work/Play inversion and concentric attention rings retain their political operation.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; ready for bounded development",
+      "figures": "Black sun; radiating star; public stage; private decision; concentric rings",
+      "sequence": "Labour/attention drawn inward → hidden decision office → possible release and circulation.",
+      "authored_operation": "Adopt unit-social-power: energy captured versus circulated; Work/Play inversion and concentric attention rings retain their political operation.",
+      "authored_corrections": [
+        "Explicit should-be-adopted programme followed by accepted A29 depth; do not leave this as an unratified decorative candidate."
+      ],
+      "source_debt": [],
+      "unresolved_source_houses": [],
+      "ratification_authority": [
+        "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md:4700",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "human_amplification": "Existing authored operation preserved; new source-to-symbolic edges remain human-amplified:no.",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Adopt unit-social-power: energy captured versus circulated; Work/Play inversion and concentric attention rings retain their political operation.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md"
+        ],
+        "source_updates": "Only identified SOURCE debt in a separately bound packet; NOTES read-only."
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-god-city-bomb-surveillance-ai",
+      "whole_id": "mytheme-god-city-bomb-surveillance-ai",
+      "title": "God, city, bomb, surveillance and AI image sequence",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 5710,
+          "end_line": 5729,
+          "section": "13. Technoscientific power: city, bomb, surveillance, and the image",
+          "operation": "Retain the cultural image’s change of medium and the distinct destruction/capture/counterfeit powers."
+        }
+      ],
+      "disposition": "admitted-subordinate-unit",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "operation": "Retain the cultural image’s change of medium and the distinct destruction/capture/counterfeit powers.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+          "operation": "Retain the cultural image’s change of medium and the distinct destruction/capture/counterfeit powers.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; source-gated development",
+      "figures": "God-image; city; bomb; surveillance; AI",
+      "sequence": "Religious/urban configuration → destructive and capturing technics → counterfeit source-image.",
+      "authored_operation": "Retain the cultural image’s change of medium and the distinct destruction/capture/counterfeit powers.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Giegerich source passages and historical object selection remain source debt; no universal causal history inferred."
+      ],
+      "unresolved_source_houses": [],
+      "ratification_authority": [
+        "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md:5710",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "human_amplification": "Existing authored operation preserved; new source-to-symbolic edges remain human-amplified:no.",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Retain the cultural image’s change of medium and the distinct destruction/capture/counterfeit powers.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md"
+        ],
+        "source_updates": "Only identified SOURCE debt in a separately bound packet; NOTES read-only."
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-broken-symbolon-tessera",
+      "whole_id": "mytheme-broken-symbolon-tessera",
+      "title": "Broken symbolon / tessera trust-device",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+          "start_line": 289,
+          "end_line": 296,
+          "section": "IV.2 The ballein family and the tradere family `[SOLID]`",
+          "operation": "Fracture retained as the means of recognition: separated halves authenticate their relation through reunion."
+        }
+      ],
+      "disposition": "admitted-subordinate-unit",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "operation": "Fracture retained as the means of recognition: separated halves authenticate their relation through reunion.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "operation": "Fracture retained as the means of recognition: separated halves authenticate their relation through reunion.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; ready for bounded development",
+      "figures": "Whole token; two halves; parties; fit",
+      "sequence": "Division and separation → keeping → reunion/recognition; trust spans absence.",
+      "authored_operation": "Fracture retained as the means of recognition: separated halves authenticate their relation through reunion.",
+      "authored_corrections": [
+        "Philological/material history remains in Episteme symbol/account/trust; root Symbolon owns formal use. Do not duplicate a root record as a new myth."
+      ],
+      "source_debt": [],
+      "unresolved_source_houses": [],
+      "ratification_authority": [
+        "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md:289",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "human_amplification": "Existing authored operation preserved; new source-to-symbolic edges remain human-amplified:no.",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Fracture retained as the means of recognition: separated halves authenticate their relation through reunion.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md"
+        ],
+        "source_updates": "Only identified SOURCE debt in a separately bound packet; NOTES read-only."
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-bohr-taijitu-emblem",
+      "whole_id": "mytheme-bohr-taijitu-emblem",
+      "title": "Bohr’s yin-yang coat of arms",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 5077,
+          "end_line": 5106,
+          "section": "4. The Jung–Pauli–quantum constellation and the complementarity analysis",
+          "operation": "A historical physics emblem participates as reception evidence, distinct from the author’s erased-dot operation."
+        }
+      ],
+      "disposition": "admitted-subordinate-unit",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "operation": "A historical physics emblem participates as reception evidence, distinct from the author’s erased-dot operation.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+          "operation": "A historical physics emblem participates as reception evidence, distinct from the author’s erased-dot operation.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; source-gated development",
+      "figures": "Coat of arms; taijitu; two retained dots",
+      "sequence": "Historical emblem → relational reading with its own production setting.",
+      "authored_operation": "A historical physics emblem participates as reception evidence, distinct from the author’s erased-dot operation.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Recover exact emblem provenance, motto and image reproduction source before public illustration."
+      ],
+      "unresolved_source_houses": [],
+      "ratification_authority": [
+        "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md:5077",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "human_amplification": "Existing authored operation preserved; new source-to-symbolic edges remain human-amplified:no.",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "A historical physics emblem participates as reception evidence, distinct from the author’s erased-dot operation.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md"
+        ],
+        "source_updates": "Only identified SOURCE debt in a separately bound packet; NOTES read-only."
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-invariant-i-poured-dream",
+      "whole_id": "mytheme-invariant-i-poured-dream",
+      "title": "Invariant I poured through different lives",
+      "occurrences": [
+        {
+          "path": "working/final-argument-quilt-2026-08-23/THREAD-INTAKE-WHOLE-RELATIONAL-UNITS.md",
+          "start_line": 167,
+          "end_line": 192,
+          "section": "9. Experiential image — the invariant “I” poured through different lives",
+          "operation": "Formal world/person changes completely while invariant I and empathy remain."
+        }
+      ],
+      "disposition": "candidate-authored-experiential-whole; protected-use-choice",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "operation": "Formal world/person changes completely while invariant I and empathy remain.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "operation": "Formal world/person changes completely while invariant I and empathy remain.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; source-gated development",
+      "figures": "Viscous stream; successive heads/bodies; invariant I",
+      "sequence": "Consciousness leaves a body → enters another → complete local world change → invariant recognition.",
+      "authored_operation": "Formal world/person changes completely while invariant I and empathy remain.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Intake §20 explicitly leaves candidate public mytheme versus protected personal image unresolved; no public page dispatch from this census."
+      ],
+      "unresolved_source_houses": [],
+      "ratification_authority": [
+        "working/final-argument-quilt-2026-08-23/THREAD-INTAKE-WHOLE-RELATIONAL-UNITS.md:167",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "human_amplification": "Existing authored operation preserved; new source-to-symbolic edges remain human-amplified:no.",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Formal world/person changes completely while invariant I and empathy remain.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md"
+        ],
+        "source_updates": "Only identified SOURCE debt in a separately bound packet; NOTES read-only."
+      },
+      "ready_for_canonical_whole_dispatch": false
+    },
+    {
+      "row_id": "T20-mytheme-centre-everywhere",
+      "whole_id": "mytheme-centre-everywhere",
+      "title": "Centre everywhere, circumference nowhere",
+      "occurrences": [
+        {
+          "path": "working/final-argument-quilt-2026-08-23/THREAD-INTAKE-WHOLE-RELATIONAL-UNITS.md",
+          "start_line": 240,
+          "end_line": 258,
+          "section": "13. Aperspectivality and the diaphanous internality",
+          "operation": "Nested real internalities can each be a centre without a final objective circumference."
+        }
+      ],
+      "disposition": "admitted-subordinate-unit",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+          "operation": "Nested real internalities can each be a centre without a final objective circumference.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "operation": "Nested real internalities can each be a centre without a final objective circumference.",
+          "register": "Episteme/Argument; authored Mytheme return"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; source-gated development",
+      "figures": "Centres; indefinite circumference",
+      "sequence": "Situated centre → multiple centres → no final enclosing view.",
+      "authored_operation": "Nested real internalities can each be a centre without a final objective circumference.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Historical attribution and transmission require separate recovery."
+      ],
+      "unresolved_source_houses": [],
+      "ratification_authority": [
+        "working/final-argument-quilt-2026-08-23/THREAD-INTAKE-WHOLE-RELATIONAL-UNITS.md:240",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "human_amplification": "Existing authored operation preserved; new source-to-symbolic edges remain human-amplified:no.",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Nested real internalities can each be a centre without a final objective circumference.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+          "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md"
+        ],
+        "source_updates": "Only identified SOURCE debt in a separately bound packet; NOTES read-only."
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-fish-water",
+      "whole_id": "mytheme-fish-water",
+      "title": "Fish describing water",
+      "occurrences": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A01.md",
+          "start_line": 52,
+          "end_line": 52,
+          "section": "Direct authorial and developmental recovery",
+          "operation": "Definition’s subject cannot stand outside its sustaining element."
+        }
+      ],
+      "disposition": "admitted-subordinate-unit",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "operation": "Definition’s subject cannot stand outside its sustaining element.",
+          "register": "Episteme/Argument; Mytheme return"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Fish; water",
+      "sequence": "Attempt to describe condition → first-person reversal",
+      "authored_operation": "Definition’s subject cannot stand outside its sustaining element.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Source/authorial carrier boundary preserved; no external proof or new ancient telling inferred."
+      ],
+      "ratification_authority": [
+        "working/p2-enrichment/argument-depth/A01.md:52",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Definition’s subject cannot stand outside its sustaining element.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md"
+        ]
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-cage-window",
+      "whole_id": "mytheme-cage-window",
+      "title": "Cage and window",
+      "occurrences": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A01.md",
+          "start_line": 52,
+          "end_line": 52,
+          "section": "Direct authorial and developmental recovery",
+          "operation": "Definition can enclose its referent or open a return to it."
+        }
+      ],
+      "disposition": "admitted-subordinate-unit",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "operation": "Definition can enclose its referent or open a return to it.",
+          "register": "Episteme/Argument; Mytheme return"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Cage; window",
+      "sequence": "Enclosure → disclosed opening",
+      "authored_operation": "Definition can enclose its referent or open a return to it.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Source/authorial carrier boundary preserved; no external proof or new ancient telling inferred."
+      ],
+      "ratification_authority": [
+        "working/p2-enrichment/argument-depth/A01.md:52",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Definition can enclose its referent or open a return to it.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md"
+        ]
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-kaleidoscope",
+      "whole_id": "mytheme-kaleidoscope",
+      "title": "Kaleidoscope of linguistic centres",
+      "occurrences": [
+        {
+          "path": "working/p2-enrichment/argument-depth/A06.md",
+          "start_line": 52,
+          "end_line": 52,
+          "section": "Direct authorial and developmental recovery",
+          "operation": "A term becomes a local orbital centre and can be decentered; manifold interpretation is not arbitrary."
+        }
+      ],
+      "disposition": "admitted-subordinate-unit",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+          "operation": "A term becomes a local orbital centre and can be decentered; manifold interpretation is not arbitrary.",
+          "register": "Episteme/Argument; Mytheme return"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Kaleidoscope; term; changing centre",
+      "sequence": "Recentring → disclosure → decentring",
+      "authored_operation": "A term becomes a local orbital centre and can be decentered; manifold interpretation is not arbitrary.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Source/authorial carrier boundary preserved; no external proof or new ancient telling inferred."
+      ],
+      "ratification_authority": [
+        "working/p2-enrichment/argument-depth/A06.md:52",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "A term becomes a local orbital centre and can be decentered; manifold interpretation is not arbitrary.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md"
+        ]
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-necker-cube",
+      "whole_id": "mytheme-necker-cube",
+      "title": "Necker cube: reversal and held context",
+      "occurrences": [
+        {
+          "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+          "start_line": 389,
+          "end_line": 393,
+          "section": "VI. The Counting Logic — From #1, Returning to #0: The Trika and the 1-2-3 / 4-5-0 Passes",
+          "operation": "A view flips; context then holds views together without claiming one final reading."
+        }
+      ],
+      "disposition": "admitted-subordinate-unit",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "operation": "A view flips; context then holds views together without claiming one final reading.",
+          "register": "Episteme/Argument; Mytheme return"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "operation": "A view flips; context then holds views together without claiming one final reading.",
+          "register": "Episteme/Argument; Mytheme return"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+          "operation": "A view flips; context then holds views together without claiming one final reading.",
+          "register": "Episteme/Argument; Mytheme return"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Cube; alternative orientations; viewer",
+      "sequence": "Single view → reversal → simultaneous context",
+      "authored_operation": "A view flips; context then holds views together without claiming one final reading.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Source/authorial carrier boundary preserved; no external proof or new ancient telling inferred."
+      ],
+      "ratification_authority": [
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md:389",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "A view flips; context then holds views together without claiming one final reading.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md"
+        ]
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p01",
+      "whole_id": "mytheme-taylor-ft-p01",
+      "title": "FT-P01 — Play and Play",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 89,
+          "end_line": 109,
+          "section": "FT-P01 — Play and Play",
+          "operation": "Here/there and changing play culminate in checkmate and another game."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p01",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Players; here/there; checkmate; another game",
+      "sequence": "Here/there and changing play culminate in checkmate and another game.",
+      "authored_operation": "Here/there and changing play culminate in checkmate and another game.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:89",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P01 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P01",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p02",
+      "whole_id": "mytheme-taylor-ft-p02",
+      "title": "FT-P02 — Mystery Is Infinitely Deeper",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 110,
+          "end_line": 125,
+          "section": "FT-P02 — Mystery Is Infinitely Deeper",
+          "operation": "Knowability of the unknown and unknowability of the known return as Known/Knower."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p02",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Known; unknown; knowing; knower",
+      "sequence": "Knowability of the unknown and unknowability of the known return as Known/Knower.",
+      "authored_operation": "Knowability of the unknown and unknowability of the known return as Known/Knower.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:110",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P02 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P02",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p03",
+      "whole_id": "mytheme-taylor-ft-p03",
+      "title": "FT-P03 — It Takes One to Know One",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 126,
+          "end_line": 138,
+          "section": "FT-P03 — It Takes One to Know One",
+          "operation": "Knowing one and becoming no-one enact recognition."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p03",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "One; no-one; knowing",
+      "sequence": "Knowing one and becoming no-one enact recognition.",
+      "authored_operation": "Knowing one and becoming no-one enact recognition.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:126",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P03 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P03",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p04",
+      "whole_id": "mytheme-taylor-ft-p04",
+      "title": "FT-P04 — The Zero and the One",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 139,
+          "end_line": 149,
+          "section": "FT-P04 — The Zero and the One",
+          "operation": "Zero, One and All remain in one relational utterance."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p04",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Zero; One; All",
+      "sequence": "Zero, One and All remain in one relational utterance.",
+      "authored_operation": "Zero, One and All remain in one relational utterance.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:139",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P04 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P04",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p05",
+      "whole_id": "mytheme-taylor-ft-p05",
+      "title": "FT-P05 — Every Field Is a Way",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 150,
+          "end_line": 176,
+          "section": "FT-P05 — Every Field Is a Way",
+          "operation": "Field/way, sealed/opening, wind and bird return Real as re-All."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p05",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Field; way; sealed opening; wind; bird; Real/re-All",
+      "sequence": "Field/way, sealed/opening, wind and bird return Real as re-All.",
+      "authored_operation": "Field/way, sealed/opening, wind and bird return Real as re-All.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:150",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P05 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P05",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p06",
+      "whole_id": "mytheme-taylor-ft-p06",
+      "title": "FT-P06 — Searching High and Low",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 177,
+          "end_line": 197,
+          "section": "FT-P06 — Searching High and Low",
+          "operation": "Near/far, old/new and many/few change the seeking relation."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p06",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "High/low; near/far; truth; old/new; many/few",
+      "sequence": "Near/far, old/new and many/few change the seeking relation.",
+      "authored_operation": "Near/far, old/new and many/few change the seeking relation.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:177",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P06 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P06",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p07",
+      "whole_id": "mytheme-taylor-ft-p07",
+      "title": "FT-P07 — I Dream Of",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 198,
+          "end_line": 213,
+          "section": "FT-P07 — I Dream Of",
+          "operation": "Humanised spirituality refuses institutions that devour the human."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p07",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Human life; spirituality; institutions",
+      "sequence": "Humanised spirituality refuses institutions that devour the human.",
+      "authored_operation": "Humanised spirituality refuses institutions that devour the human.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:198",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P07 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P07",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p08",
+      "whole_id": "mytheme-taylor-ft-p08",
+      "title": "FT-P08 — Waking Up",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 214,
+          "end_line": 225,
+          "section": "FT-P08 — Waking Up",
+          "operation": "Waking confronts tiredness and bullshit in the poem’s own voice."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p08",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Waking speaker; tiredness; bullshit",
+      "sequence": "Waking confronts tiredness and bullshit in the poem’s own voice.",
+      "authored_operation": "Waking confronts tiredness and bullshit in the poem’s own voice.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:214",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P08 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P08",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p09",
+      "whole_id": "mytheme-taylor-ft-p09",
+      "title": "FT-P09 — Freedom",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 226,
+          "end_line": 251,
+          "section": "FT-P09 — Freedom",
+          "operation": "Law, window, wind and pigeonhole test freedom’s relation to form."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p09",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Freedom; law; window; wind; pigeonhole",
+      "sequence": "Law, window, wind and pigeonhole test freedom’s relation to form.",
+      "authored_operation": "Law, window, wind and pigeonhole test freedom’s relation to form.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:226",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P09 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P09",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p10",
+      "whole_id": "mytheme-taylor-ft-p10",
+      "title": "FT-P10 — Beyond All Borders",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 252,
+          "end_line": 264,
+          "section": "FT-P10 — Beyond All Borders",
+          "operation": "Borders, defence and pretence disclose the cost of guarded identity."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p10",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Borders; defence; pretence",
+      "sequence": "Borders, defence and pretence disclose the cost of guarded identity.",
+      "authored_operation": "Borders, defence and pretence disclose the cost of guarded identity.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:252",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P10 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P10",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p11",
+      "whole_id": "mytheme-taylor-ft-p11",
+      "title": "FT-P11 — P0: The two roads of two",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 270,
+          "end_line": 281,
+          "section": "FT-P11 — P0: The two roads of two",
+          "operation": "P0: two roads of two; cancellation and 2+4 remain distinct."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p11",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Two roads; cancellation; two plus four",
+      "sequence": "P0: two roads of two; cancellation and 2+4 remain distinct.",
+      "authored_operation": "P0: two roads of two; cancellation and 2+4 remain distinct.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:270",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P11 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P11",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ordered_cycle": {
+        "id": "the-six-routes-of-two",
+        "position": "P0",
+        "order": 1,
+        "instruction": "Preserve all six in source order; do not reduce to a generic poem sample."
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p12",
+      "whole_id": "mytheme-taylor-ft-p12",
+      "title": "FT-P12 — P1: What binary cannot compute",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 282,
+          "end_line": 295,
+          "section": "FT-P12 — P1: What binary cannot compute",
+          "operation": "P1: binary limitation returns to shared root and power."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p12",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Binary; root; power",
+      "sequence": "P1: binary limitation returns to shared root and power.",
+      "authored_operation": "P1: binary limitation returns to shared root and power.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:282",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P12 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P12",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ordered_cycle": {
+        "id": "the-six-routes-of-two",
+        "position": "P1",
+        "order": 2,
+        "instruction": "Preserve all six in source order; do not reduce to a generic poem sample."
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p13",
+      "whole_id": "mytheme-taylor-ft-p13",
+      "title": "FT-P13 — P2: Where life leads",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 296,
+          "end_line": 314,
+          "section": "FT-P13 — P2: Where life leads",
+          "operation": "P2: language fixes and frays; life releases its achieved form."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p13",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Language; fixed forms; life; release",
+      "sequence": "P2: language fixes and frays; life releases its achieved form.",
+      "authored_operation": "P2: language fixes and frays; life releases its achieved form.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:296",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P13 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P13",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ordered_cycle": {
+        "id": "the-six-routes-of-two",
+        "position": "P2",
+        "order": 3,
+        "instruction": "Preserve all six in source order; do not reduce to a generic poem sample."
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p14",
+      "whole_id": "mytheme-taylor-ft-p14",
+      "title": "FT-P14 — P3: 2 to two ones",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 315,
+          "end_line": 327,
+          "section": "FT-P14 — P3: 2 to two ones",
+          "operation": "P3: one-and-done is answered by the retained relation of two Ones."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p14",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Two Ones; one-and-done; retained difference",
+      "sequence": "P3: one-and-done is answered by the retained relation of two Ones.",
+      "authored_operation": "P3: one-and-done is answered by the retained relation of two Ones.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:315",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P14 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P14",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ordered_cycle": {
+        "id": "the-six-routes-of-two",
+        "position": "P3",
+        "order": 4,
+        "instruction": "Preserve all six in source order; do not reduce to a generic poem sample."
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p15",
+      "whole_id": "mytheme-taylor-ft-p15",
+      "title": "FT-P15 — P4: There’s one underlying issue in our age",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 328,
+          "end_line": 338,
+          "section": "FT-P15 — P4: There’s one underlying issue in our age",
+          "operation": "P4: the underlying One question exposes framing, cloud and humility with precision."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p15",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "One question; age; framing; cloud",
+      "sequence": "P4: the underlying One question exposes framing, cloud and humility with precision.",
+      "authored_operation": "P4: the underlying One question exposes framing, cloud and humility with precision.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:328",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P15 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P15",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ordered_cycle": {
+        "id": "the-six-routes-of-two",
+        "position": "P4",
+        "order": 5,
+        "instruction": "Preserve all six in source order; do not reduce to a generic poem sample."
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p16",
+      "whole_id": "mytheme-taylor-ft-p16",
+      "title": "FT-P16 — P5: God is not a thing to argue over",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 339,
+          "end_line": 349,
+          "section": "FT-P16 — P5: God is not a thing to argue over",
+          "operation": "P5: God is context rather than an argumentative object."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p16",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "God; disputants; context; inherited historical claim",
+      "sequence": "P5: God is context rather than an argumentative object.",
+      "authored_operation": "P5: God is context rather than an argumentative object.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:339",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P16 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P16",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ordered_cycle": {
+        "id": "the-six-routes-of-two",
+        "position": "P5",
+        "order": 6,
+        "instruction": "Preserve all six in source order; do not reduce to a generic poem sample."
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p17",
+      "whole_id": "mytheme-taylor-ft-p17",
+      "title": "FT-P17 — [Bullshit and horror so plain and clear]",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 350,
+          "end_line": 363,
+          "section": "FT-P17 — [Bullshit and horror so plain and clear]",
+          "operation": "Plain horror and love/fear retain the poem’s affective force."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p17",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Bullshit; horror; love; fear",
+      "sequence": "Plain horror and love/fear retain the poem’s affective force.",
+      "authored_operation": "Plain horror and love/fear retain the poem’s affective force.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:350",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P17 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P17",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p18",
+      "whole_id": "mytheme-taylor-ft-p18",
+      "title": "FT-P18 — [The scratching is the itch]",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 364,
+          "end_line": 406,
+          "section": "FT-P18 — [The scratching is the itch]",
+          "operation": "Scratching is the itch: desire, capture, child/sin, healing and brothers remain in sequence."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p18",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Itch; scratching; child; sin; healing; brothers",
+      "sequence": "Scratching is the itch: desire, capture, child/sin, healing and brothers remain in sequence.",
+      "authored_operation": "Scratching is the itch: desire, capture, child/sin, healing and brothers remain in sequence.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:364",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P18 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P18",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p19",
+      "whole_id": "mytheme-taylor-ft-p19",
+      "title": "FT-P19 — [The unchanging is beyond consequence]",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 407,
+          "end_line": 418,
+          "section": "FT-P19 — [The unchanging is beyond consequence]",
+          "operation": "Beyond consequence is not inconsequential: journey becomes residential."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p19",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Unchanging; consequence; journey; residence",
+      "sequence": "Beyond consequence is not inconsequential: journey becomes residential.",
+      "authored_operation": "Beyond consequence is not inconsequential: journey becomes residential.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:407",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P19 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P19",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p20",
+      "whole_id": "mytheme-taylor-ft-p20",
+      "title": "FT-P20 — [The notion born of difference]",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 419,
+          "end_line": 432,
+          "section": "FT-P20 — [The notion born of difference]",
+          "operation": "The notion born of difference extends the companion consequence poem."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p20",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Notion; difference; companion/consequence",
+      "sequence": "The notion born of difference extends the companion consequence poem.",
+      "authored_operation": "The notion born of difference extends the companion consequence poem.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:419",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P20 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P20",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p21",
+      "whole_id": "mytheme-taylor-ft-p21",
+      "title": "FT-P21 — [The infinite multiplied by the infinitesimal]",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 433,
+          "end_line": 443,
+          "section": "FT-P21 — [The infinite multiplied by the infinitesimal]",
+          "operation": "Infinite multiplied by infinitesimal returns to one sentence and sameness/difference."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p21",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Infinite; infinitesimal; One; sentence",
+      "sequence": "Infinite multiplied by infinitesimal returns to one sentence and sameness/difference.",
+      "authored_operation": "Infinite multiplied by infinitesimal returns to one sentence and sameness/difference.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:433",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P21 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P21",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p22",
+      "whole_id": "mytheme-taylor-ft-p22",
+      "title": "FT-P22 — What is it to feel?",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 444,
+          "end_line": 466,
+          "section": "FT-P22 — What is it to feel?",
+          "operation": "Feeling is undergoing: sea, winds, captain’s boots, Venus/Sophia/Martian figures retain local poetic offices."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p22",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Feeling; sea; wind; captain; boots; Venus; Sophia; Martian",
+      "sequence": "Feeling is undergoing: sea, winds, captain’s boots, Venus/Sophia/Martian figures retain local poetic offices.",
+      "authored_operation": "Feeling is undergoing: sea, winds, captain’s boots, Venus/Sophia/Martian figures retain local poetic offices.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:444",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P22 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P22",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-taylor-ft-p23",
+      "whole_id": "mytheme-taylor-ft-p23",
+      "title": "FT-P23 — [How many layers to a surface]",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 467,
+          "end_line": 494,
+          "section": "FT-P23 — [How many layers to a surface]",
+          "operation": "Surface/layers, shoe/sole and unreturn preserve the Blake-facing poetic turn."
+        }
+      ],
+      "disposition": "admitted-individual-poem",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#ft-p23",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+          "operation": "Return this complete individual poem to the authored corpus; preserve its own identity and selected source version.",
+          "register": "Mytheme/poem → corpus"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+      ],
+      "development_status": "recovered; named source/use debt",
+      "figures": "Layers; surface; shoe/sole; unreturn; Blake allusion",
+      "sequence": "Surface/layers, shoe/sole and unreturn preserve the Blake-facing poetic turn.",
+      "authored_operation": "Surface/layers, shoe/sole and unreturn preserve the Blake-facing poetic turn.",
+      "authored_corrections": [],
+      "source_debt": [
+        "Public selection remains later; preserve punctuation, line breaks and source version. External named allusions do not inherit source verification."
+      ],
+      "ratification_authority": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md:467",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Complete FT-P23 at a stable individually addressable anchor; parent may split a long corpus into child WHOLE files once, preserving this identity and return.",
+        "consumer_return_review": []
+      },
+      "poem_id": "FT-P23",
+      "individual_unit": true,
+      "selection_status": "Admitted to corpus; no automatic manuscript insertion",
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-god-other",
+      "whole_id": "mytheme-god-other",
+      "title": "God as transcendent/archetypal Other",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 1174,
+          "end_line": 1183,
+          "section": "9. Jung's inner face and the other-self",
+          "operation": "Finite mind confronts source, law or archetypal totality; the divine-mind reading has its own register."
+        }
+      ],
+      "disposition": "admitted-subordinate-unit",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "operation": "Finite mind confronts source, law or archetypal totality; the divine-mind reading has its own register.",
+          "register": "Episteme/Argument"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; ready within owning whole subject to named evidence debt",
+      "figures": "God as transcendent/archetypal Other",
+      "sequence": "An exact operator within the complete inner/interpersonal Other movement; no new standalone story.",
+      "authored_operation": "Finite mind confronts source, law or archetypal totality; the divine-mind reading has its own register.",
+      "authored_corrections": [],
+      "source_debt": [],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "ratification_authority": [
+        "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md:1174",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Finite mind confronts source, law or archetypal totality; the divine-mind reading has its own register.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md"
+        ]
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-shadow-other-self",
+      "whole_id": "mytheme-shadow-other-self",
+      "title": "Shadow as other-self",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 1174,
+          "end_line": 1183,
+          "section": "9. Jung's inner face and the other-self",
+          "operation": "Disowned internal difference resists the ego’s completed self-model."
+        }
+      ],
+      "disposition": "admitted-subordinate-unit",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "operation": "Disowned internal difference resists the ego’s completed self-model.",
+          "register": "Episteme/Argument"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; ready within owning whole subject to named evidence debt",
+      "figures": "Shadow as other-self",
+      "sequence": "An exact operator within the complete inner/interpersonal Other movement; no new standalone story.",
+      "authored_operation": "Disowned internal difference resists the ego’s completed self-model.",
+      "authored_corrections": [],
+      "source_debt": [],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "ratification_authority": [
+        "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md:1174",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Disowned internal difference resists the ego’s completed self-model.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md"
+        ]
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-friend-myselfs-other",
+      "whole_id": "mytheme-friend-myselfs-other",
+      "title": "Friend as my-self’s-other",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 1174,
+          "end_line": 1183,
+          "section": "9. Jung's inner face and the other-self",
+          "operation": "Another centre shares a world while exceeding one psyche’s production of it."
+        }
+      ],
+      "disposition": "admitted-subordinate-unit",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "operation": "Another centre shares a world while exceeding one psyche’s production of it.",
+          "register": "Episteme/Argument"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; ready within owning whole subject to named evidence debt",
+      "figures": "Friend as my-self’s-other",
+      "sequence": "An exact operator within the complete inner/interpersonal Other movement; no new standalone story.",
+      "authored_operation": "Another centre shares a world while exceeding one psyche’s production of it.",
+      "authored_corrections": [],
+      "source_debt": [],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "ratification_authority": [
+        "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md:1174",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Another centre shares a world while exceeding one psyche’s production of it.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md"
+        ]
+      },
+      "ready_for_canonical_whole_dispatch": true
+    },
+    {
+      "row_id": "T20-mytheme-alien-enemy",
+      "whole_id": "mytheme-alien-enemy",
+      "title": "Alien/enemy as projected uncertainty",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 1174,
+          "end_line": 1183,
+          "section": "9. Jung's inner face and the other-self",
+          "operation": "Denied uncertainty is projected into an externalised negative pole."
+        }
+      ],
+      "disposition": "admitted-subordinate-unit",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "returns": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "operation": "Denied uncertainty is projected into an externalised negative pole.",
+          "register": "Episteme/Argument"
+        }
+      ],
+      "source_houses": [],
+      "development_status": "recovered; ready within owning whole subject to named evidence debt",
+      "figures": "Alien/enemy as projected uncertainty",
+      "sequence": "An exact operator within the complete inner/interpersonal Other movement; no new standalone story.",
+      "authored_operation": "Denied uncertainty is projected into an externalised negative pole.",
+      "authored_corrections": [],
+      "source_debt": [],
+      "owning_whole_id": "mytheme-taylor-authored-images",
+      "ratification_authority": [
+        "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md:1174",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "dispatch_scope": {
+        "whole_writer": [
+          "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+        ],
+        "exact_addition": "Denied uncertainty is projected into an externalised negative pole.",
+        "consumer_return_review": [
+          "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md"
+        ]
+      },
+      "ready_for_canonical_whole_dispatch": true
+    }
+  ]
+}

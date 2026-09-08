@@ -1,0 +1,8 @@
+{
+  "status": "pass",
+  "workflow_returncode": 0,
+  "stdout": "wrote target packet: /var/folders/q0/g_91z7355tb58425qwg3xcy80000gn/T/tmpbmm8sjyi/packet.json\nverified packet freshness: working/p2-enrichment/snapshots/T20-four-wholes-and-job-2026-09-08-r2/mytheme-the-prisoner/packet.json\n",
+  "packet_sha256": "6f2b278c605b4937c155abd3c69310575f7f4c91c09cb5e26ca22707e6b9fe4c",
+  "input_archives_match_every_bound_hash": true,
+  "read_status": "Completed source readings reusable; hash-only binding refresh, not repeated foundational review."
+}

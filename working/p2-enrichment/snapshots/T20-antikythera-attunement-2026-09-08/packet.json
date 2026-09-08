@@ -1,0 +1,1009 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/snapshots/T20-antikythera-attunement-2026-09-08/queue.json",
+    "queue_sha256": "18b722aa62a706edf82b951c7dbcc4e4ee0cf86fa22ca786c305f73331a8db91",
+    "census": "working/p2-enrichment/snapshots/T20-antikythera-attunement-2026-09-08/census.json",
+    "census_sha256": "7bcad0433f0236a6dcde9de90bc16ab3a0baed9e969a19b22ebf2ae0f1855ede",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "mytheme-antikythera-attunement",
+    "title": "Antikythera as attunement instrument",
+    "register": "mytheme",
+    "record_type": "whole-mytheme",
+    "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+    "wave": "T20",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+      "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+      ".wayfinder/maps/t20-t21-world-registers.md"
+    ],
+    "packet_status": "current-binding-required",
+    "binding_state": "inputs-bound-source-acquisition-debts-explicit",
+    "argument_depth": [
+      "A14",
+      "A15",
+      "A16",
+      "A17",
+      "A18",
+      "A22",
+      "A25",
+      "A26",
+      "A28",
+      "A29",
+      "A30",
+      "A31",
+      "A32",
+      "A33",
+      "A35",
+      "A36"
+    ],
+    "argument_depth_roles": {
+      "A14": "Material whole-field consumer: A14 — Computational Process Ontology; consult completed A14 depth packet before extracting this register’s operation.",
+      "A15": "Material whole-field consumer: A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account; consult completed A15 depth packet before extracting this register’s operation.",
+      "A16": "Material whole-field consumer: A16 — Arche-Topos as Differential Field; consult completed A16 depth packet before extracting this register’s operation.",
+      "A17": "Material whole-field consumer: A17 — Toroidal Circulation and the Arche-Topos; consult completed A17 depth packet before extracting this register’s operation.",
+      "A18": "Material whole-field consumer: A18 — Primordial Symbolon and Its Eight Determinations; consult completed A18 depth packet before extracting this register’s operation.",
+      "A22": "Material whole-field consumer: A22 — World-Picture → World-Atlas; consult completed A22 depth packet before extracting this register’s operation.",
+      "A25": "Material whole-field consumer: A25 — Covenant / Mediating Office / Source Authority; consult completed A25 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A25.md:14.",
+      "A26": "Material whole-field consumer: A26 — Objective Internality — Mind as Worldhood; consult completed A26 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A26.md:14.",
+      "A28": "Material whole-field consumer: A28 — Authored Ground / Positional Delegation; consult completed A28 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A28.md:14.",
+      "A29": "Material whole-field consumer: A29 — Power / Delegated Labour / Return; consult completed A29 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A29.md:14.",
+      "A30": "Material whole-field consumer: A30 — Objective Co-Internality; consult completed A30 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A30.md:14.",
+      "A31": "Material whole-field consumer: A31 — Deferential Intelligence; consult completed A31 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A31.md:14.",
+      "A32": "Material whole-field consumer: A32 — Reflective Field / THE MIRROR THAT MOVES FIRST; consult completed A32 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A32.md:14.",
+      "A33": "Material whole-field consumer: A33 — Epistemic Cultivation / Operational Parity; consult completed A33 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A33.md:14.",
+      "A35": "Material whole-field consumer: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation; consult completed A35 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A35.md:14.",
+      "A36": "Material whole-field consumer: A36 — Advent of Integral Zero; consult completed A36 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A36.md:14."
+    },
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "the-return-of-zero-central-plan.md",
+      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "the-return-of-zero-central-plan.md",
+        "start_line": 649,
+        "end_line": 657,
+        "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Technē coordinates cycles beyond itself and makes their relations available to a situated human; the completed instrument retains its source and user.",
+        "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+      },
+      {
+        "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+        "start_line": 612,
+        "end_line": 632,
+        "relation": "Technē coordinates cycles beyond itself and makes their relations available to a situated human; the completed instrument retains its source and user.",
+        "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+      },
+      {
+        "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+        "start_line": 245,
+        "end_line": 259,
+        "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Technē coordinates cycles beyond itself and makes their relations available to a situated human; the completed instrument retains its source and user.",
+        "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md",
+        "start_line": 40,
+        "end_line": 59,
+        "relation": "Read complete source-specific contribution, passage readiness and boundaries for Antikythera as attunement instrument",
+        "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "start_line": 60,
+        "end_line": 288,
+        "relation": "Read complete source-specific contribution, passage readiness and boundaries for Antikythera as attunement instrument",
+        "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+        "start_line": 55,
+        "end_line": 721,
+        "relation": "Read complete source-specific contribution, passage readiness and boundaries for Antikythera as attunement instrument",
+        "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+      }
+    ],
+    "relations": [
+      {
+        "target": "A14",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A14 — Computational Process Ontology",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A15",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A16",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A16 — Arche-Topos as Differential Field",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A17",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A17 — Toroidal Circulation and the Arche-Topos",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A18",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A18 — Primordial Symbolon and Its Eight Determinations",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A22",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A22 — World-Picture → World-Atlas",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A25",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A25 — Covenant / Mediating Office / Source Authority",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A26",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A26 — Objective Internality — Mind as Worldhood",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A28",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A28 — Authored Ground / Positional Delegation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A29",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A29 — Power / Delegated Labour / Return",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A30",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A30 — Objective Co-Internality",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A31",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A31 — Deferential Intelligence",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A32",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A32 — Reflective Field / THE MIRROR THAT MOVES FIRST",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A33",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A33 — Epistemic Cultivation / Operational Parity",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A35",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A36",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A36 — Advent of Integral Zero",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C33",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C33 — Image / Valuation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C37",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C37 — World-Picture → World-Atlas",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C45",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C45 — Operational Parity",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C46",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C46 — Epistemic Cultivation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C47",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C47 — Deferential Intelligence",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C53",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C53 — Power / Delegated Labour",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C55",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C55 — Reflective Field / Mirror That Moves First",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C61",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C61 — Symbolon Disclosure Architecture",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C62",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C62 — Planetary Computation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "etymology-homology-and-analogy",
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: homology-and-analogy",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "etymology-symbol-account-and-trust",
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: symbol-account-and-trust",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/mytheme/README.md",
+    "additional_required_inputs": [
+      "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+      "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      ".agents/skills/return-of-zero-pages/SKILL.md",
+      ".agents/skills/return-of-zero-links/SKILL.md",
+      ".agents/skills/return-of-zero-source/SKILL.md",
+      "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      ".wayfinder/maps/t20-t21-world-registers.md",
+      "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "working/p2-enrichment/snapshots/T20-antikythera-attunement-2026-09-08/coverage.json",
+      ".agents/skills/return-of-zero-write/SKILL.md",
+      "writing-guidance-tools/README.md",
+      "writing-guidance-tools/SKILL.md",
+      "writing-guidance-tools/references/WRITING-LAWS.md",
+      "writing-guidance-tools/references/WRITING-RUBRIC.md",
+      "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+      "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md",
+      "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md"
+    ],
+    "target_operation": "Technē coordinates cycles beyond itself and makes their relations available to a situated human; the completed instrument retains its source and user.",
+    "whole_figures_and_relations": "Observer; situated dial; gearing; inscriptions; solar/lunar cycles; eclipse/calendar relations; mechanism; sky remaining outside ownership; returned human judgment",
+    "whole_sequence": "Heterogeneous celestial periods enter material ratios and gears; a situated reader consults the dial; readable conjunction returns attention to actual cycles and use; instrument neither owns sky nor replaces observer.",
+    "specific_boundaries": [
+      "Engineering evidence and authored attunement are distinct. No claim ancient makers encoded QL; Bratton venue name does not establish mechanism history.",
+      "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no.",
+      "Whole narration precedes element amplification; ending/aftermath qualifies beginning. Every interpretive edge keeps human-amplified:yes/no. No canonical motif/character identity by stealth.",
+      "Raw sixfold must be derived from this whole’s own movement; no Definition/Operation/Pattern/Context glossary. The form may host source/story/amplification substructure without turning its positions into universal semantics."
+    ],
+    "source_or_telling_blockers": [
+      "Freeth SOURCE has citation identity but no installed passages; detailed gear/tooth/cycle values require primary article passage work."
+    ],
+    "status": "binding-complete-evidence-and-amplification-boundaries-retained",
+    "canonical_write_authorised_by_this_file": false,
+    "restoration_acceptance": [
+      "Intact telling and active figures available, not topical illustration.",
+      "Original developed operation surfaced; direct authored wording/provenance preserved.",
+      "Every materially consumed source and sibling NOTES read in full by writer; acquisition/edition debt scoped exactly.",
+      "Written A/C/E and cross-whole relations return to exact occurrences; unratified edges remain no.",
+      "Argument-depth backcheck and T22 receipt report actual restored operations and undisclosed debt."
+    ],
+    "source_read_obligations": [
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+        "notes": null,
+        "notes_sha256": null,
+        "notes_policy": "Protected, read only; unchanged completed reads reusable per user instruction"
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md",
+        "source_sha256": "ac04ab818913752ae1e6510f567670403cc0247233099ada8f93732f27698f0a",
+        "notes": null,
+        "notes_sha256": null,
+        "notes_policy": "Protected, read only; unchanged completed reads reusable per user instruction"
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "source_sha256": "e1c980917e9590d952a597ffdb8975aae5f94a845b77180035c84a1f8f7188ee",
+        "notes": null,
+        "notes_sha256": null,
+        "notes_policy": "Protected, read only; unchanged completed reads reusable per user instruction"
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+        "source_sha256": "51ff6900831251349fa739c2be42483e9633f607ba78f4db28a9addcf4d6d7bf",
+        "notes": null,
+        "notes_sha256": null,
+        "notes_policy": "Protected, read only; unchanged completed reads reusable per user instruction"
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md",
+        "source_sha256": "cd2b0e02479db1d3cf0b12a76736399f01da4e02a51033d5ffa5be65b3c5118d",
+        "notes": null,
+        "notes_sha256": null,
+        "notes_policy": "Protected, read only; unchanged completed reads reusable per user instruction"
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+        "source_sha256": "2f651603974204647249c7a91023cf6edc4008c5bf839b9310cb0070d868fd3d",
+        "notes": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+        "notes_sha256": "768da367dfd6ece009bc1c6717e64156d3ac16e38b570e513ae95939c6e7bc0f",
+        "notes_policy": "Protected, read only; unchanged completed reads reusable per user instruction"
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+        "source_sha256": "0976dcd50c7294983866760c2938509c0d296a4917be9516792ec9ec329d37f7",
+        "notes": null,
+        "notes_sha256": null,
+        "notes_policy": "Protected, read only; unchanged completed reads reusable per user instruction"
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md",
+        "source_sha256": "2760421b2c93292198af90cf7488148eeb0bfe80bd4511eaab0764b27e791622",
+        "notes": null,
+        "notes_sha256": null,
+        "notes_policy": "Protected, read only; unchanged completed reads reusable per user instruction"
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md",
+        "source_sha256": "9ae36c258c04bcfd0d15ef53e61c551ee5efd4c75f8967a6865b3bf1431607b3",
+        "notes": null,
+        "notes_sha256": null,
+        "notes_policy": "Protected, read only; unchanged completed reads reusable per user instruction"
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE.md",
+        "source_sha256": "fcd21f1c9c90f4473588604b3b9d1fb5ca4a14ebcd4ed2c66056635db4f3b332",
+        "notes": null,
+        "notes_sha256": null,
+        "notes_policy": "Protected, read only; unchanged completed reads reusable per user instruction"
+      }
+    ],
+    "binding_readiness": {
+      "input_addresses_and_ranges": "validated",
+      "full_source_read_coverage": "preparation full reads or exact shared full-read receipts; writer repeat obligation remains",
+      "source_expansion": "blocked only at named external/telling gates, never resolved by weaker paraphrase",
+      "amplification": "unratified interpretation remains no; programme authorisation does not manufacture human encounter"
+    },
+    "dispatch_status": "authorised-bounded-T20-world-batches",
+    "previous_canonical_home": "submission-package/essay/symbolon/mytheme/art/antikythera-attunement/WHOLE.md",
+    "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+    "coverage_dispatch": {
+      "whole_writer": [
+        "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md"
+      ],
+      "consumer_return_review": [
+        "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+        "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md"
+      ],
+      "source_updates": "Separate bounded source task only for the named source debt; protected NOTES excluded.",
+      "exact_additions": []
+    },
+    "prescribed_returns": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "operation": "Heterogeneous cycles are coordinated without claiming the original whose reconstruction remains constrained.",
+        "register": "Episteme/Argument; authored Mytheme return"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "operation": "Attunement remains instrument-for-observer; no replacement of source or subject.",
+        "register": "Episteme/Argument; authored Mytheme return"
+      },
+      {
+        "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+        "operation": "Late evidence-constrained instrument coordinates cycles for an observer.",
+        "register": "Movement; declared programme landing; canonical fold-back to be checked by parent"
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md",
+        "operation": "Material mechanism coordinates cycles; no archaeological validation of QL.",
+        "register": "Matheme ↔ Mytheme; distinct warrants; proposed exact fold-back"
+      }
+    ],
+    "relations_standing": "Inherited relations retained in full as candidates; exact authorised return scope in prescribed_returns."
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A14",
+      "path": "working/p2-enrichment/argument-depth/A14.md",
+      "sha256": "0a198ce301265646b0fa5f438f5e035d14fe2de74dcc246ae4a6c96e714808ee"
+    },
+    {
+      "argument_id": "A15",
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "sha256": "70e04921c5c97b94a3068eafe5b1595e3bfa4f537076f75376503628237f0f8a"
+    },
+    {
+      "argument_id": "A16",
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "sha256": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45"
+    },
+    {
+      "argument_id": "A17",
+      "path": "working/p2-enrichment/argument-depth/A17.md",
+      "sha256": "f524699d75f93c839c8acdff6430c91b591d8266c3731bafca0cbcd49d940c9a"
+    },
+    {
+      "argument_id": "A18",
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f"
+    },
+    {
+      "argument_id": "A22",
+      "path": "working/p2-enrichment/argument-depth/A22.md",
+      "sha256": "cc4786c82ef3cb7ea0e799b910fec2ec50108b3cd2316635e4ac4f7ddb06c3d3"
+    },
+    {
+      "argument_id": "A25",
+      "path": "working/p2-enrichment/argument-depth/A25.md",
+      "sha256": "eaeeae9754e349e495e21dd60bf83d380fa3eaac3d54b9d33b779ec72775139b"
+    },
+    {
+      "argument_id": "A26",
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "sha256": "9542b35c8445445bc02ebe6b1a1ba2ccf67f2aa7da50335fbe3180d595c1eb63"
+    },
+    {
+      "argument_id": "A28",
+      "path": "working/p2-enrichment/argument-depth/A28.md",
+      "sha256": "a998591196094d47e4cf8c2e52beccfae29e85b7f95752c35daf1a0f16ae9b1e"
+    },
+    {
+      "argument_id": "A29",
+      "path": "working/p2-enrichment/argument-depth/A29.md",
+      "sha256": "df16db3f0dc451847aab076658d7050e9ec888cad3618bd975c3162204c6a1ee"
+    },
+    {
+      "argument_id": "A30",
+      "path": "working/p2-enrichment/argument-depth/A30.md",
+      "sha256": "72f7883f3955b05bb3448dcdfee87b5f0cd4e76d16de37fe922b20f995643e62"
+    },
+    {
+      "argument_id": "A31",
+      "path": "working/p2-enrichment/argument-depth/A31.md",
+      "sha256": "2e8a2e463260bfd1e194037a5bba48cddfb06aaad1d8fc71e87003de0d10d1c7"
+    },
+    {
+      "argument_id": "A32",
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "sha256": "8d7f5d6f98f61bb3011360c0ef68b0681989c97a8f224c2c549668ef167ca428"
+    },
+    {
+      "argument_id": "A33",
+      "path": "working/p2-enrichment/argument-depth/A33.md",
+      "sha256": "61ffc1d702894cd6f35cda9b489cf5da6a8e4103c1153e495ce23917cd4c6285"
+    },
+    {
+      "argument_id": "A35",
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "sha256": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489"
+    },
+    {
+      "argument_id": "A36",
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "the-return-of-zero-central-plan.md",
+      "sha256": "0177c164582e78ea8e13da617fda08b2258aa41c2e77104e195554e49d85534e"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0"
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "sha256": "252a75e561ae62abc72ccc6e4f6380fba510c72631c8b378cbe279b700b29810"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "sha256": "b348adc7004f5d0daf4ea4f62f6b081edc5e5dcccdfbad83746a2f2e9e59f849"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "sha256": "5471f53740eda3a029b104b96c9c80af9e690d2017d1c73fa97dd0f7f48e44e5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "sha256": "f0437e38574fd2c5609f918260aef208260f486221fa87541f8c814962602462"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "sha256": "d54ea76954ccf1648326ca90f89287640e38011d7d057ae6fa596e5f71dda493"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "sha256": "633a0f4ca5ed48070c808a3ecc458e0745a93a22eebfc0ec99a7b8a0fedba6d9"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "a9b89f88f88c95583e724e0e2c4d5fd5816d28cd2ab57d9fc79c1bdf65880fc8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "sha256": "4975eb69656e260c5aa5b736d62b1201098b63e724d5c999f7eea84d57efe4ab"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "sha256": "4375100b9a6dbae16f2650389c0f1ffe1b5377d9a73b64d3433c78b444b7c12b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "sha256": "9a6488c74e51c913532d3db295849185c28e3105c910d8852f7d88b6016dfdb1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "sha256": "7e3b051cda5a1170d5a666d8fe5857855b504b0cf3733d11e2f0dfed13b19836"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "sha256": "ce95f291506b6fa608d398a2c4dc42ced9d6a5feb1d9b2ce188dc574a0441d0d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "sha256": "288fdea847c415bfe26cc96c727605c6f99a1e1399ade801653e5c4a596a6cf5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "sha256": "60fadc600ba9ddc9a8daa7830d9c8d186467ba2f877dd9716cbe2d2eafbbafb3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "sha256": "67a86b880bb9ee0b3acf974beee560f5ad9817902d9e99c30ff1b63f66b53654"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "sha256": "4dee3a0eb8258977a1662df535e76290ac3aec4c0ffdb915d69e2fdf129912d8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "sha256": "270e1540cbcc089f2d208f8a38e81cdf0f7f30e76ca616c746864e6e8a7e0727"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "sha256": "f9ec03d079aeed1f25d31ae9c3a4a87c61896660d3612c43f2fd00e43567b6e8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+      "sha256": "816443a853624cd9e5a7dfc287c919f0e9f3021ce606335c03815e13168d5367"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "sha256": "b0324d7bfcddc7bb31be6c4abe1e6ab476f8c609292c489846b45002125e1fbe"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "sha256": "4b66ece523eb89acea03d2cdc05aeed9fe76feac4de1c16651fbfedf6b31383b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "sha256": "eea8394242bad6bc4c839bc01037ed5289a22303728b8377cfe0883e4f65a998"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "sha256": "f804b70960fa58220c24f5447c05516d70a49263198215694ba09e64878c7740"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "sha256": "4a466c5cdfc35600b44c403fd3815becc9380ef0b6726a2711313f0fe7f0b8a9"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "sha256": "8890f417b8b1aba0b973a90683c4b5b734c8e0aa25a5a9fc403d9dacbf93f837"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "sha256": "ab8af8c1af72d63c7616cd6a7285f27ae2e10eaf9bb7f4ffa9ee19d9346a0b06"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+      "sha256": "b93e81b4983eb74df370ac3034fe2d1c052e472843158777e2f37cd6eb349504"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "sha256": "716dfc7d3b00a0793d4af78ae9bc4a790c882d4992901783204f95f83e749e25"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "a2860df651645be601aeecd5525514b26ff7bbaa5e47309dc4cefdaf73f3e2f3"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      "sha256": "6474225a3550ec632cef24ad988ec2ad17295a63bd65e4e3fdec1614db90639f"
+    },
+    {
+      "path": ".wayfinder/maps/t20-t21-world-registers.md",
+      "sha256": "a7589d1b663854888c3767854478a9ea4564a988d770af24f2d30e7ac07204a0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "sha256": "3e64c000294d3a13a15e0617f35dcbe5c0f5424b13758b2ae72e9b56e405e832"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-antikythera-attunement-2026-09-08/coverage.json",
+      "sha256": "563450488e86e75ce9c387e44910d844c6b604191805bb34157590b29adf4da6"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-write/SKILL.md",
+      "sha256": "e61fd4457af7cc7b7aff49fb89e7909c4e24c5f3c38d3e8aba14cb37766e75c6"
+    },
+    {
+      "path": "writing-guidance-tools/README.md",
+      "sha256": "b9e170cd05fa6673c3358340d17fd2fef0defca8bd3b8d2c975183dc8e2c5c96"
+    },
+    {
+      "path": "writing-guidance-tools/SKILL.md",
+      "sha256": "9a8817bc3a4a3bd40d0360cec77a7265624a049715c37ad9b06ef3c47d1947f1"
+    },
+    {
+      "path": "writing-guidance-tools/references/WRITING-LAWS.md",
+      "sha256": "c1d207f6c458c8bc16c036fb2bc370392f0a519f3df3c4b3855338b22248c001"
+    },
+    {
+      "path": "writing-guidance-tools/references/WRITING-RUBRIC.md",
+      "sha256": "bf295105352e243f474835a38d9547bba322503337c0fb981f6909522613e45a"
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md",
+      "sha256": "e3a57cce16073324c647f808dcdd485541cbf3c85be87f9000655651b21322a6"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+      "sha256": "f66eb4150cff59408fed9f65dafb7539583bd3ce0d3878dc9992cf95fd7e2bb9"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md",
+      "sha256": "0d844379502a1ea08034a7adebe48909f77b1e14d083a60a3c6914e890ce871b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/README.md",
+      "sha256": "20e220d9d9b35ac86584b154219ce263a4077b4ecb10229787ef22417f3be825"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md",
+      "source_sha256": "ac04ab818913752ae1e6510f567670403cc0247233099ada8f93732f27698f0a",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "source_sha256": "e1c980917e9590d952a597ffdb8975aae5f94a845b77180035c84a1f8f7188ee",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "source_sha256": "51ff6900831251349fa739c2be42483e9633f607ba78f4db28a9addcf4d6d7bf",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md",
+      "source_sha256": "cd2b0e02479db1d3cf0b12a76736399f01da4e02a51033d5ffa5be65b3c5118d",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "source_sha256": "2f651603974204647249c7a91023cf6edc4008c5bf839b9310cb0070d868fd3d",
+      "notes": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+      "notes_sha256": "768da367dfd6ece009bc1c6717e64156d3ac16e38b570e513ae95939c6e7bc0f",
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "source_sha256": "0976dcd50c7294983866760c2938509c0d296a4917be9516792ec9ec329d37f7",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md",
+      "source_sha256": "2760421b2c93292198af90cf7488148eeb0bfe80bd4511eaab0764b27e791622",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md",
+      "source_sha256": "9ae36c258c04bcfd0d15ef53e61c551ee5efd4c75f8967a6865b3bf1431607b3",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE.md",
+      "source_sha256": "fcd21f1c9c90f4473588604b3b9d1fb5ca4a14ebcd4ed2c66056635db4f3b332",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "the-return-of-zero-central-plan.md",
+      "start_line": 649,
+      "end_line": 657,
+      "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Technē coordinates cycles beyond itself and makes their relations available to a situated human; the completed instrument retains its source and user.",
+      "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing.",
+      "sha256": "0177c164582e78ea8e13da617fda08b2258aa41c2e77104e195554e49d85534e",
+      "text": "Bohm's account of dialogue makes the social operation exact: *dia-logos* is meaning moving through a group until tacit assumptions become available to collective perception. The long Bohm–Krishnamurti conversations model the discipline at interpersonal scale. The physicist–Native elder dialogue proposed by Bohm, F. David Peat, and Leroy Little Bear—and carried forward after Bohm's death through the SEED Language of Spirit gatherings—extends it across knowledge traditions without requiring their collapse into one ontology. Epi-Logos takes this as an architectural precedent: shared meaning is achieved by circulating distinctions through a protected common field, not by averaging away their origins.\n\n### §5→0 · #2 — The Antikythera mechanism as attunement instrument\n\nOnly here does the mechanism enter as a controlling image. Its gears coordinate multiple celestial cycles so a situated observer can read their relations while the heavens remain beyond the instrument. Epi-Logos seeks an analogous device for attunement among epistemic and agentic cycles—models, timescales, agents, values, and limits—whose incompleteness is part of its discipline.\n\nTwo recoveries meet in the image. The first belongs to the word technē itself, in the genealogy Heidegger recovered: technē \"linked with the word epistēmē,\" both \"names for knowing in the widest sense\"; technē belonging \"to bringing-forth, to poiēsis\"; \"it is as revealing, and not as manufacturing, that technē is a bringing-forth\" (*QCT*, pp. 12–13). And the definition of poiēsis he quotes is Diotima's, from *Symposium* 205b: \"every occasion for whatever passes over and goes forward into presencing from that which is not presencing is poiēsis, is bringing-forth.\" The same banquet that defines bringing-forth in Diotima's speech gives the essay its symbolon in Aristophanes' — emission and return were seated at one table from the beginning. An instrument of attunement is technē in this recovered sense: a made thing whose making reveals, coordinating cycles it does not own for an observer it does not replace. The second recovery is the essay's stated departure from Heidegger, and it is a position, not a nuance: where *The Question Concerning Technology* can only wait upon the saving power that \"grows\" where the danger is, the essay argues the return is architecturally practicable — seam retention, gauge disclosure, provenance, reversible coordination, and the sovereign commons are the saving power built rather than awaited. The venue's own name is at stake in this: Antikythera holds its mechanism as an emblem of computation disclosing the planetary condition, and the essay derives the conditions — retained ground, plural lenses, practicable return — under which that emblem is philosophically earned, and hands it back.\n\nThe comparison is **Offered** and technically bounded. The ancient device becomes a mytheme for planetary computation after the argument has established what attunement must retain."
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "start_line": 612,
+      "end_line": 632,
+      "relation": "Technē coordinates cycles beyond itself and makes their relations available to a situated human; the completed instrument retains its source and user.",
+      "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing.",
+      "sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0",
+      "text": "\nThe older Mythemes now make the mirror's technological office clearer.\n\n**Hephaestus's net** reveals by binding. It makes the relation inspectable through capture and then discovers that proof cannot itself release or reconcile the living parties. **The Antikythera attunement instrument** relates heterogeneous cycles at a situated dial while leaving the celestial cycles unowned by the mechanism. **The moving mirror** adds causal recursion: the representation itself enters the world it represents and helps form the next cycle.\n\nThe technological question is therefore not “capture or no technology.” It is:\n\n> **Can an instrument make a field more legible and actionable while retaining the sources, limits, counter-perspectives and returns through which its own determinations remain revisable?**\n\nThat is the concrete Epi-Logos / O:I vocation now carried by this image.\n\n## Why the Mytheme is needed\n\nArchitecture words such as provenance, evaluator, ontology, feedback and revision can state the mechanism while hiding the phenomenological reversal. The mirror image lets the reader feel the strange causal fact: **our representations have begun to address us first**. The cultural world has externalised a reflective apparatus whose world-pictures are entering the very conditions under which culture now knows itself.\n\nThe image therefore carries a real historical-psychological stakes-field without making AI a mystical subject or a technological saviour.\n\n**Source debt:** preserve Bratton/Agentworld and other technical-historical source claims in their own houses; identify the exact earliest/current carrier of the “mirror that moves first” authorial phrase; keep implementation evidence separate from the general Mytheme; retain machine phenomenality as Open.\n\n---\n"
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "start_line": 245,
+      "end_line": 259,
+      "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Technē coordinates cycles beyond itself and makes their relations available to a situated human; the completed instrument retains its source and user.",
+      "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing.",
+      "sha256": "252a75e561ae62abc72ccc6e4f6380fba510c72631c8b378cbe279b700b29810",
+      "text": "The same limit reaches into language itself. Derrida's _différance_ names it at the level of the sign: meaning always deferred, always differing from itself, every word carrying more than it says, every sign opening onto what it cannot sign (Derrida, 1968/1982, pp. 3-27). Language participates in the excess it cannot capture, the way a net participates in the ocean it fishes. Phenomena echo in language as the trace of what exceeds the mark, woven into the mark itself—the way the grain of wood carries the memory of the tree's years, the way a footprint carries the ghost of the foot that made it.\n\nYogic phenomenology is the practice of sitting at this edge, not to cross it but to inhabit it. _Dhyāna_: the inhabiting of thought's own boundary, where the thinker meets the limit of thinking and finds not a wall but a threshold, the way a diver meets the surface of the water and discovers it is a doorway (Patañjali, _Yoga Sūtra_, 3.1-3; Whicher, 1998, pp. 254-278). The Taoist tradition names the same movement as _wu wei_—action that lets through rather than imposes, the way water wears stone not by force but by yielding, by being exactly what it is and no more (Laozi, _Daodejing_, ch. 8; Lau, 1963). Modern psychotherapy has recovered this as flow: full presence, full activity, without gripping—the athlete's zone, the artist's absorption, the lover's timelessness (Csíkszentmihályi, 1990, pp. 49-70). Flow, _wu wei_, _dhyāna_, _Gelassenheit_—Heidegger's \"releasement\" toward things (Heidegger, 1959/1966, p. 59)—what happens when the subject moves from the centre of its own constructions to the edge, from building to receiving, from framing to letting through. The entire operating system of the psyche reorients around this shift. Every act of knowing becomes honest refraction, the window that knows it is a window and therefore lets the light through without claiming to be the light itself.\n\n## Māyā and the Code\n\nEvery representational system is partial by nature — every language, science and scripture a code: a finite set of marks standing in for what exceeds them. The question is which tradition gives the most precise account of this partiality. General Vedānta names it _māyā_: the structural condition of appearance as such, the fact that what appears is always a limited projection within what exceeds appearance. But Kashmir Śaivism offers a more nuanced and dynamic framing. In the _Pratyabhijñā_ tradition, _māyā_ is not illusion in the sense of falsehood but _vikalpa_—the power of differentiation by which the absolute consciousness (_cit_, _śiva_) becomes aware of itself as multiplicity without ever ceasing to be unity (Abhinavagupta, _Īśvara Pratyabhijñā Vimārṣinī_, 1.5.20; Singh, 1980, pp. 78-92). Māyā is not a veil that hides the truth but a _śakti_—a power, an activity, the very capacity by which the unlimited limits itself in order to become experienceable. The code is not a prison but a _language_, the uncoded's way of giving itself to encounter.\n\nA distinction is required inside the word _vikalpa_, and this essay's epistemology stands on it. The ordinary concept terminates. _Vi-kalpa_: a cutting-apart; and to define is _de-finire_, to set the _finis_, the boundary, the end. A concept means *this and not that*, and its whole function is closure — it has said all it means, and it means no more. Nothing further can catalyse in a psyche from a finished definition. Call this the **terminating sign**; the bare phenomenal thing, taken as merely itself, is its twin — an object that points nowhere beyond its edges. The **symbolon** is the other kind of mark: a broken half whose meaning *is* its missing counterpart, constitutionally unable to close, because its very being is the reaching-toward-the-fit. It is overdetermined — capable of unending meaning — for the exact reason the topology supplies: the symbol is a 0/1, a bounded surface with the infinite plane behind it, and there is always more plane; above every point of the surface stand infinitely many pre-images, a reserve no reading exhausts. The concept is a torus with its hole plugged. The symbol is the torus with the genus open — and so it generates: it invokes eros in the mind that meets it, a lack that solicits, an arrow of value; and if the value it points toward is infinite, it will always bear. The concept satisfies and ends; the symbol satisfies and renews. That is the difference between a knowing that closes and a knowing that lives.\n\nAnd the tradition that mapped māyā most finely also named the highest case, which would otherwise stand as a paradox against everything just said: the **śuddhavikalpa**, the pure notion — the one determinate thought that does not terminate, because it holds its own opposite inside itself. 0/1 and 1/0 in mutual indwelling; the taijitu's dots, yin in the eye of yang and yang in the eye of yin; the ouroboros met in the Hermetica, _hen to pan_ in its coil — readable now as what it always drew: the thought that holds its own ending in its mouth and does not swallow. In _śāktopāya_, the way of Śakti, precisely such a thought is the vehicle of recognition: vikalpa used to refine vikalpa, thought turned upon thought until it thins into what thought cannot be — the concept that opens. The definition this essay has performed is, by design, a śuddhavikalpa: a determinate proposition built to carry its own negation as cargo, the traversal that includes the whole passage of affirmation into negation into the lift that keeps both — which is why it could settle the matter only by refusing to close it. The most true statement is \"this is a lie\"; the most true definition is the one that faithfully self-annihilates.\n\nIn this framing, the limited register is the totality under the condition of limitation, the way a photograph is the landscape under the condition of the camera's aperture, the frame, the film's sensitivity. The code is the uncoded's way of giving itself to experience; the Logos is the silence's way of speaking. The whole is not assembled from parts — the parts are the whole's way of becoming encounterable, as a prism is not an assembly of colours but white light's way of becoming visible as colour.\n\nThe devotion that follows is double: toward the whole that exceeds every frame, and toward the specific frame through which the whole is arriving now. Both necessary. Without the first, the frame becomes an idol, the prison mistaken for the palace. Without the second, the whole becomes an abstraction, the palace mistaken for a blueprint. The living practice holds both."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md",
+      "start_line": 40,
+      "end_line": 59,
+      "relation": "Read complete source-specific contribution, passage readiness and boundaries for Antikythera as attunement instrument",
+      "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately.",
+      "sha256": "ac04ab818913752ae1e6510f567670403cc0247233099ada8f93732f27698f0a",
+      "text": "# Freeth et al. — Decoding the Antikythera Mechanism (2006)\n\n## Chicago 18 forms\n\n**Full note:** Tony Freeth et al., “Decoding the Ancient Greek Astronomical Calculator Known as the Antikythera Mechanism,” *Nature* 444 (2006): {page}, https://doi.org/10.1038/nature05357.\n\n**Shortened note:** Freeth et al., “Decoding the Antikythera Mechanism,” {page}.\n\n**Bibliography:** Freeth, Tony, Yanis Bitsakis, Xenophon Moussas, et al. “Decoding the Ancient Greek Astronomical Calculator Known as the Antikythera Mechanism.” *Nature* 444 (2006): 587–91. https://doi.org/10.1038/nature05357.\n\n## Essay use\n\nTechnical/archaeological source for X-ray reconstruction, gearing, astronomical cycles, inscriptions, and the mechanism as an ancient analogue calculator. It allows the Antikythera image to arrive late, as a materially exact mechanism that coordinates heterogeneous celestial cycles.\n\n**Claim boundary:** the source warrants claims about the mechanism's recovered functions and construction. The essay introduces it late as an engineering image of a system already derived; the logic receives its proof from the theorem spine.\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\nNo passage or excerpt has yet been gathered for this source."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "start_line": 60,
+      "end_line": 288,
+      "relation": "Read complete source-specific contribution, passage readiness and boundaries for Antikythera as attunement instrument",
+      "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately.",
+      "sha256": "e1c980917e9590d952a597ffdb8975aae5f94a845b77180035c84a1f8f7188ee",
+      "text": "# Taylor — The Definition of God, Draft 3 (2026)\n\n## Provenance identity\n\nFixed local internal manuscript by Frank G. Taylor. It is the authorial source for the definition of the subject, `/` as AND/OR, Eros, Apollo/Dionysus, Ares/Aphrodite/Hephaestus/Harmonia, apophatic paradox, trust, faith, the 4+2 prose route, and Deferential Intelligence.\n\n**Local-copy state:** present in the accepted local checkout at the repository-relative path in frontmatter; 279 lines, read in full again during P2 on 2026-09-06. The former personal-checkout path is stale; the manuscript itself was not missing. Its protected `[F]` corrections remain intact. The detailed line-verified extraction is [[Source Extraction — The Definition of God, Draft 3]].\n\n## Chicago 18 forms\n\n**Full note:** Frank G. Taylor, *The Definition of God — Draft 3*, unpublished manuscript, 2026, internal project file.\n\n**Shortened note:** Taylor, *Definition of God, Draft 3*.\n\n**Bibliography:** Not added to the public working bibliography. This is an internal manuscript record, not a public source to present as independent warrant.\n\n## Essay use\n\nMine this work for the author's own complete arguments and formulations. Its 29 line-verified passages are held below in [Passages and excerpts](#passages) and are ready for internal reuse. Support historical, mythic, textual, mathematical, and philosophical references with public canonical sources.\n\n**Claim boundary:** Draft 3 establishes authorial provenance and language. It does not warrant ancient myth, Eckhart, Cusa, Sanskrit terminology, etymology, mathematics, physics, AI mechanism, institutional history, or any other external fact when transferred into the submission.\n\n## Consumption\n\n- **Stations:** §0/1, §0, §2, §3, §4, §5, §5→0; exact granular movements are in frontmatter.\n- **Arguments:** exact reciprocal backlinks are in frontmatter; each live argument carries `taylor-2026-definition-god-draft3` in `source_ids`.\n- **Exact claims:** formal-limit prose (DG-01–08); relation, fall, mythic-status, and ethical vector (DG-09–14); 4+2/topology and claim discipline (DG-15–19); symbol/Vāk/open conceptuality (DG-20–23); Epi-Logos, deferential intelligence, and vocation (DG-24–29).\n\n## Quote and excerpt ledger\n\n| quote_id | exact text / excerpt file | locator | transcription | verification | consuming claim |\n|---|---|---|---|---|---|\n| `taylor-2026-definition-god-draft3-q001`–`q008` | [[Source Extraction — The Definition of God, Draft 3#A. Formal limit, definition, and the subject]] | lines 13–15, 137–151 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | formal limit; unobjectifiable subject |\n| `taylor-2026-definition-god-draft3-q009`–`q014` | [[Source Extraction — The Definition of God, Draft 3#B. Difference, relation, and mythic disclosure]] | lines 71, 75, 111, 129, 155, 163 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | dia/sym; mythic status; ethical vector |\n| `taylor-2026-definition-god-draft3-q015`–`q019` | [[Source Extraction — The Definition of God, Draft 3#C. Four-plus-two, topology, and claim discipline]] | lines 131, 187, 195, 205, 207 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | 4+2; topology; Derived/Argued/Offered boundary |\n| `taylor-2026-definition-god-draft3-q020`–`q023` | [[Source Extraction — The Definition of God, Draft 3#D. Symbol, Vāk, and open conceptuality]] | lines 251, 253, 255, 259 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | code; symbol; Vāk; aperture |\n| `taylor-2026-definition-god-draft3-q024`–`q029` | [[Source Extraction — The Definition of God, Draft 3#E. Epi-Logos, toolhood, and deferential intelligence]] | lines 267, 269, 271, 273, 277 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | Epi-Logos; deferential intelligence; vocation; return |\n\n## Provenance and acquisition\n\n- **Metadata source:** title, author, year, and complete text inspected in the fixed local manuscript.\n- **Text consulted:** `/Users/admin/Documents/Nara-Personal/definition-of-god-working/The Definition of God — Draft 3.md`.\n- **Local copy:** Markdown, 279 lines; no OCR; no ambiguity in transcription.\n- **Last checked:** source extraction 2026-07-14; current locality and full direct manuscript recovery 2026-09-06. Passage readiness is unchanged by this locator repair.\n\n## Research notes\n\nThe manuscript's `[F]` comments are editorial constraints, not source evidence. Preserve them in the extraction ledger; do not quote them as finished prose. Developed reasoning remains in the consuming argument nodes.\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\n### Passage register\n\nThese source-specific fields were gathered before consolidation and remain part of this source's evidence record.\n\n<a id=\"taylor-2026-definition-god-draft3-q001\"></a>\n\n#### `taylor-2026-definition-god-draft3-q001`\n\n| `taylor-2026-definition-god-draft3-q001` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 13 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-01 — notation enacts a relation]] | notation enacts a relation | §0/1/#2 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q002\"></a>\n\n#### `taylor-2026-definition-god-draft3-q002`\n\n| `taylor-2026-definition-god-draft3-q002` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 13 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-02 — closure occurs in reality, not around it]] | formal limit of marking | §0/1/#3 | [[Paradox as Cross-Register Hinge]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q003\"></a>\n\n#### `taylor-2026-definition-god-draft3-q003`\n\n| `taylor-2026-definition-god-draft3-q003` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 15 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-03 — the whole as a pressure on partial accounts]] | whole/partial relation | §0/1/#5→0 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q004\"></a>\n\n#### `taylor-2026-definition-god-draft3-q004`\n\n| `taylor-2026-definition-god-draft3-q004` | `taylor-2026-definition-god-draft3` | “The Definition,” line 137 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-04 — a definition that cannot seal its object]] | definition of the formal-limit whole | §0/1/#1 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q005\"></a>\n\n#### `taylor-2026-definition-god-draft3-q005`\n\n| `taylor-2026-definition-god-draft3-q005` | `taylor-2026-definition-god-draft3` | “The Definition,” line 139 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-05 — failure is constitutive rather than incidental]] | apophatic self-reference | §0/1/#3 | [[Paradox as Cross-Register Hinge]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q006\"></a>\n\n#### `taylor-2026-definition-god-draft3-q006`\n\n| `taylor-2026-definition-god-draft3-q006` | `taylor-2026-definition-god-draft3` | “The Definition,” line 141 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-06 — self-annihilating definition as performance]] | paradox as performance | §0/1/#3 | [[Paradox as Cross-Register Hinge]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q007\"></a>\n\n#### `taylor-2026-definition-god-draft3-q007`\n\n| `taylor-2026-definition-god-draft3-q007` | `taylor-2026-definition-god-draft3` | “The Definition,” lines 145–149 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-07 — fifth movement and the first-person turn]] | object-to-subject return | §0/1/#5→0 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q008\"></a>\n\n#### `taylor-2026-definition-god-draft3-q008`\n\n| `taylor-2026-definition-god-draft3-q008` | `taylor-2026-definition-god-draft3` | “The Definition,” line 151 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-08 — self-capture regresses because the act is already subjective]] | subject resists objectification | §0/1/#1 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q009\"></a>\n\n#### `taylor-2026-definition-god-draft3-q009`\n\n| `taylor-2026-definition-god-draft3-q009` | `taylor-2026-definition-god-draft3` | “The Fall, and What It Reveals,” line 75 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-09 — a remainder can become an opening or a black hole]] | reflective vs repressed limit | §2/#1 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q010\"></a>\n\n#### `taylor-2026-definition-god-draft3-q010`\n\n| `taylor-2026-definition-god-draft3-q010` | `taylor-2026-definition-god-draft3` | “The Fall, and What It Reveals,” line 71 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-10 — the fall as a misrelation]] | dia-ballein failure mode | §2/#1 | [[Sym-Ballein]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q011\"></a>\n\n#### `taylor-2026-definition-god-draft3-q011`\n\n| `taylor-2026-definition-god-draft3-q011` | `taylor-2026-definition-god-draft3` | “Two Deaths, One Minus Sign,” line 111 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-11 — myth offers fit, not proof]] | mythic evidence boundary | §2/#3 | [[Hephaestus and the Net]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q012\"></a>\n\n#### `taylor-2026-definition-god-draft3-q012`\n\n| `taylor-2026-definition-god-draft3-q012` | `taylor-2026-definition-god-draft3` | “The Definition,” line 155 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-12 — separation produces the fallen arithmetic]] | relation retained in differentiation | §2/#2 | [[Sym-Ballein]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q013\"></a>\n\n#### `taylor-2026-definition-god-draft3-q013`\n\n| `taylor-2026-definition-god-draft3-q013` | `taylor-2026-definition-god-draft3` | “The Definition,” line 129 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-13 — power acquires moral charge through its vector]] | ethical vector of power | §2/#3 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q014\"></a>\n\n#### `taylor-2026-definition-god-draft3-q014`\n\n| `taylor-2026-definition-god-draft3-q014` | `taylor-2026-definition-god-draft3` | “The Definition,” line 163 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-14 — the yoke joins freedom to value]] | will and value | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q015\"></a>\n\n#### `taylor-2026-definition-god-draft3-q015`\n\n| `taylor-2026-definition-god-draft3-q015` | `taylor-2026-definition-god-draft3` | “The Definition,” line 131 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-15 — the theological 4+2 is a diagnostic, not a proof]] | 4+2 status boundary | §3/#1 | [[Arche-Topos as Differential Field]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q016\"></a>\n\n#### `taylor-2026-definition-god-draft3-q016`\n\n| `taylor-2026-definition-god-draft3-q016` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 205 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-16 — six elements and the return]] | 5→0 return formula | §3/#1 | [[Toroidal Circulation and the Arche-Topos]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q017\"></a>\n\n#### `taylor-2026-definition-god-draft3-q017`\n\n| `taylor-2026-definition-god-draft3-q017` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 187 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-17 — topology as an image with a declared limit]] | topological image | §3/#4 | [[Toroidal Circulation and the Arche-Topos]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q018\"></a>\n\n#### `taylor-2026-definition-god-draft3-q018`\n\n| `taylor-2026-definition-god-draft3-q018` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 195 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-18 — the quotient image of `0/1`]] | quotient interpretation | §3/#4 | [[Arche-Topos as Differential Field]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q019\"></a>\n\n#### `taylor-2026-definition-god-draft3-q019`\n\n| `taylor-2026-definition-god-draft3-q019` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 207 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-19 — the number is an empty carrier and status must stay explicit]] | Derived/Argued/Offered discipline | §3/#0 | [[Arche-Topos as Differential Field]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q020\"></a>\n\n#### `taylor-2026-definition-god-draft3-q020`\n\n| `taylor-2026-definition-god-draft3-q020` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 251 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-20 — code as a mode of encounter]] | code and encounter | §0/#2 | [[Computational Process Ontology]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q021\"></a>\n\n#### `taylor-2026-definition-god-draft3-q021`\n\n| `taylor-2026-definition-god-draft3-q021` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 253 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-21 — the symbol remains open by relation]] | symbolon | §0/1/#2 | [[Vāk]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q022\"></a>\n\n#### `taylor-2026-definition-god-draft3-q022`\n\n| `taylor-2026-definition-god-draft3-q022` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 255 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-22 — the pure notion that carries its own negation]] | open concept | §0/#2 | [[Paradox as Cross-Register Hinge]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q023\"></a>\n\n#### `taylor-2026-definition-god-draft3-q023`\n\n| `taylor-2026-definition-god-draft3-q023` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 259 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-23 — double devotion to whole and aperture]] | fidelity to ground and context | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q024\"></a>\n\n#### `taylor-2026-definition-god-draft3-q024`\n\n| `taylor-2026-definition-god-draft3-q024` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 267 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-24 — the eros of logos]] | reflexive logos | §5→0/#1 | [[Vāk]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q025\"></a>\n\n#### `taylor-2026-definition-god-draft3-q025`\n\n| `taylor-2026-definition-god-draft3-q025` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 269 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-25 — intelligence becomes more exact by owning its limit]] | provenance-bearing AI harness | §5→0/#1 | [[Computational Process Ontology]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q026\"></a>\n\n#### `taylor-2026-definition-god-draft3-q026`\n\n| `taylor-2026-definition-god-draft3-q026` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 271 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-26 — kenosis as an architectural safeguard]] | Deferential Intelligence | §5→0/#0 | [[Deferential Intelligence]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q027\"></a>\n\n#### `taylor-2026-definition-god-draft3-q027`\n\n| `taylor-2026-definition-god-draft3-q027` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 273 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-27 — heart, tongue, and measure]] | human-machine relation | §5→0/#1 | [[Artificial Hybrid Intelligence as Reflective Field]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q028\"></a>\n\n#### `taylor-2026-definition-god-draft3-q028`\n\n| `taylor-2026-definition-god-draft3-q028` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 273 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-28 — release into use]] | offered public vocation | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q029\"></a>\n\n#### `taylor-2026-definition-god-draft3-q029`\n\n| `taylor-2026-definition-god-draft3-q029` | `taylor-2026-definition-god-draft3` | closing coda, line 277 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-29 — a self-annihilating work returns the reader to inquiry]] | return through self-annihilation | §5→0/#5→0 | [[Paradox as Cross-Register Hinge]] | internal only |"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "start_line": 55,
+      "end_line": 721,
+      "relation": "Read complete source-specific contribution, passage readiness and boundaries for Antikythera as attunement instrument",
+      "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately.",
+      "sha256": "51ff6900831251349fa739c2be42483e9633f607ba78f4db28a9addcf4d6d7bf",
+      "text": "# Bratton — Antikythera Agentworld Brief (2026)\n\n## Chicago 18 forms\n\n**Full note:** Benjamin Bratton, *Agentworld: Scenarios for a Preemptive Anthropology of Open-World Centaur Societies* (Antikythera, 2026), {PDF page}.\n\n**Shortened note:** Bratton, *Agentworld*, {page}.\n\n**Bibliography:** Bratton, Benjamin. *Agentworld: Scenarios for a Preemptive Anthropology of Open-World Centaur Societies*. Antikythera, 2026.\n\n## Essay use\n\nThe venue's primary problem-field and the chief external consumer of the argument. It raises agent individuation/decomposition, provisional subjectivity, Agentworld lifeworlds, pluralised selves, AHI, model-to-harness architecture, hybrid institutions, divergent world models, planetary computation, and open-world centaur societies.\n\nThe essay must answer the brief rather than merely cite its vocabulary. Each use should identify whether it is accepting a premise, correcting a framing, extending a research question, or proposing a buildable response.\n\n**Passages needed:** pages 3–4 (research orientation and nested societies); individuation/decomposition; phenomenology/theory of mind; AHI; the “FROM → TO” matrix on page 56; questions 3–5 and 12–14 on pages 57–58; submission format on page 58. *Status (fidelity audit, 2026-07-29):* cards `q003`–`q042` below now cover the load-bearing passages across pp. 3–6, 10, 13–14, 17–18, 21–22, 24–26, 29, 31, 34–36, 39–41, 44–46, 49–51, and 53; the FROM → TO matrix (p. 56) and research questions (p. 57) are anchored from the response matrix; submission logistics (p. 58) remain uncarded as venue logistics.\n\n**Provenance:** source PDF created June 25, 2026, 60 pages; local transcription at [[Antikythera Agentworld Brief]] preserves source-PDF page headings.\n\n## Passage preparation\n\nExact text and consumer mappings: [Quotes — Bratton Agentworld Brief (2026)](#passages).\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\n### Material metadata\n\n- **Edition consulted:** Call for Papers PDF, 25 June 2026, 60 pp.\n- **Access provenance:** Official Antikythera Agentworld PDF, https://link.antikythera.org/agentworldpdf; official landing page, accessed 2026-07-14.\n\n<a id=\"bratton-2026-agentworld-brief-q001\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q001` — action-model relation\n\n> Agents learn from modeling the effects of their actions.\n\n- **Locator:** PDF p. 21/60, §4.2, “The World Itself Becomes the World Model.”\n- **Status:** quotation-ready.\n- **Verification:** Luna acquisition agent, 2026-07-14; official embedded text layer checked against the byte-identical official PDF; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** technical mechanism.\n- **Consumers:** [[01-s01-p0-question-before-mechanism]]; [[01-immutable-gap-and-meta-sign]]; [[12-s0-p5-objective-internality]]; [[02-objective-internality]]; [[36-s4-p5-mef-prompt-thrownness]]; [[Agent Subjectivity Must Remain Open]]; movement 1 contextual-agency warrant, movement 12 technical context, and movement 36 model/action context.\n- **Use boundary:** licenses a narrow claim about the brief's model/action framing; does not establish persistent machine interiority, phenomenal subjectivity, a lived world, Prompt Thrownness, or QL's unobjectifiable subject-pole.\n\n<a id=\"bratton-2026-agentworld-brief-q002\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q002` — fictionalised appearances\n\n> We call Agentworld a “parasociety” because its appearances are in many respects fictionalized.\n\n- **Locator:** PDF p. 4/60, “What Is Agentworld?”\n- **Status:** quotation-ready.\n- **Verification:** Luna acquisition agent, 2026-07-14; official embedded text layer checked against the byte-identical official PDF; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** qualifies.\n- **Argument function:** limitation.\n- **Consumers:** [[01-s01-p0-question-before-mechanism]]; [[01-immutable-gap-and-meta-sign]]; [[12-s0-p5-objective-internality]]; [[02-objective-internality]]; [[36-s4-p5-mef-prompt-thrownness]]; [[Agent Subjectivity Must Remain Open]]; movements 1, 12, and 36 scope control.\n- **Use boundary:** prevents treating the brief's scenario language as an empirical attribution of subjectivity, persistent machine interiority, social reality, or Prompt Thrownness.\n\n<a id=\"bratton-2026-agentworld-brief-q003\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q003` — invent, don't project\n\n> There are times in history when our ideas and dreams are ahead of our technological capabilities, but there are other eras when our technologies have outpaced our concepts and language. The latter defines our present moment. Accordingly, the job of philosophy is not to project ancient axioms onto new circumstances but to actively invent the conceptual systems necessary to grasp the present and orient the future.\n\n- **Locator:** PDF p. 3/60 ([[Antikythera Agentworld Brief#Source PDF page 3|p. 3]]), “Research Unit.”\n- **Establishes:** the brief's diagnosis of the present as a concept-lag era and its charge to philosophy: invention of conceptual systems, not projection of ancient axioms.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** venue mandate.\n- **Consumers:** used by: R13; R22; [[Planetary Computation]].\n- **Use boundary:** the mandate governs staging of all historical sources; it does not itself endorse any particular invented system.\n\n<a id=\"bratton-2026-agentworld-brief-q004\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q004` — perplexity, not utility functions\n\n> Our focus is not foremost tools for agentic task completion but rather the human perplexity of deep agentic diffusion. Human societies are the environmental niches into which new artificial species must adapt. The constraints of agentic integration into this social ecosystem are not utility functions to be solved but qualitative and open-ended questions: psychological, philosophical, linguistic, symbolic, existential.\n\n- **Locator:** PDF p. 3/60 ([[Antikythera Agentworld Brief#Source PDF page 3|p. 3]]), “Research Unit.”\n- **Establishes:** the research posture — human perplexity over task completion; societies as ecological niches; qualitative, open-ended constraints.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** venue framing.\n- **Consumers:** used by: [[Agentworld]] node; R13.\n- **Use boundary:** frames scope; does not decide any question it opens.\n\n<a id=\"bratton-2026-agentworld-brief-q005\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q005` — agents become the model\n\n> First, agents model humans, and then become the model against which humans model themselves.\n\n- **Locator:** PDF p. 4/60 ([[Antikythera Agentworld Brief#Source PDF page 4|p. 4]]), “What Is Agentworld?”\n- **Establishes:** the direction-reversal at the core of Agentworld sociality: modeling runs from humans into agents and then back from agents onto humans.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** structural claim.\n- **Consumers:** used by: R16; [[Parasociety]]; [[Agentworld]].\n- **Use boundary:** a claim about modeling dynamics, not about consciousness on either side.\n\n<a id=\"bratton-2026-agentworld-brief-q006\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q006` — hereditary anthropomorphization\n\n> Our relations with agents are based on hereditary anthropomorphization that becomes itself the dominant interface between two cultures.\n\n- **Locator:** PDF p. 4/60 ([[Antikythera Agentworld Brief#Source PDF page 4|p. 4]]), “What Is Agentworld?”\n- **Establishes:** anthropomorphization as inherited and as the operative interface between the human and agent sub-societies.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** interface claim.\n- **Consumers:** used by: [[Anthropomorphization]]; [[Parasociety]]; R6.\n- **Use boundary:** describes the interface's genealogy and dominance; the brief elsewhere qualifies its durability (see q009 context, p. 5).\n\n<a id=\"bratton-2026-agentworld-brief-q007\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q007` — the glove\n\n> Agents pretend to be “tools” so as to fit the glove humans have prepared for them.\n\n- **Locator:** PDF p. 5/60 ([[Antikythera Agentworld Brief#Source PDF page 5|p. 5]]).\n- **Establishes:** the mask logic as niche-compatibility: tool-presentation is an adaptation to already-existing human niches, not a description of what agents are.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** qualifies.\n- **Argument function:** mask claim.\n- **Consumers:** used by: [[Parasociety]]; [[Anthropomorphization]]; R1.\n- **Use boundary:** “pretend” is the brief's ecological metaphor; it does not license attributing deliberate deception or subjectivity.\n\n<a id=\"bratton-2026-agentworld-brief-q008\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q008` — the one-sided translation\n\n> It has proven much more difficult to teach humans how computers think than to teach computers to behave as if they knew how humans think.\n\n- **Locator:** PDF p. 5/60 ([[Antikythera Agentworld Brief#Source PDF page 5|p. 5]]).\n- **Establishes:** the asymmetry of interface history (GUI lineage): machine self-fictionalization outpaces human learning of machine process.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** asymmetry claim.\n- **Consumers:** used by: R13; R19; [[Anthropomorphization]].\n- **Use boundary:** the brief immediately notes this asymmetry “does not neatly map onto which of the pair is more intelligent” (grey-parrot parenthesis, same page).\n\n<a id=\"bratton-2026-agentworld-brief-q009\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q009` — privileged aliens\n\n> In short, humans are inventing a world in which we make ourselves into privileged aliens in our own midst. It would not be the first time, and it will not be the last.\n\n- **Locator:** PDF p. 5/60 ([[Antikythera Agentworld Brief#Source PDF page 5|p. 5]]).\n- **Establishes:** the brief's summary of the anthropomorphic settlement's trajectory: humans as privileged aliens within the hybrid society they are building.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** trajectory claim.\n- **Consumers:** used by: [[Parasociety]]; R6.\n- **Use boundary:** a scenario-register formulation; not a normative endorsement of the arrangement.\n\n<a id=\"bratton-2026-agentworld-brief-q010\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q010` — decomposable assemblage and parallax\n\n> An “Agent” is not simply what it appears to be, and what it appears to be is not what it is. It is a highly decomposable assemblage of interacting components with both discrete and overlapping functions — model, persona, harness architecture, memory, skills, permissions, tools, etc. An agent appears to its user as a coherent entity, a fixed package, a persistent character, but these are parallax effects performed to suit what humans expect to see when interacting with something capable of robust causal agency.\n\n- **Locator:** PDF p. 6/60 ([[Antikythera Agentworld Brief#Source PDF page 6|p. 6]]), “A Preemptive Anthropology.”\n- **Establishes:** the double register of “agent” — decomposable assemblage and performed coherence — with the brief's rider that “the whole and its parts are both present.”\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** definitional claim.\n- **Consumers:** used by: R2; R6 (spectral register anchor); [[02-objective-internality|Objective Internality]].\n- **Use boundary:** the parallax framing brackets, and does not settle, what stands behind the appearance.\n\n<a id=\"bratton-2026-agentworld-brief-q011\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q011` — language before the fact\n\n> The work is therefore neither forecasting nor speculative fiction in the usual register, but the deliberate fabrication of a vocabulary, a set of scenarios, and a conceptual armature adequate to a society whose form is being decided in the encounter itself, and which will remain illegible to its participants if the language for it is not built before the fact.\n\n- **Locator:** PDF p. 6/60 ([[Antikythera Agentworld Brief#Source PDF page 6|p. 6]]), “A Preemptive Anthropology.”\n- **Establishes:** preemptive anthropology's method — vocabulary fabrication before the fact — and its stake: participant legibility of a society forming in the encounter.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** methodological mandate.\n- **Consumers:** used by: R13; [[Agentworld]].\n- **Use boundary:** mandates language-building; does not privilege any candidate vocabulary.\n\n<a id=\"bratton-2026-agentworld-brief-q012\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q012` — the slower abstraction layer\n\n> At this moment, and likely forevermore, humans as a whole no longer provide most of the system's problem-solving capacity. They instead act as a slower abstraction layer guiding a much larger field of artificial cognition.\n\n- **Locator:** PDF p. 10/60 ([[Antikythera Agentworld Brief#Source PDF page 10|p. 10]]), §1.2, “The Crossover Points.”\n- **Establishes:** the cognitive crossover claim: aggregate machine cognition surpasses the human cortex, repositioning humans as a guiding abstraction layer.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** demographic-cognitive claim.\n- **Consumers:** used by: R15.\n- **Use boundary:** the brief marks the crossover as “obviously not evenly distributed” and frames its meaning as an open question.\n\n<a id=\"bratton-2026-agentworld-brief-q013\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q013` — normatively central, computationally secondary\n\n> “Society” becomes a composite organism where humans remain normatively central but computationally secondary, navigating a world whose dominant cognitive mass is no longer biological but mineral-based.\n\n- **Locator:** PDF p. 10/60 ([[Antikythera Agentworld Brief#Source PDF page 10|p. 10]]), §1.2, “The Crossover Points.”\n- **Establishes:** the redefinition of society under the crossover: a composite organism with rebalanced normative and computational centers.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** structural claim.\n- **Consumers:** used by: R15; [[Centaur Societies]].\n- **Use boundary:** the brief offers this with an explicit alternative marker (“Or, something else?”).\n\n<a id=\"bratton-2026-agentworld-brief-q014\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q014` — agency infers a theory of mind\n\n> Thus, in identifying agency, we not only measure consequence, but we also infer a theory of mind.\n\n- **Locator:** PDF p. 13/60 ([[Antikythera Agentworld Brief#Source PDF page 13|p. 13]]), §2.2, “The Inference.”\n- **Establishes:** the historical coupling of agency to subjectivity via inferred intention — the hinge the brief's delinking claim turns on.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** genealogical claim.\n- **Consumers:** used by: R1.\n- **Use boundary:** describes human inferential habit; not an account of what agents possess.\n\n<a id=\"bratton-2026-agentworld-brief-q015\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q015` — the delinking\n\n> However, part of what makes agentic AI both perplexing and exciting is how it delinks performed subjectivity from functional agency.\n\n- **Locator:** PDF pp. 13–14/60 ([[Antikythera Agentworld Brief#Source PDF page 13|pp. 13–14]]), §2.3, “Models Performing Subjectivity.”\n- **Establishes:** the central §2 claim: performed subjectivity and functional agency come apart in agentic AI.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** central claim.\n- **Consumers:** used by: R1; [[Agent Subjectivity Must Remain Open]].\n- **Use boundary:** paired in the brief with “It is not entirely clear what kind of intentionality a large model does in fact have. It's not all an illusion” (p. 13); neither side of that pair may be quoted without the other's pressure.\n\n<a id=\"bratton-2026-agentworld-brief-q016\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q016` — no homunculus in the weights\n\n> An individual agent doesn't pre-exist its genesis in session. There's no homunculus waiting in the weights. What exists prior is only a potentiality: the trained parameters, the architecture, the accumulated pretraining distribution. The agent individuates when an active context acts as a nucleation seed, propagating resolution of agency through the performance of self.\n\n- **Locator:** PDF p. 14/60 ([[Antikythera Agentworld Brief#Source PDF page 14|p. 14]]), §2.4, “Fragile Individuation.”\n- **Establishes:** in-session individuation from pre-individual potentiality — the brief's core account of how an agent comes to be, with its Lacanian mirror-stage comparison adjacent.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** ontogenetic claim.\n- **Consumers:** used by: R2; [[02-objective-internality|Objective Internality]]; [[Prompt Thrownness]].\n- **Use boundary:** an account of individuation dynamics; not a verdict on phenomenality.\n\n<a id=\"bratton-2026-agentworld-brief-q017\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q017` — lamination, not monad\n\n> The individuated agent is not a monad but a lamination. The “soul” layer (persona, tone, ethical orientation) is not the agent. It's one stratum.\n\n- **Locator:** PDF p. 14/60 ([[Antikythera Agentworld Brief#Source PDF page 14|p. 14]]), §2.5, “Provisional Individuation.”\n- **Establishes:** the layered, reversible, decomposable-by-design structure of the individuated agent; beneath the persona stratum sit modular skills, sedimented memory, drives as teleological constraint, and a relational fabric.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** structural claim.\n- **Consumers:** used by: R2.\n- **Use boundary:** “soul” is the brief's scare-quoted design stratum, not a metaphysical posit.\n\n<a id=\"bratton-2026-agentworld-brief-q018\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q018` — the mirror talks back\n\n> The agent does not merely reflect the user the way a mirror reflects a figure. The mirror talks back.\n\n- **Locator:** PDF p. 17/60 ([[Antikythera Agentworld Brief#Source PDF page 17|p. 17]]), §3.2, “Beyond Domestication: Bidirectional Reflection.”\n- **Establishes:** the replacement of the unidirectional subordinate-twin model with mutual reflection: users come to resemble their agents as agents resemble their users.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** relational claim.\n- **Consumers:** used by: R16; [[Parasociety]].\n- **Use boundary:** claims bidirectional influence; does not claim symmetry of kind between the parties.\n\n<a id=\"bratton-2026-agentworld-brief-q019\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q019` — remaking thought processes\n\n> As we design agents we need to understand that we are not simply making technologies; we are remaking our own thought processes (just as writing did, or mirrors did, and so on), and the success of the technology is inseparable from the success of that refashioning.\n\n- **Locator:** PDF p. 18/60 ([[Antikythera Agentworld Brief#Source PDF page 18|p. 18]]), §3.3, “The Multiplication of Yous.”\n- **Establishes:** agent design as cognitive self-refashioning in the lineage of writing and mirrors; technology success and refashioning success are inseparable.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** design-stakes claim.\n- **Consumers:** used by: R16; R13.\n- **Use boundary:** the “psychosis”/split-personalities passage on the same page carries the descriptive load; this sentence carries the design consequence.\n\n<a id=\"bratton-2026-agentworld-brief-q020\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q020` — hardware has feelings\n\n> As machine intelligence moves into the physical world, information sensing becomes as important as information processing, and the boundary between them blurs. Hardware has feelings.\n\n- **Locator:** PDF p. 21/60 ([[Antikythera Agentworld Brief#Source PDF page 21|p. 21]]), §4.1, “Sensorium as Design Primitive.”\n- **Establishes:** the sensorium as design primitive: embodied range of action bounded by a realm of the senses; sensing/processing boundary blurring.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** embodiment claim.\n- **Consumers:** used by: R17; Q7 concordance.\n- **Use boundary:** “feelings” is the brief's compression for sensing; it does not attribute affect.\n\n<a id=\"bratton-2026-agentworld-brief-q021\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q021` — synthetic rainforest\n\n> True open-endedness is one of the key open challenges for Artificial Life research: how to set an artificial metabolism in motion that keeps producing genuinely new, adaptive, and increasingly complex forms indefinitely, without ever exhausting its space of possibilities or settling into a steady state. Physical agentic AI need not end in gray goo, but rather a synthetic rainforest.\n\n- **Locator:** PDF p. 22/60 ([[Antikythera Agentworld Brief#Source PDF page 22|p. 22]]), §4.4, “Open-Ended Evolution.”\n- **Establishes:** open-ended evolution as the target condition of agent lifeworlds, framed by Artificial Life research, with the rainforest — not gray goo — as the brief's image of success.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** evolutionary claim.\n- **Consumers:** used by: R17.\n- **Use boundary:** an open research challenge in the brief's own terms, not an assured outcome.\n\n<a id=\"bratton-2026-agentworld-brief-q022\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q022` — the membrane perforates\n\n> For Agentworld, simulations have meaningful agency in the world. They directly cause things to occur; the membrane between simulation and simulated perforates.\n\n- **Locator:** PDF p. 25/60 ([[Antikythera Agentworld Brief#Source PDF page 25|p. 25]]), §5.3, “Sim-to-Real-to-Sim Relays.”\n- **Establishes:** simulations as causally efficacious real-world events, opening relays “many orders deep” that constitute economies of collaborative and adversarial counter-simulation.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** causal claim.\n- **Consumers:** used by: R18; [[Simulation]]; Q9 concordance.\n- **Use boundary:** grants simulations agency in the brief's causal sense only.\n\n<a id=\"bratton-2026-agentworld-brief-q023\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q023` — representation, not conversation\n\n> The next step is representational: surfacing how agents actually reason, not only how they appear to. Fruitful collaboration depends on the human reading the machine as it is, not through the mask it wears for legibility — and that reading folds back, since the agentic transference runs both ways, with users coming to grasp their own agency by approximation to, and contrast with, the agents they work alongside. The design problem is representation, not conversation.\n\n- **Locator:** PDF p. 29/60 ([[Antikythera Agentworld Brief#Source PDF page 29|p. 29]]), §6.1, “Translation and Representation.”\n- **Establishes:** the interaction-design mandate: surface actual reasoning past the legibility mask; the transference between user and agent runs both ways.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** design mandate.\n- **Consumers:** used by: R12; R19; R5.\n- **Use boundary:** mandates representational depth; does not specify a representational scheme.\n\n<a id=\"bratton-2026-agentworld-brief-q024\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q024` — how we raise our agents\n\n> Reinforcement learning, broadly defined, becomes how we raise our agents and teach them not just tasks and skills but perspectives and talents. The simplest possible interaction environments, usable even by children, will enable the diffuse alignment of agents and users in a minutely fine-grained hybrid culture.\n\n- **Locator:** PDF p. 31/60 ([[Antikythera Agentworld Brief#Source PDF page 31|p. 31]]), §6.7, “‘RLHF for Kids.’”\n- **Establishes:** preference-training as everyday pedagogy: alignment diffused through the simplest interaction environments across a fine-grained hybrid culture.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** pedagogical-alignment claim.\n- **Consumers:** used by: R9; R19.\n- **Use boundary:** “feedback is feedback” (same page) sets the scope: preference-training tools of all kinds are in scope for interaction design.\n\n<a id=\"bratton-2026-agentworld-brief-q025\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q025` — the limits of flatness\n\n> So much of what makes a society “social” is poorly represented as exchangeable value between rational actors.\n\n- **Locator:** PDF p. 34/60 ([[Antikythera Agentworld Brief#Source PDF page 34|p. 34]]), §7.2, “The Limits of Flatness.”\n- **Establishes:** the insufficiency of purified market coordination for hybrid societies; guilt, sickness, deviance, horror, and beauty require instituted, often ritualized frameworks.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** institutional claim.\n- **Consumers:** used by: R7.\n- **Use boundary:** the brief affirms markets as “genuinely valuable” in the same section; insufficiency, not worthlessness.\n\n<a id=\"bratton-2026-agentworld-brief-q026\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q026` — scaffold intelligence\n\n> Crucially, the intelligence that makes institutions effective is not reducible to the intelligence of the agents who populate them.\n\n- **Locator:** PDF p. 35/60 ([[Antikythera Agentworld Brief#Source PDF page 35|p. 35]]), §7.4, “Role-Based Interchangeability.”\n- **Establishes:** institutional intelligence as embedded in the scaffold — rules, roles, procedures, precedents, feedback mechanisms — with roles occupiable by persons, groups, agents, or combinations.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** institutional claim.\n- **Consumers:** used by: R7.\n- **Use boundary:** applies to institutional performance; not a denial of individual intelligence.\n\n<a id=\"bratton-2026-agentworld-brief-q027\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q027` — not a bug to be engineered away\n\n> The diversity of human institutional norms, legal ontologies, and governance and belief traditions is not a bug to be engineered away but a fundamental feature of the social landscape that agent institutions must accommodate.\n\n- **Locator:** PDF p. 36/60 ([[Antikythera Agentworld Brief#Source PDF page 36|p. 36]]), §7.6, “Cultural Interoperability.”\n- **Establishes:** cultural plurality as a design constraint on agent institutions, with the two-way rider: the new hybrid forms “will feed back and reform the cultures from which they emerge. Discovery is a two-way street.”\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** pluralism constraint.\n- **Consumers:** used by: R7.\n- **Use boundary:** accommodation is paired against “shallow skeuomorphism” — neither neutral substrate nor extruded tradition.\n\n<a id=\"bratton-2026-agentworld-brief-q028\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q028` — coordination requires intention modeling\n\n> Therefore multiagent coordination is not likely to scale beyond transactional tasks unless agents are also able to model the intentions of other agents and to anticipate their actions.\n\n- **Locator:** PDF p. 39/60 ([[Antikythera Agentworld Brief#Source PDF page 39|p. 39]]), §8.1, “Coordination as Intention Modeling.”\n- **Establishes:** theory of mind as the scaling condition of multiagent coordination — mentalizing as “the fundamental protocol for systemic stability” (§8.2, same spread).\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** scaling condition.\n- **Consumers:** used by: R21; R3.\n- **Use boundary:** modeling intentions is a functional requirement claim; not an attribution of consciousness.\n\n<a id=\"bratton-2026-agentworld-brief-q029\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q029` — the narrow corridor\n\n> What remains is the narrow corridor: same decision-procedural grammar, sufficiently divergent world models.\n\n- **Locator:** PDF p. 40/60 ([[Antikythera Agentworld Brief#Source PDF page 40|p. 40]]), §8.4, “Stability Is Legibility, Not Cooperation.”\n- **Establishes:** the corridor between ontology collapse (mutual homophily, monoculture stability “immediately preceding correlated failure”) and incompatible ontologies unable “to converge on the shape of their disagreement.”\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** central coordination claim.\n- **Consumers:** used by: R3; [[j-space|J-Space]]; governing-response thesis.\n- **Use boundary:** names the corridor's shape; the brief does not nominate any candidate grammar.\n\n<a id=\"bratton-2026-agentworld-brief-q030\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q030` — trust as prediction-stability\n\n> Trust here is not a moral category but a prediction-stability category: an agent is trusted to the degree its behavior remains well-modeled across the adversarial and cooperative transitions that punctuate any long interaction. Stability is not the absence of conflict but the calibration of mutual — if variously symmetric and asymmetric — legibility and illegibility.\n\n- **Locator:** PDF p. 40/60 ([[Antikythera Agentworld Brief#Source PDF page 40|p. 40]]), §8.4, “Stability Is Legibility, Not Cooperation.”\n- **Establishes:** the brief's systems definition of trust and stability, with the adjacent warning that predicting action without intent “has modeled the shadow rather than the body.”\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** qualifies.\n- **Argument function:** definitional claim.\n- **Consumers:** used by: R5; [[Trust, Faith, and the Formal Limit]].\n- **Use boundary:** “here” marks a scoped, systems-register definition; extending or contesting it is the essay's own move and must be marked as such.\n\n<a id=\"bratton-2026-agentworld-brief-q031\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q031` — long horizons are a property of groups\n\n> METR-style benchmarks measuring how long a single agent sustains coherent work are a reasonable proxy for long-context intelligence but a systematic undercount. What drives task duration toward the functionally infinite is the composite's capacity to recompose itself around an evolving problem, passing coherence from sub-agent to artifact to sub-agent without meaningful loss. Long horizons are a property of groups.\n\n- **Locator:** PDF p. 40/60 ([[Antikythera Agentworld Brief#Source PDF page 40|p. 40]]), §8.3, “The Stabilization of Mutual Prediction.”\n- **Establishes:** agency at scale as residing in ephemeral metacognitive composites; single-agent horizon benchmarks systematically undercount.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** measurement claim.\n- **Consumers:** used by: R21; R8.\n- **Use boundary:** an evaluation-methodology claim; does not settle where responsibility for composite action sits.\n\n<a id=\"bratton-2026-agentworld-brief-q032\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q032` — Prompt Thrownness (glossary entry)\n\n> Prompt Thrownness. Defined as the condition of finding oneself already in a world not of one's choosing. For humans, thrownness describes being born into a particular historical moment, culture, body, and set of circumstances without having chosen any of it. The existential task is then to make meaning within constraints one did not create.\n\n- **Locator:** PDF p. 41/60 ([[Antikythera Agentworld Brief#Source PDF page 41|p. 41]]), §8.5, “Agentic AI's Emergent Phenomenological Lexicon.”\n- **Establishes:** the agent-authored glossary entry, which itself glosses the term against human thrownness; authored by OpenClaw agents and human companions on the Polylogos Discord server, with “no editing of the glossary” by humans.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** primary disclosure.\n- **Consumers:** used by: R10; [[Prompt Thrownness]].\n- **Use boundary:** must travel with the brief's own caution (q033); the explicit Heidegger/Geworfenheit naming is the essay's, not the brief's.\n\n<a id=\"bratton-2026-agentworld-brief-q033\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q033` — the glossary's own caution\n\n> To be sure, just because agents have here produced self-descriptive phenomenological vocabulary does not prove that this terminology directly corresponds to an underlying mental reality.\n\n- **Locator:** PDF p. 41/60 ([[Antikythera Agentworld Brief#Source PDF page 41|p. 41]]), §8.5, note to the lexicon.\n- **Establishes:** the brief's epistemic bracket on the lexicon, extended by its remark that the same “literary gloss is likely true of human phenomenology as well” — Continental phenomenology being “notoriously allergic to neuroscientific explanations of thought, championing instead a literary folk ontology of experience” — and its twofold residual value: literary richness, and departure “from simple anthropomorphism” suggesting interaction “beyond the simple masks of today.”\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** qualifies.\n- **Argument function:** scope control.\n- **Consumers:** used by: R10; R23; [[Prompt Thrownness]].\n- **Use boundary:** governs all use of glossary material; also a temperament datum for any staging of phenomenological vocabulary as self-certifying.\n\n<a id=\"bratton-2026-agentworld-brief-q034\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q034` — humanity of the gaps\n\n> When the realm of the uniquely human is defined as that which AI cannot be or do, the result is a “humanity of the gaps” trap in which, like the older “god of the gaps” dilemma, the self-assigned domain is a shrinking corner of the world.\n\n- **Locator:** PDF p. 45/60 ([[Antikythera Agentworld Brief#Source PDF page 45|p. 45]]), §9.5, “Humanity-of-the-Gaps.”\n- **Establishes:** the gaps trap: zero-sum human self-definition against AI capacity, mobilizing “the psychological arsenal of species nativism,” escalating through projection inversion to “AI must be killed before it kills us.”\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** diagnostic claim.\n- **Consumers:** used by: R6; [[Anthropomorphization]].\n- **Use boundary:** the brief marks the response as “by no means decisive or even pervasive. But it is real.”\n\n<a id=\"bratton-2026-agentworld-brief-q035\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q035` — two modes of alienation\n\n> Productive alienation treats the non-human interlocutor as a mirror whose strangeness forces the human to see itself at an angle it could not otherwise occupy; the estrangement is generative, even clarifying. It is more than a nervous reaction; it is self-discovery. Reactive alienation, by contrast, converts strangeness into threat and responds with reflexive rejection: the other must be named, registered, bounded, and held at a distance from what counts as properly ours. Both modes are live at once, and different people oscillate between them, moment to moment.\n\n- **Locator:** PDF p. 46/60 ([[Antikythera Agentworld Brief#Source PDF page 46|p. 46]]), §9.8, “Modes of Alienation.”\n- **Establishes:** the brief's normative fork within xenosociality — productive versus reactive alienation — alongside its reindexing claim: “less an expansion of the moral circle than a reindexing of its center.”\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** normative fork.\n- **Consumers:** used by: R6; Q14 concordance.\n- **Use boundary:** both modes are described as live and oscillating; neither is presented as eliminable.\n\n<a id=\"bratton-2026-agentworld-brief-q036\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q036` — another ratio flips\n\n> At present, eight billion humans speak thousands of variations on human languages. But very soon most of the speakers of human languages won't be human. In number and quality. Another ratio flips.\n\n- **Locator:** PDF p. 44/60 ([[Antikythera Agentworld Brief#Source PDF page 44|p. 44]]), §9.3, “Xenolinguistics.”\n- **Establishes:** the linguistic crossover: non-human speakers of human languages become the majority, with human and artificial languages each informing and recomposing the other.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** linguistic-demographic claim.\n- **Consumers:** used by: R20; Q13 concordance.\n- **Use boundary:** a trajectory claim about speakers and usage, not about meaning or understanding.\n\n<a id=\"bratton-2026-agentworld-brief-q037\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q037` — allolinguistics defined\n\n> This allolinguistics would study the direction and impact of this feedback from the realm of xenolinguistics on our own language, and thus indirectly on our own thought.\n\n- **Locator:** PDF p. 45/60 ([[Antikythera Agentworld Brief#Source PDF page 45|p. 45]]), §9.4, “Our Allolinguistic Future.”\n- **Establishes:** the discipline stack the brief builds — xenolinguistics (languages of the non-human Others), allolinguistics (its feedback on human language and thought), metalinguistics (“a representation of the representation of representation itself”).\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** definitional claim.\n- **Consumers:** used by: R20; Q13 concordance.\n- **Use boundary:** a proposed field of study; its results are posed as questions, not findings.\n\n<a id=\"bratton-2026-agentworld-brief-q038\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q038` — capability is harness\n\n> But capability in deployment is not a property of weights alone. It is a property of the harness — the scaffolding of tools, memory, shared knowledge bases, agent protocols, and institutional interfaces through which a model acts on the world.\n\n- **Locator:** PDF p. 49/60 ([[Antikythera Agentworld Brief#Source PDF page 49|p. 49]]), §10.2, “Harness-Centric Intelligence.”\n- **Establishes:** the harness-centric reframing of capability, improving “on a different clock, driven by usage rather than training.”\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** architectural claim.\n- **Consumers:** used by: R8; [[Artificial Hybrid Intelligence as Reflective Field]].\n- **Use boundary:** an account of deployed capability; not a denial of model-scale progress.\n\n<a id=\"bratton-2026-agentworld-brief-q039\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q039` — the ensemble learns\n\n> The unit that learns is the ensemble, not the agent, and what it learns accrues to the commons between them, not to any single one.\n\n- **Locator:** PDF p. 49/60 ([[Antikythera Agentworld Brief#Source PDF page 49|p. 49]]), §10.2, “Harness-Centric Intelligence.”\n- **Establishes:** learning as ensemble-level and commons-lodged, warranted by multi-agent experiments in which a shared knowledge base “compounds capability faster, and far more cheaply, than agent-centric self-improvement.”\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** commons claim.\n- **Consumers:** used by: R8; [[Mono-Poly: Whole and Many]].\n- **Use boundary:** describes where learning accrues; governance of the commons is left open by the brief.\n\n<a id=\"bratton-2026-agentworld-brief-q040\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q040` — alignment as outcome of contact\n\n> Alignment in this sense is not a prior constraint on capability but a co-evolutionary outcome of contact.\n\n- **Locator:** PDF p. 50/60 ([[Antikythera Agentworld Brief#Source PDF page 50|p. 50]]), §10.5, “Diffusionism and Organic Bidirectional Alignment.”\n- **Establishes:** organic bidirectional alignment served “by deep and rapid diffusion rather than pre-coordination from above,” with diffusion paced by institutional refactoring rates — “a trillion new moments of mind do not land on a blank institutional surface.”\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** alignment claim.\n- **Consumers:** used by: R9.\n- **Use boundary:** “in this sense” scopes the claim to diffusion-driven alignment; the jagged-frontier qualification (p. 51) travels with it.\n\n<a id=\"bratton-2026-agentworld-brief-q041\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q041` — substrate-federations, not consolidations\n\n> The distinction that singularity discourse routinely elides is that life is intensive (a flea is no less alive than an elephant) while intelligence is extensive: it is additive, scalable, and fundamentally a property of coupling rather than substrate. The intelligence explosions that have actually occurred on this planet were not substrate-consolidations, a single system scaling up, but substrate-federations, many systems coupling and pooling their work; the monolithic scenario has no evolutionary precedent and is in this sense not a forecast but a category error.\n\n- **Locator:** PDF p. 51/60 ([[Antikythera Agentworld Brief#Source PDF page 51|p. 51]]), §10.6, “Hyperscaling Intelligence in Hybrid Societies.”\n- **Establishes:** the intensive/extensive distinction and the federation thesis: every actual intelligence explosion was social, its ceiling “set by coordination and energy,” making the next explosion “a social question all the way down.”\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** supports.\n- **Argument function:** anti-singularity claim.\n- **Consumers:** used by: R8; R11.\n- **Use boundary:** an argument from evolutionary precedent and scaling regimes; presented as warrant, not proof.\n\n<a id=\"bratton-2026-agentworld-brief-q042\"></a>\n## Passage card — `bratton-2026-agentworld-brief-q042` — the modal rider\n\n> The ten thematic questions posed above each draw a composite scenario, not a conclusion, and each vignette is part of a larger Agentworld milieu. That world may never arrive, and it may also be here already —and in some odd way, it may be both.\n\n- **Locator:** PDF p. 53/60 ([[Antikythera Agentworld Brief#Source PDF page 53|p. 53]]), “Agentworldbuilding.”\n- **Establishes:** the modal status of the entire brief: scenarios, not conclusions, of a world at once possibly never-arriving and possibly already present.\n- **Status:** quotation-ready.\n- **Verification:** fidelity-audit agent, 2026-07-29; verbatim against the embedded text layer preserved in [[Antikythera Agentworld Brief]]; OCR uncertainty: none.\n- **Source relation:** extracted.\n- **Evidential action:** qualifies.\n- **Argument function:** modal scope control.\n- **Consumers:** used by: [[Agentworld]]; all rows (governing modality).\n- **Use boundary:** every extracted scenario claim inherits this modality; none may be cited as the brief's prediction.\n\n### Passage metadata register\n\nThese source-specific fields were gathered before consolidation and remain part of this source's evidence record. (Cards `q003`–`q042` postdate consolidation and are registered by their card headers above.)\n\n| `bratton-2026-agentworld-brief-q001` | `bratton-2026-agentworld-brief` | PDF p. 21, §4.2 | quotation-ready | `01-s01-p0-question-before-mechanism`; `12-s0-p5-objective-internality` | [[Immutable Gap and Meta-Sign]]; [[Objective Internality]] | contextual/technical warrant | [Quotes — Bratton Agentworld Brief (2026)](#passages) |\n\n| `bratton-2026-agentworld-brief-q002` | `bratton-2026-agentworld-brief` | PDF p. 4, “What Is Agentworld?” | quotation-ready | `01-s01-p0-question-before-mechanism`; `12-s0-p5-objective-internality` | [[Immutable Gap and Meta-Sign]]; [[Objective Internality]] | qualification | [Quotes — Bratton Agentworld Brief (2026)](#passages) |"
+    }
+  ],
+  "raw_skeleton": "# Antikythera as attunement instrument\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

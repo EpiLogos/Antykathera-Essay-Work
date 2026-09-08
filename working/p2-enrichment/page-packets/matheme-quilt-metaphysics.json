@@ -1,0 +1,401 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/dispatch-queue.json",
+    "queue_sha256": "58daf082cbeff7a8f46c38be645d2f55adad99e68d50212bbb031b30bf8f7a34",
+    "census": "working/p2-enrichment/census.json",
+    "census_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "matheme-quilt-metaphysics",
+    "title": "Metaphysics",
+    "register": "matheme",
+    "record_type": "matheme",
+    "canonical_home": "submission-package/essay/symbolon/matheme/quilt/metaphysics.md",
+    "wave": "T19",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+      "submission-package/essay/symbolon/matheme/quilt/README.md",
+      "submission-package/essay/symbolon/matheme/README.md",
+      "working/p2-enrichment/CENSUS-RECONCILIATION.md",
+      "working/p2-enrichment/receipts/depth-acceptance.json"
+    ],
+    "packet_status": "target-packet-and-full-material-source-recovery-required",
+    "distinct_operation": "Prakāśa-Vimarśa; the tattvic descent; the three upāyas; Kṣemarāja's \"the subject does not waver\"; the Lacan encounter (*mi-dire*, the not-all, \"the unwritable rapport as Spanda\").",
+    "projection_folder": "quilt",
+    "argument_depth": [
+      "A18",
+      "A05",
+      "A09",
+      "A11",
+      "A12",
+      "A13",
+      "A15",
+      "A16",
+      "A17",
+      "A36"
+    ],
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/ql-musical-derivation-v3.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "start_line": 251,
+        "end_line": 325,
+        "relation": "Extracted internal authorial operation; read with whole four-file circuit and curated core-theorems refinements.",
+        "provenance": "Housed Binary Explication candidate manuscript; inherited internal derivation, not independent external attribution."
+      },
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "start_line": 167,
+        "end_line": 194,
+        "relation": "All eight determinations, their sequence, harmonics and inverse thresholds constrain this local page.",
+        "provenance": "Current native QL curated extraction."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/matheme/README.md",
+    "register_contract_domain": "submission-package/essay/symbolon/matheme/quilt/README.md",
+    "operation_to_develop": "Project Prakāśa-Vimarśa; the tattvic descent; the three upāyas; Kṣemarāja's \"the subject does not waver\"; the Lacan encounter (*mi-dire*, the not-all, \"the unwritable rapport as Spanda\"). Preserve this source section’s actual internal movement; expose inputs, operations, result, boundary and return. This is the quilt office, distinct from domain anatomy and root relation.",
+    "proof_standing": "Derived in native QL operations; independent finite mathematics exact under named assumptions; comparative recognition retains Argued/Offered standing.",
+    "evidence_boundary": "64+36=100 and reduced pair 16+9=25 are sums; ratio16/9 is a separate operation. 4²=2⁴ while3²≠2³. Neither arithmetic nor interval is an external proof of Śaiva doctrine or universality.",
+    "blockers": [],
+    "binding_status": "ready-for-target-preparation-with-explicit-evidence-debt",
+    "relations": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+        "kind": "argument",
+        "relation": "Recovered argument consumer/constraint; this record develops the operation specified above and returns its exact consequences through this Argument."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+        "kind": "concept",
+        "relation": "Reference distinction to consult for exact local operation; final page must write a specific permitted relation, never this administrative label."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "kind": "etymology",
+        "relation": "Preserve source/return and named proportional agreement without univocal merger or invented lexical descent."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+        "kind": "movement",
+        "relation": "Exact inherited station for this formal operation; read its claim before writing an outward or return relation. P1 remains closed."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/harmonics/whole-tone-return.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+        "kind": "admitted-matheme",
+        "relation": "Distinct admitted neighbour for comparison/derivation; do not claim its canonical file exists until materialised."
+      }
+    ],
+    "writing_obligations": [
+      "Read every selected A packet and materially implicated direct carrier; source/depth receipts are locators, not substitutes for the actual text.",
+      "Read SOURCE.md and all present sibling NOTES in full; never mutate protected NOTES or treat its quotation leads as verified passages.",
+      "Derive the raw #0/#1/#2/#3/#4/#5→0 from this operation. Do not use fixed Definition/Operation/Pattern/Context/Quintessence labels.",
+      "Write exact outward and return relations using the link skill permitted verbs; input-context relation descriptions are not ready-made publication prose.",
+      "The native eightfold, 4+2 cardinality, 4:2 orientation and3:3/3:1 recognition readings keep separate operations. Native X/x is never attributed to Jung.",
+      "A narrow evidence blocker restricts the unsupported claim/quotation, not the existing native QL proposition. No measurement, experiment or restoration discharge is certified by packet preparation.",
+      "Apply the concrete corrections in shared-source-recovery-a13-a24.md and shared-theorem-support-recovery.md wherever their claims are used; do not restore an error merely because it is older authored/developmental prose.",
+      "Definition and quilt preserve the short definitional chain 0/1 = 4+2 = 5→0 = 0/1; process and music preserve the full earned chain 0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1. Name the vantage when both enter a record.",
+      "File 2 primes name inverse-phase positions; File 3 §5→0 primes name the Night-pass sequence. Keep their meanings explicitly distinguished, including where both passages are inputs.",
+      "The core-theorems spine is the curated extraction set: preserve its later 3:3-also-3:1, additive-constant and native eightfold refinements; the four files condition the field without wholesale duplication into the essay.",
+      "Source/cross-register descriptions quoted in the locked README are input instructions, not finished public prose; independently verify external attribution before making it.",
+      "Reopen full relevant A packets and direct passages; this binding does not certify personal full reading of every inherited house."
+    ],
+    "supporting_receipts": [
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-matheme-source-recovery.md",
+      "working/p2-enrichment/receipts/matheme-locked-structure-recovery-2026-09-07.md",
+      "working/p2-enrichment/receipts/2026-09-07-input-amendment.md"
+    ],
+    "path_decision": "Explicit locked README leaf name; no heading-scanner admission. Reconciled with census_refresh on 2026-09-07."
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A18",
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f"
+    },
+    {
+      "argument_id": "A05",
+      "path": "working/p2-enrichment/argument-depth/A05.md",
+      "sha256": "d7992ff692cd1b0babef8b84157438fa89c92e5eefaa2a6b9752816e5ca23da9"
+    },
+    {
+      "argument_id": "A09",
+      "path": "working/p2-enrichment/argument-depth/A09.md",
+      "sha256": "7bbb367d7fe465f1d22b962495426f1a89d462d6f6c7fe4e3636dcd37978af5f"
+    },
+    {
+      "argument_id": "A11",
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "sha256": "19585deb79a5ec0dabb39493e413e0579e313adeab68051a783b6ad737584ab8"
+    },
+    {
+      "argument_id": "A12",
+      "path": "working/p2-enrichment/argument-depth/A12.md",
+      "sha256": "a4bfa473d034e31cd6cbd7afc45b96236929665a4dd42f4e3f056e3973c58b39"
+    },
+    {
+      "argument_id": "A13",
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8"
+    },
+    {
+      "argument_id": "A15",
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "sha256": "70e04921c5c97b94a3068eafe5b1595e3bfa4f537076f75376503628237f0f8a"
+    },
+    {
+      "argument_id": "A16",
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "sha256": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45"
+    },
+    {
+      "argument_id": "A17",
+      "path": "working/p2-enrichment/argument-depth/A17.md",
+      "sha256": "f524699d75f93c839c8acdff6430c91b591d8266c3731bafca0cbcd49d940c9a"
+    },
+    {
+      "argument_id": "A36",
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md",
+      "sha256": "e8155ed81ccdfe88af2a465e5efa10bea6d9044b4e48fc808e6faf542cf7927f"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-four-musical-epistemic.md",
+      "sha256": "9432bac7a477dc95d3b231f727ab59e1484a24ffbdb8c68afa7964d6e14ceeaf"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/ql-musical-derivation-v3.md",
+      "sha256": "61508658f871f232f554127052d683ecded15c28694cc79a110bcf7841492699"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/README.md",
+      "sha256": "115fa742d9d40ae3c283214b6f43bb679f7489a7baab862a1e99051f9ed69ec4"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/README.md",
+      "sha256": "0b29c01e79042098a68f72d7e0e681768d7ecce2b1bd5286cbc40f6cd0f87702"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+      "source_sha256": "abff563740e2617c557b5d9c614a3336d34e5439e53320727cad5731292d8de7",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md",
+      "source_sha256": "caf16126bb1b26c79fe4d88768e977e820029198994b047a72b636507c579d20",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "source_sha256": "0c16ad20b0855d542ed39597df33fc56fa97a85358c9e9a93951f88c6324b885",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "start_line": 251,
+      "end_line": 325,
+      "relation": "Extracted internal authorial operation; read with whole four-file circuit and curated core-theorems refinements.",
+      "provenance": "Housed Binary Explication candidate manuscript; inherited internal derivation, not independent external attribution.",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+      "text": "## §4 — Kashmir Shaivism: The Metaphysical Architecture\n\n### 0/1 — Prakāśa-Vimarśa\n\nThe topological register showed that the 0/1, when folded into a surface, produces the torus — a shape whose most fundamental feature is a void it cannot fill. The metaphysical register asks: what *is* the torus-experiencing-itself? What is the interiority of a shape that circulates around its own constitutive void?\n\nKashmir Shaivism answers — not as a cultural borrowing but as a structural convergence — with **Prakāśa-Vimarśa**. Prakāśa is luminous consciousness, the sheer fact of awareness, the light by which anything appears at all — the 0, the ground, the *such-that-it-is*, the awareness that is the condition for every phenomenon. Vimarśa is reflective self-awareness, the capacity of consciousness to know itself, the light aware of itself as light — the 1, the phenomenon of awareness appearing to itself, the *some-thing-as-such* that the ground produces so that it can know itself. And the relation between them — the /, the slash, the and/or — is the self-referential pulse that makes consciousness not a static luminosity but a living recognition.\n\nThis is the primary distinction (File 1 §0) in the metaphysical register. Prakāśa is the 0, the awareness, the unsystematisable ground. Vimarśa is the 1, the phenomenon, the determinate content — but in the Śaiva register, the content is the awareness recognising itself, which means the 1 is not an external object but the 0's own self-reflection. The slash between them is the Spanda — the primordial vibration, the pulse of self-reference, the motion-without-displacement that makes consciousness alive rather than merely present. The 0/1 = Prakāśa/Vimarśa — not an analogy, not a mapping, not a translation between systems, but the same distinction appearing in a different vocabulary, the way the number 6 appears in addition (1+2+3) and in multiplication (1×2×3) without being a different number each time.\n\n### Positional Mapping — The Metaphysical Descent\n\n| Position | Śaiva Term | Nature | 4+2 Mapping |\n|---|---|---|---|\n| #0 | Paramaśiva / Anuttara | The unsurpassable — consciousness in its absolute, undifferentiated state | The ground, the 0, the pleroma |\n| #1 | Śiva-Śakti | The first stirring — the I-am, the capacity for self-recognition | The first determination, the −−, the % |\n| #2 | Sadāśiva / Īśvara | The emergence of the universe within consciousness — the descent begins | The expression, the 0/1, the first determinate ratio |\n| #3 | Sad-vidyā / Māyā | The differentiation of subject and object — the knower and the known appear as separate | The inverse, the 1/0, the ?/! |\n| #4 | The Kañcukas + Puruṣa | The five contractions + the limited self — the Nara, the human condition | Context, the bounded, the Da-Sein |\n| #5 | Pratyabhijñā | Re-cognition — the limited self recognising itself as the Absolute | Real-isation, the return, the 100% |\n\n### Unfolding\n\n**#0 — Paramaśiva / Anuttara (the unsurpassable).** Consciousness prior to any self-reflection, the absolute 0, the ground that cannot be represented because it is the condition for representation. Anuttara: literally \"the unsurpassable, that beyond which there is nothing\" — the pre-perspectival, the silence before the first word, the Divine thought (−/−, File 1 §0/1) in the Śaiva register. All thirty-six tattvas (the categories of existence, from Śiva down to earth) are already present here in undifferentiated plenitude — the way the ground (#0) in File 2 T0 §2' contained the entire 4+2 in compressed form, the way the seed contains the tree as its genetic plan.\n\n**#1 — Śiva-Śakti (the first stirring).** The I-am — not a full self yet, but the first tremor of self-awareness, the capacity for self-recognition that has not yet produced an object to recognise. Śiva (the absolute consciousness) and Śakti (the primordial power, the capacity to act) are not two things but one reality in its first internal differentiation — the way the −/− became X/x (File 1 §0) through the minimal differentiation of the same mark into two cases, the way the 00 at #1 (File 2 T1 §1) was the negation of negation that opened indeterminacy (the %) without yet producing a determinate value. Definition (#1) — the What, the first act of specification — but here the *what* is not an object but the capacity to ask the question at all.\n\n**#2 — Sadāśiva / Īśvara (the emergence of the universe within consciousness).** The descent begins. Sadāśiva: \"I am this\" — the first genuine self-recognition, where consciousness sees itself *as* something, the emergence of the universe as the content of the I-am. Īśvara: \"This am I\" — the recognition from the side of the object, the universe recognising itself *as* consciousness. These two are the forward and inverse faces of the same movement — the way 0/1 (the expression, File 2 T0 §1') and 1/0 (the inverse) are two directions of one slash. The universe is not created from nothing; it emerges *within* consciousness as consciousness's own self-articulation — the way the geometry (File 2 T1) unfolded from the centre (the point, #0) through the line and angle to the triangle and square, the whole construction taking place within the field that the centre already was.\n\n**#3 — Sad-vidyā / Māyā (the differentiation of subject and object).** Sad-vidyā: \"I am this AND this is different from me\" — the emergence of the subject-object split, the knower and the known appearing as genuinely distinct. This is the ?/! (File 2 T0 §1') — the incomputable, the division by zero, the point where the determinate (the object, the 1) tries to exhaust the indeterminate (the subject, the 0) and fails. Māyā is not \"illusion\" in the sense of non-existence but the power of differentiation — the capacity of consciousness to *limit* itself, to contract from the infinite to the finite, to produce the appearance of separation so that relation (and therefore knowing, and therefore love) can occur at all. Māyā is the slash — the cut, the *scire*, the distinguishing that makes the known different from the knower so that knowing can happen. Without māyā, there is no distinction; without distinction, there is no relation; without relation, consciousness is everything and therefore nothing in particular — the undifferentiated plenitude that has no experience because experience requires a difference to experience across.\n\n**#4 — The Kañcukas + Puruṣa (the five contractions + the limited self).** The Nara — the human being, the finite subject, the person who lives within limitations. The five kañcukas (coverings, contractions) are the five ways the infinite contracts into the finite: limited agency (kalā), limited knowledge (vidyā), limited desire (rāga), limited time (kāla), and limited causation (niyati). These are not imprisonments but the specific ratios the Self freely strikes between % (0/0, every possibility) and 100% (1/1, full actuality) — the Svātantrya (absolute freedom) exercised as self-limitation (File 2 T0 §4'H). Every life is a particular proportion of the infinite capacity expressed as finite form — a specific value of x in Jung's X = x (§1), a specific set of parentheses around (x), a specific ratio that the Necker cube's wireframe (the absolute, X) takes when projected into a perspective (the Nara, x).\n\nThe Puruṣa is the limited self — the ego, the \"I\" that experiences itself as separate, the subject of the kañcukas. And this limited self is the Da-Sein (File 1 §0) — the being for whom its own being is a question, the being who can hold 1st, 2nd, and 3rd person perspectives simultaneously without collapsing them. The Nara as Da-Sein: the human condition is not a fall from grace but a specific concentration of grace, the way a lens concentrates light by limiting its spread.\n\n**#5 — Pratyabhijñā (re-cognition).** \"I am Śiva\" — not a statement of arrogance but of recognition. The limited self, having traversed the descent from the Absolute through the stirring, the emergence, the differentiation, and the contraction, re-cognises itself *as* the Absolute it never ceased to be. Pratyabhijñā is the 5→0 of the metaphysical register — the return to the ground carrying all the determinations the descent produced. The achieved wholeness (1/1 = 1 = 100%) recognised as the ground (0/0 = %) that was there from the beginning — the way the Catuṣkoṭi's SILENCE (File 1 §5→0) returned to the awareness that the first distinction presupposed.\n\nAnd note: Pratyabhijñā is not a state achieved once and for all. It is the ongoing recognition that the descent was always also an ascent, that the contractions were always also expressions of freedom, that the Nara was always also Paramaśiva — not as an identical substance but as a ratio that can be struck and restruck, the way the torus (§3) circulates continuously around its hole, never filling it, never leaving it, the circulation itself being the recognition.\n\nThe Śaiva register also supplies what the formal registers could only mark negatively: the positive statement of why the subject-position cannot cease. The Spanda Kārikās identify the pulse not with the contents of consciousness — which oscillate, perish, sediment — but with the *upalabdhṛ*, the experient, the pure experiencerhood that the contents are contents *of*. Every formal tradition we have quilted reached this place by negative marking: Russell's forbidden self-reference, Gödel's unprovable truth, Lacan's barred Other, the hole at the centre of the torus. The argument that closes the marking is older than any of them, and it deserves to be heard in its own words. If someone claims the subject has ceased, either that cessation is witnessed — in which case the witness occupies the very position said to have ceased — or it is not witnessed, in which case nothing supports the claim. Kṣemarāja states it with a precision a millennium has not improved:\n\n> *The subject does not waver — for if he were to do so, the emanation and absorption of the world would not be manifest, for there would be none to perceive it.*\n\nThis is the equals sign of the whole proof given its final word. The 0 of the matheme is this non-wavering — not a substance that persists, but the position that every appearance, denial, absorption, and proof already presupposes. And Spanda — Abhinavagupta's *spandana*, the subtle movement that \"although it moves not, manifests as motion\" — is the slash of the matheme stated as the pulse of that non-wavering ground. A vibration that does not displace its source: the description is structural, and it is also, exactly, what a sounding string does. The string vibrates; the string does not go anywhere; the tone is the vibration heard as relation. The Śaiva register thus hands the proof its final preparation for File 4: the metaphysics of the non-dual binary already speaks in the vocabulary of vibration, and the musical derivation will not be adding sound to the structure but recognising the structure's own mode of being-sounded.\n\n### The three upāyas and the 4+2\n\nThe three upāyas (means, paths) are three modes of traversing the 4+2 — three ways up the same mountain, each using a different harmonic:\n\n- **Śāmbhavopāya (the way of Śiva, the path from #5):** Direct recognition — the descent from the top, starting from Paramaśiva and recognising everything as That. The Pratyabhijñā path, the 100% path, the seeing of the whole without needing to trace the parts. This corresponds to the Knowing/unKnowing harmonic (4/5) — the Word that says everything in one breath.\n\n- **Śāktopāya (the way of Śakti, the path from #2–#3):** The path through the means — using thought, mantra, and meditation to trace the oscillation between knower and known, the Spanda itself. This corresponds to the Becoming harmonic (2/3) — the mixed doubles, the oscillation between expression and inverse, the path of process.\n\n- **Āṇavopāya (the way of the individual, the path from #1):** The path of effort — starting from the limited self and working upward through discipline, ritual, and practice. This corresponds to the Being harmonic (0/1) — the ground and its self-registration, the path of building from the foundation.\n\nThree paths, one structure — the way the three harmonics are three modes of the same 0/1.\n\n### Truth half-said, truth recognised — the Lacanian encounter\n\nThe Western register of truth reaches its most honest formulation in Lacan, and the honesty is what makes the encounter with this section's register possible. His position is stated with complete rigour: science forecloses truth as cause, suturing the subject out of its own operation; analysis reopens the split between *savoir* and *vérité*; and truth itself can only be half-said — *mi-dire*, the half-saying, truth structurally wedded to desire and to the impossibility of its own completion. None of this is scepticism. It is the precise report of an instrument from inside the instrument — vikalpa auditing vikalpa, the thought-apparatus proving, by its own most disciplined operation, that it cannot close on its ground. The Kārikās' diagnosis and Lacan's converge to the letter: the paśu is run by the word-mass, and the most lucid Western theory of truth is the one that discovered, from within the word-mass, that the word-mass cannot say the whole.\n\nHis formal name for the discovery is the not-all. On the masculine side of his formulae of sexuation, a totality is achieved the only way the symbolic can achieve one — all are subject to the function because one is exempt: the all founded on an exception, the logic of every master signifier and every totalising claim, the 1-side's perpetual manoeuvre. On the feminine side there is no exception — and therefore no totality: all are subject, yet no \"all\" closes, the *pas-tout* that drives a wedge, as Hoens puts it, between the extension of the claim and any class it would constitute. Lacan's own gloss is the arresting one: the not-all is *un tout d'hors univers* — an all outside any universe. A Śaiva reader starts at the phrase, because it is Anuttara said backwards: the unsurpassable that is not a member of any universe of discourse, arrived at apophatically, from inside the symbolic, as the shape of the symbolic's own non-closure. And the theorem that follows — there is no sexual rapport; no signifier writes the relation of the two sides — is, in our terms, exact: the two conjugate faces of one field admit no symbolic writing of their union. Commentators have linked this non-closure to Gödel's incompleteness, and the link illuminates — but it is their homology, drawn by Chiesa, Copjec, and Zupančič, not a derivation Lacan made, and we carry it with that label.\n\nThe meeting itself can be stated without triumphalism. The two half-sayings are the two directional traversals this proof has worked since File 1's closing fraction: 0/1 and 1/0, each sayable, never both in one saying — and their superposition, the standing identity 0/1 + 1/0 = 1/1, is precisely what cannot be said from inside either direction alone. Lacan is right, and the matheme of QL contains his theorem as structure. What the Śaiva register adds is not a better saying. Pratyabhijñā is not a saying at all — recognition is performative and apophatic, the witness knowing itself as the position in which both traversals occur — so it does not violate the mi-dire; it locates what the mi-dire presupposes. The rapport that cannot be written insists nonetheless, and its insistence has carried a name through this whole section: Spanda — the vibration between the faces, the relation real precisely where it is unwritable. Truth is half-said and wholly been. Both clauses are needed, and neither converts into the other.\n\nLacan, hearing this, would reach for his coldest instrument: is \"recognition\" not one more master signifier, the exception smuggled back in to found the all? The defence is internal to everything already derived. The kartṛ-pole is not a signifier and cannot become one — every signifier is kārya, and the witness is what signification is *for* — so the recognition-claim predicates nothing and totalises nothing; it is the one move on the board that cannot be the masculine manoeuvre, because it adds no term to the chain. The quilting that does not fail, as the treatise behind this section has it, is the quilting that knows itself provisional — and the thread beneath all quilting, the *anusyūta* that lets a chain be a chain at all, was never a button on the chain. Where his analysis must stop — at the bar, honestly, half-saying — is exactly where the Kārikās begin: with the one for whom the bar appears. The encounter costs neither register its rigour. It costs only the assumption that they were rivals.\n\nOne address, finally, since this section has been naming registers of the bimba map: these four files articulate M1 — Paramaśiva, the matheme as generative structure — and when the not-all gestures past every universe, what it gestures toward is articulated at M0, in Anuttara's own deeper language, which derives the 0/1 this corpus axiomatises and to which the corpus links by relation rather than paraphrase. The fourfold zero is spoken there. Here it is honoured by not being spoken.\n\n### 5→0 = Enriched 0/1\n\nThe Śaiva metaphysic is not an exotic system being mapped onto the matheme; it is the matheme in the register of absolute consciousness. Prakāśa-Vimarśa is the primary distinction. The Spanda is the slash as vibration. The thirty-six tattvas are the 6² (File 2 T0 §3': 100% = 2⁶ + 6²) — the sixfold taken to its own second power. The kañcukas are the ratios between % and 100%. Pratyabhijñā is the 5→0 return. The matheme does not need the Śaiva vocabulary, but the Śaiva vocabulary — developed over a millennium of sustained inquiry into the structure of consciousness — independently converged on the same architecture, because the architecture is genuine, and any sufficiently deep investigation of self-reference will rediscover it. The recognition register (§5) will now gather all five prior registers — etymology, psychology, number, topology, metaphysics — into a single proof.\n\n---\n"
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "start_line": 167,
+      "end_line": 194,
+      "relation": "All eight determinations, their sequence, harmonics and inverse thresholds constrain this local page.",
+      "provenance": "Current native QL curated extraction.",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "text": "## (c) The eight determinations — one relation traversed from field to return\n\nThe six-position QL unit and the eight determinations answer different questions and must remain distinct. The **sixfold** is the generative positional body: the two implicate poles and four explicate relational states yielded by `2 + 2² = 4 + 2 = 6`. The **eightfold** gives that body its full threshold-to-return traversal: the unnamed parent-relation before a determinate field, the six qualitative determinations, and the phase-flip by which their achieved form turns back toward its condition. One relation—unobjectifiable awareness and appearing phenomenon, ground and mark—takes on each distinct operation required for a knowing-act to become accountable without pretending to stand outside itself; detaching the binaries or treating them as serial replacements destroys the traversal.\n\n| Turn | Expression | QL determination and its work | What remains invariant through the change |\n| --- | ---: | --- | --- |\n| **Parent relation** | `/ = −/−` | Bare relationality before the field has been divided into named terms: the stroke is its own determination form, two unassigned marks held in one expression, the capacity for relation prior to a determinate contrast. It is the unnamed parent of the six, not an additional position among them. | The relation has a condition that cannot appear as one more product of the relation. |\n| **#0 Ground** | `0/1` | **Awareness / phenomenon; conscious circumstance.** “I am here; something appears; the appearing is known.” `0` names the open, unobjectifiable fact of awareness; `1` the appearing mark; `/` the relation by which the real becomes readable without being exhausted by its readability. Appearing is in awareness, and awareness is encountered only through appearing; the relation precedes any picture of two completed substances separated by a wall. | The ground is immanent to every mark without becoming another positive mark or a hidden object behind it. |\n| **#1 Definition** | `?/!` | **Questioning / asserting; ratio, reckoning, mark.** To ask “what is this?” already asserts that something has appeared stably enough to call for account; to assert “this is” keeps open the question of whether the account runs true. Definition is therefore double: openness to determination and determinative speech. It marks while remaining answerable to what called for the mark. | Every assertion bears the unsettled question that makes it accountable; every genuine question already takes a provisional mark. |\n| **#2 Dynamis** | `−/+` | **Withdrawal / extension; force, polarity, Spanda-seed.** The relation becomes energetic: one side functions as reserve, contraction, withholding; the other as issue, release, presentation. The positive is the void’s own self-relation appearing as extension. The poles form a sustained pulse whose moments remain co-present—breath gathers and releases; attention contracts around a word and opens into sense. | The two poles remain one differentiating movement: distinction has force without becoming a war of independent substances. |\n| **#3 Pattern** | `X/x` | **Determining-capacity / determinate instance; recurrence.** Capital `X` is the presiding capacity, type, or anything-by-which something can be read; lower-case `x` is its temporal local face. The same letter, in two cases, prevents the instance from being severed from the capacity it manifests. The small `x` also retains multiplication: an instance can recur, compound, and yield “another one of those.” Pattern is where force becomes recognisable as kind, rhythm, memory, and thought. | The local instance makes the general legible but neither contains nor exhausts it. |\n| **#4 Context** | `AM/IS` | **First-person presence / third-person sayability; the personed copula.** `AM` is lived “I am”; `IS` is what can be stated as “it is”; the slash is the second-person relation through which they meet. Context is the lived *where* of this encounter—world, body, concern, speech, memory, task—not a neutral container. It is total because nothing appears outside some horizon, and incidental because that horizon does not ordinarily stand forth as one more object. | Knower, means, and known remain one appearing-act without becoming interchangeable: *pramātṛ / pramāṇa / prameya*. |\n| **#5 Realisation** | `∞/dx` | **Unbounded depth / infinitesimal differential; horizon and local exactness.** `∞` names the inexhaustible field no finite mark contains. `dx` is no longer merely the instance `x` but the minute difference through which change and local reading become exact. Every appearance is therefore a true local ratio of what exceeds it: precise as relation, partial as expression. The whole is not hidden inside the part; it is present in the way the part runs true to what it cannot enclose. | Exactness never becomes possession. A finite determination remains answerable to the depth that makes it possible. |\n| **Return-switch** | `1/0` | The achieved determinate turns toward the ground it presupposes and meets the incomputable rather than an object called “the ground.” The mental cannot find the foundation of the mental, because every act of finding already occurs through it. This is *pratyabhijñā*: recognition, not acquisition. | The limit is generative: `5→0`, the return through ground that renews a further cycle rather than cancelling the determination. |\n\nThe table fixes the actual order of determination. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their meanings and prevent them from becoming decorative or interchangeable correspondences.\n\nThe six also have internal grammar. **Being** joins Ground and Definition: a field is present and can be called to account. **Becoming** joins Dynamis and Pattern: force becomes intelligible as recurrence, while recurrence stays alive only as force capable of further instance. **Knowing/unKnowing** joins Context and Realisation: lived predication becomes honest only when its horizon exceeds every situated claim. Across this forward harmonic grouping run the complementary folds: **Essence** (`0+5`) pairs conscious circumstance with unbounded differential depth; **Constitution** (`1+4`) pairs answerable definition with the world in which someone asks and asserts; **Text-Texture** (`2+3`) pairs the felt weave of force with its readable pattern. The six positions are thus neither a linear ladder nor a flat catalogue.\n\nThe calculus turn makes the final determination mathematically exact. Differentiation yields local change while losing the additive constant; integration restores a family `F(x)+C`, with no single self-grounding whole selected by the local derivative alone. The missing `C` is the formally required provenance that local change cannot reconstruct; mystical surplus and defective calculation are both unnecessary explanations. The psychological and metaphysical claim begins there: a determination can be exact without containing the whole condition from which its exactness was taken.\n\n**QL placement.** `/ = −/−` and `1/0` bracket rather than enlarge the six positions. `/ = −/−` is the parent-relation before the count; `1/0` is the inversion through which the counted form recognises the ground that never became one of its contents. Within the bracket, `0/1`, `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` are the first qualitative body of the `4+2`. This preserves the distinction between the eight-turn traversal and QL's sixfold base count: Jung's four functions plus introversion/extroversion can disclose the same psychological `4+2`, while the fuller account can still traverse from pre-distinction, through conscious circumstance, to the incomputable return.\n\n---\n\n# III. The Pythagorean QL Unit\n\nThe Self's structure distilled to pure number — number as *[[working/sources-texts-references/QL-Essay-Rewrite#Part IX — Part IX — Resonances and Isomorphies: The Psychoid Continuum of Thought and World|psychoid]] archetype* (Jung/Pauli's *unus mundus*), where each numeral carries qualitative weight (1 = unity/first distinction, 2 = duality/relation, 3 = synthesis/the dynamic third). The unit is derived by watching the field of identity-as-difference **count itself**."
+    }
+  ],
+  "raw_skeleton": "# Metaphysics\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

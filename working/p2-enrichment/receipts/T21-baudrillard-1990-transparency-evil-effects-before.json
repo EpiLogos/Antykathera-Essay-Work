@@ -1,0 +1,44 @@
+{
+  "root": {
+    "id": "baudrillard-1990-transparency-evil",
+    "title": "Baudrillard — The Transparency of Evil (1990)",
+    "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Baudrillard — The Transparency of Evil (1990)",
+      "Bibliographic identity",
+      "Chicago 18 forms",
+      "Source scholarship",
+      "Argument relations (candidate — for the harmonisation pass to weigh)",
+      "Passage needs (leads — no quotation text)",
+      "Open acquisition and verification"
+    ],
+    "sha256": "04d7fe387ec4370ef1ca4e668e938999e9c9c5f2a521c3cdbc7415ea4a842186",
+    "citation_status": "intake",
+    "quote_status": "no-excerpts",
+    "main_source_for": [],
+    "tags": [
+      "epi-logos/antikythera-essay",
+      "source-bank/record",
+      "source-bank/french-power-theory"
+    ]
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

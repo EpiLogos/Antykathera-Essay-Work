@@ -1,0 +1,56 @@
+{
+  "scope": "Local audit checks only; no workspace hygiene or current runtime claim",
+  "pages": {
+    "definition/catuskoti-crossing.md": "171ced1117cb1ebe22d2e4156721ffe1e51dedd63f392a24fbe3b711ab677d47",
+    "definition/copula.md": "5fabbb3e15fab966dc9b907b5fdc725471c4dfd39e50eedef1c9b8e73c7a93ee",
+    "definition/harmonics-and-recount.md": "3563e416d1aee63a1d4cd0a48ae8758c532bfbc534d77f6c2800b7d76813258a",
+    "definition/immutable-subject.md": "c972c1ca063731e65948e2e17b6d1ddca8711d47b0ed4ab95da07597819f2fc7",
+    "definition/minus-over-minus.md": "870d891efc70deda69fa7fd27f9be3ff8d88bb7ec7af452eac41bb3b0a2f5315",
+    "definition/six-determinations.md": "a3cc539a6d37b87b71463637077e17f05cf1fe9d41879783d8b06f6cee53d540",
+    "definition/the-matheme.md": "8fe0358aeb8996055a6c1607bed61bb4406330e9c5e93c8b1ac1be66ca302d9c",
+    "ql/binary-and-binary-of-binary.md": "63d1c09b84eda489ad7e123258c140d05160849525e8766b632da21ac7660dff",
+    "ql/complex-orientation.md": "18a2d56e6de29f44bbd99533cd1e8756d6745e269754d5a94921a430daedec7c",
+    "ql/crossed-zero-re-entry.md": "c042ada9dfbcf2e93e60d35f4aa66dfd4a0bf979d1bcb8b57d3092668ce56013",
+    "ql/eight-determinations.md": "d9ec2f1c06eebce1ad5b8168f76fe13b3918ecf222f96721b40ea0a7de0c5ab6",
+    "ql/primordial-symbolon.md": "e19164edd3b98ec15b070e3f35e0cc9f0f45840e1c38427700849474beb36e91",
+    "ql/slash-and-or.md": "208ceeca0ecc488db19f0cd3129e259a843c8c7a21b7ce6d8e54a8084f1414f4",
+    "ql/two-ones.md": "b7f86cd44b011dea7d957ebaf84f1d00262a4d7b17b873240af8a7ee9b3d77dd",
+    "ql/x-x.md": "9376d8928693aa0e95b9f250d159c421d002276d96609668049d487dcf159ef9",
+    "dia-syn/chronic.md": "79464c4b8a37d53438ac4f01a38d269cdde506af0eb6866a094d6dc8f9f13d84",
+    "dia-syn/dia.md": "c24c28d4d5d8124375270b6902e56d65d447e2292ccd4f31add4a297c8c8e470",
+    "dia-syn/syn.md": "c2129a70488233c7a68a9f7152fdbd93b15b4606400baafcb64ca6e478479d24",
+    "mono-poly/mono.md": "6e3685da959c21ae9ee07f0a421e8ec5aa11b75a9a8ed83ac1080a7c9bbdeedb",
+    "mono-poly/poly.md": "ae28c505e9945e082990776e100aec9c354391de2f3117edc455a7bbf9a893cf",
+    "mono-poly/translations.md": "131427ef6103dc00786930b999aeac5f7b690b4b3e6d7cb122d4172893ae5917",
+    "quilt/enantiodromic-return.md": "23a264100c07f91a5463c038fb1b9054b7b0c98c5735305ef69d28f1ec9cf20d",
+    "quilt/etymology.md": "baed1df5a6667f8d91fb13c24ce138413f5c8215753a10e654d2c29d0958ff66",
+    "quilt/metaphysics.md": "78f0f74c856f9d3c2ed4a468ab4c6b97e583f03808b13a42f862dae4703ac37b",
+    "quilt/number.md": "1450f21c8418e24adb04da22ab91b0b85602c8c2c2c886220e8d53eedc914363",
+    "quilt/psychology.md": "b1036dfcfb6250f6ebe0ebeebb51b52aae734e2734b61bc24b974c9115c732e8",
+    "quilt/recognition.md": "bba9bca3895d637c7d67b299a9b0a90fc6323529da5a862a74c6e364bbb78dd6",
+    "quilt/topology.md": "26cb2d81c83a701bff556894350e8001230e5f21bab611eda953ee92d46c3d40",
+    "computation/ebm-resonance.md": "0b2226a938407080fe7b2d7e5ff5e8d0b634d35344264cbc70523c71b7187340",
+    "computation/j-space.md": "b6fe5e0cd29142b89af18c52050e9095800d1f0a15014f81379b6ae82407711a",
+    "computation/operational-parity.md": "736781a36f8f0f698d8d0d5d10a67833824626abdcd89673127c3e1dc943591d",
+    "computation/preference-gauge.md": "15323374335cb2834a8d837eeb7808f2ded3a7ea8d694dc42c9450ff64369ee0",
+    "computation/softmax-argmax.md": "51290c2dfd988e22d02ff1c95cc52840bb6587da100dc449e4bc0b2d967ce6fc"
+  },
+  "six_sections_each": true,
+  "relative_links_checked": 276,
+  "missing_links": [
+    [
+      "submission-package/essay/symbolon/matheme/quilt/topology.md",
+      "../topology/torus-cover-winding.md"
+    ]
+  ],
+  "independent_arithmetic": {
+    "preference_three_quarters": true,
+    "preference_scale_changes": true,
+    "reference_policy_changes": true,
+    "softmax_example": true,
+    "softmax_shift": true,
+    "softmax_tie_limit": true,
+    "ebm_update": true,
+    "perfect_six": true
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "root": {
+    "id": "descartes-1641-meditations",
+    "title": "Descartes — Meditations on First Philosophy (CSM II, 1984)",
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Descartes — Meditations on First Philosophy (CSM II, 1984)",
+      "Bibliographic identity",
+      "Chicago 18 forms",
+      "Source scholarship",
+      "Essay use",
+      "Source's relevant contribution",
+      "Licensed essay use",
+      "Claim boundary",
+      "Passages and excerpts",
+      "Material metadata",
+      "Passage card — descartes-1641-meditations-q001 — the indubitable occurrence",
+      "Passage card — descartes-1641-meditations-q002 — the reification site",
+      "Passage card — descartes-1641-meditations-q003 — the dream argument",
+      "Open acquisition and verification",
+      "Passage metadata register"
+    ],
+    "sha256": "1ccfb76b76a75e9f146490697a3afbc718251666915f5e63e3f5dc9d135096f7",
+    "citation_status": "forms-drafted-pagination-unverified",
+    "quote_status": "no-excerpts",
+    "main_source_for": [
+      "the cogito's landing beside Ø-occlusion (proposed alignment)"
+    ],
+    "tags": [
+      "epi-logos/antikythera-essay",
+      "source-bank/record",
+      "source-bank/descartes",
+      "source-bank/classical-premodern-philosophy"
+    ]
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

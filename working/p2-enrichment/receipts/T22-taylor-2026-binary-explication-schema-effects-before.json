@@ -1,0 +1,39 @@
+{
+  "root": {
+    "id": "taylor-2026-binary-explication",
+    "title": "Taylor — Binary Explication (four-file canonical-candidate set)",
+    "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Taylor — Binary Explication (four-file canonical-candidate set)",
+      "Work identity",
+      "File ledger",
+      "Provenance",
+      "Curation law",
+      "Passage ledger",
+      "Relations"
+    ],
+    "sha256": "0c16ad20b0855d542ed39597df33fc56fa97a85358c9e9a93951f88c6324b885",
+    "claim_status": "Derived",
+    "quote_status": "excerpts-indexed-internal",
+    "register": "episteme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "episteme",
+    "carriers": []
+  }
+}

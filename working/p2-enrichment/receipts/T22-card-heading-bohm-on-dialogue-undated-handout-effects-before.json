@@ -1,0 +1,35 @@
+{
+  "root": {
+    "id": "bohm-on-dialogue-undated-handout",
+    "title": "On Dialogue — undated circulated handout",
+    "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-on-dialogue-undated-handout/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "On Dialogue — undated circulated handout",
+      "Identity and consulted object",
+      "Passages and paraphrase locations",
+      "Consumption"
+    ],
+    "sha256": "8f71ebf4194f197beaa2ee50bc5d7f1260c48b2d3999c0c62b30911132a0db2c",
+    "citation_status": "carrier-identifiable",
+    "quote_status": "no-excerpts"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

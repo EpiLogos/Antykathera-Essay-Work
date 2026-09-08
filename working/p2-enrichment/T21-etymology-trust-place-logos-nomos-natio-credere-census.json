@@ -1,0 +1,951 @@
+{
+  "schema_version": 1,
+  "status": "2026-09-07-canonical-structure-reconciled-target-binding-pending",
+  "authority": "Central-plan Amendment 2026-09-07 and locked Symbolon/Matheme READMEs govern root and projection identities; existing ratified A/C/E and admitted domain bodies remain. Canonical conjugate bodies and all current SOURCE houses are retained. This census does not authorize Mytheme/Episteme writing before folder ratification.",
+  "elements": [
+    {
+      "record_id": "etymology-trust-place-logos-nomos-natio-credere",
+      "title": "trust-place-logos-nomos-natio-credere",
+      "register": "episteme",
+      "record_type": "etymology-whole",
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "wave": "T21",
+      "disposition": "enrich-existing-whole",
+      "authority": [
+        "working/final-argument-quilt-2026-08-23/OUGHT-BE-ETYMOLOGY-ARCHITECTURE.md"
+      ],
+      "packet_status": "awaiting-complete-36-depth-review"
+    }
+  ],
+  "remaining_reconciliation": [
+    "Complete target-keyed packets with every materially relevant A-depth receipt, direct carriers and full SOURCE/NOTES reading before each writer dispatch.",
+    "T23 tests four retained maps and any proposed new transverse route for a distinct movement; no inherited quota.",
+    "Source edition/locator and empirical debts remain Open until evidence work closes them.",
+    "T22 must reconcile named governing staleness before structural or claim-status changes; T24 acceptance still gates manuscript composition."
+  ],
+  "non_page_carriers": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/earth-taste-wisdom/HISTORY.md",
+      "disposition": "retained-proposal",
+      "reason": "OUGHT-BE-ETYMOLOGY-ARCHITECTURE explicitly keeps this pending authorial verification; no canonical lexical-warrant promotion."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/tye/tye-2024-qualia-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wilson/wilson-et-al-2020-embodied-cognition-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1922-tractatus/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1953-philosophical-investigations/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/brown/brown-1989-ares-aphrodite-laughter/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/burkert/burkert-1960-lied-ares-aphrodite/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/detienne/detienne-vernant-1978-cunning-intelligence/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/mackenzie/mackenzie-2021-heraclitean-allusion-odyssey/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/phillips/phillips-moicheia-unity-greek-law/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/berkeley/berkeley-1734-three-dialogues-wilkins-2002/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/spinoza/spinoza-1674-letter-50-jelles/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/nothaft/nothaft-2020-satanic-ciphers/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/das/das-2022-sriharsa-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/kallata/spandakarika-dyczkowski-1992-stanzas-vibration/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/nagarjuna/nagarjuna-garfield-1995-fundamental-wisdom/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/van-norden/van-norden-jones-2024-huayan-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-skenfrith-cope-jung-ql/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-spirit-nature-man-humanity/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-chatgpt-2026-symbolon-in-media/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-claude-2026-derivational-chat/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-gemini-2026-pax-machina-body-without-organs/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-gemini-2026-skenfrith-castle-power-history/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-christ-mono-poly-theory/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-encounter-region-name-count/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-sym-dia-ballein-views/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/garfield/garfield-priest-2003-limits-of-thought/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2014-one/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/raatikainen/raatikainen-2026-godel-incompleteness-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/sheffer/sheffer-1913-five-postulates/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/strang/strang-herman-2016-openstax-calculus-v1/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/whitehead/whitehead-russell-1910-1913-principia/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/jorjani/jorjani-2016-prometheus-atlas/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/mcgoohan-markstein/mcgoohan-markstein-1967-the-prisoner/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1975-early-greek-thinking/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/maroski/maroski-2025-seeing-through-solid-words/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/nietzsche/nietzsche-1910-birth-tragedy-haussmann/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/physics/atmanspacher/atmanspacher-2020-pauli-jung-conjecture/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/physics/iter/iter-what-is-tokamak/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/physics/kirchner/kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-1980-wholeness-implicate-order/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-1996-on-dialogue/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/seed/seed-2010-language-spirit/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/adleman/adleman-vanderwees-2021-lacan-rhetoric/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/bache/bache-2019-lsd-mind-universe/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/courtney/courtney-2019-salt-point-kairos-chaos/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/darmon/darmon-1992-matheme-ali/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-2013-undiscovered-self-routledge/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/lacan/lacan-2017-talking-to-brick-walls/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2022-resist-machine-apocalypse/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/smythe/smythe-2013-dialogical-jung/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1991-strange-attractors/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/apuleius/apuleius-1913-psyche-cupido-purser/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ovid/ovid-1921-metamorphoses-miller/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/literature/goethe/goethe-1983-selected-poems-nims/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1961-totality-and-infinity/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1981-otherwise-than-being/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    }
+  ],
+  "pending_nonpage_seams": [
+    {
+      "seam": "King / arbitrator",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "No new Mytheme: intact owning image still required; recovered civic office stays A25/E2.",
+      "existing_routes": [
+        "A25",
+        "etymology-arbitration-hybris-regard-anamnesis"
+      ]
+    },
+    {
+      "seam": "synchronicity / psychoid ordering",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Source/empirical/native claims remain distinct inside admitted dossier and A19.",
+      "existing_routes": [
+        "A19",
+        "dossier-jung-pauli-psychoid"
+      ]
+    },
+    {
+      "seam": "layered cosmos / firmament / archons",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Existing Hypostasis whole receives its exact source telling; do not generalise all cosmologies into it.",
+      "existing_routes": [
+        "mytheme-myth-hypostasis-archons-norea-sophia"
+      ]
+    },
+    {
+      "seam": "Levinas One / All / Other",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Source-deepen inside relational argument and Indian/process comparatives; no new Levinas illustrative Mytheme.",
+      "existing_routes": [
+        "A12",
+        "A27"
+      ]
+    },
+    {
+      "seam": "plasma / energetics / jñāna-icchā-kriyā",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Physical, psychic, Śaiva and computational operations remain separately sourced; no one-substance page.",
+      "existing_routes": [
+        "A14",
+        "A19",
+        "matheme-toroidal-poloidal-confinement",
+        "matheme-noether-symmetry-conservation",
+        "dossier-indian-philosophy"
+      ]
+    },
+    {
+      "seam": "success / succession / Origin / Aion",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Not yet a recovered whole Mytheme; Aion history and existing whole retain their narrower source operations.",
+      "existing_routes": [
+        "A36",
+        "mytheme-narrative-jung-aion-fishes-christ-antichrist-alchemy"
+      ]
+    },
+    {
+      "seam": "regard / hybris / metron / crisis / context / pretext",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Historical philology remains source work inside mature T09 E2, not native020 candidate sixfold replacement.",
+      "existing_routes": [
+        "etymology-arbitration-hybris-regard-anamnesis"
+      ]
+    },
+    {
+      "seam": "mask / chameleon / Fanon",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Existing Fanon whole retains source-specific racial-historical work; private biographical seam remains nonpublication provenance.",
+      "existing_routes": [
+        "mytheme-narrative-fanon-language-gaze-mask-recognition",
+        "mytheme-avatar-image-mask-idol"
+      ]
+    },
+    {
+      "seam": "desert-wanderer / renunciant / return-to-culture",
+      "authority": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:778–806",
+      "disposition": "Pending source-bearing whole or explicit cross-source appointment; not admitted. No generic mystic record.",
+      "existing_routes": []
+    }
+  ],
+  "reconciliation_receipts": {
+    "reference_notes": {
+      "path": "working/p2-enrichment/reference-note-dispositions.json",
+      "count": 89,
+      "status": "all surviving destinations named; originals retained; no reference heading admitted as page"
+    },
+    "legacy_and_maps": {
+      "path": "working/p2-enrichment/legacy-carrier-dispositions.json",
+      "count": 48,
+      "historical_arguments": 21,
+      "legacy_concepts": 23,
+      "existing_maps": 4,
+      "status": "all filenames resolved; numeric mismatches preserved; four maps retained pending T23 distinct-movement test"
+    },
+    "mathematical_substrate": {
+      "path": "working/p2-enrichment/mathematical-substrate-dispositions.json",
+      "count": 37,
+      "status": "all exact operations have named surviving homes"
+    },
+    "etymology": {
+      "whole_fields": 6,
+      "history_companions": 6,
+      "earth_taste_wisdom": "retained proposal; no additional whole-field admitted"
+    },
+    "source_houses": {
+      "count": 133,
+      "status": "retained evidence/provenance houses; SOURCE schema retained; no duplicate raw-sixfold page"
+    },
+    "intake": {
+      "path": "working/p2-enrichment/intake-dispositions.json",
+      "status": "all 487 entries explicitly disposed; no heading promoted to identity"
+    },
+    "2026-09-07-canonical-structure": {
+      "path": "working/p2-enrichment/T17-CENSUS-CANON-RECONCILIATION-2026-09-07.json",
+      "status": "identity-only; target binding and pilot gate remain separate"
+    }
+  },
+  "governing_staleness_for_T22": [
+    {
+      "authority": "the-return-of-zero-central-plan.md:503",
+      "problem": "Old heading calls X=x Jung’s; native core and AGENTS establish authorial X/x before Jungian refraction.",
+      "disposition": "Plan-first correction required; never attribute authorial notation to Jung."
+    },
+    {
+      "authority": "the-return-of-zero-central-plan.md#open-decisions-to-settle-during-drafting",
+      "problem": "Older offered/open idealism wording must be compared with ratified A34 and direct authored argument.",
+      "disposition": "Do not weaken earned A34 claim due stale global heading; machine phenomenality remains separately Open."
+    }
+  ],
+  "identity_reconciliation": {
+    "previous_elements": 197,
+    "elements": 276,
+    "previous_sha256": "a066d59105fed2341ff67e438bdc1e1324294038d032045dfb6bef921fabb693",
+    "canonical_files_created": 0,
+    "root_records": 12,
+    "root_spine_indexes": 1,
+    "matheme_existing_domain_bodies": 46,
+    "matheme_new_locked_projection_bodies": 34,
+    "conjugate_bodies": 37,
+    "source_houses": 133,
+    "status": "canonical-structure-reconciled-target-binding-pending"
+  },
+  "superseded_identities": [
+    {
+      "record_id": "symbolon-dia-sym-ballein",
+      "former_home": "submission-package/essay/symbolon/dia-sym-ballein.md",
+      "disposition": "retired-root-admission-rehomed-as-matheme-logics",
+      "successor_record_ids": [
+        "matheme-dia-syn-dia",
+        "matheme-dia-syn-syn",
+        "matheme-dia-syn-chronic"
+      ],
+      "authority": [
+        "the-return-of-zero-central-plan.md#amendment-2026-09-07--symbolon-root-layer-vāk-registers-and-the-matheme-structure",
+        "submission-package/essay/symbolon/matheme/dia-syn/README.md"
+      ],
+      "reason": "The locked twelvefold does not admit a Dia/Sym root. The ballein and chronic offices have the three named pages in matheme/dia-syn. Prior recovery links remain provenance and must resolve through this explicit disposition; no root duplicate."
+    }
+  ],
+  "execution_boundary": {
+    "authorized_registers": [
+      "symbolon",
+      "matheme"
+    ],
+    "held_registers": [
+      "mytheme",
+      "episteme"
+    ],
+    "condition": "Stop before Mytheme and Episteme generation until Frank ratifies their folder structures. Retained conjugate bodies and source houses are census inputs, not new writing authorizations."
+  },
+  "projection_locks": {
+    "short_chain_folders": [
+      "definition",
+      "quilt"
+    ],
+    "full_chain_folders": [
+      "process",
+      "music"
+    ],
+    "prime_in_process": "inverse-phase positions #0′–#5′",
+    "prime_in_quilt": "Night-pass sequence #0′–#5′",
+    "curated_extraction_set": "taylor-2026-core-theorems-pithy",
+    "deep_source_house": "taylor-2026-binary-explication"
+  },
+  "snapshot_provenance": {
+    "frozen_at": "2026-09-08T03:11:32.985784+00:00",
+    "full_queue": "working/p2-enrichment/dispatch-queue.json",
+    "full_queue_sha256": "46ab0f1fbe0ad47a8603f4d8bcdb40e2fba9bc6af172015b38a80e1440952749",
+    "full_census": "working/p2-enrichment/census.json",
+    "full_census_sha256": "837af22d6c9a921556c1fe5dc4cc1dfaf2ef09c81a2dbcd648cfbb957d2de238",
+    "original_target": {
+      "record_id": "etymology-trust-place-logos-nomos-natio-credere",
+      "title": "trust-place-logos-nomos-natio-credere",
+      "register": "episteme",
+      "record_type": "etymology-whole",
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "wave": "T21",
+      "disposition": "enrich-existing-whole",
+      "authority": [
+        "working/final-argument-quilt-2026-08-23/OUGHT-BE-ETYMOLOGY-ARCHITECTURE.md"
+      ],
+      "packet_status": "awaiting-complete-36-depth-review",
+      "binding_state": "target-inputs-pending",
+      "dispatch_status": "held-folder-structure-discussion"
+    },
+    "authorized_scope": "One E3 whole plus derived historical companion, receipt and private snapshots only. Parent owns reciprocal writes and hygiene.",
+    "baseline": {
+      "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md": {
+        "sha256": "1d7b68a74bd23d8ab4ff5faf397bf4269f9b58d3fc2bc4aada7397fa2876680a",
+        "text": "# Whole Field — Fides / Topos / Logos / Nomos / Natio / Credere\n\n**Standing:** mature T09 Etymology whole-field. The established directory name `trust-place-logos-nomos-natio-credere` is preserved; the canonical relational title names the source terms/offices directly. `HISTORY.md` remains the historical evidence carrier.\n\n## Field discipline\n\nThis constellation is deliberately **not** a proposed common etymology. Latin *fides*, Greek *topos*, Greek *logos*, Greek *nomos*, Latin *natio* and Latin *credere* belong to different lexical histories. They are held together because the essay repeatedly needs to relate six operations: trust, position, articulated account, ordering rule, inherited belonging and entrusting/belief.\n\nThe mature field therefore separates history from philosophical use. Registers **1–2** are established word by word in `HISTORY.md`; register **3** relates the operations; register **4** is reserved for explicit authorial word-play or morphology.\n\n## Relational offices\n\n**Fides / Credere — entrusting under non-possession.** A relation can be acted upon without exhaustive capture. This branch is consumed by **A23 Trust/Faith**, **A25 Covenant**, **C48 Trust/Faith under Formal Limit**. Historical faith/belief senses do not themselves prove the formal-limit argument.\n\n**Topos — situated place/position.** A determination has a position, and a finite agent acts from a horizon. This branch is consumed by **A03 Formal Limit**, **A16 Arche-Topos**, **A28 Authored Ground**, **C08 Context Frame**, **C15 Paśu**, **C20 Arche-Topos**, **C44 Prompt Thrownness**. The authorial compound *Arche-Topos* is an earned relational construction, not an attested ancient term claimed by stealth.\n\n**Logos — articulated word/account/reason.** Logos is consumed by **A06 Vāk** only as a source-distinct operational neighbour, and by **A35 / C51** as the account upon which Epi-Logos returns. Vāk and Logos must never borrow historical warrant from one another.\n\n**Nomos — ordering/rule/distribution.** This branch becomes relevant where a field's order is made explicit in law, norm, permission or technical policy: **A25, A28, C29, C44**. The philosophical operation is local ordering, not a claim that every rule descends from one semantic essence.\n\n**Natio — inherited/born belonging.** This branch enters **A35 / C59 Cultural Individuation** as one historically specific way collective identity becomes given before reflection. It does not make nation the essence of culture and does not derive the cultural argument.\n\n## Generated returns\n\nThe field's power lies in relations among these offices rather than in forced symmetry. A position (`Topos`) can carry an inherited order (`Nomos`) and belonging (`Natio`); an articulated account (`Logos`) can solicit trust (`Fides/Credere`); Epi-Logos can then return upon the account, its order and inherited position. These are register **3** operational constructions.\n\n### Epi-Logos\n\n`Logos → Epi-Logos` is an authorial relational growth: an achieved account becomes a participant in a new return relation that examines its sources, exclusions and effects. The Greek prefix history can be documented separately, but the philosophical office is not “proved” by morphology.\n\n## Return\n\n```text\nposition / inherited order\n        ↓\narticulated account\n        ↓\ntrust / entrusting\n        ↓\nreturn upon account and source\n        ↺\nrevised position / order / belonging\n```\n\n**Depth Restoration:** passage-level lexical histories and tradition-specific semantic ranges remain pending where `HISTORY.md` requires further source verification. Canonical operation/routing is current for T09.\n"
+      },
+      "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORY.md": {
+        "sha256": "c03b101c05bd986c07f3112fc34f70a1a539413362267f53ec06c289b1838df5",
+        "text": "---\ntitle: \"Fides, Topos, Logos, Nomos, Natio, Credere — Trust Becoming a World\"\npage_type: etymological-cluster\nownership: protected-learning-surface\nstatus: living\ncluster_status: active-working-field\nphilology_readiness: mixed-attested-and-source-debt\n---\n\n# Fides, Topos, Logos, Nomos, Natio, Credere — Trust Becoming a World\n\nThis is the current sixfold through which the essay follows trust becoming place, articulation, law, belonging and renewed entrustment. QL already supplies the positions and the return. The archaeology keeps the six word-fields together because their historical force lies in the movement among them rather than in any one dictionary definition.\n\n```text\nfidere / fides\n      ↓\ntopos\n      ↓\nlogos\n      ↓\nnomos\n      ↓\nnatio\n      ↓\ncredere\n      ↘\n       return to fides\n```\n\nIn operational English:\n\n> **trust → emplacement → articulation → arbitration/distribution → belonging → entrustment → trust**\n\nThe working positional relation is:\n\n| # | Word-field | Historical semantic body | QL operation in this unit |\n|---|---|---|---|\n| **0** | **fidere / fides** | trust, confidence, reliance, fidelity, credibility; relational standing before a proposition has to be fully secured | tacit trust-field / continuity from which explicit arrangements can arise |\n| **1** | **topos** | place, site, region, position | emplacement and limit: a bounded `here` becomes available |\n| **2** | **logos** | speech, word, account, reason; also reckoning and computation | articulation and delineation: the field becomes nameable, recountable and administratively legible |\n| **3** | **nomos** | usage, custom, ordinance, law, from the *nemein* field of allotting/distributing | arbitration and distribution: shares, obligations and standing are instituted |\n| **4** | **natio** | birth; breed/stock/kind; a people or nation, from *nasci* | a historically gathered field is lived and narrated as belonging, descent and common birth |\n| **5** | **credere** | lend, entrust, trust, believe; *creditum* as the entrusted/loaned thing | directed entrustment into a relation whose fulfilment remains future; return capable of renewing fides |\n\nThis placement remains a living authorial QL unit. Its philological claims stand word by word; the sixfold relation is the project's own historical-philosophical composition.\n\n## #0 — *fidere / fides*: trust before explicit arbitration\n\nLatin *fidere* carries trusting, confiding and relying upon. *Fides* gathers trust, confidence, faith, reliability, fidelity and credibility, with legal, political and interpersonal uses around alliance, pledge and protection.\n\nThe important operation is relational standing. Before every obligation can be itemised, scored or adjudicated, some field of reliance already allows action to proceed. A language is spoken before its grammar is legislated. A community acts before every custom is codified. A witness is heard because somebody or some institution grants standing to the testimony. A credit system presupposes relations through which promises can be recognised.\n\nThat is the `#0` office here: not an abstract virtue added after social organisation, but the trust-field from which explicit coordination can differentiate.\n\n## #1 — *topos*: the bounded here\n\nGreek *topos* gives place, region, site and position. At `#1` the open trust-field is emplaced. A relation happens somewhere; a boundary, route, settlement, jurisdiction, homeland, parish, polis, estate, kingdom or state makes a particular `here` consequential.\n\nTopos therefore carries the first historical condition of political legibility. A line can mark a place without exhausting the lived field it crosses. The relation to [[../encounter-region-name-count/HISTORY|Encounter, Region, Countenance, and Count]] is direct: region may be faced, ruled, named, counted and inhabited, while the local line remains one determination within the prior encounter-field.\n\n## #2 — *logos*: articulation, account and legibility\n\nGreek *logos* carries a wide historical field: word, speech, statement, account, relation, reason, reckoning and computation. The project's use here concentrates on the movement by which a situated field becomes articulate enough to be shared and acted through.\n\nNames, narratives, contracts, censuses, curricula, records, maps, grammars and administrative vocabularies all belong to the historical body of this office when they make a field communicable. Logos is therefore more than national language, but national standardisation is one consequential case: authority needs a sufficiently common expressive and documentary medium through which persons, places, property, offences, taxes, marriages, births, duties and borders become mutually legible.\n\nThe compressed operation is:\n\n> **Logos gathers and renders an account.**\n\n## #3 — *nomos / nemein*: distribution acquiring authority\n\nGreek *nomos* carries usage, custom, ordinance and law; its historical relation to *nemein* brings the field of distributing, dealing out and allotting. The semantic depth matters because law does not only prohibit. It apportions: land, rights, offices, obligations, categories, permissions, penalties, status and recognized forms of relation.\n\nAt `#3`, the articulation acquires consequential standing. A common Logos allows a Nomos to say which name counts, what obligation attaches, what boundary holds, whose testimony is admitted and how a conflict is decided.\n\nThe compressed operation is:\n\n> **Nomos distributes and establishes what counts.**\n\nThis is the exact join with [[../arbitration-hybris-regard-anamnesis/HISTORY|Arbitration, Hybris, Regard, and Anamnesis]]. Centralisation of law is also centralisation of arbitration: an expanding authority increasingly decides which local names, customs, languages, titles, histories and rights are recognised by the common field.\n\n## #4 — *natio / nasci*: achieved history narrated as birth\n\nLatin *natio*, from *nasci*, begins in the field of being born/birth and extends through breed, stock, kind and people. That birth-field remains one of nationalism's deepest symbolic resources. A political order assembled through conquest, treaty, schooling, law, administration, print, marriage, migration, commerce and memory can be narrated backward as though the achieved alignment were the simple outward expression of a single ancient birth-community.\n\nThe project's name for this operation is **neo-nativity**: the retrospective naturalisation of a historically produced alignment as native essence.\n\nNeo-nativity does not deny pre-existing peoples, languages, traditions, kinship, memories or territorial continuities. It follows the transformation by which selected continuities are standardised, bounded, aligned and then made to bear an ontological claim about who the people *really are*.\n\nAt `#4`, *natio* is consequently double-edged. It can name a real contextual whole of belonging, history and mutual obligation. It becomes deficient when the gathered context claims to exhaust the people, the place, the language or the Real from which it arose.\n\n## #5 — *credere / creditum*: entrusting toward an unresolved return\n\nLatin *credere* has an old business and relational field: give as a loan, entrust, trust, confide, believe. *Creditum* names the thing entrusted or loaned. Credit therefore embodies a relation whose completion lies ahead: something is advanced now because another person, institution or future state is granted standing.\n\nThis makes *credere* an exact `#5` word for the present unit. The articulated and instituted world does not complete itself by possessing every future outcome. It entrusts itself again into relation.\n\nThe return is:\n\n```text\ncredere → fides\nentrustment → renewed trust-field\n5 → 0\n```\n\nHence the compact pair:\n\n> **Fides is prior to arbitration; credere is what becomes possible again after arbitration.**\n\n> **Arbitration is what happens when trust can no longer remain tacit.**\n\n## The historical fourfold inside the sixfold\n\nThe four explicate positions carry the central historical theorem:\n\n```text\nTopos → Logos → Nomos → Natio\nplace → articulation → instituted distribution → narrated belonging\n```\n\nThe modern nation-state repeatedly attempts to make four things coincide which history ordinarily leaves only partially aligned: **a territory, a language, a law, and a people**.\n\nThe relation becomes especially powerful under centralisation:\n\n> **Centralisation of power entails centralisation of arbitration. Centralised arbitration requires a common Nomos; a common Nomos requires a sufficiently common Logos through which people, places, obligations and differences become legible. Once one Logos becomes the carrier of the common Nomos, the resulting political field can narrate itself as a Natio — as though a historically achieved unity were a common birth.**\n\nThe magical and mythical powers of word, ancestry, kinship and place continue to act inside that mental-rational organisation. A census category can carry an image of blood; a legal boundary can become sacred soil; a standard language can become the audible body of a people; administrative birth can be remembered as timeless nativity.\n\nThe pathology can therefore be stated exactly:\n\n> **arbitration hardens into ontology.**\n\nA chosen language becomes simply “language”; one legal order simply “law”; one selected inheritance “history”; one historical national arrangement “the people” as such.\n\n## The deficient traverse and return\n\nThe same sixfold can be followed under its fall-charge:\n\n```text\nunmeasurable ground\n   ↓\nmeasure / bounded place\n   ↓\nperspective / linguistic frame\n   ↓\nhybris / sovereign arbitration\n   ↓\nenclosed identity\n   ↓\ncompulsory or captured belief\n```\n\nThe return makes every achieved office transparent again: Natio becomes con-text rather than essence; Nomos becomes answerable to the field it distributes; Logos remembers its cuts, translations and exclusions; Topos becomes situated rather than absolute; *credere* becomes genuine entrustment rather than demanded assent; the cycle can return to *fides* without erasing the institutions through which it passed.\n\n## Poseidon, surety and the trust circuit\n\nThe existing whole Ares–Aphrodite–Hephaestus–Poseidon Mytheme gives the trust unit an ancient image without reducing the image to the etymology. Hephaestus's mechanism can catch, disclose and establish a debt. Release still requires Poseidon to stand surety for Ares, including personal liability if the obligation fails.\n\nThe authored yield is exact:\n\n> **form must be witnessed, guaranteed, and capable of release.**\n\nThe technical account can record the obligation; a personed trust relation gives the account a route back into life. This is one mythic body of the `credere → fides` return.\n\n## Historical routes\n\n[[../../histories/language-law-nation-centralisation/HISTORY|Language, Law, Nation, and Centralisation]] carries the trunk and branches generated around this unit: Occitan/French centralisation, Jewish and Kabbalistic centres in Languedoc, Renaissance patronage and transmission, Italian and German language-national formations, Anglo-Celtic jurisdiction, Hebrew revival and Zionism, Abrahamic Word/Law/people geometries, epistemic exclusion, post-war institutional continuity and computational classification.\n\nThe sixfold remains available to all of those histories without making any branch an instance mechanically generated from the table. Each branch supplies its own actors, sources, laws, institutions and dates; the etymological unit supplies the whole meaning-field through which their relations can be compared and returned.\n\n## Source shelf and next work\n\n1. Install publication-grade lexical houses for *fidere/fides*, *topos*, *logos*, *nomos/nemein*, *natio/nasci*, *credere/creditum*.\n2. Keep the traditional deeper reconstruction of *credere* through a “heart/place” Indo-European compound as a specialist etymological question rather than a load-bearing claim until its historical-linguistic source is secured.\n3. Source *natio* historically across Roman, medieval and early-modern uses before any essay sentence treats the modern nation as a direct survival of one Latin sense.\n4. Trace the concrete historical branchwork in the dedicated history file and its source houses.\n5. At quilt time, retrieve the complete sixfold, especially the `credere → fides` return and the `Topos → Logos → Nomos → Natio` historical fourfold, rather than lifting one evocative etymology away from its relations.\n"
+      },
+      "submission-package/essay/symbolon/episteme/histories/language-law-nation-centralisation/HISTORY.md": {
+        "sha256": "2b75c59a957fe7a922444d9abcea8b1e9c2fa924956c7275a1925b6e45a9c7fe",
+        "text": "---\ntitle: \"Language, Law, Nation, and Centralisation — The Historical Tree of Topos, Logos, Nomos, Natio\"\npage_type: historical-register-route\nownership: protected-learning-surface\nstatus: living\ndomain: language-law-nation-centralisation\n---\n\n# Language, Law, Nation, and Centralisation — The Historical Tree of Topos, Logos, Nomos, Natio\n\nThis history carries the diachronic trunk beneath the project's etymological archaeology of trust, place, articulation, law, belonging and return. The central historical relation is already established:\n\n> **The modern nation-state repeatedly attempts to make four things coincide which history ordinarily leaves only partially aligned: a territory, a language, a law, and a people.**\n\nThe compact form is:\n\n```text\nTopos → Logos → Nomos → Natio\n```\n\n[[../../etymologies/trust-place-logos-nomos-natio-credere/HISTORY|Fides, Topos, Logos, Nomos, Natio, Credere]] preserves the whole sixfold; [[../../etymologies/arbitration-hybris-regard-anamnesis/HISTORY|Arbitration, Hybris, Regard, and Anamnesis]] preserves the cut/return grammar through which those alignments become consequential. This file follows their actual historical carriers: places, conquests, marriages, schools, laws, translations, archives, patrons, courts, bureaucracies, publishers, churches, financial practices, intelligence organisations, technologies and the persons moving through them.\n\n## Historical and archetypal Logos\n\nThe historical work carries two simultaneous offices already native to the essay's Jungian attitude to history.\n\nThe **diachronic historical Logos** follows what happened through determinate carriers: who acted, which text travelled, who paid, who married whom, which law was enacted, where an institution moved, which language was taught, what an archive records, and which later structure inherited the result.\n\nThe **archetypal-historical Logos** follows the psychic forms through which those determinate events acquire collective force: images of mother/fatherland, blood, chosen people, purity, corruption, rebirth, ancestry, enemy, sacred land, universal word, hidden wisdom, illumination, betrayal, sacrifice, apocalypse, empire and return. Jung's historical work is important here because an archetypal image can organise affect and collective interpretation while remaining historically instantiated through particular texts and institutions.\n\nThe same episode can therefore carry documentary, structural and mythemic evidence at once. The warrants remain stated locally. A marriage can document a dynastic conduit; a century of administrative standardisation can reveal a structural mechanism; a serpent-child, olive, Pisces or Antichrist image can disclose the psychic form through which a history was experienced or retrospectively organised. The registers meet inside one historical tree without becoming interchangeable evidence.\n\n## The trunk: centralisation of arbitration\n\nThe main historical pressure can be stated directly:\n\n> **Centralisation of power entails centralisation of arbitration. Centralised arbitration requires a common Nomos; a common Nomos requires a sufficiently common Logos through which people, places, obligations and differences become legible. Once one Logos becomes the carrier of the common Nomos, the resulting political field can narrate itself as a Natio — as though a historically achieved unity were a common birth.**\n\nThis does not require uniformity to be complete. Historical states continually govern plural speech, overlapping jurisdictions and mixed identities. The trunk concerns the recurrent direction of pressure: common institutions repeatedly increase the value of common names, common records, common legal forms, common educational standards and common narratives of belonging.\n\nAt each stage arbitration is concrete. Someone decides which dialect can carry a court record, which custom has legal standing, which genealogy counts, which history becomes curriculum, which border encloses, which name enters a census, which religion or race category attaches to rights, and which form of knowledge receives institutional credibility.\n\nWhen the history of those decisions disappears, the achieved category can appear to have been there before the process that made it authoritative. This is the project's **neo-nativity** and its historical form of **arbitration hardening into ontology**.\n\n## Branch I — Occitania, Capetian incorporation and the French Logos\n\nThe Languedoc/Occitan field provides a long branch rather than one moment of language suppression. The Albigensian Crusade begins in 1209 in a region whose political, linguistic and religious relations do not coincide with the later French nation-state. The Treaty of Paris in 1229 marks a major Capetian expansion into the Toulouse field; in 1271 Toulouse enters the royal domain. Political incorporation precedes the later full administrative and educational dominance of French.\n\nThe 1539 Ordinance of Villers-Cotterêts is another ring in that growth. Its legal-administrative language provisions displace Latin in specified official records and strengthen French as a common jurisdictional medium. The historical operation becomes more explicit during the Revolution. Abbé Grégoire's 1794 report treats the persistence of the so-called *patois* as an obstacle to political amalgamation and imagines linguistic unity as part of making one national mass.\n\nThis branch therefore requires several distinct leaves to remain visible:\n\n- 1209 and the crusading-political transformation of the Occitan south;\n- 1229 and 1271 as stages of territorial/jurisdictional incorporation;\n- 1539 as administrative-language standardisation;\n- 1794 as programmatic national-linguistic homogenisation;\n- nineteenth- and twentieth-century schooling and the subsequent social production of French linguistic normativity.\n\nThe word *patois* is itself an archaeology task. Once a situated speech-world is characterised as merely local, backward or administratively deficient, its politically produced marginality can later be cited as evidence of its intrinsic inadequacy. Name, policy and changed social world then form a loop.\n\n**Future work:** source the exact Occitan linguistic situation across the crusade and post-crusade centuries; establish the administrative scope of Villers-Cotterêts without retrospective exaggeration; install Grégoire's report as a primary source; trace schooling and local testimony through the nineteenth and twentieth centuries.\n\n## Branch II — Posquières, Lunel and the Languedoc Jewish/Kabbalistic field\n\nThe same region carries another historical line that must be followed through persons and texts. Abraham ben David of Posquières/RABaD III established an important scholarly centre in the Languedoc. Isaac the Blind emerges from the immediate intellectual environment and becomes a major early Kabbalistic figure. Lunel functions as a significant Jewish intellectual and translation centre; the Maimonidean transmission and Samuel ibn Tibbon belong to this wider southern French network.\n\nThe live historical question is therefore specific: **what happened to people, texts, practices and symbolic systems as these regional centres passed through political, ecclesiastical and linguistic centralisations?** Possible routes into Catalonia/Spain, Provence and Italy must be demonstrated edge by edge through manuscripts, teachers, families, translation chains and patronage.\n\nThis branch matters because the essay is following transmission and occultation as real historical operations. A teaching may become hidden because a school is destroyed, a language changes, a community migrates, a manuscript moves, a practice becomes esoteric, an institution excludes it, or later historiography ceases to count it as knowledge. Those mechanisms can combine without being collapsed into one cause.\n\n**Future work:** build source houses for RABaD III, Isaac the Blind and Lunel; map manuscript/teacher transmission toward Spain and Italy; identify points where later Christian Kabbalah can be joined by documented textual relations rather than resemblance alone.\n\n## Branch III — Renaissance transmission: Medici, Ficino, Pico, Visconti, Pacioli and Leonardo\n\nThe Renaissance field is a set of connected but geographically differentiated branches.\n\nIn Florence, Cosimo de' Medici's acquisition of Hermetic texts and his instruction that Marsilio Ficino translate the Hermetica before returning to Plato establish a concrete patronage mechanism for recovered esoteric/philosophical cosmology. Ficino and Pico then sit inside a wider learned field of Platonism, magic and Christian Kabbalah. The historical question is not patronage in the abstract: it is which texts, translations, circles and institutions were enabled by which patrons and what became possible downstream because of that support.\n\nThe Visconti–Orléans line supplies a different mechanism. Valentina Visconti's marriage to Louis I of Orléans transmitted dynastic claims into the French royal field; descendants including Louis XII inherited a claim to Milan that became directly relevant to the Italian Wars. Marriage here is historical infrastructure: persons, claims, households, heraldry, symbols, court practices and political ambitions can travel together.\n\nThe **Minervois Biscione** sighting remains a concrete research leaf rather than an established Visconti conduit. The next work is object-level: identify the exact object/building, date it, establish patronage and renovation history, trace the iconographic/heraldic route, and only then determine whether Visconti/Orléans transmission explains its presence. The serpent-child image remains available as Mytheme once the object itself is securely recovered.\n\nPacioli and Leonardo give the branch its mathematical hinge. Double-entry practice predates Pacioli, while the 1494 *Summa* provides the earliest printed accounting treatise and a major Venetian exposition. *De divina proportione* belongs to mathematical proportion and geometrical form, with Leonardo's illustrations/association and a 1509 printed edition. The same historical milieu therefore keeps quantitative account and qualitative/symbolic geometry in close relation before later disciplinary differentiations separate them more sharply.\n\nThe project's phrase for this is **the undivided hinge of mathesis**. A related research hypothesis is the **differential occultation of qualitative mathesis**: not the disappearance of mathematics, but the unequal institutional futures of calculative and symbolic/qualitative mathematical practices.\n\nGeography remains explicit: Florence carries Medici/Ficino/Pico; Venice carries commerce and accounting; Milan carries Sforza/Pacioli/Leonardo and the geometry/proportion field.\n\n## Branch IV — Yates, Hanegraaff and the historical construction of rejected knowledge\n\nThe historiography of Western esotericism supplies the reflexive branch through which the tree becomes conscious of its own exclusions. Frances Yates made a strong case for Hermetic and occult contributions to the emergence of early modern science. Later scholarship has qualified the strongest causal form of the Yates thesis while retaining a much richer picture than a clean expulsion of “superstition” by science: alchemy, astrology, magic, theology, natural philosophy and recognisably scientific practice can occupy the same lives and institutions.\n\nWouter Hanegraaff's account of Western esotericism as **rejected knowledge** gives the process an institutional form. Academic and Enlightenment identities can establish themselves partly by classifying magic, superstition, occultism or irrationality as constitutive outsides. Occultation can therefore name the successful construction of an epistemic regime in which some ways of knowing cease to count as knowledge.\n\nThis branch should follow both conscious and distributed causes. Censorship, secrecy, patronage choices and deliberate exclusion are documentary questions. Professionalisation, disciplinary differentiation, institutional incentives and inherited categories can continue the same exclusion without one continuing director.\n\n**Future work:** install Yates and Hanegraaff source houses; map specific early-modern cases where disciplinary reclassification can be shown; distinguish documented suppression, strategic secrecy, ordinary loss, and later historiographic rejection.\n\n## Branch V — Jung's *Aion*: the aeon as psychic history\n\nJung's *Aion* supplies a primary source for the project's archetypal-historical attitude. Jung reads the Christian aeon through Christ/Antichrist, the fish/Pisces symbolism, Gnostic and alchemical images of the Self, and an enantiodromic historical movement. He links sixteenth-century Christian schism with an outward/horizontal movement of European consciousness through discovery and the conquest of Nature; alchemy appears as a kind of mother of the scientific age that sinks from view as modern science differentiates.\n\nThese are Jung's historical-psychological constructions and should be sourced as such. Their importance for the essay lies in the form of inquiry: historical events and symbolic images are read together because collective psychic development is expressed through actual institutions, religious images, technical practices and epistemic changes.\n\nThe Pisces / Christ–Antichrist field therefore belongs simultaneously to the psychology history, mythic seam and this trunk. Its next work is exact passage recovery from *Aion*, followed by comparison with independent historiography of the Reformation, Renaissance esotericism and scientific differentiation.\n\n## Branch VI — Italy: literary Logos becoming national infrastructure\n\nItalian gives a relatively clear case where a literary language helps prepare a national field before unified state administration can make that language broadly ordinary. Tuscan/Florentine literary prestige has a long pre-unification history. Alessandro Manzoni's nineteenth-century intervention deliberately privileges living Florentine and, after unification, his role in the 1868 language commission joins literary norm to state educational policy.\n\nThe branch can therefore be followed as:\n\n```text\nliterary Logos → political nation → educational standardisation\n```\n\nThe important leaves are literary prestige, post-1861 administrative needs, Manzoni's proposals, schooling, literacy, regional speech and the later emergence of a much more broadly shared spoken Italian.\n\n## Branch VII — Germany: language, Volk and arbitration becoming ontology\n\nThe German branch begins with a language-cultural field that helps imagine commonality before political unification. Herder's language/Volksgeist relation must retain its pluralistic and anti-imperial dimensions. Fichte's *Addresses to the German Nation* sharpen language into an “inner frontier” and cast the Germans as an original people. Jacob Grimm's philology, grammar, mythology and legal-historical interests contribute to the intellectual infrastructure through which language can delimit a Volk across fragmented political jurisdictions.\n\nThe later racialisation of “Aryan” gives the branch its most severe semantic transformation:\n\n```text\nlinguistic relation\n   → historical people\n   → ancestry\n   → biological race\n   → juridical category\n   → political entitlement / exclusion\n```\n\nThe sequence is multi-causal and must be documented at each transition. Its relevance to the archaeology is the change of office: a philological relation can eventually be made to explain bodies and confer legal standing. The category ceases to appear as an intellectual/historical construction and is administered as natural fact.\n\nThis is the strongest historical form of **arbitration becoming ontology** in the current branchwork.\n\n**Future work:** source Herder/Fichte/Grimm precisely; map philological “Aryan” to racial anthropology and law; recover schooling/standardisation; join Nazi legal classification through primary laws and contemporary administrative practice.\n\n## Branch VIII — Anglo-Celtic jurisdiction: English as capability\n\nThe British/Anglo-Celtic field shows language becoming a condition of access to legal and economic institutions. The Laws in Wales Acts extend English law and the language of law into Wales. The 1847 Welsh education reports/“Blue Books” position English as the medium of government, law, commerce and education while disparaging Welsh. In Ireland, plantation, confiscation, Anglicisation, Protestant Ascendancy and the reorganisation of Gaelic social order link language to property, office and jurisdiction. Scottish education and administrative centralisation place comparable pressure on Gaelic.\n\nThe central operation is **English as jurisdictional capability**. A language gains power because the institutions through which one owns, petitions, contracts, studies, governs and advances increasingly operate through it.\n\n**Future work:** keep Wales, Ireland and Scotland as separate branches with their own legislation, schooling, church structures, land histories and local testimony; recover where linguistic change follows coercion, incentive, migration, commerce or ordinary bilingual adaptation.\n\n## Branch IX — Hebrew revival, Zionism and the attempted coincidence of the fourfold\n\nHebrew enters modern Zionist history with long sacred, textual, literary and scholarly continuities already intact. The modern transformation is the making of Hebrew into an ordinary vernacular across a multilingual Yishuv and eventually a state. School, literature, journalism, theatre, song, lexicography and household practice all become sites where Logos is made national.\n\nThe 1913 “Language War” around German versus Hebrew as the language of technical education at the Technion makes the relation unusually explicit: technical modernity and national language are being decided together.\n\nThe modern Zionist project can therefore be read as an unusually concentrated attempted alignment of **ancestral people, ancestral/promised territory, revived national language, sovereign law and bounded citizenship**. The historical depth of Jewish peoplehood and Hebrew is part of the field; the modern institutional coincidence is the new configuration.\n\nA productive comparative relation follows from diaspora rabbinic Judaism: peoplehood can persist without sovereign territorial coincidence through text, ritual, communal law and dispersed institutions. Modern Zionism territorialises that peoplehood while vernacularising the sacred/classical language into an ordinary national Logos.\n\n**Future work:** source Hebrew revival through education and household language; install the 1913 Language War; trace Ottoman/Mandate/state legal transitions; preserve Palestinian Arabic, land, displacement and citizenship histories as constitutive counter-histories of the same topos/nomos/natio field.\n\n## Branch X — Abrahamic Word, Law, people and political order\n\nF. E. Peters' comparative work opens a wider Abrahamic branch:\n\n> **revelatory Word ↔ normative Law ↔ collective identity ↔ territorial/political order**\n\nThe geometries remain distinct. Judaism joins Torah/halakhic life to communal continuity across changing relations to divine, communal and host-state law. Christianity universalises across *ethnē* and languages, makes Logos itself central, sustains Latin as a transregional learned/ritual medium, and later gives vernacular scripture a major role in Reformation and national histories. Islam privileges Qur'anic Arabic within a multilingual *umma* while *sharia* and *fiqh* develop across multiple empires, schools and local orders.\n\nThis branch is valuable precisely because the same four terms do not coincide in the same way. The history can show alternative distributions of Word, Law, people and place rather than reading every Abrahamic formation as a proto-nation-state.\n\n## Branch XI — post-war recombination\n\nThe defeat of Nazi Germany is a major historical rupture, but the institutional and technical fields crossing the war do not all terminate with the regime. Race science and eugenics were transnational before the war. Nazi lawyers studied United States racial law while formulating parts of the Nuremberg legal regime. Operation Paperclip moved German scientists and technicians, including Nazi-affiliated personnel, into United States programmes. The Gehlen organisation was established under US Army intelligence and later connected to the CIA while drawing heavily on former German intelligence personnel. Denazification was incomplete and many professionals/officials returned to positions in post-war institutions.\n\nThe working theorem is therefore:\n\n> **Defeat of one explicit ideological configuration did not dissolve the administrative, scientific, racial, financial, intelligence, technological and imperial forms out of which it emerged; these were selectively repudiated, transformed, preserved and recombined.**\n\nThis is an evidence programme, not one undifferentiated continuity claim. Each conduit must be followed institution by institution, person by person, technique by technique and concept by concept.\n\n## Branch XII — computation: the historical tree becomes executable\n\nThe contemporary branch turns classification into runtime infrastructure. A model or institution marks a field, names categories, records them in a database, attaches an allocation or decision, changes the opportunities of the classified subject, observes subsequent behaviour and returns those observations as new data.\n\n```text\nmark → name → policy/allocation → changed world → new evidence → stronger/revised name\n```\n\nThe feedback can make the produced world appear to confirm the original characterization. The existing preference-model, hidden-zero, provenance and governance work in [[../technology-politics/HISTORY|Technology, Politics, and Institutions]] supplies the technical body. The present history supplies its longer genealogy in naming, legibility, jurisdiction and arbitration.\n\nThe practical question at the essay's technological endpoint is therefore historical: can the instrument preserve the source, cut, evaluator, counter-perspective and revision path through which a classification acquired standing? If so, the technical system can make etymological and historical anamnesis operational rather than merely retrospective.\n\n## Rings, leaves and return\n\nThe tree grows forward while retaining earlier formations as rings. Magical participation in a word can persist inside mythic national language; mythic blood/ancestry can persist inside rational bureaucracy; theological notions of covenant and election can be secularised or reactivated inside political identity; local speech can survive underneath a national standard; rejected symbolic systems can return through art, depth psychology or technical culture.\n\nEach branch must therefore retain its leaves: the treaty, law, speech, school order, translation, marriage, ledger, heraldic object, manuscript, trial, census field, diagnosis, passport, model card, policy or archive record through which the large operation actually happened.\n\nThe fruit of one historical cycle can become seed for the next. A category painfully constructed in one generation becomes obvious background in another. A standard language becomes a child's mother tongue; a border becomes geographical common sense; a disciplinary exclusion becomes “what knowledge is”; an institutional score becomes a default. This is the history's own `5→0`: achieved determinations become inherited ground and therefore require periodic anamnesis.\n\n## Source and expansion ledger\n\nThe immediate next source programme is concrete:\n\n1. **Occitania/France:** crusade and Capetian incorporation; Villers-Cotterêts; Grégoire; schooling and lived Occitan history.\n2. **Languedoc Jewish/Kabbalah:** RABaD III, Isaac the Blind, Lunel, ibn Tibbon, manuscript and teacher transmission into Spain/Italy and later Christian Kabbalah.\n3. **Renaissance:** Cosimo/Ficino Hermetica; Pico; Visconti–Orléans dynastic line; Minervois Biscione object; Pacioli/Leonardo; Florence/Venice/Milan distinction.\n4. **Historiography of occultation:** Yates, Hanegraaff and specific institutional cases of rejected knowledge.\n5. **Jung:** exact *Aion* passages on Pisces, Christ/Antichrist, sixteenth-century schism, alchemy and scientific modernity.\n6. **National language branches:** Manzoni/Italy; Herder/Fichte/Grimm and Aryan racialisation/Germany; Wales/Ireland/Scotland; Hebrew revival/1913 Language War/Zionism; Peters' Abrahamic comparison.\n7. **Post-war continuities:** US racial-law/Nuremberg relation; Paperclip; Gehlen; denazification by institution/person.\n8. **Computation:** classification feedback, model governance, audit/provenance and the hidden evaluator.\n\nAt quilt time this history is consumed branch by branch and leaf by leaf. The trunk supplies continuity; each local claim remains answerable to its own evidence.\n"
+      }
+    },
+    "read_reuse": "Five complete native foundation inputs plus trust revision unchanged against completed E4 packet; hashes checked. New Mono-Poly manuscript and new source houses read whole; current E3 history matches preceding full read."
+  }
+}

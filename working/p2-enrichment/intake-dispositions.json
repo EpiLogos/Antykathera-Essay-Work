@@ -3828,13 +3828,27 @@
           "canonical_home": "submission-package/essay/symbolon/matheme/ql/slash-and-or.md"
         },
         {
-          "record_id": "symbolon-dia-sym-ballein",
-          "canonical_home": "submission-package/essay/symbolon/dia-sym-ballein.md"
+          "record_id": "matheme-dia-syn-dia",
+          "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/dia.md"
+        },
+        {
+          "record_id": "matheme-dia-syn-syn",
+          "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/syn.md"
         }
       ],
       "target_relation": "named route for recovery; target packet must recover actual text and all relevant A packets before writing",
       "canonical_identity_created": false,
-      "corpus_read_boundary": "Intake entry and anchor classification complete. This table is a discovery reconciliation, not a claim that a heading scan substitutes for substantive source reading; the 36 completed depth packets record material recovery."
+      "corpus_read_boundary": "Intake entry and anchor classification complete. This table is a discovery reconciliation, not a claim that a heading scan substitutes for substantive source reading; the 36 completed depth packets record material recovery.",
+      "structure_reconciliation_2026_09_07": {
+        "authority": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+        "retired_root_id": "symbolon-dia-sym-ballein",
+        "successors": [
+          "matheme-dia-syn-dia",
+          "matheme-dia-syn-syn"
+        ],
+        "basis": "Fallen/unfallen dia ruling also explicitly distinguishes syn fusion and counterfeit gathering.",
+        "chronic_route": "not added: recovered passage does not explicitly develop the synchronic/diachronic pair"
+      }
     },
     {
       "discovery_index": 145,
@@ -3863,13 +3877,22 @@
           "canonical_home": "submission-package/essay/symbolon/matheme/ql/slash-and-or.md"
         },
         {
-          "record_id": "symbolon-dia-sym-ballein",
-          "canonical_home": "submission-package/essay/symbolon/dia-sym-ballein.md"
+          "record_id": "matheme-dia-syn-syn",
+          "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/syn.md"
         }
       ],
       "target_relation": "named route for recovery; target packet must recover actual text and all relevant A packets before writing",
       "canonical_identity_created": false,
-      "corpus_read_boundary": "Intake entry and anchor classification complete. This table is a discovery reconciliation, not a claim that a heading scan substitutes for substantive source reading; the 36 completed depth packets record material recovery."
+      "corpus_read_boundary": "Intake entry and anchor classification complete. This table is a discovery reconciliation, not a claim that a heading scan substitutes for substantive source reading; the 36 completed depth packets record material recovery.",
+      "structure_reconciliation_2026_09_07": {
+        "authority": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+        "retired_root_id": "symbolon-dia-sym-ballein",
+        "successors": [
+          "matheme-dia-syn-syn"
+        ],
+        "basis": "The outer AND/OR stroke retains inverse orientations and composes the dyad through itself; the recovered subsection supplies the syn operation.",
+        "chronic_route": "not added: recovered passage does not explicitly develop the synchronic/diachronic pair"
+      }
     },
     {
       "discovery_index": 146,
@@ -3898,13 +3921,27 @@
           "canonical_home": "submission-package/essay/symbolon/matheme/ql/slash-and-or.md"
         },
         {
-          "record_id": "symbolon-dia-sym-ballein",
-          "canonical_home": "submission-package/essay/symbolon/dia-sym-ballein.md"
+          "record_id": "matheme-dia-syn-dia",
+          "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/dia.md"
+        },
+        {
+          "record_id": "matheme-dia-syn-syn",
+          "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/syn.md"
         }
       ],
       "target_relation": "named route for recovery; target packet must recover actual text and all relevant A packets before writing",
       "canonical_identity_created": false,
-      "corpus_read_boundary": "Intake entry and anchor classification complete. This table is a discovery reconciliation, not a claim that a heading scan substitutes for substantive source reading; the 36 completed depth packets record material recovery."
+      "corpus_read_boundary": "Intake entry and anchor classification complete. This table is a discovery reconciliation, not a claim that a heading scan substitutes for substantive source reading; the 36 completed depth packets record material recovery.",
+      "structure_reconciliation_2026_09_07": {
+        "authority": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+        "retired_root_id": "symbolon-dia-sym-ballein",
+        "successors": [
+          "matheme-dia-syn-dia",
+          "matheme-dia-syn-syn"
+        ],
+        "basis": "The lattice explicitly distinguishes the honest/fallen cut and the gathering with their failure modes.",
+        "chronic_route": "not added: recovered passage does not explicitly develop the synchronic/diachronic pair"
+      }
     },
     {
       "discovery_index": 147,
@@ -8168,13 +8205,27 @@
           "canonical_home": "submission-package/essay/symbolon/matheme/ql/slash-and-or.md"
         },
         {
-          "record_id": "symbolon-dia-sym-ballein",
-          "canonical_home": "submission-package/essay/symbolon/dia-sym-ballein.md"
+          "record_id": "matheme-dia-syn-dia",
+          "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/dia.md"
+        },
+        {
+          "record_id": "matheme-dia-syn-syn",
+          "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/syn.md"
         }
       ],
       "target_relation": "named route for recovery; target packet must recover actual text and all relevant A packets before writing",
       "canonical_identity_created": false,
-      "corpus_read_boundary": "Intake entry and anchor classification complete. This table is a discovery reconciliation, not a claim that a heading scan substitutes for substantive source reading; the 36 completed depth packets record material recovery."
+      "corpus_read_boundary": "Intake entry and anchor classification complete. This table is a discovery reconciliation, not a claim that a heading scan substitutes for substantive source reading; the 36 completed depth packets record material recovery.",
+      "structure_reconciliation_2026_09_07": {
+        "authority": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+        "retired_root_id": "symbolon-dia-sym-ballein",
+        "successors": [
+          "matheme-dia-syn-dia",
+          "matheme-dia-syn-syn"
+        ],
+        "basis": "Position/opposition are dia; superposition/interposition retain and compose through syn.",
+        "chronic_route": "not added: recovered passage does not explicitly develop the synchronic/diachronic pair"
+      }
     },
     {
       "discovery_index": 301,

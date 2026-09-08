@@ -1,0 +1,107 @@
+{
+  "relations": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "whole_to_consumer": true,
+      "consumer_to_whole": true
+    }
+  ],
+  "pass": true
+}

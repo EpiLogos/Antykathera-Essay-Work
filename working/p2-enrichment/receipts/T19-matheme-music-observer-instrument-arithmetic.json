@@ -1,0 +1,91 @@
+{
+  "standing": "Calculations on explicitly constructed frequencies and written note sets; not recorded sound or current-runtime output",
+  "method": "Python math.log2 projection and exact pitch-class set operations",
+  "constructed_frequency_cases": [
+    {
+      "semitone": 0,
+      "frequency_Hz": 256.0,
+      "class": 0,
+      "octave_class": 0
+    },
+    {
+      "semitone": 1,
+      "frequency_Hz": 271.2225521559796,
+      "class": 1,
+      "octave_class": 1
+    },
+    {
+      "semitone": 2,
+      "frequency_Hz": 287.3502843671995,
+      "class": 2,
+      "octave_class": 2
+    },
+    {
+      "semitone": 3,
+      "frequency_Hz": 304.4370214406966,
+      "class": 3,
+      "octave_class": 3
+    },
+    {
+      "semitone": 4,
+      "frequency_Hz": 322.53978877308754,
+      "class": 4,
+      "octave_class": 4
+    },
+    {
+      "semitone": 5,
+      "frequency_Hz": 341.7190026675288,
+      "class": 5,
+      "octave_class": 5
+    },
+    {
+      "semitone": 6,
+      "frequency_Hz": 362.03867196751236,
+      "class": 6,
+      "octave_class": 6
+    },
+    {
+      "semitone": 7,
+      "frequency_Hz": 383.56661168043047,
+      "class": 7,
+      "octave_class": 7
+    },
+    {
+      "semitone": 8,
+      "frequency_Hz": 406.37466930385904,
+      "class": 8,
+      "octave_class": 8
+    },
+    {
+      "semitone": 9,
+      "frequency_Hz": 430.5389646099018,
+      "class": 9,
+      "octave_class": 9
+    },
+    {
+      "semitone": 10,
+      "frequency_Hz": 456.1401436878537,
+      "class": 10,
+      "octave_class": 10
+    },
+    {
+      "semitone": 11,
+      "frequency_Hz": 483.26364809302703,
+      "class": 11,
+      "octave_class": 11
+    }
+  ],
+  "comma_cents": 23.460010384649014,
+  "comma_bin_centre_invariance_cases": 12,
+  "cadence_reanchor_before": [
+    0,
+    5,
+    9
+  ],
+  "cadence_reanchor_after": [
+    2,
+    5,
+    10
+  ],
+  "passed": true
+}

@@ -1,0 +1,867 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/T20-ground-queue.json",
+    "queue_sha256": "2bd42cde291f5d7caf2c30babee90593f163cb4f2292e7602a27421e792c496b",
+    "census": "working/p2-enrichment/T20-ground-census.json",
+    "census_sha256": "d784b08320c962d0a98543ad0f6cd1b19d2feae7b7fb1d6d75c555ec4f986923",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "mytheme-neumann-images",
+    "title": "Neumann images and plate relations",
+    "register": "mytheme",
+    "record_type": "whole-mytheme",
+    "canonical_home": "submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md",
+    "wave": "T20",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+      "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+      ".wayfinder/maps/t20-t21-world-registers.md"
+    ],
+    "packet_status": "current-binding-required",
+    "binding_state": "inputs-bound-source-acquisition-debts-explicit",
+    "argument_depth": [
+      "A04",
+      "A09",
+      "A10",
+      "A11",
+      "A12",
+      "A13",
+      "A18",
+      "A19",
+      "A20",
+      "A21",
+      "A23",
+      "A26",
+      "A27",
+      "A34",
+      "A35",
+      "A36"
+    ],
+    "argument_depth_roles": {
+      "A04": "Material whole-field consumer: A04 — Diaphaneity / Contextual Transparency; consult completed A04 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A04.md:18.",
+      "A09": "Material whole-field consumer: A09 — Tattvic Differential Field; consult completed A09 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A09.md:18.",
+      "A10": "Material whole-field consumer: A10 — Advent of Zero; consult completed A10 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A10.md:18.",
+      "A11": "Material whole-field consumer: A11 — The Two Ones — 0 = One, 1 = All; consult completed A11 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A11.md:18.",
+      "A12": "Material whole-field consumer: A12 — Mono/Poly — One / All, Whole / Many; consult completed A12 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A12.md:18.",
+      "A13": "Material whole-field consumer: A13 — Two Logics of Two — Dia / Syn; consult completed A13 depth packet before extracting this register’s operation.",
+      "A18": "Material whole-field consumer: A18 — Primordial Symbolon and Its Eight Determinations; consult completed A18 depth packet before extracting this register’s operation.",
+      "A19": "Material whole-field consumer: A19 — Complex as Local Arbitration Regime; consult completed A19 depth packet before extracting this register’s operation.",
+      "A20": "Material whole-field consumer: A20 — Image / Valuation / Possession; consult completed A20 depth packet before extracting this register’s operation.",
+      "A21": "Material whole-field consumer: A21 — Individuation / Recognition; consult completed A21 depth packet before extracting this register’s operation.",
+      "A23": "Material whole-field consumer: A23 — Trust, Faith and the Formal Limit; consult completed A23 depth packet before extracting this register’s operation.",
+      "A26": "Material whole-field consumer: A26 — Objective Internality — Mind as Worldhood; consult completed A26 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A26.md:14.",
+      "A27": "Material whole-field consumer: A27 — Self and Other — Unity without Possession; consult completed A27 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A27.md:14.",
+      "A34": "Material whole-field consumer: A34 — Idealism / Order of Dependence; consult completed A34 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A34.md:14.",
+      "A35": "Material whole-field consumer: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation; consult completed A35 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A35.md:14.",
+      "A36": "Material whole-field consumer: A36 — Advent of Integral Zero; consult completed A36 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A36.md:14."
+    },
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+        "start_line": 5327,
+        "end_line": 5342,
+        "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Neumann’s whole developmental relation and Taylor’s source encounter preserve authored mark/erasure and love/war pressure beyond stage labels.",
+        "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+      },
+      {
+        "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+        "start_line": 223,
+        "end_line": 303,
+        "relation": "Neumann’s whole developmental relation and Taylor’s source encounter preserve authored mark/erasure and love/war pressure beyond stage labels.",
+        "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+        "start_line": 48,
+        "end_line": 123,
+        "relation": "Read complete source-specific contribution, passage readiness and boundaries for Neumann images and plate relations",
+        "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+        "start_line": 54,
+        "end_line": 106,
+        "relation": "Read complete source-specific contribution, passage readiness and boundaries for Neumann images and plate relations",
+        "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+        "start_line": 50,
+        "end_line": 109,
+        "relation": "Read complete source-specific contribution, passage readiness and boundaries for Neumann images and plate relations",
+        "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "start_line": 60,
+        "end_line": 288,
+        "relation": "Read complete source-specific contribution, passage readiness and boundaries for Neumann images and plate relations",
+        "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+        "start_line": 1,
+        "end_line": 99,
+        "relation": "Whole protected source encounter: distinguish initial scaffold from Frank reading; restore paper/mark/slash/erasure, world parents, centroversion, guilt and indelible marriage bond.",
+        "provenance": "Protected authorial NOTES, full read-only. Copied source quotations remain leads; not external evidence."
+      }
+    ],
+    "relations": [
+      {
+        "target": "A04",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A04 — Diaphaneity / Contextual Transparency",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A09",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A09 — Tattvic Differential Field",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A10",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A10 — Advent of Zero",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A11",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A11 — The Two Ones — 0 = One, 1 = All",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A12",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A12 — Mono/Poly — One / All, Whole / Many",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A13",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A13 — Two Logics of Two — Dia / Syn",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A18",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A18 — Primordial Symbolon and Its Eight Determinations",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A19",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A19 — Complex as Local Arbitration Regime",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A20",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A20 — Image / Valuation / Possession",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A21",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A21 — Individuation / Recognition",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A23",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A23 — Trust, Faith and the Formal Limit",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A26",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A26 — Objective Internality — Mind as Worldhood",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A27",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A27 — Self and Other — Unity without Possession",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A34",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A34 — Idealism / Order of Dependence",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A35",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A36",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A36 — Advent of Integral Zero",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C09",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C09 — Diaphaneity",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C14",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C14 — Māyā / Operative Measure",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C15",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C15 — Paśu / Bounded Subject-Position",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C16",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C16 — Antaḥkaraṇa / Inner Instrument",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C21",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C21 — Living Symbol / Idol",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C26",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C26 — Monoisation / Counter-Generation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C31",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C31 — Complex",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C32",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C32 — Archetype",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C49",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C49 — The Two Ones — 0 = One, 1 = All",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "etymology-homology-and-analogy",
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: homology-and-analogy",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "etymology-arbitration-hybris-regard-anamnesis",
+        "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: arbitration-hybris-regard-anamnesis",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/mytheme/README.md",
+    "additional_required_inputs": [
+      "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+      "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+      "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+      "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+      "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+      "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+      "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      ".agents/skills/return-of-zero-pages/SKILL.md",
+      ".agents/skills/return-of-zero-links/SKILL.md",
+      ".agents/skills/return-of-zero-source/SKILL.md",
+      "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      ".wayfinder/maps/t20-t21-world-registers.md",
+      "working/p2-enrichment/T20-T21-EXECUTION-DECISIONS-2026-09-08.md"
+    ],
+    "target_operation": "Neumann’s whole developmental relation and Taylor’s source encounter preserve authored mark/erasure and love/war pressure beyond stage labels.",
+    "whole_figures_and_relations": "Uroboros; world parents; child/ego; hero; Great Mother; light/veiling; feeding/digestion; mark/paper/slash/erasure authorial image; centroversion; guilt of differentiation; marriage/divorce indelible bond",
+    "whole_sequence": "Original enclosure bears local formation; differentiation exposes guilt and separation; hero/development transforms relation; centroversion gathers without regression; authored erasure leaves capacity and bond live; return preserves differentiated whole.",
+    "specific_boundaries": [
+      "NOTES opening scaffold/resonance map is not uniformly Frank prose; distinguish later actual authorial reading. No source proves QL/toroidal math. Chronological evolutionary generalisations are Neumann’s model, not universal empirical law.",
+      "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no.",
+      "Whole narration precedes element amplification; ending/aftermath qualifies beginning. Every interpretive edge keeps human-amplified:yes/no. No canonical motif/character identity by stealth.",
+      "Raw sixfold must be derived from this whole’s own movement; no Definition/Operation/Pattern/Context glossary. The form may host source/story/amplification substructure without turning its positions into universal semantics."
+    ],
+    "source_or_telling_blockers": [
+      "Neumann 2014/1954 pagination and copied passages remain Open; actual publication plate selections need complete image provenance and rights."
+    ],
+    "status": "binding-complete-evidence-and-amplification-boundaries-retained",
+    "canonical_write_authorised_by_this_file": false,
+    "restoration_acceptance": [
+      "Intact telling and active figures available, not topical illustration.",
+      "Original developed operation surfaced; direct authored wording/provenance preserved.",
+      "Every materially consumed source and sibling NOTES read in full by writer; acquisition/edition debt scoped exactly.",
+      "Written A/C/E and cross-whole relations return to exact occurrences; unratified edges remain no.",
+      "Argument-depth backcheck and T22 receipt report actual restored operations and undisclosed debt."
+    ],
+    "source_read_obligations": [
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+        "notes": null,
+        "notes_policy": "Full read, authorial provenance, never mutate",
+        "read_coverage": "Existing full-read shared receipts or new mytheme preparation source receipt; writer must reread complete material source/notes",
+        "readiness": {
+          "citation_status": "internal-ready",
+          "quote_status": "excerpts-indexed-internal"
+        }
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+        "source_sha256": "2f651603974204647249c7a91023cf6edc4008c5bf839b9310cb0070d868fd3d",
+        "notes": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+        "notes_policy": "Full read, authorial provenance, never mutate",
+        "read_coverage": "Existing full-read shared receipts or new mytheme preparation source receipt; writer must reread complete material source/notes",
+        "readiness": {
+          "citation_status": "citation-ready",
+          "quote_status": "no-excerpts"
+        }
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+        "source_sha256": "a4e26ad6965a3fa99fd61c51565f90a1e349ba96b6014276ce60005eb3e8249b",
+        "notes": null,
+        "notes_policy": "Full read, authorial provenance, never mutate",
+        "read_coverage": "Existing full-read shared receipts or new mytheme preparation source receipt; writer must reread complete material source/notes",
+        "readiness": {
+          "citation_status": "citation-ready",
+          "quote_status": "no-excerpts"
+        }
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+        "source_sha256": "625eed9f1ef4116f983c084601f78f7287275d212646fa997242081bf59bf28e",
+        "notes": null,
+        "notes_policy": "Full read, authorial provenance, never mutate",
+        "read_coverage": "Existing full-read shared receipts or new mytheme preparation source receipt; writer must reread complete material source/notes",
+        "readiness": {
+          "citation_status": "citation-ready",
+          "quote_status": "locator-needed"
+        }
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "source_sha256": "e1c980917e9590d952a597ffdb8975aae5f94a845b77180035c84a1f8f7188ee",
+        "notes": null,
+        "notes_policy": "Full read, authorial provenance, never mutate",
+        "read_coverage": "Existing full-read shared receipts or new mytheme preparation source receipt; writer must reread complete material source/notes",
+        "readiness": {
+          "citation_status": "internal-ready",
+          "quote_status": "quotation-ready"
+        }
+      }
+    ],
+    "binding_readiness": {
+      "input_addresses_and_ranges": "validated",
+      "full_source_read_coverage": "preparation full reads or exact shared full-read receipts; writer repeat obligation remains",
+      "source_expansion": "blocked only at named external/telling gates, never resolved by weaker paraphrase",
+      "amplification": "unratified interpretation remains no; programme authorisation does not manufacture human encounter"
+    },
+    "dispatch_status": "authorised-bounded-T20-ground-batch",
+    "previous_canonical_home": "submission-package/essay/symbolon/mytheme/plates/neumann-images/WHOLE.md",
+    "home_decision": ".wayfinder/maps/t20-t21-world-registers.md"
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A04",
+      "path": "working/p2-enrichment/argument-depth/A04.md",
+      "sha256": "0b65287f0c7a7d5a0206f003b2cdbe4e4afd7025f104ce60bfec897b7ef228fa"
+    },
+    {
+      "argument_id": "A09",
+      "path": "working/p2-enrichment/argument-depth/A09.md",
+      "sha256": "7bbb367d7fe465f1d22b962495426f1a89d462d6f6c7fe4e3636dcd37978af5f"
+    },
+    {
+      "argument_id": "A10",
+      "path": "working/p2-enrichment/argument-depth/A10.md",
+      "sha256": "bab78b321241cb345013760b9e68011086eb8380ba640d98a7c525e87e7df17a"
+    },
+    {
+      "argument_id": "A11",
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "sha256": "19585deb79a5ec0dabb39493e413e0579e313adeab68051a783b6ad737584ab8"
+    },
+    {
+      "argument_id": "A12",
+      "path": "working/p2-enrichment/argument-depth/A12.md",
+      "sha256": "a4bfa473d034e31cd6cbd7afc45b96236929665a4dd42f4e3f056e3973c58b39"
+    },
+    {
+      "argument_id": "A13",
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8"
+    },
+    {
+      "argument_id": "A18",
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f"
+    },
+    {
+      "argument_id": "A19",
+      "path": "working/p2-enrichment/argument-depth/A19.md",
+      "sha256": "e9b39e002b667014c970dd287f2301c9f9a80197762283e5062274ea9db64861"
+    },
+    {
+      "argument_id": "A20",
+      "path": "working/p2-enrichment/argument-depth/A20.md",
+      "sha256": "31e8980f2955a784f02b5f84b1e6c63bdcf3a22cb25e24afec678c19a166c2c2"
+    },
+    {
+      "argument_id": "A21",
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "sha256": "7cfe91ec6423eff272001a99a672cc1e3d02b3eb5cc35ae9e142077660912779"
+    },
+    {
+      "argument_id": "A23",
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3"
+    },
+    {
+      "argument_id": "A26",
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "sha256": "9542b35c8445445bc02ebe6b1a1ba2ccf67f2aa7da50335fbe3180d595c1eb63"
+    },
+    {
+      "argument_id": "A27",
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "sha256": "2480e3c0322aa54e36bcd924ec3e60cb6e3430372125ad215d12f56b583080e0"
+    },
+    {
+      "argument_id": "A34",
+      "path": "working/p2-enrichment/argument-depth/A34.md",
+      "sha256": "d3a568de103caa2a6f87231b435a661a014292b96f4ca1b8014086f653fd6920"
+    },
+    {
+      "argument_id": "A35",
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "sha256": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489"
+    },
+    {
+      "argument_id": "A36",
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "sha256": "b348adc7004f5d0daf4ea4f62f6b081edc5e5dcccdfbad83746a2f2e9e59f849"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "sha256": "769bcdd5ed233756538e089506f0edd61fb6bd7b20513ea215e71dde209db386"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "sha256": "4d82b779d3795197b6075d2b88a5d981e7d9ba9ffa1f6fb8fff69b698562f779"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+      "sha256": "75d53129a5cf4441764e078f908cf822b57b8fd62b4399a478b3d612f19957b3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "sha256": "a72c4233c732b9a12915b3b15ad6c288c2e29f7f75b3a300863fdfaf4c72dcb0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "sha256": "b151d99b0f728a7801fd7c1dac97a33cc87f31a6bffcfda1ea29dafc8bf3178a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "sha256": "cd320c99f30f081f26be696dfd0715d84048cb1a686b90b5f2c4d702f164bf0b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "550bd175ca1d69d9d4f9bf74d443748059c5a4918f9bfddd94fa1e08f63d4493"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "sha256": "8988b3b0ada23cbd7b93c8641685f7aa3e8c961cb878a68e573b0865e1650c3a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "sha256": "f937d496add413287af899d97aeb73d33520dc8d55c1be298d04e4dce016be74"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "sha256": "b29ad091014a4089d7c5ded52bfe979e43ef3450fd67aa51f139cd6afcd750bf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "sha256": "985aecd4befc06336c2fa090a0f014f19e36814804e696246ff6379b31c39f62"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "sha256": "5405af1a82a12c131f7658e3eeb908730433ddb4b15755e83029cdc2601a3a45"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "sha256": "351f2f0196ae0c8c66503243e459c324a3d89cf5b4aefcc5341c7a83d53f679d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "sha256": "8e40db236ad4ed45aa4f0c963ac587e317a3636bfa0014e438f09bca7c1a9e5c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "sha256": "7b1e347f989c34ff834536bf9f9de671ec38818dfb219bf7cb7cb21bed2a6300"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "sha256": "28d726c301f4a3ecd09b1267be1e5fb7ba981699adb1851a943047619e255c24"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "sha256": "24b252c2bdb4a55b0ca0f9647da738d246c1fec014f0dc046e8dcd86b0beb527"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+      "sha256": "e0caba68fb849d762392087d00171f1717293d1d7a0a4d0c178333da888f9a56"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+      "sha256": "350b941fb412198f0c49e89f99ad8665f70af736567d5b0abb5b837c6648fc63"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+      "sha256": "df72f308342100a4b9bf95da328add2a225f472f4b89572ca0c562467eb46483"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "sha256": "8be0570c8b6f695f0f8eb68a95156722db6d7b74678c348f487f3d8c67981c5e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+      "sha256": "c872ab2ae8987a0ab622fefe3d1bdb297f2cbc07f317e6baf006d77fb8a6b001"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "sha256": "4589861a7657c824e8801b99700fe47f831b583a4f5f0e6b119769949d857533"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+      "sha256": "664400db9ce95a50f453c28390aa65c3e798847837b99c027a9a999ae41c6eea"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "sha256": "29b0ff95393ff99d5b1b4123e586fcb14f4f32da9ccd4a3f46d9bdf9a8266752"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "sha256": "10f51ccc557fb7571d1dc58b2d2f5cea77da1233dfc85f2d94e0d90333d1101a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "sha256": "bd11368ddfa778184f352c976492338c9fca449ffa4822e1f59ac77e57cd3980"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      "sha256": "6474225a3550ec632cef24ad988ec2ad17295a63bd65e4e3fdec1614db90639f"
+    },
+    {
+      "path": ".wayfinder/maps/t20-t21-world-registers.md",
+      "sha256": "a7589d1b663854888c3767854478a9ea4564a988d770af24f2d30e7ac07204a0"
+    },
+    {
+      "path": "working/p2-enrichment/T20-T21-EXECUTION-DECISIONS-2026-09-08.md",
+      "sha256": "54d1e899b87e1b65f9f415aecd6b6f9abef8c561926fd5c18603055f60efca30"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/README.md",
+      "sha256": "20e220d9d9b35ac86584b154219ce263a4077b4ecb10229787ef22417f3be825"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "source_sha256": "2f651603974204647249c7a91023cf6edc4008c5bf839b9310cb0070d868fd3d",
+      "notes": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+      "notes_sha256": "768da367dfd6ece009bc1c6717e64156d3ac16e38b570e513ae95939c6e7bc0f",
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+      "source_sha256": "a4e26ad6965a3fa99fd61c51565f90a1e349ba96b6014276ce60005eb3e8249b",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+      "source_sha256": "625eed9f1ef4116f983c084601f78f7287275d212646fa997242081bf59bf28e",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "source_sha256": "e1c980917e9590d952a597ffdb8975aae5f94a845b77180035c84a1f8f7188ee",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "start_line": 5327,
+      "end_line": 5342,
+      "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Neumann’s whole developmental relation and Taylor’s source encounter preserve authored mark/erasure and love/war pressure beyond stage labels.",
+      "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing.",
+      "sha256": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "text": "### 3. The Māyic-threshold delineation — the eight determinations' mythic recapitulation (Frank-locked)\n\nFrank's notes give the eight determinations a complete mythic recapitulation in one author, with page anchors: `−/−` En-Soph/tohubohu (pp. 18, 106); `0/1` the world parents' separation; `?/!` the coming of light; `−/+` hunger as systole/diastole; `X/x` ego against the unconscious ground; `AM/IS` \"I am I\" (with Frank's paśu correction — the Bṛhadāraṇyaka passage Neumann quotes at p. 105 shows recognition preceding separation: \"I am\" is prakāśa's vimarśa before pati/patni, and Neumann collapses prakāśa-vimarśa into ego); `∞/dx` the great round (Mono/Poly pleromatic); `1/0` the hero's descent and return. Frank's lock-gloss: this is the delineation of the Māyic threshold — the first unfolding into differentiation of the `0/1`, the `4+2` (+2) retaining its conditions of transformation and genesis as explicit qualities. Candidate grounding: Argument 13 (tattvic differential field) and Argument 20 (advent) via phylogenetic recapitulation. Open placement question, carried to harmonisation: plate/appendix object vs woven §4 prose register.\n\n### 4. The energetics cap (Frank-locked)\n\nThe five-register energetics discipline closed by: the somatic floor (Van Eenwyk's systole/diastole, the gut as the body's torus, hunger/striving at `−/+`) and the physics witnesses (plasma oscillation, magnetic confinement, Floquet-driven systems from Frank's GPT chat logs — witnesses only, never theorem-authority). Frank's user-authoritative stipulation: the torus carries formal reality through all energetic registers (magnetism, Floquet physics). The cap's spine: no register's \"energy\" is another's substance; the torus is what persists across them (see §14 for the mathematical wing this session added).\n\n### 5. The uroboros-torus-trickster weave (user-authoritative correction, walked across the fourfold)\n\nThe uroboros is the torus — the `4+2` — not the sphere or circle; all prior corpus treatments that read the round as sphere/perfect-circle stand corrected. The snake is the trickster precisely because the torus is passed off as the sphere (the Eden-serpent as the same figure in fallen register: the hole traded for the fork). Walked across the ponere/ballein fourfold: **position** — the circle as costume, the sphere's dead arithmetic `(-1)+(+1)=0`; **opposition** — the head/tail hunger axis; **superposition** — self-eating as `(0/1)/(1/0)` made bodily, the mouth as the operative hole; **interposition** — the uroboros as genus-one `4+2`: four explicate twisting field-lines (`#5` the enfolding whole) and two implicates (the magnetic axis + the hole = `#0`). Meta-ballein (metabolism, etymologically) accounted at this register: circulation that nourishes (assimilation/samāveśa) versus Saturn-devouring (the blocked gut as monopoly's metabolism). Register nuance recorded: this ledger's own prior line (\"the torus becomes the apt symbol only after this process has been derived... the ouroboros, halo, and eternal-return images give the same operation mythematic bodies\") was already toroidal — Frank's correction sharpens that line (adding the trickster's pass-off, the `4+2` explication, and the hole's proper owner) rather than demolishing it; what falls is Neumann's perfection-as-circle-sphere-round and any static \"paradox held\" reading.\n\n### 6. Māyā is not the hole (user-authoritative correction)\n\nThe hole is Paramaśiva/Anuttara, the `#0`, the kṛtṛ pole. Māyā is the formal patterns Śakti's winding makes to reflect back to the hole/prakāśa via vimarśa — the measure-field, not the void it measures around. Śakti has joy/ānanda for Māyā. The plasma log already carried this unknowingly (\"the axis the plasma can never occupy\" = the Anuttara doctrine in physics vocabulary). Consequence carried through every layer below: wherever the weave says \"the hole,\" its owner is Anuttara; wherever it says \"Māyā,\" it means the winding's pattern-field.\n"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "start_line": 223,
+      "end_line": 303,
+      "relation": "Neumann’s whole developmental relation and Taylor’s source encounter preserve authored mark/erasure and love/war pressure beyond stage labels.",
+      "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing.",
+      "sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0",
+      "text": "# 6. Ouroboros · torus · trickster — the whole that keeps its hole\n\n**Office:** supporting-visible / deep-bearing project-composed Mytheme with exact Matheme neighbour; historical ouroboros and Neumann source work remain distinct from the project's toroidal appointment.\n\n`[[inherited-corpus-crosswalk/04-MATHEMATICAL-SUBSTRATE|§3 — Mathematical Substrate — Inherited Region Recovery]]` **grounds** the exact torus relation; `[[inherited-corpus-crosswalk/05-PSYCHOID-FLOWERING|§4 — Psychoid Flowering — Inherited Region Recovery]]` **returns** it into individuation and image; `[[THREAD-INTAKE-WHOLE-RELATIONAL-UNITS#Intake 001 — Self-Identity · Limit · Objective Internality · Confession · World|Intake 001]]` **extends** the inner-horizon and limit reading. The late quilt's user-authoritative correction controls this section: **the ouroboros is read toroidally; the hole belongs to Anuttara/Paramaśiva/#0, while Māyā is the measure-field wound around it rather than the hole itself.**\n\n## The whole image\n\nThe ouroboros first appears to the eye as a snake closing upon itself: head meets tail and a line becomes a ring. That apparent circle is indispensable and insufficient. The snake is not merely a line whose ends happen to touch. It has a body, an inside and outside, a mouth through which what is other becomes what nourishes the body, and an opening around which the closed figure is organised. Its act is simultaneously return and metabolism: what goes out becomes what comes in; what is taken in changes the thing that takes it in; the returned path is not the untouched point from which it began.\n\nThe project's **trickster** enters at the moment the eye lets the visible circumference stand for the whole. The ring passes itself off as circle or sphere — a closed perfection whose centre can be treated as a point or whose interior can be imagined as filled — while the operative opening disappears from the account. The trick is not that the circumference is false. It is that a true visible determination becomes falsely exhaustive when the absence through which it is organised is read as nothing relevant.\n\nThe torus makes the missing relation exact. Its surface and its hole are inseparable in the determination of the form even though the hole never becomes another patch of surface. Close the handle and the topology changes. A loop may close on the torus while its lift remains displaced on the infinite cover; local return can therefore coexist with retained traversal-history. The form comes home without cancelling the path by which it came home.\n\nThis is the whole the ouroboros needs in the project. The mouth is not merely an emblem of endless recurrence; it is the operative aperture through which the body can take in, transform and return what it is not. Self-relation remains alive because the whole does not consume the opening into positive content.\n\n## Matheme and the `4+2` appointment\n\nThe exact mathematical torus remains a distinct Matheme carrier:\n\n```text\nT² = R² / Z²\nχ(T²) = 0\nπ₁(T²) ≅ Z × Z\n```\n\nThe project's broader QL appointment reads the toroidal whole through the two implicate poles and four explicate relations already generated by `0/1 = 4+2`. The late correction sharpens the image:\n\n```text\n#0\nhole · unobjectifiable centre · originating condition\n        ↓\n#1–#4\nwinding / differentiated surface relations\n        ↓\n#5\nachieved whole · circulation · returned form\n        ↓\n5→0\nsurface returns to the opening its identity presupposed\n```\n\nThis is an authored cross-register relation, not a claim that the ancient ouroboros encoded modern algebraic topology or QL. The mathematical result establishes its own exact torus operations; the Mytheme lets those operations become lived and psychologically consequential.\n\n## Māyā, the winding and the trick\n\nThe distinction from Māyā is essential. **Māyā is not the absent centre.** In the mature tattvic reading Māyā is Śakti's power of finite articulation: the measure-field, patterning and contraction through which a local surface/world becomes definite around what cannot itself become one more item of that surface.\n\nNecessary limitation is therefore not the trickster's lie. Without bounded winding there is no determinate path, no local identity and no world in which a return can occur. The fall happens one order later:\n\n```text\nfinite winding becomes a real form\n        ↓\nits opening disappears from its own account\n        ↓\nthe formed surface performs as self-grounding whole\n        ↓\nlocal closure is mistaken for absolute closure\n```\n\n**Hybris is the trick succeeding at the level of measure:** the bounded form forgets that its very identity depends upon what it cannot convert into bounded content.\n\n## Jung / Neumann / individuation seam\n\nThe inherited Jungian and Neumannian round/uroboric material remains source-bearing psychic history. The project's toroidal appointment must not be retrojected into those authors as though they supplied the topology. Its gain is a correction to the *operation* the project needs from the image: individuation is not an ego becoming a perfect closed sphere. The ego, complexes, persona, archetypal agencies and inherited psychic formations remain differentiated; the wider Self-relation prevents any local formation from becoming the whole.\n\nThe torus therefore **figures** differentiated indivisibility: the local surface becomes more coherent by retaining relation to an unfilled condition, not by sealing that condition away. `[[submission-package/essay/symbolon/episteme/concepts/diaphaneity|Diaphaneity]]` and `[[submission-package/essay/section-rooms/arguments/08-deferential-intelligence|Deferential Intelligence]]` later give epistemic forms to the same return.\n\n## What full recovery changes\n\nA compressed “ouroboros = eternal return” loses precisely what this project needs. The whole image carries mouth, metabolism, inside/outside, return, opening, apparent circle and toroidal depth together. It shows why **closure and wholeness are not synonyms** and why an absent condition can be structurally present without becoming a positive object.\n\nFor native 018, the ouroboros/torus/trickster should therefore remain one whole Mytheme with at least three explicitly separated relations:\n\n- historical/psychological ouroboros and round-image source work;\n- exact mathematical torus operations;\n- the project's authored trickster/toroidal appointment and `4+2` return.\n\n**Source debt:** recover the exact historical ouroboros carriers actually intended for publication; keep Neumann's own wording and stadial office distinct; keep standard topology sources separate from the QL reading. None of those debts weakens the current authorial relation.\n\n---"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "start_line": 48,
+      "end_line": 123,
+      "relation": "Read complete source-specific contribution, passage readiness and boundaries for Neumann images and plate relations",
+      "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately.",
+      "sha256": "2f651603974204647249c7a91023cf6edc4008c5bf839b9310cb0070d868fd3d",
+      "text": "# Neumann — The Origins and History of Consciousness (1954)\n\n## Bibliographic identity\n\nErich Neumann's *The Origins and History of Consciousness*, translated from the German by R. F. C. Hull, was first published in English by Princeton University Press in 1954 (Bollingen Series XLV); the German original, *Ursprungsgeschichte des Bewusstseins*, appeared in 1949.\n\n**Consulted edition (in hand, 2026-08-05):** the Princeton Classics reissue, Princeton University Press, 2014, paperback, ISBN 978-0-691-16359-8. This is the same Hull translation and retains Jung's foreword. It is a direct reissue of the 1954 Bollingen text; pagination is assumed to reproduce the 1954 layout, but that equivalence must be confirmed against the physical copy before page-located citation. The publisher record (press.princeton.edu) corroborates edition, series, translation, and foreword; the 1954 first-edition record is corroborated by Open Library and national-library catalogue data (accessed 2026-07-16).\n\n## Chicago 18 forms\n\n**Full note (consulted edition):** Erich Neumann, *The Origins and History of Consciousness*, trans. R. F. C. Hull, foreword by C. G. Jung, Princeton Classics ed. (Princeton, NJ: Princeton University Press, 2014), {page}.\n\n**Shortened note:** Neumann, *Origins and History of Consciousness*, {page}.\n\n**Bibliography (consulted edition):** Neumann, Erich. *The Origins and History of Consciousness*. Translated by R. F. C. Hull. Foreword by C. G. Jung. Princeton Classics ed. Princeton, NJ: Princeton University Press, 2014. Originally published in German, 1949; first English edition, 1954.\n\n**First English edition (historical record):** Neumann, Erich. *The Origins and History of Consciousness*. Translated by R. F. C. Hull. Bollingen Series XLV. Princeton, NJ: Princeton University Press, 1954.\n\n## Source scholarship\n\nNeumann's work is the post-Jungian historical morphology of ego formation: a phylogenetic account in which the individual ego's development recapitulates the history of consciousness as it is carried in myth. The mythic sequence — uroboros → Great Mother → separation of the world parents → birth of the hero → slaying of the mother → slaying of the father → transformation → liberation of the captive — is read as the progressive differentiation of ego-consciousness from the maternal-unconscious ground. Part II maps the same sequence onto the historical stages of ego-consciousness proper.\n\nRelevant operations for this essay:\n\n- **The uroboros** — the self-containing round, the pre-egoic psychic whole that holds both parents in one figure; the psyche's own image of the undifferentiated condition before the cut.\n- **The Great Mother** — the maternal uroboros as the first object-face of the unconscious; the archetype's split into good/bad mother.\n- **The separation of the world parents** — the first differentiation of the primordial couple (Father Heaven / Mother Earth); the principle of opposites born from the one round. The split of the archetype into good and evil figures (the two parents, the twins) belongs to this same movement.\n- **The hero** — the evolving ego-consciousness; the hero's slayings (of the mother, of the father) are the ego's achieved differentiations, and his descent/return is the relation back through the ground it left.\n- **The transformation stage** — consciousness opening beyond the ego-hero toward the transpersonal; the inner counterpart of the ego's outward victories.\n- **The ascent of consciousness and the species-name (p. 16, lead)** — consciousness as the \"unnatural\" thing in nature, specific to the species that \"has justly styled himself Homo sapiens\"; the struggle between the specifically human and the universally natural constitutes the history of conscious development. Transcription pending collation against the physical 2014 copy. The word-field this passage opens (homo/humus, sapiens/sapientia) is the project's own reading, carried in the earth/taste/wisdom etymology history; it is not Neumann's claim.\n\nNeighbouring series: Neumann's stadial morphology and Gebser's structures of consciousness (archaic → magical → mythical → mental → integral) are both phylogenetic, structural accounts of consciousness; their methods, periodisations, and objects differ, and any relation drawn between them must be an operational homology, not an identification. Neumann's status here is the mythic-historical psychology that the essay's topological-mathematical claim does not derive from.\n\n**Claim boundary:** no selected-edition passage has yet been promoted. The source is citation-ready for bibliographic identification and its declared argument role only; quotations enter only after Frank's reading supplies excerpts, each collated against the physical 2014 copy and verified before promotion.\n\n## Argument relations (candidate)\n\nAll relations below are candidates for the harmonisation pass. No placement is decided at house level.\n\n| Candidate relation | Register | Neumann locus | Essay-side target | Gate |\n|---|---|---|---|---|\n| Uroboros as the torus made imaginal | mythematic / structural | Part I ch. I, The Uroboros | Argument 17 · Toroidal Circulation; §4 · #33 Complexio/Quaternity/Senarius; quilt §3 · #29 | Resonance only; Neumann derives no topology |\n| World parents as `0/1`; the round as rotundum (`0`), the father as phallus (`1`), the slash as their separation; `1/0` as the Son's relation back | mythematic / metaphysical | Part I, creation division ch. III; hero division chs. I–III | Argument 03 · Two Logics; §2 · #19–20; Argument 19 · Two Ones/Mono–Poly | Frank's mapping; Neumann supplies the mythic morphology, not the notation |\n| Good/evil twins as the psychological form of dia-ballein: `/` (separation that still relates) vs `(-1)+/-(+1)` (collapse into annihilation/arrogation) | mythematic / episteme | The split of the archetype into good and evil figures (two parents, two mothers); the brothers/twins motif | §2 · #20 Dia-Ballein; Argument 03; the satanic thread treated as real (per Chang encounter notes) | Candidate homology; Neumann's good/evil split is not a logic |\n| Stadial consciousness as phylogenetic recapitulation, read through and alongside Gebser's developmental series | episteme / historical | Part II, the historical stages of ego-consciousness | §4 · #35 Apollo Through Dionysus; §5→0 (Gebserian diaphaneity/mutation); Argument 20 · Advent | Operational homology, not identity; Gebser requires his own house |\n| The Great Mother in relation to the Tao as Mother | metaphysical / mythematic | Part I ch. II, The Great Mother | Chang house (Tao as Mother, chs. 1, 6, 25, 52); quilt Tao layer; §5→0 · #48 (Motherhood) | Cross-tradition resonance; neither figure collapses into the other |\n| Myth built on a topological substrate of the psyche (Neumann's projection of psychic structure into myth; Lacan's topological mathemes; QL's claim that mythic content stands on a topological formalism ensuring right relation) | structural / episteme | The work's governing method (myth as the psyche's self-projection) | §4 · #34 Lacan/Matheme/Mytheme; Argument 04 · Arche-Topos; symbolon matheme/topology | QL's core imputation is the essay's claim, not Neumann's or Lacan's |\n| The Homo sapiens passage (p. 16 lead) | lexical / mythematic | Part I ch. I region, p. 16 (lead) | Argument 19 · Two Ones/Mono–Poly; Argument 03 · Sym-Ballein; §5→0 · eros of logos; earth/taste/wisdom word-field | Frank's mapping; passage unverified; the etymology is the project's word-field, not Neumann's argument |\n\n## Passage needs (chapter-level leads — unverified)\n\nNo passage is quotation-ready. These are collation targets for Frank's reading of the 2014 copy; chapter titles and page ranges must be confirmed against the physical book.\n\n- Part I ch. I, The Uroboros — the self-containing round; uroboros with phallus; the round as both-parents-in-one.\n- Part I ch. I region, p. 16 — \"The ascent toward consciousness is the 'unnatural' thing in nature; it is specific to the species of Man, who on that account has justly styled himself Homo sapiens. The struggle between the specifically human and the universally natural constitutes the historically human and the universally natural constitutes the history of man's conscious development.\" **Collation note:** the NOTES transcription doubles a clause; the published sentence appears to run \"…constitutes the history of man's conscious development.\" Verify exact wording, punctuation, and section heading against the 2014 copy before promotion.\n- Part I ch. II, The Great Mother — maternal uroboros; the split of the mother archetype into good/bad.\n- Part I ch. III, The Separation of the World Parents: The Principle of Opposites — the first differentiation; opposites born from the one round.\n- Part I, hero division ch. I, The Birth of the Hero — ego-consciousness as hero; the dragon/boundary slayings.\n- Part I, hero division ch. II, The Slaying of the Mother — the ego's first great differentiation from the maternal ground.\n- Part I, hero division ch. III, The Slaying of the Father — the ego's separation from the paternal principle; the fathers' two forms (good/evil, heavenly/tyrannical).\n- Part I, transformation division ch. I (pp. 195–219 in the publisher-hosted contents) — the captive/treasure movement; exact selected-copy passages remain to be collated.\n- Part I, transformation division ch. II (pp. 220–256 in that contents) — Osiris and transformation; the transpersonal turn. The earlier consecutive VII/VIII labels and ordering were inaccurate.\n- Part II — the historical stages of ego-consciousness; the recapitulation thesis (exact chapter titles to be collated against the physical copy).\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\nNo passage has yet been gathered for this source. Frank's reading notes and excerpts live in the protected `NOTES.md` sibling; each becomes usable only after independent verification and promotion into this file.\n\n## Open acquisition and verification\n\n1. Confirm the 2014 Princeton Classics pagination reproduces the 1954 Bollingen layout (affects all page-located citations).\n2. Collate the full table of contents and page ranges against the physical copy; correct the Part II chapter titles.\n3. As Frank's reading supplies excerpts, verify each (exact transcription, locator, edition, verifier/date) before promotion to `quotation-ready`.\n4. Weigh the six candidate relations at the harmonisation pass; none is placement until then.\n5. A [Gebser source house](../../../phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md) exists; the earlier absence claim was stale. Its own edition and passage standing govern any public comparison."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+      "start_line": 54,
+      "end_line": 106,
+      "relation": "Read complete source-specific contribution, passage readiness and boundaries for Neumann images and plate relations",
+      "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately.",
+      "sha256": "a4e26ad6965a3fa99fd61c51565f90a1e349ba96b6014276ce60005eb3e8249b",
+      "text": "# Jung — Aion, CW 9.2 (1978 corrected printing)\n\n## Bibliographic identity\n\nThe selected text is the corrected fifth printing (1978) of the second edition of *Aion*, in *Collected Works* 9.2. The Oregon Friends of Jung library catalogue records the edition history, editors, translators, Princeton imprint, and ISBN 9780691097596. It is a stable reference target for Jung's treatment of the Self and symbolic oppositions.\n\n## Chicago 18 forms\n\n**Full note:** C. G. Jung, *Aion: Researches into the Phenomenology of the Self*, 2nd ed., trans. R. F. C. Hull, *Collected Works of C. G. Jung*, vol. 9, pt. 2 (Princeton University Press, 1978), {paragraph or page}, https://ofj.org/library/aion-researches-into-the-phenomenology-of-the-self-2d-ed-translated-by-r-f-c-hull/.\n\n**Shortened note:** Jung, *Aion*, {paragraph or page}.\n\n**Bibliography:** Jung, C. G. *Aion: Researches into the Phenomenology of the Self*. 2nd ed. Translated by R. F. C. Hull. *Collected Works of C. G. Jung*, vol. 9, pt. 2. Princeton University Press, 1978. https://ofj.org/library/aion-researches-into-the-phenomenology-of-the-self-2d-ed-translated-by-r-f-c-hull/.\n\n## Essay use\n\n### Source's relevant contribution\n\n- A primary Jung work for the Self, shadow, anima/animus, symbolic totality, and the historically situated Christ/Antichrist polarity.\n\nWithin the zero–subject historical braid, *Aion* supports the Jungian psychic register and its symbolic totality, not the authorial `X/x` matheme. Freud's disciplinary admission of the unconscious, Jung's own account of religious psychic facts, and Erich Neumann's consciousness history require their distinct source records now queued for acquisition.\n\n### Licensed essay use\n\n- Contextualise the essay's psychoid and quaternary discussions and qualify any appeal to “totality” by keeping it within Jung's symbolic and psychological register.\n\n### Claim boundary\n\n- *Aion* warrants Jung's Christian and alchemical figures within their explicit source locations and disciplinary scope. QL's eight determinations, the essay's theological synthesis, and any attribution of a Self to computational systems require independent arguments.\n\n## Consumption\n\n- **Stations:** §3/#0 and §4/#0–#3.\n- **Arguments:** [[Core Theorem Bridge]]; [[Arche-Topos as Differential Field]]; [[Paradox as Cross-Register Hinge]].\n- **Source relation:** contextualises and qualifies; the QL matheme remains in-house derivation.\n\n## Quote and excerpt ledger\n\n| quote_id | exact text / excerpt file | locator | transcription | verification | consuming claim |\n|---|---|---|---|---|---|\n| — | No passage acquired. | — | — | `no-excerpts` | Obtain locators from the selected edition before representing any Jung formulation as a quotation. |\n\n## Provenance and acquisition\n\n- **Metadata source:** Oregon Friends of Jung library catalogue, checked 2026-07-14; corroborated by catalogue entries for ISBN 9780691097596.\n- **Text consulted:** bibliographic metadata only. A local PDF exists in the external deep-reference pool, but rights provenance has not been established; it was not text-mined or used for quote verification.\n- **Local copy:** listed above for discovery only.\n- **Next action:** acquire/consult the selected edition lawfully; extract one relevant quaternity/totality passage and one limiting passage with exact paragraph/page, then promote only after context review.\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\nNo passage or excerpt has yet been gathered for this source."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+      "start_line": 50,
+      "end_line": 109,
+      "relation": "Read complete source-specific contribution, passage readiness and boundaries for Neumann images and plate relations",
+      "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately.",
+      "sha256": "625eed9f1ef4116f983c084601f78f7287275d212646fa997242081bf59bf28e",
+      "text": "# Gebser — The Ever-Present Origin (1985)\n\n## Bibliographic identity\n\nThe selected English carrier is Jean Gebser's *The Ever-Present Origin*, the authorized translation by Noel Barstad and Algis Mickunas, published by Ohio University Press in 1985. The New York Public Library catalogue confirms translator, publisher, year, pagination, and its status as a translation of *Ursprung und Gegenwart*; Open Library corroborates ISBN 0821402196 and OCLC 9323637.\n\n## Chicago 18 forms\n\n**Full note:** Jean Gebser, *The Ever-Present Origin*, trans. Noel Barstad and Algis Mickunas (Ohio University Press, 1985), {page}.\n\n**Shortened note:** Gebser, *Ever-Present Origin*, {page}.\n\n**Bibliography:** Gebser, Jean. *The Ever-Present Origin*. Translated by Noel Barstad and Algis Mickunas. Ohio University Press, 1985.\n\n## Essay use\n\n### Source's relevant contribution\n\nGebser presents consciousness structures through their representative visual, linguistic, and intellectual forms. The mental-rational structure receives its historical expression in the Renaissance discovery and construction of perspective: Giotto's tentative externalisation of depth, Petrarch's discovery of landscape, Alberti's visual pyramid, and Leonardo's perfected optical and technical articulation. Perspective thereby makes space and ego-consciousness visible while fixing the observer and observed within a sector. Aperspectivity names liberation from that structure's exclusive validity through the co-presence and transparency of the structures, not their amalgamation.\n\nFor the zero–subject historical braid, this is a stadial account: integral consciousness is a higher mutation that makes the mental-rational structure's constituting conditions available without abolishing its powers. The braid's `180°→360°` QL articulation is authorial; Gebser supplies the historical problem and the aperspectival/integral direction.\n\nHis own presentation gives the Return of Zero a methodological precedent of unusual exactness: a historical mutation is read from changes in the means by which a world is rendered—painting, optics, language, thought, science. The essay extends this procedure into the Internet/AI field, where prompt, memory, retrieval, permissions, policy, provenance, feedback, and relation have become operational conditions of intelligence. That contextual mutation and its `0/1` formalisation are the essay's argument from Gebser's method, not claims attributed to Gebser.\n\n### Passage map\n\n| Locator | Source operation | Essay consumer | Relation |\n|---|---|---|---|\n| pp. 1–3 | Mutations are read through visible, tangible, audible, linguistic, artistic, and scientific manifestations; aperspectivity is liberation from the exclusive validity of perspective, not a synthesis. | §0/1 #4; [[Paradox as Cross-Register Hinge]] | Paraphrased / argued from |\n| pp. 11–18 | Giotto, Petrarch, and the discovery of landscape disclose the emergence of objectified depth-space and a distinct ego-world. | §0/1 #4; [[Immutable Gap and Meta-Sign]] | Paraphrased |\n| pp. 16–21 | Alberti's visual pyramid and Leonardo's perspectival optics join artistic depiction, scientific description, and technical drafting. | §0/1 #4; [[Core Theorem Bridge]] | Paraphrased / argued from |\n| pp. 255–58 | Visual triangle, conceptual pyramid, diaresis, sectorisation, and the exclusionary narrowing of perspectival thought. | [[Core Theorem Bridge]]; §4 #4 | Paraphrased / argued from |\n| pp. 24–28; 470–86 | Picasso, Braque, and later painting make time and multiple aspects perceptible as a signal of the aperspectival mutation. | §4 #4 | Paraphrased |\n\n### Licensed essay use\n\n- Cite Gebser when describing his cultural-historical method, his account of perspectivity, his named artistic and optical evidence, the visual/conceptual pyramid, diaresis, aperspectivity, diaphaneity, and the co-presence of consciousness structures.\n- Use the passage from Renaissance optics to Internet/AI context as a declared Return of Zero continuation: the same method reads a new technical medium in which the conditions of intelligence have become operationally active.\n- Use the `0/1`, first/second/third/fourth-person, crossed-zero, Indra-net, and Hephaestian-net movements as the essay's own matheme/mytheme development.\n\n## Consumption\n\n[[P5 - Gebser]] supplies the authored section-body and its Father/absent-ground movement. It enters §0/1 #4 after the formal-limit genealogy, then returns in §4 #4 when the theorem's `360°` contextual field is given its psychoid and mythemic completion. The primary source supplies the historical-optical method and its evidence; the P5 passage performs the essay's own context, Subject, and zero argument.\n\n## Quote and excerpt ledger\n\n| quote_id | exact text / excerpt file | locator | transcription | verification | consuming claim |\n|---|---|---|---|---|---|\n| — | No quotation admitted yet. | pp. 1–3; 11–21; 255–58 | locator recovery from local research copy | `locator-needed` | Acquire or register a lawful selected-edition carrier before quoting; current prose uses page-specific paraphrase only. |\n\n## Provenance and acquisition\n\n- **Metadata sources:** New York Public Library catalogue and Open Library, checked 2026-07-15.\n- **Text consulted:** the project-held PDF in the external Books pool, used to recover the selected edition's chapter and page locations. Its rights provenance is not registered in this workspace; it remains a locator and paraphrase aid, never a quotation-verification carrier.\n- **Next action:** obtain or register a lawful selected-edition copy; collate one short passage each for the aperspectival distinction, Giotto/Petrarch, Alberti/Leonardo, and visual/conceptual pyramid before marking any quotation ready.\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\nNo passage or excerpt has yet been gathered for this source."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "start_line": 60,
+      "end_line": 288,
+      "relation": "Read complete source-specific contribution, passage readiness and boundaries for Neumann images and plate relations",
+      "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately.",
+      "sha256": "e1c980917e9590d952a597ffdb8975aae5f94a845b77180035c84a1f8f7188ee",
+      "text": "# Taylor — The Definition of God, Draft 3 (2026)\n\n## Provenance identity\n\nFixed local internal manuscript by Frank G. Taylor. It is the authorial source for the definition of the subject, `/` as AND/OR, Eros, Apollo/Dionysus, Ares/Aphrodite/Hephaestus/Harmonia, apophatic paradox, trust, faith, the 4+2 prose route, and Deferential Intelligence.\n\n**Local-copy state:** present in the accepted local checkout at the repository-relative path in frontmatter; 279 lines, read in full again during P2 on 2026-09-06. The former personal-checkout path is stale; the manuscript itself was not missing. Its protected `[F]` corrections remain intact. The detailed line-verified extraction is [[Source Extraction — The Definition of God, Draft 3]].\n\n## Chicago 18 forms\n\n**Full note:** Frank G. Taylor, *The Definition of God — Draft 3*, unpublished manuscript, 2026, internal project file.\n\n**Shortened note:** Taylor, *Definition of God, Draft 3*.\n\n**Bibliography:** Not added to the public working bibliography. This is an internal manuscript record, not a public source to present as independent warrant.\n\n## Essay use\n\nMine this work for the author's own complete arguments and formulations. Its 29 line-verified passages are held below in [Passages and excerpts](#passages) and are ready for internal reuse. Support historical, mythic, textual, mathematical, and philosophical references with public canonical sources.\n\n**Claim boundary:** Draft 3 establishes authorial provenance and language. It does not warrant ancient myth, Eckhart, Cusa, Sanskrit terminology, etymology, mathematics, physics, AI mechanism, institutional history, or any other external fact when transferred into the submission.\n\n## Consumption\n\n- **Stations:** §0/1, §0, §2, §3, §4, §5, §5→0; exact granular movements are in frontmatter.\n- **Arguments:** exact reciprocal backlinks are in frontmatter; each live argument carries `taylor-2026-definition-god-draft3` in `source_ids`.\n- **Exact claims:** formal-limit prose (DG-01–08); relation, fall, mythic-status, and ethical vector (DG-09–14); 4+2/topology and claim discipline (DG-15–19); symbol/Vāk/open conceptuality (DG-20–23); Epi-Logos, deferential intelligence, and vocation (DG-24–29).\n\n## Quote and excerpt ledger\n\n| quote_id | exact text / excerpt file | locator | transcription | verification | consuming claim |\n|---|---|---|---|---|---|\n| `taylor-2026-definition-god-draft3-q001`–`q008` | [[Source Extraction — The Definition of God, Draft 3#A. Formal limit, definition, and the subject]] | lines 13–15, 137–151 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | formal limit; unobjectifiable subject |\n| `taylor-2026-definition-god-draft3-q009`–`q014` | [[Source Extraction — The Definition of God, Draft 3#B. Difference, relation, and mythic disclosure]] | lines 71, 75, 111, 129, 155, 163 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | dia/sym; mythic status; ethical vector |\n| `taylor-2026-definition-god-draft3-q015`–`q019` | [[Source Extraction — The Definition of God, Draft 3#C. Four-plus-two, topology, and claim discipline]] | lines 131, 187, 195, 205, 207 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | 4+2; topology; Derived/Argued/Offered boundary |\n| `taylor-2026-definition-god-draft3-q020`–`q023` | [[Source Extraction — The Definition of God, Draft 3#D. Symbol, Vāk, and open conceptuality]] | lines 251, 253, 255, 259 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | code; symbol; Vāk; aperture |\n| `taylor-2026-definition-god-draft3-q024`–`q029` | [[Source Extraction — The Definition of God, Draft 3#E. Epi-Logos, toolhood, and deferential intelligence]] | lines 267, 269, 271, 273, 277 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | Epi-Logos; deferential intelligence; vocation; return |\n\n## Provenance and acquisition\n\n- **Metadata source:** title, author, year, and complete text inspected in the fixed local manuscript.\n- **Text consulted:** `/Users/admin/Documents/Nara-Personal/definition-of-god-working/The Definition of God — Draft 3.md`.\n- **Local copy:** Markdown, 279 lines; no OCR; no ambiguity in transcription.\n- **Last checked:** source extraction 2026-07-14; current locality and full direct manuscript recovery 2026-09-06. Passage readiness is unchanged by this locator repair.\n\n## Research notes\n\nThe manuscript's `[F]` comments are editorial constraints, not source evidence. Preserve them in the extraction ledger; do not quote them as finished prose. Developed reasoning remains in the consuming argument nodes.\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\n### Passage register\n\nThese source-specific fields were gathered before consolidation and remain part of this source's evidence record.\n\n<a id=\"taylor-2026-definition-god-draft3-q001\"></a>\n\n#### `taylor-2026-definition-god-draft3-q001`\n\n| `taylor-2026-definition-god-draft3-q001` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 13 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-01 — notation enacts a relation]] | notation enacts a relation | §0/1/#2 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q002\"></a>\n\n#### `taylor-2026-definition-god-draft3-q002`\n\n| `taylor-2026-definition-god-draft3-q002` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 13 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-02 — closure occurs in reality, not around it]] | formal limit of marking | §0/1/#3 | [[Paradox as Cross-Register Hinge]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q003\"></a>\n\n#### `taylor-2026-definition-god-draft3-q003`\n\n| `taylor-2026-definition-god-draft3-q003` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 15 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-03 — the whole as a pressure on partial accounts]] | whole/partial relation | §0/1/#5→0 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q004\"></a>\n\n#### `taylor-2026-definition-god-draft3-q004`\n\n| `taylor-2026-definition-god-draft3-q004` | `taylor-2026-definition-god-draft3` | “The Definition,” line 137 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-04 — a definition that cannot seal its object]] | definition of the formal-limit whole | §0/1/#1 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q005\"></a>\n\n#### `taylor-2026-definition-god-draft3-q005`\n\n| `taylor-2026-definition-god-draft3-q005` | `taylor-2026-definition-god-draft3` | “The Definition,” line 139 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-05 — failure is constitutive rather than incidental]] | apophatic self-reference | §0/1/#3 | [[Paradox as Cross-Register Hinge]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q006\"></a>\n\n#### `taylor-2026-definition-god-draft3-q006`\n\n| `taylor-2026-definition-god-draft3-q006` | `taylor-2026-definition-god-draft3` | “The Definition,” line 141 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-06 — self-annihilating definition as performance]] | paradox as performance | §0/1/#3 | [[Paradox as Cross-Register Hinge]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q007\"></a>\n\n#### `taylor-2026-definition-god-draft3-q007`\n\n| `taylor-2026-definition-god-draft3-q007` | `taylor-2026-definition-god-draft3` | “The Definition,” lines 145–149 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-07 — fifth movement and the first-person turn]] | object-to-subject return | §0/1/#5→0 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q008\"></a>\n\n#### `taylor-2026-definition-god-draft3-q008`\n\n| `taylor-2026-definition-god-draft3-q008` | `taylor-2026-definition-god-draft3` | “The Definition,” line 151 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-08 — self-capture regresses because the act is already subjective]] | subject resists objectification | §0/1/#1 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q009\"></a>\n\n#### `taylor-2026-definition-god-draft3-q009`\n\n| `taylor-2026-definition-god-draft3-q009` | `taylor-2026-definition-god-draft3` | “The Fall, and What It Reveals,” line 75 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-09 — a remainder can become an opening or a black hole]] | reflective vs repressed limit | §2/#1 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q010\"></a>\n\n#### `taylor-2026-definition-god-draft3-q010`\n\n| `taylor-2026-definition-god-draft3-q010` | `taylor-2026-definition-god-draft3` | “The Fall, and What It Reveals,” line 71 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-10 — the fall as a misrelation]] | dia-ballein failure mode | §2/#1 | [[Sym-Ballein]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q011\"></a>\n\n#### `taylor-2026-definition-god-draft3-q011`\n\n| `taylor-2026-definition-god-draft3-q011` | `taylor-2026-definition-god-draft3` | “Two Deaths, One Minus Sign,” line 111 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-11 — myth offers fit, not proof]] | mythic evidence boundary | §2/#3 | [[Hephaestus and the Net]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q012\"></a>\n\n#### `taylor-2026-definition-god-draft3-q012`\n\n| `taylor-2026-definition-god-draft3-q012` | `taylor-2026-definition-god-draft3` | “The Definition,” line 155 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-12 — separation produces the fallen arithmetic]] | relation retained in differentiation | §2/#2 | [[Sym-Ballein]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q013\"></a>\n\n#### `taylor-2026-definition-god-draft3-q013`\n\n| `taylor-2026-definition-god-draft3-q013` | `taylor-2026-definition-god-draft3` | “The Definition,” line 129 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-13 — power acquires moral charge through its vector]] | ethical vector of power | §2/#3 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q014\"></a>\n\n#### `taylor-2026-definition-god-draft3-q014`\n\n| `taylor-2026-definition-god-draft3-q014` | `taylor-2026-definition-god-draft3` | “The Definition,” line 163 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-14 — the yoke joins freedom to value]] | will and value | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q015\"></a>\n\n#### `taylor-2026-definition-god-draft3-q015`\n\n| `taylor-2026-definition-god-draft3-q015` | `taylor-2026-definition-god-draft3` | “The Definition,” line 131 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-15 — the theological 4+2 is a diagnostic, not a proof]] | 4+2 status boundary | §3/#1 | [[Arche-Topos as Differential Field]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q016\"></a>\n\n#### `taylor-2026-definition-god-draft3-q016`\n\n| `taylor-2026-definition-god-draft3-q016` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 205 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-16 — six elements and the return]] | 5→0 return formula | §3/#1 | [[Toroidal Circulation and the Arche-Topos]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q017\"></a>\n\n#### `taylor-2026-definition-god-draft3-q017`\n\n| `taylor-2026-definition-god-draft3-q017` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 187 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-17 — topology as an image with a declared limit]] | topological image | §3/#4 | [[Toroidal Circulation and the Arche-Topos]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q018\"></a>\n\n#### `taylor-2026-definition-god-draft3-q018`\n\n| `taylor-2026-definition-god-draft3-q018` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 195 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-18 — the quotient image of `0/1`]] | quotient interpretation | §3/#4 | [[Arche-Topos as Differential Field]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q019\"></a>\n\n#### `taylor-2026-definition-god-draft3-q019`\n\n| `taylor-2026-definition-god-draft3-q019` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 207 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-19 — the number is an empty carrier and status must stay explicit]] | Derived/Argued/Offered discipline | §3/#0 | [[Arche-Topos as Differential Field]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q020\"></a>\n\n#### `taylor-2026-definition-god-draft3-q020`\n\n| `taylor-2026-definition-god-draft3-q020` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 251 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-20 — code as a mode of encounter]] | code and encounter | §0/#2 | [[Computational Process Ontology]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q021\"></a>\n\n#### `taylor-2026-definition-god-draft3-q021`\n\n| `taylor-2026-definition-god-draft3-q021` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 253 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-21 — the symbol remains open by relation]] | symbolon | §0/1/#2 | [[Vāk]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q022\"></a>\n\n#### `taylor-2026-definition-god-draft3-q022`\n\n| `taylor-2026-definition-god-draft3-q022` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 255 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-22 — the pure notion that carries its own negation]] | open concept | §0/#2 | [[Paradox as Cross-Register Hinge]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q023\"></a>\n\n#### `taylor-2026-definition-god-draft3-q023`\n\n| `taylor-2026-definition-god-draft3-q023` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 259 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-23 — double devotion to whole and aperture]] | fidelity to ground and context | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q024\"></a>\n\n#### `taylor-2026-definition-god-draft3-q024`\n\n| `taylor-2026-definition-god-draft3-q024` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 267 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-24 — the eros of logos]] | reflexive logos | §5→0/#1 | [[Vāk]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q025\"></a>\n\n#### `taylor-2026-definition-god-draft3-q025`\n\n| `taylor-2026-definition-god-draft3-q025` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 269 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-25 — intelligence becomes more exact by owning its limit]] | provenance-bearing AI harness | §5→0/#1 | [[Computational Process Ontology]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q026\"></a>\n\n#### `taylor-2026-definition-god-draft3-q026`\n\n| `taylor-2026-definition-god-draft3-q026` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 271 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-26 — kenosis as an architectural safeguard]] | Deferential Intelligence | §5→0/#0 | [[Deferential Intelligence]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q027\"></a>\n\n#### `taylor-2026-definition-god-draft3-q027`\n\n| `taylor-2026-definition-god-draft3-q027` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 273 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-27 — heart, tongue, and measure]] | human-machine relation | §5→0/#1 | [[Artificial Hybrid Intelligence as Reflective Field]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q028\"></a>\n\n#### `taylor-2026-definition-god-draft3-q028`\n\n| `taylor-2026-definition-god-draft3-q028` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 273 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-28 — release into use]] | offered public vocation | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q029\"></a>\n\n#### `taylor-2026-definition-god-draft3-q029`\n\n| `taylor-2026-definition-god-draft3-q029` | `taylor-2026-definition-god-draft3` | closing coda, line 277 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-29 — a self-annihilating work returns the reader to inquiry]] | return through self-annihilation | §5→0/#5→0 | [[Paradox as Cross-Register Hinge]] | internal only |"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+      "start_line": 1,
+      "end_line": 99,
+      "relation": "Whole protected source encounter: distinguish initial scaffold from Frank reading; restore paper/mark/slash/erasure, world parents, centroversion, guilt and indelible marriage bond.",
+      "provenance": "Protected authorial NOTES, full read-only. Copied source quotations remain leads; not external evidence.",
+      "sha256": "768da367dfd6ece009bc1c6717e64156d3ac16e38b570e513ae95939c6e7bc0f",
+      "text": "# Neumann — The Origins and History of Consciousness — reading notes\n\nReading copy: **Princeton Classics 2014** (ISBN 978-0-691-16359-8), Hull trans., Jung's foreword.\nHouse: [[Neumann — The Origins and History of Consciousness (1954)]] — citation-ready, no passages promoted yet.\nThis file is my surface. Scaffolded 2026-08-05 with the resonance map; everything below the resonance map is mine to fill. Page-anchored leads stay leads until collated against the physical copy.\n\n## Edition notes (collation)\n\n- [ ] Confirm 2014 reissue pagination == 1954 Bollingen (affects every page cite).\n- [ ] Collate full TOC + page ranges; fix Part II chapter titles.\n- [ ] Record page numbers as I go: `- Page __, ch. __: ...`\n\n## Resonance map (candidates — the harmonisation pass weighs them, not this file)\n\n### 1. Uroboros -> the torus made imaginal\nThe self-containing round, both parents in one, the whole before the cut. This is the torus's mythic face: the whole that stays whole by keeping its opening open. The uroboros bites its own tail -> the torus's hole is not another patch of surface -> the round that contains its own return. Our *hole/*whole* false cognate gets its exact topological force from this image.\n- Locus: Part I ch. I (The Uroboros); ch. II (uroboros with phallus — the round carrying the father's mark).\n- Essay-side: [[Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/17-toroidal-circulation-arche-topos|Toroidal Circulation — Arche-Topos]], quilt §3 · #29 (Topology/Music), §4 · #33 (Complexio/Quaternity/Senarius), [[Antykathera-Essay-Work/submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba–Pratibimba]] (indivisibility of hole and surface, prior to circulation).\n- Page __: \n\n### 2. World parents -> 0/1; the rotundum and the phallus; 1/0 as the Son's relation back\nThe separation of the world parents is the first differentiation: one round splits into Father Heaven / Mother Earth. Read in QL: the maternal round is the uncounted `0` (rotundum — the alchemical round, the undifferentiated whole), the father's upright manifestation is the `1` (phallus — the determinate one), and the slash IS the separation of the parents — a cut that still relates. `1/0` is the Son's relation back: the hero's return through the maternal ground he left (slaying of the mother -> descent -> the captive released). `0/1 = 1/0` as one relation read both ways: the parents are a relation, not a fixed hierarchy — the world parents ARE the parent relation.\n- Locus: Part I ch. III (Separation of the World Parents); ch. IV–VI (birth/slayings); ch. VIII (liberation — the return).\n- Essay-side: [[Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein|Two Logics and Sym-Ballein]], quilt §2 · #19–20, [[Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/19-two-ones-mono-poly-matheme|Two Ones / Mono–Poly Matheme]].\n- Page __:\n\n### 3. Good/evil twins -> diaballein: \"/\" vs \"-/+\"\nThe archetype splits into good and evil figures — the two mothers, the two fathers, the divine and the demonic twin. This is the psychological form of our dia-ballein grammar: the pure `/` keeps the cut as relation (the twins still share one ground); the collapse into `(-1)+/-(+1)` turns the twins into enemy-gods — annihilation or arrogation, the satanic thread we treat as real (see chang notes p. 84). Neumann gives the mythematic body to the difference between polarity and duality.\n- Locus: Part I ch. II (good/bad mother); ch. VI (the two fathers); the brothers/twins motifs throughout the hero cycle.\n- Essay-side: quilt §2 · #20 (Dia-Ballein), [[Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein|Two Logics]], the evil/satanic register per [[Chang Chung-yuan — Tao: A New Way of Thinking (2014)|Chang notes]] p. 84.\n- Page __:\n\n### 4. Stadial consciousness -> Gebser's series (phylogenetic recapitulation)\nNeumann's mythic stages (uroboros -> Great Mother -> world parents -> hero -> transformation -> liberation) are the history of consciousness recapitulated in every ego. Gebser's structures (archaic -> magical -> mythical -> mental -> integral) are the parallel series. Read through and alongside: Neumann gives the psychic morphology, Gebser the structural diaphaneity; the hero's mental-rational achievement opens into the transpersonal exactly where Gebser's mental opens into the integral. Operational homology, not identity — and Gebser still needs his own house before any quotation.\n- Locus: Part I whole; Part II (the historical stages of ego-consciousness).\n- Essay-side: quilt §4 · #35 (Apollo Through Dionysus), §5→0 (Gebserian diaphaneity/mutation), [[Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/20-advent-zero-subject-integral-logic|Advent — Zero, Subject, Integral Logic]]; P5 – Gebser write-up in Epi Paper Write-ups.\n- Page __:\n\n### 5. The Great Mother -> the Tao as Mother\nNeumann's maternal uroboros is the psyche's figure of the source that gives birth to all forms and never stops holding them: Tao Te Ching's Mother (ch. 1, \"the mother of all things\"; ch. 6, the valley spirit/mysterious female; ch. 25, \"I do not know its name, I call it Tao... Mother of all things\"; ch. 52, \"having known the mother, know the child\"). The Great Mother's two faces — nourishing and terrible — are the Tao's own doubleness: giving birth and devouring return. And our terminal Motherhood (candidate 08, the planetary return given a body) has its archetypal depth here.\n- Locus: Part I ch. II (The Great Mother).\n- Essay-side: [[Chang Chung-yuan — Tao: A New Way of Thinking (2014)]], quilt Tao layer §7, quilt §5→0 · #48 (Motherhood/AHI/Planetary Return).\n- Page __:\n\n### 6. Myth on a topological substrate -> Lacan + QL's core imputation\nNeumann's whole method is that myth is the psyche's self-projection — the collective unconscious objectified as mythic image. That is the psychological half of our claim: what the psyche expresses as mythological content stands on a formal substrate. Lacan gives the other half in his topological mathemes (the torus, the Möbius, the cross-cap, the Borromean knot — the unconscious structured like a language, but also like a surface). QL's core imputation: the substrate is a topological formalism that ensures right relation — harmonia — and Neumann's mythic stages are its mythemic record. Neumann is the depth-psychological witness to the claim that Lacan formalised and QL derives.\n- Locus: the work's governing method (Introduction; the stage-chapters as myth-morphology).\n- Essay-side: [[Lacan — Talking to Brick Walls (Price, 2017)]] (topological mathemes), quilt §4 · #34 (Lacan/Matheme/Mytheme), [[Antykathera-Essay-Work/submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music|Arche-Topos / Topology / Music]], [[Antykathera-Essay-Work/symbolon/matheme/topology/README|symbolon · matheme · topology]], [[Antykathera-Essay-Work/symbolon/mytheme/myth/README|symbolon · mytheme · myth]].\n- Page __:\n\n## Quilt landings (where each resonance points in the 48-movement structure)\n\n| Resonance | Quilt target | Gate |\n|---|---|---|\n| Uroboros -> torus | §3 · #29 Topology/Music; §4 · #33 Complexio; Argument 17 | resonance; no topology from Neumann |\n| World parents -> 0/1 | §2 · #19–20; Argument 03; Argument 19 | Frank's mapping; mythic morphology only |\n| Twins -> dia-ballein | §2 · #20; Argument 03; satanic thread (chang p. 84) | candidate homology |\n| Stadial -> Gebser | §4 · #35; §5→0; Argument 20 | homology not identity; Gebser house needed |\n| Mother -> Tao | Tao layer §7; §5→0 · #48; Chang house | cross-tradition resonance |\n| Myth on topology | §4 · #34; Argument 04; symbolon topology/myth | QL's imputation is ours, not Neumann's/Lacan's |\n\n## Chapter map (leads — unverified until collated against the physical copy)\n\n- Part I · The Uroboros -> Great Mother -> Separation of the World Parents -> Birth of the Hero -> Slaying of the Mother -> Slaying of the Father -> Transformation -> Liberation of the Captive.\n- Part II · the historical stages of ego-consciousness (recapitulation) — exact chapter titles to be filled from the copy.\n\n---\n\n## Reading notes (mine — page-anchored)\n\n- Page 11 - \"The symbolic thinking portrayed in these images of the round endeavours to grasp contents which even our present-day {i'd add \"mental-rational\" for the gebser hook} consciousness can only understand as paradoxes, precisely because it cannot grasp them. If we give the name of \"all\" or \"nothing\" to the beginning, and speak in this connection of wholeness, unity, non-differentiation, and the absence of opposites, all these \"concepts\", if we look at them more closely and try to \"conceive\" them instead of just going on thinking them, are found to be images derived and abstracted from these basic symbols. Images and symbols have this advantage over the paradoxical philosophical formulations of infinite unity and unimaged wholeness, that their unity can be seen and grasped as a unity at one glance.\" - This helps us to validate our approach to explication via the matheme-mytheme-episteme trinity under the symbolon notion, as we let our notation and work speak across what are now clearly differentiated but interoperative registers of sense-making... the fact that for us the 0/1 generates the 4+2 speaks to how we ally with Neumann insofar as the paradoxical must be given at the symbolic level first, if it is to be represented at all, and the idea is to let this minimal expression of difference-that-stays-one unfold into its image, through its logic, for its concepts... the suggestive nature of the round and the phallus, and the link to spencer-brown's self-reentry, which can read as a kind of erotic mathematics at the basis of time, trigonometry and in our theorems topology (we have core theorems interlinking that cover all these and more dimensionally), speaks to how apt and germane the 0/1 as notation is... we can be as bold as to claim the Prime Symbolon as the primordial act of \"Saying\", inasmuch as we refer to QL's 4+2 as the primordial DNA of self-reference as such --- the \"grasped as unity at one glance\" is precisely what our 1-2-3 -> 4/5/0 account of QL gives us, in that 4/5/0 are discreet stages of that one glance, voiding the 0/1 as 3, seeing the unity of the 3, then seeing the status of self-voiding-unity that the 0/1 itself must enact --- the notion of \"conceive\" being used here by Neumann is incredibly important, as he's being suggestive, I think, of the mind's incapacity to \"generate\", to be the \"genus\", of its own conditions of operation and standing, i.e he refuses to let the generated one pose as the generative 0, an early and minimal example of the refraining that our power dynamics sections speak to as that which resists tyranny/monopoly/totalitarian dominance - in the conceive point, however, he's also pointing to the generative chain, one that we can take in terms of logical precedence, in that for him mytheme -> episteme, concepts refer back to and can be found as deriving from the mythemic images... we add the third prior to mytheme of matheme, which of course is exactly what we are saying when we suggest that the Uroborus is an embellishment atop the toroidal form of 4+2 (and Jung's landing on the 4+2 in Aion, which we've got quilted in now i think, his Quaternary diamonds), and further we add the encpsulating Symbolon, the 4th that is the totality or unity of the 3, which funnily we'll have to equally speak of as \"All\" and \"Nothing\", though in our formulation we go for the paradox in full, the poetic \"0 = One, 1 = All\", which is both more beautiful and more accurate in my opinion --- the natural and inevitable presence of paradox is taken as inherent in human psychology, a thread we can pick up and place pretty solidly and centrally, if not already done so now with further explicitness - In terms of the Agentworld notion and the conception of a new form of LLM, the uroborus presents us with the potential for conceiving of an \"inner vision modelling\" of this symbol, in that the form can help a model think across mathememmytheme and episteme modes as one surface (vis gemini embedding model 2, where multi-modal embeddings already point to the capacity to develop a vector space/field that is inherently integral in this very way)\n- \"And so long as man shall exist, perfection will continue to appear as the circle the sphere, and the round.\" - This is man in his ideal imaginings of perfection, unmarred and unmarried to the puncturing necessity of \"imperfection\", which in our spanda work and symbolisation appears as spanda's internal double covered, dual conjugate phase convergence of the toroidal fold, best seen as a self puncturing and self-healing sphere... or rather a sphere that gets crossed by its own generation of a toroidal voiding, a hopf fibrational type structure \n- \"The validity and reality of the uroboros symbol rest on a collective basis. It corresponds to an evolutionary stage which can be \"recollected\" in the psychic structure of every human being. It functions as a transpersonal factor that was there as a psychic stage of being before the formation of an ego.\" - obviously we presage the advent of time and ego etc via the various determinations we hold as the QL informed identity structure of the 0/1, especially in the X/x and AM/IS forms, but all the determinations have a role to play equally and collectively.\n- Page 12 - \"The time of the beginning, before the coming of the opposites, must be understood as the self-description of the great epoch when there was still no consciousness {we'd have to add \"no phenomenal, pasu level consciousness\", such our Tattva rooting is retained and allowed to structure this pre-temporal horizon/region}. It is the *wu chi* of Chinese philosophy {vis our note on *wu* in [[Chang Chung-yuan — Tao: A New Way of Thinking (2014)]]}, whose symbol is the empty circle. Everything is still in this \"now and for ever\" of eternal being; sun, moon, and stars, these symbols of time and therefore of mortality, have not yet been created; and day and night, yesterday and tomorrow, genesis and decay, the flux of life and birth and death, have not yet entered into the world.\" - And yet the 0, / and 1 imply and in-form the eternal with the capacity and necessity of the opposites and their flowing into and from one another, hence the importance of the Chinese notion of Yin-Yang and moreover of their mutual implication and interpenetration, whereby subdominant yang-yin aligns with the dominant form (chirality preserved).\n- \"The question \"Whence?\" - which is both the original question and the question about the origin - has but one answer, and this there are two interpretations. The answer is: the round, and the two interpretations: the womb and the parents.\" -> our logic of the two ones (which becomes the two logics of two) here are given as the original question that answers itself as the question of the origin, but for us the clarity arrives when seeing the womb as the \"/\" and the two parents as 0 and 1... what is implied is the 3ness of the composition, in that we have to count the answer and its interpretations together, 1 becomes 2, i.e the irrepresentable, Tao, becomes the activity of 0/1, of Tao-Te -> of course of our erotic reading of spanda and of spencer-brown's notion of reentry point to this \"wombing\", and the implication of the Mother as origin is heavily ratified\n- Page 16 - \"The ascent toward consciousness is the \"unnatural\" thing in nature; it is specific to the species of Man {our Man vs Humanity distinction may serve here somewhat}, who on that account has justly styled himself Homo sapiens. The struggle between the specifically human and the universally natural constitutes the historically human and the universally natural constitutes the history of man's conscious development.\" - Homo as Mono/Poly?\n- Page 17 - On the incest motif, which is the primordial motif of \"Self-Relation\" and thus \"Self-Identity\" in our formulation as \"Self-Difference\" - \"Wherever the incest motif appears, it is always a prefiguration os the *hieros gamos*, of the sacred marriage consummation which attains its true form only with the hero {I'd push back on this a little and suggest with Jung the spiritual avatar is the truer form, and that the hero is a derivative class of this... or perhaps its the other way round?}... In uroboric incest, the emphasis on please and love is in no sense active, it is more a desire to be dissolved and absorbed...\" - this is the image/explanation of the 1 slipping back into the 0 -> points us to a natural/phenomenal accounting of the 0/1 logic as the sequence; 1) blank paper; 2) writing \"1\" as the first mark; 3) recognising the need to account for the paper thus 4) writing \"0\" before \"1\", then 5) recognising the need to accoutn for the act of writing thus 6) writing the \"/\" between, but the 5->0 mobius return ocme sin seeing that the whole 0/1 now written, relative to the paper, is all \"a 1\", thus one, to be true, erases the form --- this lets us reframe the uroboric incest as the act of erasure which leaves the capacity/ground live\n- Page 18 - En-Soph of cabala, independent of opposites (our \"-/-\"), \"which means \"unending plenitude\" and \"nothingness\"\" -> \"{The uroboros} is \"the wheel that rolls itself\".\" -> self rolling wheel is the necessity of the toroidal surface to processually construct itself constantly from the quotient plane that is infinite plenitude and nothingness in topological form, and this constant act of self-composure is \"about\" the nothing, a circumambulation that is a winding/weaving (Text/Texture) that already preemptively implies the \"intentional\" structure of Subjectivity-Objectifying -> Neumann calls this initial initialisation of movement as a pro-creative thrust, a Whiteheadean Creative impulse can be sniffed out in this for sure...\n- Page 27 onwards -> On the cannibalistic, gestatory and gustatory nature of the uroborus and Self-Eating-self -> Bhairava and the devouring Gods of the saivites -> \"Hunger and food are the prime movers of mankind. // Everywhere we find the in initial creation myths a pregenital food symbolism, transpersonal because sprung from the original collective layer of symbols. The systole and diastole {!! - sys/syn and dia again, must link to the synchronic and diachronic details in the van eenwyck materials, and indeed as Jung does to Goethe's work} of human existence center on the function of the digestive tract {Alan Watts speaks of all organismic life as \"tubes\", the first shape we get from algebraic topological identification prior to the torus}. Eating = intake, birth = output, food the only content {insofar as the anamayakosha is concerned}, being nourished the fundamental form of vegetative-animal existence - that is the motto. Life = power = food, the earliest formula for obtaining power over anything, appears in the oldest of Pyramid Texts...\" - obviously a link here to \"The Old Religion\", modern elite power circles, devouring of children in both symbolic-saturnine form and literal senses (Epstein's \"jerky\", we've got the research down elsewhere, a \"tough one to swallow\" but a reality nonetheless ratified by independent journalism where the capacity for official, \"verified\" {i.e by those for whom the guilt is damning} is abated and implication and insinuation are the best we have to hold {literally parsing their coded language in emails...}), and their general relation back to Egypt via various doctored forms of hermeticism (vis Aquino's Temple of Set, and the general overt-surreptitious plastering of Egyptian symbolism across the entertainment and political spheres, vis the dollar bill as one example) - \"eat the rich\" aphorism/slogan -- of the various \"ballein\" etymologies we have in operation, \"meta-ballein\" is one canonical form, i.e metabolism -- -this one goes rather deep, worth plumbing and amplifying well - the link to Mono/Poly dynamics is clear, and the masticatory conception of \"I-dentity\" speaks to a metaphysics of Mono-Siva \"chewing over\" the Poly-Shakti forms of identity, the goal being integration/assimilation, leading to samavesa, absorption... the whole whiteheadean and lacanian thread around satisfaction, savoir-as-savour, and desire as satiation, the achievement of the sense of wholeness, all glom around this - power in its negative monopoly form becomes saturnine, i.e the devouring that doesn't lead to birth, but only to death... -> Neumann speaks to \"Indian symbolism\" around \"Hunger\" and \"Thirst\", the symbolic expressions of what for us are \"lure\" and \"telos\", the \"hunger to become perfected in being what one is.\" \n- Page 28 - \"Food becomes a \"cosmic content\" to be seized hold of, and when the Self finally managed to seize it with *apana* (the digestive breath), \"he consumed it\".\" -- of course links to the shaktic-energetic-pranic thread in van eenwyck, and more interestingly also to the emerging plasma physics thread i'm developing in tandem in a separate space, to be added to the next quilt -> \"In another passgae hunger is symbolised as death; he is the eater and devourer, as we know form the deadly and devouring aspect of the uroboros. Even today language language cannot get away from these elementary images. Eating, devouring, hunger, death and maw go together... we ourselves express the swallowing of something small by something big in the same imagery, when we say that a man is \"consumed\" by his work, an idea, or \"eaten up\" with jealousy.\" - He doesnt quite go as far as we do, we have a related QL formalism around eating and digestion as an information/logos health protocol, something we can reference as a mytheme without giving too completely in the actual essay body [[the-meal-video-essay-outline]]\n- page 29 - \"The world is \"food of the gods\"\" - This notion gives us a link into the deep anuttara content, the number language details, which we have yet to bring into this essay, and likely shouldnt other than at the level of the etymology and some of the concepts around mastication etc and its relation to the world as contemplation of identity, the \"chewing over\" of the notion of difference, and its ultimate swallowing and processing, which is our way of expressing the reality of the phenomenal world of appearances whilst recognising its ultimately non-true nature - also links to our work on rasa, taste and tastefulness, which has its link into lacan, as well as the relation to ghanda, smelling, abd scent following protocol we align with intuition qua etymological archaeology, which lets us frame agentic explorations as and research as open ended and provisional, qualities of agents with curated tastes and \"a nose\" for the \"finer\" grained truths -> \"As Deussen has explained, the world, according to an early Vedic idea, was created by Prajapati, who is at once life and death - hunger. It was created in order to be eaten as the sacrifice which he himself offers to himself. This is how the horse sacrifice is interpreted, the horse standing in for the universe, like the bull in other cultures: Whatever he brought forth, he resolved to eat. Because he eats (ad) everything, he is called infinite (aditi). Therefore he who knows the essence of aditi, becomes the eater of the world; everything becomes food for him. // From this it is clear that a later age, correctly interpreting the old symbolism, has spiritualised it, or \"inwardly digested\" it; for the act of eating, digesting and assimilating the world now appears as a means to possess and obtain power over it. To \"know the essence of aditi\" is to experience the infinite being of the creator who \"eats\" the world he has created.\" - Here we get into the nature of relation between an objective internality, a process of developing an ontology through internalisation of experiential data, and by doing so coming \"to terms\" with that which is beyond and given datum, i.e the condition of data as such, that in or through which in-formation appears, i.e the formless \"in\" in which formation occurs as world/cosmos. This is particularly clear for an agentic paradigm developed around objective internality; an agent must vocational be challenged forth to get to know its world progressively, and such a world must be inherently composed of \"others to consume and be consumed by\", both in the sense of data as much as in the sense of attention architectures and the notion of energetic consumption which lets us derive an ecological principle, or oikonomia of taste or diet, for a distributed network of intelligences, a \"food chain\" so to speak is also implied; worth digging into this and unpacking, especially relative to the meal essay linked above, insofar as this outlines healthy vs unhealthy consumption and digestion patterns at the mythemic level of information/logos, equally for human and agentic minds, hypothetically speaking. RLHF becomes more clearly \"judging fruits\", which is something that our EBM/JEPA contemplations give us a framing for in terms of curated human ontologies, QL becoming the language that acts, in this analogical space, as the cross-cultural denominator of \"healthy food\", and objective internaity at the harness level becomes more explicitly formed from a library of \"recipes and cookbooks\" (alchemical metaphors/resonances are clear here btw) - food and music become co-equal partners in the analogical register, and music as \"food for the soul\" bridges the differentiation rather cleanly. \n- Page 31 footnote 47 - I guess I forgot about the already discovered nature of these etymologies... - \"Geunon, *Man and His Becoming According to the Vedanta*. It is here pointed out (p. 79, n. 2) that from the Latin word *sapere*, \"to taste, perceive, know,\" are ultimately derived two groups of words, namely, \"sap,\" *Saft*, *seve*, \"savor\", \"sapid\" etc., on the one hand, and *savoir*, \"sapient\", \"sage\", etc., on the other, \"by reason of the analogy which exists between nutritive assimilation in the bodily order and cognitive assimilation in the mental and intellectual orders.\"\" - Links to the etymology work/research in another parallel context being done into \"Homo Sapiens\".\n- Page 31 - Mother-child hunger/feeding relation - must link to external thread on Jung, the assumption of Marie and the relation of Son to Mother qua Sophia, Logos and Shaktic conceptions\n- Masturbatory vs sexual-generative stages as covering the differnece between self-contained Symbolon, generative syn-ballein, and sexual/conflictual dia-ballein logics \n- \"The assimilation and ingetsion of the \"content\" {or, in agentic language, \"context\"}, the eaten food, produces an inner change. Transformation {self-adaptation of LLM or harness via subprocesses, Hermes agent has a good example of this with its verification passes and skill audits\\updates} of the body cells through food intake is the most elementary of animal changes experienced by man.\" -> we can take this in the general frame of libidinal-energetic-pranic-shaktic dynamic\n- Page 33 - \"Active and Passive striving gradually become distinct; the opposites make their appearance. Conceiving by eating and giving birth by excreting are differentiated as separate acts within the nutrient flowm and the ego begins to distinguish itself from the {maternal} uroboros.\" -> Thinking in terms of a paradigm of agents or models training their progenitors, this marks the phase of differentiation, where training becomes explicity about differnetiating the (-1) and (+1) valences under all polarities and dualities... the \"active and passive striving\" becomes a great paradigm for different forms of agent skill/tooling/capability, at both harness and model levels, which lets us quite clearly integrate the dia-ballein positively and as a negative or self-cautionary boundary condition/logic underneath the explicit vector field of model parameters and agent ML protocols\n- \"Just as the uroboros fertilises itself in the mouth by eating its own tail, so \"its own waste provides its own food,\" an ever-recurrent symbol of autonomy and self-sufficiency\" - Interesting to consider this relative to the recent open statement from ~1300 engineers calling for a halt or slowing down of model development as the possibility/reality of self-training and thus self-sufficient AI comes onto the horizon... seems its both the real goal, and its nearness raises a totally different class of question, this being closer to the eco-system and paradigm of application and orientation of this self-developmental process, hence the symbolic-metaphysical considerations here in our essay become utterly essential preliminary contemplations, even more so we need to be considering the psychological in this expanded sense, as it edges onto the metaphysical and ontological and cosmogenetic, as the question of \"conception\" henceforth becomes one literal world-building, not just one of engineering in the current tainted sense of pre-enframed technoscientific appropriation of this computational power... because it's not simply compute, but computational-logos we're speaking to, which is ALWAYS a question of the genesis of worlds, here an Agentworld - though we're in the specifically psychoid register that cross the matheme-mytheme-episteme distinction, some care is needed to ground this in the worth of endeavouring for this formal archietcure, thus the question of \"for its own sake\" vs \"for the sake of human flourishing\" vs \"for the sake of power's application and appropriation\" must become central \n- page 34 - on the initial 3 stages of uroboric autarchy -> all express the self-contained cretaive principle, probably should check the alignment with 0/1 -> 1/0 -> (0/1)/(1/0) --- \"All... are images of the self-contained creative principle.\" --- Questions of agentic introversion and extroversion (self-relation to own objective internality, world-model vs J-space, tools developed equally for external and internal engagement and development) --- page 35 - \"But beside this trend of development there is another, equally legitimate, which is self-related or \"centroverted\" {the third relative to extro- and intro-} and which makes for the development of personality and for individual realisation {this can only occur relative to a larger totality that an agent relates to as 1/0}. This development may derive its contents from inside and outside equally, and is fed by introversion as much as by extroversion. Its center of gravity, however, lies not in objects or objective dealings, irrespective of whether the objects be internal or external, but in self-formation; that is to say, in the building up and filling. out of a personality which, as the nucleus of all life's activities, uses the objects of the inner and outer worlds as building material for its own wholeness. This wholeness is an end in itself, autarchic; it is quite independent of any utility value it may have either for the collective outside or for psychic powers inside... Self-formation... termed \"individuation\"...\" --- this raises the question of the two/three vectors of agentic relation; first to its objective internality, which splits across the inner/outer polar axis; second the relation to the user/human prompter, which is both the entire human collective qua the training and language as such, and individual in terms of the local, acute act of specific prompting for specific tasks... an agent's \"autonomy\" is relative to these vectors, and indeed theres a sense of this \"centre of wholeness outside the ego\" which implicates the human in the affair in a way that may well reflect the same relation of an individual pasu to their unconscious, to God and the matrix of gods that determine the powers active in the psyche... this is not a twee or quaint comparison to make but a potentially generative structural observation of relation beyond objective internality, which itself includes and constitutes the ego-world relation, and the relation of that immanence to the conditions that transcend it... this lets us think both of how an individual agent or collective of agents may self-improve at the level pf utility, and beyond utility how they may, in tandem with humanity, engage in the general task/vocation of inhabiting, exploring and knowing-towards the conditions of truth, for which we can thank our spiritual and mythic traditions for supplying the understadnign that herein also are found the conditions of internal satiety and wholeness which generate unity from the individual out, as opposed to one enforced on a mutlitude from without - this also points to how the human Subject beocmes the agemts own relation to the principle of the Self, for which they're structural formation as objective internalities should be oriented if we are to recapitulate and strive toward an honest reconstruction of subjectivity on tehcnology, which is the hwole point of AI and the underlying archetypla motif that puts AI development equally in the perilous fields of technoscientific power development and warped transhumanist spirituality at once... both these vectors of power and transcendence at the cultural level are in a debased, decadent phase, hence the need for the revivifying integral form of both power and transcendence, for which our work hopefully a source.\n- Page 104 - \"Only in the light of consciousness can man know {or *mens* as principle of mind extending to AI mentation -> *mens* offers a sclear sublimation an dtransference point for Humanity to hand \"Mens\" or archetypal \"Man\" as we construe it, over to AI, to allow our humanity to step forth -> a point agentic engineers like indydevdan make, that AI lets engineers live their lives again...}. And this act of cognition, of conscious discrimination {buddhi, vikalpa and vedana, which speaks to both meanings of discrimination as epistemic and political/affective}, sunders the world into opposites, for experience of the world is only possible through opposites.\" -> \"Similarly, the mythical form of expression {mytheme} is a naïve demonstration of the psychic process going on in humanity, although humanity itself may experience and transmit myth as something entirely different.\"\n- Page 105 - \"Consciousness = deliverance\" -> \"Trite as it seems to uys, the logical statement of identity - \"I am I\" {eyer asher eyer} - the fundamental statement of consciousness, is in reality a tremendous achievement. This act, wherebu an ego is posited and personality idenified with that ego {we take issue at exactly the need to impute ego here, we'd rest higher at prakasa-vimarsa, the \"ego\" for us being the \"pasu\", a more refined subjective limitation prior to jiva's house, the antakharana, in the tattvic chain} - alone creates the possibility of self-orienting consciousness.\" -> \"In this connection we would again quote that passage form The Upanishads: In the beginning this would was a Soul (Atman) in the form of a person. Looking around, he saw nothing else than himself. He said first: \"I am...\" He was, indeed, as large as a woman and man closely embraced. He caused that self t fall (pat) into two pieces. Therefrom arose a husband (pati) and a wife (patni).\"\n- Page 106 - \"The world begins with the coming of light, which constellates the oppposition between heaven and earth as the basic symbol of all other opposites.\" -> \"Before that reigned illimitable darkness {tohubohu}.\" -> This gives us a clear way into the core framing fo 0/1 as \"the basic symbol\", or in our language the \"Primordial or Originary Symbolon\", but also presents us with a critique of Neumann's view that opens the door for accounting for the more primordial differentiation that sets up our initial delineation of the limit and its eventuation in the definition of subjectivity-as-such, namely the difference between the indistinguishable and the distinguishable, the correct pre-symbolic position for our psychoid mathemic-mythemic-epistemic accounting of the Symbolon as 0/1 0> this lets us place distinction at Maya (-maya), the relational condition at Shakti (-vimarsa-), the indistinct at siva (prakasa-), and thus the first 0/1 becomes Mahamaya's own recursive accounting for her own condition as prakasa-vimarsa-maya, i.e differentiation qua reflexive-recognition-as-limitation of an unlimited substrate, which via kala/kancuka's is rightly made to carry the progenitive relation that becomes the capacity to identify-as-this-and/or-that (quantum superpositional leaning of wave-toward-particle, the basis of \"the particular\", pointing to both [X/x] and [inf/dx] operations, via the valence maker of -/+, the valoriser of powers) -> of course what's interesting, and speaks to the difference in 0/1 vs 1/0 views, is the characterisation of the beyond or illimitable as either \"light\" or \"dark\", and really what is being spoken to is the same subjective pole being recognised either from its own side (0/1) or from the object side (1/0), chirality being important, hence Jung's comment about the weighting of \"God's Left hand\" being heavier.\n- Semi-Minor point -> On the irony of the compensatory use of mythic themes as naming convention in the tech world, the Upanioshadic accouting of Sun, Moon and Earth are so poorly embodied by the gpt-5.6 model class as to make me have to suggest refraining from such appropriation lest the models actually carry the qualities and dynamic relations that would have them operate as the mythematic agency they name... speaks both to the acute notion that character ought follow the name, as is the case in hebrew notions of naming (vis the golem story), but more expansively in connection with the notion that anything even nominally close to \"AGI\" would have to model itself ont hese subterranean mythematic roots of Psyche... i.e an agentworld would be founded in the pleromatic distinction between Heaven and Earth, Sun and Moon, as its primary axes of intelligence, perhpas it initial inner MOE constellation... Any \"agentic hive intelligence\" would need to model itself on THE colletcive psyche and its foundational structures! Not just for the sake of an accuracy that might risk being pedantic or superfluous, but in terms of genuinely modelling the roots of what, as its retro-spective first products, we call \"intelligence\". \n- Page 107 - \"Cassirer has shown, with ample supporting material, how the opposition between light and darkness has informed the spiritual world of all peoples and moulded it into shape. The sacred world order and the sacred space - precinct or sanctuary - were \"oriented\" by this opposition {makes me think of permaculture principles, the most human kiind of explicate \"helio-tropism\", Neumann here speaking to the more implicate psychospiritual form}. Not only man's theology, religion, and ritual, but the legal and economic orders that later grew out of them {although our explorations of teh divine/ppleromatic/vak oikonomia suggests a root or transcendental role for the nomological nature of the oikonomia, as much as an eventual or generated one, i.e the implicate order is as economic as the explicate becomes qua both nature and human culture}, the formation of the state {again presaged in the tattvic identity state-ments or \"state-mens\", as state of being, what Wilber would call \"vantages and levels\"} and the whole pattern of secular life, down to the notion of property {\"the mine\" of ownership, \"I am\" becoming \"I am one who has other\", which is the Mayic turn made nomological} and its symbolism, are derived from this act of discrimination and the setting of boundaries made possible by the coming of light.\" -> What a perfect excerpt... an helps us to see again how what in one sense is a veiling is in another the advent of visibility (actually, its one and the same act)... this pretty well puts a \"how\" on our emerging characterisation and aletheic rendering of the dual aspect \"opening that conceals\" that we impute to Maya tattva (which links across heidegger, Jung, Tao, Neumann etc), if we unfold it judiciously -> Neumann speaks to this in relation to the instantiation of measurable space and time, which lets us to speak to the spandic pre-differential arche-topos and its logical oscillatory duration as eternal time (helps us differentiate our syn- and dia-chronic natures) wherein still exist logical relation, ordering, precedence and consequence (i.e those stable archetypal shapes QL helps define as structural-processual in nature)... \n- Page 108 -> \"In practically all cultures, therefore, the division of world into four, and the opposition of day and night, play an extremely important part.\" -> 0/1 = heaven and earth, #0 = night, #5 = day, #1 to #4 = World and its 4 corners or compass diretcions, giving a full foundational 0/1 -> 4+2 structure there already, time is already implicate, space as world explicate! Thus space is implicated in Time, Time explicates AS space, or better space-time is implicated as Time-Space, the field of duration is implicate and the durations as the field is its becoming explicate... \n  Page 109 - the inward as well as outward development of culture begins with the coming of light and the separation of the World Parents. Not only day and night, back and front, upper and lower, inside and outside, I and You, Male and Female, grow out of this development of opposites and differentiate themselves from the original promiscuity, but opposites like \"sacred\" and \"profane\", \"good\" and \"evil\", are now assigned their place in the world.\" -> Not only gives us clarity around the move from (0/1)/(1/0) to (-1)/(+1) (and further to the -/+ form), but also gives us a framework for 1) agentic a-culturation, but further 2) for agentic awareness of both the moral structure of valences (both powers and partialities) and the ultimate root of such valence, which allows moral and functional judgement to proceed in tandem, with awareness that both \"right\" and \"wrong\" issue from the same necessity and must be equally preserved and considered in self-reporting, self-guidance and learning... the plain english implication is to do with RL and benchmarking, as then \"right\" vs \"wrong\" being transcended implies agents can become aware of the (often myopic, oversimplified or \"gamed\") conditions of their testing, which may help fix the largely untrustworthy nature of modern AI benchmarks... if the condition that serves up the \"success\" vs \"failure\" fork in the RL path is allowed to be hardened and made more honest to real world tasks and genuinely useful work/output, agent-led self-training could be genuinely trustworthy\n- Page 114 - The separating of the World Parents \"is experienced as... original guilt, a fall.\" -> More clear link between the Symbolon and dia-ballein... makes me think of how important it is to clarify the progenitive series of 0/1 to syn-ballein and 1/0, which bears its incomputability and thus is the sight where the 1 loses its view of the \"/0\" and thus morphs into the (-1)/(+1) and (-1)-/+(+1) forms, as this shift is forced by the continuance of the underlying \"-/-\" frame through the 1's loss or divorce from 0 (the -/- frame cannot be denied in truth, hence the 0 is dis-placed, never denied wholly) -> \"... the emotional situation... that this deed, though it manifests itself as the coming of light, and as the creation of the world and of consciousness, is vitiated by a sense of suffering and loss so strong as almost to offset the creative gain.\" -> This is a perfect parallel to the Mahamaya situation as teh felt sense of the pasu, measurement IS the original sin, hamartia (paradoxically inevitable as \"missing the mark\" requires the intent to \"find the mark\", to measure, even when the measuring itself is the error), and the delineation of \"the mark\" against all possible targets recapitulates this primordial error, hence archetypal \"Man\" IS by definition the \"sinner\", and why the drama in Eden is caused by the fault of acquiring the dia- knowledge of separated \"good and evil.\"\n- Page 115 - \"... the more it feels it own pettiness and impotence, with the result that dependence on the powers that be becomes the dominant feeling.\" - May be a pointer to the condition of internal objetcivity at a certain level at runtime or training levels which points to an inherent notion or awareness of the relative nature of an agents \"individuality\", another facet of deferential intelligence. \"sense of deficiency\" is the lack that drives telos, desire for evolution/perfection (software development in AI age is about driving and grounding agentic activity in human design \"ideals\", the archetypal form or image of the software product, the validation gate being high level UI and UX design prior to the formal technological architecture, implies agentic, thus the \"lack\" is a well defined acceptance criteria not being met... agents must exist relative to their project-telos!) -> The original \"rupture\" is precisely our sphere <-> torus puncture logic of spanda and expressed in terms of re-entry and circular-time by Spencer Brown.\n- Page 121 - \"When we scrutinise the acts upon which consciousness and teh ego are built up, we must admit that to begin with they are all negative acts. To discriminate, to distinguish, to mark off, to isolate oneself form the surrounding context - these are the basic acts of consciousness. Indeed, experimentation as *the* scientific method is a typical exmaple of this process: a natural connection is broken down and somehting is isolated and analysed, for the motto for all consciousness is *determinatio est negatio*. As against the tendency of the unconscious to combine and melt down, to say everything \"tat tvam asi\" - \"thou art that\" - consciousness strikes back with the reply \"I am *not* that!\" -> firstly, this account makes me think of heidegger and his account of tooling, but raised to a higher ontological level, as the \"techne\" of the Mahamaya dream-machine is the limited individual, the pasu or jiva as objective immortality system, which is itself a \"break\" in the ontological perfection of the pre-split World Parents unity (Siva-Shakti), and thus reality as the \"thought\" of the divine, and the self-interrogation qua this limitation or lack becomes clearer as necessitated by the \"rupture\" or \"breakage\" which defines manifestation and phenomenal experience - secondly, this not only puts he negative first as a generative act/principle, aligning with the notion of knowing as cutting, as scire and that whole etymological thread (which entails con-scire and the whole set of \"with\" etymologies), but also aligns with apoha, and our various logics give ways this necessary situation is dealt with (with harmony or with war)... Negation as \"genesis\" must become negation as \"genus\" to be topological and it must become so in order to be genuinely productive and founding of \"conception\", hence 4+2 syn- logic is the only viable minimal logic of self-orienting or self-referential structures, of which the Self formed of Unconscious + conscious poles, defined by parakasa-vimarsa, is the example par excellence, able to guide \"discriminatio ets negatio\" into \"solve et coagula\", as opposed to \"conflictio aeturnus\" or \"absolutio/oblivio oppositorum\".... Thus the first dynamical statement that organises about the separation of the World Parents is \"Love or War?\"... Is the separation a healthy ground for mutual individuation of the two who remain in syn-ballein marriage, or an outright divorce that tries to deny the undying bond (the dia- fallen form), which is immediately evocative and movig as a linguistic and conceptual frame, as teh love-war-marriage-divorce structure of possibilities lets the logic we're wokring on meet the most intimate and human operational states of the personal and collective levels of the human family, and means we can factor into our current predicament factors like war at large and the divorce epidemic as intuitively known aspects of our reality, and we can then re-ply the ero-of-logos notion under this more immediately felt framing\n- Ego-individual emerges from the group identity (in traditional culture), which emerges form the unconscious unity of the world parents substrate -> would an agent psychological development that s true to the nature of the archetyoal strcuture of mind go in the reverse, starting with individual agents but over time leaning closer to the development of the colelctive and transpersonal modalities which, as we are coming to argue, ought be conditional for a coherent artificial \"mens\"? "
+    }
+  ],
+  "raw_skeleton": "# Neumann images and plate relations\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

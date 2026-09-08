@@ -1,0 +1,373 @@
+{
+  "authorization": "User scoped Whitehead/Varela admissions followup 2026-09-08",
+  "before": {
+    "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+    "sha256": "37fc2ddd4b99ed1ab217a1bb7b0cb95e242fd976289f2b55c98c0b27264d2775"
+  },
+  "effects_before": [
+    {
+      "source_id": "whitehead-1978-process-reality",
+      "root": {
+        "id": "whitehead-1978-process-reality",
+        "title": "Whitehead \u2014 Process and Reality (1978 corrected edition)",
+        "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE.md",
+        "artifact_type": "source-house",
+        "authority": "source-authority",
+        "headings": [
+          "Whitehead \u2014 Process and Reality (1978 corrected edition)",
+          "Chicago 18 forms",
+          "Essay use",
+          "Passages and excerpts"
+        ],
+        "sha256": "8c14550afefd036d3cd2518193e430999911859c52c7d9e0d6bc58c38606a2c9",
+        "citation_status": "citation-ready",
+        "quote_status": "locator-needed",
+        "tags": [
+          "epi-logos/antikythera-essay",
+          "source-bank/record",
+          "source-bank/process"
+        ]
+      },
+      "method": "declared canonical graph and transverse-thread metadata only",
+      "depth": 4,
+      "consumers": {
+        "sections": [],
+        "arguments": [
+          {
+            "id": "01-immutable-gap-and-meta-sign",
+            "title": "Immutable Gap and Meta-Sign",
+            "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+            "artifact_type": "argument",
+            "authority": "canonical-argument",
+            "headings": [
+              "Immutable Gap and Meta-Sign",
+              "Claim",
+              "Perspectival manifestation",
+              "Formal placement",
+              "Warrants",
+              "Tension"
+            ],
+            "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990",
+            "claim_status": "Argued",
+            "evidence_status": "source-synthesized",
+            "coordinates": [
+              "P0",
+              "L0",
+              "L5'"
+            ],
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/formal-limit",
+              "argument-map/claim"
+            ]
+          },
+          {
+            "id": "14-computational-process-ontology",
+            "title": "Computational Process Ontology",
+            "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+            "artifact_type": "argument",
+            "authority": "canonical-argument",
+            "headings": [
+              "Computational Process Ontology",
+              "Core claim",
+              "The process lineage",
+              "The two logics as runtime",
+              "The \u015aaiva\u2013Buddhist operational account",
+              "QL, MEF, Bimba, and harness",
+              "Agentworld consequence: shared language for shared intelligence",
+              "Process test"
+            ],
+            "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f",
+            "claim_status": "Derived",
+            "evidence_status": "theorem-derived-cross-register",
+            "coordinates": [
+              "P0",
+              "P1",
+              "P2",
+              "P3",
+              "P4",
+              "P5",
+              "L0",
+              "L3",
+              "L3'",
+              "L4'",
+              "L5"
+            ],
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/core",
+              "argument-map/process-ontology",
+              "argument-map/two-logics",
+              "argument-map/agentworld",
+              "argument-map/praxis",
+              "ql/theorem-unit"
+            ]
+          }
+        ],
+        "concepts": [],
+        "paths": []
+      },
+      "transverse_threads": [
+        {
+          "id": "mono-poly-two-ones",
+          "title": "Mono\u2013Poly and the Two Ones \u2014 Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "Mono\u2013Poly and the Two Ones \u2014 Transverse Thread"
+          ],
+          "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/mono-poly"
+          ]
+        },
+        {
+          "id": "trust-faith-formal-limit",
+          "title": "Trust, Faith, and the Formal Limit \u2014 Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "Trust, Faith, and the Formal Limit \u2014 Transverse Thread"
+          ],
+          "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/trust"
+          ]
+        },
+        {
+          "id": "zero-subject-advent",
+          "title": "The Advent of Zero, Subject, and Integral Logic \u2014 Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "The Advent of Zero, Subject, and Integral Logic \u2014 Transverse Thread"
+          ],
+          "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/zero",
+            "argument-map/psychoid",
+            "argument-map/gebser"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "varela-1975-calculus-self-reference",
+      "root": {
+        "id": "varela-1975-calculus-self-reference",
+        "title": "Varela \u2014 A Calculus for Self-Reference (1975)",
+        "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md",
+        "artifact_type": "source-house",
+        "authority": "source-authority",
+        "headings": [
+          "Varela \u2014 A Calculus for Self-Reference (1975)",
+          "Chicago 18 forms",
+          "Essay use",
+          "Passages and excerpts"
+        ],
+        "sha256": "669594863837e76f9692259247592e1b3a1cdf0f3309dade4577ad29e49c1b08",
+        "citation_status": "citation-ready",
+        "quote_status": "locator-needed",
+        "tags": [
+          "epi-logos/antikythera-essay",
+          "source-bank/record",
+          "source-bank/self-reference"
+        ]
+      },
+      "method": "declared canonical graph and transverse-thread metadata only",
+      "depth": 4,
+      "consumers": {
+        "sections": [],
+        "arguments": [
+          {
+            "id": "01-immutable-gap-and-meta-sign",
+            "title": "Immutable Gap and Meta-Sign",
+            "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+            "artifact_type": "argument",
+            "authority": "canonical-argument",
+            "headings": [
+              "Immutable Gap and Meta-Sign",
+              "Claim",
+              "Perspectival manifestation",
+              "Formal placement",
+              "Warrants",
+              "Tension"
+            ],
+            "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990",
+            "claim_status": "Argued",
+            "evidence_status": "source-synthesized",
+            "coordinates": [
+              "P0",
+              "L0",
+              "L5'"
+            ],
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/formal-limit",
+              "argument-map/claim"
+            ]
+          },
+          {
+            "id": "12-core-theorem-bridge",
+            "title": "Core Theorem Bridge",
+            "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+            "artifact_type": "argument",
+            "authority": "canonical-argument",
+            "headings": [
+              "Core Theorem Bridge",
+              "Anchor claim",
+              "Perspective and context within the theorem spine",
+              "Dependency order",
+              "Pros-hen discipline",
+              "Claim hierarchy"
+            ],
+            "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322",
+            "claim_status": "Derived",
+            "evidence_status": "theorem-internal-and-cross-register",
+            "coordinates": [
+              "P0",
+              "P1",
+              "P2",
+              "P3",
+              "P4",
+              "P5",
+              "L0",
+              "L0'",
+              "L5'"
+            ],
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/core",
+              "argument-map/theorem",
+              "argument-map/warrant",
+              "argument-map/process-ontology",
+              "ql/theorem-unit"
+            ]
+          },
+          {
+            "id": "14-computational-process-ontology",
+            "title": "Computational Process Ontology",
+            "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+            "artifact_type": "argument",
+            "authority": "canonical-argument",
+            "headings": [
+              "Computational Process Ontology",
+              "Core claim",
+              "The process lineage",
+              "The two logics as runtime",
+              "The \u015aaiva\u2013Buddhist operational account",
+              "QL, MEF, Bimba, and harness",
+              "Agentworld consequence: shared language for shared intelligence",
+              "Process test"
+            ],
+            "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f",
+            "claim_status": "Derived",
+            "evidence_status": "theorem-derived-cross-register",
+            "coordinates": [
+              "P0",
+              "P1",
+              "P2",
+              "P3",
+              "P4",
+              "P5",
+              "L0",
+              "L3",
+              "L3'",
+              "L4'",
+              "L5"
+            ],
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/core",
+              "argument-map/process-ontology",
+              "argument-map/two-logics",
+              "argument-map/agentworld",
+              "argument-map/praxis",
+              "ql/theorem-unit"
+            ]
+          }
+        ],
+        "concepts": [],
+        "paths": []
+      },
+      "transverse_threads": [
+        {
+          "id": "mono-poly-two-ones",
+          "title": "Mono\u2013Poly and the Two Ones \u2014 Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "Mono\u2013Poly and the Two Ones \u2014 Transverse Thread"
+          ],
+          "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/mono-poly"
+          ]
+        },
+        {
+          "id": "trust-faith-formal-limit",
+          "title": "Trust, Faith, and the Formal Limit \u2014 Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "Trust, Faith, and the Formal Limit \u2014 Transverse Thread"
+          ],
+          "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/trust"
+          ]
+        },
+        {
+          "id": "zero-subject-advent",
+          "title": "The Advent of Zero, Subject, and Integral Logic \u2014 Transverse Thread",
+          "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+          "artifact_type": "path",
+          "authority": "canonical-argument",
+          "headings": [
+            "The Advent of Zero, Subject, and Integral Logic \u2014 Transverse Thread"
+          ],
+          "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/path",
+            "argument-map/zero",
+            "argument-map/psychoid",
+            "argument-map/gebser"
+          ]
+        }
+      ]
+    }
+  ]
+}

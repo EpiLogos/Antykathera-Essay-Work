@@ -1,0 +1,343 @@
+{
+  "schema_version": 1,
+  "source": "working/p2-enrichment/T20-quilt-to-whole-coverage.json",
+  "source_sha256": "e3d8f3a04798bb0edb9ac6d2b0cd442b1d654d92474475eed535a525482d5c75",
+  "row": {
+    "row_id": "T20-mytheme-antikythera-attunement",
+    "whole_id": "mytheme-antikythera-attunement",
+    "title": "Antikythera as attunement instrument",
+    "occurrences": [
+      {
+        "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+        "start_line": 612,
+        "end_line": 632,
+        "section": "Hephaestus, Antikythera and the technological fork",
+        "operation": "Technē coordinates cycles beyond itself and makes their relations available to a situated human; the completed instrument retains its source and user."
+      }
+    ],
+    "disposition": "admitted-whole",
+    "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+    "returns": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "operation": "Heterogeneous cycles are coordinated without claiming the original whose reconstruction remains constrained.",
+        "register": "Episteme/Argument; authored Mytheme return"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "operation": "Attunement remains instrument-for-observer; no replacement of source or subject.",
+        "register": "Episteme/Argument; authored Mytheme return"
+      },
+      {
+        "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+        "operation": "Late evidence-constrained instrument coordinates cycles for an observer.",
+        "register": "Movement; declared programme landing; canonical fold-back to be checked by parent"
+      },
+      {
+        "path": "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md",
+        "operation": "Material mechanism coordinates cycles; no archaeological validation of QL.",
+        "register": "Matheme ↔ Mytheme; distinct warrants; proposed exact fold-back"
+      }
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md"
+    ],
+    "development_status": "home-settled; recovery-census-complete; canonical development belongs to parent batch",
+    "figures": "Observer; situated dial; gearing; inscriptions; solar/lunar cycles; eclipse/calendar relations; mechanism; sky remaining outside ownership; returned human judgment",
+    "sequence": "Heterogeneous celestial periods enter material ratios and gears; a situated reader consults the dial; readable conjunction returns attention to actual cycles and use; instrument neither owns sky nor replaces observer.",
+    "authored_operation": "Technē coordinates cycles beyond itself and makes their relations available to a situated human; the completed instrument retains its source and user.",
+    "authored_corrections": [
+      "Engineering evidence and authored attunement are distinct. No claim ancient makers encoded QL; Bratton venue name does not establish mechanism history.",
+      "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no.",
+      "Whole narration precedes element amplification; ending/aftermath qualifies beginning. Every interpretive edge keeps human-amplified:yes/no. No canonical motif/character identity by stealth.",
+      "Raw sixfold must be derived from this whole’s own movement; no Definition/Operation/Pattern/Context glossary. The form may host source/story/amplification substructure without turning its positions into universal semantics."
+    ],
+    "ratification_authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+      "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+      ".wayfinder/maps/t20-t21-world-registers.md"
+    ],
+    "source_debt": [
+      "Freeth SOURCE has citation identity but no installed passages; detailed gear/tooth/cycle values require primary article passage work."
+    ],
+    "unresolved_source_houses": [],
+    "unverified_inherited_locators": [
+      {
+        "path": "the-return-of-zero-central-plan.md",
+        "start_line": 649,
+        "end_line": 657,
+        "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Technē coordinates cycles beyond itself and makes their relations available to a situated human; the completed instrument retains its source and user.",
+        "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+      },
+      {
+        "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+        "start_line": 245,
+        "end_line": 259,
+        "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Technē coordinates cycles beyond itself and makes their relations available to a situated human; the completed instrument retains its source and user.",
+        "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md",
+        "start_line": 40,
+        "end_line": 59,
+        "relation": "Read complete source-specific contribution, passage readiness and boundaries for Antikythera as attunement instrument",
+        "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "start_line": 60,
+        "end_line": 288,
+        "relation": "Read complete source-specific contribution, passage readiness and boundaries for Antikythera as attunement instrument",
+        "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+        "start_line": 55,
+        "end_line": 721,
+        "relation": "Read complete source-specific contribution, passage readiness and boundaries for Antikythera as attunement instrument",
+        "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+      }
+    ],
+    "inherited_return_candidates": [
+      {
+        "target": "A14",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A14 — Computational Process Ontology",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A15",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A16",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A16 — Arche-Topos as Differential Field",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A17",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A17 — Toroidal Circulation and the Arche-Topos",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A18",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A18 — Primordial Symbolon and Its Eight Determinations",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A22",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A22 — World-Picture → World-Atlas",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A25",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A25 — Covenant / Mediating Office / Source Authority",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A26",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A26 — Objective Internality — Mind as Worldhood",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A28",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A28 — Authored Ground / Positional Delegation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A29",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A29 — Power / Delegated Labour / Return",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A30",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A30 — Objective Co-Internality",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A31",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A31 — Deferential Intelligence",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A32",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A32 — Reflective Field / THE MIRROR THAT MOVES FIRST",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A33",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A33 — Epistemic Cultivation / Operational Parity",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A35",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A36",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A36 — Advent of Integral Zero",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C33",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C33 — Image / Valuation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C37",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C37 — World-Picture → World-Atlas",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C45",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C45 — Operational Parity",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C46",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C46 — Epistemic Cultivation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C47",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C47 — Deferential Intelligence",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C53",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C53 — Power / Delegated Labour",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C55",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C55 — Reflective Field / Mirror That Moves First",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C61",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C61 — Symbolon Disclosure Architecture",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C62",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C62 — Planetary Computation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "etymology-homology-and-analogy",
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: homology-and-analogy",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "etymology-symbol-account-and-trust",
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: symbol-account-and-trust",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      }
+    ],
+    "dispatch_scope": {
+      "whole_writer": [
+        "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md"
+      ],
+      "consumer_return_review": [
+        "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+        "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md"
+      ],
+      "source_updates": "Separate bounded source task only for the named source debt; protected NOTES excluded.",
+      "exact_additions": []
+    },
+    "coverage_origin": "Inherited whole figures/sequence semantically reviewed against source and programme; incoming generic argument relations are candidates, not verified returns.",
+    "home_decision": "Accepted by parent for inherited 21; source/production world is distinct from narrated setting and later reception.",
+    "source_readiness_backcheck": "Freeth 2006 has no passage cards; 2021 q001/q002 are quotation-ready, including model-not-replica qualification.",
+    "return_policy": "Each return is a local operation. Already enriched A bodies require only changed-content/reciprocity review, never blanket restoration. Generic inherited candidates below are not authorised writes.",
+    "occurrence_policy": "Listed bodies were read at the scope stated in corpus. Unverified inherited locators remain explicitly separate; they are not counted as read or source-ready.",
+    "ready_for_canonical_whole_dispatch": true
+  }
+}

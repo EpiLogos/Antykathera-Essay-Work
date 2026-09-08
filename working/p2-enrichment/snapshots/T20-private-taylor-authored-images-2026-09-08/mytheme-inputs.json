@@ -1,0 +1,1551 @@
+{
+  "schema_version": 1,
+  "record_type": "target-keyed-mytheme-input-bindings",
+  "status": "21-admitted-wholes-bound-parent-review-required-source-telling-gates-explicit",
+  "census": "working/p2-enrichment/census.json",
+  "authority": [
+    "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+    "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+    "the-return-of-zero-central-plan.md",
+    "working/p2-enrichment/CENSUS-RECONCILIATION.md"
+  ],
+  "elements": [
+    {
+      "record_id": "mytheme-taylor-authored-images",
+      "title": "Taylor poetry and authored images",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "wave": "T20",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+        "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+        ".wayfinder/maps/t20-t21-world-registers.md"
+      ],
+      "packet_status": "current-binding-required",
+      "binding_state": "inputs-bound-source-acquisition-debts-explicit",
+      "argument_depth": [
+        "A01",
+        "A02",
+        "A03",
+        "A04",
+        "A06",
+        "A09",
+        "A11",
+        "A12",
+        "A13",
+        "A15",
+        "A16",
+        "A18",
+        "A19",
+        "A20",
+        "A21",
+        "A24",
+        "A25",
+        "A26",
+        "A27",
+        "A29",
+        "A30",
+        "A31",
+        "A32",
+        "A33",
+        "A34",
+        "A35",
+        "A36"
+      ],
+      "argument_depth_roles": {
+        "A01": "Material whole-field consumer: A01 — Subject, God and Faithful Definition; consult completed A01 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A01.md:18.",
+        "A02": "Material whole-field consumer: A02 — Copula / Self-Identity through Difference; consult completed A02 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A02.md:18.",
+        "A03": "Material whole-field consumer: A03 — Immutable Gap / Formal Limit; consult completed A03 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A03.md:18.",
+        "A04": "Material whole-field consumer: A04 — Diaphaneity / Contextual Transparency; consult completed A04 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A04.md:18.",
+        "A06": "Material whole-field consumer: A06 — Vāk; consult completed A06 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A06.md:18.",
+        "A09": "Material whole-field consumer: A09 — Tattvic Differential Field; consult completed A09 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A09.md:18.",
+        "A11": "Material whole-field consumer: A11 — The Two Ones — 0 = One, 1 = All; consult completed A11 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A11.md:18.",
+        "A12": "Material whole-field consumer: A12 — Mono/Poly — One / All, Whole / Many; consult completed A12 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A12.md:18.",
+        "A13": "Material whole-field consumer: A13 — Two Logics of Two — Dia / Syn; consult completed A13 depth packet before extracting this register’s operation.",
+        "A15": "Material whole-field consumer: A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account; consult completed A15 depth packet before extracting this register’s operation.",
+        "A16": "Material whole-field consumer: A16 — Arche-Topos as Differential Field; consult completed A16 depth packet before extracting this register’s operation.",
+        "A18": "Material whole-field consumer: A18 — Primordial Symbolon and Its Eight Determinations; consult completed A18 depth packet before extracting this register’s operation.",
+        "A19": "Material whole-field consumer: A19 — Complex as Local Arbitration Regime; consult completed A19 depth packet before extracting this register’s operation.",
+        "A20": "Material whole-field consumer: A20 — Image / Valuation / Possession; consult completed A20 depth packet before extracting this register’s operation.",
+        "A21": "Material whole-field consumer: A21 — Individuation / Recognition; consult completed A21 depth packet before extracting this register’s operation.",
+        "A24": "Material whole-field consumer: A24 — Arbitration and the Usurpation of Measure; consult completed A24 depth packet before extracting this register’s operation.",
+        "A25": "Material whole-field consumer: A25 — Covenant / Mediating Office / Source Authority; consult completed A25 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A25.md:14.",
+        "A26": "Material whole-field consumer: A26 — Objective Internality — Mind as Worldhood; consult completed A26 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A26.md:14.",
+        "A27": "Material whole-field consumer: A27 — Self and Other — Unity without Possession; consult completed A27 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A27.md:14.",
+        "A29": "Material whole-field consumer: A29 — Power / Delegated Labour / Return; consult completed A29 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A29.md:14.",
+        "A30": "Material whole-field consumer: A30 — Objective Co-Internality; consult completed A30 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A30.md:14.",
+        "A31": "Material whole-field consumer: A31 — Deferential Intelligence; consult completed A31 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A31.md:14.",
+        "A32": "Material whole-field consumer: A32 — Reflective Field / THE MIRROR THAT MOVES FIRST; consult completed A32 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A32.md:14.",
+        "A33": "Material whole-field consumer: A33 — Epistemic Cultivation / Operational Parity; consult completed A33 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A33.md:14.",
+        "A34": "Material whole-field consumer: A34 — Idealism / Order of Dependence; consult completed A34 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A34.md:14.",
+        "A35": "Material whole-field consumer: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation; consult completed A35 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A35.md:14.",
+        "A36": "Material whole-field consumer: A36 — Advent of Integral Zero; consult completed A36 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A36.md:14."
+      },
+      "direct_carriers": [
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "working/sources-texts-references/12-7-2026-poem-set-six-routes-of-two.md",
+        "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/history-march-to-june-2026.md",
+        "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/consequence-inconsequential-april-2026.md",
+        "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+        "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/what-is-it-to-feel-may-2026.md",
+        "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/poem-07-06-2026.md",
+        "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/poem p4 lines rewrite.md",
+        "working/sources-texts-references/Epi Paper Write-ups/P2 - Para Trisika Vivarana Notes - Abhinavagupta and Jaideva Singh - Introduction.md",
+        "submission-package/epi-logos/resources/units/unit-social-power.md",
+        "writing-guidance-tools/references/authentic-voice-reference.md",
+        "submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md",
+        "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/coverage-rows.json",
+        "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/external-witnesses.json",
+        "working/sources-texts-references/Epi Paper Write-ups/source-extraction-definition-god-draft3.md",
+        "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md"
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md"
+      ],
+      "source_slices": [
+        {
+          "path": "working/sources-texts-references/12-7-2026-poem-set-six-routes-of-two.md",
+          "start_line": 17,
+          "end_line": 130,
+          "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Poetic enactment restores original wording, rhythm, ambiguity and release beyond conceptual gloss; not a new source for factual proof.",
+          "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 37,
+          "end_line": 509,
+          "relation": "Read complete source-specific contribution, passage readiness and boundaries for Taylor poetry and authored images",
+          "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 37,
+          "end_line": 509,
+          "relation": "T20-mytheme-taylor-authored-images: Read complete source-specific contribution, passage readiness and boundaries for Taylor poetry and authored images",
+          "provenance": "admitted-whole; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 762,
+          "end_line": 762,
+          "relation": "T20-mytheme-venus-naming-lucifer-christ: Keep the naming identity example distinct from the held mythic morning-star/Lucifer/Christ vector.",
+          "provenance": "registered-unmined-vector; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 4682,
+          "end_line": 4688,
+          "relation": "T20-mytheme-erased-taijitu: Two dots retain the living whole; one indicates orientation; none renders the dead binary. Monopoly erases its retained other.",
+          "provenance": "admitted-subordinate-unit; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 4700,
+          "end_line": 4707,
+          "relation": "T20-mytheme-black-sun-radiating-star: Adopt unit-social-power: energy captured versus circulated; Work/Play inversion and concentric attention rings retain their political operation.",
+          "provenance": "admitted-subordinate-unit; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 5710,
+          "end_line": 5729,
+          "relation": "T20-mytheme-god-city-bomb-surveillance-ai: Retain the cultural image’s change of medium and the distinct destruction/capture/counterfeit powers.",
+          "provenance": "admitted-subordinate-unit; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+          "start_line": 289,
+          "end_line": 296,
+          "relation": "T20-mytheme-broken-symbolon-tessera: Fracture retained as the means of recognition: separated halves authenticate their relation through reunion.",
+          "provenance": "admitted-subordinate-unit; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 5077,
+          "end_line": 5106,
+          "relation": "T20-mytheme-bohr-taijitu-emblem: A historical physics emblem participates as reception evidence, distinct from the author’s erased-dot operation.",
+          "provenance": "admitted-subordinate-unit; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "working/final-argument-quilt-2026-08-23/THREAD-INTAKE-WHOLE-RELATIONAL-UNITS.md",
+          "start_line": 167,
+          "end_line": 192,
+          "relation": "T20-mytheme-invariant-i-poured-dream: Formal world/person changes completely while invariant I and empathy remain.",
+          "provenance": "candidate-authored-experiential-whole; protected-use-choice; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "working/final-argument-quilt-2026-08-23/THREAD-INTAKE-WHOLE-RELATIONAL-UNITS.md",
+          "start_line": 240,
+          "end_line": 258,
+          "relation": "T20-mytheme-centre-everywhere: Nested real internalities can each be a centre without a final objective circumference.",
+          "provenance": "admitted-subordinate-unit; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A01.md",
+          "start_line": 52,
+          "end_line": 52,
+          "relation": "T20-mytheme-fish-water: Definition’s subject cannot stand outside its sustaining element.",
+          "provenance": "admitted-subordinate-unit; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A01.md",
+          "start_line": 52,
+          "end_line": 52,
+          "relation": "T20-mytheme-cage-window: Definition can enclose its referent or open a return to it.",
+          "provenance": "admitted-subordinate-unit; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "working/p2-enrichment/argument-depth/A06.md",
+          "start_line": 52,
+          "end_line": 52,
+          "relation": "T20-mytheme-kaleidoscope: A term becomes a local orbital centre and can be decentered; manifold interpretation is not arbitrary.",
+          "provenance": "admitted-subordinate-unit; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+          "start_line": 389,
+          "end_line": 393,
+          "relation": "T20-mytheme-necker-cube: A view flips; context then holds views together without claiming one final reading.",
+          "provenance": "admitted-subordinate-unit; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 89,
+          "end_line": 109,
+          "relation": "T20-mytheme-taylor-ft-p01: Here/there and changing play culminate in checkmate and another game.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 110,
+          "end_line": 125,
+          "relation": "T20-mytheme-taylor-ft-p02: Knowability of the unknown and unknowability of the known return as Known/Knower.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 126,
+          "end_line": 138,
+          "relation": "T20-mytheme-taylor-ft-p03: Knowing one and becoming no-one enact recognition.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 139,
+          "end_line": 149,
+          "relation": "T20-mytheme-taylor-ft-p04: Zero, One and All remain in one relational utterance.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 150,
+          "end_line": 176,
+          "relation": "T20-mytheme-taylor-ft-p05: Field/way, sealed/opening, wind and bird return Real as re-All.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 177,
+          "end_line": 197,
+          "relation": "T20-mytheme-taylor-ft-p06: Near/far, old/new and many/few change the seeking relation.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 198,
+          "end_line": 213,
+          "relation": "T20-mytheme-taylor-ft-p07: Humanised spirituality refuses institutions that devour the human.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 214,
+          "end_line": 225,
+          "relation": "T20-mytheme-taylor-ft-p08: Waking confronts tiredness and bullshit in the poem’s own voice.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 226,
+          "end_line": 251,
+          "relation": "T20-mytheme-taylor-ft-p09: Law, window, wind and pigeonhole test freedom’s relation to form.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 252,
+          "end_line": 264,
+          "relation": "T20-mytheme-taylor-ft-p10: Borders, defence and pretence disclose the cost of guarded identity.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 270,
+          "end_line": 281,
+          "relation": "T20-mytheme-taylor-ft-p11: P0: two roads of two; cancellation and 2+4 remain distinct.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 282,
+          "end_line": 295,
+          "relation": "T20-mytheme-taylor-ft-p12: P1: binary limitation returns to shared root and power.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 296,
+          "end_line": 314,
+          "relation": "T20-mytheme-taylor-ft-p13: P2: language fixes and frays; life releases its achieved form.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 315,
+          "end_line": 327,
+          "relation": "T20-mytheme-taylor-ft-p14: P3: one-and-done is answered by the retained relation of two Ones.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 328,
+          "end_line": 338,
+          "relation": "T20-mytheme-taylor-ft-p15: P4: the underlying One question exposes framing, cloud and humility with precision.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 339,
+          "end_line": 349,
+          "relation": "T20-mytheme-taylor-ft-p16: P5: God is context rather than an argumentative object.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 350,
+          "end_line": 363,
+          "relation": "T20-mytheme-taylor-ft-p17: Plain horror and love/fear retain the poem’s affective force.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 364,
+          "end_line": 406,
+          "relation": "T20-mytheme-taylor-ft-p18: Scratching is the itch: desire, capture, child/sin, healing and brothers remain in sequence.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 407,
+          "end_line": 418,
+          "relation": "T20-mytheme-taylor-ft-p19: Beyond consequence is not inconsequential: journey becomes residential.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 419,
+          "end_line": 432,
+          "relation": "T20-mytheme-taylor-ft-p20: The notion born of difference extends the companion consequence poem.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 433,
+          "end_line": 443,
+          "relation": "T20-mytheme-taylor-ft-p21: Infinite multiplied by infinitesimal returns to one sentence and sameness/difference.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 444,
+          "end_line": 466,
+          "relation": "T20-mytheme-taylor-ft-p22: Feeling is undergoing: sea, winds, captain’s boots, Venus/Sophia/Martian figures retain local poetic offices.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "start_line": 467,
+          "end_line": 494,
+          "relation": "T20-mytheme-taylor-ft-p23: Surface/layers, shoe/sole and unreturn preserve the Blake-facing poetic turn.",
+          "provenance": "admitted-individual-poem; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 1174,
+          "end_line": 1183,
+          "relation": "T20-mytheme-god-other: Finite mind confronts source, law or archetypal totality; the divine-mind reading has its own register.",
+          "provenance": "admitted-subordinate-unit; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 1174,
+          "end_line": 1183,
+          "relation": "T20-mytheme-shadow-other-self: Disowned internal difference resists the ego’s completed self-model.",
+          "provenance": "admitted-subordinate-unit; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 1174,
+          "end_line": 1183,
+          "relation": "T20-mytheme-friend-myselfs-other: Another centre shares a world while exceeding one psyche’s production of it.",
+          "provenance": "admitted-subordinate-unit; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 1174,
+          "end_line": 1183,
+          "relation": "T20-mytheme-alien-enemy: Denied uncertainty is projected into an externalised negative pole.",
+          "provenance": "admitted-subordinate-unit; exact programme occurrence, historical attribution remains separately bounded"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/history-march-to-june-2026.md",
+          "start_line": 201,
+          "end_line": 203,
+          "relation": "Immediate authorial pressure and final revised complete poem; earlier draft not substituted; original LF lines 202–204",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/history-march-to-june-2026.md",
+          "start_line": 420,
+          "end_line": 454,
+          "relation": "Immediate authorial pressure and final revised complete poem; earlier draft not substituted; original LF lines 421–455",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/consequence-inconsequential-april-2026.md",
+          "start_line": 4,
+          "end_line": 5,
+          "relation": "Withheld referent; separate encapsulation; authored context-before-silence revision and derive-not-slot correction; original LF lines 4–5",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/consequence-inconsequential-april-2026.md",
+          "start_line": 64,
+          "end_line": 64,
+          "relation": "Withheld referent; separate encapsulation; authored context-before-silence revision and derive-not-slot correction; original LF lines 65–65",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/consequence-inconsequential-april-2026.md",
+          "start_line": 325,
+          "end_line": 325,
+          "relation": "Withheld referent; separate encapsulation; authored context-before-silence revision and derive-not-slot correction; original LF lines 326–326",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/consequence-inconsequential-april-2026.md",
+          "start_line": 442,
+          "end_line": 442,
+          "relation": "Withheld referent; separate encapsulation; authored context-before-silence revision and derive-not-slot correction; original LF lines 442–442",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+          "start_line": 1,
+          "end_line": 1,
+          "relation": "Complete sentence, static/processual and two full multiplicative/divisional passes, substantive calculus demand; original LF lines 1–1",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+          "start_line": 26,
+          "end_line": 26,
+          "relation": "Complete sentence, static/processual and two full multiplicative/divisional passes, substantive calculus demand; original LF lines 26–26",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+          "start_line": 42,
+          "end_line": 42,
+          "relation": "Complete sentence, static/processual and two full multiplicative/divisional passes, substantive calculus demand; original LF lines 42–42",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+          "start_line": 81,
+          "end_line": 81,
+          "relation": "Complete sentence, static/processual and two full multiplicative/divisional passes, substantive calculus demand; original LF lines 81–81",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+          "start_line": 124,
+          "end_line": 124,
+          "relation": "Complete sentence, static/processual and two full multiplicative/divisional passes, substantive calculus demand; original LF lines 124–124",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+          "start_line": 180,
+          "end_line": 180,
+          "relation": "Complete sentence, static/processual and two full multiplicative/divisional passes, substantive calculus demand; original LF lines 180–180",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/what-is-it-to-feel-may-2026.md",
+          "start_line": 1,
+          "end_line": 12,
+          "relation": "Complete poem plus precise self-emotion/feeler/boots correction; original LF lines 1–12",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/what-is-it-to-feel-may-2026.md",
+          "start_line": 17,
+          "end_line": 17,
+          "relation": "Complete poem plus precise self-emotion/feeler/boots correction; original LF lines 17–17",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        },
+        {
+          "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/poem-07-06-2026.md",
+          "start_line": 1,
+          "end_line": 19,
+          "relation": "Complete final poem and stanza order; original LF lines 1–19",
+          "provenance": "Read-only Taylor authorial witness; conversation interlocutor text is not authorial evidence"
+        }
+      ],
+      "relations": [
+        {
+          "target": "A01",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A01 — Subject, God and Faithful Definition",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A02",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A02 — Copula / Self-Identity through Difference",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A03",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A03 — Immutable Gap / Formal Limit",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A04",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A04 — Diaphaneity / Contextual Transparency",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A06",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A06 — Vāk",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A09",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A09 — Tattvic Differential Field",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A11",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A11 — The Two Ones — 0 = One, 1 = All",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A12",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A12 — Mono/Poly — One / All, Whole / Many",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A13",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A13 — Two Logics of Two — Dia / Syn",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A15",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A16",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A16 — Arche-Topos as Differential Field",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A18",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A18 — Primordial Symbolon and Its Eight Determinations",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A19",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A19 — Complex as Local Arbitration Regime",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A20",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A20 — Image / Valuation / Possession",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A21",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A21 — Individuation / Recognition",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A24",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A24 — Arbitration and the Usurpation of Measure",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A25",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A25 — Covenant / Mediating Office / Source Authority",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A26",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A26 — Objective Internality — Mind as Worldhood",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A27",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A27 — Self and Other — Unity without Possession",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A29",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A29 — Power / Delegated Labour / Return",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A30",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A30 — Objective Co-Internality",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A31",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A31 — Deferential Intelligence",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A32",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A32 — Reflective Field / THE MIRROR THAT MOVES FIRST",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A33",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A33 — Epistemic Cultivation / Operational Parity",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A34",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A34 — Idealism / Order of Dependence",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A35",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "A36",
+          "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+          "relation": "returns-to",
+          "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A36 — Advent of Integral Zero",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C01",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C01 — Subject / Defined Indefinability",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C02",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C02 — Faithful Definition",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C06",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C06 — Copula / Identification-with-Difference",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C09",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C09 — Diaphaneity",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C21",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C21 — Living Symbol / Idol",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C23",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C23 — Severance",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C24",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C24 — Fusion",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C49",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C49 — The Two Ones — 0 = One, 1 = All",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C50",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C50 — Dia / Syn",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C51",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C51 — Logos / Epi-Logos",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C56",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C56 — Compassion / Sensitivity to Origins",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C61",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C61 — Symbolon Disclosure Architecture",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "C64",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C64 — Paradox / Transforming the Containing Field",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "etymology-encounter-region-name-count",
+          "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: encounter-region-name-count",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "etymology-homology-and-analogy",
+          "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: homology-and-analogy",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        },
+        {
+          "target": "etymology-symbol-account-and-trust",
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "relation": "qualifies",
+          "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: symbol-account-and-trust",
+          "direction": "current-to-target",
+          "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+        }
+      ],
+      "register_contract": "submission-package/essay/symbolon/mytheme/README.md",
+      "additional_required_inputs": [
+        "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+        "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+        "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+        "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+        "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+        "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+        "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+        "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+        "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+        "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+        "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+        "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+        "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+        "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+        "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+        "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+        "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+        "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+        "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+        "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+        "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+        "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+        "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+        "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+        "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+        "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+        "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+        "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+        "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+        "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+        "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        ".agents/skills/return-of-zero-pages/SKILL.md",
+        ".agents/skills/return-of-zero-links/SKILL.md",
+        ".agents/skills/return-of-zero-source/SKILL.md",
+        "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+        ".wayfinder/maps/t20-t21-world-registers.md",
+        "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+        "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+        "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+        "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+        "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/authorial-corrections.json"
+      ],
+      "target_operation": "Poetic enactment restores original wording, rhythm, ambiguity and release beyond conceptual gloss; not a new source for factual proof.",
+      "whole_figures_and_relations": "All23 complete poems in canonical authorial compilation; P0 raw numerical fork; P1 common root; P2 cave/lips; P3 two routes; P4 sky/window/age; P5 release; other poem-specific fields remain intact",
+      "whole_sequence": "Keep each complete poem’s order and voice. P0→P5 is one ordered six-work relation; P3 honors differentiating play and P4 criticises severance, so paired reading preserves their distinct lean. Other23-corpus works retain complete text and provenance before selection.",
+      "specific_boundaries": [
+        "No spelling/lineation normalisation or silent rewritten verse. Preserve “it’s”, repeated words and source-specific lineation. Source compilation current text outranks earlier six-route gloss; no new poem identities by excerpt.",
+        "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no.",
+        "Whole narration precedes element amplification; ending/aftermath qualifies beginning. Every interpretive edge keeps human-amplified:yes/no. No canonical motif/character identity by stealth.",
+        "Raw sixfold must be derived from this whole’s own movement; no Definition/Operation/Pattern/Context glossary. The form may host source/story/amplification substructure without turning its positions into universal semantics."
+      ],
+      "source_or_telling_blockers": [
+        "External/public historical claims embedded in verse need source warrant if restated as factual prose; original witnesses outside checkout are provenance paths, not permission to edit them."
+      ],
+      "status": "binding-complete-evidence-and-amplification-boundaries-retained",
+      "canonical_write_authorised_by_this_file": false,
+      "restoration_acceptance": [
+        "Intact telling and active figures available, not topical illustration.",
+        "Original developed operation surfaced; direct authored wording/provenance preserved.",
+        "Every materially consumed source and sibling NOTES read in full by writer; acquisition/edition debt scoped exactly.",
+        "Written A/C/E and cross-whole relations return to exact occurrences; unratified edges remain no.",
+        "Argument-depth backcheck and T22 receipt report actual restored operations and undisclosed debt."
+      ],
+      "source_read_obligations": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+          "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+          "notes": null,
+          "notes_policy": "Full read, authorial provenance, never mutate",
+          "read_coverage": "Existing full-read shared receipts or new mytheme preparation source receipt; writer must reread complete material source/notes",
+          "readiness": {
+            "citation_status": "internal-ready",
+            "quote_status": "excerpts-indexed-internal"
+          }
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+          "source_sha256": "64d4b5422a232e9cd2d0acd7116e0fad8376d1126e6e81a8124bb2459a7cc860",
+          "notes": null,
+          "notes_policy": "Full read, authorial provenance, never mutate",
+          "read_coverage": "Existing full-read shared receipts or new mytheme preparation source receipt; writer must reread complete material source/notes",
+          "readiness": {
+            "citation_status": "internal-ready",
+            "quote_status": "quotation-ready"
+          }
+        }
+      ],
+      "binding_readiness": {
+        "input_addresses_and_ranges": "validated",
+        "full_source_read_coverage": "preparation full reads or exact shared full-read receipts; writer repeat obligation remains",
+        "source_expansion": "blocked only at named external/telling gates, never resolved by weaker paraphrase",
+        "amplification": "unratified interpretation remains no; programme authorisation does not manufacture human encounter"
+      },
+      "dispatch_status": "authorised-bounded-T20-world-batches",
+      "previous_canonical_home": "submission-package/essay/symbolon/mytheme/poetry/taylor-authored-images/WHOLE.md",
+      "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json"
+    }
+  ],
+  "canonical_files_created": 0,
+  "validation": {
+    "targets": 21,
+    "census_ids_and_homes_match": true,
+    "all_source_ranges_valid": true,
+    "source_house_resolution": "tools/source_resolver.py build_source_index",
+    "writer_read_obligation": "Bindings/receipts do not substitute for full required writer reads",
+    "global_dispatch": "This file is not a reconciled queue; parent merges reviewed bindings after resolving target-specific gates."
+  },
+  "inherited_element": {
+    "record_id": "mytheme-taylor-authored-images",
+    "title": "Taylor poetry and authored images",
+    "register": "mytheme",
+    "record_type": "whole-mytheme",
+    "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+    "wave": "T20",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#5-mytheme-census",
+      "working/final-argument-quilt-2026-08-23/T07-100-GROUND-ACCEPTANCE-RECEIPT.md",
+      ".wayfinder/maps/t20-t21-world-registers.md"
+    ],
+    "packet_status": "current-binding-required",
+    "argument_depth": [
+      "A01",
+      "A02",
+      "A03",
+      "A04",
+      "A06",
+      "A09",
+      "A11",
+      "A12",
+      "A13",
+      "A15",
+      "A16",
+      "A18",
+      "A19",
+      "A20",
+      "A21",
+      "A24",
+      "A25",
+      "A26",
+      "A27",
+      "A29",
+      "A30",
+      "A31",
+      "A32",
+      "A33",
+      "A34",
+      "A35",
+      "A36"
+    ],
+    "argument_depth_roles": {
+      "A01": "Material whole-field consumer: A01 — Subject, God and Faithful Definition; consult completed A01 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A01.md:18.",
+      "A02": "Material whole-field consumer: A02 — Copula / Self-Identity through Difference; consult completed A02 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A02.md:18.",
+      "A03": "Material whole-field consumer: A03 — Immutable Gap / Formal Limit; consult completed A03 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A03.md:18.",
+      "A04": "Material whole-field consumer: A04 — Diaphaneity / Contextual Transparency; consult completed A04 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A04.md:18.",
+      "A06": "Material whole-field consumer: A06 — Vāk; consult completed A06 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A06.md:18.",
+      "A09": "Material whole-field consumer: A09 — Tattvic Differential Field; consult completed A09 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A09.md:18.",
+      "A11": "Material whole-field consumer: A11 — The Two Ones — 0 = One, 1 = All; consult completed A11 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A11.md:18.",
+      "A12": "Material whole-field consumer: A12 — Mono/Poly — One / All, Whole / Many; consult completed A12 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A12.md:18.",
+      "A13": "Material whole-field consumer: A13 — Two Logics of Two — Dia / Syn; consult completed A13 depth packet before extracting this register’s operation.",
+      "A15": "Material whole-field consumer: A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account; consult completed A15 depth packet before extracting this register’s operation.",
+      "A16": "Material whole-field consumer: A16 — Arche-Topos as Differential Field; consult completed A16 depth packet before extracting this register’s operation.",
+      "A18": "Material whole-field consumer: A18 — Primordial Symbolon and Its Eight Determinations; consult completed A18 depth packet before extracting this register’s operation.",
+      "A19": "Material whole-field consumer: A19 — Complex as Local Arbitration Regime; consult completed A19 depth packet before extracting this register’s operation.",
+      "A20": "Material whole-field consumer: A20 — Image / Valuation / Possession; consult completed A20 depth packet before extracting this register’s operation.",
+      "A21": "Material whole-field consumer: A21 — Individuation / Recognition; consult completed A21 depth packet before extracting this register’s operation.",
+      "A24": "Material whole-field consumer: A24 — Arbitration and the Usurpation of Measure; consult completed A24 depth packet before extracting this register’s operation.",
+      "A25": "Material whole-field consumer: A25 — Covenant / Mediating Office / Source Authority; consult completed A25 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A25.md:14.",
+      "A26": "Material whole-field consumer: A26 — Objective Internality — Mind as Worldhood; consult completed A26 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A26.md:14.",
+      "A27": "Material whole-field consumer: A27 — Self and Other — Unity without Possession; consult completed A27 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A27.md:14.",
+      "A29": "Material whole-field consumer: A29 — Power / Delegated Labour / Return; consult completed A29 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A29.md:14.",
+      "A30": "Material whole-field consumer: A30 — Objective Co-Internality; consult completed A30 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A30.md:14.",
+      "A31": "Material whole-field consumer: A31 — Deferential Intelligence; consult completed A31 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A31.md:14.",
+      "A32": "Material whole-field consumer: A32 — Reflective Field / THE MIRROR THAT MOVES FIRST; consult completed A32 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A32.md:14.",
+      "A33": "Material whole-field consumer: A33 — Epistemic Cultivation / Operational Parity; consult completed A33 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A33.md:14.",
+      "A34": "Material whole-field consumer: A34 — Idealism / Order of Dependence; consult completed A34 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A34.md:14.",
+      "A35": "Material whole-field consumer: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation; consult completed A35 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A35.md:14.",
+      "A36": "Material whole-field consumer: A36 — Advent of Integral Zero; consult completed A36 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A36.md:14."
+    },
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "working/sources-texts-references/12-7-2026-poem-set-six-routes-of-two.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/sources-texts-references/12-7-2026-poem-set-six-routes-of-two.md",
+        "start_line": 17,
+        "end_line": 130,
+        "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: Poetic enactment restores original wording, rhythm, ambiguity and release beyond conceptual gloss; not a new source for factual proof.",
+        "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+        "start_line": 37,
+        "end_line": 509,
+        "relation": "Read complete source-specific contribution, passage readiness and boundaries for Taylor poetry and authored images",
+        "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+      }
+    ],
+    "relations": [
+      {
+        "target": "A01",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A01 — Subject, God and Faithful Definition",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A02",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A02 — Copula / Self-Identity through Difference",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A03",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A03 — Immutable Gap / Formal Limit",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A04",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A04 — Diaphaneity / Contextual Transparency",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A06",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A06 — Vāk",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A09",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A09 — Tattvic Differential Field",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A11",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A11 — The Two Ones — 0 = One, 1 = All",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A12",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A12 — Mono/Poly — One / All, Whole / Many",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A13",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A13 — Two Logics of Two — Dia / Syn",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A15",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A16",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A16 — Arche-Topos as Differential Field",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A18",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A18 — Primordial Symbolon and Its Eight Determinations",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A19",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A19 — Complex as Local Arbitration Regime",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A20",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A20 — Image / Valuation / Possession",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A21",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A21 — Individuation / Recognition",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A24",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A24 — Arbitration and the Usurpation of Measure",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A25",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A25 — Covenant / Mediating Office / Source Authority",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A26",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A26 — Objective Internality — Mind as Worldhood",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A27",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A27 — Self and Other — Unity without Possession",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A29",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A29 — Power / Delegated Labour / Return",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A30",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A30 — Objective Co-Internality",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A31",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A31 — Deferential Intelligence",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A32",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A32 — Reflective Field / THE MIRROR THAT MOVES FIRST",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A33",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A33 — Epistemic Cultivation / Operational Parity",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A34",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A34 — Idealism / Order of Dependence",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A35",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A36",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A36 — Advent of Integral Zero",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C01",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C01 — Subject / Defined Indefinability",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C02",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C02 — Faithful Definition",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C06",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C06 — Copula / Identification-with-Difference",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C09",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C09 — Diaphaneity",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C21",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C21 — Living Symbol / Idol",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C23",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C23 — Severance",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C24",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C24 — Fusion",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C49",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C49 — The Two Ones — 0 = One, 1 = All",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C50",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C50 — Dia / Syn",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C51",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C51 — Logos / Epi-Logos",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C56",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C56 — Compassion / Sensitivity to Origins",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C61",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C61 — Symbolon Disclosure Architecture",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C64",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C64 — Paradox / Transforming the Containing Field",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "etymology-encounter-region-name-count",
+        "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: encounter-region-name-count",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "etymology-homology-and-analogy",
+        "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: homology-and-analogy",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "etymology-symbol-account-and-trust",
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: symbol-account-and-trust",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/mytheme/README.md",
+    "additional_required_inputs": [
+      "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+      "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+      "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+      "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+      "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+      "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      ".agents/skills/return-of-zero-pages/SKILL.md",
+      ".agents/skills/return-of-zero-links/SKILL.md",
+      ".agents/skills/return-of-zero-source/SKILL.md",
+      "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      ".wayfinder/maps/t20-t21-world-registers.md",
+      "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json"
+    ],
+    "target_operation": "Poetic enactment restores original wording, rhythm, ambiguity and release beyond conceptual gloss; not a new source for factual proof.",
+    "whole_figures_and_relations": "All23 complete poems in canonical authorial compilation; P0 raw numerical fork; P1 common root; P2 cave/lips; P3 two routes; P4 sky/window/age; P5 release; other poem-specific fields remain intact",
+    "whole_sequence": "Keep each complete poem’s order and voice. P0→P5 is one ordered six-work relation; P3 honors differentiating play and P4 criticises severance, so paired reading preserves their distinct lean. Other23-corpus works retain complete text and provenance before selection.",
+    "specific_boundaries": [
+      "No spelling/lineation normalisation or silent rewritten verse. Preserve “it’s”, repeated words and source-specific lineation. Source compilation current text outranks earlier six-route gloss; no new poem identities by excerpt.",
+      "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no.",
+      "Whole narration precedes element amplification; ending/aftermath qualifies beginning. Every interpretive edge keeps human-amplified:yes/no. No canonical motif/character identity by stealth.",
+      "Raw sixfold must be derived from this whole’s own movement; no Definition/Operation/Pattern/Context glossary. The form may host source/story/amplification substructure without turning its positions into universal semantics."
+    ],
+    "source_or_telling_blockers": [
+      "External/public historical claims embedded in verse need source warrant if restated as factual prose; original witnesses outside checkout are provenance paths, not permission to edit them."
+    ],
+    "status": "binding-complete-evidence-and-amplification-boundaries-retained",
+    "canonical_write_authorised_by_this_file": false,
+    "restoration_acceptance": [
+      "Intact telling and active figures available, not topical illustration.",
+      "Original developed operation surfaced; direct authored wording/provenance preserved.",
+      "Every materially consumed source and sibling NOTES read in full by writer; acquisition/edition debt scoped exactly.",
+      "Written A/C/E and cross-whole relations return to exact occurrences; unratified edges remain no.",
+      "Argument-depth backcheck and T22 receipt report actual restored operations and undisclosed debt."
+    ],
+    "source_read_obligations": [
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "source_sha256": "9f5a46d9adc123828b838b3f63b7cd112990f8ac11e85e58686eb3617d145785",
+        "notes": null,
+        "notes_policy": "Full read, authorial provenance, never mutate",
+        "read_coverage": "Existing full-read shared receipts or new mytheme preparation source receipt; writer must reread complete material source/notes",
+        "readiness": {
+          "citation_status": "internal-ready",
+          "quote_status": "excerpts-indexed-internal"
+        }
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+        "source_sha256": "64d4b5422a232e9cd2d0acd7116e0fad8376d1126e6e81a8124bb2459a7cc860",
+        "notes": null,
+        "notes_policy": "Full read, authorial provenance, never mutate",
+        "read_coverage": "Existing full-read shared receipts or new mytheme preparation source receipt; writer must reread complete material source/notes",
+        "readiness": {
+          "citation_status": "internal-ready",
+          "quote_status": "quotation-ready"
+        }
+      }
+    ],
+    "binding_readiness": {
+      "input_addresses_and_ranges": "validated",
+      "full_source_read_coverage": "preparation full reads or exact shared full-read receipts; writer repeat obligation remains",
+      "source_expansion": "blocked only at named external/telling gates, never resolved by weaker paraphrase",
+      "amplification": "unratified interpretation remains no; programme authorisation does not manufacture human encounter"
+    },
+    "previous_canonical_home": "submission-package/essay/symbolon/mytheme/poetry/taylor-authored-images/WHOLE.md",
+    "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+    "dispatch_status": "authorised-bounded-T20-world-batches"
+  }
+}

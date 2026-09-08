@@ -1,0 +1,65 @@
+{
+  "standing": "All unresolved targets in migration hygiene were present in before bodies; migration introduced no unresolved link. Root/index cleanup remains separate.",
+  "unresolved": [
+    {
+      "target": "submission-package/essay/symbolon/episteme/histories/README.md",
+      "raw_target": "../sources/",
+      "present_before_migration": true
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/histories/README.md",
+      "raw_target": "../../../section-rooms",
+      "present_before_migration": true
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "raw_target": "Defined Indefinability",
+      "present_before_migration": true
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "raw_target": "Crossed Zero",
+      "present_before_migration": true
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "raw_target": "Pram\u0101t\u1e5b\u2013Pram\u0101\u1e47a\u2013Prameya",
+      "present_before_migration": true
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "raw_target": "Field of Availability",
+      "present_before_migration": true
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "raw_target": "Anusy\u016bta",
+      "present_before_migration": true
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "raw_target": "Reflective Field",
+      "present_before_migration": true
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "raw_target": "Order of Dependence",
+      "present_before_migration": true
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "raw_target": "Dreamcode",
+      "present_before_migration": true
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "raw_target": "Compassion",
+      "present_before_migration": true
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "raw_target": "Eros of Logos",
+      "present_before_migration": true
+    }
+  ]
+}

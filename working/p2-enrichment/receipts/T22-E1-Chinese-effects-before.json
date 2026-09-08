@@ -1,0 +1,38 @@
+{
+  "root": {
+    "id": "HISTORICAL-BRANCHES",
+    "title": "Encounter and Account — Historical Branches and Relational Returns",
+    "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORICAL-BRANCHES.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Encounter and Account — Historical Branches and Relational Returns",
+      "Four con-histories",
+      "Region: direction and open expanse",
+      "Countenance: bearing, face and role",
+      "Six ways of counting",
+      "Chinese facing and non-severing return",
+      "Native field and source-preserving return"
+    ],
+    "sha256": "fafed6dc1b648378277bae08f0cde8dd72dcdfd335772970cae28917c339ee11",
+    "claim_status": "Argued",
+    "register": "episteme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "episteme",
+    "carriers": []
+  }
+}

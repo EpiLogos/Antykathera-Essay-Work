@@ -1,5 +1,21 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/pilot-queue.json",
+    "queue_sha256": "54830d9f54c13055370650b698c1128cb15341615934a34736adcc1303c8ed72",
+    "census": "working/p2-enrichment/census.json",
+    "census_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
   "target": {
     "record_id": "A01",
     "title": "A01 — Subject, God and Faithful Definition",
@@ -663,115 +679,115 @@
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
-      "sha256": "e5f60963ac4f7e500cf942f83eb3dcbbfeec9b1ddb6a5958cc1c7a2feb8bd2e7"
+      "sha256": "071bb9b17daaecd29d69b91b1ff26236baf5426ca71b0bdc1ef3aa950ec024a4"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
-      "sha256": "4e067676033fcf2dded66ed28f11c1018956c81c733beb005e2c2ef4f5125d9b"
+      "sha256": "b8bf99945de680991c2f3c95a5fb2f353f07b3832e31c7e72d1ecbf2aab75069"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
-      "sha256": "f3b13d0580c6aebd082f8e5ec10799e4698620cdc0b42159029f8166b3a60431"
+      "sha256": "575b30a9d9fc68ed1f2ccfaf92ad4af4692625dc64a0fc052b2f81ce90b8941e"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
-      "sha256": "58c1bca2617352c22881c027d72cb0b54173424867f9131e8d79bc42bdc132aa"
+      "sha256": "769bcdd5ed233756538e089506f0edd61fb6bd7b20513ea215e71dde209db386"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
-      "sha256": "0ea875902ff937ab8af1129bb2d3ad771973804542af4bd2033d591370706b40"
+      "sha256": "663e3b8b7a5a502cfe2382a2794bc087963cbc1bef5fd907719d0189abb82120"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
-      "sha256": "ffcb9de347ff89ee109fc1441347403e6130dfeb7fc2b00af18cf94130dd1345"
+      "sha256": "83089fd04f322b61d98b7a4ca6082f69c82d398488f95332aac5da0ca96684c0"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
-      "sha256": "a610b22b093ac4329b38c2437318131a1d61b2b177988f8a8143321c0f0b975f"
+      "sha256": "86f807b35428f1cfc3d53e68a27ff3373df9ffc42b7d0b934c3d4491ae5de9a2"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
-      "sha256": "299ab83a839221571f58fbd577b18b0a18b4ca046a9a378109fe62332f6710ce"
+      "sha256": "a72c4233c732b9a12915b3b15ad6c288c2e29f7f75b3a300863fdfaf4c72dcb0"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
-      "sha256": "8ce1e9ad11541e3b4765935120b0ccebd6d1d36293fd971b9be12ad921aa1438"
+      "sha256": "550bd175ca1d69d9d4f9bf74d443748059c5a4918f9bfddd94fa1e08f63d4493"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
-      "sha256": "98dffd81f90645ffa57f1115eb308335ad2935437c15f4c7a44fc84074018865"
+      "sha256": "f937d496add413287af899d97aeb73d33520dc8d55c1be298d04e4dce016be74"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
-      "sha256": "7ee07a2b21fade1451767f57dcecddcf8a04ddcc0d72ef05e64e59fc4d710b30"
+      "sha256": "985aecd4befc06336c2fa090a0f014f19e36814804e696246ff6379b31c39f62"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
-      "sha256": "1775afd3ce3a755b0c2ad74d5ccef1d979747b6d8a624f9ee1320e61bed61ed7"
+      "sha256": "c885d37c2f2642fff1cc559c41d1a0df72b30417259fcad04013ccb1c7d1680b"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
-      "sha256": "bef72e8796dee0e9859ca7cb4955ddd2edd122ad65f84749a711efc04e2da6c1"
+      "sha256": "aeeae92d8cb4a5b709027d539caac21d064fba2979e7578a87565682ad450fba"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
-      "sha256": "eada21d5fe8f458b461b4536dcb1f5afda42299184ee50027abd5c7da51a4064"
+      "sha256": "5405af1a82a12c131f7658e3eeb908730433ddb4b15755e83029cdc2601a3a45"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
-      "sha256": "dc3b8f850b2d1084f35c36f3c6fd31b8870702156f60e967a489e22cbe56f8bf"
+      "sha256": "351f2f0196ae0c8c66503243e459c324a3d89cf5b4aefcc5341c7a83d53f679d"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
-      "sha256": "5f88cd8d69c7ef40483c3e038a11c0c4d877c410eddc84ef5de50622cb30cddf"
+      "sha256": "8e40db236ad4ed45aa4f0c963ac587e317a3636bfa0014e438f09bca7c1a9e5c"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
-      "sha256": "3c5c0c0ebde854255332bff0a08c9d7195da8d547808c6334cabcc34c59ed353"
+      "sha256": "28d726c301f4a3ecd09b1267be1e5fb7ba981699adb1851a943047619e255c24"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
-      "sha256": "309bec829ee7b82bc6c2898a44bfbb2e2020bfb4d3076f56b095f14ad2ad649c"
+      "sha256": "29413384856eaa9c472cc21096458715a3c3ae428f8ecf5fc8e34249d346c201"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
-      "sha256": "4b0b514d8bceab4dd897783f3307e95046166fc9c04a0d715c86ce89c2ee9906"
+      "sha256": "3e30e195e468a5d6d31709a74664c2b0e65a5137394df3a5a8cef37863ea333b"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
-      "sha256": "c2f868ac0986060769ed326e1a7a7674ef8752814cb1de1938f3657b9c61eb1e"
+      "sha256": "d36c58ef51bebd96dc3d2614f76d4253b60875d756de9f4638e74061e93ff121"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
-      "sha256": "dcc5c86e42390906fa3bfdcf27dcf48eb1be1ed1248bd125a029ecbc33d8cbdc"
+      "sha256": "ba5a7f839e2b944620070c5f7322694fea54ea9222719419939343504b6393c3"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
-      "sha256": "5a15fab90ac62617eed62286f2ae314e3d85c256ca03eb50bc054dd7f9544d5b"
+      "sha256": "3d5c2b11c38cd256dc7231697eac5ca08d8e45dc70f73f3f9dc55cc36dd07aa0"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
-      "sha256": "65ea295ec3e28a0d9514d3cd16eba49dbb57dc6906950ba9687d8c189cf2922a"
+      "sha256": "4986ca50ff5f68c5e2df63d6505e51b8858cd8534d319b56eb85bf1b5272a5b6"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
-      "sha256": "c2b69707fd0e1cc26d901cd738a9be0db46b6d4ba281a8849039fb677c9010e5"
+      "sha256": "ead814d0bdf4d20253b1729f8c2440645f86348a34707ba8232dfb96381be335"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
-      "sha256": "7d69d57f9b898b5d807f5de058a7da36a9a4f93e4552f9b927bf3c8338f71457"
+      "sha256": "24b252c2bdb4a55b0ca0f9647da738d246c1fec014f0dc046e8dcd86b0beb527"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
-      "sha256": "e8cd30e9ec8b6a8c4ecae8cd53fde0395932e9f7e8c8051b18e8db213f46c693"
+      "sha256": "8a3e7a2c788cd97fdea67785d24dbe77f2b6a4b29b60a79656e0769b4b2d3095"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
-      "sha256": "65c54a1888cfa2dc5806e8f18afd4c2fb135a04c498df392586f4c06e2c5e62a"
+      "sha256": "8be0570c8b6f695f0f8eb68a95156722db6d7b74678c348f487f3d8c67981c5e"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
-      "sha256": "24728843947eb62665e43f0592a346162fbc856ff36a08390549706a0cc1e4c9"
+      "sha256": "724e422c9ef3786ba69c3e431d637a21cd624a06f3259e45ece5a8f011ba009c"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
@@ -823,11 +839,11 @@
     },
     {
       "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
-      "sha256": "98fb7597aae77524a40ff046da09ee7be69d03611de46cb9ec1825319926bda4"
+      "sha256": "dfe899effea04bd7ad40080f353b059640fa328b79d8a3433b53f70fdf5ca3c1"
     },
     {
       "path": "submission-package/essay/symbolon/episteme/README.md",
-      "sha256": "ae533c3453712c8931001f2b50a3cd93b06fbb1a87f64cdfef0d64f2f268f4d0"
+      "sha256": "e16868b2d83a7eb63bfae066135e0f6d4aaa9681ed488d0b517306e9037fa2d7"
     }
   ],
   "sources": [
@@ -840,7 +856,7 @@
     },
     {
       "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
-      "source_sha256": "9f5a46d9adc123828b838b3f63b7cd112990f8ac11e85e58686eb3617d145785",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
       "notes": null,
       "notes_sha256": null,
       "notes_policy": "read in full; authorial provenance; never mutate"

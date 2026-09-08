@@ -1,0 +1,111 @@
+{
+  "root": {
+    "id": "foundational-ratios",
+    "title": "The Foundational Ratios",
+    "path": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "The Foundational Ratios",
+      "#0 — The standing identity",
+      "#1 — The whole accounts for its components",
+      "#2 — The cross-comparison gives direction",
+      "#3 — Three convergent derivations of the epogdoon",
+      "#4 — The complete canonical set",
+      "#5→0 — The ratio returns through its difference"
+    ],
+    "sha256": "12b4803781a948394fd862aebad2fed68a9a4ebae89996f16ae5ece79a112b41",
+    "claim_status": "Derived",
+    "register": "matheme"
+  },
+  "edges": [
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "raw_target": "../../episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "raw_target": "../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "raw_target": "../../episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "target": "submission-package/essay/symbolon/AM-IS.md",
+      "raw_target": "../../AM-IS.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+      "raw_target": "../../episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "target": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "raw_target": "../../../section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "raw_target": "../../episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "raw_target": "../../episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "raw_target": "taylor-2026-core-theorems-pithy",
+      "relation": "supported-by",
+      "origin": "source_ids",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "raw_target": "taylor-2026-binary-explication",
+      "relation": "supported-by",
+      "origin": "source_ids",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+      "raw_target": "taylor-2026-ql-musical-derivation-v3",
+      "relation": "supported-by",
+      "origin": "source_ids",
+      "resolved": true
+    }
+  ]
+}

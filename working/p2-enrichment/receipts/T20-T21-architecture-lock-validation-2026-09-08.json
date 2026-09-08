@@ -1,0 +1,40 @@
+{
+  "status": "architecture-and-recovery-complete-next-waves-not-executed",
+  "date": "2026-09-08",
+  "notes_unchanged": true,
+  "written_contracts_maps_recovery": {
+    "the-return-of-zero-central-plan.md": "b9943891d131350cbfe5f7094ac7e0f5715caf474d53ad85eaf8231250a109b7",
+    ".wayfinder/maps/t20-t21-world-registers.md": "6df768f3c44f29a54f8c781e6c20fd62a02ce09cbcafaf6b7a3464ea73c7bf6f",
+    ".wayfinder/maps/p2-enrichment-handoff.md": "c15a5f74cb12978390b5e903ab470581ad7fa75d9b7e3fa714c3554a0104dfcc",
+    "submission-package/essay/symbolon/mytheme/README.md": "c698badefcb8c6df2c176546b6b42ff54ab1a61e5e1ea4c10dbd979c72256413",
+    "submission-package/essay/symbolon/episteme/README.md": "e16868b2d83a7eb63bfae066135e0f6d4aaa9681ed488d0b517306e9037fa2d7",
+    "submission-package/essay/symbolon/episteme/histories/README.md": "8e3d5cb6ca35e384ac26351a2039f84213a4ed63ceeed135d1fc4e55ed8411b3",
+    "docs/REPOSITORY-SHAPE.md": "780011dc79025e908c73d7d74b683ea5adb4327374ab5e3e8018d14803f5fbc2",
+    "working/p2-enrichment/CENSUS-RECONCILIATION.md": "48faf5a8b6bcf01c10939227f9042a549f1667867d35ebea557f544c4ca0d85f",
+    "working/p2-enrichment/NEXT-SESSION.md": "36a769c32786fb7f8688e9188161d9b5677a7fcba20079c2ca0addc65ee1b11b",
+    "working/p2-enrichment/receipts/NEUMANN-PAIRINGS-RECOVERY-2026-09-08.md": "b5bdbb020f871fc3c6530ea237f6c97af0a9da35b601e22ae56c9411e01ab2ec"
+  },
+  "source_edit": "Neumann SOURCE navigation/routing corrected using publisher contents; no quotations promoted; existing Gebser house correctly acknowledged",
+  "source_projections": "rebuilt and check passed, 3 files",
+  "current_packets": "94 generated and verified; see T20-T21-input-freshness-2026-09-08.json",
+  "link_checks": {
+    "T20-links-maps-t20-t21-world-registers.json": {
+      "edges": 3,
+      "unresolved": []
+    },
+    "T20-links-receipts-NEUMANN-PAIRINGS-RECOVERY-2026-09-08.json": {
+      "edges": 8,
+      "unresolved": []
+    },
+    "T20-links-mytheme-README.json": {
+      "edges": 18,
+      "unresolved": []
+    },
+    "T20-links-episteme-README.json": {
+      "edges": 18,
+      "unresolved": []
+    }
+  },
+  "new_ordinary_filesystem_links_missing": [],
+  "scope": "No story/history migration or next-wave body generation. Existing code tests not rerun because no implementation changed. Global doctor report retained separately."
+}

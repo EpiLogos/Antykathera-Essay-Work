@@ -1,0 +1,35 @@
+{
+  "root": {
+    "id": "bohm-postmodern-science-postmodern-world",
+    "title": "Postmodern Science and a Postmodern World",
+    "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-postmodern-science-postmodern-world/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Postmodern Science and a Postmodern World",
+      "Identity and consulted object",
+      "Passages and paraphrase locations",
+      "Consumption"
+    ],
+    "sha256": "1c45ecd868931e0752a5795d10a91826d0a66e5bdb3437830c144feb21f0e339",
+    "citation_status": "carrier-identifiable",
+    "quote_status": "no-excerpts"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

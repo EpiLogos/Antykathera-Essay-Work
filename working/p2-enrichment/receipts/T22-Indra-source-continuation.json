@@ -1,0 +1,11 @@
+{
+  "source": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE.md",
+  "before_sha256": "25133c1cec07eafdb130260e24afd1a332b348f7d144450b4324102be98a56c1",
+  "after_sha256": "9946151cf5e4a1cc58d78f524f62468fdfb3ab61ff9f5458ee542158ebde5568",
+  "primary_xml": "working/sources-texts-references/primary-texts/huayan-wujiao-zhiguan-cbeta/T45n1867.xml",
+  "primary_xml_sha256": "f6b2c5bf6782b5dfc40c71e2b040055c49f68d2a12ffac12ee16a02e13027b85",
+  "selected_span": "T45n1867 0513a20\u20130513c18",
+  "parent_read": "Complete extracted span read; control saved; no English print or critical-apparatus verification claimed",
+  "preserved": "q001/source-matched and selected English collation debt",
+  "hygiene_repair": "Raw XML/TXT research objects exist and hashes verified; show exact literal locators rather than treating them as canonical Markdown graph nodes."
+}

@@ -3,7 +3,7 @@
   "status": "reconciled",
   "scope": "T17 single-record A01 pilot; not the completed bulk queue or T17 completion",
   "census": "working/p2-enrichment/census.json",
-  "census_sha256": "32b569e176e2af3c49e69531e1e94aaf5e54299efcd4a2dd637452b7cf4326a2",
+  "census_sha256": "3aa7985f4c717cc0fb283a97cfa2bacdf0ce209b7de30d7660e4e98b5d6b37a5",
   "identity_review": "Parent checked the A01 identity against T09 and its input binding; reviewed 197 identity homes and twelve recovered additions against their declared governing operations. Global discovery dispositions and bulk input bindings continue separately.",
   "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
   "elements": [
@@ -527,5 +527,6 @@
       },
       "binding_state": "pilot-accepted"
     }
-  ]
+  ],
+  "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c"
 }

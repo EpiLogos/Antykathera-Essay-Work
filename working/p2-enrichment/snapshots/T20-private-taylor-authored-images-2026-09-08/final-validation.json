@@ -1,0 +1,1452 @@
+{
+  "status": "passed",
+  "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+  "whole_sha256": "b4a1b3a8193e4b453df67057a7b79b5166d64f52b15dec7a57f4b43e237a07b3",
+  "words": 8107,
+  "lines": 523,
+  "poems": [
+    {
+      "unit": "FT-P01",
+      "exact_bytes": true,
+      "quote_sha256": "da7dcf4945a0e041b3662ff74303de6f59d29a22c5705931eeb716e1be68afd8",
+      "quote_lines": 11
+    },
+    {
+      "unit": "FT-P02",
+      "exact_bytes": true,
+      "quote_sha256": "ba9b0fd254fbea02204085c63fb09744cade41a2fe195d24e45eae3549f95b9a",
+      "quote_lines": 6
+    },
+    {
+      "unit": "FT-P03",
+      "exact_bytes": true,
+      "quote_sha256": "a16f2602d4e4e53a94b9f299944db115bcd640b527336e31a4268c7c27267894",
+      "quote_lines": 3
+    },
+    {
+      "unit": "FT-P04",
+      "exact_bytes": true,
+      "quote_sha256": "4b7d92d290a3a4c40b168ed6997a0388face0d90ce27a3f92e357812237c6938",
+      "quote_lines": 1
+    },
+    {
+      "unit": "FT-P05",
+      "exact_bytes": true,
+      "quote_sha256": "718bbb0f910240a420ab94e8f6dd83f0f77c32fc2302cdd257157ec068202437",
+      "quote_lines": 17
+    },
+    {
+      "unit": "FT-P06",
+      "exact_bytes": true,
+      "quote_sha256": "a3ca0b2e529c87104faadb560ba9afcd27ddb9fc1f4126acf9a1fbf3a3969017",
+      "quote_lines": 11
+    },
+    {
+      "unit": "FT-P07",
+      "exact_bytes": true,
+      "quote_sha256": "a31049a29ecb31264a1b1563b87b58073e0008de69c1dc9babe2c436bfaa7b99",
+      "quote_lines": 6
+    },
+    {
+      "unit": "FT-P08",
+      "exact_bytes": true,
+      "quote_sha256": "3c98eaed64817f42cbf5ff4a4eeb41cad7c9e19917ceb03ab3e578fc3b014a58",
+      "quote_lines": 2
+    },
+    {
+      "unit": "FT-P09",
+      "exact_bytes": true,
+      "quote_sha256": "9e021d4755e728527fd5ed948565fe7068f331979d0434ce226d21f044ad4125",
+      "quote_lines": 16
+    },
+    {
+      "unit": "FT-P10",
+      "exact_bytes": true,
+      "quote_sha256": "b91bef5c198978421f70ccf5a630d01cbab304cfaccbc9665f62a3c7224be656",
+      "quote_lines": 4
+    },
+    {
+      "unit": "FT-P11",
+      "exact_bytes": true,
+      "quote_sha256": "66f0e1d49140c4c8df00bf4c1a010cecb93f18f2b0a8b21c06c7457894f127fc",
+      "quote_lines": 2
+    },
+    {
+      "unit": "FT-P12",
+      "exact_bytes": true,
+      "quote_sha256": "791d3ad550a5e11eed8cf1edc7cd9bc808c7f12186a429da858b284d962f4faa",
+      "quote_lines": 4
+    },
+    {
+      "unit": "FT-P13",
+      "exact_bytes": true,
+      "quote_sha256": "359cf90bbf259d4a17c0929619f11d211ef2da1374d63c8b326a5d8a2ef4f103",
+      "quote_lines": 9
+    },
+    {
+      "unit": "FT-P14",
+      "exact_bytes": true,
+      "quote_sha256": "c00589327500fa95eadffd8da2ea3402d67a0584862346e06b26084dbe063dfb",
+      "quote_lines": 3
+    },
+    {
+      "unit": "FT-P15",
+      "exact_bytes": true,
+      "quote_sha256": "14bf3f038cfa39f866fda9d0c653c51e5ef2685106d102ec82fce41682fd0a63",
+      "quote_lines": 1
+    },
+    {
+      "unit": "FT-P16",
+      "exact_bytes": true,
+      "quote_sha256": "feb05b2ca84cc57d8b1ce20d289b886fbd4345f0a485e85a3e04f847132e573c",
+      "quote_lines": 1
+    },
+    {
+      "unit": "FT-P17",
+      "exact_bytes": true,
+      "quote_sha256": "c6401d8580e019d8f2cde55fa666503990e2c2325d890ee22ef5251f4dd8ed55",
+      "quote_lines": 4
+    },
+    {
+      "unit": "FT-P18",
+      "exact_bytes": true,
+      "quote_sha256": "2230a49ecbcaf4beff50ee8cb93cbc5743873c275d5eea826abbca6d1e8c439e",
+      "quote_lines": 33
+    },
+    {
+      "unit": "FT-P19",
+      "exact_bytes": true,
+      "quote_sha256": "96978a4db70fff0c13bbb09eb938b2f1c0682eece85b4f759f0ffb97ef4e8f2c",
+      "quote_lines": 2
+    },
+    {
+      "unit": "FT-P20",
+      "exact_bytes": true,
+      "quote_sha256": "54cccb846267876df0381d44fc68302cccdfc57a075b056f2e7888d491a82588",
+      "quote_lines": 4
+    },
+    {
+      "unit": "FT-P21",
+      "exact_bytes": true,
+      "quote_sha256": "e30310002d0049c45009ee3c6114652a41539afb0e11231fffa77c683a4fbc99",
+      "quote_lines": 1
+    },
+    {
+      "unit": "FT-P22",
+      "exact_bytes": true,
+      "quote_sha256": "57476eb8c33665207cbd61ae4e19b6dfeb537f650b99822d1ce923600d678bd4",
+      "quote_lines": 13
+    },
+    {
+      "unit": "FT-P23",
+      "exact_bytes": true,
+      "quote_sha256": "087ceec8c5b146f311419b7f0fce0bbaed49ec60c518da514fd8ea6c3f595e1c",
+      "quote_lines": 19
+    }
+  ],
+  "headings": [
+    "#0",
+    "#1",
+    "#2",
+    "#3",
+    "#4",
+    "#5→0"
+  ],
+  "anchors": 39,
+  "links": [
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#complete-poems",
+      "resolved": true
+    },
+    {
+      "destination": "../../../archetypal-ground/neumann-images/WHOLE.md#neumann-round",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q001",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q002",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q003",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q004",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q005",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q006",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q007",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q008",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q009",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q010",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q011",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q012",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q013",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q014",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q015",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q016",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q017",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q018",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q019",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q020",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q021",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q022",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md#taylor-2026-personal-poetry-corpus-q023",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/concepts/C21-Living-Symbol-Idol.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/arguments/A06-Vak.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../README.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "resolved": true
+    },
+    {
+      "destination": "../mirror-that-moves-first/WHOLE.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../../episteme/arguments/A06-Vak.md",
+      "resolved": true
+    },
+    {
+      "destination": "../../../archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation",
+      "resolved": true
+    }
+  ],
+  "archive_files": 131,
+  "archive_validation": [
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "matched": true
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "matched": true
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "matched": true
+    },
+    {
+      "path": ".wayfinder/maps/t20-t21-world-registers.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/epi-logos/resources/units/unit-social-power.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/quilt/agentworld-response-matrix.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/quilt/ql-expression-grammar.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/README.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md",
+      "matched": true
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "matched": true
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "matched": true
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/THREAD-INTAKE-WHOLE-RELATIONAL-UNITS.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A01.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A02.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A04.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A05.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A06.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A07.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A08.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A09.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A10.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A12.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A14.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A17.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A19.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A20.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A22.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A24.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A25.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A28.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A29.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A30.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A31.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A33.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A34.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/depth-acceptance.json",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/authorial-corrections.json",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/coverage-rows.json",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/external-witnesses.json",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/mytheme-inputs.json",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/consequence-inconsequential-april-2026.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/history-march-to-june-2026.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/poem-07-06-2026.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/what-is-it-to-feel-may-2026.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/poem p4 lines rewrite.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/12-7-2026-poem-set-six-routes-of-two.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/P2 - Para Trisika Vivarana Notes - Abhinavagupta and Jaideva Singh - Introduction.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/source-extraction-definition-god-draft3.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "matched": true
+    },
+    {
+      "path": "writing-guidance-tools/references/authentic-voice-reference.md",
+      "matched": true
+    }
+  ],
+  "live_bindings": [
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "matched": true
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "matched": true
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "matched": true
+    },
+    {
+      "path": ".wayfinder/maps/t20-t21-world-registers.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/epi-logos/resources/units/unit-social-power.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/quilt/agentworld-response-matrix.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/quilt/ql-expression-grammar.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/README.md",
+      "matched": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md",
+      "matched": true
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "matched": true
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "matched": true
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/THREAD-INTAKE-WHOLE-RELATIONAL-UNITS.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A01.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A02.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A04.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A05.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A06.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A07.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A08.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A09.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A10.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A12.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A14.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A17.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A19.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A20.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A22.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A24.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A25.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A28.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A29.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A30.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A31.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A33.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A34.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/depth-acceptance.json",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/authorial-corrections.json",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/coverage-rows.json",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/external-witnesses.json",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/mytheme-inputs.json",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/consequence-inconsequential-april-2026.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/history-march-to-june-2026.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/poem-07-06-2026.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/journal/what-is-it-to-feel-may-2026.md",
+      "matched": true
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/raw-witnesses/poem p4 lines rewrite.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/12-7-2026-poem-set-six-routes-of-two.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/P2 - Para Trisika Vivarana Notes - Abhinavagupta and Jaideva Singh - Introduction.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/source-extraction-definition-god-draft3.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "matched": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "matched": true
+    },
+    {
+      "path": "writing-guidance-tools/references/authentic-voice-reference.md",
+      "matched": true
+    }
+  ],
+  "sources": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "unchanged": true,
+      "notes_absent_as_bound": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+      "unchanged": true,
+      "notes_absent_as_bound": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "unchanged": true,
+      "notes_absent_as_bound": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+      "unchanged": true,
+      "notes_absent_as_bound": true
+    }
+  ],
+  "external_witnesses": [
+    {
+      "path": "/Users/admin/Central/Work/personal/Nara-Personal/journal/history-march-to-june-2026.md",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/admin/Central/Work/personal/Nara-Personal/journal/consequence-inconsequential-april-2026.md",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/admin/Central/Work/personal/Nara-Personal/journal/infinite-infinitessimal-may-2026.md",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/admin/Central/Work/personal/Nara-Personal/journal/what-is-it-to-feel-may-2026.md",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/admin/Central/Work/personal/Nara-Personal/journal/poem-07-06-2026.md",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/admin/Central/Work/personal/Nara-Personal/poem p4 lines rewrite.md",
+      "unchanged": true
+    }
+  ],
+  "coverage_rows": 40,
+  "held_dispositions_preserved": true,
+  "packet_validation": {
+    "returncode": 0,
+    "stdout": "wrote target packet: /var/folders/q0/g_91z7355tb58425qwg3xcy80000gn/T/tmpd22m1yyk/packet.json\nverified packet freshness: working/p2-enrichment/snapshots/T20-private-taylor-authored-images-2026-09-08/packet.json\n",
+    "stderr": ""
+  },
+  "errors": [],
+  "scope": "Single-whole draft validation only; no parent E2/T22/consumer/hygiene claim"
+}

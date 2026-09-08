@@ -1,0 +1,44 @@
+{
+  "root": {
+    "id": "baudrillard-1977-forget-foucault",
+    "title": "Baudrillard — Forget Foucault (1977)",
+    "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Baudrillard — Forget Foucault (1977)",
+      "Bibliographic identity",
+      "Chicago 18 forms",
+      "Source scholarship",
+      "Argument relations (candidate — for the harmonisation pass to weigh)",
+      "Passage needs (leads — no quotation text)",
+      "Open acquisition and verification"
+    ],
+    "sha256": "6ea0258dbe3e20ba13347220b83427b872635bc2a5ff4f35ae2ff739abfd9cb5",
+    "citation_status": "intake",
+    "quote_status": "no-excerpts",
+    "main_source_for": [],
+    "tags": [
+      "epi-logos/antikythera-essay",
+      "source-bank/record",
+      "source-bank/french-power-theory"
+    ]
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "root": {
+    "id": "t20-t21-world-registers",
+    "title": "T20–T21 — Mytheme and Episteme world-register execution map",
+    "path": ".wayfinder/maps/t20-t21-world-registers.md",
+    "artifact_type": "document",
+    "authority": "supporting-document",
+    "headings": [
+      "Mytheme and Episteme — the next waves",
+      "Required recovery for the first writing batch",
+      "Mytheme: the locked directory approach",
+      "Episteme: the locked directory approach",
+      "Two connected atlases, one set of records",
+      "Sixfold development and the return of intelligence",
+      "Execution order for the fresh session",
+      "Minimal fresh-session prompt"
+    ],
+    "sha256": "6df768f3c44f29a54f8c781e6c20fd62a02ce09cbcafaf6b7a3464ea73c7bf6f"
+  },
+  "edges": [
+    {
+      "source": ".wayfinder/maps/t20-t21-world-registers.md",
+      "target": "the-return-of-zero-central-plan.md",
+      "raw_target": "../../the-return-of-zero-central-plan.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": ".wayfinder/maps/t20-t21-world-registers.md",
+      "target": "working/p2-enrichment/receipts/T17-T19-COMPLETION-2026-09-07.md",
+      "raw_target": "../../working/p2-enrichment/receipts/T17-T19-COMPLETION-2026-09-07.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": ".wayfinder/maps/t20-t21-world-registers.md",
+      "target": "working/p2-enrichment/receipts/NEUMANN-PAIRINGS-RECOVERY-2026-09-08.md",
+      "raw_target": "../../working/p2-enrichment/receipts/NEUMANN-PAIRINGS-RECOVERY-2026-09-08.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "reason": "main_source_for accepts essay section codes; source-section and proposed conjugate routing labels are preserved verbatim in source_use_notes without inventing essay assignments. Source bodies and attribution/readiness unchanged.",
+  "changes": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md",
+      "preserved_labels": [
+        "- the cogito's landing beside Ø-occlusion (proposed alignment)"
+      ],
+      "body_unchanged": true,
+      "notes_present": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "preserved_labels": [
+        "- '§VII–§IX · psyche-register unit, agentic crosswalk, topological register, crossed-zero system and companion cogito accounting'"
+      ],
+      "body_unchanged": true,
+      "notes_present": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1961-totality-and-infinity/SOURCE.md",
+      "preserved_labels": [
+        "- the love/face/responsibility register drawn by the conjugate root's A face (proposed)"
+      ],
+      "body_unchanged": true,
+      "notes_present": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1981-otherwise-than-being/SOURCE.md",
+      "preserved_labels": [
+        "- the responsibility/substitution register drawn by the conjugate root's A face (proposed)"
+      ],
+      "body_unchanged": true,
+      "notes_present": false
+    }
+  ]
+}

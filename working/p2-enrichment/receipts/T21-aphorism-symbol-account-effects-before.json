@@ -1,0 +1,38 @@
+{
+  "root": {
+    "id": "WHOLE-FIELD",
+    "title": "Whole Field — Symbol / Account / Trust",
+    "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Whole Field — Symbol / Account / Trust",
+      "The relation",
+      "Canonical operations",
+      "Symbol answers to source",
+      "Account does not replace source",
+      "Trust keeps the return route active",
+      "Account re-enters source-field",
+      "Evidence registers",
+      "Relation to Primordial Symbolon"
+    ],
+    "sha256": "0bbb5ef1fac69d46a68d05cb1d32b471c48147213e4d610183f003b5db78b343"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "observed_utc": "2026-09-08T13:19:45.772067+00:00",
+  "C9_proof": {
+    "path": "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-return-proof.json",
+    "sha256": "d7de80f356ed8d9268137ab3d3816392a5f085b0c8ab8d5a69a05d4d9da8d075",
+    "status": "PASS"
+  },
+  "T22_failures": 0,
+  "nine_actual_paragraphs_verified": true,
+  "case_count": 5,
+  "semantic_judgments": [
+    {
+      "case": "Chinese",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "operation": "Designation owes the obligations of its office; political sequence does not derive native ratio.",
+      "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#chinese-rectification-of-names",
+      "occurrence": {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "start_line": 95,
+        "end_line": 95,
+        "text": "The [Chinese rectification case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#chinese-rectification-of-names) **compares** a designation’s practical standing with the account of its office: Analects 13.3 connects names to speech and action, then to ritual and punishment. A15’s return keeps the measure and its jurisdiction in view when it judges a result. A correctly recorded title does not discharge the obligations it declares. The received political sequence remains distinct from the native ratio derivation."
+      },
+      "current_exact_paragraph": true,
+      "current_case_forward": true,
+      "current_whole_to_case": true,
+      "T22_pair": {
+        "case": "Chinese",
+        "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "case_anchor": "chinese-rectification-of-names",
+        "literal_case_forward": true,
+        "literal_case_reverse": true,
+        "graph_H_bilateral": true,
+        "whole_to_exact_case_to_consumer": true,
+        "graph_W_reverse": true,
+        "graph_W_forward": true
+      },
+      "current_sha256": "b749243203623008668ffc3e4de86e440e240a9365f7636a21abb50409568ccc"
+    },
+    {
+      "case": "Chinese",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "operation": "Good counsel can remain stable; immunity protecting bad counsel is the specific comparison.",
+      "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#chinese-rectification-of-names",
+      "occurrence": {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "start_line": 42,
+        "end_line": 42,
+        "text": "In the [Chinese rectification case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#chinese-rectification-of-names), [Analects 13.15](../sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md#analects-ctext-legge-q002) **compares** two consequences of unopposed speech: good counsel can stand, while bad counsel left unopposed exposes the state to danger. C27 asks whether the office governing an account can receive the correction its consequences require. The comparison preserves the distinction between a warranted stable standard and immunity from correction; it does not attribute C27’s revision procedure to the received Analects."
+      },
+      "current_exact_paragraph": true,
+      "current_case_forward": true,
+      "current_whole_to_case": true,
+      "T22_pair": {
+        "case": "Chinese",
+        "consumer": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "case_anchor": "chinese-rectification-of-names",
+        "literal_case_forward": true,
+        "literal_case_reverse": true,
+        "graph_H_bilateral": true,
+        "whole_to_exact_case_to_consumer": true,
+        "graph_W_reverse": true,
+        "graph_W_forward": true
+      },
+      "current_sha256": "1424096d1a7b28245dcb193d4e6a12750e0d6b6dc5edff0cb4d6395fce13269d"
+    },
+    {
+      "case": "Arabic",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "operation": "Count retains its object, textual warrant and further act; neither numeral nor list performs invocation.",
+      "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#arabic-reckoning-and-names",
+      "occurrence": {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "start_line": 97,
+        "end_line": 97,
+        "text": "The [Arabic E4 case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#arabic-reckoning-and-names) **qualifies** the office of a count. The ninety-nine-Names report makes enumeration or retention part of an undertaking; the number alone neither identifies every Name nor performs invocation. This returns A15’s requirement to state what is counted, under which textual warrant, and what further act the count is meant to serve. It supplies no derivation of the native numerical field."
+      },
+      "current_exact_paragraph": true,
+      "current_case_forward": true,
+      "current_whole_to_case": true,
+      "T22_pair": {
+        "case": "Arabic",
+        "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "case_anchor": "arabic-reckoning-and-names",
+        "literal_case_forward": true,
+        "literal_case_reverse": true,
+        "graph_H_bilateral": true,
+        "whole_to_exact_case_to_consumer": true,
+        "graph_W_reverse": true,
+        "graph_W_forward": true
+      },
+      "current_sha256": "b749243203623008668ffc3e4de86e440e240a9365f7636a21abb50409568ccc"
+    },
+    {
+      "case": "Arabic",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "operation": "Report and undertaking are knowable while promised outcome remains unverified; native trust not borrowed.",
+      "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#arabic-reckoning-and-names",
+      "occurrence": {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "start_line": 50,
+        "end_line": 50,
+        "text": "The [Arabic E4 case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#arabic-reckoning-and-names) **compares** undertaking with possession: the text presents a promise to which a practitioner can orient an act, while the historian can verify what the report says without establishing its promised outcome. Trust’s native formal-limit operation remains A23’s argument; it is neither derived from a numerical formula nor attributed wholesale to Islamic devotional practice."
+      },
+      "current_exact_paragraph": true,
+      "current_case_forward": true,
+      "current_whole_to_case": true,
+      "T22_pair": {
+        "case": "Arabic",
+        "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "case_anchor": "arabic-reckoning-and-names",
+        "literal_case_forward": true,
+        "literal_case_reverse": true,
+        "graph_H_bilateral": true,
+        "whole_to_exact_case_to_consumer": true,
+        "graph_W_reverse": true,
+        "graph_W_forward": true
+      },
+      "current_sha256": "aeb6948cbdd93d99c4054641bcdfcb4620a047ac0460805b3ac33becab5724e8"
+    },
+    {
+      "case": "Egyptian",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "operation": "Preserved address and provision do not prove afterlife efficacy or decide living symbol versus idol.",
+      "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#egyptian-rn-reri",
+      "occurrence": {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "start_line": 46,
+        "end_line": 46,
+        "text": "The [Egyptian rn case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#egyptian-rn-reri) **qualifies** the distinction between preserving a sign and possessing its source. Reri’s funerary name-record can retain a specific historical address even when the rite’s promised efficacy lies beyond verification. A surviving form need not be declared either a living symbol or an idol on that basis alone. The present account remains answerable by preserving the person, object and practice to which its interpretation claims to refer."
+      },
+      "current_exact_paragraph": true,
+      "current_case_forward": true,
+      "current_whole_to_case": true,
+      "T22_pair": {
+        "case": "Egyptian",
+        "consumer": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "case_anchor": "egyptian-rn-reri",
+        "literal_case_forward": true,
+        "literal_case_reverse": true,
+        "graph_H_bilateral": true,
+        "whole_to_exact_case_to_consumer": true,
+        "graph_W_reverse": true,
+        "graph_W_forward": true
+      },
+      "current_sha256": "eebc80e938dfd53198a0f0789893c5d8470595bfd502ca6626ae1e3dae685fbc"
+    },
+    {
+      "case": "Sanskrit",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "operation": "Twenty-five differentiated causal offices retain classification criterion and separate epistemic warrant.",
+      "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#sanskrit-enumeration-and-discriminative-practice",
+      "occurrence": {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "start_line": 99,
+        "end_line": 99,
+        "text": "The [Sanskrit enumeration case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#sanskrit-enumeration-and-discriminative-practice) **compares** this register-3 obligation through Kārikā 3’s twenty-five principles under different causal descriptions. The count remains exact while the account retains what is productive, produced, both or neither. Kārikās 4–6 separately state how the claims are known. Returning the criterion and warrant preserves the operation without identifying its Sāṃkhya ontology with the native ratio field."
+      },
+      "current_exact_paragraph": true,
+      "current_case_forward": true,
+      "current_whole_to_case": true,
+      "T22_pair": {
+        "case": "Sanskrit",
+        "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "case_anchor": "sanskrit-enumeration-and-discriminative-practice",
+        "literal_case_forward": true,
+        "literal_case_reverse": true,
+        "graph_H_bilateral": true,
+        "whole_to_exact_case_to_consumer": true,
+        "graph_W_reverse": true,
+        "graph_W_forward": true
+      },
+      "current_sha256": "b749243203623008668ffc3e4de86e440e240a9365f7636a21abb50409568ccc"
+    },
+    {
+      "case": "Sanskrit",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+      "operation": "Perception, inference and testimony remain school-specific pramana, not a universal taxonomy.",
+      "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#sanskrit-enumeration-and-discriminative-practice",
+      "occurrence": {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+        "start_line": 42,
+        "end_line": 42,
+        "text": "The [Sanskrit enumeration case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#sanskrit-enumeration-and-discriminative-practice) **historicises** a distinct pramāṇa taxonomy: Kārikās 4–6 distinguish perception, inference and trustworthy testimony. At register 3, C10 receives the requirement to retain which means warranted this claim. This acquired Sāṃkhya case supplements the Śaiva discussion without making either school’s taxonomy universal."
+      },
+      "current_exact_paragraph": true,
+      "current_case_forward": true,
+      "current_whole_to_case": true,
+      "T22_pair": {
+        "case": "Sanskrit",
+        "consumer": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+        "case_anchor": "sanskrit-enumeration-and-discriminative-practice",
+        "literal_case_forward": true,
+        "literal_case_reverse": true,
+        "graph_H_bilateral": true,
+        "whole_to_exact_case_to_consumer": true,
+        "graph_W_reverse": true,
+        "graph_W_forward": false
+      },
+      "current_sha256": "f0bd77cbab0be92e69f707de73e9f1a65746d6ea8b27433ae1b78ff28119049a"
+    },
+    {
+      "case": "Hebrew",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "operation": "Recorded funds remain answerable to material repair; SPR, MNH, HSB and AMN have separate offices.",
+      "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#hebrew-spr-counting-writing-and-entrusted-work",
+      "occurrence": {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "start_line": 101,
+        "end_line": 101,
+        "text": "The [Hebrew SPR case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#hebrew-spr-counting-writing-and-entrusted-work) **compares** record and consequence through the repair narrative of 2 Kings 12, placed in Jehoash’s twenty-third regnal year. Counted money, repaired fabric and faithful work have distinct offices; the Hebrew text uses different roots for the scribe, counting, reckoning and faithfulness. At register 3, the resource account returns with the material purpose that can expose a failed arrangement. The regnal setting belongs to the narrative, not an independently established absolute date. Neither an exact total nor a shared English gloss completes that return."
+      },
+      "current_exact_paragraph": true,
+      "current_case_forward": true,
+      "current_whole_to_case": true,
+      "T22_pair": {
+        "case": "Hebrew",
+        "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "case_anchor": "hebrew-spr-counting-writing-and-entrusted-work",
+        "literal_case_forward": true,
+        "literal_case_reverse": true,
+        "graph_H_bilateral": true,
+        "whole_to_exact_case_to_consumer": true,
+        "graph_W_reverse": true,
+        "graph_W_forward": true
+      },
+      "current_sha256": "b749243203623008668ffc3e4de86e440e240a9365f7636a21abb50409568ccc"
+    },
+    {
+      "case": "Hebrew",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "operation": "Restoration order is an attained change; execution requires its own evidence.",
+      "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#hebrew-spr-counting-writing-and-entrusted-work",
+      "occurrence": {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+        "start_line": 54,
+        "end_line": 54,
+        "text": "The [Hebrew SPR case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#hebrew-spr-counting-writing-and-entrusted-work) **compares** a consequence which must be stated precisely. In 2 Kings 8:1–6 the woman answers the king and he commissions restoration; the selected text records the order, leaving its execution independently unverified. At register 3, operational parity asks which state changed and what evidence would establish the next change. Receiving a telling can alter a commission without yet proving its fulfilment."
+      },
+      "current_exact_paragraph": true,
+      "current_case_forward": true,
+      "current_whole_to_case": true,
+      "T22_pair": {
+        "case": "Hebrew",
+        "consumer": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+        "case_anchor": "hebrew-spr-counting-writing-and-entrusted-work",
+        "literal_case_forward": true,
+        "literal_case_reverse": true,
+        "graph_H_bilateral": true,
+        "whole_to_exact_case_to_consumer": true,
+        "graph_W_reverse": true,
+        "graph_W_forward": true
+      },
+      "current_sha256": "3dd86a0d84b54b7854844b5e31a18824038634167817bb4dac7610bf67dcf928"
+    }
+  ],
+  "direct_whole_edge_exception": "Sanskrit C10 direct W-forward false; exact case-mediated return verified, not erased.",
+  "original_snapshot_sha256": "dd8b356d0ec149f5f9e50de2cad70718841063a10f44d628a52ae9c85f013cf2",
+  "all_other_270_positive_judgments_preserved": true,
+  "earth_judgment_preserved": true,
+  "non_E4_rows_exactly_preserved": 264,
+  "original_files_not_modified": true,
+  "whole_sha256": "e0291913d331cea970c433858352c71fd547cbc167f9d11db60ac5bac32865d6",
+  "companion_sha256": "e81ee6289b10db4e90c402d43c94ef512d3e9f561638469277962f4bdd0c9a26"
+}

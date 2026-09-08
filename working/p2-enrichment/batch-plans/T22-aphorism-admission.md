@@ -1,0 +1,3 @@
+# T22 — omitted ratified aphorism identity
+
+Admit `aphorism-investigation-and-faith` at `submission-package/essay/symbolon/episteme/aphorisms/investigation-and-faith.md` under Native027 and the recovered Ought-Be Aphorism Architecture. This materialises the one complete authorially supplied four-line form transferred from #39 to T21; it does not invent an aphorism corpus. Preserve all four lines and their order inside one sixfold developed record. E4 Trust-return and E3 Fides/Credere are the lexical/relational entrances; A03/A23 and M04 own its consequence. No T23 path or manuscript insertion.

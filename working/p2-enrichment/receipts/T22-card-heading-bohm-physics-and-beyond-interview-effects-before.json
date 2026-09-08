@@ -1,0 +1,35 @@
+{
+  "root": {
+    "id": "bohm-physics-and-beyond-interview",
+    "title": "Physics and Beyond: David Joseph Bohm",
+    "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-physics-and-beyond-interview/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Physics and Beyond: David Joseph Bohm",
+      "Identity and consulted object",
+      "Passages and paraphrase locations",
+      "Consumption"
+    ],
+    "sha256": "13cd1aba75415b0f910c43991a4196731303813e5ce469a0badcf018bc3ca94d",
+    "citation_status": "carrier-identifiable",
+    "quote_status": "no-excerpts"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

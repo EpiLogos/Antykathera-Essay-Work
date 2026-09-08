@@ -1,0 +1,168 @@
+{
+  "status": "sealed-completed-private-snapshot",
+  "record_id": "mytheme-taylor-authored-images",
+  "whole_sha256": "b4a1b3a8193e4b453df67057a7b79b5166d64f52b15dec7a57f4b43e237a07b3",
+  "files": [
+    {
+      "path": "authorial-corrections.json",
+      "sha256": "512e51f9452081be52d6c17e5675e1353076b63f357d99b6b6e28fca6235553a",
+      "bytes": 24626
+    },
+    {
+      "path": "bind.py",
+      "sha256": "bd95b063f1d31d90d4dc40f190ed808fbedb9157ee239d9aafe9568b75a0704d",
+      "bytes": 4789
+    },
+    {
+      "path": "bound-inputs-manifest.json",
+      "sha256": "306f50114d55a2121271345ccd16d75c085f15b09531b05c47430a03e3e49e35",
+      "bytes": 55129
+    },
+    {
+      "path": "bound-inputs.zip",
+      "sha256": "a5227e7d67a5ce40c8a9ddb3b2c73dde43314447550753e05ea67f0265559d7e",
+      "bytes": 1627243
+    },
+    {
+      "path": "census.json",
+      "sha256": "7707b3d239ddb065b1c22fe67b71b28baa1dd4ab39f3e8252d28beafa10fbd4f",
+      "bytes": 57652
+    },
+    {
+      "path": "compose.py",
+      "sha256": "b0b21128a68b5894ec2e24e9a66af2dfe19ec65c2b66cb7af33143e7a845c7e7",
+      "bytes": 19027
+    },
+    {
+      "path": "coverage-rows.json",
+      "sha256": "f81692d0c026fd0971e005214a9da36bc5137bc57fa67f8ff8a87888df9604fb",
+      "bytes": 143371
+    },
+    {
+      "path": "effects-C21-Living-Symbol-Idol.json",
+      "sha256": "926e9192a3e2f47638a8fdf7b53240572cb917d8d690129c69af6db6a1cc04ca",
+      "bytes": 137650
+    },
+    {
+      "path": "effects-C49-The-Two-Ones-0-One-1-All.json",
+      "sha256": "efa129ac879377a58accc9e810e9f9658d9f7409613664c9a5a018fdfc008b33",
+      "bytes": 931
+    },
+    {
+      "path": "effects-abhinavagupta-singh-1988-paratrisika-vivarana.json",
+      "sha256": "66505d85b80111e034045f41efe31a79c29fd1455b112f87ec383078aa6cb560",
+      "bytes": 248687
+    },
+    {
+      "path": "effects-taylor-2026-core-theorems-pithy.json",
+      "sha256": "5337af448a009efa1e73851316c2f92e6d8e6fdadea81efdb2021c13ef8713a3",
+      "bytes": 300812
+    },
+    {
+      "path": "effects-taylor-2026-definition-god-draft3.json",
+      "sha256": "01e5491434e174e9ad6b6d9c78bb881b91738380d1e5c42a62b1adbc0be8e63a",
+      "bytes": 349846
+    },
+    {
+      "path": "effects-taylor-2026-personal-poetry-corpus.json",
+      "sha256": "7f5fd987ff3fda1bd80ffcf4e0297aa2d52a1a15c51968f52abe5990afe279ed",
+      "bytes": 2336
+    },
+    {
+      "path": "external-witnesses.json",
+      "sha256": "846e07338c411e445bc2f26513ce2befc3f7ede1a3edc3ed717e9c933a4bbe30",
+      "bytes": 2861
+    },
+    {
+      "path": "final-validation.json",
+      "sha256": "f5ae2e7f599738f717645b8b04e38d29719f91f70d3849d4fda7be9634e84678",
+      "bytes": 48117
+    },
+    {
+      "path": "mytheme-inputs.json",
+      "sha256": "bac5179969296013b32ae9bef0fa756a034b83e3744bfc85091d2d6b6e069e43",
+      "bytes": 114551
+    },
+    {
+      "path": "packet-validation-before-draft-review.json",
+      "sha256": "9e1a39229bc4dbf9eacc389027af7bcac36b7f8d45f501c60c645b87740b7e3b",
+      "bytes": 267
+    },
+    {
+      "path": "packet.json",
+      "sha256": "aa80758bcf468c1b04434d9372e3598452f6444ef98afbb3d424e5b3c0fe2831",
+      "bytes": 270311
+    },
+    {
+      "path": "poem-blocks.json",
+      "sha256": "6da83994c2b55e2771c72da41036c808e0d114ad00876bb59312ac5e7d029739",
+      "bytes": 14168
+    },
+    {
+      "path": "queue.json",
+      "sha256": "da2ee5de7d34d93352ccd6e8661754e00cc49dec8d8e922ae7985fbe33a5e24c",
+      "bytes": 120525
+    },
+    {
+      "path": "raw-witnesses/journal/consequence-inconsequential-april-2026.md",
+      "sha256": "4bf0e662dccfec77ef07beeaa341ca8d0a0ff263b5af7f9957b32b2691448225",
+      "bytes": 79309
+    },
+    {
+      "path": "raw-witnesses/journal/history-march-to-june-2026.md",
+      "sha256": "96fe16fffb1010a3d0529968ece9cde1999b948997ddb5c5adfe37332d7b03f7",
+      "bytes": 583001
+    },
+    {
+      "path": "raw-witnesses/journal/infinite-infinitessimal-may-2026.md",
+      "sha256": "06d05ea84ad53b5c62e3c883e4187a61a32e619297cfa9a2b658c3841ba01d6c",
+      "bytes": 64797
+    },
+    {
+      "path": "raw-witnesses/journal/poem-07-06-2026.md",
+      "sha256": "a82541ba833f2b9cd4559e7dee5c488bf434f5e4fc51e7b00db7b9861840d40d",
+      "bytes": 389
+    },
+    {
+      "path": "raw-witnesses/journal/what-is-it-to-feel-may-2026.md",
+      "sha256": "dc0860a1cc767c6cb3792cddcefb225d398f0a2094ff01534156405d85333f2d",
+      "bytes": 11142
+    },
+    {
+      "path": "raw-witnesses/poem p4 lines rewrite.md",
+      "sha256": "0b034919275499968e85eefe3e2d75011358a5e847646805fc174c0789f66fb9",
+      "bytes": 1466
+    },
+    {
+      "path": "reading-receipt.json",
+      "sha256": "e24e8f4c31e4a08bfc9538da1d054bd7d7a76002fedc3910d62f36853fddb56a",
+      "bytes": 57036
+    },
+    {
+      "path": "semantic-audit-before-repair.json",
+      "sha256": "fd993e59502f792ab22c81d986c8fe4c2a8f78bb9225d7522c7904dd68aa9991",
+      "bytes": 3627
+    },
+    {
+      "path": "semantic-audit-final.json",
+      "sha256": "2438e6e6f2afec9e7d6b1fc453c022e8a130527c546ab6e3b5776b786b9975d8",
+      "bytes": 5049
+    },
+    {
+      "path": "shared-baseline.json",
+      "sha256": "96569b2ebef2b234f8fc263ce16116c42e54c759c21e6503f85f7401e09e3a5b",
+      "bytes": 339
+    },
+    {
+      "path": "unit-crosswalk.json",
+      "sha256": "42a679866b89949edb426b675124487340c8bb3c71c444b8c37331730eedcafd",
+      "bytes": 160167
+    },
+    {
+      "path": "validate-final.py",
+      "sha256": "dafcee41f5f3dd3b78de5010c70c9d3b18a98bb77e0dd81f75626a51a910ff23",
+      "bytes": 5058
+    }
+  ],
+  "rerun_warning": "compose.py overwrites sections4–5; bind.py has a historical archive bug and is not idempotent. Do not rerun either. validate-final.py is a historical validation recipe; any new run must write elsewhere after sealing."
+}

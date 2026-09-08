@@ -1,0 +1,11 @@
+# 2026-09-07 — recovery input precedence
+
+The central plan's Amendment 2026-09-07 and current Symbolon/Matheme READMEs supersede the earlier five-root dispositions in the depth packets and their shared receipts. Their recovered authored operations remain usable; statements denying independent root offices to the determinations, self-identity or complexio no longer govern. Twelve root records plus their spine-index are the current relation layer. Dia/Syn is developed in the locked matheme logic folder.
+
+The complete theorem spine, its eight determinations and the three declared transverse paths were reopened for this session. The Binary Explication house and its actual canonical-candidate files supply the newly housed deep corpus. Definition/quilt retain the short chain; process/music retain the full chain. File 2 inverse-phase primes and File 3 Night-pass primes must remain explicitly distinct. The curated theorem spine determines the compression; source readiness is independent of native derivational standing.
+
+The conjugate bodies at episteme/conjugate are canonical argument inputs. Their census inclusion does not release episteme development. Mytheme and episteme work stops pending Frank's folder-structure discussion; existing bodies remain readable inputs. No movement, room or sovereign manuscript rewrite is authorised by projection work.
+
+The Binary Explication SOURCE local_copy has a stale relative address. Its four files exist at working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/. Packet inputs bind those actual objects. This locality debt does not make the corpus unavailable and does not promote the candidate set or its external attributions.
+
+Specific stale recovery routing: A18's denial of independent determination identities is superseded by the twelvefold root admission while the determinations' systemic dependence remains. A25's prohibition on stealth `(no)name`/King roots survives; its pending allocation language gives no licence beyond the twelvefold. A06's music routes receive the straight Vāk/four-file distinction and Two Locks. These overrides govern routing, not a replacement of recovered authored operations.

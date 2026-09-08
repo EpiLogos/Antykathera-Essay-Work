@@ -1,0 +1,758 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/T20-mytheme-apollo-eros-daphne-peneus-queue.json",
+    "queue_sha256": "99848877e868ac94ab406896e8d17d48947e5c4f483633f9aee6006cb28419c6",
+    "census": "working/p2-enrichment/T20-mytheme-apollo-eros-daphne-peneus-census.json",
+    "census_sha256": "377f19cfc471a89a75815822d62a0f0ac5a70cb8eac29767a284b4be7b63adb4",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "mytheme-apollo-eros-daphne-peneus",
+    "title": "Apollo · Eros/Cupid · Daphne · Peneus",
+    "register": "mytheme",
+    "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+    "wave": "T20",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:65–93",
+      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md:764–776",
+      ".wayfinder/maps/t20-t21-world-registers.md"
+    ],
+    "packet_status": "current-binding-required",
+    "record_type": "whole-mytheme",
+    "admission_standing": "admitted-developed-body",
+    "distinct_operation": "Opposed arrows, prior refusal, paternal intervention, pursuit and laurel appropriation form one Ovidian whole; distinct from the Nietzsche/Gebser comparative Apollo/Dionysus/Daphne.",
+    "path_decision": "Working census fixes an address for an already governed body; no canonical file created by this receipt.",
+    "binding_state": "inputs-bound-source-acquisition-debts-explicit",
+    "argument_depth": [
+      "A04",
+      "A08",
+      "A09",
+      "A19",
+      "A20",
+      "A21",
+      "A24",
+      "A25",
+      "A26",
+      "A27",
+      "A29",
+      "A31",
+      "A32",
+      "A35"
+    ],
+    "argument_depth_roles": {
+      "A04": "Material whole-field consumer: A04 — Diaphaneity / Contextual Transparency; consult completed A04 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A04.md:18.",
+      "A08": "Material whole-field consumer: A08 — Apoha / Constitutive Exclusion; consult completed A08 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A08.md:18.",
+      "A09": "Material whole-field consumer: A09 — Tattvic Differential Field; consult completed A09 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A09.md:18.",
+      "A19": "Material whole-field consumer: A19 — Complex as Local Arbitration Regime; consult completed A19 depth packet before extracting this register’s operation.",
+      "A20": "Material whole-field consumer: A20 — Image / Valuation / Possession; consult completed A20 depth packet before extracting this register’s operation.",
+      "A21": "Material whole-field consumer: A21 — Individuation / Recognition; consult completed A21 depth packet before extracting this register’s operation.",
+      "A24": "Material whole-field consumer: A24 — Arbitration and the Usurpation of Measure; consult completed A24 depth packet before extracting this register’s operation.",
+      "A25": "Material whole-field consumer: A25 — Covenant / Mediating Office / Source Authority; consult completed A25 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A25.md:14.",
+      "A26": "Material whole-field consumer: A26 — Objective Internality — Mind as Worldhood; consult completed A26 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A26.md:14.",
+      "A27": "Material whole-field consumer: A27 — Self and Other — Unity without Possession; consult completed A27 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A27.md:14.",
+      "A29": "Material whole-field consumer: A29 — Power / Delegated Labour / Return; consult completed A29 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A29.md:14.",
+      "A31": "Material whole-field consumer: A31 — Deferential Intelligence; consult completed A31 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A31.md:14.",
+      "A32": "Material whole-field consumer: A32 — Reflective Field / THE MIRROR THAT MOVES FIRST; consult completed A32 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A32.md:14.",
+      "A35": "Material whole-field consumer: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation; consult completed A35 depth packet before extracting this register’s operation. Positive-claim recovery at working/p2-enrichment/argument-depth/A35.md:14."
+    },
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "working/p2-enrichment/receipts/mytheme-primary-acquisition.md"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/classical-philology/ovid/ovid-1921-metamorphoses-miller/SOURCE.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+        "start_line": 65,
+        "end_line": 93,
+        "relation": "An image can remain culturally powerful after living Other escapes; knowledge/power never converts refusal into consent.",
+        "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+      },
+      {
+        "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+        "start_line": 95,
+        "end_line": 101,
+        "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: An image can remain culturally powerful after living Other escapes; knowledge/power never converts refusal into consent.",
+        "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+      },
+      {
+        "path": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+        "start_line": 240,
+        "end_line": 250,
+        "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: An image can remain culturally powerful after living Other escapes; knowledge/power never converts refusal into consent.",
+        "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "start_line": 60,
+        "end_line": 288,
+        "relation": "Read complete source-specific contribution, passage readiness and boundaries for Apollo · Eros/Cupid · Daphne · Peneus",
+        "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately."
+      },
+      {
+        "path": "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+        "start_line": 25,
+        "end_line": 31,
+        "relation": "Primary work identity, exact whole-story/poem acquisition routes and edition boundaries for this admitted whole; use its named target section.",
+        "provenance": "Delegated source acquisition receipt, not canonical SOURCE and not proof of unclaimed full reads or selected-print collation."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ovid/ovid-1921-metamorphoses-miller/SOURCE.md",
+        "start_line": 48,
+        "end_line": 113,
+        "relation": "Current source-house acquisition and intact telling supersede inherited missing-house flags.",
+        "provenance": "Canonical source house: selected witness, complete read scope and precise residual quotation debts."
+      }
+    ],
+    "relations": [
+      {
+        "target": "A04",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A04 — Diaphaneity / Contextual Transparency",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A08",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A08 — Apoha / Constitutive Exclusion",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A09",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A09 — Tattvic Differential Field",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A19",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A19 — Complex as Local Arbitration Regime",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A20",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A20 — Image / Valuation / Possession",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A21",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A21 — Individuation / Recognition",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A24",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A24 — Arbitration and the Usurpation of Measure",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A25",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A25 — Covenant / Mediating Office / Source Authority",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A26",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A26 — Objective Internality — Mind as Worldhood",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A27",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A27 — Self and Other — Unity without Possession",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A29",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A29 — Power / Delegated Labour / Return",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A31",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A31 — Deferential Intelligence",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A32",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A32 — Reflective Field / THE MIRROR THAT MOVES FIRST",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "A35",
+        "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+        "relation": "returns-to",
+        "operation": "Argument depth supplies a material consumer of this whole; preserve its specific operation and reverse route: A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C09",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C09 — Diaphaneity",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C14",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C14 — Māyā / Operative Measure",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C18",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C18 — Apoha",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C21",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C21 — Living Symbol / Idol",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C27",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C27 — Protected Account / Occupied Zero / Source-Claim",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C38",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C38 — Bimba–Pratibimba / Bimba Map",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C47",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C47 — Deferential Intelligence",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "C53",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: C53 — Power / Delegated Labour",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      },
+      {
+        "target": "etymology-arbitration-hybris-regard-anamnesis",
+        "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+        "relation": "qualifies",
+        "operation": "Concept/Etymology relation is subordinate to the intact whole and its source distinction: arbitration-hybris-regard-anamnesis",
+        "direction": "current-to-target",
+        "human_amplification_policy": "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no."
+      }
+    ],
+    "register_contract": "submission-package/essay/symbolon/mytheme/README.md",
+    "additional_required_inputs": [
+      "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+      "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      ".agents/skills/return-of-zero-pages/SKILL.md",
+      ".agents/skills/return-of-zero-links/SKILL.md",
+      ".agents/skills/return-of-zero-source/SKILL.md",
+      "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+      ".wayfinder/maps/t20-t21-world-registers.md",
+      "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json"
+    ],
+    "target_operation": "An image can remain culturally powerful after living Other escapes; knowledge/power never converts refusal into consent.",
+    "whole_figures_and_relations": "Python; Apollo; mocked Eros/Cupid; gold/lead arrows; Daphne’s prior refusal; Diana/Artemis model; Peneus; pursuit; healing/prophecy/music claims; laurel; recoil; emblem",
+    "whole_sequence": "Python victory and boast→Eros answers insult with opposed arrows→Daphne prior chosen life/Peneus consent→Apollo pursuit and inventory of powers→appeal to Peneus→tree transformation→continued symbolic possession despite recoil.",
+    "specific_boundaries": [
+      "Ovidian telling remains distinct from comparative Dionysus whole. Do not omit Eros/Peneus/Python or reverse Daphne’s refusal into spontaneous assent.",
+      "Existing ratified operation may be deepened; new symbolic edges remain human-amplified: no.",
+      "Whole narration precedes element amplification; ending/aftermath qualifies beginning. Every interpretive edge keeps human-amplified:yes/no. No canonical motif/character identity by stealth.",
+      "Raw sixfold must be derived from this whole’s own movement; no Definition/Operation/Pattern/Context glossary. The form may host source/story/amplification substructure without turning its positions into universal semantics.",
+      "Acquisition correction: retain final tree recoil together with difficult apparent assent. Do not suppress either. Native020 prior chosen refusal means her own orientation before Apollo’s projected possession; no independently established pre-arrow chronology. I.416–451 Python/games prelude stays adjacent to I.452–567."
+    ],
+    "source_or_telling_blockers": [
+      "Whole digital text and selected edition are housed; print-image collation remains Open. Preserve recoil and seeming assent."
+    ],
+    "status": "binding-complete-evidence-and-amplification-boundaries-retained",
+    "canonical_write_authorised_by_this_file": false,
+    "restoration_acceptance": [
+      "Intact telling and active figures available, not topical illustration.",
+      "Original developed operation surfaced; direct authored wording/provenance preserved.",
+      "Every materially consumed source and sibling NOTES read in full by writer; acquisition/edition debt scoped exactly.",
+      "Written A/C/E and cross-whole relations return to exact occurrences; unratified edges remain no.",
+      "Argument-depth backcheck and T22 receipt report actual restored operations and undisclosed debt."
+    ],
+    "source_read_obligations": [
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "source_sha256": "9f5a46d9adc123828b838b3f63b7cd112990f8ac11e85e58686eb3617d145785",
+        "notes": null,
+        "notes_policy": "Full read, authorial provenance, never mutate",
+        "read_coverage": "Existing full-read shared receipts or new mytheme preparation source receipt; writer must reread complete material source/notes",
+        "readiness": {
+          "citation_status": "internal-ready",
+          "quote_status": "excerpts-indexed-internal"
+        }
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "source_sha256": "e1c980917e9590d952a597ffdb8975aae5f94a845b77180035c84a1f8f7188ee",
+        "notes": null,
+        "notes_policy": "Full read, authorial provenance, never mutate",
+        "read_coverage": "Existing full-read shared receipts or new mytheme preparation source receipt; writer must reread complete material source/notes",
+        "readiness": {
+          "citation_status": "internal-ready",
+          "quote_status": "quotation-ready"
+        }
+      }
+    ],
+    "binding_readiness": {
+      "input_addresses_and_ranges": "validated",
+      "full_source_read_coverage": "preparation full reads or exact shared full-read receipts; writer repeat obligation remains",
+      "source_expansion": "blocked only at named external/telling gates, never resolved by weaker paraphrase",
+      "amplification": "unratified interpretation remains no; programme authorisation does not manufacture human encounter"
+    },
+    "primary_acquisition_receipt": "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+    "external_required_recovery": [
+      {
+        "url": "https://bcs.fltr.ucl.ac.be/metam/Met01/M01-416-567.html",
+        "role": "Line-addressed Latin and separately identified Boxus/PoucetFrench; wholeprelude/telling/end."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Metamorphoses_(Miller)/Book_I",
+        "role": "Primary Miller English online witness, actualprintedition requirescollation."
+      }
+    ],
+    "dispatch_status": "authorised-bounded-T20-world-batches",
+    "previous_canonical_home": "submission-package/essay/symbolon/mytheme/myth/apollo-eros-daphne-peneus/WHOLE.md",
+    "home_decision": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json"
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A04",
+      "path": "working/p2-enrichment/argument-depth/A04.md",
+      "sha256": "0b65287f0c7a7d5a0206f003b2cdbe4e4afd7025f104ce60bfec897b7ef228fa"
+    },
+    {
+      "argument_id": "A08",
+      "path": "working/p2-enrichment/argument-depth/A08.md",
+      "sha256": "0665c59d9039ebe87706ea25faa1d85a66fc69b31ba5506f17523a04b1449548"
+    },
+    {
+      "argument_id": "A09",
+      "path": "working/p2-enrichment/argument-depth/A09.md",
+      "sha256": "7bbb367d7fe465f1d22b962495426f1a89d462d6f6c7fe4e3636dcd37978af5f"
+    },
+    {
+      "argument_id": "A19",
+      "path": "working/p2-enrichment/argument-depth/A19.md",
+      "sha256": "e9b39e002b667014c970dd287f2301c9f9a80197762283e5062274ea9db64861"
+    },
+    {
+      "argument_id": "A20",
+      "path": "working/p2-enrichment/argument-depth/A20.md",
+      "sha256": "31e8980f2955a784f02b5f84b1e6c63bdcf3a22cb25e24afec678c19a166c2c2"
+    },
+    {
+      "argument_id": "A21",
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "sha256": "7cfe91ec6423eff272001a99a672cc1e3d02b3eb5cc35ae9e142077660912779"
+    },
+    {
+      "argument_id": "A24",
+      "path": "working/p2-enrichment/argument-depth/A24.md",
+      "sha256": "8ec2f6a4ee88586748f4519523c84d2ca141c37d04c86f785a001dccfa527c5b"
+    },
+    {
+      "argument_id": "A25",
+      "path": "working/p2-enrichment/argument-depth/A25.md",
+      "sha256": "eaeeae9754e349e495e21dd60bf83d380fa3eaac3d54b9d33b779ec72775139b"
+    },
+    {
+      "argument_id": "A26",
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "sha256": "9542b35c8445445bc02ebe6b1a1ba2ccf67f2aa7da50335fbe3180d595c1eb63"
+    },
+    {
+      "argument_id": "A27",
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "sha256": "2480e3c0322aa54e36bcd924ec3e60cb6e3430372125ad215d12f56b583080e0"
+    },
+    {
+      "argument_id": "A29",
+      "path": "working/p2-enrichment/argument-depth/A29.md",
+      "sha256": "df16db3f0dc451847aab076658d7050e9ec888cad3618bd975c3162204c6a1ee"
+    },
+    {
+      "argument_id": "A31",
+      "path": "working/p2-enrichment/argument-depth/A31.md",
+      "sha256": "2e8a2e463260bfd1e194037a5bba48cddfb06aaad1d8fc71e87003de0d10d1c7"
+    },
+    {
+      "argument_id": "A32",
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "sha256": "8d7f5d6f98f61bb3011360c0ef68b0681989c97a8f224c2c549668ef167ca428"
+    },
+    {
+      "argument_id": "A35",
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "sha256": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0"
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "sha256": "252a75e561ae62abc72ccc6e4f6380fba510c72631c8b378cbe279b700b29810"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "sha256": "b348adc7004f5d0daf4ea4f62f6b081edc5e5dcccdfbad83746a2f2e9e59f849"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+      "sha256": "64c950f68687f5011d3343f8ac30d855619246718d3696b1dc3e7bffd7a98cc0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-notes-a01-a12.md",
+      "sha256": "7e52c2196728a025cbc85538b4c355af4eaad5b07876c5a44a11d005acd62192"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-math-indian-sources-a01-a12.md",
+      "sha256": "aca1cd927d491a03f54435ad87054185247bdc82df9e93dea9bf413208d409ff"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a13-a24.md",
+      "sha256": "68d6f4874f03fdcd20ef7c64458f7290bb2263bb35e0e35c30ac108134c4d10c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-source-recovery-a25-a36.md",
+      "sha256": "0a2e08658b3a665db1ab6c83c9409cda53990f7639d8015a7d554be76d016a64"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-draft3-recovery.md",
+      "sha256": "f8cb36ea8a2bdf638757878ad4987fc1a9d381d081a2697bef80fbb3153bb3f2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/shared-theorem-support-recovery.md",
+      "sha256": "120d00d606878dd88bfe0922ab199e5e89d524a7e7180a82918585ba24d45cb1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "sha256": "f9a72c47f5ced64dd9101b42405262707bfa0f3d361001de3a70e96fe9131fa4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "sha256": "86f807b35428f1cfc3d53e68a27ff3373df9ffc42b7d0b934c3d4491ae5de9a2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "sha256": "c658dfe12009cb3122c7663efc87ebadd5730404b10f6fa73cf6db68e57633a1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "sha256": "2f68a80d591ef8938e7e7085c6b574e9a5540d39078ce6fa65afced4d1b2023a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "sha256": "116ccf67bb3b2a746e2b1256e65f683cb5b27f1deab7ab115946a76f9429433a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "sha256": "089c58e54e8dc1b123189f21bc67c2098b5c4121d9eb32ee52bb444d40088481"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "sha256": "c885d37c2f2642fff1cc559c41d1a0df72b30417259fcad04013ccb1c7d1680b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "sha256": "aeeae92d8cb4a5b709027d539caac21d064fba2979e7578a87565682ad450fba"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "sha256": "fa5aabcf6a9202eb86d5e57bfd275f99965bfd3a8c02ad4dd06304872e061699"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "sha256": "623009b8722425ec7fdc5c44f1a5285ec27be9e1b576084ca800df98ca3a76d4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "sha256": "ce95f291506b6fa608d398a2c4dc42ced9d6a5feb1d9b2ce188dc574a0441d0d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "sha256": "e0d633b11f90a3f217782fd72c706effefb1ff3fd8c81ca72a8f1dd1343dcfc0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "sha256": "67a86b880bb9ee0b3acf974beee560f5ad9817902d9e99c30ff1b63f66b53654"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "sha256": "270e1540cbcc089f2d208f8a38e81cdf0f7f30e76ca616c746864e6e8a7e0727"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "sha256": "46353e7465a50fd66f6381cddcec08c4bf6b75c4911875cb5e4329bb6a25b6a9"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+      "sha256": "c14c2fa402d393acd8f407291bb2ebf8d0398df4222a8bcd1f051a608133be8e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "sha256": "12b0786ac858b5291f57ae2199a117b9f9d45fe9c072e2373632e1743d0f4e31"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "sha256": "28d848078312f5e5372d5068163b45130e7f5f21e602bd3ed968a7c8bd6fbea7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "sha256": "db0cfe3c2fdbcd36526ee38d67335a7b76f094744a9f7d09509b5dee7e5c7a2e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "sha256": "923c796f44d41e1ee8efbb1d7e67ee9abaae03314fc65e05a0924c74e2d130f6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "sha256": "f804b70960fa58220c24f5447c05516d70a49263198215694ba09e64878c7740"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "sha256": "4a466c5cdfc35600b44c403fd3815becc9380ef0b6726a2711313f0fe7f0b8a9"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "sha256": "4ec38e6e92a8d8aa70f2b03c5f3c21f46bc8d9987d807a539b52bccfcb57a3b2"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-source/SKILL.md",
+      "sha256": "d51c1fd2a297317ebc5d1414d388b98819df9730d8bdc5bad84af47327bf04b7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/mytheme-binding-source-recovery.md",
+      "sha256": "6474225a3550ec632cef24ad988ec2ad17295a63bd65e4e3fdec1614db90639f"
+    },
+    {
+      "path": ".wayfinder/maps/t20-t21-world-registers.md",
+      "sha256": "a7589d1b663854888c3767854478a9ea4564a988d770af24f2d30e7ac07204a0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-world-home-decisions-2026-09-08.json",
+      "sha256": "3e64c000294d3a13a15e0617f35dcbe5c0f5424b13758b2ae72e9b56e405e832"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/README.md",
+      "sha256": "20e220d9d9b35ac86584b154219ce263a4077b4ecb10229787ef22417f3be825"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "source_sha256": "e1c980917e9590d952a597ffdb8975aae5f94a845b77180035c84a1f8f7188ee",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/classical-philology/ovid/ovid-1921-metamorphoses-miller/SOURCE.md",
+      "source_sha256": "789b27031c0bc4820e770f3d5b2bc4b4f28fd0781f081f61c056f74c48dd2a39",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md",
+      "start_line": 65,
+      "end_line": 93,
+      "relation": "An image can remain culturally powerful after living Other escapes; knowledge/power never converts refusal into consent.",
+      "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing.",
+      "sha256": "f5c7ab6ea2c0d94db4b8da5d48df627697c06cd064da367f675295848399a6e0",
+      "text": "# 2. Apollo · Eros/Cupid · Daphne · Peneus — form meeting the limit of possession\n\n**Office:** supporting-visible / whole-form Mytheme with direct §4 bearing.\n\n`[[submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus|§4 · #4 — Apollo Through Dionysus]]` **presages** this recovery but currently compresses Daphne. `[[submission-package/essay/symbolon/episteme/concepts/diaphaneity|Diaphaneity]]` **defines** the contextual transparency to which the whole returns; `[[submission-package/essay/symbolon/episteme/concepts/apoha|Apoha]]` **qualifies** any claim that the perceived form is self-subsistent; `[[submission-package/essay/section-rooms/arguments/02-objective-internality|Objective Internality]]` **extends** the relation into the situated field through which a finite centre perceives and acts.\n\n## The whole telling\n\nIn Ovid's *Metamorphoses* I the Daphne relation begins before Apollo sees her. Apollo has killed Python and boasts over the power of his bow. He mocks **Cupid/Eros** for carrying the same weapon. Eros answers with a paired operation: one arrow excites love and the other repels it. Apollo receives the golden wound; **Daphne** the leaden one. Attraction and refusal are installed together before Apollo can take his own desire as the measure of the relation.\n\nDaphne already seeks a life outside marriage. She roams the woods and asks her father, the river-god **Peneus**, to grant her perpetual virginity after the model of **Diana/Artemis**. Peneus yields despite his wish for marriage and descendants. Apollo then sees Daphne and turns appearance into projected completion. He pursues while declaring prophecy, music, archery and medicine among his powers; none gives him what Daphne withholds. His capacity to see, name, predict and heal does not convert another subject's refusal into his possession.\n\nExhausted in the chase, Daphne calls on Peneus and is transformed into laurel. The living figure withdraws from the form through which Apollo sought to possess her. Ovid keeps the ending difficult: Apollo embraces and kisses the transformed tree and appoints the laurel as his permanent emblem, while the tree still recoils. Possession therefore survives as image, sign and prestige after the living relation has escaped.\n\n## The authored operation\n\nThe project's Apollo carries measure, illumination, delineation and communicable form. Daphne gives that power its internal limit. **Form is necessary for appearance and knowledge; form becomes possession when the appearing form is treated as exhaustive of the living Other.**\n\nThis whole **figures** the image/complex/power seam recovered in `[[inherited-corpus-crosswalk/05-PSYCHOID-FLOWERING|§4 — Psychoid Flowering — Inherited Region Recovery]]`: an image can attract libido, attention, prāṇa, will and valuation until the local image begins to arbitrate the reality from which it arose. The laurel ending makes the danger unusually exact. A living source can withdraw while its image remains culturally powerful.\n\nThat operation **returns-to** the living-symbol/idol distinction: a living symbol carries relation to source and can transform the field; an idol lets the local image perform the office of ground. Daphne also **compares** with the Levinasian relation developed in the quilt: the Other can appear within my image without being contained within me.\n\n## Source seam and debt\n\nThe current §4 movement does not carry Ovid among its declared source IDs. Native 020 therefore records a real source-house/propagation gap. The whole Ovidian sequence has been checked for this recovery — Python, Apollo's boast, Eros's opposed arrows, Daphne's prior refusal of marriage, pursuit, appeal to Peneus, metamorphosis and Apollo's continued appropriation of the laurel — while exact local source-house installation remains separate source work.\n\n## What full recovery changes\n\nThe compressed “Apollo = form; Daphne = withdrawal” loses the relation. Eros installs desire and refusal; Peneus recognises Daphne's own orientation; Apollo's epistemic and artistic powers fail exactly where another subject cannot be converted into their object; the laurel shows symbolic appropriation surviving the failed encounter. Native 018 should therefore preserve Apollo–Daphne as an addressable whole relation, with image, idol, possession, alterity and diaphaneity linking into exact moments inside it."
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "start_line": 95,
+      "end_line": 101,
+      "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: An image can remain culturally powerful after living Other escapes; knowledge/power never converts refusal into consent.",
+      "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing.",
+      "sha256": "252a75e561ae62abc72ccc6e4f6380fba510c72631c8b378cbe279b700b29810",
+      "text": "Every civilisation has told both accountings — as story, long before either was written as arithmetic.\n\nThe fallen line, 2 → 1 + (−1) → 0, received its most exact Greek telling from Ovid. Apollo, fresh from slaying the Python, mocks the little bow of Eros. Eros looses two arrows from it: one of gold into the god, to make him love; one of lead into Daphne — river-nymph, huntress, sworn to no man — to make her flee (Ovid, _Metamorphoses_, I.452–567). One archer, one bow, one desire-power: two opposite charges struck into two bodies in a single act. The +1 and the −1 are manufactured from one source, and neither recipient chose their charge; both are *had* by it — which the myth states outright, since it is the god of love who imposes on the god of light. Then the pursuit runs the arithmetic to its sum. Daphne, cornered at her father's river, prays; bark closes over her breast; her feet root; her arms leaf. Apollo arrives grasping a tree. No union, no offspring, no recognition. The pursuer clutches a symbol of what he could not love and wears it as a crown forever after; the pursued survives only as wood. The zero as terminus: 1 + (−1) = 0, and the myth is honest about the price of the cancellation — a woman petrified, a god decorating himself with the proof of his miss. Though even here the tradition smuggles one clue past the arithmetic: the laurel is aromatic, and evergreen. The savour Apollo tried to seize is released, once the grasping fails, as fragrance.\n\nEcho and Narcissus tell the same disease without even a chase. Narcissus is the +1 curved wholly back upon itself, in love with its own image, unable to leave the surface of the pool; Echo is the −1 that has lost its own voice and can only repeat the endings of another's. Neither can reach the other because neither carries the ground: they waste to a flower and a disembodied sound — the cancellation achieved by pure attrition, two ones starving in sight of each other.\n\nAnd when the fallen line is enthroned as theology, it becomes the oldest formal dualism we possess: Ohrmazd, the light and the truth, against Ahriman, the dark and the Lie, locked in a war that *is* the whole of history — the 1 and the −1 promoted to first principles, the cosmos conscripted as their cancellation-field. Yet even here the memory of the ground refused to die. The Zurvanite heresy preserved it: Zurvan, Infinite Time, longing for a son, made offering for a thousand years, and in the last hour a single doubt crossed him — and from the longing Ohrmazd was conceived, and from the doubt, Ahriman. Twins, born of one Time (Zaehner, 1955). The forbidden variant remembers what the orthodoxy split: that the warring 1 and −1 are the broken halves of a prior 0, sons of a single act of desire-and-doubt. The diabolon caught in the act of being secretly a symbolon. To forget the token is the whole of the Fall; to burn the heretics who remembered it is the Fall administering itself."
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md",
+      "start_line": 240,
+      "end_line": 250,
+      "relation": "Recover this target’s authored/developmental movement and qualifications in conjunction with the whole telling: An image can remain culturally powerful after living Other escapes; knowledge/power never converts refusal into consent.",
+      "provenance": "Native authorial/developmental or governing carrier; mixed integration is not uniformly Taylor wording. Source attributions retain separate verification standing.",
+      "sha256": "b348adc7004f5d0daf4ea4f62f6b081edc5e5dcccdfbad83746a2f2e9e59f849",
+      "text": "### Apollo–Daphne: Python changes the entire field\n\nThe whole Ovidian sequence prevents “Apollo = form; Daphne = alterity” from being sufficient. Apollo has just killed Python and boasts over his bow before mocking Eros. The pursuit is therefore preceded by a triumph over a chthonic/serpentine adversary and by the overconfidence that follows it. Eros answers with opposed arrows; Daphne already has her own orientation; Peneus enters as father/river; Apollo enumerates his powers; the living woman finally becomes tree; Apollo then appropriates the surviving image as his emblem.\n\nThat sequence opens a future **serpent → eros → river → tree → emblem** constellation which could never be seen if Python, Peneus and the laurel were stripped away as decorative details. Interpretations newly proposed by the system receive `human-amplified: no` until Frank works them.\n\n### Ares–Aphrodite–Hephaestus–Poseidon: the audience is part of the machine\n\nWhole recovery already restored Helios, the summoned gods, the absent goddesses, Hermes's response, debt and Poseidon's surety. That means “Hephaestus = Gestell” is radically incomplete. The apparatus includes detection, manufacture, capture, spectacle, shame, laughter, incentive, public account, debt and finally a relation of standing that the net itself cannot produce.\n\nA later “net” or “technē” archetypal index must therefore carry the **social field generated around the apparatus**, not only the bonds themselves."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "start_line": 60,
+      "end_line": 288,
+      "relation": "Read complete source-specific contribution, passage readiness and boundaries for Apollo · Eros/Cupid · Daphne · Peneus",
+      "provenance": "Canonical SOURCE authority for evidence/provenance; complete sibling NOTES is mandatory read-only separately.",
+      "sha256": "e1c980917e9590d952a597ffdb8975aae5f94a845b77180035c84a1f8f7188ee",
+      "text": "# Taylor — The Definition of God, Draft 3 (2026)\n\n## Provenance identity\n\nFixed local internal manuscript by Frank G. Taylor. It is the authorial source for the definition of the subject, `/` as AND/OR, Eros, Apollo/Dionysus, Ares/Aphrodite/Hephaestus/Harmonia, apophatic paradox, trust, faith, the 4+2 prose route, and Deferential Intelligence.\n\n**Local-copy state:** present in the accepted local checkout at the repository-relative path in frontmatter; 279 lines, read in full again during P2 on 2026-09-06. The former personal-checkout path is stale; the manuscript itself was not missing. Its protected `[F]` corrections remain intact. The detailed line-verified extraction is [[Source Extraction — The Definition of God, Draft 3]].\n\n## Chicago 18 forms\n\n**Full note:** Frank G. Taylor, *The Definition of God — Draft 3*, unpublished manuscript, 2026, internal project file.\n\n**Shortened note:** Taylor, *Definition of God, Draft 3*.\n\n**Bibliography:** Not added to the public working bibliography. This is an internal manuscript record, not a public source to present as independent warrant.\n\n## Essay use\n\nMine this work for the author's own complete arguments and formulations. Its 29 line-verified passages are held below in [Passages and excerpts](#passages) and are ready for internal reuse. Support historical, mythic, textual, mathematical, and philosophical references with public canonical sources.\n\n**Claim boundary:** Draft 3 establishes authorial provenance and language. It does not warrant ancient myth, Eckhart, Cusa, Sanskrit terminology, etymology, mathematics, physics, AI mechanism, institutional history, or any other external fact when transferred into the submission.\n\n## Consumption\n\n- **Stations:** §0/1, §0, §2, §3, §4, §5, §5→0; exact granular movements are in frontmatter.\n- **Arguments:** exact reciprocal backlinks are in frontmatter; each live argument carries `taylor-2026-definition-god-draft3` in `source_ids`.\n- **Exact claims:** formal-limit prose (DG-01–08); relation, fall, mythic-status, and ethical vector (DG-09–14); 4+2/topology and claim discipline (DG-15–19); symbol/Vāk/open conceptuality (DG-20–23); Epi-Logos, deferential intelligence, and vocation (DG-24–29).\n\n## Quote and excerpt ledger\n\n| quote_id | exact text / excerpt file | locator | transcription | verification | consuming claim |\n|---|---|---|---|---|---|\n| `taylor-2026-definition-god-draft3-q001`–`q008` | [[Source Extraction — The Definition of God, Draft 3#A. Formal limit, definition, and the subject]] | lines 13–15, 137–151 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | formal limit; unobjectifiable subject |\n| `taylor-2026-definition-god-draft3-q009`–`q014` | [[Source Extraction — The Definition of God, Draft 3#B. Difference, relation, and mythic disclosure]] | lines 71, 75, 111, 129, 155, 163 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | dia/sym; mythic status; ethical vector |\n| `taylor-2026-definition-god-draft3-q015`–`q019` | [[Source Extraction — The Definition of God, Draft 3#C. Four-plus-two, topology, and claim discipline]] | lines 131, 187, 195, 205, 207 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | 4+2; topology; Derived/Argued/Offered boundary |\n| `taylor-2026-definition-god-draft3-q020`–`q023` | [[Source Extraction — The Definition of God, Draft 3#D. Symbol, Vāk, and open conceptuality]] | lines 251, 253, 255, 259 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | code; symbol; Vāk; aperture |\n| `taylor-2026-definition-god-draft3-q024`–`q029` | [[Source Extraction — The Definition of God, Draft 3#E. Epi-Logos, toolhood, and deferential intelligence]] | lines 267, 269, 271, 273, 277 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | Epi-Logos; deferential intelligence; vocation; return |\n\n## Provenance and acquisition\n\n- **Metadata source:** title, author, year, and complete text inspected in the fixed local manuscript.\n- **Text consulted:** `/Users/admin/Documents/Nara-Personal/definition-of-god-working/The Definition of God — Draft 3.md`.\n- **Local copy:** Markdown, 279 lines; no OCR; no ambiguity in transcription.\n- **Last checked:** source extraction 2026-07-14; current locality and full direct manuscript recovery 2026-09-06. Passage readiness is unchanged by this locator repair.\n\n## Research notes\n\nThe manuscript's `[F]` comments are editorial constraints, not source evidence. Preserve them in the extraction ledger; do not quote them as finished prose. Developed reasoning remains in the consuming argument nodes.\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\n### Passage register\n\nThese source-specific fields were gathered before consolidation and remain part of this source's evidence record.\n\n<a id=\"taylor-2026-definition-god-draft3-q001\"></a>\n\n#### `taylor-2026-definition-god-draft3-q001`\n\n| `taylor-2026-definition-god-draft3-q001` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 13 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-01 — notation enacts a relation]] | notation enacts a relation | §0/1/#2 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q002\"></a>\n\n#### `taylor-2026-definition-god-draft3-q002`\n\n| `taylor-2026-definition-god-draft3-q002` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 13 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-02 — closure occurs in reality, not around it]] | formal limit of marking | §0/1/#3 | [[Paradox as Cross-Register Hinge]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q003\"></a>\n\n#### `taylor-2026-definition-god-draft3-q003`\n\n| `taylor-2026-definition-god-draft3-q003` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 15 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-03 — the whole as a pressure on partial accounts]] | whole/partial relation | §0/1/#5→0 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q004\"></a>\n\n#### `taylor-2026-definition-god-draft3-q004`\n\n| `taylor-2026-definition-god-draft3-q004` | `taylor-2026-definition-god-draft3` | “The Definition,” line 137 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-04 — a definition that cannot seal its object]] | definition of the formal-limit whole | §0/1/#1 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q005\"></a>\n\n#### `taylor-2026-definition-god-draft3-q005`\n\n| `taylor-2026-definition-god-draft3-q005` | `taylor-2026-definition-god-draft3` | “The Definition,” line 139 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-05 — failure is constitutive rather than incidental]] | apophatic self-reference | §0/1/#3 | [[Paradox as Cross-Register Hinge]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q006\"></a>\n\n#### `taylor-2026-definition-god-draft3-q006`\n\n| `taylor-2026-definition-god-draft3-q006` | `taylor-2026-definition-god-draft3` | “The Definition,” line 141 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-06 — self-annihilating definition as performance]] | paradox as performance | §0/1/#3 | [[Paradox as Cross-Register Hinge]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q007\"></a>\n\n#### `taylor-2026-definition-god-draft3-q007`\n\n| `taylor-2026-definition-god-draft3-q007` | `taylor-2026-definition-god-draft3` | “The Definition,” lines 145–149 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-07 — fifth movement and the first-person turn]] | object-to-subject return | §0/1/#5→0 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q008\"></a>\n\n#### `taylor-2026-definition-god-draft3-q008`\n\n| `taylor-2026-definition-god-draft3-q008` | `taylor-2026-definition-god-draft3` | “The Definition,” line 151 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-08 — self-capture regresses because the act is already subjective]] | subject resists objectification | §0/1/#1 | [[Immutable Gap and Meta-Sign]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q009\"></a>\n\n#### `taylor-2026-definition-god-draft3-q009`\n\n| `taylor-2026-definition-god-draft3-q009` | `taylor-2026-definition-god-draft3` | “The Fall, and What It Reveals,” line 75 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-09 — a remainder can become an opening or a black hole]] | reflective vs repressed limit | §2/#1 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q010\"></a>\n\n#### `taylor-2026-definition-god-draft3-q010`\n\n| `taylor-2026-definition-god-draft3-q010` | `taylor-2026-definition-god-draft3` | “The Fall, and What It Reveals,” line 71 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-10 — the fall as a misrelation]] | dia-ballein failure mode | §2/#1 | [[Sym-Ballein]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q011\"></a>\n\n#### `taylor-2026-definition-god-draft3-q011`\n\n| `taylor-2026-definition-god-draft3-q011` | `taylor-2026-definition-god-draft3` | “Two Deaths, One Minus Sign,” line 111 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-11 — myth offers fit, not proof]] | mythic evidence boundary | §2/#3 | [[Hephaestus and the Net]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q012\"></a>\n\n#### `taylor-2026-definition-god-draft3-q012`\n\n| `taylor-2026-definition-god-draft3-q012` | `taylor-2026-definition-god-draft3` | “The Definition,” line 155 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-12 — separation produces the fallen arithmetic]] | relation retained in differentiation | §2/#2 | [[Sym-Ballein]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q013\"></a>\n\n#### `taylor-2026-definition-god-draft3-q013`\n\n| `taylor-2026-definition-god-draft3-q013` | `taylor-2026-definition-god-draft3` | “The Definition,” line 129 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-13 — power acquires moral charge through its vector]] | ethical vector of power | §2/#3 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q014\"></a>\n\n#### `taylor-2026-definition-god-draft3-q014`\n\n| `taylor-2026-definition-god-draft3-q014` | `taylor-2026-definition-god-draft3` | “The Definition,” line 163 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-14 — the yoke joins freedom to value]] | will and value | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q015\"></a>\n\n#### `taylor-2026-definition-god-draft3-q015`\n\n| `taylor-2026-definition-god-draft3-q015` | `taylor-2026-definition-god-draft3` | “The Definition,” line 131 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-15 — the theological 4+2 is a diagnostic, not a proof]] | 4+2 status boundary | §3/#1 | [[Arche-Topos as Differential Field]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q016\"></a>\n\n#### `taylor-2026-definition-god-draft3-q016`\n\n| `taylor-2026-definition-god-draft3-q016` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 205 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-16 — six elements and the return]] | 5→0 return formula | §3/#1 | [[Toroidal Circulation and the Arche-Topos]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q017\"></a>\n\n#### `taylor-2026-definition-god-draft3-q017`\n\n| `taylor-2026-definition-god-draft3-q017` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 187 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-17 — topology as an image with a declared limit]] | topological image | §3/#4 | [[Toroidal Circulation and the Arche-Topos]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q018\"></a>\n\n#### `taylor-2026-definition-god-draft3-q018`\n\n| `taylor-2026-definition-god-draft3-q018` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 195 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-18 — the quotient image of `0/1`]] | quotient interpretation | §3/#4 | [[Arche-Topos as Differential Field]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q019\"></a>\n\n#### `taylor-2026-definition-god-draft3-q019`\n\n| `taylor-2026-definition-god-draft3-q019` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 207 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-19 — the number is an empty carrier and status must stay explicit]] | Derived/Argued/Offered discipline | §3/#0 | [[Arche-Topos as Differential Field]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q020\"></a>\n\n#### `taylor-2026-definition-god-draft3-q020`\n\n| `taylor-2026-definition-god-draft3-q020` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 251 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-20 — code as a mode of encounter]] | code and encounter | §0/#2 | [[Computational Process Ontology]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q021\"></a>\n\n#### `taylor-2026-definition-god-draft3-q021`\n\n| `taylor-2026-definition-god-draft3-q021` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 253 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-21 — the symbol remains open by relation]] | symbolon | §0/1/#2 | [[Vāk]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q022\"></a>\n\n#### `taylor-2026-definition-god-draft3-q022`\n\n| `taylor-2026-definition-god-draft3-q022` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 255 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-22 — the pure notion that carries its own negation]] | open concept | §0/#2 | [[Paradox as Cross-Register Hinge]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q023\"></a>\n\n#### `taylor-2026-definition-god-draft3-q023`\n\n| `taylor-2026-definition-god-draft3-q023` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 259 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-23 — double devotion to whole and aperture]] | fidelity to ground and context | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q024\"></a>\n\n#### `taylor-2026-definition-god-draft3-q024`\n\n| `taylor-2026-definition-god-draft3-q024` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 267 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-24 — the eros of logos]] | reflexive logos | §5→0/#1 | [[Vāk]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q025\"></a>\n\n#### `taylor-2026-definition-god-draft3-q025`\n\n| `taylor-2026-definition-god-draft3-q025` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 269 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-25 — intelligence becomes more exact by owning its limit]] | provenance-bearing AI harness | §5→0/#1 | [[Computational Process Ontology]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q026\"></a>\n\n#### `taylor-2026-definition-god-draft3-q026`\n\n| `taylor-2026-definition-god-draft3-q026` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 271 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-26 — kenosis as an architectural safeguard]] | Deferential Intelligence | §5→0/#0 | [[Deferential Intelligence]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q027\"></a>\n\n#### `taylor-2026-definition-god-draft3-q027`\n\n| `taylor-2026-definition-god-draft3-q027` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 273 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-27 — heart, tongue, and measure]] | human-machine relation | §5→0/#1 | [[Artificial Hybrid Intelligence as Reflective Field]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q028\"></a>\n\n#### `taylor-2026-definition-god-draft3-q028`\n\n| `taylor-2026-definition-god-draft3-q028` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 273 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-28 — release into use]] | offered public vocation | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |\n\n<a id=\"taylor-2026-definition-god-draft3-q029\"></a>\n\n#### `taylor-2026-definition-god-draft3-q029`\n\n| `taylor-2026-definition-god-draft3-q029` | `taylor-2026-definition-god-draft3` | closing coda, line 277 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-29 — a self-annihilating work returns the reader to inquiry]] | return through self-annihilation | §5→0/#5→0 | [[Paradox as Cross-Register Hinge]] | internal only |"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/mytheme-primary-acquisition.md",
+      "start_line": 25,
+      "end_line": 31,
+      "relation": "Primary work identity, exact whole-story/poem acquisition routes and edition boundaries for this admitted whole; use its named target section.",
+      "provenance": "Delegated source acquisition receipt, not canonical SOURCE and not proof of unclaimed full reads or selected-print collation.",
+      "sha256": "64c950f68687f5011d3343f8ac30d855619246718d3696b1dc3e7bffd7a98cc0",
+      "text": "## Ovid: exact whole sequence available; do not mix Miller editions\n\n[Wikisource, Miller, BookI](https://en.wikisource.org/wiki/Metamorphoses_(Miller)/Book_I) provides the primary English narrative. [Its title/publication page](https://en.wikisource.org/wiki/Metamorphoses_(Miller)) names Frank Justus Miller and states first printing1916, second edition1921, reproduced1951 printing. Its linked scan metadata elsewhere says1921: this discrepancy must be resolved before asserting page-level print collation. Do not label this Goold's later revision.\n\n[Université catholique de Louvain, BCS, I.416–567](https://bcs.fltr.ucl.ac.be/metam/Met01/M01-416-567.html) supplies line-addressed Latin and Boxus/Poucet's2005 French translation. Exact target I.452–567; I.416–451 supplies generation/Python/games prelude. Sequence:452–473 Apollo/Cupid's contest and contrary arrows;474–489 Daphne's chosen unmarried life and Peneus;490–524 desire and Apollo's powers;525–542 chase;543–552 appeal/transformation;553–567 recoil, laurel and emblem. Preserve the difficult closing apparent assent alongside recoil. The ordering of the narrated refusal does not independently prove a historical pre-arrow event; the programme's “prior” refusal is an interpretive claim requiring careful wording.\n\nProposed house: `submission-package/essay/symbolon/episteme/sources/classical-philology/ovid/ovid-1921-metamorphoses-miller/SOURCE.md`, **conditional on confirming the selected second-edition witness**. A source using the1951 reprint must record it explicitly. Candidate cards: q001 I.452–489; q002 I.490–552; q003 I.553–567. Work/line identity and primary online paraphrase readiness are present; exact selected-edition quotation/page readiness remains Open. BCS is a separate textual witness, not evidence that Miller uses identical wording. The native Mytheme's form/possession/Other operation remains Argued regardless of edition debt."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ovid/ovid-1921-metamorphoses-miller/SOURCE.md",
+      "start_line": 48,
+      "end_line": 113,
+      "relation": "Current source-house acquisition and intact telling supersede inherited missing-house flags.",
+      "provenance": "Canonical source house: selected witness, complete read scope and precise residual quotation debts.",
+      "sha256": "789b27031c0bc4820e770f3d5b2bc4b4f28fd0781f081f61c056f74c48dd2a39",
+      "text": "\n**Full note:** Ovid, *Metamorphoses*, vol. 1, *Books I–VIII*, trans. Frank Justus Miller, 2 nd ed. (1921; repr., Cambridge, MA: Harvard University Press; London: William Heinemann, 1951), 1.452–567, [digital text](https://en.wikisource.org/wiki/Metamorphoses_(Miller)/Book_I).\n\n**Shortened note:** Ovid, *Metamorphoses*, 1.452–567.\n\n**Bibliography:** Ovid. *Metamorphoses*. Vol.1, *Books I–VIII*. Translated by Frank Justus Miller.2 nd ed.1921. Reprint, Cambridge, MA: Harvard University Press; London: William Heinemann, 1951. https://en.wikisource.org/wiki/Metamorphoses_(Miller)/Book_I.\n\n## Essay use and intact relation\n\nThis house supports `mytheme-apollo-eros-daphne-peneus`, whose admitted destination is `submission-package/essay/symbolon/mytheme/myth/apollo-eros-daphne-peneus/WHOLE.md`. Native 020's form/possession/Other operation bears A19's local arbitration, A20's image/valuation and A27's unity without possession. Historical citation establishes the narrated relation; it does not prove the essay's philosophical interpretation or equate Apollo with a universal theory of cognition.\n\nThe whole requires Python and Apollo's boast, Cupid's contrary arrows, Daphne's unmarried orientation and paternal request, the chase, transformation, recoil and the laurel's public office. Her earlier-narrated request need not be asserted as chronologically before Cupid's arrow. The ending's seeming assent must remain beside the recoil. Their tension gives the native reading something determinate to interpret rather than permission to omit an inconvenient line.\n\n## Material metadata and access provenance\n\n- **Selected edition:** Miller's second edition 1921; consulted 1951 impression as digitally transcribed, not Goold's later revision.\n- **Edition determination:** [title leaf, scan-page 7](https://en.wikisource.org/wiki/Page:Metamorphoses.djvu/7) explicitly reads MCMLI with Harvard/Heinemann; [printing leaf, scan-page 8](https://en.wikisource.org/wiki/Page:Metamorphoses.djvu/8) states first 1916, second 1921 and subsequent printings through 1951. Read 2026-09-06. These primary leaf transcriptions take precedence over the file catalogue's general 1921 date. Image requests returned 403; no image collation claimed.\n- **Full passage read:** Miller Book I digital paragraphs covering 1.416–567, including every Apollo/Daphne paragraph and the closing sentence, 2026-09-06. [Stable consulted transcription revision](https://en.wikisource.org/w/index.php?title=Metamorphoses_(Miller)/Book_I&oldid=13715118).\n- **Separate Latin locator witness:** [BCS, 1.416–567](https://bcs.fltr.ucl.ac.be/metam/Met01/M01-416-567.html), Boxus/Poucet 2005 French translation with Latin. It confirms line segmentation, not Miller English wording. BCS marks a textual gap at 546; do not silently fill it from another edition.\n- **Local copy:** no complete book mirrored; primary full-text links remain available. NOTES absent; none created.\n\n<a id=\"passages\"></a>\n## Passages and excerpts\n\n<a id=\"ovid-1921-metamorphoses-miller-q001\"></a>\n## Passage card — `ovid-1921-metamorphoses-miller-q001` — boast, arrows and refusal\n\nApollo's victory precedes his taunt; Cupid answers through opposed arrows. Daphne asks Peneus for unmarried life after Diana's example.\n\n- **Locator:**1.438–489; whole generative prelude 1.416–451.\n- **Status:** paraphrase-ready from consulted digital edition; no quotation supplied.\n- **Verification:** Miller full passage read 2026-09-06; line route checked against BCS.\n- **Source relation:** paraphrased.\n- **Evidential action:** supports the whole relation before the chase.\n- **Consumers:** `mytheme-apollo-eros-daphne-peneus`; A20; A27.\n- **Use boundary:** retain Cupid and Peneus as agents; the source does not prove that every act of delineation is possessive.\n\n<a id=\"ovid-1921-metamorphoses-miller-q002\"></a>\n## Passage card — `ovid-1921-metamorphoses-miller-q002` — powers fail to obtain the Other\n\nApollo invokes prophecy, music, archery and medicine. Daphne flees; exhausted, she appeals for transformation.\n\n- **Locator:**1.490–552.\n- **Status:** paraphrase-ready from consulted digital edition.\n- **Verification:** read in Miller 2026-09-06 with BCS line sequence; the BCS546 gap is retained as a witness distinction.\n- **Source relation:** paraphrased; native form/possession argument is argued from this scene.\n- **Evidential action:** supports and qualifies.\n- **Consumers:** `mytheme-apollo-eros-daphne-peneus`; A19; A20; A27.\n- **Use boundary:** do not narrate pursuit as a mutually desired romance or make Peneus a doctrine of QL's zero.\n\n<a id=\"ovid-1921-metamorphoses-miller-q003\"></a>\n## Passage card — `ovid-1921-metamorphoses-miller-q003` — recoil and the difficult ending\n\n> But even the wood shrank from his kisses.\n\n- **Locator:**1.556; scene 1.553–567.\n- **Status:** quotation-ready against the named digital transcription; print-image collation Open.\n- **Verification:** exact nine-word sentence transcribed and reread 2026-09-06 from Miller Book I stable revision 13715118; Latin line 556 crosschecked in BCS. No uncertain OCR token in this sentence.\n- **Source relation:** extracted.\n- **Evidential action:** supports continued resistance; qualifies completion by possession.\n- **Consumers:** `mytheme-apollo-eros-daphne-peneus`; A20; A27.\n- **Use boundary:** Apollo assigns laurel an emblematic office; 566–567 then reports a seeming head-like assent. Do not delete that ambiguity or claim the poem explicitly resolves it as the essay does.\n\n## Remaining evidence tasks\n\nPhysical/scan-image collation remains Open for edition and quotation; exact printed pagination is not asserted. Whole passage and digital quotation are available now. Any propagated source edge to Movement 35 must be written in the page/consumer batch, not silently claimed as already installed by this SOURCE addition."
+    }
+  ],
+  "raw_skeleton": "# Apollo · Eros/Cupid · Daphne · Peneus\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

@@ -1,0 +1,453 @@
+{
+  "method": "real workspace graph; source/whole semantic comparison in separate parent coverage; only actual reciprocal returns counted",
+  "relations": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "b41b556514a41fd21854ddbf70ff8c03c1523eb478b1444f71563b62b3cf334c",
+      "consumer_sha256": "b2fc60a9f32346b1132aa3d98b9530546c77cbf5752c121bcdaf9afb8a7037db",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "raw_target": "../../../../episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "b41b556514a41fd21854ddbf70ff8c03c1523eb478b1444f71563b62b3cf334c",
+      "consumer_sha256": "319c378bd9133afd0e3fc61967ba1036916c4366e2ac3105717214fb84eab1c7",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "raw_target": "../../../../episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "b41b556514a41fd21854ddbf70ff8c03c1523eb478b1444f71563b62b3cf334c",
+      "consumer_sha256": "987c5b27e9aba95adccf843c792d9f8d3ae9df1cab834b72244c3d9d5b2bef7d",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+          "raw_target": "../../../../episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "b41b556514a41fd21854ddbf70ff8c03c1523eb478b1444f71563b62b3cf334c",
+      "consumer_sha256": "097cca1c3907e8dd6588113f42052c6a286fda6550692dbae4367ccb06e9ba70",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "raw_target": "../../../../episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "b41b556514a41fd21854ddbf70ff8c03c1523eb478b1444f71563b62b3cf334c",
+      "consumer_sha256": "5badd672fd769bee79b73d6048b4ca44a2aacb8e3b3125c5d3cb1eefd59ab2c5",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+          "raw_target": "../../../../episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "b41b556514a41fd21854ddbf70ff8c03c1523eb478b1444f71563b62b3cf334c",
+      "consumer_sha256": "349ba98c43f3d7be843b6601024d20a6454b7deaa5791047430e09c750c53e86",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "target": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+          "raw_target": "../../../../../section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "b41b556514a41fd21854ddbf70ff8c03c1523eb478b1444f71563b62b3cf334c",
+      "consumer_sha256": "c64676778f118e2f255e3c2c78c1f7bae9d0eeb52246f2b727a2c1c261489c1e",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "raw_target": "../../../../episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "f4837d9f88f1d663677b36aff002ea6e49752dafa23390c6c7006e7ca00ba4a9",
+      "consumer_sha256": "d4e9548c72559bdb024f292f9554b1084afb67be8b9766c99d81c0bd99cb19d2",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "f4837d9f88f1d663677b36aff002ea6e49752dafa23390c6c7006e7ca00ba4a9",
+      "consumer_sha256": "52b181242bf8ea20839ef8102f4b9d2f04b75e635e68b5c6bf16ab8f63bc2d48",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "f4837d9f88f1d663677b36aff002ea6e49752dafa23390c6c7006e7ca00ba4a9",
+      "consumer_sha256": "097cca1c3907e8dd6588113f42052c6a286fda6550692dbae4367ccb06e9ba70",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "f4837d9f88f1d663677b36aff002ea6e49752dafa23390c6c7006e7ca00ba4a9",
+      "consumer_sha256": "a90d077754aa5855c620c1dc862c45a8c9f6b5ac8e5947efeb6c405d7458ce8e",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+          "target": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+          "raw_target": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "2a7c31a84f8a560505023641513926b4c17858c7543ebdd4fd3de4eaeaf60ef6",
+      "consumer_sha256": "b2fc60a9f32346b1132aa3d98b9530546c77cbf5752c121bcdaf9afb8a7037db",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "raw_target": "../../../../episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "2a7c31a84f8a560505023641513926b4c17858c7543ebdd4fd3de4eaeaf60ef6",
+      "consumer_sha256": "d4e9548c72559bdb024f292f9554b1084afb67be8b9766c99d81c0bd99cb19d2",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "raw_target": "../../../../episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "2a7c31a84f8a560505023641513926b4c17858c7543ebdd4fd3de4eaeaf60ef6",
+      "consumer_sha256": "097cca1c3907e8dd6588113f42052c6a286fda6550692dbae4367ccb06e9ba70",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "raw_target": "../../../../episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "2a7c31a84f8a560505023641513926b4c17858c7543ebdd4fd3de4eaeaf60ef6",
+      "consumer_sha256": "716dfc7d3b00a0793d4af78ae9bc4a790c882d4992901783204f95f83e749e25",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "target": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "raw_target": "../../../../episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md",
+      "forward_written": true,
+      "reverse_written": true,
+      "whole_sha256": "2a7c31a84f8a560505023641513926b4c17858c7543ebdd4fd3de4eaeaf60ef6",
+      "consumer_sha256": "9fb68717ceaeb5f4e66d45ed851f7955e5620026bb0282d4e6c4d443f2e7f579",
+      "whole_edges": [
+        {
+          "source": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "target": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md",
+          "raw_target": "../../../../../section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ],
+      "consumer_edges": [
+        {
+          "source": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md",
+          "target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "raw_target": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    }
+  ]
+}

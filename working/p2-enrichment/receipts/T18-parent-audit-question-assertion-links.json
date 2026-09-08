@@ -1,0 +1,135 @@
+{
+  "root": {
+    "id": "question-assertion",
+    "title": "?/! — Question and Assertion",
+    "path": "submission-package/essay/symbolon/question-assertion.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "?/! — Question and Assertion",
+      "#0 — Something has appeared",
+      "#1 — The question takes a mark",
+      "#2 — A mark makes a difference",
+      "#3 — Four ways the account meets its condition",
+      "#4 — The assertion encounters its own limit",
+      "#5→0 — The one who asks returns"
+    ],
+    "sha256": "62d1d19be77f31bcba5557ea741d6c07f40b5ea13934331a286566a011414bf4",
+    "claim_status": "Derived",
+    "register": "symbolon"
+  },
+  "edges": [
+    {
+      "source": "submission-package/essay/symbolon/question-assertion.md",
+      "target": "submission-package/essay/symbolon/0-1.md",
+      "raw_target": "0-1.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/question-assertion.md",
+      "target": "submission-package/essay/symbolon/the-slash.md",
+      "raw_target": "the-slash.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/question-assertion.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "raw_target": "episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/question-assertion.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "raw_target": "episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/question-assertion.md",
+      "target": "submission-package/essay/symbolon/minus-plus.md",
+      "raw_target": "minus-plus.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/question-assertion.md",
+      "target": "submission-package/essay/symbolon/self-identity.md",
+      "raw_target": "self-identity.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/question-assertion.md",
+      "target": "submission-package/essay/symbolon/subject-logics.md",
+      "raw_target": "subject-logics.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/question-assertion.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "raw_target": "episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/question-assertion.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "raw_target": "episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/question-assertion.md",
+      "target": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "raw_target": "episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/question-assertion.md",
+      "target": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+      "raw_target": "../section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/question-assertion.md",
+      "target": "submission-package/essay/symbolon/eight-determinations.md",
+      "raw_target": "eight-determinations.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/question-assertion.md",
+      "target": "submission-package/essay/symbolon/matheme/definition/README.md",
+      "raw_target": "matheme/definition/README.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/question-assertion.md",
+      "target": "submission-package/essay/symbolon/1-0.md",
+      "raw_target": "1-0.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    }
+  ]
+}

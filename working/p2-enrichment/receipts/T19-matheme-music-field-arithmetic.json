@@ -1,0 +1,21 @@
+{
+  "method": "Exhaust all indexed modal and cluster/bass states, all candidate containing scales, and exact Fraction returns",
+  "M": 84,
+  "V": 144,
+  "V_in": 84,
+  "V_out": 60,
+  "bijection_verified": true,
+  "outside_with_alternative_major_parent": 12,
+  "outside_without_any_major_parent": 48,
+  "C_parent_outside_rows": {
+    "1": [],
+    "3": [],
+    "6": [],
+    "8": [],
+    "10": [
+      5
+    ]
+  },
+  "comma_three_routes": "531441/524288",
+  "passed": true
+}
