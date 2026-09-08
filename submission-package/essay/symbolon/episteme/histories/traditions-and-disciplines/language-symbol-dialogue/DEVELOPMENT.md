@@ -25,6 +25,12 @@ The later [*Apoha* collection's housed secondary discussion](../../../sources/in
 
 This companion **extends** [the protected history](HISTORY.md) through six positions earned by changes in what language does: reference, use, address, shared inquiry, numerical selection and return. [A08's full exclusion argument](../../../arguments/A08-Apoha-Constitutive-Exclusion.md) **grounds** the author's further claim that the achieved determination retains its constitutive field. Q27's direct comparison makes the positive pressure explicit: recognising exclusion, succession or a retained alternative requires an act in which their relation is available. That is the project's Argued comparison with recognition, not a position borrowed from the dissertation. It preserves the Buddhist critique of a self-thing while pursuing the non-objectifiable continuity of the knower. [C18](../../../concepts/C18-Apoha.md) **defines** the semantic office within this wider movement; [C03](../../../concepts/C03-Determination.md) **extends** it into identification, selection and recurrence.
 
+Pind semantic exclusion and Spinoza finite figure remain independent witnesses for the gift and danger of a cut. This operation **returns-to** [03-s01-p2-definition-cut-gift-danger](../../../../../section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md).
+
+Constitutive exclusion remains one joint within differentiation, gathering and recognition. This operation **returns-to** [09-s0-p2-vikalpa-samkalpa](../../../../../section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md).
+
+Pind’s two passages and secondary nominal/verbal negation retain distinct evidential offices. This operation **returns-to** [10-s0-p3-apoha](../../../../../section-rooms/01-differentiating-mind/movements/10-s0-p3-apoha.md).
+
 ## #1 — A sentence acquires a practice
 
 <a id="language-practice"></a>
@@ -36,6 +42,10 @@ The later *Philosophical Investigations*, published in 1953, changes the examina
 [A02's copula argument](../../../arguments/A02-Copula-Self-Identity-through-Difference.md) **grounds** the authorial return. A name alone does not individuate its instances: the circumstance lets this bearer be addressed here. Predication and identification operate together without becoming interchangeable. The word reaches someone or something because a differentiated encounter already permits reference. Count's priority in this argument is constitutional, not a historical assertion that human enumeration preceded speech. The practical comparison makes circumstance harder to omit; it does not make Wittgenstein the historical author of that derivation.
 
 [E1's Name-through-Count](../../../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count) **grounds** the operational relation. A usable account must retain what made this name count as this instance. Its historical branches distinguish Latin word histories, German region-language and the Chinese facing-and-response field. Their geography and chronology remain articulated in their own witnesses. Taylor's encounter-before-terms proposition is a separate authorial operation at evidence register 3; a multilingual resemblance cannot establish either its derivation or a common lexical ancestry.
+
+Tractatus4.1212 and7 bear a source-specific limit; later practice requires its separate work and edition. This operation **returns-to** [04-s01-p3-formal-limit-genealogy](../../../../../section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md).
+
+The crossed-zero operation is native authorial work; Wittgenstein’s limit supplies no derivation of its positive return. This operation **returns-to** [16-s1-p3-crossed-zero](../../../../../section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md).
 
 ## #2 — Address makes the signifier consequential
 
@@ -50,6 +60,10 @@ The housed wall and echo passages develop that scene through differently support
 [A13's two logics](../../../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) **grounds** the project's comparison. An effective cut can either retain the relation through which its terms became available or account them as cancelling opposites. The ethical and symbolic difference concerns the accounting of the cut. It is not a historical equation of Lacan's bar, Dignāga's exclusion and Taylor's slash. Nor does a source-specific account of lack exhaust the project's positive recognitive return. Each operation enters the comparison with its own object and force.
 
 The Greek symbolon's broken token enters this history through [E4's developed historical branches](../../../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md), which **historicise** recognition across a seam. Their lexical witnesses and ancient passage tasks remain distinct. The essay's symbolic operation retains the absent counterpart in the present piece; its validity as an authored operation does not require pretending that a lexicon entry is a newly read ancient scene. Likewise, the protected history's dia-ballein and Homeric comparison remains an authorial application with its own philological obligations.
+
+Greek accusation and Taylor’s accounting of severance retain separate philological and operational warrants. This operation **returns-to** [20-s2-p1-dia-ballein](../../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md).
+
+Lacan1971–72, Price2017, Darmon1992 and Adleman/Vanderwees2021 remain separate carriers; the native QL sequence is not Lacan’s notation. This operation **returns-to** [34-s4-p3-lacan-matheme-mytheme](../../../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md).
 
 ## #3 — Participants become answerable to a common inquiry
 
@@ -67,6 +81,10 @@ The canonical [1996 *On Dialogue* house](../../../sources/process-systems-theory
 
 [SEED's 2010 programme house](../../../sources/process-systems-theory/seed/seed-2010-language-spirit/SOURCE.md) **historicises** the institutional continuation, recording the 1992 Little Bear–Peat approach to Bohm and the later Language of Spirit dialogues. The programme's stated form is an institutional witness. It does not license a single Indigenous doctrine, a generic talking-circle origin for dialogue, or a proven transmission into the proposed harness. The newly housed brochure distinguishes the 1992 approach, SEED’s 1996 foundation and its sponsorship from 1999 (PDF pp. 2 and 4). Parry’s PDF p. 5 abstract describes the hybrid form; [Pat McCabe’s own abstract on PDF p. 6](../../../sources/process-systems-theory/seed/seed-2010-language-spirit/SOURCE.md#seed-2010-language-spirit-q003) **qualifies** the gathering through culturally situated tools of perception and a concern with right relations. Her voice is a named participant’s contribution. An advertised inquiry remains distinct from an observed outcome or scientific validation of the programme’s themes. The relation which survives is practical and exact: a gathering must preserve the authority and difference of its participants if shared meaning is to return to them.
 
+Rotman’s semiotic subject-position remains distinct from Taylor’s irreducible subject-condition; chronology and office of zero still require specialists. This operation **returns-to** [13-s1-p0-sign-migrates](../../../../../section-rooms/02-return-of-zero/movements/13-s1-p0-sign-migrates.md).
+
+Shared meaning retains the participants’ differences; a token’s matching seam does not eliminate power or guarantee trust. This operation **returns-to** [21-s2-p2-sym-ballein](../../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md).
+
 ## #4 — Weights and selections acquire different offices
 
 The history **returns-to** [Con-text-through-Diaphaneity](../../../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity) through the assumption that becomes available for inquiry in dialogue. A participant’s reply can alter what the question asks and how its answer is judged. This register-3 consequence retains the distinct practices of address and suspension; their source histories do not establish a single procedure or guaranteed result.
@@ -81,6 +99,10 @@ The technical return to apoha is therefore an authored comparison between specif
 
 The distinction gives dialogue a consequential technical pressure. An agent can produce an eloquent account of its openness while retaining the same inaccessible source, irreversible decision or unchangeable permission. Retaining a log is one capability; allowing an encountered contradiction to alter the next action is another. The history has reached a new medium whose operations are inspectable under specified conditions, while its normative and experiential questions retain their independent registers.
 
+2017 attention architecture distinguishes weighted combination from final selection; technical state change requires observation. This operation **returns-to** [37-s5-p0-math-moves-meaning](../../../../../section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md).
+
+PyTorch2.9 softmax/argmax cards specify different retained information; neither establishes Buddhist doctrinal identity. This operation **returns-to** [38-s5-p1-apoha-softmax](../../../../../section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md).
+
 ## #5→0 — The account returns through its conditions
 
 <a id="language-account-return"></a>
@@ -92,3 +114,13 @@ Taylor's [encounter synthesis](../../../sources/internal-corpus/taylor/taylor-20
 A real local Bimba can serve as the reference for a bounded inquiry while remaining a constructed, source-dependent determination in a wider field. That recursive office lets different situated pratibimbas be compared without treating one map as the world. In Movement 39's Offered J-Space, a change of source, representation, gauge or permission must remain distinguishable. The proposed representation becomes useful when an observed transition can be traced through those conditions. The person's or agent's world is not exhausted by the represented field.
 
 [E1's Count-to-Account](../../../etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-to-account) **grounds** the next act: return the achieved telling with the criterion which made it count, the context which gave it reach and the path by which its addressee can answer. Bohm's group, Wittgenstein's practice, Lacan's address and computational selection remain distinct bodies of that inquiry. A successful return changes a relation which the account depends upon. Trust names the living possibility of receiving that answer; an inventory of historical parallels cannot manufacture it.
+
+Temporal succession and co-presence cross the two logics; a shared gathering can sever its ground and a chronological account can retain it. This operation **returns-to** [C50-Dia-Syn](../../../concepts/C50-Dia-Syn.md).
+
+Source-return must reach a materially relevant criterion or subsequent act; retaining the account alone does not perform that return. This operation **returns-to** [C51-Logos-Epi-Logos](../../../concepts/C51-Logos-Epi-Logos.md).
+
+Dialogue’s revision of assumptions supplies a specified comparison; local Bohm reproduction needs edition collation and agent phenomenality remains Open. This operation **returns-to** [36-s4-p5-mef-prompt-thrownness](../../../../../section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md).
+
+J-Space remains Offered and bounded; record which source, representation, gauge or permission changed and what followed. This operation **returns-to** [39-s5-p2-j-space](../../../../../section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md).
+
+A recursively local Bimba reference remains real and revisable; Bohm dialogue and SEED institution are distinct precedents, not demonstrated transmission. This operation **returns-to** [44-s50-p1-ql-mef-bimba-harness](../../../../../section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md).

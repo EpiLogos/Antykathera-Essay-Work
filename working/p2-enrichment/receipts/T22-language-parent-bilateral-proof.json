@@ -1,0 +1,126 @@
+{
+  "relations": [
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/01-differentiating-mind/movements/10-s0-p3-apoha.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/02-return-of-zero/movements/13-s1-p0-sign-migrates.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "forward": true,
+      "reverse": true
+    }
+  ],
+  "bilateral": 24,
+  "scope": 24
+}

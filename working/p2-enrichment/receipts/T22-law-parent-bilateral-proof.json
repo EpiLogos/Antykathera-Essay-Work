@@ -1,0 +1,31 @@
+{
+  "relations": [
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "forward": true,
+      "reverse": true
+    }
+  ],
+  "bilateral": 5,
+  "scope": 5
+}

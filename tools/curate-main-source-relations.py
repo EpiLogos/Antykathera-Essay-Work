@@ -94,7 +94,7 @@ RELATIONS: dict[str, list[str]] = {
     "atmanspacher-2020-pauli-jung-conjecture": [
         "§4 · dual-aspect formulation and limit"
     ],
-    "jung-1978-aion-cw9-2": ["§4 · X=x and quaternity primary work"],
+    "jung-1978-aion-cw9-2": ["§4 · Self, symbolic totality and quaternary transformation; native X/x remains Taylor’s"],
     "lacan-2017-talking-to-brick-walls": ["§4 · primary wall and signifier scene"],
     "darmon-1992-matheme-ali": ["§4 · matheme definition and transmission"],
     "vaswani-et-al-2017-attention": ["§5 · transformer and attention baseline"],
@@ -109,7 +109,7 @@ RELATIONS: dict[str, list[str]] = {
     "freeth-et-al-2021-model-cosmos": [
         "§5→0 · Antikythera reconstruction and attunement anchor"
     ],
-    "42-techne-2026-sovereign-commons": ["§5→0 · applied 4:2 Technē architecture"],
+    "42-techne-2026-sovereign-commons": ["§5→0 · applied 4:2 Technē architecture; report-only design witness"],
     "ostrom-2009-beyond-markets-states-nobel-lecture": [
         "§5→0 · polycentric governance warrant and qualification"
     ],
@@ -152,6 +152,9 @@ def expected_outputs(root: Path) -> dict[Path, str]:
     for source_id in sorted(RELATIONS):
         path = houses[source_id]
         data, body = load_house(path)
+        if data.get("main_source_for") == RELATIONS[source_id]:
+            outputs[path] = path.read_text(encoding="utf-8")
+            continue
         data["main_source_for"] = RELATIONS[source_id]
         outputs[path] = render(data, body)
     return outputs
