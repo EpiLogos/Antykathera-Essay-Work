@@ -20,7 +20,7 @@ consumed_by_arguments:
 - '[[submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession|A27]]'
 consumed_by_mythemes:
 - mytheme-apollo-eros-daphne-peneus
-mytheme_destination: submission-package/essay/symbolon/mytheme/myth/apollo-eros-daphne-peneus/WHOLE.md
+mytheme_destination: submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md
 admission_authority: working/p2-enrichment/receipts/T22-primary-source-admissions.md
 tags:
 - epi-logos/antikythera-essay
@@ -54,7 +54,7 @@ url: https://en.wikisource.org/wiki/Metamorphoses_(Miller)/Book_I
 
 ## Essay use and intact relation
 
-This house supports `mytheme-apollo-eros-daphne-peneus`, whose admitted destination is `submission-package/essay/symbolon/mytheme/myth/apollo-eros-daphne-peneus/WHOLE.md`. Native 020's form/possession/Other operation bears A19's local arbitration, A20's image/valuation and A27's unity without possession. Historical citation establishes the narrated relation; it does not prove the essay's philosophical interpretation or equate Apollo with a universal theory of cognition.
+This house supports `mytheme-apollo-eros-daphne-peneus`, whose admitted destination is `submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md`. Native 020's form/possession/Other operation bears A19's local arbitration, A20's image/valuation and A27's unity without possession. Historical citation establishes the narrated relation; it does not prove the essay's philosophical interpretation or equate Apollo with a universal theory of cognition.
 
 The whole requires Python and Apollo's boast, Cupid's contrary arrows, Daphne's unmarried orientation and paternal request, the chase, transformation, recoil and the laurel's public office. Her earlier-narrated request need not be asserted as chronologically before Cupid's arrow. The ending's seeming assent must remain beside the recoil. Their tension gives the native reading something determinate to interpret rather than permission to omit an inconvenient line.
 

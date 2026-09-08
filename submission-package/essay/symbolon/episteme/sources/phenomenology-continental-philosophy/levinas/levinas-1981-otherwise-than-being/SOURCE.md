@@ -41,7 +41,8 @@ node_type: source-house
 ownership: canonical-source-house
 schema_version: 1
 passage_surface: '#passages'
-main_source_for:
+main_source_for: []
+source_use_notes:
 - the responsibility/substitution register drawn by the conjugate root's A face (proposed)
 ---
 # Levinas — Otherwise than Being (Lingis, 1981)

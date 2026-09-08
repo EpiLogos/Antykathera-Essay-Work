@@ -21,7 +21,7 @@ consumed_by_arguments:
 - '[[submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession|A27]]'
 consumed_by_mythemes:
 - mytheme-eros-psyche
-mytheme_destination: submission-package/essay/symbolon/mytheme/plates/eros-psyche/WHOLE.md
+mytheme_destination: submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md
 admission_authority: working/p2-enrichment/receipts/T22-primary-source-admissions.md
 tags:
 - epi-logos/antikythera-essay
@@ -56,7 +56,7 @@ The title is transcribed from the selected Latin object's heading. Do not substi
 
 ## Essay use and narrative integrity
 
-The primary tale supplies `mytheme-eros-psyche`, admitted as a supplementary plate at `submission-package/essay/symbolon/mytheme/plates/eros-psyche/WHOLE.md`. It bears the A13/A23 trust relation and A20/A27's image/possession and unity distinction. Its place remains supplementary; this source house does not promote it over the Ares–Aphrodite–Harmonia whole.
+The primary tale supplies `mytheme-eros-psyche`, admitted as a supplementary plate at `submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md`. It bears the A13/A23 trust relation and A20/A27's image/possession and unity distinction. Its place remains supplementary; this source house does not promote it over the Ares–Aphrodite–Harmonia whole.
 
 The project's union-without-merger operation is Argued in its native register. Apuleius is evidence for the tale, not an external proof of that operation. The closing legal possession idiom remains a material friction to be carried, not translated into an assertion that Apuleius himself rejected possession. Four tasks cannot stand for the whole, and a formal four/six relation cannot be established by merely counting them.
 

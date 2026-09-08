@@ -111,3 +111,19 @@ This passage does not derive apoha, Nāgārjuna's account of dependent arising, 
 | passage_id | source_id | locator | status | movement consumers | argument consumers | function |
 |---|---|---|---|---|---|---|
 | `dushun-cleary-2000-jewel-net-indra-q001` | `dushun-cleary-2000-jewel-net-indra` | Cleary 58–60; T45 no. 1867, 513a28–513b21 | source-matched; edition collation needed | `10-s0-p3-apoha`; `22-s2-p3-ares-aphrodite-harmonia`; `46-s50-p3-4-2-mono-poly` | [[11-mono-poly-whole-and-many|Mono-Poly]]; [[Mono-Poly: Whole and Many]] | Huayan primary-text provenance |
+
+
+<a id="huayan-complete-contemplation"></a>
+## Complete contemplative continuation — primary Chinese control
+
+The Chinese sequence was recovered directly from the [CBETA XML transcription](https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T45/T45n1867.xml) on 2026-09-08. The full research copy of T45 no. 1867 (`working/sources-texts-references/primary-texts/huayan-wujiao-zhiguan-cbeta/T45n1867.xml`) and a line-labelled extraction of 513a20–513c18 (`working/sources-texts-references/primary-texts/huayan-wujiao-zhiguan-cbeta/0513a20-0513c18.txt`) retain the recovered object. The extraction is a reading aid and may include apparatus readings; the XML remains the control. Neither object is a collation of Cleary’s printed English or a Taishō page image.
+
+| Chinese locator | Source-matched paraphrase and consequence |
+| --- | --- |
+| 513a20–27 | The knowing relation introduces mutual entry and the universal-eye field before the jewel-net image. |
+| 513a28–513b21 | Clear jewels reflect one another recursively. A southwest jewel provides a definite entry; remaining there permits entry into all. The one/many questions follow the operation, rather than adding a privileged centre. The older source locator ends within the continuing dialogue. |
+| 513b21–513c3 | The ink-dot test makes one particular marking appear throughout the reflected field. A different starting jewel permits the same traversal. |
+| 513c4–10 | The teaching explicitly qualifies its simile: jewels’ images enter one another while their substances remain distinct; the phenomena being taught interpenetrate more fully. Partial resemblance is stated within the source itself. |
+| 513c11–18 | Closing Vairocana verses direct manifestation toward beings, followed by the closing title and Dushun attribution. This copied attribution does not resolve the historical authorship dispute. |
+
+The [complete Indra-net whole](submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-simile-and-distinctness) **consumes** the continuation through the ink mark, source qualification and closing orientation. The selected Cleary excerpt retains its existing bibliographic identity and English quotation debt. The broader Chinese span supports the full contemplative aftermath without certifying that the anthology’s excerpt includes every sentence in the same wording.

@@ -8,7 +8,7 @@ author:
 - unnamed AI assistant (tool not recorded in transcript)
 title_full: The Skenfrith Cope, Jung, and the QL Sixfold — Chat of 8 July 2026
 year: 2026
-local_copy: /Users/admin/Documents/Nara-Personal/Antykathera-Essay-Work/working/sources-texts-references/chat-logs-for-quilting/07-08-2026-jung-marie-skenfrith-cope.md
+local_copy: working/sources-texts-references/chat-logs-for-quilting/07-08-2026-jung-marie-skenfrith-cope.md
 source_id: taylor-2026-skenfrith-cope-jung-ql
 primary_domain: internal-corpus
 node_type: source-house
@@ -35,3 +35,6 @@ This is a raw, unhammered conversation: a discovery and authorship trail, never 
 ## Passage index
 
 None yet.
+
+
+**Current locality:** the project working-shelf transcript was verified on 2026-09-08. Its corrected authored Mother flow is developed in [the whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md). This return identifies consumption of the conversation as provenance; historical assertions and assistant interpretations retain their independent source duties.

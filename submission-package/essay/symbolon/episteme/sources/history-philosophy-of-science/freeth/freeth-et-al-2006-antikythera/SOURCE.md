@@ -7,7 +7,7 @@ citation_style: chicago-notes-bibliography-18
 metadata_status: verified
 edition_status: not-applicable
 citation_status: citation-ready
-quote_status: locator-needed
+quote_status: source-matched-abstract; no-exact-quotation
 chicago_ready: true
 author:
 - Tony Freeth
@@ -56,4 +56,16 @@ Technical/archaeological source for X-ray reconstruction, gearing, astronomical 
 <a id="passages"></a>
 ## Passages and excerpts
 
-No passage or excerpt has yet been gathered for this source.
+<a id="freeth-et-al-2006-antikythera-q001"></a>
+## Passage card — `freeth-et-al-2006-antikythera-q001` — imaging and recovered celestial functions
+
+**Source-matched paraphrase:** The abstract describes a Greek geared device made around the end of the second century BCE, named for its 1901 discovery at Antikythera. Surface imaging and high-resolution X-ray tomography of its fragments support reconstruction of gearing and further inscription readings. The reported functions include lunar phases, a luni-solar calendar and eclipse prediction; inscriptions support suggestions of a now-lost planetary display.
+
+- **Locator:** published article abstract, PMID 17136087, DOI 10.1038/nature05357.
+- **Access:** [Europe PMC’s indexed primary abstract](https://europepmc.org/article/MED/17136087), retrieved through its official core-record API on 2026-09-08. The parent’s PubMed web view met a browser check and Nature did not render; neither failed access is counted as a full-paper read.
+- **Status:** source-matched abstract paraphrase; exact quotation unprepared.
+- **Verification:** article identity and full abstract read; no main-text, figure or supplement collation claimed.
+- **Source relation:** paraphrased.
+- **Consumer:** [Antikythera as attunement](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md).
+- **Use boundary:** this abstract supports the bounded archaeological account. Exact gear values, reconstruction details and numerical cycles require their particular article passages; the 2021 front-display proposal remains a separately sourced research result.
+

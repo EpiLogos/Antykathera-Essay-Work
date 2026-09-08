@@ -22,7 +22,7 @@ consumed_by_arguments:
 - '[[submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero|A36]]'
 consumed_by_mythemes:
 - mytheme-goethe-permanence-change
-mytheme_destination: submission-package/essay/symbolon/mytheme/poetry/goethe-permanence-change/WHOLE.md
+mytheme_destination: submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md
 admission_authority: working/p2-enrichment/receipts/T22-primary-source-admissions.md
 tags:
 - epi-logos/antikythera-essay
@@ -63,7 +63,7 @@ These forms identify the selected object. They do not certify inspection of its 
 
 ## Essay use and whole-poem recovery
 
-This house supplies the literary witness for the already admitted `mytheme-goethe-permanence-change`, destined for `submission-package/essay/symbolon/mytheme/poetry/goethe-permanence-change/WHOLE.md`. Its ratified alias “Permanence and Change” names the same poem; the source uses the edition's “in.” The whole is a poetic refraction of A11/A12's Two Ones and A36's return, not a formal proof of QL or an equation attributed to Goethe.
+This house supplies the literary witness for the already admitted `mytheme-goethe-permanence-change`, destined for `submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md`. Its ratified alias “Permanence and Change” names the same poem; the source uses the edition's “in.” The whole is a poetic refraction of A11/A12's Two Ones and A36's return, not a formal proof of QL or an equation attributed to Goethe.
 
 The full German poem moves from blossom lost to wind, through ripening and a changing river, to changed perception, aging limbs and the passing bearer of a name. Its last movement gathers beginning and end while distinguishing the heart's content from the spirit's form. The native Mytheme must retain this embodied temporal loss and artistic return; a timeless abstraction would not carry the complete poem.
 

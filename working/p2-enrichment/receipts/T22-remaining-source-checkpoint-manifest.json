@@ -1,0 +1,89 @@
+{
+  "scope": "Previously developed and reviewed T20 source admissions/availability and T21 migration/source links; actual source projections and real source-house tests rerun at this barrier. No new source inference at checkpoint.",
+  "houses": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/apuleius/apuleius-1913-psyche-cupido-purser/SOURCE.md",
+      "sha256": "77c650854dcef5af5c456ecec8e5d06eadb48a48dcceff10a610550365fa3dcc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ovid/ovid-1921-metamorphoses-miller/SOURCE.md",
+      "sha256": "1b506cb6916fac39434c0c8bebd4414e99d3e18fb6b86ce0994370174890f059"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md",
+      "sha256": "6e688c9a8509144d272f895c9447aefa9a80517cc8659ced2bf47aeaae20b804"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md",
+      "sha256": "4e720ed0ef839f907f3bbbf2485e1040dadd8e19922d9968a0eacfac12720c30"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE.md",
+      "sha256": "9946151cf5e4a1cc58d78f524f62468fdfb3ab61ff9f5458ee542158ebde5568"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE.md",
+      "sha256": "b1dd4b8263d433b8620ad2e853d3d98b9cf31515fccb956dac2d3894c6c6028f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-skenfrith-cope-jung-ql/SOURCE.md",
+      "sha256": "7b034fd4e6ce595f492d4519e71a7344e6e4c33f16b8e8c6ddfb2d3e551a6d28"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md",
+      "sha256": "6f70a527d6b62b7e9f52f3dc94eae5f9fa74b7c9890f838afea2c2bf49279b31"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/literature/goethe/goethe-1983-selected-poems-nims/SOURCE.md",
+      "sha256": "851dec0cff461f80b568b2cf286d7a6f348c85f5ed65a9e4faa68b7173eb7588"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/garfield/garfield-priest-2003-limits-of-thought/SOURCE.md",
+      "sha256": "1632e56026c9b48c215f241819b86112575379b8f85d9b65c09d741abbe08337"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md",
+      "sha256": "ab67416b4576084c26ee276b8887e109d652528ca63be5d7c4adfbb768999832"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md",
+      "sha256": "69f07fd47d42f21c0debd365d0619e7379924c727e764fbf1bf15a1513c7c428"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/mcgoohan-markstein/mcgoohan-markstein-1967-the-prisoner/SOURCE.md",
+      "sha256": "25facdd54933c286554052e300cded434e7d7244a259d62dfdc81b80ff46ec4e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1975-early-greek-thinking/SOURCE.md",
+      "sha256": "80885fdadafdaa6c1cca201a88e867295de4ae6859331e3e1f9696a995e90f51"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1961-totality-and-infinity/SOURCE.md",
+      "sha256": "b01058534d9e62715ca58db3856996fc69bed0e8e87be793d45fa72e9f01b80a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1981-otherwise-than-being/SOURCE.md",
+      "sha256": "d7d420980cc5a4d7c0a574c1a8f3979e0b9bd58965d108c208b33308e80a66b6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md",
+      "sha256": "5fcdc68e95294025af48bdb3b214511650372899ee552f68474ef533595a36bd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+      "sha256": "8d99e9766fda076933765f80eb5b0fb1ba61308dbecd80b2b7813fa1524f7483"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "sha256": "2f651603974204647249c7a91023cf6edc4008c5bf839b9310cb0070d868fd3d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/biblical-job-kjv-ebible-eng-kjv2006/SOURCE.md",
+      "sha256": "bf69d7cf2a767373ef197f0367110ec8ce54a2c6966caa1bc3f2f4e547c637f3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/irenaeus/irenaeus-1885-against-heresies-book-1/SOURCE.md",
+      "sha256": "4491b892779acd929a428dc18fa0fce53ee7495c72f35f8e8315cf4af4ad1f8a"
+    }
+  ]
+}

@@ -97,7 +97,7 @@ This is Priest's construction, not settled history of the catuṣkoṭi. The rec
 - **Source relation:** quoted.
 - **Evidential action:** supports.
 - **Argument function:** the catuṣkoṭi's face-value fourfold — the codified counterpart of QL's #1–#4.
-- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[submission-package/essay/symbolon/episteme/histories/indian-philosophy/HISTORY|indian-philosophy]] history.
+- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history.
 - **Use boundary:** states the scheme; carries no claim about its ground.
 
 <a id="priest-2010-logic-catuskoti-q002"></a>
@@ -195,7 +195,7 @@ This is Priest's construction, not settled history of the catuṣkoṭi. The rec
 - **Source relation:** quoted.
 - **Evidential action:** supports.
 - **Argument function:** places the catuṣkoṭi as central to Madhyamaka logic for the history strand.
-- **Consumers:** [[submission-package/essay/symbolon/episteme/histories/indian-philosophy/HISTORY|indian-philosophy]] history; [[28-s3-p3-projective-dimensional-reframing]].
+- **Consumers:** [[submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history; [[28-s3-p3-projective-dimensional-reframing]].
 - **Use boundary:** a historian-facing claim by a logician; Westerhoff's non-uniformity objection qualifies it.
 
 ## Open acquisition and verification

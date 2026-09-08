@@ -38,6 +38,9 @@ primary_domain: internal-corpus
 node_type: source-house
 ownership: canonical-source-house
 schema_version: 1
+# Local compilation recovered 2026-09-08; historical attributions retain separate warrants.
+local_copy: working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md
+local_copy_sha256: 1e1ee72c6445eea2e7df057798bd1b0441f6e5eeac289dddb65d680d7ca6bb51
 passage_surface: '#passages'
 ---
 # Taylor — MEF Twelve Lenses Reference (2026)
@@ -46,7 +49,7 @@ passage_surface: '#passages'
 
 Internal reference for MEF's twelve lenses and sublenses, including the phenomenological and Jungian lenses and Prompt Thrownness/Geworfenheit placement.
 
-**Local-copy state:** no recoverable project-local file was present at this pass; retain this record only as in-house provenance until the reference is supplied or indexed.
+**Local-copy state:** recovered and read in full on 2026-09-08: [the twelve-lens reference](working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md), 295 lines, dated 2026-06-22. The object identifies itself as a derived synthesis reference and non-canonical compilation. It supplies the local architectural content; it does not replace the essay’s native theorem spine or the source-specific histories of its named traditions.
 
 ## Essay use
 
@@ -57,4 +60,15 @@ MEF is presented as the initial diaphaneity hologram/seed: a repeatable lens arc
 <a id="passages"></a>
 ## Passages and excerpts
 
-No passage or excerpt has yet been gathered for this source.
+### Recovered local passage map
+
+| Locator in the local compilation | Content and source use |
+| --- | --- |
+| §1, lines 11–38 | The complete Name series Truth, Mind, Word, Logos, Son, Image and Power series Play, Need, Sacrifice, Decision, Love, Work, with their paired offices. This is the compilation’s authorial architecture; each historical gloss retains its own public-source obligation. |
+| §§2–3, lines 41–62 | A lens rotates the full conjugate field; same-index Day/Night twins differ in grounding face. Twelve situated readings are distinguished from the 72-fold pre-lens potential. The musical tables are reported as the compilation’s construction, without new external verification. |
+| §4, lines 65–261 | All twelve lenses and each six-sublens field, ordered in Articulation, Encounter and Becoming squares. L4 retains lived thrownness and temporality; L4′ the scientific verification sequence. Both carry the full conjugate field, with different grounding faces. |
+| §5 and appendix, lines 263–295 | The whole-field return and master rotation tables. The compilation’s recorded corrections to older tables remain part of its provenance. |
+
+**Relation to consumers:** [C39 — MEF](submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md) consumes the lens-conditioned operation; [C38 — Bimba Map](submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md) retains the distinct recursively local reference office. [The stained-glass whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-panes-seams) figures MEF’s media and joins within the corrected optical composition.
+
+This map paraphrases the recovered local object. No new public-source quotation, historical attribution, musical validation or implemented result is certified by this locality repair.

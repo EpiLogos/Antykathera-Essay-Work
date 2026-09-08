@@ -109,9 +109,22 @@ The final episode, “Fall Out,” turns the question of Number One back through
 
 The programme should appear in the manuscript once, as a brief aside after the derivation `2+2²=6=4+2` in §2 · #5→0. Its purpose there is not to prove the theorem but to disclose its political inversion: the live sixfold becomes an imposed number when an institution seizes the relation that generates the count.
 
-The full account belongs in [[Number Two Names Number Six: The Prisoner and the Politics of the Count]]. That node carries the reference at different depths into the subject's non-objectifiability, dia-ballein and classification, the `4+2` count, the hidden zero of evaluative systems, the governance of shared infrastructures, and the non-final return. This separation lets the external-reference package be reorganised later without multiplying the programme's appearance in the main prose.
+The full source-facing telling and authored return now belong in [the canonical Prisoner whole](submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md). [[Number Two Names Number Six: The Prisoner and the Politics of the Count]] remains the earlier political argument carrier. The whole carries the reference at different depths into the subject's non-objectifiability, dia-ballein and classification, the `4+2` count, the hidden zero of evaluative systems, the governance of shared infrastructures, and the non-final return. This separation lets the external-reference package be reorganised later without multiplying the programme's appearance in the main prose.
 
 ## Open acquisition and verification
 
 - If the reference survives into submitted prose, verify the selected release's exact timecode for the recurring exchange and the exact “Fall Out” sequence locator before final note-lock.
 - If the finale bears more than the compact external-link account, consult and card McGoohan's Warner Troyer interview separately rather than attributing an interpretation of Number One to the series creator through a secondary quotation.
+
+## Written episode witnesses used in the whole — 2026-09-08
+
+The whole’s writer recovered four selected written episode tellings in addition to the official seventeen-episode inventory. This is **secondary synopsis/study verification**, not a complete audiovisual viewing, release collation or shot-by-shot transcription. The source house’s opening quotation remains governed by q001 and its script/transcript evidence. The [development receipt](working/p2-enrichment/receipts/T20-mytheme-the-prisoner-development.md) records the scoped reads.
+
+| Selected episode | Written witness | What the whole receives |
+|---|---|---|
+| Arrival | [Episode synopsis](https://en.wikipedia.org/wiki/Arrival_%28The_Prisoner%29) | Cobb’s staged death, Number Nine, the helicopter’s controlled return and the changing Two. |
+| Free for All | [Episode synopsis](https://en.wikipedia.org/wiki/Free_for_All_%28The_Prisoner%29); [Clayton Barr’s study](https://prisoner.popapostle.com/html/episodes/P67/Free-for-All.htm) | Prepared publicity, assigned newspaper answers, the election and Fifty-Eight’s accession. |
+| Once Upon a Time | [Clayton Barr’s study](https://prisoner.popapostle.com/html/episodes/P67/Once-Upon-a-Time.htm) | Degree Absolute, the embryo room, regression, the Butler and the interrogation’s reversal. |
+| Fall Out | [Episode synopsis](https://en.wikipedia.org/wiki/Fall_Out_%28The_Prisoner%29); [Clayton Barr’s study](https://prisoner.popapostle.com/html/episodes/P67/Fall-Out.htm) | Assembly, masks, escape with the other participants, divergent London returns and the recurring door/driving images. |
+
+These reported sequences remain attributed to their written witnesses. The studies’ speculative explanations of machinery, allegiance and creator intention are excluded from the whole’s source claims. The other thirteen episode entries locate premises through the official ITV listing; they do not claim complete recovered episode plots. Exact release, performance, shot order and timecodes remain the primary audiovisual task. This distinction preserves the programme’s material apparatus and full admitted political arc without making a synopsis into a viewed primary scene.

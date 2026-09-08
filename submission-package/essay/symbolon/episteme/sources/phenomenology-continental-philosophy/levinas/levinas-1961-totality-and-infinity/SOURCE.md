@@ -19,12 +19,12 @@ author:
 - Emmanuel Levinas
 translator:
 - Alphonso Lingis
-title_full: Totality and Infinity: An Essay on Exteriority
+title_full: "Totality and Infinity: An Essay on Exteriority"
 publisher: Duquesne University Press
 place: Pittsburgh
 year: 1969
 original_language: French
-original_title: Totalité et infini: essai sur l'extériorité
+original_title: "Totalité et infini: essai sur l'extériorité"
 original_year: 1961
 consumed_by_sections: []
 consumed_by_arguments:
@@ -41,7 +41,8 @@ node_type: source-house
 ownership: canonical-source-house
 schema_version: 1
 passage_surface: '#passages'
-main_source_for:
+main_source_for: []
+source_use_notes:
 - the love/face/responsibility register drawn by the conjugate root's A face (proposed)
 ---
 # Levinas — Totality and Infinity (Lingis, 1969)

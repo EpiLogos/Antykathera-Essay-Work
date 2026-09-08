@@ -43,7 +43,8 @@ node_type: source-house
 ownership: canonical-source-house
 schema_version: 1
 passage_surface: '#passages'
-main_source_for:
+main_source_for: []
+source_use_notes:
 - the cogito's landing beside Ø-occlusion (proposed alignment)
 ---
 # Descartes — Meditations on First Philosophy (CSM II, 1984)
