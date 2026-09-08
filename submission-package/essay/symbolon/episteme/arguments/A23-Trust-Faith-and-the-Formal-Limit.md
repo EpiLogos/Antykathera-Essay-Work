@@ -47,6 +47,8 @@ The direct revision's §7.3 noncoincidence relation places the limit inside a li
 
 ## #5→0
 
+The [Arabic E4 case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#arabic-reckoning-and-names) **compares** undertaking with possession: the text presents a promise to which a practitioner can orient an act, while the historian can verify what the report says without establishing its promised outcome. Trust’s native formal-limit operation remains A23’s argument; it is neither derived from a numerical formula nor attributed wholesale to Islamic devotional practice.
+
 Taylor’s [broken symbolon and tessera](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#broken-symbolon-tessera) **figures** reliance across an interval which the present token cannot close by itself. Its fracture carries the absent counterpart through time, while recognition depends upon an encountered fit. The account can identify the seam and the conditions of matching; it cannot manufacture the other half’s arrival or the undertaking to answer. Trust continues through that finite relation with the possibility of failed recognition and renewed judgment intact. The material figure keeps its Greek institutional history as a distinct source task.
 
 Conscious continuation **returns-to** [the complete Investigation and Faith aphorism](../aphorisms/investigation-and-faith.md#complete-aphorism) through an answerable finite commitment. Investigation can examine the bearer, obligation and conditions of reliance; certification cannot manufacture the lived relation in which that account is used. The complete four-line form preserves both activities, including correction, withdrawal and renewed entrustment when the encountered consequence warrants them.

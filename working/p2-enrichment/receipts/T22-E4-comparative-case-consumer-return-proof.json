@@ -1,0 +1,933 @@
+{
+  "status": "PASS",
+  "case_consumer_pairs": [
+    {
+      "case": "Chinese",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "case_anchor": "chinese-rectification-of-names",
+      "literal_case_forward": true,
+      "literal_case_reverse": true,
+      "graph_H_bilateral": true,
+      "whole_to_exact_case_to_consumer": true,
+      "graph_W_reverse": true,
+      "graph_W_forward": true
+    },
+    {
+      "case": "Chinese",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "case_anchor": "chinese-rectification-of-names",
+      "literal_case_forward": true,
+      "literal_case_reverse": true,
+      "graph_H_bilateral": true,
+      "whole_to_exact_case_to_consumer": true,
+      "graph_W_reverse": true,
+      "graph_W_forward": true
+    },
+    {
+      "case": "Arabic",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "case_anchor": "arabic-reckoning-and-names",
+      "literal_case_forward": true,
+      "literal_case_reverse": true,
+      "graph_H_bilateral": true,
+      "whole_to_exact_case_to_consumer": true,
+      "graph_W_reverse": true,
+      "graph_W_forward": true
+    },
+    {
+      "case": "Arabic",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "case_anchor": "arabic-reckoning-and-names",
+      "literal_case_forward": true,
+      "literal_case_reverse": true,
+      "graph_H_bilateral": true,
+      "whole_to_exact_case_to_consumer": true,
+      "graph_W_reverse": true,
+      "graph_W_forward": true
+    },
+    {
+      "case": "Egyptian",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "case_anchor": "egyptian-rn-reri",
+      "literal_case_forward": true,
+      "literal_case_reverse": true,
+      "graph_H_bilateral": true,
+      "whole_to_exact_case_to_consumer": true,
+      "graph_W_reverse": true,
+      "graph_W_forward": true
+    },
+    {
+      "case": "Sanskrit",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "case_anchor": "sanskrit-enumeration-and-discriminative-practice",
+      "literal_case_forward": true,
+      "literal_case_reverse": true,
+      "graph_H_bilateral": true,
+      "whole_to_exact_case_to_consumer": true,
+      "graph_W_reverse": true,
+      "graph_W_forward": true
+    },
+    {
+      "case": "Sanskrit",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+      "case_anchor": "sanskrit-enumeration-and-discriminative-practice",
+      "literal_case_forward": true,
+      "literal_case_reverse": true,
+      "graph_H_bilateral": true,
+      "whole_to_exact_case_to_consumer": true,
+      "graph_W_reverse": true,
+      "graph_W_forward": false
+    },
+    {
+      "case": "Hebrew",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "case_anchor": "hebrew-spr-counting-writing-and-entrusted-work",
+      "literal_case_forward": true,
+      "literal_case_reverse": true,
+      "graph_H_bilateral": true,
+      "whole_to_exact_case_to_consumer": true,
+      "graph_W_reverse": true,
+      "graph_W_forward": true
+    },
+    {
+      "case": "Hebrew",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "case_anchor": "hebrew-spr-counting-writing-and-entrusted-work",
+      "literal_case_forward": true,
+      "literal_case_reverse": true,
+      "graph_H_bilateral": true,
+      "whole_to_exact_case_to_consumer": true,
+      "graph_W_reverse": true,
+      "graph_W_forward": true
+    }
+  ],
+  "preservation": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "prior_text_exact": true,
+      "metadata_exact": true,
+      "prior_edges_retained": true,
+      "sha256": "b749243203623008668ffc3e4de86e440e240a9365f7636a21abb50409568ccc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "prior_text_exact": true,
+      "metadata_exact": true,
+      "prior_edges_retained": true,
+      "sha256": "aeb6948cbdd93d99c4054641bcdfcb4620a047ac0460805b3ac33becab5724e8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "prior_text_exact": true,
+      "metadata_exact": true,
+      "prior_edges_retained": true,
+      "sha256": "eebc80e938dfd53198a0f0789893c5d8470595bfd502ca6626ae1e3dae685fbc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "prior_text_exact": true,
+      "metadata_exact": true,
+      "prior_edges_retained": true,
+      "sha256": "1424096d1a7b28245dcb193d4e6a12750e0d6b6dc5edff0cb4d6395fce13269d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "prior_text_exact": true,
+      "metadata_exact": true,
+      "prior_edges_retained": true,
+      "sha256": "3dd86a0d84b54b7854844b5e31a18824038634167817bb4dac7610bf67dcf928"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+      "prior_text_exact": true,
+      "metadata_exact": true,
+      "prior_edges_retained": true,
+      "sha256": "f0bd77cbab0be92e69f707de73e9f1a65746d6ea8b27433ae1b78ff28119049a"
+    }
+  ],
+  "source_routes": [
+    {
+      "case": "Chinese",
+      "source": "submission-package/essay/symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md",
+      "fragment": "moe-2021-revised-mandarin-dictionary-q001",
+      "resolved": true
+    },
+    {
+      "case": "Chinese",
+      "source": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+      "fragment": "analects-ctext-legge-q001",
+      "resolved": true
+    },
+    {
+      "case": "Chinese",
+      "source": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+      "fragment": "analects-ctext-legge-q002",
+      "resolved": true
+    },
+    {
+      "case": "Arabic",
+      "source": "submission-package/essay/symbolon/episteme/sources/classical-philology/lane/lane-arabic-english-lexicon-online/SOURCE.md",
+      "fragment": "lane-arabic-english-lexicon-online-p001",
+      "resolved": true
+    },
+    {
+      "case": "Arabic",
+      "source": "submission-package/essay/symbolon/episteme/sources/classical-philology/lane/lane-arabic-english-lexicon-online/SOURCE.md",
+      "fragment": "lane-arabic-english-lexicon-online-p002",
+      "resolved": true
+    },
+    {
+      "case": "Arabic",
+      "source": "submission-package/essay/symbolon/episteme/sources/religion-theology/quran/quran-arberry-corpus-selected/SOURCE.md",
+      "fragment": "quran-arberry-corpus-selected-p001",
+      "resolved": true
+    },
+    {
+      "case": "Arabic",
+      "source": "submission-package/essay/symbolon/episteme/sources/religion-theology/quran/quran-arberry-corpus-selected/SOURCE.md",
+      "fragment": "quran-arberry-corpus-selected-p002",
+      "resolved": true
+    },
+    {
+      "case": "Arabic",
+      "source": "submission-package/essay/symbolon/episteme/sources/religion-theology/al-bukhari/bukhari-sahih-sunnah-online/SOURCE.md",
+      "fragment": "bukhari-sahih-sunnah-online-p001",
+      "resolved": true
+    },
+    {
+      "case": "Egyptian",
+      "source": "submission-package/essay/symbolon/episteme/sources/classical-philology/tla/tla-hieroglyphic-hieratic-lexicon/SOURCE.md",
+      "fragment": "tla-hieroglyphic-hieratic-lexicon-p001",
+      "resolved": true
+    },
+    {
+      "case": "Egyptian",
+      "source": "submission-package/essay/symbolon/episteme/sources/religion-theology/reri/reri-ptolemaic-funerary-papyrus/SOURCE.md",
+      "fragment": "reri-ptolemaic-funerary-papyrus-p001",
+      "resolved": true
+    },
+    {
+      "case": "Sanskrit",
+      "source": "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+      "fragment": "monier-williams-1899-sanskrit-english-dictionary-p001",
+      "resolved": true
+    },
+    {
+      "case": "Sanskrit",
+      "source": "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+      "fragment": "monier-williams-1899-sanskrit-english-dictionary-p002",
+      "resolved": true
+    },
+    {
+      "case": "Sanskrit",
+      "source": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+      "fragment": "isvarakrishna-ruzsa-1998-samkhyakarika-p001",
+      "resolved": true
+    },
+    {
+      "case": "Sanskrit",
+      "source": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+      "fragment": "isvarakrishna-ruzsa-1998-samkhyakarika-p002",
+      "resolved": true
+    },
+    {
+      "case": "Sanskrit",
+      "source": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+      "fragment": "isvarakrishna-ruzsa-1998-samkhyakarika-p003",
+      "resolved": true
+    },
+    {
+      "case": "Hebrew",
+      "source": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+      "fragment": "bdb-hebrew-english-lexicon-online-p001",
+      "resolved": true
+    },
+    {
+      "case": "Hebrew",
+      "source": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+      "fragment": "bdb-hebrew-english-lexicon-online-p002",
+      "resolved": true
+    },
+    {
+      "case": "Hebrew",
+      "source": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+      "fragment": "bdb-hebrew-english-lexicon-online-p003",
+      "resolved": true
+    },
+    {
+      "case": "Hebrew",
+      "source": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+      "fragment": "hebrew-bible-mechon-mamre-jps1917-p001",
+      "resolved": true
+    },
+    {
+      "case": "Hebrew",
+      "source": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+      "fragment": "hebrew-bible-mechon-mamre-jps1917-p002",
+      "resolved": true
+    },
+    {
+      "case": "Hebrew",
+      "source": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+      "fragment": "hebrew-bible-mechon-mamre-jps1917-p003",
+      "resolved": true
+    },
+    {
+      "case": "Hebrew",
+      "source": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+      "fragment": "hebrew-bible-mechon-mamre-jps1917-p004",
+      "resolved": true
+    }
+  ],
+  "protected150": [
+    {
+      "path": "submission-package/essay/symbolon/matheme/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/chromatic-substrates.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/diatonic-cf-grammar.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/field.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/lens-anchors.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/mobius-klein-surfaces.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/toroidal-poloidal-confinement.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/projective-line.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/riemann-sphere.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/projective-completion.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/mono-poly/mono.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/mono-poly/poly.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/mono-poly/translations.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/diagrams/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/grothendieck-group-loss.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/godel-incompleteness.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/sheffer-stroke.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/crt-z6.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/trivial-ring.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/calculus-infinity-dx.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/fde-catuskoti.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/quaternion-q8.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/qubit-bloch-sphere.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/cross-ratio.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/metaphysics.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/topology.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/etymology.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/enantiodromic-return.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/recognition.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/psychology.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/number.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/dia-syn/syn.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/dia-syn/dia.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/dia-syn/chronic.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/perfect-six.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/tetraktys-triangle.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/pythagorean-comma.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/cycle-interval-octave.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/cymatics-standing-waves.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/whole-tone-return.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/j-space.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/softmax-argmax.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/preference-gauge.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/operational-parity.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/immutable-subject.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/minus-over-minus.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/copula.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/the-matheme.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/catuskoti-crossing.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/six-determinations.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/spanda/spanda-equations.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/spanda/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/crossed-zero-re-entry.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/binary-and-binary-of-binary.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/primordial-symbolon.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/x-x.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/two-ones.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/slash-and-or.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/complex-orientation.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/eight-determinations.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/ql-positions.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/t1-geometry.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/harmonics-symmetries.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/spanda.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/phase-flip.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/t0-onto-logic.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/ratio-threshold.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/infinity-dx.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/question-assertion.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/X-x.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/AM-IS.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/self-identity.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/mono-poly.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/subject-logics.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/minus-plus.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/the-slash.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/complexio-oppositorum.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/eight-determinations.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/0-1.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/1-0.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A01.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A25.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A05.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A31.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A04.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A30.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A20.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A14.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A34.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A10.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A24.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A07.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A33.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A17.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A02.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A12.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A06.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A22.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A29.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A09.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A19.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A08.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A28.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/NOTES.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/NOTES.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/NOTES.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/THE-RETURN-OF-ZERO.md",
+      "unchanged": true
+    }
+  ],
+  "source_hashes_unchanged": {
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md": true,
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md": true,
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/lane/lane-arabic-english-lexicon-online/SOURCE.md": true,
+    "submission-package/essay/symbolon/episteme/sources/religion-theology/quran/quran-arberry-corpus-selected/SOURCE.md": true,
+    "submission-package/essay/symbolon/episteme/sources/religion-theology/al-bukhari/bukhari-sahih-sunnah-online/SOURCE.md": true,
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/tla/tla-hieroglyphic-hieratic-lexicon/SOURCE.md": true,
+    "submission-package/essay/symbolon/episteme/sources/religion-theology/reri/reri-ptolemaic-funerary-papyrus/SOURCE.md": true,
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md": false,
+    "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md": false,
+    "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md": false,
+    "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md": false
+  },
+  "parent_source_hygiene_delta": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+      "before_sha256": "db95322dcd16168d6edd6e9473f9d27c56a795afe15780afb0247a2d0b970b14",
+      "current_sha256": "c071cd6370520adf25850f6320990a6ca4a9790b0ae33f48f6bd7d3316d943ee",
+      "exact_reconstruction": true,
+      "delta": "Parent SOURCE hygiene changed raw-object Markdown links to inline-code paths only; admitted prose/cards/metadata unchanged"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+      "before_sha256": "c04380a00db883511a64cede1a2eb6de50a7f5ca2cc0504eef6583fc94040e7e",
+      "current_sha256": "146d140cdc148c027b0b2049453c111b3749094557dc596a06582329601b1497",
+      "exact_reconstruction": true,
+      "delta": "Parent SOURCE hygiene changed raw-object Markdown links to inline-code paths only; admitted prose/cards/metadata unchanged"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+      "before_sha256": "2866daca17801f6c770ded5f850888f6b83459e95a995c99a9d4b2782d1cb2b5",
+      "current_sha256": "8c21aa537c65536d2ad723c71913947587a7d6acf8cc7e2649c46d56fce2262f",
+      "exact_reconstruction": true,
+      "delta": "Parent SOURCE hygiene changed raw-object Markdown links to inline-code paths only; admitted prose/cards/metadata unchanged"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+      "before_sha256": "e7803afc736f43329a951d80fd39e815e44e292152f510198e1a34cc63836da5",
+      "current_sha256": "de8b17c57b65f8f4346a493ce607bb0891fa1630dd3a7b9055a9807207d0aa94",
+      "exact_reconstruction": true,
+      "delta": "Parent SOURCE hygiene changed raw-object Markdown links to inline-code paths only; admitted prose/cards/metadata unchanged"
+    }
+  ],
+  "carrier_current_hashes": {
+    "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md": "e81ee6289b10db4e90c402d43c94ef512d3e9f561638469277962f4bdd0c9a26",
+    "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md": "e0291913d331cea970c433858352c71fd547cbc167f9d11db60ac5bac32865d6"
+  },
+  "scope": "A/C only; 9 paragraphs across6nodes. Parent E integration independently changed carriers; no E/SOURCE/Movement/metadata/protected/shared writes.",
+  "diff_check": "PASS"
+}

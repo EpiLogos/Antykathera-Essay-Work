@@ -1,0 +1,29 @@
+# T22 — E4 five comparative cases: consumer closure
+
+Completed nine exact case-consumer returns in six canonical A/C pages: Chinese A15/C27; Arabic A15/A23; Egyptian C21; Sanskrit A15/C10; Hebrew A15/A33. Nine bounded paragraphs were added. All prior text, metadata and existing graph edges are preserved exactly by inverse-insertion reconstruction. No E/SOURCE/Movement/root/Matheme/generated/shared-matrix/protected/manuscript write, staging or commit was performed in this batch.
+
+## Actual reciprocal proof
+
+PASS: all nine case-local forward links in HISTORICAL-BRANCHES and all nine new case-anchored consumer reverses resolve in the actual workspace graph. Each WHOLE-FIELD → exact authored case → consumer route is explicit; all six consumers retain their WHOLE-FIELD reverse. Five consumers have direct WHOLE-FIELD forwards; C10 is reached through the Sanskrit case, not falsely counted as a direct whole-field edge. Twenty-two distinct case-to-SOURCE passage routes resolve, covering eleven SOURCE houses. No reciprocal route is inferred from shared vocabulary.
+
+Six-target actual workflow hygiene: zero failures. Scoped git diff --check passes. All150 protected baseline hashes remain unchanged. Consumer before/current proof retains the earlier E routes, lens/mytheme returns and accepted Aristotle metadata. Actual depth4 effects were saved before edits for six consumers, both E4 carriers and eleven sources (13 initial plus6 additional calls). Three declared complete thread readings were reused through exact hash matches; all six current consumer bodies and eleven SOURCE houses were read, with no sibling NOTES present in these source houses. Current E4 case text and complete three-term/four-operation context were recovered; the Sanskrit/Hebrew integration delta was read before landing.
+
+## Distinct operations and source boundaries
+
+- Chinese: A15 keeps designation, office and obligation together; C27 keeps warranted stable counsel distinct from immunity to correction. Received Analects13.3/13.15 and the MOE lexical witness support bounded paraphrase. Implementation, reception, critical manuscript/print collation and a particular Wei dispute remain independent debts; no modern revision procedure is attributed to Confucius.
+- Arabic: A15 distinguishes the counted Names, warrant and further undertaking; A23 distinguishes the report’s promise from verification of its outcome. Lane’s ḥisāb and aḥṣā entries remain separate; Qur’an17:12–15,7:180 and Bukhari7392 retain their distinct occasions. Muhsin Khan’s memorisation rendering remains identified. No Names list, beads protocol, empirical efficacy or common root is invented.
+- Egyptian: C21 retains Reri’s particular funerary address without possessing its bearer or inferring living-symbol/idol status from material survival alone. EA75044,4, spell25 column3top, and the Ptolemaic period remain exact; the admitted museum description supplies no complete hieratic transcription, Reri quotation borrowed from Ani, or demonstrated afterlife outcome.
+- Sanskrit: A15 retains twenty-five principles under four causal descriptions; C10 retains the three means of knowledge. Ruzsa1998, the separate1837 witness and uncertain ancient date remain distinct. No identity with Trika’s36 or the native8, no active revision-agent puruṣa, and no universal pramāṇa taxonomy is promoted.
+- Hebrew: A15 keeps resource, record and material purpose distinct; A33 keeps a restoration order distinct from its independently unverified execution. SPR/ʾMN/ḤŠB/MNH retain their different offices. A15’s proposed wording was narrowed explicitly to Jehoash’s narrative regnal setting, with no independent absolute date claimed. BDB derivational proposals remain qualified; the woman’s account confirms rather than refutes Gehazi.
+
+Historical/lexical register2 and the authorial register3 comparisons retain their respective warrants. No quotation upgrade, cross-language identity or invented historical transmission is claimed. E4’s three terms and four operations, native X/x, eight determinations and recursive Bimba remain intact. The residual source debts above do not downgrade earned native claim standing or leave these nine appointed consumer returns incomplete.
+
+## Concurrent source hygiene and evidence
+
+Seven source hashes are unchanged from intake. Parent changed only raw-object Markdown links to inline-code path displays in the four Sanskrit/Hebrew SOURCE houses; exact reverse reconstruction matches all four intake hashes. Current source cards, prose and metadata are unchanged. This is recorded in the parent-source-hygiene-delta receipt, not misreported as an agent source edit or a new admission.
+
+Evidence files share prefix `T22-E4-comparative-case-consumer-`: before/additional-before, effects-before/additional-effects-before, read-reuse, operations, changes, return-proof, hygiene-intake, hygiene, parent-source-hygiene-delta. The actual proof retains current six-consumer hashes and current E4 carrier hashes. This closes this consumer batch only. Parent owns final E/source integration and shared coverage. No index ownership taken; no T23/T24/manuscript work.
+
+## Final Laplace release binding
+
+The final `T22-E4-comparative-integration-2026-09-08.json` was read and matched: five cases, nine proposals and six consumers. All final carrier hashes, eleven source-house hashes and six completed consumer hashes match the validated state. All nine proposals are physically landed with their admitted boundaries; the Hebrew A15 narrative-date clarification is retained. `T22-E4-comparative-case-consumer-final-release-binding.json` records each proposal-to-text-to-case-route match. Completed actual T22 remains six targets, zero failures; fresh scoped diff and150protected checks pass. No repeat census or canonical writes were needed. Index remains untouched in the parent’s H → Dirac → Sanskrit owner → Laplace → consumer-owner sequence.

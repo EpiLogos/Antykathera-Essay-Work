@@ -1,0 +1,56 @@
+{
+  "status": "complete-ready-for-sequenced-index-grant",
+  "canonical_paths": [
+    "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+    "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+    "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+    "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+    "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+    "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md"
+  ],
+  "canonical_hashes": {
+    "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md": "b749243203623008668ffc3e4de86e440e240a9365f7636a21abb50409568ccc",
+    "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md": "aeb6948cbdd93d99c4054641bcdfcb4620a047ac0460805b3ac33becab5724e8",
+    "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md": "eebc80e938dfd53198a0f0789893c5d8470595bfd502ca6626ae1e3dae685fbc",
+    "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md": "1424096d1a7b28245dcb193d4e6a12750e0d6b6dc5edff0cb4d6395fce13269d",
+    "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md": "3dd86a0d84b54b7854844b5e31a18824038634167817bb4dac7610bf67dcf928",
+    "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md": "f0bd77cbab0be92e69f707de73e9f1a65746d6ea8b27433ae1b78ff28119049a"
+  },
+  "receipt_paths": [
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-additional-before.json",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-additional-effects-before.json",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-before.json",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-changes.json",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-closure.md",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-effects-before.json",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-final-release-binding.json",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-hygiene-intake.json",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-hygiene.json",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-operations.json",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-parent-source-hygiene-delta.json",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-read-reuse.json",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-return-proof.json",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-release-packet.json"
+  ],
+  "receipt_hashes": {
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-additional-before.json": "a601d6049d1cf9ba346e5cdd3b9ab9d7eafcded297f7a7f765bc5dd93e5a1a24",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-additional-effects-before.json": "7ea864ca10a3ac5d87f084b5d3c7842ff2c07221caca64d750a0a8ddf8c39781",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-before.json": "3ae224faac650e8075363c26f4be9467e93b15f29ed730345dccdbaae38003d5",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-changes.json": "89c1a2b7160926722792a43c7930da7ad454f1a362360bff771c30a6be449f76",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-closure.md": "a9abce698864e2123cd21194004c33dcbcb238c5a0ae8496bcafd7501efcf754",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-effects-before.json": "08bc10e079b4530a66a808c78e1736cb68c8ea59812dcfe674eabd095a4b8704",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-final-release-binding.json": "fa53b6eb3c25054dd16b8344e280d83e5ab9334ea6f22ceb326c43e34f1151d7",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-hygiene-intake.json": "c24518cdccf0540040dc1bc461047397be2a530a0224c9d7f4eebb91b1e5da80",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-hygiene.json": "3703808f06faf5fd0dfd2b4946833819aa1d00ccae99b829631dacf251e9a91e",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-operations.json": "e3720d264f759f2a4d23d33a7909da043e1ed48e8fa8b188720fa63ee05e455f",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-parent-source-hygiene-delta.json": "dc60e2bbd17e2ff2fc3b9fc91f07849fdae5c7d71f0e19d2f19fe49cebf3b405",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-read-reuse.json": "42a17876c59b3f3b6e8be4bb91c761f7b8d2e16c8b1fed1a38016b8f55157dc9",
+    "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-return-proof.json": "d7de80f356ed8d9268137ab3d3816392a5f085b0c8ab8d5a69a05d4d9da8d075"
+  },
+  "case_pairs": 9,
+  "consumer_paths": 6,
+  "hygiene_failures": 0,
+  "proof_sha256": "d7de80f356ed8d9268137ab3d3816392a5f085b0c8ab8d5a69a05d4d9da8d075",
+  "final_release_binding_sha256": "fa53b6eb3c25054dd16b8344e280d83e5ab9334ea6f22ceb326c43e34f1151d7",
+  "index": "not taken; awaiting parent sequence"
+}

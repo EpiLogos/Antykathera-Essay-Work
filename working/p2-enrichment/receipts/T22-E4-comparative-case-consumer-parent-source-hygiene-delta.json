@@ -1,0 +1,30 @@
+[
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+    "before_sha256": "db95322dcd16168d6edd6e9473f9d27c56a795afe15780afb0247a2d0b970b14",
+    "current_sha256": "c071cd6370520adf25850f6320990a6ca4a9790b0ae33f48f6bd7d3316d943ee",
+    "exact_reconstruction": true,
+    "delta": "Parent SOURCE hygiene changed raw-object Markdown links to inline-code paths only; admitted prose/cards/metadata unchanged"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+    "before_sha256": "c04380a00db883511a64cede1a2eb6de50a7f5ca2cc0504eef6583fc94040e7e",
+    "current_sha256": "146d140cdc148c027b0b2049453c111b3749094557dc596a06582329601b1497",
+    "exact_reconstruction": true,
+    "delta": "Parent SOURCE hygiene changed raw-object Markdown links to inline-code paths only; admitted prose/cards/metadata unchanged"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+    "before_sha256": "2866daca17801f6c770ded5f850888f6b83459e95a995c99a9d4b2782d1cb2b5",
+    "current_sha256": "8c21aa537c65536d2ad723c71913947587a7d6acf8cc7e2649c46d56fce2262f",
+    "exact_reconstruction": true,
+    "delta": "Parent SOURCE hygiene changed raw-object Markdown links to inline-code paths only; admitted prose/cards/metadata unchanged"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+    "before_sha256": "e7803afc736f43329a951d80fd39e815e44e292152f510198e1a34cc63836da5",
+    "current_sha256": "de8b17c57b65f8f4346a493ce607bb0891fa1630dd3a7b9055a9807207d0aa94",
+    "exact_reconstruction": true,
+    "delta": "Parent SOURCE hygiene changed raw-object Markdown links to inline-code paths only; admitted prose/cards/metadata unchanged"
+  }
+]

@@ -39,6 +39,8 @@ A determinate sign fixes something; a living symbol carries that determination i
 
 An account therefore distinguishes source, means and warrant. Perception, remembered presentation, testimony, inference, instrument and model cannot acquire one another's authority simply by delivering the same sentence. A model-generated claim that reproduces an available source and a model-generated conjecture have different relations to what they assert. The source must remain recoverable, and the transformation must be intelligible enough to assess its consequence.
 
+The [Sanskrit enumeration case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#sanskrit-enumeration-and-discriminative-practice) **historicises** a distinct pramāṇa taxonomy: Kārikās 4–6 distinguish perception, inference and trustworthy testimony. At register 3, C10 receives the requirement to retain which means warranted this claim. This acquired Sāṃkhya case supplements the Śaiva discussion without making either school’s taxonomy universal.
+
 [[submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|Symbol / Account / Trust]] **grounds** this register3 operation: the account states how it answers to source. [C29 — Mediating Office](C29-Mediating-Office-Derivative-Sovereignty.md) **qualifies** the neighbouring authority problem. C10 concerns how something is known; C29 concerns the office authorised to act or speak. An office can carry an epistemic means without becoming either its source or its guarantee.
 
 ## #5→0
