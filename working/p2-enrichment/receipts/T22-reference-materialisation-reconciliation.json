@@ -1,0 +1,68 @@
+{
+  "before_sha256": "70b2c832cf95dbe7d2a2b9836e408b54e8c72d73e10cf7a37c04e0ad64e9ab2b",
+  "reference_notes_unchanged": 89,
+  "path_changes": [
+    {
+      "row": 2,
+      "old": "submission-package/essay/symbolon/episteme/histories/indian-philosophy/HISTORY.md",
+      "new": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY.md"
+    },
+    {
+      "row": 9,
+      "old": "submission-package/essay/symbolon/mytheme/art/antikythera-attunement/WHOLE.md",
+      "new": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md"
+    },
+    {
+      "row": 9,
+      "old": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+      "new": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/HISTORY.md"
+    },
+    {
+      "row": 15,
+      "old": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+      "new": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/HISTORY.md"
+    },
+    {
+      "row": 34,
+      "old": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+      "new": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/HISTORY.md"
+    },
+    {
+      "row": 41,
+      "old": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+      "new": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/HISTORY.md"
+    },
+    {
+      "row": 43,
+      "old": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+      "new": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/HISTORY.md"
+    },
+    {
+      "row": 55,
+      "old": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+      "new": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/HISTORY.md"
+    },
+    {
+      "row": 56,
+      "old": "submission-package/essay/symbolon/episteme/histories/indian-philosophy/HISTORY.md",
+      "new": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY.md"
+    },
+    {
+      "row": 66,
+      "old": "submission-package/essay/symbolon/episteme/histories/language-symbol-dialogue/HISTORY.md",
+      "new": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY.md"
+    },
+    {
+      "row": 68,
+      "old": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+      "new": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/HISTORY.md"
+    },
+    {
+      "row": 87,
+      "old": "submission-package/essay/symbolon/episteme/histories/mathematics/HISTORY.md",
+      "new": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/HISTORY.md"
+    }
+  ],
+  "missing": [],
+  "standing": "File presence only; does not substitute for semantic consumer coverage."
+}
