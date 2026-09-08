@@ -1,0 +1,53 @@
+{
+  "root": {
+    "id": "biblical-job-kjv-ebible-eng-kjv2006",
+    "title": "The Book of Job — KJV, eBible eng-kjv2006 digital witness (2026-08-19)",
+    "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/biblical-job-kjv-ebible-eng-kjv2006/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "The Book of Job — KJV, eBible eng-kjv2006 digital witness",
+      "Bibliographic identity",
+      "Chicago 18 forms",
+      "Source scholarship — the complete sequence",
+      "Passages and excerpts",
+      "Passage card — biblical-job-kjv-ebible-eng-kjv2006-q001 — Integrity challenged through two councils",
+      "Passage card — biblical-job-kjv-ebible-eng-kjv2006-q002 — Mourning before explanation",
+      "Passage card — biblical-job-kjv-ebible-eng-kjv2006-q003 — Protest asks for an answer",
+      "Passage card — biblical-job-kjv-ebible-eng-kjv2006-q004 — Wisdom beyond extraction and purchase",
+      "Passage card — biblical-job-kjv-ebible-eng-kjv2006-q005 — Elihu's intervening six chapters",
+      "Passage card — biblical-job-kjv-ebible-eng-kjv2006-q006 — Two whirlwind speeches and the creatures",
+      "Passage card — biblical-job-kjv-ebible-eng-kjv2006-q007 — Hearing and seeing before the friends' rebuke",
+      "Passage card — biblical-job-kjv-ebible-eng-kjv2006-q008 — Restoration with social and familial aftermath",
+      "Essay uses and source boundaries",
+      "Open acquisition and verification",
+      "Whole consumer bound — 2026-09-08"
+    ],
+    "sha256": "bf69d7cf2a767373ef197f0367110ec8ce54a2c6966caa1bc3f2f4e547c637f3",
+    "citation_status": "citation-ready",
+    "quote_status": "selected-excerpts-quotation-ready",
+    "main_source_for": [],
+    "tags": [
+      "source-bank/record",
+      "source-bank/biblical-primary",
+      "source-bank/job"
+    ]
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

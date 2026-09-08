@@ -1,0 +1,17 @@
+{
+  "total_passages": 536,
+  "scoped_counts": {
+    "biblical-job-kjv-ebible-eng-kjv2006": 8,
+    "irenaeus-1885-against-heresies-book-1": 43,
+    "taylor-2026-antykathera-csm-lecture-notes": 3
+  },
+  "CSM_statuses": [
+    "authorial-provenance-only; never-evidence; not quotation evidence.",
+    "authorial-provenance-only; never-evidence; not quotation evidence.",
+    "authorial-provenance-only; never-evidence; not quotation evidence."
+  ],
+  "raw_objects_verified": 25,
+  "raw_href_occurrences_converted": 68,
+  "raw_href_unique_targets": 25,
+  "inverse_reconstruction": true
+}

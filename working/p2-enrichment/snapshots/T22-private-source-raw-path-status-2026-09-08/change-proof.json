@@ -1,0 +1,543 @@
+{
+  "sources": [
+    {
+      "source_id": "biblical-job-kjv-ebible-eng-kjv2006",
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/biblical-job-kjv-ebible-eng-kjv2006/SOURCE.md",
+      "before_sha256": "bf69d7cf2a767373ef197f0367110ec8ce54a2c6966caa1bc3f2f4e547c637f3",
+      "after_sha256": "5c9cb4d23a540df1551b986275d82a62bcada95367f5d294caa5e50cbf725577",
+      "changes": [
+        {
+          "original": "[complete raw PDF](../../../../../../../../working/sources-texts-references/biblical-job-kjv-ebible-eng-kjv2006/eng-kjv2006_JOB.pdf)",
+          "replacement": "complete raw PDF: `working/sources-texts-references/biblical-job-kjv-ebible-eng-kjv2006/eng-kjv2006_JOB.pdf`",
+          "path": "working/sources-texts-references/biblical-job-kjv-ebible-eng-kjv2006/eng-kjv2006_JOB.pdf"
+        }
+      ],
+      "inverse_reconstructs_original": true,
+      "notes_present": false
+    },
+    {
+      "source_id": "irenaeus-1885-against-heresies-book-1",
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/irenaeus/irenaeus-1885-against-heresies-book-1/SOURCE.md",
+      "before_sha256": "4491b892779acd929a428dc18fa0fce53ee7495c72f35f8e8315cf4af4ad1f8a",
+      "after_sha256": "3ea081a0449e3a758c03268bc346e9763feca40aadd20eeeeda368cf2743f80d",
+      "changes": [
+        {
+          "original": "[Complete raw-derived selected text, including editorial notes](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/selected-preface-I-1-21.txt)",
+          "replacement": "Complete raw-derived selected text, including editorial notes: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/selected-preface-I-1-21.txt`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/selected-preface-I-1-21.txt"
+        },
+        {
+          "original": "[Acquisition manifest: exact chapter URLs, raw HTML hashes, paragraph IDs and line locators](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/acquisition-manifest.json)",
+          "replacement": "Acquisition manifest: exact chapter URLs, raw HTML hashes, paragraph IDs and line locators: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/acquisition-manifest.json`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/acquisition-manifest.json"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/preface.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/preface.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/preface.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-06.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-06.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-06.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-14.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-14.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-14.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-15.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-15.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-15.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html"
+        },
+        {
+          "original": "[retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html)",
+          "replacement": "retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/preface.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/preface.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/preface.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-06.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-06.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-06.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-09.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-09.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-09.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-10.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-10.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-10.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-13.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-13.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-13.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-14.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-14.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-14.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-15.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-15.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-15.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-16.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-16.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-16.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-18.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-18.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-18.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-19.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-19.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-19.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-20.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-20.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-20.html"
+        },
+        {
+          "original": "[saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html)",
+          "replacement": "saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html`",
+          "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html"
+        }
+      ],
+      "inverse_reconstructs_original": true,
+      "notes_present": false
+    },
+    {
+      "source_id": "taylor-2026-antykathera-csm-lecture-notes",
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/SOURCE.md",
+      "before_sha256": "72bcd416f3a47a31679fa3d71271c29042cb57cc1fc1a7be88642300ea1a3413",
+      "after_sha256": "60ff512232579d7706fdddd9292bc2b9e0ed2a3f8d23cd0cc02cfb1eee88ba2f",
+      "changes": [
+        {
+          "standalone_status": "**Status:** authorial-provenance-only; never-evidence; not quotation evidence.",
+          "card": "taylor-2026-antykathera-csm-lecture-notes-q001"
+        },
+        {
+          "standalone_status": "**Status:** authorial-provenance-only; never-evidence; not quotation evidence.",
+          "card": "taylor-2026-antykathera-csm-lecture-notes-q002"
+        },
+        {
+          "standalone_status": "**Status:** authorial-provenance-only; never-evidence; not quotation evidence.",
+          "card": "taylor-2026-antykathera-csm-lecture-notes-q003"
+        }
+      ],
+      "inverse_reconstructs_original": true,
+      "notes_present": false
+    }
+  ],
+  "raw_objects": [
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/preface.html",
+      "sha256": "617d8da16c503d4e79a4f909e07be843e72167959f7b977cbfea42ed820245a7",
+      "bytes": 36845,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html",
+      "sha256": "cb99e547a4791980ff15092a5650224b245a79a5dc50522e59a17a4dedc14486",
+      "bytes": 35947,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html",
+      "sha256": "fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea",
+      "bytes": 40287,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html",
+      "sha256": "62f8f46dbdfec37ee642db052dd8c6a635535fcb98ce947669fd56384c3bf0d6",
+      "bytes": 58109,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html",
+      "sha256": "96325910c0bdfbdc261b2936066997598c66cd2052a1bb5b9d35158423e74499",
+      "bytes": 41362,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html",
+      "sha256": "f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af",
+      "bytes": 39515,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-06.html",
+      "sha256": "3b0e7b127e7799509c4b94ea270f5a20eed50686fce4e133a409b1258501078a",
+      "bytes": 36035,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html",
+      "sha256": "1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a",
+      "bytes": 36544,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html",
+      "sha256": "9a8cca60567f34082caa47836430743f3ee42821dbf7912fa22eb6f90fa1a730",
+      "bytes": 64572,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-09.html",
+      "sha256": "06f0c9a4b5e7a2874c6494a9a4f14573fc0bf77dbd194c209b53a01a9d1f9d05",
+      "bytes": 35102,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-10.html",
+      "sha256": "371268f6acf017095a6a22f28c18d4a16546ade267bf04fdfdc0ad9978fc0c3c",
+      "bytes": 40256,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html",
+      "sha256": "d6048e446dc38759a7baf6f92fa8d6567c0d7074493872bff98bf3c1885c8ed4",
+      "bytes": 34269,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html",
+      "sha256": "5e3f20bd0bbce8657e22d2317d12cbd8fe1abf747f1b7a58be669de4e5ee346c",
+      "bytes": 32990,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-13.html",
+      "sha256": "8d8d4a1d894f995bc32c6a69f0ce069e40577e2b5d1f5cc398ed840b8df52fc6",
+      "bytes": 41969,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-14.html",
+      "sha256": "b845db976f1d3ddd84501d41f6a6922b74dd45771858f840a7870f46c5be9a69",
+      "bytes": 61928,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-15.html",
+      "sha256": "a3eb29ce8296076b00ccdca223fdda7a53c75fa7198699365e6c60231c4811de",
+      "bytes": 41011,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-16.html",
+      "sha256": "a923cc6406ff173fc4dc28ab6d11b0f816cf2410c775778cf2d731f2aae7eb53",
+      "bytes": 39585,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html",
+      "sha256": "c46fd673218d350af83709c017bfdd0ae31becd8f2addc18f8d958a5d2ce0fd2",
+      "bytes": 26383,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-18.html",
+      "sha256": "bf1a7ac3ba12b9ab365812b437f2d18ddeb89d18d76d618f839e29d22a2e52a6",
+      "bytes": 55095,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-19.html",
+      "sha256": "6660faa30a85dd42e9f9faa0729d3286976b37491bd7a949efaafbdc5766faee",
+      "bytes": 29152,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-20.html",
+      "sha256": "0fa70b191b4aff6c5835ab599f56703d3bbbb77a567e038ed61ce4adf51c4f90",
+      "bytes": 33922,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html",
+      "sha256": "1cf70e83defd8aec2b51bdf85f3c1fe65034043a1e72a88ff622fd93f5405152",
+      "bytes": 35764,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/selected-preface-I-1-21.txt",
+      "sha256": "e27473cbd79964c919118ee805f1b422bed3f8f875941bfbebd08f2da7cdca0c",
+      "bytes": 194735,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/acquisition-manifest.json",
+      "sha256": "3bc5cded88354bbf63335f506aa68efd1c05a1d6a9ddc814f426542bb132670f",
+      "bytes": 228221,
+      "verified": true
+    },
+    {
+      "path": "working/sources-texts-references/biblical-job-kjv-ebible-eng-kjv2006/eng-kjv2006_JOB.pdf",
+      "sha256": "ed6ecb6c2670b33213d2a2227d38f330222ba9e2cda2ec7a1796af8794ce6ee6",
+      "bytes": 361689,
+      "verified": true
+    }
+  ],
+  "read_reuse": [
+    "working/p2-enrichment/receipts/T20-valentinian-source-acquisition.md",
+    "working/p2-enrichment/receipts/T20-job-biblical-source-acquisition.md",
+    "working/p2-enrichment/receipts/T22-CSM-passage-retrieval-2026-09-08.md"
+  ]
+}

@@ -120,8 +120,8 @@ Intended future consumer, not yet a materialized link or an assertion of consump
 ## Acquisition witnesses
 
 - [Pre-creation admission and acquisition receipt](../../../../../../../../working/p2-enrichment/receipts/T20-valentinian-source-acquisition.md).
-- Complete raw-derived selected text, including editorial notes: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/selected-preface-I-1-21.txt`; SHA-256: `e27473cbd79964c919118ee805f1b422bed3f8f875941bfbebd08f2da7cdca0c`.
-- Acquisition manifest: exact chapter URLs, raw HTML hashes, paragraph IDs and line locators: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/acquisition-manifest.json`.
+- [Complete raw-derived selected text, including editorial notes](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/selected-preface-I-1-21.txt); SHA-256: `e27473cbd79964c919118ee805f1b422bed3f8f875941bfbebd08f2da7cdca0c`.
+- [Acquisition manifest: exact chapter URLs, raw HTML hashes, paragraph IDs and line locators](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/acquisition-manifest.json).
 - Acquisition timestamp: 2026-09-08T02:26:15.011918+00:00. The extraction normalizes whitespace only and is subordinate to the saved HTML bytes.
 
 <a id="passages"></a>
@@ -138,7 +138,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/preface.html`; raw SHA-256 `617d8da16c503d4e79a4f909e07be843e72167959f7b977cbfea42ed820245a7`; paragraph UTF-8 SHA-256 `04a98e6c7ba76687af7e820cff23cccd1bddc29b89cb33400040282d1f22e951`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/preface.html); raw SHA-256 `617d8da16c503d4e79a4f909e07be843e72167959f7b977cbfea42ed820245a7`; paragraph UTF-8 SHA-256 `04a98e6c7ba76687af7e820cff23cccd1bddc29b89cb33400040282d1f22e951`.
 - **Source relation:** Extracted.
 - **Use boundary:** Irenaeus claims commentaries and personal contact, especially Ptolemy's disciples, and announces refutation. Evidence of his reporting posture, not independent certification of every reported doctrine.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -153,7 +153,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html`; raw SHA-256 `cb99e547a4791980ff15092a5650224b245a79a5dc50522e59a17a4dedc14486`; paragraph UTF-8 SHA-256 `54e0e51ae6f664f891e21d4d0cef4252cae47cfc09c828abe581aa47e62cd8a6`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html); raw SHA-256 `cb99e547a4791980ff15092a5650224b245a79a5dc50522e59a17a4dedc14486`; paragraph UTF-8 SHA-256 `54e0e51ae6f664f891e21d4d0cef4252cae47cfc09c828abe581aa47e62cd8a6`.
 - **Source relation:** Extracted.
 - **Use boundary:** Keep aliases and paired generation; distinguish Bythus from the later Bythius. Native 0/1 notation is not in this account.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -168,7 +168,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html`; raw SHA-256 `cb99e547a4791980ff15092a5650224b245a79a5dc50522e59a17a4dedc14486`; paragraph UTF-8 SHA-256 `aa54f371e5f3b361304012b2803ee99e579943c404a8bc029a7af214e50a55e9`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html); raw SHA-256 `cb99e547a4791980ff15092a5650224b245a79a5dc50522e59a17a4dedc14486`; paragraph UTF-8 SHA-256 `aa54f371e5f3b361304012b2803ee99e579943c404a8bc029a7af214e50a55e9`.
 - **Source relation:** Extracted.
 - **Use boundary:** Together with I.1.1 these enumerate fifteen pairs. Preserve both lines of generation and Sophia's terminal position in the Duodecad.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -183,7 +183,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html`; raw SHA-256 `cb99e547a4791980ff15092a5650224b245a79a5dc50522e59a17a4dedc14486`; paragraph UTF-8 SHA-256 `2c23ec89935e1724d0df31a30937725a05c33e0a31fb4885f10fc169ed02d89b`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html); raw SHA-256 `cb99e547a4791980ff15092a5650224b245a79a5dc50522e59a17a4dedc14486`; paragraph UTF-8 SHA-256 `2c23ec89935e1724d0df31a30937725a05c33e0a31fb4885f10fc169ed02d89b`.
 - **Source relation:** Extracted.
 - **Use boundary:** Thirty belongs to this reported opening system; later productions and other teachers' counts require separate treatment.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -198,7 +198,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`; raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `aa242b83da86746926be50316b1c646997e6aec209b6fb87b7e4b4dbfab10d1a`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html); raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `aa242b83da86746926be50316b1c646997e6aec209b6fb87b7e4b4dbfab10d1a`.
 - **Source relation:** Extracted.
 - **Use boundary:** The distributed desire for knowledge precedes Sophia's distinctive movement; do not replace the sequence with an isolated fall motif.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -213,7 +213,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`; raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `699d40e67badc18b3105cc4398165ad5b62ee81eba6c1958268144d519c5862c`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html); raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `699d40e67badc18b3105cc4398165ad5b62ee81eba6c1958268144d519c5862c`.
 - **Source relation:** Extracted.
 - **Use boundary:** Horos supports, restrains and returns Sophia to herself. Her passion is reported within a cosmological telling; the author's dia comparison remains Offered.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -228,7 +228,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`; raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `8ff1c5a643be6e409b884fff915931626ba360247e3c42e6f2d718cf6fcef544`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html); raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `8ff1c5a643be6e409b884fff915931626ba360247e3c42e6f2d718cf6fcef544`.
 - **Source relation:** Extracted.
 - **Use boundary:** The text says others describe this differently. Preserve amorphous birth and repentance as a marked variant, not an unmarked addition to I.2.2.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -243,7 +243,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`; raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `160fc144ce0cada53e29f31aa53b8677f1bce7f07daf2fbbd946b71f892225b2`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html); raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `160fc144ce0cada53e29f31aa53b8677f1bce7f07daf2fbbd946b71f892225b2`.
 - **Source relation:** Extracted.
 - **Use boundary:** Upper Sophia remains restored inside; enthymesis with passion is expelled. Horos/Stauros names here are not automatically distinct characters.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -258,7 +258,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`; raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `1e757d8873331acd1f5aa44adf7e5fac94a3997bf27f50665bbdedffe45c53da`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html); raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `1e757d8873331acd1f5aa44adf7e5fac94a3997bf27f50665bbdedffe45c53da`.
 - **Source relation:** Extracted.
 - **Use boundary:** The earlier Christ teaches conjunction and incomprehensibility; do not collapse him into the subsequently collective Soter. ANF notes flag obscure wording.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -273,7 +273,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`; raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `8f8dad85dbf18bb536f84388aa8d6cc0566951a68cbbc19ec176f16cb1cef709`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html); raw SHA-256 `fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea`; paragraph UTF-8 SHA-256 `8f8dad85dbf18bb536f84388aa8d6cc0566951a68cbbc19ec176f16cb1cef709`.
 - **Source relation:** Extracted.
 - **Use boundary:** All Aeons contribute to the common fruit in this account; Christ and Spirit concur. Later variants do not all give this origin.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -288,7 +288,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html`; raw SHA-256 `62f8f46dbdfec37ee642db052dd8c6a635535fcb98ce947669fd56384c3bf0d6`; paragraph UTF-8 SHA-256 `08bcf16ad45e6734544a17beda430f731c8f380e7195c87272edcab8abcd92e6`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html); raw SHA-256 `62f8f46dbdfec37ee642db052dd8c6a635535fcb98ce947669fd56384c3bf0d6`; paragraph UTF-8 SHA-256 `08bcf16ad45e6734544a17beda430f731c8f380e7195c87272edcab8abcd92e6`.
 - **Source relation:** Extracted.
 - **Use boundary:** Retain Irenaeus's explicit distinction between the prior Christ and Soter; the summary supplies a check on retrospective conflation.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -303,7 +303,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html`; raw SHA-256 `62f8f46dbdfec37ee642db052dd8c6a635535fcb98ce947669fd56384c3bf0d6`; paragraph UTF-8 SHA-256 `3de6d51ef6c9b923fee32e85e5376e883b5bbfe889cab5703e4fc1719694c3c0`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html); raw SHA-256 `62f8f46dbdfec37ee642db052dd8c6a635535fcb98ce947669fd56384c3bf0d6`; paragraph UTF-8 SHA-256 `3de6d51ef6c9b923fee32e85e5376e883b5bbfe889cab5703e4fc1719694c3c0`.
 - **Source relation:** Extracted.
 - **Use boundary:** Two functions here; the two Horoi attributed to Valentinus in I.11.1 belong to a different report.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -318,7 +318,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html`; raw SHA-256 `96325910c0bdfbdc261b2936066997598c66cd2052a1bb5b9d35158423e74499`; paragraph UTF-8 SHA-256 `4fc899e3574e445c44ba3f44850e11dc71d56c40fc045e55f0bc3f50e47ef27c`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html); raw SHA-256 `96325910c0bdfbdc261b2936066997598c66cd2052a1bb5b9d35158423e74499`; paragraph UTF-8 SHA-256 `4fc899e3574e445c44ba3f44850e11dc71d56c40fc045e55f0bc3f50e47ef27c`.
 - **Source relation:** Extracted.
 - **Use boundary:** Substantial formation is initially distinguished from intelligence, yet the paragraph later says form along with intelligence. Preserve that textual tension and the second formation at I.4.5.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -333,7 +333,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html`; raw SHA-256 `96325910c0bdfbdc261b2936066997598c66cd2052a1bb5b9d35158423e74499`; paragraph UTF-8 SHA-256 `3f5bd25b60ac020019f6c04009d7f544cc22774c1e640dadb97d8940b6dceb52`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html); raw SHA-256 `96325910c0bdfbdc261b2936066997598c66cd2052a1bb5b9d35158423e74499`; paragraph UTF-8 SHA-256 `3f5bd25b60ac020019f6c04009d7f544cc22774c1e640dadb97d8940b6dceb52`.
 - **Source relation:** Extracted.
 - **Use boundary:** Keep this mapping beside I.5.4's mapping; neither licenses silently rewriting the other into four independent elemental passions.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -348,7 +348,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html`; raw SHA-256 `96325910c0bdfbdc261b2936066997598c66cd2052a1bb5b9d35158423e74499`; paragraph UTF-8 SHA-256 `fdeead33d8e2b2446044805749cb0e783cb2361d9106243f9efa8e3b771cb58e`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html); raw SHA-256 `96325910c0bdfbdc261b2936066997598c66cd2052a1bb5b9d35158423e74499`; paragraph UTF-8 SHA-256 `fdeead33d8e2b2446044805749cb0e783cb2361d9106243f9efa8e3b771cb58e`.
 - **Source relation:** Extracted.
 - **Use boundary:** This is the refuter's invented sarcastic contribution, not a reported Valentinian cosmogenic operation.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -363,7 +363,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html`; raw SHA-256 `96325910c0bdfbdc261b2936066997598c66cd2052a1bb5b9d35158423e74499`; paragraph UTF-8 SHA-256 `205415992eb7c92e82de2aa23143ae13722c0a796761b50e674933e9bee8e381`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html); raw SHA-256 `96325910c0bdfbdc261b2936066997598c66cd2052a1bb5b9d35158423e74499`; paragraph UTF-8 SHA-256 `205415992eb7c92e82de2aa23143ae13722c0a796761b50e674933e9bee8e381`.
 - **Source relation:** Extracted.
 - **Use boundary:** Intellectual formation, separation and consolidation of passions, and the sight of angels producing seed are distinct steps. Passions are not simply annihilated.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -378,7 +378,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`; raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `cdca1db5649f39d64348427d86c230a40ebb31311b22f30f3568be8fd262c4f6`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html); raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `cdca1db5649f39d64348427d86c230a40ebb31311b22f30f3568be8fd262c4f6`.
 - **Source relation:** Extracted.
 - **Use boundary:** Material, psychic and spiritual kinds; Achamoth acts under Soter's instructions. Preserve mediation and image relations rather than making Demiurge the highest principle.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -393,7 +393,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`; raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `2fc8065528af7284b911b8577c5d62aa0005dfd0f2b180851e399519a0ac4cbe`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html); raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `2fc8065528af7284b911b8577c5d62aa0005dfd0f2b180851e399519a0ac4cbe`.
 - **Source relation:** Extracted.
 - **Use boundary:** The mother's intermediate Ogdoad is not the primary eight Aeons; the psychic maker orders the cosmos.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -408,7 +408,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`; raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `21a9e6b5da90f0807335cc909e76e85a9498ca85e3e7adc4bd67f3ce3fc60b15`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html); raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `21a9e6b5da90f0807335cc909e76e85a9498ca85e3e7adc4bd67f3ce3fc60b15`.
 - **Source relation:** Extracted.
 - **Use boundary:** Ignorance is reported here; I.7.4's later learning must survive with it.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -423,7 +423,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`; raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `04579a6ed6ab606a59035c2a923d5c59da0b16c5845c20199cd0fced05282317`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html); raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `04579a6ed6ab606a59035c2a923d5c59da0b16c5845c20199cd0fced05282317`.
 - **Source relation:** Extracted.
 - **Use boundary:** Earth/stupor, water/fear, air/grief; fire inheres in the three like ignorance. The native 4+2 comparison remains an Offered comparison.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -438,7 +438,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`; raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `cf782c39d533c257a1b02b03d5ee13bb492dc0f1d874495bc82887e48e8ec057`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html); raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `cf782c39d533c257a1b02b03d5ee13bb492dc0f1d874495bc82887e48e8ec057`.
 - **Source relation:** Extracted.
 - **Use boundary:** Keep the narrated stages of human embodiment; do not collapse body, psychic animation and the hidden seed into a single undifferentiated substance.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -453,7 +453,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`; raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `df1041752bd8662bdd47f307e2b7f4ea2ad4273b9e321ae906e9b4e440d80d11`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html); raw SHA-256 `f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af`; paragraph UTF-8 SHA-256 `df1041752bd8662bdd47f307e2b7f4ea2ad4273b9e321ae906e9b4e440d80d11`.
 - **Source relation:** Extracted.
 - **Use boundary:** Maternal seed enters without the Demiurge's knowledge and grows in embodied psychic conditions; preserve the whole anthropogenic route.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -468,7 +468,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-06.html`; raw SHA-256 `3b0e7b127e7799509c4b94ea270f5a20eed50686fce4e133a409b1258501078a`; paragraph UTF-8 SHA-256 `b08d4201b8c7f628f144ae4035bc4abccfa939c96d88ac02633938f7acc95fde`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-06.html); raw SHA-256 `3b0e7b127e7799509c4b94ea270f5a20eed50686fce4e133a409b1258501078a`; paragraph UTF-8 SHA-256 `b08d4201b8c7f628f144ae4035bc4abccfa939c96d88ac02633938f7acc95fde`.
 - **Source relation:** Extracted.
 - **Use boundary:** The spiritual needs formation; psychic choice differs from material destiny. Report this school account without accepting Irenaeus's ensuing moral allegations as neutral evidence.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -483,7 +483,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`; raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `5b2c15293d9b1edf9067e0ded3fc4018df16dfda04a60ac47cc7a2fe16186c92`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html); raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `5b2c15293d9b1edf9067e0ded3fc4018df16dfda04a60ac47cc7a2fe16186c92`.
 - **Source relation:** Extracted.
 - **Use boundary:** Achamoth/Soter union, angelic brides, intermediate psychic reward and matter's destruction differ. Do not claim universal material reintegration into the Pleroma.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -498,7 +498,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`; raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `c1a1c39394c5f3da60a11ee1f768b700841f1e87fe2aac25f4ca894404e1b136`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html); raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `c1a1c39394c5f3da60a11ee1f768b700841f1e87fe2aac25f4ca894404e1b136`.
 - **Source relation:** Extracted.
 - **Use boundary:** Keep the explicit some and the distinct psychic Christ, seed, body and Soter; this variant is not the sole Valentinian incarnation account.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -513,7 +513,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`; raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `b5cd0471bcbbc4ab523d5a0cdf6f59119ba4929d7f4a9c5c04df11fd1fe24817`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html); raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `b5cd0471bcbbc4ab523d5a0cdf6f59119ba4929d7f4a9c5c04df11fd1fe24817`.
 - **Source relation:** Extracted.
 - **Use boundary:** Mother, seed and Demiurge supply different prophetic origins in the reported account; preserve agency distinctions rather than attributing every utterance to one actor.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -528,7 +528,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`; raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `998fcd3a9b245a3c847e4581e795af5bd98a3cdd00e6f1fe6c1e58d48eaa7e48`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html); raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `998fcd3a9b245a3c847e4581e795af5bd98a3cdd00e6f1fe6c1e58d48eaa7e48`.
 - **Source relation:** Extracted.
 - **Use boundary:** The ignorant maker receives the Saviour's disclosure, joins willingly and anticipates the intermediate reward; retain this restorative development.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -543,7 +543,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`; raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `0d20fbec80728ade354e40183eb7cc2df34c6df96b779e98d69af406557f32e9`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html); raw SHA-256 `1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a`; paragraph UTF-8 SHA-256 `0d20fbec80728ade354e40183eb7cc2df34c6df96b779e98d69af406557f32e9`.
 - **Source relation:** Extracted.
 - **Use boundary:** Spiritual, material and psychic distinctions recur; the psychic good/bad alternatives must not disappear into a single automatic salvation claim.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -558,7 +558,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html`; raw SHA-256 `9a8cca60567f34082caa47836430743f3ee42821dbf7912fa22eb6f90fa1a730`; paragraph UTF-8 SHA-256 `0eea3dc3b857fbb43b53484d254cecbdb58e917c09e0e7f6f17ca31bd25c5401`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html); raw SHA-256 `9a8cca60567f34082caa47836430743f3ee42821dbf7912fa22eb6f90fa1a730`; paragraph UTF-8 SHA-256 `0eea3dc3b857fbb43b53484d254cecbdb58e917c09e0e7f6f17ca31bd25c5401`.
 - **Source relation:** Extracted.
 - **Use boundary:** Reported exegesis distinguishes Achamoth and upper Sophia and includes Demiurge's gratitude. These are the school's readings as transmitted by Irenaeus.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -573,7 +573,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html`; raw SHA-256 `9a8cca60567f34082caa47836430743f3ee42821dbf7912fa22eb6f90fa1a730`; paragraph UTF-8 SHA-256 `2ede498f16ffae7e84cf3c2d5044a6fc5af9dca04ae8821514befe30b099a95d`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html); raw SHA-256 `9a8cca60567f34082caa47836430743f3ee42821dbf7912fa22eb6f90fa1a730`; paragraph UTF-8 SHA-256 `2ede498f16ffae7e84cf3c2d5044a6fc5af9dca04ae8821514befe30b099a95d`.
 - **Source relation:** Extracted.
 - **Use boundary:** Includes the closing attribution to Ptolemy and Irenaeus's corrections; distinguish the voices and retain edition notes on the Johannine wording.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -588,7 +588,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html`; raw SHA-256 `d6048e446dc38759a7baf6f92fa8d6567c0d7074493872bff98bf3c1885c8ed4`; paragraph UTF-8 SHA-256 `94c66eba432ea638acecaa4f2b0e48b0fa0a89f55da910131f099c37a63a3c88`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html); raw SHA-256 `d6048e446dc38759a7baf6f92fa8d6567c0d7074493872bff98bf3c1885c8ed4`; paragraph UTF-8 SHA-256 `94c66eba432ea638acecaa4f2b0e48b0fa0a89f55da910131f099c37a63a3c88`.
 - **Source relation:** Extracted.
 - **Use boundary:** Different generation and Christ sequences; treat attributed Valentinus as hostile reported testimony, not an autograph. Do not harmonize into I.1–8.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -603,7 +603,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html`; raw SHA-256 `d6048e446dc38759a7baf6f92fa8d6567c0d7074493872bff98bf3c1885c8ed4`; paragraph UTF-8 SHA-256 `2af2844a3df48330f5d5ed3ed81652d90352f3aa400c41f29c3fe119c52ed901`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html); raw SHA-256 `d6048e446dc38759a7baf6f92fa8d6567c0d7074493872bff98bf3c1885c8ed4`; paragraph UTF-8 SHA-256 `2af2844a3df48330f5d5ed3ed81652d90352f3aa400c41f29c3fe119c52ed901`.
 - **Source relation:** Extracted.
 - **Use boundary:** The fallen power derives from fruits rather than directly from the thirty in this variant.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -618,7 +618,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html`; raw SHA-256 `d6048e446dc38759a7baf6f92fa8d6567c0d7074493872bff98bf3c1885c8ed4`; paragraph UTF-8 SHA-256 `5a8164f2a2a4c75b9407394d9fc935f505f0404d6645efb6b9965e20553ea54d`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html); raw SHA-256 `d6048e446dc38759a7baf6f92fa8d6567c0d7074493872bff98bf3c1885c8ed4`; paragraph UTF-8 SHA-256 `5a8164f2a2a4c75b9407394d9fc935f505f0404d6645efb6b9965e20553ea54d`.
 - **Source relation:** Extracted.
 - **Use boundary:** Unpaired, masculine-feminine and consorted accounts differ; the opening Bythus/Sige arrangement is not universal.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -633,7 +633,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html`; raw SHA-256 `5e3f20bd0bbce8657e22d2317d12cbd8fe1abf747f1b7a58be669de4e5ee346c`; paragraph UTF-8 SHA-256 `db9e0c3087fbdf9fa3eefb6a2bdd844ad7e7b2e9885eff5816409c0ef4a8548a`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html); raw SHA-256 `5e3f20bd0bbce8657e22d2317d12cbd8fe1abf747f1b7a58be669de4e5ee346c`; paragraph UTF-8 SHA-256 `db9e0c3087fbdf9fa3eefb6a2bdd844ad7e7b2e9885eff5816409c0ef4a8548a`.
 - **Source relation:** Extracted.
 - **Use boundary:** Two affections/consorts and their generation form a further reported account; keep this distinction even under a shared school name.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -648,7 +648,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html`; raw SHA-256 `5e3f20bd0bbce8657e22d2317d12cbd8fe1abf747f1b7a58be669de4e5ee346c`; paragraph UTF-8 SHA-256 `6ed61337172243244b8951fa7a31e4e1a08106a5669477cf032fed5ad89540f0`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html); raw SHA-256 `5e3f20bd0bbce8657e22d2317d12cbd8fe1abf747f1b7a58be669de4e5ee346c`; paragraph UTF-8 SHA-256 `6ed61337172243244b8951fa7a31e4e1a08106a5669477cf032fed5ad89540f0`.
 - **Source relation:** Extracted.
 - **Use boundary:** Retain the source's sequence and ANF's corrupt-reading uncertainty; do not certify an uncertain teacher identification from the editorial heading.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -663,7 +663,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html`; raw SHA-256 `5e3f20bd0bbce8657e22d2317d12cbd8fe1abf747f1b7a58be669de4e5ee346c`; paragraph UTF-8 SHA-256 `0bad828c37444a8a0bdb922def3e7c8ac70cc16ca33b30481435b7efba71099f`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html); raw SHA-256 `5e3f20bd0bbce8657e22d2317d12cbd8fe1abf747f1b7a58be669de4e5ee346c`; paragraph UTF-8 SHA-256 `0bad828c37444a8a0bdb922def3e7c8ac70cc16ca33b30481435b7efba71099f`.
 - **Source relation:** Extracted.
 - **Use boundary:** All Aeons, ten, twelve, Christ/Spirit or primordial Anthropos are competing accounts, not cumulative stages of one production.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -678,7 +678,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-14.html`; raw SHA-256 `b845db976f1d3ddd84501d41f6a6922b74dd45771858f840a7870f46c5be9a69`; paragraph UTF-8 SHA-256 `f29e69c1e9183e815d3c63544acd20e9f7f7f7a75001933c3b5120230609cf38`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-14.html); raw SHA-256 `b845db976f1d3ddd84501d41f6a6922b74dd45771858f840a7870f46c5be9a69`; paragraph UTF-8 SHA-256 `f29e69c1e9183e815d3c63544acd20e9f7f7f7a75001933c3b5120230609cf38`.
 - **Source relation:** Extracted.
 - **Use boundary:** Four utterances and thirty letters belong to Marcus's reported alphabetic revelation; distinct from the opening syzygy narrative.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -693,7 +693,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-15.html`; raw SHA-256 `a3eb29ce8296076b00ccdca223fdda7a53c75fa7198699365e6c60231c4811de`; paragraph UTF-8 SHA-256 `c1096772ba85df69f6bcd7d187bc6083c5cb7c4b170f0dbfc307d3169c0d7eae`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-15.html); raw SHA-256 `a3eb29ce8296076b00ccdca223fdda7a53c75fa7198699365e6c60231c4811de`; paragraph UTF-8 SHA-256 `c1096772ba85df69f6bcd7d187bc6083c5cb7c4b170f0dbfc307d3169c0d7eae`.
 - **Source relation:** Extracted.
 - **Use boundary:** The ancient report explicitly adds two and four to six, then quadruples six. This is Marcosian letter arithmetic; it does not establish Sophia/Horos as the native 0/1→4+2 founding derivation.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -708,7 +708,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html`; raw SHA-256 `c46fd673218d350af83709c017bfdd0ae31becd8f2addc18f8d958a5d2ce0fd2`; paragraph UTF-8 SHA-256 `60a60cf7f7e6d2acfea4d0f89c9b9c0daff9a961d6a2a9e20180c412682eb3e4`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html); raw SHA-256 `c46fd673218d350af83709c017bfdd0ae31becd8f2addc18f8d958a5d2ce0fd2`; paragraph UTF-8 SHA-256 `60a60cf7f7e6d2acfea4d0f89c9b9c0daff9a961d6a2a9e20180c412682eb3e4`.
 - **Source relation:** Extracted.
 - **Use boundary:** Elements image the Tetrad and qualities complete an Ogdoad, followed by cosmological numerical analogies. Distinguish this 4+4 from I.15.1's 2+4; do not certify the ancient astronomy.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -723,7 +723,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html`; raw SHA-256 `c46fd673218d350af83709c017bfdd0ae31becd8f2addc18f8d958a5d2ce0fd2`; paragraph UTF-8 SHA-256 `559aaea8babd8baf616d5ba54a1f8ac10d52bbf388b20a2381ee4ba4de5837ce`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html); raw SHA-256 `c46fd673218d350af83709c017bfdd0ae31becd8f2addc18f8d958a5d2ce0fd2`; paragraph UTF-8 SHA-256 `559aaea8babd8baf616d5ba54a1f8ac10d52bbf388b20a2381ee4ba4de5837ce`.
 - **Source relation:** Extracted.
 - **Use boundary:** The Demiurge extends times and cycles to imitate higher infinitude, while his work remains perishable in the report.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -738,7 +738,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html`; raw SHA-256 `1cf70e83defd8aec2b51bdf85f3c1fe65034043a1e72a88ff622fd93f5405152`; paragraph UTF-8 SHA-256 `5fdb9ff62dd0084abcb56de172936be78828dc51cb9779e3f4271736d5cd48f2`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html); raw SHA-256 `1cf70e83defd8aec2b51bdf85f3c1fe65034043a1e72a88ff622fd93f5405152`; paragraph UTF-8 SHA-256 `5fdb9ff62dd0084abcb56de172936be78828dc51cb9779e3f4271736d5cd48f2`.
 - **Source relation:** Extracted.
 - **Use boundary:** Some use a nuptial rite, others water and different formulas or balm. Neither a universal rite nor independent confirmation of every practice.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -753,7 +753,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html`; raw SHA-256 `1cf70e83defd8aec2b51bdf85f3c1fe65034043a1e72a88ff622fd93f5405152`; paragraph UTF-8 SHA-256 `042243b9ac98f7c9b4a2991919face76f6d95adf8035038d94b2f4a68476703c`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html); raw SHA-256 `1cf70e83defd8aec2b51bdf85f3c1fe65034043a1e72a88ff622fd93f5405152`; paragraph UTF-8 SHA-256 `042243b9ac98f7c9b4a2991919face76f6d95adf8035038d94b2f4a68476703c`.
 - **Source relation:** Extracted.
 - **Use boundary:** Some reject material enactments and make knowledge dissolve ignorance and defect. Preserve disagreement with the preceding rites.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -768,7 +768,7 @@ Each card quotes one complete paragraph from the selected witness. The complete 
 - **Status:** quotation-ready.
 - **Edition:** Roberts–Rambaut translation, ANF 1 (1885), selected CCEL digital transcription.
 - **Verification:** 2026-09-08; whole selected Preface/I.1–21 read; card exactly matches saved HTML-derived paragraph after entity decoding, annotation removal and whitespace normalization; no print/critical-text collation claimed.
-- **Provenance:** retained chapter HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html`; raw SHA-256 `1cf70e83defd8aec2b51bdf85f3c1fe65034043a1e72a88ff622fd93f5405152`; paragraph UTF-8 SHA-256 `e1338b31ab3f7ffdda53c374cf883896d3abe871f030f7b67aa2d6d30ec76121`.
+- **Provenance:** [retained chapter HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html); raw SHA-256 `1cf70e83defd8aec2b51bdf85f3c1fe65034043a1e72a88ff622fd93f5405152`; paragraph UTF-8 SHA-256 `e1338b31ab3f7ffdda53c374cf883896d3abe871f030f7b67aa2d6d30ec76121`.
 - **Source relation:** Extracted.
 - **Use boundary:** Keep the ascent formulas and distinction of upper Sophia from Achamoth within a marked further variant. The attached final ANF transmission note is editorial, not part of the ritual.
 - **Consumers:** Intended future source-led whole `mytheme-valentinian-sophia-horos-achamoth`; not yet bound or asserted as current consumption.
@@ -782,7 +782,7 @@ The following is the continuous selected text, including the author’s polemics
 <a id="telling-00"></a>
 ### Preface — Preface.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.i.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/preface.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.i.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/preface.html)
 
 <a id="text-ix.ii.i-p1"></a>
 1. Inasmuch as certain men have set the truth aside, and bring in lying words and vain genealogies, which, as the apostle says, “minister questions rather than godly edifying which is in faith,” and by means of their craftily-constructed plausibilities draw away the minds of the inexperienced and take them captive, [I have felt constrained, my dear friend, to compose the following treatise in order to expose and counteract their machinations.] These men falsify the oracles of God, and prove themselves evil interpreters of the good word of revelation. They also overthrow the faith of many, by drawing them away, under a pretence of [superior] knowledge, from Him who founded and adorned the universe; as if, forsooth, they had something more excellent and sublime to reveal, than that God who created the heaven and the earth, and all things that are therein. By means of specious and plausible words, they cunningly allure the simple-minded to inquire into their system; but they nevertheless clumsily destroy them, while they initiate them into their blasphemous and impious opinions respecting the Demiurge; and these simple ones are unable, even in such a matter, to distinguish falsehood from truth.
@@ -825,7 +825,7 @@ The following is the continuous selected text, including the author’s polemics
 <a id="telling-01"></a>
 ### I.1 — Chapter I.—Absurd ideas of the disciples of Valentinus as to the origin, name, order, and conjugal productions of their fancied Æons, with the passages of Scripture which they adapt to their opinions.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.ii.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.ii.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html)
 
 <a id="text-ix.ii.ii-p1"></a>
 1. They maintain, then, that in the invisible and ineffable heights above there exists a certain perfect, pre-existent Æon, whom they call Proarche, Propator, and Bythus, and describe as being invisible and incomprehensible. Eternal and unbegotten, he remained throughout innumerable cycles of ages in profound serenity and quiescence. There existed along with him Ennœa, whom they also call Charis and Sige. At last this Bythus determined to send forth from himself the beginning of all things, and deposited this production (which he had resolved to bring forth) in his contemporary Sige, even as seed is deposited in the womb. She then, having received this seed, and becoming pregnant, gave birth to Nous, who was both similar and equal to him who had produced him, and was alone capable of comprehending his father’s greatness. This Nous they call also Monogenes, and Father, and the Beginning of all Things. Along with him was also produced Aletheia; and these four constituted the first and first-begotten Pythagorean Tetrad, which they also denominate the root of all things. For there are first Bythus and Sige, and then Nous and Aletheia. And Monogenes, perceiving for what purpose he had been produced, also himself sent forth Logos and Zoe, being the father of all those who were to come after him, and the beginning and fashioning of the entire Pleroma. By the conjunction of Logos and Zoe were brought forth Anthropos and Ecclesia; and thus was formed the first-begotten Ogdoad, the root and substance of all things, called among them by four names, viz., Bythus, and Nous, and Logos, and Anthropos. For each of these is masculo-feminine, as follows: Propator was united by a conjunction with his Ennœa; then Monogenes, that is Nous, with Aletheia; Logos with Zoe, and Anthropos with Ecclesia.
@@ -859,7 +859,7 @@ The following is the continuous selected text, including the author’s polemics
 <a id="telling-02"></a>
 ### I.2 — Chapter II.—The Propator was known to Monogenes alone. Ambition, disturbance, and danger into which Sophia fell; her shapeless offspring: she is restored by Horos. The production of Christ and of the Holy Spirit, in order to the completion of the Æons. Manner of the production of Jesus.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.iii.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.iii.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html)
 
 <a id="text-ix.ii.iii-p1"></a>
 1. They proceed to tell us that the Propator of their scheme was known only to Monogenes, who sprang from him; in other words, only to Nous, while to all the others he was invisible and incomprehensible. And, according to them, Nous alone took pleasure in contemplating the Father, and exulting in considering his immeasurable greatness; while he also meditated how he might communicate to the rest of the Æons the greatness of the Father, revealing to them how vast and mighty he was, and how he was without beginning,—beyond comprehension, and altogether incapable of being seen. But, in accordance with the will of the Father, Sige restrained him, because it was his design to lead them all to an acquaintance with the aforesaid Propator, and to create within them a desire of investigating his nature. In like manner, the rest of the Æons also, in a kind of quiet way, had a wish to behold the Author of their being, and to contemplate that First Cause which had no beginning.
@@ -917,7 +917,7 @@ The following is the continuous selected text, including the author’s polemics
 <a id="telling-03"></a>
 ### I.3 — Chapter III.—Texts of Holy Scripture used by these heretics to support their opinions.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.iv.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.iv.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html)
 
 <a id="text-ix.ii.iv-p1"></a>
 1. Such, then, is the account they give of what took place within the Pleroma; such the calamities that flowed from the passion which seized upon the Æon who has been named, and who was within a little of perishing by being absorbed in the universal substance, through her inquisitive searching after the Father; such the consolidation [of that Æon] from her condition of agony by Horos, and Stauros, and Lytrotes, and Carpistes, and Horothetes, and Metagoges. Such also is the account of the generation of the later Æons, namely of the first Christ and of the Holy Spirit, both of whom were produced by the Father after the repentance [of Sophia], and of the second Christ (whom they also style Saviour), who owed his being to the joint contributions [of the Æons]. They tell us, however, that this knowledge has not been openly divulged, because all are not capable of receiving it, but has been mystically revealed by the Saviour through means of parables to those qualified for understanding it. This has been done as follows. The thirty Æons are indicated (as we have already remarked) by the thirty years during which they say the Saviour performed no public act, and by the parable of the labourers in the vineyard. Paul also, they affirm, very clearly and frequently names these Æons, and even goes so far as to preserve their order, when he says, “To all the generations of the Æons of the Æon.” Nay, we ourselves, when at the giving of thanks we pronounce the words, “To Æons of Æons” (for ever and ever), do set forth these Æons. And, in fine, wherever the words Æon or Æons occur, they at once refer them to these beings.
@@ -1032,7 +1032,7 @@ The following is the continuous selected text, including the author’s polemics
 <a id="telling-04"></a>
 ### I.4 — Chapter IV.—Account given by the heretics of the formation of Achamoth; origin of the visible world from her disturbances.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.v.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.v.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html)
 
 <a id="text-ix.ii.v-p1"></a>
 1. The following are the transactions which they narrate as having occurred outside of the Pleroma: The enthymesis of that Sophia who dwells above, which they also term Achamoth, being removed from the Pleroma, together with her passion, they relate to have, as a matter of course, become violently excited in those places of darkness and vacuity [to which she had been banished]. For she was excluded from light and the Pleroma, and was without form or figure, like an untimely birth, because she had received nothing [from a male parent]. But the Christ dwelling on high took pity upon her; and having extended himself through and beyond Stauros, he imparted a figure to her, but merely as respected substance, and not so as to convey intelligence. Having effected this, he withdrew his influence, and returned, leaving Achamoth to herself, in order that she, becoming sensible of her suffering as being severed from the Pleroma, might be influenced by the desire of better things, while she possessed in the meantime a kind of odour of immortality left in her by Christ and the Holy Spirit. Wherefore also she is called by two names—Sophia after her father (for Sophia is spoken of as being her father), and Holy Spirit from that Spirit who is along with Christ. Having then obtained a form, along with intelligence, and being immediately deserted by that Logos who had been invisibly present with her—that is, by Christ —she strained herself to discover that light which had forsaken her, but could not effect her purpose, inasmuch as she was prevented by Horos. And as Horos thus obstructed her further progress, he exclaimed, Iao, whence, they say, this name Iao derived its origin. And when she could not pass by Horos on account of that passion in which she had been involved, and because she alone had been left without, she then resigned herself to every sort of that manifold and varied state of passion to which she was subject; and thus she suffered grief on the one hand because she had not obtained the object of her desire, and fear on the other hand, lest life itself should fail her, as light had already done, while, in addition, she was in the greatest perplexity. All these feelings were associated with ignorance. And this ignorance of hers was not like that of her mother, the first Sophia, an Æon, due to degeneracy by means of passion, but to an [innate] opposition [of nature to knowledge]. Moreover, another kind of passion fell upon her (Achamoth), namely, that of desiring to return to him who gave her life.
@@ -1099,7 +1099,7 @@ The following is the continuous selected text, including the author’s polemics
 <a id="telling-05"></a>
 ### I.5 — Chapter V.—Formation of the Demiurge; description of him. He is the creator of everything outside of the Pleroma.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.vi.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.vi.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html)
 
 <a id="text-ix.ii.vi-p1"></a>
 1. These three kinds of existence, then, having, according to them, been now formed,—one from the passion, which was matter; a second from the conversion, which was animal; and the third, that which she (Achamoth) herself brought forth, which was spiritual,—she next addressed herself to the task of giving these form. But she could not succeed in doing this as respected the spiritual existence, because it was of the same nature with herself. She therefore applied herself to give form to the animal substance which had proceeded from her own conversion, and to bring forth to light the instructions of the Saviour. And they say she first formed out of animal substance him who is Father and King of all things, both of these which are of the same nature with himself, that is, animal substances, which they also call right-handed, and those which sprang from the passion, and from matter, which they call left-handed. For they affirm that he formed all the things which came into existence after him, being secretly impelled thereto by his mother. From this circumstance they style him Metropator, Apator, Demiurge, and Father, saying that he is Father of the substances on the right hand, that is, of the animal, but Demiurge of those on the left, that is, of the material, while he is at the same time the king of all. For they say that this Enthymesis, desirous of making all things to the honour of the Æons, formed images of them, or rather that the Saviour did so through her instrumentality. And she, in the image of the invisible Father, kept herself concealed from the Demiurge. But he was in the image of the only-begotten Son, and the angels and archangels created by him were in the image of the rest of the Æons.
@@ -1148,7 +1148,7 @@ The following is the continuous selected text, including the author’s polemics
 <a id="telling-06"></a>
 ### I.6 — Chapter VI.—The threefold kind of man feigned by these heretics: good works needless for them, though necessary to others: their abandoned morals.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.vii.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-06.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.vii.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-06.html)
 
 <a id="text-ix.ii.vii-p1"></a>
 1. There being thus three kinds of substances, they declare of all that is material (which they also describe as being “on the left hand”) that it must of necessity perish, inasmuch as it is incapable of receiving any afflatus of incorruption. As to every animal existence (which they also denominate “on the right hand”), they hold that, inasmuch as it is a mean between the spiritual and the material, it passes to the side to which inclination draws it. Spiritual substance, again, they describe as having been sent forth for this end, that, being here united with that which is animal, it might assume shape, the two elements being simultaneously subjected to the same discipline. And this they declare to be “the salt” and “the light of the world.” For the animal substance had need of training by means of the outward senses; and on this account they affirm that the world was created, as well as that the Saviour came to the animal substance (which was possessed of free-will), that He might secure for it salvation. For they affirm that He received the first-fruits of those whom He was to save [as follows], from Achamoth that which was spiritual, while He was invested by the Demiurge with the animal Christ, but was begirt by a [special] dispensation with a body endowed with an animal nature, yet constructed with unspeakable skill, so that it might be visible and tangible, and capable of enduring suffering. At the same time, they deny that He assumed anything material [into His nature], since indeed matter is incapable of salvation. They further hold that the consummation of all things will take place when all that is spiritual has been formed and perfected by Gnosis (knowledge); and by this they mean spiritual men who have attained to the perfect knowledge of God, and been initiated into these mysteries by Achamoth. And they represent themselves to be these persons.
@@ -1188,7 +1188,7 @@ The following is the continuous selected text, including the author’s polemics
 <a id="telling-07"></a>
 ### I.7 — Chapter VII.—The mother Achamoth, when all her seed are perfected, shall pass into the Pleroma, accompanied by those men who are spiritual; the Demiurge, with animal men, shall pass into the intermediate habitation; but all material men shall go into corruption. Their blasphemous opinions against the true incarnation of Christ by the Virgin Mary. Their views as to the prophecies. Stupid ignorance of the Demiurge.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.viii.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.viii.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html)
 
 <a id="text-ix.ii.viii-p1"></a>
 1. When all the seed shall have come to perfection, they state that then their mother Achamoth shall pass from the intermediate place, and enter in within the Pleroma, and shall receive as her spouse the Saviour, who sprang from all the Æons, that thus a conjunction may be formed between the Saviour and Sophia, that is, Achamoth. These, then, are the bridegroom and bride, while the nuptial chamber is the full extent of the Pleroma. The spiritual seed, again, being divested of their animal souls, and becoming intelligent spirits, shall in an irresistible and invisible manner enter in within the Pleroma, and be bestowed as brides on those angels who wait upon the Saviour. The Demiurge himself will pass into the place of his mother Sophia; that is, the intermediate habitation. In this intermediate place, also, shall the souls of the righteous repose; but nothing of an animal nature shall find admittance to the Pleroma. When these things have taken place as described, then shall that fire which lies hidden in the world blaze forth and burn; and while destroying all matter, shall also be extinguished along with it, and have no further existence. They affirm that the Demiurge was acquainted with none of these things before the advent of the Saviour.
@@ -1237,7 +1237,7 @@ The following is the continuous selected text, including the author’s polemics
 <a id="telling-08"></a>
 ### I.8 — Chapter VIII.—How the Valentinians pervert the Scriptures to support their own pious opinions.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.ix.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.ix.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html)
 
 <a id="text-ix.ii.ix-p1"></a>
 1. Such, then, is their system, which neither the prophets announced, nor the Lord taught, nor the apostles delivered, but of which they boast that beyond all others they have a perfect knowledge. They gather their views from other sources than the Scriptures; and, to use a common proverb, they strive to weave ropes of sand, while they endeavour to adapt with an air of probability to their own peculiar assertions the parables of the Lord, the sayings of the prophets, and the words of the apostles, in order that their scheme may not seem altogether without support. In doing so, however, they disregard the order and the connection of the Scriptures, and so far as in them lies, dismember and destroy the truth. By transferring passages, and dressing them up anew, and making one thing out of another, they succeed in deluding many through their wicked art in adapting the oracles of the Lord to their opinions. Their manner of acting is just as if one, when a beautiful image of a king has been constructed by some skilful artist out of precious jewels, should then take this likeness of the man all to pieces, should rearrange the gems, and so fit them together as to make them into the form of a dog or of a fox, and even that but poorly executed; and should then maintain and declare that this was the beautiful image of the king which the skilful artist constructed, pointing to the jewels which had been admirably fitted together by the first artist to form the image of the king, but have been with bad effect transferred by the latter one to the shape of a dog, and by thus exhibiting the jewels, should deceive the ignorant who had no conception what a king’s form was like, and persuade them that that miserable likeness of the fox was, in fact, the beautiful image of the king. In like manner do these persons patch together old wives’ fables, and then endeavour, by violently drawing away from their proper connection, words, expressions, and parables whenever found, to adapt the oracles of God to their baseless fictions. We have already stated how far they proceed in this way with respect to the interior of the Pleroma.
@@ -1352,7 +1352,7 @@ The following is the continuous selected text, including the author’s polemics
 <a id="telling-09"></a>
 ### I.9 — Chapter IX.—Refutation of the impious interpretations of these heretics.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.x.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-09.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.x.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-09.html)
 
 <a id="text-ix.ii.x-p1"></a>
 1. You see, my friend, the method which these men employ to deceive themselves, while they abuse the Scriptures by endeavouring to support their own system out of them. For this reason, I have brought forward their modes of expressing themselves, that thus thou mightest understand the deceitfulness of their procedure, and the wickedness of their error. For, in the first place, if it had been John’s intention to set forth that Ogdoad above, he would surely have preserved the order of its production, and would doubtless have placed the primary Tetrad first as being, according to them, most venerable and would then have annexed the second, that, by the sequence of the names, the order of the Ogdoad might be exhibited, and not after so long an interval, as if forgetful for the moment and then again calling the matter to mind, he, last of all, made mention of the primary Tetrad. In the next place, if he had meant to indicate their conjunctions, he certainly would not have omitted the name of Ecclesia; while, with respect to the other conjunctions, he either would have been satisfied with the mention of the male [Æons] (since the others [like Ecclesia] might be understood), so as to preserve a uniformity throughout; or if he enumerated the conjunctions of the rest, he would also have announced the spouse of Anthropos, and would not have left us to find out her name by divination.
@@ -1395,7 +1395,7 @@ Now, what simple-minded man, I ask, would not be led away by such verses as thes
 <a id="telling-10"></a>
 ### I.10 — Chapter X.—Unity of the faith of the Church throughout the whole world.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xi.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-10.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xi.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-10.html)
 
 <a id="text-ix.ii.xi-p1"></a>
 1. The Church, though dispersed through our the whole world, even to the ends of the earth, has received from the apostles and their disciples this faith: [She believes] in one God, the Father Almighty, Maker of heaven, and earth, and the sea, and all things that are in them; and in one Christ Jesus, the Son of God, who became incarnate for our salvation; and in the Holy Spirit, who proclaimed through the prophets the dispensations of God, and the advents, and the birth from a virgin, and the passion, and the resurrection from the dead, and the ascension into heaven in the flesh of the beloved Christ Jesus, our Lord, and His [future] manifestation from heaven in the glory of the Father “to gather all things in one,” and to raise up anew all flesh of the whole human race, in order that to Christ Jesus, our Lord, and God, and Saviour, and King, according to the will of the invisible Father, “every knee should bow, of things in heaven, and things in earth, and things under the earth, and that every tongue should confess” to Him, and that He should execute just judgment towards all; that He may send “spiritual wickednesses,” and the angels who transgressed and became apostates, together with the ungodly, and unrighteous, and wicked, and profane among men, into everlasting fire; but may, in the exercise of His grace, confer immortality on the righteous, and holy, and those who have kept His commandments, and have persevered in His love, some from the beginning [of their Christian course], and others from [the date of] their repentance, and may surround them with everlasting glory.
@@ -1450,7 +1450,7 @@ Now, what simple-minded man, I ask, would not be led away by such verses as thes
 <a id="telling-11"></a>
 ### I.11 — Chapter XI.—The opinions of Valentinus, with those of his disciples and others.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xii.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xii.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html)
 
 <a id="text-ix.ii.xii-p1"></a>
 1. Let us now look at the inconsistent opinions of those heretics (for there are some two or three of them), how they do not agree in treating the same points, but alike, in things and names, set forth opinions mutually discordant. The first of them, Valentinus, who adapted the principles of the heresy called “Gnostic” to the peculiar character of his own school, taught as follows: He maintained that there is a certain Dyad (twofold being), who is inexpressible by any name, of whom one part should be called Arrhetus (unspeakable), and the other Sige (silence). But of this Dyad a second was produced, one part of whom he names Pater, and the other Aletheia. From this Tetrad, again, arose Logos and Zoe, Anthropos and Ecclesia. These constitute the primary Ogdoad. He next states that from Logos and Zoe ten powers were produced, as we have before mentioned. But from Anthropos and Ecclesia proceeded twelve, one of which separating from the rest, and falling from its original condition, produced the rest of the universe. He also supposed two beings of the name of Horos, the one of whom has his place between Bythus and the rest of the Pleroma, and divides the created Æons from the uncreated Father, while the other separates their mother from the Pleroma. Christ also was not produced from the Æons within the Pleroma, but was brought forth by the mother who had been excluded from it, in virtue of her remembrance of better things, but not without a kind of shadow. He, indeed, as being masculine, having severed the shadow from himself, returned to the Pleroma; but his mother being left with the shadow, and deprived of her spiritual substance, brought forth another son, namely, the Demiurge, whom he also styles the supreme ruler of all those things which are subject to him. He also asserts that, along with the Demiurge, there was produced a left-hand power, in which particular he agrees with those falsely called Gnostics, of whom to we have yet to speak. Sometimes, again, he maintains that Jesus was produced from him who was separated from their mother, and united to the rest, that is, from Theletus, sometimes as springing from him who returned into the Pleroma, that is, from Christ; and at other times still as derived from Anthropos and Ecclesia. And he declares that the Holy Spirit was produced by Aletheia for the inspection and fructification of the Æons, by entering invisibly into them, and that, in this way, the Æons brought forth the plants of truth.
@@ -1490,7 +1490,7 @@ Now, what simple-minded man, I ask, would not be led away by such verses as thes
 <a id="telling-12"></a>
 ### I.12 — Chapter XII.—The doctrines of the followers of Ptolemy and Colorbasus.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xiii.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xiii.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html)
 
 <a id="text-ix.ii.xiii-p1"></a>
 1. But the followers of Ptolemy say that he [Bythus] has two consorts, which they also name Diatheses (affections), viz., Ennœa and Thelesis. For, as they affirm, he first conceived the thought of producing something, and then willed to that effect. Wherefore, again, these two affections, or powers, Ennœa and Thelesis, having intercourse, as it were, between themselves, the production of Monogenes and Aletheia took place according to conjunction. These two came forth as types and images of the two affections of the Father,—visible representations of those that were invisible,— Nous (i.e., Monogenes) of Thelesis, and Aletheia of Ennœa, and accordingly the image resulting from Thelesis was masculine, while that from Ennœa was feminine. Thus Thelesis (will) became, as it were, a faculty of Ennœa (thought). For Ennœa continually yearned after offspring; but she could not of herself bring forth that which she desired. But when the power of Thelesis (the faculty of will) came upon her, then she brought forth that on which she had brooded.
@@ -1533,7 +1533,7 @@ Now, what simple-minded man, I ask, would not be led away by such verses as thes
 <a id="telling-13"></a>
 ### I.13 — Chapter XIII.—The deceitful arts and nefarious practices of Marcus.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xiv.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-13.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xiv.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-13.html)
 
 <a id="text-ix.ii.xiv-p1"></a>
 1. But there is another among these heretics, Marcus by name, who boasts himself as having improved upon his master. He is a perfect adept in magical impostures, and by this means drawing away a great number of men, and not a few women, he has induced them to join themselves to him, as to one who is possessed of the greatest knowledge and perfection, and who has received the highest power from the invisible and ineffable regions above. Thus it appears as if he really were the precursor of Antichrist. For, joining the buffooneries of Anaxilaus to the craftiness of the magi, as they are called, he is regarded by his senseless and cracked-brain followers as working miracles by these means.
@@ -1603,7 +1603,7 @@ Now, what simple-minded man, I ask, would not be led away by such verses as thes
 <a id="telling-14"></a>
 ### I.14 — Chapter XIV.—The various hypotheses of Marcus and others. Theories respecting letters and syllables.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xv.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-14.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xv.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-14.html)
 
 <a id="text-ix.ii.xv-p1"></a>
 1. This Marcus then, declaring that he alone was the matrix and receptacle of the Sige of Colorbasus, inasmuch as he was only-begotten, has brought to the birth in some such way as follows that which was committed to him of the defective Enthymesis. He declares that the infinitely exalted Tetrad descended upon him from the invisible and indescribable places in the form of a woman (for the world could not have borne it coming in its male form), and expounded to him alone its own nature, and the origin of all things, which it had never before revealed to any one either of gods or men. This was done in the following terms: When first the unoriginated, inconceivable Father, who is without material substance, and is neither male nor female, willed to bring forth that which is ineffable to Him, and to endow with form that which is invisible, He opened His mouth, and sent forth the Word similar to Himself, who, standing near, showed Him what He Himself was, inasmuch as He had been manifested in the form of that which was invisible. Moreover, the pronunciation of His name took place as follows:—He spoke the first word of it, which was the beginning [of all the rest], and that utterance consisted of four letters. He added the second, and this also consisted of four letters. Next He uttered the third, and this again embraced ten letters. Finally, He pronounced the fourth, which was composed of twelve letters. Thus took place the enunciation of the whole name, consisting of thirty letters, and four distinct utterances. Each of these elements has its own peculiar letters, and character, and pronunciation, and forms, and images, and there is not one of them that perceives the shape of that [utterance] of which it is an element. Neither does any one know itself, nor is it acquainted with the pronunciation of its neighbour, but each one imagines that by its own utterance it does in fact name the whole. For while every one of them is a part of the whole, it imagines its own sound to be the whole name, and does not leave off sounding until, by its own utterance, it has reached the last letter of each of the elements. This teacher declares that the restitution of all things will take place, when all these, mixing into one letter, shall utter one and the same sound. He imagines that the emblem of this utterance is found in Amen, which we pronounce in concert. The diverse sounds (he adds) are those which give form to that Æon who is without material substance and unbegotten, and these, again, are the forms which the Lord has called angels, who continually behold the face of the Father.
@@ -1718,7 +1718,7 @@ Now, what simple-minded man, I ask, would not be led away by such verses as thes
 <a id="telling-15"></a>
 ### I.15 — Chapter XV.—Sige relates to Marcus the generation of the twenty-four elements and of Jesus. Exposure of these absurdities.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xvi.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-15.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xvi.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-15.html)
 
 <a id="text-ix.ii.xvi-p1"></a>
 1. The all-wise Sige then announced the production of the four-and-twenty elements to him as follows:—Along with Monotes there coexisted Henotes, from which sprang two productions, as we have remarked above, Monas and Hen, which, added to the other two, make four, for twice two are four. And again, two and four, when added together, exhibit the number six. And further, these six being quadrupled, give rise to the twenty-four forms. And the names of the first Tetrad, which are understood to be most holy, and not capable of being expressed in words, are known by the Son alone, while the father also knows what they are. The other names which are to be uttered with respect, and faith, and reverence, are, according to him, Arrhetos and Sige, Pater and Aletheia. Now the entire number of this Tetrad amounts to four-and-twenty letters; for the name Arrhetos contains in itself seven letters, Seige five, Pater five, and Aletheia seven. If all these be added together—twice five, and twice seven—they complete the number twenty-four. In like manner, also, the second Tetrad, Logos and Zoe, Anthropos and Ecclesia, reveal the same number of elements. Moreover, that name of the Saviour which may be pronounced, viz., Jesus [᾽Ιησοῦς], consists of six letters, but His unutterable name comprises four-and-twenty letters. The name Christ the Son (υἱὸς Χρειστός) comprises twelve letters, but that which is unpronounceable in Christ contains thirty letters. And for this reason he declares that He is Alpha and Omega, that he may indicate the dove, inasmuch as that bird has this number [in its name].
@@ -1779,7 +1779,7 @@ Such are the words of the saintly elder. And I shall endeavour to state the rema
 <a id="telling-16"></a>
 ### I.16 — Chapter XVI.—Absurd interpretations of the Marcosians.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xvii.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-16.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xvii.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-16.html)
 
 <a id="text-ix.ii.xvii-p1"></a>
 1. Blending in one the production of their own Æons, and the straying and recovery of the sheep [spoken of in the Gospel ], these persons endeavour to set forth things in a more mystical style, while they refer everything to numbers, maintaining that the universe has been formed out of a Monad and a Dyad. And then, reckoning from unity on to four, they thus generate the Decad. For when one, two, three, and four are added together, they give rise to the number of the ten Æons. And, again, the Dyad advancing from itself [by twos] up to six—two, and four, and six—brings out the Duodecad. Once more, if we reckon in the same way up to ten, the number thirty appears, in which are found eight, and ten, and twelve. They therefore term the Duodecad—because it contains the Episemon, and because the Episemon [so to speak] waits upon it—the passion. And for this reason, because an error occurred in connection with the twelfth number, the sheep frisked off, and went astray; for they assert that a defection took place from the Duodecad. In the same way they oracularly declare, that one power having departed also from the Duodecad, has perished; and this was represented by the woman who lost the drachma, and, lighting a lamp, again found it. Thus, therefore, the numbers that were left, viz., nine, as respects the pieces of money, and eleven in regard to the sheep, when multiplied together, give birth to the number ninety-nine, for nine times eleven are ninety-nine. Wherefore also they maintain the word “Amen” contains this number.
@@ -1834,7 +1834,7 @@ Such are the words of the saintly elder. And I shall endeavour to state the rema
 <a id="telling-17"></a>
 ### I.17 — Chapter XVII.—The theory of the Marcosians, that created things were made after the image of things invisible.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xviii.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xviii.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html)
 
 <a id="text-ix.ii.xviii-p1"></a>
 1. I wish also to explain to thee their theory as to the way in which the creation itself was formed through the mother by the Demiurge (as it were without his knowledge), after the image of things invisible. They maintain, then, that first of all the four elements, fire, water, earth, and air, were produced after the image of the primary Tetrad above, and that then, we add their operations, viz., heat, cold, dryness, and humidity, an exact likeness of the Ogdoad is presented. They next reckon up ten powers in the following manner:—There are seven globular bodies, which they also call heavens; then that globular body which contains these, which also they name the eighth heaven; and, in addition to these, the sun and moon. These, being ten in number, they declare to be types of the invisible Decad, which proceeded from Logos and Zoe. As to the Duodecad, it is indicated by the zodiacal circle, as it is called; for they affirm that the twelve signs do most manifestly shadow forth the Duodecad, the daughter of Anthropos and Ecclesia. And since the highest heaven, beating upon the very sphere [of the seventh heaven], has been linked with the most rapid precession of the whole system, as a check, and balancing that system with its own gravity, so that it completes the cycle from sign to sign in thirty years,—they say that this is an image of Horus, encircling their thirty-named mother. And then, again, as the moon travels through her allotted space of heaven in thirty days, they hold, that by these days she expresses the number of the thirty Æons. The sun also, who runs through his orbit in twelve months, and then returns to the same point in the circle, makes the Duodecad manifest by these twelve months; and the days, as being measured by twelve hours, are a type of the invisible Duodecad. Moreover, they declare that the hour, which is the twelfth part of the day, is composed of thirty parts, in order to set forth the image of the Triacontad. Also the circumference of the zodiacal circle itself contains three hundred and sixty degrees (for each of its signs comprises thirty); and thus also they affirm, that by means of this circle an image is preserved of that connection which exists between the twelve and the thirty. Still further, asserting that the earth is divided into twelve zones, and that in each zone it receives power from the heavens, according to the perpendicular [position of the sun above it], bringing forth productions corresponding to that power which sends down its influence upon it, they maintain that this is a most evident type of the Duodecad and its offspring.
@@ -1853,7 +1853,7 @@ Such are the words of the saintly elder. And I shall endeavour to state the rema
 <a id="telling-18"></a>
 ### I.18 — Chapter XVIII.—Passages from Moses, which the heretics pervert to the support of their hypothesis.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xix.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-18.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xix.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-18.html)
 
 <a id="text-ix.ii.xix-p1"></a>
 1. And while they affirm such things as these concerning the creation, every one of them generates something new, day by day, according to his ability; for no one is deemed “perfect,” who does not develop among them some mighty fictions. It is thus necessary, first, to indicate what things they metamorphose [to their own use] out of the prophetical writings, and next, to refute them. Moses, then, they declare, by his mode of beginning the account of the creation, has at the commencement pointed out the mother of all things when he says, “In the beginning God created the heaven and the earth;” for, as they maintain, by naming these four,—God, beginning, heaven, and earth,—he set forth their Tetrad. Indicating also its invisible and hidden nature, he said, “Now the earth was invisible and unformed.” They will have it, moreover, that he spoke of the second Tetrad, the offspring of the first, in this way—by naming an abyss and darkness, in which were also water, and the Spirit moving upon the water. Then, proceeding to mention the Decad, he names light, day, night, the firmament, the evening, the morning, dry land, sea, plants, and, in the tenth place, trees. Thus, by means of these ten names, he indicated the ten Æons. The power of the Duodecad, again, was shadowed forth by him thus:—He names the sun, moon, stars, seasons, years, whales, fishes, reptiles, birds, quadrupeds, wild beasts, and after all these, in the twelfth place, man. Thus they teach that the Triacontad was spoken of through Moses by the Spirit. Moreover, man also, being formed after the image of the power above, had in himself that ability which flows from the one source. This ability was seated in the region of the brain, from which four faculties proceed, after the image of the Tetrad above, and these are called: the first, sight, the second, hearing, the third, smell, and the fourth, taste. And they say that the Ogdoad is indicated by man in this way: that he possesses two ears, the like number of eyes, also two nostrils, and a twofold taste, namely, of bitter and sweet. Moreover, they teach that the whole man contains the entire image of the Triacontad as follows: In his hands, by means of his fingers, he bears the Decad; and in his whole body the Duodecad, inasmuch as his body is divided into twelve members; for they portion that out, as the body of Truth is divided by them—a point of which we have already spoken. But the Ogdoad, as being unspeakable and invisible, is understood as hidden in the viscera.
@@ -1953,7 +1953,7 @@ Such are the words of the saintly elder. And I shall endeavour to state the rema
 <a id="telling-19"></a>
 ### I.19 — Chapter XIX.—Passages of Scripture by which they attempt to prove that the Supreme Father was unknown before the coming of Christ.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xx.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-19.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xx.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-19.html)
 
 <a id="text-ix.ii.xx-p1"></a>
 1. I judge it necessary to add to these details also what, by garbling passages of Scripture, they try to persuade us concerning their Propator, who was unknown to all before the coming of Christ. Their object in this is to show that our Lord announced another Father than the Maker of this universe, whom, as we said before, they impiously declare to have been the fruit of a defect. For instance, when the prophet Isaiah says, “But Israel hath not known Me, and My people have not understood Me,” they pervert his words to mean ignorance of the invisible Bythus. And that which is spoken by Hosea, “There is no truth in them, nor the knowledge of God,” they strive to give the same reference. And, “There is none that understandeth, or that seeketh after God: they have all gone out of the way, they are together become unprofitable,” they maintain to be said concerning ignorance of Bythus. Also that which is spoken by Moses, “No man shall see God and live,” has, as they would persuade us, the same reference.
@@ -1981,7 +1981,7 @@ Such are the words of the saintly elder. And I shall endeavour to state the rema
 <a id="telling-20"></a>
 ### I.20 — Chapter XX.—The apocryphal and spurious Scriptures of the Marcosians, with passages of the Gospels which they pervert.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xxi.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-20.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xxi.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-20.html)
 
 <a id="text-ix.ii.xxi-p1"></a>
 1. Besides the above [misrepresentations], they adduce an unspeakable number of apocryphal and spurious writings, which they themselves have forged, to bewilder the minds of foolish men, and of such as are ignorant of the Scriptures of truth. Among other things, they bring forward that false and wicked story which relates that our Lord, when He was a boy learning His letters, on the teacher saying to Him, as is usual, “Pronounce Alpha,” replied [as He was bid], “Alpha.” But when, again, the teacher bade Him say, “Beta,” the Lord replied, “Do thou first tell me what Alpha is, and then I will tell thee what Beta is.” This they expound as meaning that He alone knew the Unknown, which He revealed under its type Alpha.
@@ -2027,7 +2027,7 @@ Such are the words of the saintly elder. And I shall endeavour to state the rema
 <a id="telling-21"></a>
 ### I.21 — Chapter XXI.—The views of redemption entertained by these heretics.
 
-[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xxii.html) · saved HTML: `working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html`
+[CCEL chapter](https://www.ccel.org/ccel/schaff/anf01.ix.ii.xxii.html) · [saved HTML](../../../../../../../../working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html)
 
 <a id="text-ix.ii.xxii-p1"></a>
 1. It happens that their tradition respecting redemption is invisible and incomprehensible, as being the mother of things which are incomprehensible and invisible; and on this account, since it is fluctuating, it is impossible simply and all at once to make known its nature, for every one of them hands it down just as his own inclination prompts. Thus there are as many schemes of “redemption” as there are teachers of these mystical opinions. And when we come to refute them, we shall show in its fitting-place, that this class of men have been instigated by Satan to a denial of that baptism which is regeneration to God, and thus to a renunciation of the whole [Christian] faith.
