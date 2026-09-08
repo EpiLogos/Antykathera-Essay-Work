@@ -1,0 +1,166 @@
+[
+  {
+    "row_id": "T21-history-technology-politics",
+    "row_kind": "development-packet",
+    "parent_row_id": "E6-labour",
+    "field_path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+    "branch_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+    "operation": "Delegated labour distributes capacity and return; Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+    "evidence_register": 3,
+    "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+    "occurrences": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "start_line": 1,
+        "end_line": 81,
+        "text": "---\ntitle: \"Technology, Politics, and Institutions \u2014 From Mass Formation to Planetary Techn\u0113\"\npage_type: historical-register-route\nownership: protected-learning-surface\nstatus: living\ndomain: technology-politics-institutions\nmovement_ids:\n  - 01-s01-p0-question-before-mechanism\n  - 12-s0-p5-objective-internality\n  - 20-s2-p1-dia-ballein\n  - 21-s2-p2-sym-ballein\n  - 22-s2-p3-ares-aphrodite-harmonia\n  - 23-s2-p4-complex-dynamism\n  - 36-s4-p5-mef-prompt-thrownness\n  - 37-s5-p0-math-moves-meaning\n  - 38-s5-p1-apoha-softmax\n  - 39-s5-p2-j-space\n  - 40-s5-p3-preference-hidden-zero\n  - 41-s5-p4-bimba-energy-fields\n  - 42-s5-p5-research-vectors\n  - 43-s50-p0-theory-vocation-compassion\n  - 44-s50-p1-ql-mef-bimba-harness\n  - 45-s50-p2-antikythera-attunement\n  - 46-s50-p3-4-2-mono-poly\n  - 48-s50-p5-ahi-planetary-return\n---\n\n# Technology, Politics, and Institutions \u2014 From Mass Formation to Planetary Techn\u0113\n\nTechnology enters the argument as the organisation of relation. The Antikythera mechanism coordinates celestial cycles; Hephaestus's net captures bodies and exposes them to a judging assembly; modern media organise crowds across physical distance; statistical preference models convert comparisons into latent ranks; contemporary language models turn those ranks into trained behaviour; governance determines who owns the hardware, memory, data, and rules through which the behaviour acts. The history therefore runs through myth, psychology, mathematics, computation, and political economy at once. Its central question is practical: what kinds of persons, collectivities, and worlds does an infrastructure repeatedly produce?\n\n## Collective formation becomes technical\n\n[Le Bon's 1895 crowd psychology](../../sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/SOURCE.md) already allows a nation to become a psychological crowd under shared influences without physical assembly. Broadcast and network media later provide the channels for this distributed formation. [Jung's *The Undiscovered Self*](../../sources/psychology/jung/jung-2013-undiscovered-self-routledge/SOURCE.md) adds the relation between statistical abstraction, mass identity, collectivised responsibility, and a State that appears as a quasi-personality. [\u00a72 \u00b7 #1](../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md) follows this history as the manufacture of opposed identities through repeated cuts.\n\n[Desmet](../../sources/psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/SOURCE.md) describes a sequence in which isolation, meaninglessness, free-floating affect, and narrative fixation reinforce one another. [Iakovou](../../sources/political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/SOURCE.md) insists that political power cannot be explained by mass psychology alone. Institutions give collective feeling durable channels through law, office, ownership, expertise, bureaucracy, and coercion. [\u00a72 \u00b7 #4](../../../../section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md) therefore treats capture as a dynamic circuit whose psychic and institutional parts continually remake one another.\n\nThe historical alternative begins at [sym-ballein](../../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md): collective relation can preserve differentiated participants and reopen the assumptions through which their common field is organised. This is not spontaneous harmony. It becomes a design problem concerning participation, contestability, memory, feedback, exit, and revision.\n\n## Preference becomes infrastructure\n\n[Bradley and Terry's 1952 paired-comparison model](../../sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md) gives later preference learning a statistical ancestor. Alternatives receive latent scores whose differences govern comparison probabilities. Since a uniform additive shift changes no pairwise probability, the scale needs an imposed origin. The political significance appears when such a model leaves biometrics and enters the training of general-purpose language systems: who supplies the comparisons, which alternatives become visible, and what convention fixes the scale?\n\n[Vaswani and colleagues' transformer](../../sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md) reorganises machine language processing around attention. [InstructGPT](../../sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE.md) then uses demonstrations, ranked model outputs, reward modelling, and reinforcement learning to make a pretrained language model follow human instructions more closely. [Direct Preference Optimization](../../sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md) rewrites part of this alignment problem as a direct objective over preferred and rejected responses. The sequence from 1952 to 2023 is the actual technical history beneath [\u00a75 \u00b7 #3](../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md): preference becomes an infrastructure of delegated normativity.\n\n[PyTorch's softmax and argmax operations](../../sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md) reveal the local mechanics. A score field becomes a probability distribution; a selection operation returns a maximal index. [\u00a75 \u00b7 #1](../../../../section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md) asks what the cut forgets when one continuation emerges from the alternatives. [\u00a75 \u00b7 #0](../../../../section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md) then follows the consequence into action: mathematical relations now organise what a system says, which tools it calls, and which parts of its context become salient.\n\n## The model acquires a world\n\n[The Agentworld brief](../../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md) gathers the contemporary horizon: artificial and hybrid agents, provisional individuation, nested societies, divergent world models, and systems that learn by modelling the effects of action. Its parasocieties are scenarios and research instruments, yet the design questions are immediate. An agent receives a world through prompts, memory, tools, permissions, interfaces, and institutional objectives. [\u00a70/1 \u00b7 #0](../../../../section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md) therefore begins with the subject and situation before the mechanism, while [objective internality](../../../../section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality.md) identifies the active context through which a system can actually operate.\n\n[Prompt Thrownness](../../../../section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md) gives this technical condition a historical-philosophical form. No agent begins from nowhere: the prompt and system context establish a horizon of relevance before the next operation. [Energy-based learning](../../sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md) supplies one formal mechanism for organising a configuration space by compatibility. [\u00a75 \u00b7 #2](../../../../section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md) and [\u00a75 \u00b7 #4](../../../../section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md) turn world, memory, evaluation, and action into an architecture whose variables and transformations can be inspected.\n\n## Governance returns inside the machine\n\n[Ostrom's work on polycentric governance](../../sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md) changes the political scale. People affected by a resource regime participate in making and modifying its rules; local rule-making receives external recognition; governance can be nested across layers. Her warning against rigid transplantation matters equally: design principles work through ecological and social conditions, not as a universal template. [\u00a75\u21920 \u00b7 #3](../../../../section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md) takes from this history the relation between the whole and the many\u2014coordination without a sovereign centre erasing local difference.\n\n[4:2 Techn\u0113's Sovereign Commons Architecture](../../sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md) brings the question into AI infrastructure through community-led computation, local governance, memory and epistemic sovereignty, capability control, and shared technical resources. It is an affiliated design proposal whose architectural claims require implementation and evaluation as the project develops. Its importance in this history lies in changing the object of politics. Governance concerns the model and its outputs, but also the hardware, data, memory, update rights, identity systems, audit paths, and institutional ownership that compose the field in which the model acts.\n\n[\u00a75 \u00b7 #5](../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md) makes those questions experimentally tractable. One can vary who controls memory, who may revise a rule, how preferences are recorded, whether dissent remains visible, how provenance travels with an answer, and how local models communicate across a federation. The political principles become properties of an actual system rather than values appended to a finished machine.\n\n## Techn\u0113 returns to its mythic and planetary depth\n\n[Homer's Hephaestus](../../sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md) builds invisible bonds fine enough to catch Ares and Aphrodite, then summons the gods to witness the captured pair. The device joins technical mastery to enclosure, exposure, shame, and public judgment. In [\u00a72 \u00b7 #3](../../../../section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md), this scene gives techn\u0113 its double force: it can articulate relation, and it can immobilise living powers inside the frame established by its maker.\n\nBetween the ancient scene and the modern preference infrastructure stands the register's philosophical hinge: [Heidegger](../../sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md). *The Question Concerning Technology* holds that \"the essence of technology is by no means anything technological\" (Lovitt trans., p. 4) \u2014 technology is \"a way of revealing\" (p. 12) whose modern mode is a challenging-forth that \"puts to nature the unreasonable demand that it supply energy that can be extracted and stored as such\" (p. 14), ordering everything \"to stand by\u2026 on call for a further ordering\" as standing-reserve (p. 17), until man himself \"will have to be taken as standing-reserve\" while exalting himself \"to the posture of lord of the earth\" (pp. 26\u201327). The name for this whole mode of revealing, *Ge-stell*, is built on the gathering *Ge-*: \"that challenging claim which gathers man thither to order the self-revealing as standing-reserve\" (p. 19). The [Memorial Address](../../sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md) sets beside it the distinction between \"calculative thinking and meditative thinking,\" \"each justified and needed in its own way,\" with the calculative marked by its refusal of return \u2014 it \"never stops, never collects itself\" (p. 46) \u2014 and the danger named as monopoly: that it \"may someday come to be accepted and practiced as the only way of thinking\" (p. 56). The essay takes the precision and declines the fatalism: where Heidegger can only commend releasement and await the saving power, the essay's runtime treats the missing return as buildable \u2014 seam retention, gauge disclosure, provenance, reversible coordination \u2014 and treats computation itself as revelatory, with the political fork lying between disclosure-as-enclosure and disclosure-as-attunement. The annotators, raters, and reference policies of the following paragraphs are this history's standing-reserve: human relation held on call inside the optimisation loop, which is why the preference infrastructure below belongs to the same register as the net above.\n\nThe [Antikythera mechanism](../../sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md) supplies another ancient image. Its gears and inscriptions coordinate multiple astronomical periods in a finite display. [\u00a75\u21920 \u00b7 #2](../../../../section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md) receives the mechanism as an instrument of attunement: exact enough to organise heterogeneous cycles, limited enough to remain answerable to the sky it models. Between Hephaestus's net and Antikythera's gearing lies the political choice of planetary techn\u0113\u2014capture the world inside a single optimising frame, or build instruments through which plural worlds can coordinate, contest, and revise their relations.\n\n[\u00a75\u21920 \u00b7 #0](../../../../section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md) names the vocation that follows from this history. [The QL\u2013MEF\u2013Bimba harness](../../../../section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md) gives it an experimental form; [mono-poly](../../../../section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md) gives it a governance relation; [the planetary return](../../../../section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md) asks whether artificial hybrid intelligence can help civilisation perceive the consequences of its own infrastructures while those consequences remain open to collective intervention.\n\n## Where this history bears the essay\n\n| Movement | Historical work |\n|---|---|\n| [\u00a70/1 \u00b7 #0 and \u00a70 \u00b7 #5 \u2014 Situation and internal world](../../../../section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md) | Agentworld's technical problem is received through subject, context, and action. |\n| [\u00a72 \u00b7 #1\u2013#4 \u2014 Division, symbol, myth, complex](../../../../section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md) | Crowd formation, institutional power, collective relation, and technical capture become one political history. |\n| [\u00a74 \u00b7 #5 \u2014 MEF and Prompt Thrownness](../../../../section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md) | Every agent architecture is shown to inherit a prior horizon and an institutional author. |\n| [\u00a75 \u00b7 #0\u2013#5 \u2014 Computational movement](../../../../section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md) | Attention, selection, preference, field, and energy become real mechanisms of delegated action. |\n| [\u00a75\u21920 \u00b7 #0\u2013#3 \u2014 Vocation, harness, instrument, commons](../../../../section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md) | Theory becomes research practice, technical design, and polycentric governance. |\n| [\u00a75\u21920 \u00b7 #5 \u2014 AHI and Planetary Return](../../../../section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md) | The history culminates in the political question of what planetary intelligence is built to perceive and serve. |"
+      }
+    ],
+    "consumers": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+        "record_id": "A15",
+        "operation": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+        "return_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+        "record_id": "A24",
+        "operation": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+        "return_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+        "record_id": "A25",
+        "operation": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+        "return_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+        "record_id": "A28",
+        "operation": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+        "return_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+        "record_id": "A29",
+        "operation": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+        "return_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+        "record_id": "A31",
+        "operation": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+        "return_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "record_id": "C27",
+        "operation": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+        "return_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+        "record_id": "C28",
+        "operation": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+        "return_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+        "record_id": "C29",
+        "operation": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+        "return_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+        "record_id": "C44",
+        "operation": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+        "return_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+        "record_id": "C45",
+        "operation": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+        "return_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+        "record_id": "C53",
+        "operation": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+        "return_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+        "record_id": "C54",
+        "operation": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+        "return_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+        "record_id": "C62",
+        "operation": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+        "return_path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      }
+    ],
+    "consumer_consequence": "Trace classification, evaluation and delegated action as institutions distributing real capability and consequence.",
+    "return_operation": "Return the developed carrier to its exact historical/source branch, then to submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md; retain the source-specific result as a new participant rather than a generic example.",
+    "development_status": "existing-whole; branch-and-source-development-open",
+    "next_development_scope": "Develop actual preference models, comparison sets, KL/reference policies, labour and infrastructure, sovereign commons and agentworld scenarios separately. No psychology of masses or myth replaces legal/institutional evidence.",
+    "independent_provenance_inputs": [
+      {
+        "source_id": "bradley-terry-1952-paired-comparisons",
+        "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "ouyang-et-al-2022-instructgpt",
+        "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "rafailov-et-al-2023-dpo",
+        "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "bratton-2026-agentworld-brief",
+        "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "ostrom-2009-beyond-markets-states-nobel-lecture",
+        "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "42-techne-2026-sovereign-commons",
+        "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "heidegger-1977-question-concerning-technology",
+        "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      }
+    ],
+    "preserve_whole": true,
+    "evidence_register_detail": {
+      "2": "Historical claims require the individual work/document and event chain.",
+      "3": "The E-to-consumer operation is authored, not established by the historical family name."
+    }
+  }
+]

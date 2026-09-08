@@ -1,0 +1,30 @@
+[
+  {
+    "path": "/Users/admin/Central/Work/O-I/docs/CANONICAL-PRODUCT-FIELD.md",
+    "sha256": "bb1cfcf38abf8d16095cdff5af0424aea5f120b695b64e093500523a0a105456",
+    "read_scope": "full actual current local product source; code static scope plus private functional probe only",
+    "git_head": "c1ce2db81eec3b03a9bdff0a1accf8ece4acf903",
+    "matches_committed_head": false
+  },
+  {
+    "path": "/Users/admin/Central/Work/O-I/docs/OBJECTIVE-CO-INTERNALITY.md",
+    "sha256": "1551650f169253bff509c6cde991ab3f531b8e66baa531e6145f357e909e3d85",
+    "read_scope": "full actual current local product source; code static scope plus private functional probe only",
+    "git_head": "c1ce2db81eec3b03a9bdff0a1accf8ece4acf903",
+    "matches_committed_head": true
+  },
+  {
+    "path": "/Users/admin/Central/Work/O-I/docs/positions/FOUNDING-POSITIONS.md",
+    "sha256": "f41ed11c377133a579d1284d2366167298050c955dedbc61fb5971e3d523e490",
+    "read_scope": "full actual current local product source; code static scope plus private functional probe only",
+    "git_head": "c1ce2db81eec3b03a9bdff0a1accf8ece4acf903",
+    "matches_committed_head": true
+  },
+  {
+    "path": "/Users/admin/Central/Work/O-I/shared-field/social.mjs",
+    "sha256": "e416cd91b84174125bd32f416d8cf0b7d51f571ec39ef8d1534b3e2e4df2ba5c",
+    "read_scope": "full actual current local product source; code static scope plus private functional probe only",
+    "git_head": "c1ce2db81eec3b03a9bdff0a1accf8ece4acf903",
+    "matches_committed_head": true
+  }
+]

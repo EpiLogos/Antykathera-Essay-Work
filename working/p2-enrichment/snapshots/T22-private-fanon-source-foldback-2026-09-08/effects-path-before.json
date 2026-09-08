@@ -1,0 +1,1418 @@
+{
+  "root": {
+    "id": "WHOLE",
+    "title": "Fanon — Language, White Gaze, Racialised Body, Mask, and Recognition",
+    "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Fanon — Language, White Gaze, Racialised Body, Mask, and Recognition",
+      "#0 — A world has already decided how the speaker will appear",
+      "#1 — Speaking opens access and installs a measure",
+      "#2 — The body returns from a gaze that precedes it",
+      "#3 — The mask becomes an inward criterion",
+      "#4 — Recognition must change the relation that distributes it",
+      "#5→0 — The historical person remains available to answer",
+      "Four inherited comparisons, still unratified",
+      "Comparisons that must return to distinct worlds",
+      "Source standing"
+    ],
+    "sha256": "a9b769f8669c5178cfbeaa2c36a8df8615410e58cb0c1021682f8ffd4f3c283c",
+    "claim_status": "Argued",
+    "register": "mytheme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [
+      {
+        "id": "C21-Living-Symbol-Idol",
+        "title": "C21 — Living Symbol / Idol",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C21 — Living Symbol / Idol",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "e6abdda15c114f4e2ffe216a0da62515889bedbf0efac057750aa5124305201a",
+        "claim_status": "Argued",
+        "register": "episteme"
+      }
+    ],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [
+      {
+        "id": "C21-Living-Symbol-Idol",
+        "title": "C21 — Living Symbol / Idol",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C21 — Living Symbol / Idol",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "e6abdda15c114f4e2ffe216a0da62515889bedbf0efac057750aa5124305201a",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C19-Pratyabhijna-Recognition",
+        "title": "C19 — Pratyabhijñā / Recognition",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C19 — Pratyabhijñā / Recognition",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "a7d6e0a7237e7cc7c28d2705697e761ef998e576bbe067b830d7bdf77a772da0",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C22-Counterfeit-Symbolon",
+        "title": "C22 — Counterfeit Symbolon",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C22 — Counterfeit Symbolon",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "ae7833804db2f889be3514b25abeb0612c27881860e4ef3ebea87ef3e040ca73",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C27-Protected-Account-Occupied-Zero-Source-Claim",
+        "title": "C27 — Protected Account / Occupied Zero / Source-Claim",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C27 — Protected Account / Occupied Zero / Source-Claim",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Developmental provenance",
+          "Remaining depth"
+        ],
+        "sha256": "5a19659079a27043e7ea3322c6b32a37bcd37838f997a5e082f075863dd56e32"
+      },
+      {
+        "id": "C61-Symbolon-Disclosure-Architecture",
+        "title": "C61 — Symbolon Disclosure Architecture",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C61 — Symbolon Disclosure Architecture",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "260fb2d88193d12f9091e54b7da19dd3dcc82b93c74e1219a23736d2ae75fd55"
+      },
+      {
+        "id": "C06-Copula-Identification-with-Difference",
+        "title": "C06 — Copula / Identification-with-Difference",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C06 — Copula / Identification-with-Difference",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "4986ca50ff5f68c5e2df63d6505e51b8858cd8534d319b56eb85bf1b5272a5b6",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C12-Script-Frozen-Conditioned-Will",
+        "title": "C12 — Script / Frozen Conditioned Will",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C12 — Script / Frozen Conditioned Will",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "a07eac146c537c1507e989a5b29c6fc13f812faf96e66d86308eb3f39f9caf7f",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C13-Prakasa-Vimarsa",
+        "title": "C13 — Prakāśa–Vimarśa",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C13 — Prakāśa–Vimarśa",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "9a79c8cd4a84bd43c9e834e943911651e25cb1f8aa661f0c347f50ff9a7f6ac7",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C15-Pasu-Bounded-Subject-Position",
+        "title": "C15 — Paśu / Bounded Subject-Position",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C15 — Paśu / Bounded Subject-Position",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "8613bb6d7b78e4b13db2c1b2c25b43e216c35874e78fd5c7c72b4ddccdf844b0",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C23-Severance",
+        "title": "C23 — Severance",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C23 — Severance",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "a15d4607f4e25b670ebdb933ee883fba541c4ffbb34daabbf23342a586658902",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C24-Fusion",
+        "title": "C24 — Fusion",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C24 — Fusion",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "02eecc76161d931002a5f8e7a12b6d08c052200a693caac16c7ae98ee0ec4e38",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C25-Counterfeit-Gathering",
+        "title": "C25 — Counterfeit Gathering",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C25 — Counterfeit Gathering",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Developmental provenance",
+          "Remaining depth"
+        ],
+        "sha256": "341c0fa4b04f52f727ca58bb610025455108c47bbc4cef32c83998201c3b5902"
+      },
+      {
+        "id": "C26-Monoisation-Counter-Generation",
+        "title": "C26 — Monoisation / Counter-Generation",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C26 — Monoisation / Counter-Generation",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Developmental provenance",
+          "Remaining depth"
+        ],
+        "sha256": "cb99486ecf32881facd732e5349f35cc03b2a64d1f6740fca77ea7d5964d349d"
+      },
+      {
+        "id": "C34-Individuation",
+        "title": "C34 — Individuation",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C34 — Individuation",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining source depth"
+        ],
+        "sha256": "9ca6094892966dfb57019a3f1b603d2ea7b1624644e3db0856d15cc215502f68"
+      },
+      {
+        "id": "C47-Deferential-Intelligence",
+        "title": "C47 — Deferential Intelligence",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C47 — Deferential Intelligence",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "0c71c6a8b3369ae959bed9cf205ac1b033b4bcf8052e4c5d5fff92592ca4417b"
+      },
+      {
+        "id": "08-deferential-intelligence",
+        "title": "Deferential Intelligence",
+        "path": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+        "artifact_type": "argument",
+        "authority": "canonical-argument",
+        "headings": [
+          "Deferential Intelligence",
+          "Claim",
+          "Warrant",
+          "Operational test",
+          "Claim boundary"
+        ],
+        "sha256": "d4bbf861af1efba4eb7b945267edd58fe39b0d0af9ae2f3083a4610dd5edd4c3",
+        "claim_status": "Argued",
+        "evidence_status": "internal-synthesis",
+        "coordinates": [
+          "P5",
+          "P0",
+          "L4'",
+          "L5'"
+        ],
+        "tags": [
+          "epi-logos/antikythera-essay",
+          "argument-map/live",
+          "argument-map/praxis",
+          "argument-map/claim"
+        ]
+      },
+      {
+        "id": "18-trust-faith-formal-limit",
+        "title": "Trust, Faith, and the Formal Limit",
+        "path": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+        "artifact_type": "argument",
+        "authority": "canonical-argument",
+        "headings": [
+          "Trust, Faith, and the Formal Limit",
+          "Claim",
+          "Warrant — how knowledge bears or betrays trust",
+          "The mythic hinge",
+          "The AI trial",
+          "Boundary and relation to mono-poly"
+        ],
+        "sha256": "228538fffb57d2c80ccf21f2fb2c63b1287b70c3c240cd2f371a4762a27c0921",
+        "claim_status": "Argued",
+        "evidence_status": "authorial-source-synthesized",
+        "coordinates": [
+          "P0",
+          "P2",
+          "P5",
+          "L1'",
+          "L2",
+          "L4",
+          "L5'"
+        ],
+        "tags": [
+          "epi-logos/antikythera-essay",
+          "argument-map/live",
+          "argument-map/trust",
+          "argument-map/faith",
+          "argument-map/formal-limit"
+        ]
+      },
+      {
+        "id": "C01-Subject-Defined-Indefinability",
+        "title": "C01 — Subject / Defined Indefinability",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C01 — Subject / Defined Indefinability",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "29413384856eaa9c472cc21096458715a3c3ae428f8ecf5fc8e34249d346c201",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C03-Determination",
+        "title": "C03 — Determination",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C03 — Determination",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "d36c58ef51bebd96dc3d2614f76d4253b60875d756de9f4638e74061e93ff121",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C05-Immutable-Gap",
+        "title": "C05 — Immutable Gap",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C05 — Immutable Gap",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "2a05704610e157745d0a6cde2d0836e4f3b994a07c9f53f8df6161643e7c8f06",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C08-Context-Context-Frame",
+        "title": "C08 — Context / Context Frame",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C08 — Context / Context Frame",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "774e78fdd383d5801fa87992b236f8a69bbf92e72e44205be1ca1ab8ce232cd3",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C10-Mediation-Pramana",
+        "title": "C10 — Mediation / Pramāṇa",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C10 — Mediation / Pramāṇa",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "8a3e7a2c788cd97fdea67785d24dbe77f2b6a4b29b60a79656e0769b4b2d3095",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C14-Maya-Operative-Measure",
+        "title": "C14 — Māyā / Operative Measure",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C14 — Māyā / Operative Measure",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "9a82024bd0378133e30b897cef57d18f2e46859f5a0f2f5f8a28c72a75949edf",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C16-Antahkarana-Inner-Instrument",
+        "title": "C16 — Antaḥkaraṇa / Inner Instrument",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C16 — Antaḥkaraṇa / Inner Instrument",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "33f7556968238475d1434bb0e6fcd8ef439b22fcbdf82066d743c8469301e11b",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C17-Vikalpa-Samkalpa",
+        "title": "C17 — Vikalpa–Saṃkalpa",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C17 — Vikalpa–Saṃkalpa",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "bb9278b7143dcd3ae47df3e078f49add3acccf8a87f33e7e55ef6ce08f3be107",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C18-Apoha",
+        "title": "C18 — Apoha",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C18 — Apoha",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "5f78f65fb564a4b7197d1454f925a5d833d50edc68b2b985e8a56a071eec7618",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C31-Complex",
+        "title": "C31 — Complex",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C31 — Complex",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "95452ed6b422c56a78628beaa898a58e0a36526d6bade5d4fcb657d316a9a085",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C36-Complexio-Oppositorum",
+        "title": "C36 — Complexio Oppositorum",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C36 — Complexio Oppositorum",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining source depth"
+        ],
+        "sha256": "eb8f4aeb9c919a5605b4b83442adfb5b4b1404f83d49c683bca448e3ca65a5d8"
+      },
+      {
+        "id": "C41-Objective-Internality",
+        "title": "C41 — Objective Internality",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C41 — Objective Internality",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "facbc5a37edff91fc101cca5a8eee6b059462f9c45e61e2e35134502ba28ac1e"
+      },
+      {
+        "id": "C43-Computational-Vimarsa",
+        "title": "C43 — Computational Vimarśa",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C43 — Computational Vimarśa",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "0fbdbcf1ace1743cafc4278d0505a92efb50865f03e23286edcd52ebce536212"
+      },
+      {
+        "id": "C44-Prompt-Thrownness",
+        "title": "C44 — Prompt Thrownness",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C44 — Prompt Thrownness",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "68482682b747da490f091be33d9cd8f48cd19abbb08855db5c6fd82074c25f4b"
+      },
+      {
+        "id": "C46-Epistemic-Cultivation",
+        "title": "C46 — Epistemic Cultivation",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C46 — Epistemic Cultivation",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "9d5c51bddb412f668b68dbead04b01143f11e6b09ca5ea28e62727047cbf6293"
+      },
+      {
+        "id": "C50-Dia-Syn",
+        "title": "C50 — Dia / Syn",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C50 — Dia / Syn",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "5f647cf914b0fe9ebe7cd960aa3ef9f62018d77c6e2f05d6d6a8998a436abf83"
+      },
+      {
+        "id": "C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication",
+        "title": "C63 — Pros Hen / In Quantum — Focal Return and Qualified Predication",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C63 — Pros Hen / In Quantum — Focal Return and Qualified Predication",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "d1528d4e222e715972a7864e9c8964d630e65a8dc5425f86fa1423e2db6d19da",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "compassion-as-sensitivity-to-origins",
+        "title": "Compassion as Sensitivity to Origins",
+        "path": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "Compassion as Sensitivity to Origins",
+          "Definition",
+          "The minimum technical body",
+          "In the argument"
+        ],
+        "sha256": "13fccd291d706d4ba0aa6c688b046dcd78c5b47527d632185f7da1e50064a80c",
+        "claim_status": "Argued",
+        "coordinates": [
+          "P5",
+          "5→0"
+        ],
+        "register": "episteme",
+        "tags": [
+          "epi-logos/antikythera-essay",
+          "argument-map/concept",
+          "argument-map/praxis",
+          "ethics/provenance"
+        ]
+      },
+      {
+        "id": "counterfeit-gathering",
+        "title": "Counterfeit Gathering",
+        "path": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "Counterfeit Gathering",
+          "Definition",
+          "In the argument",
+          "Sources"
+        ],
+        "sha256": "6351cff4307a4f0ae5cfb603d355ae2fffe3f94cc303cf1c2ffc0070250e19a1",
+        "claim_status": "Argued",
+        "coordinates": [
+          "#2",
+          "P2"
+        ],
+        "register": "episteme",
+        "tags": [
+          "epi-logos/antikythera-essay",
+          "argument-map/concept",
+          "argument-map/two-logics",
+          "argument-map/technology"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "source": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "raw_target": "../../../../episteme/concepts/C21-Living-Symbol-Idol.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "raw_target": "C19-Pratyabhijna-Recognition.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "raw_target": "C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "raw_target": "C22-Counterfeit-Symbolon.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "raw_target": "C61-Symbolon-Disclosure-Architecture.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+        "raw_target": "C13-Prakasa-Vimarsa.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "raw_target": "C15-Pasu-Bounded-Subject-Position.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "raw_target": "C06-Copula-Identification-with-Difference.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+        "raw_target": "C34-Individuation.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+        "raw_target": "C47-Deferential-Intelligence.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "raw_target": "C21-Living-Symbol-Idol.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "raw_target": "C23-Severance.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "raw_target": "C24-Fusion.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+        "raw_target": "C25-Counterfeit-Gathering.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+        "raw_target": "C26-Monoisation-Counter-Generation.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "raw_target": "C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+        "raw_target": "C12-Script-Frozen-Conditioned-Will.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+        "raw_target": "C10-Mediation-Pramana.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+        "raw_target": "C17-Vikalpa-Samkalpa.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+        "raw_target": "C14-Maya-Operative-Measure.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "raw_target": "C19-Pratyabhijna-Recognition.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+        "raw_target": "C43-Computational-Vimarsa.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+        "raw_target": "C14-Maya-Operative-Measure.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+        "raw_target": "C01-Subject-Defined-Indefinability.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+        "raw_target": "C16-Antahkarana-Inner-Instrument.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "raw_target": "C19-Pratyabhijna-Recognition.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+        "raw_target": "C44-Prompt-Thrownness.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+        "raw_target": "C41-Objective-Internality.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+        "raw_target": "C05-Immutable-Gap.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+        "raw_target": "C08-Context-Context-Frame.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+        "raw_target": "C03-Determination.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "raw_target": "C23-Severance.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "raw_target": "C24-Fusion.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "raw_target": "C50-Dia-Syn.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "raw_target": "C19-Pratyabhijna-Recognition.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+        "raw_target": "C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+        "target": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+        "raw_target": "../../../section-rooms/arguments/08-deferential-intelligence.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+        "target": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+        "raw_target": "../../../section-rooms/arguments/18-trust-faith-formal-limit.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+        "raw_target": "compassion-as-sensitivity-to-origins.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "raw_target": "C50-Dia-Syn.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+        "raw_target": "C18-Apoha.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+        "raw_target": "C12-Script-Frozen-Conditioned-Will.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "raw_target": "C22-Counterfeit-Symbolon.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "raw_target": "C24-Fusion.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "raw_target": "C21-Living-Symbol-Idol.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "raw_target": "C06-Copula-Identification-with-Difference.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "raw_target": "C23-Severance.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "raw_target": "C50-Dia-Syn.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "raw_target": "C22-Counterfeit-Symbolon.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+        "raw_target": "C36-Complexio-Oppositorum.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "raw_target": "C19-Pratyabhijna-Recognition.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+        "raw_target": "counterfeit-gathering.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+        "raw_target": "C17-Vikalpa-Samkalpa.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+        "raw_target": "C31-Complex.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+        "raw_target": "C44-Prompt-Thrownness.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+        "raw_target": "C46-Epistemic-Cultivation.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+        "raw_target": "C47-Deferential-Intelligence.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      }
+    ]
+  },
+  "transverse_threads": [
+    {
+      "id": "trust-faith-formal-limit",
+      "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "artifact_type": "path",
+      "authority": "canonical-argument",
+      "headings": [
+        "Trust, Faith, and the Formal Limit — Transverse Thread"
+      ],
+      "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+      "register": "episteme",
+      "tags": [
+        "epi-logos/antikythera-essay",
+        "argument-map/live",
+        "argument-map/path",
+        "argument-map/trust"
+      ]
+    }
+  ],
+  "registers": {
+    "root": "mytheme",
+    "carriers": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+        "register": "episteme"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md",
+    "prior_sha256": "5b93e76d6d9d06abfa007f03d6e808ec5045f24d76e9cc57411329630daefc79",
+    "current_sha256": "1e87276318f2733a861858c57fc3781d275e5975ff32f232f80ad177e092addb",
+    "difference": "trailing whitespace only; complete prior semantic reading reused"
+  },
+  {
+    "path": "submission-package/essay/section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality.md",
+    "prior_sha256": "c48adb097bc54360db07477b4c357decf62f7042e0e08fbe2cbf46abf341e58c",
+    "current_sha256": "f4415f83a93a2e1a13d574f079ecda40b1ce6d7868be02ffc5fd0444a75a8315",
+    "difference": "trailing whitespace only; complete prior semantic reading reused"
+  },
+  {
+    "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md",
+    "prior_sha256": "53855901bebcfb9d71bfb6d065fac31eef96023eeb268a7a70bc62951564f41b",
+    "current_sha256": "d05e078a5f3daede2864e1df3d81b2336b3a3b4fa2e1977b3c6b17f3f1a4fa4d",
+    "difference": "trailing whitespace only; complete prior semantic reading reused"
+  },
+  {
+    "path": "submission-package/essay/section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md",
+    "prior_sha256": "67f78fa14df60b56f0fceada5ce483e8adc0a2c56d770b3512cce5d551d003a7",
+    "current_sha256": "f530c3d30a054035ad375c88f02a600714804497b93ad5b603287106f2fd9a9f",
+    "difference": "trailing whitespace only; complete prior semantic reading reused"
+  },
+  {
+    "path": "submission-package/essay/section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md",
+    "prior_sha256": "50b724a3f51dab782a2742737c8be8eaf8cffdca201a7c115e05084a06376401",
+    "current_sha256": "20eaa4b513d70bf8880493305dad85ffeec3074236f93c30c0bf50bcb4d97d03",
+    "difference": "trailing whitespace only; complete prior semantic reading reused"
+  },
+  {
+    "path": "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
+    "prior_sha256": "1912ac3ee939c7ac3c6fd3e14a02668092e5966feda6769528a2611b668c91e9",
+    "current_sha256": "1aae1f2cb31f5c0d82dbd2af15a0b4e1dba4e0a3615f30b9ca7c2269fa260b27",
+    "difference": "trailing whitespace only; complete prior semantic reading reused"
+  },
+  {
+    "path": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+    "prior_sha256": "cc79700e657d7c6daa485ef07b18a0fda186427b7ae8563917b39c5397289fa6",
+    "current_sha256": "7c76df4e3f616f702802d79514cd115042e3b6a803b110991c3439d441b40abd",
+    "difference": "trailing whitespace only; complete prior semantic reading reused"
+  },
+  {
+    "path": "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+    "prior_sha256": "581c985b9bb00274965b42b30c3b122c9c6525091e88fc15e3ea7ff32a1f431f",
+    "current_sha256": "2ab98dd6ea7fe625c98d66056d65056c311d2a8cd937cec1db97a972edeaa112",
+    "difference": "trailing whitespace only; complete prior semantic reading reused"
+  },
+  {
+    "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+    "prior_sha256": "448800b09b3b8d29ce42db880ef7d669c22eee4a8eb47996103ebe866a95233b",
+    "current_sha256": "dd83e1ee6a2dc370ba65082c01f08d34ca302d4af4cc877de6e71abef23ae1e4",
+    "difference": "trailing whitespace only; complete prior semantic reading reused"
+  },
+  {
+    "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+    "prior_sha256": "94a1a7e9503775ef76bf5560f8f1e82e04083511a692a270174e8e4bcc77823c",
+    "current_sha256": "481de8eb171cf657f1d0f5edfcbee84aa45142e90ca3419f08638e83303c07d4",
+    "difference": "trailing whitespace only; complete prior semantic reading reused"
+  },
+  {
+    "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+    "prior_sha256": "fb84f41ee187d393a69bcfd82b39a65d61e619dd9195df557aeb642b48dd981c",
+    "current_sha256": "e3b0363acc3927989fddefcacfce2417ff86b6279e2e10201a169ee35fe3eaa4",
+    "difference": "trailing whitespace only; complete prior semantic reading reused"
+  },
+  {
+    "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+    "prior_sha256": "fa02096de71367eac9e318c4f77ac004d8eab94dd0df18b2f86bcc03733ca5c9",
+    "current_sha256": "45ab88d266f5843211527af6702e8bb08145592442f84ced8f124cf01916e98c",
+    "difference": "trailing whitespace only; complete prior semantic reading reused"
+  }
+]

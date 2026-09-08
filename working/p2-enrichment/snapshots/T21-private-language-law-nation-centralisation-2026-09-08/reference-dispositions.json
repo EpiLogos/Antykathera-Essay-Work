@@ -1,0 +1,182 @@
+{
+  "rows": [
+    {
+      "row": 25,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/dia-ballein.md",
+      "reference_sha256": "cb5cea66671d1093e6bfa7d0aee55771c50511d15c1db8c606ca71dded705bcc",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "`etymologies/symbol-account-and-trust`; operator identity root + Two Logics argument.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Historical dia/syn philology remains Episteme; operator identity remains root and A13/C50.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "whole-etymology",
+          "record_id": "etymology-symbol-account-and-trust"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "philology"
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/dia-syn/dia.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "matheme-operation",
+          "record_id": "matheme-dia-syn-dia"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A13"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C50"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false,
+      "structure_reconciliation_2026_09_07": {
+        "authority": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+        "retired_root_id": "symbolon-dia-sym-ballein",
+        "successors": [
+          "matheme-dia-syn-dia"
+        ],
+        "basis": "Direct reference-note office: distinction and its severance shadow; historical pass text remains provenance.",
+        "chronic_route": "not added: recovered passage does not explicitly develop the synchronic/diachronic pair"
+      }
+    },
+    {
+      "row": 38,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/hole-whole-holy-health.md",
+      "reference_sha256": "5dfcaf15ba0532cb0adea2dea82fef831ba649520f29bab175c3ac204bc37e3e",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Episteme semantic/etymological dossier; no topology derivation.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-depth",
+          "section": "Hole / Whole / Holy / Health"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 45,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/logos-epi-logos.md",
+      "reference_sha256": "fef4ed876c3e315973445816164536302f1e266d0985b9a90b3449da3cbcb757",
+      "pass_a_disposition": "rehome",
+      "pass_a_named_carrier": "Episteme etymology/history/method; terminal vocation consumes it.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C51"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "whole-etymology",
+          "record_id": "etymology-trust-place-logos-nomos-natio-credere"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A35"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false
+    },
+    {
+      "row": 77,
+      "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/syn-ballein.md",
+      "reference_sha256": "2b39f46f3aab96e6488347ab2e693175ceaee4cdcace50c96ccf62e0f563cee6",
+      "pass_a_disposition": "merge",
+      "pass_a_named_carrier": "`etymologies/symbol-account-and-trust`: historical syn\u2192sym field; canonical operator remains Sym-ballein.",
+      "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+      "pass_b_sharpening": "Historical syn is not a rival canonical operator; retain assimilated sym office and A13/C50.",
+      "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+      "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+      "development_homes": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "philology"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "whole-etymology",
+          "record_id": "etymology-symbol-account-and-trust"
+        },
+        {
+          "path": "submission-package/essay/symbolon/matheme/dia-syn/syn.md",
+          "materialised": false,
+          "standing": "census-admitted-planned-target",
+          "role": "matheme-operation",
+          "record_id": "matheme-dia-syn-syn"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "A13"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "materialised": true,
+          "standing": "existing-canonical",
+          "role": "semantic-consumer",
+          "record_id": "C50"
+        }
+      ],
+      "physical_action": "none; retain original reference note",
+      "development_state": "pending-record-development-or-enrichment",
+      "canonical_change_authorised_by_this_matrix": false,
+      "structure_reconciliation_2026_09_07": {
+        "authority": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+        "retired_root_id": "symbolon-dia-sym-ballein",
+        "successors": [
+          "matheme-dia-syn-syn"
+        ],
+        "basis": "Direct reference-note office: seam-retaining gathering.",
+        "chronic_route": "not added: recovered passage does not explicitly develop the synchronic/diachronic pair"
+      }
+    }
+  ]
+}

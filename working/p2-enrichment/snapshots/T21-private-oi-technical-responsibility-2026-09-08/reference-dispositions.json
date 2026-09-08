@@ -1,0 +1,194 @@
+[
+  {
+    "row": 3,
+    "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/4-2-techne-sovereign-commons.md",
+    "reference_sha256": "f3ec19d3a15d7b0cccf3f854fae3084c52e2f035fa50490090cf9c6e6d12fc8b",
+    "pass_a_disposition": "rehome",
+    "pass_a_named_carrier": "Technical Episteme dossier for 4:2 Techn\u0113 / sovereign-commons lineage; Power and O:I capstone consume it.",
+    "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+    "pass_b_sharpening": "Technical O:I/commons radial evidence, not generic concept; product position numbers do not become QL proofs.",
+    "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+    "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+    "development_homes": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "materialised": false,
+        "standing": "census-admitted-planned-target",
+        "role": "primary-depth",
+        "section": "4:2 Techn\u0113 / sovereign-commons lineage",
+        "record_id": "dossier-oi-technical-responsibility"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+        "materialised": true,
+        "standing": "existing-canonical",
+        "role": "semantic-consumer",
+        "record_id": "A28"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+        "materialised": true,
+        "standing": "existing-canonical",
+        "role": "semantic-consumer",
+        "record_id": "A29"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+        "materialised": true,
+        "standing": "existing-canonical",
+        "role": "semantic-consumer",
+        "record_id": "C54"
+      }
+    ],
+    "physical_action": "none; retain original reference note",
+    "development_state": "pending-record-development-or-enrichment",
+    "canonical_change_authorised_by_this_matrix": false
+  },
+  {
+    "row": 7,
+    "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/agentic-individuation-crosswalk.md",
+    "reference_sha256": "96909312d5fc43fe01d0b319e91f3cad07000706950a771bf029fc0a2b5ac724",
+    "pass_a_disposition": "rehome",
+    "pass_a_named_carrier": "Episteme map/dossier `X/x \u2194 individuation \u2194 agentic formation`; cross-register, not derivation.",
+    "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+    "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+    "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+    "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+    "development_homes": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+        "materialised": true,
+        "standing": "existing-canonical",
+        "role": "semantic-consumer",
+        "record_id": "A21"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+        "materialised": true,
+        "standing": "existing-canonical",
+        "role": "semantic-consumer",
+        "record_id": "C34"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+        "materialised": true,
+        "standing": "existing-canonical",
+        "role": "semantic-consumer",
+        "record_id": "C43"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "record_id": "dossier-oi-technical-responsibility",
+        "materialised": false,
+        "standing": "census-admitted-planned-target",
+        "role": "comparative-depth",
+        "path_authority": "working/p2-enrichment/census.json",
+        "section": "Agentic individuation crosswalk"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+        "record_id": "dossier-jung-pauli-psychoid",
+        "materialised": false,
+        "standing": "census-admitted-planned-target",
+        "role": "psychic-refraction",
+        "path_authority": "working/p2-enrichment/census.json",
+        "section": "Individuation and native X/x; QL notation is not Jung\u2019s"
+      }
+    ],
+    "physical_action": "none; retain original reference note",
+    "development_state": "pending-record-development-or-enrichment",
+    "canonical_change_authorised_by_this_matrix": false,
+    "register_contract_reconciliation": "Current register contract narrows the Pass A/B carrier type; preserve operation in SOURCE/admitted dossier/current guidance. No separate figure/dialogue/map/lens/dossier identity is created by this row."
+  },
+  {
+    "row": 21,
+    "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/computational-vimarsa.md",
+    "reference_sha256": "cab8e058f2fdefc7497400f36a74540ed48c7d85101d8ee9aece7c9ef6743381",
+    "pass_a_disposition": "merge",
+    "pass_a_named_carrier": "Reflective Field / THE MIRROR THAT MOVES FIRST; bounded functional vimar\u015ba.",
+    "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+    "pass_b_sharpening": "Reflective Field plus bounded functional-vimar\u015ba dossier, not AHI telos. T09 additionally materialises C43 and C55.",
+    "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+    "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+    "development_homes": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+        "materialised": true,
+        "standing": "existing-canonical",
+        "role": "semantic-consumer",
+        "record_id": "C43"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+        "materialised": true,
+        "standing": "existing-canonical",
+        "role": "semantic-consumer",
+        "record_id": "C55"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "materialised": true,
+        "standing": "existing-canonical",
+        "role": "semantic-consumer",
+        "record_id": "A32"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "record_id": "dossier-oi-technical-responsibility",
+        "materialised": false,
+        "standing": "census-admitted-planned-target",
+        "role": "bounded-functional-depth",
+        "path_authority": "working/p2-enrichment/census.json",
+        "section": "Computational vimar\u015ba and reflective-field feedback"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+        "record_id": "dossier-indian-philosophy",
+        "materialised": false,
+        "standing": "census-admitted-planned-target",
+        "role": "source-distinct-comparison",
+        "path_authority": "working/p2-enrichment/census.json",
+        "section": "Vimar\u015ba versus technical self-revision"
+      }
+    ],
+    "physical_action": "none; retain original reference note",
+    "development_state": "pending-record-development-or-enrichment",
+    "canonical_change_authorised_by_this_matrix": false,
+    "register_contract_reconciliation": "Current register contract narrows the Pass A/B carrier type; preserve operation in SOURCE/admitted dossier/current guidance. No separate figure/dialogue/map/lens/dossier identity is created by this row."
+  },
+  {
+    "row": 79,
+    "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/trika-alignment-stack.md",
+    "reference_sha256": "f83e63ee4883772bba134e687cbd397c3b6c785834681e00ef403c5e0045199f",
+    "pass_a_disposition": "rehome",
+    "pass_a_named_carrier": "Indian-philosophy comparative map with correspondence boundaries.",
+    "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+    "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+    "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+    "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+    "development_homes": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+        "record_id": "dossier-indian-philosophy",
+        "materialised": false,
+        "standing": "census-admitted-planned-target",
+        "role": "bounded-comparative-depth",
+        "path_authority": "working/p2-enrichment/census.json",
+        "section": "Trika alignment stack: source distinction"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "record_id": "dossier-oi-technical-responsibility",
+        "materialised": false,
+        "standing": "census-admitted-planned-target",
+        "role": "constructive-proposal",
+        "path_authority": "working/p2-enrichment/census.json",
+        "section": "Anchored ground / generation / evaluation architecture"
+      }
+    ],
+    "physical_action": "none; retain original reference note",
+    "development_state": "pending-record-development-or-enrichment",
+    "canonical_change_authorised_by_this_matrix": false,
+    "register_contract_reconciliation": "Current register contract narrows the Pass A/B carrier type; preserve operation in SOURCE/admitted dossier/current guidance. No separate figure/dialogue/map/lens/dossier identity is created by this row."
+  }
+]

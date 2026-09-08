@@ -1,0 +1,59 @@
+{
+  "record_id": "dossier-oi-technical-responsibility",
+  "sha256": "0266075f5fc0724bca7565db655b06b48c37617caf5633e38303b044c5c5b2f5",
+  "words": 3648,
+  "six_positions": [
+    "#0",
+    "#1",
+    "#2",
+    "#3",
+    "#4",
+    "#5→0"
+  ],
+  "explicit_anchors": [
+    "oi-inherited-relation",
+    "oi-source-and-commission",
+    "oi-six-responsibility-centres",
+    "oi-source-projection-contribution-route",
+    "oi-evidence-standing",
+    "oi-agentic-individuation",
+    "oi-computational-vimarsa",
+    "oi-trika-stack",
+    "oi-commons-and-return"
+  ],
+  "checked_local_links": 25,
+  "link_errors": [],
+  "inputs": 128,
+  "input_hash_deltas_after_freeze": [
+    "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+    "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md"
+  ],
+  "protected_notes": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/NOTES.md",
+      "sha256": "f89b884d2c315e65efbeb5c2ceae441543b08f13c6686f552531fcd142c94949",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/NOTES.md",
+      "sha256": "23a9bbb954eda15cd3491616863c1a32483b11a8b7d11599e0df6fd6cab3330a",
+      "unchanged": true
+    }
+  ],
+  "reference_rows": [
+    3,
+    7,
+    21,
+    79
+  ],
+  "consumer_proposals": 26,
+  "movement_proposals": 22,
+  "source_or_consumer_writes": false,
+  "accepted_postfreeze_deltas": [
+    "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+    "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md"
+  ],
+  "unresolved_freshness_debt": [],
+  "T22_targets": 1,
+  "T22_failures": 0
+}

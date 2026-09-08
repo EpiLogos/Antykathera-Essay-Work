@@ -1,0 +1,18 @@
+{
+  "rows": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "current_sha256": "5ffbd410b41bd980612e08e105f8d1e9c26f8a5eb04ee0321ad9db3c1e939f27",
+      "change": "Parent appended process-dossier/process-science return paragraph; changed paragraph read in full, unchanged preceding whole reused. No change to three terms/four operations or dossier responsibility. Original packet/archive preserved.",
+      "read_scope": "full semantic content via prior full read plus exact appended paragraph",
+      "canonical_change_required": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "current_sha256": "268975c0bc13b7760129053e9e0fd8ef915a0032083923f5552f25bc34df3eea",
+      "change": "Parent inserted Process dossier/Process-science return after #5\u21920. Exact inserted paragraph fully read; three-motion distinction and separate implementation task agree with dossier. No dependent edit required.",
+      "read_scope": "prior full body plus complete new paragraph",
+      "canonical_change_required": false
+    }
+  ]
+}

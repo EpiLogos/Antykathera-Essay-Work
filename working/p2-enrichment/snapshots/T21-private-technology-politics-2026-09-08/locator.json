@@ -1,0 +1,186 @@
+{
+  "record_id": "history-technology-politics",
+  "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+  "existing": true,
+  "reference_rows": [],
+  "minimum_declared_argument_depth": [],
+  "source_houses": [
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-2013-undiscovered-self-routledge/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/SOURCE.md"
+  ],
+  "etymology_declared_targets": [],
+  "edges": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/SOURCE.md",
+      "raw_target": "../../sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-2013-undiscovered-self-routledge/SOURCE.md",
+      "raw_target": "../../sources/psychology/jung/jung-2013-undiscovered-self-routledge/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/SOURCE.md",
+      "raw_target": "../../sources/psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/SOURCE.md",
+      "raw_target": "../../sources/political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md",
+      "raw_target": "../../sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md",
+      "raw_target": "../../sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE.md",
+      "raw_target": "../../sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md",
+      "raw_target": "../../sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md",
+      "raw_target": "../../sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "raw_target": "../../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md",
+      "raw_target": "../../sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+      "raw_target": "../../sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+      "raw_target": "../../sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+      "raw_target": "../../sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md",
+      "raw_target": "../../sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md",
+      "raw_target": "../../sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md",
+      "raw_target": "../../sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    }
+  ],
+  "input_hashes": {
+    "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md": "4cecd8547f480e0b70347a227386bac57186045fcd598b5ed36ebaf858543664",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md": "8f7002c71746048dafcb8a704a7fdfdcf0631d05b25483c9d9c2379e4295667a",
+    "submission-package/essay/symbolon/episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md": "54530d0473caccbd91bac6e673db042d0776e1591c64553b28c02b56d2929ea5",
+    "submission-package/essay/symbolon/episteme/sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE.md": "7e16884cd2ec4f366a975c6b1c50fdb52f31fae101b7b837ccf8b146f2f69539",
+    "submission-package/essay/symbolon/episteme/sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md": "fa3b4215eada959fb063110de48778b45c6e401bc69d7737a8a91029cf46db2a",
+    "submission-package/essay/symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md": "e81acca89c348ff1b7f282281e569f42e0a8cc583316869aa4e92096799103ef",
+    "submission-package/essay/symbolon/episteme/sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md": "a1cfae37fae8fe4076fd1afbcef5f83696fb1dbc2179570835297cd4e940c000",
+    "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md": "ac04ab818913752ae1e6510f567670403cc0247233099ada8f93732f27698f0a",
+    "submission-package/essay/symbolon/episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md": "b3a7f8e13f69d50a74d12ef4c166e3579eaa3cc4d9371841ec9ff369fcef5436",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md": "7d13d24224f554474e62be042ccf2edaa06752acdbbe5524a0b6175489be7e27",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md": "51ff6900831251349fa739c2be42483e9633f607ba78f4db28a9addcf4d6d7bf",
+    "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md": "9ae36c258c04bcfd0d15ef53e61c551ee5efd4c75f8967a6865b3bf1431607b3",
+    "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md": "2760421b2c93292198af90cf7488148eeb0bfe80bd4511eaab0764b27e791622",
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/SOURCE.md": "e248740e5a3a0613701dbf112d4af6af245b016493ff1eaf10323a14b9524ec9",
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md": "bfc076cd18b5c56eb20710efac478bb2f3d880b3018e3e4926bb9d983590ec23",
+    "submission-package/essay/symbolon/episteme/sources/psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/SOURCE.md": "6227a4bf14a26e5be9b9dfaf9b8d76e4e7ffabc99ed07016098b4cb16102eaf1",
+    "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-2013-undiscovered-self-routledge/SOURCE.md": "fc6b2971732e365f675ae7de497d4d76503b06170877af070a51bdd40fdb3aba",
+    "submission-package/essay/symbolon/episteme/sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/SOURCE.md": "9641a0c545976002edbea571d72f8a9757acc9d77ede1ff2b3e8ecb92e9b59de"
+  },
+  "standing": "locator only; actual whole-field operation/source reading and any further bearing depth must be recovered before dispatch"
+}

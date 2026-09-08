@@ -1,0 +1,48 @@
+{
+  "parent_record_id": "history-language-law-nation-centralisation",
+  "admission": {
+    "record_id": "history-language-law-nation-centralisation",
+    "title": "language-law-nation-centralisation",
+    "register": "episteme",
+    "record_type": "history",
+    "canonical_home": "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/HISTORY.md",
+    "wave": "T21",
+    "disposition": "enrich-existing-history",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#6-episteme-structural-census",
+      "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md"
+    ],
+    "packet_status": "awaiting-complete-36-depth-review"
+  },
+  "inherited_queue_row": {
+    "record_id": "history-language-law-nation-centralisation",
+    "title": "language-law-nation-centralisation",
+    "register": "episteme",
+    "record_type": "history",
+    "canonical_home": "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/HISTORY.md",
+    "wave": "T21",
+    "disposition": "enrich-existing-history",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#6-episteme-structural-census",
+      "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md"
+    ],
+    "packet_status": "awaiting-complete-36-depth-review",
+    "binding_state": "target-inputs-pending",
+    "dispatch_status": "held-folder-structure-discussion"
+  },
+  "user_override": "Develop DEVELOPMENT.md companion only; protected HISTORY byte-unchanged after migration. User execution supersedes inherited folder-discussion hold.",
+  "branch_ids": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI",
+    "VII",
+    "VIII",
+    "IX",
+    "X",
+    "XI",
+    "XII"
+  ]
+}

@@ -1,0 +1,33 @@
+# Source and scope proposals — O:I dossier
+
+Preparation only. No source, protected NOTES, consumer, shared census/queue, product repository or historical packet was edited.
+
+## Exact existing-source metadata proposals
+
+- `submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md`: replace stale `local_copy: /Users/admin/Documents/4-2 Techne/docs/42-Techne-Sovereign-Commons-Architecture.pdf` with actual `/Users/admin/Central/Work/projects/4-2-Techne/docs/42-Techne-Sovereign-Commons-Architecture.pdf`. Actual17-pagePDF is bound in this packet. Proposed cards: PDF6 layer table (seven listed despite introductory six), PDF7–8 gateway/sessions/Agora, PDF9–10 Hastings/OBX proposed pilot and subsidiary governance, PDF11–12 dated maturity/roadmap claims, PDF13–15 economic branches/report historical claims, PDF16–17 governance/federation/artifact return. Do not turn report assertions into implementation evidence or print pagination.
+- `submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md`: actual raw counterpart is `working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md`,309lines fully read; stale absolute Documents path is not evidence of loss. Future local_copy repair only; no rewriting historical revision proposals into current authorial decisions. The full source's provisional-anchor/scapegoat bifurcation supports dossier§1/§5, with later ratification governing historical proposals.
+- `submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md`: actual raw counterpart is `working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md`,124lines fully read. Future local_copy repair and optional fixed internal passage anchors for eightfold, recursive image/interpreter, cross-time/logics, objective internality and entitled-attractor sections. Native derived/argued standing must remain; cross-register source warrants separate.
+
+## Additional canonical admission proposal
+
+O:I founding/product/co-internality contracts and executable floor currently have exact private snapshots and provenance; this run creates no new SOURCE. Proposed canonical technical source scope is the whole O:I responsibility/source-projection relation, in an existing technical domain selected through source_resolver/taxonomy rather than presumed nesting. Exact inputs:
+
+- `/Users/admin/Central/Work/O-I/docs/positions/FOUNDING-POSITIONS.md`: full544lines; committed head `c1ce2db81eec3b03a9bdff0a1accf8ece4acf903`; authored position/design/research, not universal implementation proof.
+- `/Users/admin/Central/Work/O-I/docs/CANONICAL-PRODUCT-FIELD.md`: full738lines; inspected working file SHA`bb1cfcf38abf8d16095cdff5af0424aea5f120b695b64e093500523a0a105456`; differs from committed head. Sept6 S=CLI/M′=desktop amendment is local authored-contract evidence. Never link the head as though those uncommitted bytes were present there.
+- `/Users/admin/Central/Work/O-I/docs/OBJECTIVE-CO-INTERNALITY.md`: full331lines at same committed head. SharedField/Contribution/Encounter contract. Polylogos/Moltbook case descriptions stay bounded by the independently canonical Agentworld source, not promoted by a product description.
+- `/Users/admin/Central/Work/O-I/shared-field/social.mjs`: full281lines, committed head same, SHA`e416cd91b84174125bd32f416d8cf0b7d51f571ec39ef8d1534b3e2e4df2ba5c`. Six direct function checks passed; constructors validate structured assertions and do not authenticate their truth. No full system, source-acceptance, hosted admission or UI audit.
+- `working/harmonisation-2026-08-18-objective-internality-capstone/SOURCE-AND-AUTHORITY-MAP.md`: full122lines, dated2026-08-19 audit with exactsevenproductpins. Reported historical implementation checks must not become September8 current status.
+- `working/harmonisation-2026-08-18-objective-internality-capstone/SYMBOLON-OI-WIKI-CONTRACT.md`: full802lines; source→Projection→encounter→revision→proposal→explicit acceptance/divergence. Its read/navigation floor and named higher-order authoring gaps are dated; this run neither proves them still absent nor claims them completed.
+
+## Specific surviving source/evidence gates
+
+- Chang2014 selected edition: SOURCE has no passage cards. Full protected NOTES read through p143; p99 AI vocation, pp110–121 model/harness complements/harmonisation are Taylor's authorship, not Chang's AI claims. Physical printing/pagination and nested Nishida/Jung/Heidegger quotations remain independently uncollated; no copied quotation was printed as verified.
+- Van Eenwyk1997: full SOURCE/NOTES read; pp65–73 authorial encounter and copied book leads have no admitted passage cards. Source attribution and Taylor's nativeX/x remain distinct.
+- Jung Aion: current SOURCE full reading reused from law snapshot by identical hash. Existing consulted-carrier scholarship stays available; selected-printing/quotation limitations remain precisely with the house. No blanket missing-Aion claim.
+- Bratton Agentworld: full canonical SOURCE reused by identical hash. Composite scenarios, agent-produced glossary, dialogical Polylogos and attention-mediated Moltbook, roles/institutions, talking-mirror witness and shared inheritance are distinct. No experimental result invented.
+- Bradley–Terry/InstructGPT/DPO/PyTorch source inputs required by E-coverage: fully read in technology preparation and reused at identical hashes. The technical history remains the developed home for that mechanical sequence. Their comparative/gauge/selection offices inform the O:I judgment-field responsibility; dossier neither copies historical development nor upgrades InstructGPT's absent selected passage.
+- Six product centres, six research vectors, six E fields, eight native determinations, 144 product-face relations and 36A/64C census remain different accountings. All4inherited reference rows preserved in their ratified subordinate offices. No extra dossier/map admitted.
+
+## Consumer proposals
+
+`consumer-return-proposals.json`:20A/C plus6E exact targets and operations. `movement-return-proposals.json`:22exact Movement targets, retaining early native/psychic obligations and the full37–48technical/terminal sequence. Proposed returns only; parent owns propagation. E4's parent-added process paragraph was read after freeze and is captured in `freshness-addendum.json`; it changes no dossier operation. No parent-owned process/Bohm/Baudrillard draft was opened for this addition.

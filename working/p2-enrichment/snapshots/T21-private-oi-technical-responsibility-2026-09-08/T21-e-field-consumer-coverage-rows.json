@@ -1,0 +1,487 @@
+[
+  {
+    "row_id": "T21-dossier-oi-technical-responsibility",
+    "row_kind": "development-packet",
+    "parent_row_id": "E6-labour",
+    "field_path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+    "branch_path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORY.md",
+    "operation": "Delegated labour distributes capacity and return; Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+    "evidence_register": 3,
+    "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+    "occurrences": [],
+    "consumers": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "record_id": "A14",
+        "operation": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+        "return_path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "record_id": "A26",
+        "operation": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+        "return_path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+        "record_id": "A28",
+        "operation": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+        "return_path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+        "record_id": "A29",
+        "operation": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+        "return_path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+        "record_id": "A30",
+        "operation": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+        "return_path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+        "record_id": "A31",
+        "operation": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+        "return_path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+        "record_id": "A33",
+        "operation": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+        "return_path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+        "record_id": "C39",
+        "operation": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+        "return_path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+        "record_id": "C40",
+        "operation": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+        "return_path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+        "record_id": "C42",
+        "operation": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+        "return_path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+        "record_id": "C44",
+        "operation": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+        "return_path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+        "record_id": "C45",
+        "operation": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+        "return_path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+        "record_id": "C53",
+        "operation": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+        "return_path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+        "record_id": "C54",
+        "operation": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+        "return_path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+        "standing": "authored scoped development consequence; not proof of an already propagated edge"
+      }
+    ],
+    "consumer_consequence": "Make authorisation, source, projection, contribution, encounter and return separately inspectable in a technical judgment.",
+    "return_operation": "Return the developed carrier to its exact historical/source branch, then to submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md; retain the source-specific result as a new participant rather than a generic example.",
+    "development_status": "ratified-admitted-home; body-absent; inputs-recoverable",
+    "next_development_scope": "Develop the six O:I responsibility centres as transverse offices, not stages. Required section: source/projection/contribution/KnowledgeRoute. Use current authored contracts plus real implementation evidence, and distinguish Agentworld scenario from a deployment finding.",
+    "independent_provenance_inputs": [
+      {
+        "source_id": "bratton-2026-agentworld-brief",
+        "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "42-techne-2026-sovereign-commons",
+        "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "bradley-terry-1952-paired-comparisons",
+        "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "ouyang-et-al-2022-instructgpt",
+        "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "rafailov-et-al-2023-dpo",
+        "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "pytorch-2-9-softmax-argmax-api",
+        "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      }
+    ],
+    "binding_reference_rows": [
+      3,
+      7,
+      21,
+      79
+    ],
+    "packet_readiness": "ready-for-bounded-development-from-named-inputs; not quote-ready or historically-complete"
+  },
+  {
+    "record_id": "dossier-oi-technical-responsibility",
+    "record_type": "dossier",
+    "title": "O:I technical responsibility, source and projection",
+    "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+    "exists": false,
+    "sha256": null,
+    "line_count": 0,
+    "word_count": 0,
+    "queue_source_houses_count": 0,
+    "queue_binding_state": "target-inputs-pending",
+    "independent_provenance_inputs": [
+      {
+        "source_id": "chung-yuan-chang-tao-a-new-way-of-thinking-2014",
+        "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/NOTES.md"
+      },
+      {
+        "source_id": "taylor-2026-revision-notes-trust",
+        "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": null
+      },
+      {
+        "source_id": "taylor-2026-symbolon-dynamics",
+        "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": null
+      },
+      {
+        "source_id": "42-techne-2026-sovereign-commons",
+        "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": null
+      },
+      {
+        "source_id": "bratton-2026-agentworld-brief",
+        "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": null
+      },
+      {
+        "source_id": "ostrom-2009-beyond-markets-states-nobel-lecture",
+        "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": null
+      },
+      {
+        "source_id": "jung-1978-aion-cw9-2",
+        "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": null
+      },
+      {
+        "source_id": "van-eenwyk-1997-archetypes-strange-attractors",
+        "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/NOTES.md"
+      }
+    ],
+    "declared_E_targets": [
+      "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md"
+    ],
+    "declared_minimum_A_depth": [
+      "A21",
+      "A28",
+      "A29",
+      "A32"
+    ],
+    "reference_disposition_rows": [
+      3,
+      7,
+      21,
+      79
+    ],
+    "binding_disposition_pointer": {
+      "path": "working/p2-enrichment/receipts/T21-HOME-RECONCILIATION-2026-09-08.json",
+      "json_pointer": "/body_records/122"
+    },
+    "input_locator_pointer": {
+      "path": "working/p2-enrichment/T21-record-input-locators.json",
+      "json_pointer": "/records/122"
+    },
+    "existing_body_debts": [],
+    "semantic_row_ids": [
+      "T21-dossier-oi-technical-responsibility"
+    ],
+    "status": "admitted-home-without-body",
+    "next_development_scope": "Develop the six O:I responsibility centres as transverse offices, not stages. Required section: source/projection/contribution/KnowledgeRoute. Use current authored contracts plus real implementation evidence, and distinguish Agentworld scenario from a deployment finding.",
+    "additional_independent_provenance_inputs": [
+      {
+        "source_id": "bratton-2026-agentworld-brief",
+        "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "42-techne-2026-sovereign-commons",
+        "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "bradley-terry-1952-paired-comparisons",
+        "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "ouyang-et-al-2022-instructgpt",
+        "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "rafailov-et-al-2023-dpo",
+        "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "pytorch-2-9-softmax-argmax-api",
+        "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      }
+    ]
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+    "materialised": false,
+    "standing": "Binding destination retained; existence refreshed, semantic development not certified.",
+    "role": "primary-depth",
+    "section": "4:2 Techn\u0113 / sovereign-commons lineage",
+    "record_id": "dossier-oi-technical-responsibility",
+    "exists_now": false,
+    "materialised_in_binding_ledger": false
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+    "record_id": "dossier-oi-technical-responsibility",
+    "materialised": false,
+    "standing": "Binding destination retained; existence refreshed, semantic development not certified.",
+    "role": "comparative-depth",
+    "path_authority": "working/p2-enrichment/census.json",
+    "section": "Agentic individuation crosswalk",
+    "exists_now": false,
+    "materialised_in_binding_ledger": false
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+    "record_id": "dossier-oi-technical-responsibility",
+    "materialised": false,
+    "standing": "Binding destination retained; existence refreshed, semantic development not certified.",
+    "role": "bounded-functional-depth",
+    "path_authority": "working/p2-enrichment/census.json",
+    "section": "Computational vimar\u015ba and reflective-field feedback",
+    "exists_now": false,
+    "materialised_in_binding_ledger": false
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+    "record_id": "dossier-oi-technical-responsibility",
+    "materialised": false,
+    "standing": "Binding destination retained; existence refreshed, semantic development not certified.",
+    "role": "constructive-proposal",
+    "path_authority": "working/p2-enrichment/census.json",
+    "section": "Anchored ground / generation / evaluation architecture",
+    "exists_now": false,
+    "materialised_in_binding_ledger": false
+  },
+  {
+    "record_id": "dossier-oi-technical-responsibility",
+    "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+    "register": "episteme",
+    "role": "supporting-depth",
+    "materialised": false,
+    "standing": "census-admitted-planned-target",
+    "path_authority": "working/p2-enrichment/census.json"
+  },
+  {
+    "record_id": "dossier-oi-technical-responsibility",
+    "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+    "register": "episteme",
+    "role": "supporting-depth",
+    "materialised": false,
+    "standing": "census-admitted-planned-target",
+    "path_authority": "working/p2-enrichment/census.json"
+  },
+  {
+    "record_id": "dossier-oi-technical-responsibility",
+    "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+    "exists": false,
+    "sha256": null,
+    "packet_status": "scope-and-inputs-ready; independent-source-development-required",
+    "preserve_existing_body": false,
+    "required_current_body": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+    "paired_HISTORY": null,
+    "semantic_row_ids": [
+      "T21-dossier-oi-technical-responsibility"
+    ],
+    "source_inputs": [
+      {
+        "source_id": "chung-yuan-chang-tao-a-new-way-of-thinking-2014",
+        "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/NOTES.md"
+      },
+      {
+        "source_id": "taylor-2026-revision-notes-trust",
+        "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": null
+      },
+      {
+        "source_id": "taylor-2026-symbolon-dynamics",
+        "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": null
+      },
+      {
+        "source_id": "42-techne-2026-sovereign-commons",
+        "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": null
+      },
+      {
+        "source_id": "bratton-2026-agentworld-brief",
+        "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": null
+      },
+      {
+        "source_id": "ostrom-2009-beyond-markets-states-nobel-lecture",
+        "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": null
+      },
+      {
+        "source_id": "jung-1978-aion-cw9-2",
+        "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": null
+      },
+      {
+        "source_id": "van-eenwyk-1997-archetypes-strange-attractors",
+        "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+        "relationship": "independently recoverable declared body/consumer source input; not evidence certification",
+        "locator_path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+        "exists": true,
+        "protected_notes_path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/NOTES.md"
+      },
+      {
+        "source_id": "bratton-2026-agentworld-brief",
+        "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "42-techne-2026-sovereign-commons",
+        "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "bradley-terry-1952-paired-comparisons",
+        "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "ouyang-et-al-2022-instructgpt",
+        "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "rafailov-et-al-2023-dpo",
+        "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      },
+      {
+        "source_id": "pytorch-2-9-softmax-argmax-api",
+        "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md",
+        "standing": "Required independent provenance input; locate and read full SOURCE plus protected NOTES, verify relevant passage. Existing house does not certify this operation."
+      }
+    ],
+    "primary_source_tasks": [
+      {
+        "row_id": "T21-dossier-oi-technical-responsibility",
+        "task": "Develop the six O:I responsibility centres as transverse offices, not stages. Required section: source/projection/contribution/KnowledgeRoute. Use current authored contracts plus real implementation evidence, and distinguish Agentworld scenario from a deployment finding."
+      }
+    ],
+    "reference_binding_rows": [
+      3,
+      7,
+      21,
+      79
+    ],
+    "minimum_declared_A_depth": [
+      "A21",
+      "A28",
+      "A29",
+      "A32"
+    ],
+    "historical_reading_rule": "Whole history first, then exact dated branch and source. Never replace a history with taxonomy or a mature E whole with its nearest word."
+  }
+]

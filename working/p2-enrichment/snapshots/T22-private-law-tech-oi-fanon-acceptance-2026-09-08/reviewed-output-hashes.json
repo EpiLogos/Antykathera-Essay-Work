@@ -1,0 +1,38 @@
+[
+  {
+    "path": "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT.md",
+    "sha256": "b4e91933e89523c1f9f4c48460d30ac5c171f5c1cc5460aaf76490dc25769a26",
+    "bytes": 40001,
+    "acceptance_change": "status only"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md",
+    "sha256": "73053d44b6972fe92c61a5e194f3ce77eef000ae818841a3116d0d65981a9041",
+    "bytes": 24956,
+    "acceptance_change": "status only"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+    "sha256": "da6fb81fa83006170daddf52ac56e9ca2d62b907696c779dbc6a332c74c11384",
+    "bytes": 29515,
+    "acceptance_change": "status only"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/fanon/fanon-1952-peau-noire-masques-blancs/SOURCE.md",
+    "sha256": "839784325edb231617a7aca197c1894c195caaf1a6b3274aee0e092dedc6b7b7",
+    "bytes": 12731,
+    "acceptance_change": "unchanged reviewed output"
+  },
+  {
+    "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+    "sha256": "a7609c652d7e6eba7edcbd43f5f74291d28f0ae0fe345d4f6ed646bb55eead82",
+    "bytes": 20753,
+    "acceptance_change": "status only"
+  },
+  {
+    "path": "working/sources-texts-references/primary-texts/fanon/fanon-1952-peau-noire-masques-blancs/peau-noire-masques-blancs-tremblay-2011-fr.pdf",
+    "sha256": "a1dc1f996b93017d32b4679eb0838311876ee7cfc53f1ee8ade74ec67afdf123",
+    "bytes": 1315614,
+    "acceptance_change": "unchanged reviewed output"
+  }
+]

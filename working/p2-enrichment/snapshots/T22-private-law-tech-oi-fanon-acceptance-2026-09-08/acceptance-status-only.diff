@@ -1,0 +1,48 @@
+--- submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT.md before acceptance
++++ submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT.md accepted
+@@ -6,7 +6,7 @@
+ claim_status: Argued
+ claim_status_scope: "Inherited historical-relational argument; documentary verification and unresolved transmission claims specified locally"
+ source_relation: "Paraphrased documentary witnesses; Argued from the mature E3/E2/E6 fields; inherited source programmes distinguished"
+-status: developed-draft-awaiting-parent-T22
++status: developed-reviewed-T22
+ protected_history: HISTORY.md
+ ---
+ 
+
+--- submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md before acceptance
++++ submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md accepted
+@@ -5,7 +5,7 @@
+ register: episteme
+ claim_status: Argued
+ source_relation: "Paraphrased source-house witnesses; Argued historical and relational synthesis; Offered technical and institutional responses"
+-status: developed-draft-awaiting-parent-T22
++status: developed-reviewed-T22
+ protected_history: HISTORY.md
+ ---
+ 
+
+--- submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md before acceptance
++++ submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md accepted
+@@ -5,7 +5,7 @@
+ register: episteme
+ claim_status: Argued
+ source_relation: "Argued authorial technical responsibility; Paraphrased dated product contracts and bounded source witnesses; Offered engineering comparisons"
+-status: developed-draft-awaiting-parent-T22
++status: developed-reviewed-T22
+ implementation_evidence: "2026-09-08: six direct local SharedField validation checks; no whole-system deployment claim"
+ ---
+ 
+
+
+--- submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md before acceptance
++++ submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md accepted
+@@ -5,7 +5,7 @@
+ register: mytheme
+ domain: narrative
+ claim_status: Argued
+-status: developed-draft-awaiting-parent-T22
++status: developed-reviewed-T22
+ human_amplification: relation-local
+ source_relation: Paraphrased
+ source_readiness: selected-French-material-housed-English-translation-unselected

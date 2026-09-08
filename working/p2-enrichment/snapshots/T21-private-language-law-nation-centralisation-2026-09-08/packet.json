@@ -1,0 +1,309 @@
+{
+  "parent_record_id": "history-language-law-nation-centralisation",
+  "target": "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT.md",
+  "scope": "User-authorized companion; no new census identity; protected HISTORY untouched",
+  "inputs": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/HISTORY.md",
+      "sha256": "fce96725ed4bb5c874ef82bffdd5259546d24b0b8455ccce931f316858e5377d",
+      "read_scope": "protected owning history full read"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "sha256": "97b18aceeb936488555d0bc699b11d48cc397d5db18b994fb71ec456154b3489",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A01.md",
+      "sha256": "cf90a1fb09c619f8829858a7c5dda50e8f29abf61edf1a2e142dcbf4f77f63e8",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "sha256": "19585deb79a5ec0dabb39493e413e0579e313adeab68051a783b6ad737584ab8",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A25.md",
+      "sha256": "eaeeae9754e349e495e21dd60bf83d380fa3eaac3d54b9d33b779ec72775139b",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A05.md",
+      "sha256": "d7992ff692cd1b0babef8b84157438fa89c92e5eefaa2a6b9752816e5ca23da9",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A31.md",
+      "sha256": "2e8a2e463260bfd1e194037a5bba48cddfb06aaad1d8fc71e87003de0d10d1c7",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "sha256": "7cfe91ec6423eff272001a99a672cc1e3d02b3eb5cc35ae9e142077660912779",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "sha256": "70e04921c5c97b94a3068eafe5b1595e3bfa4f537076f75376503628237f0f8a",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A04.md",
+      "sha256": "0b65287f0c7a7d5a0206f003b2cdbe4e4afd7025f104ce60bfec897b7ef228fa",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A30.md",
+      "sha256": "72f7883f3955b05bb3448dcdfee87b5f0cd4e76d16de37fe922b20f995643e62",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A20.md",
+      "sha256": "31e8980f2955a784f02b5f84b1e6c63bdcf3a22cb25e24afec678c19a166c2c2",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A14.md",
+      "sha256": "0a198ce301265646b0fa5f438f5e035d14fe2de74dcc246ae4a6c96e714808ee",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A34.md",
+      "sha256": "d3a568de103caa2a6f87231b435a661a014292b96f4ca1b8014086f653fd6920",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A10.md",
+      "sha256": "bab78b321241cb345013760b9e68011086eb8380ba640d98a7c525e87e7df17a",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A24.md",
+      "sha256": "8ec2f6a4ee88586748f4519523c84d2ca141c37d04c86f785a001dccfa527c5b",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A07.md",
+      "sha256": "8f6aae272cc86877286b844e6fa65911c05885d3e50b388179ed623294406e01",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A33.md",
+      "sha256": "61ffc1d702894cd6f35cda9b489cf5da6a8e4103c1153e495ce23917cd4c6285",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A17.md",
+      "sha256": "f524699d75f93c839c8acdff6430c91b591d8266c3731bafca0cbcd49d940c9a",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "sha256": "12d3a0999ffec60d963f055cdbb1a857025a70f2a7bb46641eca20bb187b9b41",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "sha256": "8ec14926b104bd194f8c44182c3f145d212f6071ac03dff81dedf91d0fe0f9e8",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "sha256": "2480e3c0322aa54e36bcd924ec3e60cb6e3430372125ad215d12f56b583080e0",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A02.md",
+      "sha256": "76e00fc0f74e87943001d805b6864674755b716d32550a33d2def2a546a0b927",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A12.md",
+      "sha256": "a4bfa473d034e31cd6cbd7afc45b96236929665a4dd42f4e3f056e3973c58b39",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "sha256": "9542b35c8445445bc02ebe6b1a1ba2ccf67f2aa7da50335fbe3180d595c1eb63",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A06.md",
+      "sha256": "aa37546fe2562ff16391e2c453022ae597c08cc431ec6c9660891d6c30ffbbad",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "sha256": "8d7f5d6f98f61bb3011360c0ef68b0681989c97a8f224c2c549668ef167ca428",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A22.md",
+      "sha256": "cc4786c82ef3cb7ea0e799b910fec2ec50108b3cd2316635e4ac4f7ddb06c3d3",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "sha256": "3a546007861293be90c4e9efc444a6aee9f811dfce31116ee31ee74b386e9a45",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A29.md",
+      "sha256": "df16db3f0dc451847aab076658d7050e9ec888cad3618bd975c3162204c6a1ee",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A09.md",
+      "sha256": "7bbb367d7fe465f1d22b962495426f1a89d462d6f6c7fe4e3636dcd37978af5f",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A19.md",
+      "sha256": "e9b39e002b667014c970dd287f2301c9f9a80197762283e5062274ea9db64861",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A08.md",
+      "sha256": "0665c59d9039ebe87706ea25faa1d85a66fc69b31ba5506f17523a04b1449548",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A28.md",
+      "sha256": "a998591196094d47e4cf8c2e52beccfae29e85b7f95752c35daf1a0f16ae9b1e",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md",
+      "sha256": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "submission-package/essay/quilt/ql-expression-grammar.md",
+      "sha256": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "sha256": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+      "sha256": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "submission-package/essay/quilt/agentworld-response-matrix.md",
+      "sha256": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+      "sha256": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "read_scope": "prior full reading reused; unchanged hash"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/francois-i/francois-i-1539-villers-cotterets/SOURCE.md",
+      "sha256": "883f50060f950bcf2d9da4b7cbb6f9a9619ae0497b900999faacf8a7634e0e0e",
+      "read_scope": "full SOURCE read; sibling NOTES absent"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/gregoire/gregoire-1794-unite-de-langue/SOURCE.md",
+      "sha256": "c320ebc31e2f8d13e981f8dd660d55dfef653c41fddba8d9e1cbfcf4f9686318",
+      "read_scope": "full SOURCE read; sibling NOTES absent"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md",
+      "sha256": "da6d75639fb840b0f2c7ebb6e2de3b4d6d0c36045f058bf56799581ab3faff40",
+      "read_scope": "full SOURCE read; sibling NOTES absent"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/lewis-short/lewis-short-1879-latin-dictionary/SOURCE.md",
+      "sha256": "bde72efedfc9e200f3ec4cbf65c6e3860e26dd004a5418d78166293c5753c8a8",
+      "read_scope": "full SOURCE read; sibling NOTES absent"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+      "sha256": "8d99e9766fda076933765f80eb5b0fb1ba61308dbecd80b2b7813fa1524f7483",
+      "read_scope": "full SOURCE read; sibling NOTES absent"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "sha256": "de19d10715c9eec17482da51fb25773fdfe7c9bd09f63f521bd56f33e7c3695f",
+      "read_scope": "full relevant E-field reading"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+      "sha256": "ec8f32cb86117c0c7efa4c0c894f44f1d6c686008c34e2f8fa426a9e7a8ea815",
+      "read_scope": "full relevant E-field reading"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORICAL-BRANCHES.md",
+      "sha256": "a210b651d31a32fef9f1e0799522e6566eecc3a051ff7ead3960ab7876d82c0d",
+      "read_scope": "full relevant E-field reading"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "sha256": "8d2ffb1fad4470ec382e0974e5faeed3fe9b7b5d248f295ce3d9dc2f18d3f384",
+      "read_scope": "full relevant E-field reading"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORY.md",
+      "sha256": "77a17b6245991dbc7088dd2bf6bc97b1ac9ee2b2819da47979d5e1e9e496dcb5",
+      "read_scope": "full relevant E-field reading"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORICAL-BRANCHES.md",
+      "sha256": "187e685c87019266840acee526fa124303c6800b05f9a58637bac299a0aeed76",
+      "read_scope": "full relevant E-field reading"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "sha256": "d60a4098b36a7dccb08620b089f89f19e36e5c20b88827a3c8c5719298f359d7",
+      "read_scope": "full relevant E-field reading"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORY.md",
+      "sha256": "c977f25889efa689688f57abc7c4e8a2323c77669a9d61ec02f719a45c3e7f81",
+      "read_scope": "full relevant E-field reading"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md",
+      "sha256": "c8a4683a02ba59c8fbffad5b9eb1f06603941212e5d93bbae8a14f9490f037f0",
+      "read_scope": "full relevant E-field reading"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md",
+      "sha256": "bf117e661c3e3fc79b6606837b99eb8830a63aef5b3ce9ced9fec5a0c4d5d6ae",
+      "read_scope": "full authorial programme reading"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md",
+      "sha256": "e81acca89c348ff1b7f282281e569f42e0a8cc583316869aa4e92096799103ef",
+      "read_scope": "full SOURCE read; NOTES absent"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+      "sha256": "bfc076cd18b5c56eb20710efac478bb2f3d880b3018e3e4926bb9d983590ec23",
+      "read_scope": "full SOURCE read; NOTES absent"
+    }
+  ],
+  "external_reading": "Named scopes in DEVELOPMENT; acquisition is not a claim of full reading",
+  "validation": "Private companion binding; not generic queue packet validation"
+}

@@ -1,0 +1,210 @@
+{
+  "record_id": "dossier-oi-technical-responsibility",
+  "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+  "existing": false,
+  "reference_rows": [
+    3,
+    7,
+    21,
+    79
+  ],
+  "minimum_declared_argument_depth": [
+    "A21",
+    "A28",
+    "A29",
+    "A32"
+  ],
+  "source_houses": [
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md"
+  ],
+  "etymology_declared_targets": [
+    "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+    "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+    "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+    "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md"
+  ],
+  "edges": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/concepts/reference-notes/4-2-techne-sovereign-commons.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+      "raw_target": "/Users/admin/Documents/4-2 Techne/docs/42-Techne-Sovereign-Commons-Architecture.pdf",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "target": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "target": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "target": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "relation": "markdown-link",
+      "origin": "markdown-link",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "raw_target": "bratton-2026-agentworld-brief",
+      "relation": "supported-by",
+      "origin": "source_ids",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "target": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "target": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "raw_target": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD",
+      "relation": "wikilink",
+      "origin": "wikilink",
+      "resolved": true
+    }
+  ],
+  "input_hashes": {
+    "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md": "b29ad091014a4089d7c5ded52bfe979e43ef3450fd67aa51f139cd6afcd750bf",
+    "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md": "7e3b051cda5a1170d5a666d8fe5857855b504b0cf3733d11e2f0dfed13b19836",
+    "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md": "ce95f291506b6fa608d398a2c4dc42ced9d6a5feb1d9b2ce188dc574a0441d0d",
+    "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md": "67a86b880bb9ee0b3acf974beee560f5ad9817902d9e99c30ff1b63f66b53654",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/4-2-techne-sovereign-commons.md": "f3ec19d3a15d7b0cccf3f854fae3084c52e2f035fa50490090cf9c6e6d12fc8b",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/agentic-individuation-crosswalk.md": "96909312d5fc43fe01d0b319e91f3cad07000706950a771bf029fc0a2b5ac724",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/computational-vimarsa.md": "cab8e058f2fdefc7497400f36a74540ed48c7d85101d8ee9aece7c9ef6743381",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/trika-alignment-stack.md": "f83e63ee4883772bba134e687cbd397c3b6c785834681e00ef403c5e0045199f",
+    "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md": "1c1eb2a47466036834b6963fa4fbb72a36b3f1531fd24b559276a01db1c36646",
+    "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md": "bd11368ddfa778184f352c976492338c9fca449ffa4822e1f59ac77e57cd3980",
+    "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md": "0bbb5ef1fac69d46a68d05cb1d32b471c48147213e4d610183f003b5db78b343",
+    "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md": "1d7b68a74bd23d8ab4ff5faf397bf4269f9b58d3fc2bc4aada7397fa2876680a",
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md": "447c5bcec907d863542b98c6b8438debfa38baf81f6cfceacba251fabea32b2d",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md": "ca62d327f1f4d53424310e66c00aaa185ebcacb959d90fac3d7c5c081b46a425",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md": "0976dcd50c7294983866760c2938509c0d296a4917be9516792ec9ec329d37f7",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md": "7d13d24224f554474e62be042ccf2edaa06752acdbbe5524a0b6175489be7e27",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md": "51ff6900831251349fa739c2be42483e9633f607ba78f4db28a9addcf4d6d7bf",
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md": "bfc076cd18b5c56eb20710efac478bb2f3d880b3018e3e4926bb9d983590ec23",
+    "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md": "a4e26ad6965a3fa99fd61c51565f90a1e349ba96b6014276ce60005eb3e8249b",
+    "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md": "9895d4ab2ee0bdfecfe0f0951fe2b1a176467d42ada9f7013c8a915498ba6bb9"
+  },
+  "standing": "locator only; actual whole-field operation/source reading and any further bearing depth must be recovered before dispatch"
+}

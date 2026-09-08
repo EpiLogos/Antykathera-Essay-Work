@@ -1,0 +1,116 @@
+[
+  {
+    "key": "lunel-letter",
+    "url": "https://geniza.princeton.edu/en/documents/19297/",
+    "path": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/lunel-letter.html",
+    "sha256": "3a1cd9d61c06222e43624735f58e542ae696983a15eb6db4ec3f5a3ff1e07d3d",
+    "status": "retrieved",
+    "format": "html",
+    "reading": "scope recorded separately, not presumed by acquisition"
+  },
+  {
+    "key": "paperclip-1946",
+    "url": "https://history.state.gov/historicaldocuments/frus1946v05/d448",
+    "path": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/paperclip-1946.html",
+    "sha256": "04eae7737309246fa1c28dd9172704ac4b44b5d3c1aede7c8dd055fe6a3abc90",
+    "status": "retrieved",
+    "format": "html",
+    "reading": "scope recorded separately, not presumed by acquisition"
+  },
+  {
+    "key": "gehlen-records",
+    "url": "https://www.archives.gov/iwg/about/press-releases/cold-war-spymaster-records.html",
+    "path": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/gehlen-records.html",
+    "sha256": "2c7cff823a1151d5030c203db752dfb59bfc77c32a4285cb844fa1e1807f3d81",
+    "status": "retrieved",
+    "format": "html",
+    "reading": "scope recorded separately, not presumed by acquisition"
+  },
+  {
+    "key": "manzoni-1868",
+    "url": "https://it.wikisource.org/wiki/Dell%27unit%C3%A0_della_lingua_e_dei_mezzi_di_diffonderla",
+    "status": "failed",
+    "error": "403 Client Error: Forbidden for url: https://it.wikisource.org/wiki/Dell%27unit%C3%A0_della_lingua_e_dei_mezzi_di_diffonderla"
+  },
+  {
+    "key": "manzoni-critical-catalogue",
+    "url": "https://digit-manzoni.divsi.unimi.it/opere/13",
+    "path": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/manzoni-critical-catalogue.html",
+    "sha256": "cedef348f15e73f9dff8582d90e3f360ccf1a6d8ec7c5401e7f97ec4ae70f96b",
+    "status": "retrieved",
+    "format": "html",
+    "reading": "scope recorded separately, not presumed by acquisition"
+  },
+  {
+    "key": "hanegraaff",
+    "url": "https://www.wouterjhanegraaff.net/rejected-knowledge",
+    "path": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/hanegraaff.html",
+    "sha256": "a45590fb30c9a49d9078d85c8ab8b9649f50ba75d94374baae8049cbf93f2df4",
+    "status": "retrieved",
+    "format": "html",
+    "reading": "scope recorded separately, not presumed by acquisition"
+  },
+  {
+    "key": "hanegraaff-publisher-excerpt",
+    "url": "https://assets.cambridge.org/97805211/96215/excerpt/9780521196215_excerpt.pdf",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='assets.cambridge.org', port=443): Max retries exceeded with url: /97805211/96215/excerpt/9780521196215_excerpt.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='assets.cambridge.org', port=443) at 0x10b3b87d0>, 'Connection to assets.cambridge.org timed out. (connect timeout=35)'))"
+  },
+  {
+    "key": "fichte-1808",
+    "url": "https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/ghdi:document-3596",
+    "path": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/fichte-1808.html",
+    "sha256": "2f82b0eed4d4c85573ec2e5e35f30aa655d2447864552a8e4ee4b95ce5b2f67a",
+    "status": "retrieved",
+    "format": "html",
+    "reading": "scope recorded separately, not presumed by acquisition"
+  },
+  {
+    "key": "reich-citizenship-1935",
+    "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/the-reich-citizenship-law-september-15-1935-and-the-first-regulation-to-the-reich-citizenship-law-november-14-1935.pdf",
+    "path": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/reich-citizenship-1935.pdf",
+    "sha256": "a6163374111db820d84e8e1b9f88a86d0a3b99c65c0f43e5dd1a07d483ee1c6c",
+    "status": "retrieved",
+    "format": "pdf",
+    "reading": "scope recorded separately, not presumed by acquisition"
+  },
+  {
+    "key": "welsh-blue-books-excerpt",
+    "url": "https://www.peoplescollection.wales/media/6108/download?attachment=",
+    "path": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/welsh-blue-books-excerpt.pdf",
+    "sha256": "3ff714bfc83c290d0c350a2bed2c1c9568bc01a19baabba7963d6ef303473f14",
+    "status": "retrieved",
+    "format": "pdf",
+    "reading": "scope recorded separately, not presumed by acquisition"
+  },
+  {
+    "key": "palestine-mandate",
+    "url": "https://digitallibrary.un.org/record/829707/files/A_292-EN.pdf",
+    "path": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/palestine-mandate.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "retrieved",
+    "format": "html",
+    "reading": "scope recorded separately, not presumed by acquisition"
+  },
+  {
+    "key": "hebrew-language-war",
+    "url": "https://www.nli.org.il/en/education/teaching-resources/primary-sources/nnl_edu997013313315805171",
+    "status": "failed",
+    "error": "403 Client Error: Forbidden for url: https://www.nli.org.il/en/education/teaching-resources/primary-sources/nnl_edu997013313315805171"
+  },
+  {
+    "key": "pacioli-1509-object",
+    "url": "https://www.metmuseum.org/art/collection/search/336656",
+    "status": "failed",
+    "error": "429 Client Error: Too Many Requests for url: https://www.metmuseum.org/art/collection/search/336656"
+  },
+  {
+    "key": "perdomo-2020",
+    "url": "https://proceedings.mlr.press/v119/perdomo20a.html",
+    "path": "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/perdomo-2020.html",
+    "sha256": "8d91666d98cf2e5cf23d2b51aba0167ea24e063920f24fa2f61dbd6447ee7610",
+    "status": "retrieved",
+    "format": "html",
+    "reading": "scope recorded separately, not presumed by acquisition"
+  }
+]
