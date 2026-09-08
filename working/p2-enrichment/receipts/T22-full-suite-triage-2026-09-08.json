@@ -1,0 +1,360 @@
+{
+  "date": "2026-09-08",
+  "input_log": "working/p2-enrichment/receipts/T22-full-workspace-tests-2026-09-08.log",
+  "logged_run": {
+    "tests": 106,
+    "failures": 17,
+    "errors": 1,
+    "seconds": 97.066
+  },
+  "baseline_git": "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138",
+  "classification_counts": {
+    "preexisting_failures": 9,
+    "preexisting_errors": 1,
+    "room_allowlist_failures_other_owner": 4,
+    "projection_failures_parent_reports_fixed": 2,
+    "mixed_source_assertion": 1,
+    "migration_quilt_assertion": 1
+  },
+  "baseline_evidence": {
+    "commit": "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138 2026-09-07T19:38:54+01:00 Lock symbolon twelvefold root layer, Vak register mapping, and matheme four-file structure",
+    "method": "Reuse prior bounded full-suite triage; save targeted Git baseline witnesses only. No full-suite rerun or renewed semantic review.",
+    "P1_alignment_paths": [
+      "submission-package/essay/section-rooms/00-integral-threshold/P1-CANONICAL-ALIGNMENT.md",
+      "submission-package/essay/section-rooms/01-differentiating-mind/P1-CANONICAL-ALIGNMENT.md",
+      "submission-package/essay/section-rooms/02-return-of-zero/P1-CANONICAL-ALIGNMENT.md",
+      "submission-package/essay/section-rooms/03-two-logics/P1-CANONICAL-ALIGNMENT.md",
+      "submission-package/essay/section-rooms/04-mathematical-substrate/P1-CANONICAL-ALIGNMENT.md",
+      "submission-package/essay/section-rooms/05-psychoid-flowering/P1-CANONICAL-ALIGNMENT.md",
+      "submission-package/essay/section-rooms/06-objective-internality/P1-CANONICAL-ALIGNMENT.md",
+      "submission-package/essay/section-rooms/07-instrument-returns/P1-CANONICAL-ALIGNMENT.md"
+    ],
+    "local_skill_paths": [
+      ".agents/skills/return-of-zero-build/SKILL.md",
+      ".agents/skills/return-of-zero-links/SKILL.md",
+      ".agents/skills/return-of-zero-orient/SKILL.md",
+      ".agents/skills/return-of-zero-pages/SKILL.md",
+      ".agents/skills/return-of-zero-review/SKILL.md",
+      ".agents/skills/return-of-zero-source/SKILL.md",
+      ".agents/skills/return-of-zero-visuals/SKILL.md",
+      ".agents/skills/return-of-zero-write/SKILL.md"
+    ],
+    "matheme_extra_domains": [
+      "definition",
+      "dia-syn",
+      "mono-poly",
+      "music",
+      "process",
+      "quilt"
+    ],
+    "old_history_home_present": true,
+    "concept_direct_md_count_excluding_README_and_index": 89,
+    "old_legacy_wikilinks": {
+      "command": [
+        "git",
+        "grep",
+        "-n",
+        "-E",
+        "\\[\\[(Dreamcode|Compassion|Reflective Field)\\]\\]",
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138",
+        "--",
+        "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1961-totality-and-infinity/SOURCE.md"
+      ],
+      "exit_code": 0,
+      "matches": [
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138:submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md:132:- **Argument function:** joins the dream/illusion/simulation lineage — dream proving that objectivity cannot mean externally material; the computational veil; [[Dreamcode]] naming debt.",
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138:submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1961-totality-and-infinity/SOURCE.md:71:The love/face/responsibility register the conjugate root's A face draws: the face-to-face as the interruption of the economy of need; Desire as a movement that possession does not satisfy; responsibility as asymmetrical and prior. The root's facticity → dignity → love sharpening names this register as an **external refractor** of a claim the essay already argues on its own ground ([[Compassion]]'s non-devouring return; the non-possessive relation of the [[Reflective Field]]'s initiated return); the Watson house's earlier mapping — placing the face-to-face at the `AM/IS` determination, where first-person presence and third-person sayability meet through a second-person slash — remains the standing cross-register proposal."
+      ]
+    },
+    "inline_wikilink_example": {
+      "command": [
+        "git",
+        "grep",
+        "-n",
+        "-E",
+        "bare wikilinks",
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138",
+        "--",
+        "submission-package/essay/symbolon/episteme/conjugate/README.md"
+      ],
+      "exit_code": 0,
+      "matches": [
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138:submission-package/essay/symbolon/episteme/conjugate/README.md:7:Conventions: brief citations run through the `bratton-2026-agentworld-brief` source house q-anchors; `[[bare wikilinks]]` that resolve to no file are anticipatory concept seeds — the web's open edges, materialised only when the argument demands a node. The array self-reading (this field as the traversal run in the technological direction) is carried at A18′ #5→0."
+      ]
+    },
+    "csm_heading_cards": {
+      "command": [
+        "git",
+        "grep",
+        "-n",
+        "-E",
+        "^### .*q00[123]",
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138",
+        "--",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/SOURCE.md"
+      ],
+      "exit_code": 0,
+      "matches": [
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138:submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/SOURCE.md:23:### taylor-2026-antykathera-csm-lecture-notes-q001 — the eros-of-logos junction",
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138:submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/SOURCE.md:29:### taylor-2026-antykathera-csm-lecture-notes-q002 — computational and meditative intelligence",
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138:submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/SOURCE.md:35:### taylor-2026-antykathera-csm-lecture-notes-q003 — ossified symbols"
+      ]
+    },
+    "csm_explicit_anchors": {
+      "command": [
+        "git",
+        "grep",
+        "-n",
+        "-E",
+        "<a id=",
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138",
+        "--",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/SOURCE.md"
+      ],
+      "exit_code": 1,
+      "matches": []
+    },
+    "bkmr_parser_contract": {
+      "command": [
+        "git",
+        "grep",
+        "-n",
+        "-E",
+        "anchor_matches|heading_matches|if not|def passage_cards|finditer|re.find",
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138",
+        "--",
+        "tools/bkmr-essay"
+      ],
+      "exit_code": 0,
+      "matches": [
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138:tools/bkmr-essay:120:def passage_cards(body, source_id = '')"
+      ]
+    },
+    "projection_parser_contract": {
+      "command": [
+        "git",
+        "grep",
+        "-n",
+        "-E",
+        "def passages|<a id=",
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138",
+        "--",
+        "tools/build-source-projections.py"
+      ],
+      "exit_code": 0,
+      "matches": [
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138:tools/build-source-projections.py:138:def passages(source: Source) -> list[Passage]:"
+      ]
+    },
+    "obsolete_root_sentence": {
+      "command": [
+        "git",
+        "grep",
+        "-n",
+        "-E",
+        "The relations that organise every register belong directly in Symbolon",
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138",
+        "--",
+        "submission-package/essay/symbolon/README.md"
+      ],
+      "exit_code": 1,
+      "matches": []
+    },
+    "obsolete_argument_map_node_type": {
+      "command": [
+        "git",
+        "grep",
+        "-n",
+        "-E",
+        "^node_type: argument-map",
+        "5a7ef8a8b3719cbe4b06958a8f079ae081a2e138",
+        "--",
+        "submission-package/essay"
+      ],
+      "exit_code": 1,
+      "matches": []
+    }
+  },
+  "results": [
+    {
+      "result": "ERROR",
+      "test": "test_ontology_registers.RegisterCensusTests.test_register_census_is_a_real_unratified_debt",
+      "category": "preexisting-out-of-scope",
+      "finding": "KeyError counts[argument-map]; test assumes old unratified census and obsolete node type. Baseline has no such node_type. A get() fallback alone would not repair remaining assumptions.",
+      "disposition": "Preexisting structural/test or navigation debt; no canonical or test changes in this batch.",
+      "baseline_evidence_keys": [
+        "obsolete_argument_map_node_type"
+      ]
+    },
+    {
+      "result": "FAIL",
+      "test": "test_audit_room_depth.CompactRoomAuditTests.test_real_kaplan_room_passes",
+      "category": "preexisting-room-allowlist-other-owner",
+      "finding": "P1-CANONICAL-ALIGNMENT.md rejected as unexpected active file; last two intended deep diagnostics masked by early gate. Eight P1 files already in baseline.",
+      "disposition": "Dirac owns allowlist repair; no local changes.",
+      "baseline_evidence_keys": [
+        "P1_alignment_paths"
+      ]
+    },
+    {
+      "result": "FAIL",
+      "test": "test_audit_room_depth.CompactRoomAuditTests.test_real_threshold_room_passes_substantive_learning_audit",
+      "category": "preexisting-room-allowlist-other-owner",
+      "finding": "P1-CANONICAL-ALIGNMENT.md rejected as unexpected active file; last two intended deep diagnostics masked by early gate. Eight P1 files already in baseline.",
+      "disposition": "Dirac owns allowlist repair; no local changes.",
+      "baseline_evidence_keys": [
+        "P1_alignment_paths"
+      ]
+    },
+    {
+      "result": "FAIL",
+      "test": "test_audit_room_depth.CompactRoomAuditTests.test_tampered_room_fails_real_freshness_gate",
+      "category": "preexisting-room-allowlist-other-owner",
+      "finding": "P1-CANONICAL-ALIGNMENT.md rejected as unexpected active file; last two intended deep diagnostics masked by early gate. Eight P1 files already in baseline.",
+      "disposition": "Dirac owns allowlist repair; no local changes.",
+      "baseline_evidence_keys": [
+        "P1_alignment_paths"
+      ]
+    },
+    {
+      "result": "FAIL",
+      "test": "test_audit_room_depth.CompactRoomAuditTests.test_threshold_route_fails_when_a_real_learning_movement_is_removed",
+      "category": "preexisting-room-allowlist-other-owner",
+      "finding": "P1-CANONICAL-ALIGNMENT.md rejected as unexpected active file; last two intended deep diagnostics masked by early gate. Eight P1 files already in baseline.",
+      "disposition": "Dirac owns allowlist repair; no local changes.",
+      "baseline_evidence_keys": [
+        "P1_alignment_paths"
+      ]
+    },
+    {
+      "result": "FAIL",
+      "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_passage_adapters_point_to_canonical_source_house_anchors_without_transcription",
+      "category": "preexisting-out-of-scope",
+      "finding": "533 ledger IDs versus 536 adapters: sole extras are Taylor CSM q001–q003. Heading-only cards lack explicit anchors; BKMR heading fallback and projection explicit-anchor-only parser both exist at baseline. This is a preexisting parser/card contract mismatch, not the projection race. Preserve dialogue-record never-evidence standing.",
+      "disposition": "Preexisting structural/test or navigation debt; no canonical or test changes in this batch.",
+      "baseline_evidence_keys": [
+        "csm_heading_cards",
+        "csm_explicit_anchors",
+        "bkmr_parser_contract",
+        "projection_parser_contract"
+      ]
+    },
+    {
+      "result": "FAIL",
+      "test": "test_okf_workspace.OkfWorkspaceTests.test_canonical_graph_has_no_missing_quality_surfaces_or_governing_dangles",
+      "category": "preexisting-out-of-scope",
+      "finding": "All 67 logged missing-quality paths occur in doctor-baseline.stdout: M47/M48 warrant surfaces, C01–C64 definition/argument-role templates, CANONICAL-INDEX expected surfaces. Current #0–#5 structure is not absent argument. Saved doctor baseline is evidence here, not sufficient to date all source dangles.",
+      "disposition": "Preexisting structural/test or navigation debt; no canonical or test changes in this batch.",
+      "baseline_evidence_keys": []
+    },
+    {
+      "result": "FAIL",
+      "test": "test_okf_workspace.OkfWorkspaceTests.test_doctor_names_real_context_and_graph_debts",
+      "category": "mixed-introduced-and-preexisting",
+      "finding": "Seven extra SOURCE paths: ten malformed metadata values in three newly admitted houses; 24 Irenaeus and one Job raw links point to existing files; three old body wikilinks in Descartes/Levinas already at baseline.",
+      "disposition": "This batch repairs only Ovid 3 / Apuleius 4 / Goethe 3 metadata edges. Irenaeus/Job other owners. Descartes/Levinas preexisting debt; no semantic repair authorized.",
+      "baseline_evidence_keys": [
+        "old_legacy_wikilinks"
+      ]
+    },
+    {
+      "result": "FAIL",
+      "test": "test_okf_workspace.OkfWorkspaceTests.test_status_discovers_the_real_typed_workspace",
+      "category": "preexisting-out-of-scope",
+      "finding": "17 room artifacts versus obsolete expected 9; eight P1 files already in baseline.",
+      "disposition": "Preexisting structural/test or navigation debt; no canonical or test changes in this batch.",
+      "baseline_evidence_keys": [
+        "P1_alignment_paths"
+      ]
+    },
+    {
+      "result": "FAIL",
+      "test": "test_project_agent_harness.ProjectSkillDiscoveryTests.test_codex_discovery_surface_contains_only_the_four_focused_project_skills",
+      "category": "preexisting-out-of-scope",
+      "finding": "Expected four local skills; baseline already has eight.",
+      "disposition": "Preexisting structural/test or navigation debt; no canonical or test changes in this batch.",
+      "baseline_evidence_keys": [
+        "local_skill_paths"
+      ]
+    },
+    {
+      "result": "FAIL",
+      "test": "test_publication_architecture.PublicationArchitectureTests.test_each_register_has_the_complete_functional_domain_shape",
+      "category": "preexisting-out-of-scope",
+      "finding": "Extra matheme definition/process/quilt/music/dia-syn/mono-poly domains already in baseline. Do not remove governed canonical structure.",
+      "disposition": "Preexisting structural/test or navigation debt; no canonical or test changes in this batch.",
+      "baseline_evidence_keys": [
+        "matheme_extra_domains"
+      ]
+    },
+    {
+      "result": "FAIL",
+      "test": "test_publication_architecture.PublicationArchitectureTests.test_every_symbolon_wikilink_resolves_inside_the_vault",
+      "category": "preexisting-out-of-scope",
+      "finding": "Regex treats inline-code example [[bare wikilinks]] in conjugate README as a real link; example already exists at baseline.",
+      "disposition": "Preexisting structural/test or navigation debt; no canonical or test changes in this batch.",
+      "baseline_evidence_keys": [
+        "inline_wikilink_example"
+      ]
+    },
+    {
+      "result": "FAIL",
+      "test": "test_publication_architecture.PublicationArchitectureTests.test_symbolon_has_direct_root_and_exact_internal_registers",
+      "category": "preexisting-out-of-scope",
+      "finding": "Exact obsolete root sentence asserted by test is absent from baseline README already; current twelvefold authority must survive.",
+      "disposition": "Preexisting structural/test or navigation debt; no canonical or test changes in this batch.",
+      "baseline_evidence_keys": [
+        "obsolete_root_sentence"
+      ]
+    },
+    {
+      "result": "FAIL",
+      "test": "test_skill_contracts.DevelopmentSkillContractTests.test_codex_discovers_four_focused_project_skills",
+      "category": "preexisting-out-of-scope",
+      "finding": "Expected four local skills; baseline already has eight.",
+      "disposition": "Preexisting structural/test or navigation debt; no canonical or test changes in this batch.",
+      "baseline_evidence_keys": [
+        "local_skill_paths"
+      ]
+    },
+    {
+      "result": "FAIL",
+      "test": "test_source_house_migration.CanonicalSourceTests.test_optional_notes_do_not_change_or_invalidate_source_projections",
+      "category": "projection-race-parent-reports-fixed",
+      "finding": "Stale MAIN-SOURCES/SOURCE-INDEX/PASSAGE-LEDGER in logged run. No NOTES defect established.",
+      "disposition": "Parent reports rebuild fixed both failures; not independently rerun.",
+      "baseline_evidence_keys": []
+    },
+    {
+      "result": "FAIL",
+      "test": "test_source_house_migration.CanonicalSourceTests.test_source_projections_are_reproducible",
+      "category": "projection-race-parent-reports-fixed",
+      "finding": "Stale MAIN-SOURCES/SOURCE-INDEX/PASSAGE-LEDGER in logged run. No NOTES defect established.",
+      "disposition": "Parent reports rebuild fixed both failures; not independently rerun.",
+      "baseline_evidence_keys": []
+    },
+    {
+      "result": "FAIL",
+      "test": "test_submission_package.SubmissionPackageTests.test_essay_body_is_the_complete_sixfold_one_home",
+      "category": "preexisting-out-of-scope",
+      "finding": "Expected 22 concepts versus 87 logged; baseline direct concept count already exceeds 22. Subsequent expected 124-source assertion not reached and not certified.",
+      "disposition": "Preexisting structural/test or navigation debt; no canonical or test changes in this batch.",
+      "baseline_evidence_keys": [
+        "concept_direct_md_count_excluding_README_and_index"
+      ]
+    },
+    {
+      "result": "FAIL",
+      "test": "test_submission_package.SubmissionPackageTests.test_essay_body_wikilinks_and_relative_links_resolve",
+      "category": "introduced-history-home-migration",
+      "finding": "Quilt line 93 retains old language-symbol-dialogue HISTORY href; old file existed at baseline, migration moved canonical home.",
+      "disposition": "This batch repairs exactly one href under parent-authorized freeze exception, with inverse byte proof and scoped quilt gate.",
+      "baseline_evidence_keys": [
+        "old_history_home_present"
+      ]
+    }
+  ],
+  "repair_receipt": "working/p2-enrichment/receipts/T22-full-suite-triage-repair-2026-09-08.json",
+  "boundaries": "No full-suite rerun, no new semantic review, no tests/consumers/shared matrices/projections/index writes. Historical snapshot retained; scoped repair result is separate."
+}

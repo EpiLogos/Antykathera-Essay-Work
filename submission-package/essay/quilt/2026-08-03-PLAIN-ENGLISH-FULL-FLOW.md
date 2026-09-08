@@ -90,7 +90,7 @@ The bare slash is axial. The completed `4+2` relation is toroidal. It can circle
 
 The essay treats certain words as **symbola**. A word arrives as one formed half. Its documented history, changes of sense, sound, and use give it an edge. The present argument supplies the answering half. When they fit, the word does more than label an idea. It makes an operation audible and lets it return in another register.
 
-The native QL derivation remains primary. A word-history does not prove the theorem. It can reveal a historical descent, an attested range of meaning, an independent operational likeness, or a poetic collision. These relations have different strength and are named as such. The live histories also state which lexical claims are documented and which still need primary or scholarly support. The method is set out in the live [etymology histories](../symbolon/episteme/etymologies/README.md) and the broader [language–symbol dialogue history](../symbolon/episteme/histories/language-symbol-dialogue/HISTORY.md).
+The native QL derivation remains primary. A word-history does not prove the theorem. It can reveal a historical descent, an attested range of meaning, an independent operational likeness, or a poetic collision. These relations have different strength and are named as such. The live histories also state which lexical claims are documented and which still need primary or scholarly support. The method is set out in the live [etymology histories](../symbolon/episteme/etymologies/README.md) and the broader [language–symbol dialogue history](../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY.md).
 
 Several word-fields carry the argument from start to finish:
 

@@ -17,9 +17,9 @@ consumed_by_sections:
 - §4
 - §5→0
 consumed_by_arguments:
-- '[[submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All|A11]]'
-- '[[submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many|A12]]'
-- '[[submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero|A36]]'
+- 'submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md'
+- 'submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md'
+- 'submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md'
 consumed_by_mythemes:
 - mytheme-goethe-permanence-change
 mytheme_destination: submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md

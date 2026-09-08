@@ -15,10 +15,10 @@ accessed: '2026-09-06'
 consumed_by_sections:
 - §2
 consumed_by_arguments:
-- '[[submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|A13]]'
-- '[[submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession|A20]]'
-- '[[submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|A23]]'
-- '[[submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession|A27]]'
+- 'submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md'
+- 'submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md'
+- 'submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md'
+- 'submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md'
 consumed_by_mythemes:
 - mytheme-eros-psyche
 mytheme_destination: submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md

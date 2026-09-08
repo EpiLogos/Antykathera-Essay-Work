@@ -15,9 +15,9 @@ accessed: '2026-09-06'
 consumed_by_sections:
 - §4
 consumed_by_arguments:
-- '[[submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime|A19]]'
-- '[[submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession|A20]]'
-- '[[submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession|A27]]'
+- 'submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md'
+- 'submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md'
+- 'submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md'
 consumed_by_mythemes:
 - mytheme-apollo-eros-daphne-peneus
 mytheme_destination: submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md
