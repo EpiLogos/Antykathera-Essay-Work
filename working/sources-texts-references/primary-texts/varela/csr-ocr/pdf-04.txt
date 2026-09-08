@@ -1,0 +1,116 @@
+8 F. J. VARELA G.
+
+8. Theorem 1 (CI TI).
+
+The value indicated by an expression consisting of
+a finite number of crosses and self-crosses can be
+taken to be the value of a simple expression, that
+is, any expression can be simplified to a simple
+expression. .
+
+Proof:
+
+Let x be any expression, and let s be its indicative
+space. Being finite, « must have a reachable space
+which is the deepest in it. Call it sy. s, is either
+(1.1) contained in a cross, or (1.2) not contained in
+a cross.
+
+1.2) If s, is not contained in a cross, then s, either
+contains a finite number of self-crosses or it
+does not. In either case- it is already simple,
+since the self-crosses can be condensed by 14.
+
+1.1) If s, is in a cross cy, then ¢, is either empty or
+contains a finite number of self-crosses, other-
+wise *, would not be deepest.
+
+Now, c, either stands alone in s (2.1), or (2.2)
+does not stand alone in s.
+
+2.1) If ey stands alone in s, then « is already
+simple, since it is either a cross or a self-
+cross, according to 13, 14.
+
+2.2) If cy does not stand alone in s, the cy must
+stand either (2.2.1) in a space together with a
+marker (otherwise s, would not be deepest)
+or (2.2.2) alone in the space under another
+cross.
+
+In either case the initials apply and two
+markers are eliminated from a, and the
+expression reduced in one depth.
+
+There will be a time when a has been simplified to
+
+a marker.
+
+9. Theorem 2 (CI T2).
+
+If any space pervades an empty cross, the value
+indicated by the space is the marked state.
+
+Proof:
+Let be any expression consisting of a part p and
+
+a cross.
+We must show
+
+Tp =
+By the first theorem, p simplifies to a simple
+expression v.
+
+Thus, in any case, after simplification we can
+write ‘
+
+pla]
+
+which, according to II,
+
+w= 7 X
+This completes the proof.
+
+10. Rule af Dominance (CI Canon 6).
+
+Let m stand for any number, larger than zero, of
+expressions indicating the marked state. Let a
+stand, similarly, for any number of expressions
+indicating the autonomous state. Let n stand for
+any number of expressions indicating the un-
+marked state.
+
+We have
+
+mm=m= "| Il
+aa=a=(] 14
+nn=n=
+
+also by IL
+mn=m
+ma=m
+
+and
+na=a
+
+Call m a dominant value. @ a mixed value, n a
+recessive value. Then we obtain the following
+tule:
+
+If an expression « in a space s shows a dominant
+value in s, then the value of « is the marked state.
+Otherwise the value of .« either shows a mixed
+value in s, and then the value of a is the autono-
+mous state, or it does not, and then the value of «
+is the unmarked state.
+
+Also
+Mm =n
+"Al =m
+but
+a] =a.
+
+11. Theorem 3 (CI T3)
+
+The simplification of an expression is unique.
+

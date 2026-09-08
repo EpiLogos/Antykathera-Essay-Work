@@ -37,6 +37,7 @@ primary_domain: process-systems-theory
 node_type: source-house
 ownership: canonical-source-house
 schema_version: 1
+local_copy: working/sources-texts-references/primary-texts/varela/VarelaCSR.pdf
 passage_surface: '#passages'
 ---
 # Varela — A Calculus for Self-Reference (1975)
@@ -60,4 +61,12 @@ Primary formal extension of the calculus of indications toward self-reference an
 <a id="passages"></a>
 ## Passages and excerpts
 
-No passage or excerpt has yet been gathered for this source.
+The [Kauffman/UIC scan](https://www.math.uic.edu/~kauffman/VarelaCSR.pdf) has 20 PDF pages corresponding to printed 5–24. The title names one author, Francisco J. Varela G.; some online metadata incorrectly splits that name. Printed 5–10 and 21–23 were read, with printed 7 visually checked. Intermediate proofs and the complete appendix have not been audited.
+
+<a id="varela-1975-calculus-self-reference-q001"></a>
+**q001 · printed 7–9 / PDF 3–5.** An autonomous third state expands the arithmetic; dominance, order, constancy and number govern reduction. Unique simplification preserves distinct values.
+
+<a id="varela-1975-calculus-self-reference-q002"></a>
+**q002 · printed 21–23 / PDF 17–19.** Temporal and systemic interpretations follow; frequency characterization remains further work. His metamathematical remarks do not establish escape from incompleteness for effectively axiomatized arithmetic.
+
+This source **sources** the [process dossier](../../../../dossiers/process.md). The source-specific formal construction survives the qualification; its identification with native QL remains a separate comparison.

@@ -37,13 +37,14 @@ primary_domain: process-systems-theory
 node_type: source-house
 ownership: canonical-source-house
 schema_version: 1
+local_copy: working/sources-texts-references/primary-texts/maturana/autopoiesis-cognition-columbia.pdf
 passage_surface: '#passages'
 ---
 # Maturana and Varela — Autopoiesis and Cognition (1980)
 
 ## Bibliographic identity
 
-The Springer record for the digitised edition identifies the original 1980 D. Reidel publication and DOI. This record selects that 1980 edition for citation. No local lawful text copy was supplied or acquired.
+The Springer record for the digitised edition identifies the original 1980 D. Reidel publication and DOI. This record selects that 1980 edition for citation. A Columbia-hosted scan was acquired on 8 September 2026; selected passages are registered below.
 
 ## Chicago 18 forms
 
@@ -83,9 +84,9 @@ The Springer record for the digitised edition identifies the original 1980 D. Re
 ## Provenance and acquisition
 
 - **Metadata source:** Springer Nature book record, DOI above, checked 2026-07-14.
-- **Text consulted:** publisher metadata only; no quotable text consulted.
-- **Local copy:** none.
-- **Last checked:** 2026-07-14.
+- **Text consulted:** 1980 scan, PDF 1–3, printed 70–71, 76–85 and 106–111; selected reading, not complete book reading.
+- **Local copy:** `working/sources-texts-references/primary-texts/maturana/autopoiesis-cognition-columbia.pdf`.
+- **Last checked:** 2026-09-08.
 
 ## Research notes
 
@@ -94,4 +95,14 @@ Exact pages for the selected edition must be located in a lawful copy before any
 <a id="passages"></a>
 ## Passages and excerpts
 
-No passage or excerpt has yet been gathered for this source.
+Consulted scan: [Columbia course shelf](https://www.columbia.edu/cu/tract/projects/complexity-theory/varela-autopoesis-and-cogni.pdf). PDF 1–2 identifies the 1980 Reidel edition. OCR is a reading aid; no exact quotations have been admitted.
+
+<a id="maturana-varela-1980-autopoiesis-cognition-q001"></a>
+**q001 · printed 77–81 / PDF 53–55.** Organization defines the unity; structure realizes it. Autopoietic production regenerates its network and boundary. Input/output description belongs to an observer's domain.
+
+<a id="maturana-varela-1980-autopoiesis-cognition-q002"></a>
+**q002 · printed 107–111 / PDF 68–70.** Coupling preserves interacting identities through mutual modification. A resulting composite requires its own production criterion before it is called autopoietic.
+
+**Attribution distinction · printed 70–71 / PDF 50.** Stafford Beer's preface advances a social extension while acknowledging the authors' disagreement. It is not their joint conclusion.
+
+This house **sources** the [process dossier](../../../../dossiers/process.md) and **historicises** the [process-science development](../../../../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT.md). Biological organization, technical operation and phenomenality retain distinct tests.

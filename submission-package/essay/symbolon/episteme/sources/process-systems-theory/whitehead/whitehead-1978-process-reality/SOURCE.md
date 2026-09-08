@@ -35,6 +35,7 @@ primary_domain: process-systems-theory
 node_type: source-house
 ownership: canonical-source-house
 schema_version: 1
+local_copy: "/Users/admin/Documents/Books/Process and Reality An Essay in Cosmology (Alfred North Whitehead) (Z-Library).pdf"
 passage_surface: '#passages'
 ---
 # Whitehead — Process and Reality (1978 corrected edition)
@@ -58,4 +59,15 @@ Primary source for Creativity, concrescence, the many becoming one and being inc
 <a id="passages"></a>
 ## Passages and excerpts
 
-No passage or excerpt has yet been gathered for this source.
+The local PDF identifies the 1978 Free Press corrected edition, edited by Griffin and Sherburne (PDF 1–2). Selected passages below were read with surrounding text. Extracted reading copy: `working/sources-texts-references/primary-texts/whitehead/process-reality-local.json`. PDF positions differ from printed pagination, and the offset changes later in this scan; use the individual mappings below. Paraphrase locations are ready; exact print quotations remain untranscribed.
+
+<a id="whitehead-1978-process-reality-q001"></a>
+**q001 · Part I, chapter II, §II, printed 21–22 / PDF 48–49.** Creativity, many and one form the Category of the Ultimate. The achieved singular entity unifies the received diversity and enters the diversity available for further becoming. Whitehead expressly distinguishes this sense of one from the integral number. Concrescence names the production of novel togetherness, not merely the rearrangement of a given aggregate.
+
+<a id="whitehead-1978-process-reality-q002"></a>
+**q002 · Part I, chapter II, §II, printed 23–26 / PDF 50–53.** Becoming constitutes an entity's being. Prehension distinguishes subject, datum and subjective form; consciousness is not necessary to each prehension. Objectification names one actual entity's functioning in another's self-creation. Satisfaction is the fully determinate final integration. These metaphysical terms are not automatically measurements of an artificial agent.
+
+<a id="whitehead-1978-process-reality-q003"></a>
+**q003 · Part II, chapter I, printed 59–60 / PDF 85–86.** A real essence involves the specific relations through which an actuality has its status. The loss of individual absoluteness in perishing is coordinated with objective immortality: the achieved occasion belongs to further generation. This does not identify perishing with erasure or assert persistence of the original subject's immediacy.
+
+The bounded reading covered printed 19–26 and 59–61; it is not a claim of complete book reading. The source **sources** the [process dossier](../../../../dossiers/process.md) and **historicises** the [process-science development](../../../../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT.md). Those targets are under active development; their native QL reformulation retains its own derivation.
