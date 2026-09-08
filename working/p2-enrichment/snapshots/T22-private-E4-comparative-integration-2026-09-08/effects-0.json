@@ -1,0 +1,42 @@
+{
+  "root": {
+    "id": "lsj-1940-greek-english-lexicon",
+    "title": "Liddell–Scott–Jones — A Greek-English Lexicon (9th ed., 1940)",
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "A Greek-English Lexicon",
+      "Selected lexical witnesses",
+      "q001 — Topos",
+      "q002 — Logos",
+      "q003 — Nomos",
+      "q004 — Krisis",
+      "q005 — Hybris",
+      "q006 — Anamnesis",
+      "q007 — Homologia",
+      "q008 — Analogia",
+      "q009 — Νέμω — distribution and holding a portion"
+    ],
+    "sha256": "cc3422ff94216578a19c244c349261d6639549f2cfc8845b9b3399b8ca068d4e",
+    "citation_status": "citation-ready-for-named-online-entries",
+    "quote_status": "selected-senses-paraphrase-ready; no-exact-quotation"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

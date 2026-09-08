@@ -1,0 +1,98 @@
+[
+  {
+    "source_id": "moe-2021-revised-mandarin-dictionary",
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md",
+    "sha256": "734617236c3a4989baf9cb37317b6c5862b14b603a9f28899238b6d7c30eaeba",
+    "read_scope": "full current SOURCE, all passage cards, identity, primary carrier and practice limits",
+    "notes": "absent; no creation",
+    "ownership": "source-owner; read-only integration"
+  },
+  {
+    "source_id": "analects-ctext-legge",
+    "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+    "sha256": "5e62160b60bbddc9b9fe8555b662e99713b92ae74dd52b6eff0c73349592081c",
+    "read_scope": "full current SOURCE, all passage cards, identity, primary carrier and practice limits",
+    "notes": "absent; no creation",
+    "ownership": "source-owner; read-only integration"
+  },
+  {
+    "source_id": "lane-arabic-english-lexicon-online",
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/lane/lane-arabic-english-lexicon-online/SOURCE.md",
+    "sha256": "c6e149cf88b0386d01497d2148068400c88ea09e8117a80c16479c38d7a22ac5",
+    "read_scope": "full current SOURCE, all passage cards, identity, primary carrier and practice limits",
+    "notes": "absent; no creation",
+    "ownership": "source-owner; read-only integration"
+  },
+  {
+    "source_id": "quran-arberry-corpus-selected",
+    "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/quran/quran-arberry-corpus-selected/SOURCE.md",
+    "sha256": "b1eda9b5720346caa657c8631e7f46a050a0bc1036df91301313c12ffb6f3e10",
+    "read_scope": "full current SOURCE, all passage cards, identity, primary carrier and practice limits",
+    "notes": "absent; no creation",
+    "ownership": "source-owner; read-only integration"
+  },
+  {
+    "source_id": "bukhari-sahih-sunnah-online",
+    "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/al-bukhari/bukhari-sahih-sunnah-online/SOURCE.md",
+    "sha256": "be0d20d91a9449ec472168d166f4ac8be87ad97f2488176b7f361f4a660fa200",
+    "read_scope": "full current SOURCE, all passage cards, identity, primary carrier and practice limits",
+    "notes": "absent; no creation",
+    "ownership": "source-owner; read-only integration"
+  },
+  {
+    "source_id": "tla-hieroglyphic-hieratic-lexicon",
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/tla/tla-hieroglyphic-hieratic-lexicon/SOURCE.md",
+    "sha256": "182191175f2420784d78b3408f00dc2ba26b74743272826cf06842c534d3a90e",
+    "read_scope": "full current SOURCE, all passage cards, identity, primary carrier and practice limits",
+    "notes": "absent; no creation",
+    "ownership": "source-owner; read-only integration"
+  },
+  {
+    "source_id": "reri-ptolemaic-funerary-papyrus",
+    "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/reri/reri-ptolemaic-funerary-papyrus/SOURCE.md",
+    "sha256": "e68f3770d7e94ff369622c169ec936d4a1a5c838184daa2f12623b13f0b00ff1",
+    "read_scope": "full current SOURCE, all passage cards, identity, primary carrier and practice limits",
+    "notes": "absent; no creation",
+    "ownership": "source-owner; read-only integration"
+  },
+  {
+    "source_id": "monier-williams-1899-sanskrit-english-dictionary",
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+    "sha256": "c071cd6370520adf25850f6320990a6ca4a9790b0ae33f48f6bd7d3316d943ee",
+    "read_scope": "full current SOURCE, all passage cards, identity, primary carrier and practice limits",
+    "notes": "absent; no creation",
+    "ownership": "source-owner; read-only integration",
+    "initial_full_read_sha256": "db95322dcd16168d6edd6e9473f9d27c56a795afe15780afb0247a2d0b970b14",
+    "freshness_note": "Full current metadata, passage cards, identity, practice and consulted objects reopened; owner corrected raw-object presentation from malformed relative hrefs to exact code paths. Source claims unchanged."
+  },
+  {
+    "source_id": "isvarakrishna-ruzsa-1998-samkhyakarika",
+    "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+    "sha256": "146d140cdc148c027b0b2049453c111b3749094557dc596a06582329601b1497",
+    "read_scope": "full current SOURCE, all passage cards, identity, primary carrier and practice limits",
+    "notes": "absent; no creation",
+    "ownership": "source-owner; read-only integration",
+    "initial_full_read_sha256": "c04380a00db883511a64cede1a2eb6de50a7f5ca2cc0504eef6583fc94040e7e",
+    "freshness_note": "Full current metadata, passage cards, identity, practice and consulted objects reopened; owner corrected raw-object presentation from malformed relative hrefs to exact code paths. Source claims unchanged."
+  },
+  {
+    "source_id": "bdb-hebrew-english-lexicon-online",
+    "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+    "sha256": "8c21aa537c65536d2ad723c71913947587a7d6acf8cc7e2649c46d56fce2262f",
+    "read_scope": "full current SOURCE, all passage cards, identity, primary carrier and practice limits",
+    "notes": "absent; no creation",
+    "ownership": "source-owner; read-only integration",
+    "initial_full_read_sha256": "2866daca17801f6c770ded5f850888f6b83459e95a995c99a9d4b2782d1cb2b5",
+    "freshness_note": "Full current metadata, passage cards, identity, practice and consulted objects reopened; owner corrected raw-object presentation from malformed relative hrefs to exact code paths. Source claims unchanged."
+  },
+  {
+    "source_id": "hebrew-bible-mechon-mamre-jps1917",
+    "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+    "sha256": "de8b17c57b65f8f4346a493ce607bb0891fa1630dd3a7b9055a9807207d0aa94",
+    "read_scope": "full current SOURCE, all passage cards, identity, primary carrier and practice limits",
+    "notes": "absent; no creation",
+    "ownership": "source-owner; read-only integration",
+    "initial_full_read_sha256": "e7803afc736f43329a951d80fd39e815e44e292152f510198e1a34cc63836da5",
+    "freshness_note": "Full current metadata, passage cards, identity, practice and consulted objects reopened; owner corrected raw-object presentation from malformed relative hrefs to exact code paths. Source claims unchanged."
+  }
+]

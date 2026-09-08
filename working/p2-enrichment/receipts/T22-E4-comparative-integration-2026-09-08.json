@@ -1,0 +1,578 @@
+{
+  "status": "completed-owned-scope; released for parent review; unstaged",
+  "rows": [
+    {
+      "row_id": "E4-comparative:sanskrit-enumeration-and-discriminative-practice",
+      "parent_row_id": "E4-comparative",
+      "case": "Sanskrit enumeration",
+      "development_status": "developed-source-specific-comparison; E4 integration complete",
+      "claim_standing": "historical/lexical attributed scope register2; authorial operational homology register3; no shared descent or empirical implementation claim",
+      "disposition": "Enumerated principles retain four causal descriptions; three means warrant the account; practiced discrimination changes appropriation while inactive purusa and isolating liberation remain source-specific.",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+          "start_line": 65,
+          "end_line": 86,
+          "section": "sanskrit-enumeration-and-discriminative-practice",
+          "operation": [
+            "Symbol answers to source",
+            "Account does not replace source",
+            "Trust keeps the return route active",
+            "Account re-enters source-field"
+          ]
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "start_line": 41,
+          "end_line": 41,
+          "section": "Account does not replace source",
+          "operation": "Enumerated principles retain four causal descriptions; three means warrant the account; practiced discrimination changes appropriation while inactive purusa and isolating liberation remain source-specific."
+        }
+      ],
+      "source_passages": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+          "passage_id": "monier-williams-1899-sanskrit-english-dictionary-p001",
+          "sha256": "c071cd6370520adf25850f6320990a6ca4a9790b0ae33f48f6bd7d3316d943ee"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+          "passage_id": "monier-williams-1899-sanskrit-english-dictionary-p002",
+          "sha256": "c071cd6370520adf25850f6320990a6ca4a9790b0ae33f48f6bd7d3316d943ee"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+          "passage_id": "isvarakrishna-ruzsa-1998-samkhyakarika-p001",
+          "sha256": "146d140cdc148c027b0b2049453c111b3749094557dc596a06582329601b1497"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+          "passage_id": "isvarakrishna-ruzsa-1998-samkhyakarika-p002",
+          "sha256": "146d140cdc148c027b0b2049453c111b3749094557dc596a06582329601b1497"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+          "passage_id": "isvarakrishna-ruzsa-1998-samkhyakarika-p003",
+          "sha256": "146d140cdc148c027b0b2049453c111b3749094557dc596a06582329601b1497"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md"
+      ],
+      "remaining_source_research": [
+        "Dictionary and constituent print collation",
+        "precise ancient date and full reception history",
+        "no empirical liberation certification"
+      ],
+      "consumer_reverse_status": "separate nine-proposal list; no A/C/Movement writes by integrator"
+    },
+    {
+      "row_id": "E4-comparative:hebrew-spr-counting-writing-and-entrusted-work",
+      "parent_row_id": "E4-comparative",
+      "case": "Hebrew SPR",
+      "development_status": "developed-source-specific-comparison; E4 integration complete",
+      "claim_standing": "historical/lexical attributed scope register2; authorial operational homology register3; no shared descent or empirical implementation claim",
+      "disposition": "Counting, telling, scribe and book retain lexical offices; separate roots name believing and reckoning; failed repair changes arrangements and an answer changes a commission, without certifying execution.",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+          "start_line": 87,
+          "end_line": 107,
+          "section": "hebrew-spr-counting-writing-and-entrusted-work",
+          "operation": [
+            "Symbol answers to source",
+            "Account does not replace source",
+            "Trust keeps the return route active",
+            "Account re-enters source-field"
+          ]
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "start_line": 43,
+          "end_line": 43,
+          "section": "Account does not replace source",
+          "operation": "Counting, telling, scribe and book retain lexical offices; separate roots name believing and reckoning; failed repair changes arrangements and an answer changes a commission, without certifying execution."
+        }
+      ],
+      "source_passages": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+          "passage_id": "bdb-hebrew-english-lexicon-online-p001",
+          "sha256": "8c21aa537c65536d2ad723c71913947587a7d6acf8cc7e2649c46d56fce2262f"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+          "passage_id": "bdb-hebrew-english-lexicon-online-p002",
+          "sha256": "8c21aa537c65536d2ad723c71913947587a7d6acf8cc7e2649c46d56fce2262f"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+          "passage_id": "bdb-hebrew-english-lexicon-online-p003",
+          "sha256": "8c21aa537c65536d2ad723c71913947587a7d6acf8cc7e2649c46d56fce2262f"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+          "passage_id": "hebrew-bible-mechon-mamre-jps1917-p001",
+          "sha256": "de8b17c57b65f8f4346a493ce607bb0891fa1630dd3a7b9055a9807207d0aa94"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+          "passage_id": "hebrew-bible-mechon-mamre-jps1917-p002",
+          "sha256": "de8b17c57b65f8f4346a493ce607bb0891fa1630dd3a7b9055a9807207d0aa94"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+          "passage_id": "hebrew-bible-mechon-mamre-jps1917-p003",
+          "sha256": "de8b17c57b65f8f4346a493ce607bb0891fa1630dd3a7b9055a9807207d0aa94"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+          "passage_id": "hebrew-bible-mechon-mamre-jps1917-p004",
+          "sha256": "de8b17c57b65f8f4346a493ce607bb0891fa1630dd3a7b9055a9807207d0aa94"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md"
+      ],
+      "remaining_source_research": [
+        "BDB print/typesetting and qualified etymologies",
+        "absolute event/composition dating",
+        "execution of narrated commissions and archaeological verification"
+      ],
+      "consumer_reverse_status": "separate nine-proposal list; no A/C/Movement writes by integrator"
+    },
+    {
+      "row_id": "E4-comparative:chinese-rectification-of-names",
+      "parent_row_id": "E4-comparative",
+      "case": "Chinese rectification of names",
+      "development_status": "developed-source-specific-comparison; E4 integration complete",
+      "claim_standing": "historical/lexical attributed scope register2; authorial operational homology register3; no shared descent or empirical implementation claim",
+      "disposition": "Names constrain practicable speech and government; unopposed good and bad counsel differ; revisable office is the authorial return, not a modern procedure attributed to the Analects.",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+          "start_line": 108,
+          "end_line": 124,
+          "section": "chinese-rectification-of-names",
+          "operation": [
+            "Symbol answers to source",
+            "Account does not replace source",
+            "Trust keeps the return route active",
+            "Account re-enters source-field"
+          ]
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "start_line": 109,
+          "end_line": 109,
+          "section": "Opening and integrity",
+          "operation": "Names constrain practicable speech and government; unopposed good and bad counsel differ; revisable office is the authorial return, not a modern procedure attributed to the Analects."
+        }
+      ],
+      "source_passages": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md",
+          "passage_id": "moe-2021-revised-mandarin-dictionary-q001",
+          "sha256": "734617236c3a4989baf9cb37317b6c5862b14b603a9f28899238b6d7c30eaeba"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+          "passage_id": "analects-ctext-legge-q001",
+          "sha256": "5e62160b60bbddc9b9fe8555b662e99713b92ae74dd52b6eff0c73349592081c"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+          "passage_id": "analects-ctext-legge-q002",
+          "sha256": "5e62160b60bbddc9b9fe8555b662e99713b92ae74dd52b6eff0c73349592081c"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md"
+      ],
+      "remaining_source_research": [
+        "critical manuscripts/selected Legge print edition",
+        "specific Wei accession setting",
+        "implementation and dated reception"
+      ],
+      "consumer_reverse_status": "separate nine-proposal list; no A/C/Movement writes by integrator"
+    },
+    {
+      "row_id": "E4-comparative:arabic-reckoning-and-names",
+      "parent_row_id": "E4-comparative",
+      "case": "Arabic reckoning and Names",
+      "development_status": "developed-source-specific-comparison; E4 integration complete",
+      "claim_standing": "historical/lexical attributed scope register2; authorial operational homology register3; no shared descent or empirical implementation claim",
+      "disposition": "Reckoning, invocation and enumerative undertaking retain distinct roots and textual carriers; divine judgment is not a human revisable ledger and promised efficacy is not an observed result.",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+          "start_line": 125,
+          "end_line": 139,
+          "section": "arabic-reckoning-and-names",
+          "operation": [
+            "Symbol answers to source",
+            "Account does not replace source",
+            "Trust keeps the return route active",
+            "Account re-enters source-field"
+          ]
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "start_line": 111,
+          "end_line": 111,
+          "section": "Opening and integrity",
+          "operation": "Reckoning, invocation and enumerative undertaking retain distinct roots and textual carriers; divine judgment is not a human revisable ledger and promised efficacy is not an observed result."
+        }
+      ],
+      "source_passages": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/lane/lane-arabic-english-lexicon-online/SOURCE.md",
+          "passage_id": "lane-arabic-english-lexicon-online-p001",
+          "sha256": "c6e149cf88b0386d01497d2148068400c88ea09e8117a80c16479c38d7a22ac5"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/lane/lane-arabic-english-lexicon-online/SOURCE.md",
+          "passage_id": "lane-arabic-english-lexicon-online-p002",
+          "sha256": "c6e149cf88b0386d01497d2148068400c88ea09e8117a80c16479c38d7a22ac5"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/quran/quran-arberry-corpus-selected/SOURCE.md",
+          "passage_id": "quran-arberry-corpus-selected-p001",
+          "sha256": "b1eda9b5720346caa657c8631e7f46a050a0bc1036df91301313c12ffb6f3e10"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/quran/quran-arberry-corpus-selected/SOURCE.md",
+          "passage_id": "quran-arberry-corpus-selected-p002",
+          "sha256": "b1eda9b5720346caa657c8631e7f46a050a0bc1036df91301313c12ffb6f3e10"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/al-bukhari/bukhari-sahih-sunnah-online/SOURCE.md",
+          "passage_id": "bukhari-sahih-sunnah-online-p001",
+          "sha256": "be0d20d91a9449ec472168d166f4ac8be87ad97f2488176b7f361f4a660fa200"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/classical-philology/lane/lane-arabic-english-lexicon-online/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/religion-theology/al-bukhari/bukhari-sahih-sunnah-online/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/religion-theology/quran/quran-arberry-corpus-selected/SOURCE.md"
+      ],
+      "remaining_source_research": [
+        "individual Quranic verse chronology",
+        "complete Names list or later recitation technology",
+        "devotional/afterlife efficacy"
+      ],
+      "consumer_reverse_status": "separate nine-proposal list; no A/C/Movement writes by integrator"
+    },
+    {
+      "row_id": "E4-comparative:egyptian-rn-reri",
+      "parent_row_id": "E4-comparative",
+      "case": "Egyptian rn",
+      "development_status": "developed-source-specific-comparison; E4 integration complete",
+      "claim_standing": "historical/lexical attributed scope register2; authorial operational homology register3; no shared descent or empirical implementation claim",
+      "disposition": "Rn identifies name; dated Reri provision makes remembrance available; surviving papyrus, intended afterlife efficacy and present interpretive answerability remain distinct.",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+          "start_line": 140,
+          "end_line": 154,
+          "section": "egyptian-rn-reri",
+          "operation": [
+            "Symbol answers to source",
+            "Account does not replace source",
+            "Trust keeps the return route active",
+            "Account re-enters source-field"
+          ]
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+          "start_line": 113,
+          "end_line": 113,
+          "section": "Opening and integrity",
+          "operation": "Rn identifies name; dated Reri provision makes remembrance available; surviving papyrus, intended afterlife efficacy and present interpretive answerability remain distinct."
+        }
+      ],
+      "source_passages": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/tla/tla-hieroglyphic-hieratic-lexicon/SOURCE.md",
+          "passage_id": "tla-hieroglyphic-hieratic-lexicon-p001",
+          "sha256": "182191175f2420784d78b3408f00dc2ba26b74743272826cf06842c534d3a90e"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/reri/reri-ptolemaic-funerary-papyrus/SOURCE.md",
+          "passage_id": "reri-ptolemaic-funerary-papyrus-p001",
+          "sha256": "e68f3770d7e94ff369622c169ec936d4a1a5c838184daa2f12623b13f0b00ff1"
+        }
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/classical-philology/tla/tla-hieroglyphic-hieratic-lexicon/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/religion-theology/reri/reri-ptolemaic-funerary-papyrus/SOURCE.md"
+      ],
+      "remaining_source_research": [
+        "full hieratic spell25 transcription/translation",
+        "afterlife efficacy",
+        "no full corpus or universal personhood doctrine"
+      ],
+      "consumer_reverse_status": "separate nine-proposal list; no A/C/Movement writes by integrator"
+    }
+  ],
+  "consumer_proposals": [
+    {
+      "case": "sanskrit-enumeration",
+      "record_id": "A15",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "insertion": "After existing E4 return in #5→0",
+      "exact_markdown": "The [Sanskrit enumeration case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#sanskrit-enumeration-and-discriminative-practice) **compares** this register-3 obligation through Kārikā 3’s twenty-five principles under different causal descriptions. The count remains exact while the account retains what is productive, produced, both or neither. Kārikās 4–6 separately state how the claims are known. Returning the criterion and warrant preserves the operation without identifying its Sāṃkhya ontology with the native ratio field.",
+      "status": "proposal-only",
+      "proposal_file": "working/p2-enrichment/page-packets/T22-E4-sanskrit-enumeration-proposal-2026-09-08.json"
+    },
+    {
+      "case": "sanskrit-enumeration",
+      "record_id": "C10",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+      "insertion": "After #4 source/means/warrant paragraph",
+      "exact_markdown": "The [Sanskrit enumeration case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#sanskrit-enumeration-and-discriminative-practice) **historicises** a distinct pramāṇa taxonomy: Kārikās 4–6 distinguish perception, inference and trustworthy testimony. At register 3, C10 receives the requirement to retain which means warranted this claim. This acquired Sāṃkhya case supplements the Śaiva discussion without making either school’s taxonomy universal.",
+      "status": "proposal-only",
+      "proposal_file": "working/p2-enrichment/page-packets/T22-E4-sanskrit-enumeration-proposal-2026-09-08.json"
+    },
+    {
+      "case": "hebrew-spr",
+      "record_id": "A15",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "insertion": "After existing E4 return in #5→0",
+      "exact_markdown": "The [Hebrew SPR case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#hebrew-spr-counting-writing-and-entrusted-work) **compares** record and consequence through the dated repair narrative of 2 Kings 12. Counted money, repaired fabric and faithful work have distinct offices; the Hebrew text uses different roots for the scribe, counting, reckoning and faithfulness. At register 3, the resource account returns with the material purpose that can expose a failed arrangement. Neither an exact total nor a shared English gloss completes that return.",
+      "status": "proposal-only",
+      "proposal_file": "working/p2-enrichment/page-packets/T22-E4-hebrew-spr-proposal-2026-09-08.json"
+    },
+    {
+      "case": "hebrew-spr",
+      "record_id": "A33",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "insertion": "After existing E4 return in #5→0",
+      "exact_markdown": "The [Hebrew SPR case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#hebrew-spr-counting-writing-and-entrusted-work) **compares** a consequence which must be stated precisely. In 2 Kings 8:1–6 the woman answers the king and he commissions restoration; the selected text records the order, leaving its execution independently unverified. At register 3, operational parity asks which state changed and what evidence would establish the next change. Receiving a telling can alter a commission without yet proving its fulfilment.",
+      "status": "proposal-only",
+      "proposal_file": "working/p2-enrichment/page-packets/T22-E4-hebrew-spr-proposal-2026-09-08.json"
+    },
+    {
+      "case": "Chinese rectification of names",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "operation": "Keep designated office and actual obligations visible in the account; distinguish valid ratio from universal jurisdiction.",
+      "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source",
+      "status": "proposal-not-written",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "start_line": 93,
+          "end_line": 93,
+          "standing": "current authored return read; proposed Chinese addition not inserted"
+        }
+      ],
+      "observed_sha256": "178651c03d3e8c43c96052b882badd1cad645bfb6bfedb67c788d3fa0048cb60",
+      "proposal_file": "working/p2-enrichment/receipts/T21-chinese-zhengming/CASE-PROPOSAL.md"
+    },
+    {
+      "case": "Chinese rectification of names",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "operation": "Distinguish warranted unopposed counsel from bad counsel insulated from correction; do not equate stable standard with immunity.",
+      "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active",
+      "status": "proposal-not-written",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "start_line": 40,
+          "end_line": 40,
+          "standing": "current authored return read; proposed Chinese addition not inserted"
+        }
+      ],
+      "observed_sha256": "c415c376494f93c7b759748d35495bb2e2565d6c2793f2e461182e26086bb261",
+      "proposal_file": "working/p2-enrichment/receipts/T21-chinese-zhengming/CASE-PROPOSAL.md"
+    },
+    {
+      "case": "Arabic",
+      "record_id": "A15",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "exact_markdown": "The [Arabic E4 case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#arabic-reckoning-and-names) **qualifies** the office of a count. The ninety-nine-Names report makes enumeration or retention part of an undertaking; the number alone neither identifies every Name nor performs invocation. This returns A15’s requirement to state what is counted, under which textual warrant, and what further act the count is meant to serve. It supplies no derivation of the native numerical field.",
+      "status": "proposal-only; parent owns reverse",
+      "proposal_file": "working/p2-enrichment/page-packets/T22-E4-Arabic-case-proposal.md"
+    },
+    {
+      "case": "Arabic",
+      "record_id": "A23",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "exact_markdown": "The [Arabic E4 case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#arabic-reckoning-and-names) **compares** undertaking with possession: the text presents a promise to which a practitioner can orient an act, while the historian can verify what the report says without establishing its promised outcome. Trust’s native formal-limit operation remains A23’s argument; it is neither derived from a numerical formula nor attributed wholesale to Islamic devotional practice.",
+      "status": "proposal-only; parent owns reverse",
+      "proposal_file": "working/p2-enrichment/page-packets/T22-E4-Arabic-case-proposal.md"
+    },
+    {
+      "case": "Egyptian",
+      "record_id": "C21",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "exact_markdown": "The [Egyptian rn case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#egyptian-rn-reri) **qualifies** the distinction between preserving a sign and possessing its source. Reri’s funerary name-record can retain a specific historical address even when the rite’s promised efficacy lies beyond verification. A surviving form need not be declared either a living symbol or an idol on that basis alone. The present account remains answerable by preserving the person, object and practice to which its interpretation claims to refer.",
+      "status": "proposal-only; parent owns reverse",
+      "proposal_file": "working/p2-enrichment/page-packets/T22-E4-Egyptian-case-proposal.md"
+    }
+  ],
+  "counts": {
+    "comparison_cases": 5,
+    "case_source_cards": 22,
+    "case_source_houses": 11,
+    "own_new_foldback_cards": 8,
+    "existing_account_card_reused": 1,
+    "case_consumer_proposals": 9,
+    "case_unique_consumers": 6,
+    "inherited_concept_forward_repairs": 3,
+    "native_terms": 3,
+    "native_operations": 4,
+    "development_positions": 6
+  },
+  "preservation": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "prior_carrier_paragraphs_byte_preserved": 14,
+      "lost_canonical_destinations": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+      "prior_carrier_paragraphs_byte_preserved": 8,
+      "lost_canonical_destinations": []
+    }
+  ],
+  "protected_HISTORY_unchanged": {
+    "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+    "sha256": "03ce9c4ef160a3a187148a9b206813fe83636a6539a6da5900234078652a859f",
+    "snapshot": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/before-2-HISTORY.md",
+    "read_scope": "full current body; protected HISTORY inherited full reading"
+  },
+  "received_sources_changed_since_read": [],
+  "own_mutation_scope": "E4WHOLE/HISTORICAL,LSJ,MW,newBankSOURCE and privateproofs only; no index/sharedcoverage/consumer/generated/NOTES writes",
+  "shared_63_pair_scope": "All pre-existing E4 carrier paragraphs and destinations retained; other five E fields and every consumer body left untouched. Prior63 pair proof remains separate; no blanket recertification of concurrently edited carriers.",
+  "remaining_actions": "Parent owns nine consumer proposal decisions/integration, shared272 row update, aggregate source projections and commit grant.",
+  "T22": {
+    "consulted_foldback_and_three_forwards": {
+      "targets": 5,
+      "failures": 0,
+      "report": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/T22-consulted-hygiene.json"
+    },
+    "final_five_case_E4": {
+      "targets": 2,
+      "failures": 0,
+      "report": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/T22-final-E4-hygiene.json"
+    }
+  },
+  "canonical_writes": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md",
+      "sha256": "8c7454c9dc940ffa92ef4cebd0e5cbf41a1370bef4eabc8134c2d115c18cd01e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "sha256": "ed6ae785a694b0b32a7fcdcaee66074869ff4816d0d29eb1c14de57b96534085"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/bank-of-england/bank-of-england-2019-payments-through-time/SOURCE.md",
+      "sha256": "500607e378940e450c697cb90528c929b4e0674b7031681403793762d2b908e4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "e0291913d331cea970c433858352c71fd547cbc167f9d11db60ac5bac32865d6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+      "sha256": "e81ee6289b10db4e90c402d43c94ef512d3e9f561638469277962f4bdd0c9a26"
+    }
+  ],
+  "source_foldbacks": {
+    "status": "admitted-selected-prior-consultation; no-new-acquisition",
+    "new_cards": 8,
+    "existing_account_card_reused": true,
+    "paths": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md",
+        "sha256": "8c7454c9dc940ffa92ef4cebd0e5cbf41a1370bef4eabc8134c2d115c18cd01e"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+        "sha256": "ed6ae785a694b0b32a7fcdcaee66074869ff4816d0d29eb1c14de57b96534085"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/bank-of-england/bank-of-england-2019-payments-through-time/SOURCE.md",
+        "sha256": "2ae8b6266f439c7b662e0cb77f67214d1e31b6cb858a2af4bfe9c71949611bd2"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+        "sha256": "fafbf4bdddb7047124221e735c0a218195d8d94a27c789d3978851d923af2095"
+      }
+    ],
+    "bindings": {
+      "https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n98312/": {
+        "source": "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md",
+        "passage_id": "lsj-1940-greek-english-lexicon-q010"
+      },
+      "https://www.bankofengland.co.uk/museum/whats-on/2019/325-years-exhibition/payments-through-time": {
+        "source": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/bank-of-england/bank-of-england-2019-payments-through-time/SOURCE.md",
+        "passage_id": "bank-of-england-2019-payments-through-time-q001"
+      },
+      "https://www.merriam-webster.com/dictionary/account": {
+        "source": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+        "passage_id": "merriam-webster-online-dictionary-q006"
+      },
+      "https://www.merriam-webster.com/dictionary/trust": {
+        "source": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+        "passage_id": "merriam-webster-online-dictionary-q007"
+      },
+      "https://www.merriam-webster.com/dictionary/whole": {
+        "source": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+        "passage_id": "merriam-webster-online-dictionary-q008"
+      },
+      "https://www.merriam-webster.com/dictionary/holy": {
+        "source": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+        "passage_id": "merriam-webster-online-dictionary-q009"
+      },
+      "https://www.merriam-webster.com/dictionary/health": {
+        "source": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+        "passage_id": "merriam-webster-online-dictionary-q010"
+      },
+      "https://www.merriam-webster.com/dictionary/heal": {
+        "source": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+        "passage_id": "merriam-webster-online-dictionary-q011"
+      },
+      "https://www.merriam-webster.com/dictionary/hole": {
+        "source": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+        "passage_id": "merriam-webster-online-dictionary-q012"
+      }
+    },
+    "provenance": "Selected online witness read on 2026-09-08 in the T21 E4 development; bounded finding and full-reading receipt retained in working/p2-enrichment/receipts/T21-etymology-symbol-account-and-trust-development.md and the historical companion. This admission reuses that completed consultation; no new retrieval, archived webpage, print collation or exact quotation is claimed."
+  },
+  "git_status": "No staging or commit; explicit grant required by parent coordination",
+  "bank_local_copy_followup": {
+    "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/bank-of-england/bank-of-england-2019-payments-through-time/SOURCE.md",
+    "before_sha256": "2ae8b6266f439c7b662e0cb77f67214d1e31b6cb858a2af4bfe9c71949611bd2",
+    "after_sha256": "500607e378940e450c697cb90528c929b4e0674b7031681403793762d2b908e4",
+    "only_edit": {
+      "local_copy": "working/sources-texts-references/primary-texts/bank-of-england/bank-of-england-2019-payments-through-time/payments-through-time.html"
+    },
+    "card_and_body_byte_unchanged": true,
+    "raw_sha256": "09bfaab2c8fb5d0ff7d7ab90b4007e70bd1ba3258a765baeecd364ef0c5ced2f",
+    "raw_bytes": 41464,
+    "authorization": "user single local_copy field following verified bounded retrieval",
+    "acquisition": "working/sources-texts-references/primary-texts/bank-of-england/bank-of-england-2019-payments-through-time/acquisition.json",
+    "T22": {
+      "targets": 1,
+      "failures": 0,
+      "report": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/T22-bank-local-copy-hygiene.json"
+    },
+    "status": "verified raw bound by sole authorized metadata edit; card/body unchanged"
+  },
+  "commit_raw_objects": [
+    {
+      "path": "working/sources-texts-references/primary-texts/bank-of-england/bank-of-england-2019-payments-through-time/payments-through-time.html",
+      "sha256": "09bfaab2c8fb5d0ff7d7ab90b4007e70bd1ba3258a765baeecd364ef0c5ced2f"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/bank-of-england/bank-of-england-2019-payments-through-time/acquisition.json",
+      "sha256": "eb00125b3b95e5934396961f93bc926a2a7876cbf84a21df50be32bbdf1e37e7"
+    }
+  ]
+}

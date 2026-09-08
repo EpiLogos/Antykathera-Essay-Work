@@ -1,0 +1,38 @@
+{
+  "root": {
+    "id": "lane-arabic-english-lexicon-online",
+    "title": "Lane — Arabic-English Lexicon, selected online entries",
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/lane/lane-arabic-english-lexicon-online/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Lane — Arabic-English Lexicon, selected online entries",
+      "Identity, edition and scope",
+      "Consulted carriers",
+      "Licensed comparison and consumption",
+      "Passages and excerpts",
+      "lane-arabic-english-lexicon-online-p001 — Ḥisāb",
+      "lane-arabic-english-lexicon-online-p002 — Iḥṣāʾ and remembering"
+    ],
+    "sha256": "c6e149cf88b0386d01497d2148068400c88ea09e8117a80c16479c38d7a22ac5",
+    "citation_status": "citation-ready-for-scoped-online-paraphrase",
+    "quote_status": "paraphrase-ready; no-exact-quotation"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+    "sha256": "72edba52f029676ae3b51426cd0a91b3737d4921399ee5a858f75186938849ad",
+    "snapshot": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/before-0-WHOLE-FIELD.md",
+    "read_scope": "full current body; protected HISTORY inherited full reading"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+    "sha256": "ab4686d26d3b23a5056656b5a84d2c554b46b530b84f9e8eb6f3d0f4db7bd9f5",
+    "snapshot": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/before-1-HISTORICAL-BRANCHES.md",
+    "read_scope": "full current body; protected HISTORY inherited full reading"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+    "sha256": "03ce9c4ef160a3a187148a9b206813fe83636a6539a6da5900234078652a859f",
+    "snapshot": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/before-2-HISTORY.md",
+    "read_scope": "full current body; protected HISTORY inherited full reading"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md",
+    "sha256": "cc3422ff94216578a19c244c349261d6639549f2cfc8845b9b3399b8ca068d4e",
+    "snapshot": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/before-3-SOURCE.md",
+    "read_scope": "full current body; protected HISTORY inherited full reading"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+    "sha256": "0bf853f07c1743aaac340931b991ee406c32da8277f4069e0e5d3cfdc70a239a",
+    "snapshot": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/before-4-SOURCE.md",
+    "read_scope": "full current body; protected HISTORY inherited full reading"
+  }
+]

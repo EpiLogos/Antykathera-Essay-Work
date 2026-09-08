@@ -1,0 +1,14 @@
+{
+  "status": "three-case-canonical-integration; Sanskrit/Hebrew pending",
+  "proposal_paths": [
+    "working/p2-enrichment/receipts/T21-chinese-zhengming/CASE-PROPOSAL.md",
+    "working/p2-enrichment/page-packets/T22-E4-Arabic-case-proposal.md",
+    "working/p2-enrichment/page-packets/T22-E4-Egyptian-case-proposal.md"
+  ],
+  "owned_outputs": [
+    "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+    "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md"
+  ],
+  "consumer_proposals": "A15/C27 Chinese; A15/A23 Arabic; C21 Egyptian; exact reverse insertions remain parent-owned",
+  "cardinalities": "three terms; four operations; five independent comparison cases; first three now integrated"
+}

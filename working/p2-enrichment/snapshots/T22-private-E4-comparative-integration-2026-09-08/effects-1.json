@@ -1,0 +1,39 @@
+{
+  "root": {
+    "id": "merriam-webster-online-dictionary",
+    "title": "Merriam-Webster.com Dictionary — selected E1 entries",
+    "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Selected E1 lexical witnesses",
+      "Selected entries",
+      "q001 — Encounter",
+      "q002 — Country",
+      "q003 — Count",
+      "q004 — Countenance",
+      "q005 — Region",
+      "q006 — Account"
+    ],
+    "sha256": "0bf853f07c1743aaac340931b991ee406c32da8277f4069e0e5d3cfdc70a239a",
+    "citation_status": "citation-ready-for-named-entries",
+    "quote_status": "selected-entry-paraphrase-ready; no-exact-quotation"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

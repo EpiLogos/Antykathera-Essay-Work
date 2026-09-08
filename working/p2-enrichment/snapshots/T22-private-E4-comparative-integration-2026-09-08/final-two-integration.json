@@ -1,0 +1,45 @@
+{
+  "proposal_paths": [
+    "working/p2-enrichment/page-packets/T22-E4-sanskrit-enumeration-proposal-2026-09-08.json",
+    "working/p2-enrichment/page-packets/T22-E4-hebrew-spr-proposal-2026-09-08.json"
+  ],
+  "cases": [
+    "sanskrit-enumeration",
+    "hebrew-spr"
+  ],
+  "consumer_proposals": [
+    {
+      "case": "sanskrit-enumeration",
+      "record_id": "A15",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "insertion": "After existing E4 return in #5→0",
+      "exact_markdown": "The [Sanskrit enumeration case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#sanskrit-enumeration-and-discriminative-practice) **compares** this register-3 obligation through Kārikā 3’s twenty-five principles under different causal descriptions. The count remains exact while the account retains what is productive, produced, both or neither. Kārikās 4–6 separately state how the claims are known. Returning the criterion and warrant preserves the operation without identifying its Sāṃkhya ontology with the native ratio field.",
+      "status": "proposal-only"
+    },
+    {
+      "case": "sanskrit-enumeration",
+      "record_id": "C10",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+      "insertion": "After #4 source/means/warrant paragraph",
+      "exact_markdown": "The [Sanskrit enumeration case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#sanskrit-enumeration-and-discriminative-practice) **historicises** a distinct pramāṇa taxonomy: Kārikās 4–6 distinguish perception, inference and trustworthy testimony. At register 3, C10 receives the requirement to retain which means warranted this claim. This acquired Sāṃkhya case supplements the Śaiva discussion without making either school’s taxonomy universal.",
+      "status": "proposal-only"
+    },
+    {
+      "case": "hebrew-spr",
+      "record_id": "A15",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "insertion": "After existing E4 return in #5→0",
+      "exact_markdown": "The [Hebrew SPR case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#hebrew-spr-counting-writing-and-entrusted-work) **compares** record and consequence through the dated repair narrative of 2 Kings 12. Counted money, repaired fabric and faithful work have distinct offices; the Hebrew text uses different roots for the scribe, counting, reckoning and faithfulness. At register 3, the resource account returns with the material purpose that can expose a failed arrangement. Neither an exact total nor a shared English gloss completes that return.",
+      "status": "proposal-only"
+    },
+    {
+      "case": "hebrew-spr",
+      "record_id": "A33",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "insertion": "After existing E4 return in #5→0",
+      "exact_markdown": "The [Hebrew SPR case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#hebrew-spr-counting-writing-and-entrusted-work) **compares** a consequence which must be stated precisely. In 2 Kings 8:1–6 the woman answers the king and he commissions restoration; the selected text records the order, leaving its execution independently unverified. At register 3, operational parity asks which state changed and what evidence would establish the next change. Receiving a telling can alter a commission without yet proving its fulfilment.",
+      "status": "proposal-only"
+    }
+  ],
+  "status": "E4 integration complete; consumer reverses parent-owned"
+}

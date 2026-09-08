@@ -1,0 +1,40 @@
+{
+  "root": {
+    "id": "hebrew-bible-mechon-mamre-jps1917",
+    "title": "Hebrew Bible — Mechon Mamre Hebrew and JPS 1917 English, selected passages",
+    "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Hebrew Bible — Mechon Mamre Hebrew and JPS 1917 English, selected passages",
+      "Identity, selected edition and historical scope",
+      "Consulted objects",
+      "Comparison and consumption",
+      "Passages and excerpts",
+      "hebrew-bible-mechon-mamre-jps1917-p001 — A count and an undertaking",
+      "hebrew-bible-mechon-mamre-jps1917-p002 — The narrated person answers and receives a consequential order",
+      "hebrew-bible-mechon-mamre-jps1917-p003 — Counted resources, repair and trusted work",
+      "hebrew-bible-mechon-mamre-jps1917-p004 — A book reaches an office and changes its question"
+    ],
+    "sha256": "e7803afc736f43329a951d80fd39e815e44e292152f510198e1a34cc63836da5",
+    "citation_status": "citation-ready-for-scoped-online-paraphrase",
+    "quote_status": "paraphrase-ready; no-exact-quotation"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

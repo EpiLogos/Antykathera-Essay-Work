@@ -1,0 +1,62 @@
+{
+  "status": "admitted-selected-prior-consultation; no-new-acquisition",
+  "new_cards": 8,
+  "existing_account_card_reused": true,
+  "paths": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md",
+      "sha256": "8c7454c9dc940ffa92ef4cebd0e5cbf41a1370bef4eabc8134c2d115c18cd01e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "sha256": "ed6ae785a694b0b32a7fcdcaee66074869ff4816d0d29eb1c14de57b96534085"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/bank-of-england/bank-of-england-2019-payments-through-time/SOURCE.md",
+      "sha256": "2ae8b6266f439c7b662e0cb77f67214d1e31b6cb858a2af4bfe9c71949611bd2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+      "sha256": "fafbf4bdddb7047124221e735c0a218195d8d94a27c789d3978851d923af2095"
+    }
+  ],
+  "bindings": {
+    "https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n98312/": {
+      "source": "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md",
+      "passage_id": "lsj-1940-greek-english-lexicon-q010"
+    },
+    "https://www.bankofengland.co.uk/museum/whats-on/2019/325-years-exhibition/payments-through-time": {
+      "source": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/bank-of-england/bank-of-england-2019-payments-through-time/SOURCE.md",
+      "passage_id": "bank-of-england-2019-payments-through-time-q001"
+    },
+    "https://www.merriam-webster.com/dictionary/account": {
+      "source": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "passage_id": "merriam-webster-online-dictionary-q006"
+    },
+    "https://www.merriam-webster.com/dictionary/trust": {
+      "source": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "passage_id": "merriam-webster-online-dictionary-q007"
+    },
+    "https://www.merriam-webster.com/dictionary/whole": {
+      "source": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "passage_id": "merriam-webster-online-dictionary-q008"
+    },
+    "https://www.merriam-webster.com/dictionary/holy": {
+      "source": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "passage_id": "merriam-webster-online-dictionary-q009"
+    },
+    "https://www.merriam-webster.com/dictionary/health": {
+      "source": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "passage_id": "merriam-webster-online-dictionary-q010"
+    },
+    "https://www.merriam-webster.com/dictionary/heal": {
+      "source": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "passage_id": "merriam-webster-online-dictionary-q011"
+    },
+    "https://www.merriam-webster.com/dictionary/hole": {
+      "source": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "passage_id": "merriam-webster-online-dictionary-q012"
+    }
+  },
+  "provenance": "Selected online witness read on 2026-09-08 in the T21 E4 development; bounded finding and full-reading receipt retained in working/p2-enrichment/receipts/T21-etymology-symbol-account-and-trust-development.md and the historical companion. This admission reuses that completed consultation; no new retrieval, archived webpage, print collation or exact quotation is claimed."
+}

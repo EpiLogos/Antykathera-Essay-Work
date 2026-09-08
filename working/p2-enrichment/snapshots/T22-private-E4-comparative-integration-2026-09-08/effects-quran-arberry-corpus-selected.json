@@ -1,0 +1,38 @@
+{
+  "root": {
+    "id": "quran-arberry-corpus-selected",
+    "title": "Qur’an — selected passages in the Quranic Arabic Corpus",
+    "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/quran/quran-arberry-corpus-selected/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Qur’an — selected passages in the Quranic Arabic Corpus",
+      "Identity, edition and scope",
+      "Consulted carriers",
+      "Licensed comparison and consumption",
+      "Passages and excerpts",
+      "quran-arberry-corpus-selected-p001 — Signs and reckoning",
+      "quran-arberry-corpus-selected-p002 — Names as invocation"
+    ],
+    "sha256": "b1eda9b5720346caa657c8631e7f46a050a0bc1036df91301313c12ffb6f3e10",
+    "citation_status": "citation-ready-for-scoped-online-paraphrase",
+    "quote_status": "paraphrase-ready; no-exact-quotation"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

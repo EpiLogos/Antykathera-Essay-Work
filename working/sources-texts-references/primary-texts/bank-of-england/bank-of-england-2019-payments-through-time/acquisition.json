@@ -1,0 +1,20 @@
+{
+  "requested_url": "https://www.bankofengland.co.uk/museum/whats-on/2019/325-years-exhibition/payments-through-time",
+  "final_url": "https://www.bankofengland.co.uk/museum/whats-on/2019/325-years-exhibition/payments-through-time",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved": "2026-09-08",
+  "retrieval_scope": "full HTML carrier saved; reading limited to A013/1 object and surrounding section, not full exhibition",
+  "path": "working/sources-texts-references/primary-texts/bank-of-england/bank-of-england-2019-payments-through-time/payments-through-time.html",
+  "sha256": "09bfaab2c8fb5d0ff7d7ab90b4007e70bd1ba3258a765baeecd364ef0c5ced2f",
+  "bytes": 41464,
+  "verified_object": {
+    "heading": "1694 \u2014 Wooden tally stick",
+    "object_id_locator": "img title=\"Wooden tally stick, A013/1\"",
+    "description": "two complete paragraphs in same timeline row",
+    "html_start_line": 372,
+    "html_end_line": 388,
+    "read_scope": "full object row including date, heading, two prose paragraphs and image title; adjacent introductory/next-object context checked",
+    "boundary": "Raw original HTML preserved including source spelling hazlewood; no image download or full-exhibition reading claimed"
+  }
+}

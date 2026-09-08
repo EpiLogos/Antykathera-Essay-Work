@@ -1,0 +1,39 @@
+{
+  "root": {
+    "id": "bdb-hebrew-english-lexicon-online",
+    "title": "Brown–Driver–Briggs — Hebrew lexicon, SPR entries (Bible Hub)",
+    "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Brown–Driver–Briggs — Hebrew lexicon, SPR entries (Bible Hub)",
+      "Identity, selected edition and historical scope",
+      "Consulted objects",
+      "Comparison and consumption",
+      "Passages and excerpts",
+      "bdb-hebrew-english-lexicon-online-p001 — Count, recount and the scribe",
+      "bdb-hebrew-english-lexicon-online-p002 — Document, book and writing",
+      "bdb-hebrew-english-lexicon-online-p003 — Number and recounting"
+    ],
+    "sha256": "2866daca17801f6c770ded5f850888f6b83459e95a995c99a9d4b2782d1cb2b5",
+    "citation_status": "citation-ready-for-scoped-online-paraphrase",
+    "quote_status": "paraphrase-ready; no-exact-quotation"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

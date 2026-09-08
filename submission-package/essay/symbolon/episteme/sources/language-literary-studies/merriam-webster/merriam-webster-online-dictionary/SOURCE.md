@@ -1,5 +1,5 @@
 ---
-title: Merriam-Webster.com Dictionary — selected E1 entries
+title: Merriam-Webster.com Dictionary — selected E1 and E4 entries
 source_id: merriam-webster-online-dictionary
 primary_domain: language-literary-studies
 node_type: source-house
@@ -17,9 +17,9 @@ source_relation: Paraphrased
 passage_surface: '#passages'
 ---
 
-# Selected E1 lexical witnesses
+# Selected E1 and E4 lexical witnesses
 
-The six named online entries were checked on 8 September 2026. Cite the individual headword, Word History or specified sense, and access date; this is not a historical print-edition collation. Dictionary-reported descent remains distinct from independently collated early texts.
+The named online entries were checked on 8 September 2026. Cite the individual headword, Word History or specified sense, and access date; this is not a historical print-edition collation. Dictionary-reported descent remains distinct from independently collated early texts.
 
 The entries **source** [E1’s historical branches](submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORICAL-BRANCHES.md), which **return-to** [the whole-field](submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md) with the four evidence registers retained.
 
@@ -91,3 +91,83 @@ The entries **source** [E1’s historical branches](submission-package/essay/sym
 **Access:** [selected entry](https://www.merriam-webster.com/dictionary/account).
 
 **Verification:** selected entry read 2026-09-08; paraphrase-ready; the cited early forms are dictionary witnesses rather than independently collated primary passages.
+
+<a id="merriam-webster-online-dictionary-q007"></a>
+### q007 — Trust
+
+**Paraphrase:** Middle English trust is given a probably Scandinavian origin, with Old Norse traust and Old English trēowe named as related forms. Reliance, contingent hope, custody or responsible office, and credit for future payment remain distinct senses.
+
+**Locator:** s.v. trust, Word History and selected reliance, custody/office and credit senses (1, 4–5).
+
+**Access:** [consulted online witness](https://www.merriam-webster.com/dictionary/trust).
+
+**Verification:** Selected online witness read on 2026-09-08 in the T21 E4 development; bounded finding and full-reading receipt retained in working/p2-enrichment/receipts/T21-etymology-symbol-account-and-trust-development.md and the historical companion. This admission reuses that completed consultation; no new retrieval, archived webpage, print collation or exact quotation is claimed.
+
+**Use boundary:** Registers 1 and 2 remain distinct. Preserve the dictionary’s probability qualification. This entry does not derive faith under formal limit, prove trustworthiness or supply a covenant history.
+
+<a id="merriam-webster-online-dictionary-q008"></a>
+### q008 — Whole
+
+**Paraphrase:** Middle English hool continues Old English hāl; the selected meanings concern soundness, freedom from injury and entirety.
+
+**Locator:** s.v. whole, Word History and selected soundness/entirety senses.
+
+**Access:** [consulted online witness](https://www.merriam-webster.com/dictionary/whole).
+
+**Verification:** Selected online witness read on 2026-09-08 in the T21 E4 development; bounded finding and full-reading receipt retained in working/p2-enrichment/receipts/T21-etymology-symbol-account-and-trust-development.md and the historical companion. This admission reuses that completed consultation; no new retrieval, archived webpage, print collation or exact quotation is claimed.
+
+**Use boundary:** Dictionary-reported descent at register 1 and selected meanings at register 2; no primary Old English text collation or theory of sealed integrity.
+
+<a id="merriam-webster-online-dictionary-q009"></a>
+### q009 — Holy
+
+**Paraphrase:** The entry traces the word to Old English hālig and states kinship with hāl.
+
+**Locator:** s.v. holy, Word History.
+
+**Access:** [consulted online witness](https://www.merriam-webster.com/dictionary/holy).
+
+**Verification:** Selected online witness read on 2026-09-08 in the T21 E4 development; bounded finding and full-reading receipt retained in working/p2-enrichment/receipts/T21-etymology-symbol-account-and-trust-development.md and the historical companion. This admission reuses that completed consultation; no new retrieval, archived webpage, print collation or exact quotation is claimed.
+
+**Use boundary:** Register 1. The reported kinship is not a complete derivational demonstration or a historical claim that sacredness reduces to bodily health.
+
+<a id="merriam-webster-online-dictionary-q010"></a>
+### q010 — Health
+
+**Paraphrase:** Middle English helthe continues Old English hǣlth, derived from hāl.
+
+**Locator:** s.v. health, Word History.
+
+**Access:** [consulted online witness](https://www.merriam-webster.com/dictionary/health).
+
+**Verification:** Selected online witness read on 2026-09-08 in the T21 E4 development; bounded finding and full-reading receipt retained in working/p2-enrichment/receipts/T21-etymology-symbol-account-and-trust-development.md and the historical companion. This admission reuses that completed consultation; no new retrieval, archived webpage, print collation or exact quotation is claimed.
+
+**Use boundary:** Register 1, dictionary-reported descent; no independent early-text collation or clinical outcome claim.
+
+<a id="merriam-webster-online-dictionary-q011"></a>
+### q011 — Heal
+
+**Paraphrase:** Middle English helen continues Old English hǣlan; the entry relates that form to hāl.
+
+**Locator:** s.v. heal, Word History.
+
+**Access:** [consulted online witness](https://www.merriam-webster.com/dictionary/heal).
+
+**Verification:** Selected online witness read on 2026-09-08 in the T21 E4 development; bounded finding and full-reading receipt retained in working/p2-enrichment/receipts/T21-etymology-symbol-account-and-trust-development.md and the historical companion. This admission reuses that completed consultation; no new retrieval, archived webpage, print collation or exact quotation is claimed.
+
+**Use boundary:** Register 1, dictionary-reported descent. The authorial return through correction is a separate register-3 operation.
+
+<a id="merriam-webster-online-dictionary-q012"></a>
+### q012 — Hole
+
+**Paraphrase:** Middle English hole or holle continues Old English hol, the hollow-place noun associated with the adjective for hollowness. This is a separate historical line from hāl.
+
+**Locator:** s.v. hole, Word History, noun and associated hollow adjective.
+
+**Access:** [consulted online witness](https://www.merriam-webster.com/dictionary/hole).
+
+**Verification:** Selected online witness read on 2026-09-08 in the T21 E4 development; bounded finding and full-reading receipt retained in working/p2-enrichment/receipts/T21-etymology-symbol-account-and-trust-development.md and the historical companion. This admission reuses that completed consultation; no new retrieval, archived webpage, print collation or exact quotation is claimed.
+
+**Use boundary:** Register 1. English hole/whole permits the authorial poetic crossing at register 4; no descent arrow joins hol to hāl and no topology theorem follows from the sound-match.
+
+The account and trust entries **source** [E4’s historical companion](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md); the five hāl/hol entries **source** its [reference-38 distinction](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#reference-38-hal-and-hole). The [whole-field return](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#opening-and-integrity) preserves the authorial operational and poetic registers independently.

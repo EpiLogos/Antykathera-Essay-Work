@@ -1,0 +1,34 @@
+{
+  "root": {
+    "id": "moe-2021-revised-mandarin-dictionary",
+    "title": "Ministry of Education — Revised Mandarin Chinese Dictionary",
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Ministry of Education — Revised Mandarin Chinese Dictionary",
+      "Lexical witness",
+      "q001 — 正名, zhèng míng"
+    ],
+    "sha256": "734617236c3a4989baf9cb37317b6c5862b14b603a9f28899238b6d7c30eaeba",
+    "citation_status": "citation-ready-for-selected-carrier",
+    "quote_status": "paraphrase-ready; no-exact-quotation"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

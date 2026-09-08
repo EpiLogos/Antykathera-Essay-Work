@@ -130,18 +130,3 @@ The agreement and proportion entries **source** [E5’s Greek historical branch]
 **Verification:** s.v. νέμω, distributive active and possessive middle senses; https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dne%2Fmw ; read 2026-09-08, raw witness retained in T21-E6-private-development-packet.json. Paraphrase-ready to the online entry; print not collated. E6 branch E6-names consumes register-2 distribution/possession distinctions; its institutional return is register 3.
 
 The entry **sources** [E6’s historical branch](submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md) and its [whole-field](submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md), with the institutional relation at register 3.
-
-<a id="lsj-1940-greek-english-lexicon-q010"></a>
-### q010 — Symbolon — counterpart, guarantee and civic token
-
-**Paraphrase:** The entry distinguishes a token whose corresponding pieces enable subsequent recognition, a guarantee, and civic tokens used for entitlement or payment. Its listed ancient witnesses include Herodotus 6.86, Euripides Medea 613 and Plato Symposium 191d. Those citations identify different contexts; the dictionary supplies the verified semantic witness here.
-
-**Locator:** s.v. σύμβολον, I.1, I.3 and I.5.
-
-**Access:** [consulted online witness](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n98312/).
-
-**Verification:** Selected online witness read on 2026-09-08 in the T21 E4 development; bounded finding and full-reading receipt retained in working/p2-enrichment/receipts/T21-etymology-symbol-account-and-trust-development.md and the historical companion. This admission reuses that completed consultation; no new retrieval, archived webpage, print collation or exact quotation is claimed.
-
-**Use boundary:** Register 2, selected senses only. The cited ancient passages are not independently collated. Correspondence does not establish justice, future performance or a historical derivation of native QL.
-
-The symbolon entry **sources** [E4’s token branch](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#matching-tokens-and-institutional-recognition); [Symbol answering to source](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source) develops the authorial operation at register 3.

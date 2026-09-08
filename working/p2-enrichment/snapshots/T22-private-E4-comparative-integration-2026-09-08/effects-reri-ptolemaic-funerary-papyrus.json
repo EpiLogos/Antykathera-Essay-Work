@@ -1,0 +1,37 @@
+{
+  "root": {
+    "id": "reri-ptolemaic-funerary-papyrus",
+    "title": "Reri — Ptolemaic funerary papyrus, EA75044,4",
+    "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/reri/reri-ptolemaic-funerary-papyrus/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Reri — Ptolemaic funerary papyrus, EA75044,4",
+      "Identity, edition and scope",
+      "Consulted carriers",
+      "Licensed comparison and consumption",
+      "Passages and excerpts",
+      "reri-ptolemaic-funerary-papyrus-p001 — Remembering the deceased’s name"
+    ],
+    "sha256": "e68f3770d7e94ff369622c169ec936d4a1a5c838184daa2f12623b13f0b00ff1",
+    "citation_status": "citation-ready-for-scoped-online-paraphrase",
+    "quote_status": "paraphrase-ready; no-exact-quotation"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

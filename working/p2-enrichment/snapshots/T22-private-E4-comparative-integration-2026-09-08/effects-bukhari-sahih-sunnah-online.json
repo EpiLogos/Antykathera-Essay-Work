@@ -1,0 +1,37 @@
+{
+  "root": {
+    "id": "bukhari-sahih-sunnah-online",
+    "title": "Al-Bukhārī — Ṣaḥīḥ, selected Names report",
+    "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/al-bukhari/bukhari-sahih-sunnah-online/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Al-Bukhārī — Ṣaḥīḥ, selected Names report",
+      "Identity, edition and scope",
+      "Consulted carriers",
+      "Licensed comparison and consumption",
+      "Passages and excerpts",
+      "bukhari-sahih-sunnah-online-p001 — Enumerating the Names"
+    ],
+    "sha256": "be0d20d91a9449ec472168d166f4ac8be87ad97f2488176b7f361f4a660fa200",
+    "citation_status": "citation-ready-for-scoped-online-paraphrase",
+    "quote_status": "paraphrase-ready; no-exact-quotation"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

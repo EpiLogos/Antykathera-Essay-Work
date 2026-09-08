@@ -1,0 +1,292 @@
+{
+  "status": "ready for exclusive index grant; not staged",
+  "explicit_path_list": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/explicit-owned-paths.txt",
+  "paths_count": 55,
+  "canonical_paths_count": 5,
+  "raw_objects_count": 2,
+  "manifest": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md",
+      "sha256": "8c7454c9dc940ffa92ef4cebd0e5cbf41a1370bef4eabc8134c2d115c18cd01e",
+      "bytes": 11434
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "sha256": "ed6ae785a694b0b32a7fcdcaee66074869ff4816d0d29eb1c14de57b96534085",
+      "bytes": 11410
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/bank-of-england/bank-of-england-2019-payments-through-time/SOURCE.md",
+      "sha256": "500607e378940e450c697cb90528c929b4e0674b7031681403793762d2b908e4",
+      "bytes": 3133
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "e0291913d331cea970c433858352c71fd547cbc167f9d11db60ac5bac32865d6",
+      "bytes": 37767
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+      "sha256": "e81ee6289b10db4e90c402d43c94ef512d3e9f561638469277962f4bdd0c9a26",
+      "bytes": 39522
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-comparative-integration-2026-09-08.json",
+      "sha256": "0dd973c9b552c0219c7ec2cd2ebf832ccb3072d3dcf1bd0f05a825bfd05f51be",
+      "bytes": 36715
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-comparative-integration-2026-09-08.md",
+      "sha256": "c4a312c4b96d40a83ffcab42c1736e788f6a25ff3f130f27d26eee7007295ba1",
+      "bytes": 8295
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/T22-consulted-hygiene.json",
+      "sha256": "624f0fc95d3951b7551cb4d1a3c9de0f3e7ad9fb05dd81c856c312e757da905d",
+      "bytes": 898625
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/T22-final-E4-hygiene.json",
+      "sha256": "18e03366d0a1d2d5dc4f33ba8575fb3f133d91de24315d5c1ca105ac307af4bf",
+      "bytes": 1031937
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/admit-consulted.py",
+      "sha256": "52e663dcae48dea86f5c0b70474a7571c5d260e98a033b2b65fee4f62c97d3d3",
+      "bytes": 9616
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/before-0-WHOLE-FIELD.md",
+      "sha256": "72edba52f029676ae3b51426cd0a91b3737d4921399ee5a858f75186938849ad",
+      "bytes": 34696
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/before-1-HISTORICAL-BRANCHES.md",
+      "sha256": "ab4686d26d3b23a5056656b5a84d2c554b46b530b84f9e8eb6f3d0f4db7bd9f5",
+      "bytes": 13537
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/before-2-HISTORY.md",
+      "sha256": "03ce9c4ef160a3a187148a9b206813fe83636a6539a6da5900234078652a859f",
+      "bytes": 9023
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/before-3-SOURCE.md",
+      "sha256": "cc3422ff94216578a19c244c349261d6639549f2cfc8845b9b3399b8ca068d4e",
+      "bytes": 9736
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/before-4-SOURCE.md",
+      "sha256": "0bf853f07c1743aaac340931b991ee406c32da8277f4069e0e5d3cfdc70a239a",
+      "bytes": 5238
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/before-manifest.json",
+      "sha256": "1003be9863d42412860c99e16c0fcd8f901d7e8c4fc82ce77a2415b4adf55b6e",
+      "bytes": 2110
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/concept-forward-repairs.json",
+      "sha256": "0bf6d1cbe6324c77fb9c5f5b9f4d2adadf6854c6c17ca8a78a7eaed104574ca7",
+      "bytes": 1296
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/consulted-admissions.json",
+      "sha256": "9251d128eedac784971dc369ac0c8dc7e1ba11fc6c5571e4ba475eb8e35c4efb",
+      "bytes": 4188
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-0.json",
+      "sha256": "e32486b63fd0f428dd1fdba0fe60952cdf343e1947c14473b0f18aaa6c186c9b",
+      "bytes": 1296
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-1.json",
+      "sha256": "94fe03c67210d1402f59d0547d39dd5e8ad4b65722886294bd87b888c398fec3",
+      "bytes": 1167
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-2.json",
+      "sha256": "cc916be02e8e6b7bbef28d1f902f427ad5957f67af9fffb87198b1457f17e666",
+      "bytes": 3347
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-E4.json",
+      "sha256": "de28d121e2f2aa1585967e0bb6d92cbef7b05966ef78e84b0f43240a62ccc547",
+      "bytes": 323286
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-analects-ctext-legge.json",
+      "sha256": "076d0d5772c6fea82a9f93e4bcb27da7be338e56a397f69fb3ed7c985c8cfe16",
+      "bytes": 3454
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-bdb-hebrew-english-lexicon-online.json",
+      "sha256": "a5170640b5e009ded7c1efde4f8d19f918a27bab5b81d69033f082d9e0533215",
+      "bytes": 1410
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-bukhari-sahih-sunnah-online.json",
+      "sha256": "84390bfccf69fc77f9bcb2191b2d1771b34a7c1114612da4e339266520057c82",
+      "bytes": 1183
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-hebrew-bible-mechon-mamre-jps1917.json",
+      "sha256": "f8bb2d670d644e7e341b58204a20f9219bfd9b70f692a6fead2a0dbdbc8a6ff9",
+      "bytes": 1574
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-isvarakrishna-ruzsa-1998-samkhyakarika.json",
+      "sha256": "b6c36a319aba2486cbfb70f7782ac5a5ff5b8770cf9c5454d08c266630ae39a6",
+      "bytes": 1516
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-lane-arabic-english-lexicon-online.json",
+      "sha256": "44fed88c45a174295948f6c51f5b01bdd0552f6d1f6c7ccda6bb68fcbc1d42ee",
+      "bytes": 1276
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-moe-2021-revised-mandarin-dictionary.json",
+      "sha256": "8f55b91240376093917c066604fbdbbe88de569d626d61d8983e7d838518b682",
+      "bytes": 1086
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-monier-williams-1899-sanskrit-english-dictionary.json",
+      "sha256": "50b6a856aee568ee8239d2b1eb33f002eeb2e9b64242f52d34737d56129a4553",
+      "bytes": 1412
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-quran-arberry-corpus-selected.json",
+      "sha256": "e0fdd22bed4d7aedc80189347ad8f2097dda34b8f42128cbfb34e06d2bb1d07d",
+      "bytes": 1264
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-reri-ptolemaic-funerary-papyrus.json",
+      "sha256": "e4c412462786d6bba72d3ae7802d6260e47cafd2f33052aeb91f5348ad1d6a6b",
+      "bytes": 1189
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-tla-hieroglyphic-hieratic-lexicon.json",
+      "sha256": "6bc3ea1c188a6f9e08910fb50a131b781cfdcfb9e81dc812af3450ffec41cd27",
+      "bytes": 1201
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/final-two-integration.json",
+      "sha256": "e6df60dbe8985827309100363a0e6126540e7385ebc3d08d5b4b9a5ea76f01ca",
+      "bytes": 3740
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/final-validation.json",
+      "sha256": "fd6d3659b85889e95f903df89e0e8718ec087ca285dcf9ca9d22817ee0db6482",
+      "bytes": 28931
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/intake-consulted.json",
+      "sha256": "fd1485ff2b00983093fd8475f02c30687dde0ceac913fdf54cc7f368aba424b3",
+      "bytes": 985
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/intake-final-E4.json",
+      "sha256": "d5b5b7ee6db92078f56e5b08a705aa75a835620cc8e82e98afb9aa32a492b327",
+      "bytes": 359
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/integrate-final-two.py",
+      "sha256": "57a08a81e5b7844bedf84db7fd13d7408ee52edaa1dae807ed6d335f02a1dcba",
+      "bytes": 3157
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/integrate-three.py",
+      "sha256": "50febabcfe790e09d5f1f35aecc10f7241b6440092089a64583bddd3b164fa83",
+      "bytes": 6975
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/prior-carrier-paragraphs.json",
+      "sha256": "155a2b85984115fe0bd14f135c6cbb322ed553cb853c87ae94fdb74b8370d03e",
+      "bytes": 1198
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/prior-route-preservation.json",
+      "sha256": "ad022d53738e45a4f6d314d095d9a9c9f9281d57d050ea99e0990ffe9447e8db",
+      "bytes": 405
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/received-source-reads.json",
+      "sha256": "c01472e09fbd9bdcb2be1bfa705077fdcf415fd94fa1f85c330fb3420324b7db",
+      "bytes": 6639
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/three-case-integration.json",
+      "sha256": "ea96a833591b5cfd5f56bbb3d4927bb243062af5fba8e457e9417d2d5d29ba99",
+      "bytes": 797
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/transverse-current-deltas.txt",
+      "sha256": "defa51f838224e7026f07e5f8f08651ea6e6688e5740332f40ebe088d910846b",
+      "bytes": 60759
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/transverse-reuse.json",
+      "sha256": "6ef0ca68ef0d13dc8e4a48e72a6e0c8cd7aa82502510a653507bcc3997cda306",
+      "bytes": 8743
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/validate-final.py",
+      "sha256": "07a3175ffa4c42a54c9323afbcb8b156cc961bce7d2c9d6ad7aea324b2b4e74e",
+      "bytes": 7928
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/explicit-owned-paths.txt",
+      "sha256": "46e88f675c462d2fcacc0be47a91b98e01ea3439c0de6cc403b8d971b6f91dda",
+      "bytes": 6144
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/bank-of-england/bank-of-england-2019-payments-through-time/payments-through-time.html",
+      "sha256": "09bfaab2c8fb5d0ff7d7ab90b4007e70bd1ba3258a765baeecd364ef0c5ced2f",
+      "bytes": 41464
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/bank-of-england/bank-of-england-2019-payments-through-time/acquisition.json",
+      "sha256": "eb00125b3b95e5934396961f93bc926a2a7876cbf84a21df50be32bbdf1e37e7",
+      "bytes": 1251
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/T22-bank-local-copy-hygiene.json",
+      "sha256": "8f745e5e5a8a8e3d36f94b77ea7bb9bf59720450f3ba2bbc6202aa3b0c38d142",
+      "bytes": 436237
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/bank-local-copy-binding.json",
+      "sha256": "aa633976747b157486e6938b54b5922b313482e5814214b5e605c48d1a2f77a7",
+      "bytes": 891
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/commit-message.txt",
+      "sha256": "406b116e8c7f3ff5c92b7ab84f74f8724bbd1f0f5a9b278da00eb64f371992c4",
+      "bytes": 491
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/effects-bank-local-copy.json",
+      "sha256": "b826d9f8aece9ef00bef0ff8de9d35b7902d2879d2b0bb3a4b8a7e562b87ea4a",
+      "bytes": 1138
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/intake-bank-local-copy.json",
+      "sha256": "e57ddf0295c9a53ab1ece032b3dc9b2fefaec8af8f2d86234de70140f19ddadf",
+      "bytes": 242
+    }
+  ],
+  "commit_message": "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/commit-message.txt",
+  "checks": {
+    "canonical_hashes_match_updated_receipt": true,
+    "bank_body_byte_unchanged": true,
+    "bank_local_copy_exists": true,
+    "bank_T22_failures": 0,
+    "staged_authored_diff_check": "passed; original raw HTML and exact unified-diff witness excluded from whitespace normalization",
+    "whitespace_preservation_exceptions": [
+      "working/p2-enrichment/snapshots/T22-private-E4-comparative-integration-2026-09-08/transverse-current-deltas.txt",
+      "working/sources-texts-references/primary-texts/bank-of-england/bank-of-england-2019-payments-through-time/payments-through-time.html"
+    ]
+  },
+  "index": "untouched; wait after Dirac and Sanskrit owner"
+}

@@ -1,0 +1,38 @@
+{
+  "root": {
+    "id": "monier-williams-1899-sanskrit-english-dictionary",
+    "title": "Monier-Williams — Sanskrit-English Dictionary (1899), enumeration entries",
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Monier-Williams — Sanskrit-English Dictionary (1899), enumeration entries",
+      "Identity, selected edition and historical scope",
+      "Consulted objects",
+      "Comparison and consumption",
+      "Passages and excerpts",
+      "monier-williams-1899-sanskrit-english-dictionary-p001 — Counting and an articulated number",
+      "monier-williams-1899-sanskrit-english-dictionary-p002 — The philosophical name"
+    ],
+    "sha256": "db95322dcd16168d6edd6e9473f9d27c56a795afe15780afb0247a2d0b970b14",
+    "citation_status": "citation-ready-for-scoped-online-paraphrase",
+    "quote_status": "paraphrase-ready; no-exact-quotation"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

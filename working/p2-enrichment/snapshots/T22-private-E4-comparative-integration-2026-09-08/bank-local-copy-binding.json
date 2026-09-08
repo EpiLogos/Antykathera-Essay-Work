@@ -1,0 +1,13 @@
+{
+  "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/bank-of-england/bank-of-england-2019-payments-through-time/SOURCE.md",
+  "before_sha256": "2ae8b6266f439c7b662e0cb77f67214d1e31b6cb858a2af4bfe9c71949611bd2",
+  "after_sha256": "500607e378940e450c697cb90528c929b4e0674b7031681403793762d2b908e4",
+  "only_edit": {
+    "local_copy": "working/sources-texts-references/primary-texts/bank-of-england/bank-of-england-2019-payments-through-time/payments-through-time.html"
+  },
+  "card_and_body_byte_unchanged": true,
+  "raw_sha256": "09bfaab2c8fb5d0ff7d7ab90b4007e70bd1ba3258a765baeecd364ef0c5ced2f",
+  "raw_bytes": 41464,
+  "authorization": "user single local_copy field following verified bounded retrieval",
+  "acquisition": "working/sources-texts-references/primary-texts/bank-of-england/bank-of-england-2019-payments-through-time/acquisition.json"
+}

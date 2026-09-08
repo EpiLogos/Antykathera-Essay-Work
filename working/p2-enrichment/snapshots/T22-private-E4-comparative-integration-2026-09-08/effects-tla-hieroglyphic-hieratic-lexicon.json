@@ -1,0 +1,37 @@
+{
+  "root": {
+    "id": "tla-hieroglyphic-hieratic-lexicon",
+    "title": "Thesaurus Linguae Aegyptiae — hieroglyphic/hieratic lexicon",
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/tla/tla-hieroglyphic-hieratic-lexicon/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Thesaurus Linguae Aegyptiae — hieroglyphic/hieratic lexicon",
+      "Identity, edition and scope",
+      "Consulted carriers",
+      "Licensed comparison and consumption",
+      "Passages and excerpts",
+      "tla-hieroglyphic-hieratic-lexicon-p001 — Rn, name"
+    ],
+    "sha256": "182191175f2420784d78b3408f00dc2ba26b74743272826cf06842c534d3a90e",
+    "citation_status": "citation-ready-for-scoped-online-paraphrase",
+    "quote_status": "paraphrase-ready; no-exact-quotation"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}
