@@ -165,7 +165,7 @@ The technical account can record the obligation; a personed trust relation gives
 
 ## Historical routes
 
-[[../../histories/language-law-nation-centralisation/HISTORY|Language, Law, Nation, and Centralisation]] carries the trunk and branches generated around this unit: Occitan/French centralisation, Jewish and Kabbalistic centres in Languedoc, Renaissance patronage and transmission, Italian and German language-national formations, Anglo-Celtic jurisdiction, Hebrew revival and Zionism, Abrahamic Word/Law/people geometries, epistemic exclusion, post-war institutional continuity and computational classification.
+[[../../histories/places-and-peoples/language-law-nation-centralisation/HISTORY|Language, Law, Nation, and Centralisation]] carries the trunk and branches generated around this unit: Occitan/French centralisation, Jewish and Kabbalistic centres in Languedoc, Renaissance patronage and transmission, Italian and German language-national formations, Anglo-Celtic jurisdiction, Hebrew revival and Zionism, Abrahamic Word/Law/people geometries, epistemic exclusion, post-war institutional continuity and computational classification.
 
 The sixfold remains available to all of those histories without making any branch an instance mechanically generated from the table. Each branch supplies its own actors, sources, laws, institutions and dates; the etymological unit supplies the whole meaning-field through which their relations can be compared and returned.
 

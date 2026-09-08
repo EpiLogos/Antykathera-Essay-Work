@@ -1,0 +1,60 @@
+{
+  "standing": "Four existing canonical whole bodies moved once; semantic development and batch T22 remain required.",
+  "moves": [
+    {
+      "record_id": "mytheme-myth-attica-athena-poseidon-cecrops",
+      "old_home": "submission-package/essay/symbolon/mytheme/myth/attica-athena-poseidon-cecrops/WHOLE.md",
+      "new_home": "submission-package/essay/symbolon/mytheme/worlds/hellenic/attica-athena-poseidon-cecrops/WHOLE.md",
+      "existing_body": true,
+      "disposition": "move-preserve-whole",
+      "basis": ".wayfinder/maps/t20-t21-world-registers.md",
+      "source_setting": "hellenic",
+      "before_sha256": "0ceb05bd2cb11ba7bf77c2c5a239f8921dc085db09a0b0a8933b12dc6bb08a66",
+      "after_sha256": "8b674def2b5c775f8983dc444eb53b0815fb4fcdccb694df82d317690a1759f1",
+      "content_change": "Attica: one relative E-history link changed to exact canonical target; all telling and amplification prose retained"
+    },
+    {
+      "record_id": "mytheme-myth-hypostasis-archons-norea-sophia",
+      "old_home": "submission-package/essay/symbolon/mytheme/myth/hypostasis-archons-norea-sophia/WHOLE.md",
+      "new_home": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md",
+      "existing_body": true,
+      "disposition": "move-preserve-whole",
+      "basis": ".wayfinder/maps/t20-t21-world-registers.md",
+      "source_setting": "late-antique-gnostic",
+      "before_sha256": "2d4f21cbb298fcc39fd51f71f5a54b117f5347010b654d6d286eed8dd3632204",
+      "after_sha256": "2d4f21cbb298fcc39fd51f71f5a54b117f5347010b654d6d286eed8dd3632204",
+      "content_change": "byte-identical"
+    },
+    {
+      "record_id": "mytheme-narrative-fanon-language-gaze-mask-recognition",
+      "old_home": "submission-package/essay/symbolon/mytheme/narrative/fanon-language-gaze-mask-recognition/WHOLE.md",
+      "new_home": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+      "existing_body": true,
+      "disposition": "move-preserve-whole",
+      "basis": ".wayfinder/maps/t20-t21-world-registers.md",
+      "source_setting": "francophone-anticolonial",
+      "before_sha256": "3c170c15309739eba7c0b35660891fdf63b4bb5059371cf06ffe0ed2421be074",
+      "after_sha256": "3c170c15309739eba7c0b35660891fdf63b4bb5059371cf06ffe0ed2421be074",
+      "content_change": "byte-identical"
+    },
+    {
+      "record_id": "mytheme-narrative-jung-aion-fishes-christ-antichrist-alchemy",
+      "old_home": "submission-package/essay/symbolon/mytheme/narrative/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md",
+      "new_home": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md",
+      "existing_body": true,
+      "disposition": "move-preserve-whole",
+      "basis": ".wayfinder/maps/t20-t21-world-registers.md",
+      "source_setting": "analytical-psychology",
+      "before_sha256": "9acb7252ed213c2a4ad920625a8a1fe0f92f8f36b5498be670eb30138baeefb6",
+      "after_sha256": "9acb7252ed213c2a4ad920625a8a1fe0f92f8f36b5498be670eb30138baeefb6",
+      "content_change": "byte-identical"
+    }
+  ],
+  "inbound_files_updated": [
+    "submission-package/essay/symbolon/mytheme/README.md",
+    "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+    "submission-package/essay/symbolon/mytheme/myth/README.md",
+    "submission-package/essay/symbolon/mytheme/narrative/README.md"
+  ],
+  "protected_NOTES_or_manuscript_edited": false
+}

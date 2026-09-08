@@ -18,7 +18,7 @@ The compact form is:
 Topos → Logos → Nomos → Natio
 ```
 
-[[../../etymologies/trust-place-logos-nomos-natio-credere/HISTORY|Fides, Topos, Logos, Nomos, Natio, Credere]] preserves the whole sixfold; [[../../etymologies/arbitration-hybris-regard-anamnesis/HISTORY|Arbitration, Hybris, Regard, and Anamnesis]] preserves the cut/return grammar through which those alignments become consequential. This file follows their actual historical carriers: places, conquests, marriages, schools, laws, translations, archives, patrons, courts, bureaucracies, publishers, churches, financial practices, intelligence organisations, technologies and the persons moving through them.
+[[../../../etymologies/trust-place-logos-nomos-natio-credere/HISTORY|Fides, Topos, Logos, Nomos, Natio, Credere]] preserves the whole sixfold; [[../../../etymologies/arbitration-hybris-regard-anamnesis/HISTORY|Arbitration, Hybris, Regard, and Anamnesis]] preserves the cut/return grammar through which those alignments become consequential. This file follows their actual historical carriers: places, conquests, marriages, schools, laws, translations, archives, patrons, courts, bureaucracies, publishers, churches, financial practices, intelligence organisations, technologies and the persons moving through them.
 
 ## Historical and archetypal Logos
 
@@ -185,7 +185,7 @@ The contemporary branch turns classification into runtime infrastructure. A mode
 mark → name → policy/allocation → changed world → new evidence → stronger/revised name
 ```
 
-The feedback can make the produced world appear to confirm the original characterization. The existing preference-model, hidden-zero, provenance and governance work in [[../technology-politics/HISTORY|Technology, Politics, and Institutions]] supplies the technical body. The present history supplies its longer genealogy in naming, legibility, jurisdiction and arbitration.
+The feedback can make the produced world appear to confirm the original characterization. The existing preference-model, hidden-zero, provenance and governance work in [[../../traditions-and-disciplines/technology-politics/HISTORY|Technology, Politics, and Institutions]] supplies the technical body. The present history supplies its longer genealogy in naming, legibility, jurisdiction and arbitration.
 
 The practical question at the essay's technological endpoint is therefore historical: can the instrument preserve the source, cut, evaluator, counter-perspective and revision path through which a classification acquired standing? If so, the technical system can make etymological and historical anamnesis operational rather than merely retrospective.
 

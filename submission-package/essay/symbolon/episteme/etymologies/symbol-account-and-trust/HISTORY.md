@@ -63,7 +63,7 @@ These are not decorative world examples. Each could alter the essay's account of
 | [Trust, Faith, and the Formal Limit](../../../../section-rooms/arguments/18-trust-faith-formal-limit.md) | Credit and record sharpen the difference between a living relation of trust and the documents that can only make its conditions inspectable. |
 | [§5 · #3 — Preference Models and the Hidden Zero](../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) | Scores, baselines, and records become an account of value whose excluded conditions must remain contestable. |
 | [§5→0 · #1 — QL, MEF, Bimba, and Harness](../../../../section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md) | Provenance and revision give the abstract account a technical body without confusing its audit trail with the relation itself. |
-| [Language, Symbol, and Dialogue](../../histories/language-symbol-dialogue/HISTORY.md) | Connects symbol, signification, and shared meaning to the existing historical route. |
+| [Language, Symbol, and Dialogue](../../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY.md) | Connects symbol, signification, and shared meaning to the existing historical route. |
 
 The cluster supplies a disciplined vocabulary for the movement from mark to account to return. Its entries are invitations to retrieve the source shelf and the canonical passage, never substitute warrants.
 

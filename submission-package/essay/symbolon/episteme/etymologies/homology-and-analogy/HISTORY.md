@@ -59,7 +59,7 @@ The essay's two logics offer a working example. *Dia-ballein* and *sym-ballein* 
 | [Core Theorem Bridge](../../../../section-rooms/arguments/12-core-theorem-bridge.md) | Supplies a clear distinction between proportional refraction and identity-claim. |
 | [Sym-Ballein](../../../../section-rooms/arguments/03-two-logics-and-sym-ballein.md) | Gives a test for comparison: the seam, provenance, and differing registers must remain visible. |
 | [Computational Process Ontology](../../../../section-rooms/arguments/14-computational-process-ontology.md) | Keeps the Greek, Sanskrit, process, and technical inheritances plural inside a shared operational grammar. |
-| [Language, Symbol, and Dialogue](../../histories/language-symbol-dialogue/HISTORY.md) | Places comparison inside the history of signification, dialogue, and translation rather than outside language. |
+| [Language, Symbol, and Dialogue](../../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY.md) | Places comparison inside the history of signification, dialogue, and translation rather than outside language. |
 | [§4 · #3 — Lacan, Matheme, and Mytheme](../../../../section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md) | Lets formula and image retain their distinct carriers while a traceable operation crosses between them. |
 
 This cluster names the relation of comparison; it does not adjudicate every comparison in advance. Each use must still recover the local source, proposition, and proof boundary.

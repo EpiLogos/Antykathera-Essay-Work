@@ -200,7 +200,7 @@ This bridge is also mythically active in the already recovered Aresâ€“Aphroditeâ
 
 ## Historical and quilt routes
 
-The unit directly feeds [[../../histories/language-law-nation-centralisation/HISTORY|Language, Law, Nation, and Centralisation]], where arbitration becomes historical in language standardisation, jurisdiction, national belonging, epistemic admission and administrative classification. It also returns into [[../../histories/language-symbol-dialogue/HISTORY|Language, Symbol, and Dialogue]], [[../../histories/technology-politics/HISTORY|Technology, Politics, and Institutions]], the existing Dia/Syn movements, the hidden-zero argument, and the King/arbitrator psychoid field.
+The unit directly feeds [[../../histories/places-and-peoples/language-law-nation-centralisation/HISTORY|Language, Law, Nation, and Centralisation]], where arbitration becomes historical in language standardisation, jurisdiction, national belonging, epistemic admission and administrative classification. It also returns into [[../../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY|Language, Symbol, and Dialogue]], [[../../histories/traditions-and-disciplines/technology-politics/HISTORY|Technology, Politics, and Institutions]], the existing Dia/Syn movements, the hidden-zero argument, and the King/arbitrator psychoid field.
 
 The working quilt should preserve a return route across all three sixfold determinations:
 

@@ -94,8 +94,8 @@ These are internal research addresses, not additions to the main source pool and
 | [§5→0 · #0 — From Theory to Vocation](../../../../section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md) | The eros-of-logos line; the species defined by self-knowledge (nosce te ipsum). |
 | [§5→0 · #3 — 4:2 Technē and the Sovereign Commons](../../../../section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md) | Mono-poly trust: one living field through many anchors. |
 | [Register Grammar](../../concepts/register-grammar.md) | Descent / homology / re-entry classification discipline applied to the whole field. |
-| [Zero, Subject, and the Advent of Integral Logic](../../histories/zero-subject-advent/HISTORY.md) | The history this field thickens: consciousness as a historical psychic event (Neumann) joined to the species-name. |
-| [Language, Symbol, and Dialogue](../../histories/language-symbol-dialogue/HISTORY.md) | The word as symbolon; the species-name as a formed half whose answering movement the argument supplies. |
-| [Psychology](../../histories/psychology/HISTORY.md) | Neumann's post-Jungian place: Mother Earth and the hero whose name retains the earth. |
+| [Zero, Subject, and the Advent of Integral Logic](../../histories/traditions-and-disciplines/zero-subject-advent/HISTORY.md) | The history this field thickens: consciousness as a historical psychic event (Neumann) joined to the species-name. |
+| [Language, Symbol, and Dialogue](../../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY.md) | The word as symbolon; the species-name as a formed half whose answering movement the argument supplies. |
+| [Psychology](../../histories/traditions-and-disciplines/psychology/HISTORY.md) | Neumann's post-Jungian place: Mother Earth and the hero whose name retains the earth. |
 
 The cluster supplies a meaning-field and retrieval route. Its status is **proposal pending Frank's verification**: the Neumann passage, the lexical shelf, and the authorial glosses (4+2 as eros-of-logos; the mono-poly species-name) all await his amendment or acceptance before they become first-class and integrate into canonical nodes.

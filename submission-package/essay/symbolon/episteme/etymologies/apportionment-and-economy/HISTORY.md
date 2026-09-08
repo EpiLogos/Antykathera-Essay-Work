@@ -60,6 +60,6 @@ These references are internal research addresses, not additions to the main sour
 | [§5→0 · #3 — 4:2 Technē and the Sovereign Commons](../../../../section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md) | Oikonomia refracts governance as the circulation of authority, data, benefit, and return across a household of differentiated nodes. |
 | [Mono-Poly: Whole and Many](../../../../section-rooms/arguments/11-mono-poly-whole-and-many.md) | The relation between one field and many shares becomes an institutional question without turning mono into monopoly. |
 | [Computational Process Ontology](../../../../section-rooms/arguments/14-computational-process-ontology.md) | A computational output can be read as an account only when its source field, exclusions, measure, and route of return remain inspectable. |
-| [Technology, Politics, and Institutions](../../histories/technology-politics/HISTORY.md) | The historical route keeps the economic field material: ownership, law, labour, memory, energy, and governance are not metaphorical residues. |
+| [Technology, Politics, and Institutions](../../histories/traditions-and-disciplines/technology-politics/HISTORY.md) | The historical route keeps the economic field material: ownership, law, labour, memory, energy, and governance are not metaphorical residues. |
 
 The cluster supplies a meaning-field and retrieval route. The linked arguments keep their own propositions, warrants, and claim-statuses.
