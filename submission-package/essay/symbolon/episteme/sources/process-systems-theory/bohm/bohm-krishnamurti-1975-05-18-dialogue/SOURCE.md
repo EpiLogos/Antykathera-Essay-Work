@@ -36,6 +36,7 @@ primary_domain: process-systems-theory
 node_type: source-house
 ownership: canonical-source-house
 schema_version: 1
+local_copy: working/sources-texts-references/primary-texts/bohm/dialogue-1975.html
 passage_surface: '#passages'
 ---
 # Bohm and Krishnamurti — Truth, Actuality, and the Limits of Thought (18 May 1975)
@@ -64,3 +65,12 @@ These source-specific fields were gathered before consolidation and remain part 
 #### `bohm-krishnamurti-1975-05-18-dialogue-q001`
 
 | `bohm-krishnamurti-1975-05-18-dialogue-q001` | `bohm-krishnamurti-1975-05-18-dialogue` | transcript paragraph/timecode needed | source-matched | HTML transcript | spinning wheel and “thread running straight” | §3 | [[Bohmian Enfoldment and Dialogical Return]] | no |
+
+## Consulted transcript locations — 8 September 2026
+
+The official HTML carrier was saved locally. Selected opening, wheel/thread and later reflexivity/conclusion exchanges were read; this does not claim an audio timecode or complete transcript reading. **q001** is located by Bohm's recollection of the titled thread story and the subsequent spinning-wheel exchange. The complex phase/modulus comparison belongs to Taylor.
+
+<a id="bohm-krishnamurti-1975-05-18-dialogue-q002"></a>
+**q002 · concluding exchanges on knowledge and reality.** Thought can mistake its own reflexive activity for an independently existing object. The speakers explore correcting that independence claim while retaining functional knowledge. Krishnamurti questions Bohm's account of energy and their common root; their formulations must retain that disagreement.
+
+This source **sources** [the Bohm dossier](../../../../dossiers/bohm.md). Print pagination and media timecodes remain unassigned.
