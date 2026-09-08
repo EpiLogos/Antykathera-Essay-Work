@@ -57,12 +57,36 @@ Institutional source for the history and form of the Language of Spirit dialogue
 The eight-page brochure was read in full as text. Page numbers below are PDF positions. The previous institutional-host URL did not retrieve; the linked institutional brochure copy supplies the consulted object.
 
 <a id="seed-2010-language-spirit-q001"></a>
-**q001 · PDF 2 and 4.** The introduction dates Little Bear and Peat's approach to Bohm to 1992 and SEED sponsorship to 1999; the institutional description dates SEED's founding to 1996.
+### q001 · PDF 2 and 4
+
+The introduction dates Little Bear and Peat's approach to Bohm to 1992 and SEED sponsorship to 1999; the institutional description dates SEED's founding to 1996.
+
+**Locator:** PDF 2 and 4.
+
+**Status:** Paraphrase only; no quotation admission.
+
+**Verification:** The bounded reading and consulted-carrier scope are recorded in this source house. This heading repair adds no new source-verification claim.
 
 <a id="seed-2010-language-spirit-q002"></a>
-**q002 · PDF 5.** Glenn Aparicio Parry describes a hybrid of Native talking-circle and Bohmian dialogue forms. His interpretation of another speaker remains his attributed interpretation.
+### q002 · PDF 5
+
+Glenn Aparicio Parry describes a hybrid of Native talking-circle and Bohmian dialogue forms. His interpretation of another speaker remains his attributed interpretation.
+
+**Locator:** PDF 5.
+
+**Status:** Paraphrase only; no quotation admission.
+
+**Verification:** The bounded reading and consulted-carrier scope are recorded in this source house. This heading repair adds no new source-verification claim.
 
 <a id="seed-2010-language-spirit-q003"></a>
-**q003 · PDF 6.** Pat McCabe's participant-authored abstract names culturally different tools of perception and a relational concern. It supplies a named voice, not a universal Indigenous doctrine.
+### q003 · PDF 6
+
+Pat McCabe's participant-authored abstract names culturally different tools of perception and a relational concern. It supplies a named voice, not a universal Indigenous doctrine.
+
+**Locator:** PDF 6.
+
+**Status:** Paraphrase only; no quotation admission.
+
+**Verification:** The bounded reading and consulted-carrier scope are recorded in this source house. This heading repair adds no new source-verification claim.
 
 The brochure advertises a 2010 conference and proposed activities; it does not establish observed outcomes or scientific validation of its programme themes. This house **sources** [the Bohm dossier](../../../../dossiers/bohm.md).

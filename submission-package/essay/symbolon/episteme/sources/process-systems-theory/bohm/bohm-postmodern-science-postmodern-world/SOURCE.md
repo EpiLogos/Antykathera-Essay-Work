@@ -27,12 +27,41 @@ David Bohm, essay hosted by the [David Bohm Society](https://www.davidbohmsociet
 ## Passages and paraphrase locations
 
 <a id="bohm-postmodern-science-postmodern-world-q001"></a>
-**q001 · §V, implicate order.** Bohm proposes enfolding/unfolding as primary and discrete objects as derivative stabilities. His qualification is degree: the whole is involved in a region without every region being an exhaustive readable copy. This is his proposed interpretation.
+### q001 · §V, implicate order
+
+Bohm proposes enfolding/unfolding as primary and discrete objects as derivative stabilities. His qualification is degree: the whole is involved in a region without every region being an exhaustive readable copy. This is his proposed interpretation.
+
+**Locator:** §V, implicate order.
+
+**Status:** Paraphrase only; no quotation admission.
+
+**Verification:** The bounded reading and consulted-carrier scope are recorded in this source house. This heading repair adds no new source-verification claim.
 
 <a id="bohm-postmodern-science-postmodern-world-q002"></a>
-**q002 · §VI, meaning and value.** He connects the organization of thought, human action and the world affected by action. His ethical appeal extends the interpretation; it is not independent experimental confirmation of it.
+### q002 · §VI, meaning and value
+
+He connects the organization of thought, human action and the world affected by action. His ethical appeal extends the interpretation; it is not independent experimental confirmation of it.
+
+**Locator:** §VI, meaning and value.
+
+**Status:** Paraphrase only; no quotation admission.
+
+**Verification:** The bounded reading and consulted-carrier scope are recorded in this source house. This heading repair adds no new source-verification claim.
 
 Selected sections V–VI were read completely. The bibliography cites *Wholeness and the Implicate Order* (1980); citation of that book is not a substitute for collating its passages.
+
+<a id="bohm-postmodern-science-postmodern-world-q003"></a>
+### q003 · §III, vortex comparison
+
+Bohm treats the vortex as a relatively stable pattern of moving water, not an independently existing substance. This is his explanatory comparison.
+
+**Locator:** §III, vortex comparison.
+
+**Status:** Paraphrase only; no quotation admission.
+
+**Verification:** The bounded reading and consulted-carrier scope are recorded in this source house. This heading repair adds no new source-verification claim.
+
+Section III was read completely for q003 on 8 September 2026. Its surrounding relativity history remains Bohm’s own account, not an independently verified history-of-physics finding. No print quotation is admitted.
 
 ## Consumption
 

@@ -1,13 +1,18 @@
 ---
 title: "Taylor — Binary Explication (four-file canonical-candidate set)"
 record_id: taylor-2026-binary-explication
+source_id: taylor-2026-binary-explication
+node_type: source-house
+ownership: canonical-source-house
+primary_domain: internal-corpus
+schema_version: 1
 record_type: source
 source_type: authorial-manuscript
 author: Frank Taylor
 register: episteme
 claim_status: Derived
 status: canonical-candidate-set
-local_copy: "../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/"
+local_copy: "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/"
 citation_ready: false
 quote_status: "excerpts-indexed-internal"
 date: 2026-06-10
@@ -57,4 +62,4 @@ The [core-theorems spine](../taylor-2026-core-theorems-pithy/SOURCE.md) is the *
 
 ## Relations
 
-Consumed by: the [[../../../matheme/README|Matheme register]] (whose definition/process/quilt/music folders project this set's structure), the [A/C root](../../../../conjugate/AC.md) grounding, and the symbolon root layer's subject-logics derivation chain. Draft 3 of The Definition of God is a **parallel theological application** of the same derivation, not a precursor. Standing debts: the candidate set remains un-promoted; exact external attributions inside the files (Lacan *Encore*/*L'Étourdit* wording, commentators' homologies) keep their own verification gates per the plan's honesty protocols. Do not create or edit any NOTES.md beside the local copies.
+Consumed by: the [[../../../../../matheme/README|Matheme register]] (whose definition/process/quilt/music folders project this set's structure), the [A/C root](../../../../conjugate/AC.md) grounding, and the symbolon root layer's subject-logics derivation chain. Draft 3 of The Definition of God is a **parallel theological application** of the same derivation, not a precursor. Standing debts: the candidate set remains un-promoted; exact external attributions inside the files (Lacan *Encore*/*L'Étourdit* wording, commentators' homologies) keep their own verification gates per the plan's honesty protocols. Do not create or edit any NOTES.md beside the local copies.

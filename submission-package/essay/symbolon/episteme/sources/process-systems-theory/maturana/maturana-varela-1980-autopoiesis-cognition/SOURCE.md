@@ -98,10 +98,26 @@ Exact pages for the selected edition must be located in a lawful copy before any
 Consulted scan: [Columbia course shelf](https://www.columbia.edu/cu/tract/projects/complexity-theory/varela-autopoesis-and-cogni.pdf). PDF 1–2 identifies the 1980 Reidel edition. OCR is a reading aid; no exact quotations have been admitted.
 
 <a id="maturana-varela-1980-autopoiesis-cognition-q001"></a>
-**q001 · printed 77–81 / PDF 53–55.** Organization defines the unity; structure realizes it. Autopoietic production regenerates its network and boundary. Input/output description belongs to an observer's domain.
+### q001 · printed 77–81 / PDF 53–55
+
+Organization defines the unity; structure realizes it. Autopoietic production regenerates its network and boundary. Input/output description belongs to an observer's domain.
+
+**Locator:** printed 77–81 / PDF 53–55.
+
+**Status:** Paraphrase only; no quotation admission.
+
+**Verification:** The bounded reading and consulted-carrier scope are recorded in this source house. This heading repair adds no new source-verification claim.
 
 <a id="maturana-varela-1980-autopoiesis-cognition-q002"></a>
-**q002 · printed 107–111 / PDF 68–70.** Coupling preserves interacting identities through mutual modification. A resulting composite requires its own production criterion before it is called autopoietic.
+### q002 · printed 107–111 / PDF 68–70
+
+Coupling preserves interacting identities through mutual modification. A resulting composite requires its own production criterion before it is called autopoietic.
+
+**Locator:** printed 107–111 / PDF 68–70.
+
+**Status:** Paraphrase only; no quotation admission.
+
+**Verification:** The bounded reading and consulted-carrier scope are recorded in this source house. This heading repair adds no new source-verification claim.
 
 **Attribution distinction · printed 70–71 / PDF 50.** Stafford Beer's preface advances a social extension while acknowledging the authors' disagreement. It is not their joint conclusion.
 

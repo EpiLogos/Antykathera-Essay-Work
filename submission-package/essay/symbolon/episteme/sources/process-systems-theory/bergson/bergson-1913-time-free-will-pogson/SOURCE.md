@@ -29,9 +29,25 @@ The [Project Gutenberg transcription](https://www.gutenberg.org/files/56852/5685
 ## Passage locations
 
 <a id="bergson-1913-time-free-will-pogson-q001"></a>
-**q001 · chapter II, displayed pp.100–106.** Duration concerns successive conscious states permeating one another. Melody illustrates a qualitative whole changed by the next note. Setting moments beside one another changes the object into a spatial representation. The argument preserves successive development without treating it as a row of interchangeable units.
+### q001 · chapter II, displayed pp.100–106
+
+Duration concerns successive conscious states permeating one another. Melody illustrates a qualitative whole changed by the next note. Setting moments beside one another changes the object into a spatial representation. The argument preserves successive development without treating it as a row of interchangeable units.
+
+**Locator:** chapter II, displayed pp.100–106.
+
+**Status:** Paraphrase only; no quotation admission.
+
+**Verification:** The bounded reading and consulted-carrier scope are recorded in this source house. This heading repair adds no new source-verification claim.
 
 <a id="bergson-1913-time-free-will-pogson-q002"></a>
-**q002 · chapter II, displayed pp.108–112.** Counting a clock's simultaneous indications is distinguished from the conscious synthesis retaining successive movements. The space traversed and the act of traversing have different offices in the analysis. A technical timestamp is therefore not, merely through accurate recording, a demonstration of this phenomenal duration.
+### q002 · chapter II, displayed pp.108–112
+
+Counting a clock's simultaneous indications is distinguished from the conscious synthesis retaining successive movements. The space traversed and the act of traversing have different offices in the analysis. A technical timestamp is therefore not, merely through accurate recording, a demonstration of this phenomenal duration.
+
+**Locator:** chapter II, displayed pp.108–112.
+
+**Status:** Paraphrase only; no quotation admission.
+
+**Verification:** The bounded reading and consulted-carrier scope are recorded in this source house. This heading repair adds no new source-verification claim.
 
 The passage reading included the preceding discussion from the latter part of p.98 through p.112. No full-book reading or independent proof of its argument for freedom is asserted. The source **sources** the [process dossier](../../../../dossiers/process.md) and **historicises** the [process-science development](../../../../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT.md). It supplies the previously missing selected Bergson carrier; the essay's QL temporal operations retain their own native derivation.

@@ -1,0 +1,23 @@
+{
+  "standing": "abstract-level correction; manuscript and individual historical cases unverified",
+  "changed": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/nothaft/nothaft-2020-satanic-ciphers/SOURCE.md",
+      "before_sha256": "d4a7ea4acff4b45cb4bd856a051c8f0fcdf84da6a2966cc4b1702e5137d43f39",
+      "after_sha256": "9470dd1d05de88fb11a88bc06b5ae20e6c8e4121df795f978b2c6ec2627f5c1a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "before_sha256": "60161820678ab5fb711df31228883f3eca50d24f12aa77f5b74f9c2c3444dc19",
+      "after_sha256": "92091f32ecc2e392341e5a97817297c31d555bc700994eb2ce12c643908cf1e4"
+    }
+  ],
+  "effects": "T21-nothaft-correction-effects-before.json",
+  "source_sibling_NOTES": false,
+  "transverse_threads": [],
+  "hygiene": {
+    "targets": 2,
+    "failures": 0,
+    "report": "T22-nothaft-hygiene.json"
+  }
+}

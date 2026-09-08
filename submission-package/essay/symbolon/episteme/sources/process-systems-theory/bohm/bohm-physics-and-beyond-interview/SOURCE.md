@@ -27,10 +27,26 @@ David Bohm interviewed by F. David Peat, hosted by the [David Bohm Society](http
 ## Passages and paraphrase locations
 
 <a id="bohm-physics-and-beyond-interview-q001"></a>
-**q001 · answer to the request for an implicate/explicate example.** The dye becomes distributed through viscous fluid and returns to a visible drop when the movement reverses. Bohm compares this with information distributed through a holographic plate. The illustration distinguishes hidden organization from absence.
+### q001 · answer to the request for an implicate/explicate example
+
+The dye becomes distributed through viscous fluid and returns to a visible drop when the movement reverses. Bohm compares this with information distributed through a holographic plate. The illustration distinguishes hidden organization from absence.
+
+**Locator:** answer to the request for an implicate/explicate example.
+
+**Status:** Paraphrase only; no quotation admission.
+
+**Verification:** The bounded reading and consulted-carrier scope are recorded in this source house. This heading repair adds no new source-verification claim.
 
 <a id="bohm-physics-and-beyond-interview-q002"></a>
-**q002 · question on mind in relation to implicate and explicate order.** Bohm proposes parallelism between implicit meaning and material enfoldment, explicitly calling for further development. The proposal does not settle artificial phenomenality.
+### q002 · question on mind in relation to implicate and explicate order
+
+Bohm proposes parallelism between implicit meaning and material enfoldment, explicitly calling for further development. The proposal does not settle artificial phenomenality.
+
+**Locator:** question on mind in relation to implicate and explicate order.
+
+**Status:** Paraphrase only; no quotation admission.
+
+**Verification:** The bounded reading and consulted-carrier scope are recorded in this source house. This heading repair adds no new source-verification claim.
 
 The opening identification and the selected reasoning/context, dye, hologram and mind–matter exchanges were consulted. This is not a claim that the entire interview was read.
 
