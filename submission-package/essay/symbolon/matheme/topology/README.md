@@ -12,6 +12,16 @@ Topology carries the spaces and transformations through which a return can prese
 
 A topology record states the mathematical object, the transformation performed, the invariant retained and the exact QL operation it refracts. Local return with global displacement, for example, requires a specified loop and covering relation; the image of a torus alone establishes nothing.
 
-Figures that perform the derivation live in [[../diagrams/README|Diagrams]]. Historical and scholarly sources live in [[../../episteme/sources/README|Episteme sources]].
+Figures that perform the derivation live in [[submission-package/essay/symbolon/matheme/diagrams/README.md|Diagrams]]. Historical and scholarly sources live in [[submission-package/essay/symbolon/episteme/sources/README.md|Episteme sources]].
 
-Return to [[../README|Matheme]].
+## Records
+
+- [Projective completion and dimensional reframing](projective-completion.md)
+- [Projective line](projective-line.md)
+- [Riemann sphere and compactification](riemann-sphere.md)
+- [Torus, covering, winding and retained displacement](torus-cover-winding.md)
+- [Möbius / Klein and surface classification](mobius-klein-surfaces.md)
+- [Toroidal / poloidal confinement as bounded physical neighbour](toroidal-poloidal-confinement.md)
+- [Manifold atlas, charts and transition functions](manifold-atlas.md)
+
+Return to [[submission-package/essay/symbolon/matheme/README.md|Matheme]].

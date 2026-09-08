@@ -14,8 +14,8 @@ Grounding spans the essay space rather than one file: the [core-theorems spine �
 
 ## Structure
 
-- **dia** — the cut: contrast, discrimination, selection; productive and counterfeit forms ([[../quilt/README|quilt]]-register severance; C23).
-- **syn** — the gathering: retention through composition; the broken token keeping both halves and the fracture (C24 fusion, C25 counterfeit gathering, C26 monoisation as its failure-modes). The junction claiming that the gathering at full strength *is* the eros of logos is the pending [A-candidacy](../../../../../working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md).
-- **chronic** — synchronic (landscape: the configuration held together) and diachronic (trajectory: change, bifurcation, return); the two readings of one traversal — Symbolon Dynamics' operative pair.
+- **[dia](dia.md)** — the cut: contrast, discrimination, selection; productive and counterfeit forms ([[submission-package/essay/symbolon/matheme/quilt/README.md|quilt]]-register severance; C23).
+- **[syn](syn.md)** — the gathering: retention through composition; the broken token keeping both halves and the fracture (C24 fusion, C25 counterfeit gathering, C26 monoisation as its failure-modes). The junction claiming that the gathering at full strength *is* the eros of logos is the pending [A-candidacy](../../../../../working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md).
+- **[chronic](chronic.md)** — synchronic (landscape: the configuration held together) and diachronic (trajectory: change, bifurcation, return); the two readings of one traversal — Symbolon Dynamics' operative pair.
 
-Feeds [[../computation/README|Computation]] (the two runtime operations) and the [[../README|matheme spine]]'s slash position. The generative direction runs from gathering to cut.
+Feeds [[submission-package/essay/symbolon/matheme/computation/README.md|Computation]] (the two runtime operations) and the [[submission-package/essay/symbolon/matheme/README.md|matheme spine]]'s slash position. The generative direction runs from gathering to cut.

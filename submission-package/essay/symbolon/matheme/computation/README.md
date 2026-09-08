@@ -12,6 +12,14 @@ Computation carries formal and technical operations through which objective inte
 
 Every record separates implemented mechanism, mathematical model, research proposal and metaphysical inference. Functional structure can establish objective internality; it does not settle phenomenal subjectivity in either direction.
 
-Technical sources and experiment histories live in [[../../episteme/sources/README|Sources]] and [[../../episteme/histories/README|Histories]].
+Technical sources and experiment histories live in [[submission-package/essay/symbolon/episteme/sources/README.md|Sources]] and [[submission-package/essay/symbolon/episteme/histories/README.md|Histories]].
 
-Return to [[../README|Matheme]].
+## Records
+
+- [Softmax / argmax selection](softmax-argmax.md)
+- [Bradley–Terry preference gauge](preference-gauge.md)
+- [J-space operationalisation](j-space.md)
+- [EBM / resonance research fixture](ebm-resonance.md)
+- [Operational-parity experiments](operational-parity.md)
+
+Return to [[submission-package/essay/symbolon/matheme/README.md|Matheme]].

@@ -12,4 +12,8 @@ Spanda carries the equations through which relation becomes generative pulse. It
 
 Each equation receives a full derivation, a definition of every term, the status of each equality, and its exact relation to QL. Doctrinal Spanda material and textual history belong in Episteme; their lived or poetic vibration belongs in Mytheme. This domain holds the formal operation those refractions meet.
 
-Return to [[../README|Matheme]].
+## Records
+
+- [Spanda equations and inversion / return](spanda-equations.md)
+
+Return to [[submission-package/essay/symbolon/matheme/README.md|Matheme]].
