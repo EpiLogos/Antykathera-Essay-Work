@@ -5,7 +5,7 @@ record_type: etymology-historical-companion
 register: episteme
 claim_status: Argued
 source_relation: "Paraphrased lexical and historical witnesses; Argued authorial relational development"
-status: T21-developed-source-foldback-complete-consumer-integration-pending
+status: T21-developed-reviewed
 ---
 
 # Homologia / Analogia — Historical and Relational Branches

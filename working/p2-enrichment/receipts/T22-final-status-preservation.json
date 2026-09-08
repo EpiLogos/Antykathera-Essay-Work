@@ -1,0 +1,93 @@
+{
+  "standing": "Accepted per-batch review status; claim/source standings and all authored body text unchanged. Overall programme acceptance is separately receipted.",
+  "rows": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+      "old": "status: developed-parent-source-integration-pending",
+      "new": "status: T21-developed-reviewed",
+      "before_sha256": "1c97425edee5238186e2bf93ceae335fab826ceb64a464515963a9bc81cb6454",
+      "after_sha256": "5c3d693c8960fa6a8b542bdf1ab52aee1a90226fec41d5b6e9e08c584535269b",
+      "body_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "old": "status: p2-developed-awaiting-batch-review",
+      "new": "status: T21-developed-reviewed",
+      "before_sha256": "5ae3b2600e8fa2d9cfb63727c56a8237f74a6e37a46fdd0d096fc830bff1e983",
+      "after_sha256": "6b0d27da3d93277b10cffb8511e8e98c8d3231b92fd10eaf53850c1b62d7541b",
+      "body_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md",
+      "old": "status: T21-writer-developed-parent-T22-pending",
+      "new": "status: T21-developed-reviewed",
+      "before_sha256": "51b47174cbf1399f8c855c77455c2f2a444f7b3f379ab81d7cf02a60f4e58f72",
+      "after_sha256": "efa515677f6416f6adbe94c010dc908437730559f7f13464ee0b846887a70bb6",
+      "body_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/psychology/DEVELOPMENT.md",
+      "old": "status: developed-parent-integration-pending",
+      "new": "status: T21-developed-reviewed",
+      "before_sha256": "bb1317f294b6de4852833f0235ad5de3a44d3748b13fc3b8012c80678d0884f9",
+      "after_sha256": "93e2770c931c3e02687e0e61d0e7248c6829dd16e0141af65f38b718fef1844f",
+      "body_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/encounters-and-transmissions/myth/DEVELOPMENT.md",
+      "old": "status: developed-parent-consumer-integration-pending",
+      "new": "status: T21-developed-reviewed",
+      "before_sha256": "95477b313b62b2014ec04d93a53756f0410352e5a35e25eaaab54bbcff1b18f9",
+      "after_sha256": "4dea555e80fe00758c4f3347e91412035b0046a856056dfa5e6479bfdee8ea63",
+      "body_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORICAL-BRANCHES.md",
+      "old": "status: T21-developed-source-foldback-complete-consumer-integration-pending",
+      "new": "status: T21-developed-reviewed",
+      "before_sha256": "2ee5b4e43e0258b2b3b28527a71280274f7511686017894dfa657c241497b134",
+      "after_sha256": "bba963157f5ec215bbbe67ffec96b4372e77de0728e447dc771648f1a6cace24",
+      "body_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "old": "status: T21-developed-awaiting-parent-review",
+      "new": "status: T21-developed-reviewed",
+      "before_sha256": "0075ee5686fb8b3f5938df4a1e7471a667332f034f536ea859b353f53607c9d1",
+      "after_sha256": "3ca34b8ab15d6502b7ae83efc93bef2e68609a88ba3afb19f8d854dfcfd4c38a",
+      "body_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md",
+      "old": "status: T21-developed-source-foldback-complete-consumer-integration-pending",
+      "new": "status: T21-developed-reviewed",
+      "before_sha256": "5d56bf7163508d61d5eca469f3fd8bc9de37e6f3ce47b21527d435a4cf1fb29b",
+      "after_sha256": "a45117451f99233b2540a596ced1d6b6ae0b8200e681fae278f2d5f543a1f8fa",
+      "body_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "old": "status: T21-developed-parent-consumer-integration-pending",
+      "new": "status: T21-developed-reviewed",
+      "before_sha256": "8160fc3928bc77802fd507319092285a6146b91a877cffa9118fe8a21626c45d",
+      "after_sha256": "4f19e8971105b50517cc2582c4f6fe00cf8438e2c1e8f6ff71ec9f2f128bcf8c",
+      "body_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md",
+      "old": "status: T20-developed-awaiting-parent-review",
+      "new": "status: T20-developed-reviewed",
+      "before_sha256": "717a244db92c860cebeab5cb275ac3a9b5cf8595f6de0e1343295eacf28b4fcd",
+      "after_sha256": "fdc80d9c458449347bb8aa6c15f6415d94a080dcdeaa016c577d80a6359e3557",
+      "body_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md",
+      "old": "status: developed-primary-telling-source-integrated-consumer-integration-pending",
+      "new": "status: T20-developed-reviewed",
+      "before_sha256": "addbd94183a4a238909018a931b09e78cf466cac15533d3ea96c7275bc39498a",
+      "after_sha256": "f53d0937155a586dbe0ba8c71826d10fe4d35d7df2dbf408870943c9dcd61e85",
+      "body_unchanged": true
+    }
+  ]
+}

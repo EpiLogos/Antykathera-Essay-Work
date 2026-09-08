@@ -6,7 +6,7 @@ record_type: historical-development-companion
 register: episteme
 claim_status: Argued
 source_relation: "Paraphrased source-specific witnesses; Argued authorial comparison; later reception separately dated"
-status: T21-writer-developed-parent-T22-pending
+status: T21-developed-reviewed
 ---
 
 # Ancient Philosophy — Agreement, Measure and the Work of an Account

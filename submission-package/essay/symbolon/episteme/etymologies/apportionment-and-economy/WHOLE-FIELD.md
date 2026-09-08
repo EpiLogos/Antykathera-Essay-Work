@@ -5,7 +5,7 @@ record_type: etymology-whole
 register: episteme
 claim_status: Argued
 source_relation: "Argued from native relational field; Paraphrased historical branches; operational homology distinguished from descent"
-status: T21-developed-parent-consumer-integration-pending
+status: T21-developed-reviewed
 ---
 
 # Whole Field — Apportionment / Economy
@@ -34,7 +34,7 @@ The five operations below follow this pressure from finite capacity to planetary
 
 [A09](../../arguments/A09-Tattvic-Differential-Field.md) **grounds** the full descent: luminosity and self-articulating power differentiate through inverse universal orientations, a subject/object seam, contracted capacities and an inner instrument. [C14](../../concepts/C14-Maya-Operative-Measure.md) **defines** the operative horizon within that movement. A finite agent can know and act because its knowledge and power have a determinate reach. Recognition returns through those effective distinctions to their source; it preserves the apparatus through which a world is encountered.
 
-E6 follows what contraction makes available. A permission, a period of time and a selected field of relevance distribute different capacities; increasing one does not automatically enlarge the others. [A14](../../arguments/A14-Computational-Process-Ontology.md) **extends** this relation into computational process. A system's formal ability, permission to execute and capacity to answer for an effect need distinct accounts. The source of each allotment becomes consequential when an obstacle requires the terms of action to change.
+E6 follows what contraction makes available. A permission, a period of time and a selected field of relevance distribute different capacities; increasing one does not automatically enlarge the others. [A14](../../arguments/A14-Computational-Process-Ontology.md) **extends** this relation into computational process. A system's formal ability, permission to execute and capacity to answer for an effect need distinct accounts. The source of each allotment becomes consequential when an obstacle requires the terms of action to change. [C26](../../concepts/C26-Monoisation-Counter-Generation.md) **qualifies** the inverse: an apportioned office can treat its received share as ownership of the economy which sustains it.
 
 The [Indian philosophy history](../../histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT.md) **historicises** finite power by apportionment at register 3 through contracted efficacy, knowledge, desire, time and order. Their limits make distinct capacities workable; recognition returns through those capacities without annulling the apparatus. Sāṃkhya’s witness and Śaiva manifestation retain different accounts, and the native sixfold, eightfold and thirty-sixfold keep their own offices.
 
@@ -80,7 +80,7 @@ The [Foucault lens](../../lenses/foucault.md#foucault-scales-of-measure) **quali
 
 ### Liability and release
 
-The delegated-office operation **returns-to** [the whole Ares–Aphrodite relation](submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md#ares-guarantee-release). An undertaking apportions a possible loss to Poseidon and enables Hephaestus to release the lovers; the song leaves payment unreported. [A25](../../arguments/A25-Covenant-Mediating-Office-Source-Authority.md) receives the responsible office, while [A23](../../arguments/A23-Trust-Faith-and-the-Formal-Limit.md) receives committed reliance beyond the completed display. This is an evidence-register-3 relation, preserving the different claims of marriage gifts, fine and contingent surety rather than deriving one legal history from their narrative succession.
+The delegated-office operation **returns-to** [the whole Ares–Aphrodite relation](../../../mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md#ares-guarantee-release). An undertaking apportions a possible loss to Poseidon and enables Hephaestus to release the lovers; the song leaves payment unreported. [A25](../../arguments/A25-Covenant-Mediating-Office-Source-Authority.md) receives the responsible office, while [A23](../../arguments/A23-Trust-Faith-and-the-Formal-Limit.md) receives committed reliance beyond the completed display. This is an evidence-register-3 relation, preserving the different claims of marriage gifts, fine and contingent surety rather than deriving one legal history from their narrative succession.
 
 ### The technological act’s Name/Power return
 

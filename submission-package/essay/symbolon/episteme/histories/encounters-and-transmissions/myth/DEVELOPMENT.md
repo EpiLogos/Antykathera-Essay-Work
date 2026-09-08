@@ -6,7 +6,7 @@ register: episteme
 claim_status: Argued
 source_relation: "Paraphrased source-specific witnesses; Argued native relations; Offered technical applications"
 companion_of: history-myth
-status: developed-parent-consumer-integration-pending
+status: T21-developed-reviewed
 ---
 
 # Myth — Tellings, Changed Offices, and Consequential Return

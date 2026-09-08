@@ -31,5 +31,5 @@ Return to Kaplan at the source house’s [mathematical workbench](../../symbolon
 
 Finish with Kaplan’s [passage and provenance ledger](../../symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md#passage-and-provenance-ledger) and [return-to-the-essay map](../../symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md#return-to-the-essay). No Kaplan passage is yet quotation-ready; the book is presently usable for private learning, page-located paraphrase under its citation state, and exact acquisition planning. [#5→0 — The Loan Returns](movements/18-s1-p5-loan-returns.md) then brings the historical and formal zero back to the opening question with more determinate force.
 
-Return to [§1 in the master manuscript](THE-RETURN-OF-ZERO.md#section-s1-return-of-zero) at the movement you have just worked. The question for a paragraph is no longer “what does Kaplan say about zero?” but which historical scene, operation, locator and qualification make this particular transition possible.
+Return to [§1 in the master manuscript](../../THE-RETURN-OF-ZERO.md#section-s1-return-of-zero) at the movement you have just worked. The question for a paragraph is no longer “what does Kaplan say about zero?” but which historical scene, operation, locator and qualification make this particular transition possible.
 

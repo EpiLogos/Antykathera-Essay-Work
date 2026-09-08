@@ -1,0 +1,38 @@
+{
+  "root": {
+    "id": "WHOLE",
+    "title": "Pauli's egg dream — spontaneous division, conscious participation and the circle",
+    "path": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Pauli's egg dream — spontaneous division, conscious participation and the circle",
+      "#0 — A physicist meets his concepts in a dream",
+      "#1 — The first division happens before the dreamer intervenes",
+      "#2 — The dreamer finds what is in his own hand",
+      "#3 — Four eggs become a relation, and the relation becomes a circle",
+      "#4 — Pauli reads the part played by consciousness",
+      "#5→0 — The recovered telling returns to its authorial programme"
+    ],
+    "sha256": "addbd94183a4a238909018a931b09e78cf466cac15533d3ea96c7275bc39498a",
+    "claim_status": "Argued",
+    "register": "mytheme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "mytheme",
+    "carriers": []
+  }
+}

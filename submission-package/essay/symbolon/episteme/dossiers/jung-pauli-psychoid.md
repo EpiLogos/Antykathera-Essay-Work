@@ -6,7 +6,7 @@ register: episteme
 claim_status: Argued
 claim_status_scope: "Source-distinct historical reconstruction and authorial relation; C30's psychoid efficacy proposal remains Offered, empirical consequences Open."
 source_relation: "Paraphrased correspondence and later scholarship; Argued authorial return"
-status: developed-parent-source-integration-pending
+status: T21-developed-reviewed
 ---
 
 # Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms

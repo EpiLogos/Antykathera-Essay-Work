@@ -7,7 +7,7 @@ domain: narrative
 claim_status: Argued
 source_relation: "Paraphrased primary dream and Pauli commentary; authorial programme retained; new QL appointments Offered"
 human_amplification: relation-local
-status: developed-primary-telling-source-integrated-consumer-integration-pending
+status: T20-developed-reviewed
 source_readiness: consulted-carrier-telling-recovered-selected-edition-collation-open
 source_ids:
   - jung-pauli-meier-2001-atom-archetype

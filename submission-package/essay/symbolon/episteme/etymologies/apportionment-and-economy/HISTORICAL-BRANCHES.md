@@ -5,7 +5,7 @@ record_type: etymology-historical-companion
 register: episteme
 claim_status: Argued
 source_relation: "Paraphrased primary witnesses and lexical entries; Argued from native consumer operations"
-status: T21-developed-source-foldback-complete-consumer-integration-pending
+status: T21-developed-reviewed
 ---
 
 # Apportionment / Economy — Historical Branches

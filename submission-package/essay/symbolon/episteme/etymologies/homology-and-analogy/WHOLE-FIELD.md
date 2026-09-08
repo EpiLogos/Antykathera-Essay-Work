@@ -5,7 +5,7 @@ record_type: etymology-whole
 register: episteme
 claim_status: Argued
 source_relation: "Argued from the native Taylor field; historical relations separately scoped in the companion"
-status: T21-developed-awaiting-parent-review
+status: T21-developed-reviewed
 ---
 
 # Whole Field — Homologia / Analogia

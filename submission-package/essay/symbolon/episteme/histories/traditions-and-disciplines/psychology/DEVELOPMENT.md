@@ -8,7 +8,7 @@ claim_status_scope: "Historical and relational development of the admitted psych
 source_relation: "Paraphrased source accounts; Argued authorial relation; bounded Offered technical continuation"
 parent_record: history-psychology
 protected_history: HISTORY.md
-status: developed-parent-integration-pending
+status: T21-developed-reviewed
 ---
 
 # Psychology — Formation, Symbolic Transformation and the Return of Responsibility

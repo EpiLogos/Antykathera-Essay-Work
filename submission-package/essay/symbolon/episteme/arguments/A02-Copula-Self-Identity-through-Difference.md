@@ -9,7 +9,7 @@ record_type: argument
 register: episteme
 authority: canonical-semantic-argument
 claim_status: Argued
-status: p2-developed-awaiting-batch-review
+status: T21-developed-reviewed
 source_relation: "Argued from native copula derivation and protected Kripke/Watson encounters; Paraphrased core theorem and Definition of God performance"
 ---
 

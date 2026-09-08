@@ -1,0 +1,38 @@
+{
+  "root": {
+    "id": "DEVELOPMENT",
+    "title": "Psychology — Formation, Symbolic Transformation and the Return of Responsibility",
+    "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/psychology/DEVELOPMENT.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Psychology — Formation, Symbolic Transformation and the Return of Responsibility",
+      "#0 — A person acts within formations they did not consciously choose",
+      "#1 — Collective formation acquires a political apparatus",
+      "#2 — Symbolic totality changes the interpreter's place",
+      "#3 — A dream, a mathematical expression and a speaking place",
+      "#4 — Dynamical and cultural accounts make context consequential",
+      "#5→0 — Provisional agency returns the institutional question"
+    ],
+    "sha256": "bb1317f294b6de4852833f0235ad5de3a44d3748b13fc3b8012c80678d0884f9",
+    "claim_status": "Argued",
+    "register": "episteme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "episteme",
+    "carriers": []
+  }
+}

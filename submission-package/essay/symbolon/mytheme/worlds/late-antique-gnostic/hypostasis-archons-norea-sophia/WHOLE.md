@@ -4,7 +4,7 @@ record_id: mytheme-myth-hypostasis-archons-norea-sophia
 record_type: whole-mytheme
 register: mytheme
 domain: myth
-status: T20-developed-awaiting-parent-review
+status: T20-developed-reviewed
 claim_status: Offered
 source_relation: "Paraphrased primary telling; relation-local candidate amplification"
 human_amplification: relation-local
