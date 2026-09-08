@@ -1,0 +1,2847 @@
+{
+  "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md": {
+    "root": {
+      "id": "WHOLE",
+      "title": "Pauli's egg dream — spontaneous division, conscious participation and the circle",
+      "path": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md",
+      "artifact_type": "submission-artifact",
+      "authority": "submission-refraction",
+      "headings": [
+        "Pauli's egg dream — spontaneous division, conscious participation and the circle",
+        "#0 — A physicist meets his concepts in a dream",
+        "#1 — The first division happens before the dreamer intervenes",
+        "#2 — The dreamer finds what is in his own hand",
+        "#3 — Four eggs become a relation, and the relation becomes a circle",
+        "#4 — Pauli reads the part played by consciousness",
+        "#5→0 — The recovered telling returns to its authorial programme"
+      ],
+      "sha256": "addbd94183a4a238909018a931b09e78cf466cac15533d3ea96c7275bc39498a",
+      "claim_status": "Argued",
+      "register": "mytheme"
+    },
+    "method": "declared canonical graph and transverse-thread metadata only",
+    "depth": 4,
+    "consumers": {
+      "sections": [],
+      "arguments": [],
+      "concepts": [],
+      "paths": []
+    },
+    "downstream": {
+      "paths": [],
+      "edges": []
+    },
+    "transverse_threads": [],
+    "registers": {
+      "root": "mytheme",
+      "carriers": []
+    }
+  },
+  "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md": {
+    "root": {
+      "id": "A16-Arche-Topos-as-Differential-Field",
+      "title": "A16 — Arche-Topos as Differential Field",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "artifact_type": "submission-artifact",
+      "authority": "submission-refraction",
+      "headings": [
+        "A16 — Arche-Topos as Differential Field",
+        "#0",
+        "#1",
+        "#2",
+        "#3",
+        "#4",
+        "#5→0"
+      ],
+      "sha256": "5514eafb2ec6c159f47a7229c3b1fdfb1e678e60715714abbd086d99cf46b38d",
+      "claim_status": "Derived",
+      "register": "episteme"
+    },
+    "method": "declared canonical graph and transverse-thread metadata only",
+    "depth": 4,
+    "consumers": {
+      "sections": [],
+      "arguments": [],
+      "concepts": [
+        {
+          "id": "C11-Quaternal-Logic",
+          "title": "C11 — Quaternal Logic",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C11 — Quaternal Logic",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "ac854490c281b9202b515750ca64259fd7861cc18946e9033f5fbb83515a65dd",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C20-Arche-Topos",
+          "title": "C20 — Arche-Topos",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C20 — Arche-Topos",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "dc0e09a046970c8ee3619a3662a4b2f961f2093c891bc819933faf048b0ad94e",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C30-Psychoid-Number",
+          "title": "C30 — Psychoid Number",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C30 — Psychoid Number",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "b503e87d30738c5199d4ae4ccd9ec7db0191b1e91a470d047fed5893ed93e7b6",
+          "claim_status": "Offered",
+          "register": "episteme"
+        },
+        {
+          "id": "C32-Archetype",
+          "title": "C32 — Archetype",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C32 — Archetype",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "969a7e00c77f3f862afec67bdc2adab5ffa45b4ef1c0d8fd8818b27ae226411c",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C36-Complexio-Oppositorum",
+          "title": "C36 — Complexio Oppositorum",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C36 — Complexio Oppositorum",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Provenance",
+            "Remaining source depth"
+          ],
+          "sha256": "eb8f4aeb9c919a5605b4b83442adfb5b4b1404f83d49c683bca448e3ca65a5d8"
+        },
+        {
+          "id": "C52-Dimensional-Reframing-at-Zero-and-Infinity",
+          "title": "C52 — Dimensional Reframing at Zero and Infinity",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C52 — Dimensional Reframing at Zero and Infinity",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Provenance",
+            "Remaining depth"
+          ],
+          "sha256": "32c2305afca00faddc871821d59fa289f6997eb6f07aa5e279cefee1c8dd9881"
+        }
+      ],
+      "paths": []
+    },
+    "downstream": {
+      "paths": [
+        {
+          "id": "C11-Quaternal-Logic",
+          "title": "C11 — Quaternal Logic",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C11 — Quaternal Logic",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "ac854490c281b9202b515750ca64259fd7861cc18946e9033f5fbb83515a65dd",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C20-Arche-Topos",
+          "title": "C20 — Arche-Topos",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C20 — Arche-Topos",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "dc0e09a046970c8ee3619a3662a4b2f961f2093c891bc819933faf048b0ad94e",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C30-Psychoid-Number",
+          "title": "C30 — Psychoid Number",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C30 — Psychoid Number",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "b503e87d30738c5199d4ae4ccd9ec7db0191b1e91a470d047fed5893ed93e7b6",
+          "claim_status": "Offered",
+          "register": "episteme"
+        },
+        {
+          "id": "C32-Archetype",
+          "title": "C32 — Archetype",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C32 — Archetype",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "969a7e00c77f3f862afec67bdc2adab5ffa45b4ef1c0d8fd8818b27ae226411c",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C36-Complexio-Oppositorum",
+          "title": "C36 — Complexio Oppositorum",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C36 — Complexio Oppositorum",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Provenance",
+            "Remaining source depth"
+          ],
+          "sha256": "eb8f4aeb9c919a5605b4b83442adfb5b4b1404f83d49c683bca448e3ca65a5d8"
+        },
+        {
+          "id": "C52-Dimensional-Reframing-at-Zero-and-Infinity",
+          "title": "C52 — Dimensional Reframing at Zero and Infinity",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C52 — Dimensional Reframing at Zero and Infinity",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Provenance",
+            "Remaining depth"
+          ],
+          "sha256": "32c2305afca00faddc871821d59fa289f6997eb6f07aa5e279cefee1c8dd9881"
+        },
+        {
+          "id": "C21-Living-Symbol-Idol",
+          "title": "C21 — Living Symbol / Idol",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C21 — Living Symbol / Idol",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "40b097b1679aa5302e617ecc5811c2075f2270d6637dacfeab9d5384e7ba233c",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C31-Complex",
+          "title": "C31 — Complex",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C31 — Complex",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "95452ed6b422c56a78628beaa898a58e0a36526d6bade5d4fcb657d316a9a085",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C33-Image-Valuation",
+          "title": "C33 — Image / Valuation",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C33 — Image / Valuation",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Provenance",
+            "Remaining source depth"
+          ],
+          "sha256": "816443a853624cd9e5a7dfc287c919f0e9f3021ce606335c03815e13168d5367"
+        },
+        {
+          "id": "C41-Objective-Internality",
+          "title": "C41 — Objective Internality",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C41 — Objective Internality",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Provenance",
+            "Remaining depth"
+          ],
+          "sha256": "770b688fc062a4294aa754d360d728b54556a2e9ca6cdea93c812a45a1b07c90"
+        },
+        {
+          "id": "C46-Epistemic-Cultivation",
+          "title": "C46 — Epistemic Cultivation",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C46 — Epistemic Cultivation",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Provenance",
+            "Remaining depth"
+          ],
+          "sha256": "9d5c51bddb412f668b68dbead04b01143f11e6b09ca5ea28e62727047cbf6293"
+        },
+        {
+          "id": "C49-The-Two-Ones-0-One-1-All",
+          "title": "C49 — The Two Ones — 0 = One, 1 = All",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C49 — The Two Ones — 0 = One, 1 = All",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Provenance",
+            "Remaining depth"
+          ],
+          "sha256": "c5e5488f7650f8c7f77d985e551a7f0d2829440d1c5f1455bbb5d6df35882a8b"
+        },
+        {
+          "id": "C50-Dia-Syn",
+          "title": "C50 — Dia / Syn",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C50 — Dia / Syn",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Provenance",
+            "Remaining depth"
+          ],
+          "sha256": "5f647cf914b0fe9ebe7cd960aa3ef9f62018d77c6e2f05d6d6a8998a436abf83"
+        },
+        {
+          "id": "C61-Symbolon-Disclosure-Architecture",
+          "title": "C61 — Symbolon Disclosure Architecture",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C61 — Symbolon Disclosure Architecture",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Provenance",
+            "Remaining depth"
+          ],
+          "sha256": "260fb2d88193d12f9091e54b7da19dd3dcc82b93c74e1219a23736d2ae75fd55"
+        },
+        {
+          "id": "02-objective-internality",
+          "title": "Objective Internality",
+          "path": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "artifact_type": "argument",
+          "authority": "canonical-argument",
+          "headings": [
+            "Objective Internality",
+            "Claim",
+            "The triad of situated knowing",
+            "Context becoming diaphanous",
+            "Agent internality and claim boundary",
+            "Warrant",
+            "Design consequence — epistemics becomes first-class"
+          ],
+          "sha256": "00960586e342337c1be2bccc8c104f3d853450b08ab8834c0317b9bf7295273f",
+          "claim_status": "Argued",
+          "evidence_status": "source-synthesized",
+          "coordinates": [
+            "P4",
+            "L1",
+            "L4",
+            "L4'",
+            "L1'"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/agentworld",
+            "argument-map/claim",
+            "mef/square-b"
+          ]
+        },
+        {
+          "id": "05-agent-subjectivity-open",
+          "title": "Agent Subjectivity Must Remain Open",
+          "path": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+          "artifact_type": "argument",
+          "authority": "canonical-argument",
+          "headings": [
+            "Agent Subjectivity Must Remain Open",
+            "Claim",
+            "Warrant",
+            "Proof boundary — silence retained"
+          ],
+          "sha256": "5a8cef977eb57819d5de1d7f4e55edc79eaada64666fe61ef1ab6f69d8bdc120",
+          "claim_status": "Open",
+          "evidence_status": "unresolved-by-design",
+          "coordinates": [
+            "P0'",
+            "L4",
+            "L4'",
+            "L1'"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/agentworld",
+            "argument-map/question"
+          ]
+        },
+        {
+          "id": "06-computational-vimarsa-ahi",
+          "title": "Artificial Hybrid Intelligence as Reflective Field",
+          "path": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "artifact_type": "argument",
+          "authority": "canonical-argument",
+          "headings": [
+            "Artificial Hybrid Intelligence as Reflective Field",
+            "Claim",
+            "Warrant",
+            "Proof boundary",
+            "Praxis"
+          ],
+          "sha256": "5c3604afc7745daba68fefb0794110f42c0004eaabfed7339a779110100d45a9",
+          "claim_status": "Argued",
+          "evidence_status": "source-synthesized",
+          "coordinates": [
+            "P5",
+            "L5'",
+            "L4'"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/agentworld",
+            "argument-map/praxis",
+            "argument-map/process-ontology",
+            "argument-map/synthesis"
+          ]
+        },
+        {
+          "id": "08-deferential-intelligence",
+          "title": "Deferential Intelligence",
+          "path": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+          "artifact_type": "argument",
+          "authority": "canonical-argument",
+          "headings": [
+            "Deferential Intelligence",
+            "Claim",
+            "Warrant",
+            "Operational test",
+            "Claim boundary"
+          ],
+          "sha256": "d4bbf861af1efba4eb7b945267edd58fe39b0d0af9ae2f3083a4610dd5edd4c3",
+          "claim_status": "Argued",
+          "evidence_status": "internal-synthesis",
+          "coordinates": [
+            "P5",
+            "P0",
+            "L4'",
+            "L5'"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/praxis",
+            "argument-map/claim"
+          ]
+        },
+        {
+          "id": "14-computational-process-ontology",
+          "title": "Computational Process Ontology",
+          "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+          "artifact_type": "argument",
+          "authority": "canonical-argument",
+          "headings": [
+            "Computational Process Ontology",
+            "Core claim",
+            "The process lineage",
+            "The two logics as runtime",
+            "The Śaiva–Buddhist operational account",
+            "QL, MEF, Bimba, and harness",
+            "Agentworld consequence: shared language for shared intelligence",
+            "Process test"
+          ],
+          "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f",
+          "claim_status": "Derived",
+          "evidence_status": "theorem-derived-cross-register",
+          "coordinates": [
+            "P0",
+            "P1",
+            "P2",
+            "P3",
+            "P4",
+            "P5",
+            "L0",
+            "L3",
+            "L3'",
+            "L4'",
+            "L5"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/core",
+            "argument-map/process-ontology",
+            "argument-map/two-logics",
+            "argument-map/agentworld",
+            "argument-map/praxis",
+            "ql/theorem-unit"
+          ]
+        },
+        {
+          "id": "18-trust-faith-formal-limit",
+          "title": "Trust, Faith, and the Formal Limit",
+          "path": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "artifact_type": "argument",
+          "authority": "canonical-argument",
+          "headings": [
+            "Trust, Faith, and the Formal Limit",
+            "Claim",
+            "Warrant — how knowledge bears or betrays trust",
+            "The mythic hinge",
+            "The AI trial",
+            "Boundary and relation to mono-poly"
+          ],
+          "sha256": "228538fffb57d2c80ccf21f2fb2c63b1287b70c3c240cd2f371a4762a27c0921",
+          "claim_status": "Argued",
+          "evidence_status": "authorial-source-synthesized",
+          "coordinates": [
+            "P0",
+            "P2",
+            "P5",
+            "L1'",
+            "L2",
+            "L4",
+            "L5'"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/trust",
+            "argument-map/faith",
+            "argument-map/formal-limit"
+          ]
+        },
+        {
+          "id": "C19-Pratyabhijna-Recognition",
+          "title": "C19 — Pratyabhijñā / Recognition",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C19 — Pratyabhijñā / Recognition",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "581013c2c228b0c939bdd36cb45e9b6459f1e4774d57c3079408caa15746a5c6",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C22-Counterfeit-Symbolon",
+          "title": "C22 — Counterfeit Symbolon",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C22 — Counterfeit Symbolon",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "ae7833804db2f889be3514b25abeb0612c27881860e4ef3ebea87ef3e040ca73",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C27-Protected-Account-Occupied-Zero-Source-Claim",
+          "title": "C27 — Protected Account / Occupied Zero / Source-Claim",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C27 — Protected Account / Occupied Zero / Source-Claim",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Developmental provenance",
+            "Remaining depth"
+          ],
+          "sha256": "d9b206c1d1b1d77570c44461cb71e30b10d183095008c5515aaa5f41e6a5d8a2"
+        },
+        {
+          "id": "C34-Individuation",
+          "title": "C34 — Individuation",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C34 — Individuation",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Provenance",
+            "Remaining source depth"
+          ],
+          "sha256": "9ca6094892966dfb57019a3f1b603d2ea7b1624644e3db0856d15cc215502f68"
+        },
+        {
+          "id": "compassion-as-sensitivity-to-origins",
+          "title": "Compassion as Sensitivity to Origins",
+          "path": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "Compassion as Sensitivity to Origins",
+            "Definition",
+            "The minimum technical body",
+            "In the argument"
+          ],
+          "sha256": "13fccd291d706d4ba0aa6c688b046dcd78c5b47527d632185f7da1e50064a80c",
+          "claim_status": "Argued",
+          "coordinates": [
+            "P5",
+            "5→0"
+          ],
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/concept",
+            "argument-map/praxis",
+            "ethics/provenance"
+          ]
+        },
+        {
+          "id": "08-s0-p1-inner-instrument",
+          "title": "§0 · #1 — The Inner Instrument",
+          "path": "submission-package/essay/section-rooms/01-differentiating-mind/movements/08-s0-p1-inner-instrument.md",
+          "artifact_type": "section",
+          "authority": "canonical-argument",
+          "headings": [
+            "§0 · #1 — The Inner Instrument",
+            "Claim",
+            "Warrant",
+            "Tension / limit",
+            "Anchor and transition"
+          ],
+          "sha256": "9f382253d1971669c127ff6718502d8f6b8e8da9184cc71ff56a512d243f3480",
+          "claim_status": "Argued",
+          "evidence_status": "tradition-grounded",
+          "station": "§0",
+          "position": "#1",
+          "sequence": 8,
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/section",
+            "station/s0",
+            "position/p1"
+          ]
+        },
+        {
+          "id": "12-s0-p5-objective-internality",
+          "title": "§0 · #5→0 — Objective Internality",
+          "path": "submission-package/essay/section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality.md",
+          "artifact_type": "section",
+          "authority": "canonical-argument",
+          "headings": [
+            "§0 · #5→0 — Objective Internality",
+            "Claim",
+            "Warrant",
+            "Tension / limit",
+            "Anchor and transition"
+          ],
+          "sha256": "f4415f83a93a2e1a13d574f079ecda40b1ce6d7868be02ffc5fd0444a75a8315",
+          "claim_status": "Argued",
+          "evidence_status": "source-synthesized",
+          "station": "§0",
+          "position": "#5→0",
+          "sequence": 12,
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/section",
+            "argument-map/agentworld",
+            "argument-map/individuation",
+            "argument-map/process-ontology",
+            "station/s0",
+            "position/p5"
+          ]
+        },
+        {
+          "id": "20-s2-p1-dia-ballein",
+          "title": "§2 · #1 — Dia-Ballein",
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+          "artifact_type": "section",
+          "authority": "canonical-argument",
+          "headings": [
+            "§2 · #1 — Dia-Ballein",
+            "Movement thesis",
+            "Structural reading and failure boundary",
+            "Projected distrust",
+            "Technical consequence",
+            "The epochal name: calculative thinking",
+            "Mass formation: divide and conquer becomes a political runtime",
+            "Transition"
+          ],
+          "sha256": "7bf4c255bad0e6bbf13b5c335403509c7bfcdc7e68a2feeb3ce8fb979b6ecd89",
+          "claim_status": "Derived",
+          "evidence_status": "mathematically-explicit-and-source-synthesized",
+          "station": "§2",
+          "position": "#1",
+          "sequence": 20,
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/section",
+            "argument-map/two-logics",
+            "argument-map/mathematical",
+            "argument-map/complex-dynamism",
+            "argument-map/process-ontology",
+            "argument-map/trust",
+            "station/s2",
+            "position/p1"
+          ]
+        },
+        {
+          "id": "21-s2-p2-sym-ballein",
+          "title": "§2 · #2 — Sym-Ballein",
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+          "artifact_type": "section",
+          "authority": "canonical-argument",
+          "headings": [
+            "§2 · #2 — Sym-Ballein",
+            "Movement thesis",
+            "AND/OR logic",
+            "Symbolic force and fusion boundary",
+            "Divining the third: divine and concur",
+            "Transition"
+          ],
+          "sha256": "ee4b1990d968c41b5e3cf918cddff166793d15acefe1f530fc01d96828201673",
+          "claim_status": "Argued",
+          "evidence_status": "internally-explicit-and-source-synthesized",
+          "station": "§2",
+          "position": "#2",
+          "sequence": 21,
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/section",
+            "argument-map/two-logics",
+            "argument-map/mathematical",
+            "argument-map/complex-dynamism",
+            "argument-map/process-ontology",
+            "argument-map/trust",
+            "argument-map/mono-poly",
+            "station/s2",
+            "position/p2"
+          ]
+        },
+        {
+          "id": "22-s2-p3-ares-aphrodite-harmonia",
+          "title": "§2 · #3 — Ares, Aphrodite, Harmonia, Eros, and Hephaestus",
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+          "artifact_type": "section",
+          "authority": "canonical-argument",
+          "headings": [
+            "§2 · #3 — Ares, Aphrodite, Harmonia, Eros, and Hephaestus",
+            "Movement thesis",
+            "Hephaestus inside the circuit",
+            "The anatomy of the apparatus",
+            "The surety closure",
+            "Scholarly control",
+            "Psycho-dynamic bridge",
+            "Tension / limit",
+            "Transition"
+          ],
+          "sha256": "4f05c4b3adda4791f19fd765225d2f32ca41de8463f03fb7c6c7326d7ae63e6b",
+          "claim_status": "Offered",
+          "evidence_status": "mythemic",
+          "station": "§2",
+          "position": "#3",
+          "sequence": 22,
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/section",
+            "argument-map/two-logics",
+            "argument-map/mythemic",
+            "argument-map/trust",
+            "station/s2",
+            "position/p3"
+          ]
+        },
+        {
+          "id": "36-s4-p5-mef-prompt-thrownness",
+          "title": "§4 · #5→0 — MEF and Prompt Thrownness",
+          "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md",
+          "artifact_type": "section",
+          "authority": "canonical-argument",
+          "headings": [
+            "§4 · #5→0 — MEF and Prompt Thrownness",
+            "Claim",
+            "Warrant",
+            "Tension / limit",
+            "Anchor and transition"
+          ],
+          "sha256": "d05e078a5f3daede2864e1df3d81b2336b3a3b4fa2e1977b3c6b17f3f1a4fa4d",
+          "claim_status": "Argued",
+          "evidence_status": "architecture-and-source",
+          "station": "§4",
+          "position": "#5→0",
+          "sequence": 36,
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/section",
+            "argument-map/agentworld",
+            "argument-map/individuation",
+            "argument-map/process-ontology",
+            "station/s4",
+            "position/p5"
+          ]
+        },
+        {
+          "id": "40-s5-p3-preference-hidden-zero",
+          "title": "§5 · #3 — Preference Models and the Hidden Zero",
+          "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+          "artifact_type": "section",
+          "authority": "canonical-argument",
+          "headings": [
+            "§5 · #3 — Preference Models and the Hidden Zero",
+            "Claim",
+            "Warrant",
+            "Tension / limit",
+            "Anchor and transition"
+          ],
+          "sha256": "abc03cb4f69039a5f3db150f0bc16d8a5d579e43599c671cfb62d20fdfbefbda",
+          "claim_status": "Argued",
+          "evidence_status": "technical",
+          "station": "§5",
+          "position": "#3",
+          "sequence": 40,
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/section",
+            "argument-map/trust",
+            "argument-map/mono-poly",
+            "station/s5",
+            "position/p3"
+          ]
+        },
+        {
+          "id": "43-s50-p0-theory-vocation-compassion",
+          "title": "§5→0 · #0 — From Theory to Vocation",
+          "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md",
+          "artifact_type": "section",
+          "authority": "canonical-argument",
+          "headings": [
+            "§5→0 · #0 — From Theory to Vocation",
+            "Claim",
+            "Warrant",
+            "Tension / limit",
+            "Anchor and transition"
+          ],
+          "sha256": "cb82a23c16923123031ab558716d7dd72bf3904f82723d26cc868c0f99314d19",
+          "claim_status": "Argued",
+          "evidence_status": "ethical-synthesis",
+          "station": "§5→0",
+          "position": "#0",
+          "sequence": 43,
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/section",
+            "argument-map/praxis",
+            "station/s50",
+            "position/p0"
+          ]
+        },
+        {
+          "id": "44-s50-p1-ql-mef-bimba-harness",
+          "title": "§5→0 · #1 — QL, MEF, Bimba, and Harness",
+          "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+          "artifact_type": "section",
+          "authority": "canonical-argument",
+          "headings": [
+            "§5→0 · #1 — QL, MEF, Bimba, and Harness",
+            "Claim",
+            "Warrant",
+            "Tension / limit",
+            "Anchor and transition"
+          ],
+          "sha256": "2f4617c27ca3a73a576c484a272bb8c50278cddb3b3b1fa557936e9b9cbc8255",
+          "claim_status": "Argued",
+          "evidence_status": "architecture-specified",
+          "station": "§5→0",
+          "position": "#1",
+          "sequence": 44,
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/section",
+            "argument-map/praxis",
+            "argument-map/process-ontology",
+            "argument-map/agentworld",
+            "station/s50",
+            "position/p1"
+          ]
+        },
+        {
+          "id": "47-s50-p4-idealism-horizon",
+          "title": "§5→0 · #4 — Idealism as Horizon",
+          "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md",
+          "artifact_type": "section",
+          "authority": "canonical-argument",
+          "headings": [
+            "§5→0 · #4 — Idealism as Horizon",
+            "Claim",
+            "Epistemic originality and metaphysical dependence",
+            "Śaiva depth and the open subjectivity boundary",
+            "Agentworld pressure",
+            "Tension / limit",
+            "Anchor and transition"
+          ],
+          "sha256": "3e7e3e83d0f95e429365fa0443ecc3c9bb9c742df5ef6e9bef6ce5d20ec94bdd",
+          "claim_status": "Offered",
+          "evidence_status": "derived-and-speculative-comparative",
+          "station": "§5→0",
+          "position": "#4",
+          "sequence": 47,
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/section",
+            "argument-map/agentworld",
+            "station/s50",
+            "position/p4"
+          ]
+        },
+        {
+          "id": "48-s50-p5-ahi-planetary-return",
+          "title": "§5→0 · #5→0 — AHI and Planetary Return",
+          "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+          "artifact_type": "section",
+          "authority": "canonical-argument",
+          "headings": [
+            "§5→0 · #5→0 — AHI and Planetary Return",
+            "Claim",
+            "Federated epistemic return",
+            "The Mirror That Moves First",
+            "Computational Vimarśa and its boundary",
+            "Planetary intelligence as distributed capacity for Return",
+            "Return to the formal limit",
+            "Anchor and return"
+          ],
+          "sha256": "08c2542bd5fb00135e36d405f31367a32cfb944542164b20720e58bf76b27285",
+          "claim_status": "Offered",
+          "evidence_status": "architecture-synthesis",
+          "station": "§5→0",
+          "position": "#5→0",
+          "sequence": 48,
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/section",
+            "argument-map/agentworld",
+            "argument-map/praxis",
+            "argument-map/mono-poly",
+            "argument-map/trust",
+            "station/s50",
+            "position/p5"
+          ]
+        },
+        {
+          "id": "01-immutable-gap-and-meta-sign",
+          "title": "Immutable Gap and Meta-Sign",
+          "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+          "artifact_type": "argument",
+          "authority": "canonical-argument",
+          "headings": [
+            "Immutable Gap and Meta-Sign",
+            "Claim",
+            "Perspectival manifestation",
+            "Formal placement",
+            "Warrants",
+            "Tension"
+          ],
+          "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990",
+          "claim_status": "Argued",
+          "evidence_status": "source-synthesized",
+          "coordinates": [
+            "P0",
+            "L0",
+            "L5'"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/formal-limit",
+            "argument-map/claim"
+          ]
+        },
+        {
+          "id": "03-two-logics-and-sym-ballein",
+          "title": "Sym-Ballein",
+          "path": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+          "artifact_type": "argument",
+          "authority": "canonical-argument",
+          "headings": [
+            "Sym-Ballein",
+            "Claim",
+            "Matheme",
+            "Shadow",
+            "Test"
+          ],
+          "sha256": "f4cbb6e897260bfd207908561c275b0b0ab482d30a0e649fba1589babbfbb75c",
+          "claim_status": "Derived",
+          "evidence_status": "theorem-derived",
+          "coordinates": [
+            "P2",
+            "P3",
+            "L2",
+            "L3"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/complex-dynamism",
+            "argument-map/process-ontology",
+            "argument-map/synthesis",
+            "argument-map/trust",
+            "argument-map/mono-poly"
+          ]
+        },
+        {
+          "id": "04-arche-topos-topology-music",
+          "title": "Arche-Topos as Differential Field",
+          "path": "submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md",
+          "artifact_type": "argument",
+          "authority": "canonical-argument",
+          "headings": [
+            "Arche-Topos as Differential Field",
+            "Claim",
+            "One field, read through four registers",
+            "The switch into objective internality",
+            "Topology and music",
+            "Claim discipline"
+          ],
+          "sha256": "ce2d15aaee82d1ec8cf37b788bc448e4fdbe4c4f4f24c3b4b46c4857a360e3c0",
+          "claim_status": "Derived",
+          "evidence_status": "theorem-derived-cross-register",
+          "coordinates": [
+            "P0",
+            "P2",
+            "P3",
+            "P5",
+            "L0'",
+            "L1'",
+            "L2",
+            "L3",
+            "L5"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/musical-topological",
+            "argument-map/process-ontology",
+            "argument-map/arche-topos",
+            "argument-map/musical",
+            "argument-map/psychoid",
+            "argument-map/core",
+            "argument-map/synthesis"
+          ]
+        },
+        {
+          "id": "09-prakasa-vimarsa",
+          "title": "Prakāśa-Vimarśa",
+          "path": "submission-package/essay/section-rooms/arguments/09-prakasa-vimarsa.md",
+          "artifact_type": "argument",
+          "authority": "canonical-argument",
+          "headings": [
+            "Prakāśa-Vimarśa",
+            "Claim",
+            "Cross-register warrant",
+            "Source and claim boundary"
+          ],
+          "sha256": "415374f85efcebd6ac9a30ef5000eb5e80634627d5a0d988be5a969bdf418bba",
+          "claim_status": "Argued",
+          "evidence_status": "tradition-source-required",
+          "coordinates": [
+            "P0",
+            "P2'",
+            "L5"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/concept",
+            "shaivism/prakasa-vimarsa"
+          ]
+        },
+        {
+          "id": "11-mono-poly-whole-and-many",
+          "title": "Mono-Poly: Whole and Many",
+          "path": "submission-package/essay/section-rooms/arguments/11-mono-poly-whole-and-many.md",
+          "artifact_type": "argument",
+          "authority": "canonical-argument",
+          "headings": [
+            "Mono-Poly: Whole and Many",
+            "Claims",
+            "Warrants",
+            "Tensions retained",
+            "Where mono-poly meets trust",
+            "Braided traversal"
+          ],
+          "sha256": "6e7991915d8e4d2f4d165b1e7bba99ff11a8ebecd2f0002b067bd27804fa8250",
+          "claim_status": "Argued",
+          "evidence_status": "source-synthesized",
+          "coordinates": [
+            "P0",
+            "P1",
+            "P4",
+            "P5",
+            "L2",
+            "L4",
+            "L5'"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/synthesis",
+            "argument-map/mono-poly",
+            "argument-map/praxis"
+          ]
+        },
+        {
+          "id": "12-core-theorem-bridge",
+          "title": "Core Theorem Bridge",
+          "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+          "artifact_type": "argument",
+          "authority": "canonical-argument",
+          "headings": [
+            "Core Theorem Bridge",
+            "Anchor claim",
+            "Perspective and context within the theorem spine",
+            "Dependency order",
+            "Pros-hen discipline",
+            "Claim hierarchy"
+          ],
+          "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322",
+          "claim_status": "Derived",
+          "evidence_status": "theorem-internal-and-cross-register",
+          "coordinates": [
+            "P0",
+            "P1",
+            "P2",
+            "P3",
+            "P4",
+            "P5",
+            "L0",
+            "L0'",
+            "L5'"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/core",
+            "argument-map/theorem",
+            "argument-map/warrant",
+            "argument-map/process-ontology",
+            "ql/theorem-unit"
+          ]
+        },
+        {
+          "id": "13-tattvic-differential-field",
+          "title": "Tattvic Differential Field",
+          "path": "submission-package/essay/section-rooms/arguments/13-tattvic-differential-field.md",
+          "artifact_type": "argument",
+          "authority": "canonical-argument",
+          "headings": [
+            "Tattvic Differential Field",
+            "Claim",
+            "Architecture of implication",
+            "Apoha and vikalpa",
+            "From superposition to polarity and research boundary"
+          ],
+          "sha256": "20fb22d2e6b664681d943a2152fbdbf6653265307a33be6ef23cfa12d9e75040",
+          "claim_status": "Derived (doctrine) / Argued (QL compression) / Offered (36=6²)",
+          "evidence_status": "theorem-derived-tradition-mapped",
+          "coordinates": [
+            "P0",
+            "P1",
+            "P2",
+            "P3",
+            "P4",
+            "P5",
+            "L1",
+            "L2",
+            "L3",
+            "L4"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/core",
+            "argument-map/tattva",
+            "argument-map/process-ontology",
+            "argument-map/psychoid",
+            "argument-map/claim"
+          ]
+        },
+        {
+          "id": "16-bohmian-enfoldment-dialogical-return",
+          "title": "Bohmian Enfoldment and Dialogical Return",
+          "path": "submission-package/essay/section-rooms/arguments/16-bohmian-enfoldment-dialogical-return.md",
+          "artifact_type": "argument",
+          "authority": "canonical-argument",
+          "headings": [
+            "Bohmian Enfoldment and Dialogical Return",
+            "Claim",
+            "Running true",
+            "Dialogue as social holomovement",
+            "Agentworld consequence",
+            "Claim boundary"
+          ],
+          "sha256": "33cf6435240277d5f92f64d94b35de399728fa5a01c24eed89869ec80522d5e2",
+          "claim_status": "Argued",
+          "evidence_status": "primary-source-synthesized",
+          "coordinates": [
+            "P0",
+            "P1",
+            "P2",
+            "P4",
+            "P5",
+            "L3",
+            "L4",
+            "L5"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/live",
+            "argument-map/bohm",
+            "argument-map/process-ontology",
+            "argument-map/dialogue",
+            "argument-map/praxis",
+            "argument-map/agentworld",
+            "argument-map/warrant"
+          ]
+        },
+        {
+          "id": "C06-Copula-Identification-with-Difference",
+          "title": "C06 — Copula / Identification-with-Difference",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C06 — Copula / Identification-with-Difference",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "4986ca50ff5f68c5e2df63d6505e51b8858cd8534d319b56eb85bf1b5272a5b6",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C12-Script-Frozen-Conditioned-Will",
+          "title": "C12 — Script / Frozen Conditioned Will",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C12 — Script / Frozen Conditioned Will",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "c607111810107cb788dbe888bc229cd01dd09ce772771109e99695ed31f7b6bd",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C13-Prakasa-Vimarsa",
+          "title": "C13 — Prakāśa–Vimarśa",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C13 — Prakāśa–Vimarśa",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "b2629b9f55a27484497db3283b57ca3298677151703fcd5f2266731105ae2278",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C15-Pasu-Bounded-Subject-Position",
+          "title": "C15 — Paśu / Bounded Subject-Position",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C15 — Paśu / Bounded Subject-Position",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "c027f399447f66310a6bd2042baa7e0c575ceeced921802b324ac890b47a77ba",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C23-Severance",
+          "title": "C23 — Severance",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C23 — Severance",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "a15d4607f4e25b670ebdb933ee883fba541c4ffbb34daabbf23342a586658902",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C24-Fusion",
+          "title": "C24 — Fusion",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C24 — Fusion",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0"
+          ],
+          "sha256": "02eecc76161d931002a5f8e7a12b6d08c052200a693caac16c7ae98ee0ec4e38",
+          "claim_status": "Argued",
+          "register": "episteme"
+        },
+        {
+          "id": "C25-Counterfeit-Gathering",
+          "title": "C25 — Counterfeit Gathering",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C25 — Counterfeit Gathering",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Developmental provenance",
+            "Remaining depth"
+          ],
+          "sha256": "341c0fa4b04f52f727ca58bb610025455108c47bbc4cef32c83998201c3b5902"
+        },
+        {
+          "id": "C26-Monoisation-Counter-Generation",
+          "title": "C26 — Monoisation / Counter-Generation",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C26 — Monoisation / Counter-Generation",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Developmental provenance",
+            "Remaining depth"
+          ],
+          "sha256": "cb99486ecf32881facd732e5349f35cc03b2a64d1f6740fca77ea7d5964d349d"
+        },
+        {
+          "id": "C47-Deferential-Intelligence",
+          "title": "C47 — Deferential Intelligence",
+          "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "C47 — Deferential Intelligence",
+            "#0",
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5→0",
+            "Declared field",
+            "Provenance",
+            "Remaining depth"
+          ],
+          "sha256": "0c71c6a8b3369ae959bed9cf205ac1b033b4bcf8052e4c5d5fff92592ca4417b"
+        },
+        {
+          "id": "apoha",
+          "title": "Apoha",
+          "path": "submission-package/essay/symbolon/episteme/concepts/apoha.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "Apoha",
+            "Definition",
+            "In the argument",
+            "Sources"
+          ],
+          "sha256": "c8ea8a4dc1f91b8e29e6e360f516d7c0856066fa4d423681edeaac43dc55fa67",
+          "claim_status": "Derived from source (doctrine) / Argued (QL and computational bridge)",
+          "coordinates": [
+            "P3",
+            "L2"
+          ],
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/concept",
+            "argument-map/process-ontology"
+          ]
+        },
+        {
+          "id": "bimba-pratibimba",
+          "title": "Bimba-Pratibimba",
+          "path": "submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "Bimba-Pratibimba",
+            "Definition",
+            "Recursive office",
+            "In the argument — epistemics becomes first-class",
+            "Across scales",
+            "Sources"
+          ],
+          "sha256": "9e2fb3929acd016293a059c8d97f9b024f3cd5c8052be03795c102505ca85554",
+          "claim_status": "Derived (QL mirror structure) / Offered (Bimba Map epistemic design)",
+          "coordinates": [
+            "P0",
+            "P5"
+          ],
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/concept",
+            "argument-map/process-ontology"
+          ]
+        },
+        {
+          "id": "j-space",
+          "title": "J-Space",
+          "path": "submission-package/essay/symbolon/episteme/concepts/j-space.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "J-Space",
+            "Definition",
+            "In the argument",
+            "Sources"
+          ],
+          "sha256": "150470e5601c53370433a8ef5c5cb2a1c02adac13f0d163014eff58fcf6d2b48",
+          "claim_status": "Offered",
+          "coordinates": [
+            "P2",
+            "L2",
+            "L3'"
+          ],
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/concept",
+            "argument-map/praxis"
+          ]
+        },
+        {
+          "id": "vikalpa-samkalpa",
+          "title": "Vikalpa / Saṃkalpa",
+          "path": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+          "artifact_type": "concept",
+          "authority": "canonical-argument",
+          "headings": [
+            "Vikalpa / Saṃkalpa",
+            "Definition",
+            "In the argument",
+            "Sources"
+          ],
+          "sha256": "d7484b78659ebf53eeea77daf3d98988902e104bf021412972d3728af7dbb688",
+          "claim_status": "Argued (operational cartography); doctrinal exegesis source-gated",
+          "coordinates": [
+            "P2"
+          ],
+          "register": "episteme",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "argument-map/concept",
+            "argument-map/process-ontology"
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic",
+          "relation": "opens-to",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "raw_target": "C11-Quaternal-Logic.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "raw_target": "C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "raw_target": "C41-Objective-Internality.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "raw_target": "C49-The-Two-Ones-0-One-1-All.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "raw_target": "C50-Dia-Syn.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "raw_target": "C61-Symbolon-Disclosure-Architecture.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+          "raw_target": "C46-Epistemic-Cultivation.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C31-Complex",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C31-Complex",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "target": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "raw_target": "../../../section-rooms/arguments/02-objective-internality.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "target": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+          "raw_target": "../../../section-rooms/arguments/14-computational-process-ontology.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "target": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "raw_target": "../../../section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "target": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+          "raw_target": "../../../section-rooms/arguments/05-agent-subjectivity-open.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+          "target": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+          "raw_target": "../../../section-rooms/arguments/08-deferential-intelligence.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+          "target": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "raw_target": "../../../section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+          "raw_target": "compassion-as-sensitivity-to-origins.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+          "raw_target": "C19-Pratyabhijna-Recognition.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "raw_target": "C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+          "raw_target": "C22-Counterfeit-Symbolon.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "raw_target": "C61-Symbolon-Disclosure-Architecture.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "target": "submission-package/essay/section-rooms/arguments/13-tattvic-differential-field.md",
+          "raw_target": "Tattvic Differential Field",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "target": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md",
+          "raw_target": "36-s4-p5-mef-prompt-thrownness",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/apoha.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/apoha",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "target": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+          "raw_target": "Sym-Ballein",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/j-space.md",
+          "raw_target": "j-space",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "target": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+          "raw_target": "Immutable Gap and Meta-Sign",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "target": "submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md",
+          "raw_target": "Arche-Topos as Differential Field",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "target": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+          "raw_target": "Agent Subjectivity Must Remain Open",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+          "target": "submission-package/essay/section-rooms/arguments/09-prakasa-vimarsa.md",
+          "raw_target": "Prakāśa-Vimarśa",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+          "raw_target": "vikalpa-samkalpa",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/apoha.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/apoha",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+          "target": "submission-package/essay/section-rooms/arguments/13-tattvic-differential-field.md",
+          "raw_target": "Tattvic Differential Field",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+          "target": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+          "raw_target": "Core Theorem Bridge",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+          "target": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+          "raw_target": "Sym-Ballein",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+          "target": "submission-package/essay/section-rooms/arguments/16-bohmian-enfoldment-dialogical-return.md",
+          "raw_target": "16-bohmian-enfoldment-dialogical-return",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+          "target": "submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md",
+          "raw_target": "Arche-Topos as Differential Field",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+          "target": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "raw_target": "Artificial Hybrid Intelligence as Reflective Field",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+          "target": "submission-package/essay/section-rooms/arguments/11-mono-poly-whole-and-many.md",
+          "raw_target": "11-mono-poly-whole-and-many",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "target": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+          "raw_target": "Computational Process Ontology",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md",
+          "raw_target": "43-s50-p0-theory-vocation-compassion",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+          "raw_target": "compassion-as-sensitivity-to-origins",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba.md",
+          "raw_target": "submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+          "raw_target": "48-s50-p5-ahi-planetary-return",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "target": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+          "raw_target": "Agent Subjectivity Must Remain Open",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "target": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "raw_target": "Objective Internality",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "target": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+          "raw_target": "Core Theorem Bridge",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "target": "submission-package/essay/section-rooms/arguments/11-mono-poly-whole-and-many.md",
+          "raw_target": "11-mono-poly-whole-and-many",
+          "relation": "opens-to",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+          "raw_target": "44-s50-p1-ql-mef-bimba-harness",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+          "target": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md",
+          "raw_target": "36-s4-p5-mef-prompt-thrownness",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+          "target": "submission-package/essay/section-rooms/01-differentiating-mind/movements/08-s0-p1-inner-instrument.md",
+          "raw_target": "08-s0-p1-inner-instrument",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+          "target": "submission-package/essay/section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality.md",
+          "raw_target": "12-s0-p5-objective-internality",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+          "target": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+          "raw_target": "Immutable Gap and Meta-Sign",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+          "target": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "raw_target": "Objective Internality",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+          "target": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "raw_target": "Artificial Hybrid Intelligence as Reflective Field",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+          "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md",
+          "raw_target": "47-s50-p4-idealism-horizon",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+          "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+          "raw_target": "48-s50-p5-ahi-planetary-return",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+          "target": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+          "raw_target": "Immutable Gap and Meta-Sign",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+          "target": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "raw_target": "Objective Internality",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+          "target": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "raw_target": "18-trust-faith-formal-limit",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+          "target": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "raw_target": "Artificial Hybrid Intelligence as Reflective Field",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+          "raw_target": "compassion-as-sensitivity-to-origins",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+          "target": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+          "raw_target": "Agent Subjectivity Must Remain Open",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+          "target": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+          "raw_target": "40-s5-p3-preference-hidden-zero",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+          "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md",
+          "raw_target": "43-s50-p0-theory-vocation-compassion",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+          "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+          "raw_target": "48-s50-p5-ahi-planetary-return",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "target": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+          "raw_target": "22-s2-p3-ares-aphrodite-harmonia",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "target": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+          "raw_target": "Immutable Gap and Meta-Sign",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "target": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+          "raw_target": "Sym-Ballein",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "target": "submission-package/essay/section-rooms/arguments/11-mono-poly-whole-and-many.md",
+          "raw_target": "Mono-Poly: Whole and Many",
+          "relation": "depends-on",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "target": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+          "raw_target": "20-s2-p1-dia-ballein",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "target": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+          "raw_target": "21-s2-p2-sym-ballein",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "target": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+          "raw_target": "40-s5-p3-preference-hidden-zero",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+          "raw_target": "44-s50-p1-ql-mef-bimba-harness",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+          "raw_target": "48-s50-p5-ahi-planetary-return",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+          "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md",
+          "raw_target": "43-s50-p0-theory-vocation-compassion",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+          "target": "submission-package/essay/section-rooms/arguments/11-mono-poly-whole-and-many.md",
+          "raw_target": "11-mono-poly-whole-and-many",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+          "target": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "raw_target": "06-computational-vimarsa-ahi",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+          "target": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+          "raw_target": "08-deferential-intelligence",
+          "relation": "wikilink",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+          "target": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "raw_target": "18-trust-faith-formal-limit",
+          "relation": "related",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+          "target": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "raw_target": "18-trust-faith-formal-limit",
+          "relation": "frontmatter-link",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+          "target": "submission-package/essay/section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md",
+          "raw_target": "43-s50-p0-theory-vocation-compassion",
+          "relation": "frontmatter-link",
+          "origin": "wikilink",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+          "raw_target": "C13-Prakasa-Vimarsa.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+          "raw_target": "C15-Pasu-Bounded-Subject-Position.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+          "raw_target": "C06-Copula-Identification-with-Difference.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+          "raw_target": "C34-Individuation.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+          "raw_target": "C47-Deferential-Intelligence.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "raw_target": "C21-Living-Symbol-Idol.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+          "raw_target": "C23-Severance.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+          "raw_target": "C24-Fusion.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+          "raw_target": "C25-Counterfeit-Gathering.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+          "raw_target": "C26-Monoisation-Counter-Generation.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "raw_target": "C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        },
+        {
+          "source": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+          "target": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+          "raw_target": "C12-Script-Frozen-Conditioned-Will.md",
+          "relation": "markdown-link",
+          "origin": "markdown-link",
+          "resolved": true
+        }
+      ]
+    },
+    "transverse_threads": [
+      {
+        "id": "mono-poly-two-ones",
+        "title": "Mono–Poly and the Two Ones — Transverse Thread",
+        "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+        "artifact_type": "path",
+        "authority": "canonical-argument",
+        "headings": [
+          "Mono–Poly and the Two Ones — Transverse Thread"
+        ],
+        "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+        "register": "episteme",
+        "tags": [
+          "epi-logos/antikythera-essay",
+          "argument-map/live",
+          "argument-map/path",
+          "argument-map/mono-poly"
+        ]
+      },
+      {
+        "id": "trust-faith-formal-limit",
+        "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+        "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+        "artifact_type": "path",
+        "authority": "canonical-argument",
+        "headings": [
+          "Trust, Faith, and the Formal Limit — Transverse Thread"
+        ],
+        "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+        "register": "episteme",
+        "tags": [
+          "epi-logos/antikythera-essay",
+          "argument-map/live",
+          "argument-map/path",
+          "argument-map/trust"
+        ]
+      },
+      {
+        "id": "zero-subject-advent",
+        "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+        "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+        "artifact_type": "path",
+        "authority": "canonical-argument",
+        "headings": [
+          "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+        ],
+        "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+        "register": "episteme",
+        "tags": [
+          "epi-logos/antikythera-essay",
+          "argument-map/live",
+          "argument-map/path",
+          "argument-map/zero",
+          "argument-map/psychoid",
+          "argument-map/gebser"
+        ]
+      }
+    ],
+    "registers": {
+      "root": "episteme",
+      "carriers": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/01-differentiating-mind/movements/08-s0-p1-inner-instrument.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/arguments/09-prakasa-vimarsa.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/arguments/11-mono-poly-whole-and-many.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/arguments/13-tattvic-differential-field.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/section-rooms/arguments/16-bohmian-enfoldment-dialogical-return.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+          "register": "undeclared"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/apoha.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/j-space.md",
+          "register": "episteme"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/vikalpa-samkalpa.md",
+          "register": "episteme"
+        }
+      ]
+    }
+  }
+}

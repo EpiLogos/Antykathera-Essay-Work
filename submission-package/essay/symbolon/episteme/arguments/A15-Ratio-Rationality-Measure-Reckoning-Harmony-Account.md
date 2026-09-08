@@ -79,6 +79,21 @@ A measure can fail by disappearing from its own result. “This scored higher un
 
 ## #5→0
 
+
+[the ancient-philosophy companion](../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md#ancient-measure-provision) **historicises** the different criteria of distribution, correction and exchange in Ethics V.3–5, while keeping the Greek and Latin lexical ranges and the musical remainder distinct.
+
+
+The [zero-reception dossier](../dossiers/zero-reception.md#1--a-numeral-receives-rules-and-rules-meet-an-exception) **compares** this operation. An inherited numeral becomes usable through a receiving practice’s units and rules. Accurate calculation retains those permissions, while a restricted zero denominator requires the restrictions to travel with it. Neither an operation’s historical admission nor its numerical accuracy gives its criterion universal jurisdiction. The account returns the measure together with what makes this comparison warranted.
+
+
+The [mathematics history](../histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#4--commensuration-makes-a-remainder-consequential) **compares** this operation. The exact completing factor obeys 16/9 · 9/8 = 2. Scholtz’s tuning account instead measures twelve pure fifths against seven octaves, leaving the comma 531441/524288; logarithmic distribution adjusts the fifths by a declared criterion. Completing this product and tempering that cycle are distinct acts of reckoning. Six pure 9/8 tones do not equal an octave.
+
+Accountable ratio **returns-to** [Criterion-through-Distinction → Measure / Limit](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#criterion-through-distinction) with the criterion that makes its terms comparable. The finite distinction remains exact: dividing both terms and taking their ratio are separately specified acts. Usurpation begins when the measure’s local success exempts its jurisdiction from question. The returning account can retain a warranted criterion while exposing what that criterion does and does not measure.
+
+The [Symbol / Account / Trust whole-field — Account does not replace source](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. The criterion remains visible in the result, allowing a disputed comparison to return to its denominator without losing the calculation’s earned exactness. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
+
+The [bow–lyre / hamartia return](submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md#ares-bow-lyre-hamartia) **figures** the retained tension through which release and gathering remain possible. Q27’s authored mark-missing-ground reading keeps its own register; Heraclitus B51 and the lexical history of *hamartia* retain separate source duties.
+
 The count returns as an account when the operation, criterion, source and consequence remain available to those affected by it. [[A29-Power-Delegated-Labour-Return|A29]] extends that return through delegated work; [[A33-Epistemic-Cultivation-Operational-Parity|A33]] tests its cultivation across agents, while [[submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity|C45]] qualifies the scope of a common operation. Rationality becomes fuller by reckoning upon the conditions of its reckoning. Its precision remains earned locally and answerable beyond that locality.
 
 The movement consumers are M13, M18, M20, M29, M40 and M45; consequences continue through A16–A18, A24–A25, A29 and A33. The two E fields retain evidence register 2 for documented semantic senses and 3 for the operational movement from count to account and apportionment to economy. Latin *ratio*, Greek *arithmos*, harmony and the proposed root braid remain lexical-source work; no common ancestry is asserted here.

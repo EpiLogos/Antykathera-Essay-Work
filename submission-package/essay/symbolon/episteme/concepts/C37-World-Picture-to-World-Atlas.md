@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from authorial world-atlas development; Paraphrased perspectival diagnosis; technical designs retain their Offered standing"
+---
 # C37 — World-Picture → World-Atlas
 
 ## #0
@@ -22,6 +27,19 @@ An atlas and an attractor do different work. The former coordinates charts; the 
 
 ## #5→0
 
+
+The local Symbolon Dynamics carrier distinguishes attractor/trajectory from chart/transition and requires provenance through their authorial conjunction; the [language history](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-dialogue) **qualifies** this operational comparison.
+
+The atlas’s transition rule **returns-to** [the developed Bohm dossier](../dossiers/bohm.md) through the difference between a preserved invariant and a forced agreement. Taylor’s phase/modulus continuation gives the 1975 wheel-and-thread image an exact mathematical neighbour; epistemic passage still owes its own question, scale, assumptions and transformation. When a translation cannot preserve a local distinction, retaining the obstruction is an informative return. The mathematical operation remains Taylor’s and supplies no blanket identity among the dossier’s physical, dialogical and institutional worlds.
+
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-regard-refraction): The holographic and window passage **figures** a traversable relation among views, their conditions and a revisable reference. A local unit carries its whole descent through links to condition, articulation, contraction and return. Re-entry follows those relations; accumulating detached miniatures would not perform the atlas operation. Optical holography and the authored whole-bearing organisation keep their independent evidence tasks.
+
+The atlas **returns-to** [Encounter-in-Region](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#encounter-in-region) through the conditions of each local chart and its passage into another. An obstruction can require a changed source, permission or frame rather than another averaged output. The region remains active through those corrections, and no chart acquires final jurisdiction merely because it coordinates several others.
+
+The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-travel-and-reconstruction) **figures** the atlas’s reusable demand: each local view carries its domain, omissions and route into another account. Returning to a familiar address retains what the passage changed. The regulating whole becomes traversable through these relations while local picturing keeps its exact office.
+
+The [whole’s atlas complement](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-atlas-complement) **figures** the source, passage and obstruction which a fixed picture can conceal. Its optical event remains distinct from a chart transition, while both retain the conditions under which different disclosures can be brought into relation. The viewer returns able to revise the aperture rather than merely collect another picture.
+
 Return makes the world a continuing source of revision. An encountered person can answer the categories under which they were counted; a model can alter the reference used by later models; an obstruction can force a change of frame. C38 governs local reference/reflection, C39 the lenses, and C47 the model-revising encounter. The atlas remains an achievement inside worldhood, capable of correction by what it maps.
 
 ### Declared field
@@ -34,7 +52,7 @@ Return makes the world a continuing source of revision. An encountered person ca
 
 ### Provenance
 
-Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>), [Q27 with its Bimba correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), and the [federated reflective-field carrier](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md). The [MEF source house](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) has a recoverable [local twelve-lens reference](../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md) despite its stale unavailable statement. That reference is developmental architecture; its historical attributions and musical selection claims are not independently established by the compilation. [Dyczkowski](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) retains source-matched, not quotation-verified, reflection passages. Technical designs remain Offered until their own experiments establish functioning consequences.
+Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>), [Q27 with its Bimba correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), and the [federated reflective-field carrier](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md). The [MEF source house](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) has a recoverable [local twelve-lens reference](../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md) now bound by the source house’s recovered-local-object record. That reference is developmental architecture; its historical attributions and musical selection claims are not independently established by the compilation. [Dyczkowski](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) retains source-matched, not quotation-verified, reflection passages. Technical designs remain Offered until their own experiments establish functioning consequences.
 
 ### Remaining depth
 

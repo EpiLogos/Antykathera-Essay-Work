@@ -1,0 +1,75 @@
+{
+  "relations": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "forward_before": true,
+      "reverse_before": false,
+      "anchor": "27-eleleth--rescue--revelation-of-the-root",
+      "paragraph": "The bounded image/authority comparison **returns-to** [the complete Hypostasis telling](../../mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#27-eleleth--rescue--revelation-of-the-root). The rulers model a human from a reflected image, yet cannot originate the life they seek to possess. Norea refuses their asserted descent; Eleleth answers her inquiry by disclosing their genesis and her root. Sabaoth’s changed allegiance and the promised future liberation remain distinct from her immediate rescue. This is a retrieval and comparison route, **human-amplified: no** for the proposed Hybris, Māyā, evaluator and psychological appointments. The tractate’s soteriology retains its difference from the native account of manifestation.",
+      "standing": "licensed bounded retrieval/comparison; human-amplified:no remains unratified",
+      "forward": true,
+      "reverse": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "forward_before": true,
+      "reverse_before": false,
+      "anchor": "fanon-language",
+      "paragraph": "The bounded comparison **returns-to** [Fanon’s complete language–gaze–mask field](../../mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md#fanon-language) through the colonial relation that gives metropolitan speech both capacity and prestige. The acquired form can enable participation while carrying an imposed criterion into self-evaluation; the [mask movement](../../mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md#fanon-mask) keeps that double consequence in view. The proposed adaptive-interface and idol/image readings remain **human-amplified: no**. Their source-return retains Antillean/metropolitan history and embodied racialisation, rather than substituting a generic avatar or Jungian persona for Fanon’s particular field.",
+      "standing": "licensed bounded retrieval/comparison; human-amplified:no remains unratified",
+      "forward": true,
+      "reverse": true,
+      "paragraph_present": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "forward_before": true,
+      "reverse_before": false,
+      "anchor": "fanon-recognition",
+      "paragraph": "The bounded recognition comparison **returns-to** [Fanon’s complete source field](../../mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md#fanon-recognition), where a changed self-description leaves the problem active if the social authority distributing recognition remains untouched. The [whole’s return](../../mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md#fanon-return) retains the racial hail, its bodily consequence and an unfinished future in which a person can answer the imposed image. This A27 synthesis remains **human-amplified: no**, as does the proposed Objective Co-Internality appointment. The source comparison preserves unequal colonial power and the material conditions of de-alienation; reciprocal recognition is a demand whose accomplishment is not supplied by a benevolent description.",
+      "standing": "licensed bounded retrieval/comparison; human-amplified:no remains unratified",
+      "forward": true,
+      "reverse": true,
+      "paragraph_present": true
+    }
+  ],
+  "preservation": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "prior_text_exact": true,
+      "lost_prior_edges": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "prior_text_exact": true,
+      "lost_prior_edges": []
+    }
+  ],
+  "wholes": [
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md",
+      "sha256": "717a244db92c860cebeab5cb275ac3a9b5cf8595f6de0e1343295eacf28b4fcd",
+      "unchanged": true,
+      "candidate_flags_unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+      "sha256": "a9b769f8669c5178cfbeaa2c36a8df8615410e58cb0c1021682f8ffd4f3c283c",
+      "unchanged": true,
+      "candidate_flags_unchanged": true
+    }
+  ],
+  "bounded_hygiene": {
+    "targets": 2,
+    "failures": 0
+  },
+  "source_reads": {
+    "hypostasis": "Complete current resolver-selected SOURCE plus complete saved Layton online telling, opening inquiry through hymn. No NOTES. Six episode cards now admitted by parent.",
+    "fanon": "Complete current WHOLE and writer receipt/private coverage; French electronic pages36–37,120–122,212–220,221–222 read directly from sealed page extraction. Full selected-chapter reading belongs to the writer receipt, not claimed newly here."
+  },
+  "protected150": true
+}

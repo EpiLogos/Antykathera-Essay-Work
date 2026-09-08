@@ -1,7 +1,7 @@
 ---
 title: "C59 — Cultural Individuation"
 aliases:
-  - "Epi-Logos-as-Culture" (historical title-component, retired 2026-09-07; the culture register of epi-logos is owned by C51)
+  - "Epi-Logos-as-Culture" # historical title-component, retired 2026-09-07; the culture register of epi-logos is owned by C51
 record_id: C59
 record_type: concept
 register: episteme
@@ -46,3 +46,7 @@ This is why individuation cannot mean a larger, more coherent public self-image.
 [[submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos|Epi-Logos]] becomes cultural where accounts repeatedly return to their conditions through ordinary shared practice. [[submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD|Trust / Place / Logos / Nomos / Natio / Credere]] keeps nation, order, account and reliance historically distinct while their relation supports this register-3 return. Culture, nation and commons cannot become interchangeable names for a single bearer.
 
 **Consumers:** A29, A35–A36; culture/vocation, commons and planetary return. **Depth Restoration:** culture→monoculture→counterculture→two-monocultures, the judging third, Man/Humanity distinction and institutional revision restored from A29/A35/A36 recovery and direct Q27/QH. The whole Job and Ares/Aphrodite movements remain with their owners; no detached mythic proof is substituted here. Exact Jung passages, comparative histories and demonstrated cultural outcomes remain Open.
+
+Cultural individuation **returns-to** [Apportionment / Economy whole — Commons preserves the wider economy](../etymologies/apportionment-and-economy/WHOLE-FIELD.md#commons-preserves-the-wider-economy) at evidence register 3. A culture can revise inherited names and measures while retaining the origins and particular lives through which they matter. That return changes shared conditions without making Culture the owner of every local world.
+
+[E3’s historical branches](../etymologies/trust-place-logos-nomos-natio-credere/HISTORICAL-BRANCHES.md) **historicise** the difference between making a public account accessible and imposing its authorised language. The 1539 ordinance’s specified judicial acts and Grégoire’s 1794 programme have distinct dates, instruments and scopes; neither text establishes a complete history of linguistic practice. Cultural individuation returns their tension to Nomos, Natio and Credere: whose speech can enter the account, who determines its terms, and whether the excluded encounter can change the commission. The institutional relation is Argued while enforcement and wider reception retain their own source tasks.

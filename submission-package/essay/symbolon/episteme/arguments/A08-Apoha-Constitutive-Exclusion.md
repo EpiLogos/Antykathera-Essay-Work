@@ -49,6 +49,15 @@ The mathematical neighbour keeps its own object. [[A03-Immutable-Gap-Formal-Limi
 
 ## #5→0
 
+
+[The language history](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-exclusion) **qualifies** the comparison by distinguishing Pind’s PSV V:11d from qualified preclusion and the volume’s secondary nominal/verbal discussion; positive reference survives the separate attribution debts.
+
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-eye-condition): The aperture **figures** exclusion as the positive condition of a determinate appearance. What is not admitted helps give the view its intelligibility; recognising that relation need not erase the selected distinction. The subsequent frame’s claim to exhaust the horizon is a second operation. Keeping those moments distinct preserves apoha’s constitutive office and its source-specific nominal/verbal negations.
+
+Constitutive exclusion **returns-to** [Name-through-Count](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count) with both the qualified referent and the contrast through which the term applies. The count has a positive reach that retained non-selection can make answerable. Tracking an individual across circumstances and precluding other referents remain different operations; their comparison preserves the unresolved positive-particular inquiry already stated here.
+
+The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **compares** recursive mutual inclusion with the authored apoha–conditioned-arising–saṃkalpa braid. Selection gives attention a definite jewel without removing the field through which it appears. Apoha’s nominal and verbal negations keep their semantic offices; Huayan supplies mutual inclusion rather than a historical source for their pairing.
+
 The selected term returns with the alternatives which made it answerable. [[A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will|A07]] grounds the formation that becomes frozen when alternatives disappear; [[A14-Computational-Process-Ontology|A14]] extends the operational return; [[A33-Epistemic-Cultivation-Operational-Parity|A33]] tests whether the returned conditions can change judgment. Normalisation, ranking and selection retain different information, so a technical trial must name which operation it inspects and which rejected possibilities remain recoverable. No doctrinal identity follows from both systems selecting.
 
 This page returns-to [[A02-Copula-Self-Identity-through-Difference|A02]] with identity's negative constitution intact: the achieved this is determinate, and the relations through which it is this remain constitutive. Wholeness must retain that difference all the way through its gathering.

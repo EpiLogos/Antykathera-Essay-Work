@@ -1,0 +1,113 @@
+{
+  "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md": {
+    "root": {
+      "id": "lsj-1940-greek-english-lexicon",
+      "title": "Liddell–Scott–Jones — A Greek-English Lexicon (9th ed., 1940)",
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md",
+      "artifact_type": "source-house",
+      "authority": "source-authority",
+      "headings": [
+        "A Greek-English Lexicon",
+        "Selected lexical witnesses",
+        "q001 — Topos",
+        "q002 — Logos",
+        "q003 — Nomos",
+        "q004 — Krisis",
+        "q005 — Hybris",
+        "q006 — Anamnesis",
+        "q007 — Homologia",
+        "q008 — Analogia",
+        "q009 — Νέμω — distribution and holding a portion"
+      ],
+      "sha256": "da6d75639fb840b0f2c7ebb6e2de3b4d6d0c36045f058bf56799581ab3faff40",
+      "citation_status": "citation-ready-for-named-online-entries",
+      "quote_status": "selected-senses-paraphrase-ready; no-exact-quotation"
+    },
+    "method": "declared canonical graph and transverse-thread metadata only",
+    "depth": 4,
+    "consumers": {
+      "sections": [],
+      "arguments": [],
+      "concepts": [],
+      "paths": []
+    },
+    "downstream": {
+      "paths": [],
+      "edges": []
+    },
+    "transverse_threads": [],
+    "registers": {
+      "root": "undeclared",
+      "carriers": []
+    }
+  },
+  "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-metaphysics-ross/SOURCE.md": {
+    "root": {
+      "id": "aristotle-metaphysics-ross",
+      "title": "Aristotle — Metaphysics (W. D. Ross translation)",
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-metaphysics-ross/SOURCE.md",
+      "artifact_type": "source-house",
+      "authority": "source-authority",
+      "headings": [
+        "Metaphysics",
+        "Selected passages",
+        "q001 — Multiple senses ordered to a primary reference"
+      ],
+      "sha256": "6d9870b16d4537925f2a224b25ea438c46c4af20eadba91ffd48869a5d890b58",
+      "citation_status": "citation-ready-for-named-online-sections",
+      "quote_status": "selected-passage-paraphrase-ready; no-exact-quotation"
+    },
+    "method": "declared canonical graph and transverse-thread metadata only",
+    "depth": 4,
+    "consumers": {
+      "sections": [],
+      "arguments": [],
+      "concepts": [],
+      "paths": []
+    },
+    "downstream": {
+      "paths": [],
+      "edges": []
+    },
+    "transverse_threads": [],
+    "registers": {
+      "root": "undeclared",
+      "carriers": []
+    }
+  },
+  "submission-package/essay/symbolon/episteme/sources/history-philosophy-science/owen/owen-1843-comparative-anatomy/SOURCE.md": {
+    "root": {
+      "id": "owen-1843-comparative-anatomy",
+      "title": "Owen — Lectures on Comparative Anatomy (1843)",
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-science/owen/owen-1843-comparative-anatomy/SOURCE.md",
+      "artifact_type": "source-house",
+      "authority": "source-authority",
+      "headings": [
+        "Lectures on Comparative Anatomy, delivered at the Royal College of Surgeons in 1843",
+        "Selected passages",
+        "q001 — Analogue",
+        "q002 — Homologue"
+      ],
+      "sha256": "caffcb6d5d8d5520f6723d606085a9543f2db58abc908f146f8553d2684a2641",
+      "citation_status": "citation-ready-for-selected-witness-and-locator",
+      "quote_status": "paraphrase-ready; image-transcription-not-collated"
+    },
+    "method": "declared canonical graph and transverse-thread metadata only",
+    "depth": 4,
+    "consumers": {
+      "sections": [],
+      "arguments": [],
+      "concepts": [],
+      "paths": []
+    },
+    "downstream": {
+      "paths": [],
+      "edges": []
+    },
+    "transverse_threads": [],
+    "registers": {
+      "root": "undeclared",
+      "carriers": []
+    }
+  }
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+    "position": 1434,
+    "inserted": "The [Jung–Pauli dossier](../dossiers/jung-pauli-psychoid.md) sources the now-recovered primary contexts in the consulted Princeton carrier: Pauli’s 60P and 62P, Jung’s 61J and 64J, and Pauli’s 74P. The selected Routledge edition and exact quotation wording remain separate collation tasks.",
+    "old": "These locators are notebook provenance, not independently checked public passages.",
+    "proposal": {
+      "target": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+      "old_exact": "These locators are notebook provenance, not independently checked public passages.",
+      "new_exact": "The [Jung–Pauli dossier](../dossiers/jung-pauli-psychoid.md) sources the now-recovered primary contexts in the consulted Princeton carrier: Pauli’s 60P and 62P, Jung’s 61J and 64J, and Pauli’s 74P. The selected Routledge edition and exact quotation wording remain separate collation tasks."
+    },
+    "before_sha256": "c48ab737309650257824f47d32a978a985574eee3fbde89611f0c192d7564298",
+    "after_sha256": "d3df39a0286023bfd9ebe83983c1950b4dbacccf473d62afde589032f537e253"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+    "position": 6638,
+    "inserted": "The house’s pp.107/127/159 transcriptions retain source-matched status. The dossier recovers their speakers and contexts as Pauli 60P, 31 March 1953; Jung 64J, 24 October 1953; and Pauli 74P, June 1957. Selected-edition quotation wording remains uncollated. Jung’s p.128 objection to disciplinary absorption and the p.159 criticism of ungrounded hyperspace models qualify the respective passages.",
+    "old": "The house's pp.107/127/159 transcriptions remain source-matched notebook leads: selected-edition wording, speaker, letter/date and context require collation.",
+    "proposal": {
+      "target": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+      "old_exact": "The house's pp.107/127/159 transcriptions remain source-matched notebook leads: selected-edition wording, speaker, letter/date and context require collation.",
+      "new_exact": "The house’s pp.107/127/159 transcriptions retain source-matched status. The dossier recovers their speakers and contexts as Pauli 60P, 31 March 1953; Jung 64J, 24 October 1953; and Pauli 74P, June 1957. Selected-edition quotation wording remains uncollated. Jung’s p.128 objection to disciplinary absorption and the p.159 criticism of ungrounded hyperspace models qualify the respective passages."
+    },
+    "before_sha256": "d3df39a0286023bfd9ebe83983c1950b4dbacccf473d62afde589032f537e253",
+    "after_sha256": "b503e87d30738c5199d4ae4ccd9ec7db0191b1e91a470d047fed5893ed93e7b6"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+    "position": 9191,
+    "inserted": "\n\nThe [Jung–Pauli dossier](../dossiers/jung-pauli-psychoid.md) compares a historical receiving burden. In 62P (27 May 1953, pp.118–119), Pauli proposes that an adopting discipline must itself undergo the greater transformation; Jung rejects psychology’s absorption into physics in 64J (24 October 1953, p.128). The correspondence supplies a contested comparison, not evidence that this incorporation occurred. A technical translation answers the operational demand when the received distinction changes the apparatus and its failed consequences can revise the account.\n\n",
+    "old": "",
+    "proposal": {
+      "target": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "insert_text": "The [Jung–Pauli dossier](../dossiers/jung-pauli-psychoid.md) compares a historical receiving burden. In 62P (27 May 1953, pp.118–119), Pauli proposes that an adopting discipline must itself undergo the greater transformation; Jung rejects psychology’s absorption into physics in 64J (24 October 1953, p.128). The correspondence supplies a contested comparison, not evidence that this incorporation occurred. A technical translation answers the operational demand when the received distinction changes the apparatus and its failed consequences can revise the account.",
+      "insert_after": "[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE|Draft 3]] sources the vocation of an intelligence more exact through structural acknowledgment of its limit. [[submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE|Watson’s protected encounter]] adds durable inheritance across discontinuous acts: corrected products become conditions for later work. [[A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation|A35]] gives that continuing cultivation its orientation toward origins and affected lives. The inquiry remains capable of changing its own instruments without promoting the latest instrument into its ground."
+    },
+    "before_sha256": "0575c94c8825668de0af78baf8fa1e937ef6165cb12a74371d0f33fd72ea4d38",
+    "after_sha256": "9956b8e72a2e47bc4ce0b4198c99c8a14c2ed8ccc8d648eb4c2afe5cd348bc45"
+  }
+]

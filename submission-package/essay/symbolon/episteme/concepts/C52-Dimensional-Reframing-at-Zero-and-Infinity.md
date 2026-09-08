@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued comparison of source-specific formal constructions; exact mathematics retains each construction's hypotheses and laws"
+---
 # C52 — Dimensional Reframing at Zero and Infinity
 
 ## #0
@@ -22,7 +27,19 @@ The plane's universal cover, a torus-over-Klein double cover and a change of coo
 
 ## #5→0
 
+
+The [zero-reception dossier](../dossiers/zero-reception.md#1--a-numeral-receives-rules-and-rules-meet-an-exception) **compares** this operation. The retained zero-denominator expression must carry its permitted and forbidden inferences. The ordinary equality 6·0 = 17·0 does not permit cancellation of zero. Dutta’s restricted-law reconstruction is therefore assessed as a changed regime, while Colebrooke’s selected translation supplies its different historical witness. An exceptional value receives no unrestricted field licence merely by being written.
+
+
+The [mathematics history](../histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#3--re-entry-representation-and-retained-passage) **compares** this operation. Retaining a zero-divided expression under restricted cancellation changes algebraic permissions. Adjoining the ideal point of the extended complex plane, taking a quotient and lifting to a cover change different objects and preserve different invariants. NIST’s selected cross-ratio account therefore does not make every undefined arithmetic expression a field operation. A dimensional return must name the transformation and the work it retains.
+
+The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-mathematical-witness) **qualifies** reframing by specifying the space and transformation. Its circle charts assign `u=3` and `v=1/3` to one point under `v=1/u`; their velocities also transform. That exact witness gives different descriptions a declared relation without making every changed viewpoint a change of dimension.
+
+The circle, torus, cover and retained winding have different formal objects; the authored body returns their distinct transformations. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-interposition).
+
 Return states the container and the relation preserving the earlier result. Rational and irrational linear flows on the torus have different closure behaviour; a changed field must not erase that difference in a generic image of eternal return. C64 carries the broader philosophical transformation while A17/A18 retain the mathematical and transverse operations. Their symbolic force depends on exact distinctions surviving the change of frame.
+
+[Homologia / Analogia](../etymologies/homology-and-analogy/WHOLE-FIELD.md#e5-whole-returns) **qualifies** reframing by requiring the preserving relation and the changed law to be named together. A coordinate transformation relates descriptions of one point; a quotient identifies representatives; a cover retains distinct lifts; an altered algebra changes its permitted operations. Their shared methodological office is to make an obstruction tractable while keeping the earlier result's stated scope. No common word for return makes these transformations interchangeable, and a failed proposed equivalence revises that comparison rather than cancelling every neighbouring formal result.
 
 ### Declared field
 

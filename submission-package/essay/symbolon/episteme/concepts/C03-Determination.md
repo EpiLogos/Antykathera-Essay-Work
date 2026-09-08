@@ -46,6 +46,12 @@ An account of a selection becomes another selection. [C04 — Formal Limit](C04-
 
 ## #5→0
 
+
+Referential exclusion, finite figure and the native act of determination remain distinctly sourced positive operations; the [language history](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-exclusion) **qualifies** this historical attribution.
+
+
+The [zero-reception dossier](../dossiers/zero-reception.md#2--a-reception-story-also-requires-a-source) **qualifies** this operation. Nothaft’s current official-abstract card corrects the use of his article: its purpose is to challenge the familiar satanic-zero and ban narrative. The full article remains unread after a 403 response, so no individual medieval case is certified. This correction changes the next historical assertion while preserving the distinct mathematical operations. A claim stays determinate by naming what its available evidence can test.
+
 A completed determination enters the inherited field of the next act. Return makes its source, criterion, exclusions and consequences available again. [C45 — Operational Parity](C45-Operational-Parity.md) **tests** the technical consequence: making the distinction explicit must change some actual operation if it is to claim operational efficacy. A label alone has not performed that return.
 
 The [[submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter / Region / Name / Count / Countenance / Account whole-field]] **grounds** the operational etymology relation. Name and count render a participant discriminable within a region; account becomes answerable when the region and participant can return to alter it. This is evidence register **3**, not common lexical descent. C03 **returns-to** [C02 — Faithful Definition](C02-Faithful-Definition.md): the distinction remains definite enough to use and related enough to answer for its use.

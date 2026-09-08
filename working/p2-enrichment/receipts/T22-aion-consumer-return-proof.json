@@ -1,0 +1,32 @@
+{
+  "relations": [
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "forward": true,
+      "reverse": true,
+      "exact_operation_present": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "forward": true,
+      "reverse": true,
+      "exact_operation_present": true
+    }
+  ],
+  "preservation": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "exact_prior_text": true,
+      "lost_edges": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "exact_prior_text": true,
+      "lost_edges": []
+    }
+  ],
+  "whole_unchanged": true,
+  "source_unchanged": true,
+  "held_flags_unchanged": true,
+  "hygiene": 0
+}

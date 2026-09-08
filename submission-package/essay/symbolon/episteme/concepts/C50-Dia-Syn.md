@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Derived"
+source_relation: "Extracted native Dia/Syn derivation; Argued cross-register developments; Greek lexical and computational comparisons remain source-specific"
+---
 # C50 — Dia / Syn
 
 ## #0
@@ -32,7 +37,19 @@ The temporal distinction crosses the logical one. A synchronic view holds a conf
 
 ## #5→0
 
+
+Temporal succession and co-presence cross the two logics; a shared gathering can sever its ground and a chronological account can retain it; the [language history](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-account-return) **qualifies** this operational comparison.
+
+
+[the ancient-philosophy companion](../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md#ancient-later-reception) **historicises** Heidegger’s 1951 reading of B50 and Mackenzie’s B51 witness separately; the two-gatherings relation retains Taylor’s authorship.
+
+The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **figures** a local cut whose gathering preserves its result: the selected jewel remains definite within the recursively appearing net. This gives Dia and Syn a source-specific comparative body while leaving cancellation and appropriation distinguishable from held polarity.
+
+The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-eagle-valence) **figures** three distinct operations in the corrected eagle reading: held signed polarity, additive cancellation and directed appropriation through subtraction. The rejected `1/1` reconciliation remains rejected. The two heads’ common body leaves the actual conduct of power open to examination.
+
 The criterion is whether the achieved distinction retains what makes it possible. A returned term carries source, exclusion, counter-reading and changed context into another act. C23 and C24 locate severance and fusion; C36 retains active tension; C43 develops functional self-return. The two logics do not license treating every cut as evil or every unity as good.
+
+[Homologia / Analogia](../etymologies/homology-and-analogy/WHOLE-FIELD.md#operations) **qualifies** the two logics by asking which operation the achieved agreement retains. Signed polarity keeps an axis between distinct terms; addition cancels their values; directed subtraction assigns their span to one pole. Syn composes the differentiated terms with their inverse readings and conditions still available. These outcomes cannot be exchanged because each is called a unity. Their political and psychic comparisons remain authorial register 3; Greek agreement and proportion supply distinct lexical questions, while dia-/syn-ballein's particular history keeps its own warrant.
 
 ### Declared field
 

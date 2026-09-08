@@ -34,6 +34,10 @@ The [[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/
 
 Formal comparisons make this criterion more exact when their operations remain distinct. [[submission-package/essay/symbolon/episteme/sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE#russell-1908-theory-types-q001|Russell's theory of types]] **compares** the reflexive predicament with a specific response: restrict which totalities can contain members defined through those totalities. Its relative types concern variables and ranges of significance. The response reorganises allowable formation; it is not a psychological diagnosis of its author.
 
+The [Formal Limit dossier](../dossiers/formal-limit.md#limit-and-recurring-gap) **compares** the specific operation which reaches each limit. Russell’s repair changes allowable formation, Gödel’s result concerns derivability under stated hypotheses, and Spencer-Brown’s re-entry belongs to its own calculus. An enlarged or revised system can achieve valid work without making these three operations identical. The native account retains the present act of enlargement as distinct from its represented content.
+
+
+
 [[submission-package/essay/symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE|Gödel's 1931 article]] **qualifies** the mathematical comparison by fixing its jurisdiction in effectively axiomatized systems sufficiently expressive for arithmetic, with the relevant consistency hypotheses. Incompleteness is not a theorem that every account, model or closed physical system fails. The native argument remains Argued; Gödel does not supply a proof of the Subject, God or QL.
 
 [[submission-package/essay/symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE|Spencer-Brown's calculus]] **compares** a third operation: distinction and its re-entry. The unmarked state belongs to that calculus; it cannot silently be substituted for QL's unobjectifiable condition. These comparisons are source-specific relations, not interchangeable authorities for one slogan.
@@ -45,6 +49,11 @@ Changing a formal container can change what is expressible. That makes the conta
 [C09 — Diaphaneity](C09-Diaphaneity.md) **extends** the positive response to the reflexive limit: the mediation becomes more transparent within the account. More contextual data alone cannot perform this change. The account has to disclose how its position participates in what it makes available. The [[submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD|Fides / Topos / Logos / Nomos / Natio / Credere whole-field]] **grounds** the Topos relation here at evidence register3: the placing-act is situated even when it places its own conditions. Lexical history remains a separate evidential office.
 
 ## #5→0
+
+[The complete Māyā whole](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-recognition-return) **returns-to** this operation. The eye’s self-disclosure remains situated in a further act of seeing. Recovering a condition supplies real knowledge while renewing the distinction between the account and its occurring. The limit is therefore not missing information or the anatomical blind spot. This authored figure preserves the native performed limit and the independent hypotheses of each mathematical witness.
+
+
+The [complete Investigation and Faith aphorism](../aphorisms/investigation-and-faith.md#complete-aphorism) **returns-to** this distinction between the approachable limit of inquiry and the relation renewed by determining. Its four lines remain one authorial form. This concept returns the reader to the operation which makes the compact distinction exact; the compact form does not replace its performance.
 
 The limit returns inquiry to a task it can perform: give an account, expose its determining relations and let what returns alter it. [C02 — Faithful Definition](C02-Faithful-Definition.md) **defines** that responsibility; [A23 — Trust and Faith](../arguments/A23-Trust-Faith-and-the-Formal-Limit.md) **extends** it into continuing without possession of final ground. A commitment can be investigated, corrected or withdrawn. Formal non-possession does not certify a relation as harmless.
 

@@ -40,9 +40,16 @@ Ostrom's [[submission-package/essay/symbolon/episteme/sources/political-theory-i
 
 ## #5→0
 
+
+The [Foucault lens](../lenses/foucault.md#foucault-scales-of-measure) **returns-to** delegated labour through the categories used to evaluate it. Reports become classifications, classifications become distributions, and those distributions authorise further assignments. Returning the expenditure and consequences to the commissioning condition makes this dependency answerable. An aggregate improvement does not settle each participant’s treatment; the application remains Offered until the actual transformations are evidenced.
+
 Return can reaffirm a task, alter it or require refusal. [A31 — Deferential Intelligence](submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md) **extends** the capacity to preserve intention through a change in its first formulation. [A33 — Operational Parity](submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md) **tests** whether the returned evidence changes an actual operation; a displayed provenance label alone does not establish this.
 
 C53 **returns-to** [A29](submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md) with the completed relation: apportioned capacity acts, encounters consequence and returns evidence and value to a field capable of revising its commission. Responsibility belongs at both ends of that path.
+
+[the Job whole](../../mytheme/worlds/biblical/job/WHOLE.md#job-consequence-return) **figures** the separation of permission from suffered consequence. The heavenly test reaches labourers, children and the afflicted body, while those who bear these costs do not set its terms. The appointed return asks whether consequence can reach the authority that commissions an action. A successful outcome for the principal cannot by itself answer the losses borne by others.
+
+[the Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-administered-world) **figures** power carried by an office across the replacement of its bearer. The succession of Numbers Two keeps the Village's interrogation and confinement operative, so responsibility cannot end with a personnel change. Degree Absolute brings consequence back upon an incumbent without by itself revising the apparatus. The return concerns whether costs can reach the purpose and permissions of delegated labour, not merely the delegate's performance.
 
 **Depth Restoration:** restored product-up/consequence-down asymmetry, criterion-revising return and the public-work/hidden-decision inversion from A25/A28/A29/A30/A33/A35's recovered field and direct QH/Q27 carriers. No identity change.
 

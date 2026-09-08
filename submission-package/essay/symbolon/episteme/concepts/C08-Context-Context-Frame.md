@@ -46,6 +46,14 @@ A commission gives this locality a practical test. Human intention can ground an
 
 ## #5→0
 
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-regard-refraction): The changing window **figures** a Context Frame with effective bounded authority. Its pane, angle, source and exclusions determine what can be compared here; an achieved projection can become a genuine local Bimba for further readings. Returned experience can revise that reference, which remains pratibimba toward wider sources. The frame’s ability to govern an inquiry therefore stays distinct from a claim to exhaust its horizon.
+
+The bounded Context Frame **returns-to** [Encounter-in-Region](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#encounter-in-region) through the conditions its selection makes operative. A chosen source, rule or permission can change the inquiry without exhausting the wider worldhood that bears it. Returning the result can revise this selection, including the local Bimba reference, while preserving the distinction between that reference office and its encompassing sources.
+
+The Context Frame **returns-to** [Topos — situated return](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#topos-situated-return) as a bounded holding of sources, rules and permissions. Articulating those conditions gives Logos an addressable account; it does not place the framing act outside them. Returned evidence can revise the frame’s next use while its local reference office remains answerable within a wider relation.
+
+The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-native-and-archetypal-field) **figures** the Context Frame through the puzzle’s prior rule of fit. Encounter makes sources, projection and omitted continuations available for revision, changing how the next placement is judged. The frame keeps its bounded organising office within a world that it cannot exhaust.
+
 [C09 — Diaphaneity](C09-Diaphaneity.md) **tests** whether those conditions become readable through their effects. Contextualisation succeeds when the account can show how its means, exclusions and position shaped what it says, and when returned resistance can change those terms.
 
 [[submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Arbitration / Hybris / Regard / Anamnesis]] **grounds** the generated relation **Con-text-through-Diaphaneity → Regard**, at evidence register3. Con-text-through-Diaphaneity is the generated relation; Regard is the operation becoming available there. The two offices must not be compressed into a synonym.

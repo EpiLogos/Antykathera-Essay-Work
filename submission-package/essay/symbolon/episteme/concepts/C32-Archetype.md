@@ -39,6 +39,10 @@ The [[submission-package/essay/symbolon/episteme/etymologies/homology-and-analog
 
 ## #5→0
 
+The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-image-recognition-return) **qualifies** the difference between a particular maternal image and determining capacity. The encountered body, cope and corrected reading give that capacity a situated manifestation. Neumann’s morphology provides shared archetypal structuration while the local encounter retains its own history and cannot become a universal template.
+
+The Neumann whole articulates shared genesis through changing parental, bodily and heroic offices. Situated tellings and their temporal transformations remain distinct from this common archetypal articulation. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-round). The round, nurturing body, world-parent relation and transformed centre retain different archetypal offices within the shared field. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-source-variants).
+
 An archetypal interpretation returns to the life it has interpreted. [[A20-Image-Valuation-Possession|Image and valuation]] asks what its image makes available or excludes; [[A21-Individuation-Recognition|individuation]] asks how the relation among agencies changes. The outcome is not a completed catalogue of the archetype. A life recognises its own achieved differentiation within a wider ordering relation and becomes capable of another encounter.
 
 [[A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation|Cultural sensitivity to origins]] extends this return without enthroning a collective ego or appointing one culture's image as the universal form. C32 owns pattern-through-variable-manifestation; [[submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture|Symbolon disclosure]] keeps its historical, psychic, formal and mythic warrants accessible in their respective homes.

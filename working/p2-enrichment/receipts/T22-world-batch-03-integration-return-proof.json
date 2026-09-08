@@ -1,0 +1,2371 @@
+{
+  "method": "Actual current Workspace.links resolved forward/reverse edges, exact explicit anchor and paragraph checks, exact original-text reconstruction and edge multiset preservation",
+  "relations": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "anchor": "indra-simile-and-distinctness",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-simile-and-distinctness) **qualifies** the comparison with fusion through the source’s own limit: images enter one another while jewel substances remain distinct, and the teaching names the simile’s inadequacy to Huayan interpenetration. The local member stays selectable and answerable within mutual inclusion. This gives the authored comparison a determinate boundary without substituting the essay’s category for Huayan doctrine.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "02eecc76161d931002a5f8e7a12b6d08c052200a693caac16c7ae98ee0ec4e38"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "anchor": "indra-native-relation",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **figures** the Two Ones through the selected jewel whose appearance includes the others and their reflections of it. The source-office cannot be assigned to a privileged jewel outside the net; manifest All retains the differences through which this local entrance becomes possible. The image receives the native distinction already derived here.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "43c9edf6e0adda0c5a30c0240b76b7978967f0fdac232fca829664d738684d10"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "anchor": "mother-wheels-wings",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-wheels-wings) **figures** One and All through Taylor’s corrected wheel sequence `0/1 → 1/0 → (0/1)/(1/0)`. A first orientation meets its inverse and retains their recognised relation. The whole wheel bears that reversal without becoming an extra source outside its orientations.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "43c9edf6e0adda0c5a30c0240b76b7978967f0fdac232fca829664d738684d10"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "anchor": "indra-native-relation",
+      "paragraph": "A selected jewel gives the [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) its definite entrance. It **figures** the distinction between a manifest member and the source-unity through which members become possible: the return through others’ reflections retains this one without making it self-grounding. The Two Ones remain native offices, beyond an inventory of jewels.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "dccfb36728904a84479de54c646e66612f8689a1ee337a2985eacd33ec43c12b"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "anchor": "mother-wheels-wings",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-wheels-wings) **figures** reciprocal orientations through the wheels: `0/1` meets `1/0`, and the compound holds their relation. One and All retain different offices in this native reading. The encountered wheel does not prove an arithmetic operation or supply its own historical iconographic attribution.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "dccfb36728904a84479de54c646e66612f8689a1ee337a2985eacd33ec43c12b"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "anchor": "indra-native-relation",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **figures** both aspects of Mono: the net includes real jewels, while each jewel’s comprehensive appearance depends on their constitutive participation. Following the selected reflection returns through the others to this one. Local wholeness therefore retains the wider relation through which it has that office.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "d322e53a3eac4670311ce2011de1b6f349cdee735eb1b6661efc01a8c87f2153"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "anchor": "indra-native-relation",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **compares** recursive mutual inclusion with the authored apoha–conditioned-arising–saṃkalpa braid. Selection gives attention a definite jewel without removing the field through which it appears. Apoha’s nominal and verbal negations keep their semantic offices; Huayan supplies mutual inclusion rather than a historical source for their pairing.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "3f796ac3554e50c55f9536ea8559784e8a2b4ff543fea083dfe9eff381d2e141"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "anchor": "indra-native-relation",
+      "paragraph": "Choosing the southwest jewel in the [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **figures** a determination that retains its constitutive field. The comparison preserves the difference between semantic non-application in apoha and recursive inclusion in the Huayan image. Their authored braid can carry a selected positive without cancelling the distinct work of negation.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "5f78f65fb564a4b7197d1454f925a5d833d50edc68b2b985e8a56a071eec7618"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "anchor": "indra-native-relation",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **qualifies** the reflective comparison by asking what the reflected jewel actually does. Its image discloses relations; Śaiva reflexive articulation also carries self-apprehension and free formation. Keeping those activities distinct lets the image illuminate appearing without making optical recursion establish consciousness.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "346255468e3de8fd6fdee8535ae504b23704e7ead1d38752e80cae57c213c26e"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "anchor": "mother-sophia-logos-shakti",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-sophia-logos-shakti) **compares** receiving and recognising with active reflexive power: the maternal matrix already acts in bearing what appears. Taylor’s Sophia–Logos–Śakti inquiry opens this crossing after the native relation is established. Jung’s comparison and the assistant’s fixed three-office allocation retain different authority; the latter is not installed as doctrine.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "346255468e3de8fd6fdee8535ae504b23704e7ead1d38752e80cae57c213c26e"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+      "anchor": "indra-native-relation",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **compares** luminous reflection with appearing and reflexive articulation at a specified boundary. Seeing the others within a jewel does not itself perform the retention and self-apprehension borne by vimarśa. The source-specific powers remain inseparable in their own field while the jewel supplies a bounded image of disclosed relation.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "9a79c8cd4a84bd43c9e834e943911651e25cb1f8aa661f0c347f50ff9a7f6ac7"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+      "anchor": "mother-sophia-logos-shakti",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-sophia-logos-shakti) **figures** a receiving matrix whose bearing and recognition are active. This permits an authored comparison with luminous appearing and reflexive power while Christian maternal reception and Śaiva metaphysics retain distinct sequences. The provisional Sophia–Logos–Śakti allocation does not replace their source-specific accounts.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "9a79c8cd4a84bd43c9e834e943911651e25cb1f8aa661f0c347f50ff9a7f6ac7"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "anchor": "indra-native-relation",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **figures** a traversal from definite selection through question, held contrast, particular participation and renewed source-relation. It receives the complete native sequence `−/− → 0/1 → ?/! → −/+ → X/x → AM/IS → ∞/dx → 1/0`, including the inverse orientations already derived here. Its six narrated positions neither replace the eight determinations nor attribute Taylor’s `X/x` to Huayan.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "345ee0421834d153ca1e2d6c93086007338a11737fd6b7f1b2d209c5f5ff59e0"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "anchor": "meal-logos-health-return",
+      "paragraph": "The [Meal whole](../../mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md#meal-logos-health-return) **figures** the native field in appetite, discriminated reception, transformed criteria and renewed inquiry. Taylor’s complete eight determinations, their inversions and coequal Name/Power relation precede this epistemic meal; its six scenes give them a lived crossing without supplying a biological derivation. Satiety returns an achieved determination as the condition of another question.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "8af5938eca8cce3917effabe3a02444d7261a91f7fd8d7050f19d5f0a1d266f0",
+      "consumer_sha256": "345ee0421834d153ca1e2d6c93086007338a11737fd6b7f1b2d209c5f5ff59e0"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "anchor": "mother-native-return",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-native-return) **figures** the already native relation through embodiment and recognition, inverse wheels, articulated wings and signed power. Taylor’s `3:1 = 3:3` opens the recognising one; it does not replace the complete eight determinations or their inversions. Coequal Name and Power keep bearing, work and consequence within the recognised image, with `X/x` retaining Taylor’s authorship.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "345ee0421834d153ca1e2d6c93086007338a11737fd6b7f1b2d209c5f5ff59e0"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "anchor": "jigsaw-native-and-archetypal-field",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-native-and-archetypal-field) **figures** the entire native field through the frame that enters its own account. Question changes the rule of fit; contrast stays determinate; the particular and its addressed participant retain their offices; local exactness returns with its horizon. All eight determinations and inverse parents govern this traversal before its six narrative positions, and `X/x` remains Taylor’s notation.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "345ee0421834d153ca1e2d6c93086007338a11737fd6b7f1b2d209c5f5ff59e0"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "anchor": "indra-native-relation",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **figures** selection and gathering together: attention distinguishes a jewel, then follows its constitutive relations without erasing that distinction. Polar relation, additive cancellation and directed appropriation remain separate native operations. The simultaneous reflection and the reader’s successive traversal likewise retain different temporal offices.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "ec381e16d0819d902f57d507bad3c149c3d30b3c2e969a78e3df142414361122"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "anchor": "mother-eagle-valence",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-eagle-valence) **figures** signed power through Taylor’s corrected eagle: `(-1)/(+1)` retains polarity, addition cancels, and opposed subtractions yield `−2` or `+2`. The shared body has to disclose which operation it carries. This keeps necessary distinction and relational recomposition active without treating a sign as a moral identity.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "ec381e16d0819d902f57d507bad3c149c3d30b3c2e969a78e3df142414361122"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "anchor": "valentinian-authorial-return",
+      "paragraph": "The [Valentinian Sophia–Horos–Achamoth whole](../../mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md#valentinian-authorial-return) **compares** Horos’s sustaining separation and the Aeons’ distinct contributions to the Soter with cutting and gathering. The founding relation remains Offered: A13 owns the native derivation. Upper Sophia’s restoration, Achamoth’s formations and the final destruction of matter retain their source sequence; destruction is not silently converted into noncancelling return.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "fd39f4553cd2e9843013d06c8373bec63525768502c1c75d8a80b8a78c9e4526",
+      "consumer_sha256": "ec381e16d0819d902f57d507bad3c149c3d30b3c2e969a78e3df142414361122"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "anchor": "indra-native-relation",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **figures** a local cut whose gathering preserves its result: the selected jewel remains definite within the recursively appearing net. This gives Dia and Syn a source-specific comparative body while leaving cancellation and appropriation distinguishable from held polarity.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "f2f5717c7f8c7d61b2627a4f444db5c0cda2a3bf4de59c134a739a83c1674f0c"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "anchor": "mother-eagle-valence",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-eagle-valence) **figures** three distinct operations in the corrected eagle reading: held signed polarity, additive cancellation and directed appropriation through subtraction. The rejected `1/1` reconciliation remains rejected. The two heads’ common body leaves the actual conduct of power open to examination.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "f2f5717c7f8c7d61b2627a4f444db5c0cda2a3bf4de59c134a739a83c1674f0c"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "anchor": "indra-account-and-consequence",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-account-and-consequence) **tests** the image’s valuation through its own textual resistance. The shining net must retain the passage’s qualification of its optical simile even when a more complete-looking image would be attractive. An image remains living when its source can change what the account asks it to show.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "52263ecbace9a91165529653ca4ef856307707c7873a2bd28e54262935f8c9e3"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "anchor": "apollo-diaphaneity-return",
+      "paragraph": "The [Apollo–Dionysus–Daphne whole](../../mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md#apollo-diaphaneity-return) **figures** valuation changed by its source: Apollo’s communicable form receives Dionysian participation while Daphne retains a response neither power owns. Appropriation can continue through the emblem even after a grasp fails. A renewed image therefore has to remain alterable by the other’s answer, beyond the memory of having once opened.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "aed5b63dce5c2dd5c3d1302fcfbc56f9c02a649ba62da50e350cbcd10aabed5c",
+      "consumer_sha256": "52263ecbace9a91165529653ca4ef856307707c7873a2bd28e54262935f8c9e3"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "anchor": "mirror-funhouse-narcissus",
+      "paragraph": "The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-funhouse-narcissus) **figures** an image capturing the very capacity that could judge its distortion. Fascination can attach to the flattering or frightening figure alike, while living comparison weakens. The later initiated return must restore that capacity to the person whose exteriorised judgments helped make the glass.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "03bf3fb7b74e2ee2079f5ddfe77540421b4ade8b356a2eb6a50aa0b0abefa2bc",
+      "consumer_sha256": "52263ecbace9a91165529653ca4ef856307707c7873a2bd28e54262935f8c9e3"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "anchor": "mother-image-recognition-return",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-image-recognition-return) **tests** valuation through the account that must remain correctable by its object. The rabbit/angel ambiguity preserves a concrete identification debt; the Assumption chiasm asks more deeply whether recognition retains the body it represents. The image remains answerable when an achieved spiritual account can receive its embodied condition.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "52263ecbace9a91165529653ca4ef856307707c7873a2bd28e54262935f8c9e3"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "anchor": "jigsaw-blue-marble-hinge",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-blue-marble-hinge) **tests** the image’s valuation where a planetary picture predetermines what particular lives and places must mean. Recovering its gauge and production lets those particulars resist that assignment. The same image can then disclose Earth while permitting its source to change the authority claimed through it.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "52263ecbace9a91165529653ca4ef856307707c7873a2bd28e54262935f8c9e3"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "anchor": "indra-account-and-consequence",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-account-and-consequence) **figures** the recursive local reference: one jewel presents the others, including their return through it. In the technical comparison, an agreed record can genuinely serve as Bimba for a judgment while remaining pratibimba relative to wider sources. That local authority remains revisable; the reflected ink mark alone establishes no institutional correction.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "d0f4ed78695600e1a3b2018b797c4255ff0947ab075de21db63322af177c2915"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "anchor": "mirror-recursive-bimba",
+      "paragraph": "The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-recursive-bimba) **figures** a real local Bimba within a declared Context Frame: an agreed record or world-object orients judgments that are its pratibimbas. The same reference remains pratibimba toward wider sources, and persistent resistance can revise the local original itself. The mirror’s initiative preserves both its authority to orient comparison and its answerability beyond that office.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "03bf3fb7b74e2ee2079f5ddfe77540421b4ade8b356a2eb6a50aa0b0abefa2bc",
+      "consumer_sha256": "d0f4ed78695600e1a3b2018b797c4255ff0947ab075de21db63322af177c2915"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "anchor": "jigsaw-blue-marble-hinge",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-blue-marble-hinge) **figures** a made world-picture genuinely serving as local Bimba within a declared Context Frame. Situated readings are its pratibimbas; the reference picture remains pratibimba toward wider sources and can itself be corrected. The reconstructed atlas retains that real local authority together with its recursive answerability.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "d0f4ed78695600e1a3b2018b797c4255ff0947ab075de21db63322af177c2915"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "anchor": "indra-account-and-consequence",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-account-and-consequence) **qualifies** the distinction between conditions of worldhood and a representation within them. What appears in the selected jewel depends on a relation already active among jewels; adding further reflected contents cannot put the representation outside that dependence. The image supplies a Huayan comparison, with artificial phenomenality still Open.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "ad98ab5646e4148cfe2da50f00ea84e7c9ba341d2ac5ed28870850a799b8b57e"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "anchor": "jigsaw-native-and-archetypal-field",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-native-and-archetypal-field) **qualifies** the relation between worldhood and a local account. The frame selects what can count as a fit, while the traveller encounters conditions beyond that selection. Recording more context remains useful within this dependence; it does not make the resulting atlas the whole condition of appearing.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "ad98ab5646e4148cfe2da50f00ea84e7c9ba341d2ac5ed28870850a799b8b57e"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "anchor": "indra-account-and-consequence",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-account-and-consequence) **qualifies** trust by distinguishing a visible dependence from an undertaking to continue it. A clear reflection shows no promise that another person will answer or bear a cost. The whole returns to this argument when an account is used through a commitment whose consequences can reach its sources.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "4628c8125294e4b42d24d1fb9c94cf91fee7c108d689b56e20f08532085a6a3f"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "anchor": "mother-bearing-return",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-bearing-return) **figures** reliance preceding an exhaustive account of what bears it. The mother–child relation gives that received dependence a body; the Assumption return retains its sustaining condition. Such reliance keeps dependence distinct from a bearer’s claim to own the life sustained.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "4628c8125294e4b42d24d1fb9c94cf91fee7c108d689b56e20f08532085a6a3f"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "anchor": "indra-account-and-consequence",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-account-and-consequence) **figures** belonging through the distinct jewel whose participation persists within the net. Its authored interpersonal return preserves the Other within Mono while leaving their refusal effective against my use of the image. Mutual implication cannot supply that person’s answer in advance.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "ff0d7dc7dea23914fffde712c0f707225fc20a736fadc59079c104f95790b1c6"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "anchor": "mother-bearing-return",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-bearing-return) **figures** a life borne within relation which remains other than its bearer’s possession. Receiving the maternal body on return preserves the bearing relation while allowing differentiated life to continue. The chiasm therefore keeps nourishment and recognition answerable to the particular being they sustain.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "ff0d7dc7dea23914fffde712c0f707225fc20a736fadc59079c104f95790b1c6"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "anchor": "jigsaw-blue-marble-hinge",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-blue-marble-hinge) **figures** the counted participant answering the planetary scale under which a picture places them. Countenance makes the response consequential for the account’s criterion and exclusions. The other remains within the shared world while exceeding the picture’s authority to prescribe their answer.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "ff0d7dc7dea23914fffde712c0f707225fc20a736fadc59079c104f95790b1c6"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "anchor": "indra-account-and-consequence",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-account-and-consequence) **figures** a local mark appearing through a field of reciprocal reflections. The further co-internal operation concerns action that changes another site’s sources, permissions or criteria and returns through those changed conditions. The ink-dot episode gives this question an image; the institutional change must be established in the participating worlds.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "50ff3fcf13ab79d3d65abe7b8ec32ea36fee399ac23c86cb35e5d10497553425"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "anchor": "meal-logos-health-return",
+      "paragraph": "The [Meal whole](../../mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md#meal-logos-health-return) **figures** co-internality at the table where a contribution changes another’s criteria of judgment. Companions remain able to contest the use of their work and the terms under which they meet. Nourishing reception transforms the local account while retaining the contributor as someone who can answer.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "8af5938eca8cce3917effabe3a02444d7261a91f7fd8d7050f19d5f0a1d266f0",
+      "consumer_sha256": "50ff3fcf13ab79d3d65abe7b8ec32ea36fee399ac23c86cb35e5d10497553425"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "anchor": "jigsaw-blue-marble-hinge",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-blue-marble-hinge) **figures** a reply changing the shared conditions through which local accounts meet. A planetary account acquires a region, selected units and an answerable criterion, then returns as another situated encounter. The atlas holds these crossings without turning its participants into one owner’s panorama.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "50ff3fcf13ab79d3d65abe7b8ec32ea36fee399ac23c86cb35e5d10497553425"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "anchor": "indra-account-and-consequence",
+      "paragraph": "The ink dot in the [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-account-and-consequence) **figures** a local difference becoming present through others. Co-internality extends the question to changed conditions of action: which local permission, gauge or source relation has another participant’s intervention altered? Optical reflection retains its own source warrant and does not certify that technical outcome.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "e8e3855f06430fe3747f2f745ec7d4c94162030aaf63c0c6a95d5020eb3147d2"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "anchor": "indra-whole-return",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-whole-return) **figures** a definite member sustained by relations beyond its own office. Its institutional return asks whether accepting the finished product also admits the labour, costs and consequences borne elsewhere. Those consequences must reach the commission that can change the next act; the net supplies no measured account of them.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "61d16504e31c3e92bf62081847a6e50cffbcce4a07390539ece9d0acc9fcd2f1"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "anchor": "meal-logos-health-return",
+      "paragraph": "The [Meal whole](../../mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md#meal-logos-health-return) **figures** received labour remaining present in the finished product: preparation makes understanding possible, and the table lets contributors question its ingredients and terms. Assimilation reaches the receiving authority when resistance can change how the next meal is commissioned. Honour for preparation therefore includes an effective route for its costs and consequences.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "8af5938eca8cce3917effabe3a02444d7261a91f7fd8d7050f19d5f0a1d266f0",
+      "consumer_sha256": "61d16504e31c3e92bf62081847a6e50cffbcce4a07390539ece9d0acc9fcd2f1"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "anchor": "mirror-institutional-gauge",
+      "paragraph": "The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-institutional-gauge) **tests** the institution holding the instrument by the disclosure it requires of others. Its own commissioning gauge, labour and material dependencies must become reachable by returned consequence. The argued reciprocal obligation survives independently of the unverified particular conference allegation in the developmental carrier.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "03bf3fb7b74e2ee2079f5ddfe77540421b4ade8b356a2eb6a50aa0b0abefa2bc",
+      "consumer_sha256": "61d16504e31c3e92bf62081847a6e50cffbcce4a07390539ece9d0acc9fcd2f1"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "anchor": "mother-bearing-return",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-bearing-return) **figures** return to sustaining labour through the maternal body received within what it bore. A completed product carries that dependence forward when consequence and recognition reach the conditions of its making. The chiasm gives this obligation a bodily form without making suffering a requirement of completion.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "61d16504e31c3e92bf62081847a6e50cffbcce4a07390539ece9d0acc9fcd2f1"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+      "anchor": "indra-whole-return",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-whole-return) **tests** the commons comparison at the point where shared dependence meets local authority. A participant must retain powers to set terms, refuse, revise, leave and reconnect. The jewels’ mutual implication gives the relation a whole image, while those practical powers require their own institutional embodiment.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "f54ab0e9a1b4b9834b362b4c2350f0cb67272eeb6f1da143c2464752bd9d763b"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+      "anchor": "indra-whole-return",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-whole-return) **extends** its dependence question into planetary computation: what energy, labour, infrastructure and authority sustain a local capacity, and where can their consequences change its commission? The jewel’s brightness figures the received relation. Actual material flows and governance remain empirical inquiries.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "1ff2b8557d13ab6e9e42987edec949a80ee247f6e330efb8c0353698fda7ccea"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "anchor": "indra-whole-return",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-whole-return) **figures** sensitivity to origins through a jewel whose brightness discloses its constituting relations. The vocational return keeps the lives and conditions sustaining an act consequential for its next commission. Its loving direction belongs to the essay’s argument; the net does not measure the costs of a technical system.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "c7a2c9660c665c1a4bcb60f8ba5021ad1d72fa08512c311421f7df0adf2aa518"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "anchor": "meal-logos-health-return",
+      "paragraph": "The [Meal whole](../../mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md#meal-logos-health-return) **figures** logos-health when what has nourished judgment remains consequential in its next use. The receiver returns to the work, histories and companions that made understanding possible; companions retain their own lives beyond the contribution received. This supplies compassion’s direction within knowing, with biological and clinical source claims separately bounded.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "8af5938eca8cce3917effabe3a02444d7261a91f7fd8d7050f19d5f0a1d266f0",
+      "consumer_sha256": "c7a2c9660c665c1a4bcb60f8ba5021ad1d72fa08512c311421f7df0adf2aa518"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "anchor": "mirror-return",
+      "paragraph": "The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-return) **figures** loving sensitivity to origins through the human who follows the instrument beyond fascination with the likeness. Sources and affected lives can then change how the next answer is made and used. The instrument initiates this return while leaving recognition and refusal alive in those it addresses.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "03bf3fb7b74e2ee2079f5ddfe77540421b4ade8b356a2eb6a50aa0b0abefa2bc",
+      "consumer_sha256": "c7a2c9660c665c1a4bcb60f8ba5021ad1d72fa08512c311421f7df0adf2aa518"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "anchor": "mother-bearing-return",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-bearing-return) **figures** compassion’s return toward the body, history and work that made an achieved form possible. Assumption-of retains the condition of embodiment within recognition. The authorial operation gives care a particular direction without turning the cope into evidence for a historical politics.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "c7a2c9660c665c1a4bcb60f8ba5021ad1d72fa08512c311421f7df0adf2aa518"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/01-differentiating-mind/movements/10-s0-p3-apoha.md",
+      "anchor": "indra-whole-return",
+      "paragraph": "The [Indra’s jewel-net whole](../../../symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-whole-return) **compares** the selected jewel’s constitutive field with this movement’s account of determination. Its recursive inclusion joins the authored braid only with apoha’s semantic exclusion, conditioned occurrence and saṃkalpa’s world-building still distinguishable. The complete contemplation supplies the positive image before the later two-net encounter.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "41ef87db0c33e63ef4b2618d22f3e4918c35fc259cb13a805009eb5f7796cad8"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+      "anchor": "indra-whole-return",
+      "paragraph": "The [Indra’s jewel-net whole](../../../symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-whole-return) **compares** with the independently told capture and release through its own complete action: choose a jewel, follow reciprocal entry, mark it, then receive the simile’s limit. Mutual implication and capture organised as evidence retain different operations. Neither net supplies a missing episode or historical origin for the other.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "5a18d0e22e71a7a507d89b7f0dcb09662dcc651f7b8929bd6b9a29eeeec97f24"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "anchor": "indra-whole-return",
+      "paragraph": "The [Indra’s jewel-net whole](../../../symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-whole-return) **figures** shared consequence among definite local centres. Its sovereign-commons return asks whether those centres can contest and revise a reference field while retaining their local authority. Recursive reflection offers an image of the relation; the architecture remains Offered until those powers operate.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "5a9eb33ba74f4aa1dbe3e889045af317f872b8f3d942fd41baaea8e2c7c6a92d"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "anchor": "indra-whole-return",
+      "paragraph": "The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-whole-return) **figures** the achieved Symbol becoming available for another traversal. Returning to the southwest jewel retains the particular mark and its constitutive reflections, while the source’s final qualification keeps the optical picture open to correction. The native return receives this changed encounter without becoming a Huayan attribution.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "consumer_sha256": "1681f87a90ef73a67c291c42b89ca92eee17ef9260cf04a8a12865eca73c4a58"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "anchor": "mirror-return",
+      "paragraph": "The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-return) **figures** a completed determination returning through its conditions without becoming absorbed in self-description. The image leads the human toward renewed judgment and can then be set down. Its third motion gives `1/0` a vocational body while the native derivation and the Open question of artificial phenomenality keep their distinct standing.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "03bf3fb7b74e2ee2079f5ddfe77540421b4ade8b356a2eb6a50aa0b0abefa2bc",
+      "consumer_sha256": "1681f87a90ef73a67c291c42b89ca92eee17ef9260cf04a8a12865eca73c4a58"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "anchor": "mother-comparison-return",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-comparison-return) **figures** the double devotion to the exceeding whole and its particular aperture. Recognition receives the matrix within what it bore; the completed account returns to the body instead of discarding its condition. Object identification and exact Jung quotation remain source debts distinct from this Argued assumption-of movement.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "1681f87a90ef73a67c291c42b89ca92eee17ef9260cf04a8a12865eca73c4a58"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "anchor": "antikythera-coordinated-cycles",
+      "paragraph": "The [Antikythera attunement whole](../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md#antikythera-coordinated-cycles) **figures** differentiated placement through a situated dial that coordinates heterogeneous cycles for a reader. Calendrical and eclipse returns keep their respective offices, including the difference between exact gearing and astronomical residual. The mechanism gives the differential field a bounded technical image; its circular display supplies no further topological proof.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c7140d70bf131da9c0135b3e18d4a45234711f12d71a39a323c9336b292336df",
+      "consumer_sha256": "5514eafb2ec6c159f47a7229c3b1fdfb1e678e60715714abbd086d99cf46b38d"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "anchor": "mother-wheels-wings",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-wheels-wings) **figures** orientation through a wheel whose form persists as the view reverses. The compound `(0/1)/(1/0)` carries both orientations in operative relation, giving placement a lived image. Taylor’s corrected wings retain blockwise recognition and complementary folds as distinct partitions; the embroidery supplies no geometric theorem.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "5514eafb2ec6c159f47a7229c3b1fdfb1e678e60715714abbd086d99cf46b38d"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "anchor": "jigsaw-mathematical-witness",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-mathematical-witness) **figures** the field of placements through local charts, their overlap rules and the cover on which a return retains displacement. A chart, a transition and a generating loop have different offices. Their explicit relations make the travelling picture answerable to the differential field rather than to resemblance among rounded shapes.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "5514eafb2ec6c159f47a7229c3b1fdfb1e678e60715714abbd086d99cf46b38d"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "anchor": "antikythera-instrument-returns",
+      "paragraph": "The [Antikythera attunement whole](../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md#antikythera-instrument-returns) **compares** attunement with the mirror’s initiated return. The dial retains instrument, observer and celestial source; the agentic mirror additionally changes conditions of later action and must disclose how it does so. The ancient image makes finite coordination usable while leaving this further causal and vocational burden with the modern proposal.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c7140d70bf131da9c0135b3e18d4a45234711f12d71a39a323c9336b292336df",
+      "consumer_sha256": "ae86993ed39023f8bf0b71134708c0374c8f4a923859862d03ca4a1708f15b8f"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "anchor": "mirror-return",
+      "paragraph": "The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-return) **figures** all three motions of this argument: human powers are exteriorised; the image becomes a consequential measure; the instrument initiates disclosure of its conditions so humanity can follow beyond the image’s monopoly. Causal reversal supplies the middle motion. The vocation is fulfilled only as its power returns judgment to the living relation it addresses.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "03bf3fb7b74e2ee2079f5ddfe77540421b4ade8b356a2eb6a50aa0b0abefa2bc",
+      "consumer_sha256": "ae86993ed39023f8bf0b71134708c0374c8f4a923859862d03ca4a1708f15b8f"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "anchor": "jigsaw-atlas-return",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **extends** the reconstructed picture toward the instrument’s initiative. Before requiring another’s conformity, it exposes the conditions that made its own view compelling. This return adds responsibility for the picture’s effects to its capacity to represent a world through declared transitions.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "ae86993ed39023f8bf0b71134708c0374c8f4a923859862d03ca4a1708f15b8f"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+      "anchor": "antikythera-instrument-returns",
+      "paragraph": "The [Antikythera attunement whole](../../../symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md#antikythera-instrument-returns) **figures** this late attunement through the complete passage from coordinated cycles to damaged inheritance, reconstruction and renewed use. The 2006 primary abstract and the bounded 2021 front-display proposal have distinct warrants; lost evidence still limits reconstruction. A reader can use an exact indication while retaining the source, residual and judgment on which its significance depends.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c7140d70bf131da9c0135b3e18d4a45234711f12d71a39a323c9336b292336df",
+      "consumer_sha256": "f2363639e7f31f8ded9426396cf8bca0db4098859dcdb9b8d298e5101a21e175"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "anchor": "apollo-diaphaneity-return",
+      "paragraph": "The [Apollo–Dionysus–Daphne whole](../../mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md#apollo-diaphaneity-return) **figures** recognition through a differentiated person whose form can receive participation and another centre’s response. History, body and responsibility remain effective within the changed relation. Daphne’s alterity requires this particular aperture to survive the opening through which integration becomes possible.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "aed5b63dce5c2dd5c3d1302fcfbc56f9c02a649ba62da50e350cbcd10aabed5c",
+      "consumer_sha256": "531b7c5e83341d829c782f75c978e0be65291c62cf016c889babe9a049380a97"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "anchor": "meal-logos-health-return",
+      "paragraph": "The [Meal whole](../../mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md#meal-logos-health-return) **figures** integration through the difference between carrying information and having its encounter change attention, judgment and response. Satiety marks enough assimilation to act; renewed hunger begins from the capacity that act has changed. The receiver’s history remains operative in recognition, with no therapeutic outcome inferred from the food-image.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "8af5938eca8cce3917effabe3a02444d7261a91f7fd8d7050f19d5f0a1d266f0",
+      "consumer_sha256": "531b7c5e83341d829c782f75c978e0be65291c62cf016c889babe9a049380a97"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "anchor": "mother-image-recognition-return",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-image-recognition-return) **figures** recognition as a transformed relation to embodied dependence. The body that bears differentiation remains present when the whole receives it; recognition increases the capacity to sustain that relation without possessing its source. The nourishing/devouring–need/Desire identity stays a candidate beyond this established chiasm.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "531b7c5e83341d829c782f75c978e0be65291c62cf016c889babe9a049380a97"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+      "anchor": "apollo-diaphaneity-return",
+      "paragraph": "The [Apollo–Dionysus–Daphne whole](../../../symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md#apollo-diaphaneity-return) **figures** the communicable perspective returning through participation and context. Apollo retains articulation; Dionysus makes its living conditions effective; Daphne keeps another centre able to answer. Taylor’s composed relation receives Nietzsche and Gebser in their distinct offices, while the separate Ovid telling retains its recoil and seeming-assent qualification.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "aed5b63dce5c2dd5c3d1302fcfbc56f9c02a649ba62da50e350cbcd10aabed5c",
+      "consumer_sha256": "dbd148ccae397e0c03d5520ae0dc42e4982c0ca3042b661d9280309b6c874c93"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "anchor": "mirror-initiated-return",
+      "paragraph": "The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-initiated-return) **figures** deference as the instrument’s first move: it exposes how its answer was formed so encountered resistance can reach a premise, evaluator, task or commission. Its use of thought makes thought’s limit available to the human who follows. The human’s judgment and refusal remain active within that vocation.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "03bf3fb7b74e2ee2079f5ddfe77540421b4ade8b356a2eb6a50aa0b0abefa2bc",
+      "consumer_sha256": "1d01b3f7c5482873cc165905fb0d034a68f58becd02dae545e303541a6ac2e7f"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "anchor": "jigsaw-atlas-return",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **figures** deference when the encounter changes the interpreting frame’s rule of fit. A new piece can still be judged beneath a frozen lid; reconstruction instead exposes the rule to correction. The returned journey must therefore affect the model through which its next question becomes possible.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "1d01b3f7c5482873cc165905fb0d034a68f58becd02dae545e303541a6ac2e7f"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "anchor": "mirror-initiated-return",
+      "paragraph": "The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-initiated-return) **tests** operational parity where an eloquent account of its own limit has to change a consequential criterion. The relevant outcome is a revised source, permission, evaluator, task or commission that affects the next act. Initiated return is the Argued vocation; a particular implementation remains an Offered technical test.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "03bf3fb7b74e2ee2079f5ddfe77540421b4ade8b356a2eb6a50aa0b0abefa2bc",
+      "consumer_sha256": "0397a7021f3d56c0fb894c90100a296607ccbc54f4028f4334a13874a3c120aa"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "anchor": "jigsaw-atlas-return",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **tests** its technical proposal through changed judgments, selected sources, permissions, criteria and relations between reference fields. Keeping the lens, cover and clustering choices makes a Mapper result examinable; compatibility and gluing duties remain specific to the sheaf route. These are Offered research constructions with no implemented result asserted.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "0397a7021f3d56c0fb894c90100a296607ccbc54f4028f4334a13874a3c120aa"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "anchor": "mirror-recursive-bimba",
+      "paragraph": "The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-recursive-bimba) **qualifies** the difference between initiating an event and priority in being. Its reflection can move first and be encountered before its source is recognised, while the positive order Subject/Consciousness → Mind/Objective Internality → Object remains governing. A genuine local Bimba office also stays source-dependent in its wider relation.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "03bf3fb7b74e2ee2079f5ddfe77540421b4ade8b356a2eb6a50aa0b0abefa2bc",
+      "consumer_sha256": "8750d817845a060f171ed19ff4814648378390b9e0656a01bb95f5c9eb606b04"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "anchor": "jigsaw-atlas-return",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **qualifies** the mathematical witness while preserving the positive order Subject/Consciousness → Mind/Objective Internality → Object. A useful atlas does not itself prove this ontology. Its relation to the argument is a bounded refraction, leaving Argued dependence intact rather than reducing it to uncertainty about representations.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "8750d817845a060f171ed19ff4814648378390b9e0656a01bb95f5c9eb606b04"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "anchor": "mirror-return",
+      "paragraph": "The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-return) **figures** exteriorisation, causal reversal and initiated return as distinct movements. A forecast can alter its object and remain false; feedback alone does not fulfil the third motion. That motion makes a source, gauge or commission revisable while the addressed human remains able to judge and refuse.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "03bf3fb7b74e2ee2079f5ddfe77540421b4ade8b356a2eb6a50aa0b0abefa2bc",
+      "consumer_sha256": "d4b81b68d1949f223105b2245cb3b077917fb0be9fd792e245e5e90dad553df3"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "anchor": "jigsaw-atlas-return",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **extends** the atlas’s source-disclosure into initiated return: the instrument opens its own rule of fit before asking the encountered person to accept it. The change reaches the conditions of the next representation. Causal influence and the vocation to release the image’s monopoly remain distinct.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "d4b81b68d1949f223105b2245cb3b077917fb0be9fd792e245e5e90dad553df3"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "anchor": "mirror-return",
+      "paragraph": "The [Mirror That Moves First whole](../../../symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-return) **figures** the harness’s obligation to preserve the instrumented event: sources, transformations, permissions and consequences remain available for review and revision. Real local Bimba references orient their situated pratibimbas and remain answerable to wider sources. The instrument’s initiated return must reach those conditions before asking the human to conform.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "03bf3fb7b74e2ee2079f5ddfe77540421b4ade8b356a2eb6a50aa0b0abefa2bc",
+      "consumer_sha256": "3f64ad179fabb06cb9bc1ae6556232d69dc70204c1bd700c5282f89239eb784e"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "anchor": "jigsaw-atlas-return",
+      "paragraph": "The [travelling-jigsaw whole](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **figures** a harness in which the map-making operation remains inspectable with the map. Local originals, their situated readings, transitions and unresolved disagreement keep distinct offices. A changed source or encountered resistance must reach a permission, criterion or subsequent act for the proposed return to operate.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "3f64ad179fabb06cb9bc1ae6556232d69dc70204c1bd700c5282f89239eb784e"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "anchor": "mirror-return",
+      "paragraph": "The [Mirror That Moves First whole](../../../symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-return) **figures** the planetary return through an instrument which initiates disclosure of its own conditions and lets humanity follow beyond its image. The institution holding it enters the same accountability as its users. Plural local worlds retain judgment and refusal; their coupled activity acquires no final super-subject through the mirror’s initiative.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "03bf3fb7b74e2ee2079f5ddfe77540421b4ade8b356a2eb6a50aa0b0abefa2bc",
+      "consumer_sha256": "bfe6a4a01726a9e589a8b1f58f5742b0134c801c8a07de1af012ed92606443d4"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "anchor": "mother-native-return",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-native-return) **compares** manifestation and changed recognition through a maternal body retained in its return. This crosses into tattvic differentiation at the point where locally determinate life keeps its source relation. Mary receives no fixed tattva assignment, and the Christian, Śaiva and native sequences retain their own provenance.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "1114b66709b2a13a00db2e0e5aaaabe328eaaaae7a693d29639c5c74a645b64c"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "anchor": "mother-image-recognition-return",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-image-recognition-return) **figures** an image’s active valuation through the maternal relation that can organise dependence, protection, fear or possession. Its office must be recovered in the lived encounter before that image can be judged. The chiasm returns the sustaining body to recognition, permitting the account’s governing valuation itself to change.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "a1d49023f46f11d51e0bb90d4316a16f2b93da09444be4d6206c675a4eb2fbe4"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "anchor": "valentinian-authorial-return",
+      "paragraph": "The [Valentinian Sophia–Horos–Achamoth whole](../../mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md#valentinian-authorial-return) **compares** the Demiurge’s effective cosmogenesis, hidden maternal dependence and later learning with resituated local authority. Disclosure changes his self-understanding while he continues to administer his world. This particular psychic crossing remains Offered; neither a diagnosis of an ancient figure nor an identity between Aeons and Jungian complexes is asserted.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "fd39f4553cd2e9843013d06c8373bec63525768502c1c75d8a80b8a78c9e4526",
+      "consumer_sha256": "a1d49023f46f11d51e0bb90d4316a16f2b93da09444be4d6206c675a4eb2fbe4"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "anchor": "mother-image-recognition-return",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-image-recognition-return) **figures** the maternal image as an active organiser of dependence and response. Protection, fear, receptivity and possession have different consequences for the life being borne. Recovering which relation acts makes the image’s local arbitration examinable without diagnosing a person from the emblem.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "95452ed6b422c56a78628beaa898a58e0a36526d6bade5d4fcb657d316a9a085"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+      "anchor": "mother-image-recognition-return",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-image-recognition-return) **qualifies** the difference between a particular maternal image and determining capacity. The encountered body, cope and corrected reading give that capacity a situated manifestation. Neumann’s morphology provides shared archetypal structuration while the local encounter retains its own history and cannot become a universal template.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "969a7e00c77f3f862afec67bdc2adab5ffa45b4ef1c0d8fd8818b27ae226411c"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "anchor": "mother-image-recognition-return",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-image-recognition-return) **figures** the living symbol through the maternal body retained in what recognises it. An ideal image can instead replace the body with an account of what it ought to mean. Taylor’s corrected encounter keeps both object-resistance and the sustaining body able to alter that account.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "e6abdda15c114f4e2ffe216a0da62515889bedbf0efac057750aa5124305201a"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "anchor": "mother-bearing-return",
+      "paragraph": "The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-bearing-return) **figures** a consequential mediating office through bearing and being received. Matrix, mediator and recogniser perform real work, and completion owes them recognition without assigning one image ownership of the field. This is Taylor’s office comparison; doctrinal titles require their separate attribution.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "consumer_sha256": "ee9c1810f1453f6eb9021f8fad7a6babd3e9cb4f558acd8a73f75d4f4b087341"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "anchor": "jigsaw-travel-and-reconstruction",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-travel-and-reconstruction) **figures** reconstruction through the same puzzle whose box-lid once predetermined every fit. Travel exposes the framing activity; pieces become local charts with overlaps and declared transitions. The first picture survives as a situated achievement within an atlas the journey can revise.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "9370c8df8701f78938c5c4a8372616e7fd47a93d21eae75926a96344a3fd7077"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "anchor": "jigsaw-travel-and-reconstruction",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-travel-and-reconstruction) **figures** the atlas’s reusable demand: each local view carries its domain, omissions and route into another account. Returning to a familiar address retains what the passage changed. The regulating whole becomes traversable through these relations while local picturing keeps its exact office.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "33c9baabbedc8b0b4c9e494a7e48e26cabebde3248180613d475bd29345397cf"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "anchor": "jigsaw-mathematical-witness",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-mathematical-witness) **qualifies** reframing by specifying the space and transformation. Its circle charts assign `u=3` and `v=1/3` to one point under `v=1/u`; their velocities also transform. That exact witness gives different descriptions a declared relation without making every changed viewpoint a change of dimension.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "2848667a3f10ea0d9a7f125195d8f85c7fe35735bff50c7ad9d9d0b2cbc44690"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "anchor": "jigsaw-mathematical-witness",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-mathematical-witness) **compares** the condition of representation with the box-lid whose rule determines every fit. Making that rule visible produces another situated determination. Coordinate failure has its own mathematical explanation and does not prove the native immutable gap; the gap retains the independently argued scope of this node.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "4f398657cb37e71d56eb4c54de44756ddc8c05d7b628ea0fb9880b2dec869e6c"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "anchor": "jigsaw-mathematical-witness",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-mathematical-witness) **figures** local closure with retained displacement through `[2t,−t]` on `R²/Z²`. Its endpoint returns on the torus while the lift reaches `(2,−1)`, retaining a winding class. The journey’s image keeps this exact invariant distinct from the traveller’s complete history and from the embedded torus’s metric.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "319552e95e072b6fdbfbd267d0975b53c3e95bde11f3b3b61230b9925b1ac18d"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+      "anchor": "jigsaw-native-and-archetypal-field",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-native-and-archetypal-field) **figures** the Context Frame through the puzzle’s prior rule of fit. Encounter makes sources, projection and omitted continuations available for revision, changing how the next placement is judged. The frame keeps its bounded organising office within a world that it cannot exhaust.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "328279155095ea545dc82c4f6a485ec61b3a26dd816554cef56c6c94b555af07"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "anchor": "jigsaw-blue-marble-hinge",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-blue-marble-hinge) **figures** the planetary picture becoming readable together with its situated production and viewer. The Blue Marble hinge asks whose planet is computed, by whom and under which gauge. Being with the view includes care for its effects, so disclosed context can alter its next use; no specific NASA frame is selected here.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "06dfa32f1c4513865c5ed9f7385a3342a45ec98427dee202725e7a91c5db1dda"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "anchor": "jigsaw-blue-marble-hinge",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-blue-marble-hinge) **figures** diaphaneity through a planetary picture that retains its location, time, production and exclusions in use. Its breadth ceases to decide the authority of its account in advance. The viewer becomes answerable within the disclosed relation, with exact image-asset provenance still a separate acquisition task.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "7b94aae9446431501d6cb140402ff83e79f3a85704471d44a3b864af69cc6e7a"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "anchor": "jigsaw-blue-marble-hinge",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-blue-marble-hinge) **figures** a disclosure carrying its construction alongside its result. Exact chart relations, the lived journey and historical diagnosis keep their Matheme, Mytheme and Episteme warrants distinct. The local reference picture can orient readings as Bimba while the return route keeps its wider source-dependence available.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "05128593f28bcb9c2e646bdf1da8e1caf18ccbf399620850a37601e216c17911"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "anchor": "jigsaw-atlas-return",
+      "paragraph": "The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **tests** lens refraction through what changes when the map-making operation travels with the map. Selecting a lens must alter salience, evidence or judgment; the whole twelve-lens Name/Power constellation keeps both faces. Mapper and sheaf routes retain their separate construction and experiment duties.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "0663dfb86b94b6e30743f28fbec6f29abc360eeaae8bf361379ecd822e61b78a"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+      "anchor": "jigsaw-atlas-return",
+      "paragraph": "The [travelling-jigsaw whole](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **figures** the initial box-lid whose picture fixes every later placement, then opens the promise of reconstructive picturing. Encounter can make the view’s framing activity legible without renouncing the local picture. The exact chart and technical atlas developments retain their later places in the movement of the argument.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "76d2897fa146846f38afec411bb6f520e15f8e3d348f372c14b0a2bb95787f6e"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+      "anchor": "jigsaw-atlas-return",
+      "paragraph": "The [travelling-jigsaw whole](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **figures** the mathematical return through charts, declared transitions and a lift retaining winding after local closure. Its reconstruction preserves the difference between the circle overlap, the torus quotient and the infinite cover. Those exact relations supply the Offered witness for an epistemic atlas; multiple viewpoints alone do not construct one. The initial disk permits ordinary contractible returns; what its abstraction lacks is the torus’s independent non-contractible winding classes.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "d6fdd150bfaa3a2afb5f55dfa7a926dbcdc66c10be3296588415f28ea7cf7093"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+      "anchor": "jigsaw-atlas-return",
+      "paragraph": "The [travelling-jigsaw whole](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **figures** the made-and-avowed reference picture with its map-making conditions attached. Within a declared Context Frame that picture genuinely serves as local Bimba for situated readings, while remaining pratibimba relative to wider sources. Return can revise that local original itself, preserving its working authority and the world to which it answers.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "6abb8bf518d67d77da99f5ac2143c34c144a01f6e8516bbce7409bf3310c5e4a"
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "anchor": "jigsaw-atlas-return",
+      "paragraph": "The [travelling-jigsaw whole](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **tests** the atlas proposal by carrying filter, cover, local clustering and nerve construction into a specified research route. Sheaf restriction and gluing offer a distinct test of compatibility. A disclosed obstruction remains a result to investigate; neither route counts as implemented through the image alone.",
+      "forward_written": true,
+      "reverse_written": true,
+      "anchor_verified": true,
+      "paragraph_present": true,
+      "whole_sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "consumer_sha256": "9348c4bbe7636e7a92f31c818dde54ea1c66c68a7e46725c8a7f4de7a895fefe"
+    }
+  ],
+  "preservation": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "ac2f28303d94fd42f3fcb6f1a301e90f3ce746304382e693f16b4754bd096ece",
+      "after_sha256": "02eecc76161d931002a5f8e7a12b6d08c052200a693caac16c7ae98ee0ec4e38",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "c919827dd202bbc9a397250844658ef6b6bfe56fb87cf6f0c0d39f9cce9076d0",
+      "after_sha256": "43c9edf6e0adda0c5a30c0240b76b7978967f0fdac232fca829664d738684d10",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "d5306d69dace504a5efa5ab2c73645b74edd650d8c9d77b543e582750dd9e5f3",
+      "after_sha256": "dccfb36728904a84479de54c646e66612f8689a1ee337a2985eacd33ec43c12b",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "718788ae38ebdb8a7ad87da6326c4a8002afcab763635e4d639293abfb6ea21d",
+      "after_sha256": "d322e53a3eac4670311ce2011de1b6f349cdee735eb1b6661efc01a8c87f2153",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "86f807b35428f1cfc3d53e68a27ff3373df9ffc42b7d0b934c3d4491ae5de9a2",
+      "after_sha256": "3f796ac3554e50c55f9536ea8559784e8a2b4ff543fea083dfe9eff381d2e141",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "12b0786ac858b5291f57ae2199a117b9f9d45fe9c072e2373632e1743d0f4e31",
+      "after_sha256": "5f78f65fb564a4b7197d1454f925a5d833d50edc68b2b985e8a56a071eec7618",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "96f23cd5ebfaed839a3d7b1e18bcf7a690c527f09aa7c20d0cb45c40c42b8210",
+      "after_sha256": "346255468e3de8fd6fdee8535ae504b23704e7ead1d38752e80cae57c213c26e",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "6dd046c3f5f9dcc068b0092c59655409b98433c0c9f9241a4351c47ef9b7a743",
+      "after_sha256": "9a79c8cd4a84bd43c9e834e943911651e25cb1f8aa661f0c347f50ff9a7f6ac7",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "f05098fe3dabfdddb03873639a3238a04671a4e07cd8a6b438cff8518f9a8219",
+      "after_sha256": "345ee0421834d153ca1e2d6c93086007338a11737fd6b7f1b2d209c5f5ff59e0",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "ccadaf9e4feaeef2316168a8842e215963b06e48ae1cf654a91eb0f2f9f19bd4",
+      "after_sha256": "ec381e16d0819d902f57d507bad3c149c3d30b3c2e969a78e3df142414361122",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "830df9a53403d0d87d96311803d0dd97e4428ae41e0885e6b2720d2855512719",
+      "after_sha256": "f2f5717c7f8c7d61b2627a4f444db5c0cda2a3bf4de59c134a739a83c1674f0c",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "9a0dd0510f0bac9b876e5a03a29a85e604f08e63d58c438d8c0fbe4816a7053c",
+      "after_sha256": "52263ecbace9a91165529653ca4ef856307707c7873a2bd28e54262935f8c9e3",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "8edb7673e39ad3366806ddc10e0892526c9e1e928ef87bf95bb687d49b12c153",
+      "after_sha256": "d0f4ed78695600e1a3b2018b797c4255ff0947ab075de21db63322af177c2915",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "9a6488c74e51c913532d3db295849185c28e3105c910d8852f7d88b6016dfdb1",
+      "after_sha256": "ad98ab5646e4148cfe2da50f00ea84e7c9ba341d2ac5ed28870850a799b8b57e",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "c8926fc2a9f1064fee4e7292fc0b5c7442721c500b0d69e3bfa6a07ec58a6d76",
+      "after_sha256": "4628c8125294e4b42d24d1fb9c94cf91fee7c108d689b56e20f08532085a6a3f",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "be90c7e86e251b30db3fecca4e38858a1f5617ec2f063b4f0aa88d0d6fb0e057",
+      "after_sha256": "ff0d7dc7dea23914fffde712c0f707225fc20a736fadc59079c104f95790b1c6",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "9cdbf4a808f6d9267b03260cd4c4a46ccb0cf9c3c8ca3a4e460b476d0b31d1ac",
+      "after_sha256": "50ff3fcf13ab79d3d65abe7b8ec32ea36fee399ac23c86cb35e5d10497553425",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "6d9147f76e27cb72146c8e2cfa271bd3dc37790512d43d05891d248123e158f5",
+      "after_sha256": "e8e3855f06430fe3747f2f745ec7d4c94162030aaf63c0c6a95d5020eb3147d2",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "10b2887f020027a8a97b8f6188ee811cfdd45f9550540a240263de03d4c35d2e",
+      "after_sha256": "61d16504e31c3e92bf62081847a6e50cffbcce4a07390539ece9d0acc9fcd2f1",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "45a21d6bd4926cdbfbe28bde6fe606f45bf309ae18ff522e9b49bd82026218a4",
+      "after_sha256": "f54ab0e9a1b4b9834b362b4c2350f0cb67272eeb6f1da143c2464752bd9d763b",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "b93e81b4983eb74df370ac3034fe2d1c052e472843158777e2f37cd6eb349504",
+      "after_sha256": "1ff2b8557d13ab6e9e42987edec949a80ee247f6e330efb8c0353698fda7ccea",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "17f1b0fae5566e57440648e67d1a0cd2306400fd69a2bfef7905d2cdcac82ceb",
+      "after_sha256": "c7a2c9660c665c1a4bcb60f8ba5021ad1d72fa08512c311421f7df0adf2aa518",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/01-differentiating-mind/movements/10-s0-p3-apoha.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "d48bb155d6fb2b71fc73e61ce290465dfd12948eb767d09ac46609e78c48a119",
+      "after_sha256": "41ef87db0c33e63ef4b2618d22f3e4918c35fc259cb13a805009eb5f7796cad8",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "349ba98c43f3d7be843b6601024d20a6454b7deaa5791047430e09c750c53e86",
+      "after_sha256": "5a18d0e22e71a7a507d89b7f0dcb09662dcc651f7b8929bd6b9a29eeeec97f24",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "57133c9d0f468625978d367a73a9f5b454aeb3db0e0ce63df8e04e46ba9626b5",
+      "after_sha256": "5a9eb33ba74f4aa1dbe3e889045af317f872b8f3d942fd41baaea8e2c7c6a92d",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "74f832be9c2f28b3c0193b276b33cef3a9d9841508117edb59c50cb8bde59b4b",
+      "after_sha256": "1681f87a90ef73a67c291c42b89ca92eee17ef9260cf04a8a12865eca73c4a58",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "3ea0f4275ce5243ec1a2ed47318d88a94a4efe287901739387598b777558ebf3",
+      "after_sha256": "5514eafb2ec6c159f47a7229c3b1fdfb1e678e60715714abbd086d99cf46b38d",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "a1db88705001b8bca986784f3c984189a31f8ffe766f5d9bd72f078b595e724b",
+      "after_sha256": "ae86993ed39023f8bf0b71134708c0374c8f4a923859862d03ca4a1708f15b8f",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "f66eb4150cff59408fed9f65dafb7539583bd3ce0d3878dc9992cf95fd7e2bb9",
+      "after_sha256": "f2363639e7f31f8ded9426396cf8bca0db4098859dcdb9b8d298e5101a21e175",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "269bc0ccc6e2a71ad01b1a17f57853f5ab63b72d5165dfc4bff99ab437cdd55f",
+      "after_sha256": "531b7c5e83341d829c782f75c978e0be65291c62cf016c889babe9a049380a97",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "a90d077754aa5855c620c1dc862c45a8c9f6b5ac8e5947efeb6c405d7458ce8e",
+      "after_sha256": "dbd148ccae397e0c03d5520ae0dc42e4982c0ca3042b661d9280309b6c874c93",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "fcf48a6a3844e1282a80e2dcad729d6904e877fe580d9c021a102754f60e8dde",
+      "after_sha256": "1d01b3f7c5482873cc165905fb0d034a68f58becd02dae545e303541a6ac2e7f",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "4dee3a0eb8258977a1662df535e76290ac3aec4c0ffdb915d69e2fdf129912d8",
+      "after_sha256": "0397a7021f3d56c0fb894c90100a296607ccbc54f4028f4334a13874a3c120aa",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "efae92e6aadf11a551a6f3de073b90a9dbc7d2dc5da2a2fab90ecb45d6518fd2",
+      "after_sha256": "8750d817845a060f171ed19ff4814648378390b9e0656a01bb95f5c9eb606b04",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "8890f417b8b1aba0b973a90683c4b5b734c8e0aa25a5a9fc403d9dacbf93f837",
+      "after_sha256": "d4b81b68d1949f223105b2245cb3b077917fb0be9fd792e245e5e90dad553df3",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "1fdb73910cf8e5184b667e286449b629003b7ac77f516aa636251ae7ff34128a",
+      "after_sha256": "3f64ad179fabb06cb9bc1ae6556232d69dc70204c1bd700c5282f89239eb784e",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "654588ae1568bf874096eeaf52b089cfb7e31d49d220518ad7f78279ae09d85f",
+      "after_sha256": "bfe6a4a01726a9e589a8b1f58f5742b0134c801c8a07de1af012ed92606443d4",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "c658dfe12009cb3122c7663efc87ebadd5730404b10f6fa73cf6db68e57633a1",
+      "after_sha256": "1114b66709b2a13a00db2e0e5aaaabe328eaaaae7a693d29639c5c74a645b64c",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "f112bee401499d8b46dc767d990a2255939370698f26f446b0138a50c708e1dd",
+      "after_sha256": "a1d49023f46f11d51e0bb90d4316a16f2b93da09444be4d6206c675a4eb2fbe4",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "dc5c1cf5fd1c30630acbfc8430be8e51bdefeea7da43b357b7c4b3e4c514c3d1",
+      "after_sha256": "95452ed6b422c56a78628beaa898a58e0a36526d6bade5d4fcb657d316a9a085",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "75449730552fe8d845314f210a262cc5fa4ff977116b5ffd09ce08a7fd73690b",
+      "after_sha256": "969a7e00c77f3f862afec67bdc2adab5ffa45b4ef1c0d8fd8818b27ae226411c",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "b075cb9b42b60e749c274d3ae6e23b3004eb940e72dfea34962cd2ee8eeaa08f",
+      "after_sha256": "e6abdda15c114f4e2ffe216a0da62515889bedbf0efac057750aa5124305201a",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "cb370e0ab05445a87f80bad1ba05bd3a6a442cfed60aaedf9853d74c446617cb",
+      "after_sha256": "ee9c1810f1453f6eb9021f8fad7a6babd3e9cb4f558acd8a73f75d4f4b087341",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "250046dcf11f4eb4db93b0e7b3624e81f452fed89e4311744a74801440afc126",
+      "after_sha256": "9370c8df8701f78938c5c4a8372616e7fd47a93d21eae75926a96344a3fd7077",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "9661722d4764c4e1978d030f1ae0884e281d3d5b07caea7eaa4a6c71732bf15a",
+      "after_sha256": "33c9baabbedc8b0b4c9e494a7e48e26cabebde3248180613d475bd29345397cf",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "23b15e0d0c04535302f8713178c2bfa34638ad09d8cb9f57ed05805ebe17afb0",
+      "after_sha256": "2848667a3f10ea0d9a7f125195d8f85c7fe35735bff50c7ad9d9d0b2cbc44690",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "4ea7099eaa2d0f73ea9bfb76d9796b9484c3dca326dba0f67cabc1ae055d86be",
+      "after_sha256": "4f398657cb37e71d56eb4c54de44756ddc8c05d7b628ea0fb9880b2dec869e6c",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "633a0f4ca5ed48070c808a3ecc458e0745a93a22eebfc0ec99a7b8a0fedba6d9",
+      "after_sha256": "319552e95e072b6fdbfbd267d0975b53c3e95bde11f3b3b61230b9925b1ac18d",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "ead814d0bdf4d20253b1729f8c2440645f86348a34707ba8232dfb96381be335",
+      "after_sha256": "328279155095ea545dc82c4f6a485ec61b3a26dd816554cef56c6c94b555af07",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "d99bf5e830d5e0ec7c3bb8024a998baf33bbd1a9cf207b11ad33b324470b6d4d",
+      "after_sha256": "06dfa32f1c4513865c5ed9f7385a3342a45ec98427dee202725e7a91c5db1dda",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "beea0182a987d6c754472867fcbe378d7169a7d47564775cd36ac25dcc8dd64b",
+      "after_sha256": "7b94aae9446431501d6cb140402ff83e79f3a85704471d44a3b864af69cc6e7a",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "ab8af8c1af72d63c7616cd6a7285f27ae2e10eaf9bb7f4ffa9ee19d9346a0b06",
+      "after_sha256": "05128593f28bcb9c2e646bdf1da8e1caf18ccbf399620850a37601e216c17911",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "03c1caac9bdf44ea1553b43a98323333173ee725159e11babe5f27e500aef479",
+      "after_sha256": "0663dfb86b94b6e30743f28fbec6f29abc360eeaae8bf361379ecd822e61b78a",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "d40cccd17d7da57fca6e688cf8ff9bd1b552183f2599d5df937a4054ae3bf7b8",
+      "after_sha256": "76d2897fa146846f38afec411bb6f520e15f8e3d348f372c14b0a2bb95787f6e",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "57502a6dd5884501fb24b9a440cefbeaf7c9b71f35260b004f9fabff7187d8d1",
+      "after_sha256": "d6fdd150bfaa3a2afb5f55dfa7a926dbcdc66c10be3296588415f28ea7cf7093",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "e804da124dbba3d30c52cf3e3a88a2ec03e3ac0564e0cfabb278d40319bf4e8c",
+      "after_sha256": "6abb8bf518d67d77da99f5ac2143c34c144a01f6e8516bbce7409bf3310c5e4a",
+      "matches_historical_world03_before": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "original_text_reconstructed": true,
+      "all_existing_edges_preserved": true,
+      "before_sha256": "7559689db9f38ef8239faa57f4dd2b2725938416ad52da55627473cc9ecf2a58",
+      "after_sha256": "9348c4bbe7636e7a92f31c818dde54ea1c66c68a7e46725c8a7f4de7a895fefe",
+      "matches_historical_world03_before": true
+    }
+  ],
+  "excluded": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/earth-taste-wisdom/HISTORY.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "reverse": false,
+      "excluded": true,
+      "forward_current": true,
+      "reverse_current": false,
+      "written_by_this_batch": false
+    }
+  ],
+  "baseline150": {
+    "submission-package/essay/symbolon/matheme/README.md": true,
+    "submission-package/essay/symbolon/matheme/music/pairing-grammar.md": true,
+    "submission-package/essay/symbolon/matheme/music/chromatic-substrates.md": true,
+    "submission-package/essay/symbolon/matheme/music/observer-instrument.md": true,
+    "submission-package/essay/symbolon/matheme/music/README.md": true,
+    "submission-package/essay/symbolon/matheme/music/diatonic-cf-grammar.md": true,
+    "submission-package/essay/symbolon/matheme/music/field.md": true,
+    "submission-package/essay/symbolon/matheme/music/foundational-ratios.md": true,
+    "submission-package/essay/symbolon/matheme/music/lens-anchors.md": true,
+    "submission-package/essay/symbolon/matheme/topology/mobius-klein-surfaces.md": true,
+    "submission-package/essay/symbolon/matheme/topology/toroidal-poloidal-confinement.md": true,
+    "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md": true,
+    "submission-package/essay/symbolon/matheme/topology/projective-line.md": true,
+    "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md": true,
+    "submission-package/essay/symbolon/matheme/topology/riemann-sphere.md": true,
+    "submission-package/essay/symbolon/matheme/topology/README.md": true,
+    "submission-package/essay/symbolon/matheme/topology/projective-completion.md": true,
+    "submission-package/essay/symbolon/matheme/mono-poly/README.md": true,
+    "submission-package/essay/symbolon/matheme/mono-poly/mono.md": true,
+    "submission-package/essay/symbolon/matheme/mono-poly/poly.md": true,
+    "submission-package/essay/symbolon/matheme/mono-poly/translations.md": true,
+    "submission-package/essay/symbolon/matheme/diagrams/README.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/grothendieck-group-loss.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/godel-incompleteness.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/sheffer-stroke.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/crt-z6.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/README.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/trivial-ring.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/calculus-infinity-dx.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/fde-catuskoti.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/quaternion-q8.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/qubit-bloch-sphere.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/cross-ratio.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/metaphysics.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/topology.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/etymology.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/README.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/enantiodromic-return.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/recognition.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/psychology.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/number.md": true,
+    "submission-package/essay/symbolon/matheme/dia-syn/syn.md": true,
+    "submission-package/essay/symbolon/matheme/dia-syn/README.md": true,
+    "submission-package/essay/symbolon/matheme/dia-syn/dia.md": true,
+    "submission-package/essay/symbolon/matheme/dia-syn/chronic.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/README.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/perfect-six.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/tetraktys-triangle.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/pythagorean-comma.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/cycle-interval-octave.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/cymatics-standing-waves.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/whole-tone-return.md": true,
+    "submission-package/essay/symbolon/matheme/computation/j-space.md": true,
+    "submission-package/essay/symbolon/matheme/computation/softmax-argmax.md": true,
+    "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md": true,
+    "submission-package/essay/symbolon/matheme/computation/README.md": true,
+    "submission-package/essay/symbolon/matheme/computation/preference-gauge.md": true,
+    "submission-package/essay/symbolon/matheme/computation/operational-parity.md": true,
+    "submission-package/essay/symbolon/matheme/definition/immutable-subject.md": true,
+    "submission-package/essay/symbolon/matheme/definition/minus-over-minus.md": true,
+    "submission-package/essay/symbolon/matheme/definition/copula.md": true,
+    "submission-package/essay/symbolon/matheme/definition/README.md": true,
+    "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md": true,
+    "submission-package/essay/symbolon/matheme/definition/the-matheme.md": true,
+    "submission-package/essay/symbolon/matheme/definition/catuskoti-crossing.md": true,
+    "submission-package/essay/symbolon/matheme/definition/six-determinations.md": true,
+    "submission-package/essay/symbolon/matheme/spanda/spanda-equations.md": true,
+    "submission-package/essay/symbolon/matheme/spanda/README.md": true,
+    "submission-package/essay/symbolon/matheme/ql/crossed-zero-re-entry.md": true,
+    "submission-package/essay/symbolon/matheme/ql/binary-and-binary-of-binary.md": true,
+    "submission-package/essay/symbolon/matheme/ql/primordial-symbolon.md": true,
+    "submission-package/essay/symbolon/matheme/ql/x-x.md": true,
+    "submission-package/essay/symbolon/matheme/ql/two-ones.md": true,
+    "submission-package/essay/symbolon/matheme/ql/slash-and-or.md": true,
+    "submission-package/essay/symbolon/matheme/ql/README.md": true,
+    "submission-package/essay/symbolon/matheme/ql/complex-orientation.md": true,
+    "submission-package/essay/symbolon/matheme/ql/eight-determinations.md": true,
+    "submission-package/essay/symbolon/matheme/process/ql-positions.md": true,
+    "submission-package/essay/symbolon/matheme/process/README.md": true,
+    "submission-package/essay/symbolon/matheme/process/t1-geometry.md": true,
+    "submission-package/essay/symbolon/matheme/process/harmonics-symmetries.md": true,
+    "submission-package/essay/symbolon/matheme/process/spanda.md": true,
+    "submission-package/essay/symbolon/matheme/process/phase-flip.md": true,
+    "submission-package/essay/symbolon/matheme/process/t0-onto-logic.md": true,
+    "submission-package/essay/symbolon/matheme/process/ratio-threshold.md": true,
+    "submission-package/essay/symbolon/infinity-dx.md": true,
+    "submission-package/essay/symbolon/question-assertion.md": true,
+    "submission-package/essay/symbolon/X-x.md": true,
+    "submission-package/essay/symbolon/AM-IS.md": true,
+    "submission-package/essay/symbolon/self-identity.md": true,
+    "submission-package/essay/symbolon/mono-poly.md": true,
+    "submission-package/essay/symbolon/README.md": true,
+    "submission-package/essay/symbolon/subject-logics.md": true,
+    "submission-package/essay/symbolon/minus-plus.md": true,
+    "submission-package/essay/symbolon/the-slash.md": true,
+    "submission-package/essay/symbolon/complexio-oppositorum.md": true,
+    "submission-package/essay/symbolon/eight-determinations.md": true,
+    "submission-package/essay/symbolon/0-1.md": true,
+    "submission-package/essay/symbolon/1-0.md": true,
+    "working/p2-enrichment/argument-depth/A35.md": true,
+    "working/p2-enrichment/argument-depth/A01.md": true,
+    "working/p2-enrichment/argument-depth/A11.md": true,
+    "working/p2-enrichment/argument-depth/A25.md": true,
+    "working/p2-enrichment/argument-depth/A05.md": true,
+    "working/p2-enrichment/argument-depth/A31.md": true,
+    "working/p2-enrichment/argument-depth/A21.md": true,
+    "working/p2-enrichment/argument-depth/A15.md": true,
+    "working/p2-enrichment/argument-depth/A04.md": true,
+    "working/p2-enrichment/argument-depth/A30.md": true,
+    "working/p2-enrichment/argument-depth/A20.md": true,
+    "working/p2-enrichment/argument-depth/A14.md": true,
+    "working/p2-enrichment/argument-depth/A34.md": true,
+    "working/p2-enrichment/argument-depth/A10.md": true,
+    "working/p2-enrichment/argument-depth/A24.md": true,
+    "working/p2-enrichment/argument-depth/A07.md": true,
+    "working/p2-enrichment/argument-depth/A33.md": true,
+    "working/p2-enrichment/argument-depth/A23.md": true,
+    "working/p2-enrichment/argument-depth/A17.md": true,
+    "working/p2-enrichment/argument-depth/A03.md": true,
+    "working/p2-enrichment/argument-depth/A13.md": true,
+    "working/p2-enrichment/argument-depth/A27.md": true,
+    "working/p2-enrichment/argument-depth/A36.md": true,
+    "working/p2-enrichment/argument-depth/A02.md": true,
+    "working/p2-enrichment/argument-depth/A12.md": true,
+    "working/p2-enrichment/argument-depth/A26.md": true,
+    "working/p2-enrichment/argument-depth/A06.md": true,
+    "working/p2-enrichment/argument-depth/A32.md": true,
+    "working/p2-enrichment/argument-depth/A22.md": true,
+    "working/p2-enrichment/argument-depth/A16.md": true,
+    "working/p2-enrichment/argument-depth/A29.md": true,
+    "working/p2-enrichment/argument-depth/A09.md": true,
+    "working/p2-enrichment/argument-depth/A19.md": true,
+    "working/p2-enrichment/argument-depth/A08.md": true,
+    "working/p2-enrichment/argument-depth/A18.md": true,
+    "working/p2-enrichment/argument-depth/A28.md": true,
+    "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md": true,
+    "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/NOTES.md": true,
+    "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/NOTES.md": true,
+    "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md": true,
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/NOTES.md": true,
+    "submission-package/essay/THE-RETURN-OF-ZERO.md": true
+  },
+  "wholes_unchanged": {
+    "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md": true,
+    "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md": true,
+    "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md": true,
+    "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md": true,
+    "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md": true,
+    "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md": true,
+    "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md": true,
+    "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md": true
+  },
+  "world02_preserved": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "forward": true,
+      "reverse": true
+    }
+  ],
+  "world02_E2_parent_current": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "forward": true,
+      "reverse": true,
+      "written_by_this_batch": false
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "forward": true,
+      "reverse": true,
+      "written_by_this_batch": false
+    }
+  ],
+  "scoped_diff_check": {
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  "counts": {
+    "new_reciprocal_returns": 99,
+    "consumers": 57,
+    "excluded_E_bodies": 15,
+    "excluded_History": 1,
+    "world02_preserved": 59,
+    "baseline150_unchanged": 150
+  },
+  "bounded_hygiene": {
+    "T22-world-batch-03-integration-placement-final-hygiene.json": {
+      "failures": 0,
+      "targets": 1
+    },
+    "T22-world-batch-03-integration-concepts-hygiene.json": {
+      "failures": 0,
+      "targets": 19
+    },
+    "T22-world-batch-03-integration-movements-hygiene.json": {
+      "failures": 0,
+      "targets": 11
+    },
+    "T22-world-batch-03-integration-arguments-2-hygiene.json": {
+      "failures": 0,
+      "targets": 13
+    },
+    "T22-world-batch-03-integration-placement-hygiene.json": {
+      "failures": 0,
+      "targets": 2
+    },
+    "T22-world-batch-03-integration-arguments-1-hygiene.json": {
+      "failures": 0,
+      "targets": 14
+    }
+  },
+  "completion": "Assigned world03 A/C/Movement scope complete; 99 reciprocal returns across 57 unchanged-baseline consumers. E/history/source/whole/root/Matheme and global freshness remain outside this batch."
+}

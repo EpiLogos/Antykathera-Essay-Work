@@ -1,0 +1,19 @@
+{
+  "aphorism_unchanged": true,
+  "consumers": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "prior_text_exact": true,
+      "lost_prior_edges": [],
+      "reverse": true,
+      "forward": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "prior_text_exact": true,
+      "lost_prior_edges": [],
+      "reverse": true,
+      "forward": true
+    }
+  ]
+}

@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from native Two-Ones and Mono-Poly development; source-specific semantic, psychic and institutional comparisons"
+---
 # A12 — Mono/Poly — One / All, Whole / Many
 
 **Standing:** canonical semantic Argument; historical Argument 04 remains provenance, with Alpha/Delta matheme residue preserved rather than silently absorbed.
@@ -32,9 +37,20 @@ Retained signed polarity, `(-1)/(+1)`, still has an axis and a relation; conflic
 
 ## #5→0
 
+
+The [authored hive/colony comparison](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) **figures** coordination through recurrent relations among partial capacities and their environment. No member contains the entire pattern, yet the pattern does not abolish its local centres. [A30](A30-Objective-Co-Internality.md) carries the reciprocal consequence: collective adaptation can widen correction or consolidate capture, so distributed organisation alone establishes neither benevolence nor a collective phenomenal subject.
+
+The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **figures** both aspects of Mono: the net includes real jewels, while each jewel’s comprehensive appearance depends on their constitutive participation. Following the selected reflection returns through the others to this one. Local wholeness therefore retains the wider relation through which it has that office.
+
+[Goethe’s hand, name and wave](submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md#goethe-hand-name-and-wave) **figures** a particular whose real change belongs within a whole it does not possess. The final gathering receives the remembered acts and changing body together. Its One-in-change relation preserves these differences within the complete lyric.
+
+The erased inscription leaves the capacity for renewed differentiation active. Taylor's scene gives the prior relational whole and its real, changing expressions one performable image. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold). Saturnine detention figures a local receiver consuming the conditions of further generation; nourishing assimilation changes the life that receives. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-metabolic-fork).
+
 Commons and protocols can hold common conditions while local contexts retain genuine authority within scope. That is a concrete test of Mono/Poly: can an institution return a determination through its sources, exclusions, material dependencies and affected participants, or does it install its output as the final source of its own warrant? A common grammar can coordinate divergent worlds without appointing a ruler, crowd or model as their super-subject.
 
 The same return limits what apparatus can achieve. Observability can expose or verify a relation without producing its living fidelity; a commons preserves conditions for trust without manufacturing trust. The source's Ares–Aphrodite–Harmonia–Eros–Hephaestus circuit carries this as a whole mythemic relation, whose detailed source-bound restoration belongs with A24. A29 develops institutional power and A35 cultural individuation. Neither wider historical genealogy nor a clinical theory of crowds is established by the native operation alone.
+
+[Homologia / Analogia](../etymologies/homology-and-analogy/WHOLE-FIELD.md#operations) **qualifies** the passage from whole to many by keeping the respect of unity explicit. The whole conditions each real particular; the particulars articulate that whole without becoming synonymous with it or with one another. This is the authorial homological agreement: source-dependence survives differentiation, while local authority, exclusion and the Other's capacity to answer remain real. Agreement among participants cannot by itself establish that this relation has survived; a compulsory consensus can repeat the monopoly diagnosed here.
 
 ### Declared field
 

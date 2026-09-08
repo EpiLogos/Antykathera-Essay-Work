@@ -17,6 +17,10 @@ Focal return and qualified predication let a claim be fully true in its stated r
 
 The health example must be walked through its relations. A person has health; a diet is called healthy insofar as it contributes to that health; a complexion is called healthy insofar as it indicates it. Producing and indicating are different operations. The three uses are intelligibly ordered without saying that the diet, complexion and person possess health in an identical way.
 
+The [Formal Limit dossier](../dossiers/formal-limit.md#eckhart-qualified-predication) **compares** the just-person example through a stated respect: considering a person insofar as just does not certify every act of that person. This qualified assertion differs from several uses referring to one focus, as producing health and indicating health do. Their conjunction belongs to the essay’s argument. Flasch’s indicated chapters and primary Eckhart passages retain their separate collation task; the operative distinction does not wait upon a newly invented quotation.
+
+
+
 [Draft 3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>), line71, carries the example and Frank's explicit correction that its subcases need actual explanation. The later harmonisation plan identifies the expanded wording as fresh writing, not a recovered corpus quotation. The example here performs that requested development. The Aristotle locator in the developmental trail is *Metaphysics* IV.2, 1003a33–1003b19; a selected primary passage remains to be admitted before public textual attribution.
 
 ## #2
@@ -39,6 +43,11 @@ The [[submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT#2.3.6 
 
 ## #5→0
 
+
+[the ancient-philosophy companion](../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md#ancient-focal-causes) **historicises** Aristotle’s focal account at Metaphysics IV.2 and distinguishes its primary reference from proportional comparison and later qualified predication.
+
 [[submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD|Homologia / Analogia]] supplies the register-3 discipline: show what each operation transforms, preserves or returns, and keep the historical warrant of each source separate. [[submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture|Disclosure Architecture]] makes those relations available to readers. [[submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero|Integral Zero]] returns the achieved account through them rather than installing a final univocal description.
 
 **Consumers:** A02, A25, A34, A36; predication, idealism and integrative return. **Depth Restoration:** health's producing/indicating distinctions, actual qualifying respect, aperture image and three differentiated comparison grammars restored from existing packets, direct Draft 3 and ratified QH. Exact Aristotle admission and Flasch/Eckhart page-level collation remain Open. No fabricated recovery quotation or doctrinal equivalence is introduced; the authorial architecture is already settled.
+
+The earlier Aristotle-admission debt on this page is now discharged for [Ross's selected IV.2 passage](../sources/classical-premodern-philosophy/aristotle/aristotle-metaphysics-ross/SOURCE.md#aristotle-metaphysics-ross-q001), which **sources** the differentiated relations to health and the primary reference of substance. The online translation is paraphrase-ready; Greek and print collation and exact quotation remain separate tasks. The diet/person/complexion development remains the author's worked example, and Flasch/Eckhart's selected-page debt remains open. This changes the historical witness's availability without changing C63's Argued coordination of focality, proportion and qualification.

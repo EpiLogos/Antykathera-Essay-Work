@@ -39,8 +39,35 @@ That release does not abandon the work's form. It relinquishes ownership of ever
 
 ## #5→0
 
+
+The [language, law and nation history](../histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT.md#branch-xi-postwar) **qualifies** the completed act through the costs and correction rights it carries forward. Paperclip’s stated screening rule and the Gehlen archival disclosure identify different institutional relations; neither certifies every appointment. The next commission must retain the authority which admitted a capacity, the consequences borne by others and their means of revising its use. A technical record performs that return only when the relevant governing condition can change.
+
+
+Attention’s weighted combination, normalisation and index selection retain separate implementation offices; an observed return must identify the condition changed; the [language history](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-selection) **qualifies** this operational comparison.
+
+
+[the ancient-philosophy companion](../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md#ancient-source-return) **returns-to** loving sensitivity to origins through the recoverable conditions of texts, instruments and classifications, including those placed under the authority of an account.
+
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-recognition-return): The finite eye opening again **figures** sensitivity to origins as a change in what an act can receive. A face can answer the image prepared for it, and remembered material can support another intention. Care remains situated, with real positions and consequences; recognition has to be lived in the next act rather than stored as a completed universal account. The distinct source and transmission histories remain among the origins to which that act answers.
+
+The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-whole-return) **figures** sensitivity to origins through a jewel whose brightness discloses its constituting relations. The vocational return keeps the lives and conditions sustaining an act consequential for its next commission. Its loving direction belongs to the essay’s argument; the net does not measure the costs of a technical system.
+
+The [Meal whole](../../mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md#meal-logos-health-return) **figures** logos-health when what has nourished judgment remains consequential in its next use. The receiver returns to the work, histories and companions that made understanding possible; companions retain their own lives beyond the contribution received. This supplies compassion’s direction within knowing, with biological and clinical source claims separately bounded.
+
+The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-return) **figures** loving sensitivity to origins through the human who follows the instrument beyond fascination with the likeness. Sources and affected lives can then change how the next answer is made and used. The instrument initiates this return while leaving recognition and refusal alive in those it addresses.
+
+The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-bearing-return) **figures** compassion’s return toward the body, history and work that made an achieved form possible. Assumption-of retains the condition of embodiment within recognition. The authorial operation gives care a particular direction without turning the cope into evidence for a historical politics.
+
+Nourishment, need, expenditure and separation give the return to origins a bodily history. Taylor's distinction between renewing assimilation and non-generating consumption places that history within the vocation of loving sensitivity. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-metabolism).
+
 The reader's recurring office is remembrance in ordinary life: return this judgment, this model and this institution to the living relations through which it came to matter. [[submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins|Compassion]] owns the orientation; this Argument requires its practice after the full technical and philosophical passage. [[A36-Advent-of-Integral-Zero|Integral Zero]] must carry that labour and love back with the achieved account. A beautiful final synthesis would leave the vocation unperformed if no subsequent action could be changed by it.
 
 **Provenance and remaining debt:** the full developmental Compassion carrier; Chang's SOURCE and protected NOTES, especially pp.83/99; Draft3 lines259/267–279; Q27's late Job/culture/love field; and the ratified R16.4–R16.7 correction carry the authorial argument. Copied Chang quotations and broad cultural histories retain exact-edition and passage debts. No machine affection, successful implementation or collective psychological diagnosis is asserted. The revision-notes noncoincidence wording remains a developmental paraphrase pending Frank's exact-wording confirmation; it is not authenticated speech.
 
+[the Job whole](../../mytheme/worlds/biblical/job/WHOLE.md#job-consequence-return) **figures** sensitivity to origins through the first shared silence, the suffering body and Job's appeal to the common making of servant and master in 31:15. These particulars resist a moral dossier which treats suffering as sufficient evidence of guilt. Compassion lets the encountered life change the judgement brought to it. The later restoration retains the claim of lives already lost; care for origins cannot be completed by balancing the household's final possessions.
+
 **Depth Restoration:** canonical loving/vocational operation restored; external passage and implementation questions remain explicit.
+
+The vocational release of work **returns-to** [Apportionment / Economy whole — Commons preserves the wider economy](../etymologies/apportionment-and-economy/WHOLE-FIELD.md#commons-preserves-the-wider-economy) at evidence register 3. Sensitivity to origins follows the costs, labour and affected lives through the released work. The maker’s relinquishment of possession lets others use the achieved form while preserving their capacity to contest its consequences.
+
+[E2’s Con-text through Diaphaneity](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity) **articulates** how regard receives the origins disclosed by an account. Resolution in reconciliation then carries what has been encountered into the next act: remembrance becomes vocational when the affected person can change the measure, commission or use of the achieved work. These generated relations give loving source-return its passage through disclosure and changed action; recollection alone does not perform it.

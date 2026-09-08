@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from Taylor's QL and arbitration grammar; political, psychic and technical cases retain independent evidence"
+---
 # C27 — Protected Account / Occupied Zero / Source-Claim
 
 ## #0
@@ -6,7 +11,7 @@ A Protected Account is a determinate account whose governing criterion is insula
 
 ## #1
 
-An account initially makes something knowable and actionable. It selects a circumstance, names and counts, establishes a comparison, and authorises consequences. The result is a real achievement with a particular scope. Its source includes the relations, exclusions, labour and permissions through which it became authoritative; none disappears because the account is exact.
+An account initially makes something knowable and actionable. It selects a circumstance, names and counts, establishes a comparison, and authorises consequences. The result is a real achievement with a particular scope. [Its source includes the relations, exclusions, labour and permissions through which it became authoritative](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source); none disappears because the account is exact.
 
 ## #2
 
@@ -22,7 +27,23 @@ A stable standard differs from a protected account through its declared warrant,
 
 ## #5→0
 
+
+Compulsory disclosure can leave the office of revision inaccessible. Forget Foucault supplies the visibility pressure through the [Baudrillard lens](../lenses/baudrillard.md); the native protected-account criterion asks whether resistance can reach the authority competent to change scope or mandate.
+
+
+The [Foucault lens](../lenses/foucault.md#foucault-authorised-speech) **tests** the protected account at its conditions of admission. A worker’s report can be accurately and richly recorded while the evaluator admits it only as evidence about the worker, leaving the assignment beyond examination. More disclosure then enlarges the account without opening its criterion. This is the lens’s Offered example; the Argued distinction identifies what evidence an effective return must reach.
+
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-frame-usurpation): The frame calling its boundary the horizon **figures** a protected criterion’s source-claim. It redescribes whatever cannot be admitted as unreal or already explained, then receives the other person’s reply as confirmation. Returning the frame to its history restores a route by which an excluded witness can change the criterion. Necessary selection remains effective after that immunity ends.
+
+E2’s Criterion through distinction makes the criterion itself answerable to what the account encounters. Arbitration can sustain a valid distinction; occupation begins when its office exempts that distinction from return. The protected account therefore returns to [E2’s criterion through distinction](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#criterion-through-distinction): correction must be able to reach the rule that decides what counts as correction.
+
+The [Symbol / Account / Trust whole-field — Trust keeps the return route active](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active) **qualifies** this operation at evidence register 3. A record can receive contrary evidence while protecting its criterion. Return must reach that criterion and the office holding it, so added disclosure can change the account’s terms. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
+
 C47 reopens the account through model-revising encounter; C28/C29 bind authority to a received relation and an accountable office. The result is a renewed determination with a visible history, not the abandonment of judgment. Trust revision §0 keeps the ethical fork live: a knowledge-account can provisionally support trust or export distrust onto another who bears its failures. An account returns when it answers for its own conditions as well as judging what comes before it.
+
+[the Job whole](../../mytheme/worlds/biblical/job/WHOLE.md#job-protected-account-return) **figures** the protected account's recursive defence: suffering calls for explanation, explanation demands guilt, and the sufferer's refusal to confess becomes another fault. The witness is made defective so that the governing account can remain right. The ending breaks this closure by changing whose speech is received and requiring the friends to receive Job's intercession. The diagnostic question is whether contrary witness can alter the authority under which it is heard.
+
+[the Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-account-answerability) **figures** the protected account when the Village supplies the meaning of Six's answer even where he refuses to give it. Prepared election publicity and the managed result turn resistance into further material for the institution's story. The diagnostic return is exact: can the interlocutor contest what counts as an answer, or can he only be recoded within it? The source-question survives that recoding.
 
 ### Declared field
 

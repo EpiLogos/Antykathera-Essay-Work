@@ -1,0 +1,2193 @@
+{
+  "relations": [
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "id": "A02",
+      "coverage_rows": [
+        "E5-homology",
+        "E5-greek"
+      ],
+      "excluded": false,
+      "reverse_before": true,
+      "forward_before": true,
+      "forward_current": true,
+      "reverse_current": true,
+      "new_return": false,
+      "paragraph_present": null
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "id": "A12",
+      "coverage_rows": [
+        "E5-homology",
+        "E5-greek"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": true,
+      "forward_current": true,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "id": "A13",
+      "coverage_rows": [
+        "E5-homology",
+        "E5-greek"
+      ],
+      "excluded": false,
+      "reverse_before": true,
+      "forward_before": true,
+      "forward_current": true,
+      "reverse_current": true,
+      "new_return": false,
+      "paragraph_present": null
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+      "id": "C06",
+      "coverage_rows": [
+        "E5-homology",
+        "E5-greek"
+      ],
+      "excluded": false,
+      "reverse_before": true,
+      "forward_before": true,
+      "forward_current": true,
+      "reverse_current": true,
+      "new_return": false,
+      "paragraph_present": null
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+      "id": "C11",
+      "coverage_rows": [
+        "E5-homology",
+        "E5-greek"
+      ],
+      "excluded": false,
+      "reverse_before": true,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": false,
+      "paragraph_present": null
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+      "id": "C23",
+      "coverage_rows": [
+        "E5-homology",
+        "E5-greek"
+      ],
+      "excluded": false,
+      "reverse_before": true,
+      "forward_before": true,
+      "forward_current": true,
+      "reverse_current": true,
+      "new_return": false,
+      "paragraph_present": null
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "id": "C24",
+      "coverage_rows": [
+        "E5-homology",
+        "E5-greek"
+      ],
+      "excluded": false,
+      "reverse_before": true,
+      "forward_before": true,
+      "forward_current": true,
+      "reverse_current": true,
+      "new_return": false,
+      "paragraph_present": null
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "id": "C50",
+      "coverage_rows": [
+        "E5-homology",
+        "E5-greek"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": true,
+      "forward_current": true,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md",
+      "id": "M19",
+      "coverage_rows": [
+        "E5-homology",
+        "E5-greek"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "id": "M20",
+      "coverage_rows": [
+        "E5-homology",
+        "E5-greek"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+      "id": "M21",
+      "coverage_rows": [
+        "E5-homology",
+        "E5-greek"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+      "id": "M26",
+      "coverage_rows": [
+        "E5-homology",
+        "E5-greek"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "id": "A17",
+      "coverage_rows": [
+        "E5-analogy",
+        "E5-invariant"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": true,
+      "forward_current": true,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "id": "A34",
+      "coverage_rows": [
+        "E5-analogy",
+        "E5-invariant"
+      ],
+      "excluded": false,
+      "reverse_before": true,
+      "forward_before": true,
+      "forward_current": true,
+      "reverse_current": true,
+      "new_return": false,
+      "paragraph_present": null
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "id": "A36",
+      "coverage_rows": [
+        "E5-analogy",
+        "E5-invariant"
+      ],
+      "excluded": false,
+      "reverse_before": true,
+      "forward_before": true,
+      "forward_current": true,
+      "reverse_current": true,
+      "new_return": false,
+      "paragraph_present": null
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+      "id": "C36",
+      "coverage_rows": [
+        "E5-analogy",
+        "E5-invariant"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "id": "C52",
+      "coverage_rows": [
+        "E5-analogy",
+        "E5-invariant"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": true,
+      "forward_current": true,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+      "id": "C60",
+      "coverage_rows": [
+        "E5-analogy",
+        "E5-invariant"
+      ],
+      "excluded": false,
+      "reverse_before": true,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": false,
+      "paragraph_present": null
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+      "id": "C63",
+      "coverage_rows": [
+        "E5-analogy",
+        "E5-invariant"
+      ],
+      "excluded": false,
+      "reverse_before": true,
+      "forward_before": true,
+      "forward_current": true,
+      "reverse_current": true,
+      "new_return": false,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "id": "C64",
+      "coverage_rows": [
+        "E5-analogy",
+        "E5-invariant"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+      "id": "M28",
+      "coverage_rows": [
+        "E5-analogy",
+        "E5-invariant"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "id": "M29",
+      "coverage_rows": [
+        "E5-analogy",
+        "E5-invariant"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md",
+      "id": "M33",
+      "coverage_rows": [
+        "E5-analogy",
+        "E5-invariant"
+      ],
+      "excluded": false,
+      "reverse_before": true,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": false,
+      "paragraph_present": null
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md",
+      "id": "M47",
+      "coverage_rows": [
+        "E5-analogy",
+        "E5-invariant"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "id": "A18",
+      "coverage_rows": [
+        "E5-boundary",
+        "E5-biology"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "id": "A20",
+      "coverage_rows": [
+        "E5-boundary",
+        "E5-biology"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+      "id": "C30",
+      "coverage_rows": [
+        "E5-boundary",
+        "E5-biology"
+      ],
+      "excluded": false,
+      "reverse_before": true,
+      "forward_before": true,
+      "forward_current": true,
+      "reverse_current": true,
+      "new_return": false,
+      "paragraph_present": null
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+      "id": "C32",
+      "coverage_rows": [
+        "E5-boundary",
+        "E5-biology"
+      ],
+      "excluded": false,
+      "reverse_before": true,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": false,
+      "paragraph_present": null
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "id": "C61",
+      "coverage_rows": [
+        "E5-boundary",
+        "E5-biology"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": true,
+      "forward_current": true,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+      "id": "M30",
+      "coverage_rows": [
+        "E5-boundary",
+        "E5-biology"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md",
+      "id": "M31",
+      "coverage_rows": [
+        "E5-boundary",
+        "E5-biology"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+      "id": "M34",
+      "coverage_rows": [
+        "E5-boundary",
+        "E5-biology"
+      ],
+      "excluded": false,
+      "reverse_before": false,
+      "forward_before": false,
+      "forward_current": false,
+      "reverse_current": true,
+      "new_return": true,
+      "paragraph_present": true
+    }
+  ],
+  "preservation": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "28850b09ec98706395603cb8452b67aa1722959879a8a9ab809931015b80bf06",
+      "edited": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "403602077405bf8ce843a23d777369f597b16c3a8f4d3de5b7ddd08d2e10a8b1",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "ec381e16d0819d902f57d507bad3c149c3d30b3c2e969a78e3df142414361122",
+      "edited": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "4986ca50ff5f68c5e2df63d6505e51b8858cd8534d319b56eb85bf1b5272a5b6",
+      "edited": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "88f1c62e097e439633257a41303e220313ce4bcd91cd5a49c659c1bc482614a4",
+      "edited": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "a15d4607f4e25b670ebdb933ee883fba541c4ffbb34daabbf23342a586658902",
+      "edited": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "02eecc76161d931002a5f8e7a12b6d08c052200a693caac16c7ae98ee0ec4e38",
+      "edited": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "5f647cf914b0fe9ebe7cd960aa3ef9f62018d77c6e2f05d6d6a8998a436abf83",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "35755873b14f8212d2515181c1e2b853dcd913f95f93cd552cd66f78c6463315",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "127e750c6b0a0b910c6e82c3f3a265b67fda22e3c5112d5128e2ff2f04e7f0a6",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "60031ab9b432f31eef1b797d91f2eaa8569d1238e0b7b40a702e2caf8cf393ec",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "18215cb965679b58a6ac7ae1c40d0aad701facb20aae068ddd9d72f715dab492",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "c839ac86639d69de50b545a39bf4458c44dca51e40a4bdcd3277a5d7a1005200",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "8750d817845a060f171ed19ff4814648378390b9e0656a01bb95f5c9eb606b04",
+      "edited": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "1681f87a90ef73a67c291c42b89ca92eee17ef9260cf04a8a12865eca73c4a58",
+      "edited": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "eb8f4aeb9c919a5605b4b83442adfb5b4b1404f83d49c683bca448e3ca65a5d8",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "3b8f516f9c5258d48ba5ab7cf6d75840e1b0cc8d496596b011c02a57b8c19624",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "5017929ff790ce771e3b120996f7547f8a05a2476ecccac34510957dea308839",
+      "edited": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "d1528d4e222e715972a7864e9c8964d630e65a8dc5425f86fa1423e2db6d19da",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "856beecc6859c6a1abacdac6f717ea8c84e699ece2409b6d4f80c3adc6a4c63c",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "f2bc2253f310c0e2e3c2ca8d963975048e8cea9a7097e107930ecae154ba5667",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "c4981486cd221f63bdfc0ae8ce710c7cc83913e05969c1855cdb4b3fcd7481c6",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "9fb68717ceaeb5f4e66d45ed851f7955e5620026bb0282d4e6c4d443f2e7f579",
+      "edited": false
+    },
+    {
+      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "50df5c2f8c20cb489242bf588fb3b3f5188b83b4f1bc48603fc1422b1fc03cfa",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "3f592be301a2ed255c79f1c1e16fbd4afd87793be9505d97d9a3023b649af145",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "1e7b07e1d370c70b58ba00d76948b5ccbc8ca854f930f8ff0af5e1fe5dd52d98",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "c48ab737309650257824f47d32a978a985574eee3fbde89611f0c192d7564298",
+      "edited": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "969a7e00c77f3f862afec67bdc2adab5ffa45b4ef1c0d8fd8818b27ae226411c",
+      "edited": false
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "260fb2d88193d12f9091e54b7da19dd3dcc82b93c74e1219a23736d2ae75fd55",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "92f3e751adbd7087911d0beb53ad483864258f5ffb67d9d63a49c47739957150",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "59cec4a039a3fc569a646425544ad83e3c8d61b44768751591b9077cfe56b55a",
+      "edited": true
+    },
+    {
+      "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+      "original_text_reconstructed": true,
+      "all_original_edges_preserved": true,
+      "lost_edges": [],
+      "outside_parent_scope": true,
+      "after_sha256": "c05b2ac275dcd43234fb28361155794497da11add9be6d6a4c39cc366dcbe5f8",
+      "edited": true
+    }
+  ],
+  "baseline150": {
+    "submission-package/essay/symbolon/matheme/README.md": true,
+    "submission-package/essay/symbolon/matheme/music/pairing-grammar.md": true,
+    "submission-package/essay/symbolon/matheme/music/chromatic-substrates.md": true,
+    "submission-package/essay/symbolon/matheme/music/observer-instrument.md": true,
+    "submission-package/essay/symbolon/matheme/music/README.md": true,
+    "submission-package/essay/symbolon/matheme/music/diatonic-cf-grammar.md": true,
+    "submission-package/essay/symbolon/matheme/music/field.md": true,
+    "submission-package/essay/symbolon/matheme/music/foundational-ratios.md": true,
+    "submission-package/essay/symbolon/matheme/music/lens-anchors.md": true,
+    "submission-package/essay/symbolon/matheme/topology/mobius-klein-surfaces.md": true,
+    "submission-package/essay/symbolon/matheme/topology/toroidal-poloidal-confinement.md": true,
+    "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md": true,
+    "submission-package/essay/symbolon/matheme/topology/projective-line.md": true,
+    "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md": true,
+    "submission-package/essay/symbolon/matheme/topology/riemann-sphere.md": true,
+    "submission-package/essay/symbolon/matheme/topology/README.md": true,
+    "submission-package/essay/symbolon/matheme/topology/projective-completion.md": true,
+    "submission-package/essay/symbolon/matheme/mono-poly/README.md": true,
+    "submission-package/essay/symbolon/matheme/mono-poly/mono.md": true,
+    "submission-package/essay/symbolon/matheme/mono-poly/poly.md": true,
+    "submission-package/essay/symbolon/matheme/mono-poly/translations.md": true,
+    "submission-package/essay/symbolon/matheme/diagrams/README.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/grothendieck-group-loss.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/godel-incompleteness.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/sheffer-stroke.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/crt-z6.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/README.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/trivial-ring.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/calculus-infinity-dx.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/fde-catuskoti.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/quaternion-q8.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/qubit-bloch-sphere.md": true,
+    "submission-package/essay/symbolon/matheme/formal-neighbours/cross-ratio.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/metaphysics.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/topology.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/etymology.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/README.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/enantiodromic-return.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/recognition.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/psychology.md": true,
+    "submission-package/essay/symbolon/matheme/quilt/number.md": true,
+    "submission-package/essay/symbolon/matheme/dia-syn/syn.md": true,
+    "submission-package/essay/symbolon/matheme/dia-syn/README.md": true,
+    "submission-package/essay/symbolon/matheme/dia-syn/dia.md": true,
+    "submission-package/essay/symbolon/matheme/dia-syn/chronic.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/README.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/perfect-six.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/tetraktys-triangle.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/pythagorean-comma.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/cycle-interval-octave.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/cymatics-standing-waves.md": true,
+    "submission-package/essay/symbolon/matheme/harmonics/whole-tone-return.md": true,
+    "submission-package/essay/symbolon/matheme/computation/j-space.md": true,
+    "submission-package/essay/symbolon/matheme/computation/softmax-argmax.md": true,
+    "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md": true,
+    "submission-package/essay/symbolon/matheme/computation/README.md": true,
+    "submission-package/essay/symbolon/matheme/computation/preference-gauge.md": true,
+    "submission-package/essay/symbolon/matheme/computation/operational-parity.md": true,
+    "submission-package/essay/symbolon/matheme/definition/immutable-subject.md": true,
+    "submission-package/essay/symbolon/matheme/definition/minus-over-minus.md": true,
+    "submission-package/essay/symbolon/matheme/definition/copula.md": true,
+    "submission-package/essay/symbolon/matheme/definition/README.md": true,
+    "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md": true,
+    "submission-package/essay/symbolon/matheme/definition/the-matheme.md": true,
+    "submission-package/essay/symbolon/matheme/definition/catuskoti-crossing.md": true,
+    "submission-package/essay/symbolon/matheme/definition/six-determinations.md": true,
+    "submission-package/essay/symbolon/matheme/spanda/spanda-equations.md": true,
+    "submission-package/essay/symbolon/matheme/spanda/README.md": true,
+    "submission-package/essay/symbolon/matheme/ql/crossed-zero-re-entry.md": true,
+    "submission-package/essay/symbolon/matheme/ql/binary-and-binary-of-binary.md": true,
+    "submission-package/essay/symbolon/matheme/ql/primordial-symbolon.md": true,
+    "submission-package/essay/symbolon/matheme/ql/x-x.md": true,
+    "submission-package/essay/symbolon/matheme/ql/two-ones.md": true,
+    "submission-package/essay/symbolon/matheme/ql/slash-and-or.md": true,
+    "submission-package/essay/symbolon/matheme/ql/README.md": true,
+    "submission-package/essay/symbolon/matheme/ql/complex-orientation.md": true,
+    "submission-package/essay/symbolon/matheme/ql/eight-determinations.md": true,
+    "submission-package/essay/symbolon/matheme/process/ql-positions.md": true,
+    "submission-package/essay/symbolon/matheme/process/README.md": true,
+    "submission-package/essay/symbolon/matheme/process/t1-geometry.md": true,
+    "submission-package/essay/symbolon/matheme/process/harmonics-symmetries.md": true,
+    "submission-package/essay/symbolon/matheme/process/spanda.md": true,
+    "submission-package/essay/symbolon/matheme/process/phase-flip.md": true,
+    "submission-package/essay/symbolon/matheme/process/t0-onto-logic.md": true,
+    "submission-package/essay/symbolon/matheme/process/ratio-threshold.md": true,
+    "submission-package/essay/symbolon/infinity-dx.md": true,
+    "submission-package/essay/symbolon/question-assertion.md": true,
+    "submission-package/essay/symbolon/X-x.md": true,
+    "submission-package/essay/symbolon/AM-IS.md": true,
+    "submission-package/essay/symbolon/self-identity.md": true,
+    "submission-package/essay/symbolon/mono-poly.md": true,
+    "submission-package/essay/symbolon/README.md": true,
+    "submission-package/essay/symbolon/subject-logics.md": true,
+    "submission-package/essay/symbolon/minus-plus.md": true,
+    "submission-package/essay/symbolon/the-slash.md": true,
+    "submission-package/essay/symbolon/complexio-oppositorum.md": true,
+    "submission-package/essay/symbolon/eight-determinations.md": true,
+    "submission-package/essay/symbolon/0-1.md": true,
+    "submission-package/essay/symbolon/1-0.md": true,
+    "working/p2-enrichment/argument-depth/A35.md": true,
+    "working/p2-enrichment/argument-depth/A01.md": true,
+    "working/p2-enrichment/argument-depth/A11.md": true,
+    "working/p2-enrichment/argument-depth/A25.md": true,
+    "working/p2-enrichment/argument-depth/A05.md": true,
+    "working/p2-enrichment/argument-depth/A31.md": true,
+    "working/p2-enrichment/argument-depth/A21.md": true,
+    "working/p2-enrichment/argument-depth/A15.md": true,
+    "working/p2-enrichment/argument-depth/A04.md": true,
+    "working/p2-enrichment/argument-depth/A30.md": true,
+    "working/p2-enrichment/argument-depth/A20.md": true,
+    "working/p2-enrichment/argument-depth/A14.md": true,
+    "working/p2-enrichment/argument-depth/A34.md": true,
+    "working/p2-enrichment/argument-depth/A10.md": true,
+    "working/p2-enrichment/argument-depth/A24.md": true,
+    "working/p2-enrichment/argument-depth/A07.md": true,
+    "working/p2-enrichment/argument-depth/A33.md": true,
+    "working/p2-enrichment/argument-depth/A23.md": true,
+    "working/p2-enrichment/argument-depth/A17.md": true,
+    "working/p2-enrichment/argument-depth/A03.md": true,
+    "working/p2-enrichment/argument-depth/A13.md": true,
+    "working/p2-enrichment/argument-depth/A27.md": true,
+    "working/p2-enrichment/argument-depth/A36.md": true,
+    "working/p2-enrichment/argument-depth/A02.md": true,
+    "working/p2-enrichment/argument-depth/A12.md": true,
+    "working/p2-enrichment/argument-depth/A26.md": true,
+    "working/p2-enrichment/argument-depth/A06.md": true,
+    "working/p2-enrichment/argument-depth/A32.md": true,
+    "working/p2-enrichment/argument-depth/A22.md": true,
+    "working/p2-enrichment/argument-depth/A16.md": true,
+    "working/p2-enrichment/argument-depth/A29.md": true,
+    "working/p2-enrichment/argument-depth/A09.md": true,
+    "working/p2-enrichment/argument-depth/A19.md": true,
+    "working/p2-enrichment/argument-depth/A08.md": true,
+    "working/p2-enrichment/argument-depth/A18.md": true,
+    "working/p2-enrichment/argument-depth/A28.md": true,
+    "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md": true,
+    "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/NOTES.md": true,
+    "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/NOTES.md": true,
+    "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md": true,
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/NOTES.md": true,
+    "submission-package/essay/THE-RETURN-OF-ZERO.md": true
+  },
+  "world03_preserved": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/01-differentiating-mind/movements/10-s0-p3-apoha.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    }
+  ],
+  "avatar_preserved": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "reverse": true,
+      "paragraph_preserved": true,
+      "forward": true
+    }
+  ],
+  "world02_preserved": [
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/24-s2-p5-zero-changes-role.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "whole": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "forward": true,
+      "reverse": true
+    }
+  ],
+  "whole_sha256_before": "e81857b540b51473962dbb8f77f251a1e9655a0a8d9919c3eaf46e3c514ffff7",
+  "whole_sha256_current": "e81857b540b51473962dbb8f77f251a1e9655a0a8d9919c3eaf46e3c514ffff7",
+  "whole_written_by_this_batch": false,
+  "scoped_diff_check": {
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  "counts": {
+    "coverage_distinct": 32,
+    "edited_consumers": 20,
+    "new_returns": 19,
+    "preserved_returns": 13,
+    "actual_reverse": 32,
+    "actual_forward": 14,
+    "protected_unchanged": 150
+  },
+  "E6_parent_exclusions": [
+    "submission-package/essay/section-rooms/01-differentiating-mind/movements/11-s0-p4-tattvic-compression.md",
+    "submission-package/essay/section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md",
+    "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+    "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+    "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+    "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+    "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+    "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+    "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+    "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+    "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+    "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+    "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md"
+  ],
+  "old_parent_exclusions": [
+    "submission-package/essay/section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md",
+    "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+    "submission-package/essay/section-rooms/03-two-logics/movements/23-s2-p4-complex-dynamism.md",
+    "submission-package/essay/section-rooms/05-psychoid-flowering/movements/32-s4-p1-jung-individuation.md",
+    "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+    "submission-package/essay/section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md",
+    "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+    "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+    "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+    "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+    "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+    "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+    "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+    "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+    "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+    "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+    "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md"
+  ],
+  "reservation_overlap": [],
+  "new_anchor_checks": [
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "anchor": "operations",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "anchor": "operations",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md",
+      "anchor": "operations",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+      "anchor": "operations",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+      "anchor": "operations",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+      "anchor": "e5-whole-returns",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "anchor": "e5-whole-returns",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+      "anchor": "e5-whole-returns",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "anchor": "e5-whole-returns",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "anchor": "relational-growth",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/28-s3-p3-projective-dimensional-reframing.md",
+      "anchor": "e5-whole-returns",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+      "anchor": "e5-whole-returns",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "anchor": "e5-whole-returns",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "anchor": "e5-whole-returns",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "anchor": "e5-whole-returns",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md",
+      "anchor": "e5-whole-returns",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md",
+      "anchor": "research-boundary",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+      "anchor": "e5-whole-returns",
+      "verified": true
+    },
+    {
+      "consumer": "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md",
+      "anchor": "analogical-proportion",
+      "verified": true
+    }
+  ],
+  "C63_aristotle_return": true,
+  "source_read_receipt": "T22-E5-consumer-current-source-read-final.json",
+  "source_effects_receipt": "T22-E5-consumer-current-source-effects-before.json",
+  "owen_original_selected_read": "T22-E5-consumer-owen-selected-read.json",
+  "bounded_hygiene": {
+    "T22-E5-consumer-hygiene.json": 0,
+    "T22-E5-consumer-source-foldback-hygiene.json": 0
+  },
+  "source_route_proof": "T22-E5-consumer-source-route-proof.json"
+}

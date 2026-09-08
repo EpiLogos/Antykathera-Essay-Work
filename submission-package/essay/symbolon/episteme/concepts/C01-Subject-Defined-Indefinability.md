@@ -14,6 +14,7 @@ source_ids:
   - taylor-2026-core-theorems-pithy
   - watson-1998-resonance-of-emptiness
   - dyczkowski-2000-doctrine-vibration
+source_relation: "Argued from native Subject and protected authorial encounters; Paraphrased Dyczkowski comparison with distinct source attribution"
 ---
 # C01 — Subject / Defined Indefinability
 
@@ -64,6 +65,8 @@ This carries ontological force. The essay argues the order **Subject → objecti
 An artificial system's memory, self-model, report or internal organisation can be richly determinate. No accumulation of those objects by itself establishes an unobjectifiable subject-pole. Equally, their objectifiability does not prove its absence. The exact phenomenal status and partition of a particular artificial process remain **Open**. This local empirical question neither settles nor suspends the essay's **Argued** order of dependence.
 
 ## #5→0
+
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-eye-condition): The eye’s constitutive blindside **figures** defined indefinability through the difference between an image of the organ and the condition of its present seeing. Each further disclosure is real and still appears through a situated act. The subject-pole cannot be recovered as an extra object that would complete the inventory, while the gained knowledge remains available for faithful use.
 
 Return does not mean adding a final portrait of the Subject to the collection. It means recognising the condition already involved in every portrait, judgment and attempt at recognition. The first-person force of *I am* remains, while its determinate descriptions become available for correction rather than being asked to stand as their own ground. [[submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition|C19 — Recognition]] **defines** this recovery without acquisition. [[submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero|A36 — Advent of Integral Zero]] **extends** it into the achieved sign's return as Symbol: exact determination remains, now answerable to what it cannot own.
 

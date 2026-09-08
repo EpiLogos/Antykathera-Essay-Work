@@ -1,0 +1,28 @@
+[
+  {
+    "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+    "position": 10789,
+    "inserted": "*[Symbol / Account / Trust](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md)*",
+    "old": "*Symbol / Account / Trust*",
+    "proposal": {
+      "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "old_exact": "*Symbol / Account / Trust*",
+      "new_exact": "*[Symbol / Account / Trust](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md)*"
+    },
+    "before_sha256": "2c1724c0233945457031051bd2a36f36bc47e14d747f1df3485b3b617b7f8fe7",
+    "after_sha256": "022a3f817ac10439ff88a0288f1610ba9811bdd50df3bca07974d13c8659440d"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+    "position": 9733,
+    "inserted": "*[Symbol / Account / Trust](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md)*",
+    "old": "*Symbol / Account / Trust*",
+    "proposal": {
+      "target": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "old_exact": "*Symbol / Account / Trust*",
+      "new_exact": "*[Symbol / Account / Trust](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md)*"
+    },
+    "before_sha256": "7af8b697789f7f8977006d2a972fc66e8c22eab525dbe13645e06bc18973a77e",
+    "after_sha256": "7ff9c6c40862dd9d26b30b6a4d8d228ce4f251ab36707e80713378ea5ffef091"
+  }
+]

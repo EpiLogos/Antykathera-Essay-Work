@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md"
+    }
+  ],
+  "parent_proposals": [
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/mathematical-artistic-image-register.md",
+      "old_exact": "15-paradox-as-cross-register-hinge",
+      "new_exact": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field",
+      "operation_mapping": "Paradox transforms the containing field; old15 is not current ratio A15",
+      "occurrences": 2
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/mathematical-artistic-image-register.md",
+      "old_exact": "16-bohmian-enfoldment-dialogical-return",
+      "new_exact": "submission-package/essay/symbolon/episteme/dossiers/bohm",
+      "operation_mapping": "Whole Bohm carrier retains thread/invariant and dialogical return; not currentA16",
+      "occurrences": 1
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/mathematical-artistic-image-register.md",
+      "old_exact": "17-toroidal-circulation-arche-topos",
+      "new_exact": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos",
+      "operation_mapping": "Confirmed quotient,cover,windings and retained traversal; coincidence of17 not reason",
+      "occurrences": 2
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/mathematical-artistic-image-register.md",
+      "old_exact": "04-arche-topos-topology-music",
+      "new_exact": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field",
+      "operation_mapping": "Actual arche-topos formal/topological/musical operation, not currentA04 diaphaneity",
+      "occurrences": 1
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/mathematical-artistic-image-register.md",
+      "old_exact": "submission-package/essay/symbolon/episteme/sources/quotes/cusa-on-learned-ignorance",
+      "new_exact": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE",
+      "operation_mapping": "Resolver-confirmed current Cusa house; original row and display unchanged",
+      "occurrences": 1
+    }
+  ]
+}

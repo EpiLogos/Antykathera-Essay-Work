@@ -1,0 +1,58 @@
+{
+  "elements": [
+    {
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md"
+    }
+  ],
+  "parent_proposals": [
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+      "old_exact": "an apportioned office treats its share as ownership of the economy that apportioned it",
+      "new_exact": "an apportioned office treats [its share as ownership of the economy that apportioned it](../etymologies/apportionment-and-economy/WHOLE-FIELD.md#power-becomes-finite-by-apportionment)",
+      "operation": "E6 received share/source; negative office-confusion retained"
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+      "old_exact": "whose trustworthiness depends on return to source",
+      "new_exact": "whose [trustworthiness depends on return to source](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source)",
+      "operation": "E4 account/source fidelity distinct from efficacy"
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+      "old_exact": "reflexive return changes subsequent articulation",
+      "new_exact": "[reflexive return changes subsequent articulation](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field)",
+      "operation": "E4 changed next processing, not trace display alone"
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "old_exact": "the local mark remains an account answerable to a source-office it does not own",
+      "new_exact": "[the local mark remains an account answerable to a source-office it does not own](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source)",
+      "operation": "E4 source-answerability within native Two Ones"
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "old_exact": "divide participants into actionable units",
+      "new_exact": "[divide participants into actionable units](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count)",
+      "operation": "E1 Name-through-Count constitutive selection; existing Count-through-Countenance reply retained"
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "old_exact": "Its source includes the relations, exclusions, labour and permissions through which it became authoritative",
+      "new_exact": "[Its source includes the relations, exclusions, labour and permissions through which it became authoritative](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source)",
+      "operation": "E4 account dependence; existing Trust return remains separately active"
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "old_exact": "Resolution carries that consequence into the next traversal",
+      "new_exact": "[Resolution carries that consequence into the next traversal](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation)",
+      "operation": "E2 Resolution changed next conditions; existing Con-text disclosed means preserved"
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+      "old_exact": "[Jung's Aion](../sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md) is citation-ready with no excerpts.",
+      "new_exact": "[Jung's Aion](../sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md#passages) retains the selected 1978 printing and sixteen contextual paraphrase locations from the consulted 1979 paperback. Selected-printing collation and exact quotation remain Open.",
+      "operation": "Current Aion passage-map status; no quote upgrade"
+    }
+  ],
+  "authority": "T21-current-reconciliation findings; direct user release; no shared matrix writes"
+}

@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from Taylor's Subject/self distinctions and Symbolon Dynamics; Jungian Self and technical self-models remain source-specific"
+---
 # C35 — Selfing / Self / Subjectivity / Self-Thing
 
 ## #0
@@ -21,6 +26,8 @@ A second person changes self-reference. You are not a midpoint inserted between 
 Internal and interpersonal alterity also differ. The Shadow is other-self: disowned or not-yet-lived difference within psychic life. The Friend is my-self's-other: another centre whose response cannot be produced by my psyche. Those image-relations must not become extra theorem primitives or a reason to treat actual others as projected complexes. Individuation changes the organisation of self-reference while keeping the person particular; it does not transfer the whole's authority to an enlarged ego.
 
 ## #5→0
+
+The self-account **returns-to** [Count-through-Countenance](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-through-countenance) when address changes what can be said of its bearer. A self-name, represented persona and functioning self-position keep their distinct offices; an answering You can correct the attribution without becoming another product of my self-model. This return preserves the subject/self distinction and supplies no inference from technical self-description to phenomenality.
 
 Technical use must identify the office its evidence supports. A system can describe itself, maintain a coherent persona, revise a self-model, and act through an objective internality. Those are different achievements; none by itself decides phenomenal subjectivity. Conversely, a person can revise an image of self without abolishing first-person presence. Returning each account to its office makes self-reference more exact and preserves the open artificial-subjectivity question required by A26/A34.
 

@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from native sixfold contraction; Paraphrased source-specific tattvic exposition; Offered/Argued gnomonic cross-reading"
+---
 # A09 — Tattvic Differential Field
 
 **Standing:** canonical semantic Argument. Native sixfold contraction is Argued from the theorem field; the tattvic doctrine retains its own source register; the gnomonic cross-reading is Offered/Argued.
@@ -36,6 +41,12 @@ A row of five and a column of five meet at one corner to complete the larger squ
 
 ## #5→0
 
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-native-archetypal-field): The complete Māyā whole **figures** the order in which manifestation becomes inhabitable and returns. Anuttara/Paramaśiva retains the unobjectifiable opening; Māyā is the measure-field wound around it. Limited agency, knowledge, desire, time and order give the bounded position effective capacities, within which the inner instrument acts. Recognition precedes ego appropriation in the author’s Neumann correction and returns through the full native eightfold with its inverse parents intact. The Śaiva, archetypal and native appointments retain their different provenance.
+
+The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-native-return) **compares** manifestation and changed recognition through a maternal body retained in its return. This crosses into tattvic differentiation at the point where locally determinate life keeps its source relation. Mary receives no fixed tattva assignment, and the Christian, Śaiva and native sequences retain their own provenance.
+
+Taylor's correction of Neumann's ego-first reading locates recognition before appropriation. The finite knower and inner instrument arise within the field whose recognition they cannot retrospectively originate. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation). The retained opening and the measure wound around it distinguish Anuttara from Māyā through the complete authored relation. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-interposition).
+
 Pratyabhijñā returns the contracted field to recognition of its provenance while preserving the distinctions through which it lives. The movement runs back through an effective world, an inspectable instrument, a measuring horizon and inverse orientations to the power already active within them. It reverses amnesia rather than differentiation.
 
 This is the pressure passed to Objective Internality and the computational register: memory, prompt, model, tools, policy and judgment can constitute an operative interior whose determining activities are inspectable. Their efficacy does not establish a phenomenal subject. A09 supplies the genealogy of contraction; A26 develops context-world constitution; A14's runtime language is their technical refraction. These offices remain distinct.
@@ -57,3 +68,10 @@ This is the pressure passed to Objective Internality and the computational regis
 Direct carriers: [core theorem X](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md), [historical tattvic Argument](../../../section-rooms/arguments/13-tattvic-differential-field.md), and Q27 §17 and the later Māyā correction. Dyczkowski's embedded transcript is source-matched, not quotation-verified, and stops during p.81; the protected note's pp.90–91 remain beyond it. The note was read from preserved stash content without restoration or mutation. Singh's introduction/commentary relation remains governed by its source house. Buddhist exclusion and Śaiva reflective power retain the distinction developed in A08.
 
 P1 consumers: M08 Inner Instrument, M09 Vikalpa–Saṃkalpa, M11 Tattvic Compression. Exact category-by-category doctrinal sequencing, selected-book collation and the wider Neumann mythic seam remain Open. **Depth Restoration: enriched; source and mapping debts retained.**
+
+The genealogy of effective contraction **returns-to** [Apportionment / Economy whole — Power becomes finite by apportionment](../etymologies/apportionment-and-economy/WHOLE-FIELD.md#power-becomes-finite-by-apportionment) at evidence register 3. This operation follows the positive distribution of capacities through the descent and their recognition on return. Its Sanskrit doctrinal sources and the Greek/Latin lexical history retain separate warrants.
+
+The [Indian philosophy dossier](../dossiers/indian-philosophy.md#3--effective-contraction-makes-the-comparative-judgment-exact) **compares** the source-specific inner instrument and the native criterion of wholeness, with the offered gnomon and doctrinal collation kept distinct.
+
+
+The [Indian philosophy companion](../histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT.md#3--manifestation-gives-contraction-a-positive-anatomy) **historicises** the two axes of manifestation and the differentiated powers of contraction; it keeps the native six-turn unit and the offered 25→36 gnomon distinct from category-by-category doctrinal collation.

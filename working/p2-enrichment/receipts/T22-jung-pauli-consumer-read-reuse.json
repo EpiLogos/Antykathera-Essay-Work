@@ -1,0 +1,14 @@
+[
+  {
+    "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+    "reuse": "T22-E5-consumer-before.json",
+    "diff": "",
+    "current_sha256": "c48ab737309650257824f47d32a978a985574eee3fbde89611f0c192d7564298"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+    "reuse": "T22-E123-consumer-before.json",
+    "diff": "--- \n+++ \n@@ -43,6 +43,8 @@\n \n ## #5→0\n \n+Epistemic cultivation **returns-to** [Resolution-in-Reconciliation → Anamnesis / Recognition / Return](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation) where an examined result changes the conditions of a subsequent inquiry. The test must preserve the prior source, criterion and outcome while identifying the warranted revision. Con-text-through-Diaphaneity enables Regard at that point; anamnesis carries the achieved history forward rather than replacing it with a cleaner account of unchanged behaviour.\n+\n The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-initiated-return) **tests** operational parity where an eloquent account of its own limit has to change a consequential criterion. The relevant outcome is a revised source, permission, evaluator, task or commission that affects the next act. Initiated return is the Argued vocation; a particular implementation remains an Offered technical test.\n \n The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **tests** its technical proposal through changed judgments, selected sources, permissions, criteria and relations between reference fields. Keeping the lens, cover and clustering choices makes a Mapper result examinable; compatibility and gluing duties remain specific to the sheaf route. These are Offered research constructions with no implemented result asserted.\n",
+    "current_sha256": "0575c94c8825668de0af78baf8fa1e937ef6165cb12a74371d0f33fd72ea4d38"
+  }
+]

@@ -39,6 +39,13 @@ The political image reaches technical administration through a precise shared op
 
 ## #5→0
 
+
+The [Foucault lens](../lenses/foucault.md#foucault-distributed-office) **qualifies** derivative sovereignty by naming local jurisdiction together with its distributed dependencies. The form’s designer, report’s author, resource allocator and deciding officer can occupy different positions. Those dependencies neither cancel the officer’s responsibility nor establish usurpation in advance. The returned consequence must be able to reach the commission under which that officer acts.
+
+The mediating office returns to [E3’s nomos answerable office](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#nomos-answerable-office) as an entrusted appointment, with Credere testing whether its exercise warrants renewed entrustment. Actual derivative power survives this dependence. The returned costs belong in the assessment of the commission, including its alteration or withdrawal, rather than being excluded by the office’s own account of successful mediation.
+
+Derivative sovereignty consumes [E2’s arbitration in crisis](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#arbitration-in-crisis) as a real capacity to decide whose authority remains received. Con-text makes the office’s conditions and incurred costs available to regard. A returned consequence must be able to alter or revoke the commission, so the mediator’s successful action cannot silently become a claim to primary arbitration.
+
 The office retains competence by returning its determination together with what it changed, excluded and required. [[submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence|Deferential Intelligence]] permits objection where fidelity to the source requires it. [[submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD|Apportionment / Economy]] supplies the register-3 relation: authority is an apportioned capacity within a wider economy, not possession of the whole economy.
 
 **Consumers:** A19, A24–A25, A28–A31, A33; arbitration, delegation, evaluation and commons movements. **Depth Restoration:** received standing, distinct mediating functions, recursive scope, source-claim failure and consequential return restored from A24/A25/A28/A29 packets, the direct covenant seam and QH R16.3–R16.4. Exact legal/religious genealogies and implemented governance remain Open. The Son/(no)name appointment stays with its Symbolon owner; this Concept does not invent its missing locator or a King Mytheme.

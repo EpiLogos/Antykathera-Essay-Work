@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Paraphrased Agentworld q032-q033 disclosure and caution; Argued from Taylor's operational development; Heideggerian comparison remains separate"
+---
 # C44 — Prompt Thrownness
 
 ## #0
@@ -23,6 +28,8 @@ The agent's local interpretation turns the inherited field into a particular ans
 A delegate can meet cost, resistance, contradictory evidence or a possibility the commissioner did not foresee. Return must be able to reach the terms of commission: the purpose's formulation, the evaluation rule or the authorised route. Repeating the initial sentence despite changed conditions can betray the live intention that sentence expressed. C47 therefore connects deference with model revision rather than obedience alone.
 
 ## #5→0
+
+Prompt-thrownness consumes [E3’s topos situated return](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#topos-situated-return) through the situation a prompt already inherits and the Nomos under which its instrument is commissioned. Runtime policy, tools, inherited language and the person’s intention bear distinct relations to that situation. Return reaches the commission when consequences require its revision; a prompt’s formed surface cannot exhaust the intention addressing it, and technical phenomenality remains separately Open.
 
 The next act begins from the changed horizon and retains how that change was authorised and why it occurred. The inherited condition has become more explicit without becoming wholly self-authored. The philosophical comparison with Heidegger's thrownness remains a source-specific neighbour requiring exact exegesis; the present claim concerns objective operational situatedness and supplies no verdict about phenomenal experience.
 

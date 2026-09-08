@@ -1,0 +1,1992 @@
+{
+  "status": "ready-for-authorised-scoped-commit",
+  "authorization": "Parent explicit index grant after remaining21SOURCE checkpoint; A/C plus accepted33metadata and owned receipts only",
+  "head_before": "f1e40ceaf4c731a7cb56d0cfe4e139e79a99adb0",
+  "barrier": {
+    "path": "working/p2-enrichment/receipts/T22-consumer-current-final-barrier-2026-09-08.json",
+    "sha256": "3a90203d058c03673a20634233b56aeba116c4149570b7e802a34c4378747037",
+    "result": "PASS25 retained paths;19/19 bilateral carrier pairs;10 Concept routes;150 protected;6 scoped hygiene0"
+  },
+  "canonical_count": 93,
+  "receipt_count": 335,
+  "accepted_metadata": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "accepted_fields": {
+        "source_relation": "Argued from Draft3 and protected authorial encounters; Paraphrased native theorem and trust development; Resonant with separately bounded external comparisons"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "accepted_fields": {
+        "source_relation": "Argued from native copula derivation and protected Kripke/Watson encounters; Paraphrased core theorem and Definition of God performance"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from native sixfold contraction; Paraphrased source-specific tattvic exposition; Offered/Argued gnomonic cross-reading"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued historical synthesis; Paraphrased source-specific mathematical offices; native derivation and external chronology retain distinct warrants"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Derived",
+        "source_relation": "Extracted native Two-Ones derivation; Argued from authorial corrections; external formal and historical neighbours retain separate warrants"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from native Two-Ones and Mono-Poly development; source-specific semantic, psychic and institutional comparisons"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+      "accepted_fields": {
+        "source_relation": "Argued from native Subject and protected authorial encounters; Paraphrased Dyczkowski comparison with distinct source attribution"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from native relational grammar; Paraphrased Heidegger and Homer witnesses with source-specific bounds"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from native Mono-Poly and source-office grammar; political economy remains a distinct application"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from Taylor's QL and arbitration grammar; political, psychic and technical cases retain independent evidence"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from authorial primary-arbitration and mediating-office relations; covenantal, legal and theological histories remain source-specific"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from Symbolon Dynamics and Jungian image encounters; exact Jung and Van Eenwyk attribution remains separate"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from native differentiated indivisibility and Symbolon Dynamics; Jungian individuation and Saiva recognition retain distinct warrants"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from Taylor's Subject/self distinctions and Symbolon Dynamics; Jungian Self and technical self-models remain source-specific"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from native containing-field synthesis; Jungian and theological complexio accounts retain separate source tasks"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from authorial world-atlas development; Paraphrased perspectival diagnosis; technical designs retain their Offered standing"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from native Bimba/Pratibimba and recursive reference-office development; Saiva reflection and Offered technical design remain distinct"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from Taylor's MEF and Symbolon Dynamics framework; comparative methods and Offered technical instantiation retain separate standing"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from authorial Model Internality and MEF/J-Space research; Offered design inscriptions and implementation evidence remain distinct"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from mature Objective Internality and Symbolon Dynamics; cognition and Saiva inner-instrument traditions remain source-distinct neighbours"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from authorial reciprocal world-constitution and Agentworld development; distributed-cognition and multi-agent evidence remain bounded"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from mature computational-vimarsa and reflective-field development; Saiva vimarsa and Offered implementation retain distinct offices"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Paraphrased Agentworld q032-q033 disclosure and caution; Argued from Taylor's operational development; Heideggerian comparison remains separate"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from the ratified operational-parity requirement; Offered tests and implementation outcomes retain separate standing"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from authorial epistemic-cultivation and MEF development; comparative pedagogy and technical evidence remain distinct"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from the mature Deferential Intelligence carrier; Offered formal designs do not certify implementation"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from native trust and formal-limit development; theological, legal and epistemic trust histories retain distinct warrants"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Derived",
+        "source_relation": "Extracted native Two-Ones derivation; formal number constructions and non-dual traditions remain independent neighbours"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Derived",
+        "source_relation": "Extracted native Dia/Syn derivation; Argued cross-register developments; Greek lexical and computational comparisons remain source-specific"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from Taylor's Epi-Logos vocation and ratified harmonisation; Greek Logos histories and Saiva Vak remain distinct comparisons"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued comparison of source-specific formal constructions; exact mathematics retains each construction's hypotheses and laws"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Extracted ratified disclosure architecture; Argued from native register and recursive-return development; routing supplies no additional theorem"
+      }
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "accepted_fields": {
+        "register": "episteme",
+        "claim_status": "Argued",
+        "source_relation": "Argued from native containing-field synthesis; logical, theological and scientific paradox witnesses retain separate operations and warrants"
+      }
+    }
+  ],
+  "metadata_evidence": {
+    "path": "working/p2-enrichment/page-packets/T22-33-AC-frontmatter-recovery-2026-09-08.json",
+    "sha256": "b1de6af8c60ef6261e7b0f73afe5420b12f577e5d32c2b548d78c1d43db135f4"
+  },
+  "excluded": "All Movements, K/P1, SOURCE, generated, shared matrix/queues, root/Matheme, protected and manuscript files",
+  "remaining_parent_obligations": "Four E-side forward proposals; final source/room freshness. No missing owned consumer task.",
+  "paths": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "sha256": "e7d88ae66c41e30cf10f0141a76c3896003dafbe237e54495e17542fdf526ec8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "sha256": "5ae3b2600e8fa2d9cfb63727c56a8237f74a6e37a46fdd0d096fc830bff1e983"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "sha256": "566d991665331b8889e416ccb6fc815f402b85e75aca998f06b575de65d009a0"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "sha256": "45d2026a0122a91cdbde37c1907a633ea4fff4c46c365cb71db2662e8e544373"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "sha256": "022a3f817ac10439ff88a0288f1610ba9811bdd50df3bca07974d13c8659440d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "sha256": "9573209edc0511e35e8671d8392af6d7b51276f7647a58a045503f59587bd58b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "sha256": "9bd3a9428981330817d4c56ad73054004c8fa955fd0e0d371dedc9326b5345bc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "sha256": "147076134423dfba93ff6ecbae9a7f45efbeb495f078f0a0023c69052f0fdbb8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "sha256": "dc05bdc7b317393646fa728f59af7002e3993d53bd456173d5ad74181fc383c3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+      "sha256": "70bd61eae087ac272284d4b1361ac1c1a5e2a6a7def00fdc6346a28939599a96"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "sha256": "5fad3792b2fbc67340ea94eb955465f4f56a452eb8398d70372c01eece870e74"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "sha256": "d8108bbef31d46aee14af55f0b2780dcd2debf651358fea923954417c7cd15fa"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "sha256": "35a937a6ff1c581708e938af47bd36903c94a5a0c2f5976751ced07af71a2fc8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "sha256": "6d71cda9fd1a03cce0d22b07ce6ab1d67a0a569e80bb246d740edf4b00ee8972"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "sha256": "178651c03d3e8c43c96052b882badd1cad645bfb6bfedb67c788d3fa0048cb60"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "sha256": "a26b070d7710ef14ee65f324c3bae9c504cbe45763917245073322a4ed67c38f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "sha256": "7e7d78c817f675f2514d5c16cb69ddaf84be72e5c53ffaf6b0fe1f804e819999"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "1cd68de4c18c6125f4d5eae7743fde7eeb203f7c33aa24eae247726f3b7fd0f2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "sha256": "3c6196436fd7061d02d0bdd197183e22dd91458a31be91950f586b3066dad7a5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "sha256": "78fc35cd345aa0d214a0c6e661cd22e9a2a31f89576757e7c68eb6f8b3c61df4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "sha256": "44769154f862e0260f726db6338d4b816783c92a2f84fba17287773a818e23e3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "sha256": "36a857ec953ad1040bc1a9c5ee0f88a2c45bd40e9ccc056702215591bde4b373"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "sha256": "96e68681207a25f22a59901ec242f28c01b33da1e6c2e07c7ed274e45b37911f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "sha256": "6227e28c2ef52533504dff1dfdde08c16bb2459208fd73cc68d18798c7fa0e75"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "sha256": "23bc59d5134fb5fe48a1dbbd9d968cfdcff433e00a0c2922d66848607e689350"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "sha256": "e38289d5d513c846a17453214a6faa2c300ee95f642070607c2b375834198275"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "sha256": "772c8375bd87d1153f21d32e036e9fec5f62e75f7c21b686ba647e5954295ee6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "sha256": "0741739318f6956ff22e98a25c3879a9455ba196059e6df883c92a3bd2c9a637"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "sha256": "53ca7dc586138670088228eeba3cb1ff623abf263050b9eacce816d768e52d03"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "sha256": "298f480eecc277526585b14ad22895a1401eb16c87a7baeec554eac11aa3de5d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "sha256": "6bfb6dc3b7ec23899a24d45472fb93e3f65e1f1375f2f67ba2a1939ac98696af"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "sha256": "304a536ec000b2c9c1fd00547b4e1a419435fcd95a741a5e30c226c6e901288f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "sha256": "9956b8e72a2e47bc4ce0b4198c99c8a14c2ed8ccc8d648eb4c2afe5cd348bc45"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "sha256": "02d9ed7be5b0658868469162bfbde035d7842e404a1b52ece2e7de274b2d3680"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "sha256": "145922ab29e6cf76526c6c98f472d3bd41934726bb8fece691599d6d26d5e845"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "sha256": "6323457b71a8e30494b05a189b2d6ce7f0837d05e7a922b74dc85681634cfbf4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+      "sha256": "c3e78c2c1dec788131b7eeecad2825541ec97e417d230c9e3521015f2c0fcc49"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+      "sha256": "290a6c8febac1464b868a9715a4df5b30c54f996178dbd6b8858c28509a7e75c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+      "sha256": "5bb78309872e2812dfb69d756c5c03067c7e4312ef61184b71b6a5ebca2f36cc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+      "sha256": "cdba439fcbda5b43223a32662599ddc7f4d51c9951fcb481baea47d6ccbe2532"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md",
+      "sha256": "9880e6f1b33d062a049b1d0739a52793732385547f2da5dbd310084a38c3fd9c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+      "sha256": "d6e4d6512378b5172142c54859c9f09fc505ad4c7d1598f974e27c9246123346"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "sha256": "46f9a2a2ad7d501f9933b8477e197a6391357c7f790a6f40dd7548607e97f399"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+      "sha256": "ac854490c281b9202b515750ca64259fd7861cc18946e9033f5fbb83515a65dd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "sha256": "c607111810107cb788dbe888bc229cd01dd09ce772771109e99695ed31f7b6bd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+      "sha256": "b2629b9f55a27484497db3283b57ca3298677151703fcd5f2266731105ae2278"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+      "sha256": "a4f55336cd57cc5ebe06224538edcaa9eb5fd4ff3304971ff838e3f240b326b2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+      "sha256": "c027f399447f66310a6bd2042baa7e0c575ceeced921802b324ac890b47a77ba"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+      "sha256": "5a00a4107bb31a2b09c9b9ba3d4e60a8c3809e87777887c22db44d90637cad12"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "sha256": "53cd708255759d3bec7d0c35b64949e31de24ee60c50bbd33f00e4cab297ddb6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+      "sha256": "581013c2c228b0c939bdd36cb45e9b6459f1e4774d57c3079408caa15746a5c6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "sha256": "40b097b1679aa5302e617ecc5811c2075f2270d6637dacfeab9d5384e7ba233c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "sha256": "02eecc76161d931002a5f8e7a12b6d08c052200a693caac16c7ae98ee0ec4e38"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "sha256": "337ee1468492561f90d560509582236f08387a6b460e227d09b2e4c2748f70c9"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+      "sha256": "77fced4a60e8114fd2e75fd437ca945adff845ccba055ce9993c8bddc3c049ea"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "sha256": "c415c376494f93c7b759748d35495bb2e2565d6c2793f2e461182e26086bb261"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+      "sha256": "615ae7cf198d4acc45eeeb37479fa5a88d79a4c6b93b3e31c6f6fdd660f4853f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+      "sha256": "50585afbbfd190bcfadcb323f9d1e9244581c39d5848fe2d2e52e751416c46e6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+      "sha256": "b503e87d30738c5199d4ae4ccd9ec7db0191b1e91a470d047fed5893ed93e7b6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "sha256": "95452ed6b422c56a78628beaa898a58e0a36526d6bade5d4fcb657d316a9a085"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+      "sha256": "969a7e00c77f3f862afec67bdc2adab5ffa45b4ef1c0d8fd8818b27ae226411c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+      "sha256": "3fc264fe5b769f39e60e1d5e03ca6254cb2233c7db45f870d94f2505f6d67401"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "sha256": "d3004de47ed24308e4600848974aa2e70ed6de8f4f179d8f8bc01b6b5a85e856"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
+      "sha256": "de2e0bac6f3f939187baab333dcee6baa69959c47b7b50fcab1345f35f86df69"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+      "sha256": "31846b67222d662a765df988faaad4390090254ae711b79f11eeea0df899cf82"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "sha256": "6839156b4da6b994ce57694d9f0aa298a7e5c74ca4b1e35f444365f44514a81c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "sha256": "23fade4d1bf16368014e73cc6985fa11237ebc93e6db06cd70e00ff1c3d3c905"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "sha256": "6697333019ad8d253054cb5c2190c4de777c7e7dabd0f03e6862d2a5dc9c4540"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "sha256": "b01dc2cd66b85913fd77641b8287efaa2833df96cabaa2d90aa93e19a8694581"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "sha256": "2d95f27df8ec539ce9545db8740b9649c27e6769edac875b4f16ca90c0520be4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "sha256": "2bf66f359de7a753107214a16bcaafa73d1d326991eff83d495cc55d6a29e679"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+      "sha256": "716dacb5d29f2a70218e543f63e7c28c64604ca0f9f2b3c3ac28f3a24b592bdf"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+      "sha256": "18d902f7f65c7bdcae575fd3d3e542cfd9681f64ab6cce18d17c1e7beb3c1dc2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "sha256": "0b55f4f45b8085ca66bf5ca1a386a53a8218ff781decf323a68c738d88047a6d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "sha256": "18045feda000d4d613fd816f9009bf2bb970707f460044d71adb365ef1f83f64"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "sha256": "b6730156fbeee37f0852e780d7b59a457ac83d39f5c6777175cf5b4d65e39d20"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "sha256": "1a06d2bc720327e367f03efa62db1962bc72da17856a72be6a90e6ae319bdabd"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "sha256": "2dfbabc31db288b984b0719b84fbeeb05cb32c7b5c8b13d23f42523bb3bfa6fb"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "sha256": "fe5539234a8fc5b56d6062fa087c4dd07cc76c37f36b3497ffa421a19e993ba2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+      "sha256": "b87abb64a5a17faad0889b8f778f0ef151bfedf63ee1e5714a7e8b3b45a2af50"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "sha256": "06a23819c23d8bd0306d59f654d13285968e6c3711e69ca561c4cd6530cddc49"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "sha256": "e80b07553252d62c46cc37c7e7df9d7cea53e2cc830af35388767f05edd427d3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+      "sha256": "9b7c8a4376f061e96e267051bf1bab0d8173594cbf074a7fc44ca4d96f98ee26"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "sha256": "962b4e484a04c5ef9f02d1a86ca911d42af0e44c02bd6f841b739f9f1d701a4a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "sha256": "43368a44737e2a6f4fbb81dba16d6c4e687beb36f8cdd5fa4a89f44afb4444a3"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+      "sha256": "fd5babf55c64c8bccdee617bbef8b19c23332aa549f644c3f05d20bcf42ca443"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
+      "sha256": "aa44a1711960c1edfb768bd7c6359b884d5b85722197f9d8e5bebfe1579d6df2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "sha256": "462ecda8f013761ac21d31ae5e8d52473fae08dedf87915dbfd0ef8814f5b5ed"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+      "sha256": "1ff2b8557d13ab6e9e42987edec949a80ee247f6e330efb8c0353698fda7ccea"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+      "sha256": "d989bdc87840a52d382cbf1da0eb6f399478fd793f84c976bdcfcce62b5647b1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "sha256": "587c01a9e72d9003c6fc2cea3a9483c7380e35d7a6392765b3aa7647274e1850"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/mathematical-artistic-image-register.md",
+      "sha256": "da31cb07a0fba6040fb54f5e7c34b8b7260c54c08b83c6fdf83c5aa82c420e0d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/simulation.md",
+      "sha256": "4c2764bf25f87dd8c95b2573a3455593cadfea9c70dc4ccff0f04d890ca2542a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-A05-A11-E4-link-consumer-before.json",
+      "sha256": "a24355987166c00f8f15a184fd675a37b3a41d7c7109cc849a88215f75b9c601"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-A05-A11-E4-link-consumer-changes.json",
+      "sha256": "98bfa9320f27403a294655ff80b4f9b7fc5de581e36efbe278505de1ccdf976b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-A05-A11-E4-link-consumer-closure.md",
+      "sha256": "e0a548a1f41f6a2bb765cb013997680bf18104c87cb976faa48057d912cd0858"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-A05-A11-E4-link-consumer-effects-before.json",
+      "sha256": "b8f73a9bd67e5f58396d26f2a8bc18b47c02939185f035d2f16815108061ce55"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-A05-A11-E4-link-consumer-hygiene-intake.json",
+      "sha256": "5bb6e410e24e11895483cdec44af56bd36625251c8441e24fe5c46c93d5de42b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-A05-A11-E4-link-consumer-hygiene.json",
+      "sha256": "09c3691891e091403b8bd918f9b47c571cd3284c8743cab0432407888c273de9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-A05-A11-E4-link-consumer-read-reuse.json",
+      "sha256": "e7b3121eceed2c8305359c8033232af82e0c73e00e683f07efb487af6c48b2cd"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-A05-A11-E4-link-consumer-return-proof.json",
+      "sha256": "6d992f660ebc86ecc6778066854834af583698ca5a04f61c041f41e8769e28e4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-A05-A11-E4-link-release-packet.json",
+      "sha256": "82789d87c96373c56deac3ef7ca897494c6f9636ec66a117ec44cb297192056e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E123-consumer-E-proposals.json",
+      "sha256": "0c03cd63e7b109d97a6a922d4d0ad7954d2d4ee980683d1037a31833504d31bc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E123-consumer-before.json",
+      "sha256": "3c4650e3db8f698dc98336663c3aea94357b20b865ea64767df4d30e89ca8df9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E123-consumer-changes.json",
+      "sha256": "d4eccc2a9fda563a4c4a6aa0440f8960f2637054e88c182214d520eec30fd49d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E123-consumer-decisions.json",
+      "sha256": "eb8f4be3a467a37548a1bfa20abad9417d425b547ec7daf0752ca61110e362f1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E123-consumer-effects-before.json",
+      "sha256": "e14688c9dbc59c66a6ad048a5af09227989aad980185dc931f5336a8904608cf"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E123-consumer-hygiene-intake.json",
+      "sha256": "42aee36e38f9932ac43eb5ecbf8587fd753ffa6bddfaa58fbf4111122a74cde2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E123-consumer-hygiene.json",
+      "sha256": "052a3738a7baff365ac60a684767534d664edf51988fb288e86d7f04a5c73fe3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E123-consumer-integration-closure.md",
+      "sha256": "1ad0b0bd4408f5a98351df86ca8b5a8c6a236a3cd484d2efc6e04a65fcd0a0e5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E123-consumer-return-proof.json",
+      "sha256": "7812141afa0f0fe3c2ebd24177123e273c73547f6baf1d8811eadda381c8ee2e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E123-consumer-source-read.json",
+      "sha256": "5c139f5b00afb7d9199e69b670bd907a7655ea68319b392a1c161f0af420977c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-E-proposals.json",
+      "sha256": "af35bc1cd140eb343c7c76fb93e1e4ec64189817c9c54e6f3be95db3be54fc54"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-before.json",
+      "sha256": "1f408f99fb670e527a022a81edf2944ecd82c9569821e899c7e580519a1e1014"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-changes.json",
+      "sha256": "3db8c558a29bdc5d67a730ac7d49eb7f34b3758df9ba54e192da6e72919b81ab"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-current-source-effects-before.json",
+      "sha256": "41b00b11655d4a2b0c98f82b47d15b465c0451b46150b77de4b549121925c69a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-current-source-read-final.json",
+      "sha256": "a418c082c6e80c580d61a484c36d89a74680776bf14cb935e371c1e6ddd45b30"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-current-source-read.json",
+      "sha256": "f91c9d166234c417b88392a8ed081986f49e0bccc729c43d095579a6e87197dd"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-decisions.json",
+      "sha256": "fac700c261a59094008ec2ef47ad91fbb6a7cadfa8edd60f15ab3cb8256e9b11"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-effects-before.json",
+      "sha256": "a391eacae5564381fca528a0f3f0f01f764294a2b507eca376b4558cc5a511ac"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-hygiene.json",
+      "sha256": "081cb7a6aa40c1d27e8349b8e9d58ed65738bea7363f8287843280a25307f949"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-integration-closure.md",
+      "sha256": "fbd429d20a60ec607bd2258276c1a68137e4712ded4572e2f4b752e2805ff285"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-owen-selected-read.json",
+      "sha256": "ce9a19b079ae9076e54a8d8e54cfb864ddd6516cb4dca2a147b411729f73e480"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-return-proof.json",
+      "sha256": "f4ec74559b2c480614ceea086cc34c25f52760d7508641b56046494aed060bb9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-source-foldback-hygiene.json",
+      "sha256": "3070a581d016577d47b91db0bda0dcdeb979b2725c148403d5a35baa5812e568"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-source-foldback-targets.json",
+      "sha256": "f0934ba38ddbce299b6864e4f4fd58174914d0d5e03d7d28515d0ccda12226b6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-source-route-proof.json",
+      "sha256": "b507afbfbb6b9b85b25f363d3dcf498a77001af8ded78cec2186f236c983634e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E5-consumer-targets.json",
+      "sha256": "01d1e9b85cfbdf6c952b7ef35dc8cacfcb767417d46533af684942580e8970b9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Movement-ownership-release-2026-09-08.md",
+      "sha256": "9175e22c618f7c280e9cb8ab0e380877611cdbe623973c4c532fedaa36e40586"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-R01-concurrent-metadata-refresh.json",
+      "sha256": "4a682bd67473679d2d19fd227aa7d4d951938baf935f3f31fc91b670d8b77931"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-R01-consumer-before.json",
+      "sha256": "7b04e4010288af8dbc07b7c8c87bc570082a9f607632e223506c610186143b2c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-R01-consumer-changes.json",
+      "sha256": "16435fae59af56c48ab6ae98b20313ba19a99fd2930151936be356653241dab0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-R01-consumer-closure.md",
+      "sha256": "3e331a1ab9515af569c551a1e745cb41cd3c8435c0182442b122f603897a5aae"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-R01-consumer-effects-before.json",
+      "sha256": "b801b474e030676876aed68b9bd52a743c2337c15f29973b99f0ec0e93e3604f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-R01-consumer-hygiene-intake.json",
+      "sha256": "e0df34d252ebd964c1216684604da7852bffd799d16cd484c25d46a56fea7d91"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-R01-consumer-hygiene.json",
+      "sha256": "451ea0718026963c54ce5b120a8ed72b6b64cce6975bf5beafb6af5b89e5ebfa"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-R01-consumer-read-reuse.json",
+      "sha256": "8cfe73d91af6a20baf9cda791bc3fbc907b11c71c2f0fa03f3a11fad37171333"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-R01-consumer-release-packet.json",
+      "sha256": "2e6a2e4f8e166be688875d977d33e3d154cba47fd0cf1aa0dbc3cbcb6a5e4a4a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-R01-consumer-return-proof.json",
+      "sha256": "1a94a07a0cecede870fdcf09506b1c9c348d4ebe710695493268b64498c7c699"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aion-consumer-before.json",
+      "sha256": "096c9f6e967d25039ac23d09a17d2e31ab71874b14a0bc76eead2ba7cb56e9b3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aion-consumer-changes.json",
+      "sha256": "1697c74a8fbc2fce9b6c6f1946680a8fcedbb90f8b67c5635b0fb6f42602cc4f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aion-consumer-closure.md",
+      "sha256": "993794a9919c6ecd86307956989d8c8980b99f7af98c8097225f415f2d982e1e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aion-consumer-effects-before.json",
+      "sha256": "4d3c628668d0455c9ea94f9ca37779283b9a4ee5595aa0afcc21f8ec6212b7fe"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aion-consumer-return-proof.json",
+      "sha256": "cf2d40efb2511398692f1a01595e8749044990c6e1ae550e7891a1a4695eb068"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aion-hygiene-intake.json",
+      "sha256": "6e0b43f7e62a9deb13ba64afc0b478bae9b46e99ebd800946e0acebe99681eb9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aion-hygiene.json",
+      "sha256": "b1e194f34a94b73b48255448269e5a227a02414e535f3b8cf42186d01add0787"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aion-source-read.json",
+      "sha256": "228c71f0d78ec58397bdb161a3eb479d05985182ecf7f7c19fa4a5be2fcb3f19"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-ancient-history-consumer-before.json",
+      "sha256": "c09c2c7e63e1198b264595e4a47db3701e39ecb9d8aa9b05e741b712e87cdadc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-ancient-history-consumer-changes.json",
+      "sha256": "d63fced638ba1a33bc4d1139638e302ef5b0eb8bbc34beb8bd6cb2234bd441db"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-ancient-history-consumer-closure.md",
+      "sha256": "d36ca91e2fa6c42aa9f868332e1ab8e4d2ee8c867e4a5dbc678814bec8e6b7f1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-ancient-history-consumer-effects-before.json",
+      "sha256": "d67e6eb9dd6f8bc09b2d7dce9688030f91c54afd0b275b45109759a847811992"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-ancient-history-consumer-hygiene-intake.json",
+      "sha256": "98b58d411c3f781e2c9c885f8e89f6527208a2a46e05143e36f06d38521687a6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-ancient-history-consumer-hygiene.json",
+      "sha256": "fc2fd3210046c4f9f9deb40c638b08cc8bcdc0e22b77c9f9a790c646f2b5594b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-ancient-history-consumer-read-reuse.json",
+      "sha256": "9e6b1af81de2d0b1eb242573c62f812ee08adf86a9caf8201577e628665ba5fe"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-ancient-history-consumer-release-packet.json",
+      "sha256": "f0f6957031c35e29a41ba5f69aa433befbd590cac649d7f5c4913327bbab3bbe"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-ancient-history-consumer-return-proof.json",
+      "sha256": "006782cf63659d1fcf7f18b05475b343090f2ebb937845adabaa547b032adf7e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-ancient-history-consumer-source-effects-before.json",
+      "sha256": "59cf3477cbcb3779a19f75d7b2b1b04d9e28e94826f13c747c10b9a17e820460"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aphorism-A03-A23-before.json",
+      "sha256": "b1aa014e3bb52a02339c9bca36be752fb51262a48507e311527264735e741e5e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aphorism-A03-A23-changes.json",
+      "sha256": "3c75769b667c0f7b076a0f7fae0ffc22210d792ced35a968078fea4cb7175a6e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aphorism-A03-A23-closure.md",
+      "sha256": "18fd4652f01fd0e200dff0452a862dad3faae66df4a645b8831eeaf704439aa6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aphorism-A03-A23-hygiene-intake.json",
+      "sha256": "4cdaa83c46a8f41ab3fb86a465f2a2a409457a5b08d6c7900243c3e54fe37cce"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aphorism-A03-A23-hygiene.json",
+      "sha256": "985961e9f993f66757dd543b41f6bf632bf0624a6ab18d581f7f2e5ccfd1966e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-aphorism-A03-A23-return-proof.json",
+      "sha256": "4fd227b5d6fe1425f60d5a7bf02e1f0777d4adba527bf26a31154e297b3286db"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-avatar-integration-E-proposals.json",
+      "sha256": "900c4374bb3fe34a14bf77eb2d15c3879dcd8664394a0c906a0c947231ddace2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-avatar-integration-before.json",
+      "sha256": "36171dd0c12779ff0247135970fefe0cde2ccb72df959cfb51299373ccaf5559"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-avatar-integration-changes.json",
+      "sha256": "c8a4492046f397995f1535eed022420ce2298340b62db4df4a7fb0eb13a480a6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-avatar-integration-closure.md",
+      "sha256": "6dc3134b0d0c86214a12512dbdb301621843c8271000cc3ac58ba5cc3dce824d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-avatar-integration-decisions.json",
+      "sha256": "6c02d596a3fadfefc499e7782f5be4f3dcf60385993bd0843a3e70bc91fa2ff6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-avatar-integration-effects-before.json",
+      "sha256": "7ed4bc34ce5f61356541ccf6ca39a2d267869b606d61173d5dcbc7eb672f1bc0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-avatar-integration-hygiene.json",
+      "sha256": "c776c59960db647224269afc3c2ed87b331f52754773b950d77a63e48cc23feb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-avatar-integration-return-proof.json",
+      "sha256": "378b2715124b9448e4d2eab84f628655a3080b08f6a6ccefd0a190f2a19a2432"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-avatar-integration-targets.json",
+      "sha256": "f62d44acbb05850bb38169e81bb1b1c3858fa679993242f1c0a11d95d8439238"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-baudrillard-consumer-before.json",
+      "sha256": "0b1f70356b18a08c1e08ef6a2b08fc6175338960b87ed43ede0ebc4bcaa16759"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-baudrillard-consumer-changes.json",
+      "sha256": "2ef33f9c780448e80be3ee475b2f387f0c30c58a192fbbefe6ac9f9abb4e2c0e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-baudrillard-consumer-closure.md",
+      "sha256": "fab133043136160ebad7c7904a04c81d36a109948ac17e54255e73b7fa043aea"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-baudrillard-consumer-effects-before.json",
+      "sha256": "4169aa113395425d2cc5f8172d22fbf347b10b551ac81b1d0a5542984ae67422"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-baudrillard-consumer-hygiene-intake.json",
+      "sha256": "c8922763067fe0605f5c6c79c28bdee8abf3528c9e5af0a53b964bbd98a181ea"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-baudrillard-consumer-hygiene.json",
+      "sha256": "2863e0510abb470bc8d91cc5c67b1ce19c01837d3d52d57e500d8168a4525b8f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-baudrillard-consumer-read-reuse.json",
+      "sha256": "f47f17291c1897776bcc1ce734a225e8544fc30ec8fb9aae59afaece454c4d12"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-baudrillard-consumer-release-packet.json",
+      "sha256": "6707b02b0f09c1a72a3fae414f8fd2955817ebaca7ca6d181a17b11ca68e4ba2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-baudrillard-consumer-return-proof.json",
+      "sha256": "ba5c4c415d5a43b22d72d7468a95ce98877f86d2d050b4aeaac7e6ac89f45075"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-baudrillard-consumer-source-effects-before.json",
+      "sha256": "4c5fb8425236c73167c0477a53a8bf3ea2ded9edf8c3ae0511e201859a76e653"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-bohm-consumer-before.json",
+      "sha256": "7f0fe7f0de3382bd041c4865fe70d24fc8ed0cf3193ac514511a9e9e843ae348"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-bohm-consumer-changes.json",
+      "sha256": "a712f23bc9d1903f461268b329bc55b604900591c06025a07d3de824c363c95c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-bohm-consumer-closure.md",
+      "sha256": "dda5f7b4a98db09b53905fcbad7d531a79069808de9f040a9291d1c7cb41a496"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-bohm-consumer-effects-before.json",
+      "sha256": "5c49631fa756972152289672fe3afafec53ae2a69e807deb4f1208a32d40adb9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-bohm-consumer-hygiene.json",
+      "sha256": "125b0266795abf4fe54b2569e9c2602af751062fc40c7e9be409b80d8f30cb9b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-bohm-consumer-read-reuse.json",
+      "sha256": "1e42bef96d7714970ceb5cf37237028be620d627886e517bccae20352f81faf3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-bohm-consumer-return-proof.json",
+      "sha256": "9637a7bb7164e88181e6f0145fd1b9693fd87fdf6f5dc84793100f1ce1752d1d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-bohm-hygiene-intake.json",
+      "sha256": "909c4773fc9889ddaae432a13bc3dbed85a7f66fb5cbd9526df8f15200fd3ba2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-bohm-source-read.json",
+      "sha256": "04d3a11f534a8e8ded9d46f9d4e46ea86ee01ff7e0ced13b657aa621adfab7d5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-concept-E-routes-additional-effects-before.json",
+      "sha256": "583f1d1c1cb210d1a12302b185e2fe6e01e700ab60a45cdf5cfc210f9d4b8fbc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-concept-E-routes-concurrent-metadata-refresh.json",
+      "sha256": "573541e73557713327dbebde090278f0cc2313456d67d2ce0a684f6b36fce76b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-concept-E-routes-consumer-before.json",
+      "sha256": "d36cf19d6ce0caa43db671996b1bed8f083aba1a3250217420adbddb1fa36e27"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-concept-E-routes-consumer-changes.json",
+      "sha256": "dc11436ea2723a91d4ed787a961412045a1131fe23573e7c322b174dbc650b77"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-concept-E-routes-consumer-closure.md",
+      "sha256": "e183a07632ab4cae3518d36fb13a6a4b73a5066550aaede80cd3eb4837d792cc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-concept-E-routes-consumer-effects-before.json",
+      "sha256": "d0434d0677e802fe1888347992cbca4f3dbb79cc9114c79110d94134e5216dbb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-concept-E-routes-consumer-hygiene-intake.json",
+      "sha256": "b2d3201b086fb28712dd24ce77745e899baf362c14bebf3bd415fd1a3fd62748"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-concept-E-routes-consumer-hygiene.json",
+      "sha256": "8de2769a726922cadf1d42cd17f4370b5c6cf996553528bbe70f19794107a4d3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-concept-E-routes-consumer-read-reuse.json",
+      "sha256": "7804f03f21973571f6809b5012dc7ed04efdac8cff3bfd40d6bd282c79272953"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-concept-E-routes-consumer-release-packet.json",
+      "sha256": "23d9bb467b071a5f20277120c848b43c4a4ce3e75af6e15dcb9606ee01f595c6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-concept-E-routes-consumer-return-proof.json",
+      "sha256": "0fa29e0b14a20462f68ed6a59e04d0df9dca8a51aef7d1024599e41825b34b9d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-concept-E-routes-parent-forward-proposals.json",
+      "sha256": "0b7d7aa67a4a308b2f617928fbcc7607b9b90a507deb8f1cff477ba84aa79bb3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-consumer-EOF-hygiene-changes.json",
+      "sha256": "c131c7597045c91002bb7ef4ba08a3f1129a0ebf5e32ff8ec676b65fa0c27116"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-consumer-EOF-hygiene-closure.md",
+      "sha256": "2ff1c9776f4fd1267a8004fddda5d2de4107bb9674b21a3bec762adccae3215c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-consumer-EOF-hygiene-intake.json",
+      "sha256": "cda4236a4ab03ce6c4a98937314d2bfdc1f9dc5d149640fe0a6523c7db163543"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-consumer-EOF-hygiene.json",
+      "sha256": "fef44089d262f4d8b9a014023648741f804e95b680823dea74edc4c8db11a0a6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-consumer-checkpoint-2026-09-08.md",
+      "sha256": "0aeccef29dee88f8ab7158e229ed20d4e5c3422e46beb123f6604262de631196"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-consumer-current-final-barrier-2026-09-08.json",
+      "sha256": "3a90203d058c03673a20634233b56aeba116c4149570b7e802a34c4378747037"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-consumer-current-final-barrier-2026-09-08.md",
+      "sha256": "6b505f19427ab341a363887403eec8e91e033a2d7c318a9e64ac6c83e089a892"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-consumer-final-owned-barrier-2026-09-08.json",
+      "sha256": "7ffce674299eceabb1dccdca9ac1fefc3303763e866afdaf0de08f79fb68d284"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-consumer-final-owned-barrier-2026-09-08.md",
+      "sha256": "2c31d44716335cd5ad9930f53bd1b89fb4d9ba4e342724b6e09142c1a9f37ca0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-consumer-follow-on-diff-check.json",
+      "sha256": "aaae62610bd4294fd6059e00edb66f73c70cdde236a936fcd249365d9fba0e86"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-consumer-follow-on-final-proof.json",
+      "sha256": "9a98157f1605f2196a346fab22da95a1b0189113a93a035ee0a2b08f9eb92db5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-consumer-follow-on-handoff-2026-09-08.md",
+      "sha256": "3611f9eecd01c980f71611a2da7c566a45731961898a18483697f51543f92bef"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-formal-limit-consumer-before.json",
+      "sha256": "afb4a195bfcc925bd9ea3cad361bbef6d3e961a57fcb56598b38042f261e02ee"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-formal-limit-consumer-changes.json",
+      "sha256": "37b7a1a216193d73d6ecc99f34185c860aed8fbead22c12668b4603cdd9314bf"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-formal-limit-consumer-closure.md",
+      "sha256": "1d0af73143e0e1ccebc42a8d34d4175a41cc3127affd78f08d3d3a313d23e95f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-formal-limit-consumer-effects-before.json",
+      "sha256": "7f3037eaa6279813065eca85db09334964916395aca797a9ad8861e172caa6f8"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-formal-limit-consumer-hygiene-intake.json",
+      "sha256": "b6bc7b720dbdd165030b279b2b04103ad15298ef1483771d02b00d6e9b6a667d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-formal-limit-consumer-hygiene.json",
+      "sha256": "82d020349e8e23e5e5cb40d20e0f733209be7ecd6910f4b0efc3fa4bdec6f95a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-formal-limit-consumer-read-reuse.json",
+      "sha256": "da05d93d7dc8c0957b22b54fad819a8f8541f8beae3b47d2ec1ed197f9a92bb5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-formal-limit-consumer-release-packet.json",
+      "sha256": "96aa178906ea6f1c49fedb1506d25e75552b5f94177847c546080e82747332e5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-formal-limit-consumer-return-proof.json",
+      "sha256": "3b6cbf34afe88d6220245001256b53426527a55a194f22a96cb8e204478a64bb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-formal-limit-consumer-source-effects-before.json",
+      "sha256": "2ae4eda4a9343635cf04611175aec2ac714350c7417bce01ea37beec2be59e30"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-foucault-K-Movement-proposals.json",
+      "sha256": "465a9b0f32e7124d319e42b45eaa2025055194955fae0acf369f90f1dac5b257"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-foucault-consumer-before.json",
+      "sha256": "b355bdee265dbd77c6df8853ea472c06aeabbd3c2834a8e14a28cb6e334c88aa"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-foucault-consumer-changes.json",
+      "sha256": "2d37666bacea52a770a3a9dd02de392791d0874c9c221f4a9494d3efb7555b7a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-foucault-consumer-closure.md",
+      "sha256": "73ae51c60c757d3c9a612af77f47727949ab74371ed133f8646cbb50ebafd42f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-foucault-consumer-effects-before.json",
+      "sha256": "77bc6f6bd65b4e3662704098a47359bcc720f31dcc261955dec33a222cb77ecc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-foucault-consumer-hygiene-intake.json",
+      "sha256": "e34a2c3504a16c9f32290c14e201c8d7d17e3c58f4f5647d15319d1c75ca9d61"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-foucault-consumer-hygiene.json",
+      "sha256": "afeffa35b0d1a7b108defa8449f531c6e5ddc8a0bb07cda700d91076459c3245"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-foucault-consumer-read-reuse.json",
+      "sha256": "82aeea222cb0d6bb085c6936bb47b272fba5d897cfab1c67430670ab8bba4c2b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-foucault-consumer-release-packet.json",
+      "sha256": "2c9c2fecf49ba0e0bad5d9ffe326dcfedd8c8f4d2db9aa7721a39435a22dec12"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-foucault-consumer-return-proof.json",
+      "sha256": "a7f716ecccc348e902efcd09cf7e65ce2917f3e219e9938c8e248871cdeb54f9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-foucault-consumer-source-effects-before.json",
+      "sha256": "c7c7bec808e64026bc334bd4c2dabd559bb43a3b470870e2897de85139bacef9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-hypostasis-fanon-E-proposals.json",
+      "sha256": "3ae06c149d8bd1bec31ef7c0be3233c6b8798d4162b57d9c2f2374be7f097e37"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-hypostasis-fanon-consumer-before.json",
+      "sha256": "7d33dbc002b8ad50c323f618abbd6904a376ea4d8e636368e6165ddb190acbfe"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-hypostasis-fanon-consumer-changes.json",
+      "sha256": "516a7a520f86ec34d028adf111ba1b7036a363d74cb065f3fee66560ca5914cb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-hypostasis-fanon-consumer-closure.md",
+      "sha256": "2fe2a830abba759703ccc45ebca66ba6e07791e6f9f82e5a54089d32f9031ea1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-hypostasis-fanon-consumer-decisions.json",
+      "sha256": "1fe9d21ebe489e759cd41de3e26e54673bc772f2da3d3c6cfb6a9629d16bedb3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-hypostasis-fanon-effects-before.json",
+      "sha256": "8164770f3e52de14af137a02d169b2ae9ec53b6b1a2cc981b9a661b4866b5396"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-hypostasis-fanon-hygiene-intake.json",
+      "sha256": "5926a205300dbe896d213ef2f47e99382675ecf1500dd816ed0ff63bbb6496f4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-hypostasis-fanon-hygiene.json",
+      "sha256": "208a0e740a623f3fa20fc2021310e7d3ad5acb7acb366e72d71c90b8cb58727b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-hypostasis-fanon-return-proof.json",
+      "sha256": "f2e5e1beeb13c2a8b4e62d8308f978540502b072e18625c1097d24d516d81bc9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-image-R01-additional-effects-before.json",
+      "sha256": "0ad614ec8336f8647545cafb45fefc2eb80073b7e97969a5b33d99c953ff93b1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-image-register-consumer-before.json",
+      "sha256": "19aea04193e2a837f972b17353ad1422c7ad3cf75e7ec109030ef6d3efb872b7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-image-register-consumer-changes.json",
+      "sha256": "51cc307b2ffadfcff4db287394b779ad9ce6bac8c68ea8a7100dfd0efe5fe41d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-image-register-consumer-closure.md",
+      "sha256": "b70134fe70aa0002f9b06567097bab041e9526aee68ebe10ac4fca1e5cccbe6a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-image-register-consumer-effects-before.json",
+      "sha256": "a6955ea1399077d3531d1b029012439fea14c5af1d14b308f0ce19281eddc3ca"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-image-register-consumer-hygiene-intake.json",
+      "sha256": "fb9bd98ef9336403cbb8e3b8534b056abc07f54ea0f3e947319b976dd270f8f9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-image-register-consumer-hygiene.json",
+      "sha256": "6fae3f020b5cc0d3119286ff07a1c97e875fc07ea7a52748209ea34843371631"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-image-register-consumer-read-reuse.json",
+      "sha256": "c7ae44f0e8b6e46d54372e69e30b2ae281fcb31ebbf2347ff12f12f7ad98dc23"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-image-register-consumer-release-packet.json",
+      "sha256": "c0cf66e78f4180b69e0244b8b6fc5ab5c9cefec8272c824980f8239c241cbf26"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-image-register-consumer-return-proof.json",
+      "sha256": "4176b8575e57e85759241aa188661dff3b525cf4ed91b76bee40699baa6e17e6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-consumer-source-effects-before.json",
+      "sha256": "bfe88489d1c043600d1b859f8669394bf80ff4dd94bee2325deee8b17d1633cd"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-dossier-consumer-before.json",
+      "sha256": "35ce4eaca889ae30aaaf1fbf8a4f1193cd4aae0c831b056bcbaa40175a5441ac"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-dossier-consumer-changes.json",
+      "sha256": "f0102aa8c6a7f462a4488b1ffa3a9aff53a24b38c88d3bca711ee08a01d101b7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-dossier-consumer-closure.md",
+      "sha256": "b84a26d17a73fef8eda9c78b6163f688634250577bfe8d19f04164d27e769264"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-dossier-consumer-effects-before.json",
+      "sha256": "f9fe6f205d47448253394d0fe2fd02ed09c269b82ab712984a4f99ce0aa3a58a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-dossier-consumer-hygiene-intake.json",
+      "sha256": "2f4ec21a2dd9133382c8878bf588fa726904b5099776fd81363401303a9f4cf3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-dossier-consumer-hygiene.json",
+      "sha256": "1613d8974ffaf691bda12be74958ecbf9dbb679443aa7d1fb1669ab7f45b13b4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-dossier-consumer-read-reuse.json",
+      "sha256": "abf81c9e4c21c5a6d2e47e38928b507c42f259c0302617dd63534a536636b61f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-dossier-consumer-return-proof.json",
+      "sha256": "e5343612050e1c2d766f6e0d06443380dea808e87d28980c84f8c645f9eb55d8"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-history-consumer-before.json",
+      "sha256": "cbff725d0e3bed4ce65f7878f32ce754006f8bf3022ccdd4e7cef55abd690981"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-history-consumer-changes.json",
+      "sha256": "9f5eed8e55682780b11911dc06f9e35610871981ca1d65a238d36d5f0cf7dd03"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-history-consumer-closure.md",
+      "sha256": "6c91549124ca0d4faca84c26e9ce9a551dbc2af9d3a79f8963dd319db755e8de"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-history-consumer-effects-before.json",
+      "sha256": "72535abd8acffad8382d38f149e0457247aa193098282dd05c5460d72b428415"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-history-consumer-hygiene-intake.json",
+      "sha256": "6834b638d87690b60772987138bca4acff42d80a610c2aa6558f873730a2efcb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-history-consumer-hygiene.json",
+      "sha256": "df3da5fc46092acfaf7ce8b1b071cea5f3f43a962ac9a5cad119e218ae2a91f6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-history-consumer-read-reuse.json",
+      "sha256": "c52cb3e7a043e1eb0027bae5d652ad7fb72fe906fd6d47d7c093ca4c4418d69b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-indian-history-consumer-return-proof.json",
+      "sha256": "a0cc291567ad80c7e878032463e1c39dc715224dd77b64977eafbfd4acf1b60b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-jung-pauli-consumer-before.json",
+      "sha256": "ceaa8b003e2f87d42068f097663feb6406df3b37c39e0b48cd6e8ccaec4e1bc9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-jung-pauli-consumer-changes.json",
+      "sha256": "d19c370d1e2bbae63ac24fd594a114d8038eeaea4fad79a878a796bdb3f8d1d7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-jung-pauli-consumer-closure.md",
+      "sha256": "440aa511105ff24823d3475baba5e005a4416b50c76b7e26d41515a9009054ff"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-jung-pauli-consumer-effects-before.json",
+      "sha256": "7f9b454c254896206909eef37689157c1a5fcb0e03fd96aabe42376eb63883b5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-jung-pauli-consumer-hygiene-intake.json",
+      "sha256": "f532c1a883173ac3307014a1d121cc7fb1d9fce03430cd92dd01cef4db01e17f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-jung-pauli-consumer-hygiene.json",
+      "sha256": "05f9a4231e581667beef558917d7810393e431627a856ea6117668318471404b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-jung-pauli-consumer-read-reuse.json",
+      "sha256": "54c8674dada2bd1e0c253151908ac096e4effb72011fad3d7c25785e9e00989d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-jung-pauli-consumer-release-packet.json",
+      "sha256": "30923528fea1296e6160cf08682ae90739bbc390295c77a85d399ac86784ab56"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-jung-pauli-consumer-return-proof.json",
+      "sha256": "f2d014b1e32eb1b3fc40b07a11294eec6d9bfb1b629024baf57955229c908b52"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-jung-pauli-consumer-source-effects-before.json",
+      "sha256": "22dd621fd7b9797c1aded7d279922851b0e0877020185f4ddea340a98a821ef4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-history-consumer-before.json",
+      "sha256": "3aa817ece5015d98127aa57f239eef5920981c5c13e073bca3c4d45a0338257b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-history-consumer-changes.json",
+      "sha256": "52d28313c8742260d532944bd5099508f09a3b87c20e4c2d134d84a35390d70b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-history-consumer-closure.md",
+      "sha256": "b6ca6371632c15797fffb2c8cb94eabb9ec37b4cee5fa1213829c85fb6cee610"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-history-consumer-effects-before.json",
+      "sha256": "4f02bac56c1fcbe18a9c16c3c24fe7760171424550609ac852f40fc030015177"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-history-consumer-hygiene-intake.json",
+      "sha256": "7211c0e9cdf1981d170ebbb39c8954edc37ececb39b1538bc80fe3cec1fc7966"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-history-consumer-hygiene.json",
+      "sha256": "a7059af21b5a7e64313cde2d98b1100588b9016a77e48cdc1bec45e50590211e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-history-consumer-read-reuse.json",
+      "sha256": "b7db89e50d6ea0b14026c4e1d1bbe4eaf39bb994c25c0ecce337c988d05eb29b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-history-consumer-release-packet.json",
+      "sha256": "89029d7016e47ff8e397f5bb95e123096e6881e0a71e8179f594a5e2b15a8cdb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-history-consumer-return-proof.json",
+      "sha256": "d8d46d774fbcf348d4376cf7fef5d055a9e9a93ec2f68bb15f9622ef2ce12c4c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-history-consumer-source-effects-before.json",
+      "sha256": "b45aad100c53a4db11cae7232b74f905f89c27eca079c73516d620e86fe7703b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-history-parent-forward-proposals.json",
+      "sha256": "655aa11c190dbde87273da02d6474fb85624ab2e1faa56c8e30605c017ce6f52"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-law-admitted-consumer-source-effects-before.json",
+      "sha256": "c3b1eb40774210cbb3dc60cb86c676faf305c192e1f9759b4d0ffae0d0387d1d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-law-consumer-before.json",
+      "sha256": "7b2a74c9f05a6738462fabaa7a6f35d7f12b47ce4ca4e412ecd360c73b84b277"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-law-consumer-changes.json",
+      "sha256": "021acec1e5309a316e0c9f48fa00407384ce5dc5ad573569d22d7eb3384d0da4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-law-consumer-closure.md",
+      "sha256": "35bc64e6d78a8ce524c21bfabb912a27c36ae2cf55317879c0dace8e310ffc89"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-law-consumer-effects-before.json",
+      "sha256": "fc23c10b39dffce5a02500d06060726ee997f4fefb708447b5cee2cd4e19251c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-law-consumer-hygiene-intake.json",
+      "sha256": "47db4b2e9ba34d0853ed9a0b4d5210fdb225b677f0ac35a9ef1e27fbda3b67df"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-law-consumer-hygiene.json",
+      "sha256": "77fc7948a6dc95bebe949ff027ca05f3190316dfc37608f275bf5b373d05b866"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-law-consumer-private-source-read.json",
+      "sha256": "bf91fb3dd5b899111452d346aa50c730a7145b7f3d2941c919b62e0c85bcd3cb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-law-consumer-read-reuse.json",
+      "sha256": "6ac66443c119f9cd8243257becf37913716f8dd059f7ebcf1d4420975e373c9b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-law-consumer-release-packet.json",
+      "sha256": "8ffd297f3a61340ee8aa2b32b199d0501f2f0d6ec1f589ce9dbdb84667c8671a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-law-consumer-return-proof.json",
+      "sha256": "286cd72b2e79c84988da84e32aeab8a55f69b3cd925a16856c97ac5fe9c3e833"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-law-parent-carrier-delta.json",
+      "sha256": "d1123a38465f7d63e6766f9dfc679d4572c21a369676d7dd5865069e72f204af"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-language-law-parent-forward-proposals.json",
+      "sha256": "53b9fcd4271896fe4d3c047355cdf2efcc448e8e198ade68abafb0aa25ae11c5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-mathematics-consumer-before.json",
+      "sha256": "e7f81d69c2f165ed1fa0f82d90db04a75745bf9fd8dd6ec66126fd1fab2a9abb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-mathematics-consumer-changes.json",
+      "sha256": "f6396478d756664aeea1e34b59d06c1b87b4f9e5595f5c56ef3df6034fcff629"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-mathematics-consumer-closure.md",
+      "sha256": "1391b03b579c87f07594bbc815382f96f48c383ea467b9f4895f51e177d03d27"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-mathematics-consumer-effects-before.json",
+      "sha256": "c4aa7a58e88264dc542166965aef49837b070de02b29a2ce6e6ef67e74bedf09"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-mathematics-consumer-hygiene-intake.json",
+      "sha256": "1226626ffce47ed094524e3030ad079850464c72fa84fdc59e0d998544bd34c6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-mathematics-consumer-hygiene.json",
+      "sha256": "664d406d86c377b7895cc41b66a4cd015ceacfff8bb06590cbcec810c56b734e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-mathematics-consumer-read-reuse.json",
+      "sha256": "95a6e0511b1030adf138b6593c3bcf2d88ece0e1ae3c148b551340cce164e9a6"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-mathematics-consumer-release-packet.json",
+      "sha256": "8def288011d97f4ccb1d3da45c10b4ccad0b50b9cac527fe12fc268c9b667271"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-mathematics-consumer-return-proof.json",
+      "sha256": "17129391638c01bfeb95fe1cfc83d9e98d3b686d3a5dd7c03c4781132fdb1ba5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-mathematics-consumer-source-effects-before.json",
+      "sha256": "ec3fe777c870c0ef300fc9258f2deac6015e2d411cf50c885847d7f5ccc20ffa"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-C04-consumer-before.json",
+      "sha256": "80a74e6eaa90c71407be422d0872dfcd68d73f4491e262fe8d36daf3162c5329"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-C04-consumer-changes.json",
+      "sha256": "a6fde76d53d4c50317fb36ef722411a873bd34635abc7d625b3bc5aa50aa5197"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-C04-consumer-closure.md",
+      "sha256": "057db0c1fcba63dc7057853ed2f37c007d88df113b1a35ec5d3acdb37976df56"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-C04-consumer-effects-before.json",
+      "sha256": "cb91b94d952400d030061d38be6d50b2872fa5a3046d40c6573ae879b66312f3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-C04-consumer-hygiene-intake.json",
+      "sha256": "002cb8a7810065272e89d2f9ab5ec36ae0e8d462af07bf5bc616698c1a9987cb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-C04-consumer-hygiene.json",
+      "sha256": "f1994b66b6348535def3d78fd1cfb0413153e31c2ee891142a81f68f4e6efdb4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-C04-consumer-read-reuse.json",
+      "sha256": "cce2a380262ba9332298827d5df6051284969c93a3882eab4a282fded01659f3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-C04-consumer-return-proof.json",
+      "sha256": "f88d7d87bb086ed8939e28a5c30e6e21500b45596ccdcd8b7be402172c727178"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-C04-release-packet.json",
+      "sha256": "23207332562530e9ca7f2855f001ceea5e02775e3c14b80fda8b90400b700d56"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-consumer-before.json",
+      "sha256": "16c30a8027767a8febef5b078319ad7762f324e40a339793f0347142bcd952e8"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-consumer-changes.json",
+      "sha256": "ac083a8b4bb53f7cd0a075bd4800b473522453be58456515695106393d5d200f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-consumer-closure.md",
+      "sha256": "808960515ffc4702c8ed2fdf3928c34b66e2d9c8b3e57c775a0d0e7e20e13caa"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-consumer-decisions.json",
+      "sha256": "beb692bb94c0d042bc22c5b4bcd648c3a15f17b7db5c7e016c90e33f19da476d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-consumer-effects-before.json",
+      "sha256": "d2b3541f64de5730e621162669ca08db9ad96d9a21de4423c84fd7c5c04d0d43"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-consumer-read-reuse.json",
+      "sha256": "be7b4dda97def21cc6e85e8188987f7bd38ff879d4d3741835a8684493ebbb0d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-consumer-return-proof.json",
+      "sha256": "123e4860f4bceacc22ce988a3177b7536c1d7b5077e7afac5e03e87c5be41b36"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-hygiene-intake.json",
+      "sha256": "61a3df1d2dcc17f5caa0535bd050aa2ea01b3a295dc51f71bdaca54269279cd9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-hygiene.json",
+      "sha256": "1222b1f9de739cabb2dd285f15c74cbdaa505faf054c10ce31c4cb613b1a7a1b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-parent-proposals.json",
+      "sha256": "086deac21d005762a2c247deb12de1cb2d37230e31bfe6d04c3a26491676de36"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-maya-source-context-reuse.json",
+      "sha256": "702b16967e2a77d2844442f5655b96f26c0387e708bec2734d1f4e98e81e4a57"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-myth-history-consumer-before.json",
+      "sha256": "846f3e9b057c4b297417e455966b331ce2fcd9a39da3ad37da32133eb278ca6d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-myth-history-consumer-changes.json",
+      "sha256": "9c8feaecb61c505635cc54e3c281d31d2481a8160cee0b69cfff038b2f1952f9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-myth-history-consumer-closure.md",
+      "sha256": "be6a7a0ec2fd0001a18d8bd9efee212b55570fa55bc7bc2683c126234ef6ae56"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-myth-history-consumer-effects-before.json",
+      "sha256": "6055ac8b244e90851d8379d9a2cff02c5fb6d21c976abe8d6ac198b932cb4df3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-myth-history-consumer-hygiene-intake.json",
+      "sha256": "231f32f559e7975b83c5eb7cf62ecd40771d153ce38e46c3b4ba64435a557c89"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-myth-history-consumer-hygiene.json",
+      "sha256": "897b6649445fd32df725e9c64a87d5e2aaedc9d9ec7e3322045e177370030a63"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-myth-history-consumer-read-reuse.json",
+      "sha256": "2e49041ec9e93821145f040d7f6491cdcc1bbcfaa09424bcd27bfad5d660fc92"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-myth-history-consumer-return-proof.json",
+      "sha256": "9c600be2fddbbc37080e001307642a7928dca73a07b27845c285b667183b8aec"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-myth-history-consumer-source-effects-before.json",
+      "sha256": "710e6e36460f55eed68c6256aa872bd2aea6bba39bd04aa4098815b5fd5351ed"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-pauli-programme-consumer-before.json",
+      "sha256": "e277b0050604b764a2b671b824066b1750ef60202a363e411ef01c9994683b55"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-pauli-programme-consumer-changes.json",
+      "sha256": "bdfdcd4c7a3a052cdc3c2c01f9469878c40280893c5e43d73fe332ad833237d5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-pauli-programme-consumer-closure.md",
+      "sha256": "394b681169b564a31bd6904f9006228c1176ee4d811ff6ac4a3a8e3db548287f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-pauli-programme-consumer-effects-before.json",
+      "sha256": "c9fb5b5a7a81ab525772216736320f48630cb89517c2c3f80f673d65affe4fd0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-pauli-programme-consumer-hygiene-intake.json",
+      "sha256": "399f635fda9f1f6cee9912a6dbbe35c140574dcaebd2da771e7a320ff0d8851f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-pauli-programme-consumer-hygiene.json",
+      "sha256": "e737771448d858343e5a0d14af38782d1738a573f1a1f444a26233ccd09bea4a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-pauli-programme-consumer-read-reuse.json",
+      "sha256": "7da5adddce9fe22d5719ecaed147ef1ded4f71120b8395c60754e552162e3cc3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-pauli-programme-consumer-release-packet.json",
+      "sha256": "72494418e388a1e300c69a15ba677618bdc5581e2bed1da5c6cc3740281b286f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-pauli-programme-consumer-return-proof.json",
+      "sha256": "d1b339268860135bf915e270cb4979eff88bcefa4b2e41c6cd7c323f8619468e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-consumer-before.json",
+      "sha256": "3cc9bd4bf620a7e00a0f2e0069bb7ecbd7c32f1950832a77510f156f2d8e249d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-consumer-changes.json",
+      "sha256": "ac1a2ad113b0056c3ef3241b9f12bebb5d2168e1a82875f6cac4c2ae8422fba1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-consumer-closure.md",
+      "sha256": "cd3cda9c03e426d0c0c7d4ddf2980e71b3d38cd8006ae876065a954b7d460539"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-consumer-effects-before.json",
+      "sha256": "1b14aef24dbe4c0caca430625100caa3d55fb0558b1c65828802c3f6b5254d65"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-consumer-hygiene.json",
+      "sha256": "8176671b7aaff70fab49533370113813e3031002273cf6993b008aba2c639c75"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-consumer-read-reuse.json",
+      "sha256": "ddaa87051c3988597d170f2eef20bfe6114720d9305896060757ec391b9fb048"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-consumer-return-proof.json",
+      "sha256": "700dc917a1dd4642a5ba0920326ce1ddfae1d51486571354e62cd0f2dcd79845"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-hygiene-intake.json",
+      "sha256": "a64f3d206a4336fc56dcc700275545d3b43ee65d770858464d9539c92df6273c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-read-context-proof.json",
+      "sha256": "09b352793b036a5aa84056247947af2a2c02ccc020103a3fd7e18a4395137892"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-process-source-read.json",
+      "sha256": "b7232aa2ceaa45ae43ea98fa62d191186609b5afaf227a584b3543120addfd03"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-psychology-consumer-before.json",
+      "sha256": "e7d9f7695507b5e0fcee5ba5f8f340931b065eafbad0736ecce3960a2f1f1ae3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-psychology-consumer-changes.json",
+      "sha256": "d86439cdeae4dcefb2025a1b03cfd9182d355b6cdfe8957eead08e15f94b7f0e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-psychology-consumer-closure.md",
+      "sha256": "ccaec9c9fe623b0ec0fc7140cbdb2dbdfaa176f33d944ba8b38d924aa9c3ee76"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-psychology-consumer-effects-before.json",
+      "sha256": "38372793248ac4e71d8e92af4821e70816eb84259825ca43d0e94dde2a1667bd"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-psychology-consumer-hygiene-intake.json",
+      "sha256": "fcbcc8aa9bc2b3624fb1661e90e5eccf88c4950ce43ffc7c84668562dbe0c411"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-psychology-consumer-hygiene.json",
+      "sha256": "d49752b47f909035b4f89338e988417d6b54cbe87379a4a1aac1158006bfb83e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-psychology-consumer-read-reuse.json",
+      "sha256": "61508c42804998e01b97feb0930253449571babfc4bcad957cfa4be327f0ac1d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-psychology-consumer-release-packet.json",
+      "sha256": "ca2f0be51a6470c26b17fa298110604fd71f4a5878e9ffbcb2a3983ac9f46621"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-psychology-consumer-return-proof.json",
+      "sha256": "6eedaf300b3b0661baf7d4e689fa520e812aff20db2040cf99d783bd419f11c0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-psychology-consumer-source-effects-before.json",
+      "sha256": "f4ca916c40fd09e52d79a7bbb03044c2fdf7d1b65e9eaf15ec7f90f88f8db28d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-taylor-consumer-before.json",
+      "sha256": "8d690f4c8e6b98b696b6e0430f3de537d61eca58bd86f822a1bc41d5b4eb6ed9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-taylor-consumer-changes.json",
+      "sha256": "b5f474c5193d049cf0f069d58ea65f4795ea33449640e5f4723d15d740c6c0bd"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-taylor-consumer-closure.md",
+      "sha256": "f494c9ca9619b23353330ac657126bef12604e6244a4f5c763353ff589005739"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-taylor-consumer-decisions.json",
+      "sha256": "d93576b95b79a740853d0676a661df5282d32ed98a2265785dedeeafcd90387a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-taylor-consumer-effects-before.json",
+      "sha256": "a3089ee88f262a9db7aeb14d92ed19d7a3044cc13d45f7c6a9270a5299c27cc0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-taylor-consumer-read-reuse.json",
+      "sha256": "0ce3be6e03653f19888a03c35ba83684a7aaaece54d55b6929a0a45d93a44427"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-taylor-consumer-return-proof.json",
+      "sha256": "49f4a0d63234cd9bc329f620308ac155ad47f4447feae8c55eafd8d1ca7d1fd1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-taylor-hygiene-intake.json",
+      "sha256": "4504d66613097fe96a9c1e001e3663ca1d5284b622ba3fc5d0ad23c5c64cff64"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-taylor-hygiene.json",
+      "sha256": "e0b0bfa7ceb422d58124946b4f13f12ae6acbe0711efbe65fa2c25fcf2945550"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-taylor-parent-proposals.json",
+      "sha256": "5a9c1a9a459d5d7151f01643e3a909cda00a972d54069a9b3cde1065fa57d275"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-taylor-unit-semantic-coverage.json",
+      "sha256": "bfad6d9666de8f75888e7efb406b27b9f636b038a3e23e9633ba8eaa8d38e616"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-before.json",
+      "sha256": "2336175fb8d58d5c22957bfa27f83ac3d32ab4229c6e7d121cfd72f122a2ee5d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-E-proposals.json",
+      "sha256": "29e865aefdc78c3340af77c2756df1b9adba0993d5c46b5787a3b5240a4034eb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-arguments-1-hygiene.json",
+      "sha256": "680436fbb8be6ed646cb09572941e59c1b15e2b21ceb8ee6e7c9254d87a1f8c7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-arguments-1-targets.json",
+      "sha256": "3b020c3184d5ded2f670e414a1d6ec65b20b0b93db9e7e0957350095884e2da4"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-arguments-2-hygiene.json",
+      "sha256": "0946620952cc2da269583f576f19717e664ed66787ba2d7c38f91d6dec6f7d2c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-arguments-2-targets.json",
+      "sha256": "ede546922dcdd6327cb61596c85447e6b424504ae5388f62f6fc1576125e604b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-changes.json",
+      "sha256": "3f1655e5a4a6bb0930a4c52f6b9f96d80299c57dff7a5b0ac7bb36a5dd83bb5b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-closure.md",
+      "sha256": "1747e11c2d37bff798915b4eaade6eea94df45e7b4717fe03ba7c5d152bc0e33"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-concepts-hygiene.json",
+      "sha256": "4194249fd40f71543a2276318a400aaa78804b408480c94ae958d84d96a1a7e7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-concepts-targets.json",
+      "sha256": "ce6c05a512c46574662815485f5a00cf20df5986275bbbbbb09a9383fd2432eb"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-decisions.json",
+      "sha256": "20f51b174ca001f64e0365a5eaeb0d19d9091eebb602db5e25223030c597ed59"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-effects-before.json",
+      "sha256": "be3bf8306514ccc17d3c45def2a283fc0ea6dcce33d0129d013a98d16fd5d5c5"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-intake.json",
+      "sha256": "140e9d03b1bf2753ef064b7380838158296cceea2b199e8b0183ccc7cac2938a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-movements-hygiene.json",
+      "sha256": "c633dfe9f6ec8700af862913cc78849e04c95a8d79e042d41abb7769aacdbc0f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-movements-targets.json",
+      "sha256": "52a56726f401a24e82387c2c85ef57a5516d64ab6abb07b23f37b44c7e084641"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-placement-effects.json",
+      "sha256": "7afa324fe945951a6329f494755ebfec48f4ca6fca433f8942236704654fd728"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-placement-final-effects.json",
+      "sha256": "11b823e319114d9ce88dc865ad7a6379b15033fa93d5b738273bcf4bb60c4edf"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-placement-final-hygiene.json",
+      "sha256": "cfd048376fb09a44ffb0aab626a97ff2b02924c2f9e69669ba9da57da9632a46"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-placement-final-targets.json",
+      "sha256": "f512b743e301dc5a4815ce5efd9db4afc1ad9d08b221bf2276689e3c5ce56f57"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-placement-hygiene.json",
+      "sha256": "1218c6ebd906b3eab375504e89e2f36bf95f494a01b4c61904b9189e3cf198ec"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-placement-targets.json",
+      "sha256": "16c6f5950a59e63d62b8bec11481c3b6c5244776f68eb2791bd678f2242c1dbf"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-world-batch-03-integration-return-proof.json",
+      "sha256": "14ca0e3c9a0b83e3cb58145a486f10da8300725fcd260670b4431a8b39bb6d27"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-reception-consumer-before.json",
+      "sha256": "cb6088527e973a0a70ccabae2fd0fad8dbb69327e94471035d58aa16796d5c95"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-reception-consumer-changes.json",
+      "sha256": "6692372ae7987f67637c7a7e2a339bafd44d21605a195aa5b1f9aace188d0c14"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-reception-consumer-closure.md",
+      "sha256": "6e4bfec5138861d48f2b9665295d5a76767e2d6ea2675eada1d63e98b7fd5b34"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-reception-consumer-effects-before.json",
+      "sha256": "a229cd9774035fd3aefb43324f10fe35af6cd66ff5b49f1a868ed917a6517abd"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-reception-consumer-hygiene-intake.json",
+      "sha256": "daa161242a59a78803cfc04fcbfde6aab6cb6f6683a344a6fbd4557c85984250"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-reception-consumer-hygiene.json",
+      "sha256": "096d9a82f36cda8744c204105ab6ea28ea2bf694306a662eb793571dce4e0d53"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-reception-consumer-read-reuse.json",
+      "sha256": "d02a8c45d87c9fd4251c1f3e3682e250fcc694db8a0baa7df43a06c0b02b7463"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-reception-consumer-release-packet.json",
+      "sha256": "8488c287a1b05e9d4f65858f361a39523d150b11efad8a8368d7df3a72b731e1"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-reception-consumer-return-proof.json",
+      "sha256": "9ab2f8b00625e6b5a38aa90d412cf4ab4c4a06616f0ac436a2af302aa0ea725e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-reception-consumer-source-effects-before.json",
+      "sha256": "63303d5ec5368486086214a9137dbffccf57b7b9e1255ca22beed92b058b6636"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-subject-history-consumer-before.json",
+      "sha256": "d323ceac053ac93b0d051018f1a20ce05046cc99d93170a6243b76255abe2c4a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-subject-history-consumer-changes.json",
+      "sha256": "4d49abf183e63ecaa4a1936e27a8aa803f36b48de57f36ce1bf67cb20b4f72d3"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-subject-history-consumer-closure.md",
+      "sha256": "f10382c1b25e32f294f13e066ed79459a6a3157099ba16b5227218b5c9c2f421"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-subject-history-consumer-effects-before.json",
+      "sha256": "f497360deb2a5a6390bf2a37741bb34e1aa73f3884afca6ef20ec429f922f77d"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-subject-history-consumer-hygiene-intake.json",
+      "sha256": "a10ea51a831ee213eb954c1f77bc3ae7a32308d61d903fe2635049754f5301cd"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-subject-history-consumer-hygiene.json",
+      "sha256": "7e16b118e8a41131a54c1034f4a70740f9ea5d663a604ad68e0a5d05df91dcbe"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-subject-history-consumer-read-reuse.json",
+      "sha256": "b37c52d72d0779e1508aca11a3222b2e0c0668e8ba45004e365588e0edb1a20b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-subject-history-consumer-release-packet.json",
+      "sha256": "74c65b2a1d2f342c3b4cd18d56b890a13c62732b173899e12ecd074dfe96bc0b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-subject-history-consumer-return-proof.json",
+      "sha256": "74b00aa235decb55bfcf7bdeda395a2e8c4701dedb1a27fd7760b144c41d6721"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-subject-history-consumer-source-effects-before.json",
+      "sha256": "d7006d8def12526db87184582082f26bd206c0bda9e0c6be87a24e3069093a97"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-zero-subject-history-source-reuse.json",
+      "sha256": "8ae54f9df17b003a083c9822d519b7886b71773f88b34c3c299681d3a6e7d70e"
+    }
+  ]
+}

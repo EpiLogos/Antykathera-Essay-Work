@@ -1,0 +1,7 @@
+# T22 R01 subordinate-exemplar closure — 2026-09-08
+
+Four already-admitted subordinate exemplars restored in six appointed Arguments: Writing Pad A07/A26; hive/colony A12/A30; BwO A29/A30; dice A02. T22-R01-consumer-return-proof.json proves three bilateral Argument pairs and six resolved authorial-source routes, exact previous text reconstruction and no lost edges. Scoped hygiene6targets0; diff check pass;150 protected baseline unchanged. A02/A12 concurrent metadata additions were read and preserved in T22-R01-concurrent-metadata-refresh.json.
+
+Actual audit rows35/36/47/67, their bounded Q27/coplas source operations and all current consumer contexts were recovered. Full Taylor WHOLE reading reused with only four parent-forward additions as current delta; those additions change no exemplar or held flag. Q27 and copula effects precede writing. The Writing Pad source remains distinct from Freud’s Unconscious. Hive retains real local centres and capture risk. BwO retains full/empty/cancerous and the authored societal cancerous-full-body correction, without pure latent source or newly ratified constitutional organogenesis. Dice supplies a modal-semantic neighbour; P/P′ correspondence remains unratified. No new WHOLE, no quotation/source admission, no machine phenomenality claim.
+
+Exact changes, before/effects and read-reuse receipts share this prefix. Source debts remain separate from native claim standing. No protected/shared census/queue/manuscript/T23/T24 changes.

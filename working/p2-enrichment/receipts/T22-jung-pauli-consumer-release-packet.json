@@ -1,0 +1,28 @@
+{
+  "elements": [
+    {
+      "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md"
+    }
+  ],
+  "parent_proposals": [
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+      "old_exact": "These locators are notebook provenance, not independently checked public passages.",
+      "new_exact": "The [Jung–Pauli dossier](../dossiers/jung-pauli-psychoid.md) sources the now-recovered primary contexts in the consulted Princeton carrier: Pauli’s 60P and 62P, Jung’s 61J and 64J, and Pauli’s 74P. The selected Routledge edition and exact quotation wording remain separate collation tasks."
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+      "old_exact": "The house's pp.107/127/159 transcriptions remain source-matched notebook leads: selected-edition wording, speaker, letter/date and context require collation.",
+      "new_exact": "The house’s pp.107/127/159 transcriptions retain source-matched status. The dossier recovers their speakers and contexts as Pauli 60P, 31 March 1953; Jung 64J, 24 October 1953; and Pauli 74P, June 1957. Selected-edition quotation wording remains uncollated. Jung’s p.128 objection to disciplinary absorption and the p.159 criticism of ungrounded hyperspace models qualify the respective passages."
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "insert_text": "The [Jung–Pauli dossier](../dossiers/jung-pauli-psychoid.md) compares a historical receiving burden. In 62P (27 May 1953, pp.118–119), Pauli proposes that an adopting discipline must itself undergo the greater transformation; Jung rejects psychology’s absorption into physics in 64J (24 October 1953, p.128). The correspondence supplies a contested comparison, not evidence that this incorporation occurred. A technical translation answers the operational demand when the received distinction changes the apparatus and its failed consequences can revise the account.",
+      "insert_after": "[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE|Draft 3]] sources the vocation of an intelligence more exact through structural acknowledgment of its limit. [[submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE|Watson’s protected encounter]] adds durable inheritance across discontinuous acts: corrected products become conditions for later work. [[A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation|A35]] gives that continuing cultivation its orientation toward origins and affected lives. The inquiry remains capable of changing its own instruments without promoting the latest instrument into its ground."
+    },
+    {
+      "target": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "insert_text": "The [Jung–Pauli dossier](../../dossiers/jung-pauli-psychoid.md) qualifies number’s crossing by recovering separate offices: mathematical identity, described quantity and dream significance. Pauli’s June 1957 criticism of ungrounded hyperspace dimensions requires the mathematical relation to be specified before the psychological image is treated as its warrant. The operational homology retains its authorial standing while the particular historical comparison acquires its speaker and limits."
+    }
+  ]
+}

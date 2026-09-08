@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from Taylor's Epi-Logos vocation and ratified harmonisation; Greek Logos histories and Saiva Vak remain distinct comparisons"
+---
 # C51 — Logos / Epi-Logos
 
 ## #0
@@ -25,6 +30,14 @@ The [ratified quilt §2.3.6](../../../quilt/2026-08-02-PARALLEL-HARMONISED-QUILT
 In the technical register, the return must change what can be done with an account: inspect, contest, revise, delegate or refuse. C46 cultivates the means of knowing; C47 lets an Other change the model. Source records and traces provide a minimum body for that responsibility, while no architecture manufactures the relation it serves.
 
 ## #5→0
+
+
+Source-return must reach a materially relevant criterion or subsequent act; retaining the account alone does not perform that return; the [language history](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-account-return) **qualifies** this operational comparison.
+
+
+[the ancient-philosophy companion](../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md#ancient-source-return) **historicises** changing offices of account and **returns-to** the authored eros of logos through their specific conditions of transmission and use.
+
+[E3’s epilogos source return](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#epilogos-source-return) supplies this concept’s E-field return: articulated Logos becomes answerable to the source and encounter it articulates. The historical prefix branch, the project’s relational derivation and the phonic play retain their separate registers. Epi-Logos here names the return within the declared operation, including the eros of logos, without converting wordplay into ancestry or resolving the distinct pending Argument-candidacy decision.
 
 The work returns to use beyond its maker. Draft3's gift, cut cord and reader's remembrance place completion in another life rather than in the author's possession of a final definition. A36 gives the exact sign its symbolic return without cancelling mathematical integrity. Epi-Logos reopens articulation through the history and consequences of what it has already said.
 

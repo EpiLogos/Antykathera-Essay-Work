@@ -1,0 +1,11 @@
+# T22 language-history consumer closure — 2026-09-08
+
+Completed24/24 actual reverse returns;8/24 bilateral at this consumer barrier.16 absent carrier forwards are exact parent proposals in [T22-language-history-parent-forward-proposals.json](T22-language-history-parent-forward-proposals.json). Parent accepted responsibility for their landing. No bilateral completion is claimed for those16.
+
+[Actual graph and preservation proof](T22-language-history-consumer-return-proof.json) records all24 relations, exact prior-text reconstruction and zero lost previous edge objects. Carrier bytes and150 protected baseline files were unchanged at that proof. [Changes](T22-language-history-consumer-changes.json) preserve exact text/positions/hashes; [scoped hygiene](T22-language-history-consumer-hygiene.json) passed24 targets with0 failures. Scoped git diff --check passed. These are the completed barrier's observations, not a claim about later K/parent edits.
+
+Entire current carrier and writer/private proposals were read; all24 entire consumer contexts were recovered through saved full reads and every intervening delta, with M16 fully read fresh. Nine current canonical SOURCE houses fully read, depth4 effects in T22-language-history-consumer-source-effects-before.json; unchanged additional native/source context reused. Pind direct PSV translation, provisional fragment attribution and the apoha volume's secondary transmission stay distinct. Wittgenstein's later work still needs edition/passages; Lacan remains source-matched and Darmon supplies his own technical account. Bohm/SEED institutional and dialogue sources retain their separate scopes. No quotation upgrades, no native claim downgrade, no held promotion.
+
+A08 draft grammar corrected before landing in the own proposal packet; no previous canonical sentence was replaced by that correction. Each return retains the exact appointed operation and a resolved source-bearing section edge. E/SOURCE/carrier/root/Matheme/protected/shared census/queue/manuscript were not edited.
+
+All48 Movements, including the18 untouched technology appointments, are now exclusively released to Kierkegaard by T22-Movement-ownership-release-2026-09-08.md. This writer will make no further Movement edits. Remaining A/C batches continue; no global completion or T23/T24 claim.

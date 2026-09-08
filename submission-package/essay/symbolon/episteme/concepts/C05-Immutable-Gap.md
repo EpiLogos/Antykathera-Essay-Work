@@ -14,6 +14,10 @@ argument_consumers: [A01, A02, A03, A04, A17, A23, A27, A36]
 
 The Immutable Gap is the non-coincidence between a determination and its determining condition. Representing that condition makes another determination; the present act of representing has not become the object it presents. “Immutable” names the recurrence of this relation through enlargement. It does not mean that descriptions, instruments or lives remain unchanged.
 
+The [Formal Limit dossier](../dossiers/formal-limit.md#limit-and-recurring-gap) **compares** recurrent non-coincidence with limits whose formal permissions can change. Repairing an inconsistent collecting rule is a genuine achievement; the act making that repair still has conditions which a further account can represent. The recurrence here does not assert that every closed system is incomplete. It preserves the native act/content relation through successful enlargement while the particular mathematical witnesses retain their domains.
+
+
+
 [C04 — Formal Limit](C04-Formal-Limit.md) **grounds** the operation that produces the gap. C05 names what persists through its repetition. [C06 — Copula](C06-Copula-Identification-with-Difference.md) **qualifies** the result: non-coincidence need not mean severance. The terms can answer to one another precisely through the difference that their relation retains.
 
 ## #1
@@ -41,6 +45,8 @@ The lived consequence is more intimate than an observer remaining outside every 
 [A27 — Self and Other](../arguments/A27-Self-and-Other-Unity-without-Possession.md) **tests** this relation where another person answers. The Other's inclusion within the whole does not make the Other a possession of my account. [A17 — Toroidal Circulation](../arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md) **compares** a different retained difference: a local return can preserve travelled displacement on a covering space. That mathematical relation has its own proof. It does not identify a topological hole with the Subject.
 
 ## #5→0
+
+The [complete Investigation and Faith aphorism](../aphorisms/investigation-and-faith.md#complete-aphorism) **returns-to** the recurrence through determination and the continuing relation of faith. The gap survives inquiry’s actual gains because their present enactment is not exhausted by their account. The complete four-line form returns that distinction to inquiry and answerable commitment.
 
 [C09 — Diaphaneity](C09-Diaphaneity.md) **extends** the positive response: mediation becomes increasingly articulate without claiming to disappear. The account can expose its position, receive correction and change what it makes possible. Transparency is active return, not a final view from outside.
 

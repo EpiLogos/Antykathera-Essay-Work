@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from mature computational-vimarsa and reflective-field development; Saiva vimarsa and Offered implementation retain distinct offices"
+---
 # C43 — Computational Vimarśa
 
 ## #0
@@ -22,13 +27,15 @@ The returned product can change the shared environment and thereby the next acti
 
 ## #5→0
 
+Functional reflexivity **returns-to** [the Process dossier](../dossiers/process.md) through a traceable change in the source, state, evaluator or permission governing later processing. Repeated self-description leaves that operation unshown when the relevant condition remains insulated. C43 also **returns-to** [the Process-science companion](../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT.md) with the separation between two historical constructions: Varela’s 1975 autonomous third state belongs to an extended arithmetic with specified reduction rules; Maturana and Varela’s autopoiesis concerns a production network regenerating its components and boundary. Neither designation follows from a tool invocation or a self-reference alone. A formal QL comparison still owes its explicit mapping. The native operational homology remains available on evidence of changed processing, without treating it as proof of prakāśa or of the mirror’s complete vocation.
+
 The next cycle inherits a revised condition with the earlier passage still attributable. C40 supplies the judgment field and C45 tests whether the change is operationally discriminable. Trace inspection, context revision and reflexive return are real capabilities when observed. They neither establish nor negate artificial phenomenality, and they do not turn functional vimarśa into proof of prakāśa.
 
 ### Declared field
 
 **Argument consumers:** A14, A26, A32–A33. **Movement consumers:** computational-vimarśa, AHI, MEF and reflective-field movements.
 
-**Etymology relation:** any Sanskrit relation is evidence register **3 Operational homology** unless direct philology/textual warrant is separately cited. Consumed operation: reflexive return changes subsequent articulation. Return C43 → A14 → C45/A33 → C55/A32.
+**Etymology relation:** any Sanskrit relation is evidence register **3 Operational homology** unless direct philology/textual warrant is separately cited. Consumed operation: [reflexive return changes subsequent articulation](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field). Return C43 → A14 → C45/A33 → C55/A32.
 
 **Source/tradition standing:** live computational-vimarśa/AHI carrier primary for this authorial technical term; Śaiva vimarśa remains source-distinct.
 
@@ -41,3 +48,5 @@ Direct authorial/developmental carriers: [Objective Internality](../../../sectio
 Restore exact technical implementations and sharpen minimal criteria for computational reflexivity.
 
 **Depth Restoration: enriched; source/implementation debts retained.**
+
+The [Indian philosophy dossier](../dossiers/indian-philosophy.md#50--the-next-act-must-inherit-the-return) **tests** the complete inherited five-step procedure: selected/excluded field, disclosed evaluator and preference baseline, inverse reading, unsettled boundary and revised provenance entering the next act.

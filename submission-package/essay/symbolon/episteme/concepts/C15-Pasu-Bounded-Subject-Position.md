@@ -43,6 +43,10 @@ The comparison concerns inherited boundedness and situated action. Functional ag
 
 ## #5→0
 
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-measure-dream): The bounded knower **figures** an effective position formed through limited agency, knowledge, desire, time and order. Those contractions make a life capable of acting here rather than rendering it unreal. The author’s recognition-before-appropriation correction preserves the field within which paśu and its inner instrument arise. Return changes the bounded position’s source relation without requiring its differentiation to vanish.
+
+The primordial recognition and subsequent ego-identity have distinct offices in Taylor's correction. Bounded knowing remains a positive capacity within the field of recognition. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation). The paśu correction keeps bounded knowing within recognition rather than making ego identity recognition's origin. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-source-variants).
+
 [[submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD|Trust / Place / Logos / Nomos / Natio / Credere]] **grounds** the register3 relation to Topos: the place of an act bears its conditions and commitments. This is an operational relation, not Sanskrit derivation. A bounded position becomes answerable through the effects of its actual capacity.
 
 C15 **returns-to** C14 and C19: the horizon remains real while its source relation becomes available. Recognition leaves a particular knower able to act without claiming to be the origin of every condition of action. Situated responsibility carries the return into the next encounter.

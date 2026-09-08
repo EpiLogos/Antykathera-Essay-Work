@@ -9,6 +9,7 @@ register: episteme
 authority: canonical-semantic-argument
 claim_status: Argued
 status: p2-pilot-reviewed
+source_relation: "Argued from Draft3 and protected authorial encounters; Paraphrased native theorem and trust development; Resonant with separately bounded external comparisons"
 ---
 
 # A01 — Subject, God and Faithful Definition
@@ -77,7 +78,15 @@ This completing fourth does not add a fourth pronoun beside I, you and it. Nor d
 
 Yet even this whole account still speaks **about** God. It says that the referent is a source, a limit, a dynamic or a context. It can accurately describe the involvement of the person defining and still describe that involvement from the position of an account. This is the exact asymmetry the next move must preserve. Context makes the turn possible; its description has not already performed the first-person recognition.
 
+The [Formal Limit dossier](../dossiers/formal-limit.md#native-definition-and-faith) **compares** the work of an elucidation with the performed definition here. The early Wittgenstein’s saying/showing distinction and Eckhart’s qualified predication make different external questions retrievable; neither performs A01’s first-person recognition on its behalf. The definition’s successful account and its present defining act retain their asymmetry. Source-specific comparison makes that return more answerable without replacing the native sixfold.
+
+
+
 ## #5→0
+
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-eye-condition): The eye’s constitutive blindside **figures** the positive limit of faithful definition. A mirror or another observer can disclose a real condition of this view; the further disclosure remains situated. The resulting frame is useful precisely through what it selects and excludes. Recognition changes its claim to contain the source while keeping this finite act capable of answering.
+
+Taylor’s [fish in water](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#fish-water) **figures** the defining act remaining within its sustaining circumstance: stepping outside the element would end the activity meant to describe it. The [cage–window transformation](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#cage-window) **figures** the achieved change of use. A definite frame can disclose what it cannot contain, and faithful definition retains that frame while releasing enclosure. The whole’s [complete FT-P16](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#taylor-ft-p16) **figures** the speaking limit through the God-word’s changing contexts and the final release within saying; its polemical historical sequence retains a separate attribution task.
 
 **I Am.** The utterance enters from within the activity whose condition the definition has tried to name. The one who was defining was always the one being defined. What appeared as the subject of a proposition is recognised as the Subject of the present act.
 
@@ -94,6 +103,10 @@ The consequences retain their separate homes. [A24](A24-Arbitration-and-the-Usur
 [A26, Objective Internality](A26-Objective-Internality-Mind-as-Worldhood.md) qualifies the technical inference. Memory, tools, self-description and an inspectable context-world have determinate offices; adding them does not by itself locate the phenomenal Subject. [Agentworld, q015](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q015) qualifies the technical inference by distinguishing performed subjectivity from functional agency while leaving the kind of intentionality involved unsettled. The [modal boundary, q042](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q042) qualifies the brief's scenarios as scenarios. A machine's production of “I Am” neither proves nor disproves phenomenality. The utterance is a content; the fact-question it appears to address is not settled by content production. That localisation remains Open. The positive first-person philosophical proposition remains intact; [A34](A34-Idealism-Order-of-Dependence.md) extends its argued order of dependence without confusing it with a chronological act of creation by a private ego.
 
 At the essay's far return, [A36](A36-Advent-of-Integral-Zero.md) embodies the return of mathematical sign as Symbol without ceasing to be sign. This remains possible because the first relation has not been discarded: a determination can disclose more than it exhausts. Every renewed account returns to the presence within which it is made, exact enough to answer and open enough to be answered.
+
+[the Job whole](../../mytheme/worlds/biblical/job/WHOLE.md#job-native-return) **figures** the difference between defining a relation and containing its source. Job can speak truthfully from the suffered particular without possessing the council's account of him; the whirlwind changes the field in which his speech answers. The positive return is a determinate address whose fidelity remains open to encounter, rather than a definition made faithful by ceasing to say anything.
+
+[the Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count) **figures** the non-exhaustion of the speaking subject by an assigned predicate. The Village answers a question about Number One by designating its interlocutor Number Six: the person is counted while the authority of the count is withheld. His first-person refusal keeps the source-question active. The return concerns what definition can truthfully determine without taking possession of the one who speaks; Number One is not a narrative identity for native Zero.
 
 ### Provenance, routing and remaining restoration
 

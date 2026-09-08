@@ -39,6 +39,8 @@ The source-return must reach the institution holding the computational mirror. A
 
 ## #5→0
 
+The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-whole-return) **extends** its dependence question into planetary computation: what energy, labour, infrastructure and authority sustain a local capacity, and where can their consequences change its commission? The jewel’s brightness figures the received relation. Actual material flows and governance remain empirical inquiries.
+
 [[submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture|Cultural Individuation]] returns the infrastructure to the culture whose measures it exteriorises. [[submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins|Compassion]] gives the return its sensitivity to origins and affected lives. [[submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD|Apportionment / Economy]] supplies register-3 attention to who receives capacity, who bears cost and which office can alter that distribution.
 
 **Consumers:** A14, A29–A30, A32, A35–A36; Agentworld/AHI and M48. **Depth Restoration:** disciplinary horizon, four causal questions, distributed material/institutional dependence, recursive infrastructure and non-monopolising return restored from existing packets, the direct Planetary Computation carrier, QH and Bratton's source house. Detailed material chains and measured ecological outcomes remain research tasks; the Offered contribution is not a claim of deployed planetary governance.

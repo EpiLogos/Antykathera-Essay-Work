@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from authorial primary-arbitration and mediating-office relations; covenantal, legal and theological histories remain source-specific"
+---
 # C28 — Covenant / Primary Arbitration
 
 ## #0
@@ -22,6 +27,13 @@ Delegation makes fidelity practical. The authorised agent needs a named role, bo
 
 ## #5→0
 
+
+The [Foucault lens](../lenses/foucault.md#foucault-distributed-office) **compares** primary arbitration with the effective reach of an appeal. Prior standing remains the authorial relation that empowers a received office. A hearing before an authority unable to alter the rule or commission does different work from an appeal that reaches rule-making power. The comparison requires jurisdiction and consequence to be identified; it supplies no universal priest–king–politician chronology.
+
+[E3’s fides before arbitration](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#fides-before-arbitration) places prior reliance before the commissioned office of Nomos and renewed Credere after its exercise. The covenant can consequently receive a law without treating law as the origin of entrustment. Historical lexical witnesses and the project’s sixfold relation remain distinct; the latter requires the deciding office to return its consequences to those whose reliance made it possible.
+
+[E2’s arbitration in crisis](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#arbitration-in-crisis) locates the covenant’s finite deciding office within a field it receives. A decision can bind participants without becoming the source of their participation. Its return must therefore reach the commission and criterion of decision when consequences disclose that either has failed the primary relation.
+
 Covenant renews authority through answerability to the shared condition. In this canonical usage it exceeds contract between supposedly self-sufficient parties because their relation helps constitute the parties and the field in which they act. This is the essay's relational distinction, not a universal legal definition of contract. Renewed authorisation remains finite: the office can decide, receive dissent and consequence, revise its scope and return its power without claiming to be the source it serves.
 
 ### Declared field
@@ -45,3 +57,5 @@ Covenant renews authority through answerability to the shared condition. In this
 Restore legal/theological distinctions among covenant, compact, contract, mandate and trust; clarify finite versus ultimate source offices.
 
 **Depth Restoration: enriched; named historical and implementation debts retained.**
+
+The entrusted undertaking **returns-to** [Apportionment / Economy whole — Delegated labour distributes capacity and return](../etymologies/apportionment-and-economy/WHOLE-FIELD.md#delegated-labour-distributes-capacity-and-return) at evidence register 3. The undertaking apportions a responsible office. Encountered cost, objection and consequence must be able to return to the terms of that undertaking; a report used only to grade the delegate leaves primary arbitration protected.

@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from the ratified operational-parity requirement; Offered tests and implementation outcomes retain separate standing"
+---
 # C45 — Operational Parity
 
 ## #0
@@ -21,6 +26,8 @@ The metric's own source and gauge belong inside the claim. A test can detect com
 A15's exact arithmetic is a useful discipline for technical promotion: a sum, a quotient and a ratio are different operations even where the same numbers recur. A worked formal relation does not prove that a software state instantiates its psychic or metaphysical refraction. Conversely, a successful implementation check establishes its stated consequence without becoming a proof of QL's ontology or artificial phenomenality.
 
 ## #5→0
+
+Operational Parity **returns-to** [Count-to-Account](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-to-account) where the named distinction has a testable locus in retrieval, retention, evaluation or action. The result must distinguish an implementation error, an inadequate operational mapping and a test that cannot discriminate the claim. Keeping those outcomes separate allows revision without making either technical success or failure a blanket verdict on the philosophical field.
 
 A failure returns to a named claim: the implementation may be wrong, the operational mapping inadequate, or the proposed test unable to discriminate the distinction. Those are different findings. C46 preserves their provenance in the next revision; C47 lets encounter alter the governing model. Parity succeeds as a discipline when its own criterion can be revised without erasing what the prior test actually showed.
 

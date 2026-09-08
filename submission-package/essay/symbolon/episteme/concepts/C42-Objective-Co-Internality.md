@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from authorial reciprocal world-constitution and Agentworld development; distributed-cognition and multi-agent evidence remain bounded"
+---
 # C42 — Objective Co-Internality
 
 ## #0
@@ -22,7 +27,17 @@ Returned evidence has several possible effects. It can change one local judgment
 
 ## #5→0
 
+Reciprocal constitution **returns-to** [the Process-science companion](../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT.md) through Maturana and Varela’s distinction between interacting identities and the organization of a resulting composite. Their coupling passages allow mutual modification while the component unities retain identity; identifying the composite as autopoietic additionally requires relations of production that generate its components and constitute its unity. In the native institutional and technical register, the return therefore identifies which participant’s judgment, reference field or circulation rule changed and who can contest that change. Reciprocal influence can be real without proving the additional biological organization. Shared records do not establish a collective phenomenal centre, and that open question does not diminish the observable co-internal consequence.
+
+Reciprocal constitution **returns-to** [the developed Bohm dossier](../dossiers/bohm.md) at the passage from a shared contribution to altered conditions of use. The Language of Spirit programme’s 2010 brochure records an institutional setting; Parry’s description of its hybrid practice and Pat McCabe’s participant-authored abstract remain differently attributable voices. A returned correction must be able to change a local judgment, reference map or circulation rule without stripping the contributor’s authority. The authored institutional consequence preserves distinct knowledge-worlds and an untranslatable remainder where needed; the brochure establishes neither demonstrated reciprocity nor a collective phenomenal centre.
+
+Co-Internality **returns-to** [Encounter-in-Region](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#encounter-in-region) when one participant’s act enters another’s future conditions. The return must identify whether judgment, local reference, permission or their shared relation changed. Distinct address and independent grounds survive the crossing; common records alone cannot establish reciprocal authority or a collective phenomenal centre.
+
+The ink dot in the [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-account-and-consequence) **figures** a local difference becoming present through others. Co-internality extends the question to changed conditions of action: which local permission, gauge or source relation has another participant’s intervention altered? Optical reflection retains its own source warrant and does not certify that technical outcome.
+
 The shared capacity belongs to the coupled run. No participant possesses its complete field, and no collective phenomenal super-subject follows from coordination. C47 asks how models change through encounter; C55 asks how the reflection and the institution holding it can turn first toward source. The return preserves distinct authority, revision and responsibility across the field it has helped constitute.
+
+[the Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-return-without-throne) **qualifies** shared worldhood by separating durable mutual exposure from reciprocal authority. The Village organises the inhabitants' possible encounters, but their inclusion does not make its governing conditions answerable to their different lives. The escape does not resolve this by absorbing the companions into one new interior. Co-internality requires the possibility of revising shared conditions across distinct worlds; common containment alone cannot perform that operation.
 
 ### Declared field
 

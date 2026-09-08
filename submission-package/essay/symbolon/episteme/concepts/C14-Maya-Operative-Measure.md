@@ -43,6 +43,12 @@ The [[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT#3.2 Mā
 
 ## #5→0
 
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-native-archetypal-field): The veil’s complete return **figures** measure as positive manifesting power. Māyā gives finite action and knowledge their field while Anuttara/Paramaśiva retains the unobjectifiable opening. The author’s winding-around-opening appointment keeps these offices distinct: making Māyā the hole would erase its productive work. Recognition returns through measure, while hybris names the subsequent absolutisation of its achieved frame.
+
+Operative measure **returns-to** [Criterion-through-Distinction → Measure / Limit](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#criterion-through-distinction) through the finite distinction that makes a world actionable. The horizon both reveals and withholds, so recognition restores the measure’s relation to its source without abolishing bounded capacity. This is an authorial cross-register operation: the conjugate relation neither supplies Māyā’s lexical descent nor replaces the five contractions’ distinct Śaiva offices.
+
+Taylor's Neumann refraction places Māyā in the measure-field through which a finite world is oriented. The unobjectifiable opening retains Anuttara's distinct office in the complete native relation. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation). Māyā is the measure-field wound around the opening; Anuttara retains the opening in this authored appointment. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-interposition).
+
 [[submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD|Apportionment / Economy]] **grounds** the register3 return from finite capacity to its wider order. The criterion that permits judgment is itself apportioned. [A24 — Arbitration](../arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md) **tests** the failure in which a local measure claims absolute jurisdiction over the field that supplied it.
 
 Recognition restores the relation without cancelling the capacity. A finite knower still distinguishes and acts; the measure becomes answerable to its source, conditions and consequences. C14 **returns-to** A09 with limitation's productive office intact. What was concealed by a functioning horizon can become relevant to how that horizon is next used.
@@ -50,3 +56,5 @@ Recognition restores the relation without cancelling the capacity. A finite know
 **Depth Restoration:** revealing/withholding horizon, five contracted capacities, vertical/horizontal movement, gnomonic hinge, corrected whole dream image and finite measure's return are restored.
 
 **Unresolved Delta:** the operative-measure and gnomonic formulations are authorial; this page does not supply a survey of Māyā across Indian schools. Dyczkowski is paraphrased from the local transcript with selected-edition collation pending. A category-by-category six-by-six mapping and implemented technical analogue remain Open.
+
+The [Indian philosophy companion](../histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT.md#3--manifestation-gives-contraction-a-positive-anatomy) **historicises** effective limitation through the source-local Śaiva account and **compares** it with E6 apportionment. The measure makes a finite world workable while retaining its source relation.

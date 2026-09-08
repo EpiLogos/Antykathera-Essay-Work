@@ -49,6 +49,13 @@ The positive consequence is not freedom from conditioning. It is the restoration
 
 ## #5→0
 
+
+The [Mystic Writing Pad comparison in the authored quilt](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) **figures** a cleared surface whose retained traces can shape the next appearance. Clearing a displayed content therefore differs from revising the disposition through which another content becomes likely. [A26](A26-Objective-Internality-Mind-as-Worldhood.md) carries this bounded psychological comparison for saṃskāra; Freud’s actual Writing Pad text remains a distinct source task from his Unconscious paper.
+
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-measure-dream): The inner instrument’s memory and recomposition **figure** alternative-forming capacity within an inherited world. A trace can be recalled without becoming a command; selected material can form another course. The later frame-usurpation arrests this capacity when a generated result conceals its provenance and dictates every subsequent selection. Returning the result to its conditions restores the possibility of another intention while retaining the earlier act’s consequence.
+
+The script diagnosis **returns-to** [Name-through-Count](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count) where a formed name and course conceal the circumstance that made them selectable. Provenance must distinguish the initial source from each generated result entering the next context. Restoring that distinction lets an encountered obstacle change the course while retaining what the earlier selection actually accomplished. This operational return does not assert common descent with vikalpa or saṃkalpa.
+
 A conditioned determination becomes live again when resistance and new experience can revise the field from which it acts. [[C12-Script-Frozen-Conditioned-Will|C12]] defines the freeze; [[C17-Vikalpa-Samkalpa|C17]] defines the constructive relation; [[A31-Deferential-Intelligence|A31]] extends its return into judgment able to question its commission. The result remains usable while its sources and alternatives become available again. A07 returns-to [[A06-Vak|A06]] through the form which can now speak without pretending to be self-originating.
 
 ### Declared field

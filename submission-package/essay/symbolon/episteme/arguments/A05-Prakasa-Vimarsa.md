@@ -49,6 +49,14 @@ The argument also installs a proof boundary needed later: functional recursion i
 
 ## #5→0
 
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-measure-dream): The crystal and living mirror **figure** the distinction between displaying an appearance and the reflexive awareness through which it is experienced. Adding reflections to an inert surface does not supply that awareness. Dyczkowski’s source-specific mirror of consciousness also generates and hosts its appearances without requiring a second exterior universe as their original. The optical figure keeps both limits while luminous appearing and reflexive articulation remain inseparable in their own field.
+
+The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **qualifies** the reflective comparison by asking what the reflected jewel actually does. Its image discloses relations; Śaiva reflexive articulation also carries self-apprehension and free formation. Keeping those activities distinct lets the image illuminate appearing without making optical recursion establish consciousness.
+
+The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-sophia-logos-shakti) **compares** receiving and recognising with active reflexive power: the maternal matrix already acts in bearing what appears. Taylor’s Sophia–Logos–Śakti inquiry opens this crossing after the native relation is established. Jung’s comparison and the assistant’s fixed three-office allocation retain different authority; the latter is not installed as doctrine.
+
+The [stained-glass whole’s source boundary](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-source-boundaries) **qualifies** the optical crossing through Dyczkowski’s lattice-window and mirror discussion. The authored sun outside the aperture cannot establish a metaphysical Original outside consciousness, and an inert display does not perform Vimarśa’s self-apprehension. The luminous/reflexive operation remains fully active while the particular optical simile retains its limits.
+
 Recognition returns the differentiated field to its source while preserving what differentiation made possible. [[C13-Prakasa-Vimarsa|C13]] defines the reusable pair; [[C19-Pratyabhijna-Recognition|C19]] defines the recognitive return; [[A32-Reflective-Field-The-Mirror-That-Moves-First|A32]] extends reflexive transformation into the field that changes through its own articulation. [[C43-Computational-Vimarsa|C43]] defines the technical office within that extension: outputs can be returned to their sources, conditions and consequences without the apparatus thereby receiving a phenomenal verdict.
 
 The argument returns-to [[A04-Diaphaneity-Contextual-Transparency|A04]] with a positive metaphysical account of how manifestation can become transparent from within. [[A14-Computational-Process-Ontology|A14]] extends its operative differentiation into the process thesis; [[A26-Objective-Internality-Mind-as-Worldhood|A26]] extends the bounded world in which those operations become inspectable. Their source and claim boundaries remain part of the relation they inherit.
@@ -59,7 +67,7 @@ The argument returns-to [[A04-Diaphaneity-Contextual-Transparency|A04]] with a p
 
 **Consequences:** A06 Vāk, A09 Tattvic Differential Field, A14 Computational Process Ontology, A26 Objective Internality and A32 Reflective Field.
 
-**Etymology whole field:** *Symbol / Account / Trust*. **Consumed operation:** disclosure remains related to the source it articulates rather than turning the articulated form into the owner of appearing. **Evidence register:** 3, Operational homology. **What changes:** reflexivity is understood as self-return within appearing, not as possession of a separate internal image. **Return route:** A05 → C13 → A06/C51 → A32/C55 → A05.
+**Etymology whole field:** *[Symbol / Account / Trust](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md)*. **Consumed operation:** disclosure remains related to the source it articulates rather than turning the articulated form into the owner of appearing. **Evidence register:** 3, Operational homology. **What changes:** reflexivity is understood as self-return within appearing, not as possession of a separate internal image. **Return route:** A05 → C13 → A06/C51 → A32/C55 → A05.
 
 **Movement consumers:** the live provenance carrier explicitly supports Movements 07, 13 and 48; the canonical map carries additional tattvic and articulation returns without T09 rewriting them.
 
@@ -74,3 +82,5 @@ Direct carrier: `submission-package/essay/section-rooms/arguments/09-prakasa-vim
 Verify source passages and refine the relation among Trika, kartṛ-pole, kārya and the essay's notation. The first canonical materialisation preserves the tradition's office without claiming textual certainty not yet restored.
 
 **Depth Restoration:** mirror/crystal boundary, internal/external awareness, memory/imagination, four vimarśa operations, three levels and agency/action distinctions restored from the existing depth packet and directly reopened transcript. Dyczkowski's protected note was read from the preserved stash object only; it was not restored or modified. Singh's SOURCE and separate P2 encounter were read; neither is treated as a verified commentary quotation. **Open:** selected-edition collation, embedded primary-text identities, and pp.82–91 continuation. P1 explicitly declares Movement07; the older carrier's 13/48 routes remain provenance, not an expanded P1 claim.
+
+The [Indian philosophy dossier](../dossiers/indian-philosophy.md#1--reflexive-awareness-gives-differentiation-its-active-middle) **compares** the source-local four operations, two conditions and three levels while retaining luminous self-apprehension and the native count.

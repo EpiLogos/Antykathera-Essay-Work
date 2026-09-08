@@ -1,8 +1,17 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from native containing-field synthesis; logical, theological and scientific paradox witnesses retain separate operations and warrants"
+---
 # C64 — Paradox / Transforming the Containing Field
 
 ## #0
 
 Paradox names a contradiction or irresolvable tension whose determinations have genuine standing and whose resolution can require the containing field to change. The initial task is to recover each proposition, its operation and its register. A false attribution or invalid inference must be corrected before their collision is treated as productive paradox.
+
+The [Formal Limit dossier](../dossiers/formal-limit.md#russell-formation-and-repair) **compares** two precise changes in the containing relation. Russell’s type restriction or bounded separation changes the permissions which generated contradiction. Cusa’s polygon comparison retains each finite approximation while distinguishing the circle and theological maximum under their own respects. A new containing account must identify which rule or relation changed and what valid work survived. The sources therefore sharpen this hinge without making contradiction itself a universal warrant.
+
+
 
 ## #1
 
@@ -22,7 +31,11 @@ Symbolic paradox can change the interpreter's categories as well as the interpre
 
 ## #5→0
 
+The creature's retained opening changes what its containing account permits while keeping the local truth of its visible outline. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-interposition).
+
 The result carries changed relations and a changed capacity for the next act. It does not merely rename the conflict, average its poles or maintain endless oscillation. A35's return remains responsible to origins and affected others; A36 lets the exact zero-sign become Symbol again without losing arithmetic integrity. The test is what the transformed field now permits while preserving the local truths and limits that required its transformation.
+
+[Homologia / Analogia](../etymologies/homology-and-analogy/WHOLE-FIELD.md#relational-growth) **qualifies** the transformation through the exact respect in which both determinations survive. Projected closure and displaced lift belong to related spaces under a specified map; psychic reorganisation changes how a life can hold its tension. The latter does not acquire a covering theorem from the former. Each successful passage returns a changed capacity with its particular obstruction still intelligible. A misidentified operation requires correction, while a preserved local truth remains part of what the enlarged relation must carry.
 
 ### Declared field
 

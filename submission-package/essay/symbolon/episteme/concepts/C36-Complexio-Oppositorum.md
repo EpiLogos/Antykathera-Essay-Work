@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from native containing-field synthesis; Jungian and theological complexio accounts retain separate source tasks"
+---
 # C36 — Complexio Oppositorum
 
 ## #0
@@ -23,6 +28,8 @@ At the personal and ethical seam, common inclusion does not make the Other a pos
 ## #5→0
 
 The return keeps the attained determinations while changing how they belong. C64 names the transforming event; individuation is a sustained lived process of such returns. The resulting whole is more capable of bearing difference because the terms and the account of their relation can both be revised. It is neither a final synthesis that owns its contents nor an endless oscillation with no changed capacity.
+
+[Homologia / Analogia](../etymologies/homology-and-analogy/WHOLE-FIELD.md#e5-whole-returns) **qualifies** containment by following the change in each carrier. A psychic encounter changes the organisation through which opposed determinations can be borne; an atlas relates chart descriptions; a lifted torus loop retains a winding class. Their common respect is a relation that sustains difference through a changed account. Neither the number of diagram positions nor a shared image establishes an identical mechanism. The achieved psychic capacity remains the authorial operation here, with historical phrase attribution and particular clinical effects separately answerable.
 
 ### Declared field
 

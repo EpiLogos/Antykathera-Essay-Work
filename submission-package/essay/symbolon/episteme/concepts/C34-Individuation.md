@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from native differentiated indivisibility and Symbolon Dynamics; Jungian individuation and Saiva recognition retain distinct warrants"
+---
 # C34 — Individuation
 
 ## #0
@@ -21,6 +26,8 @@ The source encounter follows known→unknown→known. The unknown unsettles the 
 Enough integrity must remain for the person to persist and enough openness for the organisation to change. Integration, reconciliation and recognition mark related but different operations: agencies can be coordinated, a conflict resituated, and provenance recognised without being fused or erased. The Self is neither the largest complex nor an executive that abolishes the autonomy of the others. C36 holds the containing relation when opposition cannot be settled within the existing frame.
 
 ## #5→0
+
+Individuation returns to [E2’s resolution in reconciliation](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation) where reconciliation preserves differentiated participation instead of installing the ego as its author. Recognition, integration and reconciliation have different offices within this movement. Their connection here is the project’s relational derivation; neither the Greek recollection branch nor the Sanskrit comparison makes Jung the source of Taylor’s native known–unknown–known operation.
 
 Recognition returns the achieved differentiation to its sources and history. Greek anamnesis, Śaiva pratyabhijñā and Jungian individuation remain distinct traditions; their operational relation is recollective transformation rather than a shared philological origin. C59/A35 carries the cultural extension, where the same demand must preserve persons and dissent without inventing a collective ego that owns them. The returned life can judge and act with more of its conditions acknowledged.
 

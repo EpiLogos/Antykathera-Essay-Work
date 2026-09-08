@@ -10,6 +10,7 @@ register: episteme
 authority: canonical-semantic-argument
 claim_status: Argued
 status: p2-developed-awaiting-batch-review
+source_relation: "Argued from native copula derivation and protected Kripke/Watson encounters; Paraphrased core theorem and Definition of God performance"
 ---
 
 # A02 — Copula / Self-Identity through Difference
@@ -76,6 +77,12 @@ The fourth still permits an account *about* this unity. [A01](A01-Subject-God-an
 
 ## #5→0
 
+
+The [copula quilt’s dice example](../../../quilt/copula-derivation-chain-and-resource-pools.md#c13--worlds-are-states-of-experience-reified) **compares** thirty-six stipulated outcomes of a pair of dice while retaining which dice are being varied. Counterfactual states do not require inspecting additional worlds through a telescope. This is the admitted modal-semantic neighbour of name, instance and circumstance; the further dice-to-P/P′ correspondence remains explicitly unratified until its mapping is derived.
+
+
+[The language companion](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-practice) qualifies the practice comparison while preserving the native name/instance/circumstance derivation and Count’s constitutional priority.
+
 **The identification must be mine.** The native personal circuit makes the turn explicit:
 
 $$
@@ -97,6 +104,8 @@ The limit-name becomes self-sublimating: it directs attention to the act of self
 The account also returns to its own accountability. What it counts, the marks it attaches, and the circumstance that lets those marks matter become available for renewed judgment. The [Homologia / Analogia whole field](../etymologies/homology-and-analogy/WHOLE-FIELD.md) qualifies cross-register sameness by requiring the operation and respect of comparison to be stated. [C63, Focal Return and Qualified Predication](../concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md), defines that discipline; [A34, Order of Dependence](A34-Idealism-Order-of-Dependence.md), extends it where sameness and priority differ by register. These are operational relations at evidence register 3, not a common-descent claim or an assertion that every tradition means the same thing by “is.”
 
 The copula returns as the relation already enacted in the first assertion: exact enough to identify, open enough for the identified to answer through difference.
+
+[the Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count) **figures** the copula's passage between an assigned identity and first-person address. The Village's designation identifies a position within its field, but Number Six's reply refuses to let that predicate exhaust the speaker. The designation and the refusal belong to one encounter without becoming equivalent accounts of it. This retains the distinction between the efficacy of naming and the source of a name's applicability; it attributes no native notation to the programme.
 
 ### Source standing and restoration
 

@@ -45,6 +45,12 @@ Dyczkowski p.74 gives four acts: consciousness negates its own nature, identifie
 
 ## #5→0
 
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-measure-dream): The crystal comparison **figures** why a display and awareness of that display have different offices. Dyczkowski’s living mirror has reflexive self-apprehension and creative articulation; an inert reflection lacks that experience. Consciousness’s own appearances also require no second exterior original within the Śaiva account. This source-specific contrast preserves the pair’s inseparability without using optical recursion to certify a machine subject.
+
+The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **compares** luminous reflection with appearing and reflexive articulation at a specified boundary. Seeing the others within a jewel does not itself perform the retention and self-apprehension borne by vimarśa. The source-specific powers remain inseparable in their own field while the jewel supplies a bounded image of disclosed relation.
+
+The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-sophia-logos-shakti) **figures** a receiving matrix whose bearing and recognition are active. This permits an authored comparison with luminous appearing and reflexive power while Christian maternal reception and Śaiva metaphysics retain distinct sequences. The provisional Sophia–Logos–Śakti allocation does not replace their source-specific accounts.
+
 [C43 — Computational Vimarśa](C43-Computational-Vimarsa.md) **tests** a narrower functional comparison: a system can inspect, retain and revise its determinations. The inspected functions are real operations; their presence does not establish prakāśa or settle whether the system has an unobjectifiable subject. C13 supplies the distinction which makes that research precise.
 
 [[submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|Symbol / Account / Trust]] **grounds** the register3 return: articulation remains answerable to appearing instead of allowing a detached account to occupy its source. C13 **returns-to** A05 with the two inseparable powers differentiated, and to C19 with recognition's direction preserved. The articulate result can disclose its relation to the act through which it became known.

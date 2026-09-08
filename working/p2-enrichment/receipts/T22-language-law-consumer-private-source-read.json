@@ -1,0 +1,26 @@
+[
+  {
+    "path": "working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/reich-citizenship-1935.txt",
+    "sha256": "a7040cf53de199519d2d0585e829403ee924988d64945f99ae9ea7345301bc07",
+    "read_scope": "Full GHI English instruments,3 PDF pages; no German facsimile collation",
+    "canonical_source_house": "unresolved private proposed ID; parent admission debt"
+  },
+  {
+    "path": "working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/paperclip-1946.txt",
+    "sha256": "47014b613c41728b8f43394cc7ae31c6be11f6b387317dc9b6d25b4c0055dac5",
+    "read_scope": "Cover memorandum and enclosure2a–b, including screening clause; navigation excluded",
+    "canonical_source_house": "unresolved private proposed ID; parent admission debt"
+  },
+  {
+    "path": "working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/gehlen-records.txt",
+    "sha256": "13531450c5da420261ac6876712aed6bbd38bbf77844ceb17d0f266b6781a561",
+    "read_scope": "Complete2000 archival announcement, not released archive",
+    "canonical_source_house": "unresolved private proposed ID; parent admission debt"
+  },
+  {
+    "path": "working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/perdomo-2020.txt",
+    "sha256": "94295b11c3ab0e6cb124f4df6b4c944069cf099513299d5c221332f9a4508935",
+    "read_scope": "Proceedings abstract and bibliography only, no full paper/proofs",
+    "canonical_source_house": "unresolved private proposed ID; parent admission debt"
+  }
+]

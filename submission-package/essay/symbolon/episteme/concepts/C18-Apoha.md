@@ -43,6 +43,13 @@ The [[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT#16. Bud
 
 ## #5→0
 
+
+Qualified preclusion does not reduce its referent to mere negation; Pind’s wording is verified while fragment attribution remains provisional; the [language history](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-exclusion) **qualifies** this historical attribution.
+
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-eye-condition): The aperture **figures** the exclusion through which something definite appears. Recognising the withheld relations preserves that productive cut, while exposing a later frame’s unwarranted claim to determine everything real. The image returns this distinction to apoha without replacing its source-specific semantic operations by a camera model or equating constitutive exclusion with missing data.
+
+Choosing the southwest jewel in the [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **figures** a determination that retains its constitutive field. The comparison preserves the difference between semantic non-application in apoha and recursive inclusion in the Huayan image. Their authored braid can carry a selected positive without cancelling the distinct work of negation.
+
 [C40 — Model Internality](C40-Model-Internality-Judgment-Field.md) **tests** a technical account of selection. Relative scores, a normalised distribution and a selected output preserve different information. A bare chosen mark cannot show the alternatives or threshold which materially constituted its choice. The analogy concerns selection and retained context; it does not make normalisation a Buddhist semantic theory.
 
 [[submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter / Region / Name / Count / Account]] **grounds** the register3 return: the Name is counted against a Region of non-selected possibilities. [C45 — Operational Parity](C45-Operational-Parity.md) **tests** whether retaining a relevant exclusion changes judgment or action. C18 **returns-to** A08: the mark remains determinate while the relation through which it means can be recovered and revised.

@@ -1,0 +1,7 @@
+# T22 — Investigation and Faith, A03/A23 return closure
+
+Completed 8 September 2026 after the E1/E2/E3 return landing. Two additions, only A03 and A23. The complete aphorism and both complete arguments were read; the saved development receipt and prior C04/C05/M04 closure supplied the exact licensed operations. A03 returns actual investigative gain through recurrent act/account non-coincidence. A23 returns conscious continuation through a named, revisable undertaking, including correction and withdrawal. No line of the four-line form was rewritten or extracted into a new identity.
+
+`T22-aphorism-A03-A23-before.json` and `...-changes.json` retain full texts, hashes, old edges and exact insertion offsets. `...-return-proof.json` proves both actual bilateral graph pairs, complete prior text and edge preservation, and the unchanged aphorism hash. A03's newly landed E3 paragraph is included in and preserved by this separate baseline. The shared E123 effects-before receipt includes A03, A23 and the aphorism before both bearing edits. Bounded `...-hygiene.json`: two targets, zero failures.
+
+This closes the two requested remaining argument returns; it does not claim global aphorism navigation, E-field or manuscript completion. Historical lexical and theorem-source debts remain with their owning arguments and fields. No SOURCE, E field, protected concept or Movement was edited by this small batch.

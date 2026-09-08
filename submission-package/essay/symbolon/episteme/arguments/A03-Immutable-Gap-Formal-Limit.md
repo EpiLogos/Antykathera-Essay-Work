@@ -60,9 +60,30 @@ The formal-limit genealogy has the same obligation of grain. No theorem about on
 
 ## #5→0
 
+
+The [mathematics history](../histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#2--a-generator-has-an-exact-domain) **compares** this operation. Typed formation, derivability under a theorem’s hypotheses, and the Tractatus’s saying/showing distinction impose different limits. A repair of admissibility does not prove or refute an incompleteness theorem, and neither performs the present determining act. The historical witnesses sharpen the comparison while the native gap retains its own argument.
+
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-eye-condition): The eye’s return upon its condition **figures** non-coincidence within the act of disclosure. Recovering an overlooked condition adds determinate knowledge, and that recovery occurs through a further situation of seeing. The gap therefore cannot be identified with anatomical blindness or missing information. The image returns the performed limit to this argument while its mathematical witnesses retain their stated laws.
+
+The inquiry **returns-to** [the complete Investigation and Faith aphorism](../aphorisms/investigation-and-faith.md#complete-aphorism) with its actual gains intact. Each newly included condition becomes determinate through an act that the resulting account does not exhaust. The complete four-line form holds this difference between approachable investigation and recurrent non-coincidence; the argument supplies its performed operation and keeps every mathematical comparison under its own laws.
+
+The [Formal Limit dossier](../dossiers/formal-limit.md#limit-and-recurring-gap) **qualifies** this return through the difference between a particular formal constraint and recurrent act/content non-coincidence. Its [Russell construction](../dossiers/formal-limit.md#russell-formation-and-repair) **compares** a repair to formation and substitution permissions; its [Gödel account](../dossiers/formal-limit.md#godel-relative-unprovability) **compares** an admissible sentence’s derivability relative to a specified theory and hypotheses. Successful repair and continued incompleteness have different consequences. Neither turns the native determining-act argument into an arithmetic corollary; the complete aphorism retains its own performed return.
+
+
+
+The placing act **returns-to** [Topos — situated return](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#topos-situated-return) when it attempts to include its own conditions among what is placed. That inclusion gains determinate content and occurs through another situated act. The semantic office of place therefore enters the argued non-coincidence without proving it by etymology; a changed formal container still retains the laws of the operation it permits.
+
+The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-mathematical-witness) **compares** the condition of representation with the box-lid whose rule determines every fit. Making that rule visible produces another situated determination. Coordinate failure has its own mathematical explanation and does not prove the native immutable gap; the gap retains the independently argued scope of this node.
+
+The representable mouth figures an opening whose originating condition remains unexhausted by another representation. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-metabolic-fork).
+
 The return is first-person recognition in the performed definition, and answerability in every further account. The reader who followed successive representations is still the one for whom those representations appeared. A03 returns-to [[A01-Subject-God-and-Faithful-Definition|A01]] at that point; it grounds [[A04-Diaphaneity-Contextual-Transparency|A04]] in the positive demand that context become visible through determinations. A total database can still conceal the deciding of what counted as data. Diaphaneity makes that deciding available without promising one final object which captures all its conditions.
 
 The limit also grounds [[A23-Trust-Faith-and-the-Formal-Limit|A23]]: continuation requires a lived relation which certification cannot manufacture by certifying itself. It returns-to [[A36-Advent-of-Integral-Zero|A36]] as the sign's capacity to become Symbol again while retaining its exact use. The opening has become a route of return rather than a vacant place to be occupied.
+
+[the Job whole](../../mytheme/worlds/biblical/job/WHOLE.md#job-native-return) **qualifies** the comparison between encountered limit and formal limit. The reader knows a council which Job does not know; that asymmetry could be remedied by further information. The native gap would remain, because a fuller representation still acts within a field it does not exhaust. The whirlwind figures changed knowing without supplying the proof of this continuing act–representation distinction.
+
+[the Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count) **qualifies** the figure of an absent source by distinguishing concealed information from the formal gap. Number One's identity is withheld within the story and later dramatised in the encounter with Six's own face. That revelation cannot make a representation contain the act through which it represents. The series gives the source-question narrative pressure, while the continuing formal distinction retains its own derivation.
 
 ### Declared field and provenance
 

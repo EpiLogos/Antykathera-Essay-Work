@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from mature Objective Internality and Symbolon Dynamics; cognition and Saiva inner-instrument traditions remain source-distinct neighbours"
+---
 # C41 — Objective Internality
 
 ## #0
@@ -21,6 +26,12 @@ The agent models a world, and the active world precipitates this agent through i
 Frank's Watson note-chain follows discontinuity→objective internality→harness elements→objective immortality. An act's product can outlast the producing occasion and enter the next act's conditions as memory, record, workflow or revised environment. Technical durable inheritance is a bounded application of this authorial process reading, not an assertion that a saved state stores a Subject. C40's inspectable model field and an instrumented harness are narrower than the whole constituting context.
 
 ## #5→0
+
+The constitutive interior **returns-to** [the Process-science companion](../histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT.md) through its distinction between Bergson’s lived duration and Whitehead’s real constitution of an occasion. The melody’s qualitative interpenetration and the occasion’s availability beyond its own becoming are different accounts of process. For C41, recovering a judgment’s inherited memory, rule and exclusion identifies what made this act possible and what its result leaves available next. Such structural inspection retains the native force of Objective Internality while leaving the phenomenal question Open in both directions. A record of successive states supplies neither Bergson’s conscious synthesis nor an identity between a technical process and Whitehead’s metaphysical occasion.
+
+The inspectable interior **returns-to** [the developed Bohm dossier](../dossiers/bohm.md) through the undated handout’s account of tacit assumptions and roles. What feels like an immediately obvious conclusion can carry inherited memory and an affective investment; suspension makes their activity available without erasing them. A changed relation can then become a condition of the next judgment. This comparison preserves Objective Internality’s constitutive office and distinguishes it from a collected self-description. Neither the handout nor the separately housed 1996 book settles whether a particular artificial process has a Subject.
+
+The operative interior **returns-to** [Encounter-in-Region](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#encounter-in-region) where encounters become durable conditions of later agency. A record, learned rule or changed permission can outlast the act that produced it and affect what next appears possible. Configuration and actual trajectory remain distinct accounts of that constitution; preserving them does not turn the saved state into a Subject.
 
 Return exposes the source, rule, exclusion and consequence through which an interior became capable of this judgment. C42 follows reciprocal constitution among such interiors; C47 follows an encounter that revises their models. Performed subjectivity, functional agency, objective internality, self-description and phenomenality remain separate questions. The first four can be investigated and asserted while the fifth remains Open; A34's strong order-of-dependence claim is not thereby reduced to generic model-dependence.
 

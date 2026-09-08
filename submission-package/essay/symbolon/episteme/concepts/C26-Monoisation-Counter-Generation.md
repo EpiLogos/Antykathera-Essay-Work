@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from native Mono-Poly and source-office grammar; political economy remains a distinct application"
+---
 # C26 — Monoisation / Counter-Generation
 
 ## #0
@@ -22,13 +27,17 @@ Coordination, temporary arbitration and delegated authority remain necessary off
 
 ## #5→0
 
+Taylor's nourishment/Saturnine fork distinguishes assimilation that renews generation from consumption that blocks it. The body's taking becomes counter-generation through what it prevents from emerging next. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-metabolism).
+
 The return retains differentiated powers and their shared conditions. It does not defeat one monoculture by enthroning its counter. A12's candidate `(1)` pictures a local determination enclosed by its forgotten condition; restoring that relation lets polarity remain real without becoming war. C54 gives this relation institutional pressure: set terms, refuse, revise, leave and reconnect without losing every route to shared life. An apportioned office returns its work and effects to the economy that sustains it.
+
+[the Job whole](../../mytheme/worlds/biblical/job/WHOLE.md#job-protected-account-return) **figures** monoisation when a partial account of justice takes the office of the whole. The friends repeatedly translate Job's contradiction into confirmation of the same judgement, arresting the return by which the shared moral world could change. Their rebuke and Job's intercession reopen that relation. The operation concerns an account's claim to final jurisdiction; it does not condemn unity or judgement as such.
 
 ### Declared field
 
 **Argument consumers:** A12, A18, A24, A29, A34–A35. **Movement consumers:** Mono/Poly, politics-of-count, commons and idealism movements.
 
-**Etymology relation:** *Apportionment / Economy*; negative operation: an apportioned office treats its share as ownership of the economy that apportioned it. Register **3**. Return C26 → C49/A12 → C54/A29 → C26.
+**Etymology relation:** *Apportionment / Economy*; negative operation: an apportioned office treats [its share as ownership of the economy that apportioned it](../etymologies/apportionment-and-economy/WHOLE-FIELD.md#power-becomes-finite-by-apportionment). Register **3**. Return C26 → C49/A12 → C54/A29 → C26.
 
 **Source/tradition standing:** authorial QL/Mono-Poly grammar primary; monopoly/political economy supplies a later practical refraction.
 

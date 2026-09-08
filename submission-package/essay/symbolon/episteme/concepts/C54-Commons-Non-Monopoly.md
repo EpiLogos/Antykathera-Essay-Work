@@ -40,6 +40,10 @@ Bratton's [[submission-package/essay/symbolon/episteme/sources/media-technology-
 
 ## #5→0
 
+The commons **returns-to** [Nomos — answerable office](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#nomos-answerable-office) through rules that its affected members can make and revise. Prior reliance gives shared action a beginning; an examined arrangement supports renewed entrustment without making the arrangement its own origin. Belonging must therefore retain how standing was granted and whose participation can change the terms of combination.
+
+The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-whole-return) **tests** the commons comparison at the point where shared dependence meets local authority. A participant must retain powers to set terms, refuse, revise, leave and reconnect. The jewels’ mutual implication gives the relation a whole image, while those practical powers require their own institutional embodiment.
+
 A commons returns the means of relation to the lives and work which sustain it. Rules can be revised; participants can retain difference; an achieved account can be challenged without first granting the account sovereignty over its challenger. These conditions protect the possibility of trust. They do not manufacture the lived relation by recording it.
 
 [C59 — Cultural Individuation](submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md) **extends** the passage from institutional arrangement into a culture able to recognise its own images and exclusions. [A35 — Compassion / Vocation](submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md) **extends** the care which keeps origins consequential. C54 **returns-to** [A12](submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md): shared unity remains effective through genuinely many offices, each retaining a source-relation it cannot monopolise.

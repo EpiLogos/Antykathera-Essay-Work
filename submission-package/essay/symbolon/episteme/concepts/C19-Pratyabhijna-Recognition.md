@@ -50,3 +50,5 @@ C19 **returns-to** C15 and A21: the bounded life remains particular, the achieve
 **Depth Restoration:** memory/recognition distinction, contraction's return, native x→X→x, known→unknown→known, reciprocal interpreter change, resolution-in-reconciliation and practical release are restored.
 
 **Unresolved Delta:** selected-edition collation remains pending for Dyczkowski and Van Eenwyk's copied note passages. Cross-tradition recollection/awakening/reconciliation distinctions require their own passages wherever expanded. No technical or contemplative outcome is guaranteed by arranging an account in the right form.
+
+The [Indian philosophy companion](../histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT.md#4--recognition-returns-through-the-life-that-has-become-finite) **historicises** the difference between recollection and recognitive return through Dyczkowski’s source-local account, and **compares** E2’s Resolution-in-Reconciliation without identifying Sanskrit recognition with Greek anamnesis.

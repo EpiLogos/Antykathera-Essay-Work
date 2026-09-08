@@ -43,6 +43,10 @@ Memory and coordination alter what can next be judged. The instrument is therefo
 
 ## #5→0
 
+[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-measure-dream): Buddhi’s determination, ahaṃkāra’s appropriation and manas’s coordination **figure** the inner instrument’s distinct activities in the Māyā whole. Retained traces permit memory and recomposition; they need not compel a repeated command. Recognition makes that inherited organisation inspectable and capable of another intention, preserving the instrument as an effective objective internality within the bounded life.
+
+The acquired ego-position becomes available within an already appearing field. Taylor's Neumann correction returns the inner instrument to that condition while preserving its determinate cognitive work. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation).
+
 [[submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter / Region / Name / Count / Account]] **grounds** the register3 return. Interior functions produce an account of a region, and encounter can alter the ordering by which that account was made. The result becomes available for further acts instead of closing the world around its own self-description.
 
 [C47 — Deferential Intelligence](C47-Deferential-Intelligence.md) **tests** whether the altered account changes judgment or action. C16 **returns-to** C15 with the instrument's capacities more exactly known and their subject relation preserved. Investigation can improve the means through which a world is disclosed while keeping the question of its experient distinct.

@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued historical synthesis; Paraphrased source-specific mathematical offices; native derivation and external chronology retain distinct warrants"
+---
 # A10 — Advent of Zero
 
 **Standing:** canonical semantic Argument; historical Argument 08 remains provenance. Historical synthesis is Argued; mathematical operations retain their stated systems; QL's later office is native authorial derivation.
@@ -35,6 +40,22 @@ Exact notation can travel through algorithms, teaching, tables, trade and accoun
 This transmissibility is the force of the first advent. Zero becomes sufficiently determined to work through institutions and calculations whose users need no agreement about God, Subject or void. It changes an account's possibilities while its own conceptual depth can recede into routine use. Taylor's [Advent-Zero manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md>) treats that gain in exactness as indispensable to the later return.
 
 ## #5→0
+
+
+[the ancient-philosophy companion](../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md#ancient-instrument-sign) **historicises** absent sexagesimal measure separately from arithmetic zero; Kaplan’s ancient astronomical primary-witness debt remains open.
+
+
+The [zero-reception dossier](../dossiers/zero-reception.md#1--a-numeral-receives-rules-and-rules-meet-an-exception) **compares** this operation. The receiving practice must recover the permissible arithmetic of an inherited sign. Colebrooke’s selected zero rules and Bhāskara’s retained denominator have distinct offices; Dutta’s reconstruction makes restricted cancellation part of the proposal being judged. Imposing newer laws without naming the changed regime can misdescribe the historical operation. Its exact mathematical gain survives the later symbolic return.
+
+
+The [zero–subject history](../histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT.md#1--arithmetic-gains-a-citizen-with-exceptional-powers) **compares** this return. Arithmetic admission changes which acts the sign can perform. Colebrooke’s zero rules and retained denominator, with Dutta’s restricted-law reconstruction, give that gain specific permissions. The later symbolic return retains those powers; it does not project integral meaning into every earlier historical use or turn a theological analogy into the source of all zero arithmetic.
+
+
+The [mathematics history](../histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#1--zero-enters-calculation-and-exposes-its-laws) **compares** this operation. Colebrooke’s selected rules distinguish zero’s additive and multiplicative behaviour from Bhāskara’s retained zero denominator. Dutta’s reconstruction changes cancellation and postponed evaluation within a specified regime. The finite ordinal construction then has its separate permission: zero is a subset of every set and a member of each nonzero finite ordinal, not a member of every set. The advent here retains the operation that gives an absent place its force.
+
+The first advent **returns-to** [Name-through-Count](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count) by keeping inscription, positional function and arithmetic permission together in the account of each use. A nameable zero can hold a place before it acts as an operand; a retained zero denominator belongs to its stated regime. The historical sign acquires exact powers through those differences, which the later symbolic return must preserve.
+
+The paper-and-erasure scene receives zero after its mathematical office has been earned. Its mythemic return depends upon the historical sign whose first advent remains this Argument's task. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold).
 
 At an exceptional operation, the successful sign makes its containing rules visible. Zero's historical integrity thus gives A03's formal-limit problem a disciplined mathematical neighbour: specify the expression, the allowed operation, and the law that would fail or change. The limit has a determinate form rather than an unspecified mystery.
 

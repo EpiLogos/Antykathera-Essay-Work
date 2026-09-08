@@ -1,0 +1,134 @@
+{
+  "date": "2026-09-08",
+  "carriers_full_read": [
+    "submission-package/essay/symbolon/episteme/dossiers/process.md",
+    "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT.md",
+    "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/process-systems-science/HISTORY.md"
+  ],
+  "sources_full_read_receipt": "T22-process-source-read.json",
+  "protected_notes_read": "Van Eenwyk full NOTES; copied quotes are leads, never source promotion",
+  "consumer_entire_context": "T22-process-consumer-read-reuse.json; saved entire contexts + all intervening diffs; C43 fresh entire; C12 additionally reopened entire",
+  "additional_current_full_carriers": [
+    "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+    "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md"
+  ],
+  "primary_bearing_reads": [
+    {
+      "path": "working/sources-texts-references/primary-texts/bergson/time-free-will-gutenberg.txt",
+      "sha256": "32c51f5a19882d0828fac586b09df41ea3b8c44c17e441161e8524d5c31440f6",
+      "scope": "selected1913 digital carrier, printed100–112 melody/duration/clock; lines4530–4960"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/whitehead/process-reality-local.json",
+      "sha256": "2bda2830ef0470e4ed593ee578acc5be8a532a058efdda7d9838b1ae93f65af5",
+      "scope": "printed21–26 (PDF48–53), printed60 (PDF86), pertinent real-constitution discussion printed59 (PDF85); extraction reading, no quotation upgrade"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-053.txt",
+      "sha256": "58487d0dbbcccfc38eec9e273890fb0e5d55f104b99d39d0fcdad0bd30fc4ab5",
+      "scope": "selected original scan OCR: printed76–81 and106–111; organization, production, coupling/composite criteria"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-054.txt",
+      "sha256": "578b36342e3f9daee8b29710af34fdee340c0d260ed9da496ccd62ca658e2a88",
+      "scope": "selected original scan OCR: printed76–81 and106–111; organization, production, coupling/composite criteria"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-055.txt",
+      "sha256": "19688982554c331953b2a50cce0028a4e3d6a790628b2eabc3139dc221278ccc",
+      "scope": "selected original scan OCR: printed76–81 and106–111; organization, production, coupling/composite criteria"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-068.txt",
+      "sha256": "c8ea0afb1c21063cde97744e4c6792dd97828e84f9124c6a483b9c5c826db76e",
+      "scope": "selected original scan OCR: printed76–81 and106–111; organization, production, coupling/composite criteria"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-069.txt",
+      "sha256": "a61698e498e9358ab5eaafc2a0ad6a40b810562a2b5bf13fd6612467f5e867fa",
+      "scope": "selected original scan OCR: printed76–81 and106–111; organization, production, coupling/composite criteria"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-070.txt",
+      "sha256": "a53cc40e4f559a4d66ee203d0c30d2a14a6812233060b813fb6f17f445097a1d",
+      "scope": "selected original scan OCR: printed76–81 and106–111; organization, production, coupling/composite criteria"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-03.txt",
+      "sha256": "5c8aec94844b7f09227d4330ddfffcfb7b610b2d65992713fd6f94f4fadcaf93",
+      "scope": "selected original scan OCR: printed7–9 and21–23; third state, reduction, later interpretations; no symbol transcription or complete proof audit"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-04.txt",
+      "sha256": "78d729614189138d681938e05b11a0198261d05a7df8b9f17a0ceb0ada83dfd6",
+      "scope": "selected original scan OCR: printed7–9 and21–23; third state, reduction, later interpretations; no symbol transcription or complete proof audit"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-05.txt",
+      "sha256": "5403e578b0f67f6d48da3bdade6fe224d857a54f01e4c4804c02d0791b1e8aa4",
+      "scope": "selected original scan OCR: printed7–9 and21–23; third state, reduction, later interpretations; no symbol transcription or complete proof audit"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-17.txt",
+      "sha256": "05de581f8bd8faeeb51171bea58b371d46c96b4c6faff84c2243a0b0eced5fb1",
+      "scope": "selected original scan OCR: printed7–9 and21–23; third state, reduction, later interpretations; no symbol transcription or complete proof audit"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-18.txt",
+      "sha256": "d18abb275b0d5cacd5a824eaeeff4c47e937369d7d320c027940d7debca68e76",
+      "scope": "selected original scan OCR: printed7–9 and21–23; third state, reduction, later interpretations; no symbol transcription or complete proof audit"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-19.txt",
+      "sha256": "0af7c0ab48d8863053bda8bdeb7ea99d3a9c1a5b6de0644e27caa997279bf49b",
+      "scope": "selected original scan OCR: printed7–9 and21–23; third state, reduction, later interpretations; no symbol transcription or complete proof audit"
+    }
+  ],
+  "reused": "Unchanged complete native field, all8/inverses, directly declared carriers and three transverse threads; Bohm bounded primary read from completed immediately preceding batch. Daza canonical extracted passage cards q001/q002 read. No entire-book claim.",
+  "diff_check": {
+    "command": [
+      "git",
+      "diff",
+      "--check",
+      "--",
+      "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md",
+      "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+      "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md"
+    ],
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  "reused_complete_threads": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+      "current_matches": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+      "current_matches": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+      "current_matches": true
+    }
+  ],
+  "writer_receipt_full_read": "working/p2-enrichment/receipts/T21-process-and-history-development.md",
+  "writer_four_admissions_verified": [
+    "whitehead-1978-process-reality",
+    "maturana-varela-1980-autopoiesis-cognition",
+    "varela-1975-calculus-self-reference",
+    "bergson-1913-time-free-will-pogson"
+  ]
+}

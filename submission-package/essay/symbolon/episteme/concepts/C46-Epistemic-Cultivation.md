@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from authorial epistemic-cultivation and MEF development; comparative pedagogy and technical evidence remain distinct"
+---
 # C46 — Epistemic Cultivation
 
 ## #0
@@ -21,6 +26,8 @@ Revise the warranted locus: source relation, concept scope, gauge, permission, i
 Preserve the path of change. An earlier determination can become inherited data with its scope, disagreement and failure retained, rather than a result silently relabelled as timeless knowledge. The next traversal should have a changed capacity. Repeating the same six labels or retaining logs without altered use does not establish cultivation.
 
 ## #5→0
+
+Epistemic cultivation consumes [E2’s con text through diaphaneity](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity) by making the means of inquiry part of what inquiry can cultivate. Regard receives what an encounter discloses about those means; [Resolution carries that consequence into the next traversal](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation). The return is inspectable in changed conditions and retained provenance, rather than exhausted by a new parameter within an unchanged criterion.
 
 A35 gives the practice its motive: loving sensitivity to origins. Eros moves the return — the name routes to C51's epi-logos space, of which eros-of-logos is one name; compassion keeps it from consuming the Other; epistemic humility prevents the returned account from claiming the source-office. Provenance is the minimum technical body of this orientation, not its complete achievement. The cultivated system becomes more exact through encounter while remaining responsible for the particular work it must do.
 

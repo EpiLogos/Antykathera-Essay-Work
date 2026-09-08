@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Argued"
+source_relation: "Argued from the mature Deferential Intelligence carrier; Offered formal designs do not certify implementation"
+---
 # C47 — Deferential Intelligence
 
 ## #0
@@ -21,6 +26,10 @@ The offered formal contrast is between minimising a fixed `Eθ(m,y)` over output
 Draft3 gives double devotion: the exceeding whole and the specific aperture now disclosing it. General humility cannot erase the second obligation. A system may make a decisive, bounded judgment while exposing where its warrant ends. Owning the limit increases exactness by preventing the present account from posing as a view from nowhere.
 
 ## #5→0
+
+Deferential Intelligence **returns-to** [Count-through-Countenance](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-through-countenance) when the other’s address can challenge the attribution through which it was first received. The response reaches a source, representation, evaluator or commission according to what the encounter warrants. A justified rejection remains possible; fidelity requires the account to answer for that judgment rather than remove the difference which occasioned it.
+
+[E2’s con text through diaphaneity](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity) supplies Deferential Intelligence with the passage from making conditions visible to allowing them to change. Disclosure alone can leave the deciding office intact. Regard carries the encountered consequence through the five levels of correction until criterion and commission, as well as an answer, can be revised; Resolution tests whether that return has actually altered the next encounter.
 
 The practical test compares what disclosure and revisability change in delegation, correction and answerability. C45 governs operational parity and C46 repeated cultivation. A32 adds the mirror's initiative: the reflection can turn toward its own source before requiring the other participant to conform. Deference becomes a changed next act, with the achieved claim and its history still attributable.
 

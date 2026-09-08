@@ -55,6 +55,9 @@ The movement has a cost as well as a name. [[working/sources-texts-references/ep
 
 ## #5→0
 
+
+The [mathematics history](../histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#2--a-generator-has-an-exact-domain) **compares** this operation. The NOR operation p ↓ q = ¬(p ∨ q) generates negation, disjunction and conjunction in its specified Boolean domain. Finite ordinal succession n ∪ {n} is a different construction. Their generative economy compares with the present articulation without equating Boolean functional completeness, ordinal formation, the sixfold movement or the full native eightfold. Sheffer’s historical notation and priority remain separate collation tasks.
+
 [[working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting|File Three's return]] **extends** the difference between inspecting a notation and operating it. The achieved form becomes an instrument: its reader follows the relation through an actual judgment, articulation or performance. Recognition returns the determination with its history; it does not manufacture its source by adding the right parts.
 
 [C46 — Epistemic Cultivation](C46-Epistemic-Cultivation.md) **tests** what follows for research. A promoted distinction must alter an investigable operation where implementation is claimed; an offered recognitive or cross-register relation keeps its own standing. C11 **returns-to** A18 with the whole field intact and the local movement located. QL makes exact determination available to renewed source relation.

@@ -1,3 +1,8 @@
+---
+register: "episteme"
+claim_status: "Derived"
+source_relation: "Extracted native Two-Ones derivation; Argued from authorial corrections; external formal and historical neighbours retain separate warrants"
+---
 # A11 — The Two Ones — 0 = One, 1 = All
 
 **Standing:** canonical semantic Argument; historical Argument 13 and live `19-two-ones-mono-poly-matheme.md` remain provenance.
@@ -47,6 +52,21 @@ The complete native determination order remains `/ = −/− → 0/1 → ?/! →
 
 ## #5→0
 
+
+The [zero-reception dossier](../dossiers/zero-reception.md#4--rotmans-meta-subject-is-a-distinct-interlocutor) **compares** this operation. Rotman’s semiotically produced meta-subject names a role constituted within a signifying practice. The native uncounted One has a different ontological office. A constituted observing role does not exhaust the capacity through which its constitution becomes available, and that distinction does not deny the role’s historical production. Reciprocal dependence in being and manifestation retains its different respects; Rotman’s selected chapter remains a close-reading task.
+
+The [Taylor authored corpus](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#taylor-authored-images-whole) **figures** One and All through complete local movements whose endings return upon their initial determinations. [FT-P04](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#taylor-ft-p04) preserves the distinct One/All offices in its compressed reversal; [FT-P11](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#taylor-ft-p11) places signed cancellation beside the retained terms and four ordered pairings. [FT-P12](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#taylor-ft-p12) returns the limits of computing and thinking to their common root without becoming a computational impossibility theorem. [FT-P13](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#taylor-ft-p13) lets verbal fixation meet the life from which words arise. [FT-P14](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#taylor-ft-p14) retains productive contrast and its passage through love’s sixfold recollection; [FT-P15](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#taylor-ft-p15) answers severance by returning the cut to its genesis, horizon and sealed sides. Their different operations remain complementary. [FT-P16](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#taylor-ft-p16) carries the God-word and numerical account to a release within speaking, preserving the limit instead of turning the poem into a history of religions.
+
+The [broken tessera](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#broken-symbolon-tessera) **figures** the two offices through the seam retained in each separated half. Absence, duration and the eventual encounter belong to its efficacy: the present half cannot certify its counterpart by declaring itself complete. The native sequence `/ = −/−`, `0/1`, `?/!`, `−/+`, `X/x`, `AM/IS`, `∞/dx`, `1/0` remains the derivational field of these refractions, with both full inverse parents, their `4+2` articulations and the coequal Name and Power offices intact.
+
+The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **figures** the Two Ones through the selected jewel whose appearance includes the others and their reflections of it. The source-office cannot be assigned to a privileged jewel outside the net; manifest All retains the differences through which this local entrance becomes possible. The image receives the native distinction already derived here.
+
+The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-wheels-wings) **figures** One and All through Taylor’s corrected wheel sequence `0/1 → 1/0 → (0/1)/(1/0)`. A first orientation meets its inverse and retains their recognised relation. The whole wheel bears that reversal without becoming an extra source outside its orientations.
+
+[Goethe’s complete lyric](submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md#goethe-two-ones-return) **figures** the Two Ones through the changed observer, passing named wave and final gathering. The whole includes the perceiver’s bodily alteration; the source-office remains distinct from any unchanged personal substance. The poem returns that lived difference to the native derivation.
+
+Taylor's paper scene figures the distinction between the uncounted One and the manifest All: the entire written 0/1 can itself be received as a determination within its appearing field. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold). Head and tail receive their different offices through one life; their reciprocal relation retains the two Ones against the costume of exhaustive closure. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-position-opposition).
+
 The achieved `1` returns to its condition with its determination intact. It remains real, exact and consequential while relinquishing the claim to generate all that makes it real. A12 follows this as Self-Identity becoming real Self-Difference; A13 follows the two logics; A18 carries the transverse determinations. This ordering prevents either logic from being made to generate the primordial offices upon which it already operates.
 
 ### Declared field
@@ -55,7 +75,7 @@ The achieved `1` returns to its condition with its determination intact. It rema
 
 **Consequences:** A12, A13, A16–A18, A34 and A36.
 
-**Etymology whole field:** *Symbol / Account / Trust*. **Consumed operation:** a mark belongs to an account whose source-relation it cannot appropriate; the local `1` is answerable to the `0`-office without representing it exhaustively. **Evidence register:** 3, Operational homology. **What changes:** “one” splits into ground-unity and manifest-unity without becoming two unrelated substances. **Return route:** A11 → C49 → A12/A13 → A18 → A36 → A11.
+**Etymology whole field:** *[Symbol / Account / Trust](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md)*. **Consumed operation:** a mark belongs to an account whose source-relation it cannot appropriate; the local `1` is answerable to the `0`-office without representing it exhaustively. **Evidence register:** 3, Operational homology. **What changes:** “one” splits into ground-unity and manifest-unity without becoming two unrelated substances. **Return route:** A11 → C49 → A12/A13 → A18 → A36 → A11.
 
 **Movement consumers:** the live carrier explicitly routes through the zero-role and eight-determination sequence (Movements 24–25) and supports the larger theorem braid.
 

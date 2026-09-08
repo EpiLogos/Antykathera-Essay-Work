@@ -1,0 +1,664 @@
+{
+  "relations": [
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "forward": false,
+      "reverse": true,
+      "before_reverse": false
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "forward": false,
+      "reverse": true,
+      "before_reverse": false
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "forward": false,
+      "reverse": true,
+      "before_reverse": false
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "forward": false,
+      "reverse": true,
+      "before_reverse": false
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "forward": false,
+      "reverse": true,
+      "before_reverse": false
+    }
+  ],
+  "preservation": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "prior_text_exact_after_reversing_scoped_operations": true,
+      "lost_edges": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "prior_text_exact_after_reversing_scoped_operations": true,
+      "lost_edges": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "prior_text_exact_after_reversing_scoped_operations": true,
+      "lost_edges": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "prior_text_exact_after_reversing_scoped_operations": true,
+      "lost_edges": []
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "prior_text_exact_after_reversing_scoped_operations": true,
+      "lost_edges": []
+    }
+  ],
+  "carrier_unchanged": true,
+  "protected150": [
+    {
+      "path": "submission-package/essay/symbolon/matheme/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/chromatic-substrates.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/diatonic-cf-grammar.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/field.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/music/lens-anchors.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/mobius-klein-surfaces.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/toroidal-poloidal-confinement.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/projective-line.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/riemann-sphere.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/topology/projective-completion.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/mono-poly/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/mono-poly/mono.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/mono-poly/poly.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/mono-poly/translations.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/diagrams/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/grothendieck-group-loss.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/godel-incompleteness.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/sheffer-stroke.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/crt-z6.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/trivial-ring.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/calculus-infinity-dx.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/fde-catuskoti.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/quaternion-q8.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/qubit-bloch-sphere.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/cross-ratio.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/metaphysics.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/topology.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/etymology.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/enantiodromic-return.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/recognition.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/psychology.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/quilt/number.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/dia-syn/syn.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/dia-syn/dia.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/dia-syn/chronic.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/perfect-six.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/tetraktys-triangle.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/pythagorean-comma.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/cycle-interval-octave.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/cymatics-standing-waves.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/harmonics/whole-tone-return.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/j-space.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/softmax-argmax.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/preference-gauge.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/computation/operational-parity.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/immutable-subject.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/minus-over-minus.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/copula.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/the-matheme.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/catuskoti-crossing.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/definition/six-determinations.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/spanda/spanda-equations.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/spanda/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/crossed-zero-re-entry.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/binary-and-binary-of-binary.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/primordial-symbolon.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/x-x.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/two-ones.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/slash-and-or.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/complex-orientation.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/ql/eight-determinations.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/ql-positions.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/t1-geometry.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/harmonics-symmetries.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/spanda.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/phase-flip.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/t0-onto-logic.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/process/ratio-threshold.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/infinity-dx.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/question-assertion.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/X-x.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/AM-IS.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/self-identity.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/mono-poly.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/subject-logics.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/minus-plus.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/the-slash.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/complexio-oppositorum.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/eight-determinations.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/0-1.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/1-0.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A35.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A01.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A11.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A25.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A05.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A31.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A15.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A04.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A30.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A20.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A14.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A34.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A10.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A24.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A07.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A33.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A17.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A13.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A27.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A02.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A12.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A06.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A22.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A16.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A29.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A09.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A19.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A08.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "unchanged": true
+    },
+    {
+      "path": "working/p2-enrichment/argument-depth/A28.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/NOTES.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/NOTES.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/NOTES.md",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/THE-RETURN-OF-ZERO.md",
+      "unchanged": true
+    }
+  ]
+}
