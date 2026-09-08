@@ -1,0 +1,37 @@
+{
+  "scope": "Read-only final combined check of five authorized commit bodies; no staging until parent grant",
+  "elements": [
+    {
+      "record_id": "jung-pauli-meier-2001-atom-archetype",
+      "canonical_home": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE.md",
+      "register": "episteme"
+    },
+    {
+      "record_id": "von-franz-1974-number-time",
+      "canonical_home": "submission-package/essay/symbolon/episteme/sources/psychology/von-franz/von-franz-1974-number-time/SOURCE.md",
+      "register": "episteme"
+    },
+    {
+      "record_id": "mytheme-pauli-egg-dream",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md",
+      "register": "mytheme"
+    },
+    {
+      "record_id": "history-psychology-development",
+      "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/psychology/DEVELOPMENT.md",
+      "register": "episteme"
+    },
+    {
+      "record_id": "dossier-jung-pauli-psychoid",
+      "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+      "register": "episteme"
+    }
+  ],
+  "hashes": {
+    "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE.md": "1784e9788a1fbe713826c116a1361ca0a53dfb233adc9b5b6520bbe3127a1ce5",
+    "submission-package/essay/symbolon/episteme/sources/psychology/von-franz/von-franz-1974-number-time/SOURCE.md": "821866d41eda21eb16c666a99b65d2477c96d352ee8afc38fc1459fbcd34a130",
+    "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md": "addbd94183a4a238909018a931b09e78cf466cac15533d3ea96c7275bc39498a",
+    "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/psychology/DEVELOPMENT.md": "bb1317f294b6de4852833f0235ad5de3a44d3748b13fc3b8012c80678d0884f9",
+    "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md": "3f1a2db2052367e6caa7aae1992d6c3d15ddb10a4b168c335357bbab8e78d428"
+  }
+}

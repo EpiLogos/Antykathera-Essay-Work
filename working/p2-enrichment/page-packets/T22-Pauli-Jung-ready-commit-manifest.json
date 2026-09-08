@@ -1,0 +1,154 @@
+{
+  "status": "Exclusive index grant received; checked hashes and empty index; staging only this manifest scope",
+  "commit_subject": "Develop Pauli egg and psychology–Jung correspondence carriers",
+  "paths": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE.md",
+      "sha256": "1784e9788a1fbe713826c116a1361ca0a53dfb233adc9b5b6520bbe3127a1ce5",
+      "bytes": 19820
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/von-franz/von-franz-1974-number-time/SOURCE.md",
+      "sha256": "821866d41eda21eb16c666a99b65d2477c96d352ee8afc38fc1459fbcd34a130",
+      "bytes": 2485
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md",
+      "sha256": "addbd94183a4a238909018a931b09e78cf466cac15533d3ea96c7275bc39498a",
+      "bytes": 16589
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/psychology/DEVELOPMENT.md",
+      "sha256": "bb1317f294b6de4852833f0235ad5de3a44d3748b13fc3b8012c80678d0884f9",
+      "bytes": 20000
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+      "sha256": "affe228115dcdcfa307b65de5408761af5c666fbe9e49bfc904b2384eef6c59b",
+      "bytes": 27692
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T20-Pauli-egg-private-development-packet.json",
+      "sha256": "4c79f92787dfc7b785430b79cd5903055a62d452cd7135683aa18f42f04f90f4",
+      "bytes": 2226880
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-Pauli-egg-development-2026-09-08.md",
+      "sha256": "ef27b4a638d19eee8bce9463b791d92cc09f432e747afd5381386f3c52b4e253",
+      "bytes": 10858
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T21-Psychology-private-development-packet.json",
+      "sha256": "25c411067ca5a6f72f86985266a8aeb4f4abea640f777c5eb740bd10d677681d",
+      "bytes": 8767304
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-Psychology-development-2026-09-08.md",
+      "sha256": "1fe5bba712183ea064b0d189931889adeccb5152bf1e40ca5000c7ad1f64876d",
+      "bytes": 6684
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T21-Jung-Pauli-psychoid-private-development-packet.json",
+      "sha256": "df1454803ebbaedff130594b2d3c3c7984b956868b8f6da600fa7f4639306830",
+      "bytes": 2913768
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-Jung-Pauli-psychoid-development-2026-09-08.md",
+      "sha256": "31a106c039978c2570fffb539926ce1ff9f2200a57cf03cd8471f853d7e16ec1",
+      "bytes": 12046
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-Pauli-Jung-source-integration-private.json",
+      "sha256": "a87679de4a73fa730b2fb119b0c9b92776427a64cc4c909c327ea4c907362096",
+      "bytes": 1222724
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Pauli-Jung-source-integration-hygiene.json",
+      "sha256": "b9e7a95c014eb23fd9b3c1a3380e5ac3679f1c5c0e5409d47446a3d76ecbf809",
+      "bytes": 816169
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Pauli-Jung-source-integration-2026-09-08.md",
+      "sha256": "b8a6acf64f4abebe117f15048be6f978826423bf11376d0c23be26a9c25154db",
+      "bytes": 3429
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-Jung-Pauli-status-foldback-private.json",
+      "sha256": "69272ebb212de13382962af8361f6f2a0a596700ce750de3891ca84fd366dc96",
+      "bytes": 48731
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Jung-Pauli-status-foldback-hygiene.json",
+      "sha256": "0c44a42e4ef69e75da1ef4db6bcab1144b3704690c2e882eb6400c9347803473",
+      "bytes": 521917
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Jung-Pauli-status-foldback-2026-09-08.md",
+      "sha256": "7c711169315cc0d615580a75b8ed5e2bc252f8c49a8fa6fd82550962b0829c8c",
+      "bytes": 515
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-Jung-Pauli-reference17-23-60-private.json",
+      "sha256": "7fbdc1d348e906e8de1b0471dac0ebd0d25c3753870886e7c43cbc73a3aee20d",
+      "bytes": 364493
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Jung-Pauli-reference17-23-60-hygiene.json",
+      "sha256": "7ef419f39cf79d7980f71fcfd96b0e02b3ea7ca99ff1b9077f465c3eec88738a",
+      "bytes": 523864
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Jung-Pauli-reference17-23-60-2026-09-08.md",
+      "sha256": "7449dbc268a94c4c3ce480e7399596baf43693f98beb41942b3a69e712282c51",
+      "bytes": 1065
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-Jung-reference40-private.json",
+      "sha256": "ece404fbca11c25705f0ace38905c67e7b4a586effb7a5e4fa44e646e9b8a326",
+      "bytes": 58023
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Jung-reference40-hygiene.json",
+      "sha256": "9cd64d50c45766cd54eafdd8cf55ec3623cf86318c748ce5af033829c4ea5289",
+      "bytes": 540783
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Jung-reference40-2026-09-08.md",
+      "sha256": "2911fbca860069d3497d9e2b0f79e3d3f45f4aaa77783c918020e37ec7c5116e",
+      "bytes": 1289
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-Jung-ref40-primary-private.html",
+      "sha256": "6e49f054e7152e61d81ebb9038c53aec09a233e23f0608d231a1999546d43897",
+      "bytes": 1506484
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-Pauli-Jung-commit-intake-private.json",
+      "sha256": "a8472f383d55f98a928330df709fbee8343028724c700a9dc1aaeac533ceeefc",
+      "bytes": 2126
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-Pauli-Jung-commit-hygiene.json",
+      "sha256": "c8963d38270355af3406a157f33a158b1829188d1dfb870fab5d07587983604a",
+      "bytes": 881151
+    }
+  ],
+  "checks": {
+    "original_combined_five_record_T22": 0,
+    "source_and_egg_T22": 0,
+    "dossier_status_foldback_T22": 0,
+    "reference17_23_60_T22": 0,
+    "reference40_T22": 0,
+    "scope_note": "Combined report predates later dossier-only batches, each checked independently at fresh hashes.",
+    "projections": "No global freshness claim; last read-only check blocked by Bergson q001 anchor/heading. Parent owns fix.",
+    "raw_whitespace_exception": "Retrieved Gutenberg HTML retained byte-for-byte including CRLF; git diff --check excluding this raw object passes. No source normalization."
+  },
+  "excluded": [
+    "all conjugate/AC navigation repairs and their separate packets",
+    "reference89 read-only audit packets and receipts (separate audit batch)",
+    "E/A/C/M bodies and shared matrices/census/queue",
+    "all parent raw/receipts, E6/Aion, protected NOTES/HISTORY/manuscript/T17–19",
+    "external user PDF remains external; scoped extraction/provenance held inside authorized private packet"
+  ],
+  "concurrent_write_rule": "At index grant recheck every hash and staged paths; do not overwrite fresh E paragraphs or stage unrelated changes."
+}
