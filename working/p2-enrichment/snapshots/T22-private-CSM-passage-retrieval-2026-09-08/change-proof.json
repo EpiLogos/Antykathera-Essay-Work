@@ -1,0 +1,38 @@
+{
+  "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/SOURCE.md",
+  "source_id": "taylor-2026-antykathera-csm-lecture-notes",
+  "before_sha256": "9fe86ad999c7841f3b4579d1e575ec7070fe8d1a56e47af284563d1014c90241",
+  "after_sha256": "72bcd416f3a47a31679fa3d71271c29042cb57cc1fc1a7be88642300ea1a3413",
+  "local_copy": "working/sources-texts-references/09-7-2026-antykathera-csm-lecture-notes.md",
+  "local_copy_sha256": "c2666da92851b92c549ba754f6a94d320f11f36f46ad02fa8698fcc785d556c7",
+  "notes": "absent; no creation",
+  "whole_source_and_local_copy_read": true,
+  "original_body_reconstructed_byte_identical": true,
+  "additions": [
+    {
+      "passage_id": "taylor-2026-antykathera-csm-lecture-notes-q001",
+      "anchor": "<a id=\"taylor-2026-antykathera-csm-lecture-notes-q001\"></a>\n",
+      "fields": "\n**Locator:** `working/sources-texts-references/09-7-2026-antykathera-csm-lecture-notes.md`, line 33, in the original lecture-note bullet sequence.\n\n**Provenance:** Complete local copy read 2026-09-08; this named line was checked against the retained authorial object (SHA-256 `c2666da92851b92c549ba754f6a94d320f11f36f46ad02fa8698fcc785d556c7`). Dialogue-record / provenance-of-thinking; never evidence or third-party attribution. Existing claim and citation standing remain unchanged.\n",
+      "line": 33,
+      "raw_line": "- population loss paradox points to the underlyign crisis of meaning/ love -> synballein as eros-of-logos",
+      "transcription_difference": false
+    },
+    {
+      "passage_id": "taylor-2026-antykathera-csm-lecture-notes-q002",
+      "anchor": "<a id=\"taylor-2026-antykathera-csm-lecture-notes-q002\"></a>\n",
+      "fields": "\n**Locator:** `working/sources-texts-references/09-7-2026-antykathera-csm-lecture-notes.md`, line 31, in the original lecture-note bullet sequence.\n\n**Provenance:** Complete local copy read 2026-09-08; this named line was checked against the retained authorial object (SHA-256 `c2666da92851b92c549ba754f6a94d320f11f36f46ad02fa8698fcc785d556c7`). Dialogue-record / provenance-of-thinking; never evidence or third-party attribution. Existing claim and citation standing remain unchanged. Existing card transcription is preserved: the local line reads “comptationally” where the card reads “comptually”; this retrieval repair does not silently correct or authenticate that difference.\n",
+      "line": 31,
+      "raw_line": "- computational (dia-ballein) vs meditative intelligence (syn-ballein) -> our measuring stick (RLHF) for AI reinforces a comptationally orgnaised subset of a richer environemnt, QL posits the meditative dimension parallel and, actually, genertaive of teh computational ",
+      "transcription_difference": true
+    },
+    {
+      "passage_id": "taylor-2026-antykathera-csm-lecture-notes-q003",
+      "anchor": "<a id=\"taylor-2026-antykathera-csm-lecture-notes-q003\"></a>\n",
+      "fields": "\n**Locator:** `working/sources-texts-references/09-7-2026-antykathera-csm-lecture-notes.md`, line 41, in the original lecture-note bullet sequence.\n\n**Provenance:** Complete local copy read 2026-09-08; this named line was checked against the retained authorial object (SHA-256 `c2666da92851b92c549ba754f6a94d320f11f36f46ad02fa8698fcc785d556c7`). Dialogue-record / provenance-of-thinking; never evidence or third-party attribution. Existing claim and citation standing remain unchanged.\n",
+      "line": 41,
+      "raw_line": "- languages also devolve, glissement, words can betray meaning -> even moreso, symbols can ossify, meaning can fail to be generated, anb left to circulate with diminishing inputs and returns",
+      "transcription_difference": false
+    }
+  ],
+  "mutation_scope": "three exact anchors and standalone Locator/Provenance fields only; no source-status/quote/other-body change"
+}
