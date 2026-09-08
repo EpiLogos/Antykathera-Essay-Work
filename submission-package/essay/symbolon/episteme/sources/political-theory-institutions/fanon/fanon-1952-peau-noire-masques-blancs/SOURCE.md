@@ -25,7 +25,8 @@ local_copy: working/sources-texts-references/primary-texts/fanon/fanon-1952-peau
 local_copy_sha256: a1dc1f996b93017d32b4679eb0838311876ee7cfc53f1ee8ade74ec67afdf123
 accessed: '2026-09-08'
 passage_surface: '#passages'
-main_source_for:
+main_source_for: []
+consumed_by_mythemes:
 - submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md
 consumed_by_sections: []
 consumed_by_arguments: []

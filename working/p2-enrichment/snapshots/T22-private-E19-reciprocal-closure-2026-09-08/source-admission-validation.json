@@ -1,0 +1,92 @@
+{
+  "bound_objects": [
+    {
+      "path": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/CANONICAL-PRODUCT-FIELD.md",
+      "sha256": "bb1cfcf38abf8d16095cdff5af0424aea5f120b695b64e093500523a0a105456",
+      "hash_matches": true,
+      "matches_named_commit": false
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/OBJECTIVE-CO-INTERNALITY.md",
+      "sha256": "1551650f169253bff509c6cde991ab3f531b8e66baa531e6145f357e909e3d85",
+      "hash_matches": true,
+      "matches_named_commit": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/FOUNDING-POSITIONS.md",
+      "sha256": "f41ed11c377133a579d1284d2366167298050c955dedbc61fb5971e3d523e490",
+      "hash_matches": true,
+      "matches_named_commit": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/social.mjs",
+      "sha256": "e416cd91b84174125bd32f416d8cf0b7d51f571ec39ef8d1534b3e2e4df2ba5c",
+      "hash_matches": true,
+      "matches_named_commit": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/SOURCE-AND-AUTHORITY-MAP.md",
+      "sha256": "afa9a34ca9d508add01e2cf961cc81c86129149ab17ac74f53a1c237a1b19f03",
+      "hash_matches": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/SYMBOLON-OI-WIKI-CONTRACT.md",
+      "sha256": "2bc48a09e0de793b98135c428b1eb1251c88adf2b704b870e7165cdd8cd9d489",
+      "hash_matches": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/implementation-probe.mjs",
+      "sha256": "bb56aa57526d3a14746c3b28058f7a6f0a6445cda7c147c2b1dd5c94b02a5742",
+      "hash_matches": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/implementation-probe.json",
+      "sha256": "ba9daa45625b7219d20ae78de420301c8215e9cd901c02ecb60835177c2b756c",
+      "hash_matches": true
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "oi-2026-responsibility-source-projection",
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/oi/oi-2026-responsibility-source-projection/SOURCE.md",
+      "sha256": "03a6cb0c9bf2d047b3ad3fce403d492023225b9b0d47a96c45524b38014ca099",
+      "local_copy_exists": true,
+      "main_source_for": [],
+      "card_count": 5
+    },
+    {
+      "source_id": "42-techne-2026-sovereign-commons",
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+      "sha256": "97438527b59ff7e23e5822bcf038ff710ec10786f9ed4817b9a608a6db00f1ed",
+      "local_copy_exists": true,
+      "main_source_for": [
+        "\u00a75\u21920"
+      ],
+      "card_count": 6
+    },
+    {
+      "source_id": "taylor-2026-revision-notes-trust",
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+      "sha256": "bf3bb0a8aca05358d49b99ee402ebb09e1c9131971222878bdc557bfe4ed26cb",
+      "local_copy_exists": true,
+      "main_source_for": [],
+      "card_count": 0
+    },
+    {
+      "source_id": "taylor-2026-symbolon-dynamics",
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "sha256": "3af953f42f4cd581d15e06a9921cabd7228d893da714b7c13a70e15f6e25ea01",
+      "local_copy_exists": true,
+      "main_source_for": [],
+      "card_count": 0
+    },
+    {
+      "source_id": "fanon-1952-peau-noire-masques-blancs",
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/fanon/fanon-1952-peau-noire-masques-blancs/SOURCE.md",
+      "sha256": "d6f1c357bbe1861fbfbd3e0b914941c198c0a64405934323473c0c6e1d44b240",
+      "local_copy_exists": true,
+      "main_source_for": [],
+      "card_count": 6
+    }
+  ]
+}

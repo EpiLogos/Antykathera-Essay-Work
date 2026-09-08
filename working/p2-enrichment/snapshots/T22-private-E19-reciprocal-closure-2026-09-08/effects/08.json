@@ -1,0 +1,47 @@
+{
+  "root": {
+    "id": "DEVELOPMENT",
+    "title": "Technology, Politics and Institutions — Formation, Delegation and Return",
+    "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Technology, Politics and Institutions — Formation, Delegation and Return",
+      "#0 — A technical act inherits a social field",
+      "#1 — Craft can display a relation and still require an undertaking",
+      "A narrated apparatus: detection, capture, account, release",
+      "A material instrument: cycles and damaged inheritance",
+      "#2 — Collective formation and enframing relocate authority",
+      "From the crowd to the apparatus of the State",
+      "Revealing, ordering and the orderer's return",
+      "#3 — Comparison becomes trained conduct",
+      "A relative scale acquires a social use",
+      "Architecture, instruction and direct preference",
+      "Labour remains inside the finished score",
+      "#4 — The context of action becomes an object of inquiry",
+      "#5→0 — Shared capacity requires institutions able to receive consequence",
+      "From polycentric findings to an affiliated architecture",
+      "The institution must be inside the return"
+    ],
+    "sha256": "73053d44b6972fe92c61a5e194f3ce77eef000ae818841a3116d0d65981a9041",
+    "claim_status": "Argued",
+    "register": "episteme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "episteme",
+    "carriers": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "root": {
+    "id": "taylor-2026-symbolon-dynamics",
+    "title": "Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)",
+    "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Taylor — Symbolon Dynamics, Archetype, Attractor, and Objective Internality (2026)",
+      "Provenance identity",
+      "Essay use",
+      "Source braid",
+      "Passages and excerpts"
+    ],
+    "sha256": "0976dcd50c7294983866760c2938509c0d296a4917be9516792ec9ec329d37f7",
+    "citation_status": "internal-ready",
+    "quote_status": "quotation-ready",
+    "tags": [
+      "epi-logos/antikythera-essay",
+      "source-bank/record",
+      "source-bank/internal-corpus",
+      "argument-map/symbolon",
+      "argument-map/complex-dynamism",
+      "argument-map/objective-internality",
+      "argument-map/psychoid"
+    ]
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

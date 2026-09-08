@@ -1,0 +1,35 @@
+{
+  "root": {
+    "id": "trika-alignment-stack",
+    "title": "Trika Alignment Stack",
+    "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/trika-alignment-stack.md",
+    "artifact_type": "legacy-reference",
+    "authority": "frozen-provenance",
+    "headings": [
+      "Trika Alignment Stack"
+    ],
+    "sha256": "f83e63ee4883772bba134e687cbd397c3b6c785834681e00ef403c5e0045199f",
+    "source_status": "internal-derivation",
+    "tags": [
+      "epi-logos/antikythera-essay",
+      "argument-map/reference"
+    ]
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

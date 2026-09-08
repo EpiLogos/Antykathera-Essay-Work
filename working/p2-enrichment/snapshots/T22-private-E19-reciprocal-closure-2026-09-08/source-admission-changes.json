@@ -1,0 +1,26 @@
+[
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+    "before_sha256": "7d13d24224f554474e62be042ccf2edaa06752acdbbe5524a0b6175489be7e27",
+    "after_sha256": "aacd55ecccdc6336650b8cc644933f1f115e900646985a7b75c566c8aeb0b72c",
+    "snapshot": "before/source-0.md"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+    "before_sha256": "ca62d327f1f4d53424310e66c00aaa185ebcacb959d90fac3d7c5c081b46a425",
+    "after_sha256": "bf3bb0a8aca05358d49b99ee402ebb09e1c9131971222878bdc557bfe4ed26cb",
+    "snapshot": "before/source-1.md"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+    "before_sha256": "0976dcd50c7294983866760c2938509c0d296a4917be9516792ec9ec329d37f7",
+    "after_sha256": "3af953f42f4cd581d15e06a9921cabd7228d893da714b7c13a70e15f6e25ea01",
+    "snapshot": "before/source-2.md"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/oi/oi-2026-responsibility-source-projection/SOURCE.md",
+    "before_sha256": null,
+    "after_sha256": "03a6cb0c9bf2d047b3ad3fce403d492023225b9b0d47a96c45524b38014ca099",
+    "snapshot": null
+  }
+]

@@ -1,0 +1,98 @@
+{
+  "status": "developed-reviewed-T22-released-for-scoped-commit",
+  "date": "2026-09-08",
+  "canonical_paths": [
+    "submission-package/essay/symbolon/episteme/dossiers/bohm.md",
+    "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+    "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+    "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+    "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+    "submission-package/essay/symbolon/episteme/dossiers/process.md",
+    "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+    "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md",
+    "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+    "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORICAL-BRANCHES.md",
+    "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+    "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORICAL-BRANCHES.md",
+    "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+    "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORICAL-BRANCHES.md",
+    "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+    "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+    "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+    "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORICAL-BRANCHES.md",
+    "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+    "submission-package/essay/symbolon/episteme/histories/encounters-and-transmissions/myth/DEVELOPMENT.md",
+    "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT.md",
+    "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md",
+    "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT.md",
+    "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md",
+    "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+    "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/process-systems-science/DEVELOPMENT.md",
+    "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/psychology/DEVELOPMENT.md",
+    "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md",
+    "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT.md",
+    "submission-package/essay/symbolon/episteme/lenses/baudrillard.md",
+    "submission-package/essay/symbolon/episteme/lenses/foucault.md",
+    "submission-package/essay/symbolon/episteme/sources/computer-science-ml/oi/oi-2026-responsibility-source-projection/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/fanon/fanon-1952-peau-noire-masques-blancs/SOURCE.md"
+  ],
+  "scope": "Six E whole fields and six historical companions, released nineteen carriers; five owned source houses; immutable OI source bundle and own evidence. No protected HISTORY/NOTES, A/C/M, shared census/matrix or generated writes.",
+  "primary_pairs": 19,
+  "distinct_E_carrier_relations": 63,
+  "missing_directions": [],
+  "checks": [
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E19-reciprocal-closure-2026-09-08/primary-T22.json",
+      "targets": 10,
+      "failures": 0
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E19-reciprocal-closure-2026-09-08/E12-T22.json",
+      "targets": 12,
+      "failures": 0
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E19-reciprocal-closure-2026-09-08/final-T22.json",
+      "targets": 22,
+      "failures": 0
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E19-reciprocal-closure-2026-09-08/carrier4-T22.json",
+      "targets": 4,
+      "failures": 0
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T22-private-E19-reciprocal-closure-2026-09-08/42-functional-T22.json",
+      "targets": 1,
+      "failures": 0
+    }
+  ],
+  "proofs": [
+    "working/p2-enrichment/snapshots/T22-private-E19-reciprocal-closure-2026-09-08/E19-actual-graph-semantic-proof.json",
+    "working/p2-enrichment/snapshots/T22-private-E19-reciprocal-closure-2026-09-08/OI-nine-reference-survival-proof.json",
+    "working/p2-enrichment/snapshots/T22-private-E19-reciprocal-closure-2026-09-08/E-inherited-preservation.json",
+    "working/p2-enrichment/snapshots/T22-private-E19-reciprocal-closure-2026-09-08/source-admission-validation.json",
+    "working/p2-enrichment/snapshots/T22-private-E19-reciprocal-closure-2026-09-08/OI-cross-entropy-verification.json",
+    "working/p2-enrichment/snapshots/T22-private-E19-reciprocal-closure-2026-09-08/release-canonical-manifest.json"
+  ],
+  "source_changes": {
+    "new": "oi-2026-responsibility-source-projection; five scoped cards; eight exact objects plus manifest",
+    "42": "Actual local_copy; six report-only cards; exact section plus functional source assignment",
+    "trust_and_symbolon": "Only actual local_copy metadata repaired",
+    "fanon": "Whole path moved out of main_source_for into consumption metadata; French PDF/cards and four held flags unchanged"
+  },
+  "remaining_parent_proposals": [
+    "Aggregate source projections and current272E/89reference acceptance belong to parent/reviewer.",
+    "A/C/Movement proposals remain with parent; this commit does not implement those assignments."
+  ],
+  "surviving_boundaries": [
+    "Chang2014 and Van Eenwyk selected passage/quotation collation remains source-specific.",
+    "Dated42maturity and pilot descriptions remain report/design evidence, not deployment or independent historical verification.",
+    "OI code probes establish six constructor behaviours only; no hosted acceptance, source authentication, learning, UI or full implementation claim.",
+    "Fanon selected French scopes and four held comparisons remain intact."
+  ],
+  "git_index": "Exclusive window granted by parent; stage explicit allowlist only."
+}

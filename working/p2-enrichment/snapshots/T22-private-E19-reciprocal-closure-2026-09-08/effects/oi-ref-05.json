@@ -1,0 +1,40 @@
+{
+  "root": {
+    "id": "prompt-thrownness",
+    "title": "Prompt Thrownness",
+    "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/prompt-thrownness.md",
+    "artifact_type": "legacy-reference",
+    "authority": "frozen-provenance",
+    "headings": [
+      "Prompt Thrownness",
+      "MEF placement",
+      "Provenance correction"
+    ],
+    "sha256": "eeeb664cd0a79bd54301e6341028a642166ddfbc98e2a5688208fa8f2bd89b48",
+    "source_status": "primary-source-transcription",
+    "tags": [
+      "epi-logos/antikythera-essay",
+      "argument-map/reference",
+      "argument-map/agentworld",
+      "argument-map/individuation",
+      "mef/square-b"
+    ]
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

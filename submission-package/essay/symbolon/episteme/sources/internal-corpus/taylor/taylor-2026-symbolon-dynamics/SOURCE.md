@@ -15,7 +15,7 @@ author:
   - Frank G. Taylor
 title_full: "Symbolon Dynamics — Archetype, Attractor, and Objective Internality"
 year: 2026
-local_copy: /Users/admin/Documents/Nara-Personal/Antykathera-Essay-Work/working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md
+local_copy: "working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md"
 tags:
   - epi-logos/antikythera-essay
   - source-bank/record

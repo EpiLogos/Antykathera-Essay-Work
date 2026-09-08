@@ -1,0 +1,91 @@
+{
+  "root": {
+    "id": "HISTORICAL-BRANCHES",
+    "title": "Historical branches — Symbol, Account and Trust",
+    "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Historical branches — Symbol, Account and Trust",
+      "Matching tokens and institutional recognition",
+      "Reckoning, report and a split debt record",
+      "Reliance and entrusted office",
+      "Reference 38 — hāl, whole, holy, health; the separate hole",
+      "Branches kept in their own soils"
+    ],
+    "sha256": "dd325c1ca97aca0acaa57d7c2189a5c0b52a2646dccc4497227229ea445b013d"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [
+      {
+        "id": "C27-Protected-Account-Occupied-Zero-Source-Claim",
+        "title": "C27 — Protected Account / Occupied Zero / Source-Claim",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C27 — Protected Account / Occupied Zero / Source-Claim",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Developmental provenance",
+          "Remaining depth"
+        ],
+        "sha256": "d9b206c1d1b1d77570c44461cb71e30b10d183095008c5515aaa5f41e6a5d8a2"
+      }
+    ],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [
+      {
+        "id": "C27-Protected-Account-Occupied-Zero-Source-Claim",
+        "title": "C27 — Protected Account / Occupied Zero / Source-Claim",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C27 — Protected Account / Occupied Zero / Source-Claim",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Developmental provenance",
+          "Remaining depth"
+        ],
+        "sha256": "d9b206c1d1b1d77570c44461cb71e30b10d183095008c5515aaa5f41e6a5d8a2"
+      }
+    ],
+    "edges": [
+      {
+        "source": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "raw_target": "../../concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      }
+    ]
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "register": "undeclared"
+      }
+    ]
+  }
+}

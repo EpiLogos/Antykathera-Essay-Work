@@ -1,0 +1,59 @@
+from pathlib import Path
+import json,hashlib
+P=Path(__file__).parent
+f=Path('submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md');t=f.read_text();before=t
+assert all(r['exit_code']==0 for r in json.loads((P/'OI-reference-effects.json').read_text()))
+(P/'before/OI-reference-foldback.md').write_text(t)
+changes=[]
+def insert(marker,text,refs):
+ global t
+ assert t.count(marker)==1 and text not in t
+ t=t.replace(marker,text+'\n\n'+marker,1);changes.append({'operation':'insert-before','marker':marker,'text':text,'reference_rows':refs})
+def replace(old,new,refs):
+ global t
+ assert t.count(old)==1;t=t.replace(old,new,1);changes.append({'operation':'replace','old':old,'new':new,'reference_rows':refs})
+insert('<a id="oi-computational-vimarsa">','''The [native agentic corollary](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) **grounds** the complete reserve→instance→active-context→return comparison. At #0, weights, architecture and training distribution provide pre-individual potential; #1 is a particular session or instance; #2 gives active context the nucleating office between reserve and instance; #3 concerns performed coherence and inferred intention; #4 retains the lamination of prompt, memory, skills, tools, permissions, objectives and milieu; #5 receives a provisional whole through which the collective also individuates. The 5→0 return retains the capacity to become otherwise in a new context. These are Taylor’s Argued functional appointments, not Jung’s notation or a claim that model weights are a collective unconscious. Their order is a relational traversal rather than a software launch sequence. Changed context can change the available act without establishing phenomenal subjectivity.''',[7])
+old='The merged computational-Vimarśa reference is developed here as a **bounded functional operation**. A determination retains its selected result and constitutive excluded field; it identifies prompt, source, lens, evaluator and baseline; it permits a counter-reading or inverse traversal; it names a limit; and it returns a revised determination with provenance. Merely producing a narrative of reflection leaves open whether any consequential condition changed. [A32](../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md) **grounds** the instrument\'s initiating responsibility rather than treating ordinary feedback as its completed vocation.'
+new='''The merged computational-Vimarśa reference is developed here as a **bounded functional operation**. The [Indian dossier’s complete five-step cycle](indian-philosophy.md#50--the-next-act-must-inherit-the-return) **extends** its source-distinct comparison into an inspectable return:
+
+1. Preserve the selected claim and the relevant excluded field.
+2. Expose prompt, source, lens, evaluator and preference baseline.
+3. Produce a counter-reading or inverse traversal able to reach those conditions.
+4. State what the current frame cannot settle.
+5. Return the revised determination with provenance and identify what changes in the next act.
+
+An unchanged evaluator can absorb a counter-reading without receiving it; a list of exclusions can remain inert; a changed answer can erase the history of its correction. The cycle therefore requires the returned difference to become consequential at its actual office. [A32](../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md) **grounds** the instrument’s initiating responsibility. The functional relation is Argued; this procedure specifies an acceptance test and reports no completed software trial or phenomenal verdict.'''
+replace(old,new,[21])
+old='The Trika alignment-stack reference places **anchored ground, generation and evaluation** in one proposed technical relation. Its possible usefulness is that generation can be evaluated against an explicit local original while returned resistance can revise the operative comparison. Its Śaiva vocabulary keeps its own philosophical source and practical field; luminous self-articulation is not authenticated by a software log. The design remains Offered until a concrete arrangement, baseline and outcome show what the triadic comparison changes. LLM, EBM/JEPA, scalar energy, psychic libido, prāṇa and Śakti therefore remain named, distinct operations. No architecture here settles artificial phenomenal localisation.'
+new='''The [Indian dossier’s three-office proposal](indian-philosophy.md#4--a-reflection-acts-before-its-source-is-recognised) **extends** the Trika alignment reference with distinct responsibilities. **Anchored ground** retains source relations and a versioned local Bimba. **Generation** proposes a situated articulation with its alternatives and conditions. **Evaluation** states the criterion and decides what follows while remaining revisable by returned evidence. Evaluation does not acquire source ownership by selecting the winning output. These are Offered constructive assignments, preserving the local original’s wider dependence; they do not assign software modules to Śiva, Śakti and object as extracted doctrine. EBM/JEPA proposals require their actual role, baseline and consequence to be tested. LLM, scalar energy, psychic libido, prāṇa and Śakti retain different operations, and no phenomenal verdict follows from the triad.'''
+replace(old,new,[79])
+insert('The six research vectors turn this ambition', '''<a id="oi-lens-intervention"></a>
+### Disclosed situation, causal conditions and verification
+
+The [MEF account](../concepts/C39-Meta-Epistemic-Framework.md) **defines** four offices which the product inventory does not replace. QL supplies the relational unit and positional transformation; MEF declares lenses, warrants and refractions; Bimba supplies a governed local reference with sources and conditions; the harness carries permission, execution, review, revision and responsibility. Bimba remains a real local original and source-dependent in a wider relation.
+
+[Prompt Thrownness](../concepts/C44-Prompt-Thrownness.md) **grounds** the specific **L4→L1→L1′→L4′** intervention protocol. L4 starts from the disclosed situation: the agent’s account of its inherited prompt, language, history, task and permissions. L1 traces the producing conditions—model, training, context construction, memory, tools and harness. L1′ records the reported or functionally modelled apprehension while keeping qualia unpresumed. L4′ tests the proposed explanation by changing a specified prompt, context, continuity artifact, memory or permission and observing the resulting conduct.
+
+The experiment is Offered. Record the initial task, model revision, selected context, policy and result; specify the condition to change and the outcome predicted to differ; hold the other relevant conditions stable or record their variation; execute the comparison and inspect its outcome, including a null result. A permission intervention should be checked at the attempted action and its authorisation, not inferred solely from a changed self-description. [A33](../arguments/A33-Epistemic-Cultivation-Operational-Parity.md) **tests** that discriminable consequence and requires it to revise the proposed causal account. These four offices do not collapse into four empirical proofs, and neither L4 nor L4′ loses the full rotated Name/Power constellation.
+
+<a id="oi-why-for-lens-return"></a>
+The [MEF source’s local architecture](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md#passages) **sources** the developmental **L0.5 / P5 why/for** routing. After an achieved determination, ask why this result, for what purpose, and in relation to which focal meaning it holds. The returned account records which lens made its question, evidence and judgment possible, what another lens changes, and which disagreement remains. The older reference describes QL positions as transcendental attractors; that is the source’s architectural appointment, not an independently measured dynamical basin. This dossier retains the lens-routing proposal as design with a discriminable-operation test. Aristotle’s focal predication and C63’s qualified respect neither derive that coordinate assignment nor certify the method’s utility.
+
+<a id="oi-cross-entropy"></a>
+### A training loss has its own target and assumptions
+
+The inherited cross-entropy task has an exact mathematical office. For a finite categorical target distribution `q` with nonnegative entries summing to one and strictly positive predicted probabilities `p`, define `H(q,p) = −Σᵢ qᵢ log pᵢ`, using natural logarithms. With unweighted one-hot target `y`, this becomes `−log pᵧ`. If `p = softmax(z)` at temperature one, differentiating with respect to a logit gives `∂H/∂zⱼ = pⱼ − qⱼ`. Minimising this loss over model parameters uses their effect on the logits; the loss is not the softmax normalisation or the argmax index chosen afterwards.
+
+For example, logits `(0, log 3)` give probabilities `(1/4, 3/4)`. Targeting the second class gives loss `log(4/3)` and logit gradient `(1/4, −1/4)`. Adding one constant to both logits leaves these probabilities and this loss unchanged. Changing the target, class weighting, reduction or ignored items changes the stated training problem; those variants are outside this unweighted single-example calculation. Label smoothing replaces the one-hot target with another distribution. A non-unit temperature changes the derivative through its scale. DPO’s pairwise preference objective and reference policy remain a separate training construction. The apoha comparison concerns the retained field of alternatives; it neither supplies this loss’s historical origin nor certifies the outcome of a training run.''',[48,58,59,73])
+insert('The companion history **', '',[]) if False else None
+# Locate the existing #5 source-revision paragraph without assuming unrelated current additions.
+marker='The [technology–politics companion]'
+if marker not in t:
+ marker='E4\'s [Symbol / Account / Trust field]'
+insert(marker,'''<a id="oi-community-refinement"></a>
+Shared sessions and a knowledge graph have a particular office in the **P5→P0 community-refinement proposal**. A session’s achieved artifact retains participants, source relations, decisions and unsettled differences; selected relations enter the shared knowledge field under their declared origins. The community then reviews that product, corrects or refuses its proposed use, and admits an attributable result into the conditions of another session. P5’s achieved work becomes P0’s inherited potential through that governed return. Recording a session or accumulating edges alone does not establish collective individuation, and the report supplies no measured learning outcome for this procedure.
+
+The [trust-revision source](../sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md) **grounds** the situated anchors which this procedure must preserve: embodied competence, relationship, lineage, land, ritual, family, source, institution and local continuity. Their presence does not make every inherited practice just; their histories and affected people must remain able to change their use. The mono–poly design keeps **common QL procedure, plural MEF lenses and federated local Bimba grounds** distinct. A shared grammar permits crossing; different lenses keep their warrants; each local original retains the authority to receive, revise or refuse a contribution while remaining source-dependent. Neither federation nor a combined graph replaces those relations with a universal owner.''',[3,51])
+f.write_text(t)
+(P/'OI-reference-foldback-changes.json').write_text(json.dumps({'path':str(f),'before_sha256':hashlib.sha256(before.encode()).hexdigest(),'after_sha256':hashlib.sha256(t.encode()).hexdigest(),'changes':changes},ensure_ascii=False,indent=2)+'\n')
+print('OI foldback applied',len(changes),'guarded edits')

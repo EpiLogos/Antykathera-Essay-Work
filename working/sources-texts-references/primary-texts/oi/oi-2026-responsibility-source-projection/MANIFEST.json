@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-08",
+  "prior_immutable_packet": "working/p2-enrichment/snapshots/T21-private-oi-technical-responsibility-2026-09-08/bound-inputs.zip",
+  "entries": [
+    {
+      "path": "/Users/admin/Central/Work/O-I/docs/CANONICAL-PRODUCT-FIELD.md",
+      "sha256": "bb1cfcf38abf8d16095cdff5af0424aea5f120b695b64e093500523a0a105456",
+      "read_scope": "full actual current local product source; code static scope plus private functional probe only",
+      "git_head": "c1ce2db81eec3b03a9bdff0a1accf8ece4acf903",
+      "matches_committed_head": false,
+      "local_copy": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/CANONICAL-PRODUCT-FIELD.md"
+    },
+    {
+      "path": "/Users/admin/Central/Work/O-I/docs/OBJECTIVE-CO-INTERNALITY.md",
+      "sha256": "1551650f169253bff509c6cde991ab3f531b8e66baa531e6145f357e909e3d85",
+      "read_scope": "full actual current local product source; code static scope plus private functional probe only",
+      "git_head": "c1ce2db81eec3b03a9bdff0a1accf8ece4acf903",
+      "matches_committed_head": true,
+      "local_copy": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/OBJECTIVE-CO-INTERNALITY.md"
+    },
+    {
+      "path": "/Users/admin/Central/Work/O-I/docs/positions/FOUNDING-POSITIONS.md",
+      "sha256": "f41ed11c377133a579d1284d2366167298050c955dedbc61fb5971e3d523e490",
+      "read_scope": "full actual current local product source; code static scope plus private functional probe only",
+      "git_head": "c1ce2db81eec3b03a9bdff0a1accf8ece4acf903",
+      "matches_committed_head": true,
+      "local_copy": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/FOUNDING-POSITIONS.md"
+    },
+    {
+      "path": "/Users/admin/Central/Work/O-I/shared-field/social.mjs",
+      "sha256": "e416cd91b84174125bd32f416d8cf0b7d51f571ec39ef8d1534b3e2e4df2ba5c",
+      "read_scope": "full actual current local product source; code static scope plus private functional probe only",
+      "git_head": "c1ce2db81eec3b03a9bdff0a1accf8ece4acf903",
+      "matches_committed_head": true,
+      "local_copy": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/social.mjs"
+    },
+    {
+      "path": "working/harmonisation-2026-08-18-objective-internality-capstone/SOURCE-AND-AUTHORITY-MAP.md",
+      "sha256": "afa9a34ca9d508add01e2cf961cc81c86129149ab17ac74f53a1c237a1b19f03",
+      "local_copy": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/SOURCE-AND-AUTHORITY-MAP.md",
+      "read_scope": "full dated authorial contract; historical audit assertions retain August scope"
+    },
+    {
+      "path": "working/harmonisation-2026-08-18-objective-internality-capstone/SYMBOLON-OI-WIKI-CONTRACT.md",
+      "sha256": "2bc48a09e0de793b98135c428b1eb1251c88adf2b704b870e7165cdd8cd9d489",
+      "local_copy": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/SYMBOLON-OI-WIKI-CONTRACT.md",
+      "read_scope": "full dated authorial contract; historical audit assertions retain August scope"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T21-private-oi-technical-responsibility-2026-09-08/implementation-probe.mjs",
+      "sha256": "bb56aa57526d3a14746c3b28058f7a6f0a6445cda7c147c2b1dd5c94b02a5742",
+      "local_copy": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/implementation-probe.mjs",
+      "read_scope": "complete direct constructor probe/evidence"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T21-private-oi-technical-responsibility-2026-09-08/implementation-probe.json",
+      "sha256": "ba9daa45625b7219d20ae78de420301c8215e9cd901c02ecb60835177c2b756c",
+      "local_copy": "working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/implementation-probe.json",
+      "read_scope": "complete direct constructor probe/evidence"
+    }
+  ]
+}

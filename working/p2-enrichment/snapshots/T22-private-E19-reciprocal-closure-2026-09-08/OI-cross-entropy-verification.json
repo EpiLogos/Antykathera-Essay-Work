@@ -1,0 +1,15 @@
+{
+  "scope": "Independent finite-difference check of the explicit unweighted single-example cross-entropy calculation; no training run",
+  "loss": 0.2876820724517808,
+  "expected_loss": 0.28768207245178085,
+  "numerical_gradient": [
+    0.2500000000349445,
+    -0.2500000000349445
+  ],
+  "expected_gradient": [
+    0.25,
+    -0.25
+  ],
+  "shifted_loss": 0.2876820724517808,
+  "passed": true
+}

@@ -1,0 +1,35 @@
+{
+  "root": {
+    "id": "softmax-as-apoha",
+    "title": "Softmax as Apoha",
+    "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/softmax-as-apoha.md",
+    "artifact_type": "legacy-reference",
+    "authority": "frozen-provenance",
+    "headings": [
+      "Softmax as Apoha"
+    ],
+    "sha256": "b7da25a77162f046f5df33524f7f4c71e65a54f2e647cc5422ff5533eaf13692",
+    "source_status": "bibliography-seed",
+    "tags": [
+      "epi-logos/antikythera-essay",
+      "argument-map/reference"
+    ]
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}

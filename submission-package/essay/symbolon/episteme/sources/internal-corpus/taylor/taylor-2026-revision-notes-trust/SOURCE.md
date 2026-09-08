@@ -15,7 +15,7 @@ author:
 - Frank G. Taylor
 title_full: Revision Notes — Trust and F-Blocks
 year: 2026
-local_copy: /Users/admin/Documents/Nara-Personal/Antykathera-Essay-Work/definition-of-god-working/revision-notes-trust-and-f-blocks.md
+local_copy: "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md"
 consumed_by_sections:
 - '[[04-s01-p3-formal-limit-genealogy|§0/1/#3]]'
 - '[[19-s2-p0-difference-cannot-be-escaped|§2/#0]]'

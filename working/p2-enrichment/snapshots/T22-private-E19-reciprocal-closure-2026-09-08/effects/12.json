@@ -1,0 +1,718 @@
+{
+  "root": {
+    "id": "jung-pauli-psychoid",
+    "title": "Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms",
+    "path": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Jung–Pauli — Psychoid, Number and a Translation That Changes Its Terms",
+      "#0 — An exchange whose differences belong to its result",
+      "#1 — Meaningful coincidence makes the concepts of cause and time difficult",
+      "#2 — Neutrality is negotiated rather than presumed",
+      "#3 — Number's two offices meet the cost of disciplinary adoption",
+      "#4 — Quaternity and later research acquire different carriers",
+      "#5→0 — The receiving apparatus must change"
+    ],
+    "sha256": "3f1a2db2052367e6caa7aae1992d6c3d15ddb10a4b168c335357bbab8e78d428",
+    "claim_status": "Argued",
+    "register": "episteme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [
+      {
+        "id": "C30-Psychoid-Number",
+        "title": "C30 — Psychoid Number",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C30 — Psychoid Number",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "c48ab737309650257824f47d32a978a985574eee3fbde89611f0c192d7564298",
+        "claim_status": "Offered",
+        "register": "episteme"
+      }
+    ],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [
+      {
+        "id": "C30-Psychoid-Number",
+        "title": "C30 — Psychoid Number",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C30 — Psychoid Number",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "c48ab737309650257824f47d32a978a985574eee3fbde89611f0c192d7564298",
+        "claim_status": "Offered",
+        "register": "episteme"
+      },
+      {
+        "id": "C11-Quaternal-Logic",
+        "title": "C11 — Quaternal Logic",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C11 — Quaternal Logic",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "88f1c62e097e439633257a41303e220313ce4bcd91cd5a49c659c1bc482614a4",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C31-Complex",
+        "title": "C31 — Complex",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C31 — Complex",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "95452ed6b422c56a78628beaa898a58e0a36526d6bade5d4fcb657d316a9a085",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C32-Archetype",
+        "title": "C32 — Archetype",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C32 — Archetype",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "969a7e00c77f3f862afec67bdc2adab5ffa45b4ef1c0d8fd8818b27ae226411c",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C33-Image-Valuation",
+        "title": "C33 — Image / Valuation",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C33 — Image / Valuation",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining source depth"
+        ],
+        "sha256": "816443a853624cd9e5a7dfc287c919f0e9f3021ce606335c03815e13168d5367"
+      },
+      {
+        "id": "C61-Symbolon-Disclosure-Architecture",
+        "title": "C61 — Symbolon Disclosure Architecture",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C61 — Symbolon Disclosure Architecture",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "260fb2d88193d12f9091e54b7da19dd3dcc82b93c74e1219a23736d2ae75fd55"
+      },
+      {
+        "id": "C21-Living-Symbol-Idol",
+        "title": "C21 — Living Symbol / Idol",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C21 — Living Symbol / Idol",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "40b097b1679aa5302e617ecc5811c2075f2270d6637dacfeab9d5384e7ba233c",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C27-Protected-Account-Occupied-Zero-Source-Claim",
+        "title": "C27 — Protected Account / Occupied Zero / Source-Claim",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C27 — Protected Account / Occupied Zero / Source-Claim",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Developmental provenance",
+          "Remaining depth"
+        ],
+        "sha256": "d9b206c1d1b1d77570c44461cb71e30b10d183095008c5515aaa5f41e6a5d8a2"
+      },
+      {
+        "id": "C34-Individuation",
+        "title": "C34 — Individuation",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C34 — Individuation",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining source depth"
+        ],
+        "sha256": "9ca6094892966dfb57019a3f1b603d2ea7b1624644e3db0856d15cc215502f68"
+      },
+      {
+        "id": "C46-Epistemic-Cultivation",
+        "title": "C46 — Epistemic Cultivation",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C46 — Epistemic Cultivation",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "9d5c51bddb412f668b68dbead04b01143f11e6b09ca5ea28e62727047cbf6293"
+      },
+      {
+        "id": "C49-The-Two-Ones-0-One-1-All",
+        "title": "C49 — The Two Ones — 0 = One, 1 = All",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C49 — The Two Ones — 0 = One, 1 = All",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "dccfb36728904a84479de54c646e66612f8689a1ee337a2985eacd33ec43c12b"
+      },
+      {
+        "id": "C50-Dia-Syn",
+        "title": "C50 — Dia / Syn",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C50 — Dia / Syn",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0",
+          "Declared field",
+          "Provenance",
+          "Remaining depth"
+        ],
+        "sha256": "5f647cf914b0fe9ebe7cd960aa3ef9f62018d77c6e2f05d6d6a8998a436abf83"
+      },
+      {
+        "id": "08-deferential-intelligence",
+        "title": "Deferential Intelligence",
+        "path": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+        "artifact_type": "argument",
+        "authority": "canonical-argument",
+        "headings": [
+          "Deferential Intelligence",
+          "Claim",
+          "Warrant",
+          "Operational test",
+          "Claim boundary"
+        ],
+        "sha256": "d4bbf861af1efba4eb7b945267edd58fe39b0d0af9ae2f3083a4610dd5edd4c3",
+        "claim_status": "Argued",
+        "evidence_status": "internal-synthesis",
+        "coordinates": [
+          "P5",
+          "P0",
+          "L4'",
+          "L5'"
+        ],
+        "tags": [
+          "epi-logos/antikythera-essay",
+          "argument-map/live",
+          "argument-map/praxis",
+          "argument-map/claim"
+        ]
+      },
+      {
+        "id": "18-trust-faith-formal-limit",
+        "title": "Trust, Faith, and the Formal Limit",
+        "path": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+        "artifact_type": "argument",
+        "authority": "canonical-argument",
+        "headings": [
+          "Trust, Faith, and the Formal Limit",
+          "Claim",
+          "Warrant — how knowledge bears or betrays trust",
+          "The mythic hinge",
+          "The AI trial",
+          "Boundary and relation to mono-poly"
+        ],
+        "sha256": "228538fffb57d2c80ccf21f2fb2c63b1287b70c3c240cd2f371a4762a27c0921",
+        "claim_status": "Argued",
+        "evidence_status": "authorial-source-synthesized",
+        "coordinates": [
+          "P0",
+          "P2",
+          "P5",
+          "L1'",
+          "L2",
+          "L4",
+          "L5'"
+        ],
+        "tags": [
+          "epi-logos/antikythera-essay",
+          "argument-map/live",
+          "argument-map/trust",
+          "argument-map/faith",
+          "argument-map/formal-limit"
+        ]
+      },
+      {
+        "id": "C19-Pratyabhijna-Recognition",
+        "title": "C19 — Pratyabhijñā / Recognition",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C19 — Pratyabhijñā / Recognition",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "581013c2c228b0c939bdd36cb45e9b6459f1e4774d57c3079408caa15746a5c6",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "C22-Counterfeit-Symbolon",
+        "title": "C22 — Counterfeit Symbolon",
+        "path": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "C22 — Counterfeit Symbolon",
+          "#0",
+          "#1",
+          "#2",
+          "#3",
+          "#4",
+          "#5→0"
+        ],
+        "sha256": "ae7833804db2f889be3514b25abeb0612c27881860e4ef3ebea87ef3e040ca73",
+        "claim_status": "Argued",
+        "register": "episteme"
+      },
+      {
+        "id": "compassion-as-sensitivity-to-origins",
+        "title": "Compassion as Sensitivity to Origins",
+        "path": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+        "artifact_type": "concept",
+        "authority": "canonical-argument",
+        "headings": [
+          "Compassion as Sensitivity to Origins",
+          "Definition",
+          "The minimum technical body",
+          "In the argument"
+        ],
+        "sha256": "13fccd291d706d4ba0aa6c688b046dcd78c5b47527d632185f7da1e50064a80c",
+        "claim_status": "Argued",
+        "coordinates": [
+          "P5",
+          "5→0"
+        ],
+        "register": "episteme",
+        "tags": [
+          "epi-logos/antikythera-essay",
+          "argument-map/concept",
+          "argument-map/praxis",
+          "ethics/provenance"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "source": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+        "raw_target": "../concepts/C30-Psychoid-Number.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+        "raw_target": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic",
+        "relation": "wikilink",
+        "origin": "wikilink",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+        "raw_target": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype",
+        "relation": "wikilink",
+        "origin": "wikilink",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+        "raw_target": "submission-package/essay/symbolon/episteme/concepts/C31-Complex",
+        "relation": "wikilink",
+        "origin": "wikilink",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+        "raw_target": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation",
+        "relation": "wikilink",
+        "origin": "wikilink",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "raw_target": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture",
+        "relation": "wikilink",
+        "origin": "wikilink",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+        "raw_target": "C49-The-Two-Ones-0-One-1-All.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "raw_target": "C50-Dia-Syn.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "raw_target": "C61-Symbolon-Disclosure-Architecture.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+        "raw_target": "C46-Epistemic-Cultivation.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+        "raw_target": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation",
+        "relation": "wikilink",
+        "origin": "wikilink",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "raw_target": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol",
+        "relation": "wikilink",
+        "origin": "wikilink",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+        "raw_target": "submission-package/essay/symbolon/episteme/concepts/C31-Complex",
+        "relation": "wikilink",
+        "origin": "wikilink",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+        "raw_target": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number",
+        "relation": "wikilink",
+        "origin": "wikilink",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "raw_target": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture",
+        "relation": "wikilink",
+        "origin": "wikilink",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+        "raw_target": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation",
+        "relation": "wikilink",
+        "origin": "wikilink",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+        "raw_target": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype",
+        "relation": "wikilink",
+        "origin": "wikilink",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "raw_target": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim",
+        "relation": "wikilink",
+        "origin": "wikilink",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+        "raw_target": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation",
+        "relation": "wikilink",
+        "origin": "wikilink",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+        "target": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+        "raw_target": "../../../section-rooms/arguments/08-deferential-intelligence.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+        "target": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+        "raw_target": "../../../section-rooms/arguments/18-trust-faith-formal-limit.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+        "raw_target": "compassion-as-sensitivity-to-origins.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "raw_target": "C19-Pratyabhijna-Recognition.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "raw_target": "C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "raw_target": "C22-Counterfeit-Symbolon.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      },
+      {
+        "source": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "raw_target": "C61-Symbolon-Disclosure-Architecture.md",
+        "relation": "markdown-link",
+        "origin": "markdown-link",
+        "resolved": true
+      }
+    ]
+  },
+  "transverse_threads": [
+    {
+      "id": "trust-faith-formal-limit",
+      "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "artifact_type": "path",
+      "authority": "canonical-argument",
+      "headings": [
+        "Trust, Faith, and the Formal Limit — Transverse Thread"
+      ],
+      "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+      "register": "episteme",
+      "tags": [
+        "epi-logos/antikythera-essay",
+        "argument-map/live",
+        "argument-map/path",
+        "argument-map/trust"
+      ]
+    }
+  ],
+  "registers": {
+    "root": "episteme",
+    "carriers": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+        "register": "undeclared"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+        "register": "episteme"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/compassion-as-sensitivity-to-origins.md",
+        "register": "episteme"
+      }
+    ]
+  }
+}

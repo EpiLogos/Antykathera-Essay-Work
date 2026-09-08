@@ -1,0 +1,54 @@
+{
+  "root": {
+    "id": "HISTORICAL-BRANCHES",
+    "title": "Fides / Topos / Logos / Nomos / Natio / Credere — Historical Branches",
+    "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORICAL-BRANCHES.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Fides / Topos / Logos / Nomos / Natio / Credere — Historical Branches",
+      "The six lexical inputs",
+      "Fides / fidere",
+      "Topos",
+      "Logos",
+      "Nomos / nemein",
+      "Natio / nasci",
+      "Credere / creditum",
+      "French documentary sequence",
+      "Twelve branches and their distinct return tasks",
+      "I — Occitania and Capetian/French incorporation",
+      "II — Posquières, Lunel and the Jewish/Kabbalistic field",
+      "III — Renaissance transmission and mathematical office",
+      "IV — Yates, Hanegraaff and rejected knowledge",
+      "V — Jung's Aion and psychic history",
+      "VI — Italy's literary and administrative languages",
+      "VII — Germany, Volk and racialised classification",
+      "VIII — Anglo-Celtic jurisdiction",
+      "IX — Hebrew revival and Zionism",
+      "X — Abrahamic Word, law and people",
+      "XI — Post-war recombination",
+      "XII — Computation makes the sequence executable",
+      "Rings, sources and return"
+    ],
+    "sha256": "187e685c87019266840acee526fa124303c6800b05f9a58637bac299a0aeed76",
+    "claim_status": "Argued",
+    "register": "episteme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "episteme",
+    "carriers": []
+  }
+}

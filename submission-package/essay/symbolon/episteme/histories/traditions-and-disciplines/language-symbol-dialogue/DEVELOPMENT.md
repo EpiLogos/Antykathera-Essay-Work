@@ -69,6 +69,8 @@ The canonical [1996 *On Dialogue* house](../../../sources/process-systems-theory
 
 ## #4 — Weights and selections acquire different offices
 
+The history **returns-to** [Con-text-through-Diaphaneity](../../../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity) through the assumption that becomes available for inquiry in dialogue. A participant’s reply can alter what the question asks and how its answer is judged. This register-3 consequence retains the distinct practices of address and suspension; their source histories do not establish a single procedure or guaranteed result.
+
 <a id="language-selection"></a>
 
 Vaswani and colleagues' 2017 Transformer paper specifies attention through queries, keys and values. Scaled query–key dot products enter softmax; the resulting weights combine values. [The canonical §3.2.1 passage](../../../sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md#vaswani-et-al-2017-attention-q002) **sources** that operation. Its architecture and two translation tasks have their own scope. The paper does not claim to have explained Buddhist reference, reproduced psychoanalytic address or established artificial phenomenality.

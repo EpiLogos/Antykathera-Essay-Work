@@ -1,0 +1,46 @@
+{
+  "root": {
+    "id": "fanon-1952-peau-noire-masques-blancs",
+    "title": "Fanon — Peau noire, masques blancs (1952; French electronic edition 2011)",
+    "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/fanon/fanon-1952-peau-noire-masques-blancs/SOURCE.md",
+    "artifact_type": "source-house",
+    "authority": "source-authority",
+    "headings": [
+      "Fanon — Peau noire, masques blancs",
+      "Bibliographic identity and consulted object",
+      "Chicago18 forms",
+      "Reading scope and source operation",
+      "Selected French material",
+      "Passage card — fanon-1952-peau-noire-masques-blancs-q001 — Introduction: situation and scope",
+      "Passage card — fanon-1952-peau-noire-masques-blancs-q002 — I — Le Noir et le langage",
+      "Passage card — fanon-1952-peau-noire-masques-blancs-q003 — V — L’expérience vécue du Noir: full movement",
+      "Passage card — fanon-1952-peau-noire-masques-blancs-q004 — V — The train and racial hail within that movement",
+      "Passage card — fanon-1952-peau-noire-masques-blancs-q005 — VII — Le Nègre et la reconnaissance",
+      "Passage card — fanon-1952-peau-noire-masques-blancs-q006 — En guise de conclusion",
+      "Admission completed and remaining boundaries"
+    ],
+    "sha256": "839784325edb231617a7aca197c1894c195caaf1a6b3274aee0e092dedc6b7b7",
+    "citation_status": "citation-ready-for-selected-French-scopes",
+    "quote_status": "paraphrase-only",
+    "main_source_for": [
+      "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md"
+    ]
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "undeclared",
+    "carriers": []
+  }
+}
