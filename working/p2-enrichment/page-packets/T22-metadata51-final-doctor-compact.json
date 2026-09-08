@@ -1,0 +1,45 @@
+{
+  "observed_in": "T22-metadata51-hygiene.json",
+  "counts_by_kind": {
+    "dangling-room-fragment": 3,
+    "missing-register": 70,
+    "missing-status": 1,
+    "stale-bkmr-adapter": 156,
+    "thin-concept": 65,
+    "unresolved-link": 55
+  },
+  "missing-passage-locator": 0,
+  "missing-passage-provenance": 0,
+  "remaining_room_fragments": [
+    {
+      "path": "submission-package/essay/section-rooms/00-integral-threshold/READING.md",
+      "authority": "learning-refraction",
+      "kind": "dangling-room-fragment",
+      "detail": "THE-RETURN-OF-ZERO.md#section-s01-integral-threshold",
+      "relation": "markdown-fragment"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/00-integral-threshold/READING.md",
+      "authority": "learning-refraction",
+      "kind": "dangling-room-fragment",
+      "detail": "THE-RETURN-OF-ZERO.md#section-s01-integral-threshold",
+      "relation": "markdown-fragment"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/02-return-of-zero/READING.md",
+      "authority": "learning-refraction",
+      "kind": "dangling-room-fragment",
+      "detail": "THE-RETURN-OF-ZERO.md#section-s1-return-of-zero",
+      "relation": "markdown-fragment"
+    }
+  ],
+  "inherited_source_link": {
+    "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+    "raw_target": "Individuation-Recognition",
+    "present_in_before": true,
+    "unchanged_by_metadata_edits": true,
+    "proposed_owner_target": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+    "disposition": "Do not apply under metadata-only scope; parent verify proposition and repair navigation separately."
+  },
+  "index": "Parent owned; metadata remains unstaged"
+}

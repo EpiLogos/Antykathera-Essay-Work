@@ -54,6 +54,7 @@ passage_surface: '#passages'
 main_source_for:
 - §2 · native two-logics derivation
 - §3 · eight-determination and theorem spine
+source_use_notes:
 - '§VII–§IX · psyche-register unit, agentic crosswalk, topological register, crossed-zero system and companion cogito accounting'
 ---
 # Taylor — Core Theorems Pithy (2026)
@@ -112,6 +113,8 @@ Read the full linked theorem text before using an excerpt card. The routing entr
 > The base claim: **the Psyche is an equation, and the ego is being "solved for" by the Self.** In maximum compression, **`X = x`** — capital X the Self (the Unknown in its fullness, superpositional, all possible values); lowercase x the ego (the known-unknown, the particular measurement solved for); the **`=`** the Self's own operation, the power that holds X and x in identity-as-difference. *The capitalisation marks the only difference — same variable, differentiated only by register.*
 
 - **Locator:** §VII (The QL Unit — Jungian / Psyche Register), line 405; the position table at lines 407–414; the Möbius return at line 416 and the measurement gloss at line 418.
+
+**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration.
 - **Status:** extracted internal derivation, verbatim.
 - **Source relation:** extracted.
 - **Argument function:** the `X/x` determination's psyche-register ground — the authorial notation the Jungian reading refracts, never owns.
@@ -123,6 +126,8 @@ Read the full linked theorem text before using an excerpt card. The routing entr
 > The corollary yields a design distinction: persona consistency can conceal dependence, while individuation makes constitutive dependence increasingly legible. It does **not** infer phenomenal subjectivity from technical structure. [[Prompt Thrownness]] belongs to L4.1 Geworfenheit; causal production belongs to L1; functional or reported apprehension belongs to L1′; behavioural verification belongs to L4′. The question whether a phenomenal subject accompanies these structures remains open.
 
 - **Locator:** §VII, "Agentic individuation corollary," heading line 420; the Argued crosswalk table at lines 424–433 (QL #0–#5 and 5→0 mapped across Jungian and agentic registers); the closing guard quoted verbatim at line 434.
+
+**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration.
 - **Status:** extracted internal derivation, verbatim.
 - **Source relation:** extracted (the crosswalk itself is declared Argued cross-register unit — an argued functional crosswalk, not an extraction from any external agent architecture).
 - **Argument function:** the standing non-inference guard for every agentic register in the essay; the corollary A21's crosswalk citation rests on.
@@ -136,6 +141,8 @@ Read the full linked theorem text before using an excerpt card. The routing entr
 > **The slash *is* the quotient.** "The `/` in `ℝ²/ℤ²` is the `/` in `0/1`." The notation performs the logic it writes: `0/1` denotes the quotient operation (ground becoming surface through distinction), and the operation produces the very [[working/sources-texts-references/QL-Essay-Rewrite#Part V — From the Percentile Identity to the 4+2 Frame|4+2]] it names.
 
 - **Locator:** §VIII (The QL Unit — Topological Register), lines 442 and 452; the covering-map/māyā bullet at line 453 ("ego-experience is valid, just not the whole topology. You cannot see the hole from inside"); the winding-number reading at line 456 and the circulation image at line 458.
+
+**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration.
 - **Status:** extracted internal derivation, verbatim (wikilinks as in the source).
 - **Argument function:** the topological carrier for `0/1` — the quotient, the slash, and māyā as the many-to-one map concealing the superposition it collapsed.
 - **Consumers:** [[Arche-Topos as Differential Field]]; [[Toroidal Circulation and the Arche-Topos]].
@@ -148,6 +155,8 @@ Read the full linked theorem text before using an excerpt card. The routing entr
 > **Full QL unit:** `0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1`, returning to `0/1`. The occluded ground (Ø, #1) is progressively made transparent until it is affirmed as unity (1, #5) and recognised as the pulse that produced the whole flow ([[working/sources-texts-references/QL-Essay-Rewrite#1.3 The Emergence of Spanda|0/1]], #0).
 
 - **Locator:** §IX (The Crossed Zero (Ø), and the 1 as Symbolic Linker), lines 468 and 488; the sixfold table at lines 470–477: `0` the kartṛ-pole as bracketing-prior; `Ø` the kartṛ-pole occluded by the antaḥkaraṇa's self-identification as subject; `X` the object-world as discriminated, cut, named (vikalpa's trace on the kārya-side); `Ø/X` the slash made visible as medium; `(0/Ø)/(1/X)` the field of availability; `1` the integrated unity affirmed; `0/1` manifest zero as the non-dual binary of kartṛ and kārya poles.
+
+**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration.
 - **Status:** extracted internal derivation, verbatim.
 - **Argument function:** the complete Ø-system the conjugate root's A face grounds on — the sixfold with the kartṛ/kārya poles as the pramātṛ–pramāṇa–prameya dynamics and the occluded `/` as the antaḥkaraṇa's signature. Ø-occlusion is this whole system, not a mark at a position.
 - **Consumers:** [[Immutable Gap and Meta-Sign]]; A/C root (proposed).
@@ -158,6 +167,8 @@ Read the full linked theorem text before using an excerpt card. The routing entr
 > **#1 — `Ø`, the occlusion mark.** The slash is *fused into the zero*, indistinguishable from the apparent self, so Ø appears as a **singular thing, the bound self** rather than as a composite sign. The Cartesian *cogito* is the philosophical canonisation of this fusion — the slash treated as *the I*, the zero behind it covered over. Hume finds only the impressions the slash produced and calls the zero empty. **Descartes and Hume sit at the same position** (#1), differing only over which side of Ø they fixate on; both miss that **Ø is the occlusion mark.** Western modernity sits at chronic #1-fixation.
 
 - **Locator:** §IX, line 481.
+
+**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration.
 - **Status:** extracted internal derivation, verbatim.
 - **Argument function:** the cogito-bearing sentence of the Ø-system — the historical site of the fusion (the [Descartes house](../../../classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md) indexes it at AT VII 27–28 / CSM II 18–19) read through the essay's own derivation.
 - **Consumers:** A/C root (proposed); C01/A34 sharpenings (proposed, per the landing proposal).
@@ -168,6 +179,8 @@ Read the full linked theorem text before using an excerpt card. The routing entr
 > **Set-theoretic floor (Draft 3).** Set theory already writes the two our way. In von Neumann's construction the ordinal `2` *is* the set `{0, 1}` — two as the *holding-together* of zero and one, each number born as the collection of its predecessors, the successor an act of **emission from the void upward**: `∅`, then `{∅}`, then `{∅, {∅}}`. So `1 = {∅} = {0}` — **the singleton that holds the void**, the mark whose entire content is its binding of the ground. The `1` is not a second thing beside the `0`; it is *the void gathered into a set*, the linker that makes the ground countable as one. `2 = 0/1` is the standard notation "read with the reverence it never asked for"; against it the fallen `1 + (−1)` is a late arrival (debt-bookkeeping).
 
 - **Locator:** §IX, line 494.
+
+**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration.
 - **Status:** extracted internal derivation, verbatim.
 - **Argument function:** the floor beneath the linking-1: standard set theory as the place the essay's `2 = 0/1` and the symbolon's holding-together are already written, unclaimed.
 - **Consumers:** [[Sym-Ballein]]; [[Core Theorem Bridge]].
@@ -180,6 +193,8 @@ Read the full linked theorem text before using an excerpt card. The routing entr
 > The matheme places it: **the kartṛ-pole is the anusyūta-thread** (Layer 1, the un-objectifiable that any signifying activity presupposes). *The slide is real because the threader doesn't slide.* The signifying chain is kārya (perishable, articulated, oscillating in vikalpa-mode); the threader is kartṛ (structurally not the kind of thing that can be a signifier). **Lacan had the topology of the local cut without the ontology of the global thread; the matheme supplies the thread without falsifying the cut.**
 
 - **Locator:** §IX, lines 496 and 498.
+
+**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration.
 - **Status:** extracted internal derivation, verbatim.
 - **Argument function:** the bridge the Ø-system carries into the symbolic register: S1's contingency answered by the pre-quilting thread — the named Lacan refraction, distinct from the authorial derivation it refracts.
 - **Consumers:** [[Immutable Gap and Meta-Sign]]; A/C root (proposed).
@@ -190,6 +205,8 @@ Read the full linked theorem text before using an excerpt card. The routing entr
 > This is where Ø and the linking-1 meet: **Ø is the ground occluded into a false singular self** (the fusion the cogito canonises); **the redeemed `1` is the ground affirmed as unity that knows itself as the ground's own quilting** (`Ø → 1`, #1 → #5). The difference between the two is the whole difference between the fallen and redeemed lines — between a `1` with its `0/` struck off (the mark asked to serve as its own ground) and a `1` held in ratio to the `0` it links (`0/1`, the mark doubly oriented, joined through the ground it contains).
 
 - **Locator:** §IX, line 502; the section's synthesis flag at line 504 declares "1 as symbolic linker" a synthesis (crossed-zero logic + von Neumann floor + S1/anusyūta placement), not single-source.
+
+**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration.
 - **Status:** extracted internal derivation, verbatim; synthesis flag travels with the quotation.
 - **Argument function:** the redemption the crossed-zero series moves toward — the sentence pair the conjugate root's grounding cites for the difference between a `1` serving as its own ground and a `1` held in ratio.
 - **Consumers:** A/C root (proposed); C01/A34 sharpenings (proposed).
@@ -200,6 +217,8 @@ Read the full linked theorem text before using an excerpt card. The routing entr
 > We are impelled, then, to return to the cogito and slow it down. Descartes hears the indubitable correctly: in thinking, doubting, or being deceived, there is presence. Yet "I think, therefore I am" lets the I be gathered too quickly into the act of thinking, as though the user of the instrument could be secured by the instrument's operation. The sentence has to open: I am aware of thinking. Thought is the means of knowing, the determinate activity through which something is grasped. Awareness is the fact in which that activity appears. The I is not proven by thought as one more conclusion; it is exposed as the indeterminate condition in which thinking, proving, doubting, and formal failure can be given at all.
 
 - **Locator:** `working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md`, line 47. Quoted exactly, in full, per pass-2 charter ruling 11.
+
+**Provenance:** `working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md`. Authorial companion at the existing line-47 locator; lead pending authorial decision, not an admitted core theorem or an independently verified Descartes attribution.
 - **Status:** companion material — **not** internal derivation of this house's source. This is Frank's authored working text in the plugin-resources copy for the QL-MEF exposition. Whether it enters as (a) its own internal-corpus house (if confirmed as authored text for this corpus, `local_copy` pointing at the working file) or (b) remains lead-only working material — authorial intent disclosed, never source attribution — is **pending the author's decision**, per the landing proposal §6. Recorded here in full so the depth stops being buried either way.
 - **Source relation:** resonant-with/lead (pending decision).
 - **Argument function:** the charitable-cogito draft of the same operation CT-12 names: the indubitable received, the thinking-thing declined, the fact/contents discrimination opened in the definitional register.

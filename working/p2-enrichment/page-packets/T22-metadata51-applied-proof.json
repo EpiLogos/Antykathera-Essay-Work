@@ -1,0 +1,380 @@
+{
+  "scope": "Authorised proposal edits only; 51 cards, 15 sources",
+  "sources": {
+    "submission-package/essay/symbolon/episteme/sources/biblical-studies/nag-hammadi/hypostasis-archons-layton/SOURCE.md": {
+      "before_sha256": "c54c6b98fd8c44e7a7d7b2898e94e4e76b8a00e9437f25eeb7f8049e1f6eb05f",
+      "after_sha256": "e019bc918965798337bafb253d103d1f45b84f9c2cd07d0d00d158bd09f2873d",
+      "edits": [
+        {
+          "passage_id": "hypostasis-archons-layton-q001",
+          "old": "**Locator:** Opening apostolic inquiry through garden prohibition, in the linked online translation. **Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#25-adam-eve-and-the-rulers-attempt-to-possess-life).",
+          "new": "**Locator:** Opening apostolic inquiry through garden prohibition, in the linked online translation.\n\n**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#25-adam-eve-and-the-rulers-attempt-to-possess-life)."
+        },
+        {
+          "passage_id": "hypostasis-archons-layton-q002",
+          "old": "**Locator:** Sleep episode through expulsion and imposed toil, in the linked online translation. **Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#25-adam-eve-and-the-rulers-attempt-to-possess-life).",
+          "new": "**Locator:** Sleep episode through expulsion and imposed toil, in the linked online translation.\n\n**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#25-adam-eve-and-the-rulers-attempt-to-possess-life)."
+        },
+        {
+          "passage_id": "hypostasis-archons-layton-q003",
+          "old": "**Locator:** Cain and Abel through Noah rebuilding the ark, in the linked online translation. **Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#26-norea--flood--refusal-of-the-rulers).",
+          "new": "**Locator:** Cain and Abel through Noah rebuilding the ark, in the linked online translation.\n\n**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#26-norea--flood--refusal-of-the-rulers)."
+        },
+        {
+          "passage_id": "hypostasis-archons-layton-q004",
+          "old": "**Locator:** Rulers approaching Norea through her question about their origin, in the linked online translation. **Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#27-eleleth--rescue--revelation-of-the-root).",
+          "new": "**Locator:** Rulers approaching Norea through her question about their origin, in the linked online translation.\n\n**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#27-eleleth--rescue--revelation-of-the-root)."
+        },
+        {
+          "passage_id": "hypostasis-archons-layton-q005",
+          "old": "**Locator:** Eleleth on Sophia through the completed pattern of the rulers, in the linked online translation. **Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#22-pistis-sophia--veil--shadow--matter--lower-ruler).",
+          "new": "**Locator:** Eleleth on Sophia through the completed pattern of the rulers, in the linked online translation.\n\n**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#22-pistis-sophia--veil--shadow--matter--lower-ruler)."
+        },
+        {
+          "passage_id": "hypostasis-archons-layton-q006",
+          "old": "**Locator:** Norea asking about her material origin through closing hymn, in the linked online translation. **Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#hypostasis-norea-root-return).",
+          "new": "**Locator:** Norea asking about her material origin through closing hymn, in the linked online translation.\n\n**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#hypostasis-norea-root-return)."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    },
+    "submission-package/essay/symbolon/episteme/sources/biblical-studies/pauline-corpus/ephesians-sbl-reverse-interlinear/SOURCE.md": {
+      "before_sha256": "f2ca4e7e65e72b44ec23083f39cefb9c69ce83736f0a3f5836d1365db01d6698",
+      "after_sha256": "10b6da13e34b73940b982c047846d262763062eff3a9bb705112ac4b3dea8dbe",
+      "edits": [
+        {
+          "passage_id": "ephesians-sbl-reverse-interlinear-q001",
+          "old": "**Locator:** Ephesians 1:9–10; PDF page2, printed p.972. **Verification:** embedded text read and selected passage identified; no exact quotation or full-work collation claim.",
+          "new": "**Locator:** Ephesians 1:9–10; PDF page2, printed p.972.\n\n**Verification:** embedded text read and selected passage identified; no exact quotation or full-work collation claim."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    },
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/laozi/laozi-legge-tao-teh-king/SOURCE.md": {
+      "before_sha256": "bf665c6d623fc59bca8a4192152ee9df0da7032a4554629ed26bf00929e34cd5",
+      "after_sha256": "27a4f73a8a3c87172eb848a3757583db0fbdb827913e8e60e5580b679607148b",
+      "edits": [
+        {
+          "passage_id": "laozi-legge-tao-teh-king-q001",
+          "old": "**Paraphrase:** Tentative designation follows the unnamed. The four greats include the king; the sequence returns human law through earth and heaven to Tao's own character. **Locator:** 25.1–4. **Verification:** complete chapter read; paraphrase-ready. King/human variants require separate Chinese collation.",
+          "new": "**Paraphrase:** Tentative designation follows the unnamed. The four greats include the king; the sequence returns human law through earth and heaven to Tao's own character.\n\n**Locator:** 25.1–4.\n\n**Verification:** complete chapter read; paraphrase-ready. King/human variants require separate Chinese collation."
+        },
+        {
+          "passage_id": "laozi-legge-tao-teh-king-q002",
+          "old": "**Paraphrase:** Paired differences return to simplicity; material divided into vessels is placed beside governmental office and nonviolent rule. **Locator:** 28.1–2, including all three verse stanzas and closing prose. **Verification:** complete chapter read; paraphrase-ready. Legge's nonviolence does not certify the protected history's stronger non-severing gloss.",
+          "new": "**Paraphrase:** Paired differences return to simplicity; material divided into vessels is placed beside governmental office and nonviolent rule.\n\n**Locator:** 28.1–2, including all three verse stanzas and closing prose.\n\n**Verification:** complete chapter read; paraphrase-ready. Legge's nonviolence does not certify the protected history's stronger non-severing gloss."
+        },
+        {
+          "passage_id": "laozi-legge-tao-teh-king-q003",
+          "old": "**Paraphrase:** Nameless simplicity passes into named action; rest limits error, and streams relate to rivers and seas. **Locator:** 32.1–5. **Verification:** complete chapter read; paraphrase-ready. Chang's reception, alternative translations and Chinese wording remain independently collatable; QL alignment belongs to Taylor.",
+          "new": "**Paraphrase:** Nameless simplicity passes into named action; rest limits error, and streams relate to rivers and seas.\n\n**Locator:** 32.1–5.\n\n**Verification:** complete chapter read; paraphrase-ready. Chang's reception, alternative translations and Chinese wording remain independently collatable; QL alignment belongs to Taylor."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    },
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/chinese-university-hong-kong/cuhk-multifunction-chinese-character-database/SOURCE.md": {
+      "before_sha256": "2d6c0605ddc955de5e091626ac8e30540284110eae6750d997feb2a56ed89353",
+      "after_sha256": "9e1a6cbe8a067dcb0e529f273a84e4564d70ff24bf78177db6e09f85f8b25f22",
+      "edits": [
+        {
+          "passage_id": "cuhk-multifunction-chinese-character-database-q001",
+          "old": "**Locator:** s.v. 鄉, 形義通解, 略說 and complete 詳解. **Access:** [CUHK entry](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%84%89). **Verification:** selected commentary read 2026-09-08; paraphrase-ready. Separate 嚮/饗/響 entries, historical phonology and inscriptions remain separate tasks. The dictionary does not establish Taylor's philosophical account of community.",
+          "new": "**Locator:** s.v. 鄉, 形義通解, 略說 and complete 詳解.\n\n**Access:** [CUHK entry](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E9%84%89).\n\n**Verification:** selected commentary read 2026-09-08; paraphrase-ready. Separate 嚮/饗/響 entries, historical phonology and inscriptions remain separate tasks. The dictionary does not establish Taylor's philosophical account of community."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    },
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/lewis-short/lewis-short-1879-latin-dictionary/SOURCE.md": {
+      "before_sha256": "bde72efedfc9e200f3ec4cbf65c6e3860e26dd004a5418d78166293c5753c8a8",
+      "after_sha256": "f052614a351bd095e70e362034faf94737f4b38909c4a53727617c91b3fb21c8",
+      "edits": [
+        {
+          "passage_id": "lewis-short-1879-latin-dictionary-q001",
+          "old": "**Locator and verification:** s.v. *fides*, initial literal senses and transferred quality; [Scaife entry n18127](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionary-entries.atlas_v1:lat.ls.perseus-eng2-n18127/), selected entry text read 2026-09-08. The stringed-instrument homograph is separate. No exact Ciceronian quotation is promoted.",
+          "new": "**Locator:** s.v. *fides*, initial literal senses and transferred quality\n\n**Verification:** s.v. *fides*, initial literal senses and transferred quality; [Scaife entry n18127](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionary-entries.atlas_v1:lat.ls.perseus-eng2-n18127/), selected entry text read 2026-09-08. The stringed-instrument homograph is separate. No exact Ciceronian quotation is promoted."
+        },
+        {
+          "passage_id": "lewis-short-1879-latin-dictionary-q002",
+          "old": "**Locator and verification:** s.v. *credo*, business use and transferred uses; [Scaife entry n11525](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionary-entries.atlas_v1:lat.ls.perseus-eng2-n11525/), selected senses read 2026-09-08. Cato's primary passage and the proposed deeper reconstruction retain independent collation tasks. E3's before/after-arbitration relation is not the dictionary's chronology.",
+          "new": "**Locator:** s.v. *credo*, business use and transferred uses\n\n**Verification:** s.v. *credo*, business use and transferred uses; [Scaife entry n11525](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionary-entries.atlas_v1:lat.ls.perseus-eng2-n11525/), selected senses read 2026-09-08. Cato's primary passage and the proposed deeper reconstruction retain independent collation tasks. E3's before/after-arbitration relation is not the dictionary's chronology."
+        },
+        {
+          "passage_id": "lewis-short-1879-latin-dictionary-q003",
+          "old": "**Locator and verification:** s.v. *natio*, introductory morphology and senses I–II/B; [Alatius transcription](https://www.alatius.com/ls/index.php?met=up&ord=natio), read 2026-09-08. Primary contexts and the later history of national institutions are separate evidence tasks.",
+          "new": "**Locator:** s.v. *natio*, introductory morphology and senses I–II/B\n\n**Verification:** s.v. *natio*, introductory morphology and senses I–II/B; [Alatius transcription](https://www.alatius.com/ls/index.php?met=up&ord=natio), read 2026-09-08. Primary contexts and the later history of national institutions are separate evidence tasks."
+        },
+        {
+          "passage_id": "lewis-short-1879-latin-dictionary-q004",
+          "old": "**Locator and verification:** s.v. *arbitror*, I, II.A and II.B; [Alatius transcription](https://www.alatius.com/ls/index.php?met=up&ord=arbitror), full entry read 2026-09-08. The quoted four-word construction is verified as dictionary wording. It is not presented as a continuous quotation from an independently collated Plautus edition. E2's witness→weighing→decision distinction and the E3 Fides bridge now have this exact lexical witness; the ancient dramatic context remains to be recovered independently.",
+          "new": "**Locator:** s.v. *arbitror*, I, II.A and II.B\n\n**Verification:** s.v. *arbitror*, I, II.A and II.B; [Alatius transcription](https://www.alatius.com/ls/index.php?met=up&ord=arbitror), full entry read 2026-09-08. The quoted four-word construction is verified as dictionary wording. It is not presented as a continuous quotation from an independently collated Plautus edition. E2's witness→weighing→decision distinction and the E3 Fides bridge now have this exact lexical witness; the ancient dramatic context remains to be recovered independently."
+        },
+        {
+          "passage_id": "lewis-short-1879-latin-dictionary-q005",
+          "old": "**Locator and verification:** s.v. *arbiter*, introduction, I and II.A–C; [Alatius transcription](https://www.alatius.com/ls/index.php?l=arbiter), full entry read 2026-09-08. The dictionary's proposed going/coming derivation and historical account of Roman procedural change remain the editors' claims, requiring independent specialist collation before stronger use. The semantic distinction supports E2 without making witnessing and judging identical offices.",
+          "new": "**Locator:** s.v. *arbiter*, introduction, I and II.A–C\n\n**Verification:** s.v. *arbiter*, introduction, I and II.A–C; [Alatius transcription](https://www.alatius.com/ls/index.php?l=arbiter), full entry read 2026-09-08. The dictionary's proposed going/coming derivation and historical account of Roman procedural change remain the editors' claims, requiring independent specialist collation before stronger use. The semantic distinction supports E2 without making witnessing and judging identical offices."
+        },
+        {
+          "passage_id": "lewis-short-1879-latin-dictionary-q006",
+          "old": "**Locator and verification:** s.v. ratio, introduction and literal accounting senses; https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionary-entries.atlas_v1:lat.ls.perseus-eng2-n40449/ ; selected senses read 2026-09-08, raw witness retained in T21-E6-private-development-packet.json. Paraphrase-ready to the online entry, with no independently verified ancient quotation or print collation. E6-ratio consumes this range while retaining A15’s native derivation and separate comparative-root debt.",
+          "new": "**Locator:** s.v. ratio, introduction and literal accounting senses\n\n**Verification:** s.v. ratio, introduction and literal accounting senses; https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionary-entries.atlas_v1:lat.ls.perseus-eng2-n40449/ ; selected senses read 2026-09-08, raw witness retained in T21-E6-private-development-packet.json. Paraphrase-ready to the online entry, with no independently verified ancient quotation or print collation. E6-ratio consumes this range while retaining A15’s native derivation and separate comparative-root debt."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    },
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md": {
+      "before_sha256": "da6d75639fb840b0f2c7ebb6e2de3b4d6d0c36045f058bf56799581ab3faff40",
+      "after_sha256": "cc3422ff94216578a19c244c349261d6639549f2cfc8845b9b3399b8ca068d4e",
+      "edits": [
+        {
+          "passage_id": "lsj-1940-greek-english-lexicon-q001",
+          "old": "**Locator:** s.v. τόπος, place/position, textual passage and rhetorical topic. **Access:** [selected LSJ transcription](https://cld.bbaw.de/lemma/grc/τόπος). **Verification:** named senses read 2026-09-08; no full-dictionary or independently collated ancient quotation claim.",
+          "new": "**Locator:** s.v. τόπος, place/position, textual passage and rhetorical topic.\n\n**Access:** [selected LSJ transcription](https://cld.bbaw.de/lemma/grc/τόπος).\n\n**Verification:** named senses read 2026-09-08; no full-dictionary or independently collated ancient quotation claim."
+        },
+        {
+          "passage_id": "lsj-1940-greek-english-lexicon-q002",
+          "old": "**Locator:** s.v. λόγος, LSJ I.1–4 and II.1–2. **Access:** [selected LSJ transcription](https://cld.bbaw.de/lemma/grc/λόγος). **Verification:** named senses read 2026-09-08; no full-dictionary or independently collated ancient quotation claim.",
+          "new": "**Locator:** s.v. λόγος, LSJ I.1–4 and II.1–2.\n\n**Access:** [selected LSJ transcription](https://cld.bbaw.de/lemma/grc/λόγος).\n\n**Verification:** named senses read 2026-09-08; no full-dictionary or independently collated ancient quotation claim."
+        },
+        {
+          "passage_id": "lsj-1940-greek-english-lexicon-q003",
+          "old": "**Locator:** s.v. νόμος, introduction and habitual practice/custom/law senses. **Access:** [selected LSJ transcription](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n71005/). **Verification:** named senses read 2026-09-08; no full-dictionary or independently collated ancient quotation claim.",
+          "new": "**Locator:** s.v. νόμος, introduction and habitual practice/custom/law senses.\n\n**Access:** [selected LSJ transcription](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n71005/).\n\n**Verification:** named senses read 2026-09-08; no full-dictionary or independently collated ancient quotation claim."
+        },
+        {
+          "passage_id": "lsj-1940-greek-english-lexicon-q004",
+          "old": "**Locator:** s.v. κρίσις, LSJ introductory and decision/judgment senses. **Access:** [selected LSJ transcription](https://cld.bbaw.de/lemma/grc/κρίσις). **Verification:** named senses read 2026-09-08; no full-dictionary or independently collated ancient quotation claim.",
+          "new": "**Locator:** s.v. κρίσις, LSJ introductory and decision/judgment senses.\n\n**Access:** [selected LSJ transcription](https://cld.bbaw.de/lemma/grc/κρίσις).\n\n**Verification:** named senses read 2026-09-08; no full-dictionary or independently collated ancient quotation claim."
+        },
+        {
+          "passage_id": "lsj-1940-greek-english-lexicon-q005",
+          "old": "**Locator:** s.v. ὕβρις, LSJ initial violence/insolence sense. **Access:** [selected LSJ transcription](https://cld.bbaw.de/lemma/grc/ὕβρις). **Verification:** named senses read 2026-09-08; no full-dictionary or independently collated ancient quotation claim.",
+          "new": "**Locator:** s.v. ὕβρις, LSJ initial violence/insolence sense.\n\n**Access:** [selected LSJ transcription](https://cld.bbaw.de/lemma/grc/ὕβρις).\n\n**Verification:** named senses read 2026-09-08; no full-dictionary or independently collated ancient quotation claim."
+        },
+        {
+          "passage_id": "lsj-1940-greek-english-lexicon-q006",
+          "old": "**Locator:** s.v. ἀνάμνησις, introductory recollection sense and senses 2–3. **Access:** [selected LSJ transcription](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n7019/). **Verification:** entry read 2026-09-08; selected senses paraphrase-ready, ancient citation contexts and print edition not independently collated. **Consumer:** E2 recollection branch; the authorial return remains register 3.",
+          "new": "**Locator:** s.v. ἀνάμνησις, introductory recollection sense and senses 2–3.\n\n**Access:** [selected LSJ transcription](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n7019/).\n\n**Verification:** entry read 2026-09-08; selected senses paraphrase-ready, ancient citation contexts and print edition not independently collated. **Consumer:** E2 recollection branch; the authorial return remains register 3."
+        },
+        {
+          "passage_id": "lsj-1940-greek-english-lexicon-q007",
+          "old": "**Locator:** s.v. ὁμολογία, agreement, admission and compact senses, including the peace/truce/surrender sub-sense. **Access:** [selected LSJ transcription](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n73748/). **Verification:** named senses read 2026-09-08; no print-edition collation or exact quotation claim. **Consumer:** E5 historical Greek branch and homological-agreement office; evidence register 2, with the authorial comparison at register 3.",
+          "new": "**Locator:** s.v. ὁμολογία, agreement, admission and compact senses, including the peace/truce/surrender sub-sense.\n\n**Access:** [selected LSJ transcription](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n73748/).\n\n**Verification:** named senses read 2026-09-08; no print-edition collation or exact quotation claim. **Consumer:** E5 historical Greek branch and homological-agreement office; evidence register 2, with the authorial comparison at register 3."
+        },
+        {
+          "passage_id": "lsj-1940-greek-english-lexicon-q008",
+          "old": "**Locator:** s.v. ἀναλογία, LSJ I–IV, including I.2 and II.2. **Access:** [selected LSJ transcription](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n6926/). **Verification:** named senses read 2026-09-08 from the Scaife entry, retrieved via HTTP after the browsing tool's open error; no print-edition collation or exact quotation claim. **Consumer:** E5 analogy/Greek branches and C63's differentiated comparison grammars; evidence register 2, with the authorial coordination at register 3.",
+          "new": "**Locator:** s.v. ἀναλογία, LSJ I–IV, including I.2 and II.2.\n\n**Access:** [selected LSJ transcription](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n6926/).\n\n**Verification:** named senses read 2026-09-08 from the Scaife entry, retrieved via HTTP after the browsing tool's open error; no print-edition collation or exact quotation claim. **Consumer:** E5 analogy/Greek branches and C63's differentiated comparison grammars; evidence register 2, with the authorial coordination at register 3."
+        },
+        {
+          "passage_id": "lsj-1940-greek-english-lexicon-q009",
+          "old": "**Locator and verification:** s.v. νέμω, distributive active and possessive middle senses; https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dne%2Fmw ; read 2026-09-08, raw witness retained in T21-E6-private-development-packet.json. Paraphrase-ready to the online entry; print not collated. E6 branch E6-names consumes register-2 distribution/possession distinctions; its institutional return is register 3.",
+          "new": "**Locator:** s.v. νέμω, distributive active and possessive middle senses\n\n**Verification:** s.v. νέμω, distributive active and possessive middle senses; https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dne%2Fmw ; read 2026-09-08, raw witness retained in T21-E6-private-development-packet.json. Paraphrase-ready to the online entry; print not collated. E6 branch E6-names consumes register-2 distribution/possession distinctions; its institutional return is register 3."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    },
+    "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-metaphysics-ross/SOURCE.md": {
+      "before_sha256": "6d9870b16d4537925f2a224b25ea438c46c4af20eadba91ffd48869a5d890b58",
+      "after_sha256": "2c3fdac300fe9217f333722687db90455917f277b970d7e78e83e97d4400496e",
+      "edits": [
+        {
+          "passage_id": "aristotle-metaphysics-ross-q001",
+          "old": "**Locator:** IV.2, opening argument; project locator 1003a33–1003b19. **Verification:** selected W. D. Ross online translation read; paraphrase-ready, no print or Greek collation and no exact quotation claim.",
+          "new": "**Locator:** IV.2, opening argument; project locator 1003a33–1003b19.\n\n**Verification:** selected W. D. Ross online translation read; paraphrase-ready, no print or Greek collation and no exact quotation claim."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    },
+    "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-nicomachean-ethics-ross/SOURCE.md": {
+      "before_sha256": "2be38542e1776ece1d63e4af88ff10ed181da19e1f5ef2c323ec98c793ccc924",
+      "after_sha256": "76bf854deb0474de1d84989bd65042cc00231998a59648f8cec8093007c18c70",
+      "edits": [
+        {
+          "passage_id": "aristotle-nicomachean-ethics-ross-q001",
+          "old": "**Locator:** V.3–4. **Verification:** selected W. D. Ross online translation read; paraphrase-ready, no print or Greek collation and no exact quotation claim.",
+          "new": "**Locator:** V.3–4.\n\n**Verification:** selected W. D. Ross online translation read; paraphrase-ready, no print or Greek collation and no exact quotation claim."
+        },
+        {
+          "passage_id": "aristotle-nicomachean-ethics-ross-q002",
+          "old": "**Locator:** V.5. **Verification:** selected W. D. Ross online translation read; paraphrase-ready, no print or Greek collation and no exact quotation claim.",
+          "new": "**Locator:** V.5.\n\n**Verification:** selected W. D. Ross online translation read; paraphrase-ready, no print or Greek collation and no exact quotation claim."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    },
+    "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-politics-jowett/SOURCE.md": {
+      "before_sha256": "989f6769b46e2590f711306de54afd710e0f4148d617302c8953803e2280acd0",
+      "after_sha256": "3475fbdf39b710aa099f89ed2429fa0d686b502d344e71c5c04bf43c74042d98",
+      "edits": [
+        {
+          "passage_id": "aristotle-politics-jowett-q001",
+          "old": "**Locator:** I.3. **Verification:** selected Benjamin Jowett online translation read; paraphrase-ready, no print or Greek collation and no exact quotation claim.",
+          "new": "**Locator:** I.3.\n\n**Verification:** selected Benjamin Jowett online translation read; paraphrase-ready, no print or Greek collation and no exact quotation claim."
+        },
+        {
+          "passage_id": "aristotle-politics-jowett-q002",
+          "old": "**Locator:** I.8–10. **Verification:** selected Benjamin Jowett online translation read; paraphrase-ready, no print or Greek collation and no exact quotation claim.",
+          "new": "**Locator:** I.8–10.\n\n**Verification:** selected Benjamin Jowett online translation read; paraphrase-ready, no print or Greek collation and no exact quotation claim."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    },
+    "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/owen/owen-1843-comparative-anatomy/SOURCE.md": {
+      "before_sha256": "4ec7979742060d90100b9107bc2c65b79defa9eec1ee2bf1fa12dcb947140bd9",
+      "after_sha256": "275155d82a542f8882f1b9ec98a5d2dcf4ee74c48d7d11e974efaffbdd408c62",
+      "edits": [
+        {
+          "passage_id": "owen-1843-comparative-anatomy-q001",
+          "old": "**Locator:** Glossary, printed p.374; PDF page376. **Verification:** embedded text read and selected passage identified; no exact quotation or full-work collation claim.",
+          "new": "**Locator:** Glossary, printed p.374; PDF page376.\n\n**Verification:** embedded text read and selected passage identified; no exact quotation or full-work collation claim."
+        },
+        {
+          "passage_id": "owen-1843-comparative-anatomy-q002",
+          "old": "**Locator:** Glossary, printed p.379; PDF page381. **Verification:** embedded text read and selected passage identified; no exact quotation or full-work collation claim.",
+          "new": "**Locator:** Glossary, printed p.379; PDF page381.\n\n**Verification:** embedded text read and selected passage identified; no exact quotation or full-work collation claim."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    },
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md": {
+      "before_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "after_sha256": "c1a0a0a7fdc0bda9571965d45544f57205ced950e9ccb0a9834635b043f0ada7",
+      "edits": [
+        {
+          "passage_id": "taylor-2026-core-theorems-pithy-ct08",
+          "old": "- **Locator:** §VII (The QL Unit — Jungian / Psyche Register), line 405; the position table at lines 407–414; the Möbius return at line 416 and the measurement gloss at line 418.",
+          "new": "- **Locator:** §VII (The QL Unit — Jungian / Psyche Register), line 405; the position table at lines 407–414; the Möbius return at line 416 and the measurement gloss at line 418.\n\n**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration."
+        },
+        {
+          "passage_id": "taylor-2026-core-theorems-pithy-ct09",
+          "old": "- **Locator:** §VII, \"Agentic individuation corollary,\" heading line 420; the Argued crosswalk table at lines 424–433 (QL #0–#5 and 5→0 mapped across Jungian and agentic registers); the closing guard quoted verbatim at line 434.",
+          "new": "- **Locator:** §VII, \"Agentic individuation corollary,\" heading line 420; the Argued crosswalk table at lines 424–433 (QL #0–#5 and 5→0 mapped across Jungian and agentic registers); the closing guard quoted verbatim at line 434.\n\n**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration."
+        },
+        {
+          "passage_id": "taylor-2026-core-theorems-pithy-ct10",
+          "old": "- **Locator:** §VIII (The QL Unit — Topological Register), lines 442 and 452; the covering-map/māyā bullet at line 453 (\"ego-experience is valid, just not the whole topology. You cannot see the hole from inside\"); the winding-number reading at line 456 and the circulation image at line 458.",
+          "new": "- **Locator:** §VIII (The QL Unit — Topological Register), lines 442 and 452; the covering-map/māyā bullet at line 453 (\"ego-experience is valid, just not the whole topology. You cannot see the hole from inside\"); the winding-number reading at line 456 and the circulation image at line 458.\n\n**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration."
+        },
+        {
+          "passage_id": "taylor-2026-core-theorems-pithy-ct11",
+          "old": "- **Locator:** §IX (The Crossed Zero (Ø), and the 1 as Symbolic Linker), lines 468 and 488; the sixfold table at lines 470–477: `0` the kartṛ-pole as bracketing-prior; `Ø` the kartṛ-pole occluded by the antaḥkaraṇa's self-identification as subject; `X` the object-world as discriminated, cut, named (vikalpa's trace on the kārya-side); `Ø/X` the slash made visible as medium; `(0/Ø)/(1/X)` the field of availability; `1` the integrated unity affirmed; `0/1` manifest zero as the non-dual binary of kartṛ and kārya poles.",
+          "new": "- **Locator:** §IX (The Crossed Zero (Ø), and the 1 as Symbolic Linker), lines 468 and 488; the sixfold table at lines 470–477: `0` the kartṛ-pole as bracketing-prior; `Ø` the kartṛ-pole occluded by the antaḥkaraṇa's self-identification as subject; `X` the object-world as discriminated, cut, named (vikalpa's trace on the kārya-side); `Ø/X` the slash made visible as medium; `(0/Ø)/(1/X)` the field of availability; `1` the integrated unity affirmed; `0/1` manifest zero as the non-dual binary of kartṛ and kārya poles.\n\n**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration."
+        },
+        {
+          "passage_id": "taylor-2026-core-theorems-pithy-ct12",
+          "old": "- **Locator:** §IX, line 481.",
+          "new": "- **Locator:** §IX, line 481.\n\n**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration."
+        },
+        {
+          "passage_id": "taylor-2026-core-theorems-pithy-ct13",
+          "old": "- **Locator:** §IX, line 494.",
+          "new": "- **Locator:** §IX, line 494.\n\n**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration."
+        },
+        {
+          "passage_id": "taylor-2026-core-theorems-pithy-ct14",
+          "old": "- **Locator:** §IX, lines 496 and 498.",
+          "new": "- **Locator:** §IX, lines 496 and 498.\n\n**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration."
+        },
+        {
+          "passage_id": "taylor-2026-core-theorems-pithy-ct15",
+          "old": "- **Locator:** §IX, line 502; the section's synthesis flag at line 504 declares \"1 as symbolic linker\" a synthesis (crossed-zero logic + von Neumann floor + S1/anusyūta placement), not single-source.",
+          "new": "- **Locator:** §IX, line 502; the section's synthesis flag at line 504 declares \"1 as symbolic linker\" a synthesis (crossed-zero logic + von Neumann floor + S1/anusyūta placement), not single-source.\n\n**Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration."
+        },
+        {
+          "passage_id": "taylor-2026-core-theorems-pithy-ct16",
+          "old": "- **Locator:** `working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md`, line 47. Quoted exactly, in full, per pass-2 charter ruling 11.",
+          "new": "- **Locator:** `working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md`, line 47. Quoted exactly, in full, per pass-2 charter ruling 11.\n\n**Provenance:** `working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-one-definitional.md`. Authorial companion at the existing line-47 locator; lead pending authorial decision, not an admitted core theorem or an independently verified Descartes attribution."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    },
+    "submission-package/essay/symbolon/episteme/sources/language-literary-studies/atilf/atilf-tlfi-regard/SOURCE.md": {
+      "before_sha256": "54052b91b2dfb102bf0a6e1a4000a988207767dd1c00eff2b6b0053c06f7838a",
+      "after_sha256": "4bc0c31c2fed1cd7c86f4f8a6d043412f746d1231dda56afb830baf1d4a17a87",
+      "edits": [
+        {
+          "passage_id": "atilf-tlfi-regard-q001",
+          "old": "**Locator and verification:** [CNRTL, regard, Étymologie et histoire](https://www.cnrtl.fr/etymologie/regard), full etymology section read 2026-09-08. The medieval and early modern editions cited there remain dictionary-mediated witnesses. These differentiated uses develop the French historical branch; they do not prove Taylor’s Con-text-through-Diaphaneity relation or supply an English first-use date.",
+          "new": "**Locator:** s.v. regard, Étymologie et histoire, full etymology section\n\n**Verification:** [CNRTL, regard, Étymologie et histoire](https://www.cnrtl.fr/etymologie/regard), full etymology section read 2026-09-08. The medieval and early modern editions cited there remain dictionary-mediated witnesses. These differentiated uses develop the French historical branch; they do not prove Taylor’s Con-text-through-Diaphaneity relation or supply an English first-use date."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    },
+    "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md": {
+      "before_sha256": "d377a7be1b21133e98eb3bcb70d251399d143ceff36648b7f711d603ccad5aad",
+      "after_sha256": "0bf853f07c1743aaac340931b991ee406c32da8277f4069e0e5d3cfdc70a239a",
+      "edits": [
+        {
+          "passage_id": "merriam-webster-online-dictionary-q001",
+          "old": "**Locator:** s.v. encounter, Word History, verb; selected meeting senses. **Access:** [selected entry](https://www.merriam-webster.com/dictionary/encounter). **Verification:** selected entry read 2026-09-08; paraphrase-ready; the cited early forms are dictionary witnesses rather than independently collated primary passages.",
+          "new": "**Locator:** s.v. encounter, Word History, verb; selected meeting senses.\n\n**Access:** [selected entry](https://www.merriam-webster.com/dictionary/encounter).\n\n**Verification:** selected entry read 2026-09-08; paraphrase-ready; the cited early forms are dictionary witnesses rather than independently collated primary passages."
+        },
+        {
+          "passage_id": "merriam-webster-online-dictionary-q002",
+          "old": "**Locator:** s.v. country, Word History. **Access:** [selected entry](https://www.merriam-webster.com/dictionary/country). **Verification:** selected entry read 2026-09-08; paraphrase-ready; the cited early forms are dictionary witnesses rather than independently collated primary passages.",
+          "new": "**Locator:** s.v. country, Word History.\n\n**Access:** [selected entry](https://www.merriam-webster.com/dictionary/country).\n\n**Verification:** selected entry read 2026-09-08; paraphrase-ready; the cited early forms are dictionary witnesses rather than independently collated primary passages."
+        },
+        {
+          "passage_id": "merriam-webster-online-dictionary-q003",
+          "old": "**Locator:** s.v. count, Word History, verb/noun1 versus noun2. **Access:** [selected entry](https://www.merriam-webster.com/dictionary/count). **Verification:** selected entry read 2026-09-08; paraphrase-ready; the cited early forms are dictionary witnesses rather than independently collated primary passages.",
+          "new": "**Locator:** s.v. count, Word History, verb/noun1 versus noun2.\n\n**Access:** [selected entry](https://www.merriam-webster.com/dictionary/count).\n\n**Verification:** selected entry read 2026-09-08; paraphrase-ready; the cited early forms are dictionary witnesses rather than independently collated primary passages."
+        },
+        {
+          "passage_id": "merriam-webster-online-dictionary-q004",
+          "old": "**Locator:** s.v. countenance, Word History and selected noun/verb senses. **Access:** [selected entry](https://www.merriam-webster.com/dictionary/countenance). **Verification:** selected entry read 2026-09-08; paraphrase-ready; the cited early forms are dictionary witnesses rather than independently collated primary passages.",
+          "new": "**Locator:** s.v. countenance, Word History and selected noun/verb senses.\n\n**Access:** [selected entry](https://www.merriam-webster.com/dictionary/countenance).\n\n**Verification:** selected entry read 2026-09-08; paraphrase-ready; the cited early forms are dictionary witnesses rather than independently collated primary passages."
+        },
+        {
+          "passage_id": "merriam-webster-online-dictionary-q005",
+          "old": "**Locator:** s.v. region, Word History. **Access:** [selected entry](https://www.merriam-webster.com/dictionary/region). **Verification:** selected entry read 2026-09-08; paraphrase-ready; the cited early forms are dictionary witnesses rather than independently collated primary passages.",
+          "new": "**Locator:** s.v. region, Word History.\n\n**Access:** [selected entry](https://www.merriam-webster.com/dictionary/region).\n\n**Verification:** selected entry read 2026-09-08; paraphrase-ready; the cited early forms are dictionary witnesses rather than independently collated primary passages."
+        },
+        {
+          "passage_id": "merriam-webster-online-dictionary-q006",
+          "old": "**Locator:** s.v. account, Word History and selected report/reason senses. **Access:** [selected entry](https://www.merriam-webster.com/dictionary/account). **Verification:** selected entry read 2026-09-08; paraphrase-ready; the cited early forms are dictionary witnesses rather than independently collated primary passages.",
+          "new": "**Locator:** s.v. account, Word History and selected report/reason senses.\n\n**Access:** [selected entry](https://www.merriam-webster.com/dictionary/account).\n\n**Verification:** selected entry read 2026-09-08; paraphrase-ready; the cited early forms are dictionary witnesses rather than independently collated primary passages."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    },
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/francois-i/francois-i-1539-villers-cotterets/SOURCE.md": {
+      "before_sha256": "883f50060f950bcf2d9da4b7cbb6f9a9619ae0497b900999faacf8a7634e0e0e",
+      "after_sha256": "d67422953c08f2edf105b3a4a17a7adf5218c75711af7c1824d3694cc968d1de",
+      "edits": [
+        {
+          "passage_id": "francois-i-1539-villers-cotterets-q001",
+          "old": "**Locator:** articles 110–111; [article 110](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006452018) and [complete official transcription](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070939/). **Verification:** both articles read in full on 2026-09-08. **Use boundary:** the named administrative intervention is established; everyday linguistic uniformity, local implementation and effects on affected speakers require additional records. No present legal advice or application is inferred.",
+          "new": "**Locator:** articles 110–111; [article 110](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006452018) and [complete official transcription](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070939/).\n\n**Verification:** both articles read in full on 2026-09-08. **Use boundary:** the named administrative intervention is established; everyday linguistic uniformity, local implementation and effects on affected speakers require additional records. No present legal advice or application is inferred."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    },
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/gregoire/gregoire-1794-unite-de-langue/SOURCE.md": {
+      "before_sha256": "c320ebc31e2f8d13e981f8dd660d55dfef653c41fddba8d9e1cbfcf4f9686318",
+      "after_sha256": "d877a73e8ff2d09f17c2d71741c9da97e9292bf1124e0840dde932daf9682506",
+      "edits": [
+        {
+          "passage_id": "gregoire-1794-unite-de-langue-q001",
+          "old": "**Locator:** paragraphs beginning “Tous les membres du souverain”, “Cet état de choses” and the subsequent southern-language objection in the [official excerpted transcription](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/les-grands-discours-parlementaires/revolution-francaise/l-abbe-gregoire-4-juin-1794). **Verification:** transcribed excerpt read, including the reported language counts and concluding programme, 2026-09-08. **Boundary:** counts are the speaker’s claims; policy, implementation and counter-testimony need independent evidence. The excerpt cannot stand for all voices within the affected languages.",
+          "new": "**Locator:** paragraphs beginning “Tous les membres du souverain”, “Cet état de choses” and the subsequent southern-language objection in the [official excerpted transcription](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/les-grands-discours-parlementaires/revolution-francaise/l-abbe-gregoire-4-juin-1794).\n\n**Verification:** transcribed excerpt read, including the reported language counts and concluding programme, 2026-09-08. **Boundary:** counts are the speaker’s claims; policy, implementation and counter-testimony need independent evidence. The excerpt cannot stand for all voices within the affected languages."
+        }
+      ],
+      "inverse_recovers_before": true,
+      "frontmatter_quotes_status_unchanged": true
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "finding": "11 locator + 51 provenance; all 62 pairs inherited from pre-Pauli/Jung-integration workspace baseline; zero owned SOURCE debts; proposals not applied",
+  "baseline": "working/p2-enrichment/receipts/T22-Pauli-Jung-source-integration-hygiene.json",
+  "paths": {
+    "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-metaphysics-ross/SOURCE.md": {
+      "missing_locator": [],
+      "missing_provenance": [
+        "aristotle-metaphysics-ross-q001"
+      ]
+    },
+    "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-nicomachean-ethics-ross/SOURCE.md": {
+      "missing_locator": [],
+      "missing_provenance": [
+        "aristotle-nicomachean-ethics-ross-q001",
+        "aristotle-nicomachean-ethics-ross-q002"
+      ]
+    },
+    "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-politics-jowett/SOURCE.md": {
+      "missing_locator": [],
+      "missing_provenance": [
+        "aristotle-politics-jowett-q001",
+        "aristotle-politics-jowett-q002"
+      ]
+    },
+    "submission-package/essay/symbolon/episteme/sources/language-literary-studies/atilf/atilf-tlfi-regard/SOURCE.md": {
+      "missing_locator": [
+        "atilf-tlfi-regard-q001"
+      ],
+      "missing_provenance": [
+        "atilf-tlfi-regard-q001"
+      ]
+    },
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/chinese-university-hong-kong/cuhk-multifunction-chinese-character-database/SOURCE.md": {
+      "missing_locator": [],
+      "missing_provenance": [
+        "cuhk-multifunction-chinese-character-database-q001"
+      ]
+    },
+    "submission-package/essay/symbolon/episteme/sources/biblical-studies/pauline-corpus/ephesians-sbl-reverse-interlinear/SOURCE.md": {
+      "missing_locator": [],
+      "missing_provenance": [
+        "ephesians-sbl-reverse-interlinear-q001"
+      ]
+    },
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/francois-i/francois-i-1539-villers-cotterets/SOURCE.md": {
+      "missing_locator": [],
+      "missing_provenance": [
+        "francois-i-1539-villers-cotterets-q001"
+      ]
+    },
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/gregoire/gregoire-1794-unite-de-langue/SOURCE.md": {
+      "missing_locator": [],
+      "missing_provenance": [
+        "gregoire-1794-unite-de-langue-q001"
+      ]
+    },
+    "submission-package/essay/symbolon/episteme/sources/biblical-studies/nag-hammadi/hypostasis-archons-layton/SOURCE.md": {
+      "missing_locator": [],
+      "missing_provenance": [
+        "hypostasis-archons-layton-q001",
+        "hypostasis-archons-layton-q002",
+        "hypostasis-archons-layton-q003",
+        "hypostasis-archons-layton-q004",
+        "hypostasis-archons-layton-q005",
+        "hypostasis-archons-layton-q006"
+      ]
+    },
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/laozi/laozi-legge-tao-teh-king/SOURCE.md": {
+      "missing_locator": [
+        "laozi-legge-tao-teh-king-q001",
+        "laozi-legge-tao-teh-king-q002",
+        "laozi-legge-tao-teh-king-q003"
+      ],
+      "missing_provenance": [
+        "laozi-legge-tao-teh-king-q001",
+        "laozi-legge-tao-teh-king-q002",
+        "laozi-legge-tao-teh-king-q003"
+      ]
+    },
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/lewis-short/lewis-short-1879-latin-dictionary/SOURCE.md": {
+      "missing_locator": [
+        "lewis-short-1879-latin-dictionary-q001",
+        "lewis-short-1879-latin-dictionary-q002",
+        "lewis-short-1879-latin-dictionary-q003",
+        "lewis-short-1879-latin-dictionary-q004",
+        "lewis-short-1879-latin-dictionary-q005",
+        "lewis-short-1879-latin-dictionary-q006"
+      ],
+      "missing_provenance": [
+        "lewis-short-1879-latin-dictionary-q001",
+        "lewis-short-1879-latin-dictionary-q002",
+        "lewis-short-1879-latin-dictionary-q003",
+        "lewis-short-1879-latin-dictionary-q004",
+        "lewis-short-1879-latin-dictionary-q005",
+        "lewis-short-1879-latin-dictionary-q006"
+      ]
+    },
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md": {
+      "missing_locator": [
+        "lsj-1940-greek-english-lexicon-q009"
+      ],
+      "missing_provenance": [
+        "lsj-1940-greek-english-lexicon-q001",
+        "lsj-1940-greek-english-lexicon-q002",
+        "lsj-1940-greek-english-lexicon-q003",
+        "lsj-1940-greek-english-lexicon-q004",
+        "lsj-1940-greek-english-lexicon-q005",
+        "lsj-1940-greek-english-lexicon-q006",
+        "lsj-1940-greek-english-lexicon-q007",
+        "lsj-1940-greek-english-lexicon-q008",
+        "lsj-1940-greek-english-lexicon-q009"
+      ]
+    },
+    "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md": {
+      "missing_locator": [],
+      "missing_provenance": [
+        "merriam-webster-online-dictionary-q001",
+        "merriam-webster-online-dictionary-q002",
+        "merriam-webster-online-dictionary-q003",
+        "merriam-webster-online-dictionary-q004",
+        "merriam-webster-online-dictionary-q005",
+        "merriam-webster-online-dictionary-q006"
+      ]
+    },
+    "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/owen/owen-1843-comparative-anatomy/SOURCE.md": {
+      "missing_locator": [],
+      "missing_provenance": [
+        "owen-1843-comparative-anatomy-q001",
+        "owen-1843-comparative-anatomy-q002"
+      ]
+    },
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md": {
+      "missing_locator": [],
+      "missing_provenance": [
+        "taylor-2026-core-theorems-pithy-ct08",
+        "taylor-2026-core-theorems-pithy-ct09",
+        "taylor-2026-core-theorems-pithy-ct10",
+        "taylor-2026-core-theorems-pithy-ct11",
+        "taylor-2026-core-theorems-pithy-ct12",
+        "taylor-2026-core-theorems-pithy-ct13",
+        "taylor-2026-core-theorems-pithy-ct14",
+        "taylor-2026-core-theorems-pithy-ct15",
+        "taylor-2026-core-theorems-pithy-ct16"
+      ]
+    }
+  },
+  "exact_repairs": "working/p2-enrichment/page-packets/T22-source-metadata-debt-proposals.json"
+}

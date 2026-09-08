@@ -1,0 +1,104 @@
+{
+  "status": "Validated metadata clearance; one inherited unrelated link debt; unstaged awaiting next grant",
+  "source_count": 15,
+  "card_count": 51,
+  "metadata_doctor_debts": 0,
+  "paths": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/nag-hammadi/hypostasis-archons-layton/SOURCE.md",
+      "sha256": "e019bc918965798337bafb253d103d1f45b84f9c2cd07d0d00d158bd09f2873d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/pauline-corpus/ephesians-sbl-reverse-interlinear/SOURCE.md",
+      "sha256": "10b6da13e34b73940b982c047846d262763062eff3a9bb705112ac4b3dea8dbe"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/laozi/laozi-legge-tao-teh-king/SOURCE.md",
+      "sha256": "27a4f73a8a3c87172eb848a3757583db0fbdb827913e8e60e5580b679607148b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/chinese-university-hong-kong/cuhk-multifunction-chinese-character-database/SOURCE.md",
+      "sha256": "9e1a6cbe8a067dcb0e529f273a84e4564d70ff24bf78177db6e09f85f8b25f22"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/lewis-short/lewis-short-1879-latin-dictionary/SOURCE.md",
+      "sha256": "f052614a351bd095e70e362034faf94737f4b38909c4a53727617c91b3fb21c8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md",
+      "sha256": "cc3422ff94216578a19c244c349261d6639549f2cfc8845b9b3399b8ca068d4e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-metaphysics-ross/SOURCE.md",
+      "sha256": "2c3fdac300fe9217f333722687db90455917f277b970d7e78e83e97d4400496e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-nicomachean-ethics-ross/SOURCE.md",
+      "sha256": "76bf854deb0474de1d84989bd65042cc00231998a59648f8cec8093007c18c70"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-politics-jowett/SOURCE.md",
+      "sha256": "3475fbdf39b710aa099f89ed2429fa0d686b502d344e71c5c04bf43c74042d98"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/owen/owen-1843-comparative-anatomy/SOURCE.md",
+      "sha256": "275155d82a542f8882f1b9ec98a5d2dcf4ee74c48d7d11e974efaffbdd408c62"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "sha256": "c1a0a0a7fdc0bda9571965d45544f57205ced950e9ccb0a9834635b043f0ada7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/atilf/atilf-tlfi-regard/SOURCE.md",
+      "sha256": "4bc0c31c2fed1cd7c86f4f8a6d043412f746d1231dda56afb830baf1d4a17a87"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "sha256": "0bf853f07c1743aaac340931b991ee406c32da8277f4069e0e5d3cfdc70a239a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/francois-i/francois-i-1539-villers-cotterets/SOURCE.md",
+      "sha256": "d67422953c08f2edf105b3a4a17a7adf5218c75711af7c1824d3694cc968d1de"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/gregoire/gregoire-1794-unite-de-langue/SOURCE.md",
+      "sha256": "d877a73e8ff2d09f17c2d71741c9da97e9292bf1124e0840dde932daf9682506"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-source-metadata-debts-private.json",
+      "sha256": "1cb5cfbd6324f8d137f4228efb6256e4defb278cb847cd5d47153bacf06afc75"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-source-metadata-debt-proposals.json",
+      "sha256": "adf3ba955fc2cd96a75e12f5acefca3d43a9e12599f0b655f8d36262171c931c"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-source-metadata-debts-compact.json",
+      "sha256": "b084ef125afe0394d43c4b288fc95a88d5f5f38dad9a3ccd91b663719500049f"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-metadata51-effects-before.json",
+      "sha256": "b5667a9a270800812d45289c609679582ae6eebeba2eb9c0a4de9d35706c1f70"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-metadata51-applied-proof.json",
+      "sha256": "05a8ca5cb601b706c2a0fad8abc1846e959f46675f960478b8c238b836554bbc"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-source-metadata-debts-2026-09-08.md",
+      "sha256": "84c3c71953129de6c584b5ee5d85cf5d833d0552e8cfe92e445a8c41bb20e60e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-metadata51-hygiene.json",
+      "sha256": "1c2a57e0cca97bfadad8e834460b095b4811ffe9d90cf2ead82ca36ef30fb34f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-metadata51-source-tests.txt",
+      "sha256": "120aa888c60bc7be40c9d463ae9ce94edd03fb777899cb811ce735d23f2190ea"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-metadata51-completion-2026-09-08.md",
+      "sha256": "bcfc6d6994fc72b55634990ae3f09ccee3d4fe6df6d6d3a2d777d9f42cee1308"
+    }
+  ]
+}
