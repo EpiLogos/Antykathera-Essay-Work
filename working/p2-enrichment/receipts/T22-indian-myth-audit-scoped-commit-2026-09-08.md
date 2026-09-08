@@ -1,0 +1,17 @@
+# Scoped acceptance — Indian histories, dossier and D01/D02/D03/S02 fixes
+
+Six canonical bodies accepted after current-body review. The exact twenty-file manifest is in `working/p2-enrichment/page-packets/T22-indian-myth-audit-scoped-commit-2026-09-08.json`; it includes three new Indian/myth bodies with their original private packets and completion receipts, three existing whole fixes, their private development packet/two intakes/two T22 reports/completion receipt, and this acceptance packet/receipt.
+
+The three new files were read in full as additions against HEAD. The actual diffs of Neumann, uroboros and Mother were read in full. Current Laplace E-return paragraphs remain included in these owned bodies. The Neumann additions develop the retained twin relation, incest/erasure and self-rolling wheel; uroboros develops the distinct discharge/confinement pair and exact wheel return; Mother distinguishes installed Aion contextual passages from printing and quotation collation. Original phase, native X/x, all-eight, recursive Bimba and human-amplified flags survive.
+
+Acceptance found one additional stale sentence in the Indian history: Aion was described as having no gathered passage. After reading the complete current canonical SOURCE (sibling NOTES absent) and running source/history effects before writing, one exact reversible replacement records the installed sixteen-entry map from the consulted 1979 paperback. Selected 1978-hardcover collation and quotation verification remain Open. No SOURCE was changed and no native claim was downgraded. Historical acquisition receipts remain immutable; this dated correction supersedes only that availability statement.
+
+Final actual `workflow.py hygiene` used this six-target private manifest: **6 targets, 0 failures**. Complete doctor, links and depth4 effects results are embedded. Scoped diff whitespace check passes. All 150 protected baseline files and all 131 audit-fix protected files remain unchanged. Global doctor debt remains independently reported; no projection rebuild, source metadata repair or consumer expansion is claimed.
+
+The current 127-row audit was recovered read-only with its initial snapshots and corrected per-row results intact: **95 accepted-at-admitted-scope, 22 held/research, 9 other-register, one World Clock telling debt**. D01/D02/D03/S02 are implemented and passed scoped T22. Parent L01 confirms 23 exact poem anchors; parent N01 confirms 84 literal links and zero missing destinations. R01 remains Copernicus-owned. The shared audit/current ledger/census/queue and all shared projections are excluded from this commit scope; parent retains final reconciliation. Original authorial source/printing/quotation and untested implementation debts remain separate from claim standing.
+
+The index was confirmed empty under the exclusive user grant after Laplace 9ce7906. Stage only the twenty explicit manifest paths. K’s eight P1 routes/private evidence and the next 33-page A/C metadata batch are separate scopes and are excluded. No E/A/C/Movement, protected HISTORY/NOTES, T17–T19 or sovereign manuscript change is included; no T23/T24.
+
+## Exact staging result
+
+The twenty eligible paths yield **eighteen changed files**. Laplace commit `9ce79060db347c49039b111d1cdb80b863e3de69` already contains the exact current Indian philosophy dossier and myth history companion; both were compared byte-for-byte with HEAD and are not duplicated as new changes. The acceptance packet records the eighteen staged paths and those two inherited files separately.
