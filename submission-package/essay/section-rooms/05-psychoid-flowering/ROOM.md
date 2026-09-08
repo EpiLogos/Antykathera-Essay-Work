@@ -3,7 +3,7 @@ title: "§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser"
 page_type: section-room-waypoint
 station: "§4"
 room: "05-psychoid-flowering"
-generated_by: "build-section-rooms.py v2.0.0"
+generated_by: "build-section-rooms.py v2.0.1"
 ownership: generated
 ---
 
@@ -13,7 +13,7 @@ ownership: generated
 
 ## Arrival
 
-The substrate now flowers psychologically.
+The differential field **returns-to** Topos — situated return through the conditions under which a placement, path or return is possible.
 
 ## Section wager
 
@@ -43,7 +43,7 @@ The mathematical substrate becomes psychologically consequential when the oppose
 
 **Why this move:** Jung’s Self and John R.
 
-**Carry-forward:** authorial `X/x` as determining-capacity / indefinite-particular relation.
+**Carry-forward:** The individuation passage returns to E2’s resolution in reconciliation through reconciliation that changes the history of participation while retaining its differences.
 
 **Open:** [movement](movements/32-s4-p1-jung-individuation.md) · sources: [smythe-2013-dialogical-jung](../../symbolon/episteme/sources/psychology/smythe/smythe-2013-dialogical-jung/SOURCE.md), [jung-1978-aion-cw9-2](../../symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md), [jung-1969-psychology-religion-cw11](../../symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md), [freud-1915-unconscious-standard-edition](../../symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/SOURCE.md), [neumann-1954-origins-history-consciousness](../../symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md), [van-eenwyk-1997-archetypes-strange-attractors](../../symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md)
 

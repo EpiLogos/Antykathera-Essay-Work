@@ -3,7 +3,7 @@ title: "§0/1 Room — The Integral Threshold — The Subject at the Formal Limi
 page_type: section-room-waypoint
 station: "§0/1"
 room: "00-integral-threshold"
-generated_by: "build-section-rooms.py v2.0.0"
+generated_by: "build-section-rooms.py v2.0.1"
 ownership: generated
 ---
 
@@ -57,7 +57,7 @@ Exact inquiry includes the disclosure of its own conditions. At the formal limit
 
 **Why this move:** Apoha gives the semantic articulation: a word determines through exclusion of other referents.
 
-**Carry-forward:** `0 / 1`—field, differentiating slash, mark.
+**Carry-forward:** The cut’s gift and danger return to E2’s criterion through distinction: Criterion distinguishes, Delineation gives that difference a workable boundary, and Arbitration decides through it.
 
 **Open:** [movement](movements/03-s01-p2-definition-cut-gift-danger.md) · arguments: [Immutable Gap and Meta-Sign](../arguments/01-immutable-gap-and-meta-sign.md) · sources: [pind-2009-dignaga-anyapoha-dissertation](../../symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE.md), [spinoza-1674-letter-50-jelles](../../symbolon/episteme/sources/classical-premodern-philosophy/spinoza/spinoza-1674-letter-50-jelles/SOURCE.md)
 
@@ -67,9 +67,9 @@ Exact inquiry includes the disclosure of its own conditions. At the formal limit
 
 **Earned position (Argued):** A sufficiently articulate system cannot convert every condition of its articulation into an ordinary internal term without remainder.
 
-**Why this move:** Russell and Whitehead restrict paradoxical re-entry; Gödel proves scoped internal limits; Wittgenstein reaches silence and practice; Whitehead makes non-closure creative; Spencer-Brown and Varela admit re-entry; The Blind Spot — Frank, Gleiser, Thompson restores the experiencer.
+**Why this move:** Russell restrict paradoxical re-entry; Gödel proves scoped internal limits; Wittgenstein reaches silence and practice; Whitehead makes non-closure creative; Spencer-Brown and Varela admit re-entry; The Blind Spot — Frank, Gleiser, Thompson restores the experiencer.
 
-**Carry-forward:** undecidability under stated formal conditions.
+**Carry-forward:** E3’s fides before arbitration gives the enquiry its prior reliance and its subsequent renewed entrustment: formal investigation already undertakes a practice before it can arbitrate its results.
 
 **Open:** [movement](movements/04-s01-p3-formal-limit-genealogy.md) · arguments: [Immutable Gap and Meta-Sign](../arguments/01-immutable-gap-and-meta-sign.md), [Paradox as Cross-Register Hinge](../arguments/15-paradox-as-cross-register-hinge.md) · sources: [whitehead-1978-process-reality](../../symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE.md), [spencer-brown-1969-laws-form](../../symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE.md), [varela-1975-calculus-self-reference](../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md), [frank-gleiser-thompson-2024-blind-spot](../../symbolon/episteme/sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE.md)
 

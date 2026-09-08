@@ -1,0 +1,409 @@
+test_real_kaplan_room_passes (test_audit_room_depth.CompactRoomAuditTests.test_real_kaplan_room_passes) ... ok
+test_real_threshold_room_passes_substantive_learning_audit (test_audit_room_depth.CompactRoomAuditTests.test_real_threshold_room_passes_substantive_learning_audit) ... ok
+test_tampered_room_fails_real_freshness_gate (test_audit_room_depth.CompactRoomAuditTests.test_tampered_room_fails_real_freshness_gate) ... ok
+test_threshold_route_fails_when_a_real_learning_movement_is_removed (test_audit_room_depth.CompactRoomAuditTests.test_threshold_route_fails_when_a_real_learning_movement_is_removed) ... ok
+test_argument_adapters_include_the_authored_argument_body (test_bkmr_essay.BkmrEssayIntegrationTests.test_argument_adapters_include_the_authored_argument_body) ... ok
+test_concepts_are_a_first_class_full_body_collection (test_bkmr_essay.BkmrEssayIntegrationTests.test_concepts_are_a_first_class_full_body_collection) ... ok
+test_doctor_reports_adapter_and_database_freshness_separately (test_bkmr_essay.BkmrEssayIntegrationTests.test_doctor_reports_adapter_and_database_freshness_separately) ... ok
+test_kaplan_learning_material_is_retrievable_from_its_canonical_source_house (test_bkmr_essay.BkmrEssayIntegrationTests.test_kaplan_learning_material_is_retrievable_from_its_canonical_source_house) ... ok
+test_literal_hyphenated_search_terms_do_not_leak_fts_column_syntax (test_bkmr_essay.BkmrEssayIntegrationTests.test_literal_hyphenated_search_terms_do_not_leak_fts_column_syntax) ... ok
+test_manifest_hash_matches_each_canonical_full_body_input (test_bkmr_essay.BkmrEssayIntegrationTests.test_manifest_hash_matches_each_canonical_full_body_input) ... ok
+test_passage_adapters_point_to_canonical_source_house_anchors_without_transcription (test_bkmr_essay.BkmrEssayIntegrationTests.test_passage_adapters_point_to_canonical_source_house_anchors_without_transcription) ... ok
+test_real_sync_imports_every_generated_adapter (test_bkmr_essay.BkmrEssayIntegrationTests.test_real_sync_imports_every_generated_adapter) ... ok
+test_section_adapters_include_claim_warrant_tension_and_transition (test_bkmr_essay.BkmrEssayIntegrationTests.test_section_adapters_include_claim_warrant_tension_and_transition) ... ok
+test_active_rooms_are_compact_and_complete (test_build_section_rooms.SectionRoomV2Tests.test_active_rooms_are_compact_and_complete) ... ok
+test_builder_never_changes_manuscript_or_reading_routes (test_build_section_rooms.SectionRoomV2Tests.test_builder_never_changes_manuscript_or_reading_routes) ... ok
+test_canonical_change_makes_a_real_room_stale (test_build_section_rooms.SectionRoomV2Tests.test_canonical_change_makes_a_real_room_stale) ... ok
+test_master_manuscript_is_the_only_active_writing_surface (test_build_section_rooms.SectionRoomV2Tests.test_master_manuscript_is_the_only_active_writing_surface) ... ok
+test_real_room_links_and_fragments_resolve (test_build_section_rooms.SectionRoomV2Tests.test_real_room_links_and_fragments_resolve) ... ok
+test_real_workspace_is_fresh (test_build_section_rooms.SectionRoomV2Tests.test_real_workspace_is_fresh) ... ok
+test_claude_settings_register_shared_hook_with_claude_tool_names (test_claude_compatibility.ClaudeCompatibilityTests.test_claude_settings_register_shared_hook_with_claude_tool_names) ... ok
+test_marketplace_is_rooted_at_submission_package (test_claude_compatibility.ClaudeCompatibilityTests.test_marketplace_is_rooted_at_submission_package) ... ok
+test_mef_refract_is_claude_native (test_claude_compatibility.ClaudeCompatibilityTests.test_mef_refract_is_claude_native) ... ok
+test_plugin_contains_claude_discoverable_skills (test_claude_compatibility.ClaudeCompatibilityTests.test_plugin_contains_claude_discoverable_skills) ... ok
+test_project_skills_are_exposed_to_claude_without_duplicate_bodies (test_claude_compatibility.ClaudeCompatibilityTests.test_project_skills_are_exposed_to_claude_without_duplicate_bodies) ... ok
+test_readme_documents_both_local_install_paths (test_claude_compatibility.ClaudeCompatibilityTests.test_readme_documents_both_local_install_paths) ... ok
+test_current_raw_marginalia_are_substantive_linked_and_build_immutable (test_learning_surfaces.LearningSurfaceContractTests.test_current_raw_marginalia_are_substantive_linked_and_build_immutable) ... ok
+test_human_and_agent_journey_reaches_granular_kaplan_material (test_learning_surfaces.LearningSurfaceContractTests.test_human_and_agent_journey_reaches_granular_kaplan_material) ... ok
+test_kaplan_source_house_is_the_complete_learning_object (test_learning_surfaces.LearningSurfaceContractTests.test_kaplan_source_house_is_the_complete_learning_object) ... ok
+test_primary_passages_are_housed_with_real_stable_anchors (test_learning_surfaces.LearningSurfaceContractTests.test_primary_passages_are_housed_with_real_stable_anchors) ... ok
+test_threshold_route_teaches_all_six_movements_and_supports_pair_writing (test_learning_surfaces.LearningSurfaceContractTests.test_threshold_route_teaches_all_six_movements_and_supports_pair_writing) ... ok
+test_two_admitted_reading_routes_are_human_routes_with_resolvable_sources (test_learning_surfaces.LearningSurfaceContractTests.test_two_admitted_reading_routes_are_human_routes_with_resolvable_sources) ... ok
+test_curation_is_current_and_covers_every_section (test_main_source_relations.MainSourceRelationTests.test_curation_is_current_and_covers_every_section) ... ok
+test_canonical_argument_and_concept_repairs_clear_known_quality_debts (test_okf_workspace.OkfWorkspaceTests.test_canonical_argument_and_concept_repairs_clear_known_quality_debts) ... ok
+test_canonical_graph_has_no_missing_quality_surfaces_or_governing_dangles (test_okf_workspace.OkfWorkspaceTests.test_canonical_graph_has_no_missing_quality_surfaces_or_governing_dangles) ... FAIL
+test_context_assembles_a_traceable_section_working_set (test_okf_workspace.OkfWorkspaceTests.test_context_assembles_a_traceable_section_working_set) ... ok
+test_context_retains_authority_hubs_without_crawling_through_the_entire_vault (test_okf_workspace.OkfWorkspaceTests.test_context_retains_authority_hubs_without_crawling_through_the_entire_vault) ... ok
+test_doctor_names_real_context_and_graph_debts (test_okf_workspace.OkfWorkspaceTests.test_doctor_names_real_context_and_graph_debts) ... FAIL
+test_effects_maps_a_source_into_its_consuming_argument_and_transverse_thread (test_okf_workspace.OkfWorkspaceTests.test_effects_maps_a_source_into_its_consuming_argument_and_transverse_thread) ... ok
+test_find_searches_substantive_bodies_not_only_metadata (test_okf_workspace.OkfWorkspaceTests.test_find_searches_substantive_bodies_not_only_metadata) ... ok
+test_links_and_backlinks_resolve_across_node_types (test_okf_workspace.OkfWorkspaceTests.test_links_and_backlinks_resolve_across_node_types) ... ok
+test_neighbourhood_crosses_section_concept_argument_and_source_relations (test_okf_workspace.OkfWorkspaceTests.test_neighbourhood_crosses_section_concept_argument_and_source_relations) ... ok
+test_optional_source_notes_are_readable_without_becoming_verification_debt (test_okf_workspace.OkfWorkspaceTests.test_optional_source_notes_are_readable_without_becoming_verification_debt) ... ok
+test_path_follows_the_live_argument_graph (test_okf_workspace.OkfWorkspaceTests.test_path_follows_the_live_argument_graph) ... ok
+test_source_houses_and_reading_routes_are_traceable_in_bounded_context (test_okf_workspace.OkfWorkspaceTests.test_source_houses_and_reading_routes_are_traceable_in_bounded_context) ... ok
+test_status_discovers_the_real_typed_workspace (test_okf_workspace.OkfWorkspaceTests.test_status_discovers_the_real_typed_workspace) ... FAIL
+test_trace_recovers_claim_status_dependencies_and_source_records (test_okf_workspace.OkfWorkspaceTests.test_trace_recovers_claim_status_dependencies_and_source_records) ... ok
+test_dialogue_records_carry_no_citation_or_quote_status (test_ontology_registers.DialogueRecordBoundaryTests.test_dialogue_records_carry_no_citation_or_quote_status) ... ok
+test_register_census_is_a_real_unratified_debt (test_ontology_registers.RegisterCensusTests.test_register_census_is_a_real_unratified_debt) ... ERROR
+test_concept_and_path_domain_rule_is_enforced_and_compositions_allowed (test_ontology_registers.RegisterFlowTests.test_concept_and_path_domain_rule_is_enforced_and_compositions_allowed) ... ok
+test_register_flows_through_status_find_context_and_effects (test_ontology_registers.RegisterFlowTests.test_register_flows_through_status_find_context_and_effects) ... ok
+test_writing_context_packet_carries_register (test_ontology_registers.RegisterFlowTests.test_writing_context_packet_carries_register) ... ok
+test_depth_review_cannot_survive_changed_quilt_or_depth_receipt (test_p2_build_workflow.P2ManifestBindingTests.test_depth_review_cannot_survive_changed_quilt_or_depth_receipt) ... ok
+test_domain_readme_change_invalidates_packet (test_p2_build_workflow.P2ManifestBindingTests.test_domain_readme_change_invalidates_packet) ... ok
+test_packet_binds_real_corpus_and_verifies_from_another_cwd (test_p2_build_workflow.P2ManifestBindingTests.test_packet_binds_real_corpus_and_verifies_from_another_cwd) ... ok
+test_stale_census_and_acceptance_bindings_block_output (test_p2_build_workflow.P2ManifestBindingTests.test_stale_census_and_acceptance_bindings_block_output) ... ok
+test_unadmitted_or_duplicate_identity_is_rejected (test_p2_build_workflow.P2ManifestBindingTests.test_unadmitted_or_duplicate_identity_is_rejected) ... ok
+test_verifier_rejects_altered_packet_and_queue (test_p2_build_workflow.P2ManifestBindingTests.test_verifier_rejects_altered_packet_and_queue) ... ok
+test_actual_unresolvable_identity_is_a_command_failure (test_p2_build_workflow.P2WorkflowTests.test_actual_unresolvable_identity_is_a_command_failure) ... ok
+test_discovery_candidates_cannot_enter_hygiene_as_canonical_targets (test_p2_build_workflow.P2WorkflowTests.test_discovery_candidates_cannot_enter_hygiene_as_canonical_targets) ... ok
+test_every_live_quilt_is_discovered_and_anchors_recover_actual_text (test_p2_build_workflow.P2WorkflowTests.test_every_live_quilt_is_discovered_and_anchors_recover_actual_text) ... ok
+test_hygiene_rejects_duplicate_admissions_at_real_canonical_homes (test_p2_build_workflow.P2WorkflowTests.test_hygiene_rejects_duplicate_admissions_at_real_canonical_homes) ... ok
+test_real_canonical_home_runs_links_and_effects_from_another_cwd (test_p2_build_workflow.P2WorkflowTests.test_real_canonical_home_runs_links_and_effects_from_another_cwd) ... ok
+test_target_slice_recovers_real_lines_and_rejects_whole_quilt (test_p2_build_workflow.P2WorkflowTests.test_target_slice_recovers_real_lines_and_rejects_whole_quilt) ... ok
+test_create_recover_amend_and_retire_an_explicit_idea (test_project_agent_harness.ActiveIdeasTests.test_create_recover_amend_and_retire_an_explicit_idea) ... ok
+test_exact_passage_retrieval_keeps_wording_locator_and_provenance_together (test_project_agent_harness.CanonicalJourneyTests.test_exact_passage_retrieval_keeps_wording_locator_and_provenance_together) ... ok
+test_writing_context_preserves_the_canonical_claim_without_generic_counterpressure (test_project_agent_harness.CanonicalJourneyTests.test_writing_context_preserves_the_canonical_claim_without_generic_counterpressure) ... ok
+test_hook_on_off_evaluation_records_actual_improvements (test_project_agent_harness.HookBehaviourTests.test_hook_on_off_evaluation_records_actual_improvements) ... ok
+test_pre_and_post_tool_hooks_restore_user_authored_notes (test_project_agent_harness.HookBehaviourTests.test_pre_and_post_tool_hooks_restore_user_authored_notes) ... ok
+test_session_start_injects_orientation_skills_and_only_active_ideas (test_project_agent_harness.HookBehaviourTests.test_session_start_injects_orientation_skills_and_only_active_ideas) ... ok
+test_unrelated_agent_write_does_not_revert_a_concurrent_user_note_edit (test_project_agent_harness.HookBehaviourTests.test_unrelated_agent_write_does_not_revert_a_concurrent_user_note_edit) ... ok
+test_codex_discovery_surface_contains_only_the_four_focused_project_skills (test_project_agent_harness.ProjectSkillDiscoveryTests.test_codex_discovery_surface_contains_only_the_four_focused_project_skills) ... FAIL
+test_each_register_has_the_complete_functional_domain_shape (test_publication_architecture.PublicationArchitectureTests.test_each_register_has_the_complete_functional_domain_shape) ... FAIL
+test_every_symbolon_wikilink_resolves_inside_the_vault (test_publication_architecture.PublicationArchitectureTests.test_every_symbolon_wikilink_resolves_inside_the_vault) ... FAIL
+test_manifest_points_to_real_repository_surfaces (test_publication_architecture.PublicationArchitectureTests.test_manifest_points_to_real_repository_surfaces) ... ok
+test_obsidian_updates_wikilinks_when_records_move (test_publication_architecture.PublicationArchitectureTests.test_obsidian_updates_wikilinks_when_records_move) ... ok
+test_old_vault_spec_is_explicitly_provenance (test_publication_architecture.PublicationArchitectureTests.test_old_vault_spec_is_explicitly_provenance) ... ok
+test_symbolon_has_direct_root_and_exact_internal_registers (test_publication_architecture.PublicationArchitectureTests.test_symbolon_has_direct_root_and_exact_internal_registers) ... FAIL
+test_symbolon_root_describes_actual_core_records_and_page_anatomy (test_publication_architecture.PublicationArchitectureTests.test_symbolon_root_describes_actual_core_records_and_page_anatomy) ... ok
+test_writing_protocol_governs_without_becoming_symbolon_content (test_publication_architecture.PublicationArchitectureTests.test_writing_protocol_governs_without_becoming_symbolon_content) ... ok
+test_codex_discovers_four_focused_project_skills (test_skill_contracts.DevelopmentSkillContractTests.test_codex_discovers_four_focused_project_skills) ... FAIL
+test_no_skill_claims_named_model_routing_or_runtime_tiers (test_skill_contracts.DevelopmentSkillContractTests.test_no_skill_claims_named_model_routing_or_runtime_tiers) ... ok
+test_orientation_preserves_graph_and_native_language_gates (test_skill_contracts.DevelopmentSkillContractTests.test_orientation_preserves_graph_and_native_language_gates) ... ok
+test_review_skill_checks_effects_and_generated_freshness (test_skill_contracts.DevelopmentSkillContractTests.test_review_skill_checks_effects_and_generated_freshness) ... ok
+test_source_skill_uses_one_house_and_protects_author_notes (test_skill_contracts.DevelopmentSkillContractTests.test_source_skill_uses_one_house_and_protects_author_notes) ... ok
+test_writing_skill_targets_master_manuscript_without_compulsory_file_work (test_skill_contracts.DevelopmentSkillContractTests.test_writing_skill_targets_master_manuscript_without_compulsory_file_work) ... ok
+test_all_projected_passages_resolve_once (test_source_house_migration.CanonicalSourceTests.test_all_projected_passages_resolve_once) ... ok
+test_every_source_has_one_clean_canonical_file (test_source_house_migration.CanonicalSourceTests.test_every_source_has_one_clean_canonical_file) ... ok
+test_kaplan_contains_bibliography_passage_and_full_reading_material (test_source_house_migration.CanonicalSourceTests.test_kaplan_contains_bibliography_passage_and_full_reading_material) ... ok
+test_optional_notes_do_not_change_or_invalidate_source_projections (test_source_house_migration.CanonicalSourceTests.test_optional_notes_do_not_change_or_invalidate_source_projections) ... ok
+test_previously_missing_van_eenwyk_source_is_present (test_source_house_migration.CanonicalSourceTests.test_previously_missing_van_eenwyk_source_is_present) ... ok
+test_source_projections_are_reproducible (test_source_house_migration.CanonicalSourceTests.test_source_projections_are_reproducible) ... ok
+test_split_source_system_is_absent (test_source_house_migration.CanonicalSourceTests.test_split_source_system_is_absent) ... ok
+test_doctor_clears_canonical_source_and_room_integrity_debts (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_doctor_clears_canonical_source_and_room_integrity_debts) ... ok
+test_every_passage_projection_fragment_resolves_to_the_canonical_house (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_every_passage_projection_fragment_resolves_to_the_canonical_house) ... ok
+test_human_and_agent_route_from_section_to_movement_passage_and_reading (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_human_and_agent_route_from_section_to_movement_passage_and_reading) ... ok
+test_main_sources_are_generated_by_section_and_link_only_canonical_houses (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_main_sources_are_generated_by_section_and_link_only_canonical_houses) ... ok
+test_projection_check_marks_all_human_views_stale_after_a_real_source_change (test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_projection_check_marks_all_human_views_stale_after_a_real_source_change) ... ok
+test_essay_body_is_the_complete_sixfold_one_home (test_submission_package.SubmissionPackageTests.test_essay_body_is_the_complete_sixfold_one_home) ... FAIL
+test_essay_body_keeps_kaplan_learning_material_in_the_sources_domain (test_submission_package.SubmissionPackageTests.test_essay_body_keeps_kaplan_learning_material_in_the_sources_domain) ... ok
+test_essay_body_preserves_status_and_quote_provenance (test_submission_package.SubmissionPackageTests.test_essay_body_preserves_status_and_quote_provenance) ... ok
+test_essay_body_wikilinks_and_relative_links_resolve (test_submission_package.SubmissionPackageTests.test_essay_body_wikilinks_and_relative_links_resolve) ... FAIL
+test_reader_protocol_is_content_agnostic_and_traversal_led (test_submission_package.SubmissionPackageTests.test_reader_protocol_is_content_agnostic_and_traversal_led) ... ok
+test_reader_skills_use_only_the_shipped_bundle_contract (test_submission_package.SubmissionPackageTests.test_reader_skills_use_only_the_shipped_bundle_contract) ... ok
+test_source_and_passage_routes_converge_on_one_canonical_house (test_submission_package.SubmissionPackageTests.test_source_and_passage_routes_converge_on_one_canonical_house) ... ok
+test_submission_manifest_keeps_card_integration_status_honest (test_submission_package.SubmissionPackageTests.test_submission_manifest_keeps_card_integration_status_honest) ... ok
+test_superseded_submission_spec_retains_obsidian_design_provenance (test_submission_package.SubmissionPackageTests.test_superseded_submission_spec_retains_obsidian_design_provenance) ... ok
+
+======================================================================
+ERROR: test_register_census_is_a_real_unratified_debt (test_ontology_registers.RegisterCensusTests.test_register_census_is_a_real_unratified_debt)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_ontology_registers.py", line 136, in test_register_census_is_a_real_unratified_debt
+    + status["counts"]["argument-map"]
+      ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'argument-map'
+
+======================================================================
+FAIL: test_canonical_graph_has_no_missing_quality_surfaces_or_governing_dangles (test_okf_workspace.OkfWorkspaceTests.test_canonical_graph_has_no_missing_quality_surfaces_or_governing_dangles)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_okf_workspace.py", line 406, in test_canonical_graph_has_no_missing_quality_surfaces_or_governing_dangles
+    self.assertEqual({}, missing)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+AssertionError: {} != {'submission-package/essay/section-rooms/0[8992 chars]us']}
+- {}
++ {'submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md': ['warrant-surface'],
++  'submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md': ['warrant-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md': ['definition-surface',
++                                                                                                'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md': ['definition-surface',
++                                                                                     'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C03-Determination.md': ['definition-surface',
++                                                                               'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md': ['definition-surface',
++                                                                              'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md': ['definition-surface',
++                                                                               'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md': ['definition-surface',
++                                                                                                       'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md': ['definition-surface',
++                                                                                         'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md': ['definition-surface',
++                                                                                       'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md': ['definition-surface',
++                                                                             'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md': ['definition-surface',
++                                                                                   'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md': ['definition-surface',
++                                                                                 'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md': ['definition-surface',
++                                                                                                'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md': ['definition-surface',
++                                                                                 'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md': ['definition-surface',
++                                                                                        'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md': ['definition-surface',
++                                                                                               'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md': ['definition-surface',
++                                                                                              'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md': ['definition-surface',
++                                                                                  'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md': ['definition-surface',
++                                                                       'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md': ['definition-surface',
++                                                                                          'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md': ['definition-surface',
++                                                                             'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md': ['definition-surface',
++                                                                                    'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md': ['definition-surface',
++                                                                                      'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C23-Severance.md': ['definition-surface',
++                                                                           'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md': ['definition-surface',
++                                                                        'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md': ['definition-surface',
++                                                                                       'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md': ['definition-surface',
++                                                                                                'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md': ['definition-surface',
++                                                                                                              'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md': ['definition-surface',
++                                                                                              'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md': ['definition-surface',
++                                                                                                         'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md': ['definition-surface',
++                                                                                 'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C31-Complex.md': ['definition-surface',
++                                                                         'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md': ['definition-surface',
++                                                                           'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md': ['definition-surface',
++                                                                                 'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md': ['definition-surface',
++                                                                               'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md': ['definition-surface',
++                                                                                                      'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md': ['definition-surface',
++                                                                                       'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md': ['definition-surface',
++                                                                                              'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md': ['definition-surface',
++                                                                                            'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md': ['definition-surface',
++                                                                                          'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md': ['definition-surface',
++                                                                                                  'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md': ['definition-surface',
++                                                                                       'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md': ['definition-surface',
++                                                                                          'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md': ['definition-surface',
++                                                                                       'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md': ['definition-surface',
++                                                                                   'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md': ['definition-surface',
++                                                                                    'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md': ['definition-surface',
++                                                                                       'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md': ['definition-surface',
++                                                                                          'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md': ['definition-surface',
++                                                                                                'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md': ['definition-surface',
++                                                                                          'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md': ['definition-surface',
++                                                                         'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md': ['definition-surface',
++                                                                                 'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md': ['definition-surface',
++                                                                                                            'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md': ['definition-surface',
++                                                                                        'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md': ['definition-surface',
++                                                                                      'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md': ['definition-surface',
++                                                                                                          'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md': ['definition-surface',
++                                                                                                   'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md': ['definition-surface',
++                                                                            'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C58-Anthropomorphization.md': ['definition-surface',
++                                                                                      'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md': ['definition-surface',
++                                                                                                             'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md': ['definition-surface',
++                                                                                              'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md': ['definition-surface',
++                                                                                                  'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md': ['definition-surface',
++                                                                                       'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md': ['definition-surface',
++                                                                                                                        'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md': ['definition-surface',
++                                                                                                           'argument-role-surface'],
++  'submission-package/essay/symbolon/episteme/concepts/CANONICAL-INDEX.md': ['definition-surface',
++                                                                             'argument-role-surface',
++                                                                             'source-anchors',
++                                                                             'claim-status']}
+
+======================================================================
+FAIL: test_doctor_names_real_context_and_graph_debts (test_okf_workspace.OkfWorkspaceTests.test_doctor_names_real_context_and_graph_debts)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_okf_workspace.py", line 351, in test_doctor_names_real_context_and_graph_debts
+    self.assertEqual(
+    ~~~~~~~~~~~~~~~~^
+        unresolved_paths,
+        ^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        },
+        ^^
+    )
+    ^
+AssertionError: Items in the first set but not the second:
+'submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1961-totality-and-infinity/SOURCE.md'
+'submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md'
+
+======================================================================
+FAIL: test_status_discovers_the_real_typed_workspace (test_okf_workspace.OkfWorkspaceTests.test_status_discovers_the_real_typed_workspace)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_okf_workspace.py", line 125, in test_status_discovers_the_real_typed_workspace
+    self.assertEqual(counts["room-artifact"], 9)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 17 != 9
+
+======================================================================
+FAIL: test_codex_discovery_surface_contains_only_the_four_focused_project_skills (test_project_agent_harness.ProjectSkillDiscoveryTests.test_codex_discovery_surface_contains_only_the_four_focused_project_skills)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_project_agent_harness.py", line 254, in test_codex_discovery_surface_contains_only_the_four_focused_project_skills
+    self.assertEqual(
+    ~~~~~~~~~~~~~~~~^
+        names,
+        ^^^^^^
+    ...<5 lines>...
+        },
+        ^^
+    )
+    ^
+AssertionError: Items in the first set but not the second:
+'return-of-zero-visuals'
+'return-of-zero-links'
+'return-of-zero-pages'
+'return-of-zero-build'
+
+======================================================================
+FAIL: test_each_register_has_the_complete_functional_domain_shape (test_publication_architecture.PublicationArchitectureTests.test_each_register_has_the_complete_functional_domain_shape)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_publication_architecture.py", line 73, in test_each_register_has_the_complete_functional_domain_shape
+    self.assertEqual(expected_domains, actual_domains, register)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Items in the second set but not the first:
+'mono-poly'
+'definition'
+'music'
+'quilt'
+'process'
+'dia-syn' : matheme
+
+======================================================================
+FAIL: test_every_symbolon_wikilink_resolves_inside_the_vault (test_publication_architecture.PublicationArchitectureTests.test_every_symbolon_wikilink_resolves_inside_the_vault)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_publication_architecture.py", line 168, in test_every_symbolon_wikilink_resolves_inside_the_vault
+    workspace.resolve(target.replace("\\", ""))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tools/okf-workspace.py", line 569, in resolve
+    raise KeyError(f"No artifact resolves from: {raw}")
+KeyError: 'No artifact resolves from: bare wikilinks'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_publication_architecture.py", line 170, in test_every_symbolon_wikilink_resolves_inside_the_vault
+    self.fail(f"{path}: [[{target}]]")
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: /Users/admin/Central/Work/O-I/Antykathera-Essay-Work/submission-package/essay/symbolon/episteme/conjugate/README.md: [[bare wikilinks]]
+
+======================================================================
+FAIL: test_symbolon_has_direct_root_and_exact_internal_registers (test_publication_architecture.PublicationArchitectureTests.test_symbolon_has_direct_root_and_exact_internal_registers)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_publication_architecture.py", line 59, in test_symbolon_has_direct_root_and_exact_internal_registers
+    self.assertIn("The relations that organise every register belong directly in Symbolon", root_body)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'The relations that organise every register belong directly in Symbolon' not found in "# Symbolon\n\nSymbolon is the whole form of *The Return of Zero*. Its root relation is `0/1`: the non-objectifiable ground and the determinate mark held through the slash that differentiates them. Read in the obverse direction, `1/0`, the mark returns toward the condition it cannot possess. The equality `0/1 = 1/0` names the two orientations of one relation.\n\nThe folder holds the records that unfold the essay's internal relations. A reader can follow the essay from beginning to end, open a sentence into its formal derivation or historical warrant, cross into a myth or image that performs the same movement, and return to the exact point from which the depth opened.\n\nThe sovereign essay itself — `THE-RETURN-OF-ZERO.md` — and the authoring rooms sit **parallel to this field**, not inside it. The publication-level sixfold is the 4+2: rooms are its `#0` (each room holds its movements with the argument field as a nested `0/1`), this field and its three registers are `#1`–`#4`, and the essay is its `#5`. The four, through inference, increase the value of the rooms; the enriched rooms improve how the essay operates and let the inner stacks under `#1`–`#4` be generated file by file as the holographic world of the piece. Symbolon is the self-nesting 3+1 the essay traverses: the root relation and its inner nature, holding Matheme, Mytheme, and Episteme without becoming a fourth bucket.\n\n## Root records — the twelvefold\n\nThe root layer is the twelvefold: the eight determinations (the inner nature of `0/1`, organised as (4+2)+2 — the primordial essence `§0/1` held with `−/−`, the full 4+2 sixfold, and `§5→0` as `1/0`, the consequent essence and return vector, with 5 implicated in 1 through exactly this connection) plus the four heads by which the spine is read and operationalised. [eight-determinations](eight-determinations.md) is the spine-index that traverses them in sequence.\n\n**The spine (8):**\n\n| Root record | Work in the whole |\n|---|---|\n| [the-slash](the-slash.md) | `/ = −/−`: relation before named terms; division, ratio and AND/OR; the activity that makes both poles legible. |\n| [0-1](0-1.md) | Ground, mark and differentiating activity in their first orientation. |\n| [question-assertion](question-assertion.md) | `?/!`: inquiry and naming in one sign; answerability; the four corners and their SILENCE. |\n| [minus-plus](minus-plus.md) | `−/+`: polarity and force; withdrawal/extension, reserve/issue; the dynamis. |\n| [X-x](X-x.md) | Determining capacity over its determinate face; one letter in two cases. |\n| [AM-IS](AM-IS.md) | The personed copula: AM living first-person presence, IS third-person describability, the slash between as second-person relation. |\n| [infinity-dx](infinity-dx.md) | `∞/dx`: the horizon no finite mark contains; the infinitesimal difference through which relation becomes possible. |\n| [1-0](1-0.md) | The obverse orientation: determination returning through its ground. |\n\n**The heads (4):**\n\n| Root record | Work in the whole |\n|---|---|\n| [mono-poly](mono-poly.md) | The one and the many as mutually implicate accountings rather than rival totals. |\n| [complexio-oppositorum](complexio-oppositorum.md) | The holding of opposites through transformation without cancellation or fusion — carried by the `#` mark, under which the whole of QL can be mapped. |\n| [self-identity](self-identity.md) | Identity as an active relation to, for, as and with itself; the non-dual-binary unfolding of `0/1 → 4+2`. |\n| [subject-logics](subject-logics.md) | The Ø traversal: the crossed-zero sequence, the antaḥkaraṇa's signature, the pramātṛ–pramāṇa–prameya dynamics, Descartes and Hume at #1. |\n\nPlus the spine-index: [eight-determinations](eight-determinations.md) — the complete determination field, its sequence, inversions and returns.\n\nThese records gather formal, imaginal and epistemic developments without duplicating them. Their mathematical derivations descend into [[submission-package/essay/symbolon/matheme/README.md|Matheme]], their lived images into [[submission-package/essay/symbolon/mytheme/README.md|Mytheme]], and their source histories, maps and concepts into [[submission-package/essay/symbolon/episteme/README.md|Episteme]].\n\n## The three registers\n\nThe four registers carry the Vāk layering — one descent of speech, held architecturally as `#1`–`#4`: **Symbolon = parā** (the whole unsayable form), **Matheme = paśyantī** (the visionary operative logic, more primordial than the mytheme), **Mytheme = madhyamā** (the formed visual and narrative operations built through that logic), **Episteme = vaikharī** (the inspected, documented utterance). The four register-foundations are the Binary Explication four-file system — definition, process, quilt, music: the 0, the /, the 1, the 0/1 returned ([taylor-2026-binary-explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md)) — nested-aligned to the registers and housed in Matheme's source layer.\n\n### [[submission-package/essay/symbolon/matheme/README.md|Matheme]]\n\nMatheme makes the relation transmissible through notation, derivation, construction and formal comparison — and is its own subject: the full equation `0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1`. Organised by the four-file system (definition, process, quilt, music), the two logic folders (Dia/Syn, Mono/Poly), and the domain projections (QL, Spanda, topology, harmonics, formal neighbours, computation, diagrams).\n\n### [[submission-package/essay/symbolon/mytheme/README.md|Mytheme]]\n\nMytheme lets the relation become lived and memorable through myth, narrative, poetry, media, art, music and composed plates. Its images perform operations; they do not stand as decorative equivalents of equations.\n\n### [[submission-package/essay/symbolon/episteme/README.md|Episteme]]\n\nEpisteme carries instituted knowledge: canonical source houses, histories, etymologies, MEF lenses, argument maps, comparative dossiers, evidential figures, concept nodes and dialogue records. It shows what the work inherits, disputes, derives from and offers in its own name.\n\n## Page anatomy\n\nEvery substantive record carries:\n\n- a positive proposition or object;\n- the operation it performs in its own register;\n- exact links to the essay blocks and argument records it serves;\n- claim and source status where those apply;\n- outgoing links into necessary depth;\n- a prose route back to the passage or relation that opened it.\n\nThe local minigraph on each page renders only declared relations: the immediate parent relation, the principal incoming and outgoing movements, and the few depth records needed to orient the reader. The accompanying text names the same routes, so navigation remains intelligible without graph software.\n\n## Four reading movements\n\nThe vault supports four movements without ranking one above another:\n\n- **linear** — follow the complete essay;\n- **radial** — open one claim into derivation, image or warrant;\n- **transverse** — follow a declared relation across stations and registers;\n- **toroidal** — return to an earlier passage after the circuit has changed what it can mean.\n\nThe whole remains present in each movement because every depth retains its point of departure and its route of return.\n"
+
+======================================================================
+FAIL: test_codex_discovers_four_focused_project_skills (test_skill_contracts.DevelopmentSkillContractTests.test_codex_discovers_four_focused_project_skills)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_skill_contracts.py", line 15, in test_codex_discovers_four_focused_project_skills
+    self.assertEqual(names, {
+    ~~~~~~~~~~~~~~~~^^^^^^^^^
+        "return-of-zero-orient",
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        "return-of-zero-review",
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    })
+    ^^
+AssertionError: Items in the first set but not the second:
+'return-of-zero-visuals'
+'return-of-zero-links'
+'return-of-zero-pages'
+'return-of-zero-build'
+
+======================================================================
+FAIL: test_essay_body_is_the_complete_sixfold_one_home (test_submission_package.SubmissionPackageTests.test_essay_body_is_the_complete_sixfold_one_home)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_submission_package.py", line 42, in test_essay_body_is_the_complete_sixfold_one_home
+    self.assertEqual(
+    ~~~~~~~~~~~~~~~~^
+        22,
+        ^^^
+    ...<6 lines>...
+        ),
+        ^^
+    )
+    ^
+AssertionError: 22 != 87
+
+======================================================================
+FAIL: test_essay_body_wikilinks_and_relative_links_resolve (test_submission_package.SubmissionPackageTests.test_essay_body_wikilinks_and_relative_links_resolve)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_submission_package.py", line 99, in test_essay_body_wikilinks_and_relative_links_resolve
+    workspace.resolve(raw.replace("\\", ""))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tools/okf-workspace.py", line 569, in resolve
+    raise KeyError(f"No artifact resolves from: {raw}")
+KeyError: 'No artifact resolves from: <canonical surface>'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_submission_package.py", line 101, in test_essay_body_wikilinks_and_relative_links_resolve
+    self.fail(f"{path}: [[{raw}]]")
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: /Users/admin/Central/Work/O-I/Antykathera-Essay-Work/submission-package/essay/quilt/ql-expression-grammar.md: [[<canonical surface>]]
+
+----------------------------------------------------------------------
+Ran 106 tests in 90.991s
+
+FAILED (failures=10, errors=1)

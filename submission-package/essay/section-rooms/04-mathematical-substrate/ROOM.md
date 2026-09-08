@@ -3,7 +3,7 @@ title: "§3 Room — Mathematical Substrate — From 0/1 to the Arche-Topos"
 page_type: section-room-waypoint
 station: "§3"
 room: "04-mathematical-substrate"
-generated_by: "build-section-rooms.py v2.0.0"
+generated_by: "build-section-rooms.py v2.0.1"
 ownership: generated
 ---
 
@@ -29,7 +29,7 @@ QL connects distinction, re-entry, polarity, ratio, topology, harmonic resolutio
 
 **Earned position (Derived (eight-turn traversal and calculus relation) / Argued (Jungian 4+2 correspondence)):** The ground–mark relation unfolds as eight determinations. Each states an operation by which the indefinite enters determination and determination turns back toward its condition; their ordered traversal, rather than the surface appeal of the paired terms, establishes the concordance.
 
-**Carry-forward:** The determinations require a compact generator.
+**Carry-forward:** The language-field comparison **returns-to** E1’s native-field return within the full eight determinations: `/ = −/− → 0/1 → ?/! → −/+ → X/x → AM/IS → ∞/dx → 1/0`.
 
 **Open:** [movement](movements/25-s3-p0-eight-determinations.md) · arguments: [Core Theorem Bridge](../arguments/12-core-theorem-bridge.md), [The Two Ones — Mono–Poly Matheme](../arguments/19-two-ones-mono-poly-matheme.md) · sources: [strang-herman-2016-openstax-calculus-v1](../../symbolon/episteme/sources/mathematics-logic/strang/strang-herman-2016-openstax-calculus-v1/SOURCE.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md)
 
@@ -49,7 +49,7 @@ QL connects distinction, re-entry, polarity, ratio, topology, harmonic resolutio
 
 **Earned position (Argued):** Spencer-Brown begins with the injunction to draw a distinction. The mark creates inside and outside together; calling and crossing specify how marks condense or cancel.
 
-**Why this move:** Re-entry gives the essay a precise account of time and memory.
+**Why this move:** Within the essay’s Argued temporal account, a mark that returns cannot return as though no distinction occurred.
 
 **Carry-forward:** Complex orientation solves a limitation by enlarging the representational space.
 
@@ -83,10 +83,10 @@ QL connects distinction, re-entry, polarity, ratio, topology, harmonic resolutio
 
 **Earned position (Derived):** The arche-topos is the differential field on which the \(0/1\) relation can be written as path, circulated as winding, heard as interval, and recognised as symbolic transformation. It is archetypal because it specifies recurrent forms of differentiation before they receive psychological or material content.
 
-**Carry-forward:** The substrate now flowers psychologically.
+**Carry-forward:** The differential field **returns-to** Topos — situated return through the conditions under which a placement, path or return is possible.
 
 **Open:** [movement](movements/30-s3-p5-arche-topos.md) · arguments: [Arche-Topos as Differential Field](../arguments/04-arche-topos-topology-music.md), [Computational Process Ontology](../arguments/14-computational-process-ontology.md), [Core Theorem Bridge](../arguments/12-core-theorem-bridge.md), [Vāk](../arguments/10-vak.md) · sources: [heidegger-1977-question-concerning-technology](../../symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md)
 
 ## Release
 
-The substrate now flowers psychologically.
+The differential field **returns-to** Topos — situated return through the conditions under which a placement, path or return is possible.

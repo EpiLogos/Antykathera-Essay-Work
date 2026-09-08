@@ -1,0 +1,74 @@
+{
+  "receipt_path": "working/p2-enrichment/receipts/T22-final-status-preservation.json",
+  "sha256": "6786182997b60a522226e45abcf188dc6107bc00d10c9ac4f7bd5d379a5f7279",
+  "status": "11 metadata-only inverses verified; no recensus",
+  "checks": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+      "current_matches_after_hash": true,
+      "inverse_matches_before_hash": true,
+      "body_unchanged_receipted": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "current_matches_after_hash": true,
+      "inverse_matches_before_hash": true,
+      "body_unchanged_receipted": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md",
+      "current_matches_after_hash": true,
+      "inverse_matches_before_hash": true,
+      "body_unchanged_receipted": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/psychology/DEVELOPMENT.md",
+      "current_matches_after_hash": true,
+      "inverse_matches_before_hash": true,
+      "body_unchanged_receipted": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/encounters-and-transmissions/myth/DEVELOPMENT.md",
+      "current_matches_after_hash": true,
+      "inverse_matches_before_hash": true,
+      "body_unchanged_receipted": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORICAL-BRANCHES.md",
+      "current_matches_after_hash": true,
+      "inverse_matches_before_hash": true,
+      "body_unchanged_receipted": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "current_matches_after_hash": true,
+      "inverse_matches_before_hash": true,
+      "body_unchanged_receipted": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORICAL-BRANCHES.md",
+      "current_matches_after_hash": true,
+      "inverse_matches_before_hash": true,
+      "body_unchanged_receipted": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "current_matches_after_hash": true,
+      "inverse_matches_before_hash": true,
+      "body_unchanged_receipted": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md",
+      "current_matches_after_hash": true,
+      "inverse_matches_before_hash": true,
+      "body_unchanged_receipted": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md",
+      "current_matches_after_hash": true,
+      "inverse_matches_before_hash": true,
+      "body_unchanged_receipted": true
+    }
+  ],
+  "scoped_T22": "Parent running; not claimed complete by this attachment."
+}

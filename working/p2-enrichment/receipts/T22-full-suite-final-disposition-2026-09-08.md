@@ -1,0 +1,7 @@
+# Final full-workspace validation disposition
+
+The final 106-test run has 95 passes, 10 failures and one error. The scoped source-house, source projection/retrieval, BKMR, room-builder, room-depth-audit, main-source-relation and P2 packet tests all pass. Exact test names and results are retained in T22-final-validation-2026-09-08.json.
+
+The remaining failures concern the inherited quality-heading/global-dangle assertion; the obsolete core-only dangle expectation (the baseline Descartes/Levinas paths remain); room count; two four-skill assertions; three publication-architecture assertions; concept count; and a literal link example inside the quilt grammar. The error assumes the old unratified argument-map census. The baseline-backed triage at T22-full-suite-triage-2026-09-08.md identifies their prior evidence. The newly reached `[[<canonical surface>]]` example in `quilt/ql-expression-grammar.md` is also present verbatim at Git 5a7ef8a. It is not a new unresolved canonical target.
+
+Repairs made for this execution pass their actual checks: current P1 audit contract; SOURCE projection metadata links; three CSM passage anchors/statuses; ten SOURCE metadata routes; 25 retained raw provenance objects; the one migrated quilt href and three reading hrefs. The full source/room integrity test passes. No test was weakened to conceal a remaining failure. The author-deferred global gate is not claimed green.

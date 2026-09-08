@@ -2,7 +2,7 @@
 title: "Return of Zero — Main Sources by Section"
 generated: true
 generator: tools/build-source-projections.py
-source_digest: "46f4546c9f6533eaf5d53f79b795e3a6bb7513cf0cbe0b58234f8460fabee06b"
+source_digest: "18e5e118a43d95f5c9a1c60b76c022bc0475700eba10af2508d69debc85479bf"
 ---
 
 <!-- Generated from canonical SOURCE.md houses. Do not edit by hand. -->
@@ -90,7 +90,7 @@ Main source is a declared relation to an essay section, not a second copy of a w
 - [Gebser — The Ever-Present Origin (1985)](phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md) — `gebser-1985-ever-present-origin` — §4 · Apollo–Dionysus and integral return
 - [Iain McGilchrist — The Master and His Emissary (2009)](psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE.md) — `mcgilchrist-2009-master-emissary` — §4 · psychology history · master/emissary asymmetry witness (criticism-gated)
 - [Jung and Pauli — Atom and Archetype (Meier, 2001)](psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE.md) — `jung-pauli-meier-2001-atom-archetype` — §4 · primary psychoid and number historical carrier
-- [Jung — Aion, CW 9.2 (1978 corrected printing)](psychology/jung/jung-1978-aion-cw9-2/SOURCE.md) — `jung-1978-aion-cw9-2` — §4 · X=x and quaternity primary work
+- [Jung — Aion, CW 9.2 (1978 corrected printing)](psychology/jung/jung-1978-aion-cw9-2/SOURCE.md) — `jung-1978-aion-cw9-2` — §4 · Self, symbolic totality and quaternary transformation; native X/x remains Taylor’s
 - [Jung — Psychology and Religion: West and East, CW 11 (1969)](psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md) — `jung-1969-psychology-religion-cw11` — §4 · religious images as psychological facts
 - [Lacan — Talking to Brick Walls (Price, 2017)](psychology/lacan/lacan-2017-talking-to-brick-walls/SOURCE.md) — `lacan-2017-talking-to-brick-walls` — §4 · primary wall and signifier scene
 - [Neumann — The Origins and History of Consciousness (1954)](psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md) — `neumann-1954-origins-history-consciousness` — §4 · post-Jungian history of ego formation
@@ -112,7 +112,7 @@ Main source is a declared relation to an essay section, not a second copy of a w
 
 [Open section room](../../../section-rooms/07-instrument-returns/ROOM.md)
 
-- [42 Techne — Sovereign Commons Architecture](media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md) — `42-techne-2026-sovereign-commons` — §5→0 · applied 4:2 Technē architecture
+- [42 Techne — Sovereign Commons Architecture](media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md) — `42-techne-2026-sovereign-commons` — §5→0 · applied 4:2 Technē architecture; report-only design witness
 - [Antikythera — Agentworld Site Copy (2026)](media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE.md) — `antikythera-2026-site-copy` — §5→0 · venue logistics, submission frame, and emblem-return staging
 - [Berkeley — Three Dialogues (1734 text, Wilkins ed. 2002)](classical-premodern-philosophy/berkeley/berkeley-1734-three-dialogues-wilkins-2002/SOURCE.md) — `berkeley-1734-three-dialogues-wilkins-2002` — §5→0 · bounded idealist-horizon primary source
 - [Bohm — On Dialogue (1996)](process-systems-theory/bohm/bohm-1996-on-dialogue/SOURCE.md) — `bohm-1996-on-dialogue` — §5→0 · meaning-through-relation precedent

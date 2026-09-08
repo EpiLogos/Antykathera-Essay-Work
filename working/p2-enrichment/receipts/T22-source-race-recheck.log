@@ -1,0 +1,14 @@
+.......F
+======================================================================
+FAIL: test_passage_adapters_point_to_canonical_source_house_anchors_without_transcription (tests.test_bkmr_essay.BkmrEssayIntegrationTests.test_passage_adapters_point_to_canonical_source_house_anchors_without_transcription)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_bkmr_essay.py", line 84, in test_passage_adapters_point_to_canonical_source_house_anchors_without_transcription
+    self.assertEqual(expected, len(adapters))
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 533 != 536
+
+----------------------------------------------------------------------
+Ran 8 tests in 4.248s
+
+FAILED (failures=1)

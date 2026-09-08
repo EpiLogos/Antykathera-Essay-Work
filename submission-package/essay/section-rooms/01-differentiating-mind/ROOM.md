@@ -3,7 +3,7 @@ title: "§0 Room — Differentiating Mind — Tattvic Descent and Objective Inte
 page_type: section-room-waypoint
 station: "§0"
 room: "01-differentiating-mind"
-generated_by: "build-section-rooms.py v2.0.0"
+generated_by: "build-section-rooms.py v2.0.1"
 ownership: generated
 ---
 
@@ -65,7 +65,7 @@ Mind is the movement by which an implicated whole becomes a determinate world fo
 
 **Earned position (Argued):** §0/1 has already opened the cut through apoha and Spinoza together. Here apoha receives its own historical and semantic force.
 
-**Carry-forward:** relative scores become a distribution and local output.
+**Carry-forward:** The determinate term **returns-to** Name-through-Count with the contrast through which it applies.
 
 **Open:** [movement](movements/10-s0-p3-apoha.md) · arguments: [Mono-Poly: Whole and Many](../arguments/11-mono-poly-whole-and-many.md) · sources: [dushun-cleary-2000-jewel-net-indra](../../symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE.md), [van-norden-jones-2024-huayan-sep](../../symbolon/episteme/sources/indian-philosophy/van-norden/van-norden-jones-2024-huayan-sep/SOURCE.md), [siderits-tillemans-chakrabarti-2011-apoha](../../symbolon/episteme/sources/indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE.md)
 

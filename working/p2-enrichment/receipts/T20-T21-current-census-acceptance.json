@@ -1,0 +1,1980 @@
+{
+  "standing": "Current identities and homes; reviewed scope receipts govern development acceptance.",
+  "counts": {
+    "episteme": 163,
+    "matheme": 80,
+    "mytheme": 25,
+    "symbolon": 13
+  },
+  "records": [
+    {
+      "record_id": "A01",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "sha256": "e7d88ae66c41e30cf10f0141a76c3896003dafbe237e54495e17542fdf526ec8"
+    },
+    {
+      "record_id": "A02",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+      "sha256": "6b0d27da3d93277b10cffb8511e8e98c8d3231b92fd10eaf53850c1b62d7541b"
+    },
+    {
+      "record_id": "A03",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "sha256": "566d991665331b8889e416ccb6fc815f402b85e75aca998f06b575de65d009a0"
+    },
+    {
+      "record_id": "A04",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "sha256": "45d2026a0122a91cdbde37c1907a633ea4fff4c46c365cb71db2662e8e544373"
+    },
+    {
+      "record_id": "A05",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+      "sha256": "022a3f817ac10439ff88a0288f1610ba9811bdd50df3bca07974d13c8659440d"
+    },
+    {
+      "record_id": "A06",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "sha256": "9573209edc0511e35e8671d8392af6d7b51276f7647a58a045503f59587bd58b"
+    },
+    {
+      "record_id": "A07",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+      "sha256": "9bd3a9428981330817d4c56ad73054004c8fa955fd0e0d371dedc9326b5345bc"
+    },
+    {
+      "record_id": "A08",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+      "sha256": "147076134423dfba93ff6ecbae9a7f45efbeb495f078f0a0023c69052f0fdbb8"
+    },
+    {
+      "record_id": "A09",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+      "sha256": "dc05bdc7b317393646fa728f59af7002e3993d53bd456173d5ad74181fc383c3"
+    },
+    {
+      "record_id": "A10",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+      "sha256": "70bd61eae087ac272284d4b1361ac1c1a5e2a6a7def00fdc6346a28939599a96"
+    },
+    {
+      "record_id": "A11",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "sha256": "5fad3792b2fbc67340ea94eb955465f4f56a452eb8398d70372c01eece870e74"
+    },
+    {
+      "record_id": "A12",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+      "sha256": "d8108bbef31d46aee14af55f0b2780dcd2debf651358fea923954417c7cd15fa"
+    },
+    {
+      "record_id": "A13",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "sha256": "35a937a6ff1c581708e938af47bd36903c94a5a0c2f5976751ced07af71a2fc8"
+    },
+    {
+      "record_id": "A14",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+      "sha256": "6d71cda9fd1a03cce0d22b07ce6ab1d67a0a569e80bb246d740edf4b00ee8972"
+    },
+    {
+      "record_id": "A15",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "sha256": "b749243203623008668ffc3e4de86e440e240a9365f7636a21abb50409568ccc"
+    },
+    {
+      "record_id": "A16",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+      "sha256": "a26b070d7710ef14ee65f324c3bae9c504cbe45763917245073322a4ed67c38f"
+    },
+    {
+      "record_id": "A17",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+      "sha256": "7e7d78c817f675f2514d5c16cb69ddaf84be72e5c53ffaf6b0fe1f804e819999"
+    },
+    {
+      "record_id": "A18",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "1cd68de4c18c6125f4d5eae7743fde7eeb203f7c33aa24eae247726f3b7fd0f2"
+    },
+    {
+      "record_id": "A19",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "sha256": "3c6196436fd7061d02d0bdd197183e22dd91458a31be91950f586b3066dad7a5"
+    },
+    {
+      "record_id": "A20",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "sha256": "78fc35cd345aa0d214a0c6e661cd22e9a2a31f89576757e7c68eb6f8b3c61df4"
+    },
+    {
+      "record_id": "A21",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "sha256": "44769154f862e0260f726db6338d4b816783c92a2f84fba17287773a818e23e3"
+    },
+    {
+      "record_id": "A22",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "sha256": "36a857ec953ad1040bc1a9c5ee0f88a2c45bd40e9ccc056702215591bde4b373"
+    },
+    {
+      "record_id": "A23",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "sha256": "aeb6948cbdd93d99c4054641bcdfcb4620a047ac0460805b3ac33becab5724e8"
+    },
+    {
+      "record_id": "A24",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "sha256": "6227e28c2ef52533504dff1dfdde08c16bb2459208fd73cc68d18798c7fa0e75"
+    },
+    {
+      "record_id": "A25",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "sha256": "23bc59d5134fb5fe48a1dbbd9d968cfdcff433e00a0c2922d66848607e689350"
+    },
+    {
+      "record_id": "A26",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "sha256": "e38289d5d513c846a17453214a6faa2c300ee95f642070607c2b375834198275"
+    },
+    {
+      "record_id": "A27",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "sha256": "772c8375bd87d1153f21d32e036e9fec5f62e75f7c21b686ba647e5954295ee6"
+    },
+    {
+      "record_id": "A28",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+      "sha256": "0741739318f6956ff22e98a25c3879a9455ba196059e6df883c92a3bd2c9a637"
+    },
+    {
+      "record_id": "A29",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "sha256": "53ca7dc586138670088228eeba3cb1ff623abf263050b9eacce816d768e52d03"
+    },
+    {
+      "record_id": "A30",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+      "sha256": "298f480eecc277526585b14ad22895a1401eb16c87a7baeec554eac11aa3de5d"
+    },
+    {
+      "record_id": "A31",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+      "sha256": "6bfb6dc3b7ec23899a24d45472fb93e3f65e1f1375f2f67ba2a1939ac98696af"
+    },
+    {
+      "record_id": "A32",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "sha256": "304a536ec000b2c9c1fd00547b4e1a419435fcd95a741a5e30c226c6e901288f"
+    },
+    {
+      "record_id": "A33",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "sha256": "3dd86a0d84b54b7854844b5e31a18824038634167817bb4dac7610bf67dcf928"
+    },
+    {
+      "record_id": "A34",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+      "sha256": "02d9ed7be5b0658868469162bfbde035d7842e404a1b52ece2e7de274b2d3680"
+    },
+    {
+      "record_id": "A35",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+      "sha256": "145922ab29e6cf76526c6c98f472d3bd41934726bb8fece691599d6d26d5e845"
+    },
+    {
+      "record_id": "A36",
+      "register": "episteme",
+      "record_type": "argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "sha256": "6323457b71a8e30494b05a189b2d6ce7f0837d05e7a922b74dc85681634cfbf4"
+    },
+    {
+      "record_id": "C01",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+      "sha256": "c3e78c2c1dec788131b7eeecad2825541ec97e417d230c9e3521015f2c0fcc49"
+    },
+    {
+      "record_id": "C02",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+      "sha256": "3e30e195e468a5d6d31709a74664c2b0e65a5137394df3a5a8cef37863ea333b"
+    },
+    {
+      "record_id": "C03",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+      "sha256": "290a6c8febac1464b868a9715a4df5b30c54f996178dbd6b8858c28509a7e75c"
+    },
+    {
+      "record_id": "C04",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+      "sha256": "5bb78309872e2812dfb69d756c5c03067c7e4312ef61184b71b6a5ebca2f36cc"
+    },
+    {
+      "record_id": "C05",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+      "sha256": "cdba439fcbda5b43223a32662599ddc7f4d51c9951fcb481baea47d6ccbe2532"
+    },
+    {
+      "record_id": "C06",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+      "sha256": "4986ca50ff5f68c5e2df63d6505e51b8858cd8534d319b56eb85bf1b5272a5b6"
+    },
+    {
+      "record_id": "C07",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md",
+      "sha256": "9880e6f1b33d062a049b1d0739a52793732385547f2da5dbd310084a38c3fd9c"
+    },
+    {
+      "record_id": "C08",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+      "sha256": "d6e4d6512378b5172142c54859c9f09fc505ad4c7d1598f974e27c9246123346"
+    },
+    {
+      "record_id": "C09",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+      "sha256": "46f9a2a2ad7d501f9933b8477e197a6391357c7f790a6f40dd7548607e97f399"
+    },
+    {
+      "record_id": "C10",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+      "sha256": "f0bd77cbab0be92e69f707de73e9f1a65746d6ea8b27433ae1b78ff28119049a"
+    },
+    {
+      "record_id": "C11",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+      "sha256": "ac854490c281b9202b515750ca64259fd7861cc18946e9033f5fbb83515a65dd"
+    },
+    {
+      "record_id": "C12",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+      "sha256": "c607111810107cb788dbe888bc229cd01dd09ce772771109e99695ed31f7b6bd"
+    },
+    {
+      "record_id": "C13",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+      "sha256": "b2629b9f55a27484497db3283b57ca3298677151703fcd5f2266731105ae2278"
+    },
+    {
+      "record_id": "C14",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+      "sha256": "a4f55336cd57cc5ebe06224538edcaa9eb5fd4ff3304971ff838e3f240b326b2"
+    },
+    {
+      "record_id": "C15",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+      "sha256": "c027f399447f66310a6bd2042baa7e0c575ceeced921802b324ac890b47a77ba"
+    },
+    {
+      "record_id": "C16",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+      "sha256": "5a00a4107bb31a2b09c9b9ba3d4e60a8c3809e87777887c22db44d90637cad12"
+    },
+    {
+      "record_id": "C17",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md",
+      "sha256": "bb9278b7143dcd3ae47df3e078f49add3acccf8a87f33e7e55ef6ce08f3be107"
+    },
+    {
+      "record_id": "C18",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+      "sha256": "53cd708255759d3bec7d0c35b64949e31de24ee60c50bbd33f00e4cab297ddb6"
+    },
+    {
+      "record_id": "C19",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+      "sha256": "581013c2c228b0c939bdd36cb45e9b6459f1e4774d57c3079408caa15746a5c6"
+    },
+    {
+      "record_id": "C20",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+      "sha256": "dc0e09a046970c8ee3619a3662a4b2f961f2093c891bc819933faf048b0ad94e"
+    },
+    {
+      "record_id": "C21",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "sha256": "eebc80e938dfd53198a0f0789893c5d8470595bfd502ca6626ae1e3dae685fbc"
+    },
+    {
+      "record_id": "C22",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md",
+      "sha256": "ae7833804db2f889be3514b25abeb0612c27881860e4ef3ebea87ef3e040ca73"
+    },
+    {
+      "record_id": "C23",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+      "sha256": "a15d4607f4e25b670ebdb933ee883fba541c4ffbb34daabbf23342a586658902"
+    },
+    {
+      "record_id": "C24",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+      "sha256": "02eecc76161d931002a5f8e7a12b6d08c052200a693caac16c7ae98ee0ec4e38"
+    },
+    {
+      "record_id": "C25",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+      "sha256": "337ee1468492561f90d560509582236f08387a6b460e227d09b2e4c2748f70c9"
+    },
+    {
+      "record_id": "C26",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+      "sha256": "77fced4a60e8114fd2e75fd437ca945adff845ccba055ce9993c8bddc3c049ea"
+    },
+    {
+      "record_id": "C27",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "sha256": "1424096d1a7b28245dcb193d4e6a12750e0d6b6dc5edff0cb4d6395fce13269d"
+    },
+    {
+      "record_id": "C28",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+      "sha256": "615ae7cf198d4acc45eeeb37479fa5a88d79a4c6b93b3e31c6f6fdd660f4853f"
+    },
+    {
+      "record_id": "C29",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+      "sha256": "50585afbbfd190bcfadcb323f9d1e9244581c39d5848fe2d2e52e751416c46e6"
+    },
+    {
+      "record_id": "C30",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+      "sha256": "b503e87d30738c5199d4ae4ccd9ec7db0191b1e91a470d047fed5893ed93e7b6"
+    },
+    {
+      "record_id": "C31",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+      "sha256": "95452ed6b422c56a78628beaa898a58e0a36526d6bade5d4fcb657d316a9a085"
+    },
+    {
+      "record_id": "C32",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+      "sha256": "969a7e00c77f3f862afec67bdc2adab5ffa45b4ef1c0d8fd8818b27ae226411c"
+    },
+    {
+      "record_id": "C33",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+      "sha256": "3fc264fe5b769f39e60e1d5e03ca6254cb2233c7db45f870d94f2505f6d67401"
+    },
+    {
+      "record_id": "C34",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+      "sha256": "d3004de47ed24308e4600848974aa2e70ed6de8f4f179d8f8bc01b6b5a85e856"
+    },
+    {
+      "record_id": "C35",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
+      "sha256": "de2e0bac6f3f939187baab333dcee6baa69959c47b7b50fcab1345f35f86df69"
+    },
+    {
+      "record_id": "C36",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+      "sha256": "31846b67222d662a765df988faaad4390090254ae711b79f11eeea0df899cf82"
+    },
+    {
+      "record_id": "C37",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+      "sha256": "6839156b4da6b994ce57694d9f0aa298a7e5c74ca4b1e35f444365f44514a81c"
+    },
+    {
+      "record_id": "C38",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "sha256": "23fade4d1bf16368014e73cc6985fa11237ebc93e6db06cd70e00ff1c3d3c905"
+    },
+    {
+      "record_id": "C39",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+      "sha256": "6697333019ad8d253054cb5c2190c4de777c7e7dabd0f03e6862d2a5dc9c4540"
+    },
+    {
+      "record_id": "C40",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+      "sha256": "b01dc2cd66b85913fd77641b8287efaa2833df96cabaa2d90aa93e19a8694581"
+    },
+    {
+      "record_id": "C41",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+      "sha256": "2d95f27df8ec539ce9545db8740b9649c27e6769edac875b4f16ca90c0520be4"
+    },
+    {
+      "record_id": "C42",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+      "sha256": "2bf66f359de7a753107214a16bcaafa73d1d326991eff83d495cc55d6a29e679"
+    },
+    {
+      "record_id": "C43",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+      "sha256": "716dacb5d29f2a70218e543f63e7c28c64604ca0f9f2b3c3ac28f3a24b592bdf"
+    },
+    {
+      "record_id": "C44",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+      "sha256": "18d902f7f65c7bdcae575fd3d3e542cfd9681f64ab6cce18d17c1e7beb3c1dc2"
+    },
+    {
+      "record_id": "C45",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+      "sha256": "0b55f4f45b8085ca66bf5ca1a386a53a8218ff781decf323a68c738d88047a6d"
+    },
+    {
+      "record_id": "C46",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+      "sha256": "18045feda000d4d613fd816f9009bf2bb970707f460044d71adb365ef1f83f64"
+    },
+    {
+      "record_id": "C47",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+      "sha256": "b6730156fbeee37f0852e780d7b59a457ac83d39f5c6777175cf5b4d65e39d20"
+    },
+    {
+      "record_id": "C48",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+      "sha256": "1a06d2bc720327e367f03efa62db1962bc72da17856a72be6a90e6ae319bdabd"
+    },
+    {
+      "record_id": "C49",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+      "sha256": "2dfbabc31db288b984b0719b84fbeeb05cb32c7b5c8b13d23f42523bb3bfa6fb"
+    },
+    {
+      "record_id": "C50",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+      "sha256": "fe5539234a8fc5b56d6062fa087c4dd07cc76c37f36b3497ffa421a19e993ba2"
+    },
+    {
+      "record_id": "C51",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+      "sha256": "b87abb64a5a17faad0889b8f778f0ef151bfedf63ee1e5714a7e8b3b45a2af50"
+    },
+    {
+      "record_id": "C52",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+      "sha256": "06a23819c23d8bd0306d59f654d13285968e6c3711e69ca561c4cd6530cddc49"
+    },
+    {
+      "record_id": "C53",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+      "sha256": "e80b07553252d62c46cc37c7e7df9d7cea53e2cc830af35388767f05edd427d3"
+    },
+    {
+      "record_id": "C54",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md",
+      "sha256": "9b7c8a4376f061e96e267051bf1bab0d8173594cbf074a7fc44ca4d96f98ee26"
+    },
+    {
+      "record_id": "C55",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "sha256": "962b4e484a04c5ef9f02d1a86ca911d42af0e44c02bd6f841b739f9f1d701a4a"
+    },
+    {
+      "record_id": "C56",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+      "sha256": "43368a44737e2a6f4fbb81dba16d6c4e687beb36f8cdd5fa4a89f44afb4444a3"
+    },
+    {
+      "record_id": "C57",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+      "sha256": "fd5babf55c64c8bccdee617bbef8b19c23332aa549f644c3f05d20bcf42ca443"
+    },
+    {
+      "record_id": "C58",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C58-Anthropomorphization.md",
+      "sha256": "f6f999394d9c7409d693566f02fc1b8ee378c1cd2ef1824e4c1453a8a85d8478"
+    },
+    {
+      "record_id": "C59",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md",
+      "sha256": "aa44a1711960c1edfb768bd7c6359b884d5b85722197f9d8e5bebfe1579d6df2"
+    },
+    {
+      "record_id": "C60",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md",
+      "sha256": "5017929ff790ce771e3b120996f7547f8a05a2476ecccac34510957dea308839"
+    },
+    {
+      "record_id": "C61",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+      "sha256": "462ecda8f013761ac21d31ae5e8d52473fae08dedf87915dbfd0ef8814f5b5ed"
+    },
+    {
+      "record_id": "C62",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+      "sha256": "1ff2b8557d13ab6e9e42987edec949a80ee247f6e330efb8c0353698fda7ccea"
+    },
+    {
+      "record_id": "C63",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+      "sha256": "d989bdc87840a52d382cbf1da0eb6f399478fd793f84c976bdcfcce62b5647b1"
+    },
+    {
+      "record_id": "C64",
+      "register": "episteme",
+      "record_type": "concept",
+      "canonical_home": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "sha256": "587c01a9e72d9003c6fc2cea3a9483c7380e35d7a6392765b3aa7647274e1850"
+    },
+    {
+      "record_id": "matheme-primordial-symbolon",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/primordial-symbolon.md",
+      "sha256": "e19164edd3b98ec15b070e3f35e0cc9f0f45840e1c38427700849474beb36e91"
+    },
+    {
+      "record_id": "matheme-two-ones",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/two-ones.md",
+      "sha256": "b7f86cd44b011dea7d957ebaf84f1d00262a4d7b17b873240af8a7ee9b3d77dd"
+    },
+    {
+      "record_id": "matheme-slash-and-or",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/slash-and-or.md",
+      "sha256": "208ceeca0ecc488db19f0cd3129e259a843c8c7a21b7ce6d8e54a8084f1414f4"
+    },
+    {
+      "record_id": "matheme-eight-determinations",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/eight-determinations.md",
+      "sha256": "d9ec2f1c06eebce1ad5b8168f76fe13b3918ecf222f96721b40ea0a7de0c5ab6"
+    },
+    {
+      "record_id": "matheme-binary-and-binary-of-binary",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/binary-and-binary-of-binary.md",
+      "sha256": "63d1c09b84eda489ad7e123258c140d05160849525e8766b632da21ac7660dff"
+    },
+    {
+      "record_id": "matheme-crossed-zero-re-entry",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/crossed-zero-re-entry.md",
+      "sha256": "c042ada9dfbcf2e93e60d35f4aa66dfd4a0bf979d1bcb8b57d3092668ce56013"
+    },
+    {
+      "record_id": "matheme-x-x",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/x-x.md",
+      "sha256": "9376d8928693aa0e95b9f250d159c421d002276d96609668049d487dcf159ef9"
+    },
+    {
+      "record_id": "matheme-complex-orientation",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/ql/complex-orientation.md",
+      "sha256": "18a2d56e6de29f44bbd99533cd1e8756d6745e269754d5a94921a430daedec7c"
+    },
+    {
+      "record_id": "matheme-spanda-equations",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/spanda/spanda-equations.md",
+      "sha256": "3793af502c7aea110674c2c6b554ed9db06c6b06be467e4d64e37e5de98030eb"
+    },
+    {
+      "record_id": "matheme-projective-completion",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/projective-completion.md",
+      "sha256": "a568aba0008093bfc796bfc47600a5dd1ed22ccb7b2b795b4dd50994315a997f"
+    },
+    {
+      "record_id": "matheme-projective-line",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/projective-line.md",
+      "sha256": "f7bfe18a3e899398ce4d3f9e68c7ce0a23d27899d208ff485cfd1b35e13df072"
+    },
+    {
+      "record_id": "matheme-riemann-sphere",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/riemann-sphere.md",
+      "sha256": "c20fdc470303a0e2749b28c701b201a9d4f846373b7db419e2e3384350c30070"
+    },
+    {
+      "record_id": "matheme-torus-cover-winding",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/torus-cover-winding.md",
+      "sha256": "53beea3698569c79e6c65683199f703bace8454c7464c1bc90c8b82f3d090658"
+    },
+    {
+      "record_id": "matheme-mobius-klein-surfaces",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/mobius-klein-surfaces.md",
+      "sha256": "94c800528c38963522c423e3a2215b42a3cd93ca73ce07785c807a7ba09fdda2"
+    },
+    {
+      "record_id": "matheme-toroidal-poloidal-confinement",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/toroidal-poloidal-confinement.md",
+      "sha256": "a27a7176142e0bb115ee944735d0d7b039f9368795294e4a32d8ad5998d929ea"
+    },
+    {
+      "record_id": "matheme-whole-tone-return",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/whole-tone-return.md",
+      "sha256": "5490bd2a2644d3d58109e149db18211ec6a6b8dcc403aa4e9820a09273dc2b6c"
+    },
+    {
+      "record_id": "matheme-pythagorean-comma",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/pythagorean-comma.md",
+      "sha256": "85b771ca4c20fc56dd72dd4851dae39137757cd1b6005b51754aec3a0a66d668"
+    },
+    {
+      "record_id": "matheme-cycle-interval-octave",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/cycle-interval-octave.md",
+      "sha256": "e753292d9ede4e64b90c67c95b926e7ae811eab6c9937fda94b3de149a8b036e"
+    },
+    {
+      "record_id": "matheme-arche-topos-musical-resolution",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/arche-topos-musical-resolution.md",
+      "sha256": "7fed0b46d19a2babd0bce566f3042094af91b7eb18be653fb59e73d2581039fc"
+    },
+    {
+      "record_id": "matheme-metonic-antikythera-cycle",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/metonic-antikythera-cycle.md",
+      "sha256": "0d844379502a1ea08034a7adebe48909f77b1e14d083a60a3c6914e890ce871b"
+    },
+    {
+      "record_id": "matheme-cymatics-standing-waves",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/cymatics-standing-waves.md",
+      "sha256": "18844ff980c111bc0cf8f589e8c343edb944b2012b4ca6f10a22ecd36acda8da"
+    },
+    {
+      "record_id": "matheme-von-neumann-ordinals",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/von-neumann-ordinals.md",
+      "sha256": "c64f53a4dec926e0e03402bf3e8dbcb758334e27917a25fcd62ed0c1dcda9b8a"
+    },
+    {
+      "record_id": "matheme-division-pluralisms",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/division-pluralisms.md",
+      "sha256": "170caf9d475247854eade69e2c3f99050c9e2a49cda235d8080dc801f8e40dd2"
+    },
+    {
+      "record_id": "matheme-sheffer-stroke",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/sheffer-stroke.md",
+      "sha256": "8d4cd6f0c2bd8d689d0af6d79de6865d31b3deaa7bcfc7c276613b724ead03e0"
+    },
+    {
+      "record_id": "matheme-laws-of-form-varela",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/laws-of-form-varela.md",
+      "sha256": "17bb8a1679b9f500d9460f1654144cf26b9bfb6268ad4251451fad2d88697038"
+    },
+    {
+      "record_id": "matheme-russell-types",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+      "sha256": "84fefdf4b3893ee347550d653d81320c0b873b97310a529b57f5987465abafc2"
+    },
+    {
+      "record_id": "matheme-godel-incompleteness",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/godel-incompleteness.md",
+      "sha256": "ead69a17ddda2235033652070ffb53759a6b3237f3af9335f708171b8adc266e"
+    },
+    {
+      "record_id": "matheme-fde-catuskoti",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/fde-catuskoti.md",
+      "sha256": "820974af1b819b727d872699b2e9779b7992328e7635ac1d365ef131ba70c6b9"
+    },
+    {
+      "record_id": "matheme-crt-z6",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/crt-z6.md",
+      "sha256": "f67e21e17286a077a64c4ce8d69d671c5727cf26e0966db0b79088c3c0ff4929"
+    },
+    {
+      "record_id": "matheme-trivial-ring",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/trivial-ring.md",
+      "sha256": "c305239e2daadce852e9d589c3cc97aeca81f28cb44d4677976f0a0a0e468e96"
+    },
+    {
+      "record_id": "matheme-grothendieck-group-loss",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/grothendieck-group-loss.md",
+      "sha256": "2919163a8bc9c96b69b70343f99685ccd6a6d26b886b0fda960b7bbc1fd83c23"
+    },
+    {
+      "record_id": "matheme-kauffman-iterants",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/kauffman-iterants.md",
+      "sha256": "af712057ee478e3c2b272c0c412f2889230a0b7f7dfbe032fe021f51b6cc7516"
+    },
+    {
+      "record_id": "matheme-cross-ratio",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/cross-ratio.md",
+      "sha256": "1c5123237f479f5fec3ddf7dd397ed02f3176b727aa787b190f4ffb6c6309272"
+    },
+    {
+      "record_id": "matheme-qubit-bloch-sphere",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/qubit-bloch-sphere.md",
+      "sha256": "190f48437afc8a87b864293093a3f23bb91458ad9c60695b549c70c882073104"
+    },
+    {
+      "record_id": "matheme-softmax-argmax",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/computation/softmax-argmax.md",
+      "sha256": "51290c2dfd988e22d02ff1c95cc52840bb6587da100dc449e4bc0b2d967ce6fc"
+    },
+    {
+      "record_id": "matheme-preference-gauge",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/computation/preference-gauge.md",
+      "sha256": "15323374335cb2834a8d837eeb7808f2ded3a7ea8d694dc42c9450ff64369ee0"
+    },
+    {
+      "record_id": "matheme-j-space",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/computation/j-space.md",
+      "sha256": "b6fe5e0cd29142b89af18c52050e9095800d1f0a15014f81379b6ae82407711a"
+    },
+    {
+      "record_id": "matheme-ebm-resonance",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/computation/ebm-resonance.md",
+      "sha256": "0b2226a938407080fe7b2d7e5ff5e8d0b634d35344264cbc70523c71b7187340"
+    },
+    {
+      "record_id": "matheme-operational-parity",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/computation/operational-parity.md",
+      "sha256": "736781a36f8f0f698d8d0d5d10a67833824626abdcd89673127c3e1dc943591d"
+    },
+    {
+      "record_id": "mytheme-ares-aphrodite-hephaestus-poseidon",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "sha256": "b41b556514a41fd21854ddbf70ff8c03c1523eb478b1444f71563b62b3cf334c"
+    },
+    {
+      "record_id": "mytheme-apollo-dionysus-daphne",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md",
+      "sha256": "aed5b63dce5c2dd5c3d1302fcfbc56f9c02a649ba62da50e350cbcd10aabed5c"
+    },
+    {
+      "record_id": "mytheme-the-prisoner",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07"
+    },
+    {
+      "record_id": "mytheme-antikythera-attunement",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+      "sha256": "c7140d70bf131da9c0135b3e18d4a45234711f12d71a39a323c9336b292336df"
+    },
+    {
+      "record_id": "mytheme-mirror-that-moves-first",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "sha256": "03bf3fb7b74e2ee2079f5ddfe77540421b4ade8b356a2eb6a50aa0b0abefa2bc"
+    },
+    {
+      "record_id": "mytheme-job",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9"
+    },
+    {
+      "record_id": "mytheme-mother-assumption-chiasm",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "sha256": "c4f8178e1da6419587d843e93873fa048d3e791991b2bf6d59d753de7ccfb7f7"
+    },
+    {
+      "record_id": "mytheme-uroboros-trickster",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md",
+      "sha256": "2e7df838835c39575091e2849435ae179f61d210b329e61c4b05c8a9b2993a84"
+    },
+    {
+      "record_id": "mytheme-travelling-jigsaw-atlas",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995"
+    },
+    {
+      "record_id": "mytheme-neumann-images",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md",
+      "sha256": "fe5b8c1ad246d4ad086a5ff3de781374ec12304e968b89254d375c8aa4d2b6c1"
+    },
+    {
+      "record_id": "mytheme-goethe-permanence-change",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "sha256": "532c4b27a5b051c490f84e581266059c925105eb5cd31690791a9e5e265f1e7a"
+    },
+    {
+      "record_id": "mytheme-taylor-authored-images",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "sha256": "405f33917088b7c2e698e08d3df1d414a526e80de21cafb38328f8c56bd3af8f"
+    },
+    {
+      "record_id": "mytheme-myth-attica-athena-poseidon-cecrops",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/hellenic/attica-athena-poseidon-cecrops/WHOLE.md",
+      "sha256": "68aa4168cf423d9744c74aff43a75ce47d090ca5af699bb5325149086b56e3a5"
+    },
+    {
+      "record_id": "mytheme-myth-hypostasis-archons-norea-sophia",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md",
+      "sha256": "fdc80d9c458449347bb8aa6c15f6415d94a080dcdeaa016c577d80a6359e3557"
+    },
+    {
+      "record_id": "mytheme-narrative-fanon-language-gaze-mask-recognition",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+      "sha256": "a7609c652d7e6eba7edcbd43f5f74291d28f0ae0fe345d4f6ed646bb55eead82"
+    },
+    {
+      "record_id": "mytheme-narrative-jung-aion-fishes-christ-antichrist-alchemy",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md",
+      "sha256": "7abe84069734e88bb597cb693269dde6c887e8ee9fda47659bd7ee43bf90c188"
+    },
+    {
+      "record_id": "history-ancient-philosophy",
+      "register": "episteme",
+      "record_type": "history",
+      "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/HISTORY.md",
+      "sha256": "d4ada784572c85c9c79f2ee8f2b6c057f12ddb164c74016d2d4f2d038e1aa2f8"
+    },
+    {
+      "record_id": "history-indian-philosophy",
+      "register": "episteme",
+      "record_type": "history",
+      "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY.md",
+      "sha256": "cddc8cfd0de71514675cd7f4975029ca06b1b9309ccbfc41086a5ffe86bd9f05"
+    },
+    {
+      "record_id": "history-language-law-nation-centralisation",
+      "register": "episteme",
+      "record_type": "history",
+      "canonical_home": "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/HISTORY.md",
+      "sha256": "fce96725ed4bb5c874ef82bffdd5259546d24b0b8455ccce931f316858e5377d"
+    },
+    {
+      "record_id": "history-language-symbol-dialogue",
+      "register": "episteme",
+      "record_type": "history",
+      "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY.md",
+      "sha256": "e754f5f8b8dee1930e68f15d9bf0949664cd816fde710a7ca13c73f17080532d"
+    },
+    {
+      "record_id": "history-mathematics",
+      "register": "episteme",
+      "record_type": "history",
+      "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/HISTORY.md",
+      "sha256": "c36c40889031d7a9abcda6c426a6db6913c8e44bd3586e9807493321c9f1cf65"
+    },
+    {
+      "record_id": "history-myth",
+      "register": "episteme",
+      "record_type": "history",
+      "canonical_home": "submission-package/essay/symbolon/episteme/histories/encounters-and-transmissions/myth/HISTORY.md",
+      "sha256": "9a741a09d2467c9833da9f60ebdca00e684b489b16e4dc25eec8fa01c5bfaed0"
+    },
+    {
+      "record_id": "history-process-systems-science",
+      "register": "episteme",
+      "record_type": "history",
+      "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/process-systems-science/HISTORY.md",
+      "sha256": "0d8e8f7517b5b52f87d0602e9bc620cbfc22cd5f4a764d469344180c735a19d3"
+    },
+    {
+      "record_id": "history-psychology",
+      "register": "episteme",
+      "record_type": "history",
+      "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/psychology/HISTORY.md",
+      "sha256": "e21e9814a2767f24fa34bfc9a5d3c228aa16cccb95b5d583f467b221883d3faf"
+    },
+    {
+      "record_id": "history-technology-politics",
+      "register": "episteme",
+      "record_type": "history",
+      "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/HISTORY.md",
+      "sha256": "75aa957131cdcc39f78f224bab6959d672672e355e691c693c15040b36e83c01"
+    },
+    {
+      "record_id": "history-zero-subject-advent",
+      "register": "episteme",
+      "record_type": "history",
+      "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/HISTORY.md",
+      "sha256": "3823064d0fb3650db6d0d744fc3f9d92876d32d1cce1237d363af509292b7ab2"
+    },
+    {
+      "record_id": "etymology-encounter-region-name-count",
+      "register": "episteme",
+      "record_type": "etymology-whole",
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md",
+      "sha256": "f8724e0409d43ac1bd36a259794a88116a3ea53d80fedc00ed36ab266c6c0d8a"
+    },
+    {
+      "record_id": "etymology-arbitration-hybris-regard-anamnesis",
+      "register": "episteme",
+      "record_type": "etymology-whole",
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "sha256": "58c7e374fe38ac56ce60fcd0180aa0cf0c1f789135cdb92b10c440d49e52bc94"
+    },
+    {
+      "record_id": "etymology-trust-place-logos-nomos-natio-credere",
+      "register": "episteme",
+      "record_type": "etymology-whole",
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "sha256": "575c84bd751d3f4e295652839e0761e0aaa42958d8b720b47016458d8e90fe1d"
+    },
+    {
+      "record_id": "etymology-symbol-account-and-trust",
+      "register": "episteme",
+      "record_type": "etymology-whole",
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "e0291913d331cea970c433858352c71fd547cbc167f9d11db60ac5bac32865d6"
+    },
+    {
+      "record_id": "etymology-homology-and-analogy",
+      "register": "episteme",
+      "record_type": "etymology-whole",
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "sha256": "3ca34b8ab15d6502b7ae83efc93bef2e68609a88ba3afb19f8d854dfcfd4c38a"
+    },
+    {
+      "record_id": "etymology-apportionment-and-economy",
+      "register": "episteme",
+      "record_type": "etymology-whole",
+      "canonical_home": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md",
+      "sha256": "4f19e8971105b50517cc2582c4f6fe00cf8438e2c1e8f6ff71ec9f2f128bcf8c"
+    },
+    {
+      "record_id": "dossier-formal-limit",
+      "register": "episteme",
+      "record_type": "dossier",
+      "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+      "sha256": "1c2aac9aa617d40ca8c7daf204366467770ab3d0459e0cd74f222bc0c896e139"
+    },
+    {
+      "record_id": "dossier-bohm",
+      "register": "episteme",
+      "record_type": "dossier",
+      "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/bohm.md",
+      "sha256": "71170770d756b5f7feee16d323f49242f88719fc6962bf14936069b50f9c0832"
+    },
+    {
+      "record_id": "dossier-jung-pauli-psychoid",
+      "register": "episteme",
+      "record_type": "dossier",
+      "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/jung-pauli-psychoid.md",
+      "sha256": "5c3d693c8960fa6a8b542bdf1ab52aee1a90226fec41d5b6e9e08c584535269b"
+    },
+    {
+      "record_id": "dossier-process",
+      "register": "episteme",
+      "record_type": "dossier",
+      "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/process.md",
+      "sha256": "d4f753c281b54280832acf712969f083fcbd96ca75ef1dde6dcc844a452b6442"
+    },
+    {
+      "record_id": "dossier-indian-philosophy",
+      "register": "episteme",
+      "record_type": "dossier",
+      "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/indian-philosophy.md",
+      "sha256": "11ed980efafaf9c70cddedeff06a869be5846e1d4e74794bb18a351c0113bf00"
+    },
+    {
+      "record_id": "dossier-zero-reception",
+      "register": "episteme",
+      "record_type": "dossier",
+      "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/zero-reception.md",
+      "sha256": "0b575a5bbf767de1cadbb40822c05f6addc022a39eac3498b74ec8ee39eabeb5"
+    },
+    {
+      "record_id": "dossier-oi-technical-responsibility",
+      "register": "episteme",
+      "record_type": "dossier",
+      "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/oi-technical-responsibility.md",
+      "sha256": "5924569cead2b4d3cc9bf9fc87ef8d1c33e4da7be47223dd40e0695a0aaa6da7"
+    },
+    {
+      "record_id": "lens-baudrillard",
+      "register": "episteme",
+      "record_type": "lens",
+      "canonical_home": "submission-package/essay/symbolon/episteme/lenses/baudrillard.md",
+      "sha256": "a234c72ed556ef0c5336142f13e7db6b40b42807d98f39862180d0c95e2cf9bd"
+    },
+    {
+      "record_id": "lens-foucault",
+      "register": "episteme",
+      "record_type": "lens",
+      "canonical_home": "submission-package/essay/symbolon/episteme/lenses/foucault.md",
+      "sha256": "ad9eca38ab8e9ce85907303022457d708b1feea0eb2e94ac4eea730e2b3b8fbb"
+    },
+    {
+      "record_id": "mytheme-apollo-eros-daphne-peneus",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+      "sha256": "f4837d9f88f1d663677b36aff002ea6e49752dafa23390c6c7006e7ca00ba4a9"
+    },
+    {
+      "record_id": "mytheme-maya-eye-veil-frame-horizon",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+      "sha256": "f50f92ae34794ebdaa0313d5b1e92ffd69a1b665acfdcff9e82b21b199fc1352"
+    },
+    {
+      "record_id": "mytheme-avatar-image-mask-idol",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "sha256": "0eddb350ab1f475bd9c898f2f127ab33eb47b375cdb839b1004a37613caac71e"
+    },
+    {
+      "record_id": "mytheme-indra-net",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e"
+    },
+    {
+      "record_id": "mytheme-eros-psyche",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+      "sha256": "2a7c31a84f8a560505023641513926b4c17858c7543ebdd4fd3de4eaeaf60ef6"
+    },
+    {
+      "record_id": "matheme-noether-symmetry-conservation",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/noether-symmetry-conservation.md",
+      "sha256": "3cd9a2847f1efee095fcd648a7dc09f0dce1def6d55867308ce77169401a1d4c"
+    },
+    {
+      "record_id": "matheme-perfect-six",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/perfect-six.md",
+      "sha256": "27a6d07a07deb05d9b4a6869b7e2fa262accc542167c46adccb3a72dc66f9ebb"
+    },
+    {
+      "record_id": "matheme-tetraktys-triangle",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/harmonics/tetraktys-triangle.md",
+      "sha256": "32a0d3a26386446a4bc2a06f2a67e0247f3c8e71bf9c81ad81c376f133373362"
+    },
+    {
+      "record_id": "matheme-quaternion-q8",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/quaternion-q8.md",
+      "sha256": "4d5b99654e90cdeeb13d8094a9d7c5d315b31aafed7408970d8a60912a3f3a77"
+    },
+    {
+      "record_id": "matheme-calculus-infinity-dx",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/calculus-infinity-dx.md",
+      "sha256": "7065c58175076854296aae758cd7a39e348bf241f0b91d0361172ed9dd614bbf"
+    },
+    {
+      "record_id": "matheme-chaos-attractors",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/formal-neighbours/chaos-attractors.md",
+      "sha256": "a233295a47894c3c9274a72cd88e52ede7b2e46d4e7343c3ee6728d8c541e2d9"
+    },
+    {
+      "record_id": "matheme-manifold-atlas",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/topology/manifold-atlas.md",
+      "sha256": "9cb4c3a295fb43c044392188a55b3217ef6cb5e1bbd3d1efbce84c9743356119"
+    },
+    {
+      "record_id": "symbolon-the-slash",
+      "register": "symbolon",
+      "record_type": "root-relation",
+      "canonical_home": "submission-package/essay/symbolon/the-slash.md",
+      "sha256": "887a3dbd1bf3541db33c5063f187c286bfa9a84c4261cab85a8608103dfb2b74"
+    },
+    {
+      "record_id": "symbolon-0-1",
+      "register": "symbolon",
+      "record_type": "root-relation",
+      "canonical_home": "submission-package/essay/symbolon/0-1.md",
+      "sha256": "ab0bdc96d6e9b6b0613b65bc195a3a025c29c36e9716b879f38202485553603a"
+    },
+    {
+      "record_id": "symbolon-question-assertion",
+      "register": "symbolon",
+      "record_type": "root-relation",
+      "canonical_home": "submission-package/essay/symbolon/question-assertion.md",
+      "sha256": "62d1d19be77f31bcba5557ea741d6c07f40b5ea13934331a286566a011414bf4"
+    },
+    {
+      "record_id": "symbolon-minus-plus",
+      "register": "symbolon",
+      "record_type": "root-relation",
+      "canonical_home": "submission-package/essay/symbolon/minus-plus.md",
+      "sha256": "3101f205d53857953ed74a776ab8c706295fb15fb12082cb665c08d80311c735"
+    },
+    {
+      "record_id": "symbolon-x-x",
+      "register": "symbolon",
+      "record_type": "root-relation",
+      "canonical_home": "submission-package/essay/symbolon/X-x.md",
+      "sha256": "3c9936c9babc69986f11301e790cba078325bbf617b78ef19717700d659adcca"
+    },
+    {
+      "record_id": "symbolon-am-is",
+      "register": "symbolon",
+      "record_type": "root-relation",
+      "canonical_home": "submission-package/essay/symbolon/AM-IS.md",
+      "sha256": "351c3425798022a1e037a41f11cb732681b81d35fd3cc579a4bad4ae62c90371"
+    },
+    {
+      "record_id": "symbolon-infinity-dx",
+      "register": "symbolon",
+      "record_type": "root-relation",
+      "canonical_home": "submission-package/essay/symbolon/infinity-dx.md",
+      "sha256": "c26332e6e0c76724a33d87138ae509e40800aad9274bb81039e1013aabfd1d75"
+    },
+    {
+      "record_id": "symbolon-1-0",
+      "register": "symbolon",
+      "record_type": "root-relation",
+      "canonical_home": "submission-package/essay/symbolon/1-0.md",
+      "sha256": "bf140fe76631f9b2e2870def31801892bdb5a442fe5f1baac5713bf083d3bd64"
+    },
+    {
+      "record_id": "symbolon-mono-poly",
+      "register": "symbolon",
+      "record_type": "root-relation",
+      "canonical_home": "submission-package/essay/symbolon/mono-poly.md",
+      "sha256": "5c895d54038fe6dea3002de3f3558a934f57ca41b054e3b3851b6434fc1f4b5b"
+    },
+    {
+      "record_id": "symbolon-complexio-oppositorum",
+      "register": "symbolon",
+      "record_type": "root-relation",
+      "canonical_home": "submission-package/essay/symbolon/complexio-oppositorum.md",
+      "sha256": "f1aca0c28e19caef749a81e3d5c6ad6577dcd5c5fbe0b2e6fa38f8f62d850daf"
+    },
+    {
+      "record_id": "symbolon-self-identity",
+      "register": "symbolon",
+      "record_type": "root-relation",
+      "canonical_home": "submission-package/essay/symbolon/self-identity.md",
+      "sha256": "bac6531eb707bc4df0a6be295a0f72e57d3d2a7b665f3a78537c2e02cb118985"
+    },
+    {
+      "record_id": "symbolon-subject-logics",
+      "register": "symbolon",
+      "record_type": "root-relation",
+      "canonical_home": "submission-package/essay/symbolon/subject-logics.md",
+      "sha256": "534c9016b83e9a1f8ce0c240fdda55feb53d96973f748142a607626654ca9ea1"
+    },
+    {
+      "record_id": "symbolon-eight-determinations",
+      "register": "symbolon",
+      "record_type": "spine-index",
+      "canonical_home": "submission-package/essay/symbolon/eight-determinations.md",
+      "sha256": "cbac593618012f9268bfd449953350f8b3a1aaf69f97e49a5f92bc323901e2b2"
+    },
+    {
+      "record_id": "matheme-definition-the-matheme",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/the-matheme.md",
+      "sha256": "8fe0358aeb8996055a6c1607bed61bb4406330e9c5e93c8b1ac1be66ca302d9c"
+    },
+    {
+      "record_id": "matheme-definition-minus-over-minus",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/minus-over-minus.md",
+      "sha256": "870d891efc70deda69fa7fd27f9be3ff8d88bb7ec7af452eac41bb3b0a2f5315"
+    },
+    {
+      "record_id": "matheme-definition-copula",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/copula.md",
+      "sha256": "5fabbb3e15fab966dc9b907b5fdc725471c4dfd39e50eedef1c9b8e73c7a93ee"
+    },
+    {
+      "record_id": "matheme-definition-harmonics-and-recount",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/harmonics-and-recount.md",
+      "sha256": "3563e416d1aee63a1d4cd0a48ae8758c532bfbc534d77f6c2800b7d76813258a"
+    },
+    {
+      "record_id": "matheme-definition-six-determinations",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/six-determinations.md",
+      "sha256": "a3cc539a6d37b87b71463637077e17f05cf1fe9d41879783d8b06f6cee53d540"
+    },
+    {
+      "record_id": "matheme-definition-catuskoti-crossing",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/catuskoti-crossing.md",
+      "sha256": "171ced1117cb1ebe22d2e4156721ffe1e51dedd63f392a24fbe3b711ab677d47"
+    },
+    {
+      "record_id": "matheme-definition-immutable-subject",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/definition/immutable-subject.md",
+      "sha256": "c972c1ca063731e65948e2e17b6d1ddca8711d47b0ed4ab95da07597819f2fc7"
+    },
+    {
+      "record_id": "matheme-process-t1-geometry",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/t1-geometry.md",
+      "sha256": "71d58b64dd571c159abed03c56917936d21de5dea57836884f4bf52f4eb35c62"
+    },
+    {
+      "record_id": "matheme-process-phase-flip",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/phase-flip.md",
+      "sha256": "2c906b0e6dff06b5950b2e225bf098ea7a9fc4586db19a2c8c72cb34a5d96c40"
+    },
+    {
+      "record_id": "matheme-process-t0-onto-logic",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/t0-onto-logic.md",
+      "sha256": "d13d0efa88786eecb3136d361b7c87b957791f235f80054b67963de3b3ff950b"
+    },
+    {
+      "record_id": "matheme-process-spanda",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/spanda.md",
+      "sha256": "a329b834e8137f640e47e4d0d5c00f8b2a0b655e74b75433c6d13a996587f64c"
+    },
+    {
+      "record_id": "matheme-process-ratio-threshold",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/ratio-threshold.md",
+      "sha256": "739ca3bdbc5539c8ac395cb5b520a8ce4cb3c1d2ce116907466ca81df9eec44d"
+    },
+    {
+      "record_id": "matheme-process-harmonics-symmetries",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/harmonics-symmetries.md",
+      "sha256": "039d469edb39ede1c681a3fd354e6cf023d32c39fc32f06cf062edf30351f8b0"
+    },
+    {
+      "record_id": "matheme-process-ql-positions",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/process/ql-positions.md",
+      "sha256": "4a52afeee151f8f5b3682609084dd65e7ebf51f124cd1f1be3200b4d7d41dedc"
+    },
+    {
+      "record_id": "matheme-quilt-etymology",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/etymology.md",
+      "sha256": "baed1df5a6667f8d91fb13c24ce138413f5c8215753a10e654d2c29d0958ff66"
+    },
+    {
+      "record_id": "matheme-quilt-psychology",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/psychology.md",
+      "sha256": "b1036dfcfb6250f6ebe0ebeebb51b52aae734e2734b61bc24b974c9115c732e8"
+    },
+    {
+      "record_id": "matheme-quilt-number",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/number.md",
+      "sha256": "1450f21c8418e24adb04da22ab91b0b85602c8c2c2c886220e8d53eedc914363"
+    },
+    {
+      "record_id": "matheme-quilt-topology",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/topology.md",
+      "sha256": "26cb2d81c83a701bff556894350e8001230e5f21bab611eda953ee92d46c3d40"
+    },
+    {
+      "record_id": "matheme-quilt-metaphysics",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/metaphysics.md",
+      "sha256": "78f0f74c856f9d3c2ed4a468ab4c6b97e583f03808b13a42f862dae4703ac37b"
+    },
+    {
+      "record_id": "matheme-quilt-recognition",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/recognition.md",
+      "sha256": "bba9bca3895d637c7d67b299a9b0a90fc6323529da5a862a74c6e364bbb78dd6"
+    },
+    {
+      "record_id": "matheme-quilt-enantiodromic-return",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/quilt/enantiodromic-return.md",
+      "sha256": "23a264100c07f91a5463c038fb1b9054b7b0c98c5735305ef69d28f1ec9cf20d"
+    },
+    {
+      "record_id": "matheme-music-foundational-ratios",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/foundational-ratios.md",
+      "sha256": "12b4803781a948394fd862aebad2fed68a9a4ebae89996f16ae5ece79a112b41"
+    },
+    {
+      "record_id": "matheme-music-chromatic-substrates",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/chromatic-substrates.md",
+      "sha256": "5b806d933667580e5b7e20d723e55dbc221778d62c438611f8e366d58d49b7bb"
+    },
+    {
+      "record_id": "matheme-music-pairing-grammar",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/pairing-grammar.md",
+      "sha256": "ea28a7c43e03de0b203449424fe5bb5e0e13625e0ce78ae9c6e66889945265a5"
+    },
+    {
+      "record_id": "matheme-music-lens-anchors",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/lens-anchors.md",
+      "sha256": "166c29139adc1098e6a1677635f8a0d181cfb4b3c259de9d27e3c776b8d6c897"
+    },
+    {
+      "record_id": "matheme-music-diatonic-cf-grammar",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/diatonic-cf-grammar.md",
+      "sha256": "dc4cfcc00222fd2f713a72787d0f7dc3c20df7c56978237b28827a75a117a403"
+    },
+    {
+      "record_id": "matheme-music-field",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/field.md",
+      "sha256": "faa8129880a381cb7b100989b32493d195c267e7c5d58326231909a3c428b681"
+    },
+    {
+      "record_id": "matheme-music-observer-instrument",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/music/observer-instrument.md",
+      "sha256": "eec1824c84b514d5faf6ca89450e0e3dde1f66208cae2778f6fdd8359ef70b34"
+    },
+    {
+      "record_id": "matheme-dia-syn-dia",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/dia.md",
+      "sha256": "c24c28d4d5d8124375270b6902e56d65d447e2292ccd4f31add4a297c8c8e470"
+    },
+    {
+      "record_id": "matheme-dia-syn-syn",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/syn.md",
+      "sha256": "c2129a70488233c7a68a9f7152fdbd93b15b4606400baafcb64ca6e478479d24"
+    },
+    {
+      "record_id": "matheme-dia-syn-chronic",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/dia-syn/chronic.md",
+      "sha256": "79464c4b8a37d53438ac4f01a38d269cdde506af0eb6866a094d6dc8f9f13d84"
+    },
+    {
+      "record_id": "matheme-mono-poly-mono",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/mono-poly/mono.md",
+      "sha256": "6e3685da959c21ae9ee07f0a421e8ec5aa11b75a9a8ed83ac1080a7c9bbdeedb"
+    },
+    {
+      "record_id": "matheme-mono-poly-poly",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/mono-poly/poly.md",
+      "sha256": "ae28c505e9945e082990776e100aec9c354391de2f3117edc455a7bbf9a893cf"
+    },
+    {
+      "record_id": "matheme-mono-poly-translations",
+      "register": "matheme",
+      "record_type": "matheme",
+      "canonical_home": "submission-package/essay/symbolon/matheme/mono-poly/translations.md",
+      "sha256": "131427ef6103dc00786930b999aeac5f7b690b4b3e6d7cb122d4172893ae5917"
+    },
+    {
+      "record_id": "A01p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A01-prime-Faithful-Definition-of-the-Agent.md",
+      "sha256": "4a2f07e07c642bbe351cdfcd387ec9e3bb865c2d39ff050e3ccb45311cddbe03"
+    },
+    {
+      "record_id": "A02p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A02-prime-Continuity-as-Maintained-Identification.md",
+      "sha256": "a451b1140a7b613f2fcda66b979409d356f44cfcb9f19b7afc6e720fa9bd58a5"
+    },
+    {
+      "record_id": "A03p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A03-prime-The-Limit-of-Self-Surfacing.md",
+      "sha256": "8b6ccc94fc3643f78cc607709360741f06caeef735402402b0bc3cb912e13be5"
+    },
+    {
+      "record_id": "A04p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A04-prime-The-Mask-as-Document.md",
+      "sha256": "2671c65596452bea4d64e26efec278916ea65350654106829c45055a69c822d8"
+    },
+    {
+      "record_id": "A05p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md",
+      "sha256": "a77aa12fc179cd722679a3c42f243e2747350ab98a5010aefcd1c672432ff34b"
+    },
+    {
+      "record_id": "A06p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md",
+      "sha256": "8c908079a96bd2d26df80919d3c862144f30fd318cb3cec5f2036c8ee34ca272"
+    },
+    {
+      "record_id": "A07p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A07-prime-Purpose-That-Survives-the-Metric.md",
+      "sha256": "32db575e1b670cbbd251334614196c112c06d83d3e51ee8b6c805688ae0a81d5"
+    },
+    {
+      "record_id": "A08p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A08-prime-Exclusion-That-Remembers.md",
+      "sha256": "94bc534450673995eea56f38cde03ed2dfa03d6535ee9009538d2011a74789d8"
+    },
+    {
+      "record_id": "A09p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md",
+      "sha256": "2ebe65fbf9df106ae7a5a0a167af25f2e728169f31210dd9f5f8765104e43e4c"
+    },
+    {
+      "record_id": "A10p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A10-prime-Uncounted-Enters-the-Account.md",
+      "sha256": "4c8501a886adcf096a50c030c36247b8e4d21fce6430303898caa5bff33b2572"
+    },
+    {
+      "record_id": "A11p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A11-prime-One-Field-Two-Faces.md",
+      "sha256": "a230084d817c48c87e3000959aad0e8b64b9fadb6c888bc09c732a7351df9e14"
+    },
+    {
+      "record_id": "A12p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A12-prime-Against-Monoculture.md",
+      "sha256": "715731bc5928296f777a5b5a692170f1753e768dd40015d180374d9c433cda4d"
+    },
+    {
+      "record_id": "A13p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A13-prime-The-Cut-and-the-Gathering.md",
+      "sha256": "db4c3a40b679308b620ba250a1f282775a8247ba7c6bfd49cc51f7d4b45849a0"
+    },
+    {
+      "record_id": "A14p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A14-prime-Code-as-the-Ages-Logos.md",
+      "sha256": "04570283edf025bf02d64955d17f7c7525a579c3669946269d5e31e191e970a2"
+    },
+    {
+      "record_id": "A15p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A15-prime-The-Measure-Constitutes.md",
+      "sha256": "0403c2cd2e4660423d287243ae9744403c2c3005bff2b487968854533e28f80f"
+    },
+    {
+      "record_id": "A16p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A16-prime-No-View-from-Nowhere.md",
+      "sha256": "0af944d467567f52793a7249b85ff66fd174ce5979df02eaebe8e87b347e4c7e"
+    },
+    {
+      "record_id": "A17p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A17-prime-Traversal-with-Return.md",
+      "sha256": "c223093419776da9559d93afd49a9bdbeeec06dfb4985d1acd1120665ee14881"
+    },
+    {
+      "record_id": "A18p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A18-prime-Traversal-Run-in-Code.md",
+      "sha256": "2d58c991c956a8319cd1d15ad9afaf11ca750be6e58ca34c8e04a4fc18658689"
+    },
+    {
+      "record_id": "A19p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A19-prime-The-Local-Regime.md",
+      "sha256": "8e50618f29e32a3719e786c3fd26d43317e7c23f7ab645d6bd51d8c619c04899"
+    },
+    {
+      "record_id": "A20p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A20-prime-The-Image-That-Closes-the-Loop.md",
+      "sha256": "ac4181ac0f25b08374564c8a5025a1b639d665ad42316310fecb8845fa8c4113"
+    },
+    {
+      "record_id": "A21p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A21-prime-Individuation-with-Recognition.md",
+      "sha256": "58153d6e30b4c0ca42a8455aa5aad721a28200f82c20646a8aed0da2bacbdfc4"
+    },
+    {
+      "record_id": "A22p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A22-prime-The-Atlas-Not-the-Camera.md",
+      "sha256": "d89b642a7782f395f2e48995f2136f1f9fc0ddf4cdfdaeb24d7da57e118683fc"
+    },
+    {
+      "record_id": "A23p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A23-prime-Trust-under-Unpossessable-Interiors.md",
+      "sha256": "38ef5e26bdb92db6a7fe52339865c129e2797227cf91ae3aeb017a15e65b2413"
+    },
+    {
+      "record_id": "A24p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A24-prime-The-Usurping-Criterion.md",
+      "sha256": "79646e36ee986dcbae3c0551f9ef9ee9b7249d83ce6983d2be3c404c3aaa6e33"
+    },
+    {
+      "record_id": "A25p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A25-prime-Covenant-Architecture.md",
+      "sha256": "2c5f726471d4178084223d6114c1662b89e629d534a271ad2e03b7b1dfc7cabc"
+    },
+    {
+      "record_id": "A26p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A26-prime-The-Essay-Inside-the-Film.md",
+      "sha256": "103b32a4d28d6e1ebe9e4687e01a2a8f16bbe7c3253677b35004767e6f622262"
+    },
+    {
+      "record_id": "A27p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A27-prime-Encounter-over-Sovereignty.md",
+      "sha256": "5ec35764bc7af361edfc9821487da33c6913a89b285184046c0540aa8659244f"
+    },
+    {
+      "record_id": "A28p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A28-prime-The-Authored-Session.md",
+      "sha256": "3082e0b3fe7d2e4b79a95800d5cee991a31488f3a2bfa1bed0766857799af790"
+    },
+    {
+      "record_id": "A29p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A29-prime-Return-or-Extraction.md",
+      "sha256": "b9ef746f28c455e034af14b239d964631fc0e45541b2f9b043601adfa0d65712"
+    },
+    {
+      "record_id": "A30p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A30-prime-Shared-Worlds-Unmerged.md",
+      "sha256": "18f1a0e6daaf45f72a6cdaebe3a436cf5f25530349fb5319615593d486610b78"
+    },
+    {
+      "record_id": "A31p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A31-prime-Deference-as-Co-Evolutionary-Alignment.md",
+      "sha256": "7f0cf0b55916b316a750c9894838549b198bedeed32e7a96e49f6ed57377c21c"
+    },
+    {
+      "record_id": "A32p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A32-prime-The-Mirror-Is-a-Film.md",
+      "sha256": "37aca079448e685773983a8db7444dd05f528ac7ea26b1a0779811b59128ee13"
+    },
+    {
+      "record_id": "A33p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md",
+      "sha256": "4f24252a6ba70732f461abf98794e15d60ba341384e3e1d6292c0b32f1d9fbca"
+    },
+    {
+      "record_id": "A34p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md",
+      "sha256": "5069076d03d91c20d959214ed1ee34b4eb653e78e3bb88793efef979cf7210f8"
+    },
+    {
+      "record_id": "A35p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A35-prime-Commons-Behind-the-System.md",
+      "sha256": "c5f859c431c51a977abe78a93776b86650a17f5d860f4fe21e076af0c642f257"
+    },
+    {
+      "record_id": "A36p",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/A36-prime-Integral-Zero-of-the-Hybrid-Society.md",
+      "sha256": "8b5657361edda21a0f6b5cc40618c8398d78fbebf5159171c78987f0ff676350"
+    },
+    {
+      "record_id": "A/C",
+      "register": "episteme",
+      "record_type": "canonical-argument",
+      "canonical_home": "submission-package/essay/symbolon/episteme/conjugate/AC.md",
+      "sha256": "3243978521525ca115da622223eb034e8ef73b858bd353e8fd4c4226e4c7aa1a"
+    },
+    {
+      "record_id": "mytheme-stained-glass-refraction",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "sha256": "f93496b2e626890f0fd9d84cf7a90156bc532a07d748d5da65841702a3cb509e"
+    },
+    {
+      "record_id": "mytheme-meal-epistemic-metabolism",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "sha256": "8af5938eca8cce3917effabe3a02444d7261a91f7fd8d7050f19d5f0a1d266f0"
+    },
+    {
+      "record_id": "mytheme-valentinian-sophia-horos-achamoth",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md",
+      "sha256": "fd39f4553cd2e9843013d06c8373bec63525768502c1c75d8a80b8a78c9e4526"
+    },
+    {
+      "record_id": "mytheme-pauli-egg-dream",
+      "register": "mytheme",
+      "record_type": "whole-mytheme",
+      "canonical_home": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md",
+      "sha256": "f53d0937155a586dbe0ba8c71826d10fe4d35d7df2dbf408870943c9dcd61e85"
+    },
+    {
+      "record_id": "aphorism-investigation-and-faith",
+      "register": "episteme",
+      "record_type": "aphorism",
+      "canonical_home": "submission-package/essay/symbolon/episteme/aphorisms/investigation-and-faith.md",
+      "sha256": "3fe65c872193db2d5cd72e646804a4d3b08a37b0aac05aa81c89edf5b57c2958"
+    }
+  ],
+  "protected_baseline_unchanged": 150,
+  "historical_census_status_not_rebound": "2026-09-07-canonical-structure-reconciled-target-binding-pending"
+}

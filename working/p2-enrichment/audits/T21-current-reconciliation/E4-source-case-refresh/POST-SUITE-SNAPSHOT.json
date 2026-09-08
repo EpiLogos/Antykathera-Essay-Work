@@ -1,0 +1,208 @@
+{
+  "status": "post-suite-E4-C9-snapshot; K29-semantic-pairs-pending",
+  "observed_utc": "2026-09-08T13:34:12.389982+00:00",
+  "snapshot_authorization": "Parent reports full106 tests finished and temporary canonical mutations restored.",
+  "suite_result": "Parent reports17 failures and1 error under separate triage; not a passing full-suite claim.",
+  "head": "59d95a6b3bd26522bc2565a390cd02f570c29601",
+  "reported_commits_resolved": {
+    "59d95a6": "59d95a6b3bd26522bc2565a390cd02f570c29601",
+    "ef3d487": "ef3d487773f73f312ef7560eaee394208b8088d8",
+    "6b96b5c": "6b96b5c95971f1b64078067f1ef7778e83c1a9ad"
+  },
+  "current_files": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "sha256": "b749243203623008668ffc3e4de86e440e240a9365f7636a21abb50409568ccc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "sha256": "aeb6948cbdd93d99c4054641bcdfcb4620a047ac0460805b3ac33becab5724e8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "sha256": "3dd86a0d84b54b7854844b5e31a18824038634167817bb4dac7610bf67dcf928"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+      "sha256": "f0bd77cbab0be92e69f707de73e9f1a65746d6ea8b27433ae1b78ff28119049a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "sha256": "eebc80e938dfd53198a0f0789893c5d8470595bfd502ca6626ae1e3dae685fbc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "sha256": "1424096d1a7b28245dcb193d4e6a12750e0d6b6dc5edff0cb4d6395fce13269d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+      "sha256": "e81ee6289b10db4e90c402d43c94ef512d3e9f561638469277962f4bdd0c9a26"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+      "sha256": "03ce9c4ef160a3a187148a9b206813fe83636a6539a6da5900234078652a859f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "e0291913d331cea970c433858352c71fd547cbc167f9d11db60ac5bac32865d6"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+      "sha256": "de8b17c57b65f8f4346a493ce607bb0891fa1630dd3a7b9055a9807207d0aa94"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+      "sha256": "8c21aa537c65536d2ad723c71913947587a7d6acf8cc7e2649c46d56fce2262f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+      "sha256": "5e62160b60bbddc9b9fe8555b662e99713b92ae74dd52b6eff0c73349592081c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/lane/lane-arabic-english-lexicon-online/SOURCE.md",
+      "sha256": "c6e149cf88b0386d01497d2148068400c88ea09e8117a80c16479c38d7a22ac5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md",
+      "sha256": "8c7454c9dc940ffa92ef4cebd0e5cbf41a1370bef4eabc8134c2d115c18cd01e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md",
+      "sha256": "734617236c3a4989baf9cb37317b6c5862b14b603a9f28899238b6d7c30eaeba"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+      "sha256": "c071cd6370520adf25850f6320990a6ca4a9790b0ae33f48f6bd7d3316d943ee"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/tla/tla-hieroglyphic-hieratic-lexicon/SOURCE.md",
+      "sha256": "182191175f2420784d78b3408f00dc2ba26b74743272826cf06842c534d3a90e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+      "sha256": "146d140cdc148c027b0b2049453c111b3749094557dc596a06582329601b1497"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+      "sha256": "ed6ae785a694b0b32a7fcdcaee66074869ff4816d0d29eb1c14de57b96534085"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/bank-of-england/bank-of-england-2019-payments-through-time/SOURCE.md",
+      "sha256": "500607e378940e450c697cb90528c929b4e0674b7031681403793762d2b908e4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/al-bukhari/bukhari-sahih-sunnah-online/SOURCE.md",
+      "sha256": "be0d20d91a9449ec472168d166f4ac8be87ad97f2488176b7f361f4a660fa200"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/quran/quran-arberry-corpus-selected/SOURCE.md",
+      "sha256": "b1eda9b5720346caa657c8631e7f46a050a0bc1036df91301313c12ffb6f3e10"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/reri/reri-ptolemaic-funerary-papyrus/SOURCE.md",
+      "sha256": "e68f3770d7e94ff369622c169ec936d4a1a5c838184daa2f12623b13f0b00ff1"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/E4-source-case-refresh/FINAL-RELEASE.json",
+      "sha256": "a68ad9a6877382de4827e8b90118a727920ced77f3e6fd320cae48eaf588a8c5"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/E4-source-case-refresh/proof-recheck.json",
+      "sha256": "6f640b8c4f926229dbbd1f4cc6c1d2ef948c4f1e4930d937b9b35c091ec81f5d"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/E4-source-case-refresh/proposed-row-updates.json",
+      "sha256": "29a2e043410c9fa35bf118bbce03f6b739a6d05c8293dab7c8c635dc58b263ed"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/E4-source-case-refresh/row-patches.json",
+      "sha256": "5cc224025443026ee70e9e7f13b584388b7d59bcbcee66d2bd777c8a4566f4e2"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-comparative-case-consumer-final-release-binding.json",
+      "sha256": "fa53b6eb3c25054dd16b8344e280d83e5ab9334ea6f22ceb326c43e34f1151d7"
+    }
+  ],
+  "C9_actual_paragraphs": [
+    {
+      "case": "Sanskrit",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "start_line": 99,
+      "end_line": 99,
+      "sha256": "b749243203623008668ffc3e4de86e440e240a9365f7636a21abb50409568ccc",
+      "released_semantic_paragraph_present": true
+    },
+    {
+      "case": "Sanskrit",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+      "start_line": 42,
+      "end_line": 42,
+      "sha256": "f0bd77cbab0be92e69f707de73e9f1a65746d6ea8b27433ae1b78ff28119049a",
+      "released_semantic_paragraph_present": true
+    },
+    {
+      "case": "Hebrew",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "start_line": 101,
+      "end_line": 101,
+      "sha256": "b749243203623008668ffc3e4de86e440e240a9365f7636a21abb50409568ccc",
+      "released_semantic_paragraph_present": true
+    },
+    {
+      "case": "Hebrew",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+      "start_line": 54,
+      "end_line": 54,
+      "sha256": "3dd86a0d84b54b7854844b5e31a18824038634167817bb4dac7610bf67dcf928",
+      "released_semantic_paragraph_present": true
+    },
+    {
+      "case": "Chinese",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "start_line": 95,
+      "end_line": 95,
+      "sha256": "b749243203623008668ffc3e4de86e440e240a9365f7636a21abb50409568ccc",
+      "released_semantic_paragraph_present": true
+    },
+    {
+      "case": "Chinese",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "start_line": 42,
+      "end_line": 42,
+      "sha256": "1424096d1a7b28245dcb193d4e6a12750e0d6b6dc5edff0cb4d6395fce13269d",
+      "released_semantic_paragraph_present": true
+    },
+    {
+      "case": "Arabic",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "start_line": 97,
+      "end_line": 97,
+      "sha256": "b749243203623008668ffc3e4de86e440e240a9365f7636a21abb50409568ccc",
+      "released_semantic_paragraph_present": true
+    },
+    {
+      "case": "Arabic",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "start_line": 50,
+      "end_line": 50,
+      "sha256": "aeb6948cbdd93d99c4054641bcdfcb4620a047ac0460805b3ac33becab5724e8",
+      "released_semantic_paragraph_present": true
+    },
+    {
+      "case": "Egyptian",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "start_line": 46,
+      "end_line": 46,
+      "sha256": "eebc80e938dfd53198a0f0789893c5d8470595bfd502ca6626ae1e3dae685fbc",
+      "released_semantic_paragraph_present": true
+    }
+  ],
+  "counts": {
+    "scoped_developed_rows": 271,
+    "unratified_earth": 1,
+    "rows": 272
+  },
+  "metadata_boundary": "Eleven accepted-status changes remain parent-owned; no status acceptance inferred.",
+  "K29": "Actual semantic pair audit must be incorporated before all-pair coverage claim.",
+  "mutation_scope": "This private snapshot only; no canonical/shared coverage/index writes."
+}

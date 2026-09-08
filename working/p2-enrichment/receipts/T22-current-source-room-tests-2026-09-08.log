@@ -1,0 +1,14 @@
+........F..........
+======================================================================
+FAIL: test_doctor_clears_canonical_source_and_room_integrity_debts (tests.test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_doctor_clears_canonical_source_and_room_integrity_debts)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_source_projections_and_retrieval.py", line 123, in test_doctor_clears_canonical_source_and_room_integrity_debts
+    self.assertTrue(forbidden.isdisjoint(doctor["debt_counts"]), doctor["debt_counts"])
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: False is not true : {'missing-passage-status': 3, 'missing-register': 70, 'missing-status': 1, 'stale-bkmr-adapter': 10, 'thin-concept': 65, 'unresolved-link': 39}
+
+----------------------------------------------------------------------
+Ran 19 tests in 23.676s
+
+FAILED (failures=1)

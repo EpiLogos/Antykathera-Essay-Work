@@ -1,0 +1,177 @@
+{
+  "standing": "Final reviewed coverage, preservation, scoped checks, global-test dispositions and reproducible projections. Earlier development witnesses are retained separately; no future-stage work is included.",
+  "files": [
+    {
+      "path": "submission-package/essay/section-rooms/00-integral-threshold/ROOM.md",
+      "sha256": "112fa454297797ed6752ba45a5dff95aabed842d725587d117c390119ceff620"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/01-differentiating-mind/ROOM.md",
+      "sha256": "3e5a104b742e88791bfe34f3d0ccc250755cdd16cc77788bedbbb4fca0b67a44"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/02-return-of-zero/ROOM.md",
+      "sha256": "afccd5332a4d2672104661b4fd956e11bfa1a30dcbd85ce92e3e66c0bb8bc645"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/03-two-logics/ROOM.md",
+      "sha256": "bdaf1862ce55c994a8b80f7cde783a73fb529c0fa4ac13a950d2629c1bd80e68"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/04-mathematical-substrate/ROOM.md",
+      "sha256": "d98baa4c1790dadea3dbf0b335e2f596ef8e00f9b283d54d38efbeca2b321a7e"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/05-psychoid-flowering/ROOM.md",
+      "sha256": "d74da90b1bfc91aa9677632b05700bd3e56045ef59029a220f0716c4bd585217"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/ROOM.md",
+      "sha256": "2b0528c7b2da563b3c3d09184a589bc533c250d54910bf366dc3617676715a41"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/07-instrument-returns/ROOM.md",
+      "sha256": "cbcd4f41810471590d22539904bb66700f0d8545a6060d1311faf23eb1329344"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/README.md",
+      "sha256": "dc144023c38590cd09bda8c6a61050ede9cfaf41fd8b8a69c029ee667221d5d2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/MAIN-SOURCES.md",
+      "sha256": "b9add80617d483e24b585349a485b65826f91ad35b6b0114ad07b2569c500fe2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/PASSAGE-LEDGER.md",
+      "sha256": "edd4b65b3b29f428975482321712f3977be2039cbe1de6c0fd5d222b371dba6e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/SOURCE-INDEX.md",
+      "sha256": "c6d1f87b6e38bacf7073092d78172cb7b5cfa2fb5880755b9d4ec77b485db2bf"
+    },
+    {
+      "path": "working/p2-enrichment/T20-T21-LIVE-EXECUTION-STATE.json",
+      "sha256": "430459c669e75a425e06668a0308e7d7594fe10123c795e5cbe4969aa0a705f9"
+    },
+    {
+      "path": "working/p2-enrichment/T21-e-field-consumer-coverage.json",
+      "sha256": "374251767fe29805c040972d21b5cbc77fc9c4d7b310ffa852f17cc79ead9c85"
+    },
+    {
+      "path": "working/p2-enrichment/T21-e-field-consumer-coverage.md",
+      "sha256": "367eea6e5c984a6f949c484d689dada85fca03c897ff4454b9bb4872b60a4cc8"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/E4-source-case-refresh/FINAL-272-RELEASE.json",
+      "sha256": "aa10cbb0a39d76836e347b83696f6f13a16894704b2ace15697fc9a4b8756364"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/E4-source-case-refresh/POST-SUITE-SNAPSHOT.json",
+      "sha256": "30824a315ac4a46bac1901e264ec2030b0fa220594dc20f34636170db9a614ea"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/E4-source-case-refresh/STATUS-ONLY-BINDING.json",
+      "sha256": "713a8607e38e46c7e5df760c16e27e3909a98f750414100807dfab411023dbee"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/E4-source-case-refresh/proposed-row-updates.json",
+      "sha256": "d3cb04b643b22fbc969bb428ef709b87fbf7cd632d02d87e1081f902c2177542"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/E4-source-case-refresh/row-patches.json",
+      "sha256": "6befd66ecff2c0ec340ac40298411e64187ee56e64f06b4ed785328792f7d9f3"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T22-K-E-consumer-pairs-2026-09-08/ALL272-DENOMINATOR.md",
+      "sha256": "3afff8ac1d12fca16968c1c1ae3515a935d1c5df3c6577ace6cc9759b7f55b39"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T22-K-E-consumer-pairs-2026-09-08/RECEIPT.md",
+      "sha256": "a231f89e764a913a4fa2ce59802ca6b3bf267bfd21cc94a843bf29cbd127755f"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T22-K-E-consumer-pairs-2026-09-08/all272-denominator-supplement.json",
+      "sha256": "0863e369a59e1c4ca834019f65f7b10014d977af17b3d1d030f988cd25db47bb"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T22-K-E-consumer-pairs-2026-09-08/proof.json",
+      "sha256": "aa7bdcd839e0ecf24d6725f7dc9eee492eab9205bc19c53948793dcd7d09599c"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T22-K-E-consumer-pairs-2026-09-08/snapshot.json",
+      "sha256": "e16bba0b610d0143f9a02ac821d0c6e17c57d65c34811f287b950ca8afd7ca6f"
+    },
+    {
+      "path": "working/p2-enrichment/finalize_current_coverage.py",
+      "sha256": "bb1d1787ae4d2685bbadae62f44bb9909ad89a31806d858dcac675757d33de7f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-T21-COMPLETION-2026-09-08.md",
+      "sha256": "04fa18893749cde996ad5b048a6bf1a99e7889b6365169bb82e27c3babb681db"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-T21-current-census-acceptance.json",
+      "sha256": "cdcc5358149be4a877c35044096229f9a7164c6d4dc8babe1444178fd90ce599"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-T21-preserved-work-manifest.json",
+      "sha256": "bab23d7620d811d61fbc948f01996eddd91653431f1623ba7b2281919f4f1c71"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T20-acceptance-2026-09-08.md",
+      "sha256": "2fc50e5b55c76461beada92589792bb6bbe58bb0a399a746ae6fa02ba6743dac"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-all-row-pair-denominator-join.json",
+      "sha256": "51068fdba56687e83822f2a82003afc97e8e748f3670432aa84677c588de658b"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-current-source-room-tests-2026-09-08.log",
+      "sha256": "00c68d91520e85f5e93b0e146727bdc250c5c2d7545902954b1ecf5d32fdbfa9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-final-full-workspace-tests-2026-09-08.log",
+      "sha256": "36b244851978440c26ab5703fc1aeaab86e09b2acc1de885d1bb03184e307968"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-final-parent-metadata-effects-intake.json",
+      "sha256": "21dd5ba6a3802ee5549eaf71b3a0618fb5bee9be21298a64d3d502e5750eabe9"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-final-validation-2026-09-08.json",
+      "sha256": "50bd38b6e7a2255bc329b8027b76561a252ef3b574333f0d7e04e5b8c22167c7"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-full-suite-final-disposition-2026-09-08.md",
+      "sha256": "659955e9e109c747e714f5ad9454ca0daeff1c267979977db6697ac10464272a"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-full-workspace-tests-2026-09-08.log",
+      "sha256": "91b24fd8d17de18310be7574d8e03723a4b46315efc7c9b0b1420169e2fc94ae"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-parent-final-canonical-commit-paths.txt",
+      "sha256": "d02815f859fdbf301346845029a8055dc57ae5b20a9c565011e576318b8b475e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-parent-historical-protection-current.json",
+      "sha256": "14ad12b161637719960c9ce5904415b829a782b44305c7f22c7306b7812b642c"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-source-race-recheck.log",
+      "sha256": "c2ec0ecfe0e00cc966bcfdeb95a9e029a0b5930d0cb8a67b30bcc86f3da03522"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T20-T21-live-state-before-final-acceptance.json",
+      "sha256": "582d7219f97c5d267ea38cdb368cd7f077aeebf1c459bfa33043bac1a9e86c8a"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T21-coverage-before-final-acceptance.json",
+      "sha256": "51bf91fb3759808639611f0a1a76dcb71b7db39c215fa5eac4805e948a8ce300"
+    },
+    {
+      "path": "working/p2-enrichment/snapshots/T21-coverage-before-final-acceptance.md",
+      "sha256": "69e2c6b884f77a6436d17a1720252be0028bbc22eb716099e03d5e6daf02cb7f"
+    }
+  ]
+}

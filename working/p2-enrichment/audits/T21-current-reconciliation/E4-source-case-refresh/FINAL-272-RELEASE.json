@@ -1,0 +1,219 @@
+{
+  "status": "FINAL-RELEASED-FOR-PARENT-MERGE",
+  "observed_utc": "2026-09-08T13:38:22.152952+00:00",
+  "row_count": 272,
+  "scoped_developed": 271,
+  "unratified_earth": 1,
+  "K29": {
+    "status": "released-accepted",
+    "proof_path": "working/p2-enrichment/audits/T22-K-E-consumer-pairs-2026-09-08/proof.json",
+    "proof_sha256": "aa7bdcd839e0ecf24d6725f7dc9eee492eab9205bc19c53948793dcd7d09599c",
+    "receipt_path": "working/p2-enrichment/audits/T22-K-E-consumer-pairs-2026-09-08/RECEIPT.md",
+    "operations": 29,
+    "operation_consumer_instances": 244,
+    "unique_field_consumer_pairs": 197,
+    "accepted_instances": 244,
+    "direct_bilateral_unique_pairs": 178,
+    "mediated_unique_pairs": 19,
+    "missing_earned_directions": 0,
+    "semantic_operation_gaps": 0,
+    "standing": "Exactly declared consumers of29 whole-operation rows; not all possible graph relations or historical/empirical closure."
+  },
+  "row_ID_joins": [
+    {
+      "row_id": "E1-encounter",
+      "instances": 10,
+      "accepted": 10,
+      "proof_pointer": "/operations/0"
+    },
+    {
+      "row_id": "E1-name",
+      "instances": 13,
+      "accepted": 13,
+      "proof_pointer": "/operations/1"
+    },
+    {
+      "row_id": "E1-face",
+      "instances": 8,
+      "accepted": 8,
+      "proof_pointer": "/operations/2"
+    },
+    {
+      "row_id": "E1-account",
+      "instances": 9,
+      "accepted": 9,
+      "proof_pointer": "/operations/3"
+    },
+    {
+      "row_id": "E2-origin",
+      "instances": 3,
+      "accepted": 3,
+      "proof_pointer": "/operations/4"
+    },
+    {
+      "row_id": "E2-measure",
+      "instances": 7,
+      "accepted": 7,
+      "proof_pointer": "/operations/5"
+    },
+    {
+      "row_id": "E2-frame",
+      "instances": 5,
+      "accepted": 5,
+      "proof_pointer": "/operations/6"
+    },
+    {
+      "row_id": "E2-decision",
+      "instances": 10,
+      "accepted": 10,
+      "proof_pointer": "/operations/7"
+    },
+    {
+      "row_id": "E2-regard",
+      "instances": 14,
+      "accepted": 14,
+      "proof_pointer": "/operations/8"
+    },
+    {
+      "row_id": "E2-return",
+      "instances": 14,
+      "accepted": 14,
+      "proof_pointer": "/operations/9"
+    },
+    {
+      "row_id": "E3-fides",
+      "instances": 7,
+      "accepted": 7,
+      "proof_pointer": "/operations/10"
+    },
+    {
+      "row_id": "E3-topos",
+      "instances": 10,
+      "accepted": 10,
+      "proof_pointer": "/operations/11"
+    },
+    {
+      "row_id": "E3-logos",
+      "instances": 5,
+      "accepted": 5,
+      "proof_pointer": "/operations/12"
+    },
+    {
+      "row_id": "E3-nomos",
+      "instances": 7,
+      "accepted": 7,
+      "proof_pointer": "/operations/13"
+    },
+    {
+      "row_id": "E3-natio",
+      "instances": 4,
+      "accepted": 4,
+      "proof_pointer": "/operations/14"
+    },
+    {
+      "row_id": "E3-credere",
+      "instances": 6,
+      "accepted": 6,
+      "proof_pointer": "/operations/15"
+    },
+    {
+      "row_id": "E3-epilogos",
+      "instances": 6,
+      "accepted": 6,
+      "proof_pointer": "/operations/16"
+    },
+    {
+      "row_id": "E4-symbol",
+      "instances": 20,
+      "accepted": 20,
+      "proof_pointer": "/operations/17"
+    },
+    {
+      "row_id": "E4-account",
+      "instances": 11,
+      "accepted": 11,
+      "proof_pointer": "/operations/18"
+    },
+    {
+      "row_id": "E4-trust",
+      "instances": 7,
+      "accepted": 7,
+      "proof_pointer": "/operations/19"
+    },
+    {
+      "row_id": "E4-reentry",
+      "instances": 6,
+      "accepted": 6,
+      "proof_pointer": "/operations/20"
+    },
+    {
+      "row_id": "E5-homology",
+      "instances": 12,
+      "accepted": 12,
+      "proof_pointer": "/operations/21"
+    },
+    {
+      "row_id": "E5-analogy",
+      "instances": 12,
+      "accepted": 12,
+      "proof_pointer": "/operations/22"
+    },
+    {
+      "row_id": "E5-boundary",
+      "instances": 8,
+      "accepted": 8,
+      "proof_pointer": "/operations/23"
+    },
+    {
+      "row_id": "E6-power",
+      "instances": 5,
+      "accepted": 5,
+      "proof_pointer": "/operations/24"
+    },
+    {
+      "row_id": "E6-measure",
+      "instances": 4,
+      "accepted": 4,
+      "proof_pointer": "/operations/25"
+    },
+    {
+      "row_id": "E6-labour",
+      "instances": 8,
+      "accepted": 8,
+      "proof_pointer": "/operations/26"
+    },
+    {
+      "row_id": "E6-commons",
+      "instances": 6,
+      "accepted": 6,
+      "proof_pointer": "/operations/27"
+    },
+    {
+      "row_id": "E6-planetary",
+      "instances": 7,
+      "accepted": 7,
+      "proof_pointer": "/operations/28"
+    }
+  ],
+  "C9": "Final9/9 case pairs across6consumers, T22=0; separate from244 denominator.",
+  "checks": {
+    "row_ids_unique": true,
+    "joined_rows": 29,
+    "consumer_instances_joined": 244,
+    "non_K29_rows_unchanged_from_E4_final": true,
+    "baseline_shared_file_unmodified_sha256": "dd8b356d0ec149f5f9e50de2cad70718841063a10f44d628a52ae9c85f013cf2",
+    "pending_whole_pair_status_removed": true,
+    "no_canonical_or_index_mutations": true
+  },
+  "artifacts": [
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/E4-source-case-refresh/proposed-row-updates.json",
+      "sha256": "d3cb04b643b22fbc969bb428ef709b87fbf7cd632d02d87e1081f902c2177542"
+    },
+    {
+      "path": "working/p2-enrichment/audits/T21-current-reconciliation/E4-source-case-refresh/row-patches.json",
+      "sha256": "6befd66ecff2c0ec340ac40298411e64187ee56e64f06b4ed785328792f7d9f3"
+    }
+  ],
+  "remaining_scope": "Named source acquisition, editions/quotations, chronology, implementation and empirical tasks remain Open as previously scoped; unratified earth unchanged."
+}

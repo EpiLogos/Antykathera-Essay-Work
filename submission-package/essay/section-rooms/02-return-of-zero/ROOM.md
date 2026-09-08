@@ -3,7 +3,7 @@ title: "§1 Room — The Return of Zero — History, Empty Set, and Symbolic Lin
 page_type: section-room-waypoint
 station: "§1"
 room: "02-return-of-zero"
-generated_by: "build-section-rooms.py v2.0.0"
+generated_by: "build-section-rooms.py v2.0.1"
 ownership: generated
 ---
 
@@ -45,7 +45,7 @@ Differentiation structurally retains a zero, and mathematics supplies exact form
 
 **Why this move:** The first two operations are stable within ordinary arithmetic.
 
-**Carry-forward:** Operational zero prepares the deeper formal discovery: emptiness can generate the first one and the whole sequence that follows.
+**Carry-forward:** Operative śūnya **returns-to** Name-through-Count at the distinction between an unfilled place and a sign permitted to act in calculation.
 
 **Open:** [movement](movements/14-s1-p1-sunya-operational.md) · sources: [colebrooke-1817-brahmagupta-bhaskara-q001](../../symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q001), [colebrooke-1817-brahmagupta-bhaskara-q002](../../symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q002), [colebrooke-1817-brahmagupta-bhaskara-q003](../../symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q003), [kaplan-1999-nothing-that-is](../../symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md), [dutta-2023-zero-divided-numbers-india](../../symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md)
 

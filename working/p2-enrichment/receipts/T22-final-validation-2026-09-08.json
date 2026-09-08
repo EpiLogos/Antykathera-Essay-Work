@@ -1,0 +1,683 @@
+{
+  "standing": "scoped real-workspace tests; generated freshness must be checked after final consumer writes",
+  "tests": [
+    {
+      "command": "python3 -m unittest tests.test_source_house_migration tests.test_main_source_relations tests.test_source_projections_and_retrieval tests.test_build_section_rooms",
+      "tests": 19,
+      "failures": 0
+    },
+    {
+      "command": "python3 -m unittest tests.test_p2_build_workflow",
+      "tests": 12,
+      "failures": 0
+    },
+    {
+      "command": "python3 -m unittest tests.test_audit_room_depth",
+      "tests": 4,
+      "failures": 0,
+      "standing": "After P1 alignment inventory repair; independently reported by scoped tool owner."
+    }
+  ],
+  "repairs": [
+    "Source projection metadata now preserves link labels while canonical passage column supplies its own correct relative route; canonical SOURCE links retained.",
+    "Room excerpt relative-link repair and current authored P1 inventory expectation.",
+    "Three READING path-only repairs; all reading prose preserved by exact inverse proof."
+  ],
+  "boundary": "No T23/T24 or manuscript composition.",
+  "full_workspace_run": {
+    "command": "python3 -m unittest discover -s tests -v",
+    "tests": 106,
+    "failures": 17,
+    "errors": 1,
+    "log": "working/p2-enrichment/receipts/T22-full-workspace-tests-2026-09-08.log",
+    "standing": "Initial broad run; scoped introduced failures under repair, legacy architecture assertions separately dispositioned. Not a passing run."
+  },
+  "whitespace_exceptions": [
+    "The ratified four-line aphorism preserves its three exact Markdown hard breaks. Source quotations and saved raw acquisitions preserve original whitespace."
+  ],
+  "current_source_recheck": {
+    "tests": 19,
+    "failures": 1,
+    "log": "working/p2-enrichment/receipts/T22-current-source-room-tests-2026-09-08.log",
+    "finding": "Newly explicit three CSM passage anchors expose missing standalone status; source owner repairing without promoting authorial provenance to external evidence.",
+    "resolved_by": "66defdd and final full-run passing SOURCE, BKMR, projection, retrieval and room tests"
+  },
+  "final_workspace_run": {
+    "command": "python3 -m unittest discover -s tests -v",
+    "tests": 106,
+    "passed": 95,
+    "failures": 10,
+    "errors": 1,
+    "log": "working/p2-enrichment/receipts/T22-final-full-workspace-tests-2026-09-08.log",
+    "results": [
+      {
+        "test": "test_audit_room_depth.CompactRoomAuditTests.test_real_kaplan_room_passes.test_real_kaplan_room_passes",
+        "result": "ok"
+      },
+      {
+        "test": "test_audit_room_depth.CompactRoomAuditTests.test_real_threshold_room_passes_substantive_learning_audit.test_real_threshold_room_passes_substantive_learning_audit",
+        "result": "ok"
+      },
+      {
+        "test": "test_audit_room_depth.CompactRoomAuditTests.test_tampered_room_fails_real_freshness_gate.test_tampered_room_fails_real_freshness_gate",
+        "result": "ok"
+      },
+      {
+        "test": "test_audit_room_depth.CompactRoomAuditTests.test_threshold_route_fails_when_a_real_learning_movement_is_removed.test_threshold_route_fails_when_a_real_learning_movement_is_removed",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_argument_adapters_include_the_authored_argument_body.test_argument_adapters_include_the_authored_argument_body",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_concepts_are_a_first_class_full_body_collection.test_concepts_are_a_first_class_full_body_collection",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_doctor_reports_adapter_and_database_freshness_separately.test_doctor_reports_adapter_and_database_freshness_separately",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_kaplan_learning_material_is_retrievable_from_its_canonical_source_house.test_kaplan_learning_material_is_retrievable_from_its_canonical_source_house",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_literal_hyphenated_search_terms_do_not_leak_fts_column_syntax.test_literal_hyphenated_search_terms_do_not_leak_fts_column_syntax",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_manifest_hash_matches_each_canonical_full_body_input.test_manifest_hash_matches_each_canonical_full_body_input",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_passage_adapters_point_to_canonical_source_house_anchors_without_transcription.test_passage_adapters_point_to_canonical_source_house_anchors_without_transcription",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_real_sync_imports_every_generated_adapter.test_real_sync_imports_every_generated_adapter",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_section_adapters_include_claim_warrant_tension_and_transition.test_section_adapters_include_claim_warrant_tension_and_transition",
+        "result": "ok"
+      },
+      {
+        "test": "test_build_section_rooms.SectionRoomV2Tests.test_active_rooms_are_compact_and_complete.test_active_rooms_are_compact_and_complete",
+        "result": "ok"
+      },
+      {
+        "test": "test_build_section_rooms.SectionRoomV2Tests.test_builder_never_changes_manuscript_or_reading_routes.test_builder_never_changes_manuscript_or_reading_routes",
+        "result": "ok"
+      },
+      {
+        "test": "test_build_section_rooms.SectionRoomV2Tests.test_canonical_change_makes_a_real_room_stale.test_canonical_change_makes_a_real_room_stale",
+        "result": "ok"
+      },
+      {
+        "test": "test_build_section_rooms.SectionRoomV2Tests.test_master_manuscript_is_the_only_active_writing_surface.test_master_manuscript_is_the_only_active_writing_surface",
+        "result": "ok"
+      },
+      {
+        "test": "test_build_section_rooms.SectionRoomV2Tests.test_real_room_links_and_fragments_resolve.test_real_room_links_and_fragments_resolve",
+        "result": "ok"
+      },
+      {
+        "test": "test_build_section_rooms.SectionRoomV2Tests.test_real_workspace_is_fresh.test_real_workspace_is_fresh",
+        "result": "ok"
+      },
+      {
+        "test": "test_claude_compatibility.ClaudeCompatibilityTests.test_claude_settings_register_shared_hook_with_claude_tool_names.test_claude_settings_register_shared_hook_with_claude_tool_names",
+        "result": "ok"
+      },
+      {
+        "test": "test_claude_compatibility.ClaudeCompatibilityTests.test_marketplace_is_rooted_at_submission_package.test_marketplace_is_rooted_at_submission_package",
+        "result": "ok"
+      },
+      {
+        "test": "test_claude_compatibility.ClaudeCompatibilityTests.test_mef_refract_is_claude_native.test_mef_refract_is_claude_native",
+        "result": "ok"
+      },
+      {
+        "test": "test_claude_compatibility.ClaudeCompatibilityTests.test_plugin_contains_claude_discoverable_skills.test_plugin_contains_claude_discoverable_skills",
+        "result": "ok"
+      },
+      {
+        "test": "test_claude_compatibility.ClaudeCompatibilityTests.test_project_skills_are_exposed_to_claude_without_duplicate_bodies.test_project_skills_are_exposed_to_claude_without_duplicate_bodies",
+        "result": "ok"
+      },
+      {
+        "test": "test_claude_compatibility.ClaudeCompatibilityTests.test_readme_documents_both_local_install_paths.test_readme_documents_both_local_install_paths",
+        "result": "ok"
+      },
+      {
+        "test": "test_learning_surfaces.LearningSurfaceContractTests.test_current_raw_marginalia_are_substantive_linked_and_build_immutable.test_current_raw_marginalia_are_substantive_linked_and_build_immutable",
+        "result": "ok"
+      },
+      {
+        "test": "test_learning_surfaces.LearningSurfaceContractTests.test_human_and_agent_journey_reaches_granular_kaplan_material.test_human_and_agent_journey_reaches_granular_kaplan_material",
+        "result": "ok"
+      },
+      {
+        "test": "test_learning_surfaces.LearningSurfaceContractTests.test_kaplan_source_house_is_the_complete_learning_object.test_kaplan_source_house_is_the_complete_learning_object",
+        "result": "ok"
+      },
+      {
+        "test": "test_learning_surfaces.LearningSurfaceContractTests.test_primary_passages_are_housed_with_real_stable_anchors.test_primary_passages_are_housed_with_real_stable_anchors",
+        "result": "ok"
+      },
+      {
+        "test": "test_learning_surfaces.LearningSurfaceContractTests.test_threshold_route_teaches_all_six_movements_and_supports_pair_writing.test_threshold_route_teaches_all_six_movements_and_supports_pair_writing",
+        "result": "ok"
+      },
+      {
+        "test": "test_learning_surfaces.LearningSurfaceContractTests.test_two_admitted_reading_routes_are_human_routes_with_resolvable_sources.test_two_admitted_reading_routes_are_human_routes_with_resolvable_sources",
+        "result": "ok"
+      },
+      {
+        "test": "test_main_source_relations.MainSourceRelationTests.test_curation_is_current_and_covers_every_section.test_curation_is_current_and_covers_every_section",
+        "result": "ok"
+      },
+      {
+        "test": "test_okf_workspace.OkfWorkspaceTests.test_canonical_argument_and_concept_repairs_clear_known_quality_debts.test_canonical_argument_and_concept_repairs_clear_known_quality_debts",
+        "result": "ok"
+      },
+      {
+        "test": "test_okf_workspace.OkfWorkspaceTests.test_canonical_graph_has_no_missing_quality_surfaces_or_governing_dangles.test_canonical_graph_has_no_missing_quality_surfaces_or_governing_dangles",
+        "result": "FAIL"
+      },
+      {
+        "test": "test_okf_workspace.OkfWorkspaceTests.test_context_assembles_a_traceable_section_working_set.test_context_assembles_a_traceable_section_working_set",
+        "result": "ok"
+      },
+      {
+        "test": "test_okf_workspace.OkfWorkspaceTests.test_context_retains_authority_hubs_without_crawling_through_the_entire_vault.test_context_retains_authority_hubs_without_crawling_through_the_entire_vault",
+        "result": "ok"
+      },
+      {
+        "test": "test_okf_workspace.OkfWorkspaceTests.test_doctor_names_real_context_and_graph_debts.test_doctor_names_real_context_and_graph_debts",
+        "result": "FAIL"
+      },
+      {
+        "test": "test_okf_workspace.OkfWorkspaceTests.test_effects_maps_a_source_into_its_consuming_argument_and_transverse_thread.test_effects_maps_a_source_into_its_consuming_argument_and_transverse_thread",
+        "result": "ok"
+      },
+      {
+        "test": "test_okf_workspace.OkfWorkspaceTests.test_find_searches_substantive_bodies_not_only_metadata.test_find_searches_substantive_bodies_not_only_metadata",
+        "result": "ok"
+      },
+      {
+        "test": "test_okf_workspace.OkfWorkspaceTests.test_links_and_backlinks_resolve_across_node_types.test_links_and_backlinks_resolve_across_node_types",
+        "result": "ok"
+      },
+      {
+        "test": "test_okf_workspace.OkfWorkspaceTests.test_neighbourhood_crosses_section_concept_argument_and_source_relations.test_neighbourhood_crosses_section_concept_argument_and_source_relations",
+        "result": "ok"
+      },
+      {
+        "test": "test_okf_workspace.OkfWorkspaceTests.test_optional_source_notes_are_readable_without_becoming_verification_debt.test_optional_source_notes_are_readable_without_becoming_verification_debt",
+        "result": "ok"
+      },
+      {
+        "test": "test_okf_workspace.OkfWorkspaceTests.test_path_follows_the_live_argument_graph.test_path_follows_the_live_argument_graph",
+        "result": "ok"
+      },
+      {
+        "test": "test_okf_workspace.OkfWorkspaceTests.test_source_houses_and_reading_routes_are_traceable_in_bounded_context.test_source_houses_and_reading_routes_are_traceable_in_bounded_context",
+        "result": "ok"
+      },
+      {
+        "test": "test_okf_workspace.OkfWorkspaceTests.test_status_discovers_the_real_typed_workspace.test_status_discovers_the_real_typed_workspace",
+        "result": "FAIL"
+      },
+      {
+        "test": "test_okf_workspace.OkfWorkspaceTests.test_trace_recovers_claim_status_dependencies_and_source_records.test_trace_recovers_claim_status_dependencies_and_source_records",
+        "result": "ok"
+      },
+      {
+        "test": "test_ontology_registers.DialogueRecordBoundaryTests.test_dialogue_records_carry_no_citation_or_quote_status.test_dialogue_records_carry_no_citation_or_quote_status",
+        "result": "ok"
+      },
+      {
+        "test": "test_ontology_registers.RegisterCensusTests.test_register_census_is_a_real_unratified_debt.test_register_census_is_a_real_unratified_debt",
+        "result": "ERROR"
+      },
+      {
+        "test": "test_ontology_registers.RegisterFlowTests.test_concept_and_path_domain_rule_is_enforced_and_compositions_allowed.test_concept_and_path_domain_rule_is_enforced_and_compositions_allowed",
+        "result": "ok"
+      },
+      {
+        "test": "test_ontology_registers.RegisterFlowTests.test_register_flows_through_status_find_context_and_effects.test_register_flows_through_status_find_context_and_effects",
+        "result": "ok"
+      },
+      {
+        "test": "test_ontology_registers.RegisterFlowTests.test_writing_context_packet_carries_register.test_writing_context_packet_carries_register",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2ManifestBindingTests.test_depth_review_cannot_survive_changed_quilt_or_depth_receipt.test_depth_review_cannot_survive_changed_quilt_or_depth_receipt",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2ManifestBindingTests.test_domain_readme_change_invalidates_packet.test_domain_readme_change_invalidates_packet",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2ManifestBindingTests.test_packet_binds_real_corpus_and_verifies_from_another_cwd.test_packet_binds_real_corpus_and_verifies_from_another_cwd",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2ManifestBindingTests.test_stale_census_and_acceptance_bindings_block_output.test_stale_census_and_acceptance_bindings_block_output",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2ManifestBindingTests.test_unadmitted_or_duplicate_identity_is_rejected.test_unadmitted_or_duplicate_identity_is_rejected",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2ManifestBindingTests.test_verifier_rejects_altered_packet_and_queue.test_verifier_rejects_altered_packet_and_queue",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2WorkflowTests.test_actual_unresolvable_identity_is_a_command_failure.test_actual_unresolvable_identity_is_a_command_failure",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2WorkflowTests.test_discovery_candidates_cannot_enter_hygiene_as_canonical_targets.test_discovery_candidates_cannot_enter_hygiene_as_canonical_targets",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2WorkflowTests.test_every_live_quilt_is_discovered_and_anchors_recover_actual_text.test_every_live_quilt_is_discovered_and_anchors_recover_actual_text",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2WorkflowTests.test_hygiene_rejects_duplicate_admissions_at_real_canonical_homes.test_hygiene_rejects_duplicate_admissions_at_real_canonical_homes",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2WorkflowTests.test_real_canonical_home_runs_links_and_effects_from_another_cwd.test_real_canonical_home_runs_links_and_effects_from_another_cwd",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2WorkflowTests.test_target_slice_recovers_real_lines_and_rejects_whole_quilt.test_target_slice_recovers_real_lines_and_rejects_whole_quilt",
+        "result": "ok"
+      },
+      {
+        "test": "test_project_agent_harness.ActiveIdeasTests.test_create_recover_amend_and_retire_an_explicit_idea.test_create_recover_amend_and_retire_an_explicit_idea",
+        "result": "ok"
+      },
+      {
+        "test": "test_project_agent_harness.CanonicalJourneyTests.test_exact_passage_retrieval_keeps_wording_locator_and_provenance_together.test_exact_passage_retrieval_keeps_wording_locator_and_provenance_together",
+        "result": "ok"
+      },
+      {
+        "test": "test_project_agent_harness.CanonicalJourneyTests.test_writing_context_preserves_the_canonical_claim_without_generic_counterpressure.test_writing_context_preserves_the_canonical_claim_without_generic_counterpressure",
+        "result": "ok"
+      },
+      {
+        "test": "test_project_agent_harness.HookBehaviourTests.test_hook_on_off_evaluation_records_actual_improvements.test_hook_on_off_evaluation_records_actual_improvements",
+        "result": "ok"
+      },
+      {
+        "test": "test_project_agent_harness.HookBehaviourTests.test_pre_and_post_tool_hooks_restore_user_authored_notes.test_pre_and_post_tool_hooks_restore_user_authored_notes",
+        "result": "ok"
+      },
+      {
+        "test": "test_project_agent_harness.HookBehaviourTests.test_session_start_injects_orientation_skills_and_only_active_ideas.test_session_start_injects_orientation_skills_and_only_active_ideas",
+        "result": "ok"
+      },
+      {
+        "test": "test_project_agent_harness.HookBehaviourTests.test_unrelated_agent_write_does_not_revert_a_concurrent_user_note_edit.test_unrelated_agent_write_does_not_revert_a_concurrent_user_note_edit",
+        "result": "ok"
+      },
+      {
+        "test": "test_project_agent_harness.ProjectSkillDiscoveryTests.test_codex_discovery_surface_contains_only_the_four_focused_project_skills.test_codex_discovery_surface_contains_only_the_four_focused_project_skills",
+        "result": "FAIL"
+      },
+      {
+        "test": "test_publication_architecture.PublicationArchitectureTests.test_each_register_has_the_complete_functional_domain_shape.test_each_register_has_the_complete_functional_domain_shape",
+        "result": "FAIL"
+      },
+      {
+        "test": "test_publication_architecture.PublicationArchitectureTests.test_every_symbolon_wikilink_resolves_inside_the_vault.test_every_symbolon_wikilink_resolves_inside_the_vault",
+        "result": "FAIL"
+      },
+      {
+        "test": "test_publication_architecture.PublicationArchitectureTests.test_manifest_points_to_real_repository_surfaces.test_manifest_points_to_real_repository_surfaces",
+        "result": "ok"
+      },
+      {
+        "test": "test_publication_architecture.PublicationArchitectureTests.test_obsidian_updates_wikilinks_when_records_move.test_obsidian_updates_wikilinks_when_records_move",
+        "result": "ok"
+      },
+      {
+        "test": "test_publication_architecture.PublicationArchitectureTests.test_old_vault_spec_is_explicitly_provenance.test_old_vault_spec_is_explicitly_provenance",
+        "result": "ok"
+      },
+      {
+        "test": "test_publication_architecture.PublicationArchitectureTests.test_symbolon_has_direct_root_and_exact_internal_registers.test_symbolon_has_direct_root_and_exact_internal_registers",
+        "result": "FAIL"
+      },
+      {
+        "test": "test_publication_architecture.PublicationArchitectureTests.test_symbolon_root_describes_actual_core_records_and_page_anatomy.test_symbolon_root_describes_actual_core_records_and_page_anatomy",
+        "result": "ok"
+      },
+      {
+        "test": "test_publication_architecture.PublicationArchitectureTests.test_writing_protocol_governs_without_becoming_symbolon_content.test_writing_protocol_governs_without_becoming_symbolon_content",
+        "result": "ok"
+      },
+      {
+        "test": "test_skill_contracts.DevelopmentSkillContractTests.test_codex_discovers_four_focused_project_skills.test_codex_discovers_four_focused_project_skills",
+        "result": "FAIL"
+      },
+      {
+        "test": "test_skill_contracts.DevelopmentSkillContractTests.test_no_skill_claims_named_model_routing_or_runtime_tiers.test_no_skill_claims_named_model_routing_or_runtime_tiers",
+        "result": "ok"
+      },
+      {
+        "test": "test_skill_contracts.DevelopmentSkillContractTests.test_orientation_preserves_graph_and_native_language_gates.test_orientation_preserves_graph_and_native_language_gates",
+        "result": "ok"
+      },
+      {
+        "test": "test_skill_contracts.DevelopmentSkillContractTests.test_review_skill_checks_effects_and_generated_freshness.test_review_skill_checks_effects_and_generated_freshness",
+        "result": "ok"
+      },
+      {
+        "test": "test_skill_contracts.DevelopmentSkillContractTests.test_source_skill_uses_one_house_and_protects_author_notes.test_source_skill_uses_one_house_and_protects_author_notes",
+        "result": "ok"
+      },
+      {
+        "test": "test_skill_contracts.DevelopmentSkillContractTests.test_writing_skill_targets_master_manuscript_without_compulsory_file_work.test_writing_skill_targets_master_manuscript_without_compulsory_file_work",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_house_migration.CanonicalSourceTests.test_all_projected_passages_resolve_once.test_all_projected_passages_resolve_once",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_house_migration.CanonicalSourceTests.test_every_source_has_one_clean_canonical_file.test_every_source_has_one_clean_canonical_file",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_house_migration.CanonicalSourceTests.test_kaplan_contains_bibliography_passage_and_full_reading_material.test_kaplan_contains_bibliography_passage_and_full_reading_material",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_house_migration.CanonicalSourceTests.test_optional_notes_do_not_change_or_invalidate_source_projections.test_optional_notes_do_not_change_or_invalidate_source_projections",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_house_migration.CanonicalSourceTests.test_previously_missing_van_eenwyk_source_is_present.test_previously_missing_van_eenwyk_source_is_present",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_house_migration.CanonicalSourceTests.test_source_projections_are_reproducible.test_source_projections_are_reproducible",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_house_migration.CanonicalSourceTests.test_split_source_system_is_absent.test_split_source_system_is_absent",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_doctor_clears_canonical_source_and_room_integrity_debts.test_doctor_clears_canonical_source_and_room_integrity_debts",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_every_passage_projection_fragment_resolves_to_the_canonical_house.test_every_passage_projection_fragment_resolves_to_the_canonical_house",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_human_and_agent_route_from_section_to_movement_passage_and_reading.test_human_and_agent_route_from_section_to_movement_passage_and_reading",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_main_sources_are_generated_by_section_and_link_only_canonical_houses.test_main_sources_are_generated_by_section_and_link_only_canonical_houses",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_projection_check_marks_all_human_views_stale_after_a_real_source_change.test_projection_check_marks_all_human_views_stale_after_a_real_source_change",
+        "result": "ok"
+      },
+      {
+        "test": "test_submission_package.SubmissionPackageTests.test_essay_body_is_the_complete_sixfold_one_home.test_essay_body_is_the_complete_sixfold_one_home",
+        "result": "FAIL"
+      },
+      {
+        "test": "test_submission_package.SubmissionPackageTests.test_essay_body_keeps_kaplan_learning_material_in_the_sources_domain.test_essay_body_keeps_kaplan_learning_material_in_the_sources_domain",
+        "result": "ok"
+      },
+      {
+        "test": "test_submission_package.SubmissionPackageTests.test_essay_body_preserves_status_and_quote_provenance.test_essay_body_preserves_status_and_quote_provenance",
+        "result": "ok"
+      },
+      {
+        "test": "test_submission_package.SubmissionPackageTests.test_essay_body_wikilinks_and_relative_links_resolve.test_essay_body_wikilinks_and_relative_links_resolve",
+        "result": "FAIL"
+      },
+      {
+        "test": "test_submission_package.SubmissionPackageTests.test_reader_protocol_is_content_agnostic_and_traversal_led.test_reader_protocol_is_content_agnostic_and_traversal_led",
+        "result": "ok"
+      },
+      {
+        "test": "test_submission_package.SubmissionPackageTests.test_reader_skills_use_only_the_shipped_bundle_contract.test_reader_skills_use_only_the_shipped_bundle_contract",
+        "result": "ok"
+      },
+      {
+        "test": "test_submission_package.SubmissionPackageTests.test_source_and_passage_routes_converge_on_one_canonical_house.test_source_and_passage_routes_converge_on_one_canonical_house",
+        "result": "ok"
+      },
+      {
+        "test": "test_submission_package.SubmissionPackageTests.test_submission_manifest_keeps_card_integration_status_honest.test_submission_manifest_keeps_card_integration_status_honest",
+        "result": "ok"
+      },
+      {
+        "test": "test_submission_package.SubmissionPackageTests.test_superseded_submission_spec_retains_obsidian_design_provenance.test_superseded_submission_spec_retains_obsidian_design_provenance",
+        "result": "ok"
+      }
+    ],
+    "standing": "All remaining failures/errors are baseline-backed inherited structural/parser assertions. The author-deferred global hygiene gate is not represented as passing."
+  },
+  "final_scoped_tests": {
+    "tests": 44,
+    "failures": 0,
+    "results": [
+      {
+        "test": "test_audit_room_depth.CompactRoomAuditTests.test_real_kaplan_room_passes.test_real_kaplan_room_passes",
+        "result": "ok"
+      },
+      {
+        "test": "test_audit_room_depth.CompactRoomAuditTests.test_real_threshold_room_passes_substantive_learning_audit.test_real_threshold_room_passes_substantive_learning_audit",
+        "result": "ok"
+      },
+      {
+        "test": "test_audit_room_depth.CompactRoomAuditTests.test_tampered_room_fails_real_freshness_gate.test_tampered_room_fails_real_freshness_gate",
+        "result": "ok"
+      },
+      {
+        "test": "test_audit_room_depth.CompactRoomAuditTests.test_threshold_route_fails_when_a_real_learning_movement_is_removed.test_threshold_route_fails_when_a_real_learning_movement_is_removed",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_argument_adapters_include_the_authored_argument_body.test_argument_adapters_include_the_authored_argument_body",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_concepts_are_a_first_class_full_body_collection.test_concepts_are_a_first_class_full_body_collection",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_doctor_reports_adapter_and_database_freshness_separately.test_doctor_reports_adapter_and_database_freshness_separately",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_kaplan_learning_material_is_retrievable_from_its_canonical_source_house.test_kaplan_learning_material_is_retrievable_from_its_canonical_source_house",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_literal_hyphenated_search_terms_do_not_leak_fts_column_syntax.test_literal_hyphenated_search_terms_do_not_leak_fts_column_syntax",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_manifest_hash_matches_each_canonical_full_body_input.test_manifest_hash_matches_each_canonical_full_body_input",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_passage_adapters_point_to_canonical_source_house_anchors_without_transcription.test_passage_adapters_point_to_canonical_source_house_anchors_without_transcription",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_real_sync_imports_every_generated_adapter.test_real_sync_imports_every_generated_adapter",
+        "result": "ok"
+      },
+      {
+        "test": "test_bkmr_essay.BkmrEssayIntegrationTests.test_section_adapters_include_claim_warrant_tension_and_transition.test_section_adapters_include_claim_warrant_tension_and_transition",
+        "result": "ok"
+      },
+      {
+        "test": "test_build_section_rooms.SectionRoomV2Tests.test_active_rooms_are_compact_and_complete.test_active_rooms_are_compact_and_complete",
+        "result": "ok"
+      },
+      {
+        "test": "test_build_section_rooms.SectionRoomV2Tests.test_builder_never_changes_manuscript_or_reading_routes.test_builder_never_changes_manuscript_or_reading_routes",
+        "result": "ok"
+      },
+      {
+        "test": "test_build_section_rooms.SectionRoomV2Tests.test_canonical_change_makes_a_real_room_stale.test_canonical_change_makes_a_real_room_stale",
+        "result": "ok"
+      },
+      {
+        "test": "test_build_section_rooms.SectionRoomV2Tests.test_master_manuscript_is_the_only_active_writing_surface.test_master_manuscript_is_the_only_active_writing_surface",
+        "result": "ok"
+      },
+      {
+        "test": "test_build_section_rooms.SectionRoomV2Tests.test_real_room_links_and_fragments_resolve.test_real_room_links_and_fragments_resolve",
+        "result": "ok"
+      },
+      {
+        "test": "test_build_section_rooms.SectionRoomV2Tests.test_real_workspace_is_fresh.test_real_workspace_is_fresh",
+        "result": "ok"
+      },
+      {
+        "test": "test_main_source_relations.MainSourceRelationTests.test_curation_is_current_and_covers_every_section.test_curation_is_current_and_covers_every_section",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2ManifestBindingTests.test_depth_review_cannot_survive_changed_quilt_or_depth_receipt.test_depth_review_cannot_survive_changed_quilt_or_depth_receipt",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2ManifestBindingTests.test_domain_readme_change_invalidates_packet.test_domain_readme_change_invalidates_packet",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2ManifestBindingTests.test_packet_binds_real_corpus_and_verifies_from_another_cwd.test_packet_binds_real_corpus_and_verifies_from_another_cwd",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2ManifestBindingTests.test_stale_census_and_acceptance_bindings_block_output.test_stale_census_and_acceptance_bindings_block_output",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2ManifestBindingTests.test_unadmitted_or_duplicate_identity_is_rejected.test_unadmitted_or_duplicate_identity_is_rejected",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2ManifestBindingTests.test_verifier_rejects_altered_packet_and_queue.test_verifier_rejects_altered_packet_and_queue",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2WorkflowTests.test_actual_unresolvable_identity_is_a_command_failure.test_actual_unresolvable_identity_is_a_command_failure",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2WorkflowTests.test_discovery_candidates_cannot_enter_hygiene_as_canonical_targets.test_discovery_candidates_cannot_enter_hygiene_as_canonical_targets",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2WorkflowTests.test_every_live_quilt_is_discovered_and_anchors_recover_actual_text.test_every_live_quilt_is_discovered_and_anchors_recover_actual_text",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2WorkflowTests.test_hygiene_rejects_duplicate_admissions_at_real_canonical_homes.test_hygiene_rejects_duplicate_admissions_at_real_canonical_homes",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2WorkflowTests.test_real_canonical_home_runs_links_and_effects_from_another_cwd.test_real_canonical_home_runs_links_and_effects_from_another_cwd",
+        "result": "ok"
+      },
+      {
+        "test": "test_p2_build_workflow.P2WorkflowTests.test_target_slice_recovers_real_lines_and_rejects_whole_quilt.test_target_slice_recovers_real_lines_and_rejects_whole_quilt",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_house_migration.CanonicalSourceTests.test_all_projected_passages_resolve_once.test_all_projected_passages_resolve_once",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_house_migration.CanonicalSourceTests.test_every_source_has_one_clean_canonical_file.test_every_source_has_one_clean_canonical_file",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_house_migration.CanonicalSourceTests.test_kaplan_contains_bibliography_passage_and_full_reading_material.test_kaplan_contains_bibliography_passage_and_full_reading_material",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_house_migration.CanonicalSourceTests.test_optional_notes_do_not_change_or_invalidate_source_projections.test_optional_notes_do_not_change_or_invalidate_source_projections",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_house_migration.CanonicalSourceTests.test_previously_missing_van_eenwyk_source_is_present.test_previously_missing_van_eenwyk_source_is_present",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_house_migration.CanonicalSourceTests.test_source_projections_are_reproducible.test_source_projections_are_reproducible",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_house_migration.CanonicalSourceTests.test_split_source_system_is_absent.test_split_source_system_is_absent",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_doctor_clears_canonical_source_and_room_integrity_debts.test_doctor_clears_canonical_source_and_room_integrity_debts",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_every_passage_projection_fragment_resolves_to_the_canonical_house.test_every_passage_projection_fragment_resolves_to_the_canonical_house",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_human_and_agent_route_from_section_to_movement_passage_and_reading.test_human_and_agent_route_from_section_to_movement_passage_and_reading",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_main_sources_are_generated_by_section_and_link_only_canonical_houses.test_main_sources_are_generated_by_section_and_link_only_canonical_houses",
+        "result": "ok"
+      },
+      {
+        "test": "test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_projection_check_marks_all_human_views_stale_after_a_real_source_change.test_projection_check_marks_all_human_views_stale_after_a_real_source_change",
+        "result": "ok"
+      }
+    ]
+  },
+  "final_triage": {
+    "baseline": "5a7ef8a",
+    "receipt": "working/p2-enrichment/receipts/T22-full-suite-triage-2026-09-08.md",
+    "newly_exposed_after_quilt_fix": "ql-expression-grammar.md code example [[<canonical surface>]] already exists at baseline; whole-body regex treats it as a live link.",
+    "remaining_source_dangles": "Only the baseline Descartes/Levinas paths exceed the old test’s expected core-only set."
+  },
+  "final_freshness": {
+    "source_projections": {
+      "files": 3,
+      "check": "passed"
+    },
+    "section_rooms": {
+      "rooms": 8,
+      "check": "passed"
+    }
+  },
+  "final_preservation": {
+    "protected_baseline_files": 150,
+    "unchanged": true,
+    "history_bodies": 16
+  }
+}
