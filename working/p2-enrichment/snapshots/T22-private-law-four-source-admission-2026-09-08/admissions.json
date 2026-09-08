@@ -1,0 +1,86 @@
+[
+  {
+    "source_id": "reich-1935-citizenship-law-first-regulation",
+    "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/german-reich/reich-1935-citizenship-law-first-regulation/SOURCE.md",
+    "sha256": "82c1c16ff1a1835e40193bd90a14c79bec71adbbddb135c9d4839a3317906ece",
+    "copies": [
+      {
+        "origin": "working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/reich-citizenship-1935.pdf",
+        "path": "working/sources-texts-references/primary-texts/german-reich/reich-1935-citizenship-law-first-regulation/reich-citizenship-1935.pdf",
+        "sha256": "a6163374111db820d84e8e1b9f88a86d0a3b99c65c0f43e5dd1a07d483ee1c6c"
+      },
+      {
+        "origin": "working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/reich-citizenship-1935.txt",
+        "path": "working/sources-texts-references/primary-texts/german-reich/reich-1935-citizenship-law-first-regulation/reich-citizenship-1935.txt",
+        "sha256": "a7040cf53de199519d2d0585e829403ee924988d64945f99ae9ea7345301bc07"
+      }
+    ],
+    "read_scope": "Two complete instruments in the GHI English translation; three PDF pages including source credits. No German facsimile collation. Editorial introduction remains distinct from statutory text.",
+    "cards": 2,
+    "original_url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/the-reich-citizenship-law-september-15-1935-and-the-first-regulation-to-the-reich-citizenship-law-november-14-1935.pdf",
+    "law_anchor": "branch-vii-germany"
+  },
+  {
+    "source_id": "us-1946-paperclip-policy-frus448",
+    "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/united-states-government/us-1946-paperclip-policy-frus448/SOURCE.md",
+    "sha256": "c13e720bd5c43f816eb197919120dd18f217dea73d58f51b29d5bf6025c5fe88",
+    "copies": [
+      {
+        "origin": "working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/paperclip-1946.html",
+        "path": "working/sources-texts-references/primary-texts/united-states-government/us-1946-paperclip-policy-frus448/paperclip-1946.html",
+        "sha256": "04eae7737309246fa1c28dd9172704ac4b44b5d3c1aede7c8dd055fe6a3abc90"
+      },
+      {
+        "origin": "working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/paperclip-1946.txt",
+        "path": "working/sources-texts-references/primary-texts/united-states-government/us-1946-paperclip-policy-frus448/paperclip-1946.txt",
+        "sha256": "47014b613c41728b8f43394cc7ae31c6be11f6b387317dc9b6d25b4c0055dac5"
+      }
+    ],
+    "read_scope": "Cover memorandum, enclosure2a–b and editorial approval note89; navigation excluded. No complete personnel archive or compliance audit.",
+    "cards": 2,
+    "original_url": "https://history.state.gov/historicaldocuments/frus1946v05/d448",
+    "law_anchor": "branch-xi-postwar"
+  },
+  {
+    "source_id": "nara-2000-gehlen-disclosure",
+    "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/national-archives/nara-2000-gehlen-disclosure/SOURCE.md",
+    "sha256": "7929e99bc4aa08225bba433316d409c31773027d919447bccf4e6624931b65e3",
+    "copies": [
+      {
+        "origin": "working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/gehlen-records.html",
+        "path": "working/sources-texts-references/primary-texts/national-archives/nara-2000-gehlen-disclosure/gehlen-records.html",
+        "sha256": "2c7cff823a1151d5030c203db752dfb59bfc77c32a4285cb844fa1e1807f3d81"
+      },
+      {
+        "origin": "working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/gehlen-records.txt",
+        "path": "working/sources-texts-references/primary-texts/national-archives/nara-2000-gehlen-disclosure/gehlen-records.txt",
+        "sha256": "13531450c5da420261ac6876712aed6bbd38bbf77844ceb17d0f266b6781a561"
+      }
+    ],
+    "read_scope": "Complete6-paragraph institutional announcement dated5October2000, with title/date/contact context; not the released intelligence archive or personnel files.",
+    "cards": 2,
+    "original_url": "https://www.archives.gov/iwg/about/press-releases/cold-war-spymaster-records.html",
+    "law_anchor": "branch-xi-postwar"
+  },
+  {
+    "source_id": "perdomo-et-al-2020-performative-prediction",
+    "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/perdomo/perdomo-et-al-2020-performative-prediction/SOURCE.md",
+    "sha256": "4a54fcdfb802e0ec647a8169e8a6ba873419d9acdc24c1e41b2462a239e88349",
+    "copies": [
+      {
+        "origin": "working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/perdomo-2020.html",
+        "path": "working/sources-texts-references/primary-texts/perdomo/perdomo-et-al-2020-performative-prediction/perdomo-2020.html",
+        "sha256": "8d91666d98cf2e5cf23d2b51aba0167ea24e063920f24fa2f61dbd6447ee7610"
+      },
+      {
+        "origin": "working/p2-enrichment/snapshots/T21-private-language-law-nation-centralisation-2026-09-08/external/perdomo-2020.txt",
+        "path": "working/sources-texts-references/primary-texts/perdomo/perdomo-et-al-2020-performative-prediction/perdomo-2020.txt",
+        "sha256": "94295b11c3ab0e6cb124f4df6b4c944069cf099513299d5c221332f9a4508935"
+      }
+    ],
+    "read_scope": "Publisher proceedings abstract and bibliographic metadata only; no full article, supplementary material, proof or field-trial reading.",
+    "cards": 1,
+    "original_url": "https://proceedings.mlr.press/v119/perdomo20a.html",
+    "law_anchor": "branch-xii-computation"
+  }
+]

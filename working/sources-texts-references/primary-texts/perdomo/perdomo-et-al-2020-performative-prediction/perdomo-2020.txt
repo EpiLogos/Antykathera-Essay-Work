@@ -1,0 +1,75 @@
+Performative Prediction
+Proceedings of Machine Learning Research
+Volume 119
+JMLR
+DMLR
+TMLR
+MLOSS
+FAQ
+Submission Format
+[
+edit
+]
+Performative Prediction
+Juan Perdomo, Tijana Zrnic, Celestine Mendler-Dünner, Moritz Hardt
+Proceedings of the 37th International Conference on Machine Learning
+, PMLR 119:7599-7609, 2020.
+Abstract
+When predictions support decisions they may influence the outcome they aim to predict. We call such predictions performative; the prediction influences the target. Performativity is a well-studied phenomenon in policy-making that has so far been neglected in supervised learning. When ignored, performativity surfaces as undesirable distribution shift, routinely addressed with retraining. We develop a risk minimization framework for performative prediction bringing together concepts from statistics, game theory, and causality. A conceptual novelty is an equilibrium notion we call performative stability. Performative stability implies that the predictions are calibrated not against past outcomes, but against the future outcomes that manifest from acting on the prediction. Our main results are necessary and sufficient conditions for the convergence of retraining to a performatively stable point of nearly minimal loss. In full generality, performative prediction strictly subsumes the setting known as strategic classification. We thus also give the first sufficient conditions for retraining to overcome strategic feedback effects.
+Cite this Paper
+BibTeX
+@InProceedings{pmlr-v119-perdomo20a,
+  title = 	 {Performative Prediction},
+  author =       {Perdomo, Juan and Zrnic, Tijana and Mendler-D{\"u}nner, Celestine and Hardt, Moritz},
+  booktitle = 	 {Proceedings of the 37th International Conference on Machine Learning},
+  pages = 	 {7599--7609},
+  year = 	 {2020},
+  editor = 	 {III, Hal Daumé and Singh, Aarti},
+  volume = 	 {119},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {13--18 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v119/perdomo20a/perdomo20a.pdf},
+  url = 	 {https://proceedings.mlr.press/v119/perdomo20a.html},
+  abstract = 	 {When predictions support decisions they may influence the outcome they aim to predict. We call such predictions performative; the prediction influences the target. Performativity is a well-studied phenomenon in policy-making that has so far been neglected in supervised learning. When ignored, performativity surfaces as undesirable distribution shift, routinely addressed with retraining. We develop a risk minimization framework for performative prediction bringing together concepts from statistics, game theory, and causality. A conceptual novelty is an equilibrium notion we call performative stability. Performative stability implies that the predictions are calibrated not against past outcomes, but against the future outcomes that manifest from acting on the prediction. Our main results are necessary and sufficient conditions for the convergence of retraining to a performatively stable point of nearly minimal loss. In full generality, performative prediction strictly subsumes the setting known as strategic classification. We thus also give the first sufficient conditions for retraining to overcome strategic feedback effects.}
+}
+Copy to Clipboard
+Download
+Endnote
+%0 Conference Paper
+%T Performative Prediction
+%A Juan Perdomo
+%A Tijana Zrnic
+%A Celestine Mendler-Dünner
+%A Moritz Hardt
+%B Proceedings of the 37th International Conference on Machine Learning
+%C Proceedings of Machine Learning Research
+%D 2020
+%E Hal Daumé III
+%E Aarti Singh	
+%F pmlr-v119-perdomo20a
+%I PMLR
+%P 7599--7609
+%U https://proceedings.mlr.press/v119/perdomo20a.html
+%V 119
+%X When predictions support decisions they may influence the outcome they aim to predict. We call such predictions performative; the prediction influences the target. Performativity is a well-studied phenomenon in policy-making that has so far been neglected in supervised learning. When ignored, performativity surfaces as undesirable distribution shift, routinely addressed with retraining. We develop a risk minimization framework for performative prediction bringing together concepts from statistics, game theory, and causality. A conceptual novelty is an equilibrium notion we call performative stability. Performative stability implies that the predictions are calibrated not against past outcomes, but against the future outcomes that manifest from acting on the prediction. Our main results are necessary and sufficient conditions for the convergence of retraining to a performatively stable point of nearly minimal loss. In full generality, performative prediction strictly subsumes the setting known as strategic classification. We thus also give the first sufficient conditions for retraining to overcome strategic feedback effects.
+Copy to Clipboard
+Download
+APA
+Perdomo, J., Zrnic, T., Mendler-Dünner, C. & Hardt, M.. (2020). Performative Prediction.
+Proceedings of the 37th International Conference on Machine Learning
+, in
+Proceedings of Machine Learning Research
+119:7599-7609 Available from https://proceedings.mlr.press/v119/perdomo20a.html.
+Copy to Clipboard
+Download
+Related Material
+Download PDF
+Supplementary PDF
+Other Files
+This site last compiled Sun, 05 Jul 2026 14:50:57 +0000
+Github Account
+Copyright ©
+The authors and PMLR
+2026.
+MLResearchPress

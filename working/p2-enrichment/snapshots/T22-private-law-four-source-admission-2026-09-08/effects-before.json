@@ -1,0 +1,51 @@
+{
+  "root": {
+    "id": "DEVELOPMENT",
+    "title": "Language, Law, Nation and Centralisation — Twelve Situated Histories",
+    "path": "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT.md",
+    "artifact_type": "submission-artifact",
+    "authority": "submission-refraction",
+    "headings": [
+      "Language, Law, Nation and Centralisation — Twelve Situated Histories",
+      "#0 — A common order is made through different histories",
+      "#1 — A region enters a kingdom while its texts travel elsewhere",
+      "I — Occitania: incorporation, legal French and national schooling",
+      "II — Posquières and Lunel: learning exceeds territorial incorporation",
+      "#2 — Transmission changes what can count as knowledge",
+      "III — Florence, Venice and Milan: patronage, dynastic claim and mathesis",
+      "IV — Yates and Hanegraaff: the historian reopens an exclusion",
+      "V — Jung's Aion: the historical image and its limits",
+      "#3 — A language becomes a condition of belonging and action",
+      "VI — Italy: literary prestige becomes a public language project",
+      "VII — Germany: linguistic commonality and the later racialising cut",
+      "VIII — Wales, Ireland and Scotland: jurisdictional capability has three histories",
+      "#4 — Sacred and national languages distribute people and place differently",
+      "IX — Hebrew revival, Zionism and Palestinian counter-history",
+      "X — Abrahamic formations: Word, law and people have different geometries",
+      "#5→0 — An inherited category can enter a new institution and act again",
+      "XI — Post-war recombination: rupture and retained capacities",
+      "XII — Computation: classification returns as an executable condition",
+      "The next account inherits a history it can reopen"
+    ],
+    "sha256": "87fed6f30a6a6ea5e47d12264e2a9961ea20c3bd6de4be71b740b02a002bc1bb",
+    "claim_status": "Argued",
+    "register": "episteme"
+  },
+  "method": "declared canonical graph and transverse-thread metadata only",
+  "depth": 4,
+  "consumers": {
+    "sections": [],
+    "arguments": [],
+    "concepts": [],
+    "paths": []
+  },
+  "downstream": {
+    "paths": [],
+    "edges": []
+  },
+  "transverse_threads": [],
+  "registers": {
+    "root": "episteme",
+    "carriers": []
+  }
+}

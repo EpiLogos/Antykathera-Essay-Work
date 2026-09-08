@@ -1,0 +1,43 @@
+{
+  "path": "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/DEVELOPMENT.md",
+  "before_sha256": "87fed6f30a6a6ea5e47d12264e2a9961ea20c3bd6de4be71b740b02a002bc1bb",
+  "after_sha256": "472d94e5aca2dd92df425955c88f66597f23fd377f1ae6229f4c802d9f453843",
+  "parent_five_forward_links_preserved": true,
+  "protected_history_sha256": "fce96725ed4bb5c874ef82bffdd5259546d24b0b8455ccce931f316858e5377d",
+  "protected_history_unchanged": true,
+  "url_changes": [
+    {
+      "source_id": "reich-1935-citizenship-law-first-regulation",
+      "old_url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/the-reich-citizenship-law-september-15-1935-and-the-first-regulation-to-the-reich-citizenship-law-november-14-1935.pdf",
+      "new_anchor": "../../../sources/political-theory-institutions/german-reich/reich-1935-citizenship-law-first-regulation/SOURCE.md#reich-1935-citizenship-law-first-regulation-q001",
+      "new_anchors": [
+        "../../../sources/political-theory-institutions/german-reich/reich-1935-citizenship-law-first-regulation/SOURCE.md#reich-1935-citizenship-law-first-regulation-q001",
+        "../../../sources/political-theory-institutions/german-reich/reich-1935-citizenship-law-first-regulation/SOURCE.md#reich-1935-citizenship-law-first-regulation-q002"
+      ]
+    },
+    {
+      "source_id": "us-1946-paperclip-policy-frus448",
+      "old_url": "https://history.state.gov/historicaldocuments/frus1946v05/d448",
+      "new_anchor": "../../../sources/political-theory-institutions/united-states-government/us-1946-paperclip-policy-frus448/SOURCE.md#us-1946-paperclip-policy-frus448-q001",
+      "new_anchors": [
+        "../../../sources/political-theory-institutions/united-states-government/us-1946-paperclip-policy-frus448/SOURCE.md#us-1946-paperclip-policy-frus448-q001",
+        "../../../sources/political-theory-institutions/united-states-government/us-1946-paperclip-policy-frus448/SOURCE.md#us-1946-paperclip-policy-frus448-q002"
+      ]
+    },
+    {
+      "source_id": "nara-2000-gehlen-disclosure",
+      "old_url": "https://www.archives.gov/iwg/about/press-releases/cold-war-spymaster-records.html",
+      "new_anchor": "../../../sources/political-theory-institutions/national-archives/nara-2000-gehlen-disclosure/SOURCE.md#nara-2000-gehlen-disclosure-q001",
+      "new_anchors": [
+        "../../../sources/political-theory-institutions/national-archives/nara-2000-gehlen-disclosure/SOURCE.md#nara-2000-gehlen-disclosure-q001",
+        "../../../sources/political-theory-institutions/national-archives/nara-2000-gehlen-disclosure/SOURCE.md#nara-2000-gehlen-disclosure-q002"
+      ]
+    },
+    {
+      "source_id": "perdomo-et-al-2020-performative-prediction",
+      "old_url": "https://proceedings.mlr.press/v119/perdomo20a.html",
+      "new_anchor": "../../../sources/computer-science-ml/perdomo/perdomo-et-al-2020-performative-prediction/SOURCE.md#perdomo-et-al-2020-performative-prediction-q001"
+    }
+  ],
+  "proposal_status": "Four exact private witness proposals canonically admitted; other source proposals remain separate; historical private packets unchanged"
+}

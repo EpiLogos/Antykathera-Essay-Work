@@ -1,0 +1,36 @@
+{
+  "sources": [
+    {
+      "source_id": "reich-1935-citizenship-law-first-regulation",
+      "canonical_sha256": "82c1c16ff1a1835e40193bd90a14c79bec71adbbddb135c9d4839a3317906ece",
+      "cards": 2,
+      "copies_verified": 2,
+      "scope": "Two complete instruments in the GHI English translation; three PDF pages including source credits. No German facsimile collation. Editorial introduction remains distinct from statutory text."
+    },
+    {
+      "source_id": "us-1946-paperclip-policy-frus448",
+      "canonical_sha256": "c13e720bd5c43f816eb197919120dd18f217dea73d58f51b29d5bf6025c5fe88",
+      "cards": 2,
+      "copies_verified": 2,
+      "scope": "Cover memorandum, enclosure2a–b and editorial approval note89; navigation excluded. No complete personnel archive or compliance audit."
+    },
+    {
+      "source_id": "nara-2000-gehlen-disclosure",
+      "canonical_sha256": "7929e99bc4aa08225bba433316d409c31773027d919447bccf4e6624931b65e3",
+      "cards": 2,
+      "copies_verified": 2,
+      "scope": "Complete6-paragraph institutional announcement dated5October2000, with title/date/contact context; not the released intelligence archive or personnel files."
+    },
+    {
+      "source_id": "perdomo-et-al-2020-performative-prediction",
+      "canonical_sha256": "4a54fcdfb802e0ec647a8169e8a6ba873419d9acdc24c1e41b2462a239e88349",
+      "cards": 1,
+      "copies_verified": 2,
+      "scope": "Publisher proceedings abstract and bibliographic metadata only; no full article, supplementary material, proof or field-trial reading."
+    }
+  ],
+  "parent_five_forward_links_preserved": true,
+  "protected_history_unchanged": true,
+  "diff_check": 0,
+  "no_staging": true
+}
