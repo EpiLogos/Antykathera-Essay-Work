@@ -1,0 +1,3366 @@
+
+
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3NXT305ZEQ');
+
+
+
+
+
+
+
+漢語多功能字庫
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    function usefulLinks(l) {
+        if (l) {
+            window.open(l,'useful','').focus();
+            document.getElementById('usefullinks').selectedIndex = 0;
+        }
+    }
+    document.title = "漢語多功能字庫 - 字頭 「鄉」";
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+
+		
+粵 
+
+		
+普 
+
+		
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+
+				
+
+				
+
+				
+
+					
+所有字
+
+					
+常用字
+
+				
+
+			
+
+			
+
+		
+
+	
+
+	
+
+		
+
+			
+
+				
+
+				
+
+					
+?
+?
+?
+
+					
+
+				
+
+				
+
+			
+
+			
+
+				
+
+					
+
+						
+
+							
+聲母
+
+						
+
+						
+
+							
+-
+
+						
+
+						
+
+							
+b
+
+						
+
+						
+
+							
+p
+
+						
+
+						
+
+							
+m
+
+						
+
+						
+
+							
+f
+
+						
+
+						
+
+							
+d
+
+						
+
+						
+
+							
+t
+
+						
+
+						
+
+							
+n
+
+						
+
+						
+
+							
+l
+
+						
+
+						
+
+							
+g
+
+						
+
+						
+
+							
+k
+
+						
+
+						
+
+							
+h
+
+						
+
+						
+
+							
+j
+
+						
+
+						
+
+							
+q
+
+						
+
+						
+
+							
+x
+
+						
+
+						
+
+							
+zh
+
+						
+
+						
+
+							
+ch
+
+						
+
+						
+
+							
+sh
+
+						
+
+						
+
+							
+r
+
+						
+
+						
+
+							
+z
+
+						
+
+						
+
+							
+c
+
+						
+
+						
+
+							
+s
+
+						
+
+						
+
+							
+y
+
+						
+
+						
+
+							
+w
+
+						
+
+					
+
+				
+
+				
+
+					
+
+						
+
+							
+韻母
+
+						
+
+						
+
+							
+a
+
+							
+o
+
+							
+e
+
+						
+
+						
+
+							
+er
+
+							
+ai
+
+							
+ei
+
+						
+
+						
+
+							
+ao
+
+							
+ou
+
+							
+an
+
+						
+
+						
+
+							
+en
+
+							
+ang
+
+							
+eng
+
+						
+
+						
+
+							
+ong
+
+							
+
+							
+
+						
+
+						
+
+							
+i
+
+							
+ia
+
+							
+iao
+
+						
+
+						
+
+							
+ie
+
+							
+iou 
+(iu)
+
+						
+
+						
+
+							
+ian
+
+							
+in
+
+							
+iang
+
+						
+
+						
+
+							
+ing
+
+							
+iong
+
+							
+
+						
+
+						
+
+							
+u
+
+							
+ua
+
+							
+uo
+
+						
+
+						
+
+							
+uai
+
+							
+uei 
+(ui)
+
+						
+
+						
+
+							
+uan
+
+							
+uen 
+(un)
+
+						
+
+						
+
+							
+uang
+
+							
+
+							
+
+						
+
+						
+
+							
+ü 
+(u)
+
+							
+
+						
+
+						
+
+							
+üe 
+(ue)
+
+							
+
+						
+
+						
+
+							
+üan 
+(uan)
+
+							
+
+						
+
+						
+
+							
+ün 
+(un)
+
+							
+
+						
+
+					
+
+				
+
+				
+
+					
+
+						
+
+							
+聲調
+
+						
+
+						
+
+							
+ 
+
+						
+
+						
+
+							
+
+						
+
+						
+
+							
+
+						
+
+						
+
+							
+
+						
+
+						
+
+							
+
+						
+
+					
+
+				
+
+			
+
+		
+
+	
+
+	
+
+		
+
+			
+
+				
+
+				
+
+					
+?
+?
+?
+
+					
+
+				
+
+				
+
+			
+
+			
+
+				
+
+					
+
+						
+
+							
+聲母
+
+						
+
+						
+
+							
+-
+
+						
+
+						
+
+							
+
+	phonetic_initial[0] = "b";
+	phonetic_final[0] = "";
+	phonetic_tone[0] = "";
+	phonetic_mode[0] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[1] = "p";
+	phonetic_final[1] = "";
+	phonetic_tone[1] = "";
+	phonetic_mode[1] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[2] = "m";
+	phonetic_final[2] = "";
+	phonetic_tone[2] = "";
+	phonetic_mode[2] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[3] = "f";
+	phonetic_final[3] = "";
+	phonetic_tone[3] = "";
+	phonetic_mode[3] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[4] = "d";
+	phonetic_final[4] = "";
+	phonetic_tone[4] = "";
+	phonetic_mode[4] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[5] = "t";
+	phonetic_final[5] = "";
+	phonetic_tone[5] = "";
+	phonetic_mode[5] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[6] = "n";
+	phonetic_final[6] = "";
+	phonetic_tone[6] = "";
+	phonetic_mode[6] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[7] = "l";
+	phonetic_final[7] = "";
+	phonetic_tone[7] = "";
+	phonetic_mode[7] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[8] = "g";
+	phonetic_final[8] = "";
+	phonetic_tone[8] = "";
+	phonetic_mode[8] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[9] = "k";
+	phonetic_final[9] = "";
+	phonetic_tone[9] = "";
+	phonetic_mode[9] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[10] = "h";
+	phonetic_final[10] = "";
+	phonetic_tone[10] = "";
+	phonetic_mode[10] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[11] = "ng";
+	phonetic_final[11] = "";
+	phonetic_tone[11] = "";
+	phonetic_mode[11] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[12] = "z";
+	phonetic_final[12] = "";
+	phonetic_tone[12] = "";
+	phonetic_mode[12] = "1";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[13] = "c";
+	phonetic_final[13] = "";
+	phonetic_tone[13] = "";
+	phonetic_mode[13] = "1";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[14] = "s";
+	phonetic_final[14] = "";
+	phonetic_tone[14] = "";
+	phonetic_mode[14] = "1";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[15] = "gw";
+	phonetic_final[15] = "";
+	phonetic_tone[15] = "";
+	phonetic_mode[15] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[16] = "kw";
+	phonetic_final[16] = "";
+	phonetic_tone[16] = "";
+	phonetic_mode[16] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[17] = "j";
+	phonetic_final[17] = "";
+	phonetic_tone[17] = "";
+	phonetic_mode[17] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[18] = "w";
+	phonetic_final[18] = "";
+	phonetic_tone[18] = "";
+	phonetic_mode[18] = "0";
+
+
+						
+
+					
+
+				
+
+				
+
+					
+
+						
+
+							
+韻母
+
+						
+
+						
+
+							
+
+	phonetic_initial[19] = "";
+	phonetic_final[19] = "aa";
+	phonetic_tone[19] = "";
+	phonetic_mode[19] = "0";
+
+
+							
+
+	phonetic_initial[20] = "";
+	phonetic_final[20] = "aai";
+	phonetic_tone[20] = "";
+	phonetic_mode[20] = "0";
+
+
+							
+
+	phonetic_initial[21] = "";
+	phonetic_final[21] = "aau";
+	phonetic_tone[21] = "";
+	phonetic_mode[21] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[22] = "";
+	phonetic_final[22] = "aam";
+	phonetic_tone[22] = "";
+	phonetic_mode[22] = "0";
+
+
+							
+
+	phonetic_initial[23] = "";
+	phonetic_final[23] = "aan";
+	phonetic_tone[23] = "";
+	phonetic_mode[23] = "0";
+
+
+							
+
+	phonetic_initial[24] = "";
+	phonetic_final[24] = "aang";
+	phonetic_tone[24] = "";
+	phonetic_mode[24] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[25] = "";
+	phonetic_final[25] = "aap";
+	phonetic_tone[25] = "";
+	phonetic_mode[25] = "0";
+
+
+							
+
+	phonetic_initial[26] = "";
+	phonetic_final[26] = "aat";
+	phonetic_tone[26] = "";
+	phonetic_mode[26] = "0";
+
+
+							
+
+	phonetic_initial[27] = "";
+	phonetic_final[27] = "aak";
+	phonetic_tone[27] = "";
+	phonetic_mode[27] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[28] = "";
+	phonetic_final[28] = "ai";
+	phonetic_tone[28] = "";
+	phonetic_mode[28] = "0";
+
+
+							
+
+	phonetic_initial[29] = "";
+	phonetic_final[29] = "au";
+	phonetic_tone[29] = "";
+	phonetic_mode[29] = "0";
+
+
+							
+
+	phonetic_initial[30] = "";
+	phonetic_final[30] = "am";
+	phonetic_tone[30] = "";
+	phonetic_mode[30] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[31] = "";
+	phonetic_final[31] = "an";
+	phonetic_tone[31] = "";
+	phonetic_mode[31] = "0";
+
+
+							
+
+	phonetic_initial[32] = "";
+	phonetic_final[32] = "ang";
+	phonetic_tone[32] = "";
+	phonetic_mode[32] = "0";
+
+
+							
+
+	phonetic_initial[33] = "";
+	phonetic_final[33] = "ap";
+	phonetic_tone[33] = "";
+	phonetic_mode[33] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[34] = "";
+	phonetic_final[34] = "at";
+	phonetic_tone[34] = "";
+	phonetic_mode[34] = "0";
+
+
+							
+
+	phonetic_initial[35] = "";
+	phonetic_final[35] = "ak";
+	phonetic_tone[35] = "";
+	phonetic_mode[35] = "0";
+
+
+							
+ 
+
+						
+
+						
+
+							
+
+	phonetic_initial[36] = "";
+	phonetic_final[36] = "e";
+	phonetic_tone[36] = "";
+	phonetic_mode[36] = "0";
+
+
+							
+
+	phonetic_initial[37] = "";
+	phonetic_final[37] = "ei";
+	phonetic_tone[37] = "";
+	phonetic_mode[37] = "0";
+
+
+							
+
+	phonetic_initial[38] = "";
+	phonetic_final[38] = "eu";
+	phonetic_tone[38] = "";
+	phonetic_mode[38] = "1";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[39] = "";
+	phonetic_final[39] = "em";
+	phonetic_tone[39] = "";
+	phonetic_mode[39] = "1";
+
+
+							
+
+	phonetic_initial[40] = "";
+	phonetic_final[40] = "eng";
+	phonetic_tone[40] = "";
+	phonetic_mode[40] = "0";
+
+
+							
+
+	phonetic_initial[41] = "";
+	phonetic_final[41] = "ep";
+	phonetic_tone[41] = "";
+	phonetic_mode[41] = "1";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[42] = "";
+	phonetic_final[42] = "ek";
+	phonetic_tone[42] = "";
+	phonetic_mode[42] = "0";
+
+
+							
+ 
+
+							
+ 
+
+						
+
+						
+
+							
+
+	phonetic_initial[43] = "";
+	phonetic_final[43] = "i";
+	phonetic_tone[43] = "";
+	phonetic_mode[43] = "0";
+
+
+							
+
+	phonetic_initial[44] = "";
+	phonetic_final[44] = "iu";
+	phonetic_tone[44] = "";
+	phonetic_mode[44] = "0";
+
+
+							
+
+	phonetic_initial[45] = "";
+	phonetic_final[45] = "im";
+	phonetic_tone[45] = "";
+	phonetic_mode[45] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[46] = "";
+	phonetic_final[46] = "in";
+	phonetic_tone[46] = "";
+	phonetic_mode[46] = "0";
+
+
+							
+
+	phonetic_initial[47] = "";
+	phonetic_final[47] = "ing";
+	phonetic_tone[47] = "";
+	phonetic_mode[47] = "0";
+
+
+							
+
+	phonetic_initial[48] = "";
+	phonetic_final[48] = "ip";
+	phonetic_tone[48] = "";
+	phonetic_mode[48] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[49] = "";
+	phonetic_final[49] = "it";
+	phonetic_tone[49] = "";
+	phonetic_mode[49] = "0";
+
+
+							
+
+	phonetic_initial[50] = "";
+	phonetic_final[50] = "ik";
+	phonetic_tone[50] = "";
+	phonetic_mode[50] = "0";
+
+
+							
+ 
+
+						
+
+						
+
+							
+
+	phonetic_initial[51] = "";
+	phonetic_final[51] = "o";
+	phonetic_tone[51] = "";
+	phonetic_mode[51] = "0";
+
+
+							
+
+	phonetic_initial[52] = "";
+	phonetic_final[52] = "oi";
+	phonetic_tone[52] = "";
+	phonetic_mode[52] = "0";
+
+
+							
+
+	phonetic_initial[53] = "";
+	phonetic_final[53] = "ou";
+	phonetic_tone[53] = "";
+	phonetic_mode[53] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[54] = "";
+	phonetic_final[54] = "on";
+	phonetic_tone[54] = "";
+	phonetic_mode[54] = "0";
+
+
+							
+
+	phonetic_initial[55] = "";
+	phonetic_final[55] = "ong";
+	phonetic_tone[55] = "";
+	phonetic_mode[55] = "0";
+
+
+							
+
+	phonetic_initial[56] = "";
+	phonetic_final[56] = "ot";
+	phonetic_tone[56] = "";
+	phonetic_mode[56] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[57] = "";
+	phonetic_final[57] = "ok";
+	phonetic_tone[57] = "";
+	phonetic_mode[57] = "0";
+
+
+							
+ 
+
+							
+ 
+
+						
+
+						
+
+							
+
+	phonetic_initial[58] = "";
+	phonetic_final[58] = "u";
+	phonetic_tone[58] = "";
+	phonetic_mode[58] = "0";
+
+
+							
+
+	phonetic_initial[59] = "";
+	phonetic_final[59] = "ui";
+	phonetic_tone[59] = "";
+	phonetic_mode[59] = "0";
+
+
+							
+
+	phonetic_initial[60] = "";
+	phonetic_final[60] = "un";
+	phonetic_tone[60] = "";
+	phonetic_mode[60] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[61] = "";
+	phonetic_final[61] = "ung";
+	phonetic_tone[61] = "";
+	phonetic_mode[61] = "0";
+
+
+							
+
+	phonetic_initial[62] = "";
+	phonetic_final[62] = "ut";
+	phonetic_tone[62] = "";
+	phonetic_mode[62] = "0";
+
+
+							
+
+	phonetic_initial[63] = "";
+	phonetic_final[63] = "uk";
+	phonetic_tone[63] = "";
+	phonetic_mode[63] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[64] = "";
+	phonetic_final[64] = "oe";
+	phonetic_tone[64] = "";
+	phonetic_mode[64] = "0";
+
+
+							
+
+	phonetic_initial[65] = "";
+	phonetic_final[65] = "oeng";
+	phonetic_tone[65] = "";
+	phonetic_mode[65] = "0";
+
+
+							
+
+	phonetic_initial[66] = "";
+	phonetic_final[66] = "oek";
+	phonetic_tone[66] = "";
+	phonetic_mode[66] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[67] = "";
+	phonetic_final[67] = "eoi";
+	phonetic_tone[67] = "";
+	phonetic_mode[67] = "0";
+
+
+							
+
+	phonetic_initial[68] = "";
+	phonetic_final[68] = "eon";
+	phonetic_tone[68] = "";
+	phonetic_mode[68] = "0";
+
+
+							
+
+	phonetic_initial[69] = "";
+	phonetic_final[69] = "eot";
+	phonetic_tone[69] = "";
+	phonetic_mode[69] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[70] = "";
+	phonetic_final[70] = "yu";
+	phonetic_tone[70] = "";
+	phonetic_mode[70] = "0";
+
+
+							
+
+	phonetic_initial[71] = "";
+	phonetic_final[71] = "yun";
+	phonetic_tone[71] = "";
+	phonetic_mode[71] = "0";
+
+
+							
+
+	phonetic_initial[72] = "";
+	phonetic_final[72] = "yut";
+	phonetic_tone[72] = "";
+	phonetic_mode[72] = "0";
+
+
+						
+
+						
+
+							
+
+	phonetic_initial[73] = "";
+	phonetic_final[73] = "m";
+	phonetic_tone[73] = "";
+	phonetic_mode[73] = "0";
+
+
+							
+
+	phonetic_initial[74] = "";
+	phonetic_final[74] = "ng";
+	phonetic_tone[74] = "";
+	phonetic_mode[74] = "0";
+
+
+							
+ 
+
+						
+
+					
+
+				
+
+				
+
+					
+
+						
+
+							
+聲調
+
+						
+
+						
+
+							
+
+	phonetic_initial[75] = "";
+	phonetic_final[75] = "";
+	phonetic_tone[75] = "1";
+	phonetic_mode[75] = "1";
+
+ 
+
+						
+
+						
+
+							
+
+	phonetic_initial[76] = "";
+	phonetic_final[76] = "";
+	phonetic_tone[76] = "2";
+	phonetic_mode[76] = "0";
+
+ 
+
+						
+
+						
+
+							
+
+	phonetic_initial[77] = "";
+	phonetic_final[77] = "";
+	phonetic_tone[77] = "3";
+	phonetic_mode[77] = "1";
+
+ 
+
+						
+
+						
+
+							
+
+	phonetic_initial[78] = "";
+	phonetic_final[78] = "";
+	phonetic_tone[78] = "4";
+	phonetic_mode[78] = "0";
+
+ 
+
+						
+
+						
+
+							
+
+	phonetic_initial[79] = "";
+	phonetic_final[79] = "";
+	phonetic_tone[79] = "5";
+	phonetic_mode[79] = "0";
+
+ 
+
+						
+
+						
+
+							
+
+	phonetic_initial[80] = "";
+	phonetic_final[80] = "";
+	phonetic_tone[80] = "6";
+	phonetic_mode[80] = "1";
+
+ 
+
+						
+
+					
+
+				
+
+			
+
+			
+
+				
+
+			
+
+		
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+	
+
+
+
+
+	
+
+		
+
+			
+				
+中文
+
+				
+ENG
+
+			
+
+		
+
+	
+
+
+
+
+
+
+	
+
+		
+字形
+
+		
+
+			
+
+				
+部首索引
+
+				
+筆畫索引
+
+				
+甲骨部件表
+
+				
+金文部件表
+
+				
+形義源流通解
+
+			
+
+		
+
+	
+
+
+
+
+
+
+	
+
+		
+字音
+
+		
+
+			
+
+				
+粵語音節表
+
+				
+粵語聲母表
+
+				
+粵語韻母表
+
+				
+
+					粵語分類字表:
+
+					
+
+						
+
+							
+總字表
+
+							
+單讀音字
+
+							
+破音字
+
+							
+異讀字
+
+							
+異讀破音字
+
+							
+破音+異讀破音
+
+						
+
+						
+
+					
+
+				
+
+				
+粵語注音系統對照表
+[
+聲母
+|
+韻母
+|
+聲調
+]
+
+				
+普通話音節表
+
+				
+其他方言讀音
+
+			
+
+		
+
+	
+
+
+
+
+
+
+	
+
+		
+工具
+
+		
+
+			
+
+				
+《說文》全文索引
+
+				
+《讀史方輿紀要》
+
+				
+成語彙輯
+
+				
+繁簡對照表
+
+
+
+			
+
+		
+
+	
+
+
+
+
+
+
+	
+
+		
+設定
+
+		
+
+			
+
+				
+冷僻字: 
+
+					
+
+						
+圖形
+
+						
+文字
+
+					
+
+				
+
+				
+粵音系統: 
+
+					
+
+						
+
+						
+粵拼
+
+						
+黃錫凌
+
+						
+耶魯
+
+						
+廣州
+
+						
+IPA(調值)
+
+						
+IPA(調型)
+
+						
+教院
+
+						
+劉錫祥
+
+					
+
+				
+
+			
+
+		
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+        
+
+            
+
+                
+
+                    
+
+                        
+
+                            
+
+                                
+邑
+163
+
+                            
+
+                            
+
+                                
+9
+(12)
+
+                            
+
+                        
+
+                    
+
+                    
+鄉
+
+                    
+
+                        
+
+                            
+
+                                
+
+                                            
+"鄉"字連結:
+
+                                            
+林語堂
+
+                                            
+國語辭典
+
+                                            
+中文字譜
+
+                                            
+Unihan
+
+                                                
+康熙字典 #1
+康熙字典 #2
+                                        
+
+                            
+
+                            
+
+                                
+繁
+ 
+簡
+ 
+港
+
+                                
+破音字
+
+                            
+
+                        
+
+                        
+
+                            
+
+                                
+
+                                    
+繁簡對應
+
+                                    
+
+                                        
+
+                                            
+繁
+
+                                            
+ 
+
+                                            
+簡
+
+                                            
+乡
+  
+
+                                        
+
+                                    
+
+                                
+
+                            
+
+                        
+
+                    
+
+                
+
+            
+
+            
+
+                
+
+                    
+
+                        
+UTF-8
+
+                        
+ E9 84 89
+
+                    
+
+                    
+
+                        
+大五碼
+
+                        
+B66D 
+
+                    
+
+                    
+
+                        
+倉頡碼
+
+                        
+女竹戈戈中 
+
+                    
+
+                    
+
+                        
+Matthews
+
+                        
+2556 
+
+                    
+
+                    
+
+                        
+漢語大字典
+
+                        
+
+                            （一版）3786；（二版）4036                             
+                        
+
+                    
+
+                    
+
+                        
+康熙字典
+
+                        
+ 
+
+                    
+
+                
+
+            
+
+            
+
+                
+
+                    
+
+                        
+Unicode
+
+                        
+U+9109
+
+                    
+
+                    
+
+                        
+GB2312
+
+                        
+ 
+
+                    
+
+                    
+
+                        
+四角號碼
+
+                        
+2772.7 
+
+                    
+
+                    
+
+                        
+頻序 A/B
+
+                        
+951 
+
+                        
+827 
+
+                    
+
+                    
+
+                        
+頻次 A/B
+
+                        
+2049 
+
+                        
+1087 
+
+                    
+
+                    
+
+                        
+普通話
+
+                        
+
+                            
+x
+i
+ng
+  
+x
+i
+ng
+  
+x
+i
+ng
+                               
+                        
+
+                    
+
+                
+
+            
+
+        
+
+                    
+
+                
+
+                    
+
+                        
+小篆
+
+                    
+
+                    
+
+                        
+
+                        
+
+                                                            
+
+                                    
+
+                                        
+
+                                            
+
+                                        
+
+                                    
+
+                                
+
+                                
+
+                                    
+
+                                        
+字例:
+ 1/1
+
+                                        
+
+                                    
+
+                                
+
+                                                    
+
+                    
+
+                
+
+                
+
+                    
+
+                        
+金文
+
+                    
+
+                    
+
+                        
+
+                        
+
+                                                            
+
+                                    
+
+                                        
+
+                                            
+                                        
+
+                                    
+
+                                
+
+                                
+
+                                    
+
+                                        
+字例:
+ 12/143
+
+                                        
+
+                                    
+
+                                
+
+                                                    
+
+                    
+
+                
+
+                
+
+                    
+
+                        
+(部件樹)
+
+                    
+
+                    
+
+                        
+
+                        
+
+                            
+
+
+
+var tree953868128c5d3e2e9ea9bb73a322e34e5c0bbb805;
+function pieceTreeInit953868128c5d3e2e9ea9bb73a322e34e5c0bbb805() {
+	var myObj;
+	tree953868128c5d3e2e9ea9bb73a322e34e5c0bbb805 = new YAHOO.widget.TreeView("pieceTree953868128c5d3e2e9ea9bb73a322e34e5c0bbb805");
+	myObj = {label: "<font color='black'>鄉</font>"}
+	var nodec5d3e2e9ea9bb73a322e34e5c0bbb805 = new YAHOO.widget.TextNode(myObj, tree953868128c5d3e2e9ea9bb73a322e34e5c0bbb805.getRoot());
+	myObj = {label: "𠨍", href: "bronzePiece.php?piece=%F0%A0%A8%8D"}
+	var nodee5ed36a8765ad1e3b842992814ec39d3 = new YAHOO.widget.TextNode(myObj, nodec5d3e2e9ea9bb73a322e34e5c0bbb805);
+	myObj = {label: "卩", href: "bronzePiece.php?piece=%E5%8D%A9"}
+	var nodec3571ceb6ea8376acc0bcbd9fb8e5a8c = new YAHOO.widget.TextNode(myObj, nodee5ed36a8765ad1e3b842992814ec39d3);
+	myObj = {label: "人", href: "bronzePiece.php?piece=%E4%BA%BA"}
+	var node465afe3c118589de357745a709c0441f = new YAHOO.widget.TextNode(myObj, nodec3571ceb6ea8376acc0bcbd9fb8e5a8c);
+	myObj = {label: "皀", href: "bronzePiece.php?piece=%E7%9A%80"}
+	var nodec9ffa127ab90f50388c476abcfeb10f6 = new YAHOO.widget.TextNode(myObj, nodec5d3e2e9ea9bb73a322e34e5c0bbb805);
+	tree953868128c5d3e2e9ea9bb73a322e34e5c0bbb805.draw();
+}
+pieceTreeInit953868128c5d3e2e9ea9bb73a322e34e5c0bbb805();
+if (typeof(allTreeObject) != 'undefined') { allTreeObject.push('tree953868128c5d3e2e9ea9bb73a322e34e5c0bbb805'); }
+
+
+                                
+
+                                    
+
+                                        
+其他:
+ 
+食
+                                        
+
+                                    
+
+                                
+
+                                                    
+
+                    
+
+                
+
+                
+
+                    
+
+                        
+甲骨
+
+                    
+
+                    
+
+                        
+
+                        
+
+                                                            
+
+                                    
+
+                                        
+
+                                            
+                                        
+
+                                    
+
+                                
+
+                                
+
+                                    
+
+                                        
+字例:
+ 14/14
+
+                                    
+
+                                
+
+                                                    
+
+                    
+
+                
+
+                
+
+                    
+
+                        
+(部件樹)
+
+                    
+
+                    
+
+                        
+
+                        
+
+                            
+
+
+
+var tree2108170693c5d3e2e9ea9bb73a322e34e5c0bbb805;
+function pieceTreeInit2108170693c5d3e2e9ea9bb73a322e34e5c0bbb805() {
+	var myObj;
+	tree2108170693c5d3e2e9ea9bb73a322e34e5c0bbb805 = new YAHOO.widget.TreeView("pieceTree2108170693c5d3e2e9ea9bb73a322e34e5c0bbb805");
+	myObj = {label: "<font color='black'>鄉</font>"}
+	var nodec5d3e2e9ea9bb73a322e34e5c0bbb805 = new YAHOO.widget.TextNode(myObj, tree2108170693c5d3e2e9ea9bb73a322e34e5c0bbb805.getRoot());
+	myObj = {label: "欠", href: "oraclePiece.php?piece=%E6%AC%A0"}
+	var node8f9d2200a46e328f31f223b3d96cb90e = new YAHOO.widget.TextNode(myObj, nodec5d3e2e9ea9bb73a322e34e5c0bbb805);
+	myObj = {label: "皀", href: "oraclePiece.php?piece=%E7%9A%80"}
+	var nodec9ffa127ab90f50388c476abcfeb10f6 = new YAHOO.widget.TextNode(myObj, nodec5d3e2e9ea9bb73a322e34e5c0bbb805);
+	tree2108170693c5d3e2e9ea9bb73a322e34e5c0bbb805.draw();
+}
+pieceTreeInit2108170693c5d3e2e9ea9bb73a322e34e5c0bbb805();
+if (typeof(allTreeObject) != 'undefined') { allTreeObject.push('tree2108170693c5d3e2e9ea9bb73a322e34e5c0bbb805'); }
+
+
+                                
+
+                                    
+
+                                        
+其他:
+ 
+𠨍
+,
+卩
+,
+丮
+,
+酉
+,
+鼎
+
+                                        
+
+                                    
+
+                                
+
+                                                    
+
+                    
+
+                
+
+                
+
+                    
+
+                        
+簡帛文字
+
+                    
+
+                    
+
+                        
+
+                        
+
+                                                            
+
+                                    
+
+                                        
+
+                                            
+                                        
+
+                                    
+
+                                
+
+                                
+
+                                    
+
+                                        
+字例:
+ 21/21
+
+                                        
+
+                                    
+
+                                
+
+                                                    
+
+                    
+
+                
+
+                
+
+                    
+
+                        
+其他
+
+                    
+
+                    
+
+                        
+
+                        
+
+                                                    
+
+                    
+
+                
+
+            
+
+                    
+
+                                    
+
+                        
+《說文》
+
+                        
+解釋
+
+                        
+部居
+
+                        
+相關異體
+
+                    
+
+                    
+
+                        
+
+                            鄉                        
+
+                        
+
+                            國離邑，民所封鄉也，嗇夫別治。封圻之內六鄉，六鄉治之。从𨛜，皀聲。
+〔許良切〕
+                            
+(136 / 132)
+
+                        
+
+                        
+𨛜
+
+                        
+
+                        
+
+                                                                
+𨞰
+
+                                                                    
+鄕
+
+                                                        
+
+                    
+
+                                            
+
+                    
+
+                
+
+                    
+
+                        
+《廣韻》
+
+                        
+頁碼
+
+                        
+反切
+
+                        
+註解
+
+                    
+
+                                        
+
+                        
+鄉
+
+                        
+172
+
+                        
+許良
+
+                        
+
+                            
+
+                        
+
+                    
+
+                                    
+
+                
+
+                    
+
+                        
+中
+古
+音
+                        
+
+                        
+聲母
+
+                        
+清濁
+
+                        
+部位
+
+                        
+聲調
+
+                        
+韻攝
+
+                        
+韻目
+
+                        
+開合
+
+                        
+等第
+
+                    
+
+                                        
+
+                        
+曉
+
+                        
+全清
+
+                        
+喉
+
+                        
+平
+
+                        
+宕
+
+                        
+
+                            
+陽
+/
+陽
+                        
+
+                        
+開
+
+                        
+三
+
+                    
+
+                                    
+
+            
+
+                    
+
+                                    
+
+                        
+形義通解
+
+                    
+
+                    
+
+                        
+
+                            
+ 略說:
+ 「
+鄉
+」字甲骨從「
+𠨍
+」(兩人相對跪坐)從皀，或從二「
+欠
+」(兩人張口相向)，或從二丮(兩人伸手奉獻祭禱)，「
+皀
+」是盛稻粱的食器，字象兩人相向跪坐，共食一簋。本義為相向共食，引伸為饗宴、饗祀，是「
+饗
+」的初文。引申為家鄉、鄉里。
+
+
+110 字
+
+
+ 詳解:
+ 「
+鄉
+」字甲骨從「
+𠨍
+」(兩人相對跪坐)從皀，或從二「
+欠
+」(兩人張口相向)，或從二丮(兩人伸手奉獻祭禱)，「
+皀
+」是盛稻粱的食器，字象兩人相向跪坐，共食一簋。本義為相向共食，引伸為饗宴、饗祀，是「
+饗
+」的初文；因有相向之意，亦是「
+嚮
+」的初文。參「
+饗
+」、「
+嚮
+」。
+
+
+
+　　表示饗宴之「
+鄉
+」甲骨文有不從皀，而從酉(酒尊)、鼎等，侍奉的物品有異而饗獻之義則一(參金祥恒)。此字，與《說文》、《詩經》所載相合，《詩．七月》「朋酒斯饗」毛傳：「饗，鄉人飲酒也」，不過從「
+皀
+」之饗常用而代替了從酉的饗字而已，從二卩從酉或省作[酉卩]。
+
+
+
+　　金文從𠨍從皀，未見從「
+欠
+」，後期於「
+皀
+」上添「
+亼
+」而從「
+食
+」，而「
+亼
+」正補充「
+欠
+」字張口進食之義。
+
+
+
+　　甲金文用法有二：一，饗宴、饗祀，如卜辭「妣辛鄉」、「大乙祖丁眾鄉」。金文如「用鄉賓客」(曾伯陭壺)、「用敢鄉孝于皇且考」(仲榱父簋)、「以鄉上帝，以祀先王」(中山王壺)，又通「
+享
+」，參「
+享
+」。二，朝向，典籍作「
+鄉
+」、「
+嚮
+」或「
+向
+」，如卜辭「其東鄉，其北鄉」；金文「立中廷，北鄉」(善夫山鼎)。卜辭亦有對敵之意，如「其來，王自鄉(嚮)」。此外，金文還通用作公卿之「
+卿
+」及人名，參「
+卿
+」。
+
+
+
+　　「
+𠨍
+」、「
+鄉
+」、「
+饗
+」、「
+卿
+」古本同源，甲金文通同，皆取義於「
+𠨍
+」，自相向、相對之本義引伸分化出相向就食、饗宴、卿士、鄉邑等義。
+
+
+
+　　「
+鄕
+」小篆作「
+𨞰
+」，《說文》：「𨞰 ，國離邑，民所封鄉也。嗇夫別治。封圻之内六鄉，六鄉治之。从𨛜皀聲。」甲文二「
+欠
+」小篆訛寫成二「
+邑
+」，作「
+𨛜
+」，「
+鄉
+」、「
+饗
+」又音近相假，故有鄉里之訓(參李孝定)。一說「鄉邑」稱「
+鄉
+」，實取義於共食，指共同飲食的氏族聚落(參楊寬)。
+700 字
+相關漢字:
+ 
+𠨍
+,
+欠
+,
+皀
+,
+饗
+,
+嚮
+,
+亼
+,
+食
+,
+享
+,
+向
+,
+卿
+,
+鄕
+,
+𨞰
+,
+邑
+,
+𨛜
+
+                    
+
+                            
+
+                    
+
+            
+
+                
+
+                    
+粵語音節
+
+                    
+&
+ 根據
+
+                    
+同音字
+
+                    
+詞例(
+解釋
+) / 
+備註
+
+                
+
+                                
+
+                    
+
+	phonetic_initial[81] = "h";
+	phonetic_final[81] = "oeng";
+	phonetic_tone[81] = "1";
+	phonetic_mode[81] = "0";
+
+
+                    
+黃
+p43
+
+                    
+周
+p179
+
+                    
+
+                        
+
+                            
+香
+ 
+薌
+ 
+膷
+ 
+
+                    
+
+                    
+
+                        
+
+                            鄉村,故鄉,衣錦還鄉,夢鄉,窮鄉僻壤,離鄉背井,鄉黨鄰里,鄉愿                        
+
+                    
+
+                
+
+                
+
+                    
+李
+p311
+
+                    
+何
+p313
+
+                
+
+                
+
+                    
+
+                    
+
+                        
+HKLS
+                    
+
+                    
+
+                        
+人文
+
+                        
+
+                    
+同聲同韻
+
+                    
+同韻同調
+
+                    
+同聲同調
+
+                    
+
+                
+
+                                
+
+                    
+
+	phonetic_initial[82] = "h";
+	phonetic_final[82] = "oeng";
+	phonetic_tone[82] = "3";
+	phonetic_mode[82] = "0";
+
+
+                    
+黃
+p43
+
+                    
+周
+p179
+
+                    
+
+                        
+
+                            
+向
+ 
+曏
+ 
+𠨍
+ 
+嚮
+ 
+缿
+ 
+蠁
+ 
+姠
+ 
+萫
+ 
+
+                    
+
+                    
+
+                        
+
+                                                    
+
+                    
+
+                
+
+                
+
+                    
+李
+p311
+
+                    
+何
+p313
+
+                
+
+                
+
+                    
+
+                    
+
+                        
+HKLS
+                    
+
+                    
+
+                        
+人文
+
+                        
+
+                    
+同聲同韻
+
+                    
+同韻同調
+
+                    
+同聲同調
+
+                    
+同「
+嚮
+」
+
+                
+
+                            
+
+            
+
+            
+
+                    
+
+                
+
+                    
+其他方言讀音
+
+                
+
+                
+
+                    
+本字庫於「
+鄉
+」字下錄有
+20
+個方言點的讀音
+
+                    
+詳細資料
+
+                
+
+            
+
+                    
+
+                
+
+                    
+《讀史方輿紀要》地名
+
+                
+
+                
+
+                    
+良
+鄉
+縣, 柏
+鄉
+縣, 平
+鄉
+縣, 肥
+鄉
+縣, 寧
+鄉
+巡司…
+
+                    
+ (5/46)
+
+                    
+詳細資料
+
+                
+
+            
+
+                    
+
+                
+
+                    
+成語彙輯
+
+                
+
+                
+
+                    
+窮
+鄉
+僻壤, 背井離
+鄉
+, 衣錦還
+鄉
+, 離
+鄉
+背井, 入
+鄉
+隨俗…
+
+                    
+ (5/101)
+
+                    
+詳細資料
+
+                
+
+            
+
+                    
+
+                
+
+                    
+配搭點:
+
+                
+
+                
+
+                    
+
+                        
+巴
+, 
+窆
+, 
+村
+, 
+錦
+, 
+近
+, 
+故
+, 
+黌
+, 
+畎
+, 
+衣
+, 
+誼
+, 
+譽
+, 
+愿
+, 
+窮
+, 
+閭
+, 
+佬
+, 
+茆
+, 
+閿
+, 
+紳
+, 
+水
+, 
+他
+, 
+還
+, 
+澤
+, 
+原
+, 
+沶
+, 
+氶
+                    
+
+                
+
+            
+
+                    
+
+                
+
+                    
+詞類
+
+                    
+英文意義
+
+                
+
+                                    
+
+                        
+n.
+
+                        
+country
+, 
+countryside
+; 
+village
+; 
+neighbourhood
+; 
+rural
+ 
+area
+; 
+native
+ 
+place
+
+                    
+
+                                    
+
+                        
+v.
+
+                        
+two
+ 
+persons
+ 
+facing
+ 
+each
+ 
+other
+ (
+arch
+.)
+
+                    
+
+                            
+
+                
+
+                
+
+            
+
+                
+瀏覽次數: 23471
+
+                
+
+            
+
+        
+
+
+    
+
+
+
+		
+
+	
+
+
+
+
+
+
+	
+
+		
+
+		
+
+	
+
+	
+
+		
+
+			
+
+				
+新手入門
+
+				
+使用凡例
+
+				
+字庫統計
+
+				
+隨機漢字
+
+				
+最近被搜索的漢字
+
+
+				
+鳴謝
+
+				
+製作單位
+
+				
+私隱政策
+
+				
+免責聲明
+
+				
+意見簿
+
+			
+
+		
+
+		
+（
+管理員
+）
+
+	
+
+	
+
+		
+
+		
+
+			
+
+				
+在線人數： 3282
+
+				
+自 2014 年 7 月 8 日起
+
+				
+瀏覽人數： 85722365
+
+				
+使用次數： 303407223
+
+			
+
+		
+
+	
+
+
+
+
+
+
+	
+
+		var context;
+		var buffer_map = {};
+		function playBuffer(buffer) {
+			if (buffer) {
+				const source = context.createBufferSource();
+				source.buffer = buffer;
+				source.connect(context.destination);
+				source.start();
+			} else {
+				alert('Invalid audio buffer');
+			}
+		}
+		function _playSound( url ) {
+			try {
+				if (context) context.close();
+				context = new (window.AudioContext || window.webkitAudioContext)();
+				if (buffer_map[url]) {
+					playBuffer(buffer_map[url]);
+				} else {
+					const request = new XMLHttpRequest();
+					request.open("GET",url,true);
+					request.responseType = "arraybuffer";
+					request.onload = function() {
+						context.decodeAudioData(request.response, function(buffer) {
+							buffer_map[url] = buffer;
+							playBuffer(buffer_map[url]);
+						});
+					};
+					request.send();
+				}
+			} catch(e) {
+				alert('web audio api not supported');
+			}
+		}
+	
+
+
+
+
+
+	
+
+
+
+

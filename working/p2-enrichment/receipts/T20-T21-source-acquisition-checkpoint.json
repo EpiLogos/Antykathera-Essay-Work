@@ -1,0 +1,320 @@
+{
+  "standing": "Previously retrieved source witnesses retained in their source acquisition shelf. Authority, passage readiness and consumption remain in each SOURCE.md; raw files are not new canonical claims.",
+  "files": [
+    {
+      "path": "working/sources-texts-references/primary-texts/aristotle/ethics.html",
+      "sha256": "85e194fe153bd976f1814c5c876884fa831274dc86ec91c09f55b4f0a6564741",
+      "bytes": 75145
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/aristotle/ethics.txt",
+      "sha256": "94ecaf023c29acd49d2247afef98aedfd14a5dde54ecbad2b08245d96c761afd",
+      "bytes": 54037
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/aristotle/politics.html",
+      "sha256": "3d8b33ed8fb9668ebe7b3b82e23334b0744cafa2fb003a0fac41b08d5070704f",
+      "bytes": 71168
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/aristotle/politics.txt",
+      "sha256": "6ea71262437e521914ea03d70b3d67be2915c276af9878c0e86d77388ec330ff",
+      "bytes": 51077
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/cuhk/xiang.html",
+      "sha256": "8c3d2bda807e34eca0fbd3610a7f330a552bc8b5b15780cfc9be2dc7932d73b9",
+      "bytes": 100271
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/cuhk/xiang.txt",
+      "sha256": "645fa6ed291eca36fa4281fbc9d4d8126bf3795968dfbad0f070cb9fd6706111",
+      "bytes": 35480
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/huayan-wujiao-zhiguan-cbeta/0513a20-0513c18.txt",
+      "sha256": "d7f467501731a510cded9d346cda1d9e823ff4e9efa1f997c0ce598a1cd27f95",
+      "bytes": 4007
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/huayan-wujiao-zhiguan-cbeta/T45n1867.xml",
+      "sha256": "f6b2c5bf6782b5dfc40c71e2b040055c49f68d2a12ffac12ee16a02e13027b85",
+      "bytes": 62032
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/acquisition-manifest.json",
+      "sha256": "3bc5cded88354bbf63335f506aa68efd1c05a1d6a9ddc814f426542bb132670f",
+      "bytes": 228221
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-01.html",
+      "sha256": "cb99e547a4791980ff15092a5650224b245a79a5dc50522e59a17a4dedc14486",
+      "bytes": 35947
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-02.html",
+      "sha256": "fb2c1f439cccc743859d04fb7e21ec10bddf60f6e37ac13a6976295e1b0a2bea",
+      "bytes": 40287
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-03.html",
+      "sha256": "62f8f46dbdfec37ee642db052dd8c6a635535fcb98ce947669fd56384c3bf0d6",
+      "bytes": 58109
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-04.html",
+      "sha256": "96325910c0bdfbdc261b2936066997598c66cd2052a1bb5b9d35158423e74499",
+      "bytes": 41362
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-05.html",
+      "sha256": "f04fcbf072c0d179393f969874ae7d105b1941d3fcd0dd36cef006cd410a48af",
+      "bytes": 39515
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-06.html",
+      "sha256": "3b0e7b127e7799509c4b94ea270f5a20eed50686fce4e133a409b1258501078a",
+      "bytes": 36035
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-07.html",
+      "sha256": "1cb29a8cbcae882d944b75a2263328763df99f42a7e8c1cdfd7395db070c0c8a",
+      "bytes": 36544
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-08.html",
+      "sha256": "9a8cca60567f34082caa47836430743f3ee42821dbf7912fa22eb6f90fa1a730",
+      "bytes": 64572
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-09.html",
+      "sha256": "06f0c9a4b5e7a2874c6494a9a4f14573fc0bf77dbd194c209b53a01a9d1f9d05",
+      "bytes": 35102
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-10.html",
+      "sha256": "371268f6acf017095a6a22f28c18d4a16546ade267bf04fdfdc0ad9978fc0c3c",
+      "bytes": 40256
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-11.html",
+      "sha256": "d6048e446dc38759a7baf6f92fa8d6567c0d7074493872bff98bf3c1885c8ed4",
+      "bytes": 34269
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-12.html",
+      "sha256": "5e3f20bd0bbce8657e22d2317d12cbd8fe1abf747f1b7a58be669de4e5ee346c",
+      "bytes": 32990
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-13.html",
+      "sha256": "8d8d4a1d894f995bc32c6a69f0ce069e40577e2b5d1f5cc398ed840b8df52fc6",
+      "bytes": 41969
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-14.html",
+      "sha256": "b845db976f1d3ddd84501d41f6a6922b74dd45771858f840a7870f46c5be9a69",
+      "bytes": 61928
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-15.html",
+      "sha256": "a3eb29ce8296076b00ccdca223fdda7a53c75fa7198699365e6c60231c4811de",
+      "bytes": 41011
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-16.html",
+      "sha256": "a923cc6406ff173fc4dc28ab6d11b0f816cf2410c775778cf2d731f2aae7eb53",
+      "bytes": 39585
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-17.html",
+      "sha256": "c46fd673218d350af83709c017bfdd0ae31becd8f2addc18f8d958a5d2ce0fd2",
+      "bytes": 26383
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-18.html",
+      "sha256": "bf1a7ac3ba12b9ab365812b437f2d18ddeb89d18d76d618f839e29d22a2e52a6",
+      "bytes": 55095
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-19.html",
+      "sha256": "6660faa30a85dd42e9f9faa0729d3286976b37491bd7a949efaafbdc5766faee",
+      "bytes": 29152
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-20.html",
+      "sha256": "0fa70b191b4aff6c5835ab599f56703d3bbbb77a567e038ed61ce4adf51c4f90",
+      "bytes": 33922
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/chapter-21.html",
+      "sha256": "1cf70e83defd8aec2b51bdf85f3c1fe65034043a1e72a88ff622fd93f5405152",
+      "bytes": 35764
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/irenaeus-1885-against-heresies-book-1/preface.html",
+      "sha256": "617d8da16c503d4e79a4f909e07be843e72167959f7b977cbfea42ed820245a7",
+      "bytes": 36845
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/laozi/legge-gutenberg216.html",
+      "sha256": "49bf65f7ce5b81c7ee404d8afffe81b2ba080bcba52c041ba65cea74a01c3c49",
+      "bytes": 91019
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-001.png",
+      "sha256": "a1432cf8d689314d64ae230081015166f8335c63f3f6a446fa12778db6fc0ecd",
+      "bytes": 44105
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-002.png",
+      "sha256": "b16c364a3930b6e9048539c486ae91475b7acf1aee9898ea197c90478dbcaca1",
+      "bytes": 173575
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-003.png",
+      "sha256": "af5ce975edb55c4ce6980595453bd3afcc299d5aa6febede9fd16fc7024b3159",
+      "bytes": 116386
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-053.png",
+      "sha256": "435b29b175578f96835e564007d249312aa904dcc8c538626f1094ebeae5e2a0",
+      "bytes": 177596
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-054.png",
+      "sha256": "0ba3d2c3a00fb330d896b6ae2eff6f7e374ec0cde34c2d94534def9f4e22f61b",
+      "bytes": 221393
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-055.png",
+      "sha256": "cf31aed96250ef9f202227e6e9ed391dab79724e31f458a726a6077c4b7fbbec",
+      "bytes": 227619
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-056.png",
+      "sha256": "877804965c2c326e3c0bf3d5413204ca63335acf81cd5fdeaf9416aedcff4050",
+      "bytes": 220368
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-057.png",
+      "sha256": "0e3f2b0d7db8b11b2e336a8d7caa42479e292426e01f90e348c9d429ed2fba01",
+      "bytes": 141801
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-058.png",
+      "sha256": "960c57138a6c1b33897b289f53f9afe8420b8f0c9c878cf12728c5d58cd12ea5",
+      "bytes": 232675
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-066.png",
+      "sha256": "998adffba5c2308ef9105e339583dfde20b6b757522743563b91cec6dcbc29e7",
+      "bytes": 215827
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-067.png",
+      "sha256": "174e68ab33bebaed41f721f35313ff78bfd99342614b02e63fd60ad753740ff2",
+      "bytes": 234291
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-068.png",
+      "sha256": "a81e82cd68373f33e98529b5afc51d4ceb5df019852a4f2a23c3238891984546",
+      "bytes": 226354
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-069.png",
+      "sha256": "518c15c1a4a5d6bcb367a39c18e0703b059a9f51fcc20061358972074147d97e",
+      "bytes": 232093
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-070.png",
+      "sha256": "bcae7154519d3e8ed3360578c62a049f6b69789ec95e34ed690a0caa90c6830f",
+      "bytes": 179844
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-071.png",
+      "sha256": "5cb947eed4146f9a425b9a7cef5e36acd48af3ebd02f54d32e802c4b6daf4f7b",
+      "bytes": 213726
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/maturana/ocr/pdf-072.png",
+      "sha256": "c3707f6e0f5822b0569e7beb20972eb14fc4b515375b848bd0d4ae9a7faacee2",
+      "bytes": 235276
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/nag-hammadi/hypostasis-archons-layton.html",
+      "sha256": "46dd906dc6d6ac3ac362b2eb50cf65e6313cb15fd382d42f8a82794a99d8e66f",
+      "bytes": 49076
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/owen/owen-1843-comparative-anatomy/owen.pdf",
+      "sha256": "335ae0d425f2ba241794052b7f66228ceb77fe59dee07ccf35d8ea1c2aa5025b",
+      "bytes": 30434372
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/pauline-corpus/ephesians-sbl-reverse-interlinear/ephesians.pdf",
+      "sha256": "c8a46b30d2a7febb1608140360420b9d411f80033eb2567a64c6b5f2670c4651",
+      "bytes": 411112
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-01.png",
+      "sha256": "3c97bec4a0f53a3c91ca97e79d2c9121d9dbd3dd7736a800c64aea46fc2fcd8b",
+      "bytes": 1048116
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-02.png",
+      "sha256": "2f2a93afd47a271777f2fc489e5bc25deda990379395ab692349f6f083f9d0b2",
+      "bytes": 1160813
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-03.png",
+      "sha256": "d8e73e0c14bc24cdc19facead102169df62da0e25cfb6e59302fcf74fa41adf7",
+      "bytes": 990187
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-04.png",
+      "sha256": "1f4eed7c226939e5e7b59180ea14ee4de1ed09296c7c6d487e8b0adb80a9b6f8",
+      "bytes": 840786
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-05.png",
+      "sha256": "65a02cab477af4f50ef9ee3e95a725384938921f409751c6cc6cacd3df3e73fb",
+      "bytes": 812022
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-06.png",
+      "sha256": "6b63d36c77e251c4e54984d43f1f4f7ea154b7052fa588d8b11b46abb3664169",
+      "bytes": 416072
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-17.png",
+      "sha256": "35cd06009b650a7c71782b2c07764a21d9c3b124f6ba05d7ec1c6d116789b7c3",
+      "bytes": 1378103
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-18.png",
+      "sha256": "66517bf0f1b16da3c88af12f9c27b83a9fac1cb7a3dbfc797269bd3efd81471b",
+      "bytes": 1411961
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-19.png",
+      "sha256": "4c489671fabf4cd2c0254a6795f2539412670d6e6c6af3619ebac3246046e836",
+      "bytes": 1022660
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/csr-ocr/pdf-20.png",
+      "sha256": "45a471aeafcf9349297c5ba26ba01611bd4786f5ba7209322b95e5552e82f6d5",
+      "bytes": 827407
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/systems-counterculture-including-calculus.json",
+      "sha256": "9d123fe64a4e16f07c5068ad8fd9979b5c413567c5b72d78e362f022c3f0038b",
+      "bytes": 6814
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/varela/systems-counterculture-including-calculus.pdf",
+      "sha256": "1af8d92a4b2b8a4eb951e4e17531cd748130dd0cb10832f96542e1de5660cc86",
+      "bytes": 9205976
+    }
+  ]
+}
