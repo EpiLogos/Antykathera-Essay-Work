@@ -1,0 +1,35 @@
+{
+  "passages": [
+    {
+      "source_id": "moe-2021-revised-mandarin-dictionary",
+      "passage_id": "moe-2021-revised-mandarin-dictionary-q001",
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md",
+      "start_line": 27,
+      "end_line": 36,
+      "sha256": "734617236c3a4989baf9cb37317b6c5862b14b603a9f28899238b6d7c30eaeba"
+    },
+    {
+      "source_id": "analects-ctext-legge",
+      "passage_id": "analects-ctext-legge-q001",
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+      "start_line": 29,
+      "end_line": 37,
+      "sha256": "5e62160b60bbddc9b9fe8555b662e99713b92ae74dd52b6eff0c73349592081c"
+    },
+    {
+      "source_id": "analects-ctext-legge",
+      "passage_id": "analects-ctext-legge-q002",
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+      "start_line": 38,
+      "end_line": 47,
+      "sha256": "5e62160b60bbddc9b9fe8555b662e99713b92ae74dd52b6eff0c73349592081c"
+    }
+  ],
+  "source_resolver": "PASS, two unique houses",
+  "passage_anchors": "PASS, three unique anchors",
+  "audit_files_checked": 10,
+  "audit_files_changed": [],
+  "T22_failures": 0,
+  "projection_check": "Source projections current: 3 files.",
+  "quotation_retrieval": "project-agent-harness passage q001 declines retrieval because no quotation block exists; expected for paraphrase-only card. No quotation-ready claim made."
+}

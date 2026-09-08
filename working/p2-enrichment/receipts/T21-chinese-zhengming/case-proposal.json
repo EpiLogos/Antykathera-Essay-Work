@@ -1,0 +1,88 @@
+{
+  "row_id": "E4-comparative",
+  "subcase": "Chinese zhengming",
+  "development_status": "source-case-developed-integration-pending",
+  "field_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+  "branch_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+  "proposed_anchor": "chinese-rectification-of-names",
+  "evidence_register": [
+    2,
+    3
+  ],
+  "source_passages": [
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md#moe-2021-revised-mandarin-dictionary-q001",
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md#analects-ctext-legge-q001",
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md#analects-ctext-legge-q002"
+  ],
+  "operation": [
+    "Symbol answers to source",
+    "Account does not replace source",
+    "Trust keeps the return route active",
+    "Account re-enters source-field"
+  ],
+  "consumers": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "operation": "Keep designated office and actual obligations visible in the account; distinguish valid ratio from universal jurisdiction.",
+      "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source",
+      "status": "proposal-not-written",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "start_line": 93,
+          "end_line": 93,
+          "standing": "current authored return read; proposed Chinese addition not inserted"
+        }
+      ],
+      "observed_sha256": "178651c03d3e8c43c96052b882badd1cad645bfb6bfedb67c788d3fa0048cb60"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "operation": "Distinguish warranted unopposed counsel from bad counsel insulated from correction; do not equate stable standard with immunity.",
+      "return_path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active",
+      "status": "proposal-not-written",
+      "occurrences": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "start_line": 40,
+          "end_line": 40,
+          "standing": "current authored return read; proposed Chinese addition not inserted"
+        }
+      ],
+      "observed_sha256": "c415c376494f93c7b759748d35495bb2e2565d6c2793f2e461182e26086bb261"
+    }
+  ],
+  "remaining_research": [
+    "historical implementation and dated reception",
+    "critical text and manuscript collation",
+    "selected nineteenth-century Legge print edition",
+    "specific Wei succession setting if asserted"
+  ],
+  "coverage_update": "Do not materialise until E4 integration; no claim that all original comparative consumers are closed by this case.",
+  "source_occurrences": [
+    {
+      "source_id": "moe-2021-revised-mandarin-dictionary",
+      "passage_id": "moe-2021-revised-mandarin-dictionary-q001",
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md",
+      "start_line": 27,
+      "end_line": 36,
+      "sha256": "734617236c3a4989baf9cb37317b6c5862b14b603a9f28899238b6d7c30eaeba"
+    },
+    {
+      "source_id": "analects-ctext-legge",
+      "passage_id": "analects-ctext-legge-q001",
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+      "start_line": 29,
+      "end_line": 37,
+      "sha256": "5e62160b60bbddc9b9fe8555b662e99713b92ae74dd52b6eff0c73349592081c"
+    },
+    {
+      "source_id": "analects-ctext-legge",
+      "passage_id": "analects-ctext-legge-q002",
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+      "start_line": 38,
+      "end_line": 47,
+      "sha256": "5e62160b60bbddc9b9fe8555b662e99713b92ae74dd52b6eff0c73349592081c"
+    }
+  ]
+}

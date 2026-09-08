@@ -1,0 +1,12 @@
+{
+  "working/p2-enrichment/T21-e-field-consumer-coverage.json": "51bf91fb3759808639611f0a1a76dcb71b7db39c215fa5eac4805e948a8ce300",
+  "working/p2-enrichment/audits/T21-current-reconciliation/audit-checks.json": "195f27a6e21cd881a2a7f0e6333763febd84227c4859849548536a497174cf42",
+  "working/p2-enrichment/audits/T21-current-reconciliation/reconciliation-findings.json": "1e0408dcb4022351b61104f6be2ed33429d8aea09b573fa793e57f9296363cda",
+  "working/p2-enrichment/audits/T21-current-reconciliation/bounded-audit-before-completion.json": "39b98de7beb9b39bf0e2e3eb028e967aeb0cc020aa845b4f4aa164a3a9b99761",
+  "working/p2-enrichment/audits/T21-current-reconciliation/CHECKPOINT.json": "93bf550e37a53f8481f8f20b48d8013dbd0db9f88b48183855441028900a44b6",
+  "working/p2-enrichment/audits/T21-current-reconciliation/current-row-audit.json": "108464c66c843f3428584cd8ffa6c3d0f211603148920c3419d3fe2710ce9e46",
+  "working/p2-enrichment/audits/T21-current-reconciliation/current-fragment-locators.json": "3fe220cfc31eb1673f5ef513c1156eeccbfaad93193df28ec5cd6a49e3cc29bd",
+  "working/p2-enrichment/audits/T21-current-reconciliation/conjugate-reuse-check.json": "1fcebffb025a8eda87e431f6e5df740f8ff7edb8aaf7605cb24b4166499406c6",
+  "working/p2-enrichment/audits/T21-current-reconciliation/proposed-row-updates.json": "dd8b356d0ec149f5f9e50de2cad70718841063a10f44d628a52ae9c85f013cf2",
+  "working/p2-enrichment/audits/T21-current-reconciliation/lexical-source-paths.json": "78fa6a188987030708a1b9d239bb09a3c82bfd5c8cabe3227ed26110abc93510"
+}

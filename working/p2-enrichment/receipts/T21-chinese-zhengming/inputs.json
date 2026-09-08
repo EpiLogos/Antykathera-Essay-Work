@@ -1,0 +1,35 @@
+{
+  "programme": {
+    "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+    "start_line": 34,
+    "end_line": 47
+  },
+  "raw_files": [
+    {
+      "path": "working/sources-texts-references/primary-texts/chinese-zhengming/analects-zi-lu.html",
+      "sha256": "9713a6352136cd20456a5de29b60501630e3d94da9e07fe53a5cd4799850f9cd"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/chinese-zhengming/analects-selected-passages.txt",
+      "sha256": "07f600123bb19ee15b64717e2ba981b7c7fb0d9d401fdfd71ab732cb87b143cc"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/chinese-zhengming/moe-zhengming.html",
+      "sha256": "fe49758b015d5babdfd0741e6a14d3f8b6a87e4ad0cef631fdac085d5272e545"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/chinese-zhengming/analects-legge-ethz.pdf",
+      "sha256": "71fa241ff2fcd5e75077fa78088eb99e55632b6224b80227b867e1cd1d24a912"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/chinese-zhengming/moe-zhengming-web-witness.txt",
+      "sha256": "8489167fdc0f47e574ededf548e87028d333acd961158e7a12439c175f29d26d"
+    }
+  ],
+  "new_sources": [
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md"
+  ],
+  "notes": "New houses; no pre-existing NOTES or SOURCE overwritten. Existing source IDs checked via resolver before creation.",
+  "scope": "Chinese case only; E4 integration and all consumer mutations delegated to parent."
+}

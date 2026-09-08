@@ -1,0 +1,15 @@
+# T22 Chinese rectification-of-names source batch — release
+
+Completed 2026-09-08. Ready for Laplace's E4 integration; no Git staging or index operations performed.
+
+Two new canonical houses landed: `moe-2021-revised-mandarin-dictionary` (q001: actual Ministry entry 正名, both senses) and `analects-ctext-legge` (q001: complete received 13.3; q002: complete 13.15). Three passage anchors resolve in two unique source houses. Selected Chinese and Legge columns were read; the supplementary ETH English passage was checked without adopting its contradictory title-page metadata. No full-Analects, ancient speech-date, institutional implementation or exact print-edition claim is made.
+
+`CASE-PROPOSAL.md` supplies the substantive E4 insertion and distinct A15/C27 consumer proposals; `case-proposal.json` supplies exact paths, operations, return anchors and current source occurrences. All four E4 generated operations retain their own standing. The lexical and received-text acquisitions are completed. Critical edition, actual implementation, dated reception and a specific Wei succession interpretation remain research, not missing proof of what the selected received passages say.
+
+Effects were captured before source writing. Scoped two-target T22 hygiene reports **0 failures**. Source projections report **current, 3 files**; this agent did not rebuild or edit shared projections. Resolver identities and three explicit passage anchors were independently checked. `project-agent-harness passage` does not render the paraphrase-only q001 as a quotation: it returns “passage has no quotation block.” This is recorded, and no quotation readiness is claimed. Global doctor debt is retained in the hygiene output and is not presented as batch failure or repaired here.
+
+The Ministry shell download lacks definitions. The lexical evidence is the actual web-rendered entry, with a short clearly labelled witness saved separately; the acquisition ledger records the failed Python SSL attempt and subsequent recovery. CText HTML contains the actual complete selected Chinese/English passages; the extracted text is a raw locator, and SOURCE.md remains canonical evidence. The ETH PDF is supplementary, not a silently substituted print edition.
+
+`verification.json` records preservation checks for the original crosswalk and all snapshotted final-audit JSON files. None changed. No E/A/C/M, HISTORY, NOTES, shared census, queue or matrix was written. `owned-files.json` inventories landed source/raw/private files and hashes before this release receipt.
+
+Parent actions: review and insert the Chinese case in E4's companion with `chinese-rectification-of-names`; select the proposed whole-field return; assign any accepted A15/C27 returns; then update only the Chinese subcase in E4-comparative from acquisition-open to developed received-text comparison with actual integrated fragments. Do not close other languages or all listed comparative consumers from this batch. All proposed canonical consumer/E4 edits remain unapplied here.

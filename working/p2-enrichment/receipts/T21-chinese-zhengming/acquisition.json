@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=117543&la=0&powerMode=0",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1081)>"
+  },
+  {
+    "path": "working/sources-texts-references/primary-texts/chinese-zhengming/analects-zi-lu.html",
+    "url": "https://ctext.org/analects/zi-lu",
+    "bytes": 139549,
+    "sha256": "9713a6352136cd20456a5de29b60501630e3d94da9e07fe53a5cd4799850f9cd"
+  },
+  {
+    "path": "working/sources-texts-references/primary-texts/chinese-zhengming/analects-legge-ethz.pdf",
+    "url": "https://metis.ethz.ch/wp-content/uploads/2023/03/The-Analects_Confucius_EnglishLegge.pdf",
+    "bytes": 817681,
+    "sha256": "71fa241ff2fcd5e75077fa78088eb99e55632b6224b80227b867e1cd1d24a912"
+  },
+  {
+    "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=117543&la=0&powerMode=0",
+    "recovery": "curl succeeded but downloaded page shell only; full entry read via web open. Short labelled web witness saved separately.",
+    "path": "working/sources-texts-references/primary-texts/chinese-zhengming/moe-zhengming-web-witness.txt"
+  }
+]

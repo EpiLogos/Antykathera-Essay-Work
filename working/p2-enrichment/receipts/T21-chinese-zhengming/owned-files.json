@@ -1,0 +1,74 @@
+[
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md",
+    "sha256": "734617236c3a4989baf9cb37317b6c5862b14b603a9f28899238b6d7c30eaeba"
+  },
+  {
+    "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+    "sha256": "5e62160b60bbddc9b9fe8555b662e99713b92ae74dd52b6eff0c73349592081c"
+  },
+  {
+    "path": "working/sources-texts-references/primary-texts/chinese-zhengming/analects-legge-ethz.pdf",
+    "sha256": "71fa241ff2fcd5e75077fa78088eb99e55632b6224b80227b867e1cd1d24a912"
+  },
+  {
+    "path": "working/sources-texts-references/primary-texts/chinese-zhengming/analects-selected-passages.txt",
+    "sha256": "07f600123bb19ee15b64717e2ba981b7c7fb0d9d401fdfd71ab732cb87b143cc"
+  },
+  {
+    "path": "working/sources-texts-references/primary-texts/chinese-zhengming/analects-zi-lu.html",
+    "sha256": "9713a6352136cd20456a5de29b60501630e3d94da9e07fe53a5cd4799850f9cd"
+  },
+  {
+    "path": "working/sources-texts-references/primary-texts/chinese-zhengming/moe-zhengming-web-witness.txt",
+    "sha256": "8489167fdc0f47e574ededf548e87028d333acd961158e7a12439c175f29d26d"
+  },
+  {
+    "path": "working/sources-texts-references/primary-texts/chinese-zhengming/moe-zhengming.html",
+    "sha256": "fe49758b015d5babdfd0741e6a14d3f8b6a87e4ad0cef631fdac085d5272e545"
+  },
+  {
+    "path": "working/p2-enrichment/receipts/T21-chinese-zhengming/CASE-PROPOSAL.md",
+    "sha256": "7400e3c7861cda1f0068ecbbde5ea5ca1ac8e8d1dfc19a99e6f707de2fcabda6"
+  },
+  {
+    "path": "working/p2-enrichment/receipts/T21-chinese-zhengming/T22-hygiene.json",
+    "sha256": "953f2f05e7619ae5de637e6d955bcbcf3c10f1ebbcc95ca958b8a7c76608a29f"
+  },
+  {
+    "path": "working/p2-enrichment/receipts/T21-chinese-zhengming/acquisition.json",
+    "sha256": "851d38af6e1ae76a28579d5f5dfb168150680c8ccc18adad2dd0e4f76ab9c222"
+  },
+  {
+    "path": "working/p2-enrichment/receipts/T21-chinese-zhengming/audit-preservation-before.json",
+    "sha256": "7fa3fc043e5c86a83c210e9976195b8d8f2b4bc66a8ce103b836b5e60a989dba"
+  },
+  {
+    "path": "working/p2-enrichment/receipts/T21-chinese-zhengming/case-proposal.json",
+    "sha256": "d82e93238279586140c425377d5b6eb70ffd39590a3f13f66c1def21bdc124c9"
+  },
+  {
+    "path": "working/p2-enrichment/receipts/T21-chinese-zhengming/effects-before.json",
+    "sha256": "de28d121e2f2aa1585967e0bb6d92cbef7b05966ef78e84b0f43240a62ccc547"
+  },
+  {
+    "path": "working/p2-enrichment/receipts/T21-chinese-zhengming/inputs.json",
+    "sha256": "01e9ada2431e73a4f88814eed827ff1477ef60b109eb9c9f549a1c91b9f49de5"
+  },
+  {
+    "path": "working/p2-enrichment/receipts/T21-chinese-zhengming/intake.json",
+    "sha256": "f1f1be8afc924410fde6e2f28012974631e02a5f6a6a5df6e5feecb4565112f0"
+  },
+  {
+    "path": "working/p2-enrichment/receipts/T21-chinese-zhengming/projection-check.txt",
+    "sha256": "8af48f7af2de53a05186d9faad1b0517aed7f4b47c5b2bcd3dd48012c8aea342"
+  },
+  {
+    "path": "working/p2-enrichment/receipts/T21-chinese-zhengming/q001-retrieval.json",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "working/p2-enrichment/receipts/T21-chinese-zhengming/verification.json",
+    "sha256": "95731174e0065df4588cfafde7714790939491f6ccfb75e94c35253ed04c7f1e"
+  }
+]
