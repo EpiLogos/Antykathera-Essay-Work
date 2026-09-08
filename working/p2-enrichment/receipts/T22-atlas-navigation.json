@@ -1,0 +1,210 @@
+{
+  "standing": "Navigation over actual existing whole bodies; not semantic completion certification",
+  "whole_count": 25,
+  "whole_rows": [
+    {
+      "path": "submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md",
+      "id": "mytheme-neumann-images",
+      "title": "Neumann images and plate relations",
+      "sha256": "018e6d46b9f31756469f9aca6ca143757f55185ca6b093673f47b6474e7a91a3",
+      "world": "neumann-images"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md",
+      "id": "mytheme-uroboros-trickster",
+      "title": "Uroboros, circulation and trickster",
+      "sha256": "5b9d018134af9bd01be2f1c5d9bb2af4f89568fed65650579deddab09d77a64b",
+      "world": "uroboros-trickster"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md",
+      "id": "mytheme-narrative-jung-aion-fishes-christ-antichrist-alchemy",
+      "title": "Jung's Aion — Self, Christ/Antichrist, Fishes, Alchemy, and the Historical Shadow",
+      "sha256": "7abe84069734e88bb597cb693269dde6c887e8ee9fda47659bd7ee43bf90c188",
+      "world": "analytical-psychology"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md",
+      "id": "mytheme-pauli-egg-dream",
+      "title": "Pauli's egg dream — spontaneous division, conscious participation and the circle",
+      "sha256": "844688172e3ceedb7b29cbc316ab942a7c6ef2b8b3359e97f947c1e9fbc14fa9",
+      "world": "analytical-psychology"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md",
+      "id": "mytheme-job",
+      "title": "Job",
+      "sha256": "0db8bced14174a2a15048385a40643d275076eeebbdeaa3848cbfdb72868ccc9",
+      "world": "biblical"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md",
+      "id": "mytheme-the-prisoner",
+      "title": "The Prisoner — Number Six, the changing Two, and the question of One",
+      "sha256": "1d3b11444a4a79bb778b93d17604e2d0d8f909c8872b2761ae9ff36374707c07",
+      "world": "british-television"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/indra-net/WHOLE.md",
+      "id": "mytheme-indra-net",
+      "title": "Indra’s jewel net — the whole within each reflection",
+      "sha256": "a8b35f4e88bfc1a06456ad512adc72cc0969f1397fb7f6139bc8788cd4a9ba1e",
+      "world": "chinese-huayan"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md",
+      "id": "mytheme-narrative-fanon-language-gaze-mask-recognition",
+      "title": "Fanon — Language, White Gaze, Racialised Body, Mask, and Recognition",
+      "sha256": "a7609c652d7e6eba7edcbd43f5f74291d28f0ae0fe345d4f6ed646bb55eead82",
+      "world": "francophone-anticolonial"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md",
+      "id": "mytheme-antikythera-attunement",
+      "title": "Antikythera as Attunement Instrument",
+      "sha256": "c7140d70bf131da9c0135b3e18d4a45234711f12d71a39a323c9336b292336df",
+      "world": "frank-taylor"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md",
+      "id": "mytheme-apollo-dionysus-daphne",
+      "title": "Apollo, Dionysus and Daphne",
+      "sha256": "aed5b63dce5c2dd5c3d1302fcfbc56f9c02a649ba62da50e350cbcd10aabed5c",
+      "world": "frank-taylor"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md",
+      "id": "mytheme-avatar-image-mask-idol",
+      "title": "Avatar · image · mask · idol",
+      "sha256": "0eddb350ab1f475bd9c898f2f127ab33eb47b375cdb839b1004a37613caac71e",
+      "world": "frank-taylor"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md",
+      "id": "mytheme-maya-eye-veil-frame-horizon",
+      "title": "Māyā — Eye, Veil, Frame, Horizon",
+      "sha256": "f50f92ae34794ebdaa0313d5b1e92ffd69a1b665acfdcff9e82b21b199fc1352",
+      "world": "frank-taylor"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/meal-epistemic-metabolism/WHOLE.md",
+      "id": "mytheme-meal-epistemic-metabolism",
+      "title": "The Meal — Epistemic Metabolism and the Shared Table",
+      "sha256": "8af5938eca8cce3917effabe3a02444d7261a91f7fd8d7050f19d5f0a1d266f0",
+      "world": "frank-taylor"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md",
+      "id": "mytheme-mirror-that-moves-first",
+      "title": "The Mirror That Moves First",
+      "sha256": "03bf3fb7b74e2ee2079f5ddfe77540421b4ade8b356a2eb6a50aa0b0abefa2bc",
+      "world": "frank-taylor"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md",
+      "id": "mytheme-mother-assumption-chiasm",
+      "title": "Mother, Assumption and chiasm",
+      "sha256": "5cd88d42db9c28ad568a53f91618fd0a1a5fa11be961c47e222531ab767add3c",
+      "world": "frank-taylor"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md",
+      "id": "mytheme-stained-glass-refraction",
+      "title": "Stained Glass — Originating Light, Spectrum, Panes, Seams, and Returning Recognition",
+      "sha256": "f93496b2e626890f0fd9d84cf7a90156bc532a07d748d5da65841702a3cb509e",
+      "world": "frank-taylor"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md",
+      "id": "mytheme-taylor-authored-images",
+      "title": "Taylor — Poetry and Authored Images",
+      "sha256": "b4a1b3a8193e4b453df67057a7b79b5166d64f52b15dec7a57f4b43e237a07b3",
+      "world": "frank-taylor"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md",
+      "id": "mytheme-travelling-jigsaw-atlas",
+      "title": "The travelling jigsaw — from box-lid to atlas",
+      "sha256": "c141e5f85381fa846428068023bd19d007c891ee49248b2bd936e28358058995",
+      "world": "frank-taylor"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md",
+      "id": "mytheme-goethe-permanence-change",
+      "title": "Goethe — Permanence in Change",
+      "sha256": "532c4b27a5b051c490f84e581266059c925105eb5cd31690791a9e5e265f1e7a",
+      "world": "german-literature"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md",
+      "id": "mytheme-ares-aphrodite-hephaestus-poseidon",
+      "title": "Ares, Aphrodite, Harmonia, Eros, Hephaestus and Poseidon — the whole relation",
+      "sha256": "b41b556514a41fd21854ddbf70ff8c03c1523eb478b1444f71563b62b3cf334c",
+      "world": "hellenic"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/hellenic/attica-athena-poseidon-cecrops/WHOLE.md",
+      "id": "mytheme-myth-attica-athena-poseidon-cecrops",
+      "title": "Attica — Athena, Poseidon, Cecrops, Olive, Sea, Verdict, and the Remembered Counter-Claim",
+      "sha256": "68aa4168cf423d9744c74aff43a75ce47d090ca5af699bb5325149086b56e3a5",
+      "world": "hellenic"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md",
+      "id": "mytheme-myth-hypostasis-archons-norea-sophia",
+      "title": "The Hypostasis of the Archons — Sophia, Veil, Rulers, Adam, Norea, Eleleth, and the Root Above",
+      "sha256": "717a244db92c860cebeab5cb275ac3a9b5cf8595f6de0e1343295eacf28b4fcd",
+      "world": "late-antique-gnostic"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/valentinian-sophia-horos-achamoth/WHOLE.md",
+      "id": "mytheme-valentinian-sophia-horos-achamoth",
+      "title": "Valentinian Sophia, Horos, Achamoth and Soter",
+      "sha256": "fd39f4553cd2e9843013d06c8373bec63525768502c1c75d8a80b8a78c9e4526",
+      "world": "late-antique-gnostic"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md",
+      "id": "mytheme-apollo-eros-daphne-peneus",
+      "title": "Apollo · Eros/Cupid · Daphne · Peneus",
+      "sha256": "f4837d9f88f1d663677b36aff002ea6e49752dafa23390c6c7006e7ca00ba4a9",
+      "world": "roman-latin"
+    },
+    {
+      "path": "submission-package/essay/symbolon/mytheme/worlds/roman-latin/eros-psyche/WHOLE.md",
+      "id": "mytheme-eros-psyche",
+      "title": "Eros and Psyche",
+      "sha256": "2a7c31a84f8a560505023641513926b4c17858c7543ebdd4fd3de4eaeaf60ef6",
+      "world": "roman-latin"
+    }
+  ],
+  "written": [
+    "submission-package/essay/symbolon/mytheme/worlds/hellenic/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/roman-latin/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/biblical/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/german-literature/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/british-television/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/README.md",
+    "submission-package/essay/symbolon/mytheme/atlas/geography/README.md",
+    "submission-package/essay/symbolon/mytheme/atlas/temporality/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/README.md",
+    "submission-package/essay/symbolon/mytheme/atlas/README.md",
+    "submission-package/essay/symbolon/episteme/atlas/README.md",
+    "submission-package/essay/symbolon/mytheme/README.md"
+  ],
+  "root_before_sha256": "20e220d9d9b35ac86584b154219ce263a4077b4ecb10229787ef22417f3be825",
+  "geography_temporality_distinct": true,
+  "hygiene": {
+    "path": "working/p2-enrichment/receipts/T22-atlas-hygiene.json",
+    "targets": 16,
+    "failures": 0
+  },
+  "concurrent_whole_changes": [
+    "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/pauli-egg-dream/WHOLE.md",
+    "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md"
+  ]
+}

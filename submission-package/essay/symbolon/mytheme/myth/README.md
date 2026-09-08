@@ -20,9 +20,9 @@ Every **project interpretation** attached to those wholes or later indexes carri
 
 ## Worked whole-record exemplars
 
-[[attica-athena-poseidon-cecrops/WHOLE|Attica — Athena, Poseidon, Cecrops, Olive, Sea, Verdict, and the Remembered Counter-Claim]] is the first record to instantiate the full form, including relation-local human-amplification state.
+[[submission-package/essay/symbolon/mytheme/worlds/hellenic/attica-athena-poseidon-cecrops/WHOLE|Attica — Athena, Poseidon, Cecrops, Olive, Sea, Verdict, and the Remembered Counter-Claim]] is the first record to instantiate the full form, including relation-local human-amplification state.
 
-[[hypostasis-archons-norea-sophia/WHOLE|The Hypostasis of the Archons — Sophia, Veil, Rulers, Adam, Norea, Eleleth, and the Root Above]] is the first source-first cosmological whole admitted specifically to resolve Native 020's layered-cosmos / firmament / archons seam. It preserves the veil-divided cosmology, derivative rulers, human drama, Norea's refusal and Eleleth's revelation before any modern QL, political or technical amplification is allowed to propagate.
+[[submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE|The Hypostasis of the Archons — Sophia, Veil, Rulers, Adam, Norea, Eleleth, and the Root Above]] is the first source-first cosmological whole admitted specifically to resolve Native 020's layered-cosmos / firmament / archons seam. It preserves the veil-divided cosmology, derivative rulers, human drama, Norea's refusal and Eleleth's revelation before any modern QL, political or technical amplification is allowed to propagate.
 
 The operational form is:
 

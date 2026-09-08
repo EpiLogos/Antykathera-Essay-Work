@@ -1,0 +1,90 @@
+{
+  "relations": [
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "forward": true,
+      "reverse": true
+    },
+    {
+      "consumer": "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+      "forward": true,
+      "reverse": true
+    }
+  ],
+  "bilateral": 16,
+  "expected": 16,
+  "protected_count": 150,
+  "protected_changes": [],
+  "hygiene_failures": 0,
+  "standing": "Current whole-to-consumer closure; E4 handled separately; root Symbolon proposal remains unapplied to preserve T17\u2013T19."
+}
