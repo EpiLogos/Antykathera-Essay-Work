@@ -1,0 +1,20 @@
+test_doctor_clears_canonical_source_and_room_integrity_debts (tests.test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_doctor_clears_canonical_source_and_room_integrity_debts) ... FAIL
+test_every_passage_projection_fragment_resolves_to_the_canonical_house (tests.test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_every_passage_projection_fragment_resolves_to_the_canonical_house) ... ok
+test_human_and_agent_route_from_section_to_movement_passage_and_reading (tests.test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_human_and_agent_route_from_section_to_movement_passage_and_reading) ... ok
+test_main_sources_are_generated_by_section_and_link_only_canonical_houses (tests.test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_main_sources_are_generated_by_section_and_link_only_canonical_houses) ... ok
+test_projection_check_marks_all_human_views_stale_after_a_real_source_change (tests.test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_projection_check_marks_all_human_views_stale_after_a_real_source_change) ... ok
+test_curation_is_current_and_covers_every_section (tests.test_main_source_relations.MainSourceRelationTests.test_curation_is_current_and_covers_every_section) ... ok
+
+======================================================================
+FAIL: test_doctor_clears_canonical_source_and_room_integrity_debts (tests.test_source_projections_and_retrieval.SourceProjectionAndRetrievalTests.test_doctor_clears_canonical_source_and_room_integrity_debts)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/admin/Central/Work/O-I/Antykathera-Essay-Work/tests/test_source_projections_and_retrieval.py", line 123, in test_doctor_clears_canonical_source_and_room_integrity_debts
+    self.assertTrue(forbidden.isdisjoint(doctor["debt_counts"]), doctor["debt_counts"])
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: False is not true : {'dangling-room-fragment': 3, 'missing-register': 70, 'missing-status': 1, 'stale-bkmr-adapter': 156, 'thin-concept': 65, 'unresolved-link': 54}
+
+----------------------------------------------------------------------
+Ran 6 tests in 21.577s
+
+FAILED (failures=1)

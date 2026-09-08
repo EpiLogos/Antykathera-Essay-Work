@@ -1,0 +1,84 @@
+{
+  "lane-hisab": {
+    "url": "https://www.laneslexicon.com/word/%D8%AD%D8%B3%D8%A7%D8%A8/n7949",
+    "local_copy": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/lane-hisab.html",
+    "sha256": "8647b78c088119d2a498d58436d593aaf9666b01d436f68785100bbdc92bf639",
+    "bytes": 18387,
+    "status": 200
+  },
+  "lane-ahsa": {
+    "url": "https://www.laneslexicon.com/word/%D8%A7%D8%AD%D8%B5%D8%A7%D9%87",
+    "local_copy": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/lane-ahsa.html",
+    "sha256": "58b932f99731182d5a5f6f94754dc759098b40dd15235bdc6ddb39c1c108acc0",
+    "bytes": 17600,
+    "status": 200
+  },
+  "quran-17-12": {
+    "url": "https://corpus.quran.com/translation.jsp?chapter=17&verse=12",
+    "local_copy": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/quran-17-12.html",
+    "sha256": "9cb25615cf50d37243cd0dab4bb7b189a34c6f86e5b1c714e1ce9da1a7b8b1d6",
+    "bytes": 22656,
+    "status": 200
+  },
+  "quran-17-13": {
+    "url": "https://corpus.quran.com/translation.jsp?chapter=17&verse=13",
+    "local_copy": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/quran-17-13.html",
+    "sha256": "2792a2849c631d12feffcc26f03dbb891ba3180ded2ecfc7e0e0700465e55f93",
+    "bytes": 21660,
+    "status": 200
+  },
+  "quran-17-14": {
+    "url": "https://corpus.quran.com/translation.jsp?chapter=17&verse=14",
+    "local_copy": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/quran-17-14.html",
+    "sha256": "6b9fb42b65af04802a236ffa167e90feac473b1cc5897536d84ad33a31c84c06",
+    "bytes": 21209,
+    "status": 200
+  },
+  "quran-17-15": {
+    "url": "https://corpus.quran.com/translation.jsp?chapter=17&verse=15",
+    "local_copy": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/quran-17-15.html",
+    "sha256": "5b70e316988f55e4b733597938d8a953814e2cdf505453885aea1fcb4e11e81d",
+    "bytes": 22144,
+    "status": 200
+  },
+  "quran-7-180": {
+    "url": "https://corpus.quran.com/translation.jsp?chapter=7&verse=180",
+    "local_copy": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/quran-7-180.html",
+    "sha256": "1df83fbe5d8f2b52b1832220f997764dccf574fefc5929eff8edb35dd753aaac",
+    "bytes": 25825,
+    "status": 200
+  },
+  "bukhari-7392": {
+    "url": "https://sunnah.com/bukhari:7392",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "bukhari-about": {
+    "url": "https://sunnah.com/bukhari/about",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "tla-rn-94700": {
+    "url": "https://thesaurus-linguae-aegyptiae.de/lemma/94700",
+    "local_copy": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/tla-rn-94700.html",
+    "sha256": "3b3ebaba6492c2d5222741268cc58a8f4473c3f25a9d4afaa76ef644a25a7586",
+    "bytes": 384877,
+    "status": 200
+  },
+  "reri-wa-museum": {
+    "url": "https://museum.wa.gov.au/whats-on/afterlife/curators-introduction/papyrus-of-reri",
+    "local_copy": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/reri-wa-museum.html",
+    "sha256": "504819741522f53dc825d26bf2fc803fc6a4969a6ef0ae4b24d2d9855b8f2ce7",
+    "bytes": 42277,
+    "status": 200
+  },
+  "reri-bm-EA75044-4": {
+    "url": "https://www.britishmuseum.org/collection/object/Y_EA75044-4",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "quran-hsb": {
+    "url": "https://corpus.quran.com/qurandictionary.jsp?q=Hsb",
+    "local_copy": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/quran-hsb.html",
+    "sha256": "fe48a1540a849967167698a76070cda97173e65960ca28067bca2f06e5a8801e",
+    "bytes": 53952,
+    "status": 200
+  }
+}

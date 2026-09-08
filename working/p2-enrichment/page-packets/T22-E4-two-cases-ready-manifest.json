@@ -1,0 +1,113 @@
+{
+  "status": "Unstaged; scoped source T22 zero; pending Laplace integration and explicit index grant",
+  "paths": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/lane/lane-arabic-english-lexicon-online/SOURCE.md",
+      "sha256": "c6e149cf88b0386d01497d2148068400c88ea09e8117a80c16479c38d7a22ac5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/quran/quran-arberry-corpus-selected/SOURCE.md",
+      "sha256": "b1eda9b5720346caa657c8631e7f46a050a0bc1036df91301313c12ffb6f3e10"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/al-bukhari/bukhari-sahih-sunnah-online/SOURCE.md",
+      "sha256": "be0d20d91a9449ec472168d166f4ac8be87ad97f2488176b7f361f4a660fa200"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/tla/tla-hieroglyphic-hieratic-lexicon/SOURCE.md",
+      "sha256": "182191175f2420784d78b3408f00dc2ba26b74743272826cf06842c534d3a90e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/religion-theology/reri/reri-ptolemaic-funerary-papyrus/SOURCE.md",
+      "sha256": "e68f3770d7e94ff369622c169ec936d4a1a5c838184daa2f12623b13f0b00ff1"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/quran-17-15.html",
+      "sha256": "5b70e316988f55e4b733597938d8a953814e2cdf505453885aea1fcb4e11e81d"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/bukhari-bm-web-retrieval.json",
+      "sha256": "7e519baa5d195a752f69b2763ce7f94604f801ea6c4d6d35c678563ba0170731"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/quran-17-14.html",
+      "sha256": "6b9fb42b65af04802a236ffa167e90feac473b1cc5897536d84ad33a31c84c06"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/reri-bm-search-indexed-record.json",
+      "sha256": "50af4eb9ca45a4c1d421cdf3604d163cb684307e33f4a8fb7234e7028425be81"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/quran-17-13.html",
+      "sha256": "2792a2849c631d12feffcc26f03dbb891ba3180ded2ecfc7e0e0700465e55f93"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/retrieval-manifest.json",
+      "sha256": "26af8b8c96bf05116e14564e5e27ef7274f11e4738bfaa866a67519f39ef197c"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/quran-17-12.html",
+      "sha256": "9cb25615cf50d37243cd0dab4bb7b189a34c6f86e5b1c714e1ce9da1a7b8b1d6"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/lane-ahsa.html",
+      "sha256": "58b932f99731182d5a5f6f94754dc759098b40dd15235bdc6ddb39c1c108acc0"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/quran-7-180.html",
+      "sha256": "1df83fbe5d8f2b52b1832220f997764dccf574fefc5929eff8edb35dd753aaac"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/quran-hsb.html",
+      "sha256": "fe48a1540a849967167698a76070cda97173e65960ca28067bca2f06e5a8801e"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/tla-rn-94700.html",
+      "sha256": "3b3ebaba6492c2d5222741268cc58a8f4473c3f25a9d4afaa76ef644a25a7586"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/lane-hisab.html",
+      "sha256": "8647b78c088119d2a498d58436d593aaf9666b01d436f68785100bbdc92bf639"
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-arabic-egyptian-2026-09-08/reri-wa-museum.html",
+      "sha256": "504819741522f53dc825d26bf2fc803fc6a4969a6ef0ae4b24d2d9855b8f2ce7"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-E4-two-cases-programme.json",
+      "sha256": "b69d3eed2d5802f44e98dc08e9b6c9b99a554ad35171728a8b15c81c66539948"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-E4-two-cases-effects-before.json",
+      "sha256": "de28d121e2f2aa1585967e0bb6d92cbef7b05966ef78e84b0f43240a62ccc547"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-E4-two-cases-source-manifest.json",
+      "sha256": "f4d2562c25e9d6efda257d25444f4c5a0d4c3c6394ca27dfee2b9ece7236cad8"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-E4-Arabic-case-proposal.md",
+      "sha256": "06b2108a9fc4243f8b86683fee09c3653035d52b70cff3db3c38794e7800fe3b"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-E4-Egyptian-case-proposal.md",
+      "sha256": "f6405d4c4470a2f821462865f5b6ac9cf90b2a83b0249c1f7dc8207f424929c1"
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-E4-two-cases-integration-proposals.json",
+      "sha256": "fb0e690848ef37b56d603d846cc32fa26bc60e05f776309c4bdd21e09d3d329e"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-two-cases-source-hygiene.json",
+      "sha256": "3ba92f13bc50aa5b95b0259ec5794b0de0702b77e755d1c766266e231eb7f86f"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-two-cases-source-tests.txt",
+      "sha256": "b7737e5612077ccffa5e29adc23adb2ddbcda6b1496023ef3df4252f82d074b0"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-two-cases-completion-2026-09-08.md",
+      "sha256": "ff364456de5193620e63122d55573cb9390e057093815ad0b4c7120c8577a262"
+    }
+  ]
+}

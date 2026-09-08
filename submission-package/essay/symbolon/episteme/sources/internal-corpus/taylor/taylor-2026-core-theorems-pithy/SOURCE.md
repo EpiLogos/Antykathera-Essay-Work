@@ -91,7 +91,7 @@ This file carries what the essay itself derives. External sources are mapped to 
 | CT-05 | Objective-internal instruments remain objectifiable functions; their accumulation leaves the subject-pole unobjectified. | [[Objective Internality]]; [[Agent Subjectivity Must Remain Open]] |
 | CT-06 | Computational process ontology names rule-governed transformation across fields; digital-machine reductionism is a narrower thesis. | [[Computational Process Ontology]] |
 | CT-07 | Division requires recomposition; atomisation is arrested dia. | [[Sym-Ballein]]; [[Computational Process Ontology]] |
-| CT-08 | §VII base claim: the Psyche is an equation; `X = x` holds Self and ego in identity-as-difference. | [[Prakāśa-Vimarśa]]; [[Individuation-Recognition]] |
+| CT-08 | §VII base claim: the Psyche is an equation; `X = x` holds Self and ego in identity-as-difference. | [[Prakāśa-Vimarśa]]; [Individuation-Recognition](../../../../concepts/C34-Individuation.md) |
 | CT-09 | §VII agentic crosswalk and its guard: persona consistency can conceal dependence; phenomenal subjectivity is not inferred from technical structure. | [[Objective Internality]]; [[Objective Co-Internality]] |
 | CT-10 | §VIII topological register: `ℝ²/ℤ²`; the slash *is* the quotient; the covering map as māyā. | [[Arche-Topos as Differential Field]]; [[Toroidal Circulation and the Arche-Topos]] |
 | CT-11 | §IX recognition-matheme: the slash as the antaḥkaraṇa's signature; the crossed-zero sixfold `0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 ↺ 0/1`. | [[Immutable Gap and Meta-Sign]]; A/C root (proposed) |
@@ -118,7 +118,7 @@ Read the full linked theorem text before using an excerpt card. The routing entr
 - **Status:** extracted internal derivation, verbatim.
 - **Source relation:** extracted.
 - **Argument function:** the `X/x` determination's psyche-register ground — the authorial notation the Jungian reading refracts, never owns.
-- **Consumers:** [[Prakāśa-Vimarśa]]; [[Individuation-Recognition]].
+- **Consumers:** [[Prakāśa-Vimarśa]]; [Individuation-Recognition](../../../../concepts/C34-Individuation.md).
 
 <a id="taylor-2026-core-theorems-pithy-ct09"></a>
 ### CT-09 — §VII, agentic crosswalk and its guard (lines 420–434)
