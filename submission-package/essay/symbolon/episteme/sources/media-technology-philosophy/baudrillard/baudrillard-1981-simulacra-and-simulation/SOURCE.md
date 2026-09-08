@@ -5,18 +5,18 @@ source_role:
 - continental-power-theory
 citation_style: chicago-notes-bibliography-18
 metadata_status: verified-identity
-edition_status: needed
-citation_status: intake
-quote_status: no-excerpts
-chicago_ready: false
+edition_status: selected-Glaser-reflow-print-collation-open
+citation_status: citation-ready
+quote_status: source-matched-paraphrases
+chicago_ready: true
 author:
 - Jean Baudrillard
-title_full: 'Simulacra and Simulation (Simulacres et simulation)'
+title_full: Simulacra and Simulation (Simulacres et simulation)
 publisher: University of Michigan Press
 year: 1981
 translator: Sheila Faria Glaser
 url: https://press.umich.edu/Books/S/Simulacra-and-Simulation
-accessed: '2026-08-02'
+accessed: ' 2026-09-08'
 consumed_by_sections: []
 consumed_by_arguments: []
 tags:
@@ -32,50 +32,88 @@ ownership: canonical-source-house
 schema_version: 1
 passage_surface: '#passages'
 main_source_for: []
+consumed_by_lenses:
+- lens-baudrillard
+register: episteme
+local_copy: working/p2-enrichment/raw/T21-baudrillard/simulacra-glaser.pdf
 ---
 # Baudrillard — Simulacra and Simulation (1981)
 
 ## Bibliographic identity
 
-*Simulacres et simulation*, first published by Éditions Galilée, Paris, 1981. English translation by Sheila Faria Glaser, published by University of Michigan Press, 1994. (An earlier partial English selection, *Simulations*, appeared from Semiotext(e) in 1983.) The full translation identity is recorded here from the publisher record and the standard bibliography (Wikipedia articles "Jean Baudrillard" and "Simulacra and Simulation," fetched 2026-08-02); no printed copy of the selected English edition has been collated yet.
+French original: *Simulacres et simulation* (Paris: Galilée, 1981). English selected translation: Sheila Faria Glaser, University of Michigan Press, 1994, corroborated by the [publisher](https://doi.org/10.3998/MPUB.9904). The [locally acquired carrier](https://tanami.org/pub/docs/Baudrillard-Simulacra_and_Simulation.pdf) is a 108-file-page reflow. Its cover was visually inspected and identifies Glaser and Michigan; it lacks a consulted copyright leaf and original page layout. **The text is matched to the Glaser translation; the physical printing and printed locators remain uncollated.** Xenotheka's institutional PDF/TXT links returned 401; its advertised object was not inspected. The 1983 *Simulations* selection is a different object.
 
-## Chicago 18 forms
+**Full note:** Jean Baudrillard, *Simulacra and Simulation*, trans. Sheila Faria Glaser (Ann Arbor: University of Michigan Press, 1994), “The Precession of Simulacra,” consulted digital reflow, file pp.3–6.
 
-**Full note:** Jean Baudrillard, *Simulacra and Simulation*, trans. Sheila Faria Glaser (Ann Arbor: University of Michigan Press, 1994), {page}.
-
-**Shortened note:** Baudrillard, *Simulacra and Simulation*, {page}.
+**Shortened note:** Baudrillard, *Simulacra and Simulation*, chapter and reflow file page.
 
 **Bibliography:** Baudrillard, Jean. *Simulacra and Simulation*. Translated by Sheila Faria Glaser. Ann Arbor: University of Michigan Press, 1994.
 
 ## Source scholarship
 
-The central text of Baudrillard's theory of the hyperreal. Its load-bearing concepts:
+Baudrillard reverses the map/territory fable and then says even the inverted fable is inadequate: simulation threatens the difference that made representation possible. That is stronger than a model merely influencing an independently described event. The text's four image phases distinguish faithful reference, distortion, concealed absence and simulation without a referential relation. The last phase's two printed clauses belong together; reflow does not create a fifth phase.
 
-- **The precession of simulacra.** Borges's map that precedes and generates the territory: the model precedes and produces the real it claims to represent. The territory is no longer the referent of the map; the map generates the territory.
-- **The four successive phases of the image** (the stages of the sign, per the standard exposition): (1) the faithful copy — the sign as "reflection of a profound reality," the sacramental order; (2) the perversion — the sign that "masks and denatures" reality, the order of maleficence; (3) the sign that masks the *absence* of a profound reality — "a copy with no original," the order of sorcery, a regime of semantic algebra in which meaning is conjured to appear as reference; (4) the pure simulacrum — no relation to any reality whatsoever, signs reflecting only other signs, "a regime of total equivalency," the hyperreal.
-- **The three historical orders of simulacra.** First order (premodern): the counterfeit — the unique object standing for the natural. Second order (industrial modernity): production — mass reproducibility collapses representation into reproduction. Third order (contemporary): simulation — the code, the model, generating the real.
-- **The hyperreal.** "All is composed of references with no referents." The real is not abolished; it is produced — the "more real than real" generated by the models.
-- **The film *The Matrix*** carried a copy of *Simulacra and Simulation* as a prop; Baudrillard disavowed the film's use of his concepts (standard biographical note).
+This is a cultural-theoretical lens. A forecast's causal influence neither verifies its truth nor establishes Baudrillard's diagnosis at the scale of an entire society. Iconoclastic and ethnological examples in the chapter are source claims requiring their own historical tests.
 
-Scholarly status: the book is the canonical carrier of Baudrillard's terminology and the usual citation target of "simulation" in media theory. Critiques (Norris, *Uncritical Theory*; Kellner's Frankfurt-school line) reject the media-theory and the account of the real out of hand; Poster's editor's critique of the failure to define key terms applies. Rex Butler's *The Defence of the Real* (1999) argues the corpus is best read as a defence of the real: simulation is only intelligible if the real is presupposed, and Baudrillard's recurring structure (simulation/seduction/doubling) is a critique that must participate in what it critiques. These gates are recorded for any use.
+<a id="passages"></a>
+## Passages
 
-## Argument relations (candidate — for the harmonisation pass to weigh)
+<a id="baudrillard-1981-simulacra-and-simulation-q001"></a>
+## Passage card — `baudrillard-1981-simulacra-and-simulation-q001` — Map inversion and its limit
 
-- **The four phases ↔ the four falls of 0/1 (candidate mapping).** Phase 1 (sacramental): the mark bears its ground — 0/1 carried, the symbol as the whole relation including the slash. Phase 2 (maleficence): the slash struck — dia-ballein fallen; sign and referent opposed, the excluded ground returning as threat (the scapegoat, the enemy). Phase 3 (sorcery): the 0 deleted while the 1 performs the absence — "a copy with no original," provenance erased, the pratibimba that has forgotten it is a reflection; the map precedes the territory; prapañca sealed (x promoted to X). Phase 4 (pure simulacrum): even the deletion is forgotten — signs reflecting signs, total equivalency, a counterfeit 0 occupying the ground. *This mapping is proposed for testing against the actual text at harmonisation; it is not this session's decision to adopt it.*
-- **"Copy with no original" ↔ the Śaiva mirror argument (the half-truth to be weighed).** Abhinavagupta's mirror (per Dyczkowski, already in the source bank): there is no original outside the mirror of Consciousness. Baudrillard's third phase says the same negative — there is no original — and stops there. The Śaiva completion would be: the reflection is the Original's own self-display; the simulacrum's error is not the absence of an original but the forgetting that it is a reflection-of. Whether the essay reads Baudrillard's diagnosis at full strength and answers it with recognition, or reads the fourth phase as itself the final occlusion (apoha: the negation of the relation still presupposes the relation), is a harmonisation decision, not made here.
-- **Precession of simulacra ↔ the Agentworld relays.** The existing simulation concept node (nodes/concepts/simulation.md) already carries the technical form: "the membrane between simulation and simulated perforates... real-to-sim-to-real-to-sim-to-real" (Bratton brief p. 25); Q9's "simulation as political force"; "Matryoshka realities nested inside one another." Baudrillard is a candidate metaphysical escalation of the same relay — the simulation that governs the field it claims to describe. The concept node's existing answer — "a simulation is a pratibimba whose bimba, gauge, exclusions, and permissions must be disclosed" — is the essay's response in place; Baudrillard's relation to it is to be decided at harmonisation.
-- **Hyperreal ↔ sealed prapañca.** The Buddhist-prapañca thread's contracted failure (a generated x silently promoted to X, provenance erased, the basin deepening on its own issue) is a candidate formal neighbour of the hyperreal: signs reflecting signs because the chain to any ground has been severed. *Neighbour, not identity.*
-- **The image's four phases as the itinerary of the fallen accounting.** Candidate structural join with the notation ruling (terms that carry their ground compose; terms stripped of their ground cancel): each phase is one more stripping, culminating in the counterfeit zero of phase 4 — the fallen accounting (−1)+(+1)=0 completed as a finished regime rather than a transient cancellation.
+**Paraphrase:** The model precedes what it ostensibly depicts; Baudrillard reverses the fable and then exceeds its map/territory distinction. The inversion belongs to his argument, not Borges’s original telling.
 
-## Passage needs (leads — no quotation text)
+- **Locator:** The Precession of Simulacra, reflow file p.3 through opening p.4.
+- **Status:** source-matched paraphrase; not quotation-ready.
+- **Verification:** Acquired primary reflow read; cover visually inspected; printed pagination uncollated; consulted 2026-09-08.
+- **Source relation:** Paraphrased.
+- **Evidential action:** establishes this work's theoretical formulation, not an empirical finding or native QL derivation.
+- **Consumers:** Baudrillard lens; exact downstream proposals remain with T22.
 
-- **Lead q001 — the precession of simulacra (Borges map).** Locator: chapter "The Precession of Simulacra," opening pages (English ed. pp. 1–3 region). Function: the map preceding the territory; the model generating the real. **Status: unverified — lead only.**
-- **Lead q002 — the four phases of the image.** Locator: "The Precession of Simulacra" chapter, standard stages-of-the-sign passage. Function: the four phases as the candidate four falls of 0/1. **Status: unverified — lead only.**
-- **Lead q003 — the hyperreal / references with no referents.** Locator: "The Precession of Simulacra" chapter, hyperreal passage. Function: total equivalency; the regime of the code. **Status: unverified — lead only.**
-- **Lead q004 — the orders of simulacra (counterfeit/production/simulation).** Locator: the orders passage, possibly spanning *Symbolic Exchange and Death* and this book. Function: the historical itinerary of the sign's severance. **Status: unverified — lead only.**
+<a id="baudrillard-1981-simulacra-and-simulation-q002"></a>
+## Passage card — `baudrillard-1981-simulacra-and-simulation-q002` — Four phases of the image
+
+**Paraphrase:** The four relations are disclosure, distortion, concealment of absent reference and a simulacrum without reference. They are distinct from the three historical orders.
+
+- **Locator:** The Divine Irreference of Images, reflow file pp.4–6, phases on p.6.
+- **Status:** source-matched paraphrase; not quotation-ready.
+- **Verification:** Whole selected subsection read; four cases confirmed by subsequent explanatory paragraph; consulted 2026-09-08.
+- **Source relation:** Paraphrased.
+- **Evidential action:** establishes this work's theoretical formulation, not an empirical finding or native QL derivation.
+- **Consumers:** Baudrillard lens; exact downstream proposals remain with T22.
+
+<a id="baudrillard-1981-simulacra-and-simulation-q003"></a>
+## Passage card — `baudrillard-1981-simulacra-and-simulation-q003` — Hyperreal operational production
+
+**Paraphrase:** Models produce an operational real through combinatory control rather than merely copying an independently guaranteed original.
+
+- **Locator:** Precession opening, reflow file pp.3–4.
+- **Status:** source-matched paraphrase; not quotation-ready.
+- **Verification:** Primary reflow read; no blanket empirical or ontological conclusion adopted; consulted 2026-09-08.
+- **Source relation:** Paraphrased.
+- **Evidential action:** establishes this work's theoretical formulation, not an empirical finding or native QL derivation.
+- **Consumers:** Baudrillard lens; exact downstream proposals remain with T22.
+
+<a id="baudrillard-1981-simulacra-and-simulation-q004"></a>
+## Passage card — `baudrillard-1981-simulacra-and-simulation-q004` — Historical orders source return
+
+**Disposition:** The counterfeit/production/simulation genealogy is sourced separately in Symbolic Exchange and Death q002. It is not a second name for the image-phase list.
+
+- **Locator:** Cross-work locator: baudrillard-1976-symbolic-exchange-death-q002.
+- **Status:** withdrawn attribution / cross-work disposition; not a passage from this book.
+- **Verification:** Selected passages compared; no invented page in this book; consulted 2026-09-08.
+- **Source relation:** Editorial correction; destination passage separately paraphrased.
+- **Evidential action:** preserves the supersession route; establishes no passage claim in this book.
+- **Consumers:** Baudrillard lens; exact downstream proposals remain with T22.
+
+## Essay uses
+
+This source **sources** the [Baudrillard lens](../../../../lenses/baudrillard.md), which compares the selected operation with E4 Account/source return. A20/A24/A32 and C27/C33/C38/C55 retain their native derivations. These are lens proposals, not newly propagated consumer edges.
+
+## Superseded intake and retained research
+
+Four phases/four falls remains **unratified**, including the proposed reverse itinerary. The Śaiva completion and sealed-prapañca comparisons remain Offered, with no claim that Baudrillard stopped at an equivalent Sanskrit doctrine. *The Matrix* anecdote and Butler/Poster/Norris/Kellner/Wolin reception leads remain unverified at their separate sources. No mathematical cohomology argument is established by this book.
 
 ## Open acquisition and verification
 
-1. Acquire the selected English edition (University of Michigan Press, 1994) by lawful means; collate the printed pages against the leads; record exact locators and wording before quotation. (Note the 1983 Semiotext(e) *Simulations* selection is a different object and must not be conflated with the full 1994 translation.)
-2. At harmonisation, test the four-phases ↔ four-falls mapping against the actual wording of the stages passage before deciding its status (structural vs. resonant).
-3. Resolve whether the *Matrix* disavowal belongs in the essay at all — the satsang (mRf0KYs1sT4) reports the film "completely misunderstood" the book, which matches the standard biographical record; the essay's use of the anecdote, if any, is a harmonisation decision.
+Collate the selected Glaser text against a paginated 1994 scan and verify any exact quotation. The acquired whole file is not a full-book reading claim: this batch read the opening and Divine Irreference subsection (file pp.3–6), plus surrounding Ramses discussion through p.9 as context. Institutional Xenotheka access and historical case verification remain open.

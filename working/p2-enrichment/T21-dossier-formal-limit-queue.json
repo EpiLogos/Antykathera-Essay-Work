@@ -1,0 +1,1954 @@
+{
+  "schema_version": 1,
+  "status": "reconciled",
+  "standing": "Identity and discovery census reconciled. This is not a claim that all target inputs or pages are complete. The packet command rejects each target until its required recovered inputs are bound.",
+  "census": "working/p2-enrichment/T21-dossier-formal-limit-census.json",
+  "census_sha256": "6a702c1d0895791e87e0d705b9304f724c68bd0c9f3b8332dd9b765c571183e4",
+  "discovery_dispositions": "working/p2-enrichment/intake-dispositions.json",
+  "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+  "elements": [
+    {
+      "record_id": "dossier-formal-limit",
+      "title": "Formal Limit — source-specific limits and their consequences",
+      "register": "episteme",
+      "record_type": "dossier",
+      "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+      "wave": "T21",
+      "disposition": "materialise-admitted",
+      "authority": [
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#6-episteme-structural-census",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md#9-episteme--final-pre-t07-structural-census"
+      ],
+      "packet_status": "single-target-authorized-current-inputs-bound",
+      "binding_state": "fresh-private-binding",
+      "dispatch_status": "user-authorized-dossier-only",
+      "argument_depth": [
+        "A01",
+        "A03",
+        "A23",
+        "A26"
+      ],
+      "source_houses": [
+        "submission-package/essay/symbolon/episteme/sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/mathematics-logic/whitehead/whitehead-russell-1910-1913-principia/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/mathematics-logic/raatikainen/raatikainen-2026-godel-incompleteness-sep/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1922-tractatus/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1953-philosophical-investigations/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+        "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md"
+      ],
+      "register_contract": "submission-package/essay/symbolon/episteme/README.md",
+      "register_contract_domain": "submission-package/essay/symbolon/episteme/dossiers/README.md",
+      "direct_carriers": [
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+        "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+        "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+        "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+        "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md"
+      ],
+      "additional_required_inputs": [
+        "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+        "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+        "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+        "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+        "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+        "submission-package/essay/symbolon/episteme/aphorisms/investigation-and-faith.md",
+        "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+        "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+        "submission-package/essay/symbolon/episteme/concepts/reference-notes/blind-spot-frank-gleiser-thompson.md",
+        "submission-package/essay/symbolon/episteme/concepts/reference-notes/file-one-definitional.md",
+        "submission-package/essay/symbolon/episteme/concepts/reference-notes/godel-incompleteness.md",
+        "submission-package/essay/symbolon/episteme/concepts/reference-notes/meister-eckhart-dialectical-apophaticism.md",
+        "submission-package/essay/symbolon/episteme/concepts/reference-notes/nicholas-of-cusa-learned-ignorance-sphere.md",
+        "submission-package/essay/symbolon/episteme/concepts/reference-notes/russell-paradox-type-theory.md",
+        "submission-package/essay/symbolon/episteme/concepts/reference-notes/wittgenstein-limit-silence-forms-of-life.md",
+        "working/p2-enrichment/T21-record-input-locators.json",
+        "working/p2-enrichment/reference-note-dispositions.json",
+        "working/p2-enrichment/legacy-carrier-dispositions.json",
+        "working/p2-enrichment/T21-e-field-consumer-coverage.json",
+        "working/p2-enrichment/receipts/T21-history-home-migration.json",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md",
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md"
+      ],
+      "source_slices": [
+        {
+          "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+          "start_line": 137,
+          "end_line": 151,
+          "relation": "grounds",
+          "provenance": "Direct native performed definition; cross-source universal claims not adopted as external evidence."
+        },
+        {
+          "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+          "start_line": 3438,
+          "end_line": 3463,
+          "relation": "grounds",
+          "provenance": "Developmental trust/slash distinction; source-bound comparison is authored here."
+        },
+        {
+          "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+          "start_line": 90,
+          "end_line": 94,
+          "relation": "qualifies",
+          "provenance": "Retain native operation; withdraw unrestricted Gödel wording from external attribution."
+        }
+      ],
+      "relations": [
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "relation": "returns-to",
+          "operation": "Performed definition keeps its source active through predication."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "relation": "returns-to",
+          "operation": "Specific formal boundary distinguished from recurrent determining-act gap."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "relation": "returns-to",
+          "operation": "Inquiry determines claims; commitment continues through non-possession."
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "relation": "returns-to",
+          "operation": "Worldhood keeps the conditions of an operative account consequential."
+        }
+      ],
+      "effects_before": [
+        {
+          "source_id": "russell-1908-theory-types",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "264678e936e9f57f0bec5c11e68b2c29e2239d7f2e48cd52569aa8c5819d62f8",
+          "direct_consumers": {
+            "sections": [
+              {
+                "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+                "sha256": "744c5b62c6a63ff314ae5a414bb21e283dec4a15be8f295335e5927672b94889"
+              }
+            ],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+                "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+                "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+                "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+              }
+            ],
+            "concepts": [],
+            "paths": []
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        },
+        {
+          "source_id": "whitehead-russell-1910-1913-principia",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "ba02fbac94ae4c09cdbf87aef9692d1ad3306abaedfe55e39ad9c0b494d60bc0",
+          "direct_consumers": {
+            "sections": [],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+                "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+                "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+              }
+            ],
+            "concepts": [],
+            "paths": []
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        },
+        {
+          "source_id": "godel-1931-undecidable-propositions",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "9d8af269d2a8d49db9074be95c2c75b0c964e7ee579f4da1cf16c924696f231f",
+          "direct_consumers": {
+            "sections": [
+              {
+                "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+                "sha256": "744c5b62c6a63ff314ae5a414bb21e283dec4a15be8f295335e5927672b94889"
+              }
+            ],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+                "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+                "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+                "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+              }
+            ],
+            "concepts": [],
+            "paths": []
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        },
+        {
+          "source_id": "raatikainen-2026-godel-incompleteness-sep",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "097c668b2d2dd558080393a31e2d61cc8de4fe302f1388748499f0b9083fb4ee",
+          "direct_consumers": {
+            "sections": [
+              {
+                "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+                "sha256": "744c5b62c6a63ff314ae5a414bb21e283dec4a15be8f295335e5927672b94889"
+              }
+            ],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+                "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+                "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+              }
+            ],
+            "concepts": [],
+            "paths": []
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        },
+        {
+          "source_id": "wittgenstein-1922-tractatus",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "b3c144f58dcb212928dbbefb75a5a7d9a4f33764be94bf1de56895269247465d",
+          "direct_consumers": {
+            "sections": [
+              {
+                "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+                "sha256": "744c5b62c6a63ff314ae5a414bb21e283dec4a15be8f295335e5927672b94889"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md",
+                "sha256": "689701edc6bf379956dee2092b6da0efb77ff193e732cee2a7c1b70426b8bb4a"
+              }
+            ],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+                "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+                "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+              }
+            ],
+            "concepts": [],
+            "paths": []
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        },
+        {
+          "source_id": "wittgenstein-1953-philosophical-investigations",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "9d736a24e32a9f76a2c060012140c5c5fafd15ae2a97ed2810892f3766bd8ec6",
+          "direct_consumers": {
+            "sections": [],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+                "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+                "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+                "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+              }
+            ],
+            "concepts": [],
+            "paths": []
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        },
+        {
+          "source_id": "cusa-on-learned-ignorance",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "280883f07f9fe03bf6a4c6df2de635f96b8caef6ef1a58252d253316291f297b",
+          "direct_consumers": {
+            "sections": [
+              {
+                "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+                "sha256": "7cce7c32115763fef755dcfb97f5673f4983c3ff7669384acddd221112820610"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md",
+                "sha256": "689701edc6bf379956dee2092b6da0efb77ff193e732cee2a7c1b70426b8bb4a"
+              }
+            ],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+                "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md",
+                "sha256": "ce2d15aaee82d1ec8cf37b788bc448e4fdbe4c4f4f24c3b4b46c4857a360e3c0"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+                "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+              }
+            ],
+            "concepts": [],
+            "paths": []
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        },
+        {
+          "source_id": "flasch-2015-meister-eckhart",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "1ca696a054b5815b1b2dcccc9bfa8ec792ba29380235aff7eca32edabf3c1795",
+          "direct_consumers": {
+            "sections": [],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+                "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/10-vak.md",
+                "sha256": "f94c032895d9b6d3ae3d6b1b76370a63f25ceefb706d4a9544afbe53dceb4e90"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+                "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+              }
+            ],
+            "concepts": [],
+            "paths": []
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        },
+        {
+          "source_id": "frank-gleiser-thompson-2024-blind-spot",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "1fbf56a9520b72a92ed2307d82f9ffdb107c92594764153801dc56155e246654",
+          "direct_consumers": {
+            "sections": [],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+                "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+                "sha256": "00960586e342337c1be2bccc8c104f3d853450b08ab8834c0317b9bf7295273f"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+                "sha256": "5a8cef977eb57819d5de1d7f4e55edc79eaada64666fe61ef1ab6f69d8bdc120"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+                "sha256": "d4bbf861af1efba4eb7b945267edd58fe39b0d0af9ae2f3083a4610dd5edd4c3"
+              }
+            ],
+            "concepts": [],
+            "paths": []
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        },
+        {
+          "source_id": "spencer-brown-1969-laws-form",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "8c5a69302de547df3bc42b0af14054374403240eaef64cfe987980175c969eff",
+          "direct_consumers": {
+            "sections": [],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+                "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+                "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+                "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f"
+              }
+            ],
+            "concepts": [],
+            "paths": []
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        },
+        {
+          "source_id": "varela-1975-calculus-self-reference",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "0bc6a085a3db67450ced55aefd804ce0ddbba33c9d7ab9553ffe16f82eaedb8c",
+          "direct_consumers": {
+            "sections": [],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+                "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+                "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+                "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f"
+              }
+            ],
+            "concepts": [],
+            "paths": []
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        },
+        {
+          "source_id": "whitehead-1978-process-reality",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "5f5fee774e9342c93cf04b49221878ae95ec7045884a4b6dc60d10b84ff89fd6",
+          "direct_consumers": {
+            "sections": [],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+                "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+                "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f"
+              }
+            ],
+            "concepts": [],
+            "paths": []
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        },
+        {
+          "source_id": "taylor-2026-core-theorems-pithy",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+          "direct_consumers": {
+            "sections": [],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+                "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+                "sha256": "00960586e342337c1be2bccc8c104f3d853450b08ab8834c0317b9bf7295273f"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+                "sha256": "f4cbb6e897260bfd207908561c275b0b0ab482d30a0e649fba1589babbfbb75c"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md",
+                "sha256": "ce2d15aaee82d1ec8cf37b788bc448e4fdbe4c4f4f24c3b4b46c4857a360e3c0"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+                "sha256": "5a8cef977eb57819d5de1d7f4e55edc79eaada64666fe61ef1ab6f69d8bdc120"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+                "sha256": "5c3604afc7745daba68fefb0794110f42c0004eaabfed7339a779110100d45a9"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/09-prakasa-vimarsa.md",
+                "sha256": "415374f85efcebd6ac9a30ef5000eb5e80634627d5a0d988be5a969bdf418bba"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/10-vak.md",
+                "sha256": "f94c032895d9b6d3ae3d6b1b76370a63f25ceefb706d4a9544afbe53dceb4e90"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/11-mono-poly-whole-and-many.md",
+                "sha256": "6e7991915d8e4d2f4d165b1e7bba99ff11a8ebecd2f0002b067bd27804fa8250"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+                "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/13-tattvic-differential-field.md",
+                "sha256": "20fb22d2e6b664681d943a2152fbdbf6653265307a33be6ef23cfa12d9e75040"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+                "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+                "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/16-bohmian-enfoldment-dialogical-return.md",
+                "sha256": "33cf6435240277d5f92f64d94b35de399728fa5a01c24eed89869ec80522d5e2"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/17-toroidal-circulation-arche-topos.md",
+                "sha256": "ef5327f6bb40c95e50749c8e96b1159583eb7d04a9a5ebd3d34df80ee65d0e68"
+              }
+            ],
+            "concepts": [
+              {
+                "path": "submission-package/essay/symbolon/episteme/concepts/prompt-thrownness.md",
+                "sha256": "f8f14404e74e9646ffce70e53a8dc2287cd96612012023f92c9876e1beb982cc"
+              }
+            ],
+            "paths": []
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        },
+        {
+          "source_id": "taylor-2026-definition-god-draft3",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "e1c980917e9590d952a597ffdb8975aae5f94a845b77180035c84a1f8f7188ee",
+          "direct_consumers": {
+            "sections": [
+              {
+                "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+                "sha256": "8f8ef1039afd1b857063f40ff2304f771537d6228074ca40353e207d2b9bec6a"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md",
+                "sha256": "ac5a8177f84fa64110dccfc2dffc72dc48e5a9c2d7b3a9b821f87a90d8c1a68f"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+                "sha256": "744c5b62c6a63ff314ae5a414bb21e283dec4a15be8f295335e5927672b94889"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md",
+                "sha256": "689701edc6bf379956dee2092b6da0efb77ff193e732cee2a7c1b70426b8bb4a"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+                "sha256": "25d377b648eacedddb884fc0868839789ad2b48f0cf9d55fe926720c66123772"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+                "sha256": "7bf4c255bad0e6bbf13b5c335403509c7bfcdc7e68a2feeb3ce8fb979b6ecd89"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+                "sha256": "ee4b1990d968c41b5e3cf918cddff166793d15acefe1f530fc01d96828201673"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+                "sha256": "ab7a524fbd0de2a6aa8961479fc4f2f0eeff50a0255d6240db58bd4c5f953951"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+                "sha256": "18215cb965679b58a6ac7ae1c40d0aad701facb20aae068ddd9d72f715dab492"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+                "sha256": "c4981486cd221f63bdfc0ae8ce710c7cc83913e05969c1855cdb4b3fcd7481c6"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md",
+                "sha256": "59cec4a039a3fc569a646425544ad83e3c8d61b44768751591b9077cfe56b55a"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md",
+                "sha256": "9fb68717ceaeb5f4e66d45ed851f7955e5620026bb0282d4e6c4d443f2e7f579"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+                "sha256": "c05b2ac275dcd43234fb28361155794497da11add9be6d6a4c39cc366dcbe5f8"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+                "sha256": "6ae47467c64d0aa50b75f0b2ae2f4aab4da8011ec016f0561c61fd5b48497988"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md",
+                "sha256": "67f78fa14df60b56f0fceada5ce483e8adc0a2c56d770b3512cce5d551d003a7"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md",
+                "sha256": "cb82a23c16923123031ab558716d7dd72bf3904f82723d26cc868c0f99314d19"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+                "sha256": "448800b09b3b8d29ce42db880ef7d669c22eee4a8eb47996103ebe866a95233b"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+                "sha256": "fa02096de71367eac9e318c4f77ac004d8eab94dd0df18b2f86bcc03733ca5c9"
+              }
+            ],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+                "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+                "sha256": "f4cbb6e897260bfd207908561c275b0b0ab482d30a0e649fba1589babbfbb75c"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md",
+                "sha256": "ce2d15aaee82d1ec8cf37b788bc448e4fdbe4c4f4f24c3b4b46c4857a360e3c0"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+                "sha256": "5c3604afc7745daba68fefb0794110f42c0004eaabfed7339a779110100d45a9"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/07-hephaestus-and-the-net.md",
+                "sha256": "ac37fbaf289da275c1b721cc3e246c72ff45dab9b2dda44a32d0d34c9cfdb393"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+                "sha256": "d4bbf861af1efba4eb7b945267edd58fe39b0d0af9ae2f3083a4610dd5edd4c3"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/10-vak.md",
+                "sha256": "f94c032895d9b6d3ae3d6b1b76370a63f25ceefb706d4a9544afbe53dceb4e90"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+                "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+                "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/17-toroidal-circulation-arche-topos.md",
+                "sha256": "ef5327f6bb40c95e50749c8e96b1159583eb7d04a9a5ebd3d34df80ee65d0e68"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+                "sha256": "228538fffb57d2c80ccf21f2fb2c63b1287b70c3c240cd2f371a4762a27c0921"
+              }
+            ],
+            "concepts": [],
+            "paths": []
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        },
+        {
+          "source_id": "taylor-2026-revision-notes-trust",
+          "exit_code": 0,
+          "method": "declared canonical graph and transverse-thread metadata only",
+          "depth": 4,
+          "root_sha256": "ca62d327f1f4d53424310e66c00aaa185ebcacb959d90fac3d7c5c081b46a425",
+          "direct_consumers": {
+            "sections": [
+              {
+                "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+                "sha256": "744c5b62c6a63ff314ae5a414bb21e283dec4a15be8f295335e5927672b94889"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md",
+                "sha256": "35755873b14f8212d2515181c1e2b853dcd913f95f93cd552cd66f78c6463315"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+                "sha256": "7bf4c255bad0e6bbf13b5c335403509c7bfcdc7e68a2feeb3ce8fb979b6ecd89"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+                "sha256": "ee4b1990d968c41b5e3cf918cddff166793d15acefe1f530fc01d96828201673"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+                "sha256": "ab7a524fbd0de2a6aa8961479fc4f2f0eeff50a0255d6240db58bd4c5f953951"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+                "sha256": "406df48e27a93db003ba085574e71289914f5142513eeed5d08d1ff98e3d9ecf"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+                "sha256": "448800b09b3b8d29ce42db880ef7d669c22eee4a8eb47996103ebe866a95233b"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+                "sha256": "fb84f41ee187d393a69bcfd82b39a65d61e619dd9195df557aeb642b48dd981c"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+                "sha256": "fa02096de71367eac9e318c4f77ac004d8eab94dd0df18b2f86bcc03733ca5c9"
+              }
+            ],
+            "arguments": [
+              {
+                "path": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+                "sha256": "f4cbb6e897260bfd207908561c275b0b0ab482d30a0e649fba1589babbfbb75c"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/07-hephaestus-and-the-net.md",
+                "sha256": "ac37fbaf289da275c1b721cc3e246c72ff45dab9b2dda44a32d0d34c9cfdb393"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+                "sha256": "d4bbf861af1efba4eb7b945267edd58fe39b0d0af9ae2f3083a4610dd5edd4c3"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/11-mono-poly-whole-and-many.md",
+                "sha256": "6e7991915d8e4d2f4d165b1e7bba99ff11a8ebecd2f0002b067bd27804fa8250"
+              },
+              {
+                "path": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+                "sha256": "228538fffb57d2c80ccf21f2fb2c63b1287b70c3c240cd2f371a4762a27c0921"
+              }
+            ],
+            "concepts": [],
+            "paths": [
+              {
+                "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+                "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+              }
+            ]
+          },
+          "transverse_threads": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+              "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+              "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+            }
+          ]
+        }
+      ],
+      "reused_unchanged_full_reads": [
+        {
+          "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+          "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+        },
+        {
+          "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+          "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+        },
+        {
+          "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+          "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+        },
+        {
+          "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+          "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+        },
+        {
+          "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+          "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+          "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+          "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+        },
+        {
+          "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+          "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+        }
+      ],
+      "reference_disposition_binding": [
+        {
+          "row": 12,
+          "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/blind-spot-frank-gleiser-thompson.md",
+          "reference_sha256": "cc89a6c9fbfe0f1e9f63053b7d691e904919e28a3cd0afb1ae09bde330ecde25",
+          "pass_a_disposition": "rehome",
+          "pass_a_named_carrier": "Formal-limit Episteme dossier; supports Immutable Gap/OI without owning them.",
+          "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+          "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+          "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+          "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+          "development_homes": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+              "materialised": false,
+              "standing": "census-admitted-planned-target",
+              "role": "primary-depth",
+              "section": "Blind Spot",
+              "record_id": "dossier-formal-limit"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+              "materialised": true,
+              "standing": "existing-canonical",
+              "role": "semantic-consumer",
+              "record_id": "A03"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+              "materialised": true,
+              "standing": "existing-canonical",
+              "role": "semantic-consumer",
+              "record_id": "A26"
+            }
+          ],
+          "physical_action": "none; retain original reference note",
+          "development_state": "pending-record-development-or-enrichment",
+          "canonical_change_authorised_by_this_matrix": false
+        },
+        {
+          "row": 31,
+          "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/file-one-definitional.md",
+          "reference_sha256": "c086c6647603293b731860d06e90b1cc9fc5830bde7ec6e465befae4e4efcde8",
+          "pass_a_disposition": "merge",
+          "pass_a_named_carrier": "Subject, God and Faithful Definition argument/source dossier.",
+          "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+          "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+          "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+          "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+          "development_homes": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+              "materialised": true,
+              "standing": "existing-canonical",
+              "role": "semantic-consumer",
+              "record_id": "A01"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+              "record_id": "dossier-formal-limit",
+              "materialised": false,
+              "standing": "census-admitted-planned-target",
+              "role": "source-depth",
+              "path_authority": "working/p2-enrichment/census.json",
+              "section": "Faithful definition and apophatic performance"
+            }
+          ],
+          "physical_action": "none; retain original reference note",
+          "development_state": "pending-record-development-or-enrichment",
+          "canonical_change_authorised_by_this_matrix": false,
+          "register_contract_reconciliation": "Current register contract narrows the Pass A/B carrier type; preserve operation in SOURCE/admitted dossier/current guidance. No separate figure/dialogue/map/lens/dossier identity is created by this row."
+        },
+        {
+          "row": 35,
+          "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/godel-incompleteness.md",
+          "reference_sha256": "33ef570d85462899c20fad8a217f33434ccdbbbe9c390101424839db9695e905",
+          "pass_a_disposition": "rehome",
+          "pass_a_named_carrier": "Formal-limit dossier/history with exact theorem boundary.",
+          "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+          "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+          "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+          "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+          "development_homes": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+              "materialised": false,
+              "standing": "census-admitted-planned-target",
+              "role": "primary-depth",
+              "section": "Gödel exact hypotheses",
+              "record_id": "dossier-formal-limit"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+              "materialised": true,
+              "standing": "existing-canonical",
+              "role": "semantic-consumer",
+              "record_id": "A03"
+            }
+          ],
+          "physical_action": "none; retain original reference note",
+          "development_state": "pending-record-development-or-enrichment",
+          "canonical_change_authorised_by_this_matrix": false
+        },
+        {
+          "row": 49,
+          "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/meister-eckhart-dialectical-apophaticism.md",
+          "reference_sha256": "cd8112af00df0a1dd9fc38f94a81e3882a6efabb019f96870eba1843850f1d87",
+          "pass_a_disposition": "rehome",
+          "pass_a_named_carrier": "Formal-limit/apophatic dossier with source boundary.",
+          "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+          "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+          "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+          "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+          "development_homes": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+              "materialised": false,
+              "standing": "census-admitted-planned-target",
+              "role": "primary-depth",
+              "section": "Eckhart apophaticism",
+              "record_id": "dossier-formal-limit"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+              "materialised": true,
+              "standing": "existing-canonical",
+              "role": "semantic-consumer",
+              "record_id": "C63"
+            }
+          ],
+          "physical_action": "none; retain original reference note",
+          "development_state": "pending-record-development-or-enrichment",
+          "canonical_change_authorised_by_this_matrix": false
+        },
+        {
+          "row": 53,
+          "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/nicholas-of-cusa-learned-ignorance-sphere.md",
+          "reference_sha256": "e319c330444219a396eb75217849cde9d7d27babb3c7908706ffa4a3d5acc404",
+          "pass_a_disposition": "rehome",
+          "pass_a_named_carrier": "Cusa formal-limit dossier feeding Paradox.",
+          "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+          "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+          "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+          "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+          "development_homes": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+              "materialised": false,
+              "standing": "census-admitted-planned-target",
+              "role": "primary-depth",
+              "section": "Cusa learned ignorance/sphere",
+              "record_id": "dossier-formal-limit"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+              "materialised": true,
+              "standing": "existing-canonical",
+              "role": "semantic-consumer",
+              "record_id": "C64"
+            }
+          ],
+          "physical_action": "none; retain original reference note",
+          "development_state": "pending-record-development-or-enrichment",
+          "canonical_change_authorised_by_this_matrix": false
+        },
+        {
+          "row": 67,
+          "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/russell-paradox-type-theory.md",
+          "reference_sha256": "b6976ad05e36983b65b468e1973e147169a66e4b4f4bb4efc7cd58fb96f46957",
+          "pass_a_disposition": "rehome",
+          "pass_a_named_carrier": "Formal-limit dossier + scoped Matheme neighbour.",
+          "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+          "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+          "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+          "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+          "development_homes": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+              "materialised": false,
+              "standing": "census-admitted-planned-target",
+              "role": "primary-depth",
+              "section": "Russell/type-theory",
+              "record_id": "dossier-formal-limit"
+            },
+            {
+              "path": "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+              "materialised": false,
+              "standing": "census-admitted-planned-target",
+              "role": "formal-neighbour",
+              "record_id": "matheme-russell-types",
+              "path_authority": "working/p2-enrichment/census.json"
+            }
+          ],
+          "physical_action": "none; retain original reference note",
+          "development_state": "pending-record-development-or-enrichment",
+          "canonical_change_authorised_by_this_matrix": false
+        },
+        {
+          "row": 89,
+          "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/wittgenstein-limit-silence-forms-of-life.md",
+          "reference_sha256": "822a48931d3e999533f6d41a16fd2e45b248549c1a20f280dd0697828f122e11",
+          "pass_a_disposition": "rehome",
+          "pass_a_named_carrier": "Formal-limit/language dossier; Immutable Gap/Paradox consume without universalising Wittgenstein.",
+          "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+          "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+          "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+          "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+          "development_homes": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+              "materialised": false,
+              "standing": "census-admitted-planned-target",
+              "role": "primary-depth",
+              "section": "Wittgenstein limits/silence/forms-of-life",
+              "record_id": "dossier-formal-limit"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+              "materialised": true,
+              "standing": "existing-canonical",
+              "role": "semantic-consumer",
+              "record_id": "A03"
+            },
+            {
+              "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+              "materialised": true,
+              "standing": "existing-canonical",
+              "role": "semantic-consumer",
+              "record_id": "C64"
+            }
+          ],
+          "physical_action": "none; retain original reference note",
+          "development_state": "pending-record-development-or-enrichment",
+          "canonical_change_authorised_by_this_matrix": false
+        }
+      ],
+      "read_standing": "Hashes bind actual objects. Read coverage and public passage deficits are separately stated in development receipt; no inherited 25-ready-packets certification."
+    }
+  ],
+  "non_page_carriers": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/earth-taste-wisdom/HISTORY.md",
+      "disposition": "retained-proposal",
+      "reason": "OUGHT-BE-ETYMOLOGY-ARCHITECTURE explicitly keeps this pending authorial verification; no canonical lexical-warrant promotion."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/tye/tye-2024-qualia-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wilson/wilson-et-al-2020-embodied-cognition-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1922-tractatus/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1953-philosophical-investigations/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/brown/brown-1989-ares-aphrodite-laughter/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/burkert/burkert-1960-lied-ares-aphrodite/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/detienne/detienne-vernant-1978-cunning-intelligence/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/hesiod/hesiod-1920-theogony-evelyn-white/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/mackenzie/mackenzie-2021-heraclitean-allusion-odyssey/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/phillips/phillips-moicheia-unity-greek-law/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/berkeley/berkeley-1734-three-dialogues-wilkins-2002/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/spinoza/spinoza-1674-letter-50-jelles/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2006-antikythera/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/nothaft/nothaft-2020-satanic-ciphers/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/das/das-2022-sriharsa-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/kallata/spandakarika-dyczkowski-1992-stanzas-vibration/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/nagarjuna/nagarjuna-garfield-1995-fundamental-wisdom/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/van-norden/van-norden-jones-2024-huayan-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-skenfrith-cope-jung-ql/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-spirit-nature-man-humanity/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-chatgpt-2026-symbolon-in-media/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-claude-2026-derivational-chat/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-gemini-2026-pax-machina-body-without-organs/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-gemini-2026-skenfrith-castle-power-history/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-christ-mono-poly-theory/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-encounter-region-name-count/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-sym-dia-ballein-views/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/garfield/garfield-priest-2003-limits-of-thought/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2014-one/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/raatikainen/raatikainen-2026-godel-incompleteness-sep/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/sheffer/sheffer-1913-five-postulates/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/strang/strang-herman-2016-openstax-calculus-v1/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/whitehead/whitehead-russell-1910-1913-principia/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/jorjani/jorjani-2016-prometheus-atlas/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/mcgoohan-markstein/mcgoohan-markstein-1967-the-prisoner/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1975-early-greek-thinking/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/maroski/maroski-2025-seeing-through-solid-words/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/nietzsche/nietzsche-1910-birth-tragedy-haussmann/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/physics/atmanspacher/atmanspacher-2020-pauli-jung-conjecture/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/physics/iter/iter-what-is-tokamak/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/physics/kirchner/kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-1980-wholeness-implicate-order/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-1996-on-dialogue/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/seed/seed-2010-language-spirit/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/adleman/adleman-vanderwees-2021-lacan-rhetoric/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/bache/bache-2019-lsd-mind-universe/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/courtney/courtney-2019-salt-point-kairos-chaos/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/darmon/darmon-1992-matheme-ali/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-2013-undiscovered-self-routledge/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/lacan/lacan-2017-talking-to-brick-walls/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2022-resist-machine-apocalypse/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/smythe/smythe-2013-dialogical-jung/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1991-strange-attractors/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes when warranted by recovery, never a duplicated field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/apportionment-and-economy/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORY.md",
+      "disposition": "retained-history-with-whole-field",
+      "reason": "Historical/source office coexists with WHOLE-FIELD relational office; consumed and deepened with that field, not merged or duplicated."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/apuleius/apuleius-1913-psyche-cupido-purser/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/ovid/ovid-1921-metamorphoses-miller/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-antykathera-csm-lecture-notes/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/literature/goethe/goethe-1983-selected-poems-nims/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1961-totality-and-infinity/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1981-otherwise-than-being/SOURCE.md",
+      "disposition": "retained-evidence-house",
+      "reason": "Canonical evidence/provenance home; source-specific changes only when warranted by recovery; never duplicate as a field page."
+    }
+  ],
+  "remaining": [
+    "Complete target-keyed packets with every materially relevant A-depth receipt, direct carriers and full SOURCE/NOTES reading before each writer dispatch.",
+    "T23 tests four retained maps and any proposed new transverse route for a distinct movement; no inherited quota.",
+    "Source edition/locator and empirical debts remain Open until evidence work closes them.",
+    "T22 must reconcile named governing staleness before structural or claim-status changes; T24 acceptance still gates manuscript composition."
+  ],
+  "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+  "snapshot_provenance": {
+    "source": "working/p2-enrichment/dispatch-queue.json",
+    "sha256": "c3cc178686e92ea430cb211a5b944dff56b16fd5b4fd0576818c213e28258b34",
+    "scope": "Current shared queue provenance, selected ratified target freshly bound; historical hold superseded by explicit user authorization."
+  }
+}

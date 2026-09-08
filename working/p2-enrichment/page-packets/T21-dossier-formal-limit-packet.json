@@ -1,0 +1,1574 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/T21-dossier-formal-limit-queue.json",
+    "queue_sha256": "0306e2c4761248f788006cdb77a1a9a11dc422d61f0841e8f24b0d21ec877020",
+    "census": "working/p2-enrichment/T21-dossier-formal-limit-census.json",
+    "census_sha256": "6a702c1d0895791e87e0d705b9304f724c68bd0c9f3b8332dd9b765c571183e4",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "dossier-formal-limit",
+    "title": "Formal Limit — source-specific limits and their consequences",
+    "register": "episteme",
+    "record_type": "dossier",
+    "canonical_home": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+    "wave": "T21",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#6-episteme-structural-census",
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md#9-episteme--final-pre-t07-structural-census"
+    ],
+    "packet_status": "single-target-authorized-current-inputs-bound",
+    "binding_state": "fresh-private-binding",
+    "dispatch_status": "user-authorized-dossier-only",
+    "argument_depth": [
+      "A01",
+      "A03",
+      "A23",
+      "A26"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/whitehead/whitehead-russell-1910-1913-principia/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/raatikainen/raatikainen-2026-godel-incompleteness-sep/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1922-tractatus/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1953-philosophical-investigations/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md"
+    ],
+    "register_contract": "submission-package/essay/symbolon/episteme/README.md",
+    "register_contract_domain": "submission-package/essay/symbolon/episteme/dossiers/README.md",
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md"
+    ],
+    "additional_required_inputs": [
+      "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+      "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+      "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+      "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/aphorisms/investigation-and-faith.md",
+      "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+      "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+      "submission-package/essay/symbolon/episteme/concepts/reference-notes/blind-spot-frank-gleiser-thompson.md",
+      "submission-package/essay/symbolon/episteme/concepts/reference-notes/file-one-definitional.md",
+      "submission-package/essay/symbolon/episteme/concepts/reference-notes/godel-incompleteness.md",
+      "submission-package/essay/symbolon/episteme/concepts/reference-notes/meister-eckhart-dialectical-apophaticism.md",
+      "submission-package/essay/symbolon/episteme/concepts/reference-notes/nicholas-of-cusa-learned-ignorance-sphere.md",
+      "submission-package/essay/symbolon/episteme/concepts/reference-notes/russell-paradox-type-theory.md",
+      "submission-package/essay/symbolon/episteme/concepts/reference-notes/wittgenstein-limit-silence-forms-of-life.md",
+      "working/p2-enrichment/T21-record-input-locators.json",
+      "working/p2-enrichment/reference-note-dispositions.json",
+      "working/p2-enrichment/legacy-carrier-dispositions.json",
+      "working/p2-enrichment/T21-e-field-consumer-coverage.json",
+      "working/p2-enrichment/receipts/T21-history-home-migration.json",
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md",
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+        "start_line": 137,
+        "end_line": 151,
+        "relation": "grounds",
+        "provenance": "Direct native performed definition; cross-source universal claims not adopted as external evidence."
+      },
+      {
+        "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+        "start_line": 3438,
+        "end_line": 3463,
+        "relation": "grounds",
+        "provenance": "Developmental trust/slash distinction; source-bound comparison is authored here."
+      },
+      {
+        "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+        "start_line": 90,
+        "end_line": 94,
+        "relation": "qualifies",
+        "provenance": "Retain native operation; withdraw unrestricted Gödel wording from external attribution."
+      }
+    ],
+    "relations": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+        "relation": "returns-to",
+        "operation": "Performed definition keeps its source active through predication."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "relation": "returns-to",
+        "operation": "Specific formal boundary distinguished from recurrent determining-act gap."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "relation": "returns-to",
+        "operation": "Inquiry determines claims; commitment continues through non-possession."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "relation": "returns-to",
+        "operation": "Worldhood keeps the conditions of an operative account consequential."
+      }
+    ],
+    "effects_before": [
+      {
+        "source_id": "russell-1908-theory-types",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "264678e936e9f57f0bec5c11e68b2c29e2239d7f2e48cd52569aa8c5819d62f8",
+        "direct_consumers": {
+          "sections": [
+            {
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+              "sha256": "744c5b62c6a63ff314ae5a414bb21e283dec4a15be8f295335e5927672b94889"
+            }
+          ],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+              "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+              "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      },
+      {
+        "source_id": "whitehead-russell-1910-1913-principia",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "ba02fbac94ae4c09cdbf87aef9692d1ad3306abaedfe55e39ad9c0b494d60bc0",
+        "direct_consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+              "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      },
+      {
+        "source_id": "godel-1931-undecidable-propositions",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "9d8af269d2a8d49db9074be95c2c75b0c964e7ee579f4da1cf16c924696f231f",
+        "direct_consumers": {
+          "sections": [
+            {
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+              "sha256": "744c5b62c6a63ff314ae5a414bb21e283dec4a15be8f295335e5927672b94889"
+            }
+          ],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+              "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+              "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      },
+      {
+        "source_id": "raatikainen-2026-godel-incompleteness-sep",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "097c668b2d2dd558080393a31e2d61cc8de4fe302f1388748499f0b9083fb4ee",
+        "direct_consumers": {
+          "sections": [
+            {
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+              "sha256": "744c5b62c6a63ff314ae5a414bb21e283dec4a15be8f295335e5927672b94889"
+            }
+          ],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+              "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      },
+      {
+        "source_id": "wittgenstein-1922-tractatus",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "b3c144f58dcb212928dbbefb75a5a7d9a4f33764be94bf1de56895269247465d",
+        "direct_consumers": {
+          "sections": [
+            {
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+              "sha256": "744c5b62c6a63ff314ae5a414bb21e283dec4a15be8f295335e5927672b94889"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md",
+              "sha256": "689701edc6bf379956dee2092b6da0efb77ff193e732cee2a7c1b70426b8bb4a"
+            }
+          ],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+              "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      },
+      {
+        "source_id": "wittgenstein-1953-philosophical-investigations",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "9d736a24e32a9f76a2c060012140c5c5fafd15ae2a97ed2810892f3766bd8ec6",
+        "direct_consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+              "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+              "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      },
+      {
+        "source_id": "cusa-on-learned-ignorance",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "280883f07f9fe03bf6a4c6df2de635f96b8caef6ef1a58252d253316291f297b",
+        "direct_consumers": {
+          "sections": [
+            {
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+              "sha256": "7cce7c32115763fef755dcfb97f5673f4983c3ff7669384acddd221112820610"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md",
+              "sha256": "689701edc6bf379956dee2092b6da0efb77ff193e732cee2a7c1b70426b8bb4a"
+            }
+          ],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md",
+              "sha256": "ce2d15aaee82d1ec8cf37b788bc448e4fdbe4c4f4f24c3b4b46c4857a360e3c0"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+              "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      },
+      {
+        "source_id": "flasch-2015-meister-eckhart",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "1ca696a054b5815b1b2dcccc9bfa8ec792ba29380235aff7eca32edabf3c1795",
+        "direct_consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/10-vak.md",
+              "sha256": "f94c032895d9b6d3ae3d6b1b76370a63f25ceefb706d4a9544afbe53dceb4e90"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+              "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      },
+      {
+        "source_id": "frank-gleiser-thompson-2024-blind-spot",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "1fbf56a9520b72a92ed2307d82f9ffdb107c92594764153801dc56155e246654",
+        "direct_consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+              "sha256": "00960586e342337c1be2bccc8c104f3d853450b08ab8834c0317b9bf7295273f"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+              "sha256": "5a8cef977eb57819d5de1d7f4e55edc79eaada64666fe61ef1ab6f69d8bdc120"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+              "sha256": "d4bbf861af1efba4eb7b945267edd58fe39b0d0af9ae2f3083a4610dd5edd4c3"
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      },
+      {
+        "source_id": "spencer-brown-1969-laws-form",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "8c5a69302de547df3bc42b0af14054374403240eaef64cfe987980175c969eff",
+        "direct_consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+              "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+              "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f"
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      },
+      {
+        "source_id": "varela-1975-calculus-self-reference",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "0bc6a085a3db67450ced55aefd804ce0ddbba33c9d7ab9553ffe16f82eaedb8c",
+        "direct_consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+              "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+              "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f"
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      },
+      {
+        "source_id": "whitehead-1978-process-reality",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "5f5fee774e9342c93cf04b49221878ae95ec7045884a4b6dc60d10b84ff89fd6",
+        "direct_consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+              "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f"
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      },
+      {
+        "source_id": "taylor-2026-core-theorems-pithy",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+        "direct_consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+              "sha256": "00960586e342337c1be2bccc8c104f3d853450b08ab8834c0317b9bf7295273f"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+              "sha256": "f4cbb6e897260bfd207908561c275b0b0ab482d30a0e649fba1589babbfbb75c"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md",
+              "sha256": "ce2d15aaee82d1ec8cf37b788bc448e4fdbe4c4f4f24c3b4b46c4857a360e3c0"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+              "sha256": "5a8cef977eb57819d5de1d7f4e55edc79eaada64666fe61ef1ab6f69d8bdc120"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+              "sha256": "5c3604afc7745daba68fefb0794110f42c0004eaabfed7339a779110100d45a9"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/09-prakasa-vimarsa.md",
+              "sha256": "415374f85efcebd6ac9a30ef5000eb5e80634627d5a0d988be5a969bdf418bba"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/10-vak.md",
+              "sha256": "f94c032895d9b6d3ae3d6b1b76370a63f25ceefb706d4a9544afbe53dceb4e90"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/11-mono-poly-whole-and-many.md",
+              "sha256": "6e7991915d8e4d2f4d165b1e7bba99ff11a8ebecd2f0002b067bd27804fa8250"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+              "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/13-tattvic-differential-field.md",
+              "sha256": "20fb22d2e6b664681d943a2152fbdbf6653265307a33be6ef23cfa12d9e75040"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+              "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+              "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/16-bohmian-enfoldment-dialogical-return.md",
+              "sha256": "33cf6435240277d5f92f64d94b35de399728fa5a01c24eed89869ec80522d5e2"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/17-toroidal-circulation-arche-topos.md",
+              "sha256": "ef5327f6bb40c95e50749c8e96b1159583eb7d04a9a5ebd3d34df80ee65d0e68"
+            }
+          ],
+          "concepts": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/concepts/prompt-thrownness.md",
+              "sha256": "f8f14404e74e9646ffce70e53a8dc2287cd96612012023f92c9876e1beb982cc"
+            }
+          ],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      },
+      {
+        "source_id": "taylor-2026-definition-god-draft3",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "e1c980917e9590d952a597ffdb8975aae5f94a845b77180035c84a1f8f7188ee",
+        "direct_consumers": {
+          "sections": [
+            {
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/02-s01-p1-define-subject.md",
+              "sha256": "8f8ef1039afd1b857063f40ff2304f771537d6228074ca40353e207d2b9bec6a"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/03-s01-p2-definition-cut-gift-danger.md",
+              "sha256": "ac5a8177f84fa64110dccfc2dffc72dc48e5a9c2d7b3a9b821f87a90d8c1a68f"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+              "sha256": "744c5b62c6a63ff314ae5a414bb21e283dec4a15be8f295335e5927672b94889"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/06-s01-p5-return-zero.md",
+              "sha256": "689701edc6bf379956dee2092b6da0efb77ff193e732cee2a7c1b70426b8bb4a"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md",
+              "sha256": "25d377b648eacedddb884fc0868839789ad2b48f0cf9d55fe926720c66123772"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+              "sha256": "7bf4c255bad0e6bbf13b5c335403509c7bfcdc7e68a2feeb3ce8fb979b6ecd89"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+              "sha256": "ee4b1990d968c41b5e3cf918cddff166793d15acefe1f530fc01d96828201673"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+              "sha256": "ab7a524fbd0de2a6aa8961479fc4f2f0eeff50a0255d6240db58bd4c5f953951"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md",
+              "sha256": "18215cb965679b58a6ac7ae1c40d0aad701facb20aae068ddd9d72f715dab492"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md",
+              "sha256": "c4981486cd221f63bdfc0ae8ce710c7cc83913e05969c1855cdb4b3fcd7481c6"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md",
+              "sha256": "59cec4a039a3fc569a646425544ad83e3c8d61b44768751591b9077cfe56b55a"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/33-s4-p2-complexio-quaternity-senarius.md",
+              "sha256": "9fb68717ceaeb5f4e66d45ed851f7955e5620026bb0282d4e6c4d443f2e7f579"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/34-s4-p3-lacan-matheme-mytheme.md",
+              "sha256": "c05b2ac275dcd43234fb28361155794497da11add9be6d6a4c39cc366dcbe5f8"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+              "sha256": "6ae47467c64d0aa50b75f0b2ae2f4aab4da8011ec016f0561c61fd5b48497988"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md",
+              "sha256": "67f78fa14df60b56f0fceada5ce483e8adc0a2c56d770b3512cce5d551d003a7"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md",
+              "sha256": "cb82a23c16923123031ab558716d7dd72bf3904f82723d26cc868c0f99314d19"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+              "sha256": "448800b09b3b8d29ce42db880ef7d669c22eee4a8eb47996103ebe866a95233b"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+              "sha256": "fa02096de71367eac9e318c4f77ac004d8eab94dd0df18b2f86bcc03733ca5c9"
+            }
+          ],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+              "sha256": "f4cbb6e897260bfd207908561c275b0b0ab482d30a0e649fba1589babbfbb75c"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md",
+              "sha256": "ce2d15aaee82d1ec8cf37b788bc448e4fdbe4c4f4f24c3b4b46c4857a360e3c0"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+              "sha256": "5c3604afc7745daba68fefb0794110f42c0004eaabfed7339a779110100d45a9"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/07-hephaestus-and-the-net.md",
+              "sha256": "ac37fbaf289da275c1b721cc3e246c72ff45dab9b2dda44a32d0d34c9cfdb393"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+              "sha256": "d4bbf861af1efba4eb7b945267edd58fe39b0d0af9ae2f3083a4610dd5edd4c3"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/10-vak.md",
+              "sha256": "f94c032895d9b6d3ae3d6b1b76370a63f25ceefb706d4a9544afbe53dceb4e90"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+              "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+              "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/17-toroidal-circulation-arche-topos.md",
+              "sha256": "ef5327f6bb40c95e50749c8e96b1159583eb7d04a9a5ebd3d34df80ee65d0e68"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+              "sha256": "228538fffb57d2c80ccf21f2fb2c63b1287b70c3c240cd2f371a4762a27c0921"
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      },
+      {
+        "source_id": "taylor-2026-revision-notes-trust",
+        "exit_code": 0,
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "root_sha256": "ca62d327f1f4d53424310e66c00aaa185ebcacb959d90fac3d7c5c081b46a425",
+        "direct_consumers": {
+          "sections": [
+            {
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+              "sha256": "744c5b62c6a63ff314ae5a414bb21e283dec4a15be8f295335e5927672b94889"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md",
+              "sha256": "35755873b14f8212d2515181c1e2b853dcd913f95f93cd552cd66f78c6463315"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+              "sha256": "7bf4c255bad0e6bbf13b5c335403509c7bfcdc7e68a2feeb3ce8fb979b6ecd89"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md",
+              "sha256": "ee4b1990d968c41b5e3cf918cddff166793d15acefe1f530fc01d96828201673"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+              "sha256": "ab7a524fbd0de2a6aa8961479fc4f2f0eeff50a0255d6240db58bd4c5f953951"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+              "sha256": "406df48e27a93db003ba085574e71289914f5142513eeed5d08d1ff98e3d9ecf"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+              "sha256": "448800b09b3b8d29ce42db880ef7d669c22eee4a8eb47996103ebe866a95233b"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+              "sha256": "fb84f41ee187d393a69bcfd82b39a65d61e619dd9195df557aeb642b48dd981c"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+              "sha256": "fa02096de71367eac9e318c4f77ac004d8eab94dd0df18b2f86bcc03733ca5c9"
+            }
+          ],
+          "arguments": [
+            {
+              "path": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+              "sha256": "f4cbb6e897260bfd207908561c275b0b0ab482d30a0e649fba1589babbfbb75c"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/07-hephaestus-and-the-net.md",
+              "sha256": "ac37fbaf289da275c1b721cc3e246c72ff45dab9b2dda44a32d0d34c9cfdb393"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md",
+              "sha256": "d4bbf861af1efba4eb7b945267edd58fe39b0d0af9ae2f3083a4610dd5edd4c3"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/11-mono-poly-whole-and-many.md",
+              "sha256": "6e7991915d8e4d2f4d165b1e7bba99ff11a8ebecd2f0002b067bd27804fa8250"
+            },
+            {
+              "path": "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+              "sha256": "228538fffb57d2c80ccf21f2fb2c63b1287b70c3c240cd2f371a4762a27c0921"
+            }
+          ],
+          "concepts": [],
+          "paths": [
+            {
+              "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+              "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+            }
+          ]
+        },
+        "transverse_threads": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+          }
+        ]
+      }
+    ],
+    "reused_unchanged_full_reads": [
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+      },
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+      },
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+      },
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+      },
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+        "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+        "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+        "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+      }
+    ],
+    "reference_disposition_binding": [
+      {
+        "row": 12,
+        "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/blind-spot-frank-gleiser-thompson.md",
+        "reference_sha256": "cc89a6c9fbfe0f1e9f63053b7d691e904919e28a3cd0afb1ae09bde330ecde25",
+        "pass_a_disposition": "rehome",
+        "pass_a_named_carrier": "Formal-limit Episteme dossier; supports Immutable Gap/OI without owning them.",
+        "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+        "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+        "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+        "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+        "development_homes": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+            "materialised": false,
+            "standing": "census-admitted-planned-target",
+            "role": "primary-depth",
+            "section": "Blind Spot",
+            "record_id": "dossier-formal-limit"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+            "materialised": true,
+            "standing": "existing-canonical",
+            "role": "semantic-consumer",
+            "record_id": "A03"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+            "materialised": true,
+            "standing": "existing-canonical",
+            "role": "semantic-consumer",
+            "record_id": "A26"
+          }
+        ],
+        "physical_action": "none; retain original reference note",
+        "development_state": "pending-record-development-or-enrichment",
+        "canonical_change_authorised_by_this_matrix": false
+      },
+      {
+        "row": 31,
+        "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/file-one-definitional.md",
+        "reference_sha256": "c086c6647603293b731860d06e90b1cc9fc5830bde7ec6e465befae4e4efcde8",
+        "pass_a_disposition": "merge",
+        "pass_a_named_carrier": "Subject, God and Faithful Definition argument/source dossier.",
+        "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+        "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+        "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+        "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+        "development_homes": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+            "materialised": true,
+            "standing": "existing-canonical",
+            "role": "semantic-consumer",
+            "record_id": "A01"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+            "record_id": "dossier-formal-limit",
+            "materialised": false,
+            "standing": "census-admitted-planned-target",
+            "role": "source-depth",
+            "path_authority": "working/p2-enrichment/census.json",
+            "section": "Faithful definition and apophatic performance"
+          }
+        ],
+        "physical_action": "none; retain original reference note",
+        "development_state": "pending-record-development-or-enrichment",
+        "canonical_change_authorised_by_this_matrix": false,
+        "register_contract_reconciliation": "Current register contract narrows the Pass A/B carrier type; preserve operation in SOURCE/admitted dossier/current guidance. No separate figure/dialogue/map/lens/dossier identity is created by this row."
+      },
+      {
+        "row": 35,
+        "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/godel-incompleteness.md",
+        "reference_sha256": "33ef570d85462899c20fad8a217f33434ccdbbbe9c390101424839db9695e905",
+        "pass_a_disposition": "rehome",
+        "pass_a_named_carrier": "Formal-limit dossier/history with exact theorem boundary.",
+        "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+        "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+        "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+        "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+        "development_homes": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+            "materialised": false,
+            "standing": "census-admitted-planned-target",
+            "role": "primary-depth",
+            "section": "Gödel exact hypotheses",
+            "record_id": "dossier-formal-limit"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+            "materialised": true,
+            "standing": "existing-canonical",
+            "role": "semantic-consumer",
+            "record_id": "A03"
+          }
+        ],
+        "physical_action": "none; retain original reference note",
+        "development_state": "pending-record-development-or-enrichment",
+        "canonical_change_authorised_by_this_matrix": false
+      },
+      {
+        "row": 49,
+        "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/meister-eckhart-dialectical-apophaticism.md",
+        "reference_sha256": "cd8112af00df0a1dd9fc38f94a81e3882a6efabb019f96870eba1843850f1d87",
+        "pass_a_disposition": "rehome",
+        "pass_a_named_carrier": "Formal-limit/apophatic dossier with source boundary.",
+        "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+        "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+        "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+        "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+        "development_homes": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+            "materialised": false,
+            "standing": "census-admitted-planned-target",
+            "role": "primary-depth",
+            "section": "Eckhart apophaticism",
+            "record_id": "dossier-formal-limit"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+            "materialised": true,
+            "standing": "existing-canonical",
+            "role": "semantic-consumer",
+            "record_id": "C63"
+          }
+        ],
+        "physical_action": "none; retain original reference note",
+        "development_state": "pending-record-development-or-enrichment",
+        "canonical_change_authorised_by_this_matrix": false
+      },
+      {
+        "row": 53,
+        "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/nicholas-of-cusa-learned-ignorance-sphere.md",
+        "reference_sha256": "e319c330444219a396eb75217849cde9d7d27babb3c7908706ffa4a3d5acc404",
+        "pass_a_disposition": "rehome",
+        "pass_a_named_carrier": "Cusa formal-limit dossier feeding Paradox.",
+        "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+        "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+        "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+        "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+        "development_homes": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+            "materialised": false,
+            "standing": "census-admitted-planned-target",
+            "role": "primary-depth",
+            "section": "Cusa learned ignorance/sphere",
+            "record_id": "dossier-formal-limit"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+            "materialised": true,
+            "standing": "existing-canonical",
+            "role": "semantic-consumer",
+            "record_id": "C64"
+          }
+        ],
+        "physical_action": "none; retain original reference note",
+        "development_state": "pending-record-development-or-enrichment",
+        "canonical_change_authorised_by_this_matrix": false
+      },
+      {
+        "row": 67,
+        "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/russell-paradox-type-theory.md",
+        "reference_sha256": "b6976ad05e36983b65b468e1973e147169a66e4b4f4bb4efc7cd58fb96f46957",
+        "pass_a_disposition": "rehome",
+        "pass_a_named_carrier": "Formal-limit dossier + scoped Matheme neighbour.",
+        "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+        "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+        "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+        "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+        "development_homes": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+            "materialised": false,
+            "standing": "census-admitted-planned-target",
+            "role": "primary-depth",
+            "section": "Russell/type-theory",
+            "record_id": "dossier-formal-limit"
+          },
+          {
+            "path": "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+            "materialised": false,
+            "standing": "census-admitted-planned-target",
+            "role": "formal-neighbour",
+            "record_id": "matheme-russell-types",
+            "path_authority": "working/p2-enrichment/census.json"
+          }
+        ],
+        "physical_action": "none; retain original reference note",
+        "development_state": "pending-record-development-or-enrichment",
+        "canonical_change_authorised_by_this_matrix": false
+      },
+      {
+        "row": 89,
+        "reference_note": "submission-package/essay/symbolon/episteme/concepts/reference-notes/wittgenstein-limit-silence-forms-of-life.md",
+        "reference_sha256": "822a48931d3e999533f6d41a16fd2e45b248549c1a20f280dd0697828f122e11",
+        "pass_a_disposition": "rehome",
+        "pass_a_named_carrier": "Formal-limit/language dossier; Immutable Gap/Paradox consume without universalising Wittgenstein.",
+        "pass_a_authority": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#7-all-89-recovered-reference-notes--explicit-disposition",
+        "pass_b_sharpening": "Pass B confirms this row without carrier reversal; technical/AI material remains bounded to verified source revisions.",
+        "current_reference_standing": "retain-source-reference-provenance-no-canonical-identity",
+        "current_authority": "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md#legacy-concept--reference-note-final-dispositions",
+        "development_homes": [
+          {
+            "path": "submission-package/essay/symbolon/episteme/dossiers/formal-limit.md",
+            "materialised": false,
+            "standing": "census-admitted-planned-target",
+            "role": "primary-depth",
+            "section": "Wittgenstein limits/silence/forms-of-life",
+            "record_id": "dossier-formal-limit"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+            "materialised": true,
+            "standing": "existing-canonical",
+            "role": "semantic-consumer",
+            "record_id": "A03"
+          },
+          {
+            "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+            "materialised": true,
+            "standing": "existing-canonical",
+            "role": "semantic-consumer",
+            "record_id": "C64"
+          }
+        ],
+        "physical_action": "none; retain original reference note",
+        "development_state": "pending-record-development-or-enrichment",
+        "canonical_change_authorised_by_this_matrix": false
+      }
+    ],
+    "read_standing": "Hashes bind actual objects. Read coverage and public passage deficits are separately stated in development receipt; no inherited 25-ready-packets certification."
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A01",
+      "path": "working/p2-enrichment/argument-depth/A01.md",
+      "sha256": "cf90a1fb09c619f8829858a7c5dda50e8f29abf61edf1a2e142dcbf4f77f63e8"
+    },
+    {
+      "argument_id": "A03",
+      "path": "working/p2-enrichment/argument-depth/A03.md",
+      "sha256": "12d3a0999ffec60d963f055cdbb1a857025a70f2a7bb46641eca20bb187b9b41"
+    },
+    {
+      "argument_id": "A23",
+      "path": "working/p2-enrichment/argument-depth/A23.md",
+      "sha256": "a7f72f0f45253da156567f6457c6ca999ad41eacd67427a343336eaf1a9cc8f3"
+    },
+    {
+      "argument_id": "A26",
+      "path": "working/p2-enrichment/argument-depth/A26.md",
+      "sha256": "9542b35c8445445bc02ebe6b1a1ba2ccf67f2aa7da50335fbe3180d595c1eb63"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+    },
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "sha256": "252a75e561ae62abc72ccc6e4f6380fba510c72631c8b378cbe279b700b29810"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+      "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+      "sha256": "4f785ce44c6e5021641728c51d5c007b02e7bac06de23a986e7a241a1677189e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+      "sha256": "ced28f375e4ee215b958c3c753b5e8ca74bcf9c65a34082d9a75f7c3cf015ae1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+      "sha256": "4628c8125294e4b42d24d1fb9c94cf91fee7c108d689b56e20f08532085a6a3f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+      "sha256": "ad98ab5646e4148cfe2da50f00ea84e7c9ba341d2ac5ed28870850a799b8b57e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+      "sha256": "0b322395761bd15f203df0330d286114d1ecf086af7572ed99ee12314ede579e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+      "sha256": "2a05704610e157745d0a6cde2d0836e4f3b994a07c9f53f8df6161643e7c8f06"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md",
+      "sha256": "d1528d4e222e715972a7864e9c8964d630e65a8dc5425f86fa1423e2db6d19da"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+      "sha256": "856beecc6859c6a1abacdac6f717ea8c84e699ece2409b6d4f80c3adc6a4c63c"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "sha256": "7b40256b980fa6d5afc99589073518d2df1860da712af28d6122d7cbae03d97d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "36d5167b0544b719cc79633b728b63333b4a99f9cf55ddf980b8d7f972c867d1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/aphorisms/investigation-and-faith.md",
+      "sha256": "3fe65c872193db2d5cd72e646804a4d3b08a37b0aac05aa81c89edf5b57c2958"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/04-s01-p3-formal-limit-genealogy.md",
+      "sha256": "744c5b62c6a63ff314ae5a414bb21e283dec4a15be8f295335e5927672b94889"
+    },
+    {
+      "path": "submission-package/essay/symbolon/matheme/formal-neighbours/russell-types.md",
+      "sha256": "84fefdf4b3893ee347550d653d81320c0b873b97310a529b57f5987465abafc2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/blind-spot-frank-gleiser-thompson.md",
+      "sha256": "cc89a6c9fbfe0f1e9f63053b7d691e904919e28a3cd0afb1ae09bde330ecde25"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/file-one-definitional.md",
+      "sha256": "c086c6647603293b731860d06e90b1cc9fc5830bde7ec6e465befae4e4efcde8"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/godel-incompleteness.md",
+      "sha256": "33ef570d85462899c20fad8a217f33434ccdbbbe9c390101424839db9695e905"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/meister-eckhart-dialectical-apophaticism.md",
+      "sha256": "cd8112af00df0a1dd9fc38f94a81e3882a6efabb019f96870eba1843850f1d87"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/nicholas-of-cusa-learned-ignorance-sphere.md",
+      "sha256": "e319c330444219a396eb75217849cde9d7d27babb3c7908706ffa4a3d5acc404"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/russell-paradox-type-theory.md",
+      "sha256": "b6976ad05e36983b65b468e1973e147169a66e4b4f4bb4efc7cd58fb96f46957"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/reference-notes/wittgenstein-limit-silence-forms-of-life.md",
+      "sha256": "822a48931d3e999533f6d41a16fd2e45b248549c1a20f280dd0697828f122e11"
+    },
+    {
+      "path": "working/p2-enrichment/T21-record-input-locators.json",
+      "sha256": "1518eef7b4eb54831be780e3503fbc4093178e0112127f51f112ee29f9865f9a"
+    },
+    {
+      "path": "working/p2-enrichment/reference-note-dispositions.json",
+      "sha256": "70b2c832cf95dbe7d2a2b9836e408b54e8c72d73e10cf7a37c04e0ad64e9ab2b"
+    },
+    {
+      "path": "working/p2-enrichment/legacy-carrier-dispositions.json",
+      "sha256": "5fa52976855daadfaddc1e244d780f51875647e8dab115d83fac3a06d14c3ce0"
+    },
+    {
+      "path": "working/p2-enrichment/T21-e-field-consumer-coverage.json",
+      "sha256": "51bf91fb3759808639611f0a1a76dcb71b7db39c215fa5eac4805e948a8ce300"
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T21-history-home-migration.json",
+      "sha256": "0fe75340f5590814d4ad738511cecef6f0ef93bbfaf3e77f4e759124d2a246ff"
+    },
+    {
+      "path": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md",
+      "sha256": "a64e7f34f0232b465be8c3228f5cd41c9e400d9a26e61c319191222a5ae43f0a"
+    },
+    {
+      "path": "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md",
+      "sha256": "8cc240c04e6b9e62b83144af23fdf15c03342e459d315e787a4b5eed1f202da7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/README.md",
+      "sha256": "b0b3c8bc2e16e53c6c6a461a02528d03a2920d7d826807c4de031f1d1dde3ac6"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/dossiers/README.md",
+      "sha256": "39af3e6bdc2dce931cf11f587e881954a246e4f6ce151098039da55cd5ecf61c"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE.md",
+      "source_sha256": "264678e936e9f57f0bec5c11e68b2c29e2239d7f2e48cd52569aa8c5819d62f8",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/whitehead/whitehead-russell-1910-1913-principia/SOURCE.md",
+      "source_sha256": "ba02fbac94ae4c09cdbf87aef9692d1ad3306abaedfe55e39ad9c0b494d60bc0",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md",
+      "source_sha256": "9d8af269d2a8d49db9074be95c2c75b0c964e7ee579f4da1cf16c924696f231f",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/raatikainen/raatikainen-2026-godel-incompleteness-sep/SOURCE.md",
+      "source_sha256": "097c668b2d2dd558080393a31e2d61cc8de4fe302f1388748499f0b9083fb4ee",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1922-tractatus/SOURCE.md",
+      "source_sha256": "b3c144f58dcb212928dbbefb75a5a7d9a4f33764be94bf1de56895269247465d",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1953-philosophical-investigations/SOURCE.md",
+      "source_sha256": "9d736a24e32a9f76a2c060012140c5c5fafd15ae2a97ed2810892f3766bd8ec6",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE.md",
+      "source_sha256": "280883f07f9fe03bf6a4c6df2de635f96b8caef6ef1a58252d253316291f297b",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE.md",
+      "source_sha256": "1ca696a054b5815b1b2dcccc9bfa8ec792ba29380235aff7eca32edabf3c1795",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE.md",
+      "source_sha256": "1fbf56a9520b72a92ed2307d82f9ffdb107c92594764153801dc56155e246654",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE.md",
+      "source_sha256": "8c5a69302de547df3bc42b0af14054374403240eaef64cfe987980175c969eff",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md",
+      "source_sha256": "0bc6a085a3db67450ced55aefd804ce0ddbba33c9d7ab9553ffe16f82eaedb8c",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE.md",
+      "source_sha256": "5f5fee774e9342c93cf04b49221878ae95ec7045884a4b6dc60d10b84ff89fd6",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+      "source_sha256": "e1c980917e9590d952a597ffdb8975aae5f94a845b77180035c84a1f8f7188ee",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+      "source_sha256": "ca62d327f1f4d53424310e66c00aaa185ebcacb959d90fac3d7c5c081b46a425",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md",
+      "start_line": 137,
+      "end_line": 151,
+      "relation": "grounds",
+      "provenance": "Direct native performed definition; cross-source universal claims not adopted as external evidence.",
+      "sha256": "252a75e561ae62abc72ccc6e4f6380fba510c72631c8b378cbe279b700b29810",
+      "text": "**First, we define God.** God is the whole that any coherent representational system participates in and necessarily fails to contain. This is formally exact, arising out of the highest and most honest projects of the rational mind. The definition locates the limit: the point where notation must fold back on itself, only to discover it is embedded in something it cannot close around. This limit is the condition of notation's functioning, the structural incompleteness Gödel formalised and the Vedantic _neti neti_ approaches through systematic negation — stripping away every predicate until what remains is the remainder no predicate can exhaust.\n\n**Second, we fail to define God.** \"God is the undefinable\" is still a mark, a bounded claim, a sentence with a full stop — a fish trying to describe water while swimming in it. The definition *includes its own failure as a structural feature*: a sign that points to the impossibility of a final mark, words that announce the limits of language. The hand that writes \"the hand cannot grasp itself\" is still a hand grasping; this is why the most true statement is \"this is a lie.\" Every thinker who has reached the edge of their system and felt the floor give way knows this condition, the condition where paradox asserts itself. The failure is both necessary and honest, and its honesty distinguishes a genuine encounter with the limit from a thinking apparatus that pretends the limit does not exist. Thought tends toward assertion, and this rests on it having conviction in the capacity to assert, hence the mind, meeting its limit, must \"swallow its pride\". The ultimate assertion, that of Being, of what ultimately *is*, returns to the honest mind the utter fantasy of the endeavour. The defining of what God *is* must know that \"God\" as a name *is not God*; as the Taoists say, \"It is before the name \"God.\"\" *What is must be what isn't on the page.*\n\n**Third, we succeed _because_ we fail.** The proposition, now aware that it depends on its own self-negation, performs the structure it describes. It arrives at its own limit, and at that limit, what it cannot say is exactly what it *means*. A definition that did not fail would have produced an idol — a closed image, a cage where a window was needed, another Father, Mother, Son or Daughter, another deity, angel or demon. The image as such is not the issue, but its claim to totality. A crack is how the light gets in, just as how imperfection is what allows a complex system to remain evolving and dynamic. Every tradition that has defined the undefinable — the Vedantic _neti neti_, the Christian _via negativa_, Eckhart's distinction between _Gott_ and _Gottheit_, the Tao that cannot be spoken — arrives at the same recognition: God is a name for that which cannot be named, no \"one\". The proposition enacts in real time the movement between saying and unsaying, the limit's own self-referential activity. This is necessary for understanding reality, as reality \"stands under\" itself, as a silence beneath music.\n\n**Fourth, we neither succeed nor fail.** The prior three positions exhaust the predicative possibilities, and the fourth completes them as a living whole —  the way Eckhart's _Gottheit_ grounds the three persons of the Trinity in the divine depth they require to cohere, what Jung studied as the problem of the \"missing fourth\" that pops up anywhere triadic dynamics arise. The whole drama of defining, failing, and succeeding-through-failure is the dynamic through which the unsayable makes itself known in the field of the sayable. Success and failure are predicates of a project that assumes its object is an object that sits still; the definition reveals, precisely where an entity is expected, an activity, a movement between meanings, between ways of seeing, a living tension holding the conflicting identities in relation the way a bow holds its string to produce the note. The activity of traversing the attempt to define the indefinite becomes the *context* of what the word/name was always pointing to, namely, the lived experience of the one for whom defining is a concern at all. Underneath every \"what is this?\" lives a more primordial \"what am I?\" If my mind fails to describe my reality, where do I find it?\n\n**Fifth: the recognition that transcends and includes the four.** Positions one through four all operate in the objective register — the explicate, the third person. Each treats God as something to be defined: \"God is X,\" \"God is the dynamic of X and not-X,\" \"God is beyond predication.\" Even the fourth, which denies objecthood, speaks _about_ God from outside, in the voice of a proposition directed at something over there. The \"undefinable\" that emerges from their movement is undefinable in this register — relative to the objective stance, undefinable as object. History has deposited the term \"God\" for us to wrestle with; even the objective attitude is something, especially in the West, that we've inherited. But the 4 positions reveal this inheritance as *a word habit that hadn't quite seen how to let itself go.*\n\n\"I Am\" enters through the contextualising turn, as a shift of register entirely, from free-standing abstract proposition to intimate, immanent utterance. It does not describe God from the outside but announces _as_ God from within; the endeavour recollects itself around a recognition of Present Being, rather than the construction of an image of a higher being. When Moses encounters the burning bush and asks for a name, the answer comes in the first person: _ehyeh asher ehyeh_, \"I am that I am\" — God's self-naming in the mode of self-presence (Exodus 3:14). The divine cannot be named from outside; the activity of naming is always already within the phenomenal, created world. Every philosophical or spiritual tradition that reaches this depth arrives at the first-person form; every being fully absorbed in the immediacy of subjectivity is a proof of what cannot be said. The Shaiva mantra \"_aham_\" expresses the primordial I-consciousness, Śiva's self-recognition prior to any content appearing within consciousness — the \"I\" that is the condition of all predication, of all \"Its\", the self-luminous awareness that must already be present for any object to appear within it. The Johannine \"Before Abraham was, I am\" (John 8:58) speaks the first-person present tense as the founding mode of the divine, the I present in every moment because it is the condition of moments. The _Bṛhadāraṇyaka Upaniṣad_'s _aham brahmāsmi_ — \"I am Brahman\" — recognises the self-aware I and the ultimate ground as one act of self-knowing.\n\nAcross these traditions, the originary expression of God is subjective. It speaks from the I. The four objective positions converge on an undefinability that the fifth resolves by revealing that the one who was defining was always the one being defined. The object, or subject of the proposition was always the Subject. The simplest things are often the most arcane, the hardest to implore; God is the blind spot in God's own work, the anonymous Self at identity's core.\n\n**The return to Zero.** The referent of \"I Am\" is every conscious being for which \"I Am\" is true — the most intimate fact of conscious existence, that there is something it is like to be this, here, now. At the ground of the definition, the Subject reveals itself as undefinable in the same way God is, and for the same structural reason: the I can never be its own object, because every attempt to capture the I in a predicate produces a new I doing the capturing, receding endlessly from its own grasp. The formal limit found at the edge of the system is found again at the centre of the one who tries to build it. The subject withdraws from every act of self-capture because the act of capture _is_ the subject — and this is why no objective account of consciousness has closed around its object, why the \"hard problem\" remains hard: consciousness is a reality to be recognised from within, ratified on \"One's own terms\". This is already at the base of \"Enlightened\" Western thought. Descartes proved that the only thing we cannot doubt is the reality of the doubter. Every object is dubious, physical or mental; I am undeniable, though nowhere to be seen. I *almost must* fall into thinking objective knowledge constitutes \"knowing\", because I am, ultimately, unidentifiable."
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "start_line": 3438,
+      "end_line": 3463,
+      "relation": "grounds",
+      "provenance": "Developmental trust/slash distinction; source-bound comparison is authored here.",
+      "sha256": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "text": "### 3. Trust belongs to the slash\n\nWith `0 = One` and `1 = All`, `/` carries primordial trust. The All cannot provide its own ground. Every determinate appearance, concept, name, person, agent, model, theory, memory, institution, or world-picture arises as a `1`: real and consequential, capable of exactness and fidelity, unable to contain the One from which its reality proceeds. The One becomes manifest, differentiated, reflected, and active through the All.\n\nThe dependency is reciprocal while remaining aspectually distinct:\n\n- `1` depends upon `0` for being, coherence, determining reality, and the very field in which it can count.\n- `0` depends upon `1` for manifestation, articulation, differentiation, reflection, and knowability.\n- `/` preserves their non-identity while carrying their inseparability.\n\nTrust consequently precedes confidence, belief, testimony, method, institution, or contract. Those are developed forms of an ontological dependency already operative wherever a finite being perceives, remembers, speaks, acts, or expects a world to answer. Perception trusts that a gesture can meet a response; memory trusts that different moments can belong to one life; language trusts that a mark can reach another speaker and remain answerable to a referent; action trusts that reality has enough integrity for a finite intervention to matter.\n\nMental-rational consciousness gains enormous power by suppressing this floor. It treats representations as though their determinate clarity supplied independent access to what they represent. Measurement forgets the unmeasured field from which the measurable was cut. A model forgets the exclusions and trusted inheritances through which its variables became legible. A proposition forgets language, memory, method, witness, institution, competence, and material continuity because these conditions disappear once the proposition arrives as a finished `1`.\n\nThe material-rational paradigm therefore fails through opacity to its own dependency. It converts an aperture into a possession and the success of an approximation into evidence that the Real is exhausted by the lens through which it was approached. Gebserian diaphaneity gives the integral answer: the contextual field becomes transparent through the perspective without abolishing the perspective's precision. The relation does not ask knowledge to become less exact. It asks exactness to retain its ground, exclusions, instruments, inherited trust, and return-path.\n\nThe sequence through trust, knowledge, belief, and faith becomes:\n\n- **Trust** is the ontological dependency already enacted as `0/1`.\n- **Knowledge** is trust provisionally formalised into a determinate aperture which claims fidelity to the Real.\n- **Belief** is a stabilised orientation within such an aperture.\n- **Faith** is finite consciousness knowingly continuing through the formal limit by which no determination encloses its ground.\n- **Dogma** occurs when a local `1` occupies `0`, presents its aperture as the source and circumference of reality, and conceals the trust-relations on which its authority still depends.\n\nFaith is lucid trust under formal limitation. It does not enter only where knowledge has failed. Knowledge has always operated through the trust which faith learns to inhabit consciously.\n"
+    },
+    {
+      "path": "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+      "start_line": 90,
+      "end_line": 94,
+      "relation": "qualifies",
+      "provenance": "Retain native operation; withdraw unrestricted Gödel wording from external attribution.",
+      "sha256": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "text": "### D7 — The Ground Is Unauditable `[ORIGINAL-SYNTHESIS, with SOLID formal anchors]`\n\nNo baptism fully audits its own ground: the causal chain of every name recedes into indeterminacy at its origin (Kripke's initial baptism presupposes the individuated bearer and the modal space; it cannot itself account for either). Formally: Gödel — no closed system proves its own totality; a purely deductive proof of the ground is impossible. The Exposition (¶61) converts this from embarrassment to method: a psychoid proof \"formally maps its own unprovability and demands a living subject to traverse it,\" surviving exactly where classical mathematics fails. The 0 of the triad is constitutively unauditable — not a defect but the structural signature of ground as such. Provisionality becomes structural necessity; \"the edge of conception becomes an active agent in thinking.\"\n\n### D8 — Circuit Closure: The Economy Audits Itself `[ORIGINAL-SYNTHESIS]`"
+    }
+  ],
+  "raw_skeleton": "# Formal Limit — source-specific limits and their consequences\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

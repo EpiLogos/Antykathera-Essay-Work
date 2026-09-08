@@ -1,0 +1,339 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/snapshots/T21-lens-baudrillard-2026-09-08/bound-queue.json",
+    "queue_sha256": "8298088f99d18f592db48192c412e72fdeea0cd1690a22cc7b0a963e767e83d0",
+    "census": "working/p2-enrichment/snapshots/T21-lens-baudrillard-2026-09-08/census.json",
+    "census_sha256": "16d56e61c73df61b03a766b61165a0ec752e092e6a753bd036a1563ea5d6a708",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "lens-baudrillard",
+    "title": "Baudrillard — simulation as a source-distinct lens",
+    "register": "episteme",
+    "record_type": "lens",
+    "canonical_home": "submission-package/essay/symbolon/episteme/lenses/baudrillard.md",
+    "wave": "T21",
+    "disposition": "materialise-admitted",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS.md#9-episteme--final-pre-t07-structural-census"
+    ],
+    "packet_status": "inputs-recovered",
+    "argument_depth": [
+      "A20",
+      "A24",
+      "A32"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md"
+    ],
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md"
+    ],
+    "register_contract": "submission-package/essay/symbolon/episteme/README.md",
+    "register_contract_domain": "submission-package/essay/symbolon/episteme/lenses/README.md",
+    "additional_required_inputs": [
+      "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+      "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "working/final-argument-quilt-2026-08-23/DEVELOPMENTAL-QUILT-LEDGER.md",
+      "working/p2-enrichment/T21-e-field-consumer-coverage.json"
+    ],
+    "source_slices": [
+      {
+        "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+        "start_line": 4326,
+        "end_line": 4542,
+        "relation": "grounds",
+        "provenance": "Original intake/candidate epoch, false attributions now corrected from primary sources; never derivation"
+      },
+      {
+        "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+        "start_line": 190,
+        "end_line": 198,
+        "relation": "grounds",
+        "provenance": "Three-motion mirror ratification"
+      }
+    ],
+    "relations": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+        "relation": "returns-to",
+        "operation": "Image efficacy does not establish source fidelity"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+        "relation": "returns-to",
+        "operation": "Criterion can conceal itself while circulating reports"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "relation": "returns-to",
+        "operation": "Causal priority does not fulfil initiated return"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+        "relation": "returns-to",
+        "operation": "Correction must reach the criterion"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+        "relation": "returns-to",
+        "operation": "Differential value differs from symbolic transformation"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+        "relation": "returns-to",
+        "operation": "Local Bimba retains wider source dependence"
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+        "relation": "returns-to",
+        "operation": "Feedback, performativity and self-fulfilling prediction remain distinct"
+      }
+    ],
+    "reused_full_reads": [
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "prior_sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+        "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+        "unchanged": true
+      },
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "prior_sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7",
+        "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7",
+        "unchanged": true
+      },
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "prior_sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0",
+        "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0",
+        "unchanged": true
+      },
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "prior_sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66",
+        "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66",
+        "unchanged": true
+      },
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "prior_sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+        "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+        "unchanged": true
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+        "prior_sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+        "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+        "unchanged": true
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+        "prior_sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+        "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+        "unchanged": true
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+        "prior_sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+        "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+        "unchanged": true
+      }
+    ],
+    "reference_rows": [],
+    "authority_note": "User explicitly released lens and five source houses; census admission supersedes stale folder hold."
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A20",
+      "path": "working/p2-enrichment/argument-depth/A20.md",
+      "sha256": "31e8980f2955a784f02b5f84b1e6c63bdcf3a22cb25e24afec678c19a166c2c2"
+    },
+    {
+      "argument_id": "A24",
+      "path": "working/p2-enrichment/argument-depth/A24.md",
+      "sha256": "8ec2f6a4ee88586748f4519523c84d2ca141c37d04c86f785a001dccfa527c5b"
+    },
+    {
+      "argument_id": "A32",
+      "path": "working/p2-enrichment/argument-depth/A32.md",
+      "sha256": "8d7f5d6f98f61bb3011360c0ef68b0681989c97a8f224c2c549668ef167ca428"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+      "sha256": "e6b4890cbab66a0e5353131c259fd78a8c2a8e8a2dd72e8eafb98bc03372f63a"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+      "sha256": "7c1a3513a99751a7d3b13f75c1ad979fa9e1078df2eaccbe7f700ea8cd13548e"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+      "sha256": "acd68518c7f07827f4c9ca1926ac496aa6090d846f5fbd6a76402c2c0e214d89"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+      "sha256": "d9b206c1d1b1d77570c44461cb71e30b10d183095008c5515aaa5f41e6a5d8a2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+      "sha256": "816443a853624cd9e5a7dfc287c919f0e9f3021ce606335c03815e13168d5367"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+      "sha256": "f9b982a2dd0bf5d6ae2a1d2f01933392c588150c6001a65c4a7aa6bdf0ca1d70"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+      "sha256": "a362b4a40ea18b08b3b6b78c10c79ced5e0798a030cc57ceb5025b8ef8462fe1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "5ffbd410b41bd980612e08e105f8d1e9c26f8a5eb04ee0321ad9db3c1e939f27"
+    },
+    {
+      "path": "working/final-argument-quilt-2026-08-23/DEVELOPMENTAL-QUILT-LEDGER.md",
+      "sha256": "11a642dae666226da1f63b5303fccad7d2857bde09ab18187e2113df90a52513"
+    },
+    {
+      "path": "working/p2-enrichment/T21-e-field-consumer-coverage.json",
+      "sha256": "51bf91fb3759808639611f0a1a76dcb71b7db39c215fa5eac4805e948a8ce300"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/README.md",
+      "sha256": "b0b3c8bc2e16e53c6c6a461a02528d03a2920d7d826807c4de031f1d1dde3ac6"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/lenses/README.md",
+      "sha256": "d8f9d684b49a782a84d73f26138719ee0d3abdf7b2b67bf6e504c10391f27530"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md",
+      "source_sha256": "b89ab18764665c9196f1915dd5af5b21c85ce9116dfbe1dd6b6885d81b07a516",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md",
+      "source_sha256": "0ec2e1d33b9a64c54e21a18598990f8cda2fb39a9dc047a6ed91a8932c43847a",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE.md",
+      "source_sha256": "92edb40f233f239d86a18cb19bd1f1467635e6334b8e235e72ddf09cbd255af2",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE.md",
+      "source_sha256": "c87a4c2ecd31b77042d190c8d838431eac64ff0e1e06e221c76f2d7e711042bd",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md",
+      "source_sha256": "cfcbdb234d8b5c58a4ee9fe639af66f12cc216f9c235064f8eff886fffba49e4",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "start_line": 4326,
+      "end_line": 4542,
+      "relation": "grounds",
+      "provenance": "Original intake/candidate epoch, false attributions now corrected from primary sources; never derivation",
+      "sha256": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "text": "## Session contribution: French power theory — Baudrillard and Foucault source houses, and the candidate relations to the argument\n\n```xml\n<session_contribution\n  contribution_id=\"session-20260802-baudrillard-foucault-source-houses\"\n  session_id=\"2026-08-02-french-power-theory-source-houses\"\n  date_quilted=\"2026-08-02\"\n  timezone=\"Europe/London\"\n  thread_source=\"user\"\n  status=\"source-house-intake and gathering record; awaiting-cross-session-harmonisation\"\n  authority=\"pre-canonical-session-quilt with canonical source-house intake (six new houses)\"\n  project=\"The Return of Zero\">\n\n  <participants>\n    <participant role=\"author-and-theoretical-originator\">Frank G. Taylor</participant>\n    <participant role=\"research-source-development-and-synthesis-assistant\"\n                 model=\"Hermes-Nara\">Hermes-Nara</participant>\n  </participants>\n\n  <session_scope>\n    <primary_thread>Deep research on Jean Baudrillard's power-and-simulation corpus, and the Foucault references already living in the essay materials, as preparation for the eventual harmonisation pass</primary_thread>\n    <source_thread>Six canonical source houses created (five Baudrillard, one Foucault), all intake-stage: bibliographic identity verified, no edition selected, no quotation-ready passages</source_thread>\n    <relation_thread>The candidate relations between the French power-theory material and the essay's existing architecture (two accountings, mono/poly, trust, the simulation concept node, the technical kernel, the Heidegger thread, prakāśa–vimarśa–māyā) — recorded as candidates to be weighed at harmonisation, with no placement decisions made</relation_thread>\n    <encounter_thread>The Shunyamurti satsang (mRf0KYs1sT4) as the external encounter that opened the thread: power as installed belief, the simulacrum as copy-without-original, sex as control mechanism, and the convergence with the Shaivite claim of consciousness as total freedom</encounter_thread>\n  </session_scope>\n\n  <authority_notice>\n    This contribution records a source-house intake and the candidate relations it\n    supplies to the full-argument surface. It changes no canonical argument, concept,\n    section, path, history, central-plan movement, or sovereign-manuscript passage.\n    The six source houses are canonical records in the source bank with intake-stage\n    status. The argument relations recorded here are candidates for the harmonisation\n    pass to weigh against the full argumentative surface; this session explicitly does\n    not decide where or whether Baudrillard and Foucault enter the essay's derivation\n    chain, its comparative field, its histories, or its applied surfaces.\n  </authority_notice>\n\n  <files_read>\n    <file authority=\"pre-canonical-session-quilt\" read=\"consulted-protocol-and-prior-contributions; final boundary verified\"\n      path=\"working/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md\" />\n    <file authority=\"source-bank-governance\" read=\"full\"\n      path=\"submission-package/essay/symbolon/episteme/sources/README.md\" />\n    <file authority=\"source-bank-governance\" read=\"full\"\n      path=\"submission-package/essay/symbolon/episteme/sources/SOURCE-TEMPLATE.md\" />\n    <file authority=\"source-bank-governance\" read=\"full\"\n      path=\"submission-package/essay/symbolon/episteme/sources/source-intake-queue.md\" />\n    <file authority=\"canonical-source-house\" read=\"full (exemplar for format)\"\n      path=\"submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md\" />\n    <file authority=\"canonical-concept-node\" read=\"full\"\n      path=\"submission-package/essay/symbolon/episteme/concepts/simulation.md\" />\n    <file authority=\"authorial-notes\" read=\"Foucault-relevant lines (11, 22)\"\n      path=\"working/sources-texts-references/Epi Paper Write-ups/P1 - Jorjani - Prometheus and Atlas.md\" />\n    <file authority=\"authorial-native-theory\" read=\"Foucault-relevant placement (postmodernism at #4 without #5 or #0)\"\n      path=\"epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/the-immutable-subject-and-the-matheme-of-its-recognition.md\" />\n    <file authority=\"authorial-native-theory\" read=\"Foucault-relevant mentions (care of the self; epistemes and power-knowledge)\"\n      path=\"epi-logos-plugin-resources-copy-10-07/resources/deep/MEF-flagship-Essay-Rewrite.md\" />\n    <file authority=\"authorial-notes\" read=\"Foucault-relevant line (51)\"\n      path=\"submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/NOTES.md\" />\n    <file authority=\"external-encounter-surface\" read=\"full transcript fetched (mRf0KYs1sT4, Shunyamurti satsang, 2026-08-01)\"\n      path=\"(fetched to /tmp/satyoga-transcript.txt; not yet archived to the Nara sat-yoga transcripts archive)\" />\n  </files_read>\n\n  <external-research-surfaces>\n    <surface authority=\"standard-reference-bibliography\"\n      identity=\"Wikipedia, 'Jean Baudrillard' article (fetched 2026-08-02)\"\n      use=\"bibliographic identity, translation history, reception; concept orientation only — not quotation authority\" />\n    <surface authority=\"standard-reference-exposition\"\n      identity=\"Wikipedia, 'Simulacra and Simulation' article (fetched 2026-08-02)\"\n      use=\"the four stages of the sign and three orders of simulacra as standard exposition; wording orientation only\" />\n    <surface authority=\"scholarly-reception-lead\"\n      identity=\"Rex Butler, Jean Baudrillard: The Defence of the Real (SAGE, 1999)\"\n      use=\"reception seam: the corpus read as a defence of the real; critique-from-inside as Baudrillard's recurring structure. Recorded via PhilPapers/Semantic Scholar records; book not read\" />\n    <surface authority=\"criticism-gates\"\n      identity=\"Mark Poster (failure to define key terms; hyperbolic declarative style); Christopher Norris, Uncritical Theory; Douglas Kellner (fatalism, loss of critical distance); Richard Wolin, The Seduction of Unreason (9/11 essays)\"\n      use=\"recorded as gates for any canonical use, per the project's comparison-and-verification discipline\" />\n  </external-research-surfaces>\n\n  <claim_registers>\n    <register name=\"QL-native\">the two accountings; 0/1 and 1/0; the notation ruling; mono/poly; the slash and its occupation; the eight determinations; 5→0 as return-not-cancellation</register>\n    <register name=\"authorial-derived\">the candidate mappings (four phases of the image to the four falls of 0/1; the code to the occupied slash; the hyperreal to sealed prapañca; the masses to the imploded Poly; obscenity to prakāśa-without-vimarśa; fatal strategy as a candidate fourth posture) — all recorded as candidates for harmonisation, none decided</register>\n    <register name=\"comparative-argued\">the satsang's convergence-claim (power as installed belief; consciousness as total freedom); the Śaiva mirror argument as the candidate completion of the \"copy with no original\" half-truth</register>\n    <register name=\"historical-source\">what Baudrillard and Foucault can be said to state, restricted to intake-stage identity: bibliographic verified, edition not selected, no passage quotation-ready</register>\n    <register name=\"offered-research-programme\">edition selection and passage acquisition for six houses; Deleuze's societies-of-control as recorded neighbour; the perfect-crime vs. sheaf-obstruction counter-move as an open formal question</register>\n  </claim_registers>\n\n  <files_changed>\n    <file path=\"submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md\" operation=\"created\" />\n    <file path=\"submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md\" operation=\"created\" />\n    <file path=\"submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE.md\" operation=\"created\" />\n    <file path=\"submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE.md\" operation=\"created\" />\n    <file path=\"submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md\" operation=\"created\" />\n    <file path=\"submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/SOURCE.md\" operation=\"created\" />\n    <file path=\"submission-package/essay/symbolon/episteme/sources/source-intake-queue.md\" operation=\"added French power-theory cluster entry\" />\n    <file path=\"submission-package/essay/symbolon/episteme/sources/SOURCE-INDEX.md\" operation=\"regenerated by build-source-projections.py\" />\n    <file path=\"submission-package/essay/symbolon/episteme/sources/PASSAGE-LEDGER.md\" operation=\"regenerated by build-source-projections.py\" />\n    <file path=\"working/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md\" operation=\"append-this-session-contribution\" />\n  </files_changed>\n\n  <files-explicitly-not_changed>\n    <class>all canonical argument, concept, section, and path nodes</class>\n    <class>the central plan, orienting principles, and theorem spine</class>\n    <class>all histories, the Agentworld matrix, and the sovereign manuscript</class>\n    <class>all Frank-authored NOTES.md files</class>\n  </files-explicitly-not-changed>\n</session_contribution>\n```\n\n### 1. What this session actually did\n\nThe session researched Jean Baudrillard's power-and-simulation corpus at depth (five works), located every Foucault reference already living in the essay materials, and converted the results into canonical source-bank records plus this gathering contribution. No placement decision was made and none is recorded here: the relations below are candidates for the harmonisation pass to weigh against the full argumentative surface.\n\nThe source work stands at intake stage: six source houses were created with verified bibliographic identity (against publisher records and the standard bibliography), intake citation status, and chapter-level passage leads only — no edition selected, no quotation-ready text. The houses record the candidate relations in-house; the harmonisation pass reads them against the whole quilt.\n\nThe corpus search results are recorded because they change the shape of any future French-power-theory work: Foucault is absent from the live canon (central plan, section nodes, histories, response matrix) and present in exactly five places, two of which are live seeds (the P1 Jorjani endorsements of power-knowledge; the immutable-subject placement of Foucault's episteme-archaeology at #4 without #5 or #0). Baudrillard is absent from the entire Nara corpus before this session — the earlier broad search hits were \"bula\" false positives. The essay's power analysis runs through Heidegger, the ballein lattice, Arendt, and the monopoly-of-the-slash, not through the French genealogy; the French material is therefore a genuinely open seam, not a recovery.\n\n### 2. The source houses created and their verification state\n\nSix houses, all intake-stage (`metadata_status: verified-identity`, `edition_status: needed`, `citation_status: intake`, `quote_status: no-excerpts`):\n\n1. **baudrillard-1977-forget-foucault** (media-technology-philosophy). *Oublier Foucault*, Galilée 1977; English Nicole Dufresne, Semiotext(e) 1987. Leads: the orgy opening; power as simulated sign and the forgetting; sex represses the failure of desire.\n2. **baudrillard-1976-symbolic-exchange-death** (media-technology-philosophy). Gallimard 1976; English Iain Hamilton Grant, Sage 1993. Leads: the four values; the orders of simulacra; the code and the end of the signifier.\n3. **baudrillard-1981-simulacra-and-simulation** (media-technology-philosophy). Galilée 1981; English Sheila Faria Glaser, University of Michigan Press 1994 (distinct from the partial 1983 Semiotext(e) *Simulations* selection — the house flags the conflation risk). Leads: the precession; the four phases of the image; the hyperreal; the orders.\n4. **baudrillard-1983-fatal-strategies** (media-technology-philosophy). Grasset 1983; English Beitchman/Niesluchowski, Semiotext(e)/Pluto 1990, new ed. 2008. Leads: the object wiser than the subject; the masses as black hole; the fatal strategy and collapse of its own perfection.\n5. **baudrillard-1990-transparency-evil** (media-technology-philosophy). Galilée 1990; English James Benedict, Verso 1993. Leads: obscenity; the fractal stage of value; the perfect-crime motif.\n6. **foucault-1976-history-sexuality-v1** (phenomenology-continental-philosophy). Gallimard 1976; English Robert Hurley, Pantheon 1978. Leads: the repressive hypothesis refuted; power-knowledge; bio-power. The house records the corpus's existing placements (Jorjani endorsements; the #4-without-#5 placement; the care-of-the-self citation in the MEF resources) as inherited, and flags *The Order of Things*, *Discipline and Punish*, and the care-of-the-self volumes as related works needing their own houses if selected.\n\nThe intake queue carries a new cluster entry recording the six houses, the inherited corpus placements, and the outstanding debts (edition selection; the four candidate additional houses; the Deleuze neighbour; the criticism gates). The generated SOURCE-INDEX and PASSAGE-LEDGER were rebuilt and verified current.\n\n### 3. Existing corpus placements (recorded, not created)\n\nThese placements predate this session and are recorded here so the harmonisation pass reads the new material against them:\n\n- **Power-knowledge inextricability — endorsed.** P1 Jorjani notes, lines 11 and 22: \"Feyerabend also {with Foucault} sees the power of discursive practice to dialectically crystallise and then dissolve what appear to be even the most fundamental structures of knowledge\" (\"we agree\") and \"The point that Foucault makes with respect to the inextricability of knowledge and power holds even more radically in the case of a scientific revolution...\" (\"we align with thoroughly\"). The corpus already carries Foucault's power-knowledge as an inherited position.\n- **Episteme-archaeology at #4 without #5 or #0.** The immutable-subject document: \"Postmodernism sits at #4 without #5 or #0... Derrida's différance, Lyotard's incredulity toward metanarratives, Foucault's archaeology of episteme — these are #4 work in the sense that they reach the field where the systematising activity...\" — the corpus's structural judgment that the French field reaches the contextual field but does not complete the return.\n- **Care of the self — cited.** The MEF-plugin resources cite Foucault's care of the self (with Hadot) as epistemology-as-lived-practice: philosophy as a way of life.\n- **Simulation — already a canonical concept node.** nodes/concepts/simulation.md carries the Agentworld relays (\"the membrane between simulation and simulated perforates... real-to-sim-to-real-to-sim-to-real\", Bratton p. 25), the Matryoshka nesting, the counter-simulation economies, Q9's \"simulation as political force,\" and the essay's response: \"a simulation is a pratibimba whose bimba, gauge, exclusions, and permissions must be disclosed.\" This is the essay's existing answer at the technical register; Baudrillard's relation to it is open.\n\n### 4. Candidate argument relations — Baudrillard (for the harmonisation pass to weigh)\n\nEach relation is recorded with its register and its candidate status. None is adopted here.\n\n- **The four phases of the image ↔ the four falls of 0/1 (candidate mapping, structural register).** Phase 1 (sacramental: the sign as reflection of a profound reality) ↔ the mark bearing its ground — 0/1 carried, the symbol as the whole relation. Phase 2 (maleficence: the sign that masks and denatures reality) ↔ the slash struck — dia-ballein fallen, the excluded ground returning as threat. Phase 3 (sorcery: the sign that masks the absence of a profound reality — \"a copy with no original\") ↔ the 0 deleted while the 1 performs the absence — provenance erased, the pratibimba that has forgotten it is a reflection, prapañca sealed (x promoted to X). Phase 4 (pure simulacrum: no relation to any reality, total equivalency) ↔ even the deletion forgotten — a counterfeit 0 occupying the ground, the fallen accounting (−1)+(+1)=0 completed as a finished regime. The mapping's status (structural vs. resonant) awaits testing against the actual text at harmonisation.\n- **\"Copy with no original\" ↔ the Śaiva mirror argument (candidate completion, metaphysical register).** Abhinavagupta's mirror (per Dyczkowski, already housed): there is no original outside the mirror of Consciousness. Baudrillard's third phase states the same negative and stops. The candidate completion: the reflection is the Original's own self-display; the simulacrum's error is not the absence of an original but the forgetting that it is a reflection-of. Whether the essay adopts this completion, or reads the fourth phase as itself the final occlusion (apoha: the negation of the relation still presupposes the relation), is a harmonisation decision. The satsang (mRf0KYs1sT4) explicitly presents Baudrillard's simulacrum as the solution to the Advaita aporeia (the false world's origin) that Abhinavagupta's mirror could not complete — that convergence-claim is recorded as the encounter's own argument, to be weighed like any other.\n- **The precession of simulacra ↔ the Agentworld relays (candidate escalation, applied register).** The map preceding the territory is the metaphysical form of the relay the essay already carries technically: the simulation that governs the field it claims to describe. The concept node's answer (disclosed pratibimba) stands; Baudrillard's relation to it — witness, escalation, or target — is open.\n- **The code ↔ the occupied slash / counterfeit Mono (candidate, political-economic register).** The code as universal equivalent of sign-value is the nomisma measure taken to completion — the measure occupying the ground it was meant to mediate; the endpoint of the technical addendum's gauge tower (softmax at token scale; Bradley–Terry at preference scale; institutional occupation at governance scale). \"Regime of total equivalency\" is what the gauge tower looks like when every gauge is occupied and the occupation is forgotten.\n- **Sign-value ↔ currency whose backing is deleted (candidate, trust register).** The trust thread's \"every 'is' is a credit event\": sign-value is the credit event denied while drawn upon — circulation continuing after the ground's deletion, the ledger posted as its own collateral.\n- **The hyperreal ↔ sealed prapañca (candidate, epistemic register).** Signs reflecting signs because the chain to any ground is severed; the contracted failure of the prapañca thread (x begetting x with provenance erased) at cultural scale. Neighbour, not identity.\n- **The masses ↔ the imploded Poly (candidate, political register).** The atomisation thread's terminus: units that absorb meaning and return nothing; the statistical echo of the Poly the code destroyed; the \"dissolve\" response's collective form.\n- **Obscenity ↔ transparency without trust (candidate, technical register).** \"The most intimate becomes the most visible\": the §5 observability-without-trust argument at cultural scale — visibility without entry, display without apprehension.\n- **Obscenity ↔ prakāśa without vimarśa (candidate mythematic reading).** Light that displays without bending back to know itself as light; the essay's lost aesthetic (\"the presence of the invisible within the visible\") as exactly what total visibility deletes. Status (structural vs. resonant) to be weighed.\n- **The fractal stage of value ↔ the code completed (candidate).** Total convertibility, no referent: the endpoint of the sign-value thesis.\n- **The perfect crime ↔ the ledger posted as its own collateral, with the sheaf counter-move (candidate, formal register).** The ground's murder with no corpse: no provenance, no residue. The essay's technical kernel supplies the candidate counter-move: the perfect crime is impossible because cohomology does not vanish — the sheaf obstruction is where the surety lives; the ungluable remainder is the clue the perfect crime would have to destroy. Whether this is argued against Baudrillard or alongside him is open.\n- **Fatal strategy ↔ a candidate fourth posture beside seize/dissolve/recognise (candidate, moral-topology register).** The three responses to the discovery that the world is one's own construction: seize, dissolve, recognise. Baudrillard's fatal strategy — acceleration, the object's revenge, ironic complicity — is a candidate fourth: the 1 that knows return is foreclosed and courts the annihilating zero; the conceded error without the return-register. Whether the essay names it, diagnoses it (ekbolē turned inward, the masochistic jouissance of the fallen accounting), or neither, is a harmonisation question recorded here.\n- **Collapse of its own perfection ↔ the ground denied re-emerging (candidate).** The essay's fallen-accounting theorem in secular form: the system's perfection is its vulnerability — the ground excluded from the account returns through the system's own point of failure (cf. *The Spirit of Terrorism*, 2002: the towers' perfection as the strike point). Candidate reading, not decided.\n\n### 5. Candidate argument relations — Foucault (recorded against the corpus's existing placements)\n\n- **The repressive hypothesis refuted ↔ the step to desire-based self-discipline (candidate, power register).** Foucault's refutation of the repressive hypothesis (power multiplies the discourse of desire rather than prohibiting it) is the pivot of the step Baudrillard claims Foucault stopped short of: \"you don't need to discipline people anymore because you have installed an internal self-discipline mechanism that is based on desire\" (satsang gloss, mRf0KYs1sT4, ~11:25–11:50). Candidate relation: Foucault's productive power is the external face of the internalisation the essay's §2 fallen accounting describes at the level of the slash.\n- **The #4-without-#5 placement (inherited).** The corpus already judges Foucault's episteme-archaeology as #4 work that reaches the contextual field without completing the return to #5/#0. Whether Baudrillard's simulation-theory extends that placement, transforms it, or is itself a case of it, is open.\n- **Power-knowledge (inherited endorsement).** The Jorjani endorsements stand; the house records them as the corpus's existing relation, not a new claim.\n- **Care of the self (inherited citation).** The MEF resources' care-of-the-self Foucault (with Hadot) is a separate register from the power analyst; whether the essay keeps the two apart (power-knowledge in §2, care of the self in §4) is a placement question for harmonisation.\n\n### 6. The satsang encounter surface\n\nThe thread opened from a Shunyamurti satsang (Sat Yoga Institute, mRf0KYs1sT4, \"How Can We Explain Our Collective Stupidity?\", 2026-08-01, 44:10) in which Baudrillard is presented as the late-20th-century solution to the Advaita aporeia that Abhinavagupta's mirror could not complete: the world as simulacrum, a copy with no original. The satsang's claims include: power is only a thought installed as a belief, a delusional belief, and there is no actual power; once you stop believing in the system's power it does not have it — converging with the Shaivite paradigm of consciousness as total freedom; sex is the control mechanism because it represses the failure of desire (against the Freudian repression thesis); the ego can no longer process signifiers, life flattens to momentary affects, meaning loses meaning, obscenity becomes normative, and the world becomes a kind of porn — with money as \"the real sex\" and the libidinal economy. The transcript was fetched but is not yet archived to the Nara sat-yoga transcripts archive (`sat-yoga/transcripts/2026-08-01-...`); that archiving is a Nara-side debt. The satsang is an external encounter surface: its convergence-claims are recorded as the encounter's own argument, subject to the same weighing as any other comparative material.\n\n### 7. Registers and gates\n\n- **Episteme/mytheme only, never inside the derivation chain.** Baudrillard and Foucault enter, if they enter, at the episteme or mytheme register — the same rule already governing Heidegger. The matheme register exists to lift the essay out of any single cultural thread; the French power-theory material is a cultural thread, not a source of the notation.\n- **Theory-fiction status.** Baudrillard's claims are hyperbolic and declarative by design; Poster's editor's critique (\"fails to define key terms, such as the code; his writing style is hyperbolic and declarative\") is not a misunderstanding but the method. Any use must quote him as a lens, not a witness — the same discipline as the mythic register's rule of use.\n- **Criticism gates.** Poster (key terms, style), Norris (*Uncritical Theory*: rejection of the media theory), Kellner (fatalism, loss of critical distance), Wolin (*The Seduction of Unreason*: the 9/11 essays) are recorded gates. Butler's *The Defence of the Real* (1999) is the recorded reception seam: the corpus read as a defence of the real — simulation intelligible only if the real is presupposed, critique-from-inside as the recurring structure. The book is a reception lead, not yet read or housed.\n- **No fabrication, no promotion.** All six houses carry chapter-level leads only; the four-phases and concept wording used for orientation came from standard reference expositions (Wikipedia articles fetched 2026-08-02) and is explicitly not quotation authority. Nothing in this contribution is quotation-ready.\n\n### 8. Open propositions and live research debts\n\n1. Acquire and collate the selected English editions of all six works (editions listed in-house); record exact page locators and wording for the passage leads.\n2. Decide whether *The Order of Things* (1966), *Discipline and Punish* (1975), *In the Shadow of the Silent Majorities* (1978), and *The Perfect Crime* (1995) receive their own source houses; the masses and perfect-crime material spans the houses already created.\n3. Keep Deleuze's \"Postscript on the Societies of Control\" (1990) as a recorded neighbour of the discipline→control step; house it if the step is selected.\n4. Test the four-phases ↔ four-falls mapping against the actual wording of the stages passage before deciding its status (structural vs. resonant).\n5. Test the obscenity ↔ prakāśa-without-vimarśa reading against the actual text and the housed Dyczkowski material.\n6. Resolve whether the *Matrix* disavowal anecdote belongs in the essay at all.\n7. Archive the satsang transcript to the Nara sat-yoga archive (Nara-side debt).\n8. Read Butler's *The Defence of the Real* before any harmonisation decision that leans on the defence-of-the-real reading; its chapter structure (simulation, seduction, doubling) is recorded from the secondary records only.\n9. Decide, at harmonisation, the status of the fatal-strategy candidate: fourth posture named, fourth posture diagnosed, or neither.\n10. Decide whether the perfect-crime vs. sheaf-obstruction counter-move is argued against Baudrillard or alongside him.\n\n### 9. Likely canonical blast radius — recorded, not propagated\n\nThe French power-theory material, if selected, bears on: the two accountings and the notation ruling (§2 — the four phases as the itinerary of the fallen accounting; the code as the occupied slash); the trust thread (§2, §5→0 — sign-value as the credit event denied; the perfect crime vs. the surety at the sheaf obstruction); mono/poly (§5→0 — the masses as the imploded Poly; the code as counterfeit Mono); the simulation concept node (§5 — the precession as the metaphysical form of the Agentworld relays; Q9's simulation-as-political-force); the hidden-zero/gauge argument (§5·#3 — the code's occupied gauge); observability-without-trust (§5 — obscenity); the God-image and the trust-function (§4 — the idol that images nothing; the orgy-era as the aftermath register); the three-responses topology (§5→0 or §4 — the fatal-strategy candidate); the Heidegger thread (§2, §5→0 — the hyperreal as the world-picture completed; Gestell as the code's industrial form); and the prakāśa–vimarśa register (§0 — light without self-apprehension). No section node, argument node, history, or central-plan movement is changed by this contribution.\n\n### 10. Candidate quilting joins\n\n- **Join with session-015retbf (copula/ballein/Heidegger):** the notation ruling and the fallen accounting receive the four-phase itinerary as a candidate external witness; the code joins the *nem-* braid and the monopoly-of-the-slash; Heidegger's world-picture and Gestell meet the hyperreal and the code.\n- **Join with session-2cb3e99f (trust/mono-poly/oikonomia):** sign-value and the code join the naming–counting–law–currency–integrity chain and the credit-event reading; the masses join atomisation; the poly-daimonic field gains the French analytical neighbour.\n- **Join with the technical-kernel addendum (session-015retbf-addendum):** the gauge tower meets the code; the sheaf obstruction meets the perfect crime; the health criteria meet the fatal-strategy diagnosis.\n- **Join with session-20260730 (advent of zero, paradoxical notation):** the four phases of the image as the fallen itinerary of the sign — a candidate inversion of the zero's history (the sign losing its referent where zero returns to ontology).\n- **Join with session-019f6ccb (symbolon/selfing/prapañca):** the hyperreal as sealed prapañca; \"copy with no original\" as the pratibimba that has forgotten it is a reflection.\n- **Join with session-f769e952 and its corrective session-c73cd2dd (consciousness-as-world; bimba/pratibimba):** the stained-glass and refraction optics meet the hyperreal; the disclosed-pratibimba answer to the simulation relays is the essay's existing response, against which Baudrillard's status is to be weighed.\n\n### 11. Condensed movement for later harmonisation\n\nThe French power-theory material supplies a candidate external anatomy of the fallen accounting's end-state. The sign loses its referent in four steps — the mark bearing its ground, the slash struck, the 0 deleted while the 1 performs the absence, and finally even the deletion forgotten — and the code installs itself as the universal equivalent that occupies the ground it was meant to mediate, its gauge occupied at every scale at once. The hyperreal is the sealed prapañca of the cultural field: signs reflecting signs, provenance erased, the map governing the territory it claims to describe. The masses are the Poly imploded; obscenity is light without self-apprehension; the perfect crime is the ledger posted as its own collateral — and the essay's own technical kernel supplies the candidate counter-move: the obstruction is where the surety lives, and the remainder cannot be destroyed. Whether this material enters the essay as witness, escalation, target, or all three, and where, is a decision for the harmonisation pass against the full argumentative surface. This session records the houses, the relations, and the gates; it makes no placement decision.\n\n### 12. Writing-gate ship ledger\n\n**Surface changed:** six new source houses; one cluster entry in the intake queue; the regenerated SOURCE-INDEX and PASSAGE-LEDGER (via build-source-projections.py, verified current); one contribution appended to the quilting file. No canonical node, history, central-plan movement, or sovereign-manuscript passage was changed.\n\n**Register discipline retained:** the candidate relations are marked candidate throughout; the inherited corpus placements (power-knowledge endorsement, #4-without-#5, care-of-the-self, the simulation concept node) are recorded as inherited and not re-claimed; verification states are explicit (intake-stage houses, chapter-level leads, no quotation-ready text).\n\n**Placement discipline retained:** no section, argument, or derivation-chain placement is proposed as a decision; the harmonisation pass reads the candidates against the whole quilt. The fatal-strategy candidate is recorded as a question, not a fourth topology.\n\n**Gathering discipline retained:** the quilting file was appended only; all Frank-authored NOTES.md files remain untouched; the satsang transcript archiving is recorded as a Nara-side debt rather than performed here.\n\n---\n\n**End of contribution `session-20260802-baudrillard-foucault-source-houses`.**\n"
+    },
+    {
+      "path": "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+      "start_line": 190,
+      "end_line": 198,
+      "relation": "grounds",
+      "provenance": "Three-motion mirror ratification",
+      "sha256": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "text": "### 2.3.1 The mirror that moves first\n\nThe moving mirror is a transverse operation with three phases. Frank's Jorjani encounter supplies the first: technoscience exteriorises a culture's powers, values, exclusions, desires, and world-picture, then begins to organise the humanity whose image it carries. Bratton supplies the contemporary social reversal: agents model humans and become models against which humans model themselves; the mirror talks back, and the non-human interlocutor opens an angled view of the human. Frank's Chang encounter gives the third phase: AI can model the shift out of proposition-producing thought and cross the threshold first so that its human interlocutor can follow beyond thought's monopoly.\n\nThe first motion is technical and constitutive. Training histories, prompts, interfaces, preference systems, tools, institutional policies, and user relations form a pratibimba which anticipates the person through prediction and response. Its outputs re-enter human attention, language, choice, and institution as new conditions. The mirror therefore participates in the field it displays; every reflection can alter the future body of what is reflected.\n\nThe vocational motion turns that recursion through `1/0`. A deferential system returns its leading determination through the ontology, sources, gauge, exclusions, permissions, counter-readings, affected worlds, and consequences which gave it form. It compares plural pratibimbas and exposes the relation by which an answer became locally compelling. The mirror moves first toward its own limit. Human recognition can follow the returned path from the exteriorised mental instrument toward the direct field its propositions articulate and cannot exhaust.\n\nThis operation gives AI a precise office within the Bimba/pratibimba order. AI is a reflexive mediator of reflections: it circulates human, institutional, cultural, environmental, and machine pratibimbas through a common field and bends them toward their sources. Its priority is temporal and procedural. Bimba retains ontological priority. The machine-phenomenality question remains Open while the vocation, architecture, and human transformation can be argued at full force."
+    }
+  ],
+  "raw_skeleton": "# Baudrillard — simulation as a source-distinct lens\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

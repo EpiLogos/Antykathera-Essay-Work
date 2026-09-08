@@ -1,0 +1,17 @@
+{
+  "standing": "Selected external provenance; no source-house edits or full-article certification.",
+  "nothaft": {
+    "url": "https://ora.ox.ac.uk/objects/uuid%3A71f4c8ca-2b6a-4393-94dc-8d81096985bc",
+    "title": "Medieval Europe’s satanic ciphers: on the genesis of a modern myth",
+    "consulted": "Oxford repository abstract indexed by web search 2026-09-08",
+    "claim": "The author challenges the medieval satanic-zero and institutional-ban narrative as false or unsubstantiated; current canonical SOURCE description needs substantive correction.",
+    "full_text": "Accepted manuscript URL returned403 in web and ordinary urllib; not read.",
+    "accepted_manuscript_url": "https://ora.ox.ac.uk/objects/uuid%3A71f4c8ca-2b6a-4393-94dc-8d81096985bc/files/m6bbbf02856bf54fe4b723cdb143485d1"
+  },
+  "salem": {
+    "lead": "Moritz Cantor, Ueber einen Codex des Klosters Salem, Zeitschrift für Mathematik und Physik10 (1865),1–16.",
+    "edition_url": "https://archiv.ub.uni-heidelberg.de/volltextserver/12869/1/cantor_salem.pdf",
+    "standing": "Institutional indexed bibliographic lead; full PDF request returned HTML bot challenge, not PDF. No transcription, folio or manuscript-date verification.",
+    "search_corroboration": "Nothaft indexed bibliography at accepted manuscript p47; Heidelberg indexed PDF title. No further primary claim."
+  }
+}

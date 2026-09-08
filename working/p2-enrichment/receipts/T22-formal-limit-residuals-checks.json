@@ -1,0 +1,60 @@
+{
+  "body_preserved_except_declared_identity_clause": true,
+  "local_paths_checked": 42,
+  "missing": [],
+  "native_full_read_reuse": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+      "unchanged": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7",
+      "unchanged": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0",
+      "unchanged": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66",
+      "unchanged": true
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+      "unchanged": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+      "unchanged": true
+    }
+  ],
+  "primary_read": {
+    "Tractatus": "Gutenberg5740 1922 digital reformat,6.4\u20136.522 with6.53\u20137 context; proposition locators; no new SOURCE card",
+    "Varela": "existing local CSR OCR PDF17\u201319/printed21\u201323, selected frequency paragraph read; no complete proof audit",
+    "FileOne": "Binary SOURCE whole; candidate title/opening and exact path; historical alias not certified",
+    "BlindSpot": "SOURCE has no admitted excerpts; optical figure attributed to inherited note; human/AI return explicitly authored"
+  },
+  "reference_dispositions": {
+    "12": "developed figure and human experiential/AI return; exact book AI passages still source task",
+    "31": "candidate object recovered; Draft3 and older file-one distinct; historical alias unresolved",
+    "64": "Argued chain preserved; frequency/retention specifications named; signed dia unrolled time Offered undeveloped research",
+    "89": "ethics/value/mystical6.4\u20136.522 developed from primary text",
+    "53": "absolute/contracted maximum and line/circle remain distinct source tasks; no fabricated historical exposition"
+  }
+}

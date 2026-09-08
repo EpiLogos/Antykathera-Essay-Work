@@ -1,0 +1,3112 @@
+{
+  "schema_version": 2,
+  "binding": {
+    "queue": "working/p2-enrichment/T21-history-zero-subject-advent-queue.json",
+    "queue_sha256": "937001d3acf793fb27496784ba758a29044cba011bc2596822a1e986fe6113eb",
+    "census": "working/p2-enrichment/T21-history-zero-subject-advent-census.json",
+    "census_sha256": "3f56a926ca34a357531d4e53e3e829e2e4d9565c20f65f612801779ffb401b27",
+    "depth_acceptance": "working/p2-enrichment/receipts/depth-acceptance.json",
+    "depth_acceptance_sha256": "5eb6a01764cfe8ad0ea44bcd7b0818782b930f4036239f34f201041dc6ce513c",
+    "quilt_hashes": {
+      "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md": "51051125342890cf0b11cff2c6cdfe8aa6d2223d6ab406f125ed042fc60d4659",
+      "submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md": "70e27dcc8320ee79bc617492a46ea11dfec19e7e6b1dff64f221464c53abf9be",
+      "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "submission-package/essay/quilt/agentworld-response-matrix.md": "5c2c88c36a90e6631699e470667756382d0c9dea8398e1e6cac115303e513f63",
+      "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md": "17d269d17a5a43d2d1b232b1c63eb32c20376e513080a95d80ba6ba3555e9042",
+      "submission-package/essay/quilt/ql-expression-grammar.md": "c6edc33d56c50b7218e57a9d5cedff6a67f271359d18a165f21ec98a74974277"
+    }
+  },
+  "target": {
+    "record_id": "history-zero-subject-advent",
+    "title": "zero-subject-advent",
+    "register": "episteme",
+    "record_type": "history",
+    "canonical_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/HISTORY.md",
+    "wave": "T21",
+    "disposition": "enrich-existing-history",
+    "authority": [
+      "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md#6-episteme-structural-census",
+      "working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md"
+    ],
+    "packet_status": "awaiting-complete-36-depth-review",
+    "development_home": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT.md",
+    "companion_policy": "Derived companion only; protected HISTORY unchanged.",
+    "argument_depth": [
+      "A04",
+      "A10",
+      "A18",
+      "A21",
+      "A36"
+    ],
+    "source_houses": [
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md",
+      "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md"
+    ],
+    "direct_carriers": [
+      "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md",
+      "working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md"
+    ],
+    "register_contract": "submission-package/essay/symbolon/episteme/README.md",
+    "register_contract_domain": "submission-package/essay/symbolon/episteme/histories/README.md",
+    "additional_required_inputs": [
+      "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/HISTORY.md",
+      "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+      "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+      "submission-package/essay/section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational.md",
+      "submission-package/essay/section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md",
+      "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+      "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+      "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+      "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORICAL-BRANCHES.md",
+      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
+      "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORICAL-BRANCHES.md",
+      "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+      "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORICAL-BRANCHES.md",
+      "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORY.md",
+      "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md"
+    ],
+    "source_slices": [
+      {
+        "path": "working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md",
+        "start_line": 34,
+        "end_line": 48,
+        "relation": "grounds",
+        "provenance": "Full authorial manuscript read; exact arrival operation with separate histories."
+      },
+      {
+        "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+        "start_line": 5329,
+        "end_line": 5362,
+        "relation": "grounds",
+        "provenance": "Native recapitulations and explicit authorial corrections; not external evidence."
+      }
+    ],
+    "relations": [
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+        "relation": "returns-to",
+        "operation": "Positioned seeing becomes invested context."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+        "relation": "returns-to",
+        "operation": "First admission retains arithmetic permissions."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+        "relation": "returns-to",
+        "operation": "Eightfold native derivation precedes psychic refraction."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+        "relation": "returns-to",
+        "operation": "Differentiation returns without ego sovereignty."
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+        "relation": "returns-to",
+        "operation": "Exact sign becomes Symbol without ceasing to calculate."
+      }
+    ],
+    "effects_before": [
+      {
+        "source_id": "kaplan-1999-nothing-that-is",
+        "root": {
+          "id": "kaplan-1999-nothing-that-is",
+          "title": "Kaplan — The Nothing That Is (2000 OUP printing)",
+          "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md",
+          "artifact_type": "source-house",
+          "authority": "source-authority",
+          "headings": [
+            "Kaplan — The Nothing That Is (2000 OUP printing)",
+            "Bibliographic identity",
+            "Chicago 18 forms",
+            "Essay use",
+            "Passages and excerpts",
+            "Passage register",
+            "kaplan-1999-nothing-that-is-q001",
+            "Scholarly reading and worked material",
+            "Material metadata",
+            "Why this book is load-bearing",
+            "Historical reading spine",
+            "1. A place is made visible — printed pp. 4–13",
+            "2. A sign marks absent measure — printed pp. 14–27",
+            "3. Empty place enters arithmetic — printed pp. 36–75",
+            "4. A notation crosses institutions — printed pp. 90–115",
+            "5. Zero and one become generators — printed pp. 203–215",
+            "Read the book through five questions",
+            "1. How does an empty place become an operative sign?",
+            "2. What changes when śūnya enters arithmetic?",
+            "3. Which law fails at a zero denominator?",
+            "4. In what exact sense does one contain zero?",
+            "5. What does one logical generator actually generate?",
+            "Mathematical workbench",
+            "Division by zero: run the ordinary-field collapse",
+            "0/1 and 1/0: build the rational interval",
+            "Von Neumann ordinals: build three numbers from the empty set",
+            "Kaplan's NOR route",
+            "Modern NAND workbench",
+            "Passage and provenance ledger",
+            "Return to the essay",
+            "Acquisition card"
+          ],
+          "sha256": "6da9866041dcbc22cbd017cd2884efe784984a74c27663a5209a771adc7b6de2",
+          "citation_status": "citation-ready",
+          "quote_status": "excerpts-unverified",
+          "main_source_for": [
+            "§1 · narrative and learning spine"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "source-bank/record",
+            "source-bank/zero"
+          ]
+        },
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "consumers": {
+          "sections": [
+            {
+              "id": "13-s1-p0-sign-migrates",
+              "title": "§1 · #0 — A Sign Migrates Between Worlds",
+              "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/13-s1-p0-sign-migrates.md",
+              "artifact_type": "section",
+              "authority": "canonical-argument",
+              "headings": [
+                "§1 · #0 — A Sign Migrates Between Worlds",
+                "Movement thesis",
+                "Derivation and source moves",
+                "Argumentative consequence",
+                "Audit boundary"
+              ],
+              "sha256": "2622c276d643668142757c0ec9c48a537a22c0c97e8279a256b88120de4be619",
+              "claim_status": "Derived",
+              "evidence_status": "historical",
+              "station": "§1",
+              "position": "#0",
+              "sequence": 13,
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/section",
+                "argument-map/return-zero",
+                "argument-map/historical",
+                "station/s1",
+                "position/p0"
+              ]
+            },
+            {
+              "id": "14-s1-p1-sunya-operational",
+              "title": "§1 · #1 — Śūnya Becomes Operational",
+              "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational.md",
+              "artifact_type": "section",
+              "authority": "canonical-argument",
+              "headings": [
+                "§1 · #1 — Śūnya Becomes Operational",
+                "Movement thesis",
+                "Formal payload",
+                "Source boundary",
+                "Transition"
+              ],
+              "sha256": "9274d563e6d169c5d5e5fe6fef95450d2228be82e7b478f9c571b01f43d624ca",
+              "claim_status": "Derived",
+              "evidence_status": "historical-mathematical",
+              "station": "§1",
+              "position": "#1",
+              "sequence": 14,
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/section",
+                "argument-map/return-zero",
+                "argument-map/historical",
+                "argument-map/mathematical",
+                "station/s1",
+                "position/p1"
+              ]
+            },
+            {
+              "id": "15-s1-p2-empty-set-generates-one",
+              "title": "§1 · #2 — The Empty Set Generates One",
+              "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/15-s1-p2-empty-set-generates-one.md",
+              "artifact_type": "section",
+              "authority": "canonical-argument",
+              "headings": [
+                "§1 · #2 — The Empty Set Generates One",
+                "Movement thesis",
+                "Derivation",
+                "Argumentative force and proof boundary",
+                "Transition"
+              ],
+              "sha256": "713e9bf7ae5e0d3aac074fa7539e0ad6e85e3ab2b6867b9e41efd65f5ac7133c",
+              "claim_status": "Derived",
+              "evidence_status": "standard-mathematics",
+              "station": "§1",
+              "position": "#2",
+              "sequence": 15,
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/section",
+                "argument-map/return-zero",
+                "argument-map/mathematical",
+                "station/s1",
+                "position/p2"
+              ]
+            },
+            {
+              "id": "17-s1-p4-zero-outside-math",
+              "title": "§1 · #4 — Zero Keeps One Foot Outside Mathematics",
+              "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md",
+              "artifact_type": "section",
+              "authority": "canonical-argument",
+              "headings": [
+                "§1 · #4 — Zero Keeps One Foot Outside Mathematics",
+                "Movement thesis",
+                "Derivation",
+                "Argumentative force",
+                "Audit boundary and transition"
+              ],
+              "sha256": "1b2e2a44eae02b141cdfaa4b383cdc83490f668926481f0e27aa92bcb8cdfb0c",
+              "claim_status": "Argued",
+              "evidence_status": "mathematical-comparative",
+              "station": "§1",
+              "position": "#4",
+              "sequence": 17,
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/section",
+                "argument-map/return-zero",
+                "argument-map/mathematical",
+                "station/s1",
+                "position/p4"
+              ]
+            }
+          ],
+          "arguments": [
+            {
+              "id": "01-immutable-gap-and-meta-sign",
+              "title": "Immutable Gap and Meta-Sign",
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Immutable Gap and Meta-Sign",
+                "Claim",
+                "Perspectival manifestation",
+                "Formal placement",
+                "Warrants",
+                "Tension"
+              ],
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990",
+              "claim_status": "Argued",
+              "evidence_status": "source-synthesized",
+              "coordinates": [
+                "P0",
+                "L0",
+                "L5'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/formal-limit",
+                "argument-map/claim"
+              ]
+            },
+            {
+              "id": "12-core-theorem-bridge",
+              "title": "Core Theorem Bridge",
+              "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Core Theorem Bridge",
+                "Anchor claim",
+                "Perspective and context within the theorem spine",
+                "Dependency order",
+                "Pros-hen discipline",
+                "Claim hierarchy"
+              ],
+              "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322",
+              "claim_status": "Derived",
+              "evidence_status": "theorem-internal-and-cross-register",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P3",
+                "P4",
+                "P5",
+                "L0",
+                "L0'",
+                "L5'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/theorem",
+                "argument-map/warrant",
+                "argument-map/process-ontology",
+                "ql/theorem-unit"
+              ]
+            },
+            {
+              "id": "20-advent-zero-subject-integral-logic",
+              "title": "The Advent of Zero, Subject, and Integral Logic",
+              "path": "submission-package/essay/section-rooms/arguments/20-advent-zero-subject-integral-logic.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "The Advent of Zero, Subject, and Integral Logic",
+                "Claim",
+                "Historical operation",
+                "Consequence",
+                "Source boundary",
+                "Test"
+              ],
+              "sha256": "acaebddf9038192e8269a248c6d3e5da1c7e6f56b1eef33654c72347e4004c3c",
+              "claim_status": "Argued",
+              "evidence_status": "authorial-synthesis-with-source-braid",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P4",
+                "P5",
+                "L0",
+                "L2",
+                "L3'",
+                "L4",
+                "L5"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/zero",
+                "argument-map/psychoid",
+                "argument-map/gebser",
+                "argument-map/two-logics"
+              ]
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "id": "mono-poly-two-ones",
+            "title": "Mono–Poly and the Two Ones — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Mono–Poly and the Two Ones — Transverse Thread"
+            ],
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/mono-poly"
+            ]
+          },
+          {
+            "id": "trust-faith-formal-limit",
+            "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Trust, Faith, and the Formal Limit — Transverse Thread"
+            ],
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/trust"
+            ]
+          },
+          {
+            "id": "zero-subject-advent",
+            "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+            ],
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/zero",
+              "argument-map/psychoid",
+              "argument-map/gebser"
+            ]
+          }
+        ]
+      },
+      {
+        "source_id": "colebrooke-1817-brahmagupta-bhaskara",
+        "root": {
+          "id": "colebrooke-1817-brahmagupta-bhaskara",
+          "title": "Colebrooke — Brahmagupta and Bhāskara (1817)",
+          "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+          "artifact_type": "source-house",
+          "authority": "source-authority",
+          "headings": [
+            "Colebrooke — Brahmagupta and Bhāskara (1817)",
+            "Bibliographic identity",
+            "Chicago 18 forms",
+            "Essay use",
+            "Passage preparation",
+            "Provenance",
+            "Passages and excerpts",
+            "Material metadata",
+            "Passage card — colebrooke-1817-brahmagupta-bhaskara-q001 — zero inside the algorithm",
+            "Passage card — colebrooke-1817-brahmagupta-bhaskara-q002 — the zero denominator remains written",
+            "Passage card — colebrooke-1817-brahmagupta-bhaskara-q003 — mathematical invariance receives a theological image",
+            "Passage metadata register"
+          ],
+          "sha256": "b5a23ca645af1e70ae6162d821700b502abce720f89ea85364c1a1aacde6830d",
+          "citation_status": "citation-ready",
+          "quote_status": "quotation-ready",
+          "main_source_for": [
+            "§1 · primary zero arithmetic and zero-denominator verses"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "source-bank/record",
+            "source-bank/mathematics",
+            "source-bank/zero"
+          ]
+        },
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "consumers": {
+          "sections": [
+            {
+              "id": "14-s1-p1-sunya-operational",
+              "title": "§1 · #1 — Śūnya Becomes Operational",
+              "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational.md",
+              "artifact_type": "section",
+              "authority": "canonical-argument",
+              "headings": [
+                "§1 · #1 — Śūnya Becomes Operational",
+                "Movement thesis",
+                "Formal payload",
+                "Source boundary",
+                "Transition"
+              ],
+              "sha256": "9274d563e6d169c5d5e5fe6fef95450d2228be82e7b478f9c571b01f43d624ca",
+              "claim_status": "Derived",
+              "evidence_status": "historical-mathematical",
+              "station": "§1",
+              "position": "#1",
+              "sequence": 14,
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/section",
+                "argument-map/return-zero",
+                "argument-map/historical",
+                "argument-map/mathematical",
+                "station/s1",
+                "position/p1"
+              ]
+            },
+            {
+              "id": "17-s1-p4-zero-outside-math",
+              "title": "§1 · #4 — Zero Keeps One Foot Outside Mathematics",
+              "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md",
+              "artifact_type": "section",
+              "authority": "canonical-argument",
+              "headings": [
+                "§1 · #4 — Zero Keeps One Foot Outside Mathematics",
+                "Movement thesis",
+                "Derivation",
+                "Argumentative force",
+                "Audit boundary and transition"
+              ],
+              "sha256": "1b2e2a44eae02b141cdfaa4b383cdc83490f668926481f0e27aa92bcb8cdfb0c",
+              "claim_status": "Argued",
+              "evidence_status": "mathematical-comparative",
+              "station": "§1",
+              "position": "#4",
+              "sequence": 17,
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/section",
+                "argument-map/return-zero",
+                "argument-map/mathematical",
+                "station/s1",
+                "position/p4"
+              ]
+            },
+            {
+              "id": "18-s1-p5-loan-returns",
+              "title": "§1 · #5→0 — The Loan Returns",
+              "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/18-s1-p5-loan-returns.md",
+              "artifact_type": "section",
+              "authority": "canonical-argument",
+              "headings": [
+                "§1 · #5→0 — The Loan Returns",
+                "Movement thesis",
+                "Synthesis and claim boundary",
+                "Release into §2"
+              ],
+              "sha256": "5af1942b08585deb1cdc0930440267c84a60a118d3825f2c0f412a38e53fec79",
+              "claim_status": "Argued",
+              "evidence_status": "synthesis",
+              "station": "§1",
+              "position": "#5→0",
+              "sequence": 18,
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/section",
+                "argument-map/return-zero",
+                "station/s1",
+                "position/p5"
+              ]
+            }
+          ],
+          "arguments": [
+            {
+              "id": "01-immutable-gap-and-meta-sign",
+              "title": "Immutable Gap and Meta-Sign",
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Immutable Gap and Meta-Sign",
+                "Claim",
+                "Perspectival manifestation",
+                "Formal placement",
+                "Warrants",
+                "Tension"
+              ],
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990",
+              "claim_status": "Argued",
+              "evidence_status": "source-synthesized",
+              "coordinates": [
+                "P0",
+                "L0",
+                "L5'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/formal-limit",
+                "argument-map/claim"
+              ]
+            },
+            {
+              "id": "12-core-theorem-bridge",
+              "title": "Core Theorem Bridge",
+              "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Core Theorem Bridge",
+                "Anchor claim",
+                "Perspective and context within the theorem spine",
+                "Dependency order",
+                "Pros-hen discipline",
+                "Claim hierarchy"
+              ],
+              "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322",
+              "claim_status": "Derived",
+              "evidence_status": "theorem-internal-and-cross-register",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P3",
+                "P4",
+                "P5",
+                "L0",
+                "L0'",
+                "L5'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/theorem",
+                "argument-map/warrant",
+                "argument-map/process-ontology",
+                "ql/theorem-unit"
+              ]
+            },
+            {
+              "id": "20-advent-zero-subject-integral-logic",
+              "title": "The Advent of Zero, Subject, and Integral Logic",
+              "path": "submission-package/essay/section-rooms/arguments/20-advent-zero-subject-integral-logic.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "The Advent of Zero, Subject, and Integral Logic",
+                "Claim",
+                "Historical operation",
+                "Consequence",
+                "Source boundary",
+                "Test"
+              ],
+              "sha256": "acaebddf9038192e8269a248c6d3e5da1c7e6f56b1eef33654c72347e4004c3c",
+              "claim_status": "Argued",
+              "evidence_status": "authorial-synthesis-with-source-braid",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P4",
+                "P5",
+                "L0",
+                "L2",
+                "L3'",
+                "L4",
+                "L5"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/zero",
+                "argument-map/psychoid",
+                "argument-map/gebser",
+                "argument-map/two-logics"
+              ]
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "id": "mono-poly-two-ones",
+            "title": "Mono–Poly and the Two Ones — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Mono–Poly and the Two Ones — Transverse Thread"
+            ],
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/mono-poly"
+            ]
+          },
+          {
+            "id": "trust-faith-formal-limit",
+            "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Trust, Faith, and the Formal Limit — Transverse Thread"
+            ],
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/trust"
+            ]
+          },
+          {
+            "id": "zero-subject-advent",
+            "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+            ],
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/zero",
+              "argument-map/psychoid",
+              "argument-map/gebser"
+            ]
+          }
+        ]
+      },
+      {
+        "source_id": "dutta-2023-zero-divided-numbers-india",
+        "root": {
+          "id": "dutta-2023-zero-divided-numbers-india",
+          "title": "Dutta — Zero-Divided Numbers in Indian Mathematics (2023)",
+          "path": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+          "artifact_type": "source-house",
+          "authority": "source-authority",
+          "headings": [
+            "Dutta — Zero-Divided Numbers in Indian Mathematics (2023)",
+            "Chicago 18 forms",
+            "Essay use",
+            "Passages and excerpts"
+          ],
+          "sha256": "51346a37a50e92087b144d18af5a003b41da5fad2129373b7be42f704de0b742",
+          "citation_status": "citation-ready",
+          "quote_status": "no-excerpts",
+          "main_source_for": [
+            "§1 · specialist history and cancellation-regime corrective"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "source-bank/record",
+            "source-bank/mathematics",
+            "source-bank/zero"
+          ]
+        },
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "id": "01-immutable-gap-and-meta-sign",
+              "title": "Immutable Gap and Meta-Sign",
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Immutable Gap and Meta-Sign",
+                "Claim",
+                "Perspectival manifestation",
+                "Formal placement",
+                "Warrants",
+                "Tension"
+              ],
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990",
+              "claim_status": "Argued",
+              "evidence_status": "source-synthesized",
+              "coordinates": [
+                "P0",
+                "L0",
+                "L5'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/formal-limit",
+                "argument-map/claim"
+              ]
+            },
+            {
+              "id": "12-core-theorem-bridge",
+              "title": "Core Theorem Bridge",
+              "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Core Theorem Bridge",
+                "Anchor claim",
+                "Perspective and context within the theorem spine",
+                "Dependency order",
+                "Pros-hen discipline",
+                "Claim hierarchy"
+              ],
+              "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322",
+              "claim_status": "Derived",
+              "evidence_status": "theorem-internal-and-cross-register",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P3",
+                "P4",
+                "P5",
+                "L0",
+                "L0'",
+                "L5'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/theorem",
+                "argument-map/warrant",
+                "argument-map/process-ontology",
+                "ql/theorem-unit"
+              ]
+            },
+            {
+              "id": "20-advent-zero-subject-integral-logic",
+              "title": "The Advent of Zero, Subject, and Integral Logic",
+              "path": "submission-package/essay/section-rooms/arguments/20-advent-zero-subject-integral-logic.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "The Advent of Zero, Subject, and Integral Logic",
+                "Claim",
+                "Historical operation",
+                "Consequence",
+                "Source boundary",
+                "Test"
+              ],
+              "sha256": "acaebddf9038192e8269a248c6d3e5da1c7e6f56b1eef33654c72347e4004c3c",
+              "claim_status": "Argued",
+              "evidence_status": "authorial-synthesis-with-source-braid",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P4",
+                "P5",
+                "L0",
+                "L2",
+                "L3'",
+                "L4",
+                "L5"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/zero",
+                "argument-map/psychoid",
+                "argument-map/gebser",
+                "argument-map/two-logics"
+              ]
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "id": "mono-poly-two-ones",
+            "title": "Mono–Poly and the Two Ones — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Mono–Poly and the Two Ones — Transverse Thread"
+            ],
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/mono-poly"
+            ]
+          },
+          {
+            "id": "trust-faith-formal-limit",
+            "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Trust, Faith, and the Formal Limit — Transverse Thread"
+            ],
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/trust"
+            ]
+          },
+          {
+            "id": "zero-subject-advent",
+            "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+            ],
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/zero",
+              "argument-map/psychoid",
+              "argument-map/gebser"
+            ]
+          }
+        ]
+      },
+      {
+        "source_id": "taylor-2026-advent-zero-subject",
+        "root": {
+          "id": "taylor-2026-advent-zero-subject",
+          "title": "Taylor — The Advent of Zero, Subject, and Integral Logic (2026)",
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md",
+          "artifact_type": "source-house",
+          "authority": "source-authority",
+          "headings": [
+            "Taylor — The Advent of Zero, Subject, and Integral Logic (2026)",
+            "Provenance identity",
+            "Essay use",
+            "Evidence braid",
+            "Passages and excerpts"
+          ],
+          "sha256": "fdb706a6128af67de55746d39264f0eac95bb9c8999dbda8146a90790f0a356c",
+          "citation_status": "internal-ready",
+          "quote_status": "quotation-ready",
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "source-bank/record",
+            "source-bank/internal-corpus",
+            "argument-map/zero",
+            "argument-map/psychoid"
+          ]
+        },
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "id": "20-advent-zero-subject-integral-logic",
+              "title": "The Advent of Zero, Subject, and Integral Logic",
+              "path": "submission-package/essay/section-rooms/arguments/20-advent-zero-subject-integral-logic.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "The Advent of Zero, Subject, and Integral Logic",
+                "Claim",
+                "Historical operation",
+                "Consequence",
+                "Source boundary",
+                "Test"
+              ],
+              "sha256": "acaebddf9038192e8269a248c6d3e5da1c7e6f56b1eef33654c72347e4004c3c",
+              "claim_status": "Argued",
+              "evidence_status": "authorial-synthesis-with-source-braid",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P4",
+                "P5",
+                "L0",
+                "L2",
+                "L3'",
+                "L4",
+                "L5"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/zero",
+                "argument-map/psychoid",
+                "argument-map/gebser",
+                "argument-map/two-logics"
+              ]
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "id": "mono-poly-two-ones",
+            "title": "Mono–Poly and the Two Ones — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Mono–Poly and the Two Ones — Transverse Thread"
+            ],
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/mono-poly"
+            ]
+          },
+          {
+            "id": "trust-faith-formal-limit",
+            "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Trust, Faith, and the Formal Limit — Transverse Thread"
+            ],
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/trust"
+            ]
+          },
+          {
+            "id": "zero-subject-advent",
+            "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+            ],
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/zero",
+              "argument-map/psychoid",
+              "argument-map/gebser"
+            ]
+          }
+        ]
+      },
+      {
+        "source_id": "taylor-2026-core-theorems-pithy",
+        "root": {
+          "id": "taylor-2026-core-theorems-pithy",
+          "title": "Taylor — Core Theorems Pithy (2026)",
+          "path": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+          "artifact_type": "source-house",
+          "authority": "source-authority",
+          "headings": [
+            "Taylor — Core Theorems Pithy (2026)",
+            "Complete authorial theorem text",
+            "Provenance identity",
+            "Essay use",
+            "Passage index",
+            "Passages and excerpts",
+            "CT-08 — §VII, the psyche as equation (line 405)",
+            "CT-09 — §VII, agentic crosswalk and its guard (lines 420–434)",
+            "CT-10 — §VIII, the topological register (lines 442–453)",
+            "CT-11 — §IX, the recognition-matheme and the crossed-zero sixfold (lines 468–488)",
+            "CT-12 — §IX, the occlusion mark: Descartes and Hume at #1 (line 481)",
+            "CT-13 — §IX, the set-theoretic floor (line 494)",
+            "CT-14 — §IX, the Lacan bridge: S1 against anusyūta (lines 496–498)",
+            "CT-15 — §IX, the meeting of Ø and the linking-1 (line 502)",
+            "CT-16 — companion: the charitable cogito (file-one-definitional, line 47) — house-vs-lead decision pending the author",
+            "Curation office (declared 2026-09-07)"
+          ],
+          "sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+          "citation_status": "internal-ready",
+          "quote_status": "excerpts-indexed-internal",
+          "main_source_for": [
+            "§2 · native two-logics derivation",
+            "§3 · eight-determination and theorem spine"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "source-bank/record",
+            "source-bank/internal-corpus"
+          ]
+        },
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "id": "01-immutable-gap-and-meta-sign",
+              "title": "Immutable Gap and Meta-Sign",
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Immutable Gap and Meta-Sign",
+                "Claim",
+                "Perspectival manifestation",
+                "Formal placement",
+                "Warrants",
+                "Tension"
+              ],
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990",
+              "claim_status": "Argued",
+              "evidence_status": "source-synthesized",
+              "coordinates": [
+                "P0",
+                "L0",
+                "L5'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/formal-limit",
+                "argument-map/claim"
+              ]
+            },
+            {
+              "id": "02-objective-internality",
+              "title": "Objective Internality",
+              "path": "submission-package/essay/section-rooms/arguments/02-objective-internality.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Objective Internality",
+                "Claim",
+                "The triad of situated knowing",
+                "Context becoming diaphanous",
+                "Agent internality and claim boundary",
+                "Warrant",
+                "Design consequence — epistemics becomes first-class"
+              ],
+              "sha256": "00960586e342337c1be2bccc8c104f3d853450b08ab8834c0317b9bf7295273f",
+              "claim_status": "Argued",
+              "evidence_status": "source-synthesized",
+              "coordinates": [
+                "P4",
+                "L1",
+                "L4",
+                "L4'",
+                "L1'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/agentworld",
+                "argument-map/claim",
+                "mef/square-b"
+              ]
+            },
+            {
+              "id": "03-two-logics-and-sym-ballein",
+              "title": "Sym-Ballein",
+              "path": "submission-package/essay/section-rooms/arguments/03-two-logics-and-sym-ballein.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Sym-Ballein",
+                "Claim",
+                "Matheme",
+                "Shadow",
+                "Test"
+              ],
+              "sha256": "f4cbb6e897260bfd207908561c275b0b0ab482d30a0e649fba1589babbfbb75c",
+              "claim_status": "Derived",
+              "evidence_status": "theorem-derived",
+              "coordinates": [
+                "P2",
+                "P3",
+                "L2",
+                "L3"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/complex-dynamism",
+                "argument-map/process-ontology",
+                "argument-map/synthesis",
+                "argument-map/trust",
+                "argument-map/mono-poly"
+              ]
+            },
+            {
+              "id": "04-arche-topos-topology-music",
+              "title": "Arche-Topos as Differential Field",
+              "path": "submission-package/essay/section-rooms/arguments/04-arche-topos-topology-music.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Arche-Topos as Differential Field",
+                "Claim",
+                "One field, read through four registers",
+                "The switch into objective internality",
+                "Topology and music",
+                "Claim discipline"
+              ],
+              "sha256": "ce2d15aaee82d1ec8cf37b788bc448e4fdbe4c4f4f24c3b4b46c4857a360e3c0",
+              "claim_status": "Derived",
+              "evidence_status": "theorem-derived-cross-register",
+              "coordinates": [
+                "P0",
+                "P2",
+                "P3",
+                "P5",
+                "L0'",
+                "L1'",
+                "L2",
+                "L3",
+                "L5"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/musical-topological",
+                "argument-map/process-ontology",
+                "argument-map/arche-topos",
+                "argument-map/musical",
+                "argument-map/psychoid",
+                "argument-map/core",
+                "argument-map/synthesis"
+              ]
+            },
+            {
+              "id": "05-agent-subjectivity-open",
+              "title": "Agent Subjectivity Must Remain Open",
+              "path": "submission-package/essay/section-rooms/arguments/05-agent-subjectivity-open.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Agent Subjectivity Must Remain Open",
+                "Claim",
+                "Warrant",
+                "Proof boundary — silence retained"
+              ],
+              "sha256": "5a8cef977eb57819d5de1d7f4e55edc79eaada64666fe61ef1ab6f69d8bdc120",
+              "claim_status": "Open",
+              "evidence_status": "unresolved-by-design",
+              "coordinates": [
+                "P0'",
+                "L4",
+                "L4'",
+                "L1'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/agentworld",
+                "argument-map/question"
+              ]
+            },
+            {
+              "id": "06-computational-vimarsa-ahi",
+              "title": "Artificial Hybrid Intelligence as Reflective Field",
+              "path": "submission-package/essay/section-rooms/arguments/06-computational-vimarsa-ahi.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Artificial Hybrid Intelligence as Reflective Field",
+                "Claim",
+                "Warrant",
+                "Proof boundary",
+                "Praxis"
+              ],
+              "sha256": "5c3604afc7745daba68fefb0794110f42c0004eaabfed7339a779110100d45a9",
+              "claim_status": "Argued",
+              "evidence_status": "source-synthesized",
+              "coordinates": [
+                "P5",
+                "L5'",
+                "L4'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/agentworld",
+                "argument-map/praxis",
+                "argument-map/process-ontology",
+                "argument-map/synthesis"
+              ]
+            },
+            {
+              "id": "09-prakasa-vimarsa",
+              "title": "Prakāśa-Vimarśa",
+              "path": "submission-package/essay/section-rooms/arguments/09-prakasa-vimarsa.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Prakāśa-Vimarśa",
+                "Claim",
+                "Cross-register warrant",
+                "Source and claim boundary"
+              ],
+              "sha256": "415374f85efcebd6ac9a30ef5000eb5e80634627d5a0d988be5a969bdf418bba",
+              "claim_status": "Argued",
+              "evidence_status": "tradition-source-required",
+              "coordinates": [
+                "P0",
+                "P2'",
+                "L5"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/concept",
+                "shaivism/prakasa-vimarsa"
+              ]
+            },
+            {
+              "id": "10-vak",
+              "title": "Vāk",
+              "path": "submission-package/essay/section-rooms/arguments/10-vak.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Vāk",
+                "Claim",
+                "Warrant",
+                "Source and claim boundary"
+              ],
+              "sha256": "f94c032895d9b6d3ae3d6b1b76370a63f25ceefb706d4a9544afbe53dceb4e90",
+              "claim_status": "Argued",
+              "evidence_status": "tradition-source-required",
+              "coordinates": [
+                "P2",
+                "L5"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/concept",
+                "vak-logos/articulation"
+              ]
+            },
+            {
+              "id": "11-mono-poly-whole-and-many",
+              "title": "Mono-Poly: Whole and Many",
+              "path": "submission-package/essay/section-rooms/arguments/11-mono-poly-whole-and-many.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Mono-Poly: Whole and Many",
+                "Claims",
+                "Warrants",
+                "Tensions retained",
+                "Where mono-poly meets trust",
+                "Braided traversal"
+              ],
+              "sha256": "6e7991915d8e4d2f4d165b1e7bba99ff11a8ebecd2f0002b067bd27804fa8250",
+              "claim_status": "Argued",
+              "evidence_status": "source-synthesized",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P4",
+                "P5",
+                "L2",
+                "L4",
+                "L5'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/synthesis",
+                "argument-map/mono-poly",
+                "argument-map/praxis"
+              ]
+            },
+            {
+              "id": "12-core-theorem-bridge",
+              "title": "Core Theorem Bridge",
+              "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Core Theorem Bridge",
+                "Anchor claim",
+                "Perspective and context within the theorem spine",
+                "Dependency order",
+                "Pros-hen discipline",
+                "Claim hierarchy"
+              ],
+              "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322",
+              "claim_status": "Derived",
+              "evidence_status": "theorem-internal-and-cross-register",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P3",
+                "P4",
+                "P5",
+                "L0",
+                "L0'",
+                "L5'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/theorem",
+                "argument-map/warrant",
+                "argument-map/process-ontology",
+                "ql/theorem-unit"
+              ]
+            },
+            {
+              "id": "13-tattvic-differential-field",
+              "title": "Tattvic Differential Field",
+              "path": "submission-package/essay/section-rooms/arguments/13-tattvic-differential-field.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Tattvic Differential Field",
+                "Claim",
+                "Architecture of implication",
+                "Apoha and vikalpa",
+                "From superposition to polarity and research boundary"
+              ],
+              "sha256": "20fb22d2e6b664681d943a2152fbdbf6653265307a33be6ef23cfa12d9e75040",
+              "claim_status": "Derived (doctrine) / Argued (QL compression) / Offered (36=6²)",
+              "evidence_status": "theorem-derived-tradition-mapped",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P3",
+                "P4",
+                "P5",
+                "L1",
+                "L2",
+                "L3",
+                "L4"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/tattva",
+                "argument-map/process-ontology",
+                "argument-map/psychoid",
+                "argument-map/claim"
+              ]
+            },
+            {
+              "id": "14-computational-process-ontology",
+              "title": "Computational Process Ontology",
+              "path": "submission-package/essay/section-rooms/arguments/14-computational-process-ontology.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Computational Process Ontology",
+                "Core claim",
+                "The process lineage",
+                "The two logics as runtime",
+                "The Śaiva–Buddhist operational account",
+                "QL, MEF, Bimba, and harness",
+                "Agentworld consequence: shared language for shared intelligence",
+                "Process test"
+              ],
+              "sha256": "6e99dacead7ef1051061b4d06aee0c45addd4920a2d9b911bfbde7631d2a878f",
+              "claim_status": "Derived",
+              "evidence_status": "theorem-derived-cross-register",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P3",
+                "P4",
+                "P5",
+                "L0",
+                "L3",
+                "L3'",
+                "L4'",
+                "L5"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/process-ontology",
+                "argument-map/two-logics",
+                "argument-map/agentworld",
+                "argument-map/praxis",
+                "ql/theorem-unit"
+              ]
+            },
+            {
+              "id": "15-paradox-as-cross-register-hinge",
+              "title": "Paradox as Cross-Register Hinge",
+              "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Paradox as Cross-Register Hinge",
+                "Claim",
+                "Differentiated witnesses",
+                "Warrant",
+                "Artistic consequence",
+                "Claim boundary"
+              ],
+              "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34",
+              "claim_status": "Argued",
+              "evidence_status": "source-synthesized",
+              "coordinates": [
+                "P0",
+                "P2",
+                "P3",
+                "L0",
+                "L2",
+                "L3",
+                "L5'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/formal-limit",
+                "argument-map/paradox",
+                "argument-map/mathematical-artistic",
+                "argument-map/warrant"
+              ]
+            },
+            {
+              "id": "16-bohmian-enfoldment-dialogical-return",
+              "title": "Bohmian Enfoldment and Dialogical Return",
+              "path": "submission-package/essay/section-rooms/arguments/16-bohmian-enfoldment-dialogical-return.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Bohmian Enfoldment and Dialogical Return",
+                "Claim",
+                "Running true",
+                "Dialogue as social holomovement",
+                "Agentworld consequence",
+                "Claim boundary"
+              ],
+              "sha256": "33cf6435240277d5f92f64d94b35de399728fa5a01c24eed89869ec80522d5e2",
+              "claim_status": "Argued",
+              "evidence_status": "primary-source-synthesized",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P4",
+                "P5",
+                "L3",
+                "L4",
+                "L5"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/bohm",
+                "argument-map/process-ontology",
+                "argument-map/dialogue",
+                "argument-map/praxis",
+                "argument-map/agentworld",
+                "argument-map/warrant"
+              ]
+            },
+            {
+              "id": "17-toroidal-circulation-arche-topos",
+              "title": "Toroidal Circulation and the Arche-Topos",
+              "path": "submission-package/essay/section-rooms/arguments/17-toroidal-circulation-arche-topos.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Toroidal Circulation and the Arche-Topos",
+                "Claim",
+                "Mathematical warrant",
+                "Physical warrant and analogy boundary",
+                "Arche-topological consequence"
+              ],
+              "sha256": "ef5327f6bb40c95e50749c8e96b1159583eb7d04a9a5ebd3d34df80ee65d0e68",
+              "claim_status": "Argued",
+              "evidence_status": "mathematically-explicit-physics-backed",
+              "coordinates": [
+                "P0",
+                "P2",
+                "P4",
+                "P5",
+                "L0'",
+                "L3",
+                "L4'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/torus",
+                "argument-map/topology",
+                "argument-map/physics",
+                "argument-map/arche-topos",
+                "argument-map/mathematical-artistic",
+                "argument-map/warrant"
+              ]
+            }
+          ],
+          "concepts": [
+            {
+              "id": "prompt-thrownness",
+              "title": "Prompt Thrownness",
+              "path": "submission-package/essay/symbolon/episteme/concepts/prompt-thrownness.md",
+              "artifact_type": "concept",
+              "authority": "canonical-argument",
+              "headings": [
+                "Prompt Thrownness",
+                "Definition",
+                "In the brief",
+                "The four-lens discipline",
+                "In the argument"
+              ],
+              "sha256": "f8f14404e74e9646ffce70e53a8dc2287cd96612012023f92c9876e1beb982cc",
+              "claim_status": "Argued",
+              "coordinates": [
+                "P4",
+                "L4",
+                "L1"
+              ],
+              "register": "episteme",
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/concept",
+                "argument-map/agentworld",
+                "mef/square-b"
+              ]
+            }
+          ],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "id": "mono-poly-two-ones",
+            "title": "Mono–Poly and the Two Ones — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Mono–Poly and the Two Ones — Transverse Thread"
+            ],
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/mono-poly"
+            ]
+          },
+          {
+            "id": "trust-faith-formal-limit",
+            "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Trust, Faith, and the Formal Limit — Transverse Thread"
+            ],
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/trust"
+            ]
+          },
+          {
+            "id": "zero-subject-advent",
+            "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+            ],
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/zero",
+              "argument-map/psychoid",
+              "argument-map/gebser"
+            ]
+          }
+        ]
+      },
+      {
+        "source_id": "gebser-1985-ever-present-origin",
+        "root": {
+          "id": "gebser-1985-ever-present-origin",
+          "title": "Gebser — The Ever-Present Origin (1985)",
+          "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+          "artifact_type": "source-house",
+          "authority": "source-authority",
+          "headings": [
+            "Gebser — The Ever-Present Origin (1985)",
+            "Bibliographic identity",
+            "Chicago 18 forms",
+            "Essay use",
+            "Source's relevant contribution",
+            "Passage map",
+            "Licensed essay use",
+            "Consumption",
+            "Quote and excerpt ledger",
+            "Provenance and acquisition",
+            "Passages and excerpts"
+          ],
+          "sha256": "625eed9f1ef4116f983c084601f78f7287275d212646fa997242081bf59bf28e",
+          "citation_status": "citation-ready",
+          "quote_status": "locator-needed",
+          "main_source_for": [
+            "§0/1 · diaphaneity and integral demand",
+            "§4 · Apollo–Dionysus and integral return"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "source-bank/record",
+            "source-bank/gebser"
+          ]
+        },
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "id": "01-immutable-gap-and-meta-sign",
+              "title": "Immutable Gap and Meta-Sign",
+              "path": "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Immutable Gap and Meta-Sign",
+                "Claim",
+                "Perspectival manifestation",
+                "Formal placement",
+                "Warrants",
+                "Tension"
+              ],
+              "sha256": "9af3ae0e0cdbf5781c9f3d02ad9ee0cb8ad87b8c17e76b21603bc880bc16b990",
+              "claim_status": "Argued",
+              "evidence_status": "source-synthesized",
+              "coordinates": [
+                "P0",
+                "L0",
+                "L5'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/formal-limit",
+                "argument-map/claim"
+              ]
+            },
+            {
+              "id": "12-core-theorem-bridge",
+              "title": "Core Theorem Bridge",
+              "path": "submission-package/essay/section-rooms/arguments/12-core-theorem-bridge.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Core Theorem Bridge",
+                "Anchor claim",
+                "Perspective and context within the theorem spine",
+                "Dependency order",
+                "Pros-hen discipline",
+                "Claim hierarchy"
+              ],
+              "sha256": "51274953d26cf988a40959957857ed125272edca93b242b75829586fdfd8e322",
+              "claim_status": "Derived",
+              "evidence_status": "theorem-internal-and-cross-register",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P3",
+                "P4",
+                "P5",
+                "L0",
+                "L0'",
+                "L5'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/theorem",
+                "argument-map/warrant",
+                "argument-map/process-ontology",
+                "ql/theorem-unit"
+              ]
+            },
+            {
+              "id": "15-paradox-as-cross-register-hinge",
+              "title": "Paradox as Cross-Register Hinge",
+              "path": "submission-package/essay/section-rooms/arguments/15-paradox-as-cross-register-hinge.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "Paradox as Cross-Register Hinge",
+                "Claim",
+                "Differentiated witnesses",
+                "Warrant",
+                "Artistic consequence",
+                "Claim boundary"
+              ],
+              "sha256": "596fd758b80c3175810699674ebfc898fd946f03d23c39976337096b9c6f3a34",
+              "claim_status": "Argued",
+              "evidence_status": "source-synthesized",
+              "coordinates": [
+                "P0",
+                "P2",
+                "P3",
+                "L0",
+                "L2",
+                "L3",
+                "L5'"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/formal-limit",
+                "argument-map/paradox",
+                "argument-map/mathematical-artistic",
+                "argument-map/warrant"
+              ]
+            },
+            {
+              "id": "20-advent-zero-subject-integral-logic",
+              "title": "The Advent of Zero, Subject, and Integral Logic",
+              "path": "submission-package/essay/section-rooms/arguments/20-advent-zero-subject-integral-logic.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "The Advent of Zero, Subject, and Integral Logic",
+                "Claim",
+                "Historical operation",
+                "Consequence",
+                "Source boundary",
+                "Test"
+              ],
+              "sha256": "acaebddf9038192e8269a248c6d3e5da1c7e6f56b1eef33654c72347e4004c3c",
+              "claim_status": "Argued",
+              "evidence_status": "authorial-synthesis-with-source-braid",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P4",
+                "P5",
+                "L0",
+                "L2",
+                "L3'",
+                "L4",
+                "L5"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/zero",
+                "argument-map/psychoid",
+                "argument-map/gebser",
+                "argument-map/two-logics"
+              ]
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "id": "mono-poly-two-ones",
+            "title": "Mono–Poly and the Two Ones — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Mono–Poly and the Two Ones — Transverse Thread"
+            ],
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/mono-poly"
+            ]
+          },
+          {
+            "id": "trust-faith-formal-limit",
+            "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Trust, Faith, and the Formal Limit — Transverse Thread"
+            ],
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/trust"
+            ]
+          },
+          {
+            "id": "zero-subject-advent",
+            "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+            ],
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/zero",
+              "argument-map/psychoid",
+              "argument-map/gebser"
+            ]
+          }
+        ]
+      },
+      {
+        "source_id": "heidegger-1977-question-concerning-technology",
+        "root": {
+          "id": "heidegger-1977-question-concerning-technology",
+          "title": "Heidegger — The Question Concerning Technology and Other Essays (Lovitt, 1977)",
+          "path": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md",
+          "artifact_type": "source-house",
+          "authority": "source-authority",
+          "headings": [
+            "Heidegger — The Question Concerning Technology and Other Essays (Lovitt, 1977)",
+            "Bibliographic identity",
+            "Edition trap: Lovitt 1977 vs. Krell's revised text",
+            "Chicago 18 forms",
+            "Source scholarship",
+            "Essay use",
+            "Source's relevant contribution",
+            "Licensed essay use",
+            "Claim boundary",
+            "Passages and excerpts",
+            "Material metadata",
+            "Passage card — heidegger-1977-question-concerning-technology-q001 — essence not technological",
+            "Passage card — heidegger-1977-question-concerning-technology-q002 — technology as revealing",
+            "Passage card — heidegger-1977-question-concerning-technology-q003 — technē as knowing and poiēsis",
+            "Passage card — heidegger-1977-question-concerning-technology-q004 — poiēsis via Symposium 205b",
+            "Passage card — heidegger-1977-question-concerning-technology-q005 — challenging-forth",
+            "Passage card — heidegger-1977-question-concerning-technology-q006 — the Rhine",
+            "Passage card — heidegger-1977-question-concerning-technology-q007 — standing-reserve",
+            "Passage card — heidegger-1977-question-concerning-technology-q008 — Ge- as gathering; Ge-stell named",
+            "Passage card — heidegger-1977-question-concerning-technology-q009 — Enframing definition",
+            "Passage card — heidegger-1977-question-concerning-technology-q010 — man as standing-reserve / encounters only himself",
+            "Passage card — heidegger-1977-question-concerning-technology-q011 — saving power; piety of thought",
+            "Passage card — heidegger-1977-question-concerning-technology-q012 — (AWP) world as picture",
+            "Passage card — heidegger-1977-question-concerning-technology-q013 — (AWP) conquest of the world as picture",
+            "Passage card — heidegger-1977-question-concerning-technology-q014 — (AWP) man becomes subiectum; Vorstellen",
+            "Open acquisition and verification",
+            "Passage metadata register"
+          ],
+          "sha256": "2760421b2c93292198af90cf7488148eeb0bfe80bd4511eaab0764b27e791622",
+          "citation_status": "citation-ready",
+          "quote_status": "wording-verified-collation-pending",
+          "main_source_for": [
+            "§2 · enframing/calculative articulation; world-picture diagnosis"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "source-bank/record",
+            "source-bank/heidegger",
+            "source-bank/philosophy-of-technology",
+            "source-bank/continental-philosophy"
+          ]
+        },
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "consumers": {
+          "sections": [
+            {
+              "id": "05-s01-p4-gebser-diaphaneity",
+              "title": "§0/1 · #4 — Gebserian Diaphaneity",
+              "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+              "artifact_type": "section",
+              "authority": "canonical-argument",
+              "headings": [
+                "§0/1 · #4 — Gebserian Diaphaneity",
+                "Claim",
+                "Warrant",
+                "Tension / limit",
+                "Anchor and transition"
+              ],
+              "sha256": "7cce7c32115763fef755dcfb97f5673f4983c3ff7669384acddd221112820610",
+              "claim_status": "Argued",
+              "evidence_status": "bibliography-backed",
+              "station": "§0/1",
+              "position": "#4",
+              "sequence": 5,
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/section",
+                "station/s01",
+                "position/p4"
+              ]
+            },
+            {
+              "id": "20-s2-p1-dia-ballein",
+              "title": "§2 · #1 — Dia-Ballein",
+              "path": "submission-package/essay/section-rooms/03-two-logics/movements/20-s2-p1-dia-ballein.md",
+              "artifact_type": "section",
+              "authority": "canonical-argument",
+              "headings": [
+                "§2 · #1 — Dia-Ballein",
+                "Movement thesis",
+                "Structural reading and failure boundary",
+                "Projected distrust",
+                "Technical consequence",
+                "The epochal name: calculative thinking",
+                "Mass formation: divide and conquer becomes a political runtime",
+                "Transition"
+              ],
+              "sha256": "7bf4c255bad0e6bbf13b5c335403509c7bfcdc7e68a2feeb3ce8fb979b6ecd89",
+              "claim_status": "Derived",
+              "evidence_status": "mathematically-explicit-and-source-synthesized",
+              "station": "§2",
+              "position": "#1",
+              "sequence": 20,
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/section",
+                "argument-map/two-logics",
+                "argument-map/mathematical",
+                "argument-map/complex-dynamism",
+                "argument-map/process-ontology",
+                "argument-map/trust",
+                "station/s2",
+                "position/p1"
+              ]
+            },
+            {
+              "id": "22-s2-p3-ares-aphrodite-harmonia",
+              "title": "§2 · #3 — Ares, Aphrodite, Harmonia, Eros, and Hephaestus",
+              "path": "submission-package/essay/section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md",
+              "artifact_type": "section",
+              "authority": "canonical-argument",
+              "headings": [
+                "§2 · #3 — Ares, Aphrodite, Harmonia, Eros, and Hephaestus",
+                "Movement thesis",
+                "Hephaestus inside the circuit",
+                "The anatomy of the apparatus",
+                "The surety closure",
+                "Scholarly control",
+                "Psycho-dynamic bridge",
+                "Tension / limit",
+                "Transition"
+              ],
+              "sha256": "ab7a524fbd0de2a6aa8961479fc4f2f0eeff50a0255d6240db58bd4c5f953951",
+              "claim_status": "Offered",
+              "evidence_status": "mythemic",
+              "station": "§2",
+              "position": "#3",
+              "sequence": 22,
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/section",
+                "argument-map/two-logics",
+                "argument-map/mythemic",
+                "argument-map/trust",
+                "station/s2",
+                "position/p3"
+              ]
+            },
+            {
+              "id": "40-s5-p3-preference-hidden-zero",
+              "title": "§5 · #3 — Preference Models and the Hidden Zero",
+              "path": "submission-package/essay/section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md",
+              "artifact_type": "section",
+              "authority": "canonical-argument",
+              "headings": [
+                "§5 · #3 — Preference Models and the Hidden Zero",
+                "Claim",
+                "Warrant",
+                "Tension / limit",
+                "Anchor and transition"
+              ],
+              "sha256": "406df48e27a93db003ba085574e71289914f5142513eeed5d08d1ff98e3d9ecf",
+              "claim_status": "Argued",
+              "evidence_status": "technical",
+              "station": "§5",
+              "position": "#3",
+              "sequence": 40,
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/section",
+                "argument-map/trust",
+                "argument-map/mono-poly",
+                "station/s5",
+                "position/p3"
+              ]
+            },
+            {
+              "id": "45-s50-p2-antikythera-attunement",
+              "title": "§5→0 · #2 — Antikythera as Attunement Instrument",
+              "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md",
+              "artifact_type": "section",
+              "authority": "canonical-argument",
+              "headings": [
+                "§5→0 · #2 — Antikythera as Attunement Instrument",
+                "Claim",
+                "Warrant",
+                "Two recoveries",
+                "Tension / limit",
+                "Anchor and transition"
+              ],
+              "sha256": "94a1a7e9503775ef76bf5560f8f1e82e04083511a692a270174e8e4bcc77823c",
+              "claim_status": "Offered",
+              "evidence_status": "mythemic-technical",
+              "station": "§5→0",
+              "position": "#2",
+              "sequence": 45,
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/section",
+                "argument-map/praxis",
+                "station/s50",
+                "position/p2"
+              ]
+            },
+            {
+              "id": "46-s50-p3-4-2-mono-poly",
+              "title": "§5→0 · #3 — 4:2 Technē and the Sovereign Commons",
+              "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md",
+              "artifact_type": "section",
+              "authority": "canonical-argument",
+              "headings": [
+                "§5→0 · #3 — 4:2 Technē and the Sovereign Commons",
+                "Claim",
+                "Warrant",
+                "Tension / limit",
+                "Anchor and transition"
+              ],
+              "sha256": "fb84f41ee187d393a69bcfd82b39a65d61e619dd9195df557aeb642b48dd981c",
+              "claim_status": "Offered",
+              "evidence_status": "local-source-and-critical-qualification",
+              "station": "§5→0",
+              "position": "#3",
+              "sequence": 46,
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/section",
+                "argument-map/agentworld",
+                "argument-map/praxis",
+                "argument-map/mono-poly",
+                "station/s50",
+                "position/p3"
+              ]
+            }
+          ],
+          "arguments": [],
+          "concepts": [
+            {
+              "id": "counterfeit-gathering",
+              "title": "Counterfeit Gathering",
+              "path": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+              "artifact_type": "concept",
+              "authority": "canonical-argument",
+              "headings": [
+                "Counterfeit Gathering",
+                "Definition",
+                "In the argument",
+                "Sources"
+              ],
+              "sha256": "6351cff4307a4f0ae5cfb603d355ae2fffe3f94cc303cf1c2ffc0070250e19a1",
+              "claim_status": "Argued",
+              "coordinates": [
+                "#2",
+                "P2"
+              ],
+              "register": "episteme",
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/concept",
+                "argument-map/two-logics",
+                "argument-map/technology"
+              ]
+            },
+            {
+              "id": "world-picture-to-world-atlas",
+              "title": "World-Picture to World-Atlas",
+              "path": "submission-package/essay/symbolon/episteme/concepts/world-picture-to-world-atlas.md",
+              "artifact_type": "concept",
+              "authority": "canonical-argument",
+              "headings": [
+                "World-Picture to World-Atlas",
+                "Definition",
+                "The travelling jigsaw",
+                "In the argument"
+              ],
+              "sha256": "f24b427f1dcb4f3593e51733e03209fbbf8db58dac7bb91e4f977372fd1d5266",
+              "claim_status": "Argued",
+              "coordinates": [
+                "#4",
+                "P3"
+              ],
+              "register": "episteme",
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/concept",
+                "argument-map/arche-topos",
+                "argument-map/technology"
+              ]
+            }
+          ],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "id": "mono-poly-two-ones",
+            "title": "Mono–Poly and the Two Ones — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Mono–Poly and the Two Ones — Transverse Thread"
+            ],
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/mono-poly"
+            ]
+          },
+          {
+            "id": "trust-faith-formal-limit",
+            "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Trust, Faith, and the Formal Limit — Transverse Thread"
+            ],
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/trust"
+            ]
+          },
+          {
+            "id": "zero-subject-advent",
+            "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+            ],
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/zero",
+              "argument-map/psychoid",
+              "argument-map/gebser"
+            ]
+          }
+        ]
+      },
+      {
+        "source_id": "freud-1915-unconscious-standard-edition",
+        "root": {
+          "id": "freud-1915-unconscious-standard-edition",
+          "title": "Freud — “The Unconscious” (1915; Strachey trans. 1957)",
+          "path": "submission-package/essay/symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/SOURCE.md",
+          "artifact_type": "source-house",
+          "authority": "source-authority",
+          "headings": [
+            "Freud — “The Unconscious” (1915; Strachey trans. 1957)",
+            "Bibliographic identity",
+            "Chicago 18 forms",
+            "Essay use",
+            "Passages and excerpts"
+          ],
+          "sha256": "79110aba3a95e18f68da5ad7a9dbdae995dd1dcea6ab9fb49289b5518001f180",
+          "citation_status": "citation-ready",
+          "quote_status": "no-excerpts",
+          "main_source_for": [
+            "§4 · scientific admission of unconscious processes"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "source-bank/record",
+            "source-bank/freud",
+            "source-bank/psychoanalysis"
+          ]
+        },
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "id": "20-advent-zero-subject-integral-logic",
+              "title": "The Advent of Zero, Subject, and Integral Logic",
+              "path": "submission-package/essay/section-rooms/arguments/20-advent-zero-subject-integral-logic.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "The Advent of Zero, Subject, and Integral Logic",
+                "Claim",
+                "Historical operation",
+                "Consequence",
+                "Source boundary",
+                "Test"
+              ],
+              "sha256": "acaebddf9038192e8269a248c6d3e5da1c7e6f56b1eef33654c72347e4004c3c",
+              "claim_status": "Argued",
+              "evidence_status": "authorial-synthesis-with-source-braid",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P4",
+                "P5",
+                "L0",
+                "L2",
+                "L3'",
+                "L4",
+                "L5"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/zero",
+                "argument-map/psychoid",
+                "argument-map/gebser",
+                "argument-map/two-logics"
+              ]
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "id": "mono-poly-two-ones",
+            "title": "Mono–Poly and the Two Ones — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Mono–Poly and the Two Ones — Transverse Thread"
+            ],
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/mono-poly"
+            ]
+          },
+          {
+            "id": "trust-faith-formal-limit",
+            "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Trust, Faith, and the Formal Limit — Transverse Thread"
+            ],
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/trust"
+            ]
+          },
+          {
+            "id": "zero-subject-advent",
+            "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+            ],
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/zero",
+              "argument-map/psychoid",
+              "argument-map/gebser"
+            ]
+          }
+        ]
+      },
+      {
+        "source_id": "jung-1969-psychology-religion-cw11",
+        "root": {
+          "id": "jung-1969-psychology-religion-cw11",
+          "title": "Jung — Psychology and Religion: West and East, CW 11 (1969)",
+          "path": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md",
+          "artifact_type": "source-house",
+          "authority": "source-authority",
+          "headings": [
+            "Jung — Psychology and Religion: West and East, CW 11 (1969)",
+            "Bibliographic identity",
+            "Chicago 18 forms",
+            "Essay use",
+            "Passages and excerpts",
+            "Selected local witness and reading",
+            "Passage card — jung-1969-psychology-religion-cw11-q001 — Sophia across named textual witnesses",
+            "Passage card — jung-1969-psychology-religion-cw11-q002 — The witness makes divine self-reflection consequential",
+            "Passage card — jung-1969-psychology-religion-cw11-q003 — Familial and creation reconstruction between the two readings",
+            "Passage card — jung-1969-psychology-religion-cw11-q004 — Bodily priority and the perfection/completeness difficulty",
+            "Passage card — jung-1969-psychology-religion-cw11-q005 — Continuing incarnation and personal representation",
+            "Passage card — jung-1969-psychology-religion-cw11-q006 — Conscious individuation and the scope of the God-image",
+            "Whole consumers and distinct returns"
+          ],
+          "sha256": "5fcdc68e95294025af48bdb3b214511650372899ee552f68474ef533595a36bd",
+          "citation_status": "citation-ready",
+          "quote_status": "source-matched-paraphrases; no-exact-quotation",
+          "main_source_for": [
+            "§4 · religious images as psychological facts"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "source-bank/record",
+            "source-bank/jung",
+            "source-bank/religion"
+          ]
+        },
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "id": "20-advent-zero-subject-integral-logic",
+              "title": "The Advent of Zero, Subject, and Integral Logic",
+              "path": "submission-package/essay/section-rooms/arguments/20-advent-zero-subject-integral-logic.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "The Advent of Zero, Subject, and Integral Logic",
+                "Claim",
+                "Historical operation",
+                "Consequence",
+                "Source boundary",
+                "Test"
+              ],
+              "sha256": "acaebddf9038192e8269a248c6d3e5da1c7e6f56b1eef33654c72347e4004c3c",
+              "claim_status": "Argued",
+              "evidence_status": "authorial-synthesis-with-source-braid",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P4",
+                "P5",
+                "L0",
+                "L2",
+                "L3'",
+                "L4",
+                "L5"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/zero",
+                "argument-map/psychoid",
+                "argument-map/gebser",
+                "argument-map/two-logics"
+              ]
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "id": "mono-poly-two-ones",
+            "title": "Mono–Poly and the Two Ones — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Mono–Poly and the Two Ones — Transverse Thread"
+            ],
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/mono-poly"
+            ]
+          },
+          {
+            "id": "trust-faith-formal-limit",
+            "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Trust, Faith, and the Formal Limit — Transverse Thread"
+            ],
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/trust"
+            ]
+          },
+          {
+            "id": "zero-subject-advent",
+            "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+            ],
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/zero",
+              "argument-map/psychoid",
+              "argument-map/gebser"
+            ]
+          }
+        ]
+      },
+      {
+        "source_id": "neumann-1954-origins-history-consciousness",
+        "root": {
+          "id": "neumann-1954-origins-history-consciousness",
+          "title": "Neumann — The Origins and History of Consciousness (1954)",
+          "path": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+          "artifact_type": "source-house",
+          "authority": "source-authority",
+          "headings": [
+            "Neumann — The Origins and History of Consciousness (1954)",
+            "Bibliographic identity",
+            "Chicago 18 forms",
+            "Source scholarship",
+            "Argument relations (candidate)",
+            "Passage needs (chapter-level leads — unverified)",
+            "Passages and excerpts",
+            "Open acquisition and verification",
+            "Navigation verification — 2026-09-08"
+          ],
+          "sha256": "2f651603974204647249c7a91023cf6edc4008c5bf839b9310cb0070d868fd3d",
+          "citation_status": "citation-ready",
+          "quote_status": "no-excerpts",
+          "main_source_for": [
+            "§4 · post-Jungian history of ego formation"
+          ],
+          "tags": [
+            "epi-logos/antikythera-essay",
+            "source-bank/record",
+            "source-bank/neumann",
+            "source-bank/psychoanalysis"
+          ]
+        },
+        "method": "declared canonical graph and transverse-thread metadata only",
+        "depth": 4,
+        "consumers": {
+          "sections": [],
+          "arguments": [
+            {
+              "id": "20-advent-zero-subject-integral-logic",
+              "title": "The Advent of Zero, Subject, and Integral Logic",
+              "path": "submission-package/essay/section-rooms/arguments/20-advent-zero-subject-integral-logic.md",
+              "artifact_type": "argument",
+              "authority": "canonical-argument",
+              "headings": [
+                "The Advent of Zero, Subject, and Integral Logic",
+                "Claim",
+                "Historical operation",
+                "Consequence",
+                "Source boundary",
+                "Test"
+              ],
+              "sha256": "acaebddf9038192e8269a248c6d3e5da1c7e6f56b1eef33654c72347e4004c3c",
+              "claim_status": "Argued",
+              "evidence_status": "authorial-synthesis-with-source-braid",
+              "coordinates": [
+                "P0",
+                "P1",
+                "P2",
+                "P4",
+                "P5",
+                "L0",
+                "L2",
+                "L3'",
+                "L4",
+                "L5"
+              ],
+              "tags": [
+                "epi-logos/antikythera-essay",
+                "argument-map/live",
+                "argument-map/core",
+                "argument-map/zero",
+                "argument-map/psychoid",
+                "argument-map/gebser",
+                "argument-map/two-logics"
+              ]
+            }
+          ],
+          "concepts": [],
+          "paths": []
+        },
+        "transverse_threads": [
+          {
+            "id": "mono-poly-two-ones",
+            "title": "Mono–Poly and the Two Ones — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Mono–Poly and the Two Ones — Transverse Thread"
+            ],
+            "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/mono-poly"
+            ]
+          },
+          {
+            "id": "trust-faith-formal-limit",
+            "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "Trust, Faith, and the Formal Limit — Transverse Thread"
+            ],
+            "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/trust"
+            ]
+          },
+          {
+            "id": "zero-subject-advent",
+            "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+            "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+            "artifact_type": "path",
+            "authority": "canonical-argument",
+            "headings": [
+              "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+            ],
+            "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+            "register": "episteme",
+            "tags": [
+              "epi-logos/antikythera-essay",
+              "argument-map/live",
+              "argument-map/path",
+              "argument-map/zero",
+              "argument-map/psychoid",
+              "argument-map/gebser"
+            ]
+          }
+        ]
+      }
+    ],
+    "reused_full_reads": [
+      {
+        "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+        "prior_sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+        "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140",
+        "unchanged": true
+      },
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+        "prior_sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7",
+        "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7",
+        "unchanged": true
+      },
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+        "prior_sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0",
+        "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0",
+        "unchanged": true
+      },
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+        "prior_sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66",
+        "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66",
+        "unchanged": true
+      },
+      {
+        "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+        "prior_sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+        "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4",
+        "unchanged": true
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+        "prior_sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+        "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339",
+        "unchanged": true
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+        "prior_sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+        "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b",
+        "unchanged": true
+      },
+      {
+        "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+        "prior_sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+        "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1",
+        "unchanged": true
+      }
+    ],
+    "reference_rows": [],
+    "reference_disposition": "No direct note rows in existing locator; mathematics and later zero-reception retain their separately bound rows."
+  },
+  "argument_depth": [
+    {
+      "argument_id": "A04",
+      "path": "working/p2-enrichment/argument-depth/A04.md",
+      "sha256": "0b65287f0c7a7d5a0206f003b2cdbe4e4afd7025f104ce60bfec897b7ef228fa"
+    },
+    {
+      "argument_id": "A10",
+      "path": "working/p2-enrichment/argument-depth/A10.md",
+      "sha256": "bab78b321241cb345013760b9e68011086eb8380ba640d98a7c525e87e7df17a"
+    },
+    {
+      "argument_id": "A18",
+      "path": "working/p2-enrichment/argument-depth/A18.md",
+      "sha256": "931aadde91ce25c850bec1784b84c55bf828268cb6eceef6f124d5ea425ad75f"
+    },
+    {
+      "argument_id": "A21",
+      "path": "working/p2-enrichment/argument-depth/A21.md",
+      "sha256": "7cfe91ec6423eff272001a99a672cc1e3d02b3eb5cc35ae9e142077660912779"
+    },
+    {
+      "argument_id": "A36",
+      "path": "working/p2-enrichment/argument-depth/A36.md",
+      "sha256": "eceb5ee2900512bd38933f6a71996b5652733bff1f89ec5b2ce8b3656ecc43b0"
+    }
+  ],
+  "required_inputs": [
+    {
+      "path": "working/sources-texts-references/10-7-2026-core-theorems-pithy.md",
+      "sha256": "79471fac912977ab3bf46e23558c2af9ad6570b557987145a9d1da876c5c9140"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-slash/binary-explication-processual-seed.md",
+      "sha256": "11a9ae8a21d6fd5b8f688abae1f8de09b3a8394eb22fed1009f500e0c667a9d7"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-two-processual.md",
+      "sha256": "95624eb242bc398b12ecc79503743f00b348f92d5ab840aac53826617f19c4b0"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/file-one/the-self-proving-self.md",
+      "sha256": "7bf44ef48783a0414b5914ff5d65f19bdb7d1757cfd9be6e8cbc605fe5e36c66"
+    },
+    {
+      "path": "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/canonical-candidate/file-three-quilting.md",
+      "sha256": "0974c8a9010be4af720b099c82a0fe70c945790a76b463c1cfe023d8d080b1f4"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "sha256": "83251faa79d8ecffb479f9273e87cd108b5e53514fbea82757c594d89ec14339"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "sha256": "25dabdf3a73a4f9ce678dd8d3070c278c8f4558a3ae75bb156d1d3f48dc3e08b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "sha256": "0acbe40136cebe1d5dd286236ec8b37b7f023ba36c15ec51bdd4a708dc868ff1"
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md",
+      "sha256": "f5008b29016ffcc5a3786c1cdcb83c9e2a884e81ab3804b42859bdd45b8d9940"
+    },
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md",
+      "sha256": "ba7b16ed0a51c4c91957336ff784cecf98153805281d5d6848b1b0d2450bcc78"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/HISTORY.md",
+      "sha256": "3823064d0fb3650db6d0d744fc3f9d92876d32d1cce1237d363af509292b7ab2"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+      "sha256": "5d48489ddfd473e91a2d533433621893b54f054dbe38fad3012aa64d2a2e31ce"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+      "sha256": "8d7ce04ccc44dd2e868ec746e8190c894069b232d2f69e188456448000bf49fc"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+      "sha256": "bb618d5b38bc422c948c6420b90595542e5a4d18585b47929cf598ef7cde1031"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+      "sha256": "49da32db5b9f6c483b6b330c146e7005e7ccc687b8f1d54b68b29cb108bd621b"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+      "sha256": "afd57d3bdf77a4070a9857eb9fc41db9be75cc41d2e2108a37a8fa84887ba1d4"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/00-integral-threshold/movements/05-s01-p4-gebser-diaphaneity.md",
+      "sha256": "7cce7c32115763fef755dcfb97f5673f4983c3ff7669384acddd221112820610"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational.md",
+      "sha256": "9274d563e6d169c5d5e5fe6fef95450d2228be82e7b478f9c571b01f43d624ca"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/02-return-of-zero/movements/17-s1-p4-zero-outside-math.md",
+      "sha256": "1b2e2a44eae02b141cdfaa4b383cdc83490f668926481f0e27aa92bcb8cdfb0c"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md",
+      "sha256": "6ae47467c64d0aa50b75f0b2ae2f4aab4da8011ec016f0561c61fd5b48497988"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md",
+      "sha256": "cc79700e657d7c6daa485ef07b18a0fda186427b7ae8563917b39c5397289fa6"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md",
+      "sha256": "448800b09b3b8d29ce42db880ef7d669c22eee4a8eb47996103ebe866a95233b"
+    },
+    {
+      "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md",
+      "sha256": "fa02096de71367eac9e318c4f77ac004d8eab94dd0df18b2f86bcc03733ca5c9"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md",
+      "sha256": "01b65334d35b8021553a078d930e8e9288d6c0f0338378915ad55c26ab5352f7"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+      "sha256": "dd325c1ca97aca0acaa57d7c2189a5c0b52a2646dccc4497227229ea445b013d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY.md",
+      "sha256": "03ce9c4ef160a3a187148a9b206813fe83636a6539a6da5900234078652a859f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+      "sha256": "3536ec47a4333858873e52e4b3f7aa66adf2b5779734bc6809a8a786e1b2d490"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORICAL-BRANCHES.md",
+      "sha256": "17d9001f3fbb5317969b593f08c552c6fa90863034f5e5e51a5414183b734b73"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/HISTORY.md",
+      "sha256": "f7387568538735be883334b1f5c5f10b64eb44dc55b2fedc773a3acadd59fd31"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md",
+      "sha256": "6746dcd91e515940d61e1b57e26f636d18bf0846c471307ec3d1de866b7531ab"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORICAL-BRANCHES.md",
+      "sha256": "a210b651d31a32fef9f1e0799522e6566eecc3a051ff7ead3960ab7876d82c0d"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+      "sha256": "ec8f32cb86117c0c7efa4c0c894f44f1d6c686008c34e2f8fa426a9e7a8ea815"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md",
+      "sha256": "de19d10715c9eec17482da51fb25773fdfe7c9bd09f63f521bd56f33e7c3695f"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORICAL-BRANCHES.md",
+      "sha256": "187e685c87019266840acee526fa124303c6800b05f9a58637bac299a0aeed76"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORY.md",
+      "sha256": "77a17b6245991dbc7088dd2bf6bc97b1ac9ee2b2819da47979d5e1e9e496dcb5"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md",
+      "sha256": "8d2ffb1fad4470ec382e0974e5faeed3fe9b7b5d248f295ce3d9dc2f18d3f384"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/README.md",
+      "sha256": "b0b3c8bc2e16e53c6c6a461a02528d03a2920d7d826807c4de031f1d1dde3ac6"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-pages/SKILL.md",
+      "sha256": "f82a328f85385f1926d26e32063fa749ec0429a64e6300c58b920554cb8c333a"
+    },
+    {
+      "path": ".agents/skills/return-of-zero-links/SKILL.md",
+      "sha256": "fd7e079271ab4e6452e36f0859d92b86c89854fa9c47809cf9209c1c8ef1eda1"
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/histories/README.md",
+      "sha256": "d893654fb82b518ae4c0fad4345159fc9fdf10ddd036dc8c69acdba4326a7516"
+    }
+  ],
+  "sources": [
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md",
+      "source_sha256": "6da9866041dcbc22cbd017cd2884efe784984a74c27663a5209a771adc7b6de2",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+      "source_sha256": "b5a23ca645af1e70ae6162d821700b502abce720f89ea85364c1a1aacde6830d",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+      "source_sha256": "51346a37a50e92087b144d18af5a003b41da5fad2129373b7be42f704de0b742",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md",
+      "source_sha256": "fdb706a6128af67de55746d39264f0eac95bb9c8999dbda8146a90790f0a356c",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+      "source_sha256": "ac4345fea4109ce798349dc82ff024e3508859fb8f85b6cde96f367ab956f0ca",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+      "source_sha256": "625eed9f1ef4116f983c084601f78f7287275d212646fa997242081bf59bf28e",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md",
+      "source_sha256": "2760421b2c93292198af90cf7488148eeb0bfe80bd4511eaab0764b27e791622",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/SOURCE.md",
+      "source_sha256": "79110aba3a95e18f68da5ad7a9dbdae995dd1dcea6ab9fb49289b5518001f180",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md",
+      "source_sha256": "5fcdc68e95294025af48bdb3b214511650372899ee552f68474ef533595a36bd",
+      "notes": null,
+      "notes_sha256": null,
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    },
+    {
+      "source": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+      "source_sha256": "2f651603974204647249c7a91023cf6edc4008c5bf839b9310cb0070d868fd3d",
+      "notes": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+      "notes_sha256": "768da367dfd6ece009bc1c6717e64156d3ac16e38b570e513ae95939c6e7bc0f",
+      "notes_policy": "read in full; authorial provenance; never mutate"
+    }
+  ],
+  "slices": [
+    {
+      "path": "working/sources-texts-references/Epi Paper Write-ups/The Advent of Zero — Subject, Psyche, and Integral Logic.md",
+      "start_line": 34,
+      "end_line": 48,
+      "relation": "grounds",
+      "provenance": "Full authorial manuscript read; exact arrival operation with separate histories.",
+      "sha256": "f5008b29016ffcc5a3786c1cdcb83c9e2a884e81ab3804b42859bdd45b8d9940",
+      "text": "\n## The history a sign has to live through\n\nThe return of zero is a historical event before it becomes the title of an essay. A sign enters the field of number, changes what the field can do, becomes ordinary enough to disappear into the background of rationality, and returns at the point where rationality discovers that it has been depending upon a relation it cannot complete from within its own present form. The same event occurs in the history of the subject. A ground once carried through mythic, religious, metaphysical, and lived forms becomes available as a scientific and philosophical term; the act of making it available divides it from the life that made it intelligible; then the division itself becomes the problem of a later consciousness.\n\nThe claim is not that zero, subject, unconscious, and God are interchangeable nouns. Each arrives through a distinct history and does different work. The claim concerns the movement of their arrival: an implicit or imaginal ground becomes a determinate member of a representational order; the order gains extraordinary powers by treating the term as an object or counter-position; the term's operations subsequently reveal the order's own limit. `0/1` names the relation made explicit when this movement becomes available to itself. QL is therefore not a metaphysical ornament placed over mathematics and psychology. It is the Logos which arrives when their separated histories can be read as one differentiating process without their particular disciplines being erased.\n\nThis is why *advent* is the right word. The relation does not begin on the day a notation is written. It comes into presence as a notation capable of receiving what previous symbolic orders had enacted, suffered, or intuited without being able to hold it in the same formal body. A new Logos arrives when the old Logos has developed enough exactness to see the zero it excluded in order to be exact.\n\n## Kaplan's zero: absence acquires offices\n\nKaplan's history has to be read as a sequence of changed permissions. The Babylonian separator makes an absence legible inside a positional column, yet it remains an internal device rather than a terminal numeral. The Hellenistic astronomical circle marks an absent measure within a sexagesimal table. Neither operation is trivial; each grants absence a local office inside an ordered inscription. But the sign has not yet acquired the full arithmetic life that later makes zero decisive.\n\nThe Indian development gives the sign a different status. *Śūnya* carries a word-world already able to speak of emptiness, openness, and no-thing, while mathematical practice makes the sign operational: addition, subtraction, multiplication, and division have to say what happens when they meet it. Brahmagupta's rules establish zero's internal arithmetic citizenship. Bhāskara's *khahara* presses the problem where that citizenship reaches its edge. A zero denominator cannot be treated as a normal member of an ordinary field without changing the laws of the field; the expression therefore becomes a place where the form of mathematics has to declare itself.\n"
+    },
+    {
+      "path": "submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md",
+      "start_line": 5329,
+      "end_line": 5362,
+      "relation": "grounds",
+      "provenance": "Native recapitulations and explicit authorial corrections; not external evidence.",
+      "sha256": "7faf310d5e828142248a42ff359b5247a43ca19a83a4d144196f27919c6c1dc2",
+      "text": "Frank's notes give the eight determinations a complete mythic recapitulation in one author, with page anchors: `−/−` En-Soph/tohubohu (pp. 18, 106); `0/1` the world parents' separation; `?/!` the coming of light; `−/+` hunger as systole/diastole; `X/x` ego against the unconscious ground; `AM/IS` \"I am I\" (with Frank's paśu correction — the Bṛhadāraṇyaka passage Neumann quotes at p. 105 shows recognition preceding separation: \"I am\" is prakāśa's vimarśa before pati/patni, and Neumann collapses prakāśa-vimarśa into ego); `∞/dx` the great round (Mono/Poly pleromatic); `1/0` the hero's descent and return. Frank's lock-gloss: this is the delineation of the Māyic threshold — the first unfolding into differentiation of the `0/1`, the `4+2` (+2) retaining its conditions of transformation and genesis as explicit qualities. Candidate grounding: Argument 13 (tattvic differential field) and Argument 20 (advent) via phylogenetic recapitulation. Open placement question, carried to harmonisation: plate/appendix object vs woven §4 prose register.\n\n### 4. The energetics cap (Frank-locked)\n\nThe five-register energetics discipline closed by: the somatic floor (Van Eenwyk's systole/diastole, the gut as the body's torus, hunger/striving at `−/+`) and the physics witnesses (plasma oscillation, magnetic confinement, Floquet-driven systems from Frank's GPT chat logs — witnesses only, never theorem-authority). Frank's user-authoritative stipulation: the torus carries formal reality through all energetic registers (magnetism, Floquet physics). The cap's spine: no register's \"energy\" is another's substance; the torus is what persists across them (see §14 for the mathematical wing this session added).\n\n### 5. The uroboros-torus-trickster weave (user-authoritative correction, walked across the fourfold)\n\nThe uroboros is the torus — the `4+2` — not the sphere or circle; all prior corpus treatments that read the round as sphere/perfect-circle stand corrected. The snake is the trickster precisely because the torus is passed off as the sphere (the Eden-serpent as the same figure in fallen register: the hole traded for the fork). Walked across the ponere/ballein fourfold: **position** — the circle as costume, the sphere's dead arithmetic `(-1)+(+1)=0`; **opposition** — the head/tail hunger axis; **superposition** — self-eating as `(0/1)/(1/0)` made bodily, the mouth as the operative hole; **interposition** — the uroboros as genus-one `4+2`: four explicate twisting field-lines (`#5` the enfolding whole) and two implicates (the magnetic axis + the hole = `#0`). Meta-ballein (metabolism, etymologically) accounted at this register: circulation that nourishes (assimilation/samāveśa) versus Saturn-devouring (the blocked gut as monopoly's metabolism). Register nuance recorded: this ledger's own prior line (\"the torus becomes the apt symbol only after this process has been derived... the ouroboros, halo, and eternal-return images give the same operation mythematic bodies\") was already toroidal — Frank's correction sharpens that line (adding the trickster's pass-off, the `4+2` explication, and the hole's proper owner) rather than demolishing it; what falls is Neumann's perfection-as-circle-sphere-round and any static \"paradox held\" reading.\n\n### 6. Māyā is not the hole (user-authoritative correction)\n\nThe hole is Paramaśiva/Anuttara, the `#0`, the kṛtṛ pole. Māyā is the formal patterns Śakti's winding makes to reflect back to the hole/prakāśa via vimarśa — the measure-field, not the void it measures around. Śakti has joy/ānanda for Māyā. The plasma log already carried this unknowingly (\"the axis the plasma can never occupy\" = the Anuttara doctrine in physics vocabulary). Consequence carried through every layer below: wherever the weave says \"the hole,\" its owner is Anuttara; wherever it says \"Māyā,\" it means the winding's pattern-field.\n\n### 7. The Mother flow — Assumption matheme and chiasm (from the Skenfrith-cope log, re-keyed)\n\nThe log (Frank-directed quilt source) carries: the Assumption matheme `3:1 = 3:3` — assumption-*of*, not ascent-*away-from*; recognition as the treasure's name; the chiasm structure; the Mother as consciousness receiving itself in matter. Frank's re-keying stands and is recorded as a correction (§15): the Skenfrith-castle \"power history\" frame was a personal trip; the essay-usable material is the mother-flow/Assumption/chiasm layer, and the essay's historical detail lives in the submission package and central plan. Candidate join: the Mother's two faces (devouring/nourishing) are the need/Desire pair of the Levinas layer at the mythic register (§11).\n\n### 8. The transpersonal condition for agent egos (Frank-stipulated)\n\nAccounting for the conditions of psyche requires a transpersonal/shared condition for AI agents — a shared substrate for agent \"egos,\" with coverage already in the Moltbook and Polylogos case studies. The Levinas layer's formal statement joins it: the second-order transition (model-revising encounter) needs a *field* in which revision can propagate — the Polylogos glossary as a shared field where encounter revised the participants' common lexicon. Neumann's collective basis and Levinas's face as two faces of one requirement: no revision alone, no revision without the Other.\n\n### 9. The civic pathology-map (candidate, keyed to plan language)\n\nArendt's in-between (the table) = the slash at the civic register; totalitarianism as the abolition of the in-between; loneliness-as-mass-condition distinct from solitude. Atomisation = the slash privatised away, each person handed their own `1`. \"Being made a number\" = Argument 21's politics of the count; the state as the institution that ciphers persons (census, statistic, ID). Jung's statistical man (*The Undiscovered Self*; the state substituting for the lost God; the individual as the only real carrier of life). Desmet's mechanism: mechanistic ideology → free-floating anxiety + meaning-lack + isolation → mass formation as counterfeit cure — a whole with no hole, the sphere-trick at civic scale. Products named: `0` (the blob; poly neutralised) and `±2` (the state-that-counts; the hidden Mono doubling through negation of the civic slash). The power thread re-keyed to plan language throughout: hidden zero, occupied slash, the floor.\n\n### 10. The `/0`-return as the close's formal definition (Frank's cap stipulation)\n\nThe return of zero = the moment the missing `/0` is brought to the materialist understanding of reality, looping the whole argument back to the formal limit derived at the start (the definition of the subject; the history of zero emerging from śūnyatā). Paradoxical identity becoming explicit: zero returns not as `0` but as `0/1`, `(0/1)/(1/0)` in full. The definitive cognitive/śāktopāyic move: affirm that which presupposes the measured field — go to the block before it is carved (paraphrasing the Taoists). The essay reads as a śāktopāyic instrument for the śāktopāyic age — the fourth upāya being the medium the AI machine itself operates in; §5→0's constructive programme as upāya-governance, not bolted-on ethics. The close lands on three chords struck together: structural restoration (the missing `/0`), recognition (aletheia/pratyabhijñā — the block uncarved *in* the carving), and responsibility (the Levinasian You through whom every totalisation is interrupted — §11). §5→0 closes when the measured field — matter, energy, code, crowd, count — is returned to its denominator.\n\n### 11. The Levinas layer (candidate; source: this ledger's key17 block)\n\nThe face is the missing denominator personed: totalisation (\"for me\") is the amputated `/0` at the intimate register; the Other within Mono without being within me — ontological inclusion, egoic non-containment. Need and Desire as the two chiralities of wanting: need closes the circuit (sphere-desire; satisfaction as sealed loop; its fallen form the ego eating its projections — uroboric incest at the interpersonal register); Desire is the poloidal return that cannot close into possession (torus-desire; the icchā/ānanda-thread at the human register). The eight determinations now carry two recapitulation-witnesses — the mythic/genetic (Neumann) and the ethical (Levinas) — interlocking at `AM/IS`: the ego's \"I am\" (paśu-corrected), the divine Name ehyeh-asher-ehyeh, and Levinas's second-person You as the determination's three-person grammar; the paśu's economy IS the \"for me\" economy. The mythematic operators organise otherness: God (Other at source-scale), Shadow (other-self), Friend (myself's-other), Alien/enemy (the projected externalised `−1`). The EBM second-order transition formalises encounter: totalisation at the computational register is `y* = argmin E_θ(m,y)` with the evaluator frozen — novelty permitted only as a better answer to an inherited need; deferential intelligence (Argument 08) defined as the capacity for model-revising encounter; sycophancy as what totalisation feels like from the user's side. AI xenophobia as the Same's two costumes at the substrate boundary (reassuring image / hostile image — both \"for me\"). The four-yoga expansion joins the upāya map. Levinas against Heidegger: the `/0`'s ethical register beside its ontological one — the return must be both un-forgetting and answerability.\n"
+    }
+  ],
+  "raw_skeleton": "# zero-subject-advent\n\n## #0\n\n## #1\n\n## #2\n\n## #3\n\n## #4\n\n## #5→0",
+  "standing": "Writer must read inputs and derive page-specific sixfold; this packet certifies neither prose nor external evidence"
+}

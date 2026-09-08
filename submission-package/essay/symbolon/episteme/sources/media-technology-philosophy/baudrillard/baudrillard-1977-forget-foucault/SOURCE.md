@@ -5,18 +5,18 @@ source_role:
 - media-simulation-theory
 citation_style: chicago-notes-bibliography-18
 metadata_status: verified-identity
-edition_status: needed
-citation_status: intake
-quote_status: no-excerpts
-chicago_ready: false
+edition_status: selected-2007-scan
+citation_status: citation-ready
+quote_status: source-matched-paraphrases
+chicago_ready: true
 author:
 - Jean Baudrillard
-title_full: 'Forget Foucault (Oublier Foucault)'
+title_full: Forget Foucault (Oublier Foucault)
 publisher: Semiotext(e) Foreign Agents
 year: 1977
 translator: Nicole Dufresne
 url: https://www.semiotexte.com/product-page/forget-foucault
-accessed: '2026-08-02'
+accessed: ' 2026-09-08'
 consumed_by_sections: []
 consumed_by_arguments: []
 tags:
@@ -31,44 +31,88 @@ ownership: canonical-source-house
 schema_version: 1
 passage_surface: '#passages'
 main_source_for: []
+consumed_by_lenses:
+- lens-baudrillard
+register: episteme
+local_copy: working/p2-enrichment/raw/T21-baudrillard/forget-2007-scan.pdf
 ---
 # Baudrillard — Forget Foucault (1977)
 
 ## Bibliographic identity
 
-*Oublier Foucault*, first published by Éditions Galilée, Paris, 1977. English translation by Nicole Dufresne, published as *Forget Foucault* in the Semiotext(e) Foreign Agents series (1987; the English edition also carries the companion interview "Forget Baudrillard" with Sylvère Lotringer). The English edition identity and translation are recorded here from the publisher record and the standard bibliography (Wikipedia article "Jean Baudrillard," fetched 2026-08-02); no printed copy of the selected English edition has been collated yet.
+French original: *Oublier Foucault* (Paris: Galilée, 1977). The [consulted scan](https://teddykw2.files.wordpress.com/2012/07/jean-baudrillard-forget-foucault.pdf) is Semiotext(e), **2007**, ISBN 9781584350415: copyright and title leaves identify Nicole Dufresne's main translation. The [WPS preview](https://docshare.wps.com/document/jean-baudrillard-forget-foucault/40412/) carries the same edition metadata but stops in Lotringer's introduction. The scan supplies the selected main-text passages. Its contents place the main essay at p.27 and the interview at p.71. The latter credits Phil Beitchman, Lee Hildreth and Mark Polizzotti; it is not Dufresne's main essay. Lotringer pp.7–8 recounts the 1987 English publication and 1984 interview; those are separately attributed editorial testimony.
 
-## Chicago 18 forms
+**Full note:** Jean Baudrillard, *Forget Foucault*, trans. Nicole Dufresne, introduction and interview by Sylvère Lotringer (Los Angeles: Semiotext(e), 2007), 29–31.
 
-**Full note:** Jean Baudrillard, *Forget Foucault*, trans. Nicole Dufresne (New York: Semiotext(e), 1987), {page}.
+**Shortened note:** Baudrillard, *Forget Foucault*, page.
 
-**Shortened note:** Baudrillard, *Forget Foucault*, {page}.
-
-**Bibliography:** Baudrillard, Jean. *Forget Foucault*. Translated by Nicole Dufresne. New York: Semiotext(e), 1987.
+**Bibliography:** Baudrillard, Jean. *Forget Foucault*. Translated by Nicole Dufresne. Introduction and interview by Sylvère Lotringer. Los Angeles: Semiotext(e), 2007.
 
 ## Source scholarship
 
-The text is Baudrillard's direct intervention on Foucault, written at the height of Foucault's dominance of French intellectual life (the 1960s–80s). Its opening figure is "the era of the orgy" — the aftermath of the liberations of 1968 (sex, desire, the unconscious, revolution), in which liberation itself has become a spent sign. Its thesis against Foucault: the analytics of power, by treating power as a hidden reality to be unveiled by genealogy, participates in the simulation of power. In the order of the code, power does not stand beneath discourse as its secret truth; it circulates as a sign, and the discourse on power — including the critical, denunciatory, genealogical discourse — is the medium of that circulation. Hence the title's injunction: forgetting is the radical move; remembering, denouncing, and genealogising keep the simulation alive.
+The opening tests discourse through what its own articulation does: the analysis of power can reproduce its object's operation. Baudrillard then asks whether analytical perfection arrives after the referent's exhaustion. He explicitly recognises Foucault's shift toward productive, immanent power before contesting the axiom that power remains the real term. Reducing their disagreement to external discipline versus newly discovered internal control misstates this sequence.
 
-The second movement concerns sexuality: against the Freudian reading in which sexual desire is repressed (and therefore must be released), Baudrillard inverts the claim — sex is the control mechanism, because it represses the failure of desire. Desire does not deliver happiness, nor does power; both are delusional, and the imperative to enjoy (the orgasm-quota, the obligation of satisfaction) is installed by the social order as self-discipline through desire. This is the passage from Foucault's external discipline to an internalised mechanism based on desire — the step Baudrillard claims Foucault stopped short of taking.
+Production at pp.36–40 includes compulsory appearance, confession and calculability. The later reversible challenge is not private disbelief undoing an institution. These are Baudrillard's theoretical claims; his sweeping statements about cultures and fascism are not established historical evidence here.
 
-Scholarly status: the book is deliberately provocative and theory-fictional in register; its biographical consequence (the withdrawal of a Sorbonne appointment after publication, and Baudrillard's subsequent marginalisation in French academia) is documented in the standard biographical literature but is not itself an argumentative claim of the work.
+<a id="passages"></a>
+## Passages
 
-## Argument relations (candidate — for the harmonisation pass to weigh)
+<a id="baudrillard-1977-forget-foucault-q001"></a>
+## Passage card — `baudrillard-1977-forget-foucault-q001` — Disposition of misplaced orgy lead
 
-- **Power as installed belief.** "Power is only a thought in the mind; installed as a belief; a delusional belief; there is no actual power" is the satsang transcript's gloss on this work (Shunyamurti, mRf0KYs1sT4, ~12:30–13:45) and converges with the Shaivite claim that consciousness is total freedom and nothing can bind it except its own desire. Candidate relation to the quilt's trust thread: the fallen accounting's power is gauge-occupation — belief in the occupied gauge — and the forgetting is the return to the unoccupied slash. *Relation proposed for weighing, not decided.*
-- **The step past Foucault.** Foucault's discipline (external, institutional: asylums, prisons, the clinical gaze) gives way in Baudrillard to self-discipline installed through desire — the internalisation that makes the consumer society run without the factory's walls. Candidate reading against the essay's §2 dia-ballein/sym-ballein: external discipline is the cut enforced from without; desire-discipline is the cut internalised so that the subject polices its own slash. Deleuze's "Postscript on the Societies of Control" (1990) continues the same step from the institutional side (control as continuous modulation replacing enclosure). *Neighbour, not derivation.*
-- **The orgy-era register.** The aftermath of liberation as the exhaustion of signifiers — liberation itself becoming a simulacrum — is a candidate mythematic frame for the essay's §4 treatment of the God-image and the trust-function persisting beneath the dead image.
-- **Sex as control mechanism.** "You must enjoy" as installed imperative; the older recognition that sexual expenditure exhausts bio-electrical energy (the satsang's point about "the more sex you had, the more stupid you would become") against the modern imperative. Candidate relation to the essay's libido/prāṇa/Śakti register: the counterfeit climax versus the Shiva–Shakti union — desire mistaken as lack (Lacan) or installed as imperative (Baudrillard) versus icchā as the freedom of consciousness itself.
+**Disposition:** The former q001 orgy-opening lead belongs to Transparency of Evil, After the Orgy, p.3. This identifier preserves the correction rather than manufacturing a Forget Foucault quotation.
 
-## Passage needs (leads — no quotation text)
+- **Locator:** Former lead withdrawn; see baudrillard-1990-transparency-evil-q001.
+- **Status:** withdrawn attribution / cross-work disposition; not a passage from this book.
+- **Verification:** 2007 contents/main opening compared with 1993 Transparency primary preview; consulted 2026-09-08.
+- **Source relation:** Editorial correction; destination passage separately paraphrased.
+- **Evidential action:** preserves the supersession route; establishes no passage claim in this book.
+- **Consumers:** Baudrillard lens; exact downstream proposals remain with T22.
 
-- **Lead q001 — the orgy opening.** Locator: opening pages (English ed. pp. 29ff., "The End of the O rgy" section header per standard bibliography). Function: the aftermath register; the exhaustion of liberation as sign. **Status: unverified — lead only.**
-- **Lead q002 — power as simulated sign / the forgetting.** Locator: central thesis pages of the main essay. Function: the forgetting as radical move; the critique that keeps simulation alive. **Status: unverified — lead only.**
-- **Lead q003 — sex represses the failure of desire.** Locator: sexuality section of the main essay. Function: the inversion against the Freudian repression thesis; the installed imperative of enjoyment. **Status: unverified — lead only.**
+<a id="baudrillard-1977-forget-foucault-q002"></a>
+## Passage card — `baudrillard-1977-forget-foucault-q002` — Discourse participating in power
+
+**Paraphrase:** The analysis mirrors the powers it describes; the question about their disappearance contests their continued status as the explanatory referent.
+
+- **Locator:** Printed pp.29–31, scan file pp.25–27.
+- **Status:** source-matched paraphrase; not quotation-ready.
+- **Verification:** Selected scan text read; main author distinguished from introduction; consulted 2026-09-08.
+- **Source relation:** Paraphrased.
+- **Evidential action:** establishes this work's theoretical formulation, not an empirical finding or native QL derivation.
+- **Consumers:** Baudrillard lens; exact downstream proposals remain with T22.
+
+<a id="baudrillard-1977-forget-foucault-q003"></a>
+## Passage card — `baudrillard-1977-forget-foucault-q003` — Production through the visible
+
+**Paraphrase:** Baudrillard recognises productive power, then connects compulsory sexual expression with the demand that bodies and activity become visible and calculable.
+
+- **Locator:** Printed pp.34–40, scan file pp.30–36.
+- **Status:** source-matched paraphrase; not quotation-ready.
+- **Verification:** Selected scan text read in sequence; consulted 2026-09-08.
+- **Source relation:** Paraphrased.
+- **Evidential action:** establishes this work's theoretical formulation, not an empirical finding or native QL derivation.
+- **Consumers:** Baudrillard lens; exact downstream proposals remain with T22.
+
+<a id="baudrillard-1977-forget-foucault-q004"></a>
+## Passage card — `baudrillard-1977-forget-foucault-q004` — Reversible challenge
+
+**Paraphrase:** The text opposes cumulative irreversibility to reversible seduction and counterchallenge. Challenge exceeds a force contest and does not become a guaranteed technique of liberation.
+
+- **Locator:** Printed p.55 and pp.59–64, scan file p.51 and pp.54–59.
+- **Status:** source-matched paraphrase; not quotation-ready.
+- **Verification:** Selected scan text read with pp.55–67 context; consulted 2026-09-08.
+- **Source relation:** Paraphrased.
+- **Evidential action:** establishes this work's theoretical formulation, not an empirical finding or native QL derivation.
+- **Consumers:** Baudrillard lens; exact downstream proposals remain with T22.
+
+## Essay uses
+
+This source **sources** the [Baudrillard lens](../../../../lenses/baudrillard.md), which compares the selected operation with E4 Account/source return. A20/A24/A32 and C27/C33/C38/C55 retain their native derivations. These are lens proposals, not newly propagated consumer edges.
+
+## Superseded intake and retained research
+
+The orgy opening is rehomed to Transparency q001; the satsang's sex/energy, happiness and individual-disbelief glosses are encounter provenance only. The former Sorbonne biographical claim is withheld pending a biographical source. The old external-Foucault/internal-Baudrillard sequence is withdrawn. Deleuze's control essay, Foucault's own works and care-of-self remain separately sourced research, not silently verified by this critique. No fourth QL posture is admitted.
 
 ## Open acquisition and verification
 
-1. Acquire the selected English edition (Semiotext(e) Foreign Agents, 1987) by lawful means; collate the printed pages against the leads above; record exact page locators and exact wording before any quotation.
-2. Verify the French/English edition relationship and the placement of the Lotringer interview in the English edition.
-3. Decide, at harmonisation, whether the "era of the orgy" material is mythematic or propositional for the essay.
+Visually collate selected pages before exact quotation. Main-text reading covered pp.29–43, 55–67; the intervening pages and full interview remain separate reading tasks. Neither complete-volume coverage nor an independent adjudication of Foucault's whole corpus is claimed.
