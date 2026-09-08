@@ -1,17 +1,34 @@
 ---
 title: P2 Enrichment Handoff
 label: wayfinder:map
-status: ready — P1 propagated/source-locked; T17 is next gate
+status: "T17–T21 developed and accepted; T22 batches verified 2026-09-08"
 
-> **Addendum 2026-09-07:** the conjugate programme completed and was promoted to `submission-package/essay/symbolon/episteme/conjugate/` (36 A′ + A/C root, `record_type: canonical-argument`; process record in `working/conjugate-field/`). Wayfinder ticket 018 (#39 ought-be architecture) is closed — remainder folded to T21/#22. Descartes/Levinas/CSM source houses created; core-theorems SOURCE carries the fuller accounting; C01/A34/A01 amendments and the bounded-64 reharmonisation enacted. Same day, second act: the symbolon root layer is the twelvefold (8-determination spine + mono-poly, `#` complexio-oppositorum, self-identity, subject-logics), the Vāk mapping is straight (#1–#4: parā/paśyantī/madhyamā/vaikharī), the matheme register is restructured (definition/process/quilt/music + dia-syn + mono-poly; the Binary Explication four-file system housed at `taylor-2026-binary-explication`; the core-theorems spine declared the curated extraction set), and the central plan carries the 2026-09-07 amendment. The T17 census registers these root identities and the new house. T17 remains the gate; the census the queue assembles must now include the conjugate bodies.
 created: 2026-09-06
 programme_parent: "Return of Zero Writing Programme / GitHub #1"
-completed_through: "T16 / GitHub #17"
-next_gate: "T17 / GitHub #18"
-branch: "agent/t10-t16-p1-propagation"
+completed_through: "T19 / GitHub #20 — scoped root/Matheme development"
+next_gate: "STOP before T23/T24 and manuscript composition"
+branch: "main"
 ---
 
 # P2 Enrichment Handoff
+
+**Live execution return, 2026-09-08:** T20 and T21 are developed and accepted on `main`, with T22 per batch. All 25 whole Mythemes and 163 Episteme records have their canonical homes; 127 quilt units, 272 E-programme rows and all 1,333 typed consumer instances are dispositioned. See the [completion receipt](../../working/p2-enrichment/receipts/T20-T21-COMPLETION-2026-09-08.md), [current coverage](../../working/p2-enrichment/T21-e-field-consumer-coverage.md) and [execution state](../../working/p2-enrichment/T20-T21-LIVE-EXECUTION-STATE.json). Completed T17–T19 and the manuscript remain preserved. **STOP before T23/T24 and manuscript composition.** Dated preparation instructions and earlier pending statuses below are historical; do not restart completed waves from them.
+
+## Authorial correction 2026-09-08 — actual T20/T21 programme scope
+
+Execute [T20/#21](https://github.com/EpiLogos/Antykathera-Essay-Work/issues/21) and [T21/#22](https://github.com/EpiLogos/Antykathera-Essay-Work/issues/22), with [T22/#23](https://github.com/EpiLogos/Antykathera-Essay-Work/issues/23) after batches. The [implementation map](t20-t21-world-registers.md) now binds these tickets to their original recovery and etymology programmes; it does not replace this handoff.
+
+**T20 recovers ALL canonical whole Mythemes from the full quilt/developmental field**, through native 020/#41, the whole-story amplification law, inherited register crosswalk, quilt surface/relation ledgers, final quilt, ratification and T09 dispositions. The inherited 21-record queue is not the scope ceiling. Require exact quilt-section → whole → source/interpretation → canonical carrier → consumer/return coverage, including all material figures, story movements and authorial corrections. Neumann is the top-level archetypal structuration of genesis/world parents/differentiation; geography and temporality are separate organising classes. The universal archetypal operation retains the final quilt's full ouroboros/torus/snake/trickster, circle/sphere pass-off, fourfold, metabolism, opening and return. It is not merely a Neumann-first story batch.
+
+**T21 develops Episteme from/via the Etymology whole-fields**, their exact generated relations, historical branches, sources and reciprocal A/C/Movement returns. Read the Ought-Be Etymology Architecture, Archaeology Tree Seams, A/C/E reciprocity and Relational Form Growth bodies linked in the implementation map. Preserve the six mature fields and their earned cardinalities, the four evidence registers and whole-field + operation + consumer consequence + return on every load-bearing route. Complete #39's transferred etymology/aphorism/section-relation work, section-room↔argument alignment, the full reference-note dispositions and all ratified Episteme records. Sources remain essential; history/atlas migration cannot substitute for the lexical/relational programme.
+
+**Acceptance:** semantic coverage of those two programmes plus the live tickets' done-when clauses. Sixfold headings are locally derived from the raw chassis below, never a universal glossary. The earlier September 8 architecture/freshness receipts describe the prior state; affected packets need verification after this correction. The earlier dates and T17-first instructions below remain historical; T17–T19 are complete.
+
+> **Current return 2026-09-08:** Frank has ratified both next-register approaches after the folder discussion. Read [T20–T21 world-register execution map](t20-t21-world-registers.md); it contains the Neumann recovery and fresh-session prompt. The September 7 STOP below is historical and satisfied; no next-wave bodies have yet been generated.
+
+> **Execution return 2026-09-07:** T17 passed; all twelve root relations plus the spine-index and all 80 Matheme records are developed. Scoped hygiene: 93 bodies, 992 links, no failures; navigation: 145 links with intended targets. See the [execution receipt](../../working/p2-enrichment/receipts/T17-T19-COMPLETION-2026-09-07.md), [current manifest binding](../../working/p2-enrichment/receipts/T19-final-manifest-binding.json), and [36-track backcheck](../../working/p2-enrichment/receipts/T22-root-matheme-depth-backcheck.md). **STOP before Mytheme and Episteme generation.** Their folder structures require Frank's discussion first. The earlier programme flow below is historical wherever it exceeds this boundary; no blanket A-depth restoration or philosophical certification is claimed.
+
+> **Addendum 2026-09-07:** the conjugate programme completed and was promoted to `submission-package/essay/symbolon/episteme/conjugate/` (36 A′ + A/C root, `record_type: canonical-argument`; process record in `working/conjugate-field/`). Wayfinder ticket 018 (#39 ought-be architecture) is closed — remainder folded to T21/#22. Descartes/Levinas/CSM source houses created; core-theorems SOURCE carries the fuller accounting; C01/A34/A01 amendments and the bounded-64 reharmonisation enacted. Same day, second act: the symbolon root layer is the twelvefold (8-determination spine + mono-poly, `#` complexio-oppositorum, self-identity, subject-logics), the Vāk mapping is straight (#1–#4: parā/paśyantī/madhyamā/vaikharī), the matheme register is restructured (definition/process/quilt/music + dia-syn + mono-poly; the Binary Explication four-file system housed at `taylor-2026-binary-explication`; the core-theorems spine declared the curated extraction set), and the central plan carries the 2026-09-07 amendment. The T17 census registers these root identities and the new house. T17 remains the gate; the census the queue assembles must now include the conjugate bodies.
 
 ## Destination
 

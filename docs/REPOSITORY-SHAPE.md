@@ -8,6 +8,10 @@ date: "2026-08-08"
 
 # Repository Shape — Functional Map
 
+**2026-09-08 programme correction:** Enter through the [original P2 handoff](../.wayfinder/maps/p2-enrichment-handoff.md): T20/#21 recovers ALL canonical quilt Mythemes with Neumann as shared archetypal structuration and geography/temporality distinct; T21/#22 develops from/via the mature Etymology programmes. The folder approach below serves these execution obligations.
+
+**2026-09-08 structural update:** Mytheme now has the ratified target approach `worlds/` + story-local variants + `constellations/` + `atlas/`; Episteme retains sources/etymologies and develops histories through places/peoples, traditions/disciplines and encounters/transmissions with a linked atlas. Whole Mythemes now have their one-home world/archetypal destinations, and all ten histories have migrated with protected prose preserved and developed companions beside them. See the [current execution state](../working/p2-enrichment/T20-T21-LIVE-EXECUTION-STATE.json) for completed reciprocal integration, coverage proofs and scoped validation. See the [T20–T21 execution map](../.wayfinder/maps/t20-t21-world-registers.md), subordinate to the central plan amendment. Dated counts and earlier surface descriptions below remain historical where superseded.
+
 This is the one-file map of the whole repository: what each surface **is**, what authority it carries, where a reader or agent enters it, and where it lands in the final shape. It exists so the repo does not have to be reconstructed from scattered reads. The final shape and its rules are fixed in `WRITING-PROTOCOL.md` (§3–§5, §14) and governed by `AGENTS.md`; this file only maps them onto the current tree.
 
 ## Read-first order
