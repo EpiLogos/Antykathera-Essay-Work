@@ -1,0 +1,50 @@
+{
+  "status": "RELEASED: source admission and scoped T22 passed; ready for Laplace integration",
+  "case": "sanskrit-enumeration",
+  "row_id": "E4-comparative",
+  "destination": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md",
+  "insert_after": "Branches kept in their own soils; preserve existing bodies and protected HISTORY",
+  "exact_branch_markdown": "<a id=\"sanskrit-enumeration-and-discriminative-practice\"></a>\n## Sanskrit enumeration and discriminative practice\n\n**Evidence register 2:** the Sanskrit lexical entries and the selected Sāṃkhyakārikā passages. **Register 3:** their expressly authored return through Symbol / Account / Trust. This case develops the Sanskrit lead beside the protected HISTORY; its historical standing does not supply or diminish the native field’s force.\n\n[Monier-Williams’s saṃ-√khyā and saṃkhyā entries](../../sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md#monier-williams-1899-sanskrit-english-dictionary-p001) distinguish counting up, a number or total, grammatical number, deliberation and an appellation. The related [sāṃkhya entry](../../sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md#monier-williams-1899-sanskrit-english-dictionary-p002) gives numerical and discriminative uses and the philosophical school’s name. It retains two explanations of that name: discrimination and, in the lexicographer’s qualified preference, enumeration of twenty-five principles. This lexical evidence establishes a Sanskrit field of uses. The philosophy’s operation has to be recovered from its own text.\n\nĪśvarakṛṣṇa’s classical formulation is conventionally placed around 350 CE, with the author’s precise date uncertain. The selected primary-language carrier is Ruzsa’s dated 1998 electronic recension, whose header identifies its print sources and variants; the existing 1837 Colebrooke/Wilson translation remains a distinct witness. [Kārikā 3](../../sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md#isvarakrishna-ruzsa-1998-samkhyakarika-p001) divides the principles by what produces and what is produced. Root prakṛti is not itself a product. Seven principles beginning with mahat are both produced and productive; sixteen are products; puruṣa is neither. The enumeration therefore retains four causal descriptions within its total of twenty-five.\n\nThe seven comprise buddhi, ahaṃkāra and five subtle elements. The sixteen comprise the eleven faculties, including manas, and the five gross elements. A count which replaced these relations with twenty-five interchangeable units would lose what the classification explains. Nor does placing puruṣa twenty-fifth mean that only one person exists: verse 18 separately argues for a plurality of puruṣas. Enumeration makes the principles addressable while their causal and cognitive offices remain different. It supplies no equation with Trika’s thirty-six tattvas or Taylor’s eight determinations.\n\nThe text then asks how those principles are known. [Kārikās 4–6](../../sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md#isvarakrishna-ruzsa-1998-samkhyakarika-p002) distinguish perception, inference and trustworthy testimony. Perceptual determination has its objects; inference works through a sign and what it indicates; reliable testimony has a further office where the other means do not establish the matter. Listing the principles and warranting knowledge of them are thus consecutive, distinguishable acts. The source’s admitted testimony is a particular epistemic means. Taylor’s Trust is the broader committed relation within which an examined account can enter action; neither term silently acquires the other’s whole scope.\n\nThe enumeration also belongs to a practice. In [Kārikās 64–68](../../sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md#isvarakrishna-ruzsa-1998-samkhyakarika-p003), repeated discrimination of the principles releases the appropriation of activity and possession to puruṣa. The distinction changes the practitioner’s relation to experience. The continuation of the body through prior dispositions, figured by a turning wheel, is distinguished from final isolation at bodily dissolution. The passage’s direction is Sāṃkhya liberation through discrimination. E4’s continuing return through changed encounters is a separately authored operation; it does not turn the inactive puruṣa into an agent of mutual revision.\n\nAt **register 3**, **Symbol answers to source** when a named principle retains the relation which lets it be recognised here. **Account does not replace source** when the enumeration carries both its classification criterion and the means by which the claim is known. **Trust keeps the return route active** in the authorial comparison when reliance on a teaching retains access to its warrant and use; the historical testimony passage alone does not demonstrate that every teaching permits correction. **Account re-enters source-field** when the practised discrimination changes subsequent appropriation. The last relation compares a specified transformation while preserving the difference between Sāṃkhya’s isolating release and E4’s recursive source-answerability.\n\nThis case returns a precise burden to [A15](../../arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md): an exact count must retain the criterion which made its members countable. It also returns to [C10](../../concepts/C10-Mediation-Pramana.md): an acquired statement retains whether its warrant was perception, inference or reliable testimony. The comparison develops E4’s three terms and four operations through a specific philosophical practice, without treating lexical kinship as proof of the system’s ontology or asserting transmission to another language.\n",
+  "source_houses": [
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md"
+  ],
+  "consumer_proposals": [
+    {
+      "record_id": "A15",
+      "path": "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+      "insertion": "After existing E4 return in #5→0",
+      "exact_markdown": "The [Sanskrit enumeration case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#sanskrit-enumeration-and-discriminative-practice) **compares** this register-3 obligation through Kārikā 3’s twenty-five principles under different causal descriptions. The count remains exact while the account retains what is productive, produced, both or neither. Kārikās 4–6 separately state how the claims are known. Returning the criterion and warrant preserves the operation without identifying its Sāṃkhya ontology with the native ratio field.",
+      "status": "proposal-only"
+    },
+    {
+      "record_id": "C10",
+      "path": "submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md",
+      "insertion": "After #4 source/means/warrant paragraph",
+      "exact_markdown": "The [Sanskrit enumeration case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#sanskrit-enumeration-and-discriminative-practice) **historicises** a distinct pramāṇa taxonomy: Kārikās 4–6 distinguish perception, inference and trustworthy testimony. At register 3, C10 receives the requirement to retain which means warranted this claim. This acquired Sāṃkhya case supplements the Śaiva discussion without making either school’s taxonomy universal.",
+      "status": "proposal-only"
+    }
+  ],
+  "whole_field_proposal": {
+    "path": "submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md",
+    "insertion": "#2 Account does not replace source, after existing branch discussion",
+    "exact_markdown": "The [Sanskrit enumeration case](HISTORICAL-BRANCHES.md#sanskrit-enumeration-and-discriminative-practice) **historicises** a source-specific comparison at register 2 and **returns-to** this account relation at register 3. Kārikā 3 preserves different causal descriptions within its count; 4–6 distinguish the means of knowledge; 64–68 give discriminative practice its own liberative consequence. The comparison keeps the count, its warrant and the change of appropriation distinct from the native eightfold."
+  },
+  "fulfilled_debts": [
+    "independent selected lexical entry",
+    "selected primary-language passage and recoverable raw carrier",
+    "dated carrier and explicitly bounded historical/practice chronology",
+    "developed source-specific practice and four-operation comparison"
+  ],
+  "remaining_source_debts": [
+    "Print collation of Cologne dictionary transcription and GRETIL constituent editions; exact quotation readiness is not claimed.",
+    "Precise ancient composition date; no comprehensive history of the name or all Sāṃkhya practices admitted."
+  ],
+  "integration_debts": [
+    "Laplace installs branch and exact E4 return at his owned surfaces.",
+    "Parent/Copernicus reviews consumer-specific insertions; source admission is not consumer closure."
+  ],
+  "native_standing": "Unchanged. Source historical readiness does not downgrade native force.",
+  "other_E4_cases": "Chinese/Arabic/Egyptian owned elsewhere; no verdict or closure claimed by these two cases.",
+  "t22_receipt": "working/p2-enrichment/receipts/T22-E4-sanskrit-hebrew-hygiene-2026-09-08.json"
+}

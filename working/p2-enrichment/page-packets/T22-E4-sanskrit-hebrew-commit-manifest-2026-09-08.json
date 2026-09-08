@@ -1,0 +1,274 @@
+{
+  "status": "READY manifest only; awaiting explicit index grant after Huygens and Dirac source windows",
+  "observed_utc": "2026-09-08T13:17:00.477878+00:00",
+  "observed_head": "89e4f52c00c327f2466c7ad70d8cfd5136c08ecb",
+  "scope": "E4 Sanskrit enumeration + Hebrew SPR: four owned SOURCE houses, thirteen raw carriers, eight sealed private proof/proposal/receipt files, and this manifest only",
+  "counts": {
+    "SOURCE": 4,
+    "raw_carriers": 13,
+    "existing_private_proof": 8,
+    "manifest": 1,
+    "explicit_stage_paths": 26
+  },
+  "stage_paths": [
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+    "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/gen15.html",
+    "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/kings08.html",
+    "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/kings12.html",
+    "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/kings22.html",
+    "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/jps-metadata.html",
+    "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/ruzsa-chronology.html",
+    "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/mw-samkhya.html",
+    "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/mw-samkhya-count.html",
+    "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/gretil-sankhya.html",
+    "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/bdb5608.html",
+    "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/bdb5612.html",
+    "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/bdb4557.html",
+    "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/sankhya.txt",
+    "working/p2-enrichment/page-packets/T22-E4-sanskrit-hebrew-source-admission-2026-09-08.json",
+    "working/p2-enrichment/page-packets/T22-E4-sanskrit-enumeration-proposal-2026-09-08.md",
+    "working/p2-enrichment/page-packets/T22-E4-sanskrit-enumeration-proposal-2026-09-08.json",
+    "working/p2-enrichment/page-packets/T22-E4-hebrew-spr-proposal-2026-09-08.md",
+    "working/p2-enrichment/page-packets/T22-E4-hebrew-spr-proposal-2026-09-08.json",
+    "working/p2-enrichment/receipts/T22-E4-sanskrit-hebrew-hygiene-initial-2026-09-08.json",
+    "working/p2-enrichment/receipts/T22-E4-sanskrit-hebrew-hygiene-2026-09-08.json",
+    "working/p2-enrichment/receipts/T22-E4-sanskrit-hebrew-completion-2026-09-08.md",
+    "working/p2-enrichment/page-packets/T22-E4-sanskrit-hebrew-commit-manifest-2026-09-08.json"
+  ],
+  "files": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+      "category": "SOURCE",
+      "sha256": "c071cd6370520adf25850f6320990a6ca4a9790b0ae33f48f6bd7d3316d943ee",
+      "bytes": 5459,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+      "category": "SOURCE",
+      "sha256": "146d140cdc148c027b0b2049453c111b3749094557dc596a06582329601b1497",
+      "bytes": 8087,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+      "category": "SOURCE",
+      "sha256": "8c21aa537c65536d2ad723c71913947587a7d6acf8cc7e2649c46d56fce2262f",
+      "bytes": 6271,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+      "category": "SOURCE",
+      "sha256": "de8b17c57b65f8f4346a493ce607bb0891fa1630dd3a7b9055a9807207d0aa94",
+      "bytes": 8824,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/gen15.html",
+      "category": "raw-carrier",
+      "sha256": "02665bbd62b35bde366ac1e8c4fd973866d5ed67d57932c8e94df3c80c080fef",
+      "bytes": 10535,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/kings08.html",
+      "category": "raw-carrier",
+      "sha256": "06c5cf00996e1ccfc499798cf90bc0ecdf44715d3cfa9df42f6712d8084a674e",
+      "bytes": 18046,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/kings12.html",
+      "category": "raw-carrier",
+      "sha256": "2afe0831a566299e9ff0ae8f62a7e33917c09216a76cd90172290481107af148",
+      "bytes": 13989,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/kings22.html",
+      "category": "raw-carrier",
+      "sha256": "b08d72842d7139045c94af443e12b6ffbef0f3634516a00136726877e4312dbf",
+      "bytes": 13704,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/jps-metadata.html",
+      "category": "raw-carrier",
+      "sha256": "edc6baac2ac8284f0573c2a5a13569c5d17035de661b8b7630b81f9e0840b7bc",
+      "bytes": 6598,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/ruzsa-chronology.html",
+      "category": "raw-carrier",
+      "sha256": "1fed6506cc9fd018804cb64a9479c9e784d1927ad08719ba3279875ce8781369",
+      "bytes": 75419,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/mw-samkhya.html",
+      "category": "raw-carrier",
+      "sha256": "c69d080b450f4986abe3d0f97e71dfb9be771ed331eb896b2baee3a8afe90eca",
+      "bytes": 8271,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/mw-samkhya-count.html",
+      "category": "raw-carrier",
+      "sha256": "4514b2794aca6eac8b8d0d6b64507d6917facc8cfbe1bd50c9bf24ec5c90e4a6",
+      "bytes": 12150,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/gretil-sankhya.html",
+      "category": "raw-carrier",
+      "sha256": "519e2937e3365fba8a41446639ee884b8541c1c5da73b6fa9306092724e9caf3",
+      "bytes": 35323,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/bdb5608.html",
+      "category": "raw-carrier",
+      "sha256": "696d95c5ee8744719f2cfcd35072edf8dcf448f498e14b878d5453651cd846d1",
+      "bytes": 61222,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/bdb5612.html",
+      "category": "raw-carrier",
+      "sha256": "f474cd60caa0c71665e4ad1542863ffd9719bf835638a56ee74f740744ffbf46",
+      "bytes": 56463,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/bdb4557.html",
+      "category": "raw-carrier",
+      "sha256": "668e4f7c2afab05488e062fa615e1a21583f3654869658ed4d2a7543b68811e4",
+      "bytes": 46113,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "working/sources-texts-references/primary-texts/E4-sanskrit-hebrew-2026-09-08/sankhya.txt",
+      "category": "raw-carrier",
+      "sha256": "727b48453fead6f27081e37e7e1f9215330fb06c62c52bbb21e37a13bca94179",
+      "bytes": 639950,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": true
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-E4-sanskrit-hebrew-source-admission-2026-09-08.json",
+      "category": "private-proof",
+      "sha256": "9a15c805df65ca66960c24aaeabf4bf75d29d5df08e1f697ea1f0aa9dafef024",
+      "bytes": 633185,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": false
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-E4-sanskrit-enumeration-proposal-2026-09-08.md",
+      "category": "private-proof",
+      "sha256": "54fb1051d8e8e7b5af1e9cc0e75f6eb4ff8028c47a4c76191f9ffd14174aa43e",
+      "bytes": 6105,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": false
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-E4-sanskrit-enumeration-proposal-2026-09-08.json",
+      "category": "private-proof",
+      "sha256": "d6f41a534e1065921a546efd369673930614025e6b4238b6cade8a5838f30c5e",
+      "bytes": 9857,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": false
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-E4-hebrew-spr-proposal-2026-09-08.md",
+      "category": "private-proof",
+      "sha256": "17b4dea20a7203fbca364ee64e8d9130e2d63e1922fb13b33b6b0849620ecd86",
+      "bytes": 6790,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": false
+    },
+    {
+      "path": "working/p2-enrichment/page-packets/T22-E4-hebrew-spr-proposal-2026-09-08.json",
+      "category": "private-proof",
+      "sha256": "b7a3960c0833fdd54b3808447482a59f4793b4cb1929d48765beef22ea8bd7d6",
+      "bytes": 10465,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": false
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-sanskrit-hebrew-hygiene-initial-2026-09-08.json",
+      "category": "private-proof",
+      "sha256": "c507f8a82e1986544506e4bf8afc7d584c4485b3985a3656c892bc412a0b2043",
+      "bytes": 458023,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": false
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-sanskrit-hebrew-hygiene-2026-09-08.json",
+      "category": "private-proof",
+      "sha256": "4b0fc5d74aefdf7d80429b03fa6152448f0b63064fe5e1423fa35777c37d9dd3",
+      "bytes": 440792,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": false
+    },
+    {
+      "path": "working/p2-enrichment/receipts/T22-E4-sanskrit-hebrew-completion-2026-09-08.md",
+      "category": "private-proof",
+      "sha256": "351929dec884b871d2c81a40a070c18fa0f1f9441629d2b17c597dca50bfa11f",
+      "bytes": 7061,
+      "change_against_observed_head": "new file",
+      "accepted_hash_reuse": false
+    }
+  ],
+  "manifest_hash_rule": "Manifest is explicitly included in stage_paths; its own hash is excluded to avoid self-reference. Hash it and recheck payload hashes at the granted commit window.",
+  "accepted_validation_reuse": {
+    "receipt": "working/p2-enrichment/receipts/T22-E4-sanskrit-hebrew-hygiene-2026-09-08.json",
+    "receipt_sha256": "4b0fc5d74aefdf7d80429b03fa6152448f0b63064fe5e1423fa35777c37d9dd3",
+    "scoped_targets": 4,
+    "failures": 0,
+    "passage_cards": 12,
+    "source_and_raw_hashes_rechecked": 17,
+    "drift": [],
+    "protected_baseline_result": "150 unchanged at released T22; no new protected/127/whole audit performed for manifest preparation."
+  },
+  "parent_report": {
+    "provenance": "User coordination update, 2026-09-08",
+    "statement": "Laplace fully read two proposals and four SOURCE houses; all five E4 cases integrated. Integration is parent-reported, not re-audited here.",
+    "source_proof_receipts": "Earlier proposal/receipt status is preserved as the historical release snapshot; no rewrite to claim agent-owned E4 integration."
+  },
+  "exclusions": [
+    "All E-field files, including HISTORICAL-BRANCHES and WHOLE-FIELD",
+    "A/C/Movement bodies and metadata",
+    "Shared matrices, census, queues and 127 coverage/audit",
+    "SOURCE projections and other agents source/raw batches",
+    "Protected HISTORY, NOTES, manuscript and T17–T19",
+    "Earlier K/history/Foucault/Attica work outside this two-case batch"
+  ],
+  "remaining_parent_actions": [
+    "Grant exclusive index window when queued source commits have released it.",
+    "At grant, recheck exact payload hashes and current HEAD membership, confirm index empty, stage explicit manifest paths only, verify staged set and commit; report hash then release index.",
+    "Parent owns any consumer integration beyond the reported five-case E4 integration."
+  ],
+  "source_debts": "Print/critical-edition collation, precise ancient dates, qualified earlier lexical derivations and independently verified execution of narrated orders remain separate from native claim standing.",
+  "index_activity": "No staging, commit, reset, rebase or index mutation requested or performed."
+}
