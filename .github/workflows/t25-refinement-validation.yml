@@ -7,6 +7,11 @@ on:
     paths:
       - '.github/workflows/t25-refinement-validation.yml'
       - '.wayfinder/tickets/refine-05-cold-review-and-validation.md'
+      - 'the-return-of-zero-central-plan.md'
+      - 'return-of-zero-orienting-principles.md'
+      - 'submission-package/essay/**'
+      - 'tools/**'
+      - 'tests/**'
 
 permissions:
   contents: read
