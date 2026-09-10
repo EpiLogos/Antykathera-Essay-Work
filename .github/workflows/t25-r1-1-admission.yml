@@ -1,0 +1,82 @@
+name: T25 R1.1 canonical admission
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/t25-r1-1-admission.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: t25-r1-1-admission
+  cancel-in-progress: false
+
+jobs:
+  admit:
+    if: github.repository == 'EpiLogos/Antykathera-Essay-Work'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Validate and apply the exact reviewed R1.1 patch
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, pathlib, subprocess
+          root = pathlib.Path('.')
+          base = 'working/pre-manuscript-refinement-2026-09-10/'
+          ep = 'submission-package/essay/symbolon/episteme/'
+          allowed = {
+              'return-of-zero-orienting-principles.md',
+              'the-return-of-zero-central-plan.md',
+              ep + 'arguments/A26-Objective-Internality-Mind-as-Worldhood.md',
+              ep + 'arguments/A34-Idealism-Order-of-Dependence.md',
+              ep + 'concepts/C10-Mediation-Pramana.md',
+              ep + 'concepts/C41-Objective-Internality.md',
+              ep + 'concepts/C60-Idealism-Order-of-Dependence.md',
+              ep + 'conjugate/A26-prime-The-Essay-Inside-the-Film.md',
+              ep + 'conjugate/A34-prime-Direction-of-Dependence.md',
+              ep + 'conjugate/AC.md',
+              base + 'BATCH-RETURNS.md',
+              base + 'R1.1-CONTENT-HASHES.json',
+          }
+          payload = b''.join((root / base / 'batches/R1.1' / f'{i:02}.patchpart').read_bytes() for i in range(1,7))
+          # Transport-only correction: one stray space before a diff header.
+          payload = payload.replace(b'\n diff --git ', b'\ndiff --git ')
+          expected = '930e52f4d22773c483947e47e71803c29201545db1eeca428ae8b8ec907b0e0f'
+          actual = hashlib.sha256(payload).hexdigest()
+          assert actual == expected, (actual, expected)
+          patch = pathlib.Path('/tmp/t25-R1.1.patch')
+          patch.write_bytes(payload)
+          stats = subprocess.check_output(['git','apply','--numstat',str(patch)],text=True)
+          paths = {line.split('\t',2)[2] for line in stats.splitlines()}
+          assert paths == allowed, (paths - allowed, allowed - paths)
+          protected = [p for p in root.rglob('NOTES.md') if p.is_file() and not p.is_symlink()]
+          protected += [p for p in (root/'working/sources-texts-references').rglob('*') if p.is_file() and not p.is_symlink()]
+          protected += [root/'submission-package/essay/THE-RETURN-OF-ZERO.md']
+          before = {str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in protected}
+          subprocess.run(['git','apply','--unidiff-zero','--index','--check',str(patch)],check=True)
+          subprocess.run(['git','apply','--unidiff-zero','--index',str(patch)],check=True)
+          after = {str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in protected}
+          assert before == after, 'Protected file changed'
+          manifest = json.loads((root/base/'R1.1-CONTENT-HASHES.json').read_text())
+          for path, digest in manifest['files'].items():
+              assert hashlib.sha256((root/path).read_bytes()).hexdigest() == digest, path
+          staged = set(subprocess.check_output(['git','diff','--cached','--name-only'],text=True).splitlines())
+          assert staged == allowed, (staged - allowed, allowed - staged)
+          subprocess.run(['git','diff','--cached','--check'],check=True)
+          print(json.dumps({'batch':'R1.1','patch_sha256':actual,'changed_paths':sorted(staged),'protected_files_unchanged':len(before),'standing':'substantive R1; not final validation or T26 ratification'},indent=2))
+          PY
+      - name: Commit and fast-forward main without force
+        shell: bash
+        run: |
+          git config user.name 'Epii'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'T25 R1.1: amend governing plan first and refine whole-level grounding'
+          git push origin HEAD:main
+          git log -1 --format='admitted_commit=%H%nadmitted_tree=%T'
