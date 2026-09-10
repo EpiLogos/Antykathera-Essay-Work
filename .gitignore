@@ -2,3 +2,10 @@
 .bkmr/
 __pycache__/
 *.pyc
+
+# Local recovery archives. `working/p2-enrichment/RECOVERY-*.md|json` reference
+# this directory by absolute path: a byte-exact snapshot of 967 workspace files
+# taken 2026-09-08 before the T23/T24 repair, with its sha256 manifest and the
+# workspace patch. The pre-repair state is now git history, so the 34 MB tarball
+# stays on disk as a local safety net and is not published.
+working/recovery-checkpoints/
