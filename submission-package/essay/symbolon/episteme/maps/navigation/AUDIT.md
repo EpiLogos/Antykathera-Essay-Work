@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.0"
 authority: generated-locator
-source_digest: "7b7a9f85f7227f83ea4a673ddc307daf97938631a6dfd3468a67c36908159eff"
+source_digest: "bd45b263950604d31c115a3a7610fb6d6fb5c89726569dc1cd881f773bf61efb"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -18,17 +18,17 @@ Generated findings about the written navigation of the publication body. A findi
 
 ## Reader links and workspace lookup
 
-Visible, independently resolved links reach 701 of 764 pages. All 281 admitted records are checked: 0 missing and 0 unreachable.
+Visible, independently resolved links reach 702 of 765 pages. All 281 admitted records are checked: 0 missing and 0 unreachable.
 
 This conservative reader check validates file-relative Markdown, vault-path or unique-filename wikilinks, and heading anchors. Title/alias-only links are portability debt, not proof of failure in Obsidian. Frontmatter and code do not count as reader routes. [Full reader findings](reader-audit.json) retain every location and unresolved destination.
 
-Workspace lookup reaches 717 of 764 pages. The tables below describe that larger graph, including metadata relations and resolver fallbacks; its depths are graph hops, not a certified reader click count.
+Workspace lookup reaches 718 of 765 pages. The tables below describe that larger graph, including metadata relations and resolver fallbacks; its depths are graph hops, not a certified reader click count.
 
 | Depth (clicks) | Pages |
 |---|---|
 | 0 | 1 |
 | 1 | 62 |
-| 2 | 510 |
+| 2 | 511 |
 | 3 | 114 |
 | 4 | 25 |
 | 5 | 5 |
@@ -40,7 +40,7 @@ Workspace lookup reaches 717 of 764 pages. The tables below describe that larger
 | The sovereign essay | 1 | 8 | 0 | 8 | 0 | 0 | 0 |
 | The rooms — waypoints, alignments, reading routes | 20 | 860 | 78 | 782 | 0 | 0 | 0 |
 | The 48 movements | 48 | 501 | 222 | 279 | 0 | 0 | 0 |
-| The historical argument shelf (01–21) | 21 | 256 | 12 | 244 | 0 | 0 | 0 |
+| The historical argument shelf (01–21) | 21 | 260 | 12 | 248 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 196 | 146 | 50 | 0 | 1 | 0 |
 | Matheme — exact operations | 94 | 845 | 399 | 446 | 0 | 13 | 0 |
 | Mytheme — whole lived images | 48 | 763 | 449 | 314 | 0 | 23 | 0 |
@@ -50,7 +50,7 @@ Workspace lookup reaches 717 of 764 pages. The tables below describe that larger
 | Episteme · Concepts C01–C64 and provenance | 179 | 1226 | 609 | 617 | 36 | 84 | 47 |
 | Episteme · Etymology whole-fields | 22 | 589 | 439 | 150 | 0 | 5 | 0 |
 | Episteme · Histories | 21 | 660 | 429 | 231 | 0 | 3 | 0 |
-| Episteme · Source houses | 194 | 1036 | 166 | 870 | 0 | 80 | 0 |
+| Episteme · Source houses | 195 | 1051 | 167 | 884 | 0 | 80 | 0 |
 | Episteme · Dossiers | 8 | 205 | 179 | 26 | 0 | 1 | 0 |
 | Episteme · Lenses | 3 | 37 | 26 | 11 | 0 | 1 | 0 |
 | Episteme · Maps and curated paths | 5 | 119 | 7 | 112 | 0 | 1 | 0 |
@@ -58,7 +58,7 @@ Workspace lookup reaches 717 of 764 pages. The tables below describe that larger
 | Episteme · Aphorisms | 1 | 11 | 9 | 2 | 0 | 0 | 0 |
 | Episteme · Figures | 1 | 3 | 0 | 3 | 0 | 1 | 0 |
 | Episteme · Dialogues | 1 | 1 | 0 | 1 | 0 | 1 | 0 |
-| Supporting quilt ledgers (non-canonical) | 6 | 78 | 15 | 63 | 0 | 3 | 0 |
+| Supporting quilt ledgers (non-canonical) | 6 | 92 | 15 | 77 | 0 | 3 | 0 |
 
 ## Curated paths
 
@@ -88,7 +88,7 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 
 ## Unresolved targets
 
-- **Supporting quilt ledgers (non-canonical):** `../section-rooms/` (2); `../section-rooms/arguments/` (1); `<canonical surface>` (1)
+- **Supporting quilt ledgers (non-canonical):** `../section-rooms/` (2); `../section-rooms/arguments/` (1); `Ionescu, Khan, Milne &amp; Mocan — Minimum Viable Interiority (2025)` (1); `<canonical surface>` (1)
 - **Episteme · Concepts C01–C64 and provenance:** `Mono-Poly Trust` (4); `Return of Zero — Scholarly Source Bank Protocol` (1); `Return of Zero Source Bank Index` (1); `Source Consumption Matrix` (1); `Legacy Reference-Node Deprecation Manifest` (1); `journal/spanda-karikas-arguments-april-2026` (1)
 - **Episteme · Conjugate arguments A01′–A36′:** `bare wikilinks` (1)
 - **Episteme · Source houses:** `Dreamcode` (1); `Antykathera Essay Work` (1)

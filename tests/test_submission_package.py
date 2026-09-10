@@ -56,7 +56,7 @@ class SubmissionPackageTests(unittest.TestCase):
             ),
         )
         self.assertEqual(
-            180,
+            181,
             len(list((ESSAY / "symbolon/episteme/sources").rglob("SOURCE.md"))),
         )
         self.assertTrue((ESSAY / "symbolon/episteme/histories").is_dir())

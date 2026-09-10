@@ -2,6 +2,7 @@
 title: "Antikythera — Agentworld Site Copy (2026)"
 aliases:
   - "antykathera-site-copy"
+  - "Antikythera"
 source_id: antikythera-2026-site-copy
 node_type: source-house
 ownership: canonical-source-house

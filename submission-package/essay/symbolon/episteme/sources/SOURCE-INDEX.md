@@ -3,7 +3,7 @@ title: "Return of Zero — Canonical Source Index"
 source_id: source-index
 generated: true
 generator: tools/build-source-projections.py
-source_digest: "a3b3fcd0be055d9b7ae44ee20eac50e6e4571c9c100d73c7148b3a1a31e15a61"
+source_digest: "6eaef06880f5f2301f82bdab4a3a5dcef07c8de5bccb35af05565f0c83a6c122"
 ---
 
 <!-- Generated from canonical SOURCE.md houses. Do not edit by hand. -->
@@ -88,6 +88,7 @@ source_digest: "a3b3fcd0be055d9b7ae44ee20eac50e6e4571c9c100d73c7148b3a1a31e15a61
 - [Iain McGilchrist — The Master and His Emissary (2009)](psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE.md) — `mcgilchrist-2009-master-emissary` — forms-drafted-edition-unpinned
 - [Iakovou — On the Misuse of the Concept of Totalitarianism](political-theory-institutions/iakovou/iakovou-2022-misuse-totalitarianism/SOURCE.md) — `iakovou-2022-misuse-totalitarianism` — metadata-verified
 - [Interim Exploitation of German and Austrian Specialists under Project Paperclip — FRUS1946V, document448](political-theory-institutions/united-states-government/us-1946-paperclip-policy-frus448/SOURCE.md) — `us-1946-paperclip-policy-frus448` — selected-scope-ready
+- [Ionescu, Khan, Milne & Mocan — Minimum Viable Interiority (2025)](media-technology-philosophy/antikythera/ionescu-khan-milne-mocan-2025-minimum-viable-interiority/SOURCE.md) — `ionescu-khan-milne-mocan-2025-minimum-viable-interiority` — citation-ready
 - [Irenaeus — Against Heresies Book I (Roberts–Rambaut, ANF 1885)](classical-premodern-philosophy/irenaeus/irenaeus-1885-against-heresies-book-1/SOURCE.md) — `irenaeus-1885-against-heresies-book-1` — citation-ready
 - [ITER — What Is a Tokamak](physics/iter/iter-what-is-tokamak/SOURCE.md) — `iter-what-is-tokamak` — citation-ready
 - [Jason Reza Jorjani — Prometheus and Atlas (2016)](media-technology-philosophy/jorjani/jorjani-2016-prometheus-atlas/SOURCE.md) — `jorjani-2016-prometheus-atlas` — forms-drafted-pagination-unverified

@@ -1,15 +1,15 @@
 {
-  "source_digest": "7b7a9f85f7227f83ea4a673ddc307daf97938631a6dfd3468a67c36908159eff",
+  "source_digest": "bd45b263950604d31c115a3a7610fb6d6fb5c89726569dc1cd881f773bf61efb",
   "builder_version": "1.1.0",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
-    "pages": 764,
-    "reachable": 701,
+    "pages": 765,
+    "reachable": 702,
     "problems": {
       "directory-link": 6,
-      "title-or-alias-only": 480,
-      "ambiguous-filename": 4,
-      "missing-vault-path": 81,
+      "title-or-alias-only": 505,
+      "missing-vault-path": 91,
+      "ambiguous-filename": 5,
       "missing-path": 1
     },
     "admitted": 281,
@@ -17,26 +17,26 @@
     "unreachable_admitted": 0
   },
   "reading_root": "submission-package/essay/README.md",
-  "pages": 764,
-  "reachable_from_root": 717,
+  "pages": 765,
+  "reachable_from_root": 718,
   "depth_histogram": {
     "0": 1,
     "1": 62,
-    "2": 510,
+    "2": 511,
     "3": 114,
     "4": 25,
     "5": 5
   },
   "max_depth": 5,
   "relation_totals": {
-    "unnamed": 5128,
+    "unnamed": 5160,
     "sources": 1298,
-    "sources (declared)": 783,
+    "sources (declared)": 787,
     "returns-to": 647,
     "grounds": 479,
-    "extends": 359,
+    "extends": 360,
     "qualifies": 295,
-    "consumed-by (declared)": 269,
+    "consumed-by (declared)": 273,
     "defines": 252,
     "figures": 220,
     "compares": 170,
@@ -70,9 +70,9 @@
     },
     "quilt": {
       "pages": 6,
-      "links": 78,
+      "links": 92,
       "named": 15,
-      "unnamed": 63,
+      "unnamed": 77,
       "orphans": 0,
       "no_return": 3,
       "unreachable": 0
@@ -88,9 +88,9 @@
     },
     "argument-shelf": {
       "pages": 21,
-      "links": 256,
+      "links": 260,
       "named": 12,
-      "unnamed": 244,
+      "unnamed": 248,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -222,10 +222,10 @@
       "unreachable": 0
     },
     "episteme-sources": {
-      "pages": 194,
-      "links": 1036,
-      "named": 166,
-      "unnamed": 870,
+      "pages": 195,
+      "links": 1051,
+      "named": 167,
+      "unnamed": 884,
       "orphans": 0,
       "no_return": 80,
       "unreachable": 0
@@ -646,6 +646,7 @@
     "quilt": {
       "../section-rooms/": 2,
       "../section-rooms/arguments/": 1,
+      "Ionescu, Khan, Milne &amp; Mocan — Minimum Viable Interiority (2025)": 1,
       "<canonical surface>": 1
     },
     "episteme-concepts": {
