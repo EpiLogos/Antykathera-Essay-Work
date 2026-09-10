@@ -11,6 +11,8 @@ source_relation: "Argued authorial operation; historical attributions scoped loc
 
 ## #0
 
+**Life / Mind names the whole; the arrow’s middle term names mind’s mediating, objective-internal office within it.** Subjective Immediacy is the knower, Objective Internality the means and World the known. The inherited shorthand below must be read with this distinction. Its ontological claim is preserved: determinate appearances do not supply their own exhaustive condition. The refinement prevents “Mind / Objective Internality” from collapsing the whole into its investigable means.
+
 The essay's idealism states a positive order of dependence: **Subject / Consciousness → mind as objective internality → object as determinate appearance**. The arrows articulate dependence, not chronological manufacture by a private ego. C60 makes the order and the predicates exact; [[symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence|A34]] develops the argument. Treating idealism as only a discipline of comparing views would remove the position that the [[quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|explicit Q27 correction]] requires the field to carry.
 
 ## #1

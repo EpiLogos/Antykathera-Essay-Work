@@ -20,6 +20,14 @@ supersedes: "submission-package/essay/symbolon/episteme/conjugate/AC.md (pass 1)
 
 ## A face — the ruling: Respect for Experience
 
+### The whole in which the two faces act
+
+The ruling is addressed to **Life / Mind as the whole**, not to a total inventory of its contents. **Subjective Immediacy is pramātṛ, the knower; Objective Internality is pramāṇa, the means; World is prameya, the known.** Mind in its strong idealist sense is Life. The determinate mind-world which can be investigated as objective internality is its mediating office: the forms, histories, powers and encounters through which a World becomes available. Neither the private ego nor an inspectable representation of these means can assume the place of the whole.
+
+This relation is the existing recognition-matheme’s work. At `Ø`, the inner instrument’s signature has fused into the apparent subject; at `X`, its discriminations present a determinate object-world. `Ø/X` makes the medium visible between them. `(0/Ø)/(1/X)` holds both recognition-relations together, allowing `1` to be affirmed as differentiated unity and to return as `0/1`. The whole sequence developed below therefore gives the knower–means–known relation its lived operation; it is not replaced by three detached definitions. The first-person fact grounds respect, while the contents through which a Life is formed remain corrigible and consequential.
+
+[A26](../arguments/A26-Objective-Internality-Mind-as-Worldhood.md) and [C41](../concepts/C41-Objective-Internality.md) develop the mediating field; [C10](../concepts/C10-Mediation-Pramana.md) keeps the mode and warrant of knowing distinct; [A34](../arguments/A34-Idealism-Order-of-Dependence.md) and [C60](../concepts/C60-Idealism-Order-of-Dependence.md) preserve its order of dependence. These owning relations keep the root’s ethical facticity, its full native theorem and its technological constitution joined without confusing their registers.
+
 **Body.** The A face's body is the frozen six-movement ethic, *Respect for Experience: right form and clear intention*, at `/Users/admin/Central/Control/agents/now/agents/experience-law-pstack/respect-for-experience.proposed.md`. It is linked, not rewritten; it stays frozen. Its six movements — *Life is awareness, experience; Form gives experience a world; Intention takes effect; Law carries entrusted power; The common world is apportioned; Experience renews the form* — are the ruling every conjugate operation answers to, and its closing concern names what the whole field is for: more room to know, act, create and be.
 
 ### Grounding, raised from the essay
@@ -47,6 +55,14 @@ The system carries its own floors and bridges, and the grounding must carry them
 **Unfreeze ruling observed:** the A body stays frozen. The sharpening (facticity → dignity → love as meta-intention) sharpens the frame *around* the ethic, not a sentence inside it; §1 of the ethic already carries the claim.
 
 ## C face — the concept: the primitive field
+
+### The S field as six aspects of the means
+
+The existing parent S concerns **World and Life**. Its six product rows disclose meaningful continuity (Central), living articulation (Actuation), potency (AIKit), transformation (Software Factory), situated existence (Workcell) and Transcendent Relation (Quaternal Logic). Each is a subject disclosed through its entire assigned MEF pair: respectively L0×L5′, L1×L4′, L2×L3′, L3×L2′, L4×L1′ and L5×L0′. The product does not occupy one subposition within a lens, and its meaning is not exhausted by the short label of a constitutional cell.
+
+The ratified matrix below remains its primitive constitution. T25 develops these already present S identities into seven whole records and six product-led §5 movements under the amended central plan; it does not install another O:I ontology. Source, history and reference remain meaningful through whose internality and relation they address. **A primitive is alive when its generating relation remains operable: say what it relates, what difference it makes, how that difference becomes actual, and what returns from the encounter.** A record of implementation must show that operation in the actual technological source; the philosophical office alone cannot certify that it runs.
+
+The paired product disclosure returns to the A face. A means carries entrusted power: it affects what someone can see, remember, attempt and contest, and how experience can revise that form. The historical Power and Antichrist arguments concern the capture, administration and apportionment of those very capacities, not an external ethical appendix. The sixfold product whole is answerable to the frozen ruling’s life, form, intention, law, common world and renewal.
 
 **Body.** The C face's body is the ratified primitive field of the workshop's §3 (O Core Primitive Field — Objective Internality, QL 6×6 + Parent S, version v2), incorporated below as ratified; repository harmonisation pending. Because code is this age's way of saying what māyā said — the archetype of technoscience determining the most apt analogical frame for what Śiva/Śakti/Spanda via māyā/mahāmāyā expressed — the primitives are the grammar of the self-computing process's technological determinations.
 

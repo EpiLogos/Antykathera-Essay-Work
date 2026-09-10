@@ -13,6 +13,8 @@ argument_consumers: [A01, A04, A05, A06, A23, A25, A31, A33]
 
 ## #0
 
+Within the essay’s argued whole, **pramāṇa is Objective Internality as means**, between Subjective Immediacy as knower and World as known; Life / Mind is the whole relation. [C41](C41-Objective-Internality.md) defines that constituted interior. C10 specifies how a particular disclosure occurs and what can warrant it. This native appointment does not make every operation of an internality a valid cognition by virtue of its occurrence; a report, inference or model retains the warrant proper to its mode.
+
 Mediation is the determinate means through which a claim, perception or relation becomes available. The means belongs to what must be understood about the disclosure: how it reaches its object, what it makes salient, what it transforms and under what conditions it fails. Knowledge remains possible under the formal limit because availability does not require possession of the source.
 
 [C05 — Immutable Gap](C05-Immutable-Gap.md) **grounds** this condition. C10 follows its positive consequence: the gap demands an account of the relation through which something is known. *Pramāṇa* names a source-specific Indian epistemological neighbour concerning means of valid cognition. Its validity conditions require their own recovery; the term cannot silently certify every language, instrument or model that mediates.

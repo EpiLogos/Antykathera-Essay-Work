@@ -5,7 +5,7 @@ aliases:
   - "Attitude Locks"
 status: derived-compression
 authority: subordinate-to-central-plan
-date: "2026-07-14"
+date: "2026-09-10"
 tags:
   - epi-logos/antikythera-essay
   - planning-v3/orientation
@@ -15,11 +15,18 @@ tags:
 # Return of Zero — Orienting Principles
 
 > [!important] What this file is
-> A compression of [[the-return-of-zero-central-plan|the central plan v3.1]] and [[working/sources-texts-references/10-7-2026-core-theorems-pithy|the core theorems]] into the orienting concepts and attitudes that every surface of this corpus must hold. It adds no new claims and it governs nothing the plan does not already govern; where any sentence here diverges from the plan, the plan wins. It exists because successive content passes (section rooms, dossiers, context updates) kept dropping exactly these commitments — hedging where the plan argues, flattening where the plan distinguishes, and inventing structure where the plan already provides it. **Load this file before touching any section, argument, room, or dossier surface. Every statement below is traceable to the plan or the theorem spine; none is optional.**
+> A compression of [[the-return-of-zero-central-plan|the central plan v3.2 / T25]] and [[working/sources-texts-references/10-7-2026-core-theorems-pithy|the core theorems]] into the orienting concepts and attitudes that every surface of this corpus must hold. It adds no new claims and it governs nothing the plan does not already govern; where any sentence here diverges from the plan, the plan wins. It exists because successive content passes (section rooms, dossiers, context updates) kept dropping exactly these commitments — hedging where the plan argues, flattening where the plan distinguishes, and inventing structure where the plan already provides it. **Load this file before touching any section, argument, room, or dossier surface. Every statement below is traceable to the plan or the theorem spine; none is optional.**
 
 ## I. The argument in one breath
 
-Mind is differentiating activity: awareness becomes a world by cutting, comparing, excluding, relating, and retaining distinctions. Differentiation cannot be escaped; the live question is whether a distinction can remain answerable to the ground and activity that produced it, or whether its finished terms present themselves as self-sufficient objects. The essay opens with the subject at the formal limit (§0/1), derives the differentiating anatomy by which an implicated whole becomes a determinate world (§0), recovers zero historically and formally until `0/1` is earned as notation (§1), distinguishes the two complete accountings of polarity (§2), unfolds their mathematical substrate to the arche-topos (§3), performs the psychoid synthesis through Jung, Pauli, Lacan, and Gebser (§4), translates the whole into agentic research on objective internality (§5), and returns as Epi-Logos and the Antikythera mechanism — an attunement instrument earned only at the close (§5→0). The essay is a theory of differentiation and how to handle it; every section answers the same test at a new scale: **what distinction is being made, what activity makes it, what ground does it exclude, and how can the mark return without either severance or fusion?**
+Mind is differentiating activity: awareness becomes a world by cutting, comparing, excluding, relating, and retaining distinctions. Differentiation cannot be escaped; the live question is whether a distinction can remain answerable to the ground and activity that produced it, or whether its finished terms present themselves as self-sufficient objects. The essay opens with the subject at the formal limit (§0/1), derives the differentiating anatomy by which an implicated whole becomes a determinate world (§0), recovers zero historically and formally until `0/1` is earned as notation (§1), distinguishes the two complete accountings of polarity (§2), unfolds their mathematical substrate to the arche-topos (§3), performs the psychoid synthesis through Jung, Pauli, Lacan, and Gebser (§4), discloses World and Life through six products of Objective Internality (§5), and returns as Epi-Logos and the Antikythera mechanism — an attunement instrument earned only at the close (§5→0). The essay is a theory of differentiation and how to handle it; every section answers the same test at a new scale: **what distinction is being made, what activity makes it, what ground does it exclude, and how can the mark return without either severance or fusion?**
+
+
+The whole relation is **pramātṛ / Subjective Immediacy / knower; pramāṇa / Objective Internality / means; prameya / World / known; Life / Mind as their whole**. Mind in the strong idealist sense is Life; the investigable mind-world is the means within that whole. A/C recovers this through the complete crossed-zero recognition sequence and holds its ethical and primitive faces together. The frozen ethic remains by reference, untouched.
+
+The product subject is S, World and Life, with six children: **S0 Central / meaningful continuity; S1 Actuation / living articulation; S2 AIKit / potency; S3 Software Factory / transformation; S4 Workcell / situated existence; S5 Quaternal Logic / Transcendent Relation**. Their whole assigned pairs are L0×L5′, L1×L4′, L2×L3′, L3×L2′, L4×L1′, L5×L0′ respectively. Recover both full lens bodies; a label or one cell is not the paired disclosure. M37–M42 are these six products in order. Model-as-such, preference and relational-Logos material belongs primarily to Actuation; the plan’s explicit displacement table preserves every prior §5 operation.
+
+The immediate complete writing scope is **standalone §5 after Frank’s T26 ratification of one common base**, not before it. The other seven stations retain equal argumentative depth in the refined whole; their prose is not a prerequisite for that commissioned submission section.
 
 ## II. The notation and its floor
 
@@ -69,6 +76,12 @@ Every cross-register move is a refraction of one base under the *pros hen* princ
 
 Knowledge is a performance of trust wearing the mask of certainty: before any proposition is certified, a field of language, memory, method, witness, and institution has been trusted enough for it to count. Dia-ballein-mode knowledge denies this provisionality and displaces its unadmitted uncertainty onto an excluded object (enemy, scapegoat, alien intelligence); sym-ballein-mode knowledge distributes it across revisable anchors — **mono–poly trust**, one living field sustained through many anchors. The technical form of the same fact: preference objectives (Bradley–Terry, RLHF, DPO) are gauge-structured — only differences enter, so the ground level is unlearnable and the apparently neutral zero is **already socially and technically occupied** (datasets, annotators, evaluators, reference policies, institutions). QL/MEF's proposal is to expose that occupation as part of the decision object. The political counter-operation is **divine and concur**: not a third party between poles but the recovery of the `0/1 = 1/0` relation through which every determinate pole is formed — returning institutions to the labour, histories, and conditions they cannot own.
 
+### Indian zero and co-present consciousness run through the whole
+
+The Indian mathematical/metaphysical milieu, Abhinavagupta’s Kashmiri co-internal and transcendental layers, and Kaplan’s multiple offices of zero are the specific history being argued. Gebser’s co-present structures give ordinary/extraordinary and natural/supernatural reports their positive reception **as psychic facts**, while their interpretation and further causal, historical or ontological claims retain distinct warrants. This runs from the opening through the Indian, tattvic, energetic/dynamical and psychoid development into Actuation’s model-specific experiment; it is not a generic formal-limit analogy or a late Gebser aside. The author’s approximately-century interval remains a named source-collation task until its intended zero milestone is identified. No unverified date is a substitute for that relation.
+
+**Both logics remain operational.** Dia’s cut can hold a legitimate polar axis; its cancellation and appropriation are distinct operations. Syn retains the differentiated relation. The returning `/0` meets `1` as `1/0` break; retaining it rather than cancelling or arrogating permits `0/1` recognition within `(0/1)/(1/0)`. Dia/syn is not diachronic/synchronic: succession and co-presence each may retain or lose relation. The Power and Antichrist field preserves its historical, institutional and mythic offices when this difference reaches technology and daily life.
+
 ### 8. Attunement, not representation; return, not closure
 
 Life is not the absolute representation of a structured-yet-fugitive truth (the dia-ballein category error) but attunement and alignment with it. Formally: the system reaches octave return **through, rather than by eliminating, its remainder** — the `9/8` by which the totality-ratio `16/9` falls short of the octave is the live tick that gives the next cycle something to begin from; a totality that equalled its octave would be a dead identity. Topologically: local return retains global displacement (the torus loop lifts to a displaced path on the cover). Psychologically: recognition is not produced, only unoccluded. Institutionally: every achieved `1` must return to the context, exclusions, and living relations from which it arose, or it occupies the zero as monopoly. This is one law in four registers; the surfaces should let it recur as seed, echo, development, payoff — never as slogan.
@@ -83,17 +96,17 @@ Each thread is planted early and paid off late; a surface that touches either en
 
 | Thread | Planted | Paid off |
 |---|---|---|
-| Trika (knower/means/known as compressed triad) | §0/1 · #1 (the sentence "I see x") | §3 · #0 (triangle 180° → square 360°); §5 · #0 (pramātṛ/pramāṇa/prameya as technical grammar) |
+| Trika (knower/means/known as compressed triad) | §0/1 · #1 (the sentence "I see x") | §3 · #0 (triangle 180° → square 360°); §5 entrance / S and #0 Central (whole relation); #1 Actuation (technical standpoint and means) |
 | Immutable gap | §0/1 governing intent ("God of the gaps") | §1 · #4 (division by zero as its mathematical form); §5→0 (retained openness) |
 | Zero as promissory mark | §0/1 · #5→0 | §1 (history + empty set); earned notation at §1 · #5→0 |
 | Bohm implicate/explicate | §0/1 · #5→0 (process bridge) | §0 · #0 (holomovement + tattvas); §2 · #4 (fragmentation); §4 · #0 (psychoid); §4 · #5→0 (dialogue) |
-| Trust wager | §2 · #0 ("knowledge is a performance of trust") | §5 · #3 (hidden zero); §5→0 · #0/#3 (vocation, mono–poly governance) |
+| Trust wager | §2 · #0 ("knowledge is a performance of trust") | §5 · #1 Actuation (hidden zero); §5→0 · #0/#3 (vocation, mono–poly governance) |
 | Ares–Aphrodite–Harmonia / bow and lyre | §2 · #3 (developed once) | §4 · #2 (brief recall beside quaternity/senarius) |
 | Hephaestus's net | §2 · #3 | §5→0 · #3 (sovereign-commons design test) |
 | Apollo/Dionysus | §2 · #4 (safeguard against fusion) | §4 · #4 (integral rereading) |
 | `9/8` remainder | §3 · #1 (Spanda arithmetic) | §3 · #4 landing line; §5→0 (non-closure as discipline) |
 | Crossed zero `Ø` | §1 · #3 (one job: the stroke does not fill the zero) | §4 · #3 (full occlusion→recognition sequence with Lacan) |
-| Vikalpa/saṃkalpa as world-making | §0 · #2 | §5 · #1 (apoha → logits/softmax/argmax); §5 · #5→0 (E-vectors) |
+| Vikalpa/saṃkalpa as world-making | §0 · #2 | §5 · #1 Actuation (apoha → logits/softmax/argmax and E1/E2/E4/E6); #5→0 QL (E3/E5 and whole return) |
 | Antikythera mechanism | Withheld at §0/1 · #0 | §5→0 · #2 (attunement instrument, Offered and bounded) |
 | Agentworld provisional individuation | §0 · #5→0 (technical bridge) | §4 · #1 (X=x crosswalk, Argued, stops before phenomenality) |
 
@@ -109,10 +122,10 @@ The eight stations, their rooms, and what each must do. **These slugs are the on
 | §2 Two Logics of Two | `03-two-logics` | Derive dia-ballein and sym-ballein as the two complete accountings of polarity; carry the difference through dynamics, myth, psychology, technical power |
 | §3 Mathematical Substrate | `04-mathematical-substrate` | The derivational braid from `0/1` to the arche-topos; every load-bearing derivation in complete local form; torus + music as the two native displays |
 | §4 Psychoid Flowering | `05-psychoid-flowering` | Jung, Pauli, Lacan, Gebser each perform one specific move; MEF revealed as refraction; no concordance of famous names |
-| §5 Objective Internality and Agentic Research | `06-objective-internality` | Translate the account into discriminating research vectors (E1–E6) without settling the metaphysics of consciousness |
+| §5 Objective Internality — World and Life in Six Products | `06-objective-internality` | Develop Central, Actuation, AIKit, Software Factory, Workcell and Quaternal Logic through their complete MEF pairs; preserve research vectors inside their owning product operations |
 | §5→0 Epi-Logos and 4:2 Technē | `07-instrument-returns` | Implementable architecture + proportionate speculative horizon; the mechanism finally enters |
 
-Station-internal structure everywhere: `#0` opens the implicate ground; `#1–#4` differentiate material, dynamic, formal, and contextual burdens; `#5→0` returns with a new capacity and releases the next station.
+Station-internal structure uses the raw `#0/#1/#2/#3/#4/#5→0` chassis with locally derived meanings. M37–M42 are the six product subjects; each product is itself internally sixfold. S row, lens, movement address and local position retain different offices. Ground and return frame the movement without imposing one universal glossary on every record.
 
 ## VI. Rules for any agent updating these surfaces
 
