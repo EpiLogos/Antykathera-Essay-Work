@@ -1,0 +1,50 @@
+name: T25 refinement validation
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/t25-refinement-validation.yml'
+      - '.wayfinder/tickets/refine-05-cold-review-and-validation.md'
+
+permissions:
+  contents: read
+
+jobs:
+  real-workspace:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          persist-credentials: false
+      - name: Prepare Python dependencies and exact execution snapshot
+        shell: bash
+        run: |
+          python3 -m pip install PyYAML
+          mkdir -p "$RUNNER_TEMP/t25-validation"
+          git rev-parse HEAD > "$RUNNER_TEMP/t25-validation/HEAD.txt"
+          git archive --format=tar HEAD | gzip > "$RUNNER_TEMP/t25-validation/repository.tar.gz"
+      - name: Recover declared R1 effects and run real workspace tests
+        shell: bash
+        run: |
+          set +e
+          out="$RUNNER_TEMP/t25-validation"
+          python3 tools/okf-workspace.py effects C41 --depth 4 --json > "$out/effects-C41.json" 2> "$out/effects-C41.stderr"
+          effects_status=$?
+          python3 -m unittest discover -s tests -v > "$out/unittest.log" 2>&1
+          test_status=$?
+          printf 'effects_C41=%s\nunittest=%s\n' "$effects_status" "$test_status" > "$out/status.txt"
+          cat "$out/status.txt"
+          tail -n 60 "$out/unittest.log"
+          test "$effects_status" -eq 0 && test "$test_status" -eq 0
+      - name: Retain exact repository and validation output for the current execution
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: t25-real-workspace-${{ github.sha }}
+          path: ${{ runner.temp }}/t25-validation/
+          retention-days: 1
+          if-no-files-found: error
