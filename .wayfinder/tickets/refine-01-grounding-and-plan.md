@@ -1,12 +1,13 @@
 ---
 title: "R1 — Recover A/C and the native theorem; amend the governing plan"
 label: wayfinder:task
-status: open
+status: in_progress
 parent: ../maps/p2-enrichment-handoff.md
-assignee: ""
+assignee: "GPT — T25 refinement execution, 2026-09-10"
 blocked_by: []
 programme: "T25 / GitHub #26"
 created: 2026-09-10
+claimed_from: "main@53202810778122a37973868d873335b82d8d36ca"
 ---
 
 # R1 — Grounding and plan-first amendment
@@ -28,3 +29,7 @@ Refine A/C's surrounding grounding and the owning Objective Internality definiti
 ## Done when
 
 The central plan has one current product-led §5 structure and the accepted whole-level relation; its consequences and preserved old-material obligations are explicit. A/C/A26/C41 grounding is coherently refined from the actual theorem, with precise remaining source access or new authorial choices named. R2 can develop S without reopening settled philosophy. Commit substantive amendments and a read/change receipt; an inventory alone does not complete R1.
+
+## Execution claim — 2026-09-10
+
+Claimed from verified current `main@53202810778122a37973868d873335b82d8d36ca`. Recover the governing inputs and full native field, amend the plan first, then propagate through R1–R6 in dependency order. This claim records work begun, not completion or T26 ratification. Protected authorial writings, the frozen A/C ethic and manuscript remain untouched.
