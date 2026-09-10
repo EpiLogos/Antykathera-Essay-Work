@@ -1,298 +1,76 @@
 ---
 title: P2 Enrichment Handoff
 label: wayfinder:map
-status: "T24 review complete 2026-09-09 with T23 repairs; authorial review and common-base ratification precede manuscript writing"
-
+status: "T24 complete; T25 authorial capstone refinement commissioned; R1 is the execution frontier"
 created: 2026-09-06
+updated: 2026-09-10
 programme_parent: "Return of Zero Writing Programme / GitHub #1"
-completed_through: "T24 — whole-before-writing review; no new authorial ratification implied"
-next_gate: "Frank reviews the repaired 48-movement carry and ratifies one common writing base under WRITING-PROTOCOL"
-branch: "main"
+completed_through: "T24 — whole-before-writing review, including T23 repairs"
+next_gate: "Execute T25 R1–R6; then Frank ratifies the refined whole and one common writing base at T26/#27"
+branch: main
+protocol: ../../docs/PRE-MANUSCRIPT-REFINEMENT-PROTOCOL.md
 ---
 
 # P2 Enrichment Handoff
 
-**Current return, 2026-09-09 — T24:** Frank authorised the whole-before-writing check and an independent audit/repair of T23. The review is complete: all 281 admitted records and the full 137 A/C suite are present, unique and reader-reachable; all 48 movement routes and handoffs are checked, with bounded argument-propagation repairs. See the [T24 receipt](../../working/p2-enrichment/receipts/T24-whole-before-writing-2026-09-09.md) for evidence, final tests and the research/authorial-assignment limits. The work is uncommitted. The next gate is Frank's review and common-base ratification, **not another T23/T24 execution and not automatic manuscript composition**. All dated STOPs and counts below describe earlier states.
+## Current dispatch — 2026-09-10
 
-**T23 return, 2026-09-08 (evening):** Frank authorised T23 after the T20–T21 acceptance. The navigable surface is built: authored reading root, generated rooms index, room breadcrumbs, front-loaded register entry pages, curated-path reasons, and the generated MOC/intents/audit layer (`tools/build-navigation.py`, hook-checked). See the [T23 receipt](../../working/p2-enrichment/receipts/T23-navigable-surface-2026-09-08.md) for what was built, what the audit found, and the open proposals (vault root, Agentworld-brief alias, return routes). **STOP before T24** until Frank reviews the surface and decides the three proposals.
+Frank has completed the authorial discussion following T24 and commissioned the **Objective Internality capstone refinement, seven-record S field, six-product §5, full-field refinement and complete section-flow review**. The detailed execution contract is [Pre-manuscript refinement protocol](../../docs/PRE-MANUSCRIPT-REFINEMENT-PROTOCOL.md). The accepted intention, final Indian/Kashmiri–zero–Gebser correction, and preserved pasted inputs are in its [authorial minute](../../working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md).
 
-**Live execution return, 2026-09-08:** T20 and T21 are developed and accepted on `main`, with T22 per batch. All 25 whole Mythemes and 163 Episteme records have their canonical homes; 127 quilt units, 272 E-programme rows and all 1,333 typed consumer instances are dispositioned. See the [completion receipt](../../working/p2-enrichment/receipts/T20-T21-COMPLETION-2026-09-08.md), [current coverage](../../working/p2-enrichment/T21-e-field-consumer-coverage.md) and [execution state](../../working/p2-enrichment/T20-T21-LIVE-EXECUTION-STATE.json). Completed T17–T19 and the manuscript remain preserved. **STOP before T23/T24 and manuscript composition.** Dated preparation instructions and earlier pending statuses below are historical; do not restart completed waves from them.
+This is the continuation of **T25 / GitHub #26**, followed by the existing **T26 / GitHub #27** authorial ratification gate. It does not restart T18–T24. The commissioned work is substantive refinement of the existing whole; the present planning commit does not claim that the canonical edits or review have already been executed.
 
-## Authorial correction 2026-09-08 — actual T20/T21 programme scope
+**Begin at R1.** Claim its local ticket, recover its bounded opening context from actual current `main`, amend the governing plan first, and proceed into the authorised refinement. Do not return only an inventory or request another general approval of the decisions recorded below. Each batch carries the accepted minute and its own specific intent. A genuinely new structural choice or unavailable protected authorial input is returned precisely; unrelated work continues.
 
-Execute [T20/#21](https://github.com/EpiLogos/Antykathera-Essay-Work/issues/21) and [T21/#22](https://github.com/EpiLogos/Antykathera-Essay-Work/issues/22), with [T22/#23](https://github.com/EpiLogos/Antykathera-Essay-Work/issues/23) after batches. The [implementation map](t20-t21-world-registers.md) now binds these tickets to their original recovery and etymology programmes; it does not replace this handoff.
+## Destination and settled structure
 
-**T20 recovers ALL canonical whole Mythemes from the full quilt/developmental field**, through native 020/#41, the whole-story amplification law, inherited register crosswalk, quilt surface/relation ledgers, final quilt, ratification and T09 dispositions. The inherited 21-record queue is not the scope ceiling. Require exact quilt-section → whole → source/interpretation → canonical carrier → consumer/return coverage, including all material figures, story movements and authorial corrections. Neumann is the top-level archetypal structuration of genesis/world parents/differentiation; geography and temporality are separate organising classes. The universal archetypal operation retains the final quilt's full ouroboros/torus/snake/trickster, circle/sphere pass-off, fourfold, metabolism, opening and return. It is not merely a Neumann-first story batch.
+The governing relation is **pramātṛ / Subjective Immediacy — pramāṇa / Objective Internality — prameya / World**, held as **Life / Mind**. Recover it through the existing complete slashed/crossed-zero theorem and A/C ethic; it is already part of the essay's native argument.
 
-**T21 develops Episteme from/via the Etymology whole-fields**, their exact generated relations, historical branches, sources and reciprocal A/C/Movement returns. Read the Ought-Be Etymology Architecture, Archaeology Tree Seams, A/C/E reciprocity and Relational Form Growth bodies linked in the implementation map. Preserve the six mature fields and their earned cardinalities, the four evidence registers and whole-field + operation + consumer consequence + return on every load-bearing route. Complete #39's transferred etymology/aphorism/section-relation work, section-room↔argument alignment, the full reference-note dispositions and all ratified Episteme records. Sources remain essential; history/atlas migration cannot substitute for the lexical/relational programme.
+The seven commissioned records are **S, S0, S1, S2, S3, S4, S5**. S develops O:I as World and Life. S0–S5 develop Central, Actuation, AIKit, Software Factory, Workcell and Quaternal Logic in the exact authored meanings and complete paired-MEF readings retained with the protocol.
 
-**Acceptance:** semantic coverage of those two programmes plus the live tickets' done-when clauses. Sixfold headings are locally derived from the raw chassis below, never a universal glossary. The earlier September 8 architecture/freshness receipts describe the prior state; affected packets need verification after this correction. The earlier dates and T17-first instructions below remain historical; T17–T19 are complete.
+**§5 has six product subsections, in that order, at M37–M42.** Its technical, model and research material is allocated within those product subjects. The model as such and the model-specific Gebser/relational-Logos development belong primarily to Actuation. §4's existing MEF transition prepares the product field. Earlier sections earn the philosophical, mathematical, psychic, historical and symbolic relations realised there.
 
-> **Current return 2026-09-08:** Frank has ratified both next-register approaches after the folder discussion. Read [T20–T21 world-register execution map](t20-t21-world-registers.md); it contains the Neumann recovery and fresh-session prompt. The September 7 STOP below is historical and satisfied; no next-wave bodies have yet been generated.
+The existing shared suite has **137 records: 36 A + 36 A′ + 64 C + A/C**. Seven S records give the commissioned **144-record shared field**. This is not a count of the whole publication body and not permission to fill a numerical quota with new arguments. A′ remains the conjugate face of its paired A operation. The new S family does not replace the four publication registers.
 
-> **Execution return 2026-09-07:** T17 passed; all twelve root relations plus the spine-index and all 80 Matheme records are developed. Scoped hygiene: 93 bodies, 992 links, no failures; navigation: 145 links with intended targets. See the [execution receipt](../../working/p2-enrichment/receipts/T17-T19-COMPLETION-2026-09-07.md), [current manifest binding](../../working/p2-enrichment/receipts/T19-final-manifest-binding.json), and [36-track backcheck](../../working/p2-enrichment/receipts/T22-root-matheme-depth-backcheck.md). **STOP before Mytheme and Episteme generation.** Their folder structures require Frank's discussion first. The earlier programme flow below is historical wherever it exceeds this boundary; no blanket A-depth restoration or philosophical certification is claimed.
+After refinement and Frank's T26 ratification, the immediate complete prose deliverable is **§5 as a self-sufficient submission text**, also occupying its proper place in the eventual manuscript. The other seven stations receive full plan/flow review and equal argumentative depth; their complete manuscript prose is not a prerequisite for this deliverable.
 
-> **Addendum 2026-09-07:** the conjugate programme completed and was promoted to `submission-package/essay/symbolon/episteme/conjugate/` (36 A′ + A/C root, `record_type: canonical-argument`; process record in `working/conjugate-field/`). Wayfinder ticket 018 (#39 ought-be architecture) is closed — remainder folded to T21/#22. Descartes/Levinas/CSM source houses created; core-theorems SOURCE carries the fuller accounting; C01/A34/A01 amendments and the bounded-64 reharmonisation enacted. Same day, second act: the symbolon root layer is the twelvefold (8-determination spine + mono-poly, `#` complexio-oppositorum, self-identity, subject-logics), the Vāk mapping is straight (#1–#4: parā/paśyantī/madhyamā/vaikharī), the matheme register is restructured (definition/process/quilt/music + dia-syn + mono-poly; the Binary Explication four-file system housed at `taylor-2026-binary-explication`; the core-theorems spine declared the curated extraction set), and the central plan carries the 2026-09-07 amendment. The T17 census registers these root identities and the new house. T17 remains the gate; the census the queue assembles must now include the conjugate bodies.
+## Execution route under T25
 
-## Destination
+| Order | Local execution ticket | Release |
+|---|---|---|
+| R1 | [Grounding and plan-first amendment](../tickets/refine-01-grounding-and-plan.md) | The accepted intention governs the central plan; exact field and source routes are recovered. |
+| R2 | [Seven S records and paired MEF disclosure](../tickets/refine-02-s-field-and-mef.md) | Seven developed product-field records and the exact six-product §5 allocation. |
+| R3 | [Whole-field refinement with register fold-back](../tickets/refine-03-whole-field-and-registers.md) | All A/A′/C/A/C/S records read and refined through their actual Symbolon, Matheme, Mytheme and Episteme relations. |
+| R4 | [Eight-station, forty-eight-movement review](../tickets/refine-04-section-flow.md) | The complete essay develops into and returns from the product field; every displaced operation has a home. |
+| R5 | [Cold semantic review and real validation](../tickets/refine-05-cold-review-and-validation.md) | Independently read content, preserved depth, repaired navigation and honest source/implementation status. |
+| R6 | [T25 return and T26 common-base packet](../tickets/refine-06-ratification-and-writing-packet.md) | One reviewable refined whole, register-envelope table and complete §5 writing packet for Frank. |
 
-Take the **ratified, materialised and P1-propagated** field of *Confronting the Limit: Determination, Subjectivity and Mind as Objective Internality* and develop it into the full Symbolon / Matheme / Mytheme / Episteme publication-body world.
+R3 performs T22-style fold-back throughout; it is not a late link pass. R4 discoveries return to the owning record and governing decision. R5 repairs reopen only their affected reads. R6 does not ratify its own work or begin manuscript composition.
 
-This is the first genuine **P2 enrichment** boundary. Do not restart the census, requilt the argument, or reinterpret P1 as an unfinished foundation wave.
+## Obligations carried through every pass
 
-## Live programme boundary
+The protocol makes the following continuous obligations explicit: the A/C ethic and complete recognition-matheme; both dia and syn as operational writing language; Gebser across the essay; the Indian mathematical–metaphysical milieu, Abhinavagupta/Kashmiri co-internal and transcendental articulation, and Kaplan's multiple zero histories; ordinary and extraordinary experience as reports of psychic facts; energetic and Van Eenwyk/dynamical developments; Levinas and address through the existing A27/A27′ field; philosophy faithfully reflected in technology and code; and the historical/institutional operation of Power, including the deliberately direct Antichrist corpus and its daily-life consequences.
 
-Completed before this handoff:
+Preserve the full original operation, complete whole Mytheme, exact source relation and return route while refining a record. An index, packet, generated room, matching word or existing backlink is a locator, not proof that the relation has been recovered. The prose must permit clear travel between the philosophical/linguistic statement and the matheme's operation.
 
-```text
-T07 / #8
-100-ground ratification accepted
-        ↓
-T08 / #9
-programme identities repointed
-        ↓
-T09 / #10
-A01–A36 Arguments
-+ C01–C64 Concepts
-+ mature Etymology whole-fields
-+ Relational Form Growth
-+ reciprocal A/C/E navigation
-        ↓
-T10–T14 / #11–#15
-48 sovereign Movement burdens propagated
-into all eight section rooms
-        ↓
-T15 / #16
-source/depth debt explicitly dispositioned
-        ↓
-T16 / #17
-source identity / authority / readiness locked
-        ↓
-YOU ARE HERE
-T17 / #18 — P2 build harness and queue assembly
-```
+## Completed work and continuing authorities
 
-The old global `doctor` / `dangling` wiki-hygiene gate was explicitly deferred by the author on 2026-09-06. It remains useful maintenance but is not a programme blocker. Do not reopen T09 merely because that local check was deferred.
+T18–T19 developed the twelve Symbolon relations plus their spine-index and 80 Matheme records. T20–T21 developed 25 whole Mythemes and 163 Episteme records with T22 fold-back. T23 produced the reading surface. T24 checked the whole flow and repaired T23. Those results are inherited, not restarted:
 
-## Canonical authorities to read first
+- [T17–T19 completion](../../working/p2-enrichment/receipts/T17-T19-COMPLETION-2026-09-07.md)
+- [T20–T21 execution map](t20-t21-world-registers.md) and [completion receipt](../../working/p2-enrichment/receipts/T20-T21-COMPLETION-2026-09-08.md)
+- [T23 reading-surface receipt](../../working/p2-enrichment/receipts/T23-navigable-surface-2026-09-08.md)
+- [T24 whole-before-writing receipt](../../working/p2-enrichment/receipts/T24-whole-before-writing-2026-09-09.md)
+- [Existing P1 movement alignment](../../working/final-argument-quilt-2026-08-23/P1-48-MOVEMENT-CANONICAL-PROPAGATION.md), to be amended after plan-first restructuring
+- [WRITING-PROTOCOL](../../WRITING-PROTOCOL.md), [AGENTS](../../AGENTS.md), [central plan](../../the-return-of-zero-central-plan.md), [orientation](../../return-of-zero-orienting-principles.md), and project-local skills
 
-### 1. Writing discipline
+The September 9 snapshot reported 281 admitted records and the 137-record shared suite. Preserve that receipt as a baseline; recompute the affected live census when the S family is developed. The source-house addition at `31c93ab` is also part of the execution base and remains intact.
 
-Before drafting prose, read:
+## Decisions so far
 
-- `writing-guidance-tools/SKILL.md`
-- `writing-guidance-tools/references/WRITING-LAWS.md`
-- `writing-guidance-tools/references/WRITING-RUBRIC.md`
+- 2026-09-09: T24 complete; Frank's authorial review precedes a common writing base.
+- 2026-09-10: Frank accepted the refinement sequence and six-product §5, with the subsequent corrections retained in the authorial minute. The pre-write contemplation for this commissioned refinement is recorded there; batch packets carry its specific intent.
+- 2026-09-10: The active map is reorganised around T25 R1–R6 and T26. Its former T17-first running order and dated STOPs are historical. The complete previous map remains recoverable at [the pre-refinement commit](https://github.com/EpiLogos/Antykathera-Essay-Work/blob/31c93ab04bfa3c39bd514027125973b98cfc6bad/.wayfinder/maps/p2-enrichment-handoff.md); no prior receipt or canonical content was deleted by this map reorganisation.
 
-Then use the register/page skills below. Do not let a helper template replace the actual argument or page operation.
+## Stop boundary
 
-### 2. Ratified semantic field
-
-Read:
-
-- `working/final-argument-quilt-2026-08-23/AUTHORIAL-RATIFICATION-2026-09-06-100-GROUND-RECENSUS.md`
-- `working/final-argument-quilt-2026-08-23/ARGUMENT-CONCEPT-ETYMOLOGY-RECENSUS.md`
-- `working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md`
-- `submission-package/essay/symbolon/episteme/arguments/README.md`
-- `submission-package/essay/symbolon/episteme/concepts/CANONICAL-INDEX.md`
-- `submission-package/essay/symbolon/episteme/etymologies/T09-A-C-E-RECIPROCITY-INDEX.md`
-- `submission-package/essay/symbolon/episteme/etymologies/RELATIONAL-FORM-GROWTH.md`
-
-The semantic census is **36 Arguments + 64 Concepts = 100 indexed A/C grounds**, held with Etymology, Matheme, Mytheme, Episteme, whole Mythemes, QL/theorem provenance, historical Argument 01–21 provenance and global Movement 01–48 traversal.
-
-Historical counts are never build quotas.
-
-### 3. P1 propagation authority
-
-Read:
-
-- `working/final-argument-quilt-2026-08-23/P1-48-MOVEMENT-CANONICAL-PROPAGATION.md`
-- `submission-package/essay/section-rooms/README.md`
-- each room's `P1-CANONICAL-ALIGNMENT.md`
-
-These files are the canonical consumer/routing layer from the 100-ground field into Movements 01–48. Existing Movement prose remains the sovereign linear carrier. Generated `ROOM.md` / `READING.md` files are projections, not new semantic authority.
-
-### 4. Source / Depth Restoration boundary
-
-Read:
-
-- `working/harmonisation-2026-08-18-objective-internality-capstone/SOURCE-AND-AUTHORITY-MAP.md`
-- `working/final-argument-quilt-2026-08-23/T15-SOURCE-DEBT-DISPOSITION-AND-P2-BOUNDARY.md`
-- `working/final-argument-quilt-2026-08-23/T16-P1-SOURCE-LOCK-AND-P2-READINESS.md`
-- `.agents/skills/return-of-zero-source/SKILL.md`
-
-`Depth Restoration: pending` means **enrichment debt**, not absence of the canonical record. Existing `SOURCE.md` readiness is authoritative. Open locator/passage/edition/research debt must remain Open until restored; never turn a named tradition into a citation claim merely because an A/C page consumes it.
-
-## T17 — first active task
-
-Primary issue: **GitHub #18 — T17 P2 build harness: packets, queue assembly, runner**.
-
-Read:
-
-- `.agents/skills/return-of-zero-build/SKILL.md`
-- `.agents/skills/return-of-zero-pages/SKILL.md`
-- `.agents/skills/return-of-zero-links/SKILL.md`
-- register `README.md` files for Symbolon, Matheme, Mytheme and Episteme
-
-T17 must assemble a deterministic enrichment queue from the **ratified + propagated census**, not from current directory contents or a heading scanner.
-
-The build law is:
-
-```text
-ratified identity
-    ↓
-canonical home
-    ↓
-register / record_type / publication office
-    ↓
-source + Argument + Concept + Etymology inputs
-    ↓
-incoming / outgoing / return relations
-    ↓
-raw QL page chassis
-    ↓
-page-specific sixfold semantics
-    ↓
-developed page
-    ↓
-hygiene + census-backcheck
-    ↺
-T22 fold-back if development exposes structural pressure
-```
-
-## The raw page form
-
-Every developed field page begins from the raw chassis:
-
-```markdown
-# <record title>
-
-## #0
-
-## #1
-
-## #2
-
-## #3
-
-## #4
-
-## #5→0
-```
-
-**Never pre-fill the positions with a universal glossary.** `Definition / Operation / Pattern / Context / Quintessence`, or any similar semantic set, may be locally earned but is not the meaning of the six positions.
-
-For each page, derive the sixfold from:
-
-1. its positive proposition / governing image / exact operation;
-2. its register and `record_type`;
-3. its inherited relations and Return obligations;
-4. native QL relational qualities;
-5. the ratified census decision that gives the page its office.
-
-## Queue law
-
-Before dispatch, every candidate-bearing item must have exactly one of:
-
-- canonical page identity + home;
-- merge into a named surviving page;
-- subordinate/reference/provenance carrier;
-- non-page carrier with reason;
-- explicit redundancy disposition.
-
-Mandatory reconciliation inputs include:
-
-- A01–A36;
-- C01–C64;
-- all Etymology whole-fields;
-- the recovered `concepts/reference-notes/` shelf and its T09 dispositions;
-- root Symbolon records;
-- Matheme exact-operation/formal-neighbour records;
-- Mytheme whole-image records and plates/media where earned;
-- Episteme histories, dossiers, lenses, maps/paths, figures, dialogues and source-facing records where ratified;
-- existing roots/paths/depth carriers whose identity predates T09 but whose office is retained.
-
-Do not assume every A or C needs to become an additional second page in another register. A canonical A/C page already exists; enrichment should deepen its appropriate publication form and build the wider radial field without duplicating operations merely to satisfy a queue.
-
-## Register boundaries
-
-- **Symbolon root:** whole-bearing relation / source-return identity.
-- **Matheme:** exact operation / formal development / formal neighbour, with warrant boundaries explicit.
-- **Mytheme:** whole lived image, myth, poem or cultural scene; never atomise a relational myth into illustrative fragments merely because several Arguments consume it.
-- **Episteme:** instituted knowledge: concepts, arguments, source-facing accounts, histories, etymologies, dossiers, lenses, maps, figures, dialogues and other ratified epistemic records.
-
-Matheme does not prove Mytheme; Mytheme does not prove Matheme; Episteme does not inherit source authority merely by summarising a source. C61 Symbolon Disclosure Architecture routes the registers; A18 remains the substantive Primordial Symbolon Argument.
-
-## Locked philosophical distinctions P2 must preserve
-
-- Subject is not one more object, inner instrument, profile, model or context bundle.
-- Formal Limit and Immutable Gap are related but distinct.
-- A10 = advent of zero as operative mathematical sign.
-- A36 = the **same exact sign** becoming living Symbol again without ceasing to be mathematical sign.
-- A11 `0 = One, 1 = All` precedes Mono/Poly and Dia/Syn.
-- A18 exact traversal: `−/−, 0/1, ?/!, −/+, X/x, AM/IS, ∞/dx, 1/0`.
-- QL is wider than the eight-determination traversal.
-- `N / N′ → N+N′` is relational generation; it is not concatenation/arithmetic and is distinct from `N → N×N` distributive recursion.
-- world ≠ world-model.
-- modelled Other ≠ Other.
-- Bimba ≠ Pratibimba; nested local Bimba offices are valid without erasing the ultimate distinction.
-- artificial phenomenality remains Open.
-- C39 MEF is a framework, not a canonical Argument.
-- C40 Model Internality / Judgment Field is broader than J-space; J-space is subordinate research material.
-- C61 is disclosure/routing architecture, not a second Symbolon theorem.
-- Deferential Intelligence = **model-revising encounter**, not passive obedience or uncertainty theatre.
-- Operational Parity means a philosophical/formal distinction used to organise software must have inspectable operational consequences.
-- six O:I products in §5 are transverse responsibility centres, not six replacement movements and not proof of a sixfold universe.
-- **THE MIRROR THAT MOVES FIRST** remains the exact image.
-
-## Enrichment sequence after T17
-
-```text
-T17 / #18 — harness + census-true queue
-        ↓
-T18 / #19 — root Symbolon pages
-T19 / #20 — Matheme pages + diagrams
-T20 / #21 — Mytheme pages + plates
-T21 / #22 — Episteme pages + figures
-        ↕
-T22 / #23 — recursive fold-back per batch
-        ↓
-T23 / #24 — authored navigable surface / MOC / paths
-        ↓
-T24 / #25 — P3 census + flow audit before composition
-```
-
-T22 is not a late cleanup. After each register batch, development may expose missing relations, duplicated offices or genuine structural pressure. State the pressure → test it against ratified canon → update plan/decision authority first where structural → then update affected records. **Never create a new canonical record by stealth because a draft needed somewhere to put an idea.**
-
-## Local execution / mechanical preflight
-
-The user has authorised P2 to begin without making global link hygiene a blocking gate. On a local checkout, these remain useful and can be run opportunistically or before first bulk dispatch:
-
-```bash
-python3 tools/build-section-rooms.py --project-root . --check
-python3 tools/build-source-projections.py --project-root . --check
-python3 tools/okf-workspace.py --project-root . doctor --json
-python3 tools/okf-workspace.py --project-root . dangling
-```
-
-`verify-source-bank.py` is stale ticket text: **no such current tool exists**. Do not recreate it merely to satisfy the obsolete wording.
-
-For T17 intake, use the current build skill helper with the actual local repository root rather than blindly copying its example absolute path:
-
-```bash
-python3 .agents/skills/return-of-zero-build/workflow.py intake \
-  --project-root <LOCAL_REPO_ROOT> \
-  --output intake.json
-```
-
-Then reconcile `intake.json` against the ratified/propagated census **before dispatch**. The helper is a discovery aid, never completeness proof.
-
-## Handoff acceptance
-
-A local model starting here should not need to ask whether the essay has been ratified, whether A/C identities are canonical, whether section propagation happened, or whether Open source debt blocks enrichment. Those questions are settled above.
-
-Its first substantive job is:
-
-> **Execute T17/#18: construct and prove the census-true P2 enrichment queue and run one ratified pilot element end-to-end, then proceed through T18–T23 with T22 fold-back active.**
-
-Do not enter manuscript composition merely because enrichment is underway. T24 remains the developed-world audit before the later composition phase.
+Refinement is authorised. The completed refined content, section flow, envelope table and exact common writing base still require **Frank's T26/#27 ratification**. Do not confuse acceptance of this execution protocol with acceptance of work not yet performed. Preserve all protected authorial writings and the frozen A/C ethic. Do not edit private Control or product repositories in this essay lane.

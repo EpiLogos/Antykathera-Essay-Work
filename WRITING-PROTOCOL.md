@@ -10,6 +10,16 @@ publication: repository-governance
 
 # The Return of Zero — Writing, Review, and Publication Protocol
 
+## Current execution addendum — 2026-09-10
+
+T24 is complete. Frank has authorised the post-T24 capstone refinement recorded in the [Pre-manuscript refinement protocol](docs/PRE-MANUSCRIPT-REFINEMENT-PROTOCOL.md), version `2026-09-10.1`, and its [authorial minute](working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md). Read that supplement before executing the present pre-writing wave. The [existing P2 handoff map](.wayfinder/maps/p2-enrichment-handoff.md) now dispatches R1–R6 under **T25/#26**; **T26/#27** remains Frank's ratification of the resulting whole and one exact common writing base.
+
+The commissioned sequence is A/C and native theorem grounding → seven S records and six-product §5 → full A/A′/C/S and whole-register refinement → all eight stations/48 movements → cold review and real validation → authorial return. The minute records the accepted intent for these refinement batches under §9; each batch carries its specific purpose and precise remaining debts. Genuinely new authorial decisions return explicitly rather than reopening the settled commission.
+
+The accepted structural decisions enter the central plan before granular propagation. The currently materialised 137-record shared field is preserved and developed toward the commissioned 144 through S and S0–S5; no count is advanced merely by writing a plan. The complete frozen A/C ethic and protected authorial originals remain untouched.
+
+After T26, the immediate complete prose deliverable is **§5 as a standalone submission text and the same governed section of the eventual manuscript**. Its writing receipt records that scope. Complete prose of the other seven stations is not a prerequisite; their full reviewed architecture and equal argumentative depth remain binding. The full-manuscript and public-release gates below still apply to their respective later deliverables. The dated August state in §18 is historical, not the current execution frontier.
+
 ## 1. Purpose and authority
 
 This protocol governs the passage from the ratified development canon to the full written essay and its publishable Obsidian form. It separates preliminary preparation from prose production so that different writing models can work from the same ratified base under the same execution conditions.
