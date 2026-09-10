@@ -24,6 +24,8 @@ tags:
 ---
 # The Symbolon in Modern Media
 
+[Source index](../../../../README.md) · [Reading entrance](../../../../../../../README.md) · [48 movements](../../../../../../../section-rooms/README.md)
+
 ## Provenance identity
 
 Raw conversation of 8 July 2026 between Frank and ChatGPT on the classical symbolon — the broken token whose halves authenticate across separation — and its modern mutations in film and media, with the QL notation carried through.

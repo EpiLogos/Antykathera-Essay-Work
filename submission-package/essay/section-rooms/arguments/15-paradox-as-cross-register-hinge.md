@@ -3,6 +3,7 @@ title: "Paradox as Cross-Register Hinge"
 aliases:
   - "Paradox as Cross-Register Hinge"
   - "Paradox at the Formal Limit"
+source_id: 15-paradox-as-cross-register-hinge
 node_type: claim
 page_type: argument-map
 argument_level: core
@@ -44,8 +45,12 @@ tags:
   - argument-map/paradox
   - argument-map/mathematical-artistic
   - argument-map/warrant
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Paradox as Cross-Register Hinge
+
+**Historical carrier.** The developed successor is [C64](../../symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claim
 

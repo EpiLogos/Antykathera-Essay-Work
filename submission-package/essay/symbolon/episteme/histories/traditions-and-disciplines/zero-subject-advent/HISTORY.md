@@ -1,5 +1,6 @@
 ---
 title: "Zero, Subject, and the Advent of Integral Logic"
+source_id: zero-subject-advent-history
 page_type: historical-register-route
 ownership: protected-learning-surface
 status: living

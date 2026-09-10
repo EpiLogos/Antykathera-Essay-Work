@@ -1,5 +1,6 @@
 ---
 title: "Symbol, Account, and Trust — Marks That Circulate"
+source_id: symbol-account-and-trust-history
 page_type: etymological-cluster
 ownership: protected-learning-surface
 status: living

@@ -14,4 +14,4 @@ Each record declares participants, date, the raw transcript locator, a contribut
 
 The register keeps this distinct from Sources. Sources are warrant machinery: what may be cited, quoted, and attributed. Dialogues are formation records: what the work became through encounter. Where a dialogue contributes an idea that enters the argument, the accepted formulation is argued in its canonical node and sourced there.
 
-Return to [[../README|Episteme]].
+Return to [Episteme](../README.md).

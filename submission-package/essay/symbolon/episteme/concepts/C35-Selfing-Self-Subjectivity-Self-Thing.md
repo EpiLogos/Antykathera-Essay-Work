@@ -1,4 +1,5 @@
 ---
+record_id: C35
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from Taylor's Subject/self distinctions and Symbolon Dynamics; Jungian Self and technical self-models remain source-specific"

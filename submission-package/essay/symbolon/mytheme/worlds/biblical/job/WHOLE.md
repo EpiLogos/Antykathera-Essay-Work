@@ -101,7 +101,7 @@ The adjacent [*Aion* source](../../../../episteme/sources/psychology/jung/jung-1
 
 ## #5→0
 
-The shared archetypal relation is differentiation through an encounter which changes the authority of the governing image. Job’s sustained address and the friends’ subsequent dependence on his intercession return that operation to the [Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-hero-centroversion), through the existing A19–A21 relation. The biblical telling, Jung’s reception and Taylor’s appointed operation remain distinguishable. Uz names the narrated land without fixing a modern location; the Hebrew work, the selected KJV witness and Jung’s later reception have distinct textual times.
+The shared archetypal relation is differentiation through an encounter which changes the authority of the governing image. Job’s sustained address and the friends’ subsequent dependence on his intercession return that operation to the [Neumann whole](../../../archetypal-ground/neumann-images/WHOLE.md#neumann-hero-centroversion), through the existing A19–A21 relation. The biblical telling, Jung’s reception and Taylor’s appointed operation remain distinguishable. Uz names the narrated land without fixing a modern location; the Hebrew work, the selected KJV witness and Jung’s later reception have distinct textual times.
 
 <a id="job-protected-account-return"></a>
 

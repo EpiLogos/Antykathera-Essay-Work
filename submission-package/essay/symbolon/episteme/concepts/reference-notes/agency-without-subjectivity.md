@@ -3,6 +3,7 @@ title: "Agency Without Subjectivity"
 aliases:
   - "Agency Without Subjectivity"
   - "agency"
+source_id: agency-without-subjectivity
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

@@ -1,5 +1,6 @@
 ---
 title: "Fides, Topos, Logos, Nomos, Natio, Credere — Trust Becoming a World"
+source_id: trust-place-logos-nomos-natio-credere-history
 page_type: etymological-cluster
 ownership: protected-learning-surface
 status: living
@@ -56,7 +57,7 @@ That is the `#0` office here: not an abstract virtue added after social organisa
 
 Greek *topos* gives place, region, site and position. At `#1` the open trust-field is emplaced. A relation happens somewhere; a boundary, route, settlement, jurisdiction, homeland, parish, polis, estate, kingdom or state makes a particular `here` consequential.
 
-Topos therefore carries the first historical condition of political legibility. A line can mark a place without exhausting the lived field it crosses. The relation to [[../encounter-region-name-count/HISTORY|Encounter, Region, Countenance, and Count]] is direct: region may be faced, ruled, named, counted and inhabited, while the local line remains one determination within the prior encounter-field.
+Topos therefore carries the first historical condition of political legibility. A line can mark a place without exhausting the lived field it crosses. The relation to [Encounter, Region, Countenance, and Count](../encounter-region-name-count/HISTORY.md) is direct: region may be faced, ruled, named, counted and inhabited, while the local line remains one determination within the prior encounter-field.
 
 ## #2 — *logos*: articulation, account and legibility
 
@@ -78,7 +79,7 @@ The compressed operation is:
 
 > **Nomos distributes and establishes what counts.**
 
-This is the exact join with [[../arbitration-hybris-regard-anamnesis/HISTORY|Arbitration, Hybris, Regard, and Anamnesis]]. Centralisation of law is also centralisation of arbitration: an expanding authority increasingly decides which local names, customs, languages, titles, histories and rights are recognised by the common field.
+This is the exact join with [Arbitration, Hybris, Regard, and Anamnesis](../arbitration-hybris-regard-anamnesis/HISTORY.md). Centralisation of law is also centralisation of arbitration: an expanding authority increasingly decides which local names, customs, languages, titles, histories and rights are recognised by the common field.
 
 ## #4 — *natio / nasci*: achieved history narrated as birth
 
@@ -165,7 +166,7 @@ The technical account can record the obligation; a personed trust relation gives
 
 ## Historical routes
 
-[[../../histories/places-and-peoples/language-law-nation-centralisation/HISTORY|Language, Law, Nation, and Centralisation]] carries the trunk and branches generated around this unit: Occitan/French centralisation, Jewish and Kabbalistic centres in Languedoc, Renaissance patronage and transmission, Italian and German language-national formations, Anglo-Celtic jurisdiction, Hebrew revival and Zionism, Abrahamic Word/Law/people geometries, epistemic exclusion, post-war institutional continuity and computational classification.
+[Language, Law, Nation, and Centralisation](../../histories/places-and-peoples/language-law-nation-centralisation/HISTORY.md) carries the trunk and branches generated around this unit: Occitan/French centralisation, Jewish and Kabbalistic centres in Languedoc, Renaissance patronage and transmission, Italian and German language-national formations, Anglo-Celtic jurisdiction, Hebrew revival and Zionism, Abrahamic Word/Law/people geometries, epistemic exclusion, post-war institutional continuity and computational classification.
 
 The sixfold remains available to all of those histories without making any branch an instance mechanically generated from the table. Each branch supplies its own actors, sources, laws, institutions and dates; the etymological unit supplies the whole meaning-field through which their relations can be compared and returned.
 

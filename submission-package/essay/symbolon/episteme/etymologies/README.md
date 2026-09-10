@@ -1,5 +1,6 @@
 ---
 title: "Etymologies — Meaning Fields, Word-Histories, and Re-entries"
+source_id: etymologies-readme
 page_type: etymological-learning-hub
 ownership: protected-learning-surface
 status: living
@@ -98,7 +99,7 @@ The field is cultivated as a tree because the morphology preserves several kinds
 
 The form-growth grammar adds a second, compatible sense of the tree: **relations themselves generate branches**. Conjugate roots can produce a processual stem; a stem can flower into semantic fields; an achieved whole can become fruit/seed and enter a higher relation. This generative morphology supplements the historical root→trunk→branch→leaf morphology rather than replacing it.
 
-The full operational protocol and current historical/mythic branch ledger live in [[working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS|Etymological Archaeology Tree Seams]].
+The full operational protocol and current historical/mythic branch ledger live in [Etymological Archaeology Tree Seams](../../../../../working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md).
 
 ## How an entry is built
 

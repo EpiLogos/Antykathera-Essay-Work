@@ -242,4 +242,4 @@ Parent tasks: bind the current Job packet; repair declared consumers and recipro
 
 ## Whole consumer bound — 2026-09-08
 
-The [complete Job whole](submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md) now consumes the selected biblical telling, keeping the later Jung reception and Taylor’s authored operation distinct. The source-acquisition statements above describe the earlier phase; the intended consumer has now materialised. Biblical quotation status and translation/critical-witness debts are unchanged.
+The [complete Job whole](../../../../../mytheme/worlds/biblical/job/WHOLE.md) now consumes the selected biblical telling, keeping the later Jung reception and Taylor’s authored operation distinct. The source-acquisition statements above describe the earlier phase; the intended consumer has now materialised. Biblical quotation status and translation/critical-witness debts are unchanged.

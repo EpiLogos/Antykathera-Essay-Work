@@ -114,7 +114,7 @@ The [Symbol / Account / Trust whole field](../../../../episteme/etymologies/symb
 
 ## #5→0 — Return without inheriting the hidden throne
 
-The shared [Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-hero-centroversion) **grounds** the existing A18/A26 relation through differentiation from a governing power and the changed centre’s capacity to return. The Village makes the unresolved consequence political: release must reach the office of measure as well as its current occupant. This archetypal relation retains the series’ own production world, transmission dates and narrated sequence.
+The shared [Neumann whole](../../../archetypal-ground/neumann-images/WHOLE.md#neumann-hero-centroversion) **grounds** the existing A18/A26 relation through differentiation from a governing power and the changed centre’s capacity to return. The Village makes the unresolved consequence political: release must reach the office of measure as well as its current occupant. This archetypal relation retains the series’ own production world, transmission dates and narrated sequence.
 
 <a id="prisoner-return-without-throne"></a>
 

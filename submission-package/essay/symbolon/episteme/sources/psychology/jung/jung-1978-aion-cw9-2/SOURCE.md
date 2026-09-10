@@ -84,7 +84,7 @@ Within the zero–subject historical braid, *Aion* supports the Jungian psychic 
 ## Consumption
 
 - **Stations:** §3/#0 and §4/#0–#3.
-- **Arguments:** [[Core Theorem Bridge]]; [[Arche-Topos as Differential Field]]; [[Paradox as Cross-Register Hinge]].
+- **Arguments:** [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]].
 - **Source relation:** contextualises and qualifies; the QL matheme remains in-house derivation.
 
 ## Quote and excerpt ledger

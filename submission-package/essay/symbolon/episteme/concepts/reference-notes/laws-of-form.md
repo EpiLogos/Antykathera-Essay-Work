@@ -3,6 +3,7 @@ title: "Laws of Form"
 aliases:
   - "Laws of Form"
   - "Spencer-Brown — Laws of Form"
+source_id: laws-of-form
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

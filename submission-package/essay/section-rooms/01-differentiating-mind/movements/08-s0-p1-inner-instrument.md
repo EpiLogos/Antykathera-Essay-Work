@@ -1,5 +1,6 @@
 ---
 title: "§0 · #1 — The Inner Instrument"
+source_id: 08-s0-p1-inner-instrument
 node_type: section
 page_type: section-movement
 station: "§0"
@@ -10,6 +11,10 @@ evidence_status: tradition-grounded
 tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, station/s0, position/p1]
 ---
 # §0 · #1 — The Inner Instrument
+
+<!-- reader-navigation -->
+Movement 08 of 48 · [This room](../ROOM.md) · [← Previous](07-s0-p0-awareness-bends-display.md) · [Next →](09-s0-p2-vikalpa-samkalpa.md)
+<!-- /reader-navigation -->
 
 ## Claim
 *Buddhi*, *ahaṃkāra*, and *manas* are determinate internal functions—judgment, appropriation, and coordination—available to reflection as contents and operations. The subject remains the pole under which these functions and their products appear.

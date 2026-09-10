@@ -103,7 +103,8 @@ class OkfWorkspaceTests(unittest.TestCase):
         )
         self.assertEqual(
             counts["argument"],
-            len(list((PROJECT / "submission-package/essay/section-rooms/arguments").glob("*.md"))),
+            len(list((PROJECT / "submission-package/essay/symbolon/episteme/arguments").glob("A[0-9][0-9]-*.md")))
+            + len(list((PROJECT / "submission-package/essay/symbolon/episteme/conjugate").glob("A[0-9][0-9]-prime-*.md"))),
         )
         self.assertGreaterEqual(counts["concept"], 9)
         self.assertNotIn("source-record", counts)
@@ -122,7 +123,7 @@ class OkfWorkspaceTests(unittest.TestCase):
         self.assertNotIn("source-study", counts)
         self.assertNotIn("source-migration-witness", counts)
         # Active room surfaces only; archived room scaffolds are deliberately excluded.
-        self.assertEqual(counts["room-artifact"], 9)
+        self.assertEqual(counts["room-artifact"], 17)  # 8 rooms, 8 alignments, root
         self.assertEqual(counts["room-reading-path"], 2)
         self.assertGreaterEqual(counts["governing-document"], 2)
         self.assertTrue(result["authority_classes"])
@@ -176,7 +177,7 @@ class OkfWorkspaceTests(unittest.TestCase):
         result = self.run_tool("trace", "02-objective-internality")
         self.assertEqual(result["root"]["claim_status"], "Argued")
         self.assertIn(
-            "submission-package/essay/section-rooms/arguments/01-immutable-gap-and-meta-sign.md",
+            "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
             {node["path"] for node in result["dependencies"]},
         )
         self.assertIn(
@@ -196,7 +197,7 @@ class OkfWorkspaceTests(unittest.TestCase):
             {node["path"] for node in result["consumers"]["sections"]},
         )
         self.assertIn(
-            "submission-package/essay/section-rooms/arguments/18-trust-faith-formal-limit.md",
+            "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
             {node["path"] for node in result["consumers"]["arguments"]},
         )
         self.assertIn(
@@ -212,7 +213,7 @@ class OkfWorkspaceTests(unittest.TestCase):
         self.assertEqual(result["previous"]["id"], "38-s5-p1-apoha-softmax")
         self.assertEqual(result["next"]["id"], "40-s5-p3-preference-hidden-zero")
         self.assertIn("j-space", {node["id"] for node in result["concepts"]})
-        self.assertIn("02-objective-internality", {node["id"] for node in result["arguments"]})
+        self.assertIn("A14-Computational-Process-Ontology", {node["id"] for node in result["arguments"]})
         self.assertIn(
             "lecun-et-al-2006-energy-based-learning",
             {node["id"] for node in result["sources"]},
@@ -227,10 +228,11 @@ class OkfWorkspaceTests(unittest.TestCase):
             "context", "01-s01-p0-question-before-mechanism", "--depth", "2"
         )
         self.assertTrue(result["governing_documents"])
-        self.assertLess(len(result["arguments"]), 12)
-        self.assertLess(len(result["concepts"]), 10)
+        # A room's authored P1 route reaches the canonical A/C field (A01–A36), never the whole vault.
+        self.assertLess(len(result["arguments"]), 40)
+        self.assertLess(len(result["concepts"]), 70)
         self.assertIn(
-            "01-immutable-gap-and-meta-sign",
+            "A03-Immutable-Gap-Formal-Limit",
             {node["id"] for node in result["arguments"]},
         )
 
@@ -340,9 +342,9 @@ class OkfWorkspaceTests(unittest.TestCase):
             "submission-package/essay/section-rooms/arguments/17-toroidal-circulation-arche-topos.md",
             thin_paths,
         )
-        # The only unresolved links remaining are the documented, Frank-gated
-        # dangles inside the authorial core-theorems text; every agent-owned
-        # surface resolves.
+        # Two declared open destinations: protected authorial map title and
+        # the Descartes house's explicitly unmaterialised Dreamcode seed.
+        # Neither licenses inventing a canonical source or concept.
         unresolved_paths = {
             debt["path"]
             for debt in result["debts"]
@@ -352,7 +354,8 @@ class OkfWorkspaceTests(unittest.TestCase):
             unresolved_paths,
             {
                 "submission-package/essay/symbolon/episteme/sources/"
-                "internal-corpus/taylor/taylor-2026-core-theorems-pithy/AUTHORIAL-TEXT.md"
+                "internal-corpus/taylor/taylor-2026-core-theorems-pithy/AUTHORIAL-TEXT.md",
+                "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/descartes/descartes-1641-meditations/SOURCE.md",
             },
         )
         self.assertTrue(all("authority" in debt for debt in result["debts"]))
@@ -366,11 +369,12 @@ class OkfWorkspaceTests(unittest.TestCase):
 
         assessments = {row["path"]: row for row in result["quality_assessments"]}
         deferential = assessments[
-            "submission-package/essay/section-rooms/arguments/08-deferential-intelligence.md"
+            "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md"
         ]
         self.assertEqual(deferential["artifact_type"], "argument")
         self.assertTrue(all(deferential["dimensions"].values()))
-        self.assertTrue(deferential["dependencies"])
+        # A31 declares its grounds in prose rather than a depends_on array.
+        self.assertIn("canonical-argument", deferential["authority"])
         self.assertTrue(deferential["consumers"])
         self.assertTrue(deferential["sources"])
 

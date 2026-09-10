@@ -4,6 +4,7 @@ aliases:
   - "Compassion as Sensitivity to Origins"
   - "compassion-sensitivity-origins"
   - "loving sensitivity to origins"
+source_id: compassion-as-sensitivity-to-origins
 node_type: "concept"
 register: episteme
 page_type: "concept"
@@ -35,7 +36,7 @@ Provenance is not compassion, but it is compassion's minimum technical body. A h
 
 ## In the argument
 
-The concept lands at [[43-s50-p0-theory-vocation-compassion|§5→0 · #0]], where theory becomes vocation: every agent fabricates the world in which its next act can matter, so the theory demands a practice capable of returning each construction to its conditions. It supplies the vocational criterion for [[11-mono-poly-whole-and-many|mono–poly governance]] at §5→0 · #3 — every determination remains answerable to the community, history, exclusion, and need from which it arose — and gives [[06-computational-vimarsa-ahi|Artificial Hybrid Intelligence]] and [[08-deferential-intelligence|Deferential Intelligence]] their manner: the return of Logos upon its own conditions, performed without appropriation. *(Argued: the definition and its operational content are the essay's own; [[taylor-2026-revision-notes-trust|Taylor — Revision Notes on Trust and F-Blocks (2026)]] is the internal source of record.)*
+The concept lands at [[43-s50-p0-theory-vocation-compassion|§5→0 · #0]], where theory becomes vocation: every agent fabricates the world in which its next act can matter, so the theory demands a practice capable of returning each construction to its conditions. It supplies the vocational criterion for [[11-mono-poly-whole-and-many|mono–poly governance]] at §5→0 · #3 — every determination remains answerable to the community, history, exclusion, and need from which it arose — and gives [[06-computational-vimarsa-ahi|Artificial Hybrid Intelligence]] and [[08-deferential-intelligence|Deferential Intelligence]] their manner: the return of Logos upon its own conditions, performed without appropriation. *(Argued: the definition and its operational content are the essay's own; [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE|Taylor — Revision Notes on Trust and F-Blocks (2026)]] is the internal source of record.)*
 
 Related: [[43-s50-p0-theory-vocation-compassion|§5→0 · #0 — From Theory to Vocation]] · [[18-trust-faith-formal-limit|Trust]] · [[08-deferential-intelligence|Deferential Intelligence]] · [[06-computational-vimarsa-ahi|Computational Vimarśa and AHI]]
 

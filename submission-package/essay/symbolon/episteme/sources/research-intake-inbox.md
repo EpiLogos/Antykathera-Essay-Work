@@ -2,6 +2,7 @@
 title: "Research Intake Inbox — Return of Zero"
 aliases:
   - "Source Dropbox"
+source_id: research-intake-inbox
 page_type: research-intake-inbox
 status: live
 tags:
@@ -10,6 +11,8 @@ tags:
 ---
 
 # Research Intake Inbox — Return of Zero
+
+[Reading entrance](../../../README.md) · [48 movements](../../../section-rooms/README.md)
 
 Paste today's books, links, scans, citations, quotations, and hunches here without having to solve the architecture first. Nothing in this inbox is citation-ready. During processing, each item enters its canonical `SOURCE.md`, becomes an intake-queue question, or moves to an argument/concept note.
 

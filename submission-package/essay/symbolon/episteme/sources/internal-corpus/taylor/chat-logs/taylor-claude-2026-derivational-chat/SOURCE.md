@@ -34,6 +34,8 @@ tags:
 - source-bank/internal-corpus
 - source-bank/dialogue-record
 title: Taylor and Claude — Derivational Chat Record (2026)
+aliases:
+  - "claude-fable-full-chat-end-12-7-2026"
 source_id: taylor-claude-2026-derivational-chat
 primary_domain: internal-corpus
 node_type: source-house
@@ -42,6 +44,8 @@ schema_version: 1
 passage_surface: '#passages'
 ---
 # Taylor and Claude — Derivational Chat Record (2026)
+
+[Source index](../../../../README.md) · [Reading entrance](../../../../../../../README.md) · [48 movements](../../../../../../../section-rooms/README.md)
 
 ## Provenance identity
 
@@ -55,7 +59,7 @@ The chat functions as derivational memory: it preserves the chain by which zero,
 
 ## Passage index
 
-[[Source Extraction — Fable Chat, 12 July 2026]] indexes seven line-located clusters. The record preserves authorial formulations—especially “circumscription without circumstance,” the `(0/1)` / `(+1)/(−1)` distinction, triadic relation to ground, and theory becoming agentic praxis—and flags every assistant-provided historical or technical statement as a verification lead rather than an external authority.
+[Source Extraction — Fable Chat, 12 July 2026](../../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-fable-chat.md) indexes seven line-located clusters. The record preserves authorial formulations—especially “circumscription without circumstance,” the `(0/1)` / `(+1)/(−1)` distinction, triadic relation to ground, and theory becoming agentic praxis—and flags every assistant-provided historical or technical statement as a verification lead rather than an external authority.
 
 The extraction routes each passage to its exact §-station and argument. It must be read before importing any chat formulation into prose; direct quotations in that ledger are quotations **of the conversation**, never quotations of the named public works.
 

@@ -19,7 +19,7 @@ Severance is achieved difference misread as the loss of constitutive relation. A
 
 ## #1
 
-[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems]], I and XI, **grounds** the distinction between a living signed polarity and its collapsed results. `(-1)/(+1)` keeps opposed values around a shared axis. Addition gives `(-1)+(+1)=0`; one orientation of subtraction gives `(-1)-(+1)=-2`, the inverse gives `(+1)-(-1)=+2`. These remain distinct arithmetic operations.
+[[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems]], I and XI, **grounds** the distinction between a living signed polarity and its collapsed results. `(-1)/(+1)` keeps opposed values around a shared axis. Addition gives `(-1)+(+1)=0`; one orientation of subtraction gives `(-1)-(+1)=-2`, the inverse gives `(+1)-(-1)=+2`. These remain distinct arithmetic operations.
 
 [A13 — Dia / Syn](../arguments/A13-Two-Logics-of-Two-Dia-Syn.md) **extends** the authorial reading: cancelling or appropriating the span can be mistaken for completing the relation. The problem is not that the sums are false. It is that a collapsed result is treated as all there was to know about the field and the operation which produced it.
 
@@ -37,13 +37,13 @@ The core's divide-and-conquer example makes the productive cut exact. Dividing a
 
 ## #4
 
-The [[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT#10. Ares and Aphrodite: divide/unite become felt love/war logics|direct division/union passage]] **sources** the ethical distinction without making division inherently hostile. Refusal, defence, truth-telling and the capacity to say no require real differentiation. Relation cannot be used to compel continued proximity or agreement.
+The [[quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT#10. Ares and Aphrodite: divide/unite become felt love/war logics|direct division/union passage]] **sources** the ethical distinction without making division inherently hostile. Refusal, defence, truth-telling and the capacity to say no require real differentiation. Relation cannot be used to compel continued proximity or agreement.
 
 Severance begins when the other's removal is imagined to complete the whole, or when an autonomous position denies the conditions which sustain it. [C24 — Fusion](C24-Fusion.md) **qualifies** the opposite failure: repair cannot require differences to vanish. The retained source relation permits legitimate separation while keeping its history, obligations and consequences intelligible.
 
 ## #5→0
 
-[[submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD|Homologia / Analogia]] **grounds** the register3 return through proportion and relation among differentiated terms. Reconnection states what remains shared and what remains distinct. It does not replace a real conflict with a vague claim that everything is one.
+[[symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD|Homologia / Analogia]] **grounds** the register3 return through proportion and relation among differentiated terms. Reconnection states what remains shared and what remains distinct. It does not replace a real conflict with a vague claim that everything is one.
 
 C23 **returns-to** C50 and [C21 — Living Symbol](C21-Living-Symbol-Idol.md). A determination keeps its local force while its constitutive relation becomes recoverable. The cut can then serve inquiry, autonomy or action without claiming that it created an independently grounded world.
 

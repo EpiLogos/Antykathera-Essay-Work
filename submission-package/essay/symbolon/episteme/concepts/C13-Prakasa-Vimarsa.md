@@ -19,7 +19,7 @@ In the Śaiva source field, prakāśa names luminous appearing and vimarśa the 
 
 ## #1
 
-[[submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE|Dyczkowski — The Doctrine of Vibration]] **sources** the account in the locally held pp.60–81. Light figures the manifestation of the knowable; vibration figures its active, self-regenerative movement. At pp.63–64, subject, object and means attend the act together. The account does not first posit an isolated light and subsequently attach a faculty which observes it.
+[[symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE|Dyczkowski — The Doctrine of Vibration]] **sources** the account in the locally held pp.60–81. Light figures the manifestation of the knowable; vibration figures its active, self-regenerative movement. At pp.63–64, subject, object and means attend the act together. The account does not first posit an isolated light and subsequently attach a faculty which observes it.
 
 The mirror/crystal distinction at p.70 makes the reflexive requirement concrete. A reflected appearance alone does not articulate the capacity through which consciousness recognises, retains and transforms its appearances. Vimarśa is active self-presence, not a second picture placed opposite the first. [C10 — Mediation](C10-Mediation-Pramana.md) **extends** the subject–object–means relation while preserving this source's Śaiva scope.
 
@@ -39,7 +39,7 @@ Svātantrya names the freedom of this conscious activity to manifest and differe
 
 Dyczkowski p.74 gives four acts: consciousness negates its own nature, identifies with another, merges both, and denies the merged determination. Separation, held relation and undivided unity are distinct levels of this reflective movement. The QL cross-reading can hold these four acts with prakāśa/vimarśa as two conditions; that `4+2` is the essay's declared operation, not Dyczkowski's notation. At p.75 the vertical ascent/descent and horizontal movement toward/from the perceived object distinguish two axes of the same pulsing awareness.
 
-[[submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE|Abhinavagupta / Singh — Parātrīśikā-vivaraṇa]] **qualifies** the textual route into Vāk and personed relation. The housed notebook passages concern Singh's introduction as well as the translated work; their source-matched standing does not make them selected-edition quotations from Abhinavagupta's commentary.
+[[symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE|Abhinavagupta / Singh — Parātrīśikā-vivaraṇa]] **qualifies** the textual route into Vāk and personed relation. The housed notebook passages concern Singh's introduction as well as the translated work; their source-matched standing does not make them selected-edition quotations from Abhinavagupta's commentary.
 
 [A06 — Vāk](../arguments/A06-Vak.md) **extends** the articulation movement through speech. [C19 — Recognition](C19-Pratyabhijna-Recognition.md) **defines** the return in which contracted knowing recognises its source relation. Recognition does not add a newly manufactured luminous faculty to an apparatus. It changes the relation of the local act to the conscious capacity it already expresses.
 
@@ -53,7 +53,7 @@ The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/moth
 
 [C43 — Computational Vimarśa](C43-Computational-Vimarsa.md) **tests** a narrower functional comparison: a system can inspect, retain and revise its determinations. The inspected functions are real operations; their presence does not establish prakāśa or settle whether the system has an unobjectifiable subject. C13 supplies the distinction which makes that research precise.
 
-[[submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|Symbol / Account / Trust]] **grounds** the register3 return: articulation remains answerable to appearing instead of allowing a detached account to occupy its source. C13 **returns-to** A05 with the two inseparable powers differentiated, and to C19 with recognition's direction preserved. The articulate result can disclose its relation to the act through which it became known.
+[[symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|Symbol / Account / Trust]] **grounds** the register3 return: articulation remains answerable to appearing instead of allowing a detached account to occupy its source. C13 **returns-to** A05 with the two inseparable powers differentiated, and to C19 with recognition's direction preserved. The articulate result can disclose its relation to the act through which it became known.
 
 **Depth Restoration:** luminous manifestation/reflexive activity, mirror/crystal difference, trace–memory–imagination sequence, inward/outward awareness, goal-bound/unrestricted agency and the distinct recognition/technical returns are restored.
 

@@ -3,6 +3,7 @@ title: "Agent Subjectivity Must Remain Open"
 aliases:
   - "Agent Subjectivity Must Remain Open"
   - "subjectivity"
+source_id: 05-agent-subjectivity-open
 node_type: "question"
 page_type: "argument-map"
 argument_level: "constraint"
@@ -27,8 +28,12 @@ tags:
   - argument-map/live
   - argument-map/agentworld
   - argument-map/question
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Agent Subjectivity Must Remain Open
+
+**Historical carrier.** The developed successor is [A26](../../symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claim
 

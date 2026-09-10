@@ -43,6 +43,8 @@ passage_surface: "#passages"
 
 # Saul A. Kripke — *Naming and Necessity* (1980)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Bibliographic identity
 
 The work is the transcript of three lectures Saul A. Kripke delivered at Princeton University in January 1970. The transcript first appeared in 1972 as "Naming and Necessity" in *Semantics of Natural Language*, edited by Donald Davidson and Gilbert Harman (Dordrecht: D. Reidel), pp. 253–355 with addenda at 763–69. The first stand-alone book edition appeared in 1980, published simultaneously by Basil Blackwell (Oxford) and Harvard University Press (Cambridge, MA), with a lightly edited lecture text and a substantial new preface that exists only in the book form.

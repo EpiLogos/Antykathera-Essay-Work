@@ -3,6 +3,7 @@ title: "The Blind Spot — Frank, Gleiser, Thompson"
 aliases:
   - "The Blind Spot"
   - "Blind Spot — Science and Experience"
+source_id: blind-spot-frank-gleiser-thompson
 node_type: reference
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

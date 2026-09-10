@@ -1,5 +1,6 @@
 ---
 title: "Technology, Politics, and Institutions — From Mass Formation to Planetary Technē"
+source_id: technology-politics-history
 page_type: historical-register-route
 ownership: protected-learning-surface
 status: living

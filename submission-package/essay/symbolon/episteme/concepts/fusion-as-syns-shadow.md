@@ -6,6 +6,7 @@ aliases:
   - "Fusion as Sym's Shadow"
   - "sym-ballein's shadow"
   - "the dissolved seam"
+source_id: fusion-as-syns-shadow
 node_type: "concept"
 register: episteme
 page_type: "concept"
@@ -55,6 +56,6 @@ Computational form at [[14-computational-process-ontology|the process ontology]]
 
 ## Sources
 
-[[taylor-2026-core-theorems-pithy|Taylor — Core Theorems Pithy (2026)]] — the `(0/1)/(1/0)` derivation whose failure mode this names. The concept is worked entirely inside the essay's own canon; no external source is claimed for it, and the Apollo/Dionysus and Bohmian materials carry the source relations already declared at their home movements. The node is marked **Argued** for its cross-register spread, which rests on the Argued movements at §2 · #0, §2 · #2, §2 · #4, and §4 · #4; the definitional core it inherits — fusion as sym-ballein without distinction, read off the outer slash — comes from [[03-two-logics-and-sym-ballein|the two logics]] and [[14-computational-process-ontology|the process ontology]], both **Derived**.
+[[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems Pithy (2026)]] — the `(0/1)/(1/0)` derivation whose failure mode this names. The concept is worked entirely inside the essay's own canon; no external source is claimed for it, and the Apollo/Dionysus and Bohmian materials carry the source relations already declared at their home movements. The node is marked **Argued** for its cross-register spread, which rests on the Argued movements at §2 · #0, §2 · #2, §2 · #4, and §4 · #4; the definitional core it inherits — fusion as sym-ballein without distinction, read off the outer slash — comes from [[03-two-logics-and-sym-ballein|the two logics]] and [[14-computational-process-ontology|the process ontology]], both **Derived**.
 
 Related: [[counterfeit-gathering]] · [[03-two-logics-and-sym-ballein|Sym-Ballein]] · [[21-s2-p2-sym-ballein|§2 · #2]] · [[23-s2-p4-complex-dynamism|§2 · #4]] · [[14-computational-process-ontology]]

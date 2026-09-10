@@ -12,4 +12,4 @@ Art carries visual, plastic, architectural and performative works whose composit
 
 Each work receives creator, title, date, medium, location or collection, source image, rights state, close description and exact essay use. Reproductions remain distinct from plates newly composed for the essay.
 
-Return to [[../README|Mytheme]].
+Return to [Mytheme](../README.md).

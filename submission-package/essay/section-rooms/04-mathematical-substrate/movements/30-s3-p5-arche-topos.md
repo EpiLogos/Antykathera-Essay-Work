@@ -1,5 +1,6 @@
 ---
 title: "§3 · #5→0 — The Arche-Topos"
+source_id: 30-s3-p5-arche-topos
 node_type: section
 page_type: section-movement
 station: "§3"
@@ -13,9 +14,13 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §3 · #5→0 — The Arche-Topos
 
+<!-- reader-navigation -->
+Movement 30 of 48 · [This room](../ROOM.md) · [← Previous](29-s3-p4-topology-music-resolution.md) · [Next →](../../05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md)
+<!-- /reader-navigation -->
+
 ## Movement thesis
 
-[[Arche-Topos — Topology and Music|The arche-topos]] is the differential field on which the \(0/1\) relation can be written as path, circulated as winding, heard as interval, and recognised as symbolic transformation. It is archetypal because it specifies recurrent forms of differentiation before they receive psychological or material content. It is a topos because neighbourhood, orientation, path, quotient, cover, hole, and return matter more than a catalogue of correspondences.
+[[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|The arche-topos]] is the differential field on which the \(0/1\) relation can be written as path, circulated as winding, heard as interval, and recognised as symbolic transformation. It is archetypal because it specifies recurrent forms of differentiation before they receive psychological or material content. It is a topos because neighbourhood, orientation, path, quotient, cover, hole, and return matter more than a catalogue of correspondences.
 
 The derivation is psychoid. It locates the differential architecture prior to the usual division of psyche and matter, then tracks its formal and phenomenal expressions without reducing one to the other.
 
@@ -49,7 +54,7 @@ A methodological display joins the two native ones. Differential geometry's word
 
 Here the jigsaw image completes the journey it began at the world-picture diagnosis of §0/1 · #4. Under dia-ballein alone the jigsaw is the world-picture as method: self-contained pieces uniquely fitted, assembled toward a picture given in advance on the box-lid, the frame built first — a simply-connected disk with no hole, no winding, no return; the flat map stretched over the curved world, `(+1)/(−1)`. Under QL's grammar the same puzzle re-derives. The pieces become local covers *of* the topological domain, each known in relation to the quotient and to the covering activity itself — winding and traversal against an infinite capacity for traversal — so the regulating whole is no longer a picture on a box but the covering relation as such, the bounded surface regulated by the infinite plane, `0/1`. The image travels from problem to solution because the essay does not renounce world-pictures; it re-founds them, and [[41-s5-p4-bimba-energy-fields|§5 · #4]] builds the re-founded picture as the Bimba map. There is no picture on the arche-topos's box, because what it holds is the principle of imaging itself; the torus and the atlas are its nearest approximations, and their nearness is derivable rather than asserted.
 
-[[Computational Process Ontology]] is its operative expression. The arche-topos is the field in which positions and paths can arise; the process ontology states how the field differentiates and recomposes; QL supplies the repeatable unit; MEF lets the unit run through plural lenses without erasing their differences.
+[[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] is its operative expression. The arche-topos is the field in which positions and paths can arise; the process ontology states how the field differentiates and recomposes; QL supplies the repeatable unit; MEF lets the unit run through plural lenses without erasing their differences.
 
 ## Claim structure
 
@@ -65,6 +70,6 @@ The differential field **returns-to** [Topos — situated return](../../../symbo
 
 The substrate now flowers psychologically. Jung and Pauli supply the psychoid question; \(X/x\), quaternity, senarius, and complexio oppositorum disclose individuation as a form becoming transparent to its ground. Continue to [[31-s4-p0-psychoid-problem|§4 · #0 — The Psychoid Problem]].
 
-The [complete stained-glass whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-atlas-complement) **figures** the atlas’s optical complement: light enters through a made aperture whose panes, seams and position remain answerable within the display. Transmission and chart transition retain their different operations. The Bimba Map’s recursive local original office remains available within this wider source-dependent relation.
+The [complete stained-glass whole](../../../symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-atlas-complement) **figures** the atlas’s optical complement: light enters through a made aperture whose panes, seams and position remain answerable within the display. Transmission and chart transition retain their different operations. The Bimba Map’s recursive local original office remains available within this wider source-dependent relation.
 
 The [authored P1 route for M30](../P1-CANONICAL-ALIGNMENT.md#p1-m30) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.

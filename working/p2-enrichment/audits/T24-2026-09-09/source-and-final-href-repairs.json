@@ -1,0 +1,3222 @@
+[
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/PASSAGE-LEDGER.md",
+    "before_sha256": "c6346fe6dcd4b456db8404435759a9b9a2083a52d4c2912d8a85084738bc5f50",
+    "after_sha256": "4da1aafb7c9cd1269a06bac27bae9a33bc55779cc35e568105f2538dc8b3b62c",
+    "links": [
+      {
+        "old": "priest-2010-logic-catuskoti",
+        "new": "symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE|priest-2010-logic-catuskoti",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 425
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/tye/tye-2024-qualia-sep/SOURCE.md",
+    "before_sha256": "c9d7eec011e431a97b567fe1eaa3f6b0be7a62fe06cc4f061f186ad698d79e2c",
+    "after_sha256": "2669932d202caf61e3b42b056a51befd5b499e476c03afe7a1aedf4752e959ca",
+    "links": [
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 97
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 99
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wilson/wilson-et-al-2020-embodied-cognition-sep/SOURCE.md",
+    "before_sha256": "2515e714f9ed083dbf88d932b5e16e7625d4eac3ada6f6531f7ad1f222c87b9c",
+    "after_sha256": "a57a0a6d65772a5a83710653da6087babc878041e71a7472866b9cfc27eadf5c",
+    "links": [
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 101
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 103
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 103
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/wittgenstein/wittgenstein-1922-tractatus/SOURCE.md",
+    "before_sha256": "b3c144f58dcb212928dbbefb75a5a7d9a4f33764be94bf1de56895269247465d",
+    "after_sha256": "ba93a31cf3db62fbf37d02578b95767d552e15d063c04c73b58cd65c998af1c7",
+    "links": [
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 106
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 108
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md",
+    "before_sha256": "8f7002c71746048dafcb8a704a7fdfdcf0631d05b25483c9d9c2379e4295667a",
+    "after_sha256": "52403b4e3e7fe4e4fc5adfd220b415c5be356e08d1431389190ebfcd78e3393d",
+    "links": [
+      {
+        "old": "Trust, Faith, and the Formal Limit",
+        "new": "symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust, Faith, and the Formal Limit",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 147
+      },
+      {
+        "old": "Trust, Faith, and the Formal Limit",
+        "new": "symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust, Faith, and the Formal Limit",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 175
+      },
+      {
+        "old": "phillips-moicheia-unity-greek-law",
+        "new": "symbolon/episteme/sources/classical-philology/phillips/phillips-moicheia-unity-greek-law/SOURCE|phillips-moicheia-unity-greek-law",
+        "target": "submission-package/essay/symbolon/episteme/sources/classical-philology/phillips/phillips-moicheia-unity-greek-law/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 176
+      },
+      {
+        "old": "Trust, Faith, and the Formal Limit",
+        "new": "symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust, Faith, and the Formal Limit",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 192
+      },
+      {
+        "old": "Trust, Faith, and the Formal Limit",
+        "new": "symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust, Faith, and the Formal Limit",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 196
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/classical-philology/mackenzie/mackenzie-2021-heraclitean-allusion-odyssey/SOURCE.md",
+    "before_sha256": "cbce78867ed7bcee4a352cc16882d7b732c269106175e9aee65f43910de63c39",
+    "after_sha256": "5202021c71b9b818e10e8b03108229284aa088638c66ea7ccd71af20ec5fb536",
+    "links": [
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 100
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 121
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/berkeley/berkeley-1734-three-dialogues-wilkins-2002/SOURCE.md",
+    "before_sha256": "33493b085c26106bfa4afcbc362615d90d208f53e11157b8b5caf83644d82ca6",
+    "after_sha256": "62d269036e9fda20a239f7199b1b06b1539fabc6399268133ac5dd2c1fc4a6bd",
+    "links": [
+      {
+        "old": "Agent Subjectivity Must Remain Open",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 71
+      },
+      {
+        "old": "Agent Subjectivity Must Remain Open",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 85
+      },
+      {
+        "old": "Agent Subjectivity Must Remain Open",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 91
+      },
+      {
+        "old": "Agent Subjectivity Must Remain Open",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 93
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE.md",
+    "before_sha256": "280883f07f9fe03bf6a4c6df2de635f96b8caef6ef1a58252d253316291f297b",
+    "after_sha256": "9124b047f7678f0f8c16cc48f9cc6b919ce67a88d7d3ee2391ca2a1707e4fefc",
+    "links": [
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 106
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 108
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE.md",
+    "before_sha256": "1ca696a054b5815b1b2dcccc9bfa8ec792ba29380235aff7eca32edabf3c1795",
+    "after_sha256": "4981198b028a11b6cbc4bd82a5c6561fcb77e2d17ae82cc7c0095bf0d56b69b6",
+    "links": [
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 84
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 84
+      },
+      {
+        "old": "Vāk",
+        "new": "symbolon/episteme/arguments/A06-Vak|Vāk",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "status": "title-or-alias-only",
+        "line": 84
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/spinoza/spinoza-1674-letter-50-jelles/SOURCE.md",
+    "before_sha256": "0cb7b856213f56603c159e403181de09cf3a0ad2ef47e54918cf3fcb1997cac8",
+    "after_sha256": "4ba8ec1525ff0516f2c503b1a0a4f34227ac3c7e485dcd4200148cbaea1b4e07",
+    "links": [
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 102
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 104
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/lecun/lecun-et-al-2006-energy-based-learning/SOURCE.md",
+    "before_sha256": "c10f97a1c03edd43f302750508333b57ad21bb4b310683f8af50565721ab8b8d",
+    "after_sha256": "84a93eb9b677490903b470d098c906132a14e43a4dbf9e6fb0366abfd32aedaf",
+    "links": [
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 103
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 103
+      },
+      {
+        "old": "Deferential Intelligence",
+        "new": "symbolon/episteme/arguments/A31-Deferential-Intelligence|Deferential Intelligence",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+        "status": "title-or-alias-only",
+        "line": 103
+      },
+      {
+        "old": "Agent Subjectivity Must Remain Open",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 117
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 117
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 123
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 123
+      },
+      {
+        "old": "Deferential Intelligence",
+        "new": "symbolon/episteme/arguments/A31-Deferential-Intelligence|Deferential Intelligence",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+        "status": "title-or-alias-only",
+        "line": 123
+      },
+      {
+        "old": "Agent Subjectivity Must Remain Open",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 125
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 125
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/pytorch/pytorch-2-9-softmax-argmax-api/SOURCE.md",
+    "before_sha256": "fa3b4215eada959fb063110de48778b45c6e401bc69d7737a8a91029cf46db2a",
+    "after_sha256": "0c913c987b2cb0e1a8993619da03a950e2e6d3fd213e031f684e6c8cb04df868",
+    "links": [
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 81
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 95
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 109
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 109
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 115
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 117
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 119
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 119
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md",
+    "before_sha256": "e81acca89c348ff1b7f282281e569f42e0a8cc583316869aa4e92096799103ef",
+    "after_sha256": "b5bd9d640bffa8c2205492e82eca0299d21a8de777e79fa3ae793364367ca409",
+    "links": [
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 92
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 92
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 106
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 106
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 112
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 112
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 114
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 114
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE.md",
+    "before_sha256": "a1cfae37fae8fe4076fd1afbcef5f83696fb1dbc2179570835297cd4e940c000",
+    "after_sha256": "0f05482baa3259622481927c7531ea90731650d7ee892cd9a4cad13c3f280805",
+    "links": [
+      {
+        "old": "Artificial Hybrid Intelligence as Reflective Field",
+        "new": "symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence as Reflective Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "status": "title-or-alias-only",
+        "line": 83
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 83
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 127
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 141
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 155
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 155
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 169
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 169
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 199
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 236
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 257
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 259
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 261
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 263
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 268
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 270
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 272
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 272
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 274
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 274
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/eastern-corpus-program.md",
+    "before_sha256": "e5d1d60f3d4ee8fd0f85ff86cfd26bf5f8000ec63a0219d2b7d57dd61ef5d0fb",
+    "after_sha256": "2c0b2a1b6c6241388fae3a7c8b5784cbadb2eb10078b37a7a3cc1202828cdd8a",
+    "links": [
+      {
+        "old": "Dyczkowski — Doctrine of Vibration (2000)",
+        "new": "symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE|Dyczkowski — Doctrine of Vibration (2000)",
+        "target": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 16
+      },
+      {
+        "old": "Abhinavagupta — Parātrīśikā-vivaraṇa (Singh, 1988)",
+        "new": "symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE|Abhinavagupta — Parātrīśikā-vivaraṇa (Singh, 1988)",
+        "target": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 17
+      },
+      {
+        "old": "Flasch — Meister Eckhart: Philosopher of Christianity (2015)",
+        "new": "symbolon/episteme/sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE|Flasch — Meister Eckhart: Philosopher of Christianity (2015)",
+        "target": "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 18
+      },
+      {
+        "old": "Jung — Aion, CW 9.2 (1978 corrected printing)",
+        "new": "symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE|Jung — Aion, CW 9.2 (1978 corrected printing)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 19
+      },
+      {
+        "old": "Jung and Pauli — Atom and Archetype (Meier, 2001)",
+        "new": "symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE|Jung and Pauli — Atom and Archetype (Meier, 2001)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/freeth/freeth-et-al-2021-model-cosmos/SOURCE.md",
+    "before_sha256": "cd2b0e02479db1d3cf0b12a76736399f01da4e02a51033d5ffa5be65b3c5118d",
+    "after_sha256": "85af7f3b370559f256febe0fb56accaf1d1ea71dee5ad9b97bbd00b0444465c5",
+    "links": [
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 85
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 99
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 105
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 107
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md",
+    "before_sha256": "a2c9746c0610c7154764fb46a02f6ec8c03324db7db6607ec93afc3d33abb74f",
+    "after_sha256": "8aa9ad5068c0d1da344e636949bc8c10c677e09bebd22ef0a4f8fdc6115a043c",
+    "links": [
+      {
+        "old": "Prakāśa-Vimarśa",
+        "new": "symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "status": "title-or-alias-only",
+        "line": 81
+      },
+      {
+        "old": "Vāk",
+        "new": "symbolon/episteme/arguments/A06-Vak|Vāk",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "status": "title-or-alias-only",
+        "line": 81
+      },
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 81
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 81
+      },
+      {
+        "old": "Vāk",
+        "new": "symbolon/episteme/arguments/A06-Vak|Vāk",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "status": "title-or-alias-only",
+        "line": 88
+      },
+      {
+        "old": "Prakāśa-Vimarśa",
+        "new": "symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "status": "title-or-alias-only",
+        "line": 89
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 89
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/das/das-2022-sriharsa-sep/SOURCE.md",
+    "before_sha256": "b27e29b0088a411af54e8d9c0e9c3a05c8ea6400b0ad09c04695a592143ce39d",
+    "after_sha256": "bfa2f2b25a787b50244564c1f81e78901dcee33ec12a4aab77413642e2c0fd17",
+    "links": [
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 77
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 91
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 97
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 99
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md",
+    "before_sha256": "119db75ad7cf485ae9ad5bb33437785bdbb9acbc1fcfe981cafd9e4bc7959c65",
+    "after_sha256": "c5b57a5806f9c44e81570e1abaa0798a11085e53e5555a29c54b61fba66a7b87",
+    "links": [
+      {
+        "old": "Prakāśa-Vimarśa",
+        "new": "symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "status": "title-or-alias-only",
+        "line": 82
+      },
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 82
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 82
+      },
+      {
+        "old": "Prakāśa-Vimarśa",
+        "new": "symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "status": "title-or-alias-only",
+        "line": 91
+      },
+      {
+        "old": "Prakāśa-Vimarśa",
+        "new": "symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "status": "title-or-alias-only",
+        "line": 92
+      },
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 93
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 94
+      },
+      {
+        "old": "Prakāśa-Vimarśa",
+        "new": "symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "status": "title-or-alias-only",
+        "line": 400
+      },
+      {
+        "old": "Prakāśa-Vimarśa",
+        "new": "symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "status": "title-or-alias-only",
+        "line": 406
+      },
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 412
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 418
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE.md",
+    "before_sha256": "42c8183c5559071e0df09dba5c9dc30025f73e2ccb09096d436dd48e089805c6",
+    "after_sha256": "69533d66d630b25ff5abde2497ae93e0692d24fff4701687fbcad31670439ad9",
+    "links": [
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 106
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 106
+      },
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 108
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 108
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE.md",
+    "before_sha256": "51700473cd648e6d6baf64b6c7b2a45a4ee5ad682e4c4a69d5f3c9f11eaace03",
+    "after_sha256": "a4f358342a722c9a5ff2fea5e53567020ed4ef5591d310c8207a0e3c456f11a3",
+    "links": [
+      {
+        "old": "Prakāśa-Vimarśa",
+        "new": "symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "status": "title-or-alias-only",
+        "line": 81
+      },
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 81
+      },
+      {
+        "old": "Prakāśa-Vimarśa",
+        "new": "symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "status": "title-or-alias-only",
+        "line": 95
+      },
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 95
+      },
+      {
+        "old": "Prakāśa-Vimarśa",
+        "new": "symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "status": "title-or-alias-only",
+        "line": 101
+      },
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 101
+      },
+      {
+        "old": "Prakāśa-Vimarśa",
+        "new": "symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "status": "title-or-alias-only",
+        "line": 103
+      },
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 103
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE.md",
+    "before_sha256": "fef3c3ecd3ee8dc02a7ceecf8076c73cdd2ff7164c3a9675e98a0b4b4cdc7469",
+    "after_sha256": "6480239f5230c10cba11452c098f59f3215f4b24420d558034863132e8859c02",
+    "links": [
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 81
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 81
+      },
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 96
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 96
+      },
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 102
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 102
+      },
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 104
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 104
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE.md",
+    "before_sha256": "98b7056b95153252ad38f4f83599df776722016407aecc92cbd6bf2f4e5f2a39",
+    "after_sha256": "cf3e407b478cadf36c930e0568fcd8eaa66a5e00edef01b6cd559b42c491fb5b",
+    "links": [
+      {
+        "old": "apoha",
+        "new": "symbolon/episteme/concepts/C18-Apoha|apoha",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+        "status": "ambiguous-filename",
+        "line": 109
+      },
+      {
+        "old": "apoha",
+        "new": "symbolon/episteme/concepts/C18-Apoha|apoha",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+        "status": "ambiguous-filename",
+        "line": 123
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md",
+    "before_sha256": "fdb706a6128af67de55746d39264f0eac95bb9c8999dbda8146a90790f0a356c",
+    "after_sha256": "c4166832fef873c57d877f5db66e1073dbbf35b16e1eb37fbaf3e956f5ac3b86",
+    "links": [
+      {
+        "old": "Kaplan — The Nothing That Is (2000 OUP printing)",
+        "new": "symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE|Kaplan — The Nothing That Is (2000 OUP printing)",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 55
+      },
+      {
+        "old": "Colebrooke — Brahmagupta and Bhāskara (1817)",
+        "new": "symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE|Colebrooke — Brahmagupta and Bhāskara (1817)",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 56
+      },
+      {
+        "old": "Dutta — Zero-Divided Numbers in Indian Mathematics (2023)",
+        "new": "symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE|Dutta — Zero-Divided Numbers in Indian Mathematics (2023)",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 56
+      },
+      {
+        "old": "Gebser — The Ever-Present Origin (1985)",
+        "new": "symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE|Gebser — The Ever-Present Origin (1985)",
+        "target": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 57
+      },
+      {
+        "old": "Freud — “The Unconscious” (1915; Strachey trans. 1957)",
+        "new": "symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/SOURCE|Freud — “The Unconscious” (1915; Strachey trans. 1957)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 58
+      },
+      {
+        "old": "Jung — Psychology and Religion: West and East, CW 11 (1969)",
+        "new": "symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE|Jung — Psychology and Religion: West and East, CW 11 (1969)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 59
+      },
+      {
+        "old": "Jung — Aion, CW 9.2 (1978 corrected printing)",
+        "new": "symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE|Jung — Aion, CW 9.2 (1978 corrected printing)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 59
+      },
+      {
+        "old": "Neumann — The Origins and History of Consciousness (1954)",
+        "new": "symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE|Neumann — The Origins and History of Consciousness (1954)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 60
+      },
+      {
+        "old": "Bratton — Antikythera Agentworld Brief (2026)",
+        "new": "symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Bratton — Antikythera Agentworld Brief (2026)",
+        "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 61
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+    "before_sha256": "08ba86a0b6b5743b646e235c810779ef53f044bdfdb2921623eb0387c3db33b0",
+    "after_sha256": "04c92ada849e0d2e90eaa31943687c4c65a9338cd90118ccd9d0e278a3fa4c1a",
+    "links": [
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 89
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 89
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 90
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 91
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 91
+      },
+      {
+        "old": "Tattvic Differential Field",
+        "new": "symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 92
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 92
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 93
+      },
+      {
+        "old": "Agent Subjectivity Must Remain Open",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 93
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 94
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 95
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 95
+      },
+      {
+        "old": "Prakāśa-Vimarśa",
+        "new": "symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "status": "title-or-alias-only",
+        "line": 96
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 97
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 98
+      },
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 98
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 99
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 101
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 102
+      },
+      {
+        "old": "Prakāśa-Vimarśa",
+        "new": "symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+        "status": "title-or-alias-only",
+        "line": 123
+      },
+      {
+        "old": "Prompt Thrownness",
+        "new": "symbolon/episteme/concepts/prompt-thrownness|Prompt Thrownness",
+        "target": "submission-package/essay/symbolon/episteme/concepts/prompt-thrownness.md",
+        "status": "title-or-alias-only",
+        "line": 128
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 136
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 150
+      },
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 150
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 164
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 188
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 202
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md",
+    "before_sha256": "405385e0d0db3e8b6d550fb044c942b3ae7b4e387c6d4e14e432788da01caf4b",
+    "after_sha256": "d2e82cf44d7af7bfebddd128055c5c6c78f422129c8c5683b9ee9e2d08fb7a90",
+    "links": [
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 122
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 128
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 134
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 140
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 146
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 152
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 158
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 164
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 176
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 188
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 206
+      },
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 212
+      },
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 218
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 224
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 230
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 236
+      },
+      {
+        "old": "Vāk",
+        "new": "symbolon/episteme/arguments/A06-Vak|Vāk",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "status": "title-or-alias-only",
+        "line": 242
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 248
+      },
+      {
+        "old": "Vāk",
+        "new": "symbolon/episteme/arguments/A06-Vak|Vāk",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A06-Vak.md",
+        "status": "title-or-alias-only",
+        "line": 260
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 266
+      },
+      {
+        "old": "Deferential Intelligence",
+        "new": "symbolon/episteme/arguments/A31-Deferential-Intelligence|Deferential Intelligence",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+        "status": "title-or-alias-only",
+        "line": 272
+      },
+      {
+        "old": "Artificial Hybrid Intelligence as Reflective Field",
+        "new": "symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence as Reflective Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "status": "title-or-alias-only",
+        "line": 278
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 290
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-encounter-region-name-count/SOURCE.md",
+    "before_sha256": "2d17f0a1dbfe6f038f9eb3d395af44db572fb400de35e89c3a77529c0e74993f",
+    "after_sha256": "4cf3cc771d76ae0b340c17b40b684a8461a485bba169b2be90ae0bba69fe1c98",
+    "links": [
+      {
+        "old": "Taylor — Core Theorems Pithy (2026)",
+        "new": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems Pithy (2026)",
+        "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 43
+      },
+      {
+        "old": "Bimba-Pratibimba",
+        "new": "symbolon/episteme/concepts/bimba-pratibimba|Bimba-Pratibimba",
+        "target": "submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba.md",
+        "status": "ambiguous-filename",
+        "line": 51
+      },
+      {
+        "old": "Taylor — Core Theorems Pithy (2026)",
+        "new": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems Pithy (2026)",
+        "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 73
+      },
+      {
+        "old": "Chang Chung-yuan — Tao: A New Way of Thinking (2014)",
+        "new": "symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE|Chang Chung-yuan — Tao: A New Way of Thinking (2014)",
+        "target": "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 74
+      },
+      {
+        "old": "Heidegger — Discourse on Thinking (Anderson & Freund, 1966)",
+        "new": "symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE|Heidegger — Discourse on Thinking (Anderson & Freund, 1966)",
+        "target": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 75
+      },
+      {
+        "old": "Heidegger — Early Greek Thinking (Krell & Capuzzi, 1975)",
+        "new": "symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1975-early-greek-thinking/SOURCE|Heidegger — Early Greek Thinking (Krell & Capuzzi, 1975)",
+        "target": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1975-early-greek-thinking/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 76
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 77
+      },
+      {
+        "old": "The Two Ones — Mono–Poly Matheme",
+        "new": "symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All|The Two Ones — Mono–Poly Matheme",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+        "status": "title-or-alias-only",
+        "line": 77
+      },
+      {
+        "old": "The Slash (AND/OR)",
+        "new": "symbolon/episteme/concepts/the-slash|The Slash (AND/OR)",
+        "target": "submission-package/essay/symbolon/episteme/concepts/the-slash.md",
+        "status": "missing-vault-path",
+        "line": 77
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 77
+      },
+      {
+        "old": "Encounter, Region, Countenance, and Count — The With-Field Becomes an Account",
+        "new": "symbolon/episteme/etymologies/encounter-region-name-count/HISTORY|Encounter, Region, Countenance, and Count — The With-Field Becomes an Account",
+        "target": "submission-package/essay/symbolon/episteme/etymologies/encounter-region-name-count/HISTORY.md",
+        "status": "title-or-alias-only",
+        "line": 81
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+    "before_sha256": "a4c7c775c3c6817599680727d979380e1df4894a1b53b1749e4d38d4453da975",
+    "after_sha256": "86079027fa54d15f17bbcdddb9ac2c91c3077c381f2787b2264dffdcdcfefcef",
+    "links": [
+      {
+        "old": "Taylor — Core Theorems Pithy (2026)",
+        "new": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems Pithy (2026)",
+        "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 42
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md",
+    "before_sha256": "bf3bb0a8aca05358d49b99ee402ebb09e1c9131971222878bdc557bfe4ed26cb",
+    "after_sha256": "0c1213e82486b887d96caf169c318cae4e2bac7cc579509f8726cbe82d95b71b",
+    "links": [
+      {
+        "old": "Trust, Faith, and the Formal Limit — Transverse Thread",
+        "new": "symbolon/episteme/maps/trust-faith-formal-limit|Trust, Faith, and the Formal Limit — Transverse Thread",
+        "target": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+        "status": "title-or-alias-only",
+        "line": 55
+      },
+      {
+        "old": "Trust, Faith, and the Formal Limit",
+        "new": "symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust, Faith, and the Formal Limit",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 59
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+    "before_sha256": "3af953f42f4cd581d15e06a9921cabd7228d893da714b7c13a70e15f6e25ea01",
+    "after_sha256": "b1d366be3c3bee2ab28af13b4221b6ab88cad6a90ae84192e9ec92d722234b3b",
+    "links": [
+      {
+        "old": "Taylor — Core Theorems Pithy (2026)",
+        "new": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems Pithy (2026)",
+        "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 58
+      },
+      {
+        "old": "Van Eenwyk — Archetypes and Strange Attractors (1997)",
+        "new": "symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE|Van Eenwyk — Archetypes and Strange Attractors (1997)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 59
+      },
+      {
+        "old": "Jung — Aion, CW 9.2 (1978 corrected printing)",
+        "new": "symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE|Jung — Aion, CW 9.2 (1978 corrected printing)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 60
+      },
+      {
+        "old": "Taylor — MEF Twelve Lenses Reference (2026)",
+        "new": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE|Taylor — MEF Twelve Lenses Reference (2026)",
+        "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 62
+      },
+      {
+        "old": "Taylor — Mono-Poly, the Two Ones, and the Whole Field (2026)",
+        "new": "symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE|Taylor — Mono-Poly, the Two Ones, and the Whole Field (2026)",
+        "target": "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 62
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md",
+    "before_sha256": "b5a23ca645af1e70ae6162d821700b502abce720f89ea85364c1a1aacde6830d",
+    "after_sha256": "2278970f1cd22529cfa272dc64e5fb4db6542aa7c207996a556d29ef4dc9294b",
+    "links": [
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 127
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 137
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/daza/daza-et-al-2016-basin-entropy/SOURCE.md",
+    "before_sha256": "0466f532e126f35efea48898c958eb2259023aab5463a5d42f16a64b8ce76a2a",
+    "after_sha256": "ac130ecd2d33e6a3568f8b6bfab2b6ad729da6df4345a40942aae5aaedfb7930",
+    "links": [
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 86
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 86
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 100
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 100
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 106
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 106
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 108
+      },
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 108
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md",
+    "before_sha256": "9d8af269d2a8d49db9074be95c2c75b0c964e7ee579f4da1cf16c924696f231f",
+    "after_sha256": "65c0c65671fb072cec1dab8de8eff95ef4210bb2dc5e31a89dee10f253138d4f",
+    "links": [
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 102
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 104
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE.md",
+    "before_sha256": "240f142f0d58bd43465539f6d1803a6ce441877ce4867769f8cbfa2db3543475",
+    "after_sha256": "b5e33d856ea7af9765c410c644730893e27495055b8a489b3948d384177f1dae",
+    "links": [
+      {
+        "old": "priest-2018-fifth-corner",
+        "new": "symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE|priest-2018-fifth-corner",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 69
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/SOURCE.md",
+    "before_sha256": "163b5e9457bacf68fe5d3508f28d0ae0227dc873c38531b0874812f6a86218c9",
+    "after_sha256": "08410abf2ecbebfb62ca9ba5a6536768e16f4508eb52c4407fe849f0de2c2776",
+    "links": [
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 80
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 94
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 100
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 102
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md",
+    "before_sha256": "34892f2f1108b1627732162064e6d36cdd6ae19f5bac990f3c71a08a63478ddc",
+    "after_sha256": "b3c5fc04dcb46324807bd80ee0d74cc0ccf1967fd76ba21b8d82b468ef7d9c90",
+    "links": [
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 82
+      },
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 96
+      },
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 102
+      },
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 104
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md",
+    "before_sha256": "6b0f555b6785c17a94d7667d2ff43d45f01de805645bc5d176e003fe3c0c1606",
+    "after_sha256": "68b5d2ba37a006764f3d06676afa906d22a1eede3ad296b7e99643187fd7052a",
+    "links": [
+      {
+        "old": "priest-2018-fifth-corner",
+        "new": "symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE|priest-2018-fifth-corner",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 49
+      },
+      {
+        "old": "priest-2018-fifth-corner",
+        "new": "symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE|priest-2018-fifth-corner",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 79
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2014-one/SOURCE.md",
+    "before_sha256": "a3226e7b0f0bed1fb5c617e8c0662347ef315d6cc8dc801dce132c4d2540a4c2",
+    "after_sha256": "1a9d9d5b68ba67aef507ec08636faa14c9434f5d2bebc9dc24ec503fd9996a20",
+    "links": [
+      {
+        "old": "dushun-cleary-2000-jewel-net-indra",
+        "new": "symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE|dushun-cleary-2000-jewel-net-indra",
+        "target": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 76
+      },
+      {
+        "old": "dushun-cleary-2000-jewel-net-indra",
+        "new": "symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE|dushun-cleary-2000-jewel-net-indra",
+        "target": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 157
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md",
+    "before_sha256": "58290153dbd62db76d1b2bb14ebfd471aba17c07fd63cc9297c13d698f099f3e",
+    "after_sha256": "1a21cc5c1522d305105184beee9b2df3b88d859bbfbb200fedc135f34e5fe887",
+    "links": [
+      {
+        "old": "kapsner-2020-cutting-corners",
+        "new": "symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE|kapsner-2020-cutting-corners",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 72
+      },
+      {
+        "old": "priest-2010-logic-catuskoti",
+        "new": "symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE|priest-2010-logic-catuskoti",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 108
+      },
+      {
+        "old": "priest-2014-one",
+        "new": "symbolon/episteme/sources/mathematics-logic/priest/priest-2014-one/SOURCE|priest-2014-one",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2014-one/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 181
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/raatikainen/raatikainen-2026-godel-incompleteness-sep/SOURCE.md",
+    "before_sha256": "097c668b2d2dd558080393a31e2d61cc8de4fe302f1388748499f0b9083fb4ee",
+    "after_sha256": "b76487f7cf050525a9cea30d87c3963284145bc1b4b2eeea02d52a4487b5478f",
+    "links": [
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 100
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 102
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE.md",
+    "before_sha256": "264678e936e9f57f0bec5c11e68b2c29e2239d7f2e48cd52569aa8c5819d62f8",
+    "after_sha256": "3270ae376586063c0cd9f79a15489971059a555ce207039c767bd73c0d73cf08",
+    "links": [
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 102
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 104
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md",
+    "before_sha256": "caf16126bb1b26c79fe4d88768e977e820029198994b047a72b636507c579d20",
+    "after_sha256": "1eada2a490f2d4b1b9e9982818d6f5db2a8e599559997b748597220aeb8e73d5",
+    "links": [
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 82
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 96
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 110
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 116
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 118
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 120
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE.md",
+    "before_sha256": "2c8092a009def9cb1c38553bd7fca90eadc851929e08d898e1c0e430e248a166",
+    "after_sha256": "e4712cd959d794cfe4f68c90515abcbbcde1c3af390904853d70ef205bce7962",
+    "links": [
+      {
+        "old": "antykathera-site-copy",
+        "new": "symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE|antykathera-site-copy",
+        "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 45
+      },
+      {
+        "old": "bratton-2026-agentworld-brief",
+        "new": "symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|bratton-2026-agentworld-brief",
+        "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 45
+      },
+      {
+        "old": "antykathera-site-copy",
+        "new": "symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE|antykathera-site-copy",
+        "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 64
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/jorjani/jorjani-2016-prometheus-atlas/SOURCE.md",
+    "before_sha256": "74db8da16d14ed6130a67e627318aaa7b69e1944001934bd5117c7ac791a39d7",
+    "after_sha256": "6afb942d9bd8ac5dc0899dd230c28fe54afe4ff33bab4beb81c7366d9c9348b7",
+    "links": [
+      {
+        "old": "Counterfeit Gathering",
+        "new": "symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering",
+        "target": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+        "status": "title-or-alias-only",
+        "line": 102
+      },
+      {
+        "old": "Counterfeit Gathering",
+        "new": "symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering",
+        "target": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+        "status": "title-or-alias-only",
+        "line": 139
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md",
+    "before_sha256": "625eed9f1ef4116f983c084601f78f7287275d212646fa997242081bf59bf28e",
+    "after_sha256": "52c80820a138794497029ec133a379b27dbdb943292ebb9aabfe9d2a3b278eeb",
+    "links": [
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 78
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 79
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md",
+    "before_sha256": "9ae36c258c04bcfd0d15ef53e61c551ee5efd4c75f8967a6865b3bf1431607b3",
+    "after_sha256": "702fefcd9a222276ff185d3283d61b2ad0b5a7587b93d6f5aaaf92590c6057db",
+    "links": [
+      {
+        "old": "the-slash",
+        "new": "symbolon/episteme/concepts/the-slash|the-slash",
+        "target": "submission-package/essay/symbolon/episteme/concepts/the-slash.md",
+        "status": "ambiguous-filename",
+        "line": 124
+      },
+      {
+        "old": "the-slash",
+        "new": "symbolon/episteme/concepts/the-slash|the-slash",
+        "target": "submission-package/essay/symbolon/episteme/concepts/the-slash.md",
+        "status": "ambiguous-filename",
+        "line": 154
+      },
+      {
+        "old": "the-slash",
+        "new": "symbolon/episteme/concepts/the-slash|the-slash",
+        "target": "submission-package/essay/symbolon/episteme/concepts/the-slash.md",
+        "status": "ambiguous-filename",
+        "line": 199
+      },
+      {
+        "old": "the-slash",
+        "new": "symbolon/episteme/concepts/the-slash|the-slash",
+        "target": "submission-package/essay/symbolon/episteme/concepts/the-slash.md",
+        "status": "ambiguous-filename",
+        "line": 201
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/levinas/levinas-1961-totality-and-infinity/SOURCE.md",
+    "before_sha256": "20e6c3994d9f4030df8008174a55c833d4eb5919418decbc7bc8666734af2de6",
+    "after_sha256": "c76e9c9a5242805b25f93e73958155651f2ad8d8f3b3c3d4341561f7374cb8c0",
+    "links": [
+      {
+        "old": "../../../arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+        "new": "../../../../arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+        "status": "missing-path",
+        "line": 72
+      },
+      {
+        "old": "../../../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "new": "../../../../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "status": "missing-path",
+        "line": 72
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/maroski/maroski-2025-seeing-through-solid-words/SOURCE.md",
+    "before_sha256": "15f72c351955fa77d5e12a6df4ea1176252565eefd50d614f6ef38052388d5b4",
+    "after_sha256": "3e8b04bab9da0d466d7f2dececd986b56b937d648479d9074180957cbcce7682",
+    "links": [
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 99
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 101
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/nietzsche/nietzsche-1910-birth-tragedy-haussmann/SOURCE.md",
+    "before_sha256": "a29280bdba156c4faeb2d555f9f9991d3237b8866515e34d3883898c1bb2e50f",
+    "after_sha256": "d510fccbc2452b89d30aba050edd20c54aafe39351ab559c68c01797578c2ef9",
+    "links": [
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 86
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 86
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 100
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 100
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 106
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 106
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 108
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 108
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/physics/atmanspacher/atmanspacher-2020-pauli-jung-conjecture/SOURCE.md",
+    "before_sha256": "993ed246ee279a247c8b5428574e016cb81ac449942044f2fef591fac44ff987",
+    "after_sha256": "a5b541bf10ea6dcae640af2fde9c86902f1a363d0f4153729f0256af9fe695d8",
+    "links": [
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 87
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 101
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 107
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 109
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/physics/iter/iter-what-is-tokamak/SOURCE.md",
+    "before_sha256": "b3b64c56e32a21ca26ed1481f1609a09ad38b69384fd193d7861af62412dca9d",
+    "after_sha256": "c7c0a502753af2331558f6b2b6c5960e0477c888789110f6f58c6bacef6fe477",
+    "links": [
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 73
+      },
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 87
+      },
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 93
+      },
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 95
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/physics/kirchner/kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering/SOURCE.md",
+    "before_sha256": "33b3acccb0fbacd71659a82e8191774f9d8308c31d43d29c3d3f5754e59f874e",
+    "after_sha256": "07e27126f1bc7e9b053b19f2ec3aa141a804583d7562a45414a0fc0c62ff3c7b",
+    "links": [
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 82
+      },
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 96
+      },
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 102
+      },
+      {
+        "old": "Toroidal Circulation and the Arche-Topos",
+        "new": "symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+        "status": "title-or-alias-only",
+        "line": 104
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md",
+    "before_sha256": "bfc076cd18b5c56eb20710efac478bb2f3d880b3018e3e4926bb9d983590ec23",
+    "after_sha256": "324b08e5524c608de5ee3e50dd6bd42f8676c04cd8bfe1876086b745f270cbf9",
+    "links": [
+      {
+        "old": "Artificial Hybrid Intelligence as Reflective Field",
+        "new": "symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence as Reflective Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "status": "title-or-alias-only",
+        "line": 72
+      },
+      {
+        "old": "Artificial Hybrid Intelligence as Reflective Field",
+        "new": "symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence as Reflective Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+        "status": "title-or-alias-only",
+        "line": 92
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/SOURCE.md",
+    "before_sha256": "dcf6d6d082e8d510a95ab7935b90e79cf32ab901d2fdc84b7fd5e0d7411b6e58",
+    "after_sha256": "a5cf1af6dd63a61c6170fdd849af651deb796eb48970e834ac470e9e5ea4bee4",
+    "links": [
+      {
+        "old": "Bohmian Enfoldment and Dialogical Return",
+        "new": "symbolon/episteme/dossiers/bohm|Bohmian Enfoldment and Dialogical Return",
+        "target": "submission-package/essay/symbolon/episteme/dossiers/bohm.md",
+        "status": "title-or-alias-only",
+        "line": 67
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/maturana/maturana-varela-1980-autopoiesis-cognition/SOURCE.md",
+    "before_sha256": "db6ed1157c5235167f8fc65d1a323da4243b11e4b66f1a128505c96067257f55",
+    "after_sha256": "cdd45a58929c11e36ea40310912bbf4b4af0aa8be78a18e3641db4484f9ef549",
+    "links": [
+      {
+        "old": "Computational Process Ontology",
+        "new": "symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+        "status": "title-or-alias-only",
+        "line": 75
+      },
+      {
+        "old": "Objective Internality",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 75
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 75
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/psychology/adleman/adleman-vanderwees-2021-lacan-rhetoric/SOURCE.md",
+    "before_sha256": "bf4244d5623ecc9dd083b0959b734384f1b3689ca94009e8057e24c2d48f3aaa",
+    "after_sha256": "b3101c0dca64ba6f21c25043713b6a48a7e3cf96c79d2540403de13723fbe2aa",
+    "links": [
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 83
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 97
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 103
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 105
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/psychology/courtney/courtney-2019-salt-point-kairos-chaos/SOURCE.md",
+    "before_sha256": "24fdbdb0cb5c57ee85101e78a0d73e526d4478e549cbc75bd3909d9aabab688d",
+    "after_sha256": "9c663705d4db0e1fa733a0aae6dff371773b96df9e66878b52b7ff8702caaddb",
+    "links": [
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 84
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 98
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 104
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 106
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/psychology/darmon/darmon-1992-matheme-ali/SOURCE.md",
+    "before_sha256": "bfa73e28e6e02c2273062f20cbddb57b854586aa116fc213045047f2e228a02f",
+    "after_sha256": "83faf5d08033aacf20e47b46cb732f05b786b2ef5ad16074d30e2e2c8089b845",
+    "links": [
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 82
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 82
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 96
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 102
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 102
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 104
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 104
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/psychology/desmet/desmet-2022-psychology-totalitarianism-web-essay/SOURCE.md",
+    "before_sha256": "6227a4bf14a26e5be9b9dfaf9b8d76e4e7ffabc99ed07016098b4cb16102eaf1",
+    "after_sha256": "3b2bbf44a58d1b972f933e5cad78cc6029d63ecb8f8fbe57a539ade2e7f9c81d",
+    "links": [
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 73
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 117
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 119
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md",
+    "before_sha256": "8d99e9766fda076933765f80eb5b0fb1ba61308dbecd80b2b7813fa1524f7483",
+    "after_sha256": "a3e397d90942ce108801c5f431a62c31f477f2eb5ac8922bc47d1433375503f4",
+    "links": [
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 87
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 87
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-2013-undiscovered-self-routledge/SOURCE.md",
+    "before_sha256": "fc6b2971732e365f675ae7de497d4d76503b06170877af070a51bdd40fdb3aba",
+    "after_sha256": "8e451051ba67e9a7bc931cc5893eb279e200c9456afd73eedc6a299f4be78d88",
+    "links": [
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 79
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 134
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE.md",
+    "before_sha256": "1784e9788a1fbe713826c116a1361ca0a53dfb233adc9b5b6520bbe3127a1ce5",
+    "after_sha256": "b9391ec8e9b8fafd18b09a2b6f440786d70f4822b1f27cf017c66196b754ee9a",
+    "links": [
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 82
+      },
+      {
+        "old": "Agent Subjectivity Must Remain Open",
+        "new": "symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+        "status": "title-or-alias-only",
+        "line": 82
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 91
+      },
+      {
+        "old": "Paradox as Cross-Register Hinge",
+        "new": "symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge",
+        "target": "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+        "status": "title-or-alias-only",
+        "line": 92
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 93
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/psychology/lacan/lacan-2017-talking-to-brick-walls/SOURCE.md",
+    "before_sha256": "8660f6da398eec2263ccacb7b95c59e0b70563adeeb0408ceb82c0444a79a583",
+    "after_sha256": "8f2cff9149e4e909fe110a0922229424827a5c0e50a1da3dd1da2ba3256c6bb5",
+    "links": [
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 96
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 96
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 111
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 126
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 141
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 141
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 156
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 171
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 186
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 196
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 196
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 198
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 200
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 202
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 202
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 204
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 206
+      },
+      {
+        "old": "Immutable Gap and Meta-Sign",
+        "new": "symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+        "status": "title-or-alias-only",
+        "line": 208
+      },
+      {
+        "old": "Lacan — Talking to Brick Walls (Price, 2017)",
+        "new": "symbolon/episteme/sources/psychology/lacan/lacan-2017-talking-to-brick-walls/SOURCE|Lacan — Talking to Brick Walls (Price, 2017)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/lacan/lacan-2017-talking-to-brick-walls/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 241
+      },
+      {
+        "old": "Adleman and Vanderwees — Lacan’s Psychoanalytic Rhetoric (2021)",
+        "new": "symbolon/episteme/sources/psychology/adleman/adleman-vanderwees-2021-lacan-rhetoric/SOURCE|Adleman and Vanderwees — Lacan’s Psychoanalytic Rhetoric (2021)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/adleman/adleman-vanderwees-2021-lacan-rhetoric/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 242
+      },
+      {
+        "old": "Darmon — Mathème (1992)",
+        "new": "symbolon/episteme/sources/psychology/darmon/darmon-1992-matheme-ali/SOURCE|Darmon — Mathème (1992)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/darmon/darmon-1992-matheme-ali/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 243
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/psychology/le-bon/le-bon-1895-crowd-popular-mind/SOURCE.md",
+    "before_sha256": "9641a0c545976002edbea571d72f8a9757acc9d77ede1ff2b3e8ecb92e9b59de",
+    "after_sha256": "8a515da7b9036f2598a8188f08bbbc7f21944658324b1eeb120d30cd56eeae91",
+    "links": [
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 70
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 114
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 116
+      },
+      {
+        "old": "Sym-Ballein",
+        "new": "symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+        "status": "title-or-alias-only",
+        "line": 118
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE.md",
+    "before_sha256": "576f34d16ac9878169280fd5d4862e00c131b34d52e45f43eb07919cf468b156",
+    "after_sha256": "0581c683b1b9c31ef6d45dac6f4e6040d70ea58d353a011d605b0e743f740d7b",
+    "links": [
+      {
+        "old": "Counterfeit Gathering",
+        "new": "symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering",
+        "target": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+        "status": "title-or-alias-only",
+        "line": 93
+      },
+      {
+        "old": "Counterfeit Gathering",
+        "new": "symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering",
+        "target": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+        "status": "title-or-alias-only",
+        "line": 121
+      },
+      {
+        "old": "Counterfeit Gathering",
+        "new": "symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering",
+        "target": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+        "status": "title-or-alias-only",
+        "line": 135
+      },
+      {
+        "old": "Counterfeit Gathering",
+        "new": "symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering",
+        "target": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+        "status": "title-or-alias-only",
+        "line": 199
+      },
+      {
+        "old": "Counterfeit Gathering",
+        "new": "symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering",
+        "target": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+        "status": "title-or-alias-only",
+        "line": 201
+      },
+      {
+        "old": "Counterfeit Gathering",
+        "new": "symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering",
+        "target": "submission-package/essay/symbolon/episteme/concepts/counterfeit-gathering.md",
+        "status": "title-or-alias-only",
+        "line": 202
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2022-resist-machine-apocalypse/SOURCE.md",
+    "before_sha256": "de5808ba7b6ca46bc2e258c2e1338e4d2c29c1a04567a13182f07cb494941c7b",
+    "after_sha256": "045ffed8f7b0c75504d556e1229f7c94d2a2389f080e962dc23874738f014b60",
+    "links": [
+      {
+        "old": "mcgilchrist-2009-master-emissary",
+        "new": "symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE|mcgilchrist-2009-master-emissary",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 117
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/psychology/smythe/smythe-2013-dialogical-jung/SOURCE.md",
+    "before_sha256": "13f78c56551aecddabd8690c7a42e083eaa53231a446df7f5e43c1c49963cb3f",
+    "after_sha256": "6074ec01966ec9ef2f8f5be8a5993164e80737c0c7857a747bed4b301383e1ac",
+    "links": [
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 85
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 99
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 105
+      },
+      {
+        "old": "Arche-Topos as Differential Field",
+        "new": "symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field",
+        "target": "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+        "status": "title-or-alias-only",
+        "line": 107
+      }
+    ]
+  },
+  {
+    "source": "submission-package/essay/symbolon/episteme/sources/source-intake-queue.md",
+    "before_sha256": "e238837718d5a239cfad4385a9b7674c61d6ec16b1728c63139e5317d8fbe18b",
+    "after_sha256": "244c1e35f5143a7d399446272bda356faf23ab0fc4a75cdbb1b90e1eb51ac17a",
+    "links": [
+      {
+        "old": "Eastern Corpus Program — Return of Zero",
+        "new": "symbolon/episteme/sources/eastern-corpus-program|Eastern Corpus Program — Return of Zero",
+        "target": "submission-package/essay/symbolon/episteme/sources/eastern-corpus-program.md",
+        "status": "title-or-alias-only",
+        "line": 19
+      },
+      {
+        "old": "Heidegger — The Question Concerning Technology and Other Essays (Lovitt, 1977)",
+        "new": "symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE|Heidegger — The Question Concerning Technology and Other Essays (Lovitt, 1977)",
+        "target": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 42
+      },
+      {
+        "old": "heidegger-1966-discourse-on-thinking",
+        "new": "symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE",
+        "target": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 42
+      },
+      {
+        "old": "heidegger-1975-early-greek-thinking",
+        "new": "symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1975-early-greek-thinking/SOURCE",
+        "target": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1975-early-greek-thinking/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 42
+      },
+      {
+        "old": "Baudrillard — Forget Foucault (1977)",
+        "new": "symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE|Baudrillard — Forget Foucault (1977)",
+        "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 56
+      },
+      {
+        "old": "Baudrillard — Symbolic Exchange and Death (1976)",
+        "new": "symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE|Baudrillard — Symbolic Exchange and Death (1976)",
+        "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 56
+      },
+      {
+        "old": "Baudrillard — Simulacra and Simulation (1981)",
+        "new": "symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE|Baudrillard — Simulacra and Simulation (1981)",
+        "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 56
+      },
+      {
+        "old": "Baudrillard — Fatal Strategies (1983)",
+        "new": "symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE|Baudrillard — Fatal Strategies (1983)",
+        "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 56
+      },
+      {
+        "old": "Baudrillard — The Transparency of Evil (1990)",
+        "new": "symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE|Baudrillard — The Transparency of Evil (1990)",
+        "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 56
+      },
+      {
+        "old": "Foucault — The History of Sexuality, Volume 1 (1976)",
+        "new": "symbolon/episteme/sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/SOURCE|Foucault — The History of Sexuality, Volume 1 (1976)",
+        "target": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 56
+      },
+      {
+        "old": "detienne-vernant-1978-cunning-intelligence",
+        "new": "symbolon/episteme/sources/classical-philology/detienne/detienne-vernant-1978-cunning-intelligence/SOURCE",
+        "target": "submission-package/essay/symbolon/episteme/sources/classical-philology/detienne/detienne-vernant-1978-cunning-intelligence/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 61
+      },
+      {
+        "old": "burkert-1960-lied-ares-aphrodite",
+        "new": "symbolon/episteme/sources/classical-philology/burkert/burkert-1960-lied-ares-aphrodite/SOURCE",
+        "target": "submission-package/essay/symbolon/episteme/sources/classical-philology/burkert/burkert-1960-lied-ares-aphrodite/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 61
+      },
+      {
+        "old": "brown-1989-ares-aphrodite-laughter",
+        "new": "symbolon/episteme/sources/classical-philology/brown/brown-1989-ares-aphrodite-laughter/SOURCE",
+        "target": "submission-package/essay/symbolon/episteme/sources/classical-philology/brown/brown-1989-ares-aphrodite-laughter/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 61
+      },
+      {
+        "old": "Phillips — Moicheia and the Unity of Greek Law",
+        "new": "symbolon/episteme/sources/classical-philology/phillips/phillips-moicheia-unity-greek-law/SOURCE|Phillips — Moicheia and the Unity of Greek Law",
+        "target": "submission-package/essay/symbolon/episteme/sources/classical-philology/phillips/phillips-moicheia-unity-greek-law/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 61
+      },
+      {
+        "old": "Dushun (attributed) — The Jewel Net of Indra (Cleary, 2000)",
+        "new": "symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE|Dushun (attributed) — The Jewel Net of Indra (Cleary, 2000)",
+        "target": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 62
+      },
+      {
+        "old": "Van Norden and Jones — Huayan Buddhism (SEP, 2024)",
+        "new": "symbolon/episteme/sources/indian-philosophy/van-norden/van-norden-jones-2024-huayan-sep/SOURCE|Van Norden and Jones — Huayan Buddhism (SEP, 2024)",
+        "target": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/van-norden/van-norden-jones-2024-huayan-sep/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 62
+      },
+      {
+        "old": "priest-2010-logic-catuskoti",
+        "new": "symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 69
+      },
+      {
+        "old": "priest-2018-fifth-corner",
+        "new": "symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 69
+      },
+      {
+        "old": "garfield-priest-2003-limits-of-thought",
+        "new": "symbolon/episteme/sources/mathematics-logic/garfield/garfield-priest-2003-limits-of-thought/SOURCE",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/garfield/garfield-priest-2003-limits-of-thought/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 69
+      },
+      {
+        "old": "kapsner-2020-cutting-corners",
+        "new": "symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 69
+      },
+      {
+        "old": "siderits-tillemans-chakrabarti-2011-apoha",
+        "new": "symbolon/episteme/sources/indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE",
+        "target": "submission-package/essay/symbolon/episteme/sources/indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 69
+      },
+      {
+        "old": "priest-2014-one",
+        "new": "symbolon/episteme/sources/mathematics-logic/priest/priest-2014-one/SOURCE",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/priest/priest-2014-one/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 69
+      },
+      {
+        "old": "Freud — “The Unconscious” (1915; Strachey trans. 1957)",
+        "new": "symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/SOURCE|Freud — “The Unconscious” (1915; Strachey trans. 1957)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 82
+      },
+      {
+        "old": "Jung — Psychology and Religion: West and East, CW 11 (1969)",
+        "new": "symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE|Jung — Psychology and Religion: West and East, CW 11 (1969)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 82
+      },
+      {
+        "old": "Neumann — The Origins and History of Consciousness (1954)",
+        "new": "symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE|Neumann — The Origins and History of Consciousness (1954)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 82
+      },
+      {
+        "old": "Atmanspacher — Pauli–Jung Conjecture (2020)",
+        "new": "symbolon/episteme/sources/physics/atmanspacher/atmanspacher-2020-pauli-jung-conjecture/SOURCE|Atmanspacher — Pauli–Jung Conjecture (2020)",
+        "target": "submission-package/essay/symbolon/episteme/sources/physics/atmanspacher/atmanspacher-2020-pauli-jung-conjecture/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 83
+      },
+      {
+        "old": "Smythe — Dialogical Jung (2013)",
+        "new": "symbolon/episteme/sources/psychology/smythe/smythe-2013-dialogical-jung/SOURCE|Smythe — Dialogical Jung (2013)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/smythe/smythe-2013-dialogical-jung/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 83
+      },
+      {
+        "old": "Courtney — Salt-Point, Kairos, Chaos (2019)",
+        "new": "symbolon/episteme/sources/psychology/courtney/courtney-2019-salt-point-kairos-chaos/SOURCE|Courtney — Salt-Point, Kairos, Chaos (2019)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/courtney/courtney-2019-salt-point-kairos-chaos/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 83
+      },
+      {
+        "old": "Darmon — Mathème (1992)",
+        "new": "symbolon/episteme/sources/psychology/darmon/darmon-1992-matheme-ali/SOURCE|Darmon — Mathème (1992)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/darmon/darmon-1992-matheme-ali/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 83
+      },
+      {
+        "old": "Nietzsche — Birth of Tragedy (Haussmann, 1910)",
+        "new": "symbolon/episteme/sources/phenomenology-continental-philosophy/nietzsche/nietzsche-1910-birth-tragedy-haussmann/SOURCE|Nietzsche — Birth of Tragedy (Haussmann, 1910)",
+        "target": "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/nietzsche/nietzsche-1910-birth-tragedy-haussmann/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 83
+      },
+      {
+        "old": "Lacan — Talking to Brick Walls (Price, 2017)",
+        "new": "symbolon/episteme/sources/psychology/lacan/lacan-2017-talking-to-brick-walls/SOURCE|Lacan — Talking to Brick Walls (Price, 2017)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/lacan/lacan-2017-talking-to-brick-walls/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 85
+      },
+      {
+        "old": "mcgilchrist-2009-master-emissary",
+        "new": "symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 95
+      },
+      {
+        "old": "mcgilchrist-2022-resist-machine-apocalypse",
+        "new": "symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2022-resist-machine-apocalypse/SOURCE",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2022-resist-machine-apocalypse/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 95
+      },
+      {
+        "old": "jorjani-2016-prometheus-atlas",
+        "new": "symbolon/episteme/sources/media-technology-philosophy/jorjani/jorjani-2016-prometheus-atlas/SOURCE",
+        "target": "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/jorjani/jorjani-2016-prometheus-atlas/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 95
+      },
+      {
+        "old": "Frank, Gleiser, and Thompson — The Blind Spot (2024)",
+        "new": "symbolon/episteme/sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE|Frank, Gleiser, and Thompson — The Blind Spot (2024)",
+        "target": "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 109
+      },
+      {
+        "old": "Russell — Mathematical Logic as Based on the Theory of Types (1908)",
+        "new": "symbolon/episteme/sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE|Russell — Mathematical Logic as Based on the Theory of Types (1908)",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/russell/russell-1908-theory-types/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 110
+      },
+      {
+        "old": "Gödel — Formally Undecidable Propositions (1931)",
+        "new": "symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE|Gödel — Formally Undecidable Propositions (1931)",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 111
+      },
+      {
+        "old": "Whitehead — Process and Reality (1978 corrected edition)",
+        "new": "symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE|Whitehead — Process and Reality (1978 corrected edition)",
+        "target": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 112
+      },
+      {
+        "old": "Varela — A Calculus for Self-Reference (1975)",
+        "new": "symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE|Varela — A Calculus for Self-Reference (1975)",
+        "target": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 113
+      },
+      {
+        "old": "Kaplan — The Nothing That Is (2000 OUP printing)",
+        "new": "symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE|Kaplan — The Nothing That Is (2000 OUP printing)",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 114
+      },
+      {
+        "old": "Rotman — Signifying Nothing (1987)",
+        "new": "symbolon/episteme/sources/mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE|Rotman — Signifying Nothing (1987)",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 115
+      },
+      {
+        "old": "Bohm — Wholeness and the Implicate Order (1980)",
+        "new": "symbolon/episteme/sources/process-systems-theory/bohm/bohm-1980-wholeness-implicate-order/SOURCE|Bohm — Wholeness and the Implicate Order (1980)",
+        "target": "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-1980-wholeness-implicate-order/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 116
+      },
+      {
+        "old": "Van Eenwyk — Archetypes, the Strange Attractors of the Psyche (1991)",
+        "new": "symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1991-strange-attractors/SOURCE|Van Eenwyk — Archetypes, the Strange Attractors of the Psyche (1991)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1991-strange-attractors/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 117
+      },
+      {
+        "old": "Bache — LSD and the Mind of the Universe (2019)",
+        "new": "symbolon/episteme/sources/psychology/bache/bache-2019-lsd-mind-universe/SOURCE|Bache — LSD and the Mind of the Universe (2019)",
+        "target": "submission-package/essay/symbolon/episteme/sources/psychology/bache/bache-2019-lsd-mind-universe/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 118
+      },
+      {
+        "old": "Bradley and Terry — Rank Analysis of Incomplete Block Designs (1952)",
+        "new": "symbolon/episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE|Bradley and Terry — Rank Analysis of Incomplete Block Designs (1952)",
+        "target": "submission-package/essay/symbolon/episteme/sources/mathematics-logic/bradley/bradley-terry-1952-paired-comparisons/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 119
+      },
+      {
+        "old": "Ouyang et al. — Training Language Models to Follow Instructions with Human Feedback (2022)",
+        "new": "symbolon/episteme/sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE|Ouyang et al. — Training Language Models to Follow Instructions with Human Feedback (2022)",
+        "target": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/ouyang/ouyang-et-al-2022-instructgpt/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 119
+      },
+      {
+        "old": "Rafailov et al. — Direct Preference Optimization (2023)",
+        "new": "symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE|Rafailov et al. — Direct Preference Optimization (2023)",
+        "target": "submission-package/essay/symbolon/episteme/sources/computer-science-ml/rafailov/rafailov-et-al-2023-dpo/SOURCE.md",
+        "status": "title-or-alias-only",
+        "line": 119
+      }
+    ]
+  }
+]

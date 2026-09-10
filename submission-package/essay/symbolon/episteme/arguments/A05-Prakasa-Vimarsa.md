@@ -1,11 +1,23 @@
 ---
 title: A05 — Prakāśa–Vimarśa
+aliases:
+  - "Prakāśa-Vimarśa"
+  - "Prakasha-Vimarsha"
+  - "Trika"
+  - "Kartṛ-Pole"
+  - "Kārya"
+  - "Śiva-Śakti-Object Triad"
+record_id: A05
 record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from
 ---
 # A05 — Prakāśa–Vimarśa
+
+<!-- paired-field-navigation -->
+[Argument field](README.md) · [Other face: A05′ — Lights, Camera, Action](../conjugate/A05-prime-Lights-Camera-Action.md) · [Shared A/C root](../conjugate/AC.md)
+<!-- /paired-field-navigation -->
 
 **Standing:** canonical semantic Argument; historical Argument 15 and live `09-prakasa-vimarsa.md` remain provenance.
 
@@ -17,7 +29,7 @@ Prakāśa–Vimarśa gives the essay its strongest metaphysical account of manif
 
 This matters because the formal field has already reached a limit that mathematics alone cannot turn into a metaphysics. A03 and A04 show a determining field that cannot be exhausted by its determinations and can become partially transparent through them. Prakāśa–Vimarśa supplies a tradition-specific ontological warrant for reading this structure positively: appearance and reflexive differentiation are inseparable powers of one field. The relation is a refraction of the wider 0/1 problem; it does not retroactively derive QL or make Kashmir Śaivism responsible for Taylor's notation.
 
-The [[submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE|Dyczkowski source house]] sources the developed distinction through its page-labelled transcript. On pp.69–70, manifestation by itself leaves experience unaccounted for: a common mirror or crystal can display an image without knowing its display. Vimarśa is the luminosity's own power of feeling, examining and knowing what appears within it. A second consciousness required to reveal the first would need a third, then a fourth. Self-apprehension belongs to the original appearing rather than completing it from outside.
+The [[symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE|Dyczkowski source house]] sources the developed distinction through its page-labelled transcript. On pp.69–70, manifestation by itself leaves experience unaccounted for: a common mirror or crystal can display an image without knowing its display. Vimarśa is the luminosity's own power of feeling, examining and knowing what appears within it. A second consciousness required to reveal the first would need a third, then a fourth. Self-apprehension belongs to the original appearing rather than completing it from outside.
 
 The mirror retains its other limit. In the Śaiva account developed on pp.66–68, an ordinary reflection depends on an object outside the mirror; consciousness supplies no such outside from which the universe could be deposited into it. The power that generates the reflections also hosts them. The image therefore figures real differentiation within a field whose source remains undivided. Light, mirror, displayed world and reflective knowing belong to the whole relation; removing the knowing would turn this account into the inert apparatus it expressly distinguishes.
 
@@ -33,7 +45,7 @@ The same passage gives reflexivity a concrete temporal body. Experience leaves r
 
 The p.74 transcript specifies four operations of vimarśa: consciousness negates its own nature; identifies with something else; merges the two; then denies them after their merger. The first pair makes the psychophysical individual appear as distinct from its objects and other subjects. The holding-together lets subject and object, and different objects, belong to one cognitive field. Their union returns diversity into awareness of the universal subject. The fourth operation prevents the merger itself from becoming the final fixed determination.
 
-This operation is articulated through three levels: *bheda*, division; *bhedābheda*, unity-in-difference through the means of knowledge; and *abheda*, undivided unity. The four operations and three levels are different accountings. Q27's [[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|Buddhist–Śaiva development]] compares the four operations against Prakāśa and Vimarśa as two conditions, giving an authorial `4+2` cross-reading. [[A18-Primordial-Symbolon-and-Its-Eight-Determinations|A18]] grounds the native count and complete eight-turn traversal before this comparison. Dyczkowski does not teach QL; the native derivation does not borrow its authority from counting the source's terms.
+This operation is articulated through three levels: *bheda*, division; *bhedābheda*, unity-in-difference through the means of knowledge; and *abheda*, undivided unity. The four operations and three levels are different accountings. Q27's [[quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|Buddhist–Śaiva development]] compares the four operations against Prakāśa and Vimarśa as two conditions, giving an authorial `4+2` cross-reading. [[A18-Primordial-Symbolon-and-Its-Eight-Determinations|A18]] grounds the native count and complete eight-turn traversal before this comparison. Dyczkowski does not teach QL; the native derivation does not borrow its authority from counting the source's terms.
 
 ## #4
 
@@ -55,7 +67,7 @@ The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WH
 
 The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-sophia-logos-shakti) **compares** receiving and recognising with active reflexive power: the maternal matrix already acts in bearing what appears. Taylor’s Sophia–Logos–Śakti inquiry opens this crossing after the native relation is established. Jung’s comparison and the assistant’s fixed three-office allocation retain different authority; the latter is not installed as doctrine.
 
-The [stained-glass whole’s source boundary](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-source-boundaries) **qualifies** the optical crossing through Dyczkowski’s lattice-window and mirror discussion. The authored sun outside the aperture cannot establish a metaphysical Original outside consciousness, and an inert display does not perform Vimarśa’s self-apprehension. The luminous/reflexive operation remains fully active while the particular optical simile retains its limits.
+The [stained-glass whole’s source boundary](../../mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-source-boundaries) **qualifies** the optical crossing through Dyczkowski’s lattice-window and mirror discussion. The authored sun outside the aperture cannot establish a metaphysical Original outside consciousness, and an inert display does not perform Vimarśa’s self-apprehension. The luminous/reflexive operation remains fully active while the particular optical simile retains its limits.
 
 Recognition returns the differentiated field to its source while preserving what differentiation made possible. [[C13-Prakasa-Vimarsa|C13]] defines the reusable pair; [[C19-Pratyabhijna-Recognition|C19]] defines the recognitive return; [[A32-Reflective-Field-The-Mirror-That-Moves-First|A32]] extends reflexive transformation into the field that changes through its own articulation. [[C43-Computational-Vimarsa|C43]] defines the technical office within that extension: outputs can be returned to their sources, conditions and consequences without the apparatus thereby receiving a phenomenal verdict.
 

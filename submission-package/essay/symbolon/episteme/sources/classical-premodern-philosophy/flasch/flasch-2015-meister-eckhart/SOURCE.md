@@ -81,7 +81,7 @@ Yale University Press identifies the selected 2015 English hardcover as Kurt Fla
 ## Consumption
 
 - **Stations:** §0/1/#3–4; §1; §4/#3; §5→0.
-- **Arguments:** [[Immutable Gap and Meta-Sign]]; [[Paradox as Cross-Register Hinge]]; [[Vāk]].
+- **Arguments:** [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]]; [[symbolon/episteme/arguments/A06-Vak|Vāk]].
 - **Source relation:** supplies the current historical-philosophical witness; page-level extracts will distinguish Flasch's analysis from direct Eckhart quotation.
 
 ## Quote and excerpt ledger

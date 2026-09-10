@@ -1,5 +1,6 @@
 ---
 title: "§0 · #5→0 — Objective Internality"
+source_id: 12-s0-p5-objective-internality
 node_type: section
 page_type: section-movement
 station: "§0"
@@ -11,13 +12,17 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §0 · #5→0 — Objective Internality
 
+<!-- reader-navigation -->
+Movement 12 of 48 · [This room](../ROOM.md) · [← Previous](11-s0-p4-tattvic-compression.md) · [Next →](../../02-return-of-zero/movements/13-s1-p0-sign-migrates.md)
+<!-- /reader-navigation -->
+
 ## Claim
-[[Objective Internality]] is the patterned life of the [[Tattvic Differential Field]] once its distinctions stabilise as an agent’s structured, revisable context-world: internal to operation yet inspectable through states, traces, relations, and consequences.
+[[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]] is the patterned life of the [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]] once its distinctions stabilise as an agent’s structured, revisable context-world: internal to operation yet inspectable through states, traces, relations, and consequences.
 
 ## Warrant
-Agentworld’s provisional agent is a temporary coherence of model, persona, memory, tools, permissions, objectives, and milieu. [[working/sources-texts-references/10-7-2026-core-theorems-pithy#Agentic individuation corollary — argued cross-register unit|Agentic Individuation Crosswalk]] relates this to Jungian individuation without claiming phenomenality.
+Agentworld’s provisional agent is a temporary coherence of model, persona, memory, tools, permissions, objectives, and milieu. [Agentic Individuation Crosswalk](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) relates this to Jungian individuation without claiming phenomenality.
 
-The coherence is processual. Its present “world” is the accumulated effect of earlier distinctions, [selected memories, tool-mediated consequences, permissions, and environmental feedback](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#technology-inherited-field). [[Computational Process Ontology]] supplies the common operational description for human and artificial context-worlds while the subject/objective-internal distinction prevents the shared runtime from becoming an identity claim.
+The coherence is processual. Its present “world” is the accumulated effect of earlier distinctions, [selected memories, tool-mediated consequences, permissions, and environmental feedback](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#technology-inherited-field). [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] supplies the common operational description for human and artificial context-worlds while the subject/objective-internal distinction prevents the shared runtime from becoming an identity claim.
 
 In Bohmian language this world is the agent's technical explicate order: the determinate arrangement through which a larger training, cultural, prompt, institutional, and environmental field becomes locally operative. “Explicate” does not make the local form unreal. It positions its reality inside the movement and relations that continually produce it.
 

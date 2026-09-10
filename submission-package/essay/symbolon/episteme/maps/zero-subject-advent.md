@@ -1,5 +1,6 @@
 ---
 title: "The Advent of Zero, Subject, and Integral Logic — Transverse Thread"
+source_id: zero-subject-advent
 node_type: path
 register: episteme
 page_type: argument-path
@@ -42,4 +43,4 @@ This path follows the historical emergence of the relation QL makes explicit. Th
 9. [[35-s4-p4-gebser-apollo-dionysus|§4 · #4 — Apollo Through Dionysus]] gives the integral mutation its formal payoff: the `180°` perspectival triangle opens into the `360°` contextual field, retaining the mental-rational achievement inside a higher diaphanous relation.
 10. [[44-s50-p1-ql-mef-bimba-harness|§5→0 · #1 — QL, MEF, Bimba, and Harness]] and [[48-s50-p5-ahi-planetary-return|§5→0 · #5→0 — AHI and Planetary Return]] make the advent contemporary. Technical systems externalise the contextual conditions of intelligence; QL gives human and machine work a grammar of return without installing a technical system as the owner of its own ground.
 
-[[Mono–Poly and the Two Ones — Transverse Thread]] gives the ontological kernel. This path gives the historical morphology through which the kernel becomes explicit. [[Trust, Faith, and the Formal Limit — Transverse Thread]] gives the lived relation at the point where the formal return meets a finite being's need to continue.
+[[symbolon/episteme/maps/mono-poly-two-ones|Mono–Poly and the Two Ones — Transverse Thread]] gives the ontological kernel. This path gives the historical morphology through which the kernel becomes explicit. [[symbolon/episteme/maps/trust-faith-formal-limit|Trust, Faith, and the Formal Limit — Transverse Thread]] gives the lived relation at the point where the formal return meets a finite being's need to continue.

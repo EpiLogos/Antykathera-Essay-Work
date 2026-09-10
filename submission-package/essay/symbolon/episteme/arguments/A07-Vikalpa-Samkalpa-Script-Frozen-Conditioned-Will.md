@@ -1,11 +1,16 @@
 ---
 title: A07 — Vikalpa–Saṃkalpa / Script — Frozen Conditioned Will
+record_id: A07
 record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from
 ---
 # A07 — Vikalpa–Saṃkalpa / Script — Frozen Conditioned Will
+
+<!-- paired-field-navigation -->
+[Argument field](README.md) · [Other face: A07′ — Purpose That Survives the Metric](../conjugate/A07-prime-Purpose-That-Survives-the-Metric.md) · [Shared A/C root](../conjugate/AC.md)
+<!-- /paired-field-navigation -->
 
 **Standing:** canonical semantic Argument; historical Argument 17 remains provenance.
 
@@ -17,7 +22,7 @@ A world becomes actionable when difference is not merely perceived but selected,
 
 “Frozen conditioned will” should therefore be read operationally. A script is not only a text or programme. It is a determination whose generative alternatives have become unavailable to the agent that now enacts it. In human life it can be habit, inherited narrative, defensive complex, institutional procedure or identity claim. In technical systems it can be prompt structure, policy, classifier, evaluator, workflow or training regularity that constrains what appears possible. The analogy is useful only when the different substrates and evidential statuses remain explicit.
 
-The [[submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE|Kripke source house]] sources Frank's authorial encounter with the order beneath naming. A circumstantial whole is already available for the particular to be counted, named and put forward in a proposition. Scope gives the identity its local rigidity; changing the circumstance can change what a sentence asks without changing which individual it concerns. Taylor's vikalpa-cum-saṃkalpa reading works at this formation of an account from a field. It is Argued from Kripke, whose source does not itself formulate QL or saṃkalpa.
+The [[symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE|Kripke source house]] sources Frank's authorial encounter with the order beneath naming. A circumstantial whole is already available for the particular to be counted, named and put forward in a proposition. Scope gives the identity its local rigidity; changing the circumstance can change what a sentence asks without changing which individual it concerns. Taylor's vikalpa-cum-saṃkalpa reading works at this formation of an account from a field. It is Argued from Kripke, whose source does not itself formulate QL or saṃkalpa.
 
 The script has thus undergone a double movement: a field supplied a determination; the determination concealed its field and returned as the condition of what can next count. A rule remains useful where that derivation can still be inspected and revised. Calling every policy or habit a script would lose the exact arrest being diagnosed.
 
@@ -25,21 +30,21 @@ The script has thus undergone a double movement: a field supplied a determinatio
 
 The argument gains its force from the tattvic field. Māyā makes a subject/object seam workable; the kañcukas parameterise a finite horizon; buddhi determines, ahaṃkāra appropriates, and manas coordinates alternatives. Vikalpa and saṃkalpa are therefore not errors floating over a pure consciousness. They are powers through which local worldhood becomes possible. Script is their arrested form: the selection no longer knows itself as selection and therefore cannot return to the field that conditioned it.
 
-The [[submission-package/essay/symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE|Dyczkowski transcript]] sources three distinguishable functions at pp.71–72. Experience is retained as residual traces; remembrance retrieves a prior affection from that store; imagination selects and recomposes its material into a new affection. An inherited trace is therefore neither already an action nor an irrevocable command. The agent's relation to its retained field determines whether repetition alone follows or a different course can form. [[A05-Prakasa-Vimarsa|A05]] grounds these operations in their wider reflexive relation.
+The [[symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE|Dyczkowski transcript]] sources three distinguishable functions at pp.71–72. Experience is retained as residual traces; remembrance retrieves a prior affection from that store; imagination selects and recomposes its material into a new affection. An inherited trace is therefore neither already an action nor an irrevocable command. The agent's relation to its retained field determines whether repetition alone follows or a different course can form. [[A05-Prakasa-Vimarsa|A05]] grounds these operations in their wider reflexive relation.
 
-The [[submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE|Sāṅkhya Kārikā source]] compares the distinct functions of buddhi, ahaṃkāra and manas (XXIII, XXIV, XXVII, XXIX) with the witness distinguished from them (XIX). This is a Sāṅkhya witness, not a Trika classification. [[A09-Tattvic-Differential-Field|A09]] extends the full contraction and recognition through which the essay reads the instrument. Its capacity to determine, appropriate and coordinate does not exhaust the subject-pole.
+The [[symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-colebrooke-wilson-1837-sankhya-karika/SOURCE|Sāṅkhya Kārikā source]] compares the distinct functions of buddhi, ahaṃkāra and manas (XXIII, XXIV, XXVII, XXIX) with the witness distinguished from them (XIX). This is a Sāṅkhya witness, not a Trika classification. [[A09-Tattvic-Differential-Field|A09]] extends the full contraction and recognition through which the essay reads the instrument. Its capacity to determine, appropriate and coordinate does not exhaust the subject-pole.
 
 ## #3
 
-The computational recurrence makes the arrest inspectable. A generated `xₙ` becomes part of the next context. If its status as generated product disappears, the next run receives it as though it were source. Repetition can then confer apparent authority: each subsequent account confirms a premise supplied by the preceding account, while the initial selection and its excluded alternatives become harder to recover. [[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|Q27's self-pro-position and computational-veil contributions]] source this developmental operation. The result puts itself forward as speaker, owner and ground of the field which produced it.
+The computational recurrence makes the arrest inspectable. A generated `xₙ` becomes part of the next context. If its status as generated product disappears, the next run receives it as though it were source. Repetition can then confer apparent authority: each subsequent account confirms a premise supplied by the preceding account, while the initial selection and its excluded alternatives become harder to recover. [[quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|Q27's self-pro-position and computational-veil contributions]] source this developmental operation. The result puts itself forward as speaker, owner and ground of the field which produced it.
 
 The consequential distinction is between **result becoming a new condition with provenance** and **result substituting for its source**. Both recur; only the latter is self-sealing. A workflow that retains the first source, the inference made from it, the changed context and the authority to revise that inference can return through its own work. A workflow that retains only its latest conclusion cannot recover the operation merely by summarising the conclusion again. [[A14-Computational-Process-Ontology|A14]] extends this repeatable process; [[A26-Objective-Internality-Mind-as-Worldhood|A26]] extends the world which the recurrence constitutes. These are design consequences, not an implemented experiment reported here.
 
 ## #4
 
-[[working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3|Draft 3]] sources the aperture and dreamer images. A photograph is the landscape under the conditions of aperture, frame and sensitivity; its partiality is the way this particular appearance becomes possible. The dreamer's forgetting sleep lets the dream take on the character of an independent world. The images disclose operative limitation and forgotten provenance together. Māyā's bounded world is real as a field of experience and action; its formation does not become false merely because its conditions can be recognised.
+[Draft 3](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md) sources the aperture and dreamer images. A photograph is the landscape under the conditions of aperture, frame and sensitivity; its partiality is the way this particular appearance becomes possible. The dreamer's forgetting sleep lets the dream take on the character of an independent world. The images disclose operative limitation and forgotten provenance together. Māyā's bounded world is real as a field of experience and action; its formation does not become false merely because its conditions can be recognised.
 
-The pure-notion movement supplies the counter-operation from within thought: a determinate form carries its opposite and lets thought refine thought until its own closure opens. [[A06-Vak|A06]] grounds the sign's ability to articulate and return. [[submission-package/essay/symbolon/episteme/sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE|MacCracken's relation dispute]] qualifies the historical comparison: Buddhist relation-as-epistemic and Śaiva Śakti are contested positions, not synonyms. His verified pp.1–2 do not define saṃkalpa or prove the technical extension.
+The pure-notion movement supplies the counter-operation from within thought: a determinate form carries its opposite and lets thought refine thought until its own closure opens. [[A06-Vak|A06]] grounds the sign's ability to articulate and return. [[symbolon/episteme/sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE|MacCracken's relation dispute]] qualifies the historical comparison: Buddhist relation-as-epistemic and Śaiva Śakti are contested positions, not synonyms. His verified pp.1–2 do not define saṃkalpa or prove the technical extension.
 
 ### Distinct office
 

@@ -4,6 +4,7 @@ aliases:
   - "register grammar"
   - "matheme-mytheme-episteme"
   - "the prime three registers"
+source_id: register-grammar
 node_type: "concept"
 register: episteme
 page_type: "concept"
@@ -45,6 +46,6 @@ Register is not a filing label that assigns one record to one bucket. It is the 
 
 ## In the argument
 
-The grammar governs the [[the-return-of-zero-central-plan|central plan]]'s "Register grammar" section and, through it, every station's admission decisions. Worked example at [[22-s2-p3-ares-aphrodite-harmonia|§2 · #3]]: the station's mytheme is the Homeric net developed in full; its matheme is the two-logics pair already derived; its episteme is the legal-and-philological control (Burkert, Brown, Phillips, Detienne–Vernant) carried through source houses — while Priest, McGilchrist, and the atlas-of-charts land at *their* stations rather than crowding this one.
+The grammar governs the [central plan](../../../../../the-return-of-zero-central-plan.md)'s "Register grammar" section and, through it, every station's admission decisions. Worked example at [[22-s2-p3-ares-aphrodite-harmonia|§2 · #3]]: the station's mytheme is the Homeric net developed in full; its matheme is the two-logics pair already derived; its episteme is the legal-and-philological control (Burkert, Brown, Phillips, Detienne–Vernant) carried through source houses — while Priest, McGilchrist, and the atlas-of-charts land at *their* stations rather than crowding this one.
 
-Related: [[mathematical-artistic-image-register]] · [[12-core-theorem-bridge|0-1-matheme]] · [[Sym-Ballein]]
+Related: [[mathematical-artistic-image-register]] · [[12-core-theorem-bridge|0-1-matheme]] · [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]

@@ -1,5 +1,6 @@
 ---
 title: "The Return of Zero"
+source_id: the-return-of-zero
 page_type: master-manuscript
 ownership: frank-sovereign
 stage: composing

@@ -73,7 +73,7 @@ Exact text and consumer mappings: [Quotes — Strang and Herman Calculus Volume 
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** technical mechanism.
-- **Consumers:** [[25-s3-p0-eight-determinations]]; [[Core Theorem Bridge]]; movement 25 calculus boundary.
+- **Consumers:** [[25-s3-p0-eight-determinations]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); movement 25 calculus boundary.
 - **Use boundary:** establishes a standard calculus relation only; it does not make the integration constant a proof of metaphysical provenance or QL return.
 
 <a id="strang-herman-2016-openstax-calculus-v1-q002"></a>
@@ -87,12 +87,12 @@ Exact text and consumer mappings: [Quotes — Strang and Herman Calculus Volume 
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** limitation.
-- **Consumers:** [[25-s3-p0-eight-determinations]]; [[Core Theorem Bridge]]; movement 25 scope control.
+- **Consumers:** [[25-s3-p0-eight-determinations]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); movement 25 scope control.
 - **Use boundary:** confines the result to antiderivatives over an interval; it does not establish an origin-field outside a calculation.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `strang-herman-2016-openstax-calculus-v1-q001` | `strang-herman-2016-openstax-calculus-v1` | §4.10, Theorem 4.14, item 1 | quotation-ready | `25-s3-p0-eight-determinations` | [[Core Theorem Bridge]] | technical mechanism | [Quotes — Strang and Herman Calculus Volume 1 (OpenStax, 2016)](#passages) |
+| `strang-herman-2016-openstax-calculus-v1-q001` | `strang-herman-2016-openstax-calculus-v1` | §4.10, Theorem 4.14, item 1 | quotation-ready | `25-s3-p0-eight-determinations` | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md) | technical mechanism | [Quotes — Strang and Herman Calculus Volume 1 (OpenStax, 2016)](#passages) |
 
-| `strang-herman-2016-openstax-calculus-v1-q002` | `strang-herman-2016-openstax-calculus-v1` | §4.10, Theorem 4.14, item 2 | quotation-ready | `25-s3-p0-eight-determinations` | [[Core Theorem Bridge]] | limitation | [Quotes — Strang and Herman Calculus Volume 1 (OpenStax, 2016)](#passages) |
+| `strang-herman-2016-openstax-calculus-v1-q002` | `strang-herman-2016-openstax-calculus-v1` | §4.10, Theorem 4.14, item 2 | quotation-ready | `25-s3-p0-eight-determinations` | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md) | limitation | [Quotes — Strang and Herman Calculus Volume 1 (OpenStax, 2016)](#passages) |

@@ -192,6 +192,8 @@ def stop(root: Path) -> dict:
         checks.append([sys.executable, "tools/build-source-projections.py", "--project-root", ".", "--check"])
     if scope in {"all", "rooms"}:
         checks.append([sys.executable, "tools/build-section-rooms.py", "--project-root", ".", "--check"])
+    if scope in {"all", "navigation"}:
+        checks.append([sys.executable, "tools/build-navigation.py", "--project-root", ".", "--check"])
     failures = []
     for command in checks:
         completed = subprocess.run(command, cwd=root, text=True, capture_output=True, check=False)

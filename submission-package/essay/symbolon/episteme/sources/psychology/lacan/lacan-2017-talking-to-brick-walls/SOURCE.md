@@ -93,7 +93,7 @@ Exact text, source-match status, and consumer mappings: [Quotes — Lacan Talkin
 - **Source relation:** extracted, pending direct-edition collation.
 - **Evidential action:** contextualises.
 - **Argument function:** authorial provenance / qualification of address and transmission.
-- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[Immutable Gap and Meta-Sign]]; [[Arche-Topos as Differential Field]]; movement 34’s `S/s ↔ X/x` argued crosswalk.
+- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; movement 34’s `S/s ↔ X/x` argued crosswalk.
 - **Use boundary:** establishes Lacan’s brick-wall address in this presentation; it does not establish `S/s = X/x`, a Jungian reading of the wall, a doctrine of the matheme, or any QL relation.
 
 <a id="lacan-2017-talking-to-brick-walls-q002"></a>
@@ -108,7 +108,7 @@ Exact text, source-match status, and consumer mappings: [Quotes — Lacan Talkin
 - **Source relation:** extracted, pending direct-edition collation.
 - **Evidential action:** supports.
 - **Argument function:** primary rhetorical mechanism for mediated address.
-- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[Immutable Gap and Meta-Sign]]; movement 34’s transmission problem.
+- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; movement 34’s transmission problem.
 - **Use boundary:** establishes a local image of echo and tuning; it does not state a doctrine of `S/s`, a matheme, or QL’s general/particular relation.
 
 <a id="lacan-2017-talking-to-brick-walls-q003"></a>
@@ -123,7 +123,7 @@ Exact text, source-match status, and consumer mappings: [Quotes — Lacan Talkin
 - **Source relation:** extracted, pending direct-edition collation.
 - **Evidential action:** qualifies.
 - **Argument function:** limitation on a totalising or transparent reading of formalisation.
-- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[Immutable Gap and Meta-Sign]]; movement 34’s non-closure condition.
+- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; movement 34’s non-closure condition.
 - **Use boundary:** establishes a stated limit internal to discourse; it does not identify the wall with QL’s bar or establish that a matheme escapes its own condition.
 
 <a id="lacan-2017-talking-to-brick-walls-q004"></a>
@@ -138,7 +138,7 @@ Exact text, source-match status, and consumer mappings: [Quotes — Lacan Talkin
 - **Source relation:** extracted, pending direct-edition collation.
 - **Evidential action:** qualifies.
 - **Argument function:** counterpressure against reading the wall as simple solitary monologue or failed communication.
-- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[Immutable Gap and Meta-Sign]]; [[Arche-Topos as Differential Field]]; movement 34’s address/transmission qualification.
+- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; movement 34’s address/transmission qualification.
 - **Use boundary:** establishes a responsive audience within the scene, not reciprocal transparency, an overcoming of the bar, or a formal equivalence of Lacan’s notation with QL.
 
 <a id="lacan-2017-talking-to-brick-walls-q005"></a>
@@ -153,7 +153,7 @@ Exact text, source-match status, and consumer mappings: [Quotes — Lacan Talkin
 - **Source relation:** extracted, pending direct-edition collation.
 - **Evidential action:** supports.
 - **Argument function:** signifier/subject technical context.
-- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[Immutable Gap and Meta-Sign]]; movement 34’s `S/s ↔ X/x` argued crosswalk.
+- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; movement 34’s `S/s ↔ X/x` argued crosswalk.
 - **Use boundary:** establishes the local primacy of the signifier over a presumed subject; it does not state `S/s = X/x`, derive QL, or validate an ontology of the subject.
 
 <a id="lacan-2017-talking-to-brick-walls-q006"></a>
@@ -168,7 +168,7 @@ Exact text, source-match status, and consumer mappings: [Quotes — Lacan Talkin
 - **Source relation:** extracted, pending direct-edition collation.
 - **Evidential action:** supports.
 - **Argument function:** primary formulation / formal-limit context.
-- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[Immutable Gap and Meta-Sign]]; movement 34 matheme context.
+- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; movement 34 matheme context.
 - **Use boundary:** establishes a Lacanian statement about the real and a mathematical route; it does not equate psychoanalysis with mathematics, identify the route with `S/s`, or provide a QL proof.
 
 <a id="lacan-2017-talking-to-brick-walls-q007"></a>
@@ -183,7 +183,7 @@ Exact text, source-match status, and consumer mappings: [Quotes — Lacan Talkin
 - **Source relation:** extracted, pending direct-edition collation.
 - **Evidential action:** qualifies.
 - **Argument function:** formalisation limitation / transition.
-- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[Immutable Gap and Meta-Sign]]; movement 34 matheme limit.
+- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; movement 34 matheme limit.
 - **Use boundary:** establishes the question Lacan asks of mathemes and science; it does not say that his mathemes solve it, that a matheme is universal formal language, or that QL answers it.
 
 ## Promotion condition
@@ -193,19 +193,19 @@ Promote both cards to `quotation-ready` only after character-for-character colla
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `lacan-2017-talking-to-brick-walls-q001` | `lacan-2017-talking-to-brick-walls` | Price trans., p. 80 | source-matched | `34-s4-p3-lacan-matheme-mytheme` | [[Immutable Gap and Meta-Sign]]; [[Arche-Topos as Differential Field]] | authorial provenance / address qualification | [Quotes — Lacan Talking to Brick Walls (Price, 2017)](#passages) |
+| `lacan-2017-talking-to-brick-walls-q001` | `lacan-2017-talking-to-brick-walls` | Price trans., p. 80 | source-matched | `34-s4-p3-lacan-matheme-mytheme` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | authorial provenance / address qualification | [Quotes — Lacan Talking to Brick Walls (Price, 2017)](#passages) |
 
-| `lacan-2017-talking-to-brick-walls-q002` | `lacan-2017-talking-to-brick-walls` | Price trans., p. 86 | source-matched | `34-s4-p3-lacan-matheme-mytheme` | [[Immutable Gap and Meta-Sign]] | primary rhetorical mechanism | [Quotes — Lacan Talking to Brick Walls (Price, 2017)](#passages) |
+| `lacan-2017-talking-to-brick-walls-q002` | `lacan-2017-talking-to-brick-walls` | Price trans., p. 86 | source-matched | `34-s4-p3-lacan-matheme-mytheme` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | primary rhetorical mechanism | [Quotes — Lacan Talking to Brick Walls (Price, 2017)](#passages) |
 
-| `lacan-2017-talking-to-brick-walls-q003` | `lacan-2017-talking-to-brick-walls` | Price trans., p. 100 | source-matched | `34-s4-p3-lacan-matheme-mytheme` | [[Immutable Gap and Meta-Sign]] | non-closure limitation | [Quotes — Lacan Talking to Brick Walls (Price, 2017)](#passages) |
+| `lacan-2017-talking-to-brick-walls-q003` | `lacan-2017-talking-to-brick-walls` | Price trans., p. 100 | source-matched | `34-s4-p3-lacan-matheme-mytheme` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | non-closure limitation | [Quotes — Lacan Talking to Brick Walls (Price, 2017)](#passages) |
 
-| `lacan-2017-talking-to-brick-walls-q004` | `lacan-2017-talking-to-brick-walls` | Price trans., pp. 80–81 | source-matched | `34-s4-p3-lacan-matheme-mytheme` | [[Immutable Gap and Meta-Sign]]; [[Arche-Topos as Differential Field]] | counterpressure / address qualification | [Quotes — Lacan Talking to Brick Walls (Price, 2017)](#passages) |
+| `lacan-2017-talking-to-brick-walls-q004` | `lacan-2017-talking-to-brick-walls` | Price trans., pp. 80–81 | source-matched | `34-s4-p3-lacan-matheme-mytheme` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | counterpressure / address qualification | [Quotes — Lacan Talking to Brick Walls (Price, 2017)](#passages) |
 
-| `lacan-2017-talking-to-brick-walls-q005` | `lacan-2017-talking-to-brick-walls` | Seuil pp. 104–105 | source-matched | `34-s4-p3-lacan-matheme-mytheme` | [[Immutable Gap and Meta-Sign]] | signifier/subject technical context | [Quotes — Lacan Talking to Brick Walls (Price, 2017)](#passages) |
+| `lacan-2017-talking-to-brick-walls-q005` | `lacan-2017-talking-to-brick-walls` | Seuil pp. 104–105 | source-matched | `34-s4-p3-lacan-matheme-mytheme` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | signifier/subject technical context | [Quotes — Lacan Talking to Brick Walls (Price, 2017)](#passages) |
 
-| `lacan-2017-talking-to-brick-walls-q006` | `lacan-2017-talking-to-brick-walls` | Seuil p. 68 (p. 30 conflict flagged) | source-matched | `34-s4-p3-lacan-matheme-mytheme` | [[Immutable Gap and Meta-Sign]] | primary formal-limit context | [Quotes — Lacan Talking to Brick Walls (Price, 2017)](#passages) |
+| `lacan-2017-talking-to-brick-walls-q006` | `lacan-2017-talking-to-brick-walls` | Seuil p. 68 (p. 30 conflict flagged) | source-matched | `34-s4-p3-lacan-matheme-mytheme` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | primary formal-limit context | [Quotes — Lacan Talking to Brick Walls (Price, 2017)](#passages) |
 
-| `lacan-2017-talking-to-brick-walls-q007` | `lacan-2017-talking-to-brick-walls` | Seuil p. 74 | source-matched | `34-s4-p3-lacan-matheme-mytheme` | [[Immutable Gap and Meta-Sign]] | formalisation limitation / transition | [Quotes — Lacan Talking to Brick Walls (Price, 2017)](#passages) |
+| `lacan-2017-talking-to-brick-walls-q007` | `lacan-2017-talking-to-brick-walls` | Seuil p. 74 | source-matched | `34-s4-p3-lacan-matheme-mytheme` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | formalisation limitation / transition | [Quotes — Lacan Talking to Brick Walls (Price, 2017)](#passages) |
 ## Brick-walls context and matheme map
 
 ## What the evidence is for
@@ -238,9 +238,9 @@ This map restores the continuous problem that a one-line “brick walls” citat
 
 | layer | source | status | allowed use |
 |---|---|---|---|
-| Primary scene of address | [[Lacan — Talking to Brick Walls (Price, 2017)]] | source-matched pending direct-page collation | Walls, echo, audience interruption, and discourse’s internal limit. |
-| Peer-reviewed reception | [[Adleman and Vanderwees — Lacan’s Psychoanalytic Rhetoric (2021)]] | quotation-ready | Rhetorical reading of the wall as mediated, echoed address and non-understanding. |
-| Technical genealogy | [[Darmon — Mathème (1992)]] | quotation-ready | `S/s` as an early Lacanian matheme transformed from Saussure; structural-writing/transmission aim. |
+| Primary scene of address | [[symbolon/episteme/sources/psychology/lacan/lacan-2017-talking-to-brick-walls/SOURCE|Lacan — Talking to Brick Walls (Price, 2017)]] | source-matched pending direct-page collation | Walls, echo, audience interruption, and discourse’s internal limit. |
+| Peer-reviewed reception | [[symbolon/episteme/sources/psychology/adleman/adleman-vanderwees-2021-lacan-rhetoric/SOURCE|Adleman and Vanderwees — Lacan’s Psychoanalytic Rhetoric (2021)]] | quotation-ready | Rhetorical reading of the wall as mediated, echoed address and non-understanding. |
+| Technical genealogy | [[symbolon/episteme/sources/psychology/darmon/darmon-1992-matheme-ali/SOURCE|Darmon — Mathème (1992)]] | quotation-ready | `S/s` as an early Lacanian matheme transformed from Saussure; structural-writing/transmission aim. |
 | Jungian notation | [[32-s4-p1-jung-individuation|§4 · #1 — Jung’s X=x and Individuation]] | essay-owned / Argued | `X/x` is the essay’s general/particular determination; it is not a Lacan or Jung quotation to source-match. |
 | Crosswalk | movement 34 | **Argued** | Set Lacan’s barred signifying relation beside `X/x`: not an identity, but a correspondence in which a determinate term neither exhausts nor transparently presents its ordering relation. |
 

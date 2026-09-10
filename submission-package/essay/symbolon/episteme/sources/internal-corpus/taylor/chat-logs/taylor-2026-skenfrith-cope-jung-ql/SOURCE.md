@@ -37,4 +37,4 @@ This is a raw, unhammered conversation: a discovery and authorship trail, never 
 None yet.
 
 
-**Current locality:** the project working-shelf transcript was verified on 2026-09-08. Its corrected authored Mother flow is developed in [the whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md). This return identifies consumption of the conversation as provenance; historical assertions and assistant interpretations retain their independent source duties.
+**Current locality:** the project working-shelf transcript was verified on 2026-09-08. Its corrected authored Mother flow is developed in [the whole](../../../../../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md). This return identifies consumption of the conversation as provenance; historical assertions and assistant interpretations retain their independent source duties.

@@ -2,6 +2,7 @@
 title: "Gerbert Sylvester II"
 aliases:
   - "Gerbert Sylvester II"
+source_id: gerbert-sylvester-ii
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

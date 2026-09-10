@@ -35,6 +35,8 @@ passage_surface: '#passages'
 ---
 # Van Eenwyk — Archetypes and Strange Attractors (1997)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Chicago 18 forms
 
 **Full note:** John R. Van Eenwyk, *Archetypes & Strange Attractors: The Chaotic World of Symbols* (Inner City Books, 1997), {page}.

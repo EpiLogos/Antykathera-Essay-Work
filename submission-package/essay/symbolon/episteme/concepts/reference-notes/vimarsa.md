@@ -2,6 +2,7 @@
 title: "Vimarśa"
 aliases:
   - "Vimarśa"
+source_id: vimarsa
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

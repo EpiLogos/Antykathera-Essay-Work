@@ -44,6 +44,8 @@ url: https://en.wikisource.org/wiki/Metamorphoses_(Miller)/Book_I
 ---
 # Ovid — Metamorphoses I–VIII (Miller, second edition 1921; consulted 1951 impression)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Chicago 18 forms
 
 **Full note:** Ovid, *Metamorphoses*, vol. 1, *Books I–VIII*, trans. Frank Justus Miller, 2 nd ed. (1921; repr., Cambridge, MA: Harvard University Press; London: William Heinemann, 1951), 1.452–567, [digital text](https://en.wikisource.org/wiki/Metamorphoses_(Miller)/Book_I).

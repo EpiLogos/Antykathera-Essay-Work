@@ -1,4 +1,5 @@
 ---
+record_id: C51
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from Taylor's Epi-Logos vocation and ratified harmonisation; Greek Logos histories and Saiva Vak remain distinct comparisons"

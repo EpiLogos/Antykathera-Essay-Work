@@ -16,4 +16,4 @@ Each equation receives a full derivation, a definition of every term, the status
 
 - [Spanda equations and inversion / return](spanda-equations.md)
 
-Return to [[submission-package/essay/symbolon/matheme/README.md|Matheme]].
+Return to [[symbolon/matheme/README.md|Matheme]].

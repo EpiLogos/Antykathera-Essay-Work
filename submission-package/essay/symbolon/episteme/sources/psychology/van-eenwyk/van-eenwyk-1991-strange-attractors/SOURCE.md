@@ -41,6 +41,8 @@ passage_surface: '#passages'
 ---
 # Van Eenwyk — Archetypes, the Strange Attractors of the Psyche (1991)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Chicago 18 forms
 
 **Full note:** J. R. Van Eenwyk, “Archetypes: The Strange Attractors of the Psyche,” *Journal of Analytical Psychology* 36, no. 1 (1991): {page}, https://doi.org/10.1111/j.1465-5922.1991.00001.x.

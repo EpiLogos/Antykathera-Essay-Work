@@ -12,6 +12,7 @@ aliases:
   - "Riemann Sphere"
   - "khahara"
   - "Khahara"
+source_id: dimensional-reframing-at-zero-and-infinity
 node_type: "concept"
 register: episteme
 page_type: "concept"
@@ -53,7 +54,7 @@ The cross-case proposition — mathematics often preserves an obstructed relatio
 
 ## Sources
 
-[[NIST DLMF — Complex Variable and Conformal Mapping (2026)]] anchors projective completion, the extended complex plane, and conformal scope; [[Kirchner, Elkamhawy, and Hammer — Entanglement in Few-Nucleon Scattering Events (2024)]] anchors the bounded `CP¹` comparison; [[Hatcher — Algebraic Topology (2002)]] anchors quotient and covering constructions; [[Strang and Herman — Calculus Volume 1 (OpenStax, 2016)]] anchors the local differentiation and antiderivative boundary. These sources establish their named mathematical cases. The cross-case method remains the essay's Argued synthesis.
+[[symbolon/episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE|NIST DLMF — Complex Variable and Conformal Mapping (2026)]] anchors projective completion, the extended complex plane, and conformal scope; [[symbolon/episteme/sources/physics/kirchner/kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering/SOURCE|Kirchner, Elkamhawy, and Hammer — Entanglement in Few-Nucleon Scattering Events (2024)]] anchors the bounded `CP¹` comparison; [[symbolon/episteme/sources/mathematics-logic/hatcher/hatcher-2002-algebraic-topology/SOURCE|Hatcher — Algebraic Topology (2002)]] anchors quotient and covering constructions; [[symbolon/episteme/sources/mathematics-logic/strang/strang-herman-2016-openstax-calculus-v1/SOURCE|Strang and Herman — Calculus Volume 1 (OpenStax, 2016)]] anchors the local differentiation and antiderivative boundary. These sources establish their named mathematical cases. The cross-case method remains the essay's Argued synthesis.
 
 Related: [[28-s3-p3-projective-dimensional-reframing|§3 · #3]] · [[17-s1-p4-zero-outside-math|§1 · #4]] · [[16-s1-p3-crossed-zero|§1 · #3 — The Crossed Zero]] · [[04-arche-topos-topology-music|Arche-Topos as Differential Field]] · [[12-core-theorem-bridge|Core Theorem Bridge]]
 

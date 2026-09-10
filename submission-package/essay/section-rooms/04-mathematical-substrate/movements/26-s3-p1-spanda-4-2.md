@@ -1,5 +1,6 @@
 ---
 title: "§3 · #1 — The Spanda Equations and 4+2"
+source_id: 26-s3-p1-spanda-4-2
 node_type: section
 page_type: section-movement
 station: "§3"
@@ -13,9 +14,13 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §3 · #1 — The Spanda Equations and 4+2
 
+<!-- reader-navigation -->
+Movement 26 of 48 · [This room](../ROOM.md) · [← Previous](25-s3-p0-eight-determinations.md) · [Next →](27-s3-p2-mark-reentry-complex.md)
+<!-- /reader-navigation -->
+
 ## Movement thesis
 
-[[working/sources-texts-references/10-7-2026-core-theorems-pithy#I. The First Two Spanda Equations|The Spanda equations]] are the generative kernel of QL. The first carries the horizontal pulse from ground through distinction to integrated return:
+[The Spanda equations](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) are the generative kernel of QL. The first carries the horizontal pulse from ground through distinction to integrated return:
 
 $$
 0=(0/0)
@@ -33,9 +38,11 @@ $$
 
 \([T_0]\) is the emanative arc from \(0/(0/1)\) toward \(0/1\): the void takes expression as its denominator and works toward determinate form. \([T_1]\) is the reversionary arc from \((1/0)/0\) toward \(1/0\): form takes zero as denominator and turns toward its condition. Their interference term rejoins the directions before \(1/1\) resolves the circuit.
 
-### The latent 3:3
+### The personed 3:3 and its 3:1 recognition
 
-The equation carries two triads — its horizontal reading of the six:
+The first pass, `1-2-3`, unfolds first-, second- and third-person perspective. The `4/5/0` pass reckons their unity as void, one and `0/1`: isolation is voided into context, the three are recognised as one appearing-act, and that one returns through its ground. Thus `3:3` is also `3:1`. This is the subject-definition from which the physical/mental and musical readings proceed.
+
+The equation carries that horizontal reading through two triads:
 
 | Emanative / bimba triad (source→expression, Prakāśa) | Reversionary / pratibimba triad (return→recognition, Vimarśa) |
 |---|---|
@@ -45,7 +52,7 @@ The equation carries two triads — its horizontal reading of the six:
 
 $$3_{\text{emanative}} + 3_{\text{reversionary}} = 3_{\text{bimba}} + 3_{\text{pratibimba}}$$
 
-*Bimba* and *pratibimba* are the Śaiva pair for original and reflection; *Prakāśa* and *Vimarśa* name the light of manifestation and its self-apprehending turn — the naming is a cross-register reading of a derivation that stands on its own arithmetic. The partition maps exactly onto the kernel partition **1-2-3 / 4-5-0**: the emanative-bimba triad is the physical pole (source-to-expression), the reversionary-pratibimba triad the mental pole (return-to-recognition). The two triplets are complementary aspects of one operation — emanation-from-void in the first three steps, return-to-unity in the second three — which is why the \(3:3\) is the closest live relation back to the standing \(1:1\) identity.
+*Bimba* and *pratibimba* are the Śaiva pair for original and reflection; *Prakāśa* and *Vimarśa* name the light of manifestation and its self-apprehending turn — the naming is a cross-register reading of a derivation that stands on its own arithmetic. The partition maps onto **1-2-3 / 4-5-0**. Read physically and mentally, the emanative-bimba triad is source-to-expression and the reversionary-pratibimba triad return-to-recognition; these are further readings of the personed structure above. The two triplets are complementary aspects of one operation — emanation-from-void in the first three steps, return-to-unity in the second three — which is why the \(3:3\) is the closest live relation back to the standing \(1:1\) identity.
 
 ### The vertical accounting
 
@@ -75,7 +82,7 @@ $$
 2+2^2=2+4=6.
 $$
 
-The equations therefore do more than encode a finished sixfold diagram. They execute the process that the diagram retains: indeterminate condition, oriented differentiation, explicit determination, reciprocal return, and renewed integration. The first equation is the runtime traversal; the second is the harmonic accounting of the traversed whole. This is why the [[14-computational-process-ontology|process-ontological claim]] belongs inside the theorem rather than being appended later as an application to AI.
+The equations therefore do more than encode a finished sixfold diagram. They execute the process that the diagram retains: indeterminate condition, oriented differentiation, explicit determination, reciprocal return, and renewed integration. The first equation is the runtime traversal; the second is the harmonic accounting of the traversed whole. This is why the [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|process-ontological claim]] belongs inside the theorem rather than being appended later as an application to AI.
 
 ## Harmonic derivation
 

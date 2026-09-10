@@ -1,4 +1,5 @@
 ---
+record_id: C39
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from Taylor's MEF and Symbolon Dynamics framework; comparative methods and Offered technical instantiation retain separate standing"
@@ -31,9 +32,9 @@ MEF **returns-to** [Count-to-Account](../etymologies/encounter-region-name-count
 
 The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **tests** lens refraction through what changes when the map-making operation travels with the map. Selecting a lens must alter salience, evidence or judgment; the whole twelve-lens Name/Power constellation keeps both faces. Mapper and sheaf routes retain their separate construction and experiment duties.
 
-The [whole stained-glass apparatus](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-panes-seams) **figures** the selected media, angles, densities and joins through which a source becomes discloseable. Its cames preserve provenance and changes of warrant. The complete optical return gives MEF an exact question: what can a changed source or encountered difference alter in the next refraction?
+The [whole stained-glass apparatus](../../mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-panes-seams) **figures** the selected media, angles, densities and joins through which a source becomes discloseable. Its cames preserve provenance and changes of warrant. The complete optical return gives MEF an exact question: what can a changed source or encountered difference alter in the next refraction?
 
-The [Symbol / Account / Trust whole-field — Account does not replace source](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. An inspectable lens and gauge explain how a judgment arose without making the framework its ontological source. Returned consequence must be able to change the selected mediation. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
+The [Symbol / Account / Trust whole-field — Account does not replace source](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. An inspectable lens and gauge explain how a judgment arose without making the framework its ontological source. Returned consequence must be able to change the selected mediation. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
 
 Return tests what the framework changed in retrieval, exclusion retention, evaluation, collaboration or revision. C40 makes the judgment field inspectable; C45 asks for operational parity; C46 follows cultivation through repeated changed returns. J-Space remains subordinate research beneath C40/MEF. A useful experiment can establish an effect of the method without proving the metaphysics, and a failed experiment need not silently rewrite the native theorem.
 

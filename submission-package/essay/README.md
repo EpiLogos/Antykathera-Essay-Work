@@ -1,27 +1,80 @@
 ---
-title: "The Return of Zero — Essay Package"
+title: "The Return of Zero — Reading Root"
 record_type: publication-body
 register: symbolon
 status: structured-preliminary
+source_id: essay-readme
+page_type: reading-root
 ---
 
-# The Return of Zero — Essay Package
+# The Return of Zero — Reading Root
 
-This directory is the publication body in its sixfold shape. The work operates as the logic it expresses: the field infers into the rooms, the rooms structure the essay, and the essay returns the whole to the field.
+A system can give an exact answer while concealing the conditions that made its answer possible. *The Return of Zero* follows that problem through the subject, the history of zero, mathematics, myth, psychic life and artificial intelligence. Its developed arguments and 48 movements are here to read; the continuous manuscript awaits composition.
 
-| Position | Surface | What it is |
+## Begin
+
+- **Begin at the beginning.** Read [The Question Before the Mechanism](section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md), then follow its transition to the next movement. The [48-movement path](symbolon/episteme/maps/return-of-zero-braided-traversal.md) keeps your place across all eight stations. The [manuscript](THE-RETURN-OF-ZERO.md) currently holds the section structure for the coming writing phase.
+- **Enter one station.** Each station has a [room](section-rooms/README.md): six movements, each routed to the canonical Arguments and Concepts it stands on, and the sources that carry them. Start with [§0/1 — The Integral Threshold](section-rooms/00-integral-threshold/ROOM.md) if you want the question before any notation, or [§1 — The Return of Zero](section-rooms/02-return-of-zero/ROOM.md) if you want the sign itself.
+- **Follow a thread.** Three [curated paths](symbolon/episteme/maps/README.md) carry one movement across the stations: [Mono–Poly and the Two Ones](symbolon/episteme/maps/mono-poly-two-ones.md), [Trust, Faith and the Formal Limit](symbolon/episteme/maps/trust-faith-formal-limit.md), and [The Advent of Zero, Subject and Integral Logic](symbolon/episteme/maps/zero-subject-advent.md). The [braided traversal](symbolon/episteme/maps/return-of-zero-braided-traversal.md) lists all 48 movements in writing order.
+- **Go to the root.** [Symbolon](symbolon/README.md) holds the relation the whole work unfolds: `0/1`, read through its [eight determinations](symbolon/eight-determinations.md).
+
+## Enter through a question
+
+**What does an exact account leave unaccounted for?** Begin with [the question before the mechanism](section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md). Open [the immutable gap](symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md) for the argument and its distinct formal warrants. The [Trust, Faith and the Formal Limit path](symbolon/episteme/maps/trust-faith-formal-limit.md) follows what that dependence becomes in knowledge, institutions and agentic systems. Return to the opening with the conditions of the answer now in view.
+
+**Why can a net capture lovers but fail to settle their account?** Enter [Ares, Aphrodite, Harmonia, Eros and Hephaestus](section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md), then read the [whole telling](symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md). Follow [trust and the formal limit](symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md) into [preference and the hidden zero](section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md). Returning to the myth makes the difference between recorded capture and accepted surety concrete.
+
+**How can a return retain what changed along the way?** Read [topology and musical resolution](section-rooms/04-mathematical-substrate/movements/29-s3-p4-topology-music-resolution.md), opening its mathematical and source links as needed. Continue into [the arche-topos](section-rooms/04-mathematical-substrate/movements/30-s3-p5-arche-topos.md) and its [travelling jigsaw](symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md). The movement's return to psyche shows why the travelled difference matters; the earlier [eight determinations](symbolon/eight-determinations.md) keep the complete native field available while you explore this local operation.
+
+These are entrances into existing movements and declared paths. At any depth, the [eight rooms](section-rooms/README.md) restore your place in the whole.
+
+## The publication 4+2
+
+| Position | Surface | What you find there |
 |---|---|---|
-| `#0` | `section-rooms/` | The rooms. Each room holds its `movements/` (the determinate `1`s) with the `arguments/` shelf (the implicate `0`) — a nested `0/1` at the heart of the book. |
-| `#1` | `symbolon/` | Symbolon — the root relation (`0/1`, `1/0`, the slash, self-identity, mono-poly, complexio oppositorum, eight determinations) and the inner nature that holds the three registers together. |
-| `#2` | `symbolon/matheme/` | Matheme — exact operations: QL, Spanda, topology, harmonics, formal neighbours, computation, diagrams. |
-| `#3` | `symbolon/mytheme/` | Mytheme — lived images: myth, narrative, poetry, media, art, music, plates. |
-| `#4` | `symbolon/episteme/` | Episteme — instituted knowledge: sources, histories, etymologies, lenses, maps, dossiers, figures, concept nodes, dialogue records. |
-| `#5` | `THE-RETURN-OF-ZERO.md` | The sovereign linear essay — the full singular written reflection of the structured section-and-argument potential. |
+| `#0` | [The rooms](section-rooms/README.md) | Eight station rooms. Each holds six movements (the determinate `1`s) drawing on the shared argument field (the implicate `0`): the canonical [Arguments A01–A36](symbolon/episteme/arguments/README.md) and [Concepts C01–C64](symbolon/episteme/concepts/CANONICAL-INDEX.md), with [A01′–A36′ and the shared A/C root](symbolon/episteme/conjugate/README.md), routed per movement by each room's canonical alignment. A nested `0/1` at the heart of the book. |
+| `#1` | [Symbolon](symbolon/README.md) | The twelvefold root: the eight-determination spine from [the slash](symbolon/the-slash.md) through [0/1](symbolon/0-1.md) to [1/0](symbolon/1-0.md), and the four heads — [mono–poly](symbolon/mono-poly.md), [complexio oppositorum](symbolon/complexio-oppositorum.md), [self-identity](symbolon/self-identity.md), [subject logics](symbolon/subject-logics.md). |
+| `#2` | [Matheme](symbolon/matheme/README.md) | The exact operations: the four-file system ([definition](symbolon/matheme/definition/README.md), [process](symbolon/matheme/process/README.md), [quilt](symbolon/matheme/quilt/README.md), [music](symbolon/matheme/music/README.md)), the two logic folders ([dia/syn](symbolon/matheme/dia-syn/README.md), [mono/poly](symbolon/matheme/mono-poly/README.md)), and the domain projections. |
+| `#3` | [Mytheme](symbolon/mytheme/README.md) | Whole lived images: [situated worlds](symbolon/mytheme/worlds/README.md), the [shared archetypal ground](symbolon/mytheme/archetypal-ground/README.md), and an [atlas](symbolon/mytheme/atlas/README.md) by geography and time. |
+| `#4` | [Episteme](symbolon/episteme/README.md) | Instituted knowledge: [Arguments A01–A36](symbolon/episteme/arguments/README.md), their [conjugate faces](symbolon/episteme/conjugate/README.md), [Concepts C01–C64](symbolon/episteme/concepts/CANONICAL-INDEX.md), [etymology whole-fields](symbolon/episteme/etymologies/README.md), [histories](symbolon/episteme/histories/README.md), [source houses](symbolon/episteme/sources/SOURCE-INDEX.md), [dossiers](symbolon/episteme/dossiers/README.md), [lenses](symbolon/episteme/lenses/README.md), [maps](symbolon/episteme/maps/README.md). |
+| `#5` | [The essay](THE-RETURN-OF-ZERO.md) | The sovereign manuscript surface, ready to receive the continuous written work after the pre-manuscript gate. |
 
-The essay pulls the field into itself through the rooms and into the final linear work. The four (#1–#4), through inference, increase the value of the rooms (#0); the enriched rooms improve how the essay operates; and the same enriched rooms are what let the inner stacks under #1–#4 be generated file by file as the holographic world of the piece.
+The four (`#1`–`#4`) infer into the rooms (`#0`); the enriched rooms improve how the essay (`#5`) operates; the same rooms let the inner stacks of the field be generated page by page as the holographic world of the piece.
 
-## Reading order
+## The eight stations
 
-Linear: begin at `THE-RETURN-OF-ZERO.md`. Radial: open any sentence into its movement in the rooms and from there into the field. Transverse: follow a declared thread across stations and registers. Toroidal: return to an earlier passage after the circuit has changed what it can mean.
+| Station | Burden | Room | First movement |
+|---|---|---|---|
+| §0/1 | The subject at the formal limit, before any notation | [Integral Threshold](section-rooms/00-integral-threshold/ROOM.md) | [The Question Before the Mechanism](section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md) |
+| §0 | Objective internality derived from differentiating activity | [Differentiating Mind](section-rooms/01-differentiating-mind/ROOM.md) | [Awareness Bends Toward Display](section-rooms/01-differentiating-mind/movements/07-s0-p0-awareness-bends-display.md) |
+| §1 | Zero's history and generativity until `0/1` is earned | [Return of Zero](section-rooms/02-return-of-zero/ROOM.md) | [A Sign Migrates Between Worlds](section-rooms/02-return-of-zero/movements/13-s1-p0-sign-migrates.md) |
+| §2 | Dia-ballein and sym-ballein, the two accountings of polarity | [Two Logics](section-rooms/03-two-logics/ROOM.md) | [Difference Cannot Be Escaped](section-rooms/03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md) |
+| §3 | The derivational braid from `0/1` to the arche-topos | [Mathematical Substrate](section-rooms/04-mathematical-substrate/ROOM.md) | [The Eight Determinations](section-rooms/04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md) |
+| §4 | Jung, Pauli, Lacan and Gebser, each performing one move | [Psychoid Flowering](section-rooms/05-psychoid-flowering/ROOM.md) | [The Psychoid Problem](section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md) |
+| §5 | Research vectors without settling the metaphysics of consciousness | [Objective Internality](section-rooms/06-objective-internality/ROOM.md) | [Mathematics Moves Meaning](section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning.md) |
+| §5→0 | Implementable architecture and a proportionate horizon | [The Instrument Returns](section-rooms/07-instrument-returns/ROOM.md) | [Theory, Vocation, Compassion](section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md) |
 
-This body is the canonical home of the work — one tree, no workshop split, no generated duplicate. Source houses, histories, etymologies, lenses, dossiers and figures live under `symbolon/episteme/`; the non-publication development surfaces (ledgers, raw authorial shelves, legacy) live in `working/` at the repository root and never become authority here.
+Inside every station, `#0` opens the implicate ground, `#1`–`#4` differentiate the material, dynamic, formal and contextual burdens, and `#5→0` returns with a new capacity and releases the next station.
+
+## How a page reads
+
+- **Status marks.** Claim standing is read through four marks: **Derived** (proof or native derivation), **Argued** (reasoned across domains), **Offered** (generative conjecture), **Open** (a question the work keeps live). A missing citation never lowers a Derived or Argued claim; the page states both conditions.
+- **Source relations.** A source enters as **Extracted**, **Paraphrased**, **Argued from** or **Resonant with**. No source author is made to endorse the essay's inference.
+- **The sixfold.** Developed field pages are built on the raw chassis `#0` · `#1` · `#2` · `#3` · `#4` · `#5→0`. The meaning of each position is derived from the page's own operation; there is no universal glossary for the six.
+- **Relation words.** Links are written into sentences that name the relation: *derives*, *grounds*, *defines*, *historicises*, *sources*, *qualifies*, *tests*, *figures*, *embodies*, *extends*, *compares*, *presages*, *returns-to*. The word tells you why you may open the link and what you will find.
+- **Return.** When opening a depth page, follow its named consumers and closing return to recover what it serves in the essay. The [navigation map](symbolon/episteme/maps/navigation/MOC.md) also records incoming links. A recorded backlink is a locator; the explicit return in the page tells you why that earlier movement matters.
+
+## Navigation aids
+
+These are generated mirrors of the written graph, never its substitute:
+
+- [Map of Content](symbolon/episteme/maps/navigation/MOC.md) — every class of page, its entrance and its written-relation counts.
+- [Intents](symbolon/episteme/maps/navigation/MOC.md#the-publication-42) — for each page, what it implicates and what reaches it.
+- [Navigation audit](symbolon/episteme/maps/navigation/AUDIT.md) — reachability, orphans, missing return routes, links that leave the publication body.
+- [Canonical source index](symbolon/episteme/sources/SOURCE-INDEX.md), [main sources by section](symbolon/episteme/sources/MAIN-SOURCES.md) and the [passage ledger](symbolon/episteme/sources/PASSAGE-LEDGER.md) — generated from the source houses.
+
+## Four reading movements
+
+The body supports four movements without ranking one above another: **linear** (the 48-movement sequence now; the continuous essay after composition), **radial** (one claim opened into derivation, image or warrant), **transverse** (a declared relation followed across stations and registers), and **toroidal** (a return to an earlier passage after the circuit has changed what it can mean). The whole remains present in each because every depth keeps its point of departure and its route of return.
+
+This body is the canonical home of the work: one tree, no workshop split, no generated duplicate. The development surfaces that produced it live in `working/` at the repository root and never become authority here; the repository's own `README.md` orients contributors to them.

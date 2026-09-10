@@ -1,4 +1,5 @@
 ---
+record_id: C28
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from authorial primary-arbitration and mediating-office relations; covenantal, legal and theological histories remain source-specific"

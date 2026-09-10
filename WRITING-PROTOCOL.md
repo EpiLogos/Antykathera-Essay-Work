@@ -43,7 +43,7 @@ The repository has one ontological publication body and several sibling support 
 │   └── essay/                         # THE publication body
 │       ├── README.md
 │       ├── THE-RETURN-OF-ZERO.md      # #5 the sovereign essay
-│       ├── section-rooms/             # #0 the rooms: arguments/ (0) + <room>/movements/ (1)
+│       ├── section-rooms/             # #0 the rooms: canonical field via P1 (0) + movements (1)
 │       └── symbolon/                  # #1–#4 the field
 │           ├── README.md
 │           ├── 0-1.md                 # root relations (census pending)
@@ -77,7 +77,7 @@ There is **no `symbolon/relations/` directory**. `0/1`, `1/0`, the slash, self-i
 
 The rooms and the essay sit **parallel to the symbolon root, not inside it**. The publication-level sixfold is the 4+2, and its offices are fixed:
 
-- `#0` — the rooms. Each room holds its six movements (`movements/`, the determinate `1`s) with the shared argument field (`arguments/`, the implicate `0`) — a nested `0/1` at the heart of the book.
+- `#0` — the rooms. Each room holds its six movements (`movements/`, the determinate `1`s) with the shared canonical field (36 A + 64 C + 36 A′ + A/C, the implicate `0`) through their authored `P1-CANONICAL-ALIGNMENT.md`. The records retain their single homes in `symbolon/episteme/arguments/`, `concepts/` and `conjugate/`; `section-rooms/arguments/` preserves the 21 historical carriers — a nested `0/1` at the heart of the book.
 - `#1` — **Symbolon**, the root relation and its inner nature.
 - `#2` — **Matheme**, the exact operations.
 - `#3` — **Mytheme**, the lived images.

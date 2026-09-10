@@ -36,6 +36,8 @@ passage_surface: '#passages'
 ---
 # Spencer-Brown — Laws of Form (1969)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Chicago 18 forms
 
 **Full note:** G. Spencer-Brown, *Laws of Form* (Allen & Unwin, 1969), {page/chapter}.

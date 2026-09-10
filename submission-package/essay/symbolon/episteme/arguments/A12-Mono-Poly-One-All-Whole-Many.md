@@ -1,9 +1,19 @@
 ---
+aliases:
+  - "Mono-Poly: Whole and Many"
+  - "Mono-Poly"
+  - "Mono-Poly Planetary Intelligence"
+  - "Wholeness Through Plurality"
+record_id: A12
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from native Two-Ones and Mono-Poly development; source-specific semantic, psychic and institutional comparisons"
 ---
 # A12 — Mono/Poly — One / All, Whole / Many
+
+<!-- paired-field-navigation -->
+[Argument field](README.md) · [Other face: A12′ — Against Monoculture](../conjugate/A12-prime-Against-Monoculture.md) · [Shared A/C root](../conjugate/AC.md)
+<!-- /paired-field-navigation -->
 
 **Standing:** canonical semantic Argument; historical Argument 04 remains provenance, with Alpha/Delta matheme residue preserved rather than silently absorbed.
 
@@ -42,9 +52,9 @@ The [authored hive/colony comparison](../../../quilt/27-07-26-QUILTING-FOR-FULL-
 
 The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-native-relation) **figures** both aspects of Mono: the net includes real jewels, while each jewel’s comprehensive appearance depends on their constitutive participation. Following the selected reflection returns through the others to this one. Local wholeness therefore retains the wider relation through which it has that office.
 
-[Goethe’s hand, name and wave](submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md#goethe-hand-name-and-wave) **figures** a particular whose real change belongs within a whole it does not possess. The final gathering receives the remembered acts and changing body together. Its One-in-change relation preserves these differences within the complete lyric.
+[Goethe’s hand, name and wave](../../mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md#goethe-hand-name-and-wave) **figures** a particular whose real change belongs within a whole it does not possess. The final gathering receives the remembered acts and changing body together. Its One-in-change relation preserves these differences within the complete lyric.
 
-The erased inscription leaves the capacity for renewed differentiation active. Taylor's scene gives the prior relational whole and its real, changing expressions one performable image. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold). Saturnine detention figures a local receiver consuming the conditions of further generation; nourishing assimilation changes the life that receives. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-metabolic-fork).
+The erased inscription leaves the capacity for renewed differentiation active. Taylor's scene gives the prior relational whole and its real, changing expressions one performable image. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold). Saturnine detention figures a local receiver consuming the conditions of further generation; nourishing assimilation changes the life that receives. This **returns-to** [the uroboros whole](../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-metabolic-fork).
 
 Commons and protocols can hold common conditions while local contexts retain genuine authority within scope. That is a concrete test of Mono/Poly: can an institution return a determination through its sources, exclusions, material dependencies and affected participants, or does it install its output as the final source of its own warrant? A common grammar can coordinate divergent worlds without appointing a ruler, crowd or model as their super-subject.
 

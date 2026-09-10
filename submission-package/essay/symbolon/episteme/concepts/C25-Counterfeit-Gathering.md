@@ -1,4 +1,5 @@
 ---
+record_id: C25
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from native relational grammar; Paraphrased Heidegger and Homer witnesses with source-specific bounds"

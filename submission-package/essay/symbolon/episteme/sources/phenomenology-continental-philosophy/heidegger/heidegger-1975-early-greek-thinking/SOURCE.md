@@ -28,7 +28,7 @@ consumed_by_sections:
 - '[[22-s2-p3-ares-aphrodite-harmonia]]'
 consumed_by_arguments:
 consumed_by_histories:
-- '[[submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/HISTORY|Ancient Philosophy]]'
+- '[[symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/HISTORY|Ancient Philosophy]]'
 tags:
 - epi-logos/antikythera-essay
 - source-bank/record
@@ -129,5 +129,5 @@ Heidegger's reading of legein is itself contested Heraclitus scholarship; the es
 
 | passage_id | source_id | locator | status | movement consumers | argument consumers | function |
 |---|---|---|---|---|---|---|
-| `heidegger-1975-early-greek-thinking-q001` | `heidegger-1975-early-greek-thinking` | "Logos" p. 66 | wording-verified; collation pending | `21-s2-p2-sym-ballein`; `22-s2-p3-ares-aphrodite-harmonia` (contrast) | [[submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/HISTORY|ancient-philosophy]] | Logos as the Laying that gathers |
-| `heidegger-1975-early-greek-thinking-q002` | `heidegger-1975-early-greek-thinking` | "Logos" ~p. 62 (approx.); companion sentence p. 63 flagged-unverified | wording-verified; collation pending; locator approximate | `21-s2-p2-sym-ballein` | [[submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/HISTORY|ancient-philosophy]] | letting-lie-together-before; gathering that retains |
+| `heidegger-1975-early-greek-thinking-q001` | `heidegger-1975-early-greek-thinking` | "Logos" p. 66 | wording-verified; collation pending | `21-s2-p2-sym-ballein`; `22-s2-p3-ares-aphrodite-harmonia` (contrast) | [[symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/HISTORY|ancient-philosophy]] | Logos as the Laying that gathers |
+| `heidegger-1975-early-greek-thinking-q002` | `heidegger-1975-early-greek-thinking` | "Logos" ~p. 62 (approx.); companion sentence p. 63 flagged-unverified | wording-verified; collation pending; locator approximate | `21-s2-p2-sym-ballein` | [[symbolon/episteme/histories/traditions-and-disciplines/ancient-philosophy/HISTORY|ancient-philosophy]] | letting-lie-together-before; gathering that retains |

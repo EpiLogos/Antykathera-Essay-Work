@@ -90,7 +90,7 @@ The consequence for admission is fixed here: the essay admits McGilchrist only a
 - **Source relation:** quoted (framing paraphrase plus quotation, both via secondary reproduction).
 - **Evidential action:** supports.
 - **Argument function:** master/emissary as ordering relation; usurpation as the figure of the 1 occupying the 0; collapse as the counterfeit's terminus.
-- **Consumers:** [[35-s4-p4-gebser-apollo-dionysus]]; [[42-s5-p5-research-vectors]] (E6); [[Counterfeit Gathering]]; psychology history.
+- **Consumers:** [[35-s4-p4-gebser-apollo-dionysus]]; [[42-s5-p5-research-vectors]] (E6); [[symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering]]; psychology history.
 - **Use boundary:** cite only as McGilchrist's adaptation of an unlocated Nietzsche source — his own footnote concedes he cannot find it in Nietzsche — never as a Nietzsche quotation; the fable carries a relation, not a neuroscientific result.
 
 <a id="mcgilchrist-2009-master-emissary-q002"></a>
@@ -118,7 +118,7 @@ The consequence for admission is fixed here: the essay admits McGilchrist only a
 - **Source relation:** quoted (via secondary reproduction).
 - **Evidential action:** supports.
 - **Argument function:** characterizes the re-presentational modality's derivative thinness; pairs with q004 and q005.
-- **Consumers:** [[42-s5-p5-research-vectors]]; [[Counterfeit Gathering]]; psychology history.
+- **Consumers:** [[42-s5-p5-research-vectors]]; [[symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering]]; psychology history.
 - **Use boundary:** phenomenological characterization admitted under the criticism dossier's gate; never cited as a settled neuroscientific description of the left hemisphere.
 
 <a id="mcgilchrist-2009-master-emissary-q004"></a>
@@ -132,7 +132,7 @@ The consequence for admission is fixed here: the essay admits McGilchrist only a
 - **Source relation:** quoted (via secondary reproduction).
 - **Evidential action:** supports.
 - **Argument function:** the asymmetry claim in its sharpest form — the derivative modality's ontological dependence on the presencing modality; the load-bearing warrant for the master/emissary ordering.
-- **Consumers:** [[35-s4-p4-gebser-apollo-dionysus]]; [[42-s5-p5-research-vectors]] (E6); [[Counterfeit Gathering]].
+- **Consumers:** [[35-s4-p4-gebser-apollo-dionysus]]; [[42-s5-p5-research-vectors]] (E6); [[symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering]].
 - **Use boundary:** used for the ordering relation only, at status Argued; not a derivation of the essay's `0/1` from brain science.
 
 <a id="mcgilchrist-2009-master-emissary-q005"></a>
@@ -196,10 +196,10 @@ The hemispheric-asymmetry claims are contested at the level of both neuroscience
 
 | passage_id | source_id | locator | status | movement consumers | argument consumers | function |
 |---|---|---|---|---|---|---|
-| `mcgilchrist-2009-master-emissary-q001` | `mcgilchrist-2009-master-emissary` | Introduction, ~p. 14 (2009 ed.) | secondary-reproduction-verified; collation and edition pinning needed | `35-s4-p4-gebser-apollo-dionysus`; `42-s5-p5-research-vectors` | [[Counterfeit Gathering]] | fable; usurpation and collapse |
+| `mcgilchrist-2009-master-emissary-q001` | `mcgilchrist-2009-master-emissary` | Introduction, ~p. 14 (2009 ed.) | secondary-reproduction-verified; collation and edition pinning needed | `35-s4-p4-gebser-apollo-dionysus`; `42-s5-p5-research-vectors` | [[symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering]] | fable; usurpation and collapse |
 | `mcgilchrist-2009-master-emissary-q002` | `mcgilchrist-2009-master-emissary` | Introduction | secondary-reproduction-verified; collation and edition pinning needed | `35-s4-p4-gebser-apollo-dionysus`; `42-s5-p5-research-vectors` | — | attention as world-constituting |
-| `mcgilchrist-2009-master-emissary-q003` | `mcgilchrist-2009-master-emissary` | ch. 6 | secondary-reproduction-verified; collation and edition pinning needed | `42-s5-p5-research-vectors` | [[Counterfeit Gathering]] | left-hemisphere world as virtual, bloodless |
-| `mcgilchrist-2009-master-emissary-q004` | `mcgilchrist-2009-master-emissary` | ch. 6 | secondary-reproduction-verified; collation and edition pinning needed | `35-s4-p4-gebser-apollo-dionysus`; `42-s5-p5-research-vectors` | [[Counterfeit Gathering]] | re-presentation waits on presentation |
+| `mcgilchrist-2009-master-emissary-q003` | `mcgilchrist-2009-master-emissary` | ch. 6 | secondary-reproduction-verified; collation and edition pinning needed | `42-s5-p5-research-vectors` | [[symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering]] | left-hemisphere world as virtual, bloodless |
+| `mcgilchrist-2009-master-emissary-q004` | `mcgilchrist-2009-master-emissary` | ch. 6 | secondary-reproduction-verified; collation and edition pinning needed | `35-s4-p4-gebser-apollo-dionysus`; `42-s5-p5-research-vectors` | [[symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering]] | re-presentation waits on presentation |
 | `mcgilchrist-2009-master-emissary-q005` | `mcgilchrist-2009-master-emissary` | ch. 6 | secondary-reproduction-verified; collation and edition pinning needed | `35-s4-p4-gebser-apollo-dionysus`; `42-s5-p5-research-vectors` | — | living world; presencing |
 | `mcgilchrist-2009-master-emissary-q006` | `mcgilchrist-2009-master-emissary` | ch. 5, "The Nature of the Two Worlds" | secondary-reproduction-verified; collation and edition pinning needed | `35-s4-p4-gebser-apollo-dionysus`; `42-s5-p5-research-vectors` | — | Heidegger as fullest expression |
 | `mcgilchrist-2009-master-emissary-q007` | `mcgilchrist-2009-master-emissary` | Willis, *BJGP* 60/572 (2010): 226–27; *RBB* 2019, doi 10.1080/2153599X.2019.1604417 | secondary-reproduction-verified; full texts needed | `42-s5-p5-research-vectors` | all uses (gate) | criticism dossier anchors |

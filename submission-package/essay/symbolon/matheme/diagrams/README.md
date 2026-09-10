@@ -12,6 +12,6 @@ This domain holds diagrams whose arrangement performs formal work: derivation tr
 
 Each diagram has a Markdown record and its editable or rendered asset together. The record names the proposition visualised, inputs, transformations, invariant, proof boundary, essay blocks, caption, alt text, source dependencies and rights. A diagram may simplify presentation; it may not omit a step that the claimed conclusion requires.
 
-Narrative and artistic compositions belong in [[submission-package/essay/symbolon/mytheme/plates/README.md|Mytheme plates]]. Evidential timelines and source figures belong in [[submission-package/essay/symbolon/episteme/figures/README.md|Episteme figures]].
+Narrative and artistic compositions belong in [[symbolon/mytheme/plates/README.md|Mytheme plates]]. Evidential timelines and source figures belong in [[symbolon/episteme/figures/README.md|Episteme figures]].
 
-Return to [[submission-package/essay/symbolon/matheme/README.md|Matheme]].
+Return to [[symbolon/matheme/README.md|Matheme]].

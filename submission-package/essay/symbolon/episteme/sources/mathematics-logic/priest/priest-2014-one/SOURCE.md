@@ -73,7 +73,7 @@ Gluon theory as a rigorous Western formalization of the one-and-many problem tha
 
 - Chain *One* into the Mono-Poly argument nodes ([[Mono-Poly: Whole and Many]], [[11-mono-poly-whole-and-many|Mono-Poly]]) and [[46-s50-p3-4-2-mono-poly]] as a Western formal neighbour: an analytically worked case in which unity-of-the-many demands a contradictory unifier and being turns out relational.
 - Use the nothingness-as-own-gluon limit case beside the essay's ground #0 as a structural echo, explicitly marked as echo.
-- Use the book's Buddhist third (emptiness, Indra's net) to connect this house to [[dushun-cleary-2000-jewel-net-indra]] and the Huayan strand.
+- Use the book's Buddhist third (emptiness, Indra's net) to connect this house to [[symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE|dushun-cleary-2000-jewel-net-indra]] and the Huayan strand.
 
 ### Claim boundary
 
@@ -154,7 +154,7 @@ The essay chains *One* as neighbour, not as validation: QL's mono-poly structure
 - **Source relation:** quoted (via review).
 - **Evidential action:** supports.
 - **Argument function:** the convergence of gluon theory with emptiness — a third of the book works Buddhist material (emptiness, Indra's net, nothingness).
-- **Consumers:** [[46-s50-p3-4-2-mono-poly]]; [[11-mono-poly-whole-and-many|Mono-Poly]]; cross-link [[dushun-cleary-2000-jewel-net-indra]].
+- **Consumers:** [[46-s50-p3-4-2-mono-poly]]; [[11-mono-poly-whole-and-many|Mono-Poly]]; cross-link [[symbolon/episteme/sources/indian-philosophy/dushun/dushun-cleary-2000-jewel-net-indra/SOURCE|dushun-cleary-2000-jewel-net-indra]].
 - **Use boundary:** Priest's convergence claim, made from his machinery; not evidence about Buddhist texts themselves.
 
 <a id="priest-2014-one-q006"></a>

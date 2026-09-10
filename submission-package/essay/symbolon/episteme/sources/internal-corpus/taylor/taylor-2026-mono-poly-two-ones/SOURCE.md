@@ -39,7 +39,7 @@ passage_surface: '#passages'
 
 Internal authorial synthesis recovering the `0/1` root of mono–poly: the two ones, the natural/whole-number threshold, the relation of Mono/One to Poly/All, the two orientations `0/1 ↔ 1/0`, and their refraction through the eight determinations, god-image, political organisation, trust, myth, and hybrid intelligence.
 
-The document is a reusable internal derivation surface. It does not convert its external references into public warrant. The core QL derivation remains governed by [[Taylor — Core Theorems Pithy (2026)]]. Historical mathematics, myth, Śaiva doctrine, political theory, and Agentworld claims retain their own source houses.
+The document is a reusable internal derivation surface. It does not convert its external references into public warrant. The core QL derivation remains governed by [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems Pithy (2026)]]. Historical mathematics, myth, Śaiva doctrine, political theory, and Agentworld claims retain their own source houses.
 
 ## Essay use
 

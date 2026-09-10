@@ -1,5 +1,6 @@
 ---
 title: "§1 · #2 — The Empty Set Generates One"
+source_id: 15-s1-p2-empty-set-generates-one
 node_type: section
 page_type: section-movement
 station: "§1"
@@ -11,6 +12,10 @@ transverse_threads: [mono-poly-two-ones]
 tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/return-zero, argument-map/mathematical, station/s1, position/p2]
 ---
 # §1 · #2 — The Empty Set Generates One
+
+<!-- reader-navigation -->
+Movement 15 of 48 · [This room](../ROOM.md) · [← Previous](14-s1-p1-sunya-operational.md) · [Next →](16-s1-p3-crossed-zero.md)
+<!-- /reader-navigation -->
 
 ## Movement thesis
 

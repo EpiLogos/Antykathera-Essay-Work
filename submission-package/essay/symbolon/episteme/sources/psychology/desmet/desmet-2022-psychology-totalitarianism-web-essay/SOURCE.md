@@ -70,7 +70,7 @@ The complete passage sequence—narrative fixation, affective preconditions, and
 - **Quote status:** quotation-ready
 - **Edition:** Author-published web essay, 2022
 - **Consumed by sections:** §2/#1; §2/#4
-- **Consumed by arguments:** [[Sym-Ballein]]; [[18-trust-faith-formal-limit|Trust]]
+- **Consumed by arguments:** [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; [[18-trust-faith-formal-limit|Trust]]
 
 ## Passage sequence: affect, fixation, and capture
 
@@ -114,8 +114,8 @@ This is Desmet's diagnostic account, not an established general law or a warrant
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `desmet-2022-psychology-totalitarianism-web-essay-md-01` | `desmet-2022-psychology-totalitarianism-web-essay` | web essay, paragraphs beginning “What is mass formation actually?” and “We have to consider” | quotation-ready | author-published HTML checked 2026-07-14: “radically blind to everything that goes against what the group believes” | Desmet's stated narrative-fixation mechanism | §2/#1 | [[Sym-Ballein]] | yes |
+| `desmet-2022-psychology-totalitarianism-web-essay-md-01` | `desmet-2022-psychology-totalitarianism-web-essay` | web essay, paragraphs beginning “What is mass formation actually?” and “We have to consider” | quotation-ready | author-published HTML checked 2026-07-14: “radically blind to everything that goes against what the group believes” | Desmet's stated narrative-fixation mechanism | §2/#1 | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]] | yes |
 
-| `desmet-2022-psychology-totalitarianism-web-essay-md-02` | `desmet-2022-psychology-totalitarianism-web-essay` | paragraph beginning “It disconnected people” | quotation-ready | author-published HTML checked 2026-07-14: “social isolation, lack of meaning, free-floating anxiety” | affective preconditions of mass formation | §2/#1 | [[Sym-Ballein]] | yes |
+| `desmet-2022-psychology-totalitarianism-web-essay-md-02` | `desmet-2022-psychology-totalitarianism-web-essay` | paragraph beginning “It disconnected people” | quotation-ready | author-published HTML checked 2026-07-14: “social isolation, lack of meaning, free-floating anxiety” | affective preconditions of mass formation | §2/#1 | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]] | yes |
 
 | `desmet-2022-psychology-totalitarianism-web-essay-md-03` | `desmet-2022-psychology-totalitarianism-web-essay` | paragraph beginning “The leaders now had to be elected” | quotation-ready | author-published HTML checked 2026-07-14: “If the masses cannot be commanded, they have to be manipulated.” | mass–elite circuit | §2/#4 | [[18-trust-faith-formal-limit|Trust]] | yes |

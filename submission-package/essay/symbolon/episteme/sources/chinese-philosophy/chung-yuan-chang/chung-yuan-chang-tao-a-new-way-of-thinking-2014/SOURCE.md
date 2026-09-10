@@ -43,6 +43,8 @@ passage_surface: "#passages"
 
 # Chang Chung-yuan — *Tao: A New Way of Thinking* (2014)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Bibliographic identity
 
 The work is Chang Chung-yuan's translation of the Tao Tê Ching with an introduction and chapter-by-chapter commentaries. Chang (1907–1988), Professor of Philosophy at the University of Hawaiʻi at Mānoa and author of *Creativity and Taoism*, reads each chapter beside Western metaphysics — Heidegger above all, with Hegel, Schopenhauer, Jung, Plato, Kant, and Nietzsche named by the publisher; the chapters Frank read also quote Nishida.

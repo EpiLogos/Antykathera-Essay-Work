@@ -75,10 +75,10 @@ His own presentation gives the Return of Zero a methodological precedent of unus
 
 | Locator | Source operation | Essay consumer | Relation |
 |---|---|---|---|
-| pp. 1–3 | Mutations are read through visible, tangible, audible, linguistic, artistic, and scientific manifestations; aperspectivity is liberation from the exclusive validity of perspective, not a synthesis. | §0/1 #4; [[Paradox as Cross-Register Hinge]] | Paraphrased / argued from |
-| pp. 11–18 | Giotto, Petrarch, and the discovery of landscape disclose the emergence of objectified depth-space and a distinct ego-world. | §0/1 #4; [[Immutable Gap and Meta-Sign]] | Paraphrased |
-| pp. 16–21 | Alberti's visual pyramid and Leonardo's perspectival optics join artistic depiction, scientific description, and technical drafting. | §0/1 #4; [[Core Theorem Bridge]] | Paraphrased / argued from |
-| pp. 255–58 | Visual triangle, conceptual pyramid, diaresis, sectorisation, and the exclusionary narrowing of perspectival thought. | [[Core Theorem Bridge]]; §4 #4 | Paraphrased / argued from |
+| pp. 1–3 | Mutations are read through visible, tangible, audible, linguistic, artistic, and scientific manifestations; aperspectivity is liberation from the exclusive validity of perspective, not a synthesis. | §0/1 #4; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | Paraphrased / argued from |
+| pp. 11–18 | Giotto, Petrarch, and the discovery of landscape disclose the emergence of objectified depth-space and a distinct ego-world. | §0/1 #4; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | Paraphrased |
+| pp. 16–21 | Alberti's visual pyramid and Leonardo's perspectival optics join artistic depiction, scientific description, and technical drafting. | §0/1 #4; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md) | Paraphrased / argued from |
+| pp. 255–58 | Visual triangle, conceptual pyramid, diaresis, sectorisation, and the exclusionary narrowing of perspectival thought. | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); §4 #4 | Paraphrased / argued from |
 | pp. 24–28; 470–86 | Picasso, Braque, and later painting make time and multiple aspects perceptible as a signal of the aperspectival mutation. | §4 #4 | Paraphrased |
 
 ### Licensed essay use
@@ -89,7 +89,7 @@ His own presentation gives the Return of Zero a methodological precedent of unus
 
 ## Consumption
 
-[[P5 - Gebser]] supplies the authored section-body and its Father/absent-ground movement. It enters §0/1 #4 after the formal-limit genealogy, then returns in §4 #4 when the theorem's `360°` contextual field is given its psychoid and mythemic completion. The primary source supplies the historical-optical method and its evidence; the P5 passage performs the essay's own context, Subject, and zero argument.
+[P5 - Gebser](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/P5%20-%20Gebser.md) supplies the authored section-body and its Father/absent-ground movement. It enters §0/1 #4 after the formal-limit genealogy, then returns in §4 #4 when the theorem's `360°` contextual field is given its psychoid and mythemic completion. The primary source supplies the historical-optical method and its evidence; the P5 passage performs the essay's own context, Subject, and zero argument.
 
 ## Quote and excerpt ledger
 

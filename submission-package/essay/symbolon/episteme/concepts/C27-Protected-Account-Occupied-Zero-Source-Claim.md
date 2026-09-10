@@ -1,4 +1,5 @@
 ---
+record_id: C27
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from Taylor's QL and arbitration grammar; political, psychic and technical cases retain independent evidence"
@@ -37,7 +38,7 @@ The [Foucault lens](../lenses/foucault.md#foucault-authorised-speech) **tests** 
 
 E2’s Criterion through distinction makes the criterion itself answerable to what the account encounters. Arbitration can sustain a valid distinction; occupation begins when its office exempts that distinction from return. The protected account therefore returns to [E2’s criterion through distinction](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#criterion-through-distinction): correction must be able to reach the rule that decides what counts as correction.
 
-The [Symbol / Account / Trust whole-field — Trust keeps the return route active](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active) **qualifies** this operation at evidence register 3. A record can receive contrary evidence while protecting its criterion. Return must reach that criterion and the office holding it, so added disclosure can change the account’s terms. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
+The [Symbol / Account / Trust whole-field — Trust keeps the return route active](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active) **qualifies** this operation at evidence register 3. A record can receive contrary evidence while protecting its criterion. Return must reach that criterion and the office holding it, so added disclosure can change the account’s terms. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
 
 In the [Chinese rectification case](../etymologies/symbol-account-and-trust/HISTORICAL-BRANCHES.md#chinese-rectification-of-names), [Analects 13.15](../sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md#analects-ctext-legge-q002) **compares** two consequences of unopposed speech: good counsel can stand, while bad counsel left unopposed exposes the state to danger. C27 asks whether the office governing an account can receive the correction its consequences require. The comparison preserves the distinction between a warranted stable standard and immunity from correction; it does not attribute C27’s revision procedure to the received Analects.
 

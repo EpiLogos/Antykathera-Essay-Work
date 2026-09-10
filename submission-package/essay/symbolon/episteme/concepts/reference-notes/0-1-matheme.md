@@ -5,6 +5,7 @@ aliases:
   - "0/1"
   - "1/0"
   - "4+2"
+source_id: 0-1-matheme
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

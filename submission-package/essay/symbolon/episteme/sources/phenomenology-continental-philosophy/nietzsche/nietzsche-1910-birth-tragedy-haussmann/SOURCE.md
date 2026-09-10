@@ -83,7 +83,7 @@ Exact text and consumer mappings: [Quotes — Nietzsche Birth of Tragedy (Haussm
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** primary aesthetic formulation / historical context.
-- **Consumers:** [[35-s4-p4-gebser-apollo-dionysus]]; [[Paradox as Cross-Register Hinge]]; [[Arche-Topos as Differential Field]]; movement 35 historical-aesthetic relation.
+- **Consumers:** [[35-s4-p4-gebser-apollo-dionysus]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; movement 35 historical-aesthetic relation.
 - **Use boundary:** establishes Nietzsche’s aesthetic duplexity; it does not establish Gebserian diaphaneity, QL, or a general order/chaos binary.
 
 <a id="nietzsche-1910-birth-tragedy-haussmann-q002"></a>
@@ -97,12 +97,12 @@ Exact text and consumer mappings: [Quotes — Nietzsche Birth of Tragedy (Haussm
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** counterposition / scope limitation.
-- **Consumers:** [[35-s4-p4-gebser-apollo-dionysus]]; [[Paradox as Cross-Register Hinge]]; [[Arche-Topos as Differential Field]]; movement 35 anti-binary boundary.
+- **Consumers:** [[35-s4-p4-gebser-apollo-dionysus]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; movement 35 anti-binary boundary.
 - **Use boundary:** supports a reciprocal, tragedy-specific relation; resistance to a crude order/chaos binary is an essay inference, not Nietzsche’s own terminology.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `nietzsche-1910-birth-tragedy-haussmann-q001` | `nietzsche-1910-birth-tragedy-haussmann` | §1, p. 21 | quotation-ready | `35-s4-p4-gebser-apollo-dionysus` | [[Paradox as Cross-Register Hinge]]; [[Arche-Topos as Differential Field]] | primary aesthetic formulation | [Quotes — Nietzsche Birth of Tragedy (Haussmann, 1910)](#passages) |
+| `nietzsche-1910-birth-tragedy-haussmann-q001` | `nietzsche-1910-birth-tragedy-haussmann` | §1, p. 21 | quotation-ready | `35-s4-p4-gebser-apollo-dionysus` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | primary aesthetic formulation | [Quotes — Nietzsche Birth of Tragedy (Haussmann, 1910)](#passages) |
 
-| `nietzsche-1910-birth-tragedy-haussmann-q002` | `nietzsche-1910-birth-tragedy-haussmann` | §21, p. 167 | quotation-ready | `35-s4-p4-gebser-apollo-dionysus` | [[Paradox as Cross-Register Hinge]]; [[Arche-Topos as Differential Field]] | qualification / counterposition | [Quotes — Nietzsche Birth of Tragedy (Haussmann, 1910)](#passages) |
+| `nietzsche-1910-birth-tragedy-haussmann-q002` | `nietzsche-1910-birth-tragedy-haussmann` | §21, p. 167 | quotation-ready | `35-s4-p4-gebser-apollo-dionysus` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | qualification / counterposition | [Quotes — Nietzsche Birth of Tragedy (Haussmann, 1910)](#passages) |

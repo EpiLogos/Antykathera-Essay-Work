@@ -1,5 +1,6 @@
 ---
 title: "§2 · #2 — Sym-Ballein"
+source_id: 21-s2-p2-sym-ballein
 node_type: section
 page_type: section-movement
 station: "§2"
@@ -13,9 +14,13 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §2 · #2 — Sym-Ballein
 
+<!-- reader-navigation -->
+Movement 21 of 48 · [This room](../ROOM.md) · [← Previous](20-s2-p1-dia-ballein.md) · [Next →](22-s2-p3-ares-aphrodite-harmonia.md)
+<!-- /reader-navigation -->
+
 ## Movement thesis
 
-[[Sym-Ballein]] writes superpositional polarity as inverse orientations of the retained ground–mark relation:
+[[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]] writes superpositional polarity as inverse orientations of the retained ground–mark relation:
 
 $$
 \operatorname{sym\text{-}ballein}:\frac{(0/1)}{(1/0)}.
@@ -40,11 +45,11 @@ At the outer level, the two readings form one event and remain irreducibly inver
 
 Sym-ballein is the root of symbolon: a token broken in two whose halves authenticate one another across separation, distance, and time. The symbolon is materially a trust-device. Its fracture verifies rather than destroys the bond. Wholeness is not pristine identity. It is fracture retained as relation.
 
-Sym-ballein-mode knowledge offers provisional anchors. Embodied competence, relationship, lineage, land, ritual, family, source, and institution can distribute the conditions in which uncertainty is borne without a single object occupying the whole. [[Trust, Faith, and the Formal Limit]] names the living relation those anchors serve; [[Mono-Poly: Whole and Many]] names the social topology in which many anchors need not be absorbed by one false whole.
+Sym-ballein-mode knowledge offers provisional anchors. Embodied competence, relationship, lineage, land, ritual, family, source, and institution can distribute the conditions in which uncertainty is borne without a single object occupying the whole. [[symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust, Faith, and the Formal Limit]] names the living relation those anchors serve; [[symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many|Mono-Poly: Whole and Many]] names the social topology in which many anchors need not be absorbed by one false whole.
 
 In technical systems the same principle becomes provenance, reversible traversal, visible alternatives, inspectable seams, and plural governance. A decision can remain decisive while carrying where it came from.
 
-Sym-ballein is therefore the compositional half of [[Computational Process Ontology|the runtime]]. It preserves dia-ballein's branch while making that branch carry the problem it answered, the alternatives it excluded, the counter-reading that can contest it, and the wider state it changes. The result is an epistemic object whose relation to its own conditions remains executable; a metadata log records the trail but cannot by itself perform the return.
+Sym-ballein is therefore the compositional half of [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|the runtime]]. It preserves dia-ballein's branch while making that branch carry the problem it answered, the alternatives it excluded, the counter-reading that can contest it, and the wider state it changes. The result is an epistemic object whose relation to its own conditions remains executable; a metadata log records the trail but cannot by itself perform the return.
 
 Its danger is fusion: the fantasy that shared ground abolishes different positions or dissolves power. Sym-ballein remains healthy only when the seam stays visible.
 
@@ -66,7 +71,7 @@ The retained branch **returns-to** [Count-to-Account](../../../symbolon/episteme
 
 The mytheme of war, love, craft, and concord shows what these two logics feel like when embodied: [[22-s2-p3-ares-aphrodite-harmonia|§2 · #3 — Ares, Aphrodite, and Harmonia]].
 
-The [Symbol / Account / Trust whole-field — Symbol answers to source](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source) **qualifies** this operation at evidence register 3. The matching seam keeps an achieved sign answerable across separation, and provisional anchors remain able to receive a changed encounter. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
+The [Symbol / Account / Trust whole-field — Symbol answers to source](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source) **qualifies** this operation at evidence register 3. The matching seam keeps an achieved sign answerable across separation, and provisional anchors remain able to receive a changed encounter. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
 
 Shared meaning retains the participants’ differences; a token’s matching seam does not eliminate power or guarantee trust; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-dialogue) **qualifies** this operational comparison.
 

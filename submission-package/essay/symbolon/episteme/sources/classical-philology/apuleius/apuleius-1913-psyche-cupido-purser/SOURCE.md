@@ -44,6 +44,8 @@ url: https://faculty.georgetown.edu/jod/apuleius/cupid.html
 ---
 # Apuleius — Psyche et Cupido (Purser, 1913)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Chicago 18 forms
 
 **Full note:** Apuleius,*Psyche et Cupido*, ed. Louis C. Purser (London: P. H. Lee Warner for the Medici Society, 1913),*Metamorphoses*6.21.3, [Project Libellus text hosted by Georgetown](https://faculty.georgetown.edu/jod/apuleius/cupid.html).

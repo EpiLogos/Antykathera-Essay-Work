@@ -2,6 +2,7 @@
 title: "Nothaft Satanic Ciphers"
 aliases:
   - "Nothaft Satanic Ciphers"
+source_id: nothaft-satanic-ciphers
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

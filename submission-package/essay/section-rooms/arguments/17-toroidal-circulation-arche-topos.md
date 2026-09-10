@@ -3,6 +3,7 @@ title: "Toroidal Circulation and the Arche-Topos"
 aliases:
   - "Toroidal Circulation and the Arche-Topos"
   - "Torus as Circulation Field"
+source_id: 17-toroidal-circulation-arche-topos
 node_type: claim
 page_type: argument-map
 argument_level: primary-warrant
@@ -31,8 +32,12 @@ tags:
   - argument-map/arche-topos
   - argument-map/mathematical-artistic
   - argument-map/warrant
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Toroidal Circulation and the Arche-Topos
+
+**Historical carrier.** The developed successor is [A17](../../symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claim
 

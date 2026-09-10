@@ -1,6 +1,7 @@
 ---
 title: "Complex Plane"
 aliases: ["Argand Plane"]
+source_id: complex-plane
 node_type: reference
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

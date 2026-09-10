@@ -1,15 +1,18 @@
 ---
 title: "§1 Room — The Return of Zero — History, Empty Set, and Symbolic Linkage"
+source_id: room-02-return-of-zero
 page_type: section-room-waypoint
 station: "§1"
 room: "02-return-of-zero"
-generated_by: "build-section-rooms.py v2.0.1"
+generated_by: "build-section-rooms.py v2.2.0"
 ownership: generated
 ---
 
 # §1 — The Return of Zero — History, Empty Set, and Symbolic Linkage
 
 **Write here:** [sovereign master manuscript](../../THE-RETURN-OF-ZERO.md#section-s1-return-of-zero)
+
+**Where you are:** [Reading root](../../README.md) · [the rooms](../README.md) · §1 · room 3 of 8 · previous [§0](../01-differentiating-mind/ROOM.md) · next [§2](../03-two-logics/ROOM.md)
 
 **Open beside it:** [reading route](READING.md)
 
@@ -29,67 +32,67 @@ Differentiation structurally retains a zero, and mathematics supplies exact form
 
 **Incoming pressure:** [§0 #5→0 · Objective Internality](../01-differentiating-mind/movements/12-s0-p5-objective-internality.md)
 
-**Earned position (Derived):** Zero converges several historically distinct inventions: the blank place, placeholder, numeral, arithmetic element, origin, empty set, and sign of nothing. These meanings become powerful because they migrate between scripts, calculating practices, philosophical vocabularies, and civilisations.
+**Earned position (Derived):** Zero converges several historically distinct inventions: the blank place, placeholder, numeral, arithmetic element, origin, empty set, and sign of nothing.
 
 **Why this move:** The formal-limit opening asked how thought can mark the condition it cannot count as one more object.
 
 **Carry-forward:** The decisive turn occurs when śūnya is no longer only the empty place but something through which arithmetic can pass.
 
-**Open:** [movement](movements/13-s1-p0-sign-migrates.md) · arguments: [Prakāśa-Vimarśa](../arguments/09-prakasa-vimarsa.md) · sources: [kaplan-1999-nothing-that-is](../../symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md), [rotman-1987-signifying-nothing](../../symbolon/episteme/sources/mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md)
+**Open:** [movement](movements/13-s1-p0-sign-migrates.md) · canonical route: [A10 — Advent-of-Zero](../../symbolon/episteme/arguments/A10-Advent-of-Zero.md), [A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account](../../symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md), [C03](../../symbolon/episteme/concepts/C03-Determination.md), [C52](../../symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md) · sources: [kaplan-1999-nothing-that-is](../../symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md), [rotman-1987-signifying-nothing](../../symbolon/episteme/sources/mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md)
 
 ### #1 · Śūnya Becomes Operational
 
 **Incoming pressure:** [§1 #0 · A Sign Migrates Between Worlds](movements/13-s1-p0-sign-migrates.md)
 
-**Earned position (Derived):** The decisive turn occurs when śūnya is no longer only the empty place but something through which arithmetic can pass. Brahmagupta gives rules for operations involving zero; Bhāskara later presses into khahara, the division of a number by zero.
+**Earned position (Derived):** The decisive turn occurs when śūnya is no longer only the empty place but something through which arithmetic can pass.
 
 **Why this move:** The first two operations are stable within ordinary arithmetic.
 
 **Carry-forward:** Operative śūnya **returns-to** Name-through-Count at the distinction between an unfilled place and a sign permitted to act in calculation.
 
-**Open:** [movement](movements/14-s1-p1-sunya-operational.md) · sources: [colebrooke-1817-brahmagupta-bhaskara-q001](../../symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q001), [colebrooke-1817-brahmagupta-bhaskara-q002](../../symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q002), [colebrooke-1817-brahmagupta-bhaskara-q003](../../symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q003), [kaplan-1999-nothing-that-is](../../symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md), [dutta-2023-zero-divided-numbers-india](../../symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md)
+**Open:** [movement](movements/14-s1-p1-sunya-operational.md) · canonical route: [A10 — Advent-of-Zero](../../symbolon/episteme/arguments/A10-Advent-of-Zero.md), [A23 — Trust, Faith and the Formal Limit](../../symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md), [C03](../../symbolon/episteme/concepts/C03-Determination.md), [C48](../../symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md), [C52](../../symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md) · sources: [colebrooke-1817-brahmagupta-bhaskara-q001](../../symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q001), [colebrooke-1817-brahmagupta-bhaskara-q002](../../symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q002), [colebrooke-1817-brahmagupta-bhaskara-q003](../../symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q003), [kaplan-1999-nothing-that-is](../../symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md), [dutta-2023-zero-divided-numbers-india](../../symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md)
 
 ### #2 · The Empty Set Generates One
 
 **Incoming pressure:** [§1 #1 · Śūnya Becomes Operational](movements/14-s1-p1-sunya-operational.md)
 
-**Earned position (Derived):** The von Neumann construction makes the return of zero formally exact: One arises as the first count of zero, the first enclosure or mark of emptiness. No second primitive substance is required.
+**Earned position (Derived):** The von Neumann construction makes the return of zero formally exact: One arises as the first count of zero, the first enclosure or mark of emptiness.
 
 **Carry-forward:** The next movement asks how this relation can be carried as a sign without pretending that the mark exhausts its ground: §1 · #3 — The Crossed Zero.
 
-**Open:** [movement](movements/15-s1-p2-empty-set-generates-one.md) · arguments: [The Two Ones — Mono–Poly Matheme](../arguments/19-two-ones-mono-poly-matheme.md)
+**Open:** [movement](movements/15-s1-p2-empty-set-generates-one.md) · canonical route: [A10 — Advent-of-Zero](../../symbolon/episteme/arguments/A10-Advent-of-Zero.md), [A11 — The-Two-Ones-0-One-1-All](../../symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md), [A14 — Computational Process Ontology](../../symbolon/episteme/arguments/A14-Computational-Process-Ontology.md), [C49](../../symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md), [C52](../../symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md), [C64](../../symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md)
 
 ### #3 · The Crossed Zero
 
 **Incoming pressure:** [§1 #2 · The Empty Set Generates One](movements/15-s1-p2-empty-set-generates-one.md)
 
-**Earned position (Offered):** Ø gives the argument its most economical image: zero bears a stroke, yet the stroke does not fill the zero. The sign holds absence and mark in one figure.
+**Earned position (Offered):** Ø gives the argument its most economical image: zero bears a stroke, yet the stroke does not fill the zero.
 
 **Carry-forward:** When a determinate one returns directly toward zero, the result depends on the space that contains the operation.
 
-**Open:** [movement](movements/16-s1-p3-crossed-zero.md)
+**Open:** [movement](movements/16-s1-p3-crossed-zero.md) · canonical route: [A10 — Advent-of-Zero](../../symbolon/episteme/arguments/A10-Advent-of-Zero.md), [A18 — Primordial Symbolon and Its Eight Determinations](../../symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [C21](../../symbolon/episteme/concepts/C21-Living-Symbol-Idol.md), [C52](../../symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md), [C61](../../symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md)
 
 ### #4 · Zero Keeps One Foot Outside Mathematics
 
 **Incoming pressure:** [§1 #3 · The Crossed Zero](movements/16-s1-p3-crossed-zero.md)
 
-**Earned position (Argued):** Division by zero is the point at which a formal system must disclose itself. In an ordinary field, \(1/0\) is undefined because no element multiplied by zero returns one.
+**Earned position (Argued):** Division by zero is the point at which a formal system must disclose itself.
 
 **Why this move:** This is why zero keeps one foot “outside mathematics.” Zero is entirely mathematical, but the return of a finite determination to zero reaches the edge at which the current mathematical world must refuse the operation or transform its own space.
 
 **Carry-forward:** “Outside” means frame-disclosing, not supernatural.
 
-**Open:** [movement](movements/17-s1-p4-zero-outside-math.md) · sources: [colebrooke-1817-brahmagupta-bhaskara-q002](../../symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q002), [kaplan-1999-nothing-that-is](../../symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md), [dutta-2023-zero-divided-numbers-india](../../symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md)
+**Open:** [movement](movements/17-s1-p4-zero-outside-math.md) · canonical route: [A10 — Advent-of-Zero](../../symbolon/episteme/arguments/A10-Advent-of-Zero.md), [A18 — Primordial Symbolon and Its Eight Determinations](../../symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [A23 — Trust, Faith and the Formal Limit](../../symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md), [C21](../../symbolon/episteme/concepts/C21-Living-Symbol-Idol.md), [C48](../../symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md), [C52](../../symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md), [C61](../../symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md) · sources: [colebrooke-1817-brahmagupta-bhaskara-q002](../../symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q002), [kaplan-1999-nothing-that-is](../../symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md), [dutta-2023-zero-divided-numbers-india](../../symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md)
 
 ### #5→0 · The Loan Returns
 
 **Incoming pressure:** [§1 #4 · Zero Keeps One Foot Outside Mathematics](movements/17-s1-p4-zero-outside-math.md)
 
-**Earned position (Argued):** The formal-limit opening borrowed zero as a sign for the subject that cannot be counted as one more object. §1 returns the loan with mathematical interest.
+**Earned position (Argued):** The formal-limit opening borrowed zero as a sign for the subject that cannot be counted as one more object.
 
 **Carry-forward:** The recovered zero reveals why “binary logic” is ambiguous.
 
-**Open:** [movement](movements/18-s1-p5-loan-returns.md) · sources: [colebrooke-1817-brahmagupta-bhaskara-q003](../../symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q003), [kaplan-1999-nothing-that-is](../../symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md)
+**Open:** [movement](movements/18-s1-p5-loan-returns.md) · canonical route: [A11 — The-Two-Ones-0-One-1-All](../../symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md), [A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account](../../symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md), [A23 — Trust, Faith and the Formal Limit](../../symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md), [C48](../../symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md), [C49](../../symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md) · sources: [colebrooke-1817-brahmagupta-bhaskara-q003](../../symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md#colebrooke-1817-brahmagupta-bhaskara-q003), [kaplan-1999-nothing-that-is](../../symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md)
 
 ## Release
 

@@ -1,4 +1,5 @@
 ---
+record_id: C36
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from native containing-field synthesis; Jungian and theological complexio accounts retain separate source tasks"

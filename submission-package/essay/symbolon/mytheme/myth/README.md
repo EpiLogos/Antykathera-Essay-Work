@@ -20,9 +20,9 @@ Every **project interpretation** attached to those wholes or later indexes carri
 
 ## Worked whole-record exemplars
 
-[[submission-package/essay/symbolon/mytheme/worlds/hellenic/attica-athena-poseidon-cecrops/WHOLE|Attica — Athena, Poseidon, Cecrops, Olive, Sea, Verdict, and the Remembered Counter-Claim]] is the first record to instantiate the full form, including relation-local human-amplification state.
+[[symbolon/mytheme/worlds/hellenic/attica-athena-poseidon-cecrops/WHOLE|Attica — Athena, Poseidon, Cecrops, Olive, Sea, Verdict, and the Remembered Counter-Claim]] is the first record to instantiate the full form, including relation-local human-amplification state.
 
-[[submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE|The Hypostasis of the Archons — Sophia, Veil, Rulers, Adam, Norea, Eleleth, and the Root Above]] is the first source-first cosmological whole admitted specifically to resolve Native 020's layered-cosmos / firmament / archons seam. It preserves the veil-divided cosmology, derivative rulers, human drama, Norea's refusal and Eleleth's revelation before any modern QL, political or technical amplification is allowed to propagate.
+[[symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE|The Hypostasis of the Archons — Sophia, Veil, Rulers, Adam, Norea, Eleleth, and the Root Above]] is the first source-first cosmological whole admitted specifically to resolve Native 020's layered-cosmos / firmament / archons seam. It preserves the veil-divided cosmology, derivative rulers, human drama, Norea's refusal and Eleleth's revelation before any modern QL, political or technical amplification is allowed to propagate.
 
 The operational form is:
 
@@ -50,8 +50,8 @@ Attica's current human-amplified core includes Poseidon's sea/well as the archai
 
 The *Hypostasis* record is deliberately more conservative: the source whole is recovered, while its proposed Hybris/frame/technical-governance comparisons remain `human-amplified: no` pending Frank's encounter.
 
-This story-first law lets amplification expand the Mytheme world without atomising it. See [[working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW|Mytheme Whole-Story Amplification Law]] and [[working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS|Native 020]].
+This story-first law lets amplification expand the Mytheme world without atomising it. See [Mytheme Whole-Story Amplification Law](../../../../../working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md) and [Native 020](../../../../../working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md).
 
 Myth figures liveability, enclosure, transformation, conflict, inheritance, return or failure; it does not prove a Matheme. Episteme carries source variants and scholarly history; Matheme carries exact formal relations; the Myth page preserves the image-world from which either later abstraction may take one operation.
 
-Return to [[../README|Mytheme]].
+Return to [Mytheme](../README.md).

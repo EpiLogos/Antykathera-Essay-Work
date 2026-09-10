@@ -46,7 +46,7 @@ main_source_for:
 
 ## Bibliographic identity
 
-The selected object is Graham Priest, "The Logic of the Catuskoti," *Comparative Philosophy* 1, no. 2 (2010): 24–54, open access at scholarworks.sjsu.edu. Metadata and full text verified against the open-access PDF. Because the article is freely and fully accessible, it is this bank's quotation-ready formal core for Priest's catuṣkoṭi machinery: wherever the essay needs exact wording that the 2018 book house ([[priest-2018-fifth-corner]]) can currently supply only as review transcription, this article supplies it verified. Page numbers below follow the open-access PDF; a spot-check against the journal's own pagination remains open.
+The selected object is Graham Priest, "The Logic of the Catuskoti," *Comparative Philosophy* 1, no. 2 (2010): 24–54, open access at scholarworks.sjsu.edu. Metadata and full text verified against the open-access PDF. Because the article is freely and fully accessible, it is this bank's quotation-ready formal core for Priest's catuṣkoṭi machinery: wherever the essay needs exact wording that the 2018 book house ([[symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE|priest-2018-fifth-corner]]) can currently supply only as review transcription, this article supplies it verified. Page numbers below follow the open-access PDF; a spot-check against the journal's own pagination remains open.
 
 ## Chicago 18 forms
 
@@ -76,7 +76,7 @@ The verified formal statements of the four-corner FDE semantics, the fifth statu
 
 ### Claim boundary
 
-This is Priest's construction, not settled history of the catuṣkoṭi. The reception gates recorded in [[priest-2018-fifth-corner]] (Siderits, Westerhoff, Green, Kapsner) apply to this article's machinery equally and must be cross-referenced wherever it is used. The reading of e's arrival as arrival at QL's #0 — and of the tradition as performing the 5→0 return — is the essay's own Argued move, not Priest's.
+This is Priest's construction, not settled history of the catuṣkoṭi. The reception gates recorded in [[symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE|priest-2018-fifth-corner]] (Siderits, Westerhoff, Green, Kapsner) apply to this article's machinery equally and must be cross-referenced wherever it is used. The reading of e's arrival as arrival at QL's #0 — and of the tradition as performing the 5→0 return — is the essay's own Argued move, not Priest's.
 
 <a id="passages"></a>
 ## Passages and excerpts
@@ -97,7 +97,7 @@ This is Priest's construction, not settled history of the catuṣkoṭi. The rec
 - **Source relation:** quoted.
 - **Evidential action:** supports.
 - **Argument function:** the catuṣkoṭi's face-value fourfold — the codified counterpart of QL's #1–#4.
-- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history.
+- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history.
 - **Use boundary:** states the scheme; carries no claim about its ground.
 
 <a id="priest-2010-logic-catuskoti-q002"></a>
@@ -195,7 +195,7 @@ This is Priest's construction, not settled history of the catuṣkoṭi. The rec
 - **Source relation:** quoted.
 - **Evidential action:** supports.
 - **Argument function:** places the catuṣkoṭi as central to Madhyamaka logic for the history strand.
-- **Consumers:** [[submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history; [[28-s3-p3-projective-dimensional-reframing]].
+- **Consumers:** [[symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history; [[28-s3-p3-projective-dimensional-reframing]].
 - **Use boundary:** a historian-facing claim by a logician; Westerhoff's non-uniformity objection qualifies it.
 
 ## Open acquisition and verification

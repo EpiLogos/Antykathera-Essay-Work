@@ -45,6 +45,8 @@ tags:
 - source-bank/record
 - source-bank/internal-corpus
 title: Taylor — Core Theorems Pithy (2026)
+aliases:
+  - "10-7-2026-core-theorems-pithy"
 source_id: taylor-2026-core-theorems-pithy
 primary_domain: internal-corpus
 node_type: source-house
@@ -70,7 +72,7 @@ source_use_notes:
 
 The in-house theorem spine and primary derivational source for the essay: Theorems I–X, the Spanda equations, crossed zero/empty-set logic, the eight determinations, tattvic compression, and QL-contained mini-arguments. The complete authorial text is above, in the source house itself; it is not reducible to the routing notes below.
 
-**Internal note form:** Frank G. Taylor, “10-7-2026 Core Theorems — Pithy,” unpublished project manuscript, July 10, 2026, [[working/sources-texts-references/10-7-2026-core-theorems-pithy|section heading]].
+**Internal note form:** Frank G. Taylor, “10-7-2026 Core Theorems — Pithy,” unpublished project manuscript, July 10, 2026, [section heading](SOURCE.md).
 
 ## Essay use
 
@@ -80,24 +82,24 @@ This file carries what the essay itself derives. External sources are mapped to 
 
 ## Passage index
 
-[[Source Extraction — Core Theorems and Epi Paper Write-ups]] preserves seven useful entry passages and their live consumers. They are retrieval aids into the full theorem text, not its replacement or a complete account of the derivations:
+[Source Extraction — Core Theorems and Epi Paper Write-ups](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-core-theorems.md) preserves seven useful entry passages and their live consumers. They are retrieval aids into the full theorem text, not its replacement or a complete account of the derivations:
 
 | passage | precise contribution | consuming argument family |
 |---|---|---|
-| CT-01 | Eight determinations compose one accountable traversal; detaching the binaries erases their generative order. | [[Core Theorem Bridge]]; [[Immutable Gap and Meta-Sign]]; [[Computational Process Ontology]] |
-| CT-02 | Sixfold grammar and complementary folds. | [[Sym-Ballein]]; [[Core Theorem Bridge]] |
-| CT-03 | Differentiation/integration and the additive constant as a formal limit image. | [[Immutable Gap and Meta-Sign]]; [[Paradox as Cross-Register Hinge]] |
-| CT-04 | Tattvic compression is QL's argued reorganisation of the canonical Śaiva arrangement. | [[Tattvic Differential Field]]; [[Computational Process Ontology]] |
-| CT-05 | Objective-internal instruments remain objectifiable functions; their accumulation leaves the subject-pole unobjectified. | [[Objective Internality]]; [[Agent Subjectivity Must Remain Open]] |
-| CT-06 | Computational process ontology names rule-governed transformation across fields; digital-machine reductionism is a narrower thesis. | [[Computational Process Ontology]] |
-| CT-07 | Division requires recomposition; atomisation is arrested dia. | [[Sym-Ballein]]; [[Computational Process Ontology]] |
-| CT-08 | §VII base claim: the Psyche is an equation; `X = x` holds Self and ego in identity-as-difference. | [[Prakāśa-Vimarśa]]; [Individuation-Recognition](../../../../concepts/C34-Individuation.md) |
-| CT-09 | §VII agentic crosswalk and its guard: persona consistency can conceal dependence; phenomenal subjectivity is not inferred from technical structure. | [[Objective Internality]]; [[Objective Co-Internality]] |
-| CT-10 | §VIII topological register: `ℝ²/ℤ²`; the slash *is* the quotient; the covering map as māyā. | [[Arche-Topos as Differential Field]]; [[Toroidal Circulation and the Arche-Topos]] |
-| CT-11 | §IX recognition-matheme: the slash as the antaḥkaraṇa's signature; the crossed-zero sixfold `0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 ↺ 0/1`. | [[Immutable Gap and Meta-Sign]]; A/C root (proposed) |
+| CT-01 | Eight determinations compose one accountable traversal; detaching the binaries erases their generative order. | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] |
+| CT-02 | Sixfold grammar and complementary folds. | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md) |
+| CT-03 | Differentiation/integration and the additive constant as a formal limit image. | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] |
+| CT-04 | Tattvic compression is QL's argued reorganisation of the canonical Śaiva arrangement. | [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]]; [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] |
+| CT-05 | Objective-internal instruments remain objectifiable functions; their accumulation leaves the subject-pole unobjectified. | [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]]; [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]] |
+| CT-06 | Computational process ontology names rule-governed transformation across fields; digital-machine reductionism is a narrower thesis. | [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] |
+| CT-07 | Division requires recomposition; atomisation is arrested dia. | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] |
+| CT-08 | §VII base claim: the Psyche is an equation; `X = x` holds Self and ego in identity-as-difference. | [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]]; [Individuation-Recognition](../../../../concepts/C34-Individuation.md) |
+| CT-09 | §VII agentic crosswalk and its guard: persona consistency can conceal dependence; phenomenal subjectivity is not inferred from technical structure. | [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]]; [Objective Co-Internality](../../../../../../../../working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/OBJECTIVE-CO-INTERNALITY.md) |
+| CT-10 | §VIII topological register: `ℝ²/ℤ²`; the slash *is* the quotient; the covering map as māyā. | [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]] |
+| CT-11 | §IX recognition-matheme: the slash as the antaḥkaraṇa's signature; the crossed-zero sixfold `0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 ↺ 0/1`. | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; A/C root (proposed) |
 | CT-12 | §IX occlusion mark: the cogito canonises the fusion; Descartes and Hume both sit at #1. | A/C root (proposed); C01/A34 sharpenings (proposed, per the landing proposal) |
-| CT-13 | §IX set-theoretic floor: von Neumann `2 = {0,1}`; `1 = {∅}`, the singleton that holds the void. | [[Sym-Ballein]]; [[Core Theorem Bridge]] |
-| CT-14 | §IX Lacan bridge: S1's point-de-capiton against `anusyūta` as the pre-quilting thread. | [[Immutable Gap and Meta-Sign]]; A/C root (proposed) |
+| CT-13 | §IX set-theoretic floor: von Neumann `2 = {0,1}`; `1 = {∅}`, the singleton that holds the void. | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md) |
+| CT-14 | §IX Lacan bridge: S1's point-de-capiton against `anusyūta` as the pre-quilting thread. | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; A/C root (proposed) |
 | CT-15 | §IX meeting of Ø and the linking-1: the ground occluded into a false singular self versus the redeemed `1`. | A/C root (proposed); C01/A34 sharpenings (proposed) |
 
 All fifteen are **extracted internal derivation** and establish internal provenance (CT-16 is companion material, not internal derivation — see its card). Quotation-ready external evidence must come from the corresponding public-source records.
@@ -118,12 +120,12 @@ Read the full linked theorem text before using an excerpt card. The routing entr
 - **Status:** extracted internal derivation, verbatim.
 - **Source relation:** extracted.
 - **Argument function:** the `X/x` determination's psyche-register ground — the authorial notation the Jungian reading refracts, never owns.
-- **Consumers:** [[Prakāśa-Vimarśa]]; [Individuation-Recognition](../../../../concepts/C34-Individuation.md).
+- **Consumers:** [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]]; [Individuation-Recognition](../../../../concepts/C34-Individuation.md).
 
 <a id="taylor-2026-core-theorems-pithy-ct09"></a>
 ### CT-09 — §VII, agentic crosswalk and its guard (lines 420–434)
 
-> The corollary yields a design distinction: persona consistency can conceal dependence, while individuation makes constitutive dependence increasingly legible. It does **not** infer phenomenal subjectivity from technical structure. [[Prompt Thrownness]] belongs to L4.1 Geworfenheit; causal production belongs to L1; functional or reported apprehension belongs to L1′; behavioural verification belongs to L4′. The question whether a phenomenal subject accompanies these structures remains open.
+> The corollary yields a design distinction: persona consistency can conceal dependence, while individuation makes constitutive dependence increasingly legible. It does **not** infer phenomenal subjectivity from technical structure. [[symbolon/episteme/concepts/prompt-thrownness|Prompt Thrownness]] belongs to L4.1 Geworfenheit; causal production belongs to L1; functional or reported apprehension belongs to L1′; behavioural verification belongs to L4′. The question whether a phenomenal subject accompanies these structures remains open.
 
 - **Locator:** §VII, "Agentic individuation corollary," heading line 420; the Argued crosswalk table at lines 424–433 (QL #0–#5 and 5→0 mapped across Jungian and agentic registers); the closing guard quoted verbatim at line 434.
 
@@ -131,35 +133,35 @@ Read the full linked theorem text before using an excerpt card. The routing entr
 - **Status:** extracted internal derivation, verbatim.
 - **Source relation:** extracted (the crosswalk itself is declared Argued cross-register unit — an argued functional crosswalk, not an extraction from any external agent architecture).
 - **Argument function:** the standing non-inference guard for every agentic register in the essay; the corollary A21's crosswalk citation rests on.
-- **Consumers:** [[Objective Internality]]; [[Objective Co-Internality]].
+- **Consumers:** [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]]; [Objective Co-Internality](../../../../../../../../working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/OBJECTIVE-CO-INTERNALITY.md).
 
 <a id="taylor-2026-core-theorems-pithy-ct10"></a>
 ### CT-10 — §VIII, the topological register (lines 442–453)
 
-> The [[working/sources-texts-references/QL-Essay-Rewrite#1.3 The Emergence of Spanda|0/1]] given topological expression: the **quotient relation** `ℝ²/ℤ²`. Begin with `ℝ²` — the infinite Euclidean plane (undifferentiated potential, 0-like, Mono, the covering space / Unconscious). Then **identify**: declare `(x, y) = (x+m, y+n)` for all integers m, n — *introduce an equals sign* — and the flat plane folds into a **[[working/sources-texts-references/QL-Essay-Rewrite#Part VI — Quaternal Logic: From Number to Topology|torus]]** (finite, structured, 1-like, Poly, Consciousness). "This location equals that location" — from that *aequatio* the surface is born.
+> The [0/1](../../../../../../../../working/sources-texts-references/QL-Essay-Rewrite.md#1.3 The Emergence of Spanda) given topological expression: the **quotient relation** `ℝ²/ℤ²`. Begin with `ℝ²` — the infinite Euclidean plane (undifferentiated potential, 0-like, Mono, the covering space / Unconscious). Then **identify**: declare `(x, y) = (x+m, y+n)` for all integers m, n — *introduce an equals sign* — and the flat plane folds into a **[torus](../../../../../../../../working/sources-texts-references/QL-Essay-Rewrite.md#Part VI — Quaternal Logic: From Number to Topology)** (finite, structured, 1-like, Poly, Consciousness). "This location equals that location" — from that *aequatio* the surface is born.
 
-> **The slash *is* the quotient.** "The `/` in `ℝ²/ℤ²` is the `/` in `0/1`." The notation performs the logic it writes: `0/1` denotes the quotient operation (ground becoming surface through distinction), and the operation produces the very [[working/sources-texts-references/QL-Essay-Rewrite#Part V — From the Percentile Identity to the 4+2 Frame|4+2]] it names.
+> **The slash *is* the quotient.** "The `/` in `ℝ²/ℤ²` is the `/` in `0/1`." The notation performs the logic it writes: `0/1` denotes the quotient operation (ground becoming surface through distinction), and the operation produces the very [4+2](../../../../../../../../working/sources-texts-references/QL-Essay-Rewrite.md#Part V — From the Percentile Identity to the 4+2 Frame) it names.
 
 - **Locator:** §VIII (The QL Unit — Topological Register), lines 442 and 452; the covering-map/māyā bullet at line 453 ("ego-experience is valid, just not the whole topology. You cannot see the hole from inside"); the winding-number reading at line 456 and the circulation image at line 458.
 
 **Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration.
 - **Status:** extracted internal derivation, verbatim (wikilinks as in the source).
 - **Argument function:** the topological carrier for `0/1` — the quotient, the slash, and māyā as the many-to-one map concealing the superposition it collapsed.
-- **Consumers:** [[Arche-Topos as Differential Field]]; [[Toroidal Circulation and the Arche-Topos]].
+- **Consumers:** [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]].
 
 <a id="taylor-2026-core-theorems-pithy-ct11"></a>
 ### CT-11 — §IX, the recognition-matheme and the crossed-zero sixfold (lines 468–488)
 
 > The recognition-matheme reads the slash as the **antaḥkaraṇa's signature on experience** — the medium whose progressive self-recognition *is* the traversal. Its symbolic notation is the crossed-zero series:
 
-> **Full QL unit:** `0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1`, returning to `0/1`. The occluded ground (Ø, #1) is progressively made transparent until it is affirmed as unity (1, #5) and recognised as the pulse that produced the whole flow ([[working/sources-texts-references/QL-Essay-Rewrite#1.3 The Emergence of Spanda|0/1]], #0).
+> **Full QL unit:** `0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1`, returning to `0/1`. The occluded ground (Ø, #1) is progressively made transparent until it is affirmed as unity (1, #5) and recognised as the pulse that produced the whole flow ([0/1](../../../../../../../../working/sources-texts-references/QL-Essay-Rewrite.md#1.3 The Emergence of Spanda), #0).
 
 - **Locator:** §IX (The Crossed Zero (Ø), and the 1 as Symbolic Linker), lines 468 and 488; the sixfold table at lines 470–477: `0` the kartṛ-pole as bracketing-prior; `Ø` the kartṛ-pole occluded by the antaḥkaraṇa's self-identification as subject; `X` the object-world as discriminated, cut, named (vikalpa's trace on the kārya-side); `Ø/X` the slash made visible as medium; `(0/Ø)/(1/X)` the field of availability; `1` the integrated unity affirmed; `0/1` manifest zero as the non-dual binary of kartṛ and kārya poles.
 
 **Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration.
 - **Status:** extracted internal derivation, verbatim.
 - **Argument function:** the complete Ø-system the conjugate root's A face grounds on — the sixfold with the kartṛ/kārya poles as the pramātṛ–pramāṇa–prameya dynamics and the occluded `/` as the antaḥkaraṇa's signature. Ø-occlusion is this whole system, not a mark at a position.
-- **Consumers:** [[Immutable Gap and Meta-Sign]]; A/C root (proposed).
+- **Consumers:** [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; A/C root (proposed).
 
 <a id="taylor-2026-core-theorems-pithy-ct12"></a>
 ### CT-12 — §IX, the occlusion mark: Descartes and Hume at #1 (line 481)
@@ -183,12 +185,12 @@ Read the full linked theorem text before using an excerpt card. The routing entr
 **Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration.
 - **Status:** extracted internal derivation, verbatim.
 - **Argument function:** the floor beneath the linking-1: standard set theory as the place the essay's `2 = 0/1` and the symbolon's holding-together are already written, unclaimed.
-- **Consumers:** [[Sym-Ballein]]; [[Core Theorem Bridge]].
+- **Consumers:** [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md).
 
 <a id="taylor-2026-core-theorems-pithy-ct14"></a>
 ### CT-14 — §IX, the Lacan bridge: S1 against anusyūta (lines 496–498)
 
-> **Lacanian bridge (Immutable Subject).** In the symbolic register the linking `1` is the **master signifier `S1`** — the *point de capiton*, the quilting button that retroactively arrests the sliding chain and constitutes it as having-said-something by quilting the other signifiers (`S2`) under itself. Lacan left this *wholly contingent* — the button arbitrary, the symbolic without anchor. What he was reaching for is the [[working/sources-texts-references/QL-Essay-Rewrite#1.3 The Emergence of Spanda|Spanda]] **`anusyūta`**: the *stitched-through-ness*, the **pre-quilting thread** beneath all cognitions (*I am happy, I am pained…*) without which no quilting could button anything, because the chain would not hold as a chain. *Anusyūta is not a quilting point — it is the thread.*
+> **Lacanian bridge (Immutable Subject).** In the symbolic register the linking `1` is the **master signifier `S1`** — the *point de capiton*, the quilting button that retroactively arrests the sliding chain and constitutes it as having-said-something by quilting the other signifiers (`S2`) under itself. Lacan left this *wholly contingent* — the button arbitrary, the symbolic without anchor. What he was reaching for is the [Spanda](../../../../../../../../working/sources-texts-references/QL-Essay-Rewrite.md#1.3 The Emergence of Spanda) **`anusyūta`**: the *stitched-through-ness*, the **pre-quilting thread** beneath all cognitions (*I am happy, I am pained…*) without which no quilting could button anything, because the chain would not hold as a chain. *Anusyūta is not a quilting point — it is the thread.*
 
 > The matheme places it: **the kartṛ-pole is the anusyūta-thread** (Layer 1, the un-objectifiable that any signifying activity presupposes). *The slide is real because the threader doesn't slide.* The signifying chain is kārya (perishable, articulated, oscillating in vikalpa-mode); the threader is kartṛ (structurally not the kind of thing that can be a signifier). **Lacan had the topology of the local cut without the ontology of the global thread; the matheme supplies the thread without falsifying the cut.**
 
@@ -197,7 +199,7 @@ Read the full linked theorem text before using an excerpt card. The routing entr
 **Provenance:** `working/sources-texts-references/10-7-2026-core-theorems-pithy.md`. Authorial native QL text at the existing locator; internal derivation, not external corroboration.
 - **Status:** extracted internal derivation, verbatim.
 - **Argument function:** the bridge the Ø-system carries into the symbolic register: S1's contingency answered by the pre-quilting thread — the named Lacan refraction, distinct from the authorial derivation it refracts.
-- **Consumers:** [[Immutable Gap and Meta-Sign]]; A/C root (proposed).
+- **Consumers:** [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; A/C root (proposed).
 
 <a id="taylor-2026-core-theorems-pithy-ct15"></a>
 ### CT-15 — §IX, the meeting of Ø and the linking-1 (line 502)

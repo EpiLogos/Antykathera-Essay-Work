@@ -81,7 +81,7 @@ Exact text and consumer mappings: [Quotes — Courtney Salt-Point (2019)](#passa
 - **Source relation:** extracted scholarly synthesis.
 - **Evidential action:** contextualises.
 - **Argument function:** Jungian quaternity context.
-- **Consumers:** [[33-s4-p2-complexio-quaternity-senarius]]; [[Arche-Topos as Differential Field]]; movement 33 differentiated-wholeness vocabulary.
+- **Consumers:** [[33-s4-p2-complexio-quaternity-senarius]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; movement 33 differentiated-wholeness vocabulary.
 - **Use boundary:** establishes Courtney’s cited scholarly synthesis; do not quote its embedded Jacobi, Jung, or Edinger fragments as if independently verified from those editions.
 
 <a id="courtney-2019-salt-point-kairos-chaos-q002"></a>
@@ -95,12 +95,12 @@ Exact text and consumer mappings: [Quotes — Courtney Salt-Point (2019)](#passa
 - **Source relation:** extracted scholarly synthesis.
 - **Evidential action:** qualifies.
 - **Argument function:** cross-register limitation.
-- **Consumers:** [[33-s4-p2-complexio-quaternity-senarius]]; [[Arche-Topos as Differential Field]]; movement 33 anti-reduction boundary.
+- **Consumers:** [[33-s4-p2-complexio-quaternity-senarius]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; movement 33 anti-reduction boundary.
 - **Use boundary:** blocks a physical mechanism from doing the work of symbolic meaning; it does not prove the QL 4+2 derivation or sacred/numerological causality.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `courtney-2019-salt-point-kairos-chaos-q001` | `courtney-2019-salt-point-kairos-chaos` | PDF p. 3, “The Square, Quaternity, and Aion” | quotation-ready | `33-s4-p2-complexio-quaternity-senarius` | [[Arche-Topos as Differential Field]] | Jungian quaternity context | [Quotes — Courtney Salt-Point (2019)](#passages) |
+| `courtney-2019-salt-point-kairos-chaos-q001` | `courtney-2019-salt-point-kairos-chaos` | PDF p. 3, “The Square, Quaternity, and Aion” | quotation-ready | `33-s4-p2-complexio-quaternity-senarius` | [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | Jungian quaternity context | [Quotes — Courtney Salt-Point (2019)](#passages) |
 
-| `courtney-2019-salt-point-kairos-chaos-q002` | `courtney-2019-salt-point-kairos-chaos` | PDF p. 7, “Kairos and Discrete Time Crystals” | quotation-ready | `33-s4-p2-complexio-quaternity-senarius` | [[Arche-Topos as Differential Field]] | cross-register limitation | [Quotes — Courtney Salt-Point (2019)](#passages) |
+| `courtney-2019-salt-point-kairos-chaos-q002` | `courtney-2019-salt-point-kairos-chaos` | PDF p. 7, “Kairos and Discrete Time Crystals” | quotation-ready | `33-s4-p2-complexio-quaternity-senarius` | [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | cross-register limitation | [Quotes — Courtney Salt-Point (2019)](#passages) |

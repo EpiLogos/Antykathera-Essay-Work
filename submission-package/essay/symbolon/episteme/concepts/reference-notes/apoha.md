@@ -2,6 +2,7 @@
 title: "Apoha"
 aliases:
   - "Apoha"
+source_id: reference-notes-apoha
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

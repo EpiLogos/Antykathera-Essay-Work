@@ -1,9 +1,18 @@
 ---
+aliases:
+  - "Tattvic Differential Field"
+  - "Tattvas as Differential Field"
+  - "36 Tattvas"
+record_id: A09
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from native sixfold contraction; Paraphrased source-specific tattvic exposition; Offered/Argued gnomonic cross-reading"
 ---
 # A09 — Tattvic Differential Field
+
+<!-- paired-field-navigation -->
+[Argument field](README.md) · [Other face: A09′ — The Stack as Descent](../conjugate/A09-prime-The-Stack-as-Descent.md) · [Shared A/C root](../conjugate/AC.md)
+<!-- /paired-field-navigation -->
 
 **Standing:** canonical semantic Argument. Native sixfold contraction is Argued from the theorem field; the tattvic doctrine retains its own source register; the gnomonic cross-reading is Offered/Argued.
 
@@ -45,7 +54,7 @@ A row of five and a column of five meet at one corner to complete the larger squ
 
 The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-native-return) **compares** manifestation and changed recognition through a maternal body retained in its return. This crosses into tattvic differentiation at the point where locally determinate life keeps its source relation. Mary receives no fixed tattva assignment, and the Christian, Śaiva and native sequences retain their own provenance.
 
-Taylor's correction of Neumann's ego-first reading locates recognition before appropriation. The finite knower and inner instrument arise within the field whose recognition they cannot retrospectively originate. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation). The retained opening and the measure wound around it distinguish Anuttara from Māyā through the complete authored relation. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-interposition).
+Taylor's correction of Neumann's ego-first reading locates recognition before appropriation. The finite knower and inner instrument arise within the field whose recognition they cannot retrospectively originate. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation). The retained opening and the measure wound around it distinguish Anuttara from Māyā through the complete authored relation. This **returns-to** [the uroboros whole](../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-interposition).
 
 Pratyabhijñā returns the contracted field to recognition of its provenance while preserving the distinctions through which it lives. The movement runs back through an effective world, an inspectable instrument, a measuring horizon and inverse orientations to the power already active within them. It reverses amnesia rather than differentiation.
 

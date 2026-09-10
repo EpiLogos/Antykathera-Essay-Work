@@ -1,4 +1,5 @@
 ---
+record_id: C33
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from Symbolon Dynamics and Jungian image encounters; exact Jung and Van Eenwyk attribution remains separate"

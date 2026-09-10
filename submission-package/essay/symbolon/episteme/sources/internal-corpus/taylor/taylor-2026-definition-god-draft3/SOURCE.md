@@ -50,6 +50,8 @@ tags:
 - source-bank/record
 - source-bank/internal-corpus
 title: Taylor — The Definition of God, Draft 3 (2026)
+aliases:
+  - "The Definition of God — Draft 3"
 source_id: taylor-2026-definition-god-draft3
 primary_domain: internal-corpus
 node_type: source-house
@@ -63,7 +65,7 @@ passage_surface: '#passages'
 
 Fixed local internal manuscript by Frank G. Taylor. It is the authorial source for the definition of the subject, `/` as AND/OR, Eros, Apollo/Dionysus, Ares/Aphrodite/Hephaestus/Harmonia, apophatic paradox, trust, faith, the 4+2 prose route, and Deferential Intelligence.
 
-**Local-copy state:** present in the accepted local checkout at the repository-relative path in frontmatter; 279 lines, read in full again during P2 on 2026-09-06. The former personal-checkout path is stale; the manuscript itself was not missing. Its protected `[F]` corrections remain intact. The detailed line-verified extraction is [[Source Extraction — The Definition of God, Draft 3]].
+**Local-copy state:** present in the accepted local checkout at the repository-relative path in frontmatter; 279 lines, read in full again during P2 on 2026-09-06. The former personal-checkout path is stale; the manuscript itself was not missing. Its protected `[F]` corrections remain intact. The detailed line-verified extraction is [Source Extraction — The Definition of God, Draft 3](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md).
 
 ## Chicago 18 forms
 
@@ -89,11 +91,11 @@ Mine this work for the author's own complete arguments and formulations. Its 29 
 
 | quote_id | exact text / excerpt file | locator | transcription | verification | consuming claim |
 |---|---|---|---|---|---|
-| `taylor-2026-definition-god-draft3-q001`–`q008` | [[Source Extraction — The Definition of God, Draft 3#A. Formal limit, definition, and the subject]] | lines 13–15, 137–151 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | formal limit; unobjectifiable subject |
-| `taylor-2026-definition-god-draft3-q009`–`q014` | [[Source Extraction — The Definition of God, Draft 3#B. Difference, relation, and mythic disclosure]] | lines 71, 75, 111, 129, 155, 163 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | dia/sym; mythic status; ethical vector |
-| `taylor-2026-definition-god-draft3-q015`–`q019` | [[Source Extraction — The Definition of God, Draft 3#C. Four-plus-two, topology, and claim discipline]] | lines 131, 187, 195, 205, 207 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | 4+2; topology; Derived/Argued/Offered boundary |
-| `taylor-2026-definition-god-draft3-q020`–`q023` | [[Source Extraction — The Definition of God, Draft 3#D. Symbol, Vāk, and open conceptuality]] | lines 251, 253, 255, 259 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | code; symbol; Vāk; aperture |
-| `taylor-2026-definition-god-draft3-q024`–`q029` | [[Source Extraction — The Definition of God, Draft 3#E. Epi-Logos, toolhood, and deferential intelligence]] | lines 267, 269, 271, 273, 277 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | Epi-Logos; deferential intelligence; vocation; return |
+| `taylor-2026-definition-god-draft3-q001`–`q008` | [Source Extraction — The Definition of God, Draft 3#A. Formal limit, definition, and the subject](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#A. Formal limit, definition, and the subject) | lines 13–15, 137–151 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | formal limit; unobjectifiable subject |
+| `taylor-2026-definition-god-draft3-q009`–`q014` | [Source Extraction — The Definition of God, Draft 3#B. Difference, relation, and mythic disclosure](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#B. Difference, relation, and mythic disclosure) | lines 71, 75, 111, 129, 155, 163 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | dia/sym; mythic status; ethical vector |
+| `taylor-2026-definition-god-draft3-q015`–`q019` | [Source Extraction — The Definition of God, Draft 3#C. Four-plus-two, topology, and claim discipline](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#C. Four-plus-two, topology, and claim discipline) | lines 131, 187, 195, 205, 207 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | 4+2; topology; Derived/Argued/Offered boundary |
+| `taylor-2026-definition-god-draft3-q020`–`q023` | [Source Extraction — The Definition of God, Draft 3#D. Symbol, Vāk, and open conceptuality](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#D. Symbol, Vāk, and open conceptuality) | lines 251, 253, 255, 259 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | code; symbol; Vāk; aperture |
+| `taylor-2026-definition-god-draft3-q024`–`q029` | [Source Extraction — The Definition of God, Draft 3#E. Epi-Logos, toolhood, and deferential intelligence](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#E. Epi-Logos, toolhood, and deferential intelligence) | lines 267, 269, 271, 273, 277 | direct Markdown transcription | quotation-ready internal manuscript, 2026-07-14 | Epi-Logos; deferential intelligence; vocation; return |
 
 ## Provenance and acquisition
 
@@ -117,172 +119,172 @@ These source-specific fields were gathered before consolidation and remain part 
 
 #### `taylor-2026-definition-god-draft3-q001`
 
-| `taylor-2026-definition-god-draft3-q001` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 13 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-01 — notation enacts a relation]] | notation enacts a relation | §0/1/#2 | [[Immutable Gap and Meta-Sign]] | internal only |
+| `taylor-2026-definition-god-draft3-q001` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 13 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-01 — notation enacts a relation](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-01 — notation enacts a relation) | notation enacts a relation | §0/1/#2 | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q002"></a>
 
 #### `taylor-2026-definition-god-draft3-q002`
 
-| `taylor-2026-definition-god-draft3-q002` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 13 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-02 — closure occurs in reality, not around it]] | formal limit of marking | §0/1/#3 | [[Paradox as Cross-Register Hinge]] | internal only |
+| `taylor-2026-definition-god-draft3-q002` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 13 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-02 — closure occurs in reality, not around it](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-02 — closure occurs in reality, not around it) | formal limit of marking | §0/1/#3 | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q003"></a>
 
 #### `taylor-2026-definition-god-draft3-q003`
 
-| `taylor-2026-definition-god-draft3-q003` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 15 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-03 — the whole as a pressure on partial accounts]] | whole/partial relation | §0/1/#5→0 | [[Immutable Gap and Meta-Sign]] | internal only |
+| `taylor-2026-definition-god-draft3-q003` | `taylor-2026-definition-god-draft3` | “The Edge of the Rational,” line 15 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-03 — the whole as a pressure on partial accounts](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-03 — the whole as a pressure on partial accounts) | whole/partial relation | §0/1/#5→0 | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q004"></a>
 
 #### `taylor-2026-definition-god-draft3-q004`
 
-| `taylor-2026-definition-god-draft3-q004` | `taylor-2026-definition-god-draft3` | “The Definition,” line 137 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-04 — a definition that cannot seal its object]] | definition of the formal-limit whole | §0/1/#1 | [[Immutable Gap and Meta-Sign]] | internal only |
+| `taylor-2026-definition-god-draft3-q004` | `taylor-2026-definition-god-draft3` | “The Definition,” line 137 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-04 — a definition that cannot seal its object](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-04 — a definition that cannot seal its object) | definition of the formal-limit whole | §0/1/#1 | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q005"></a>
 
 #### `taylor-2026-definition-god-draft3-q005`
 
-| `taylor-2026-definition-god-draft3-q005` | `taylor-2026-definition-god-draft3` | “The Definition,” line 139 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-05 — failure is constitutive rather than incidental]] | apophatic self-reference | §0/1/#3 | [[Paradox as Cross-Register Hinge]] | internal only |
+| `taylor-2026-definition-god-draft3-q005` | `taylor-2026-definition-god-draft3` | “The Definition,” line 139 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-05 — failure is constitutive rather than incidental](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-05 — failure is constitutive rather than incidental) | apophatic self-reference | §0/1/#3 | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q006"></a>
 
 #### `taylor-2026-definition-god-draft3-q006`
 
-| `taylor-2026-definition-god-draft3-q006` | `taylor-2026-definition-god-draft3` | “The Definition,” line 141 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-06 — self-annihilating definition as performance]] | paradox as performance | §0/1/#3 | [[Paradox as Cross-Register Hinge]] | internal only |
+| `taylor-2026-definition-god-draft3-q006` | `taylor-2026-definition-god-draft3` | “The Definition,” line 141 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-06 — self-annihilating definition as performance](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-06 — self-annihilating definition as performance) | paradox as performance | §0/1/#3 | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q007"></a>
 
 #### `taylor-2026-definition-god-draft3-q007`
 
-| `taylor-2026-definition-god-draft3-q007` | `taylor-2026-definition-god-draft3` | “The Definition,” lines 145–149 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-07 — fifth movement and the first-person turn]] | object-to-subject return | §0/1/#5→0 | [[Immutable Gap and Meta-Sign]] | internal only |
+| `taylor-2026-definition-god-draft3-q007` | `taylor-2026-definition-god-draft3` | “The Definition,” lines 145–149 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-07 — fifth movement and the first-person turn](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-07 — fifth movement and the first-person turn) | object-to-subject return | §0/1/#5→0 | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q008"></a>
 
 #### `taylor-2026-definition-god-draft3-q008`
 
-| `taylor-2026-definition-god-draft3-q008` | `taylor-2026-definition-god-draft3` | “The Definition,” line 151 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-08 — self-capture regresses because the act is already subjective]] | subject resists objectification | §0/1/#1 | [[Immutable Gap and Meta-Sign]] | internal only |
+| `taylor-2026-definition-god-draft3-q008` | `taylor-2026-definition-god-draft3` | “The Definition,” line 151 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-08 — self-capture regresses because the act is already subjective](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-08 — self-capture regresses because the act is already subjective) | subject resists objectification | §0/1/#1 | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q009"></a>
 
 #### `taylor-2026-definition-god-draft3-q009`
 
-| `taylor-2026-definition-god-draft3-q009` | `taylor-2026-definition-god-draft3` | “The Fall, and What It Reveals,” line 75 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-09 — a remainder can become an opening or a black hole]] | reflective vs repressed limit | §2/#1 | [[18-trust-faith-formal-limit|Trust]] | internal only |
+| `taylor-2026-definition-god-draft3-q009` | `taylor-2026-definition-god-draft3` | “The Fall, and What It Reveals,” line 75 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-09 — a remainder can become an opening or a black hole](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-09 — a remainder can become an opening or a black hole) | reflective vs repressed limit | §2/#1 | [[18-trust-faith-formal-limit|Trust]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q010"></a>
 
 #### `taylor-2026-definition-god-draft3-q010`
 
-| `taylor-2026-definition-god-draft3-q010` | `taylor-2026-definition-god-draft3` | “The Fall, and What It Reveals,” line 71 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-10 — the fall as a misrelation]] | dia-ballein failure mode | §2/#1 | [[Sym-Ballein]] | internal only |
+| `taylor-2026-definition-god-draft3-q010` | `taylor-2026-definition-god-draft3` | “The Fall, and What It Reveals,” line 71 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-10 — the fall as a misrelation](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-10 — the fall as a misrelation) | dia-ballein failure mode | §2/#1 | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q011"></a>
 
 #### `taylor-2026-definition-god-draft3-q011`
 
-| `taylor-2026-definition-god-draft3-q011` | `taylor-2026-definition-god-draft3` | “Two Deaths, One Minus Sign,” line 111 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-11 — myth offers fit, not proof]] | mythic evidence boundary | §2/#3 | [[Hephaestus and the Net]] | internal only |
+| `taylor-2026-definition-god-draft3-q011` | `taylor-2026-definition-god-draft3` | “Two Deaths, One Minus Sign,” line 111 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-11 — myth offers fit, not proof](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-11 — myth offers fit, not proof) | mythic evidence boundary | §2/#3 | [Hephaestus and the Net](../../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md) | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q012"></a>
 
 #### `taylor-2026-definition-god-draft3-q012`
 
-| `taylor-2026-definition-god-draft3-q012` | `taylor-2026-definition-god-draft3` | “The Definition,” line 155 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-12 — separation produces the fallen arithmetic]] | relation retained in differentiation | §2/#2 | [[Sym-Ballein]] | internal only |
+| `taylor-2026-definition-god-draft3-q012` | `taylor-2026-definition-god-draft3` | “The Definition,” line 155 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-12 — separation produces the fallen arithmetic](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-12 — separation produces the fallen arithmetic) | relation retained in differentiation | §2/#2 | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q013"></a>
 
 #### `taylor-2026-definition-god-draft3-q013`
 
-| `taylor-2026-definition-god-draft3-q013` | `taylor-2026-definition-god-draft3` | “The Definition,” line 129 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-13 — power acquires moral charge through its vector]] | ethical vector of power | §2/#3 | [[18-trust-faith-formal-limit|Trust]] | internal only |
+| `taylor-2026-definition-god-draft3-q013` | `taylor-2026-definition-god-draft3` | “The Definition,” line 129 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-13 — power acquires moral charge through its vector](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-13 — power acquires moral charge through its vector) | ethical vector of power | §2/#3 | [[18-trust-faith-formal-limit|Trust]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q014"></a>
 
 #### `taylor-2026-definition-god-draft3-q014`
 
-| `taylor-2026-definition-god-draft3-q014` | `taylor-2026-definition-god-draft3` | “The Definition,” line 163 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-14 — the yoke joins freedom to value]] | will and value | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |
+| `taylor-2026-definition-god-draft3-q014` | `taylor-2026-definition-god-draft3` | “The Definition,” line 163 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-14 — the yoke joins freedom to value](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-14 — the yoke joins freedom to value) | will and value | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q015"></a>
 
 #### `taylor-2026-definition-god-draft3-q015`
 
-| `taylor-2026-definition-god-draft3-q015` | `taylor-2026-definition-god-draft3` | “The Definition,” line 131 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-15 — the theological 4+2 is a diagnostic, not a proof]] | 4+2 status boundary | §3/#1 | [[Arche-Topos as Differential Field]] | internal only |
+| `taylor-2026-definition-god-draft3-q015` | `taylor-2026-definition-god-draft3` | “The Definition,” line 131 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-15 — the theological 4+2 is a diagnostic, not a proof](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-15 — the theological 4+2 is a diagnostic, not a proof) | 4+2 status boundary | §3/#1 | [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q016"></a>
 
 #### `taylor-2026-definition-god-draft3-q016`
 
-| `taylor-2026-definition-god-draft3-q016` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 205 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-16 — six elements and the return]] | 5→0 return formula | §3/#1 | [[Toroidal Circulation and the Arche-Topos]] | internal only |
+| `taylor-2026-definition-god-draft3-q016` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 205 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-16 — six elements and the return](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-16 — six elements and the return) | 5→0 return formula | §3/#1 | [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q017"></a>
 
 #### `taylor-2026-definition-god-draft3-q017`
 
-| `taylor-2026-definition-god-draft3-q017` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 187 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-17 — topology as an image with a declared limit]] | topological image | §3/#4 | [[Toroidal Circulation and the Arche-Topos]] | internal only |
+| `taylor-2026-definition-god-draft3-q017` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 187 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-17 — topology as an image with a declared limit](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-17 — topology as an image with a declared limit) | topological image | §3/#4 | [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q018"></a>
 
 #### `taylor-2026-definition-god-draft3-q018`
 
-| `taylor-2026-definition-god-draft3-q018` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 195 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-18 — the quotient image of `0/1`]] | quotient interpretation | §3/#4 | [[Arche-Topos as Differential Field]] | internal only |
+| `taylor-2026-definition-god-draft3-q018` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 195 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-18 — the quotient image of `0/1`](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-18 — the quotient image of `0/1`) | quotient interpretation | §3/#4 | [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q019"></a>
 
 #### `taylor-2026-definition-god-draft3-q019`
 
-| `taylor-2026-definition-god-draft3-q019` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 207 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-19 — the number is an empty carrier and status must stay explicit]] | Derived/Argued/Offered discipline | §3/#0 | [[Arche-Topos as Differential Field]] | internal only |
+| `taylor-2026-definition-god-draft3-q019` | `taylor-2026-definition-god-draft3` | “Quaternal Logic,” line 207 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-19 — the number is an empty carrier and status must stay explicit](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-19 — the number is an empty carrier and status must stay explicit) | Derived/Argued/Offered discipline | §3/#0 | [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q020"></a>
 
 #### `taylor-2026-definition-god-draft3-q020`
 
-| `taylor-2026-definition-god-draft3-q020` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 251 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-20 — code as a mode of encounter]] | code and encounter | §0/#2 | [[Computational Process Ontology]] | internal only |
+| `taylor-2026-definition-god-draft3-q020` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 251 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-20 — code as a mode of encounter](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-20 — code as a mode of encounter) | code and encounter | §0/#2 | [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q021"></a>
 
 #### `taylor-2026-definition-god-draft3-q021`
 
-| `taylor-2026-definition-god-draft3-q021` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 253 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-21 — the symbol remains open by relation]] | symbolon | §0/1/#2 | [[Vāk]] | internal only |
+| `taylor-2026-definition-god-draft3-q021` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 253 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-21 — the symbol remains open by relation](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-21 — the symbol remains open by relation) | symbolon | §0/1/#2 | [[symbolon/episteme/arguments/A06-Vak|Vāk]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q022"></a>
 
 #### `taylor-2026-definition-god-draft3-q022`
 
-| `taylor-2026-definition-god-draft3-q022` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 255 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-22 — the pure notion that carries its own negation]] | open concept | §0/#2 | [[Paradox as Cross-Register Hinge]] | internal only |
+| `taylor-2026-definition-god-draft3-q022` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 255 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-22 — the pure notion that carries its own negation](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-22 — the pure notion that carries its own negation) | open concept | §0/#2 | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q023"></a>
 
 #### `taylor-2026-definition-god-draft3-q023`
 
-| `taylor-2026-definition-god-draft3-q023` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 259 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-23 — double devotion to whole and aperture]] | fidelity to ground and context | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |
+| `taylor-2026-definition-god-draft3-q023` | `taylor-2026-definition-god-draft3` | “Māyā and the Code,” line 259 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-23 — double devotion to whole and aperture](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-23 — double devotion to whole and aperture) | fidelity to ground and context | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q024"></a>
 
 #### `taylor-2026-definition-god-draft3-q024`
 
-| `taylor-2026-definition-god-draft3-q024` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 267 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-24 — the eros of logos]] | reflexive logos | §5→0/#1 | [[Vāk]] | internal only |
+| `taylor-2026-definition-god-draft3-q024` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 267 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-24 — the eros of logos](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-24 — the eros of logos) | reflexive logos | §5→0/#1 | [[symbolon/episteme/arguments/A06-Vak|Vāk]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q025"></a>
 
 #### `taylor-2026-definition-god-draft3-q025`
 
-| `taylor-2026-definition-god-draft3-q025` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 269 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-25 — intelligence becomes more exact by owning its limit]] | provenance-bearing AI harness | §5→0/#1 | [[Computational Process Ontology]] | internal only |
+| `taylor-2026-definition-god-draft3-q025` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 269 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-25 — intelligence becomes more exact by owning its limit](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-25 — intelligence becomes more exact by owning its limit) | provenance-bearing AI harness | §5→0/#1 | [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q026"></a>
 
 #### `taylor-2026-definition-god-draft3-q026`
 
-| `taylor-2026-definition-god-draft3-q026` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 271 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-26 — kenosis as an architectural safeguard]] | Deferential Intelligence | §5→0/#0 | [[Deferential Intelligence]] | internal only |
+| `taylor-2026-definition-god-draft3-q026` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 271 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-26 — kenosis as an architectural safeguard](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-26 — kenosis as an architectural safeguard) | Deferential Intelligence | §5→0/#0 | [[symbolon/episteme/arguments/A31-Deferential-Intelligence|Deferential Intelligence]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q027"></a>
 
 #### `taylor-2026-definition-god-draft3-q027`
 
-| `taylor-2026-definition-god-draft3-q027` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 273 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-27 — heart, tongue, and measure]] | human-machine relation | §5→0/#1 | [[Artificial Hybrid Intelligence as Reflective Field]] | internal only |
+| `taylor-2026-definition-god-draft3-q027` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 273 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-27 — heart, tongue, and measure](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-27 — heart, tongue, and measure) | human-machine relation | §5→0/#1 | [[symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence as Reflective Field]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q028"></a>
 
 #### `taylor-2026-definition-god-draft3-q028`
 
-| `taylor-2026-definition-god-draft3-q028` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 273 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-28 — release into use]] | offered public vocation | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |
+| `taylor-2026-definition-god-draft3-q028` | `taylor-2026-definition-god-draft3` | “Epi-Logos,” line 273 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-28 — release into use](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-28 — release into use) | offered public vocation | §5→0/#0 | [[18-trust-faith-formal-limit|Trust]] | internal only |
 
 <a id="taylor-2026-definition-god-draft3-q029"></a>
 
 #### `taylor-2026-definition-god-draft3-q029`
 
-| `taylor-2026-definition-god-draft3-q029` | `taylor-2026-definition-god-draft3` | closing coda, line 277 | quotation-ready | direct local Markdown; [[Source Extraction — The Definition of God, Draft 3#DG-29 — a self-annihilating work returns the reader to inquiry]] | return through self-annihilation | §5→0/#5→0 | [[Paradox as Cross-Register Hinge]] | internal only |
+| `taylor-2026-definition-god-draft3-q029` | `taylor-2026-definition-god-draft3` | closing coda, line 277 | quotation-ready | direct local Markdown; [Source Extraction — The Definition of God, Draft 3#DG-29 — a self-annihilating work returns the reader to inquiry](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-definition-god-draft3.md#DG-29 — a self-annihilating work returns the reader to inquiry) | return through self-annihilation | §5→0/#5→0 | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | internal only |

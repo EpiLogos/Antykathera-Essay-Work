@@ -1,4 +1,5 @@
 ---
+record_id: C26
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from native Mono-Poly and source-office grammar; political economy remains a distinct application"
@@ -27,7 +28,7 @@ Coordination, temporary arbitration and delegated authority remain necessary off
 
 ## #5→0
 
-Taylor's nourishment/Saturnine fork distinguishes assimilation that renews generation from consumption that blocks it. The body's taking becomes counter-generation through what it prevents from emerging next. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-metabolism).
+Taylor's nourishment/Saturnine fork distinguishes assimilation that renews generation from consumption that blocks it. The body's taking becomes counter-generation through what it prevents from emerging next. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-metabolism).
 
 The return retains differentiated powers and their shared conditions. It does not defeat one monoculture by enthroning its counter. A12's candidate `(1)` pictures a local determination enclosed by its forgotten condition; restoring that relation lets polarity remain real without becoming war. C54 gives this relation institutional pressure: set terms, refuse, revise, leave and reconnect without losing every route to shared life. An apportioned office returns its work and effects to the economy that sustains it.
 

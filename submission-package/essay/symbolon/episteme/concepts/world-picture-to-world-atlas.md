@@ -5,6 +5,7 @@ aliases:
   - "the travelling jigsaw"
   - "atlas of charts"
   - "designed world-picture"
+source_id: world-picture-to-world-atlas
 node_type: "concept"
 register: episteme
 page_type: "concept"
@@ -36,6 +37,6 @@ The jigsaw is the concept's working image, and it travels — deliberately stage
 
 ## In the argument
 
-Opens at [[05-s01-p4-gebser-diaphaneity|§0/1 · #4]], where the Weltbild diagnosis is paired (**Argued**) with Gebser's perspectival mutation and posts the promissory note: the integral response cannot renounce pictures but must build a picture that carries its own conditions. Redeemed mathematically at [[30-s3-p5-arche-topos|§3 · #5→0]] (atlas of charts; travelling jigsaw) and technically at [[41-s5-p4-bimba-energy-fields|§5 · #4]]: the Bimba map as *designed* world-picture — artificial in the reclaimed sense of made-and-avowed — plural charts, declared transitions, provenance in the fibres, no chart claiming to be the territory. The venue resonance (planetary computation as disclosure; the artificial reclaimed as designed) is held in the venue notes, not cited in prose. Jorjani's Atlas — the titan who *bears* the world-picture — is the mythic hook awaiting the book-level acquisition contract in [[jorjani-2016-prometheus-atlas]].
+Opens at [[05-s01-p4-gebser-diaphaneity|§0/1 · #4]], where the Weltbild diagnosis is paired (**Argued**) with Gebser's perspectival mutation and posts the promissory note: the integral response cannot renounce pictures but must build a picture that carries its own conditions. Redeemed mathematically at [[30-s3-p5-arche-topos|§3 · #5→0]] (atlas of charts; travelling jigsaw) and technically at [[41-s5-p4-bimba-energy-fields|§5 · #4]]: the Bimba map as *designed* world-picture — artificial in the reclaimed sense of made-and-avowed — plural charts, declared transitions, provenance in the fibres, no chart claiming to be the territory. The venue resonance (planetary computation as disclosure; the artificial reclaimed as designed) is held in the venue notes, not cited in prose. Jorjani's Atlas — the titan who *bears* the world-picture — is the mythic hook awaiting the book-level acquisition contract in [[symbolon/episteme/sources/media-technology-philosophy/jorjani/jorjani-2016-prometheus-atlas/SOURCE|jorjani-2016-prometheus-atlas]].
 
 Related: [[counterfeit-gathering]] · [[diaphaneity]] · [[bimba-pratibimba]] · [[mathematical-artistic-image-register]] · [[register-grammar]]

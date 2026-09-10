@@ -1,4 +1,5 @@
 ---
+record_id: C61
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Extracted ratified disclosure architecture; Argued from native register and recursive-return development; routing supplies no additional theorem"
@@ -29,7 +30,7 @@ Whole Mythemes remain whole relational carriers even when several Arguments cons
 
 The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-blue-marble-hinge) **figures** a disclosure carrying its construction alongside its result. Exact chart relations, the lived journey and historical diagnosis keep their Matheme, Mytheme and Episteme warrants distinct. The local reference picture can orient readings as Bimba while the return route keeps its wider source-dependence available.
 
-The [Symbol / Account / Trust whole-field — Symbol answers to source](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source) **qualifies** this operation at evidence register 3. Each register’s disclosure is an account answerable to its source and its own standing; routing must return a claim to its governing Argument rather than turn the route into another theorem. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
+The [Symbol / Account / Trust whole-field — Symbol answers to source](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source) **qualifies** this operation at evidence register 3. Each register’s disclosure is an account answerable to its source and its own standing; routing must return a claim to its governing Argument rather than turn the route into another theorem. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
 
 The disclosed form changes what can next be encountered. Symbolon Dynamics follows image→changed interpreter→changed future image; A33 asks whether technical disclosure alters an operation; A36 returns the mathematical sign as Symbol with its exactness intact. The routing thus carries source, transformation, consequence and return, rather than accumulating disconnected dossiers. No CT-01–CT-06 identities or extra determination are created by this architecture.
 

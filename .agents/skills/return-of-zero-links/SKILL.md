@@ -36,7 +36,12 @@ Do not use to infer links from vocabulary or shared keywords; inferred links are
    ```
    Use each changed page’s exact canonical path. This checkout has no `dangling` subcommand; `links` requires an artifact argument. Inspect unresolved targets and exact heading anchors, and distinguish inherited doctor debt from failures introduced by the current batch. *Done when the batch has no dangling targets or invalid exact heading anchors.*
 
-6. **Aggregate MOC/intents only after links exist.** Once the written map is stable, generate contents lists extended to intents — what a file implicates, not what it mentions. This layer is navigation-only; it never precedes authorship. *Done when the MOC is a mirror of the written graph, not its substitute.*
+6. **Rebuild the MOC/intents layer after links exist.** The post-hoc layer is generated from the written relations by
+   ```bash
+   python3 tools/build-navigation.py --project-root .
+   python3 tools/build-navigation.py --project-root . --check
+   ```
+   into `submission-package/essay/symbolon/episteme/maps/navigation/` — `MOC.md`, `intents/<class>.md` (what each page implicates and what reaches it, grouped by relation word), and `AUDIT.md`/`audit.json` (reachability from the reading root, orphans, pages with no route back into the essay, links leaving the publication body, unresolved targets). The relation word is read from the sentence around the link: a bold word anywhere in the sentence, or a plain word beside the link. A link whose sentence names no relation is reported as `unnamed`; fix it in the page, never in the projection. The completion hook checks freshness. *Done when the MOC is a mirror of the written graph, not its substitute, and the audit shows the batch introduced no new orphan, unreachable page or missing return route.*
 
 ## Minigraph target
 

@@ -1,4 +1,5 @@
 ---
+record_id: C38
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from native Bimba/Pratibimba and recursive reference-office development; Saiva reflection and Offered technical design remain distinct"
@@ -38,9 +39,9 @@ The [Mirror That Moves First whole](../../mytheme/worlds/frank-taylor/mirror-tha
 
 The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-blue-marble-hinge) **figures** a made world-picture genuinely serving as local Bimba within a declared Context Frame. Situated readings are its pratibimbas; the reference picture remains pratibimba toward wider sources and can itself be corrected. The reconstructed atlas retains that real local authority together with its recursive answerability.
 
-The [stained-glass whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-return) **figures** this recursive office explicitly: an achieved reference can be Bimba for its local readings and pratibimba within a wider relation. Recognition can revise the local original itself while preserving enough stability for comparison and error to have a definite address.
+The [stained-glass whole](../../mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-return) **figures** this recursive office explicitly: an achieved reference can be Bimba for its local readings and pratibimba within a wider relation. Recognition can revise the local original itself while preserving enough stability for comparison and error to have a definite address.
 
-The [Symbol / Account / Trust whole-field — Account does not replace source](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. A local Bimba can govern reference within a bounded inquiry while remaining source-dependent and revisable within a wider frame. The account’s correction can reach that local reference itself. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
+The [Symbol / Account / Trust whole-field — Account does not replace source](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. A local Bimba can govern reference within a bounded inquiry while remaining source-dependent and revisable within a wider frame. The account’s correction can reach that local reference itself. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
 
 Returned evidence can revise a situated judgment, a relation between reference fields, or the local Bimba itself. Stability provides orientation; corrigibility preserves truth-seeking. A map anchors by attributable source relations and contestable construction, not by storing Truth. C42 develops reciprocal world-constitution and C55 the reflective field in which the map's own authority can turn first toward its source.
 

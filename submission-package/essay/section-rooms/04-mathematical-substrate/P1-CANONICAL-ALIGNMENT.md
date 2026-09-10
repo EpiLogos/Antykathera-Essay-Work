@@ -1,3 +1,7 @@
+---
+source_id: 04-mathematical-substrate-p1-canonical-alignment
+---
+
 # P1 Canonical Alignment — §3 Formal Body / Mathematical Substrate
 
 **Wave:** T12 / #13.  

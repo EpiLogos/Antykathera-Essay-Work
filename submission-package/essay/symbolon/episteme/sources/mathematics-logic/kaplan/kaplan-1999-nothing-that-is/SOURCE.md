@@ -78,7 +78,7 @@ These source-specific fields were gathered before consolidation and remain part 
 
 #### `kaplan-1999-nothing-that-is-q001`
 
-| `kaplan-1999-nothing-that-is-q001` | `kaplan-1999-nothing-that-is` | p. 73, exact span needed | source-matched | local extraction; check print/PDF | division by zero as historical/conceptual hinge | §1 | [[Core Theorem Bridge]] | no |
+| `kaplan-1999-nothing-that-is-q001` | `kaplan-1999-nothing-that-is` | p. 73, exact span needed | source-matched | local extraction; check print/PDF | division by zero as historical/conceptual hinge | §1 | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md) | no |
 
 <a id="reading"></a>
 ## Scholarly reading and worked material
@@ -96,7 +96,7 @@ These source-specific fields were gathered before consolidation and remain part 
 - **Export status:** local-only
 
 > [!warning] Three authorities, kept apart
-> The bibliographic authority is Kaplan — The Nothing That Is (2000 OUP printing). Frank's marginalia remain byte-for-byte in [[The Nothing That Is - Robert Kaplan]]. The local PDF is the selected 2000 Oxford printing, ISBN 0-19-512842-7: printed page `n` is PDF page `n + 13`. Its Z-Library-labelled provenance makes it locator-only. No Kaplan passage is quotation-ready. Exact primary text for Brahmagupta and Bhāskara comes instead from the public-domain [Colebrooke — Brahmagupta and Bhāskara (1817)](../../brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md).
+> The bibliographic authority is Kaplan — The Nothing That Is (2000 OUP printing). Frank's marginalia remain byte-for-byte in [The Nothing That Is - Robert Kaplan](../../../../../../../../working/sources-texts-references/The%20Nothing%20That%20Is%20-%20Robert%20Kaplan.md). The local PDF is the selected 2000 Oxford printing, ISBN 0-19-512842-7: printed page `n` is PDF page `n + 13`. Its Z-Library-labelled provenance makes it locator-only. No Kaplan passage is quotation-ready. Exact primary text for Brahmagupta and Bhāskara comes instead from the public-domain [Colebrooke — Brahmagupta and Bhāskara (1817)](../../brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md).
 
 ## Why this book is load-bearing
 

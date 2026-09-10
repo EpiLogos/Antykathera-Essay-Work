@@ -1,4 +1,8 @@
 ---
+aliases:
+  - "Paradox as Cross-Register Hinge"
+  - "Paradox at the Formal Limit"
+record_id: C64
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from native containing-field synthesis; logical, theological and scientific paradox witnesses retain separate operations and warrants"
@@ -31,7 +35,7 @@ Symbolic paradox can change the interpreter's categories as well as the interpre
 
 ## #5→0
 
-The creature's retained opening changes what its containing account permits while keeping the local truth of its visible outline. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-interposition).
+The creature's retained opening changes what its containing account permits while keeping the local truth of its visible outline. This **returns-to** [the uroboros whole](../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-interposition).
 
 The result carries changed relations and a changed capacity for the next act. It does not merely rename the conflict, average its poles or maintain endless oscillation. A35's return remains responsible to origins and affected others; A36 lets the exact zero-sign become Symbol again without losing arithmetic integrity. The test is what the transformed field now permits while preserving the local truths and limits that required its transformation.
 

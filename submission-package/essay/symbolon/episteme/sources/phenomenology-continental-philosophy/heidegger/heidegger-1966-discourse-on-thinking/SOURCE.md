@@ -121,7 +121,7 @@ Heidegger's meditative/calculative distinction does not derive QL's two logics; 
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** the canonical two-thinkings distinction, with both kinds explicitly legitimated.
-- **Consumers:** [[20-s2-p1-dia-ballein]]; [[the-slash]].
+- **Consumers:** [[20-s2-p1-dia-ballein]]; [[symbolon/episteme/concepts/the-slash|the-slash]].
 - **Use boundary:** supplies the distinction, not any derivation of QL's two logics; the structural correspondence is the essay's Argued claim.
 
 <a id="heidegger-1966-discourse-on-thinking-q003"></a>
@@ -151,7 +151,7 @@ Heidegger's meditative/calculative distinction does not derive QL's two logics; 
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** the simultaneous yes-and-no comportment, named Gelassenheit — received by the essay as the AND/OR slash practised as comportment (Argued, essay's own).
-- **Consumers:** [[the-slash]]; [[42-s5-p5-research-vectors]].
+- **Consumers:** [[symbolon/episteme/concepts/the-slash|the-slash]]; [[42-s5-p5-research-vectors]].
 - **Use boundary:** Heidegger's comportment is a stance toward devices as given; the essay's extension into design practice departs from the address and must be marked as departure.
 
 <a id="heidegger-1966-discourse-on-thinking-q005"></a>
@@ -196,8 +196,8 @@ Heidegger's meditative/calculative distinction does not derive QL's two logics; 
 | passage_id | source_id | locator | status | movement consumers | argument consumers | function |
 |---|---|---|---|---|---|---|
 | `heidegger-1966-discourse-on-thinking-q001` | `heidegger-1966-discourse-on-thinking` | MA p. 45 | wording-verified; collation pending | `45-s50-p2-antikythera-attunement` | — | flight from thinking |
-| `heidegger-1966-discourse-on-thinking-q002` | `heidegger-1966-discourse-on-thinking` | MA p. 46 | wording-verified; collation pending | `20-s2-p1-dia-ballein` | [[the-slash]] | two kinds of thinking |
+| `heidegger-1966-discourse-on-thinking-q002` | `heidegger-1966-discourse-on-thinking` | MA p. 46 | wording-verified; collation pending | `20-s2-p1-dia-ballein` | [[symbolon/episteme/concepts/the-slash|the-slash]] | two kinds of thinking |
 | `heidegger-1966-discourse-on-thinking-q003` | `heidegger-1966-discourse-on-thinking` | MA p. 46 | wording-verified; collation pending | `20-s2-p1-dia-ballein`; `35-s4-p4-gebser-apollo-dionysus` | — | calculative as non-gathering |
-| `heidegger-1966-discourse-on-thinking-q004` | `heidegger-1966-discourse-on-thinking` | MA p. 54 | wording-verified; collation pending | `42-s5-p5-research-vectors` | [[the-slash]] | yes-and-no; Gelassenheit named |
+| `heidegger-1966-discourse-on-thinking-q004` | `heidegger-1966-discourse-on-thinking` | MA p. 54 | wording-verified; collation pending | `42-s5-p5-research-vectors` | [[symbolon/episteme/concepts/the-slash|the-slash]] | yes-and-no; Gelassenheit named |
 | `heidegger-1966-discourse-on-thinking-q005` | `heidegger-1966-discourse-on-thinking` | MA p. 55 | wording-verified; collation pending | `35-s4-p4-gebser-apollo-dionysus`; `45-s50-p2-antikythera-attunement` | — | openness to the mystery |
 | `heidegger-1966-discourse-on-thinking-q006` | `heidegger-1966-discourse-on-thinking` | MA p. 56 | wording-verified; collation pending | `42-s5-p5-research-vectors`; `45-s50-p2-antikythera-attunement` | — | monopoly danger; keeping meditative thinking alive |

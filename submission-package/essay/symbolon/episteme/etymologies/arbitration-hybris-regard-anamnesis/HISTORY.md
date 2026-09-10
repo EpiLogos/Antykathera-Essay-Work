@@ -1,5 +1,6 @@
 ---
 title: "Arbitration, Hybris, Regard, and Anamnesis — The Measure Returns to Its Ground"
+source_id: arbitration-hybris-regard-anamnesis-history
 page_type: etymological-cluster
 ownership: protected-learning-surface
 status: living
@@ -186,7 +187,7 @@ The `5→0` return is therefore an achieved account becoming answerable to its s
 
 ## Fides bridge
 
-The lexical field of *arbiter/arbitrari* contains a direct bridge into the trust archaeology through *fidem alicui arbitrari*: credibility itself may be adjudged. This joins the arbitration sixfold to [[../trust-place-logos-nomos-natio-credere/HISTORY|Fides, Topos, Logos, Nomos, Natio, Credere]] at the exact point where tacit trust has become a matter requiring explicit standing.
+The lexical field of *arbiter/arbitrari* contains a direct bridge into the trust archaeology through *fidem alicui arbitrari*: credibility itself may be adjudged. This joins the arbitration sixfold to [Fides, Topos, Logos, Nomos, Natio, Credere](../trust-place-logos-nomos-natio-credere/HISTORY.md) at the exact point where tacit trust has become a matter requiring explicit standing.
 
 The live formulation is:
 
@@ -200,7 +201,7 @@ This bridge is also mythically active in the already recovered Ares–Aphrodite�
 
 ## Historical and quilt routes
 
-The unit directly feeds [[../../histories/places-and-peoples/language-law-nation-centralisation/HISTORY|Language, Law, Nation, and Centralisation]], where arbitration becomes historical in language standardisation, jurisdiction, national belonging, epistemic admission and administrative classification. It also returns into [[../../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY|Language, Symbol, and Dialogue]], [[../../histories/traditions-and-disciplines/technology-politics/HISTORY|Technology, Politics, and Institutions]], the existing Dia/Syn movements, the hidden-zero argument, and the King/arbitrator psychoid field.
+The unit directly feeds [Language, Law, Nation, and Centralisation](../../histories/places-and-peoples/language-law-nation-centralisation/HISTORY.md), where arbitration becomes historical in language standardisation, jurisdiction, national belonging, epistemic admission and administrative classification. It also returns into [Language, Symbol, and Dialogue](../../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY.md), [Technology, Politics, and Institutions](../../histories/traditions-and-disciplines/technology-politics/HISTORY.md), the existing Dia/Syn movements, the hidden-zero argument, and the King/arbitrator psychoid field.
 
 The working quilt should preserve a return route across all three sixfold determinations:
 

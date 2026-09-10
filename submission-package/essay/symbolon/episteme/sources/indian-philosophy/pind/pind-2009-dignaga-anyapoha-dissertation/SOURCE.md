@@ -78,7 +78,7 @@ Exact text and consumer mappings: [Quotes — Pind Dignāga Anyāpoha (2009)](#p
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** primary formulation.
-- **Consumers:** [[03-s01-p2-definition-cut-gift-danger]]; [[10-s0-p3-apoha]]; [[Tattvic Differential Field]]; [[Objective Internality]]; §0/1 and movement 10 semantic account of determination by exclusion.
+- **Consumers:** [[03-s01-p2-definition-cut-gift-danger]]; [[10-s0-p3-apoha]]; [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]]; [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]]; §0/1 and movement 10 semantic account of determination by exclusion.
 - **Use boundary:** supplies a translation of a PSV textual segment only; it does not establish a whole-first ontology, mono–poly, softmax semantics, or a computational analogy.
 
 <a id="pind-2009-dignaga-anyapoha-dissertation-q002"></a>
@@ -93,12 +93,12 @@ Exact text and consumer mappings: [Quotes — Pind Dignāga Anyāpoha (2009)](#p
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** philological limitation / counterposition.
-- **Consumers:** [[03-s01-p2-definition-cut-gift-danger]]; [[10-s0-p3-apoha]]; [[Tattvic Differential Field]]; [[Objective Internality]]; §0/1 and movement 10 prevent reducing the referent to mere exclusion.
+- **Consumers:** [[03-s01-p2-definition-cut-gift-danger]]; [[10-s0-p3-apoha]]; [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]]; [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]]; §0/1 and movement 10 prevent reducing the referent to mere exclusion.
 - **Use boundary:** attributes neither a settled Dignāga text nor the essay’s metaphysical conclusion; do not cite it as a direct, certain Dignāga formulation.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `pind-2009-dignaga-anyapoha-dissertation-q001` | `pind-2009-dignaga-anyapoha-dissertation` | PSV V:11d, p. 85 | quotation-ready | `10-s0-p3-apoha` | [[Tattvic Differential Field]]; [[Objective Internality]] | primary formulation | [Quotes — Pind Dignāga Anyāpoha (2009)](#passages) |
+| `pind-2009-dignaga-anyapoha-dissertation-q001` | `pind-2009-dignaga-anyapoha-dissertation` | PSV V:11d, p. 85 | quotation-ready | `10-s0-p3-apoha` | [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]]; [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]] | primary formulation | [Quotes — Pind Dignāga Anyāpoha (2009)](#passages) |
 
-| `pind-2009-dignaga-anyapoha-dissertation-q002` | `pind-2009-dignaga-anyapoha-dissertation` | annotation 181, p. 183 | quotation-ready | `10-s0-p3-apoha` | [[Tattvic Differential Field]]; [[Objective Internality]] | qualification/philological limit | [Quotes — Pind Dignāga Anyāpoha (2009)](#passages) |
+| `pind-2009-dignaga-anyapoha-dissertation-q002` | `pind-2009-dignaga-anyapoha-dissertation` | annotation 181, p. 183 | quotation-ready | `10-s0-p3-apoha` | [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]]; [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]] | qualification/philological limit | [Quotes — Pind Dignāga Anyāpoha (2009)](#passages) |

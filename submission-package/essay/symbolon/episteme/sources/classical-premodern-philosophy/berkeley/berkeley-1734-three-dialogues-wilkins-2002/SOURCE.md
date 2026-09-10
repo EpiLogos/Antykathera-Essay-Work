@@ -68,7 +68,7 @@ Exact text, fixed edition, speaker context, and limitation: [Quotes — Berkeley
 - **Source relation:** extracted primary philosophy.
 - **Evidential action:** contextualises/supports.
 - **Argument function:** historical idealist formulation with self-limit.
-- **Consumers:** [[47-s50-p4-idealism-horizon]]; [[Agent Subjectivity Must Remain Open]].
+- **Consumers:** [[47-s50-p4-idealism-horizon]]; [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]].
 - **Use boundary:** establishes one historical immaterialist formulation; it does not establish QL, Śaivism, agent subjectivity, cosmology, or an engineering-to-idealism inference.
 
 <a id="berkeley-1734-three-dialogues-wilkins-2002-q002"></a>
@@ -82,12 +82,12 @@ Exact text, fixed edition, speaker context, and limitation: [Quotes — Berkeley
 - **Source relation:** extracted primary philosophy.
 - **Evidential action:** qualifies.
 - **Argument function:** intratextual counterposition.
-- **Consumers:** [[47-s50-p4-idealism-horizon]]; [[Agent Subjectivity Must Remain Open]].
+- **Consumers:** [[47-s50-p4-idealism-horizon]]; [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]].
 - **Use boundary:** records a dramatic objection in Berkeley’s dialogue; it is not a validated contemporary physicalist refutation.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `berkeley-1734-three-dialogues-wilkins-2002-q001` | `berkeley-1734-three-dialogues-wilkins-2002` | First Dialogue, printed p. 1; PDF p. 8/69 | quotation-ready | `47-s50-p4-idealism-horizon` | [[Agent Subjectivity Must Remain Open]] | historical idealist formulation | [Quotes — Berkeley Three Dialogues (Wilkins, 2002)](#passages) |
+| `berkeley-1734-three-dialogues-wilkins-2002-q001` | `berkeley-1734-three-dialogues-wilkins-2002` | First Dialogue, printed p. 1; PDF p. 8/69 | quotation-ready | `47-s50-p4-idealism-horizon` | [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]] | historical idealist formulation | [Quotes — Berkeley Three Dialogues (Wilkins, 2002)](#passages) |
 
-| `berkeley-1734-three-dialogues-wilkins-2002-q002` | `berkeley-1734-three-dialogues-wilkins-2002` | First Dialogue, printed p. 1; PDF p. 8/69 | quotation-ready | `47-s50-p4-idealism-horizon` | [[Agent Subjectivity Must Remain Open]] | intratextual counterposition | [Quotes — Berkeley Three Dialogues (Wilkins, 2002)](#passages) |
+| `berkeley-1734-three-dialogues-wilkins-2002-q002` | `berkeley-1734-three-dialogues-wilkins-2002` | First Dialogue, printed p. 1; PDF p. 8/69 | quotation-ready | `47-s50-p4-idealism-horizon` | [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]] | intratextual counterposition | [Quotes — Berkeley Three Dialogues (Wilkins, 2002)](#passages) |

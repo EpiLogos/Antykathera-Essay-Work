@@ -1,4 +1,5 @@
 ---
+record_id: C48
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from native trust and formal-limit development; theological, legal and epistemic trust histories retain distinct warrants"
@@ -29,7 +30,7 @@ Arbitration arises when tacit trust no longer suffices. A covenant or institutio
 
 [E3’s fides before arbitration](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#fides-before-arbitration) distinguishes enacted prior reliance from the renewed entrustment of Credere after an undertaking has returned consequences. Faith’s lucid continuation under formal limit retains its own office beside knowledge, belief and confidence. Neither lexical proximity nor an instrument’s confidence converts these relations into synonyms or supplies automatic grounds for trust.
 
-The [Symbol / Account / Trust whole-field — Trust keeps the return route active](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active) **qualifies** this operation at evidence register 3. The inspected obligation and the act of entrusting remain distinct; reliance can continue through investigation, correction and refusal without requiring possession of its ground. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
+The [Symbol / Account / Trust whole-field — Trust keeps the return route active](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active) **qualifies** this operation at evidence register 3. The inspected obligation and the act of entrusting remain distinct; reliance can continue through investigation, correction and refusal without requiring possession of its ground. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
 
 Reliance returns through encounter and can be investigated, corrected, withdrawn or renewed. C47 specifies the power of later encounter to revise the model; C28 the delegated relation; C02 the faithful account. Trust and Mono/Poly share a root while doing different canonical work: whole/form/power in one case, finite knowing, risking and fidelity in the other. The apparatus can make the terms of reliance inspectable without manufacturing the living relation it serves.
 

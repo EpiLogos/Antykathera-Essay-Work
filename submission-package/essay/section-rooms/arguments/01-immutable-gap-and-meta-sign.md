@@ -3,6 +3,7 @@ title: "Immutable Gap and Meta-Sign"
 aliases:
   - "Immutable Gap and Meta-Sign"
   - "Immutable Gap and the Meta-Sign"
+source_id: 01-immutable-gap-and-meta-sign
 node_type: "claim"
 page_type: "argument-map"
 argument_level: "core"
@@ -47,8 +48,12 @@ tags:
   - argument-map/live
   - argument-map/formal-limit
   - argument-map/claim
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Immutable Gap and Meta-Sign
+
+**Historical carrier.** The developed successor is [A03](../../symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claim
 
@@ -71,8 +76,8 @@ The set-theoretic relation `0=∅`, `1={0}` gives the argument a rigorous floor:
 ## Warrants
 
 - [[Gödel — Formally Undecidable Propositions (1931)|Gödel]], [[Russell — Mathematical Logic as Based on the Theory of Types (1908)|Russell]], [[Whitehead — Process and Reality (1978 corrected edition)|Whitehead]], [[Wittgenstein — Tractatus Logico-Philosophicus (1922)|early Wittgenstein]] and [[Wittgenstein — Philosophical Investigations (1953)|later Wittgenstein]], [[Spencer-Brown — Laws of Form (1969)|Spencer-Brown]], and [[Frank, Gleiser, and Thompson — The Blind Spot (2024)|Frank, Gleiser, and Thompson]] disclose locally different forms of the same formal predicament: a system cannot objectify all the conditions of its own objectification without producing another edge.
-- [[working/sources-texts-references/10-7-2026-core-theorems-pithy#V. The Six-Fold Process of Defining God / the Subject]] performs the recursive failure of objectifying the subject.
-- [[working/sources-texts-references/10-7-2026-core-theorems-pithy#(c) The eight determinations — one relation traversed from field to return|The eight determinations]] prevents `0/1` from floating as an isolated metaphor by placing ground/mark, question/assertion, polarity, pattern, personed context, differential horizon, and return inside one traversal.
+- [taylor-2026-core-theorems-pithy](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) performs the recursive failure of objectifying the subject.
+- [The eight determinations](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) prevents `0/1` from floating as an isolated metaphor by placing ground/mark, question/assertion, polarity, pattern, personed context, differential horizon, and return inside one traversal.
 - [[15-paradox-as-cross-register-hinge|Paradox]] shows the positive disciplines developed at that edge: Cusa's mathematical learned ignorance, Eckhart's dialectical apophasis, poetic ambiguity, re-entry, complex extension, and topological reframing keep the condition active without falsely counting it as a completed object.
 
 ## Tension

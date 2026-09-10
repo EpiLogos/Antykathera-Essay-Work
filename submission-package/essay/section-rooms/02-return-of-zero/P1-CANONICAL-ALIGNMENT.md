@@ -1,3 +1,7 @@
+---
+source_id: 02-return-of-zero-p1-canonical-alignment
+---
+
 # P1 Canonical Alignment — §1 Return of Zero
 
 **Wave:** T10 / #11.  

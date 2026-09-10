@@ -1,5 +1,6 @@
 ---
 title: "§3 · #4 — Topology and Musical Resolution"
+source_id: 29-s3-p4-topology-music-resolution
 node_type: section
 page_type: section-movement
 station: "§3"
@@ -12,9 +13,13 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §3 · #4 — Topology and Musical Resolution
 
+<!-- reader-navigation -->
+Movement 29 of 48 · [This room](../ROOM.md) · [← Previous](28-s3-p3-projective-dimensional-reframing.md) · [Next →](30-s3-p5-arche-topos.md)
+<!-- /reader-navigation -->
+
 ## Toroidal circulation as the topological claim and display
 
-The torus is the primary kinetic surface of retained return because circulation, winding, displacement, and local recurrence converge there. Projective, spherical, quotient, covering, Möbius, Klein, and other surfaces disclose different invariants and ways of holding obstruction; their overdetermination remains part of QL's wider topology. [[04-arche-topos-topology-music|Surface classification]] gives the genus accounting; the torus itself can be constructed as the quotient
+The torus is the primary kinetic surface of retained return because circulation, winding, displacement, and local recurrence converge there. Projective, spherical, quotient, covering, Möbius, Klein, and other surfaces disclose different invariants and ways of holding obstruction; their overdetermination remains part of QL's wider topology. [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Surface classification]] gives the genus accounting; the torus itself can be constructed as the quotient
 
 $$
 \mathbb{T}^{2}=\mathbb{R}^{2}/\mathbb{Z}^{2},
@@ -40,7 +45,7 @@ This is the canonical topological carrier of the QL `∞/0` relation. The slash 
 
 ## Magnetic confinement, energetic circulation, and claim boundary
 
-[[17-toroidal-circulation-arche-topos|The tokamak]] makes the geometry physical without being recruited as metaphysical proof. A toroidal chamber removes the open ends of a straight confinement vessel. Toroidal field coils drive magnetic field around the long way; a poloidal component winds around the short way; together they make a helical field. Charged particles tend to follow field lines, so the coupled circulation reduces simple parallel end-loss and helps constrain a plasma that no material wall could directly contain.
+[[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|The tokamak]] makes the geometry physical without being recruited as metaphysical proof. A toroidal chamber removes the open ends of a straight confinement vessel. Toroidal field coils drive magnetic field around the long way; a poloidal component winds around the short way; together they make a helical field. Charged particles tend to follow field lines, so the coupled circulation reduces simple parallel end-loss and helps constrain a plasma that no material wall could directly contain.
 
 The image is exact enough to earn its place: the hole belongs to the geometry that enables continuous circulation; the two winding directions compose while remaining independent; confinement is achieved dynamically through organised motion. Earth's ring current offers a planetary recurrence of a doughnut-shaped charged-particle population organised by magnetic fields. The bounded claim is strong: toroidal organisation is a recurrent mathematical and physical answer to sustained circulation. Universal optimality across every field would require evidence beyond these cases.
 
@@ -74,7 +79,7 @@ $$
 
 Thus the \(16/9\) totality reaches octave return through the \(9/8\) remainder. The same interval separates the fifth \(3/2\) from the fourth \(4/3\). Difference is neither cancelled nor left unresolved; it is carried as the exact ratio that completes the return.
 
-[[04-arche-topos-topology-music|The musical derivation]] is the decisive resolution because sound makes relation primary. A pitch is frequency; an interval is ratio; a chord is simultaneous difference; cadence returns without erasing the path. The topology says where a distinction can travel and return. Music says how it can remain different and sound as one.
+[[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|The musical derivation]] is the decisive resolution because sound makes relation primary. A pitch is frequency; an interval is ratio; a chord is simultaneous difference; cadence returns without erasing the path. The topology says where a distinction can travel and return. Music says how it can remain different and sound as one.
 
 ## Synaesthetic bridge
 

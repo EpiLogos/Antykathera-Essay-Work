@@ -5,6 +5,7 @@ aliases:
   - "pros hen"
   - "pros hen analogia"
   - "Aristotle's Analogia"
+source_id: pros-hen-analogia
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

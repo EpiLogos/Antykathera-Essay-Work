@@ -21,7 +21,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from source_resolver import build_source_index
 
 
-BUILDER_VERSION = "2.0.1"
+BUILDER_VERSION = "2.2.0"
 ROOM_FILE = "ROOM.md"
 MANUSCRIPT = "submission-package/essay/THE-RETURN-OF-ZERO.md"
 ROOM_ROOT = "submission-package/essay/section-rooms"
@@ -310,9 +310,14 @@ def movement_links(
     room_dir: Path,
     movement: dict[str, Any],
     argument_relations: dict[str, list[dict[str, str]]],
+    canonical_routes: dict[int, list[tuple[str, Path]]] | None = None,
 ) -> tuple[str, list[Path]]:
     inputs: list[Path] = [movement["path"]]
     node = relative_link(room_dir, movement["path"], "movement")
+    route = [
+        relative_link(room_dir, target, label)
+        for label, target in (canonical_routes or {}).get(int(movement["sequence"]), [])
+    ]
     arguments = []
     for item in argument_relations[Path(movement["path"]).stem]:
         path = project / item["path"]
@@ -341,8 +346,10 @@ def movement_links(
         if source_id not in used_sources:
             passages.append(relative_link(room_dir, target, source_id))
     fields = [node]
-    if arguments:
-        fields.append("arguments: " + ", ".join(arguments))
+    if route:
+        fields.append("canonical route: " + ", ".join(route))
+    # Historical carriers remain accessible from the rooms index. The local
+    # reading route should lead into its developed argument, not that archive.
     if passages:
         fields.append("sources: " + ", ".join(passages))
     return " · ".join(fields), inputs
@@ -371,9 +378,16 @@ def render_room(
         project / "the-return-of-zero-central-plan.md",
         manuscript,
     ]
+    canonical_routes = load_canonical_routes(project, room_dir)
+    if (room_dir / "P1-CANONICAL-ALIGNMENT.md").is_file():
+        inputs.append(room_dir / "P1-CANONICAL-ALIGNMENT.md")
     lines = [
         "---",
         f'title: "{spec.station} Room — {spec.title}"',
+        # `room-<slug>` is the identity this repo's own `primary_id` rule already
+        # gives a ROOM page; declaring it here keeps it through regeneration, so
+        # AIKit's corpus ingest can place the page rather than set it aside.
+        f"source_id: room-{spec.slug}",
         "page_type: section-room-waypoint",
         f'station: "{spec.station}"',
         f'room: "{spec.slug}"',
@@ -385,6 +399,25 @@ def render_room(
         "",
         f"**Write here:** {relative_link(room_dir, manuscript, 'sovereign master manuscript', '#' + spec.manuscript_anchor)}",
     ]
+    slugs = [room.slug for room in ROOMS]
+    ordinal = slugs.index(spec.slug)
+    where = []
+    reading_root = project / "submission-package/essay/README.md"
+    if reading_root.is_file():
+        where.append(relative_link(room_dir, reading_root, "Reading root"))
+    where.extend(
+        [
+            relative_link(room_dir, project / ROOM_ROOT / "README.md", "the rooms"),
+            f"{spec.station} · room {ordinal + 1} of {len(slugs)}",
+        ]
+    )
+    if ordinal:
+        before = ROOMS[ordinal - 1]
+        where.append("previous " + relative_link(room_dir, project / ROOM_ROOT / before.slug / "ROOM.md", before.station))
+    if ordinal + 1 < len(slugs):
+        after = ROOMS[ordinal + 1]
+        where.append("next " + relative_link(room_dir, project / ROOM_ROOT / after.slug / "ROOM.md", after.station))
+    lines.extend(["", "**Where you are:** " + " · ".join(where)])
     reading = room_dir / "READING.md"
     scratch = room_dir / "SCRATCH.md"
     companions = []
@@ -423,10 +456,10 @@ def render_room(
             )
         else:
             incoming = "the opening question"
-        earned = sentence_excerpt(movement["claim"], maximum_sentences=2, maximum_words=58)
+        earned = sentence_excerpt(movement["claim"], maximum_sentences=1, maximum_words=58)
         warrant = sentence_excerpt(movement["warrant"], maximum_sentences=1, maximum_words=48)
         outgoing = sentence_excerpt(movement["transition"] or (movements[index + 1]["claim"] if index < 5 else release))
-        links, movement_inputs = movement_links(project, room_dir, movement, argument_relations)
+        links, movement_inputs = movement_links(project, room_dir, movement, argument_relations, canonical_routes)
         inputs.extend(movement_inputs)
         lines.extend(
             [
@@ -452,10 +485,94 @@ def render_room(
     return text, sorted(set(inputs))
 
 
-def root_readme() -> str:
-    return """# Return of Zero — Section Rooms
+P1_ROW_RE = re.compile(r'<a id="p1-m(\d\d)"></a>(.*)')
+P1_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)\s]+)\)")
 
-The essay is written in [`THE-RETURN-OF-ZERO.md`](../THE-RETURN-OF-ZERO.md). These eight rooms are compact section-local waypoints into the canonical argument and source houses.
+
+def load_canonical_routes(project: Path, room_dir: Path) -> dict[int, list[tuple[str, Path]]]:
+    """Per-movement canonical A/C links from the room's authored P1-CANONICAL-ALIGNMENT.md."""
+    alignment = room_dir / "P1-CANONICAL-ALIGNMENT.md"
+    routes: dict[int, list[tuple[str, Path]]] = {}
+    if not alignment.is_file():
+        return routes
+    for line in read_text(alignment).splitlines():
+        match = P1_ROW_RE.search(line)
+        if not match:
+            continue
+        sequence = int(match.group(1))
+        links = []
+        for label, href in P1_LINK_RE.findall(match.group(2)):
+            if not re.fullmatch(r"[AC]\d\d", label):
+                continue
+            target = (room_dir / href.split("#", 1)[0]).resolve()
+            if not target.is_file():
+                raise BuildError(f"M{sequence:02}: missing canonical alignment target: {href}")
+            metadata, _ = parse_frontmatter(read_text(target))
+            title = str(metadata.get("title") or target.stem)
+            title = re.sub(rf"^{label}\s*[—–:.-]?\s*", "", title)
+            links.append((f"{label} — {title}" if label.startswith("A") else label, target))
+        routes[sequence] = links
+    return routes
+
+
+def root_readme(
+    project: Path,
+    all_movements: list[dict[str, Any]],
+    argument_relations: dict[str, list[dict[str, str]]],
+) -> str:
+    root = project / ROOM_ROOT
+    shelf_lines = "\n".join(
+        f"- {relative_link(root, path, str(parse_frontmatter(read_text(path))[0].get('title', path.stem)))}"
+        for path in sorted((root / "arguments").glob("*.md"))
+    )
+    rows = []
+    for index, spec in enumerate(ROOMS, start=1):
+        room_dir = root / spec.slug
+        movements = [item for item in all_movements if item["station"] == spec.station]
+        cells = " · ".join(
+            relative_link(root, Path(item["path"]), f"{int(item['sequence']):02d}") for item in movements
+        )
+        beside = []
+        if (room_dir / "READING.md").is_file():
+            beside.append(relative_link(root, room_dir / "READING.md", "reading route"))
+        beside.append(relative_link(root, room_dir / "P1-CANONICAL-ALIGNMENT.md", "canonical alignment"))
+        rows.append(
+            f"| {spec.station} {spec.title.split(' — ')[0]} | {relative_link(root, room_dir / ROOM_FILE, 'ROOM')} | {cells} | "
+            + " · ".join(beside)
+            + " |"
+        )
+    table = "\n".join(rows)
+    # The rooms index is the most-linked page in `section-rooms/`; without a
+    # declared identity AIKit's corpus ingest sets it aside and every link into
+    # it is disclosed as unresolved.
+    return f"""---
+title: "Return of Zero — Section Rooms"
+source_id: section-rooms-readme
+generated_by: "build-section-rooms.py v{BUILDER_VERSION}"
+ownership: generated
+---
+
+# Return of Zero — Section Rooms
+
+**Where you are:** [Reading root](../README.md) › `#0` The rooms
+
+The [manuscript](../THE-RETURN-OF-ZERO.md) awaits composition. The developed argument can be read through these eight rooms and their 48 movements. Each room holds six movements (the determinate `1`s), drawing on the shared canonical field (the implicate `0`): [36 Arguments](../symbolon/episteme/arguments/README.md), [64 Concepts](../symbolon/episteme/concepts/CANONICAL-INDEX.md), [36 conjugate arguments and their A/C root](../symbolon/episteme/conjugate/README.md). Each record keeps one home; the room's alignment brings its precise local operation into the movement.
+
+## The eight rooms
+
+| Station | Room | Movements | Also in the room |
+|---|---|---|---|
+{table}
+
+Movement numbers are the global traversal identities 01–48; their writing order is kept in the [braided traversal](../symbolon/episteme/maps/return-of-zero-braided-traversal.md). Each movement page carries its thesis, its derivation and source moves, its consequence and its audit boundary, and links the room's authored canonical alignment for its route to the Arguments and Concepts it stands on.
+
+## The argument shelf
+
+`arguments/` holds 21 historical carriers retained for provenance. For the developed argument, enter the canonical field above. Each room's `P1-CANONICAL-ALIGNMENT.md` records the A/C operations admitted at each movement, including phase bounds and deferrals; the conjugate face is read through its named partner, without importing a later technical conclusion into the opening.
+
+{shelf_lines}
+
+## What a room contains
 
 Each room contains generated `ROOM.md` and authored `P1-CANONICAL-ALIGNMENT.md`. The alignment preserves the six Movements' programme roles and their exact routes to canonical Arguments and Concepts; the builder does not rewrite it. A room may also contain `READING.md` when cross-source order genuinely teaches the section, `SCRATCH.md` for temporary writing, or `VISUALS.md` for an admitted visual argument. Full quotation, source teaching, bibliographic detail and worked examples belong in the linked `SOURCE.md` houses.
 
@@ -501,7 +618,7 @@ def build(project: Path, check: bool, selected_rooms: list[str] | None) -> None:
         raise BuildError(f"unknown room slug(s): {', '.join(sorted(unknown))}")
     root = project / ROOM_ROOT
     stale: list[str] = []
-    readme = root_readme()
+    readme = root_readme(project, all_movements, relations)
     if check:
         compare(root / "README.md", readme, stale, project)
     else:

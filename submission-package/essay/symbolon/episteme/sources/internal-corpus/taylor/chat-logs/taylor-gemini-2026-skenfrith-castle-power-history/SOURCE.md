@@ -24,6 +24,8 @@ tags:
 ---
 # Skenfrith, the Marches, and the History of Power
 
+[Source index](../../../../README.md) · [Reading entrance](../../../../../../../README.md) · [48 movements](../../../../../../../section-rooms/README.md)
+
 ## Provenance identity
 
 Raw conversation of 8 July 2026 between Frank and Gemini, opened from a visit to Skenfrith Castle and St Bridget's Church in Monmouthshire. It runs the local history of power in the Welsh Marches — castle, cope, Reformation, masonic and fraternal networks — and carries Frank's own opening intuitions about how institutional power migrates between martial, ecclesiastical, fraternal, and economic forms.

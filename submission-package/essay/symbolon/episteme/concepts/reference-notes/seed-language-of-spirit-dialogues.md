@@ -4,6 +4,7 @@ aliases:
   - "SEED Dialogues"
   - "Language of Spirit Dialogues"
   - "Leroy Little Bear and F. David Peat Dialogues"
+source_id: seed-language-of-spirit-dialogues
 node_type: reference
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

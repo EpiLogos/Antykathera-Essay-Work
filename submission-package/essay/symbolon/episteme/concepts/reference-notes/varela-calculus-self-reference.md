@@ -1,6 +1,7 @@
 ---
 title: "Varela — Calculus for Self-Reference"
 aliases: ["Varela Self-Reference"]
+source_id: varela-calculus-self-reference
 node_type: reference
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

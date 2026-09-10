@@ -49,7 +49,7 @@ passage_surface: '#passages'
 
 Internal reference for MEF's twelve lenses and sublenses, including the phenomenological and Jungian lenses and Prompt Thrownness/Geworfenheit placement.
 
-**Local-copy state:** recovered and read in full on 2026-09-08: [the twelve-lens reference](working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md), 295 lines, dated 2026-06-22. The object identifies itself as a derived synthesis reference and non-canonical compilation. It supplies the local architectural content; it does not replace the essay’s native theorem spine or the source-specific histories of its named traditions.
+**Local-copy state:** recovered and read in full on 2026-09-08: [the twelve-lens reference](../../../../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md), 295 lines, dated 2026-06-22. The object identifies itself as a derived synthesis reference and non-canonical compilation. It supplies the local architectural content; it does not replace the essay’s native theorem spine or the source-specific histories of its named traditions.
 
 ## Essay use
 
@@ -69,6 +69,6 @@ MEF is presented as the initial diaphaneity hologram/seed: a repeatable lens arc
 | §4, lines 65–261 | All twelve lenses and each six-sublens field, ordered in Articulation, Encounter and Becoming squares. L4 retains lived thrownness and temporality; L4′ the scientific verification sequence. Both carry the full conjugate field, with different grounding faces. |
 | §5 and appendix, lines 263–295 | The whole-field return and master rotation tables. The compilation’s recorded corrections to older tables remain part of its provenance. |
 
-**Relation to consumers:** [C39 — MEF](submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md) consumes the lens-conditioned operation; [C38 — Bimba Map](submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md) retains the distinct recursively local reference office. [The stained-glass whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-panes-seams) figures MEF’s media and joins within the corrected optical composition.
+**Relation to consumers:** [C39 — MEF](../../../../concepts/C39-Meta-Epistemic-Framework.md) consumes the lens-conditioned operation; [C38 — Bimba Map](../../../../concepts/C38-Bimba-Pratibimba-Bimba-Map.md) retains the distinct recursively local reference office. [The stained-glass whole](../../../../../mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-panes-seams) figures MEF’s media and joins within the corrected optical composition.
 
 This map paraphrases the recovered local object. No new public-source quotation, historical attribution, musical validation or implemented result is certified by this locality repair.

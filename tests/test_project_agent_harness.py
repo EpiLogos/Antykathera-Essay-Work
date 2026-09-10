@@ -248,7 +248,7 @@ class HookBehaviourTests(unittest.TestCase):
 
 
 class ProjectSkillDiscoveryTests(unittest.TestCase):
-    def test_codex_discovery_surface_contains_only_the_four_focused_project_skills(self):
+    def test_codex_discovery_surface_contains_only_the_eight_project_local_skills(self):
         skills = PROJECT / ".agents/skills"
         names = {path.parent.name for path in skills.glob("*/SKILL.md")}
         self.assertEqual(
@@ -258,6 +258,10 @@ class ProjectSkillDiscoveryTests(unittest.TestCase):
                 "return-of-zero-source",
                 "return-of-zero-write",
                 "return-of-zero-review",
+                "return-of-zero-build",
+                "return-of-zero-pages",
+                "return-of-zero-links",
+                "return-of-zero-visuals",
             },
         )
         combined = "\n".join(path.read_text(encoding="utf-8") for path in skills.glob("*/SKILL.md"))

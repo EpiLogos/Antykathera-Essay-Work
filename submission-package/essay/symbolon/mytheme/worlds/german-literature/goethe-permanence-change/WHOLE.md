@@ -68,7 +68,7 @@ The promise remains a promise of the Muses. The lyric supplies no sequel in whic
 
 ## #5→0
 
-The shared [Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold) **grounds** the A11/A12/A36 return through achieved differentiation and renewed articulation. Goethe’s complete lyric supplies its own bodily and temporal movement to this relation: the changed perceiver receives a formed continuation. The shared archetypal structuration does not assign the lyric a place in an ancient myth’s geography or a stage in a chronological history.
+The shared [Neumann whole](../../../archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold) **grounds** the A11/A12/A36 return through achieved differentiation and renewed articulation. Goethe’s complete lyric supplies its own bodily and temporal movement to this relation: the changed perceiver receives a formed continuation. The shared archetypal structuration does not assign the lyric a place in an ancient myth’s geography or a stage in a chronological history.
 
 <a id="goethe-two-ones-return"></a>
 

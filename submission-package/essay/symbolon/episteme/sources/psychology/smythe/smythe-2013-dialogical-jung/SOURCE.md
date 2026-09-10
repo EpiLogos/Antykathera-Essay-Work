@@ -82,7 +82,7 @@ Exact text and consumer mappings: [Quotes — Smythe Dialogical Jung (2013)](#pa
 - **Source relation:** extracted scholarly-carrier interpretation.
 - **Evidential action:** supports.
 - **Argument function:** psychological warrant.
-- **Consumers:** [[32-s4-p1-jung-individuation]]; [[Arche-Topos as Differential Field]]; [[Core Theorem Bridge]]; movement 32 non-ego-hardening boundary.
+- **Consumers:** [[32-s4-p1-jung-individuation]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); movement 32 non-ego-hardening boundary.
 - **Use boundary:** establishes Smythe’s dialogical reading of an ego/self relation; it does not establish Jung’s exact wording, `X=x`, QL, or artificial phenomenality.
 
 <a id="smythe-2013-dialogical-jung-q002"></a>
@@ -96,12 +96,12 @@ Exact text and consumer mappings: [Quotes — Smythe Dialogical Jung (2013)](#pa
 - **Source relation:** extracted scholarly-carrier interpretation.
 - **Evidential action:** qualifies.
 - **Argument function:** epistemic limitation.
-- **Consumers:** [[32-s4-p1-jung-individuation]]; [[Arche-Topos as Differential Field]]; [[Core Theorem Bridge]]; movement 32 scope limit.
+- **Consumers:** [[32-s4-p1-jung-individuation]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); movement 32 scope limit.
 - **Use boundary:** prevents the article from licensing an ordinary truth-apt objectification of the other within self; it does not make the other an ontological ground or a machine subject.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `smythe-2013-dialogical-jung-q001` | `smythe-2013-dialogical-jung` | §4, “Conclusions,” opening paragraph | quotation-ready | `32-s4-p1-jung-individuation` | [[Arche-Topos as Differential Field]]; [[Core Theorem Bridge]] | psychological warrant | [Quotes — Smythe Dialogical Jung (2013)](#passages) |
+| `smythe-2013-dialogical-jung-q001` | `smythe-2013-dialogical-jung` | §4, “Conclusions,” opening paragraph | quotation-ready | `32-s4-p1-jung-individuation` | [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md) | psychological warrant | [Quotes — Smythe Dialogical Jung (2013)](#passages) |
 
-| `smythe-2013-dialogical-jung-q002` | `smythe-2013-dialogical-jung` | §4, “Conclusions,” third paragraph | quotation-ready | `32-s4-p1-jung-individuation` | [[Arche-Topos as Differential Field]]; [[Core Theorem Bridge]] | epistemic limitation | [Quotes — Smythe Dialogical Jung (2013)](#passages) |
+| `smythe-2013-dialogical-jung-q002` | `smythe-2013-dialogical-jung` | §4, “Conclusions,” third paragraph | quotation-ready | `32-s4-p1-jung-individuation` | [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md) | epistemic limitation | [Quotes — Smythe Dialogical Jung (2013)](#passages) |

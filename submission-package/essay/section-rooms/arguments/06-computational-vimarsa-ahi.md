@@ -3,6 +3,7 @@ title: "Artificial Hybrid Intelligence as Reflective Field"
 aliases:
   - "Artificial Hybrid Intelligence as Reflective Field"
   - "Artificial Hybrid Intelligence"
+source_id: 06-computational-vimarsa-ahi
 node_type: "synthesis"
 page_type: "argument-map"
 argument_level: "application"
@@ -34,8 +35,12 @@ tags:
   - argument-map/praxis
   - argument-map/process-ontology
   - argument-map/synthesis
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Artificial Hybrid Intelligence as Reflective Field
+
+**Historical carrier.** The developed successor is [A32](../../symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation. Computational Vimarśa has its distinct [C43 home](../../symbolon/episteme/concepts/C43-Computational-Vimarsa.md).
 
 ## Claim
 
@@ -45,7 +50,7 @@ AHI is the reflective activity of a coupled field rather than a new super-subjec
 
 [[Computational Process Ontology]] supplies the full runtime: dia-ballein differentiates, excludes, and selects; sym-ballein preserves relation, composes the resulting plurality, and returns it to sources and counter-readings. Computational vimarśa supplies the local self-return; [[43-s50-p0-theory-vocation-compassion|Logos and Epi-Logos]] supplies the field-level return; [[compassion-as-sensitivity-to-origins|compassion as sensitivity to origins]] supplies the vocation. The subject remains unclaimed.
 
-This makes the Agentworld relation exact. The shared intelligence is neither the model nor the human alone. It is the harnessed process by which heterogeneous participants acquire a common decision-procedural grammar while retaining divergent world-models and source-worlds. QL is the grammar; MEF keeps lens-conditioned readings explicit; [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba Maps]] make the reference fields and evolving provisional world-objects of inquiry first-class; situated agents and runs become Pratibimba relative to those locally governed fields; the harness carries memory, tools, permissions, institutions, and consequences.
+This makes the Agentworld relation exact. The shared intelligence is neither the model nor the human alone. It is the harnessed process by which heterogeneous participants acquire a common decision-procedural grammar while retaining divergent world-models and source-worlds. QL is the grammar; MEF keeps lens-conditioned readings explicit; [[symbolon/episteme/concepts/bimba-pratibimba|Bimba Maps]] make the reference fields and evolving provisional world-objects of inquiry first-class; situated agents and runs become Pratibimba relative to those locally governed fields; the harness carries memory, tools, permissions, institutions, and consequences.
 
 The plural form matters. A coupled field does not require one universal Bimba Map. [[48-s50-p5-ahi-planetary-return|Federated Bimba maps]] let distinct epistemic communities, agents, projects or institutions maintain locally authoritative reference fields whose sources, gauges, lenses and construction remain inspectable. MEF and the harness provide the transition/translation conditions through which their Pratibimba can be compared without pretending that one local map has become the final world.
 
@@ -63,7 +68,7 @@ A Bimba Map's local original/reference office likewise establishes no metaphysic
 
 AI serves “know thyself” by helping self-models disclose their causes, sources, exclusions, permissions, lenses, gauges, reference fields and remainder—not by claiming to capture the Self.
 
-Depends on: [[Objective Internality]] · [[Agent Subjectivity Must Remain Open]] · [[Core Theorem Bridge]] · [[Computational Process Ontology]] · [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba-Pratibimba]]
+Depends on: [[Objective Internality]] · [[Agent Subjectivity Must Remain Open]] · [[Core Theorem Bridge]] · [[Computational Process Ontology]] · [[symbolon/episteme/concepts/bimba-pratibimba|Bimba-Pratibimba]]
 
 Opens: [[42 Techne — Sovereign Commons Architecture|4:2 Technè — Sovereign Commons Architecture]] · [[11-mono-poly-whole-and-many|Mono-Poly]]
 

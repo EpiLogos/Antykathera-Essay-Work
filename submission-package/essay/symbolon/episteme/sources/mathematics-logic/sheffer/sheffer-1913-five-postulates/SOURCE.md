@@ -37,6 +37,8 @@ passage_surface: '#passages'
 ---
 # Sheffer — A Set of Five Independent Postulates (1913)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Chicago 18 forms
 
 **Full note:** Henry Maurice Sheffer, “A Set of Five Independent Postulates for Boolean Algebras, with Application to Logical Constants,” *Transactions of the American Mathematical Society* 14, no. 4 (1913): {page}, https://doi.org/10.1090/S0002-9947-1913-1500960-1.

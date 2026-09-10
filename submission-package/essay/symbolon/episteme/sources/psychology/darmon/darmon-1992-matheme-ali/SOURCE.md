@@ -79,7 +79,7 @@ Exact text and consumer mappings: [Quotes — Darmon Mathème (1992)](#passages)
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** primary formulation / technical context.
-- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[Immutable Gap and Meta-Sign]]; [[Arche-Topos as Differential Field]]; movement 34 matheme definition.
+- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; movement 34 matheme definition.
 - **Use boundary:** establishes the entry's account of matheme as structural psychoanalytic writing and a transmission aim; it does not establish the QL sequence, a mathematical theorem, or a universal theory of signification.
 
 <a id="darmon-1992-matheme-ali-q002"></a>
@@ -93,12 +93,12 @@ Exact text and consumer mappings: [Quotes — Darmon Mathème (1992)](#passages)
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** genealogy / scope limitation.
-- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[Immutable Gap and Meta-Sign]]; movement 34 bar/formalisation boundary.
+- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; movement 34 bar/formalisation boundary.
 - **Use boundary:** qualifies a self-contained or timeless reading of the matheme; it does not show that every bar, zero, or formal cut is Lacanian, nor does it establish the QL crossed zero.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `darmon-1992-matheme-ali-q001` | `darmon-1992-matheme-ali` | opening definition, paras. 1–2 | quotation-ready | `34-s4-p3-lacan-matheme-mytheme` | [[Immutable Gap and Meta-Sign]]; [[Arche-Topos as Differential Field]] | primary formulation / technical context | [Quotes — Darmon Mathème (1992)](#passages) |
+| `darmon-1992-matheme-ali-q001` | `darmon-1992-matheme-ali` | opening definition, paras. 1–2 | quotation-ready | `34-s4-p3-lacan-matheme-mytheme` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | primary formulation / technical context | [Quotes — Darmon Mathème (1992)](#passages) |
 
-| `darmon-1992-matheme-ali-q002` | `darmon-1992-matheme-ali` | “La formule du signifiant,” opening sentence | quotation-ready | `34-s4-p3-lacan-matheme-mytheme` | [[Immutable Gap and Meta-Sign]]; [[Arche-Topos as Differential Field]] | genealogy / scope limitation | [Quotes — Darmon Mathème (1992)](#passages) |
+| `darmon-1992-matheme-ali-q002` | `darmon-1992-matheme-ali` | “La formule du signifiant,” opening sentence | quotation-ready | `34-s4-p3-lacan-matheme-mytheme` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | genealogy / scope limitation | [Quotes — Darmon Mathème (1992)](#passages) |

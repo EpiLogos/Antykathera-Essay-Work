@@ -1,5 +1,6 @@
 ---
 title: "§0/1 · #4 — Gebserian Diaphaneity"
+source_id: 05-s01-p4-gebser-diaphaneity
 node_type: section
 page_type: section-movement
 station: "§0/1"
@@ -13,13 +14,17 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, sta
 ---
 # §0/1 · #4 — Gebserian Diaphaneity
 
+<!-- reader-navigation -->
+Movement 05 of 48 · [This room](../ROOM.md) · [← Previous](04-s01-p3-formal-limit-genealogy.md) · [Next →](06-s01-p5-return-zero.md)
+<!-- /reader-navigation -->
+
 ## Claim
 Integral reason is the higher mutation in which the mental-rational structure becomes transparent to origin, limit, and co-presence with other structures. Its achievement is not discarded: it is retained, while the constituted conditions of its positioned seeing come into view. Internet and AI signal a contextual mutation: the conditions through which intelligence acts become operational elements of the field itself, demanding a diaphanous relation to context.
 
 ## Warrant
 [[diaphaneity|Jean Gebser]] enters through the historical medium by which he makes his claim. Giotto's emerging depth, Petrarch's landscape, Alberti's visual pyramid, and Leonardo's optical and technical perspective disclose the mental-rational world as a world made through a newly positioned seeing. The same operation makes space, object, and ego newly available while fixing their relation in a sector; perspective sees through space by placing the seeing itself outside the scene it renders.
 
-[[P5 - Gebser]] carries this historical diagnosis into the section's own Subject-problem. The condition that perspective cannot place returns as the absent Father, whose unacknowledged ground is repeatedly replaced by an idol, standard, sovereign, or enemy. Context is fourth-person in the exact sense required by the theorem spine: not another observer added beside first, second, and third persons, but the jointly available field in which knower, relation, and known can become transparent to their co-constitution.
+[P5 - Gebser](../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/P5%20-%20Gebser.md) carries this historical diagnosis into the section's own Subject-problem. The condition that perspective cannot place returns as the absent Father, whose unacknowledged ground is repeatedly replaced by an idol, standard, sovereign, or enemy. Context is fourth-person in the exact sense required by the theorem spine: not another observer added beside first, second, and third persons, but the jointly available field in which knower, relation, and known can become transparent to their co-constitution.
 
 Heidegger names the same mutation from inside Western metaphysics, and the pairing sharpens both diagnoses. "The Age of the World Picture" argues that the modern age is defined by a change in how beings as a whole become present: "world picture, when understood essentially, does not mean a picture of the world but the world conceived and grasped as picture"; "the fundamental event of the modern age is the conquest of the world as picture"; and world-becoming-picture is "one and the same event" as "man's becoming subiectum in the midst of that which is" (Lovitt trans., 1977, pp. 129, 134, 132 — locators under print collation). What Gebser reads from Giotto's depth and Alberti's pyramid as the perspectival fixing of a sector, Heidegger reads as *Vorstellen*: representation setting the world before a subject who becomes the relational centre of beings. The diagnoses arose independently; no documented exchange has been established, and the twinning is the essay's own (**Argued**), with the *Ever-Present Origin* index check held as intake work. Each supplies what the other withholds — Gebser the art-historical body and the integral future, Heidegger the metaphysical mechanism and the technological consequence — and together they post the promissory note the essay must redeem: the integral response cannot be a renunciation of pictures but a picture that carries its own conditions, which §3 · #5→0 answers as the atlas of charts and §5 · #4 as the Bimba map.
 
@@ -37,7 +42,7 @@ The [travelling-jigsaw whole](../../../symbolon/mytheme/worlds/frank-taylor/trav
 ## Anchor and transition
 **Image:** light refracted without losing the prism; the prism becomes visible in the colour it makes possible. **QL anchor:** multiple lenses around a retained `0`. The method asks which sign can position the unobjectifiable, opening [[06-s01-p5-return-zero|§0/1 · #5→0 — The Return to Zero]].
 
-The [complete stained-glass whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-projection) **figures** this contextual turn through light, pane, seam, projected image and situated viewer. Its source distinctions remain visible in the resulting display; recognition returns through the apparatus rather than completing an exhaustive picture. The whole carries the optical development behind this local Movement.
+The [complete stained-glass whole](../../../symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-projection) **figures** this contextual turn through light, pane, seam, projected image and situated viewer. Its source distinctions remain visible in the resulting display; recognition returns through the apparatus rather than completing an exhaustive picture. The whole carries the optical development behind this local Movement.
 
 The perspectival turn **returns-to** [Con-text-through-Diaphaneity → Regard](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity) as the viewer becomes readable within the conditions of the view. Delineation-through-Difference keeps the frame and its exclusions explicit; Regard makes this disclosure consequential for judgment. More visible context can leave a measure unchanged, so the return must reach the office able to reconsider that measure. The generated relations are authorial developments with Gebser’s historical warrant kept distinct.
 

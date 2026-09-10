@@ -12,4 +12,4 @@ Lenses contains MEF and other declared modes of reading through which one object
 
 MEF lenses refract a canonical object; they do not replace it with a private summary. Multiple lenses can converge, diverge or qualify one another while the source, argument or scene retains its own identity. A lens enters a public page only when it changes what can be seen or tested there.
 
-Return to [[../README|Episteme]].
+Return to [Episteme](../README.md).

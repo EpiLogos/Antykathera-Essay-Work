@@ -3,6 +3,7 @@ title: "John R. Van Eenwyk — Archetypes and Strange Attractors"
 aliases:
   - "Van Eenwyk Strange Attractors"
   - "Archetypes: The Strange Attractors of the Psyche"
+source_id: van-eenwyk-strange-attractors
 node_type: reference
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

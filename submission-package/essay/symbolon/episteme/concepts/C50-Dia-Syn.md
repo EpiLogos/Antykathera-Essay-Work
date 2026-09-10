@@ -1,4 +1,5 @@
 ---
+record_id: C50
 register: "episteme"
 claim_status: "Derived"
 source_relation: "Extracted native Dia/Syn derivation; Argued cross-register developments; Greek lexical and computational comparisons remain source-specific"

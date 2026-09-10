@@ -1,6 +1,7 @@
 ---
 title: "Jungian Quaternity"
 aliases: ["Jung’s Quaternity"]
+source_id: jungian-quaternity
 node_type: reference
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

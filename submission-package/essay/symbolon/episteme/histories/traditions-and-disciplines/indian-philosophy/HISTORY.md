@@ -1,5 +1,6 @@
 ---
 title: "Indian Philosophy — Differentiation, Emptiness, Manifestation, Recognition"
+source_id: indian-philosophy-history
 page_type: historical-register-route
 ownership: protected-learning-surface
 status: living

@@ -14,6 +14,10 @@ source_relation: "Argued from Draft3 and protected authorial encounters; Paraphr
 
 # A01 — Subject, God and Faithful Definition
 
+<!-- paired-field-navigation -->
+[Argument field](README.md) · [Other face: A01′ — Faithful Definition of the Agent](../conjugate/A01-prime-Faithful-Definition-of-the-Agent.md) · [Shared A/C root](../conjugate/AC.md)
+<!-- /paired-field-navigation -->
+
 ## #0
 
 The one asking what the Subject is is already present in the asking. A thought can appear, a self-image can change, and an account of the mind can be examined; the appearing of any of these is already given to the one undertaking the examination. The Subject is this immediate pole of the inquiry. Adding another image to the account does not place that pole among its contents.

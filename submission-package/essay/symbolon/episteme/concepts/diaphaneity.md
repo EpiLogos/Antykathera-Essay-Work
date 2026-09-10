@@ -6,6 +6,7 @@ aliases:
   - "Gebser Diaphaneity"
   - "Jean Gebser"
   - "the integral"
+source_id: diaphaneity
 node_type: "concept"
 register: episteme
 page_type: "concept"
@@ -43,7 +44,7 @@ The full articulation is deliberately deferred (a load-bearing withholding). At 
 
 ## Status boundary
 
-Scholarly warrant currently runs through [[submission-package/essay/symbolon/episteme/sources/quotes/maroski-2025-seeing-through-solid-words|Maroski (2025)]], which verifies the two claims the essay leans on: transparency as form rather than content, and co-presence rather than supersession. Direct Gebser primary passages remain acquisition work — this constrains quotation and attribution, not teaching. Gebser is a sourced philosophical warrant for transparent co-presence; he is never recruited as prior authority for QL's formal count. *(Argued.)*
+Scholarly warrant currently runs through [[symbolon/episteme/sources/phenomenology-continental-philosophy/maroski/maroski-2025-seeing-through-solid-words/SOURCE|Maroski (2025)]], which verifies the two claims the essay leans on: transparency as form rather than content, and co-presence rather than supersession. Direct Gebser primary passages remain acquisition work — this constrains quotation and attribution, not teaching. Gebser is a sourced philosophical warrant for transparent co-presence; he is never recruited as prior authority for QL's formal count. *(Argued.)*
 
 Related: [[05-s01-p4-gebser-diaphaneity|§0/1 · #4]] · [[25-s3-p0-eight-determinations|§3 · #0]] · [[35-s4-p4-gebser-apollo-dionysus|§4 · #4]] · [[15-paradox-as-cross-register-hinge|Paradox as Cross-Register Hinge]]
 

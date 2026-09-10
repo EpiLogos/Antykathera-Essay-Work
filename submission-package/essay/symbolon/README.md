@@ -42,21 +42,21 @@ The root layer is the twelvefold: the eight determinations (the inner nature of 
 
 Plus the spine-index: [eight-determinations](eight-determinations.md) — the complete determination field, its sequence, inversions and returns.
 
-These records gather formal, imaginal and epistemic developments without duplicating them. Their mathematical derivations descend into [[submission-package/essay/symbolon/matheme/README.md|Matheme]], their lived images into [[submission-package/essay/symbolon/mytheme/README.md|Mytheme]], and their source histories, maps and concepts into [[submission-package/essay/symbolon/episteme/README.md|Episteme]].
+These records gather formal, imaginal and epistemic developments without duplicating them. Their mathematical derivations descend into [[symbolon/matheme/README.md|Matheme]], their lived images into [[symbolon/mytheme/README.md|Mytheme]], and their source histories, maps and concepts into [[symbolon/episteme/README.md|Episteme]].
 
 ## The three registers
 
 The four registers carry the Vāk layering — one descent of speech, held architecturally as `#1`–`#4`: **Symbolon = parā** (the whole unsayable form), **Matheme = paśyantī** (the visionary operative logic, more primordial than the mytheme), **Mytheme = madhyamā** (the formed visual and narrative operations built through that logic), **Episteme = vaikharī** (the inspected, documented utterance). The four register-foundations are the Binary Explication four-file system — definition, process, quilt, music: the 0, the /, the 1, the 0/1 returned ([taylor-2026-binary-explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md)) — nested-aligned to the registers and housed in Matheme's source layer.
 
-### [[submission-package/essay/symbolon/matheme/README.md|Matheme]]
+### [[symbolon/matheme/README.md|Matheme]]
 
 Matheme makes the relation transmissible through notation, derivation, construction and formal comparison — and is its own subject: the full equation `0/1 = 4+2 = 5→0 = 1/0 = 4′+2′ = 5′→0′ = 0/1`. Organised by the four-file system (definition, process, quilt, music), the two logic folders (Dia/Syn, Mono/Poly), and the domain projections (QL, Spanda, topology, harmonics, formal neighbours, computation, diagrams).
 
-### [[submission-package/essay/symbolon/mytheme/README.md|Mytheme]]
+### [[symbolon/mytheme/README.md|Mytheme]]
 
 Mytheme lets the relation become lived and memorable through myth, narrative, poetry, media, art, music and composed plates. Its images perform operations; they do not stand as decorative equivalents of equations.
 
-### [[submission-package/essay/symbolon/episteme/README.md|Episteme]]
+### [[symbolon/episteme/README.md|Episteme]]
 
 Episteme carries instituted knowledge: canonical source houses, histories, etymologies, MEF lenses, argument maps, comparative dossiers, evidential figures, concept nodes and dialogue records. It shows what the work inherits, disputes, derives from and offers in its own name.
 

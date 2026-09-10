@@ -74,7 +74,7 @@ Exact text and consumer mappings: [Quotes — Das Śrīharṣa (SEP, 2022)](#pas
 - **Source relation:** extracted.
 - **Evidential action:** contextualises.
 - **Argument function:** historical/conceptual context.
-- **Consumers:** [[19-s2-p0-difference-cannot-be-escaped]]; [[Sym-Ballein]]; movement 19 non-fusion distinction context.
+- **Consumers:** [[19-s2-p0-difference-cannot-be-escaped]]; [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; movement 19 non-fusion distinction context.
 - **Use boundary:** supplies Das’s scholarly report of a Śrīharṣa contention; it does not derive Taylor’s two-logics theorem or deny every practical distinction.
 
 <a id="das-2022-sriharsa-sep-q002"></a>
@@ -88,12 +88,12 @@ Exact text and consumer mappings: [Quotes — Das Śrīharṣa (SEP, 2022)](#pas
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** interpretive limitation.
-- **Consumers:** [[19-s2-p0-difference-cannot-be-escaped]]; [[Sym-Ballein]]; movement 19 scope control.
+- **Consumers:** [[19-s2-p0-difference-cannot-be-escaped]]; [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; movement 19 scope control.
 - **Use boundary:** marks a scholarly dispute about the interpretation; it does not settle the controversy or authorise a universal nondual thesis.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `das-2022-sriharsa-sep-q001` | `das-2022-sriharsa-sep` | §5, distinctness discussion; KKh 96–110 | quotation-ready | `19-s2-p0-difference-cannot-be-escaped` | [[Sym-Ballein]] | historical/conceptual context | [Quotes — Das Śrīharṣa (SEP, 2022)](#passages) |
+| `das-2022-sriharsa-sep-q001` | `das-2022-sriharsa-sep` | §5, distinctness discussion; KKh 96–110 | quotation-ready | `19-s2-p0-difference-cannot-be-escaped` | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]] | historical/conceptual context | [Quotes — Das Śrīharṣa (SEP, 2022)](#passages) |
 
-| `das-2022-sriharsa-sep-q002` | `das-2022-sriharsa-sep` | §5, immediately following distinctness account | quotation-ready | `19-s2-p0-difference-cannot-be-escaped` | [[Sym-Ballein]] | interpretive limitation | [Quotes — Das Śrīharṣa (SEP, 2022)](#passages) |
+| `das-2022-sriharsa-sep-q002` | `das-2022-sriharsa-sep` | §5, immediately following distinctness account | quotation-ready | `19-s2-p0-difference-cannot-be-escaped` | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]] | interpretive limitation | [Quotes — Das Śrīharṣa (SEP, 2022)](#passages) |

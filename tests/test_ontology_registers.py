@@ -57,7 +57,7 @@ def frontmatter(path: Path) -> dict:
 def build_fixture(root: Path) -> None:
     """A real minimal canonical tree exercising register mechanics."""
     section_dir = root / "submission-package/essay/section-rooms/00-integral-threshold/movements"
-    argument_dir = root / "submission-package/essay/section-rooms/arguments"
+    argument_dir = root / "submission-package/essay/symbolon/episteme/arguments"
     concept_dir = root / "symbolon/episteme/concepts"
     path_dir = root / "symbolon/episteme/maps"
     for directory in (section_dir, argument_dir, concept_dir, path_dir):
@@ -136,9 +136,10 @@ class RegisterCensusTests(unittest.TestCase):
             + status["counts"]["argument-map"]
         )
         self.assertEqual(census["canonical_nodes"], expected)
-        # Concepts and paths are ratified to episteme; the 48 movements, 21
-        # arguments and the argument map still await Frank's per-node register.
-        declared = status["counts"]["concept"] + status["counts"]["path"]
+        # Concepts, paths and the canonical A/A′ argument pages declare their register;
+        # the 48 movements await Frank's per-node register; A/C declares episteme.
+        # The 21 pre-T09 carriers are legacy provenance and no longer count as canonical.
+        declared = status["counts"]["concept"] + status["counts"]["path"] + status["counts"]["argument"] + status["counts"]["argument-map"]
         self.assertEqual(census["declared"], declared)
         self.assertEqual(census["missing"], expected - declared)
 
@@ -198,7 +199,7 @@ class RegisterFlowTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
             build_fixture(root)
-            (root / "submission-package/essay/section-rooms/arguments/02-fixture-cross.md").write_text(
+            (root / "submission-package/essay/symbolon/episteme/arguments/02-fixture-cross.md").write_text(
                 "---\n"
                 "title: Fixture Cross\n"
                 "node_type: claim\n"
@@ -230,13 +231,13 @@ class RegisterFlowTests(unittest.TestCase):
                 if debt["kind"] == "invalid-register"
             }
             self.assertNotIn(
-                "submission-package/essay/section-rooms/arguments/02-fixture-cross.md", invalid
+                "submission-package/essay/symbolon/episteme/arguments/02-fixture-cross.md", invalid
             )
             self.assertNotIn(
                 "symbolon/episteme/concepts/zero.md", mismatches
             )
 
-            (root / "submission-package/essay/section-rooms/arguments/03-fixture-invalid.md").write_text(
+            (root / "submission-package/essay/symbolon/episteme/arguments/03-fixture-invalid.md").write_text(
                 "---\n"
                 "title: Fixture Invalid\n"
                 "node_type: claim\n"
@@ -254,7 +255,7 @@ class RegisterFlowTests(unittest.TestCase):
                 if debt["kind"] == "invalid-register"
             }
             self.assertIn(
-                "submission-package/essay/section-rooms/arguments/03-fixture-invalid.md", invalid
+                "submission-package/essay/symbolon/episteme/arguments/03-fixture-invalid.md", invalid
             )
 
     def test_writing_context_packet_carries_register(self) -> None:

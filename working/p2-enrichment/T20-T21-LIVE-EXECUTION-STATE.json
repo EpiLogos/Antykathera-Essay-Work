@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-08",
-  "overall_status": "T20 and T21 complete and accepted; T22 per batch complete",
+  "updated": "2026-09-09",
+  "overall_status": "T20/T21 accepted; T22 retained; T23 independently audited and repaired; T24 review complete, authorial review and common-base ratification next",
   "current_branch": "main",
-  "stop_boundary": "STOP before T23/T24 and manuscript composition. Do not restart completed T17–T21.",
+  "stop_boundary": "Before manuscript composition: Frank reviews the repaired 48-movement carry and ratifies the common base under WRITING-PROTOCOL. T23/T24 are completed review work; do not restart T17–T21.",
   "canonical_counts": {
     "symbolon_preserved": 13,
     "matheme_preserved": 80,
@@ -53,5 +53,15 @@
   "last_canonical_repair_commit": "aa45104",
   "source_acquisition_checkpoint": "1cd661b",
   "development_evidence_checkpoint": "39d2032",
-  "completion_commit_title": "Accept complete T20 T21 coverage and preservation proofs"
+  "completion_commit_title": "Accept complete T20 T21 coverage and preservation proofs",
+  "T24_review": {
+    "receipt": "working/p2-enrichment/receipts/T24-whole-before-writing-2026-09-09.md",
+    "evidence": "working/p2-enrichment/audits/T24-2026-09-09/whole-current.json",
+    "tests": "working/p2-enrichment/audits/T24-2026-09-09/tests-final.log",
+    "standing": "review complete, bounded repairs; uncommitted and not authorially ratified",
+    "canonical_suite": 137,
+    "admitted_reachable": 281,
+    "movements": 48,
+    "prior_validation_summary": "The existing validation_summary below is the dated T20/T21 result, not the current global test result."
+  }
 }

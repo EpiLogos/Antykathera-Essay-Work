@@ -1,5 +1,6 @@
 ---
 title: "§4 · #1 — Individuation through QL `X/x`"
+source_id: 32-s4-p1-jung-individuation
 node_type: section
 page_type: section-movement
 station: "§4"
@@ -13,11 +14,15 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §4 · #1 — Individuation through QL `X/x`
 
+<!-- reader-navigation -->
+Movement 32 of 48 · [This room](../ROOM.md) · [← Previous](31-s4-p0-psychoid-problem.md) · [Next →](33-s4-p2-complexio-quaternity-senarius.md)
+<!-- /reader-navigation -->
+
 ## Claim
 The authorial QL matheme `X/x` places determining capacity and indefinite particular in one relation: `X` becomes legible only through concrete transformations `x`, while no determination exhausts the whole. Jung's individuation is the psychic refraction in which a local `x` becomes transparent to this larger relation, not ego hardening.
 
 ## Warrant
-Jung’s Self and [[van-eenwyk-1997-archetypes-strange-attractors|John R. Van Eenwyk — Archetypes and Strange Attractors]] support a dynamic basin reading. [[working/sources-texts-references/10-7-2026-core-theorems-pithy#Agentic individuation corollary — argued cross-register unit|Agentic Individuation Crosswalk]] maps model potential, active-context nucleation, laminated persona, and trans-individuation.
+Jung’s Self and [[symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE|John R. Van Eenwyk — Archetypes and Strange Attractors]] support a dynamic basin reading. [Agentic Individuation Crosswalk](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) maps model potential, active-context nucleation, laminated persona, and trans-individuation.
 
 The historical sequence matters. Freud's scientific admission of the unconscious makes a previously unowned region formally speakable; Jung's faithfulness to the psychic field requires that its images be received as psychic facts without being reduced to objects possessed by the ego. QL does not rename Jung's work: it writes the authorial `X/x` relation in which a finite `x` gives the determining capacity `X` a local face while never containing it.
 

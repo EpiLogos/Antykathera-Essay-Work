@@ -35,6 +35,8 @@ passage_surface: '#passages'
 ---
 # Whitehead and Russell — Principia Mathematica (1910–1913)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Chicago 18 forms
 
 **Full note:** Alfred North Whitehead and Bertrand Russell, *Principia Mathematica*, 3 vols. (Cambridge University Press, 1910–13), {volume:page or proposition}.

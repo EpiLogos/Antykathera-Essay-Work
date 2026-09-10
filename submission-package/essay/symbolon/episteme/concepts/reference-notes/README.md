@@ -1,5 +1,6 @@
 ---
 title: "Concept Reference Shelf — Recovered 2026-08-08"
+source_id: readme
 page_type: concept-working-shelf
 status: quilt-pending
 tags:

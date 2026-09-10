@@ -1,5 +1,6 @@
 ---
 title: "§2 · #0 — Difference Cannot Be Escaped"
+source_id: 19-s2-p0-difference-cannot-be-escaped
 node_type: section
 page_type: section-movement
 station: "§2"
@@ -13,11 +14,15 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §2 · #0 — Difference Cannot Be Escaped
 
+<!-- reader-navigation -->
+Movement 19 of 48 · [This room](../ROOM.md) · [← Previous](../../02-return-of-zero/movements/18-s1-p5-loan-returns.md) · [Next →](20-s2-p1-dia-ballein.md)
+<!-- /reader-navigation -->
+
 ## Movement thesis
 
 Non-duality preserves distinction within the appearing-act from which its terms arise. Without difference nothing appears, no question can be asked, no action can occur, and no world can become articulate. The danger lies in the amnesia that follows the cut, when the products of differentiation forget the activity and field through which they arose.
 
-Every binary has two provenances. Its terms can be treated as separately given values whose conflict is measured from outside, or as inverse determinations of one differentiating relation. [[Two Logics of Two]] names these complete accountings. They are not rival slogans. They are the two ways a two can be true.
+Every binary has two provenances. Its terms can be treated as separately given values whose conflict is measured from outside, or as inverse determinations of one differentiating relation. [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Two Logics of Two]] names these complete accountings. They are not rival slogans. They are the two ways a two can be true.
 
 Knowledge confronts the same fork because knowledge cannot eliminate its own provisionality. “Knowledge is a performance of trust wearing the mask of certainty” names the hidden floor: language, memory, method, witness, competence, institution, and world have already been trusted enough for a proposition to count as known. The two logics describe what knowledge then does with that trust.
 
@@ -29,9 +34,9 @@ Knowledge confronts the same fork because knowledge cannot eliminate its own pro
 4. Yet their opposition does not erase their shared dependence on the originating distinction.
 5. Logic must therefore account both for the opposed terms and for the seam that makes them terms.
 
-The first accounting externalises the field as a neutral zero and writes two signed ones. The second retains ground and mark inside each orientation and writes two conjugate ratios.
+The first accounting writes two signed ones around a retained axial zero, then distinguishes what happens when that relation is cancelled or its span appropriated. The second retains ground and mark inside each orientation and writes two conjugate ratios.
 
-[[Mono-Poly: Whole and Many|Mono–poly]] names the field/many relation: the common field is the mono and the determinations belong to its poly. [[Trust, Faith, and the Formal Limit|Trust]] cannot be collapsed into that topology. It is the lived relation beneath any act of knowing, made explicit when a rational account meets the condition it cannot fully certify. The issue is whether knowledge can receive that condition humbly and become a provisional anchor, or whether it projects its unheld distrust into a term that then claims totality.
+[[symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many|Mono–poly]] names the field/many relation: the common field is the mono and the determinations belong to its poly. [[symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust]] cannot be collapsed into that topology. It is the lived relation beneath any act of knowing, made explicit when a rational account meets the condition it cannot fully certify. The issue is whether knowledge can receive that condition humbly and become a provisional anchor, or whether it projects its unheld distrust into a term that then claims totality.
 
 ## Proof burden
 

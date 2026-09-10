@@ -80,7 +80,7 @@ Exact article text and source-relation boundaries: [Quotes — Adleman and Vande
 - **Source relation:** extracted.
 - **Evidential action:** contextualises.
 - **Argument function:** scholarly reception / rhetorical context.
-- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[Immutable Gap and Meta-Sign]]; movement 34 brick-wall context.
+- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; movement 34 brick-wall context.
 - **Use boundary:** establishes these authors’ reading of the wall in analytic rhetoric; it does not certify the primary Lacan wording beyond the separately source-matched quotations, nor establish a QL or Jungian mapping.
 
 <a id="adleman-vanderwees-2021-lacan-rhetoric-q002"></a>
@@ -94,12 +94,12 @@ Exact article text and source-relation boundaries: [Quotes — Adleman and Vande
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** limitation / reception context.
-- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[Immutable Gap and Meta-Sign]]; movement 34 crosswalk limit.
+- **Consumers:** [[34-s4-p3-lacan-matheme-mytheme]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; movement 34 crosswalk limit.
 - **Use boundary:** supports a secondary account of mediation as both separation and link; it neither identifies Lacan’s notation with `X/x` nor validates a metaphysical conclusion.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `adleman-vanderwees-2021-lacan-rhetoric-q001` | `adleman-vanderwees-2021-lacan-rhetoric` | p. 222 | quotation-ready | `34-s4-p3-lacan-matheme-mytheme` | [[Immutable Gap and Meta-Sign]] | scholarly reception / rhetorical context | [Quotes — Adleman and Vanderwees Lacan’s Psychoanalytic Rhetoric (2021)](#passages) |
+| `adleman-vanderwees-2021-lacan-rhetoric-q001` | `adleman-vanderwees-2021-lacan-rhetoric` | p. 222 | quotation-ready | `34-s4-p3-lacan-matheme-mytheme` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | scholarly reception / rhetorical context | [Quotes — Adleman and Vanderwees Lacan’s Psychoanalytic Rhetoric (2021)](#passages) |
 
-| `adleman-vanderwees-2021-lacan-rhetoric-q002` | `adleman-vanderwees-2021-lacan-rhetoric` | p. 225 | quotation-ready | `34-s4-p3-lacan-matheme-mytheme` | [[Immutable Gap and Meta-Sign]] | limitation / reception context | [Quotes — Adleman and Vanderwees Lacan’s Psychoanalytic Rhetoric (2021)](#passages) |
+| `adleman-vanderwees-2021-lacan-rhetoric-q002` | `adleman-vanderwees-2021-lacan-rhetoric` | p. 225 | quotation-ready | `34-s4-p3-lacan-matheme-mytheme` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | limitation / reception context | [Quotes — Adleman and Vanderwees Lacan’s Psychoanalytic Rhetoric (2021)](#passages) |

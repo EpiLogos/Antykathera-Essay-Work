@@ -9,6 +9,7 @@ aliases:
   - "empty set"
   - "∅"
   - "the nothing that is"
+source_id: zero
 node_type: "concept"
 register: episteme
 page_type: "concept"
@@ -38,10 +39,10 @@ The figure is titular to *The Return of Zero*. [[13-s1-p0-sign-migrates|§1 · #
 
 ## Layer rule
 
-Historical and mathematical zero—placeholder, numeral, operator, origin, and `∅`—must remain distinct from QL `0`, the meta-sign of the uncounted Mono/One. [[The Two Ones — Mono–Poly Matheme]] relates the layers without collapsing them: set theory gives `1 = {0}` and `2 = {0,1}` as an exact numerical floor; it does not exhaust the ground–mark relation.
+Historical and mathematical zero—placeholder, numeral, operator, origin, and `∅`—must remain distinct from QL `0`, the meta-sign of the uncounted Mono/One. [[symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All|The Two Ones — Mono–Poly Matheme]] relates the layers without collapsing them: set theory gives `1 = {0}` and `2 = {0,1}` as an exact numerical floor; it does not exhaust the ground–mark relation.
 
 ## Sources
 
-[[kaplan-1999-nothing-that-is|Kaplan, *The Nothing That Is*]] (narrative velocity, not reception-history authority); [[rotman-1987-signifying-nothing|Rotman, *Signifying Nothing*]] (zero reorganises the semiotic economy of number); [[15-s1-p2-empty-set-generates-one|von Neumann ordinals]] (0 = ∅, 1 = {∅}); Brahmagupta and [[dimensional-reframing-at-zero-and-infinity|khahara]] (śūnya made operational; the return edge of division). The formal-limit reading is anchored by [[submission-package/essay/symbolon/episteme/sources/quotes/godel-1931-undecidable-propositions|Gödel incompleteness]] and [[dimensional-reframing-at-zero-and-infinity|division pluralisms]].
+[[symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE|Kaplan, *The Nothing That Is*]] (narrative velocity, not reception-history authority); [[symbolon/episteme/sources/mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE|Rotman, *Signifying Nothing*]] (zero reorganises the semiotic economy of number); [[15-s1-p2-empty-set-generates-one|von Neumann ordinals]] (0 = ∅, 1 = {∅}); Brahmagupta and [[dimensional-reframing-at-zero-and-infinity|khahara]] (śūnya made operational; the return edge of division). The formal-limit reading is anchored by [[symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE|Gödel incompleteness]] and [[dimensional-reframing-at-zero-and-infinity|division pluralisms]].
 
-Related: [[12-core-theorem-bridge|0/1 — Ground–Mark Relation]] · [[01-immutable-gap-and-meta-sign|The Meta-Sign]] · [[16-s1-p3-crossed-zero|The Crossed Zero (Ø)]] · [[34-s4-p3-lacan-matheme-mytheme|The Matheme]] · [[submission-package/essay/symbolon/episteme/sources/quotes/godel-1931-undecidable-propositions|Gödel Incompleteness]]
+Related: [[12-core-theorem-bridge|0/1 — Ground–Mark Relation]] · [[01-immutable-gap-and-meta-sign|The Meta-Sign]] · [[16-s1-p3-crossed-zero|The Crossed Zero (Ø)]] · [[34-s4-p3-lacan-matheme-mytheme|The Matheme]] · [[symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE|Gödel Incompleteness]]

@@ -1,0 +1,711 @@
+{
+  "scope": "Check current admitted identities and saved proof routes without rebinding receipts.\n\nThis is a structural and evidence-preservation check, not a semantic certification.\nIts output retains missing routes and changed passage witnesses for human review.",
+  "census": {
+    "pages": 764,
+    "reachable": 701,
+    "problems": {
+      "directory-link": 6,
+      "title-or-alias-only": 480,
+      "ambiguous-filename": 4,
+      "missing-vault-path": 81,
+      "missing-path": 1
+    },
+    "admitted": 281,
+    "missing_admitted": 0,
+    "unreachable_admitted": 0
+  },
+  "canonical_suite": {
+    "count": 137,
+    "missing": [],
+    "duplicate_ids": {},
+    "duplicate_homes": {},
+    "metadata_mismatches": [],
+    "missing_sixfold_sections": []
+  },
+  "movements": {
+    "count": 48,
+    "alignment": [
+      {
+        "sequence": 1,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+          "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+          "submission-package/essay/symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md",
+          "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md"
+        ]
+      },
+      {
+        "sequence": 2,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+          "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+          "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+          "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+          "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+          "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md"
+        ]
+      },
+      {
+        "sequence": 3,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+          "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+          "submission-package/essay/symbolon/episteme/concepts/C02-Faithful-Definition.md",
+          "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+          "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+          "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md"
+        ]
+      },
+      {
+        "sequence": 4,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+          "submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md",
+          "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md"
+        ]
+      },
+      {
+        "sequence": 5,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+          "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "submission-package/essay/symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md",
+          "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+          "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+          "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md"
+        ]
+      },
+      {
+        "sequence": 6,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md"
+        ]
+      },
+      {
+        "sequence": 7,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "submission-package/essay/symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md",
+          "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+          "submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md",
+          "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md"
+        ]
+      },
+      {
+        "sequence": 8,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+          "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+          "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md"
+        ]
+      },
+      {
+        "sequence": 9,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md",
+          "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md",
+          "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md"
+        ]
+      },
+      {
+        "sequence": 10,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+          "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+          "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+          "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md"
+        ]
+      },
+      {
+        "sequence": 11,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md",
+          "submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md",
+          "submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md",
+          "submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md",
+          "submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md"
+        ]
+      },
+      {
+        "sequence": 12,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "submission-package/essay/symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md",
+          "submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md",
+          "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+          "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md"
+        ]
+      },
+      {
+        "sequence": 13,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+          "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md"
+        ]
+      },
+      {
+        "sequence": 14,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+          "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md"
+        ]
+      },
+      {
+        "sequence": 15,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+          "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md"
+        ]
+      },
+      {
+        "sequence": 16,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md"
+        ]
+      },
+      {
+        "sequence": 17,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md"
+        ]
+      },
+      {
+        "sequence": 18,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md"
+        ]
+      },
+      {
+        "sequence": 19,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md",
+          "submission-package/essay/symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+          "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "submission-package/essay/symbolon/episteme/concepts/C03-Determination.md",
+          "submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md",
+          "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+          "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md"
+        ]
+      },
+      {
+        "sequence": 20,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+          "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md"
+        ]
+      },
+      {
+        "sequence": 21,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+          "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+          "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md"
+        ]
+      },
+      {
+        "sequence": 22,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "submission-package/essay/symbolon/episteme/concepts/C23-Severance.md",
+          "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+          "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+          "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+          "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+          "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md"
+        ]
+      },
+      {
+        "sequence": 23,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+          "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+          "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+          "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+          "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md"
+        ]
+      },
+      {
+        "sequence": 24,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md"
+        ]
+      },
+      {
+        "sequence": 25,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+          "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md"
+        ]
+      },
+      {
+        "sequence": 26,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md",
+          "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md",
+          "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+          "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md",
+          "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md"
+        ]
+      },
+      {
+        "sequence": 27,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+          "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+          "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+          "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md"
+        ]
+      },
+      {
+        "sequence": 28,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md",
+          "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+          "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md"
+        ]
+      },
+      {
+        "sequence": 29,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+          "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+          "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md"
+        ]
+      },
+      {
+        "sequence": 30,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+          "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+          "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md"
+        ]
+      },
+      {
+        "sequence": 31,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md",
+          "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+          "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md"
+        ]
+      },
+      {
+        "sequence": 32,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md",
+          "submission-package/essay/symbolon/episteme/concepts/C31-Complex.md",
+          "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+          "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
+          "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md"
+        ]
+      },
+      {
+        "sequence": 33,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+          "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md"
+        ]
+      },
+      {
+        "sequence": 34,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md",
+          "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md",
+          "submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md",
+          "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md"
+        ]
+      },
+      {
+        "sequence": 35,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md",
+          "submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md",
+          "submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md",
+          "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md",
+          "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+          "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+          "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md"
+        ]
+      },
+      {
+        "sequence": 36,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+          "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+          "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+          "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+          "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+          "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+          "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md"
+        ]
+      },
+      {
+        "sequence": 37,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+          "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+          "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+          "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+          "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md"
+        ]
+      },
+      {
+        "sequence": 38,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md",
+          "submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md",
+          "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md",
+          "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+          "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+          "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md"
+        ]
+      },
+      {
+        "sequence": 39,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+          "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+          "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+          "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md"
+        ]
+      },
+      {
+        "sequence": 40,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+          "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+          "submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md",
+          "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+          "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+          "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+          "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md"
+        ]
+      },
+      {
+        "sequence": 41,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md",
+          "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+          "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+          "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+          "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+          "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+          "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md"
+        ]
+      },
+      {
+        "sequence": 42,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+          "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+          "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md"
+        ]
+      },
+      {
+        "sequence": 43,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+          "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+          "submission-package/essay/symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md"
+        ]
+      },
+      {
+        "sequence": 44,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+          "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+          "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+          "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+          "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+          "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+          "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+          "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md"
+        ]
+      },
+      {
+        "sequence": 45,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md",
+          "submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md",
+          "submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md",
+          "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md",
+          "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+          "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md"
+        ]
+      },
+      {
+        "sequence": 46,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md",
+          "submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md",
+          "submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md",
+          "submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md",
+          "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+          "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+          "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+          "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+          "submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md",
+          "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+          "submission-package/essay/symbolon/episteme/concepts/C53-Power-Delegated-Labour.md",
+          "submission-package/essay/symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md"
+        ]
+      },
+      {
+        "sequence": 47,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md",
+          "submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md",
+          "submission-package/essay/symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md",
+          "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+          "submission-package/essay/symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md",
+          "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
+          "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+          "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+          "submission-package/essay/symbolon/episteme/concepts/C58-Anthropomorphization.md",
+          "submission-package/essay/symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md"
+        ]
+      },
+      {
+        "sequence": 48,
+        "routes": [
+          "submission-package/essay/symbolon/episteme/arguments/A30-Objective-Co-Internality.md",
+          "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+          "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+          "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+          "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+          "submission-package/essay/symbolon/episteme/arguments/A31-Deferential-Intelligence.md",
+          "submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md",
+          "submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md",
+          "submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md",
+          "submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md",
+          "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md",
+          "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+          "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+          "submission-package/essay/symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md",
+          "submission-package/essay/symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md",
+          "submission-package/essay/symbolon/episteme/concepts/C57-Agentworld.md",
+          "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+          "submission-package/essay/symbolon/episteme/concepts/C62-Planetary-Computation.md",
+          "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+          "submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md"
+        ]
+      }
+    ],
+    "missing_alignment": [],
+    "missing_next_link": [],
+    "live_legacy_links": []
+  },
+  "preservation": {
+    "changed_protected_since_T24_entry": []
+  },
+  "prior_evidence": {
+    "denominator_rows": 272,
+    "consumer_instances": 1333,
+    "dispositions": {
+      "accepted29-whole-operation": 244,
+      "historical-branch-to-whole-to-consumer": 239,
+      "H100-own-consumer-operation": 100,
+      "M339-own-P1-to-AC": 339,
+      "carrier-current-direct-bilateral": 145,
+      "carrier-named-operation-mediated": 9,
+      "carrier-E19-whole-native-consumer-mediated": 127,
+      "K48-movement-own-operation": 48,
+      "ratified-conjugate-counterpart-or-root": 72,
+      "ratified-root-native-or-phase-limited-return": 3,
+      "single-intact-aphorism-distinct-E-affiliations": 6,
+      "held-unratified-no-canonical-obligation": 1
+    },
+    "checked_saved_routes": 556,
+    "missing_reader_routes": [],
+    "saved_paragraphs": 410,
+    "exact_paragraphs": 313,
+    "same_text_after_link_normalisation": 93,
+    "changed_witnesses_requiring_review": [
+      {
+        "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md",
+        "prior_text": "The terminal comparison **returns-to** [Count-through-Countenance](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-through-countenance) where an encountered other exceeds the account under which they were named. That reply can correct an epistemic attribution without deciding the ontological order by itself. A34’s Argued dependence remains its own proposition; the Offered technical horizon and the still-open artificial phenomenal question retain their distinct offices.",
+        "prior_start_line": 100
+      },
+      {
+        "path": "submission-package/essay/section-rooms/07-instrument-returns/P1-CANONICAL-ALIGNMENT.md",
+        "prior_text": "- <a id=\"p1-m47\"></a>[M47](movements/47-s50-p4-idealism-horizon.md) → [A01](../../symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md)/[A26](../../symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md)/[A27](../../symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md)/[A34](../../symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md); [C01](../../symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md)/[C35](../../symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md)/[C41](../../symbolon/episteme/concepts/C41-Objective-Internality.md)/[C48](../../symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md)/[C58](../../symbolon/episteme/concepts/C58-Anthropomorphization.md)/[C60](../../symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md); Symbol/Account/Trust; Idealism reopens order of dependence while artificial phenomenal localisation remains Open.",
+        "prior_start_line": null
+      },
+      {
+        "path": "submission-package/essay/section-rooms/07-instrument-returns/P1-CANONICAL-ALIGNMENT.md",
+        "prior_text": "- <a id=\"p1-m43\"></a>[M43](movements/43-s50-p0-theory-vocation-compassion.md) → [A35](../../symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md); [C51](../../symbolon/episteme/concepts/C51-Logos-Epi-Logos.md)/[C56](../../symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md)/[C59](../../symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture.md); Regard/Anamnesis + Logos; compassion = sensitivity to origins, not generic sentiment.\n- <a id=\"p1-m44\"></a>[M44](movements/44-s50-p1-ql-mef-bimba-harness.md) → [A30](../../symbolon/episteme/arguments/A30-Objective-Co-Internality.md)/[A32](../../symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md)/[A33](../../symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md); [C38](../../symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md)/[C39](../../symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md)/[C42](../../symbolon/episteme/concepts/C42-Objective-Co-Internality.md)/[C55](../../symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md)/[C61](../../symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md); Symbol/Account/Trust + Homologia/Analogia; independently grounded worlds become mutually legible without ontology collapse.\n- <a id=\"p1-m45\"></a>[M45](movements/45-s50-p2-antikythera-attunement.md) → [A15](../../symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md)/[A16](../../symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md)/[A17](../../symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md)/[A35](../../symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md); [C20](../../symbolon/episteme/concepts/C20-Arche-Topos.md)/[C48](../../symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md)/[C51](../../symbolon/episteme/concepts/C51-Logos-Epi-Logos.md)/[C62](../../symbolon/episteme/concepts/C62-Planetary-Computation.md); Fides/Topos + controlling Antikythera Mytheme; instrument coordinates cycles it does not own for an observer it does not replace.\n- <a id=\"p1-m46\"></a>[M46](movements/46-s50-p3-4-2-mono-poly.md) → [A12](../../symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md)/[A23](../../symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md)/[A24](../../symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md)/[A25](../../symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md)/[A29](../../symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md)/[A30](../../symbolon/episteme/arguments/A30-Objective-Co-Internality.md); [C26](../../symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md)/[C27](../../symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md)/[C28](../../symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md)/[C29](../../symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md)/[C48](../../symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md)/[C49](../../symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md)/[C53](../../symbolon/episteme/concepts/C53-Power-Delegated-Labour.md)/[C54](../../symbolon/episteme/concepts/C54-Commons-Non-Monopoly.md); Arbitration + Fides + Apportionment/Economy; sovereign commons protects source, refusal and attributable contribution.\n- <a id=\"p1-m47\"></a>[M47](movements/47-s50-p4-idealism-horizon.md) → [A01](../../symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md)/[A26](../../symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md)/[A27](../../symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md)/[A34](../../symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md); [C01](../../symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md)/[C35](../../symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md)/[C41](../../symbolon/episteme/concepts/C41-Objective-Internality.md)/[C48](../../symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md)/[C58](../../symbolon/episteme/concepts/C58-Anthropomorphization.md)/[C60](../../symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md); Symbol/Account/Trust; Idealism reopens order of dependence while artificial phenomenal localisation remains Open.\n- <a id=\"p1-m48\"></a>[M48](movements/48-s50-p5-ahi-planetary-return.md) → [A30](../../symbolon/episteme/arguments/A30-Objective-Co-Internality.md)/[A31](../../symbolon/episteme/arguments/A31-Deferential-Intelligence.md)/[A32](../../symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md)/[A33](../../symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md)/[A34](../../symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md)/[A35](../../symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md)/[A36](../../symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md), concentrated [A31](../../symbolon/episteme/arguments/A31-Deferential-Intelligence.md)/[A32](../../symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md)/[A33](../../symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md)/[A34](../../symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md)/[A35](../../symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md)/[A36](../../symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md); [C42](../../symbolon/episteme/concepts/C42-Objective-Co-Internality.md)/[C47](../../symbolon/episteme/concepts/C47-Deferential-Intelligence.md)/[C55](../../symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md)/[C56](../../symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins.md)/[C57](../../symbolon/episteme/concepts/C57-Agentworld.md)/[C61](../../symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md)/[C62](../../symbolon/episteme/concepts/C62-Planetary-Computation.md)/[C64](../../symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md); Encounter + Logos + Symbol/Account/Trust; **THE MIRROR THAT MOVES FIRST** and [A36](../../symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md) terminal Return.",
+        "prior_start_line": 18
+      },
+      {
+        "path": "submission-package/essay/section-rooms/07-instrument-returns/movements/47-s50-p4-idealism-horizon.md",
+        "prior_text": "[Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#analogical-proportion) **qualifies** this terminal horizon by keeping dependence attached to its stated respect. A local Bimba genuinely conditions an inquiry and its subsequent determinations; in the wider relation that original remains source-dependent. Epistemic priority, causal influence and ontological dependence therefore cannot exchange directions merely because each is called priority. The inherited Offered horizon here names the technical passage and its further comparisons; A34 and C60 carry the essay's positive Argued order Subject/Consciousness → Mind/Objective Internality → Object. That ontology remains in force while particular historical identifications and artificial phenomenal localisation retain their separate open tasks.",
+        "prior_start_line": 95
+      }
+    ]
+  },
+  "source_standing": {
+    "no-excerpts": 16,
+    "quotation-ready": 52,
+    "selected-excerpts-quotation-ready": 1,
+    "paraphrase-ready; no-exact-quotation": 14,
+    "paraphrase-ready; image-transcription-not-collated": 2,
+    "paraphrase-ready; no-print-edition-quotation": 1,
+    "short-selected-digital-excerpts-verified; no-print-collation": 7,
+    "Latin-digital-quotation-ready; English-edition-open": 1,
+    "wording-verified-via-author-presentation": 1,
+    "wording-verified-via-scholarly-quotation": 1,
+    "selected-lexical-phrase-verified; no-ancient-passage-quotation": 1,
+    "selected-senses-paraphrase-ready; no-exact-quotation": 1,
+    "digital-text-quotation-ready; print-image-collation-open": 1,
+    "wording-verified-from-accessible-pdf": 1,
+    "selected-passage-paraphrase-ready; no-exact-quotation": 3,
+    "locator-needed": 23,
+    "paraphrase-only": 7,
+    "source-matched-abstract; no-exact-quotation": 1,
+    "source-matched": 5,
+    "wording-verified-secondary-collation-required": 1,
+    "undeclared": 7,
+    "excerpts-indexed-internal": 2,
+    "internal-only": 1,
+    "not-applicable": 1,
+    "source-matched-paraphrase; no-exact-quotation": 3,
+    "selected-entry-paraphrase-ready; no-exact-quotation": 1,
+    "selected-translation-quotation-open; German-witness-excerpt-ready": 1,
+    "wording-verified-collation-pending": 5,
+    "excerpts-unverified": 3,
+    "abstract-verified-extraction-pending": 1,
+    "review-transcribed-acquisition-required": 2,
+    "source-matched-paraphrases": 5,
+    "prologue-notes-only": 1,
+    "eighteen-words-selected-digital-excerpts-verified": 1,
+    "paraphrase-ready": 1,
+    "source-matched-paraphrases; no-exact-quotation": 1,
+    "secondary-reproduction-verified": 1,
+    "web-captured": 1,
+    "not-gathered": 1,
+    "mixed-thesis-wording-verified-book-collation-pending": 1
+  }
+}

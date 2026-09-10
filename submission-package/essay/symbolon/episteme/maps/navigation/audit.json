@@ -1,0 +1,810 @@
+{
+  "source_digest": "7b7a9f85f7227f83ea4a673ddc307daf97938631a6dfd3468a67c36908159eff",
+  "builder_version": "1.1.0",
+  "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
+  "reader_links": {
+    "pages": 764,
+    "reachable": 701,
+    "problems": {
+      "directory-link": 6,
+      "title-or-alias-only": 480,
+      "ambiguous-filename": 4,
+      "missing-vault-path": 81,
+      "missing-path": 1
+    },
+    "admitted": 281,
+    "missing_admitted": 0,
+    "unreachable_admitted": 0
+  },
+  "reading_root": "submission-package/essay/README.md",
+  "pages": 764,
+  "reachable_from_root": 717,
+  "depth_histogram": {
+    "0": 1,
+    "1": 62,
+    "2": 510,
+    "3": 114,
+    "4": 25,
+    "5": 5
+  },
+  "max_depth": 5,
+  "relation_totals": {
+    "unnamed": 5128,
+    "sources": 1298,
+    "sources (declared)": 783,
+    "returns-to": 647,
+    "grounds": 479,
+    "extends": 359,
+    "qualifies": 295,
+    "consumed-by (declared)": 269,
+    "defines": 252,
+    "figures": 220,
+    "compares": 170,
+    "historicises": 168,
+    "returns-to (declared)": 125,
+    "tests": 105,
+    "derives": 31,
+    "embodies": 16,
+    "sources (declared passage)": 12,
+    "companion notes (declared)": 10,
+    "presages": 2
+  },
+  "per_class": {
+    "rooms": {
+      "pages": 20,
+      "links": 860,
+      "named": 78,
+      "unnamed": 782,
+      "orphans": 0,
+      "no_return": 0,
+      "unreachable": 0
+    },
+    "essay": {
+      "pages": 1,
+      "links": 8,
+      "named": 0,
+      "unnamed": 8,
+      "orphans": 0,
+      "no_return": 0,
+      "unreachable": 0
+    },
+    "quilt": {
+      "pages": 6,
+      "links": 78,
+      "named": 15,
+      "unnamed": 63,
+      "orphans": 0,
+      "no_return": 3,
+      "unreachable": 0
+    },
+    "movements": {
+      "pages": 48,
+      "links": 501,
+      "named": 222,
+      "unnamed": 279,
+      "orphans": 0,
+      "no_return": 0,
+      "unreachable": 0
+    },
+    "argument-shelf": {
+      "pages": 21,
+      "links": 256,
+      "named": 12,
+      "unnamed": 244,
+      "orphans": 0,
+      "no_return": 0,
+      "unreachable": 0
+    },
+    "symbolon-root": {
+      "pages": 14,
+      "links": 196,
+      "named": 146,
+      "unnamed": 50,
+      "orphans": 0,
+      "no_return": 1,
+      "unreachable": 0
+    },
+    "episteme-root": {
+      "pages": 1,
+      "links": 24,
+      "named": 4,
+      "unnamed": 20,
+      "orphans": 0,
+      "no_return": 0,
+      "unreachable": 0
+    },
+    "episteme-aphorisms": {
+      "pages": 1,
+      "links": 11,
+      "named": 9,
+      "unnamed": 2,
+      "orphans": 0,
+      "no_return": 0,
+      "unreachable": 0
+    },
+    "episteme-arguments": {
+      "pages": 37,
+      "links": 1074,
+      "named": 642,
+      "unnamed": 432,
+      "orphans": 0,
+      "no_return": 0,
+      "unreachable": 0
+    },
+    "episteme-atlas": {
+      "pages": 1,
+      "links": 30,
+      "named": 1,
+      "unnamed": 29,
+      "orphans": 0,
+      "no_return": 1,
+      "unreachable": 0
+    },
+    "episteme-concepts": {
+      "pages": 179,
+      "links": 1226,
+      "named": 609,
+      "unnamed": 617,
+      "orphans": 36,
+      "no_return": 84,
+      "unreachable": 47
+    },
+    "episteme-conjugate": {
+      "pages": 38,
+      "links": 648,
+      "named": 210,
+      "unnamed": 438,
+      "orphans": 0,
+      "no_return": 0,
+      "unreachable": 0
+    },
+    "episteme-dialogues": {
+      "pages": 1,
+      "links": 1,
+      "named": 0,
+      "unnamed": 1,
+      "orphans": 0,
+      "no_return": 1,
+      "unreachable": 0
+    },
+    "episteme-dossiers": {
+      "pages": 8,
+      "links": 205,
+      "named": 179,
+      "unnamed": 26,
+      "orphans": 0,
+      "no_return": 1,
+      "unreachable": 0
+    },
+    "episteme-etymologies": {
+      "pages": 22,
+      "links": 589,
+      "named": 439,
+      "unnamed": 150,
+      "orphans": 0,
+      "no_return": 5,
+      "unreachable": 0
+    },
+    "episteme-figures": {
+      "pages": 1,
+      "links": 3,
+      "named": 0,
+      "unnamed": 3,
+      "orphans": 0,
+      "no_return": 1,
+      "unreachable": 0
+    },
+    "episteme-histories": {
+      "pages": 21,
+      "links": 660,
+      "named": 429,
+      "unnamed": 231,
+      "orphans": 0,
+      "no_return": 3,
+      "unreachable": 0
+    },
+    "episteme-lenses": {
+      "pages": 3,
+      "links": 37,
+      "named": 26,
+      "unnamed": 11,
+      "orphans": 0,
+      "no_return": 1,
+      "unreachable": 0
+    },
+    "episteme-maps": {
+      "pages": 5,
+      "links": 119,
+      "named": 7,
+      "unnamed": 112,
+      "orphans": 0,
+      "no_return": 1,
+      "unreachable": 0
+    },
+    "episteme-sources": {
+      "pages": 194,
+      "links": 1036,
+      "named": 166,
+      "unnamed": 870,
+      "orphans": 0,
+      "no_return": 80,
+      "unreachable": 0
+    },
+    "matheme": {
+      "pages": 94,
+      "links": 845,
+      "named": 399,
+      "unnamed": 446,
+      "orphans": 0,
+      "no_return": 13,
+      "unreachable": 0
+    },
+    "mytheme": {
+      "pages": 48,
+      "links": 763,
+      "named": 449,
+      "unnamed": 314,
+      "orphans": 0,
+      "no_return": 23,
+      "unreachable": 0
+    }
+  },
+  "orphans": [
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/36-tattvas.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/abhinavagupta.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/agency-without-subjectivity.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/antahkarana.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/apoha.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/bimba-pratibimba.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/bradley-terry-gauge-problem.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/circumscription-without-circumstance.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/compassion-sensitivity-origins.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/cross-ratio.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/dimensional-reframing-zero-infinity.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/division-pluralisms.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/ebm-resonance-metric.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/epi-logos-voice.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/fde-catuskoti.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/four-valued-logic.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/gebser-diaphaneity.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/mathematical-artistic-image-register.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/mono-poly-planetary-intelligence.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/nirvikalpa.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/pratyabhijna.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/prompt-thrownness.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/pros-hen-analogia.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/psychoid-number.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/quaternal-logic.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/riemann-sphere.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/samkalpa.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/sheffer-stroke.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/siva-sakti-object-triad.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/suddha-vikalpa.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/syn-ballein.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/trika-alignment-stack.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/trika.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/varela-calculus-self-reference.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/vikalpa.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/von-franz-number-and-time.md"
+  ],
+  "no_return": [
+    "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
+    "submission-package/essay/quilt/copula-derivation-chain-and-resource-pools.md",
+    "submission-package/essay/quilt/ql-expression-grammar.md",
+    "submission-package/essay/symbolon/README.md",
+    "submission-package/essay/symbolon/episteme/atlas/README.md",
+    "submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md",
+    "submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md",
+    "submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md",
+    "submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md",
+    "submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md",
+    "submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md",
+    "submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md",
+    "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
+    "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
+    "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
+    "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
+    "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
+    "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
+    "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
+    "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
+    "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
+    "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
+    "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
+    "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
+    "submission-package/essay/symbolon/episteme/concepts/C47-Deferential-Intelligence.md",
+    "submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md",
+    "submission-package/essay/symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md",
+    "submission-package/essay/symbolon/episteme/concepts/C50-Dia-Syn.md",
+    "submission-package/essay/symbolon/episteme/concepts/C51-Logos-Epi-Logos.md",
+    "submission-package/essay/symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md",
+    "submission-package/essay/symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture.md",
+    "submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/0-1-matheme.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/36-tattvas.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/9-8-whole-tone.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/README.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/abhinavagupta.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/antahkarana.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/antikythera-mechanism.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/bimba-pratibimba.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/blind-spot-frank-gleiser-thompson.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/bradley-terry-gauge-problem.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/brahmagupta.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/chinese-remainder-theorem-z6.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/circumscription-without-circumstance.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/compassion-sensitivity-origins.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/cross-ratio.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/ebm-resonance-metric.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/epi-logos-voice.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/fde-catuskoti.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/file-one-definitional.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/gerbert-sylvester-ii.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/godel-incompleteness.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/grothendieck-group-loss.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/jung-pauli.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/kaplan-nothing-that-is.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/kauffman-iterants.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/khahara.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/laws-of-form.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/maturana-varela-autopoiesis-enaction.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/mef.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/meister-eckhart-dialectical-apophaticism.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/metonic-cycle.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/nicholas-of-cusa-learned-ignorance-sphere.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/nirvikalpa.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/nothaft-satanic-ciphers.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/pratyabhijna.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/projective-line.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/prompt-thrownness.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/pythagorean-comma.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/quaternal-logic.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/qubit-bloch-sphere.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/re-entry.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/riemann-sphere.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/rotman-semiotics-of-zero.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/russell-paradox-type-theory.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/salem-codex.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/sheffer-stroke.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/siva-sakti-object-triad.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/softmax-as-apoha.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/suddha-vikalpa.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/surface-classification-4g-2g.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/syn-ballein.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/trika-alignment-stack.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/trika.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/trivial-ring.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/von-franz-number-and-time.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/von-neumann-ordinals.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/wittgenstein-limit-silence-forms-of-life.md",
+    "submission-package/essay/symbolon/episteme/dialogues/README.md",
+    "submission-package/essay/symbolon/episteme/dossiers/README.md",
+    "submission-package/essay/symbolon/episteme/etymologies/RELATIONAL-FORM-GROWTH.md",
+    "submission-package/essay/symbolon/episteme/etymologies/T09-A-C-E-RECIPROCITY-INDEX.md",
+    "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+    "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORICAL-BRANCHES.md",
+    "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORY.md",
+    "submission-package/essay/symbolon/episteme/figures/README.md",
+    "submission-package/essay/symbolon/episteme/histories/README.md",
+    "submission-package/essay/symbolon/episteme/histories/places-and-peoples/language-law-nation-centralisation/HISTORY.md",
+    "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md",
+    "submission-package/essay/symbolon/episteme/lenses/README.md",
+    "submission-package/essay/symbolon/episteme/maps/README.md",
+    "submission-package/essay/symbolon/episteme/sources/PASSAGE-LEDGER.md",
+    "submission-package/essay/symbolon/episteme/sources/README.md",
+    "submission-package/essay/symbolon/episteme/sources/SOURCE-INDEX.md",
+    "submission-package/essay/symbolon/episteme/sources/SOURCE-TEMPLATE.md",
+    "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/NOTES.md",
+    "submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/biblical-job-kjv-ebible-eng-kjv2006/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/biblical-studies/anonymous/hebrew-bible-mechon-mamre-jps1917/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/biblical-studies/brown-driver-briggs/bdb-hebrew-english-lexicon-online/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/biblical-studies/nag-hammadi/hypostasis-archons-layton/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/biblical-studies/pauline-corpus/ephesians-sbl-reverse-interlinear/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/NOTES.md",
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/confucius/analects-ctext-legge/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/chinese-philosophy/laozi/laozi-legge-tao-teh-king/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/acropolis-museum/acropolis-museum-erechtheion/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/acropolis-museum/acropolis-museum-west-pediment-poseidon/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/chinese-university-hong-kong/cuhk-multifunction-chinese-character-database/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/herodotus/herodotus-histories-macaulay/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/hyginus/hyginus-fabulae-macfarlane-digital/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/lane/lane-arabic-english-lexicon-online/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/lewis-short/lewis-short-1879-latin-dictionary/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/pausanias/pausanias-description-greece-jones-1918/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/pseudo-apollodorus/pseudo-apollodorus-library-frazer/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-philology/tla/tla-hieroglyphic-hieratic-lexicon/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-metaphysics-ross/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-nicomachean-ethics-ross/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/aristotle/aristotle-politics-jowett/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/irenaeus/irenaeus-1885-against-heresies-book-1/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/computer-science-ml/oi/oi-2026-responsibility-source-projection/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/computer-science-ml/perdomo/perdomo-et-al-2020-performative-prediction/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/eastern-corpus-program.md",
+    "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/nothaft/nothaft-2020-satanic-ciphers/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/history-philosophy-of-science/owen/owen-1843-comparative-anatomy/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/indian-philosophy/isvarakrishna/isvarakrishna-ruzsa-1998-samkhyakarika/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/indian-philosophy/kallata/spandakarika-dyczkowski-1992-stanzas-vibration/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/indian-philosophy/nagarjuna/nagarjuna-garfield-1995-fundamental-wisdom/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-skenfrith-cope-jung-ql/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-2026-spirit-nature-man-humanity/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-chatgpt-2026-symbolon-in-media/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-gemini-2026-pax-machina-body-without-organs/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/chat-logs/taylor-gemini-2026-skenfrith-castle-power-history/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/language-literary-studies/atilf/atilf-tlfi-regard/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/mathematics-logic/sheffer/sheffer-1913-five-postulates/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1976-symbolic-exchange-death/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1977-forget-foucault/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1981-simulacra-and-simulation/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1983-fatal-strategies/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/baudrillard/baudrillard-1990-transparency-evil/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/bank-of-england/bank-of-england-2019-payments-through-time/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/fanon/fanon-1952-peau-noire-masques-blancs/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/francois-i/francois-i-1539-villers-cotterets/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/german-reich/reich-1935-citizenship-law-first-regulation/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/gregoire/gregoire-1794-unite-de-langue/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/national-archives/nara-2000-gehlen-disclosure/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/political-theory-institutions/united-states-government/us-1946-paperclip-policy-frus448/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bergson/bergson-1913-time-free-will-pogson/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-on-dialogue-undated-handout/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-physics-and-beyond-interview/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/process-systems-theory/bohm/bohm-postmodern-science-postmodern-world/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/psychology/jung/jung-1921-psychologische-typen/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/NOTES.md",
+    "submission-package/essay/symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/NOTES.md",
+    "submission-package/essay/symbolon/episteme/sources/psychology/von-franz/von-franz-1974-number-time/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/NOTES.md",
+    "submission-package/essay/symbolon/episteme/sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/religion-theology/al-bukhari/bukhari-sahih-sunnah-online/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/religion-theology/augustine/augustine-city-god-dods-digital/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/religion-theology/quran/quran-arberry-corpus-selected/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/religion-theology/reri/reri-ptolemaic-funerary-papyrus/SOURCE.md",
+    "submission-package/essay/symbolon/episteme/sources/research-intake-inbox.md",
+    "submission-package/essay/symbolon/episteme/sources/source-intake-queue.md",
+    "submission-package/essay/symbolon/matheme/README.md",
+    "submission-package/essay/symbolon/matheme/computation/README.md",
+    "submission-package/essay/symbolon/matheme/definition/README.md",
+    "submission-package/essay/symbolon/matheme/dia-syn/README.md",
+    "submission-package/essay/symbolon/matheme/diagrams/README.md",
+    "submission-package/essay/symbolon/matheme/formal-neighbours/README.md",
+    "submission-package/essay/symbolon/matheme/harmonics/README.md",
+    "submission-package/essay/symbolon/matheme/music/README.md",
+    "submission-package/essay/symbolon/matheme/process/README.md",
+    "submission-package/essay/symbolon/matheme/ql/README.md",
+    "submission-package/essay/symbolon/matheme/quilt/README.md",
+    "submission-package/essay/symbolon/matheme/spanda/README.md",
+    "submission-package/essay/symbolon/matheme/topology/README.md",
+    "submission-package/essay/symbolon/mytheme/README.md",
+    "submission-package/essay/symbolon/mytheme/archetypal-ground/README.md",
+    "submission-package/essay/symbolon/mytheme/art/README.md",
+    "submission-package/essay/symbolon/mytheme/atlas/README.md",
+    "submission-package/essay/symbolon/mytheme/atlas/geography/README.md",
+    "submission-package/essay/symbolon/mytheme/atlas/temporality/README.md",
+    "submission-package/essay/symbolon/mytheme/media/README.md",
+    "submission-package/essay/symbolon/mytheme/music/README.md",
+    "submission-package/essay/symbolon/mytheme/myth/README.md",
+    "submission-package/essay/symbolon/mytheme/narrative/README.md",
+    "submission-package/essay/symbolon/mytheme/plates/README.md",
+    "submission-package/essay/symbolon/mytheme/poetry/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/biblical/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/british-television/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/chinese-huayan/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/frank-taylor/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/german-literature/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/hellenic/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/README.md",
+    "submission-package/essay/symbolon/mytheme/worlds/roman-latin/README.md"
+  ],
+  "unreachable": [
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/0-1-matheme.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/36-tattvas.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/abhinavagupta.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/agency-without-subjectivity.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/agentic-individuation-crosswalk.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/antahkarana.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/apoha.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/bimba-pratibimba.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/bradley-terry-gauge-problem.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/christopher-bache-lsd-and-the-mind-of-the-universe.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/circumscription-without-circumstance.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/compassion-sensitivity-origins.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/cross-ratio.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/dia-ballein.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/dimensional-reframing-zero-infinity.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/division-pluralisms.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/ebm-resonance-metric.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/epi-logos-voice.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/fde-catuskoti.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/four-valued-logic.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/gebser-diaphaneity.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/godel-incompleteness.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/jung-pauli.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/mathematical-artistic-image-register.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/meister-eckhart-dialectical-apophaticism.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/mono-poly-planetary-intelligence.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/nicholas-of-cusa-learned-ignorance-sphere.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/nirvikalpa.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/pratyabhijna.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/prompt-thrownness.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/pros-hen-analogia.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/psychoid-number.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/quaternal-logic.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/riemann-sphere.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/russell-paradox-type-theory.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/samkalpa.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/sheffer-stroke.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/siva-sakti-object-triad.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/softmax-as-apoha.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/suddha-vikalpa.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/syn-ballein.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/trika-alignment-stack.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/trika.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/varela-calculus-self-reference.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/vikalpa.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/von-franz-number-and-time.md",
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/wittgenstein-limit-silence-forms-of-life.md"
+  ],
+  "out_of_body": {
+    "working/sources-texts-references": {
+      "count": 152,
+      "targets": {
+        "working/sources-texts-references/QL-Essay-Rewrite.md": 51,
+        "working/sources-texts-references/10-7-2026-core-theorems-pithy.md": 23,
+        "working/sources-texts-references/The Nothing That Is - Robert Kaplan.md": 14,
+        "working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md": 8,
+        "working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md": 5,
+        "working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md": 5,
+        "working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser.md": 4,
+        "working/sources-texts-references/Epi Paper Write-ups/source-extraction-core-theorems.md": 4
+      }
+    },
+    "the-return-of-zero-central-plan.md": {
+      "count": 79,
+      "targets": {
+        "the-return-of-zero-central-plan.md": 79
+      }
+    },
+    "working/antykathera-resources": {
+      "count": 48,
+      "targets": {
+        "working/antykathera-resources/Antikythera Agentworld Brief.md": 48
+      }
+    },
+    "working/final-argument-quilt-2026-08-23": {
+      "count": 44,
+      "targets": {
+        "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md": 12,
+        "working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md": 8,
+        "working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md": 7,
+        "working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md": 5,
+        "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md": 4,
+        "working/final-argument-quilt-2026-08-23/APHORISM-AND-PITHY-FORMULATION-LEDGER.md": 2,
+        "working/final-argument-quilt-2026-08-23/RELATIONAL-FORM-GROWTH-GRAMMAR.md": 2,
+        "working/final-argument-quilt-2026-08-23/NATIVE-020-DEEP-SEAM-RECONCILIATION.md": 2
+      }
+    },
+    "working/conjugate-field": {
+      "count": 20,
+      "targets": {
+        "working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md": 10,
+        "working/conjugate-field/PASS2-CHARTER.md": 6,
+        "working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md": 2,
+        "working/conjugate-field/FLIPSIDE-PACKAGE.md": 1,
+        "working/conjugate-field/CONCEPT-REHARMONISATION-PROPOSAL.md": 1
+      }
+    },
+    "submission-package/essay": {
+      "count": 8,
+      "targets": {
+        "submission-package/essay/symbolon/episteme/maps/navigation/MOC.md": 6,
+        "submission-package/essay/symbolon/episteme/maps/navigation/AUDIT.md": 2
+      }
+    },
+    "working/p2-enrichment": {
+      "count": 5,
+      "targets": {
+        "working/p2-enrichment/receipts/T22-current-migration-preservation-proof.md": 1,
+        "working/p2-enrichment/receipts/T21-dossier-oi-technical-responsibility-development.md": 1,
+        "working/p2-enrichment/receipts/T20-job-biblical-source-acquisition.md": 1,
+        "working/p2-enrichment/receipts/T20-valentinian-source-acquisition.md": 1,
+        "working/p2-enrichment/receipts/T20-mytheme-the-prisoner-development.md": 1
+      }
+    },
+    "submission-package/epi-logos": {
+      "count": 4,
+      "targets": {
+        "submission-package/epi-logos/resources/mef-12-lenses-sublens-reference.md": 2,
+        "submission-package/epi-logos/resources/canon/ql-musical-derivation-v3.md": 2
+      }
+    },
+    ".wayfinder/maps": {
+      "count": 3,
+      "targets": {
+        ".wayfinder/maps/t20-t21-world-registers.md": 3
+      }
+    },
+    "working/harmonisation-2026-08-18-objective-internality-capstone": {
+      "count": 1,
+      "targets": {
+        "working/harmonisation-2026-08-18-objective-internality-capstone/CANONICAL-FIELD-CENSUS-PASS-A.md": 1
+      }
+    }
+  },
+  "unresolved": {
+    "quilt": {
+      "../section-rooms/": 2,
+      "../section-rooms/arguments/": 1,
+      "<canonical surface>": 1
+    },
+    "episteme-concepts": {
+      "Mono-Poly Trust": 4,
+      "Return of Zero — Scholarly Source Bank Protocol": 1,
+      "Return of Zero Source Bank Index": 1,
+      "Source Consumption Matrix": 1,
+      "Legacy Reference-Node Deprecation Manifest": 1,
+      "journal/spanda-karikas-arguments-april-2026": 1
+    },
+    "episteme-conjugate": {
+      "bare wikilinks": 1
+    },
+    "episteme-sources": {
+      "Dreamcode": 1,
+      "Antykathera Essay Work": 1
+    }
+  },
+  "unnamed_samples": {
+    "rooms": [
+      "- **Begin at the beginning.** Read [The Question Before the Mechanism](section-rooms/00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md), th",
+      "The [48-movement path](symbolon/episteme/maps/return-of-zero-braided-traversal.md) keeps your place across all eight stations",
+      "The [manuscript](THE-RETURN-OF-ZERO.md) currently holds the section structure for the coming writing phase."
+    ],
+    "essay": [
+      "*[Section room](section-rooms/00-integral-threshold/ROOM.md)*",
+      "*[Section room](section-rooms/01-differentiating-mind/ROOM.md)*",
+      "*[Section room](section-rooms/02-return-of-zero/ROOM.md)*"
+    ],
+    "quilt": [
+      "| [[symbolon/episteme/etymologies/encounter-region-name-count/HISTORY|Encounter, Region, Countenance, and Count — The With-Field Becomes an Account]] | Living p",
+      "| [[symbolon/episteme/etymologies/apportionment-and-economy/HISTORY|Apportionment, Naming, Number, and Oikonomia]] | A whole becomes political through the way p",
+      "| [[symbolon/episteme/etymologies/homology-and-analogy/HISTORY|Homologia, Analogia, and the Discipline of Comparison]] | Cross-register likeness is disciplined "
+    ],
+    "movements": [
+      "Movement 01 of 48 · [This room](../ROOM.md) · [Reading entrance](../../../README.md) · [Next →](02-s01-p1-define-subject.md)",
+      "Movement 01 of 48 · [This room](../ROOM.md) · [Reading entrance](../../../README.md) · [Next →](02-s01-p1-define-subject.md)",
+      "Movement 01 of 48 · [This room](../ROOM.md) · [Reading entrance](../../../README.md) · [Next →](02-s01-p1-define-subject.md)"
+    ],
+    "argument-shelf": [
+      "**Historical carrier.** The developed successor is [A03](../../symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md)",
+      "[[The Advent of Zero, Subject, and Integral Logic]] carries this formal condition through its historical emergence: zero becomes a formal term without ceasing t",
+      "the fuller [[34-s4-p3-lacan-matheme-mytheme|crossed-zero sequence]] traces that mark from occlusion through visible mediation into contextual availability and r"
+    ],
+    "symbolon-root": [
+      "[A02, the copula](episteme/arguments/A02-Copula-Self-Identity-through-Difference.md), grounds the identity that survives this difference",
+      "[A27, Self and Other](episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md), qualifies the consequence",
+      "[A01, Faithful Definition](episteme/arguments/A01-Subject-God-and-Faithful-Definition.md), qualifies the distinction between #4 and #5"
+    ],
+    "episteme-root": [
+      "**Where you are:** [Reading root](../../README.md) › [#1 Symbolon](../README.md) › `#4` Episteme",
+      "**Where you are:** [Reading root](../../README.md) › [#1 Symbolon](../README.md) › `#4` Episteme",
+      "- [Arguments A01–A36](arguments/README.md) — the canonical semantic Argument identities"
+    ],
+    "episteme-aphorisms": [
+      "The result returns through [A03](../arguments/A03-Immutable-Gap-Formal-Limit.md) to C04/C05, and through [A23](../arguments/A23-Trust-Faith-and-the-Formal-Limit",
+      "The result returns through [A03](../arguments/A03-Immutable-Gap-Formal-Limit.md) to C04/C05, and through [A23](../arguments/A23-Trust-Faith-and-the-Formal-Limit"
+    ],
+    "episteme-arguments": [
+      "[Argument field](README.md) · [Other face: A01′ — Faithful Definition of the Agent](../conjugate/A01-prime-Faithful-Definition-of-the-Agent.md) · [Shared A/C ro",
+      "[Argument field](README.md) · [Other face: A01′ — Faithful Definition of the Agent](../conjugate/A01-prime-Faithful-Definition-of-the-Agent.md) · [Shared A/C ro",
+      "[Argument field](README.md) · [Other face: A01′ — Faithful Definition of the Agent](../conjugate/A01-prime-Faithful-Definition-of-the-Agent.md) · [Shared A/C ro"
+    ],
+    "episteme-atlas": [
+      "The [Mytheme geography](../../mytheme/atlas/geography/README.md) and [Mytheme temporality](../../mytheme/atlas/temporality/README.md) routes expose the correspo",
+      "The [Mytheme geography](../../mytheme/atlas/geography/README.md) and [Mytheme temporality](../../mytheme/atlas/temporality/README.md) routes expose the correspo",
+      "| [ancient philosophy](../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md) · [learning history](../histories/traditions-and-disciplines/a"
+    ],
+    "episteme-concepts": [
+      "[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-measure-dream): Buddhi’s determination, ahaṃkā",
+      "Taylor’s [cage and window](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#cage-window) **figure** the achieved form’s different uses",
+      "Q27 gives the political operation: [divide participants into actionable units](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count), co"
+    ],
+    "episteme-conjugate": [
+      "[Argument field](../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition](../arguments/A01-Subject-God-and-Faithful-Definition.md) · [",
+      "[Argument field](../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition](../arguments/A01-Subject-God-and-Faithful-Definition.md) · [",
+      "[Argument field](../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition](../arguments/A01-Subject-God-and-Faithful-Definition.md) · ["
+    ],
+    "episteme-dialogues": [
+      "Return to [Episteme](../README.md)."
+    ],
+    "episteme-dossiers": [
+      "Return to [Episteme](../README.md).",
+      "This completes the particular image retained by the [Bohm reference](../concepts/reference-notes/david-bohm-implicate-explicate-holomovement.md)",
+      "The [re-entry note](../concepts/reference-notes/re-entry.md) retains the authorial chain distinction → re-entry → oscillation → frequency → retention as **Argue"
+    ],
+    "episteme-etymologies": [
+      "- [Encounter, region, countenance, and count](encounter-region-name-count/HISTORY.md) — the primordial *with* differentiating into counter-facing, region, name,",
+      "- [Arbitration, Hybris, Regard, and Anamnesis](arbitration-hybris-regard-anamnesis/HISTORY.md) — the exemplar conjugate `6 / 6′` and generated `6+6′` field: Con",
+      "- [Fides, Topos, Logos, Nomos, Natio, Credere](trust-place-logos-nomos-natio-credere/HISTORY.md) — trust becoming emplacement, articulation, distribution/law, b"
+    ],
+    "episteme-figures": [
+      "Formal derivations belong in [Matheme diagrams](../../matheme/diagrams/README.md)",
+      "Composed imaginal arguments belong in [Mytheme plates](../../mytheme/plates/README.md).",
+      "Return to [Episteme](../README.md)."
+    ],
+    "episteme-histories": [
+      "**Where you are:** [Reading root](../../../README.md) › [#4 Episteme](../README.md) › Histories",
+      "**Where you are:** [Reading root](../../../README.md) › [#4 Episteme](../README.md) › Histories",
+      "The movement index then points into the [48 granular sections](../../../section-rooms/README.md) at the places where that history bears the essay's argument"
+    ],
+    "episteme-lenses": [
+      "Return to [Episteme](../README.md).",
+      "This constructed example brings the [Symbol / Account / Trust field](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) int",
+      "This example supplies a testable distinction for [A24's usurpation of measure](../arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md)"
+    ],
+    "episteme-maps": [
+      "**Where you are:** [Reading root](../../../README.md) › [#4 Episteme](../README.md) › Maps",
+      "**Where you are:** [Reading root](../../../README.md) › [#4 Episteme](../README.md) › Maps",
+      "| [Return of Zero — Braided Traversal](return-of-zero-braided-traversal.md) | The linear spine itself: all 48 movements in writing order, with the day spine and"
+    ],
+    "episteme-sources": [
+      "[Open section room](../../../section-rooms/00-integral-threshold/ROOM.md)",
+      "- [Bratton — Antikythera Agentworld Brief (2026)](media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md) — `bratton-2026-agentworld-brief`",
+      "- [Frank, Gleiser, and Thompson — The Blind Spot (2024)](history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE.md) — `frank-gleiser-"
+    ],
+    "matheme": [
+      "- [[symbolon/matheme/definition/README.md|Definition]] — the 0: what the matheme IS",
+      "- [[symbolon/matheme/process/README.md|Process]] — the /: what the matheme DOES",
+      "- [[symbolon/matheme/quilt/README.md|Quilt]] — the 1: what the matheme MEANS"
+    ],
+    "mytheme": [
+      "**Where you are:** [Reading root](../../README.md) › [#1 Symbolon](../README.md) › `#3` Mytheme",
+      "**Where you are:** [Reading root](../../README.md) › [#1 Symbolon](../README.md) › `#3` Mytheme",
+      "In the Vāk layering of the registers this is **madhyamā**: the formed visual and narrative operations built through the visionary logic that [Matheme](../mathem"
+    ]
+  },
+  "paths": [
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/mono-poly-two-ones.md",
+      "title": "Mono–Poly and the Two Ones — Transverse Thread",
+      "thread_id": "mono-poly-two-ones",
+      "thread_kind": "transverse",
+      "linked_movements": 16,
+      "declared_members": 20
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/return-of-zero-braided-traversal.md",
+      "title": "Return of Zero — Braided Traversal",
+      "thread_id": null,
+      "thread_kind": null,
+      "linked_movements": 48,
+      "declared_members": 0
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/trust-faith-formal-limit.md",
+      "title": "Trust, Faith, and the Formal Limit — Transverse Thread",
+      "thread_id": "trust-faith-formal-limit",
+      "thread_kind": "transverse",
+      "linked_movements": 8,
+      "declared_members": 11
+    },
+    {
+      "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",
+      "title": "The Advent of Zero, Subject, and Integral Logic — Transverse Thread",
+      "thread_id": "zero-subject-advent",
+      "thread_kind": "transverse",
+      "linked_movements": 12,
+      "declared_members": 17
+    }
+  ]
+}

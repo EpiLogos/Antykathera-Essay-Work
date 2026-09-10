@@ -1,5 +1,6 @@
 ---
 title: "§0/1 Reading Route — The Subject at the Formal Limit"
+source_id: 00-integral-threshold-reading
 page_type: room-reading-route
 reading_route_id: reading-s01-integral-threshold
 station: "§0/1"

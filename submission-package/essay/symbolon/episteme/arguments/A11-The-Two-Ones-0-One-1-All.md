@@ -1,9 +1,19 @@
 ---
+aliases:
+  - "The Two Ones — Mono–Poly Matheme"
+  - "Two Ones"
+  - "Mono–Poly Matheme"
+  - "0/1, One, and All"
+record_id: A11
 register: "episteme"
 claim_status: "Derived"
 source_relation: "Extracted native Two-Ones derivation; Argued from authorial corrections; external formal and historical neighbours retain separate warrants"
 ---
 # A11 — The Two Ones — 0 = One, 1 = All
+
+<!-- paired-field-navigation -->
+[Argument field](README.md) · [Other face: A11′ — One Field, Two Faces](../conjugate/A11-prime-One-Field-Two-Faces.md) · [Shared A/C root](../conjugate/AC.md)
+<!-- /paired-field-navigation -->
 
 **Standing:** canonical semantic Argument; historical Argument 13 and live `19-two-ones-mono-poly-matheme.md` remain provenance.
 
@@ -63,9 +73,9 @@ The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WH
 
 The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-wheels-wings) **figures** One and All through Taylor’s corrected wheel sequence `0/1 → 1/0 → (0/1)/(1/0)`. A first orientation meets its inverse and retains their recognised relation. The whole wheel bears that reversal without becoming an extra source outside its orientations.
 
-[Goethe’s complete lyric](submission-package/essay/symbolon/mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md#goethe-two-ones-return) **figures** the Two Ones through the changed observer, passing named wave and final gathering. The whole includes the perceiver’s bodily alteration; the source-office remains distinct from any unchanged personal substance. The poem returns that lived difference to the native derivation.
+[Goethe’s complete lyric](../../mytheme/worlds/german-literature/goethe-permanence-change/WHOLE.md#goethe-two-ones-return) **figures** the Two Ones through the changed observer, passing named wave and final gathering. The whole includes the perceiver’s bodily alteration; the source-office remains distinct from any unchanged personal substance. The poem returns that lived difference to the native derivation.
 
-Taylor's paper scene figures the distinction between the uncounted One and the manifest All: the entire written 0/1 can itself be received as a determination within its appearing field. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold). Head and tail receive their different offices through one life; their reciprocal relation retains the two Ones against the costume of exhaustive closure. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-position-opposition).
+Taylor's paper scene figures the distinction between the uncounted One and the manifest All: the entire written 0/1 can itself be received as a determination within its appearing field. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold). Head and tail receive their different offices through one life; their reciprocal relation retains the two Ones against the costume of exhaustive closure. This **returns-to** [the uroboros whole](../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-position-opposition).
 
 The achieved `1` returns to its condition with its determination intact. It remains real, exact and consequential while relinquishing the claim to generate all that makes it real. A12 follows this as Self-Identity becoming real Self-Difference; A13 follows the two logics; A18 carries the transverse determinations. This ordering prevents either logic from being made to generate the primordial offices upon which it already operates.
 

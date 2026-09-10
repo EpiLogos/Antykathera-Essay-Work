@@ -1,3 +1,7 @@
+---
+source_id: notes-chung-yuan-chang-tao-a-new-way-of-thinking-2014
+---
+
 - Page 83 - Nishida Quote - "Our true self is the basic substance of the universe, and if one knows the true self one indeed is not only linked with the good in mankind in general but oe melts with the basic substance of the universe and one is divinely united with the will of God. Both religion and morality are truly exhausted at this point. The law of knowing the true self and of uniting with God lies only in the force of the union of subject and object."
 - "The acquiring of this force is the utter killing of this false self, and by once dying to the desires of this world one is reborn."
 - "The great compassion, which is this universe itself." - Loving sensitivity to origins -> Creative, loving sensitivity to origins gone, to come and ever present. 

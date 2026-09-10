@@ -40,6 +40,8 @@ main_source_for:
 ---
 # Iakovou — On the Misuse of the Concept of Totalitarianism
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Essay use
 
 Iakovou supplies the necessary qualification to Desmet: mass-psychological formation cannot stand in for institutional and political analysis. The thread therefore holds the encounter between mass and elite together with the institutional structures through which power is organised.

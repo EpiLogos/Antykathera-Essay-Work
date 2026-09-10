@@ -1,5 +1,6 @@
 ---
 title: "§0/1 · #5→0 — The Return to Zero"
+source_id: 06-s01-p5-return-zero
 node_type: section
 page_type: section-movement
 station: "§0/1"
@@ -11,13 +12,17 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, sta
 ---
 # §0/1 · #5→0 — The Return to Zero
 
+<!-- reader-navigation -->
+Movement 06 of 48 · [This room](../ROOM.md) · [← Previous](05-s01-p4-gebser-diaphaneity.md) · [Next →](../../01-differentiating-mind/movements/07-s0-p0-awareness-bends-display.md)
+<!-- /reader-navigation -->
+
 ## Claim
 Zero first enters as a promissory meta-sign for the condition a system cannot count as one more object.
 
 ## Warrant
 The formal-limit sequence has established a recurrent remainder without yet claiming that mathematical zero, emptiness, consciousness, and subjectivity are identical.
 
-[[16-bohmian-enfoldment-dialogical-return|Bohm's implicate order]] supplies the process bridge into §0. The remainder becomes the enfolded whole active in each local unfolding, giving the zero-space a generative role that an inert blank could never perform. The next station will give this implicated whole its differentiating anatomy through the tattvas.
+[[symbolon/episteme/dossiers/bohm|Bohm's implicate order]] supplies the process bridge into §0. The remainder becomes the enfolded whole active in each local unfolding, giving the zero-space a generative role that an inert blank could never perform. The next station will give this implicated whole its differentiating anatomy through the tattvas.
 
 ## Tension / limit
 This is a positional proposal whose historical and mathematical warrants are deliberately deferred to §1. Its present force comes from the formal-limit derivation alone.

@@ -4,6 +4,7 @@ aliases:
   - "Śiva-Śakti-Object Triad"
   - "Kartṛ-Pole"
   - "Kārya"
+source_id: siva-sakti-object-triad
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

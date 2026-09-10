@@ -8,30 +8,20 @@ claim_status: Derived
 
 # Mytheme
 
-## Programme correction — 2026-09-08
+**Where you are:** [Reading root](../../README.md) › [#1 Symbolon](../README.md) › `#3` Mytheme
 
-T20/#21 develops ALL canonical whole Mythemes recovered from the quilt programmes, with a quilt-to-whole coverage ledger. Neumann supplies the top-level universal archetypal structuration of genesis/world parents and differentiation, including the full final-quilt torus/snake/trickster operation. `archetypal-ground/`, situated `worlds/`, and distinct geographical/temporal atlas classes retain their respective offices. The inherited page count and a Neumann batch do not bound recovery. Derive sixfold semantics locally from the raw chassis; the generic six-office gloss below is superseded. See the [original programme handoff](../../../../.wayfinder/maps/p2-enrichment-handoff.md) and its corrected implementation map.
-
-## Ratified architecture — 2026-09-08
-
-Geographical/cultural homes with a relational atlas are now the governing development direction: `worlds/` holds complete situated stories, scenes and works; each story family retains its temporal/local/syncretic `variants/`; `constellations/` gathers figures, motifs and peoples/polities from exact whole occurrences; `atlas/` follows geography, time, tradition, transmission and reception. Medium remains a way of browsing. Derive the local sixfold from the whole and its relations while preserving the source sequence.
-
-The recovered wholes now live in [situated worlds](worlds/README.md) and [shared archetypal ground](archetypal-ground/README.md). The [geographical](atlas/geography/README.md) and [temporal](atlas/temporality/README.md) atlas routes navigate the same bodies with distinct relations. Medium directories remain navigation and provenance surfaces. The Neumann/world-parent/uroboros development articulates the shared archetypal ground; primordial relation, separation, polarity and interplay must retain their full authored depth. Read the [binding plan amendment](../../../../the-return-of-zero-central-plan.md#amendment-2026-09-08--mytheme-and-episteme-as-open-world-registers) and [execution map](../../../../.wayfinder/maps/t20-t21-world-registers.md). The whole-first and human-amplification laws below remain active.
-
-Mytheme carries the forms in which a relation can be seen, heard, suffered, remembered and transformed. Myth, narrative, poetry, media, art and music belong here when their **whole form** performs a movement of the argument.
+Mytheme carries the forms in which a relation can be seen, heard, suffered, remembered and transformed. Myth, narrative, poetry, media, art and music belong here when their **whole form** performs a movement of the argument. In the Vāk layering of the registers this is **madhyamā**: the formed visual and narrative operations built through the visionary logic that [Matheme](../matheme/README.md) carries.
 
 The primary Mytheme carrier is therefore not a detachable character, object or symbol but the **whole relational image / story / scene / artwork** in which those elements act together. The Ares–Aphrodite–Hephaestus–Poseidon field is one whole before “Hephaestus” becomes a technē index; Apollo–Eros–Daphne–Peneus is one whole before “Daphne” becomes an alterity/tree index; Job's divine council, losses, friends, Wisdom, whirlwind and restoration remain one whole before Leviathan, Satan or Sophia are amplified separately.
 
-`[[working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS|Native 020 — Whole Mythemes and Deep Source Seams]]` owns the current whole-form recovery. `[[working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW|Mytheme Whole-Story Amplification Law]]` governs how characters, animals, plants, elements, objects, places and higher-order archetypal fields may subsequently be abstracted **from** recovered wholes and integrated **across** them.
+## Enter
 
-## Current whole-source exemplars
+- [Situated worlds](worlds/README.md) — twenty-three whole tellings in ten worlds, each with one home: Hellenic, Roman Latin, biblical, late-antique Gnostic, Chinese Huayan, analytical psychology, Francophone anticolonial, German literature, British television, and Frank Taylor's authored world.
+- [Shared archetypal ground](archetypal-ground/README.md) — Neumann's genesis and world-parent articulation, and the uroboros, circulation and trickster whole with its toroidal opening and return.
+- [Atlas](atlas/README.md) — the same wholes reached by [geography](atlas/geography/README.md) and by [temporality](atlas/temporality/README.md), with distinct relations exposed on each route.
+- Four worked exemplars in different authorial states: [Attica — Athena, Poseidon, Cecrops](worlds/hellenic/attica-athena-poseidon-cecrops/WHOLE.md) (relation-local human amplification supplied by Frank), [The Hypostasis of the Archons](worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md) and [Fanon — Language, Gaze, Mask, Recognition](worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE.md) (system-visible comparisons still marked `human-amplified: no`), and [Jung's Aion](worlds/analytical-psychology/jung-aion-fishes-christ-antichrist-alchemy/WHOLE.md) (an interpretive-symbolic history kept whole before Pisces, Christ, Antichrist, fish, alchemy or aeon become indexes).
 
-- `[[submission-package/essay/symbolon/mytheme/worlds/hellenic/attica-athena-poseidon-cecrops/WHOLE|Attica — Athena, Poseidon, Cecrops, Olive, Sea, Verdict, and the Remembered Counter-Claim]]` — first fully worked whole-record exemplar with relation-local human amplification.
-- `[[submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE|The Hypostasis of the Archons — Sophia, Veil, Rulers, Adam, Norea, Eleleth, and the Root Above]]` — source-first cosmological whole resolving Native 020's layered-cosmos / archons seam while modern symbolic comparisons remain `human-amplified: no`.
-- `[[submission-package/essay/symbolon/mytheme/worlds/analytical-psychology/jung-aion-fishes-christ-antichrist-alchemy/WHOLE|Jung's Aion — Self, Christ/Antichrist, Fishes, Alchemy, and the Historical Shadow]]` — interpretive-symbolic history kept whole before Pisces, Christ, Antichrist, fish, alchemy or aeon become indexes.
-- `[[submission-package/essay/symbolon/mytheme/worlds/francophone-anticolonial/fanon-language-gaze-mask-recognition/WHOLE|Fanon — Language, White Gaze, Racialised Body, Mask, and Recognition]]` — source-bearing racial-colonial whole preventing mask/chameleon/persona from becoming a generic identity metaphor.
-
-These exemplars deliberately show different authorial states. Attica already contains `human-amplified: yes` relations supplied by Frank. The Hypostasis and Fanon records currently preserve system-visible comparisons as `human-amplified: no`. Source recovery and symbolic ratification remain distinct operations.
+Source recovery and symbolic ratification remain distinct operations; a whole can be fully sourced while its interpretations wait for human encounter.
 
 ## Whole first, amplification outward
 
@@ -56,7 +46,7 @@ return to every whole from which the abstraction was drawn
 
 This prevents a symbolic lexicon from becoming a substitute for encounter with the image. “Poseidon,” “serpent,” “tree,” “water,” “king,” “mother,” “child,” “sun,” “shadow,” “archon,” “mask,” or “aeon” may become powerful cross-Mytheme carriers, but none receives a fixed meaning in advance. Its operative range is earned by comparing the different offices it actually performs inside intact wholes.
 
-An archetypal index is consequently **derivative but generative**. It can reveal an invariant or recurrent relation across variations only because the variations remain recoverable. The figure does not explain the stories; the stories progressively disclose the figure.
+An archetypal index is consequently **derivative but generative**. It can reveal an invariant or recurrent relation across variations only because the variations remain recoverable. The figure does not explain the stories; the stories progressively disclose the figure. A `constellations/` layer for figures, motifs and peoples gathered from exact whole occurrences is the ratified next surface; it is not yet instituted, and no index precedes the wholes it would be drawn from.
 
 ## Human amplification
 
@@ -73,19 +63,21 @@ This is not a source-truth flag. Factual/source recovery continues to use its or
 
 This lets the system do serious Jungian amplification without pretending that technical plausibility substitutes for the human symbolic encounter at the centre of the project. A whole record may therefore contain fully sourced narrative material, several ratified interpretations, and a clearly bounded queue of still-unratified symbolic possibilities.
 
-## Current medium homes — migrate under the ratified architecture
+## Browse by medium
 
-- [[myth/README|Myth]] — inherited whole stories and scenes, followed through their actors, actions, transformations, settings and aftermath before component abstraction.
-- [[narrative/README|Narrative]] — authored and cultural sequences whose unfolding carries an argument.
-- [[poetry/README|Poetry]] — Frank's poems and other admitted poetic works, with exact text and provenance.
-- [[media/README|Media]] — film, television, digital culture and narrative media examined at the level of whole scene/work and sequence.
-- [[art/README|Art]] — visual and plastic works whose composition, material or iconography performs a relation as a whole.
-- [[music/README|Music]] — rhythm, interval, tension, resolution and return as audible experience.
-- [[plates/README|Plates]] — composed visual arguments that gather image, caption, source and essay placement.
+Medium is a way of browsing the same wholes, never a second home for them. Each facet keeps its own provenance notes:
+
+- [Myth](myth/README.md) — inherited whole stories and scenes, followed through their actors, actions, transformations, settings and aftermath before component abstraction.
+- [Narrative](narrative/README.md) — authored and cultural sequences whose unfolding carries an argument.
+- [Poetry](poetry/README.md) — Frank's poems and other admitted poetic works, with exact text and provenance.
+- [Media](media/README.md) — film, television, digital culture and narrative media examined at the level of whole scene/work and sequence.
+- [Art](art/README.md) — visual and plastic works whose composition, material or iconography performs a relation as a whole.
+- [Music](music/README.md) — rhythm, interval, tension, resolution and return as audible experience.
+- [Plates](plates/README.md) — composed visual arguments that gather image, caption, source and essay placement.
 
 ## Record forms
 
-The register can eventually contain several linked record types while retaining one direction of derivation:
+The register contains several linked record types while retaining one direction of derivation:
 
 1. **Whole Mytheme record** — primary carrier: tells the source work/story/scene sufficiently fully that every active relation and transformation remains available; carries the relation-local human-amplification ledger for project interpretations.
 2. **Story-internal element index** — character, object, animal, plant, element, place, number, gesture or motif as it acts **inside one named whole**.
@@ -95,7 +87,7 @@ The register can eventually contain several linked record types while retaining 
 
 The latter four never replace the first. Every abstraction carries reverse links to the exact whole-story moments from which it was earned, and every interpretive edge retains `human-amplified: yes/no`.
 
-A Whole Mytheme record identifies the work or source tradition, preserves the actors and relations materially required by its movement, follows the sequence and transformations far enough for the ending/aftermath to qualify the beginning, and states whether the whole figures, embodies, presages, inverts, occludes, gathers or returns a relation. It names the precise essay blocks it serves and the limit of the inference carried from image to argument.
+A Whole Mytheme record identifies the work or source tradition, preserves the actors and relations materially required by its movement, follows the sequence and transformations far enough for the ending/aftermath to qualify the beginning, and states whether the whole figures, embodies, presages, inverts, occludes, gathers or returns a relation. It names the precise essay blocks it serves and the limit of the inference carried from image to argument. Its sixfold is derived locally from the whole and its relations while preserving the source sequence; the six positions carry no universal gloss.
 
 Variant traditions remain whole in their own right. Where the project composes them, the composition is an authored cross-source relation rather than a synthetic pseudo-original myth.
 
@@ -103,4 +95,8 @@ Frank's poems and first-person writings retain their wording, order and voice. E
 
 ## Cross-register routes
 
-The formal structure made perceptible by a mytheme opens into [[../matheme/README|Matheme]]. Its textual history, attribution and scholarly dispute open into [[../episteme/README|Episteme]]. Character/motif/archetype abstractions remain Mytheme indexes when they gather images; their conceptual definitions belong to Episteme only when the project deliberately institutes one. The operation that holds image and formal relation together returns to [[../README|Symbolon]].
+The formal structure made perceptible by a mytheme opens into [Matheme](../matheme/README.md). Its textual history, attribution and scholarly dispute open into [Episteme](../episteme/README.md); the [Episteme atlas](../episteme/atlas/README.md) shares situated identities with the Mytheme atlas. Character/motif/archetype abstractions remain Mytheme indexes when they gather images; their conceptual definitions belong to Episteme only when the project deliberately institutes one. The operation that holds image and formal relation together returns to [Symbolon](../README.md).
+
+## Standing
+
+The whole-first and human-amplification laws above are active. Their governing bodies are `[[working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS|Native 020 — Whole Mythemes and Deep Source Seams]]`, which owns whole-form recovery, and `[[working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW|Mytheme Whole-Story Amplification Law]]`, which governs how characters, animals, plants, elements, objects, places and higher-order archetypal fields may be abstracted **from** recovered wholes and integrated **across** them. The worlds/atlas architecture is bound by the [central plan amendment of 2026-09-08](../../../../the-return-of-zero-central-plan.md#amendment-2026-09-08--mytheme-and-episteme-as-open-world-registers) and executed through the [T20–T21 world-register map](../../../../.wayfinder/maps/t20-t21-world-registers.md), subordinate to the plan. Neumann supplies shared archetypal structuration; geography and temporality are separate organising classes; no inherited page count bounds recovery.

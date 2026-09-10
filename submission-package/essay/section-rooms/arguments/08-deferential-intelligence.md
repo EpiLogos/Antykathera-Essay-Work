@@ -2,6 +2,7 @@
 title: "Deferential Intelligence"
 aliases:
   - "Deferential Intelligence"
+source_id: 08-deferential-intelligence
 node_type: "claim"
 page_type: "argument-map"
 argument_level: "application"
@@ -28,8 +29,12 @@ tags:
   - argument-map/live
   - argument-map/praxis
   - argument-map/claim
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Deferential Intelligence
+
+**Historical carrier.** The developed successor is [A31](../../symbolon/episteme/arguments/A31-Deferential-Intelligence.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claim
 

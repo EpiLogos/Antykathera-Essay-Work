@@ -78,7 +78,7 @@ Exact text and consumer mappings: [Quotes — MacCracken Recognizing Recognition
 - **Source relation:** extracted.
 - **Evidential action:** contextualises.
 - **Argument function:** historical/contextual distinction.
-- **Consumers:** [[09-s0-p2-vikalpa-samkalpa]]; [[Prakāśa-Vimarśa]]; [[Tattvic Differential Field]]; movement 9 historical differentiation of Buddhist and Śaiva positions.
+- **Consumers:** [[09-s0-p2-vikalpa-samkalpa]]; [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]]; [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]]; movement 9 historical differentiation of Buddhist and Śaiva positions.
 - **Use boundary:** states MacCracken’s framing of Dharmakīrti’s relation theory; it does not itself define *saṃkalpa*, establish an identity of traditions, or warrant an AI analogy.
 
 <a id="maccracken-2017-recognizing-recognition-q002"></a>
@@ -92,12 +92,12 @@ Exact text and consumer mappings: [Quotes — MacCracken Recognizing Recognition
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** counterposition.
-- **Consumers:** [[09-s0-p2-vikalpa-samkalpa]]; [[Prakāśa-Vimarśa]]; [[Tattvic Differential Field]]; movement 9 no-conflation control.
+- **Consumers:** [[09-s0-p2-vikalpa-samkalpa]]; [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]]; [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]]; movement 9 no-conflation control.
 - **Use boundary:** records a philosophical dispute about the status of relations; it does not prove the essay’s constructive-world model or settle the status of all *vikalpa* traditions.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `maccracken-2017-recognizing-recognition-q001` | `maccracken-2017-recognizing-recognition` | p. 1 | quotation-ready | `09-s0-p2-vikalpa-samkalpa` | [[Prakāśa-Vimarśa]]; [[Tattvic Differential Field]] | historical/contextual distinction | [Quotes — MacCracken Recognizing Recognition (2017)](#passages) |
+| `maccracken-2017-recognizing-recognition-q001` | `maccracken-2017-recognizing-recognition` | p. 1 | quotation-ready | `09-s0-p2-vikalpa-samkalpa` | [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]]; [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]] | historical/contextual distinction | [Quotes — MacCracken Recognizing Recognition (2017)](#passages) |
 
-| `maccracken-2017-recognizing-recognition-q002` | `maccracken-2017-recognizing-recognition` | pp. 1–2 | quotation-ready | `09-s0-p2-vikalpa-samkalpa` | [[Prakāśa-Vimarśa]]; [[Tattvic Differential Field]] | qualification | [Quotes — MacCracken Recognizing Recognition (2017)](#passages) |
+| `maccracken-2017-recognizing-recognition-q002` | `maccracken-2017-recognizing-recognition` | pp. 1–2 | quotation-ready | `09-s0-p2-vikalpa-samkalpa` | [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]]; [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]] | qualification | [Quotes — MacCracken Recognizing Recognition (2017)](#passages) |

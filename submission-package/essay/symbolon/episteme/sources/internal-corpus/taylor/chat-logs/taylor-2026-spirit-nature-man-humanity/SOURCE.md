@@ -24,6 +24,8 @@ tags:
 ---
 # Spirit, Nature, and Man's Self-Measure
 
+[Source index](../../../../README.md) · [Reading entrance](../../../../../../../README.md) · [48 movements](../../../../../../../section-rooms/README.md)
+
 ## Provenance identity
 
 Raw conversation of 8 July 2026 between Frank and an unnamed AI assistant, opened from a Bristol conversation on activism, the loss of spirit, puruṣa and prakṛti, Neumann's development of consciousness, and Heidegger's Ge-stell — carried toward the cut that differentiates consciousness from nature and the question of whether it remembers itself as relation.

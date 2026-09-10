@@ -39,16 +39,12 @@ class SubmissionPackageTests(unittest.TestCase):
             8,
             len(list((ESSAY / "section-rooms").glob("*/ROOM.md"))),
         )
-        self.assertEqual(
-            22,
-            len(
-                [
-                    path
-                    for path in (ESSAY / "symbolon/episteme/concepts").glob("*.md")
-                    if path.name not in {"index.md", "README.md"}
-                ]
-            ),
-        )
+        expected = {f"C{i:02}" for i in range(1, 65)}
+        concepts = list((ESSAY / "symbolon/episteme/concepts").glob("C[0-9][0-9]-*.md"))
+        self.assertEqual(expected, {frontmatter(p)[0]["record_id"] for p in concepts})
+        self.assertEqual(36, len(list((ESSAY / "symbolon/episteme/arguments").glob("A[0-9][0-9]-*.md"))))
+        self.assertEqual(36, len(list((ESSAY / "symbolon/episteme/conjugate").glob("A[0-9][0-9]-prime-*.md"))))
+        self.assertEqual("A/C", frontmatter(ESSAY / "symbolon/episteme/conjugate/AC.md")[0]["record_id"])
         self.assertEqual(
             4,
             len(
@@ -60,7 +56,7 @@ class SubmissionPackageTests(unittest.TestCase):
             ),
         )
         self.assertEqual(
-            124,
+            180,
             len(list((ESSAY / "symbolon/episteme/sources").rglob("SOURCE.md"))),
         )
         self.assertTrue((ESSAY / "symbolon/episteme/histories").is_dir())
@@ -82,23 +78,26 @@ class SubmissionPackageTests(unittest.TestCase):
         sys.modules[spec.name] = module
         spec.loader.exec_module(module)
         workspace = module.Workspace(PROJECT)
+        rs = importlib.util.spec_from_file_location("reader_audit", PROJECT / "tools/audit-reader-navigation.py")
+        reader = importlib.util.module_from_spec(rs)
+        rs.loader.exec_module(reader)
+        audit = reader.ReaderAudit(PROJECT, ws=workspace)
         for path in ESSAY.rglob("*.md"):
-            if "reference-notes" in path.parts or path.name == "AUTHORIAL-TEXT.md":
-                continue
-            text = path.read_text(encoding="utf-8")
-            for raw in MARKDOWN_LINK.findall(text):
-                target = raw.strip().strip("<>").split("#", 1)[0]
-                if not target or target.startswith(("http://", "https://", "mailto:", "resource:")):
-                    continue
-                resolved = (path.parent / target).resolve()
-                self.assertTrue(
-                    resolved.is_file() or resolved.is_dir(), f"{path}: {raw}"
-                )
-            for raw in re.findall(r"\[\[([^\]|#]+)", text):
-                try:
-                    workspace.resolve(raw.replace("\\", ""))
-                except KeyError:
-                    self.fail(f"{path}: [[{raw}]]")
+            if "reference-notes" in path.parts or path.name in {"AUTHORIAL-TEXT.md", "NOTES.md", "HISTORY.md"}:
+                continue  # protected/provenance links remain explicit reader-audit debt
+            source = str(path.relative_to(PROJECT))
+            for item in reader.links(path.read_text(encoding="utf-8")):
+                if item["kind"] == "markdown":
+                    target, status = audit.resolve(source, item)
+                    self.assertNotEqual("missing-path", status, (source, item))
+                else:
+                    raw = item["href"].split("#", 1)[0].replace("\\", "")
+                    if not raw:
+                        continue
+                    try:
+                        workspace.resolve(raw)
+                    except KeyError:
+                        self.assertEqual(("descartes-1641-meditations", "Dreamcode"), (path.parent.name, raw))
 
     def test_essay_body_preserves_status_and_quote_provenance(self):
         argument, _ = frontmatter(

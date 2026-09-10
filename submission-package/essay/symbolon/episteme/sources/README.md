@@ -1,5 +1,6 @@
 ---
 title: "Return of Zero Source Bank"
+source_id: sources-readme
 page_type: source-bank-protocol
 status: governing
 record_type: register-domain
@@ -53,9 +54,9 @@ The source deepens and tests the essay's operation; it does not grant the essay 
 
 ## Working route
 
-1. Put an unresolved lead in `source-intake-queue.md` or the research inbox.
+1. Put an unresolved lead in [`source-intake-queue.md`](source-intake-queue.md) or the [research inbox](research-intake-inbox.md).
 2. Identify the exact recoverable object and edition.
-3. Decide the work's `primary_domain` and author, then create `sources/<primary_domain>/<author>/<source_id>/SOURCE.md` from `sources/SOURCE-TEMPLATE.md`.
+3. Decide the work's `primary_domain` and author, then create `sources/<primary_domain>/<author>/<source_id>/SOURCE.md` from [`sources/SOURCE-TEMPLATE.md`](SOURCE-TEMPLATE.md).
 4. Add bibliography, scholarship, passages, provenance, and consumers directly to that file.
 5. Rebuild `MAIN-SOURCES.md`, `SOURCE-INDEX.md`, and `PASSAGE-LEDGER.md` with `python3 tools/build-source-projections.py --project-root .`.
 6. Run the projection check and workspace doctor.

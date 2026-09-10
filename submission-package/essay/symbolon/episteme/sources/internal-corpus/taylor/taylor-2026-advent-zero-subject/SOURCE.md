@@ -52,13 +52,13 @@ It safeguards three distinctions: `X/x` is authorial QL notation before its psyc
 
 ## Evidence braid
 
-- [[Kaplan — The Nothing That Is (2000 OUP printing)]] supplies the narrative history of zero's changing mathematical offices.
-- [[Colebrooke — Brahmagupta and Bhāskara (1817)]] and [[Dutta — Zero-Divided Numbers in Indian Mathematics (2023)]] control the operations of *śūnya* and zero-denominator work.
-- [[Gebser — The Ever-Present Origin (1985)]] supplies the consciousness-historical and perspectival movement.
-- [[Freud — “The Unconscious” (1915; Strachey trans. 1957)]] supplies psychoanalysis's disciplinary admission of unconscious processes.
-- [[Jung — Psychology and Religion: West and East, CW 11 (1969)]] supplies the distinct religious-psychological register; [[Jung — Aion, CW 9.2 (1978 corrected printing)]] remains the Self and symbolic-totality source.
-- [[Neumann — The Origins and History of Consciousness (1954)]] supplies the post-Jungian consciousness-history bridge.
-- [[Bratton — Antikythera Agentworld Brief (2026)]] supplies the technical threshold in which context becomes explicit infrastructure.
+- [[symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE|Kaplan — The Nothing That Is (2000 OUP printing)]] supplies the narrative history of zero's changing mathematical offices.
+- [[symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE|Colebrooke — Brahmagupta and Bhāskara (1817)]] and [[symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE|Dutta — Zero-Divided Numbers in Indian Mathematics (2023)]] control the operations of *śūnya* and zero-denominator work.
+- [[symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE|Gebser — The Ever-Present Origin (1985)]] supplies the consciousness-historical and perspectival movement.
+- [[symbolon/episteme/sources/psychology/freud/freud-1915-unconscious-standard-edition/SOURCE|Freud — “The Unconscious” (1915; Strachey trans. 1957)]] supplies psychoanalysis's disciplinary admission of unconscious processes.
+- [[symbolon/episteme/sources/psychology/jung/jung-1969-psychology-religion-cw11/SOURCE|Jung — Psychology and Religion: West and East, CW 11 (1969)]] supplies the distinct religious-psychological register; [[symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE|Jung — Aion, CW 9.2 (1978 corrected printing)]] remains the Self and symbolic-totality source.
+- [[symbolon/episteme/sources/psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE|Neumann — The Origins and History of Consciousness (1954)]] supplies the post-Jungian consciousness-history bridge.
+- [[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Bratton — Antikythera Agentworld Brief (2026)]] supplies the technical threshold in which context becomes explicit infrastructure.
 
 The three new psychological-history records are citation-ready at bibliographic and high-level historical level. Their passage ledgers remain open; no source-specific wording is admitted until a lawful selected carrier is recovered.
 

@@ -45,6 +45,8 @@ passage_surface: '#passages'
 
 # Irenaeus — Against Heresies Book I
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Identity, admission and edition
 
 This is ancient **hostile testimony about Valentinian teachings**, translated by Alexander Roberts and William Rambaut in *Ante-Nicene Fathers*, volume 1 (1885). Irenaeus is the author; the reported teachers are not coauthors. The selected digital witness is CCEL's transcription of that public-domain translation. Its catalogue placement under Schaff does not make Schaff the author or translator. Roberts, Donaldson and Coxe are credited as edition editors.

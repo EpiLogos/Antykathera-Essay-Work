@@ -80,7 +80,7 @@ The NeurIPS proceedings page identifies the conference version and author list. 
 ## Consumption
 
 - **Stations:** §5.
-- **Arguments:** [[Artificial Hybrid Intelligence as Reflective Field]]; [[Computational Process Ontology]].
+- **Arguments:** [[symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence as Reflective Field]]; [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]].
 - **Exact claims:** attention-based sequence modelling; technical mechanism must precede metaphor in the account of LLM operations.
 
 ## Quote and excerpt ledger
@@ -124,7 +124,7 @@ This record is quotation-ready for the two passages listed above. Its licensed s
 - **Source relation:** extracted primary technical formulation.
 - **Evidential action:** supports.
 - **Argument function:** attention-based architecture baseline.
-- **Consumers:** [[37-s5-p0-math-moves-meaning]]; [[Computational Process Ontology]].
+- **Consumers:** [[37-s5-p0-math-moves-meaning]]; [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]].
 - **Use boundary:** establishes the Transformer architecture only; it does not establish tool use, lived meaning, an external action field, QL, or a phenomenal subject.
 
 <a id="vaswani-et-al-2017-attention-q002"></a>
@@ -138,7 +138,7 @@ This record is quotation-ready for the two passages listed above. Its licensed s
 - **Source relation:** extracted primary technical formulation.
 - **Evidential action:** supports.
 - **Argument function:** attention normalisation mechanism.
-- **Consumers:** [[38-s5-p1-apoha-softmax]]; [[Computational Process Ontology]].
+- **Consumers:** [[38-s5-p1-apoha-softmax]]; [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]].
 - **Use boundary:** establishes a specific attention weighting mechanism; it does not establish argmax, a deployed decoding policy, apoha, or QL.
 
 <a id="vaswani-et-al-2017-attention-q003"></a>
@@ -152,7 +152,7 @@ This record is quotation-ready for the two passages listed above. Its licensed s
 - **Source relation:** extracted primary technical formulation.
 - **Evidential action:** qualifies.
 - **Argument function:** empirical-scope limitation.
-- **Consumers:** [[37-s5-p0-math-moves-meaning]]; [[Immutable Gap and Meta-Sign]]; [[Paradox as Cross-Register Hinge]].
+- **Consumers:** [[37-s5-p0-math-moves-meaning]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]].
 - **Use boundary:** reports experiments on two machine-translation tasks; it does not establish general LLM tool use, operational meaning, or agent subjectivity.
 
 <a id="vaswani-et-al-2017-attention-q004"></a>
@@ -166,7 +166,7 @@ This record is quotation-ready for the two passages listed above. Its licensed s
 - **Source relation:** extracted primary technical formulation.
 - **Evidential action:** qualifies.
 - **Argument function:** numerical scope limitation.
-- **Consumers:** [[38-s5-p1-apoha-softmax]]; [[Immutable Gap and Meta-Sign]]; [[Paradox as Cross-Register Hinge]].
+- **Consumers:** [[38-s5-p1-apoha-softmax]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]].
 - **Use boundary:** limits a particular attention calculation; it does not license a semantic, soteriological, or ontological conclusion about softmax.
 ### Source intake
 
@@ -196,7 +196,7 @@ The official NeurIPS proceedings PDF is the fixed text carrier. These excerpts s
 | Verification date | 2026-07-14 |
 | Quote status | quotation-ready |
 | Intended station | §5/#0 |
-| Consuming argument | [[Computational Process Ontology]] |
+| Consuming argument | [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] |
 | Exact claim supported | Transformer architecture is proposed as attention-only and omits recurrence and convolution. |
 | Public-use decision | quote or paraphrase |
 
@@ -233,7 +233,7 @@ Ashish Vaswani et al., “Attention Is All You Need,” in *Advances in Neural I
 | Verification date | 2026-07-14 |
 | Quote status | quotation-ready |
 | Intended station | §5/#1 |
-| Consuming argument | [[Computational Process Ontology]] |
+| Consuming argument | [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] |
 | Exact claim supported | Scaled dot-product attention produces value weights through softmax over query-key relations. |
 | Public-use decision | quote or paraphrase |
 
@@ -254,21 +254,21 @@ Vaswani et al., “Attention Is All You Need,” 6001.
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `vaswani-et-al-2017-attention-q001` | `vaswani-et-al-2017-attention` | NeurIPS PDF p. 1; proceedings p. 5998; Abstract | quotation-ready | official NeurIPS PDF checked 2026-07-14: “based solely on attention mechanisms, dispensing with recurrence and convolutions entirely” | attention-only architecture baseline | §5/#0 | [[Computational Process Ontology]] | yes |
+| `vaswani-et-al-2017-attention-q001` | `vaswani-et-al-2017-attention` | NeurIPS PDF p. 1; proceedings p. 5998; Abstract | quotation-ready | official NeurIPS PDF checked 2026-07-14: “based solely on attention mechanisms, dispensing with recurrence and convolutions entirely” | attention-only architecture baseline | §5/#0 | [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] | yes |
 
-| `vaswani-et-al-2017-attention-q002` | `vaswani-et-al-2017-attention` | NeurIPS PDF p. 4; proceedings p. 6001; §3.2.1 | quotation-ready | official NeurIPS PDF checked 2026-07-14: “apply a softmax function to obtain the weights on the values” | softmax attention normalisation mechanism | §5/#1 | [[Computational Process Ontology]] | yes |
+| `vaswani-et-al-2017-attention-q002` | `vaswani-et-al-2017-attention` | NeurIPS PDF p. 4; proceedings p. 6001; §3.2.1 | quotation-ready | official NeurIPS PDF checked 2026-07-14: “apply a softmax function to obtain the weights on the values” | softmax attention normalisation mechanism | §5/#1 | [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] | yes |
 
-| `vaswani-et-al-2017-attention-q003` | `vaswani-et-al-2017-attention` | NeurIPS PDF p. 1; proceedings p. 5998; Abstract | quotation-ready | official NeurIPS PDF checked 2026-07-14: “superior in quality while being more parallelizable” | machine-translation-only empirical scope limitation | §5/#0 | [[Immutable Gap and Meta-Sign]] | yes |
+| `vaswani-et-al-2017-attention-q003` | `vaswani-et-al-2017-attention` | NeurIPS PDF p. 1; proceedings p. 5998; Abstract | quotation-ready | official NeurIPS PDF checked 2026-07-14: “superior in quality while being more parallelizable” | machine-translation-only empirical scope limitation | §5/#0 | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | yes |
 
-| `vaswani-et-al-2017-attention-q004` | `vaswani-et-al-2017-attention` | NeurIPS PDF p. 4; proceedings p. 6001; §3.2.1 | quotation-ready | official NeurIPS PDF checked 2026-07-14: “pushing the softmax function into regions where it has extremely small gradients” | numerical scaling limitation of dot-product attention | §5/#1 | [[Immutable Gap and Meta-Sign]] | yes |
+| `vaswani-et-al-2017-attention-q004` | `vaswani-et-al-2017-attention` | NeurIPS PDF p. 4; proceedings p. 6001; §3.2.1 | quotation-ready | official NeurIPS PDF checked 2026-07-14: “pushing the softmax function into regions where it has extremely small gradients” | numerical scaling limitation of dot-product attention | §5/#1 | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | yes |
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `vaswani-et-al-2017-attention-q001` | `vaswani-et-al-2017-attention` | official NeurIPS PDF p. 1; proceedings p. 5998, Abstract | quotation-ready | `37-s5-p0-math-moves-meaning` | [[Computational Process Ontology]] | attention-only architecture baseline | [Quotes — Vaswani et al. Attention Is All You Need (2017)](#passages) |
+| `vaswani-et-al-2017-attention-q001` | `vaswani-et-al-2017-attention` | official NeurIPS PDF p. 1; proceedings p. 5998, Abstract | quotation-ready | `37-s5-p0-math-moves-meaning` | [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] | attention-only architecture baseline | [Quotes — Vaswani et al. Attention Is All You Need (2017)](#passages) |
 
-| `vaswani-et-al-2017-attention-q002` | `vaswani-et-al-2017-attention` | official NeurIPS PDF p. 4; proceedings p. 6001, §3.2.1 | quotation-ready | `38-s5-p1-apoha-softmax` | [[Computational Process Ontology]] | scaled softmax attention weights | [Quotes — Vaswani et al. Attention Is All You Need (2017)](#passages) |
+| `vaswani-et-al-2017-attention-q002` | `vaswani-et-al-2017-attention` | official NeurIPS PDF p. 4; proceedings p. 6001, §3.2.1 | quotation-ready | `38-s5-p1-apoha-softmax` | [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] | scaled softmax attention weights | [Quotes — Vaswani et al. Attention Is All You Need (2017)](#passages) |
 
-| `vaswani-et-al-2017-attention-q003` | `vaswani-et-al-2017-attention` | official NeurIPS PDF p. 1; proceedings p. 5998, Abstract | quotation-ready | `37-s5-p0-math-moves-meaning` | [[Immutable Gap and Meta-Sign]]; [[Paradox as Cross-Register Hinge]] | empirical-scope limitation | [Quotes — Vaswani et al. Attention Is All You Need (2017)](#passages) |
+| `vaswani-et-al-2017-attention-q003` | `vaswani-et-al-2017-attention` | official NeurIPS PDF p. 1; proceedings p. 5998, Abstract | quotation-ready | `37-s5-p0-math-moves-meaning` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | empirical-scope limitation | [Quotes — Vaswani et al. Attention Is All You Need (2017)](#passages) |
 
-| `vaswani-et-al-2017-attention-q004` | `vaswani-et-al-2017-attention` | official NeurIPS PDF p. 4; proceedings p. 6001, §3.2.1 | quotation-ready | `38-s5-p1-apoha-softmax` | [[Immutable Gap and Meta-Sign]]; [[Paradox as Cross-Register Hinge]] | numerical-scope limitation | [Quotes — Vaswani et al. Attention Is All You Need (2017)](#passages) |
+| `vaswani-et-al-2017-attention-q004` | `vaswani-et-al-2017-attention` | official NeurIPS PDF p. 4; proceedings p. 6001, §3.2.1 | quotation-ready | `38-s5-p1-apoha-softmax` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | numerical-scope limitation | [Quotes — Vaswani et al. Attention Is All You Need (2017)](#passages) |

@@ -2,6 +2,7 @@
 title: "Surface Classification 4g+2g"
 aliases:
   - "Surface Classification 4g+2g"
+source_id: surface-classification-4g-2g
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

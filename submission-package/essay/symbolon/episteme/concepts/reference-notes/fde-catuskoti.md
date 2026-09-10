@@ -2,6 +2,7 @@
 title: "FDE Catuṣkoṭi"
 aliases:
   - "FDE Catuṣkoṭi"
+source_id: fde-catuskoti
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

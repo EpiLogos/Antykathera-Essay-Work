@@ -24,6 +24,8 @@ tags:
 ---
 # Pax Machina and the Body Without Organs
 
+[Source index](../../../../README.md) · [Reading entrance](../../../../../../../README.md) · [48 movements](../../../../../../../section-rooms/README.md)
+
 ## Provenance identity
 
 Raw conversation of 8 July 2026 between Frank and Gemini on Deleuze and Guattari's body without organs, its relation to AI and agentic harnesses, and the clarification of what the notion is and is not.

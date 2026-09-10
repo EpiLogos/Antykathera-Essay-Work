@@ -1,3 +1,7 @@
+---
+source_id: notes-neumann-1954-origins-history-consciousness
+---
+
 # Neumann — The Origins and History of Consciousness — reading notes
 
 Reading copy: **Princeton Classics 2014** (ISBN 978-0-691-16359-8), Hull trans., Jung's foreword.

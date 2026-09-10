@@ -94,6 +94,6 @@ Exact text and consumer mappings: [Quotes — Tye Qualia (SEP, 2024)](#passages)
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `tye-2024-qualia-sep-q001` | `tye-2024-qualia-sep` | §1, para. 2 | quotation-ready | `12-s0-p5-objective-internality` | [[Objective Internality]] | claim-status boundary | [Quotes — Tye Qualia (SEP, 2024)](#passages) |
+| `tye-2024-qualia-sep-q001` | `tye-2024-qualia-sep` | §1, para. 2 | quotation-ready | `12-s0-p5-objective-internality` | [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]] | claim-status boundary | [Quotes — Tye Qualia (SEP, 2024)](#passages) |
 
-| `tye-2024-qualia-sep-q002` | `tye-2024-qualia-sep` | introduction, para. 2 | quotation-ready | `12-s0-p5-objective-internality` | [[Objective Internality]] | counterposition | [Quotes — Tye Qualia (SEP, 2024)](#passages) |
+| `tye-2024-qualia-sep-q002` | `tye-2024-qualia-sep` | introduction, para. 2 | quotation-ready | `12-s0-p5-objective-internality` | [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]] | counterposition | [Quotes — Tye Qualia (SEP, 2024)](#passages) |

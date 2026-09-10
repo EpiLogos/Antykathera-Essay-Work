@@ -6,6 +6,7 @@ aliases:
   - "psychoid"
   - "number archetype"
   - "unus mundus"
+source_id: concepts-psychoid-number
 node_type: "concept"
 register: episteme
 page_type: "concept"
@@ -27,7 +28,7 @@ analogia:
 
 ## Definition
 
-*Psychoid* is Jung's term for the register of the archetype that is not purely psychic: an ordering factor whose reach transgresses toward matter, operating at the threshold where psyche and matter have not yet divided into independent explanatory domains. Wolfgang Pauli pressed the same problem from physics — his correspondence with Jung circles cases where psychological image and physical event display meaningful structural correspondence without causal reduction in either direction — and the pair named the undivided level *unus mundus*, the one world prior to the psyche/matter cut. Within this register, **number is the most primitive archetype of order**: each small numeral carries qualitative weight before it carries quantity — 1 as unity and first distinction, 2 as duality and relation, 3 as synthesis, the dynamic third. Marie-Louise von Franz carried this program furthest as a study of number as the common ordering factor of psyche and matter. [[working/sources-texts-references/10-7-2026-core-theorems-pithy#III. The Pythagorean QL Unit|The Pythagorean QL unit]] takes the same object from the formal side: it derives the sixfold by watching the field of identity-as-difference *count itself* — the additive/multiplicative convergence `1+2+3 = 1×2×3 = 6`, zero's dual nature, the 3-4-5 triple in the base frame.
+*Psychoid* is Jung's term for the register of the archetype that is not purely psychic: an ordering factor whose reach transgresses toward matter, operating at the threshold where psyche and matter have not yet divided into independent explanatory domains. Wolfgang Pauli pressed the same problem from physics — his correspondence with Jung circles cases where psychological image and physical event display meaningful structural correspondence without causal reduction in either direction — and the pair named the undivided level *unus mundus*, the one world prior to the psyche/matter cut. Within this register, **number is the most primitive archetype of order**: each small numeral carries qualitative weight before it carries quantity — 1 as unity and first distinction, 2 as duality and relation, 3 as synthesis, the dynamic third. Marie-Louise von Franz carried this program furthest as a study of number as the common ordering factor of psyche and matter. [The Pythagorean QL unit](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) takes the same object from the formal side: it derives the sixfold by watching the field of identity-as-difference *count itself* — the additive/multiplicative convergence `1+2+3 = 1×2×3 = 6`, zero's dual nature, the 3-4-5 triple in the base frame.
 
 ## In the argument
 
@@ -35,7 +36,7 @@ The discipline of the pairing is fixed by the claim-status split: the psychoid l
 
 ## Sources
 
-[[jung-pauli-meier-2001-atom-archetype|Meier (ed.), *Atom and Archetype* — the Pauli/Jung letters]] (the problem in the principals' own hands); [[submission-package/essay/symbolon/episteme/sources/quotes/atmanspacher-2020-pauli-jung-conjecture|Atmanspacher, the Pauli–Jung conjecture]] (contemporary scholarly framing). Internal derivation: [[taylor-2026-core-theorems-pithy|Taylor — Core Theorems Pithy (2026)]] §III. Von Franz's *Number and Time* remains explicit source-intake work.
+[[symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE|Meier (ed.), *Atom and Archetype* — the Pauli/Jung letters]] (the problem in the principals' own hands); [[symbolon/episteme/sources/physics/atmanspacher/atmanspacher-2020-pauli-jung-conjecture/SOURCE|Atmanspacher, the Pauli–Jung conjecture]] (contemporary scholarly framing). Internal derivation: [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems Pithy (2026)]] §III. Von Franz's *Number and Time* remains explicit source-intake work.
 
 Related: [[04-arche-topos-topology-music|Arche-Topos as Differential Field]] · [[31-s4-p0-psychoid-problem|§4 · #0 — The Psychoid Problem]] · [[30-s3-p5-arche-topos|§3 · #5→0 — The Arche-Topos]] · [[12-core-theorem-bridge|Core Theorem Bridge]] · [[zero|Zero]]
 

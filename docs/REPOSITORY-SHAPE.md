@@ -48,17 +48,18 @@ The sovereign essay and the authoring rooms sit **parallel to the symbolon root*
 | `CLAUDE.md` | Companion orientation (Claude-facing) | non-governing | — | stays |
 | `docs/REPOSITORY-SHAPE.md` | This map | non-governing | — | stays |
 | `docs/plans/` | Dated development plans | provenance | — | stays |
-| `submission-package/essay/` | **THE publication body** — the one home: rooms `#0`, the field `#1`–`#4`, essay `#5` | canonical publication body | `README.md` | stays (final home) |
+| `submission-package/essay/` | **THE publication body** — the one home: rooms `#0`, the field `#1`–`#4`, essay `#5` | canonical publication body | `README.md` — the authored reading root (T23) | stays (final home) |
 | `the-return-of-zero-central-plan.md` | Sole structural authority | governing | — | stays governing |
 | `return-of-zero-orienting-principles.md` | Mandatory orientation | governing, subordinate | — | stays |
 | `submission-package/essay/THE-RETURN-OF-ZERO.md` | Sovereign manuscript | sovereign | — | parallel to `symbolon/` (publication 4+2, position `#5`) |
-| `submission-package/essay/section-rooms/` | The rooms (`#0`): each room holds its six movements under `movements/` (the `1`s) with the shared argument field under `arguments/` (the `0`) — the nested `0/1` of the essay's structured potential | canonical granular argument | `section-rooms/README.md` | publication `#0`, parallel to `symbolon/` |
-| `submission-package/essay/section-rooms/arguments/` | The 21 argument nodes — the implicate `0`-field of the rooms | canonical granular argument | — | stays with the rooms (`#0`) |
+| `submission-package/essay/section-rooms/` | The rooms (`#0`): each room holds its six movements under `movements/` (the `1`s) drawing on the canonical A/C field (the `0`) through its `P1-CANONICAL-ALIGNMENT.md` — the nested `0/1` of the essay's structured potential | canonical granular argument | `section-rooms/README.md` | publication `#0`, parallel to `symbolon/` |
+| `submission-package/essay/section-rooms/arguments/` | Historical argument carriers (`01–21`), provenance of the quilt; since T09 the rooms' implicate `0` is the canonical A01–A36 / C01–C64 / A01′–A36′ / A/C field in Episteme, routed per movement by `P1-CANONICAL-ALIGNMENT.md` | provenance, cross-section working ground | — | stays with the rooms as provenance; not an acceptance count |
 | `submission-package/essay/section-rooms/<room>/movements/` | The 48 section movements, six per room — the explicate `1`s | canonical granular argument | each room's `ROOM.md` | stays with the rooms (`#0`) |
-| `submission-package/essay/symbolon/episteme/concepts/` | The 22 concept nodes + Concept Map (`index.md`) | canonical granular argument | `index.md` | stays (`episteme/concepts/`) |
+| `submission-package/essay/symbolon/episteme/concepts/` | 64 canonical C01–C64 concepts, 22 earlier concept surfaces, and their indexes | canonical granular argument | `index.md` | stays (`episteme/concepts/`) |
 | `submission-package/essay/symbolon/episteme/concepts/reference-notes/` | 90 reference notes recovered from git HEAD, 2026-08-08 | quilt-pending working shelf | `README.md` | quilted into the concept layer |
 | `submission-package/essay/symbolon/episteme/maps/` | The 4 transverse paths | canonical granular argument | `return-of-zero-braided-traversal.md` | stays (`episteme/maps/`) |
-| `submission-package/essay/symbolon/episteme/sources/` | 124 canonical source houses + projections | canonical evidence | `SOURCE-INDEX.md` | `symbolon/episteme/sources/` |
+| `submission-package/essay/symbolon/episteme/maps/navigation/` | Generated navigation layer (T23): `MOC.md`, per-class `intents/`, `AUDIT.md`/`audit.json`, built from authored links by `tools/build-navigation.py` | generated locator, no authority | `MOC.md` | stays; rebuilt on every canonical change (hook-checked) |
+| `submission-package/essay/symbolon/episteme/sources/` | 180 canonical source houses + projections | canonical evidence | `SOURCE-INDEX.md` | `symbolon/episteme/sources/` |
 | `working/sources-texts-references/chat-logs-for-quilting/` | Raw Taylor chat transcripts | raw provenance | houses under `internal-corpus/taylor/chat-logs/` | stays as `local_copy` shelf; dialogue records migrate to `episteme/dialogues/` |
 | `working/sources-texts-references/Epi Paper Write-ups/` | Frank-authored papers (P0–P5, Symbolon Dynamics, Advent of Zero, …) | authorial internal corpus | their `SOURCE.md` houses | internal-corpus houses → `episteme/sources/`; mythemic operations → `mytheme/` |
 | `working/sources-texts-references/Epi Phone Writings/` | Raw Frank fragments | authorial raw | — | internal corpus or `mytheme/` (poetry/narrative) — placement by Frank |
@@ -111,5 +112,5 @@ The essay body at `submission-package/essay/` is the final home. Content is adde
 - `_to_delete/` — contents of the deletion queue.
 - `.wayfinder/` — keep, classify, or remove.
 - Core-theorems dangling links — correction by Frank or by agent on his word.
-- Per-node `register` composition on the 48 movements, 21 arguments, and the argument map — which registers each node admits and carries (concepts and paths are ratified to `episteme`; the rooms lineage awaits Frank's register-composition assignments).
+- Per-node `register` composition on the 48 movements — which registers each node admits and carries (concepts and paths are ratified to `episteme`; the rooms lineage awaits Frank's register-composition assignments).
 - The single home for the OKF schema (root-level spec vs plugin reference).

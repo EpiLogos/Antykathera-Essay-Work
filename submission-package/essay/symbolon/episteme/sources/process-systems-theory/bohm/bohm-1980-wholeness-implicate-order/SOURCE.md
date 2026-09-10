@@ -44,6 +44,8 @@ main_source_for:
 ---
 # Bohm — Wholeness and the Implicate Order (1980)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Chicago 18 forms
 
 **Full note:** David Bohm, *Wholeness and the Implicate Order* (Routledge & Kegan Paul, 1980), {page}.

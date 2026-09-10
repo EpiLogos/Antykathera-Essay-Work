@@ -6,6 +6,7 @@ aliases:
   - "anyāpoha"
   - "exclusion theory"
   - "determination through exclusion"
+source_id: concepts-apoha
 node_type: "concept"
 register: episteme
 page_type: "concept"
@@ -39,7 +40,7 @@ The compression the essay now carries for this is **exclusion that remembers**. 
 
 ## Sources
 
-Doctrine: [[submission-package/essay/symbolon/episteme/sources/quotes/pind-2009-dignaga-anyapoha-dissertation|Pind, *Dignāga's Philosophy of Language*]] (anyāpoha in Pramāṇasamuccayavṛtti V) and [[siderits-tillemans-chakrabarti-2011-apoha|Siderits, Tillemans & Chakrabarti (eds.), *Apoha: Buddhist Nominalism and Human Cognition*]]. The operational cartography joining apoha to vikalpa/saṃkalpa and the tattvic field is stated at [[working/sources-texts-references/10-7-2026-core-theorems-pithy#XI. Computational Process Ontology — QL Formalises the Process, MEF Runs It|Computational Process Ontology]].
+Doctrine: [[symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE|Pind, *Dignāga's Philosophy of Language*]] (anyāpoha in Pramāṇasamuccayavṛtti V) and [[symbolon/episteme/sources/indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE|Siderits, Tillemans & Chakrabarti (eds.), *Apoha: Buddhist Nominalism and Human Cognition*]]. The operational cartography joining apoha to vikalpa/saṃkalpa and the tattvic field is stated at [Computational Process Ontology](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md).
 
 Related: [[vikalpa-samkalpa|Vikalpa / Saṃkalpa]] · [[14-computational-process-ontology|Computational Process Ontology]] · [[13-tattvic-differential-field|Tattvic Differential Field]] · [[11-mono-poly-whole-and-many|Mono-Poly]] · [[38-s5-p1-apoha-softmax|§5 · #1 — Apoha, Softmax, and Argmax]]
 

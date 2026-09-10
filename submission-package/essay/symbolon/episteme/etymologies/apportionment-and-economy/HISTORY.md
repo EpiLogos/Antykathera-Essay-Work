@@ -1,5 +1,6 @@
 ---
 title: "Apportionment, Naming, Number, and Oikonomia"
+source_id: apportionment-and-economy-history
 page_type: etymological-cluster
 ownership: protected-learning-surface
 status: living

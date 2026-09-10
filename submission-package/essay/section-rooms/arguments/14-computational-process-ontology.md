@@ -4,6 +4,7 @@ aliases:
   - "Computational Process Ontology"
   - "QL Process Epistemology"
   - "MEF Runtime"
+source_id: 14-computational-process-ontology
 node_type: "claim"
 page_type: "argument-map"
 argument_level: "core"
@@ -44,8 +45,12 @@ tags:
   - argument-map/agentworld
   - argument-map/praxis
   - ql/theorem-unit
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Computational Process Ontology
+
+**Historical carrier.** The developed successor is [A14](../../symbolon/episteme/arguments/A14-Computational-Process-Ontology.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Core claim
 
@@ -57,7 +62,7 @@ The theory is therefore simultaneously ontological, epistemological, and computa
 - **Epistemological:** knowing is one such process of determination. A claim is a situated achievement with sources, exclusions, lenses, and revision-conditions, not a free-standing copy of the real.
 - **Computational:** the transitions can be stated as repeatable operations and executed through a symbolic architecture without thereby exhausting the subject for whom the process appears.
 
-The [[working/sources-texts-references/10-7-2026-core-theorems-pithy#XI. Computational Process Ontology — QL Formalises the Process, MEF Runs It|core theorem]] carries the full derivation. This node fixes its argumentative role in the essay.
+The [core theorem](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) carries the full derivation. This node fixes its argumentative role in the essay.
 
 ## The process lineage
 
@@ -91,7 +96,7 @@ In Bohmian terms dia-ballein explicates and sym-ballein retains implication. The
 
 ## The Śaiva–Buddhist operational account
 
-[[vikalpa-samkalpa|Vikalpa]] differentiates and qualifies the field. [[vikalpa-samkalpa|Saṃkalpa]] gathers selected differences into a possible course, intention, or world. [[submission-package/essay/symbolon/episteme/concepts/apoha|Apoha]] shows why the cut remains constitutive: a determination means through exclusions that do not cease to structure it merely because one output was selected. The tattvic descent then places these cognitive operations inside a wider ontology of manifestation.
+[[vikalpa-samkalpa|Vikalpa]] differentiates and qualifies the field. [[vikalpa-samkalpa|Saṃkalpa]] gathers selected differences into a possible course, intention, or world. [[symbolon/episteme/concepts/apoha|Apoha]] shows why the cut remains constitutive: a determination means through exclusions that do not cease to structure it merely because one output was selected. The tattvic descent then places these cognitive operations inside a wider ontology of manifestation.
 
 [[Tattvic Differential Field]] reads Māyā as the operative subject/object seam and the kañcukas as the parameterisation of a finite runtime: limited capacity, knowledge, desire, time, and order. Buddhi determines, ahaṃkāra appropriates, and manas coordinates alternatives inside that horizon. In the computational register, everyday Māyā is the measured, bounded, executable world through which a local agent can perceive and act. Its reality is local and conditioned; the “unreal overlay” reading would miss the efficacy of contraction.
 

@@ -69,7 +69,7 @@ Exact text, fixed pages, and the anti-rigidity limit: [Quotes — Ostrom Beyond 
 - **Source relation:** extracted governance scholarship.
 - **Evidential action:** contextualises/supports.
 - **Argument function:** polycentric-governance condition.
-- **Consumers:** [[46-s50-p3-4-2-mono-poly]]; [[11-mono-poly-whole-and-many|Mono-Poly]]; [[Artificial Hybrid Intelligence as Reflective Field]].
+- **Consumers:** [[46-s50-p3-4-2-mono-poly]]; [[11-mono-poly-whole-and-many|Mono-Poly]]; [[symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence as Reflective Field]].
 - **Use boundary:** establishes a constrained governance vocabulary; it does not verify 4:2 Technē, QL, AHI, or shared hardware/data implementation.
 
 <a id="ostrom-2009-beyond-markets-states-nobel-lecture-q002"></a>
@@ -89,6 +89,6 @@ Exact text, fixed pages, and the anti-rigidity limit: [Quotes — Ostrom Beyond 
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `ostrom-2009-beyond-markets-states-nobel-lecture-q001` | `ostrom-2009-beyond-markets-states-nobel-lecture` | printed p. 422; official PDF p. 15 | quotation-ready | `46-s50-p3-4-2-mono-poly` | [[11-mono-poly-whole-and-many|Mono-Poly]]; [[Artificial Hybrid Intelligence as Reflective Field]] | polycentric-governance condition | [Quotes — Ostrom Beyond Markets and States (2009/2010)](#passages) |
+| `ostrom-2009-beyond-markets-states-nobel-lecture-q001` | `ostrom-2009-beyond-markets-states-nobel-lecture` | printed p. 422; official PDF p. 15 | quotation-ready | `46-s50-p3-4-2-mono-poly` | [[11-mono-poly-whole-and-many|Mono-Poly]]; [[symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence as Reflective Field]] | polycentric-governance condition | [Quotes — Ostrom Beyond Markets and States (2009/2010)](#passages) |
 
 | `ostrom-2009-beyond-markets-states-nobel-lecture-q002` | `ostrom-2009-beyond-markets-states-nobel-lecture` | printed p. 423; official PDF p. 16 | quotation-ready | `46-s50-p3-4-2-mono-poly` | [[11-mono-poly-whole-and-many|Mono-Poly]] | anti-rigidity condition | [Quotes — Ostrom Beyond Markets and States (2009/2010)](#passages) |

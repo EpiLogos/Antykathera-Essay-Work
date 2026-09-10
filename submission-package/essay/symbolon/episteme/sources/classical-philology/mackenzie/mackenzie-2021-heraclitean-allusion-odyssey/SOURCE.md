@@ -97,7 +97,7 @@ Heraclitus B51 supplies its own compact account of difference agreeing with itse
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** historical and philological carrier for counter-tension.
-- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [[29-s3-p4-topology-music-resolution]]; [[Paradox as Cross-Register Hinge]].
+- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [[29-s3-p4-topology-music-resolution]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]].
 - **Use boundary:** the fragment states its own relation of differing and agreement; the QL, Jungian, musical-topological, and technological developments belong to the essay.
 
 <a id="mackenzie-2021-heraclitean-allusion-odyssey-q002"></a>
@@ -118,5 +118,5 @@ Heraclitus B51 supplies its own compact account of difference agreeing with itse
 
 | passage_id | source_id | locator | status | movement consumers | argument consumers | function |
 |---|---|---|---|---|---|---|
-| `mackenzie-2021-heraclitean-allusion-odyssey-q001` | `mackenzie-2021-heraclitean-allusion-odyssey` | p. 71; B51; Hippolytus 9.9.2 | quotation-ready | `22-s2-p3-ares-aphrodite-harmonia`; `29-s3-p4-topology-music-resolution` | [[Paradox as Cross-Register Hinge]] | historical/philological carrier |
+| `mackenzie-2021-heraclitean-allusion-odyssey-q001` | `mackenzie-2021-heraclitean-allusion-odyssey` | p. 71; B51; Hippolytus 9.9.2 | quotation-ready | `22-s2-p3-ares-aphrodite-harmonia`; `29-s3-p4-topology-music-resolution` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | historical/philological carrier |
 | `mackenzie-2021-heraclitean-allusion-odyssey-q002` | `mackenzie-2021-heraclitean-allusion-odyssey` | pp. 71–72 | source-matched paraphrase | `22-s2-p3-ares-aphrodite-harmonia`; `29-s3-p4-topology-music-resolution` | [[11-mono-poly-whole-and-many|Mono-Poly]] | physical and musical context |

@@ -1,4 +1,5 @@
 ---
+record_id: C46
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from authorial epistemic-cultivation and MEF development; comparative pedagogy and technical evidence remain distinct"

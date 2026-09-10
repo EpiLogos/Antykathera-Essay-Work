@@ -1,4 +1,5 @@
 ---
+source_id: technology-politics-development
 title: "Technology, Politics and Institutions — Formation, Delegation and Return"
 parent_record_id: history-technology-politics
 record_type: history-development-companion

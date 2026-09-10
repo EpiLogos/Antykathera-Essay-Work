@@ -1,4 +1,5 @@
 ---
+source_id: canonical-index
 title: "Canonical Concepts C01–C64"
 record_type: canonical-concept-index
 status: T09-first-materialisation
@@ -75,4 +76,4 @@ This is the canonical semantic Concept front door after T09. Older top-level Con
 
 Locked offices: C39 is framework, C40 supersedes J-Space as the general Concept, C61 is disclosure architecture rather than a second Symbolon theorem, C63 keeps Aristotle/pros hen and Eckhart/in quantum source-distinct, and C64 is Paradox. Historical/mathematical Zero is not an ordinary Concept.
 
-Cross-field routing: [[../arguments/README|A01–A36 Arguments]] · [[../etymologies/T09-A-C-E-RECIPROCITY-INDEX|A↔C↔E Reciprocity]] · `working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md`.
+Cross-field routing: [A01–A36 Arguments](../arguments/README.md) · [A↔C↔E Reciprocity](../etymologies/T09-A-C-E-RECIPROCITY-INDEX.md) · `working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md`.

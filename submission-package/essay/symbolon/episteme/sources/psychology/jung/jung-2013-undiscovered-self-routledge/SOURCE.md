@@ -76,7 +76,7 @@ The complete, context-preserving sequence—statistical abstraction, crowd dimin
 - **Quote status:** quotation-ready
 - **Edition:** Routledge Great Minds, 2013, trans. R. F. C. Hull
 - **Consumed by sections:** §2/#1; §2/#2; §5→0/#3
-- **Consumed by arguments:** [[Sym-Ballein]]; [[18-trust-faith-formal-limit|Trust]]
+- **Consumed by arguments:** [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; [[18-trust-faith-formal-limit|Trust]]
 
 ## Passage sequence: the mass-State circuit
 
@@ -131,7 +131,7 @@ Jung supplies a psychological diagnosis of modern mass-mindedness. The essay's f
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `jung-2013-undiscovered-self-routledge-jus-02` | `jung-2013-undiscovered-self-routledge` | chapter 1, p. 10 | quotation-ready | licensed Google Books preview and edition metadata checked 2026-07-14: “The bigger the crowd, the more negligible the individual becomes.” | individual rendered negligible by mass formation | §2/#1 | [[Sym-Ballein]] | yes |
+| `jung-2013-undiscovered-self-routledge-jus-02` | `jung-2013-undiscovered-self-routledge` | chapter 1, p. 10 | quotation-ready | licensed Google Books preview and edition metadata checked 2026-07-14: “The bigger the crowd, the more negligible the individual becomes.” | individual rendered negligible by mass formation | §2/#1 | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]] | yes |
 
 | `jung-2013-undiscovered-self-routledge-jus-03` | `jung-2013-undiscovered-self-routledge` | chapter 1, p. 11 | quotation-ready | edition text checked 2026-07-14: “responsibility is collectivized as much as possible” | delegated responsibility in the mass-State circuit | §2/#1 | [[18-trust-faith-formal-limit|Trust]] | yes |
 

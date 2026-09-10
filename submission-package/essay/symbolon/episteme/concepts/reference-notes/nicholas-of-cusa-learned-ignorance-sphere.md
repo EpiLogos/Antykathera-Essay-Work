@@ -5,6 +5,7 @@ aliases:
   - "Cusanus"
   - "Learned Ignorance"
   - "Infinite Sphere"
+source_id: nicholas-of-cusa-learned-ignorance-sphere
 node_type: reference
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

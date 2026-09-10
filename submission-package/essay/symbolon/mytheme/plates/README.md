@@ -12,6 +12,6 @@ Plates are composed visual arguments in which image, sequence, juxtaposition and
 
 Each plate keeps its working file, rendered asset and Markdown record together. The record specifies composition, reading order, essay blocks, caption, alt text, source credits, transformations, rights and the inference the plate supports. Decorative mood boards and unlicensed collages do not enter the vault.
 
-Formal diagrams belong in [[../../matheme/diagrams/README|Matheme diagrams]]. Evidential visualisations belong in [[../../episteme/figures/README|Episteme figures]].
+Formal diagrams belong in [Matheme diagrams](../../matheme/diagrams/README.md). Evidential visualisations belong in [Episteme figures](../../episteme/figures/README.md).
 
-Return to [[../README|Mytheme]].
+Return to [Mytheme](../README.md).

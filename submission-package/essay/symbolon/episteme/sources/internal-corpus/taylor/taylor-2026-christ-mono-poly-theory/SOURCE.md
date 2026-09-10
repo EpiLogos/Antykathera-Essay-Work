@@ -33,6 +33,8 @@ passage_surface: '#passages'
 
 # Taylor — Christ and Mono-Poly Theory, P4 (2026)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Provenance identity
 
 Internal authorial manuscript on the monopoly of Logos/Truth, Sophia as truth’s living and changeful expression, and the danger by which a determinate word claims final ownership of what it expresses. This source supports the project’s internal mono–poly genealogy; it does not make its theological reading a public historical warrant.

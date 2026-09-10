@@ -1,4 +1,5 @@
 ---
+record_id: C43
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from mature computational-vimarsa and reflective-field development; Saiva vimarsa and Offered implementation retain distinct offices"

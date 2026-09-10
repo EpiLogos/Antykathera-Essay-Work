@@ -2,6 +2,7 @@
 title: "epi-logos-voice"
 aliases:
   - "epi-logos-voice"
+source_id: epi-logos-voice
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

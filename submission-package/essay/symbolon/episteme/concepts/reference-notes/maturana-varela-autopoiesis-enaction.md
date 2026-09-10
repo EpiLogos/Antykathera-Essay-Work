@@ -3,6 +3,7 @@ title: "Maturana and Varela — Autopoiesis and Enaction"
 aliases:
   - "Autopoiesis and Enaction"
   - "Maturana Varela Autopoiesis"
+source_id: maturana-varela-autopoiesis-enaction
 node_type: reference
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

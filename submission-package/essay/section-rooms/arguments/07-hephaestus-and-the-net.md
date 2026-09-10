@@ -3,6 +3,7 @@ title: "Hephaestus's Net: The Failed Relation"
 aliases:
   - "Hephaestus and the Net"
   - "Hephaestus's Net"
+source_id: 07-hephaestus-and-the-net
 node_type: "warrant"
 page_type: "argument-map"
 argument_level: "supportive"
@@ -23,8 +24,12 @@ tags:
   - argument-map/live
   - argument-map/mytheme
   - argument-map/warrant
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Hephaestus's Net: The Failed Relation
+
+**Historical carrier.** The complete [Ares–Aphrodite–Hephaestus–Poseidon Mytheme](../../symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md) carries the living scene. This page retains its earlier argumentative treatment and has no canonical A identity.
 
 ## Claim
 

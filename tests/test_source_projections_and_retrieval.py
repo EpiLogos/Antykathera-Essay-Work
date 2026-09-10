@@ -105,7 +105,7 @@ class SourceProjectionAndRetrievalTests(unittest.TestCase):
             {node["id"] for node in effects["consumers"]["sections"]},
         )
         self.assertIn(
-            "12-core-theorem-bridge",
+            "A10-Advent-of-Zero",
             {node["id"] for node in effects["consumers"]["arguments"]},
         )
 

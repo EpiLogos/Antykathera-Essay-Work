@@ -2,6 +2,7 @@
 title: "Kaplan Nothing That Is"
 aliases:
   - "Kaplan Nothing That Is"
+source_id: kaplan-nothing-that-is
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

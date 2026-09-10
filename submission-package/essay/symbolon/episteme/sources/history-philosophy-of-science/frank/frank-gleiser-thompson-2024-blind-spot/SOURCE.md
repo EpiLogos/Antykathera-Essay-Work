@@ -44,6 +44,8 @@ main_source_for:
 ---
 # Frank, Gleiser, and Thompson — The Blind Spot (2024)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Chicago 18 forms
 
 **Full note:** Adam Frank, Marcelo Gleiser, and Evan Thompson, *The Blind Spot: Why Science Cannot Ignore Human Experience* (MIT Press, 2024), {page}.

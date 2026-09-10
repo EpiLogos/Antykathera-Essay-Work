@@ -36,6 +36,8 @@ passage_surface: '#complete-poems'
 
 # Taylor — Personal Poetry Corpus (2026)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Provenance identity
 
 This authorial compilation gathers every personal poem located in Franki Taylor's protected Nara corpus, the live test-site, and the Return of Zero writing reference that already preserved earlier work from the EPI Vault and the `Poetry & Shorts` folder. The source search was completed on 1 August 2026.

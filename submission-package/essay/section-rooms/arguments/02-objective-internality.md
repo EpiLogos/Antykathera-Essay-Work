@@ -2,6 +2,7 @@
 title: "Objective Internality"
 aliases:
   - "Objective Internality"
+source_id: 02-objective-internality
 node_type: "claim"
 page_type: "argument-map"
 argument_level: "primary"
@@ -31,8 +32,12 @@ tags:
   - argument-map/agentworld
   - argument-map/claim
   - mef/square-b
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Objective Internality
+
+**Historical carrier.** The developed successor is [A26](../../symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claim
 
@@ -58,11 +63,11 @@ The attested triad in the archive is exact: **notational, nomological, exclusion
 
 ## Warrant
 
-[[Antikythera Agentworld Brief#Source PDF page 14|Agentworld's lamination]] supplies the technical parts; [[Tattvic Differential Field]] derives the contraction cascade; [[Tattvic Differential Field|Antaḥkaraṇa]] distinguishes determinative apparatus from subject; [[36-s4-p5-mef-prompt-thrownness|Prompt Thrownness]] locates the lived/observed encounter. [[submission-package/essay/symbolon/episteme/concepts/apoha|Apoha]] and [[Sym-Ballein]] supply the two readings of the same differentiating activity: constitutive exclusion and retained relation.
+[[Antikythera Agentworld Brief#Source PDF page 14|Agentworld's lamination]] supplies the technical parts; [[Tattvic Differential Field]] derives the contraction cascade; [[Tattvic Differential Field|Antaḥkaraṇa]] distinguishes determinative apparatus from subject; [[36-s4-p5-mef-prompt-thrownness|Prompt Thrownness]] locates the lived/observed encounter. [[symbolon/episteme/concepts/apoha|Apoha]] and [[Sym-Ballein]] supply the two readings of the same differentiating activity: constitutive exclusion and retained relation.
 
 ## Design consequence — epistemics becomes first-class
 
-The [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba Map]] should expose the constitutive relations, attractors, transformations, exclusions, sources, gauges, lenses and provenance of this nomological complex. Its purpose is not to store an agent's soul or assert a final inventory of truth. It gives the inquiry an explicit epistemic Bimba: a locally original/reference field against which changing judgments, [[j-space|J-Spaces]], trajectories and agency states can appear as Pratibimba and therefore become comparable.
+The [[symbolon/episteme/concepts/bimba-pratibimba|Bimba Map]] should expose the constitutive relations, attractors, transformations, exclusions, sources, gauges, lenses and provenance of this nomological complex. Its purpose is not to store an agent's soul or assert a final inventory of truth. It gives the inquiry an explicit epistemic Bimba: a locally original/reference field against which changing judgments, [[j-space|J-Spaces]], trajectories and agency states can appear as Pratibimba and therefore become comparable.
 
 This is a stronger claim than ordinary observability. Prompt, memory, retrieval, source authority, evaluator, world-object, evidence, lens and exclusion cease to be merely hidden causes of a finished output and become first-class parts of the epistemic object. An Energy-Based or topological reading can then ask where an agency state sits, what attracts it, which basin it crosses, what reference relation changed, and whether returned evidence warrants revision of the Bimba field itself.
 

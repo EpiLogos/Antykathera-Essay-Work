@@ -3,6 +3,7 @@ title: "Kauffman Iterants"
 aliases:
   - "Kauffman Iterants"
   - "Kauffman — Iterants and the Imaginary Unit"
+source_id: kauffman-iterants
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

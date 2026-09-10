@@ -102,14 +102,14 @@ The final episode, “Fall Out,” turns the question of Number One back through
 - **Source relation:** Extracted.
 - **Evidential action:** supplies the primary scene for an Argued mythemic-political reading.
 - **Argument function:** numbering as an exercise of power; office and captive made abstract in opposite directions; the inquiry into sovereign ground deflected into classification.
-- **Consumers:** [[Number Two Names Number Six: The Prisoner and the Politics of the Count]]; proposed compact aside in [[24-s2-p5-zero-changes-role|§2 · #5→0 — Zero Changes Its Role]].
+- **Consumers:** [Number Two Names Number Six: The Prisoner and the Politics of the Count](../../../../../../section-rooms/arguments/21-prisoner-politics-of-the-count.md); proposed compact aside in [[24-s2-p5-zero-changes-role|§2 · #5→0 — Zero Changes Its Role]].
 - **Use boundary:** establishes the dialogue and dramatic relation. The `2→6`, `4+2`, hidden-zero, and QL readings are the essay's argument, not claims about McGoohan's notation or authorial derivation.
 
 ## Essay uses
 
 The programme should appear in the manuscript once, as a brief aside after the derivation `2+2²=6=4+2` in §2 · #5→0. Its purpose there is not to prove the theorem but to disclose its political inversion: the live sixfold becomes an imposed number when an institution seizes the relation that generates the count.
 
-The full source-facing telling and authored return now belong in [the canonical Prisoner whole](submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md). [[Number Two Names Number Six: The Prisoner and the Politics of the Count]] remains the earlier political argument carrier. The whole carries the reference at different depths into the subject's non-objectifiability, dia-ballein and classification, the `4+2` count, the hidden zero of evaluative systems, the governance of shared infrastructures, and the non-final return. This separation lets the external-reference package be reorganised later without multiplying the programme's appearance in the main prose.
+The full source-facing telling and authored return now belong in [the canonical Prisoner whole](../../../../../mytheme/worlds/british-television/the-prisoner/WHOLE.md). [Number Two Names Number Six: The Prisoner and the Politics of the Count](../../../../../../section-rooms/arguments/21-prisoner-politics-of-the-count.md) remains the earlier political argument carrier. The whole carries the reference at different depths into the subject's non-objectifiability, dia-ballein and classification, the `4+2` count, the hidden zero of evaluative systems, the governance of shared infrastructures, and the non-final return. This separation lets the external-reference package be reorganised later without multiplying the programme's appearance in the main prose.
 
 ## Open acquisition and verification
 
@@ -118,7 +118,7 @@ The full source-facing telling and authored return now belong in [the canonical 
 
 ## Written episode witnesses used in the whole — 2026-09-08
 
-The whole’s writer recovered four selected written episode tellings in addition to the official seventeen-episode inventory. This is **secondary synopsis/study verification**, not a complete audiovisual viewing, release collation or shot-by-shot transcription. The source house’s opening quotation remains governed by q001 and its script/transcript evidence. The [development receipt](working/p2-enrichment/receipts/T20-mytheme-the-prisoner-development.md) records the scoped reads.
+The whole’s writer recovered four selected written episode tellings in addition to the official seventeen-episode inventory. This is **secondary synopsis/study verification**, not a complete audiovisual viewing, release collation or shot-by-shot transcription. The source house’s opening quotation remains governed by q001 and its script/transcript evidence. The [development receipt](../../../../../../../../working/p2-enrichment/receipts/T20-mytheme-the-prisoner-development.md) records the scoped reads.
 
 | Selected episode | Written witness | What the whole receives |
 |---|---|---|

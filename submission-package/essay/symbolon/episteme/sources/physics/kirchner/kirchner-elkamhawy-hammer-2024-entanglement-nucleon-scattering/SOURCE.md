@@ -79,7 +79,7 @@ Exact text and consumer mappings: [Quotes — Kirchner et al. Entanglement (2024
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** technical/formal warrant.
-- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[Core Theorem Bridge]]; [[Toroidal Circulation and the Arche-Topos]]; movement 28 pure-qubit geometry.
+- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]]; movement 28 pure-qubit geometry.
 - **Use boundary:** applies to normalized pure two-level states modulo phase; it does not assign QL meanings to basis states or generalise to mixed/multi-qubit cases.
 
 <a id="kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering-q002"></a>
@@ -93,12 +93,12 @@ Exact text and consumer mappings: [Quotes — Kirchner et al. Entanglement (2024
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** technical scope limitation.
-- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[Core Theorem Bridge]]; [[Toroidal Circulation and the Arche-Topos]]; movement 28 pure-state condition.
+- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]]; movement 28 pure-state condition.
 - **Use boundary:** names the normalization and phase conditions; it does not authorise a general use of the Bloch sphere for every state space or conceptual polarity.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering-q001` | `kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering` | §2.1, before Eq. (3) | quotation-ready | `28-s3-p3-projective-dimensional-reframing` | [[Core Theorem Bridge]]; [[Toroidal Circulation and the Arche-Topos]] | technical/formal warrant | [Quotes — Kirchner et al. Entanglement (2024)](#passages) |
+| `kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering-q001` | `kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering` | §2.1, before Eq. (3) | quotation-ready | `28-s3-p3-projective-dimensional-reframing` | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]] | technical/formal warrant | [Quotes — Kirchner et al. Entanglement (2024)](#passages) |
 
-| `kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering-q002` | `kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering` | §2.1, preceding q001 | quotation-ready | `28-s3-p3-projective-dimensional-reframing` | [[Core Theorem Bridge]]; [[Toroidal Circulation and the Arche-Topos]] | technical scope limitation | [Quotes — Kirchner et al. Entanglement (2024)](#passages) |
+| `kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering-q002` | `kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering` | §2.1, preceding q001 | quotation-ready | `28-s3-p3-projective-dimensional-reframing` | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]] | technical scope limitation | [Quotes — Kirchner et al. Entanglement (2024)](#passages) |

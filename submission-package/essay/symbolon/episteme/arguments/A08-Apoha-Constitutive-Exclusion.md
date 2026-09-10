@@ -1,11 +1,16 @@
 ---
 title: A08 — Apoha / Constitutive Exclusion
+record_id: A08
 record_type: canonical-argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from
 ---
 # A08 — Apoha / Constitutive Exclusion
+
+<!-- paired-field-navigation -->
+[Argument field](README.md) · [Other face: A08′ — Exclusion That Remembers](../conjugate/A08-prime-Exclusion-That-Remembers.md) · [Shared A/C root](../conjugate/AC.md)
+<!-- /paired-field-navigation -->
 
 **Standing:** canonical semantic Argument; historical Argument 18 remains provenance.
 
@@ -17,23 +22,23 @@ A determination becomes intelligible through what it excludes. Apoha gives the e
 
 The essay consumes this operation without pretending to reproduce the whole Buddhist theory of apoha. Its immediate use is exact: every active `1` is constituted against alternatives it does not cease to depend upon. This deepens A02's identification-with-difference and prepares A13's two logics. A dia operation can make a clean selection because exclusion works. The pathology begins when the selection forgets the excluded field and presents itself as self-grounding. A sym return does not undo the distinction; it restores the constitutive relation that the finished mark concealed.
 
-[[submission-package/essay/symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE|Pind's critical translation]] sources the precise textual floor. Its verified PSV V:11d segment (p.85) states the exclusion of other referents by a word. The same source house carries an equally necessary qualification: annotation181 (p.183) describes the referent as a thing qualified by preclusion rather than mere preclusion. Pind assigns that prose fragment to the *Sāmānyaparīkṣāvyāsa* only provisionally. The translated wording is verified; its textual attribution remains qualified.
+[[symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE|Pind's critical translation]] sources the precise textual floor. Its verified PSV V:11d segment (p.85) states the exclusion of other referents by a word. The same source house carries an equally necessary qualification: annotation181 (p.183) describes the referent as a thing qualified by preclusion rather than mere preclusion. Pind assigns that prose fragment to the *Sāmānyaparīkṣāvyāsa* only provisionally. The translated wording is verified; its textual attribution remains qualified.
 
 A positive reach is therefore achieved through exclusion. The doctrine cannot be represented simply as a heap of negative absences with no thing to which language refers. That qualification preserves the argument's force: exclusion qualifies a determinate referent rather than arriving as an accidental contrast after the referent's meaning is complete.
 
 ## #2
 
-The [[submission-package/essay/symbolon/episteme/sources/indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE|Apoha collection's source house]] defines a further distinction through its scholarly secondary transmission. Nominally bound negation forms the exclusion-term, such as *non-pot*. Verbally bound negation denies a predication. In the retained not-non-pot structure, the negative formation is constitutive of the term's reach; replacing it with an ordinary cancellation of two propositional negations would discard the operation under discussion. The house's q002/q003 are source-matched paraphrases through review and publisher material, with chapter and printed-page collation still Open.
+The [[symbolon/episteme/sources/indian-philosophy/siderits/siderits-tillemans-chakrabarti-2011-apoha/SOURCE|Apoha collection's source house]] defines a further distinction through its scholarly secondary transmission. Nominally bound negation forms the exclusion-term, such as *non-pot*. Verbally bound negation denies a predication. In the retained not-non-pot structure, the negative formation is constitutive of the term's reach; replacing it with an ordinary cancellation of two propositional negations would discard the operation under discussion. The house's q002/q003 are source-matched paraphrases through review and publisher material, with chapter and printed-page collation still Open.
 
 “Exclusion that remembers” is the essay's operational gloss for that retained dependence. It names neither a memory mechanism literally located in a word nor a slogan that settles the collection's competing formal reconstructions. The comparison requires its own object: semantic exclusion makes a term determinate; absence is what is not present; contrast relates differences; repression concerns a psychic exclusion whose workings require a different source and mechanism. [[C18-Apoha|C18]] defines the reusable semantic operation. [[C23-Severance|C23]] defines the further loss of relation which a successful exclusion does not itself entail.
 
 ## #3
 
-The positive case remains a live philosophical pressure. Frank's [[submission-package/essay/symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE|Kripke encounter]] sources the demand for a trans-circumstantial counter beneath naming: what is being followed as this individual when its descriptions and circumstances vary? The [[submission-package/essay/quilt/copula-derivation-chain-and-resource-pools|copula development]] qualifies its own “missing positive” formulation by bringing *svalakṣaṇa* into the comparison. A momentary, causally efficacious, non-repeatable particular and an individual tracked across counterfactual circumstances perform different work. Whether their relation is disagreement or an ordering of depths remains Open in that carrier.
+The positive case remains a live philosophical pressure. Frank's [[symbolon/episteme/sources/analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE|Kripke encounter]] sources the demand for a trans-circumstantial counter beneath naming: what is being followed as this individual when its descriptions and circumstances vary? The [[quilt/copula-derivation-chain-and-resource-pools|copula development]] qualifies its own “missing positive” formulation by bringing *svalakṣaṇa* into the comparison. A momentary, causally efficacious, non-repeatable particular and an individual tracked across counterfactual circumstances perform different work. Whether their relation is disagreement or an ordering of depths remains Open in that carrier.
 
 Pind's qualified-preclusion passage prevents this inquiry from claiming that Buddhist theory has no positive referent. Taylor's operation survives: the accountable naming of an individual requires the field in which identity can be tracked, and the relation between this tracking and the Buddhist particular needs explicit development. Kripke does not derive apoha or QL; the source comparison does not replace the native question with a verdict that Buddhism has been refuted.
 
-Q27's [[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|Buddhist–Śaiva contribution]] extends the pressure through retained alternatives: exclusion requires this/not-that, absent possibilities and residual traces to be held in one knowing-act. [[A05-Prakasa-Vimarsa|A05]] grounds the essay's positive account of that capacity. [[submission-package/essay/symbolon/episteme/sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE|MacCracken's source]] qualifies the historical join through the dispute over relation's epistemic or real standing. His exact local comparison does not establish one doctrine shared by the traditions.
+Q27's [[quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|Buddhist–Śaiva contribution]] extends the pressure through retained alternatives: exclusion requires this/not-that, absent possibilities and residual traces to be held in one knowing-act. [[A05-Prakasa-Vimarsa|A05]] grounds the essay's positive account of that capacity. [[symbolon/episteme/sources/indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE|MacCracken's source]] qualifies the historical join through the dispute over relation's epistemic or real standing. His exact local comparison does not establish one doctrine shared by the traditions.
 
 ## #4
 

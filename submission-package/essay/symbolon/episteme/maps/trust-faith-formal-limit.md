@@ -1,5 +1,6 @@
 ---
 title: "Trust, Faith, and the Formal Limit — Transverse Thread"
+source_id: trust-faith-formal-limit
 node_type: path
 register: episteme
 page_type: argument-path
@@ -25,4 +26,4 @@ This path preserves one movement across the stations rather than making trust a 
 7. [[44-s50-p1-ql-mef-bimba-harness|§5→0 · #1 — QL, MEF, Bimba, and Harness]] makes return structurally inspectable without claiming that an inspectable system has generated the trust it requires.
 8. [[48-s50-p5-ahi-planetary-return|§5→0 · #5→0 — AHI and Planetary Return]] releases the argument at the formal limit, where faith is neither closure nor a blind leap but lucid continuation.
 
-The source of the complete authorial movement remains [[Taylor — Revision Notes on Trust and F-Blocks (2026)]], read with [[Taylor — The Definition of God, Draft 3 (2026)]].
+The source of the complete authorial movement remains [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE|Taylor — Revision Notes on Trust and F-Blocks (2026)]], read with [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE|Taylor — The Definition of God, Draft 3 (2026)]].

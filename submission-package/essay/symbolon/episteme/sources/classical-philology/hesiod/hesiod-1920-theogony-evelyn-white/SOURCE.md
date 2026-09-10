@@ -77,7 +77,7 @@ Exact text and consumer mappings: [Quotes — Hesiod Theogony (Evelyn-White, 192
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** mythic provenance.
-- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [[Hephaestus and the Net]]; movement 22 entity identification for the genealogical sequence.
+- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [Hephaestus and the Net](../../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md); movement 22 entity identification for the genealogical sequence.
 - **Use boundary:** identifies names in this translation; it does not establish a theory of Aphrodite or of love.
 
 <a id="hesiod-1920-theogony-evelyn-white-q002"></a>
@@ -91,7 +91,7 @@ Exact text and consumer mappings: [Quotes — Hesiod Theogony (Evelyn-White, 192
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** historical/mythic provenance.
-- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [[Hephaestus and the Net]]; [[18-trust-faith-formal-limit|Trust]]; movement 22 genealogical support.
+- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [Hephaestus and the Net](../../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md); [[18-trust-faith-formal-limit|Trust]]; movement 22 genealogical support.
 - **Use boundary:** establishes a genealogy and sequence only; it does not establish that Harmonia is an ancient doctrine of dialectic, reconciliation, or computation.
 
 <a id="hesiod-1920-theogony-evelyn-white-q003"></a>
@@ -105,14 +105,14 @@ Exact text and consumer mappings: [Quotes — Hesiod Theogony (Evelyn-White, 192
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** interpretive limitation.
-- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [[Hephaestus and the Net]]; [[18-trust-faith-formal-limit|Trust]]; movement 22 offered-reading boundary.
+- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [Hephaestus and the Net](../../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md); [[18-trust-faith-formal-limit|Trust]]; movement 22 offered-reading boundary.
 - **Use boundary:** presents Harmonia in a genealogical, marital, and progenitive register; it does not state a theory of harmony, conflict, or reconciliation.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `hesiod-1920-theogony-evelyn-white-q001` | `hesiod-1920-theogony-evelyn-white` | *Theogony* 195–206 | quotation-ready | `22-s2-p3-ares-aphrodite-harmonia` | [[Hephaestus and the Net]] | mythic provenance | [Quotes — Hesiod Theogony (Evelyn-White, 1920)](#passages) |
+| `hesiod-1920-theogony-evelyn-white-q001` | `hesiod-1920-theogony-evelyn-white` | *Theogony* 195–206 | quotation-ready | `22-s2-p3-ares-aphrodite-harmonia` | [Hephaestus and the Net](../../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md) | mythic provenance | [Quotes — Hesiod Theogony (Evelyn-White, 1920)](#passages) |
 
-| `hesiod-1920-theogony-evelyn-white-q002` | `hesiod-1920-theogony-evelyn-white` | *Theogony* 933–937 | quotation-ready | `22-s2-p3-ares-aphrodite-harmonia` | [[Hephaestus and the Net]]; [[18-trust-faith-formal-limit|Trust]] | mythic provenance | [Quotes — Hesiod Theogony (Evelyn-White, 1920)](#passages) |
+| `hesiod-1920-theogony-evelyn-white-q002` | `hesiod-1920-theogony-evelyn-white` | *Theogony* 933–937 | quotation-ready | `22-s2-p3-ares-aphrodite-harmonia` | [Hephaestus and the Net](../../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md); [[18-trust-faith-formal-limit|Trust]] | mythic provenance | [Quotes — Hesiod Theogony (Evelyn-White, 1920)](#passages) |
 
-| `hesiod-1920-theogony-evelyn-white-q003` | `hesiod-1920-theogony-evelyn-white` | *Theogony* 975–978 | quotation-ready | `22-s2-p3-ares-aphrodite-harmonia` | [[Hephaestus and the Net]]; [[18-trust-faith-formal-limit|Trust]] | interpretive limitation | [Quotes — Hesiod Theogony (Evelyn-White, 1920)](#passages) |
+| `hesiod-1920-theogony-evelyn-white-q003` | `hesiod-1920-theogony-evelyn-white` | *Theogony* 975–978 | quotation-ready | `22-s2-p3-ares-aphrodite-harmonia` | [Hephaestus and the Net](../../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md); [[18-trust-faith-formal-limit|Trust]] | interpretive limitation | [Quotes — Hesiod Theogony (Evelyn-White, 1920)](#passages) |

@@ -79,7 +79,7 @@ The selected edition is Mark S. G. Dyczkowski's 2000 Motilal Banarsidass reprint
 ## Consumption
 
 - **Stations:** §0/#0–#5; §3/#1; §4; §5→0.
-- **Arguments:** [[Prakāśa-Vimarśa]]; [[Tattvic Differential Field]]; [[Computational Process Ontology]].
+- **Arguments:** [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]]; [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]]; [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]].
 - **Source relation:** contextualises and qualifies; QL derivations remain Taylor's.
 
 ## Quote and excerpt ledger
@@ -88,10 +88,10 @@ All entries below are verbatim leads from the project transcript, not yet text-c
 
 | quote_id | exact text / excerpt file | locator | transcription | verification | consuming claim |
 |---|---|---|---|---|---|
-| `dyczkowski-2000-doctrine-vibration-q001` | “Vibration (*spanda*) symbolism serves to represent the dynamic, self-regenerative character of the absolute.” | local transcript, p. 62 | local transcript | `source-matched` | [[Prakāśa-Vimarśa]]; §3/#1 metaphysical naming |
-| `dyczkowski-2000-doctrine-vibration-q002` | “No experience is possible without self-awareness.” | local transcript, p. 69 | local transcript | `source-matched` | [[Prakāśa-Vimarśa]]; reflective-awareness distinction |
-| `dyczkowski-2000-doctrine-vibration-q003` | “freedom [of consciousness] to unite, separate and hold things together.” | local transcript, p. 74 | local transcript | `source-matched` | [[Tattvic Differential Field]]; qualifies the dia/sym comparison |
-| `dyczkowski-2000-doctrine-vibration-q004` | “Movement (*saṃrambha*) and rest (*viśrānti*) in the absolute presuppose one another.” | local transcript, p. 81 | local transcript | `source-matched` | [[Computational Process Ontology]]; limiting passage on process analogy |
+| `dyczkowski-2000-doctrine-vibration-q001` | “Vibration (*spanda*) symbolism serves to represent the dynamic, self-regenerative character of the absolute.” | local transcript, p. 62 | local transcript | `source-matched` | [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]]; §3/#1 metaphysical naming |
+| `dyczkowski-2000-doctrine-vibration-q002` | “No experience is possible without self-awareness.” | local transcript, p. 69 | local transcript | `source-matched` | [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]]; reflective-awareness distinction |
+| `dyczkowski-2000-doctrine-vibration-q003` | “freedom [of consciousness] to unite, separate and hold things together.” | local transcript, p. 74 | local transcript | `source-matched` | [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]]; qualifies the dia/sym comparison |
+| `dyczkowski-2000-doctrine-vibration-q004` | “Movement (*saṃrambha*) and rest (*viśrānti*) in the absolute presuppose one another.” | local transcript, p. 81 | local transcript | `source-matched` | [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]]; limiting passage on process analogy |
 
 ## Provenance and acquisition
 
@@ -397,22 +397,22 @@ These source-specific fields were gathered before consolidation and remain part 
 
 #### `dyczkowski-2000-doctrine-vibration-q001`
 
-| `dyczkowski-2000-doctrine-vibration-q001` | `dyczkowski-2000-doctrine-vibration` | p. 62, local transcript | source-matched | local transcript; inspect selected Motilal edition | Spanda as a tradition-specific dynamic metaphor | §3/#1 | [[Prakāśa-Vimarśa]] | no |
+| `dyczkowski-2000-doctrine-vibration-q001` | `dyczkowski-2000-doctrine-vibration` | p. 62, local transcript | source-matched | local transcript; inspect selected Motilal edition | Spanda as a tradition-specific dynamic metaphor | §3/#1 | [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]] | no |
 
 <a id="dyczkowski-2000-doctrine-vibration-q002"></a>
 
 #### `dyczkowski-2000-doctrine-vibration-q002`
 
-| `dyczkowski-2000-doctrine-vibration-q002` | `dyczkowski-2000-doctrine-vibration` | p. 69, local transcript | source-matched | local transcript; inspect selected Motilal edition | reflexive awareness as a condition of experience | §0/#0 | [[Prakāśa-Vimarśa]] | no |
+| `dyczkowski-2000-doctrine-vibration-q002` | `dyczkowski-2000-doctrine-vibration` | p. 69, local transcript | source-matched | local transcript; inspect selected Motilal edition | reflexive awareness as a condition of experience | §0/#0 | [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]] | no |
 
 <a id="dyczkowski-2000-doctrine-vibration-q003"></a>
 
 #### `dyczkowski-2000-doctrine-vibration-q003`
 
-| `dyczkowski-2000-doctrine-vibration-q003` | `dyczkowski-2000-doctrine-vibration` | p. 74, local transcript | source-matched | local transcript; inspect selected Motilal edition | articulation, relation, and their non-identity with QL | §0/#4 | [[Tattvic Differential Field]] | no |
+| `dyczkowski-2000-doctrine-vibration-q003` | `dyczkowski-2000-doctrine-vibration` | p. 74, local transcript | source-matched | local transcript; inspect selected Motilal edition | articulation, relation, and their non-identity with QL | §0/#4 | [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]] | no |
 
 <a id="dyczkowski-2000-doctrine-vibration-q004"></a>
 
 #### `dyczkowski-2000-doctrine-vibration-q004`
 
-| `dyczkowski-2000-doctrine-vibration-q004` | `dyczkowski-2000-doctrine-vibration` | p. 81, local transcript | source-matched | local transcript; inspect selected Motilal edition | limitation on physical/computational readings of Spanda | §5→0 | [[Computational Process Ontology]] | no |
+| `dyczkowski-2000-doctrine-vibration-q004` | `dyczkowski-2000-doctrine-vibration` | p. 81, local transcript | source-matched | local transcript; inspect selected Motilal edition | limitation on physical/computational readings of Spanda | §5→0 | [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] | no |

@@ -47,6 +47,8 @@ passage_surface: "#passages"
 
 # Gay Watson — *The Resonance of Emptiness* (1998)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Bibliographic identity
 
 The selected object is Gay Watson's *The Resonance of Emptiness: A Buddhist Inspiration for a Contemporary Psychotherapy*, first published by Curzon Press in 1998 as part of the Curzon Critical Studies in Buddhism series. The publisher record identifies it as a 328-page first edition; library cataloguing gives the physical extent as x + 317 pages and ISBN 978-0-7007-1057-7. The later Routledge electronic edition carries DOI 10.4324/9781315027371.

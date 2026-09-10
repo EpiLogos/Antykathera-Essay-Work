@@ -1,4 +1,5 @@
 ---
+record_id: C34
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from native differentiated indivisibility and Symbolon Dynamics; Jungian individuation and Saiva recognition retain distinct warrants"

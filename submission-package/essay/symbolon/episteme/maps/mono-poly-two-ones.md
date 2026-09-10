@@ -1,5 +1,6 @@
 ---
 title: "Mono–Poly and the Two Ones — Transverse Thread"
+source_id: mono-poly-two-ones
 node_type: path
 register: episteme
 page_type: argument-path
@@ -33,4 +34,4 @@ This path preserves the ontological kernel across the essay without turning it i
 9. [[40-s5-p3-preference-hidden-zero|§5 · #3 — Preference Models and the Hidden Zero]] gives the technical trial: benchmark observability and sycophantic compliance can leave trust unanswered while a metric or owner occupies the field.
 10. [[44-s50-p1-ql-mef-bimba-harness|§5→0 · #1 — QL, MEF, Bimba, and Harness]], [[46-s50-p3-4-2-mono-poly|§5→0 · #3 — 4:2 Technē and the Sovereign Commons]], and [[48-s50-p5-ahi-planetary-return|§5→0 · #5→0 — AHI and Planetary Return]] turn the relation into a shared grammar, a sovereign commons, and a planetary return without falsely installing a super-subject.
 
-[[Trust, Faith, and the Formal Limit — Transverse Thread]] runs alongside this path. Trust enters as the lived relation beneath knowledge and remains distinct from the whole/many topology that can protect or capture its conditions.
+[[symbolon/episteme/maps/trust-faith-formal-limit|Trust, Faith, and the Formal Limit — Transverse Thread]] runs alongside this path. Trust enters as the lived relation beneath knowledge and remains distinct from the whole/many topology that can protect or capture its conditions.

@@ -64,7 +64,7 @@ These source-specific fields were gathered before consolidation and remain part 
 
 #### `bohm-krishnamurti-1975-05-18-dialogue-q001`
 
-| `bohm-krishnamurti-1975-05-18-dialogue-q001` | `bohm-krishnamurti-1975-05-18-dialogue` | transcript paragraph/timecode needed | source-matched | HTML transcript | spinning wheel and “thread running straight” | §3 | [[Bohmian Enfoldment and Dialogical Return]] | no |
+| `bohm-krishnamurti-1975-05-18-dialogue-q001` | `bohm-krishnamurti-1975-05-18-dialogue` | transcript paragraph/timecode needed | source-matched | HTML transcript | spinning wheel and “thread running straight” | §3 | [[symbolon/episteme/dossiers/bohm|Bohmian Enfoldment and Dialogical Return]] | no |
 
 ## Consulted transcript locations — 8 September 2026
 

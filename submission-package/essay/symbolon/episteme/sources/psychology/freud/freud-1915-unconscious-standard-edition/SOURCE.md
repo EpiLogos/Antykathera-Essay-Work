@@ -45,6 +45,8 @@ main_source_for:
 
 # Freud — “The Unconscious” (1915; Strachey trans. 1957)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Bibliographic identity
 
 Freud's 1915 metapsychological essay “The Unconscious” is carried here through James Strachey's English translation in volume 14 of the *Standard Edition*. WorldCat confirms the selected volume's authorship, editorial responsibility, date range, and inclusion of the metapsychology papers. The Freud Museum separately identifies the 1915 paper as seminal and describes Freud's dynamic unconscious as active rather than a second consciousness.

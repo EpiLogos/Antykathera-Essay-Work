@@ -13,7 +13,8 @@
 | `submission-package/essay/THE-RETURN-OF-ZERO.md` | Sovereign manuscript | Frank's single essay body and live writing locus |
 | `section-rooms/<room>/ROOM.md` | Generated authoring refraction | Compact earned position, movement waypoints and exact paths into canon and source houses |
 | `section-rooms/<room>/movements/` | The room's six canonical movements — the determinate `1`s of the nested `0/1` | Canonical granular argument |
-| `section-rooms/arguments/` | The shared argument field — the implicate `0` of the nested `0/1` | Canonical granular argument |
+| `symbolon/episteme/arguments/`, `concepts/`, `conjugate/` | Shared canonical field: 36 A + 64 C + 36 A′ + A/C; admitted locally through each room’s P1 alignment | Canonical granular argument |
+| `section-rooms/arguments/` | The 21 pre-T09 historical carriers, with successor dispositions | Historical provenance |
 | `section-rooms/<room>/READING.md` | Protected learning refraction | Optional cross-source progression for one room; never source or argument authority |
 | `section-rooms/<room>/SCRATCH.md` | Protected temporary writing | Optional Frank-authored section pad; never a second manuscript or canon |
 | `section-rooms/<room>/VISUALS.md` | Protected visual argument | Optional admitted diagram or plate programme |

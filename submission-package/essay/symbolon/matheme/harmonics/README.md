@@ -10,7 +10,7 @@ domain: harmonics
 
 Harmonics carries ratio as audible and cyclic order: interval, temperament, octave return, wheel of fifths, remainder and the formal relation between periodic movement and pitch. The `9/8` remainder and the relation of `16/9` to the octave belong here as worked mathematics before they become philosophical compression.
 
-Records distinguish acoustic fact, tuning construction, QL derivation and musical analogy. They show calculations and state which quantity remains invariant through a cycle. The heard and composed life of these relations belongs in [[submission-package/essay/symbolon/mytheme/music/README.md|Mytheme music]].
+Records distinguish acoustic fact, tuning construction, QL derivation and musical analogy. They show calculations and state which quantity remains invariant through a cycle. The heard and composed life of these relations belongs in [[symbolon/mytheme/music/README.md|Mytheme music]].
 
 ## Records
 
@@ -23,4 +23,4 @@ Records distinguish acoustic fact, tuning construction, QL derivation and musica
 - [Perfect six](perfect-six.md)
 - [Tetraktys and the 3–4–5 triangle](tetraktys-triangle.md)
 
-Return to [[submission-package/essay/symbolon/matheme/README.md|Matheme]].
+Return to [[symbolon/matheme/README.md|Matheme]].

@@ -1,4 +1,5 @@
 ---
+source_id: mathematics-development
 title: "Mathematics — Changed Permissions and Retained Conditions"
 record_type: history-development
 register: episteme

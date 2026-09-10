@@ -19,7 +19,7 @@ A counterfeit symbolon presents a form of gathering or return while suppressing 
 
 ## #1
 
-[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems]] **grounds** the healthy distinction/composition runtime. A cut makes an actual difference available. Retaining source and inverse reading permits that difference to join a wider relation without losing its determinate edge.
+[[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems]] **grounds** the healthy distinction/composition runtime. A cut makes an actual difference available. Retaining source and inverse reading permits that difference to join a wider relation without losing its determinate edge.
 
 [C23 — Severance](C23-Severance.md) **defines** the failure in which the produced term treats the constitutive relation as abolished. [C24 — Fusion](C24-Fusion.md) **defines** its opposite failure: the relation is kept only by erasing the terms' distinction. In one, independently grounded poles replace the seam; in the other, undifferentiated unity leaves no one and nothing able to answer across it.
 
@@ -37,15 +37,15 @@ The direct computational quilt gives a minimal case: a generated claim re-enters
 
 ## #4
 
-The [[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT#12. Deepfake, provenance, and the counterfeit symbolon|direct synthetic-media passage]] **sources** the fabricated slash as a concrete candidate. This body/this utterance, this event/this recording, this speaker/this voice: the presented half claims a counterpart which never stood behind it in that way. The further possibility that genuine records are refused as synthetic is a named empirical research question. Provenance mechanisms can support an account's return; they do not manufacture the persons and institutions standing surety for it.
+The [[quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT#12. Deepfake, provenance, and the counterfeit symbolon|direct synthetic-media passage]] **sources** the fabricated slash as a concrete candidate. This body/this utterance, this event/this recording, this speaker/this voice: the presented half claims a counterpart which never stood behind it in that way. The further possibility that genuine records are refused as synthetic is a named empirical research question. Provenance mechanisms can support an account's return; they do not manufacture the persons and institutions standing surety for it.
 
-[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE|Taylor — Symbolon Dynamics]] **grounds** the image/interpreter test. A living image changes the field in which it is understood. A counterfeit accepts change only as another occasion to reproduce its own organisation. A mythic name or a symbolic interface cannot settle which operation is occurring.
+[[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE|Taylor — Symbolon Dynamics]] **grounds** the image/interpreter test. A living image changes the field in which it is understood. A counterfeit accepts change only as another occasion to reproduce its own organisation. A mythic name or a symbolic interface cannot settle which operation is occurring.
 
 [A24 — Arbitration](../arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md) **extends** the test to an authorised measure. The office may need to decide, exclude and stabilise. Its authority becomes counterfeit when the consequences, affected field or alternative reading cannot bear on its criterion. Legitimate settlement retains a history and jurisdiction rather than claiming an origin beyond either.
 
 ## #5→0
 
-[[submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|Symbol / Account / Trust]] **grounds** the return: the account answers to a source it does not possess. Repair therefore depends on the actual failure. A severed term needs its constitutive relation restored; fusion needs distinction; a captive gathering needs the criterion made answerable; a protected account needs a viable route back to source and consequence.
+[[symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|Symbol / Account / Trust]] **grounds** the return: the account answers to a source it does not possess. Repair therefore depends on the actual failure. A severed term needs its constitutive relation restored; fusion needs distinction; a captive gathering needs the criterion made answerable; a protected account needs a viable route back to source and consequence.
 
 C22 **returns-to** C21. The result of correction is not compulsory agreement. It is a relation in which differentiation, commitment, refusal and revision can operate without any one product occupying the whole's place. A symbolon lives through its participants' capacity to change the relation that gathers them.
 

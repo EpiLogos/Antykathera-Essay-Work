@@ -1,5 +1,6 @@
 ---
 title: "§2 · #1 — Dia-Ballein"
+source_id: 20-s2-p1-dia-ballein
 node_type: section
 page_type: section-movement
 station: "§2"
@@ -13,23 +14,25 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §2 · #1 — Dia-Ballein
 
+<!-- reader-navigation -->
+Movement 20 of 48 · [This room](../ROOM.md) · [← Previous](19-s2-p0-difference-cannot-be-escaped.md) · [Next →](21-s2-p2-sym-ballein.md)
+<!-- /reader-navigation -->
+
 ## Movement thesis
 
-[[03-two-logics-and-sym-ballein|Dia-ballein]] writes classical polarity as signed opposition around an external zero:
+[Dia-ballein](../../../symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md) begins with the bare relation `/ = −/−`. Assigning signs gives its polar form:
 
 $$
-\operatorname{dia\text{-}ballein}:\frac{(+1)}{(-1)}.
+\operatorname{dia\text{-}ballein}:\frac{(-1)}{(+1)}.
 $$
 
-The form is exact. Addition cancels the poles, \((+1)+(-1)=0\); subtraction measures their full separation, \((+1)-(-1)=2\). This is the logic of classification, adversarial decision, accounting, proof by exclusion, dialectical pressure, and war. Its connective is OR; its dynamical operation is symmetry breaking.
+Zero is retained as the axis of tension and connection between the signed ones. The form supports orientation, comparison, classification, proof by exclusion, adversarial choice, accounting and trigonometry. Its disjunctive movement makes one branch actual within a field of alternatives.
 
 ## Structural reading and failure boundary
 
-Dia-ballein literally throws across or apart. The slash becomes a line of contest between terms treated as already determinate. Zero remains outside them as neutral origin or the result of mutual cancellation. This makes a clean line possible and gives modern science and computation enormous analytic power.
+Cancellation and appropriation are further operations. Replacing the relating stroke with addition gives `(-1)+(+1)=0`: the signed ones cancel. Subtraction gives `(-1)-(+1)=-2`, or `(+1)-(-1)=+2` in the inverse orientation: one pole takes the relation's full span as its own magnitude. Polarity, cancelled zero and appropriated span therefore remain distinct results. The measurable polarity already holds an axial relation; its collapse changes what the account retains.
 
-The shadow appears when the cut becomes the false fundamental. The opposed terms forget that both were produced by the same act of differentiation. Subject and object, self and other, true and false, human and machine then become self-grounding substances. Conflict can only terminate through victory, exclusion, or cancellation.
-
-This is the mental-rational historical achievement and its internal danger. It gains its analytic line by externalising zero into the neutral origin or cancelled remainder of `(+1)+(-1)=0`; it then takes the line's two terms as self-subsistent. The zero–subject braid names the later integral work precisely: not the abolition of difference, but the recovery of the constituting relation that the signed line had made unavailable.
+The shadow appears when the cut becomes the false fundamental. Subject and object, self and other, human and machine are then treated as self-grounding terms, and the activity that made them distinguishable disappears. The mental-rational achievement retains its analytic force. The zero–subject braid follows the further integral work by which the constituting relation becomes available within that achievement.
 
 The devil is the literalist of the minus sign: he reads zero as cancellation where Logos reads it as return.
 
@@ -71,7 +74,7 @@ The classificatory cut **returns-to** [Name-through-Count](../../../symbolon/epi
 
 The signed line retains its analytic power when the field it externalised becomes available for recomposition and return. [[21-s2-p2-sym-ballein|§2 · #2 — Sym-Ballein]] gives that conjugate combine, context, and return operation.
 
-The [Symbol / Account / Trust whole-field — Account does not replace source](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. The cut retains the common operation and field that produced its terms; a returned objection can reach the criterion which made the division. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
+The [Symbol / Account / Trust whole-field — Account does not replace source](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. The cut retains the common operation and field that produced its terms; a returned objection can reach the criterion which made the division. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
 
 Greek accusation and Taylor’s accounting of severance retain separate philological and operational warrants; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-address) **qualifies** this historical attribution.
 

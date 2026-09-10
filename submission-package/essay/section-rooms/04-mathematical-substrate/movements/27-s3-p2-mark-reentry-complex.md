@@ -1,5 +1,6 @@
 ---
 title: "§3 · #2 — Mark, Re-entry, and Complex Orientation"
+source_id: 27-s3-p2-mark-reentry-complex
 node_type: section
 page_type: section-movement
 station: "§3"
@@ -12,15 +13,19 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §3 · #2 — Mark, Re-entry, and Complex Orientation
 
+<!-- reader-navigation -->
+Movement 27 of 48 · [This room](../ROOM.md) · [← Previous](26-s3-p1-spanda-4-2.md) · [Next →](28-s3-p3-projective-dimensional-reframing.md)
+<!-- /reader-navigation -->
+
 ## Movement thesis
 
-[[spencer-brown-1969-laws-form|Spencer-Brown]] begins with the injunction to draw a distinction. The mark creates inside and outside together; calling and crossing specify how marks condense or cancel. A distinction is therefore already an operation, not a static pair of values.
+[[symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE|Spencer-Brown]] begins with the injunction to draw a distinction. The mark creates inside and outside together; calling and crossing specify how marks condense or cancel. A distinction is therefore already an operation, not a static pair of values.
 
-The essay’s Argued temporal reading treats a re-entering mark as carrying its prior crossing into the next state as memory. [[varela-1975-calculus-self-reference|Varela]] formally introduces an [autonomous third state](../../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md#varela-1975-calculus-self-reference-q001). His [temporal and systemic interpretations](../../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md#varela-1975-calculus-self-reference-q002) leave frequency characterisation for further investigation. The [frequency-to-retention task](../../../symbolon/episteme/dossiers/formal-limit.md#frequency-retention-and-signed-dia-research) must specify what recurs, how frequency is measured, what retains the prior state and how that retention changes the next crossing. Varela’s calculus does not itself complete that authorial chain.
+The essay’s Argued temporal reading treats a re-entering mark as carrying its prior crossing into the next state as memory. [[symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE|Varela]] formally introduces an [autonomous third state](../../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md#varela-1975-calculus-self-reference-q001). His [temporal and systemic interpretations](../../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md#varela-1975-calculus-self-reference-q002) leave frequency characterisation for further investigation. The [frequency-to-retention task](../../../symbolon/episteme/dossiers/formal-limit.md#frequency-retention-and-signed-dia-research) must specify what recurs, how frequency is measured, what retains the prior state and how that retention changes the next crossing. Varela’s calculus does not itself complete that authorial chain.
 
 ## Iterant derivation
 
-[[submission-package/essay/symbolon/episteme/sources/quotes/kauffman-2014-iterants-fermions-dirac-arxiv|Kauffman’s iterants]] make the temporal seam algebraic. Take the alternating process
+[[symbolon/episteme/sources/mathematics-logic/kauffman/kauffman-2014-iterants-fermions-dirac-arxiv/SOURCE|Kauffman’s iterants]] make the temporal seam algebraic. Take the alternating process
 
 $$
 [+1,-1,+1,-1,\ldots]
@@ -46,7 +51,7 @@ This is the mathematical bridge to quaternity without reducing Jung to geometry.
 
 ## Running true
 
-The [[bohm-krishnamurti-1975-05-18-dialogue|Bohm–Krishnamurti wheel and thread]] make this rotation philosophically visible. If `z=re^{iθ}`, rotation changes `θ` while preserving `|z|=r`. The point moves; the relation “runs true.” Modulus is not a definition of truth. The image gives the exact transition required here: fidelity can be invariant relation through transformation rather than stasis at one coordinate.
+The [[symbolon/episteme/sources/process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/SOURCE|Bohm–Krishnamurti wheel and thread]] make this rotation philosophically visible. If `z=re^{iθ}`, rotation changes `θ` while preserving `|z|=r`. The point moves; the relation “runs true.” Modulus is not a definition of truth. The image gives the exact transition required here: fidelity can be invariant relation through transformation rather than stasis at one coordinate.
 
 ## Argumentative consequence
 

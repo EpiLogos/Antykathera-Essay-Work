@@ -25,4 +25,4 @@ The direct Symbolon records state the whole relation. QL records supply their fo
 - [X/x native QL derivation](x-x.md)
 - [Complex orientation / phase / modulus](complex-orientation.md)
 
-Return to [[submission-package/essay/symbolon/matheme/README.md|Matheme]] or [[submission-package/essay/symbolon/README.md|Symbolon]].
+Return to [[symbolon/matheme/README.md|Matheme]] or [[symbolon/README.md|Symbolon]].

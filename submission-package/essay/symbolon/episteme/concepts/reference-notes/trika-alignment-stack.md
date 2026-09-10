@@ -2,6 +2,7 @@
 title: "Trika Alignment Stack"
 aliases:
   - "Trika Alignment Stack"
+source_id: trika-alignment-stack
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

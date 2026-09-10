@@ -2,6 +2,7 @@
 title: "Riemann Sphere"
 aliases:
   - "Riemann Sphere"
+source_id: riemann-sphere
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

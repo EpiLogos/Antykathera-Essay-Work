@@ -4,6 +4,7 @@ aliases:
   - Arche-Topos — Topology and Music
   - Arche-Topos as Differential Field
   - arche-topos
+source_id: 04-arche-topos-topology-music
 node_type: claim
 page_type: argument-map
 argument_level: core
@@ -58,8 +59,12 @@ tags:
   - argument-map/psychoid
   - argument-map/core
   - argument-map/synthesis
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Arche-Topos as Differential Field
+
+**Historical carrier.** The developed successor is [A16](../../symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claim
 
@@ -70,7 +75,7 @@ The arche-topos is the differential field generated when the complexio oppositor
 ## One field, read through four registers
 
 1. **Logical:** [[Sym-Ballein]] retains the seam; dia-ballein projects the same relation into signed opposition and symmetry breaking.
-2. **Epistemic:** [[submission-package/essay/symbolon/episteme/concepts/apoha|Apoha]] is the arche-topos seen from the side of conceptual determination. A mark becomes itself by excluding what it is not, while that excluded field remains constitutive of its identity.
+2. **Epistemic:** [[symbolon/episteme/concepts/apoha|Apoha]] is the arche-topos seen from the side of conceptual determination. A mark becomes itself by excluding what it is not, while that excluded field remains constitutive of its identity.
 3. **Tattvic:** [[Tattvic Differential Field]] is the same differentiating activity read as manifestation. Śiva–Śakti, Sadāśiva–Īśvara, Sadvidyā–Māyā, the kañcukas, and antaḥkaraṇa trace how a non-dual field becomes the objective internality of a bounded knower without becoming a second substance.
 4. **Psychoid:** Jung's complexio oppositorum, Pauli and von Franz's archetypal number, yogic maps of mind, and the displaced archives of parapsychological and psychedelic experience point to patterned determinants below the conventional psyche/matter and sense-modal divisions. The exact notebook leads and the boundary between reported source and Frank's extension are indexed in [[Source Extraction — Core Theorems and Epi Paper Write-ups#B. Jung–Pauli notebook extraction — psychoid number and mirror relation]]. [[Bache — LSD and the Mind of the Universe (2019)]] belongs here as a disciplined first-person archive of repeated psychedelic encounters with collective, archetypal, and purportedly cosmic strata. It supplies evidence about the experiential region organised by the QL equations; formal support for those equations comes from their own derivation.
 
@@ -102,7 +107,7 @@ Its fundamental group `π₁(T²)=ℤ×ℤ` records the two winding directions. 
 
 At the QL register this is also an `∞/0` relation with a strict topological carrier. Here `ℝ²/ℤ²` denotes a quotient by an equivalence relation; the slash does different work from arithmetic division by zero. The quotient joins the infinite cover to a compact surface with zero Euler characteristic, `χ(T²)=0`, while every point of that zero-characteristic surface retains infinitely many lifted representatives. Infinity is given a finite address through zero-characteristic return; neither term is cancelled into the other.
 
-The topological hole and the musical `9/8` remainder are mathematically distinct objects whose native operations express the same arche-topological law: completion occurs through retained difference. The exact local identities are carried by [[Taylor — QL Musical Derivation v3 (2026)|musical resolution of the arche-topos]] and the [[working/sources-texts-references/10-7-2026-core-theorems-pithy|Core QL Theorems]]; the cross-register relation is argued through the role each remainder performs.
+The topological hole and the musical `9/8` remainder are mathematically distinct objects whose native operations express the same arche-topological law: completion occurs through retained difference. The exact local identities are carried by [[Taylor — QL Musical Derivation v3 (2026)|musical resolution of the arche-topos]] and the [Core QL Theorems](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md); the cross-register relation is argued through the role each remainder performs.
 
 ## Claim discipline
 
@@ -114,4 +119,4 @@ Depends on: [[Core Theorem Bridge]] · [[Sym-Ballein]] · [[Computational Proces
 
 Supports: [[Objective Internality]] · [[Prakāśa-Vimarśa]] · [[11-mono-poly-whole-and-many|Mono-Poly]]
 
-Links: [[Taylor — QL Musical Derivation v3 (2026)|musical resolution of the arche-topos]] · cymatics and standing waves · [[submission-package/essay/symbolon/episteme/concepts/psychoid-number|psychoid number]] · [[Paradox as Cross-Register Hinge|hole, whole, holy, and health]]
+Links: [[Taylor — QL Musical Derivation v3 (2026)|musical resolution of the arche-topos]] · cymatics and standing waves · [[symbolon/episteme/concepts/psychoid-number|psychoid number]] · [[Paradox as Cross-Register Hinge|hole, whole, holy, and health]]

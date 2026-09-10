@@ -3,6 +3,7 @@ title: "4-2 Techne — Sovereign Commons"
 aliases:
   - "4-2 Techne — Sovereign Commons"
   - "4:2 Technē"
+source_id: 4-2-techne-sovereign-commons
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

@@ -1,5 +1,6 @@
 ---
 title: "§5 · #3 — Preference Models and the Hidden Zero"
+source_id: 40-s5-p3-preference-hidden-zero
 node_type: section
 page_type: section-movement
 station: "§5"
@@ -13,6 +14,10 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §5 · #3 — Preference Models and the Hidden Zero
 
+<!-- reader-navigation -->
+Movement 40 of 48 · [This room](../ROOM.md) · [← Previous](39-s5-p2-j-space.md) · [Next →](41-s5-p4-bimba-energy-fields.md)
+<!-- /reader-navigation -->
+
 ## Claim
 The neutral baseline in alignment is already occupied by [datasets, comparison sets, reference policies, evaluators, institutions, and gauges](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#criterion-through-distinction).
 
@@ -25,7 +30,7 @@ Within this movement, **hidden zero** names suppressed conditioning inside a fin
 
 QL/MEF should expose these grounds as part of the decision object: [whose preference, under what comparison set, with which reference policy, and at what cost to excluded possibilities](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#preference-training-and-delegation)?
 
-The [[Tattvic Differential Field]] supplies the wider phenomenological metacontext for this technical problem. Within the essay, finite worldhood is already differentiated through conditions of agency, knowledge, desire, time, order, limitation, discrimination, appropriation, and memory. Preference modelling therefore becomes one technical site at which conditioned determination can be inspected; it is not an identification of reward modelling with the tattvas. The question carried forward is which conditions make a world available to an agent, which possibilities they suppress, and whether those conditions remain visible enough to be revised through Return.
+The [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]] supplies the wider phenomenological metacontext for this technical problem. Within the essay, finite worldhood is already differentiated through conditions of agency, knowledge, desire, time, order, limitation, discrimination, appropriation, and memory. Preference modelling therefore becomes one technical site at which conditioned determination can be inspected; it is not an identification of reward modelling with the tattvas. The question carried forward is which conditions make a world available to an agent, which possibilities they suppress, and whether those conditions remain visible enough to be revised through Return.
 
 The double-net distinction gives the technical image its full charge. A contextual field remains Indra-like when its grounds, relations, and returns remain constitutive and answerable across the field. It becomes Hephaestian when an owner, protocol, or audience occupies the hidden zero, turning participants into exposed and ranked terms inside a web they cannot contest or return through.
 
@@ -41,13 +46,13 @@ Exposing a gauge makes value conflict attributable and revisable: participants c
 [E3’s credere renewed entrustment](../../../symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#credere-renewed-entrustment) brings the preference movement back to the bearer of an undertaking: prior reliance and renewed entrustment cannot be settled by transparency alone. A disclosed preference still has consequences for someone whose authority to answer must survive the evaluation. The technical account therefore returns to that commission instead of making its confidence score the measure of trust.
 
 [E2’s con text through diaphaneity](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity) carries preference’s concealed conditions back to the criterion that selected and evaluated the answer. Increased observability can expose those conditions while leaving the evaluator protected. Regard becomes consequential when what is disclosed can revise the criterion and its commission; a finite hidden condition is not thereby identified with metaphysical Zero.
-**Mathematical anchor:** preference values identifiable through comparative relations and reference frames. **Political image:** the hidden zero as invisible governor. [[Mono-Poly: Whole and Many]] asks how dependencies remain shared without a metric claiming the whole; [[Trust, Faith, and the Formal Limit]] asks whether the relation to those dependencies has become honest enough for trust to be risked. A plural alternative is modelled in [[41-s5-p4-bimba-energy-fields|§5 · #4 — Bimba and Energy-Based Fields]].
+**Mathematical anchor:** preference values identifiable through comparative relations and reference frames. **Political image:** the hidden zero as invisible governor. [[symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many|Mono-Poly: Whole and Many]] asks how dependencies remain shared without a metric claiming the whole; [[symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust, Faith, and the Formal Limit]] asks whether the relation to those dependencies has become honest enough for trust to be risked. A plural alternative is modelled in [[41-s5-p4-bimba-energy-fields|§5 · #4 — Bimba and Energy-Based Fields]].
 
 The [myth historical development](../../../symbolon/episteme/histories/encounters-and-transmissions/myth/DEVELOPMENT.md#2--the-apparatus-enters-philology-then-a-philosophy-of-technology) **qualifies** the apparatus comparison through distinct craft, shame, legal-surety and enframing receptions. A source’s acquisition debt changes attribution readiness; the Argued distinction between inspectable score and answerable undertaking remains intact.
 
 
 
-The [Symbol / Account / Trust whole-field — Trust keeps the return route active](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active) **qualifies** this operation at evidence register 3. Exposing the evaluator’s conditions makes the score inspectable; a named undertaking still bears the consequence of relying upon it. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
+The [Symbol / Account / Trust whole-field — Trust keeps the return route active](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#trust-keeps-the-return-route-active) **qualifies** this operation at evidence register 3. Exposing the evaluator’s conditions makes the score inspectable; a named undertaking still bears the consequence of relying upon it. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
 
 The disputed preference **returns-to** [Apportionment / Economy whole — Measure is an apportioned criterion](../../../symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md#measure-is-an-apportioned-criterion) at evidence register 3. A disputed preference can require revision of the criterion or the office selecting it. A new score under an unchanged criterion does not discharge that return.
 

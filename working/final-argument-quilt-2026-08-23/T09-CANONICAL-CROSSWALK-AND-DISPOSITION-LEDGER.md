@@ -241,3 +241,30 @@ means earned relational determinations generated between conjugate forms; it is 
 ## T09 stop boundary
 
 Movement IDs are recorded only as consumers/backlink identities. No section room or Movement prose is propagated by this ledger. T10–T14 remain unentered. Every A/C page ends this wave with an unresolved-delta section and `Depth Restoration: pending` unless later restoration is separately proven.
+## Correction 2026-09-08 — historical carriers 01–21: content-verified successors
+
+The "Historical Argument 01–21" table above is internally scrambled: its row numbers do not match the contents of the files in `submission-package/essay/section-rooms/arguments/`. The successors below were rebuilt by content against the A/C tables of `ARGUMENT-CONCEPT-ETYMOLOGY-RECENSUS.md` and the explicit dispositions in `MYTHEME-AND-DEEP-SOURCE-SEAMS.md`, `OUGHT-BE-ARGUMENT-ARCHITECTURE.md` and the 2026-09-06 ratification; Frank decided the five open cases the same day. The carriers remain in place as provenance, typed `legacy-argument` in `tools/okf-workspace.py` and resolved after every canonical page; each carrier's title and aliases are now aliases of its successor, so bare-title links reach the canonical page in both the workspace tool and Obsidian. Full evidence: `working/p2-enrichment/receipts/T23-carrier-successor-map-2026-09-08.md`.
+
+| Carrier | Successor | Decision |
+|---|---|---|
+| 01 | A03 | clean |
+| 02 | A26 | clean |
+| 03 | A13 | Frank 2026-09-08: carry unique richness; superposition/formal neighbours, attractor-space analogia, mass-formation sourcing and the seam diagnostic carried into A13 #5→0 |
+| 04 | A16 | clean |
+| 05 | A26 | Frank 2026-09-08: no Concept node; the five-question separation and the "humanity of the gaps" boundary carried into A26 |
+| 06 | A32 (AHI); C43 (Computational Vimarśa) | Frank 2026-09-08: split confirmed |
+| 07 | none — Mytheme (Ares–Aphrodite–Hephaestus–Poseidon whole) | explicit; carrier untouched |
+| 08 | A31 | clean |
+| 09 | A05 | clean; Trika/Kartṛ-Pole/Kārya/Śiva-Śakti aliases follow |
+| 10 | A06 | clean |
+| 11 | A12 | clean |
+| 12 | none — navigation, "not an Argument" | explicit; carrier untouched |
+| 13 | A09; Antaḥkaraṇa → C16; Pratyabhijñā → C19 | clean, bundle split |
+| 14 | A14 | clean |
+| 15 | C64 | clean |
+| 16 | Bohm dossier (`episteme/dossiers/bohm.md`); running-true carrier already in `matheme/ql/complex-orientation.md` | Frank 2026-09-08: fold into field contents; the dossier is the whole Bohmian record |
+| 17 | A17 | clean |
+| 18 | A23 | clean |
+| 19 | A11 | clean |
+| 20 | A10 (A34/A36 secondary) | Frank 2026-09-08: confirmed |
+| 21 | none — Mytheme (The Prisoner whole) | explicit; carrier untouched |

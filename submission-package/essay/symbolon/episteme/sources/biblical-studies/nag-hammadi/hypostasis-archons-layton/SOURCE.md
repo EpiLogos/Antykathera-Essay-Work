@@ -35,7 +35,7 @@ The complete translation, opening inquiry through closing hymn, was read on 8 Se
 
 **Locator:** Opening apostolic inquiry through garden prohibition, in the linked online translation.
 
-**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#25-adam-eve-and-the-rulers-attempt-to-possess-life).
+**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](../../../../../mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#25-adam-eve-and-the-rulers-attempt-to-possess-life).
 
 <a id="hypostasis-archons-layton-q002"></a>
 ### Woman, shadow and instruction
@@ -44,7 +44,7 @@ The complete translation, opening inquiry through closing hymn, was read on 8 Se
 
 **Locator:** Sleep episode through expulsion and imposed toil, in the linked online translation.
 
-**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#25-adam-eve-and-the-rulers-attempt-to-possess-life).
+**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](../../../../../mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#25-adam-eve-and-the-rulers-attempt-to-possess-life).
 
 <a id="hypostasis-archons-layton-q003"></a>
 ### Family and flood
@@ -53,7 +53,7 @@ The complete translation, opening inquiry through closing hymn, was read on 8 Se
 
 **Locator:** Cain and Abel through Noah rebuilding the ark, in the linked online translation.
 
-**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#26-norea--flood--refusal-of-the-rulers).
+**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](../../../../../mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#26-norea--flood--refusal-of-the-rulers).
 
 <a id="hypostasis-archons-layton-q004"></a>
 ### Norea and Eleleth
@@ -62,7 +62,7 @@ The complete translation, opening inquiry through closing hymn, was read on 8 Se
 
 **Locator:** Rulers approaching Norea through her question about their origin, in the linked online translation.
 
-**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#27-eleleth--rescue--revelation-of-the-root).
+**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](../../../../../mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#27-eleleth--rescue--revelation-of-the-root).
 
 <a id="hypostasis-archons-layton-q005"></a>
 ### Retrospective cosmology
@@ -71,7 +71,7 @@ The complete translation, opening inquiry through closing hymn, was read on 8 Se
 
 **Locator:** Eleleth on Sophia through the completed pattern of the rulers, in the linked online translation.
 
-**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#22-pistis-sophia--veil--shadow--matter--lower-ruler).
+**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](../../../../../mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#22-pistis-sophia--veil--shadow--matter--lower-ruler).
 
 <a id="hypostasis-archons-layton-q006"></a>
 ### Promised ending
@@ -80,7 +80,7 @@ The complete translation, opening inquiry through closing hymn, was read on 8 Se
 
 **Locator:** Norea asking about her material origin through closing hymn, in the linked online translation.
 
-**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](submission-package/essay/symbolon/mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#hypostasis-norea-root-return).
+**Verification:** complete episode read in complete telling; paraphrase-ready, 2026-09-08. **Consumer:** [whole, corresponding movement](../../../../../mytheme/worlds/late-antique-gnostic/hypostasis-archons-norea-sophia/WHOLE.md#hypostasis-norea-root-return).
 
 ## Use and remaining control
 

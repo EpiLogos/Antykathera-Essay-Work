@@ -34,6 +34,8 @@ passage_surface: '#passages'
 ---
 # Wittgenstein — Philosophical Investigations (1953)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Bibliographic identity
 
 Work identified; select the German-English edition and translators actually consulted before citation.

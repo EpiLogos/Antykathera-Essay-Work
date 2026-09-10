@@ -4,6 +4,7 @@ aliases:
   - "Christopher M. Bache — LSD and the Mind of the Universe"
   - "LSD and the Mind of the Universe"
   - "Bache — LSD and the Mind of the Universe"
+source_id: christopher-bache-lsd-and-the-mind-of-the-universe
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

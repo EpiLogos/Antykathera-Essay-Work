@@ -3,6 +3,7 @@ title: "Musical Resolution of the Arche-Topos"
 aliases:
   - "Musical Resolution of the Arche-Topos"
   - "music as resolving register"
+source_id: musical-resolution-of-arche-topos
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

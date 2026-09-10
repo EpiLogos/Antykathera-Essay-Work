@@ -1,18 +1,18 @@
 # The Return of Zero
 
-> **Start here:** [The Return of Zero — Current Plain-English Full Flow](2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md)
+> **Start here:** [Read The Return of Zero](submission-package/essay/README.md). The developed field is at the T23/T24 pre-manuscript review; the manuscript awaits composition.
 
 This repository is the working philosophical, scholarly, and publication field for *The Return of Zero*. The essay moves from immediate experience and the formal limit of the subject, through zero and the two logics of distinction, into QL's mathematical, musical, topological, psychic, and technical body. It returns through trust, Tao, Agentworld, and the sovereign commons as a practical account of how a determinate form can remain answerable to the ground, relations, and worlds which made it possible.
 
-The linked plain-English flow is the best current way to understand the complete argument. It already includes the corrected formal grammar and the latest harmonisation. The finished manuscript has not yet been drafted, and the granular canon has not yet received the quilt's accepted changes.
+The publication entrance offers the 48-movement reading sequence and the developed field. The dated plain-English flow and harmonised quilt preserve the preparation that preceded canonical propagation; the central plan and admitted records carry the current argument.
 
 ## A clear reading route
 
-1. Read the [plain-English full flow](2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md) for the whole argument in one continuous movement.
-2. Open the [parallel harmonised quilt](2026-08-02-PARALLEL-HARMONISED-QUILT.md) for the complete pre-propagation ledger: all 48 movement landings, source offices, word-fields, technical architecture, open gates, and composition decisions.
-3. Use the [central plan](the-return-of-zero-central-plan.md) for the live structural authority and the [core theorem](working/sources-texts-references/10-7-2026-core-theorems-pithy.md) for the native QL derivation.
-4. Follow the [argument field](submission-package/essay/section-rooms/arguments/), [section movements](submission-package/essay/section-rooms/), [concept nodes](symbolon/episteme/concepts/), and [transverse paths](symbolon/episteme/maps/) when you want the granular form of a claim.
-5. Enter the [source bank](submission-package/essay/symbolon/episteme/sources/README.md) when a thinker, text, quotation, historical statement, or source relation needs its exact scholarly home.
+1. Begin at the [reader entrance](submission-package/essay/README.md), choosing the movement sequence or a question to follow into depth.
+2. Use the [central plan](the-return-of-zero-central-plan.md) for the live structural authority and the [core theorem spine](working/sources-texts-references/10-7-2026-core-theorems-pithy.md) for the native derivation.
+3. Open the [shared canonical field](submission-package/essay/symbolon/episteme/arguments/README.md), its [Concepts](submission-package/essay/symbolon/episteme/concepts/CANONICAL-INDEX.md), or the [declared paths](submission-package/essay/symbolon/episteme/maps/README.md) when a claim calls for depth. The [rooms](submission-package/essay/section-rooms/README.md) keep its movement-level place.
+4. Enter the [source houses](submission-package/essay/symbolon/episteme/sources/README.md) for exact passages, attribution, standing and unresolved source work.
+5. Consult the dated [plain-English flow](submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md) and [harmonised quilt](submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md) as development provenance, alongside the later accepted census and canonical records.
 
 ## Video, 3D, and Epi-Card production
 
@@ -32,27 +32,20 @@ The same operation becomes mathematical ratio, self-reference, oscillation, comp
 
 The final movement joins trust, Mono/Poly, Taoist reversal, Gebserian diaphaneity, Bohmian dialogue, Heidegger's technology question, Aristotle's relational and causal governance, and Whitehead's objective immortality. Epi-Logos becomes the practice of harmonising differentiated forms of knowledge within a shared inquiry. The sovereign commons gives that practice a political and technical body. The achieved one returns to zero and becomes a condition for new creation.
 
-## Current state: pre-propagation quilt
+## Current state: developed field, pre-manuscript review
 
-The repository is in the **pre-propagation quilt phase** on `main`.
+T20 and T21 are accepted. T23 navigation is under audit alongside T24 on `main`. The shared canonical field contains C01–C64, A01–A36, A01′–A36′ and A/C; the 21 earlier argument carriers are historical provenance. The [accepted development receipt](working/p2-enrichment/receipts/T20-T21-COMPLETION-2026-09-08.md) records the completed scope.
 
-- The [plain-English full flow](2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md) gives the corrected whole argument in essence.
-- The [harmonised quilt](2026-08-02-PARALLEL-HARMONISED-QUILT.md) gives the detailed prospective whole and the target-by-target change ledger.
-- The [central plan](the-return-of-zero-central-plan.md) and granular nodes remain canonical. Some still carry formulations which the quilt has marked for correction.
-- The next act is a full review of the 48 movements for order, focus, carrier weight, source depth, recurrence, and hand-off.
-- Accepted changes will land in the plan first, then propagate through arguments, concepts, paths, and sections. Generated rooms and projections will be rebuilt after the canonical changes.
-- [THE-RETURN-OF-ZERO.md](THE-RETURN-OF-ZERO.md) remains the sovereign manuscript file and is currently a skeleton. Drafting begins only after the propagation and source gates are complete.
-
-The distinction matters. The plain-English document is current enough to share and discuss as the full argument. The quilt is detailed enough to guide the coming work. Neither silently overrides the granular canon before review.
+The [T24 audit](working/p2-enrichment/receipts/T24-whole-before-writing-2026-09-09.md) records the independent checks, repairs and remaining gate conditions. The [sovereign manuscript](submission-package/essay/THE-RETURN-OF-ZERO.md) awaits composition. Dated preparation remains available without replacing the developed field or its source standing.
 
 ## Repository map
 
 | Surface | Purpose |
 |---|---|
 | [`submission-package/essay/`](submission-package/essay/README.md) | **The one publication body** in the 4+2 sixfold: rooms `#0` (movements + arguments), the field `#1`–`#4` (Symbolon, Matheme, Mytheme, Episteme), and the sovereign essay `#5`. |
-| [`submission-package/essay/section-rooms/`](submission-package/essay/section-rooms/) | The rooms (`#0`): each room holds its six movements (`movements/`) with the shared argument field (`arguments/`) as the nested 0/1 of the essay's structured potential. |
+| [`submission-package/essay/section-rooms/`](submission-package/essay/section-rooms/) | The rooms (`#0`): each room holds its six movements (`movements/`) drawing on the canonical 137-record field in Episteme through each room’s P1 alignment; `arguments/` retains the 21 historical carriers. |
 | [`submission-package/essay/symbolon/`](submission-package/essay/symbolon/README.md) | The field (`#1`–`#4`): Symbolon root relations, Matheme, Mytheme, and Episteme. Concept nodes live in `episteme/concepts/`, paths in `episteme/maps/`. |
-| [`submission-package/essay/symbolon/episteme/sources/`](submission-package/essay/symbolon/episteme/sources/README.md) | 124 canonical source houses and the passage, citation, provenance, acquisition, and consumption system. |
+| [`submission-package/essay/symbolon/episteme/sources/`](submission-package/essay/symbolon/episteme/sources/README.md) | 180 canonical source houses and the passage, citation, provenance, acquisition, and consumption system. |
 | [`working/`](working/) | Non-publication development surfaces: ledgers, raw authorial shelves, working drafts, frozen legacy. |
 | [Epi-Card QL Conjugate System](submission-package/epi-card-system-v1/README.md) | Active parallel video, 3D, symbolic-media, card, and rendering lane. |
 | [`submission-package/`](submission-package/README.md) | Submission manifests, companion materials, Epi-Card integration, and retained design provenance. |
@@ -78,7 +71,7 @@ Claim force and source readiness are also separate. A position can be internally
 
 ## For collaborators
 
-For a conceptual response, link to the exact passage in the [plain-English flow](2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md) or the relevant granular node. For a structural response, use the [central plan](the-return-of-zero-central-plan.md) and name the movement which would change. For a source response, use the canonical source house and distinguish quotation, paraphrase, argument from, and resonance.
+For a conceptual response, link to the exact passage in the [plain-English flow](submission-package/essay/quilt/2026-08-03-PLAIN-ENGLISH-FULL-FLOW.md) or the relevant granular node. For a structural response, use the [central plan](the-return-of-zero-central-plan.md) and name the movement which would change. For a source response, use the canonical source house and distinguish quotation, paraphrase, argument from, and resonance.
 
 The immediate collaboration task is the granular review. The question for each movement is simple: what becomes true here, what action does the movement perform, what does it inherit, which carriers genuinely do distinct work, and what capacity does it hand to the next movement?
 

@@ -3,6 +3,7 @@ title: "Sym-Ballein"
 aliases:
   - "Sym-Ballein"
   - "Two Logics of Two"
+source_id: 03-two-logics-and-sym-ballein
 node_type: "synthesis"
 page_type: "argument-map"
 argument_level: "core"
@@ -39,8 +40,12 @@ tags:
   - argument-map/synthesis
   - argument-map/trust
   - argument-map/mono-poly
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Sym-Ballein
+
+**Historical carrier.** The developed successor is [A13](../../symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claim
 

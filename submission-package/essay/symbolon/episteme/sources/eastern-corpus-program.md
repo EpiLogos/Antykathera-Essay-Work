@@ -1,5 +1,6 @@
 ---
 title: "Eastern Corpus Program — Return of Zero"
+source_id: eastern-corpus-program
 page_type: research-program
 status: active
 updated: "2026-07-14"
@@ -12,10 +13,10 @@ This is an acquisition and passage-verification program, not a tradition-shaped 
 
 ## First verified nucleus
 
-- [[Dyczkowski — Doctrine of Vibration (2000)]] — scholarly guide and four source-matched passage leads from pp. 62, 69, 74, and 81.
-- [[Abhinavagupta — Parātrīśikā-vivaraṇa (Singh, 1988)]] — current primary-text translation pathway; the notebook excerpts are still source-matched.
-- [[Flasch — Meister Eckhart: Philosopher of Christianity (2015)]] — the historical-philosophical Eckhart record, spanning Latin works, Johannine *verbum*, and German-sermon material.
-- [[Jung — Aion, CW 9.2 (1978 corrected printing)]] and [[Jung and Pauli — Atom and Archetype (Meier, 2001)]] — stable selected editions; both await lawful, page-specific passage verification.
+- [[symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE|Dyczkowski — Doctrine of Vibration (2000)]] — scholarly guide and four source-matched passage leads from pp. 62, 69, 74, and 81.
+- [[symbolon/episteme/sources/indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE|Abhinavagupta — Parātrīśikā-vivaraṇa (Singh, 1988)]] — current primary-text translation pathway; the notebook excerpts are still source-matched.
+- [[symbolon/episteme/sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE|Flasch — Meister Eckhart: Philosopher of Christianity (2015)]] — the historical-philosophical Eckhart record, spanning Latin works, Johannine *verbum*, and German-sermon material.
+- [[symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE|Jung — Aion, CW 9.2 (1978 corrected printing)]] and [[symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE|Jung and Pauli — Atom and Archetype (Meier, 2001)]] — stable selected editions; both await lawful, page-specific passage verification.
 
 ## Priority acquisition order
 

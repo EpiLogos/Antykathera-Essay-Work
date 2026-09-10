@@ -69,7 +69,7 @@ This summary is a paraphrase-level description transmitted through the Watson ho
 
 ### Source's relevant contribution
 
-The love/face/responsibility register the conjugate root's A face draws: the face-to-face as the interruption of the economy of need; Desire as a movement that possession does not satisfy; responsibility as asymmetrical and prior. The root's facticity → dignity → love sharpening names this register as an **external refractor** of a claim the essay already argues on its own ground ([[Compassion]]'s non-devouring return; the non-possessive relation of the [[Reflective Field]]'s initiated return); the Watson house's earlier mapping — placing the face-to-face at the `AM/IS` determination, where first-person presence and third-person sayability meet through a second-person slash — remains the standing cross-register proposal.
+The love/face/responsibility register the conjugate root's A face draws: the face-to-face as the interruption of the economy of need; Desire as a movement that possession does not satisfy; responsibility as asymmetrical and prior. The root's facticity → dignity → love sharpening names this register as an **external refractor** of a claim the essay already argues on its own ground ([A35 Compassion](../../../../arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md)'s non-devouring return; the non-possessive relation of the [A32 Reflective Field](../../../../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md)'s initiated return); the Watson house's earlier mapping — placing the face-to-face at the `AM/IS` determination, where first-person presence and third-person sayability meet through a second-person slash — remains the standing cross-register proposal.
 
 ### Licensed essay use
 

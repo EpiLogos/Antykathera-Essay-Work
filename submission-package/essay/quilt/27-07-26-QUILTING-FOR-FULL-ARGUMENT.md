@@ -1,3 +1,7 @@
+---
+source_id: 27-07-26-quilting-for-full-argument
+---
+
 # Quilting for Full Argument — Multi-Session Contribution Ledger
 
 This file gathers the full argumentative yield of separate working sessions before any blanket harmonisation of the essay. Its purpose is additive before it is synthetic: each session contributes a fully marked block, preserving its provenance, inherited positions, new developments, source relations, unresolved questions, and anticipated consequences. The later harmonisation pass can then discover the actual convergences and tensions among the blocks instead of forcing them into agreement in advance.
@@ -4117,7 +4121,7 @@ The canonical evidence debts remain local. Kaplan's exact use of the `0/1` and `
 
 ### 14. Likely canonical blast radius — recorded, not propagated
 
-The primary consumer is the full-argument harmonisation pass itself. Within the existing architecture, the correction bears upon [[The Advent of Zero, Subject, and Integral Logic]], [[The Two Ones — Mono–Poly Matheme]], [[Sym-Ballein]], [[Paradox as Cross-Register Hinge]], and [[Trust, Faith, and the Formal Limit]]. The zero–subject, mono–poly, and trust transverse paths require a shared crossing at the moment the numerical returns to ontology.
+The primary consumer is the full-argument harmonisation pass itself. Within the existing architecture, the correction bears upon [[symbolon/episteme/arguments/A10-Advent-of-Zero|The Advent of Zero, Subject, and Integral Logic]], [[symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All|The Two Ones — Mono–Poly Matheme]], [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]], [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]], and [[symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust, Faith, and the Formal Limit]]. The zero–subject, mono–poly, and trust transverse paths require a shared crossing at the moment the numerical returns to ontology.
 
 Sectionally, §1 should carry the historical descent from metaphysical and practical zero into mathematical exactness, ending at the formal pressure of `1/0`. §2 should show the mental-rational conversion into signed opposition and introduce trust as the hidden ground of the resulting certainty. §3 should state the earned integral notation across the eight determinations, with the calculus turn showing how exact local difference retains a constant or provenance it cannot reconstruct. §4 should carry the psychic parallel through unconscious, God-image, individuation, and the lived return from `x` toward `X`. §5 should make observability-without-trust a governing technical test. §5→0 should return human and machine intelligence through the complete relation and open directly into the Taoist final quilting.
 

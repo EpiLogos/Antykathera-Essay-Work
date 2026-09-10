@@ -3,6 +3,7 @@ title: "Trust, Faith, and the Formal Limit"
 aliases:
   - "Trust and the Formal Limit"
   - "The Trust Thread"
+source_id: 18-trust-faith-formal-limit
 node_type: "synthesis"
 page_type: "argument-map"
 argument_level: "primary"
@@ -26,8 +27,12 @@ tags:
   - argument-map/trust
   - argument-map/faith
   - argument-map/formal-limit
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Trust, Faith, and the Formal Limit
+
+**Historical carrier.** The developed successor is [A23](../../symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claim
 

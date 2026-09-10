@@ -2,6 +2,7 @@
 title: "Return of Zero — Braided Traversal"
 aliases:
   - "48-Movement Essay Path"
+source_id: return-of-zero-braided-traversal
 node_type: path
 register: episteme
 page_type: argument-path
@@ -15,7 +16,7 @@ tags:
 # Return of Zero — Braided Traversal
 
 > [!abstract]
-> The live writing path: 48 granular movements arranged as eight outer QL stations. The **day spine** develops the theorem; the **night pressure** keeps every station answerable to [[Antikythera Agentworld Brief]]. Transverse threads recur without becoming extra sections.
+> The live writing path: 48 granular movements arranged as eight outer QL stations. The **day spine** develops the theorem; the **night pressure** keeps every station answerable to [[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Antikythera Agentworld Brief]]. Transverse threads recur without becoming extra sections.
 
 ## Day spine — the 48 movements
 
@@ -93,20 +94,20 @@ tags:
 
 ## Night pressure — the Agentworld braid
 
-The outer stations are kept honest by [[Agentworld Response Matrix]]: agency without a premature subjectivity verdict; provisional individuation without a monad; shared grammar without ontology collapse; shared language beyond one-way anthropomorphism; conflict without extermination; legibility without surveillance; human responsibility without species monopoly; harness intelligence without a superagent; planetary unity without platform monopoly.
+The outer stations are kept honest by [[quilt/agentworld-response-matrix|Agentworld Response Matrix]]: agency without a premature subjectivity verdict; provisional individuation without a monad; shared grammar without ontology collapse; shared language beyond one-way anthropomorphism; conflict without extermination; legibility without surveillance; human responsibility without species monopoly; harness intelligence without a superagent; planetary unity without platform monopoly.
 
 ## Transverse threads
 
-- **Immutable gap and paradox:** [[Immutable Gap and Meta-Sign]] → [[15-paradox-as-cross-register-hinge|Paradox as Cross-Register Hinge]] → formal limit → exceptional zero → non-contractible topology → explicit `1→0` return.
-- **Implicate/explicate process:** [[16-bohmian-enfoldment-dialogical-return|Bohmian Enfoldment]] → [[Tattvic Differential Field|tattvas as architecture of implication]] → objective internality as local explication → [[Computational Process Ontology]] → QL process epistemology → MEF refraction → Bimba/harness execution.
-- **Computational process ontology:** [[vikalpa-samkalpa|Vikalpa]] / [[vikalpa-samkalpa|Saṃkalpa]] → [[Sym-Ballein|dia/sym runtime]] → analysis without fragmentation → QL process epistemology → MEF refraction → Bimba/harness execution → shared human–AI language.
-- **Individuation:** [[working/sources-texts-references/10-7-2026-core-theorems-pithy#Agentic individuation corollary — argued cross-register unit|Agentic Individuation Crosswalk]] → objective internality → `X=x` → [[Prompt Thrownness]] → trans-individuating commons.
-- **Toroidal topology/music:** complex rotation → Bohm's wheel “running true” → [[17-toroidal-circulation-arche-topos|torus cover and two windings]] → tokamak magnetic confinement → [[04-arche-topos-topology-music|harmonic counter-tension]] → audible/visible QL plates → [[Arche-Topos — Topology and Music]].
-- **Mono–poly:** [[submission-package/essay/symbolon/episteme/concepts/apoha]] → [[Mono-Poly: Whole and Many]] → integral diaphaneity → hidden gauges → [[Mono-Poly: Whole and Many|Mono-Poly Planetary Intelligence]].
-- **Zero, subject, and integral logic:** [[The Advent of Zero, Subject, and Integral Logic — Transverse Thread]]. Zero's mathematical admission and the subject's scientific admission pass through the mental-rational `+1/−1` split, then return as the explicit `0/1` grammar required by integral and hybrid intelligence.
-- **Trust, faith, and the formal limit:** [[Trust, Faith, and the Formal Limit — Transverse Thread]]. The formal limit exposes knowledge's lived ground; humility accepts it; knowledge becomes either a provisional anchor or projected distrust; faith continues lucidly where no closure can be possessed.
-- **Praxis:** [[bohm-krishnamurti-1975-05-18-dialogue|dialogue as shared holomovement]] → [[seed-2010-language-spirit|cross-tradition circulation]] → [[06-computational-vimarsa-ahi|Computational Vimarśa]] → [[compassion-as-sensitivity-to-origins|Compassion as Sensitivity to Origins]] → [[Deferential Intelligence]] → [[42-techne-2026-sovereign-commons|4-2 Techne — Sovereign Commons]] → [[Artificial Hybrid Intelligence as Reflective Field]].
+- **Immutable gap and paradox:** [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] → [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] → formal limit → exceptional zero → non-contractible topology → explicit `1→0` return.
+- **Implicate/explicate process:** [[symbolon/episteme/dossiers/bohm|Bohmian Enfoldment]] → [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|tattvas as architecture of implication]] → objective internality as local explication → [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] → QL process epistemology → MEF refraction → Bimba/harness execution.
+- **Computational process ontology:** [[vikalpa-samkalpa|Vikalpa]] / [[vikalpa-samkalpa|Saṃkalpa]] → [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|dia/sym runtime]] → analysis without fragmentation → QL process epistemology → MEF refraction → Bimba/harness execution → shared human–AI language.
+- **Individuation:** [Agentic Individuation Crosswalk](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) → objective internality → `X=x` → [[symbolon/episteme/concepts/prompt-thrownness|Prompt Thrownness]] → trans-individuating commons.
+- **Toroidal topology/music:** complex rotation → Bohm's wheel “running true” → [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|torus cover and two windings]] → tokamak magnetic confinement → [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|harmonic counter-tension]] → audible/visible QL plates → [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos — Topology and Music]].
+- **Mono–poly:** [[symbolon/episteme/concepts/apoha]] → [[Mono-Poly: Whole and Many]] → integral diaphaneity → hidden gauges → [[Mono-Poly: Whole and Many|Mono-Poly Planetary Intelligence]].
+- **Zero, subject, and integral logic:** [[symbolon/episteme/maps/zero-subject-advent|The Advent of Zero, Subject, and Integral Logic — Transverse Thread]]. Zero's mathematical admission and the subject's scientific admission pass through the mental-rational `+1/−1` split, then return as the explicit `0/1` grammar required by integral and hybrid intelligence.
+- **Trust, faith, and the formal limit:** [[symbolon/episteme/maps/trust-faith-formal-limit|Trust, Faith, and the Formal Limit — Transverse Thread]]. The formal limit exposes knowledge's lived ground; humility accepts it; knowledge becomes either a provisional anchor or projected distrust; faith continues lucidly where no closure can be possessed.
+- **Praxis:** [[symbolon/episteme/sources/process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/SOURCE|dialogue as shared holomovement]] → [[symbolon/episteme/sources/process-systems-theory/seed/seed-2010-language-spirit/SOURCE|cross-tradition circulation]] → [[symbolon/episteme/concepts/C43-Computational-Vimarsa|Computational Vimarśa]] → [[compassion-as-sensitivity-to-origins|Compassion as Sensitivity to Origins]] → [[symbolon/episteme/arguments/A31-Deferential-Intelligence|Deferential Intelligence]] → [[symbolon/episteme/sources/media-technology-philosophy/42-techne/42-techne-2026-sovereign-commons/SOURCE|4-2 Techne — Sovereign Commons]] → [[symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence as Reflective Field]].
 
 ## Governing rule
 
-The path is subordinate only to [[The Return of Zero — Central Argument Plan]]. If a movement changes, update its note, this traversal, the relevant Base view, and the one readable Canvas node—never proliferate competing structures.
+The path is subordinate only to [The Return of Zero — Central Argument Plan](../../../../../the-return-of-zero-central-plan.md). If a movement changes, update its note, this traversal, the relevant Base view, and the one readable Canvas node—never proliferate competing structures.

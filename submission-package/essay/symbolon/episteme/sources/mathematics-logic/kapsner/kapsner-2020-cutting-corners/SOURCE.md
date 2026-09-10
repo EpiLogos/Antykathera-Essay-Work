@@ -66,7 +66,7 @@ The gate-source: the friendliest available logician's objection to Priest, targe
 
 ### Licensed essay use
 
-- Cite in [[28-s3-p3-projective-dimensional-reframing]] as the sharpest internal objection to the five-valued construction, alongside the reception gates in [[priest-2018-fifth-corner]].
+- Cite in [[28-s3-p3-projective-dimensional-reframing]] as the sharpest internal objection to the five-valued construction, alongside the reception gates in [[symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE|priest-2018-fifth-corner]].
 - Use the objection's shape to display QL's difference: Kapsner rejects ineffability *as a value*; QL's ground-position #0 is not a truth-value at all but a generative precondition, so the objection does not reach it. Citing Kapsner shows the essay knows the construction's weak joint and does not stand on it.
 
 ### Claim boundary

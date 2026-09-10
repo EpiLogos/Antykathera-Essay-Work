@@ -69,7 +69,7 @@ This house is gated: no use of Priest's construction may pass into the essay wit
 - **Siderits (NDPR):** offers a rival presupposition-failure reading — all four lemmas are rejected because they share a false presupposition, and no non-classical logic is needed to say so. If Siderits is right, the fifth value is machinery without a job.
 - **Westerhoff (*Mind*):** the catuṣkoṭi is not uniform across contexts, so no single formal treatment can be the logic of the tetralemma; parsimony favors classical readings where they suffice; and a passage Priest attributes to Candrakīrti (p. 58) is in fact from the nineteenth-century Mipham — a dating error of some seven centuries that the essay must not reproduce.
 - **Green (*Journal of Buddhist Ethics*):** the tradition reads the tetralemma as refuting all positions, a reified "ineffable" included; hypostasizing ineffability as a value is exactly the move the texts warn against.
-- **Kapsner ("Cutting Corners," *Comparative Philosophy* 11.2, 2020; see [[kapsner-2020-cutting-corners]]):** the friendliest logician's objection — the fifth value specifically is rejected on internal grounds, and an alternative account without it is sketched.
+- **Kapsner ("Cutting Corners," *Comparative Philosophy* 11.2, 2020; see [[symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE|kapsner-2020-cutting-corners]]):** the friendliest logician's objection — the fifth value specifically is rejected on internal grounds, and an alternative account without it is sketched.
 
 The essay's use survives these gates for a stated reason: QL's #0 is a generative precondition, not a truth-value. Every published objection targets e's standing *as a value*; none touches a ground that was never a value in the first place. That is the exact joint at which the essay's reading and Priest's part company, and it must be stated wherever this house is cited.
 
@@ -105,11 +105,11 @@ Priest's construction is not settled history of the catuṣkoṭi; the reception
 
 - **Locator:** Part I, esp. ch. 2 "Quintum Non Datur"; pages pending.
 - **Status:** review-transcribed; book collation required.
-- **Verification:** Coordinator, 2026-07-18; construction confirmed across all three reviews and Priest's 2010 article ([[priest-2010-logic-catuskoti]] q003 carries the wording-verified formal statement).
+- **Verification:** Coordinator, 2026-07-18; construction confirmed across all three reviews and Priest's 2010 article ([[symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE|priest-2010-logic-catuskoti]] q003 carries the wording-verified formal statement).
 - **Source relation:** paraphrased.
 - **Evidential action:** supports.
 - **Argument function:** formal codification of the four explicit positions.
-- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history.
+- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history.
 - **Use boundary:** carries Priest's construction, not a historical consensus; cite with the reception gates.
 
 <a id="priest-2018-fifth-corner-q002"></a>
@@ -137,7 +137,7 @@ Priest's construction is not settled history of the catuṣkoṭi; the reception
 - **Source relation:** paraphrased.
 - **Evidential action:** supports.
 - **Argument function:** the tradition performing the return — hierarchy as enacted 5→0, not written value-theory.
-- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history.
+- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history.
 - **Use boundary:** the "performed return" reading is the essay's; Priest presents an iteration, not a return to a generative ground.
 
 <a id="priest-2018-fifth-corner-q004"></a>
@@ -178,8 +178,8 @@ Priest's construction is not settled history of the catuṣkoṭi; the reception
 - **Verification:** Coordinator, 2026-07-18; wording via Westerhoff.
 - **Source relation:** quoted (via review).
 - **Evidential action:** supports.
-- **Argument function:** Priest's structuralist gloss on emptiness — a Western formal neighbour of the essay's relational reading; adjacent to [[priest-2014-one]].
-- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history.
+- **Argument function:** Priest's structuralist gloss on emptiness — a Western formal neighbour of the essay's relational reading; adjacent to [[symbolon/episteme/sources/mathematics-logic/priest/priest-2014-one/SOURCE|priest-2014-one]].
+- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history.
 - **Use boundary:** a footnote gloss, not the book's central thesis; weight it accordingly.
 
 ## Open acquisition and verification

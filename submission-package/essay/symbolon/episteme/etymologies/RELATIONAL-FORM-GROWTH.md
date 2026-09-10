@@ -1,4 +1,10 @@
+---
+source_id: relational-form-growth
+---
+
 # Relational Form Growth — T09 Canonical Integration
+
+[Reading entrance](../../../README.md) · [48 movements](../../../section-rooms/README.md)
 
 **Standing:** canonical Etymology-field integration of `working/final-argument-quilt-2026-08-23/RELATIONAL-FORM-GROWTH-GRAMMAR.md`. The working grammar remains the architectural authority; this page materialises the operation inside the reusable Episteme field.
 

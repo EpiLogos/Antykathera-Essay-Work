@@ -106,7 +106,7 @@ The volume carries apoha scholarship and nothing more. The softmax/argmax bridge
 - **Source relation:** quoted (secondary transmission).
 - **Evidential action:** supports.
 - **Argument function:** primary formulation of exclusion semantics — reference achieved through negation of the other.
-- **Consumers:** [[10-s0-p3-apoha]]; [[38-s5-p1-apoha-softmax]]; [[submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history; [[apoha]] concept.
+- **Consumers:** [[10-s0-p3-apoha]]; [[38-s5-p1-apoha-softmax]]; [[symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history; [[symbolon/episteme/concepts/C18-Apoha|apoha]] concept.
 - **Use boundary:** licenses the exclusion-semantics reading of Dignāga; does not license any claim about machine learning.
 
 <a id="siderits-tillemans-chakrabarti-2011-apoha-q002"></a>
@@ -120,7 +120,7 @@ The volume carries apoha scholarship and nothing more. The softmax/argmax bridge
 - **Source relation:** paraphrased.
 - **Evidential action:** supports.
 - **Argument function:** canonical statement of the double-negation structure of apoha reference.
-- **Consumers:** [[10-s0-p3-apoha]]; [[apoha]] concept.
+- **Consumers:** [[10-s0-p3-apoha]]; [[symbolon/episteme/concepts/C18-Apoha|apoha]] concept.
 - **Use boundary:** states the structure; the claim that this structure is "exclusion that remembers" is the essay's own gloss and must be marked as such.
 
 <a id="siderits-tillemans-chakrabarti-2011-apoha-q003"></a>
@@ -148,7 +148,7 @@ The volume carries apoha scholarship and nothing more. The softmax/argmax bridge
 - **Source relation:** quoted phrase within paraphrase.
 - **Evidential action:** supports.
 - **Argument function:** the scholarly step from semantics to causal mechanism — the platform from which the essay's training-signal reading departs.
-- **Consumers:** [[38-s5-p1-apoha-softmax]]; [[submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history.
+- **Consumers:** [[38-s5-p1-apoha-softmax]]; [[symbolon/episteme/histories/traditions-and-disciplines/indian-philosophy/HISTORY|indian-philosophy]] history.
 - **Use boundary:** the causal turn is Dharmakīrti's and the scholarship's; the extension to softmax/argmax is the essay's Offered bridge, with no peer-reviewed precedent found.
 
 ## Open acquisition and verification

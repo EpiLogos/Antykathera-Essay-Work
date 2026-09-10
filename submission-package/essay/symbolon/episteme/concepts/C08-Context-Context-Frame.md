@@ -20,9 +20,9 @@ Context is the active relation through which a determination has meaning and pos
 
 The direct QL rewrite calls context frames operational modalities of self-holding: a process gives itself enough form to continue processing. A temporary boundary stabilises a relation without requiring its movement to cease. The frame is itself an operation within what it frames.
 
-The [[working/sources-texts-references/QL-Essay-Rewrite|QL rewrite]], PartIII §3.1, **sources** this developmental operation. The [[working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/the-immutable-subject-and-the-matheme-of-its-recognition|immutable-subject study]], “The context-frame architecture,” **extends** it into the formal nesting behind the term. A local relation can articulate its own ground, distinctions, means and return, becoming a participant within another relation. The same sixfold can therefore recur at a different grain. This is not permission to impose one set of six semantic headings on every frame. The local operation determines what the positions do.
+The [QL rewrite](../../../../../working/sources-texts-references/QL-Essay-Rewrite.md), PartIII §3.1, **sources** this developmental operation. The [immutable-subject study](../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/non-dual-binary/the-immutable-subject-and-the-matheme-of-its-recognition.md), “The context-frame architecture,” **extends** it into the formal nesting behind the term. A local relation can articulate its own ground, distinctions, means and return, becoming a participant within another relation. The same sixfold can therefore recur at a different grain. This is not permission to impose one set of six semantic headings on every frame. The local operation determines what the positions do.
 
-[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems]] **grounds** the controlling native field: parent and inverse return bracket six determinations, while each parent can hold the complete body in its own orientation. A nested frame is not an additional primary determination.
+[[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems]] **grounds** the controlling native field: parent and inverse return bracket six determinations, while each parent can hold the complete body in its own orientation. A nested frame is not an additional primary determination.
 
 ## #2
 
@@ -36,7 +36,7 @@ A frame can contain a **local original/reference office**. A selected source-fie
 
 [A22 — World-Picture to World-Atlas](../arguments/A22-World-Picture-to-World-Atlas.md) **grounds** this recursive locality. A map never becomes the ultimate Original merely because another map derives from it. Two frames can differ over source, object, lens, gauge, reference or permission; an atlas has to preserve which relation changed rather than flatten their disagreement into two opinions about one finished object.
 
-[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE|Taylor — Symbolon Dynamics]] **grounds** the temporal relation: the present configuration and its actual history condition one another. A returned projection can change the reference field for the next inquiry.
+[[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE|Taylor — Symbolon Dynamics]] **grounds** the temporal relation: the present configuration and its actual history condition one another. A returned projection can change the reference field for the next inquiry.
 
 ## #4
 
@@ -56,7 +56,7 @@ The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsa
 
 [C09 — Diaphaneity](C09-Diaphaneity.md) **tests** whether those conditions become readable through their effects. Contextualisation succeeds when the account can show how its means, exclusions and position shaped what it says, and when returned resistance can change those terms.
 
-[[submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Arbitration / Hybris / Regard / Anamnesis]] **grounds** the generated relation **Con-text-through-Diaphaneity → Regard**, at evidence register3. Con-text-through-Diaphaneity is the generated relation; Regard is the operation becoming available there. The two offices must not be compressed into a synonym.
+[[symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Arbitration / Hybris / Regard / Anamnesis]] **grounds** the generated relation **Con-text-through-Diaphaneity → Regard**, at evidence register3. Con-text-through-Diaphaneity is the generated relation; Regard is the operation becoming available there. The two offices must not be compressed into a synonym.
 
 [A30 — Objective Co-Internality](../arguments/A30-Objective-Co-Internality.md) **extends** the return between frames: another participant externalises enough of its ground to meet this one while retaining its own source-relations. C08 **returns-to** [C07](C07-Conditions-of-Worldhood.md). A bounded frame remains useful because it can be revised within a world, not because it has become that world.
 

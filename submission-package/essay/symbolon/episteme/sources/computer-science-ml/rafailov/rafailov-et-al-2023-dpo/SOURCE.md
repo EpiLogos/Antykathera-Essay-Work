@@ -89,7 +89,7 @@ The quotation carrier is the official NeurIPS 2023 conference PDF, not the arXiv
 - **Source relation:** extracted primary technical formulation.
 - **Evidential action:** supports.
 - **Argument function:** preference-comparison/reference-policy technical warrant.
-- **Consumers:** [[40-s5-p3-preference-hidden-zero]]; [[18-trust-faith-formal-limit|Trust]]; [[Immutable Gap and Meta-Sign]]; [[Paradox as Cross-Register Hinge]].
+- **Consumers:** [[40-s5-p3-preference-hidden-zero]]; [[18-trust-faith-formal-limit|Trust]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]].
 - **Use boundary:** establishes DPO’s pairwise preference mechanism relative to an optimal and reference policy; it does not establish political provenance, institutional governance, QL, or a metaphysical hidden zero.
 
 <a id="rafailov-et-al-2023-dpo-q002"></a>
@@ -103,12 +103,12 @@ The quotation carrier is the official NeurIPS 2023 conference PDF, not the arXiv
 - **Source relation:** extracted primary technical formulation.
 - **Evidential action:** qualifies.
 - **Argument function:** proxy-baseline scope limitation.
-- **Consumers:** [[40-s5-p3-preference-hidden-zero]]; [[18-trust-faith-formal-limit|Trust]]; [[Immutable Gap and Meta-Sign]]; [[Paradox as Cross-Register Hinge]].
+- **Consumers:** [[40-s5-p3-preference-hidden-zero]]; [[18-trust-faith-formal-limit|Trust]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]].
 - **Use boundary:** establishes an operational reference policy can be selected or estimated rather than accessible as a true distribution; it does not establish that the proxy is an invisible governor, hidden trust, or a normative defect.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `rafailov-et-al-2023-dpo-q001` | `rafailov-et-al-2023-dpo` | official NeurIPS PDF p. 4/14, §4, after Eqs. 4–5 | quotation-ready | `40-s5-p3-preference-hidden-zero` | [[18-trust-faith-formal-limit|Trust]]; [[Immutable Gap and Meta-Sign]]; [[Paradox as Cross-Register Hinge]] | preference/reference-policy mechanism | [Quotes — Rafailov et al. Direct Preference Optimization (2023)](#passages) |
+| `rafailov-et-al-2023-dpo-q001` | `rafailov-et-al-2023-dpo` | official NeurIPS PDF p. 4/14, §4, after Eqs. 4–5 | quotation-ready | `40-s5-p3-preference-hidden-zero` | [[18-trust-faith-formal-limit|Trust]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | preference/reference-policy mechanism | [Quotes — Rafailov et al. Direct Preference Optimization (2023)](#passages) |
 
-| `rafailov-et-al-2023-dpo-q002` | `rafailov-et-al-2023-dpo` | official NeurIPS PDF p. 5/14, §4 “DPO outline” | quotation-ready | `40-s5-p3-preference-hidden-zero` | [[18-trust-faith-formal-limit|Trust]]; [[Immutable Gap and Meta-Sign]]; [[Paradox as Cross-Register Hinge]] | proxy-baseline limitation | [Quotes — Rafailov et al. Direct Preference Optimization (2023)](#passages) |
+| `rafailov-et-al-2023-dpo-q002` | `rafailov-et-al-2023-dpo` | official NeurIPS PDF p. 5/14, §4 “DPO outline” | quotation-ready | `40-s5-p3-preference-hidden-zero` | [[18-trust-faith-formal-limit|Trust]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | proxy-baseline limitation | [Quotes — Rafailov et al. Direct Preference Optimization (2023)](#passages) |

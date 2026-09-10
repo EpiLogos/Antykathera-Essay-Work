@@ -72,7 +72,7 @@ The Springer record for the digitised edition identifies the original 1980 D. Re
 ## Consumption
 
 - **Stations:** §0, §2, §5.
-- **Arguments:** [[Computational Process Ontology]]; [[Objective Internality]]; [[Sym-Ballein]].
+- **Arguments:** [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]]; [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]]; [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]].
 - **Exact claims:** operational closure and structural coupling are distinguishable from isolation; a bounded unity remains perturbable by a world it does not contain.
 
 ## Quote and excerpt ledger

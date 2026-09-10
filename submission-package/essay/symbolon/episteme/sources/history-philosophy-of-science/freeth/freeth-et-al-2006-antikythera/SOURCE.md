@@ -66,6 +66,6 @@ Technical/archaeological source for X-ray reconstruction, gearing, astronomical 
 - **Status:** source-matched abstract paraphrase; exact quotation unprepared.
 - **Verification:** article identity and full abstract read; no main-text, figure or supplement collation claimed.
 - **Source relation:** paraphrased.
-- **Consumer:** [Antikythera as attunement](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md).
+- **Consumer:** [Antikythera as attunement](../../../../../mytheme/worlds/frank-taylor/antikythera-attunement/WHOLE.md).
 - **Use boundary:** this abstract supports the bounded archaeological account. Exact gear values, reconstruction details and numerical cycles require their particular article passages; the 2021 front-display proposal remains a separately sourced research result.
 

@@ -2,6 +2,7 @@
 title: "Bradley-Terry Gauge Problem"
 aliases:
   - "Bradley-Terry Gauge Problem"
+source_id: bradley-terry-gauge-problem
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

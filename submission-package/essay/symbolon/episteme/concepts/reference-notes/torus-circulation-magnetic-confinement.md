@@ -5,6 +5,7 @@ aliases:
   - "Torus and Tokamak"
   - "Tokamak Magnetic Confinement"
   - "Toroidal Magnetic Fields"
+source_id: torus-circulation-magnetic-confinement
 node_type: reference
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

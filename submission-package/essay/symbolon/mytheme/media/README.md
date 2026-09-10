@@ -12,4 +12,4 @@ Media carries film, television, digital culture, games and other time-based or n
 
 The account preserves the work's own narrative and production history before drawing a QL relation. Episode, scene, timestamp, creator, release and rights information route through Episteme sources. Stills and clips ship only when their use is lawful; otherwise the prose and original plate carry the analysis.
 
-Return to [[../README|Mytheme]].
+Return to [Mytheme](../README.md).

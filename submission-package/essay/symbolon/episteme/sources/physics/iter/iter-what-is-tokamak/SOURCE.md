@@ -70,7 +70,7 @@ Exact text and consumer mappings: [Quotes — ITER What Is a Tokamak (2026 acces
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** physical contextualisation / technical warrant.
-- **Consumers:** [[29-s3-p4-topology-music-resolution]]; [[Toroidal Circulation and the Arche-Topos]]; movement 29 chamber-and-plasma instance.
+- **Consumers:** [[29-s3-p4-topology-music-resolution]]; [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]]; movement 29 chamber-and-plasma instance.
 - **Use boundary:** establishes ITER's stated chamber and plasma description; it does not establish toroidal/poloidal field composition, helical geometry, a topology theorem, or a QL conclusion.
 
 <a id="iter-what-is-tokamak-q002"></a>
@@ -84,12 +84,12 @@ Exact text and consumer mappings: [Quotes — ITER What Is a Tokamak (2026 acces
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** engineering limitation.
-- **Consumers:** [[29-s3-p4-topology-music-resolution]]; [[Toroidal Circulation and the Arche-Topos]]; movement 29 engineering boundary.
+- **Consumers:** [[29-s3-p4-topology-music-resolution]]; [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]]; movement 29 engineering boundary.
 - **Use boundary:** limits what ITER itself demonstrates about electricity production; it does not assess all magnetic-confinement architectures or metaphysical analogies.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `iter-what-is-tokamak-q001` | `iter-what-is-tokamak` | “Inside a tokamak,” paras. 1–2 | quotation-ready | `29-s3-p4-topology-music-resolution` | [[Toroidal Circulation and the Arche-Topos]] | physical contextualisation / technical warrant | [Quotes — ITER What Is a Tokamak (2026 access)](#passages) |
+| `iter-what-is-tokamak-q001` | `iter-what-is-tokamak` | “Inside a tokamak,” paras. 1–2 | quotation-ready | `29-s3-p4-topology-music-resolution` | [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]] | physical contextualisation / technical warrant | [Quotes — ITER What Is a Tokamak (2026 access)](#passages) |
 
-| `iter-what-is-tokamak-q002` | `iter-what-is-tokamak` | opening section, para. 2 | quotation-ready | `29-s3-p4-topology-music-resolution` | [[Toroidal Circulation and the Arche-Topos]] | engineering limitation | [Quotes — ITER What Is a Tokamak (2026 access)](#passages) |
+| `iter-what-is-tokamak-q002` | `iter-what-is-tokamak` | opening section, para. 2 | quotation-ready | `29-s3-p4-topology-music-resolution` | [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]] | engineering limitation | [Quotes — ITER What Is a Tokamak (2026 access)](#passages) |

@@ -83,7 +83,7 @@ Exact text and consumer mappings: [Quotes — Daza et al. Basin Entropy (2016)](
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** technical/formal warrant.
-- **Consumers:** [[23-s2-p4-complex-dynamism]]; [[Sym-Ballein]]; [[Computational Process Ontology]]; movement 23 controlled basin vocabulary.
+- **Consumers:** [[23-s2-p4-complex-dynamism]]; [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]]; movement 23 controlled basin vocabulary.
 - **Use boundary:** defines a dynamical-systems term only; it does not establish a QL bifurcation, Jungian complex, consciousness, life, or AI subjectivity.
 
 <a id="daza-et-al-2016-basin-entropy-q002"></a>
@@ -97,12 +97,12 @@ Exact text and consumer mappings: [Quotes — Daza et al. Basin Entropy (2016)](
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** scope limitation.
-- **Consumers:** [[23-s2-p4-complex-dynamism]]; [[Sym-Ballein]]; [[Computational Process Ontology]]; movement 23 anti-metaphorical control.
+- **Consumers:** [[23-s2-p4-complex-dynamism]]; [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]]; movement 23 anti-metaphorical control.
 - **Use boundary:** makes basin language system-specific; it does not license applying it indiscriminately to people, mythic patterns, institutions, or computational agents.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `daza-et-al-2016-basin-entropy-q001` | `daza-et-al-2016-basin-entropy` | Introduction, basin definition paragraph | quotation-ready | `23-s2-p4-complex-dynamism` | [[Sym-Ballein]]; [[Computational Process Ontology]] | technical/formal warrant | [Quotes — Daza et al. Basin Entropy (2016)](#passages) |
+| `daza-et-al-2016-basin-entropy-q001` | `daza-et-al-2016-basin-entropy` | Introduction, basin definition paragraph | quotation-ready | `23-s2-p4-complex-dynamism` | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] | technical/formal warrant | [Quotes — Daza et al. Basin Entropy (2016)](#passages) |
 
-| `daza-et-al-2016-basin-entropy-q002` | `daza-et-al-2016-basin-entropy` | Introduction, following paragraph | quotation-ready | `23-s2-p4-complex-dynamism` | [[Sym-Ballein]]; [[Computational Process Ontology]] | scope limitation | [Quotes — Daza et al. Basin Entropy (2016)](#passages) |
+| `daza-et-al-2016-basin-entropy-q002` | `daza-et-al-2016-basin-entropy` | Introduction, following paragraph | quotation-ready | `23-s2-p4-complex-dynamism` | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] | scope limitation | [Quotes — Daza et al. Basin Entropy (2016)](#passages) |

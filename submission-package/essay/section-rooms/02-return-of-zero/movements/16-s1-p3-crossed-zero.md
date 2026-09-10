@@ -1,5 +1,6 @@
 ---
 title: "§1 · #3 — The Crossed Zero"
+source_id: 16-s1-p3-crossed-zero
 node_type: section
 page_type: section-movement
 station: "§1"
@@ -11,6 +12,10 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §1 · #3 — The Crossed Zero
 
+<!-- reader-navigation -->
+Movement 16 of 48 · [This room](../ROOM.md) · [← Previous](15-s1-p2-empty-set-generates-one.md) · [Next →](17-s1-p4-zero-outside-math.md)
+<!-- /reader-navigation -->
+
 ## Movement thesis
 
 Ø gives the argument its most economical image: zero bears a stroke, yet the stroke does not fill the zero. The sign holds absence and mark in one figure. It is the visual form of \(0/1\), the unmarked condition becoming legible through a determination that cannot exhaust it.
@@ -19,7 +24,7 @@ The stroke is the first \(1\): distinction, name, boundary, predicate, count. Th
 
 ## Formal payload and proof boundary
 
-[[working/sources-texts-references/10-7-2026-core-theorems-pithy#IX. The Crossed Zero (Ø), and the 1 as Symbolic Linker|The Crossed Zero and the 1]] joins three moves:
+[The Crossed Zero and the 1](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) joins three moves:
 
 1. Set theory gives \(1=\{0\}\): one is the first symbolic linkage of zero.
 2. The crossed zero composes the relation graphically: \(0\) marked by \(1\).

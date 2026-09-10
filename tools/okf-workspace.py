@@ -28,13 +28,14 @@ WORD_RE = re.compile(r"[\wÀ-žĀ-ſḀ-ỿŚśṢṣṚṛṜṝṆṇÑñĪī�
 
 EXCLUDED_PARTS = {
     ".git",
-    ".bkmr",
     "__pycache__",
     "node_modules",
     "legacy",
     "build",
     "dist",
 }
+
+VAULT_ROOT = "submission-package/essay/"  # the Obsidian vault root; wikilinks with a slash resolve from here
 
 AUTHORITY_ORDER = {
     "governing-document": "governing",
@@ -47,6 +48,8 @@ AUTHORITY_ORDER = {
     "source-notes": "authorial-notes",
     "room-reading-path": "learning-refraction",
     "quote-index": "generated-locator",
+    "legacy-argument": "historical-provenance",
+    "navigation-projection": "generated-locator",
     "room-artifact": "authoring-refraction",
     "plan": "development-plan",
     "skill": "development-method",
@@ -126,6 +129,12 @@ def classify(rel: Path, fm: dict[str, Any]) -> str:
     posix = rel.as_posix()
     name = rel.name
     declared = str(fm.get("node_type") or fm.get("type") or fm.get("page_type") or "").casefold()
+    record_type = str(fm.get("record_type") or "").casefold()
+    # Canonical field pages declare record_type; the publication body's A/C identities are typed from it.
+    if "/symbolon/episteme/arguments/" in f"/{posix}" and name != "README.md":
+        return "argument"
+    if "/symbolon/episteme/conjugate/" in f"/{posix}" and name != "README.md":
+        return "argument-map" if name == "AC.md" else "argument"  # AC is the dual-form root of the field
 
     if posix in {
         "the-return-of-zero-central-plan.md",
@@ -136,15 +145,19 @@ def classify(rel: Path, fm: dict[str, Any]) -> str:
         "/section-rooms/" in f"/{posix}" and "/movements/" in f"/{posix}"
     ):
         return "section"
-    if "/nodes/arguments/" in f"/{posix}" or "/section-rooms/arguments/" in f"/{posix}":
+    if "/section-rooms/arguments/" in f"/{posix}":
+        return "legacy-argument"  # pre-T09 historical carriers: provenance, resolved after canonical A/C pages
+    if "/nodes/arguments/" in f"/{posix}":
         return "argument"
     if "/nodes/concepts/" in f"/{posix}" or (
         "/symbolon/episteme/concepts/" in f"/{posix}"
         and "/reference-notes/" not in f"/{posix}"
     ):
-        if name in {"index.md", "README.md"}:
-            return "index" if name == "index.md" else "document"
+        if name in {"index.md", "README.md", "CANONICAL-INDEX.md"}:
+            return "document" if name == "README.md" else "index"
         return "concept"
+    if "/symbolon/episteme/maps/navigation/" in f"/{posix}":
+        return "navigation-projection"
     if "/nodes/paths/" in f"/{posix}" or (
         "/symbolon/episteme/maps/" in f"/{posix}" and name != "README.md"
     ):
@@ -508,10 +521,11 @@ class Workspace:
         return expected in heading_anchors or expected in explicit_anchors
 
     def _resolve(self, raw: str, source: Artifact | None = None, preferred: str | None = None) -> str | None:
+        from urllib.parse import unquote
         cleaned = raw.strip().strip("<>").replace("\\", "")
         if not cleaned:
             return None
-        cleaned = cleaned.split("#", 1)[0]
+        cleaned = unquote(cleaned.split("#", 1)[0])
         if cleaned.endswith(".md") or "/" in cleaned:
             if source:
                 candidate_abs = (source.abs_path.parent / cleaned).resolve()
@@ -526,6 +540,12 @@ class Workspace:
                 return self._canonicalise_source_path(direct)
             if not direct.endswith(".md") and f"{direct}.md" in self.artifacts:
                 return self._canonicalise_source_path(f"{direct}.md")
+            # Vault-relative form: the Obsidian vault is rooted at the publication body.
+            vault_relative = f"{VAULT_ROOT}{direct}"
+            if vault_relative in self.artifacts:
+                return self._canonicalise_source_path(vault_relative)
+            if not direct.endswith(".md") and f"{vault_relative}.md" in self.artifacts:
+                return self._canonicalise_source_path(f"{vault_relative}.md")
         candidates = self.lookup.get(normalise(Path(cleaned).stem), [])
         if not candidates:
             candidates = self.lookup.get(normalise(cleaned), [])
@@ -554,6 +574,7 @@ class Workspace:
             "governing-document": 7,
             "room-artifact": 8,
             "legacy-reference": 9,
+            "legacy-argument": 11,
             "document": 10,
         }
         return self._canonicalise_source_path(
@@ -1185,11 +1206,13 @@ class Workspace:
         if artifact.artifact_type == "argument":
             dimensions = {
                 "claim-surface": self._has_heading_surface(
-                    artifact, ("claim", "thesis", "proposition")
+                    artifact, ("claim", "thesis", "proposition", "#0", "#1")
                 ),
                 "warrant-surface": self._has_heading_surface(
                     artifact,
                     (
+                        "#2",
+                        "#3",
                         "warrant",
                         "derivation",
                         "matheme",
@@ -1207,6 +1230,10 @@ class Workspace:
                 "counterpressure-surface": self._has_heading_surface(
                     artifact,
                     (
+                        "#5→0",
+                        "#5",
+                        "unresolved delta",
+                        "depth restoration",
                         "tension",
                         "limit",
                         "boundary",
@@ -1244,6 +1271,8 @@ class Workspace:
                         "musical resolution",
                         "established",
                         "primary displays",
+                        "epistemic originality and metaphysical dependence",
+                        "federated epistemic return",
                     ),
                 ),
                 "counterpressure-surface": self._has_heading_surface(
@@ -1267,7 +1296,7 @@ class Workspace:
         else:
             dimensions = {
                 "definition-surface": self._has_heading_surface(
-                    artifact, ("definition", "method proposition", "rule of use")
+                    artifact, ("definition", "method proposition", "rule of use", "#0", "#1")
                 ),
                 "argument-role-surface": self._has_heading_surface(
                     artifact,
@@ -1277,6 +1306,7 @@ class Workspace:
                         "withheld payoff",
                         "case ledger",
                         "governing artistic relation",
+                        "#5→0",
                     ),
                 ),
                 "source-anchors": bool(source_paths)
@@ -1488,16 +1518,11 @@ class Workspace:
                         }
                     )
 
-        manifest = self.root / ".bkmr" / "manifest.tsv"
-        if manifest.exists():
-            rows = manifest.read_text(encoding="utf-8", errors="replace").splitlines()[1:]
-            for row in rows:
-                fields = row.split("\t")
-                if len(fields) < 9:
-                    continue
-                canonical = self.root / fields[2]
-                if canonical.exists() and hashlib.sha256(canonical.read_bytes()).hexdigest() != fields[8]:
-                    debts.append({"path": fields[2], "authority": "generated-locator", "kind": "stale-bkmr-adapter", "detail": fields[0]})
+        # The local `.bkmr` adapter index this once checked for staleness is
+        # retired: AIKit's `wiki ingest` compiles the vault into the SourcePool
+        # that reaches bkmr, so there is no second derived index to drift.
+        # `tests/test_aikit_wiki_parity.py` holds that replacement to the
+        # coverage the retired index had.
         counts = Counter(debt["kind"] for debt in debts)
         missing_dimensions = Counter(
             dimension

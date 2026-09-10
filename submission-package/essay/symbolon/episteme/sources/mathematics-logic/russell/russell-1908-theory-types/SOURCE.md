@@ -99,6 +99,6 @@ Exact text and consumer mappings: [Quotes — Russell Theory of Types (1908)](#p
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `russell-1908-theory-types-q001` | `russell-1908-theory-types` | §IV, p. 237 | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[Paradox as Cross-Register Hinge]] | primary formal formulation | [Quotes — Russell Theory of Types (1908)](#passages) |
+| `russell-1908-theory-types-q001` | `russell-1908-theory-types` | §IV, p. 237 | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | primary formal formulation | [Quotes — Russell Theory of Types (1908)](#passages) |
 
-| `russell-1908-theory-types-q002` | `russell-1908-theory-types` | §IV, p. 237 | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[Paradox as Cross-Register Hinge]] | qualification | [Quotes — Russell Theory of Types (1908)](#passages) |
+| `russell-1908-theory-types-q002` | `russell-1908-theory-types` | §IV, p. 237 | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | qualification | [Quotes — Russell Theory of Types (1908)](#passages) |

@@ -1,3 +1,7 @@
+---
+source_id: 06-objective-internality-p1-canonical-alignment
+---
+
 # P1 Canonical Alignment — §5 Objective Internality
 
 **Wave:** T14 / #15.  

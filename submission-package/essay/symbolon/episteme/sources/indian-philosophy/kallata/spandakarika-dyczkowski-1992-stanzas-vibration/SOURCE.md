@@ -34,6 +34,8 @@ passage_surface: '#passages'
 ---
 # Kallaṭa — Stanzas on Vibration (Dyczkowski, 1992)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Bibliographic identity
 
 SUNY Press identifies the selected 1992 paperback as Mark S. G. Dyczkowski's translation of the *Spandakārikā* with four commentaries: Kṣemarāja's *Spandasaṃdoha*, Kallaṭabhaṭṭa's *Spandavṛtti*, Rājānaka Rāma's *Spandavivṛti*, and Bhagavadutpala's *Spandapradīpikā* (427 pp., ISBN 9780791412626). Traditional authorship of the root text is contested; this record retains the edition's form without resolving that philological question.

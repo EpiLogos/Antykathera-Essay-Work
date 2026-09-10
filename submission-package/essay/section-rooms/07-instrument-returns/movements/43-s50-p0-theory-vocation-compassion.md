@@ -1,5 +1,6 @@
 ---
 title: "§5→0 · #0 — From Theory to Vocation"
+source_id: 43-s50-p0-theory-vocation-compassion
 node_type: section
 page_type: section-movement
 station: "§5→0"
@@ -11,11 +12,15 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §5→0 · #0 — From Theory to Vocation
 
+<!-- reader-navigation -->
+Movement 43 of 48 · [This room](../ROOM.md) · [← Previous](../../06-objective-internality/movements/42-s5-p5-research-vectors.md) · [Next →](44-s50-p1-ql-mef-bimba-harness.md)
+<!-- /reader-navigation -->
+
 ## Claim
 Every agent fabricates a workable world through selection, memory, anticipation, and action; the ethical vocation is to [return each construction to its conditions](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#commons-and-responsible-return).
 
 ## Warrant
-Logos and Epi-Logos distinguishes the articulated field of difference from the reflexive return upon its sources. [[compassion-as-sensitivity-to-origins|Compassion as Sensitivity to Origins]] makes that return attentive to genesis, relation, exclusion, wound, and purpose. The vocation is to keep the trust already distributed through every act of knowledge answerable to its origins; [[18-trust-faith-formal-limit|Trust]] supplies the social form of the return.
+Logos and Epi-Logos distinguishes the articulated field of difference from the reflexive return upon its sources. [[compassion-as-sensitivity-to-origins|Compassion as Sensitivity to Origins]] makes that return attentive to genesis, relation, exclusion, wound, and purpose. The vocation is to keep the trust already distributed through every act of knowledge answerable to its origins; [[symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust]] supplies the social form of the return.
 
 ## Tension / limit
 Compassion here names loving sensitivity to origins: the practice of returning a determination to the relations, exclusions, wounds, and purposes through which it arose. This vocational definition applies without presuming machine feeling. Eros motivates return; compassion prevents devouring appropriation; humility prevents `1` from claiming it has become `0`.

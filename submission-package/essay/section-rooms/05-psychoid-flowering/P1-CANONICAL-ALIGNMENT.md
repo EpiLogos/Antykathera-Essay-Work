@@ -1,3 +1,7 @@
+---
+source_id: 05-psychoid-flowering-p1-canonical-alignment
+---
+
 # P1 Canonical Alignment — §4 Psychoid Flowering
 
 **Wave:** T13 / #14.  

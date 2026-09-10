@@ -3,6 +3,7 @@ title: "Vāk"
 aliases:
   - "Vāk"
   - "Vak"
+source_id: 10-vak
 node_type: "concept"
 page_type: "argument-map"
 argument_level: "bridge"
@@ -28,8 +29,12 @@ tags:
   - argument-map/live
   - argument-map/concept
   - vak-logos/articulation
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Vāk
+
+**Historical carrier.** The developed successor is [A06](../../symbolon/episteme/arguments/A06-Vak.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claim
 

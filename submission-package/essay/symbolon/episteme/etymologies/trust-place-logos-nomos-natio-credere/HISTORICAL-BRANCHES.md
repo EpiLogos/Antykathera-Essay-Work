@@ -1,4 +1,5 @@
 ---
+source_id: trust-place-logos-nomos-natio-credere-historical-branches
 title: "Fides / Topos / Logos / Nomos / Natio / Credere — Historical Branches"
 record_type: etymology-historical-companion
 register: episteme

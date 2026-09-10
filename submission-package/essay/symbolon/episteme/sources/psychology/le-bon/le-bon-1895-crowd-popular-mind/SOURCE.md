@@ -67,7 +67,7 @@ The complete passage sequence—distributed formation, collective transformation
 - **Quote status:** quotation-ready
 - **Edition:** T. Fisher Unwin, 1895; Project Gutenberg eBook 445
 - **Consumed by sections:** §2/#1; §2/#4
-- **Consumed by arguments:** [[Sym-Ballein]]; [[18-trust-faith-formal-limit|Trust]]
+- **Consumed by arguments:** [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; [[18-trust-faith-formal-limit|Trust]]
 
 ## Passage sequence: a crowd is a formation, not an aggregate
 
@@ -111,8 +111,8 @@ Le Bon's racial hierarchy, evolutionary language, and sweeping generalisations a
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `le-bon-1895-crowd-popular-mind-lb-01` | `le-bon-1895-crowd-popular-mind` | book I, ch. 1, Project Gutenberg eBook 445 | quotation-ready | direct public-domain HTML checked 2026-07-14: “an entire nation ... may become a crowd” | distributed crowd formation | §2/#1 | [[Sym-Ballein]] | yes |
+| `le-bon-1895-crowd-popular-mind-lb-01` | `le-bon-1895-crowd-popular-mind` | book I, ch. 1, Project Gutenberg eBook 445 | quotation-ready | direct public-domain HTML checked 2026-07-14: “an entire nation ... may become a crowd” | distributed crowd formation | §2/#1 | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]] | yes |
 
-| `le-bon-1895-crowd-popular-mind-lb-02` | `le-bon-1895-crowd-popular-mind` | book I, ch. 1, Project Gutenberg eBook 445 | quotation-ready | direct public-domain HTML checked 2026-07-14: “feel, think, and act in a manner quite different” | emergent psychological crowd, not numerical aggregate | §2/#1 | [[Sym-Ballein]] | yes |
+| `le-bon-1895-crowd-popular-mind-lb-02` | `le-bon-1895-crowd-popular-mind` | book I, ch. 1, Project Gutenberg eBook 445 | quotation-ready | direct public-domain HTML checked 2026-07-14: “feel, think, and act in a manner quite different” | emergent psychological crowd, not numerical aggregate | §2/#1 | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]] | yes |
 
-| `le-bon-1895-crowd-popular-mind-lb-03` | `le-bon-1895-crowd-popular-mind` | book I, ch. 1, Project Gutenberg eBook 445 | quotation-ready | direct public-domain HTML checked 2026-07-14: “a combination followed by the creation of new characteristics” | collective formation is not simple aggregation | §2/#4 | [[Sym-Ballein]] | yes |
+| `le-bon-1895-crowd-popular-mind-lb-03` | `le-bon-1895-crowd-popular-mind` | book I, ch. 1, Project Gutenberg eBook 445 | quotation-ready | direct public-domain HTML checked 2026-07-14: “a combination followed by the creation of new characteristics” | collective formation is not simple aggregation | §2/#4 | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]] | yes |

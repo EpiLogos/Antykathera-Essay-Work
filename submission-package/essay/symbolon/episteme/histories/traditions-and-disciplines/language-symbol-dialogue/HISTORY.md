@@ -1,5 +1,6 @@
 ---
 title: "Language, Symbol, and Dialogue — How Meaning Moves"
+source_id: language-symbol-dialogue-history
 page_type: historical-register-route
 ownership: protected-learning-surface
 status: living

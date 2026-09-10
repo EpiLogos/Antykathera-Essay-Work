@@ -97,6 +97,6 @@ Exact text and consumer mappings: [Quotes — Raatikainen Gödel Incompleteness 
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `raatikainen-2026-godel-incompleteness-sep-q001` | `raatikainen-2026-godel-incompleteness-sep` | §1.1, paras. 3–4 | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[Paradox as Cross-Register Hinge]] | technical warrant | [Quotes — Raatikainen Gödel Incompleteness (2026)](#passages) |
+| `raatikainen-2026-godel-incompleteness-sep-q001` | `raatikainen-2026-godel-incompleteness-sep` | §1.1, paras. 3–4 | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | technical warrant | [Quotes — Raatikainen Gödel Incompleteness (2026)](#passages) |
 
-| `raatikainen-2026-godel-incompleteness-sep-q002` | `raatikainen-2026-godel-incompleteness-sep` | §1.1, following theorem statement | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[Paradox as Cross-Register Hinge]] | counterposition | [Quotes — Raatikainen Gödel Incompleteness (2026)](#passages) |
+| `raatikainen-2026-godel-incompleteness-sep-q002` | `raatikainen-2026-godel-incompleteness-sep` | §1.1, following theorem statement | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | counterposition | [Quotes — Raatikainen Gödel Incompleteness (2026)](#passages) |

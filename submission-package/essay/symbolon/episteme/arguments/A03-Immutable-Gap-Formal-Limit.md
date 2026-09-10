@@ -1,13 +1,20 @@
 ---
 title: A03 — Immutable Gap / Formal Limit
 aliases:
+  - "Immutable Gap and Meta-Sign"
+  - "Immutable Gap and the Meta-Sign"
   - A03 — Immutable Gap / Formal Limit
+record_id: A03
 record_type: argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from
 ---
 # A03 — Immutable Gap / Formal Limit
+
+<!-- paired-field-navigation -->
+[Argument field](README.md) · [Other face: A03′ — The Limit of Self-Surfacing](../conjugate/A03-prime-The-Limit-of-Self-Surfacing.md) · [Shared A/C root](../conjugate/AC.md)
+<!-- /paired-field-navigation -->
 
 **Standing:** canonical semantic Argument. The recursive operation is Argued from Taylor's internal derivation; the mathematical constructions below are Derived within their stated definitions. Historical source relations and public quotation readiness retain their separate standing.
 
@@ -19,7 +26,7 @@ A richer inventory really does disclose more. Body, language, memory, method, in
 
 ## #1
 
-Try to predicate the condition: *the subject is the undefinable*. The sentence has given the undefinable a definition. Capture the act that produced the sentence, and a further act performs this capture. Taylor's [[working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3|Draft 3]] sources the performed image: “The hand that writes ‘the hand cannot grasp itself’ is still a hand grasping.” The attempted inclusion does real work while exposing what it cannot enclose. A boundary can be drawn within reality; drawing it never puts the whole activity of drawing outside reality.
+Try to predicate the condition: *the subject is the undefinable*. The sentence has given the undefinable a definition. Capture the act that produced the sentence, and a further act performs this capture. Taylor's [Draft 3](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md) sources the performed image: “The hand that writes ‘the hand cannot grasp itself’ is still a hand grasping.” The attempted inclusion does real work while exposing what it cannot enclose. A boundary can be drawn within reality; drawing it never puts the whole activity of drawing outside reality.
 
 [[C04-Formal-Limit|C04 Formal Limit]] defines the constraint a particular operation encounters under its conditions. [[C05-Immutable-Gap|C05 Immutable Gap]] defines this recurrent non-coincidence between determination and determining condition. Their distinction matters: revising a formal container can change what its operations permit, while the revision itself remains an act with conditions. No content for an unknown entity follows simply from this limit. A claim about what exceeds a particular account still bears its own mediation, warrant and standing.
 
@@ -36,13 +43,13 @@ The von Neumann construction then makes the empty object countable:
 n+1 = n ∪ {n}
 ```
 
-The singleton has one member, and that member is zero. Each successor gathers its predecessors and includes the preceding ordinal as a new member. Consequently every nonzero finite ordinal in this construction contains zero. What begins as memberless becomes internally retained through repeated determination. [[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|Q27's empty-set contribution]] sources the developmental recovery of these distinct operations; [[A10-Advent-of-Zero|A10]] historicises the different offices through which zero becomes an operative mathematical sign.
+The singleton has one member, and that member is zero. Each successor gathers its predecessors and includes the preceding ordinal as a new member. Consequently every nonzero finite ordinal in this construction contains zero. What begins as memberless becomes internally retained through repeated determination. [[quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|Q27's empty-set contribution]] sources the developmental recovery of these distinct operations; [[A10-Advent-of-Zero|A10]] historicises the different offices through which zero becomes an operative mathematical sign.
 
 There is also an exact directional asymmetry in `Set`, the category of sets and functions. For every set `A`, exactly one function `∅ → A` exists: the empty function, with no source element needing an image. When `A` is inhabited, no function `A → ∅` exists, because its elements would require images in a codomain without any. Thus `∅` is initial. This is a mathematical comparison with the handed return of `0/1` and `1/0`, not an identification of QL orientations with set-functions. Membership, subset and initiality do three different jobs. QL `0` marks the non-objectifiable condition; `∅` remains a represented object. The formal floor is useful precisely because it preserves their difference.
 
 ## #3
 
-The crossed-zero figure restores the activity inside the sign. In the native [[working/sources-texts-references/10-7-2026-core-theorems-pithy|theorem spine]], which sources this sequence, `Ø` first fuses the stroke with the apparent self: an objectifiable inner instrument is taken as the subject whose experience it organises. `X` is the differentiated object-world. Their apparent independence conceals their production through the same cutting and relating activity.
+The crossed-zero figure restores the activity inside the sign. In the native [theorem spine](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), which sources this sequence, `Ø` first fuses the stroke with the apparent self: an objectifiable inner instrument is taken as the subject whose experience it organises. `X` is the differentiated object-world. Their apparent independence conceals their production through the same cutting and relating activity.
 
 ```text
 0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 ↷ 0/1
@@ -54,7 +61,7 @@ At `Ø/X`, the slash becomes visible as mediation. At `(0/Ø)/(1/X)`, the unoccl
 
 ## #4
 
-The force of the limit becomes more exact when each formal container retains its laws. In an ordinary nontrivial field, no quotient of a nonzero quantity by zero satisfies the inverse operation: multiplying any candidate by zero yields zero. [[submission-package/essay/symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE|Colebrooke's Bhāskara passages]] qualify the historical reach of that prohibition. The selected 1817 translation retains a zero-denominator expression at *Bījagaṇita* I.14, p.137, and places a theological image of immutability beside its rule at I.16, p.138. The record is quotation-ready for that edition. [[submission-package/essay/symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE|Dutta's corrective]] qualifies the interpretation through restricted cancellation and postponed evaluation: a changed algebraic regime must be judged by its own permitted operations. Neither source makes ordinary field division valid; both prevent the stronger claim that every historical zero-denominator practice was meaningless.
+The force of the limit becomes more exact when each formal container retains its laws. In an ordinary nontrivial field, no quotient of a nonzero quantity by zero satisfies the inverse operation: multiplying any candidate by zero yields zero. [[symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE|Colebrooke's Bhāskara passages]] qualify the historical reach of that prohibition. The selected 1817 translation retains a zero-denominator expression at *Bījagaṇita* I.14, p.137, and places a theological image of immutability beside its rule at I.16, p.138. The record is quotation-ready for that edition. [[symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE|Dutta's corrective]] qualifies the interpretation through restricted cancellation and postponed evaluation: a changed algebraic regime must be judged by its own permitted operations. Neither source makes ordinary field division valid; both prevent the stronger claim that every historical zero-denominator practice was meaningless.
 
 The formal-limit genealogy has the same obligation of grain. No theorem about one specified class of systems proves that every closed totality is impossible. Its individual source hypotheses must accompany any historical expansion. The authorial proposition survives intact: the operation that articulates a field does not become exhaustively contained by adding its representation to that field. [[C52-Dimensional-Reframing-at-Zero-and-Infinity|C52]] extends this pressure into explicit changes of containing space; [[C64-Paradox-Transforming-the-Containing-Field|C64]] defines the transformation at which a locally blocked account can reopen.
 
@@ -75,7 +82,7 @@ The placing act **returns-to** [Topos — situated return](../etymologies/trust-
 
 The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-mathematical-witness) **compares** the condition of representation with the box-lid whose rule determines every fit. Making that rule visible produces another situated determination. Coordinate failure has its own mathematical explanation and does not prove the native immutable gap; the gap retains the independently argued scope of this node.
 
-The representable mouth figures an opening whose originating condition remains unexhausted by another representation. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-metabolic-fork).
+The representable mouth figures an opening whose originating condition remains unexhausted by another representation. This **returns-to** [the uroboros whole](../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-metabolic-fork).
 
 The return is first-person recognition in the performed definition, and answerability in every further account. The reader who followed successive representations is still the one for whom those representations appeared. A03 returns-to [[A01-Subject-God-and-Faithful-Definition|A01]] at that point; it grounds [[A04-Diaphaneity-Contextual-Transparency|A04]] in the positive demand that context become visible through determinations. A total database can still conceal the deciding of what counted as data. Diaphaneity makes that deciding available without promising one final object which captures all its conditions.
 

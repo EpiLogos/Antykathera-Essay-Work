@@ -7,6 +7,7 @@ aliases:
   - "Kartṛ-Pole"
   - "Kārya"
   - "Śiva-Śakti-Object Triad"
+source_id: 09-prakasa-vimarsa
 node_type: "concept"
 page_type: "argument-map"
 argument_level: "primary"
@@ -30,8 +31,12 @@ tags:
   - argument-map/live
   - argument-map/concept
   - shaivism/prakasa-vimarsa
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Prakāśa-Vimarśa
+
+**Historical carrier.** The developed successor is [A05](../../symbolon/episteme/arguments/A05-Prakasa-Vimarsa.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claim
 

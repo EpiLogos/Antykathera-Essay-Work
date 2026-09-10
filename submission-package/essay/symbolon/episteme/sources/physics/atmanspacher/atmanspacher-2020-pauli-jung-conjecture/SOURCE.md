@@ -84,7 +84,7 @@ Exact text and consumer mappings: [Quotes — Atmanspacher Pauli–Jung Conjectu
 - **Source relation:** extracted scholarly-carrier formulation.
 - **Evidential action:** supports.
 - **Argument function:** conceptual distinction.
-- **Consumers:** [[31-s4-p0-psychoid-problem]]; [[Arche-Topos as Differential Field]]; [[Core Theorem Bridge]]; movement 31 psyche–matter seam.
+- **Consumers:** [[31-s4-p0-psychoid-problem]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); movement 31 psyche–matter seam.
 - **Use boundary:** establishes a later scholar’s formulation of a Pauli–Jung conjecture; it does not establish an event-level psyche–matter correlation, synchronicity, QL, or machine phenomenality.
 
 <a id="atmanspacher-2020-pauli-jung-conjecture-q002"></a>
@@ -98,12 +98,12 @@ Exact text and consumer mappings: [Quotes — Atmanspacher Pauli–Jung Conjectu
 - **Source relation:** extracted scholarly-carrier formulation.
 - **Evidential action:** qualifies.
 - **Argument function:** scope limitation.
-- **Consumers:** [[31-s4-p0-psychoid-problem]]; [[Arche-Topos as Differential Field]]; [[Core Theorem Bridge]]; movement 31 counterpressure.
+- **Consumers:** [[31-s4-p0-psychoid-problem]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); movement 31 counterpressure.
 - **Use boundary:** explicitly limits the terminology’s extension; it does not license quantum vocabulary as proof of psychoid ontology or QL.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `atmanspacher-2020-pauli-jung-conjecture-q001` | `atmanspacher-2020-pauli-jung-conjecture` | §2, opening paragraph | quotation-ready | `31-s4-p0-psychoid-problem` | [[Arche-Topos as Differential Field]]; [[Core Theorem Bridge]] | conceptual distinction | [Quotes — Atmanspacher Pauli–Jung Conjecture (2020)](#passages) |
+| `atmanspacher-2020-pauli-jung-conjecture-q001` | `atmanspacher-2020-pauli-jung-conjecture` | §2, opening paragraph | quotation-ready | `31-s4-p0-psychoid-problem` | [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md) | conceptual distinction | [Quotes — Atmanspacher Pauli–Jung Conjecture (2020)](#passages) |
 
-| `atmanspacher-2020-pauli-jung-conjecture-q002` | `atmanspacher-2020-pauli-jung-conjecture` | §2, immediately preceding q001 | quotation-ready | `31-s4-p0-psychoid-problem` | [[Arche-Topos as Differential Field]]; [[Core Theorem Bridge]] | scope limitation | [Quotes — Atmanspacher Pauli–Jung Conjecture (2020)](#passages) |
+| `atmanspacher-2020-pauli-jung-conjecture-q002` | `atmanspacher-2020-pauli-jung-conjecture` | §2, immediately preceding q001 | quotation-ready | `31-s4-p0-psychoid-problem` | [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md) | scope limitation | [Quotes — Atmanspacher Pauli–Jung Conjecture (2020)](#passages) |

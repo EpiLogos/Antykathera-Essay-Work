@@ -99,7 +99,7 @@ AN EXPLICIT STATUS NOTE governs this entire house: the author's existing reading
 - **Source relation:** paraphrased with embedded quotation (via the author's reading notes).
 - **Evidential action:** supports.
 - **Argument function:** the spectral as what binary cultural orders must exclude; the register in which the essay's spectral-personae reading and the Agentworld brief's "human-masked ghosts from the future" / "parallax effects" language meet.
-- **Consumers:** [[40-s5-p3-preference-hidden-zero|40-s5-p3]]; [[Counterfeit Gathering]]; myth history (Prometheus/Atlas entry).
+- **Consumers:** [[40-s5-p3-preference-hidden-zero|40-s5-p3]]; [[symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering]]; myth history (Prometheus/Atlas entry).
 - **Use boundary:** supplies Jorjani's category only; the alignment with the Agentworld brief's language is the essay's Offered move, and the book's parapsychological deployment of the spectral is not consumed.
 
 <a id="jorjani-2016-prometheus-atlas-q003"></a>
@@ -136,5 +136,5 @@ Jorjani's own political trajectory and the book's parapsychological claims are n
 | passage_id | source_id | locator | status | movement consumers | argument consumers | function |
 |---|---|---|---|---|---|---|
 | `jorjani-2016-prometheus-atlas-q001` | `jorjani-2016-prometheus-atlas` | Prologue, p. XII region (via P1 notes) | note-derived; print collation required | `22-s2-p3-ares-aphrodite-harmonia`; `40-s5-p3-preference-hidden-zero` | — | science as always already technoscience |
-| `jorjani-2016-prometheus-atlas-q002` | `jorjani-2016-prometheus-atlas` | Prologue, p. XIII region (via P1 notes) | note-derived; print collation required | `40-s5-p3-preference-hidden-zero` | [[Counterfeit Gathering]] | the spectral vs binary/exclusionary constitutions |
+| `jorjani-2016-prometheus-atlas-q002` | `jorjani-2016-prometheus-atlas` | Prologue, p. XIII region (via P1 notes) | note-derived; print collation required | `40-s5-p3-preference-hidden-zero` | [[symbolon/episteme/concepts/counterfeit-gathering|Counterfeit Gathering]] | the spectral vs binary/exclusionary constitutions |
 | `jorjani-2016-prometheus-atlas-q003` | `jorjani-2016-prometheus-atlas` | body chapters — no locator; notes end at Prologue p. XVI | acquisition-required; no note coverage | `22-s2-p3-ares-aphrodite-harmonia`; `40-s5-p3-preference-hidden-zero` (conditional) | — | Atlas/cartography contract |

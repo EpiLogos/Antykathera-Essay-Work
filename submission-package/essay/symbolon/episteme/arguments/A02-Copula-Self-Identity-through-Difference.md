@@ -15,6 +15,10 @@ source_relation: "Argued from native copula derivation and protected Kripke/Wats
 
 # A02 — Copula / Self-Identity through Difference
 
+<!-- paired-field-navigation -->
+[Argument field](README.md) · [Other face: A02′ — Continuity as Maintained Identification](../conjugate/A02-prime-Continuity-as-Maintained-Identification.md) · [Shared A/C root](../conjugate/AC.md)
+<!-- /paired-field-navigation -->
+
 ## #0
 
 An identity must be recognised, stated, remembered or carried across a difference of presentation. Even “A is A” makes a minimal journey: the second inscription is not the first inscription, yet the judgment identifies them. The copula keeps them together through the difference that gives the act of identification its work.

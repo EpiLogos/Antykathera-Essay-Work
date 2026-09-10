@@ -2,12 +2,17 @@
 title: A04 — Diaphaneity / Contextual Transparency
 aliases:
   - A04 — Diaphaneity / Contextual Transparency
+record_id: A04
 record_type: argument
 register: episteme
 claim_status: Argued
 source_relation: Argued from
 ---
 # A04 — Diaphaneity / Contextual Transparency
+
+<!-- paired-field-navigation -->
+[Argument field](README.md) · [Other face: A04′ — The Mask as Document](../conjugate/A04-prime-The-Mask-as-Document.md) · [Shared A/C root](../conjugate/AC.md)
+<!-- /paired-field-navigation -->
 
 **Standing:** canonical semantic Argument; historical Argument 01 remains provenance. Contextual transparency is Argued; the Gebser relation is Paraphrased / Argued from; the optical construction figures the relation in Mytheme. Native QL derivation and external historical attribution retain their distinct offices.
 
@@ -19,9 +24,9 @@ The two orientations retain their asymmetry. A viewer acts, selects and answers;
 
 ## #1
 
-[[submission-package/essay/symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE|Gebser's source house]] historicises the emergence of the perspectival sector. Its selected-edition passage map follows Giotto's depth and Petrarch's landscape through Alberti's visual pyramid and Leonardo's optical articulation (pp.11–21). Perspective makes a positioned ego-world visible; its technical precision can also fix the observer and observed within the very sector it renders. Aperspectivity releases the exclusive validity of that sector through the co-presence and transparency of structures (pp.1–3); it does not erase the powers of rational articulation.
+[[symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE|Gebser's source house]] historicises the emergence of the perspectival sector. Its selected-edition passage map follows Giotto's depth and Petrarch's landscape through Alberti's visual pyramid and Leonardo's optical articulation (pp.11–21). Perspective makes a positioned ego-world visible; its technical precision can also fix the observer and observed within the very sector it renders. Aperspectivity releases the exclusive validity of that sector through the co-presence and transparency of structures (pp.1–3); it does not erase the powers of rational articulation.
 
-Frank's [[working/sources-texts-references/Epi Paper Write-ups/P5 - Gebser|P5 — Gebser]] extends this history into the lived demand of context. Seeing through becomes “being with the text,” including text and subtext. The observer belongs to the situation's outcome. Body, inheritance, concern and consequence are active in seeing; removing them from the account can make participation harder to recognise while leaving its effects fully operative. Impartiality demands that this involvement be acknowledged and situated. It cannot be obtained by indifference.
+Frank's [P5 — Gebser](../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/P5%20-%20Gebser.md) extends this history into the lived demand of context. Seeing through becomes “being with the text,” including text and subtext. The observer belongs to the situation's outcome. Body, inheritance, concern and consequence are active in seeing; removing them from the account can make participation harder to recognise while leaving its effects fully operative. Impartiality demands that this involvement be acknowledged and situated. It cannot be obtained by indifference.
 
 The P5 formulations are Taylor's authorial interpretation, sourced here as such. Gebser warrants the historical-optical method and the aperspectival direction; Taylor carries their Subject, context and measure consequences. The source house permits page-specific paraphrase, while selected-edition quotation remains locator-needed.
 
@@ -35,7 +40,7 @@ The whole image must retain its return. The Father names the ordering ground who
 
 ## #3
 
-The corrected stained-glass construction figures how this seeing can be built. Originating white light is Bimba; its implicate, ordered spectrum is QL. Differently made and positioned panes, their angles, densities, joins and relations are MEF. The coloured projection entering the room is pratibimba. [[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|Q27's stained-glass correction]] sources these assignments and explicitly supersedes the earlier allocation of QL to the frame and Bimba to a constructed world-picture.
+The corrected stained-glass construction figures how this seeing can be built. Originating white light is Bimba; its implicate, ordered spectrum is QL. Differently made and positioned panes, their angles, densities, joins and relations are MEF. The coloured projection entering the room is pratibimba. [[quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|Q27's stained-glass correction]] sources these assignments and explicitly supersedes the earlier allocation of QL to the frame and Bimba to a constructed world-picture.
 
 Colour is a determinate power of disclosure. A pane gives the light a path and makes a particular articulation visible. The lead seams retain source difference, historical discontinuity, translation limit and register change. Removing those seams would destroy the articulated window; attending only to the inventory of panes would lose the light by which the construction works. Move the sun, the viewer or the room's relation to the aperture, and the projection changes. The Original becomes recognisable through those ordered transformations without becoming their average or a final image assembled by addition.
 
@@ -43,7 +48,7 @@ The image carries the full relation: source, spectral order, refractive apparatu
 
 ## #4
 
-The native [[working/sources-texts-references/10-7-2026-core-theorems-pithy|theorem spine]] derives the `180°→360°` turn from the subject's own account. First-, second- and third-person positions are traversed in sequence: knower, means, known. The triangle gives this determinate perspective its figure. At `#4`, zero enters as the voiding of each view's claim to exclusive completeness; the three become simultaneously available as context. At `#5`, their relation is recognised as one appearing-act; at `#0`, that achieved one returns as `0/1`.
+The native [theorem spine](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) derives the `180°→360°` turn from the subject's own account. First-, second- and third-person positions are traversed in sequence: knower, means, known. The triangle gives this determinate perspective its figure. At `#4`, zero enters as the voiding of each view's claim to exclusive completeness; the three become simultaneously available as context. At `#5`, their relation is recognised as one appearing-act; at `#0`, that achieved one returns as `0/1`.
 
 Three sequential perspectives are therefore answered by one recognition in three operations: void, one, `0/1`. This is why the return reads `3:3` and also `3:1`. The square's `360°` holds the triangle's `180°` without adding a fourth pronoun or positioning a superior observer outside the world. The developmental Necker-cube image makes the operation tangible: a change of reading exposes the first view's exclusivity; the wireframe lets both readings belong to one configuration. [[A18-Primordial-Symbolon-and-Its-Eight-Determinations|A18]] grounds that local turn in the complete eight-determination field, where `AM/IS` is personed circumstance and `∞/dx` retains the horizon of exact local reading. The QL counts are Taylor's derivation; Gebser does not supply the notation.
 
@@ -62,9 +67,9 @@ Contextual transparency **returns-to** [Con-text-through-Diaphaneity → Regard]
 
 The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-blue-marble-hinge) **figures** the planetary picture becoming readable together with its situated production and viewer. The Blue Marble hinge asks whose planet is computed, by whom and under which gauge. Being with the view includes care for its effects, so disclosed context can alter its next use; no specific NASA frame is selected here.
 
-The [complete stained-glass whole](submission-package/essay/symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-projection) **figures** this dual reading through the room’s cast image and the situated viewer. The visible colour carries the construction through which it arrived; a changed encounter lets its source, placement and exclusions alter the next view. The image’s optical sequence gives contextual transparency a revisitable body.
+The [complete stained-glass whole](../../mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-projection) **figures** this dual reading through the room’s cast image and the situated viewer. The visible colour carries the construction through which it arrived; a changed encounter lets its source, placement and exclusions alter the next view. The image’s optical sequence gives contextual transparency a revisitable body.
 
-Light, boundary and orientation emerge together in the world-parent separation. Taylor's Neumann encounter figures the achieved view becoming readable through the conditions of its differentiation. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation). The circle-costume makes an actual visible feature exhaustive; recovering mouth, depth and opening makes the conditions of that view available. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-position-opposition).
+Light, boundary and orientation emerge together in the world-parent separation. Taylor's Neumann encounter figures the achieved view becoming readable through the conditions of its differentiation. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation). The circle-costume makes an actual visible feature exhaustive; recovering mouth, depth and opening makes the conditions of that view available. This **returns-to** [the uroboros whole](../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-position-opposition).
 
 The achieved view returns to the situation with its powers intact and its dependence legible. In a technical world, prompt, memory, permissions, tools, inherited language and concern participate in what can appear and become actionable. Making those conditions inspectable extends diaphaneity into design. [[A26-Objective-Internality-Mind-as-Worldhood|A26]] extends the claim into an operative interior constituted through a context-world; [[C40-Model-Internality-Judgment-Field|C40]] and [[C41-Objective-Internality|C41]] define the corresponding reusable distinctions. Inspectable functional organisation does not settle phenomenal subjectivity in either direction.
 

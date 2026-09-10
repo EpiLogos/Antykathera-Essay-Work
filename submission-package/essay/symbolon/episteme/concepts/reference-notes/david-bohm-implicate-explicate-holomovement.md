@@ -5,6 +5,7 @@ aliases:
   - "Bohm Implicate and Explicate Order"
   - "Implicate and Explicate Order"
   - "Holomovement"
+source_id: david-bohm-implicate-explicate-holomovement
 node_type: reference
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

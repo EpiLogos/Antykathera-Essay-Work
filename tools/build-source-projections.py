@@ -188,10 +188,17 @@ def passages(source: Source) -> list[Passage]:
     return result
 
 
-def header(title: str, digest: str) -> list[str]:
+def header(title: str, digest: str, source_id: str) -> list[str]:
+    # A generated page still needs a declared identity. These projections are
+    # among the most-cited documents in the vault, and a file that declares no
+    # `source_id` is set aside by AIKit's corpus ingest — so every link into it
+    # dies unresolved and its own text never reaches the SourcePool. Declaring
+    # it here, in the generator, keeps it true across regeneration; adding it to
+    # the output by hand does not survive the next build.
     return [
         "---",
         f'title: "{title}"',
+        f"source_id: {source_id}",
         "generated: true",
         "generator: tools/build-source-projections.py",
         f'source_digest: "{digest}"',
@@ -235,7 +242,7 @@ def render(root: Path) -> dict[Path, bytes]:
             "sections without a declared main source: " + ", ".join(sorted(empty_sections))
         )
 
-    main = header("Return of Zero — Main Sources by Section", digest)
+    main = header("Return of Zero — Main Sources by Section", digest, "main-sources")
     main.extend(
         [
             "# Main Sources by Section",
@@ -257,7 +264,7 @@ def render(root: Path) -> dict[Path, bytes]:
         if rows:
             main.append("")
 
-    index = header("Return of Zero — Canonical Source Index", digest)
+    index = header("Return of Zero — Canonical Source Index", digest, "source-index")
     index.extend(["# Canonical Source Index", ""])
     for source in sorted(sources, key=lambda item: (item.title.casefold(), item.source_id)):
         link = source_link(outputs["SOURCE-INDEX.md"], source)
@@ -281,7 +288,7 @@ def render(root: Path) -> dict[Path, bytes]:
         )
         raise ValueError("duplicate passage IDs: " + detail)
 
-    ledger = header("Return of Zero — Passage Locator Ledger", digest)
+    ledger = header("Return of Zero — Passage Locator Ledger", digest, "passage-ledger")
     ledger.extend(
         [
             "# Passage Locator Ledger",

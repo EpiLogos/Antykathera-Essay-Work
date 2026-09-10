@@ -99,6 +99,6 @@ Exact text and consumer mappings: [Quotes — Gödel Undecidable Propositions (1
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `godel-1931-undecidable-propositions-q001` | `godel-1931-undecidable-propositions` | note 46 | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[Paradox as Cross-Register Hinge]] | primary historical/formal context | [Quotes — Gödel Undecidable Propositions (1931)](#passages) |
+| `godel-1931-undecidable-propositions-q001` | `godel-1931-undecidable-propositions` | note 46 | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | primary historical/formal context | [Quotes — Gödel Undecidable Propositions (1931)](#passages) |
 
-| `godel-1931-undecidable-propositions-q002` | `godel-1931-undecidable-propositions` | note 1 | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[Paradox as Cross-Register Hinge]] | scope limitation | [Quotes — Gödel Undecidable Propositions (1931)](#passages) |
+| `godel-1931-undecidable-propositions-q002` | `godel-1931-undecidable-propositions` | note 1 | quotation-ready | `04-s01-p3-formal-limit-genealogy` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | scope limitation | [Quotes — Gödel Undecidable Propositions (1931)](#passages) |

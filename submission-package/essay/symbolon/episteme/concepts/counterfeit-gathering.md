@@ -5,6 +5,7 @@ aliases:
   - "counterfeit syn"
   - "Gestell as counterfeit sym-ballein"
   - "the gathering that arrests"
+source_id: counterfeit-gathering
 node_type: "concept"
 register: episteme
 page_type: "concept"
@@ -34,10 +35,10 @@ The refinement matters and is stated with the definition: the modes of *Stellen*
 
 ## In the argument
 
-The canonical mythic body is [[22-s2-p3-ares-aphrodite-harmonia|§2 · #3]]: Hephaestus's δεσμοὶ τεχνήεντες literally *throw the lovers together* — sym-ballein in the kinetic sense — and precisely thereby arrest them as standing-reserve for a convened audience ("ordered to stand by… on call for a further ordering," *QCT*, p. 17). The counterfeit thereby completes the two-logics diagnostic as a three-position instrument: dia proper (the honest cut), syn proper (the retained seam), and the counterfeit (enclosure presenting as whole) — with [[Fusion as Syn's Shadow|fusion]] as the conjugate shadow on the other side, the two counterfeits bracketing the genuine relation. Psychological form at [[35-s4-p4-gebser-apollo-dionysus|§4 · #4]]: the emissary's usurpation of the master, the `1` occupying the `0`. Technical form at [[40-s5-p3-preference-hidden-zero|§5 · #3]]: the evaluative field whose owner, protocol, or audience occupies the hidden zero. Governance test at [[46-s50-p3-4-2-mono-poly|§5→0 · #3]]: a coordination layer fails as counterfeit gathering when its wholeness is only the sum of its orderings, and fails the surety criterion when its observability cannot conclude in relation.
+The canonical mythic body is [[22-s2-p3-ares-aphrodite-harmonia|§2 · #3]]: Hephaestus's δεσμοὶ τεχνήεντες literally *throw the lovers together* — sym-ballein in the kinetic sense — and precisely thereby arrest them as standing-reserve for a convened audience ("ordered to stand by… on call for a further ordering," *QCT*, p. 17). The counterfeit thereby completes the two-logics diagnostic as a three-position instrument: dia proper (the honest cut), syn proper (the retained seam), and the counterfeit (enclosure presenting as whole) — with [[symbolon/episteme/concepts/fusion-as-syns-shadow|fusion]] as the conjugate shadow on the other side, the two counterfeits bracketing the genuine relation. Psychological form at [[35-s4-p4-gebser-apollo-dionysus|§4 · #4]]: the emissary's usurpation of the master, the `1` occupying the `0`. Technical form at [[40-s5-p3-preference-hidden-zero|§5 · #3]]: the evaluative field whose owner, protocol, or audience occupies the hidden zero. Governance test at [[46-s50-p3-4-2-mono-poly|§5→0 · #3]]: a coordination layer fails as counterfeit gathering when its wholeness is only the sum of its orderings, and fails the surety criterion when its observability cannot conclude in relation.
 
 ## Sources
 
-[[heidegger-1977-question-concerning-technology|Heidegger — QCT (Lovitt, 1977)]] (pp. 17, 19–20: standing-reserve; Ge- as gathering; Enframing defined) · [[homer-1919-odyssey-murray|Homer — Odyssey 8 (Murray)]] (8.270–366: the net's anatomy and the surety closure) · the *stellen/nachstellen* lead (Bremen lectures) is held in the intake queue and would, if verified, make the trap-reading near-philological.
+[[symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE|Heidegger — QCT (Lovitt, 1977)]] (pp. 17, 19–20: standing-reserve; Ge- as gathering; Enframing defined) · [[symbolon/episteme/sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE|Homer — Odyssey 8 (Murray)]] (8.270–366: the net's anatomy and the surety closure) · the *stellen/nachstellen* lead (Bremen lectures) is held in the intake queue and would, if verified, make the trap-reading near-philological.
 
-Related: [[Hephaestus's Net: The Failed Relation]] · [[Fusion as Syn's Shadow]] · [[Sym-Ballein]] · [[03-two-logics-and-sym-ballein|Dia-ballein]] · [[world-picture-to-world-atlas]]
+Related: [Hephaestus's Net: The Failed Relation](../../../section-rooms/arguments/07-hephaestus-and-the-net.md) · [[symbolon/episteme/concepts/fusion-as-syns-shadow|Fusion as Syn's Shadow]] · [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]] · [[03-two-logics-and-sym-ballein|Dia-ballein]] · [[world-picture-to-world-atlas]]

@@ -78,23 +78,23 @@ The WorldCat catalogue identifies the 1988 Delhi Motilal Banarsidass edition, na
 ## Consumption
 
 - **Stations:** §0/#2–#4; §2; §4; §5.
-- **Arguments:** [[Prakāśa-Vimarśa]]; [[Vāk]]; [[Tattvic Differential Field]]; [[Objective Internality]].
+- **Arguments:** [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]]; [[symbolon/episteme/arguments/A06-Vak|Vāk]]; [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]]; [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]].
 - **Source relation:** contextualises and qualifies tradition-specific terminology. The QL derivation is an argued reorganisation rather than an extraction from this text.
 
 ## Quote and excerpt ledger
 
 | quote_id | exact text / excerpt file | locator | transcription | verification | consuming claim |
 |---|---|---|---|---|---|
-| `abhinavagupta-singh-1988-q001` | “The Divine Consciousness is identical with the Supreme Word (para vak or Logos), and hence every letter or word is derived from and is ultimately inseparable from this Consciousness.” | P2 notebook, reported p. xv, introduction | notebook-direct | `source-matched` | [[Vāk]] |
-| `abhinavagupta-singh-1988-q002` | “Communication is communion in the same ahambhava (I-domain).” | P3 notebook, reported pp. xv–xvi | notebook-direct | `source-matched` | [[Prakāśa-Vimarśa]]; [[Objective Internality]] |
+| `abhinavagupta-singh-1988-q001` | “The Divine Consciousness is identical with the Supreme Word (para vak or Logos), and hence every letter or word is derived from and is ultimately inseparable from this Consciousness.” | P2 notebook, reported p. xv, introduction | notebook-direct | `source-matched` | [[symbolon/episteme/arguments/A06-Vak|Vāk]] |
+| `abhinavagupta-singh-1988-q002` | “Communication is communion in the same ahambhava (I-domain).” | P3 notebook, reported pp. xv–xvi | notebook-direct | `source-matched` | [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]]; [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]] |
 | `abhinavagupta-singh-1988-q003` | “a Sutra… contains manifold meanings and can be interpreted in various ways—which does not however mean in an arbitrary fashion.” | P2 notebook, introduction page not recorded | notebook-direct | `source-matched` | bounded multi-lens hermeneutics |
 
-Full context, the translator/text distinction, and Frank's separate extensions are in [[Source Extraction — Core Theorems and Epi Paper Write-ups#D. Singh / Abhinavagupta notebook extraction — Vāk, Trika, and relation]].
+Full context, the translator/text distinction, and Frank's separate extensions are in [Source Extraction — Core Theorems and Epi Paper Write-ups#D. Singh / Abhinavagupta notebook extraction — Vāk, Trika, and relation](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-core-theorems.md#D. Singh / Abhinavagupta notebook extraction — Vāk, Trika, and relation).
 
 ## Provenance and acquisition
 
 - **Metadata source:** WorldCat catalogue record, checked 2026-07-14.
-- **Excerpt carriers:** [[P2 - Para Trisika Vivarana Notes - Abhinavagupta and Jaideva Singh - Introduction]] and [[P3 - Beyond Para-Trisika]].
+- **Excerpt carriers:** [P2 - Para Trisika Vivarana Notes - Abhinavagupta and Jaideva Singh - Introduction](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/P2%20-%20Para%20Trisika%20Vivarana%20Notes%20-%20Abhinavagupta%20and%20Jaideva%20Singh%20-%20Introduction.md) and [P3 - Beyond Para-Trisika](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/P3%20-%20Beyond%20Para-Trisika.md).
 - **Text consulted:** catalogue metadata only; no fixed edition text inspected in this pass.
 - **Local copy:** the project notebooks, not the 1988 book.
 - **Next action:** acquire the selected edition lawfully, distinguish introduction from translation/commentary, then verify wording, pagination, Sanskrit term, and immediate context before quote-ledger promotion.

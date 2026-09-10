@@ -51,6 +51,8 @@ url: https://www.poetryfoundation.org/poetrymagazine/issue/71009/august-1970
 ---
 # Goethe — Selected Poems: Permanence in Change (Nims, 1983)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Chicago 18 forms
 
 **Full note (selected edition; collation Open):** Johann Wolfgang von Goethe, “Permanence in Change,” trans. John Frederick Nims, in *Selected Poems*, ed. Christopher Middleton, vol. 1 of *Goethe: The Collected Works* (Princeton, NJ: Princeton University Press, 1983), 169.

@@ -2,6 +2,7 @@
 title: "Cross-Ratio"
 aliases:
   - "Cross-Ratio"
+source_id: cross-ratio
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

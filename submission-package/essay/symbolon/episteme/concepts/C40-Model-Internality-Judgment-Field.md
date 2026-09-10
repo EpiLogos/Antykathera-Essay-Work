@@ -1,4 +1,5 @@
 ---
+record_id: C40
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from authorial Model Internality and MEF/J-Space research; Offered design inscriptions and implementation evidence remain distinct"
@@ -29,7 +30,7 @@ Q27 distinguishes searching for a better output inside a fixed evaluation from a
 
 The Judgment Field **returns-to** [Count-to-Account](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-to-account) through actual conditioning: which source supplied evidence, which gauge measured it, which rule selected the branch and which permission enabled action. Their separation lets a correction reach the relevant cause. Reuse of the resulting account must retain this scope, since a model’s explanation of its formation is itself another determination requiring support.
 
-The [Symbol / Account / Trust whole-field — Account does not replace source](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. The exposed judgment field makes actual conditioning inspectable. Its resulting account retains its scope when reused as input, and cannot claim the whole world through that reuse. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
+The [Symbol / Account / Trust whole-field — Account does not replace source](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. The exposed judgment field makes actual conditioning inspectable. Its resulting account retains its scope when reused as input, and cannot claim the whole world through that reuse. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
 
 The returned judgment can become a source for later work only with its scope and provenance retained. C39 supplies the lens discipline, C43 computational self-return and C45 the check that a distinction made a discriminable operational difference. The result is an accountable model field, not possession of the world or a demonstration of subjectivity. Exact J-Space experiment history and observability requirements remain research tasks under this wider Concept.
 

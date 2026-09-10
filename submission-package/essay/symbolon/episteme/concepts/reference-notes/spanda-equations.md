@@ -3,6 +3,7 @@ title: "Spanda Equations"
 aliases:
   - "Spanda Equations"
   - "Spanda"
+source_id: spanda-equations
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

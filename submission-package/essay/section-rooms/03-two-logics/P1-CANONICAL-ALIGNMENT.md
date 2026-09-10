@@ -1,3 +1,7 @@
+---
+source_id: 03-two-logics-p1-canonical-alignment
+---
+
 # P1 Canonical Alignment — §2 Two Logics
 
 **Wave:** T11 / #12.  

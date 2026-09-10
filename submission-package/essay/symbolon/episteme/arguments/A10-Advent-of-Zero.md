@@ -1,9 +1,18 @@
 ---
+aliases:
+  - "The Advent of Zero, Subject, and Integral Logic"
+  - "The Advent of 0/1"
+  - "Zero–Subject Historical Braid"
+record_id: A10
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued historical synthesis; Paraphrased source-specific mathematical offices; native derivation and external chronology retain distinct warrants"
 ---
 # A10 — Advent of Zero
+
+<!-- paired-field-navigation -->
+[Argument field](README.md) · [Other face: A10′ — The Uncounted Enters the Account](../conjugate/A10-prime-Uncounted-Enters-the-Account.md) · [Shared A/C root](../conjugate/AC.md)
+<!-- /paired-field-navigation -->
 
 **Standing:** canonical semantic Argument; historical Argument 08 remains provenance. Historical synthesis is Argued; mathematical operations retain their stated systems; QL's later office is native authorial derivation.
 
@@ -55,7 +64,7 @@ The [mathematics history](../histories/traditions-and-disciplines/mathematics/DE
 
 The first advent **returns-to** [Name-through-Count](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count) by keeping inscription, positional function and arithmetic permission together in the account of each use. A nameable zero can hold a place before it acts as an operand; a retained zero denominator belongs to its stated regime. The historical sign acquires exact powers through those differences, which the later symbolic return must preserve.
 
-The paper-and-erasure scene receives zero after its mathematical office has been earned. Its mythemic return depends upon the historical sign whose first advent remains this Argument's task. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold).
+The paper-and-erasure scene receives zero after its mathematical office has been earned. Its mythemic return depends upon the historical sign whose first advent remains this Argument's task. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold).
 
 At an exceptional operation, the successful sign makes its containing rules visible. Zero's historical integrity thus gives A03's formal-limit problem a disciplined mathematical neighbour: specify the expression, the allowed operation, and the law that would fail or change. The limit has a determinate form rather than an unspecified mystery.
 

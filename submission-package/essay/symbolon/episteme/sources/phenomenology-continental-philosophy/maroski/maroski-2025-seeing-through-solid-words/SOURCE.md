@@ -96,6 +96,6 @@ Exact text and consumer mappings: [Quotes — Maroski Seeing Through Solid Words
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `maroski-2025-seeing-through-solid-words-q001` | `maroski-2025-seeing-through-solid-words` | p. 1 | quotation-ready | `05-s01-p4-gebser-diaphaneity` | [[Paradox as Cross-Register Hinge]] | primary formulation | [Quotes — Maroski Seeing Through Solid Words (2025)](#passages) |
+| `maroski-2025-seeing-through-solid-words-q001` | `maroski-2025-seeing-through-solid-words` | p. 1 | quotation-ready | `05-s01-p4-gebser-diaphaneity` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | primary formulation | [Quotes — Maroski Seeing Through Solid Words (2025)](#passages) |
 
-| `maroski-2025-seeing-through-solid-words-q002` | `maroski-2025-seeing-through-solid-words` | p. 1 | quotation-ready | `05-s01-p4-gebser-diaphaneity` | [[Paradox as Cross-Register Hinge]] | limitation | [Quotes — Maroski Seeing Through Solid Words (2025)](#passages) |
+| `maroski-2025-seeing-through-solid-words-q002` | `maroski-2025-seeing-through-solid-words` | p. 1 | quotation-ready | `05-s01-p4-gebser-diaphaneity` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | limitation | [Quotes — Maroski Seeing Through Solid Words (2025)](#passages) |

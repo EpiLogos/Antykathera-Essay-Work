@@ -1,16 +1,20 @@
 ---
 title: P2 Enrichment Handoff
 label: wayfinder:map
-status: "T17–T21 developed and accepted; T22 batches verified 2026-09-08"
+status: "T24 review complete 2026-09-09 with T23 repairs; authorial review and common-base ratification precede manuscript writing"
 
 created: 2026-09-06
 programme_parent: "Return of Zero Writing Programme / GitHub #1"
-completed_through: "T19 / GitHub #20 — scoped root/Matheme development"
-next_gate: "STOP before T23/T24 and manuscript composition"
+completed_through: "T24 — whole-before-writing review; no new authorial ratification implied"
+next_gate: "Frank reviews the repaired 48-movement carry and ratifies one common writing base under WRITING-PROTOCOL"
 branch: "main"
 ---
 
 # P2 Enrichment Handoff
+
+**Current return, 2026-09-09 — T24:** Frank authorised the whole-before-writing check and an independent audit/repair of T23. The review is complete: all 281 admitted records and the full 137 A/C suite are present, unique and reader-reachable; all 48 movement routes and handoffs are checked, with bounded argument-propagation repairs. See the [T24 receipt](../../working/p2-enrichment/receipts/T24-whole-before-writing-2026-09-09.md) for evidence, final tests and the research/authorial-assignment limits. The work is uncommitted. The next gate is Frank's review and common-base ratification, **not another T23/T24 execution and not automatic manuscript composition**. All dated STOPs and counts below describe earlier states.
+
+**T23 return, 2026-09-08 (evening):** Frank authorised T23 after the T20–T21 acceptance. The navigable surface is built: authored reading root, generated rooms index, room breadcrumbs, front-loaded register entry pages, curated-path reasons, and the generated MOC/intents/audit layer (`tools/build-navigation.py`, hook-checked). See the [T23 receipt](../../working/p2-enrichment/receipts/T23-navigable-surface-2026-09-08.md) for what was built, what the audit found, and the open proposals (vault root, Agentworld-brief alias, return routes). **STOP before T24** until Frank reviews the surface and decides the three proposals.
 
 **Live execution return, 2026-09-08:** T20 and T21 are developed and accepted on `main`, with T22 per batch. All 25 whole Mythemes and 163 Episteme records have their canonical homes; 127 quilt units, 272 E-programme rows and all 1,333 typed consumer instances are dispositioned. See the [completion receipt](../../working/p2-enrichment/receipts/T20-T21-COMPLETION-2026-09-08.md), [current coverage](../../working/p2-enrichment/T21-e-field-consumer-coverage.md) and [execution state](../../working/p2-enrichment/T20-T21-LIVE-EXECUTION-STATE.json). Completed T17–T19 and the manuscript remain preserved. **STOP before T23/T24 and manuscript composition.** Dated preparation instructions and earlier pending statuses below are historical; do not restart completed waves from them.
 

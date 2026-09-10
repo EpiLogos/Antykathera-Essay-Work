@@ -4,6 +4,7 @@ aliases:
   - "Two Ones"
   - "Mono–Poly Matheme"
   - "0/1, One, and All"
+source_id: 19-two-ones-mono-poly-matheme
 node_type: synthesis
 page_type: argument-map
 argument_level: core
@@ -25,9 +26,13 @@ tags:
   - argument-map/mono-poly
   - argument-map/two-logics
   - ql/theorem-unit
+record_type: legacy-argument
+authority: historical-provenance
 ---
 
 # The Two Ones — Mono–Poly Matheme
+
+**Historical carrier.** The developed successor is [A11](../../symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claim
 

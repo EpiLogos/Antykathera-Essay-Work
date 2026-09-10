@@ -3,6 +3,7 @@ title: "Wittgenstein — Limit, Silence, and Forms of Life"
 aliases:
   - "Wittgenstein Formal Limit"
   - "Wittgenstein — Tractatus and Philosophical Investigations"
+source_id: wittgenstein-limit-silence-forms-of-life
 node_type: reference
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

@@ -6,6 +6,7 @@ aliases:
   - "36 Tattvas"
   - "Antaḥkaraṇa"
   - "Pratyabhijñā"
+source_id: 13-tattvic-differential-field
 node_type: "claim"
 page_type: "argument-map"
 argument_level: "core"
@@ -32,14 +33,18 @@ tags:
   - argument-map/process-ontology
   - argument-map/psychoid
   - argument-map/claim
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Tattvic Differential Field
+
+**Historical carrier.** The developed successor is [A09](../../symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claim
 
 The tattvas supply the metaphysical and phenomenological genealogy of differentiation: a precise account of how one luminous field becomes capable of mutually evolving distinctions, a subject–object seam, a situated horizon, an inner instrument, and a world without ceasing to be one field. Their order makes the theory's operations cosmologically legible; a catalogue detached from that movement would lose their argumentative force.
 
-The [[working/sources-texts-references/10-7-2026-core-theorems-pithy#X. The Tattvic QL Unit — Sixfold Contraction and Recognition|Tattvic QL Unit]] carries the necessary movement:
+The [Tattvic QL Unit](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) carries the necessary movement:
 
 1. `#0` — Anuttara: no object stands outside the field from which to measure it.
 2. `#1` — Śiva–Śakti: luminosity and its self-articulating power become distinguishable within one reality.
@@ -54,7 +59,7 @@ The [[working/sources-texts-references/10-7-2026-core-theorems-pithy#X. The Tatt
 
 ## Apoha and vikalpa
 
-[[submission-package/essay/symbolon/episteme/concepts/apoha|Apoha]] is this field read epistemically at the point of determination: a mark arises through exclusion, and the excluded field remains constitutive of it. *Vikalpa* is the constructive activity that forms the distinction; *saṃkalpa* gathers a world around selected determinations. Buddhi settles, ahaṃkāra appropriates, and manas coordinates alternatives. These are the concrete dynamics through which objective internality comes alive; treating them as veils over an empty machine would erase the operations the computational comparison is meant to expose.
+[[symbolon/episteme/concepts/apoha|Apoha]] is this field read epistemically at the point of determination: a mark arises through exclusion, and the excluded field remains constitutive of it. *Vikalpa* is the constructive activity that forms the distinction; *saṃkalpa* gathers a world around selected determinations. Buddhi settles, ahaṃkāra appropriates, and manas coordinates alternatives. These are the concrete dynamics through which objective internality comes alive; treating them as veils over an empty machine would erase the operations the computational comparison is meant to expose.
 
 In the [[Computational Process Ontology|computational-process register]], the descent is a runtime cartography. Māyā makes the subject/object seam operative; the kañcukas parameterise the local run as limited capacity, knowledge, desire, time, and order; antaḥkaraṇa executes determination, appropriation, coordination, memory, and selection within that bounded horizon. The reading neither reduces Śaiva metaphysics to software nor treats computation as a decorative analogy. It recognises that both accounts concern how a field becomes a workable world through ordered differentiation.
 

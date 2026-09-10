@@ -2,6 +2,7 @@
 title: "Rotman Semiotics of Zero"
 aliases:
   - "Rotman Semiotics of Zero"
+source_id: rotman-semiotics-of-zero
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

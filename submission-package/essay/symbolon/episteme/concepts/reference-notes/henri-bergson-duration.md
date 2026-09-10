@@ -4,6 +4,7 @@ aliases:
   - "Henri Bergson"
   - "Bergson"
   - "Bergsonian Duration"
+source_id: henri-bergson-duration
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

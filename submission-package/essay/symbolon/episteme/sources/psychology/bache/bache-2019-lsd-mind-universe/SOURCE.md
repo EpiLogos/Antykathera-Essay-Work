@@ -36,6 +36,8 @@ passage_surface: '#passages'
 ---
 # Bache — LSD and the Mind of the Universe (2019)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Chicago 18 forms
 
 **Full note:** Christopher M. Bache, *LSD and the Mind of the Universe: Diamonds from Heaven*, foreword by Ervin Laszlo (Park Street Press, 2019), {page}.

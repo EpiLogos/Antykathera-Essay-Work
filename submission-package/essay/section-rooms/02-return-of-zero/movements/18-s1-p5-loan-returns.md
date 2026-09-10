@@ -1,5 +1,6 @@
 ---
 title: "§1 · #5→0 — The Loan Returns"
+source_id: 18-s1-p5-loan-returns
 node_type: section
 page_type: section-movement
 station: "§1"
@@ -17,6 +18,10 @@ quote_ids:
 tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/return-zero, station/s1, position/p5]
 ---
 # §1 · #5→0 — The Loan Returns
+
+<!-- reader-navigation -->
+Movement 18 of 48 · [This room](../ROOM.md) · [← Previous](17-s1-p4-zero-outside-math.md) · [Next →](../../03-two-logics/movements/19-s2-p0-difference-cannot-be-escaped.md)
+<!-- /reader-navigation -->
 
 ## Movement thesis
 

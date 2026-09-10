@@ -10,15 +10,22 @@ class DevelopmentSkillContractTests(unittest.TestCase):
     def skill(self, name: str) -> str:
         return (SKILLS / name / "SKILL.md").read_text(encoding="utf-8")
 
-    def test_codex_discovers_four_focused_project_skills(self):
+    def test_codex_discovers_eight_project_local_skills(self):
         names = {path.parent.name for path in SKILLS.glob("*/SKILL.md")}
         self.assertEqual(names, {
             "return-of-zero-orient",
             "return-of-zero-source",
             "return-of-zero-write",
             "return-of-zero-review",
+                "return-of-zero-build",
+                "return-of-zero-pages",
+                "return-of-zero-links",
+                "return-of-zero-visuals",
         })
         for name in names:
+            self.assertTrue(self.skill(name).startswith("---\n"), name)
+        # UI metadata is optional; the four original routing skills provide it.
+        for name in {"return-of-zero-orient", "return-of-zero-source", "return-of-zero-write", "return-of-zero-review"}:
             self.assertTrue((SKILLS / name / "agents/openai.yaml").is_file())
 
     def test_orientation_preserves_graph_and_native_language_gates(self):

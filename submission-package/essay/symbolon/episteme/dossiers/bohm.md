@@ -1,5 +1,8 @@
 ---
 title: "Bohm — Enfoldment, Dialogue and the Return of an Account"
+aliases:
+  - "Bohmian Enfoldment and Dialogical Return"
+  - "Implicate-Explicate QL Bridge"
 record_id: dossier-bohm
 record_type: dossier
 register: episteme

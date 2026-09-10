@@ -2,6 +2,7 @@
 title: "Chinese Remainder Theorem Z6"
 aliases:
   - "Chinese Remainder Theorem Z6"
+source_id: chinese-remainder-theorem-z6
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

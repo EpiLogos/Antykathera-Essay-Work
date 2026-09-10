@@ -1,3 +1,7 @@
+---
+source_id: 00-integral-threshold-p1-canonical-alignment
+---
+
 # P1 Canonical Alignment — §0/1 Integral Threshold
 
 **Wave:** T10 / #11.  

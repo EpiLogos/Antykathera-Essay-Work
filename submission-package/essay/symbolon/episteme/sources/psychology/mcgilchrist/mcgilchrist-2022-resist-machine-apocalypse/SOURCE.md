@@ -114,7 +114,7 @@ Consumed by [[42-s5-p5-research-vectors]] (the contemporary AI mapping in the re
 
 ### Claim boundary
 
-This is an essayistic claim by the author in a magazine of religion and public life, not peer-reviewed neuroscience; the essay uses it as a contemporary witness only. It inherits the full criticism gate of [[mcgilchrist-2009-master-emissary]] (the hemispheric framework it extends is contested), and nothing here licenses claims about how AI systems actually work.
+This is an essayistic claim by the author in a magazine of religion and public life, not peer-reviewed neuroscience; the essay uses it as a contemporary witness only. It inherits the full criticism gate of [[symbolon/episteme/sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE|mcgilchrist-2009-master-emissary]] (the hemispheric framework it extends is contested), and nothing here licenses claims about how AI systems actually work.
 
 ## Open acquisition and verification
 

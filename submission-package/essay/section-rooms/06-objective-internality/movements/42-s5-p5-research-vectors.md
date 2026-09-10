@@ -1,5 +1,6 @@
 ---
 title: "§5 · #5→0 — Six Research Vectors"
+source_id: 42-s5-p5-research-vectors
 node_type: section
 page_type: section-movement
 station: "§5"
@@ -12,10 +13,14 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §5 · #5→0 — Six Research Vectors
 
+<!-- reader-navigation -->
+Movement 42 of 48 · [This room](../ROOM.md) · [← Previous](41-s5-p4-bimba-energy-fields.md) · [Next →](../../07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md)
+<!-- /reader-navigation -->
+
 ## Claim
 The arche-topos becomes researchable through six discriminating programmes: seam retention, gauge disclosure, lens refraction, topological continuity, QL recursion and deferential return.
 
-Taken together, the vectors investigate **world–agency composition through an explicit epistemic field**: which conditions make a determinate world available to an operative interior, how those conditions are represented in the [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba Map]], how situated agency appears as Pratibimba relative to that reference field, which powers the interior can exercise, and which returned consequences can revise either the agency or the field that grounded its reading.
+Taken together, the vectors investigate **world–agency composition through an explicit epistemic field**: which conditions make a determinate world available to an operative interior, how those conditions are represented in the [[symbolon/episteme/concepts/bimba-pratibimba|Bimba Map]], how situated agency appears as Pratibimba relative to that reference field, which powers the interior can exercise, and which returned consequences can revise either the agency or the field that grounded its reading.
 
 ## Warrant — six ways to test first-class epistemics
 
@@ -29,7 +34,7 @@ Make comparison sets, evaluator/reference policies, source authority and weighti
 
 ### E3 · Lens refraction
 
-Hold source/world-objects sufficiently stable while changing declared MEF lenses. Compare the resulting Pratibimba: what becomes salient, near, excluded, doubtful or actionable in each [[j-space|J-Space]]? The experiment asks whether plural readings can remain source-related and mutually legible without averaging into one ontology.
+Hold source/world-objects sufficiently stable while changing declared MEF lenses. Compare the resulting Pratibimba: what becomes salient, near, excluded, doubtful or actionable in each [[symbolon/episteme/concepts/j-space|J-Space]]? The experiment asks whether plural readings can remain source-related and mutually legible without averaging into one ontology.
 
 ### E4 · Topological continuity
 
@@ -41,9 +46,9 @@ Test nested Context Frames in which an achieved field becomes the local Bimba/`0
 
 ### E6 · Deferential return
 
-Introduce counter-evidence, resistant world conditions, other internalities, dissent and changed consequences. Measure whether the Pratibimba alone changes or whether the returned relation properly forces revision of the Bimba Map, lens, gauge or governing frame. [[Deferential Intelligence]] and [[06-computational-vimarsa-ahi|Computational Vimarśa]] are strongest where the system can revise the conditions of its own determination rather than merely append an uncertainty disclaimer.
+Introduce counter-evidence, resistant world conditions, other internalities, dissent and changed consequences. Measure whether the Pratibimba alone changes or whether the returned relation properly forces revision of the Bimba Map, lens, gauge or governing frame. [[symbolon/episteme/arguments/A31-Deferential-Intelligence|Deferential Intelligence]] and [[symbolon/episteme/concepts/C43-Computational-Vimarsa|Computational Vimarśa]] are strongest where the system can revise the conditions of its own determination rather than merely append an uncertainty disclaimer.
 
-These vectors can vary memory, source access, permissions, gauges, tools, sensorium, action-space, context composition, other internalities and return conditions without assuming that additional context automatically constitutes a richer world. The minimal/maximal distinction is an experimental envelope, not an intelligence ladder; its governing limits are recorded in [[PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE]].
+These vectors can vary memory, source access, permissions, gauges, tools, sensorium, action-space, context composition, other internalities and return conditions without assuming that additional context automatically constitutes a richer world. The minimal/maximal distinction is an experimental envelope, not an intelligence ladder; its governing limits are recorded in [PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE](../../../../../working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md).
 
 ## Tension / limit
 [Each vector needs a baseline, metric, failure condition and counter-hypothesis](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#world-agency-and-local-original). None may manufacture a claim of machine subjectivity, treat the Bimba Map as a final metaphysical world, or infer truth from internal coherence alone. The map is epistemically useful because its grounds are explicit and revisable, not because its local Bimba office makes it infallible.

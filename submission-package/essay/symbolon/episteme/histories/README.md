@@ -1,5 +1,6 @@
 ---
 title: "Histories — Streams of the Logos in Time"
+source_id: histories-readme
 page_type: historical-learning-hub
 ownership: protected-learning-surface
 status: living
@@ -10,7 +11,7 @@ domain: histories
 
 # Histories — Streams of the Logos in Time
 
-**2026-09-08 architecture:** the next wave organises historical growth through places/peoples, traditions/disciplines and encounters/transmissions, with an atlas linked to Mytheme. The streams below remain current canonical bodies pending explicit one-home migration dispositions. Their teaching and protected learning form are retained. See the [execution map](../../../../../.wayfinder/maps/t20-t21-world-registers.md).
+**Where you are:** [Reading root](../../../README.md) › [#4 Episteme](../README.md) › Histories
 
 These histories follow the source-relations already active in *The Return of Zero*. They ask how a problem changes as it passes between thinkers, texts, practices, and periods: how absence becomes a written place and then an arithmetic power; how distinction moves from semantic exclusion into formal logic and computation; how the psyche–matter problem passes through Jung and Pauli into systems and agent research; how an ancient myth acquires philosophical, psychological, and technical force without ceasing to be a myth.
 
@@ -18,7 +19,7 @@ The folders register that movement across recurring sources. Bohm belongs to phy
 
 Every history has two linked bodies. The prose follows ideas in time from the canonical [source houses](../sources/SOURCE-INDEX.md), using their actual teaching, passages, locators, and stated boundaries. The movement index then points into the [48 granular sections](../../../section-rooms/README.md) at the places where that history bears the essay's argument. Source houses remain the authority for evidence; section nodes remain the authority for the essay's claims. These files are where the two can be learned together.
 
-The histories also provide the **trunk and branch body** for the project's etymological archaeology. Word-histories remain rooted in [[../etymologies/README|Etymologies]]; a historical register follows the actual persons, texts, laws, institutions and episodes through which those words and their operative relations become time-bound worlds. [[working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS|Etymological Archaeology Tree Seams]] keeps the root→trunk→branch→leaf return visible to the final quilt.
+The histories also provide the **trunk and branch body** for the project's etymological archaeology. Word-histories remain rooted in [Etymologies](../etymologies/README.md); a historical register follows the actual persons, texts, laws, institutions and episodes through which those words and their operative relations become time-bound worlds. [Etymological Archaeology Tree Seams](../../../../../working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md) keeps the root→trunk→branch→leaf return visible to the final quilt.
 
 ## Register histories
 
@@ -39,3 +40,7 @@ The histories also provide the **trunk and branch body** for the project's etymo
 Revise a history when a source house gains a passage, when a section changes the operation a source performs, or when a newly acquired work makes an inheritance or disagreement historically clearer. Add prose at the point in time where the relation changes; add the corresponding source and movement links beside it. New subfolders are useful only when the essay has already opened a distinct register with enough source depth to sustain a history.
 
 For archaeology-bearing histories, preserve the tree address as the history grows: which etymological root or sixfold opened the inquiry; which trunk relation is being followed; which regional/domain branch owns the chronology; which leaf supplies the local evidence; and which later fruit/seed has become inherited ground for another cycle.
+
+## Standing
+
+Historical growth is organised through places and peoples, traditions and disciplines, and encounters and transmissions, with an atlas linked to Mytheme. The register histories above occupy their single canonical homes under those three divisions; their teaching and protected learning form are retained, and each has a developed companion beside it. The organising direction is bound by the [central plan amendment of 2026-09-08](../../../../../the-return-of-zero-central-plan.md#amendment-2026-09-08--mytheme-and-episteme-as-open-world-registers) and executed through the [T20–T21 world-register map](../../../../../.wayfinder/maps/t20-t21-world-registers.md).

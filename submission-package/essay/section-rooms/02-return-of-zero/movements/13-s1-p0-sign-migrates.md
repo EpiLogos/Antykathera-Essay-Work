@@ -1,5 +1,6 @@
 ---
 title: "§1 · #0 — A Sign Migrates Between Worlds"
+source_id: 13-s1-p0-sign-migrates
 node_type: section
 page_type: section-movement
 station: "§1"
@@ -13,11 +14,15 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §1 · #0 — A Sign Migrates Between Worlds
 
+<!-- reader-navigation -->
+Movement 13 of 48 · [This room](../ROOM.md) · [← Previous](../../01-differentiating-mind/movements/12-s0-p5-objective-internality.md) · [Next →](14-s1-p1-sunya-operational.md)
+<!-- /reader-navigation -->
+
 ## Movement thesis
 
 Zero converges several historically distinct inventions: the blank place, placeholder, numeral, arithmetic element, origin, empty set, and sign of nothing. These meanings become powerful because they migrate between scripts, calculating practices, philosophical vocabularies, and civilisations. A sign for no counted thing changes the entire field of counting.
 
-Babylonian place-holding, Indian numerical development, Arabic transmission, and European adoption form an intercultural chain. The familiar modern number line conceals this dependency by presenting zero as if it had always occupied its obvious place. [[kaplan-1999-nothing-that-is|Robert Kaplan]] restores the narrative surprise; [[rotman-1987-signifying-nothing|Brian Rotman]] clarifies that zero changes the semiotic economy of number by letting absence participate in inscription.
+Babylonian place-holding, Indian numerical development, Arabic transmission, and European adoption form an intercultural chain. The familiar modern number line conceals this dependency by presenting zero as if it had always occupied its obvious place. [[symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE|Robert Kaplan]] restores the narrative surprise; [[symbolon/episteme/sources/mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE|Brian Rotman]] clarifies that zero changes the semiotic economy of number by letting absence participate in inscription.
 
 ## Derivation and source moves
 

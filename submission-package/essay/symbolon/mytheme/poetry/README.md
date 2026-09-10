@@ -14,4 +14,4 @@ Each record gives author, authoritative text or source, version, rights, exact e
 
 Voice-calibration excerpts used during writing remain outside the public corpus unless the poem itself is admitted here.
 
-Return to [[../README|Mytheme]].
+Return to [Mytheme](../README.md).

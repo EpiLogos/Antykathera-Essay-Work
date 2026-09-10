@@ -103,6 +103,6 @@ Exact text and consumer mappings: [Quotes — Cusa On Learned Ignorance](#passag
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `cusa-on-learned-ignorance-q001` | `cusa-on-learned-ignorance` | I.1.4; p. 6 | quotation-ready | `06-s01-p5-return-zero` | [[Immutable Gap and Meta-Sign]] | historical context | [Quotes — Cusa On Learned Ignorance](#passages) |
+| `cusa-on-learned-ignorance-q001` | `cusa-on-learned-ignorance` | I.1.4; p. 6 | quotation-ready | `06-s01-p5-return-zero` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | historical context | [Quotes — Cusa On Learned Ignorance](#passages) |
 
-| `cusa-on-learned-ignorance-q002` | `cusa-on-learned-ignorance` | I.3.9; pp. 7–8 | quotation-ready | `06-s01-p5-return-zero` | [[Paradox as Cross-Register Hinge]] | limitation | [Quotes — Cusa On Learned Ignorance](#passages) |
+| `cusa-on-learned-ignorance-q002` | `cusa-on-learned-ignorance` | I.3.9; pp. 7–8 | quotation-ready | `06-s01-p5-return-zero` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | limitation | [Quotes — Cusa On Learned Ignorance](#passages) |

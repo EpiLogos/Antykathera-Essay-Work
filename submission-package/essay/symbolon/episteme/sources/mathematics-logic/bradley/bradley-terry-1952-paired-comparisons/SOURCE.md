@@ -41,6 +41,8 @@ main_source_for:
 ---
 # Bradley and Terry — Rank Analysis of Incomplete Block Designs (1952)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Chicago 18 forms
 
 **Full note:** Ralph Allan Bradley and Milton E. Terry, “Rank Analysis of Incomplete Block Designs: I. The Method of Paired Comparisons,” *Biometrika* 39, nos. 3/4 (1952): {page}, https://doi.org/10.2307/2334029.

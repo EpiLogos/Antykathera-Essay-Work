@@ -1,5 +1,6 @@
 ---
 title: "§0 · #2 — Vikalpa and Saṃkalpa"
+source_id: 09-s0-p2-vikalpa-samkalpa
 node_type: section
 page_type: section-movement
 station: "§0"
@@ -11,6 +12,10 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §0 · #2 — Vikalpa and Saṃkalpa
 
+<!-- reader-navigation -->
+Movement 09 of 48 · [This room](../ROOM.md) · [← Previous](08-s0-p1-inner-instrument.md) · [Next →](10-s0-p3-apoha.md)
+<!-- /reader-navigation -->
+
 ## Movement thesis
 
 Mind constructs a context-world through a pulse: [[vikalpa-samkalpa|*vikalpa*]] differentiates and qualifies; [[vikalpa-samkalpa|*saṃkalpa*]] composes possibilities, intentions, and commitments from those differences. The root `√kḷp` concerns ordering, fitting, preparing, and forming. `Vi-` differentiates the field; `sam-` gathers a workable arrangement. These are not two faculties sitting inside a mental container. They are conjugate operations through which the container and its contents are continually produced.
@@ -19,9 +24,9 @@ The field is neither a neutral backdrop nor a residual heap of excluded things. 
 
 ## Process-ontology warrant
 
-Each act inherits a field, makes a distinction, selects within it, and changes what the next act can encounter. Bergson prevents this from being redescribed as a row of snapshots: prior differentiation survives in the qualitative shape of the present. [[whitehead-1978-process-reality|Whitehead]] shows achieved determinations entering the world as data for further becoming. [[diaphaneity|Gebser]] makes the structures of this becoming diaphanous rather than serially disposable. The tattvic descent places the entire pulse inside manifestation.
+Each act inherits a field, makes a distinction, selects within it, and changes what the next act can encounter. Bergson prevents this from being redescribed as a row of snapshots: prior differentiation survives in the qualitative shape of the present. [[symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE|Whitehead]] shows achieved determinations entering the world as data for further becoming. [[diaphaneity|Gebser]] makes the structures of this becoming diaphanous rather than serially disposable. The tattvic descent places the entire pulse inside manifestation.
 
-This is the first explicit statement of [[Computational Process Ontology]] in the essay. QL formalises the operations of field, cut, selection, composition, context, and return. MEF later instantiates the process by preserving lens, source, transformation, divergence, and revision inside the determinations it carries.
+This is the first explicit statement of [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] in the essay. QL formalises the operations of field, cut, selection, composition, context, and return. MEF later instantiates the process by preserving lens, source, transformation, divergence, and revision inside the determinations it carries.
 
 ## Computational bridge and claim boundary
 

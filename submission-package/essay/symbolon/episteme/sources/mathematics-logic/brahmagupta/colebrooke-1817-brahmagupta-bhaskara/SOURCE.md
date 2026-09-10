@@ -96,7 +96,7 @@ Exact text, rendered-page verification, and consumer mappings: [Colebrooke passa
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** primary mathematical operation.
-- **Consumers:** [[14-s1-p1-sunya-operational]]; [[Core Theorem Bridge]]; movement 14 additive-identity and multiplicative-absorption teaching.
+- **Consumers:** [[14-s1-p1-sunya-operational]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); movement 14 additive-identity and multiplicative-absorption teaching.
 - **Use boundary:** establishes the translated rules for addition and multiplication. It does not establish a modern ring-theoretic formulation in Brahmagupta's own vocabulary, and it does not license division by zero under ordinary field laws.
 
 <a id="colebrooke-1817-brahmagupta-bhaskara-q002"></a>
@@ -110,7 +110,7 @@ Exact text, rendered-page verification, and consumer mappings: [Colebrooke passa
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** historical mathematical boundary.
-- **Consumers:** [[14-s1-p1-sunya-operational]]; [[17-s1-p4-zero-outside-math]]; [[Core Theorem Bridge]]; movement 14 division boundary and movement 17 changed-container question.
+- **Consumers:** [[14-s1-p1-sunya-operational]]; [[17-s1-p4-zero-outside-math]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); movement 14 division boundary and movement 17 changed-container question.
 - **Use boundary:** records Bhāskara's retained expression in this translation. It does not say that a nonzero quantity has an ordinary multiplicative quotient by zero, nor that cancellation and cross-multiplication remain valid for the expression.
 
 <a id="colebrooke-1817-brahmagupta-bhaskara-q003"></a>
@@ -124,14 +124,14 @@ Exact text, rendered-page verification, and consumer mappings: [Colebrooke passa
 - **Source relation:** extracted.
 - **Evidential action:** contextualises and qualifies.
 - **Argument function:** primary historical analogy.
-- **Consumers:** [[14-s1-p1-sunya-operational]]; [[18-s1-p5-loan-returns]]; [[Immutable Gap and Meta-Sign]]; movement 14 mathematical/metaphysical distinction and movement 18 return boundary.
+- **Consumers:** [[14-s1-p1-sunya-operational]]; [[18-s1-p5-loan-returns]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; movement 14 mathematical/metaphysical distinction and movement 18 return boundary.
 - **Use boundary:** shows that the primary text itself places a theological analogy beside the rule. The analogy does not prove the arithmetic, and the arithmetic does not establish a doctrine of God or non-duality.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `colebrooke-1817-brahmagupta-bhaskara-q001` | `colebrooke-1817-brahmagupta-bhaskara` | Brahmagupta XVIII.31, 34; printed p. 339; PDF p. 435 | quotation-ready | `14-s1-p1-sunya-operational` | [[Core Theorem Bridge]] | primary arithmetic operation | [Colebrooke passages](#passages) |
+| `colebrooke-1817-brahmagupta-bhaskara-q001` | `colebrooke-1817-brahmagupta-bhaskara` | Brahmagupta XVIII.31, 34; printed p. 339; PDF p. 435 | quotation-ready | `14-s1-p1-sunya-operational` | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md) | primary arithmetic operation | [Colebrooke passages](#passages) |
 
-| `colebrooke-1817-brahmagupta-bhaskara-q002` | `colebrooke-1817-brahmagupta-bhaskara` | Bhāskara, *Bījagaṇita* I.14; printed p. 137; PDF p. 233 | quotation-ready | `14-s1-p1-sunya-operational`; `17-s1-p4-zero-outside-math` | [[Core Theorem Bridge]] | zero-denominator boundary | [Colebrooke passages](#passages) |
+| `colebrooke-1817-brahmagupta-bhaskara-q002` | `colebrooke-1817-brahmagupta-bhaskara` | Bhāskara, *Bījagaṇita* I.14; printed p. 137; PDF p. 233 | quotation-ready | `14-s1-p1-sunya-operational`; `17-s1-p4-zero-outside-math` | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md) | zero-denominator boundary | [Colebrooke passages](#passages) |
 
-| `colebrooke-1817-brahmagupta-bhaskara-q003` | `colebrooke-1817-brahmagupta-bhaskara` | Bhāskara, *Bījagaṇita* I.16; printed p. 138; PDF p. 234 | quotation-ready | `14-s1-p1-sunya-operational`; `18-s1-p5-loan-returns` | [[Immutable Gap and Meta-Sign]] | primary analogy / limitation | [Colebrooke passages](#passages) |
+| `colebrooke-1817-brahmagupta-bhaskara-q003` | `colebrooke-1817-brahmagupta-bhaskara` | Bhāskara, *Bījagaṇita* I.16; printed p. 138; PDF p. 234 | quotation-ready | `14-s1-p1-sunya-operational`; `18-s1-p5-loan-returns` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | primary analogy / limitation | [Colebrooke passages](#passages) |

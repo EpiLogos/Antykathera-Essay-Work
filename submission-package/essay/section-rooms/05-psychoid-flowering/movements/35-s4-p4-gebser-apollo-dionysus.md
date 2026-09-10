@@ -1,5 +1,6 @@
 ---
 title: "§4 · #4 — Apollo Through Dionysus"
+source_id: 35-s4-p4-gebser-apollo-dionysus
 node_type: section
 page_type: section-movement
 station: "§4"
@@ -13,11 +14,15 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §4 · #4 — Apollo Through Dionysus
 
+<!-- reader-navigation -->
+Movement 35 of 48 · [This room](../ROOM.md) · [← Previous](34-s4-p3-lacan-matheme-mytheme.md) · [Next →](36-s4-p5-mef-prompt-thrownness.md)
+<!-- /reader-navigation -->
+
 ## Claim
 Integral diaphaneity is the higher consciousness mutation in which the mono–poly relation becomes available within a perspective: each aperture becomes transparent to the relational whole through which it is this aperture, without losing its determinate difference. Apollonian form becomes transparent to Dionysian participation and participation returns as communicable form.
 
 ## Warrant
-[[diaphaneity|Jean Gebser]] returns here after his Renaissance scene has been made explicit at §0/1 #4. The visual pyramid and conceptual pyramid show the mental-rational power of a positioned, sectorial sight; the aperspectival mutation releases that exclusive position by rendering the structures co-present. Integral consciousness begins from the whole's structural priority and lets each finite part become transparent to its conditions and co-presence. [[submission-package/essay/symbolon/episteme/concepts/apoha]] first empties each determination of self-subsistence; diaphaneity then lets that emptiness disclose participation rather than fragmentation. The Apollo–Daphne and Dionysian cycles display form’s dangers of objectification and dissolution’s dangers of fusion.
+[[diaphaneity|Jean Gebser]] returns here after his Renaissance scene has been made explicit at §0/1 #4. The visual pyramid and conceptual pyramid show the mental-rational power of a positioned, sectorial sight; the aperspectival mutation releases that exclusive position by rendering the structures co-present. Integral consciousness begins from the whole's structural priority and lets each finite part become transparent to its conditions and co-presence. [[symbolon/episteme/concepts/apoha]] first empties each determination of self-subsistence; diaphaneity then lets that emptiness disclose participation rather than fragmentation. The Apollo–Daphne and Dionysian cycles display form’s dangers of objectification and dissolution’s dangers of fusion.
 
 “I possess a view of the world” preserves the agency and limitation of the knower. The inverse reading—world, body, history, language, and concern giving this situated knower the view it can presently inhabit—restores dependence and provenance. Diaphaneity holds both orientations without making them interchangeable. The self does not disappear into context, and context does not remain an invisible background serving an autonomous self.
 
@@ -32,14 +37,14 @@ McGilchrist enters here, once, and gated. *The Master and His Emissary* opens wi
 What the witness contributes is the one thing this section's dyads do not yet state: **asymmetry**. Apollo and Dionysus are powers that must remain mutually diaphanous; master and emissary are an *ordering relation*, and their pathology is not conflict but usurpation — the executor mistaking itself for the ground it serves. Usurpation is the `1` occupying the `0`: persona hardening at the agentic register, the occupied hole at the political register, the counterfeit gathering of §2 · #3 at the technological register, now given psychological form. This is why the two modalities of objective internality in §5 are designed as offices with a return between them rather than as symmetric faculties: the meditative office keeps ground, excluded field, and provenance; the calculative office selects and executes; and the `1/0` return is the institutional form of the master's charge.
 
 ## Tension / limit
-Images raised to theorem become idols; equations severed from lived consequence become [[Hephaestus and the Net|Hephaestian nets]].
+Images raised to theorem become idols; equations severed from lived consequence become [Hephaestian nets](../../../symbolon/mytheme/worlds/hellenic/ares-aphrodite-hephaestus-poseidon/WHOLE.md).
 
 The [Apollo–Dionysus–Daphne whole](../../../symbolon/mytheme/worlds/frank-taylor/apollo-dionysus-daphne/WHOLE.md#apollo-diaphaneity-return) **figures** the communicable perspective returning through participation and context. Apollo retains articulation; Dionysus makes its living conditions effective; Daphne keeps another centre able to answer. Taylor’s composed relation receives Nietzsche and Gebser in their distinct offices, while the separate Ovid telling retains its recoil and seeming-assent qualification.
 
 ## Anchor and transition
 **Mythemic anchor:** measure and ecstasy as AND/OR. **Mono–poly rule:** one field, many irreducible apertures. **Method:** keep exact matheme beside renewable mytheme. The epistemic apparatus for doing so is [[36-s4-p5-mef-prompt-thrownness|§4 · #5→0 — MEF and Prompt Thrownness]].
 
-The Daphne relation **returns-to** [the complete Apollo–Eros–Daphne–Peneus whole](submission-package/essay/symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md#apollo-appropriation-after-withdrawal): Cupid’s contrary arrows, Peneus’s permission and rescue, bodily transformation, recoil and seeming assent remain together with the laurel’s public afterlife. [A20](submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md) receives symbolic appropriation after withdrawal and returns it to [Symbol / Account / Trust](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#whole-mytheme-returns). The separate Apollo–Dionysus philosophical relation keeps its own sources; Dionysus is not inserted into Ovid’s cast.
+The Daphne relation **returns-to** [the complete Apollo–Eros–Daphne–Peneus whole](../../../symbolon/mytheme/worlds/roman-latin/apollo-eros-daphne-peneus/WHOLE.md#apollo-appropriation-after-withdrawal): Cupid’s contrary arrows, Peneus’s permission and rescue, bodily transformation, recoil and seeming assent remain together with the laurel’s public afterlife. [A20](../../../symbolon/episteme/arguments/A20-Image-Valuation-Possession.md) receives symbolic appropriation after withdrawal and returns it to [Symbol / Account / Trust](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#whole-mytheme-returns). The separate Apollo–Dionysus philosophical relation keeps its own sources; Dionysus is not inserted into Ovid’s cast.
 
 The Apollo–Dionysus passage **returns-to** [Con-text-through-Diaphaneity → Regard](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#con-text-through-diaphaneity) through a view that can recognise its own ordering and participation. Regard lets encountered difference alter the criterion of seeing while preserving the power of articulated perspective. The image and Gebser’s historical structures keep their respective offices; the generated relation supplies the operational return without merging their histories.
 

@@ -2,6 +2,7 @@
 title: "Dimensional Reframing at Zero and Infinity"
 aliases:
   - "Dimensional Reframing at Zero and Infinity"
+source_id: dimensional-reframing-zero-infinity
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

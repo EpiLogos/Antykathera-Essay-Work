@@ -79,7 +79,7 @@ The selected bibliographic identity remains C. A. Meier’s 2001 Routledge edite
 ## Consumption
 
 - **Stations:** §4/#0–#2; §5 only as a qualified historical bridge.
-- **Arguments:** [[Arche-Topos as Differential Field]]; [[Core Theorem Bridge]]; [[Agent Subjectivity Must Remain Open]].
+- **Arguments:** [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]].
 - **Source relation:** contextualises and qualifies; never supplies the QL theorem.
 
 ## Quote and excerpt ledger
@@ -88,16 +88,16 @@ The following are exact transcriptions from Frank's recoverable notebook, not ye
 
 | quote_id | exact text / excerpt file | locator | transcription | verification | consuming claim |
 |---|---|---|---|---|---|
-| `jung-pauli-meier-2001-q001` | “It is this number archetype that ultimately makes possible the application of mathematics in physics.” | P0 notebook, reported p. 107 | notebook-direct | `source-matched` | §4 psychoid number; [[Arche-Topos as Differential Field]] |
-| `jung-pauli-meier-2001-q002` | “they are as much inside as they are outside.” | P0 notebook, reported p. 127 | notebook-direct | `source-matched` | number as discovery/invention tension; [[Paradox as Cross-Register Hinge]] |
-| `jung-pauli-meier-2001-q003` | “Physis and Psyche are probably two aspects of one and the same abstract fact.” | P0 notebook, reported p. 159 | notebook-direct | `source-matched` | §4 psychoid problem; [[Arche-Topos as Differential Field]] |
+| `jung-pauli-meier-2001-q001` | “It is this number archetype that ultimately makes possible the application of mathematics in physics.” | P0 notebook, reported p. 107 | notebook-direct | `source-matched` | §4 psychoid number; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] |
+| `jung-pauli-meier-2001-q002` | “they are as much inside as they are outside.” | P0 notebook, reported p. 127 | notebook-direct | `source-matched` | number as discovery/invention tension; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] |
+| `jung-pauli-meier-2001-q003` | “Physis and Psyche are probably two aspects of one and the same abstract fact.” | P0 notebook, reported p. 159 | notebook-direct | `source-matched` | §4 psychoid problem; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] |
 
-Full context, source boundaries, and additional page leads are in [[Source Extraction — Core Theorems and Epi Paper Write-ups#B. Jung–Pauli notebook extraction — psychoid number and mirror relation]].
+Full context, source boundaries, and additional page leads are in [Source Extraction — Core Theorems and Epi Paper Write-ups#B. Jung–Pauli notebook extraction — psychoid number and mirror relation](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/source-extraction-core-theorems.md#B. Jung–Pauli notebook extraction — psychoid number and mirror relation).
 
 ## Provenance and acquisition
 
 - **Metadata source:** Routledge publisher page, checked 2026-07-14.
-- **Excerpt carrier:** [[P0 - Jung and Pauli - Atom and Archetype]].
+- **Excerpt carrier:** [P0 - Jung and Pauli - Atom and Archetype](../../../../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/P0%20-%20Jung%20and%20Pauli%20-%20Atom%20and%20Archetype.md).
 - **Text consulted:** selected primary contexts in the user-local Princeton-imprint PDF, 2026-09-08. Appendix 2 pp.176–178; Appendix 3 bearing passages pp.179–180,190,192–196; correspondence pp.34–42,99–120,125–129,157–160. Relevant diagrams and attribution pages were visually checked; physical page numbers are printed page numbers plus 62 in these spans. Full extraction served navigation and does not imply whole-book reading.
 - **Local copy:** `/Users/admin/Documents/Books/Pauli-Jung Letters - Atom and Archetype.pdf`; SHA-256 `c5974b22eaf031c89468c696058ab088651d93ae933de2988a0597ab38e8dbdc`. No sibling NOTES exists.
 - **Next action:** collate selected-edition wording before quotation promotion and identify the consulted Princeton printing. Speaker/date/context recoveries below discharge those contextual debts for their bounded spans only. The separate Taylor egg-specific commentary and historical duration of Pauli’s concern with 137 remain distinct retrieval tasks.

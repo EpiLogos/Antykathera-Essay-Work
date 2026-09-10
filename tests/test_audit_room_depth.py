@@ -37,6 +37,9 @@ class CompactRoomAuditTests(unittest.TestCase):
             for relative in (
                 "submission-package/essay/section-rooms",
                 "submission-package/essay/symbolon/episteme/sources",
+                "submission-package/essay/symbolon/episteme/arguments",
+                "submission-package/essay/symbolon/episteme/concepts",
+                "submission-package/essay/symbolon/episteme/conjugate",
             ):
                 shutil.copytree(PROJECT / relative, copy / relative)
             for relative in (
@@ -65,6 +68,9 @@ class CompactRoomAuditTests(unittest.TestCase):
             for relative in (
                 "submission-package/essay/section-rooms",
                 "submission-package/essay/symbolon/episteme/sources",
+                "submission-package/essay/symbolon/episteme/arguments",
+                "submission-package/essay/symbolon/episteme/concepts",
+                "submission-package/essay/symbolon/episteme/conjugate",
             ):
                 shutil.copytree(PROJECT / relative, copy / relative)
             for relative in (

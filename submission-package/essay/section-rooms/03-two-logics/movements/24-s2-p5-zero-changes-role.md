@@ -1,5 +1,6 @@
 ---
 title: "§2 · #5→0 — Zero Changes Its Role"
+source_id: 24-s2-p5-zero-changes-role
 node_type: section
 page_type: section-movement
 station: "§2"
@@ -12,9 +13,13 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §2 · #5→0 — Zero Changes Its Role
 
+<!-- reader-navigation -->
+Movement 24 of 48 · [This room](../ROOM.md) · [← Previous](23-s2-p4-complex-dynamism.md) · [Next →](../../04-mathematical-substrate/movements/25-s3-p0-eight-determinations.md)
+<!-- /reader-navigation -->
+
 ## Movement thesis
 
-Dia-ballein places zero outside opposed values as their origin and cancellation. Sym-ballein retains zero within both orientations as ground and return. The first produces a measurable two. The second asks what a two amounts to once it includes the relation that generates it.
+Polar dia-ballein retains zero as the axis of opposed values; its collapsed operations make zero a cancellation or assign the whole span to one pole. Sym-ballein retains ground and mark within both orientations and returns through their relation. The measurable two now asks what it amounts to once it includes the relation that generates it.
 
 That accounting gives the first compact QL theorem:
 
@@ -28,7 +33,7 @@ The two are the implicate poles, zero and one. The four are the explicit relatio
 
 This is the point at which QL ceases to be a vocabulary of balanced opposites. It becomes a generative calculus. The sixfold is neither a sacred number imposed from outside nor a convenient list. It is the full account of a binary relation when its poles and relational possibilities are both retained.
 
-It is also the hinge from a static description of poles to a process ontology. Dia-ballein and sym-ballein are no longer merely two ways of interpreting an already-finished opposition: they are the runtime by which opposition is produced, retained, recomposed, and returned. QL formalises the epistemic sequence of that runtime; the [[14-computational-process-ontology|computational process ontology]] names what follows when the sequence is treated as constitutive of worlds rather than as a representation applied to them after the fact.
+It is also the hinge from a static description of poles to a process ontology. Dia-ballein and sym-ballein are no longer merely two ways of interpreting an already-finished opposition: they are the runtime by which opposition is produced, retained, recomposed, and returned. QL formalises the epistemic sequence of that runtime; the [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|computational process ontology]] names what follows when the sequence is treated as constitutive of worlds rather than as a representation applied to them after the fact.
 
 The same move generates the essay’s internal architecture:
 

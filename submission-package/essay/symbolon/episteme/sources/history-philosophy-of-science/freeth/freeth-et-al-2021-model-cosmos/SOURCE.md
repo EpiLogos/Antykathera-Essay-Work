@@ -82,7 +82,7 @@ Exact text, correction scope, locators, and consumer boundary: [Quotes — Freet
 - **Source relation:** extracted primary reconstruction study.
 - **Evidential action:** supports.
 - **Argument function:** technical multi-output/gearing context.
-- **Consumers:** [[45-s50-p2-antikythera-attunement]]; [[Arche-Topos as Differential Field]].
+- **Consumers:** [[45-s50-p2-antikythera-attunement]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]].
 - **Use boundary:** establishes an evidence-constrained reconstruction with multiple outputs; it does not establish AI, QL, agency, observer subjectivity, or cosmology.
 
 <a id="freeth-et-al-2021-model-cosmos-q002"></a>
@@ -96,12 +96,12 @@ Exact text, correction scope, locators, and consumer boundary: [Quotes — Freet
 - **Source relation:** extracted primary reconstruction study.
 - **Evidential action:** qualifies.
 - **Argument function:** reconstruction-uncertainty limit.
-- **Consumers:** [[45-s50-p2-antikythera-attunement]]; [[Arche-Topos as Differential Field]].
+- **Consumers:** [[45-s50-p2-antikythera-attunement]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]].
 - **Use boundary:** establishes a limit on the reconstruction; it does not validate an offered essay image or any additional historical feature.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `freeth-et-al-2021-model-cosmos-q001` | `freeth-et-al-2021-model-cosmos` | official PDF p. 2, opening reconstruction paragraph | quotation-ready | `45-s50-p2-antikythera-attunement` | [[Arche-Topos as Differential Field]] | evidence-constrained multi-output display | [Quotes — Freeth et al. Model of the Cosmos (2021)](#passages) |
+| `freeth-et-al-2021-model-cosmos-q001` | `freeth-et-al-2021-model-cosmos` | official PDF p. 2, opening reconstruction paragraph | quotation-ready | `45-s50-p2-antikythera-attunement` | [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | evidence-constrained multi-output display | [Quotes — Freeth et al. Model of the Cosmos (2021)](#passages) |
 
-| `freeth-et-al-2021-model-cosmos-q002` | `freeth-et-al-2021-model-cosmos` | official PDF p. 12, Conclusions opening | quotation-ready | `45-s50-p2-antikythera-attunement` | [[Arche-Topos as Differential Field]] | reconstruction uncertainty | [Quotes — Freeth et al. Model of the Cosmos (2021)](#passages) |
+| `freeth-et-al-2021-model-cosmos-q002` | `freeth-et-al-2021-model-cosmos` | official PDF p. 12, Conclusions opening | quotation-ready | `45-s50-p2-antikythera-attunement` | [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | reconstruction uncertainty | [Quotes — Freeth et al. Model of the Cosmos (2021)](#passages) |

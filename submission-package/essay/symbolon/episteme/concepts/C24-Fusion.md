@@ -19,25 +19,25 @@ Fusion is relation preserved only by erasing the distinctions through which its 
 
 ## #1
 
-[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems]] **grounds** the distinction/composition movement. A conjugate reading holds the terms through their inverse orientations. Their difference remains operative within the relation; it is not an obstacle to be removed before the relation can count as whole.
+[[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems]] **grounds** the distinction/composition movement. A conjugate reading holds the terms through their inverse orientations. Their difference remains operative within the relation; it is not an obstacle to be removed before the relation can count as whole.
 
 [C50 — Dia / Syn](C50-Dia-Syn.md) **defines** that co-operation. A syn operation needs determinate terms to gather. If every difference is translated into one undifferentiated content, there is no retained inverse, excluded alternative or independent address through which the achieved account can return.
 
 ## #2
 
-The [[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT#10. Ares and Aphrodite: divide/unite become felt love/war logics|direct division/union passage]] **sources** the felt consequence. Union can become engulfment, conformity or possession. Refusal and the capacity to say no protect the differentiated beings capable of meeting. The positive relation needs those capacities; it does not overcome them by calling resistance a failure to recognise unity.
+The [[quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT#10. Ares and Aphrodite: divide/unite become felt love/war logics|direct division/union passage]] **sources** the felt consequence. Union can become engulfment, conformity or possession. Refusal and the capacity to say no protect the differentiated beings capable of meeting. The positive relation needs those capacities; it does not overcome them by calling resistance a failure to recognise unity.
 
 Intimacy therefore differs from fusion through what each permits. Another's response can exceed expectation, change the relation or refuse a proposed course. The project preserves the non-devouring direction of love: entering relation does not authorise possession of the one encountered.
 
 ## #3
 
-The [[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|direct Other/Mono development]] **sources** the exact asymmetry: the Other can be within Mono without being within me. Inclusion in the whole does not make the Other a component of a local self-model. A shared context likewise cannot establish a super-subject merely by collecting its participants' descriptions.
+The [[quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|direct Other/Mono development]] **sources** the exact asymmetry: the Other can be within Mono without being within me. Inclusion in the whole does not make the Other a component of a local self-model. A shared context likewise cannot establish a super-subject merely by collecting its participants' descriptions.
 
 [C22 — Counterfeit Symbolon](C22-Counterfeit-Symbolon.md) **extends** the gathering which appears plural while giving one office the power to determine every participant's meaning. Coordination remains possible where participants share a task or rule and retain the differences which can revise it. Neither agreement nor common action is sufficient evidence of fusion.
 
 ## #4
 
-[[submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE|Taylor — Symbolon Dynamics]] **grounds** the psychic distinction. A symbol changes relations among images, affects and recurrent organisations. Its transformative work does not demand that every organisation become one identical state. Bounded integrity and capacity for change remain together.
+[[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE|Taylor — Symbolon Dynamics]] **grounds** the psychic distinction. A symbol changes relations among images, affects and recurrent organisations. Its transformative work does not demand that every organisation become one identical state. Bounded integrity and capacity for change remain together.
 
 [C36 — Complexio Oppositorum](C36-Complexio-Oppositorum.md) **defines** the relation of opposites without their mutual deletion. [C19 — Recognition](C19-Pratyabhijna-Recognition.md) **extends** return to the particular life: enlarged belonging does not erase the instance or its history. Nonduality retains the question of how distinction operates within the whole; fusion attempts to settle it by removing the distinction.
 
@@ -45,9 +45,9 @@ The [[submission-package/essay/quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT|direct 
 
 The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-simile-and-distinctness) **qualifies** the comparison with fusion through the source’s own limit: images enter one another while jewel substances remain distinct, and the teaching names the simile’s inadequacy to Huayan interpenetration. The local member stays selectable and answerable within mutual inclusion. This gives the authored comparison a determinate boundary without substituting the essay’s category for Huayan doctrine.
 
-The receiving mouth tests fusion: a response must remain different enough to change the relation that receives it. This **returns-to** [the uroboros whole](submission-package/essay/symbolon/mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-metabolic-fork).
+The receiving mouth tests fusion: a response must remain different enough to change the relation that receives it. This **returns-to** [the uroboros whole](../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-metabolic-fork).
 
-[[submission-package/essay/symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD|Homologia / Analogia]] **grounds** the register3 correction. Agreement in an operation or proportion does not make the compared objects univocally identical. A successful synthesis specifies both the relation achieved and the differences through which it remains intelligible.
+[[symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD|Homologia / Analogia]] **grounds** the register3 correction. Agreement in an operation or proportion does not make the compared objects univocally identical. A successful synthesis specifies both the relation achieved and the differences through which it remains intelligible.
 
 C24 **returns-to** C06 and C50. The task is to recover the differences that permit answerability, not to destroy every shared form. Source and account, I and You, distinct participants and common work can then remain related without requiring one term to speak as all the others.
 

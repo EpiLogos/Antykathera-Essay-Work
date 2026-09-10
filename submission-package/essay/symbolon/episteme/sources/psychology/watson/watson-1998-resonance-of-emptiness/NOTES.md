@@ -1,3 +1,7 @@
+---
+source_id: notes-watson-1998-resonance-of-emptiness
+---
+
 Skandha, aggregates and prapanca, relative to LLM halluciations
 
 page 96 - Buddhist views on the self (not *The Self* - buddha originally spoke to this difference but its faded from view a little)

@@ -79,7 +79,7 @@ Exact text and consumer mappings: [Quotes — Scholtz Diatonic Keyboard Tunings 
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** technical/formal warrant.
-- **Consumers:** [[26-s3-p1-spanda-4-2]]; [[29-s3-p4-topology-music-resolution]]; [[Core Theorem Bridge]]; [[Arche-Topos as Differential Field]]; movements 26/29 Pythagorean tuning ratios.
+- **Consumers:** [[26-s3-p1-spanda-4-2]]; [[29-s3-p4-topology-music-resolution]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; movements 26/29 Pythagorean tuning ratios.
 - **Use boundary:** establishes ratios in a specified Pythagorean tuning construction; it does not establish the QL Spanda equation or a metaphysical meaning of interval.
 
 <a id="scholtz-1998-algorithms-diatonic-keyboard-tunings-q002"></a>
@@ -93,7 +93,7 @@ Exact text and consumer mappings: [Quotes — Scholtz Diatonic Keyboard Tunings 
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** technical limitation.
-- **Consumers:** [[26-s3-p1-spanda-4-2]]; [[29-s3-p4-topology-music-resolution]]; [[Core Theorem Bridge]]; [[Arche-Topos as Differential Field]]; movements 26/29 comma boundary.
+- **Consumers:** [[26-s3-p1-spanda-4-2]]; [[29-s3-p4-topology-music-resolution]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; movements 26/29 comma boundary.
 - **Use boundary:** prevents treating pure fifth iteration as a simple exact octave return; it does not turn the comma into evidence for QL or topological return.
 
 <a id="scholtz-1998-algorithms-diatonic-keyboard-tunings-q003"></a>
@@ -107,14 +107,14 @@ Exact text and consumer mappings: [Quotes — Scholtz Diatonic Keyboard Tunings 
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** historical/technical counterposition.
-- **Consumers:** [[26-s3-p1-spanda-4-2]]; [[29-s3-p4-topology-music-resolution]]; [[Core Theorem Bridge]]; [[Arche-Topos as Differential Field]]; movement 29 tuning-system limitation.
+- **Consumers:** [[26-s3-p1-spanda-4-2]]; [[29-s3-p4-topology-music-resolution]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; movement 29 tuning-system limitation.
 - **Use boundary:** describes a temperament-specific adjustment; it does not make an equal-tempered octave an unaltered consequence of pure \(3/2\) fifths or a QL theorem.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `scholtz-1998-algorithms-diatonic-keyboard-tunings-q001` | `scholtz-1998-algorithms-diatonic-keyboard-tunings` | §3.1; PDF p. 3 | quotation-ready | `26-s3-p1-spanda-4-2`; `29-s3-p4-topology-music-resolution` | [[Core Theorem Bridge]]; [[Arche-Topos as Differential Field]] | technical/formal warrant | [Quotes — Scholtz Diatonic Keyboard Tunings (1998)](#passages) |
+| `scholtz-1998-algorithms-diatonic-keyboard-tunings-q001` | `scholtz-1998-algorithms-diatonic-keyboard-tunings` | §3.1; PDF p. 3 | quotation-ready | `26-s3-p1-spanda-4-2`; `29-s3-p4-topology-music-resolution` | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | technical/formal warrant | [Quotes — Scholtz Diatonic Keyboard Tunings (1998)](#passages) |
 
-| `scholtz-1998-algorithms-diatonic-keyboard-tunings-q002` | `scholtz-1998-algorithms-diatonic-keyboard-tunings` | §3.2; PDF p. 3 | quotation-ready | `26-s3-p1-spanda-4-2`; `29-s3-p4-topology-music-resolution` | [[Core Theorem Bridge]]; [[Arche-Topos as Differential Field]] | technical limitation | [Quotes — Scholtz Diatonic Keyboard Tunings (1998)](#passages) |
+| `scholtz-1998-algorithms-diatonic-keyboard-tunings-q002` | `scholtz-1998-algorithms-diatonic-keyboard-tunings` | §3.2; PDF p. 3 | quotation-ready | `26-s3-p1-spanda-4-2`; `29-s3-p4-topology-music-resolution` | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | technical limitation | [Quotes — Scholtz Diatonic Keyboard Tunings (1998)](#passages) |
 
-| `scholtz-1998-algorithms-diatonic-keyboard-tunings-q003` | `scholtz-1998-algorithms-diatonic-keyboard-tunings` | §4.1; PDF p. 4 | quotation-ready | `26-s3-p1-spanda-4-2`; `29-s3-p4-topology-music-resolution` | [[Core Theorem Bridge]]; [[Arche-Topos as Differential Field]] | historical/technical counterposition | [Quotes — Scholtz Diatonic Keyboard Tunings (1998)](#passages) |
+| `scholtz-1998-algorithms-diatonic-keyboard-tunings-q003` | `scholtz-1998-algorithms-diatonic-keyboard-tunings` | §4.1; PDF p. 4 | quotation-ready | `26-s3-p1-spanda-4-2`; `29-s3-p4-topology-music-resolution` | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]] | historical/technical counterposition | [Quotes — Scholtz Diatonic Keyboard Tunings (1998)](#passages) |

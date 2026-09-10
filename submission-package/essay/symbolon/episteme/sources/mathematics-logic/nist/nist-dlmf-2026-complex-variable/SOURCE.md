@@ -79,7 +79,7 @@ Exact text and consumer mappings: [Quotes — NIST DLMF Complex Variable (2026)]
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** technical/formal warrant.
-- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[Core Theorem Bridge]]; [[Toroidal Circulation and the Arche-Topos]]; movement 28 complex completion.
+- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]]; movement 28 complex completion.
 - **Use boundary:** establishes a specified complex-plane completion only; it does not establish real-projective geometry, QL, or a metaphysical interpretation of infinity.
 
 <a id="nist-dlmf-2026-complex-variable-q002"></a>
@@ -93,12 +93,12 @@ Exact text and consumer mappings: [Quotes — NIST DLMF Complex Variable (2026)]
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** technical scope limitation.
-- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [[Core Theorem Bridge]]; [[Toroidal Circulation and the Arche-Topos]]; movement 28 cross-ratio boundary.
+- **Consumers:** [[28-s3-p3-projective-dimensional-reframing]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]]; movement 28 cross-ratio boundary.
 - **Use boundary:** limits the stated invariance to bilinear transformations; it does not support a claim that all transformations preserve cross-ratio or that mathematical invariance establishes QL.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `nist-dlmf-2026-complex-variable-q001` | `nist-dlmf-2026-complex-variable` | §1.9(iv), before Eq. 1.9.35 | quotation-ready | `28-s3-p3-projective-dimensional-reframing` | [[Core Theorem Bridge]]; [[Toroidal Circulation and the Arche-Topos]] | technical/formal warrant | [Quotes — NIST DLMF Complex Variable (2026)](#passages) |
+| `nist-dlmf-2026-complex-variable-q001` | `nist-dlmf-2026-complex-variable` | §1.9(iv), before Eq. 1.9.35 | quotation-ready | `28-s3-p3-projective-dimensional-reframing` | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]] | technical/formal warrant | [Quotes — NIST DLMF Complex Variable (2026)](#passages) |
 
-| `nist-dlmf-2026-complex-variable-q002` | `nist-dlmf-2026-complex-variable` | §1.9(iv), after Eq. 1.9.45 | quotation-ready | `28-s3-p3-projective-dimensional-reframing` | [[Core Theorem Bridge]]; [[Toroidal Circulation and the Arche-Topos]] | technical scope limitation | [Quotes — NIST DLMF Complex Variable (2026)](#passages) |
+| `nist-dlmf-2026-complex-variable-q002` | `nist-dlmf-2026-complex-variable` | §1.9(iv), after Eq. 1.9.45 | quotation-ready | `28-s3-p3-projective-dimensional-reframing` | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]] | technical scope limitation | [Quotes — NIST DLMF Complex Variable (2026)](#passages) |

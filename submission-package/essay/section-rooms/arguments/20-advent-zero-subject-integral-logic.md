@@ -3,6 +3,7 @@ title: "The Advent of Zero, Subject, and Integral Logic"
 aliases:
   - "The Advent of 0/1"
   - "Zero–Subject Historical Braid"
+source_id: 20-advent-zero-subject-integral-logic
 node_type: synthesis
 page_type: argument-map
 argument_level: core
@@ -32,9 +33,13 @@ tags:
   - argument-map/psychoid
   - argument-map/gebser
   - argument-map/two-logics
+record_type: legacy-argument
+authority: historical-provenance
 ---
 
 # The Advent of Zero, Subject, and Integral Logic
+
+**Historical carrier.** The developed successor is [A10](../../symbolon/episteme/arguments/A10-Advent-of-Zero.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claim
 

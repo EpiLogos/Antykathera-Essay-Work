@@ -1,3 +1,7 @@
+---
+source_id: 01-differentiating-mind-p1-canonical-alignment
+---
+
 # P1 Canonical Alignment — §0 Differentiating Mind
 
 **Wave:** T10 / #11.  

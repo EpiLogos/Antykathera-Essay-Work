@@ -1,3 +1,7 @@
+---
+source_id: symbol-account-and-trust-historical-branches
+---
+
 # Historical branches — Symbol, Account and Trust
 
 This authored companion develops independently checked branches beside the protected [HISTORY](HISTORY.md). It does not replace that encounter or promote all its leads to evidence. Its lexical findings **historicise** the [whole field](WHOLE-FIELD.md); their operational consequences return there under separately declared registers. Sources below were consulted on 8 September 2026. Dictionary evidence establishes the indicated forms and senses; a dictionary's cited ancient passages are locators until read independently.

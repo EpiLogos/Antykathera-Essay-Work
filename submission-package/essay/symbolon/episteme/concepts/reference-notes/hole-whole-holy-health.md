@@ -2,6 +2,7 @@
 title: "Hole Whole Holy Health"
 aliases:
   - "Hole Whole Holy Health"
+source_id: hole-whole-holy-health
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

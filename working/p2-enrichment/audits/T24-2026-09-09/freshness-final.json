@@ -1,0 +1,22 @@
+[
+  {
+    "check": "sources",
+    "exit_code": 0,
+    "output": "Source projections current: 3 files.\n"
+  },
+  {
+    "check": "rooms",
+    "exit_code": 0,
+    "output": "Checked 8 compact section room(s); manuscript and protected companions unchanged.\n"
+  },
+  {
+    "check": "navigation",
+    "exit_code": 0,
+    "output": "navigation layer fresh: 62 generated surfaces\n"
+  },
+  {
+    "check": "doctor",
+    "exit_code": 0,
+    "output": "see doctor-final.json"
+  }
+]

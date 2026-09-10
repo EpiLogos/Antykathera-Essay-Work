@@ -3,6 +3,7 @@ title: "Number Two Names Number Six: The Prisoner and the Politics of the Count"
 aliases:
   - "I Am Not a Number"
   - "The Prisoner and the Politics of Numbering"
+source_id: 21-prisoner-politics-of-the-count
 node_type: "warrant"
 page_type: "argument-map"
 argument_level: "supportive"
@@ -24,8 +25,12 @@ tags:
   - argument-map/power
   - argument-map/mono-poly
   - argument-map/two-logics
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Number Two Names Number Six: *The Prisoner* and the Politics of the Count
+
+**Historical carrier.** The complete [Prisoner Mytheme](../../symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md) carries the living scene. This page retains its overview and consumer-map provenance and has no canonical A identity.
 
 ## The work and the scene
 

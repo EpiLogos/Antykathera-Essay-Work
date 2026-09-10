@@ -218,7 +218,7 @@ The Attica whole should remain recoverable when any later register consumes one 
 
 ### Arbitration
 
-The story gives a complete image of **difference → witness → judgment → instituted consequence → remainder**. It therefore amplifies [[submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY|Arbitration, Hybris, Regard, and Anamnesis]] without being reduced to that sixfold.
+The story gives a complete image of **difference → witness → judgment → instituted consequence → remainder**. It therefore amplifies [[symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY|Arbitration, Hybris, Regard, and Anamnesis]] without being reduced to that sixfold.
 
 ### Fides / Topos / Logos / Nomos / Natio / Credere
 

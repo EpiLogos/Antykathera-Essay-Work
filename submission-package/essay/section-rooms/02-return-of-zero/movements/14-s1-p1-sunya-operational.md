@@ -1,5 +1,6 @@
 ---
 title: "§1 · #1 — Śūnya Becomes Operational"
+source_id: 14-s1-p1-sunya-operational
 node_type: section
 page_type: section-movement
 station: "§1"
@@ -21,6 +22,10 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §1 · #1 — Śūnya Becomes Operational
 
+<!-- reader-navigation -->
+Movement 14 of 48 · [This room](../ROOM.md) · [← Previous](13-s1-p0-sign-migrates.md) · [Next →](15-s1-p2-empty-set-generates-one.md)
+<!-- /reader-navigation -->
+
 ## Movement thesis
 
 The decisive turn occurs when śūnya is no longer only the empty place but something through which arithmetic can pass. Brahmagupta gives rules for operations involving zero; Bhāskara later presses into khahara, the division of a number by zero. Absence acquires operational force. It changes calculations while remaining unlike the positive magnitudes among which it operates.
@@ -39,9 +44,9 @@ The first two operations are stable within ordinary arithmetic. The third is the
 
 ## Source boundary
 
-[[Colebrooke — Brahmagupta and Bhāskara (1817)]] is the selected public-domain primary English carrier. Open [[Colebrooke — Brahmagupta and Bhāskara (1817)]] and read `colebrooke-1817-brahmagupta-bhaskara-q001` for additive and multiplicative rules, `colebrooke-1817-brahmagupta-bhaskara-q002` for the retained zero-denominator expression, and `colebrooke-1817-brahmagupta-bhaskara-q003` for Bhāskara's theological comparison. [[Dutta — Zero-Divided Numbers in Indian Mathematics (2023)]] reconstructs the changed cancellation regime and qualifies Kaplan's treatment. A critical Sanskrit edition is still required for philology.
+[[symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE|Colebrooke — Brahmagupta and Bhāskara (1817)]] is the selected public-domain primary English carrier. Open [[symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE|Colebrooke — Brahmagupta and Bhāskara (1817)]] and read `colebrooke-1817-brahmagupta-bhaskara-q001` for additive and multiplicative rules, `colebrooke-1817-brahmagupta-bhaskara-q002` for the retained zero-denominator expression, and `colebrooke-1817-brahmagupta-bhaskara-q003` for Bhāskara's theological comparison. [[symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE|Dutta — Zero-Divided Numbers in Indian Mathematics (2023)]] reconstructs the changed cancellation regime and qualifies Kaplan's treatment. A critical Sanskrit edition is still required for philology.
 
-Retain [[kaplan-1999-nothing-that-is|Kaplan]] for narrative movement rather than sole authority. The line is not “the East understood nothing and the West did not.” It is that the later mathematical paradigm inherited a zero made operative through intercultural transmission.
+Retain [[symbolon/episteme/sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE|Kaplan]] for narrative movement rather than sole authority. The line is not “the East understood nothing and the West did not.” It is that the later mathematical paradigm inherited a zero made operative through intercultural transmission.
 
 ## Transition
 

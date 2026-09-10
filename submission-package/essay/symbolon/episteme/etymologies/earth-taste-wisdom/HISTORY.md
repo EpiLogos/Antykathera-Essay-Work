@@ -5,6 +5,7 @@ aliases:
   - "Humus and Sapientia"
   - "Homo Sapiens word-field"
   - "The Groundling Who Tastes"
+source_id: earth-taste-wisdom-history
 page_type: etymological-cluster
 ownership: protected-learning-surface
 status: living

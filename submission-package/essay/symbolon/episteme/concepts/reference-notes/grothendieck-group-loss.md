@@ -2,6 +2,7 @@
 title: "Grothendieck Group Loss"
 aliases:
   - "Grothendieck Group Loss"
+source_id: grothendieck-group-loss
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

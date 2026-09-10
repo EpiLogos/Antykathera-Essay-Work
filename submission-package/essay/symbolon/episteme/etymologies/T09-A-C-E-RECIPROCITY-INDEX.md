@@ -1,4 +1,10 @@
+---
+record_id: T09
+---
+
 # T09 A ↔ C ↔ E Reciprocity Index
+
+[Reading entrance](../../../README.md) · [48 movements](../../../section-rooms/README.md)
 
 **Scope:** non-section canonical field only. Movement IDs are consumers, not rewritten here.
 

@@ -2,6 +2,7 @@
 title: "Qubit-Bloch Sphere"
 aliases:
   - "Qubit-Bloch Sphere"
+source_id: qubit-bloch-sphere
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

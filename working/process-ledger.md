@@ -60,3 +60,33 @@ Entry form: date · phase/task · what was attempted · context supplied · what
 **Recovered definition:** register is the admission-and-return channel of the holographic piece — polyvalent field detail maps into the sections with precision, and records outside the essay point back to exact essay lines. A movement or argument declares a register composition (a station carries matheme, mytheme, and episteme at once), not a single bucket. This definition is now written into the register-grammar concept node and `WRITING-PROTOCOL.md` §4; the unratified 70 are register-composition declarations pending Frank's assignments.
 
 **Lesson for skill precision:** when a session appears lost to a provider switch, check `~/.codex/sessions/` and `archived_sessions` on disk before declaring a debt — session JSONL survives independently of the UI, and `parent_thread_id` chains reconstruct the full thread.
+
+## 2026-09-08 · T23 — navigable surface (reading root, rooms index, MOC/intents/audit)
+
+**Attempted:** turn the accepted T17–T21 field (764 pages in the publication body) into a surface a cold reader and a writing session can walk: audit the written graph first, then author the entry pages, then generate the post-hoc MOC/intents layer from the written links only.
+
+**Context supplied:** the T23 ticket (#24), the handoff map, `WRITING-PROTOCOL.md` §5/§14/§17, the links and pages skills, `tools/okf-workspace.py` as the one resolver (aliases, priorities), and a graph census built on it rather than on a fresh regex resolver.
+
+**What sufficed / what was lost:**
+- A naive resolver over-reported 2,328 dangling links; the workspace resolver reported 4. **Lesson: never audit links with a second resolver; import the project's `Workspace` and reuse its lookup, or every alias becomes a false dangle.**
+- The reading root (`submission-package/essay/README.md`) carried zero links, so reachability from the front door was 1 page of 764. One authored page raised it to 703; the rooms index, register entry pages and conjugate list raised it to 717. **Lesson: measure reachability from the actual front door before touching any deep page — the cheapest fix is at the root.**
+- `tools/okf-workspace.py` had no notion of the 13-word relation vocabulary (it detected only `depends on:`/`related:`/`opens`). The navigation builder reads the relation word from the sentence around the link: bold anywhere in the sentence, plain only within 60 characters. Plain `sources`, `figures`, `tests` are common nouns; the adjacency rule keeps them from being read as relations. 45% of body links name a relation; source houses (9%), the historical argument shelf (4%) and the maps (2%) are the unnamed classes, each for a structural reason (bibliographic lists, pre-vocabulary prose, path lists).
+- Generated pages inside `maps/` were classified as canonical `path` records by the workspace tool; a `maps/navigation/` rule now types them `navigation-projection` with `generated-locator` authority. **Lesson: any new generated surface inside the body needs its classification rule before it is built, or doctor and the path census absorb it.**
+- The room builder owns `section-rooms/README.md` and silently overwrote the authored index on the next rebuild. The index now lives in the builder. **Lesson: check `generated_by`/ownership before authoring any page in a folder a builder manages.**
+- Quoting page sentences inside a generated audit re-emitted their relative links out of context and broke the link-resolution test; samples are now neutralised. **Lesson: never copy raw prose containing links into a generated page at a different depth.**
+- The room builder's new "where you are" crumb linked the reading root, which the tests' partial temp copies do not contain; the crumb is now conditional. **Lesson: builders that link across the body must tolerate the partial workspaces the real-workspace tests construct.**
+- The Obsidian vault config sits at `symbolon/.obsidian`, so the rooms and the essay are outside the vault, and repo-absolute wikilinks cannot resolve there. Recorded as a proposal for Frank, not changed.
+- The essay body links the raw Agentworld brief transcription in `working/antykathera-resources/` 330+ times by title, and `working/` 250+ times by path. Recorded in the audit; not repointed, because changing where a title resolves is a field-wide semantic move.
+
+**Skill-precision candidates:** reuse-the-project-resolver; measure-from-the-front-door; classify-before-generate; check-builder-ownership; neutralise-quoted-links; conditional-crumbs-for-partial-workspaces.
+
+
+## 2026-09-09 · T24 with independent T23 audit and reader repairs
+
+**Scope:** Frank requested the complete pre-manuscript gate and repairs, with particular concern that the historical 21 arguments had displaced the full 64 + 36 + 36 + 1 field and that mechanically traversable routes were being mistaken for readable navigation. See [the T24 receipt](p2-enrichment/receipts/T24-whole-before-writing-2026-09-09.md).
+
+**Result:** the admitted 281 records and 137 A/C identities are intact and reader-reachable. The full 48 movements were read for carry against the governing plan; bounded repairs restore the polarity/cancellation distinction, personed 1–2–3 movement, FDE/QL cardinality distinction and the Argued order of dependence at M47. Entry questions, reciprocal pairs, movement steps, source returns and Agentworld page landings now offer explicit reading routes. Protected publication files are unchanged from entry. Source standing and displayed quotations are preserved in 128 changed source houses.
+
+**Correction to the T23 lesson above:** reuse the canonical resolver for identity recovery and semantic repair leads, but do not treat its successful lookup as proof that a relative Markdown link works. A distinct visible-link audit is necessary to test reader portability; report alias-only routes conservatively and separately. Graph reachability with metadata and actual visible navigation answer different questions. Likewise, a partial test workspace must include the canonical dependencies required by its tested operation; an absent required canonical argument should not be silently omitted just to accommodate an outdated fixture.
+
+**Next:** Frank's review and ratification of one common manuscript-writing base. Keep the 48 register-composition assignments, source/quotation tasks, held earth/taste/wisdom inquiry and protected-provenance link debts visible. No manuscript or model branch was created; no commit, publication or external update was sent.

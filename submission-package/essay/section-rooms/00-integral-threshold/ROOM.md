@@ -1,15 +1,18 @@
 ---
 title: "§0/1 Room — The Integral Threshold — The Subject at the Formal Limit"
+source_id: room-00-integral-threshold
 page_type: section-room-waypoint
 station: "§0/1"
 room: "00-integral-threshold"
-generated_by: "build-section-rooms.py v2.0.1"
+generated_by: "build-section-rooms.py v2.2.0"
 ownership: generated
 ---
 
 # §0/1 — The Integral Threshold — The Subject at the Formal Limit
 
 **Write here:** [sovereign master manuscript](../../THE-RETURN-OF-ZERO.md#section-s01-integral-threshold)
+
+**Where you are:** [Reading root](../../README.md) · [the rooms](../README.md) · §0/1 · room 1 of 8 · next [§0](../01-differentiating-mind/ROOM.md)
 
 **Open beside it:** [reading route](READING.md)
 
@@ -29,25 +32,25 @@ Exact inquiry includes the disclosure of its own conditions. At the formal limit
 
 **Incoming pressure:** the opening question
 
-**Earned position (Argued):** Planetary systems can model and act while displacing the subject for whom distinctions matter. The essay therefore begins with the formal limit and asks whether an intelligence can make the horizon from which it acts available to reflection.
+**Earned position (Argued):** Planetary systems can model and act while displacing the subject for whom distinctions matter.
 
 **Why this move:** Antikythera Agentworld Brief turns agency into a context-bound problem and intensifies the question: an artificial agent cannot be understood solely as an object executing instructions; it inhabits a constructed context-world in which distinctions matter, actions alter future distinctions, and evaluation is internal to a horizon.
 
 **Carry-forward:** an instrument panel whose readings depend upon an observer, a situation, and a horizon that the panel does not display.
 
-**Open:** [movement](movements/01-s01-p0-question-before-mechanism.md) · arguments: [Immutable Gap and Meta-Sign](../arguments/01-immutable-gap-and-meta-sign.md)
+**Open:** [movement](movements/01-s01-p0-question-before-mechanism.md) · canonical route: [A01 — Subject, God and Faithful Definition](../../symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md), [A03 — Immutable Gap / Formal Limit](../../symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md), [A04 — Diaphaneity / Contextual Transparency](../../symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md), [A26 — Objective Internality — Mind as Worldhood](../../symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [C01](../../symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md), [C04](../../symbolon/episteme/concepts/C04-Formal-Limit.md), [C05](../../symbolon/episteme/concepts/C05-Immutable-Gap.md), [C07](../../symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md), [C09](../../symbolon/episteme/concepts/C09-Diaphaneity.md), [C57](../../symbolon/episteme/concepts/C57-Agentworld.md)
 
 ### #1 · Define the Subject Without Making It an Object
 
 **Incoming pressure:** [§0/1 #0 · The Question Before the Mechanism](movements/01-s01-p0-question-before-mechanism.md)
 
-**Earned position (Argued):** The subject is the non-objectifiable pole of a differentiating event: the opening through which a determinate world is given. Treating that condition as a hidden substance inside the world would turn it into another object and repeat the error under examination.
+**Earned position (Argued):** The subject is the non-objectifiable pole of a differentiating event: the opening through which a determinate world is given.
 
 **Why this move:** “I see x” already entails knower, means, and known; reflection can objectify any self-description but cannot exhaust the condition under which that description appears. Śaiva epistemology names the three moments *pramātṛ*, *pramāṇa*, and *prameya*.
 
 **Carry-forward:** the later slash will carry the work presently done by *pramāṇa*, but no notation is required yet.
 
-**Open:** [movement](movements/02-s01-p1-define-subject.md) · arguments: [Immutable Gap and Meta-Sign](../arguments/01-immutable-gap-and-meta-sign.md), [Number Two Names Number Six: The Prisoner and the Politics of the Count](../arguments/21-prisoner-politics-of-the-count.md) · sources: [frank-gleiser-thompson-2024-blind-spot](../../symbolon/episteme/sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE.md)
+**Open:** [movement](movements/02-s01-p1-define-subject.md) · canonical route: [A01 — Subject, God and Faithful Definition](../../symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md), [A02 — Copula / Self-Identity through Difference](../../symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md), [A03 — Immutable Gap / Formal Limit](../../symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md), [C01](../../symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md), [C02](../../symbolon/episteme/concepts/C02-Faithful-Definition.md), [C03](../../symbolon/episteme/concepts/C03-Determination.md), [C04](../../symbolon/episteme/concepts/C04-Formal-Limit.md), [C05](../../symbolon/episteme/concepts/C05-Immutable-Gap.md), [C06](../../symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md)
 
 ### #2 · Definition as Cut, Gift, and Danger
 
@@ -59,7 +62,7 @@ Exact inquiry includes the disclosure of its own conditions. At the formal limit
 
 **Carry-forward:** The cut’s gift and danger return to E2’s criterion through distinction: Criterion distinguishes, Delineation gives that difference a workable boundary, and Arbitration decides through it.
 
-**Open:** [movement](movements/03-s01-p2-definition-cut-gift-danger.md) · arguments: [Immutable Gap and Meta-Sign](../arguments/01-immutable-gap-and-meta-sign.md) · sources: [pind-2009-dignaga-anyapoha-dissertation](../../symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE.md), [spinoza-1674-letter-50-jelles](../../symbolon/episteme/sources/classical-premodern-philosophy/spinoza/spinoza-1674-letter-50-jelles/SOURCE.md)
+**Open:** [movement](movements/03-s01-p2-definition-cut-gift-danger.md) · canonical route: [A01 — Subject, God and Faithful Definition](../../symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md), [A03 — Immutable Gap / Formal Limit](../../symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md), [A08 — Apoha / Constitutive Exclusion](../../symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md), [A24 — Arbitration and the Usurpation of Measure](../../symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md), [C02](../../symbolon/episteme/concepts/C02-Faithful-Definition.md), [C03](../../symbolon/episteme/concepts/C03-Determination.md), [C04](../../symbolon/episteme/concepts/C04-Formal-Limit.md), [C18](../../symbolon/episteme/concepts/C18-Apoha.md), [C27](../../symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md) · sources: [pind-2009-dignaga-anyapoha-dissertation](../../symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE.md), [spinoza-1674-letter-50-jelles](../../symbolon/episteme/sources/classical-premodern-philosophy/spinoza/spinoza-1674-letter-50-jelles/SOURCE.md)
 
 ### #3 · The Formal-Limit Genealogy
 
@@ -71,19 +74,19 @@ Exact inquiry includes the disclosure of its own conditions. At the formal limit
 
 **Carry-forward:** E3’s fides before arbitration gives the enquiry its prior reliance and its subsequent renewed entrustment: formal investigation already undertakes a practice before it can arbitrate its results.
 
-**Open:** [movement](movements/04-s01-p3-formal-limit-genealogy.md) · arguments: [Immutable Gap and Meta-Sign](../arguments/01-immutable-gap-and-meta-sign.md), [Paradox as Cross-Register Hinge](../arguments/15-paradox-as-cross-register-hinge.md) · sources: [whitehead-1978-process-reality](../../symbolon/episteme/sources/process-systems-theory/whitehead/whitehead-1978-process-reality/SOURCE.md), [spencer-brown-1969-laws-form](../../symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE.md), [varela-1975-calculus-self-reference](../../symbolon/episteme/sources/process-systems-theory/varela/varela-1975-calculus-self-reference/SOURCE.md), [frank-gleiser-thompson-2024-blind-spot](../../symbolon/episteme/sources/history-philosophy-of-science/frank/frank-gleiser-thompson-2024-blind-spot/SOURCE.md)
+**Open:** [movement](movements/04-s01-p3-formal-limit-genealogy.md) · canonical route: [A03 — Immutable Gap / Formal Limit](../../symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md), [A23 — Trust, Faith and the Formal Limit](../../symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md), [A34 — Idealism / Order of Dependence](../../symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md), [C04](../../symbolon/episteme/concepts/C04-Formal-Limit.md), [C05](../../symbolon/episteme/concepts/C05-Immutable-Gap.md), [C48](../../symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md), [C60](../../symbolon/episteme/concepts/C60-Idealism-Order-of-Dependence.md)
 
 ### #4 · Gebserian Diaphaneity
 
 **Incoming pressure:** [§0/1 #3 · The Formal-Limit Genealogy](movements/04-s01-p3-formal-limit-genealogy.md)
 
-**Earned position (Argued):** Integral reason is the higher mutation in which the mental-rational structure becomes transparent to origin, limit, and co-presence with other structures. Its achievement is not discarded: it is retained, while the constituted conditions of its positioned seeing come into view.
+**Earned position (Argued):** Integral reason is the higher mutation in which the mental-rational structure becomes transparent to origin, limit, and co-presence with other structures.
 
 **Why this move:** Jean Gebser enters through the historical medium by which he makes his claim.
 
 **Carry-forward:** light refracted without losing the prism; the prism becomes visible in the colour it makes possible.
 
-**Open:** [movement](movements/05-s01-p4-gebser-diaphaneity.md) · arguments: [Immutable Gap and Meta-Sign](../arguments/01-immutable-gap-and-meta-sign.md), [Paradox as Cross-Register Hinge](../arguments/15-paradox-as-cross-register-hinge.md) · sources: [gebser-1985-ever-present-origin](../../symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md), [maroski-2025-seeing-through-solid-words](../../symbolon/episteme/sources/phenomenology-continental-philosophy/maroski/maroski-2025-seeing-through-solid-words/SOURCE.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md), [heidegger-1977-question-concerning-technology](../../symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md)
+**Open:** [movement](movements/05-s01-p4-gebser-diaphaneity.md) · canonical route: [A04 — Diaphaneity / Contextual Transparency](../../symbolon/episteme/arguments/A04-Diaphaneity-Contextual-Transparency.md), [A22 — World-Picture → World-Atlas](../../symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md), [A26 — Objective Internality — Mind as Worldhood](../../symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [C07](../../symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md), [C08](../../symbolon/episteme/concepts/C08-Context-Context-Frame.md), [C09](../../symbolon/episteme/concepts/C09-Diaphaneity.md), [C37](../../symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md), [C41](../../symbolon/episteme/concepts/C41-Objective-Internality.md) · sources: [gebser-1985-ever-present-origin](../../symbolon/episteme/sources/phenomenology-continental-philosophy/gebser/gebser-1985-ever-present-origin/SOURCE.md), [maroski-2025-seeing-through-solid-words](../../symbolon/episteme/sources/phenomenology-continental-philosophy/maroski/maroski-2025-seeing-through-solid-words/SOURCE.md), [taylor-2026-advent-zero-subject](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md), [heidegger-1977-question-concerning-technology](../../symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md)
 
 ### #5→0 · The Return to Zero
 
@@ -95,7 +98,7 @@ Exact inquiry includes the disclosure of its own conditions. At the formal limit
 
 **Carry-forward:** `0` marks the condition under which counting occurs, while every counted item occupies the position of `1`.
 
-**Open:** [movement](movements/06-s01-p5-return-zero.md) · arguments: [Bohmian Enfoldment and Dialogical Return](../arguments/16-bohmian-enfoldment-dialogical-return.md), [Immutable Gap and Meta-Sign](../arguments/01-immutable-gap-and-meta-sign.md)
+**Open:** [movement](movements/06-s01-p5-return-zero.md) · canonical route: [A10 — Advent-of-Zero](../../symbolon/episteme/arguments/A10-Advent-of-Zero.md), [A11 — The-Two-Ones-0-One-1-All](../../symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md), [A23 — Trust, Faith and the Formal Limit](../../symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md), [C48](../../symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md), [C49](../../symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md), [C52](../../symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md), [A36 — Advent of Integral Zero](../../symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md)
 
 ## Release
 

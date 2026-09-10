@@ -1,5 +1,6 @@
 ---
 title: "§5 · #2 — J-Space"
+source_id: 39-s5-p2-j-space
 node_type: section
 page_type: section-movement
 station: "§5"
@@ -11,6 +12,10 @@ source_ids: [lecun-et-al-2006-energy-based-learning]
 tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/agentworld, station/s5, position/p2]
 ---
 # §5 · #2 — J-Space
+
+<!-- reader-navigation -->
+Movement 39 of 48 · [This room](../ROOM.md) · [← Previous](38-s5-p1-apoha-softmax.md) · [Next →](40-s5-p3-preference-hidden-zero.md)
+<!-- /reader-navigation -->
 
 ## Claim
 J-space is the relational field of an agent’s active judgments, affordances, uncertainties, values, tools, memories and interlocutors. Objective internality becomes measurable through transformations of this field.
@@ -25,7 +30,7 @@ This is where the tattvic meta-context remains active without being repeated as 
 ## Tension / limit
 "Circumscription without circumstance" is the failure mode: a sharp boundary hides the horizon that produced it. A richer J-space can still fail in the same way if its representation is mistaken for the world or if the conditions that generated its distances and affordances disappear from view.
 
-The wider world–agency research boundary is maintained in [[PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE]].
+The wider world–agency research boundary is maintained in [PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE](../../../../../working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md).
 
 ## Anchor and transition
 **Image:** a thrown landscape of nearer and farther possibilities whose horizon remains partly outside the map. Its socially occupied baseline becomes visible in [[40-s5-p3-preference-hidden-zero|§5 · #3 — Preference Models and the Hidden Zero]].

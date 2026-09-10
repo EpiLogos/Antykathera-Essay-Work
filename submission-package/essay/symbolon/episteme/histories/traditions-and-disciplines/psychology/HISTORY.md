@@ -1,5 +1,6 @@
 ---
 title: "Psychology — Crowd, Complex, Psychoid, and Provisional Self"
+source_id: psychology-history
 page_type: historical-register-route
 ownership: protected-learning-surface
 status: living

@@ -55,11 +55,11 @@ The source currently declares no downstream consumers. Argument, concept, sectio
 
 ## Source braid
 
-- [[Taylor — Core Theorems Pithy (2026)]] supplies the native QL derivation.
-- [[Van Eenwyk — Archetypes and Strange Attractors (1997)]] supplies the book-length chaos-dynamical and symbolic encounter; Frank's sibling `NOTES.md` carries the authorial reading which generated this synthesis.
-- [[Jung — Aion, CW 9.2 (1978 corrected printing)]] and related Jung source houses govern public Jung attribution.
+- [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems Pithy (2026)]] supplies the native QL derivation.
+- [[symbolon/episteme/sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE|Van Eenwyk — Archetypes and Strange Attractors (1997)]] supplies the book-length chaos-dynamical and symbolic encounter; Frank's sibling `NOTES.md` carries the authorial reading which generated this synthesis.
+- [[symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE|Jung — Aion, CW 9.2 (1978 corrected printing)]] and related Jung source houses govern public Jung attribution.
 - Tillich's six characteristics are presently mediated through Van Eenwyk's discussion and require a direct Tillich source house if the public essay attributes or quotes the list independently.
-- [[Taylor — MEF Twelve Lenses Reference (2026)]] and [[Taylor — Mono-Poly, the Two Ones, and the Whole Field (2026)]] supply the existing epistemic and social continuities.
+- [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE|Taylor — MEF Twelve Lenses Reference (2026)]] and [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE|Taylor — Mono-Poly, the Two Ones, and the Whole Field (2026)]] supply the existing epistemic and social continuities.
 
 <a id="passages"></a>
 ## Passages and excerpts

@@ -3,6 +3,7 @@ title: "Mono-Poly Planetary Intelligence"
 aliases:
   - "Mono-Poly Planetary Intelligence"
   - "Mono–Poly Planetary Intelligence"
+source_id: mono-poly-planetary-intelligence
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

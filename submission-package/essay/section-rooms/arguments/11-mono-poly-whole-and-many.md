@@ -4,6 +4,7 @@ aliases:
   - "Mono-Poly"
   - "Mono-Poly Planetary Intelligence"
   - "Wholeness Through Plurality"
+source_id: 11-mono-poly-whole-and-many
 node_type: "synthesis"
 page_type: "argument-map"
 argument_level: "primary"
@@ -41,13 +42,17 @@ tags:
   - argument-map/synthesis
   - argument-map/mono-poly
   - argument-map/praxis
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Mono-Poly: Whole and Many
+
+**Historical carrier.** The developed successor is [A12](../../symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md). This page preserves the earlier argument and its provenance; the successor carries the live canonical operation.
 
 ## Claims
 
 - **C1 — Whole before parts.** Reality is mono–poly: one relational field differentiating through many real expressions. The whole is structurally prior because every part arises within relations and conditions it did not create. Status: **Argued**. Sources: [[11-mono-poly-whole-and-many|Mono-Poly]] · [[Prakāśa-Vimarśa]].
-- **C2 — Apoha empties the isolated part.** A determination becomes intelligible through exclusion; the excluded field therefore remains constitutive of the selected \(1\). The poly is empty of self-subsistence, not empty of reality. Status: **Argued**. Source: [[submission-package/essay/symbolon/episteme/concepts/apoha|Apoha]].
+- **C2 — Apoha empties the isolated part.** A determination becomes intelligible through exclusion; the excluded field therefore remains constitutive of the selected \(1\). The poly is empty of self-subsistence, not empty of reality. Status: **Argued**. Source: [[symbolon/episteme/concepts/apoha|Apoha]].
 - **C3 — Coordination is a mono-poly problem.** Common protocol and commons provide the mono; locally governed contexts, world-models, and responsibilities provide the poly. Authority becomes monopoly when a local node claims to be the source of the field on which it depends. Status: **Argued**. Sources: [[42 Techne — Sovereign Commons Architecture|4:2 Technè — Sovereign Commons Architecture]] · [[Antikythera Agentworld Brief]].
 - **C4 — The political third is relation, not centrism.** A spectrum becomes capturable when its poles are treated as self-grounding and the relation that produces them is concealed. `0/1 ↔ 1/0` names the ground/form and form/ground return through which institutions remain answerable to citizens and material conditions. Status: **Argued**. Sources: [[Sym-Ballein]]; source-supported diagnostic pressure from Le Bon, Jung, and Desmet; institutional qualification from Iakovou.
 

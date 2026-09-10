@@ -1,4 +1,10 @@
+---
+source_id: copula-derivation-chain-and-resource-pools
+---
+
 # The Copula Derivation Chain: Name, Count, Account, Economy
+
+[Reading entrance](../README.md) · [48 movements](../section-rooms/README.md)
 ## Full derivational architecture with source pools — resource file for essay construction
 
 ---

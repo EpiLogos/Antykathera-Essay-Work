@@ -4,6 +4,7 @@ aliases:
   - "Mathematical-Artistic Image Register"
   - "Mathematical and Artistic Images"
   - "Essay Image Register"
+source_id: concepts-mathematical-artistic-image-register
 node_type: "concept"
 register: episteme
 page_type: "concept"
@@ -19,7 +20,7 @@ aperture:
   expert: "The register assigning each non-discursive image one argumentative operation with its own claim status, governed by the run-true test: the image's transformations must remain faithful to the relation the essay is deriving."
   prereq: "the Derived/Argued/Offered discipline — see the central plan's claim-status key."
 analogia:
-  - "[[submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]]"
+  - "[[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]]"
 ---
 # Mathematical-Artistic Image Register
 
@@ -31,16 +32,16 @@ Each image carries one argumentative operation. An image earns main-text space w
 
 | Station | Image | Operation carried | Status and use |
 |---|---|---|---|
-| §0/1 | [[submission-package/essay/symbolon/episteme/sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE\|Cusa's]] polygon approaching the circle | Exact finite approximation deepens while its non-coincidence with the limit remains exact | Argued image for the formal limit |
+| §0/1 | [[symbolon/episteme/sources/classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE|Cusa's]] polygon approaching the circle | Exact finite approximation deepens while its non-coincidence with the limit remains exact | Argued image for the formal limit |
 | §0/1 | *Book of the Twenty-Four Philosophers*: infinite sphere, centre everywhere, circumference nowhere | Every finite disclosure can be a centre; no finite centre owns the containing edge | Source the aphorism correctly; its coinage is not Cusa's |
-| §0/1 | Eckhart's ground, desert, spark, and Word ([[flasch-2015-meister-eckhart\|Flasch 2015]]) | Predication intensifies until transparent to the no-thing it cannot predicate | Mystical/poetic Argued disclosure, not theorem |
+| §0/1 | Eckhart's ground, desert, spark, and Word ([[symbolon/episteme/sources/classical-premodern-philosophy/flasch/flasch-2015-meister-eckhart/SOURCE|Flasch 2015]]) | Predication intensifies until transparent to the no-thing it cannot predicate | Mystical/poetic Argued disclosure, not theorem |
 | §1 | Crossed zero `Ø` and empty-set braces `{∅}` | The no-counted-thing enters inscription without becoming positive magnitude; the stroke does not fill the zero | QL theorem and set-theoretic construction |
 | §2 | Broken *symbolon* refitted | Wholeness retains the fracture through which separated halves authenticate relation | Historical-material image for sym-ballein |
 | §2 | Bow and lyre; Ares–Aphrodite–Harmonia; Hephaestus's net | Counter-tension sounds; relation bears concord; enclosure reveals composition vs capture | Canonical mytheme cluster, developed once |
-| §3 · #2 | Bohm's spinning wheel and straight-running thread ([[bohm-krishnamurti-1975-05-18-dialogue\|1975 dialogue]]) | Phase changes while an invariant relation runs true through rotation | Primary-transcript image beside complex modulus |
+| §3 · #2 | Bohm's spinning wheel and straight-running thread ([[symbolon/episteme/sources/process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/SOURCE|1975 dialogue]]) | Phase changes while an invariant relation runs true through rotation | Primary-transcript image beside complex modulus |
 | §3 · #2 | Argand plane `1→i→−1→−i→1` | One relation generates a quaternity through repeated quarter-turns | Derived geometry; psychological use Argued |
-| §3 · #3 | Riemann sphere and stereographic projection | Obstruction becomes position under a changed space | Derived — see [[dimensional-reframing-at-zero-and-infinity\|Dimensional Reframing]] |
-| §3 · #4 | Fundamental square, universal cover, torus circulations | Quotient, two windings, local return with global displacement, `χ(T²)=0` circulation | Derived topology; QL reading Argued — [[submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos\|Toroidal Circulation]] |
+| §3 · #3 | Riemann sphere and stereographic projection | Obstruction becomes position under a changed space | Derived — see [[symbolon/episteme/concepts/dimensional-reframing-at-zero-and-infinity|Dimensional Reframing]] |
+| §3 · #4 | Fundamental square, universal cover, torus circulations | Quotient, two windings, local return with global displacement, `χ(T²)=0` circulation | Derived topology; QL reading Argued — [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation]] |
 | §3 · #4 | Tokamak magnetic-flux surfaces | Toroidal and poloidal fields compose helical confinement; energy held through circulation, not an open end | Derived engineering; arche-topos use Argued |
 | §3 · #4 | Chladni/cymatic nodal figures | One oscillatory relation becomes audible interval and visible node under material boundary conditions | Physical exemplar, not identity proof for sound/light/mind |
 | §3–§4 | Möbius band and Klein bottle; Escher's surfaces | Passage returns with changed orientation; the invariant made perceptible | Derived surface properties; artworks are explanatory disclosures |
@@ -61,6 +62,6 @@ Mathematics and art meet here because both can preserve an invariant through tra
 3. **Formal-limit plate:** Cusa's polygon/circle and the infinite-sphere formula beside `1/0`, projective completion, and the open subject-pole.
 4. **Two-logics plate:** `/ = −/−` → centred `(-1)/(+1)` → collapsed `(-1)+/-(+1)` beside `0/1 = 1/0` and `(0/1)/(1/0)`, with the broken symbolon, bow/lyre, and Hephaestian net as mythemic margins.
 
-Related: [[submission-package/essay/symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] · [[submission-package/essay/symbolon/episteme/dossiers/bohm|Bohmian Enfoldment and Dialogical Return]] · [[submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]] · [[submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]
+Related: [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] · [[symbolon/episteme/dossiers/bohm|Bohmian Enfoldment and Dialogical Return]] · [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]] · [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]
 
 *Provenance: distilled from the frozen reference layer (reference-notes/mathematical-artistic-image-register.md, deprecated) and the central plan's mythic-and-aesthetic grammar.*

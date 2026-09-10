@@ -2,6 +2,7 @@
 title: "Von Neumann Ordinals"
 aliases:
   - "Von Neumann Ordinals"
+source_id: von-neumann-ordinals
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

@@ -78,7 +78,7 @@ Exact text and consumer mappings: [Quotes — PyTorch Softmax and Argmax API (v2
 - **Source relation:** extracted primary software documentation.
 - **Evidential action:** supports.
 - **Argument function:** softmax normalisation mechanism.
-- **Consumers:** [[38-s5-p1-apoha-softmax]]; [[Immutable Gap and Meta-Sign]].
+- **Consumers:** [[38-s5-p1-apoha-softmax]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]].
 - **Use boundary:** establishes a tensor operation only; it does not establish that an LLM uses PyTorch, uses this operation at decoding, or has meaning, apoha, or subjectivity.
 
 <a id="pytorch-2-9-softmax-argmax-api-q002"></a>
@@ -92,7 +92,7 @@ Exact text and consumer mappings: [Quotes — PyTorch Softmax and Argmax API (v2
 - **Source relation:** extracted primary software documentation.
 - **Evidential action:** supports.
 - **Argument function:** deterministic index-selection operation.
-- **Consumers:** [[38-s5-p1-apoha-softmax]]; [[Paradox as Cross-Register Hinge]].
+- **Consumers:** [[38-s5-p1-apoha-softmax]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]].
 - **Use boundary:** establishes a library operator only; it does not establish that a named model uses greedy argmax rather than sampling, or that output is a meaningful mark.
 
 <a id="pytorch-2-9-softmax-argmax-api-q003"></a>
@@ -106,14 +106,14 @@ Exact text and consumer mappings: [Quotes — PyTorch Softmax and Argmax API (v2
 - **Source relation:** extracted primary software documentation.
 - **Evidential action:** qualifies.
 - **Argument function:** tie-handling scope limitation.
-- **Consumers:** [[38-s5-p1-apoha-softmax]]; [[Immutable Gap and Meta-Sign]]; [[Paradox as Cross-Register Hinge]].
+- **Consumers:** [[38-s5-p1-apoha-softmax]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]].
 - **Use boundary:** establishes a deterministic library tie rule; it does not establish preference, semantic exclusion, or a specific system’s decode policy.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `pytorch-2-9-softmax-argmax-api-q001` | `pytorch-2-9-softmax-argmax-api` | PyTorch 2.9 softmax page, function description | quotation-ready | `38-s5-p1-apoha-softmax` | [[Immutable Gap and Meta-Sign]] | softmax normalisation | [Quotes — PyTorch Softmax and Argmax API (v2.9)](#passages) |
+| `pytorch-2-9-softmax-argmax-api-q001` | `pytorch-2-9-softmax-argmax-api` | PyTorch 2.9 softmax page, function description | quotation-ready | `38-s5-p1-apoha-softmax` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | softmax normalisation | [Quotes — PyTorch Softmax and Argmax API (v2.9)](#passages) |
 
-| `pytorch-2-9-softmax-argmax-api-q002` | `pytorch-2-9-softmax-argmax-api` | PyTorch 2.9 argmax page, dim form | quotation-ready | `38-s5-p1-apoha-softmax` | [[Paradox as Cross-Register Hinge]] | deterministic index selection | [Quotes — PyTorch Softmax and Argmax API (v2.9)](#passages) |
+| `pytorch-2-9-softmax-argmax-api-q002` | `pytorch-2-9-softmax-argmax-api` | PyTorch 2.9 argmax page, dim form | quotation-ready | `38-s5-p1-apoha-softmax` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | deterministic index selection | [Quotes — PyTorch Softmax and Argmax API (v2.9)](#passages) |
 
-| `pytorch-2-9-softmax-argmax-api-q003` | `pytorch-2-9-softmax-argmax-api` | PyTorch 2.9 argmax page, tie note | quotation-ready | `38-s5-p1-apoha-softmax` | [[Immutable Gap and Meta-Sign]]; [[Paradox as Cross-Register Hinge]] | tie-handling limitation | [Quotes — PyTorch Softmax and Argmax API (v2.9)](#passages) |
+| `pytorch-2-9-softmax-argmax-api-q003` | `pytorch-2-9-softmax-argmax-api` | PyTorch 2.9 argmax page, tie note | quotation-ready | `38-s5-p1-apoha-softmax` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | tie-handling limitation | [Quotes — PyTorch Softmax and Argmax API (v2.9)](#passages) |

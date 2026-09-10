@@ -1,5 +1,6 @@
 ---
 title: "§1 · #4 — Zero Keeps One Foot Outside Mathematics"
+source_id: 17-s1-p4-zero-outside-math
 node_type: section
 page_type: section-movement
 station: "§1"
@@ -19,6 +20,10 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §1 · #4 — Zero Keeps One Foot Outside Mathematics
 
+<!-- reader-navigation -->
+Movement 17 of 48 · [This room](../ROOM.md) · [← Previous](16-s1-p3-crossed-zero.md) · [Next →](18-s1-p5-loan-returns.md)
+<!-- /reader-navigation -->
+
 ## Movement thesis
 
 Division by zero is the point at which a formal system must disclose itself. In an ordinary field, \(1/0\) is undefined because no element multiplied by zero returns one. The projective line adjoins a point at infinity; the Riemann sphere compactifies the complex plane; wheels, meadows, transreal arithmetic, and other systems preserve different operations by accepting different laws.
@@ -29,7 +34,7 @@ Division by zero is the point at which a formal system must disclose itself. In 
 
 Assume in a field that \(1/0=x\). Then \(0x=1\); but \(0x=0\) for every field element, so no such \(x\) exists. To give \(1/0\) a value, the system must change. [[dimensional-reframing-at-zero-and-infinity|Projective completion]] may identify directions at infinity; the [[dimensional-reframing-at-zero-and-infinity|Riemann sphere]] gives complex infinity a geometric place; totalised algebras alter distributivity, equality, or exceptional values. Each resolution carries a purpose and a cost.
 
-The historical pressure is now inspectable rather than anecdotal. In [[Colebrooke — Brahmagupta and Bhāskara (1817)]], `colebrooke-1817-brahmagupta-bhaskara-q002` preserves Bhāskara's zero-denominator expression in the selected translation; [[Dutta — Zero-Divided Numbers in Indian Mathematics (2023)]] asks what happens when cancellation and cross-multiplication are restricted for such objects. Neither source turns the expression into ordinary field division. Together they show why the formal container has to be declared.
+The historical pressure is now inspectable rather than anecdotal. In [[symbolon/episteme/sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE|Colebrooke — Brahmagupta and Bhāskara (1817)]], `colebrooke-1817-brahmagupta-bhaskara-q002` preserves Bhāskara's zero-denominator expression in the selected translation; [[symbolon/episteme/sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE|Dutta — Zero-Divided Numbers in Indian Mathematics (2023)]] asks what happens when cancellation and cross-multiplication are restricted for such objects. Neither source turns the expression into ordinary field division. Together they show why the formal container has to be declared.
 
 ## Argumentative force
 

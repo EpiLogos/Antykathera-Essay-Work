@@ -10,6 +10,7 @@ planning_basis:
   - "[[the-return-of-zero-central-plan]]"
   - "[[2026-08-02-PARALLEL-HARMONISED-QUILT]]"
   - "[[10-7-2026-core-theorems-pithy]]"
+source_id: 2026-08-03-plain-english-full-flow
 tags:
   - epi-logos/antikythera-essay
   - argument/full-flow

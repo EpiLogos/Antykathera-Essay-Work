@@ -98,6 +98,6 @@ Exact text and consumer mappings: [Quotes — Wilson et al. Embodied Cognition (
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `wilson-et-al-2020-embodied-cognition-sep-q001` | `wilson-et-al-2020-embodied-cognition-sep` | §2.2, para. 2 | quotation-ready | `12-s0-p5-objective-internality` | [[Objective Internality]] | conceptual distinction | [Quotes — Wilson et al. Embodied Cognition (SEP, 2020)](#passages) |
+| `wilson-et-al-2020-embodied-cognition-sep-q001` | `wilson-et-al-2020-embodied-cognition-sep` | §2.2, para. 2 | quotation-ready | `12-s0-p5-objective-internality` | [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]] | conceptual distinction | [Quotes — Wilson et al. Embodied Cognition (SEP, 2020)](#passages) |
 
-| `wilson-et-al-2020-embodied-cognition-sep-q002` | `wilson-et-al-2020-embodied-cognition-sep` | §2.2, para. 4 | quotation-ready | `12-s0-p5-objective-internality` | [[Objective Internality]]; [[Computational Process Ontology]] | counterposition | [Quotes — Wilson et al. Embodied Cognition (SEP, 2020)](#passages) |
+| `wilson-et-al-2020-embodied-cognition-sep-q002` | `wilson-et-al-2020-embodied-cognition-sep` | §2.2, para. 4 | quotation-ready | `12-s0-p5-objective-internality` | [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]]; [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] | counterposition | [Quotes — Wilson et al. Embodied Cognition (SEP, 2020)](#passages) |

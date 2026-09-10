@@ -37,6 +37,8 @@ main_source_for:
 ---
 # Rotman — Signifying Nothing (1987)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Chicago 18 forms
 
 **Full note:** Brian Rotman, *Signifying Nothing: The Semiotics of Zero* (St. Martin's Press, 1987), {page}.

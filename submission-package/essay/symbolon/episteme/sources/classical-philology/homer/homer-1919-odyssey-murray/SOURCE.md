@@ -75,7 +75,7 @@ Exact text and consumer mappings: [Quotes — Homer Odyssey I (Murray, 1919)](#p
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** mythic narrative provenance.
-- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [[Hephaestus and the Net]]; movement 22 Homeric scene.
+- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [Hephaestus and the Net](../../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md); movement 22 Homeric scene.
 - **Use boundary:** voices Hephaestus’s complaint within an embedded song; it does not establish a universal theory of war, desire, or justice.
 
 <a id="homer-1919-odyssey-murray-q002"></a>
@@ -89,7 +89,7 @@ Exact text and consumer mappings: [Quotes — Homer Odyssey I (Murray, 1919)](#p
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** mythic narrative provenance.
-- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [[Hephaestus and the Net]]; [[18-trust-faith-formal-limit|Trust]]; movement 22 capture image.
+- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [Hephaestus and the Net](../../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md); [[18-trust-faith-formal-limit|Trust]]; movement 22 capture image.
 - **Use boundary:** establishes a specific narrated capture through bonds; it does not justify calling the passage a theory of surveillance, harmony, dialectic, or planetary computation.
 
 <a id="homer-1919-odyssey-murray-q003"></a>
@@ -103,7 +103,7 @@ Exact text and consumer mappings: [Quotes — Homer Odyssey I (Murray, 1919)](#p
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** counterposition / reception boundary.
-- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [[Hephaestus and the Net]]; [[18-trust-faith-formal-limit|Trust]]; movement 22 offered-reading limitation.
+- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [Hephaestus and the Net](../../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md); [[18-trust-faith-formal-limit|Trust]]; movement 22 offered-reading limitation.
 - **Use boundary:** the public response is shame and laughter, not stated concord; it blocks treating the capture itself as an ancient image of harmony.
 <a id="homer-1919-odyssey-murray-q004"></a>
 ## Passage card — `homer-1919-odyssey-murray-q004` — Helios the informer
@@ -144,7 +144,7 @@ Exact text and consumer mappings: [Quotes — Homer Odyssey I (Murray, 1919)](#p
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** relation converted to account — the caring-to-accounting hinge; technē named as the winning power in the gods' own verdict.
-- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [[40-s5-p3-preference-hidden-zero]]; [[Trust, Faith, and the Formal Limit]].
+- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [[40-s5-p3-preference-hidden-zero]]; [[symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust, Faith, and the Formal Limit]].
 - **Use boundary:** Greek legal texture (Phillips) carries the institutional claim; this card carries only the narrated demand and fine.
 
 <a id="homer-1919-odyssey-murray-q007"></a>
@@ -172,25 +172,25 @@ Exact text and consumer mappings: [Quotes — Homer Odyssey I (Murray, 1919)](#p
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** the surety closure — the completed apparatus cannot conclude; a person standing-for another at risk of loss ends the scene, accepted by the maker against his own stated distrust of sureties.
-- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [[40-s5-p3-preference-hidden-zero]]; [[46-s50-p3-4-2-mono-poly]]; [[Trust, Faith, and the Formal Limit]].
-- **Use boundary:** the legal-form claim (formal ἐγγύη procedure) is carried by [[phillips-moicheia-unity-greek-law]]; the analogy to alignment-era trust displacement is the essay's Argued move.
+- **Consumers:** [[22-s2-p3-ares-aphrodite-harmonia]]; [[40-s5-p3-preference-hidden-zero]]; [[46-s50-p3-4-2-mono-poly]]; [[symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust, Faith, and the Formal Limit]].
+- **Use boundary:** the legal-form claim (formal ἐγγύη procedure) is carried by [[symbolon/episteme/sources/classical-philology/phillips/phillips-moicheia-unity-greek-law/SOURCE|phillips-moicheia-unity-greek-law]]; the analogy to alignment-era trust displacement is the essay's Argued move.
 
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `homer-1919-odyssey-murray-q001` | `homer-1919-odyssey-murray` | *Odyssey* 8.305–310 | quotation-ready | `22-s2-p3-ares-aphrodite-harmonia` | [[Hephaestus and the Net]] | mythic provenance | [Quotes — Homer Odyssey I (Murray, 1919)](#passages) |
+| `homer-1919-odyssey-murray-q001` | `homer-1919-odyssey-murray` | *Odyssey* 8.305–310 | quotation-ready | `22-s2-p3-ares-aphrodite-harmonia` | [Hephaestus and the Net](../../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md) | mythic provenance | [Quotes — Homer Odyssey I (Murray, 1919)](#passages) |
 
-| `homer-1919-odyssey-murray-q002` | `homer-1919-odyssey-murray` | *Odyssey* 8.296–300 | quotation-ready | `22-s2-p3-ares-aphrodite-harmonia` | [[Hephaestus and the Net]]; [[18-trust-faith-formal-limit|Trust]] | mythic provenance | [Quotes — Homer Odyssey I (Murray, 1919)](#passages) |
+| `homer-1919-odyssey-murray-q002` | `homer-1919-odyssey-murray` | *Odyssey* 8.296–300 | quotation-ready | `22-s2-p3-ares-aphrodite-harmonia` | [Hephaestus and the Net](../../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md); [[18-trust-faith-formal-limit|Trust]] | mythic provenance | [Quotes — Homer Odyssey I (Murray, 1919)](#passages) |
 
-| `homer-1919-odyssey-murray-q003` | `homer-1919-odyssey-murray` | *Odyssey* 8.320–325 | quotation-ready | `22-s2-p3-ares-aphrodite-harmonia` | [[Hephaestus and the Net]]; [[18-trust-faith-formal-limit|Trust]] | counterposition / reception boundary | [Quotes — Homer Odyssey I (Murray, 1919)](#passages) |
+| `homer-1919-odyssey-murray-q003` | `homer-1919-odyssey-murray` | *Odyssey* 8.320–325 | quotation-ready | `22-s2-p3-ares-aphrodite-harmonia` | [Hephaestus and the Net](../../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md); [[18-trust-faith-formal-limit|Trust]] | counterposition / reception boundary | [Quotes — Homer Odyssey I (Murray, 1919)](#passages) |
 
 | `homer-1919-odyssey-murray-q004` | `homer-1919-odyssey-murray` | *Odyssey* 8.270–71, 302 | wording-verified-web; Perseus reread pending | `22-s2-p3-ares-aphrodite-harmonia`; `40-s5-p3-preference-hidden-zero` | [[counterfeit-gathering]] | detection layer / surveillance anatomy | [Quotes](#passages) |
 
 | `homer-1919-odyssey-murray-q005` | `homer-1919-odyssey-murray` | *Odyssey* 8.274–81, 296–97 | wording-verified-web; Perseus reread pending | `22-s2-p3-ares-aphrodite-harmonia` | [[counterfeit-gathering]] | δεσμοὶ τεχνήεντες — technē on the net | [Quotes](#passages) |
 
-| `homer-1919-odyssey-murray-q006` | `homer-1919-odyssey-murray` | *Odyssey* 8.317–20, 329–32 | wording-verified-web; Perseus reread pending | `22-s2-p3-ares-aphrodite-harmonia`; `40-s5-p3-preference-hidden-zero` | [[Trust, Faith, and the Formal Limit]] | account: ἕεδνα and μοιχάγρια; τέχνῃσι gnome | [Quotes](#passages) |
+| `homer-1919-odyssey-murray-q006` | `homer-1919-odyssey-murray` | *Odyssey* 8.317–20, 329–32 | wording-verified-web; Perseus reread pending | `22-s2-p3-ares-aphrodite-harmonia`; `40-s5-p3-preference-hidden-zero` | [[symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust, Faith, and the Formal Limit]] | account: ἕεδνα and μοιχάγρια; τέχνῃσι gnome | [Quotes](#passages) |
 
-| `homer-1919-odyssey-murray-q007` | `homer-1919-odyssey-murray` | *Odyssey* 8.334–42 | wording-verified-web; Perseus reread pending | `22-s2-p3-ares-aphrodite-harmonia`; `40-s5-p3-preference-hidden-zero` | [[Hephaestus and the Net]] | incentive economy of exposure | [Quotes](#passages) |
+| `homer-1919-odyssey-murray-q007` | `homer-1919-odyssey-murray` | *Odyssey* 8.334–42 | wording-verified-web; Perseus reread pending | `22-s2-p3-ares-aphrodite-harmonia`; `40-s5-p3-preference-hidden-zero` | [Hephaestus and the Net](../../../../../../section-rooms/arguments/07-hephaestus-and-the-net.md) | incentive economy of exposure | [Quotes](#passages) |
 
-| `homer-1919-odyssey-murray-q008` | `homer-1919-odyssey-murray` | *Odyssey* 8.344–58, 359–66 | wording-verified-web; Perseus reread pending | `22-s2-p3-ares-aphrodite-harmonia`; `40-s5-p3-preference-hidden-zero`; `46-s50-p3-4-2-mono-poly` | [[Trust, Faith, and the Formal Limit]] | the surety closure (ἐγγύη) | [Quotes](#passages) |
+| `homer-1919-odyssey-murray-q008` | `homer-1919-odyssey-murray` | *Odyssey* 8.344–58, 359–66 | wording-verified-web; Perseus reread pending | `22-s2-p3-ares-aphrodite-harmonia`; `40-s5-p3-preference-hidden-zero`; `46-s50-p3-4-2-mono-poly` | [[symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit|Trust, Faith, and the Formal Limit]] | the surety closure (ἐγγύη) | [Quotes](#passages) |

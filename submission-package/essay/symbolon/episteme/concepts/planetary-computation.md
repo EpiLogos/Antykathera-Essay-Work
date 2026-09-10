@@ -3,6 +3,7 @@ title: "Planetary Computation"
 aliases:
   - "planetary computation"
   - "philosophy of planetary computation"
+source_id: planetary-computation
 node_type: "concept"
 register: episteme
 page_type: "concept"
@@ -28,7 +29,7 @@ analogia:
 
 ## In the brief
 
-"Antikythera is focused on planetary computation and the evolution of intelligence. It supports interdisciplinary fundamental research on behalf of a renewed philosophy of technology" ([[Antikythera Agentworld Brief#Source PDF page 3|p. 3]]). The Agentworld special issue is framed as a contribution "to its development as a reorientation of planetary computation" ([[Antikythera Agentworld Brief#Source PDF page 58|p. 58]]), and the About page states the program's self-understanding: "a research program focused on the reorientation of planetary computation as a philosophical, technological, and geopolitical force," named for the antikythera mechanism, "the first known computer — which was also an astronomical instrument used for navigation, prediction, and planning" ([[Antikythera Agentworld Brief#Source PDF page 59|p. 59]]). The journal it addresses is "dedicated to developing a new interdisciplinary school of thought with which to engage … the conjunction and co-evolution of computational technologies, biological and non-biological life and the many scales of intelligence that are manifest in both," and the school "aspires to repair the rifts between the Sciences and the Humanities": "the philosophy fit for the 21st century will emerge from direct engagement with scientific and technological questions, and vice versa" ([[Antikythera Agentworld Brief#Source PDF page 59|p. 59]]). Agentworld inserts itself into this field at planetary register: "agentic machine intelligence is now a co-pilot of the Anthropocene and whatever comes next" ([[Antikythera Agentworld Brief#Source PDF page 4|p. 4]]).
+"Antikythera is focused on planetary computation and the evolution of intelligence. It supports interdisciplinary fundamental research on behalf of a renewed philosophy of technology" ([[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE#Source PDF page 3|p. 3]]). The Agentworld special issue is framed as a contribution "to its development as a reorientation of planetary computation" ([[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE#Source PDF page 58|p. 58]]), and the About page states the program's self-understanding: "a research program focused on the reorientation of planetary computation as a philosophical, technological, and geopolitical force," named for the antikythera mechanism, "the first known computer — which was also an astronomical instrument used for navigation, prediction, and planning" ([[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE#Source PDF page 59|p. 59]]). The journal it addresses is "dedicated to developing a new interdisciplinary school of thought with which to engage … the conjunction and co-evolution of computational technologies, biological and non-biological life and the many scales of intelligence that are manifest in both," and the school "aspires to repair the rifts between the Sciences and the Humanities": "the philosophy fit for the 21st century will emerge from direct engagement with scientific and technological questions, and vice versa" ([[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE#Source PDF page 59|p. 59]]). Agentworld inserts itself into this field at planetary register: "agentic machine intelligence is now a co-pilot of the Anthropocene and whatever comes next" ([[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE#Source PDF page 4|p. 4]]).
 
 ## In the argument
 
@@ -36,9 +37,9 @@ It is the venue frame *The Return of Zero* enters and reorients. The essay opens
 
 ## Sources
 
-- [[Antikythera Agentworld Brief#Source PDF page 3|Agentworld Brief, p. 3]] — the field statement and "renewed philosophy of technology."
-- [[Antikythera Agentworld Brief#Source PDF page 59|Agentworld Brief, p. 59]] — the About statements: journal, school of thought, and the antikythera-mechanism naming.
-- [[working/antykathera-resources/antykathera-site-copy|Agentworld site copy]] — the *Journal for the Philosophy of Planetary Computation* and its Agentworld special issue.
+- [[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE#Source PDF page 3|Agentworld Brief, p. 3]] — the field statement and "renewed philosophy of technology."
+- [[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE#Source PDF page 59|Agentworld Brief, p. 59]] — the About statements: journal, school of thought, and the antikythera-mechanism naming.
+- [Agentworld site copy](../sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE.md) — the *Journal for the Philosophy of Planetary Computation* and its Agentworld special issue.
 - [[11-mono-poly-whole-and-many|Mono-Poly Planetary Intelligence]] — the contrasting, essay-internal term.
 
-Related: [[Agentworld]] · [[11-mono-poly-whole-and-many|Mono-Poly Planetary Intelligence]] · [[Artificial Hybrid Intelligence as Reflective Field]]
+Related: [[Agentworld]] · [[11-mono-poly-whole-and-many|Mono-Poly Planetary Intelligence]] · [[symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence as Reflective Field]]

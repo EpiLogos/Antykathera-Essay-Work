@@ -40,7 +40,7 @@ passage_surface: "#passages"
 
 Frank G. Taylor supplied this authorial etymological synthesis on 2 August 2026 while preparing the Taoist quilting layer. Its governing proposition is that encounter is prior to naming and counting: the *with* is given first, while name and number are differentiating operations within that prior facing. The convergent histories of *com-/con-/contra*, region and *Gegend*, count and countenance, Greek gathering, Sanskrit enumeration, and Chinese facing-region language give the proposition a multilingual historical body.
 
-This record preserves the derivation as internal authorship. Public lexical and textual claims resolve to the relevant dictionaries, primary texts, and scholarly source houses. The QL application resolves to [[Taylor — Core Theorems Pithy (2026)]] and the live argument nodes; it does not require an external tradition to authorise it.
+This record preserves the derivation as internal authorship. Public lexical and textual claims resolve to the relevant dictionaries, primary texts, and scholarly source houses. The QL application resolves to [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems Pithy (2026)]] and the live argument nodes; it does not require an external tradition to authorise it.
 
 ## Authorial derivation
 
@@ -48,7 +48,7 @@ The word-field unfolds one movement. *Com-* gives being-with; *contra* gives the
 
 Region carries the same fork. *Regio* belongs to drawing straight, directing, and ruling: the domain as a line made authoritative. *Gegend* belongs to counter-position and encounter: the expanse in which something can face and be faced. Heidegger's *Gegnet* reactivates the second constitution as the open that regions, gathers, abides, and lets things rest in their own appearing. The QL distinction is exact: the field precedes the sovereign line drawn within it; rule is one determination of region, not region's source.
 
-Countenance joins the field to personhood. It names self-holding as appearance before another: not an interior substance subsequently displayed, but a bearing whose form arises in encounter. Face, presence, mask, person, image, counter-image, and echo all belong to this return circuit. [[Bimba-Pratibimba]] gives the QL mirror structure: a mark displays its source in another orientation without becoming a second self-grounding thing.
+Countenance joins the field to personhood. It names self-holding as appearance before another: not an interior substance subsequently displayed, but a bearing whose form arises in encounter. Face, presence, mask, person, image, counter-image, and echo all belong to this return circuit. [[symbolon/episteme/concepts/bimba-pratibimba|Bimba-Pratibimba]] gives the QL mirror structure: a mark displays its source in another orientation without becoming a second self-grounding thing.
 
 Counting then appears as differentiated action rather than neutral enumeration. Its histories carry fitting, straightening, pruning, telling, gathering, and declaring-together. The operations belong to the QL unit because the unit itself counts by relating a distinction to its own two readings: `2 + 2² = 4+2`. Number is the relation becoming accountable to itself.
 
@@ -70,15 +70,15 @@ The Möbius turn is native to the field: `#5` gathering and recounting is the in
 
 ## Source braid
 
-- [[Taylor — Core Theorems Pithy (2026)]] supplies the native QL unit, six determinations, `2 + 2² = 4+2`, and the count's `5→0` return.
-- [[Chang Chung-yuan — Tao: A New Way of Thinking (2014)]] carries the Taoist encounter: the lived self-identity of opposites before intellectual unification, Tao as indistinct yet form-bearing, and region as open creativity.
-- [[Heidegger — Discourse on Thinking (Anderson & Freund, 1966)]] supplies the calculative/meditative distinction and the calculative's failure to collect itself. Its companion country-path conversation is the source task for *Gegnet* itself.
-- [[Heidegger — Early Greek Thinking (Krell & Capuzzi, 1975)]] carries *legein* as the laying that gathers and gives the Logos side of counting-as-recounting a declared source route.
-- [[Sym-Ballein]], [[The Two Ones — Mono–Poly Matheme]], [[The Slash (AND/OR)]], and [[Computational Process Ontology]] carry the live QL argument to which the histories return.
+- [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems Pithy (2026)]] supplies the native QL unit, six determinations, `2 + 2² = 4+2`, and the count's `5→0` return.
+- [[symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE|Chang Chung-yuan — Tao: A New Way of Thinking (2014)]] carries the Taoist encounter: the lived self-identity of opposites before intellectual unification, Tao as indistinct yet form-bearing, and region as open creativity.
+- [[symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1966-discourse-on-thinking/SOURCE|Heidegger — Discourse on Thinking (Anderson & Freund, 1966)]] supplies the calculative/meditative distinction and the calculative's failure to collect itself. Its companion country-path conversation is the source task for *Gegnet* itself.
+- [[symbolon/episteme/sources/phenomenology-continental-philosophy/heidegger/heidegger-1975-early-greek-thinking/SOURCE|Heidegger — Early Greek Thinking (Krell & Capuzzi, 1975)]] carries *legein* as the laying that gathers and gives the Logos side of counting-as-recounting a declared source route.
+- [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]], [[symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All|The Two Ones — Mono–Poly Matheme]], [[symbolon/episteme/concepts/the-slash|The Slash (AND/OR)]], and [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] carry the live QL argument to which the histories return.
 
 ## Essay use
 
-The complete learning surface is [[Encounter, Region, Countenance, and Count — The With-Field Becomes an Account]]. Use it when the essay needs the history of encounter becoming opposition, domain, name, count, and account. The source establishes the authorial synthesis; the etymological history distinguishes lexical descent, semantic field, graphic history, and QL operation without diminishing any of them into a weaker kind of claim.
+The complete learning surface is [[symbolon/episteme/etymologies/encounter-region-name-count/HISTORY|Encounter, Region, Countenance, and Count — The With-Field Becomes an Account]]. Use it when the essay needs the history of encounter becoming opposition, domain, name, count, and account. The source establishes the authorial synthesis; the etymological history distinguishes lexical descent, semantic field, graphic history, and QL operation without diminishing any of them into a weaker kind of claim.
 
 <a id="passages"></a>
 ## Passages and excerpts

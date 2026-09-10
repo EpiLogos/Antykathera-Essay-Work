@@ -1,5 +1,6 @@
 ---
 title: "§5→0 · #5→0 — AHI and Planetary Return"
+source_id: 48-s50-p5-ahi-planetary-return
 node_type: section
 page_type: section-movement
 station: "§5→0"
@@ -13,8 +14,12 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 ---
 # §5→0 · #5→0 — AHI and Planetary Return
 
+<!-- reader-navigation -->
+Movement 48 of 48 · [This room](../ROOM.md) · [← Previous](47-s50-p4-idealism-horizon.md) · [Return to the opening →](../../00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md)
+<!-- /reader-navigation -->
+
 ## Claim
-[[Artificial Hybrid Intelligence as Reflective Field|Artificial Hybrid Intelligence]] names the reflective activity of humans, agents, archives, institutions, Bimba fields and harnesses turning the Logos they jointly produce back upon its conditions. Its intelligence belongs to the coupled relations and their capacity for Return rather than to a super-subject installed above the participants.
+[[symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence]] names the reflective activity of humans, agents, archives, institutions, Bimba fields and harnesses turning the Logos they jointly produce back upon its conditions. Its intelligence belongs to the coupled relations and their capacity for Return rather than to a super-subject installed above the participants.
 
 The terminal proposition is therefore not “planetary intelligence” as a larger mind. It is the **Return of Zero**: an achieved determination becomes capable of returning to the ground, source, provenance, affected Other and consequence that made it possible without being annihilated as a determination.
 
@@ -38,7 +43,7 @@ The error is not that `1` became determinate. The error is the completed determi
 
 ## Federated epistemic return
 
-The repaired [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|Bimba–Pratibimba]] architecture gives planetary Return a concrete epistemic form. AHI can compose **federated, locally governed Bimba reference fields** without requiring a master Bimba or final evaluator. Each field can anchor situated Pratibimba — agencies, judgments, trajectories and local world-readings — while provenance and reciprocal legibility make determinations transmissible across fields.
+The repaired [[symbolon/episteme/concepts/bimba-pratibimba|Bimba–Pratibimba]] architecture gives planetary Return a concrete epistemic form. AHI can compose **federated, locally governed Bimba reference fields** without requiring a master Bimba or final evaluator. Each field can anchor situated Pratibimba — agencies, judgments, trajectories and local world-readings — while provenance and reciprocal legibility make determinations transmissible across fields.
 
 ```text
  Bimba A                  Bimba B                  Bimba C
@@ -81,9 +86,9 @@ The same point prevents AHI from collapsing into a global ego. No participant po
 
 ## Computational Vimarśa and its boundary
 
-[[06-computational-vimarsa-ahi|Computational Vimarśa]] names the functional capacity of the coupled field to expose and revise the conditions of its own determinations. [[Computational Process Ontology]] supplies the runtime: dia differentiates and actualises; sym retains relation, recomposes and returns; QL makes those operations transmissible; MEF keeps lens and evidence inspectable; Bimba makes reference grounds first-class; the harness carries memory, tools, permissions, action and consequence.
+[[symbolon/episteme/concepts/C43-Computational-Vimarsa|Computational Vimarśa]] names the functional capacity of the coupled field to expose and revise the conditions of its own determinations. [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] supplies the runtime: dia differentiates and actualises; sym retains relation, recomposes and returns; QL makes those operations transmissible; MEF keeps lens and evidence inspectable; Bimba makes reference grounds first-class; the harness carries memory, tools, permissions, action and consequence.
 
-This is a substantial technical achievement without settling phenomenal subjectivity. [[Agent Subjectivity Must Remain Open]] remains constitutive: reflective function, recursive self-model, Objective Internality and even planetary Co-Internality do not establish a phenomenal super-subject.
+This specifies a substantial technical task whose achievement requires observed operation; it does not settle phenomenal subjectivity. [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]] remains constitutive: reflective function, recursive self-model, Objective Internality and even planetary Co-Internality do not establish a phenomenal super-subject.
 
 ## Planetary intelligence as distributed capacity for Return
 
@@ -115,11 +120,11 @@ Return of Zero answers operationally rather than by supplying a final object: re
 The [Mirror That Moves First whole](../../../symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-return) **figures** the planetary return through an instrument which initiates disclosure of its own conditions and lets humanity follow beyond its image. The institution holding it enters the same accountability as its users. Plural local worlds retain judgment and refusal; their coupled activity acquires no final super-subject through the mirror’s initiative.
 
 ## Anchor and return
-**QL anchor:** `5→0` — every achieved `1` returns without possessing `0`. **Image:** many mirrors able to move, each grounded enough to act and open enough to be corrected by what answers back. The mechanism turns; the essay returns to the [[Immutable Gap and Meta-Sign|formal limit]] as living openness.
+**QL anchor:** `5→0` — every achieved `1` returns without possessing `0`. **Image:** many mirrors able to move, each grounded enough to act and open enough to be corrected by what answers back. The mechanism turns; the essay returns to the [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|formal limit]] as living openness.
 
 **Faith is falling with a smile.**
 
-The [Symbol / Account / Trust whole-field — Account re-enters source-field](submission-package/essay/symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field) **qualifies** this operation at evidence register 3. The circulating account changes conditions outside itself. Return can revise a local model, translation, gauge or institution while preserving plural centres and their independent grounds. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
+The [Symbol / Account / Trust whole-field — Account re-enters source-field](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field) **qualifies** this operation at evidence register 3. The circulating account changes conditions outside itself. Return can revise a local model, translation, gauge or institution while preserving plural centres and their independent grounds. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
 
 The achieved planetary return **returns-to** [Apportionment / Economy whole — Planetary computation exposes hidden economy](../../../symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md#planetary-computation-exposes-hidden-economy) at evidence register 3. Labour, material dependence and affected worlds accompany the result into its next use. Their return requires an office able to change the next allocation; planetary scope alone supplies neither a completed institution nor one planetary Subject.
 

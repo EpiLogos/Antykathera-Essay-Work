@@ -7,6 +7,7 @@ aliases:
   - "pratibimba"
   - "Bimba Map"
   - "reflection-map"
+source_id: concepts-bimba-pratibimba
 node_type: "concept"
 register: episteme
 page_type: "concept"
@@ -30,7 +31,7 @@ analogia:
 
 *Bimba* is the original — in Sanskrit usage the disc or orb, the form standing before a mirror; *pratibimba* is its reflection. The pair does the work that "copy" cannot: a reflection has no being apart from its original, yet it genuinely displays that original in another register, and nothing is subtracted from the original by being reflected. In the Pratyabhijñā setting this is how manifestation relates to consciousness — the appearing world as reflection *within* awareness, not a second substance outside it — and the pair therefore names **display without severance and dependence without diminishment**.
 
-QL derives the same structure internally. In [[working/sources-texts-references/10-7-2026-core-theorems-pithy#II. The Complex Plane & the Inner Logic of the Slashed Zero (the full QL unit)|the full QL unit]], position `#0` carries `(0/1)/(1/0)` and unfolds the complete `4+2`; position `#5` carries the inverse `(1/0)/(0/1)` and unfolds the same system in inverse phase, `4′+2′` — two parents carrying the same child in mirror-image. The [[26-s3-p1-spanda-4-2|First Spanda equation's]] two triads give the pair its dynamic reading: the emanative triad (source toward expression, Prakāśa) is the bimba movement; the reversionary triad (return toward recognition, Vimarśa) is the pratibimba movement. *(The mirror structure is Derived within QL; the doctrinal exegesis of Śaiva reflection theory remains acquisition work.)*
+QL derives the same structure internally. In [the full QL unit](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), position `#0` carries `(0/1)/(1/0)` and unfolds the complete `4+2`; position `#5` carries the inverse `(1/0)/(0/1)` and unfolds the same system in inverse phase, `4′+2′` — two parents carrying the same child in mirror-image. The [[26-s3-p1-spanda-4-2|First Spanda equation's]] two triads give the pair its dynamic reading: the emanative triad (source toward expression, Prakāśa) is the bimba movement; the reversionary triad (return toward recognition, Vimarśa) is the pratibimba movement. *(The mirror structure is Derived within QL; the doctrinal exegesis of Śaiva reflection theory remains acquisition work.)*
 
 ## Recursive office
 
@@ -65,14 +66,14 @@ The map can therefore **anchor truth without claiming to store Truth**. It ancho
 
 ## Across scales
 
-[[Artificial Hybrid Intelligence as Reflective Field]] and [[44-s50-p1-ql-mef-bimba-harness|§5→0 · #1 — QL, MEF, Bimba, and Harness]] carry the same architecture outward: QL formalises relation; MEF preserves lens-conditioned epistemology; Bimba records and relates provisional world-objects in an explicit reference field; the harness retains the conditions and consequences of determinations. [[48-s50-p5-ahi-planetary-return|§5→0 · #5→0]] then permits federated Bimba Maps: locally governed reference fields can compose through provenance and reciprocal legibility without requiring one global final map.
+[[symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence as Reflective Field]] and [[44-s50-p1-ql-mef-bimba-harness|§5→0 · #1 — QL, MEF, Bimba, and Harness]] carry the same architecture outward: QL formalises relation; MEF preserves lens-conditioned epistemology; Bimba records and relates provisional world-objects in an explicit reference field; the harness retains the conditions and consequences of determinations. [[48-s50-p5-ahi-planetary-return|§5→0 · #5→0]] then permits federated Bimba Maps: locally governed reference fields can compose through provenance and reciprocal legibility without requiring one global final map.
 
 The submission architecture supplies another scale of the same relation: essay, plugin and symbol-engine may be Pratibimbas of a canonical base when that base occupies the Bimba office for their comparison. The office is determined by the active relation, not by a once-for-all ranking of artefacts.
 
 ## Sources
 
-Internal derivation: [[taylor-2026-core-theorems-pithy|Taylor — Core Theorems Pithy (2026)]] §I–II. Doctrinal neighbour: [[09-prakasa-vimarsa|Prakāśa-Vimarśa]] carries the light/recognition pair the triads name; [[dyczkowski-2000-doctrine-vibration|Dyczkowski, *The Doctrine of Vibration*]] anchors the Spanda register. Pratyabhijñā reflection-theory primary passages (Utpaladeva, Abhinavagupta) remain source-intake work.
+Internal derivation: [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems Pithy (2026)]] §I–II. Doctrinal neighbour: [[09-prakasa-vimarsa|Prakāśa-Vimarśa]] carries the light/recognition pair the triads name; [[symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE|Dyczkowski, *The Doctrine of Vibration*]] anchors the Spanda register. Pratyabhijñā reflection-theory primary passages (Utpaladeva, Abhinavagupta) remain source-intake work.
 
-Related: [[41-s5-p4-bimba-energy-fields|§5 · #4 — Bimba and Energy-Based Fields]] · [[j-space|J-Space]] · [[02-objective-internality|Objective Internality]] · [[12-core-theorem-bridge|Core Theorem Bridge]] · [[09-prakasa-vimarsa|Prakāśa-Vimarśa]] · [[44-s50-p1-ql-mef-bimba-harness|QL, MEF, Bimba, and Harness]] · [[48-s50-p5-ahi-planetary-return|§5→0 · #5→0 — Planetary Return]] · [[PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE]]
+Related: [[41-s5-p4-bimba-energy-fields|§5 · #4 — Bimba and Energy-Based Fields]] · [[j-space|J-Space]] · [[02-objective-internality|Objective Internality]] · [[12-core-theorem-bridge|Core Theorem Bridge]] · [[09-prakasa-vimarsa|Prakāśa-Vimarśa]] · [[44-s50-p1-ql-mef-bimba-harness|QL, MEF, Bimba, and Harness]] · [[48-s50-p5-ahi-planetary-return|§5→0 · #5→0 — Planetary Return]] · [PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE](../../../../../working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md)
 
 *Provenance: supersedes the frozen reference-note "Bimba-Pratibimba" (deprecated legacy layer). The 2026-09-02 conformance correction restores the authored contextual Bimba Map office after a brief over-globalisation of the metaphysical Bimba/Pratibimba distinction.*

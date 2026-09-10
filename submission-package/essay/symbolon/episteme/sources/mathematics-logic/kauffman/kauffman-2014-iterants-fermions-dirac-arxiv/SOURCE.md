@@ -77,7 +77,7 @@ Exact text and consumer mappings: [Quotes — Kauffman Iterants (arXiv v2, 2014)
 - **Source relation:** extracted.
 - **Evidential action:** supports.
 - **Argument function:** technical/formal warrant.
-- **Consumers:** [[27-s3-p2-mark-reentry-complex]]; [[Core Theorem Bridge]]; [[Paradox as Cross-Register Hinge]]; movement 27 iterant/shift formal neighbour.
+- **Consumers:** [[27-s3-p2-mark-reentry-complex]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]]; movement 27 iterant/shift formal neighbour.
 - **Use boundary:** establishes an iterant construction only; it does not establish QL, consciousness, memory, or a unique metaphysical interpretation of \(i\).
 
 <a id="kauffman-2014-iterants-fermions-dirac-arxiv-q002"></a>
@@ -91,12 +91,12 @@ Exact text and consumer mappings: [Quotes — Kauffman Iterants (arXiv v2, 2014)
 - **Source relation:** extracted.
 - **Evidential action:** qualifies.
 - **Argument function:** limitation.
-- **Consumers:** [[27-s3-p2-mark-reentry-complex]]; [[Core Theorem Bridge]]; [[Paradox as Cross-Register Hinge]]; movement 27 anti-uniqueness control.
+- **Consumers:** [[27-s3-p2-mark-reentry-complex]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]]; movement 27 anti-uniqueness control.
 - **Use boundary:** limits an iterant representation in Kauffman’s formal setting; it does not license a uniquely privileged ontology of alternation or time.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `kauffman-2014-iterants-fermions-dirac-arxiv-q001` | `kauffman-2014-iterants-fermions-dirac-arxiv` | v2 PDF p. 28, §6 | quotation-ready | `27-s3-p2-mark-reentry-complex` | [[Core Theorem Bridge]]; [[Paradox as Cross-Register Hinge]] | technical/formal warrant | [Quotes — Kauffman Iterants (arXiv v2, 2014)](#passages) |
+| `kauffman-2014-iterants-fermions-dirac-arxiv-q001` | `kauffman-2014-iterants-fermions-dirac-arxiv` | v2 PDF p. 28, §6 | quotation-ready | `27-s3-p2-mark-reentry-complex` | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | technical/formal warrant | [Quotes — Kauffman Iterants (arXiv v2, 2014)](#passages) |
 
-| `kauffman-2014-iterants-fermions-dirac-arxiv-q002` | `kauffman-2014-iterants-fermions-dirac-arxiv` | v2 PDF p. 27, end §5 | quotation-ready | `27-s3-p2-mark-reentry-complex` | [[Core Theorem Bridge]]; [[Paradox as Cross-Register Hinge]] | limitation | [Quotes — Kauffman Iterants (arXiv v2, 2014)](#passages) |
+| `kauffman-2014-iterants-fermions-dirac-arxiv-q002` | `kauffman-2014-iterants-fermions-dirac-arxiv` | v2 PDF p. 27, end §5 | quotation-ready | `27-s3-p2-mark-reentry-complex` | [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md); [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | limitation | [Quotes — Kauffman Iterants (arXiv v2, 2014)](#passages) |

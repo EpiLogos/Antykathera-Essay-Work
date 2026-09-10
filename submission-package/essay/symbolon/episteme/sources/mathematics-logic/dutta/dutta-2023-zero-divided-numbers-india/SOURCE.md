@@ -42,6 +42,8 @@ main_source_for:
 ---
 # Dutta — Zero-Divided Numbers in Indian Mathematics (2023)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Chicago 18 forms
 
 **Full note:** Amartya Kumar Dutta, “Mathematics in India, Part 7: Zero-Divided Numbers in Indian Mathematics,” *Bhāvanā* 7, no. 3 (July 2023), https://bhavana.org.in/mathematics-in-india-7/.

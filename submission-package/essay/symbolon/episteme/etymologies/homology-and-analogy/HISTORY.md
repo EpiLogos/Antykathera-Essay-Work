@@ -1,5 +1,6 @@
 ---
 title: "Homologia, Analogia, and the Discipline of Comparison"
+source_id: homology-and-analogy-history
 page_type: etymological-cluster
 ownership: protected-learning-surface
 status: living

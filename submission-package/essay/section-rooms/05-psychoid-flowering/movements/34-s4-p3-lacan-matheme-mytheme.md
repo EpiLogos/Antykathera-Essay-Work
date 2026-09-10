@@ -1,5 +1,6 @@
 ---
 title: "§4 · #3 — Lacan, Matheme, and Mytheme"
+source_id: 34-s4-p3-lacan-matheme-mytheme
 node_type: section
 page_type: section-movement
 station: "§4"
@@ -11,6 +12,10 @@ source_ids: [darmon-1992-matheme-ali, lacan-2017-talking-to-brick-walls, adleman
 tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, station/s4, position/p3]
 ---
 # §4 · #3 — Lacan, Matheme, and Mytheme
+
+<!-- reader-navigation -->
+Movement 34 of 48 · [This room](../ROOM.md) · [← Previous](33-s4-p2-complexio-quaternity-senarius.md) · [Next →](35-s4-p4-gebser-apollo-dionysus.md)
+<!-- /reader-navigation -->
 
 ## Claim
 The matheme transmits an invariant relation; the mytheme lets that relation be lived and transformed; the barred subject prevents either from closing over its own condition.

@@ -9,47 +9,41 @@ status: T09-canonical-field-current
 
 # Episteme
 
-## Programme correction — 2026-09-08
+**Where you are:** [Reading root](../../README.md) › [#1 Symbolon](../README.md) › `#4` Episteme
 
-T21/#22 operates from/via the mature Etymology whole-fields: generated relations → historical/lexical branches → developed knowledge carriers → exact A/C/Movement consumers → return. The Ought-Be Etymology Architecture, Tree Seams, A/C/E reciprocity and Relational Form Growth programmes govern this work, including #39’s transferred etymology/aphorism/section-relation obligations and the complete recovered-reference-note census. History and atlas organisation serve that development. Derive sixfold semantics locally from the raw chassis; the generic six-office gloss below is superseded. See the [original programme handoff](../../../../.wayfinder/maps/p2-enrichment-handoff.md) and its corrected implementation map.
+Episteme carries the forms in which knowledge stands: canonical Arguments and Concepts, sources, histories, Etymology whole-fields, interpretive lenses, maps, comparative dossiers, evidential figures and dialogue records. It makes attribution, inheritance, disagreement and public warrant legible at the point where they bear the essay. In the Vāk layering of the registers this is **vaikharī**: the inspected, documented utterance.
 
-## Ratified architecture — 2026-09-08
+This register preserves the difference between the essay's position and what a source can establish. A claim can remain Derived or Argued while its citation work is incomplete; the record states both conditions. Source relations — Extracted, Paraphrased, Argued from and Resonant with — name how a work enters the argument.
 
-Sources and etymologies remain essential canonical homes. Histories develop through `places-and-peoples/`, `traditions-and-disciplines/` and `encounters-and-transmissions/`; dossiers gather sustained questions across sources; a linked `atlas/` opens the field through geography, time, people, language and transmission. Existing Arguments, Concepts, conjugates, lenses, maps, figures and dialogues retain their offices. The atlas connects situated knowledge with Mytheme's whole stories and constellations; source houses retain evidence authority and declared argument maps retain dependency/traversal authority.
+## The canonical semantic field
 
-This architecture is ratified and the ten history bodies now occupy their single canonical homes under the three history divisions. Their protected prose is retained; developed companions carry the T21 enrichment and reciprocal E-field returns. The [migration preservation proof](../../../../working/p2-enrichment/receipts/T22-current-migration-preservation-proof.md) records the sixteen history checks, including the six E histories. Derive the local sixfold from the actual epistemic operation; existing source schemas and protected learning forms remain intact. Material can be admitted for a real research question before an essay consumer is known. Read the [binding plan amendment](../../../../the-return-of-zero-central-plan.md#amendment-2026-09-08--mytheme-and-episteme-as-open-world-registers) and [execution map](../../../../.wayfinder/maps/t20-t21-world-registers.md).
-
-Episteme carries the forms in which knowledge stands: canonical Arguments and Concepts, sources, histories, Etymology whole-fields, interpretive lenses, maps, comparative dossiers, evidential figures and dialogue records. It makes attribution, inheritance, disagreement and public warrant legible at the point where they bear the essay.
-
-This register preserves the difference between the essay's position and what a source can establish. A claim can remain Derived or Argued while its citation work is incomplete; the record states both conditions. Source relations—Extracted, Paraphrased, Argued from and Resonant with—name how a work enters the argument.
-
-## T09 canonical non-section field
-
-- [Arguments A01–A36](arguments/README.md) — canonical semantic Argument identities. Historical Argument `01–21` carriers remain provenance and global Movement `01–48` remains the sovereign traversal numbering.
-- [Concepts C01–C64](concepts/CANONICAL-INDEX.md) — canonical reusable semantic distinctions. Older Concept pages/reference notes remain provenance/support according to the T09 disposition ledger.
+- [Arguments A01–A36](arguments/README.md) — the canonical semantic Argument identities. Historical Argument `01–21` carriers remain provenance on the [rooms' argument shelf](../../section-rooms/README.md#the-argument-shelf), and global Movement `01–48` remains the sovereign traversal numbering.
+- [Conjugate arguments A01′–A36′](conjugate/README.md) — the technological face of each Argument, with the dual-form root `A/C`.
+- [Concepts C01–C64](concepts/CANONICAL-INDEX.md) — the canonical reusable semantic distinctions; the [concept register](concepts/README.md) also keeps the developed pre-T09 pages and the recovered reference shelf as provenance.
 - [A ↔ C ↔ E Reciprocity](etymologies/T09-A-C-E-RECIPROCITY-INDEX.md) — six mature Etymology whole-fields routed by exact consumed operation and evidence register.
 - [Relational Form Growth](etymologies/RELATIONAL-FORM-GROWTH.md) — `N / N′ → N+N′` relational generation kept distinct from `N → N×N` distributive recursion.
 
-The complete migration/disposition authority for this wave is `working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md`.
+## The other domains
 
-## Other domains
-
-- [Sources](sources/README.md) — canonical work houses organised by epistemic domain, author and stable source identity.
-- [Histories](histories/README.md) — developed accounts of how concepts, practices and problems change through time.
+- [Sources](sources/README.md) — canonical work houses organised by epistemic domain, author and stable source identity; the [source index](sources/SOURCE-INDEX.md) lists every house with its readiness.
+- [Histories](histories/README.md) — developed accounts of how concepts, practices and problems change through time, organised as places and peoples, traditions and disciplines, and encounters and transmissions.
 - [Etymologies](etymologies/README.md) — whole relational/lexical fields and word histories, with philological, attested-semantic, operational-homology and poetic/phonic registers kept distinct.
+- [Atlas](atlas/README.md) — historical routes through the Etymology fields, sharing situated identities with the [Mytheme atlas](../mytheme/atlas/README.md).
 - [Lenses](lenses/README.md) — MEF and other declared perspectives through which one object is read without collapsing the perspectives.
-- [Maps](maps/README.md) — essay, argument, concept and path structures built from declared canonical relations.
+- [Maps](maps/README.md) — essay, argument, concept and path structures built from declared canonical relations, the curated paths, and the generated [navigation layer](maps/navigation/MOC.md).
 - [Dossiers](dossiers/README.md) — sustained comparative treatments of one pressure across several sources or fields.
 - [Figures](figures/README.md) — timelines, tables, genealogies and evidential visualisations that make a warranted relation inspectable.
-- [Concept register](concepts/README.md) — controlled Concept definitions and preserved provenance surfaces.
+- [Aphorisms](aphorisms/investigation-and-faith.md) — the one admitted aphorism, *Investigation and Faith*, retained whole.
 - [Dialogues](dialogues/README.md) — records of the work's own formation through dialogue; provenance of thinking, never evidence on its own.
 
 ## Record form
 
-An Episteme record identifies its object, the knowledge operation it performs, its provenance, its exact consumers and its evidential boundary. Histories develop change rather than enumerate names. Maps expose declared dependencies rather than infer links from vocabulary. Dossiers preserve disagreement and difference among sources. Figures state the data or sources from which they are constructed.
+An Episteme record identifies its object, the knowledge operation it performs, its provenance, its exact consumers and its evidential boundary. Histories develop change rather than enumerate names. Maps expose declared dependencies rather than infer links from vocabulary. Dossiers preserve disagreement and difference among sources. Figures state the data or sources from which they are constructed. Developed pages derive their sixfold from the actual epistemic operation; existing source schemas and protected learning forms remain intact, and material can be admitted for a real research question before an essay consumer is known.
 
 ## Cross-register routes
 
 Formal derivations supported or tested by a knowledge record open into [Matheme](../matheme/README.md). Myths, poems and cultural scenes whose history is established here open into [Mytheme](../mytheme/README.md). Whole Mythemes remain whole relational carriers rather than being atomised merely to satisfy A/C links. The relation that returns instituted knowledge to its ground and limits returns to [Symbolon](../README.md).
 
-**Historical T09 stop boundary (T10–T19 now complete; T20–T21 governed above):** the field names Movement consumers but does not rewrite section rooms or Movement prose. T10–T14 are downstream.
+## Standing
+
+The Ought-Be Etymology Architecture, Tree Seams, A/C/E reciprocity and Relational Form Growth programmes govern development from and via the mature Etymology whole-fields: generated relations → historical/lexical branches → developed knowledge carriers → exact A/C/Movement consumers → return. History and atlas organisation serve that development. The ten history bodies occupy single canonical homes under the three history divisions, with protected prose retained and developed companions beside them; the [preservation proof](../../../../working/p2-enrichment/receipts/T22-current-migration-preservation-proof.md) records the sixteen history checks. Source houses retain evidence authority and declared argument maps retain dependency/traversal authority. The architecture is bound by the [central plan amendment of 2026-09-08](../../../../the-return-of-zero-central-plan.md#amendment-2026-09-08--mytheme-and-episteme-as-open-world-registers) and executed through the [T20–T21 world-register map](../../../../.wayfinder/maps/t20-t21-world-registers.md); the complete disposition authority for the T09 wave is `working/final-argument-quilt-2026-08-23/T09-CANONICAL-CROSSWALK-AND-DISPOSITION-LEDGER.md`. The field names Movement consumers; section rooms and Movement prose are written in their own register.

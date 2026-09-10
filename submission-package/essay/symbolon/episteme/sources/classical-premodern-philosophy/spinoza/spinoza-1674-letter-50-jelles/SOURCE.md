@@ -99,6 +99,6 @@ Exact text and consumer mappings: [Quotes — Spinoza Letter 50 (1674)](#passage
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `spinoza-1674-letter-50-jelles-q001` | `spinoza-1674-letter-50-jelles` | Letter 50; p. 275 | quotation-ready | `03-s01-p2-definition-cut-gift-danger` | [[Immutable Gap and Meta-Sign]] | conceptual distinction | [Quotes — Spinoza Letter 50 (1674)](#passages) |
+| `spinoza-1674-letter-50-jelles-q001` | `spinoza-1674-letter-50-jelles` | Letter 50; p. 275 | quotation-ready | `03-s01-p2-definition-cut-gift-danger` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | conceptual distinction | [Quotes — Spinoza Letter 50 (1674)](#passages) |
 
-| `spinoza-1674-letter-50-jelles-q002` | `spinoza-1674-letter-50-jelles` | Letter 50; p. 275 | quotation-ready | `03-s01-p2-definition-cut-gift-danger` | [[Immutable Gap and Meta-Sign]] | limitation | [Quotes — Spinoza Letter 50 (1674)](#passages) |
+| `spinoza-1674-letter-50-jelles-q002` | `spinoza-1674-letter-50-jelles` | Letter 50; p. 275 | quotation-ready | `03-s01-p2-definition-cut-gift-danger` | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | limitation | [Quotes — Spinoza Letter 50 (1674)](#passages) |

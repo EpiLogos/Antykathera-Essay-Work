@@ -1,5 +1,6 @@
 ---
 title: "Ancient Philosophy — Measure, Tension, and the Form of Relation"
+source_id: ancient-philosophy-history
 page_type: historical-register-route
 ownership: protected-learning-surface
 status: living

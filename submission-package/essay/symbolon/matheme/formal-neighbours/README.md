@@ -12,7 +12,7 @@ Formal Neighbours houses exact comparisons between QL and independent mathematic
 
 Each record begins from the external construction on its own terms. It then names the common operation, the difference in axioms or objects, and the limited consequence for the essay. Proximity never becomes historical identity or proof of QL.
 
-Source history and attribution live in [[submission-package/essay/symbolon/episteme/sources/README.md|Sources]] and [[submission-package/essay/symbolon/episteme/histories/README.md|Histories]].
+Source history and attribution live in [[symbolon/episteme/sources/README.md|Sources]] and [[symbolon/episteme/histories/README.md|Histories]].
 
 ## Records
 
@@ -34,4 +34,4 @@ Source history and attribution live in [[submission-package/essay/symbolon/epist
 - [∞/dx and calculus](calculus-infinity-dx.md)
 - [Chaos, bifurcation and strange attractors](chaos-attractors.md)
 
-Return to [[submission-package/essay/symbolon/matheme/README.md|Matheme]].
+Return to [[symbolon/matheme/README.md|Matheme]].

@@ -1,5 +1,7 @@
 ---
 title: "Antikythera — Agentworld Site Copy (2026)"
+aliases:
+  - "antykathera-site-copy"
 source_id: antikythera-2026-site-copy
 node_type: source-house
 ownership: canonical-source-house
@@ -40,7 +42,7 @@ tags:
 
 ## Bibliographic identity
 
-The live Agentworld landing page (https://agentworld.antikythera.org/), carrying the research-unit self-description and the call for papers for the Agentworld special issue of *Antikythera: Journal for the Philosophy of Planetary Computation* (MIT Press). Local capture at [[antykathera-site-copy]] (working/antykathera-resources/), taken from the official site; live-site spot-check 2026-08-10 confirmed the capture verbatim on the load-bearing passages (preemptive-anthropology definition, MIT Press journal identity, Fall 2026 launch, June 25 call window). Web source: no fixed edition; the accessed date and the live check are the stability record. Content overlaps the Agentworld Brief PDF ([[bratton-2026-agentworld-brief]]), which remains the primary venue house for argument-facing quotation; this house carries what the PDF does not — the journal identity, submission logistics, and the venue's public self-presentation.
+The live Agentworld landing page (https://agentworld.antikythera.org/), carrying the research-unit self-description and the call for papers for the Agentworld special issue of *Antikythera: Journal for the Philosophy of Planetary Computation* (MIT Press). Local capture at [[symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE|antykathera-site-copy]] (working/antykathera-resources/), taken from the official site; live-site spot-check 2026-08-10 confirmed the capture verbatim on the load-bearing passages (preemptive-anthropology definition, MIT Press journal identity, Fall 2026 launch, June 25 call window). Web source: no fixed edition; the accessed date and the live check are the stability record. Content overlaps the Agentworld Brief PDF ([[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|bratton-2026-agentworld-brief]]), which remains the primary venue house for argument-facing quotation; this house carries what the PDF does not — the journal identity, submission logistics, and the venue's public self-presentation.
 
 ## Chicago 18 forms
 
@@ -59,7 +61,7 @@ The venue's public register: Antikythera "is focused on planetary computation an
 
 ### Material metadata
 
-- **Object consulted:** live site, https://agentworld.antikythera.org/; local capture [[antykathera-site-copy]] (113 lines).
+- **Object consulted:** live site, https://agentworld.antikythera.org/; local capture [[symbolon/episteme/sources/media-technology-philosophy/antikythera/antikythera-2026-site-copy/SOURCE|antykathera-site-copy]] (113 lines).
 - **Access provenance:** official Antikythera Agentworld site; captured 2026-07-14 era (with the brief acquisition); live re-verified 2026-08-10 by Hermes-Nara (curl fetch, verbatim match on q001–q003 anchors).
 
 <a id="antikythera-2026-site-copy-q001"></a>

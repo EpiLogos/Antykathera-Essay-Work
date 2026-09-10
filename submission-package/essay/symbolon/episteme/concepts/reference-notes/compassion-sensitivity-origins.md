@@ -3,6 +3,7 @@ title: "Compassion as Sensitivity to Origins"
 aliases:
   - "Compassion as Sensitivity to Origins"
   - "loving sensitivity to origins"
+source_id: compassion-sensitivity-origins
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

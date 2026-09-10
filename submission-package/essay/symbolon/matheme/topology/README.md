@@ -12,7 +12,7 @@ Topology carries the spaces and transformations through which a return can prese
 
 A topology record states the mathematical object, the transformation performed, the invariant retained and the exact QL operation it refracts. Local return with global displacement, for example, requires a specified loop and covering relation; the image of a torus alone establishes nothing.
 
-Figures that perform the derivation live in [[submission-package/essay/symbolon/matheme/diagrams/README.md|Diagrams]]. Historical and scholarly sources live in [[submission-package/essay/symbolon/episteme/sources/README.md|Episteme sources]].
+Figures that perform the derivation live in [[symbolon/matheme/diagrams/README.md|Diagrams]]. Historical and scholarly sources live in [[symbolon/episteme/sources/README.md|Episteme sources]].
 
 ## Records
 
@@ -24,4 +24,4 @@ Figures that perform the derivation live in [[submission-package/essay/symbolon/
 - [Toroidal / poloidal confinement as bounded physical neighbour](toroidal-poloidal-confinement.md)
 - [Manifold atlas, charts and transition functions](manifold-atlas.md)
 
-Return to [[submission-package/essay/symbolon/matheme/README.md|Matheme]].
+Return to [[symbolon/matheme/README.md|Matheme]].

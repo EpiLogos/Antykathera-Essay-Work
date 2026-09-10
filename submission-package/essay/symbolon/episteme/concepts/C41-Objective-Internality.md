@@ -1,4 +1,5 @@
 ---
+record_id: C41
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from mature Objective Internality and Symbolon Dynamics; cognition and Saiva inner-instrument traditions remain source-distinct neighbours"

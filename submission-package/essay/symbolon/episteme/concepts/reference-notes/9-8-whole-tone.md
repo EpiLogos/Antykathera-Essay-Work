@@ -2,6 +2,7 @@
 title: "9-8 Whole Tone"
 aliases:
   - "9-8 Whole Tone"
+source_id: 9-8-whole-tone
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

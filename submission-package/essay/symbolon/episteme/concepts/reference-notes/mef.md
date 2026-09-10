@@ -2,6 +2,7 @@
 title: "MEF"
 aliases:
   - "MEF"
+source_id: mef
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

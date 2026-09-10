@@ -103,6 +103,6 @@ Exact text and consumer mappings: [Quotes — Wittgenstein Tractatus (1922)](#pa
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `wittgenstein-1922-tractatus-q001` | `wittgenstein-1922-tractatus` | prop. 4.1212; PDF p. 40 | quotation-ready | `06-s01-p5-return-zero` | [[Paradox as Cross-Register Hinge]] | formal-limit context | [Quotes — Wittgenstein Tractatus (1922)](#passages) |
+| `wittgenstein-1922-tractatus-q001` | `wittgenstein-1922-tractatus` | prop. 4.1212; PDF p. 40 | quotation-ready | `06-s01-p5-return-zero` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | formal-limit context | [Quotes — Wittgenstein Tractatus (1922)](#passages) |
 
-| `wittgenstein-1922-tractatus-q002` | `wittgenstein-1922-tractatus` | prop. 7; PDF p. 113 | quotation-ready | `06-s01-p5-return-zero` | [[Paradox as Cross-Register Hinge]] | limitation/transition | [Quotes — Wittgenstein Tractatus (1922)](#passages) |
+| `wittgenstein-1922-tractatus-q002` | `wittgenstein-1922-tractatus` | prop. 7; PDF p. 113 | quotation-ready | `06-s01-p5-return-zero` | [[symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field|Paradox as Cross-Register Hinge]] | limitation/transition | [Quotes — Wittgenstein Tractatus (1922)](#passages) |

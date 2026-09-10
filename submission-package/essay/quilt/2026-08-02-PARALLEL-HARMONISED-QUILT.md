@@ -6,6 +6,7 @@ status: parallel-review-draft-fully-harmonised-before-granular-propagation
 authority: working-ledger-only
 canonical_propagation: accepted-formal-surfaces-only
 planning_basis: v3.1
+source_id: 2026-08-02-parallel-harmonised-quilt
 tags:
   - epi-logos/antikythera-essay
   - harmonisation/parallel
@@ -96,8 +97,8 @@ The etymological enrichment was made on 3 August against the newer authorial and
 | Added surface | Current state |
 |---|---|
 | User-supplied encounter/region/count cluster | SHA-256 `89686b98ca2adc5400a350140f3835c9033a724c75ede54673877366d6d12aa4` |
-| [[Taylor — Encounter, Region, Name, and Count (2026)]] | Canonical internal source house; `internal-ready`; SHA-256 `2d17f0a1dbfe6f038f9eb3d395af44db572fb400de35e89c3a77529c0e74993f` |
-| [[Encounter, Region, Countenance, and Count — The With-Field Becomes an Account]] | Living protected learning surface; SHA-256 `9016a69d55822318e8c5cbc9bfceb59861b224047db3baeef194f9f4dbc581b1` |
+| [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-encounter-region-name-count/SOURCE|Taylor — Encounter, Region, Name, and Count (2026)]] | Canonical internal source house; `internal-ready`; SHA-256 `2d17f0a1dbfe6f038f9eb3d395af44db572fb400de35e89c3a77529c0e74993f` |
+| [[symbolon/episteme/etymologies/encounter-region-name-count/HISTORY|Encounter, Region, Countenance, and Count — The With-Field Becomes an Account]] | Living protected learning surface; SHA-256 `9016a69d55822318e8c5cbc9bfceb59861b224047db3baeef194f9f4dbc581b1` |
 | Etymological learning hub | Four active clusters: encounter/region/count; apportionment/oikonomia; homologia/analogia; symbol/account/trust |
 | Current OKF state | 885 artifacts; 119 source houses; 289 passages; 48 sections; 21 arguments; 22 concepts; 4 paths |
 
@@ -358,8 +359,8 @@ The tables compose quilt pressure at every live movement. “Direction” is a p
 | C10 | `session-20260801-ponere-ballein-positional-grammar` | quilt 4,162–4,321 |
 | C11 | `session-20260802-baudrillard-foucault-source-houses` | quilt 4,326–4,541 |
 | T | Chang/Tao protected encounter and current `SOURCE.md` | separate prospective layer; no quilt block in this snapshot |
-| F | [[Franki Taylor — Internal Corpus Argument Candidates]] | separate authorial layer; 50 candidates routed in §8 |
-| E | [[Taylor — Encounter, Region, Name, and Count (2026)]] plus the four living etymological clusters | separate 3 August symbola layer; authorial synthesis internally ready, public philology mixed |
+| F | [Franki Taylor — Internal Corpus Argument Candidates](../../../working/sources-texts-references/Franki%20Taylor%20%E2%80%94%20Internal%20Corpus%20Argument%20Candidates.md) | separate authorial layer; 50 candidates routed in §8 |
+| E | [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-encounter-region-name-count/SOURCE|Taylor — Encounter, Region, Name, and Count (2026)]] plus the four living etymological clusters | separate 3 August symbola layer; authorial synthesis internally ready, public philology mixed |
 | L | Frozen v1/v2 legacy | separate preservation pass; never governing |
 
 The station coverage lines below trace the append-only quilt. The Taylor layer is mapped in full in §8.3 so that fifty primary placements do not make those lines unreadable.
@@ -565,10 +566,10 @@ Four living histories now hold the principal word-fields without pretending to b
 
 | Living history | Root operation | Principal landings | What must recur |
 |---|---|---|---|
-| [[Encounter, Region, Countenance, and Count — The With-Field Becomes an Account]] | Encounter precedes the line that names, measures, rules or counts. | §0/1, §0, §2, §5, §5→0; arguments 03, 14, 19 and 21 | *com-/con-/contra-*; *regio/Gegend*; face/countenance; the six count-operations; 鄉/響/影響. |
-| [[Apportionment, Naming, Number, and Oikonomia]] | A whole becomes political through the way powers, shares, debts and returns are distributed. | §1, §2, §5, §5→0; arguments 06, 11, 18 and 21 | *meros*, *nomos*, *oikonomia*, commons, monopoly and return. |
-| [[Homologia, Analogia, and the Discipline of Comparison]] | Cross-register likeness is disciplined by naming the kind of relation being claimed. | Every formal-to-mythic, historical or technical crossing | Descent is not analogy; analogy is not identity; operational homology follows the QL derivation. |
-| [[Symbol, Account, and Trust — Marks That Circulate]] | A broken token, tally or record can carry an accountable relation only while return remains possible. | §1, §2, §5 and §5→0; arguments 03, 08, 18 and 20 | *symbolon*, count/account, credit, record, trust, troth and faith. |
+| [[symbolon/episteme/etymologies/encounter-region-name-count/HISTORY|Encounter, Region, Countenance, and Count — The With-Field Becomes an Account]] | Encounter precedes the line that names, measures, rules or counts. | §0/1, §0, §2, §5, §5→0; arguments 03, 14, 19 and 21 | *com-/con-/contra-*; *regio/Gegend*; face/countenance; the six count-operations; 鄉/響/影響. |
+| [[symbolon/episteme/etymologies/apportionment-and-economy/HISTORY|Apportionment, Naming, Number, and Oikonomia]] | A whole becomes political through the way powers, shares, debts and returns are distributed. | §1, §2, §5, §5→0; arguments 06, 11, 18 and 21 | *meros*, *nomos*, *oikonomia*, commons, monopoly and return. |
+| [[symbolon/episteme/etymologies/homology-and-analogy/HISTORY|Homologia, Analogia, and the Discipline of Comparison]] | Cross-register likeness is disciplined by naming the kind of relation being claimed. | Every formal-to-mythic, historical or technical crossing | Descent is not analogy; analogy is not identity; operational homology follows the QL derivation. |
+| [[symbolon/episteme/etymologies/symbol-account-and-trust/HISTORY|Symbol, Account, and Trust — Marks That Circulate]] | A broken token, tally or record can carry an accountable relation only while return remains possible. | §1, §2, §5 and §5→0; arguments 03, 08, 18 and 20 | *symbolon*, count/account, credit, record, trust, troth and faith. |
 
 Two central fields still lack a living history of equal standing. The first is **truth–shape–fitness**: *alētheia* as unconcealment; QL's explicit rendering of disclosure as “taking shape”; *harmoniē* and ratio as fitting; the Old English *hāl* family of whole, holy, heal and health; and the historically separate *hole* whose false-cognate pressure the torus makes exact. The second is the **forming and placing field**: *ponere*, *ballein*, *vikalpa/saṃkalpa*, *technē*, *poiēsis*, and the `per-/pre-/pro-forma` sequence. These should become living histories only after their distinct source ancestries and exact recurring offices have been accepted. Until then this quilt carries them as proposals and source debts, not as settled philology.
 
@@ -734,7 +735,7 @@ The six count-operations may then meet the Tao material without being forced ont
 
 ## 8. Taylor internal corpus layer
 
-[[Franki Taylor — Internal Corpus Argument Candidates]] is the authorial life-layer of this harmonisation. It contains fifty admitted candidates: twelve complete phone writings, twenty-three poems, and fifteen continuous paper excerpts. The four recorded title/result fragments remain outside the admitted set because they do not yet contain enough derivation to carry an argument.
+[Franki Taylor — Internal Corpus Argument Candidates](../../../working/sources-texts-references/Franki%20Taylor%20%E2%80%94%20Internal%20Corpus%20Argument%20Candidates.md) is the authorial life-layer of this harmonisation. It contains fifty admitted candidates: twelve complete phone writings, twenty-three poems, and fifteen continuous paper excerpts. The four recorded title/result fragments remain outside the admitted set because they do not yet contain enough derivation to carry an argument.
 
 ### 8.1 Authority and use
 
@@ -817,7 +818,7 @@ The distinction is productive. Tao prevents Epi-Logos from treating return as it
 
 ### 8.7 Taylor's etymological authorship
 
-The new [[Taylor — Encounter, Region, Name, and Count (2026)]] house establishes the internal-corpus side of this layer. It can directly support Taylor's proposition that encounter precedes naming and counting, his operational arrangement of the word-fields, and the QL relations he draws through them. It cannot by itself establish Latin, Greek, Germanic, Sanskrit or Chinese descent. That division of labour is enabling, not diminishing: the essay may speak its own thought boldly while each public historical claim receives its proper witness.
+The new [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-encounter-region-name-count/SOURCE|Taylor — Encounter, Region, Name, and Count (2026)]] house establishes the internal-corpus side of this layer. It can directly support Taylor's proposition that encounter precedes naming and counting, his operational arrangement of the word-fields, and the QL relations he draws through them. It cannot by itself establish Latin, Greek, Germanic, Sanskrit or Chinese descent. That division of labour is enabling, not diminishing: the essay may speak its own thought boldly while each public historical claim receives its proper witness.
 
 Several existing candidates now gain more exact offices. Candidate 42, perspective becoming context, belongs to the face/countenance and region field: a view becomes accountable when it shows the place from which it faces. Candidate 50, the fracture authenticates, belongs to *symbolon*: the join is credible because the seam remains visible. Candidate 41, truth-with-flowing and Truly-Becoming, can carry the shaping-up movement once *alētheia*'s historical boundary is explicit. Candidate 08 can join Motherhood to the *hāl* field as the embodied labour by which a life is kept whole through change. Candidate 36, integral stenography, becomes the authorial practice of recounting: the cut returns its source, context and transformation rather than appropriating them.
 

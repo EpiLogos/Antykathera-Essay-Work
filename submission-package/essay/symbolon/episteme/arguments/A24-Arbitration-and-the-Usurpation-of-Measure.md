@@ -9,13 +9,17 @@ source_relation: "Argued from ratified Etymology field and source-specific polit
 
 # A24 — Arbitration and the Usurpation of Measure
 
+<!-- paired-field-navigation -->
+[Argument field](README.md) · [Other face: A24′ — The Usurping Criterion](../conjugate/A24-prime-The-Usurping-Criterion.md) · [Shared A/C root](../conjugate/AC.md)
+<!-- /paired-field-navigation -->
+
 **Standing:** canonical semantic Argument. The whole Arbitration Etymology generates the relations consumed here; A24 develops their consequential office and return without replacing that field.
 
 ## #0
 
 Arbitration makes a finite decision where conditions do not decide themselves. [[A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account|A15]] grounds valid measure; [[A19-Complex-as-Local-Arbitration-Regime|A19]] shows a local psychic criterion; [[A23-Trust-Faith-and-the-Formal-Limit|A23]] grounds the trust under which an account is acted upon. Their common pressure is the decision's standing: a criterion must be real enough to act while remaining answerable to what its action concerns.
 
-The [[submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Arbitration whole field]] derives the full conjugate movement:
+The [[symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Arbitration whole field]] derives the full conjugate movement:
 
 | Operative face | Conjugate face | Generated relation | Flowering |
 |---|---|---|---|
@@ -32,11 +36,11 @@ The [[submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-
 
 A criterion distinguishes; a frame gives the distinction a situated edge. Before arbitration there are already admitted witnesses, relevant questions, exclusions, standards and histories of jurisdiction. The adjudicator does not enter an empty field and originate all these conditions by deciding. The lexical HISTORY remembers the arbiter's witnessing, perceiving, weighing and deciding offices; it does not make the deeper disputed derivation of arbiter a warrant for the formal argument.
 
-The philosophical cut becomes concrete when a score changes access, a judgment binds a party or a category determines the response a person receives. A measure can remain useful and repeatable while local. Its failure is the promotion of that locality into source authority: score becomes person, price becomes value, office becomes people, preference becomes the whole of what is wanted. [[submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty|C29 Mediating Office]] defines the derivative authority whose conditions disappear in this promotion.
+The philosophical cut becomes concrete when a score changes access, a judgment binds a party or a category determines the response a person receives. A measure can remain useful and repeatable while local. Its failure is the promotion of that locality into source authority: score becomes person, price becomes value, office becomes people, preference becomes the whole of what is wanted. [[symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty|C29 Mediating Office]] defines the derivative authority whose conditions disappear in this promotion.
 
 ## #2
 
-[[submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/mcgoohan-markstein/mcgoohan-markstein-1967-the-prisoner/SOURCE|The Prisoner’s source house]] sources the political Mytheme and its opening exchange. The unnamed resigning agent is abducted into the Village, numbered Six and subjected to surveillance, interrogation and staged social participation. Number Two is a changing administrator; Number One is the hidden authority whose identity Six demands. The answer to the inquiry about One fixes the inquirer as Six.
+[[symbolon/episteme/sources/media-technology-philosophy/mcgoohan-markstein/mcgoohan-markstein-1967-the-prisoner/SOURCE|The Prisoner’s source house]] sources the political Mytheme and its opening exchange. The unnamed resigning agent is abducted into the Village, numbered Six and subjected to surveillance, interrogation and staged social participation. Number Two is a changing administrator; Number One is the hidden authority whose identity Six demands. The answer to the inquiry about One fixes the inquirer as Six.
 
 The asymmetry is precise. Abstraction gives Number Two continuity across replaceable incumbents, while it fixes Number Six as an administrable identity despite the persistence of the living person. The office receives the freedom of impersonality; the captive receives compulsory legibility. Six's refusal contests the exhaustive classification, not number's capacity to carry real relation.
 
@@ -44,7 +48,7 @@ In the finale, Number One's masks disclose Six's own face, followed by escape an
 
 ## #3
 
-Usurpation occurs when a question about the criterion is answered by another result inside the criterion. Who assigned this weight, what did the comparison exclude, and whose authority binds the judgment? The governed person receives a score instead of an answer. The evaluator's denominator is absent from the account it demands of others. [[submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim|C27 Protected Account]] defines this insulation.
+Usurpation occurs when a question about the criterion is answered by another result inside the criterion. Who assigned this weight, what did the comparison exclude, and whose authority binds the judgment? The governed person receives a score instead of an answer. The evaluator's denominator is absent from the account it demands of others. [[symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim|C27 Protected Account]] defines this insulation.
 
 Q27's Work/Play inversion adds the accounting mechanism. Public work can become the visible performance while consequential decisions happen in a private field of play. Differentiating those spaces is not itself the failure. Capture occurs when their governing relation is kept off the books: the product circulates as evidence of the office's capacity while its conditions, costs and choices cannot return upon it. This is an authorial process diagnosis; specific political, clinical and institutional allegations in the developmental carrier require independent evidence.
 
@@ -54,7 +58,7 @@ The whole Job comparison developed in [[A20-Image-Valuation-Possession|A20]] sup
 
 **Con-text-through-Diaphaneity** permits regard: the judgment is looked at together with the persons, histories, exclusions and consequences through which it acts. A record of the evaluator's name is only a start. The affected person or excluded field must be able to challenge what the measure counts and how its criterion operates. The response can retain, revise, narrow or withdraw the earlier judgment.
 
-[[submission-package/essay/symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Agentworld]] compares intelligence embedded in roles, procedures and institutions. The essay's answerability requirement extends that field; appointing a human at its summit does not by itself expose the human's criterion. Verification must have contestable terms and plural sources of resistance. [[A31-Deferential-Intelligence|A31]] tests the evaluator's capacity for revision, and [[A33-Epistemic-Cultivation-Operational-Parity|A33]] tests whether that revision reaches actual operation. Neither test is discharged by a transparent-looking description.
+[[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Agentworld]] compares intelligence embedded in roles, procedures and institutions. The essay's answerability requirement extends that field; appointing a human at its summit does not by itself expose the human's criterion. Verification must have contestable terms and plural sources of resistance. [[A31-Deferential-Intelligence|A31]] tests the evaluator's capacity for revision, and [[A33-Epistemic-Cultivation-Operational-Parity|A33]] tests whether that revision reaches actual operation. Neither test is discharged by a transparent-looking description.
 
 ## #5→0
 
@@ -73,7 +77,7 @@ Taylor’s [black sun and radiating star](../../mytheme/worlds/frank-taylor/tayl
 
 [E3’s credere renewed entrustment](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#credere-renewed-entrustment) returns the arbitration argument to the reliance that precedes its measure. Fides makes commissioning possible; Nomos institutes a deciding office; Credere receives its consequences in renewed or withheld entrustment. This passage preserves the full conjugate relation and the Prisoner’s Two/Six operation while refusing to let an office’s measure decide in advance whether its own commission may be questioned.
 
-[The Prisoner’s complete political count](submission-package/essay/symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count) **figures** arbitration’s office-confusion through Two’s power to designate Six while withholding the authority of One. A change of office-holder preserves the apparatus unless the governed person can question its criterion. [Job’s disputed court](submission-package/essay/symbolon/mytheme/worlds/biblical/job/WHOLE.md#job-measure-trust-return) **figures** the witness-side of this return: particulars force a hearing, the whirlwind changes judgement’s context, and intercession changes the relation among those who judged.
+[The Prisoner’s complete political count](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-asymmetric-count) **figures** arbitration’s office-confusion through Two’s power to designate Six while withholding the authority of One. A change of office-holder preserves the apparatus unless the governed person can question its criterion. [Job’s disputed court](../../mytheme/worlds/biblical/job/WHOLE.md#job-measure-trust-return) **figures** the witness-side of this return: particulars force a hearing, the whirlwind changes judgement’s context, and intercession changes the relation among those who judged.
 
 **Resolution-in-Reconciliation** permits anamnesis: the achieved determination remembers the path by which it acquired force. A valid settlement is not erased because its conditions become visible. Its competence can return to the wider field without sovereignty. [[A21-Individuation-Recognition|A21]] develops that psychic return; [[A25-Covenant-Mediating-Office-Source-Authority|A25]] makes covenant and authority explicit; [[A29-Power-Delegated-Labour-Return|A29]] returns the labour and consequence that the governing account had excluded.
 

@@ -1,4 +1,5 @@
 ---
+record_id: C49
 register: "episteme"
 claim_status: "Derived"
 source_relation: "Extracted native Two-Ones derivation; formal number constructions and non-dual traditions remain independent neighbours"
@@ -34,7 +35,7 @@ A selected jewel gives the [Indra’s jewel-net whole](../../mytheme/worlds/chin
 
 The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-wheels-wings) **figures** reciprocal orientations through the wheels: `0/1` meets `1/0`, and the compound holds their relation. One and All retain different offices in this native reading. The encountered wheel does not prove an arithmetic operation or supply its own historical iconographic attribution.
 
-The written 0/1 becomes a local determination within the field in which it appears. Taylor's paper scene returns the manifest All to the uncounted One without abolishing the mark's exact office. The relation **returns-to** [the complete Neumann whole](submission-package/essay/symbolon/mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold).
+The written 0/1 becomes a local determination within the field in which it appears. Taylor's paper scene returns the manifest All to the uncounted One without abolishing the mark's exact office. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-paper-eightfold).
 
 The local one remains real while returning to conditions it cannot own. A12 develops Mono/Poly from these prior offices; A13 develops the two logics of their differentiation; A18 carries the complete transverse field. Reversing that order would make Dia/Syn create the primordial terms upon which they operate. The returned form can change and act without claiming sourcehood.
 

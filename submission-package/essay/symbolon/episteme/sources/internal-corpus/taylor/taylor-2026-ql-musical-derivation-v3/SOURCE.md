@@ -37,6 +37,8 @@ main_source_for:
 ---
 # Taylor — QL Musical Derivation v3 (2026)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Provenance identity
 
 Internal derivation showing how the second Spanda equation generates the musical ratios and how the same QL arche-topos can be rendered topologically and musically.

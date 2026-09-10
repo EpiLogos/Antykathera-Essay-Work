@@ -3,6 +3,7 @@ title: "Core Theorem Bridge"
 aliases:
   - "Core Theorem Bridge"
   - "QL Theorems as the Spine"
+source_id: 12-core-theorem-bridge
 node_type: "warrant"
 page_type: "argument-map"
 argument_level: "core"
@@ -46,12 +47,16 @@ tags:
   - argument-map/warrant
   - argument-map/process-ontology
   - ql/theorem-unit
+record_type: legacy-argument
+authority: historical-provenance
 ---
 # Core Theorem Bridge
 
+**Historical navigation carrier.** This bridge is retained for wayfinding and has no canonical A identity. Enter the [eight-determination spine](../../symbolon/eight-determinations.md) for the developed native field.
+
 ## Anchor claim
 
-The [[working/sources-texts-references/10-7-2026-core-theorems-pithy|Core QL Theorems]] are an in-house collection of compact, self-contained arguments in which the `0/1` relation is made to generate, count, orient, traverse, and return through its own consequences. Each theorem-unit carries its premises, transformations, QL positions, cross-register reading, and return. Correspondences enter only after that local argument has established the operation they refract.
+The [Core QL Theorems](../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) are an in-house collection of compact, self-contained arguments in which the `0/1` relation is made to generate, count, orient, traverse, and return through its own consequences. Each theorem-unit carries its premises, transformations, QL positions, cross-register reading, and return. Correspondences enter only after that local argument has established the operation they refract.
 
 The theorem begins from [[The Two Ones — Mono–Poly Matheme|the two ones]]. `0` names Mono/One as uncounted condition; `1` names Poly/All as determinate manifestation whose local forms never become self-grounding. This relation is native to the derivation; its theological, psychological, and technical refractions follow the theorem rather than supplying it.
 

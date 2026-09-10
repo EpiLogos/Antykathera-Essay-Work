@@ -2,6 +2,7 @@
 title: "36 Tattvas"
 aliases:
   - "36 Tattvas"
+source_id: 36-tattvas
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

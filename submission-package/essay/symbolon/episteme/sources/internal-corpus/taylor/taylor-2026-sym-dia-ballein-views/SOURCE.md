@@ -34,6 +34,8 @@ passage_surface: '#passages'
 ---
 # Taylor — Sym-Dia-Ballein Views (2026)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Provenance identity
 
 Canonical representational artifact for the two logics and their diagrammatic/audio renderings. It is a visual-musical refraction of the in-house formalism and establishes internal provenance; external scholarly claims require public sources.

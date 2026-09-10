@@ -33,6 +33,8 @@ passage_surface: '#passages'
 ---
 # Nāgārjuna — Fundamental Wisdom of the Middle Way (Garfield, 1995)
 
+[Source index](../../../README.md) · [Reading entrance](../../../../../../README.md) · [48 movements](../../../../../../section-rooms/README.md)
+
 ## Bibliographic identity
 
 Oxford University Press identifies Jay L. Garfield's 1995 translation and commentary on Nāgārjuna's *Mūlamadhyamakakārikā* as the selected edition. It is required as a limiting source against flattening Śaiva *prakāśa*, Buddhist emptiness, and the essay's zero into one doctrine.

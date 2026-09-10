@@ -1,4 +1,5 @@
 ---
+record_id: C42
 register: "episteme"
 claim_status: "Argued"
 source_relation: "Argued from authorial reciprocal world-constitution and Agentworld development; distributed-cognition and multi-agent evidence remain bounded"

@@ -4,6 +4,7 @@ aliases:
   - "Mathematical and Artistic Images"
   - "Essay Image Register"
   - "Paradox Image Bank"
+source_id: reference-notes-mathematical-artistic-image-register
 node_type: reference
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

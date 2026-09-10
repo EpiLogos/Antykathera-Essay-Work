@@ -3,6 +3,7 @@ title: "Gebser Diaphaneity"
 aliases:
   - "Gebser Diaphaneity"
   - "Jean Gebser"
+source_id: gebser-diaphaneity
 node_type: "reference"
 lifecycle_status: deprecated-legacy
 canonical_source_bank: "[[Return of Zero Source Bank Index]]"

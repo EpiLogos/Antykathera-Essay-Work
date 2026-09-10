@@ -1,5 +1,6 @@
 ---
 title: "§5→0 · #2 — Antikythera as Attunement Instrument"
+source_id: 45-s50-p2-antikythera-attunement
 node_type: section
 page_type: section-movement
 station: "§5→0"
@@ -11,6 +12,10 @@ source_ids: [freeth-et-al-2006-antikythera, freeth-et-al-2021-model-cosmos, heid
 tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/praxis, station/s50, position/p2]
 ---
 # §5→0 · #2 — Antikythera as Attunement Instrument
+
+<!-- reader-navigation -->
+Movement 45 of 48 · [This room](../ROOM.md) · [← Previous](44-s50-p1-ql-mef-bimba-harness.md) · [Next →](46-s50-p3-4-2-mono-poly.md)
+<!-- /reader-navigation -->
 
 ## Claim
 The Antikythera mechanism is finally earned as an image of situated coordination: [its gears render heterogeneous celestial cycles mutually readable for an observer while the heavens remain beyond the instrument](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#ancient-craft-and-release).

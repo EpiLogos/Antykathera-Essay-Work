@@ -1,5 +1,6 @@
 ---
 title: "§0/1 · #2 — Definition as Cut, Gift, and Danger"
+source_id: 03-s01-p2-definition-cut-gift-danger
 node_type: section
 page_type: section-movement
 station: "§0/1"
@@ -12,11 +13,15 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, sta
 ---
 # §0/1 · #2 — Definition as Cut, Gift, and Danger
 
+<!-- reader-navigation -->
+Movement 03 of 48 · [This room](../ROOM.md) · [← Previous](02-s01-p1-define-subject.md) · [Next →](04-s01-p3-formal-limit-genealogy.md)
+<!-- /reader-navigation -->
+
 ## Claim
 Determination is negational and productive: it gives a knowable object by distinguishing it from what it is not, yet becomes dangerous when the achieved term forgets the field and activity from which it was cut.
 
 ## Warrant
-[[Pind — Dignāga’s Philosophy of Language: Anyāpoha (2009)|Apoha]] gives the semantic articulation: a word determines through exclusion of other referents. [[Spinoza — Letter 50 to Jarig Jelles (1674; Elwes 1901)|Spinoza]] gives the Western geometrical articulation: finite figure is determined through negation. Their operations are neither identical nor hierarchised. Together they establish the cut as a condition of intelligibility rather than a merely linguistic convention.
+[[symbolon/episteme/sources/indian-philosophy/pind/pind-2009-dignaga-anyapoha-dissertation/SOURCE|Apoha]] gives the semantic articulation: a word determines through exclusion of other referents. [[symbolon/episteme/sources/classical-premodern-philosophy/spinoza/spinoza-1674-letter-50-jelles/SOURCE|Spinoza]] gives the Western geometrical articulation: finite figure is determined through negation. Their operations are neither identical nor hierarchised. Together they establish the cut as a condition of intelligibility rather than a merely linguistic convention.
 
 The terminating concept closes around what it counts; the *symbolon* retains its absent counterpart. Technical classifications likewise produce governable objects by stabilising boundaries. The problem is cognitive and political at once: a system that cannot mark the limits of its own determinations will turn provisional distinctions into natural facts, then govern through them.
 

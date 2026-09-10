@@ -100,7 +100,7 @@ The selected quotation carrier is the 59-page author-hosted v1.0 prepublication 
 - **Source relation:** extracted primary technical formulation.
 - **Evidential action:** supports.
 - **Argument function:** candidate energy/configuration mechanism.
-- **Consumers:** [[39-s5-p2-j-space]]; [[41-s5-p4-bimba-energy-fields]]; [[42-s5-p5-research-vectors]]; [[Objective Internality]]; [[Arche-Topos as Differential Field]]; [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba]]; [[Deferential Intelligence]]; [[06-computational-vimarsa-ahi|Computational Vimarśa]].
+- **Consumers:** [[39-s5-p2-j-space]]; [[41-s5-p4-bimba-energy-fields]]; [[42-s5-p5-research-vectors]]; [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [[symbolon/episteme/concepts/bimba-pratibimba]]; [[symbolon/episteme/arguments/A31-Deferential-Intelligence|Deferential Intelligence]]; [[06-computational-vimarsa-ahi|Computational Vimarśa]].
 - **Use boundary:** establishes a technical compatibility landscape over declared variables; it does not establish a total world, phenomenality, value, psychic energy, Bimba, or QL.
 
 <a id="lecun-et-al-2006-energy-based-learning-q002"></a>
@@ -114,12 +114,12 @@ The selected quotation carrier is the 59-page author-hosted v1.0 prepublication 
 - **Source relation:** extracted primary technical formulation.
 - **Evidential action:** qualifies.
 - **Argument function:** terminological and inference/learning scope limitation.
-- **Consumers:** [[39-s5-p2-j-space]]; [[41-s5-p4-bimba-energy-fields]]; [[42-s5-p5-research-vectors]]; [[Agent Subjectivity Must Remain Open]]; [[Immutable Gap and Meta-Sign]].
+- **Consumers:** [[39-s5-p2-j-space]]; [[41-s5-p4-bimba-energy-fields]]; [[42-s5-p5-research-vectors]]; [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]].
 - **Use boundary:** establishes a stipulated scalar name and its distinction from a loss functional; it does not license equivalence with psychic energy, value, consciousness, Bimba, or QL.
 ### Passage metadata register
 
 These source-specific fields were gathered before consolidation and remain part of this source's evidence record.
 
-| `lecun-et-al-2006-energy-based-learning-q001` | `lecun-et-al-2006-energy-based-learning` | v1.0 PDF §1, printed p. 1; PDF pp. 1–2/59 | quotation-ready | `39-s5-p2-j-space`; `41-s5-p4-bimba-energy-fields`; `42-s5-p5-research-vectors` | [[Objective Internality]]; [[Arche-Topos as Differential Field]]; [[Deferential Intelligence]] | candidate energy/configuration mechanism | [Quotes — LeCun et al. Energy-Based Learning (v1.0, 2006)](#passages) |
+| `lecun-et-al-2006-energy-based-learning-q001` | `lecun-et-al-2006-energy-based-learning` | v1.0 PDF §1, printed p. 1; PDF pp. 1–2/59 | quotation-ready | `39-s5-p2-j-space`; `41-s5-p4-bimba-energy-fields`; `42-s5-p5-research-vectors` | [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]]; [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [[symbolon/episteme/arguments/A31-Deferential-Intelligence|Deferential Intelligence]] | candidate energy/configuration mechanism | [Quotes — LeCun et al. Energy-Based Learning (v1.0, 2006)](#passages) |
 
-| `lecun-et-al-2006-energy-based-learning-q002` | `lecun-et-al-2006-energy-based-learning` | v1.0 PDF §1.1, printed/PDF p. 3 | quotation-ready | `39-s5-p2-j-space`; `41-s5-p4-bimba-energy-fields`; `42-s5-p5-research-vectors` | [[Agent Subjectivity Must Remain Open]]; [[Immutable Gap and Meta-Sign]] | technical-energy/loss distinction | [Quotes — LeCun et al. Energy-Based Learning (v1.0, 2006)](#passages) |
+| `lecun-et-al-2006-energy-based-learning-q002` | `lecun-et-al-2006-energy-based-learning` | v1.0 PDF §1.1, printed/PDF p. 3 | quotation-ready | `39-s5-p2-j-space`; `41-s5-p4-bimba-energy-fields`; `42-s5-p5-research-vectors` | [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]]; [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]] | technical-energy/loss distinction | [Quotes — LeCun et al. Energy-Based Learning (v1.0, 2006)](#passages) |
