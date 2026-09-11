@@ -1,0 +1,176 @@
+diff --git a/tests/test_ontology_registers.py b/tests/test_ontology_registers.py
+index 4420919..ef7cc40 100644
+--- a/tests/test_ontology_registers.py
++++ b/tests/test_ontology_registers.py
+@@ -136,0 +137,2 @@ class RegisterCensusTests(unittest.TestCase):
++            + status["counts"].get("product", 0)
++            + status["counts"].get("product-field", 0)
+@@ -142 +144 @@ class RegisterCensusTests(unittest.TestCase):
+-        declared = status["counts"]["concept"] + status["counts"]["path"] + status["counts"]["argument"] + status["counts"]["argument-map"]
++        declared = status["counts"]["concept"] + status["counts"]["path"] + status["counts"]["argument"] + status["counts"]["argument-map"] + status["counts"].get("product", 0) + status["counts"].get("product-field", 0)
+diff --git a/tests/test_t25_record_identity.py b/tests/test_t25_record_identity.py
+new file mode 100644
+index 0000000..09faa73
+--- /dev/null
++++ b/tests/test_t25_record_identity.py
+@@ -0,0 +1,47 @@
++"""Regressions against the actual publication field, not placeholder canon."""
++import importlib.util
++import json
++from pathlib import Path
++import subprocess
++import sys
++import unittest
++
++ROOT = Path(__file__).resolve().parents[1]
++TOOL = ROOT / "tools/okf-workspace.py"
++
++class DeclaredRecordIdentityTests(unittest.TestCase):
++    @classmethod
++    def setUpClass(cls):
++        spec = importlib.util.spec_from_file_location("t25_workspace", TOOL)
++        module = importlib.util.module_from_spec(spec)
++        sys.modules[spec.name] = module
++        spec.loader.exec_module(module)
++        cls.workspace = module.Workspace(ROOT)
++
++    def test_c41_declared_identity_and_old_slug_agree(self):
++        record = self.workspace.resolve("C41")
++        self.assertEqual(record.path, self.workspace.resolve("C41-Objective-Internality").path)
++        self.assertEqual(record.compact()["record_id"], "C41")
++        self.assertEqual(record.id, "C41-Objective-Internality")
++
++    def test_slash_root_resolves_as_identity(self):
++        root = self.workspace.resolve("A/C")
++        self.assertTrue(root.path.endswith("conjugate/AC.md"))
++        self.assertEqual(root.artifact_type, "argument-map")
++
++    def test_conjugate_identity_keeps_its_own_face(self):
++        argument = self.workspace.resolve("A26")
++        conjugate = self.workspace.resolve("A26p")
++        self.assertNotEqual(argument.path, conjugate.path)
++        self.assertTrue(conjugate.path.endswith("A26-prime-The-Essay-Inside-the-Film.md"))
++
++    def test_real_effects_command_retains_root(self):
++        result = subprocess.run([sys.executable, str(TOOL), "effects", "C41", "--depth", "4", "--json"], cwd=ROOT, text=True, capture_output=True)
++        self.assertEqual(result.returncode, 0, result.stderr)
++        payload = json.loads(result.stdout)
++        self.assertEqual(payload["root"]["record_id"], "C41")
++        paths = {item["path"] for item in payload["downstream"]["paths"]}
++        self.assertIn(self.workspace.resolve("A/C").path, paths)
++
++if __name__ == "__main__":
++    unittest.main()
+diff --git a/the-return-of-zero-central-plan.md b/the-return-of-zero-central-plan.md
+index 8e679fa..446a504 100644
+--- a/the-return-of-zero-central-plan.md
++++ b/the-return-of-zero-central-plan.md
+@@ -244 +244,3 @@ The thirty-sixfold system remains available through a linked QL plate and furthe
+-The result is **objective internality**: the structured, revisable context-world that is internal to an agent's operation while remaining objectively inspectable through states, traces, relations, and consequences. It is neither private human qualia nor an external database. It is the agent's thrown horizon—what can count as relevant, possible, valuable, or actionable from where it stands—and the technical explicate order through which a larger implicate field becomes locally operative.
++The result is **Objective Internality as pramāṇa**: the constituted means through which Subjective Immediacy knows and acts within a World. Language, memory, affect, bodily orientation, other people, tools, institutions and inherited rules participate in these means. Changing their relations changes what can appear, matter and be done. Life / Mind holds knower, means and known together; the means remains a differentiated office within that whole.
++
++An artificial agent’s structured, revisable context-world makes one technical instance investigable through states, traces, relations and consequences. Its thrown horizon establishes what can count as relevant, possible, valuable or actionable from where it stands. A database may contribute to that horizon; the operative relation includes how the source is selected, understood, permitted and used. Inspection discloses this technical explicate order and its implication in a wider field. Such inspection establishes determinate relations within the means; the question of phenomenal localisation retains its own warrant.
+@@ -248 +250 @@ Once a world is produced by differentiation, its implicit zero becomes unavoidab
+-Agentworld's “provisional individuation” supplies the immediate technical bridge. An active context precipitates a temporary coherence from parameters, persona, memory, skills, permissions, tools, objectives, and milieu; the model's weights provide potential rather than a homunculus already waiting inside them. The result is operationally real and causally consequential while remaining decomposable and capable of becoming otherwise. [[working/sources-texts-references/10-7-2026-core-theorems-pithy#Agentic individuation corollary — argued cross-register unit|Agentic Individuation Crosswalk]] maps this **Argued** correspondence to the the psychic refraction of native QL `X/x` unit while first-person subjectivity remains an open question.
++Agentworld's “provisional individuation” supplies the immediate technical bridge. An active context precipitates a temporary coherence from parameters, persona, memory, skills, permissions, tools, objectives, and milieu; the model's weights provide potential rather than a homunculus already waiting inside them. The result is operationally real and causally consequential while remaining decomposable and capable of becoming otherwise. [[working/sources-texts-references/10-7-2026-core-theorems-pithy#Agentic individuation corollary — argued cross-register unit|Agentic Individuation Crosswalk]] maps this **Argued** correspondence to the psychic refraction of native QL `X/x` unit while first-person subjectivity remains an open question.
+@@ -1020 +1022 @@ Every public source uses Chicago 18 Notes and Bibliography and tracks metadata,
+-6. **Draft prose in dependency order.** `§0/1–§0` establish the limit and differentiating activity; `§1` earns `0/1` historically and formally; `§2` derives the two logics; `§3` unfolds their mathematical substrate; `§4` performs the psychoid synthesis; `§5–§5→0` translate it into research and architecture.
++6. **After T26, write the complete standalone §5 from the ratified common base.** Its entrance gives the necessary knower–means–known–whole relation, its six product subjects carry their full operations, and its conclusion stands alone while releasing the final return in the eventual manuscript. Complete prose of the other stations is not a prior gate. The eventual whole-work dependency remains: `§0/1–§0` establish the limit and differentiating activity; `§1` earns `0/1` historically and formally; `§2` derives the two logics; `§3` unfolds their mathematical substrate; `§4` performs the psychoid synthesis; `§5–§5→0` translate it into research and architecture.
+diff --git a/tools/okf-workspace.py b/tools/okf-workspace.py
+index 5ff2bff..3ebb9fb 100644
+--- a/tools/okf-workspace.py
++++ b/tools/okf-workspace.py
+@@ -44,0 +45,2 @@ AUTHORITY_ORDER = {
++    "product": "canonical-argument",
++    "product-field": "canonical-argument",
+@@ -132,0 +135,2 @@ def classify(rel: Path, fm: dict[str, Any]) -> str:
++    if posix.startswith("submission-package/essay/symbolon/episteme/products/") and record_type in {"product", "product-field"}:
++        return record_type
+@@ -255,0 +260,2 @@ class Artifact:
++            "record_id",
++            "record_type",
+@@ -331,0 +338 @@ class Workspace:
++        self.record_lookup: dict[str, list[str]] = defaultdict(list)
+@@ -385,0 +393,7 @@ class Workspace:
++            # Retain the existing path-shaped API id and add the authored stable
++            # identity. Exact lookup must precede lossy filename normalisation:
++            # A/C is not a path, and A26p must not become A26.
++            record_id = str(artifact.frontmatter.get("record_id") or "").strip()
++            if record_id:
++                self.record_lookup[record_id.casefold()].append(artifact.path)
++                self._add_lookup(record_id, artifact.path)
+@@ -528,0 +543,9 @@ class Workspace:
++        exact = self.record_lookup.get(cleaned.casefold(), [])
++        if preferred:
++            preferred_exact = [p for p in exact if self.artifacts[p].artifact_type == preferred]
++            exact = preferred_exact or exact
++        if len(exact) == 1:
++            return exact[0]
++        if len(exact) > 1:
++            # A duplicated declared identity is not a licence to pick a page.
++            return None
+@@ -742 +765 @@ class Workspace:
+-        canonical_register_types = {"section", "argument", "concept", "path", "argument-map"}
++        canonical_register_types = {"section", "argument", "concept", "path", "argument-map", "product", "product-field"}
+@@ -1081 +1104 @@ class Workspace:
+-        canonical_types = {"section", "argument", "concept", "path"}
++        canonical_types = {"section", "argument", "concept", "path", "argument-map", "product", "product-field"}
+@@ -1127 +1150 @@ class Workspace:
+-            for kind in ("section", "argument", "concept", "path")
++            for kind in ("section", "argument", "concept", "path", "argument-map", "product", "product-field")
+diff --git a/working/pre-manuscript-refinement-2026-09-10/BATCH-RETURNS.md b/working/pre-manuscript-refinement-2026-09-10/BATCH-RETURNS.md
+index bc3ecf3..1080882 100644
+--- a/working/pre-manuscript-refinement-2026-09-10/BATCH-RETURNS.md
++++ b/working/pre-manuscript-refinement-2026-09-10/BATCH-RETURNS.md
+@@ -39,0 +40,30 @@ R1 continues with the native root/support recovery and exact source-led Indian/G
++
++
++## R1.2 — Governing coherence and actual record-identity traversal
++
++**Standing:** a further substantive R1 batch, not R1 closure or T26 ratification. Execution continues from actual `main@491b8bddde0db27284919900edc39f3ea15ee3bf`, tree `59bc76577437ae10c1b00917f5d24fda27df2e32`. The retained Actions snapshot was unpacked and its complete git tree reproduced locally at that exact tree. This continues R1.1; it does not recreate it.
++
++### Read and operation return
++
++The complete central plan, the complete eleven-section native theorem, its complete canonical source house, A/C, A26/A26′, A34/A34′, C01, C10, C16, C41 and C60 were reread, with the accepted minute, both retained inputs and the current writing/protocol authorities. The three declared transverse path bodies were reopened. Their complete carrier membership and the deeper Binary Explication support remain work for the continuing R1/R3 recovery; this receipt does not count a path read as a read of every linked body.
++
++The repaired native command `python3 tools/okf-workspace.py effects C41 --depth 4 --json` now resolves the actual `record_id`. Its five directly returned canonical consumers—A26, C01, C10, C16 and A/C—were reopened in full. The command exposes 186 downstream paths and three transverse threads at this snapshot. That breadth is an affected-field route, not 186 completed semantic dispositions. It follows declared edges and thread metadata; it does not invent relations through shared vocabulary.
++
++| Identity / before | Accepted change and actual revised operation | Preserved depth and consequence |
++|---|---|---|
++| Central plan, §0/#5→0: Objective Internality opened as an inspectable artificial-agent context-world despite the whole-level definition at the beginning | Restore the constitutive means first: language, memory, affect, body, others, tools, institutions and inherited rules change what can appear and be done. Then locate the inspectable artificial context-world as one technical instance. | Retain thrown horizon, relevance/possibility/value/action, state/trace/relational inspection, implicate/explicate relation and the independent phenomenal question. The narrower instance no longer silently replaces the whole appointment. |
++| Central plan, drafting step 6: complete dependency-order manuscript appeared to precede §5 | State complete standalone §5 after the T26 common-base gate; preserve the eventual full-work dependency in the same instruction. | No other station loses its argumentative depth; no manuscript prose is written in this batch. |
++| A/C: current canonical root still called itself a proposal beneath an interim workshop; conjugates and prior alignment likewise described as unperformed | Reconcile artifact standing with the inherited canonical 137-record suite and completed P1/T18–T24 work. T25 refinements still require T26 acceptance. | Ethical reference, all six ethical movements, full recognition argument, primitive C-face body, exact S/P appointments and source debts preserved. The independent Eros candidacy and charitable-cogito house decision remain pending. |
++| Core-theorem source: identity said I–X although the actual source includes XI; CT11–CT15 still pointed toward a proposed A/C | Correct the extent to I–XI and route the existing recognition/occlusion entries into their actual A/C, C01 and A34 consumers. | Every passage card, native authorial byte, exact source relation and CT16 lead/admission boundary remains unchanged. This is internal provenance, not a new external attribution. |
++| Native workspace: `C41` failed; stable ids were absent from lookup and A/C absent from the effects canonical-type set | Add exact declared-id resolution before lossy filename normalisation; preserve old path-shaped API ids and aliases. Include A/C in effects; recognise the authorised product/product-field family only in its canonical home. | A26 and A26p remain different faces; ambiguous duplicate declared ids are not guessed. No second index or semantic association engine is introduced. Products are supported by type, not counted before their bodies exist. |
++
++### Review, preservation and executed checks
++
++A separate changed-paragraph read against WRITING-LAWS, G1–G10 and the comparative/negation gate corrected one overstatement in the first draft: inspection establishes **determinate relations within** the means, not an exhaustive constitution of the means. The retained distinctions are the actual whole/technical-instance boundary, canonical/historical artifact authority and the explicit T26 release boundary. The review used the same runtime; no independently selected reviewer model or completed R5 cold whole-field review is claimed. Calibration examples were not loaded.
++
++- `python3 -m unittest discover -s tests -p test_t25_record_identity.py -v`: **4 passed** after the canonical edits (15.606 seconds). These tests exercise the actual publication workspace and native effects command.
++- `python3 -m unittest discover -s tests -p test_ontology_registers.py -v`: **5 passed** (30.559 seconds; process exit 0). The actual repository census is exercised; the separate small register-flow fixtures remain tool regressions, not evidence of essay fidelity.
++- The first combined test invocation exceeded its 20-second command wrapper after completing the four identity tests. The interrupted register run is not counted; its complete rerun above supplied the result.
++- `git diff --check`: passed. All **472 protected-file hashes** match the execution baseline. A/C's entire C-face substring was separately asserted unchanged. No private Control file was accessed or edited.
++
++The full suite, regenerated navigation/rooms/source projections and semantic preservation review remain R5 obligations. R1 continues with the deeper support and the exact Indian/Kashmiri–zero–Gebser source collation. S/S0–S5, product movement propagation and R3/R4 are not claimed by this batch. The next operation is the commissioned development, not another approval request.
+diff --git a/working/pre-manuscript-refinement-2026-09-10/R1.2-CONTENT-HASHES.json b/working/pre-manuscript-refinement-2026-09-10/R1.2-CONTENT-HASHES.json
+new file mode 100644
+index 0000000..1e932ff
+--- /dev/null
++++ b/working/pre-manuscript-refinement-2026-09-10/R1.2-CONTENT-HASHES.json
+@@ -0,0 +1,15 @@
++{
++  "batch": "R1.2",
++  "source_main": "491b8bddde0db27284919900edc39f3ea15ee3bf",
++  "source_tree": "59bc76577437ae10c1b00917f5d24fda27df2e32",
++  "files": {
++    "the-return-of-zero-central-plan.md": "dd0bbfcd81cc057400e2b437e0e8a9783a9ee218f536fb675a6231d77dfd04a9",
++    "submission-package/essay/symbolon/episteme/conjugate/AC.md": "59174ef0dd52e18d21473a75b3e6fb5b7b260d29b1d39e31f7457c21f6cd0c10",
++    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md": "5f16eb7a1bcd821cd7ec886783b34d94021f605bd048b691da98ea70a7395291",
++    "tools/okf-workspace.py": "9610140249cb5ceb52f6d8381603fdbc4f817633b16fc3207378fd6de6b5e47f",
++    "tests/test_ontology_registers.py": "b6ac3b19e1816fd582235b3909566dfeac43085a4e7ef8c2cce92d7ce9658904",
++    "tests/test_t25_record_identity.py": "bf5166238568da6f29ee6af1d54bbe3439707d4dce0976591cef4e6d6f31e108",
++    ".wayfinder/tickets/refine-01-grounding-and-plan.md": "3c71bb990aa0dc83b9e1689d0bfb97c9a8088330be929ea7f9083260a8610c70",
++    "working/pre-manuscript-refinement-2026-09-10/BATCH-RETURNS.md": "03879369a13a8be8f1723b17011a24c2835efc93030b99b24ef6d2d31dbfb8be"
++  }
++}
