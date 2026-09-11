@@ -31,13 +31,15 @@ jobs:
           python3 -m pip install PyYAML
           mkdir -p "$RUNNER_TEMP/t25-snapshot" "$RUNNER_TEMP/t25-validation"
           git rev-parse HEAD | tee "$RUNNER_TEMP/t25-snapshot/HEAD.txt" > "$RUNNER_TEMP/t25-validation/HEAD.txt"
+          git rev-parse 'HEAD^{tree}' > "$RUNNER_TEMP/t25-snapshot/TREE.txt"
           git archive --format=tar HEAD | gzip > "$RUNNER_TEMP/t25-snapshot/repository.tar.gz"
+          (cd "$RUNNER_TEMP/t25-snapshot" && sha256sum repository.tar.gz > SHA256SUMS)
       - name: Retain the exact source tree before validation
         uses: actions/upload-artifact@v4
         with:
           name: t25-source-${{ github.sha }}
           path: ${{ runner.temp }}/t25-snapshot/
-          retention-days: 1
+          retention-days: 7
           if-no-files-found: error
       - name: Recover declared R1 effects and run real workspace tests
         shell: bash
@@ -58,5 +60,5 @@ jobs:
         with:
           name: t25-validation-${{ github.sha }}
           path: ${{ runner.temp }}/t25-validation/
-          retention-days: 1
+          retention-days: 7
           if-no-files-found: error
