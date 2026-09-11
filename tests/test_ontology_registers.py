@@ -134,12 +134,14 @@ class RegisterCensusTests(unittest.TestCase):
             + status["counts"]["concept"]
             + status["counts"]["path"]
             + status["counts"]["argument-map"]
+            + status["counts"].get("product", 0)
+            + status["counts"].get("product-field", 0)
         )
         self.assertEqual(census["canonical_nodes"], expected)
         # Concepts, paths and the canonical A/A′ argument pages declare their register;
         # the 48 movements await Frank's per-node register; A/C declares episteme.
         # The 21 pre-T09 carriers are legacy provenance and no longer count as canonical.
-        declared = status["counts"]["concept"] + status["counts"]["path"] + status["counts"]["argument"] + status["counts"]["argument-map"]
+        declared = status["counts"]["concept"] + status["counts"]["path"] + status["counts"]["argument"] + status["counts"]["argument-map"] + status["counts"].get("product", 0) + status["counts"].get("product-field", 0)
         self.assertEqual(census["declared"], declared)
         self.assertEqual(census["missing"], expected - declared)
 

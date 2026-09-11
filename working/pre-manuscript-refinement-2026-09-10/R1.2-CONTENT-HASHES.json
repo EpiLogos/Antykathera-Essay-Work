@@ -1,0 +1,15 @@
+{
+  "batch": "R1.2",
+  "source_main": "491b8bddde0db27284919900edc39f3ea15ee3bf",
+  "source_tree": "59bc76577437ae10c1b00917f5d24fda27df2e32",
+  "files": {
+    "the-return-of-zero-central-plan.md": "dd0bbfcd81cc057400e2b437e0e8a9783a9ee218f536fb675a6231d77dfd04a9",
+    "submission-package/essay/symbolon/episteme/conjugate/AC.md": "59174ef0dd52e18d21473a75b3e6fb5b7b260d29b1d39e31f7457c21f6cd0c10",
+    "submission-package/essay/symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md": "5f16eb7a1bcd821cd7ec886783b34d94021f605bd048b691da98ea70a7395291",
+    "tools/okf-workspace.py": "9610140249cb5ceb52f6d8381603fdbc4f817633b16fc3207378fd6de6b5e47f",
+    "tests/test_ontology_registers.py": "b6ac3b19e1816fd582235b3909566dfeac43085a4e7ef8c2cce92d7ce9658904",
+    "tests/test_t25_record_identity.py": "bf5166238568da6f29ee6af1d54bbe3439707d4dce0976591cef4e6d6f31e108",
+    ".wayfinder/tickets/refine-01-grounding-and-plan.md": "3c71bb990aa0dc83b9e1689d0bfb97c9a8088330be929ea7f9083260a8610c70",
+    "working/pre-manuscript-refinement-2026-09-10/BATCH-RETURNS.md": "03879369a13a8be8f1723b17011a24c2835efc93030b99b24ef6d2d31dbfb8be"
+  }
+}

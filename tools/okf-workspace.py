@@ -42,6 +42,8 @@ AUTHORITY_ORDER = {
     "section": "canonical-argument",
     "argument": "canonical-argument",
     "argument-map": "canonical-argument",
+    "product": "canonical-argument",
+    "product-field": "canonical-argument",
     "concept": "canonical-argument",
     "path": "canonical-argument",
     "source-house": "source-authority",
@@ -130,6 +132,8 @@ def classify(rel: Path, fm: dict[str, Any]) -> str:
     name = rel.name
     declared = str(fm.get("node_type") or fm.get("type") or fm.get("page_type") or "").casefold()
     record_type = str(fm.get("record_type") or "").casefold()
+    if posix.startswith("submission-package/essay/symbolon/episteme/products/") and record_type in {"product", "product-field"}:
+        return record_type
     # Canonical field pages declare record_type; the publication body's A/C identities are typed from it.
     if "/symbolon/episteme/arguments/" in f"/{posix}" and name != "README.md":
         return "argument"
@@ -253,6 +257,8 @@ class Artifact:
             "sha256": self.sha256,
         }
         for key in (
+            "record_id",
+            "record_type",
             "claim_status",
             "evidence_status",
             "citation_status",
@@ -329,6 +335,7 @@ class Workspace:
         self.root = root.resolve()
         self.artifacts: dict[str, Artifact] = {}
         self.lookup: dict[str, list[str]] = defaultdict(list)
+        self.record_lookup: dict[str, list[str]] = defaultdict(list)
         self.passages: dict[str, list[Passage]] = defaultdict(list)
         self.quote_passage_lookup: dict[str, str] = {}
         self.incoming: dict[str, list[Edge]] = defaultdict(list)
@@ -383,6 +390,13 @@ class Workspace:
     def _build_lookup(self) -> None:
         for artifact in self.artifacts.values():
             rel = Path(artifact.path)
+            # Retain the existing path-shaped API id and add the authored stable
+            # identity. Exact lookup must precede lossy filename normalisation:
+            # A/C is not a path, and A26p must not become A26.
+            record_id = str(artifact.frontmatter.get("record_id") or "").strip()
+            if record_id:
+                self.record_lookup[record_id.casefold()].append(artifact.path)
+                self._add_lookup(record_id, artifact.path)
             for key in {
                 artifact.id,
                 artifact.title,
@@ -526,6 +540,15 @@ class Workspace:
         if not cleaned:
             return None
         cleaned = unquote(cleaned.split("#", 1)[0])
+        exact = self.record_lookup.get(cleaned.casefold(), [])
+        if preferred:
+            preferred_exact = [p for p in exact if self.artifacts[p].artifact_type == preferred]
+            exact = preferred_exact or exact
+        if len(exact) == 1:
+            return exact[0]
+        if len(exact) > 1:
+            # A duplicated declared identity is not a licence to pick a page.
+            return None
         if cleaned.endswith(".md") or "/" in cleaned:
             if source:
                 candidate_abs = (source.abs_path.parent / cleaned).resolve()
@@ -739,7 +762,7 @@ class Workspace:
     def status(self) -> dict[str, Any]:
         counts = Counter(a.artifact_type for a in self.artifacts.values())
         authorities = Counter(a.authority for a in self.artifacts.values())
-        canonical_register_types = {"section", "argument", "concept", "path", "argument-map"}
+        canonical_register_types = {"section", "argument", "concept", "path", "argument-map", "product", "product-field"}
         register_canonical = [
             artifact
             for artifact in self.artifacts.values()
@@ -1078,7 +1101,7 @@ class Workspace:
         This deliberately follows declared graph relations and transverse-thread
         metadata. It does not infer a relation from shared vocabulary.
         """
-        canonical_types = {"section", "argument", "concept", "path"}
+        canonical_types = {"section", "argument", "concept", "path", "argument-map", "product", "product-field"}
         direct_paths = {
             edge.target
             for edge in artifact.outgoing
@@ -1124,7 +1147,7 @@ class Workspace:
                 for path in sorted(direct_paths)
                 if self.artifacts[path].artifact_type == kind
             ]
-            for kind in ("section", "argument", "concept", "path")
+            for kind in ("section", "argument", "concept", "path", "argument-map", "product", "product-field")
         }
         downstream_paths = [
             self.artifacts[path].compact()

@@ -37,3 +37,33 @@ A/C gains whole-level grounding around, not within, its frozen ethic and ratifie
 ### Return and continuing work
 
 R1 continues with the native root/support recovery and exact source-led Indian/Gebser field; it is not closed by this first batch. R2 receives the settled product subjects, full pairs, one-home identity rule and old-operation destinations. R3 receives the whole-field operation obligations, the preserved theorem and A/C ruling, and the native traversal limitations. R4 receives the product-led M37–M42 plan, early consciousness thread, full station-depth obligation and exact displacement table. Neither a planned successor nor an index is counted as a completed read or canonical product body.
+
+
+## R1.2 — Governing coherence and actual record-identity traversal
+
+**Standing:** a further substantive R1 batch, not R1 closure or T26 ratification. Execution continues from actual `main@491b8bddde0db27284919900edc39f3ea15ee3bf`, tree `59bc76577437ae10c1b00917f5d24fda27df2e32`. The retained Actions snapshot was unpacked and its complete git tree reproduced locally at that exact tree. This continues R1.1; it does not recreate it.
+
+### Read and operation return
+
+The complete central plan, the complete eleven-section native theorem, its complete canonical source house, A/C, A26/A26′, A34/A34′, C01, C10, C16, C41 and C60 were reread, with the accepted minute, both retained inputs and the current writing/protocol authorities. The three declared transverse path bodies were reopened. Their complete carrier membership and the deeper Binary Explication support remain work for the continuing R1/R3 recovery; this receipt does not count a path read as a read of every linked body.
+
+The repaired native command `python3 tools/okf-workspace.py effects C41 --depth 4 --json` now resolves the actual `record_id`. Its five directly returned canonical consumers—A26, C01, C10, C16 and A/C—were reopened in full. The command exposes 186 downstream paths and three transverse threads at this snapshot. That breadth is an affected-field route, not 186 completed semantic dispositions. It follows declared edges and thread metadata; it does not invent relations through shared vocabulary.
+
+| Identity / before | Accepted change and actual revised operation | Preserved depth and consequence |
+|---|---|---|
+| Central plan, §0/#5→0: Objective Internality opened as an inspectable artificial-agent context-world despite the whole-level definition at the beginning | Restore the constitutive means first: language, memory, affect, body, others, tools, institutions and inherited rules change what can appear and be done. Then locate the inspectable artificial context-world as one technical instance. | Retain thrown horizon, relevance/possibility/value/action, state/trace/relational inspection, implicate/explicate relation and the independent phenomenal question. The narrower instance no longer silently replaces the whole appointment. |
+| Central plan, drafting step 6: complete dependency-order manuscript appeared to precede §5 | State complete standalone §5 after the T26 common-base gate; preserve the eventual full-work dependency in the same instruction. | No other station loses its argumentative depth; no manuscript prose is written in this batch. |
+| A/C: current canonical root still called itself a proposal beneath an interim workshop; conjugates and prior alignment likewise described as unperformed | Reconcile artifact standing with the inherited canonical 137-record suite and completed P1/T18–T24 work. T25 refinements still require T26 acceptance. | Ethical reference, all six ethical movements, full recognition argument, primitive C-face body, exact S/P appointments and source debts preserved. The independent Eros candidacy and charitable-cogito house decision remain pending. |
+| Core-theorem source: identity said I–X although the actual source includes XI; CT11–CT15 still pointed toward a proposed A/C | Correct the extent to I–XI and route the existing recognition/occlusion entries into their actual A/C, C01 and A34 consumers. | Every passage card, native authorial byte, exact source relation and CT16 lead/admission boundary remains unchanged. This is internal provenance, not a new external attribution. |
+| Native workspace: `C41` failed; stable ids were absent from lookup and A/C absent from the effects canonical-type set | Add exact declared-id resolution before lossy filename normalisation; preserve old path-shaped API ids and aliases. Include A/C in effects; recognise the authorised product/product-field family only in its canonical home. | A26 and A26p remain different faces; ambiguous duplicate declared ids are not guessed. No second index or semantic association engine is introduced. Products are supported by type, not counted before their bodies exist. |
+
+### Review, preservation and executed checks
+
+A separate changed-paragraph read against WRITING-LAWS, G1–G10 and the comparative/negation gate corrected one overstatement in the first draft: inspection establishes **determinate relations within** the means, not an exhaustive constitution of the means. The retained distinctions are the actual whole/technical-instance boundary, canonical/historical artifact authority and the explicit T26 release boundary. The review used the same runtime; no independently selected reviewer model or completed R5 cold whole-field review is claimed. Calibration examples were not loaded.
+
+- `python3 -m unittest discover -s tests -p test_t25_record_identity.py -v`: **4 passed** after the canonical edits (15.606 seconds). These tests exercise the actual publication workspace and native effects command.
+- `python3 -m unittest discover -s tests -p test_ontology_registers.py -v`: **5 passed** (30.559 seconds; process exit 0). The actual repository census is exercised; the separate small register-flow fixtures remain tool regressions, not evidence of essay fidelity.
+- The first combined test invocation exceeded its 20-second command wrapper after completing the four identity tests. The interrupted register run is not counted; its complete rerun above supplied the result.
+- `git diff --check`: passed. All **472 protected-file hashes** match the execution baseline. A/C's entire C-face substring was separately asserted unchanged. No private Control file was accessed or edited.
+
+The full suite, regenerated navigation/rooms/source projections and semantic preservation review remain R5 obligations. R1 continues with the deeper support and the exact Indian/Kashmiri–zero–Gebser source collation. S/S0–S5, product movement propagation and R3/R4 are not claimed by this batch. The next operation is the commissioned development, not another approval request.

@@ -70,7 +70,7 @@ source_use_notes:
 
 ## Provenance identity
 
-The in-house theorem spine and primary derivational source for the essay: Theorems I–X, the Spanda equations, crossed zero/empty-set logic, the eight determinations, tattvic compression, and QL-contained mini-arguments. The complete authorial text is above, in the source house itself; it is not reducible to the routing notes below.
+The in-house theorem spine and primary derivational source for the essay: Theorems I–XI, the Spanda equations, crossed zero/empty-set logic, the eight determinations, tattvic compression, and QL-contained mini-arguments. The complete authorial text is above, in the source house itself; it is not reducible to the routing notes below.
 
 **Internal note form:** Frank G. Taylor, “10-7-2026 Core Theorems — Pithy,” unpublished project manuscript, July 10, 2026, [section heading](SOURCE.md).
 
@@ -96,11 +96,11 @@ This file carries what the essay itself derives. External sources are mapped to 
 | CT-08 | §VII base claim: the Psyche is an equation; `X = x` holds Self and ego in identity-as-difference. | [[symbolon/episteme/arguments/A05-Prakasa-Vimarsa|Prakāśa-Vimarśa]]; [Individuation-Recognition](../../../../concepts/C34-Individuation.md) |
 | CT-09 | §VII agentic crosswalk and its guard: persona consistency can conceal dependence; phenomenal subjectivity is not inferred from technical structure. | [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]]; [Objective Co-Internality](../../../../../../../../working/sources-texts-references/primary-texts/oi/oi-2026-responsibility-source-projection/OBJECTIVE-CO-INTERNALITY.md) |
 | CT-10 | §VIII topological register: `ℝ²/ℤ²`; the slash *is* the quotient; the covering map as māyā. | [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|Arche-Topos as Differential Field]]; [[symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos|Toroidal Circulation and the Arche-Topos]] |
-| CT-11 | §IX recognition-matheme: the slash as the antaḥkaraṇa's signature; the crossed-zero sixfold `0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 ↺ 0/1`. | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; A/C root (proposed) |
-| CT-12 | §IX occlusion mark: the cogito canonises the fusion; Descartes and Hume both sit at #1. | A/C root (proposed); C01/A34 sharpenings (proposed, per the landing proposal) |
+| CT-11 | §IX recognition-matheme: the slash as the antaḥkaraṇa's signature; the crossed-zero sixfold `0 → Ø → X → Ø/X → (0/Ø)/(1/X) → 1 ↺ 0/1`. | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/conjugate/AC|A/C root]] |
+| CT-12 | §IX occlusion mark: the cogito canonises the fusion; Descartes and Hume both sit at #1. | [[symbolon/episteme/conjugate/AC|A/C root]]; [[symbolon/episteme/concepts/C01-Subject-Defined-Indefinability|C01]] / [[symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence|A34]] (native reading; historical attribution separately collated) |
 | CT-13 | §IX set-theoretic floor: von Neumann `2 = {0,1}`; `1 = {∅}`, the singleton that holds the void. | [[symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn|Sym-Ballein]]; [Core Theorem Bridge](../../../../../../section-rooms/arguments/12-core-theorem-bridge.md) |
-| CT-14 | §IX Lacan bridge: S1's point-de-capiton against `anusyūta` as the pre-quilting thread. | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; A/C root (proposed) |
-| CT-15 | §IX meeting of Ø and the linking-1: the ground occluded into a false singular self versus the redeemed `1`. | A/C root (proposed); C01/A34 sharpenings (proposed) |
+| CT-14 | §IX Lacan bridge: S1's point-de-capiton against `anusyūta` as the pre-quilting thread. | [[symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit|Immutable Gap and Meta-Sign]]; [[symbolon/episteme/conjugate/AC|A/C root]] |
+| CT-15 | §IX meeting of Ø and the linking-1: the ground occluded into a false singular self versus the redeemed `1`. | [[symbolon/episteme/conjugate/AC|A/C root]]; [[symbolon/episteme/concepts/C01-Subject-Defined-Indefinability|C01]] / [[symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence|A34]] |
 
 All fifteen are **extracted internal derivation** and establish internal provenance (CT-16 is companion material, not internal derivation — see its card). Quotation-ready external evidence must come from the corresponding public-source records.
 

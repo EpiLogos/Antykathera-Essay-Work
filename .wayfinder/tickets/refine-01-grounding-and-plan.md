@@ -33,3 +33,7 @@ The central plan has one current product-led §5 structure and the accepted whol
 ## Execution claim — 2026-09-10
 
 Claimed from verified current `main@53202810778122a37973868d873335b82d8d36ca`. Recover the governing inputs and full native field, amend the plan first, then propagate through R1–R6 in dependency order. This claim records work begun, not completion or T26 ratification. Protected authorial writings, the frozen A/C ethic and manuscript remain untouched.
+
+## Continuation — 2026-09-11
+
+Resumed from verified `main@491b8bddde0db27284919900edc39f3ea15ee3bf`, preserving R1.1. R1.2 reconciles the remaining plan-level whole/technical-instance and writing-scope conflicts, repairs stale root/source routing, and restores native declared-record effects lookup with actual-workspace regressions. See [batch returns](../../working/pre-manuscript-refinement-2026-09-10/BATCH-RETURNS.md#r12--governing-coherence-and-actual-record-identity-traversal). R1 remains in progress: full deeper-support recovery and exact source collation continue; no global authorial gate is reopened.
