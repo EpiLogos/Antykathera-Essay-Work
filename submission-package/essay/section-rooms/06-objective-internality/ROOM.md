@@ -20,9 +20,9 @@ spectroscopy of one QL light through multiple lenses.
 
 ## Section wager
 
-Contemporary AI makes differentiating activity technically observable at a new scale. QL/MEF can turn the agent's constructed context-world into a research object without pretending that behavioural structure settles the metaphysics of consciousness.
+The philosophy is faithfully reflected in the technology. O:I’s six products develop six aspects of the means through which a Life discloses and acts within a World: meaningful continuity, living articulation, potency, transformation, situated existence and Transcendent Relation.
 
-**Present burden:** translate the philosophical account into falsifiable or at least discriminating research vectors.
+**Present burden:** develop six whole product subjects, each through its complete assigned MEF pair, its native A/A′/C ground, its historical and symbolic depth, and its actual technological consequences.
 
 ## Six waypoints
 

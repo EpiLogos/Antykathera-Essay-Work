@@ -1,5 +1,5 @@
 {
-  "source_digest": "bd45b263950604d31c115a3a7610fb6d6fb5c89726569dc1cd881f773bf61efb",
+  "source_digest": "026720444e05494bfe5d27a0fff06819a3226793aec5a7cee283faef2dac6f38",
   "builder_version": "1.1.0",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -29,7 +29,7 @@
   },
   "max_depth": 5,
   "relation_totals": {
-    "unnamed": 5160,
+    "unnamed": 5173,
     "sources": 1298,
     "sources (declared)": 787,
     "returns-to": 647,
@@ -37,7 +37,7 @@
     "extends": 360,
     "qualifies": 295,
     "consumed-by (declared)": 273,
-    "defines": 252,
+    "defines": 253,
     "figures": 220,
     "compares": 170,
     "historicises": 168,
@@ -124,9 +124,9 @@
     },
     "episteme-arguments": {
       "pages": 37,
-      "links": 1074,
+      "links": 1076,
       "named": 642,
-      "unnamed": 432,
+      "unnamed": 434,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -142,18 +142,18 @@
     },
     "episteme-concepts": {
       "pages": 179,
-      "links": 1226,
-      "named": 609,
-      "unnamed": 617,
+      "links": 1233,
+      "named": 610,
+      "unnamed": 623,
       "orphans": 36,
-      "no_return": 84,
+      "no_return": 83,
       "unreachable": 47
     },
     "episteme-conjugate": {
       "pages": 38,
-      "links": 648,
+      "links": 650,
       "named": 210,
-      "unnamed": 438,
+      "unnamed": 440,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -223,9 +223,9 @@
     },
     "episteme-sources": {
       "pages": 195,
-      "links": 1051,
+      "links": 1054,
       "named": 167,
-      "unnamed": 884,
+      "unnamed": 887,
       "orphans": 0,
       "no_return": 80,
       "unreachable": 0
@@ -306,7 +306,6 @@
     "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
     "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
     "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
-    "submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md",
     "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
     "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
     "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
@@ -571,9 +570,9 @@
       }
     },
     "the-return-of-zero-central-plan.md": {
-      "count": 79,
+      "count": 80,
       "targets": {
-        "the-return-of-zero-central-plan.md": 79
+        "the-return-of-zero-central-plan.md": 80
       }
     },
     "working/antykathera-resources": {

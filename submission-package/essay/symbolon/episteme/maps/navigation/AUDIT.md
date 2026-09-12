@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.0"
 authority: generated-locator
-source_digest: "bd45b263950604d31c115a3a7610fb6d6fb5c89726569dc1cd881f773bf61efb"
+source_digest: "026720444e05494bfe5d27a0fff06819a3226793aec5a7cee283faef2dac6f38"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -45,12 +45,12 @@ Workspace lookup reaches 718 of 765 pages. The tables below describe that larger
 | Matheme — exact operations | 94 | 845 | 399 | 446 | 0 | 13 | 0 |
 | Mytheme — whole lived images | 48 | 763 | 449 | 314 | 0 | 23 | 0 |
 | Episteme — the register root | 1 | 24 | 4 | 20 | 0 | 0 | 0 |
-| Episteme · Arguments A01–A36 | 37 | 1074 | 642 | 432 | 0 | 0 | 0 |
-| Episteme · Conjugate arguments A01′–A36′ | 38 | 648 | 210 | 438 | 0 | 0 | 0 |
-| Episteme · Concepts C01–C64 and provenance | 179 | 1226 | 609 | 617 | 36 | 84 | 47 |
+| Episteme · Arguments A01–A36 | 37 | 1076 | 642 | 434 | 0 | 0 | 0 |
+| Episteme · Conjugate arguments A01′–A36′ | 38 | 650 | 210 | 440 | 0 | 0 | 0 |
+| Episteme · Concepts C01–C64 and provenance | 179 | 1233 | 610 | 623 | 36 | 83 | 47 |
 | Episteme · Etymology whole-fields | 22 | 589 | 439 | 150 | 0 | 5 | 0 |
 | Episteme · Histories | 21 | 660 | 429 | 231 | 0 | 3 | 0 |
-| Episteme · Source houses | 195 | 1051 | 167 | 884 | 0 | 80 | 0 |
+| Episteme · Source houses | 195 | 1054 | 167 | 887 | 0 | 80 | 0 |
 | Episteme · Dossiers | 8 | 205 | 179 | 26 | 0 | 1 | 0 |
 | Episteme · Lenses | 3 | 37 | 26 | 11 | 0 | 1 | 0 |
 | Episteme · Maps and curated paths | 5 | 119 | 7 | 112 | 0 | 1 | 0 |
@@ -76,7 +76,7 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 | Target root | Links | Most linked |
 |---|---|---|
 | `working/sources-texts-references` | 152 | `working/sources-texts-references/QL-Essay-Rewrite.md` (51); `working/sources-texts-references/10-7-2026-core-theorems-pithy.md` (23); `working/sources-texts-references/The Nothing That Is - Robert Kaplan.md` (14) |
-| `the-return-of-zero-central-plan.md` | 79 | `the-return-of-zero-central-plan.md` (79) |
+| `the-return-of-zero-central-plan.md` | 80 | `the-return-of-zero-central-plan.md` (80) |
 | `working/antykathera-resources` | 48 | `working/antykathera-resources/Antikythera Agentworld Brief.md` (48) |
 | `working/final-argument-quilt-2026-08-23` | 44 | `working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md` (12); `working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md` (8); `working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md` (7) |
 | `working/conjugate-field` | 20 | `working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md` (10); `working/conjugate-field/PASS2-CHARTER.md` (6); `working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md` (2) |
@@ -154,7 +154,6 @@ Pages outside the rooms with no link to the manuscript, a room surface, or a can
 - [C38 — Bimba–Pratibimba / Bimba Map](../../concepts/C38-Bimba-Pratibimba-Bimba-Map.md)
 - [C39 — Meta-Epistemic Framework](../../concepts/C39-Meta-Epistemic-Framework.md)
 - [C40 — Model Internality / Judgment Field](../../concepts/C40-Model-Internality-Judgment-Field.md)
-- [C41 — Objective Internality](../../concepts/C41-Objective-Internality.md)
 - [C42 — Objective Co-Internality](../../concepts/C42-Objective-Co-Internality.md)
 - [C43 — Computational Vimarśa](../../concepts/C43-Computational-Vimarsa.md)
 - [C44 — Prompt Thrownness](../../concepts/C44-Prompt-Thrownness.md)
