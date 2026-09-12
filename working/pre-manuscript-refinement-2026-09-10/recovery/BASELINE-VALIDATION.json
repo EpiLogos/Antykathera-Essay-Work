@@ -1,0 +1,50 @@
+{
+  "standing": "R1 baseline repair validated and published; four R2 originals preserved; complete R2 admission unavailable",
+  "recovery_commit": "63e7a06bbb38a32acf0d525ba02ba86e9e64bf3f",
+  "validated_baseline_commit": "4d8cf138bd141a16e0ae40b9648888f1fd149f74",
+  "validated_baseline_tree": "91228bc8be8e4e932bb98f04f9b0840ba3fe587d",
+  "github_workflow_run": 34667433387,
+  "github_workflow_conclusion": "success",
+  "github_artifact_id": 10289614001,
+  "github_artifact_sha256": "37bf4b85ae93397a2d381c0a295445d6fda3d78306e822eb4cd6c293ad061f9c",
+  "tests": {
+    "run": 115,
+    "passed": 114,
+    "skipped": 1,
+    "failures": 0,
+    "seconds": 386.0
+  },
+  "command_exit_codes": {
+    "custody": 0,
+    "build-source-projections": 0,
+    "build-section-rooms": 0,
+    "build-navigation": 0,
+    "unittest": 0,
+    "build-source-projections-check": 0,
+    "build-section-rooms-check": 0,
+    "build-navigation-check": 0,
+    "room-depth": 0,
+    "effects-C41": 0,
+    "reader-navigation": 0,
+    "pre-manuscript": 0
+  },
+  "generated_files_changed": 66,
+  "protected_files_unchanged": 472,
+  "ac_sha256_unchanged": "59174ef0dd52e18d21473a75b3e6fb5b7b260d29b1d39e31f7457c21f6cd0c10",
+  "room_count": 8,
+  "shared_records": 137,
+  "admitted_records": 281,
+  "recovered_original_postimages": 4,
+  "unrecovered_original_postimages": 58,
+  "original_authored_preimage_conflicts": [],
+  "local_comparison": {
+    "all_other_files_byte_identical": true,
+    "different_file": "submission-package/essay/symbolon/episteme/maps/navigation/reader-audit.json",
+    "difference": "278 absolute checkout-root prefixes only; exact equality after root substitution",
+    "github_artifact_patch_reconstructed_tree": "91228bc8be8e4e932bb98f04f9b0840ba3fe587d"
+  },
+  "scope": "This receipt and its README clarification are documentation-only additions after the tested baseline commit. No canonical, generated, tool, test, workflow or original survivor bytes change in the documentation addition.",
+  "r2_admitted": false,
+  "r3_through_r6_complete": false,
+  "t26_ratified": false
+}
