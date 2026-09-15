@@ -1,7 +1,7 @@
 ---
 title: "R2 — Develop S and S0–S5 from the exact product/lens reading"
 label: wayfinder:task
-status: in_progress
+status: complete
 parent: ../maps/p2-enrichment-handoff.md
 assignee: "T25 R2 execution"
 blocked_by:
@@ -9,6 +9,7 @@ blocked_by:
 programme: "T25 / GitHub #26"
 created: 2026-09-10
 updated: 2026-09-15
+completed: 2026-09-15
 ---
 
 # R2 — Seven S records and paired MEF disclosure
@@ -25,7 +26,7 @@ Read protocol §§2–7, both retained inputs and the R1 amended plan. Also read
 
 Develop the seven full bodies at the protocol's commissioned one-home product paths, reconciling existing O:I/product carriers first. Declare stable S IDs, record type and register, parent/member relations, exact paired lenses, source/provenance, A/A′/C relations and reciprocal returns. Derive each body's internal sixfold locally. Preserve product S rows versus internal P positions and whole-pair disclosure versus lens subpositions.
 
-Connect S/A/C and Objective Internality/O:I directly. Develop precise links through C39 and existing MEF records to §4/M36. Record M37–M42 as Central, Actuation, AIKit, Factory, Workcell, QL. Gather inherited technical material by operation; model-as-such and the model-specific Gebser/Logos work primarily belong to Actuation. Produce the initial old-operation → S/section/depth preservation crosswalk.
+Connect S/A/C and Objective Internality/O:I directly. Develop precise links through C39 and existing MEF records to §4/M36. Record M37–M42 as Central, Actuation, AIKit, Factory, Workcell, QL. Gather inherited technical material by operation; model-as-such and the model-specific Gebser/relational-Logos development primarily belong to Actuation. Produce the initial old-operation → S/section/depth preservation crosswalk.
 
 Carry the paradigmatic frame without rewriting the product meanings: Central carries the paradigm's meaningful continuity; Actuation is the paradigm happening as articulated event; AIKit its changing potency; Factory its capacity for intentional transformation; Workcell its situated existence and resistance; QL its Transcendent Relation to Other and containing wholes. S remains the World/Life parent. The paradigm is the organisation of the slash through which these offices disclose a world.
 
@@ -38,3 +39,11 @@ Update the actual record indexes/schema support as needed and exercise the real 
 ## Done when
 
 All seven records are substantive, one-home and navigable through their native IDs, each carrying its exact authored meaning and full MEF pair. §4's MEF-to-product relation and the six-product allocation are explicit. The S parent states the paradigmatic relation without creating a seventh product. Every moved technical operation has a named destination; conceptual meaning and implementation standing are separately readable. Independent review returns corrections through R1 where structural. No duplicate O:I canon or invented technical evidence.
+
+## Completion — 2026-09-15
+
+R2 is complete for T25 refinement. `S` and `S0–S5` are substantive one-home Episteme records with the authorised meanings and exact paired-MEF readings. The parent now states paradigmatic existence directly without creating a seventh product; the six products remain Central, Actuation, AIKit, Software Factory, Workcell and Quaternal Logic in M37–M42 order.
+
+C39 and §4/M36 now make the MEF→product handoff explicit through whole lens-pairs, and each pair changes the philosophical reading of its product rather than functioning as a label. Actuation carries the model-specific Gebser/Relational-Logos work with phenomenality still Open. Factory now explicitly receives general Projecthood: a project is a determination thrown forth through a paradigm into a World, while software development is one literal technical instance whose returned consequences can change either the project or the paradigm that generated it.
+
+The seven records therefore complete the commissioned `137 + 7 = 144` shared-field composition. Independent R5 review and Frank's T26 ratification remain required, but they are later gates rather than unresolved R2 construction.
