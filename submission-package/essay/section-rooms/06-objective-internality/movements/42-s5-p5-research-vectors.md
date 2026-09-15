@@ -15,7 +15,7 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 # §5 · #5 — Quaternal Logic — Transcendent Relation
 
 <!-- reader-navigation -->
-Movement 42 of 48 · [This room](../ROOM.md) · [← Previous](41-s5-p4-bimba-energy-fields.md) · [Next →](../../07-instrument-returns/movements/43-s6-p0-instrument-return.md)
+Movement 42 of 48 · [This room](../ROOM.md) · [← Previous](41-s5-p4-bimba-energy-fields.md) · [Next →](../../07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md)
 <!-- /reader-navigation -->
 
 ## Movement
@@ -40,4 +40,4 @@ The section now returns through its parent field. Central gave meaningful contin
 
 This is the product field’s Epi-Logos. Philosophy is reflected in technology strongly enough that actual technological encounter can answer back, refine the philosophical mapping and alter what is built next. The next station therefore begins not with another product but with the instrument returning into the world and life whose means it has learned to recognise.
 
-**Owning product:** [S5 — Quaternal Logic](../../../symbolon/episteme/products/S5-Quaternal-Logic.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M42](../P1-CANONICAL-ALIGNMENT.md#p1-m42) remains to be reconciled in the section-flow pass.
+**Owning product:** [S5 — Quaternal Logic](../../../symbolon/episteme/products/S5-Quaternal-Logic.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M42](../P1-CANONICAL-ALIGNMENT.md#p1-m42) now records the canonical six-product alignment and the inherited research-vector depth.
