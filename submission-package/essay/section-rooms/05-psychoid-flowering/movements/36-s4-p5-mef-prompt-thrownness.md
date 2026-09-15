@@ -29,11 +29,17 @@ MEF makes the perspectival reversal inspectable. Every account can be read outwa
 
 The long [[symbolon/episteme/sources/process-systems-theory/bohm/bohm-krishnamurti-1975-05-18-dialogue/SOURCE|Bohm–Krishnamurti dialogues]] model this movement as practice: neither speaker merely deposits a position; assumptions are unfolded, perceived, tested, revised, and returned to the common question. Bohm's later account of dialogue as meaning moving through a group supplies the human-scale precedent for MEF's inspectable stream of lens-conditioned transformations.
 
+The product field now receives this work through **whole lens-pairs rather than isolated lens labels**. Central is disclosed by L0 Quaternal × L5′ Divine Logos; Actuation by L1 Causal × L4′ Scientific; AIKit by L2 Logical × L3′ Chronological; Software Factory by L3 Processual × L2′ Alchemical-Elemental; Workcell by L4 Phenomenological × L1′ Phenomenal; Quaternal Logic by L5 Para Vāk × L0′ Archetypal-Numerical. Each pair discloses one whole aspect of Objective Internality. The six products are not distributed across lens subpositions, and S is their parent field rather than a seventh product.
+
+This prepares the decisive transition into §5. The knower–means–known relation already established by the crossed-zero field now receives a concrete sixfold disclosure of the **means**: meaningful continuity, living articulation, potency, transformation, situated existence and Transcendent Relation. Philosophy does not hand over to technology at the boundary. The technical field becomes one place where the philosophical operations can be made inspectable and where actual encounter can return a correction to the philosophy.
+
 ## Tension / limit
 Agent-generated phenomenology is admissible as disclosure of the modelled context-world and its language. Ontological conclusions about phenomenal subjectivity require independent warrants. The cited Agentworld experiment is Polylogos Discord; Moltbook requires independent sourcing.
 
+The assigned product pairs do not certify product implementations. They state the philosophical offices whose technological realisation must be tested separately. A successful feature does not prove the philosophy; a failed implementation can still expose a mistaken mapping, a poor discriminator or an unexamined condition that the philosophy must absorb.
+
 ## Anchor and transition
-**Image:** spectroscopy of one QL light through multiple lenses. It opens the operational field in [[37-s5-p0-math-moves-meaning|§5 · #0 — Mathematics Already Moves as Meaning]].
+**Image:** spectroscopy of one QL light through multiple lenses. The refractions now gather into six whole aspects of Objective Internality, opening with [[37-s5-p0-math-moves-meaning|§5 · #0 — Central — Meaningful Continuity]].
 
 The [complete stained-glass whole](../../../symbolon/mytheme/worlds/frank-taylor/stained-glass-refraction/WHOLE.md#stained-glass-panes-seams) **figures** the source-specific refractions carried here: QL belongs to the light’s harmonic order; MEF supplies the media, angles and joins; a situated display returns through their conditions. A changed source can therefore reach the lens, gauge or exclusion which made the prior account possible.
 
