@@ -1,67 +1,43 @@
 ---
-title: "§5 · #5→0 — Six Research Vectors"
+title: "§5 · #5 — Quaternal Logic — Transcendent Relation"
 source_id: 42-s5-p5-research-vectors
+aliases: ["Six Research Vectors → Model-Revising Encounter"]
 node_type: section
 page_type: section-movement
 station: "§5"
-position: "#5→0"
+position: "#5"
 sequence: 42
-claim_status: Offered
-evidence_status: executable-programme
-source_ids: [lecun-et-al-2006-energy-based-learning]
-tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/research-vector, station/s5, position/p5]
+claim_status: Argued
+evidence_status: mixed
+source_ids: [taylor-2026-oi-product-field-commission, taylor-2026-core-theorems-pithy]
+tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/agentworld, station/s5, position/p5, product/quaternal-logic]
 ---
-# §5 · #5→0 — Six Research Vectors
+# §5 · #5 — Quaternal Logic — Transcendent Relation
 
 <!-- reader-navigation -->
-Movement 42 of 48 · [This room](../ROOM.md) · [← Previous](41-s5-p4-bimba-energy-fields.md) · [Next →](../../07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md)
+Movement 42 of 48 · [This room](../ROOM.md) · [← Previous](41-s5-p4-bimba-energy-fields.md) · [Next →](../../07-instrument-returns/movements/43-s6-p0-instrument-return.md)
 <!-- /reader-navigation -->
 
-## Claim
-The arche-topos becomes researchable through six discriminating programmes: seam retention, gauge disclosure, lens refraction, topological continuity, QL recursion and deferential return.
+## Movement
 
-Taken together, the vectors investigate **world–agency composition through an explicit epistemic field**: which conditions make a determinate world available to an operative interior, how those conditions are represented in the [[symbolon/episteme/concepts/bimba-pratibimba|Bimba Map]], how situated agency appears as Pratibimba relative to that reference field, which powers the interior can exercise, and which returned consequences can revise either the agency or the field that grounded its reading.
+**Quaternal Logic is Transcendent Relation:** the movement through which unity differentiates without ceasing to be whole, difference enters relation, and an internality remains open to the larger wholes in which its distinctions arise. This is the culmination of the six product movements because each previous office is already relational: a ground belongs to histories, an act exceeds itself in consequence, a capability depends on context, a transformation enters a community, a situation belongs to a wider world.
 
-## Warrant — six ways to test first-class epistemics
+The whole pair is **L5 Para Vāk × L0′ Archetypal-Numerical**. Para Vāk gives Anuttara/Asambhava, Para Vāk, Paśyantī, Madhyamā, Vaikharī and Mātṛkā: the vertical movement from what precedes determination through undivided word-power, vision, inner articulation, expressed articulation and the differentiating matrix of manifest signification. Archetypal-Numerical gives Unity, Duality, Triad, Quaternity, Pentad and Hexad: one becoming difference, difference mediated, mediation stabilised as field, field developed and the whole articulated for recursive return.
 
-### E1 · Seam retention
+QL therefore concerns more than formal reasoning. It gives the essay a language for how wholes become internally structured and how a whole at one scale can enter another relation without losing its own integrity. The sixfold `{0,1}` with `{00,01,10,11}` formalises this: singles and pairings are both required. Relation cannot be reduced either to isolated terms or to a web which dissolves the terms it relates.
 
-Compare output-only agents with runs whose Bimba field retains source, evidence, prompt/context provenance, exclusions, transformations and consequential actions. The question is whether preserving the seam changes correction, delegation and explanation rather than merely producing a richer log.
+Dia and syn become operational here. **Dia** preserves the differentiating axis and distinguishes its failures: cancellation into `0`, appropriation into `±2`, or retention of the returning `/0` until recognition can become `0/1`. **Syn** reads the slash as AND/OR, holding `0/1` and `1/0` as obverse orientations whose outer relation is itself meaningful. The two logics are not the diachronic/synchronic distinction; succession and co-presence can each preserve or destroy relation.
 
-### E2 · Gauge disclosure
+A/C’s local QL constitution makes the field addressable through Subject/Ref/QLAddress; QLForm, Lens and State6; Operator and VĀK instruction; Relation, Conjugacy, Cross relation and nesting; ContextFrame and MEF address; then Synthesis, provenance, conformance evidence and returned differentiation. The governing rule is simple: **a primitive remains alive when its generating relation remains operable — what it relates, what difference it makes, how that difference becomes actual and what returns.**
 
-Make comparison sets, evaluator/reference policies, source authority and weighting explicit inside the epistemic field. Vary them and test whether apparently stable judgments move. [[40-s5-p3-preference-hidden-zero|The Hidden Zero]] becomes experimentally tractable when the gauge is part of the Bimba object rather than an invisible condition outside it.
+The six inherited research vectors now return to this culmination as experiments rather than sovereign movements. Seam retention, gauge disclosure, lens refraction, topological continuity, QL recursion and deferential return test whether distinctions developed across the six products actually alter operation. Their value lies in the possibility of a contrary result: a failed implementation can expose a weak mapping, a bad discriminator or a philosophical assumption that needs refinement.
 
-### E3 · Lens refraction
+Transcendent Relation reaches its ethical strength in co-internality. Self and Other can be distinct while belonging to a whole that contains their relation; one Life can enter another’s Objective Internality without becoming its possession. No final super-agent is required. The wider whole is the relation through which local differences remain real and consequential.
 
-Hold source/world-objects sufficiently stable while changing declared MEF lenses. Compare the resulting Pratibimba: what becomes salient, near, excluded, doubtful or actionable in each [[symbolon/episteme/concepts/j-space|J-Space]]? The experiment asks whether plural readings can remain source-related and mutually legible without averaging into one ontology.
+## 5→0 return
 
-### E4 · Topological continuity
+The section now returns through its parent field. Central gave meaningful continuity; Actuation living articulation; AIKit potency; Factory transformation; Workcell situated existence; QL Transcendent Relation. Together they disclose six aspects of Objective Internality, the means by which a Life inhabits a World. The achieved articulation does not become its own source. It returns as `0/1`: a formed `1` held in relation to the ground and Life which made it possible.
 
-Treat the Bimba Map as the reference field over which Energy-Based, attractor, graph or topological methods read agency trajectories. Test basin stability, transitions, contradictions and phase changes across context perturbations. The EBM earns epistemic meaning only because its energies and movements are related to an explicit reference field; otherwise it is another self-contained score landscape.
+This is the product field’s Epi-Logos. Philosophy is reflected in technology strongly enough that actual technological encounter can answer back, refine the philosophical mapping and alter what is built next. The next station therefore begins not with another product but with the instrument returning into the world and life whose means it has learned to recognise.
 
-### E5 · QL recursion
-
-Test nested Context Frames in which an achieved field becomes the local Bimba/`0` for determinations inside it while remaining a determination relative to a wider context. Measure whether source/reference scope and transition between frames remain explicit. This is the executable form of the contextual-office law rather than a sixfold labelling exercise.
-
-### E6 · Deferential return
-
-Introduce counter-evidence, resistant world conditions, other internalities, dissent and changed consequences. Measure whether the Pratibimba alone changes or whether the returned relation properly forces revision of the Bimba Map, lens, gauge or governing frame. [[symbolon/episteme/arguments/A31-Deferential-Intelligence|Deferential Intelligence]] and [[symbolon/episteme/concepts/C43-Computational-Vimarsa|Computational Vimarśa]] are strongest where the system can revise the conditions of its own determination rather than merely append an uncertainty disclaimer.
-
-These vectors can vary memory, source access, permissions, gauges, tools, sensorium, action-space, context composition, other internalities and return conditions without assuming that additional context automatically constitutes a richer world. The minimal/maximal distinction is an experimental envelope, not an intelligence ladder; its governing limits are recorded in [PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE](../../../../../working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md).
-
-## Tension / limit
-[Each vector needs a baseline, metric, failure condition and counter-hypothesis](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#world-agency-and-local-original). None may manufacture a claim of machine subjectivity, treat the Bimba Map as a final metaphysical world, or infer truth from internal coherence alone. The map is epistemically useful because its grounds are explicit and revisable, not because its local Bimba office makes it infallible.
-
-Current O:I products may supply executable conditions for these tests only where their authored roles and implementation make a distinct world–agency or epistemic relation variable or inspectable. Returned failures and null results remain evidence capable of revising the proposed correspondence.
-
-The [travelling-jigsaw whole](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **tests** the atlas proposal by carrying filter, cover, local clustering and nerve construction into a specified research route. Sheaf restriction and gluing offer a distinct test of compatibility. A disclosed obstruction remains a result to investigate; neither route counts as implemented through the image alone.
-
-## Anchor and transition
-**QL anchor:** every experiment performs the `1/0` return by declaring origin, exclusion, lens, reference field and limit. Sustaining such inquiry requires an institution in [[43-s50-p0-theory-vocation-compassion|§5→0 · #0 — From Theory to Vocation]].
-
-The research programme **returns-to** [Count-to-Account](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-to-account) by making encounter discriminable in a subsequent judgment. An answering participant can challenge an attribution; the trial must show whether source, representation, evaluator or permission changed through that challenge. The account retains its conditions and result, including a null finding, so the proposed revision route is not certified by its own description.
-
-The next research cycle **returns-to** [Resolution-in-Reconciliation → Anamnesis / Recognition / Return](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#resolution-in-reconciliation) with the conditions and consequence of its prior result retained. Con-text-through-Diaphaneity makes them available for Regard; resolution carries a warranted change, or a warranted retention, into the next trial. A new summary of the old result does not demonstrate that change. The programme remains Offered until actual comparisons distinguish these outcomes.
-
-The [authored P1 route for M42](../P1-CANONICAL-ALIGNMENT.md#p1-m42) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
+**Owning product:** [S5 — Quaternal Logic](../../../symbolon/episteme/products/S5-Quaternal-Logic.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M42](../P1-CANONICAL-ALIGNMENT.md#p1-m42) remains to be reconciled in the section-flow pass.
