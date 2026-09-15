@@ -9,13 +9,17 @@ sequence: 29
 claim_status: "Mixed: Derived (local topology and ratio identities) / Argued (toroidal and harmonic QL coordination) / Offered (4+2 and Pythagorean amplifications)"
 evidence_status: mathematically-explicit-with-comparison-boundaries
 source_ids: [scholtz-1998-algorithms-diatonic-keyboard-tunings, iter-what-is-tokamak]
-tags: [epi-logos/antykathera-essay, argument-map/live, argument-map/section, argument-map/mathematical, argument-map/musical, argument-map/proof-spine, argument-map/process-ontology, station/s3, position/p4]
+tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/mathematical, argument-map/musical, argument-map/proof-spine, argument-map/process-ontology, station/s3, position/p4]
 ---
 # §3 · #4 — Topology and Musical Resolution
 
 <!-- reader-navigation -->
 Movement 29 of 48 · [This room](../ROOM.md) · [← Previous](28-s3-p3-projective-dimensional-reframing.md) · [Next →](30-s3-p5-arche-topos.md)
 <!-- /reader-navigation -->
+
+## Claim
+
+Topology and music give two **distinct exact witnesses** for the essay's authorial operation of return through retained difference. A torus can carry local closure while a lift retains global displacement; a selected musical span can be completed by an exact multiplicative interval. Their coordination is Argued. Neither witness derives QL, and neither is identified with the other.
 
 ## Toroidal circulation — exact topology first
 
@@ -83,9 +87,9 @@ In standard just/Pythagorean ratio language, `4/3` and `3/2` name fourth and fif
 
 Music is powerful here because relation is perceptually primary. A pitch can be specified by frequency, an interval by ratio, and consonance/dissonance by relations among sounding components under a tuning and listening context. Cadence can return to a tonal centre without deleting the temporal path by which the return was heard. The mathematical ratios do not prove the phenomenology of musical resolution, but they give it an exact quantitative surface.
 
-## Space and time as two bounded disclosures
+## Warrant — space and time as bounded disclosures
 
-Topology and music therefore disclose different operations:
+Topology and music disclose different operations:
 
 - the torus/cover relation shows a path closing locally while retaining winding or displacement;
 - the selected musical ratios show one span completed by a determinate multiplicative interval.
@@ -95,6 +99,10 @@ The essay coordinates them as spatial and temporal witnesses of **return through
 Cymatics supplies a further material bridge only under boundary conditions: standing waves can produce visible nodal patterns in a driven medium. A sounded dynamic and a visible pattern can therefore be different measurements of one physical process. That fact can support later nāda/vāk or expression comparisons, while leaving conscious, symbolic and physical registers distinct.
 
 [Homologia / Analogia](../../../symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD.md#e5-whole-returns) **qualifies** the coordination through what each exact witness preserves. The lifted torus path retains a homotopy/winding class, not every detail of the journey. The musical product retains `9/8` as the factor completing the selected `16/9` ratio to `2/1`. Their comparison is the authorial return through difference; it supplies no physical equivalence between vector displacement and interval.
+
+## Tension / limit
+
+The mathematical and physical witnesses remain deliberately non-totalising. `χ=0` does not mean metaphysical Zero; `4g+2g=6` does not derive the QL sixfold; tokamak confinement does not prove a universal toroidal ontology; ratio identity does not by itself entail musical, psychic or metaphysical resolution. The station earns its synthesis only by preserving these local truths and then stating the authorial relation that coordinates them.
 
 ## Transition
 
