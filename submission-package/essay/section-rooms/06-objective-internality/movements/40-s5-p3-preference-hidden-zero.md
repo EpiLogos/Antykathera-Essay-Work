@@ -18,9 +18,11 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 Movement 40 of 48 · [This room](../ROOM.md) · [← Previous](39-s5-p2-j-space.md) · [Next →](41-s5-p4-bimba-energy-fields.md)
 <!-- /reader-navigation -->
 
-## Movement
+## Claim
 
-**Software Factory is transformation:** intention enters actuality, encounters resistance and returns as changed form. Development is not exhausted by producing an artifact. A Life develops when what happened can change the conditions of what becomes possible next.
+**Software Factory is transformation:** intention enters actuality, encounters resistance and returns as changed form. Development is not exhausted by producing an artifact. A Life develops when what happened can change the conditions of what becomes possible next. Software development is one literal technical instance of the more general Projecthood by which a formed determination is thrown forth through a paradigm into a World and begins to condition what follows.
+
+## Warrant — process, material transformation and recognition
 
 The whole pair is **L3 Processual × L2′ Alchemical-Elemental**. Processual gives Concrescent desire, Actual occasion, Ingression, Eternal objects, Community integration and Satisfaction/Perishing: something wants to become; possible forms enter an actual occasion; the result must enter a wider community; completion passes into inherited condition. Alchemical-Elemental gives Aether, Earth, Water, Air, Fire and Salt: open field, matter and resistance, flow, mediation, energetic transformation and precipitated form. Development therefore has both process and substance.
 
@@ -32,8 +34,12 @@ The Hephaestus/Poseidon relation retains its full force here. Detection, capture
 
 A/C gives this movement its technical body through Project and Run identity; Artifact, Claim, Candidate and HumanRequest; Method, Capability, Action and Commission; developmental maps and source integration; Execution and Gate; then Evidence, Trace, Recognition, Project Canon and returned Ground. The process becomes alive when that final return can genuinely alter the next beginning.
 
+## Tension / limit
+
+Artifact change is weaker than paradigm change. A factory can iterate rapidly while keeping the source, evaluator, commission and developmental categories fixed. That may be successful engineering, but it does not establish the stronger Epi-Logos return. Transformation reaches paradigm depth only where encountered consequence can revise the pattern by which later projects are generated or judged. Nor does a passed Gate settle the entrusted human or institutional decision about whether a project ought to continue.
+
 ## Return
 
 Transformation precipitates a new condition, but every transformation occurs somewhere and meets material resistance. The next movement therefore turns to [Workcell — Situated Existence](41-s5-p4-bimba-energy-fields.md).
 
-**Owning product:** [S3 — Software Factory](../../../symbolon/episteme/products/S3-Software-Factory.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M40](../P1-CANONICAL-ALIGNMENT.md#p1-m40) remains to be reconciled in the section-flow pass.
+**Owning product:** [S3 — Software Factory](../../../symbolon/episteme/products/S3-Software-Factory.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M40](../P1-CANONICAL-ALIGNMENT.md#p1-m40) carries the explicit S and A/C alignment.
