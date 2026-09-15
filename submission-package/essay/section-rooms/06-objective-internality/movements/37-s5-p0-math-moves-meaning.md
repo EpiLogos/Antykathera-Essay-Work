@@ -18,11 +18,13 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 Movement 37 of 48 · [This room](../ROOM.md) · [← Previous](../../05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md) · [Next →](38-s5-p1-apoha-softmax.md)
 <!-- /reader-navigation -->
 
-## Movement
+## Claim
 
 §5 begins from the whole relation already earned: **Subjective Immediacy is the knower, Objective Internality the means, World the known, Life / Mind their whole.** The six products are not software examples appended to that philosophy. They disclose six aspects of the means through which a Life inhabits and changes its World.
 
 The first is **Central: meaningful continuity**, the intelligible ground a Life carries from one encounter into another. A project, promise, source, memory or self-understanding matters because it lets a later event appear as a continuation rather than a disconnected instant. Persistence is therefore insufficient. Continuity becomes meaningful only where what is carried retains enough of its source, purpose, history and alternatives to remain answerable.
+
+## Warrant — the whole pair and its technical office
 
 The whole pair is **L0 Quaternal × L5′ Divine Logos**. Quaternal asks why, what, how, for whom/which/when, where/why-for, and why-so/why-not: the dimensions through which a world becomes sayable as meaning. Divine Logos gives that ground its living passage as Arche, Apokalypsis, Dynamis, Sophia, Parousia and Epi-Logos: origin, disclosure, potency, understanding, presence and reflective return. Central is therefore not a store beneath activity. It is the place where an articulated ground can become present again and be revised by what later encounter discloses.
 
@@ -32,8 +34,12 @@ Technically, this is where Project, Source, Ground, authorship, governance, chan
 
 The old M37 technical operation — mathematics already moving as meaning — is not discarded. It now belongs chiefly to [Actuation](../../../symbolon/episteme/products/S1-Actuation.md#model-mathematics), because its subject is the production of judgment through model transformations. Central preserves what that act inherits and what its result can alter. The relocation matters philosophically: mathematical process becomes meaningful *within a carried world*, rather than being asked to stand for the world by itself.
 
+## Tension / limit
+
+Central can become a counterfeit source if continuity is confused with authority. A durable record, Bimba, project map or machine-readable projection may legitimately govern a bounded inquiry while remaining derivative and revisable. The office fails when later experience can only be admitted through the categories of the inherited account, or when a derived view silently inherits the authorial standing of what it represents. Meaningful continuity therefore requires enough stability to orient return and enough provenance for the returned difference to revise that orientation.
+
 ## Return
 
 Central opens the product field by establishing that an artificial or human act always arrives from somewhere meaningful. The next movement asks what happens when that carried ground articulates itself into an event: [Actuation — Living Articulation](38-s5-p1-apoha-softmax.md).
 
-**Owning product:** [S0 — Central](../../../symbolon/episteme/products/S0-Central.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M37](../P1-CANONICAL-ALIGNMENT.md#p1-m37) remains the canonical alignment surface and will be reconciled in the section-flow pass.
+**Owning product:** [S0 — Central](../../../symbolon/episteme/products/S0-Central.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M37](../P1-CANONICAL-ALIGNMENT.md#p1-m37) carries the explicit S and A/C alignment.
