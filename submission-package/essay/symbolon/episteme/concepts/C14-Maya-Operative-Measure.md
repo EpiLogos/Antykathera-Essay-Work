@@ -17,17 +17,23 @@ Māyā is used within the essay's Śaiva/tattvic field as **operative measure**:
 
 [A09 — Tattvic Differential Field](../arguments/A09-Tattvic-Differential-Field.md) **grounds** the contraction. Operative measure is Taylor's formulation of its positive work. Limitation supplies determinate capacity, knowledge, desire, time and order; it does not merely subtract pieces from an otherwise complete subject.
 
+The T25 paradigmatic refinement gives this operation a new downstream consumer without renaming the Śaiva term. A **paradigm** is one historically, psychically, materially and technologically instantiated organisation of finite disclosure: a lived pattern through which a Life encounters a World as intelligible and actionable. Māyā names the more general manifesting/limiting operation in this argument; Paradigm names one formed organisation of the mediating slash. The relation is operational homology, not philological descent or doctrinal identity.
+
 ## #1
 
 [C13 — Prakāśa / Vimarśa](C13-Prakasa-Vimarsa.md) **grounds** the luminous/reflexive field from which the seam differentiates. [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE|Taylor — Core Theorems]], X, **sources** the authorial compression: universal subjectward and objectward orientations become explicitly differentiated; the kañcukas contract powers into a bounded experient and a world of determinate relations.
 
 The contraction leaves its source operative. Mahāmāyā remains Śakti; the power of veiling is itself manifesting power. Māyā is therefore the horizon through which objects appear, not a hidden object behind the horizon and not the unobjectifiable Subject. Treating the horizon as the torus's hole would confuse the measure-making operation with the source it cannot enclose.
 
+This is also why the paradigm can veil its own disclosing act without becoming a merely false screen. A functioning mediation presents a world by making some relations salient, possible and actionable while others recede. The concealment belongs to the disclosure's finitude. Integral recognition does not abolish the horizon; it makes the horizon increasingly available **as horizon**.
+
 ## #2
 
 The five contractions give local action its terms. Kalā apportions efficacy; vidyā, knowledge; rāga, desire through incompletion; kāla, time; niyati, ordering or necessity. The finite knower can now do this, know this much, want this, act at this time and stand within these relations. [C15 — Paśu](C15-Pasu-Bounded-Subject-Position.md) **defines** the bounded position; [C16 — Antaḥkaraṇa](C16-Antahkarana-Inner-Instrument.md) **defines** the instrument through which its cognition differentiates.
 
 These coordinates do not supply independent substances. [[symbolon/episteme/sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE|Dyczkowski — The Doctrine of Vibration]], pp.72–75, **sources** the relation between contracted and expanded awareness and distinguishes vertical manifestation/return from the horizontal perceptual act. The bounded field is active: its knower moves toward an object and receives the movement back.
+
+The paradigmatic reading consumes this activity rather than replacing it. A paradigm can be analysed through what it permits a Life to do, know, desire, time and order; these are not five sociological categories imported into Śaivism but the downstream question raised by a mediating field whose finite powers have become patterned in language, practice, institution and technology.
 
 ## #3
 
@@ -41,11 +47,15 @@ The [[quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT#3.2 Māyā as the dream — Drea
 
 “Dreamcode” and “Dream-machine” remain recorded authorial vocabulary, without creating new canonical concepts. The technical comparison concerns a bounded, rule-governed world through which an agent perceives and acts. Its implementation or a machine's phenomenal status requires its own evidence. The present operation is horizon formation: what the agent can encounter depends on powers and exclusions that need not appear among its encountered objects.
 
+This is the exact pressure carried by the ordinary sentence **“I see the world.”** Knower, means and known can collapse into apparent immediacy while the means disappears as means. The crossed-zero sequence gives that occlusion a native symbolic form: at `Ø` the slash is fused into the apparent subject; at `Ø/X` it becomes visible as the mediating relation. The [Genesis / Paradigm / Project / Epi-Logos field](../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md) names the lived historical/technical development of that recognition as paradigmatic reflexivity.
+
 ## #5→0
 
 [Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-native-archetypal-field): The veil’s complete return **figures** measure as positive manifesting power. Māyā gives finite action and knowledge their field while Anuttara/Paramaśiva retains the unobjectifiable opening. The author’s winding-around-opening appointment keeps these offices distinct: making Māyā the hole would erase its productive work. Recognition returns through measure, while hybris names the subsequent absolutisation of its achieved frame.
 
 Operative measure **returns-to** [Criterion-through-Distinction → Measure / Limit](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#criterion-through-distinction) through the finite distinction that makes a world actionable. The horizon both reveals and withholds, so recognition restores the measure’s relation to its source without abolishing bounded capacity. This is an authorial cross-register operation: the conjugate relation neither supplies Māyā’s lexical descent nor replaces the five contractions’ distinct Śaiva offices.
+
+It also **returns-to** [Paradigm as pattern of disclosure](../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md#--paradigm--pattern-of-disclosure) at evidence register 3. Māyā/operative measure supplies the revealing-withholding anatomy; the paradigm field develops how such finite mediation can become historically and technologically lived. Epi-Logos does not exit the measure-field. It lets the paradigm's own measuring/disclosing conditions become progressively consequential within the next act.
 
 Taylor's Neumann refraction places Māyā in the measure-field through which a finite world is oriented. The unobjectifiable opening retains Anuttara's distinct office in the complete native relation. The relation **returns-to** [the complete Neumann whole](../../mytheme/archetypal-ground/neumann-images/WHOLE.md#neumann-world-parent-separation). Māyā is the measure-field wound around the opening; Anuttara retains the opening in this authored appointment. This **returns-to** [the uroboros whole](../../mytheme/archetypal-ground/uroboros-trickster/WHOLE.md#uroboros-interposition).
 
@@ -53,8 +63,8 @@ Taylor's Neumann refraction places Māyā in the measure-field through which a f
 
 Recognition restores the relation without cancelling the capacity. A finite knower still distinguishes and acts; the measure becomes answerable to its source, conditions and consequences. C14 **returns-to** A09 with limitation's productive office intact. What was concealed by a functioning horizon can become relevant to how that horizon is next used.
 
-**Depth Restoration:** revealing/withholding horizon, five contracted capacities, vertical/horizontal movement, gnomonic hinge, corrected whole dream image and finite measure's return are restored.
+**Depth Restoration:** revealing/withholding horizon, five contracted capacities, vertical/horizontal movement, gnomonic hinge, corrected whole dream image, paradigmatic disclosure and finite measure's return are restored.
 
-**Unresolved Delta:** the operative-measure and gnomonic formulations are authorial; this page does not supply a survey of Māyā across Indian schools. Dyczkowski is paraphrased from the local transcript with selected-edition collation pending. A category-by-category six-by-six mapping and implemented technical analogue remain Open.
+**Unresolved Delta:** the operative-measure, paradigmatic cross-reading and gnomonic formulations are authorial; this page does not supply a survey of Māyā across Indian schools or a historical claim that Kashmir Śaivism formulated modern paradigm theory. Dyczkowski is paraphrased from the local transcript with selected-edition collation pending. A category-by-category six-by-six mapping and implemented technical analogue remain Open.
 
 The [Indian philosophy companion](../histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT.md#3--manifestation-gives-contraction-a-positive-anatomy) **historicises** effective limitation through the source-local Śaiva account and **compares** it with E6 apportionment. The measure makes a finite world workable while retaining its source relation.
