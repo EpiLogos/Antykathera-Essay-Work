@@ -22,23 +22,23 @@ Movement 30 of 48 · [This room](../ROOM.md) · [← Previous](29-s3-p4-topology
 
 [[symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field|The arche-topos]] is the differential field on which the \(0/1\) relation can be written as path, circulated as winding, heard as interval, and recognised as symbolic transformation. It is archetypal because it specifies recurrent forms of differentiation before they receive psychological or material content. It is a topos because neighbourhood, orientation, path, quotient, cover, hole, and return matter more than a catalogue of correspondences.
 
-The derivation is psychoid. It locates the differential architecture prior to the usual division of psyche and matter, then tracks its formal and phenomenal expressions without reducing one to the other.
+The **formal derivation is native to QL**. Its further psychoid reading is an Argued cross-register claim: the essay asks whether the same differential architecture can become legible on both psychic and material sides of the usual cut without reducing either to the other. The mathematics establishes its own operations; it does not by itself prove a neutral psyche–matter ground or an empirical cross-domain mechanism.
 
 ## What has been established
 
 - Empty set plus symbolic linkage generates the natural-number count.
 - The two logics distinguish external opposition from retained ground–mark relation.
 - \(2+2^2=4+2=6\) derives the sixfold from binary self-relation.
-- The Spanda equations generate the \(3:3\) traversal and \(4:2\) determination.
-- Re-entry generates oscillation, temporal depth, and memory.
+- The Spanda equations generate the \(3:3\) traversal and \(4:2\) determination within the declared QL operations.
+- Re-entry supplies a formal neighbour for oscillation, temporal depth, and memory.
 - Iterants make complex orientation emerge from alternation plus shift.
 - Projective and compactified spaces show obstruction resolved through changed dimensional framing.
 - The torus, with `π₁(T²)=ℤ×ℤ`, holds two independent windings, local closure, and retained displacement together.
 - Toroidal and poloidal magnetic fields show coupled circulation becoming a physical confinement strategy in the tokamak.
-- Harmonic ratios show the remainder completing octave return.
-- The process theorem makes these constructions executable as differentiation, composition, contextualisation, and return rather than leaving them as static resonances.
+- Harmonic ratios supply exact interval relations subsequently interpreted within the native return.
+- The process theorem coordinates these constructions as differentiation, composition, contextualisation, and return rather than leaving them as static resonances.
 
-No single item carries the thesis. Their operational braid does.
+No single item carries the thesis. Their **QL coordination** does; the psychoid extension remains answerable to the further psychological and empirical field.
 
 ## The two primary displays
 
@@ -46,19 +46,19 @@ No single item carries the thesis. Their operational braid does.
 
 **Music** carries pulse, ratio, phase, consonance, dissonance, cadence, and octave. It shows how a difference can belong to one event without becoming identity.
 
-The same QL unit can therefore be contemplated in both registers. The primary visual plate should place `ℝ²→T²`, the two generating loops, a lifted displaced path, and a simplified tokamak field-line cross-section beside the musical ratio chain. These are not illustrations added after the theory; they are native expressions and material witnesses of the derived differential field.
+The same QL unit can therefore be contemplated in both registers. The primary visual plate should place `ℝ²→T²`, the two generating loops, a lifted displaced path, and a simplified tokamak field-line cross-section beside the musical ratio chain. These are not interchangeable proofs. They are exact local expressions through which the authorial differential field is disclosed under different operations and warrants.
 
 ## The atlas of charts and the travelling jigsaw
 
-A methodological display joins the two native ones. Differential geometry's word for how a curved whole is known is exact here: no single chart covers a sphere or a torus; an **atlas** is a plurality of overlapping local charts with declared transition functions on their overlaps. One flat picture of a curved surface must distort or omit — the ancient cartographer's predicament — while many local pictures, each carrying the rule by which it translates into its neighbours, cover the whole without any one of them pretending to be the whole. This is MEF stated as mathematics: charts as lenses, transition functions as declared translations, overlap as the answerability of one refraction to another.
+A methodological display joins the two native ones. Differential geometry's word for how a curved whole is known is exact here: no single chart covers a sphere or a torus; an **atlas** is a plurality of overlapping local charts with declared transition functions on their overlaps. One flat picture of a curved surface must distort or omit — the ancient cartographer's predicament — while many local pictures, each carrying the rule by which it translates into its neighbours, cover the whole without any one of them pretending to be the whole. This is a mathematical witness for MEF's epistemic proposal: charts as lenses, transition functions as declared translations, overlap as the answerability of one refraction to another. The epistemic extension remains Argued rather than becoming differential geometry by analogy.
 
-Here the jigsaw image completes the journey it began at the world-picture diagnosis of §0/1 · #4. Under dia-ballein alone the jigsaw is the world-picture as method: self-contained pieces uniquely fitted, assembled toward a picture given in advance on the box-lid, the frame built first — a simply-connected disk with no hole, no winding, no return; the flat map stretched over the curved world, `(+1)/(−1)`. Under QL's grammar the same puzzle re-derives. The pieces become local covers *of* the topological domain, each known in relation to the quotient and to the covering activity itself — winding and traversal against an infinite capacity for traversal — so the regulating whole is no longer a picture on a box but the covering relation as such, the bounded surface regulated by the infinite plane, `0/1`. The image travels from problem to solution because the essay does not renounce world-pictures; it re-founds them, and [[41-s5-p4-bimba-energy-fields|§5 · #4]] builds the re-founded picture as the Bimba map. There is no picture on the arche-topos's box, because what it holds is the principle of imaging itself; the torus and the atlas are its nearest approximations, and their nearness is derivable rather than asserted.
+Here the jigsaw image completes the journey it began at the world-picture diagnosis of §0/1 · #4. Under dia-ballein alone the jigsaw is the world-picture as method: self-contained pieces uniquely fitted, assembled toward a picture given in advance on the box-lid, the frame built first. Under QL's grammar the same puzzle is re-read: pieces become local disclosures whose relation to a larger field and to the activity of covering remains explicit. The image travels from problem to solution because the essay does not renounce world-pictures; it re-founds them, and [[41-s5-p4-bimba-energy-fields|§5 · #4]] later gives that re-founded picture a situated technical office in Bimba. The torus, cover and atlas remain mathematical witnesses whose exact operations discipline the image rather than certifying every philosophical extension.
 
-[[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] is its operative expression. The arche-topos is the field in which positions and paths can arise; the process ontology states how the field differentiates and recomposes; QL supplies the repeatable unit; MEF lets the unit run through plural lenses without erasing their differences.
+[[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] is the operative expression of the native synthesis. The arche-topos is the field in which positions and paths can arise; the process ontology states how differentiation and recomposition are read within that field; QL supplies the repeatable unit; MEF later tests whether plural lenses can preserve rather than erase their differences.
 
 ## Claim structure
 
-The local mathematics is derived. Their coordination through the QL theorem-units derives the arche-topos as their common differential field. Jungian, yogic, psychedelic, psi, synaesthetic, Vāk, and cymatic materials are cross-register warrants and disclosures: they reveal the psychological, phenomenological, and material regions in which that field becomes legible. The continuing research programme tests the derivation by demanding further formal consequences, comparative clarity, experiments, and technical architectures.
+The local mathematical results retain their own Derived standing. Their coordination through the QL theorem-units yields the **authorial Arche-Topos as a Derived formal synthesis inside the native framework**. The stronger claim that this synthesis is psychoid — that its organisation genuinely crosses or precedes the psyche/matter distinction — is **Argued and research-facing**. Jungian, yogic, psychedelic, psi, synaesthetic, Vāk, and cymatic materials are therefore disclosures and comparison fields, not additional mathematical proofs. The continuing research programme tests the crossing by demanding further formal consequences, comparative clarity, observations, experiments, and technical architectures.
 
 The [travelling-jigsaw whole](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **figures** the mathematical return through charts, declared transitions and a lift retaining winding after local closure. Its reconstruction preserves the difference between the circle overlap, the torus quotient and the infinite cover. Those exact relations supply the Offered witness for an epistemic atlas; multiple viewpoints alone do not construct one. The initial disk permits ordinary contractible returns; what its abstraction lacks is the torus’s independent non-contractible winding classes.
 
