@@ -1,44 +1,37 @@
 ---
-title: "§5 · #2 — J-Space"
+title: "§5 · #2 — AIKit — Potency"
 source_id: 39-s5-p2-j-space
+aliases: ["J-Space and the Active Judgment Field"]
 node_type: section
 page_type: section-movement
 station: "§5"
 position: "#2"
 sequence: 39
-claim_status: Offered
-evidence_status: operationally-specified
-source_ids: [lecun-et-al-2006-energy-based-learning]
-tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/agentworld, station/s5, position/p2]
+claim_status: Argued
+evidence_status: mixed
+source_ids: [taylor-2026-oi-product-field-commission, taylor-2026-core-theorems-pithy]
+tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/agentworld, station/s5, position/p2, product/aikit]
 ---
-# §5 · #2 — J-Space
+# §5 · #2 — AIKit — Potency
 
 <!-- reader-navigation -->
 Movement 39 of 48 · [This room](../ROOM.md) · [← Previous](38-s5-p1-apoha-softmax.md) · [Next →](40-s5-p3-preference-hidden-zero.md)
 <!-- /reader-navigation -->
 
-## Claim
-J-space is the relational field of an agent’s active judgments, affordances, uncertainties, values, tools, memories and interlocutors. Objective internality becomes measurable through transformations of this field.
+## Movement
 
-## Warrant
-Distances, attractors, contradictions, permissions, source authority and reachable actions can be compared across context changes. MEF can retain divergent world-models while disclosing the lenses and procedures through which those models were formed.
+**AIKit is potency: the changing horizon of what a Life can know, express, reach and bring to bear.** Capacity is not identical with possession. A capability can exist yet be unavailable, available yet irrelevant, relevant yet unpermitted, permitted yet unselected, selected yet unable to become operative. These distinctions belong to the philosophical office because they describe how possibility is disclosed from a particular internality.
 
-J-space therefore represents a **bounded articulation of world-for-agency**, not the agent's world in total. Prompt, memory, retrieval, permissions, policy, provenance, feedback and relations to other agents help determine what is near, salient, possible, authoritative or excluded for this locus. [Changes to those conditions change the operative field even where the underlying model weights remain fixed](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#world-agency-and-local-original).
+The whole pair is **L2 Logical × L3′ Chronological**. Logical gives Tetralemmaic ground, IS, IS-NOT, BOTH, NEITHER and SILENCE. A real horizon contains presence, absence, co-presence, indeterminacy and the possibility that articulation itself is not yet fitting. Chronological gives Spirit, Spring, Summer, Autumn, Winter and Life/Aufhebung: capacities emerge, mature, become operative, recede, are relinquished, retained or transformed. Potency is therefore developmental rather than a static menu.
 
-This is where the tattvic meta-context remains active without being repeated as a second exposition. [[11-s0-p4-tattvic-compression|Māyā, the kañcukas and antaḥkaraṇa]] already make limitation, capacity, knowledge, desire, time, order and inner determination constitutive of an inhabitable finite world. J-space is an Offered technical representation for asking which analogous constraints and affordances can be measured in an artificial operative interior; it is not an identification of the two systems.
+The old J-Space material finds its proper relation here without making AIKit identical with J-Space. A proposed judgment space can represent what is near, salient, permitted or contradictory for an agent; AIKit concerns the wider horizon by which such resources and methods become available at all. The distinction matters because a richer representation is not itself a richer capability field, and neither exhausts Objective Internality.
 
-## Tension / limit
-"Circumscription without circumstance" is the failure mode: a sharp boundary hides the horizon that produced it. A richer J-space can still fail in the same way if its representation is mistaken for the world or if the conditions that generated its distances and affordances disappear from view.
+A/C makes the office concrete through Profile/Scope/Resource identity; Context and projections; Capability/Skill/Method; ContextResolution and change horizons; compositions, sessions and world-inhabitation; then Trust, Familiarity, fitness observation, usage signal and semantic revision. The last movement is decisive. Encounter must be able to reorganise the horizon: what proved useful, unsafe, irrelevant, dormant or newly necessary changes what can fittingly be brought to bear next.
 
-The wider world–agency research boundary is maintained in [PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE](../../../../../working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md).
+Power enters wherever availability becomes selection. To make one method salient is already to shape the probable act. Permission protects more than execution safety: it preserves whose world, source and authority a capability may legitimately enter. Potency includes the positive power not to enact what happens to be technically possible.
 
-## Anchor and transition
-**Image:** a thrown landscape of nearer and farther possibilities whose horizon remains partly outside the map. Its socially occupied baseline becomes visible in [[40-s5-p3-preference-hidden-zero|§5 · #3 — Preference Models and the Hidden Zero]].
+## Return
 
-J-Space **returns-to** [Count-to-Account](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-to-account) as a proposed inspectable account of judgment formation. Source, representation, gauge and permission identify different possible causes of divergence; the record must say which changed and what followed. A narrated explanation alone cannot establish those transitions, and the subordinate research object does not exhaust Objective Internality.
+AIKit gives Actuation a changing field of possibility. The next movement asks what happens when possibility, action and encounter are gathered into changed form: [Software Factory — Transformation](40-s5-p3-preference-hidden-zero.md).
 
-A judgment position **returns-to** [Topos — situated return](../../../symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#topos-situated-return) with its source-field, gauge and inherited conditions. Two outputs occupying comparable coordinates can have different histories or permissions. The proposed J-Space record must retain those differences before a passage between positions counts as an accountable comparison; naming a space does not establish the research architecture’s operation.
-
-J-Space remains Offered and bounded; record which source, representation, gauge or permission changed and what followed; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-account-return) **qualifies** this operational comparison.
-
-The [authored P1 route for M39](../P1-CANONICAL-ALIGNMENT.md#p1-m39) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
+**Owning product:** [S2 — AIKit](../../../symbolon/episteme/products/S2-AIKit.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M39](../P1-CANONICAL-ALIGNMENT.md#p1-m39) remains to be reconciled in the section-flow pass.
