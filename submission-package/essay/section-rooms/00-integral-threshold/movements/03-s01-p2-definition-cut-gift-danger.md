@@ -25,13 +25,16 @@ Determination is negational and productive: it gives a knowable object by distin
 
 The terminating concept closes around what it counts; the *symbolon* retains its absent counterpart. Technical classifications likewise produce governable objects by stabilising boundaries. The problem is cognitive and political at once: a system that cannot mark the limits of its own determinations will turn provisional distinctions into natural facts, then govern through them.
 
+The previous movement made the mediating act visible in ordinary language without yet assigning it a formal sign. That withholding matters. We first need to see what a cut does: it gives a determinate object, leaves a field of excluded alternatives, and can conceal the activity by which its boundary acquired authority. Only after the formal-limit sequence has made that recurrent condition unavoidable will Zero enter as a proposed meta-sign.
+
 ## Tension / limit
 The cut remains necessary. *Neti neti* and *catuṣkoṭi* develop its negative power otherwise: apophatic refusal keeps the ground from becoming a final predicate, while the tetralemma keeps a proposition from occupying the whole field of possibility.
 
 ## Anchor and transition
 
 The cut’s gift and danger return to [E2’s criterion through distinction](../../../symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#criterion-through-distinction): Criterion distinguishes, Delineation gives that difference a workable boundary, and Arbitration decides through it. These are distinct operations. Usurpation occurs when the deciding boundary claims exemption from the continuity that enabled it; productive definition remains capable of receiving a consequence that redraws its line.
-**QL anchor:** `0 / 1`—field, differentiating slash, mark. **Image:** the broken token that signifies by relation. The Eastern semantic line is deepened in [[10-s0-p3-apoha|§0 · #3 — Apoha]]; the cut's formal and apophatic consequences lead to [[04-s01-p3-formal-limit-genealogy|§0/1 · #3 — The Formal-Limit Genealogy]].
+
+**Relational anchor:** field — differentiating act — determinate mark. The later `0 / 1` notation is intentionally withheld here so that M06 can introduce Zero as the station's earned promissory sign rather than smuggling the answer into the problem. **Image:** the broken token that signifies by relation. The Eastern semantic line is deepened in [[10-s0-p3-apoha|§0 · #3 — Apoha]]; the cut's formal and apophatic consequences lead to [[04-s01-p3-formal-limit-genealogy|§0/1 · #3 — The Formal-Limit Genealogy]].
 
 Pind semantic exclusion and Spinoza finite figure remain independent witnesses for the gift and danger of a cut; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-exclusion) **qualifies** this historical attribution.
 
