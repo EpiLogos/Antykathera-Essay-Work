@@ -18,29 +18,41 @@ Movement 16 of 48 · [This room](../ROOM.md) · [← Previous](15-s1-p2-empty-se
 
 ## Movement thesis
 
-Ø gives the argument its most economical image: zero bears a stroke, yet the stroke does not fill the zero. The sign holds absence and mark in one figure. It is the visual form of \(0/1\), the unmarked condition becoming legible through a determination that cannot exhaust it.
+`Ø` is the first occlusion in the essay's native recognition-matheme: **the mediating stroke is present, but fused into the zero it crosses**. The sign therefore does more than place a mark inside an empty circle. It images a relation whose middle has not yet been recognised as middle.
 
-The stroke is the first \(1\): distinction, name, boundary, predicate, count. The circle is zero retained through the stroke. Read compositionally, Ø shows why the subject can be indicated but not finally defined. Every definition is a mark within the field it attempts to name; none can stand outside that field and complete it.
+The movement is:
 
-## Formal payload and proof boundary
+$$
+0 \longrightarrow Ø
+$$
 
-[The Crossed Zero and the 1](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) joins three moves:
+At `0`, the unobjectifiable condition has only been indicated. At `Ø`, determination has occurred, but the act of determination is not yet differentiated from the subject-pole. The resulting figure can consequently be misread as a determinate “I” that owns or produces the world: the slash that mediates appearing has collapsed into the zero and the zero appears as a thing.
 
-1. Set theory gives \(1=\{0\}\): one is the first symbolic linkage of zero.
-2. The crossed zero composes the relation graphically: \(0\) marked by \(1\).
-3. Lacan’s \(S_1\) is the quilting signifier that institutes a field without receiving authority from a prior signifier inside that field.
+This is why **uncrossing the zero does not mean erasing the stroke**. Recognition requires the opposite: the stroke must become legible *as mediation*. The later native sequence will distinguish the world it has helped disclose, the instrument through which disclosure occurs, and the relations on both sides before returning to `0/1`. M16 carries only this first decisive pressure; the full recognition-matheme retains its later office.
 
-The empty set, crossed zero, and first signifier remain distinct objects in set-theoretic, psychoid, and Lacanian registers. They expose one problem through those different operations: a field begins to count only when a first mark operates, but that mark cannot derive itself from the count it inaugurates.
+## Formal and symbolic payload
 
-At this station the sign should remain visually exact and conceptually open. `Ø` shows representation traversing a zero-space it cannot fill. It does not yet carry the full immutable-subject sequence. The later psychoid development will show how the same stroke can function as occlusion by the inner instrument, the bar between apparent subject and object, and the meta-relation through which that occlusion becomes available to recognition.
+[The Crossed Zero and the 1](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) supplies the native authorial operation. Set theory has just given one exact representation in which zero and successor can be related. The crossed zero now leaves that local proof regime and enters the essay's Symbolon/Matheme field. Its force is **Offered** and must not be back-projected as a theorem of set theory.
+
+The figure carries three distinguishable terms even before all three are explicitly written:
+
+- the zero-space / subject-pole which cannot be exhausted as an object;
+- the mediating stroke through which determination occurs;
+- the determinate world or mark which that mediation makes available.
+
+The error of `Ø` is not that mediation exists. It is that mediation has become invisible in its success. “I see the world” contracts into an apparent `I / world` opposition because the seeing itself has disappeared into the first term. §0 already gave that hidden middle a positive anatomy; the crossed zero now gives the occlusion a compact sign.
 
 ## Writing payload
 
-This is the place for the humanity/God-of-the-gaps reversal. Once the immutable gap is recognised as the constitutive interval between ground and mark, empirical gaps no longer need to shelter a supernatural object. They can be closed by knowledge without threatening the subject-pole, because the subject was never one missing object among others.
+This is the place for the humanity/God-of-the-gaps reversal. Once the immutable gap is recognised as the constitutive interval between ground and mark, empirical gaps no longer need to shelter a supernatural object or an irreducibly human remainder. They can be closed by knowledge without threatening the Subject-pole, because Subject was never one missing object among others.
+
+The same guard applies to artificial intelligence. A capacity migrating from human performance into a machine does not reduce Subject by shrinking a list of uniquely human functions. It changes the objective account of mediation. The phenomenal location of Subjective Immediacy remains a different question.
+
+Lacan's first signifier will become a serious comparison later, in §4, where Matheme and Mytheme explicitly meet. It is **withheld here** so that the native crossed-zero operation is not made to depend on a psychoanalytic vocabulary introduced before its station has earned it.
 
 ## Transition
 
-When a determinate one returns directly toward zero, the result depends on the space that contains the operation. See [[17-s1-p4-zero-outside-math|§1 · #4 — Zero Keeps One Foot Outside Mathematics]].
+The stroke has now become a problem in its own right. When a determinate `1` returns toward zero, ordinary arithmetic makes the formal boundary explicit: what happens to `1/0` depends on the containing mathematical structure. See [[17-s1-p4-zero-outside-math|§1 · #4 — Zero Keeps One Foot Outside Mathematics]].
 
 The crossed-zero operation is native authorial work; Wittgenstein’s limit supplies no derivation of its positive return; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-practice) **qualifies** this historical attribution.
 
