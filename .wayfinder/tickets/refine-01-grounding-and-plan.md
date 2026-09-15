@@ -1,12 +1,14 @@
 ---
 title: "R1 — Recover A/C and the native theorem; amend the governing plan"
 label: wayfinder:task
-status: in_progress
+status: complete
 parent: ../maps/p2-enrichment-handoff.md
 assignee: "GPT — T25 refinement execution, 2026-09-10"
 blocked_by: []
 programme: "T25 / GitHub #26"
 created: 2026-09-10
+updated: 2026-09-15
+completed: 2026-09-15
 claimed_from: "main@53202810778122a37973868d873335b82d8d36ca"
 ---
 
@@ -36,4 +38,12 @@ Claimed from verified current `main@53202810778122a37973868d873335b82d8d36ca`. R
 
 ## Continuation — 2026-09-11
 
-Resumed from verified `main@491b8bddde0db27284919900edc39f3ea15ee3bf`, preserving R1.1. R1.2 reconciles the remaining plan-level whole/technical-instance and writing-scope conflicts, repairs stale root/source routing, and restores native declared-record effects lookup with actual-workspace regressions. See [batch returns](../../working/pre-manuscript-refinement-2026-09-10/BATCH-RETURNS.md#r12--governing-coherence-and-actual-record-identity-traversal). R1 remains in progress: full deeper-support recovery and exact source collation continue; no global authorial gate is reopened.
+Resumed from verified `main@491b8bddde0db27284919900edc39f3ea15ee3bf`, preserving R1.1. R1.2 reconciles the remaining plan-level whole/technical-instance and writing-scope conflicts, repairs stale root/source routing, and restores native declared-record effects lookup with actual-workspace regressions. See [batch returns](../../working/pre-manuscript-refinement-2026-09-10/BATCH-RETURNS.md#r12--governing-coherence-and-actual-record-identity-traversal).
+
+## Completion — 2026-09-15
+
+R1 is complete. The governing plan now carries the accepted Life/Mind — Subjective Immediacy / Objective Internality / World relation, full native recognition theorem, seven-record S family and M37–M42 product-led §5. A/C remains the protected root; its frozen ethic was not rewritten. A26/C41 and their surrounding field distinguish the whole from the mediating office.
+
+The previously named Indian chronology debt was also resolved during the authorised refinement: Abhinavagupta's conventional c.975–1025 chronology and Bhāskara II's *Bījagaṇita* at 1150 are now separately sourced, while the author's century-scale juxtaposition remains an argued relation rather than a transmission claim. Remaining passage-level source debts are publication/source-work obligations, not unresolved R1 structure.
+
+R2/R3 have since consumed this grounding without reopening the settled philosophy. T26 ratification remains external to this completion.
