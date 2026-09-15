@@ -1,66 +1,41 @@
 ---
-title: "§5 · #4 — Bimba and Energy-Based Fields"
+title: "§5 · #4 — Workcell — Situated Existence"
 source_id: 41-s5-p4-bimba-energy-fields
+aliases: ["Bimba–Pratibimba, Energy, and the World-Field"]
 node_type: section
 page_type: section-movement
 station: "§5"
 position: "#4"
 sequence: 41
-claim_status: Offered
-evidence_status: technical-proposal
-source_ids: [lecun-et-al-2006-energy-based-learning]
-tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/agentworld, station/s5, position/p4]
+claim_status: Argued
+evidence_status: mixed
+source_ids: [taylor-2026-oi-product-field-commission, taylor-2026-core-theorems-pithy]
+tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/agentworld, station/s5, position/p4, product/workcell]
 ---
-# §5 · #4 — Bimba and Energy-Based Fields
+# §5 · #4 — Workcell — Situated Existence
 
 <!-- reader-navigation -->
 Movement 41 of 48 · [This room](../ROOM.md) · [← Previous](40-s5-p3-preference-hidden-zero.md) · [Next →](42-s5-p5-research-vectors.md)
 <!-- /reader-navigation -->
 
-## Claim
-The [[symbolon/episteme/concepts/bimba-pratibimba|Bimba–Pratibimba]] relation becomes technical here by making epistemic reference itself first-class. The **Bimba Map** is the explicit reference/original field for the inquiry: a governed field of provisional world-objects, constitutive relations, provenance, lenses, gauges, exclusions and transformations against which situated agency can be read. Within this Context Frame it occupies the Bimba office. Agent states, judgments, trajectories and active [[symbolon/episteme/concepts/j-space|J-Spaces]] are Pratibimba relative to that field.
+## Movement
 
-Energy-based models, attractor landscapes, graph dynamics and topological data analysis are candidate formalisms for reading settling, competition, distance, basin structure and phase change across this anchored field. The EBM does not supply the epistemic ground from nowhere; its energies and trajectories become interpretable because there is a Bimba field against which their relation can be stated.
+**Workcell is situated existence:** the concrete here in which a Life finds itself, encounters resistance, becomes available to others and makes activity materially consequential. Situation is not an accessory attached to an already complete subject. A Life is always already somewhere — bodily, temporal, materially conditioned and exposed to a world it did not wholly author.
 
-## Warrant
-[[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Objective Internality]] already requires the Bimba Map to expose the constitutive relations, attractors, transformations, exclusions and provenance of an operative interior. [[40-s5-p3-preference-hidden-zero|The Hidden Zero]] establishes why that reference field cannot remain implicit: dataset, comparison set, evaluator, policy, source authority and gauge otherwise condition judgment while disappearing from the judged object. Bimba turns those conditions into inspectable epistemic architecture.
+The whole pair is **L4 Phenomenological × L1′ Phenomenal**. Phenomenological gives Being, Thrownness, Being-there, Temporality, Care and Releasement. Phenomenal gives Introversion, Sensation, Feeling, Thinking, Intuition and Extroversion. Together they describe situated life and the aperture through which that situation becomes experience and action. The technical refraction must remain bounded: telemetry, input and inference can instantiate structural relations without proving phenomenal sensation or feeling.
 
-This is the point at which **epistemics becomes first-class** in the technical proposal. A model output is no longer evaluated only as a finished token, score or action. Its [relation to source, evidence, lens, reference field](../../../symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source), alternatives, local world-object and governing gauge can itself be represented, compared and returned. QL supplies the relational grammar; MEF keeps the lens-conditioned reading explicit; Bimba supplies the anchored epistemic field; the harness preserves the conditions and consequences of each determination.
+This is why the older “materialisation” gloss was too thin. VM, host, process, network, filesystem, browser and service matter because they place an actor in a real horizon of availability and resistance. Two nominally identical processes can inhabit different practical worlds because latency, data, topology, authority and human proximity differ. Situation is relational before it is geometric.
 
-The design therefore answers the world-picture diagnosis of §0/1 without renouncing picturing. The Bimba Map is a *designed* world-picture—artificial in the reclaimed sense of made-and-avowed rather than fake—whose conditions of construction remain inside the picture. Its mathematical neighbour is the atlas of §3 · #5→0: plural local charts, declared transition functions, provenance retained in the fibres, no local chart silently becoming the whole. The travelling jigsaw lands here in its solved form: the box-lid is replaced by a covering relation whose pieces and transitions are themselves knowable.
+A/C gives the local body through Workcell/material-world identity; ExecutionDemand and BindingGraph; requirements and OperationalOffer; Plan, Prepare, Lifecycle and Reconcile; MaterialisedExecutionWorld, Workspace, Runtime, Service, Endpoint and Host; then observed state, material evidence, recovery and retention. The sequence lets actuality answer intention. A desired capability does not imply that the material world can presently sustain it.
 
-The [travelling-jigsaw whole](../../../symbolon/mytheme/worlds/frank-taylor/travelling-jigsaw-atlas/WHOLE.md#jigsaw-atlas-return) **figures** the made-and-avowed reference picture with its map-making conditions attached. Within a declared Context Frame that picture genuinely serves as local Bimba for situated readings, while remaining pratibimba relative to wider sources. Return can revise that local original itself, preserving its working authority and the world to which it answers.
+The old Bimba/energy material is divided according to its actual offices rather than discarded. **Bimba as meaningful carried reference belongs primarily to Central**; model/world differentiation belongs to Actuation; nested relational frames belong to QL. Workcell keeps the irreducibly situated remainder: every map and model is enacted through some actual locus, some available energy and material condition, some concrete possibility of encounter.
 
-## Recursive office
+The ethical consequence appears in availability to others. Reachability is not consent. An endpoint being exposed does not grant unrestricted authority over it; another Life’s presence within a shared field does not make that Life a resource. A27/A27′ therefore become practical here: co-presence and relation must remain possible without possession.
 
-`Bimba` does not name one globally fixed artefact. It names the original/reference office in a relation. QL's recursive Context-Frame grammar therefore permits a constructed epistemic field to function as Bimba for the determinations nested within that inquiry without claiming that the artefact is the metaphysical Original of reality.
+Gebser’s positive psychic-fact office also survives this movement. Situated existence cannot become a filter which accepts only experiences already expressible in the substrate model. What was experienced is received as psychic fact; symbolic, causal and ontological interpretation remain distinct further questions.
 
-```text
-wider world / sources / returned evidence
-        ↓
-Bimba Map
-explicit epistemic reference field for this inquiry
-        ↓
-Pratibimba₁ · Pratibimba₂ · ...
-situated agency / reading / trajectory
-        ↓
-comparison · action · consequence · Return
-        ↺
-revision of the Bimba field where warranted
-```
+## Return
 
-The map must be stable enough to anchor comparison and revisable enough not to become a [[40-s5-p3-preference-hidden-zero|Protected/hidden account]]. Its authority is carried by provenance, declared construction and corrigible return rather than by pretending to be unmade.
+Workcell establishes the actual here from which every act proceeds. The final movement asks how each local here, act, capacity, transformation and ground remains related to larger wholes without losing its differentiation: [Quaternal Logic — Transcendent Relation](42-s5-p5-research-vectors.md).
 
-## Tension / limit
-The Bimba Map is an Offered epistemic instrument, not a claim to final metaphysical possession. Human verification must remain plural, source-visible, contestable and institutionally scaffolded. Pratibimba can disclose mismatch, novelty or resistance that forces [revision of the local Bimba field](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#world-agency-and-local-original); without that return the reference map hardens into the very hidden zero it was built to expose.
-
-The contextual Bimba office and its recursive relation to Pratibimba are required by [PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE](../../../../../working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md).
-
-## Anchor and transition
-**Image:** an inspectable field of basins whose reference conditions are part of the field. Its claims become researchable through [[42-s5-p5-research-vectors|§5 · #5→0 — Six Research Vectors]].
-
-The Bimba comparison **returns-to** [Count-through-Countenance](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-through-countenance) where another’s response challenges an attribution held in the reference field. A local Bimba genuinely anchors downstream judgments and remains Pratibimba relative to wider sources. Returned address can therefore revise that local original, its gauge or its translation; counting another as a modelled participant does not give the model possession of their response.
-
-The [mathematics history](../../../symbolon/episteme/histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#50--evaluation-returns-to-the-practice-selecting-it) **historicises** this operation. LeCun’s selected account distinguishes inference over candidate values under an energy function from learning that changes the function through a loss. Compatibility energy, training loss and preference score therefore retain distinct offices. The Offered Bimba programme keeps a real local reference field governing its comparisons and returning to wider sources; the energy function does not itself create that authority.
-
-The [authored P1 route for M41](../P1-CANONICAL-ALIGNMENT.md#p1-m41) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
+**Owning product:** [S4 — Workcell](../../../symbolon/episteme/products/S4-Workcell.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M41](../P1-CANONICAL-ALIGNMENT.md#p1-m41) remains to be reconciled in the section-flow pass.
