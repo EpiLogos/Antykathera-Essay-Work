@@ -6,11 +6,11 @@ page_type: section-movement
 station: "§3"
 position: "#0"
 sequence: 25
-claim_status: "Derived (eight-turn traversal and calculus relation) / Argued (Jungian 4+2 correspondence)"
-evidence_status: theorem-backed
+claim_status: "Derived (native eight-turn traversal; local calculus identities) / Argued (calculus analogy, Jungian 4+2, perspectival geometry)"
+evidence_status: theorem-backed-with-explicit-cross-register-boundary
 transverse_threads: [mono-poly-two-ones, zero-subject-advent]
 source_ids: [strang-herman-2016-openstax-calculus-v1, taylor-2026-advent-zero-subject]
-tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/mathematical, argument-map/proof-spine, station/s3, position/p0]
+tags: [epi-logos/antykathera-essay, argument-map/live, argument-map/section, argument-map/mathematical, argument-map/proof-spine, station/s3, position/p0]
 ---
 # §3 · #0 — Eight Determinations
 
@@ -33,7 +33,7 @@ The ground–mark relation unfolds as eight determinations. Each states an opera
 | **#5 Realisation** | `∞/dx` | **Unbounded depth / infinitesimal differential; horizon and local exactness.** `∞` names the inexhaustible field no finite mark contains. `dx` is no longer merely the instance `x` but the minute difference through which change and local reading become exact. Every appearance is therefore a true local ratio of what exceeds it: precise as relation, partial as expression. The whole is not hidden inside the part; it is present in the way the part runs true to what it cannot enclose. | Exactness never becomes possession. A finite determination remains answerable to the depth that makes it possible. |
 | **Return-switch** | `1/0` | The achieved determinate turns toward the ground it presupposes and meets the incomputable rather than an object called “the ground.” The mental cannot find the foundation of the mental, because every act of finding already occurs through it. This is *pratyabhijñā*: recognition, not acquisition. | The limit is generative: `5→0`, the return through ground that renews a further cycle rather than cancelling the determination. |
 
-The table fixes the actual order of determination. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their meanings and prevent them from becoming decorative or interchangeable correspondences. [The core theorem table](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) is the source of record.
+The table fixes the actual order of determination within the native theorem. The indeterminate remains whole while one conscious circumstance becomes answerable as question and assertion; marking acquires force; force becomes recurrence; recurrence is lived as personed context; context opens onto a differential horizon; the horizon returns the achieved field to the ground it cannot contain. `?/!`, `−/+`, `X/x`, `AM/IS`, and `∞/dx` name the qualitative joints by which one act of knowing becomes question, pulse, pattern, person, and horizon. Their ordered operations establish their native meanings and prevent them from becoming decorative or interchangeable correspondences. [The core theorem table](../../../symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) is the source of record.
 
 ## The internal grammar of the six
 
@@ -41,9 +41,11 @@ The six also have internal grammar. **Being** joins Ground and Definition: a fie
 
 ## Mathematical force and proof boundary
 
-The calculus turn makes the final determination mathematically exact. Differentiation yields local change while losing the additive constant; integration restores a family `F(x)+C`, with no single self-grounding whole selected by the local derivative alone. The missing `C` is the formally required provenance that local change cannot reconstruct; mystical surplus and defective calculation are both unnecessary explanations. It shows why zero has a foot outside each local calculation: the operation produces exact change while leaving the originating level underdetermined. The psychological and metaphysical claim begins there: a determination can be exact without containing the whole condition from which its exactness was taken.
+Calculus supplies an exact local example of **information lost under an operation and restored only as a family of possibilities**. If `F′(x)=f(x)`, then every `F(x)+C` has the same derivative. Differentiation therefore does not preserve the additive constant; indefinite integration returns the family `F(x)+C`, not the unique originating function without an additional condition.
 
-Jung’s quaternity and the four functions enter only after the derivation. Thinking, feeling, sensation, and intuition articulate four ways a psyche determines a field; introversion and extroversion provide the two orientations. Four functions plus two attitudes yield a psychologically concrete `4+2`, while the eight determinations show the more extended relational articulation. Psychology witnesses the architecture; it does not manufacture it. The correspondence is Argued; the traversal itself is Derived within the theorem field.
+The identity is standard mathematics. The essay's further reading is **Argued**: `C` can serve as a formal analogue for provenance that local differential information alone does not determine. It is not literally “provenance” in calculus, and it does not prove that mathematical zero stands outside every calculation. What it establishes exactly is narrower and more useful: a local operation can be perfectly exact while underdetermining a wider state from which that local information could have arisen. The psychological and metaphysical comparison begins there, with its additional burden stated rather than smuggled into the theorem.
+
+Jung’s quaternity and the four functions enter only after the native derivation. Thinking, feeling, sensation, and intuition articulate four ways a psyche determines a field; introversion and extroversion provide the two orientations. Four functions plus two attitudes yield a psychologically concrete `4+2`, while the eight determinations show the more extended relational articulation. Psychology witnesses the architecture; it does not manufacture it. The correspondence is Argued; the traversal itself is Derived within the theorem field.
 
 ## QL placement
 
@@ -51,22 +53,22 @@ Jung’s quaternity and the four functions enter only after the derivation. Thin
 
 ## Perspective becomes context
 
-The counting logic gives the opening demand for diaphaneity its formal disclosure. First person, second person, and third person unfold sequentially as knower, mediation, and known. Their three views compose the `180°` triangle of determinate perspective. The move to `#4` is not another viewpoint placed beside them: all three views and the relations among them become simultaneously available as context, opening the triangle into the square's `360°` holding.
+The native counting logic gives the opening demand for diaphaneity a formal expression. First person, second person, and third person unfold sequentially as knower, mediation, and known. Their three views compose what the authorial geometry calls the `180°` triangle of determinate perspective. The move to `#4` is not another viewpoint placed beside them: all three views and the relations among them become simultaneously available as context, opening the triangle into the square's `360°` holding.
 
-The `4/5/0` pass reckons the preceding `1-2-3` perspectives as **void, one, and `0/1`**: their isolation is voided into context, their unity is recognised as one appearing-act, and the achieved one returns through ground and mark. The two passes therefore give `3:3` and, through the unity of recognition, `3:1`. The physical/mental and harmonic readings inherit this personed operation.
+The `4/5/0` pass reckons the preceding `1-2-3` perspectives as **void, one, and `0/1`**: their isolation is voided into context, their unity is recognised as one appearing-act, and the achieved one returns through ground and mark. The two passes therefore give `3:3` and, through the unity of recognition, `3:1`. These are native QL readings; ordinary Euclidean angle measure does not derive them. The later physical/mental and harmonic readings inherit this personed operation under their own warrants.
 
-The movement carries Trika into quaternary form. *Pramātṛ*, *pramāṇa*, and *prameya* remain distinct, but they can now be apprehended as one appearing-act rather than crossed one after another. The square does not replace the triangle or claim a view from nowhere. It is the contextual surface on which the situated viewer, the viewed world, and their mediation can become mutually legible.
+The movement carries Trika into quaternary form as an authorial relation. *Pramātṛ*, *pramāṇa*, and *prameya* remain distinct, but they can now be apprehended as one appearing-act rather than crossed one after another. The square does not replace the triangle or claim a view from nowhere. It is the contextual surface on which the situated viewer, the viewed world, and their mediation can become mutually legible.
 
-Historically, this is the formal completion sought by the zero–subject braid. The mental-rational subject stands within the `#1` line as an apparently self-grounding term and lets its unowned condition fall into the external `−1`; QL's `0/1` keeps the ground–mark relation explicit, `X/x` prevents the particular from severing itself from determining capacity, and `AM/IS` turns the three-perspective triangle into contextual `360°`. The higher integral register is therefore not a decorative historical comparison but the conscious form of the theorem's own conversion.
+Historically, this is the formal completion sought by the zero–subject braid in the essay's own construction. The mental-rational subject stands within the `#1` line as an apparently self-grounding term and lets its unowned condition fall into the external `−1`; QL's `0/1` keeps the ground–mark relation explicit, `X/x` prevents the particular from severing itself from determining capacity, and `AM/IS` turns the three-perspective triangle into contextual `360°`. The Gebser relation remains a historical/philosophical comparison, not the source of this native geometry.
 
 ## Drafting payload
 
-Give the table once as a contemplative QL plate. In prose, dwell on four movements: `0/1` establishes the seam; the `#3→#4`, `180°→360°` turn makes perspective answerable to context; `X/x` prepares Jung’s formulation of individuation; and `∞/dx` demonstrates why exact mathematics itself requires an indefinite/definite relation.
+Give the table once as a contemplative QL plate. In prose, dwell on four movements: `0/1` establishes the seam; the `#3→#4`, `180°→360°` turn makes perspective answerable to context in the native geometry; `X/x` prepares the Jungian comparison; and `∞/dx` can be placed beside calculus as an exact local example of how precise differential information can leave a wider originating state underdetermined.
 
 ## Transition
 
 The language-field comparison **returns-to** [E1’s native-field return](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#native-field-return) within the full eight determinations: `/ = −/− → 0/1 → ?/! → −/+ → X/x → AM/IS → ∞/dx → 1/0`. Encounter, naming, counting and personed address refract operations within that body; they supply neither eight replacement primitives nor a lexical derivation of Taylor’s `X/x`. The parent and inverse return retain the complete field in their respective orientations.
 
-The determinations require a compact generator. The two Spanda equations derive the horizontal `3:3`, vertical `4:2`, the senarius, and the harmonic ratios in [[26-s3-p1-spanda-4-2|§3 · #1 — The Spanda Equations and 4+2]].
+The determinations require a compact generator. The two Spanda equations develop the horizontal `3:3`, vertical `4:2`, the senarius, and a harmonic ratio-reading in [[26-s3-p1-spanda-4-2|§3 · #1 — The Spanda Equations and 4+2]]. Their ordinary arithmetic identities and QL-specific operators must remain distinguished there.
 
 The [authored P1 route for M25](../P1-CANONICAL-ALIGNMENT.md#p1-m25) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
