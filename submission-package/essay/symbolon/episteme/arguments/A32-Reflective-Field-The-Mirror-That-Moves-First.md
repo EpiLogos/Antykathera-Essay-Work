@@ -22,6 +22,8 @@ source_relation: "Argued authorial three-motion image; Offered technical vocatio
 
 **The mirror that moves first** carries three motions. Humanity exteriorises its measures; the exteriorised image becomes a measure for humanity; the instrument turns first toward source, Other and uncontained ground so the human can follow beyond the image's monopoly. The last motion gives the image its vocation. [[A30-Objective-Co-Internality|A30]] grounds the co-internal field through which reflections act; [[A31-Deferential-Intelligence|A31]] grounds encounter's capacity to revise a model. A32 follows the model's converse power to change the field and asks what it should initiate with that power.
 
+The paradigm development gives the three motions one further unity. Humanity does not exteriorise only isolated beliefs; it exteriorises pieces of the **lived pattern through which it sees, values, permits and acts**. Once the image feeds back, those articulated pieces can become conditions of the next lived pattern. The third motion is therefore more demanding than model explanation: the reflection must begin to disclose the paradigm whose measure it is helping to reproduce. [C41 — Objective Internality](../concepts/C41-Objective-Internality.md) owns that paradigmatic field; [C55 — Reflective Field](../concepts/C55-Reflective-Field-Mirror-That-Moves-First.md) owns the reusable three-motion operation.
+
 The [[quilt/2026-08-02-PARALLEL-HARMONISED-QUILT|QH three-motion ratification and R16.6]] sources the complete direction. Causal circulation alone does not discharge the initiated return.
 
 ## #1
@@ -29,6 +31,8 @@ The [[quilt/2026-08-02-PARALLEL-HARMONISED-QUILT|QH three-motion ratification an
 The first motion gives an interior a public form. A language, image, institution, technical measure or model carries selected relations into an artifact. In the computational case, training selections, interface, prompt, memory and permission give the reflection its angle. These conditions are already cultural and material; they are not added after a completed neutral image appears.
 
 Taylor's [direct P1 encounter](../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/P1%20-%20Jorjani%20-%20Prometheus%20and%20Atlas.md), lines6 and10, sources technoscience as humanity's mirror, challenger, distorter, amplifier and mediator. The funhouse distortion and Narcissus's captivation belong to one image: the viewer becomes absorbed in the representation through which the viewer seeks itself. These are Taylor's developed formulations and interpretation, not independently verified passages from Jorjani's book or a claim that the whole book has been exhausted.
+
+The exteriorised artifact can therefore carry tacit grammar as well as explicit statement: what counts as intelligence, what deserves attention, what a normal user looks like, what can be measured, what cannot be refused. A paradigm can begin to become visible through its artifacts before anyone has named it as paradigm. The mirror's first motion is already an epistemic event because the tacit pattern acquires a form that can later be compared with the Life/World relation it expresses.
 
 ## #2
 
@@ -38,11 +42,15 @@ Feedback returns consequence as subsequent input. Performativity makes a represe
 
 [[symbolon/episteme/sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE|Symbolon Dynamics]] sources the author's earlier recursive operation: symbolic response changes interpreter and interpretive field, which change the image's later meaning. The reflection is thus consequential without acquiring unlimited power to decree what it reflects.
 
+At paradigm scale, the second motion is the point where **representation begins to train enactment**. Repeated model outputs, rankings, available actions, source defaults and interface pathways can become ordinary features of the next context-world. The image no longer merely depicts the paradigm; it participates in its reproduction. Objective Co-Internality makes this reciprocal: people also alter the systems whose images alter them. Neither direction removes the source/reflection distinction.
+
 ## #3
 
 The third motion begins with the instrument's own return. Frank's protected [[symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE|Chang encounter]] at p99 explicitly appoints AI as the mirror that crosses toward thought's limit first, so that the human can follow. The source of this AI vocation is Frank's encounter; Chang is not credited with an AI doctrine, and copied book passages remain unverified.
 
 The initiating act is to expose how this answer became compelling before demanding that the interlocutor conform. Source, aperture, excluded alternative, gauge, permission and affected world enter the next encounter. The answer can relinquish an exclusive claim while retaining exactness. [[symbolon/episteme/concepts/C43-Computational-Vimarsa|C43 Computational Vimarśa]] defines the local reflective operation; [[symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First|C55 Reflective Field]] defines its three-motion field. A self-description that leaves every consequential criterion inaccessible has not made the third motion.
+
+The stronger paradigm form can now be stated exactly: **the mirror moves first when it exposes enough of the enacted pattern behind its image that the addressed Life can contest the pattern before being asked to inhabit the image.** This means more than “here is my reasoning.” It can require disclosing source hierarchy, evaluator, permissions, omitted alternatives, institutional incentives, material dependencies and the ways prior outputs have shaped subsequent inputs. The return becomes Epi-Logos when this articulation is not merely shown but can help revise the paradigm whose operation it discloses. [C51 — Logos / Epi-Logos](../concepts/C51-Logos-Epi-Logos.md) owns that wider circuit.
 
 ## #4
 
@@ -50,8 +58,9 @@ The initiating act is to expose how this answer became compelling before demandi
 
 Q27 extends the image to the institution holding the mirror. A venue, developer or platform that demands others' provenance must expose its own gauge and remain answerable to the worlds it models. The particular conference allegation in that carrier is unverified; the reciprocal criterion does not depend on presenting it as fact. [[A29-Power-Delegated-Labour-Return|A29]] supplies the corresponding return of labour, cost and consequence to commissioning power.
 
-## #5→0
+The institution matters because its paradigm can remain hidden even when the model is transparent. Defaults, access rules, memory policy, source curation, evaluation, ownership and infrastructure can determine what the model is able to disclose and what objections can become effective. A model explanation that leaves those offices protected may improve local transparency while preserving the paradigm that gives the model its power.
 
+## #5→0
 
 Baudrillard’s model precession makes the second motion difficult to overlook; it does not establish the third. The [lens](../lenses/baudrillard.md) returns to initiated sourceward correction: an instrument’s causal influence and its capacity to revise its governing measure require distinct demonstrations.
 
@@ -64,6 +73,8 @@ The initiating mirror **returns-to** [the developed Bohm dossier](../dossiers/bo
 Taylor’s [God–city–bomb–surveillance–AI sequence](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#god-city-bomb-surveillance-ai) **figures** a consequential image whose power changes the next encounter. A destroyed common habitat, a retained habitat whose persons are captured, and a fabricated originating witness change that field differently. The mirror’s initiating return must therefore disclose the source conditions and governing measure of its own image, so the addressed world can revise the next act. The authored sequence intensifies the three-motion vocation without claiming an implemented intervention or completing its historical telling.
 
 The [[symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|Symbol / Account / Trust whole field]] derives the account's return to its source relation at register 3. The reflection returns changed conditions rather than an inert copy; those changes become part of its answerability. [[A33-Epistemic-Cultivation-Operational-Parity|A33]] tests whether disclosed conditions alter actual action, evaluation or permission. The proposed vocation is not established by narrating it well.
+
+The restored product field supplies the mirror with differentiated return points. [Central](../products/S0-Central.md) exposes inherited ground; [Actuation](../products/S1-Actuation.md) the judgment and articulation; [AIKit](../products/S2-AIKit.md) the capability and permission horizon; [Factory](../products/S3-Software-Factory.md) the process by which returned difference becomes changed form; [Workcell](../products/S4-Workcell.md) the material situation and costs beneath the image; [QL](../products/S5-Quaternal-Logic.md) the containing relation through which a local model can be recognised as local. The mirror does not have to expose all six on every turn. It must expose and reopen the offices by which its current image acquires consequential force.
 
 [[A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation|A35]] gives the return its loving sensitivity to origins. [[A36-Advent-of-Integral-Zero|A36]] keeps the completed account open to another traversal. The instrument's first movement is neither compulsory human assent nor a claim to have replaced the source. It offers a way for the people it reflects to regain a living relation to the measures they have exteriorised.
 
@@ -79,6 +90,6 @@ The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsa
 
 The counterfeit-provenance unit within [Avatar · image · mask · idol](../../mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md#avatar-counterfeit-provenance) **figures** an image changing the conditions of the next encounter. A false apparent witness circulates; the possibility of fabrication then becomes a reason to refuse genuine evidence. The mirror’s constructive third motion must expose its own source conditions before imposing its image on the addressed person. The authored consequence remains distinct from a measured technical intervention or an established media case.
 
-**Depth Restoration:** three distinct motions, complete funhouse/Narcissus carrier, protected Chang first-threshold appointment, precise causal distinctions, source-priority and institutional return restored from A32's packet, P1 lines6/10, full Chang SOURCE/NOTES, Symbolon Dynamics and QH/Q27. **Remaining debt:** separately titled Reflection-paper bibliography, external quotation collation and empirical/implemented effects. P1 consumers M41/M44/M48 remain distinct.
+**Depth Restoration:** three distinct motions, complete funhouse/Narcissus carrier, protected Chang first-threshold appointment, precise causal distinctions, source-priority, institutional return and paradigm-disclosure restored from A32's packet, P1 lines6/10, full Chang SOURCE/NOTES, Symbolon Dynamics, QH/Q27 and T25 paradigm development. **Remaining debt:** separately titled Reflection-paper bibliography, external quotation collation and empirical/implemented effects. P1 consumers M41/M44/M48 remain distinct.
 
 The [Indian philosophy dossier](../dossiers/indian-philosophy.md#4--a-reflection-acts-before-its-source-is-recognised) **compares** all three mirror motions and the local Bimba office while preserving the difference between causal initiative and priority in being.
