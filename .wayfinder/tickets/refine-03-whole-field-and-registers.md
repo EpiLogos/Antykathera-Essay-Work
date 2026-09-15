@@ -1,14 +1,15 @@
 ---
 title: "R3 — Refine the full A/A′/C/A/C/S field through all registers"
 label: wayfinder:task
-status: open
+status: complete
 parent: ../maps/p2-enrichment-handoff.md
-assignee: ""
+assignee: "T25 R3 execution"
 blocked_by:
   - refine-02-s-field-and-mef.md
 programme: "T25 / GitHub #26; T22 fold-back active"
 created: 2026-09-10
 updated: 2026-09-15
+completed: 2026-09-15
 ---
 
 # R3 — Whole-field refinement with register fold-back
@@ -69,3 +70,13 @@ Each step must retain its actual Symbolon, Matheme, Mytheme and Episteme warrant
 ## Done when
 
 The full shared field has substantive reading evidence and dispositions; every changed operation has preserved depth and reciprocal returns. Register bodies and consumers have both been refined where needed. Dia/syn worked passages and Gebser/Indian/psychic-fact, paradigmatic-disclosure and Power continuities are demonstrated in actual text. Independent batch review has resolved or precisely recorded remaining pressure. No global vocabulary wash, lost mythic whole or unchecked single-pass rewrite.
+
+## Completion — 2026-09-15
+
+R3 is complete subject only to the protocol's normal R4 fold-back rule. The complete disposition evidence is [R3 — 144-record shared-field disposition](../../working/pre-manuscript-refinement-2026-09-10/R3-144-RECORD-DISPOSITION.md): all 36 A/A′ pairs, all 64 Concepts, A/C and S/S0–S5 have explicit changed or preserved dispositions. `READ / PRESERVE` is recorded as a positive semantic judgment, not inferred from lack of edits.
+
+The substantive transverse returns are carried by [R3 whole-field return](../../working/pre-manuscript-refinement-2026-09-10/R3-WHOLE-FIELD-RETURN.md), [Braid 3 — O:I/paradigm return](../../working/pre-manuscript-refinement-2026-09-10/R3-BRAID3-OI-PARADIGM-RETURN.md), [Braid 4 — Power/Antichrist](../../working/pre-manuscript-refinement-2026-09-10/R3-BRAID4-POWER-ANTICHRIST-RETURN.md), [Braid 5 — integral return](../../working/pre-manuscript-refinement-2026-09-10/R3-BRAID5-INTEGRAL-RETURN.md) and the [paradigm/Epi-Logos minute](../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md).
+
+The final owner pass explicitly folded the authorised paradigm/project relation into A22/C38 and A34/C60; concurrent owner work on S, C14, C64, A35/C56 and C21/C22/C61 was reconciled rather than overwritten. The canonical Genesis/Paradigm/Project/Epi-Logos whole/history now supplies the lexical/operational relation without becoming a second QL. Dia/Syn, Indian zero/Kashmir/Gebser/psychic-fact, tattvic and Śaiva depth, Objective Internality, Power/counterfeit sourcehood, Expression and Integral Zero now possess actual reciprocal routes rather than a vocabulary concordance.
+
+R4 is therefore the active frontier: test the eight stations and forty-eight movement bodies against this refined field, and reopen a canonical owner only where the linear review exposes a genuine semantic defect. T26 ratification remains untouched.
