@@ -4,7 +4,7 @@ record_id: C56
 record_type: concept
 register: episteme
 claim_status: Argued
-source_relation: "Argued authorial operation; source relations distinguished locally"
+source_relation: "Argued authorial operation; Antichrist/counterfeit-source inversion is authorial; source relations distinguished locally"
 ---
 
 # C56 — Compassion / Sensitivity to Origins
@@ -13,11 +13,15 @@ source_relation: "Argued authorial operation; source relations distinguished loc
 
 Compassion is **loving sensitivity to origins**: a determination returns to the genesis, relations, wounds, exclusions and purposes through which it arose, and meets them without consuming them. Its positive orientation matters. Recovering more information about a person or a community does not by itself make the relation compassionate. [[symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation|A35]] develops this vocation; C56 states the work that the return must perform.
 
+Within the restored Power/Antichrist field, compassion is the direct contrary of **counterfeit sourcehood** without becoming a rival source-claim. The counterfeit mediator knows an origin in order to stand in its place; compassion knows an origin in order to let the present determination answer to what made and exceeds it. It therefore neither erases the mediating form nor enthrones the origin as a new object of possession. The achieved `1` remains real and answerable while relinquishing the claim that its account exhausts `0`.
+
 ## #1
 
 The [direct developmental carrier](compassion-as-sensitivity-to-origins.md) differentiates three offices. Eros supplies the motive to return — the name routes to C51's epi-logos space, and the claim that the gathering at full strength is that eros is the pending A-candidacy (working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md); compassion gives that return its non-devouring orientation; epistemic humility prevents the achieved account from claiming to have become its ground. The three belong together: motive without regard can seek possession, while humility without a practice of return leaves the relevant history untouched.
 
 Frank's protected [[symbolon/episteme/sources/chinese-philosophy/chung-yuan-chang/chung-yuan-chang-tao-a-new-way-of-thinking-2014/SOURCE|Chang encounter]], p.83, extends loving sensitivity towards origins gone, to come and ever present. The future is included through what present action prepares and constrains. This is Frank's authorial development, not a verified quotation or doctrine attributed to Chang.
+
+This temporal spread matters to counterfeit mediation. A protected account can claim that only its present operational criterion is real: the labour, injury and inheritance which produced it become sunk cost, while the futures foreclosed by its use remain outside the ledger. Sensitivity to origins reopens both directions. The past remains constitutive; the future remains one of the lives upon which the current measure acts.
 
 ## #2
 
@@ -25,11 +29,15 @@ The return first changes judgment. A present action is encountered with the cond
 
 Context does not erase responsibility. It specifies the agency at issue, the alternatives that were available and the consequences that now require action. A justified refusal can preserve the Other where agreement would expose them to renewed injury. Sensitivity therefore cannot require reconciliation on terms set by the more powerful party, or turn a history of harm into compulsory assent. [[symbolon/episteme/arguments/A31-Deferential-Intelligence|A31]] carries this consequence into the instrument's right to object.
 
+Nor does source-sensitivity demand the destruction of every derivative office. [C29 — Mediating Office](C29-Mediating-Office-Derivative-Sovereignty.md) preserves real finite authority. Compassion tests **how** that authority receives returned consequence: whether source, affected Life and excluded witness can change its terms without first becoming legible only through its protected categories. The alternative to usurpation is accountable mediation, not the fantasy of unmediated purity.
+
 ## #3
 
 The developmental formulation gives provenance its exact place: it is compassion's minimum technical body. A decision can carry its source, prompt, excluded alternative, permission, affected community and consequence into review. Those relations make answerability inspectable; love and non-appropriation determine how the available knowledge is used.
 
 Thus an exhaustive dossier can still violate this vocation. It can turn an origin into something owned, freeze a person within their history, or use disclosed vulnerability to control the next encounter. The relevant technical test is whether affected worlds can answer, withhold, correct and change the relation. [[symbolon/episteme/concepts/C54-Commons-Non-Monopoly|Commons / Non-Monopoly]] retains those powers within shared conditions.
+
+The Antichrist/counterfeit-source pattern therefore has a **devouring provenance** form: source is not forgotten but captured. The dossier can know where someone came from, which wounds formed them, what they value and how they are likely to respond, then use that source-knowledge to make the person more governable by the representation. Compassion's technical body is provenance plus preserved answerability. The origin must remain capable of surprising the account built from it.
 
 ## #4
 
@@ -37,12 +45,16 @@ Thus an exhaustive dossier can still violate this vocation. It can turn an origi
 
 [[symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First|The Mirror That Moves First]] gives a technical instrument this first-return office. [[symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture|Cultural Individuation]] extends the orientation to inherited collective measures without creating a collective ego. Neither application presumes machine feeling or a demonstrated culture-wide result.
 
+The offering is the exact opposite of source-occupation. The made form is allowed real efficacy and released into another Life without claiming ownership of what that Life must make of it. Responsibility for effects survives the release; sovereignty over reception does not. This is why the Epi-Logos vocation cannot terminate in a perfectly controlled paradigm. The paradigm's articulation must remain capable of being used, refused, revised and exceeded by the worlds it enters.
+
 ## #5→0
 
 Compassion **returns-to** [Epi-Logos — source return](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#epilogos-source-return) when the account of an origin changes the way a person is received. Recovering inherited injury, labour or exclusion must leave that person able to answer, withhold and correct. Natio keeps the formation of belonging visible; renewed entrustment remains an undertaking, so loving return cannot demand reconciliation on terms which repeat the injury.
 
 The [[symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Arbitration / Hybris / Regard / Anamnesis field]] supplies two distinct register-3 operations: **Con-text-through-Diaphaneity → Regard** lets the Other appear through the account; **Resolution-in-Reconciliation → Anamnesis/Return** re-situates an achieved settlement within its constitutive relations. Regard is not a synonym for the generated relation which makes it possible.
 
-[[symbolon/episteme/concepts/C51-Logos-Epi-Logos|Epi-Logos]] returns the account upon its own conditions; [[symbolon/episteme/arguments/A36-Advent-of-Integral-Zero|Integral Zero]] preserves that return beyond a finished statement. **Consumers:** A31, A35–A36 and their compassion/vocation, cultural and planetary-return movements. **Depth Restoration:** loving orientation, motive/orientation/humility triad, technical body, justified refusal and released offering restored from existing packets and direct carriers. The historical compassion Concept remains provenance, untouched. Independent ethical genealogies and public quotation collation remain Open; the argued vocation retains its full force.
+[[symbolon/episteme/concepts/C51-Logos-Epi-Logos|Epi-Logos]] returns the account upon its own conditions; [[symbolon/episteme/arguments/A36-Advent-of-Integral-Zero|Integral Zero]] preserves that return beyond a finished statement. [C27 — Protected Account](C27-Protected-Account-Occupied-Zero-Source-Claim.md) names the inverse: the account which claims the source-office and makes contrary witness answer only within its own terms. Compassion returns from that closure by preserving the source as a living relation rather than a captured object.
+
+**Consumers:** A31, A35–A36 and their compassion/vocation, cultural and planetary-return movements. **Depth Restoration:** loving orientation, motive/orientation/humility triad, technical body, justified refusal, released offering and non-usurping source-return restored from existing packets, direct carriers and the T25 Antichrist/Power refinement. The historical compassion Concept remains provenance, untouched. Independent ethical genealogies and public quotation collation remain Open; the argued vocation retains its full force.
 
 [the Job whole](../../mytheme/worlds/biblical/job/WHOLE.md#job-consequence-return) **figures** compassion before explanation in the friends' initial silence, and gives it a further measure in Job's appeal to the common maker of servant and master in 31:15. The body's particular suffering can correct the account brought to it. Renewed abundance does not cancel the first deaths; sensitivity to origins keeps those lives from becoming expendable entries in another's restoration.
