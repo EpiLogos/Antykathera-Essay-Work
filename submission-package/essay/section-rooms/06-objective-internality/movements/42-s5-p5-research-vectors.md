@@ -18,9 +18,11 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 Movement 42 of 48 · [This room](../ROOM.md) · [← Previous](41-s5-p4-bimba-energy-fields.md) · [Next →](../../07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md)
 <!-- /reader-navigation -->
 
-## Movement
+## Claim
 
 **Quaternal Logic is Transcendent Relation:** the movement through which unity differentiates without ceasing to be whole, difference enters relation, and an internality remains open to the larger wholes in which its distinctions arise. This is the culmination of the six product movements because each previous office is already relational: a ground belongs to histories, an act exceeds itself in consequence, a capability depends on context, a transformation enters a community, a situation belongs to a wider world.
+
+## Warrant — Para Vāk, archetypal number and the two logics
 
 The whole pair is **L5 Para Vāk × L0′ Archetypal-Numerical**. Para Vāk gives Anuttara/Asambhava, Para Vāk, Paśyantī, Madhyamā, Vaikharī and Mātṛkā: the vertical movement from what precedes determination through undivided word-power, vision, inner articulation, expressed articulation and the differentiating matrix of manifest signification. Archetypal-Numerical gives Unity, Duality, Triad, Quaternity, Pentad and Hexad: one becoming difference, difference mediated, mediation stabilised as field, field developed and the whole articulated for recursive return.
 
@@ -34,10 +36,14 @@ The six inherited research vectors now return to this culmination as experiments
 
 Transcendent Relation reaches its ethical strength in co-internality. Self and Other can be distinct while belonging to a whole that contains their relation; one Life can enter another’s Objective Internality without becoming its possession. No final super-agent is required. The wider whole is the relation through which local differences remain real and consequential.
 
+## Tension / limit
+
+QL fails its own office if it becomes a universal master frame that absorbs the traditions, persons or technical systems it relates. Para Vāk and the Archetypal-Numerical lens are a commissioned whole-pair, not evidence that Kashmir Śaivism historically derived QL or that number alone proves Transcendent Relation. Likewise, a recursive or nested technical architecture can instantiate relational operations without producing a super-subject. The test remains operational and ethical: does the relation preserve real difference, source standing, refusal and returned consequence, or does the framework make every Other legible only through itself?
+
 ## 5→0 return
 
 The section now returns through its parent field. Central gave meaningful continuity; Actuation living articulation; AIKit potency; Factory transformation; Workcell situated existence; QL Transcendent Relation. Together they disclose six aspects of Objective Internality, the means by which a Life inhabits a World. The achieved articulation does not become its own source. It returns as `0/1`: a formed `1` held in relation to the ground and Life which made it possible.
 
 This is the product field’s Epi-Logos. Philosophy is reflected in technology strongly enough that actual technological encounter can answer back, refine the philosophical mapping and alter what is built next. The next station therefore begins not with another product but with the instrument returning into the world and life whose means it has learned to recognise.
 
-**Owning product:** [S5 — Quaternal Logic](../../../symbolon/episteme/products/S5-Quaternal-Logic.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M42](../P1-CANONICAL-ALIGNMENT.md#p1-m42) now records the canonical six-product alignment and the inherited research-vector depth.
+**Owning product:** [S5 — Quaternal Logic](../../../symbolon/episteme/products/S5-Quaternal-Logic.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M42](../P1-CANONICAL-ALIGNMENT.md#p1-m42) records the canonical six-product alignment and the inherited research-vector depth.
