@@ -48,7 +48,9 @@ This is the place for the humanity/God-of-the-gaps reversal. Once the immutable 
 
 The same guard applies to artificial intelligence. A capacity migrating from human performance into a machine does not reduce Subject by shrinking a list of uniquely human functions. It changes the objective account of mediation. The phenomenal location of Subjective Immediacy remains a different question.
 
-Lacan's first signifier will become a serious comparison later, in §4, where Matheme and Mytheme explicitly meet. It is **withheld here** so that the native crossed-zero operation is not made to depend on a psychoanalytic vocabulary introduced before its station has earned it.
+## Tension / limit
+
+The crossed zero is a **native authorial symbolic operation**, not a standard mathematical identity and not a proof supplied by set theory, Lacan or Wittgenstein. Lacan's first signifier becomes a serious comparison later, in §4, where Matheme and Mytheme explicitly meet. It is withheld here so that the native operation is not made to depend on a psychoanalytic vocabulary introduced before its station has earned it. Likewise, recognising the slash as mediation does not yet complete the whole recognition series; `Ø/X`, `(0/Ø)/(1/X)` and the returned `0/1` must still be earned.
 
 ## Transition
 
