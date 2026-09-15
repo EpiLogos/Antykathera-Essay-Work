@@ -1,13 +1,15 @@
 ---
 title: "R4 — Review all eight stations and forty-eight movements against the refined field"
 label: wayfinder:task
-status: open
+status: in_progress
 parent: ../maps/p2-enrichment-handoff.md
-assignee: ""
+assignee: "T25 R4 execution — 2026-09-15"
 blocked_by:
   - refine-03-whole-field-and-registers.md
 programme: "T25 / GitHub #26"
 created: 2026-09-10
+updated: 2026-09-15
+claimed_from: "main@2120dd22c2cb82e705bba2de972d9aa2359a1dbb"
 ---
 
 # R4 — Complete section-flow review
@@ -26,6 +28,12 @@ Reorganise M37–M42 around the six product subjects exactly. Close the old rese
 
 Give each station/movement its register-envelope and tone contract, including prose/plate/inset/path/dossier allocation by function. All eight stations retain equal argumentative depth. Then reread the whole sequence and M48→M01 return, repairing local changes through the owning field records.
 
+R4 inherits the R3 paradigmatic relation as a traversal test rather than a vocabulary overlay: ordinary knower/means/known pressure; crossed-zero recognition of the slash; paradigm as lived organisation of mediation; Project as thrown-forth determination; paradox as crisis of the containing relation; Epi-Logos as operative return into enactment; compassion as the non-devouring manner of that return. Expression can make the relation perceivable but does not by itself discharge the return.
+
 ## Done when
 
 All 48 bodies, not just their titles, develop one complete argument. Every displaced operation has a named surviving home and an explained route. The six-product §5 can stand alone with a sufficient entrance and conclusion while retaining its place in the whole. The register-envelope table is complete and no unreviewed section is treated as ready merely because its links resolve.
+
+## Execution claim — 2026-09-15
+
+Claimed after R1–R3 closed in dependency order and the 144-record shared-field disposition was committed. Begin from the live one-breath whole and M01, read every movement body in sequence, and keep a movement-level before/after and envelope ledger. Canonical records reopen only where a movement review exposes a genuine owner defect; otherwise edits remain at flow/placement/withholding/payoff level. R5 and T26 remain later gates.
