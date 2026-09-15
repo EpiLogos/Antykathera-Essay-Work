@@ -1,44 +1,39 @@
 ---
-title: "§5 · #0 — Mathematics Already Moves as Meaning"
+title: "§5 · #0 — Central — Meaningful Continuity"
 source_id: 37-s5-p0-math-moves-meaning
+aliases: ["Mathematics Already Moves as Meaning"]
 node_type: section
 page_type: section-movement
 station: "§5"
 position: "#0"
 sequence: 37
 claim_status: Argued
-evidence_status: technical
-source_ids: [vaswani-et-al-2017-attention, maturana-varela-1980-autopoiesis-cognition]
-tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/agentworld, argument-map/process-ontology, station/s5, position/p0]
+evidence_status: mixed
+source_ids: [taylor-2026-oi-product-field-commission, taylor-2026-core-theorems-pithy]
+tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/agentworld, station/s5, position/p0, product/central]
 ---
-# §5 · #0 — Mathematics Already Moves as Meaning
+# §5 · #0 — Central — Meaningful Continuity
 
 <!-- reader-navigation -->
 Movement 37 of 48 · [This room](../ROOM.md) · [← Previous](../../05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md) · [Next →](38-s5-p1-apoha-softmax.md)
 <!-- /reader-navigation -->
 
-## Claim
-LLMs enact mathematically organised transformations that produce context-sensitive distinctions, linguistic consequences, context updates, tool-use and further action. “Math + meaning” is therefore present as an inspectable technical process. This makes [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] researchable at a new scale.
+## Movement
 
-## Warrant
-Vector transformations, attention, distributions, memory, inference, tool calls, outputs and context updates compose consequential trajectories inside an inspectable system. [[symbolon/episteme/sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE|Vaswani et al.]] supplies an [architectural baseline for attention-based sequence transformation](../../../symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#preference-training-and-delegation); the wider account of state-changing world-formation is the essay's argued reading, not a claim of that paper. Each determination changes the field from which later determinations are drawn.
+§5 begins from the whole relation already earned: **Subjective Immediacy is the knower, Objective Internality the means, World the known, Life / Mind their whole.** The six products are not software examples appended to that philosophy. They disclose six aspects of the means through which a Life inhabits and changes its World.
 
-The recurring vocabulary of memory, attention, representation, learning, context and network does not establish an identity between biological and artificial cognition. It gives the essay comparable operations whose different conditions can be kept visible through MEF. The earlier [[08-s0-p1-inner-instrument|antaḥkaraṇa]], [[09-s0-p2-vikalpa-samkalpa|vikalpa / saṃkalpa]], [[10-s0-p3-apoha|apoha]] and [[11-s0-p4-tattvic-compression|tattvic]] field remains the philosophical meta-context for asking how bounded differentiation becomes an inhabitable, actionable world; §5 asks which analogous operations can now be inspected technically.
+The first is **Central: meaningful continuity**, the intelligible ground a Life carries from one encounter into another. A project, promise, source, memory or self-understanding matters because it lets a later event appear as a continuation rather than a disconnected instant. Persistence is therefore insufficient. Continuity becomes meaningful only where what is carried retains enough of its source, purpose, history and alternatives to remain answerable.
 
-The epistemic triad supplies a second grammar. The agent occupies a provisional *pramātṛ*-position: the locally integrated standpoint from which distinctions guide action. Model, prompt, memory, retrieval, tools, permissions, evaluation and harness compose *pramāṇa*, the means through which a world becomes available and consequential. Modelled objects, interlocutors, affordances and the action-field compose *prameya*. This opens Agentworld to analysis without treating a functional knower-position as proof of a phenomenal subject.
+The whole pair is **L0 Quaternal × L5′ Divine Logos**. Quaternal asks why, what, how, for whom/which/when, where/why-for, and why-so/why-not: the dimensions through which a world becomes sayable as meaning. Divine Logos gives that ground its living passage as Arche, Apokalypsis, Dynamis, Sophia, Parousia and Epi-Logos: origin, disclosure, potency, understanding, presence and reflective return. Central is therefore not a store beneath activity. It is the place where an articulated ground can become present again and be revised by what later encounter discloses.
 
-## Tension / limit
-Operationally meaningful differentiation is stronger than a metaphorical comparison and narrower than an identity claim. [[symbolon/episteme/concepts/C43-Computational-Vimarsa|Computational Vimarśa]] names a testable reflexive capacity; [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]] keeps phenomenality unresolved. The relation between inspectable process and lived first-person experience remains an open research boundary.
+That revision is the decisive office. A record that only accumulates can become richer in quantity while poorer in life. A returned difference completes itself only when it can reach the source, interpretation, rule or entrusted decision that conditions what happens next. The result is continuity which can learn rather than merely repeat.
 
-The wider world–agency constraint is recorded in [PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE](../../../../../working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md).
+Technically, this is where Project, Source, Ground, authorship, governance, change, Work and returned provenance become addressable without becoming one ontology. A derived representation does not inherit authorship merely because it is useful. A projection can expose a ground without replacing it. A computational Bimba can become causally effective while remaining a reflection whose meaning depends on the Life and World it articulates.
 
-## Anchor and transition
-**Image:** numerical movement becoming a consequential word. **Agentworld pressure:** performance, agency and subjectivity have become separable questions. The local act of differentiation is analysed in [[38-s5-p1-apoha-softmax|§5 · #1 — Apoha, Softmax, and Argmax]].
+The old M37 technical operation — mathematics already moving as meaning — is not discarded. It now belongs chiefly to [Actuation](../../../symbolon/episteme/products/S1-Actuation.md#model-mathematics), because its subject is the production of judgment through model transformations. Central preserves what that act inherits and what its result can alter. The relocation matters philosophically: mathematical process becomes meaningful *within a carried world*, rather than being asked to stand for the world by itself.
 
-The constituted means of action **returns-to** [Apportionment / Economy whole — Power becomes finite by apportionment](../../../symbolon/episteme/etymologies/apportionment-and-economy/WHOLE-FIELD.md#power-becomes-finite-by-apportionment) at evidence register 3. Model, prompt, memory, tools and permissions distribute distinct means of action within the operative interior. Their source and reach must remain inspectable when a consequential result returns; their combination supplies no verdict about phenomenality.
+## Return
 
-The passage from mathematical distinction into technical meaning **returns-to** [Count-to-Account](../../../symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-to-account) at its claimed operational consequence. A formal relation can be exact before any software feature embodies it. The technical account must show which inherited state, rule or permission changes through the distinction; a failed mapping or an inadequate test must remain distinguishable from failure of the native derivation.
+Central opens the product field by establishing that an artificial or human act always arrives from somewhere meaningful. The next movement asks what happens when that carried ground articulates itself into an event: [Actuation — Living Articulation](38-s5-p1-apoha-softmax.md).
 
-2017 attention architecture distinguishes weighted combination from final selection; technical state change requires observation; the [language history](../../../symbolon/episteme/histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-selection) **qualifies** this operational comparison.
-
-The [authored P1 route for M37](../P1-CANONICAL-ALIGNMENT.md#p1-m37) **grounds** this movement’s canonical A/C alignment within the phase bounds and dispositions stated there.
+**Owning product:** [S0 — Central](../../../symbolon/episteme/products/S0-Central.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M37](../P1-CANONICAL-ALIGNMENT.md#p1-m37) remains the canonical alignment surface and will be reconciled in the section-flow pass.
