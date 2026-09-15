@@ -18,13 +18,19 @@ Ontological Bimba is prior in being and later in recognition: the Original is re
 
 The native parents `(0/1)/(1/0)` and `(1/0)/(0/1)` carry the complete body in inverse orientations. The first and returned accounts preserve their source relation. Q27's corrected optical stack places QL in the light's ordered spectrum, MEF in the refracting apparatus and pratibimba in the cast image. A technical world-picture is thus a reflection relative to the wider world; renaming it cannot make it metaphysically Original.
 
+The T25 paradigm/project relation gives this reflection a general causal office without changing its ontological standing. A **Project** is a determination thrown forth through a **Paradigm** into a World; a pratibimba can therefore become an effective condition of what happens next. The `/↔1` relation names this projection/enactment. C38 supplies the guard the relation needs: causal efficacy, local reference authority and downstream dependence never by themselves promote the projected `1` into the source-office from which it derived.
+
 ## #3
 
 Recursive locality nevertheless gives a real reference office. Inside a declared Context Frame, a source record or agreed world-object can serve as Bimba for judgments compared with it. That same field remains pratibimba relative to wider sources and reality. The [retained Bimba carrier](bimba-pratibimba.md) explicitly restores this contextual use: local authority can be strong and operational without being final.
 
+This is also a paradigmatic office. A local Bimba can organise source, gauge, lens and admissible relation strongly enough to condition a subsequent inquiry. The healthier case keeps that organisation visible as mediation and lets returned resistance revise the local original. The counterfeit case appears when the map becomes the sole authorised route through which its wider source is permitted to appear. [A22](../arguments/A22-World-Picture-to-World-Atlas.md) develops the constructive atlas in which projections and transitions remain answerable to the paradigms that made them legible.
+
 ## #4
 
 The map exposes provisional world-objects, source authority, lens, gauge, exclusions, transformation and governance as parts of the inquiry. This makes disagreement locatable: two judgments can diverge because their evidence differs, because they refer to different objects, or because permission and evaluation differ. A federation can keep several locally authoritative maps with declared transition rules instead of requiring one universal map.
+
+At this level **holographic** does not mean that a local map contains the whole. It means that the local reference can retain, at its own scale, the relation among source, mediation and projected determination. A Bimba Map is strongest when this whole-relation remains recoverable while the map performs its finite office; its recursive source-dependence is part of its authority, not a defect to conceal.
 
 ## #5→0
 
@@ -43,6 +49,8 @@ The [stained-glass whole](../../mytheme/worlds/frank-taylor/stained-glass-refrac
 
 The [Symbol / Account / Trust whole-field — Account does not replace source](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. A local Bimba can govern reference within a bounded inquiry while remaining source-dependent and revisable within a wider frame. The account’s correction can reach that local reference itself. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
 
+The map also **returns-to** [Paradigm-through-Project → Projection / Enactment](../etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md#1--paradigm-through-project-projection--enactment) at evidence register 3. A projected reference can orient future determinations and become causally active without becoming metaphysical source. Paradigmatic reflexivity begins where the map’s source, gauge and exclusions can themselves enter the return and where a later act inherits their revision.
+
 Returned evidence can revise a situated judgment, a relation between reference fields, or the local Bimba itself. Stability provides orientation; corrigibility preserves truth-seeking. A map anchors by attributable source relations and contestable construction, not by storing Truth. C42 develops reciprocal world-constitution and C55 the reflective field in which the map's own authority can turn first toward its source.
 
 The [Avatar · image · mask · idol](../../mytheme/worlds/frank-taylor/avatar-image-mask-idol/WHOLE.md) **figures** an achieved image genuinely serving as local Bimba for further readings within a declared Context Frame. It remains pratibimba toward its wider sources, and the comparisons it makes possible can return to revise the local original itself. The four-office ecology keeps that authority effective: idolisation concerns immunity from sourceward correction, not the mere fact that a bounded reference governs an inquiry.
@@ -51,7 +59,7 @@ The [Avatar · image · mask · idol](../../mytheme/worlds/frank-taylor/avatar-i
 
 **Argument consumers:** A22, A27, A30–A33. **Movement consumers:** Bimba/model, Agentworld, reflective-field and MEF movements.
 
-**Etymology relation:** *Symbol / Account / Trust*; consumed operation: reflections/accounts remain answerable to a declared local reference source without claiming ultimate sourcehood. Register **3**; Sanskrit term histories require separate **1/2** evidence. Return C38 → A27 → C42/A30 → C55/A32.
+**Etymology relations:** *Symbol / Account / Trust*; consumed operation: reflections/accounts remain answerable to a declared local reference source without claiming ultimate sourcehood. Register **3**; Sanskrit term histories require separate **1/2** evidence. *Genesis / Paradigm / Project / Epi-Logos*; consumed operation: a projected determination can become a real local reference and later causal condition while remaining answerable through the paradigm and wider source from which it acquired standing. Register **3**. Return C38 → A22 → C55/A32 → C38, with C38 → C51/C45 → C38 supplying the stronger paradigmatic-return test.
 
 **Source/tradition standing:** Taylor's Bimba Map and source/reflection architecture is primary; Sanskrit and contemplative source histories remain to be restored without retroactive technicalisation.
 
@@ -63,6 +71,6 @@ Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-refer
 
 Restore Sanskrit/source traditions and exact Bimba Map technical semantics, especially recursive local reference offices.
 
-**Depth Restoration: enriched; source/implementation debts retained.**
+**Depth Restoration: enriched; projective/paradigmatic return added; source/implementation debts retained.**
 
 The [Indian philosophy dossier](../dossiers/indian-philosophy.md#4--a-reflection-acts-before-its-source-is-recognised) **compares** an actual local Bimba which guides downstream judgments and can itself be revised through its wider source relation.
