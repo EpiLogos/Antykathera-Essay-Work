@@ -19,6 +19,8 @@ These are repeatable anchors for the essay's flights: a writer can return to *no
 
 **Second intake (proposal pending Frank's verification):** Frank's Neumann reading notes of 2026-08-05/06 opened the earth/taste/wisdom cluster — *homo/humus*, *sapiens/sapientia*, *scire/scientia*, the *homos*/*monos* re-entry, and the Hebrew *adam/adamah* + *taʿam* homology — around the p. 16 "Homo sapiens" passage. The cluster is drafted as a proposal; its lexical shelf, the Neumann collation, and its authorial glosses await Frank's amendment or acceptance before first-class canon integration.
 
+**Third intake (authorially commissioned 2026-09-15):** the T25 Objective Internality refinement opened [Genesis / Paradigm / Project / Epi-Logos](genesis-paradigm-project-epilogos/HISTORY.md) as a root paradigmatic archaeology. It compresses `0 / 1` into Genesis, Paradigm and Project, makes the two adjacent relations explicit, and returns their composition as Epi-Logos. This field is intended to quilt the opening crossed-zero relation, Māyā/manifestation, projecthood/projection, paradox, compassion and the six-product S field without replacing their native owners.
+
 ## The whole relational unit
 
 The etymological source is the **whole relational field**, not an isolated dictionary item. Where a QL sixfold has matured through several word-histories, the entry preserves the complete sixfold, the source status of each word, the operations among positions, the lateral phonic/metaphoric relations, the historical branches through which those meanings act, and the return routes into argument, concept, Mytheme, section and quilt.
@@ -69,6 +71,18 @@ Resolution                      Reconciliation
 ```
 
 The processual wording is part of the form. `Criterion-through-Distinction`, for example, is the generated relation; **Measure / Limit** is one semantic flowering from it. The generated terms therefore preserve dynamic determination rather than replacing the underlying `6 / 6′` coordinates.
+
+The paradigmatic archaeology supplies a complementary **compression seed** rather than another 6/6′ exemplar:
+
+```text
+0          /           1
+Genesis    Paradigm    Project
+
+0↔/        /↔1        0/1
+Disclosure Projection Epi-Logos
+```
+
+Its fullness is `3 + 2 + 1 = 6`, and it makes the native `3:3` and `3:1` especially legible: three terms meet three relations, while the same three terms are recognised as one composed `0/1` event. The relation is already QL; the archaeology names an earned lexical/operational determination of it.
 
 This conjugate form sits beside **distributive recursion** such as `6×6`, where each of the six positions receives a complete sixfold of its own. The former asks what each position becomes **through its conjugate**; the latter asks how the **whole sixfold refracts inside each position**. The working quilt relates these, orientingly rather than identically, to the project's two sixfold readings: `3:3` makes conjugate traversal especially legible; `4:2` makes the full explicate/implicate six-body especially legible. Both remain readings of a body generated as `4+2`.
 
@@ -121,6 +135,7 @@ The field is deliberately porous: a single word can belong to more than one clus
 - [Apportionment, naming, number, and oikonomia](apportionment-and-economy/HISTORY.md) — the distribution of shares, the naming and measuring of value, coinage, and the question of an economy of fullness.
 - [Homologia, analogia, and the discipline of comparison](homology-and-analogy/HISTORY.md) — agreements in word, ratio, operation, or sound, together with the boundaries that keep comparison from becoming annexation.
 - [Symbol, account, and trust](symbol-account-and-trust/HISTORY.md) — broken tokens, counting, narration, credit, record, claim, and the mark that must circulate without pretending to ground itself.
+- [Genesis, Paradigm, Project and Epi-Logos — the pattern of disclosure returns](genesis-paradigm-project-epilogos/HISTORY.md) — the `0 / 1` compression seed as Genesis / Paradigm / Project, its Disclosure and Projection relations, and Epi-Logos as paradigmatic reflexivity; links crossed zero, Māyā, paradox, projecthood, compassion and the S product field.
 - [Earth, taste, and wisdom — Homo sapiens as the groundling who tastes](earth-taste-wisdom/HISTORY.md) — the earth-root of the human, the taste-root of wisdom, the two Latin verbs for knowing (cut and taste), and the species-name as one field of many discernments. *(Proposal pending Frank's verification.)*
 
 ## Where the field enters the present histories
@@ -133,6 +148,7 @@ The field is deliberately porous: a single word can belong to more than one clus
 | Apportionment and economy | [Technology, politics, and institutions](../histories/traditions-and-disciplines/technology-politics/HISTORY.md) | [§5 · #3 — Preference Models and the Hidden Zero](../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md); [§5→0 · #3 — 4:2 Technē and the Sovereign Commons](../../../section-rooms/07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md) |
 | Homologia and analogia | [Language, symbol, and dialogue](../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY.md) | [Sym-Ballein](../../../section-rooms/arguments/03-two-logics-and-sym-ballein.md); [Core Theorem Bridge](../../../section-rooms/arguments/12-core-theorem-bridge.md) |
 | Symbol, account, and trust | [Language, symbol, and dialogue](../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY.md); [Technology, politics, and institutions](../histories/traditions-and-disciplines/technology-politics/HISTORY.md) | [§2 · #2 — Sym-Ballein](../../../section-rooms/03-two-logics/movements/21-s2-p2-sym-ballein.md); [Trust, Faith, and the Formal Limit](../../../section-rooms/arguments/18-trust-faith-formal-limit.md) |
+| Genesis, Paradigm, Project and Epi-Logos | [Language, symbol, and dialogue](../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY.md); [Indian philosophy](../histories/traditions-and-disciplines/indian-philosophy/HISTORY.md); [Psychology](../histories/traditions-and-disciplines/psychology/HISTORY.md); [Technology, politics, and institutions](../histories/traditions-and-disciplines/technology-politics/HISTORY.md) | [Crossed Zero](../../../section-rooms/02-return-of-zero/movements/16-s1-p3-crossed-zero.md); [Māyā / Operative Measure](../concepts/C14-Maya-Operative-Measure.md); [Objective Internality](../arguments/A26-Objective-Internality-Mind-as-Worldhood.md); [Compassion](../arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md); [S — World and Life](../products/S-World-and-Life.md) |
 | Earth, taste, and wisdom | [Zero, subject, and the advent of integral logic](../histories/traditions-and-disciplines/zero-subject-advent/HISTORY.md); [Language, symbol, and dialogue](../histories/traditions-and-disciplines/language-symbol-dialogue/HISTORY.md); [Psychology](../histories/traditions-and-disciplines/psychology/HISTORY.md) | [The Two Ones — Mono–Poly Matheme](../../../section-rooms/arguments/19-two-ones-mono-poly-matheme.md); [Sym-Ballein](../../../section-rooms/arguments/03-two-logics-and-sym-ballein.md); [Compassion as Sensitivity to Origins](../concepts/compassion-as-sensitivity-to-origins.md); [§5→0 · #0 — From Theory to Vocation](../../../section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md) |
 
 The routes are invitations to retrieve, not permissions to insert an etymology into a passage. Before a canonical use, reopen the local movement and the whole etymological unit, ask what operation the word performs there, and retain the relation that carries that work.
