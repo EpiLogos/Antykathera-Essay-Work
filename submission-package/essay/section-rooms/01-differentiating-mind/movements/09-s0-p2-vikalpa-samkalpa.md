@@ -18,9 +18,11 @@ Movement 09 of 48 · [This room](../ROOM.md) · [← Previous](08-s0-p1-inner-in
 
 ## Movement thesis
 
-Mind constructs a context-world through a pulse: [[vikalpa-samkalpa|*vikalpa*]] differentiates and qualifies; [[vikalpa-samkalpa|*saṃkalpa*]] composes possibilities, intentions, and commitments from those differences. The root `√kḷp` concerns ordering, fitting, preparing, and forming. `Vi-` differentiates the field; `sam-` gathers a workable arrangement. These are not two faculties sitting inside a mental container. They are conjugate operations through which the container and its contents are continually produced.
+Mind constructs a context-world through a pulse: [[vikalpa-samkalpa|*vikalpa*]] differentiates and qualifies; [[vikalpa-samkalpa|*saṃkalpa*]] composes possibilities, intentions, and commitments from those differences. The root `√kḷp` concerns ordering, fitting, preparing, and forming. `Vi-` differentiates the field; `sam-` gathers a workable arrangement. These are not two faculties sitting inside a mental container. They are conjugate operations through which an inhabitable field is continually differentiated and recomposed.
 
-The field is neither a neutral backdrop nor a residual heap of excluded things. Apoha gives its semantic form: “cow” becomes intelligible as all that is not non-cow, a double negation through which determination carries its constitutive context within it. *Pratītya-samutpāda* gives the ontogenic form: this determination arises only through the conditions of its arising. *Saṃkalpa* gives the world-building form: conditions gathered through the cut become a livable, consequential world. Śūnyatā is therefore pūrṇatā—the emptiness of isolated self-subsistence opening as the fullness of constitutive relation.
+The field is neither a neutral backdrop nor a residual heap of excluded things. The next movement gives **apoha** its own Buddhist semantic office: a determination carries the contrastive field against which it can mean. Dependent-arising traditions provide a distinct ontological/causal neighbour in which determinations occur through conditions they do not own. The essay places those operations beside the Śaiva account of manifestation and the authorial vikalpa/saṃkalpa pulse because each resists isolated self-subsistence, **not because they are one doctrine or because one term can be substituted for another**.
+
+The stronger movement from emptiness toward fullness is therefore kept in its proper status. Where the authorial braid reads absence of isolated self-subsistence as opening onto the density of constitutive relation, that is an **Argued cross-tradition synthesis**, not a translation of Buddhist *śūnyatā* into an Upaniṣadic or Śaiva *pūrṇatā*. The traditions retain their own claims while the essay consumes the shared operational pressure: a finite determination is made through relations that exceed it.
 
 ## Process-ontology warrant
 
@@ -30,9 +32,9 @@ This is the first explicit statement of [[symbolon/episteme/arguments/A14-Comput
 
 ## Computational bridge and claim boundary
 
-Artificial systems objectively exhibit the same sequential dependence without requiring a human inner theatre: model state, context, memory, attention, tool-use, inference, output, and environmental feedback form a history in which each state changes the field of the next. The shared vocabulary of psychology and computation is evidence of a shared operational problem—how a world-model differentiates and carries its history—not proof that biological mind and machine have identical subjectivity.
+Artificial systems objectively exhibit sequential dependence without requiring a human inner theatre: context, retained state, attention, tool-use, inference, output, and environmental feedback form a history in which each operation changes the field of the next. The shared vocabulary of psychology and computation is evidence of a shared operational problem—how a situated process differentiates and carries its history—not proof that biological mind and machine have identical subjectivity.
 
-Construction proceeds under constraint: vikalpa inherits the field of relations it differentiates, and saṃkalpa remains answerable to the field it composes. Computational selection therefore constitutes genuine world-forming activity at the objective-internal register. Conscious willing would require the further warrant of a lived subject-pole and remains an open question.
+Construction proceeds under constraint: vikalpa inherits the field of relations it differentiates, and saṃkalpa remains answerable to the field it composes. Computational selection can therefore be investigated as genuine world-forming activity at the objective-internal register. Conscious willing would require the further warrant of a lived subject-pole and remains an open question.
 
 ## Anchor and transition
 **QL anchor:** inherited `0/1` → dia-cut → selected `1` → sym-composition → revised field. **Image:** weaving by cutting and joining. The semantic mechanism of the cut is specified by [[10-s0-p3-apoha|§0 · #3 — Apoha]].
