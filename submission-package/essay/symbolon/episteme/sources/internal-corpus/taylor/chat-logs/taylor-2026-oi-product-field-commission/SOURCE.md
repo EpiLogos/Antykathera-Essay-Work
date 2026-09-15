@@ -6,8 +6,6 @@ source_role:
 citation_style: chicago-notes-bibliography-18
 metadata_status: verified
 edition_status: selected
-citation_status: internal-only
-quote_status: authorial-dialogue-only
 chicago_ready: false
 author:
   - Frank G. Taylor
