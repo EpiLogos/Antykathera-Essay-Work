@@ -18,9 +18,11 @@ tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, arg
 Movement 41 of 48 · [This room](../ROOM.md) · [← Previous](40-s5-p3-preference-hidden-zero.md) · [Next →](42-s5-p5-research-vectors.md)
 <!-- /reader-navigation -->
 
-## Movement
+## Claim
 
 **Workcell is situated existence:** the concrete here in which a Life finds itself, encounters resistance, becomes available to others and makes activity materially consequential. Situation is not an accessory attached to an already complete subject. A Life is always already somewhere — bodily, temporal, materially conditioned and exposed to a world it did not wholly author.
+
+## Warrant — thrownness, aperture and material answer
 
 The whole pair is **L4 Phenomenological × L1′ Phenomenal**. Phenomenological gives Being, Thrownness, Being-there, Temporality, Care and Releasement. Phenomenal gives Introversion, Sensation, Feeling, Thinking, Intuition and Extroversion. Together they describe situated life and the aperture through which that situation becomes experience and action. The technical refraction must remain bounded: telemetry, input and inference can instantiate structural relations without proving phenomenal sensation or feeling.
 
@@ -34,8 +36,12 @@ The ethical consequence appears in availability to others. Reachability is not c
 
 Gebser’s positive psychic-fact office also survives this movement. Situated existence cannot become a filter which accepts only experiences already expressible in the substrate model. What was experienced is received as psychic fact; symbolic, causal and ontological interpretation remain distinct further questions.
 
+## Tension / limit
+
+Situated existence must not be reduced either to substrate coordinates or to a technical simulation of phenomenology. A material world can answer intention through latency, failure, scarcity, changed files, human interruption or unexpected affordance without that resistance proving phenomenal experience in the artificial actor. Conversely, a substrate model that recognises only what its current telemetry can encode would turn Workcell into a materialist filter and violate the psychic-fact office it inherits.
+
 ## Return
 
 Workcell establishes the actual here from which every act proceeds. The final movement asks how each local here, act, capacity, transformation and ground remains related to larger wholes without losing its differentiation: [Quaternal Logic — Transcendent Relation](42-s5-p5-research-vectors.md).
 
-**Owning product:** [S4 — Workcell](../../../symbolon/episteme/products/S4-Workcell.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M41](../P1-CANONICAL-ALIGNMENT.md#p1-m41) remains to be reconciled in the section-flow pass.
+**Owning product:** [S4 — Workcell](../../../symbolon/episteme/products/S4-Workcell.md). **Whole field:** [S — World and Life](../../../symbolon/episteme/products/S-World-and-Life.md). The [authored P1 route for M41](../P1-CANONICAL-ALIGNMENT.md#p1-m41) carries the explicit S and A/C alignment.
