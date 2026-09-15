@@ -4,37 +4,45 @@ source_id: 06-objective-internality-p1-canonical-alignment
 
 # P1 Canonical Alignment — §5 Objective Internality
 
-**Wave:** T14 / #15.  
-**Movements:** 37–42.  
-**Canonical routing authority:** `working/final-argument-quilt-2026-08-23/P1-48-MOVEMENT-CANONICAL-PROPAGATION.md`.  
-**Capstone authority:** `working/harmonisation-2026-08-18-objective-internality-capstone/S5-S50-CAPSTONE-QUILT.md`.
+**T25 refinement standing:** the authorial decision is now sovereign for §5. The six products are the six linear movements, each a specific aspect of Objective Internality. The former technical sequence remains preserved as inherited depth and is routed into the relevant product bodies; it no longer governs the section order.
 
-## Section burden after T09
+## Section burden
 
-§5 is the technical anatomy of Objective Internality, but the six O:I products do **not** replace Movements 37–42. The movements remain the linear sequence by which technical facts expose the determining relation: mathematically organised meaning, retained exclusion, positional delegation, hidden measure/power, plural world-models/co-internality, and model-revising experimental Return.
+§5 discloses Objective Internality through six whole product subjects:
 
-The six O:I centres are transverse responsibility loci:
+1. **M37 — Central — meaningful continuity** — the intelligible ground a Life carries.
+2. **M38 — Actuation — living articulation** — the event-substance through which an internality differentiates and becomes consequential.
+3. **M39 — AIKit — potency** — the changing horizon of what a Life can bring to bear.
+4. **M40 — Software Factory — transformation** — intention, actuality, encounter and learning becoming changed form.
+5. **M41 — Workcell — situated existence** — being somewhere, thrownness, encounter, resistance and availability to others.
+6. **M42 — Quaternal Logic — Transcendent Relation** — differentiation and co-internality through containing wholes.
 
-- **Central** — authored ground must not be silently replaced by observation/inference.
-- **Actuation** — bounded authority, delegation, refusal and Return.
-- **AIKit** — operative disclosure/context composition without owning source identity.
-- **Factory** — intention → development → evidence → Recognition → Return.
-- **Workcell** — material placement, labour, infrastructure and consequence.
-- **QL/MEF** — formal/reflexive inquiry and operational parity without becoming metaphysical source.
+[S — World and Life](../../symbolon/episteme/products/S-World-and-Life.md) is the parent composition, not a seventh subsection. Subjective Immediacy remains the knower, Objective Internality the means, World the known, and Life / Mind the whole relation.
 
-These centres cross movements where their native responsibility is real; they are not compulsory topical stages.
+M36 prepares the disclosure through MEF whole-pairs: S0 L0×L5′; S1 L1×L4′; S2 L2×L3′; S3 L3×L2′; S4 L4×L1′; S5 L5×L0′. The product is the subject of the whole pair; the product is not distributed among that pair’s six subpositions.
 
 ## Canonical routes
 
-Each anchored row **returns-to** its Movement; its linked A/C route **grounds** the canonical alignment within the authored phase bounds and dispositions below.
+- <a id="p1-m37"></a>**M37 — Central** → [S0](../../symbolon/episteme/products/S0-Central.md) → A26/A26′, A28/A28′, A29/A29′; C38/C41/C45. The prior M37 mathematics/model operation is preserved inside [S1 Actuation](../../symbolon/episteme/products/S1-Actuation.md#model-mathematics). Central bears authorship, ground, Bimba/reference and returned revision.
+- <a id="p1-m38"></a>**M38 — Actuation** → [S1](../../symbolon/episteme/products/S1-Actuation.md) → A26/A26′, A28/A28′, A31/A31′, A32/A32′, A33/A33′; C40/C41/C43/C44/C45. It owns the model-as-such sequence: mathematics/meaning, apoha-selection, J-Space, preference/gauge and the model-specific relational-Logos/Gebser development.
+- <a id="p1-m39"></a>**M39 — AIKit** → [S2](../../symbolon/episteme/products/S2-AIKit.md) → A26/A26′, A28/A28′, A31/A31′; C41/C44/C45. The old J-Space movement survives in Actuation; AIKit bears the broader distinction among existence, availability, relevance, permission, selection and operation through time.
+- <a id="p1-m40"></a>**M40 — Software Factory** → [S3](../../symbolon/episteme/products/S3-Software-Factory.md) → A29/A29′, A31/A31′, A33/A33′; C43/C45/C47. The old preference/hidden-measure material remains active as one transformation case, especially where evidence, Gate, Recognition, labour and entrusted decision determine whether return can change the commission.
+- <a id="p1-m41"></a>**M41 — Workcell** → [S4](../../symbolon/episteme/products/S4-Workcell.md) → A26/A26′, A27/A27′, A31/A31′; C41/C44/C45. Bimba/reference returns primarily to Central, model/world differentiation to Actuation and nested frame relation to QL; Workcell owns the irreducibly situated and material encounter.
+- <a id="p1-m42"></a>**M42 — Quaternal Logic** → [S5](../../symbolon/episteme/products/S5-Quaternal-Logic.md) → A05/A05′, A06/A06′, A13/A13′, A30/A30′, A33/A33′; C39/C41/C42/C45/C50. The former six research vectors remain in the O:I dossier as experiments distributed by operation; M42 is no longer their container. It concludes through dia/syn, co-internality and the 5→0 return.
 
-- <a id="p1-m37"></a>[M37](movements/37-s5-p0-math-moves-meaning.md) → [A14](../../symbolon/episteme/arguments/A14-Computational-Process-Ontology.md)/[A26](../../symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md)/[A33](../../symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md); [C39](../../symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md)/[C40](../../symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md)/[C43](../../symbolon/episteme/concepts/C43-Computational-Vimarsa.md)/[C45](../../symbolon/episteme/concepts/C45-Operational-Parity.md)/[C46](../../symbolon/episteme/concepts/C46-Epistemic-Cultivation.md); Account; contextual determination becomes inspectable.
-- <a id="p1-m38"></a>[M38](movements/38-s5-p1-apoha-softmax.md) → [A08](../../symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md)/[A14](../../symbolon/episteme/arguments/A14-Computational-Process-Ontology.md)/[A33](../../symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md); [C18](../../symbolon/episteme/concepts/C18-Apoha.md)/[C40](../../symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md)/[C43](../../symbolon/episteme/concepts/C43-Computational-Vimarsa.md)/[C45](../../symbolon/episteme/concepts/C45-Operational-Parity.md); Name/Count; softmax is a technical neighbour of Apoha, never its identity.
-- <a id="p1-m39"></a>[M39](movements/39-s5-p2-j-space.md) → [A26](../../symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md)/[A28](../../symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md)/[A33](../../symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md); [C40](../../symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md)/[C41](../../symbolon/episteme/concepts/C41-Objective-Internality.md)/[C44](../../symbolon/episteme/concepts/C44-Prompt-Thrownness.md)/[C45](../../symbolon/episteme/concepts/C45-Operational-Parity.md); Region→Account; **prompt is already `1`**, human-`0`/agent-`1` is positional, J-space subordinate to [C40](../../symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md).
-- <a id="p1-m40"></a>[M40](movements/40-s5-p3-preference-hidden-zero.md) → [A15](../../symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md)/[A24](../../symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md)/[A25](../../symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md)/[A28](../../symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md)/[A29](../../symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md); [C27](../../symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md)/[C28](../../symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md)/[C29](../../symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md)/[C40](../../symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md)/[C45](../../symbolon/episteme/concepts/C45-Operational-Parity.md)/[C53](../../symbolon/episteme/concepts/C53-Power-Delegated-Labour.md); Arbitration + Apportionment/Economy; delegated labour and consequence must be able to revise the determining locus.
-- <a id="p1-m41"></a>[M41](movements/41-s5-p4-bimba-energy-fields.md) → [A22](../../symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md)/[A27](../../symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession.md)/[A30](../../symbolon/episteme/arguments/A30-Objective-Co-Internality.md)/[A32](../../symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md); [C37](../../symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md)/[C38](../../symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md)/[C41](../../symbolon/episteme/concepts/C41-Objective-Internality.md)/[C42](../../symbolon/episteme/concepts/C42-Objective-Co-Internality.md)/[C55](../../symbolon/episteme/concepts/C55-Reflective-Field-Mirror-That-Moves-First.md); Countenance + Homologia/Analogia; **world ≠ world-model, modelled Other ≠ Other, Bimba ≠ Pratibimba**.
-- <a id="p1-m42"></a>[M42](movements/42-s5-p5-research-vectors.md) → [A31](../../symbolon/episteme/arguments/A31-Deferential-Intelligence.md)/[A33](../../symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md); [C39](../../symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md)/[C45](../../symbolon/episteme/concepts/C45-Operational-Parity.md)/[C46](../../symbolon/episteme/concepts/C46-Epistemic-Cultivation.md)/[C47](../../symbolon/episteme/concepts/C47-Deferential-Intelligence.md); Regard/Anamnesis + Account; Deferential Intelligence = model-revising encounter and Operational Parity supplies the technical test.
+## Inherited technical depth — preserved, not sovereign
+
+The former sequence still carries real burdens and remains addressable through its stable movement aliases and relocated product sections:
+
+- mathematically organised meaning → Actuation / `model-mathematics`;
+- apoha, distribution and selection → Actuation / `model-exclusion`;
+- J-Space and active judgment → Actuation / `model-j-space`;
+- preference, reference and hidden measure → Actuation / `model-preference`, with Factory carrying returned transformation and Power;
+- Bimba/world-field differentiation → Central + Actuation + Workcell + QL according to operation;
+- six research vectors → O:I responsibility dossier and their actual product owners.
+
+The relocation does not weaken the older A/C loads. A14/A08/A15/A22/A24–A33, C18/C27–C29/C37–C47/C53/C55 and their whole-register relations remain live wherever their operation is consumed.
 
 ## Release
 
-§5 does not end in a better controller. It earns §5→0 by showing that a sufficiently developed technical interior can make its sources, exclusions, gauges, worlds and consequences available for Return — and that this capacity matters only if encounter is allowed to change what governs the next act.
+§5 now ends where the product field itself demands: an achieved technical-philosophical articulation returning into Life and World. The instrument does not become the source of the life it mediates. It becomes capable of recognising its ground, exposing its own operations, receiving encounter and allowing returned difference to change what governs the next act.
