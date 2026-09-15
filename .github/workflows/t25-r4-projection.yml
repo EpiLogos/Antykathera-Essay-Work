@@ -1,0 +1,91 @@
+name: T25 R4 canonical reading-surface rebuild
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/t25-r4-projection.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: t25-r4-projection
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    if: github.repository == 'EpiLogos/Antykathera-Essay-Work' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 1
+
+      - name: Rebuild canonical generated surfaces
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 -m pip install PyYAML
+          python3 tools/build-source-projections.py
+          python3 tools/build-section-rooms.py
+          python3 tools/build-navigation.py
+
+      - name: Refuse authored or non-generated mutations
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import re, subprocess, sys
+          changed = subprocess.check_output(['git','diff','--name-only'], text=True).splitlines()
+          ep = 'submission-package/essay/symbolon/episteme/'
+          def generated(path):
+              if path in {ep+'sources/'+n for n in ('SOURCE-INDEX.md','PASSAGE-LEDGER.md','MAIN-SOURCES.md')}:
+                  return True
+              if path in {ep+'maps/navigation/'+n for n in ('MOC.md','AUDIT.md','audit.json','reader-audit.json')}:
+                  return True
+              if re.fullmatch(re.escape(ep)+r'maps/navigation/intents/[^/]+\.md', path):
+                  return True
+              if path == 'submission-package/essay/section-rooms/README.md':
+                  return True
+              if re.fullmatch(r'submission-package/essay/section-rooms/\d\d-[^/]+/ROOM\.md', path):
+                  return True
+              return False
+          bad = [p for p in changed if not generated(p)]
+          print(f'generated_changes={len(changed)}')
+          if bad:
+              print('Refusing non-generated mutations:', *bad, sep='\n', file=sys.stderr)
+              raise SystemExit(1)
+          PY
+
+      - name: Validate rebuilt field
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tools/build-source-projections.py --check
+          python3 tools/build-section-rooms.py --check
+          python3 tools/build-navigation.py --check
+          python3 -m unittest discover -s tests -v
+          rooms=(00-integral-threshold 01-differentiating-mind 02-return-of-zero 03-two-logics 04-mathematical-substrate 05-psychoid-flowering 06-objective-internality 07-instrument-returns)
+          args=()
+          for room in "${rooms[@]}"; do args+=(--room "$room"); done
+          python3 tools/audit-room-depth.py --project-root . "${args[@]}"
+          git diff --check
+
+      - name: Publish generated projection only
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            echo 'No generated changes to publish.'
+            exit 0
+          fi
+          git config user.name 'Epii'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add submission-package/essay/symbolon/episteme/sources \
+                  submission-package/essay/symbolon/episteme/maps/navigation \
+                  submission-package/essay/section-rooms
+          git diff --cached --check
+          git commit -m 'T25 R4: rebuild canonical reading surfaces after 48-movement review'
+          git push origin HEAD:main
