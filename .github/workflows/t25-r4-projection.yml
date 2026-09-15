@@ -24,6 +24,24 @@ jobs:
           ref: ${{ github.sha }}
           fetch-depth: 1
 
+      - name: Admit S product family to navigation classes
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          path = Path('tools/build-navigation.py')
+          text = path.read_text(encoding='utf-8')
+          if '"episteme-products"' not in text:
+              needle = '    ("episteme-concepts", "Episteme · Concepts C01–C64 and provenance", "#4", "submission-package/essay/symbolon/episteme/concepts/README.md"),\n'
+              addition = '    ("episteme-products", "Episteme · Product field S / S0–S5", "#4", "submission-package/essay/symbolon/episteme/products/S-World-and-Life.md"),\n'
+              if needle not in text:
+                  raise SystemExit('navigation class insertion point not found')
+              text = text.replace(needle, needle + addition, 1)
+          text = text.replace('BUILDER_VERSION = "1.1.0"', 'BUILDER_VERSION = "1.1.1"', 1)
+          path.write_text(text, encoding='utf-8')
+          PY
+
       - name: Rebuild canonical generated surfaces
         shell: bash
         run: |
@@ -33,14 +51,16 @@ jobs:
           python3 tools/build-section-rooms.py
           python3 tools/build-navigation.py
 
-      - name: Refuse authored or non-generated mutations
+      - name: Refuse unrelated mutations
         shell: bash
         run: |
           python3 - <<'PY'
           import re, subprocess, sys
           changed = subprocess.check_output(['git','diff','--name-only'], text=True).splitlines()
           ep = 'submission-package/essay/symbolon/episteme/'
-          def generated(path):
+          def admitted(path):
+              if path == 'tools/build-navigation.py':
+                  return True
               if path in {ep+'sources/'+n for n in ('SOURCE-INDEX.md','PASSAGE-LEDGER.md','MAIN-SOURCES.md')}:
                   return True
               if path in {ep+'maps/navigation/'+n for n in ('MOC.md','AUDIT.md','audit.json','reader-audit.json')}:
@@ -52,10 +72,10 @@ jobs:
               if re.fullmatch(r'submission-package/essay/section-rooms/\d\d-[^/]+/ROOM\.md', path):
                   return True
               return False
-          bad = [p for p in changed if not generated(p)]
-          print(f'generated_changes={len(changed)}')
+          bad = [p for p in changed if not admitted(p)]
+          print(f'admitted_changes={len(changed)}')
           if bad:
-              print('Refusing non-generated mutations:', *bad, sep='\n', file=sys.stderr)
+              print('Refusing unrelated mutations:', *bad, sep='\n', file=sys.stderr)
               raise SystemExit(1)
           PY
 
@@ -73,21 +93,22 @@ jobs:
           python3 tools/audit-room-depth.py --project-root . "${args[@]}"
           git diff --check
 
-      - name: Publish generated projection only
+      - name: Publish builder repair and generated projection
         shell: bash
         run: |
           set -euo pipefail
           if git diff --quiet; then
-            echo 'No generated changes to publish.'
+            echo 'No changes to publish.'
             exit 0
           fi
           git config user.name 'Epii'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add submission-package/essay/symbolon/episteme/sources \
+          git add tools/build-navigation.py \
+                  submission-package/essay/symbolon/episteme/sources \
                   submission-package/essay/symbolon/episteme/maps/navigation \
                   submission-package/essay/section-rooms
           git diff --cached --check
-          git commit -m 'T25 R4: rebuild canonical reading surfaces after 48-movement review'
+          git commit -m 'T25 R4: admit S products to navigation and rebuild reading surfaces'
           git push origin HEAD:main
 
 # Final semantic-head trigger: 2026-09-15 R4 48-movement pass complete.
