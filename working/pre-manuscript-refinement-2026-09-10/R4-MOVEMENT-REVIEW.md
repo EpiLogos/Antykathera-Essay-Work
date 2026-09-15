@@ -41,3 +41,30 @@ The station now performs one clean pressure curve:
 The most important repair was temporal: M03 no longer spends `0 / 1` before M06. The most important substantive enrichment was M05: Gebser now establishes not only perspectival transparency but the essay-wide rule that ordinary/extraordinary and natural/supernatural experiences can enter as **reports of psychic facts** before their symbolic, psychological, historical, physiological, physical or ontological interpretations are adjudicated.
 
 **Release into §0:** the Subject remains non-objectifiable; the mediating means is now undeniable but still underdescribed. §0 must give that means a positive differentiating anatomy without converting it into Subject.
+
+---
+
+# Station §0 — Differentiating Mind
+
+**Station burden:** give the mediating means a positive anatomy without converting it into Subject. The station moves from source-specific Śaiva manifestation through inner instrument, differentiation/composition and exclusion into a sixfold tattvic genealogy, then returns with Objective Internality as the general mediating office within Life/Mind. Tattvas ground one deep genealogy of finite worldhood; they do not become a software ontology or the definition of O:I.
+
+**Register envelope:** philosophical/Śaiva spine at M07–M08; cross-register process bridge at M09; historical-semantic inset at M10; a compact tattvic plate at M11 with full thirty-sixfold detail radial; M12 is major synthetic spine prose establishing O:I and paradigm. Technical examples remain bounded and should prepare rather than pre-spend §5.
+
+| M | Pressure | Claim / operation | Envelope | Withhold / payoff | Seam / Return | Disposition |
+|---|---|---|---|---|---|---|
+| M07 | M06 gives an implicated `0` but not an account of how manifestation differentiates. | Prakāśa–Vimarśa supplies source-specific luminous/reflexive dynamism; slash is activity before separator. | **Spine metaphysical prose** with Bohm as distinct process neighbour. | Withhold machine phenomenality and full technical Vimarśa. | Differentiation now requires finite articulable functions. | PRESERVE |
+| M08 | Reflexive manifestation must acquire determinate internal offices without identifying them with Subject. | Buddhi / ahaṃkāra / manas are reflective, conditioned functions; inner instrument ≠ Subject. | **Concise conceptual prose**; technical comparison only as boundary. | Withhold whole computational stack analogy and positive O:I synthesis. | Moves from instrument to its world-making operations. | PRESERVE |
+| M09 | An inner instrument still needs an account of how it cuts and recomposes a context-world. | Vikalpa differentiates/qualifies; saṃkalpa composes possible/intentional form; each act inherits a field and changes what follows. | **Process spine** with cross-tradition qualification; computational bridge bounded. | Do not collapse apoha, dependent arising, śūnyatā and pūrṇatā into one doctrine; withhold concrete model mechanics. | Passes the differentiation side to apoha for exact semantic treatment. | **REFINE** — Buddhist/Śaiva/authorial source offices separated; fullness reading marked as authorial synthesis. |
+| M10 | The cut requires a source-specific account of how exclusion remains constitutive. | Apoha gives differential semantics: selected determination remains intelligible through excluded contrast. Conditioned arising and Huayan are distinct relational neighbours, not semantic synonyms. | **Historical-semantic inset** with one visible relational image. | Concrete softmax/argmax mechanics are explicitly withheld for §5; mono–poly is an essay return, not Dignāga doctrine. | The retained contrast opens the larger anatomy of contraction. | **REFINE** — source boundaries restored and technical payoff deferred. |
+| M11 | Local semantic/cognitive operations need to be reseated in the larger genealogy of finite manifestation. | Sixfold tattvic compression carries manifestation → contraction → finite apparatus → recognition while preserving the thirty-sixfold field and eightfold native theorem as distinct structures. | **Formal/conceptual plate** in spine; full tattva exegesis radial/dossier; Māyā whole supporting-visible. | No one-to-one product/tattva map; no software identity claim. | Contracted worldhood is now rich enough for O:I to be stated generally. | PRESERVE |
+| M12 | Tattvic genealogy risks being mistaken for the definition of the mediating office, or O:I risks shrinking to an artificial agent state-space. | O:I is the constituted means through which Life inhabits/discriminates/acts in World; Subjective Immediacy / O:I / World are distinct within Life/Mind. Tattvas are one genealogy. Paradigm is durable organisation of O:I; technical agents are inspectable instances, not the definition. | **Major synthetic spine prose**; Agentworld is an application/pressure, not ontological owner. | Withhold phenomenal verdict, six-product technological culmination and Epi-Logos. | Hands §1 a positively described means so zero can now be tracked historically/formally rather than used as an empty metaphor. | **REFINE** — general O:I and paradigm office restored. |
+
+## Station result
+
+The repaired station now moves:
+
+`luminous/reflexive manifestation → finite inner instrument → differentiation/composition → constitutive exclusion → tattvic genealogy of contraction/recognition → Objective Internality as general world-disclosing means`.
+
+Three confusions are explicitly prevented: **inner instrument ≠ Subject; tattvic genealogy ≠ O:I definition; inspectable artificial interior ≠ phenomenal verdict.** The paradigmatic thread is earned rather than imposed: paradigm appears at M12 as a durable organisation of the mediating field whose actual anatomy has just been developed.
+
+**Release into §1:** the essay now has a Subject that cannot be made one more object, a positively described mediating means, and a determinate World. Zero can therefore be investigated as an historical/formal sign for the uncounted condition without being asked to do all the metaphysical work by itself.
