@@ -1,0 +1,232 @@
+name: T25 R5 product-field admission and reader integration
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/t25-r5-integration.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: t25-r5-integration
+  cancel-in-progress: false
+
+jobs:
+  integrate:
+    if: github.repository == 'EpiLogos/Antykathera-Essay-Work' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 1
+
+      - name: Install validation dependency
+        run: python3 -m pip install PyYAML
+
+      - name: Apply bounded R5 semantic and graph repairs
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          def replace_once(path, old, new):
+              p = Path(path)
+              text = p.read_text(encoding='utf-8')
+              if old not in text:
+                  raise SystemExit(f'replacement needle missing in {path}: {old[:100]!r}')
+              if text.count(old) != 1:
+                  raise SystemExit(f'replacement needle not unique in {path}')
+              p.write_text(text.replace(old, new, 1), encoding='utf-8')
+
+          # Cold semantic review: standard set theory stops before the native QL relation.
+          replace_once(
+              'submission-package/essay/symbolon/episteme/conjugate/AC.md',
+              '`2 = 0/1` is the standard notation read with the reverence it never asked for; against it the fallen `1 + (−1)` is a late arrival of debt-bookkeeping.',
+              'The standard set-theoretic statements stop at `0 = ∅`, `1 = {0}` and `2 = {0,1}`. The essay’s `0/1` is a separate native QL relation read beside that formal neighbour; it is neither standard notation for the ordinal `2` nor ordinary fraction division. Against this authorial relational reading, the fallen `1 + (−1)` is a later signed accounting with a different operation.'
+          )
+          replace_once(
+              'submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md',
+              '[[A02-Copula-Self-Identity-through-Difference|The formal limit]] is thus performed again through a changed capacity to answer it.',
+              '[[A03-Immutable-Gap-Formal-Limit|The formal limit]] is thus performed again through a changed capacity to answer it.'
+          )
+          replace_once(
+              'submission-package/essay/symbolon/episteme/products/S-World-and-Life.md',
+              "Frank's Kaplan encounter points specifically to the twelfth-century scene whose retained English witness is Bhāskara's *Bījagaṇita* I.14/I.16: a cipher denominator and an image of divine invariance amid manifestation and withdrawal. The [R1 grounding return](../../../../../working/pre-manuscript-refinement-2026-09-10/R1-GROUNDING-RETURN.md#indian-scene-and-exact-remaining-collation) keeps the intended Abhinavagupta interval as a precise collation task. This is not an interchangeable story about any formal limit or a universal first-invention date.",
+              "Frank's Kaplan encounter points specifically to the twelfth-century scene whose retained English witness is Bhāskara's *Bījagaṇita* I.14/I.16: a cipher denominator and an image of divine invariance amid manifestation and withdrawal. The later R3 collation now bounds the intended relation through separate public records: Abhinavagupta conventionally **c.975–1025** and Bhāskara II's *Bījagaṇita* **1150**, roughly the author's century-scale interval. This is an Argued civilisational juxtaposition, not a transmission claim, an interchangeable formal-limit story or a universal first-invention date. Critical edition and any stronger historical relation retain their own source duties."
+          )
+
+          # Make the product-domain reader entrance visible from the parent field.
+          replace_once(
+              'submission-package/essay/symbolon/episteme/products/S-World-and-Life.md',
+              '# S — World and Life\n\n## #0 — A Life discloses a World',
+              '# S — World and Life\n\n[Product-field reader entrance](README.md) · six offices return through M37–M42 into Life / World.\n\n## #0 — A Life discloses a World'
+          )
+
+          # M26 already has the warrant; name the surface explicitly for the reader/doctor.
+          replace_once(
+              'submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md',
+              '## Harmonic reading — exact ratios, interpreted relation',
+              '## Warrant — harmonic reading: exact ratios, interpreted relation'
+          )
+
+          # Give the new etymological whole a visible return into the linear essay.
+          replace_once(
+              'submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md',
+              'This whole field should be consumed by exact operation. A bare `Paradigm` link is not evidence that the relation has been recovered.',
+              '**Linear returns:** the paradigmatic relation enters the movement sequence at [M12 — Objective Internality](../../../../section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality.md), returns vocationally at [M43 — From Theory to Vocation](../../../../section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md), and closes as paradigm-level Return at [M48 — AHI and Planetary Return](../../../../section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md).\n\nThis whole field should be consumed by exact operation. A bare `Paradigm` link is not evidence that the relation has been recovered.'
+          )
+
+          # Product records are canonical graph nodes, not opaque leaves.
+          p = Path('tools/okf-workspace.py')
+          text = p.read_text(encoding='utf-8')
+          text = text.replace(
+              '            "argument-map",\n            "concept",\n            "room-reading-path",',
+              '            "argument-map",\n            "concept",\n            "product",\n            "product-field",\n            "room-reading-path",',
+              1,
+          )
+          text = text.replace(
+              '            "argument": 0,\n            "section": 1,\n            "concept": 2,',
+              '            "argument": 0,\n            "section": 1,\n            "product-field": 2,\n            "product": 2,\n            "concept": 3,',
+              1,
+          )
+          marker = '''            for argument_id in consumed_by_arguments:\n                edge = self._edge(\n                    artifact,\n                    str(argument_id),\n                    "consumed-by",\n                    "consumed_by_arguments",\n                    preferred="argument",\n                )\n                key = (edge.target, edge.raw_target, edge.relation)\n                if key not in seen:\n                    seen.add(key)\n                    edges.append(edge)\n\n'''
+          if marker not in text:
+              raise SystemExit('okf product-edge insertion point missing')
+          injection = marker + '''            for field_name, preferred, relation in (\n                ("argument_relations", "argument", "related"),\n                ("concept_relations", "concept", "related"),\n            ):\n                declared = artifact.frontmatter.get(field_name) or []\n                if isinstance(declared, str):\n                    declared = [declared]\n                for declared_id in declared:\n                    edge = self._edge(\n                        artifact, str(declared_id), relation, field_name, preferred=preferred\n                    )\n                    key = (edge.target, edge.raw_target, edge.relation)\n                    if key not in seen:\n                        seen.add(key)\n                        edges.append(edge)\n\n            product_parent = artifact.frontmatter.get("product_parent")\n            if product_parent:\n                edge = self._edge(\n                    artifact, str(product_parent), "member-of", "product_parent", preferred="product-field"\n                )\n                key = (edge.target, edge.raw_target, edge.relation)\n                if key not in seen:\n                    seen.add(key)\n                    edges.append(edge)\n\n            members = artifact.frontmatter.get("members") or []\n            if isinstance(members, str):\n                members = [members]\n            for member in members:\n                edge = self._edge(artifact, str(member), "has-member", "members", preferred="product")\n                key = (edge.target, edge.raw_target, edge.relation)\n                if key not in seen:\n                    seen.add(key)\n                    edges.append(edge)\n\n'''
+          text = text.replace(marker, injection, 1)
+          text = text.replace(
+              '            "source_notes": of_type("source-notes"),\n            "passages": passages,',
+              '            "source_notes": of_type("source-notes"),\n            "products": of_type("product"),\n            "product_fields": of_type("product-field"),\n            "passages": passages,',
+              1,
+          )
+          p.write_text(text, encoding='utf-8')
+
+          # Navigation must expose the products domain as one Episteme family.
+          p = Path('tools/build-navigation.py')
+          text = p.read_text(encoding='utf-8')
+          if '"episteme-products"' not in text:
+              needle = '    ("episteme-concepts", "Episteme · Concepts C01–C64 and provenance", "#4", "submission-package/essay/symbolon/episteme/concepts/README.md"),\n'
+              addition = '    ("episteme-products", "Episteme · Product field S / S0–S5", "#4", "submission-package/essay/symbolon/episteme/products/README.md"),\n'
+              if needle not in text:
+                  raise SystemExit('navigation product class insertion point missing')
+              text = text.replace(needle, needle + addition, 1)
+          text = text.replace('BUILDER_VERSION = "1.1.0"', 'BUILDER_VERSION = "1.1.1"', 1)
+          p.write_text(text, encoding='utf-8')
+
+          # Reader audit now binds the explicit T25 admission instead of altering the historical baseline.
+          replace_once(
+              'tools/audit-reader-navigation.py',
+              'RECEIPT = Path("working/p2-enrichment/receipts/T20-T21-current-census-acceptance.json")',
+              'RECEIPT = Path("working/pre-manuscript-refinement-2026-09-10/T25-current-census-acceptance.json")'
+          )
+
+          # Pre-S tests: update only assumptions displaced by the commissioned product family.
+          replace_once(
+              'tests/test_publication_architecture.py',
+              '            "dialogues",\n        },',
+              '            "dialogues",\n            "products",\n        },'
+          )
+          replace_once(
+              'tests/test_submission_package.py',
+              '            181,\n            len(list((ESSAY / "symbolon/episteme/sources").rglob("SOURCE.md"))),',
+              '            187,\n            len(list((ESSAY / "symbolon/episteme/sources").rglob("SOURCE.md"))),'
+          )
+          replace_once(
+              'tests/test_pre_manuscript_gate.py',
+              '        self.assertEqual(281, len(rows))',
+              '        self.assertEqual(288, len(rows))'
+          )
+          replace_once(
+              'tests/test_pre_manuscript_gate.py',
+              "        suite = {f'C{i:02}' for i in range(1,65)} | {f'A{i:02}' for i in range(1,37)} | {f'A{i:02}p' for i in range(1,37)} | {'A/C'}",
+              "        suite = ({f'C{i:02}' for i in range(1,65)} | {f'A{i:02}' for i in range(1,37)} | {f'A{i:02}p' for i in range(1,37)} | {'A/C'} | {'S','S0','S1','S2','S3','S4','S5'})"
+          )
+
+          # J-Space was deliberately moved into Actuation; M39 is now AIKit.
+          replace_once(
+              'tests/test_okf_workspace.py',
+              '            "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",\n            paths,',
+              '            "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",\n            paths,'
+          )
+          replace_once(
+              'tests/test_okf_workspace.py',
+              '        self.assertIn("j-space", {node["id"] for node in result["concepts"]})\n        self.assertIn("A14-Computational-Process-Ontology", {node["id"] for node in result["arguments"]})\n        self.assertIn(\n            "lecun-et-al-2006-energy-based-learning",\n            {node["id"] for node in result["sources"]},\n        )',
+              '        self.assertIn("C41", {node["id"] for node in result["concepts"]})\n        self.assertIn("A26", {node["id"] for node in result["arguments"]})\n        self.assertIn(\n            "taylor-2026-oi-product-field-commission",\n            {node["id"] for node in result["sources"]},\n        )'
+          )
+          PY
+
+      - name: Build T25 admission and generated reader surfaces
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tools/build-t25-refinement-admission.py
+          python3 tools/build-source-projections.py
+          python3 tools/build-section-rooms.py
+          python3 tools/build-navigation.py
+
+      - name: Print semantic reader diagnostics
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tools/audit-reader-navigation.py --project-root . --output "$RUNNER_TEMP/reader-audit.json"
+          python3 - <<'PY'
+          import importlib.util, json, pathlib, sys
+          root = pathlib.Path('.').resolve()
+          report = json.load(open(__import__('os').environ['RUNNER_TEMP'] + '/reader-audit.json'))
+          protected = {'NOTES.md','AUTHORIAL-TEXT.md','HISTORY.md','READING.md','SCRATCH.md','SOURCE-TEMPLATE.md'}
+          dead = [p for p in report['no_visible_path_to_movement'] if '/concepts/reference-notes/' not in p and pathlib.Path(p).name not in protected]
+          print('VISIBLE DEAD ENDS:')
+          print('\n'.join(dead) if dead else '(none)')
+          spec = importlib.util.spec_from_file_location('rooms_diag', root/'tools/build-section-rooms.py')
+          mod = importlib.util.module_from_spec(spec); sys.modules[spec.name]=mod; spec.loader.exec_module(mod)
+          missing=[]
+          for room in mod.ROOMS:
+              routes=mod.load_canonical_routes(root, root/mod.ROOM_ROOT/room.slug)
+              movements=[m for m in mod.load_movements(root) if m['station']==room.station]
+              missing += [m['sequence'] for m in movements if not routes.get(m['sequence'])]
+          print('MOVEMENTS WITH EMPTY CANONICAL ROUTE:', missing)
+          print('ADMITTED:', report['counts']['admitted'], 'UNREACHABLE:', report['counts']['unreachable_admitted'])
+          PY
+
+      - name: Validate admission, builders and complete suite
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tools/build-t25-refinement-admission.py --check
+          python3 tools/build-source-projections.py --check
+          python3 tools/build-section-rooms.py --check
+          python3 tools/build-navigation.py --check
+          python3 -m unittest discover -s tests -v
+          rooms=(00-integral-threshold 01-differentiating-mind 02-return-of-zero 03-two-logics 04-mathematical-substrate 05-psychoid-flowering 06-objective-internality 07-instrument-returns)
+          args=()
+          for room in "${rooms[@]}"; do args+=(--room "$room"); done
+          python3 tools/audit-room-depth.py --project-root . "${args[@]}"
+          git diff --check
+
+      - name: Publish only the validated integration
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'Epii'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add tools tests \
+                  working/pre-manuscript-refinement-2026-09-10/T25-current-census-acceptance.json \
+                  submission-package/essay/symbolon/episteme/conjugate/AC.md \
+                  submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md \
+                  submission-package/essay/symbolon/episteme/products/S-World-and-Life.md \
+                  submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md \
+                  submission-package/essay/section-rooms/04-mathematical-substrate/movements/26-s3-p1-spanda-4-2.md \
+                  submission-package/essay/symbolon/episteme/sources \
+                  submission-package/essay/symbolon/episteme/maps/navigation \
+                  submission-package/essay/section-rooms
+          git diff --cached --check
+          if git diff --cached --quiet; then
+            echo 'No integration changes to publish.'
+            exit 0
+          fi
+          git commit -m 'T25 R5: admit S field and reconcile cold reader integration'
+          git push origin HEAD:main
