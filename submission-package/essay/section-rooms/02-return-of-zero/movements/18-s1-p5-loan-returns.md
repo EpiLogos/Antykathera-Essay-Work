@@ -53,7 +53,7 @@ The return of zero is recognition of the zero retained in every one: achieved fo
 
 ## Release into §2
 
-The recovered zero reveals why “binary logic” is ambiguous. One binary opposes `+1` and `−1` around an external zero. The other relates `0/1` and `1/0`, retaining zero within both orientations. Their difference determines whether intelligence treats conflict as the collision of self-grounding camps or as differentiation within a shared but irreducible field.
+The recovered zero reveals why “binary logic” is ambiguous. The next station first gives **polar dia-ballein** as `(-1)/(+1)`, where zero remains the axis of tension and connection; only its collapsed operations cancel the poles into `0` or appropriate their span into `±2`. **Sym-ballein** then relates `0/1` and `1/0`, retaining ground, mark and their inverse orientations within one differentiated relation. The distinction is therefore not “external zero versus internal zero,” but whether the cut remains answerable to its generating relation or is collapsed into operations on apparently self-grounding terms.
 
 Continue to [[19-s2-p0-difference-cannot-be-escaped|§2 · #0 — Difference Cannot Be Escaped]].
 

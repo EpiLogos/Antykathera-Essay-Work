@@ -28,7 +28,7 @@ Read through [[symbolon/episteme/dossiers/bohm|Bohm]], the full tattva field bec
 
 ## Transverse office
 
-This movement compresses the tattvic field for §0; it does not confine that field to §0. The same meta-context remains active wherever later sections treat bounded cognition, exclusion, worldhood, phenomenological inquiry, operative interiority, or return. In particular, [[08-s0-p1-inner-instrument|antaḥkaraṇa]], [[09-s0-p2-vikalpa-samkalpa|vikalpa / saṃkalpa]] and [[10-s0-p3-apoha|apoha]] return technically in [[38-s5-p1-apoha-softmax|§5 · #1 — Apoha, Softmax, and Argmax]], where differential selection is investigated inside an artificial operative interior rather than treated as an isolated analogy.
+This movement compresses the tattvic field for §0; it does not confine that field to §0. The same meta-context remains active wherever later sections treat bounded cognition, exclusion, worldhood, phenomenological inquiry, operative interiority, or return. In particular, [[08-s0-p1-inner-instrument|antaḥkaraṇa]], [[09-s0-p2-vikalpa-samkalpa|vikalpa / saṃkalpa]] and [[10-s0-p3-apoha|apoha]] return technically in [[38-s5-p1-apoha-softmax|§5 · #1 — Actuation — Living Articulation]], where apoha, softmax and differential selection are investigated as depth inside an artificial operative event rather than treated as an isolated analogy.
 
 The current pre-architecture conformance rule is recorded in [PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE](../../../../../working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md).
 
