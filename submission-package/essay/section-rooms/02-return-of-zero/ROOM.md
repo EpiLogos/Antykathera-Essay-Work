@@ -44,7 +44,7 @@ Differentiation structurally retains a zero, and mathematics supplies exact form
 
 **Incoming pressure:** [§1 #0 · A Sign Migrates Between Worlds](movements/13-s1-p0-sign-migrates.md)
 
-**Earned position (Derived):** The decisive mathematical turn occurs when śūnya is no longer only an empty place but something through which arithmetic can pass.
+**Earned position (Derived (historical/mathematical); Argued (Indian mathematical-metaphysical braid)):** The decisive mathematical turn occurs when śūnya is no longer only an empty place but something through which arithmetic can pass.
 
 **Why this move:** The first two operations are stable within ordinary arithmetic.
 

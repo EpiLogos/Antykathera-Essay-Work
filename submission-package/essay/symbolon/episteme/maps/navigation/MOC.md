@@ -5,7 +5,7 @@ page_type: navigation-moc
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "fe2af8e264c5cea8b81ff6ee185978bbc8ff63817a3a16c14cd8faed26d5d162"
+source_digest: "d27ec9c9f85c6dc8856477f763ddd801d2a113d9f16fe6ee2c1b3ddb7cfc496f"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -22,7 +22,7 @@ This map is generated from the relations authors wrote into the publication body
 |---|---|---|---|---|---|---|
 | #5 | The sovereign essay | 1 | 8 | 0% | [The Return of Zero](../../../../THE-RETURN-OF-ZERO.md) | [intents](intents/essay.md) |
 | #0 | The rooms — waypoints, alignments, reading routes | 20 | 847 | 9% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/rooms.md) |
-| #0 | The 48 movements | 48 | 474 | 42% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
+| #0 | The 48 movements | 48 | 473 | 42% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
 | #0 | The historical argument shelf (01–21) | 21 | 260 | 5% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/argument-shelf.md) |
 | #1 | Symbolon — the twelvefold root | 14 | 196 | 74% | [Symbolon — The Return of Zero](../../../README.md) | [intents](intents/symbolon-root.md) |
 | #2 | Matheme — exact operations | 94 | 845 | 47% | [Matheme](../../../matheme/README.md) | [intents](intents/matheme.md) |
@@ -32,7 +32,7 @@ This map is generated from the relations authors wrote into the publication body
 | #4 | Episteme · Conjugate arguments A01′–A36′ | 38 | 650 | 32% | [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../conjugate/README.md) | [intents](intents/episteme-conjugate.md) |
 | #4 | Episteme · Concepts C01–C64 and provenance | 179 | 1349 | 46% | [Concepts](../../concepts/README.md) | [intents](intents/episteme-concepts.md) |
 | #4 | Episteme · Product field S / S0–S5 | 8 | 100 | 24% | [Episteme — S Product Field](../../products/README.md) | [intents](intents/episteme-products.md) |
-| #4 | Episteme · Etymology whole-fields | 25 | 618 | 72% | [Etymologies — Meaning Fields, Word-Histories, and Re-entries](../../etymologies/README.md) | [intents](intents/episteme-etymologies.md) |
+| #4 | Episteme · Etymology whole-fields | 25 | 619 | 73% | [Etymologies — Meaning Fields, Word-Histories, and Re-entries](../../etymologies/README.md) | [intents](intents/episteme-etymologies.md) |
 | #4 | Episteme · Histories | 21 | 660 | 65% | [Histories — Streams of the Logos in Time](../../histories/README.md) | [intents](intents/episteme-histories.md) |
 | #4 | Episteme · Source houses | 201 | 1066 | 16% | [Return of Zero Source Bank](../../sources/README.md) | [intents](intents/episteme-sources.md) |
 | #4 | Episteme · Dossiers | 8 | 205 | 87% | [Dossiers](../../dossiers/README.md) | [intents](intents/episteme-dossiers.md) |
@@ -55,8 +55,8 @@ This map is generated from the relations authors wrote into the publication body
 
 | Relation | Count |
 |---|---|
-| unnamed | 5417 |
-| sources | 1329 |
+| unnamed | 5416 |
+| sources | 1330 |
 | sources (declared) | 822 |
 | returns-to | 657 |
 | grounds | 473 |

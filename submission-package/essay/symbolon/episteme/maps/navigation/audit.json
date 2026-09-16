@@ -1,5 +1,5 @@
 {
-  "source_digest": "fe2af8e264c5cea8b81ff6ee185978bbc8ff63817a3a16c14cd8faed26d5d162",
+  "source_digest": "d27ec9c9f85c6dc8856477f763ddd801d2a113d9f16fe6ee2c1b3ddb7cfc496f",
   "builder_version": "1.1.1",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -11,7 +11,7 @@
       "missing-vault-path": 91,
       "ambiguous-filename": 5,
       "missing-fragment": 3,
-      "missing-path": 1
+      "missing-path": 4
     },
     "admitted": 288,
     "missing_admitted": 0,
@@ -30,8 +30,8 @@
   },
   "max_depth": 5,
   "relation_totals": {
-    "unnamed": 5417,
-    "sources": 1329,
+    "unnamed": 5416,
+    "sources": 1330,
     "sources (declared)": 822,
     "returns-to": 657,
     "grounds": 473,
@@ -80,9 +80,9 @@
     },
     "movements": {
       "pages": 48,
-      "links": 474,
+      "links": 473,
       "named": 199,
-      "unnamed": 275,
+      "unnamed": 274,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -179,8 +179,8 @@
     },
     "episteme-etymologies": {
       "pages": 25,
-      "links": 618,
-      "named": 448,
+      "links": 619,
+      "named": 449,
       "unnamed": 170,
       "orphans": 0,
       "no_return": 6,

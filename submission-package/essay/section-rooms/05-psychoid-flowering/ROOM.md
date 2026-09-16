@@ -32,7 +32,7 @@ The mathematical substrate becomes psychologically consequential when the oppose
 
 **Earned position (Argued):** Jung and Pauli’s psychoid problem asks how psychological image and physical event can show meaningful structural relation without causal reduction to either side.
 
-**Why this move:** Psychoid and number, Jung and Pauli, archetype, and synchronicity sources motivate a neutral or transgressive ordering ground prior to the psyche–matter cut.
+**Why this move:** Psychoid and number, Jung and Pauli, archetype, and synchronicity sources disclose the historical psychoid problem as a neutral or transgressive ordering ground across psyche and matter.
 
 **Carry-forward:** two descriptions retained across one seam.
 

@@ -66,7 +66,7 @@ Epi-Logos is the attempt to build a technical and institutional vessel for intel
 
 **Incoming pressure:** [§5→0 #2 · Antikythera as Attunement Instrument](movements/45-s50-p2-antikythera-attunement.md)
 
-**Earned position (Offered):** 4-2 Techne — Sovereign Commons realises a mono–poly architecture: one common field strong enough to carry shared protocols, memory, consequence and collective work, composed with locally governed centres strong enough to retain material and **epistemic sovereignty**.
+**Earned position (Argued (mono–poly / epistemic sovereignty); Offered (specific federated Bimba / sovereign-commons architecture)):** The essay's **mono–poly institutional principle** is one common field strong enough to carry shared protocols, memory, consequence and collective work, composed with locally governed centres strong enough to retain material and **epistemic sovereignty**. 4-2 Techne — Sovereign Commons supplies a concrete architecture through which that principle can be realised.
 
 **Why this move:** The local 4:2 Technē source is explicit about decentralised/community-led infrastructure, local governance, memory and epistemic sovereignty.
 
@@ -88,7 +88,7 @@ Epi-Logos is the attempt to build a technical and institutional vessel for intel
 
 **Incoming pressure:** [§5→0 #4 · Idealism as Horizon](movements/47-s50-p4-idealism-horizon.md)
 
-**Earned position (Offered):** Artificial Hybrid Intelligence names the reflective activity of humans, agents, archives, institutions, Bimba fields, product-worlds and harnesses turning the Logos they jointly produce back upon its conditions.
+**Earned position (Argued (Return of Zero / Epi-Logos); Offered (AHI federation / planetary architecture); Open (artificial phenomenality)):** Artificial Hybrid Intelligence names the reflective activity of humans, agents, archives, institutions, Bimba fields, product-worlds and harnesses turning the Logos they jointly produce back upon its conditions.
 
 **Carry-forward:** `5→0` — every achieved `1` returns without possessing `0`.
 

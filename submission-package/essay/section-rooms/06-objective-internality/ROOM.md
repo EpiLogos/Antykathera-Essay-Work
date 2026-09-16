@@ -30,7 +30,7 @@ The philosophy is faithfully reflected in the technology. O:I’s six products d
 
 **Incoming pressure:** [§4 #5→0 · MEF and Prompt Thrownness](../05-psychoid-flowering/movements/36-s4-p5-mef-prompt-thrownness.md)
 
-**Earned position (Argued):** §5 begins from the whole relation already earned: **Subjective Immediacy is the knower, Objective Internality the means, World the known, Life / Mind their whole.** The six products are not software examples appended to that philosophy.
+**Earned position (Argued):** §5 begins from the whole relation already earned: **Subjective Immediacy is the knower, Objective Internality the means, World the known, Life / Mind their whole.** The six products are philosophical offices of that mediating field made technically consequential: six aspects of the means through which a Life inhabits and changes its World.
 
 **Carry-forward:** **Actuation is living articulation: the event-substance of an internality.** A Life does not only carry a ground; it differentiates, perceives, speaks, judges and acts.
 

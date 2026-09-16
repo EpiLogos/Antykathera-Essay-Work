@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "fe2af8e264c5cea8b81ff6ee185978bbc8ff63817a3a16c14cd8faed26d5d162"
+source_digest: "d27ec9c9f85c6dc8856477f763ddd801d2a113d9f16fe6ee2c1b3ddb7cfc496f"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -39,7 +39,7 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 |---|---|---|---|---|---|---|---|
 | The sovereign essay | 1 | 8 | 0 | 8 | 0 | 0 | 0 |
 | The rooms — waypoints, alignments, reading routes | 20 | 847 | 79 | 768 | 0 | 0 | 0 |
-| The 48 movements | 48 | 474 | 199 | 275 | 0 | 0 | 0 |
+| The 48 movements | 48 | 473 | 199 | 274 | 0 | 0 | 0 |
 | The historical argument shelf (01–21) | 21 | 260 | 12 | 248 | 0 | 0 | 0 |
 | Symbolon — the twelvefold root | 14 | 196 | 146 | 50 | 0 | 1 | 0 |
 | Matheme — exact operations | 94 | 845 | 399 | 446 | 0 | 13 | 0 |
@@ -49,7 +49,7 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 | Episteme · Conjugate arguments A01′–A36′ | 38 | 650 | 210 | 440 | 0 | 0 | 0 |
 | Episteme · Concepts C01–C64 and provenance | 179 | 1349 | 618 | 731 | 36 | 81 | 47 |
 | Episteme · Product field S / S0–S5 | 8 | 100 | 24 | 76 | 1 | 2 | 1 |
-| Episteme · Etymology whole-fields | 25 | 618 | 448 | 170 | 0 | 6 | 0 |
+| Episteme · Etymology whole-fields | 25 | 619 | 449 | 170 | 0 | 6 | 0 |
 | Episteme · Histories | 21 | 660 | 429 | 231 | 0 | 3 | 0 |
 | Episteme · Source houses | 201 | 1066 | 167 | 899 | 0 | 80 | 0 |
 | Episteme · Dossiers | 8 | 205 | 179 | 26 | 0 | 1 | 0 |

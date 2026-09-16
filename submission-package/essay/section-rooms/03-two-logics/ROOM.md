@@ -62,7 +62,7 @@ The bare relation `/ = -/-` generates two complete ways of accounting for two. D
 
 **Incoming pressure:** [§2 #2 · Sym-Ballein](movements/21-s2-p2-sym-ballein.md)
 
-**Earned position (Offered):** Ares and Aphrodite give the logics a body.
+**Earned position (Argued):** Ares and Aphrodite give the logics a body.
 
 **Carry-forward:** The accepted surety **returns-to** Credere — renewed entrustment at the change from recorded capture to personed liability.
 

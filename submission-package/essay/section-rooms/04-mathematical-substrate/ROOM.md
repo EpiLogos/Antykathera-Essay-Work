@@ -74,7 +74,7 @@ QL connects distinction, re-entry, polarity, ratio, topology, harmonic resolutio
 
 **Incoming pressure:** [§3 #3 · Projective Completion and Dimensional Reframing](movements/28-s3-p3-projective-dimensional-reframing.md)
 
-**Earned position (Mixed: Derived (local topology and ratio identities) / Argued (toroidal and harmonic QL coordination) / Offered (4+2 and Pythagorean amplifications)):** Topology and music give two **distinct exact witnesses** for the essay's authorial operation of return through retained difference.
+**Earned position (Mixed: Derived (local topology and ratio identities) / Argued (toroidal and harmonic QL coordination) / Offered (4+2 and Pythagorean amplifications)):** Topology and music give two **distinct exact forms of return through retained difference**.
 
 **Carry-forward:** The station has now accumulated several rigorously distinct ways of carrying a relation through transformation: differential underdetermination, declared QL traversal, complex phase, changed formal frame, winding on a quotient and harmonic completion.
 
@@ -84,7 +84,7 @@ QL connects distinction, re-entry, polarity, ratio, topology, harmonic resolutio
 
 **Incoming pressure:** [§3 #4 · Topology and Musical Resolution](movements/29-s3-p4-topology-music-resolution.md)
 
-**Earned position (Derived):** The arche-topos is the differential field on which the \(0/1\) relation can be written as path, circulated as winding, heard as interval, and recognised as symbolic transformation.
+**Earned position (Derived (Arche-Topos formal synthesis); Argued (psychoid identification)):** The arche-topos is the differential field on which the \(0/1\) relation can be written as path, circulated as winding, heard as interval, and recognised as symbolic transformation.
 
 **Carry-forward:** The differential field **returns-to** Topos — situated return through the conditions under which a placement, path or return is possible.
 
