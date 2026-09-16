@@ -1,14 +1,15 @@
 ---
 title: "R6 — Return T25's refined whole and prepare the T26/§5 writing base"
 label: wayfinder:task
-status: open
+status: in_progress
 parent: ../maps/p2-enrichment-handoff.md
-assignee: ""
+assignee: "T25 R6 truth-strength / authorial-return reviewer — 2026-09-16"
 blocked_by:
   - refine-05-cold-review-and-validation.md
 programme: "T25 / GitHub #26 → T26 / GitHub #27"
 created: 2026-09-10
 updated: 2026-09-16
+claimed_from: "main@748ff29956bcf42df9d08f632d00ccae60a6bc4f"
 ---
 
 # R6 — Authorial return and common-base packet
