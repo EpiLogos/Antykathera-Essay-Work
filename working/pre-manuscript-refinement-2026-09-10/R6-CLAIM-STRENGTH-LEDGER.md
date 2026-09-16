@@ -222,23 +222,36 @@ Availability, relevance, permission, selection and fitness are substantive diffe
 
 **Disposition: NO STRUCTURAL FAULT.**
 
-S states the whole relation, paradigm, six offices, Indian/Gebser/psychic-fact hinge, Other, Power and paradigmatic reflexivity positively. Its no-transmission and implementation clauses protect actual source/empirical distinctions. The stronger philosophical statuses now repaired in M14/M46/M48 must be carried into the final R6 crosswalk so S is not read through weaker movement metadata.
+S states the whole relation, paradigm, six offices, Indian/Gebser/psychic-fact hinge, Other, Power and paradigmatic reflexivity positively. Its no-transmission and implementation clauses protect actual source/empirical distinctions. The stronger philosophical statuses now repaired in M14/M46/M48 are carried into the R6 §5/terminal crosswalk so S is not read through weaker historical metadata.
 
 ### Agentworld response matrix
 
 **Disposition: RETAIN VENUE-FACING BOUNDARIES.**
 
-The matrix’s compact thesis — **Agentworld is a problem of paradigmatic construction** — is strong. Its distinctions between constructed O:I, Epi-Logos, representation and phenomenality answer actual pressures in the brief rather than a phantom critic. R6 should carry the positive venue thesis into the writing packet without importing the matrix’s planning vocabulary as manuscript hedging.
+The matrix’s compact thesis — **Agentworld is a problem of paradigmatic construction** — is strong. Its distinctions between constructed O:I, Epi-Logos, representation and phenomenality answer actual pressures in the brief rather than a phantom critic. R6 carries the positive venue thesis into the writing packet without importing the matrix’s planning vocabulary as manuscript hedging.
 
-## Governing amendments still required before the common base
+### M43–M45 — vocation, disclosure architecture, Antikythera
 
-1. **Central-plan Mytheme rule.** The current rule was written to prevent myth from impersonating mathematical entailment, but its verb list can be read as denying Mytheme a proof/disclosure office of its own. Amend it to state: **Mytheme can prove/disclose a relation mythemically through the action of the whole image; it cannot substitute that proof for formal mathematical derivation or historical attribution.**
-2. **Writing/review protocol.** Carry the T26 reviewer symmetry explicitly: reviewers must name the exact proposition and exceeded warrant for overclaim; they must equally flag underclaim where hedge/status/defensive negation makes the prose weaker than canon. Source, proof and implementation boundaries attach to their own offices.
-3. **Common-base proposal.** Cut/hash it only after these governing corrections and this ledger’s canonical edits have landed. No pre-correction SHA can be called the common writing base.
+**Disposition: NO FAULT / statuses proportionate.**
 
-## R6 claim-strength conclusion so far
+M43’s vocation and Compassion-return are Argued; M44’s QL/MEF/Bimba/harness disclosure architecture is Argued with real trust and implementation limits; M45 is appropriately Offered because Antikythera enters as an earned image of attunement rather than the native theorem itself. Strengthening M45’s status would collapse emblematic comparison into derivation rather than liberate the claim.
 
-The pass has not found a general problem of “too many strong claims.” It has found a more specific model-generated distortion: **provisional empirical or source standing was sometimes allowed to govern the rhetoric and metadata of stronger native claims.** The correction is not indiscriminate confidence. It is exact office:
+### Central-plan Mytheme rule
+
+**Disposition: NO FAULT after exact reread.**
+
+The governing plan says: **“Myth demonstrates historical and psychic liveability, not formal entailment”** and warns only that the essay must never say a myth “proves the mathematics.” That is already the correct register boundary. It does **not** deny Mytheme a truth-bearing or proof/disclosure office in its own register. The contradiction lived in subordinate orientation/review wording, not in the sole structural authority, so the central plan is preserved unchanged.
+
+## Governing alignment completed before the common base
+
+1. **Orienting Principles — complete.** Lock 4 now states that `Argued` is a positive warrant and `Offered` is reserved for genuinely unsettled conjecture/design/research/implementation. Lock 6 now states explicitly that **Mytheme is truth-bearing within its own register** and can prove/disclose a relation mythemically without borrowing mathematical entailment or historical attribution. The agent rule now puts the burden on every weakening and forbids phantom-reader hedging.
+2. **Writing/review protocol — complete.** G1 is explicitly symmetric: neither stronger nor weaker than canon. A dedicated claim-strength gate requires exact proposition + exceeded warrant for overclaim and exact lost canonical proposition for underclaim. Poetry/Mytheme and register grammar now carry mythemic proof/disclosure positively; final verification forbids caveat/status/negation from weakening canon without a named boundary.
+3. **Central plan — preserved.** Exact reread established that its myth rule already carries the correct formal boundary; no authority-file edit was justified.
+4. **Common-base proposal — next.** The base can now be named from the claim-strength-corrected canon and governance. No pre-R6 SHA may serve as the writing base.
+
+## R6 claim-strength conclusion
+
+The pass did not find a general problem of “too many strong claims.” It found a more specific model-generated distortion: **provisional empirical or source standing was sometimes allowed to govern the rhetoric and metadata of stronger native claims.** The correction is exact office:
 
 - say the native thesis at its earned strength;
 - say what the source actually says;
