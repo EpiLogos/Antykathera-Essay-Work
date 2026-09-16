@@ -1,13 +1,15 @@
 ---
 title: "R5 — Cold semantic audit, preservation and executable reader validation"
 label: wayfinder:task
-status: open
+status: in_progress
 parent: ../maps/p2-enrichment-handoff.md
-assignee: ""
+assignee: "T25 R5 cold reviewer — 2026-09-16"
 blocked_by:
   - refine-04-section-flow.md
 programme: "T25 / GitHub #26"
 created: 2026-09-10
+updated: 2026-09-16
+claimed_from: "main@f8e3161844d4e96a9a6185d3b62a35db4b90bb3b"
 ---
 
 # R5 — Cold review and real validation
@@ -25,6 +27,10 @@ Audit the preservation ledger against the actual baseline and changed tree. Veri
 Regenerate source projections, rooms, navigation and affected context packets. Run their real `--check` commands, `python3 -m unittest discover -s tests -v`, and the current documented room-depth, reader-navigation and pre-manuscript audits. Discover supported CLI options rather than inventing flags. Record commands, outcomes and actual runtime/source limits. Do not use a skipped or fixture-only result as whole-feature proof.
 
 Verify frozen ethic, protected NOTES, private Control references, raw authorial originals and sovereign manuscript have not been rewritten. Return real failures to their owners and reread affected seams after repair. Do not reopen all completed T18–T24 work as a ceremonial gate.
+
+## Cold-review stance — 2026-09-16
+
+Start from the live governing plan, orienting principles, accepted authorial minute, R5 protocol and canonical records. R3/R4 ledgers may be used only as locators after a passage has been independently read; their conclusions are not evidence for themselves. Record every substantive fault with its actual owner and every preserved seam as an explicit review judgment. Semantic review precedes executable cleanup; a green suite cannot overrule a contradiction in the essay.
 
 ## Done when
 
