@@ -53,7 +53,7 @@ This folds the September 15 return into the existing response threads without re
 - **q030 / prediction-stability and shadow/body:** paradigmatic legibility is not exhaustive capture. A representation of the paradigm remains a projection within it; source and Other retain answerability. Increased legibility can otherwise become a stronger dossier and enclosure.
 - **q035 / productive alienation:** paradox can expose the containing paradigm itself. Dia/syn determines whether the break is expelled, appropriated, or retained long enough for the containing relation to transform.
 
-The [Genesis / Paradigm / Project / Epi-Logos whole](symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md) gives this response its exact authorial compression; the existing R1–R21 matrix continues to carry the brief's granular pressures and evidence.
+The [Genesis / Paradigm / Project / Epi-Logos whole](../symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md) gives this response its exact authorial compression; the existing R1–R21 matrix continues to carry the brief's granular pressures and evidence.
 
 ## Core response threads
 

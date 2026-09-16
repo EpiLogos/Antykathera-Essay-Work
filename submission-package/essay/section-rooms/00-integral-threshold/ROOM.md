@@ -46,9 +46,9 @@ Exact inquiry includes the disclosure of its own conditions. At the formal limit
 
 **Earned position (Argued):** The subject is the non-objectifiable pole of a differentiating event: the opening through which a determinate world is given.
 
-**Why this move:** “I see x” already entails knower, means, and known; reflection can objectify any self-description but cannot exhaust the condition under which that description appears. Śaiva epistemology names the three moments *pramātṛ*, *pramāṇa*, and *prameya*.
+**Why this move:** The ordinary sentence **“I see the world”** already contains more than the apparent pair *I / world*.
 
-**Carry-forward:** the later slash will carry the work presently done by *pramāṇa*, but no notation is required yet.
+**Carry-forward:** knower — means — known; the later slash will carry the work presently done by *pramāṇa*, but no QL notation is required yet.
 
 **Open:** [movement](movements/02-s01-p1-define-subject.md) · canonical route: [A01 — Subject, God and Faithful Definition](../../symbolon/episteme/arguments/A01-Subject-God-and-Faithful-Definition.md), [A02 — Copula / Self-Identity through Difference](../../symbolon/episteme/arguments/A02-Copula-Self-Identity-through-Difference.md), [A03 — Immutable Gap / Formal Limit](../../symbolon/episteme/arguments/A03-Immutable-Gap-Formal-Limit.md), [C01](../../symbolon/episteme/concepts/C01-Subject-Defined-Indefinability.md), [C02](../../symbolon/episteme/concepts/C02-Faithful-Definition.md), [C03](../../symbolon/episteme/concepts/C03-Determination.md), [C04](../../symbolon/episteme/concepts/C04-Formal-Limit.md), [C05](../../symbolon/episteme/concepts/C05-Immutable-Gap.md), [C06](../../symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md)
 

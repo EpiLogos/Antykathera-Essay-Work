@@ -90,7 +90,7 @@ $$
 
 The first Spanda display gives a QL traversal; the second gives an arithmetic decomposition followed by a declared proportional re-reading. Calling both “Spanda equations” names their authorial relation, not one standard mathematical theorem.
 
-## Harmonic reading — exact ratios, interpreted relation
+## Warrant — harmonic reading: exact ratios, interpreted relation
 
 The whole architecture cross-reads the vertical `4:2` against the horizontal `3:3`. Define the QL cross-comparison explicitly as the ordered pair of corresponding ratios:
 

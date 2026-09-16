@@ -20,7 +20,7 @@ from urllib.parse import unquote, urlsplit
 
 BODY = Path("submission-package/essay")
 NAV = BODY / "symbolon/episteme/maps/navigation"
-RECEIPT = Path("working/p2-enrichment/receipts/T20-T21-current-census-acceptance.json")
+RECEIPT = Path("working/pre-manuscript-refinement-2026-09-10/T25-current-census-acceptance.json")
 
 
 def workspace(root):

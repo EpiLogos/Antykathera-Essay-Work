@@ -171,4 +171,6 @@ Primary returns:
 - the early Gebser/diaphaneity thread and its later Actuation application;
 - the §5→0 instrument/vocation return.
 
+**Linear returns:** paradigmatic mediation first becomes explicit in [[section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality|M12 — Objective Internality]], returns vocationally in [[section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion|M43 — From Theory to Vocation]], and closes as paradigm-level Return in [[section-rooms/07-instrument-returns/movements/48-s50-p5-ahi-planetary-return|M48 — AHI and Planetary Return]].
+
 This whole field should be consumed by exact operation. A bare `Paradigm` link is not evidence that the relation has been recovered.

@@ -43,6 +43,7 @@ class PublicationArchitectureTests(unittest.TestCase):
             "figures",
             "concepts",
             "dialogues",
+            "products",
         },
     }
 

@@ -3,9 +3,9 @@ title: "Intents — Episteme · Source houses"
 source_id: navigation-episteme-sources--classical-premodern-philosophy
 page_type: navigation-intents
 generated: true
-generator: "tools/build-navigation.py v1.1.0"
+generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "026720444e05494bfe5d27a0fff06819a3226793aec5a7cee283faef2dac6f38"
+source_digest: "fe2af8e264c5cea8b81ff6ee185978bbc8ff63817a3a16c14cd8faed26d5d162"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->

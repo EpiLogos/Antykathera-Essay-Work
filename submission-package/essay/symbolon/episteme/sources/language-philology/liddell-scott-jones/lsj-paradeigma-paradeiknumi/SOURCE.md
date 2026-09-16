@@ -68,3 +68,5 @@ This lexicon does not establish that Objective Internality is the historical mea
 - **παραδείκνυμι** — LSJ short definition: exhibit side by side; senses include comparison, indication and representation.
 
 No extended LSJ wording is admitted as a quotation in manuscript prose through this record; paraphrase the lexical senses and cite the digital entry if needed.
+
+**Reader return:** paradigm first becomes explicit in the linear argument at [[section-rooms/01-differentiating-mind/movements/12-s0-p5-objective-internality|M12 — Objective Internality]].

@@ -3,9 +3,9 @@ title: "Intents — Episteme · Source houses"
 source_id: navigation-episteme-sources
 page_type: navigation-intents
 generated: true
-generator: "tools/build-navigation.py v1.1.0"
+generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "026720444e05494bfe5d27a0fff06819a3226793aec5a7cee283faef2dac6f38"
+source_digest: "fe2af8e264c5cea8b81ff6ee185978bbc8ff63817a3a16c14cd8faed26d5d162"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -23,11 +23,12 @@ Position #4. Entrance: [Return of Zero Source Bank](../../../sources/README.md).
 - [classical-premodern-philosophy](episteme-sources--classical-premodern-philosophy.md) — 9 pages
 - [computer-science-ml](episteme-sources--computer-science-ml.md) — 7 pages
 - [history-philosophy-of-science](episteme-sources--history-philosophy-of-science.md) — 5 pages
-- [indian-philosophy](episteme-sources--indian-philosophy.md) — 12 pages
-- [internal-corpus](episteme-sources--internal-corpus.md) — 21 pages
+- [indian-philosophy](episteme-sources--indian-philosophy.md) — 13 pages
+- [internal-corpus](episteme-sources--internal-corpus.md) — 22 pages
 - [language-literary-studies](episteme-sources--language-literary-studies.md) — 2 pages
+- [language-philology](episteme-sources--language-philology.md) — 3 pages
 - [literature](episteme-sources--literature.md) — 1 pages
-- [mathematics-logic](episteme-sources--mathematics-logic.md) — 22 pages
+- [mathematics-logic](episteme-sources--mathematics-logic.md) — 23 pages
 - [media-technology-philosophy](episteme-sources--media-technology-philosophy.md) — 11 pages
 - [phenomenology-continental-philosophy](episteme-sources--phenomenology-continental-philosophy.md) — 9 pages
 - [physics](episteme-sources--physics.md) — 3 pages

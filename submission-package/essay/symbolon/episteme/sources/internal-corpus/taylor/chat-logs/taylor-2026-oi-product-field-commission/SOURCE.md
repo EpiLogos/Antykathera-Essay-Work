@@ -70,3 +70,5 @@ The authorial minute further establishes the transverse obligations carried into
 ## Consumption rule
 
 Use this source to establish **authorial intention, wording, product identity, pair assignment and execution authority**. Do not cite it publicly for claims about Abhinavagupta, zero, Gebser, machine learning, software behaviour or any other external subject. Those claims retain their own evidential relations and source readiness.
+
+**Reader return:** the commissioned six-product field enters the linear essay at [[section-rooms/06-objective-internality/movements/37-s5-p0-math-moves-meaning|M37 — Central — Meaningful Continuity]] after M36 prepares the paired disclosure.

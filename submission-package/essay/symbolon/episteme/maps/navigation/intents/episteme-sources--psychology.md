@@ -3,9 +3,9 @@ title: "Intents — Episteme · Source houses"
 source_id: navigation-episteme-sources--psychology
 page_type: navigation-intents
 generated: true
-generator: "tools/build-navigation.py v1.1.0"
+generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "026720444e05494bfe5d27a0fff06819a3226793aec5a7cee283faef2dac6f38"
+source_digest: "fe2af8e264c5cea8b81ff6ee185978bbc8ff63817a3a16c14cd8faed26d5d162"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -77,15 +77,15 @@ Group: `psychology` · back to [Episteme · Source houses](episteme-sources.md).
 
 `essay-web-article`
 
-**Implicates:** *sources* → [Iain McGilchrist — The Master and His Emissary (2009)](../../../sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE.md) · *unnamed* → [§5 · #5→0 — Six Research Vectors](../../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md), [§5 · #1 — Apoha, Softmax, and Argmax](../../../../../section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md)
+**Implicates:** *sources* → [Iain McGilchrist — The Master and His Emissary (2009)](../../../sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE.md) · *unnamed* → [§5 · #5 — Quaternal Logic — Transcendent Relation](../../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md), [§5 · #1 — Actuation — Living Articulation](../../../../../section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md)
 
-**Reached from:** *sources* ← [Source Intake Queue](../../../sources/source-intake-queue.md) · *sources (declared)* ← [§5 · #1 — Apoha, Softmax, and Argmax](../../../../../section-rooms/06-objective-internality/movements/38-s5-p1-apoha-softmax.md) · *unnamed* ← [§5 Room — Objective Internality and Agentic Research](../../../../../section-rooms/06-objective-internality/ROOM.md), [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
+**Reached from:** *sources* ← [Source Intake Queue](../../../sources/source-intake-queue.md) · *unnamed* ← [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 
 ### [Iain McGilchrist — The Master and His Emissary (2009)](../../../sources/psychology/mcgilchrist/mcgilchrist-2009-master-emissary/SOURCE.md)
 
 `book`
 
-**Implicates:** *consumed-by (declared)* → [Counterfeit Gathering](../../../concepts/counterfeit-gathering.md) · *unnamed* → [§4 · #4 — Apollo Through Dionysus](../../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md), [§5 · #5→0 — Six Research Vectors](../../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md), [Counterfeit Gathering](../../../concepts/counterfeit-gathering.md)
+**Implicates:** *consumed-by (declared)* → [Counterfeit Gathering](../../../concepts/counterfeit-gathering.md) · *unnamed* → [§4 · #4 — Apollo Through Dionysus](../../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md), [§5 · #5 — Quaternal Logic — Transcendent Relation](../../../../../section-rooms/06-objective-internality/movements/42-s5-p5-research-vectors.md), [Counterfeit Gathering](../../../concepts/counterfeit-gathering.md)
 
 **Reached from:** *sources* ← [§4 Room — Psychoid Flowering — Jung, Pauli, Lacan, and Gebser](../../../../../section-rooms/05-psychoid-flowering/ROOM.md), [Iain McGilchrist — Resist the Machine Apocalypse (First Things, 2022)](../../../sources/psychology/mcgilchrist/mcgilchrist-2022-resist-machine-apocalypse/SOURCE.md), [Source Intake Queue](../../../sources/source-intake-queue.md) · *sources (declared)* ← [§4 · #4 — Apollo Through Dionysus](../../../../../section-rooms/05-psychoid-flowering/movements/35-s4-p4-gebser-apollo-dionysus.md) · *unnamed* ← [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md)
 

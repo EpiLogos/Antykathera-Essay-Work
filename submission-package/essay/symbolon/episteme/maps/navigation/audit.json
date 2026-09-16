@@ -1,48 +1,49 @@
 {
-  "source_digest": "026720444e05494bfe5d27a0fff06819a3226793aec5a7cee283faef2dac6f38",
-  "builder_version": "1.1.0",
+  "source_digest": "fe2af8e264c5cea8b81ff6ee185978bbc8ff63817a3a16c14cd8faed26d5d162",
+  "builder_version": "1.1.1",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
-    "pages": 765,
-    "reachable": 702,
+    "pages": 782,
+    "reachable": 718,
     "problems": {
       "directory-link": 6,
       "title-or-alias-only": 505,
       "missing-vault-path": 91,
       "ambiguous-filename": 5,
+      "missing-fragment": 3,
       "missing-path": 1
     },
-    "admitted": 281,
+    "admitted": 288,
     "missing_admitted": 0,
     "unreachable_admitted": 0
   },
   "reading_root": "submission-package/essay/README.md",
-  "pages": 765,
-  "reachable_from_root": 718,
+  "pages": 782,
+  "reachable_from_root": 734,
   "depth_histogram": {
     "0": 1,
     "1": 62,
-    "2": 511,
-    "3": 114,
+    "2": 522,
+    "3": 119,
     "4": 25,
     "5": 5
   },
   "max_depth": 5,
   "relation_totals": {
-    "unnamed": 5173,
-    "sources": 1298,
-    "sources (declared)": 787,
-    "returns-to": 647,
-    "grounds": 479,
+    "unnamed": 5417,
+    "sources": 1329,
+    "sources (declared)": 822,
+    "returns-to": 657,
+    "grounds": 473,
     "extends": 360,
-    "qualifies": 295,
-    "consumed-by (declared)": 273,
+    "qualifies": 294,
+    "consumed-by (declared)": 288,
     "defines": 253,
-    "figures": 220,
+    "figures": 219,
     "compares": 170,
-    "historicises": 168,
+    "historicises": 166,
     "returns-to (declared)": 125,
-    "tests": 105,
+    "tests": 104,
     "derives": 31,
     "embodies": 16,
     "sources (declared passage)": 12,
@@ -52,9 +53,9 @@
   "per_class": {
     "rooms": {
       "pages": 20,
-      "links": 860,
-      "named": 78,
-      "unnamed": 782,
+      "links": 847,
+      "named": 79,
+      "unnamed": 768,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -70,18 +71,18 @@
     },
     "quilt": {
       "pages": 6,
-      "links": 92,
+      "links": 95,
       "named": 15,
-      "unnamed": 77,
+      "unnamed": 80,
       "orphans": 0,
       "no_return": 3,
       "unreachable": 0
     },
     "movements": {
       "pages": 48,
-      "links": 501,
-      "named": 222,
-      "unnamed": 279,
+      "links": 474,
+      "named": 199,
+      "unnamed": 275,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -124,9 +125,9 @@
     },
     "episteme-arguments": {
       "pages": 37,
-      "links": 1076,
-      "named": 642,
-      "unnamed": 434,
+      "links": 1130,
+      "named": 653,
+      "unnamed": 477,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -142,11 +143,11 @@
     },
     "episteme-concepts": {
       "pages": 179,
-      "links": 1233,
-      "named": 610,
-      "unnamed": 623,
+      "links": 1349,
+      "named": 618,
+      "unnamed": 731,
       "orphans": 36,
-      "no_return": 83,
+      "no_return": 81,
       "unreachable": 47
     },
     "episteme-conjugate": {
@@ -177,12 +178,12 @@
       "unreachable": 0
     },
     "episteme-etymologies": {
-      "pages": 22,
-      "links": 589,
-      "named": 439,
-      "unnamed": 150,
+      "pages": 25,
+      "links": 618,
+      "named": 448,
+      "unnamed": 170,
       "orphans": 0,
-      "no_return": 5,
+      "no_return": 6,
       "unreachable": 0
     },
     "episteme-figures": {
@@ -221,11 +222,20 @@
       "no_return": 1,
       "unreachable": 0
     },
+    "episteme-products": {
+      "pages": 8,
+      "links": 100,
+      "named": 24,
+      "unnamed": 76,
+      "orphans": 1,
+      "no_return": 2,
+      "unreachable": 1
+    },
     "episteme-sources": {
-      "pages": 195,
-      "links": 1054,
+      "pages": 201,
+      "links": 1066,
       "named": 167,
-      "unnamed": 887,
+      "unnamed": 899,
       "orphans": 0,
       "no_return": 80,
       "unreachable": 0
@@ -285,7 +295,8 @@
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/trika.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/varela-calculus-self-reference.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/vikalpa.md",
-    "submission-package/essay/symbolon/episteme/concepts/reference-notes/von-franz-number-and-time.md"
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/von-franz-number-and-time.md",
+    "submission-package/essay/symbolon/episteme/products/README.md"
   ],
   "no_return": [
     "submission-package/essay/quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md",
@@ -303,11 +314,9 @@
     "submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md",
     "submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md",
     "submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md",
-    "submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md",
     "submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md",
     "submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md",
     "submission-package/essay/symbolon/episteme/concepts/C42-Objective-Co-Internality.md",
-    "submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md",
     "submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md",
     "submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md",
     "submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md",
@@ -381,6 +390,7 @@
     "submission-package/essay/symbolon/episteme/etymologies/RELATIONAL-FORM-GROWTH.md",
     "submission-package/essay/symbolon/episteme/etymologies/T09-A-C-E-RECIPROCITY-INDEX.md",
     "submission-package/essay/symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/HISTORY.md",
+    "submission-package/essay/symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/HISTORY.md",
     "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORICAL-BRANCHES.md",
     "submission-package/essay/symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/HISTORY.md",
     "submission-package/essay/symbolon/episteme/figures/README.md",
@@ -389,6 +399,8 @@
     "submission-package/essay/symbolon/episteme/histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md",
     "submission-package/essay/symbolon/episteme/lenses/README.md",
     "submission-package/essay/symbolon/episteme/maps/README.md",
+    "submission-package/essay/symbolon/episteme/products/S0-Central.md",
+    "submission-package/essay/symbolon/episteme/products/S2-AIKit.md",
     "submission-package/essay/symbolon/episteme/sources/PASSAGE-LEDGER.md",
     "submission-package/essay/symbolon/episteme/sources/README.md",
     "submission-package/essay/symbolon/episteme/sources/SOURCE-INDEX.md",
@@ -553,7 +565,8 @@
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/varela-calculus-self-reference.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/vikalpa.md",
     "submission-package/essay/symbolon/episteme/concepts/reference-notes/von-franz-number-and-time.md",
-    "submission-package/essay/symbolon/episteme/concepts/reference-notes/wittgenstein-limit-silence-forms-of-life.md"
+    "submission-package/essay/symbolon/episteme/concepts/reference-notes/wittgenstein-limit-silence-forms-of-life.md",
+    "submission-package/essay/symbolon/episteme/products/README.md"
   ],
   "out_of_body": {
     "working/sources-texts-references": {
@@ -582,11 +595,11 @@
       }
     },
     "working/final-argument-quilt-2026-08-23": {
-      "count": 44,
+      "count": 42,
       "targets": {
         "working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md": 12,
         "working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md": 8,
-        "working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md": 7,
+        "working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md": 5,
         "working/final-argument-quilt-2026-08-23/ETYMOLOGICAL-ARCHAEOLOGY-TREE-SEAMS.md": 5,
         "working/final-argument-quilt-2026-08-23/MYTHEME-WHOLE-STORY-AMPLIFICATION-LAW.md": 4,
         "working/final-argument-quilt-2026-08-23/APHORISM-AND-PITHY-FORMULATION-LEDGER.md": 2,
@@ -602,6 +615,15 @@
         "working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md": 2,
         "working/conjugate-field/FLIPSIDE-PACKAGE.md": 1,
         "working/conjugate-field/CONCEPT-REHARMONISATION-PROPOSAL.md": 1
+      }
+    },
+    "working/pre-manuscript-refinement-2026-09-10": {
+      "count": 16,
+      "targets": {
+        "working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md": 11,
+        "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md": 2,
+        "working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md": 2,
+        "working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md": 1
       }
     },
     "submission-package/essay": {
@@ -715,9 +737,9 @@
       "| [ancient philosophy](../histories/traditions-and-disciplines/ancient-philosophy/DEVELOPMENT.md) · [learning history](../histories/traditions-and-disciplines/a"
     ],
     "episteme-concepts": [
-      "[Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-measure-dream): Buddhi’s determination, ahaṃkā",
-      "Taylor’s [cage and window](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md#cage-window) **figure** the achieved form’s different uses",
-      "Q27 gives the political operation: [divide participants into actionable units](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#name-through-count), co"
+      "[A09 — Tattvic Differential Field](../arguments/A09-Tattvic-Differential-Field.md) supplies a distinct Indian account of consciousness's capacity to differentia",
+      "[A09 — Tattvic Differential Field](../arguments/A09-Tattvic-Differential-Field.md) supplies a distinct Indian account of consciousness's capacity to differentia",
+      "[S1 / Actuation](../products/S1-Actuation.md) concerns the experience or report as living articulation"
     ],
     "episteme-conjugate": [
       "[Argument field](../arguments/README.md) · [Other face: A01 — Subject, God and Faithful Definition](../arguments/A01-Subject-God-and-Faithful-Definition.md) · [",
@@ -733,9 +755,9 @@
       "The [re-entry note](../concepts/reference-notes/re-entry.md) retains the authorial chain distinction → re-entry → oscillation → frequency → retention as **Argue"
     ],
     "episteme-etymologies": [
+      "**Third intake (authorially commissioned 2026-09-15):** the T25 Objective Internality refinement opened [Genesis / Paradigm / Project / Epi-Logos](genesis-parad",
       "- [Encounter, region, countenance, and count](encounter-region-name-count/HISTORY.md) — the primordial *with* differentiating into counter-facing, region, name,",
-      "- [Arbitration, Hybris, Regard, and Anamnesis](arbitration-hybris-regard-anamnesis/HISTORY.md) — the exemplar conjugate `6 / 6′` and generated `6+6′` field: Con",
-      "- [Fides, Topos, Logos, Nomos, Natio, Credere](trust-place-logos-nomos-natio-credere/HISTORY.md) — trust becoming emplacement, articulation, distribution/law, b"
+      "- [Arbitration, Hybris, Regard, and Anamnesis](arbitration-hybris-regard-anamnesis/HISTORY.md) — the exemplar conjugate `6 / 6′` and generated `6+6′` field: Con"
     ],
     "episteme-figures": [
       "Formal derivations belong in [Matheme diagrams](../../matheme/diagrams/README.md)",
@@ -756,6 +778,11 @@
       "**Where you are:** [Reading root](../../../README.md) › [#4 Episteme](../README.md) › Maps",
       "**Where you are:** [Reading root](../../../README.md) › [#4 Episteme](../README.md) › Maps",
       "| [Return of Zero — Braided Traversal](return-of-zero-braided-traversal.md) | The linear spine itself: all 48 movements in writing order, with the day spine and"
+    ],
+    "episteme-products": [
+      "[S — World and Life](S-World-and-Life.md) holds the governing relation: Subjective Immediacy is the knower, Objective Internality the means, World the known, an",
+      "| [S0](S0-Central.md) | **Central — meaningful continuity** | L0 Quaternal × L5′ Divine Logos | [M37 — Central](../../../section-rooms/06-objective-internality/",
+      "| [S0](S0-Central.md) | **Central — meaningful continuity** | L0 Quaternal × L5′ Divine Logos | [M37 — Central](../../../section-rooms/06-objective-internality/"
     ],
     "episteme-sources": [
       "[Open section room](../../../section-rooms/00-integral-threshold/ROOM.md)",
@@ -780,7 +807,7 @@
       "thread_id": "mono-poly-two-ones",
       "thread_kind": "transverse",
       "linked_movements": 16,
-      "declared_members": 20
+      "declared_members": 19
     },
     {
       "path": "submission-package/essay/symbolon/episteme/maps/return-of-zero-braided-traversal.md",
@@ -796,7 +823,7 @@
       "thread_id": "trust-faith-formal-limit",
       "thread_kind": "transverse",
       "linked_movements": 8,
-      "declared_members": 11
+      "declared_members": 10
     },
     {
       "path": "submission-package/essay/symbolon/episteme/maps/zero-subject-advent.md",

@@ -694,6 +694,35 @@ class Workspace:
                     seen.add(key)
                     edges.append(edge)
 
+            for field_name, preferred in (("argument_relations", "argument"), ("concept_relations", "concept")):
+                declared = artifact.frontmatter.get(field_name) or []
+                if isinstance(declared, str):
+                    declared = [declared]
+                for declared_id in declared:
+                    edge = self._edge(artifact, str(declared_id), "related", field_name, preferred=preferred)
+                    key = (edge.target, edge.raw_target, edge.relation)
+                    if key not in seen:
+                        seen.add(key)
+                        edges.append(edge)
+
+            product_parent = artifact.frontmatter.get("product_parent")
+            if product_parent:
+                edge = self._edge(artifact, str(product_parent), "member-of", "product_parent", preferred="product-field")
+                key = (edge.target, edge.raw_target, edge.relation)
+                if key not in seen:
+                    seen.add(key)
+                    edges.append(edge)
+
+            members = artifact.frontmatter.get("members") or []
+            if isinstance(members, str):
+                members = [members]
+            for member in members:
+                edge = self._edge(artifact, str(member), "has-member", "members", preferred="product")
+                key = (edge.target, edge.raw_target, edge.relation)
+                if key not in seen:
+                    seen.add(key)
+                    edges.append(edge)
+
             quote_ids = artifact.frontmatter.get("quote_ids") or []
             if isinstance(quote_ids, str):
                 quote_ids = [quote_ids]
@@ -911,6 +940,8 @@ class Workspace:
             "argument",
             "argument-map",
             "concept",
+            "product",
+            "product-field",
             "room-reading-path",
         }
         distance = {artifact.path: 0}
@@ -1076,6 +1107,8 @@ class Workspace:
             "sections": of_type("section"),
             "sources": [node.compact() for _, node in sorted(source_nodes.items())],
             "source_notes": of_type("source-notes"),
+            "products": of_type("product"),
+            "product_fields": of_type("product-field"),
             "passages": passages,
             "reading_paths": of_type("room-reading-path"),
             "rooms": of_type("room-artifact"),

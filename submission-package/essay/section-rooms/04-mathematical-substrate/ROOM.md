@@ -30,7 +30,7 @@ QL connects distinction, re-entry, polarity, ratio, topology, harmonic resolutio
 
 **Incoming pressure:** [§2 #5→0 · Zero Changes Its Role](../03-two-logics/movements/24-s2-p5-zero-changes-role.md)
 
-**Earned position (Derived (eight-turn traversal and calculus relation) / Argued (Jungian 4+2 correspondence)):** The ground–mark relation unfolds as eight determinations.
+**Earned position (Derived (native eight-turn traversal; local calculus identities) / Argued (calculus analogy, Jungian 4+2, perspectival geometry)):** The ground–mark relation unfolds as eight determinations.
 
 **Carry-forward:** The language-field comparison **returns-to** E1’s native-field return within the full eight determinations: `/ = −/− → 0/1 → ?/! → −/+ → X/x → AM/IS → ∞/dx → 1/0`.
 
@@ -40,9 +40,9 @@ QL connects distinction, re-entry, polarity, ratio, topology, harmonic resolutio
 
 **Incoming pressure:** [§3 #0 · Eight Determinations](movements/25-s3-p0-eight-determinations.md)
 
-**Earned position (Derived):** The Spanda equations are the generative kernel of QL.
+**Earned position (Mixed: Derived (ordinary arithmetic identities and reductions; native QL traversal by its declared rules) / Argued (4:2–3:3 harmonic reading) / Offered (Pythagorean and metaphysical interpretations)):** The Spanda equations are the native generative kernel of QL.
 
-**Carry-forward:** The pulse must now be tested in other dynamic formalisms.
+**Carry-forward:** The pulse must now be tested against other formal neighbours without borrowing their authority.
 
 **Open:** [movement](movements/26-s3-p1-spanda-4-2.md) · canonical route: [A11 — The-Two-Ones-0-One-1-All](../../symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md), [A12 — Mono-Poly-One-All-Whole-Many](../../symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md), [A13 — Two Logics of Two — Dia / Syn](../../symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md), [A14 — Computational Process Ontology](../../symbolon/episteme/arguments/A14-Computational-Process-Ontology.md), [A18 — Primordial Symbolon and Its Eight Determinations](../../symbolon/episteme/arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md), [C11](../../symbolon/episteme/concepts/C11-Quaternal-Logic.md), [C49](../../symbolon/episteme/concepts/C49-The-Two-Ones-0-One-1-All.md), [C50](../../symbolon/episteme/concepts/C50-Dia-Syn.md) · sources: [scholtz-1998-algorithms-diatonic-keyboard-tunings](../../symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md)
 
@@ -62,11 +62,11 @@ QL connects distinction, re-entry, polarity, ratio, topology, harmonic resolutio
 
 **Incoming pressure:** [§3 #2 · Mark, Re-entry, and Complex Orientation](movements/27-s3-p2-mark-reentry-complex.md)
 
-**Earned position (Argued):** Mathematics repeatedly resolves obstruction by changing the space in which the relation is represented.
+**Earned position (Argued):** Mathematics repeatedly encounters obstructions that become tractable after the representational space, algebra or logic is changed.
 
-**Why this move:** Zero and infinity are the pressure-points at which dimensionality becomes visible.
+**Why this move:** Zero and infinity repeatedly function as useful **stress points** because attempts to force them into an existing representation can reveal which laws and distinctions that representation is using.
 
-**Carry-forward:** The next movement shows the same relation as a space one can traverse and a consonance one can hear: §3 · #4 — Topology and Musical Resolution.
+**Carry-forward:** A changed frame is useful only if it supports an actual path, invariant or completion.
 
 **Open:** [movement](movements/28-s3-p3-projective-dimensional-reframing.md) · canonical route: [A10 — Advent-of-Zero](../../symbolon/episteme/arguments/A10-Advent-of-Zero.md), [A17 — Toroidal Circulation and the Arche-Topos](../../symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md), [C52](../../symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md), [C64](../../symbolon/episteme/concepts/C64-Paradox-Transforming-the-Containing-Field.md) · sources: [nist-dlmf-2026-complex-variable](../../symbolon/episteme/sources/mathematics-logic/nist/nist-dlmf-2026-complex-variable/SOURCE.md), [kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering](../../symbolon/episteme/sources/physics/kirchner/kirchner-elkamhawy-hammer-2024-entanglement-nucleon-scattering/SOURCE.md), [priest-2010-logic-catuskoti](../../symbolon/episteme/sources/mathematics-logic/priest/priest-2010-logic-catuskoti/SOURCE.md), [priest-2018-fifth-corner](../../symbolon/episteme/sources/mathematics-logic/priest/priest-2018-fifth-corner/SOURCE.md), [garfield-priest-2003-limits-of-thought](../../symbolon/episteme/sources/mathematics-logic/garfield/garfield-priest-2003-limits-of-thought/SOURCE.md), [kapsner-2020-cutting-corners](../../symbolon/episteme/sources/mathematics-logic/kapsner/kapsner-2020-cutting-corners/SOURCE.md)
 
@@ -74,9 +74,9 @@ QL connects distinction, re-entry, polarity, ratio, topology, harmonic resolutio
 
 **Incoming pressure:** [§3 #3 · Projective Completion and Dimensional Reframing](movements/28-s3-p3-projective-dimensional-reframing.md)
 
-**Earned position (Argued):** The torus is the primary kinetic surface of retained return because circulation, winding, displacement, and local recurrence converge there.
+**Earned position (Mixed: Derived (local topology and ratio identities) / Argued (toroidal and harmonic QL coordination) / Offered (4+2 and Pythagorean amplifications)):** Topology and music give two **distinct exact witnesses** for the essay's authorial operation of return through retained difference.
 
-**Carry-forward:** Topology and music now become spatial and temporal renderings of a single relational field: toroidal winding carries return in space; interval and cadence carry return in time; cymatics lets vibration cross into visible nodal pattern.
+**Carry-forward:** The station has now accumulated several rigorously distinct ways of carrying a relation through transformation: differential underdetermination, declared QL traversal, complex phase, changed formal frame, winding on a quotient and harmonic completion.
 
 **Open:** [movement](movements/29-s3-p4-topology-music-resolution.md) · canonical route: [A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account](../../symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md), [A16 — Arche-Topos as Differential Field](../../symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md), [A17 — Toroidal Circulation and the Arche-Topos](../../symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md), [C20](../../symbolon/episteme/concepts/C20-Arche-Topos.md), [C52](../../symbolon/episteme/concepts/C52-Dimensional-Reframing-at-Zero-and-Infinity.md) · sources: [scholtz-1998-algorithms-diatonic-keyboard-tunings](../../symbolon/episteme/sources/mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md), [iter-what-is-tokamak](../../symbolon/episteme/sources/physics/iter/iter-what-is-tokamak/SOURCE.md)
 

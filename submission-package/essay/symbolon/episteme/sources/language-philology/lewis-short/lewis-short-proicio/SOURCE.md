@@ -63,3 +63,5 @@ The relation to Being-in-the-world, holography, Bimba–Pratibimba, Baudrillard/
 - **prōiciō / projiciō** — Lewis and Short semantic field includes throw forth/before, throw out/down, put or stretch forth.
 
 No extended lexicon wording is admitted as a quotation in manuscript prose through this record; paraphrase the lexical senses and cite the digital entry if needed.
+
+**Reader return:** the thrown-forth Projecthood relation becomes technically concrete in [[section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero|M40 — Software Factory — Transformation]].

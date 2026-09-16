@@ -132,7 +132,7 @@ class OkfWorkspaceTests(unittest.TestCase):
         result = self.run_tool("find", "circumscription without circumstance", "--limit", "10")
         paths = {hit["path"] for hit in result["hits"]}
         self.assertIn(
-            "submission-package/essay/section-rooms/06-objective-internality/movements/39-s5-p2-j-space.md",
+            "submission-package/essay/symbolon/episteme/products/S1-Actuation.md",
             paths,
         )
         self.assertIn("submission-package/essay/symbolon/episteme/concepts/j-space.md", paths)
@@ -212,10 +212,10 @@ class OkfWorkspaceTests(unittest.TestCase):
         self.assertEqual(result["entry"]["sequence"], 39)
         self.assertEqual(result["previous"]["id"], "38-s5-p1-apoha-softmax")
         self.assertEqual(result["next"]["id"], "40-s5-p3-preference-hidden-zero")
-        self.assertIn("j-space", {node["id"] for node in result["concepts"]})
-        self.assertIn("A14-Computational-Process-Ontology", {node["id"] for node in result["arguments"]})
+        self.assertIn("C41-Objective-Internality", {node["id"] for node in result["concepts"]})
+        self.assertIn("A26-Objective-Internality-Mind-as-Worldhood", {node["id"] for node in result["arguments"]})
         self.assertIn(
-            "lecun-et-al-2006-energy-based-learning",
+            "taylor-2026-oi-product-field-commission",
             {node["id"] for node in result["sources"]},
         )
         self.assertTrue(result["trace"])

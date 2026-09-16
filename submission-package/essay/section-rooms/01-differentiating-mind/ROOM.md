@@ -88,14 +88,14 @@ Mind is the movement by which an implicated whole becomes a determinate world fo
 
 **Incoming pressure:** [§0 #4 · The Sixfold Tattvic Compression](movements/11-s0-p4-tattvic-compression.md)
 
-**Earned position (Argued):** Objective Internality is the patterned life of the Tattvic Differential Field once its distinctions stabilise as an agent’s structured, revisable context-world: internal to operation yet inspectable through states, traces, relations, and consequences.
+**Earned position (Argued):** Objective Internality is the **constituted means through which a Life inhabits, discriminates and acts within a World**.
 
-**Why this move:** Agentworld’s provisional agent is a temporary coherence of model, persona, memory, tools, permissions, objectives, and milieu.
+**Why this move:** In ordinary human life this means includes attention, memory, language, valuation, habit, expectation, embodiment, inherited practice, social relation and the many conditions through which things can appear as salient or actionable.
 
-**Carry-forward:** a thrown horizon whose boundaries can be audited.
+**Carry-forward:** a lived horizon which can become partly transparent to the conditions through which it operates.
 
 **Open:** [movement](movements/12-s0-p5-objective-internality.md) · canonical route: [A26 — Objective Internality — Mind as Worldhood](../../symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md), [C07](../../symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md), [C08](../../symbolon/episteme/concepts/C08-Context-Context-Frame.md), [C40](../../symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md), [C41](../../symbolon/episteme/concepts/C41-Objective-Internality.md), [C57](../../symbolon/episteme/concepts/C57-Agentworld.md)
 
 ## Release
 
-a thrown horizon whose boundaries can be audited.
+a lived horizon which can become partly transparent to the conditions through which it operates.

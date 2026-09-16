@@ -72,7 +72,7 @@ The bare relation `/ = -/-` generates two complete ways of accounting for two. D
 
 **Incoming pressure:** [§2 #3 · Ares, Aphrodite, Harmonia, Eros, and Hephaestus](movements/22-s2-p3-ares-aphrodite-harmonia.md)
 
-**Earned position (Argued):** The two logics are one pulse.
+**Earned position (Argued):** The two logics can be read dynamically as one alternating pulse.
 
 **Carry-forward:** E2’s arbitration in crisis gives this movement its relational test for a change of regime: Con-text exposes the conditions under which arbitration has operated, and Resolution lets consequence revise them.
 

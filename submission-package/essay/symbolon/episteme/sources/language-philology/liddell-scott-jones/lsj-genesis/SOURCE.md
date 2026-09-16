@@ -64,3 +64,5 @@ The relation to QL, compassion-as-sensitivity-to-origins, process philosophy and
 - **γένεσις** — LSJ semantic field includes origin, source, productive cause; production, generation, coming into being; becoming and related formation/creation senses.
 
 No extended LSJ wording is admitted as a quotation in manuscript prose through this record; paraphrase the lexical senses and cite the digital entry if needed.
+
+**Reader return:** Genesis returns vocationally in [[section-rooms/07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion|M43 — From Theory to Vocation]].

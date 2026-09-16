@@ -79,3 +79,5 @@ This source does **not** establish influence, transmission or causal continuity 
 ## Passages and excerpts
 
 No quotation is admitted from this source. The title and article metadata supply the chronology used here; prose use should paraphrase.
+
+**Reader return:** this chronology is consumed linearly in [[section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational|M14 — Śūnya Becomes Operational]].

@@ -3,7 +3,7 @@ title: "Return of Zero — Canonical Source Index"
 source_id: source-index
 generated: true
 generator: tools/build-source-projections.py
-source_digest: "91fa792db97a45f6bcb8b506be718943b602640428a11b8478a1838ac19ee477"
+source_digest: "06d2b1a5150924cf1da0ed8432b98907c2f6f25494c1eb2ebb17f99c3d84e8d5"
 ---
 
 <!-- Generated from canonical SOURCE.md houses. Do not edit by hand. -->
@@ -110,7 +110,10 @@ source_digest: "91fa792db97a45f6bcb8b506be718943b602640428a11b8478a1838ac19ee477
 - [Levinas — Otherwise than Being (Lingis, 1981)](phenomenology-continental-philosophy/levinas/levinas-1981-otherwise-than-being/SOURCE.md) — `levinas-1981-otherwise-than-being` — forms-drafted-pagination-unverified
 - [Levinas — Totality and Infinity (Lingis, 1969)](phenomenology-continental-philosophy/levinas/levinas-1961-totality-and-infinity/SOURCE.md) — `levinas-1961-totality-and-infinity` — citation-ready
 - [Lewis and Short — A Latin Dictionary (1879)](classical-philology/lewis-short/lewis-short-1879-latin-dictionary/SOURCE.md) — `lewis-short-1879-latin-dictionary` — citation-ready-for-named-online-entries
+- [Lewis and Short — prōiciō / projiciō](language-philology/lewis-short/lewis-short-proicio/SOURCE.md) — `lewis-short-proicio` — citation-ready
 - [Liddell–Scott–Jones — A Greek-English Lexicon (9th ed., 1940)](classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md) — `lsj-1940-greek-english-lexicon` — citation-ready-for-named-online-entries
+- [LSJ — γένεσις](language-philology/liddell-scott-jones/lsj-genesis/SOURCE.md) — `lsj-genesis` — citation-ready
+- [LSJ — παράδειγμα / παραδείκνυμι](language-philology/liddell-scott-jones/lsj-paradeigma-paradeiknumi/SOURCE.md) — `lsj-paradeigma-paradeiknumi` — citation-ready
 - [MacCracken — Recognizing Recognition (2017)](indian-philosophy/maccracken/maccracken-2017-recognizing-recognition/SOURCE.md) — `maccracken-2017-recognizing-recognition` — citation-ready
 - [Mackenzie — A Heraclitean Allusion to the Odyssey (2021)](classical-philology/mackenzie/mackenzie-2021-heraclitean-allusion-odyssey/SOURCE.md) — `mackenzie-2021-heraclitean-allusion-odyssey` — citation-ready
 - [Marie-Louise von Franz — Number and Time](psychology/von-franz/von-franz-1974-number-time/SOURCE.md) — `von-franz-1974-number-time` — metadata-only
@@ -120,6 +123,7 @@ source_digest: "91fa792db97a45f6bcb8b506be718943b602640428a11b8478a1838ac19ee477
 - [Merriam-Webster.com Dictionary — selected E1 and E4 entries](language-literary-studies/merriam-webster/merriam-webster-online-dictionary/SOURCE.md) — `merriam-webster-online-dictionary` — citation-ready-for-named-entries
 - [Ministry of Education — Revised Mandarin Chinese Dictionary](classical-philology/ministry-of-education-taiwan/moe-2021-revised-mandarin-dictionary/SOURCE.md) — `moe-2021-revised-mandarin-dictionary` — citation-ready-for-selected-carrier
 - [Monier-Williams — Sanskrit-English Dictionary (1899), enumeration entries](classical-philology/monier-williams/monier-williams-1899-sanskrit-english-dictionary/SOURCE.md) — `monier-williams-1899-sanskrit-english-dictionary` — citation-ready-for-scoped-online-paraphrase
+- [Muller-Ortega — Abhinavagupta (c.975–1025) (1998)](indian-philosophy/muller-ortega/muller-ortega-1998-abhinavagupta/SOURCE.md) — `muller-ortega-1998-abhinavagupta` — citation-ready
 - [Neumann — The Origins and History of Consciousness (1954)](psychology/neumann/neumann-1954-origins-history-consciousness/SOURCE.md) — `neumann-1954-origins-history-consciousness` — citation-ready
 - [Nicholas of Cusa — On Learned Ignorance](classical-premodern-philosophy/cusa/cusa-on-learned-ignorance/SOURCE.md) — `cusa-on-learned-ignorance` — citation-ready
 - [Nietzsche — The Birth of Tragedy (Haussmann, 1910)](phenomenology-continental-philosophy/nietzsche/nietzsche-1910-birth-tragedy-haussmann/SOURCE.md) — `nietzsche-1910-birth-tragedy-haussmann` — citation-ready
@@ -146,6 +150,7 @@ source_digest: "91fa792db97a45f6bcb8b506be718943b602640428a11b8478a1838ac19ee477
 - [Reri — Ptolemaic funerary papyrus, EA75044,4](religion-theology/reri/reri-ptolemaic-funerary-papyrus/SOURCE.md) — `reri-ptolemaic-funerary-papyrus` — citation-ready-for-scoped-online-paraphrase
 - [Rotman — Signifying Nothing (1987)](mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE.md) — `rotman-1987-signifying-nothing` — citation-ready
 - [Russell — Mathematical Logic as Based on the Theory of Types (1908)](mathematics-logic/russell/russell-1908-theory-types/SOURCE.md) — `russell-1908-theory-types` — citation-ready
+- [Sanskrit Library — Bhāskara II, Bījagaṇita (1150 / digital ed. 2010)](mathematics-logic/bhaskara/scharf-2010-bijaganita-digital/SOURCE.md) — `scharf-2010-bijaganita-digital` — citation-ready
 - [Saul A. Kripke — Naming and Necessity (1980)](analytic-philosophy/kripke/kripke-1981-naming-and-necessity/SOURCE.md) — `kripke-1981-naming-and-necessity` — citation-ready
 - [Scholtz — Algorithms for Mapping Diatonic Keyboard Tunings and Temperaments (1998)](mathematics-logic/scholtz/scholtz-1998-algorithms-diatonic-keyboard-tunings/SOURCE.md) — `scholtz-1998-algorithms-diatonic-keyboard-tunings` — citation-ready
 - [SEED — The Language of Spirit Dialogues (2010)](process-systems-theory/seed/seed-2010-language-spirit/SOURCE.md) — `seed-2010-language-spirit` — citation-ready
@@ -165,6 +170,7 @@ source_digest: "91fa792db97a45f6bcb8b506be718943b602640428a11b8478a1838ac19ee477
 - [Taylor — Encounter, Region, Name, and Count (2026)](internal-corpus/taylor/taylor-2026-encounter-region-name-count/SOURCE.md) — `taylor-2026-encounter-region-name-count` — internal-ready
 - [Taylor — MEF Twelve Lenses Reference (2026)](internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) — `taylor-2026-mef-twelve-lenses` — internal-ready
 - [Taylor — Mono-Poly, the Two Ones, and the Whole Field (2026)](internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) — `taylor-2026-mono-poly-two-ones` — internal-ready
+- [Taylor — O:I Product-Field Commission (2026-09-10)](internal-corpus/taylor/chat-logs/taylor-2026-oi-product-field-commission/SOURCE.md) — `taylor-2026-oi-product-field-commission` — unspecified
 - [Taylor — Personal Poetry Corpus (2026)](internal-corpus/taylor/taylor-2026-personal-poetry-corpus/SOURCE.md) — `taylor-2026-personal-poetry-corpus` — internal-ready
 - [Taylor — QL Musical Derivation v3 (2026)](internal-corpus/taylor/taylor-2026-ql-musical-derivation-v3/SOURCE.md) — `taylor-2026-ql-musical-derivation-v3` — internal-ready
 - [Taylor — Revision Notes on Trust and F-Blocks (2026)](internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md) — `taylor-2026-revision-notes-trust` — internal-ready

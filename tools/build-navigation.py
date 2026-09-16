@@ -35,7 +35,7 @@ import sys
 from pathlib import Path
 from typing import Any
 
-BUILDER_VERSION = "1.1.0"
+BUILDER_VERSION = "1.1.1"
 BODY = "submission-package/essay/"
 NAV_ROOT = "submission-package/essay/symbolon/episteme/maps/navigation"
 READING_ROOT = "submission-package/essay/README.md"
@@ -87,6 +87,7 @@ CLASSES: list[tuple[str, str, str, str]] = [
     ("episteme-arguments", "Episteme · Arguments A01–A36", "#4", "submission-package/essay/symbolon/episteme/arguments/README.md"),
     ("episteme-conjugate", "Episteme · Conjugate arguments A01′–A36′", "#4", "submission-package/essay/symbolon/episteme/conjugate/README.md"),
     ("episteme-concepts", "Episteme · Concepts C01–C64 and provenance", "#4", "submission-package/essay/symbolon/episteme/concepts/README.md"),
+    ("episteme-products", "Episteme · Product field S / S0–S5", "#4", "submission-package/essay/symbolon/episteme/products/README.md"),
     ("episteme-etymologies", "Episteme · Etymology whole-fields", "#4", "submission-package/essay/symbolon/episteme/etymologies/README.md"),
     ("episteme-histories", "Episteme · Histories", "#4", "submission-package/essay/symbolon/episteme/histories/README.md"),
     ("episteme-sources", "Episteme · Source houses", "#4", "submission-package/essay/symbolon/episteme/sources/README.md"),

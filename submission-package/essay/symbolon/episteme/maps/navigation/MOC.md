@@ -3,9 +3,9 @@ title: "Map of Content — The Return of Zero"
 source_id: navigation-moc
 page_type: navigation-moc
 generated: true
-generator: "tools/build-navigation.py v1.1.0"
+generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "026720444e05494bfe5d27a0fff06819a3226793aec5a7cee283faef2dac6f38"
+source_digest: "fe2af8e264c5cea8b81ff6ee185978bbc8ff63817a3a16c14cd8faed26d5d162"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -21,19 +21,20 @@ This map is generated from the relations authors wrote into the publication body
 | Position | Class | Pages | Written relations out | Named | Entrance | Intents |
 |---|---|---|---|---|---|---|
 | #5 | The sovereign essay | 1 | 8 | 0% | [The Return of Zero](../../../../THE-RETURN-OF-ZERO.md) | [intents](intents/essay.md) |
-| #0 | The rooms — waypoints, alignments, reading routes | 20 | 860 | 9% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/rooms.md) |
-| #0 | The 48 movements | 48 | 501 | 44% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
+| #0 | The rooms — waypoints, alignments, reading routes | 20 | 847 | 9% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/rooms.md) |
+| #0 | The 48 movements | 48 | 474 | 42% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
 | #0 | The historical argument shelf (01–21) | 21 | 260 | 5% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/argument-shelf.md) |
 | #1 | Symbolon — the twelvefold root | 14 | 196 | 74% | [Symbolon — The Return of Zero](../../../README.md) | [intents](intents/symbolon-root.md) |
 | #2 | Matheme — exact operations | 94 | 845 | 47% | [Matheme](../../../matheme/README.md) | [intents](intents/matheme.md) |
 | #3 | Mytheme — whole lived images | 48 | 763 | 59% | [Mytheme](../../../mytheme/README.md) | [intents](intents/mytheme.md) |
 | #4 | Episteme — the register root | 1 | 24 | 17% | [Episteme](../../README.md) | [intents](intents/episteme-root.md) |
-| #4 | Episteme · Arguments A01–A36 | 37 | 1076 | 60% | [Canonical Arguments A01–A36](../../arguments/README.md) | [intents](intents/episteme-arguments.md) |
+| #4 | Episteme · Arguments A01–A36 | 37 | 1130 | 58% | [Canonical Arguments A01–A36](../../arguments/README.md) | [intents](intents/episteme-arguments.md) |
 | #4 | Episteme · Conjugate arguments A01′–A36′ | 38 | 650 | 32% | [Conjugate Argument Field — A01′–A36′ and the A/C Root](../../conjugate/README.md) | [intents](intents/episteme-conjugate.md) |
-| #4 | Episteme · Concepts C01–C64 and provenance | 179 | 1233 | 49% | [Concepts](../../concepts/README.md) | [intents](intents/episteme-concepts.md) |
-| #4 | Episteme · Etymology whole-fields | 22 | 589 | 75% | [Etymologies — Meaning Fields, Word-Histories, and Re-entries](../../etymologies/README.md) | [intents](intents/episteme-etymologies.md) |
+| #4 | Episteme · Concepts C01–C64 and provenance | 179 | 1349 | 46% | [Concepts](../../concepts/README.md) | [intents](intents/episteme-concepts.md) |
+| #4 | Episteme · Product field S / S0–S5 | 8 | 100 | 24% | [Episteme — S Product Field](../../products/README.md) | [intents](intents/episteme-products.md) |
+| #4 | Episteme · Etymology whole-fields | 25 | 618 | 72% | [Etymologies — Meaning Fields, Word-Histories, and Re-entries](../../etymologies/README.md) | [intents](intents/episteme-etymologies.md) |
 | #4 | Episteme · Histories | 21 | 660 | 65% | [Histories — Streams of the Logos in Time](../../histories/README.md) | [intents](intents/episteme-histories.md) |
-| #4 | Episteme · Source houses | 195 | 1054 | 16% | [Return of Zero Source Bank](../../sources/README.md) | [intents](intents/episteme-sources.md) |
+| #4 | Episteme · Source houses | 201 | 1066 | 16% | [Return of Zero Source Bank](../../sources/README.md) | [intents](intents/episteme-sources.md) |
 | #4 | Episteme · Dossiers | 8 | 205 | 87% | [Dossiers](../../dossiers/README.md) | [intents](intents/episteme-dossiers.md) |
 | #4 | Episteme · Lenses | 3 | 37 | 70% | [Lenses](../../lenses/README.md) | [intents](intents/episteme-lenses.md) |
 | #4 | Episteme · Maps and curated paths | 5 | 119 | 6% | [Maps](../README.md) | [intents](intents/episteme-maps.md) |
@@ -41,7 +42,7 @@ This map is generated from the relations authors wrote into the publication body
 | #4 | Episteme · Aphorisms | 1 | 11 | 82% | [Investigation and Faith — the complete aphorism](../../aphorisms/investigation-and-faith.md) | [intents](intents/episteme-aphorisms.md) |
 | #4 | Episteme · Figures | 1 | 3 | 0% | [Episteme Figures](../../figures/README.md) | [intents](intents/episteme-figures.md) |
 | #4 | Episteme · Dialogues | 1 | 1 | 0% | [Dialogues](../../dialogues/README.md) | [intents](intents/episteme-dialogues.md) |
-| support | Supporting quilt ledgers (non-canonical) | 6 | 92 | 16% | [QL Expression Grammar](../../../../quilt/ql-expression-grammar.md) | [intents](intents/quilt.md) |
+| support | Supporting quilt ledgers (non-canonical) | 6 | 95 | 16% | [QL Expression Grammar](../../../../quilt/ql-expression-grammar.md) | [intents](intents/quilt.md) |
 
 ## Four reading movements
 
@@ -54,20 +55,20 @@ This map is generated from the relations authors wrote into the publication body
 
 | Relation | Count |
 |---|---|
-| unnamed | 5173 |
-| sources | 1298 |
-| sources (declared) | 787 |
-| returns-to | 647 |
-| grounds | 479 |
+| unnamed | 5417 |
+| sources | 1329 |
+| sources (declared) | 822 |
+| returns-to | 657 |
+| grounds | 473 |
 | extends | 360 |
-| qualifies | 295 |
-| consumed-by (declared) | 273 |
+| qualifies | 294 |
+| consumed-by (declared) | 288 |
 | defines | 253 |
-| figures | 220 |
+| figures | 219 |
 | compares | 170 |
-| historicises | 168 |
+| historicises | 166 |
 | returns-to (declared) | 125 |
-| tests | 105 |
+| tests | 104 |
 | derives | 31 |
 | embodies | 16 |
 | sources (declared passage) | 12 |
@@ -76,6 +77,6 @@ This map is generated from the relations authors wrote into the publication body
 
 ## Standing of the surface
 
-- Workspace-resolved graph: 718/765 reachable, including metadata relations. Conservative visible-link audit: 702/765. See the audit for the distinction.
-- Orphans (no written inbound relation): 36. Pages with no written route back into the essay: 217.
+- Workspace-resolved graph: 734/782 reachable, including metadata relations. Conservative visible-link audit: 718/782. See the audit for the distinction.
+- Orphans (no written inbound relation): 37. Pages with no written route back into the essay: 218.
 - Full findings with page lists: [navigation audit](AUDIT.md).

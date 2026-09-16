@@ -77,3 +77,5 @@ The digital catalogue does not establish a causal relation between Bhāskara II 
 ## Passages and excerpts
 
 No quotation from the mathematical body is admitted through this record. Use the Colebrooke source house for verified English passages.
+
+**Reader return:** the 1150 chronology is consumed linearly in [[section-rooms/02-return-of-zero/movements/14-s1-p1-sunya-operational|M14 — Śūnya Becomes Operational]].

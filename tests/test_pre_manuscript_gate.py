@@ -26,13 +26,13 @@ class PreManuscriptGateTests(unittest.TestCase):
 
     def test_complete_admitted_field_is_present_unique_and_reader_reachable(self):
         rows = self.report['records']
-        self.assertEqual(281, len(rows))
+        self.assertEqual(288, len(rows))
         self.assertEqual(len(rows), len({r['record_id'] for r in rows}))
         self.assertEqual(len(rows), len({r['canonical_home'] for r in rows}))
         for r in rows:
             self.assertTrue(r['exists'], r)
             self.assertIsNotNone(r['reader_depth'], r)
-        suite = {f'C{i:02}' for i in range(1,65)} | {f'A{i:02}' for i in range(1,37)} | {f'A{i:02}p' for i in range(1,37)} | {'A/C'}
+        suite = ({f'C{i:02}' for i in range(1,65)} | {f'A{i:02}' for i in range(1,37)} | {f'A{i:02}p' for i in range(1,37)} | {'A/C'} | {'S','S0','S1','S2','S3','S4','S5'})
         self.assertTrue(suite <= {r['record_id'] for r in rows})
         for r in rows:
             if r['record_id'] in suite:

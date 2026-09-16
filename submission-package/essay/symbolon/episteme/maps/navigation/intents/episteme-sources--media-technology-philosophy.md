@@ -3,9 +3,9 @@ title: "Intents — Episteme · Source houses"
 source_id: navigation-episteme-sources--media-technology-philosophy
 page_type: navigation-intents
 generated: true
-generator: "tools/build-navigation.py v1.1.0"
+generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "026720444e05494bfe5d27a0fff06819a3226793aec5a7cee283faef2dac6f38"
+source_digest: "fe2af8e264c5cea8b81ff6ee185978bbc8ff63817a3a16c14cd8faed26d5d162"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -93,7 +93,7 @@ Group: `media-technology-philosophy` · back to [Episteme · Source houses](epis
 
 `book`
 
-**Implicates:** *consumed-by (declared)* → [Counterfeit Gathering](../../../concepts/counterfeit-gathering.md) · *unnamed* → [§2 · #3 — Ares, Aphrodite, Harmonia, Eros, and Hephaestus](../../../../../section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md), [§5 · #3 — Preference Models and the Hidden Zero](../../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md), [Counterfeit Gathering](../../../concepts/counterfeit-gathering.md)
+**Implicates:** *consumed-by (declared)* → [Counterfeit Gathering](../../../concepts/counterfeit-gathering.md) · *unnamed* → [§2 · #3 — Ares, Aphrodite, Harmonia, Eros, and Hephaestus](../../../../../section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md), [§5 · #3 — Software Factory — Transformation](../../../../../section-rooms/06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md), [Counterfeit Gathering](../../../concepts/counterfeit-gathering.md)
 
 **Reached from:** *sources* ← [§2 Room — Two Logics of Two — Dia-ballein and Sym-ballein](../../../../../section-rooms/03-two-logics/ROOM.md), [World-Picture to World-Atlas](../../../concepts/world-picture-to-world-atlas.md), [Myth — Tellings, Changed Offices, and Consequential Return](../../../histories/encounters-and-transmissions/myth/DEVELOPMENT.md), [Myth — Genealogy, Transformation, and Technē](../../../histories/encounters-and-transmissions/myth/HISTORY.md), [Foucault — Knowledge, Power, and the Authority to Return](../../../lenses/foucault.md), [Source Intake Queue](../../../sources/source-intake-queue.md), [The Mirror That Moves First](../../../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md) · *sources (declared)* ← [§2 · #3 — Ares, Aphrodite, Harmonia, Eros, and Hephaestus](../../../../../section-rooms/03-two-logics/movements/22-s2-p3-ares-aphrodite-harmonia.md), [Sym-Ballein](../../../../../section-rooms/arguments/03-two-logics-and-sym-ballein.md), [Artificial Hybrid Intelligence as Reflective Field](../../../../../section-rooms/arguments/06-computational-vimarsa-ahi.md), [Computational Process Ontology](../../../../../section-rooms/arguments/14-computational-process-ontology.md), [The Mirror That Moves First](../../../../mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md) · *unnamed* ← [Return of Zero — Main Sources by Section](../../../sources/MAIN-SOURCES.md), [Return of Zero — Passage Locator Ledger](../../../sources/PASSAGE-LEDGER.md), [Return of Zero — Canonical Source Index](../../../sources/SOURCE-INDEX.md), [Foucault — The History of Sexuality, Volume 1 (1976)](../../../sources/phenomenology-continental-philosophy/foucault/foucault-1976-history-sexuality-v1/SOURCE.md)
 
