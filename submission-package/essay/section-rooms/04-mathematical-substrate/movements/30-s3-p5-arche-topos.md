@@ -6,7 +6,7 @@ page_type: section-movement
 station: "§3"
 position: "#5→0"
 sequence: 30
-claim_status: Derived
+claim_status: "Derived (Arche-Topos formal synthesis); Argued (psychoid identification)"
 evidence_status: theorem-derived-cross-register
 transverse_threads: [mono-poly-two-ones]
 source_ids: [heidegger-1977-question-concerning-technology]
