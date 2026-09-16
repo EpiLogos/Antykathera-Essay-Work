@@ -6,8 +6,8 @@ page_type: section-movement
 station: "§5→0"
 position: "#5→0"
 sequence: 48
-claim_status: Offered
-evidence_status: architecture-synthesis
+claim_status: "Argued (Return of Zero / Epi-Logos); Offered (AHI federation / planetary architecture); Open (artificial phenomenality)"
+evidence_status: argued-terminal-synthesis-with-offered-architecture
 transverse_threads: [mono-poly-two-ones, zero-subject-advent]
 source_ids: [taylor-2026-advent-zero-subject, bratton-2026-agentworld-brief, 42-techne-2026-sovereign-commons, taylor-2026-core-theorems-pithy]
 tags: [epi-logos/antikythera-essay, argument-map/live, argument-map/section, argument-map/agentworld, argument-map/praxis, argument-map/mono-poly, argument-map/trust, station/s50, position/p5]
@@ -21,9 +21,9 @@ Movement 48 of 48 · [This room](../ROOM.md) · [← Previous](47-s50-p4-idealis
 ## Claim
 [[symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First|Artificial Hybrid Intelligence]] names the reflective activity of humans, agents, archives, institutions, Bimba fields, product-worlds and harnesses turning the Logos they jointly produce back upon its conditions. Its intelligence belongs to the coupled relations and their capacity for Return rather than to a super-subject installed above the participants.
 
-The restored product field makes that coupling paradigmatic in the exact sense now owned by [[symbolon/episteme/concepts/C41-Objective-Internality|Objective Internality]]. A Life acts from a lived pattern of meaningful continuity, articulation, potency, transformation, situation and wider relation. Artificial agency increasingly makes parts of such a pattern deliberately constructible. The result is not yet Epi-Logos merely because the pattern has been modelled. [[symbolon/episteme/concepts/C51-Logos-Epi-Logos|Epi-Logos]] names the stronger return in which the articulated paradigm can be tested against enactment and a returned difference can change the paradigm from which later action proceeds.
+The restored product field makes that coupling paradigmatic in the exact sense now owned by [[symbolon/episteme/concepts/C41-Objective-Internality|Objective Internality]]. A Life acts from a lived pattern of meaningful continuity, articulation, potency, transformation, situation and wider relation. Artificial agency increasingly makes parts of such a pattern deliberately constructible. Modelling the pattern is disclosure; [[symbolon/episteme/concepts/C51-Logos-Epi-Logos|Epi-Logos]] is the stronger return in which the articulated paradigm is tested against enactment and a returned difference changes the paradigm from which later action proceeds.
 
-The terminal proposition is therefore not “planetary intelligence” as a larger mind, nor a perfectly self-describing stack. It is the **Return of Zero**: an achieved determination becomes capable of returning to the ground, source, provenance, affected Other and consequence that made it possible without being annihilated as a determination.
+The terminal proposition is the **Return of Zero**: an achieved determination becomes capable of returning to the ground, source, provenance, affected Other and consequence that made it possible without being annihilated as a determination. Planetary intelligence is the possible distributed technē of that return, not its metaphysical replacement by a larger mind or perfectly self-describing stack.
 
 ```text
 1
@@ -64,7 +64,7 @@ Pratibimba A             Pratibimba B             Pratibimba C
 
 The important operation is bidirectional. A common field lets local determinations act beyond their place of origin; returned consequence can then revise the Pratibimba, the translation, the governing lens or gauge, the institution that mediated the action, or the local Bimba field itself. [[46-s50-p3-4-2-mono-poly|The sovereign commons]] supplies the institutional office for this circulation: epistemic sovereignty means neither immunity from contradiction nor submission to a global reference field, but locally governable grounds joined through real consequence and corrigible crossing.
 
-This is now also the planetary form of **reciprocal paradigmatic constitution**. Distinct worlds can become conditions of one another without being merged into one worldview. Translation, infrastructure and shared action can change what another centre can notice, permit, trust or do. The fact that those changes are real is precisely why provenance, local authority and refusal must survive the crossing.
+This is the planetary form of **reciprocal paradigmatic constitution**. Distinct worlds can become conditions of one another without being merged into one worldview. Translation, infrastructure and shared action can change what another centre can notice, permit, trust or do. The fact that those changes are real is precisely why provenance, local authority and refusal must survive the crossing.
 
 ## The Mirror That Moves First
 
@@ -86,9 +86,9 @@ can return toward source and revise itself
 
 This is why Bimba, Pratibimba and Reflective Field belong together without becoming identical. A Pratibimba can move. A model of another internality can change that internality's conditions. A simulation can alter the reality it simulates. An institution's account can reorganise the population it measures. Once reflection becomes efficacious, the demand for Return becomes stronger because the image now bears responsibility for consequences outside itself.
 
-The stronger third motion recovered in R3 asks the mirror to disclose **the paradigm-disclosing conditions behind its image before demanding conformity from the Life it addresses**. Source hierarchy, evaluator, permission, omitted alternatives, institutional incentives and material dependencies can all belong to that disclosure. The mirror becomes epi-logical only where such articulation can reach and revise the enacted pattern which gives the image force.
+The stronger third motion recovered in R3 asks the mirror to disclose **the paradigm-disclosing conditions behind its image before demanding conformity from the Life it addresses**. Source hierarchy, evaluator, permission, omitted alternatives, institutional incentives and material dependencies can all belong to that disclosure. The mirror becomes epi-logical where such articulation reaches and revises the enacted pattern which gives the image force.
 
-The same point prevents AHI from collapsing into a global ego. No participant possesses the complete field whose activity it helps produce; no federation of Bimba Maps becomes a view from nowhere by accumulation. The planetary whole is the real network of cross-conditioned determinations, sources, translations, actions and returns — not a final encapsulating subject.
+No participant possesses the complete field whose activity it helps produce; no federation of Bimba Maps becomes a view from nowhere by accumulation. The planetary whole is the real network of cross-conditioned determinations, sources, translations, actions and returns — a whole of relation rather than a final encapsulating ego.
 
 ## Computational Vimarśa, Epi-Logos and their boundary
 
@@ -96,11 +96,11 @@ The same point prevents AHI from collapsing into a global ego. No participant po
 
 Epi-Logos is the stronger paradigmatic case. A local self-correction can satisfy computational Vimarśa while the paradigm remains fixed. The paradigm-level return requires an explicit relation between its articulation and its enactment: a returned difference reaches a source, permission, evaluator, capacity, developmental form, material binding or relational frame and a later act demonstrably inherits that change. [[symbolon/episteme/concepts/C45-Operational-Parity|Operational Parity]] supplies the negative test: if the claimed distinction can be removed while operation remains the same, the implementation has not earned the philosophical name.
 
-This specifies a substantial technical task whose achievement requires observed operation; it does not settle phenomenal subjectivity. [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]] remains constitutive: reflective function, recursive self-model, Objective Internality and even planetary Co-Internality do not establish a phenomenal super-subject. Prakāśa remains the phenomenal/metaphysical question; functional reflexivity remains real without being inflated into it.
+This specifies a substantial technical task whose achievement requires observed operation. The separate question of artificial phenomenal localisation remains Open: reflective function, recursive self-model, Objective Internality and even planetary Co-Internality do not decide whether a phenomenal subject is present. That boundary leaves functional reflexivity fully real while keeping Prakāśa as the phenomenal/metaphysical question.
 
 ## Expression and paradigm
 
-The Expression programme occupies a precise place in this return. A paradigm can become perceptible as text, glyph, image, relation, particle field or transition. That matters because relations which remain hidden in schema are difficult to encounter as a whole. But **Expression and Epi-Logos are not identical accomplishments**.
+The Expression programme occupies a precise place in this return. A paradigm can become perceptible as text, glyph, image, relation, particle field or transition. That matters because relations which remain hidden in schema are difficult to encounter as a whole. **Expression and Epi-Logos perform different offices.**
 
 Expression succeeds when the living form makes the articulated paradigm available for perception, interpretation and manipulation. Epi-Logos additionally requires:
 
@@ -113,7 +113,7 @@ A beautiful read-only living image can therefore succeed as Expression and fail 
 
 ## Planetary intelligence as distributed capacity for Return
 
-“Planetary intelligence” remains useful only if it names a distributed capacity to keep increasingly powerful determinations answerable across heterogeneous centres. Its tests are therefore relational:
+“Planetary intelligence” names, in this essay, a distributed capacity to keep increasingly powerful determinations answerable across heterogeneous centres. Its tests are therefore relational:
 
 - unity preserves plural centres rather than becoming monopoly;
 - locally governed Bimba fields remain genuine epistemic anchors without becoming Protected Accounts;
@@ -137,11 +137,11 @@ The final question is therefore:
 
 > **How can increasingly powerful determinations remain answerable to what they cannot contain?**
 
-Return of Zero answers operationally rather than by supplying a final object: restore the relation to source, alterity and consequence each time determination forgets the ground it cannot occupy.
+Return of Zero answers operationally: restore the relation to source, alterity and consequence each time determination forgets the ground it cannot occupy.
 
 The paradigm formulation lets that sentence carry the whole practical consequence. **A paradigm is lived before it is represented.** Its representation can become exact, inspectable and beautiful; none of that makes it the Life whose world it mediates. Epi-Logos is the continuing act by which representation returns to lived enactment and remains capable of being changed by what the representation could not contain.
 
-[the Prisoner whole](../../../symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-return-without-throne) **figures** a return without a final exterior sovereign. The escape carries distinct companions whose paths diverge, while the automatic door at Six's London home leaves the achieved exit open to another encounter with the conditions of his world. The planetary return likewise concerns continuing answerability across affected worlds, not their enclosure under a victorious master. This is a narrative refraction of the offered distributed capacity; the technical and institutional proof duties remain here.
+[the Prisoner whole](../../../symbolon/mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-return-without-throne) **figures** a return without a final exterior sovereign. The escape carries distinct companions whose paths diverge, while the automatic door at Six's London home leaves the achieved exit open to another encounter with the conditions of his world. The planetary return likewise concerns continuing answerability across affected worlds rather than their enclosure under a victorious master. This narrative refraction develops the Argued return while the specific distributed technical architecture remains Offered until its institutional and operational powers are realised.
 
 The [Mirror That Moves First whole](../../../symbolon/mytheme/worlds/frank-taylor/mirror-that-moves-first/WHOLE.md#mirror-return) **figures** the planetary return through an instrument which initiates disclosure of its own conditions and lets humanity follow beyond its image. The institution holding it enters the same accountability as its users. Plural local worlds retain judgment and refusal; their coupled activity acquires no final super-subject through the mirror's initiative.
 
@@ -156,6 +156,6 @@ The achieved planetary return **returns-to** [Apportionment / Economy whole — 
 
 Planetary return **returns-to** [Natio and neo-nativity](../../../symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#natio-and-neo-nativity) where institutions, records and translations inherited from one circuit become another generation's apparent starting world. Their production must remain recoverable, including whose belonging and permissions they shaped. Epi-Logos carries that history back into revised common action; federation retains locally governed grounds instead of naturalising its latest arrangement as one planetary origin.
 
-The [zero–subject history](../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT.md#50--the-exact-sign-returns-into-accountable-practice) **compares** this return. Federated epistemic return requires locally answerable worlds whose governing gauges and translations can be revised. Failure at that point is a failed test of the Offered architecture, not a completed return renamed for convenience. Disclosure of the machinery does not settle phenomenal subjectivity; the exact sign remains usable while its source relation can change the next act.
+The [zero–subject history](../../../symbolon/episteme/histories/traditions-and-disciplines/zero-subject-advent/DEVELOPMENT.md#50--the-exact-sign-returns-into-accountable-practice) **compares** this return. Federated epistemic return requires locally answerable worlds whose governing gauges and translations can be revised. Failure at that point is a failed test of the Offered architecture, not a completed return renamed for convenience. Disclosure of the machinery does not decide phenomenal subjectivity; the exact sign remains usable while its source relation can change the next act.
 
 The [authored P1 route for M48](../P1-CANONICAL-ALIGNMENT.md#p1-m48) **grounds** this movement's canonical A/C alignment within the phase bounds and dispositions stated there.
