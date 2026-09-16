@@ -7,7 +7,7 @@ page_type: argument-map
 evidence_status: source-synthesized
 source_ids:
   - "Antykathera-Essay-Work/antykathera-resources/Antikythera Agentworld Brief.md"
-planning_version: v3.1
+planning_version: v3.2-t25-paradigm
 tags:
   - epi-logos/antikythera-essay
   - argument-map/live
@@ -28,6 +28,32 @@ The brief describes a future of provisional agents, decomposable harnesses, plur
 The venue-facing thesis can be stated soberly:
 
 > Agentworld needs the same decision-procedural grammar across divergent world-models. QL supplies a candidate grammar of distinction and return; MEF makes the models, lenses, and evidential grounds mutually inspectable. Human responsibility lies in verifying holistic fit and protecting lived contexts without claiming an infallible view from nowhere.
+
+## Paradigmatic construction — R3/R4 return
+
+The earlier QL/MEF response remains necessary but is now one layer of a stronger venue-facing account. The design object is increasingly **agent-within-a-paradigmatically structured world**, not model in isolation. [[symbolon/episteme/concepts/C41-Objective-Internality|Objective Internality]] names the constitutive means; **Paradigm** names a relatively durable organisation of those means; Projecthood names determinations thrown forth through that pattern into a World; [[symbolon/episteme/concepts/C51-Logos-Epi-Logos|Epi-Logos]] names the constructive wager that the achieved pattern can become sufficiently explicit for returned difference to revise its enactment from within. This is not a God's-eye duplicate of the paradigm, and it does not settle machine phenomenality.
+
+The compact venue thesis is therefore:
+
+> **Agentworld is a problem of paradigmatic construction.** Artificial agents increasingly individuate and act within structured worlds whose memories, tools, permissions, representations, interfaces and institutions participate in what can appear and matter. Objective Internality names this mediating constitution. Epi-Logos is the wager that a paradigm can carry more of its own pattern of disclosure within itself — as inspectable relations through which its inhabitants can compare source and projection, contest measures, meet paradox, revise projects and return consequences to the conditions that made them possible.
+
+The ethical clause is equally load-bearing:
+
+> **Diaphaneity makes the paradigm's conditions visible; Compassion determines whether that visibility increases answerability or appropriation.**
+
+This folds the September 15 return into the existing response threads without replacing them:
+
+- **q003/q004 / conceptual lag:** Paradigm is the missing world-level object. The essay is not projecting an ancient ontology onto AI; it uses historical and cross-civilisational material as derivational memory while constructing a present grammar for world-forming agency.
+- **q015–q017 / active-context individuation and lamination:** Objective Internality supplies the constituted means without a phenomenal verdict; Paradigm names the lived/operative organisation of those means. The agent does not stand outside prompt, memory, permissions, tools and milieu and then receive them as accessories.
+- **q019 / design refashions human thought:** projected technical forms do not merely instantiate a paradigm. Their consequences feed back into the human patterns of attention, judgment and action which produced them. Projecthood and the mirror/simulacrum field are therefore venue-facing.
+- **q023 / representation rather than conversation:** Epi-Logos is not a more convincing conversational mask. Sources, lenses, determinations, exclusions, coordinates, histories and transformations must become addressable parts of the shared field. Expression can make them perceptible; only operative return earns the stronger name.
+- **q032/q033 / Prompt Thrownness:** an agent's current capacities and determinations arise relative to a structured world it did not author whole. Workcell and Objective Internality give that thrownness a technical body while Subjective Immediacy remains Open.
+- **q038/q039 / harness-centric capability and ensemble learning:** AIKit/potency and Central/meaningful continuity are offices of a larger paradigm, not auxiliary wrappers around self-contained weights. A commons carrying learning is itself a paradigmatic medium whose source, authority, exclusions and revision rights must remain inspectable.
+- **q040 / alignment through contact:** encounter must be able to revise the paradigm at the determining level it actually reaches — answer, task, world-model, evaluator, commission, capability horizon, developmental form, material binding or relation.
+- **q030 / prediction-stability and shadow/body:** paradigmatic legibility is not exhaustive capture. A representation of the paradigm remains a projection within it; source and Other retain answerability. Increased legibility can otherwise become a stronger dossier and enclosure.
+- **q035 / productive alienation:** paradox can expose the containing paradigm itself. Dia/syn determines whether the break is expelled, appropriated, or retained long enough for the containing relation to transform.
+
+The [Genesis / Paradigm / Project / Epi-Logos whole](symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md) gives this response its exact authorial compression; the existing R1–R21 matrix continues to carry the brief's granular pressures and evidence.
 
 ## Core response threads
 
