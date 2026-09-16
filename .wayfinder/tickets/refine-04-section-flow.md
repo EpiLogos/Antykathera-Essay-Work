@@ -1,7 +1,7 @@
 ---
 title: "R4 — Review all eight stations and forty-eight movements against the refined field"
 label: wayfinder:task
-status: in_progress
+status: complete
 parent: ../maps/p2-enrichment-handoff.md
 assignee: "T25 R4 execution — 2026-09-15"
 blocked_by:
@@ -9,6 +9,7 @@ blocked_by:
 programme: "T25 / GitHub #26"
 created: 2026-09-10
 updated: 2026-09-16
+completed: 2026-09-16
 claimed_from: "main@2120dd22c2cb82e705bba2de972d9aa2359a1dbb"
 ---
 
@@ -55,4 +56,4 @@ The September 15 **Genesis / Paradigm / Project / Epi-Logos** archaeology and it
 - **§5 — already integrated:** S is the World/Life parent; M37–M42 are six offices of one constructed paradigm, with Relational Logos/model work in Actuation and general Projecthood reflected technically through Factory without being reduced to software development.
 - **§5→0 — already integrated at depth:** M44 subordinates QL/MEF/Bimba/harness to the larger six-product paradigm and preserves recursively local Bimba originals; M48 distinguishes Expression, Computational Vimarśa and Epi-Logos and makes paradigm-return operational.
 
-**Remaining venue/governing debt:** the canonical Agentworld Response Matrix still speaks chiefly in its older QL-grammar/MEF-inspectability formulation, while the new return correctly makes the design object **agent-within-a-paradigmatically structured world**. The central plan likewise still needs the concise top-level Paradigm / Project / Epi-Logos governing relation. Those are R4 governing-surface repairs, not reasons to reopen R3.
+**Governing-surface closure:** the central plan now carries the explicit Genesis / Paradigm / Project / Epi-Logos compression, contextual/local Bimba reference office and six-product-paradigm boundary; the canonical Agentworld Response Matrix now carries agent-within-a-paradigmatically-structured-world as the stronger venue-facing design object. R4 is complete. R5 is the active independent cold-review/validation gate; T26 ratification remains untouched.

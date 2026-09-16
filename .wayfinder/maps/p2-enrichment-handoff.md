@@ -1,11 +1,11 @@
 ---
 title: P2 Enrichment Handoff
 label: wayfinder:map
-status: "T25 R1–R3 complete; R4 eight-station / 48-movement review is the execution frontier"
+status: "T25 R1–R4 complete; R5 cold semantic and executable validation is the execution frontier"
 created: 2026-09-06
-updated: 2026-09-15
+updated: 2026-09-16
 programme_parent: "Return of Zero Writing Programme / GitHub #1"
-completed_through: "T25 R3 — full 144-record shared-field refinement and register fold-back"
+completed_through: "T25 R4 — full eight-station / 48-movement flow review with paradigmatic delta folded into governing surfaces"
 next_gate: "Execute T25 R4–R6; then Frank ratifies the refined whole and one common writing base at T26/#27"
 branch: main
 protocol: ../../docs/PRE-MANUSCRIPT-REFINEMENT-PROTOCOL.md
@@ -17,11 +17,11 @@ protocol: ../../docs/PRE-MANUSCRIPT-REFINEMENT-PROTOCOL.md
 
 Frank commissioned the **Objective Internality capstone refinement, seven-record S field, six-product §5, full-field refinement and complete section-flow review** following T24. The detailed execution contract is [Pre-manuscript refinement protocol](../../docs/PRE-MANUSCRIPT-REFINEMENT-PROTOCOL.md). The accepted intention, Indian/Kashmiri–zero–Gebser correction, and preserved pasted inputs are in its [authorial minute](../../working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md).
 
-**R1–R3 are now complete.** R1 recovered the governing Life/Mind, A/C and native-theorem ground and amended the plan. R2 developed the seven-record S field, exact paired-MEF disclosure and six-product §5, including the wider Projecthood relation in Factory. R3 read and dispositioned the full `36 A + 36 A′ + 64 C + A/C + 7 S = 144` shared field and folded the restored whole back through its actual owners. The compact closing evidence is [R3 — 144-record shared-field disposition](../../working/pre-manuscript-refinement-2026-09-10/R3-144-RECORD-DISPOSITION.md).
+**R1–R4 are now complete.** R1 recovered the governing Life/Mind, A/C and native-theorem ground and amended the plan. R2 developed the seven-record S field, exact paired-MEF disclosure and six-product §5, including the wider Projecthood relation in Factory. R3 read and dispositioned the full `36 A + 36 A′ + 64 C + A/C + 7 S = 144` shared field and folded the restored whole back through its actual owners. R4 then read all eight stations / forty-eight movement bodies in order and performed a final Genesis / Paradigm / Project / Epi-Logos delta reread. The compact evidence is [R3 — 144-record shared-field disposition](../../working/pre-manuscript-refinement-2026-09-10/R3-144-RECORD-DISPOSITION.md) plus the [R4 paradigm delta review](../../working/pre-manuscript-refinement-2026-09-10/R4-PARADIGM-DELTA-REVIEW-2026-09-16.md).
 
 This remains **T25 / GitHub #26**, followed by the existing **T26 / GitHub #27** authorial ratification gate. T18–T24 are inherited and are not restarted. R1–R3 completion does not imply manuscript ratification.
 
-**Begin at R4.** Read the essay's one-breath whole and then all eight stations / forty-eight movement bodies in order. Test whether the linear sequence genuinely performs the refined field, not whether its links resolve. Repair movement placement, transition, withholding/payoff and displaced operations in the movement bodies and governing plan; reopen a canonical owner only where the linear review reveals a real semantic defect. Continue directly through R5 and R6 after the R4 dependency is honestly closed.
+**Begin at R5.** Independently cold-read the accepted minute, protocol, 144-record field, governing plan and complete eight-station / forty-eight-movement flow without relying on the drafter's self-justification. Verify preservation, source chronology, reader routes, generated surfaces and executable checks; return any real fault to its owner. Continue to R6 only after R5 is honestly closed.
 
 ## Destination and settled structure
 
@@ -44,8 +44,8 @@ After refinement and Frank's T26 ratification, the immediate complete prose deli
 | R1 | [Grounding and plan-first amendment](../tickets/refine-01-grounding-and-plan.md) | **Complete** — accepted intention governs the central plan; exact field and source routes recovered. |
 | R2 | [Seven S records and paired MEF disclosure](../tickets/refine-02-s-field-and-mef.md) | **Complete** — seven developed product-field records; paired MEF and six-product §5 explicit. |
 | R3 | [Whole-field refinement with register fold-back](../tickets/refine-03-whole-field-and-registers.md) | **Complete** — all A/A′/C/A/C/S records read/dispositioned; substantive register fold-back landed. |
-| R4 | [Eight-station, forty-eight-movement review](../tickets/refine-04-section-flow.md) | **Active frontier** — the complete essay must develop into and return from the product field; every displaced operation needs a home. |
-| R5 | [Cold semantic review and real validation](../tickets/refine-05-cold-review-and-validation.md) | Blocked by R4 — independently read content, preserved depth, repaired navigation and honest source/implementation status. |
+| R4 | [Eight-station, forty-eight-movement review](../tickets/refine-04-section-flow.md) | **Complete** — all 48 bodies read; flow/withholding/payoff repaired; Genesis/Paradigm/Project/Epi-Logos delta folded into §4 and governing surfaces. |
+| R5 | [Cold semantic review and real validation](../tickets/refine-05-cold-review-and-validation.md) | **Active frontier** — independently read content, preserved depth, repaired navigation and honest source/implementation status. |
 | R6 | [T25 return and T26 common-base packet](../tickets/refine-06-ratification-and-writing-packet.md) | Blocked by R5 — one reviewable refined whole, register-envelope table and complete §5 writing packet for Frank. |
 
 R3 performed T22-style fold-back throughout; it was not a late link pass. R4 discoveries return to the owning record and governing decision only where necessary. R5 repairs reopen only their affected reads. R6 does not ratify its own work or begin manuscript composition.
@@ -78,8 +78,9 @@ The September 9 snapshot reported 281 admitted records and the 137-record shared
 - 2026-09-09: T24 complete; Frank's authorial review precedes a common writing base.
 - 2026-09-10: Frank accepted the refinement sequence and six-product §5, with the subsequent corrections retained in the authorial minute. The pre-write contemplation for this commissioned refinement is recorded there; batch packets carry its specific intent.
 - 2026-09-10: The active map was reorganised around T25 R1–R6 and T26. Its former T17-first running order and dated STOPs are historical. The complete previous map remains recoverable at [the pre-refinement commit](https://github.com/EpiLogos/Antykathera-Essay-Work/blob/31c93ab04bfa3c39bd514027125973b98cfc6bad/.wayfinder/maps/p2-enrichment-handoff.md); no prior receipt or canonical content was deleted by this map reorganisation.
-- 2026-09-15: R1–R3 closed in dependency order. The Indian zero chronology, paradigmatic disclosure/Projecthood relation, six-product field, full Power/counterfeit-source braid and 144-record dispositions are now inherited by R4. The R4 movement review—not another canonical vocabulary pass—is the active frontier.
+- 2026-09-15: R1–R3 closed in dependency order. The Indian zero chronology, paradigmatic disclosure/Projecthood relation, six-product field, full Power/counterfeit-source braid and 144-record dispositions were inherited by R4.
+- 2026-09-16: R4 closed after the complete 48-movement review and a final Genesis / Paradigm / Project / Epi-Logos delta reread. The central plan, orientation and Agentworld matrix now carry the same relation. R5 is the active frontier.
 
 ## Stop boundary
 
-Refinement is authorised. The completed section-flow review, cold review, envelope table and exact common writing base still require **Frank's T26/#27 ratification**. Do not confuse R1–R3 completion with acceptance of work not yet performed. Preserve all protected authorial writings and the frozen A/C ethic. Do not edit private Control or product repositories in this essay lane.
+Refinement is authorised. The cold review, envelope table and exact common writing base still require **Frank's T26/#27 ratification**. Do not confuse R1–R4 completion with acceptance of R5/R6 or manuscript prose. Preserve all protected authorial writings and the frozen A/C ethic. Do not edit private Control or product repositories in this essay lane.

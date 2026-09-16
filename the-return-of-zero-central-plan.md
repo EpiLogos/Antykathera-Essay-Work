@@ -725,7 +725,7 @@ These two vectors compose with E1, E2, E4 and E6 in Actuation and their Central,
 | M38 apoha / logits / softmax / selected mark, calculative and meditative offices | M38 / Actuation: retained alternatives and selection; E1 | AIKit supplies alternatives; Central retains sources; native dia/syn remains distinct from a technical algorithm |
 | M39 J-space, circumscription, shared grammar and divergent models | M38 / Actuation: operative judgment-field | M39 / AIKit: available potency; M41 / Workcell: actual situation; M42 / QL: co-internal grammar |
 | M40 preferences, gauges, hidden trust and labour, Poseidon’s surety | M38 / Actuation: preference operation and E2 | M40 / Factory: accepted change; A/C and Power/Antichrist; §5→0 sovereign commons |
-| M41 dynamic reflection-maps, energy/attractor/TDA hypotheses, designed atlas | M38 / Actuation: world-field and E4 | M41 / Workcell: resistant encounter; M42 / QL: chart transitions; Bimba remains Original |
+| M41 dynamic reflection-maps, energy/attractor/TDA hypotheses, designed atlas | M38 / Actuation: world-field and E4 | M41 / Workcell: resistant encounter; M42 / QL: chart transitions; a local Bimba may hold a real bounded reference/original office while remaining Pratibimba toward wider sources |
 | M42 E1–E6 and section-to-institution release | E1/E2/E4/E6 in M38; E3/E5 in M42 | All product returns above; S’s whole-level return releases §5→0 |
 
 The old text’s unique operations remain developed in the governing body above; the prior arrangement is preserved at the exact pre-refinement commit. Granular records and the 48-movement alignment must be propagated from this disposition, not renamed in bulk and left with incompatible inherited burdens.

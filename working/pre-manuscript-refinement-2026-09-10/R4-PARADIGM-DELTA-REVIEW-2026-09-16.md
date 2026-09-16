@@ -147,4 +147,4 @@ This must be stated as a **compression of native QL**, not a new ontology or sev
 
 ## R4 disposition after delta reread
 
-R3 stays closed. R4's philosophical movement bodies are now coherent with the new archaeology after the M35/M36 repairs. The remaining work is governing-surface propagation into the **central plan** and **canonical Agentworld Response Matrix**, followed by ordinary R4/R5 projection validation. Those are not new conceptual discoveries; they are prevention of regression in the two documents future passes are instructed to trust.
+R3 stays closed. R4's philosophical movement bodies are coherent with the new archaeology after the M35/M36 repairs. The **central plan**, **Orienting Principles** and **canonical Agentworld Response Matrix** now carry the same paradigmatic relation, including the contextual/local Bimba reference office and the distinction between disclosure architecture and Epi-Logos. The R3/R4 paradigm delta is therefore closed. R5 remains the independent semantic/executable validation gate; no T26 ratification is implied.
