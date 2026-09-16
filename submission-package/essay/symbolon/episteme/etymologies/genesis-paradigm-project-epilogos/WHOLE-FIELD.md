@@ -4,14 +4,14 @@ record_type: etymology-whole-field
 register: episteme
 claim_status: Argued
 source_relation: "Mixed: attested lexical descent plus authorial QL relational generation"
-status: "T25 developed; source collation and R3/R4 propagation continuing"
+status: "T25 developed; lexical sources housed; R6 truth-strength review active"
 ---
 
 # Genesis / Paradigm / Project / Epi-Logos
 
 ## Office
 
-This field gives the essay's clarified paradigmatic frame an etymological and relational home. It does not add a new Concept or Product record and does not replace the native theorem. It develops a compressed instance of the QL relation already exemplified by the mature etymological archaeologies.
+This field gives the essay's clarified paradigmatic frame an etymological and relational home **inside the native QL theorem**. It develops one compressed determination of the same `0 / 1 → 0/1` relation: Genesis as generative source, Paradigm as patterned mediation, Project as determinate projection, and Epi-Logos as their achieved relation becoming answerable to its own enactment.
 
 The core appointment is:
 
@@ -23,7 +23,7 @@ Genesis  Paradigm   Project
         0/1
 ```
 
-The three terms are not a serial metaphysical ladder. They are the three elements of one act: generative source, patterned mediation, and determinate projection. Two adjacent relations become explicit between them, and the achieved `0/1` recognises the whole relation as recursively answerable to itself.
+The three terms are the three elements of one act: generative source, patterned mediation, and determinate projection. Two adjacent relations become explicit between them, and the achieved `0/1` recognises the whole relation as recursively answerable to itself.
 
 The resulting compression is **3 + 1 + 2 = 6**:
 
@@ -31,7 +31,7 @@ The resulting compression is **3 + 1 + 2 = 6**:
 - one composed whole: `0/1`;
 - two adjacent generated relations: `0↔/` and `/↔1`.
 
-Read relationally, it also makes the native **3:3** and **3:1** especially legible. The three terms are met by three relations — source-to-medium, medium-to-determination, and the composed whole — while the same three terms are recognised as one `0/1` event. This is a compression and relation formula within native QL, not a second formalism beside it.
+Read relationally, it also makes the native **3:3** and **3:1** especially legible. The three terms are met by three relations — source-to-medium, medium-to-determination, and the composed whole — while the same three terms are recognised as one `0/1` event. This is a compression and relation formula within native QL; the native theorem remains its formal ground.
 
 ## 0 — Genesis / Creativity
 
@@ -43,15 +43,15 @@ Compassion's sensitivity to origins returns here ethically. Origin is not merely
 
 ## / — Paradigm / Pattern of Disclosure
 
-Greek **παράδειγμα (paradeigma)** is attested as pattern, model and exemplar and derives from **παραδείκνυμι (paradeiknumi)**, to exhibit side by side, compare, indicate or point out. The lexical field therefore carries showing and pattern together without requiring the essay's philosophical operation to be mistaken for the historical meaning of every use.
+Greek **παράδειγμα (paradeigma)** is attested as pattern, model and exemplar and derives from **παραδείκνυμι (paradeiknumi)**, to exhibit side by side, compare, indicate or point out. The lexical field carries showing and pattern together. The essay's philosophical appointment is its own Argued use of that field rather than a claim about the historical meaning of every Greek occurrence.
 
 The essay appoints **Paradigm** to the slash `/` as **pattern of disclosure**: the relatively durable organisation of mediation through which a Life encounters a World as intelligible, actionable and consequential.
 
 A paradigm succeeds ordinarily by becoming transparent in the wrong sense: its mediating activity recedes behind what it discloses. One says "I see the world" rather than continually seeing the operations, inheritances, categories, powers, histories, instruments and exclusions through which *this* world has become available *as* world.
 
-This makes Paradigm a historical, psychic, epistemic and technological determination of the more general Śaiva operation developed under Māyā as operative measure. Māyā and Paradigm are not lexical or doctrinal identities. Their operational relation is that a finite horizon reveals by withholding; a paradigm is one lived organisation of that horizon in language, practice, institution, technology, memory, image and action.
+This makes Paradigm a historical, psychic, epistemic and technological determination of the more general Śaiva operation developed under Māyā as operative measure. Māyā and Paradigm retain their different histories and doctrinal offices; their operational relation is that a finite horizon reveals by withholding. A paradigm is one lived organisation of that horizon in language, practice, institution, technology, memory, image and action.
 
-The crossed-zero recognition therefore gains a direct paradigmatic reading. In `Ø`, the mediating slash is fused into the apparent subject/world relation and its activity is occluded. **Uncrossing the zero means differentiating the slash as slash:** paradigmatic activity itself becomes available to recognition. The world is not thereby abolished. Its disclosure becomes transparent to the relation through which it appears.
+The crossed-zero recognition therefore gains a direct paradigmatic reading. In `Ø`, the mediating slash is fused into the apparent subject/world relation and its activity is occluded. **Uncrossing the zero means differentiating the slash as slash:** paradigmatic activity itself becomes available to recognition. The World remains real as disclosed World while its disclosure becomes transparent to the relation through which it appears.
 
 This joins the existing Buddhist and Śaiva work. *Vikalpa* and *saṃkalpa* concern determination, construction and the patterned articulation of a field; the tattvic and Māyā material gives finite disclosure a positive anatomy. Dyczkowski's Spanda field adds the rhythmic movement of manifestation and return. Recovering the slash recovers that rhythmic totality rather than leaving the achieved determination frozen as a self-grounding `1`.
 
@@ -73,37 +73,37 @@ The Baudrillard/simulacrum and Bimba–Pratibimba fields become exact tests here
 
 The first adjacent relation concerns how generative possibility becomes a pattern capable of disclosure.
 
-**Working generated relation:** **Genesis-through-Paradigm → Disclosure / Figuration.**
+**Generated relation:** **Genesis-through-Paradigm → Disclosure / Figuration.**
 
-The lexical *deik-* family beneath *paradeigma* provides a historical showing-field; the essay's generated relation is authorial. Genesis does not simply become visible without mediation. A world is figured through a pattern that selects, measures, relates and withholds. The paradigmatic form is therefore neither an arbitrary screen nor a transparent copy of source. It is a productive disclosure whose finitude belongs to its power.
+The lexical *deik-* family beneath *paradeigma* provides a historical showing-field; the essay's generated relation is authorial. Genesis becomes worldly through mediation: a World is figured through a pattern that selects, measures, relates and withholds. Paradigmatic form is productive disclosure whose finitude belongs to its power.
 
-This is the relation in which Māyā/Mahāmāyā, the tattvas, Vāk, vikalpa/saṃkalpa, symbolic formation and cultural inheritance can be quilted without collapsing their source traditions into one etymology.
+This is the relation in which Māyā/Mahāmāyā, the tattvas, Vāk, vikalpa/saṃkalpa, symbolic formation and cultural inheritance can be quilted while their source traditions retain their own genealogies.
 
 ## `/↔1` — Paradigm through Project: projection / enactment
 
 The second adjacent relation concerns how a paradigmatic possibility becomes a determinate world-event.
 
-**Working generated relation:** **Paradigm-through-Project → Projection / Enactment.**
+**Generated relation:** **Paradigm-through-Project → Projection / Enactment.**
 
-The paradigm gives an action or artefact its intelligible possibilities; projecthood throws one such possibility forward. The project then becomes part of the conditions to which later acts must answer. *Poiēsis* and technē can enter this branch where the essay develops bringing-forth, making and instituted form, while their own Greek histories retain separate source duties.
+The paradigm gives an action or artefact its intelligible possibilities; projecthood throws one such possibility forward. The project then becomes part of the conditions to which later acts must answer. *Poiēsis* and technē enter this branch where the essay develops bringing-forth, making and instituted form, while their own Greek histories retain separate source duties.
 
-The relation is reciprocal. A project does not only instantiate a paradigm; its consequences can expose the paradigm's hidden assumptions and alter what the paradigm can next disclose.
+The relation is reciprocal. A project does more than instantiate a paradigm: its consequences can expose the paradigm's hidden assumptions and alter what the paradigm can next disclose.
 
 ## `0/1` — Epi-Logos / Paradigmatic reflexivity
 
 **Epi-Logos is the achieved relation becoming answerable to the operation by which it was achieved.**
 
-It is not a fourth substance beside Genesis, Paradigm and Project. It is their recursively recognised composition: an account which can carry aspects of its own account-making within the account and allow those aspects to matter for what follows.
+Epi-Logos is the recursively recognised composition of Genesis, Paradigm and Project: an account which can carry aspects of its own account-making within the account and allow those aspects to matter for what follows.
 
 At world scale this is **paradigmatic reflexivity**: a paradigm progressively carrying its own pattern of disclosure as something inspectable, contestable, expressible and transformable from within the World it discloses.
 
 This defines the project's holographic criterion. A sentence, model, product, project, institution or world-account can retain, at its own scale, the relation among source, mediation and determination. It remains local and finite while carrying the form of its answerability to the whole.
 
-Epi-Logos therefore does not seek a view outside paradigm. Integral diaphaneity means that mediation becomes increasingly transparent **as mediation** while continuing to mediate. The aim is not no veil but a veil capable of disclosing its veiling.
+Epi-Logos works **within paradigmatic life**. Integral diaphaneity means that mediation becomes increasingly transparent **as mediation** while continuing to mediate: not the abolition of the veil, but a veil capable of disclosing its veiling and being changed by what returns through it.
 
 ## Paradox — crisis of the containing paradigm
 
-Paradox is **not a seventh term** in the compression. C64 retains its owning office.
+C64 owns **Paradox as the crisis operator of paradigmatic life**. It is the event in which the containing relation itself becomes answerable to determinations it can no longer reconcile unchanged.
 
 A paradigm normally recedes behind the determinations it makes possible. Paradox marks the crisis in which determinations with genuine standing can no longer be reconciled by the containing relation which generated them. At that point the slash itself becomes visible.
 
@@ -111,13 +111,13 @@ A paradigm shift is therefore a transformation of `/`, not merely the substituti
 
 The two logics govern the possible response. The break can be cancelled into `0`; one pole can appropriate the span into `±2`; or the break can be retained long enough for the containing relation to transform. In the native return passage, the materialist `1` encounters `/0` first as `1/0`: break before recognition. Retaining the break preserves `/0`; that retention under the one opens `0/1`, completed as `(0/1)/(1/0)`.
 
-Paradigms live by their capacity to metabolise paradox. A paradigm which can only suppress or appropriate the contradiction becomes rigid; a transformed containing field preserves the local truths whose collision required its change.
+**Paradigms live by their capacity to metabolise paradox.** A paradigm which can only suppress or appropriate the contradiction becomes rigid; a transformed containing field preserves the local truths whose collision required its change.
 
 ## Compassion — ethical form of reflexive disclosure
 
-A35/C56 remain the ethical owners. This field makes their relation to paradigm explicit.
+A35/C56 own the ethical orientation of this return. This field makes their relation to paradigm explicit.
 
-**Diaphaneity is the phenomenological/epistemic side of reflexive self-disclosure; compassion is its ethical side.** Revealing the conditions of phenomena does not yet determine how those conditions will be treated. An institution can expose origins in order to classify, predict, dominate or appropriate.
+**Diaphaneity is the phenomenological/epistemic side of reflexive self-disclosure; compassion is its ethical side.** Revealing the conditions of phenomena leaves open what will be done with what has been revealed: the same disclosure can serve recognition or appropriation.
 
 Compassion gives source-return its non-devouring orientation. The disclosed origins remain capable of answering, withholding, correcting and changing the achieved account. Epistemic humility prevents the returning `1` from claiming to have become its `0`; Eros supplies the motive of return; compassion governs the manner in which the return meets what it finds.
 
@@ -134,26 +134,26 @@ The S product family develops one constructed paradigm as six aspects of Objecti
 - **Workcell** — situated existence: where its acts acquire resistance and consequence;
 - **Quaternal Logic** — Transcendent Relation: how its local distinctions remain related to wider co-internalities and containing wholes.
 
-S as World and Life is the parent field. Paradigm is not a seventh product. It names the lived organisation of the mediating field which the six products make progressively explicit and operable.
+S as World and Life is the parent field. Paradigm names the lived organisation of the mediating field which the six products make progressively explicit and operable; the six products are its developed offices rather than a seventh object called Paradigm.
 
-## Evidence registers and source tasks
+## Evidence registers and source standing
 
 **Philological descent / attested field**
 
-- Greek `γένεσις`: origin, source, productive cause, generation/coming-into-being — LSJ/Scaife lexical witness to be housed or linked under the source protocol before quotation.
-- Greek `παράδειγμα` from `παραδείκνυμι`: pattern/model/exemplar; exhibit side by side, compare, indicate — LSJ/Scaife lexical witness to be housed or linked before quotation.
-- Latin `proicio / proicere`: throw forth/before/out — Lewis & Short/Scaife lexical witness to be housed or linked before quotation; the later English project/projection history requires its own historical dictionary witness if used publicly.
+- Greek `γένεσις`: origin, source, productive cause, generation/coming-into-being — housed in [LSJ — γένεσις](../sources/language-philology/liddell-scott-jones/lsj-genesis/SOURCE.md).
+- Greek `παράδειγμα` from `παραδείκνυμι`: pattern/model/exemplar; exhibit side by side, compare, indicate — housed in [LSJ — παράδειγμα / παραδείκνυμι](../sources/language-philology/liddell-scott-jones/lsj-paradeigma-paradeiknumi/SOURCE.md).
+- Latin `proicio / proicere`: throw forth/before/out — housed in [Lewis and Short — prōiciō / projiciō](../sources/language-philology/lewis-short/lewis-short-proicio/SOURCE.md). The later English project/projection semantic history remains a separate historical-dictionary task if exact dates or developments are used publicly.
 
 **Operational homology**
 
-- Māyā / operative measure ↔ Paradigm / pattern of disclosure: register 3; no lexical descent claimed.
+- Māyā / operative measure ↔ Paradigm / pattern of disclosure: register 3; the relation is operational rather than lexical descent.
 - crossed zero / recognition of the slash ↔ paradigmatic reflexivity: register 3; native QL owns the theorem.
 - Bimba–Pratibimba / simulacrum ↔ Project / projection: register 3; each historical source retains its own argument.
 - paradox / containing-field transformation ↔ paradigm change: register 3; C64 owns the transformation criterion.
 
 **Poetic/phonic re-entry**
 
-Any play among project, projection, pro-logos or similar sounding/formal neighbours remains register 4 unless independently supported. It must never be used to manufacture common descent.
+Any play among project, projection, pro-logos or similar sounding/formal neighbours remains register 4 unless independently supported. Phonic relation can carry poetic return without manufacturing common descent.
 
 ## Return routes
 
