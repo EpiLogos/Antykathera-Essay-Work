@@ -10,13 +10,13 @@ publication: repository-governance
 
 # The Return of Zero — Writing, Review, and Publication Protocol
 
-## Current execution addendum — 2026-09-10
+## Current execution addendum — 2026-09-16
 
-T24 is complete. Frank has authorised the post-T24 capstone refinement recorded in the [Pre-manuscript refinement protocol](docs/PRE-MANUSCRIPT-REFINEMENT-PROTOCOL.md), version `2026-09-10.1`, and its [authorial minute](working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md). Read that supplement before executing the present pre-writing wave. The [existing P2 handoff map](.wayfinder/maps/p2-enrichment-handoff.md) now dispatches R1–R6 under **T25/#26**; **T26/#27** remains Frank's ratification of the resulting whole and one exact common writing base.
+T25 R1–R5 are complete. R6 is the active truth-strength and authorial-return gate under the [Pre-manuscript refinement protocol](docs/PRE-MANUSCRIPT-REFINEMENT-PROTOCOL.md), version `2026-09-10.1`, its [authorial minute](working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md), and the [R6 anti-anti-overclaim correction](working/pre-manuscript-refinement-2026-09-10/R6-ANTI-ANTI-OVERCLAIM-MINUTE.md). Read those supplements before executing the present pre-writing wave. The [existing P2 handoff map](.wayfinder/maps/p2-enrichment-handoff.md) dispatches R1–R6 under **T25/#26**; **T26/#27** remains Frank's ratification of the resulting whole and one exact common writing base.
 
-The commissioned sequence is A/C and native theorem grounding → seven S records and six-product §5 → full A/A′/C/S and whole-register refinement → all eight stations/48 movements → cold review and real validation → authorial return. The minute records the accepted intent for these refinement batches under §9; each batch carries its specific purpose and precise remaining debts. Genuinely new authorial decisions return explicitly rather than reopening the settled commission.
+The commissioned sequence is A/C and native theorem grounding → seven S records and six-product §5 → full A/A′/C/S and whole-register refinement → all eight stations/48 movements → cold review and real validation → truth-strength correction and authorial return. The accepted intention remains governing; R6 adds one explicit reviewer symmetry: **epistemic hygiene must not become rhetorical self-erasure.** Genuinely new authorial decisions return explicitly rather than reopening the settled commission.
 
-The accepted structural decisions enter the central plan before granular propagation. The currently materialised 137-record shared field is preserved and developed toward the commissioned 144 through S and S0–S5; no count is advanced merely by writing a plan. The complete frozen A/C ethic and protected authorial originals remain untouched.
+The accepted structural decisions have entered the central plan and granular canon. The commissioned shared field is now materialised as **144 records: 36 A + 36 A′ + 64 C + A/C + S/S0–S5**. The live T25 publication admission is separately **288 records**; the historical 281-record receipt remains its September-9 baseline. The complete frozen A/C ethic and protected authorial originals remain untouched.
 
 After T26, the immediate complete prose deliverable is **§5 as a standalone submission text and the same governed section of the eventual manuscript**. Its writing receipt records that scope. Complete prose of the other seven stations is not a prerequisite; their full reviewed architecture and equal argumentative depth remain binding. The full-manuscript and public-release gates below still apply to their respective later deliverables. The dated August state in §18 is historical, not the current execution frontier.
 
@@ -334,7 +334,7 @@ These laws carry Orwell's opposition to stale figures, needless length, removabl
 
 The rubric is used as a semantic checkpoint, not a sentence generator. At each completed movement, ask:
 
-- G1: is the claim warranted at its stated strength?
+- G1: is the claim warranted at its stated strength — **neither stronger nor weaker than the canonical argument**?
 - G2: are actor and operation legible?
 - G3: have dependencies been given before compression?
 - G4: does each paragraph perform one governing movement?
@@ -347,15 +347,29 @@ The rubric is used as a semantic checkpoint, not a sentence generator. At each c
 
 Checkpointing must not interrupt every sentence or reduce composition to fault avoidance. Complete the argumentative movement, then inspect it.
 
+### Claim-strength symmetry
+
+Review overclaim and underclaim with the same precision. **A source boundary limits attribution; a proof boundary limits formal consequence; an implementation boundary limits observed technical achievement. None of these licenses weakening a native proposition whose own argument has been made.** `Derived` and `Argued` are positive public warrants. `Offered` belongs to a conjecture, design, research vector or implementation whose success genuinely remains unsettled; `Open` belongs to a question intentionally left unresolved.
+
+A reviewer may flag **overclaim** only by naming the exact proposition asserted, the passage asserting it, and the warrant it exceeds. A reviewer must equally flag **underclaim** where caveat, status language, defensive negation or imagined objection makes the prose say less than the canonical argument. "This sounds strong," generic disciplinary caution, an imagined developer preference, or a phantom skeptical reader are not review grounds.
+
+For every weakening ask:
+
+1. What exact stronger or mistaken proposition would the reader otherwise reasonably infer?
+2. What actual passage, source boundary, rival view, venue condition or implementation state creates that risk?
+3. What necessary information would be lost if the qualification were deleted?
+
+If those questions have no concrete answer, remove or rewrite the qualification. Prefer **positive proposition → warrant/derivation → exact necessary boundary → consequence** over a passage organised around anticipated accusation.
+
 ### Independent review
 
-Calibration files remain closed. The reviewer first reads the whole relevant section in context, states its governing claim and each paragraph's work, and then audits G1–G10. Faults are recorded without rewriting in this form:
+Calibration files remain closed. The reviewer first reads the whole relevant section in context, states its governing claim and each paragraph's work, and then audits G1–G10 **in both directions of claim strength**. Faults are recorded without rewriting in this form:
 
 ```text
-location · fault code · exact phrase · failure · repair direction
+location · fault code/status · exact phrase · failure · repair direction
 ```
 
-The reviewer uses F1–F10 precisely: copula fraud, reflexive antithesis, nouned abstraction, sequence inversion, tour-guide narration, imported erudition, ungenerous opening, machine cadence, listing under compression, and prefabricated language.
+The reviewer uses F1–F10 precisely: copula fraud, reflexive antithesis, nouned abstraction, sequence inversion, tour-guide narration, imported erudition, ungenerous opening, machine cadence, listing under compression, and prefabricated language. Claim-strength faults additionally record `OVERCLAIM` or `UNDERCLAIM` and name the exact warrant or canonical proposition involved.
 
 The comparative and negation gate runs in the same independent pass. Every corrective negative or comparison answers four questions: who or what holds the first term; which exact operation separates the terms; why that difference matters here; and what information would be lost if the negative were deleted. Admissible forms are direct positive statement, source-bearing disagreement, operational distinction, and determinate or apophatic negation. Automated searches locate candidates only; they never establish faults or perform replacements.
 
@@ -373,9 +387,9 @@ The entire example corpus is never loaded by default. Calibration may confirm, r
 
 Repairs occur in this order:
 
-1. false or unsupported meaning;
+1. false, unsupported, or defensively weakened meaning;
 2. missing warrant and dependency;
-3. unstable term or register;
+3. unstable term, status, or register;
 4. paragraph movement;
 5. sentence agency and operation;
 6. cadence and diction.
@@ -395,7 +409,7 @@ Each candidate use records:
 - whether wording is exact, lightly normalised by Frank, or newly composed by Frank;
 - its exact essay and register targets.
 
-Poetry belongs chiefly to Mytheme when it figures, embodies, or lets a relation be experienced. It may cross into Symbolon when the poem itself holds the registers together, but that placement must be earned by its operation. A poem does not prove a formal or historical claim. Conversely, reducing a poem to an illustrative quotation destroys the work it may perform.
+Poetry belongs chiefly to Mytheme when it figures, embodies, proves/discloses through the action of a whole image, or lets a relation be experienced. It may cross into Symbolon when the poem itself holds the registers together, but that placement must be earned by its operation. A poem does not thereby prove a formal mathematical entailment or historical attribution. Conversely, reducing a poem to an illustrative quotation destroys the work it may perform.
 
 Frank's first-person accounts of AI encounter establish the authorial encounter and its phenomenological or methodological consequences. They do not, by themselves, establish machine phenomenality. External claims named within an authorial passage retain their own source and attribution burden.
 
@@ -408,11 +422,11 @@ There is no quota requiring one carrier from each register in every section. Reg
 The register boundaries remain exact:
 
 - Matheme derives, formalises, calculates, or marks a proof boundary.
-- Mytheme figures, embodies, narrates, or makes a structure liveable.
+- **Mytheme figures, embodies, narrates, and can prove/disclose a relation mythemically through the action of the whole image.**
 - Episteme sources, historicises, compares, maps, qualifies, or teaches a body of knowledge.
 - Symbolon holds the differentiated operations together and returns them without fusion.
 
-A source cannot validate Frank's native theorem-language into existence. A myth cannot prove a matheme. A formal neighbour cannot be treated as historical identity. A cross-register relation is analogical or operational only after the distinct operation on each side has been recovered.
+A source cannot validate Frank's native theorem-language into existence. **A myth can prove in the mythemic register; it cannot substitute that proof for a matheme's formal entailment or for a historical source's attribution.** A formal neighbour cannot be treated as historical identity. A cross-register relation is analogical or operational only after the distinct operation on each side has been recovered.
 
 Complexity is managed by logical directness: state the positive proposition; show what acts and changes; teach the operation; admit only the carriers that alter understanding; then compress. The wealth of the archive belongs in exact depth records and return routes, not in a main paragraph swollen by names.
 
@@ -459,7 +473,7 @@ Each version receives:
 
 1. a cold linear read of the whole essay;
 2. a station and seam audit;
-3. a source, quotation, attribution, and status audit;
+3. a source, quotation, attribution, status, **and claim-strength** audit;
 4. a G1–G10 and comparative-negation audit;
 5. a register and Symbolon audit;
 6. a depth-link, return-route, minigraph, visual, accessibility, and rights audit;
@@ -507,7 +521,8 @@ The work is ready for publication only when all of the following are true:
 - every write wave carries its pre-write contemplation-gate minute (§9);
 - withholdings arrive where earned;
 - no evidence debt has softened or replaced the declared argument;
-- the full rubric and comparative-negation gates pass after the final revision.
+- no review caveat, status word, or defensive negation has weakened a canonical claim without naming the exact boundary it protects;
+- the full rubric, claim-strength symmetry, and comparative-negation gates pass after the final revision.
 
 ### Ontology and navigation
 
@@ -553,4 +568,4 @@ As of 2026-08-05:
 - the GitHub remote is live and `main` is the shared preliminary state;
 - no model-writing branch should be cut from this pre-ratification base.
 
-The next content gate is Frank's complete review of the 48 movements for order, focus, carrier hierarchy, source depth, recurrence, and hand-off. Accepted changes then land in the central plan, propagate through the granular canon, and close with regeneration and source checks. Equal-base model drafting begins only from the resulting ratified commit.
+The current content gate is T25 R6's authorial return and Frank's T26 ratification of the resulting common base. Equal-base model drafting begins only from that ratified commit.
