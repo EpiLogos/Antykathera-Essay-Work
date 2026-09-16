@@ -1,4 +1,4 @@
-name: T25 R4 governing paradigm fold
+name: T25 R4 governing paradigm closure
 
 on:
   push:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  fold:
+  close:
     if: github.repository == 'EpiLogos/Antykathera-Essay-Work' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     timeout-minutes: 5
@@ -19,65 +19,103 @@ jobs:
           ref: ${{ github.sha }}
           fetch-depth: 1
 
-      - name: Fold paradigmatic relation into governing surfaces
+      - name: Reconcile R4 receipts and final Bimba wording
         shell: bash
         run: |
           set -euo pipefail
           python3 - <<'PY'
           from pathlib import Path
 
-          def replace_once(path, old, new, *, required=True):
+          def replace_once(path, old, new):
               p = Path(path)
               text = p.read_text(encoding='utf-8')
               count = text.count(old)
               if count != 1:
-                  if required:
-                      raise SystemExit(f'{path}: expected one replacement needle, found {count}: {old[:120]!r}')
-                  print(f'{path}: optional needle count={count}; leaving unchanged: {old[:80]!r}')
-                  return False
+                  raise SystemExit(f'{path}: expected one needle, found {count}: {old[:120]!r}')
               p.write_text(text.replace(old, new, 1), encoding='utf-8')
-              return True
 
-          plan = 'the-return-of-zero-central-plan.md'
-          paradigm = '''### Genesis, Paradigm, Project and Epi-Logos\n\nThe clarified paradigmatic relation compresses the existing QL operation rather than adding another ontology. **`0` is Genesis**, generative source and coming-into-being; **`/` is Paradigm**, the relatively durable pattern of disclosure through which Objective Internality makes a World intelligible and actionable for a Life; **`1` is Project**, a determination thrown forth relative to that World and made consequential within it. The adjacent relations are `0↔/` — Genesis-through-Paradigm as disclosure / figuration — and `/↔1` — Paradigm-through-Project as projection / enactment. **`0/1` is Epi-Logos**: the achieved relation becoming answerable to the operation by which it was achieved. Read as one native compression this is `3 + 1 + 2 = 6`, also legible as `3:3` and `3:1`; it is not a second sixfold beside QL.\n\nA paradigm is therefore lived before it is represented. Language, memory, categories, practices, institutions, technologies, permissions, images and habits of attention can disclose a world while their disclosing activity recedes behind what is disclosed. Projecthood is wider than software project management: a theory, image, institution, tool, policy, artwork, agent or organised undertaking can throw a determinate possibility into a World and begin to condition what follows. Paradox becomes paradigmatically decisive when genuine determinations can no longer be reconciled by the containing relation which generated them: the problem has reached the slash rather than merely selecting another `1`. Epi-Logos names the stronger return in which an articulation of that paradigm can re-enter enactment and alter the source, criterion, permission, capacity, form, material situation or relation from which a later act proceeds. **Diaphaneity is the phenomenological/epistemic side of this reflexive disclosure; Compassion is its non-devouring ethical side.**\n\nThis gives the Agentworld response its proper design object: **agent-within-a-paradigmatically structured world**, not model in isolation. Active context, memory, harness, tools, permissions, representations, interfaces and institutions participate in what can appear and matter to an artificial agent, while Subjective Immediacy remains separately warranted. The six S products are six offices of one deliberately constructed paradigm — not six competing ontologies and not a seventh product called Paradigm.\n\n'''
-          replace_once(plan, '**O:I concerns World and Life.**', paradigm + '**O:I concerns World and Life.**')
-
+          # Last pre-paradigm fossil in the central plan's old-operation table.
           replace_once(
-              plan,
-              'QL provides the composable unit: ground, poles, four explicit relations, transformations, and return. MEF provides the refractive apparatus: lenses, provenance, evidence status, disagreements, and evaluation. The architecture should be fractally extensible so a sentence, claim, research programme, agent, or institution can each be represented as a nested but inspectable unit.',
-              'Within the **larger six-product paradigm**, QL provides the composable relational unit and MEF provides the refractive apparatus of lenses, provenance, evidence status, disagreement and evaluation. Bimba and the harness make reference fields and operative conditions addressable. This disclosure architecture can nest across sentence, claim, research programme, agent or institution, but it does **not** constitute Epi-Logos by itself. Epi-Logos is the stronger return in which an articulated difference reaches the enacted paradigm and changes what a later act can inherit.',
-              required=False,
-          )
-          replace_once(
-              plan,
-              'The aim is a shared relational language in which plural ontological commitments, limits, and translations remain visible and contestable. **Bimba** is the Original order and is never a technical record. QL articulates that order; MEF declares each refractive lens, source, medium, transformation, exclusion, and return; the resulting claim, map, model, world-field, or agentic product is a **pratibimba**. The harness makes the conditions of each pratibimba operational: provenance, permissions, alternatives, disagreements, affected worlds, consequences, review, revision, and return.',
-              'The aim is a shared relational language in which plural ontological commitments, limits and translations remain visible and contestable. **Bimba is a relational office, not a ban on technical reference objects.** A Bimba Map may occupy a genuine Original/reference office for a bounded inquiry or Context Frame while remaining a constructed, source-dependent Pratibimba relative to wider sources and worlds. QL articulates the relation; MEF declares lens and mediation; the harness carries provenance, permissions, alternatives, disagreement, affected worlds, consequence, review and return. The holographic demand is that a local reference retain its relation to the wider field without claiming to contain or replace that field.',
-              required=False,
-          )
-          replace_once(
-              plan,
-              'If reality is approached as one field differentiating through many local apertures, planetary intelligence should be a federated field of [[submission-package/essay/symbolon/episteme/concepts/bimba-pratibimba|pratibimbas]]: plural centres, shared patterns, reversible coordination, and no final view from nowhere. Bimba remains the Original to which every local map answers and which no federation possesses. The system\'s intelligence is measured partly by its ability to return a mark to the context, exclusions, and living relations from which it arose.',
-              'If reality is approached as one field differentiating through many local apertures, planetary intelligence should be a **federation of locally governed Bimba/reference fields and their situated Pratibimbas**: plural centres, shared patterns, reversible coordination and no final view from nowhere. Each local Bimba can genuinely ground a bounded inquiry while remaining answerable, as a determination, to wider sources and containing worlds. No federation becomes the one metaphysical Bimba by accumulation. The system\'s intelligence is measured partly by its ability to return a mark — and where warranted its local reference field — to the context, exclusions and living relations from which it arose.',
-              required=False,
+              'the-return-of-zero-central-plan.md',
+              'M41 / Workcell: resistant encounter; M42 / QL: chart transitions; Bimba remains Original',
+              'M41 / Workcell: resistant encounter; M42 / QL: chart transitions; a local Bimba may hold a real bounded reference/original office while remaining Pratibimba toward wider sources',
           )
 
-          matrix = 'submission-package/essay/quilt/agentworld-response-matrix.md'
-          matrix_insert = '''## Paradigmatic construction — R3/R4 return\n\nThe earlier QL/MEF response remains necessary but is now one layer of a stronger venue-facing account. The design object is increasingly **agent-within-a-paradigmatically structured world**, not model in isolation. [[symbolon/episteme/concepts/C41-Objective-Internality|Objective Internality]] names the constitutive means; **Paradigm** names a relatively durable organisation of those means; Projecthood names determinations thrown forth through that pattern into a World; [[symbolon/episteme/concepts/C51-Logos-Epi-Logos|Epi-Logos]] names the constructive wager that the achieved pattern can become sufficiently explicit for returned difference to revise its enactment from within. This is not a God's-eye duplicate of the paradigm, and it does not settle machine phenomenality.\n\nThe compact venue thesis is therefore:\n\n> **Agentworld is a problem of paradigmatic construction.** Artificial agents increasingly individuate and act within structured worlds whose memories, tools, permissions, representations, interfaces and institutions participate in what can appear and matter. Objective Internality names this mediating constitution. Epi-Logos is the wager that a paradigm can carry more of its own pattern of disclosure within itself — as inspectable relations through which its inhabitants can compare source and projection, contest measures, meet paradox, revise projects and return consequences to the conditions that made them possible.\n\nThe ethical clause is equally load-bearing:\n\n> **Diaphaneity makes the paradigm's conditions visible; Compassion determines whether that visibility increases answerability or appropriation.**\n\nThis folds the September 15 return into the existing response threads without replacing them:\n\n- **q003/q004 / conceptual lag:** Paradigm is the missing world-level object. The essay is not projecting an ancient ontology onto AI; it uses historical and cross-civilisational material as derivational memory while constructing a present grammar for world-forming agency.\n- **q015–q017 / active-context individuation and lamination:** Objective Internality supplies the constituted means without a phenomenal verdict; Paradigm names the lived/operative organisation of those means. The agent does not stand outside prompt, memory, permissions, tools and milieu and then receive them as accessories.\n- **q019 / design refashions human thought:** projected technical forms do not merely instantiate a paradigm. Their consequences feed back into the human patterns of attention, judgment and action which produced them. Projecthood and the mirror/simulacrum field are therefore venue-facing.\n- **q023 / representation rather than conversation:** Epi-Logos is not a more convincing conversational mask. Sources, lenses, determinations, exclusions, coordinates, histories and transformations must become addressable parts of the shared field. Expression can make them perceptible; only operative return earns the stronger name.\n- **q032/q033 / Prompt Thrownness:** an agent's current capacities and determinations arise relative to a structured world it did not author whole. Workcell and Objective Internality give that thrownness a technical body while Subjective Immediacy remains Open.\n- **q038/q039 / harness-centric capability and ensemble learning:** AIKit/potency and Central/meaningful continuity are offices of a larger paradigm, not auxiliary wrappers around self-contained weights. A commons carrying learning is itself a paradigmatic medium whose source, authority, exclusions and revision rights must remain inspectable.\n- **q040 / alignment through contact:** encounter must be able to revise the paradigm at the determining level it actually reaches — answer, task, world-model, evaluator, commission, capability horizon, developmental form, material binding or relation.\n- **q030 / prediction-stability and shadow/body:** paradigmatic legibility is not exhaustive capture. A representation of the paradigm remains a projection within it; source and Other retain answerability. Increased legibility can otherwise become a stronger dossier and enclosure.\n- **q035 / productive alienation:** paradox can expose the containing paradigm itself. Dia/syn determines whether the break is expelled, appropriated, or retained long enough for the containing relation to transform.\n\nThe [Genesis / Paradigm / Project / Epi-Logos whole](symbolon/episteme/etymologies/genesis-paradigm-project-epilogos/WHOLE-FIELD.md) gives this response its exact authorial compression; the existing R1–R21 matrix continues to carry the brief's granular pressures and evidence.\n\n'''
-          replace_once(matrix, '## Core response threads', matrix_insert + '## Core response threads')
-          replace_once(matrix, 'planning_version: v3.1', 'planning_version: v3.2-t25-paradigm')
-
-          orient = 'return-of-zero-orienting-principles.md'
-          orient_insert = '''The higher paradigmatic compression is now explicit and remains subordinate to the native theorem: **`0 = Genesis`, `/ = Paradigm`, `1 = Project`, `0/1 = Epi-Logos`**, with `0↔/` as disclosure/figuration and `/↔1` as projection/enactment. Read as one QL compression this is `3 + 1 + 2 = 6`, also legible as `3:3` and `3:1`; it is not a seventh product or a second sixfold. Paradigm is the lived pattern of Objective Internality, Project is a thrown-forth determination relative to a World, paradox can expose the containing slash, and Epi-Logos is earned only where articulation returns into enactment and changes what follows. Diaphaneity gives the epistemic disclosure; Compassion governs its manner.\n\n'''
-          replace_once(orient, 'The immediate complete writing scope is', orient_insert + 'The immediate complete writing scope is')
+          # The R4 ledger must match the actual second-pass movement state.
+          ledger = 'working/pre-manuscript-refinement-2026-09-10/R4-MOVEMENT-REVIEW-25-48.md'
           replace_once(
-              orient,
-              'The author’s approximately-century interval remains a named source-collation task until its intended zero milestone is identified. No unverified date is a substitute for that relation.',
-              'The intended century-scale relation is now bounded through separate source records: Abhinavagupta conventionally **c.975–1025** and Bhāskara II’s *Bījagaṇita* **1150**. This is an argued civilisational juxtaposition, not a transmission claim or a universal first-zero date; stronger historical relations retain their own source duties.',
-              required=False,
+              ledger,
+              '**REFINE** — psychic-fact return strengthened; stale two-modality culmination replaced by six offices.',
+              '**REFINE** — psychic-fact return strengthened; stale two-modality culmination replaced by six offices; paradigm crisis/paradox made explicit on the September 16 delta reread.',
+          )
+          replace_once(
+              ledger,
+              'PRESERVE — paired-product handoff already landed.',
+              '**REFINE** — paired-product handoff retained; six pairs made explicit as disclosures of one constructed paradigm, Prompt Thrownness raised to agent-within-world, and inspectability separated from Epi-Logos.',
+          )
+
+          # Close R4 now that the governing plan and venue matrix have received the delta.
+          ticket = '.wayfinder/tickets/refine-04-section-flow.md'
+          replace_once(ticket, 'status: in_progress', 'status: complete')
+          replace_once(ticket, 'updated: 2026-09-16', 'updated: 2026-09-16\ncompleted: 2026-09-16')
+          replace_once(
+              ticket,
+              '**Remaining venue/governing debt:** the canonical Agentworld Response Matrix still speaks chiefly in its older QL-grammar/MEF-inspectability formulation, while the new return correctly makes the design object **agent-within-a-paradigmatically structured world**. The central plan likewise still needs the concise top-level Paradigm / Project / Epi-Logos governing relation. Those are R4 governing-surface repairs, not reasons to reopen R3.',
+              '**Governing-surface closure:** the central plan now carries the explicit Genesis / Paradigm / Project / Epi-Logos compression, contextual/local Bimba reference office and six-product-paradigm boundary; the canonical Agentworld Response Matrix now carries agent-within-a-paradigmatically-structured-world as the stronger venue-facing design object. R4 is complete. R5 is the active independent cold-review/validation gate; T26 ratification remains untouched.',
+          )
+
+          receipt = 'working/pre-manuscript-refinement-2026-09-10/R4-PARADIGM-DELTA-REVIEW-2026-09-16.md'
+          replace_once(
+              receipt,
+              'R3 stays closed. R4\'s philosophical movement bodies are now coherent with the new archaeology after the M35/M36 repairs. The remaining work is governing-surface propagation into the **central plan** and **canonical Agentworld Response Matrix**, followed by ordinary R4/R5 projection validation. Those are not new conceptual discoveries; they are prevention of regression in the two documents future passes are instructed to trust.',
+              'R3 stays closed. R4\'s philosophical movement bodies are coherent with the new archaeology after the M35/M36 repairs. The **central plan**, **Orienting Principles** and **canonical Agentworld Response Matrix** now carry the same paradigmatic relation, including the contextual/local Bimba reference office and the distinction between disclosure architecture and Epi-Logos. The R3/R4 paradigm delta is therefore closed. R5 remains the independent semantic/executable validation gate; no T26 ratification is implied.',
+          )
+
+          # Move the execution map to the honest next gate.
+          m = '.wayfinder/maps/p2-enrichment-handoff.md'
+          replace_once(
+              m,
+              'status: "T25 R1–R3 complete; R4 eight-station / 48-movement review is the execution frontier"',
+              'status: "T25 R1–R4 complete; R5 cold semantic and executable validation is the execution frontier"',
+          )
+          replace_once(
+              m,
+              'updated: 2026-09-15',
+              'updated: 2026-09-16',
+          )
+          replace_once(
+              m,
+              'completed_through: "T25 R3 — full 144-record shared-field refinement and register fold-back"',
+              'completed_through: "T25 R4 — full eight-station / 48-movement flow review with paradigmatic delta folded into governing surfaces"',
+          )
+          replace_once(
+              m,
+              '**R1–R3 are now complete.** R1 recovered the governing Life/Mind, A/C and native-theorem ground and amended the plan. R2 developed the seven-record S field, exact paired-MEF disclosure and six-product §5, including the wider Projecthood relation in Factory. R3 read and dispositioned the full `36 A + 36 A′ + 64 C + A/C + 7 S = 144` shared field and folded the restored whole back through its actual owners. The compact closing evidence is [R3 — 144-record shared-field disposition](../../working/pre-manuscript-refinement-2026-09-10/R3-144-RECORD-DISPOSITION.md).',
+              '**R1–R4 are now complete.** R1 recovered the governing Life/Mind, A/C and native-theorem ground and amended the plan. R2 developed the seven-record S field, exact paired-MEF disclosure and six-product §5, including the wider Projecthood relation in Factory. R3 read and dispositioned the full `36 A + 36 A′ + 64 C + A/C + 7 S = 144` shared field and folded the restored whole back through its actual owners. R4 then read all eight stations / forty-eight movement bodies in order and performed a final Genesis / Paradigm / Project / Epi-Logos delta reread. The compact evidence is [R3 — 144-record shared-field disposition](../../working/pre-manuscript-refinement-2026-09-10/R3-144-RECORD-DISPOSITION.md) plus the [R4 paradigm delta review](../../working/pre-manuscript-refinement-2026-09-10/R4-PARADIGM-DELTA-REVIEW-2026-09-16.md).',
+          )
+          replace_once(
+              m,
+              '**Begin at R4.** Read the essay\'s one-breath whole and then all eight stations / forty-eight movement bodies in order. Test whether the linear sequence genuinely performs the refined field, not whether its links resolve. Repair movement placement, transition, withholding/payoff and displaced operations in the movement bodies and governing plan; reopen a canonical owner only where the linear review reveals a real semantic defect. Continue directly through R5 and R6 after the R4 dependency is honestly closed.',
+              '**Begin at R5.** Independently cold-read the accepted minute, protocol, 144-record field, governing plan and complete eight-station / forty-eight-movement flow without relying on the drafter\'s self-justification. Verify preservation, source chronology, reader routes, generated surfaces and executable checks; return any real fault to its owner. Continue to R6 only after R5 is honestly closed.',
+          )
+          replace_once(
+              m,
+              '| R4 | [Eight-station, forty-eight-movement review](../tickets/refine-04-section-flow.md) | **Active frontier** — the complete essay must develop into and return from the product field; every displaced operation needs a home. |\n| R5 | [Cold semantic review and real validation](../tickets/refine-05-cold-review-and-validation.md) | Blocked by R4 — independently read content, preserved depth, repaired navigation and honest source/implementation status. |',
+              '| R4 | [Eight-station, forty-eight-movement review](../tickets/refine-04-section-flow.md) | **Complete** — all 48 bodies read; flow/withholding/payoff repaired; Genesis/Paradigm/Project/Epi-Logos delta folded into §4 and governing surfaces. |\n| R5 | [Cold semantic review and real validation](../tickets/refine-05-cold-review-and-validation.md) | **Active frontier** — independently read content, preserved depth, repaired navigation and honest source/implementation status. |',
+          )
+          replace_once(
+              m,
+              '- 2026-09-15: R1–R3 closed in dependency order. The Indian zero chronology, paradigmatic disclosure/Projecthood relation, six-product field, full Power/counterfeit-source braid and 144-record dispositions are now inherited by R4. The R4 movement review—not another canonical vocabulary pass—is the active frontier.',
+              '- 2026-09-15: R1–R3 closed in dependency order. The Indian zero chronology, paradigmatic disclosure/Projecthood relation, six-product field, full Power/counterfeit-source braid and 144-record dispositions were inherited by R4.\n- 2026-09-16: R4 closed after the complete 48-movement review and a final Genesis / Paradigm / Project / Epi-Logos delta reread. The central plan, orientation and Agentworld matrix now carry the same relation. R5 is the active frontier.',
+          )
+          replace_once(
+              m,
+              'Refinement is authorised. The completed section-flow review, cold review, envelope table and exact common writing base still require **Frank\'s T26/#27 ratification**. Do not confuse R1–R3 completion with acceptance of work not yet performed.',
+              'Refinement is authorised. The cold review, envelope table and exact common writing base still require **Frank\'s T26/#27 ratification**. Do not confuse R1–R4 completion with acceptance of R5/R6 or manuscript prose.',
           )
           PY
 
-      - name: Commit governing fold only
+      - name: Commit closure receipts
         shell: bash
         run: |
           set -euo pipefail
@@ -85,8 +123,10 @@ jobs:
           git config user.name 'Epii'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add the-return-of-zero-central-plan.md \
-                  return-of-zero-orienting-principles.md \
-                  submission-package/essay/quilt/agentworld-response-matrix.md
+                  working/pre-manuscript-refinement-2026-09-10/R4-MOVEMENT-REVIEW-25-48.md \
+                  working/pre-manuscript-refinement-2026-09-10/R4-PARADIGM-DELTA-REVIEW-2026-09-16.md \
+                  .wayfinder/tickets/refine-04-section-flow.md \
+                  .wayfinder/maps/p2-enrichment-handoff.md
           git diff --cached --check
-          git commit -m 'T25 R4: fold paradigm relation into plan and Agentworld matrix'
+          git commit -m 'T25 R4: close paradigmatic delta and release R5'
           git push origin HEAD:main
