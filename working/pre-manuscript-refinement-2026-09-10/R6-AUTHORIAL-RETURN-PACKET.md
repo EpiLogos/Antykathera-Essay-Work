@@ -146,15 +146,15 @@ Protected anchors remained unchanged in that gate:
 
 R6 claim-strength edits occur in canonical planning/movement/field surfaces only; **the sovereign manuscript remains outside the refinement lane until T26.**
 
-## 10. Governing amendments required before the common-base SHA is proposed
+## 10. Governing alignment completed before the common-base SHA
 
-The philosophical pass has exposed three governance corrections that must land before hashing the writing base:
+The truth-strength correction is now carried by the governing surfaces that future writers/reviewers actually load:
 
-1. **Central plan — Mytheme rule:** replace the blanket “myth never proves” rule with register-specific proof: Mytheme can prove/disclose through the action of a whole image; it cannot substitute for formal mathematical entailment or historical attribution.
-2. **Orienting Principles — lock 6:** make the same correction and keep analogia/non-univocity intact.
-3. **WRITING-PROTOCOL / T26 review rule:** add the symmetric claim-strength gate: exact exceeded warrant for overclaim; exact canonical proposition lost for underclaim; no phantom-reader or generic-caution reviews.
+1. **Central plan — preserved after exact reread.** Its myth rule already says myth demonstrates historical/psychic liveability **rather than formal entailment** and forbids only the claim that myth “proves the mathematics.” That is the correct register boundary; it does not deny Mytheme a truth-bearing office in its own register.
+2. **Orienting Principles — amended.** `Argued` is now explicitly a positive warrant; `Offered` is reserved for genuinely unsettled conjecture/design/research/implementation. Lock 6 states that **Mytheme is truth-bearing within its own register** and can prove/disclose through the action of the whole image without borrowing mathematical entailment or historical attribution. The agent rule places the burden on every weakening and forbids phantom-reader hedging.
+3. **WRITING-PROTOCOL — amended.** G1 now checks claim strength in both directions. The claim-strength symmetry gate requires an exact asserted proposition + exceeded warrant for overclaim and an exact lost canonical proposition for underclaim. The register rules affirm mythemic proof/disclosure; final verification forbids caveat, status or defensive negation from weakening canon without a named boundary.
 
-Only after these land should R6 record an exact proposed common-base SHA.
+The remaining step is therefore administrative but load-bearing: record the exact **proposed common-base SHA and packet hashes** from the claim-strength-corrected tree. That SHA is a proposal only until Frank accepts it at T26.
 
 ## 11. T26 judgment surface
 
