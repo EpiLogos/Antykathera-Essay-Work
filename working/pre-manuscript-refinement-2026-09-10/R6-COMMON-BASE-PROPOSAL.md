@@ -30,6 +30,8 @@ Mytheme, Matheme and Episteme remain differentiated truth-bearing registers. A w
 
 The parallel Expression corpus programme is an expanded presentation endpoint. Canonical Markdown remains the sovereign written argument. Expression production consumes bounded canonical packets and builds real editable Expression/Profile/Scene/HTML artifacts in the existing Point-Cloud engine. It may guide later presentation and make sequence, image, relation, motion, sound and navigable structure perceptible, but it does not authorise canonical prose to omit premises or argument on the assumption that the presentation layer will supply them.
 
+The presentation standard further preserves repeated family/Profile grammar with independently addressable records, Whole Mythemes as sequenced relational wholes, bounded world/Bimba projections from actual source structure, occurrence-indexed visual forms with provenance, source-revision reconciliation, and inherited corpus/register/family/record/scene presentation profiles rather than unrelated bespoke microsites.
+
 ## Next gate
 
 The §5 writing wave is now released **only into pre-write contemplation**. Before drafting begins, Frank and the writing agent must jointly accept and minute the section's one-breath intent, register/tone envelope, incoming inheritance, six-product movement and outgoing §5→0 return.
