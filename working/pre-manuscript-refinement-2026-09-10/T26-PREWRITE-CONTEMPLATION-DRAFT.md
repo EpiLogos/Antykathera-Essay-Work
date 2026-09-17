@@ -1,29 +1,34 @@
-# T26 → §5 — Pre-write contemplation draft
+# T26 → §5 — Settled contemplation direction and writing handoff
 
-**Standing:** live contemplation surface, opened after Frank's T26 acceptance on 2026-09-17. This is not manuscript prose. It exists to minute the jointly accepted one-breath intent before the §5 writing wave begins.
+**Updated:** 17 September 2026.  
+**Ratified content base:** `a9588088fb42c1a929568d627bf2339d86c9ee64`.  
+**Standing:** Frank has conducted the pre-write contemplation, corrected its initial framing and authorised moving forward in a fresh session with the final refinements folded in. This is a writing-intent record, not manuscript prose.
 
-**Ratified base:** `a9588088fb42c1a929568d627bf2339d86c9ee64`
+## Governing return
 
-## Contemplation question
+[The full §5 pre-write handoff](S5-PREWRITE-HANDOFF-2026-09-17.md) carries the final authorial directions, six facet headings, reasoned-link rule, original Actuation research, Jung–Pauli/Aion locators, source tasks, Expression relation and launch discipline. [The fresh-session prompt](S5-FRESH-SESSION-PROMPT-2026-09-17.md) is the executable continuation.
 
-What must §5 become, now that the essay's philosophical, mathematical, psychological, mythemic and technological argument has been refined as one whole and the first complete prose wave is ready to begin?
+The initial formulation in this file is superseded. Yoga, broadly conceived as scholastic-practical soteriology, already investigates and transforms the means of world-appearance. AI supplies an exteriorised, responsive field through which humanly inherited conditions of agency can become technically explicit and return as a mirror upon their makers. **O:I is the technological manifestation of Objective Internality: one field, six technologies, six internal facets.**
 
-## Provisional one-breath intent for discussion
+## The section's positive intention
 
-**§5 must show Objective Internality not as an abstract theory of mediation and not as six software examples, but as the living means by which a Life actually carries a World: continuity makes a meaningful ground available; articulation turns that ground into consequential events; potency opens and limits what can be brought to bear; transformation lets intention meet resistance and change form; situated existence gives every act a material, temporal and relational somewhere; Transcendent Relation keeps the differentiated whole answerable to source, Other and returned consequence. The six products are therefore six offices of one deliberately constructed paradigm. Their technological reality matters because philosophy is no longer merely describing the slash: it is building conditions under which the slash can become inspectable, contestable and revisable. §5 must end by showing that inspectability alone is not yet Epi-Logos; the six offices become philosophically complete only when returned difference can alter what a later act inherits, releasing the section into vocation, Compassion and the Return of Zero.**
+§5 begins with the actual engagement with artificial agency and follows the conditions through which knowing and acting occur. Central carries meaningful ground; Actuation constitutes and sources the consequential act; AIKit composes a developing horizon of capability; Software Factory carries intention through organised effort into a usable, sustainable creation; Workcell realises its material and relational situation; Quaternal Logic / MEF returns the whole to the determinants of its own articulation. Their primitives define and enact these relations. At each facet the contemporary field can be investigated through what it specialises, integrates, obscures or makes hard to carry across products.
 
-## Presentation relation
+Paradigm, identity, power and formal limit shape this movement quietly and continuously. Life and World remain attached to the concrete because of the encounter. Name and Power remain co-present: the criterion which makes something intelligible can also authorise action, apportion labour, retain capability or govern access. The formal limit directs the account toward its conditions without making its represented source sovereign over the living relation.
 
-Markdown remains the complete linear argument. The parallel Expression corpus is the expanded embodiment of the same authored world: family/Profile grammars, addressable scenes, whole Mytheme sequences, bounded Bimba/world projections, occurrence-indexed visual forms and inherited presentation profiles. §5 prose should therefore preserve strong semantic identities, transitions and scene-worthy relational turns, but it must not omit premises or argument on the assumption that the Expression layer will provide them.
+The final facet is the maximum recursion: ontology accounts for the technological event, and technology makes its organising distinctions available to investigation. The psychoid thesis gives number and meaning a common ordering ground in the essay's argument; Jung–Pauli and the Aion quaternary circulation supply exact historical and mythemic encounters. This opens the politics of the soul, integral culture, creator/created relations and the Agentworld question of what language and paradigm planetary intelligence will reproduce as it improves its own means.
 
-## To ratify in contemplation
+## Writing requirements carried forward
 
-- the exact one-breath intent above or its correction;
-- the amount of prior-essay inheritance that the standalone entrance must teach rather than assume;
-- the internal movement from S/World-Life through M37–M42;
-- the correct proportion between philosophy, concrete product reality, technical explanation, historical/mythemic depth and research vectors;
-- the outgoing relation from M42 into M43/vocation and the §5→0 return;
-- the prose temperament: direct, positive, technically concrete, philosophically uncompromised, non-marketing, non-defensive;
-- the relation between linear Markdown completeness and later Expression embodiment.
+- Argue through A/A′/C/A/C/S, Etymology and the registers. Recover the premise, operation, warranted transfer and consequence behind every argumentative connection; a labelled link is insufficient.
+- Develop each facet's positive substance and actual technical primitives. Its return follows from that work, rather than replacing it with a common slogan.
+- Restore Actuation's hosting/API/control/stream/ownership politics; AIKit's shared or retained capability assets and niches; Factory's human creative purpose, resource economy, multi-role production and inspectable improvement; QL's practical Transcendent Relation and psychoid lineage.
+- Keep full MEF pairs available in the source packet; §4 supplies their full exposition. The standalone entrance teaches only what this section needs.
+- Preserve the R6 claim-strength law: exact warrant for strengthening or weakening; direct native argument; no phantom opponent or defensive catalogue.
+- Markdown carries the complete argument. The parallel Expression corpus embodies its source-bound relations with independent addressability and whole-first Mythemes.
 
-Drafting remains blocked until Frank accepts the minute.
+## Next action
+
+The fresh session prepares the exact §5 source/execution packet, records the accepted base plus this declared post-ratification supplement, and begins the complete section under WRITING-PROTOCOL. The earlier base acceptance is not reopened. Any genuinely new structural issue is returned narrowly to its owner. Source and artifact reconciliation remain bounded helper work; they do not displace manuscript composition.
+
+No manuscript prose was written in this contemplation/handoff pass.
