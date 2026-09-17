@@ -15,7 +15,7 @@ protocol: ../../docs/PRE-MANUSCRIPT-REFINEMENT-PROTOCOL.md
 
 ## Current dispatch — 2026-09-17
 
-Frank has explicitly ratified the T25 refined whole and the exact common writing base **`a9588088fb42c1a929568d627bf2339d86c9ee64`** at T26/#27. T25 R1–R6 are complete. The refinement gate is therefore closed.
+Frank explicitly ratified the T25 refined whole and the exact common writing base **`a9588088fb42c1a929568d627bf2339d86c9ee64`** at T26/#27. T25 R1–R6 are complete and the refinement gate is closed.
 
 The immediate frontier is the **pre-write contemplation for standalone §5**, required by `WRITING-PROTOCOL.md` before manuscript drafting. That contemplation must recover the section's actual purpose, its one-breath intent, its six-product crown, its incoming philosophical inheritance and its outgoing §5→0 return. It must also preserve the R6 claim-strength law: epistemic hygiene must not become rhetorical self-erasure; source, proof and implementation boundaries remain attached to their own offices.
 
@@ -29,31 +29,13 @@ Accepted common base:
 
 `a9588088fb42c1a929568d627bf2339d86c9ee64`
 
-Frank's acceptance on 2026-09-17 ratifies:
-
-- the refined central argument and eight-station architecture;
-- the seven-record S field and six-product §5 at M37–M42;
-- the Indian/Kashmiri–zero–Gebser / psychic-fact braid at its R6 claim strength;
-- dia/syn as two operational logics rather than moral camps;
-- Objective Internality, idealism, psychoid, Power/Antichrist and Epi-Logos at their calibrated Derived / Argued / Offered / Open standings;
-- the R6 claim-strength symmetry governing future writing and review;
-- standalone §5 as the first complete manuscript writing wave;
-- the accepted base as common source for that writing wave.
+Frank's acceptance on 2026-09-17 ratifies the refined central argument and eight-station architecture; the seven-record S field and six-product §5 at M37–M42; the Indian/Kashmiri–zero–Gebser / psychic-fact braid at its R6 claim strength; dia/syn as two operational logics rather than moral camps; Objective Internality, idealism, psychoid, Power/Antichrist and Epi-Logos at their calibrated Derived / Argued / Offered / Open standings; the R6 claim-strength symmetry governing future writing and review; standalone §5 as the first complete manuscript writing wave; and the accepted base as common source for that writing wave.
 
 Ratification does **not** claim that every source/philology debt, empirical psychoid question, artificial phenomenality question or proposed technical architecture has been resolved. Those remain bounded exactly where the R6 packet places them. Ratification authorises writing from the refined whole; it does not flatten the remaining distinctions.
 
 ## Pre-write contemplation gate now active
 
-Before drafting begins, Frank and the writing agent must jointly accept a one-breath intent for §5. The contemplation must answer:
-
-1. What has the reader already earned by the time §5 begins?
-2. Why must the argument become technological here rather than merely append technology as illustration?
-3. What does Objective Internality name as the *means* within knower–means–known–whole?
-4. Why are Central, Actuation, AIKit, Factory, Workcell and QL six offices of one constructed paradigm rather than six software descriptions?
-5. What must each product movement transform in the reader's understanding before the next can begin?
-6. How does the section remain self-sufficient for a technically literate reader without re-writing §§0/1–§4 inside its entrance?
-7. What must §5 hand to M43 / vocation so that §5→0 is earned rather than announced?
-8. How should the richer Expression endpoint influence presentability without allowing prose to outsource argument?
+Before drafting begins, Frank and the writing agent must jointly accept a one-breath intent for §5. The contemplation must answer what the reader has already earned by the time §5 begins; why the argument must become technological here rather than merely append technology as illustration; what Objective Internality names as the means within knower–means–known–whole; why Central, Actuation, AIKit, Factory, Workcell and QL are six offices of one constructed paradigm rather than six software descriptions; what each product movement must transform before the next begins; how §5 remains self-sufficient for a technically literate reader without re-writing §§0/1–§4 inside its entrance; what §5 must hand to M43 / vocation so that §5→0 is earned rather than announced; and how the richer Expression endpoint influences presentability without allowing prose to outsource argument.
 
 No manuscript composition begins until that intent is minuted.
 
