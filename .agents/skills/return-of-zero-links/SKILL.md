@@ -5,7 +5,7 @@ description: Use when adding or auditing links between field pages, rooms, argum
 
 # Link Return of Zero Field Pages
 
-The local graph is a reading surface, not a generated index. The craft lives in how links are written into pages; the graph follows.
+The local graph is a reading surface. Its edges preserve relations reasoned through in the writing; the graph follows that work.
 
 ## When to use
 
@@ -15,17 +15,35 @@ The local graph is a reading surface, not a generated index. The craft lives in 
 
 Do not use to infer links from vocabulary or shared keywords; inferred links are not declared relations.
 
+## Authorial relation rule — 2026-09-17
+
+**Argue through the canonical field. Every argumentative link must preserve a recoverable reason for the relation.** A sentence such as “A29 links to C53”, or “A29 grounds C53”, supplies an address and perhaps a relation label; it has not yet performed the reasoning.
+
+Before a connection is admitted, recover both owning passages and establish:
+
+1. the source proposition or operation being used;
+2. the premise, transformation or dependency which carries it into the present passage;
+3. any relevant change of scale or register and why that transfer is warranted;
+4. the consequence for the receiving argument;
+5. what the receiving case returns to, tests or makes more exact in the source relation, when reciprocal return is claimed.
+
+The prose need not repeat this checklist or name record IDs. It must let the reader follow the because. With the IDs and hyperlinks removed, the inferential movement must remain intelligible. Pure navigation links may remain compact; they do not count as argumentative development.
+
+For etymological fields, recover the generated relation and show what it makes possible here; a family resemblance among words is not the argument. For whole Mythemes, preserve the action, active figures, transformations and ending that warrant the relation. For Matheme, show the relevant operation before using its compressed identity. For cross-register synthesis, state the essay's inference at its earned strength while retaining each source's own office.
+
+A machine can check addressability and relation labels. The semantic reviewer must separately judge the reasoning. A named relation, backlink, shared word or passing graph check cannot substitute for that judgment.
+
 ## Steps
 
-1. **Name the relation from the vocabulary.** Pick one of the 13 declared relations:
+1. **Reason and name the relation.** Perform the source-to-consumer reasoning above, then name the operation from the 13 declared relations:
 
    `derives`, `grounds`, `defines`, `historicises`, `sources`, `qualifies`, `tests`, `figures`, `embodies`, `extends`, `compares`, `presages`, `returns-to`.
 
-   The prose around the link must let a reader recover which relation is being used. *Done when every link is tagged by one relation word in the surrounding sentence.*
+   The prose around the link must let a reader recover both the relation and why it holds. The existing parser still requires a relation word in the surrounding sentence. *Done when the label accurately names reasoning present in the passage; label detection alone is insufficient.*
 
 2. **Choose the right grain.** Use page-level links for general relations. Use block anchors (`^roz-s03-m27-claim04`) when the argument demands entry at claim level. *Done when the link lands at the smallest unit the relation needs.*
 
-3. **Write the inverse route.** The essay's §5 and each room's movements carry prose-framed return links to their field records. The backlinks pane completes the loop only when the forward link is written first. *Done when the target can be reached from its consumer and back.*
+3. **Write the inverse route.** The essay's §5 and each room's movements carry prose-framed return links to their field records. The backlinks pane completes the reading route only when the forward link is written first. Where a reciprocal argumentative return is claimed, state what has changed or become more exact through the receiving case. *Done when the reader can travel both ways and distinguish navigation from reasoned return.*
 
 4. **Preserve naming discipline.** Filename is identity. A new live node that replaces a legacy stub must declare its own title as an alias, or the frozen stub keeps capturing the link. *Done when every link resolves to a real home, not a hub or alias without content.*
 
@@ -34,7 +52,7 @@ Do not use to infer links from vocabulary or shared keywords; inferred links are
    python3 tools/okf-workspace.py --project-root . doctor --json
    python3 tools/okf-workspace.py --project-root . links <canonical-page-path> --json
    ```
-   Use each changed page’s exact canonical path. This checkout has no `dangling` subcommand; `links` requires an artifact argument. Inspect unresolved targets and exact heading anchors, and distinguish inherited doctor debt from failures introduced by the current batch. *Done when the batch has no dangling targets or invalid exact heading anchors.*
+   Use each changed page’s exact canonical path. This checkout has no `dangling` subcommand; `links` requires an artifact argument. Inspect unresolved targets and exact heading anchors, and distinguish inherited doctor debt from failures introduced by the current batch. *Done when the batch has no dangling targets or invalid exact heading anchors; this mechanical result is separate from semantic acceptance.*
 
 6. **Rebuild the MOC/intents layer after links exist.** The post-hoc layer is generated from the written relations by
    ```bash
@@ -49,8 +67,9 @@ A well-written page has exactly the neighborhood its actual operation requires. 
 
 ## Common mistakes
 
-- Adding a link without naming its relation in the prose.
+- Adding a link without explaining the relation that makes it bear on the argument.
+- Treating a relation label such as “grounds” or “returns-to” as the reasoning itself.
 - Linking to a hub page that does not itself resolve to a real home.
 - Generating an index or MOC before the written links exist.
-- Treating every mention as a link; only implicating relations earn a link.
+- Treating every mention as a link; only implicating relations earn an argumentative link.
 - Adding or deleting relations to satisfy an arbitrary numerical quota.
