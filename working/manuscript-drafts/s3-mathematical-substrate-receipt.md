@@ -20,13 +20,13 @@ Declared September 17 supplement: `13aeac61c4f4f73f1b9eb0ee65dc7ab015ee9024`.
 
 GitHub comparison verified the supplement is 18 commits ahead, zero behind, with the ratified base as merge base. Canonical plan, theorem, movement and source bodies are unchanged by those commits. Supplement changes include ratification/handoff and writing/link skills; Expressions additions are inherited read-only and out of scope.
 
-Branch: `codex/draft-s3`, newly created from the declared supplement after checking that this named branch did not exist. Initial minute commit: `37ed71db61733b362e48ad430b1ab50baab2f119`.
+Branch: `codex/draft-s3`, newly created from the declared supplement after checking that this named branch did not exist. Initial minute commit: `37ed71db61733b362e48ad430b1ab50baab2f119`. Pre-draft bounded-packet commit: `eb3d2b7880178b30a7bd6e9329c2fc3413b9b55d`.
 
 Permitted writing targets: `working/manuscript-drafts/s3-mathematical-substrate.md` and this receipt. Main, shared master, other sections, canonical/protected sources and Expressions remain untouched by this wave.
 
 ## Run disclosure
 
-Assistant identity supplied by this environment: GPT-6 Astra Pro. Exact deployment identifier, sampling parameters, reasoning-effort setting, service tier and independent reviewer routing are not exposed as controlled variables. No independent subagent has been invoked. Connected GitHub reads and writes are available. A local git network probe failed on DNS; no local full repository checkout, repository doctor, dependency-effects run or automated repository-wide link validation is claimed. Distinct self-audit is available; independent review is not being represented by it.
+Assistant identity supplied by this environment: GPT-6 Astra Pro. Exact deployment identifier, sampling parameters, reasoning-effort setting, service tier and independent reviewer routing are not exposed as controlled variables. No independent subagent has been invoked. Connected GitHub reads and writes are available. A local git network probe failed on DNS; no local full repository checkout, repository doctor, dependency-effects run or automated repository-wide link validation is claimed. The reviews below are distinct self-audits, not independent review.
 
 ## Bounded packet — fixed before prose drafting
 
@@ -103,6 +103,94 @@ For the torus specify the quotient, the lift and exactly what its winding pair r
 
 Do not pre-empt M32's Jungian X/x or M34's full crossed-zero flowering. Do not advance a topology/physics identity, universal tuning history, empirical psychoid mechanism or proof of artificial phenomenality. No general repository/implementation detour. M30 must positively argue the psychoid identification, distinguish it from causal verification, and leave M31 room to develop its own psychological evidence. The shared master remains a section skeleton at this base; integration with concurrently drafted sections is not claimed.
 
-## Current standing
+## Composition and delivery record
 
-This update fixes the bounded packet before prose drafting. No completed draft, calculation run or review pass is claimed yet. Subsequent entries will report actual composition, checks, distinct self-review and revisions, including remaining debts rather than an independent-review fiction.
+The complete first draft was written locally before review: 46,529 UTF-8 bytes, 5,697 body words by whitespace count, SHA-256 `c9bdfa73e6132cc4aa8e86ea3e3530051e36472fe20842c0f1d834b39934f5c6`. It was not separately committed. Its stopped-composition restatement and twelve review findings were recorded before editing.
+
+The complete revised prose is committed at **`3a37cb1370cd75e71fd7c677d321d3aeb970cce6`**, at the requested draft path. It has six movement-scale headings, 6,066 body words, 6,911 words including source notes, twelve unique stable claim IDs, and nineteen resolved source notes. UTF-8 size: **51,649 bytes**. SHA-256: **`2faff4ec84a2ad07e5c4284a74d0b64529f0ee40f42058da4e4b7f66a1404fb5`**. Git blob: **`741228ed81f782dba0584616ef546b3db0a48be9`**. A fresh read of the committed file returned this same blob, confirming byte identity with the delivered local Markdown.
+
+Comparison of the prose commit against the supplement returned three commits ahead, zero behind, with exactly two added files: this receipt and the requested prose. No existing file was changed. This receipt update adds only the completed run/review record on the same branch. Its containing commit is the final delivery commit; the prose commit above remains an immutable independent address.
+
+## Distinct self-review, revisions and actual standing
+
+**Review standing: complete revised draft; two distinct self-audits and bounded mathematical checks completed. Independent review, authorial acceptance and publication clearance are not claimed.** The same assistant composed and reviewed. Calibration was opened at the diagnostic stage, so this was not a cold independent or separately routed model review.
+
+The first audit stopped composition, restated the thesis and dependencies without defence, and recorded twelve findings before revision. The section's thesis was restated as the development of an exact distinction able to retain its source relation: native organisation makes its offices available; independently specified mathematics makes particular operations repeatable; the Arche-Topos coordinates them and its psychoid identification is argued from dependence before the psyche/matter cut. This restatement was used to test the draft, not to substitute for it.
+
+Thirty-five manually chosen revisions followed, with old/new text and reasons retained in a local revision log. A final edit removed an unworked irrational-flow density assertion while retaining the exact period condition. The substantive repairs were:
+
+- Restored canonical M27's Bohm wheel/thread bridge and M28's pure-state projective/Bloch geometry. The former retains fidelity-through-change without equating modulus with truth; the latter shows ray, normalisation, phase quotient and pure/mixed distinction without identifying QL digits with basis states.
+- Taught both native return chains in M30 after their constituent operations. Replaced a cold quaternion/cover list with worked complex conjugation versus reciprocal inversion, leading directly to projective completion.
+- Completed the FDE countervaluation by stating designation and negation. Replaced generic controversy language with Kapsner's specific rejection of the fifth-value move. Kept the 2010 formal source distinct from the uncollated 2018 book.
+- Added the interval-containing-zero, nonzero-phase and integer-period hypotheses; restored all six generated relations while working one in depth; clarified that recursive local wholes add a burden beyond bare second-order addresses.
+- Replaced a generic material-realisation gesture with the fixed-end string mode, its wave equation, boundaries and nodes. Plate dynamics remains a separate problem.
+- Rewrote unheld negative comparisons affirmatively, retained exact formal/source boundaries, and repaired source-note locators. A possible harmonic-label fault was checked against the direct processual body and cleared rather than renamed.
+
+The second audit checked the revised movement sequence, displayed calculations, retained hypotheses, native/source claim boundaries, mathematical-to-psychological transition, stable claim IDs, note resolution and comparative candidates. No numerical rubric score or independent gate pass was assigned. Twelve claim IDs index the draft's principal claims; they do not certify downstream reciprocal link closure.
+
+### Calculation ledger — 27 checks passed
+
+Method: exact rational evaluation and symbolic algebra in Python/Fraction/SymPy, supplemented by direct domain review. These are checks of the displayed constructions, not a proof-assistant certification of the complete native or ontological argument.
+
+| Checks | Result and scope |
+|---|---|
+| 1–4 | Tagged binary carrier has six members; binary assignments plus sixfold addresses give 64+36=100; 64/36=16/9=(4/3)^2; componentwise H gives (4/3,2/3), whereas scalar ratio division gives 2. |
+| 5–9 | Fourth × fifth = 2; both epogdoon comparisons = 9/8; fourth × tone × fourth = 2; Pythagorean comma = 531441/524288; six pure 9/8 tones equal 531441/262144, exceeding 2 by that comma as a multiplicative factor. |
+| 10–12 | D²=η²=I; ηD=−Dη; J=ηD is the counterclockwise quarter-turn, J²=−I and J⁴=I. |
+| 13–14 | Bilinear difference identity cancels exactly; worked cross-ratio is 4/3 before and after images 1, 3/2, 5/3, 7/4. |
+| 15–20 | Antiderivative family and selected constant; circle inverse on the circle; coordinate inverse; reciprocal overlap; equal height in both charts; du=2 gives dv=−2/9 and dy=6/25. |
+| 21–25 | Pure-state normalisation and unit Bloch vector; projective parallel-line intersection; lifted torus displacement (2,−1) with equal quotient endpoints; Euler cell count 1−2+1=0. |
+| 26–27 | FDE countervaluation has p and its negation designated while q is not; string mode satisfies y_tt=v²y_xx, both endpoint conditions and node zeros. |
+
+The period criterion for constant torus flow is displayed directly in the prose. No global density theorem is asserted there. For the fixed-end string, the internal node indices are 1 through n−1; k=0,n give the separately stated endpoints. Whole native necessity, uniqueness of an intended model, empirical psychoid efficacy and historical transmission are not conclusions of this calculation run.
+
+### Comparative/negation ship ledger
+
+Swept file: `working/manuscript-drafts/s3-mathematical-substrate.md`, corresponding to the immutable prose blob above. Protected sources and all other sections were excluded from editing. First-draft body: 53 occurrences of “not” and five of “rather than.” Revised body: 24 occurrences of “not.” The gate's strong reflexive-antithesis pattern found **zero candidates** in the revised file. The broader not/rather-than/instead-of/unlike/whereas sweep returned **35 candidate lines**, including eight source-note lines. Each was read manually; no automatic negation replacement was used.
+
+Retained candidates, by final-file line number and reason:
+
+- **Operational distinction:** 9, 55, 59, 72, 80, 101, 113, 137, 168, 178, 188, 203, 213, 265, 307, 340. These distinguish condition/member, slash/arithmetic, personed organisation, units, componentwise comparison, generation, delay, modulus/truth, projective dimension, invertibility, invariance scope, QL/quantum labels, cell counts, cyclic/telic return and ontological/chronological priority.
+- **Formal negation or exact limit:** 25, 170, 235, 257, 289, 296. These retain differentiation's loss, absent winding in an endpoint, non-designation, the grain of a winding record, pure-fifth nonclosure and temperament's changed ratio.
+- **Claim boundary:** 17, 317, 342, 344. These preserve the other's unsupplied answer, different mathematical objects, causal versus ontological warrant and an image not consciously authored. **Sourced disagreement plus claim boundary:** 237, Priest/Kapsner and the different type of QL ground.
+- **Source-attribution/claim boundaries in notes:** 348, 358, 360, 364, 366, 368, 374, 378; 358 additionally retains the distinction between generated and distributive operations.
+
+The rewrites removed unheld opponents and redundant disclaimers; retained negations identify an actual operation, exclusion, source disagreement or claim boundary.
+
+## Review-stage source additions and exact limits
+
+These are bounded review-stage reads, not changes to protected source houses or upgrades of quotation readiness. Access date: 18 September 2026.
+
+**Bohm/Krishnamurti:** recovered the actual repository source house (blob `70fd130c2bc79d191db2b141acd50353ce75efb1`) and official Krishnamurti Foundation Trust transcript, “Dialogue 1, Brockwood Park, 18 May 1975,” at `https://kfoundation.org/transcript/dialogue-1-brockwood-park-18-may-1975/`. Read the wheel/thread exchange and later acknowledgement-of-error exchange. Locators are the named transcript exchanges, not invented print pages or audio timecodes. The phase/modulus alignment is the essay's own interpretation.
+
+**Pure qubit:** consulted IBM Quantum Learning, “Bloch Sphere,” General Formulation of Quantum Information, density-matrices lesson, at `https://quantum.cloud.ibm.com/learning/en/courses/general-formulation-of-quantum-information/density-matrices/bloch-sphere`. This supplies the pure-state/global-phase quotient and sphere versus mixed-state ball distinction. The normalisation and Bloch-vector length were checked independently. No nucleon-scattering result was imported.
+
+**Logical reconstruction:** recovered the actual Priest 2010 source body through its FDE passage, blob `0352b30b8c9785c16eea0ebc9060539214f21037`. A new live PDF fetch failed; the source-bank wording does not thereby acquire a new full-text verification. Consulted Andreas Kapsner's own publisher abstract for “Cutting Corners: A Critical Note on Priest's Five-Valued Catuṣkoṭi,” Comparative Philosophy 11.2 (2020), 157–73, at `https://scholarworks.sjsu.edu/comparativephilosophy/vol11/iss2/10/`. The abstract explicitly rejects the fifth value and sketches an alternative; no complete fresh proof audit of that article is claimed.
+
+**Calling/crossing:** Kauffman's parsed pp. 39–40 present these operations. A fresh screenshot of that passage failed. The earlier successful screenshot of p. 28 supports the iterant construction only; it is not being reused as visual verification of pp. 39–40. Spencer-Brown's first-edition exact passage collation remains open.
+
+**Musical and physical working:** re-read Scholtz's official article, §§3.1–4.1, at `https://www.mtosmt.org/issues/mto.98.4.4/mto.98.4.4.scholtz.html`. Consulted OpenStax University Physics vol. 1, §16.6, “Standing Waves and Resonance,” at `https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance`. The latter supplies the ideal fixed-end-string context; the displayed solution and boundary conditions were checked symbolically. No physical experiment was performed.
+
+The earlier bounded checks used OpenStax Calculus vol. 1, §4.10 (`https://openstax.org/books/calculus-volume-1/pages/4-10-antiderivatives`), NIST DLMF §1.9 (`https://dlmf.nist.gov/1.9`), Kauffman's arXiv PDF (`https://arxiv.org/pdf/1406.1929`), and Hatcher's author-hosted chapter 1 (`https://pi.math.cornell.edu/~hatcher/AT/ATch1.pdf`). The actual successful image inspections and failed attempts remain distinguished above.
+
+## Specific remaining debts
+
+**Mathematical development:** the frequency-to-retention chain still needs its full state, clock/interval, update and retained-information specification. The prose distinguishes a period-two switch, a complex phase and a lifted path instead of presenting them as a completed memory mechanism. The native cross-comparison, exponent reading and eightfold derivation retain their declared QL standing; this wave did not supply an independent axiomatic/uniqueness proof of the entire system.
+
+**Source collation:** Spencer-Brown 1969 exact first-edition locators remain open. Priest's 2018 book remains unacquired/uncollected against print; the 2010 source bank still records a journal-pagination crosscheck debt. Varela's complete intermediate proofs and appendix were not newly audited. Kapsner's fresh check is abstract-level. Bohm's stable media/timecode citation is still unassigned. Fresh primary checks above remain in this receipt and prose notes, not admitted changes to the canonical source houses.
+
+**Bounded reading:** the full native theorem, six movement bodies, P1 alignment and canonical adjoining movements were read; the much larger directly declared supporting manuscripts were read in the relevant ranges disclosed above, not exhaustively audited. The complete musical modal/CF/84-fold apparatus, every old quotation and all long-tail cross-links are not certified by this section run.
+
+**Further evidence boundaries:** no empirical psychoid mechanism, universal musical tuning equivalence, plate experiment or artificial phenomenality is claimed. Those remain separate research burdens where pursued. Their absence does not downgrade the Derived native coordination or Argued psychoid identification to Offered analogy.
+
+**Review and integration:** independent mathematical/source review and authorial acceptance remain outstanding. No repository doctor, dependency-effects harness or automated global-link check ran. The local source notes use recovered paths, but reciprocal consumer closure across the shared field is not certified. No other section was edited to manufacture seam agreement.
+
+## Seam notes and final standing
+
+**Incoming M24 → M25:** receive the positive standing of both logics and the binary's self-relation. The entrance asks what a relation must contain to preserve exact difference and retained source; it then teaches the eight determinations rather than restarting §2 or treating them as an eight-item catalogue.
+
+**Internal M25 → M30:** native differentiation gives a sixfold body; the two Spanda readings make its distinct operations available; mark and phase provide operative carriers; projective and atlas constructions specify changes of frame; quotient and interval work give two exact returns; M30 coordinates them as the Arche-Topos and argues the psychoid identification positively. The worked examples support their particular operations, not an asserted common mathematical mechanism.
+
+**Outgoing M30 → M31:** hand over the ordering field and its Argued psychoid identification, while leaving §4 to encounter its psychological manifestations and evidence. Jungian X/x and the later crossed-zero flowering are prepared, not substituted for their own movements. Atlas and attractor/dynamics retain distinct roles. The new full prose of concurrently commissioned neighbouring sections has not been reviewed here; whole-manuscript stitching remains an authorial/integration task.
+
+**Delivered standing:** complete revised §3 prose saved on its isolated requested branch, with the supplied wave minute, pre-draft bounded packet, source notes, actual calculation ledger, distinct self-review and revisions, specific remaining debts and both seam notes. No main merge, independent-review pass or publication signoff is claimed.
