@@ -20,15 +20,17 @@ The commission also requires operations before compressed notation, reasoned can
 
 ## Bounded packet, fixed before composition
 
+The following packet was committed as `d24c952912a5d51bf6d79f9cb19fb8f7c04548cf` before the cold draft. Its stated source permissions remain the basis of the completed manuscript. Narrow later verification and review admissions are recorded below rather than silently projected back into the packet.
+
 ### Governing reading
 
 All repository reading is pinned to the supplement SHA above unless explicitly identified as a branch receipt. Read `AGENTS.md`, `WRITING-PROTOCOL.md` (blob `654bc33545ae74f934fdaf9c4394f232f4bb305f`), repository orientation, the central plan's whole argument and complete §1 with neighbouring §0/§2 context, and `return-of-zero-orienting-principles.md` (blob `1ecf00280ecd2bc901240be16f51e9f9cc87e96c`). The central plan blob is `5d6fcf2cf551807c7d642b4bd9761c0a37cea13c`.
 
 Read the R6 authorial return packet and claim-strength ledger, and the complete `S5-PREWRITE-HANDOFF-2026-09-17.md` (blob `b99d42319727839bc510cb7f5501aa913a614bb5`). The handoff supplies whole-essay direction, not replacement §1 subject matter. R6's local corrections control the draft: M17 performs the mathematical form of the immutable gap; Ø is an occlusion mark, not merely a juxtaposed circle/stroke; the Indian historical interval is source-bounded; mathematical specificity must not weaken the independently argued native ontology.
 
-Read the sovereign `submission-package/essay/THE-RETURN-OF-ZERO.md`: it is a section-heading skeleton at this base (blob `df84af01672eecb57ec6e17aed416cb0045cfe62`). It will remain unchanged.
+Read the sovereign `submission-package/essay/THE-RETURN-OF-ZERO.md`: it is a section-heading skeleton at this base (blob `df84af01672eecb57ec6e17aed416cb0045cfe62`). It remains unchanged.
 
-Read `.agents/skills/return-of-zero-write/SKILL.md`, `writing-guidance-tools/README.md`, `writing-guidance-tools/SKILL.md`, and the writing laws and rubric. Calibration examples remain unopened. A complete cold draft must precede the distinct G1–G10 and comparative-negation audit.
+Read `.agents/skills/return-of-zero-write/SKILL.md`, `writing-guidance-tools/README.md`, `writing-guidance-tools/SKILL.md`, and the writing laws and rubric. Calibration examples remained unopened. The complete cold draft preceded the distinct G1–G10 and comparative-negation audit.
 
 ### Linear movement packet
 
@@ -60,18 +62,18 @@ Etymological argument was recovered through the Encounter/Region/Name/Count/Coun
 All source houses below are under `submission-package/essay/symbolon/episteme/sources/`.
 
 - **Kaplan**, `mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md`, blob `80e273f9bd9d65bb6bc8643dd5ed9148648a583d`: selected OUP 2000 printing; pp.4–27, 36–75 and 90–115 for the historical route, pp.203–215 for distinct constructions. Citation-ready narrative/locator; no verified Kaplan quotation. His p.73 cancellation example is usable mathematically; p.74's cultural inference is not adopted. Precise priority, Bakhshali dating, Gerbert/Salem and prohibition stories are withheld.
-- **Colebrooke**, `mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md`, blob `25455a5654cada33528a8b988d1b21d89d278f0a`: primary English translation, 1817. Brahmagupta XVIII.31,34, p.339; Bhāskara Bījagaṇita I.14,16, pp.137–138. The source house records rendered-page verification on 15 July 2026. Only its verified short English wording may be quoted. This run's public archive catalogue check is not a new page-image collation.
-- **Dutta**, `mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md`: Bhāvanā 7(3), July 2023; restricted-cancellation/cross-multiplication reconstruction and postponed evaluation. Citation-ready, no quotations; modern reconstructive defence, not a critical Sanskrit edition. Fresh web access timed out; retained canonical source standing is not promoted.
+- **Colebrooke**, `mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md`, blob `25455a5654cada33528a8b988d1b21d89d278f0a`: primary English translation, 1817. Brahmagupta XVIII.31,34, p.339; Bhāskara Bījagaṇita I.14,16, pp.137–138. The source house records rendered-page verification on 15 July 2026. Only its verified short English wording is quoted. This run's public archive catalogue check is not a new page-image collation.
+- **Dutta**, `mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md`, blob `c6b51bdc43f3697c4a216e2edc4fa67f7bc69e2f`: Bhāvanā 7(3), July 2023; restricted-cancellation/cross-multiplication reconstruction and postponed evaluation. Citation-ready, no quotations; modern reconstructive defence, not a critical Sanskrit edition. Fresh web access timed out; retained canonical source standing is not promoted.
 - **Muller-Ortega**, `indian-philosophy/muller-ortega/muller-ortega-1998-abhinavagupta/SOURCE.md`: Routledge Encyclopedia of Philosophy, 1998; selected conventional c.975–1025 chronology only. It does not establish transmission to Bhāskara.
 - **Scharf/Sanskrit Library**, `mathematics-logic/bhaskara/scharf-2010-bijaganita-digital/SOURCE.md`: first XML edition, 2010; source metadata dates Bījagaṇita to 1150. This metadata was independently reread on the public catalogue during the run. The date is not an invention-of-zero claim.
 - **Abhinavagupta/Singh**, `indian-philosophy/abhinavagupta/abhinavagupta-singh-1988-paratrisika-vivarana/SOURCE.md`: 1988 edition, introductory/commentarial voices distinguished. Paraphrase context only; notebook leads are not verified publication quotations.
 - **Dyczkowski**, `indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md`: source identity and page-labelled prakāśa/vimarśa/spanda material consulted, especially pp.60–63. Selected-edition wording remains uncollated; no verbatim quotation admitted.
-- **Rotman**, `mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE.md`: selected St. Martin's Press 1987 edition, chapter 2 locator pp.27–56. No passage has been gathered. The semiotic interlocutor is retained in the packet; a substantive Rotman attribution or quotation is withheld rather than supplied from the title.
+- **Rotman**, `mathematics-logic/rotman/rotman-1987-signifying-nothing/SOURCE.md`, blob `cb862c6870fe40ad57aa8a21fa8aca5c0a5b2dc6`: selected St. Martin's Press 1987 edition, chapter 2 locator pp.27–56. No passage has been gathered. The semiotic interlocutor is retained in the packet; a substantive Rotman attribution or quotation is withheld rather than supplied from the title.
 - **Lewis and Short**, `classical-philology/lewis-short/lewis-short-1879-latin-dictionary/SOURCE.md`, blob `466f1bfbdd2b22c7f02a9de47e102b1a2cd61aba`: named online entries ratio, fides and credo, selected senses. Ratio's reckoning/account/reason range was independently reread through Scaife ATLAS in this run. No common Greek–Latin root, deeper credere reconstruction or ancient continuous quotation is inferred.
 
 ### Derivation and claim boundaries
 
-The finite-ordinal construction, field obstruction and mediant examples will be worked in the prose so the reader can check their steps. A separate formal publication locator for the explicit successor presentation remains a bibliographic debt; the proof is not deferred. Mediant terminology will not assert an unverified identification of Farey sequences and the Stern–Brocot tree, nor claim a unique enumeration without demonstrating it.
+The finite-ordinal construction, field obstruction and mediant examples are worked in the prose so the reader can check their steps. A separate formal publication locator for the explicit successor presentation remains a bibliographic debt; the proof is not deferred. Mediant terminology does not assert an unverified identification of Farey sequences and the Stern–Brocot tree, nor claim a unique enumeration without demonstrating it.
 
 The mathematical immutable-gap operation is affirmative: an added value cannot supply zero's inverse while retaining nontrivial field laws; a proposed continuation must expose and change the relevant law. The native philosophical argument then retains the distinction between an articulated condition and the act through which it is operative. No unrestricted Gödel claim or impossibility of all self-representation is admitted.
 
@@ -79,12 +81,85 @@ The Indian braid is Argued through precise operations and the primary text's act
 
 ### Withholdings and source debts at packet closure
 
-Withheld: full crossed-zero recognition series and Lacanian attribution; NOR/NAND history; expanded exotic division systems; psychic/technical proof by numerical coincidence; the complete sixfold/eightfold derivation; the whole Homeric surety scene; later integral/planetary accomplishment. The argument will retain the needed return routes without name-listing their future contents.
+Withheld: full crossed-zero recognition series and Lacanian attribution; NOR/NAND history; expanded exotic division systems; psychic/technical proof by numerical coincidence; the complete sixfold/eightfold derivation; the whole Homeric surety scene; later integral/planetary accomplishment. The argument retains the needed return routes without name-listing their future contents.
 
 Debts retained narrowly: Kaplan quotation collation; Singh/Dyczkowski selected-edition collation and Sanskrit-critical work; Dutta fresh-access failure; Rotman passage acquisition; formal publication locator for the standard ordinal presentation; genuinely stronger intercultural transmission claims. These do not suspend the section's native argument.
 
-## Execution standing at packet closure
+## Execution and manuscript result
 
-Repository reads and writes use the connected GitHub tool. A local repository checkout was unavailable; no repository effects-map script, writing-context generator or full test suite has run. Declared owners and seams were recovered manually through actual files. Hidden sampling/seed/routing parameters are not exposed or controlled. No independent reviewer agent is available: the writer will stop the complete first draft, conduct a distinct audit without defending it, then revise and re-audit.
+The complete cold draft was written locally before the review began: **5,773 words**, SHA-256 `c061d9a62c0908e75152465c45dc4577a0afd44e6180f1017a8c9a75cdec3e42`. No calibration corpus was consulted. After the first draft, `writing-guidance-tools/references/comparative-and-negation-gate.md` was read (blob `97498afc5393b98a0230998044bf4c61bdc696f7`) and the argument was restated before editing.
 
-This bounded packet is committed before manuscript composition. Final drafting, review, scope verification and commit details will be appended after those actions actually occur.
+The completed revision is **5,922 whitespace-delimited words**: **5,273 body words** and **649 words in the notes section**, with six movements and fifteen notes. The prose was committed as:
+
+`5db7f62fe994c11028176aa11a0086223d69f591`
+
+Prose blob: `0da93e169848f9bf7deb706e3e2445162951d70b`.
+
+Revised SHA-256: `9abd1e84e066a1fa5a39228235c184c53f82bc3000f92d2c6453ee1a8b97c8dd`.
+
+The Git blob calculated from the local UTF-8 file exactly matches the blob returned by GitHub after publication. The manuscript path was checked absent before creation; no existing prose at that path was replaced. The commit containing this completed receipt is the run's final receipt head; the prose commit above remains its separate exact anchor.
+
+### Narrow additional verification/admission
+
+NIST DLMF §1.9(iv), equations 1.9.35–1.9.41 and accompanying text, was independently read before drafting the changed-space example. It supplies the extended-plane conventions, not a field inverse. The public Scaife entries for fides and credo were also opened in the run, supplementing the named-sense verification retained in their source house.
+
+The stopped-draft review found that the concluding symbolon needed its own operation taught. It therefore recovered `classical-philology/liddell-scott-jones/lsj-1940-greek-english-lexicon/SOURCE.md`, q010 (blob `8ca64d0b93dc9117c67f5e1256cb2061cf87a3a2`), including its exact selected-sense status: counterpart tokens, guarantee and civic uses remain distinguishable. The final paragraph uses only the matching-piece operation, not an uncollated ancient episode. A fresh public Scaife request failed; the canonical record's completed 8 September consultation remains the warrant. No protected source was edited or promoted.
+
+### Review findings and repairs
+
+This was a **distinct review pass by the same writer**, not an independent-person or fresh-model review. No separate reviewer agent was available. The complete claim/dependency sequence was reconstructed before the following repairs, then the revised section was re-audited.
+
+| Location / exact v1 phrase | Gate / fault | Finding and performed repair |
+|---|---|---|
+| M13: “one civilisation provides an obscure intuition and another finally supplies reason” | G7 / F2 | Unattributed opponent. Removed the feint and led with intercultural acquisition; retained the reasoned universality/arrival distinction. |
+| M14: “neither a general commendation of nothingness nor a modern algebraic vocabulary” | G7 / F2 | Defensive frame obscured the primary achievement. Replaced with the reader's actual checking of sums and products. |
+| M15: “Nothing in this construction says” / “a miraculous zero” | G7, G10 / F2 | A real distinction of levels was packaged as repeated rebuttal. Rewrote as positive dependence on inequality, framework and the gathering operation. |
+| M15: “Nevertheless” | G4 / F8 | The first one's structure is a consequence, not a concession after debunking. Removed the concessive turn. |
+| M16: “The fuller recognition will have to” | G8 / F5 | Tour-guide ending. Replaced with the criterion/product distinction actually achieved, then the exact arithmetic handoff. |
+| M18: “the common difference bc−ad>0 makes it greater” | G1, G3 / F4 | Missing comparative steps. Stated the ordered-fraction hypothesis and displayed both positive differences. |
+| M18: “Their arithmetic inequality remains intact” | G5 / F1 | Undefined 1/0 is not a numerical value standing in an inequality. Replaced with arithmetic asymmetry and retained both explicit evaluations. |
+| M18: “The first one is therefore” | G5 | Referent slipped between the uncounted One and determinate singleton/particular. Named the determinate one explicitly. |
+| M18: “root symbolon” | G3, G6 / F6 | The compressed term needed its material operation. Recovered the lexical witness and taught the matching pieces before the final native return. |
+| Notes: “source house”, “native consumption”, “A15” | G4, G10 | Workflow diction in reader-facing apparatus. Replaced with scholarly attribution and intelligible authored titles; debts stay in this receipt. |
+| M18: mediant on written fractions | G1, G5 | Representatives matter. Added the 1/2 versus 2/4 example: equal values yield different mediants with 1/3. Explicitly made representative choice part of the operation. |
+| M17/M18: “a mystical object behind the calculation” / “no single mysterious zero” | G7 / F2 | Unneeded caricatures. Replaced with the positive description/use distinction and the specific operation governing each construction. |
+
+Twelve semantic findings were addressed through sixteen targeted replacement operations and the added lexical note. No calibration example was needed to decide these repairs. The final body retains formal negations because their operations, rather than an imagined opponent, supply their content.
+
+### Comparative-negation ship ledger
+
+Swept files: the complete local cold draft and the complete revised prose; protected sources excluded. The broad candidate sweep matched paragraphs containing `not`, `cannot`, `rather than`, `instead of`, `neither`, `whereas`, `more than` or `less than`. It found **43 candidate paragraphs in v1 and 42 in the revision**. Counts are candidates, not violation scores; the two-stage semantic audit above determined repairs. The complete prose and notes were also read for comparisons outside that pattern.
+
+Every retained final body candidate is classified below by the published file's actual line number:
+
+- **Formal negation:** 53, 61, 82, 84, 86, 116, 122, 124, 132, 146, 148, 182, 196, 198.
+- **Claim boundary:** 9, 17, 39, 41, 43, 176, 188, 202, 204, 210.
+- **Operational distinction:** 5, 13, 15, 37, 49, 98, 102, 104, 140, 142, 144, 168, 180, 212, 214, 216, 218.
+- **Verified quotation/source boundary:** 35.
+
+The primary quotation's presence, the empty set's membership, the two failures of division, the changed-framework permissions, the Subject/object distinction and lexical-versus-authorial relations remain load-bearing boundaries. Removing them would make the claims less precise.
+
+### Final checks and their limits
+
+- Six complete movement bodies; all fifteen note references resolve to exactly one definition; no orphan definitions; balanced inline and display-math delimiters.
+- The finite-ordinal construction was checked by exact nested sets for stages 0–8. This supplements, rather than replaces, the displayed construction and its distinction from an infinity axiom.
+- Both mediant difference identities and strict ordering were checked with exact rational arithmetic in **2,480 ordered cases**. The additional 1/2 = 2/4 representation example was checked separately: mediants with 1/3 are 2/5 and 3/7.
+- The zero-product/distributivity proof, non-unique zero-over-zero case, restricted total reciprocal, and extended-plane boundary were reviewed analytically. The examples are not claimed as an automated proof of the native ontology.
+- M12→M13, each internal movement transition, and M18→M19 were re-read for inherited terms, causal continuity and withheld later work. A10 and A36 remain distinct.
+- The final GitHub content blob matches the local revised file exactly. Only the prose and this receipt have been written on the dedicated branch.
+
+Repository reads and writes used the connected GitHub tool. A local repository checkout was unavailable; **no repository effects-map script, writing-context generator or full repository test suite ran**. Declared owners and seams were recovered manually through actual files. The local textual/mathematical checks above are not presented as those missing admission checks. Hidden sampling/seed/routing parameters were not exposed or controlled. Source and review debts remain explicit; no ratification by the author or independent editorial reviewer is claimed.
+
+## Seam notes and return
+
+**Incoming M12:** the opening receives world-constituting mediation as an achieved argument. The familiar inscription 205 supplies a concrete instance of reader, rule and mark acting together; no new private-inner-substance account of mind is introduced.
+
+**M14→M15:** operational śūnya makes the zero/one construction intelligible, while the set-theoretic framework and successor operation remain explicit. The empty set is not substituted for the unobjectifiable Subject.
+
+**M16→M17:** Ø marks the instrument's occlusion into the apparent I. The criterion's return becomes a formal question about an operation's law; the field proof performs that question rather than borrowing mathematical prestige for an announced parallel.
+
+**Outgoing M19:** mediants first show why retained presentations and declared operations matter. The native slash then holds ground/mark and their two orientations; One/All retains asymmetrical dependencies. The matching-piece symbolon returns through reckoning and trust to the real difference that M19 receives. The ±1 cancellation/appropriation algebra, four-plus-two development and full mythic scenes remain §2's work.
+
+**A36:** this section completes the first advent and the locally earned philosophical loan. The later integral return must carry the exact sign through its acquired history into consequential recognition. The complete crossed-zero series and terminal synthesis have not been prematurely spent.
+
+The commissioned six-movement manuscript is written, reviewed and revised. Remaining work is bounded source collation, independent editorial/admission review and eventual whole-manuscript integration—not a reopened T25 refinement or an unfinished local section.
