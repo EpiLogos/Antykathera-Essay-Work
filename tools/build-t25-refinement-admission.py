@@ -3,8 +3,10 @@
 
 The September-9 T20/T21 receipt remains immutable historical baseline. T25
 adds exactly the seven commissioned S-family Episteme records, preserving the
-prior 281 accepted identities/homes while binding the seven new canonical
-bodies to their current bytes.
+prior 281 accepted identities/homes while binding every record's sha256 to
+the actual bytes of its canonical home at build/check time. `--check`
+verifies each recorded hash against those bytes and fails loudly, naming
+every stale record.
 """
 from __future__ import annotations
 
@@ -55,6 +57,14 @@ def build() -> dict:
         raise ValueError("historical baseline is not the expected unique 281-record receipt")
     if base_ids & {item[0] for item in PRODUCTS}:
         raise ValueError("historical baseline already contains an S-family identity")
+    # Identities and homes are inherited from the baseline; hashes are always
+    # recomputed from the actual bytes of each canonical home, so a rebuild
+    # can never re-emit a stale hash.
+    for row in records:
+        path = ROOT / row["canonical_home"]
+        if not path.is_file():
+            raise ValueError(f"missing canonical body: {path}")
+        row["sha256"] = digest(path)
 
     added = []
     for record_id, record_type, filename in PRODUCTS:
@@ -90,8 +100,10 @@ def build() -> dict:
     return {
         "standing": (
             "T25 refinement admission: preserves the September-9 281-record accepted baseline "
-            "and admits exactly S/S0–S5 as seven new Episteme records. Semantic refinement and "
-            "T26 authorial ratification remain distinct from this identity/home admission."
+            "and admits exactly S/S0–S5 as seven new Episteme records. Receipt refreshed "
+            "2026-09-20: every record's sha256 is taken from the actual bytes of its canonical "
+            "home at build/check time. Semantic refinement and T26 authorial ratification "
+            "remain distinct from this identity/home admission."
         ),
         "base_receipt": BASE.relative_to(ROOT).as_posix(),
         "counts": counts,
@@ -103,6 +115,31 @@ def render() -> str:
     return json.dumps(build(), ensure_ascii=False, indent=2) + "\n"
 
 
+def hash_faults(parsed: dict) -> list[str]:
+    """Verify every recorded hash against the actual bytes of its canonical home."""
+    faults: list[str] = []
+    records = parsed.get("records")
+    if not isinstance(records, list) or len(records) != 288:
+        faults.append(f"receipt does not contain exactly 288 records (found {len(records) if isinstance(records, list) else type(records).__name__})")
+        return faults
+    if len({row["record_id"] for row in records}) != 288:
+        faults.append("receipt contains duplicate record identities")
+    if len({row["canonical_home"] for row in records}) != 288:
+        faults.append("receipt contains duplicate canonical homes")
+    for row in records:
+        path = ROOT / row["canonical_home"]
+        if not path.is_file():
+            faults.append(f"missing canonical body: {row['record_id']} -> {row['canonical_home']}")
+            continue
+        actual = digest(path)
+        if row.get("sha256") != actual:
+            faults.append(
+                f"stale hash: {row['record_id']} ({row['canonical_home']}) "
+                f"receipt={row.get('sha256')} actual={actual}"
+            )
+    return faults
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--check", action="store_true")
@@ -112,8 +149,16 @@ def main() -> int:
         raise SystemExit("this builder currently binds the repository containing the script")
     expected = render()
     if args.check:
-        if not OUTPUT.is_file() or OUTPUT.read_text(encoding="utf-8") != expected:
+        if not OUTPUT.is_file():
             print(f"stale or missing: {OUTPUT.relative_to(ROOT)}", file=sys.stderr)
+            return 1
+        on_disk = OUTPUT.read_text(encoding="utf-8")
+        faults = hash_faults(json.loads(on_disk))
+        for fault in faults:
+            print(fault, file=sys.stderr)
+        if faults or on_disk != expected:
+            if not faults:
+                print(f"stale or missing: {OUTPUT.relative_to(ROOT)}", file=sys.stderr)
             return 1
         report = build()
         print(json.dumps({"admitted": len(report["records"]), "counts": report["counts"]}, indent=2))
