@@ -1,0 +1,19 @@
+{
+  "key": "s5",
+  "owner": "s5-source-enrichment-2026-09-20-gpt6-astra-pro",
+  "state": "claimed",
+  "baseline_ref": "e3aee553f002cf9b57ff79f40ee963ad03c5416f",
+  "baseline_blob": "427c7d92e35e125145a06f1ed695ee27f7d372ff",
+  "baseline_verified": false,
+  "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
+  "candidate_sha256": null,
+  "source_recovery_complete": false,
+  "connected_pass_complete": false,
+  "whole_section_pass_complete": false,
+  "source_review_complete": false,
+  "technical_review_complete": false,
+  "literary_review_complete": false,
+  "seam_return_complete": false,
+  "whole_manuscript_pass": "coordinator-owned; not executed by this lane",
+  "blockers": []
+}
