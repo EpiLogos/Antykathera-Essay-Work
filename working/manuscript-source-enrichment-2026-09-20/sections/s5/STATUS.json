@@ -1,10 +1,11 @@
 {
   "key": "s5",
   "owner": "s5-source-enrichment-2026-09-20-gpt6-astra-pro",
-  "state": "claimed",
+  "continuation": "2026-09-21 resume of interrupted commission; existing recovery preserved",
+  "state": "recovering",
   "baseline_ref": "e3aee553f002cf9b57ff79f40ee963ad03c5416f",
   "baseline_blob": "427c7d92e35e125145a06f1ed695ee27f7d372ff",
-  "baseline_verified": false,
+  "baseline_verified": true,
   "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
   "candidate_sha256": null,
   "source_recovery_complete": false,
