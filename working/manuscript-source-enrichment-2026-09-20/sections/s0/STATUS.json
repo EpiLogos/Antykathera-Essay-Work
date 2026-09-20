@@ -1,13 +1,17 @@
 {
   "key": "s0",
   "owner": "chatgpt-s0-saiva-recognition-2026-09-20",
-  "state": "claimed",
+  "resumption": "same commissioned lane resumed after interrupted response; existing checkpoints preserved",
+  "state": "reviewing",
   "baseline": {
     "path": "working/manuscript-source-enrichment-2026-09-20/baseline/s0.md",
     "blob": "28a16ccd2407d17d3e611438d3a4a36b559c3d41",
     "ref": "28da5ddaca7ea690b4334dc7c844184bdade4ab1"
   },
   "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
+  "prose_checkpoint_commit": "0b6ee55ad6ba927eeccfc77fdef29dd84abed4fb",
+  "prose_checkpoint_blob": "d8c49cda75a76c19ac08f48e142e51b54de00dca",
+  "source_checkpoint_commit": "b9e163d63fc8bfa65ce3702cbc1bb17180e87ebf",
   "candidate_sha256": null,
   "recovery_complete": false,
   "connected_pass_complete": false,
@@ -17,5 +21,5 @@
   "seam_return_complete": false,
   "whole_manuscript_pass": "coordinator-owned; not performed by this lane",
   "blockers": [],
-  "next_action": "Read required repository entry stack, baseline, receipt and original source carriers before composing."
+  "next_action": "Close the recovery checkpoint's named remaining source/authority checks; review the full committed candidate, repair any failures, publish REVIEW and SEAM-RETURN, verify content and counts, then write ready status last."
 }
