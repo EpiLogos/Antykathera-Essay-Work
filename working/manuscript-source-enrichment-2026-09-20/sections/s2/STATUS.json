@@ -1,0 +1,24 @@
+{
+  "key": "s2",
+  "owner": "s2-source-enrichment-session-2026-09-20",
+  "state": "claimed",
+  "baseline": {
+    "path": "working/manuscript-source-enrichment-2026-09-20/baseline/s2.md",
+    "blob": "088aa0962d4346f313903ab88d9386633f7d2d0d",
+    "original_commit": "81505d2f25b9b1827a91de405b0e944cb57d070a"
+  },
+  "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
+  "fidelity_pin": "832b994cef9480cdfa0abbb08bc01af9fdee068e",
+  "candidate_sha256": null,
+  "recovery_complete": false,
+  "connected_pass_complete": false,
+  "whole_section_pass_complete": false,
+  "source_fidelity_review_complete": false,
+  "literary_review_complete": false,
+  "independent_review": false,
+  "seam_return_complete": false,
+  "whole_manuscript_pass_complete": false,
+  "authorial_acceptance": false,
+  "blockers": [],
+  "note": "Lane claimed through connected GitHub after checking that no STATUS.json exists. Recovery and writing are in progress; no completion is asserted."
+}
