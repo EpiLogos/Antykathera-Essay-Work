@@ -1,7 +1,7 @@
 {
   "key": "s2",
   "owner": "s2-source-enrichment-session-2026-09-20",
-  "state": "claimed",
+  "state": "recovering",
   "baseline": {
     "path": "working/manuscript-source-enrichment-2026-09-20/baseline/s2.md",
     "blob": "088aa0962d4346f313903ab88d9386633f7d2d0d",
@@ -9,6 +9,7 @@
   },
   "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
   "fidelity_pin": "832b994cef9480cdfa0abbb08bc01af9fdee068e",
+  "recovery_checkpoint_commit": "4fdae761ada196a39feac9a8f3185533114b41d2",
   "candidate_sha256": null,
   "recovery_complete": false,
   "connected_pass_complete": false,
@@ -20,5 +21,11 @@
   "whole_manuscript_pass_complete": false,
   "authorial_acceptance": false,
   "blockers": [],
-  "note": "Lane claimed through connected GitHub after checking that no STATUS.json exists. Recovery and writing are in progress; no completion is asserted."
+  "remaining_work": [
+    "Complete original trust and synchrony corrective sequence recovery",
+    "Complete directly relevant source-owner, whole-Mytheme, encounter and Paper/Phone traversal",
+    "Compose complete section, perform connected-passage and whole-section passes",
+    "Review, publish and verify final candidate and seam return"
+  ],
+  "note": "Substantive SOURCE-RETURN.md checkpoint is committed in the owned lane. Retrieval remains in progress; outstanding reading is not reported as an access failure. No completed candidate or review is asserted."
 }
