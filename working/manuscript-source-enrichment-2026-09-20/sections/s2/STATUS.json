@@ -1,7 +1,7 @@
 {
   "key": "s2",
   "owner": "s2-source-enrichment-session-2026-09-20",
-  "state": "recovering",
+  "state": "drafting",
   "baseline": {
     "path": "working/manuscript-source-enrichment-2026-09-20/baseline/s2.md",
     "blob": "088aa0962d4346f313903ab88d9386633f7d2d0d",
@@ -10,6 +10,8 @@
   "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
   "fidelity_pin": "832b994cef9480cdfa0abbb08bc01af9fdee068e",
   "recovery_checkpoint_commit": "4fdae761ada196a39feac9a8f3185533114b41d2",
+  "first_prose_checkpoint_commit": "3484d99d89675c18442e6de12b315462d447eec9",
+  "recovered_source_return_blob": "f56e27893596a56ae09bf6b0b2f56f60339fdd20",
   "candidate_sha256": null,
   "recovery_complete": false,
   "connected_pass_complete": false,
@@ -22,10 +24,10 @@
   "authorial_acceptance": false,
   "blockers": [],
   "remaining_work": [
-    "Complete original trust and synchrony corrective sequence recovery",
-    "Complete directly relevant source-owner, whole-Mytheme, encounter and Paper/Phone traversal",
-    "Compose complete section, perform connected-passage and whole-section passes",
-    "Review, publish and verify final candidate and seam return"
+    "Finish bounded recovery ledger for directly relevant remaining carriers; preserve completed original trust/synchrony recovery",
+    "Compose M22–M24; recompose complete M19–M24 section from saved first-run prose and pinned baseline",
+    "Perform distinct post-draft source-fidelity and literary reviews, verify sources/notation/anchors/counts",
+    "Publish full candidate, completed recovery/review/seam return, then ready status; verify remote bytes"
   ],
-  "note": "Substantive SOURCE-RETURN.md checkpoint is committed in the owned lane. Retrieval remains in progress; outstanding reading is not reported as an access failure. No completed candidate or review is asserted."
+  "note": "Resumed the same lane after interruption. The previous status lagged actual progress: SOURCE-RETURN records original trust and synchrony correction recovered, and DRAFT-PASS-1 contains actual M19–M21 prose. No full candidate, independent review or whole-manuscript pass is yet asserted."
 }
