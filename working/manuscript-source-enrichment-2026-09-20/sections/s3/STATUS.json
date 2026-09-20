@@ -1,7 +1,8 @@
 {
   "key": "s3",
   "owner": "s3-source-enrichment-2026-09-20-connected-session",
-  "state": "claimed",
+  "resumed": "2026-09-21",
+  "state": "recovering",
   "baseline_blob": "741228ed81f782dba0584616ef546b3db0a48be9",
   "baseline_ref": "b8f368326a341b68a4ad8bda3c808030d105cbf1",
   "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
@@ -13,5 +14,6 @@
   "literary_review_complete": false,
   "seam_return_complete": false,
   "whole_manuscript_pass_complete": false,
-  "blockers": []
+  "blockers": [],
+  "execution_note": "Resuming the existing lane and preserved SOURCE-RETURN checkpoint. Repository content remains accessible through connected GitHub. Disposable clone failed DNS resolution; declared source links will be traversed with connector reads, not treated as unavailable."
 }
