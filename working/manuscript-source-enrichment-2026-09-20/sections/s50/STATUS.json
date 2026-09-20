@@ -1,7 +1,8 @@
 {
   "key": "s50",
   "owner": "s50-source-return-2026-09-20-chatgpt",
-  "state": "claimed",
+  "state": "recovering",
+  "resumption": "2026-09-21: resumed original lane after interrupted turn; existing source checkpoint preserved",
   "baseline_blob": "fb5dc736f233903fea6e21c459e0197b0bfd3370",
   "baseline_ref": "cae66d6bc3acf034f3c4751561948e0260cbbccb",
   "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
