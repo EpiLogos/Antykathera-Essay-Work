@@ -1,7 +1,8 @@
 {
   "key": "s4",
   "owner": "gpt-s4-source-enrichment-2026-09-20",
-  "state": "claimed",
+  "session": "resumed-s4-2026-09-21",
+  "state": "recovering",
   "baseline_blob": "6f143b04e7bff6bedb0ffeef98b4f2d826932523",
   "baseline_ref": "32a9b1adbd15c0e956f5689c448a7c5bdcf891e2",
   "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
@@ -13,5 +14,5 @@
   "literary_review_complete": false,
   "seam_return_complete": false,
   "blockers": [],
-  "standing": "Authorised model-composed candidate; no authorial acceptance claimed."
+  "standing": "Authorised model-composed candidate; no authorial acceptance claimed. Continuing the interrupted s4 claim at the user's explicit request."
 }
