@@ -1,0 +1,15 @@
+{
+  "key": "s50",
+  "owner": "s50-source-return-2026-09-20-chatgpt",
+  "state": "claimed",
+  "baseline_blob": "fb5dc736f233903fea6e21c459e0197b0bfd3370",
+  "baseline_ref": "cae66d6bc3acf034f3c4751561948e0260cbbccb",
+  "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
+  "candidate_sha256": null,
+  "recovery_complete": false,
+  "source_review_complete": false,
+  "literary_review_complete": false,
+  "seam_return_complete": false,
+  "whole_manuscript_pass": "coordinator-owned; not performed",
+  "blockers": []
+}
