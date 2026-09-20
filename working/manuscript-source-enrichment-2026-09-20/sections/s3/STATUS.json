@@ -1,0 +1,17 @@
+{
+  "key": "s3",
+  "owner": "s3-source-enrichment-2026-09-20-connected-session",
+  "state": "claimed",
+  "baseline_blob": "741228ed81f782dba0584616ef546b3db0a48be9",
+  "baseline_ref": "b8f368326a341b68a4ad8bda3c808030d105cbf1",
+  "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
+  "candidate_sha256": null,
+  "recovery_complete": false,
+  "connected_pass_complete": false,
+  "whole_section_pass_complete": false,
+  "source_review_complete": false,
+  "literary_review_complete": false,
+  "seam_return_complete": false,
+  "whole_manuscript_pass_complete": false,
+  "blockers": []
+}
