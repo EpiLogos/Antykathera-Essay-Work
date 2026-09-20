@@ -1,0 +1,53 @@
+# Authorial direction carried into the eight sessions
+
+This is a working dispatch of Frank's September 19–20 commission and latest corrections. Its explanatory paragraphs are coordinator-written, not verbatim authorial prose. The earlier authoritative minute is `working/manuscript-revision-2026-09-19/AUTHORIAL-REVISION-MINUTE.md`; the eight reports and their evidence live in `working/manuscript-fidelity-2026-09-19/`. Read those sources as directed in the shared README. The latest instruction selects the prior, pre-enrichment eight-draft manuscript for this fresh section-led attempt.
+
+## The failure being corrected
+
+The first attempted enrichment added material without sufficiently recomposing the connected argument. The second added fluency and length but still too often worked from concept summaries and generic explanatory prose instead of recovering the specified original derivations and note sequences. Neither candidate is an accepted base or a source for the author's thought. A saved receipt saying a whole pass was executed does not settle the author's subsequent judgment.
+
+Frank's latest diagnosis, verbatim:
+
+> mate, i'm just reading som eof the beginning, in ways its better, its richer and flows more, in ways its worse, more random stringing of allusionary words, less direct and to the point where needed, and still all you've done is buff up the connetcivity (in places annoyingly just saying what wwould be shown instead of anythign genuinely interesting or presaging), and you completely failed to do any of the real digging into the material i specified was incorrectly applied and not revealed corretcly... the deifniton of the suibject is a full thgeorem we have, and you reduce it to a fucking paragraph, which you spend more time introduicing than delving into... this is exactly what i feared having to move sessions, you simploy didnt take care to gather the context and awareness of what i was actualloy referring to in the pasted session trasncrript that youy just did some genberic shit, i bet you didnt actually consult the plan/wayfinder, not deeply in any sense... please can we get on the same page about6 what the task is, which at this point needs tro now aplpy to current state and reform it from this enriched state.... lets align in chat first so i can be sure you even have a sense of the intent before you go off for hours doign ewither nothign in particular or the wrong thing at heart
+
+Frank's subsequent execution direction, verbatim; this later base selection governs:
+
+> riiight so can we do this again, on the prior manuscript version, enriching propelry this time w8ith really clean guidance.. i thihnk we have to do this with 8 prompts, one for each section, ensuring they go deep into the notes, the core theorems, the rela full versions of my actual notes and deep work where specified... its all there, and the 3fgold enrichment form... then you can run the final pass here when they're done on their sectionbs.. get them to all work in th esame polace and push there so you can just pickup the work and go form here
+
+## The practical meaning of enrichment
+
+The manuscript's architecture and achieved philosophical force stand. Full original thought supplies the new depth: omitted premises, connected derivations, historical circumstances, complete mythic actions, energetic and affective investment, technical operations and political consequences. Compose these into the section rather than bolt additions onto a fixed cadence. The three scales are connected passages; six-movement sections; and the accumulated whole. Each section session performs the first two and prepares the third. The coordinating conversation performs the actual whole pass after receiving all eight.
+
+Up to roughly twice the original section length is room for necessary development. There is no length quota, compulsory uniform pace, or rewritten-paragraph percentage. Directness at a decisive assertion and duration in a difficult demonstration or living scene can coexist. 'Hold the because' means retaining the actual dependence, motive and consequence, not inserting the word because mechanically. Genuine anticipation gives the reader a particular unresolved question; announcing that something will later matter does not do that work.
+
+People enter as people taking up a particular difficulty, with their work and the author's encounter distinguished. Full names alone do not solve the problem of dropped-in authorities. Nor should biographical filler delay the argument. Compassion toward origins keeps the source's circumstance, the person's experience and the author's discovery present within what the essay receives from them.
+
+## Opening corrections are substantive
+
+Lead with the **Subject** version of the full defining theorem, not a substituted concept definition, and not an unexamined replacement of one noun in the God performance. Recover the original formula, premises, failure and successive recognitive operations from the full carriers and their later corrections. C01 is a reusable criterion; its presence cannot certify recovery of the theorem. At dispatch, the located core-spine table is headed God/Subject but prints a God-worded formula. This is a retrieval task for s01, not permission to invent an authenticated Subject formula. Read the deeper copula, raw development and full supports.
+
+Definition and limitation must be made intelligible before/within the performance so the reader actually encounters why the definition fails and what that failure accomplishes. Recover Descartes at the act of doubt; Kripke through the real naming/instance/circumstance and identity development; Cusa's centre-everywhere/circumference-nowhere image at the Subject/God relation, with exact provenance. Preserve the achieved Russell/Gödel reasoning. Honour deliberate later homes without using 'later' to excuse absent present premises.
+
+## Section-wide semantic obligations
+
+The Śaiva comparative conclusion is a reasoned authorial choice for this inquiry, preserving Buddhist critique and the mature Pind corrections while articulating the positive experient and powers. Consciousness changes scope with the direction of consideration; no global vocabulary replacement. Kaplan supplies the extended learning/history route, including the Indian/Kashmiri–mathematical–Gebser braid, not only a colourful opening. Synchrony and diachrony both require their original development, and are not dia/syn.
+
+Keep the native theorem's full field, exact nested slashes, inverse parents, eight determinations, distinct sixfold constructions and 3:3/3:1/4:2 relations. A Boolean companion does not replace the First Spanda equation. Preserve sound mathematical refinements without stripping the native derivation into a set of neighbouring examples. Recover the substantive energetic–psychodynamic–Śāktic–plasmic development from original notes, not a catalogue of related words. McGilchrist remains supporting depth under the saved authorial minute.
+
+Aion, Pauli's dream, Daphne, the two nets and other Mythemes retain materially active figures, events, transformation and aftermath. Their truth-bearing movement is not merely decoration for formal proof. Theological, metaphysical and political claim-strength must survive exact source distinctions.
+
+## §5's positive framing
+
+O:I is the technological manifestation of Objective Internality through six internal facets, made operative by its six products. Central: meaningful continuity; Actuation: living articulation; AIKit: potency; Factory: transformation; Workcell: situated existence; QL/MEF: Transcendent Relation. Read each through its complete paired MEF lenses and real primitive constitution. Do not substitute a product list, six slogans, or a polemic against an imaginary claim that these are 'six unrelated technologies'.
+
+Life and World acquire their meaning through the act of encountering artificial agency. The real mirror returns human classifications, expectations, desires and tacit conditions in an answering form: AI is approached archetypally as a catalyst of the unconscious. Knower/means/known retain the exact pramātṛ/pramāṇa/prameya relation; functional inferential agency and phenomenal immediacy remain distinct. The six facets organise an open, collaborative and evolutionary field because the relevant conditions cross tools, disciplines and organisations and must be available for mutual development.
+
+Within each facet, investigate how actual contemporary projects specialise, deepen, span or confuse the relevant offices: harnesses, skills, wikis, local-model systems, development environments and other actual owners. Preserve the practitioners' questions. Follow Actuation into model custody, serving, control, tokens, evaluation, geopolitical arrangements and power. Follow an actual institutional ontology through commissioning, action, affected lives and returned learning. Reopen the original research transcript and later user corrections, then verify selected external claims directly; an assistant's old report is not current evidence.
+
+## Return and cross-section memory
+
+Recognition: s01 performs the defining identification; s0 investigates the means; s4 develops the recogniser's transformation; s5 makes the technical encounter operative; s50 returns the instrument and its accounts to life. Trust/investment: s2 develops uncertainty, false security and the enemy; s4 follows the lived charge and changed disposition; s5 follows transformed desire and power; s50 gives Compassion its creative direction.
+
+Primary narrative homes remain distributed. The token's seam, delayed reply, capture/pledge/release, stained glass, travelling jigsaw and sourceward mirror return with new work; the final pass will judge actual reprises in the assembled text. Genuine divine limitation and direct Kastrup engagement belong to the concluding dependence argument. Develop the actual 4:2 Technè commons proposal, not an invented generic decentralised system. The journal is the destination, Agentworld the invitation, and the ancient mechanism a subsequent shared emblem/affinity; the author's images and developmental history remain central.
+
+The Unknown/unknowns aphorism, faceless question, six-routes poem, Maths/Mystery formulation, P0 light sentence and Tao/Compassion development are potential source-specific appointments, not an epigraph quota. Verify exact authorial wording before quotation. The personal AI encounter is legitimate origin material for understanding the inquiry; prepare its proposed publication passage separately for explicit authorial judgment. Do not turn it into invented autobiography or let it certify the ontology by itself.
