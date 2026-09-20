@@ -1,0 +1,17 @@
+{
+  "key": "s4",
+  "owner": "gpt-s4-source-enrichment-2026-09-20",
+  "state": "claimed",
+  "baseline_blob": "6f143b04e7bff6bedb0ffeef98b4f2d826932523",
+  "baseline_ref": "32a9b1adbd15c0e956f5689c448a7c5bdcf891e2",
+  "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
+  "candidate_sha256": null,
+  "recovery_complete": false,
+  "connected_pass_complete": false,
+  "whole_section_pass_complete": false,
+  "source_fidelity_review_complete": false,
+  "literary_review_complete": false,
+  "seam_return_complete": false,
+  "blockers": [],
+  "standing": "Authorised model-composed candidate; no authorial acceptance claimed."
+}
