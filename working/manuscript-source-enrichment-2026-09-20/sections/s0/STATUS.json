@@ -1,0 +1,21 @@
+{
+  "key": "s0",
+  "owner": "chatgpt-s0-saiva-recognition-2026-09-20",
+  "state": "claimed",
+  "baseline": {
+    "path": "working/manuscript-source-enrichment-2026-09-20/baseline/s0.md",
+    "blob": "28a16ccd2407d17d3e611438d3a4a36b559c3d41",
+    "ref": "28da5ddaca7ea690b4334dc7c844184bdade4ab1"
+  },
+  "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
+  "candidate_sha256": null,
+  "recovery_complete": false,
+  "connected_pass_complete": false,
+  "whole_section_pass_complete": false,
+  "source_review_complete": false,
+  "literary_review_complete": false,
+  "seam_return_complete": false,
+  "whole_manuscript_pass": "coordinator-owned; not performed by this lane",
+  "blockers": [],
+  "next_action": "Read required repository entry stack, baseline, receipt and original source carriers before composing."
+}
