@@ -1,7 +1,8 @@
 {
   "key": "s01",
   "owner": "s01-source-enrichment-session-2026-09-20",
-  "state": "claimed",
+  "resume": "User-requested continuation on 2026-09-21; existing source checkpoint retained and being completed.",
+  "state": "recovering",
   "branch": "codex/manuscript-source-enrichment-2026-09-20",
   "baseline_path": "working/manuscript-source-enrichment-2026-09-20/baseline/s01.md",
   "baseline_blob": "8d62eaf658201336010252b39fb43db3fa544e22",
@@ -17,5 +18,5 @@
   "seam_return_complete": false,
   "independent_review": false,
   "blockers": [],
-  "standing": "Authorised model-composed revision candidate; no authorial acceptance. Initial claim only."
+  "standing": "Authorised model-composed revision candidate; no authorial acceptance. Recovery continuing; exact Subject-worded formulation is not yet authenticated."
 }
