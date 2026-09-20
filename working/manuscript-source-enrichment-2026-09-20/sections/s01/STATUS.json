@@ -1,0 +1,21 @@
+{
+  "key": "s01",
+  "owner": "s01-source-enrichment-session-2026-09-20",
+  "state": "claimed",
+  "branch": "codex/manuscript-source-enrichment-2026-09-20",
+  "baseline_path": "working/manuscript-source-enrichment-2026-09-20/baseline/s01.md",
+  "baseline_blob": "8d62eaf658201336010252b39fb43db3fa544e22",
+  "baseline_ref": "94cea9bf3064594555f46e3d2010d003a1752ad6",
+  "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
+  "fidelity_pin": "832b994cef9480cdfa0abbb08bc01af9fdee068e",
+  "candidate_sha256": null,
+  "recovery_complete": false,
+  "connected_pass_complete": false,
+  "section_pass_complete": false,
+  "source_review_complete": false,
+  "literary_review_complete": false,
+  "seam_return_complete": false,
+  "independent_review": false,
+  "blockers": [],
+  "standing": "Authorised model-composed revision candidate; no authorial acceptance. Initial claim only."
+}
