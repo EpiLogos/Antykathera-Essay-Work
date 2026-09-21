@@ -1,16 +1,48 @@
 {
   "key": "s50",
   "owner": "s50-source-return-2026-09-20-chatgpt",
-  "state": "recovering",
-  "resumption": "2026-09-21: resumed original lane after interrupted turn; existing source checkpoint preserved",
+  "state": "reviewing",
+  "resumption": "2026-09-21: interrupted recovery consolidated; complete M43-M48 prose, candidate reviews and seam return now published",
   "baseline_blob": "fb5dc736f233903fea6e21c459e0197b0bfd3370",
   "baseline_ref": "cae66d6bc3acf034f3c4751561948e0260cbbccb",
   "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
-  "candidate_sha256": null,
+  "candidate_commit": "5a5d6272b8bc6bd39bb5ebec2f1d02e56ba5eafa",
+  "candidate_git_blob": "a429592472270bf67b87bde377d06a74a53e1980",
+  "candidate_sha256": "dc88e09aa161d91224a679b19aef6f169439ab170814cc1709fc6403f09fe238",
+  "candidate_utf8_bytes": 58784,
+  "candidate_body_words": 7689,
+  "candidate_words_including_notes": 8782,
+  "candidate_complete": true,
+  "connected_passage_pass_complete": true,
+  "section_composition_pass_complete": true,
+  "candidate_source_review_performed": true,
+  "candidate_source_review_scope": "Claims checked against recovered witnesses and retained baseline standing; not a certification of the complete contracted source field",
   "recovery_complete": false,
   "source_review_complete": false,
-  "literary_review_complete": false,
-  "seam_return_complete": false,
+  "literary_review_complete": true,
+  "review_independence": "Same assistant, same context, distinct post-draft source and literary passes; not independent review",
+  "seam_return_complete": true,
+  "source_return_addendum": "SOURCE-RETURN-ADDENDUM.md",
+  "remote_candidate_verified": true,
+  "remote_verification_method": "Fetched committed Git blob matches the blob computed from reviewed local UTF-8 bytes",
+  "incoming_peer": {
+    "key": "s5",
+    "candidate_commit": "ba240c276b9aa5aa18bee0f774c336af941484b9",
+    "candidate_blob": "34d7f0680a5fd6686eea5a7a5fec1fcc24541721",
+    "read": "SEAM-RETURN and actual M42/terminal body"
+  },
+  "opening_peer": "New s01 SEAM-RETURN returned 404 at final check; original selected s01 body and notes read; new opening comparison pending",
   "whole_manuscript_pass": "coordinator-owned; not performed",
-  "blockers": []
+  "authorial_acceptance": false,
+  "blockers": [
+    "Full contracted source recovery remains incomplete: complete native supporting manuscripts and final line-coverage closure, remaining A/A-prime/C owners and etymological wholes, P2/P3 and remaining Paper dispositions, six-quilt terminal/capstone and independent copula chains, final R6/T26 adoption checks. Detailed actual coverage is in SOURCE-RETURN.md section 8.",
+    "The baseline body count is inherited from its verified original receipt; a fresh normalised baseline/candidate recount under one preprocessing method remains outstanding.",
+    "Do not promote to ready_for_whole_pass until the remaining recovery and full source-review gate are completed or explicitly re-scoped. These are outstanding reads, not claimed connector failures."
+  ],
+  "source_specific_limits": [
+    "2006 Nature study accessed at abstract scope; no complete full-text or new figure collation claimed",
+    "Selected print-edition collation for Chang, Dyczkowski, Heidegger and Cleary remains separately bounded",
+    "Direct Kastrup essays and the coauthors' 2019 Blind Spot essay read; longer Kastrup papers and the 2024 Blind Spot book not claimed read",
+    "Commons is the recovered February 2026 architectural proposal, not a deployment report; final public bibliographic release remains an authorial decision"
+  ]
 }
