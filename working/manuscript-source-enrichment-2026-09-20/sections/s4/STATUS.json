@@ -2,17 +2,44 @@
   "key": "s4",
   "owner": "gpt-s4-source-enrichment-2026-09-20",
   "session": "resumed-s4-2026-09-21",
-  "state": "recovering",
+  "state": "returned-with-source-audit-debts",
   "baseline_blob": "6f143b04e7bff6bedb0ffeef98b4f2d826932523",
   "baseline_ref": "32a9b1adbd15c0e956f5689c448a7c5bdcf891e2",
   "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
-  "candidate_sha256": null,
+  "candidate_path": "working/manuscript-source-enrichment-2026-09-20/sections/s4/SECTION.md",
+  "candidate_commit": "d908662b307a4bf1466cb2449b232405a3880d89",
+  "candidate_blob": "a3b8d2ab6720f62f9c190ad92bf7804d3452d225",
+  "candidate_sha256": "0c0b1da20be705432b1bd6776ace7de9e116c5737260caa258e0b0fa82e55a7f",
+  "candidate_utf8_bytes": 110185,
+  "candidate_body_whitespace_tokens_including_markers": 14113,
+  "candidate_total_whitespace_tokens": 16273,
+  "candidate_note_count": 42,
+  "candidate_complete": true,
   "recovery_complete": false,
-  "connected_pass_complete": false,
-  "whole_section_pass_complete": false,
-  "source_fidelity_review_complete": false,
-  "literary_review_complete": false,
-  "seam_return_complete": false,
-  "blockers": [],
-  "standing": "Authorised model-composed candidate; no authorial acceptance claimed. Continuing the interrupted s4 claim at the user's explicit request."
+  "recovery_scope": "Substantive energetic, whole-event, crossed-zero and complete MEF-pair recovery is incorporated in all six movements. Exhaustive independent closure of every declared or transitive source is not certified; actual visited and unvisited units are recorded in SOURCE-RETURN.md.",
+  "connected_pass_complete": true,
+  "whole_section_pass_complete": true,
+  "source_fidelity_review_complete": true,
+  "literary_review_complete": true,
+  "review_independent": false,
+  "review_method": "Distinct same-model source-fidelity and cold whole-section passes; pre-calibration cold audit, calibrated revision, twelve recorded repairs and final reread.",
+  "seam_return_complete": true,
+  "remote_candidate_blob_verified": true,
+  "remote_packet_inventory_verified_at": "2834845e6ae8c15ba698b9ba4c1f71da4683ba2c",
+  "verified_companion_blobs": {
+    "SOURCE-RETURN.md": "ca5d8f048d64b45b33026974f2249b62448c12dd",
+    "REVIEW.md": "9d2459e64f41ba60eb73b902116b737cc73910af",
+    "SEAM-RETURN.md": "32baef4e6e82a5bb1eb43ab92b2a12b372cf5b8f",
+    "PUBLICATION-OPTIONS.md": "c3db769f8e7f4c3ba3008a092c0df527924a1cf6"
+  },
+  "blockers": [
+    "Exhaustive archive/source-support closure remains incomplete: exact unvisited quilt units, partial long-file ranges and transitive-support gaps are listed in SOURCE-RETURN.md. Do not equate the performed review with full archival closure."
+  ],
+  "publication_debts": [
+    "Inherited primary-edition and quotation collation remains distinct from the source-house and whole-event reads actually performed.",
+    "The optional particular P0 light/AI testimony remains an explicit authorial publication choice; no new autobiographical episode was invented.",
+    "Assembly must reconcile s4 Subjective Internality with the selected s5 entrance's Subjective Immediacy terminology at the owning authority."
+  ],
+  "standing": "Complete authorised model-composed section and performed review/seam return, published only under sections/s4. Not authorially accepted, not independently reviewed, and not a claim that the entire source-audit commission is fully closed. The coordinator owns final whole-manuscript assembly.",
+  "execution_limits": "Connected GitHub contents writes with current blob SHAs; no force push, other-lane edit or assembly. Local text/reference/hash checks ran. No repository checkout, source-resolver/effects closure, repository tests, CI or owner-machine operation is claimed."
 }
