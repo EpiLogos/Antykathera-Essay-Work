@@ -1,0 +1,647 @@
+{
+ "schema": "central.expression-census/v1",
+ "corpus": "aikit",
+ "product": "AIKit",
+ "suite_position": 2,
+ "status": "frozen-census-basis",
+ "admission_disposition": "NOT AN ADMISSION \u2014 no canonical authored-record census exists for this product's Expression corpus yet; this receipt freezes the committed authored-prose surface (all committed .md at HEAD) as the census basis an owner/product lane can admit from. Which records are Expression corpus members is an owner disposition.",
+ "source": {
+  "repo": "EpiLogos/ai-kit",
+  "branch": "techne/agency-mint",
+  "commit": "23dea8563e0c882237ea29adceb88759d8fc8a6f",
+  "hash_note": "sha256 over exact committed blob bytes at HEAD (working tree never read); git_blob_id is the object id"
+ },
+ "record_count": 104,
+ "records": [
+  {
+   "path": ".github/pull_request_template.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "624a266a641eed8bab9e35006b9a7c3165437a37",
+   "sha256": "4cf3081b253a9683a60aed3debef68c91e9177772cf2ae96153cb150958c82e1"
+  },
+  {
+   "path": "AGENTS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4d1ce6f76be7ecc198118acf3bec3afb2ee8d27f",
+   "sha256": "9edca0e55b8184c4c776544abbe5f6df72617d720547fe3b10a66a39cdaee176"
+  },
+  {
+   "path": "CONTEXT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b8195e8b9b8f21b97d07664cd6e783756fd76679",
+   "sha256": "6d051076fe8de037c4c7dae6c8f0eeaad1d0f07cd0c9d32c40d691a2048d31ce"
+  },
+  {
+   "path": "CONTRIBUTING.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "aadf95faed165f51013402a0b06978efa6e5dca1",
+   "sha256": "6ee4ab56693e95e2c0598d635d2aeb64dfa2b73c47bf800477291508dff2fa26"
+  },
+  {
+   "path": "ProjectCentral/user/capability-matrix.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "43b8c1f5e4057e126298c3688b5dcfd2449dea07",
+   "sha256": "c09f161ac7aaa87e5d863d9b626f3ae9fab6d621f6480763a760bd850bc7830c"
+  },
+  {
+   "path": "README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "bacaa81e106dfafc14f9f0bbe46cc18956f2181b",
+   "sha256": "c5404b5ecdc618360cca237011a590c0a247e26412b19458139769809b5b52ef"
+  },
+  {
+   "path": "SECURITY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "09a91a6a137c36545f7bdfc9c1e2d1f535b36698",
+   "sha256": "79fa3b1e3bfb0030a92cfdb70ec980727d02fc460b8482fc34478c1a95567a41"
+  },
+  {
+   "path": "STANDARDS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "af7b88774898e166cda05c59c750007f10a56ad9",
+   "sha256": "ffa6433a87ecad647a22c6ba6300e342688a3ce00ce546f8fe374375ba0de931"
+  },
+  {
+   "path": "contrib/bkmr/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "dfac6380876c9a185b1c250511fd6ac73083c491",
+   "sha256": "dc210916c860c27765e6558a008920aa711a29e3c1c1047ea6ceed64365afaec"
+  },
+  {
+   "path": "contrib/bkmr/UPGRADE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "28902f1135bba924b19edb0b17400770a0c85690",
+   "sha256": "61945990e360e935951f174061671f7c56cf8a0007017af57babfa6741561d4b"
+  },
+  {
+   "path": "contrib/bkmr/capsules/guidance/tools/bkmr/payload/guidance.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4d8e1b316352309848865a3a0d57354301bc9a36",
+   "sha256": "05ff0aece99eb99d56df38edeea29f95adea433774f68eb83cd0ef17a3e9db12"
+  },
+  {
+   "path": "docs/ACP-NATIVE-HARNESS-ACCEPTANCE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "acd56492cd430962f22f3401c6c89acb537152a9",
+   "sha256": "559777a2f074f61048636890c618fdf0e81671da4988f51151ac029ab1996f1c"
+  },
+  {
+   "path": "docs/ACP-REQUIRED-CONTEXT-ADMISSION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0901ce30b62f666f7a2125cea579a45b8727bf25",
+   "sha256": "02a815432ba8384dae128565837a875932182ca88abc13ac2926a4215e4ec6c6"
+  },
+  {
+   "path": "docs/AGENT-HARNESS-INTEGRATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "f216c4a2f590f0fa73aca25cbbd3509a52eb4f66",
+   "sha256": "846a2192e493a2db5076e6ff99af72b41ce10ca37f5924742ceef3f0b1490b80"
+  },
+  {
+   "path": "docs/AIKIT-158-QL-SHAPE-RETURN.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ffef7e776ea931751d79e0b846b596c46c378317",
+   "sha256": "10f2ed6d880d16cafb44f464c49ed908b2078a9ff6615a22d7fe0d571c95e120"
+  },
+  {
+   "path": "docs/ARCHITECTURE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d3c82a0a1a72b13dfad31cd0112c47303c60c51c",
+   "sha256": "9d9072efc6d57cc52857663e2c009be5e8071ae4326f9b58cc10f211a71ea421"
+  },
+  {
+   "path": "docs/DEVELOPMENT-FIELD-SUBSTRATE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "35cb4cf6ffbe60846304e181c91d25f1e38beefa",
+   "sha256": "7f0c9bc9d670930efb8837d0f3f74400a845ab28e96e6ecc744bd9f744bb7538"
+  },
+  {
+   "path": "docs/FLOW.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "cf02757c5e8df18b77ebd2cb817e76cc2b7fc9fb",
+   "sha256": "b78f2b357ef900f7345e0316850fdd271e68e9e03bf758b1409f0d1f6fdc1c65"
+  },
+  {
+   "path": "docs/PI-RPC-CONNECTION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "fb12c149f158aa812dcd8353d25e797bbc4808bb",
+   "sha256": "9c2c1834c4ed57397ac89be6ce3cf47e5ba16ba8bf96a726459e7262bea642d8"
+  },
+  {
+   "path": "docs/PRIOR-ART-ACTIONS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ea0ddb904339ef31fca475532ce3c547cacf59ef",
+   "sha256": "b98cfd0831c5358c1db446cf774145cdae2d657be81dfec63f067f3b4433641b"
+  },
+  {
+   "path": "docs/PRIOR-ART.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a606b4227a591cd55b97a954709628d244f3e3e8",
+   "sha256": "c63cb3dd7584bb8af1c47714bedd1fc8bcef0309387b791451f13c5dd1d011e4"
+  },
+  {
+   "path": "docs/ROUTINE-INVOCATION-EVIDENCE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ac301e4bbd65d1d286a7a7a53026fae1e7d7a769",
+   "sha256": "c672e3d15d61cdf3147bb3875d05194b1afa1b551b68fb0d93dea7286aef3ad3"
+  },
+  {
+   "path": "docs/SKILLS-ECOSYSTEM.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "24ef2c69bfde26dc924d142bb4c282483f5f20be",
+   "sha256": "83e17da2a7042a468846e084703972318c77576f944aa0e047d7d7df64e3b3b1"
+  },
+  {
+   "path": "docs/SPEC-II-PROCEDURES-AND-INBOX.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1c724b668a30c111ed56b9aae5d82ddddf3dbe74",
+   "sha256": "f0c4d83fa0af58a0202ece2e5150ae94ff679d094476ff1f13b80287d00e0f11"
+  },
+  {
+   "path": "docs/SPEC-III-SKILLSETS-AND-FRECENCY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ec80537b64b659bcb815de92574afb5bb43066e2",
+   "sha256": "67ba57775469612c9c6c3bf4061f7202dd7beb9fff1aa4f0baf3978edc2d7cb7"
+  },
+  {
+   "path": "docs/USING-AIKIT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "cc8bc13e6c38332506d0e57a7a4dcc3c7b154eb6",
+   "sha256": "bb8dbc510273393ad993cec5510588e93edcff1f996c526c5944f3cab9063621"
+  },
+  {
+   "path": "docs/adr/0001-project-identity-and-bindings.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c489878eb6d50f38ffed3732b931e0b26d2988d3",
+   "sha256": "861b09c7c370f4d7a6fedd13c350ed0c9244c35bd1a8da7d9cacadfea831a838"
+  },
+  {
+   "path": "docs/adr/0002-managed-skill-sources-and-project-routing.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "103034b98cfcf8f58dcd4dfe306b9df36d3ccc1d",
+   "sha256": "da389e6c24b25549d8467165da608ca14f9184e1111ae5aa63dc4ae6fc65f390"
+  },
+  {
+   "path": "docs/adr/0003-user-baselines-and-skill-usage-overlays.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8b1b15b67c8560fa21e6dda574d0a70f0d41ac69",
+   "sha256": "8d62cf74f61b90bcf2d8b413cc65d7dc5fc4a3132c55fa3158785d934a426290"
+  },
+  {
+   "path": "docs/adr/0004-scope-neutral-composition-body.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "bd30a612be5d5db0882777dc44d141fade3bcd6a",
+   "sha256": "9f7280e74f5eab56dea644a4c37fd9481869a3b39d9f3c163ee692214ae5f500"
+  },
+  {
+   "path": "docs/adr/0005-harness-model-routing-portal-and-alias-families.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "189e2a7a592e88dcea411d80c3b8b2a2df632e3a",
+   "sha256": "940a0fb0c841848c17bb7a9556a1d47769b14b61b100f605c5a34adeb1f76e02"
+  },
+  {
+   "path": "docs/encounter-runtime.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3b5bf0490e87485035e54502bd3e9a810c151dec",
+   "sha256": "da506b56fb1cbf5b9f710c5c6b0b517c109fece511219860cc9caa075ec9348d"
+  },
+  {
+   "path": "docs/implementation/ACP-MODEL-CONFIGURATION-VALIDATION-2026-09-14.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "113bf195024d56360571b4342e8460878a1efd72",
+   "sha256": "b4dd715806a00c321c87955d052eab5d9342ae81838a733095d4d64fc8b55535"
+  },
+  {
+   "path": "docs/implementation/CAW-MODEL-DISPATCH.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5d33b7de3a2df6d4aa6ee52db761197de06be0dd",
+   "sha256": "3db1687c08076fc862d5b29d7874e924bcb8ae403de1cb1cb7aa73e3f77baafa"
+  },
+  {
+   "path": "docs/implementation/CAW-NATIVE-DELIVERY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "cf03d2c32ca53bf773e8890fc8ea51e8ec91b182",
+   "sha256": "40fbd80fa4782b5794e0ac68db8e3234fcfdd009a1457a593a6510c173fcf4de"
+  },
+  {
+   "path": "docs/implementation/CAW-TASK-DISPATCH.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "f35dc35ed9769036169e0df290fc274c77b5c5b9",
+   "sha256": "f502720f1b8b9f56f3e75d854e821bc05c5ce6dddaf9bce32c180a2100682a7f"
+  },
+  {
+   "path": "docs/implementation/CENTRAL-ROOT-CONTEXT-REPAIR.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "75bc882c397b47d5b16fbd0ca068b873914e2dce",
+   "sha256": "0f15727b6fc71d304aa6bb6bc82c123acae2401111d5f12b0ed814c7d23b4e19"
+  },
+  {
+   "path": "docs/integrations/bkmr.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "911dc55a61b2698e9fc9234360767052099db74d",
+   "sha256": "a510d333e8a44916551e441ac95aaaef3875a91a86b28bb2af696b779587c0b8"
+  },
+  {
+   "path": "docs/integrations/history/bkmr-pre-central.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "74ffb1464f61137a6eb1652fae5d66c87b30f5a4",
+   "sha256": "edfbf79a19c16af127a6dbc1df96e421364b7129b66065a748b9f9d297a0f9fe"
+  },
+  {
+   "path": "docs/plans/2026-07-28-unified-tmux-surface-design.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "7f154a4d290d329aa527ae1505a603c23e53c702",
+   "sha256": "c623f9a4afbb50600161aa8cd847c54eaaa3f8cda28f73fb86fc5cad556b7304"
+  },
+  {
+   "path": "docs/plans/2026-07-28-unified-tmux-surface.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "f2d63765dfee5960d220b6f18d054e02ba03ccc4",
+   "sha256": "74b73b0b5eb687e7c081f8d0837c185b76a66dc4a6f87418967367ed398e95aa"
+  },
+  {
+   "path": "docs/plans/2026-07-30-production-integrations.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "50a2df6f2fd9d2effc9574fdd3cd665324a6314c",
+   "sha256": "1141ab20c3149a82e63b7746721a46b720204915d297ab8d5e2cbc6a58b5c20a"
+  },
+  {
+   "path": "docs/plans/2026-08-04-user-baseline-skill-usage-overlays.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "26d0b9782f330c5d7ca67d33dd0a5e7d47e3a992",
+   "sha256": "7b5825c1d4090fbfd2f412a62d81b94a99a44bdc2ec17d037483650fa9b33804"
+  },
+  {
+   "path": "docs/plans/2026-09-16-harness-profile-design.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b2479c420f4e61719a1d2c0910718759f53ea250",
+   "sha256": "7ab4c369f1ffc00e462e29e4240764fa746cf5915b2fc78616b642cf5f4ca903"
+  },
+  {
+   "path": "docs/plans/2026-09-16-harness-profiles-plan.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "791156ffa3ca0852e99865012fe61693b690a113",
+   "sha256": "0a10e2927181a4338efbabf002ff636808ccff5053c959152334568ce6ce28ed"
+  },
+  {
+   "path": "docs/secret-refs.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "455f6c1c49735b690c40cf7d12e73aa9161fe25f",
+   "sha256": "98d62bf90a38c30fc00e4388ab47d3aeb3565fa484cf573bb015e438d6b10274"
+  },
+  {
+   "path": "docs/superpowers/specs/2026-07-24-general-skillset-and-show-layer-design.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "fd76e5a1f44292fa713af55ba5e5f410f30b85b4",
+   "sha256": "7cf092368e47939c4b00b44c3d48b5a467c6c35699ff1174ad5be9ed00152868"
+  },
+  {
+   "path": "docs/superpowers/specs/2026-09-04-engineering-ground-seed-design.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9b398370ea59d9d9c8ac6601fed778264352085a",
+   "sha256": "991810c67d49d55de49d47cb11d6489973ee857fbdcbb6c554137b25c70e1359"
+  },
+  {
+   "path": "docs/v2/01-PRODUCT-AND-OWNERSHIP.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4b0c3e84c7ebf4b935c98df2d4dca4b94ca4e0df",
+   "sha256": "b7d10d42e8a061c2c8c382f1d25e66611521c94f5d360c9ac448cf0229cd58ba"
+  },
+  {
+   "path": "docs/v2/02-RESOLUTION-AND-CONTEXT-COGNITION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1c42dbea75e9c9f98a3e0074f482db7f031c0401",
+   "sha256": "b3eff370b93a0320d57e0b5997e1f01d4750120fccb47691977c6bf9a23e8b1f"
+  },
+  {
+   "path": "docs/v2/03-ACTOR-RUNTIME-AND-PROJECTION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ee4ed45dbfa94f0292e5c4f78a4f80154f391dae",
+   "sha256": "c6d8626b7519552a384de243384cce001a8ba59280f5ca9c2ecce560b45c8799"
+  },
+  {
+   "path": "docs/v2/04-INTERFACES-TUI-AND-SOFTWARE-DESIGN.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0477e791a89b75841aa5c9adc3765d8c2dc3624f",
+   "sha256": "edbd2847c2b7206f0f37a34e53027c6de5020982abb25746597d143e631b160e"
+  },
+  {
+   "path": "docs/v2/05-QL-INTEGRATION-AND-RUNTIME.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4ada813bc0496f41f873112684a6aee64cbadca0",
+   "sha256": "251013b9ee050d8a3c42ecfb6430a7183e651b3018aa37f13a89acae49e171f8"
+  },
+  {
+   "path": "docs/v2/06-NEIGHBOURS-AND-MIGRATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2185a397fbbd4b777a5d86fbae4d40ffbd717bdd",
+   "sha256": "9341645e38e58a7eae07cf4bf8ae234bce26f605ee71f68faec24ca02eb7c86c"
+  },
+  {
+   "path": "docs/v2/07-DEVELOPMENT-AND-ACCEPTANCE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8e51dc68af63a4907f60640752a837b31d2342e0",
+   "sha256": "2580f39724e35039094378a3a39b60ad2c043e25bf978b157aa28df0a7cae797"
+  },
+  {
+   "path": "docs/v2/08-VERIFICATION-RUNS-AND-CLOSURE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c29df7ac6b5172f9d620058701ef4e9aa15ed3d8",
+   "sha256": "2ada915e1f411ac5a4402344e46d6490ecc8e1c6627755c607dd2673e3e4e161"
+  },
+  {
+   "path": "docs/v2/09-COMPOSABLE-RUNTIME-ENVIRONMENTS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b942f51c14da58ed2ff78dcb537eb1381abf5dde",
+   "sha256": "0cf6b63abb7573d4f4f0e4a326da8c7489ff9cd34dec3886cafcf050b97a851b"
+  },
+  {
+   "path": "docs/v2/10-PERSISTENT-AGENCY-AND-MATERIAL-HOSTING.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "275942aa71ec03934f23aa154827591564585f60",
+   "sha256": "ac80c87a3a0e609d1542a57b3e8307d40e2b83fafe9c2894851b8f12f1142d77"
+  },
+  {
+   "path": "docs/v2/11-MIGRATION-CLOSURE-LEDGER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a3a606832cc3cf786ae4414b82c7a76009c02668",
+   "sha256": "c9ff05fe04693735bee6112191954c3dcd446b748991bb08fe6b172a2954a0fb"
+  },
+  {
+   "path": "docs/v2/12-PRELOCAL-ACCEPTANCE-EVIDENCE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4a881839968b7de69d30560f2dd3ec1ef50953cc",
+   "sha256": "b9675bd9f9a826b157e268d4929c880e715a6eeb459deedb4de4e13ba5c1dc1e"
+  },
+  {
+   "path": "docs/v2/13-COMPOSITION-CONNECTION-TUI-CONVERGENCE-EVIDENCE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3e4ddae351ea74f901c0570bf1e5a3753c6952cc",
+   "sha256": "c98708f6606a03ec35f462db578a0e7a06032eee76b0e4ac8f512dfd3248ab3e"
+  },
+  {
+   "path": "docs/v2/13-WORKING-ENVIRONMENT-PROVIDERS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1e0f636cc4304d644601baf99ccb745b53dea176",
+   "sha256": "61257117aad1330c90559614ea8b27b16f30f7fbdc450322c00cf672e77acba0"
+  },
+  {
+   "path": "docs/v2/14-SESSIONSPACE-FIRST-PARTY-CIRCUIT-EVIDENCE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4ba89aa6b4379e2a232a5a52f51437e29af4f1a4",
+   "sha256": "8573e167089ef2a890c49602d1dcd4af2c34021f2f699b095a2378b68bece425"
+  },
+  {
+   "path": "docs/v2/15-MODEL-ROSTER-CAPABILITY-FIT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e0d249411287c952d5f9c726b817f52d1146b9ae",
+   "sha256": "36033f60a806f35f57d2d40b7193e48878999b940ae55b5f4d1a7ce89d62884c"
+  },
+  {
+   "path": "docs/v2/16-provider-connection-conformance.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "fdd5246a185c11a7292d9e6cd59ee9fba02e389f",
+   "sha256": "b8828292a6680e715dd421ff3522d2e4b374b1e1c758482f4b140d70651402ce"
+  },
+  {
+   "path": "docs/v2/17-TUI-V2-DOMAIN-PARITY-AUDIT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "cbbf0b33388ac7144fc221d608642cdae21e054c",
+   "sha256": "c529f4c3e57c55540102f2645c79e27e14caacef14c27ac97e0d26c32935c43e"
+  },
+  {
+   "path": "docs/v2/18-PROFILE-COMPOSITION-APPLICATION-PARITY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "7e970f8e1e6eab8faa25e596232a5aa4d81d9527",
+   "sha256": "7c607c2a922c1f31c9ce30778d9f2983cb49c755d539709b3f4329d58bccc755"
+  },
+  {
+   "path": "docs/v2/19-COMPOSITION-CONVERGENCE-REPAIR.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1a289ff61fc2a5c560e61ef72b2db56e3d84bc1f",
+   "sha256": "724f52f62a5d0e4165aad2fc25deeb8c62264536656d4979bab024917841655e"
+  },
+  {
+   "path": "docs/v2/20-PRAXIS-METHODS-AND-SKILL-COMPOSITION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c3e1cabe98c510a86bc8cd49379afea3d15877c1",
+   "sha256": "3b1226ad3e257c5eb14e496ffcf6af24c5cda38d8b70b3e5d850fafbc048aa24"
+  },
+  {
+   "path": "docs/v2/21-PROJECT-REFLECTION-AND-LOCAL-ARTICULATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a5bffa72b99e8a7b27de90f4d5d17c7dd9273abe",
+   "sha256": "15d0d3912b3cdb128d1141182500aac438fdb6e85c1d5f17866aba1f1c633303"
+  },
+  {
+   "path": "docs/v2/22-PROJECT-PRAXIS-REFLECTION-ACCEPTANCE-EVIDENCE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3bda903bdc961860bd9989f6e66a046bd36ca7e8",
+   "sha256": "a63499c75c720b7398525f2abb3d5567a019955280e5ea86859edc9286e1775d"
+  },
+  {
+   "path": "docs/v2/23-TUI-HUMAN-EXPERIENCE-SPEC.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0ada933fd589058d21b480bd262e38dbd8d9ec0f",
+   "sha256": "d4ca214893eb0159a3d04d943226ce619846982717113f5d108bbfdb00d41b16"
+  },
+  {
+   "path": "docs/v2/24-MODEL-MODALITY-AND-REALTIME-SURFACES.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "86a6e9803958fe34e67f352ea8af4f72c2f238bd",
+   "sha256": "5d3afd9b3a69db7c06a5ea69d7de75920b8aa69e9b2b6656f9d63adcd717b542"
+  },
+  {
+   "path": "docs/v2/HARNESS-ADMISSION-AND-ADAPTER-SDK.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "53685080997334e7cdba3a2f5402bb4f2a4cb880",
+   "sha256": "98cef1822921cfe0744d7be0198362eb5187cb811295ebebd119866e41a8f8be"
+  },
+  {
+   "path": "docs/v2/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1afb9294125cdb8c2da58d3c31429032daed46e4",
+   "sha256": "802883413a3cec952058c862e68f306e1d97e650377f60a0ea615cf2633b5aad"
+  },
+  {
+   "path": "docs/v2/VISUAL-PRODUCT-UNDERSTANDING.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "49a6f32948d9ef9d445481226955de09ab1459ea",
+   "sha256": "4ba410a83bdb5cd9f4dc7c7cfd55120d747e1b72d093ccd234858d48cf2a6b4c"
+  },
+  {
+   "path": "examples/alias-families/agents/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9172ce592c448694cfb21b1d25961d7e26ad39e9",
+   "sha256": "8a9bc77bc82c6cdf39960bbfc468d42d347735687cfac5ad94fb525aa6e3bbf4"
+  },
+  {
+   "path": "examples/registry/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e7118840a4fc7ccdfb373df6277a2aac73f15cba",
+   "sha256": "f5c5a4aeb6f0a6bb00d2be03224fc46e04d70ae4df5d10244d4ebd3aafa57e7f"
+  },
+  {
+   "path": "examples/registry/capsules/guidance/research/deep-research/payload/guidance.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "faaabd250aa3fb176b68fc59d72e1d359f294496",
+   "sha256": "fa8ec5001c1b5ba4d84c9f55b015cd90c7edd8f689d3692a304cce5c04e9a2ce"
+  },
+  {
+   "path": "examples/registry/capsules/skill/rust/rust-review/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "77c0b8160eaa0b6d2ec87e909ba700d73a7bb3ce",
+   "sha256": "6cd4aec364b93acd0ed685cd1bf5e7a103818f8cea40e8b45c66ab300c4de2f4"
+  },
+  {
+   "path": "examples/registry/capsules/skill/rust/rust-review/payload/references/checklist.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e23b060ced7f0072bdc751015c2bcc8db7e66d24",
+   "sha256": "450a42edc8a5f5e75d42023f8358032a73912680301db5092d9bb00d30dfc663"
+  },
+  {
+   "path": "examples/registry/capsules/skill/rust/unsafe-audit/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5fa5de7afaa515e1e6e689c269d4ad523e2ae87f",
+   "sha256": "64cf520b71ea0ad7691edd8f4683e04981656868e16708ad738ac5f3d4e5f47f"
+  },
+  {
+   "path": "registry/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "dc47216a09666b10cb0d08ae275ad7f2a7b44c79",
+   "sha256": "77d7b2c62b182219ee48df71ba1e6586c803dd5d6f9cc31c79268cd654ec1e5d"
+  },
+  {
+   "path": "registry/capsules/guidance/aikit/living-project-collaboration/payload/guidance.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5d02c1b7930ec69e1ca2d0e929b6be488cf1cf38",
+   "sha256": "d8635e9bdead5491476871e0fa8f4461ba3b1d8fcfca02366f30290a2775644d"
+  },
+  {
+   "path": "registry/capsules/guidance/aikit/world-situated-agency/payload/guidance.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2873ccacf9ac9a1bb03a37047ab9da8d5b6f7598",
+   "sha256": "3f478dfd4e69a3c5f8740c5b6a0737ddc0d9cdf9473452e7d5fecc3131e99bc0"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/component-surface-authoring/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9a2312974cd8816c947e2cb90856c3f53af4c20d",
+   "sha256": "fcf1b4133dddd17b9f49407c1761cb32b6de64a567e20ffa4ddeae59ceb08944"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/experience-campaign/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "296fc87e3612e3d4ac168b19d48d008bb8bf9a46",
+   "sha256": "8e1bd8146bfedaf539505f01af68b98de4af21b2ad1d66f6dc7f46bfe76fab8a"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/harness-adapter-authoring/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9335c89743fd393c7dd45e716c3aef8050ccf729",
+   "sha256": "bdf84e716b4c9292672a9f253abc50f36d71b09341ea106f8e994dd95b9b684c"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/html-account/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0fcb9a6eeeb0b9731e3b9edde76803a578c693b8",
+   "sha256": "858158d10d1ddb94cb6c5206b5ff4f62ec9dd76206f08f59061b2ba362fa8246"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/knowledge-navigation/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "f33f3cacd429ff5b079812f8229cf5beeeb434f6",
+   "sha256": "0fe78458d609055ea55d82e7b725cc3d71026465a28973b7def38404d884b8ca"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/meta-harness-craft/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "85f8921d122ad9bbc8659f8de82a2faec7211540",
+   "sha256": "771b916760175c9ba5f360149661e10c60bcbb853be3a11f95a44515277d6a0e"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/operation/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2ee656c0073e54214ab0f973d85566559549858d",
+   "sha256": "5e92005d4c024705e58b2bdef84163ed049009f5577927a2902c2a0ca6bb1b58"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/product-understanding/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a3bb2774e9699d360e52944b8ad6859d2e7c83b0",
+   "sha256": "ad5f7d8d123b64dae6b19dc952d3bdfe61826768e1879ecf6e7f445ff492fde6"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/profile-skillset/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c985f89465d1d6d9d4b535c2c4dc948d4f613354",
+   "sha256": "e058ed0383895628ff31d6d89c3b52976e1e038c82af9b136e1d9acf36d1d952"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/projection-authoring/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "cc94c42f664cf2ab6c91b997c723062c96cc6e72",
+   "sha256": "7f199e5d2540d28c48f4bc9d52abebe333fd56f63b349787c392c1fc017c0331"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/provider-authoring/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0026da61212f8d762094bab225f62eb0e8eb5ee3",
+   "sha256": "9d66b3d54f455d92aba95addc4ff4b0d3979c4066b04a1318af5b3d0fe0f18eb"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/runtime-operation/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b4f1b8793d43f11a3ad1ade7e2587772450c9c3a",
+   "sha256": "eb30eae59c265cf4a1d07f87bfb4610d55a3a4abe0af6ecdc84dcc0ae5c2f88f"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/session-space/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d2140dfa4d645aaee99e8c6589bd961de34ba665",
+   "sha256": "7b9d544b57cc6153fcd87d0b047f45a1e5652a032ae0846ca53efcb3546bdbae"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/skill-authoring/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "de20af5168df06772e388e5b29a2ed9e4b97f89b",
+   "sha256": "a1215a560f5f218ee1239aad63d452fc51b62ab25de262259887a4d0ff59b9f6"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/skill-authoring/payload/references/instruction-architecture-review.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "de03f6c4ed3520e830a1dfa04e628c2a56046213",
+   "sha256": "1c0ec18a04b9c77df8e6fdf3859187c170d31a4037e9870142acfda9c7e8ab84"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/structured-account-authoring/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d969b1bd96b13177ae77fa18843addd1b8fc7201",
+   "sha256": "1ad0935b76c546b826c1c8ad64926068cc10ab79caaa2d9dc0e54bd8f8cc66a6"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/verification/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "35e696996a12f43b67986fcceec0b964b7c947a2",
+   "sha256": "061c5a99243acb77f5eb9cc1069dc3b18e3e816a2660c76acec0f6410d106d72"
+  },
+  {
+   "path": "registry/capsules/skill/aikit/wiki-inhabitation/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "752eb2e29a967ddb6a253d72a985c693fc03fc46",
+   "sha256": "72aecdaa60ab6b38961edf9e78a46f69067c44ce698ccc2e1e75a9f162968287"
+  },
+  {
+   "path": "registry/fixtures/minimal-authored-skill/payload/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "903755975170d2f4431af5c248b50135cc427f53",
+   "sha256": "d2c3f902c950021d644e4fda1c4e242aade5214221a2d420b86401e3f3eb89f6"
+  }
+ ],
+ "working_tree": {
+  "dirty_entries": 12,
+  "note": "the checkout carries active owner/agent lanes \u2014 untouched, not frozen, not counted as records"
+ },
+ "generator": "working/expression-corpus/build-p1-census.py",
+ "generated": "2026-09-21"
+}
