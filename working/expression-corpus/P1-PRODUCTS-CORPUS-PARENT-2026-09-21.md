@@ -152,3 +152,105 @@ disposition can be made record-by-record.
 - Antykathera-Essay-Work branch `corpus/p1-products-parent-20260921` (off `f2dcfc2`) —
   this report, the census generator, 8 receipts.
 - Discussion return: O-I#65 comment with the corpus-by-corpus table.
+
+---
+
+## 7. CORRECTION (2026-09-21, appended after owner verification) — the S register IS the product-field admission
+
+This file is a receipt, so the original text above stands unedited and this correction
+appends. **The pass's central negative claim was wrong.** Section 2's honesty rule 1
+("No canonical authored-record census exists for any product's Expression corpus") and
+section 4's "Blocker named honestly, not invented" paragraph both asserted that the five/six
+product corpora have no canonical authored-record census or admission disposition. They do.
+The products' authored admission is the **S register of the Return-of-Zero essay corpus**,
+and it was already frozen, covered and shipped when this pass was written.
+
+### What the S register is (verified against the bytes, 2026-09-21)
+
+Seven authored census records under register `episteme`, canonical home
+`submission-package/essay/symbolon/episteme/products/`:
+
+| Record | Type | Movement | MEF pair | Canonical home |
+|---|---|---|---|---|
+| `S` | product-field | — | — | `S-World-and-Life.md` (front-matter `members: [S0, S1, S2, S3, S4, S5]`) |
+| `S0` | product | 37 | L0 Quaternal / L5′ Divine Logos | `S0-Central.md` |
+| `S1` | product | 38 | L1 Causal / L4′ Scientific | `S1-Actuation.md` |
+| `S2` | product | 39 | L2 Logical / L3′ Chronological | `S2-AIKit.md` |
+| `S3` | product | 40 | L3 Processual / L2′ Alchemical-Elemental | `S3-Software-Factory.md` |
+| `S4` | product | 41 | L4 Phenomenological / L1′ Phenomenal | `S4-Workcell.md` |
+| `S5` | product | 42 | L5 Para Vāk / L0′ Archetypal-Numerical | `S5-Quaternal-Logic.md` |
+
+Each carries `claim_status: Argued`, `register: episteme`, `product_parent: S`, dated
+`source_ids` (the adopted commission, the native theorem, the O:I source projection, the
+twelve-lens compilation), the product-local `A/C` constitution (S0/P0–P5 … S5/P0–P5),
+`argument_relations` and `concept_relations` into the 36A/36A′/64C field, and the §5
+movement assignment. Refinement standing is precise and varies: `S` and `S1` are
+"T25 developed"; `S0`, `S2`, `S3`, `S4`, `S5` are "T25 reconstituted" (authorised
+reconstitution after loss of the original transfer payload, not byte-identity claims).
+All are pending T26 ratification — the admission is canonical census standing, not
+manuscript-final prose.
+
+Evidence chain, each verified 2026-09-21:
+
+1. **T25 census membership.** `working/pre-manuscript-refinement-2026-09-10/T25-current-census-acceptance.json`
+   (the frozen 288-record acceptance) admits `S` and `S0`–`S5` under register `episteme`
+   with their canonical homes and sha256 values; all seven were re-hashed against the
+   actual bytes at Antykathera-Essay-Work `origin/main` `7d96ada2` and match exactly.
+2. **E0 coverage.** `production/return-of-zero/episteme/roz-s-products.journey.json`
+   (Point-Cloud-Demo) covers the S register as the `roz-s-products` journey, 7 scenes.
+3. **Native collection membership.** O-I commit `0b18c11b` (PR #452) committed
+   `desktop/cradle/expressions-app/collections/return-of-zero/episteme/roz-s-products.journey.json`
+   + cover as native collection members. (Note: the owner's convergence checkout is on a
+   different line, so the file is not on that working disk — it is in the committed tree,
+   verified via git objects.)
+4. **Canonical product field.** O-I `docs/CANONICAL-PRODUCT-FIELD.md` (on `origin/main`)
+   names the six products; the S records' product offices (Central S0, Actuation S1,
+   AIKit S2, Software Factory S3, Workcell S4, Quaternal Logic S5) match it.
+
+### What the census-basis receipts actually are
+
+The `P1-census-{central,actuation,aikit,factory,workcell,quaternal-logic}.json` receipts
+(61/157/104/230/30/148 records) are **candidate material inventories** — hash-verified
+lists of a product's committed authored-prose surface that the corpus can be produced
+*from*. What they lacked was not an admission for their corpus; it was their **provenance
+connection to the S coordinates**: which admitted product office the material belongs
+under, and which of the product's own records express that office's named task. That
+connection is now made: see section 8 and the `S0`–`S5` production receipts named there.
+
+### Restated production plan: seeded from S0–S5
+
+Each product corpus is **seeded from its S record**. The S record names the product's
+office, its paired lenses, its argument/concept relations and its local A/C constitution;
+the product's material inventory binds *under* that coordinate. Wave 1 of that seeding
+landed in Point-Cloud-Demo `production/s-products/` (branch `corpus/s-products-wave1-20260921`):
+one whole-first journey per product, scene path = the S record's own #0 → #5→0 movement
+structure, every scene binding its S record (path + sha256 at `7d96ada2`) plus one
+public-identical record from the product's frozen inventory. Per-product receipts:
+`working/expression-corpus/P1-S-products-wave1-2026-09-21.md`. Full corpus depth (the
+whole inventory as scenes per product) remains the following fan-out — wave-1 is not
+corpus-complete.
+
+### What this correction does not change
+
+- The receipts' hash work stands: every frozen record hash re-verified against git object
+  bytes at the recorded commits (this correction re-verified all 36 wave-bound records the
+  same way, plus public-identity against each repo's `origin/main` — 36/36 byte-identical;
+  ai-kit `README.md` had drifted on main and was replaced in the wave selection by
+  `docs/v2/01-PRODUCT-AND-OWNERSHIP.md`, which is public-identical).
+- Section 3 (Epii wave-1), the Bimba verified-existing finding and the O:I
+  complete-and-out-of-scope finding are unaffected.
+- The caution that dirty working trees were never read or frozen stands; ownership and
+  T26 ratification questions also stand — admitting corpus *content* is the S register's
+  work; ratifying its *standing* remains the owner's.
+
+## 8. Wave 1 of the S-seeded products corpus (2026-09-21)
+
+Landed: Point-Cloud-Demo branch `corpus/s-products-wave1-20260921`, namespace
+`production/s-products/` (README with root law, `s-products-corpus-base` + six per-product
+family profiles, six bindings, six journeys, six real-engine covers). Six artifacts,
+36 scenes, 36 material records bound (+7 S-register records bound in every scene of their
+journey). Gates executed per artifact: `validate.mjs` VALID, `importDocuments` via
+`scripts/production-inventory.ts` (4 namespaces, disjoint), covers via `capture.mjs`
+(real renderer, SwiftShader, first-scene path — shared capture defect #2 stands unpatched).
+Full detail, gate transcripts and per-product remainder estimates:
+`P1-S-products-wave1-2026-09-21.md`.
