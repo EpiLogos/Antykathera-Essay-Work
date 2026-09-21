@@ -2,7 +2,7 @@
   "key": "s3",
   "owner": "s3-source-enrichment-2026-09-20-connected-session",
   "resumed": "2026-09-21",
-  "state": "recovering",
+  "state": "drafting",
   "baseline_blob": "741228ed81f782dba0584616ef546b3db0a48be9",
   "baseline_ref": "b8f368326a341b68a4ad8bda3c808030d105cbf1",
   "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
@@ -15,5 +15,5 @@
   "seam_return_complete": false,
   "whole_manuscript_pass_complete": false,
   "blockers": [],
-  "execution_note": "Resuming the existing lane and preserved SOURCE-RETURN checkpoint. Repository content remains accessible through connected GitHub. Disposable clone failed DNS resolution; declared source links will be traversed with connector reads, not treated as unavailable."
+  "execution_note": "Complete core and declared native supports recovered; constructive findings preserved in SOURCE-RETURN and RECOVERY-SUPPLEMENT-2026-09-21. Baseline M24/M31 seams read. Composing the complete six-movement candidate while final source-lineage coverage remains explicitly open; no ready or authorial-acceptance claim."
 }
