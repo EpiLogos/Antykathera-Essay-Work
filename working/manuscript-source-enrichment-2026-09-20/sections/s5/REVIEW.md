@@ -1,0 +1,83 @@
+# s5 — Source, technical and literary review
+
+Candidate: `SECTION.md`, M37–M42. Source pin: `26e42cbbbaa795ecc7dcc480a10c40393f5a8352`. Baseline blob: `427c7d92e35e125145a06f1ed695ee27f7d372ff`. Fidelity review: `832b994cef9480cdfa0abbb08bc01af9fdee068e`, s5 review blob `76d0aa65486cabb97c8edd4b4fd3197590f73480`.
+
+Standing: section-level candidate ready for coordinator assembly and authorial judgment, with the explicit source/publication limits below. These were separate source, technical and literary passes by the drafting agent in the same context. They are **not independent review**, and no whole-manuscript pass is claimed.
+
+## 1. What was actually done
+
+The preserved `SOURCE-RETURN.md` is the source-before-composition reconstruction, not a retrospectively invented reading list. `SOURCE-RETURN-CONTINUATION.md` was committed at `b103ab86c194ee272163af0425e6205104e6ad93` before this continuation composed its section. It distinguishes inherited full readings from the continuation's actual reopened ranges, inaccessible raw bytes and new public verification.
+
+The complete first connected draft was written before this review. Its body was retained locally as `SECTION.connected-draft.md`; the first combined draft with notes has SHA-256 `ff4edf29de072b43dc7815fe5490e069d241aeff6cfb1b937188aecf31f8b737`. The audit then restated the claim/dependency map and logged faults without rewriting them. Revision followed the source and comparative checks. The complete resulting section was reread for the cumulative movement and rechecked at every changed passage.
+
+The candidate's remote commit is `ba240c276b9aa5aa18bee0f774c336af941484b9`. Reading it back returned Git blob `34d7f0680a5fd6686eea5a7a5fec1fcc24541721`, exactly matching the blob computed from the reviewed local bytes. The local SHA-256 is `170fcaec0d942bc1aadb38017cb900b8a815bd5be7075f90ae7c53e1a3ba6ab1`; its length is 107,893 UTF-8 bytes. No remote prose change intervened between that byte check and this review.
+
+## 2. Measurement and structural checks
+
+The baseline's original recorded body count is **9,281**; its witness is `SOURCE-RETURN.md` §1 and the original review receipt. This continuation did not recalculate that count from newly acquired raw baseline bytes. The candidate is **12,086**, an increase of **2,805 / 30.22%** against the recorded baseline. The count is whitespace-separated tokens after removing HTML anchors/comments, note calls and note definitions; headings and the displayed mathematics remain in the counted body. Expansion serves recovered operations, not a target of doubling the manuscript.
+
+Checks passed: exactly M37–M42 in order; 15 unique anchors; 51 unique note definitions, every definition called and every call defined; no s50 opening or neighbouring scaffold; no placeholder/TODO prose. The original 47 note identities survive, and four public-source notes were added. Lane-relative source links were rebased four levels upward; this is not a claim that every linked public endpoint was independently re-fetched during the final byte check.
+
+## 3. Source-fidelity review
+
+The six facets remain wholes of one O:I. The complete S and S0–S5 constitutions, A/C, the native theorem, C39/C41, paired-lens reading, M37–M42 and their P1 material determine the account. Primitives have been recomposed around what their relations make possible; a compact table, repository census or product slogan has not replaced the constitutive field. The source recovery also retains the actual longer write-ups, Phone material, mature argument/conjugate bodies and source-specific myth houses; their coverage and selected ranges are recorded there rather than promoted here into a new claim of universal rereading.
+
+| Receiving passage | Recovered relation carried by the prose | Standing protected |
+|---|---|---|
+| Entrance; `s5-m37-central` | Knower/means/known; objective-internal constitution; idealist dependence; authored/observed/inferred ground; source selection, adoption and next-act use; Quaternal × Divine Logos | Life is not the aggregate of six products; local Bimba remains source-dependent in its containing history |
+| `s5-m38-actuation`, `s5-m38-preference-gauge`, `s5-m38-model-control` | Inferential alternatives and selection; vikalpa/saṃkalpa; operative measure; additive gauge/reference-policy distinction; model artifact through situated agency; Causal × Scientific | Distribution, conceptual exclusion, tool action and phenomenal cognition are different operations; the adopted Scientific sequence is preserved |
+| `s5-m38-institutional-case`, `s5-m38-relational-logos` | Operational records, categories, powers, work and return; A29's horizontal labour/vertical recombination; person and address; co-presence | Generic AIP capacity is not an asserted OPTICA deployment; disagreement is not automatically error or permission to overwrite another participant |
+| `s5-m39-aikit` | Full capability horizon, context resolution/application, provenance, earned competence and portable learning; Logical × Chronological | Saved, selected, transmitted, acknowledged and observed use remain different; package format is not fitness or authority |
+| `s5-m40-factory`, `s5-m40-pledge` | General Projecthood, creative desire, resistance, gate/recognition, returned commission and finite completion; Processual × Alchemical | The complete Homeric action survives; no payment or healed marriage is invented; narrative truth is not passed off as an engineering experiment |
+| `s5-m41-workcell`, `s5-m41-encounter` | Demand/offer/plan/realisation; material resistance and recovery; positive human experience and recognitive purpose; Phenomenological × Phenomenal | Lost response and absent effect differ; human transformation does not establish machine phenomenal localisation |
+| `s5-m42-ql-mef`, `s5-m42-containing-relation`, `s5-m42-self-application` | Positive dia/syn; four-plus-two generation, both parents, eight determinations, distinct 3:3/4:2 readings; psychoid number/meaning; recursive primitives, six complete complementary-index pairs and parent S; actual changed manuscript | QL slash forms are not ordinary division by zero; native X/x is not Pauli's notation; source/design/experiment/deployment remain distinct |
+
+The original fidelity report's three substantive findings are addressed by their actual section identities, not invented machine IDs. **§2, political investigation:** M38 now follows a named NHS/OPTICA setting and distinguishes model access, platform organisation, commissioning, staff labour and powers of change. M39–M42 develop custody of learning, responsibility, material availability and the containing question. **§3, lived origin:** the complete P3 attestation and recognitive reasoning were recovered; the argument is in the main section, while exact testimony and a new first-person candidate are returned separately for publication judgment. **§4, self-application:** M42 points to actual changes in this manuscript, including the source-checked five-to-seven retry correction, rather than treating a protocol's existence as proof that it governed the next act.
+
+The original Library transcript is `Pasted markdown(5).md`, file `file_000000001774820aa4abebf6ef0516a2`, version 1. Its user correction and the inherited assistant's five-layer sentence were verified against the indexed content, not inferred from a title. A literal find returned no matches, but scoped content search recovered the exact passage; the failed find was not treated as absence. The expected raw-file digest remains inherited identity information, not a newly calculated checksum. The raw-byte limitation does not imply that the indexed text was unreadable.
+
+## 4. Contemporary evidence and its limits
+
+Hashimoto's first-person account supplies an actual learned practice, not a population estimate. PydanticAI's current primary documentation supplies seven retry layers and their differing budgets/model visibility. Its distinction between fallback and repetition is material to the argument and to this manuscript's demonstrated correction. Agent Skills, Anthropic's research-system report and AlphaEvolve support their specified format or bounded developer-reported operations; none certifies universal multi-agent superiority or unconstrained recursive improvement.
+
+The NHS portal and ICHP's 17 December 2025 implementation account supply the operational setting and remaining access/data/interoperability difficulties. Palantir's own Ontology and BYOM documentation supplies the generic architecture and model-registration boundary. The Financial Times correction about the three bidding groups corroborates only the successful consortium's identity; it is not used as technical documentation or a contract interpretation. No numerical discharge benefit is promoted into an independently established causal result.
+
+The current NHS FAQ re-fetch returned a human-verification page; further attempted explainer URLs were inaccessible. Although the preserved recovery records an earlier fuller reading, this candidate does not convert that record into a newly verified legal opinion about current IP or exit clauses. Custody and portability of learned operations are analysed explicitly, while the exact contractual allocation remains unadjudicated. This is a bounded institutional investigation, **not a completed contract audit**. The imagined patient disagreement is declared analytic, and no clinical incident, model used by OPTICA or decision about a real patient is fabricated.
+
+US and Chinese July 2025 plans are identified as dated programmes, not achieved outcomes, national character or a ranking. CDAO's first-party announcement supports the named awards and stated workflow-development purpose, not spending or particular military effects. DeepSeek's model card is used for the identified artifact's licence distinction, not as shorthand for operational independence. The case does not assign motives or a policy verdict to any named actor.
+
+## 5. Technical review
+
+The common finite logit shift leaves softmax unchanged; rescaling by temperature generally does not. Under positive reference support and fixed positive beta, changing the reference policy is not the same gauge operation as adding a context-dependent constant to reward. These distinctions were checked algebraically; a numerical shifted-logit example was also executed. The displayed Euler quotient was checked at six real angles; its denominator has unit magnitude for real delta. A fixed exponential is a point, while variation of the angle traverses the circle.
+
+Those mathematical checks do not constitute tests of an O:I implementation. Constitutional S/P addresses, local recursive dot addresses and the MEF's Lk/L(5−k)′ pairs retain distinct offices. The adopted Scientific sequence is Prompts/Traces/Challenges/Patterns/Discovery/Insight. The eight traversal determinations are not eight products. Native four-plus-two, the 3:3 passes and the 4:2 reading are not silently interchanged. Generic model-hosting capacity, a materialisation plan, actual execution, observed use and accepted return remain distinct.
+
+Homer's scene retains the materially active agents, divergent witnesses, marriage-gift demand, adulterer's fine, contingent pledge and release. Pauli's seven pictures retain spontaneous versus conscious division, the already-held blue egg, two identical mathematical rows, conjugate quotient, spoken recognition and circle. Aion's recipe, attracting reversal and conscious return were restored from the full narrative source; no inspection of the page-259 diagram, sixfold Jung notation or established nuclear mechanism is claimed.
+
+## 6. Literary audit and actual repairs
+
+The complete draft was audited with calibration cold. The comparative/negation gate was read, and F1–F9 fault calibration was consulted only after logging the specific flags below. No authentic-voice exemplar or whole style corpus was used to generate the argument. The same-context review limitation remains explicit.
+
+| Location / fault | Draft phrase or gap | Revision |
+|---|---|---|
+| Entrance / term continuity | “knower, means and known” loses inherited naming | Restored pramātṛ/pramāṇa/prameya once, without adding a glossary |
+| M37 / F2 | “They do not prescribe six boxes…” | Replaced an unnamed foil with the changed purpose/source/participant/return relation |
+| M38 / F9 | “The earlier record of frontier-company defence partnerships…” | Replaced receipt talk with named awards, their stated purpose and their evidence boundary |
+| M38 / source relation | NHS and Palantir paragraphs were merely adjacent | Made the supplier relation explicit and separately sourced |
+| M40 / F2, F8 | Denial that a tool executes metaphysical stages by naming them | Restated what community integration and satisfaction require of the finished work |
+| M40 / warrant boundary | “another kind of proof” | Distinguished the myth's truth-bearing operation from the section's use of evidential proof |
+| M42 / F4, F9 | Positive dia/syn absent before seed enumeration | Added their actual distinction-preserving/co-bearing operations and a consequence in the continuing example |
+| M42 / F3, F9 | “Something is gathered and worked through…” | Recovered the sea-creature preparation, eyewash, Echeneis/magnet reversal and differentiated conscious return |
+| M42 / F5 | A receipt's report of transcript unavailability interrupts the prose | Replaced it with the changed writing instruction and the actual source-to-prose effect |
+
+The strict comparative-pattern sweep returns six candidate paragraphs. All were reviewed semantically: line 37, adoption versus source/output (**operational distinction**); line 99, coordinated institutional work versus a model answer (**claim boundary**); line 147, working competence versus exported files (**operational distinction**); line 221, material availability versus a common display (**operational distinction**); line 231, relative transcendence versus an exterior final observer (**formal/constitutive limit**); line 280, changed containing frame versus a new value inside it (**operational distinction**). Ordinary negative/comparative wording was also read in context: 111 instances of “not” occur in 81 paragraphs flagged by the broader candidate sweep. Counts are signals, not verdicts. The source notes and quoted attestation were protected from stylistic normalisation; they retain necessary attribution and evidence boundaries.
+
+The whole-section pass followed the return, rather than polishing six independent pieces. The screen/undertaking entrance returns as the ability to accept a finite completion. The correction acquires successive depths: inherited ground, articulated judgment, usable method, changed commission, situated consequence, containing relation. The institutional example likewise changes office at every return. Hashimoto's regained attention connects to Factory's satisfaction, while the recognitive purpose connects Workcell to the changed desire in M42. The substantive mathematical and mythic passages retain enough duration to perform their operations.
+
+A deliberate remaining pressure is the density of exact boundaries in M38 and M42. Many distinguish things the original source work specifically required this section not to conflate. The coordinator may reduce repetition against completed neighbouring sections, especially the Pauli/Aion reprises; removing the distinctions themselves would reverse the repair. Literary readiness here is a reasoned section-level judgment, not a claim that the author has accepted every sentence.
+
+## 7. Open matters and release
+
+Selected-edition collation remains scoped in the Dyczkowski, Jung, Jung–Pauli and Gebser notes. No new direct quotation, unratified symbolic coordinate or scientific mechanism was created to bypass those debts. Personal first-person publication requires the separate judgment in `PUBLICATION-OPTIONS.md`. Current NHS contractual/IP/exit detail is not adjudicated. Proposed experiments and native architectural intentions are not reported as deployed successes.
+
+The completed section, source reconstruction, publication choice, technical/literary review and seam return are deposited only in this lane. No baseline, central plan, neighbouring section, main manuscript or other product repository was changed. The branch-relative contents writes used the documented route; existing STATUS updates used the read blob SHA. Candidate remote identity is verified. STATUS is to be marked ready only after these supporting artifacts have been deposited and read back. Whole-manuscript assembly and final accumulated review remain the coordinator's work.
