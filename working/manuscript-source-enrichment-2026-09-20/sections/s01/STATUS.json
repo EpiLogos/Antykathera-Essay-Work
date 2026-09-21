@@ -1,22 +1,78 @@
 {
   "key": "s01",
   "owner": "s01-source-enrichment-session-2026-09-20",
-  "resume": "User-requested continuation on 2026-09-21; existing source checkpoint retained and being completed.",
-  "state": "recovering",
+  "resume": "User-requested continuation on 2026-09-21; complete candidate, source reconstruction, candidate reviews and reciprocal seam return published.",
+  "state": "blocked",
   "branch": "codex/manuscript-source-enrichment-2026-09-20",
+  "section_path": "working/manuscript-source-enrichment-2026-09-20/sections/s01/",
   "baseline_path": "working/manuscript-source-enrichment-2026-09-20/baseline/s01.md",
   "baseline_blob": "8d62eaf658201336010252b39fb43db3fa544e22",
   "baseline_ref": "94cea9bf3064594555f46e3d2010d003a1752ad6",
+  "baseline_sha256": "35cdb8ef50ee1be190434ab0e2bce358436ef95f5a18f094e3313d4abc35649d",
+  "baseline_body_words": 5063,
   "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
   "fidelity_pin": "832b994cef9480cdfa0abbb08bc01af9fdee068e",
-  "candidate_sha256": null,
+  "candidate_path": "SECTION.md",
+  "candidate_prose_commit": "066c25fa34019891bb85ca47b3dbe8ff115ca8b1",
+  "candidate_blob": "d7ec90b574262bc136251cb5f0883e73fe4da19b",
+  "candidate_sha256": "689acf1bf3ee3ccac46fdc9835a45d4bbf10b4b2c6a70c98fdd95983b13f0688",
+  "candidate_bytes": 48266,
+  "candidate_body_words": 6134,
+  "body_count_method": "Take text before ## Notes; remove HTML comments, Markdown headings and footnote reference tokens; count whitespace-separated tokens.",
+  "movement_markers": ["M01", "M02", "M03", "M04", "M05", "M06"],
+  "notes": 24,
+  "integrity_checks": {
+    "baseline_git_blob_matches_selected_input": true,
+    "remote_candidate_blob_matches_reviewed_local_bytes": true,
+    "ordered_unique_movement_markers": true,
+    "all_note_references_resolve": true,
+    "unused_or_duplicate_note_definitions": false
+  },
+  "candidate_complete": true,
   "recovery_complete": false,
-  "connected_pass_complete": false,
-  "section_pass_complete": false,
-  "source_review_complete": false,
-  "literary_review_complete": false,
-  "seam_return_complete": false,
+  "pivotal_original_subject_formula_authenticated": false,
+  "pivotal_operation_restored": false,
+  "connected_pass_complete": true,
+  "section_pass_complete": true,
+  "source_review_complete": true,
+  "source_review_scope": "Separate same-agent review of the complete candidate against recovered evidence; full source-recovery gate failed and explicitly retained.",
+  "source_fidelity_gate_passed": false,
+  "literary_review_complete": true,
+  "seam_return_complete": true,
   "independent_review": false,
-  "blockers": [],
-  "standing": "Authorised model-composed revision candidate; no authorial acceptance. Recovery continuing; exact Subject-worded formulation is not yet authenticated."
+  "calibration_cold_review": false,
+  "whole_manuscript_pass_complete": false,
+  "authorial_acceptance": false,
+  "ready_for_whole_pass": false,
+  "delivered_files": [
+    "SECTION.md",
+    "SOURCE-RETURN.md",
+    "RECOVERY-ADDENDUM.md",
+    "REVIEW.md",
+    "SEAM-RETURN.md",
+    "STATUS.json"
+  ],
+  "source_return_commit": "3a77d249bd0f800f5b9a977f55c93b9a61455e94",
+  "recovery_addendum_commit": "04a0386b03dc304771cce05950d7bd9e56413439",
+  "review_commit": "478206d98a72003413eb1462aebecf893b5cf0c9",
+  "seam_return_commit": "1c8a089fc8344f3949a0fa8ff19e25494384e225",
+  "verified_neighbour_candidates": {
+    "s0": "0b6ee55ad6ba927eeccfc77fdef29dd84abed4fb",
+    "s50": "5a5d6272b8bc6bd39bb5ebec2f1d02e56ba5eafa"
+  },
+  "blockers": [
+    {
+      "id": "s01-B01",
+      "kind": "pivotal_textual_recovery",
+      "detail": "The exact original Subject-worded defining proposition and its later correction have not been authenticated. SECTION uses an explicitly disclosed new adaptation and separately preserves the recovered God-worded formula. This is not evidence that the requested original is absent or unavailable."
+    },
+    {
+      "id": "s01-B02",
+      "kind": "mandatory_reading_incomplete",
+      "detail": "Complete canonical file-three-quilting and the remaining required raw/quilt, Paper/NOTES, central-plan/ratification, movement/concept/conjugate and whole-field routes are unfinished. SOURCE-RETURN and RECOVERY-ADDENDUM record the exact actual frontier. The obligation remains with this lane, not the coordinator."
+    }
+  ],
+  "write_route": "Connected GitHub contents API; explicit shared branch; current blob SHA for updates; new paths for creates; no force or main writes.",
+  "native_execution": "No native effects-map or repository tests run. Container Git failed to resolve github.com; connected GitHub reads and writes succeeded.",
+  "standing": "Authorised model-composed revision candidate with actual complete prose and reviews; full commissioned source recovery remains incomplete. Not ready for promotion or authorial acceptance."
 }
