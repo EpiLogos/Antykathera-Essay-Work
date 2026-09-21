@@ -1,0 +1,1403 @@
+{
+ "schema": "central.expression-census/v1",
+ "corpus": "factory",
+ "product": "Software Factory",
+ "suite_position": 3,
+ "status": "frozen-census-basis",
+ "admission_disposition": "NOT AN ADMISSION \u2014 no canonical authored-record census exists for this product's Expression corpus yet; this receipt freezes the committed authored-prose surface (all committed .md at HEAD) as the census basis an owner/product lane can admit from. Which records are Expression corpus members is an owner disposition.",
+ "source": {
+  "repo": "EpiLogos/Factory",
+  "branch": "techne/telemetry-watch-compare-settings",
+  "commit": "fbabaaad39490b135bc7c66244a5c0ad767171e1",
+  "hash_note": "sha256 over exact committed blob bytes at HEAD (working tree never read); git_blob_id is the object id"
+ },
+ "record_count": 230,
+ "records": [
+  {
+   "path": "ProjectCentral/user/capability-matrix.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "956f61d1b57089e5a24a38f3f2b5f5458a699630",
+   "sha256": "88935ba7a2df18411729629b9669c4bf4cf0e1712fb2b807ed29924843ade869"
+  },
+  {
+   "path": "README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e31d03a2339797f05543cc8792a22b82bcf1f45a",
+   "sha256": "a404dbbd3e89d9c4748532462faf12f1ff897e57755abba460f35871d06464bd"
+  },
+  {
+   "path": "agents/factory-mode/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0474f7ab10c2819590b99bc23c6e0d5d7972aacb",
+   "sha256": "3ed42e0065dfac493683779bc71d07a574d5d8f6b41d60f4712a7fc94f93b0b5"
+  },
+  {
+   "path": "agents/factory-mode/intent.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "7441ed9e2cc8a84893668384660f1e815ee67aed",
+   "sha256": "503302cb32862ed88bc4dcbfd987a2fe59550abe6b75c4a86b8d4490957cef7d"
+  },
+  {
+   "path": "docs/CAW-NATIVE-ATTEMPT-OPERATIONS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "eb94323a6268e5caa0593ef4ceac49be1b8b7d63",
+   "sha256": "39c74612b84980dc95e35b1c8ec5471a8e3144eb967bb62d5cd05be11d754a88"
+  },
+  {
+   "path": "docs/CI-COVERAGE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d0c48ea336798393ac6ec260a08b99f3d4be783e",
+   "sha256": "64ee201be143cc62cf9238bf0c99dcdacfcd1a32827559b9cf144e985f71205a"
+  },
+  {
+   "path": "docs/GUI-SSSF-SOURCE-FIDELITY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3941db22c7bfb3923f1da4beb02842c6a26b626a",
+   "sha256": "dab3e3d5263a2651de4d694b5ca617e8ed0a5cd3644f6b3bb72d3c50e0c86591"
+  },
+  {
+   "path": "docs/PLACE-PLACEMENT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "88b81eb7f977fee63c709b2f3d3657389368179b",
+   "sha256": "18a593ff4115c69da1aa1a5b43637ac286b8c05a84f8b2f979ab476c98cf0703"
+  },
+  {
+   "path": "docs/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "abd951d931d903305fab5d6f83fe367d1fc799de",
+   "sha256": "ee50c368de5b567eef57557610dc7b287203dcc8f9e2e8b45fe6f4c94445141a"
+  },
+  {
+   "path": "docs/RUN-THOUGHT-CONSUMPTION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "7b62da9eec7eb59cb6f5ceae7991563828acd7ee",
+   "sha256": "6b8df624942b6b8daf78d6d494346b03c12c4e5bec9009a3fcf681631d570080"
+  },
+  {
+   "path": "docs/canon/ACTUATION-INTEGRATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "230d7239cebb1b53fcebc9b9fe9019e29c5e9f9f",
+   "sha256": "5f9ce0aecd58f2b043889ca7ba86eb629dace183da125e00d0bf678c48fdded3"
+  },
+  {
+   "path": "docs/canon/AGENT-CAPABILITY-INTAKE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e7b2d5a464bd6d61a72d60cd3fa2db07f2aa7117",
+   "sha256": "06fb53ea74c4a88d31c2291daa5b1a44b402b76e91445b08f324923b7e3c4c9d"
+  },
+  {
+   "path": "docs/canon/EXECUTION-INTELLIGENCE-INTEGRATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4f4982fa4d4f14428096a37244d5f23df0c3d73e",
+   "sha256": "e0e33ce5245a524290ebb4df46005216cf33574ae19a0607777e22b7c64c29b6"
+  },
+  {
+   "path": "docs/canon/FACTORY-SELF-HOSTING-COMMISSION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "f16706640f5b58cb5c13553f9597e927e9df9027",
+   "sha256": "6f143e9f2591537766fad001cfb32c3d0bab9e55dc15025f2f3295d944b16523"
+  },
+  {
+   "path": "docs/canon/PERSISTENT-AGENCY-MATERIAL-HOSTING-ALIGNMENT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "31f1fe76ff507a971cb1cc6fb571adc1610d53c9",
+   "sha256": "a9728b0e9ef89ca58e308a649e3c908874d1812bbdbac06f9d84c0ecd3e441fe"
+  },
+  {
+   "path": "docs/canon/PRAXIS-PRIMITIVES.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b70be7e2576c1fb11fa19f12d4ac2829032fa9e7",
+   "sha256": "f9e4f73dc7b2d7b27ab057924d5d688bb3ca6e17fbf54e766ef3602034b3cea2"
+  },
+  {
+   "path": "docs/canon/PROJECT-ACCOUNT-PROJECTION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6a59e2ea62e8746011e866286de193c636a20a1d",
+   "sha256": "56f56a7f24dea6f7a99943bf7183a7a4caa5ca9ebddebbeb889417f61044ad37"
+  },
+  {
+   "path": "docs/canon/PROJECT-DEVELOPMENT-ORIENTATION-AND-RETURN.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1c949f91f9dc21a967a4495e0c20ab5c8c35ef1c",
+   "sha256": "d466e11554cfc0a350c20fe31fdbf0938bd6e8fb3915a98305929eebc8ea3a72"
+  },
+  {
+   "path": "docs/canon/QL-MEF-RUNTIME-REFRACTION-INTENT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c9a6b41f55b278487794251e6a4f0b2f7296cf26",
+   "sha256": "5b7285693b5a7b41aeb13e4d16f0b55d08f26c682c43d33ab5dc1ef5f6ccaa82"
+  },
+  {
+   "path": "docs/canon/QL-SOFTWARE-FACTORY-ARCHITECTURE-SPEC.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "fbb52325dbc95eac8fa7974184c6ab6352fbe621",
+   "sha256": "19df9c24ee0554413fe61123570b37e1b6a4cd87727d07ef872a1355de13a463"
+  },
+  {
+   "path": "docs/canon/QL-SOFTWARE-FACTORY-CONSTITUTIONAL-INDEX.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "f89ea36b9c83556f4ae43c5a7e16008a8ac4165f",
+   "sha256": "8e5c627a375899a3797e9f4d349f0b913ecd6c985bdbace66edba9d4312b46fc"
+  },
+  {
+   "path": "docs/canon/QL-SOFTWARE-FACTORY-DEEP-QL-INTEGRATION-FOUNDATIONS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5e4ba28204ef2c52a1fc4d1413f576b922ed5ac2",
+   "sha256": "b2de0c173decdf1e50ae54da53365192adbec003dd7ec9e8ad049f8b5e3d2fb1"
+  },
+  {
+   "path": "docs/canon/QL-SOFTWARE-FACTORY-PRIMITIVE-RELATIONS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9c326df712320fdbae9c83d0ff2b9bcc3ad9f00a",
+   "sha256": "171fc11e1fecc1ce20e9bcbef036fbce2aaa606208ab2ba6636707908358b773"
+  },
+  {
+   "path": "docs/canon/QL-SOFTWARE-FACTORY-WORKCELL-MODULE-SPEC.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "98990f93d24b66a38e2d7707eeaad31d6cfa5883",
+   "sha256": "58aa147b9ec7cd5d6f303e66ffd32519721a3e9c667d82b0ed3acbac30ba73ab"
+  },
+  {
+   "path": "docs/canon/ROUTINE-JOURNEY-CONTINUATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "465e554a2a429d06e52c9535a7d2476096ba7579",
+   "sha256": "cb960e139934bf9a111d615f09c9264d28aee87304469a6356f3e619732da1cf"
+  },
+  {
+   "path": "docs/canon/RUN-CLOSURE-VERIFICATION-ALIGNMENT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8ec0e5e409bb7dc318cd30e568645ac4d3e9c8ad",
+   "sha256": "147d749de60c13a57c0300268ec85ab3c5d21aa0643fa0b92edd8a9ca11f5b1f"
+  },
+  {
+   "path": "docs/canon/STRUCTURAL-SOURCE-FIDELITY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "f8683a21c185d3dd3147562de368d1d6ad941273",
+   "sha256": "a4030d769b61caaa32484c872b94d281aedd76a1a29abe95c38c0e7ccb0c9796"
+  },
+  {
+   "path": "docs/canon/VISUAL-PRODUCT-UNDERSTANDING.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c13f90d30dd8b8dde4552ef6a3ce50026a6a950f",
+   "sha256": "cc7e64885080ac56783ae98032e56d30a09bf6cf746c0fc721788313b7b601d3"
+  },
+  {
+   "path": "docs/canon/WORKCELL-PRODUCT-REPOSITORY-BOUNDARY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4bafc76f25a1d97c74bfd2bf786aa2a023b3d065",
+   "sha256": "c6b5bbab4ddfbbb666cfb52bf22c99adeebde886731c1303c72ff5817a4477d5"
+  },
+  {
+   "path": "docs/canon/ql-mef-module/00-REPOSITORY-OWNERSHIP.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5035afb63881d517e64883aed4c87243087e4047",
+   "sha256": "a8341d02d1f8bc84da37605d0c904371884eda8daf69799cbec327972b625c9b"
+  },
+  {
+   "path": "docs/canon/ql-mef-module/01-CONSTITUTION-AND-PRIMITIVES.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a5f5782917941158c38b0a412bcb83e0080de2b4",
+   "sha256": "cd01cc4c64143593809d0c1a7075002ad58399a58ebe15869a9c695aa9fd5fab"
+  },
+  {
+   "path": "docs/canon/ql-mef-module/02-PROVIDER-AND-SERVICE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b992e52c4f69993bf304229157fe27c964b90ac9",
+   "sha256": "648e0909d2db3ab7fcadb44c4923ae59d421cbd7887bb6f1df81c6a77d125601"
+  },
+  {
+   "path": "docs/canon/ql-mef-module/03-MEF-MANIFOLD.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "abf6569597a7d45efd642411b8064488da9d1951",
+   "sha256": "8cfbfe041c5f84c77d57b13168d0fafebd46d1625633a115837d4190a95db139"
+  },
+  {
+   "path": "docs/canon/ql-mef-module/04-MEF-BECOMING.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "36b564915c9b5df2e96a8e74cd56dea9a4499c35",
+   "sha256": "6b43190ca00976b4c65f43b6e151d4e3577667ae6e71a339dca8acf91101f454"
+  },
+  {
+   "path": "docs/canon/ql-mef-module/05-OBJECTIVE-INTERNALITY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3dabdac3b53c19ccf6c0b7fbf1068407e9d1b951",
+   "sha256": "2e9276ba718fb701f271a8350a921dd5c19a74df5e02885c211582aae67aa663"
+  },
+  {
+   "path": "docs/canon/ql-mef-module/06-CLIENTS-AGENTS-AND-EXTENSIONS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "54b5f847d813edec77e60008a67a98eacce4a2c2",
+   "sha256": "bfff8430833ff37c955774e51b8410a6c30a21f40f55a3f6110b6379e0ae9fe1"
+  },
+  {
+   "path": "docs/canon/ql-mef-module/07-IMPLEMENTATION-AND-LANGUAGE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c413a74d5ab7d10a2ee2559f569693a44b2bdd6e",
+   "sha256": "b7eaa76030b8c0c9cd5361931329bbca552821d4c8f74da508d1bdf87420fd82"
+  },
+  {
+   "path": "docs/canon/ql-mef-module/08-DEVELOPMENT-PROGRAMME.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "20b0bb3a1e13725017418939dba6e3a7862e8405",
+   "sha256": "a5657244130aa7c8edd9b5adb91e91c100ce540babb0515442c3257e3d640c66"
+  },
+  {
+   "path": "docs/canon/ql-mef-module/09-ACCEPTANCE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a94fc9ca3721c1e517456ca5a329d3f74a05c33d",
+   "sha256": "02575badbfd54233da7619fee56fb89ed36b2e049f6931ae8f46caf818257c69"
+  },
+  {
+   "path": "docs/canon/ql-mef-module/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "99c5b804ebf0a0da34d4702ec47694d5ab38866b",
+   "sha256": "704b747f9f65d6c41a8e508392d50b599cdb1ccb30ff07d85305a3c0304a578f"
+  },
+  {
+   "path": "docs/canon/wayfinders/01-SEMANTIC-CORE-RUN-SPINE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e12df9d1ba7133a1c4cc948bf7e14655afff87e4",
+   "sha256": "128dd95ecbf5cc4d4d486fce3401496a4f62136feb1900464d9c62500ae9ddd4"
+  },
+  {
+   "path": "docs/canon/wayfinders/02-PROJECT-WORLD.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "dd9dde65545a8bbb9d24784728f6030e890ebd31",
+   "sha256": "93e92ff9e4b1275b713e6d822283bff1a7a51f7085871213aefc681c80e499ed"
+  },
+  {
+   "path": "docs/canon/wayfinders/03-AGENTIC-EXECUTION-BODY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5a03896f9c00d110615aab3ec371aa1ba9950664",
+   "sha256": "8be6c8466a55e4a8347eed6eee41800bb65b1a8b31d496150a206e68bad492a1"
+  },
+  {
+   "path": "docs/program/BOUNDED-AGENCY-FOUNDATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9ee67f0fd39eb203e816f1ec4579329272111cf1",
+   "sha256": "7c60a396d862e14c90a2ffe20fb61106f4ae91f7dd3da76fe4f8a23bd9b4aec1"
+  },
+  {
+   "path": "docs/program/COORDINATED-BUILD-EXECUTION-PROGRAMME-2026-08-13.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9b9040e6f4e2f7e0b73b76e0840fc1057684a91b",
+   "sha256": "6c8b23fa6668e5178a9f1884fc741419aea371bba5b62c96aa0c3b7f74b892f9"
+  },
+  {
+   "path": "docs/program/EXECUTION-INTELLIGENCE-BUILD-AMENDMENT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "582d7fb3e81bf60e48b257455e354214fb52fb3f",
+   "sha256": "98e95763d363596c82a87c017d9b266966bbab9ea4e391305d6f14995da27c8d"
+  },
+  {
+   "path": "docs/program/QL-SOFTWARE-FACTORY-ROOT-BUILD-PROGRAM.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ecc08fe0d75f76c890d9ff6b0e2ca8db1d7912ac",
+   "sha256": "d3705ef26d2ab2f7a347df5d4a69913462f3cefb12f9cf8a9a6c2b6a39443d55"
+  },
+  {
+   "path": "docs/program/WORKCELL-REPOSITORY-HANDOFF.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "346d1622ba1780b3c909788c9a8b4c70da708723",
+   "sha256": "51866dbbe94e78f3908ad34435f5ea9e46ba82aad7a94ccdcfae4d3130c4d9d9"
+  },
+  {
+   "path": "docs/pstack-reduction/core-semantic-review.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4143ae3441a86293e422469996c124ee878ee7b0",
+   "sha256": "926e2d12916c8ca0f1e5e06b4917d81e6d74696fa88caecccaa2cb6bb5ab3db4"
+  },
+  {
+   "path": "docs/pstack-reduction/edge-accounting.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "cf906cc7ae309a0263bb0e9069bcdb514e473d32",
+   "sha256": "55f155c2dc575bec8b7461a14f4e3b0644eaceefbba56add57b2ec6d435f8c9c"
+  },
+  {
+   "path": "docs/pstack-reduction/source-accounting.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "78eee1a4919a8567261b74d250d3f268e1fda8c5",
+   "sha256": "7fe346a22259c810ec2e77b9d26db71746ed3379bc6c3233be45be996fcc3de6"
+  },
+  {
+   "path": "docs/pstack-reduction/support-prompt-map.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "58ebba3a2d0ecc7cdc16e2320ed904b983848edc",
+   "sha256": "4e3e9b2c2ca446b9c47e70def372b45da8a4831a5f8036c997b324796a1ce5c8"
+  },
+  {
+   "path": "docs/research/graph-engineering/RAW-EXTRACTION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6d33fe7d583eedd482f5545e2c33a61eb4f2d7c1",
+   "sha256": "186c3984188429a9150ab024566221558543368077dc43d738bd3e7ab2465417"
+  },
+  {
+   "path": "docs/research/graph-engineering/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "66fa72148f90c9ded3fb17404b1b2427c6df4c56",
+   "sha256": "bda1cf5cc5b9059f11b8f4c315db95808f7e6c76950f3d632884fee32c16682d"
+  },
+  {
+   "path": "factory-ui/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4466a026c7603120723dbd20f1e448125639f931",
+   "sha256": "9bbeb40a9dc8136130304e4043cc54f2a635abfada1425d224d9e13118540214"
+  },
+  {
+   "path": "factory-ui/THIRD_PARTY_NOTICES.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1f6682ef1babe4d3cdfd70283a90bdd6f2e63bc0",
+   "sha256": "fa3dcd8323a079a969aa1e6d7c78ecced60b1c41c950f34c71918f31157f2d24"
+  },
+  {
+   "path": "factory-ui/docs/SSSF-SOURCE-FIDELITY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "7c4fa38067f15d25b16be879ae0a30023110cd85",
+   "sha256": "690fd21765d510973da87019c6a83beb4ac91cad21c7e12015b4a6e88b96b966"
+  },
+  {
+   "path": "factory/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6d89f9f12a4753345973657506bb4653964c30cf",
+   "sha256": "26895b46d80806280d3c00a901ffb040b099d1c0a884a76fb5ab18c0e3c18eec"
+  },
+  {
+   "path": "factory/tests/support/configuration-schemas/PROVENANCE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9f15f258a3a39b2d8f1a3cc67ff33cf9b3a5357d",
+   "sha256": "8f345c4976cb4ca0245b07b48e9f6b5e8b1e4cc8bdc566800c4ca227609f0a06"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/commands/install.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "80b7e0a727bd634b2076fa681b79ea811ea0267e",
+   "sha256": "42a4350980c4df9f200dc38caeee816b7ca9fe47863832caf243402b18e0a1e4"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/commands/prime.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b14ec66d651fba355bad3bce9c434cea76f04279",
+   "sha256": "669a3839ac058636d248a1c7bf33d0cb98a74fe07dfd2e3f19a547bbc9353033"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/herdr/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "85c645fe7588546fd238f822a6b7205b5579d63b",
+   "sha256": "2cbc42c766228ef33773d8dae98192818458a5179272ad5ab68079022eddc83c"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/herdr/cookbooks/live-config-reload.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "13958be81b37fda67dd9bf626734664a28e8da1a",
+   "sha256": "0b951a30b047d50ad7dbab98c82731b502a3c413a3d9c2a2a6093be9b5d8cbc0"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/herdr/cookbooks/setup-disable-network-checks.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2bcea956b1cb7c91260be4169d2690a1c0380d20",
+   "sha256": "0eec725a0b9f83ace16569e48ac86168960d5a8498651575bb1735e14ff922ce"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/herdr/references/command-reference.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "dc4d8aa1ac14125c5aaabcec1f882c75eb897367",
+   "sha256": "29d69fb3923dee0489470950ea6fcf1f63b4fcb0c086e708f025f151bb375308"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sandbox-exe-dev/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8f7ec5e8f2ec7e0d3ef3ca988a11b3c248d9a468",
+   "sha256": "61bd9644ca4327c5321479fb12fabe5d2db426aea42ab17c48990b8f9baa0fc3"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sandbox-exe-dev/cookbook/browser.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3aab952d55053f5c41a485f76c47f0406b263f45",
+   "sha256": "6da1433c89b2e27261cf274036f7f63590b489accabdc71e984a2bbcfbe346cf"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sandbox-exe-dev/cookbook/fleet.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "15d86abf2a4f4aceba3a7856cc37f7f1346b8726",
+   "sha256": "16f017e63ee2a3bcf2a68f973678d1f085c10d23f31920a81296cc69bc6401cc"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sandbox-exe-dev/examples/01_quickstart.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "47fdd0fb3e0968e50f189475ad8811474afc2aec",
+   "sha256": "adeaaf054eab28c7feaa3b733826c35271d859f393b2c8f864f11814c37ae10a"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sandbox-exe-dev/exedev_cli/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ae8ca4b7ab3c7af8e2b6669443c4385d18331363",
+   "sha256": "cc1be2857b9fc146bd3959cf617b1f90d27842c9eb37510fe76508e1ef65258a"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf-sandbox-orchestrator/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e00a130d325330acb2140578254e5d72c981fde8",
+   "sha256": "7955d349f08e6095cb6520125a823d5b1fcc8c486173638b2a960f0d35151d82"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf-sandbox-orchestrator/cookbooks/access_a_running_sandbox.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "22edb3b83e3fd52bd7f7a1a4818791bd472bf4e5",
+   "sha256": "b0963bbc3402ee2fab37ae98bbdb9ff14590afb9ba6baa782b5554f5ea94a64e"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf-sandbox-orchestrator/cookbooks/debug_a_failed_gate.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9e7d1dbda366d313c40c2cf6fa4c25d8feb95878",
+   "sha256": "53067f2605bb93f12e885f351ab7a4dfca3b4f17ffc9a2c135bf222fd6184b68"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf-sandbox-orchestrator/cookbooks/execute_work.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "02d98ea7c1ccbefc26bafe13d100fe83b1151612",
+   "sha256": "7fe574368b7d60330c309e6f499181b2b63a78dcff73641d7906c8b9793d774b"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf-sandbox-orchestrator/cookbooks/fan_out_n.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e93aa68ebd0fe6879d84e25c70e37641777afb14",
+   "sha256": "2cb31131f23f3a5eea78d47cfb09fa558c29e7db8e6b7c0722a5fb4895fe28c8"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf-sandbox-orchestrator/cookbooks/just_command_model.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2b2a64cc7a2d06a935f9588cbaa67c2138005f91",
+   "sha256": "50306760516dbf43bc814fbd748461a28b3a6830284eae430fbb97f97f300a6a"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf-sandbox-orchestrator/cookbooks/mount_one.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "40c954d78f5ce97075256d19f2d6f5eb0cb5197c",
+   "sha256": "ceaa21f2f476c9619f590bc83ae0e5f98b680293d2a95eb6e12b7f47768da72f"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf-sandbox-orchestrator/cookbooks/observe_and_report.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "cd7babfc97a748246bc1dab61faac3a57a0e6d33",
+   "sha256": "631b6aa4385148c6d7b19842c7ab42745c659d0cbd1c0984877e357de555730c"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf-sandbox-orchestrator/cookbooks/teardown_and_reap.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "62c4c86652fb882714fb5afde01d0ace7f085a64",
+   "sha256": "258a5305826e41f1f8ea83e7edda94a49de773698ff2ba4bc0674f98cf708369"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf-sandbox-orchestrator/references/gotchas.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "42f8d1ced6dc319e2b8f69fad87a72bda1487fe6",
+   "sha256": "a00d0bdc1a6d89cbfdec6d547860b1b6f7b1cae5b2bbc0da42e306964f9b6a77"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf-sandbox-orchestrator/references/kickoff_paths.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "745fd3e002add8f7746525bec02f55eefd37615d",
+   "sha256": "f6ee061ac094fe6a1f03153129065f662003e3b183bae3c2863929cc67be50f0"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf-sandbox-orchestrator/references/models.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3fd3aa805279c2a9c12d554af5bf9cf1fb1fa74c",
+   "sha256": "056e0b0b268c3dcfad001a6322fe82b1fb5e271af8c38220e50f69f1e3ed9c61"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf-sandbox-orchestrator/references/phases.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ade5a20f94bd81382a9e6d9fe2f948a654c7012b",
+   "sha256": "33954d100b26d12829d8d08ca4417e3b00e84c508b5492bf35a9bdad9f84d930"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf-sandbox-orchestrator/references/run_record.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6cb955c0bdcf3b91bd8fd60acf9a4c9466a711cf",
+   "sha256": "308492ec90883030eb8bcee75c079911a7f029bc140c5fcffb9ef38bebe86ba7"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "49bee2b26e15f8a20b1e526ca828f764dcfed60b",
+   "sha256": "2674bb79e9ad76130cefbef02dd53b5e3837c35f15fba36cff8f3303b0519862"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/cookbooks/create_adw.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "26317d9de111c7ded9652aefbede77ee4639a045",
+   "sha256": "ecb3935c4591b3cf1a404d47a7d6b2c8132fc3ad577a2387e6c240745b11fcf6"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/cookbooks/create_config.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c9e98fae75761e32668cdfeeee768e3342d1a23a",
+   "sha256": "1e9acb63e34f5ddaeaa3afac19153d3451427ac66be16fc4108aad9af89b662d"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/cookbooks/how_to_prompt_for_the_eng.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "75951c1ac602eaf09ae1656bac497b1447904abc",
+   "sha256": "3540f826e9c8644b0b541e29c2e8735591d83d42d49212aeb8c658d6250ecc7d"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/cookbooks/install.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1139db258f14baa93586f3a9079c1ace5ccbee9e",
+   "sha256": "d6a495a796d07d7179b9cc023993aede41452f9a8b5415e51f3381144a709590"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/cookbooks/run_adw.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "bc577de6801aeb0fdbff47d6a4d49bf1c346eb53",
+   "sha256": "9b9375a5d43c00e8c5b344b61c1cb3209c7d2ec76e57e91c918bb22c4cae5caa"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/cookbooks/sssf_overview.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b25ad127c757f09043145918d2076a361e28e320",
+   "sha256": "8105d2b59ef1b4dd66391361c36bd289826838eccee88c9b8c913d895d15a42a"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/cookbooks/update_adw.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b2d45c797292650a2b2ed444c3a5db7e459c5f89",
+   "sha256": "a38a387e87af1424d995f4b2764db5316b3ba9d6222272a49397a7c97e53c45a"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/cookbooks/update_config.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0bf8869c2ce1d901712f68aae740ee4182b55d04",
+   "sha256": "c34e60045e6b77656ff6c70799a11b2c1ae18b9f17c2734851efe3182be5b0df"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/cookbooks/update_modules.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "368c5e5073dd07126a519441bd2e4df9342ecce1",
+   "sha256": "d117b0aa0d213e02469f181df5c703abcb54b4d1e308b2d05fdb98b1cd0d31c1"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/references/config.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e4a4b622605316442aba2645d2b103a02a1c9028",
+   "sha256": "cc54620e39e375fa8672d5d04940bd1d7d36085a7e56f76d27be4416ae523b74"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/references/handoff.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3af799d57354022d1ae7b3e4c6cc3114ab2ff461",
+   "sha256": "87938a3f3a0d2a8305deed8d12926f52da8f11a6ee87c90d05b179d5fb6b1f66"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/references/observability.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "962a74a1292a1b396e0ed46b263c791a90d6c9b0",
+   "sha256": "1240cd6b68d74271698ca108fb7e089d695d6988c547957ef2975add1c8ef374"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/templates/prompt_engineering/builder/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c473000ea5157ccd5e8a27cbcee55f43ff231b67",
+   "sha256": "b18a7c426a3fbb680a1e6f0a22769391059b69e7f665eb6ae5f45ae725a7492c"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/templates/prompt_engineering/builder/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6b0e08c79d5a47c15edabcf4236613432db6794c",
+   "sha256": "08c2fc3f54ab051a140afb2f24045a82a83fde3a423362b247a43d17f9a898de"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/templates/prompt_engineering/documenter/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "92c06f89a7c76570523cb02945899cd55a3962dc",
+   "sha256": "6a9ef78af751e4e33391dfbf003c9879c3779403d16ec62e4520aa4a52d89af7"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/templates/prompt_engineering/documenter/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d3b778f515867370a75a0fa3d022f8605a7beda4",
+   "sha256": "c18b6766262ae0534df17be01480602e5338655eb71220fcc13f8606c5c32b93"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/templates/prompt_engineering/planner/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c7a04623ca9c2780e359d3d4b80f26ca2e0513cf",
+   "sha256": "e1b05948fbb48b76241a5f363cb8876d6433d90428eca28bc30384be22251a46"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/templates/prompt_engineering/planner/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5b2aa91f71a3bca80d46c555f36afc156577ccc5",
+   "sha256": "c924faf5b8d03bc4d239720ce5652eb969ca5e83febb588d5b28b953e7158369"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/templates/prompt_engineering/reviewer/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a76117aadb1a898569d37af84975ddb0e5765de0",
+   "sha256": "8e4d07715bf8cf2278c7454dd6ecd8fec2c70233e9b231fe2df03d2c794a7739"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/templates/prompt_engineering/reviewer/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "53b58c19665cf204c443d45d77a35660072f6310",
+   "sha256": "65d89b1ab7b55d8b0250a64407ec6eb38d39de02d2fe17f537d2495714aa4b22"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/templates/prompt_engineering/scout/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "7bb14b8a6e39e500bb0632df5daea0e8faaf0a82",
+   "sha256": "ef479cc4b77d42b85f6f756d3a349767a1d768d24292d1fb16adcceb32da20de"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/.claude/skills/sssf/templates/prompt_engineering/scout/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "841deee8d3637a8214d08cf8c042b54f7ee71cf3",
+   "sha256": "54d7114b9ee00e4cf8b8495a2b52a2e7840625653adab27d0d38e4c75c439063"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "aa445816d83feddee64eb9758dbca97e4c6fb81d",
+   "sha256": "824d18efc0bbb9c7813c2557a39934a901d5b987cd251e56dde3b7bbff82c9e8"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/TREE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "eb9f8de72ad9f0e5cc325a091548ae30cd27c8c3",
+   "sha256": "b06cbcda6ed6b2b419297a2a101016dafe4c3a8af26a1a92df7aa220f2869892"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/adws/adw_data/prompt_engineering/builder/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ee8a12c6c2bac92c34aaa6a04a1879b087377fb9",
+   "sha256": "4fca4de88e59c823112cdfe6828420304a7e5ecc65409fc390084b7243f6f5db"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/adws/adw_data/prompt_engineering/builder/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6b0e08c79d5a47c15edabcf4236613432db6794c",
+   "sha256": "08c2fc3f54ab051a140afb2f24045a82a83fde3a423362b247a43d17f9a898de"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/adws/adw_data/prompt_engineering/documenter/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5725b287797af30643ea047c7eaca65bb7039b41",
+   "sha256": "f47511f208031ab0b6ecf09b1a8339f491d2501b2f28b2784c033e02ad89d6b6"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/adws/adw_data/prompt_engineering/documenter/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d3b778f515867370a75a0fa3d022f8605a7beda4",
+   "sha256": "c18b6766262ae0534df17be01480602e5338655eb71220fcc13f8606c5c32b93"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/adws/adw_data/prompt_engineering/planner/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8d932f13ec1ebc081e7e0a4ecbbe1da61306c528",
+   "sha256": "28cdc24d59f21073a0ce283c7095b48f2d9f0e3ebb6a836c57579373e871ce01"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/adws/adw_data/prompt_engineering/planner/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5b2aa91f71a3bca80d46c555f36afc156577ccc5",
+   "sha256": "c924faf5b8d03bc4d239720ce5652eb969ca5e83febb588d5b28b953e7158369"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/adws/adw_data/prompt_engineering/reviewer/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "40c87187345435866fe52293edba1d603c36cab1",
+   "sha256": "a3a82a59244d1819dad6a61a511e55000bc21bebb2df9febc5efa34e30f5c07a"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/adws/adw_data/prompt_engineering/reviewer/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "53b58c19665cf204c443d45d77a35660072f6310",
+   "sha256": "65d89b1ab7b55d8b0250a64407ec6eb38d39de02d2fe17f537d2495714aa4b22"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/adws/adw_data/prompt_engineering/scout/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "55e0f41b5156efeaf1e5811ecdbbc08a0a7f484b",
+   "sha256": "0cf1e151d6b6d38849371b58a186af4358428dd8972adbb51c8e94f55f7f9dce"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/adws/adw_data/prompt_engineering/scout/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "841deee8d3637a8214d08cf8c042b54f7ee71cf3",
+   "sha256": "54d7114b9ee00e4cf8b8495a2b52a2e7840625653adab27d0d38e4c75c439063"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/ai_docs/exedev_sandbox_mounting.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "77b6ee0a5aed00da65249bf0aaa8c096fd38def5",
+   "sha256": "91e8536a502d031acadcdc7843739e51d414a78a3ac4864598feadad2cc8c936"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/app_docs/1a53906b_adw-sdlc-workflows.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2d62abab0ac65b53ba1b27511a3b6df6d9728ce4",
+   "sha256": "6e0fbb4551c97884815165bc11e14741cae29ca08ea1df6bc4291e07ea82828b"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/app_docs/27ef9462_model-routing-context.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2666f2d990bc13fdefd3e92ee8bae52a228112fe",
+   "sha256": "bb15d7409b4948a0726b25740e5a55aed785814588b0646dc7de72ac139ef451"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/app_docs/306a0046_inkwell-stats-total-words.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ed4bbbf449a2ae82c060ccd95bb28821e823d3bf",
+   "sha256": "8a7548e0da090feba2c070899c3369d57d54e655ffda8816119215e79c2c90d4"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/app_docs/306a0046_prevent-overwriting-specs-docs.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "926222ab13c75da818c0dacaabf7101722024097",
+   "sha256": "001db3d8ea5180af3a32e8156a3c4a4b09f4a67122eb11f1654efdc3cb16af1b"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/app_docs/806adbfc_ui-visual-contrast.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d34d9914d9ec72c6545860d66f41d66804ab3e18",
+   "sha256": "a8f7e3ee8774a7440ac49763d6c4fd50cad57519adf0bdd1a4bacd883fe84cae"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/app_docs/889ae961_quiet-room-redesign.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b9a32850054768e5981d6cbb6ddb8873d7143732",
+   "sha256": "af6302e49bbcc79cae86b435ceaf022f309ca80191dec8862859b2948d477a78"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/app_docs/c564e391_inkwell-tags-endpoint.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "83bcf90d995b047b96c553378dac44f7e3ec2f61",
+   "sha256": "9710e49c990e987f823b2a1ffb457fa436e2e9fd035f0e9e0cb0dc8678faeef3"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/app_docs/d140d7dd_inkwell-split-view-modes.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "426d25614ca264465806bb76a03b08e6fcf86592",
+   "sha256": "9d7688cbd6fe3019a38a6ffd0dc7fe63b04d2431659aed352c7550c55646a238"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/app_docs/e2688070_inkwell-header-controls.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "fa620bab7dd9db16bdd4810bb023d2d2b9967886",
+   "sha256": "e2528e5f2fe89e078d13674f0c35ef4ea07cb9a71a207a629f04ff26d52271d3"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/app_docs/f8b47636_post-stats-endpoint.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2352f7475fc103b32fea8ae8ba58e7f166deff9b",
+   "sha256": "b29ef0a601f5f6c8cf8651f4d86f5ffff4f5620e688e9208951b98938fa8d141"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/apps/inkwell/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "34cc4da00fa985cefcbbc1ac2a1de1d6dd3addf9",
+   "sha256": "8bb420f22cee45a5e3f589c75a00aebfa7de4ff92bcb333b3d77b09179bacacd"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/01-fts5-search.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b2bcd477c6ae574eb790e4dc1535a12eea88db3a",
+   "sha256": "64df8a3ee023ac7917bef40607ba8af8f38fc4aeb789adf6056b1b64c13c7719"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/02-revision-history.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3978638dc4509c717ee2f0b52c10927079192b5f",
+   "sha256": "bc0e6539a86cd9246a1601acbc88a94879d2210e28d919a5b099f50f01fe2c09"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/03-scheduled-publishing.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ab7dbd6704240de7d39d8c3da14d67a3acfe3b69",
+   "sha256": "de4664e50613b59828614acdfd55f96c53aab99b297dbb3c35b32542f956cfbb"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/04-export-import.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6fe2542570ab9e7450a21245d6755e5af3aaeeab",
+   "sha256": "b767061e3d5f4b02d4e95396309d7ca45614d00b97cef3539c3ffed9b3387900"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/05-public-permalink.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "de50e1f2499d6e26ac5ad3f33a5483c04c5145bd",
+   "sha256": "50e3a82ef3062a3086d13fc50b7b5e08ed4505c6d01ab290ed53345ee1680a07"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/06-redesign-quiet-room.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e67ca706a5c28308d13d777c0be4696ce4b47920",
+   "sha256": "ec6041e815976688c8673c7a929ae22b596e715b03d5650cb14799cc748fd382"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/07-redesign-editorial.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0fc5d978ee120b001ee30d2ef390bc063aeeb41c",
+   "sha256": "c250aa5425b63ad3df05b245a150bd349643f631d53d17b76311bfc2dcabeb66"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/08-redesign-progressive-focus.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "beb9d2012d5f002fc5428ce1f5399a587fa3e14e",
+   "sha256": "adef36e325533e661dcd2e2c09c4e7129664f5191a37462c26df46f84f13f9fa"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c7c3abfd7e1b770304fac50ea193b492ebaaea56",
+   "sha256": "b81f5440bb0905bb73737bb0c3ec74667bcc6a6856cde36d34ee993b07d8571e"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/app-breakdown-scout.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "436e09d63c51c3dac7af5c120fc16692fa5fd0c5",
+   "sha256": "86f50ea1fb80844081881a098219d40636dafedcb57dfc10c9ec32315fe974ea"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/demo/01-fan-out-five-rosters.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d7c90ead5460e0d33dcbc32522b5e850dca0e331",
+   "sha256": "593373c7592d12160e241b98f63616c549c2ad763d2ffa898499c43f5f4de074"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/demo/02-shell-access.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6d3e3fadb33c136dabcec82632e00d954bfeae97",
+   "sha256": "cfa627d07bebc44ab58c189e26c2e7a4fbc17d6843f11e30582f0ce5c2b2c753"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/demo/03-agent-access.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9a00e9fc1a92a7fd852ed995d94dc3758ce1b9c9",
+   "sha256": "b672f0648fdfd794d014bd016b0ce58de1bb697eaf9aefb47d35a39a74380f02"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/light-mode-theming.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d3531731bb92f5e92fd574ed54b836ec45ec224d",
+   "sha256": "70151e5f6167563ff8702e18dc36347d0c8a48a0657291f4fc2a3fd78b75bfc0"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/scout-app-breakdown.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9e3d74f1d7447c4570b2cb7b426b614abe8c29b1",
+   "sha256": "9ca10cc2b54aaaf28fca96e626e165a1bb43b14a7f8f23b81c4c56039e89cbb3"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/prompts/split-view-editor.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2fb821bc5c70ba8e7ef7586dd89d02e3efa7a291",
+   "sha256": "0ab6da31c3499689464ba4e8965768807d57fec505753c09d158b79fecd7b631"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/specs/306a0046_inkwell-stats-total-words.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4026b0f5387af961839124e516fb26a8577669af",
+   "sha256": "2b46379e82ab9ae15376f5ca72de9a354d17e9fa33d240493464264c2c4f425b"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/specs/585c36b3_repo-one-line-summary.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "09996b22b7468947b80e3e6d1f34ce2b7c10d4b1",
+   "sha256": "944889edbf15c2d809212aee2b0a921f3fc7e115bbb07deda38e77d67dc6300c"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/specs/806adbfc_ui-visual-contrast.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "372e72fe7d37470e4c92dc621fb1838448e12622",
+   "sha256": "4238fa819f40d08cbff9de31e14f6d3dd8af2eaa7202e3da85da78cfe56ac92b"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/specs/889ae961_quiet-room-redesign.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9683646fd48b9037eee08410ef80a9d5c2175c8d",
+   "sha256": "be459a4969651274b473d23f7304a3403da387dabc075573beb722efadbc866d"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/specs/ad066baa_inkwell-theme-tokens.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "49e0058e20785ed7b7d86f3a553808224de05e89",
+   "sha256": "6e7672bd7d0e98ecea55fe8bd8f7814112fbf27862c7048d2e84b19e19647cf8"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/specs/c564e391_inkwell-tags-endpoint.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9b1141f56d21fd22dc8c9002875a55f486befba3",
+   "sha256": "f0c41250d641ecb96330d10633670e07df96fe1ee29f9232eed842bbf5c4c0de"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/specs/c5f50a47_modelname-helper-tests.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3e0d0966cb6bc843fb316571bd9cb8d16979e7fd",
+   "sha256": "69a9d3f5d925f3387d7ffe8b33941eaafa8e66e520c9e5093d0d3ad642efa0e5"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/specs/d140d7dd_inkwell-split-view-modes.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "831f43d112825cae29fa201bd966e9df7ce40767",
+   "sha256": "594bf863ca9cc84d2db3398b9cad0ad9896b04930c261f6401bfbbf9f935b32a"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/specs/e2688070_inkwell-header-icon-controls.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "7e6cbdf24fa227eda1e5de1b356800fa375ded39",
+   "sha256": "b9d454faf54fc6b841a2396759db2216d0e9ac42107a0228b0259d7fd18d74c7"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/specs/f8b47636_post-stats-endpoint.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "259ee764d6009926caac0716ee42d684fe0f45ff",
+   "sha256": "e66cd7167df2cd863d206003491abbc261ea0aad46f8d48b56131d9015c4efe2"
+  },
+  {
+   "path": "inkwell-agent-sandboxes-and-software-factory/specs/scaffold.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b1a91016732be8197f7bf2e5310638b84c011f52",
+   "sha256": "7d3c81edcbe0d18e94d47f653b0c2fda7381bdf2cf0468bac3976967243f3389"
+  },
+  {
+   "path": "ql-agent-experiments/LOOP-CLOSURE-CLARIFICATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a8ecd8e14f04e7500abdaaa0b8f5250fb69d49b7",
+   "sha256": "397aedbddc1fdd6666ee78a43364e7a399cb016baa49e2f5e85fd02a973614b1"
+  },
+  {
+   "path": "ql-agent-experiments/comparison/STATUS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "51f2997222a457142863348ec24c835921c763c1",
+   "sha256": "714d51ba598c11262978a7fb151bb368fa1bf98c22c94141b553163dbb582672"
+  },
+  {
+   "path": "ql-agent-experiments/deep-ql/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6817942c112af6f46fb49d020840ee0d03b50067",
+   "sha256": "6086f8a355ccf2655f17e0a6136d799212e2d84b51eac5dda93d94644fecc93f"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/native/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c493a46a2755eb9e2026c54342f60e54757725e2",
+   "sha256": "ed60543f82883394f31486a6e5b9244f89e342c73689df0c499f57900130106e"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/native/classic/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "eb185251728a39dbcc53bd00c0280572286b3b8e",
+   "sha256": "8d844d39393af9df5ef1821f0de3af0d6fa3ead6d32f3ca9850c02419bd139c7"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/native/ql/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8b7215726d749280aba550466bd4571ee3436ad8",
+   "sha256": "4af74827b79f62bdfe513abd94def6f01355b3cc360e113c0b253e33b790a6c5"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/native/runs/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d17170505b13c88e2c6e3a8418ed6d0ab9d53c24",
+   "sha256": "d53cd517eb9ee99d459741c528d2d3a04092ddec6853b2ba1ddcf6cad0cce702"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/native/shared/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "7049f74f1f6be98dcca65c3a34199f2a2595233b",
+   "sha256": "0379f55f43c63f7c0717135aeb5366a368774d4c2b1fbb3676b014826b09abd6"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/pi/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8d4d0a933c93165fe5c96eb04e52746a341ec42b",
+   "sha256": "006c31df91c1db6ef6e36a6c7f5d507def795b495f45b05740b4366ced66c6f4"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/pi/classic/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3b9b0aabe477aeefdda4db69a4c6f26d02597fd1",
+   "sha256": "ac731a63bcab97ed66516189e8bcdad8cfb064f1e7479f304028e090084e004e"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/pi/ql/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b6115b7e6d2f602971f92b70b6ab9abd8e428997",
+   "sha256": "3f692cbb8e078a6ec42a8521287d1b7c80afd915b7fcbc8835aa28e5780d66e5"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/pi/runs/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9efa41d0545eb85755f912ab2238a914202f884c",
+   "sha256": "a508944c836059255453e20ccc663d41b3566bcd4b886fda9ca7de86fc572e20"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/pi/shared/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "bfed0e8460389bfacb029be7735191393439cb5e",
+   "sha256": "5618d040df3a8e9547ff83fa02374c864284524fa95ddf0a007845d016c04f56"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/pydantic/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "124fdfe7fd8dca8654503cb668c15d77713e0408",
+   "sha256": "01eb8b75d18775e67a32ea97504a20cf2eb45d124aa0b4dacc44c6678b47a3ba"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/pydantic/classic/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c70560bb17494beac79c64efeb42d4246d9e47c7",
+   "sha256": "5b09c009ec0988314305fac0a1108fce7459336951926e03023f7a12a4eb522f"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/pydantic/ql/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "69953bf14bed6f050527e73f570f8f0a71809412",
+   "sha256": "e2bafa7718c18b31a46467626ebcad6ba0824ea8077757e127ef1baea7ca7c1c"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/pydantic/runs/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "124fdfe7fd8dca8654503cb668c15d77713e0408",
+   "sha256": "01eb8b75d18775e67a32ea97504a20cf2eb45d124aa0b4dacc44c6678b47a3ba"
+  },
+  {
+   "path": "ql-agent-experiments/experiments/pydantic/shared/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e76bee2bca36a8a5a972f775f68a233456896b78",
+   "sha256": "74494f0bbee348c60717ff3e2faba0d10bb110fe12054fd35de02e22b51d255b"
+  },
+  {
+   "path": "ql-agent-experiments/foundation/FOUNDATION-BLOCKER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2170d6ac12286c825887dc780b1c04e1670bef66",
+   "sha256": "39cf449f679de463a1b504a26db1421d53d16abbcfab3877cab1facae8c72876"
+  },
+  {
+   "path": "ql-agent-experiments/foundation/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "70e1c44b22aa20759bd9d82b5e483d5162fcde8a",
+   "sha256": "67bd263f61956ff378fd30581f26b3e9613234b904a3ddd274cbb92835999bcf"
+  },
+  {
+   "path": "ql-agent-experiments/foundation/classic-runtime/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "129a41c552898369a5528b89b7440f93b1669e4e",
+   "sha256": "720c2f621636532fffbb96e2b8a4d01984954917f8b17c25e357d8bc09b0e8de"
+  },
+  {
+   "path": "ql-agent-experiments/foundation/fixtures/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0ce89d2aba75036235e8a389ace814db9cbe2bcc",
+   "sha256": "4cc2ae88076b89fc5cf3a9143675120048bd3546f1c09777a81a80038a312e3a"
+  },
+  {
+   "path": "ql-agent-experiments/foundation/optics/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "dd85984cfca64eddfbd3f273bf3d8ebc7ad26eca",
+   "sha256": "211f241a1d246179c383396faa3c5752653c0f3a4cc89f1bcd16561de44d5466"
+  },
+  {
+   "path": "ql-agent-experiments/foundation/ql-core-runtime/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5067b5894fcee90ec4547a437d52abd8ec3f5767",
+   "sha256": "ddbbea5fa1dffb28a834b56f74f569467fcea92a40b374951d4bcbc1c6bdb623"
+  },
+  {
+   "path": "ql-agent-experiments/foundation/runtime-contract/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "17d9e30e7181bc95ffa36989d35d120e763e50a7",
+   "sha256": "94932f1865f315a7862140e32ff7548fd04ea90245e455a00775ad45308a99ab"
+  },
+  {
+   "path": "ql-agent-experiments/ql-agent-development-protocol-08-13-2026.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b60c2488fd2d1b21f3a0fc9ded4d3153672394dc",
+   "sha256": "ae91470a9b58f9d490e009e464175e2bf29c7e846ae643935736825f35edcb0a"
+  },
+  {
+   "path": "ql-agent-experiments/ql-agent-development-protocol-closure-amendment-08-13-2026.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "723ec0d242e163bbf2c67b334af99f60da69229c",
+   "sha256": "395325509d22c697d8a44dd66c4c3c71281f068dc9a5d0c450c33b59d2a93b11"
+  },
+  {
+   "path": "ql-agent-experiments/ql-agent-spec-08-13-2026.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "f9d056c54caf094eb672f005ce3c8cbde4de0a5b",
+   "sha256": "c71c243c6662f2e0170dd9692b7f027673d2c26a6e056ff0e310953de64edc77"
+  },
+  {
+   "path": "seed-docs/QL-SOFTWARE-FACTORY-ARCHITECTURE-SPEC.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "fbb52325dbc95eac8fa7974184c6ab6352fbe621",
+   "sha256": "19df9c24ee0554413fe61123570b37e1b6a4cd87727d07ef872a1355de13a463"
+  },
+  {
+   "path": "seed-docs/QL-SOFTWARE-FACTORY-CONSTITUTIONAL-INDEX.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "f89ea36b9c83556f4ae43c5a7e16008a8ac4165f",
+   "sha256": "8e5c627a375899a3797e9f4d349f0b913ecd6c985bdbace66edba9d4312b46fc"
+  },
+  {
+   "path": "seed-docs/QL-SOFTWARE-FACTORY-DEEP-QL-INTEGRATION-FOUNDATIONS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5e4ba28204ef2c52a1fc4d1413f576b922ed5ac2",
+   "sha256": "b2de0c173decdf1e50ae54da53365192adbec003dd7ec9e8ad049f8b5e3d2fb1"
+  },
+  {
+   "path": "seed-docs/QL-SOFTWARE-FACTORY-PRIMITIVE-RELATIONS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9c326df712320fdbae9c83d0ff2b9bcc3ad9f00a",
+   "sha256": "171fc11e1fecc1ce20e9bcbef036fbce2aaa606208ab2ba6636707908358b773"
+  },
+  {
+   "path": "seed-docs/QL-SOFTWARE-FACTORY-ROOT-BUILD-PROGRAM.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ecc08fe0d75f76c890d9ff6b0e2ca8db1d7912ac",
+   "sha256": "d3705ef26d2ab2f7a347df5d4a69913462f3cefb12f9cf8a9a6c2b6a39443d55"
+  },
+  {
+   "path": "seed-docs/QL-SOFTWARE-FACTORY-WORKCELL-MODULE-SPEC.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "98990f93d24b66a38e2d7707eeaad31d6cfa5883",
+   "sha256": "58aa147b9ec7cd5d6f303e66ffd32519721a3e9c667d82b0ed3acbac30ba73ab"
+  },
+  {
+   "path": "seed-docs/wayfinder-maps/QL-SOFTWARE-FACTORY-WAYFINDER-SEMANTIC-CORE(3).md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e12df9d1ba7133a1c4cc948bf7e14655afff87e4",
+   "sha256": "128dd95ecbf5cc4d4d486fce3401496a4f62136feb1900464d9c62500ae9ddd4"
+  },
+  {
+   "path": "seed-docs/wayfinder-maps/WAYFINDER-MAP-AGENTIC-EXECUTION-BODY-REGENERATED.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5a03896f9c00d110615aab3ec371aa1ba9950664",
+   "sha256": "8be6c8466a55e4a8347eed6eee41800bb65b1a8b31d496150a206e68bad492a1"
+  },
+  {
+   "path": "seed-docs/wayfinder-maps/old/QL-SOFTWARE-FACTORY-WAYFINDER-SEMANTIC-CORE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c0186ece7c6de2fb00c5dff02f67eecfb8978e8d",
+   "sha256": "03c65b6dd59875b01299d3b3e36b96e97011cbde9bad35cad3355221f53ad4ab"
+  },
+  {
+   "path": "sites/dex-factory-skill.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "56983c3137cb0e5db96e37f3b06cc31e7eaedcec",
+   "sha256": "6fe6fc8f6d9d5dac4214f929dfa68d3f5b2e0be963116e5ed5a9e8bd42a5f3b1"
+  },
+  {
+   "path": "sites/exe-dev.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0c56793b2d32b47b5e6f4a8383d5d591b9be94d3",
+   "sha256": "147743c2d420aa8080839d3d1581e3b02fb300f86cd18c14102d272d0117268b"
+  },
+  {
+   "path": "sites/humanlayer.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "075f63051999df0184b950c54597c9334d677e49",
+   "sha256": "07f8b0675a51c264d3786fc04020264c4c6e2807cdb2ce73af236c25907cef12"
+  },
+  {
+   "path": "sites/openrouter-provisioning.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9ce0e76e5af9afcc23fc3c0f0f123ef149a24241",
+   "sha256": "0977c8a8d29ba41bac01cef73ce717668cedff325f806b4e7861d8dec794d051"
+  },
+  {
+   "path": "skills/factory-bounded-work/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "871b90acd873f3c9bc64a87f99ea5c2da47d5b05",
+   "sha256": "08d3a1808bf23cac71409a599a64f9585a06e3fff633cd841d25ac3325ff01e9"
+  },
+  {
+   "path": "skills/factory-bounded-work/references/change.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2d4558d920c0824bbff3f97b62f989ce02d7159b",
+   "sha256": "9a4b1701d9499e2a76b53384c092c65658f96f735a3e90fdc6d8ad5e546e9632"
+  },
+  {
+   "path": "skills/factory-bounded-work/references/coordination.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1c9a4a2317f90b4eb5dfae3a3d8a4d82f8b5915a",
+   "sha256": "bed1d5d2e2c497cb2832dc7ff92ccbde9f0afbab0af4dfeea5d40d6ebe9afa02"
+  },
+  {
+   "path": "skills/factory-bounded-work/references/repair.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "849f5aa24c7fdfe080839c387f419f9a19b0a058",
+   "sha256": "bffd4aafe424fd6db3652f874e088430a9f5c5e55acbcc84726711f85778f19e"
+  },
+  {
+   "path": "skills/factory-development/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "69c5f24ecab544d14ff733e379b13c8dac43cd80",
+   "sha256": "f2fb0273254217abb6dc0dedc7735cf45ec8b807990851a0c0eee4b1569df926"
+  },
+  {
+   "path": "skills/factory-operation/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "97f5096425977173244013186797904ad9ba3210",
+   "sha256": "c839012a5d72126c35bce03b423f66ff85fa9a43be24ff760276781831e209b2"
+  },
+  {
+   "path": "skills/ql-html-account/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "83abbda2eadc98eba7f28fbc04089d2ea155d3d1",
+   "sha256": "a16bcc69d301a5c705ff40c4bef6fa3d2de691da63c5b1763c56c8dcc7b5c9d2"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "49bee2b26e15f8a20b1e526ca828f764dcfed60b",
+   "sha256": "2674bb79e9ad76130cefbef02dd53b5e3837c35f15fba36cff8f3303b0519862"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/cookbooks/create_adw.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "26317d9de111c7ded9652aefbede77ee4639a045",
+   "sha256": "ecb3935c4591b3cf1a404d47a7d6b2c8132fc3ad577a2387e6c240745b11fcf6"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/cookbooks/create_config.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c9e98fae75761e32668cdfeeee768e3342d1a23a",
+   "sha256": "1e9acb63e34f5ddaeaa3afac19153d3451427ac66be16fc4108aad9af89b662d"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/cookbooks/how_to_prompt_for_the_eng.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "75951c1ac602eaf09ae1656bac497b1447904abc",
+   "sha256": "3540f826e9c8644b0b541e29c2e8735591d83d42d49212aeb8c658d6250ecc7d"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/cookbooks/install.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1139db258f14baa93586f3a9079c1ace5ccbee9e",
+   "sha256": "d6a495a796d07d7179b9cc023993aede41452f9a8b5415e51f3381144a709590"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/cookbooks/run_adw.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "bc577de6801aeb0fdbff47d6a4d49bf1c346eb53",
+   "sha256": "9b9375a5d43c00e8c5b344b61c1cb3209c7d2ec76e57e91c918bb22c4cae5caa"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/cookbooks/sssf_overview.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b25ad127c757f09043145918d2076a361e28e320",
+   "sha256": "8105d2b59ef1b4dd66391361c36bd289826838eccee88c9b8c913d895d15a42a"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/cookbooks/update_adw.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b2d45c797292650a2b2ed444c3a5db7e459c5f89",
+   "sha256": "a38a387e87af1424d995f4b2764db5316b3ba9d6222272a49397a7c97e53c45a"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/cookbooks/update_config.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0bf8869c2ce1d901712f68aae740ee4182b55d04",
+   "sha256": "c34e60045e6b77656ff6c70799a11b2c1ae18b9f17c2734851efe3182be5b0df"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/cookbooks/update_modules.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "368c5e5073dd07126a519441bd2e4df9342ecce1",
+   "sha256": "d117b0aa0d213e02469f181df5c703abcb54b4d1e308b2d05fdb98b1cd0d31c1"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/references/config.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "e4a4b622605316442aba2645d2b103a02a1c9028",
+   "sha256": "cc54620e39e375fa8672d5d04940bd1d7d36085a7e56f76d27be4416ae523b74"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/references/handoff.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3af799d57354022d1ae7b3e4c6cc3114ab2ff461",
+   "sha256": "87938a3f3a0d2a8305deed8d12926f52da8f11a6ee87c90d05b179d5fb6b1f66"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/references/observability.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "962a74a1292a1b396e0ed46b263c791a90d6c9b0",
+   "sha256": "1240cd6b68d74271698ca108fb7e089d695d6988c547957ef2975add1c8ef374"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/templates/prompt_engineering/builder/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c473000ea5157ccd5e8a27cbcee55f43ff231b67",
+   "sha256": "b18a7c426a3fbb680a1e6f0a22769391059b69e7f665eb6ae5f45ae725a7492c"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/templates/prompt_engineering/builder/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6b0e08c79d5a47c15edabcf4236613432db6794c",
+   "sha256": "08c2fc3f54ab051a140afb2f24045a82a83fde3a423362b247a43d17f9a898de"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/templates/prompt_engineering/documenter/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "92c06f89a7c76570523cb02945899cd55a3962dc",
+   "sha256": "6a9ef78af751e4e33391dfbf003c9879c3779403d16ec62e4520aa4a52d89af7"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/templates/prompt_engineering/documenter/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d3b778f515867370a75a0fa3d022f8605a7beda4",
+   "sha256": "c18b6766262ae0534df17be01480602e5338655eb71220fcc13f8606c5c32b93"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/templates/prompt_engineering/planner/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c7a04623ca9c2780e359d3d4b80f26ca2e0513cf",
+   "sha256": "e1b05948fbb48b76241a5f363cb8876d6433d90428eca28bc30384be22251a46"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/templates/prompt_engineering/planner/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5b2aa91f71a3bca80d46c555f36afc156577ccc5",
+   "sha256": "c924faf5b8d03bc4d239720ce5652eb969ca5e83febb588d5b28b953e7158369"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/templates/prompt_engineering/reviewer/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a76117aadb1a898569d37af84975ddb0e5765de0",
+   "sha256": "8e4d07715bf8cf2278c7454dd6ecd8fec2c70233e9b231fe2df03d2c794a7739"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/templates/prompt_engineering/reviewer/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "53b58c19665cf204c443d45d77a35660072f6310",
+   "sha256": "65d89b1ab7b55d8b0250a64407ec6eb38d39de02d2fe17f537d2495714aa4b22"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/templates/prompt_engineering/scout/system.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "7bb14b8a6e39e500bb0632df5daea0e8faaf0a82",
+   "sha256": "ef479cc4b77d42b85f6f756d3a349767a1d768d24292d1fb16adcceb32da20de"
+  },
+  {
+   "path": "super-simple-software-factory/.claude/skills/sssf/templates/prompt_engineering/scout/user.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "841deee8d3637a8214d08cf8c042b54f7ee71cf3",
+   "sha256": "54d7114b9ee00e4cf8b8495a2b52a2e7840625653adab27d0d38e4c75c439063"
+  },
+  {
+   "path": "super-simple-software-factory/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "0e73560581ac9cb01f6e7f92417ad182aa31f8f8",
+   "sha256": "671478e3b20e7d0e5ff15b64cdfbd87117d4972dc02537888c5852b2e793b169"
+  }
+ ],
+ "working_tree": {
+  "dirty_entries": 38,
+  "note": "the checkout carries active owner/agent lanes \u2014 untouched, not frozen, not counted as records"
+ },
+ "generator": "working/expression-corpus/build-p1-census.py",
+ "generated": "2026-09-21"
+}

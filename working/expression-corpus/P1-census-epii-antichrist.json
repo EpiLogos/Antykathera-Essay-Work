@@ -1,0 +1,233 @@
+{
+ "schema": "central.expression-census/v1",
+ "corpus": "epii-antichrist",
+ "status": "frozen",
+ "source": {
+  "repo": "EpiLogos/research-canvas (Antichrist Project / Research Canvas)",
+  "branch": "redemption-run-2",
+  "commit": "7df35f822f9235331a69940cdaf484fe4a0b95c1",
+  "published_remote_main": "038a8302c8649b4db68a2b9c7d6fd3eb799a4740",
+  "admission_boundary": "antichrist-vault/knowledge-manifest.json sources[] (schemaVersion 1, contentRevision 2)",
+  "note": "the manifest is the corpus census seed authored by the source programme itself; this receipt freezes its admitted records against actual bytes"
+ },
+ "record_count": 24,
+ "roles": {
+  "episode-chat": 2,
+  "episode-script": 3,
+  "ql-unit": 7,
+  "episode-sourcebook": 1,
+  "research-report": 9,
+  "timeline-ledger": 1,
+  "resonance-ledger": 1
+ },
+ "records": [
+  {
+   "record_id": "Chat-Log-ep-0.1",
+   "role": "episode-chat",
+   "path": "antichrist-vault/episodes/1/ep-0.1-(now-ep-1.0)/Chat-Log-ep-0.1.md",
+   "sha256": "b95c91a1807b1a404dab4961176129afae8bf2503f952bb404188a5590c73039",
+   "bytes": 476495,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "ep-1.1-script-v1",
+   "role": "episode-script",
+   "path": "antichrist-vault/episodes/1/ep-1.1/ep-1.1-script-v1.md",
+   "sha256": "af45601d372e184b0687ce581d3ec86cf16692815bba10cf23c9cc6cef204a86",
+   "bytes": 35867,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "self-identity",
+   "role": "ql-unit",
+   "path": "antichrist-vault/episodes/1/ep-1.1/ql-units/self-identity.md",
+   "sha256": "b976ca90e2aca8fa0a589a228c1b9daff83696cb02967021be647e82288d8207",
+   "bytes": 32789,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "unit-spectral-christs-chain",
+   "role": "ql-unit",
+   "path": "antichrist-vault/episodes/1/ep-1.1/ql-units/unit-spectral-christs-chain.md",
+   "sha256": "2b2862f38fc2b5959a7af0997a2fa4ca49e64d68d33d9cf656ffdf88d5ceffd3",
+   "bytes": 17044,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "unit-spectral-devils-chain",
+   "role": "ql-unit",
+   "path": "antichrist-vault/episodes/1/ep-1.1/ql-units/unit-spectral-devils-chain.md",
+   "sha256": "336f65135e1cdfcf087a8ef4f21a4ea0b0825e33c093440d1987c4ea11fbfd9e",
+   "bytes": 23027,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "unit-ontological",
+   "role": "ql-unit",
+   "path": "antichrist-vault/episodes/1/ep-1.1/ql-units/unit-ontological.md",
+   "sha256": "099d7863f1704ab14a2579ce82d72ab33d5dcc2d940250553ee96518007e3069",
+   "bytes": 32050,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "unit-social-power",
+   "role": "ql-unit",
+   "path": "antichrist-vault/episodes/1/ep-1.1/ql-units/unit-social-power.md",
+   "sha256": "bac370538705179262657b2fadfc89eb71425a06bd3e8c25bcace83f3ee81630",
+   "bytes": 39769,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "unit-solar-system",
+   "role": "ql-unit",
+   "path": "antichrist-vault/episodes/1/ep-1.1/ql-units/unit-solar-system.md",
+   "sha256": "e1a3f1e8ef16aabbb02deb8d8e49f34f8991e2e50b12817636e23a69234437df",
+   "bytes": 33280,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "unit-deficiency",
+   "role": "ql-unit",
+   "path": "antichrist-vault/episodes/1/ep-1.1/ql-units/unit-deficiency.md",
+   "sha256": "244e629595684b65d0192161eb7c76bbeb16a3fe8fdbc103a51ac1dde4c94757",
+   "bytes": 22659,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "Episode_0_1_The_Naked_Face_v9",
+   "role": "episode-script",
+   "path": "antichrist-vault/episodes/1/ep-0.1-(now-ep-1.0)/Episode_0_1_The_Naked_Face_v9.md",
+   "sha256": "e758382dca3e2f82fbc1eb0d83a13e506d6875b74f06003c4f4da16dc235aa8f",
+   "bytes": 79167,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "The_Naked_Face_Full_Quotes_v7",
+   "role": "episode-sourcebook",
+   "path": "antichrist-vault/episodes/1/ep-0.1-(now-ep-1.0)/The_Naked_Face_Full_Quotes_v7.md",
+   "sha256": "457cf24ba44e0ed1aedb7c1eafd8979b7c545d20682661ca99bf5a058b8fbd6e",
+   "bytes": 37693,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "Chat-log-0.2",
+   "role": "episode-chat",
+   "path": "antichrist-vault/episodes/2/ep-0.2-(now-ep-2.0-to-2.5)/Chat-log-0.2.md",
+   "sha256": "191d6456fd8eee4b5197fc4bba43cb7ac2fd06132898b8e4abf1ed92fe08b1b5",
+   "bytes": 143089,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "Episode_0_2_The_Fire_of_the_Gods_v4",
+   "role": "episode-script",
+   "path": "antichrist-vault/episodes/2/ep-0.2-(now-ep-2.0-to-2.5)/Episode_0_2_The_Fire_of_the_Gods_v4.md",
+   "sha256": "297397b53789e1cf12731d37dfa3b34f2347defae60a1422a3969f05f6c14c95",
+   "bytes": 89344,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "Report3",
+   "role": "research-report",
+   "path": "antichrist-vault/episodes/2/ep-0.2-(now-ep-2.0-to-2.5)/Research/Report3.md",
+   "sha256": "0514d2e33fe5c01ca612b31bffd19bf9ba25842090bbb6888176dcd2fe70746d",
+   "bytes": 30271,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "Report1",
+   "role": "research-report",
+   "path": "antichrist-vault/episodes/2/ep-0.2-(now-ep-2.0-to-2.5)/Research/Report1.md",
+   "sha256": "086a6442d1c7e0010565004facaf049ba886c05caae60304de7682c389cbd9b3",
+   "bytes": 34226,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "Report2",
+   "role": "research-report",
+   "path": "antichrist-vault/episodes/2/ep-0.2-(now-ep-2.0-to-2.5)/Research/Report2.md",
+   "sha256": "1be8ddc9f29e6cbc507e054f0ca7969f8a3abf12d900ba9d32477eec7e5ee480",
+   "bytes": 47742,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "Report4",
+   "role": "research-report",
+   "path": "antichrist-vault/episodes/2/ep-0.2-(now-ep-2.0-to-2.5)/Research/Report4.md",
+   "sha256": "83252a4bd35c8e46af5399cfedc5cd17016d1642cd965158d1f7ca233c32f895",
+   "bytes": 27664,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "Report5",
+   "role": "research-report",
+   "path": "antichrist-vault/episodes/2/ep-0.2-(now-ep-2.0-to-2.5)/Research/Report5.md",
+   "sha256": "95e4daf9518f55d3dc0514d9452eb64d88da96f928e5d0b4fa5f38c3f7a21dae",
+   "bytes": 44817,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "Report8",
+   "role": "research-report",
+   "path": "antichrist-vault/episodes/2/ep-0.2-(now-ep-2.0-to-2.5)/Research/Report8.md",
+   "sha256": "8f06464d279a31cb2ab5f2f815237414d4f29a48b5965c3294f5838a09097bb6",
+   "bytes": 54381,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "Report6",
+   "role": "research-report",
+   "path": "antichrist-vault/episodes/2/ep-0.2-(now-ep-2.0-to-2.5)/Research/Report6.md",
+   "sha256": "f7acc96c205b79396466f92d4f693f163ffa79326f7a92c4579ebe7212f24059",
+   "bytes": 31531,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "Report7",
+   "role": "research-report",
+   "path": "antichrist-vault/episodes/2/ep-0.2-(now-ep-2.0-to-2.5)/Research/Report7.md",
+   "sha256": "d5c68ae002779a80bea2f125a7638aff2c988537b60398006ec0848112bf644f",
+   "bytes": 35748,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "Report9",
+   "role": "research-report",
+   "path": "antichrist-vault/episodes/2/ep-0.2-(now-ep-2.0-to-2.5)/Research/Report9.md",
+   "sha256": "070021d1254b5943005efba9b25fba79c0b623dd5cc96747730c5b5e762147cd",
+   "bytes": 37197,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "episode-2-research-timeline",
+   "role": "timeline-ledger",
+   "path": "antichrist-vault/episodes/2/ep-0.2-(now-ep-2.0-to-2.5)/episode-2-research-timeline.md",
+   "sha256": "1696507a99c36f2ef0f218a2307067472fc97db565f8c86da8cf29f878855bec",
+   "bytes": 25849,
+   "published_bytes_equal": true
+  },
+  {
+   "record_id": "episode-1-2-archetypal-resonance",
+   "role": "resonance-ledger",
+   "path": "antichrist-vault/episodes/episode-1-2-archetypal-resonance.md",
+   "sha256": "0bcc09ae5f390916d121341baa3d90b03822b94370b6ac2460d3e4d4b8a990b4",
+   "bytes": 12735,
+   "published_bytes_equal": true
+  }
+ ],
+ "local_vs_published_drift": [],
+ "production_state": {
+  "namespace": "Point-Cloud-Demo production/epii-antichrist/",
+  "wave_1": [
+   "ep1-ql-units/epii-ep1-ql-units.journey.json (7 scenes)",
+   "ep1-naked-face/epii-ep1-naked-face.journey.json (10 scenes)"
+  ],
+  "status": "wave-1 done (gates + covers); corpus NOT complete"
+ },
+ "not_admitted_this_pass": [
+  "episodes/1/ep-1.1/ql-units/position-0..5.md, double-helix.md, self-identity-complexio-argument.md (on disk, outside the manifest)",
+  "supporting-bits/ authored essays (incl. Antichrist Book)",
+  "the M5-1 essay itself, where it lives outside the vault (the O:I cradle names it \"held outside this app\")"
+ ],
+ "generator": "working/expression-corpus/build-p1-census.py",
+ "generated": "2026-09-21"
+}

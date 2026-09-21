@@ -1,0 +1,389 @@
+{
+ "schema": "central.expression-census/v1",
+ "corpus": "central",
+ "product": "Central",
+ "suite_position": 0,
+ "status": "frozen-census-basis",
+ "admission_disposition": "NOT AN ADMISSION \u2014 no canonical authored-record census exists for this product's Expression corpus yet; this receipt freezes the committed authored-prose surface (all committed .md at HEAD) as the census basis an owner/product lane can admit from. Which records are Expression corpus members is an owner disposition.",
+ "source": {
+  "repo": "EpiLogos/Central",
+  "branch": "main",
+  "commit": "87341be43801c04657b12ccfee6af22bfb0ff839",
+  "hash_note": "sha256 over exact committed blob bytes at HEAD (working tree never read); git_blob_id is the object id"
+ },
+ "record_count": 61,
+ "records": [
+  {
+   "path": "NEXT-SESSION-PROMPT-2026-09-13.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8bf1c191b53fbd2bf5be2fa917a900bff1fef615",
+   "sha256": "bebf630762b9a59eef611e8524142e5dd7fcbdfdaa62ea5f9ec2b033cad7d049"
+  },
+  {
+   "path": "ProjectCentral/user/capability-matrix.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2f660f822565b1a7040cb0917395216fc0359baf",
+   "sha256": "1fc85dc3f524fdf56947869e8ea78b1939b6e8ddd8def581ddbb92fb1575a2b0"
+  },
+  {
+   "path": "README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8bf818d952414f87fa3a02792728832eac915968",
+   "sha256": "d9a57b3c98e7981c0ed975f96cca25e6f31efc130f2c731f78e975d6fc8fecbe"
+  },
+  {
+   "path": "connectors/git-sync/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "f27e198319c7d31eac36a08b251094d67c5373dc",
+   "sha256": "a6fa495ecaa2cdbfa07abeebda8ad7116e6c1d1ee3a5013362530e0812d252c3"
+  },
+  {
+   "path": "connectors/template/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3b6e3c24f5400f202d98fc09ef7a229cf9d24804",
+   "sha256": "34b756fd5baaea5e12276d66645797d0962c7d7dfcebc5fe074c8e9d60c75c19"
+  },
+  {
+   "path": "connectors/ubuntu/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9241a54411d099bb68de8891cd378fe5a1bda272",
+   "sha256": "b38c5b187800b9394252ae232cbe3e734d918a32be776e2989f5196e5a3d5202"
+  },
+  {
+   "path": "ctrl/defaults/control-governance-field-and-now-day-close.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "435da6349db09f72937eb380de699079a53d1740",
+   "sha256": "a6c185edba3f7224afb97090b51c29f18d3e41a2a7e7c8e9ac1a928c21a7f649"
+  },
+  {
+   "path": "ctrl/defaults/control-governance-field-and-now-session-work-placement.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d33f248629cc75a02844fbee9a58016d4da2738a",
+   "sha256": "2444c2a3af219838ebb1b847304fe3f1756743d0fbc12ba63c8906436387bfb7"
+  },
+  {
+   "path": "ctrl/defaults/control-governance-field-and-now-wiki-field-law.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "cf541280c568089a2440adfb9688c5f154714b1e",
+   "sha256": "43bdee63d61b40a44f6a1817f69baa4d97d42650ce7326ff7536780de55a3beb"
+  },
+  {
+   "path": "ctrl/defaults/control-governance-repo-content-and-structure.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "09950dd81b850deca6e10d34f9c20fa6efa9369b",
+   "sha256": "f8d15d479f4cdb29d065f441990412f5117a16d970247158f96d90cf7f74922d"
+  },
+  {
+   "path": "ctrl/defaults/control-now-readme.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a30129c6d0e306d58ea2643ec3278b5b98f4e5dc",
+   "sha256": "36a0e4456531d4006cbb147fbdd0ad210d03ec4cd4b5863a1acec8b58289ad34"
+  },
+  {
+   "path": "ctrl/defaults/projectcentral-repo-content.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "dba3012504baf2a5cfaef150d4f0b6232c977a3a",
+   "sha256": "1c651e17ee6f90bc8bb238647d7d61cb3d6f0405cf1b1f4f0b95f2e5b0f9b287"
+  },
+  {
+   "path": "ctrl/defaults/projectcentral-repo-structure.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "814291bfde7f610c0edffe766dcd10bc23fd5489",
+   "sha256": "aab5f5ec2288a9d0223b008f37fa4d2330300e9ddf1230fe5e4fb7455cd05920"
+  },
+  {
+   "path": "ctrl/defaults/projectcentral-user-telos-readme.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c4bb08d1587a3d30519749ee944b0e9173c3d7f7",
+   "sha256": "e5935c4097f810e8b743aad9c8aed70c12ad97b2e5bb634306d7d9a10619bdb0"
+  },
+  {
+   "path": "docs/AGENT-GOVERNANCE-SOURCES.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8788f5aeb116e92e3d434114c2c1a94dcde85545",
+   "sha256": "4b96e45979cf16f722544d84cf5be1e6f9c478bb5727e814923c8081bbff6486"
+  },
+  {
+   "path": "docs/CAPABILITY-MATRIX-PROTOCOL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "df8b6d1ab9c174ccaa79f309734e857fe8e645e5",
+   "sha256": "d214cde2e548a50edd4c3a5316a8bbdeee209e0ab5faa16a00b038a9c2f81552"
+  },
+  {
+   "path": "docs/CAW-NATIVE-CONSUMER-INTERFACES.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "176964b0f4f4b5aeabaf4637b9a1bb3a22f89859",
+   "sha256": "331c8f1c85c85c93d39ed2bb0ec4d52315acadf75d6dd3f321b0483fa6e09721"
+  },
+  {
+   "path": "docs/CENTRAL-PUBLIC-HANDOFF.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "69197349394584d10568faf0fab6db9933ef054f",
+   "sha256": "1aee679f79d6cc7e1269d95d4f95c82cb6170b20c927d22b566b3cf21b47e20e"
+  },
+  {
+   "path": "docs/CENTRAL-SYSTEM-SPEC.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "89df75bee110a2d1208da4d3851b29dafaf52f7c",
+   "sha256": "814b7aa671293085080d73acd9522bf9cae65ab9f0be59f1eca0a9195c185660"
+  },
+  {
+   "path": "docs/CENTRAL-VISION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6e50548e679c701c4795d8a5fc61fa1d1f5b0cda",
+   "sha256": "a7b680eb1f9464a5e5fb18070b7980173554b8ed5b02384495293caaadca1d20"
+  },
+  {
+   "path": "docs/CLI-REFERENCE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "faccb0c315099def6ca643dfa387368e93681e71",
+   "sha256": "10be71a1d7a635620a2e06f26b358a052663e455dbe43c6b55dca700ac899532"
+  },
+  {
+   "path": "docs/CONNECTOR-SDK-RUST.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2aaef850b02e3bb415af396312db66cb4e49a03b",
+   "sha256": "da92493c60c5199b9ced090b99c7692d2eaf0a07c7f60b3efad5fa7d642f00ad"
+  },
+  {
+   "path": "docs/CONNECTOR-SDK-SPEC.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9c63f77491671e919de7f2cb230b1a21324f954b",
+   "sha256": "d4762a7b6d2b6f5a1c768a6650dd495a3449bf7452b8238d721db7eecf010476"
+  },
+  {
+   "path": "docs/CONTROL-CONTENT-PROTOCOL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "843cf43700e41b15d2e79641cb26b79b3531233d",
+   "sha256": "038ad9572c0c5af1dc6b5297d0faddc6b0444847296abcbd4f8853496ca2baa8"
+  },
+  {
+   "path": "docs/CONTROL-RETRIEVAL-TREATMENT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9c1115d0f1ef68bc2a9f8a1b042f0945564b6f1a",
+   "sha256": "69fc30bdfc12d37547412152c8ae1f787426e83451b69f6287058a004cfc79f4"
+  },
+  {
+   "path": "docs/DEVELOPMENT-FIELD-SOURCE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5c112cd9432b2a100cb3ee08db4be2abc6ca9bf9",
+   "sha256": "03917ae5bb9a5c2225303411e9c1a7cdae102d0a8c5c54462fe49d53a67451b9"
+  },
+  {
+   "path": "docs/GIT-STATE-CENSUS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3d8a2e670781f8859026477ac1fedcf110f45147",
+   "sha256": "a80c79018377b8458553b6782d3ef4676f25419bf5ec1dd6803ede05001ccade"
+  },
+  {
+   "path": "docs/INSTALL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3762cbd2081da8ef3a1c635676987394068f2bc1",
+   "sha256": "5aedb6eceed83429e8502b8cc0fd2aa4871a4876c2cbade94a6ae85c740fb0b3"
+  },
+  {
+   "path": "docs/LOCAL-ENDPOINTS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5117e1067a9d0c152aea018db93ebb12c6aed95f",
+   "sha256": "68c71ae759f4399a302be0fe42dde971fecbadd5f5f028c4bb333b7a39864738"
+  },
+  {
+   "path": "docs/MACHINE-WORKCELL-RELATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b7e8bf0cd5bfa5d4380f7d38af107bd228191a71",
+   "sha256": "35066c4a51465d01f7b329cea6764caaf08c3d955bbd6dd86354f7f2f5188428"
+  },
+  {
+   "path": "docs/NATIVE-FILESYSTEM-READING.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1be6eea0880077507b581d37370abbfad64d0a98",
+   "sha256": "fabd83a65e010e7f19569d233d9b674e820ca65340d00db2055ae39786fa83e2"
+  },
+  {
+   "path": "docs/NATIVE-ORDINARY-FILE-RECOVERY.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "47dc07caafa7c51f8ac097780a18ff056b5b58bc",
+   "sha256": "f4b4ecfa8cbf5eff5f779108d436a09c4e855f22e9496229ca1a991ec6ad709f"
+  },
+  {
+   "path": "docs/PERSONAL-EXTENSION-SPEC.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d6592e6716a8e8f53cc4359aff57c9d72e364fd3",
+   "sha256": "e904d327ae00b47540320396242d2578d552e9eabfd0fc743936bbbf86aeaadb"
+  },
+  {
+   "path": "docs/PERSONAL-SURFACE-AND-NOTIFICATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "2c3699ce033ced4a75614bb501b6b6994594791a",
+   "sha256": "9a4ca90968f6839fc1762c58adb64aea15c37247dcb2d795cc12e713557f4b0b"
+  },
+  {
+   "path": "docs/PERSONAL-WORLD-PROJECTION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "aa5b343fc38b407b50284537750f60b56b846fe9",
+   "sha256": "8f698aeafed9b1159c4b4ff7cec3a961fc09f52450a0d3d17d33bb4857c58413"
+  },
+  {
+   "path": "docs/PRODUCT-ACCEPTANCE-MATRIX.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9d5ab12d303672396a6b4be3f9d83cb144c4c985",
+   "sha256": "6fd67d911ee7923763eac8d06d020cff8f4cb7a3e3a019de3c7ede91fe8435dc"
+  },
+  {
+   "path": "docs/PRODUCT-GROUND-CONVENTION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "03b35b9fa748118756b1f9754581bb082dde4caf",
+   "sha256": "809b64f089749cf40fed6fdea747d497608330091540819947e6cee4e0e2a09a"
+  },
+  {
+   "path": "docs/PROJECT-CONTEXT-PROTOCOL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4b685fc108f79320d9427dbf455b45a26fc235e8",
+   "sha256": "f732128a9e5f03ba26d9bb66eeebfe2c50198463ecf6c37c4fd23ce813020976"
+  },
+  {
+   "path": "docs/PROJECTCENTRAL-AUTHORED-GROUND.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "dfa010ab2e69d065aa8dcd50631d61f8e9b2e4c7",
+   "sha256": "cfeef78dce8c7d19d4543b4e0756cf6af68a25abe94e14145516662a4953181a"
+  },
+  {
+   "path": "docs/PROJECTCENTRAL-CONTRACT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4b427b88f8d5c633e0d9aed4a85fc0c3857ed1b0",
+   "sha256": "e554accd1af74a3f8105e043057d1aa170196e0a0ffa8487942e2f097d2946d4"
+  },
+  {
+   "path": "docs/PROJECTCENTRAL-FLOW.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5fa87bdbd831bc2a6f8e5fc8b7fd94cb0267bce0",
+   "sha256": "1ad91c42269aaaf018dd18400319c8b12cf1b442ed15471a60f6631ece5dbc92"
+  },
+  {
+   "path": "docs/PROJECTCENTRAL-NOW.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "fe7200e1c9f5083302c27c0f5198fc6fb06734f3",
+   "sha256": "9c2aa01d1b5a695b3519241c3fdf6e23db28d876de4ff5cdad4b0a87cc9bb65b"
+  },
+  {
+   "path": "docs/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9bffc6fcf003c9aecbdd9089e10f061b3893e57c",
+   "sha256": "2da1cac57b1401c4f369e6c30b7b30136d88c5476e1da92bfe631698e90bad88"
+  },
+  {
+   "path": "docs/RECOVERY-PROTOCOL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ced6d9b7975cbf3fe6d1f419e731ee6bc08aaee3",
+   "sha256": "cb94beaabbdde49c2dc0f98aea3c38d3d61ceb56a3f686b1bee4ac78350ae3fe"
+  },
+  {
+   "path": "docs/ROOT-RECOGNITION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4fe923df155111827ac5681ee7baacf8071e7572",
+   "sha256": "fde576ccda59e6e1563ccbea47d2d024f6b5ca6f4fc7d93fcf3f77b13105cd16"
+  },
+  {
+   "path": "docs/SOURCE-RETURN.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "8caf99f49b3a420f2a98b0cb8ed685fbc293424c",
+   "sha256": "48ab040a1ddbd71e8394caa486d7ee310dfe15aa470acd802330ec8d6029a242"
+  },
+  {
+   "path": "docs/SOURCE-TRANSFER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "ce7de272b05b8f9a5e0ec43ddbc573e39b89c3e7",
+   "sha256": "787fc7750c7b808f453e42313206bbd6a91b94b63b851ee6c9edf72e7ba6d05b"
+  },
+  {
+   "path": "docs/VISUAL-PRODUCT-UNDERSTANDING.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9a42717dd4f85e8c053f33a5a8af4d57a0318396",
+   "sha256": "179078b59600c17fc18db9dca2fd27fa9bf9e44282b1dc56865ceb19700fe34d"
+  },
+  {
+   "path": "docs/integrations/BKMR-FILE-MAP.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "6d61fc56450bbda24d6412a76cd8209b4976228a",
+   "sha256": "24c8e0f3b16344797ac0c9056f0faf10256cebafc23a7331609807710e384cfc"
+  },
+  {
+   "path": "docs/superpowers/plans/2026-09-04-engineering-ground-seed.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "008ae87299434f993ff104975a8c5ef6ea71c3ec",
+   "sha256": "8e52131b5c4ac9082f350e572f59fb6630573946e77c8115b51041896ac52aea"
+  },
+  {
+   "path": "skills/capability-matrices/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "027199caf7b7ce7bb0ce4ec5ff4976bb7abb3092",
+   "sha256": "e10f619ee454820149cf40907852f9f90621aba9afb5c0c14492fc553b3bbd7d"
+  },
+  {
+   "path": "skills/connector-authoring/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3ba54d1c59a81e7ddef7956c1ba59644d435eaea",
+   "sha256": "74dcb8ea3c65021c75aa4ededb875dc18c0a044b30363952318e34ce7e989644"
+  },
+  {
+   "path": "skills/connector-hardening/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3a70ca063d0fc384226d5e361f376c909c6de169",
+   "sha256": "a24d6d6855dc5b93dc036449275a3ac41e132d0bcb974932cab0fb9723112dc9"
+  },
+  {
+   "path": "skills/control-maintenance/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "90acacb42fc7a95dad5bdd9f70c3e78d2edcccb4",
+   "sha256": "fec003b322224ef82ac2c1aadecfe980133ad3e221d2d1ec7c1bd80ea334d101"
+  },
+  {
+   "path": "skills/control-maintenance/fixtures/product-ground-pressure.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "01546439e9cdc43adaf16ed1c71378d564e18bb5",
+   "sha256": "7dc6b23acbf69031cd2f45d3ba7ccc34e0b8bd6b212e894220e85a1a4e2ebb6e"
+  },
+  {
+   "path": "skills/docs-methodology/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "325f6874833af69245c9d1dfc64caf3af768f174",
+   "sha256": "6b6774f8e93ad21c361b11c09bf56c05a543c20d85276b27cfd659bf76d717f0"
+  },
+  {
+   "path": "skills/documentation-standing/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a8bfa620a50b720ce0c0d43a0c67b49aea085199",
+   "sha256": "f5d5510ab20d5dbc71841f3fc0114572c3bcb57a65914757dee3f4c2ae7f70c6"
+  },
+  {
+   "path": "skills/machine-declaration/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "58149e6710aa008dc1654ef1b1ff158b0cc35ae6",
+   "sha256": "f7ca4cbff459fb84601ca39652ea326239a6106a8dc9f5aead228e07baa9a559"
+  },
+  {
+   "path": "skills/projectcentral-ontology/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b21887bebb410983a29955ec6b5081614118c8ff",
+   "sha256": "5324f860b19420737442689d03e01ff9648d9b68bbbaa72b62c8158920c2cd89"
+  },
+  {
+   "path": "surfaces/raycast/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "db0424d1cf726692cdc25e12adfecd35bf5cd898",
+   "sha256": "b689f9d0a2f7f2e0ca6be28eb1bc5a6c54e0fba8ad7b645681ac4345c119d738"
+  },
+  {
+   "path": "surfaces/shortcuts/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "bf41e46ceb3efc451c7a5ad8b7076935ad8d53c4",
+   "sha256": "df55f387108b9f0a85ce19b28ab210eb578eaf91b7ffd67b835e4bfd2b7bae21"
+  }
+ ],
+ "working_tree": {
+  "dirty_entries": 3,
+  "note": "the checkout carries active owner/agent lanes \u2014 untouched, not frozen, not counted as records"
+ },
+ "generator": "working/expression-corpus/build-p1-census.py",
+ "generated": "2026-09-21"
+}

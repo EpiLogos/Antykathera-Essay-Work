@@ -1,0 +1,203 @@
+{
+ "schema": "central.expression-census/v1",
+ "corpus": "workcell",
+ "product": "Workcell",
+ "suite_position": 4,
+ "status": "frozen-census-basis",
+ "admission_disposition": "NOT AN ADMISSION \u2014 no canonical authored-record census exists for this product's Expression corpus yet; this receipt freezes the committed authored-prose surface (all committed .md at HEAD) as the census basis an owner/product lane can admit from. Which records are Expression corpus members is an owner disposition.",
+ "source": {
+  "repo": "EpiLogos/Workcell",
+  "branch": "main",
+  "commit": "5ddf156d3617675e1e8b07593777c705fc788f26",
+  "hash_note": "sha256 over exact committed blob bytes at HEAD (working tree never read); git_blob_id is the object id"
+ },
+ "record_count": 30,
+ "records": [
+  {
+   "path": "ProjectCentral/agents/governance/repo-content.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "dba3012504baf2a5cfaef150d4f0b6232c977a3a",
+   "sha256": "1c651e17ee6f90bc8bb238647d7d61cb3d6f0405cf1b1f4f0b95f2e5b0f9b287"
+  },
+  {
+   "path": "ProjectCentral/agents/governance/repo-structure.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "814291bfde7f610c0edffe766dcd10bc23fd5489",
+   "sha256": "aab5f5ec2288a9d0223b008f37fa4d2330300e9ddf1230fe5e4fb7455cd05920"
+  },
+  {
+   "path": "ProjectCentral/user/capability-matrix.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "f9b1fea293a77a48a653b94617e6449add09c0f2",
+   "sha256": "cdc0131ce7cc7afbec76001806dc747d11aa53373f3d07ebd8ee5e5b877dfecc"
+  },
+  {
+   "path": "ProjectCentral/user/telos/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c4bb08d1587a3d30519749ee944b0e9173c3d7f7",
+   "sha256": "e5935c4097f810e8b743aad9c8aed70c12ad97b2e5bb634306d7d9a10619bdb0"
+  },
+  {
+   "path": "README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "5cedaccf873d5595278004d97c7644a74d7ce46e",
+   "sha256": "d990a4ca7c55219fc10b2067b674a02cba0775ebed0f2af2d8392428c97df771"
+  },
+  {
+   "path": "crates/workcell-sdk/README.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "87de8d1123dfbabab212b0f05c5cc3a6c31be3bf",
+   "sha256": "f050c690e702b54cdbc2a6a6e6821a2de5933b0ba4cb0ee2ebf3cc249a4a0ddc"
+  },
+  {
+   "path": "docs/ARCHITECTURE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "582c14ab3b2291c636ae1edfcf6ffaa288d8462d",
+   "sha256": "7713aee6010c591e1d1a2d7dbfa0f93a22baf5936cef02c638f3c37bb05a49ca"
+  },
+  {
+   "path": "docs/ARRAKIS-SOURCE-INTEGRATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "1b18783d2b74203acdd3e4410c026250233b2826",
+   "sha256": "dbd0400a72d3697e762f9d1b5eebba440538937bc0d17aed8ce83aec19189c03"
+  },
+  {
+   "path": "docs/CANDIDATE-MATERIALISATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "033d2aa2ee1d390621170d885c350463ba598e24",
+   "sha256": "b090c18fea868ae783abffc2c72f0a768d10a68c35626e11c569e3e0ede5f446"
+  },
+  {
+   "path": "docs/CAW-LOCAL-PROOF-PROCEDURE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "37ee0c1a5ab5489a0b50270d0905f1fcd1814baa",
+   "sha256": "b924bb6971b5eb715c868aefc23e9255496c87e751d3f7105eb2f560b6f3a29e"
+  },
+  {
+   "path": "docs/CAW-MATERIAL-OPERATIONS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "f832d2d5ba443190c462782d019dbcc3f3926297",
+   "sha256": "f913400edb965b523d9e24d4c4c6bba3ac48237e816f78b6d19d4f7723465a22"
+  },
+  {
+   "path": "docs/CONNECTIVITY-FABRIC.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "bfa3f71987acc8d4bb3fe6633249d579bd9b87ec",
+   "sha256": "1ff4561fdedb012523da25d27e718fbdd65793a06628f9b48fb5839a6c397762"
+  },
+  {
+   "path": "docs/CONTROL-SERVICE-AND-AGENT-HOSTING.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3398a83198dce12d42f8cc449e0945279c40d38e",
+   "sha256": "5d5f11b87c0ec17afe0ebb449ad1444b6099753d880bc49bc8e90bb0d19f5671"
+  },
+  {
+   "path": "docs/CROSS-CELL-CONNECTIONS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "a51eb6adb1f8a3972ed745bbce3d775f50d8adda",
+   "sha256": "da336d68a6bf8fa6dba32b91f17d4ec96f988ae20a1eae3eaa76efe86a891fce"
+  },
+  {
+   "path": "docs/DEPLOYMENT-PROFILES.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "d50903d6ac613bf07dffe24fef7491e664facbc8",
+   "sha256": "a3edfcea886ba4dfa8d39bf89bf84616f19b22c2cf0e3f25e11ccf8549ceadd4"
+  },
+  {
+   "path": "docs/DEVELOPMENT-WORLDS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "76635a68171ed8613de2c78048e03a02c3ba3d58",
+   "sha256": "0e063de13bcd9bc2fca718e8ee95ccb9ac6eef6254447fc9a46753a385df48f1"
+  },
+  {
+   "path": "docs/DOCKER-SOURCE-INTEGRATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "be6a8384f1aca30476ccf05cd28eb368e24ae54c",
+   "sha256": "1da1117e5ee333a1381c06f8be687b0e291a75addd7d7ef259915c0d45b735bb"
+  },
+  {
+   "path": "docs/FACTORY-INTEROP.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "aef8d5e2e26dd46cc4cff77f54fbf61b8a08814f",
+   "sha256": "0cb968e4b3810f067fa475a51cef468a86b5052b47f1fb2b0854b77782062b16"
+  },
+  {
+   "path": "docs/LIFECYCLE-RECONCILIATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b93510df67cfeddcf361cf4de169b3bc8f344a25",
+   "sha256": "db60f6a0706d732ec993db8d91df89038c776d53ae45da7cbe6d9596506839c1"
+  },
+  {
+   "path": "docs/MODEL-SERVING-CONFORMANCE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "30ef41765bd2e783f59ff8bb740cd98435bb2e8c",
+   "sha256": "71e27839ed39568abc9d28c7af3efadd555c3d0f1300b60434789d8716f59807"
+  },
+  {
+   "path": "docs/MULTI-WORKCELL-PLACEMENT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "615f34ebb45b09982bf71d69e0a1617dd4f4c4b3",
+   "sha256": "14800a2d6fa7940f2cf0aff29a28f51b83c620a70e92926fa9793a4aaad37c6b"
+  },
+  {
+   "path": "docs/OPENSANDBOX-SOURCE-INTEGRATION.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "b62349d085f1542648e67efc643ebcf6814e4a1c",
+   "sha256": "8e698afe805d625deebca8dee8222abbc481e048056af487b06785212a43f4f5"
+  },
+  {
+   "path": "docs/PLACE-CENSUS.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "c2c15390374a9163c801c4fba9bf48ce50e29f69",
+   "sha256": "394bd69552cbedb2e3176d7a7bbe05e00a60fddce59cff404c89fe94a35f9c4b"
+  },
+  {
+   "path": "docs/REMOTE-FILE-SHARING.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "360ac77d5a9cc26322f50f61c7a6666e20dc8af2",
+   "sha256": "382a9bfcae9948c43a6d1c897db8fd43d1613c1f9ef6aaab23dc04f8f1965eb0"
+  },
+  {
+   "path": "docs/RESOURCE-USAGE.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "4ac13df3abbf6ef3f277823c2cb5c5790de3b27e",
+   "sha256": "2b3da7c48ce511defa2ff6abda8fa6dc8f1d5ae7966f3506e4ee954b317ce9d0"
+  },
+  {
+   "path": "docs/SESSION-SECRET-PROJECTION-PROMPT.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "3a61a880bde8f900e6b9d2c6104c209fa6454b1c",
+   "sha256": "0f43ce573d656832e29707b90fdaae65d20c0bfde60b31a156684ae03142632c"
+  },
+  {
+   "path": "docs/VISUAL-PRODUCT-UNDERSTANDING.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "9b5a96310f3eb55bf570d4a9912dbeab9d58b659",
+   "sha256": "51b0a4ab03a460b5ba32d8c2bbff573812445098ff24eaa318a6af913fbf804d"
+  },
+  {
+   "path": "docs/WAYFINDER.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "775bc4b0f1bf1528c0e277d1dc830466e3bc29bc",
+   "sha256": "fe9464679cef701e9af211b0bbdb6478d3bb4d80dfd76dec8d464175a91591bc"
+  },
+  {
+   "path": "skills/provider-authoring/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "7519f8ff6f7b615ec16bb2df13d4011da9c9a9cb",
+   "sha256": "276293388ad0df0a5164093860bfa4fb5ba0bee2aa0cafac0746714a406c0cd6"
+  },
+  {
+   "path": "skills/workcell-operation/SKILL.md",
+   "sha256_git_blob": null,
+   "git_blob_id": "cd20f9217fbcf7828880ad2a44fc1d1292c3bc3a",
+   "sha256": "141ea79aaadd4ca7f92c4d1495235935cb29d4fd1df41950e066525247e3bf29"
+  }
+ ],
+ "working_tree": {
+  "dirty_entries": 5,
+  "note": "the checkout carries active owner/agent lanes \u2014 untouched, not frozen, not counted as records"
+ },
+ "generator": "working/expression-corpus/build-p1-census.py",
+ "generated": "2026-09-21"
+}
