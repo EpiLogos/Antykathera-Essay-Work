@@ -36,11 +36,15 @@ jobs:
         run: |
           python3 -m pip install 'mistune==3.2.1'
           npm install --prefix /tmp/roz-render --no-audit --no-fund 'katex@0.16.22'
-      - name: Build the explicit editorial candidate
+      - name: Build and verify the explicit editorial candidate
         if: steps.gate.outputs.enabled == 'true'
         env:
           ROZ_KATEX_MODULE: /tmp/roz-render/node_modules/katex
-        run: python3 working/manuscript-source-enrichment-2026-09-20/assembly/build_whole_pass.py
+        run: |
+          ROOT=working/manuscript-source-enrichment-2026-09-20/assembly
+          python3 "$ROOT/build_whole_pass.py"
+          python3 "$ROOT/verify_whole_pass.py"
+          python3 "$ROOT/build_whole_pass.py"
       - name: Publish only assembled outputs
         if: steps.gate.outputs.enabled == 'true'
         run: |
