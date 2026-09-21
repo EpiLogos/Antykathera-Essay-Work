@@ -1,93 +1,99 @@
-# s01 — Seam and recurrence return
+# s01 — Completed seam and recurrence return
 
-Candidate: `SECTION.md`, M01–M06, prose commit `066c25fa34019891bb85ca47b3dbe8ff115ca8b1`; Git blob `d7ec90b574262bc136251cb5f0883e73fe4da19b`; SHA-256 `689acf1bf3ee3ccac46fdc9835a45d4bbf10b4b2c6a70c98fdd95983b13f0688`.
+**Candidate:** `SECTION.md`, M01–M06; prose commit `76bd1a770cc86d64ac8944ba61bea29e5a8f8aa7`; Git blob `d4c94bab369de836253277e873e98d00b9bebc70`; SHA-256 `dac3983b67e3d6b7b4cee346d7ce0c1b0055a658d19fe0222facb77be8ea1f53`. Body: **6,304 words**, against **5,063** in the exact selected baseline.
 
-**Standing:** complete model-composed section candidate; connected and whole-section composition passes and candidate reviews performed. Exact original Subject-formula authentication and full contracted recovery are incomplete. This is not a `ready_for_whole_pass` return or authorial acceptance. Those lane obligations are not transferred to the coordinator by this document.
+**Standing:** complete model-composed section, ready for the accumulated whole pass. Source-backed Subject reappointment, complete connected performance, local source/literary reviews and structural checks are returned. This is not authorial acceptance or certification of the other seven lanes. No neighbouring section or shared source has been edited.
 
-## Incoming: M48 → M01
+## 1. Incoming: M48 → M01
 
-The selected baseline ending was read directly in `../../baseline/s50.md`, blob `fb5dc736f233903fea6e21c459e0197b0bfd3370`. It returns the instrument to the one knowing through it, preserves the other person's independently answering life, and releases the made work. Its instrument-panel callback did not match the selected opening. That was fidelity finding s01-F03; the correction belongs at the callback, not in a fabricated scene at M01.
+The original selected baseline ending was read earlier, blob `fb5dc736f233903fea6e21c459e0197b0bfd3370`. Its instrument-panel callback did not match the selected opening. The correction belongs at that callback, not in an invented opening scene.
 
-The new s50 delivery is now a second, actual witness. Its complete `../s50/SEAM-RETURN.md` was read on the shared branch, blob `5f7daeb7afb4b5b5d83557da8baba7e9c7aee2dd`. The terminal prose was then read directly at candidate commit `5a5d6272b8bc6bd39bb5ebec2f1d02e56ba5eafa`, SECTION blob `a429592472270bf67b87bde377d06a74a53e1980`, source lines 160–220. This is delivered peer text with its own incomplete recovery gate, not a replacement authority for our original baseline.
+The **current** s50 witness supersedes the earlier peer revision: prose commit `7cd656c36aa3f76d87699b5ae18698b00da304d3`, SECTION blob `72d5fd19cb0f1d05da25f8737425010862ec5491`, SHA-256 `d2d8dc1390338babc25290d2cd2e7f154cf2746c021b0264e18f51ca24799e12`. Its full SEAM-RETURN was read, blob `c1495a88aecfc52b590311cd2033ff822c31dfa5`, and the actual terminal prose was read at that commit, source lines 180–235.
 
-Its corrected return reads:
-
-> What is it that knows? The opening question returns through the accounts it has made possible.
-
-And:
-
-> I am. The recognition gives no final portrait to the page.
-
-The false instrument-panel callback is absent from this delivered ending. The ending's own seam report still records that s01's seam was unavailable at its check; that statement describes its earlier check, not a current absence.
-
-Our exact entrance is:
+Our exact entrance remains:
 
 > What is it that knows? The question turns towards the one asking it.
 
-The difference between entrance and return is acquired work. The first occurrence begins an inquiry into the knower and its account. The last occurrence comes after the means have acquired historical, formal, psychic and technical articulation and can be entrusted or set down. The beginning must not import that terminal achievement as an already completed premise.
+The current M48 returns:
 
-## What this candidate actually establishes
+> What is it that knows? The question now returns through this failure of enclosure.
 
-M01 distinguishes improvement of an account from the present apprehension of its result, and separates effective agency, an account of its formation and phenomenal experience. M02 gives self-identity and difference separate necessary offices, joins name/instance/circumstance, and follows definition through assertion, failed enclosure, disclosure, context and first-person recognition. The new Subject-led sentence remains a disclosed adaptation; it is not the missing authenticated original.
+Its first-person turn then begins:
 
-M03 preserves definition's positive power while distinguishing accuracy under a criterion from the authority to substitute that criterion for another. M04 retains the exact differences between formal formation, arithmetical derivability, elucidation, practice, process and changed calculus. M05 turns contextual disclosure into a question of what can alter judgment: an excluded source must have an authorised route into the relevant inference, rather than merely appear as contextual metadata. M06 returns this work to the effective means of differentiation.
+> I am. The recognition is undertaken from within the activity which the account was asked to contain.
 
-The six movements therefore hand on a positive problem, not another assertion that knowledge is inadequate. They distinguish the one knowing, the means through which something becomes known, the account of those means and the world which can answer that account.
+And it reaches the Other:
 
-## Outgoing: M06 → M07
+> My account can now be offered without being asked to take my place. You can answer from a life it cannot finish.
 
-The selected s0 baseline was read, and the new delivery was also checked. The actual neighbouring candidate is at commit `0b6ee55ad6ba927eeccfc77fdef29dd84abed4fb`, SECTION blob `d8c49cda75a76c19ac08f48e142e51b54de00dca`. Its M07 opening and complete seam return were read; the latter's blob is `46585f7fd357865d1c8397eb6943e64199295734`.
+The false panel callback is gone. **s01-F03 is resolved against actual peer prose.** The terminal order remains encounter with `1/0` → recognition of `0/1` → the full inverse relation. It must not be reversed merely to make the final sentences more symmetrical with the opening.
+
+The question has changed through the work between its occurrences. M01 begins the investigation; M48 receives the historical, formal, psychic, technical and institutional articulation and lets the made work be entrusted or put down. M01 must not import that acquired result as an already demonstrated starting premise.
+
+### The peer's old opening-status note is superseded
+
+The current s50 seam read the previous s01 draft and correctly recorded its then-unresolved formula hunt. That is historical, not the state of this final s01. SOURCE-RETURN and FINAL-RECOVERY now identify the exact original God formula and Q27's explicit instruction for the Subject reappointment. SECTION discloses that rendering instead of pretending to have found a separate verbatim Subject sentence. The coordinator should consume this completed identity and not retain the old gate as a live blocker.
+
+## 2. What s01 establishes
+
+M01 distinguishes an account's improvement from its present apprehension and separates functional agency from the open phenomenal question. M02 establishes self-identity through difference, name/instance/circumstance and the means/knower distinction; tests fusion and severance; applies the recovered definition to its own apprehension; follows failed enclosure into successful disclosure; distinguishes contextual availability from first-person recognition; and returns to finite discrimination and obligation.
+
+M03 distinguishes an accurate count from the authority to substitute or protect its criterion. M04 preserves the different operations of formal formation, arithmetical derivability, elucidation, practice, process and changed calculus. M05 makes perspective's conditions and authority readable, including the difference between recording a condition and changing the operation it governs. M06 opens the investigation of formative means, with zero still a promissory sign.
+
+The outgoing result is consequently positive: knowing, means, known and the account of their relation are distinguishable, and that distinction gives further inquiry something to do. It is not a declaration that every description is inadequate in every respect.
+
+## 3. Outgoing: M06 → M07
+
+The delivered s0 candidate remains at prose commit `0b6ee55ad6ba927eeccfc77fdef29dd84abed4fb`, SECTION blob `d8c49cda75a76c19ac08f48e142e51b54de00dca`, SHA-256 `4f7a201d54448322d63a60b787865f907f7e8bd4c16805ce2ad5e3e04143687f`. Its M07 was read in the preceding pass and its complete unchanged seam was reread, blob `46585f7fd357865d1c8397eb6943e64199295734`.
 
 Our exact exit is:
 
 > The means are real enough to investigate and to change. How does awareness differentiate itself into the means by which it knows, and the world it knows through them?
 
-The delivered M07 begins:
+M07 begins:
 
 > A voice calls my name. Until that moment it belonged to the surrounding sound; now it addresses me. I turn.
 
-The new section performs the answer through a changed field of salience, memory and possible response. It can distinguish prakāśa/vimarśa, retained trace/recollection/imagination, and the ways a name becomes an address without re-proving the whole opening's definition. Its practical account of the inner instrument then has the space the opening has left it.
+This answers the opening through a changed field of salience, memory and possible response. It develops the cognitive triad, retained/recollected/imagined presentations, the blue/yellow distinction, address and the inner instrument. It does not need to restart the whole Subject-definition performance.
 
-### The vortex is a definite dependency
+**The vortex remains a definite dependency.** M07 explicitly recalls Bohm's vortex at the threshold. Final M06 retains the relatively stable form sustained by moving water and the distinction between that physical organisation and its apprehension. The coordinator must change both passages together if the image is later moved; it must not leave a backward reference to a missing scene.
 
-M07 contains this backward reference:
+**One local overlap to judge:** M02's brief Śaiva mirror/self-revelation paragraph and M07's fuller reflexivity/regress account have related work. M02 closes the definition and protects recognition from a manufactured watcher; M07 develops how the means are known. Fold repeated explanation only after reading both actual passages. Preserve M07's fuller positive analysis and M02's necessary prerequisite rather than deleting one by keyword similarity.
 
-> Bohm's vortex at the threshold gave achieved form a sustaining movement: the shape persists through the water's activity.
+## 4. Recurrence appointments
 
-M06 retains the actual vortex: relatively stable form persists through moving water, and Bohm's proposal follows achieved form into enfolding/unfolding. It also states that physical organisation does not itself supply apprehension. M07 can therefore add its question of manifestation's knowing without repeating the water explanation. Removing or relocating M06's vortex at assembly would require changing the actual M07 reference, not leaving a missing antecedent.
+| Opening carrier | Later return and changed work |
+|---|---|
+| M02 name, instance and circumstance | M07 turns a name into address and possible response. Later persona/continuity material may receive the identification question without repeating the same homonymy example. |
+| M02 fourth and fifth | s3 gives the precise formal/perspectival construction; s4 develops the recogniser's psychic transformation; M48 returns the fully acquired account to first-person presence. Contextual description must not swallow recognition. |
+| M02 Subject/God direction | M47 develops genuine divine self-limitation, the four attributes, omnivalence and omni-lemmicity. Those later arguments are not added to the opening as another schematic list. |
+| M02 anonymous sphere | M04's polygon has a different operation. Later theological comparisons keep their separate source history; neither Cusa's authorship of the older image nor transmission to Kashmir is invented. |
+| M03 attendance/affectedness/standing | The later measure and Power arguments inherit useful distinction before its possible usurpation. A justifiable stable criterion and an immune criterion are different. |
+| M03 corresponding token | Later trust and final release retain the absent counterpart and actual encounter. The token's exactness cannot supply the other's answer. |
+| M05 stained glass | Later Bimba/QL/MEF naming receives source, spectral order, apparatus and projection already enacted. QL is not reassigned to the lead frame; a completed picture does not manufacture its light. |
+| M05 invested context and absent Father | Later measure, mediating office and counterfeit sourcehood retain the desire for a final standard and the finite surrogate's actual authority. No quotation from Gebser is invented. |
+| M05 inaccessible delivery evidence | s5 gives the fuller technical constitution; M48's archive/evaluator case reaches the rule of admission itself. These are different depths of correction, not interchangeable generic demonstrations. |
+| M05 psychic-fact office | s4 can receive dream, image, energetic report and symbolic transformation without treating occurrence, report and causal interpretation as one claim. |
+| M06 zero and vortex | s1 earns zero historically and arithmetically; s0 investigates the means; s3 derives the native formal construction. The opening has not already discharged those obligations by displaying a glyph. |
 
-## Recurrence appointments
+## 5. Exact formal obligations for s3
 
-| Opening operation | Later appointment and changed work |
-| --- | --- |
-| Name, instance and circumstance in M02 | M07 develops address, I/you/it and a reply which can change a description. Avoid repeating the homonymy example at full length merely to restart it. |
-| Knowing a means versus being its Subject | M08–M12 distinguish the inner instrument, practical alteration, appropriation and recognition. A representation of the means is not their whole operative constitution. |
-| The tested definition's fourth and fifth turns | s3 receives the actual formal/perspectival obligations; s4 may follow their psychic life. Do not reduce recognition back to a report of participation. |
-| Positive cut and the attendance/affectedness/standing example | Later dia/syn and measure arguments must preserve exact discrimination while following the criterion's possible self-protection. The opening does not condemn counting. |
-| The complete corresponding-token encounter | Later Symbol/Account/Trust and the ending's release retain an absent counterpart able to answer. Token, fit and counterpart must not become an inventory of emblems. |
-| Stained glass: source, panes, seams, projection, room and viewer | Later Bimba/QL/MEF naming can specify the already visible optical offices. The opening has not reassigned QL to the frame or Bimba to a constructed picture. |
-| M05's constructed assistant and inaccessible delivery evidence | s5 owns the fuller product constitution; M48 owns the erroneous-reference/higher-order-evaluator test. Here the inference is changed by relevant evidence; there the rule of admission must itself change. Do not duplicate both as the same generic example. |
-| The anonymous infinite-sphere image in M02 | The Cusan polygon comparison remains separate in M04. Later theological and Śaiva uses must retain their own textual provenance and distinguish source intimacy from private ownership. |
-| Promissory zero in M06 | s1 supplies historical/arithmetic operations; s3 supplies native formal constructions; M48 returns the mathematically exact sign as Symbol. The initial mark has not already performed these later tasks. |
+The full canonical definitional support states `0 IS AND/OR IS-NOT EQUAL TO 1`. M02 receives its qualified identity/difference reasoning, not a new truth-table or arithmetic formula. s3 owns the displayed notation, its local operations and its relation to the wider native field.
 
-## What s3 still has to earn
+The primary personed traversal is `1–2–3 / 4–5–0`: sequential persons followed by voiding exclusive isolation, recognising unity and returning that one as `0/1`. The recognition pass is three operations of one recognition, so the relation reads `3:3` and `3:1`. The explicate/implicate `4:2` is a different cut. The generative `2+2²=4+2` is yet another statement and cannot be replaced by either ratio.
 
-The opening has performed a change from sequential determinations to their contextual availability and then to first-person recognition. It has not derived the formal schema by merely counting its paragraphs. s3 must show the native construction and its reading, including the different offices of singles/doubles, the relation between six positions and the parent/six/return determinations, and the exact inverse-phase operations.
+Singles/doubles, the two processual readings, inverse parent phases, eight determinations, full First Spanda syntax, Second Spanda accounting, topology and musical return keep their local derivations. The opening supplies an enacted question and recognition; counting its paragraphs does not prove those constructions. A diagram of triangle/square is not a substitute for the personed reasoning, and ordinary arithmetic does not acquire permission to evaluate an undefined quotient from the native notation.
 
-In the mature source spine, the primary `1–2–3 / 4–5–0` reading is first-, second- and third-person perspective followed by voiding exclusive isolation, recognising unity and returning that one as `0/1`. This makes `3:3` also `3:1`. The `4:2` distinction is a different cut, between four explicate positions and two implicate poles. Earlier physical/mental or harmonic presentations are additional readings, not permission to reverse that primary derivational order.
+## 6. Assembly and publication handling
 
-A geometric image of triangle and square does not by itself prove the subject-structure, nor does ordinary arithmetic license undefined quotients. The actual Spanda, topological and inverse-phase operations retain their own formal burdens. The opening preserves those burdens by not publishing their results as unexplained decoration. It gives them a lived question and an achieved recognitive distinction to articulate.
+Use this one complete `SECTION.md`. Preserve movement comments M01–M06 and the 25 `s01-` note identities until a deliberate global migration. Do not append recovery checkpoints, source ledgers or review prose to the manuscript. The exact source-backed Subject rendering must retain its note distinguishing reappointment from a separately recovered verbatim sentence.
 
-## M47 and M48 must keep their deeper offices
+The source/edition tasks are explicit in the notes and SOURCE-RETURN: selected Descartes/Kripke/Gebser/Dyczkowski/later-Wittgenstein/Flasch collation, paraphrase versus quotation, and The Blind Spot's actual synopsis scope. Those are publication-apparatus obligations, not reasons to turn a supported native argument into tentative neighbouring prose. The Unknown aphorism's placement remains for authorial judgment, and unconfirmed personal testimony stays outside the candidate.
 
-M02's God/Subject identification is positive and first-person, with finite ownership expressly distinguished. It does not unpack the four omni-attributes, omnivalence, omni-lemmicity, the argument that freedom includes genuine self-limitation, or the full Job movement. Those retain their appointed later home at M47.
+The accumulated pass must judge recurrence, proportion and the terminal return from actual delivered text. It is not executed here. The coordinator may harmonise global notes, fold true duplication and refine rhythm without losing the inference which prompted this commission. Ready status does not mean that the author has accepted the prose.
 
-M48 does not need to repeat the entire defining proof. Its task is the acquired return through the instrument and the real freedom of another recipient, including release. The corrected delivered ending fulfils the local question/portrait recurrence without inventing an opening panel. The mechanism itself remains at M45.
+## 7. Proposed shared/canonical amendments — not applied
 
-## Coordinator and lane boundaries
+Record the Q27 name-switch instruction and the distinction between exact original formula and disclosed Subject rendering in any shared source-routing summary that still treats a separate standalone sentence as the only possible completion. Preserve the authorial correction that clear knowing precedes reflection; a new I-image is not a newly created Subject. When assembling, replace references to the older blocked s01 identity with this reviewed prose commit. Reconcile the possible M02/M07 reflexivity reprise and preserve the paired vortex dependency.
 
-The coordinator owns the assembled eight-section source/voice/recurrence pass, global note harmonisation and any authorised canonical amendments. This lane has not assembled, merged or rewritten any of them. All six `movement:Mxx` identities and the 24 `s01-` notes remain stable in the candidate until a deliberate whole-manuscript migration.
-
-The lane still owns its original Subject-formula authentication and unfinished mandatory source recovery. This is the unmet dependency on promotion, not a request that the coordinator quietly perform missing work. Any later replacement of the new Subject sentence must be checked against the whole M02 run and the recognitive returns just recorded.
-
-The new sphere verification and the adapted-text Descartes check can be proposed for source-house admission, retaining their exact editions and limits. No source house was modified. The Unknown aphorism's exact wording is authenticated, while its placement remains a proposal. First-person trust testimony has not been introduced. No further shared-file changes were made.
+No shared map, source house, baseline, canonical body, neighbouring lane or sovereign manuscript was changed to make this return.
