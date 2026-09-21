@@ -1,0 +1,18 @@
+{
+  "key": "s1",
+  "owner": "chatgpt-s1-source-enrichment-2026-09-21",
+  "state": "claimed",
+  "baseline_blob": "0da93e169848f9bf7deb706e3e2445162951d70b",
+  "baseline_ref": "8d6cde08b19783e5bf7efb1e90f6d08546fc772a",
+  "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
+  "starting_branch_head": "91c49e97a6f2e6e8a37170030746faa1911059ec",
+  "candidate_sha256": null,
+  "recovery_complete": false,
+  "connected_pass_complete": false,
+  "whole_section_pass_complete": false,
+  "source_review_complete": false,
+  "literary_review_complete": false,
+  "seam_return_complete": false,
+  "blockers": [],
+  "standing": "Commissioned model-composed candidate for authorial judgment; no acceptance asserted."
+}
