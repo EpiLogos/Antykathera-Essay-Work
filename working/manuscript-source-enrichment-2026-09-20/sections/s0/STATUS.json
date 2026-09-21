@@ -1,25 +1,70 @@
 {
   "key": "s0",
   "owner": "chatgpt-s0-saiva-recognition-2026-09-20",
-  "resumption": "same commissioned lane resumed after interrupted response; existing checkpoints preserved",
-  "state": "reviewing",
+  "state": "ready_for_whole_pass",
+  "completed_on": "2026-09-21",
+  "resumption": "Same interrupted commissioned lane; published prose and original-source checkpoints preserved, missing final receipts completed.",
+  "branch": "codex/manuscript-source-enrichment-2026-09-20",
+  "section_path": "working/manuscript-source-enrichment-2026-09-20/sections/s0/",
   "baseline": {
     "path": "working/manuscript-source-enrichment-2026-09-20/baseline/s0.md",
     "blob": "28a16ccd2407d17d3e611438d3a4a36b559c3d41",
-    "ref": "28da5ddaca7ea690b4334dc7c844184bdade4ab1"
+    "ref": "28da5ddaca7ea690b4334dc7c844184bdade4ab1",
+    "original_path": "working/manuscript-drafts/s0-differentiating-mind.md",
+    "sha256": "5e5d1b0d56aa3613ccaad7e8af2454482b12310723553dc50b29465c53c85cf2"
   },
   "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
-  "prose_checkpoint_commit": "0b6ee55ad6ba927eeccfc77fdef29dd84abed4fb",
-  "prose_checkpoint_blob": "d8c49cda75a76c19ac08f48e142e51b54de00dca",
-  "source_checkpoint_commit": "b9e163d63fc8bfa65ce3702cbc1bb17180e87ebf",
-  "candidate_sha256": null,
-  "recovery_complete": false,
-  "connected_pass_complete": false,
-  "whole_section_pass_complete": false,
-  "source_review_complete": false,
-  "literary_review_complete": false,
-  "seam_return_complete": false,
-  "whole_manuscript_pass": "coordinator-owned; not performed by this lane",
+  "fidelity_review_pin": "832b994cef9480cdfa0abbb08bc01af9fdee068e",
+  "prose_commit": "0b6ee55ad6ba927eeccfc77fdef29dd84abed4fb",
+  "candidate_blob": "d8c49cda75a76c19ac08f48e142e51b54de00dca",
+  "candidate_sha256": "4f7a201d54448322d63a60b787865f907f7e8bd4c16805ce2ad5e3e04143687f",
+  "candidate_bytes": 59370,
+  "counts": {
+    "method": "Whitespace-separated tokens before ## Notes, HTML comments removed, headings retained; note definitions excluded.",
+    "baseline": 6074,
+    "candidate": 7500,
+    "increase": 1426,
+    "heading_tokens_each": 44,
+    "baseline_excluding_headings": 6030,
+    "candidate_excluding_headings": 7456,
+    "movement_markers": ["M07", "M08", "M09", "M10", "M11", "M12"],
+    "notes": 31
+  },
+  "recovery_complete": true,
+  "recovery_scope": "Section-bearing original operations and mature corrections; actual coverage and unconsumed archive/edition boundaries recorded in SOURCE-RETURN.md.",
+  "connected_pass_complete": true,
+  "whole_section_pass_complete": true,
+  "source_review_complete": true,
+  "literary_review_complete": true,
+  "seam_return_complete": true,
+  "findings": {
+    "s0-F01": "Repaired: full five-pressure argument and task-specific positive Saiva adoption, with Buddhist corrections preserved.",
+    "s0-F02": "Repaired: changed state, improved account and recognitive ground distinguished; thought-as-medicine and nirvikalpa reasoning developed.",
+    "s0-F03": "Preserved and clarified: original directional consciousness correction governs, not blanket vocabulary policing."
+  },
+  "verified_artifact_blobs_before_ready": {
+    "SECTION.md": "d8c49cda75a76c19ac08f48e142e51b54de00dca",
+    "SOURCE-RETURN.md": "c6e876709c9175fb76a14f3c3138f2d02655a578",
+    "REVIEW.md": "fff39c2ca30da9f54ede0b49f499ec46177232c4",
+    "SEAM-RETURN.md": "46585f7fd357865d1c8397eb6943e64199295734"
+  },
+  "review_provenance": "Distinct same-context source-fidelity and literary passes, revisions, and resumed complete remote reread; no independent reviewer or specialist philological review claimed.",
+  "verification_provenance": "Candidate computation recovered from the original execution and bound to identical remote Git blob and byte size; pinned baseline body recounted during resumption. No repository-wide effects/navigation test claimed.",
+  "safe_write_route": "Connected GitHub Contents API, explicit shared branch, current blob SHA on existing owned files; ready status written after all four substantive artifacts.",
   "blockers": [],
-  "next_action": "Close the recovery checkpoint's named remaining source/authority checks; review the full committed candidate, repair any failures, publish REVIEW and SEAM-RETURN, verify content and counts, then write ready status last."
+  "publication_debts": [
+    "Dyczkowski selected-edition collation and unavailable continuation beyond the held transcript ending during page 81.",
+    "Singh/Vak edition collation; provisional introduction-page leads.",
+    "Pind fragment attribution remains provisional; Apoha collection chapter/page collation remains outstanding.",
+    "Whitehead corrected-edition collation: purported local-copy carrier is an availability marker.",
+    "Cleary English collation and disputed Huayan attribution; Bohm original-container bibliography.",
+    "Clean public source routing for note 28 and final note-display harmonisation."
+  ],
+  "cross_section_dependencies": [
+    "Enriched s01 and s1 seam-return files returned 404 at closure; checked pinned M06/M13 seams are recorded. Coordinator must reconcile their eventual enriched passages.",
+    "Coordinator owns whole-manuscript proportion, terminology, recurrence, final publication and any shared/canonical amendments."
+  ],
+  "whole_manuscript_pass": "coordinator-owned; not performed by this lane",
+  "publication_certified": false,
+  "next_action": "Coordinator consumes the complete s0 section and receipts for whole-manuscript assembly and review."
 }
