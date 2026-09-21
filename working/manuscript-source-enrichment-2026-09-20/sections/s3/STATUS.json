@@ -2,7 +2,8 @@
   "key": "s3",
   "owner": "s3-source-enrichment-2026-09-20-connected-session",
   "resumed": "2026-09-21",
-  "state": "drafting",
+  "continuation": "s3-2026-09-21-finalisation",
+  "state": "recovering",
   "baseline_blob": "741228ed81f782dba0584616ef546b3db0a48be9",
   "baseline_ref": "b8f368326a341b68a4ad8bda3c808030d105cbf1",
   "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
@@ -15,5 +16,5 @@
   "seam_return_complete": false,
   "whole_manuscript_pass_complete": false,
   "blockers": [],
-  "execution_note": "Complete core and declared native supports recovered; constructive findings preserved in SOURCE-RETURN and RECOVERY-SUPPLEMENT-2026-09-21. Baseline M24/M31 seams read. Composing the complete six-movement candidate while final source-lineage coverage remains explicitly open; no ready or authorial-acceptance claim."
+  "execution_note": "Resuming the same commissioned lane from its preserved SOURCE-RETURN, RECOVERY-SUPPLEMENT-2026-09-21 and PASS-1, not restarting from a later global manuscript. Reopening operative sources and completing outstanding lineage coverage before whole-section revision and separate source/literary reviews. Existing checkpoints are preserved. No ready, independent-review or authorial-acceptance claim."
 }
