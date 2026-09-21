@@ -26,6 +26,18 @@ The closing movement differentiates earned completion from indefinite production
 
 s50 receives that instrument and owns the actual 4:2 Technē proposal, Antikythera mechanism, full mirror and final release. s5's distinction among the `4+2` body, `3:3` traversal and `4:2` reading is formal preparation, not an interface or historical-machine specification. No s50 body, seam rewrite or final whole-manuscript assembly has been performed here.
 
+## Candidate entrance and exit
+
+Entrance:
+
+> A person sits before a screen trying to bring something into the world. The immediate task might be an essay, a program, an image, a repair.
+
+Exit:
+
+> The instrument has done its work when the life it serves has gained a real possibility, including the possibility of setting the instrument down.
+
+These are exact quotations from the candidate, not proposed replacement seams. The entrance receives an undertaking already bearing psychic and historical conditions; the exit releases a finite work while leaving its means available for the sourceward return.
+
 ## Integration and standing
 
 Use one `SECTION.md` body; exclude recovery, review and publication-option prose from the assembled manuscript. Preserve its 15 unique anchors and all 51 note identities unless a deliberate global note migration is recorded. The lane-relative source links climb four levels to the repository root; rebase them if the body is moved. Keep the original 47 notes' source offices, including selected-edition qualifications. The four added notes are `s5-practice`, `s5-retries`, `s5-nhs-case` and `s5-palantir`.
