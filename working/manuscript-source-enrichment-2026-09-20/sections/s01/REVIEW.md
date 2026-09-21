@@ -1,121 +1,123 @@
-# s01 — Candidate review and release decision
+# s01 — Final candidate review
 
-## Decision
+## Decision and reviewed object
 
-**Complete prose candidate deposited; full writing commission not yet complete. Do not promote to `ready_for_whole_pass`.** The connected-passage and whole-section composition passes, a distinct candidate-source review, a distinct literary review and local integrity checks have been performed. The required original Subject-worded formula and its later correction remain unauthenticated, and the mandatory source-reading programme is unfinished. The candidate's new formulation is disclosed as an adaptation rather than passed off as that original.
+**Ready for the accumulated whole-manuscript pass.** The complete section has been revised from the selected baseline through the recovered source relation, and source-fidelity and literary/dependency reviews have been performed in separate passes. This is a model-composed candidate, not authorial acceptance or a final public edition.
 
-This is a same-agent, separate-pass review, not an independent critic, blind review, authorial acceptance or a whole-manuscript assembly. The full recovery obligation remains with this lane; a seam return does not transfer it to the coordinator.
+Prose commit: `76bd1a770cc86d64ac8944ba61bea29e5a8f8aa7`. Path: `working/manuscript-source-enrichment-2026-09-20/sections/s01/SECTION.md`. Git blob: `d4c94bab369de836253277e873e98d00b9bebc70`. SHA-256: `dac3983b67e3d6b7b4cee346d7ce0c1b0055a658d19fe0222facb77be8ea1f53`. UTF-8 bytes: **50,707**.
 
-## Objects actually reviewed
+This review supersedes the release decision for the earlier 6,134-word candidate at `066c25fa34019891bb85ca47b3dbe8ff115ca8b1`. That review remains in Git history. The new source decision was recorded before composition in `FINAL-RECOVERY.md`, commit `25ece8577722b904e417e4e51a530677a067fd6c`; the completed source-to-passage mapping is in SOURCE-RETURN.
 
-| Object | Identity | Body words |
-| --- | --- | ---: |
-| Selected pre-enrichment baseline | Original ref `94cea9bf3064594555f46e3d2010d003a1752ad6`; Git blob `8d62eaf658201336010252b39fb43db3fa544e22`; SHA-256 `35cdb8ef50ee1be190434ab0e2bce358436ef95f5a18f094e3313d4abc35649d`; 37,056 bytes | 5,063 |
-| First complete local candidate | SHA-256 `626b3925ad3e88822654dd332819838e168c24c097da6b9a4ad92d69914d93fb`; 48,126 bytes | 6,115 |
-| Revised published candidate | Prose commit `066c25fa34019891bb85ca47b3dbe8ff115ca8b1`; Git blob `d7ec90b574262bc136251cb5f0883e73fe4da19b`; SHA-256 `689acf1bf3ee3ccac46fdc9835a45d4bbf10b4b2c6a70c98fdd95983b13f0688`; 48,266 bytes | 6,134 |
+## Method
 
-The local baseline reconstruction was checked against the exact selected Git blob before comparison. The remote candidate's blob was read at its prose commit and matches the local candidate's computed Git blob. The local SHA-256 therefore identifies those same published bytes.
+The same agent carried out both reviews. Source-fidelity review compared the changed proposition, its distinct inferential steps and the retained source boundaries against the recovered carriers. Literary review then considered dependency, paragraph work, transitions, repeated explanation, negative constructions and the whole six-movement traversal. The writing laws, G1–G10 rubric and comparative/negation gate governed the review. Earlier exposure to calibration and source discussion prevents calling this a blind or genuinely cold review. No independent reviewer was used.
 
-The same counting method was applied to all three texts: take the text before `## Notes`, remove HTML comments, Markdown heading lines and footnote reference tokens, then count whitespace-separated tokens. The candidate adds 1,071 body words, approximately 21.15%. These numbers describe proportion; they do not certify fidelity or literary quality.
+The two composition scales are complete locally: connected passage revision and whole-section recomposition. The third, accumulated eight-section pass, is prepared through SEAM-RETURN and is not claimed executed. Native repository tests and the effects-map tool were not run; the actual connector retrieval followed the relevant declared source/argument routes.
 
-## 1. Separate candidate-source review
+## 1. Source-fidelity review
 
-The governing claim was restated without defending the draft: the opening must make self-identity through difference, definition's positive discrimination, failed enclosure, productive disclosure, contextual availability, first-person identification and return perform different necessary operations. Historical sources can clarify these operations without replacing their reasoning or being made to prove more than their own arguments establish.
+### The decisive recovery and its exact limit
 
-### The pivotal finding remains open
+The original formula is God-worded. Q27's copula contribution, §8, explicitly instructs that God and Subject are one defining performance under opposite orientations, with the name swapped. The final Subject-led sentence is the disclosed rendering of that instruction. It is **not** a new claim that a separately worded Subject sentence has been found verbatim.
 
-The original/core defining sentence is God-worded: “God is the whole that any coherent representational system participates in and necessarily fails to contain.” The candidate prints that sentence separately. Its Subject-led sentence is new model prose, with its standing disclosed in note `s01-native` and in SOURCE-RETURN. No word-for-word Subject original or subsequent corrective occurrence has yet been authenticated through the whole required route.
+The earlier improvised sentence has been replaced. Its note no longer leaves an indefinite hunt for a missing original as the candidate's ruling condition. The original formula, the actual reappointment instruction and the new continuous prose are distinguished. The footnote names actual authorial works and semantic arguments; it does not ask a private audit report to become the manuscript's public evidence.
 
-The present candidate consequently supplies a proposed enactment, not a claim that the decisive textual recovery has been completed. Neither its length, the number of stages, nor the existence of a fuller A01 licenses that claim. The exact recovery and the unfinished source coverage are release blockers, not a reason to suppress the supported completed prose.
-
-### Distinctness of the performed steps
-
-M02 now gives definition's positive act before its failure. Self-knowledge requires a presentation different from its apprehension and an identifying relation through that difference. The name/instance/circumstance passage then shows why a bare name does not settle which identity is being asserted. The seeing and portrait sequences make the means objectifiable without making the current apprehension an additional portrait. Descartes enters at doubt's occurring certainty, followed by the separate determination of a thinking thing.
-
-The definition turns upon its own use; its failure concerns enclosure, while productive success changes the use into disclosure. The contextual fourth gathers the positions and their situation. The fifth is expressly not completed by a diagram of participation: the sought knower is recognised as the one undertaking the knowing. The return preserves names, differences, the Other and further inquiry. These distinctions are actually written into the body and mapped individually in SOURCE-RETURN, rather than left as stage labels in this review.
-
-The God/Subject paragraph needed a substantive correction. Being included in a whole does not by itself entail identity with its source. The revised paragraph explicitly states the further metaphysical move: the whole's self-presence in this knowing is recognised as Subject. It retains the source's affirmative claim without claiming that the preceding membership premise or a mathematical theorem automatically proves it.
+“Whole” posed a real scope risk. Taken without a stated respect, it could make a finite person's contents all reality or erase the Subject/means/known distinction. The final paragraph immediately states that the whole is approached in self-presence, from the Subject pole, and distinguishes it from a person's inventory. The God paragraph then develops the same directional relation. This is a source-backed philosophical claim with its scope made explicit, not a formal inference from mere membership in a set.
 
 ### Fidelity findings
 
-| Finding | Candidate disposition | Remaining limit |
-| --- | --- | --- |
-| s01-F01 — full defining recognition | Proposed repair across M02's self-identity prerequisite, tested definition, fourth/fifth distinction and first-person return. | **Not closed:** exact original Subject formula/correction and complete required recovery remain open. |
-| s01-F02 — Gebser/Heidegger/operative context | M05 connects situated perspective, normative world-picture, the complete stained-glass event and a constructed evidence/access/inference example. The example distinguishes displaying a condition from changing the relevant operation. | It is a philosophical construction, not a deployed-system report. Full remaining source-house/quilt coverage still needs completion. |
-| s01-F03 — false opening panel | M01 begins with the specified question; no mechanism or panel is inserted. The new s50 candidate now independently removes the false callback. | Reciprocal textual compatibility is checked in SEAM-RETURN; no final assembled-whole approval is claimed. |
+| Finding | Final disposition | What actually changed |
+|---|---|---|
+| **s01-F01 — full Subject-definition theorem** | **Repaired for this candidate.** | Original formula and explicit Subject reappointment recovered; improvised alternative replaced; identity/difference and name/instance/circumstance prerequisites retained; fusion/severance, self-application, failed enclosure, productive disclosure, fourth/fifth distinction and finite return performed in the body. |
+| **s01-F02 — Gebser/Heidegger/operative context** | **Repaired.** | Positioned perspective and normative world-picture lead into a complete optical event and an actual distinction between displaying a condition and correcting an inference or authorised evidence route. P5's invested context and absent-Father/standard relation are restored in their own authorial voice. |
+| **s01-F03 — false panel callback** | **Resolved in the paired return.** | M01 retains the actual question. The latest s50 seam returns that question without an invented opening panel. The opening has not been altered to make an erroneous callback appear correct. |
 
-### Source and register checks
+### Distinct inferential steps checked
 
-Kripke's original NOTES were read with SOURCE. The count/name/circumstance extension remains Taylor's encounter, not Kripke's doctrine. The 1980 Harvard book and the house's 1981 intake label are not conflated. No unverified copied Kripke wording is printed as a direct quotation.
+Definition first discriminates; self-knowledge then requires both a presentation difference and an identifying relation. Name and instance need a circumstance to determine which identity is asserted. The seeing/portrait sequence makes the means available without substituting their representation for apprehension. Descartes enters through doubt's occurrence and the later thinking-thing determination.
 
-Descartes's selected CSM II edition remains uncollated. The primary sequence was checked in Jonathan Bennett's adapted text; the note says so. The candidate makes a paraphrase and distinguishes Taylor's rereading from Descartes's intention. The sphere image is located in the anonymous *Liber viginti quattuor philosophorum*, definition II, checked in the Latin text on printed p.442 of the 2002 Veritas publication. It is not attributed to Cusa as originator. Cusa's polygon/circle operation retains its separate role and its distinction from modern convergence.
+The new authorial correction prevents reflection from manufacturing its Subject. The qualified identity/difference test then gives fusion and severance different failures. The reappointed defining sentence applies to its own reading. Enclosure fails because another description adds content rather than performing that reading. Disclosure succeeds through a changed use of the definition. The fourth holds the positions and their circumstance together; the fifth identifies the sought knower from within. The final return restores names, judgment and obligations, with the Other still able to answer.
 
-Russell's formation problem and Gödel's derivability problem remain different. Effective axiomatization, arithmetical strength, consistency and original omega-consistency are preserved. The older native supports' sweeping statements about Gödel are not adopted as the theorem's content. The two Wittgenstein periods retain distinct questions. Whitehead's formation/satisfaction/inheritance is presented as process metaphysics; Varela's autonomous state remains an explicit changed calculus. These comparisons do not turn every act of knowing into a formal arithmetic theory.
+These steps have separate paragraph work. The review did not count stage names or length as evidence that the theorem had been performed.
 
-Spinoza's finite figure, Pind's positive qualified referent and provisional attribution, and the qualified-predication example retain their selected-baseline boundaries. The attendance/affectedness/standing sequence is the achieved baseline example, not a newly authenticated independent approval exchange. The Blind Spot's 2024 use remains explicitly publisher-description-backed. Gebser and Dyczkowski are source-matched/page-mapped paraphrases rather than new print quotations.
+### Sources and preserved boundaries
 
-The complete Unknown/unknowns aphorism was authenticated in the original Phone file. Its placement remains a publication proposal. The first-person defining exercise is constructed reader-enactable prose, not a report of an invented event in Taylor's life. Unconfirmed personal trust testimony was excluded.
+Kripke's name/count/circumstance use remains Taylor's protected encounter and development; no copied notebook wording becomes an independently verified Kripke quotation. Descartes's CSM edition remains distinct from the adapted primary text actually used for the earlier bounded check. The anonymous sphere's exact source is retained, while the Cusan polygon has its own approximation operation.
 
-## 2. Separate literary and dependency review
+Russell's formation repair and Gödel's derivability result keep their different objects and hypotheses. The two Wittgensteins remain distinct works; Whitehead's formation and inheritance remain metaphysical operations; Varela's autonomous state remains a changed formal construction. None is promoted into a theorem that proves Subject or every system's incompleteness. Conversely, these local boundaries do not weaken the native recognitive argument.
 
-The draft was closed before the fault assessment. Eleven targeted replacements were then applied and the changed passages reread in the whole section. The review did not treat a regex match, a word count or a source list as a semantic verdict.
+Spinoza retains finite figure. Pind retains the positive qualified referent and provisional attribution. The attendance/affectedness/standing sequence remains intact. The Blind Spot is still present and still explicitly supported at publisher-synopsis scope. Flasch's chapter description and the author's qualified-predication demonstration are distinguished from a direct Eckhart passage. Gebser and Dyczkowski remain page-mapped/source-matched paraphrases; the Dyczkowski transcript ends at p.81 despite its larger filename range.
 
-| Location and original phrase | Fault and reason | Revision actually made |
-| --- | --- | --- |
-| M02: “none has had to supply a second presence” | F3/G3: an unexplained second presence obscured the knowing/description dependency. | Describing the presence produces another description to understand; it does not create the knowing on which understanding the first already depended. |
-| M02: “treats disputability as an imperfection” | F2/G1: attributed an unsupported attitude to the definition. | Replaced with the precise relinquished demand: that a true description replace the act in which its truth is apprehended. |
-| M02: “another owner of presence” | F3/G5: an unestablished proprietor metaphor obscured retained identity. | Earlier description and present recognition are a difference recognised as mine. |
-| M02: “Reality is not being inspected by someone standing outside reality” | G1: inclusion did not supply the further source-identity conclusion. | Explicitly distinguished the affirmative God/Subject claim from equality of a finite description with all reality. |
-| M02: “Their positive anatomy remains to be investigated” | F5/G3: advertised work instead of giving the local transition content. | A remembered word directs attention; changed attention discloses a mistake. The means have an effective, inspectable role. |
-| M03: “Removing every edge would remove the particular form whose freedom…” | F2: invented a foil about abolishing outlines. | Deleted; retained Spinoza's exact finite-figure operation. |
-| M04: “Whitehead, Russell's collaborator…” | F6/G4: biography added no local inference. | Began with determinate unity as Whitehead's actual problem. |
-| M04: six-item recap beginning “The different gains can now be stated” | F9/G4: catalogue repeated the genealogy without advancing it. | Asked which restriction changed, which operation became possible, and what remained outside the warrant. |
-| M06: “Its later mathematical work must be earned” | F5: editorial stage direction substituted for the current limit of the sign. | Stated that the promissory use has not supplied zero's mathematical operations. |
-| M05: assistant asked “whether a request was received” | G3/G5: question and refusal inference were misaligned. | The task is why the request went unanswered; delivery evidence now bears exactly on the proposed explanation. |
-| M05: “The excluded document has to become available” | G1/G2: access was treated as an unqualified instruction. | Required an authorised evidence route and correction of its bearing on inference. |
+The stained-glass addition restores the source's prior spectral capacity rather than making QL a frame or the projected image its own source. It remains an authored whole image, not a new optical experiment. P5's absent Father remains the author's interpretation, not Gebser's terminology. Reports of psychic facts are received without being treated as verified causes.
 
-### Whole-section finding
+The Unknown aphorism retains both authenticated clauses. Its placement awaits the author's publication judgment. Constructed first-person reasoning is not autobiographical testimony; personal AI narrative and unconfirmed trust quotations remain excluded.
 
-The section develops question → definition and identification → the productive boundary and possible usurpation → distinct formal constraints/repairs → invested contextual disclosure → the means of differentiation. The largest expansion belongs to M02 because that is the commissioned failure site. M03's counterparty and M05's responding Other connect the metaphysical distinction to an actual change of criterion. M04's precision is preserved rather than sacrificed to the opening's metaphysical conclusion. M06 retains the vortex required by the delivered M07.
+## 2. Literary and dependency review
 
-M02 still has a substantial explanatory register and a higher proportion of explicit distinctions than the surrounding movements. That is a candidate for the coordinator's eventual whole read, after source recovery, not an excuse to delete the necessary fourth/fifth difference or compress the defining sequence back into a gloss. The candidate should be judged through its actual acts, not by a demand for uniform paragraph lengths.
+### Revisions actually made in this final version
 
-### G1–G10 disposition
+| Location | Fault or missing work | Repair |
+|---|---|---|
+| M02 defining sentence | G1/G5: improvised wording remained disconnected from the requested original operation. | Replaced it with the explicit Subject rendering of the recovered formula, with scope stated immediately and textual standing in the note. |
+| M02 before definition | G3: the main act/content asymmetry carried too much of the derivation. | Added distinct tests of fusion and severance and the qualified conjunction which preserves knowing and known. |
+| M02 reflective return | G1/G3: older capture language could manufacture a sequence of new knowers. | Introduced the authorial correction: clear knowing precedes reflection; new descriptions do not produce new Subjects. |
+| M02 fourth/fifth | G3/G4: contextual participation could swallow recognition. | Made the account of involvement complete in its own office, then showed why a diagram cannot undertake the first-person identification. |
+| M02 God paragraph | G1/G5: the old “further affirmative move” left the source relation appended rather than developed. | The two directions are now read through the same performance, while finite personality and whole retain their different scopes. |
+| M02/M03 notes | G4/G9: editorial qualification interrupted the reasoning. | Kept provenance and Pind's precise attribution qualification in the apparatus, preserving the operative distinction in the body. |
+| M04 after formal constructions | F9/G4: another list of named authorities repeated their presence. | Recast the return through what changes—formation permission, derivability, practice and admitted states—before returning to understanding. |
+| M04 Whitehead/Varela | G7: repeated defensive disclaimers carried no further argument. | Stated each positive construction and its specific consequence; the necessary formal/source differences remain. |
+| M05 stained glass | G3/G5: the source was named but its positive priority remained thin. | Added spectral capacity before this aperture's selection and the inverse order of source-priority and recognition. |
+| M05 invested context | G1/G4: the absent-standard passage had lost P5's particular figure. | Restored the absent Father, the surrogate's local authority and the return which makes that authority answerable. |
+| M05 technical example | G2/G5: context could remain metadata. | Preserved the actual access/inference correction as a different operation from displaying context. |
+| M06 | G8: a peer section has a definite backward reference. | Retained the vortex and the exact final question, rather than exchanging them for a generic summary. |
 
-G1: owned metaphysical reasoning and external warrants are distinguished; the exact recovery gate fails rather than being silently waived. G2: the reader, definer, name-bearer, criterion-maker and answering Other perform definite actions. G3: definition and self-identity precede the non-enclosure conclusion; the corrected first-person paragraph removes a missing dependency. G4: the recap catalogue was replaced by a further question with work to do. G5: Subject, means, self-description and world retain distinct offices; God/Subject identification has its additional scope stated. G6: copula, concrescence, re-entry, aperspectivity and diaphaneity receive operations rather than prestige-name labels. G7: the retained negatives have the jobs recorded below. G8: the opening and M06 exit fit the actual neighbouring witnesses. G9: no detailed QL table or list of mythic names substitutes for the opening theorem; the Unknown aphorism arrives after its two operations. G10: first-person and affirmative passages survive scope checks, with exact recovery and review-method limitations disclosed rather than aestheticised.
+### The six-movement act
 
-## 3. Comparative and negation ledger
+M01 opens the question through an account which is presently understood. M02 performs the defining return. M03 gives the recovered power of distinction a political and interpersonal test through the criterion of standing. M04 follows the limits and constructive gains of different formal practices. M05 makes a view readable through the situation and authority producing it. M06 returns to the means through which a world becomes determinate.
 
-The complete candidate was swept. The ordinary matcher was `not|rather than|instead of|unlike|whereas`, case-insensitive with word boundaries. It found **55 body occurrences and 11 note occurrences**. The comparative-gate compound pattern found **2 body candidates**, and the negative-opening pattern found **2**; these overlap the ordinary counts. All were reviewed semantically. No protected original, source-house NOTES or neighbouring section was edited.
+M02 is longest because the commission names it as the underdeveloped centre. The section has not been padded to twice the baseline or standardised to six equally sized blocks. The portrait, token and stained glass have different jobs: representation's act/content relation; material recognition across separation; source, medium and changed viewing. Their returns preserve those differences instead of adding a new image whenever a transition needs decoration.
 
-Line numbers below refer to the published candidate blob. Each entry covers all ordinary matches on that line; shared labels apply to multiple occurrences unless separately explained.
+The later section s0 owns the fuller cognitive triad, blue/yellow contrast, address, inner instrument and practical distinctions. M02's concise self-revelation/mirror paragraph creates a possible local overlap with M07; the coordinator may fold duplicated explanation while preserving the distinct work each section performs. That is an accumulated-proportion decision, not an omitted premise or permission to compress the whole definition again.
 
-| Lines (occurrences) | Retained semantic job |
-| --- | --- |
-| 7 (2), 29 (1), 31 (1), 37 (2), 39 (1), 49 (1), 51 (1), 109 (1), 149 (2) | Formal/apophatic distinction: represented content, present apprehension and the scope of promissory zero. The compound at 31 identifies failure arising through successful representation. The negative opener at 51 rejects the exact appropriation which the next quoted self-image exemplifies. |
-| 9 (1), 11 (2), 61 (2) | Claim boundaries: score/criterion, capacity/phenomenality and recognition/ownership. The unanticipated reply remains the Other's real contribution. |
-| 17 (1), 21 (1), 23 (1), 25 (1), 33 (1) | Operational distinctions: effective definition, inscription/reference, name/bearer, circumstance, and occurring doubt/further determination. |
-| 53 (1), 55 (3), 59 (1) | Scope boundaries: representation does not create an exterior to reality; finite identity and source-identification differ; luminous manifestness differs from physical brightness. |
-| 69 (2), 73 (1), 77 (1), 79 (1) | Formal exclusion and operative distinction: Pind's qualified referent, actual token fit, the hypothetical attendance rule and its usurpation. The negative opener at 79 retains the precise difference between finite account and self-protecting authority. |
-| 83 (2), 85 (1), 89 (2), 91 (2), 93 (2), 97 (1), 99 (1), 101 (1) | Formal negation, source-bearing distinctions and claim boundaries: self-membership branches; formation/derivability; saying/showing; rule/practice; and non-equivalence of the distinct theories. |
-| 103 (2), 105 (2), 111 (1), 119 (1) | Source and operational boundaries: approximation/limit, qualified truth/exhaustive possession, Unknown/unknown facts and Gebserian co-presence. The compound at 119 protects the actual source's non-discarding of earlier structures. |
-| 141 (3), 143 (1), 153 (1) | Evidential and operational differences: occurrence/report/cause, changed judgment versus appended item, and physical organisation versus its apprehension. |
-| Notes 159, 163, 165, 167, 171, 187, 189, 193, 199, 201, 203 (one each) | Explicit provenance, quotation, metaphysical/theorem, hypothesis and publication-standing boundaries. |
+### G1–G10 result
 
-Other `no`, `cannot`, `neither/nor` and `without` clauses were inspected in context. They include the formal Russell/Gödel construction and the apophatic reasoning, where mechanically deleting negation would falsify the argument. The repair list records the actual deleted feints; the sweep counts themselves are not a quality score.
+G1 preserves the original operation and its earned force while stating actual attribution limits. G2 gives the definer, reader, name-bearer, evaluator and answering Other actions with consequences. G3 now distinguishes all stages leading to and through recognition. G4 keeps one developing relation per paragraph. G5 makes the whole/Subject respect and the shift from representation to recognition explicit. G6 teaches copula, concrescence, re-entry, aperspectivity and diaphaneity through their operations. G7 retains real apophatic and operational negation. G8 preserves the question and actual neighbouring handoffs. G9 reduces cataloguing and lets the aphorism arrive after its two-sided labour. G10 preserves the direct assertions, first-person return and developed images without claiming that methodological precision alone certifies literary success.
 
-## 4. Notes, notation and integrity
+## 3. Comparative and negation check
 
-All six comments `movement:M01` through `movement:M06` occur exactly once, in order. All 24 footnote definitions are unique and used; there are no missing references or unused definitions. The full body and notes are present. No TODO, placeholder section or pointer in lieu of prose was installed.
+The complete final SECTION was swept and the resulting paragraphs reread. The ordinary word-boundary matcher `not|rather than|instead of|unlike|whereas` finds **51 body occurrences**. This is a candidate count, not a fault count. The narrower stored compound-pattern check returns one `not merely` candidate, at final line 125. It is retained because Gebserian co-presence is being distinguished from a chronology in which earlier structures are simply discarded.
 
-Externally attributed direct quotations retained from the selected baseline are Spinoza's “Determination is negation,” Russell's vicious-circle sentence and Wittgenstein's saying/showing sentence. Their earlier source-verification standing is preserved; this continuation does not falsely claim fresh collation of every edition. The native God sentence and complete Unknown aphorism have their original authorial carriers identified. The infinite-sphere formulation is translated from its verified Latin occurrence. Other quotation marks mostly enclose ordinary words or the essay's constructed examples.
+The retained negatives fall into concrete offices:
 
-The body uses elementary identity examples but withholds the full eight determinations, crossed-zero sequence, binary/polyphase tables and Spanda geometry. Neither `0/0` nor `1/0` is smuggled into ordinary arithmetic. The Subject-led sentence remains explicitly new composition. Its italic/bold treatment is not authentication.
+- **Formal/apophatic:** description and apprehension; self-membership branches; fusion/severance; final enclosure; the promissory zero.
+- **Operational:** name and bearer; accurate count and criterion authority; contextual report and changed evidence/inference; source and projection.
+- **Source/claim boundaries:** functional agency and phenomenal experience; distinct formal jurisdictions; polygon approximation and mathematical convergence; dream occurrence and causal account.
+- **Verified quotation:** the source-worded aphorism and retained short formal formulations remain intact.
 
-## 5. Procedural limits and remaining work
+No universal negative-deletion operation was applied. The phrase counts do not cover every possible negative construction; the semantic review also considered cannot, neither, no and the actual opposed positions. The main removed debris was the old improvised-definition framing, repetitive “additional move” language, catalogue-like recap and repeated source cautions in the body. Exact negation remains essential to the defining performance.
 
-The source checkpoint predates composition, but the full mandatory source recovery was not finished first. Subsequent reading has therefore been used as a fidelity check, not retroactively called pre-draft recovery. Earlier in this interrupted session, the full fault-calibration file had already been opened before the present draft. A calibration-cold independent audit cannot be claimed. This procedural departure remains visible even though the draft received a separate actual review and corrections.
+Protected original writings, SOURCE/NOTES, the immutable baseline, canonical nodes, shared guidance and neighbouring sections were excluded from editing.
 
-No native effects-map, repository regression suite or independent review was run. Container Git could not resolve github.com; the connected GitHub route successfully read and published the actual files. This is not an unavailable-tools excuse. No owner machine, main branch, sovereign manuscript, protected source, canonical node or other section was modified.
+## 4. Mechanical checks and proportion
 
-Remaining lane work: finish the exact Subject-formula/correction route and the full still-declared supports, relevant quilt blocks, Paper/NOTES sequences and canonical owners; revise the candidate where that recovery requires it; repeat the affected fidelity/literary checks; only then change the release gate. The full source frontier, including later completed reads, belongs to SOURCE-RETURN. The coordinator's later eight-section pass is separate and has not been performed here.
+Counting method: take text before `## Notes`; remove HTML comments, Markdown heading lines and footnote reference tokens; count whitespace-separated tokens. The original baseline count is retained from the earlier exact-blob comparison under this method. The final candidate was recounted from its actual local bytes.
+
+| Object | Body words |
+|---|---:|
+| Selected original baseline | 5,063 |
+| Earlier complete candidate | 6,134 |
+| Final candidate | **6,304** |
+
+Final increase over baseline: **1,241 words, approximately 24.51%**. Movement counts are M01 425, M02 2,237, M03 549, M04 1,436, M05 1,317 and M06 340.
+
+The six movement comments are present, unique and ordered M01–M06. All 25 note definitions have references; all references resolve; no duplicated definitions or unused notes were found. The first question and final means-question remain exact. No TODO, placeholder section, early mechanism, replacement outline or premature native mathematical panel is used as the section body.
+
+The local Git object hash is computed over `blob <UTF-8-byte-length>\0` plus the bytes; it equals the GitHub update response's content SHA `d4c94bab369de836253277e873e98d00b9bebc70`. The SHA-256 identifies the same 50,707 bytes. Post-publication readback is recorded in the final status sequence.
+
+## 5. Residual limits and release scope
+
+This is **candidate-specific completion**, not exhaustive archive reading. The key full NDB supports, original formula, explicit reappointment and materially used source operations are recovered. Remaining unrelated archive blocks and later-station developments are not passed off as read. Source/edition tasks stay attached to the claims they affect and do not supply a hidden missing premise in the present section.
+
+The public edition still needs the exact collations specified in the notes. A whole-manuscript editor must judge recurrence and proportion against the other seven delivered sections and harmonise note presentation. The author must judge the prose and publication options. This review neither performs those acts nor certifies artificial phenomenal subjectivity.
+
+No independent critic, native effects-map execution, complete repository test run, owner-machine access, new CI workflow, main merge or canonical-source alteration is claimed. The delivered section, source reconstruction, local checks and explicit seam return are the completed lane result.
