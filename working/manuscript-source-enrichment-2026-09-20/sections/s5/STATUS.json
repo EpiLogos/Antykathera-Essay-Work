@@ -2,13 +2,15 @@
   "key": "s5",
   "owner": "s5-source-enrichment-2026-09-20-gpt6-astra-pro",
   "continuation": "2026-09-21 resume of interrupted commission; existing recovery preserved",
-  "state": "recovering",
+  "state": "drafting",
   "baseline_ref": "e3aee553f002cf9b57ff79f40ee963ad03c5416f",
   "baseline_blob": "427c7d92e35e125145a06f1ed695ee27f7d372ff",
   "baseline_verified": true,
   "source_pin": "26e42cbbbaa795ecc7dcc480a10c40393f5a8352",
   "candidate_sha256": null,
-  "source_recovery_complete": false,
+  "draft_progress": "Entrance, M37 and M38 composed locally; complete section not yet deposited",
+  "source_recovery_complete": true,
+  "recovery_records": ["SOURCE-RETURN.md", "SOURCE-RETURN-CONTINUATION.md"],
   "connected_pass_complete": false,
   "whole_section_pass_complete": false,
   "source_review_complete": false,
@@ -16,5 +18,6 @@
   "literary_review_complete": false,
   "seam_return_complete": false,
   "whole_manuscript_pass": "coordinator-owned; not executed by this lane",
-  "blockers": []
+  "blockers": [],
+  "limits": ["NHS FAQ/contract live re-fetch blocked; current prose must not rely on an unverified contractual interpretation", "Personal first-person publication remains a separate authorial option", "Inherited selected-edition collation debts remain scoped to attribution"]
 }
