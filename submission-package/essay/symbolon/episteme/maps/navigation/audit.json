@@ -1,5 +1,5 @@
 {
-  "source_digest": "d27ec9c9f85c6dc8856477f763ddd801d2a113d9f16fe6ee2c1b3ddb7cfc496f",
+  "source_digest": "c500b651d3ab28764008a1925af54ba218a948f1f66a6ce6f9da03597722d95e",
   "builder_version": "1.1.1",
   "scope": "Workspace-resolved graph, including declared metadata relations. Reader-valid links are audited separately.",
   "reader_links": {
@@ -23,15 +23,15 @@
   "depth_histogram": {
     "0": 1,
     "1": 62,
-    "2": 522,
-    "3": 119,
-    "4": 25,
-    "5": 5
+    "2": 528,
+    "3": 115,
+    "4": 24,
+    "5": 4
   },
   "max_depth": 5,
   "relation_totals": {
-    "unnamed": 5416,
-    "sources": 1330,
+    "unnamed": 5455,
+    "sources": 1334,
     "sources (declared)": 822,
     "returns-to": 657,
     "grounds": 473,
@@ -62,9 +62,9 @@
     },
     "essay": {
       "pages": 1,
-      "links": 8,
-      "named": 0,
-      "unnamed": 8,
+      "links": 51,
+      "named": 4,
+      "unnamed": 47,
       "orphans": 0,
       "no_return": 0,
       "unreachable": 0
@@ -589,9 +589,9 @@
       }
     },
     "working/antykathera-resources": {
-      "count": 48,
+      "count": 49,
       "targets": {
-        "working/antykathera-resources/Antikythera Agentworld Brief.md": 48
+        "working/antykathera-resources/Antikythera Agentworld Brief.md": 49
       }
     },
     "working/final-argument-quilt-2026-08-23": {
@@ -607,6 +607,16 @@
         "working/final-argument-quilt-2026-08-23/NATIVE-020-DEEP-SEAM-RECONCILIATION.md": 2
       }
     },
+    "working/pre-manuscript-refinement-2026-09-10": {
+      "count": 20,
+      "targets": {
+        "working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md": 11,
+        "working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md": 3,
+        "working/pre-manuscript-refinement-2026-09-10/S5-PREWRITE-HANDOFF-2026-09-17.md": 2,
+        "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md": 2,
+        "working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md": 2
+      }
+    },
     "working/conjugate-field": {
       "count": 20,
       "targets": {
@@ -615,15 +625,6 @@
         "working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md": 2,
         "working/conjugate-field/FLIPSIDE-PACKAGE.md": 1,
         "working/conjugate-field/CONCEPT-REHARMONISATION-PROPOSAL.md": 1
-      }
-    },
-    "working/pre-manuscript-refinement-2026-09-10": {
-      "count": 16,
-      "targets": {
-        "working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md": 11,
-        "working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md": 2,
-        "working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md": 2,
-        "working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md": 1
       }
     },
     "submission-package/essay": {

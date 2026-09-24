@@ -5,7 +5,7 @@ page_type: navigation-moc
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "d27ec9c9f85c6dc8856477f763ddd801d2a113d9f16fe6ee2c1b3ddb7cfc496f"
+source_digest: "c500b651d3ab28764008a1925af54ba218a948f1f66a6ce6f9da03597722d95e"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -20,7 +20,7 @@ This map is generated from the relations authors wrote into the publication body
 
 | Position | Class | Pages | Written relations out | Named | Entrance | Intents |
 |---|---|---|---|---|---|---|
-| #5 | The sovereign essay | 1 | 8 | 0% | [The Return of Zero](../../../../THE-RETURN-OF-ZERO.md) | [intents](intents/essay.md) |
+| #5 | The sovereign essay | 1 | 51 | 8% | [The Return of Zero](../../../../THE-RETURN-OF-ZERO.md) | [intents](intents/essay.md) |
 | #0 | The rooms — waypoints, alignments, reading routes | 20 | 847 | 9% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/rooms.md) |
 | #0 | The 48 movements | 48 | 473 | 42% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/movements.md) |
 | #0 | The historical argument shelf (01–21) | 21 | 260 | 5% | [Return of Zero — Section Rooms](../../../../section-rooms/README.md) | [intents](intents/argument-shelf.md) |
@@ -55,8 +55,8 @@ This map is generated from the relations authors wrote into the publication body
 
 | Relation | Count |
 |---|---|
-| unnamed | 5416 |
-| sources | 1330 |
+| unnamed | 5455 |
+| sources | 1334 |
 | sources (declared) | 822 |
 | returns-to | 657 |
 | grounds | 473 |

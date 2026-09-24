@@ -5,7 +5,7 @@ page_type: navigation-audit
 generated: true
 generator: "tools/build-navigation.py v1.1.1"
 authority: generated-locator
-source_digest: "d27ec9c9f85c6dc8856477f763ddd801d2a113d9f16fe6ee2c1b3ddb7cfc496f"
+source_digest: "c500b651d3ab28764008a1925af54ba218a948f1f66a6ce6f9da03597722d95e"
 ---
 
 <!-- Generated from authored links in the publication body. Do not edit by hand; edit the pages, then rebuild. -->
@@ -28,16 +28,16 @@ Workspace lookup reaches 734 of 782 pages. The tables below describe that larger
 |---|---|
 | 0 | 1 |
 | 1 | 62 |
-| 2 | 522 |
-| 3 | 119 |
-| 4 | 25 |
-| 5 | 5 |
+| 2 | 528 |
+| 3 | 115 |
+| 4 | 24 |
+| 5 | 4 |
 
 ## By class
 
 | Class | Pages | Links | Named | Unnamed | Orphans | No return | Unreachable |
 |---|---|---|---|---|---|---|---|
-| The sovereign essay | 1 | 8 | 0 | 8 | 0 | 0 | 0 |
+| The sovereign essay | 1 | 51 | 4 | 47 | 0 | 0 | 0 |
 | The rooms — waypoints, alignments, reading routes | 20 | 847 | 79 | 768 | 0 | 0 | 0 |
 | The 48 movements | 48 | 473 | 199 | 274 | 0 | 0 | 0 |
 | The historical argument shelf (01–21) | 21 | 260 | 12 | 248 | 0 | 0 | 0 |
@@ -78,10 +78,10 @@ Targets outside `submission-package/essay/` resolve in the repository but not in
 |---|---|---|
 | `working/sources-texts-references` | 152 | `working/sources-texts-references/QL-Essay-Rewrite.md` (51); `working/sources-texts-references/10-7-2026-core-theorems-pithy.md` (23); `working/sources-texts-references/The Nothing That Is - Robert Kaplan.md` (14) |
 | `the-return-of-zero-central-plan.md` | 80 | `the-return-of-zero-central-plan.md` (80) |
-| `working/antykathera-resources` | 48 | `working/antykathera-resources/Antikythera Agentworld Brief.md` (48) |
+| `working/antykathera-resources` | 49 | `working/antykathera-resources/Antikythera Agentworld Brief.md` (49) |
 | `working/final-argument-quilt-2026-08-23` | 42 | `working/final-argument-quilt-2026-08-23/MYTHEME-AND-DEEP-SOURCE-SEAMS.md` (12); `working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md` (8); `working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md` (5) |
+| `working/pre-manuscript-refinement-2026-09-10` | 20 | `working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md` (11); `working/pre-manuscript-refinement-2026-09-10/MEF-PRODUCT-READING.md` (3); `working/pre-manuscript-refinement-2026-09-10/S5-PREWRITE-HANDOFF-2026-09-17.md` (2) |
 | `working/conjugate-field` | 20 | `working/conjugate-field/EROS-OF-LOGOS-A-CANDIDACY.md` (10); `working/conjugate-field/PASS2-CHARTER.md` (6); `working/conjugate-field/DESCARTES-LANDING-PROPOSAL.md` (2) |
-| `working/pre-manuscript-refinement-2026-09-10` | 16 | `working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md` (11); `working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md` (2); `working/pre-manuscript-refinement-2026-09-10/RELATIONAL-LOGOS-EXPLORATION.md` (2) |
 | `submission-package/essay` | 8 | `submission-package/essay/symbolon/episteme/maps/navigation/MOC.md` (6); `submission-package/essay/symbolon/episteme/maps/navigation/AUDIT.md` (2) |
 | `working/p2-enrichment` | 5 | `working/p2-enrichment/receipts/T22-current-migration-preservation-proof.md` (1); `working/p2-enrichment/receipts/T21-dossier-oi-technical-responsibility-development.md` (1); `working/p2-enrichment/receipts/T20-job-biblical-source-acquisition.md` (1) |
 | `submission-package/epi-logos` | 4 | `submission-package/epi-logos/resources/mef-12-lenses-sublens-reference.md` (2); `submission-package/epi-logos/resources/canon/ql-musical-derivation-v3.md` (2) |
