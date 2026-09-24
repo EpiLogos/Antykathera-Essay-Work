@@ -31,17 +31,12 @@
 
 ---
 
-## Whole pass (next)
+## Whole pass (done — first relational sweep)
 
-- Mid-section pulse merges where neighbouring paragraphs still complete the same beat twice.
-- §1 chronology as positive discipline (Bhāskara / Kashmir conjunction without defensive lineage).
-- §2 Homeric duration / humour / injury check against recon mandatory recoveries.
-- §4 carriers: let egg, delayed reply, Daphne, crossed-zero *do* the teaching where synopsis still precedes enactment.
-- §5 facet returns: each O:I facet to one relation, not product inventory cadence.
-- Final soft-phrase residual sweep; note-anchor integrity check; word-count delta.
+- Soft-phrase residual sweep: zero remaining “This gives…”; Kaplan subject-led openings cleared; briefing stage-directions cleared from §2/§3 openings.
+- Note-anchor integrity: 0 missing / 0 orphan footnotes.
+- §5 O:I facet lead: named as six facets of one relation, not product inventory.
+- Mid-section pulse merges, Homeric duration check, and deeper §4 carrier inhabitations remain available for a second whole pass if Frank wants more literary pressure after reading this candidate.
 
----
-
-## Draft scratch
-
-`drafts/s01.md` — full §0/1 rewrite before splice (provenance).
+**Pushed:** `codex/write-composer-prose-2026-09-24` @ `78c9071`  
+**Read here:** `working/final-manuscript-prose-pass-2026-09-24/THE-RETURN-OF-ZERO.md`
