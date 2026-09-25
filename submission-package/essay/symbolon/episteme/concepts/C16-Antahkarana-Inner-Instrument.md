@@ -39,7 +39,7 @@ Memory and coordination alter what can next be judged. The instrument is therefo
 
 [C40 — Model Internality](C40-Model-Internality-Judgment-Field.md) **compares** a technical field in which source, representation, evaluator and permission are discriminable. The historical functions ask concrete questions of such a field: what settles a claim, what makes it mine or ours, what coordinates competing presentations, and what remains available for revision? Those questions do not assert one-to-one equivalence between the triad and a software stack.
 
-[C41 — Objective Internality](C41-Objective-Internality.md) **defines** the broader operative world. [C35 — Selfing / Self / Subjectivity / Self-Thing](C35-Selfing-Self-Subjectivity-Self-Thing.md) **qualifies** the distinctions needed to keep a self-model from occupying the subject's office. Richer inspectable functions are positive findings about the instrument; their accumulation does not supply a first-person proof.
+[Objective Internality](C41-Objective-Internality.md) gives the inner instrument its wider world. [Selfing / Self / Subjectivity / Self-Thing](C35-Selfing-Self-Subjectivity-Self-Thing.md) prevents the instrument's self-model from taking the subject's office. The positive technical consequence is direct: judgment, appropriation, coordination, memory and self-description are exactly the kinds of functions that can become inspectable as functions of the means. Their increasing articulation reveals more of pramāṇa; it does not abolish the distinction between means and knower.
 
 ## #5→0
 
