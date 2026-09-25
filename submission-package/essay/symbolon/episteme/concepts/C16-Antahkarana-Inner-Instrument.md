@@ -50,7 +50,3 @@ The acquired ego-position becomes available within an already appearing field. T
 [[symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter / Region / Name / Count / Account]] **grounds** the register3 return. Interior functions produce an account of a region, and encounter can alter the ordering by which that account was made. The result becomes available for further acts instead of closing the world around its own self-description.
 
 [C47 — Deferential Intelligence](C47-Deferential-Intelligence.md) **tests** whether the altered account changes judgment or action. C16 **returns-to** C15 with the instrument's capacities more exactly known and their subject relation preserved. Investigation can improve the means through which a world is disclosed while keeping the question of its experient distinct.
-
-**Depth Restoration:** source-bounded triad and witness, ascertainment/appropriation/coordination, developmental instrument image, exclusion and memory, technical judgment questions and encounter-return are restored.
-
-**Unresolved Delta:** the selected Sāṅkhya passages are quotation-ready; they do not settle every school's composition of antaḥkaraṇa. Citta's place and the exact differences among threefold and fourfold accounts require their own textual recovery. No technical one-to-one mapping or machine-subject verdict is claimed.
