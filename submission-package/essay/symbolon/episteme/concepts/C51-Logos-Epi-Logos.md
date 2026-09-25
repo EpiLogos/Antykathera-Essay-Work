@@ -57,19 +57,3 @@ The emerging **Expression** surface is a technical consequence of this operation
 The work returns to use beyond its maker. Draft3's gift, cut cord and reader's remembrance place completion in another life rather than in the author's possession of a final definition. A36 gives the exact sign its symbolic return without cancelling mathematical integrity. Epi-Logos reopens articulation through the history and consequences of what it has already said.
 
 ### Declared field
-
-**Argument consumers:** A06, A14, A35–A36. **Movement consumers:** Vāk/Logos, vocation, six-product Objective Internality and final return movements.
-
-**Etymology relation:** *Fides / Topos / Logos / Nomos / Natio / Credere*. Exact branch: **Logos** retains attested word/account/reason senses under register **2**; **Epi-Logos** is authorial relational growth under register **3/4** where morphology/phonic return is consciously used. The separate `παράδειγμα / παραδείκνυμι` field qualifies the paradigm relation under register **2→3**: pattern/model and side-by-side comparison become an authorial operational resonance, not an ancestry claim. What changes: reason becomes recursively answerable to its own account and an enacted pattern becomes answerable to its explicit articulation. Return C51 → A35 → C56/C59 → C41 → C51.
-
-**Source/tradition standing:** Greek Logos histories and Taylor Epi-Logos formation must remain clearly distinguished; Śaiva Vāk and Greek paradigm lexicon are comparative/qualifying fields.
-
-### Provenance
-
-Native derivation: [core theorem SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [full theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md); [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>); [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md). The [Draft3 SOURCE](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md) and [direct Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>) preserve the author's corrections and vocational return. The September 15 [paradigm / Epi-Logos minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) records the explicit extension developed during T25/R3. The derivation does not turn mathematical, linguistic or historical neighbours into borrowed proofs.
-
-### Remaining depth
-
-Restore exact Greek Logos lexical history and authorial formation chronology; separate prefix morphology from philosophical operation. Carry the paradigm-return into the final section-flow review and distinguish inspectable structure from its expressive projection and lived enactment.
-
-**Depth Restoration: enriched; paradigm/Epi-Logos office restored; exact external attribution debts retained.**
