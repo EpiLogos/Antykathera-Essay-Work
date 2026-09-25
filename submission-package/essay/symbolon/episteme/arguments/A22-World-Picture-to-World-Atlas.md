@@ -13,8 +13,6 @@ source_relation: "Paraphrased historical diagnosis; Argued atlas and technical r
 [Argument field](README.md) · [Other face: A22′ — The Atlas, Not the Camera](../conjugate/A22-prime-The-Atlas-Not-the-Camera.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument. The atlas is the essay's constructive operation. Historical Objective Internality is a direct developmental carrier, not a second canonical identity for A22.
-
 ## #0
 
 A world-atlas makes situated accounts traversable. Each picture remains placed; its overlaps, transformations and obstructions become part of what it says. [[A04-Diaphaneity-Contextual-Transparency|A04]] grounds contextual transparency; [[A16-Arche-Topos-as-Differential-Field|A16]] grounds differential placement; [[A20-Image-Valuation-Possession|A20]] shows why a consequential image must remain answerable to its source. Their epistemic consequence changes the relation to picturing itself.
@@ -75,5 +73,3 @@ The circumference remains a valid view while the atlas exposes the body, opening
 The invariant remains `world ≠ world-model`. A model's rich representations and a federation's many models do not exhaust the world in which they were learned and into which their actions return. [[A26-Objective-Internality-Mind-as-Worldhood|A26]] grounds the active objective internality which precedes representational technique. A disclosed harness records some conditions of an event; it does not contain all the material, institutional and interpersonal relations that made the event possible.
 
 [[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Agentworld]] compares divergent worlds sharing a grammar of interaction. Common grammar permits disagreement to acquire shape; it does not make different ontologies identical. [[A31-Deferential-Intelligence|A31]] tests whether that disagreement can revise the governing view; [[A33-Epistemic-Cultivation-Operational-Parity|A33]] tests whether the revision changes actual operation. Their consequence returns to the atlas as a changed route, sharper obstruction or newly situated account.
-
-**Depth Restoration:** world-as-picture/source diagnosis, box-lid and whole stained-glass operations, chart transition and obstruction, attractor/atlas distinction, corrected Bimba stack, L4/L4′ full-field lens correction, answerable encounter, and paradigm/project projection return restored from the A22 packet and direct Objective Internality, Symbolon Dynamics, MEF, P5 Gebser, Q27 and T25 paradigmatic carriers. **Remaining debt:** selected-edition Heidegger/Gebser collation, full historical perspectivism and concrete cartographic/technical exemplars. P1 consumers M05/M41 remain in their own Movement homes; no universal panorama or automatic synthesis is claimed.
