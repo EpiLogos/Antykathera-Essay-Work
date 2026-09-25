@@ -1006,3 +1006,178 @@ Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-refer
 Restore exact J-Space experiments and specify the minimum observability needed for different classes of judgment. Test when a paradigm representation has enough causal/relational purchase to participate in Epi-Logos rather than merely visualize the field.
 
 **Depth Restoration: enriched; paradigm boundary and source/implementation debts retained.**
+
+## submission-package/essay/symbolon/episteme/concepts/C41-Objective-Internality.md
+
+### displaced block 1
+
+**Argument consumers:** A26–A27, A30–A34. **Movement consumers:** Objective Internality, the subject/means distinction, Agentworld, six-product §5 and the idealism horizon.
+
+### displaced block 2
+
+**Etymology relation:** *Encounter / Region / Name / Count / Countenance / Account*; exact operation: a situated interior is precipitated through a **Region of encounters** whose names, accounts and permissions become operative conditions. Register **3**. The `παράδειγμα / παραδείκνυμι` lexical field separately qualifies the authorial paradigm development: pattern/model becoming available for comparison with its enactment. It does not supply an etymological proof of Objective Internality. Return C41 → A26 → C42/A30 → C47/A31 → C51.
+
+### displaced block 3
+
+**Source/tradition standing:** live Objective Internality carrier is primary; extended/enactive/social cognition and Śaiva inner-instrument traditions are neighbours; LSJ supplies only the Greek lexical qualification.
+
+### displaced block 4
+
+### Provenance
+
+Direct authorial/developmental carriers: [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), [computational-process operations](../../../section-rooms/arguments/14-computational-process-ontology.md), [federated reflective field](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md), [open subjectivity boundary](../../../section-rooms/arguments/05-agent-subjectivity-open.md), and [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>). The September 15 [paradigm / Epi-Logos authorial minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) records the explicit extension developed during T25/R3. [Watson's source house](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and protected notes retain the earlier authorial encounter; source quotations and the technical extensions have independent standing. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and its later ratified corrections preserve model-revising return and positional commission. The native argument does not itself certify an implementation or transfer a source's philosophical terms to machine phenomenality.
+
+### displaced block 5
+
+### Remaining depth
+
+Restore the full genealogy and technical case studies. Follow the paradigm development into C51 and the expression/representation surfaces while preserving the categorical distinction between an explicit model of the means and the Life/Mind whole in which that model becomes meaningful.
+
+**Depth Restoration:** paradigm, mediation and the knower–means–known–whole relation restored at concept level; source and implementation debts remain attached to their own claims.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C43-Computational-Vimarsa.md
+
+### displaced block 1
+
+**Argument consumers:** A14, A26, A32–A33. **Product consumers:** S1 directly; S0/S2–S5 can receive returned changes at their own offices. **Movement consumers:** computational-vimarśa, AHI, MEF, reflective-field and six-product Objective Internality movements.
+
+### displaced block 2
+
+**Etymology relation:** any Sanskrit relation is evidence register **3 Operational homology** unless direct philology/textual warrant is separately cited. Consumed operation: [reflexive return changes subsequent articulation](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field). Return C43 → A14 → C45/A33 → C55/A32 → C41/C51.
+
+### displaced block 3
+
+**Source/tradition standing:** live computational-vimarśa/AHI carrier primary for this authorial technical term; Śaiva vimarśa remains source-distinct.
+
+### displaced block 4
+
+### Provenance
+
+Direct authorial/developmental carriers: [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), [computational-process operations](../../../section-rooms/arguments/14-computational-process-ontology.md), [federated reflective field](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md), [open subjectivity boundary](../../../section-rooms/arguments/05-agent-subjectivity-open.md), and [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>). [Watson's source house](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and protected notes retain the authorial encounter; source quotations and the technical extensions have independent standing. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and its later ratified corrections preserve model-revising return and positional commission. The September 15 [paradigm / Epi-Logos minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) supplies the later distinction between local functional reflexivity and paradigm-level return. The native argument does not itself certify an implementation or transfer a source's philosophical terms to machine phenomenality.
+
+### displaced block 5
+
+### Remaining depth
+
+Restore exact technical implementations and sharpen minimal criteria for computational reflexivity. Test the distinction between local reflexive repair and paradigm-level Epi-Logos against actual systems rather than vocabulary.
+
+**Depth Restoration: enriched; product-return and paradigm/Epi-Logos boundary restored; source/implementation debts retained.**
+
+The [Indian philosophy dossier](../dossiers/indian-philosophy.md#50--the-next-act-must-inherit-the-return) **tests** the complete inherited five-step procedure: selected/excluded field, disclosed evaluator and preference baseline, inverse reading, unsettled boundary and revised provenance entering the next act.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C44-Prompt-Thrownness.md
+
+### displaced block 1
+
+**Argument consumers:** A26, A28, A31, A33. **Movement consumers:** Prompt Thrownness movement 36 and Agentworld/MEF returns.
+
+### displaced block 2
+
+**Etymology relation:** *Fides / Topos / Logos / Nomos / Natio / Credere*; consumed operation: **Topos** as inherited position and **Nomos** as bounded ordering are register **3** operational neighbours, not historical derivations of “prompt”. Return C44 → A28 → C53/A29 → C47/A31.
+
+### displaced block 3
+
+**Source/tradition standing:** Bratton's q032–q033 agent-glossary disclosure and caution are the concrete external provenance; Taylor's operational development is the authorial interpretation; Heideggerian “thrownness” is a philosophical source-neighbour requiring explicit comparison rather than casual appropriation.
+
+### displaced block 4
+
+### Provenance
+
+Direct authorial/developmental carriers: [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), [computational-process operations](../../../section-rooms/arguments/14-computational-process-ontology.md), [federated reflective field](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md), [open subjectivity boundary](../../../section-rooms/arguments/05-agent-subjectivity-open.md), and [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>). [Watson's source house](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and protected notes retain the authorial encounter; source quotations and the technical extensions have independent standing. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and its later ratified corrections preserve model-revising return and positional commission. The native argument does not itself certify an implementation or transfer a source's philosophical terms to machine phenomenality.
+
+### displaced block 5
+
+### Remaining depth
+
+Restore exact Heidegger relation and technical decomposition of prompt, policy, memory, training and runtime environment.
+
+**Depth Restoration: enriched; source/implementation debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/concepts/C45-Operational-Parity.md
+
+### displaced block 1
+
+**Argument consumers:** A15, A24, A31, A33. **Product consumers:** S0–S5 where philosophical distinctions are promoted into operating structures. **Movement consumers:** evaluator, MEF, Agentworld, Expression and technical-return movements.
+
+### displaced block 2
+
+**Etymology relation:** *Encounter / Region / Name / Count / Countenance / Account*; exact operation: a named difference must change the operational **Account** in a discriminable way if it is claimed as implemented. Register **3**. Return C45 → A33 → C46 → C47/A31 → C41/C51.
+
+### displaced block 3
+
+**Source/tradition standing:** authorial MEF/technical-development programme primary; testing and philosophy-of-science traditions are neighbours.
+
+### displaced block 4
+
+### Provenance
+
+Direct carriers: [Deferential Intelligence](../../../section-rooms/arguments/08-deferential-intelligence.md), [Trust and formal limit](../../../section-rooms/arguments/18-trust-faith-formal-limit.md), [trust revision](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md), [Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>), [compassion's authorial formulation](compassion-as-sensitivity-to-origins.md), and [Q27's root-trust and encounter corrections](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md). [Watson SOURCE](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and protected notes preserve the authorial encounter; its Gans/Levinas quotations retain nested-source and selected-edition debts. The September 15 [paradigm / Epi-Logos minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) supplies the paradigm-level claim tested here. Proposed comparisons are not reported as executed experiments. Particular philosophical, theological and institutional histories retain their own source tasks.
+
+### displaced block 5
+
+### Remaining depth
+
+Restore concrete acceptance-test patterns and explicit cases where non-operational philosophical distinctions should remain deliberately unencoded. Build and evaluate the read-only versus effective paradigm-return comparison before claiming an implemented Epi-Logos loop.
+
+**Depth Restoration: enriched; paradigm-update parity restored; experimental/historical debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/concepts/C46-Epistemic-Cultivation.md
+
+### displaced block 1
+
+**Argument consumers:** A31, A33, A35. **Product consumers:** S0–S5 as one cultivated Objective Internality. **Movement consumers:** MEF, agent evaluation, six-product §5 and final vocation movements.
+
+### displaced block 2
+
+**Etymology relation:** *Arbitration / Hybris / Regard / Anamnesis*; consumed operation: **Regard** makes contextual determinants visible and **Anamnesis/Return** re-situates the achieved judgment. Register **3**. Return C46 → A33 → C47/A31 → C41/C51 → C56/A35.
+
+### displaced block 3
+
+**Source/tradition standing:** authorial MEF/technical work primary; epistemology, pedagogy and cultivation traditions are comparative.
+
+### displaced block 4
+
+### Provenance
+
+Direct carriers: [Deferential Intelligence](../../../section-rooms/arguments/08-deferential-intelligence.md), [Trust and formal limit](../../../section-rooms/arguments/18-trust-faith-formal-limit.md), [trust revision](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md), [Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>), [compassion's authorial formulation](compassion-as-sensitivity-to-origins.md), and [Q27's root-trust and encounter corrections](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md). [Watson SOURCE](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and protected notes preserve the authorial encounter; its Gans/Levinas quotations retain nested-source and selected-edition debts. The September 15 [paradigm / Epi-Logos minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) supplies the later paradigm-level articulation. Proposed comparisons are not reported as executed experiments. Particular philosophical, theological and institutional histories retain their own source tasks.
+
+### displaced block 5
+
+### Remaining depth
+
+Restore actual experimental loops and standards for epistemic revision, including versioning and disagreement retention. Distinguish adaptation under a fixed paradigm from cultivation that can revise the paradigm's own mediating conditions.
+
+**Depth Restoration: enriched; paradigm-cultivation office restored; experimental/historical debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/concepts/C48-Trust-Faith-under-Formal-Limit.md
+
+### displaced block 1
+
+**Argument consumers:** A01, A23–A25, A27, A31, A35. **Movement consumers:** trust/faith, covenant, Other and final vocation movements.
+
+### displaced block 2
+
+**Etymology relation:** *Fides / Topos / Logos / Nomos / Natio / Credere* and *Symbol / Account / Trust*; exact operation: historically attested faith/trust/entrusting senses are register **2**, while the formal-limit structure is register **3**. What changes: trust becomes disciplined dependence rather than anti-rational belief. Return C48 → A23 → C28/A25 → C47/A31.
+
+### displaced block 3
+
+**Source/tradition standing:** live `18-trust-faith-formal-limit.md` and authorial formal-limit work primary; theological, legal and epistemic trust traditions remain source-distinct.
+
+### displaced block 4
+
+### Provenance
+
+Direct carriers: [Deferential Intelligence](../../../section-rooms/arguments/08-deferential-intelligence.md), [Trust and formal limit](../../../section-rooms/arguments/18-trust-faith-formal-limit.md), [trust revision](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md), [Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>), [compassion's authorial formulation](compassion-as-sensitivity-to-origins.md), and [Q27's root-trust and encounter corrections](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md). [Watson SOURCE](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and protected notes preserve the authorial encounter; its Gans/Levinas quotations retain nested-source and selected-edition debts. Proposed comparisons are not reported as executed experiments. Particular philosophical, theological and institutional histories retain their own source tasks.
+
+### displaced block 5
+
+### Remaining depth
+
+Restore fides/credere philology and distinguish theological faith, testimony, confidence, reliance and institutional trust.
+
+**Depth Restoration: enriched; experimental/historical debts retained.**
