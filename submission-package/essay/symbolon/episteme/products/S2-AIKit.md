@@ -9,7 +9,6 @@ source_ids:
   - taylor-2026-oi-product-field-commission
   - taylor-2026-core-theorems-pithy
   - taylor-2026-mef-twelve-lenses
-refinement_status: T25 reconstituted; independent R5 review and T26 ratification pending
 product_parent: S
 movement: 39
 mef_pair:
@@ -35,7 +34,7 @@ concept_relations:
 
 For a human the same structure appears as skill, language, memory, attention, bodily ability, social access, permission, opportunity and confidence. For an artificial actor it appears through models, skills, methods, tools, context sources, interfaces, communication channels and execution possibilities. In each case potency concerns not only *what is there* but *what can become active from here*.
 
-Objective Internality gives potency its proper scale. The horizon belongs to the means of a Life: what its present world makes possible, relevant and reachable. It is not Subjective Immediacy and it is not World in itself. A richer horizon changes the kinds of differentiation and action available without thereby telling us who or what experiences that horizon phenomenally.
+Objective Internality gives potency its proper scale. The horizon belongs to the means of a Life: what its present world makes possible, relevant and reachable. Profile, source, skill, capability, permission and context therefore matter because they alter the field from which action can arise. A richer horizon is a real change in potency and world-disclosure; it should be described in those terms rather than treated as evidence for or against an invisible property behind the horizon.
 
 ## #1 — L2 Logical: capacity includes absence, ambiguity and silence
 
@@ -59,7 +58,7 @@ This temporal reading also guards against treating novelty as pure addition. Dev
 
 ## #3 — Scope, context and the difference between possession and disclosure
 
-A/C gives AIKit the local constitution **S2/P0–P5**. **P0** identifies Profile, Scope, Resource, ProjectBinding and source identity. **P1** gives Context, ContextSource, Surface, Projection and Wiki forms. **P2** carries Capability, Skill, Method, SkillSet, ActionSet and Procedure. **P3** is ContextResolution and the change-horizon through which dependencies, impacts and routes become relevant. **P4** composes Component, HarnessComposition, SessionSpace, WorldInhabitation and KnowledgeApplication. **P5** returns Trust, Familiarity, FitnessObservation, UsageSignal, provenance and SemanticRevision.
+AIKit's local sixfold begins from profile, scope, resource and binding; takes form as context, source, surface and projection; gathers capability, skill, method and procedure as potency; resolves and generates through dependencies, impacts and knowledge routes; becomes situated in harness composition, session-space and world-inhabitation; and returns through trust, familiarity, fitness observation, usage signal and semantic revision. The six turns articulate one horizon of potency rather than functioning as public matrix addresses.
 
 This sequence makes one philosophical distinction especially clear: **possession is not disclosure**. A Life may contain a capacity that its present situation does not disclose as relevant. Conversely, a context can make an apparent capacity salient before its fitness is known. AIKit’s work is to make the relation among capacity, context and actual use explicit enough to be judged rather than assumed.
 
