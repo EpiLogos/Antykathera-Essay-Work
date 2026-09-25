@@ -57,18 +57,4 @@ A concise authorial criterion follows: **paradigms live by their capacity to met
 
 ### Declared field
 
-**Argument consumers:** A03, A17–A18, A21, A34–A36. **Movement consumers:** formal-limit, individuation, zero/infinity, paradigmatic disclosure and final return.
-
 **Etymology relations:** *Homologia / Analogia*; consumed operation: apparently incompatible terms can reveal a higher/focal relational structure only after their local differences are preserved. Register **3**. *Genesis / Paradigm / Project / Epi-Logos*; consumed operation: a paradox can expose and transform the mediating slash rather than merely replace a determination. Register **3**. Return C64 → A36 → C36/A21 → C64, with C64 → C51/A35 → C64 supplying the paradigmatic return.
-
-**Source/tradition standing:** authorial final-field synthesis primary; logical, dialectical, mystical and scientific paradox traditions remain source-specific.
-
-### Provenance
-
-[Core SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [direct theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md) govern native operations. [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) and [complete manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>) supply the register/recursive body. [Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) with protected sibling NOTES supplies the symbolic encounter; no copied passage has been promoted to quotation-ready. The [trust revision §7.3](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md) records the first-person chiasmus, but the [corpus sweep](../../../../../working/sources-texts-references/definition-of-god-working/corpus-sweep-2-crux-staging.md) found no independent transcript and [harmonisation-plan D4](../../../../../working/sources-texts-references/definition-of-god-working/harmonisation-plan.md) requires Frank's confirmation of exact wording. Its operation is carried here as developmental paraphrase, not verified verbatim. External mathematical and historical claims retain independent source tasks; internal derivation retains its own force.
-
-### Remaining depth
-
-Restore exact paradox cases and criteria separating productive field transformation from contradiction tolerance or rhetorical mystery. R3/R4 must demonstrate the paradigm transformation in actual essay movements rather than leaving it as a concept-level gloss.
-
-**Depth Restoration: enriched; paradigmatic crisis relation added; exact source/route debts retained.**
