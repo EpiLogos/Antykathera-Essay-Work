@@ -343,3 +343,60 @@ P1 consumers: M06, M13–17 and M28. Detailed chronology, contested transmission
 ### displaced block 1
 
 **Depth Restoration:** restored positional and recursive commission, prompt-as-determination, separated training/institution/runtime offices, criterion-revising encounter and recursive reference through the existing A28 packet, QH R16.3–R16.5, covenant seam and direct Objective Internality/reflective-field carriers. P1 consumers: M36, M39, M40. No Movement or product identity changed.
+
+## submission-package/essay/symbolon/episteme/arguments/A29-Power-Delegated-Labour-Return.md
+
+### displaced block 1
+
+**Depth Restoration:** product/cost/revision asymmetry, distinct distributing offices, Work/Play and scapegoat accounting, economic relation distinctions, hidden combination, practical sovereignty, source-sensitive governance and the six-product return route restored from the A29 packet, QH R16.4, direct trust revision, Q27 and Ostrom/Bratton/4:2 houses. **Remaining debt:** specific political-economic histories, AI labour/infrastructure chains and implementation results. No empirical exploitation or commons success case is fabricated. P1 consumers M40/M46 remain in their Movement homes.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument. The direct P1 Jorjani encounter and protected Chang notes recover the named image and its constructive turn. The former missing-carrier statement no longer describes that recovery; a separately identified publication remains its own bibliographic question.
+
+### displaced block 2
+
+**Depth Restoration:** three distinct motions, complete funhouse/Narcissus carrier, protected Chang first-threshold appointment, precise causal distinctions, source-priority, institutional return and paradigm-disclosure restored from A32's packet, P1 lines6/10, full Chang SOURCE/NOTES, Symbolon Dynamics, QH/Q27 and T25 paradigm development. **Remaining debt:** separately titled Reflection-paper bibliography, external quotation collation and empirical/implemented effects. P1 consumers M41/M44/M48 remain distinct.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A33-Epistemic-Cultivation-Operational-Parity.md
+
+### displaced block 1
+
+**Depth Restoration:** six process questions, native Name/Power parity and L4/L4′ correction, discriminable source/model/evaluator consequences, concept–test feedback, minimal/maximal programme distinction, J-space's subordinate office and paradigm-update acceptance test restored from A33's packet, direct computational/MEF/QH carriers and T25 paradigm development. **Remaining debt:** real J-space/MEF/paradigm-return comparisons, implementation cases and source-specific research results. No experiment was run or outcome inferred by this conceptual enrichment. P1 consumers M36–M39/M42/M44/M48 remain distinct.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence.md
+
+### displaced block 1
+
+**Provenance and remaining debt:** Q27's explicit first-class correction, historical02/05, the complete Advent manuscript and Berkeley's bounded exchange carry this restoration. Historical19 is Two Ones/Mono–Poly and historical20 is Advent Zero; neither is a missing idealism treatise. A thinker-by-thinker comparison, further exact historical passages and artificial phenomenal localisation remain separate tasks. The internal Argued ontology does not wait upon those attribution or empirical debts.
+
+### displaced block 2
+
+**Depth Restoration:** canonical operation plus the paradigm/project direction-of-dependence guard restored; named historical comparison and empirical debts remain Open.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md
+
+### displaced block 1
+
+**Provenance and remaining debt:** the full developmental Compassion carrier; Chang's SOURCE and protected NOTES, especially pp.83/99; Draft3 lines259/267–279; Q27's late Job/culture/love field; the ratified R16.4–R16.7 correction; and the T25 paradigmatic authorial development carry the argument. Copied Chang quotations and broad cultural histories retain exact-edition and passage debts. No machine affection, successful implementation or collective psychological diagnosis is asserted. The revision-notes noncoincidence wording remains a developmental paraphrase pending Frank's exact-wording confirmation; it is not authenticated speech.
+
+### displaced block 2
+
+**Depth Restoration:** canonical loving/vocational operation restored; paradigmatic ethics integrated; external passage and implementation questions remain explicit.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A36-Advent-of-Integral-Zero.md
+
+### displaced block 1
+
+**Provenance and remaining debt:** the complete direct Advent manuscript, native core/eightfold field, Draft3's [F] corrections and terminal gift, and Q27's two recapitulations carry the restored operation. Public mathematical/psychological history retains its separately housed source, edition and passage obligations; the internal historical braid does not discharge them. The Abhinavagupta/Bhāskara interval is now publicly bounded through separate chronology sources, while any stronger transmission claim remains disallowed. Native `X/x` is authorial, not Jungian notation. No topology, consciousness or technical result is established merely by a cross-register recurrence. The noncoincidence formulation remains developmental until Frank confirms exact wording.
+
+### displaced block 2
+
+**Depth Restoration:** canonical integral return restored; first-advent history, external evidence and realised technical consequences retain their distinct offices and debts.
