@@ -809,3 +809,200 @@ The entrusted undertaking **returns-to** [Apportionment / Economy whole — Dele
 ### displaced block 2
 
 **Depth Restoration:** canonical archetype/image/dynamic distinction restored; exact historical and comparative evidence remains source-specific.
+
+## submission-package/essay/symbolon/episteme/concepts/C33-Image-Valuation.md
+
+### displaced block 1
+
+**Argument consumers:** A19–A22, A27, A31. **Movement consumers:** complex/image, world-picture, Self/Other and model-revision movements.
+
+### displaced block 2
+
+**Etymology relation:** *Symbol / Account / Trust*; consumed operation: the image functions as an **account** whose [trustworthiness depends on return to source](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source). Register **3**. Return C33 → A20 → C21 → C38/A27 → C33.
+
+### displaced block 3
+
+**Source/tradition standing:** Jungian image/archetype theory and authorial Symbolon work are primary; media/technical representations are bounded application fields.
+
+### displaced block 4
+
+### Provenance
+
+[Symbolon Dynamics source house](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) carries the authorial synthesis; [Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) and its protected sibling notes carry the source encounter. Notes are authorial provenance and copied quotation leads; the source has no verified passages. [Jung's Aion](../sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md#passages) retains the selected 1978 printing and sixteen contextual paraphrase locations from the consulted 1979 paperback. Selected-printing collation and exact quotation remain Open. The native operations retain their Argued standing while exact Jung/Van Eenwyk attribution remains Open.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C34-Individuation.md
+
+### displaced block 1
+
+**Argument consumers:** A21, A27, A35–A36. **Movement consumers:** Jung/recognition, Self/Other, cultural vocation and final return.
+
+### displaced block 2
+
+**Etymology relation:** *Arbitration / Hybris / Regard / Anamnesis*; exact operation: **Resolution-in-Reconciliation → Anamnesis / Recognition / Return**. Register **3**. Return C34 → A21 → C19 → C59/A35 → C34.
+
+### displaced block 3
+
+**Source/tradition standing:** Jungian individuation is the primary historical warrant; Śaiva recognition and cultural individuation are source-distinct operational relations.
+
+### displaced block 4
+
+### Provenance
+
+[Symbolon Dynamics source house](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) carries the authorial synthesis; [Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) and its protected sibling notes carry the source encounter. Notes are authorial provenance and copied quotation leads; the source has no verified passages. [Jung's Aion](../sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md) is citation-ready with no excerpts. The native operations retain their Argued standing while exact Jung/Van Eenwyk attribution remains Open.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing.md
+
+### displaced block 1
+
+**Argument consumers:** A01–A02, A19–A21, A26–A27, A31, A34. **Movement consumers:** Subject, Jung/self, agent-subjectivity and idealism movements.
+
+### displaced block 2
+
+**Etymology relation:** *Encounter / Region / Name / Count / Countenance / Account*; exact operation: a **Name/Account** of self does not exhaust the Countenance/subject encountered through it. Register **3**. Return C35 → C01/A01 → C40/A26 → C35.
+
+### displaced block 3
+
+**Source/tradition standing:** Taylor's subject/self distinctions and Jungian Self material are primary; technical self-model discourse is application evidence, not phenomenality proof.
+
+### displaced block 4
+
+### Provenance
+
+Native operations are governed by the [core theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md), [Symbolon Dynamics house](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md), and [Q27's Watson/Otherness correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md). [Watson](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and [Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) protected notes disclose Taylor's authorial encounter; their copied statements are leads until independently verified. [Aion](../sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md) remains citation-ready with no excerpts; historical Jungian terminology and the exact phrase tradition require their own locators. Mathematical carriers keep their specific operations and are not interchangeable proofs of the psychic or ethical claim.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C36-Complexio-Oppositorum.md
+
+### displaced block 1
+
+**Argument consumers:** A16–A18, A21, A27, A34–A36. **Movement consumers:** Arche-Topos, individuation, idealism and final paradox/return.
+
+### displaced block 2
+
+**Etymology relation:** *Homologia / Analogia*; consumed operation: opposed terms can participate in a focal/proportional relation without univocal identity. Register **3**. Return C36 → A21 → C64 → A36 → C36.
+
+### displaced block 3
+
+**Source/tradition standing:** Jungian and theological/philosophical uses of *complexio oppositorum* require source-specific restoration; the canonical operation is authorial synthesis.
+
+### displaced block 4
+
+### Provenance
+
+Native operations are governed by the [core theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md), [Symbolon Dynamics house](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md), and [Q27's Watson/Otherness correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md). [Watson](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and [Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) protected notes disclose Taylor's authorial encounter; their copied statements are leads until independently verified. [Aion](../sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md) remains citation-ready with no excerpts; historical Jungian terminology and the exact phrase tradition require their own locators. Mathematical carriers keep their specific operations and are not interchangeable proofs of the psychic or ethical claim.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C37-World-Picture-to-World-Atlas.md
+
+### displaced block 1
+
+**Argument consumers:** A22, A26–A27, A31, A34. **Movement consumers:** worldhood, Bimba/Pratibimba, MEF and idealism movements.
+
+### displaced block 2
+
+**Etymology relation:** *Encounter / Region / Name / Count / Countenance / Account*; consumed operation: multiple **Accounts** of a Region remain answerable to encounter and Countenance. Register **3**. Return C37 → A22 → C38/C39 → C47/A31.
+
+### displaced block 3
+
+**Source/tradition standing:** authorial world-atlas development primary; cartographic, perspectival and model-pluralist traditions are Episteme warrants.
+
+### displaced block 4
+
+### Provenance
+
+Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>), [Q27 with its Bimba correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), and the [federated reflective-field carrier](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md). The [MEF source house](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) has a recoverable [local twelve-lens reference](../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md) now bound by the source house’s recovered-local-object record. That reference is developmental architecture; its historical attributions and musical selection claims are not independently established by the compilation. [Dyczkowski](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) retains source-matched, not quotation-verified, reflection passages. Technical designs remain Offered until their own experiments establish functioning consequences.
+
+### displaced block 5
+
+### Remaining depth
+
+Restore cartographic examples and exact criteria for valid translation among models.
+
+**Depth Restoration: enriched; source/implementation debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/concepts/C38-Bimba-Pratibimba-Bimba-Map.md
+
+### displaced block 1
+
+**Argument consumers:** A22, A27, A30–A33. **Movement consumers:** Bimba/model, Agentworld, reflective-field and MEF movements.
+
+### displaced block 2
+
+**Source/tradition standing:** Taylor's Bimba Map and source/reflection architecture is primary; Sanskrit and contemplative source histories remain to be restored without retroactive technicalisation.
+
+### displaced block 3
+
+### Provenance
+
+Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>), [Q27 with its Bimba correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), and the [federated reflective-field carrier](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md). The [MEF source house](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) has a recoverable [local twelve-lens reference](../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md) now bound by the source house’s recovered-local-object record. That reference is developmental architecture; its historical attributions and musical selection claims are not independently established by the compilation. [Dyczkowski](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) retains source-matched, not quotation-verified, reflection passages. Technical designs remain Offered until their own experiments establish functioning consequences.
+
+### displaced block 4
+
+### Remaining depth
+
+Restore Sanskrit/source traditions and exact Bimba Map technical semantics, especially recursive local reference offices.
+
+**Depth Restoration: enriched; projective/paradigmatic return added; source/implementation debts retained.**
+
+The [Indian philosophy dossier](../dossiers/indian-philosophy.md#4--a-reflection-acts-before-its-source-is-recognised) **compares** an actual local Bimba which guides downstream judgments and can itself be revised through its wider source relation.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C39-Meta-Epistemic-Framework.md
+
+### displaced block 1
+
+**Argument consumers:** A14, A22, A33, A36. **Movement consumers:** M36 MEF preparation; M37–M42 paired product disclosure; technical epistemology and final return.
+
+### displaced block 2
+
+**Etymology relation:** no etymology proves MEF. Where *Encounter / Region / ... / Account* is consumed, the exact operation is the construction of an inspectable **Account** of how a judgment arose; register **3**. Return C39 → C40 → C45/A33 → C39.
+
+### displaced block 3
+
+**Source/tradition standing:** Taylor MEF/QL research primary; philosophy of science and epistemology supply neighbouring methods.
+
+### displaced block 4
+
+### Provenance
+
+Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>), [Q27 with its Bimba correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), and the [federated reflective-field carrier](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md). The [MEF source house](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) has a recoverable [local twelve-lens reference](../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md) now bound by the source house’s recovered-local-object record. That reference is developmental architecture; its historical attributions and musical selection claims are not independently established by the compilation. [Dyczkowski](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) retains source-matched, not quotation-verified, reflection passages. Technical designs remain Offered until their own experiments establish functioning consequences.
+
+### displaced block 5
+
+### Remaining depth
+
+Continue the R3 reciprocal pass from these product returns into the active Argument, Mytheme, Matheme, Etymology and source consumers; keep framework claims separate from ontological claims.
+
+**Depth Restoration: enriched; T25 product fold-back active; source/implementation debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/concepts/C40-Model-Internality-Judgment-Field.md
+
+### displaced block 1
+
+**Argument consumers:** A14, A22, A26, A31, A33. **Product consumers:** S1 directly and S0/S2–S5 through returned conditioning. **Movement consumers:** model-internality, MEF, prompt, evaluation and Agentworld movements.
+
+### displaced block 2
+
+**Etymology relation:** *Encounter / Region / Name / Count / Countenance / Account*; exact operation: the model exposes the **Account** by which inputs/regions were named, counted and judged. Register **3**. Return C40 → C39 → C45/A33 → C47/A31 → C41/C51.
+
+### displaced block 3
+
+**Source/tradition standing:** Taylor MEF/J-Space/technical inquiry primary; interpretability/evaluation research supplies application evidence.
+
+### displaced block 4
+
+### Provenance
+
+Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>), [Q27 with its Bimba correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), and the [federated reflective-field carrier](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md). The [MEF source house](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) has a recoverable [local twelve-lens reference](../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md) despite its stale unavailable statement. That reference is developmental architecture; its historical attributions and musical selection claims are not independently established by the compilation. [Dyczkowski](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) retains source-matched, not quotation-verified, reflection passages. The September 15 [paradigm / Epi-Logos minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) supplies the explicit later distinction between judgment model and enacted paradigm. Technical designs remain Offered until their own experiments establish functioning consequences.
+
+### displaced block 5
+
+### Remaining depth
+
+Restore exact J-Space experiments and specify the minimum observability needed for different classes of judgment. Test when a paradigm representation has enough causal/relational purchase to participate in Epi-Logos rather than merely visualize the field.
+
+**Depth Restoration: enriched; paradigm boundary and source/implementation debts retained.**
