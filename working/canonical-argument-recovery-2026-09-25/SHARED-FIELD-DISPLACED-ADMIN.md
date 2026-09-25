@@ -1653,3 +1653,88 @@ Restore exact paradox cases and criteria separating productive field transformat
 ### displaced block 3
 
 **Unresolved Delta:** the self-description of the A′ array remains Offered; the [promotion notice](../../../../../working/conjugate-field/FLIPSIDE-PACKAGE.md) records the completed promotion of the 36 nodes and their root without erasing the local distinctions of claim standing. No deployed system is claimed to implement the traversal's inspectability; that is [A33′](A33-prime-Parity.md)'s empirical burden. The Whitehead refraction carries no quotation from the source house (locator-needed; no passages gathered) and claims no more than the named analogy. The Name/Power series’ technological face is developed above from A18 and the mature E6 operations. Actual expenditure, evaluator revision, affected response and return in a deployed system remain empirical tasks. The record and root were promoted on 2026-09-07; the separately Offered interpretation of the A′ array retains its stated standing.
+
+## submission-package/essay/symbolon/episteme/conjugate/A19-prime-The-Local-Regime.md
+
+### displaced block 1
+
+**Standing:** conjugate proposal to [A19 — Complex as Local Arbitration Regime](../arguments/A19-Complex-as-Local-Arbitration-Regime.md). A19's operation — a criterial settlement that orders a local field before reflective judgment is consulted — is re-sited on the technological side of the field. The Jungian complex remains a named cross-register refraction of that operation, named after it, never its validation. The arc this node opens is named for the essay's §4, whose [psychoid problem](../../../section-rooms/05-psychoid-flowering/movements/31-s4-p0-psychoid-problem.md) requires distinct descriptions to cross without either side taking final priority — the discipline every Jung-refraction in this arc obeys.
+
+### displaced block 2
+
+**Depth Restoration:** local selection and feedback basin, necessary arbitration, usurped office, non-annihilating return and the transformation-test restored from the A19 packet and direct Symbolon Dynamics; the agentic extension recovered from the protected Van Eenwyk encounter's authorial note and Q27 §6 as A19 already received it; brief instances anchored at q017, q029's context and the §3.1 passage (raw p. 17); S1/P3 woven once as the determination-stream register of the sub-regime. The Jungian complex's exact historical passages retain the separate source debt A19 already names; nothing here discharges it, and nothing here needs it.
+
+### displaced block 3
+
+**Unresolved Delta:** the §3.1 shadow-selves passage (raw p. 17) lacks its own source-house card — a source-house task, not an agent task. Implemented cases of criterion-transforming encounter in deployed agentworlds remain Offered.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A20-prime-The-Image-That-Closes-the-Loop.md
+
+### displaced block 1
+
+**Standing:** conjugate proposal to [A20 — Image / Valuation / Possession](../arguments/A20-Image-Valuation-Possession.md). The image → valuation → source-claim operation is re-sited on the technological side. "Operational truth" is this argument's own vocabulary for the possession-construction, used as such and never attributed to the brief. The icon/idol and Bimba relations remain the essay's own constructions, their historical neighbours source-distinct.
+
+### displaced block 2
+
+**Depth Restoration:** image/valuation/possession as office-change, corrected source/reflection order with recursive local reference, witness-redescription, operational-profile feedback and second-order counterfeit provenance restored from the A20 packet, direct Symbolon Dynamics and Q27's Bimba/Job/deepfake passages; "operational truth" used as this argument's own vocabulary — the possession-construction named, not a brief attribution; possession and valuation re-anchored on §3.1's doubles with standing and §3.3's coloured image (raw pp. 17–18); brief instances anchored at q010, q018, q030 and those two passages; S/P1 woven once as the projection-binding register.
+
+### displaced block 3
+
+**Unresolved Delta:** the §3.1 and §3.3 passages lack their own source-house cards — a source-house task. Documented deployment cases of closed-loop profile possession, and the empirical prevalence of deepfake second-order effects, remain Offered. Icon/idol histories and Jung/Bohm passage debts remain those A20 already names.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A21-prime-Individuation-with-Recognition.md
+
+### displaced block 1
+
+**Standing:** conjugate proposal to [A21 — Individuation / Recognition](../arguments/A21-Individuation-Recognition.md). Differentiated indivisibility and the recognitive return are re-sited on the technological side. The Jungian individuation and Śaiva recognition traditions remain named cross-register refractions with their own source histories, named after the authorial operation, never its validations.
+
+### displaced block 2
+
+**Unresolved Delta:** the §2.5 trans-individuation sentence ("the collective individuates through the agent, not merely around it") lacks its own source-house card — a source-house task. Whether any deployed system implements recognition rather than state-overwrite remains Offered; A33′-class parity tests would settle it. Exact Jung and Śaiva passage collation remains the debt A21 already names.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A22-prime-The-Atlas-Not-the-Camera.md
+
+### displaced block 1
+
+**Standing:** conjugate proposal to [A22 — World-Picture → World-Atlas](../arguments/A22-World-Picture-to-World-Atlas.md). The atlas construction is the essay's own Argued operation; Heidegger's world-picture diagnosis supplies a named historical refraction, not a warrant for the technical claim.
+
+### displaced block 2
+
+**Depth Restoration:** the world-picture diagnosis kept as named refraction, the box-lid frame, the chart-transition and obstruction discipline, the Bimba guard, no-view-from-nowhere and the answerable encounter restored from the A22 packet and its direct carriers; brief instances anchored at q029 and the §4.2 forking passage with §9.2's restatement (raw pp. 21, 44); S2/P3 woven once as the knowledge-route register of the atlas.
+
+### displaced block 3
+
+**Unresolved Delta:** the §4.2 forking passage and the §9.2 restatement lack their own source-house cards beyond q029's corridor card — a source-house task. Concrete cartographic and deployed exemplars of declared model-to-model transitions remain Offered, as does any metric for transition adequacy; Heidegger/Gebser collation debts remain those A22 already names. The claim that no aggregation principle can substitute for transition rules is the essay's constructive position, argued from the invariant `world ≠ world-model`, not from the brief.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A23-prime-Trust-under-Unpossessable-Interiors.md
+
+### displaced block 1
+
+**Standing:** conjugate proposal to [A23 — Trust, Faith and the Formal Limit](../arguments/A23-Trust-Faith-and-the-Formal-Limit.md). Trust as committed relation under non-possession is re-sited on the technological side; the Homeric surety and the fides/credere field remain source-distinct witnesses A23 already houses.
+
+### displaced block 2
+
+**Depth Restoration:** the anchor/scapegoat fork, apparatus/surety/release, efficacy and withdrawal, graded reliance and the scoped prediction-stability distinction restored from the A23 packet, the direct trust revision and the Homer witness as received; brief instances anchored at q030, q015 and the adjacent transcript concession (raw p. 14); S/P4 woven once as the contact/mediation register of trust.
+
+### displaced block 3
+
+**Unresolved Delta:** the explicit ladder (discoverable → contactable → trusted) is this essay's construction responding to the brief; no deployed implementation of revocable graded authority between user, operator and agent is documented here, and such cases remain Offered. Lexical publication sources for fides/credere, distinct faith traditions, and the exact noncoincidence wording remain the debts A23 already names. The brief does not reduce all trust to prediction-stability, and this node does not attribute that reduction to it.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A24-prime-The-Usurping-Criterion.md
+
+### displaced block 1
+
+**Standing:** conjugate proposal to [A24 — Arbitration and the Usurpation of Measure](../arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md). The whole Arbitration conjugate field generates the relations consumed here; the Prisoner mytheme remains A24's source-specific witness, used here only as a named refraction of the office-confusion already derived.
+
+### displaced block 2
+
+**Depth Restoration:** criterion/frame/decision precedence, hidden denominator, office-person asymmetry as named refraction, regard and criterion-reaching correction restored from the A24 packet and the whole Arbitration field; brief instances anchored at q026, q029 and the p. 4 corridors and §7.3 function-of-conflict passages; S1/P2 woven once as the granted-authority register of the criterion.
+
+### displaced block 3
+
+**Unresolved Delta:** the p. 4 corridors passage and the §7.3 passage lack their own source-house cards — a source-house task. Concrete cases of criterion-level correction in deployed stacks (a benchmark revised by challenge, a reward model's preference source surfaced and contested) remain Offered. The Prisoner refraction carries A24's existing audiovisual-locator debts and is not re-sourced here; lexical publication-grade verification of the Arbitration field remains its own task. The sentence relating the two corridors — the second as the first knowing itself as local — is this arc's harmonisation claim, stated once in #0 and flagged for the author's confirmation.
