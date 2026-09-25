@@ -44,19 +44,3 @@ The [whole’s atlas complement](../../mytheme/worlds/frank-taylor/stained-glass
 Return makes the world a continuing source of revision. An encountered person can answer the categories under which they were counted; a model can alter the reference used by later models; an obstruction can force a change of frame. C38 governs local reference/reflection, C39 the lenses, and C47 the model-revising encounter. The atlas remains an achievement inside worldhood, capable of correction by what it maps.
 
 ### Declared field
-
-**Argument consumers:** A22, A26–A27, A31, A34. **Movement consumers:** worldhood, Bimba/Pratibimba, MEF and idealism movements.
-
-**Etymology relation:** *Encounter / Region / Name / Count / Countenance / Account*; consumed operation: multiple **Accounts** of a Region remain answerable to encounter and Countenance. Register **3**. Return C37 → A22 → C38/C39 → C47/A31.
-
-**Source/tradition standing:** authorial world-atlas development primary; cartographic, perspectival and model-pluralist traditions are Episteme warrants.
-
-### Provenance
-
-Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>), [Q27 with its Bimba correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), and the [federated reflective-field carrier](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md). The [MEF source house](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) has a recoverable [local twelve-lens reference](../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md) now bound by the source house’s recovered-local-object record. That reference is developmental architecture; its historical attributions and musical selection claims are not independently established by the compilation. [Dyczkowski](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) retains source-matched, not quotation-verified, reflection passages. Technical designs remain Offered until their own experiments establish functioning consequences.
-
-### Remaining depth
-
-Restore cartographic examples and exact criteria for valid translation among models.
-
-**Depth Restoration: enriched; source/implementation debts retained.**
