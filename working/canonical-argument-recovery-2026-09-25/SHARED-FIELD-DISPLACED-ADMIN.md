@@ -541,3 +541,90 @@ P1 consumers: M06, M13–17 and M28. Detailed chronology, contested transmission
 ### displaced block 2
 
 **Unresolved Delta:** the selected Sāṅkhya passages are quotation-ready; they do not settle every school's composition of antaḥkaraṇa. Citta's place and the exact differences among threefold and fourfold accounts require their own textual recovery. No technical one-to-one mapping or machine-subject verdict is claimed.
+
+## submission-package/essay/symbolon/episteme/concepts/C17-Vikalpa-Samkalpa.md
+
+### displaced block 1
+
+**Depth Restoration:** circumstantial whole, forming-apart/gathering, paired failures, retained-trace/recollection/imagination differences, medicine-for-thought image, historical disagreement and technical condition-change are restored.
+
+### displaced block 2
+
+**Unresolved Delta:** exact Sanskrit morphology and classical nirvikalpa/śuddha-vikalpa treatment need independent passage recovery. MacCracken does not define saṃkalpa. Dyczkowski's source-matched local transcript is paraphrased, with edition collation pending. The authorial operation is not a claim of common doctrinal identity or completed technical experimentation.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C18-Apoha.md
+
+### displaced block 1
+
+**Depth Restoration:** referential exclusion, non-cancelling nominal/verbal distinction, qualified positive referent, retained alternatives and reflexive comparison, and technically distinct selection stages are restored. C18 retains canonical ownership; the lowercase page remains developmental provenance.
+
+### displaced block 2
+
+**Unresolved Delta:** the Apoha volume's printed chapters and page locators await collation; Pind's preclusion fragment retains provisional attribution. School-specific reconstructions and the rigidity/particularity comparison remain live. The technical bridge is the essay's argued construction, with no experimental or priority claim added here.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C19-Pratyabhijna-Recognition.md
+
+### displaced block 1
+
+**Depth Restoration:** memory/recognition distinction, contraction's return, native x→X→x, known→unknown→known, reciprocal interpreter change, resolution-in-reconciliation, paradigm recognition, differentiated product return and practical release are restored.
+
+### displaced block 2
+
+**Unresolved Delta:** selected-edition collation remains pending for Dyczkowski and Van Eenwyk's copied note passages. Cross-tradition recollection/awakening/reconciliation distinctions require their own passages wherever expanded. No technical or contemplative outcome is guaranteed by arranging an account in the right form; paradigm recognition requires demonstrated changed relation rather than declared self-knowledge.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C20-Arche-Topos.md
+
+### displaced block 1
+
+**Depth Restoration:** relation before assigned place, centred orientation, Necker reversal/context distinction, quotient/lift return, atlas/trajectory distinction and situated field are restored.
+
+### displaced block 2
+
+**Unresolved Delta:** Hatcher's source house is citation-ready but exact passage locators remain pending. Greek compound construction and stronger psychoid, musical or physical identifications require their own source and proof work. No mathematical model is promoted to the whole field it models.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C21-Living-Symbol-Idol.md
+
+### displaced block 1
+
+**Depth Restoration:** whole relation beyond the manifest image, broken-token seam, native capacity/instance, vehicle versus uncommanded efficacy, paired world/interpreter opening, growth/death, source-occupation and paradigm-expression return are restored.
+
+### displaced block 2
+
+**Unresolved Delta:** Van Eenwyk's copied passages and mediated Tillich remain verification leads. Direct Jung passage-level evidence and detailed Greek symbolon history still require their own source recovery. Concrete evaluation of Expression as living vehicle rather than protected display remains Open. This page's authorial operation does not depend on promoting those debts to quotation-readiness.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C22-Counterfeit-Symbolon.md
+
+### displaced block 1
+
+**Depth Restoration:** healthy cut/composition, severance versus fusion, counted plurality under one criterion, counter-generation, product promoted to source, image/interpreter and jurisdiction tests, paradigm-expression counterfeit, and failure-specific return are restored.
+
+### displaced block 2
+
+**Unresolved Delta:** the taxonomy is authorial. Particular clinical, political or institutional diagnoses require their own evidence; a technical mechanism must be observed before claiming that it instantiates a failure. No new canonical identities or universal failure score are introduced. Concrete Expression/Epi-Logos tests remain to be run.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C23-Severance.md
+
+### displaced block 1
+
+**Depth Restoration:** live polarity/collapsed account distinction, constitutive exclusion, generated-source substitution, divide-and-combine operation, legitimate refusal/boundary and relation-preserving autonomy are restored.
+
+### displaced block 2
+
+**Unresolved Delta:** the arithmetic is exact in its ordinary scope; its political, psychic and epistemic application is authorial interpretation. Specific examples of domination or source capture require direct evidence; neither disagreement nor separation suffices for that diagnosis.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C24-Fusion.md
+
+### displaced block 1
+
+**Depth Restoration:** conjugacy with retained inverse, refusal within intimacy, Other-within-Mono versus within-me, coordination without super-subject, symbolic reorganisation and distinction-preserving synthesis are restored.
+
+### displaced block 2
+
+**Unresolved Delta:** these are authorial formal and relational criteria. Clinical fusion, particular institutional capture and tradition-specific nondual doctrines require their own source treatment before diagnosis or historical attribution. A shared outcome alone does not establish this failure.
