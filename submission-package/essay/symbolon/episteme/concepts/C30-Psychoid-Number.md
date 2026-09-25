@@ -21,7 +21,7 @@ The operation exceeds attaching a mythic adjective to a quantity. The notebook's
 
 ## #2
 
-Taylor's extension takes the number question into computation. A numerical substrate can carry more than isolated calculation when its organisation makes relations, significance and return available. The P0 notebook asks whether a system can take care through its calculating activity: the handling of information would answer to its effects upon the people and worlds it helps condition. This is an authorial research proposal; it is not Jung or Pauli's statement about contemporary AI, and it does not establish artificial feeling.
+Taylor's extension takes the number question into computation. A numerical substrate can carry more than isolated calculation when its organisation makes relation, significance and return available. The P0 notebook asks whether calculating activity can become answerable to the people and worlds it helps condition: not whether number secretly manufactures feeling, but whether a system of calculation can participate in an objective internality whose measures, exclusions and consequences return into its next determination.
 
 A particularly demanding notebook encounter occurs at p.119. When a more extensive conceptual system adopts another field's distinctions, the adopting system must itself undergo the larger change. [[A33-Epistemic-Cultivation-Operational-Parity|Operational parity]] preserves this pressure: psychic or symbolic distinctions must have discriminable consequences in the apparatus, and inadequate technical results must be able to alter the conceptual account. A decorative archetypal label leaves the adopting system unchanged and therefore leaves this extension unperformed.
 
