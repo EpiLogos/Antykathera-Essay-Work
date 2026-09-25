@@ -45,21 +45,3 @@ The next cycle inherits a revised condition with the earlier passage still attri
 At the product culmination, the minimal complete test is therefore: **what changed, where did the returned difference land, and what later act inherited that change?** If the answer names only a stored trace, the circuit is incomplete. If it names a changed relevant condition and a subsequent determination made under that condition, a functional return has occurred. Whether the larger paradigm also became inspectable and refinable is the further C51 question.
 
 ### Declared field
-
-**Argument consumers:** A14, A26, A32–A33. **Product consumers:** S1 directly; S0/S2–S5 can receive returned changes at their own offices. **Movement consumers:** computational-vimarśa, AHI, MEF, reflective-field and six-product Objective Internality movements.
-
-**Etymology relation:** any Sanskrit relation is evidence register **3 Operational homology** unless direct philology/textual warrant is separately cited. Consumed operation: [reflexive return changes subsequent articulation](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-re-enters-source-field). Return C43 → A14 → C45/A33 → C55/A32 → C41/C51.
-
-**Source/tradition standing:** live computational-vimarśa/AHI carrier primary for this authorial technical term; Śaiva vimarśa remains source-distinct.
-
-### Provenance
-
-Direct authorial/developmental carriers: [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), [computational-process operations](../../../section-rooms/arguments/14-computational-process-ontology.md), [federated reflective field](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md), [open subjectivity boundary](../../../section-rooms/arguments/05-agent-subjectivity-open.md), and [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>). [Watson's source house](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and protected notes retain the authorial encounter; source quotations and the technical extensions have independent standing. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and its later ratified corrections preserve model-revising return and positional commission. The September 15 [paradigm / Epi-Logos minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) supplies the later distinction between local functional reflexivity and paradigm-level return. The native argument does not itself certify an implementation or transfer a source's philosophical terms to machine phenomenality.
-
-### Remaining depth
-
-Restore exact technical implementations and sharpen minimal criteria for computational reflexivity. Test the distinction between local reflexive repair and paradigm-level Epi-Logos against actual systems rather than vocabulary.
-
-**Depth Restoration: enriched; product-return and paradigm/Epi-Logos boundary restored; source/implementation debts retained.**
-
-The [Indian philosophy dossier](../dossiers/indian-philosophy.md#50--the-next-act-must-inherit-the-return) **tests** the complete inherited five-step procedure: selected/excluded field, disclosed evaluator and preference baseline, inverse reading, unsettled boundary and revised provenance entering the next act.
