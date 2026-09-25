@@ -15,8 +15,6 @@ source_relation: Argued from
 [Argument field](README.md) · [Other face: A06′ — Articulation as Ontological Descent](../conjugate/A06-prime-Articulation-as-Ontological-Descent.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument; historical Argument 16 and live `10-vak.md` remain provenance.
-
 ## #0
 
 Vāk makes articulation itself part of ontology. A word is not merely a label attached after a world has already been made; articulation is one route by which a field differentiates, becomes meaningful, and enters audible, written, coded or enacted form. The Śaiva accounts of levels of speech matter here because they refuse the modern assumption that meaning begins only at the finished external sign. Unsayable capacity, visionary or formative speech, mental articulation and gross utterance belong to one descent whose later products carry the history of their formation.
@@ -83,18 +81,10 @@ The newer Epi-Logos development then performs a further return. A lived paradigm
 
 **Etymology whole field:** *Fides / Topos / Logos / Nomos / Natio / Credere*. **Consumed operation:** the **Logos** branch carries word/account/reason as articulated ordering, while the whole field prevents “logos” from being treated as a secret etymological key to unrelated Sanskrit terms. **Evidence register:** 2 for the attested semantic field of Greek *logos*; 3 for the operational relation between Logos and Vāk. The separate *paradeigma/paradeiknumi* lexical field qualifies the author's lived-pattern/explicit-model relation without deriving it. **What changes:** language is treated as an achieved relational act rather than a detachable label. **Return route:** A06 → C51 → A35 → C41 → A06.
 
-**Movement consumers:** the live Vāk carrier explicitly supports Movements 29, 30 and 44; the restored product culmination adds M38 Actuation and M42 Quaternal Logic as explicit philosophical returns. Other language/return consumers remain routed in the canonical quilt.
-
 **Matheme:** relation becoming sign and return; **Mytheme:** Word, sound, breath and vision as whole articulation images; **Episteme:** Śaiva textual tradition, philosophy of language, computation, media history and the authorial paradigm development kept source-distinct.
-
-### Provenance
-
-Direct carrier: `submission-package/essay/section-rooms/arguments/10-vak.md`, including Taylor theorem sources and SA-01/SA-04/DG-21/DG-24 source ledgers. Historical Argument 16 remains provenance. The September 15 [paradigm / Epi-Logos minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) supplies the later authorial extension; it is not attributed to the Śaiva source.
 
 ### Unresolved Delta
 
 Passage-level verification of the levels of Vāk, Paśyantī and Nāda; exact relation to Eckhart and later Logos material; fuller technical examples and the implemented relation between expressive projection and the paradigm it can revise.
-
-**Depth Restoration:** speech formation, active second-person address, empty/full proper name, contextual person-transformation, the non-arbitrary kaleidoscope, terminating-sign/symbolic return, paradigm articulation and product culmination restored. Existing A06 packet, direct P2/P3 and Draft3 carriers, Q27 §§14–15, Singh and Dyczkowski SOURCE houses, Kripke/Watson SOURCE plus protected sibling NOTES, and the R3 paradigm minute were read. None of the protected notes was changed. **Open:** direct Buddhist passage collation for the Bāhiya/nāma comparison; selected-edition speech-level verification; the exact Eckhart/Logos comparison; implemented technical trials. The earlier P1 mapping discrepancy is retained as provenance while the new M38/M42 returns follow the authorised six-product §5.
 
 The [Indian philosophy dossier](../dossiers/indian-philosophy.md#2--speech-forms-a-world-which-can-answer-its-speaker) **compares** speech formation, personed address and the non-arbitrary kaleidoscope, returning the achieved account through E3 Logos.
