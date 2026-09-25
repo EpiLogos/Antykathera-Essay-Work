@@ -1,0 +1,17 @@
+# Provenance record — enforced final prose pass (fresh run, 2026-09-25)
+
+failed candidate restored byte-exact from git 547bf94:working/final-manuscript-prose-pass-2026-09-24/provenance/FAILED-GROK-4.7-CANDIDATE.md
+
+THE-RETURN-OF-ZERO.md (failed candidate, restored as currently-open working file) sha256 b952ff02faab78338a34b5220e8204fb56f9e9da480d1133fb2d72b6bafbb454
+provenance/FAILED-GROK-4.7-CANDIDATE.md sha256 b952ff02faab78338a34b5220e8204fb56f9e9da480d1133fb2d72b6bafbb454
+provenance/PROTECTED-AUTHORIAL-OPENING.txt sha256 d85bb9a1e969fe896eb938ab29f82ff6da5d73711c18382a5f4f12d2e2674110
+
+Protected opening = first paragraphs ("What knows?" / "Not a finished description ... settle the questioner.")
+of the failed candidate, commission MUST 0.2. It is preserved verbatim; every section draft and the
+final candidate must carry it byte-for-byte.
+
+Note: submission-package/essay/THE-RETURN-OF-ZERO.md (sovereign, promoted 2026-09-24) currently opens
+differently ("What is it that knows? ..."). The sovereign is not touched by this pass; on authorial
+acceptance the protected opening governs the assembled candidate.
+
+Recon packet restored byte-exact from git fe7318c (branch codex/final-manuscript-prose-recon-2026-09-24).
