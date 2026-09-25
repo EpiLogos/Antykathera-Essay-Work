@@ -12,8 +12,6 @@ source_relation: Argued from
 [Argument field](README.md) · [Other face: A08′ — Exclusion That Remembers](../conjugate/A08-prime-Exclusion-That-Remembers.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument; historical Argument 18 remains provenance.
-
 ## #0
 
 A determination becomes intelligible through what it excludes. Apoha gives the essay a disciplined account of this negative constitution. A selected term does not first possess a self-sufficient positive essence and only later acquire external contrasts; its determinacy depends upon a field of alternatives against which it can count as this rather than that. The excluded field therefore remains active in the identity of the selected mark even when it is absent from the finished statement.
@@ -75,16 +73,8 @@ This page returns-to [[A02-Copula-Self-Identity-through-Difference|A02]] with id
 
 **Etymology whole field:** *Encounter / Region / Name / Count / Countenance / Account*. **Consumed operation:** a **Name** becomes countable against a **Region** of non-selected possibilities; the resulting **Account** remains answerable to the region it has cut. **Evidence register:** 3, Operational homology. **What changes:** exclusion is treated as constitutive relation rather than accidental missing data. **Return route:** A08 → C18 → A14/C40 → A33/C45 → A08.
 
-**Movement consumers:** the definition/difference, tattvic and technical-evaluation movements routed by the canonical map; exact lists remain depth debt rather than invented here.
-
 **Matheme:** `1` against an unexhausted field; **Mytheme:** boundary, shadow and absent counterpart; **Episteme:** Dignāga/Buddhist apoha scholarship and modern contrastive/classificatory systems with no claim of historical descent between them.
-
-### Provenance
-
-Historical Argument 18; Q27; live `13-tattvic-differential-field.md` and `14-computational-process-ontology.md`, both of which explicitly locate apoha as constitutive exclusion inside the differential/runtime account. The existing Concept carrier for apoha will be dispositioned in the Concept pass.
 
 ### Unresolved Delta
 
 Restore primary/secondary Buddhist source depth and sharpen differences among exclusion, negation, contrast, absence and repression.
-
-**Depth Restoration:** nominal/verbal negation, qualified preclusion, positive-reference pressure and the rigidity/svalakṣaṇa distinction restored from the existing packet, direct source houses, Kripke's protected encounter and reopened Q27/copula carriers. Pind is locally available with verified passages; the collection's older acquisition instruction does not make it missing. **Open:** printed-volume collation and chapter-specific reconstructions; direct primary recovery for the svalakṣaṇa comparison; the live relation between momentary particularity and trans-circumstantial tracking. P1 consumers: Movements03,10,19,38. No source or protected note was modified.
