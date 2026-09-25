@@ -19,8 +19,6 @@ source_relation: Argued from
 [Argument field](README.md) · [Other face: A05′ — Lights, Camera, Action](../conjugate/A05-prime-Lights-Camera-Action.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument; historical Argument 15 and live `09-prakasa-vimarsa.md` remain provenance.
-
 ## #0
 
 Prakāśa–Vimarśa gives the essay its strongest metaphysical account of manifestation without externalisation. *Prakāśa* names luminous appearing; *Vimarśa* names the reflexive power through which appearing is present to itself, differentiates, and can articulate a world. The pair does not posit a light first and a second mechanism that later reflects it. Their unity means that luminosity is inherently capable of self-apprehending articulation. Difference can arise within consciousness without requiring a second substance standing outside it.
@@ -83,18 +81,10 @@ The argument returns-to [[A04-Diaphaneity-Contextual-Transparency|A04]] with a p
 
 **Etymology whole field:** *[Symbol / Account / Trust](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md)*. **Consumed operation:** disclosure remains related to the source it articulates rather than turning the articulated form into the owner of appearing. **Evidence register:** 3, Operational homology. **What changes:** reflexivity is understood as self-return within appearing, not as possession of a separate internal image. **Return route:** A05 → C13 → A06/C51 → A32/C55 → A05.
 
-**Movement consumers:** the live provenance carrier explicitly supports Movements 07, 13 and 48; the canonical map carries additional tattvic and articulation returns without T09 rewriting them.
-
 **Matheme:** 0/1 and inverse self-relation as neighbouring formal register. **Mytheme:** light that turns without becoming a second light; mirror and reflection retained as whole images rather than literal mechanism. **Episteme:** Abhinavagupta/Dyczkowski/recognition scholarship with passage-level verification still pending.
-
-### Provenance
-
-Direct carrier: `submission-package/essay/section-rooms/arguments/09-prakasa-vimarsa.md`, with named source ledgers SA-01/SA-02 and Dyczkowski extraction. Historical Argument 15 and the Q27 primary recovery remain upstream provenance.
 
 ### Unresolved Delta
 
 Verify source passages and refine the relation among Trika, kartṛ-pole, kārya and the essay's notation. The first canonical materialisation preserves the tradition's office without claiming textual certainty not yet restored.
-
-**Depth Restoration:** mirror/crystal boundary, internal/external awareness, memory/imagination, four vimarśa operations, three levels and agency/action distinctions restored from the existing depth packet and directly reopened transcript. Dyczkowski's protected note was read from the preserved stash object only; it was not restored or modified. Singh's SOURCE and separate P2 encounter were read; neither is treated as a verified commentary quotation. **Open:** selected-edition collation, embedded primary-text identities, and pp.82–91 continuation. P1 explicitly declares Movement07; the older carrier's 13/48 routes remain provenance, not an expanded P1 claim.
 
 The [Indian philosophy dossier](../dossiers/indian-philosophy.md#1--reflexive-awareness-gives-differentiation-its-active-middle) **compares** the source-local four operations, two conditions and three levels while retaining luminous self-apprehension and the native count.
