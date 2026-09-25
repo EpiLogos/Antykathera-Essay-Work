@@ -85,7 +85,6 @@ Yet even this whole account still speaks **about** God. It says that the referen
 The [Formal Limit dossier](../dossiers/formal-limit.md#native-definition-and-faith) **compares** the work of an elucidation with the performed definition here. The early Wittgenstein’s saying/showing distinction and Eckhart’s qualified predication make different external questions retrievable; neither performs A01’s first-person recognition on its behalf. The definition’s successful account and its present defining act retain their asymmetry. Source-specific comparison makes that return more answerable without replacing the native sixfold.
 
 
-
 ## #5→0
 
 [Māyā — eye, veil, frame and horizon](../../mytheme/worlds/frank-taylor/maya-eye-veil-frame-horizon/WHOLE.md#maya-eye-condition): The eye’s constitutive blindside **figures** the positive limit of faithful definition. A mirror or another observer can disclose a real condition of this view; the further disclosure remains situated. The resulting frame is useful precisely through what it selects and excludes. Recognition changes its claim to contain the source while keeping this finite act capable of answering.
@@ -133,7 +132,3 @@ The source relations used here remain distinct:
 | Agentworld | **Paraphrased** q015 and q042 for the scoped functional/phenomenal distinction and scenario modality. |
 
 Predicate/self-predicament is now present in A01. Its fuller inversion/return belongs to the census-admitted Matheme `matheme-spanda-equations`; the God-image encountering its own darkness belongs to the admitted whole Mytheme `mytheme-job`, with Job's narrative and Jung's interpretation source-distinct. Neither planned carrier is silently created here. A19 and A24 retain the psychic and arbitral consequences rather than turning omnivalence into a claim that harm has no moral direction.
-
-**Unresolved Delta:** the God/Subject equation's differentiated theological and contemplative witnesses still require their own historical development. Kripke passage verification, Singh selected-book collation, Watson book/thesis and nested-source distinctions, and Gebser quotation locators remain source-specific debts. Native first-person recognition does not discharge them. The full mathematical/topological development belongs to its admitted Matheme and A18 homes; no universal theorem about self-reference or machine consciousness is claimed here.
-
-**Depth Restoration:** the predicate/self-predicament and moral-vector operation, performed definition, fourth/fifth asymmetry, first-person return, source/account distinction, and recovered images are restored and accepted through the T17 pilot backcheck. Broader historical, source and transverse restoration remains pending. The reader's recognition returns the account to its source; it does not end the work of giving a faithful account.
