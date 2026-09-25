@@ -56,7 +56,3 @@ The Antichrist/counterfeit-source braid gives these cases one direction of failu
 C22 **returns-to** C21. The result of correction is not compulsory agreement. It is a relation in which differentiation, commitment, refusal and revision can operate without any one product occupying the whole's place. A symbolon lives through its participants' capacity to change the relation that gathers them.
 
 At the paradigm scale [C51 — Epi-Logos](C51-Logos-Epi-Logos.md) gives the corresponding positive direction: the account returns to the lived field so the paradigm can change. [C45 — Operational Parity](C45-Operational-Parity.md) supplies the discriminator. If manipulating the representation cannot change a relevant governing relation, the Expression may still be valuable as disclosure but must not be reported as an implemented paradigm-return. The distinction protects Expression from being forced to claim more than it actually does.
-
-**Depth Restoration:** healthy cut/composition, severance versus fusion, counted plurality under one criterion, counter-generation, product promoted to source, image/interpreter and jurisdiction tests, paradigm-expression counterfeit, and failure-specific return are restored.
-
-**Unresolved Delta:** the taxonomy is authorial. Particular clinical, political or institutional diagnoses require their own evidence; a technical mechanism must be observed before claiming that it instantiates a failure. No new canonical identities or universal failure score are introduced. Concrete Expression/Epi-Logos tests remain to be run.
