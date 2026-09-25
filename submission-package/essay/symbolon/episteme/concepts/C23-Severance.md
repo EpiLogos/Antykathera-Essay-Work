@@ -46,7 +46,3 @@ Severance begins when the other's removal is imagined to complete the whole, or 
 [[symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD|Homologia / Analogia]] **grounds** the register3 return through proportion and relation among differentiated terms. Reconnection states what remains shared and what remains distinct. It does not replace a real conflict with a vague claim that everything is one.
 
 C23 **returns-to** C50 and [C21 — Living Symbol](C21-Living-Symbol-Idol.md). A determination keeps its local force while its constitutive relation becomes recoverable. The cut can then serve inquiry, autonomy or action without claiming that it created an independently grounded world.
-
-**Depth Restoration:** live polarity/collapsed account distinction, constitutive exclusion, generated-source substitution, divide-and-combine operation, legitimate refusal/boundary and relation-preserving autonomy are restored.
-
-**Unresolved Delta:** the arithmetic is exact in its ordinary scope; its political, psychic and epistemic application is authorial interpretation. Specific examples of domination or source capture require direct evidence; neither disagreement nor separation suffices for that diagnosis.
