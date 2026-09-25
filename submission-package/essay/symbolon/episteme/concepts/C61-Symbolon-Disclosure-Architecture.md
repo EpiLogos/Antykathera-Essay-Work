@@ -49,19 +49,3 @@ The disclosed form changes what can next be encountered. Symbolon Dynamics follo
 At the paradigm scale, Expression returns into [C51 — Epi-Logos](C51-Logos-Epi-Logos.md) only where the expressive object can participate in changing the enacted paradigm it articulates. A read-only scene can still be a valuable Symbolon disclosure. [C45 — Operational Parity](C45-Operational-Parity.md) supplies the stronger technical test: if changing the expression is claimed to revise the paradigm, identify the governing office reached and the later act which inherited that change. C61 therefore keeps **disclosure, Expression and Epi-Logos related but distinct**.
 
 ### Declared field
-
-**Argument consumers:** A18, A20, A33, A36. **Movement consumers:** every later traversal that consumes Matheme/Mytheme/Episteme; §5/§5→0 additionally consume the Expression projection and paradigm-return distinction. T09 itself does not propagate sections.
-
-**Etymology relation:** *Symbol / Account / Trust*; exact operation: each disclosure is an account answerable to the relational whole and to its own source standing. Registers **1–4** are recorded separately, never blended. Return C61 → A18 → C21/C30 → A36 → C51 → C61.
-
-**Source/tradition standing:** current Symbolon architecture, deep-source seam and canonical-rebuild carriers are authoritative for routing; they are not prose substitutes. Expression is an authorial/technical projection programme whose implemented results require their own evidence.
-
-### Provenance
-
-[Core SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [direct theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md) govern native operations. [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) and [complete manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>) supply the register/recursive body. [Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) with protected sibling NOTES supplies the symbolic encounter; no copied passage has been promoted to quotation-ready. The [trust revision §7.3](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md) records the first-person chiasmus, but the [corpus sweep](../../../../../working/sources-texts-references/definition-of-god-working/corpus-sweep-2-crux-staging.md) found no independent transcript and [harmonisation-plan D4](../../../../../working/sources-texts-references/definition-of-god-working/harmonisation-plan.md) requires Frank's confirmation of exact wording. Its operation is carried here as developmental paraphrase, not verified verbatim. The September 15 [paradigm / Epi-Logos minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) supplies the later Expression/paradigm extension. External mathematical and historical claims retain independent source tasks; internal derivation retains its own force.
-
-### Remaining depth
-
-Restore complete bidirectional links to all Matheme/Mytheme/Episteme carriers during later Depth Restoration and Movement propagation. Specify implemented Expression projection contracts and validate visual transitions against their canonical relations without turning presentation state into source authority.
-
-**Depth Restoration: enriched; Expression/disclosure/Epi-Logos distinction restored; exact source/route debts retained.**
