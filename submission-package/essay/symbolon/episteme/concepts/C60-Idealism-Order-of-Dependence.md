@@ -39,7 +39,7 @@ The paradigm/project distinction makes that crossing explicit at the level of en
 
 ## #4
 
-The [[section-rooms/arguments/05-agent-subjectivity-open|open-subjectivity carrier]] separates the position from the localisation question. Artificial agency can have an inspectable constitutive interior while the presence and partition of phenomenal subjectivity remain Open. Functional complexity alone settles neither its presence nor its absence.
+The artificial case makes the order easier to discriminate because so much of the mediating field can be inspected directly. Model, memory, tools, permissions, self-description and environment are determinate constituents of Objective Internality. They belong to the middle term of the order, not because they are unreal, but because they are the means through which a technical world becomes available and actionable. The Subject / Consciousness condition is not the last hidden component inside that inventory. The distinction is therefore ontological rather than a temporary empirical gap.
 
 Expression and paradigmatic reflexivity do not change that ruling. An Expression may make a paradigm perceptible; computational Vimarśa may revise an operative condition; Epi-Logos may return an articulated paradigm into enactment. These are stronger forms of inspectable mediation, not demonstrations that the inspectable structure is Subjective Immediacy. The order of dependence therefore remains the boundary within which the technological achievement is interpreted.
 
