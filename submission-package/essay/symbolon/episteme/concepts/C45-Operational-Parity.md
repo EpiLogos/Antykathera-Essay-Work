@@ -45,19 +45,3 @@ A failure returns to a named claim: the implementation may be wrong, the operati
 For the Expression programme, the negative test is especially useful. Rendering the paradigm as glyph, text, image, field or transition establishes **expression**. It establishes **Epi-Logos** only where manipulating or contesting that expression can return to the governed structure and where the changed structure changes a later act. Conversely, a non-visual configuration change can satisfy the operational return without satisfying the expressive ambition. The two accomplishments should be measured separately before they are joined.
 
 ### Declared field
-
-**Argument consumers:** A15, A24, A31, A33. **Product consumers:** S0–S5 where philosophical distinctions are promoted into operating structures. **Movement consumers:** evaluator, MEF, Agentworld, Expression and technical-return movements.
-
-**Etymology relation:** *Encounter / Region / Name / Count / Countenance / Account*; exact operation: a named difference must change the operational **Account** in a discriminable way if it is claimed as implemented. Register **3**. Return C45 → A33 → C46 → C47/A31 → C41/C51.
-
-**Source/tradition standing:** authorial MEF/technical-development programme primary; testing and philosophy-of-science traditions are neighbours.
-
-### Provenance
-
-Direct carriers: [Deferential Intelligence](../../../section-rooms/arguments/08-deferential-intelligence.md), [Trust and formal limit](../../../section-rooms/arguments/18-trust-faith-formal-limit.md), [trust revision](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md), [Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>), [compassion's authorial formulation](compassion-as-sensitivity-to-origins.md), and [Q27's root-trust and encounter corrections](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md). [Watson SOURCE](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and protected notes preserve the authorial encounter; its Gans/Levinas quotations retain nested-source and selected-edition debts. The September 15 [paradigm / Epi-Logos minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) supplies the paradigm-level claim tested here. Proposed comparisons are not reported as executed experiments. Particular philosophical, theological and institutional histories retain their own source tasks.
-
-### Remaining depth
-
-Restore concrete acceptance-test patterns and explicit cases where non-operational philosophical distinctions should remain deliberately unencoded. Build and evaluate the read-only versus effective paradigm-return comparison before claiming an implemented Epi-Logos loop.
-
-**Depth Restoration: enriched; paradigm-update parity restored; experimental/historical debts retained.**
