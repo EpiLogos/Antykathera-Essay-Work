@@ -63,8 +63,4 @@ Taylor's Neumann refraction places Māyā in the measure-field through which a f
 
 Recognition restores the relation without cancelling the capacity. A finite knower still distinguishes and acts; the measure becomes answerable to its source, conditions and consequences. C14 **returns-to** A09 with limitation's productive office intact. What was concealed by a functioning horizon can become relevant to how that horizon is next used.
 
-**Depth Restoration:** revealing/withholding horizon, five contracted capacities, vertical/horizontal movement, gnomonic hinge, corrected whole dream image, paradigmatic disclosure and finite measure's return are restored.
-
-**Unresolved Delta:** the operative-measure, paradigmatic cross-reading and gnomonic formulations are authorial; this page does not supply a survey of Māyā across Indian schools or a historical claim that Kashmir Śaivism formulated modern paradigm theory. Dyczkowski is paraphrased from the local transcript with selected-edition collation pending. A category-by-category six-by-six mapping and implemented technical analogue remain Open.
-
 The [Indian philosophy companion](../histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT.md#3--manifestation-gives-contraction-a-positive-anatomy) **historicises** effective limitation through the source-local Śaiva account and **compares** it with E6 apportionment. The measure makes a finite world workable while retaining its source relation.
