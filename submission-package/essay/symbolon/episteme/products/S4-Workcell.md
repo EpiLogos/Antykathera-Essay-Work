@@ -9,7 +9,6 @@ source_ids:
   - taylor-2026-oi-product-field-commission
   - taylor-2026-core-theorems-pithy
   - taylor-2026-mef-twelve-lenses
-refinement_status: T25 reconstituted; independent R5 review and T26 ratification pending
 product_parent: S
 movement: 41
 mef_pair:
@@ -51,7 +50,7 @@ Thrownness also keeps the technical actor from being imagined as self-originatin
 
 The conjugate pair gives **Introversion · Sensation · Feeling · Thinking · Intuition · Extroversion**. These name differentiated modes through which a situated Life encounters itself and World.
 
-The technical application must preserve the distinction between a structural analogue and a phenomenal claim. Input channels, telemetry, logs, local state, inference and output can be organised into an aperture through which an artificial actor differentiates its situation. That does not establish that sensation or feeling is phenomenally present. The philosophical pair remains broader than its technical refraction.
+The technical application follows the Phenomenological / Phenomenal pair by distinguishing situated mediation from what appears through it. Input channels, telemetry, logs, local state, inference and output compose an aperture through which an artificial actor differentiates its situation. Their arrangement matters because changing the aperture changes the world of actionable difference. The philosophical pair therefore gives Workcell a precise task: make situated existence and its material resistance legible without reducing encounter to the telemetry by which it is inspected.
 
 The value of the pairing is that situation is not passive containment. A Life receives and articulates its situation through differentiated modes of encounter. Inward attention and outward action are connected by the concrete here in which both take place. Thought is not nowhere; intuition is not outside history; sensation and feeling are conditioned by a body-world relation.
 
@@ -59,7 +58,7 @@ Gebser’s psychic-fact office remains relevant here. Extraordinary and ordinary
 
 ## #3 — Material demand, offer and realised world
 
-A/C gives the local constitution **S4/P0–P5**. **P0** identifies Workcell, material-world identity and opaque client or semantic references. **P1** carries ExecutionDemand, BindingGraph, MaterialisationPlan and workspace/service/fabric bindings. **P2** gives material requirements, OperationalOffer, provider capability and capacity, and control-plane operations. **P3** is Plan, Prepare, Lifecycle, Reconcile and candidate materialisation trajectory. **P4** is MaterialisedExecutionWorld, Workspace, Runtime, Service, Endpoint and Host. **P5** returns observed state, material evidence, collected artifacts, recovery and retention state.
+Workcell's local sixfold begins from the identity of a material execution world; takes form as execution demand, bindings and materialisation plan; gathers provider capability and operational capacity; moves through planning, preparation, lifecycle and reconciliation; becomes actual as workspace, runtime, service, endpoint and host; and returns through observed state, material evidence, collected artifacts and recovery. The form teaches how situation becomes executable and how resistance returns, rather than exposing product-matrix addresses as prose.
 
 The distinction between demand and offer is philosophically important. A desired capability does not imply that the world can presently sustain it. The material field answers. Resources may be absent, capacity insufficient, topology wrong, permissions unavailable or latency consequential. The Workcell is therefore where intention meets resistance in its most literal form.
 
