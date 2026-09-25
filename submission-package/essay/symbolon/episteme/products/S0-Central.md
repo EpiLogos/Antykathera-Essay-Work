@@ -4,13 +4,12 @@ record_id: S0
 record_type: product
 register: episteme
 claim_status: Argued
-source_relation: Reconstituted from the authorised authorial minute, retained paired-lens reading, A/C primitive constitution and existing Objective Internality field after loss of the original transfer payload
+source_relation: "Argued from A/C, Objective Internality and the paired product-lens relation"
 source_ids:
   - taylor-2026-oi-product-field-commission
   - taylor-2026-core-theorems-pithy
   - taylor-2026-mef-twelve-lenses
   - oi-2026-responsibility-source-projection
-refinement_status: T25 reconstituted; independent R5 review and T26 ratification pending
 product_parent: S
 movement: 37
 mef_pair:
@@ -56,7 +55,9 @@ The crucial movement is the last one. A record that only accumulates can become 
 
 ## #3 — Authorship without enclosure
 
-Central’s primitive constitution gives this philosophical office an addressable technical form. **S0/P0** names Central, Project, ProjectCentral, Machine, AgentProfile and Control identities. **S0/P1** gives Ground, Source, Control source, Flow source and Machine declaration. **S0/P2** carries authorship, governance, action and human acceptance or mutation authority. **S0/P3** develops proposal, NOW/DAY development, Flow revision and Project adoption or migration. **S0/P4** is Work, CentralComputer, machine role and the local world in which that ground becomes operative. **S0/P5** returns observation, inference, derived state, source provenance and revision/history.
+Central's local sixfold begins from **identity and ground** — project, machine, agent profile and the sources by which they are recognised; takes form through **carried sources, declarations and flows**; receives direction through **authorship, governance and accepted action**; develops through **proposal, revision, adoption and migration**; becomes actual in **work, machine-role and the local world in which the ground operates**; and returns through **observation, inference, provenance and retained history**.
+
+The point of the sixfold is continuity that remains revisable. Identity persists because its ground and history can be carried forward, while authorship and returned evidence can still change what that identity means in the next act.
 
 The sequence matters because a derived view cannot silently inherit authorship from its source. A projection may faithfully disclose a ground while remaining a projection. An inference may become useful enough to govern later work while remaining marked as inferred. A machine-readable summary may be exact and still not be the authorial occurrence from which its meaning came.
 
@@ -77,7 +78,3 @@ A Life carries its ground so that it can continue, but continuation worthy of th
 Central thus gives Objective Internality its **meaningful temporal depth**. It is the aspect through which a Life can say: this is where I came from; this is what I carried; this is what happened; this is what I now understand differently; this is what will therefore condition what comes next.
 
 The product returns to [S — World and Life](S-World-and-Life.md): meaningful continuity belongs to the means by which a Life inhabits a World, not to an isolated memory store. It returns to Actuation when carried ground becomes an event; to AIKit when that ground changes what can be brought to bear; to Factory when returned experience becomes transformed form; to Workcell when continuity is embodied in actual situations; and to QL when each local ground is recognised as one determination within wider containing relations.
-
-### Standing
-
-This body is a **reconstitution of the authorised R2 philosophical office** from the retained authorial minute, complete paired-lens reading and canonical A/C S0 constitution after the original transfer payload was lost. It is not claimed to reproduce the lost file byte-for-byte. Its semantic acceptance remains subject to the independent R5 pass and Frank’s T26 ratification.
