@@ -46,7 +46,3 @@ The essay's constructive account retains its own claim while exposing this diffe
 [C44 — Prompt Thrownness](C44-Prompt-Thrownness.md) **compares** an inherited machine action-space: a prompt conditions which alternatives can be proposed, selected and carried forward. The comparison becomes investigable where changing a condition changes the available course. It supplies no identity between inference and lived cognition.
 
 [[symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter / Region / Name / Count / Account]] **grounds** the register3 return: a selected account gathers a region without exhausting it. [C47 — Deferential Intelligence](C47-Deferential-Intelligence.md) **tests** whether encounter can reopen the gathering. C17 **returns-to** A07 with the formation active again: what was chosen remains a possible act whose conditions can be reconsidered.
-
-**Depth Restoration:** circumstantial whole, forming-apart/gathering, paired failures, retained-trace/recollection/imagination differences, medicine-for-thought image, historical disagreement and technical condition-change are restored.
-
-**Unresolved Delta:** exact Sanskrit morphology and classical nirvikalpa/śuddha-vikalpa treatment need independent passage recovery. MacCracken does not define saṃkalpa. Dyczkowski's source-matched local transcript is paraphrased, with edition collation pending. The authorial operation is not a claim of common doctrinal identity or completed technical experimentation.
