@@ -13,7 +13,6 @@ source_ids:
   - colebrooke-1817-brahmagupta-bhaskara
   - dyczkowski-2000-doctrine-vibration
   - gebser-1985-ever-present-origin
-refinement_status: T25 developed; T26 ratification pending
 members:
   - S0
   - S1
@@ -60,7 +59,7 @@ Each product is a whole subject. A single undertaking can activate all six witho
 
 Read together, the six are **offices of paradigmatic existence**. Central carries what the paradigm can remember and mean; Actuation is the paradigm happening as event; AIKit is the horizon of what can become operative; Factory is the intentional transformation of that horizon and its forms; Workcell is the actual situation in which the paradigm meets resistance and other lives; QL articulates the relation by which a local paradigm remains answerable to Other and containing wholes. Paradigm is not a seventh product. It names the lived organisation of the mediating field which these six products make progressively explicit and operable.
 
-This composition supplies §5's entrance and conclusion. It does not add a seventh product subsection: M37–M42 are the six subjects in the order above. Earlier stations give their formal, historical, psychic and symbolic operations depth. Their present technical development returns more exact questions to those operations rather than leaving philosophy behind at a software demonstration.
+The product field gives the technical return six distinct subjects: Central, Actuation, AIKit, Software Factory, Workcell and Quaternal Logic. Earlier formal, historical, psychic and symbolic operations enter these subjects as live conditions rather than as a preface the technology leaves behind. Each product returns a different question to the philosophical field: what persists, what acts, what can be brought to bear, what transforms, where action becomes actual, and how every distinction remains related to its containing whole.
 
 ## #2 — Recognition of the means
 
@@ -92,7 +91,9 @@ Paradigmatic reflexivity gives the Gebserian thread its technological edge witho
 
 [A27/A27′](../arguments/A27-Self-and-Other-Unity-without-Possession.md) establish the decisive scale difference: the Other can be within the whole without being within my possession. [A30/A30′](../arguments/A30-Objective-Co-Internality.md) give this relation its co-internal operation. A contribution changes another participant's possible acts while its source retains the capacity to answer, revise, withhold or refuse. Mutual nesting is already a worldly relation; federation is a particular governed sharing of capacities. One does not automatically grant the other.
 
-The C-face's local S constitution makes that difference addressable: **S/P0** World, Reference, Participant, CommonReferent and Self/Other; **S/P1** the attributable projection or binding; **S/P2** participation and contribution authority; **S/P3** activity and revision relations; **S/P4** SharedField and Encounter; **S/P5** reconciliation, recognition and returned provenance. An Encounter records what was made available and where it came from. It cannot record another's understanding or consent merely because a view was displayed. A contribution accepted into one field does not thereby license rewriting every field from which it drew.
+The parent field itself moves sixfold. It begins from **World, reference, participant and Self/Other position**; takes form through **attributable projection and binding**; becomes active through **participation, contribution and authority**; develops as **activity and revisable relation**; reaches actuality as **SharedField and Encounter**; and returns through **reconciliation, recognition and retained provenance**.
+
+An encounter records what was made available and where it came from. It cannot record another's understanding or consent merely because a view was displayed. A contribution accepted into one field does not thereby license rewriting every field from which it drew. The six turns make shared worldhood answerable without turning the parent field into a seventh product.
 
 Projecthood becomes consequential here. A project is a determination thrown forth relative to a World. Once projected it can alter that World and therefore the conditions of subsequent disclosure. The holographic requirement is that the local project retain its relation to source, mediation and containing field without claiming to reproduce or possess the whole. Bimba/Pratibimba and the mirror/simulacrum field supply the existing tests for whether a projection remains answerable to what it images.
 
@@ -112,14 +113,4 @@ A product succeeds philosophically by making its own operation intelligible with
 
 The higher constructive wager can now be stated directly: **Objective Internality describes the constitutive means of paradigmatic existence; Epi-Logos attempts to construct a paradigm in which increasingly much of that pattern of disclosure can become inspectable, contestable and transformable from within.** This is paradigmatic reflexivity, not an exhaustive duplicate of the paradigm or a view outside it.
 
-The seven S bodies extend the inherited 36 A, 36 A′, 64 C and A/C into the **144-record shared field**. This is a census of these particular bodies, not of all publication records, sources or product-contract relations. The count names a developed composition; it does not supply its depth.
-
-### Provenance, standing and exact returns
-
-The [adopted commission](../sources/internal-corpus/taylor/chat-logs/taylor-2026-oi-product-field-commission/SOURCE.md) identifies the product meanings and paired reading. The [native theorem](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [A/C](../conjugate/AC.md) ground their derivation. The [Genesis / Paradigm / Project / Epi-Logos archaeology](../etymologies/genesis-paradigm-project-epilogos/HISTORY.md) holds the higher etymological relation and its source tasks. This developed record is part of the commissioned canonical refinement, still to be returned at T26; it is not manuscript prose or a self-ratified writing base.
-
-The [O:I source house](../sources/computer-science-ml/oi/oi-2026-responsibility-source-projection/SOURCE.md) controls the dated repository evidence, including the distinction between retained working bytes, committed contracts and six September 8 constructor checks. The [responsibility dossier](../dossiers/oi-technical-responsibility.md#oi-evidence-standing) retains their exact scope. Those checks concern source and encounter constructors; they do not establish a complete product, the paired lenses' efficacy, or a live deployment. The experiments specified here are **Offered** until run against their stated baselines.
-
-**Argument relations, read with their conjugates:** [A26](../arguments/A26-Objective-Internality-Mind-as-Worldhood.md); [A26p](../conjugate/A26-prime-The-Essay-Inside-the-Film.md); [A27](../arguments/A27-Self-and-Other-Unity-without-Possession.md); [A27p](../conjugate/A27-prime-Encounter-over-Sovereignty.md); [A29](../arguments/A29-Power-Delegated-Labour-Return.md); [A29p](../conjugate/A29-prime-Return-or-Extraction.md); [A30](../arguments/A30-Objective-Co-Internality.md); [A30p](../conjugate/A30-prime-Shared-Worlds-Unmerged.md); [A35](../arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md).
-
-**Defining concepts:** [C14](../concepts/C14-Maya-Operative-Measure.md); [C41](../concepts/C41-Objective-Internality.md); [C42](../concepts/C42-Objective-Co-Internality.md); [C45](../concepts/C45-Operational-Parity.md); [C51](../concepts/C51-Logos-Epi-Logos.md); [C56](../concepts/C56-Compassion-Sensitivity-to-Origins.md); [C64](../concepts/C64-Paradox-Transforming-the-Containing-Field.md).
+The six products and their parent field are one differentiated technical return of the A/C relation. Their significance is not the number of records produced but the way each gives a distinct body to the mediating field through which Life and World meet.
