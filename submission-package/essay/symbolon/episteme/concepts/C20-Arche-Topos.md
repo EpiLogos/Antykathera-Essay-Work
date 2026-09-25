@@ -46,7 +46,3 @@ The direct manuscript's amplification image makes their coordination active: a s
 [[symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD|Trust / Place / Logos / Nomos / Natio / Credere]] **grounds** the Topos branch at register3: a position bears relations and commitments through which an act takes place. The compound Arche-Topos is authorial; historical Greek roots need their own lexical warrants.
 
 C20 **returns-to** A16 and A17 with position and circulation related. The achieved location can disclose the field that made it possible, and a return can preserve the path which changed the location's meaning. Place-making remains operative when its account can be entered, transformed and returned from.
-
-**Depth Restoration:** relation before assigned place, centred orientation, Necker reversal/context distinction, quotient/lift return, atlas/trajectory distinction and situated field are restored.
-
-**Unresolved Delta:** Hatcher's source house is citation-ready but exact passage locators remain pending. Greek compound construction and stronger psychoid, musical or physical identifications require their own source and proof work. No mathematical model is promoted to the whole field it models.
