@@ -57,20 +57,4 @@ The [Avatar · image · mask · idol](../../mytheme/worlds/frank-taylor/avatar-i
 
 ### Declared field
 
-**Argument consumers:** A22, A27, A30–A33. **Movement consumers:** Bimba/model, Agentworld, reflective-field and MEF movements.
-
 **Etymology relations:** *Symbol / Account / Trust*; consumed operation: reflections/accounts remain answerable to a declared local reference source without claiming ultimate sourcehood. Register **3**; Sanskrit term histories require separate **1/2** evidence. *Genesis / Paradigm / Project / Epi-Logos*; consumed operation: a projected determination can become a real local reference and later causal condition while remaining answerable through the paradigm and wider source from which it acquired standing. Register **3**. Return C38 → A22 → C55/A32 → C38, with C38 → C51/C45 → C38 supplying the stronger paradigmatic-return test.
-
-**Source/tradition standing:** Taylor's Bimba Map and source/reflection architecture is primary; Sanskrit and contemplative source histories remain to be restored without retroactive technicalisation.
-
-### Provenance
-
-Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>), [Q27 with its Bimba correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), and the [federated reflective-field carrier](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md). The [MEF source house](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) has a recoverable [local twelve-lens reference](../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md) now bound by the source house’s recovered-local-object record. That reference is developmental architecture; its historical attributions and musical selection claims are not independently established by the compilation. [Dyczkowski](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) retains source-matched, not quotation-verified, reflection passages. Technical designs remain Offered until their own experiments establish functioning consequences.
-
-### Remaining depth
-
-Restore Sanskrit/source traditions and exact Bimba Map technical semantics, especially recursive local reference offices.
-
-**Depth Restoration: enriched; projective/paradigmatic return added; source/implementation debts retained.**
-
-The [Indian philosophy dossier](../dossiers/indian-philosophy.md#4--a-reflection-acts-before-its-source-is-recognised) **compares** an actual local Bimba which guides downstream judgments and can itself be revised through its wider source relation.
