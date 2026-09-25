@@ -14,8 +14,6 @@ source_relation: "Argued historical synthesis; Paraphrased source-specific mathe
 [Argument field](README.md) · [Other face: A10′ — The Uncounted Enters the Account](../conjugate/A10-prime-Uncounted-Enters-the-Account.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument; historical Argument 08 remains provenance. Historical synthesis is Argued; mathematical operations retain their stated systems; QL's later office is native authorial derivation.
-
 ## #0
 
 Zero becomes an operative mathematical sign through changes in what an inscription permits. An absent place matters because neighbouring marks acquire their value from position. A positional blank can preserve that absence through context; an internal separator makes it visible without yet functioning as a terminal digit or an arithmetic operand. The first achieved distinction is a place for which no quantity has been entered.
@@ -88,12 +86,8 @@ A11 receives the authorial `0 = One` office through its own derivation; A15 foll
 
 **Etymology whole field:** *Encounter / Region / Name / Count / Countenance / Account*. **Consumed operation:** **Count/Account** — zero enters the count as a nameable position and thereby changes the account's possibilities. **Evidence register:** 2 where historical semantic offices of zero/*śūnya* are attested; 3 when the mathematical frame-disclosure is compared with the essay's formal-limit operation. **What changes:** “nothing” becomes a discriminable operative place rather than an unmarked absence. **Return route:** A10 → A15 → A11/C49 → A36.
 
-**Movement consumers:** the zero-advent and zero-role-changing movements, especially the current carrier's routes into the early formal-limit braid and Movements 24–25 where zero changes role; T09 records but does not rewrite them.
-
 **Matheme:** mathematical zero precedes QL meta-sign use; **Mytheme:** void/absence images remain supportive only; **Episteme:** Kaplan, Colebrooke, Dutta, the Abhinavagupta chronology and the histories named in `20-advent-zero-subject-integral-logic.md`.
 
 ### Provenance and remaining depth
 
 The [Taylor source house](../sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md) identifies the internal historical synthesis; its external claims remain controlled by the relevant source houses. Direct developmental recovery includes Q27's double-advent contribution and the [historical zero carrier](../../../section-rooms/arguments/20-advent-zero-subject-integral-logic.md). Kaplan is citation-ready but no Kaplan wording is quotation-ready. Colebrooke's three selected primary passages are ready within the 1817 English translation; critical Sanskrit collation remains distinct. Dutta is citation-ready with no excerpt card. The Abhinavagupta c.975–1025 chronology and the Bījagaṇita 1150 date now have separate public source records; neither licenses a transmission claim. The set-theoretic successor formula and precise historical naming of mediant/NOR constructions retain their independent formal-source debts.
-
-P1 consumers: M06, M13–17 and M28. Detailed chronology, contested transmission and priority, legal reception claims, selected Kaplan quotation and primary logic attribution remain Open. **Depth Restoration: enriched; historical and quotation debts retained.**
