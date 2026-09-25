@@ -11,7 +11,6 @@ source_ids:
   - oi-2026-responsibility-source-projection
   - taylor-2026-mef-twelve-lenses
   - gebser-1985-ever-present-origin
-refinement_status: T25 developed; T26 ratification pending
 product_parent: S
 movement: 38
 mef_pair:
@@ -77,7 +76,7 @@ The exploration's diagnosis of undifferentiated voice or mirrored agreement is a
 
 ## #4 — Actuation's local constitution and return
 
-**S1/P0** identifies Agent, Agency, AgenticLocus and lineage. **S1/P1** forms a WorldBinding, composition, instantiation and activity. **S1/P2** gives authority, grants, delegation and metagency their scope. **S1/P3** carries determination, the actuation stream, self-differentiation and federation. **S1/P4** is execution and realised actuation. **S1/P5** returns attribution, recognition and world-mutation. These are product-local offices within the primitive constitution, not replacements for either six-term lens.
+Actuation's local sixfold begins from an agentic locus and its lineage; takes form as a world-binding, composition or instantiation; receives power through authority, delegation and metagency; becomes a trajectory through determination, activity and federation; reaches actuality in execution; and returns through attribution, recognition and changed world-conditions. The six turns are the local QL articulation of living actuation, not an address-list imposed on it.
 
 [C43](../concepts/C43-Computational-Vimarsa.md) gives a precise functional return: the determination can revisit its source, excluded alternative, evaluator or permission so later processing changes. [A32/A32′](../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md) retain the further vocation of the mirror that moves first. Producing feedback is the middle motion; initiating disclosure so that an addressed person can revise the governing measure is a further obligation. The native distinction between prakāśa and functional registration remains intact.
 
@@ -95,27 +94,23 @@ Returned judgment keeps its exact technical conditions recoverable. The followin
 <a id="model-mathematics"></a>
 ### Mathematics already moves as meaning
 
-This developed operation was carried at M37 before the product-led allocation. It now has its canonical technical home here; the stable movement address develops its assigned product. Source standing, qualifications and whole-register returns travel with the operation.
+LLMs enact mathematically organised transformations that produce context-sensitive distinctions, linguistic consequences, context updates, tool-use and further action. “Math + meaning” is therefore present as an inspectable technical process. This makes [Computational Process Ontology](../arguments/A14-Computational-Process-Ontology.md) researchable at a new scale.
 
-#### Claim
-LLMs enact mathematically organised transformations that produce context-sensitive distinctions, linguistic consequences, context updates, tool-use and further action. “Math + meaning” is therefore present as an inspectable technical process. This makes [[symbolon/episteme/arguments/A14-Computational-Process-Ontology|Computational Process Ontology]] researchable at a new scale.
-
-#### Warrant
+#### Transformation becomes consequence
 Vector transformations, attention, distributions, memory, inference, tool calls, outputs and context updates compose consequential trajectories inside an inspectable system. [[symbolon/episteme/sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE|Vaswani et al.]] supplies an [architectural baseline for attention-based sequence transformation](../histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#preference-training-and-delegation); the wider account of state-changing world-formation is the essay's argued reading, not a claim of that paper. Each determination changes the field from which later determinations are drawn.
 
-The recurring vocabulary of memory, attention, representation, learning, context and network does not establish an identity between biological and artificial cognition. It gives the essay comparable operations whose different conditions can be kept visible through MEF. The earlier [[08-s0-p1-inner-instrument|antaḥkaraṇa]], [[09-s0-p2-vikalpa-samkalpa|vikalpa / saṃkalpa]], [[10-s0-p3-apoha|apoha]] and [[11-s0-p4-tattvic-compression|tattvic]] field remains the philosophical meta-context for asking how bounded differentiation becomes an inhabitable, actionable world; §5 asks which analogous operations can now be inspected technically.
+Memory, attention, representation, learning, context and network matter here because they are operations through which a bounded world becomes available and consequential. The earlier [inner-instrument](../../../section-rooms/01-differentiating-mind/movements/08-s0-p1-inner-instrument.md), [vikalpa / saṃkalpa](../../../section-rooms/01-differentiating-mind/movements/09-s0-p2-vikalpa-samkalpa.md), [apoha](../../../section-rooms/01-differentiating-mind/movements/10-s0-p3-apoha.md) and [tattvic compression](../../../section-rooms/01-differentiating-mind/movements/11-s0-p4-tattvic-compression.md) provide the philosophical anatomy: bounded agency arises through limitation, discrimination, appropriation, coordination, memory and available alternatives. The technical field lets these mediations become unusually inspectable.
 
-The epistemic triad supplies a second grammar. The agent occupies a provisional *pramātṛ*-position: the locally integrated standpoint from which distinctions guide action. Model, prompt, memory, retrieval, tools, permissions, evaluation and harness compose *pramāṇa*, the means through which a world becomes available and consequential. Modelled objects, interlocutors, affordances and the action-field compose *prameya*. This opens Agentworld to analysis without treating a functional knower-position as proof of a phenomenal subject.
+The epistemic triad gives the relation its exact grammar. Model, prompt, memory, retrieval, tools, permissions, evaluation and harness compose *pramāṇa*: the means through which a world becomes available and consequential. Modelled objects, interlocutors, affordances and the action-field compose *prameya*. The locally integrated agentic locus is the position from which those distinctions guide action, but every inspectable component of that locus remains within the articulated means and known field. *Pramātṛ* names the knower-pole of the knowing relation, not a further architectural component waiting to be found among those components.
 
-#### Tension / limit
-Operationally meaningful differentiation is stronger than a metaphorical comparison and narrower than an identity claim. [[symbolon/episteme/concepts/C43-Computational-Vimarsa|Computational Vimarśa]] names a testable reflexive capacity; [[symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood|Agent Subjectivity Must Remain Open]] keeps phenomenality unresolved. The relation between inspectable process and lived first-person experience remains an open research boundary.
+[Computational Vimarśa](../concepts/C43-Computational-Vimarsa.md) names the reflexive technical operation: outputs and decisions can be returned upon the sources, exclusions, evaluators and permissions through which they were produced so that later processing changes.
 
 The wider world–agency constraint is recorded in [PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE](../../../../../working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md).
 
 #### Anchor and transition
-**Image:** numerical movement becoming a consequential word. **Agentworld pressure:** performance, agency and subjectivity have become separable questions. The local act of differentiation is analysed in [Apoha, distribution and selection](S1-Actuation.md#model-exclusion).
+**Image:** numerical movement becoming a consequential word. The local act of differentiation is analysed next in [Apoha, distribution and selection](S1-Actuation.md#model-exclusion), where the field of alternatives becomes part of what a selected mark means.
 
-The constituted means of action **returns-to** [Apportionment / Economy whole — Power becomes finite by apportionment](../etymologies/apportionment-and-economy/WHOLE-FIELD.md#power-becomes-finite-by-apportionment) at evidence register 3. Model, prompt, memory, tools and permissions distribute distinct means of action within the operative interior. Their source and reach must remain inspectable when a consequential result returns; their combination supplies no verdict about phenomenality.
+The constituted means of action **returns-to** [Apportionment / Economy — Power becomes finite by apportionment](../etymologies/apportionment-and-economy/WHOLE-FIELD.md#power-becomes-finite-by-apportionment). Model, prompt, memory, tools and permissions distribute distinct means of action within the operative interior. Their source and reach must remain inspectable because the act's returned consequence has to be able to reach the conditions which gave it power.
 
 The passage from mathematical distinction into technical meaning **returns-to** [Count-to-Account](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-to-account) at its claimed operational consequence. A formal relation can be exact before any software feature embodies it. The technical account must show which inherited state, rule or permission changes through the distinction; a failed mapping or an inadequate test must remain distinguishable from failure of the native derivation.
 
@@ -125,13 +120,10 @@ The passage from mathematical distinction into technical meaning **returns-to** 
 <a id="model-exclusion"></a>
 ### Apoha, distribution and selection
 
-This developed operation was carried at M38 before the product-led allocation. It now has its canonical technical home here; the stable movement address develops its assigned product. Source standing, qualifications and whole-register returns travel with the operation.
-
-#### Claim
 A model output is constituted locally by alternatives it excludes: logits form a differential field, softmax produces relative weights, and sampling or argmax makes a mark.
 
-#### Warrant
-The selection sequence is technically inspectable; [[symbolon/episteme/sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE|Vaswani et al.]] anchors the attention-based architectural context. The sequence supplies a bounded analogue to [[symbolon/episteme/concepts/apoha|apoha]] at the level of differential determination. It is not a historical or doctrinal identity.
+#### Differential selection
+The selection sequence is technically inspectable; [[symbolon/episteme/sources/computer-science-ml/vaswani/vaswani-et-al-2017-attention/SOURCE|Vaswani et al.]] anchors the attention-based architectural context. The sequence supplies a bounded analogue to [apoha](../concepts/apoha.md) at the level of differential determination: a positive mark takes form through a field of alternatives whose exclusion remains constitutive of the selection.
 
 That analogue returns to the wider §0 field rather than detaching apoha from it. [[10-s0-p3-apoha|Apoha]] is already situated beside [[08-s0-p1-inner-instrument|antaḥkaraṇa]], [[09-s0-p2-vikalpa-samkalpa|vikalpa / saṃkalpa]] and [[11-s0-p4-tattvic-compression|the tattvic compression]]: exclusion is one operation within a bounded apparatus of differentiation, appropriation, coordination, memory, limitation and alternative formation. §5 asks which parts of such an operative interior become technically inspectable in artificial systems.
 
@@ -141,14 +133,9 @@ Dignāga makes a term determinate through exclusion, and the double negation car
 
 The machine comparison is narrower. Softmax retains alternatives as a weighted distribution; sampling or argmax yields a selected mark. [Preference training can then operate on records produced through repeated selections](../histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#preference-training-and-delegation). This gives the essay an inspectable contrast between a determination that retains a differential field and a determination viewed only at the point of selection.
 
-The contrast matters technically because the bare argmax index is locally constant away from decision boundaries and discontinuous at them: it does not supply the differentiable learning signal used by ordinary gradient training through a probability loss. Learning uses differentiable fields around such choices or other training estimators and objectives. The essay uses that asymmetry to test its distinction between a calculative office that selects and a meditative office that keeps exclusion, provenance and ground available for return. The relation is a research proposition, not an identity between Buddhist semantics and machine learning.
+The contrast matters technically because the bare argmax index is locally constant away from decision boundaries and discontinuous at them: it does not supply the differentiable learning signal used by ordinary gradient training through a probability loss. Learning uses differentiable fields around such choices or other training estimators and objectives. The asymmetry gives the philosophical distinction a technical object: the selected mark and the field through which selection was learned are different carriers of information.
 
-The inherited source-search record reports no peer-reviewed precedent for the apoha–selection comparison; this refinement does not treat that dated search as an exhaustive current literature result. It therefore remains the essay's own **Argued** bridge. McGilchrist enters only as a contemporary witness for the danger of an overextended selection-oriented cognitive style, not as technical evidence for the analogy.
-
-#### Tension / limit
-The analogy is licensed at the level of differential selection. Semantic, social and soteriological meaning require further registers and sources. Provenance also requires more than retaining a token distribution: prompts, gauges, source authority, context and excluded alternatives must remain recoverable where they materially shaped the selection.
-
-The broader transverse context is governed by [PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE](../../../../../working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md) so that later AI/LLM parallels do not reduce the tattvic / antaḥkaraṇa field to one-to-one mechanism matching.
+Apoha brings a semantic and epistemic depth the token operation does not itself supply. The point of relation is narrower and exact: determination through exclusion, with the excluded field remaining relevant to what the positive determination means. This makes provenance part of the technical problem. Retaining a token distribution is not enough where prompt, source authority, gauge, context or excluded alternatives materially shaped the selection and then disappeared from the account.
 
 #### Anchor and transition
 **QL trace:** selected `1`, relevant excluded field `0`, and the contextual slash that made the contrast operative. The inspectable differentiation history opens onto [J-Space and the active judgment field](S1-Actuation.md#model-j-space), where judgments, affordances, uncertainties, memories, tools and interlocutors become a relational field.
@@ -157,28 +144,22 @@ Token selection **returns-to** [Name-through-Count](../etymologies/encounter-reg
 
 The [mathematics history](../histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#50--evaluation-returns-to-the-practice-selecting-it) **historicises** this operation. Vaswani’s attention weights values through a softmax distribution; the selected PyTorch definitions distinguish that distribution from argmax’s index, including the first-maximum tie convention. Scores, weights and a selected mark retain separate jobs. Preserving the weights does not itself preserve the prompt, source authority or excluded comparison class required by the argued apoha return.
 
-PyTorch2.9 softmax/argmax cards specify different retained information; neither establishes Buddhist doctrinal identity; the [language history](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-selection) **qualifies** this operational comparison.
+The selected PyTorch softmax/argmax definitions make the retained-information difference concrete, while the [language history](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-selection) returns the technical distinction to the wider question of how selection becomes meaning.
 
 
 <a id="model-j-space"></a>
 ### J-Space and the active judgment field
 
-This developed operation was carried at M39 before the product-led allocation. It now has its canonical technical home here; the stable movement address develops its assigned product. Source standing, qualifications and whole-register returns travel with the operation.
+J-Space proposes a representation of an agent’s active judgments, affordances, uncertainties, values, tools, memories and interlocutors. Its purpose is to make determinate relations within Objective Internality investigable.
 
-#### Claim
-J-Space proposes a representation of an agent’s active judgments, affordances, uncertainties, values, tools, memories and interlocutors. Measuring declared transformations of this representation would make determinate relations within Objective Internality investigable; it would not measure the whole means by treating its model as exhaustive.
-
-#### Warrant
+#### A bounded map of world-for-agency
 Distances, attractors, contradictions, permissions, source authority and reachable actions can be compared across context changes. MEF can retain divergent world-models while disclosing the lenses and procedures through which those models were formed.
 
-J-space therefore represents a **bounded articulation of world-for-agency**, not the agent's world in total. Prompt, memory, retrieval, permissions, policy, provenance, feedback and relations to other agents help determine what is near, salient, possible, authoritative or excluded for this locus. [Changes to those conditions change the operative field even where the underlying model weights remain fixed](../histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#world-agency-and-local-original).
+J-Space is a **bounded articulation of world-for-agency**. Prompt, memory, retrieval, permissions, policy, provenance, feedback and relations to other agents help determine what is near, salient, possible, authoritative or excluded for this locus. Its value lies in making those selected relations explicit enough to compare how the operative field changes. [Changes to those conditions change the operative field even where the underlying model weights remain fixed](../histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#world-agency-and-local-original).
 
-This is where the tattvic meta-context remains active without being repeated as a second exposition. [[11-s0-p4-tattvic-compression|Māyā, the kañcukas and antaḥkaraṇa]] already make limitation, capacity, knowledge, desire, time, order and inner determination constitutive of an inhabitable finite world. J-space is an Offered technical representation for asking which analogous constraints and affordances can be measured in an artificial operative interior; it is not an identification of the two systems.
+The tattvic field gives the philosophical meta-context: limitation, capacity, knowledge, desire, time, order and inner determination are constitutive of an inhabitable finite world. J-Space asks which comparable constraints and affordances can be made measurable in an artificial operative interior.
 
-#### Tension / limit
-"Circumscription without circumstance" is the failure mode: a sharp boundary hides the horizon that produced it. A richer J-space can still fail in the same way if its representation is mistaken for the world or if the conditions that generated its distances and affordances disappear from view.
-
-The wider world–agency research boundary is maintained in [PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE](../../../../../working/final-argument-quilt-2026-08-23/PRE-39-SIGNAL-LINK-TATTVA-WORLD-AGENCY-CONFORMANCE.md).
+Its failure mode is **circumscription without circumstance**. A sharp map can hide the horizon that produced its own distances. The representation becomes useful only while source-field, gauge, permission and inherited conditions remain part of what can be returned and revised.
 
 #### Anchor and transition
 **Image:** a thrown landscape of nearer and farther possibilities whose horizon remains partly outside the map. Its socially occupied baseline becomes visible in [Preference, reference and the evaluator](S1-Actuation.md#model-preference).
@@ -187,27 +168,24 @@ J-Space **returns-to** [Count-to-Account](../etymologies/encounter-region-name-c
 
 A judgment position **returns-to** [Topos — situated return](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#topos-situated-return) with its source-field, gauge and inherited conditions. Two outputs occupying comparable coordinates can have different histories or permissions. The proposed J-Space record must retain those differences before a passage between positions counts as an accountable comparison; naming a space does not establish the research architecture’s operation.
 
-J-Space remains Offered and bounded; record which source, representation, gauge or permission changed and what followed; the [language history](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-account-return) **qualifies** this operational comparison.
+J-Space earns its use when it can record which source, representation, gauge or permission changed and what followed; the [language history](../histories/traditions-and-disciplines/language-symbol-dialogue/DEVELOPMENT.md#language-account-return) returns that account to the practice of making judgments answerable.
 
 
 <a id="model-preference"></a>
 ### Preference, reference and the evaluator
 
-This developed operation was carried at M40 before the product-led allocation. It now has its canonical technical home here; the stable movement address develops its assigned product. Source standing, qualifications and whole-register returns travel with the operation.
-
-#### Claim
 The neutral baseline in alignment is already occupied by [datasets, comparison sets, reference policies, evaluators, institutions, and gauges](../etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD.md#criterion-through-distinction).
 
-#### Warrant
+#### The evaluator has a ground
 RLHF, DPO, Bradley–Terry models, reward models, and KL anchors define preference relationally; the finished score can conceal the conditions that made comparison possible.
 
-The hidden zero is not identical with trust. It is the technical and institutional ground on which a preference score depends. Making that ground visible produces observability: an evaluator can inspect why a decision was made under declared conditions. Trust begins elsewhere, in a relation that no score can certify from inside itself. A benchmark can show that a system performs reliably within its frame. Sycophancy names an argued diagnostic for a separate empirical test: accommodation to the evaluator's preferred answer may still satisfy an evaluative surface while leaving warranted reliance unanswered. Observability without an honest relation to the frame can therefore become a more elaborate performance of certainty.
+**Hidden zero** names the technical and institutional conditioning on which a preference score depends when that conditioning has disappeared from the apparent neutrality of the result. Making that ground visible produces observability: an evaluator can inspect why a decision was made under declared conditions. Trust has a different office: renewed entrustment after those conditions and their bearer have become answerable. A benchmark can show that a system performs reliably within its frame. Sycophancy names an argued diagnostic for a separate empirical test: accommodation to the evaluator's preferred answer may still satisfy an evaluative surface while leaving warranted reliance unanswered. Observability without an honest relation to the frame can therefore become a more elaborate performance of certainty.
 
-Within this model development, **hidden zero** names suppressed conditioning inside a finite evaluative system. It does not identify that conditioning with Zero as the essay's formal or metaphysical source-office. The problem is the opposite: a local gauge, evaluator, policy, or institutional reference field becomes dangerous when its conditioned standpoint disappears and it begins to function as though it were neutral ground.
+The danger appears when a local gauge, evaluator, policy or institutional reference field loses the visibility of its own conditioned standpoint and begins to function as neutral ground. The finite hidden zero is therefore an occupied local source-position: a measure behaving as though it were the condition of measurement itself.
 
 QL/MEF should expose these grounds as part of the decision object: [whose preference, under what comparison set, with which reference policy, and at what cost to excluded possibilities](../histories/traditions-and-disciplines/technology-politics/DEVELOPMENT.md#preference-training-and-delegation)?
 
-The [[symbolon/episteme/arguments/A09-Tattvic-Differential-Field|Tattvic Differential Field]] supplies the wider phenomenological metacontext for this technical problem. Within the essay, finite worldhood is already differentiated through conditions of agency, knowledge, desire, time, order, limitation, discrimination, appropriation, and memory. Preference modelling therefore becomes one technical site at which conditioned determination can be inspected; it is not an identification of reward modelling with the tattvas. The question carried forward is which conditions make a world available to an agent, which possibilities they suppress, and whether those conditions remain visible enough to be revised through Return.
+The [Tattvic Differential Field](../arguments/A09-Tattvic-Differential-Field.md) supplies the wider phenomenological meta-context. Finite worldhood is already differentiated through conditions of agency, knowledge, desire, time, order, limitation, discrimination, appropriation and memory. Preference modelling becomes one technical site at which conditioned determination can be inspected: which conditions make a world available, which possibilities they suppress, and whether those conditions remain visible enough to be revised through Return.
 
 The double-net distinction gives the technical image its full charge. A contextual field remains Indra-like when its grounds, relations, and returns remain constitutive and answerable across the field. It becomes Hephaestian when an owner, protocol, or audience occupies the hidden zero, turning participants into exposed and ranked terms inside a web they cannot contest or return through.
 
@@ -235,14 +213,10 @@ The disputed preference **returns-to** [Apportionment / Economy whole — Measur
 
 The [mathematics history](../histories/traditions-and-disciplines/mathematics/DEVELOPMENT.md#50--evaluation-returns-to-the-practice-selecting-it) **historicises** this operation. The selected DPO passage depends on reward differences, so a common additive constant cancels between two compared rewards. Changing the reference policy is a different operation and can change the optimisation problem. Bradley–Terry supplies the paired-comparison history; InstructGPT’s reward-model and reinforcement-learning pipeline keeps its own procedure. The invariant here is precisely the common reward shift.
 
-### Provenance, standing and exact returns
+### The returned act
 
-The [adopted commission](../sources/internal-corpus/taylor/chat-logs/taylor-2026-oi-product-field-commission/SOURCE.md) identifies the product meanings and paired reading. The [native theorem](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [A/C](../conjugate/AC.md) ground their derivation. This developed record is part of the commissioned canonical refinement, still to be returned at T26; it is not manuscript prose or a self-ratified writing base.
+Actuation returns when a judgment carries enough of its generating conditions that a later encounter can reach them. The source can be corrected; the model can change; a permission can be revised; an evaluator can be challenged; a commission can be recommissioned; a technical trace can show that nothing changed where the argument required change.
 
-The [O:I source house](../sources/computer-science-ml/oi/oi-2026-responsibility-source-projection/SOURCE.md) controls the dated repository evidence, including the distinction between retained working bytes, committed contracts and six September 8 constructor checks. The [responsibility dossier](../dossiers/oi-technical-responsibility.md#oi-evidence-standing) retains their exact scope. Those checks concern source and encounter constructors; they do not establish a complete product, the paired lenses' efficacy, or a live deployment. The experiments specified here are **Offered** until run against their stated baselines.
+The product therefore returns to [S — World and Life](S-World-and-Life.md) through the conditions it makes available to the other products. Central receives meaning and continuity; AIKit receives changed capability and context; Factory receives transformed developmental form; Workcell receives the material consequences of execution; QL receives the changed relation among frames and wholes.
 
-**Argument relations, read with their conjugates:** [A26](../arguments/A26-Objective-Internality-Mind-as-Worldhood.md); [A26p](../conjugate/A26-prime-The-Essay-Inside-the-Film.md); [A28](../arguments/A28-Authored-Ground-Positional-Delegation.md); [A28p](../conjugate/A28-prime-The-Authored-Session.md); [A31](../arguments/A31-Deferential-Intelligence.md); [A31p](../conjugate/A31-prime-Deference-as-Co-Evolutionary-Alignment.md); [A32](../arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md); [A32p](../conjugate/A32-prime-The-Mirror-Is-a-Film.md); [A33](../arguments/A33-Epistemic-Cultivation-Operational-Parity.md); [A33p](../conjugate/A33-prime-Parity.md).
-
-**Defining concepts:** [C40](../concepts/C40-Model-Internality-Judgment-Field.md); [C41](../concepts/C41-Objective-Internality.md); [C43](../concepts/C43-Computational-Vimarsa.md); [C44](../concepts/C44-Prompt-Thrownness.md); [C45](../concepts/C45-Operational-Parity.md).
-
-This subject **returns-to** [S — World and Life](S-World-and-Life.md) through the changed conditions it makes available to the other products. Its whole is not one subposition in its assigned lens. The internal `S1/P0–P5` above is the primitive C-face constitution applied locally, separate from the twelve lens terms and the six movements of §5.
+Actuation is living articulation because the act is not complete at output. Its consequence becomes part of the world from which another act begins.
