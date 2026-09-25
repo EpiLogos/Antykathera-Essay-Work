@@ -17,7 +17,7 @@ This folder is the written field. Three things sit here.
 
 **The symbolon** holds the figures the work turns on, the formal work, the images, and the sources.
 
-**The manuscript** is the continuous reading. Frank is writing it by hand over time. What you can read linearly is the current body. It is not finished. The continuous manuscript awaits composition; what is developed now is the field it will be composed from.
+**The manuscript** is the continuous reading. Frank is writing it by hand over time. What you can read linearly is the current body. It is not finished.
 
 The field around the manuscript is largely generated. It demonstrates method and intent. It will be refined. It is not a finished doctrine, and it should not speak in slogans.
 
