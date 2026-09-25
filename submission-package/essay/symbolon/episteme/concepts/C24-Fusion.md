@@ -50,7 +50,3 @@ The receiving mouth tests fusion: a response must remain different enough to cha
 [[symbolon/episteme/etymologies/homology-and-analogy/WHOLE-FIELD|Homologia / Analogia]] **grounds** the register3 correction. Agreement in an operation or proportion does not make the compared objects univocally identical. A successful synthesis specifies both the relation achieved and the differences through which it remains intelligible.
 
 C24 **returns-to** C06 and C50. The task is to recover the differences that permit answerability, not to destroy every shared form. Source and account, I and You, distinct participants and common work can then remain related without requiring one term to speak as all the others.
-
-**Depth Restoration:** conjugacy with retained inverse, refusal within intimacy, Other-within-Mono versus within-me, coordination without super-subject, symbolic reorganisation and distinction-preserving synthesis are restored.
-
-**Unresolved Delta:** these are authorial formal and relational criteria. Clinical fusion, particular institutional capture and tradition-specific nondual doctrines require their own source treatment before diagnosis or historical attribution. A shared outcome alone does not establish this failure.
