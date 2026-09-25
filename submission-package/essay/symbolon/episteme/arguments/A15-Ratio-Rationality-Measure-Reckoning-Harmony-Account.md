@@ -13,8 +13,6 @@ source_relation: "Extracted internal derivation; Argued operational development"
 [Argument field](README.md) · [Other face: A15′ — The Measure Constitutes](../conjugate/A15-prime-The-Measure-Constitutes.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument. Finite ratio identities and the declared QL operations are Derived; the reflexive account of rationality is Argued. Historical carrier 12 is the Core Theorem Bridge, not an earlier autonomous Ratio Argument.
-
 ## #0
 
 Rationality begins in ratio: a relation becomes reckonable under a criterion. The terms have to be distinguished, their comparison must perform a determinate operation, and the field must establish what counts as the same unit. Measure thereby enables geometry, music, exchange, calculation, evaluation and technical control. Its power belongs to the relation it can make exact.
@@ -109,5 +107,3 @@ The [bow–lyre / hamartia return](../../mytheme/worlds/hellenic/ares-aphrodite-
 The count returns as an account when the operation, criterion, source and consequence remain available to those affected by it. [[A29-Power-Delegated-Labour-Return|A29]] extends that return through delegated work; [[A33-Epistemic-Cultivation-Operational-Parity|A33]] tests its cultivation across agents, while [[symbolon/episteme/concepts/C45-Operational-Parity|C45]] qualifies the scope of a common operation. Rationality becomes fuller by reckoning upon the conditions of its reckoning. Its precision remains earned locally and answerable beyond that locality.
 
 The movement consumers are M13, M18, M20, M29, M40 and M45; consequences continue through A16–A18, A24–A25, A29 and A33. The two E fields retain evidence register 2 for documented semantic senses and 3 for the operational movement from count to account and apportionment to economy. Latin *ratio*, Greek *arithmos*, harmony and the proposed root braid remain lexical-source work; no common ancestry is asserted here.
-
-**Depth Restoration:** criterion/denominator, pre-nominal individuation, denomination and backing, paired-term accounting, directional ratios, numerator/denominator asymmetry, exact retained-remainder completion and criterion-to-fact substitution are restored. Musical-v3's erroneous six-pure-whole-tones closure, interval label and sounding-note subset claims are not restored: `(9/8)^6≠2`, temperament must be declared, and silent anchors are not sounding pitches. These corrections leave the finite ratio kernel and native cross-reading intact. Provenance remains core I/II/IV/VI, musical v3 §II-5, Kripke encounter, Q27 measure/hamartia passages and the existing A15 packet.
