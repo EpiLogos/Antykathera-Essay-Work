@@ -127,3 +127,97 @@ Historical Argument 17; Q27 developmental recovery; live `13-tattvic-differentia
 ### displaced block 4
 
 **Depth Restoration:** circumstantial formation, trace/retrieval/imagination, generated-result source substitution, and the rule/script distinction restored. Source houses and Kripke's protected notes were read; Dyczkowski's preserved note was read without stash application. The current core and existing packet govern the native relation. **Open:** primary Śaiva term-specific collation, exact independent historical Argument17 carrier, and actual technical traces testing changed behaviour. Dreamcode/Dream-machine remain authorial candidate names in the quilt, with no new identity created. P1 declares Movement09.
+
+## submission-package/essay/symbolon/episteme/arguments/A08-Apoha-Constitutive-Exclusion.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument; historical Argument 18 remains provenance.
+
+### displaced block 2
+
+**Movement consumers:** the definition/difference, tattvic and technical-evaluation movements routed by the canonical map; exact lists remain depth debt rather than invented here.
+
+### displaced block 3
+
+### Provenance
+
+Historical Argument 18; Q27; live `13-tattvic-differential-field.md` and `14-computational-process-ontology.md`, both of which explicitly locate apoha as constitutive exclusion inside the differential/runtime account. The existing Concept carrier for apoha will be dispositioned in the Concept pass.
+
+### displaced block 4
+
+**Depth Restoration:** nominal/verbal negation, qualified preclusion, positive-reference pressure and the rigidity/svalakṣaṇa distinction restored from the existing packet, direct source houses, Kripke's protected encounter and reopened Q27/copula carriers. Pind is locally available with verified passages; the collection's older acquisition instruction does not make it missing. **Open:** printed-volume collation and chapter-specific reconstructions; direct primary recovery for the svalakṣaṇa comparison; the live relation between momentary particularity and trans-circumstantial tracking. P1 consumers: Movements03,10,19,38. No source or protected note was modified.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A09-Tattvic-Differential-Field.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument. Native sixfold contraction is Argued from the theorem field; the tattvic doctrine retains its own source register; the gnomonic cross-reading is Offered/Argued.
+
+### displaced block 2
+
+**Movement consumers:** the tattvic descent/recognition and later technical worldhood movements in the canonical quilt; the live carrier is itself a developed cross-Movement support surface. M37–M42 now receive its finite-world consequence through the product records rather than by one-to-one mechanism matching.
+
+### displaced block 3
+
+P1 consumers: M08 Inner Instrument, M09 Vikalpa–Saṃkalpa, M11 Tattvic Compression, with product-field return into M37–M42. Exact category-by-category doctrinal sequencing, selected-book collation and the wider Neumann mythic seam remain Open. **Depth Restoration: enriched; finite-paradigm/product return restored; source and mapping debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/arguments/A10-Advent-of-Zero.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument; historical Argument 08 remains provenance. Historical synthesis is Argued; mathematical operations retain their stated systems; QL's later office is native authorial derivation.
+
+### displaced block 2
+
+**Movement consumers:** the zero-advent and zero-role-changing movements, especially the current carrier's routes into the early formal-limit braid and Movements 24–25 where zero changes role; T09 records but does not rewrite them.
+
+### displaced block 3
+
+P1 consumers: M06, M13–17 and M28. Detailed chronology, contested transmission and priority, legal reception claims, selected Kaplan quotation and primary logic attribution remain Open. **Depth Restoration: enriched; historical and quotation debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/arguments/A11-The-Two-Ones-0-One-1-All.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument; historical Argument 13 and live `19-two-ones-mono-poly-matheme.md` remain provenance.
+
+### displaced block 2
+
+**Movement consumers:** the live carrier explicitly routes through the zero-role and eight-determination sequence (Movements 24–25) and supports the larger theorem braid.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A12-Mono-Poly-One-All-Whole-Many.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument; historical Argument 04 remains provenance, with Alpha/Delta matheme residue preserved rather than silently absorbed.
+
+### displaced block 2
+
+**Movement consumers:** the live `11-mono-poly-whole-and-many.md` braids the relation through §0, §2, §4, §5 and §5→0; exact Movement numbers are inherited by the quilt map and restored later without propagation here.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A13-Two-Logics-of-Two-Dia-Syn.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument. The native operation is Derived; its political, psychic and technical developments are Argued. The direct historical carrier is `03-two-logics-and-sym-ballein.md`; the earlier page's “historical Argument 05” designation is a provenance discrepancy, not this page's identity.
+
+### displaced block 2
+
+**Depth Restoration:** restored here: polar/cancelled/appropriated operations; native superposition and its formal neighbours; the attractor-space of *pros hen* analogia; the sourced mass-formation reading and the seam diagnostic (carried 2026-09-08 from historical carrier 03, which is now provenance); AND/OR obverse and literal two-plus-four count; hidden combining office; two-monoculture recurrence; problem/predicament distinction; whole mythic counter-operation; independent temporal axis and the noncoincidence operation with its exact-wording debt. Provenance: direct historical carrier 03, core IV/XI, trust-revision §7.3, *Symbolon Dynamics*, and Q27 §§5–6/10 as located by the existing A13 recovery packet. Historical/clinical evidence and lexical debts remain separate from the native derivation.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A14-Computational-Process-Ontology.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument. The QL process grammar is Derived; philosophical coordination and technical application are Argued. The direct historical carrier is `14-computational-process-ontology.md`; the earlier “historical Argument 06” designation remains a named provenance discrepancy.
+
+### displaced block 2
+
+**Depth Restoration:** restored here: inheritance–concrescence–satisfaction–perishing; useful cut versus fragmentation; six concrete process tests; image/interpreter reciprocal transformation; consequential world-continuity; differentiated architecture offices; recursive local reference and wider objective internality; two-way interface learning; metered-closure research pressure. Provenance: direct historical carrier 14, core XI, *Symbolon Dynamics*, the existing A14 recovery packet's Q27 world/optic passages and later ecology qualification. Exact process-philosophy passages, empirical implementation performance and the token-economy inquiry remain Open; no source quotation readiness is promoted.
