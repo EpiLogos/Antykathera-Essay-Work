@@ -15,8 +15,6 @@ source_relation: "Argued from native Two-Ones and Mono-Poly development; source-
 [Argument field](README.md) · [Other face: A12′ — Against Monoculture](../conjugate/A12-prime-Against-Monoculture.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument; historical Argument 04 remains provenance, with Alpha/Delta matheme residue preserved rather than silently absorbed.
-
 ## #0
 
 Mono/Poly is the ontological consequence of the Two Ones: Self-Identity becomes Self-Difference, one relational whole differentiating through many real expressions. The whole is structurally prior because no part creates all the relations and conditions through which it becomes this part. This priority names dependence, not an earlier giant being that distributes fragments of itself, and not a total constructed by adding independently grounded atoms after the fact.
@@ -69,8 +67,6 @@ The same return limits what apparatus can achieve. Observability can expose or v
 **Consequences:** A13–A18, A27–A30, A34–A35.
 
 **Etymology whole field:** *Homologia / Analogia*. **Consumed operation:** many genuine terms can be proportionally related to one focal structure without becoming synonymous. **Evidence register:** 2 for attested agreement/proportion senses; 3 for the essay's cross-register use. **What changes:** unity becomes focal and relational rather than univocal; plurality can remain real without becoming atomised. **Return route:** A12 → C49/C50 → A29/C54 → A35 → A12.
-
-**Movement consumers:** the live `11-mono-poly-whole-and-many.md` braids the relation through §0, §2, §4, §5 and §5→0; exact Movement numbers are inherited by the quilt map and restored later without propagation here.
 
 **Matheme:** Two Ones and `4+2` consequences; **Mytheme:** whole/part, commons/monopoly and gathered plurality; **Episteme:** metaphysical monism/pluralism, political economy and institutional commons kept register-distinct.
 
