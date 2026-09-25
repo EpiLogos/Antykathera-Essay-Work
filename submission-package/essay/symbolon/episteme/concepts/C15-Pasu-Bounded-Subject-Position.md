@@ -50,7 +50,3 @@ The primordial recognition and subsequent ego-identity have distinct offices in 
 [[symbolon/episteme/etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD|Trust / Place / Logos / Nomos / Natio / Credere]] **grounds** the register3 relation to Topos: the place of an act bears its conditions and commitments. This is an operational relation, not Sanskrit derivation. A bounded position becomes answerable through the effects of its actual capacity.
 
 C15 **returns-to** C14 and C19: the horizon remains real while its source relation becomes available. Recognition leaves a particular knower able to act without claiming to be the origin of every condition of action. Situated responsibility carries the return into the next encounter.
-
-**Depth Restoration:** contracted capacities as positive agency, universal/local I-this scope, recognition before appropriation, goal-bound activity, configured technical horizon and located responsibility are restored.
-
-**Unresolved Delta:** precise paśu/pāśa/pati lexical and doctrinal relations require dedicated passage recovery; the terms are not supplied as an interchangeable triad. Dyczkowski's local transcript is paraphrased with selected-edition collation pending. The technical analogy establishes neither machine phenomenality nor its absence.
