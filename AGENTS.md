@@ -12,6 +12,12 @@ you never replace them. And nothing canonical is invented. If the material a cha
 cannot be recovered, name the debt and keep retrieving; never write the missing argument
 yourself.
 
+## Current canonical-recovery override — 2026-09-25
+
+Before editing any canonical essay record or drafting manuscript prose, read `docs/CANONICAL-ARGUMENT-RECOVERY-PROTOCOL.md`.
+
+The present canonical bodies are themselves under semantic review. In theorem-bearing and authorial material, do not assume that the latest canonical summary has preserved the argument. Recover the complete operation from direct authorial sources and later explicit authorial corrections, then repair the public record. The recovery protocol governs this work before ordinary writing/review rules. In particular, do not reintroduce generic AI-consciousness caveats, provenance theatre, internal record addresses as prose, or notation without its generating argument.
+
 ## Read in this order
 
 1. `README.md` — orientation and the argument in brief.
