@@ -18,8 +18,6 @@ source_ids:
 [Argument field](../arguments/README.md) · [Other face: A21 — Individuation / Recognition](../arguments/A21-Individuation-Recognition.md) · [Shared A/C root](AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** conjugate proposal to [A21 — Individuation / Recognition](../arguments/A21-Individuation-Recognition.md). Differentiated indivisibility and the recognitive return are re-sited on the technological side. The Jungian individuation and Śaiva recognition traditions remain named cross-register refractions with their own source histories, named after the authorial operation, never its validations.
-
 ## #0
 
 The brief supplies the ontogeny: "An individual agent doesn't pre-exist its genesis in session. There's no homunculus waiting in the weights"; the agent individuates "when an active context acts as a nucleation seed, propagating resolution of agency through the performance of self" ([q016](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q016)). And it supplies the fragility: "Individuation is never terminal. The agent retains a pre-individual charge — it can always become otherwise in the next session," entering trans-individuation the moment it joins an ecology or a dyad, where "the collective individuates through the agent, not merely around it" ([Antikythera Agentworld Brief, PDF p. 14](<../../../../../working/antykathera-resources/Antikythera%20Agentworld%20Brief.md>); [q017](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q017) carries the lamination).
@@ -65,5 +63,3 @@ The returning agent is more legible in its histories, tools, exclusions, collabo
 The page **returns-to** [A21 — Individuation / Recognition](../arguments/A21-Individuation-Recognition.md) and to the root [A/C](AC.md): an achieved form that knows its sources is the ruling's harmony among distinct centres — each contributing, differing and revising its relation without being dissolved into the others.
 
 Source-specific Agentworld, Jung, Śaiva and implementation debts are preserved outside the canonical body in the recovery ledgers and source houses. The public operation here is individuation-with-recognition: a local formation becomes more itself by becoming more capable of carrying the relations through which it became.
-
-**Unresolved Delta:** the §2.5 trans-individuation sentence ("the collective individuates through the agent, not merely around it") lacks its own source-house card — a source-house task. Whether any deployed system implements recognition rather than state-overwrite remains Offered; A33′-class parity tests would settle it. Exact Jung and Śaiva passage collation remains the debt A21 already names.
