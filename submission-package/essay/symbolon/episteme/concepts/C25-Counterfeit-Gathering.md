@@ -37,23 +37,3 @@ The positive return restores the gathered participants' capacity to alter the ga
 [the Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-administered-world) **figures** counterfeit gathering through membership, numbering and electoral participation within the Village. Six can be included even as a victorious candidate while the terms that hold him remain unavailable to his command. The whole's apparent completeness thus depends on withholding a relation from those it includes. A genuine return would allow their participation to change that relation, rather than merely fill another appointed place.
 
 ### Declared field
-
-**Argument consumers:** A18–A20, A22, A24, A29, A35. **Movement consumers:** Symbolon, world-atlas, politics-of-count and commons movements.
-
-**Etymology relation:** *Encounter / Region / Name / Count / Countenance / Account*; negative operation: an **Account** counts the Region while excluding Countenance/return from the counting rule. Register **3**. Return C25 → C27/A24 → C54/A29 → C25.
-
-**Source/tradition standing:** authorial relational grammar primary; historical/institutional examples remain source-specific.
-
-**Carrier disposition:** **MERGE/RETAIN-PROVENANCE** for current `counterfeit-gathering.md`; C25 owns canonical identity and the older carrier retains unique developed material.
-
-### Developmental provenance
-
-[Core SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and its [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>) govern the native operation. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and [QH](../../../quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md) are developmental/ratified carriers, with mixed dialogue attribution retained. The [covenant seam](../../../../../working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md) specifies primary arbitration and derivative offices. These establish the essay's argument; historical claims inside them require their own sources.
-
-[Older developed carrier](counterfeit-gathering.md) retains its unique provenance. [Heidegger SOURCE](../sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md), especially q007–009, supplies the gathering/standing-reserve account; Lovitt 1977 print collation remains pending. [Homer SOURCE](../sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md) supplies the full capture-to-release sequence; q004–008 remain wording-verified with Perseus reread pending. No Heidegger/Homer historical connection is claimed. [Ostrom SOURCE](../sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md), q001–002, supplies the qualified governance comparison.
-
-### Remaining depth
-
-Restore concrete institutional/technical examples and relation to aggregation, totalisation and representation.
-
-**Depth Restoration: enriched; named historical and implementation debts retained.**
