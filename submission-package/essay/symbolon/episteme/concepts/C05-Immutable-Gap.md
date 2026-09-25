@@ -17,7 +17,6 @@ The Immutable Gap is the non-coincidence between a determination and its determi
 The [Formal Limit dossier](../dossiers/formal-limit.md#limit-and-recurring-gap) **compares** recurrent non-coincidence with limits whose formal permissions can change. Repairing an inconsistent collecting rule is a genuine achievement; the act making that repair still has conditions which a further account can represent. The recurrence here does not assert that every closed system is incomplete. It preserves the native act/content relation through successful enlargement while the particular mathematical witnesses retain their domains.
 
 
-
 [C04 — Formal Limit](C04-Formal-Limit.md) **grounds** the operation that produces the gap. C05 names what persists through its repetition. [C06 — Copula](C06-Copula-Identification-with-Difference.md) **qualifies** the result: non-coincidence need not mean severance. The terms can answer to one another precisely through the difference that their relation retains.
 
 ## #1
@@ -51,7 +50,3 @@ The [complete Investigation and Faith aphorism](../aphorisms/investigation-and-f
 [C09 — Diaphaneity](C09-Diaphaneity.md) **extends** the positive response: mediation becomes increasingly articulate without claiming to disappear. The account can expose its position, receive correction and change what it makes possible. Transparency is active return, not a final view from outside.
 
 The [[symbolon/episteme/etymologies/symbol-account-and-trust/WHOLE-FIELD|Symbol / Account / Trust whole-field]] **grounds** this operation at evidence register3. Account preserves its relation to source; trust lets a finite account guide committed action without making it sovereign over what returns. C05 **returns-to** [C02 — Faithful Definition](C02-Faithful-Definition.md), and [A36 — Integral Zero](../arguments/A36-Advent-of-Integral-Zero.md) **extends** the return of exact sign as living Symbol.
-
-**Depth Restoration:** recurrent relocation, meta-sign versus represented emptiness, crossed-zero mediation, lived non-coincidence and non-possessive return are restored. C04 retains the formal rule; C06 retains positive identification. No identity change.
-
-**Unresolved Delta:** the named primitive-worlds/formal-limits figure still lacks its exact carrier. Revision §7.3 marks its first-person line as Frank's, while the later corpus-sweep and harmonisation D4 require confirmation of the exact wording because no independent transcript was found. It is therefore used here as developmental paraphrase. No historical, topological or contemplative attribution is promoted by the native Argued claim.
