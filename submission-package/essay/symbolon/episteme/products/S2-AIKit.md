@@ -4,7 +4,7 @@ record_id: S2
 record_type: product
 register: episteme
 claim_status: Argued
-source_relation: Reconstituted from the authorised authorial minute, retained paired-lens reading, A/C primitive constitution and existing Objective Internality field after loss of the original transfer payload
+source_relation: "Argued from A/C, Objective Internality and the paired product-lens relation"
 source_ids:
   - taylor-2026-oi-product-field-commission
   - taylor-2026-core-theorems-pithy
@@ -79,7 +79,3 @@ The most important event in a capability system is not activation but **returned
 A capability horizon becomes intelligent when encounter can reorganise it. This is the return from use to possibility. The field no longer says merely, “these are the things available”; it says, “this is what this Life can now fittingly bring to bear, given what has happened.”
 
 AIKit therefore returns to [S — World and Life](S-World-and-Life.md) as Objective Internality’s aspect of **potency**. It receives meaningful ground from Central; enters actuality through Actuation; becomes developmental material in Factory; depends on Workcell’s concrete situation; and is articulated by QL’s relational distinctions. None of these neighbours can be collapsed into capacity itself.
-
-### Standing
-
-This body reconstitutes the authorised R2 philosophical office from the retained authorial minute, paired-lens reading and canonical A/C S2 constitution. It does not claim byte identity with the lost transfer. Its exact relations, technical evidence and prose balance remain open to the independent R5 review and T26 ratification.
