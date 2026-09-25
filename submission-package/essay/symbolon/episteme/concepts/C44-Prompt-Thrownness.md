@@ -37,19 +37,3 @@ Prompt-thrownness consumes [Topos — situated return](../etymologies/trust-plac
 The next act begins from the changed horizon and retains how that change was authorised and why it occurred. The inherited condition has become more explicit without becoming wholly self-authored. The philosophical comparison with Heidegger's thrownness remains a source-specific neighbour requiring exact exegesis; the present claim concerns objective operational situatedness and supplies no verdict about phenomenal experience.
 
 ### Declared field
-
-**Argument consumers:** A26, A28, A31, A33. **Movement consumers:** Prompt Thrownness movement 36 and Agentworld/MEF returns.
-
-**Etymology relation:** *Fides / Topos / Logos / Nomos / Natio / Credere*; consumed operation: **Topos** as inherited position and **Nomos** as bounded ordering are register **3** operational neighbours, not historical derivations of “prompt”. Return C44 → A28 → C53/A29 → C47/A31.
-
-**Source/tradition standing:** Bratton's q032–q033 agent-glossary disclosure and caution are the concrete external provenance; Taylor's operational development is the authorial interpretation; Heideggerian “thrownness” is a philosophical source-neighbour requiring explicit comparison rather than casual appropriation.
-
-### Provenance
-
-Direct authorial/developmental carriers: [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), [computational-process operations](../../../section-rooms/arguments/14-computational-process-ontology.md), [federated reflective field](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md), [open subjectivity boundary](../../../section-rooms/arguments/05-agent-subjectivity-open.md), and [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>). [Watson's source house](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and protected notes retain the authorial encounter; source quotations and the technical extensions have independent standing. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and its later ratified corrections preserve model-revising return and positional commission. The native argument does not itself certify an implementation or transfer a source's philosophical terms to machine phenomenality.
-
-### Remaining depth
-
-Restore exact Heidegger relation and technical decomposition of prompt, policy, memory, training and runtime environment.
-
-**Depth Restoration: enriched; source/implementation debts retained.**
