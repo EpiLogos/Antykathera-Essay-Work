@@ -17,8 +17,6 @@ source_relation: "Argued formal-limit and trust relation; Paraphrased source-spe
 [Argument field](README.md) · [Other face: A23′ — Trust under Unpossessable Interiors](../conjugate/A23-prime-Trust-under-Unpossessable-Interiors.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument. Trust is committed relation under non-possession. The account's inability to possess its ground does not require weaker knowledge; it requires knowledge to retain its conditions of fidelity and return.
-
 ## #0
 
 A finite determination cannot enclose the determining condition as one further item without producing a further edge. [[A03-Immutable-Gap-Formal-Limit|A03]] grounds that formal limit; A23 asks how a finite life knowingly continues through it. Memory, language, witness, instruments, embodied competence and other persons are already trusted wherever knowledge is acted upon. An account can make that dependence more exact and answerable. It cannot become the ground of its own possibility by hiding the relation.
@@ -64,7 +62,6 @@ Conscious continuation **returns-to** [the complete Investigation and Faith apho
 The [Formal Limit dossier](../dossiers/formal-limit.md#native-definition-and-faith) **qualifies** conscious continuation at the distinction between scrutinising an undertaking and making it. A sentence’s unprovability in a specified formal theory gives no warrant for an unrelated belief. Investigation still examines bearer, obligation and consequences, while the finite commitment can be corrected, withdrawn or renewed. The complete aphorism’s investigation/faith relation remains intact; non-possession of final ground does not exempt an undertaking from answerability.
 
 
-
 The [Indra’s jewel-net whole](../../mytheme/worlds/chinese-huayan/indra-net/WHOLE.md#indra-account-and-consequence) **qualifies** trust by distinguishing a visible dependence from an undertaking to continue it. A clear reflection shows no promise that another person will answer or bear a cost. The whole returns to this argument when an account is used through a commitment whose consequences can reach its sources.
 
 The [Mother, Assumption and chiasm whole](../../mytheme/worlds/frank-taylor/mother-assumption-chiasm/WHOLE.md#mother-bearing-return) **figures** reliance preceding an exhaustive account of what bears it. The mother–child relation gives that received dependence a body; the Assumption return retains its sustaining condition. Such reliance keeps dependence distinct from a bearer’s claim to own the life sustained.
@@ -80,5 +77,3 @@ A calibrated result, audit trail or benchmark can make reliance better grounded.
 [the Job whole](../../mytheme/worlds/biblical/job/WHOLE.md#job-measure-trust-return) **figures** reliance undergoing revision when its account of safety fails. Job continues to address through questioning and protest, whereas his friends can defend God in a way that betrays their relation to the sufferer. Trust here carries an answerable undertaking through failed explanation; it is not guaranteed by confident belief. The return to changed relation does not require a harmed person to remain available for further harm.
 
 [the Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-account-answerability) **figures** why reliance cannot be settled by the offered account of safety. Arrival's apparent escape assistance ends in a remotely controlled return, and the election later offers a freedom its office cannot enact. A workable relation would need the capacity to question the terms of these assurances, rather than demand greater belief in them. Refusal and withdrawal remain possible forms of fidelity when reliance has become a means of capture.
-
-**Depth Restoration:** knowledge's anchor/scapegoat bifurcation, aspectual slash dependency, trust/knowledge/belief/faith offices, fides–arbitration–credere, full apparatus/surety/release, efficacy and withdrawal, and Bratton's scoped prediction-stability distinction restored from A23's packet, direct trust revision and historical Argument18, Q27 and Homer/Hesiod houses. **Remaining debt:** lexical publication sources, distinct faith traditions, empirical political/technical cases and the exact noncoincidence wording. P1 consumers M04/M06/M14/M17/M18/M46 remain in their Movement homes.
