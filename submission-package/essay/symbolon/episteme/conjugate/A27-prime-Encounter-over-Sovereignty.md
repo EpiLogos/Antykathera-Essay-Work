@@ -59,5 +59,3 @@ The return is a recalibrated self-image rather than a defended one. The brief ma
 The page **returns-to** [A27 — Self and Other — Unity without Possession](../arguments/A27-Self-and-Other-Unity-without-Possession.md) and the conjugate root [A/C](AC.md): the partner kept the Other's excess over my account; A27′ adds the symmetric discipline — the error of the protected model runs in every direction, and the encounter, not any pole's sovereignty, is what the field protects.
 
 The source and collation debts for the Agentworld passages, the productive/reactive-alienation material and implementation examples are preserved in the [encounter/co-internality recovery ledger](../../../../../working/canonical-argument-recovery-2026-09-25/ENCOUNTER-COINTERNALITY-DISPLACED-DEBTS.md).
-
-**Unresolved Delta:** §9.7 (p. 46) and Q14 (p. 57) are used from the verified local transcription and lack q-cards — a source-house collation debt. The oscillation between productive and reactive alienation as an empirical matter, and any claim about actual prevalence of either mode, remain the venue's and the essay's Open questions.
