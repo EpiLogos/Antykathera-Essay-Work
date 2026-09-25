@@ -3,3 +3,6 @@ bytes 545395
 PROTECTED-AUTHORIAL-OPENING.txt sha256 96090962a814c2db39f68f9da289ad29d0c586205b0222626639967497ccc6a2
 opening_bytes 629
 source_copy_matches True
+FAILED-GROK-4.7-PASS-2026-09-25.md sha256 bc422dcddeb964a5d78b01aa6866a5728a183174868fe8c595ad2eb40cb9e48f
+bytes 552448
+standing rejected-by-author 2026-09-25
