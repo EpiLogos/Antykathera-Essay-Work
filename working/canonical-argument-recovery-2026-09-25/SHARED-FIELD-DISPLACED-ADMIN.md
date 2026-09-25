@@ -282,3 +282,64 @@ P1 consumers: M06, M13–17 and M28. Detailed chronology, contested transmission
 ### displaced block 2
 
 **Depth Restoration:** differentiated psychic scope, symbol-mediated basin transformation, known→unknown→known and native `x→X→x`, lived identifying return, integration/reconciliation/recognition distinctions, cultural anti-inflation and bounded agentic extension restored from A21's packet, direct Symbolon Dynamics, Van Eenwyk encounter and Q27 §§6/7/9. **Remaining debt:** exact Jung/Śaiva passage collation and external psychological/agentic demonstration. P1 consumers M23/M32/M33/M35 retain their Movement homes.
+
+## submission-package/essay/symbolon/episteme/arguments/A22-World-Picture-to-World-Atlas.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument. The atlas is the essay's constructive operation. Historical Objective Internality is a direct developmental carrier, not a second canonical identity for A22.
+
+### displaced block 2
+
+**Depth Restoration:** world-as-picture/source diagnosis, box-lid and whole stained-glass operations, chart transition and obstruction, attractor/atlas distinction, corrected Bimba stack, L4/L4′ full-field lens correction, answerable encounter, and paradigm/project projection return restored from the A22 packet and direct Objective Internality, Symbolon Dynamics, MEF, P5 Gebser, Q27 and T25 paradigmatic carriers. **Remaining debt:** selected-edition Heidegger/Gebser collation, full historical perspectivism and concrete cartographic/technical exemplars. P1 consumers M05/M41 remain in their own Movement homes; no universal panorama or automatic synthesis is claimed.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A23-Trust-Faith-and-the-Formal-Limit.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument. Trust is committed relation under non-possession. The account's inability to possess its ground does not require weaker knowledge; it requires knowledge to retain its conditions of fidelity and return.
+
+### displaced block 2
+
+**Depth Restoration:** knowledge's anchor/scapegoat bifurcation, aspectual slash dependency, trust/knowledge/belief/faith offices, fides–arbitration–credere, full apparatus/surety/release, efficacy and withdrawal, and Bratton's scoped prediction-stability distinction restored from A23's packet, direct trust revision and historical Argument18, Q27 and Homer/Hesiod houses. **Remaining debt:** lexical publication sources, distinct faith traditions, empirical political/technical cases and the exact noncoincidence wording. P1 consumers M04/M06/M14/M17/M18/M46 remain in their Movement homes.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument. The whole Arbitration Etymology generates the relations consumed here; A24 develops their consequential office and return without replacing that field.
+
+### displaced block 2
+
+**Depth Restoration:** full 6/6′→6+6′ conjugate relation, measure/frame/decision distinctions, Prisoner office/person asymmetry and inward return, hidden denominator, Work/Play off-book relation, regard and recollective resituation restored from A24's packet, whole Arbitration field, direct historical Argument21 and Q27. **Remaining debt:** lexical publication-grade verification, exact audiovisual locators and concrete legal/political/technical cases. The ratified generated relations are not deferred with those evidence tasks. P1 consumers M03/M40/M46 retain their Movement homes.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A25-Covenant-Mediating-Office-Source-Authority.md
+
+### displaced block 1
+
+**Depth Restoration:** primary arbitration → entrusted office → executable judgment → affected consequence → revision of the office is restored from the authorial covenant seam, the trust-development record and the August 18 ratification. P1 consumers are M40 and M46; no Movement prose is changed. The reusable distinctions remain C28/C29's office.
+
+### displaced block 2
+
+**Unresolved Delta:** Jewish, Christian and Islamic covenant histories require differentiated source work; Peters remains an intended acquisition, not evidence consulted here. The priest/king/politician relation is the recovered authorial operation, not a proved single genealogy. The [Native 027 boundary](../../../../../working/final-argument-quilt-2026-08-23/APHORISM-AND-PITHY-FORMULATION-LEDGER.md#5-title-disposition) removes `(no)name` as an essay-architecture obligation. Son retains its existing place in the native Name series; this page creates no King or Son identity. Concrete implementation cases remain Open.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A26-Objective-Internality-Mind-as-Worldhood.md
+
+### displaced block 1
+
+**Depth Restoration:** notational/nomological/exclusion-constituted worldhood, the subject/means/known discrimination, landscape and trajectory, discontinuity and returned inheritance, theatre/context and recursive reference are restored from the direct Objective Internality carrier, Symbolon Dynamics and the protected Watson encounter. P1 consumers: M01, M05, M07, M08, M12, M36, M37, M39 and M47. No Movement prose changes.
+
+### displaced block 2
+
+**Unresolved Delta:** the full externalist/enactive genealogy, tradition-specific historical comparisons and implemented technical cases remain to be completed. Watson's thesis, selected book and nested sources retain distinct collation debts. These debts concern genealogy, attribution and implementation evidence; they do not weaken the argued constitution of Objective Internality as the mediating worldhood through which a Life knows and acts.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A28-Authored-Ground-Positional-Delegation.md
+
+### displaced block 1
+
+**Depth Restoration:** restored positional and recursive commission, prompt-as-determination, separated training/institution/runtime offices, criterion-revising encounter and recursive reference through the existing A28 packet, QH R16.3–R16.5, covenant seam and direct Objective Internality/reflective-field carriers. P1 consumers: M36, M39, M40. No Movement or product identity changed.
