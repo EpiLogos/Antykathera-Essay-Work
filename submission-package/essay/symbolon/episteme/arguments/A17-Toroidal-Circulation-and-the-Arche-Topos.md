@@ -16,8 +16,6 @@ source_relation: "Extracted mathematical operations; Argued arche-topological co
 [Argument field](README.md) · [Other face: A17′ — Traversal with Return](../conjugate/A17-prime-Traversal-with-Return.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument. The mathematics is Derived in its stated system; its kinetic office in the essay is Argued. The direct historical carrier is `17-toroidal-circulation-arche-topos.md`; the earlier “historical Argument 09” label is a provenance discrepancy.
-
 ## #0
 
 The torus gives a traversal a finite home without erasing its travel. [[A16-Arche-Topos-as-Differential-Field|A16]] grounds the differential field of placement; A17 develops its primary kinetic image: an infinite cover, compact surface, two independent windings and an unfilled opening belong to one construction. The movement begins from the full self-related Symbolon, not from the bare signed line alone. [[A13-Two-Logics-of-Two-Dia-Syn|A13]] derives the distinction between a centred polarity and the relation which can retain its inverse and return.
