@@ -12,8 +12,6 @@ source_relation: Argued from
 [Argument field](README.md) · [Other face: A07′ — Purpose That Survives the Metric](../conjugate/A07-prime-Purpose-That-Survives-the-Metric.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument; historical Argument 17 remains provenance.
-
 ## #0
 
 A world becomes actionable when difference is not merely perceived but selected, stabilised and gathered into a possible course. Vikalpa–saṃkalpa names this movement. Vikalpa differentiates and qualifies; saṃkalpa gathers selected determinations into intention, project, image of action or world. In a bounded subject-position these operations are indispensable. Without them there is no practical cognition. Their danger begins when an achieved selection forgets its own formation and returns as *script*: conditioned will frozen into a pattern that presents itself as necessity.
@@ -71,16 +69,8 @@ A conditioned determination becomes live again when resistance and new experienc
 
 **Etymology whole field:** *Encounter / Region / Name / Count / Countenance / Account*. **Consumed operation:** **Name/Account** — an achieved naming gathers a field into a usable account while leaving the surrounding region active. **Evidence register:** 3, Operational homology; no common descent with the Sanskrit terms is asserted. **What changes:** script is diagnosed as a local account that has hidden the region and alternatives from which it was selected. **Return route:** A07 → C12/C17 → A26/C44 → A31 → A07.
 
-**Movement consumers:** tattvic, prompt-thrownness and hidden-evaluator sequences in the canonical quilt; exact per-Movement backlinks are a Depth Restoration item. No section propagation occurs here.
-
 **Matheme:** selection of a `1` against alternatives retained by the field; **Mytheme:** spell, script, mask and groove as whole images of conditioned repetition; **Episteme:** Śaiva/Sāṃkhya cognitive cartography, psychology of habit and technical workflow systems.
-
-### Provenance
-
-Historical Argument 17; Q27 developmental recovery; live `13-tattvic-differential-field.md` for the vikalpa/saṃkalpa, buddhi/ahaṃkāra/manas and bounded-runtime relation; `14-computational-process-ontology.md` for the operational reading. Exact historical 17 source text remains a restoration carrier rather than a canonical identity.
 
 ### Unresolved Delta
 
 Restore primary Śaiva textual warrant, exact Taylor script formulations and examples distinguishing script from ordinary habit, policy and executable code.
-
-**Depth Restoration:** circumstantial formation, trace/retrieval/imagination, generated-result source substitution, and the rule/script distinction restored. Source houses and Kripke's protected notes were read; Dyczkowski's preserved note was read without stash application. The current core and existing packet govern the native relation. **Open:** primary Śaiva term-specific collation, exact independent historical Argument17 carrier, and actual technical traces testing changed behaviour. Dreamcode/Dream-machine remain authorial candidate names in the quilt, with no new identity created. P1 declares Movement09.
