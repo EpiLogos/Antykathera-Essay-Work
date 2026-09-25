@@ -15,8 +15,6 @@ source_ids:
 [Argument field](../arguments/README.md) · [Other face: A12 — Mono/Poly — One / All, Whole / Many](../arguments/A12-Mono-Poly-One-All-Whole-Many.md) · [Shared A/C root](AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** conjugate argument-proposal; the prime face of [A12 — Mono/Poly](../arguments/A12-Mono-Poly-One-All-Whole-Many.md). The monopoly/monoculture derivation is the partner's argued operation re-sited against the agentworld's flattening pressures. Brief material is **Paraphrased** and scenario-modal. C-ground: S/P3 — inter-world relation, with the primitive registers in play.
-
 ## #0
 
 The brief's directional matrix includes the rows "Flatten diversity into agent monocultures → Cultivate mixture of combative experts" and "Closed world of monetizable app store skills → Open world of adaptive mutual evolution" (FROM → TO, PDF p. 56). [A12](../arguments/A12-Mono-Poly-One-All-Whole-Many.md) makes such rows an argument rather than a taste: since every determinate participant is constituted by exclusion — [A08′](A08-prime-Exclusion-That-Remembers.md) at this field's threshold — diversity is not a preference but the structural condition of the field. A whole differentiates through many real expressions, and each expression is exact because alternatives remain constitutive of its sense. Monoculture is the field forgetting its own constitution: the exclusions that made each participant intelligible are cancelled, and one counting scheme presents itself as the field.
@@ -42,7 +40,3 @@ The counterculture warning applies with full force to the remedy. A "mixture of 
 The return asks the concrete question A12 asks of any institution: can a determination return through its sources, exclusions and affected participants, or does it install its output as the final source of its own warrant? The inter-world relation survives only while each world keeps a ground from which to judge what the relation asks — the local sovereignty the root's ruling protects. Monoculture forecloses that return; the commons holds it open.
 
 The page **returns-to** [A12 — Mono/Poly](../arguments/A12-Mono-Poly-One-All-Whole-Many.md): whole-first plurality is the argued relation; monoculture and monopoly its named failures, with the brief's correlated-failure dynamic and federation thesis as their technological body — and to the root [A/C](AC.md), the full `0/1` field, whose grammar is constitutively plural across argument, contract and code.
-
-**Depth Restoration:** exclusion-constitution of diversity, monopoly as source-office occupation, correlated-failure dynamics, commons/federation counterpart, the counterculture recurrence, and the corridor as retained relation are restored from the partner derivation and verified brief passages (q021, q027, q029, q039, q041; FROM → TO rows verified against the local transcription, p. 56). Pass 2 recomposes the prose from the argument outward.
-
-**Unresolved Delta:** the FROM → TO matrix rows are uncarded in the source house. Whether specific deployed ecosystems exhibit the correlated-failure dynamic is an empirical question this page does not answer; the argument establishes the structural condition and the brief's own mechanism, not measured instances. Ostrom-sourced governance comparisons remain with the Commons concept.
