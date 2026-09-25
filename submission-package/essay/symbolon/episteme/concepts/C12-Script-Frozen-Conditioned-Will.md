@@ -48,7 +48,3 @@ The frozen script **returns-to** [the Process dossier](../dossiers/process.md) w
 [[symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter / Region / Name / Count / Account]] **grounds** the register3 return: the local Account recontacts the Region and encounter which it had displaced. The achieved pattern can become inherited data for another act instead of continuing as an unquestionable ground.
 
 [C46 — Epistemic Cultivation](C46-Epistemic-Cultivation.md) **extends** this into a practice of investigating distinctions. [C47 — Deferential Intelligence](C47-Deferential-Intelligence.md) **tests** whether encounter can alter the model and evaluator, as well as their current answer. C12 **returns-to** C17: the power to propose and gather alternatives becomes active again. Useful repetition survives with renewed access to why this course, here, still holds.
-
-**Depth Restoration:** circumstantial formation, recurrence and stabilisation, self-pro-position, generated product promoted to source, concrete source-return/counterfactual tests and renewed alternative formation are restored.
-
-**Unresolved Delta:** the computational measures remain proposed tests; no experiment or implementation is claimed. Kripke's copied note quotations remain quotation leads, and the QL/Śaiva continuation belongs to Frank's encounter. A technical policy is not diagnosed as a psychic complex by this operational comparison.
