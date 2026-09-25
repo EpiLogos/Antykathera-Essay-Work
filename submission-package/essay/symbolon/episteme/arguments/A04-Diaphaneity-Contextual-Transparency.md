@@ -14,8 +14,6 @@ source_relation: Argued from
 [Argument field](README.md) · [Other face: A04′ — The Mask as Document](../conjugate/A04-prime-The-Mask-as-Document.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument; historical Argument 01 remains provenance. Contextual transparency is Argued; the Gebser relation is Paraphrased / Argued from; the optical construction figures the relation in Mytheme. Native QL derivation and external historical attribution retain their distinct offices.
-
 ## #0
 
 A situated view is already an accomplishment: a world becomes distinguishable from somewhere. Its objects acquire depth, salience and relation through a placement that the resulting image can conceal. [[A03-Immutable-Gap-Formal-Limit|A03]] grounds the task by showing why adding more objects never exhausts that placement. Diaphaneity follows the conditioning relation back through the view. “My view of the world” becomes legible at once as a disclosure of a world and as a disclosure of the situated viewer through whom that world has taken this form.
@@ -89,10 +87,6 @@ The measure of this return is whether seeing remains answerable to what it sees 
 
 **Etymology whole field:** *Arbitration / Hybris / Regard / Anamnesis*. **Exact consumed operation:** **Con-text-through-Diaphaneity → Regard**. The generated relation is Con-text-through-Diaphaneity; *Regard* is its semantic flowering. **Evidence register:** 3, Operational homology, with later philological work on *regard* kept distinct. **What changes:** context becomes something looked through and looked back into; the determination acquires a responsibility to the conditions and others from which it arose. **Return route:** A04 → C09 → A24/E-Arbitration → A31 → A04.
 
-**P1 Movement consumers:** 01 — Question Before the Mechanism; 05 — Gebser / Diaphaneity; 35 — Gebser / Apollo–Dionysus. These declare consumption without rewriting the movements.
-
 **Matheme:** reversible reading between field-view and determinate view. **Mytheme:** transparency, window, mirror and veil as whole relational images. **Episteme:** perspectival history, Gebserian diaphaneity, contextualist epistemology and technical provenance systems, with their evidential differences preserved.
 
 Direct recovery: A04 depth packet; complete authorial P5 — Gebser; core II(c), V, VI and IX in the whole theorem field; Q27 §§12–13 and corrected §§1–4; historical immutable-gap carrier. The Gebser and core SOURCE houses were read; neither has sibling `NOTES.md`. The later optical correction governs the image's assignments.
-
-**Depth Restoration:** invested contextual seeing, the absent-Father/standard pressure, corrected complete stained glass, reciprocal asymmetry, the sequential-to-contextual turn, and the positive psychic-fact/co-presence office restored. **Open delta:** Gebser's selected-edition quotation collation and the exact historical Argument 01 wording beyond its recovered live carrier. The full Father/measure development retains its distinct A24/A25/A35 offices; this batch creates no optical identity or section-room prose.
