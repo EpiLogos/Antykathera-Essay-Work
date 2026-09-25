@@ -45,19 +45,3 @@ The [Symbol / Account / Trust whole-field — Account does not replace source](.
 The returned judgment can become a source for later work only with its scope and provenance retained. C39 supplies the lens discipline, C43 computational self-return and C45 the check that a distinction made a discriminable operational difference. C41 supplies the paradigmatic boundary; C51 asks whether explicit articulation can return into the lived pattern. The result is an accountable model field: a determinate means of judgment whose sources, relations and consequences can become part of the next judgment instead of disappearing behind the output.
 
 ### Declared field
-
-**Argument consumers:** A14, A22, A26, A31, A33. **Product consumers:** S1 directly and S0/S2–S5 through returned conditioning. **Movement consumers:** model-internality, MEF, prompt, evaluation and Agentworld movements.
-
-**Etymology relation:** *Encounter / Region / Name / Count / Countenance / Account*; exact operation: the model exposes the **Account** by which inputs/regions were named, counted and judged. Register **3**. Return C40 → C39 → C45/A33 → C47/A31 → C41/C51.
-
-**Source/tradition standing:** Taylor MEF/J-Space/technical inquiry primary; interpretability/evaluation research supplies application evidence.
-
-### Provenance
-
-Direct carriers: [Symbolon Dynamics](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Symbolon Dynamics — Archetype, Attractor, and Objective Internality.md>), [Q27 with its Bimba correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md), [Objective Internality](../../../section-rooms/arguments/02-objective-internality.md), and the [federated reflective-field carrier](../../../section-rooms/arguments/06-computational-vimarsa-ahi.md). The [MEF source house](../sources/internal-corpus/taylor/taylor-2026-mef-twelve-lenses/SOURCE.md) has a recoverable [local twelve-lens reference](../../../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/mef-12-lenses-sublens-reference.md) despite its stale unavailable statement. That reference is developmental architecture; its historical attributions and musical selection claims are not independently established by the compilation. [Dyczkowski](../sources/indian-philosophy/dyczkowski/dyczkowski-2000-doctrine-vibration/SOURCE.md) retains source-matched, not quotation-verified, reflection passages. The September 15 [paradigm / Epi-Logos minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) supplies the explicit later distinction between judgment model and enacted paradigm. Technical designs remain Offered until their own experiments establish functioning consequences.
-
-### Remaining depth
-
-Restore exact J-Space experiments and specify the minimum observability needed for different classes of judgment. Test when a paradigm representation has enough causal/relational purchase to participate in Epi-Logos rather than merely visualize the field.
-
-**Depth Restoration: enriched; paradigm boundary and source/implementation debts retained.**
