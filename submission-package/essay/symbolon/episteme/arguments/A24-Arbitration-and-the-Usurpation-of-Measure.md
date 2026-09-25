@@ -13,8 +13,6 @@ source_relation: "Argued from ratified Etymology field and source-specific polit
 [Argument field](README.md) · [Other face: A24′ — The Usurping Criterion](../conjugate/A24-prime-The-Usurping-Criterion.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument. The whole Arbitration Etymology generates the relations consumed here; A24 develops their consequential office and return without replacing that field.
-
 ## #0
 
 Arbitration makes a finite decision where conditions do not decide themselves. [[A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account|A15]] grounds valid measure; [[A19-Complex-as-Local-Arbitration-Regime|A19]] shows a local psychic criterion; [[A23-Trust-Faith-and-the-Formal-Limit|A23]] grounds the trust under which an account is acted upon. Their common pressure is the decision's standing: a criterion must be real enough to act while remaining answerable to what its action concerns.
@@ -82,7 +80,5 @@ Taylor’s [black sun and radiating star](../../mytheme/worlds/frank-taylor/tayl
 **Resolution-in-Reconciliation** permits anamnesis: the achieved determination remembers the path by which it acquired force. A valid settlement is not erased because its conditions become visible. Its competence can return to the wider field without sovereignty. [[A21-Individuation-Recognition|A21]] develops that psychic return; [[A25-Covenant-Mediating-Office-Source-Authority|A25]] makes covenant and authority explicit; [[A29-Power-Delegated-Labour-Return|A29]] returns the labour and consequence that the governing account had excluded.
 
 This is a complete cycle of authority rather than endless postponement of decision. The account can act because its office has standing, and its standing remains finite because the people and conditions it concerns can answer. New evidence enters the next determination with the earlier history still consequential. The Etymology receives a sharper source question in return: which actual witness, law, rule and institution made this arbitration possible?
-
-**Depth Restoration:** full 6/6′→6+6′ conjugate relation, measure/frame/decision distinctions, Prisoner office/person asymmetry and inward return, hidden denominator, Work/Play off-book relation, regard and recollective resituation restored from A24's packet, whole Arbitration field, direct historical Argument21 and Q27. **Remaining debt:** lexical publication-grade verification, exact audiovisual locators and concrete legal/political/technical cases. The ratified generated relations are not deferred with those evidence tasks. P1 consumers M03/M40/M46 retain their Movement homes.
 
 The deciding office **returns-to** [Apportionment / Economy whole — Measure is an apportioned criterion](../etymologies/apportionment-and-economy/WHOLE-FIELD.md#measure-is-an-apportioned-criterion) at evidence register 3. The criterion receives a finite office within a distribution of standing and consequence. A challenge must be able to reach that allotment of authority as well as the correctness of its particular decision.
