@@ -37,7 +37,6 @@ Formal comparisons make this criterion more exact when their operations remain d
 The [Formal Limit dossier](../dossiers/formal-limit.md#limit-and-recurring-gap) **compares** the specific operation which reaches each limit. Russell’s repair changes allowable formation, Gödel’s result concerns derivability under stated hypotheses, and Spencer-Brown’s re-entry belongs to its own calculus. An enlarged or revised system can achieve valid work without making these three operations identical. The native account retains the present act of enlargement as distinct from its represented content.
 
 
-
 [[symbolon/episteme/sources/mathematics-logic/godel/godel-1931-undecidable-propositions/SOURCE|Gödel's 1931 article]] **qualifies** the mathematical comparison by fixing its jurisdiction in effectively axiomatized systems sufficiently expressive for arithmetic, with the relevant consistency hypotheses. Incompleteness is not a theorem that every account, model or closed physical system fails. The native argument remains Argued; Gödel does not supply a proof of the Subject, God or QL.
 
 [[symbolon/episteme/sources/mathematics-logic/spencer-brown/spencer-brown-1969-laws-form/SOURCE|Spencer-Brown's calculus]] **compares** a third operation: distinction and its re-entry. The unmarked state belongs to that calculus; it cannot silently be substituted for QL's unobjectifiable condition. These comparisons are source-specific relations, not interchangeable authorities for one slogan.
@@ -58,7 +57,3 @@ The [complete Investigation and Faith aphorism](../aphorisms/investigation-and-f
 The limit returns inquiry to a task it can perform: give an account, expose its determining relations and let what returns alter it. [C02 — Faithful Definition](C02-Faithful-Definition.md) **defines** that responsibility; [A23 — Trust and Faith](../arguments/A23-Trust-Faith-and-the-Formal-Limit.md) **extends** it into continuing without possession of final ground. A commitment can be investigated, corrected or withdrawn. Formal non-possession does not certify a relation as harmless.
 
 C04 **returns-to** [A01](../arguments/A01-Subject-God-and-Faithful-Definition.md), where the definition's failure of enclosure becomes its performed fidelity. [A36 — Integral Zero](../arguments/A36-Advent-of-Integral-Zero.md) **extends** that return at the far end: mathematical exactness survives when the achieved sign discloses the relation it cannot exhaust.
-
-**Depth Restoration:** active inclusion, closure-in rather than closure-around, correctable omission versus constitutive limit, and differentiated formal responses are restored. C05 owns the enduring non-coincidence; A03 owns the full formal braid. No identity change.
-
-**Unresolved Delta:** Russell's indexed passages are quotation-ready; Gödel's German scope cards do not supply a selected English translation of Satz VI/XI. Spencer-Brown's exact equations and re-entry locators remain Open. Further theorem comparisons require their own domains and passage carriers. These source debts do not downgrade the native Argued operation.
