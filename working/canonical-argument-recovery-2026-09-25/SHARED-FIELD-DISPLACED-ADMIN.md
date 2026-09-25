@@ -221,3 +221,64 @@ P1 consumers: M06, M13–17 and M28. Detailed chronology, contested transmission
 ### displaced block 2
 
 **Depth Restoration:** restored here: inheritance–concrescence–satisfaction–perishing; useful cut versus fragmentation; six concrete process tests; image/interpreter reciprocal transformation; consequential world-continuity; differentiated architecture offices; recursive local reference and wider objective internality; two-way interface learning; metered-closure research pressure. Provenance: direct historical carrier 14, core XI, *Symbolon Dynamics*, the existing A14 recovery packet's Q27 world/optic passages and later ecology qualification. Exact process-philosophy passages, empirical implementation performance and the token-economy inquiry remain Open; no source quotation readiness is promoted.
+
+## submission-package/essay/symbolon/episteme/arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument. Finite ratio identities and the declared QL operations are Derived; the reflexive account of rationality is Argued. Historical carrier 12 is the Core Theorem Bridge, not an earlier autonomous Ratio Argument.
+
+### displaced block 2
+
+**Depth Restoration:** criterion/denominator, pre-nominal individuation, denomination and backing, paired-term accounting, directional ratios, numerator/denominator asymmetry, exact retained-remainder completion and criterion-to-fact substitution are restored. Musical-v3's erroneous six-pure-whole-tones closure, interval label and sounding-note subset claims are not restored: `(9/8)^6≠2`, temperament must be declared, and silent anchors are not sounding pitches. These corrections leave the finite ratio kernel and native cross-reading intact. Provenance remains core I/II/IV/VI, musical v3 §II-5, Kripke encounter, Q27 measure/hamartia passages and the existing A15 packet.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A16-Arche-Topos-as-Differential-Field.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument. Arche-Topos is Derived as the coordinating differential field of the native theorem-units; external disclosures retain their own evidence and relations. The direct historical carrier is `04-arche-topos-topology-music.md`; the earlier “historical Argument 11” label is a provenance discrepancy.
+
+### displaced block 2
+
+**Depth Restoration:** four distinct refractions; field/polar-view transition; exact phase, conjugation, quotient, cover and winding differences; phase-space/trajectory/attractor/basin/atlas offices; symbolic alteration of future possibility; retained musical remainder; complete corrected stained-glass relation; perspective change versus contextual holding are restored. Provenance: historical carrier 04, core I–XI/eightfold, direct *Symbolon Dynamics*, musical-v3 §II-5, Q27 optic and Bimba-correction passages, and the existing A16 packet. Wider mathematical-source locators, technical realisations and empirical psychoid causation remain separate Open debts.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument. The mathematics is Derived in its stated system; its kinetic office in the essay is Argued. The direct historical carrier is `17-toroidal-circulation-arche-topos.md`; the earlier “historical Argument 09” label is a provenance discrepancy.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A19-Complex-as-Local-Arbitration-Regime.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument. The local-jurisdiction account is the essay's Argued psychological construction. Jung's exact complex/autonomy passages remain a distinct source task; no clinical diagnosis or technical attribution follows from the formal analogy.
+
+### displaced block 2
+
+**Depth Restoration:** local selection/affect feedback, basin/boundary transformation, archetype–complex–image distinction, necessary arbitration, usurped office and nonannihilating return restored from the existing A19 packet, direct Symbolon Dynamics and Q27 §6, with protected Van Eenwyk encounter and whole Etymology/Aion relations. **Remaining debt:** exact Jung complex/autonomy and individuation passages, external clinical/dynamical specifications and implemented agent cases. P1 consumers M23/M27/M31 retain their separate Movement homes.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A20-Image-Valuation-Possession.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument. Image → valuation → source-claim is a relational operation; historical icon/idol doctrines, clinical claims and particular technical outcomes retain their own evidence tasks.
+
+### displaced block 2
+
+**Depth Restoration:** archetype/image/complex differentiation, valuation's reciprocal formation, corrected source/reflection order, witness-redescription, operational-profile feedback and second-order counterfeit provenance restored from A20's existing packet, direct Symbolon Dynamics, Q27 Bimba/Job/deepfake passages and whole Job/Etymology relations. **Remaining debt:** exact Jung and Bohm passages, icon/idol histories, clinical claims and documented technical/media cases. Revision §7.3's noncoincidence relation remains available as developmental paraphrase; its first-person wording awaits Frank's confirmation under harmonisation D4. P1 consumers M22/M23/M31/M34/M35 retain their distinct Movement homes.
+
+
+## submission-package/essay/symbolon/episteme/arguments/A21-Individuation-Recognition.md
+
+### displaced block 1
+
+**Standing:** canonical semantic Argument. Differentiated indivisibility is the project's positive operation. Exact Jungian and Śaiva formulations retain their distinct source histories and passage debts.
+
+### displaced block 2
+
+**Depth Restoration:** differentiated psychic scope, symbol-mediated basin transformation, known→unknown→known and native `x→X→x`, lived identifying return, integration/reconciliation/recognition distinctions, cultural anti-inflation and bounded agentic extension restored from A21's packet, direct Symbolon Dynamics, Van Eenwyk encounter and Q27 §§6/7/9. **Remaining debt:** exact Jung/Śaiva passage collation and external psychological/agentic demonstration. P1 consumers M23/M32/M33/M35 retain their Movement homes.
