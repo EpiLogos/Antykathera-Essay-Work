@@ -1,15 +1,21 @@
 ---
-title: "Return of Zero — Section Rooms"
+title: "The Return of Zero — The Rooms"
 source_id: section-rooms-readme
-generated_by: "build-section-rooms.py v2.2.0"
+generated_by: "build-section-rooms.py v2.3.0"
 ownership: generated
 ---
 
-# Return of Zero — Section Rooms
+# The Return of Zero — The Rooms
 
-**Where you are:** [Reading root](../README.md) › `#0` The rooms
+**Where you are:** [Reading root](../README.md) › the rooms
 
-The [manuscript](../THE-RETURN-OF-ZERO.md) awaits composition. The developed argument can be read through these eight rooms and their 48 movements. Each room holds six movements (the determinate `1`s), drawing on the shared canonical field (the implicate `0`): [36 Arguments](../symbolon/episteme/arguments/README.md), [64 Concepts](../symbolon/episteme/concepts/CANONICAL-INDEX.md), [36 conjugate arguments and their A/C root](../symbolon/episteme/conjugate/README.md). Each record keeps one home; the room's alignment brings its precise local operation into the movement.
+A **room** is one station on the path. There are eight rooms. Each holds six movements. Together they are the 48-step reading you can follow today.
+
+Open a room for the station's wager and its six waypoints. Open a movement for the local step. The [manuscript](../THE-RETURN-OF-ZERO.md) is the continuous prose Frank is writing by hand; these rooms are the field around it. Much of this field is generated. It shows method and intent. It is not finished doctrine, and it should not speak in slogans.
+
+If you are new, start at [§0/1 — The Integral Threshold](00-integral-threshold/ROOM.md), or go straight to the first movement, [The Question Before the Mechanism](00-integral-threshold/movements/01-s01-p0-question-before-mechanism.md). The [braided traversal](../symbolon/episteme/maps/return-of-zero-braided-traversal.md) keeps the full 01–48 order.
+
+Under the rooms sits a shared argument field: [Arguments](arguments/README.md), [Concepts](arguments/concepts/CANONICAL-INDEX.md), [conjugates](arguments/conjugate/README.md), and [products](arguments/products/README.md). Each record has one home; a room's alignment brings the local operation into the movement. You do not need that layer to begin.
 
 ## The eight rooms
 
@@ -24,37 +30,61 @@ The [manuscript](../THE-RETURN-OF-ZERO.md) awaits composition. The developed arg
 | §5 Objective Internality and Agentic Research | [ROOM](06-objective-internality/ROOM.md) | [37](06-objective-internality/movements/37-s5-p0-math-moves-meaning.md) · [38](06-objective-internality/movements/38-s5-p1-apoha-softmax.md) · [39](06-objective-internality/movements/39-s5-p2-j-space.md) · [40](06-objective-internality/movements/40-s5-p3-preference-hidden-zero.md) · [41](06-objective-internality/movements/41-s5-p4-bimba-energy-fields.md) · [42](06-objective-internality/movements/42-s5-p5-research-vectors.md) | [canonical alignment](06-objective-internality/P1-CANONICAL-ALIGNMENT.md) |
 | §5→0 Epi-Logos and 4:2 Technē | [ROOM](07-instrument-returns/ROOM.md) | [43](07-instrument-returns/movements/43-s50-p0-theory-vocation-compassion.md) · [44](07-instrument-returns/movements/44-s50-p1-ql-mef-bimba-harness.md) · [45](07-instrument-returns/movements/45-s50-p2-antikythera-attunement.md) · [46](07-instrument-returns/movements/46-s50-p3-4-2-mono-poly.md) · [47](07-instrument-returns/movements/47-s50-p4-idealism-horizon.md) · [48](07-instrument-returns/movements/48-s50-p5-ahi-planetary-return.md) | [canonical alignment](07-instrument-returns/P1-CANONICAL-ALIGNMENT.md) |
 
-Movement numbers are the global traversal identities 01–48; their writing order is kept in the [braided traversal](../symbolon/episteme/maps/return-of-zero-braided-traversal.md). Each movement page carries its thesis, its derivation and source moves, its consequence and its audit boundary, and links the room's authored canonical alignment for its route to the Arguments and Concepts it stands on.
+Movement numbers are the global path identities 01–48. Writing order is in the [braided traversal](../symbolon/episteme/maps/return-of-zero-braided-traversal.md). Each movement page states its thesis, derivation, sources, consequence, and audit boundary, and points to the room's canonical alignment for its route into Arguments and Concepts.
 
-## The argument shelf
+## The canonical argument field
 
-`arguments/` holds 21 historical carriers retained for provenance. For the developed argument, enter the canonical field above. Each room's `P1-CANONICAL-ALIGNMENT.md` records the A/C operations admitted at each movement, including phase bounds and deferrals; the conjugate face is read through its named partner, without importing a later technical conclusion into the opening.
+This is the shared depth under the rooms — not the first door. `arguments/` holds the 36 Arguments listed below, the [conjugate arguments and the A/C root](arguments/conjugate/README.md), the [64 Concepts](arguments/concepts/README.md), and the [product field](arguments/products/README.md). Each room's `P1-CANONICAL-ALIGNMENT.md` records which of these a movement may draw on. Older carriers remain frozen under `working/legacy/section-rooms-arguments/`.
 
-- [Immutable Gap and Meta-Sign](arguments/01-immutable-gap-and-meta-sign.md)
-- [Objective Internality](arguments/02-objective-internality.md)
-- [Sym-Ballein](arguments/03-two-logics-and-sym-ballein.md)
-- [Arche-Topos as Differential Field](arguments/04-arche-topos-topology-music.md)
-- [Agent Subjectivity Must Remain Open](arguments/05-agent-subjectivity-open.md)
-- [Artificial Hybrid Intelligence as Reflective Field](arguments/06-computational-vimarsa-ahi.md)
-- [Hephaestus's Net: The Failed Relation](arguments/07-hephaestus-and-the-net.md)
-- [Deferential Intelligence](arguments/08-deferential-intelligence.md)
-- [Prakāśa-Vimarśa](arguments/09-prakasa-vimarsa.md)
-- [Vāk](arguments/10-vak.md)
-- [Mono-Poly: Whole and Many](arguments/11-mono-poly-whole-and-many.md)
-- [Core Theorem Bridge](arguments/12-core-theorem-bridge.md)
-- [Tattvic Differential Field](arguments/13-tattvic-differential-field.md)
-- [Computational Process Ontology](arguments/14-computational-process-ontology.md)
-- [Paradox as Cross-Register Hinge](arguments/15-paradox-as-cross-register-hinge.md)
-- [Bohmian Enfoldment and Dialogical Return](arguments/16-bohmian-enfoldment-dialogical-return.md)
-- [Toroidal Circulation and the Arche-Topos](arguments/17-toroidal-circulation-arche-topos.md)
-- [Trust, Faith, and the Formal Limit](arguments/18-trust-faith-formal-limit.md)
-- [The Two Ones — Mono–Poly Matheme](arguments/19-two-ones-mono-poly-matheme.md)
-- [The Advent of Zero, Subject, and Integral Logic](arguments/20-advent-zero-subject-integral-logic.md)
-- [Number Two Names Number Six: The Prisoner and the Politics of the Count](arguments/21-prisoner-politics-of-the-count.md)
+- [A01 — Subject, God and Faithful Definition](arguments/A01-Subject-God-and-Faithful-Definition.md)
+- [A02 — Copula / Self-Identity through Difference](arguments/A02-Copula-Self-Identity-through-Difference.md)
+- [A03 — Immutable Gap / Formal Limit](arguments/A03-Immutable-Gap-Formal-Limit.md)
+- [A04 — Diaphaneity / Contextual Transparency](arguments/A04-Diaphaneity-Contextual-Transparency.md)
+- [A05 — Prakāśa–Vimarśa](arguments/A05-Prakasa-Vimarsa.md)
+- [A06 — Vāk](arguments/A06-Vak.md)
+- [A07 — Vikalpa–Saṃkalpa / Script — Frozen Conditioned Will](arguments/A07-Vikalpa-Samkalpa-Script-Frozen-Conditioned-Will.md)
+- [A08 — Apoha / Constitutive Exclusion](arguments/A08-Apoha-Constitutive-Exclusion.md)
+- [A09-Tattvic-Differential-Field](arguments/A09-Tattvic-Differential-Field.md)
+- [A10-Advent-of-Zero](arguments/A10-Advent-of-Zero.md)
+- [A11-The-Two-Ones-0-One-1-All](arguments/A11-The-Two-Ones-0-One-1-All.md)
+- [A12-Mono-Poly-One-All-Whole-Many](arguments/A12-Mono-Poly-One-All-Whole-Many.md)
+- [A13 — Two Logics of Two — Dia / Syn](arguments/A13-Two-Logics-of-Two-Dia-Syn.md)
+- [A14 — Computational Process Ontology](arguments/A14-Computational-Process-Ontology.md)
+- [A15 — Ratio / Rationality — Measure, Reckoning, Harmony and the Account](arguments/A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account.md)
+- [A16 — Arche-Topos as Differential Field](arguments/A16-Arche-Topos-as-Differential-Field.md)
+- [A17 — Toroidal Circulation and the Arche-Topos](arguments/A17-Toroidal-Circulation-and-the-Arche-Topos.md)
+- [A18 — Primordial Symbolon and Its Eight Determinations](arguments/A18-Primordial-Symbolon-and-Its-Eight-Determinations.md)
+- [A19 — Complex as Local Arbitration Regime](arguments/A19-Complex-as-Local-Arbitration-Regime.md)
+- [A20 — Image / Valuation / Possession](arguments/A20-Image-Valuation-Possession.md)
+- [A21 — Individuation / Recognition](arguments/A21-Individuation-Recognition.md)
+- [A22 — World-Picture → World-Atlas](arguments/A22-World-Picture-to-World-Atlas.md)
+- [A23 — Trust, Faith and the Formal Limit](arguments/A23-Trust-Faith-and-the-Formal-Limit.md)
+- [A24 — Arbitration and the Usurpation of Measure](arguments/A24-Arbitration-and-the-Usurpation-of-Measure.md)
+- [A25 — Covenant / Mediating Office / Source Authority](arguments/A25-Covenant-Mediating-Office-Source-Authority.md)
+- [A26 — Objective Internality — Mind as Worldhood](arguments/A26-Objective-Internality-Mind-as-Worldhood.md)
+- [A27 — Self and Other — Unity without Possession](arguments/A27-Self-and-Other-Unity-without-Possession.md)
+- [A28 — Authored Ground / Positional Delegation](arguments/A28-Authored-Ground-Positional-Delegation.md)
+- [A29 — Power / Delegated Labour / Return](arguments/A29-Power-Delegated-Labour-Return.md)
+- [A30 — Objective Co-Internality](arguments/A30-Objective-Co-Internality.md)
+- [A31 — Deferential Intelligence](arguments/A31-Deferential-Intelligence.md)
+- [A32 — Reflective Field / THE MIRROR THAT MOVES FIRST](arguments/A32-Reflective-Field-The-Mirror-That-Moves-First.md)
+- [A33 — Epistemic Cultivation / Operational Parity](arguments/A33-Epistemic-Cultivation-Operational-Parity.md)
+- [A34 — Idealism / Order of Dependence](arguments/A34-Idealism-Order-of-Dependence.md)
+- [A35 — Compassion / Sensitivity to Origins / Epi-Logos as Vocation](arguments/A35-Compassion-Sensitivity-to-Origins-Epi-Logos-as-Vocation.md)
+- [A36 — Advent of Integral Zero](arguments/A36-Advent-of-Integral-Zero.md)
 
 ## What a room contains
 
-Each room contains generated `ROOM.md` and authored `P1-CANONICAL-ALIGNMENT.md`. The alignment preserves the six Movements' programme roles and their exact routes to canonical Arguments and Concepts; the builder does not rewrite it. A room may also contain `READING.md` when cross-source order genuinely teaches the section, `SCRATCH.md` for temporary writing, or `VISUALS.md` for an admitted visual argument. Full quotation, source teaching, bibliographic detail and worked examples belong in the linked `SOURCE.md` houses.
+Each room folder holds:
+
+- `ROOM.md` — the station page (often generated): where you are, the wager, the six movements.
+- `P1-CANONICAL-ALIGNMENT.md` — authored routes from movements to Arguments and Concepts; the builder does not rewrite it.
+- `movements/` — the six movement pages.
+- sometimes `READING.md` — a cross-source reading order when that genuinely teaches the section.
+
+Full quotation, source teaching, and bibliographic detail live in the linked source houses, not in the room index.
+
+Rebuild (contributors):
 
 ```bash
 python3 tools/build-section-rooms.py --project-root .
