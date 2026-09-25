@@ -4,7 +4,7 @@ record_id: S4
 record_type: product
 register: episteme
 claim_status: Argued
-source_relation: Reconstituted from the authorised authorial minute, retained paired-lens reading, A/C primitive constitution and existing Objective Internality field after loss of the original transfer payload
+source_relation: "Argued from A/C, Objective Internality and the paired product-lens relation"
 source_ids:
   - taylor-2026-oi-product-field-commission
   - taylor-2026-core-theorems-pithy
@@ -79,7 +79,3 @@ Situated existence becomes reflective when what happened in the material world c
 The return is not merely logging. A log may record resistance while leaving the governing assumptions untouched. Workcell completes its movement when material evidence can reach the office that can reinterpret the situation, change the plan, revise the capacity horizon or reconsider the purpose.
 
 Workcell therefore returns to [S — World and Life](S-World-and-Life.md) as Objective Internality’s aspect of **situated existence**. Central gives the ground carried into the situation; Actuation articulates events within it; AIKit gives the changing powers available there; Factory transforms through its resistances; QL relates this local here to the wider wholes in which it is nested.
-
-### Standing
-
-This body reconstitutes the authorised R2 philosophical office from the retained authorial minute, paired-lens reading and canonical A/C S4 constitution. It does not claim byte identity with the lost transfer. The independent R5 review must still test the full phenomenological, phenomenal, technical and ethical relations before T26 ratification.
