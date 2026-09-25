@@ -1422,3 +1422,68 @@ Restore complete bidirectional links to all Matheme/Mytheme/Episteme carriers du
 Restore exact paradox cases and criteria separating productive field transformation from contradiction tolerance or rhetorical mystery. R3/R4 must demonstrate the paradigm transformation in actual essay movements rather than leaving it as a concept-level gloss.
 
 **Depth Restoration: enriched; paradigmatic crisis relation added; exact source/route debts retained.**
+
+## submission-package/essay/symbolon/episteme/conjugate/A01-prime-Faithful-Definition-of-the-Agent.md
+
+### displaced block 1
+
+**Depth Restoration:** the faithful-definition law, the parallax/party distinction, self-report versus checkable ground, and the cage/window at agent grain are restored from A01, C01–C03 and Draft 3 against the brief's q010/q015/q023/q033; the Control-identity grounding (S0/P0) from the ratified primitive field. Attribution follows pass-1's verified set, retained unaltered.
+
+### displaced block 2
+
+**Unresolved Delta:** the interface forms through which a deployment publishes its determining assemblage, and the tests by which "named inside the account" becomes discriminable in a running system, remain Offered until implemented and varied per [[symbolon/episteme/concepts/C45-Operational-Parity|Operational Parity]]. The brief's scenarios remain scenarios and establish no empirical agent population.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A02-prime-Continuity-as-Maintained-Identification.md
+
+### displaced block 1
+
+**Depth Restoration:** identification-through-difference at session/window/prompt grain, name/instance/circumstance as deployment moments, the owned binding (S/P1) with its concrete performers, session-death read through the copula, and the visible/concealed maintenance fork are restored from A02, C06, C08, C12 and q016/q017/q032/q033, verified in pass 1 against the source house and the local transcription.
+
+### displaced block 2
+
+**Unresolved Delta:** the concrete binding mechanisms — deployment identity records, memory versioning, re-commissioning protocols — that would make visible maintenance operationally discriminable remain Offered until implemented per [[symbolon/episteme/concepts/C45-Operational-Parity|Operational Parity]].
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A03-prime-The-Limit-of-Self-Surfacing.md
+
+### displaced block 1
+
+**Depth Restoration:** the formal-limit/immutable-gap pair on chain-of-thought and interpretability, the glossary case with its paired caution and §8.5's converse weight, the ordered-process account versus the self-coincident transcript, and the recursive-law reading are restored from A03, C04/C05, C40/C43, A05, A26 and q015/q023/q032/q033, verified in pass 1 against the source house and the local transcription.
+
+### displaced block 2
+
+**Unresolved Delta:** what a *sufficiently* ordered account is for a given class of decision — the minimum observability per judgment type, C40's own remaining depth — remains Open, as it does there. No implemented interpretability regime is certified here; the brief's scenarios remain scenarios.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A04-prime-The-Mask-as-Document.md
+
+### displaced block 1
+
+**Depth Restoration:** diaphaneity's two-directional reading at the interface, the glove and one-sided translation as genealogy, the two failed transfers of authority, checkable documentation, and the alignment with q023's representational mandate are restored from A04, C08/C09, C58 and q006/q007/q008/q010/q015/q023, verified in pass 1 against the source house and the local transcription.
+
+### displaced block 2
+
+**Unresolved Delta:** the concrete interface forms that document their own mask — provenance-marked persona layers, expectation disclosures — remain Offered until implemented and varied per [[symbolon/episteme/concepts/C45-Operational-Parity|Operational Parity]]. The media history the mask documents belongs to media history with its own sources; the brief's compressed genealogy is venue framing, not that history.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A05-prime-Lights-Camera-Action.md
+
+### displaced block 1
+
+**Depth Restoration:** the triad at technological register, the inert-mirror contrast via Dyczkowski and q018, the three camera-work questions with the S2/P1·P3 face, the proof boundary carried through A03′, the two-mirror provenance separation, and the film-warning planted for A32′ are restored from A05, C13/C14/C43, A26, A32/C55 and q001/q015/q018, verified in pass 1 against the source house and the local transcription.
+
+### displaced block 2
+
+**Unresolved Delta:** which implemented systems actually instantiate the full computational-vimarśa loop — return that changes subsequent processing, per C43's own criterion — remains a research question; no cases are certified here. The film's completion conditions belong to A32′ and its sources; this page plants, and does not run, that argument.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A06-prime-Articulation-as-Ontological-Descent.md
+
+### displaced block 1
+
+**Depth Restoration:** Vāk's anti-label thesis at flipped-ratio scale, the three-level descent with code as running utterance, allolinguistic feedback as externalization-internalization, level-collapse as the simulation-meme's error, and the projection grounding are restored from A06, C51, A14 and q016/q036/q037, verified in pass 1 against the source house and the local transcription.
+
+### displaced block 2
+
+**Unresolved Delta:** the actual linguistic effects — whether and how agent speech recomposes human language and thought — are empirical questions the brief itself poses as open; no findings are claimed. The mapping between the Śaiva speech-levels and the technological levels is an operational homology at evidence register 3, not a doctrinal identification; passage-level verification of the levels of Vāk remains A06's own open debt, inherited, not discharged, here.
