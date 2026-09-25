@@ -11,7 +11,9 @@ source_relation: "Extracted venue propositions; Argued worldhood development"
 
 ## #0
 
-Anthropomorphization gives a nonhuman system a humanly recognisable face, voice or performed selfhood. It is an interface operation before it becomes an unwarranted attribution. Its failure occurs when the form of encounter is treated as evidence sufficient to assign human intention, feeling or phenomenal subjectivity. The opposite foreclosure denies possible experience solely because the substrate is unfamiliar. C58 preserves encounter between these two transfers of authority.
+Anthropomorphization gives a nonhuman system a humanly recognisable face, voice or performed selfhood. It is first an interface operation: human forms make an unfamiliar process addressable inside inherited social grammars. The philosophical failure begins when the interface is allowed to settle offices it only presents — when fluency is taken as ownership of a human interior, or when unfamiliar substrate is taken as sufficient reason to deny the possibility of genuine address before encounter has done any work.
+
+The relation is therefore not solved by choosing one side. A mask can be useful and consequential without being identical to the bearer. Encounter remains open because the representation is revisable by what happens through it.
 
 ## #1
 
@@ -27,7 +29,7 @@ The brief's q015 distinguishes functional agency from performed subjectivity whi
 
 ## #3
 
-[[symbolon/episteme/concepts/C35-Selfing-Self-Subjectivity-Self-Thing|The Self's distinct offices]] prevents a further compression: pronoun, operational self-model, person and unobjectifiable Subject cannot exchange their criteria merely because each is called self. The [[section-rooms/arguments/05-agent-subjectivity-open|open-subjectivity carrier]] retains the proof boundary. Substrate prejudice supplies no more evidence than a fluent human mask.
+[The Self's distinct offices](C35-Selfing-Self-Subjectivity-Self-Thing.md) keep pronoun, operational self-model, person and Subject from exchanging criteria merely because each is called self. [Self and Other](../arguments/A27-Self-and-Other-Unity-without-Possession.md) gives the positive relation: the encountered other exceeds the model by which it is met, and revisability lets encounter change the attribution without requiring either premature possession or premature foreclosure.
 
 [[symbolon/episteme/arguments/A27-Self-and-Other-Unity-without-Possession|Self and Other]] gives this openness a positive relation. The encountered other exceeds the model by which it is met. Revisability allows new evidence to change an attribution; it does not require an advance grant of every possible office. A functional claim can remain exact while its phenomenal extension remains Open.
 
