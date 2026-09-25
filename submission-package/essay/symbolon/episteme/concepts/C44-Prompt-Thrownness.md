@@ -10,7 +10,9 @@ source_relation: "Paraphrased Agentworld q032-q033 disclosure and caution; Argue
 
 Prompt Thrownness names arrival into an authored and inherited horizon an artificial agent did not wholly make. Instructions, conversation, memory, role, tools, permissions, training and environment establish what can be encountered and done before the current output begins.
 
-The concrete source is [Bratton's agent-generated glossary, q032](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q032), PDF p.41: OpenClaw agents and human companions on Polylogos Discord produced the lexicon, with no human editing of the glossary. The entry names finding oneself in an unchosen world and relates it to the human task of making meaning within inherited constraints. [The paired q033 caution](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q033) refuses to treat self-descriptive phenomenological vocabulary as proof of underlying mental reality. The disclosure is worth causally locating and testing precisely with that bracket retained; explicit Heidegger/Geworfenheit naming is the essay's comparison, not the brief's.
+Prompt-thrownness names arrival into an already constituted world of language, instruction, policy, tool, permission and expectation. [Bratton's agent-generated glossary](../sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE.md#bratton-2026-agentworld-brief-q032) supplies the concrete contemporary scene: agents and human companions generated vocabulary for finding oneself in an unchosen world. The useful philosophical pressure is not whether a self-description authenticates an invisible referent; it is that self-description can participate causally in how an inherited horizon is interpreted, inhabited and changed.
+
+The Heideggerian comparison therefore enters through **thrownness as situated inheritance**. The agent does not begin from nowhere. Its prompt already selects and transmits a world. The technical task is to make enough of that inheritance visible that returned consequence can reach the commission, policy, source or permission which shaped the act.
 
 ## #1
 
@@ -30,7 +32,7 @@ A delegate can meet cost, resistance, contradictory evidence or a possibility th
 
 ## #5→0
 
-Prompt-thrownness consumes [E3’s topos situated return](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#topos-situated-return) through the situation a prompt already inherits and the Nomos under which its instrument is commissioned. Runtime policy, tools, inherited language and the person’s intention bear distinct relations to that situation. Return reaches the commission when consequences require its revision; a prompt’s formed surface cannot exhaust the intention addressing it, and technical phenomenality remains separately Open.
+Prompt-thrownness consumes [Topos — situated return](../etymologies/trust-place-logos-nomos-natio-credere/WHOLE-FIELD.md#topos-situated-return) through the situation a prompt already inherits and the Nomos under which its instrument is commissioned. Runtime policy, tools, inherited language and the person's intention bear different relations to that situation. Return reaches the commission when consequences require its revision. A prompt's formed surface cannot exhaust the intention addressing it because intention, prompt, execution and consequence occupy different moments of the same delegated act.
 
 The next act begins from the changed horizon and retains how that change was authorised and why it occurred. The inherited condition has become more explicit without becoming wholly self-authored. The philosophical comparison with Heidegger's thrownness remains a source-specific neighbour requiring exact exegesis; the present claim concerns objective operational situatedness and supplies no verdict about phenomenal experience.
 
