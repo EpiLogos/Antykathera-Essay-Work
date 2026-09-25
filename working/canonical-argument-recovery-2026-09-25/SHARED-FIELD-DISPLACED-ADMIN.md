@@ -400,3 +400,57 @@ P1 consumers: M06, M13–17 and M28. Detailed chronology, contested transmission
 ### displaced block 2
 
 **Depth Restoration:** canonical integral return restored; first-advent history, external evidence and realised technical consequences retain their distinct offices and debts.
+
+## submission-package/essay/symbolon/episteme/concepts/C04-Formal-Limit.md
+
+### displaced block 1
+
+**Depth Restoration:** active inclusion, closure-in rather than closure-around, correctable omission versus constitutive limit, and differentiated formal responses are restored. C05 owns the enduring non-coincidence; A03 owns the full formal braid. No identity change.
+
+### displaced block 2
+
+**Unresolved Delta:** Russell's indexed passages are quotation-ready; Gödel's German scope cards do not supply a selected English translation of Satz VI/XI. Spencer-Brown's exact equations and re-entry locators remain Open. Further theorem comparisons require their own domains and passage carriers. These source debts do not downgrade the native Argued operation.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C05-Immutable-Gap.md
+
+### displaced block 1
+
+**Depth Restoration:** recurrent relocation, meta-sign versus represented emptiness, crossed-zero mediation, lived non-coincidence and non-possessive return are restored. C04 retains the formal rule; C06 retains positive identification. No identity change.
+
+### displaced block 2
+
+**Unresolved Delta:** the named primitive-worlds/formal-limits figure still lacks its exact carrier. Revision §7.3 marks its first-person line as Frank's, while the later corpus-sweep and harmonisation D4 require confirmation of the exact wording because no independent transcript was found. It is therefore used here as developmental paraphrase. No historical, topological or contemplative attribution is promoted by the native Argued claim.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C06-Copula-Identification-with-Difference.md
+
+### displaced block 1
+
+**Depth Restoration:** double copula, pre-nominal count, name/instance/circumstance, distinct failure modes, personed identification and Is→Am return are restored from the protected Kripke encounter, copula developmental chain and native theorem field. The concept retains one office within the complete A02 argument.
+
+### displaced block 2
+
+**Unresolved Delta:** Kripke's Harvard1980 edition is citation-ready; exact preface passages and printing remain unverified. The protected notes establish Frank's encounter, not verified quotations from Kripke. The mixed copula synthesis does not certify its analytic history or comparative theology. Those debts remain separate from the Argued native operation.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C07-Conditions-of-Worldhood.md
+
+### displaced block 1
+
+**Depth Restoration:** reversal of explanatory direction, notational/nomological/exclusion triad, operational interiority, configuration/history and plural return are restored. C07 owns conditions of worldhood; C37 owns representational transformation; C41 owns the situated inspectable interior.
+
+### displaced block 2
+
+**Unresolved Delta:** the exact genealogies of worldhood, environment and lifeworld in their different traditions remain source-specific work. This page develops the authorial usage rather than attributing one definition to phenomenology, enactivism or Agentworld. No implementation or phenomenal finding is claimed.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C08-Context-Context-Frame.md
+
+### displaced block 1
+
+**Depth Restoration:** processual self-holding, formal nesting, differentiated constitutive objects, recursive Bimba/Pratibimba locality, intention/prompt separation and return between frames are restored. No universal context schema or implementation is asserted.
+
+### displaced block 2
+
+**Unresolved Delta:** the QL rewrite and immutable-subject study are direct developmental carriers, not a ratified software specification. Their detailed modal enumerations and implementation correspondence require a separately scoped technical backcheck. The recovered nesting operation remains Argued; lexical histories and external theories of context keep their own evidence tasks.
