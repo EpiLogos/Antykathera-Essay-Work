@@ -36,16 +36,6 @@ Technical use must identify the office its evidence supports. A system can descr
 
 ### Declared field
 
-**Argument consumers:** A01–A02, A19–A21, A26–A27, A31, A34. **Movement consumers:** Subject, Jung/self, agent-subjectivity and idealism movements.
-
-**Etymology relation:** *Encounter / Region / Name / Count / Countenance / Account*; exact operation: a **Name/Account** of self does not exhaust the Countenance/subject encountered through it. Register **3**. Return C35 → C01/A01 → C40/A26 → C35.
-
-**Source/tradition standing:** Taylor's subject/self distinctions and Jungian Self material are primary; technical self-model discourse is application evidence, not phenomenality proof.
-
-### Provenance
-
-Native operations are governed by the [core theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md), [Symbolon Dynamics house](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md), and [Q27's Watson/Otherness correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md). [Watson](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and [Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) protected notes disclose Taylor's authorial encounter; their copied statements are leads until independently verified. [Aion](../sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md) remains citation-ready with no excerpts; historical Jungian terminology and the exact phrase tradition require their own locators. Mathematical carriers keep their specific operations and are not interchangeable proofs of the psychic or ethical claim.
-
 ### Remaining source depth
 
 Restore exact Jungian Self terminology, contemplative subject distinctions and technical self-model examples.
