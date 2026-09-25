@@ -19,9 +19,9 @@ The signs name **withdrawal and extension**, **reserve and issue**. Their relati
 
 ## #1 — The positive is the reserve's own issue
 
-The parent [−/−](the-slash.md) begins with two unassigned marks distinguished by their relation. Taylor's [Binary Explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md), File 1 §4, follows that relation into self-relation. The first mark is read as withdrawal: the side that withholds itself from determinate presentation. Across the slash, withdrawal occurs again, now as the act by which reserve gives itself a face. Negation's self-relation makes affirmation available.
+The parent [−/−](the-slash.md) begins with two unassigned marks distinguished by their relation. Read dynamically, the first mark is withdrawal: the side that withholds itself from determinate presentation. Across the slash, withdrawal occurs again as the act by which reserve gives itself a face. Negation's self-relation makes affirmation available. [Binary Explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) develops the full process.
 
-This is the derivational pressure behind `−/+`. The appearing face belongs to the reserve that issues it. The positive consequently carries its origin through the difference by which it appears. “The void voids itself” names this native operation: determination arises through the unmarked's own self-limitation. Its force is established in the relation before the familiar algebraic rule about double negation supplies a comparison.
+This is the derivational pressure behind `−/+`. The appearing face belongs to the reserve that issues it. The positive consequently carries its origin through the difference by which it appears. “The void voids itself” names the operation: determination arises through the unmarked's own self-limitation. The familiar algebraic rule about double negation is a later comparison with a movement already generated inside the relation.
 
 [0/1](0-1.md) grounds the conscious circumstance this relation articulates. Reserve cannot be inspected as a second appearance hidden behind the first. It is active in the capacity of the field to become determinate and to become otherwise.
 
