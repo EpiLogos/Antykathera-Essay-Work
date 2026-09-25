@@ -40,19 +40,3 @@ The written 0/1 becomes a local determination within the field in which it appea
 The local one remains real while returning to conditions it cannot own. A12 develops Mono/Poly from these prior offices; A13 develops the two logics of their differentiation; A18 carries the complete transverse field. Reversing that order would make Dia/Syn create the primordial terms upon which they operate. The returned form can change and act without claiming sourcehood.
 
 ### Declared field
-
-**Argument consumers:** A11–A13, A18, A34, A36. **Movement consumers:** Two Ones, Mono/Poly, Dia/Syn, eightfold and final zero movements.
-
-**Etymology relation:** *Symbol / Account / Trust*; exact operation: [the local mark remains an account answerable to a source-office it does not own](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#symbol-answers-to-source). Register **3**. Return C49 → A11 → C50/A13 → C61/A18 → C49.
-
-**Source/tradition standing:** Taylor's QL/Core Theorem corpus primary; formal number constructions and non-dual traditions are neighbours/warrants only.
-
-### Provenance
-
-Native derivation: [core theorem SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [full theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md); [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>); [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md). The [Draft3 SOURCE](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md) and [direct Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>) preserve the author's corrections and vocational return. The derivation does not turn mathematical, linguistic or historical neighbours into borrowed proofs.
-
-### Remaining depth
-
-Restore the complete theorem derivation and distinguish QL office notation from arithmetic semantics at every transition.
-
-**Depth Restoration: enriched; exact external attribution debts retained.**
