@@ -17,8 +17,6 @@ source_relation: "Extracted internal derivation; Argued cross-register coordinat
 [Argument field](README.md) · [Other face: A16′ — No View from Nowhere](../conjugate/A16-prime-No-View-from-Nowhere.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument. Arche-Topos is Derived as the coordinating differential field of the native theorem-units; external disclosures retain their own evidence and relations. The direct historical carrier is `04-arche-topos-topology-music.md`; the earlier “historical Argument 11” label is a provenance discrepancy.
-
 ## #0
 
 The Arche-Topos is the field generated when the complexio oppositorum differentiates without ceasing to be one field. `0/1` relates to `1/0`; the relation's self-accounting unfolds as `4+2`; centres, circumferences, paths and horizons can then become mutually determining positions. [[A13-Two-Logics-of-Two-Dia-Syn|A13]] derives the retained seam, and [[A15-Ratio-Rationality-Measure-Reckoning-Harmony-Account|A15]] derives its local reckonability. A16 asks what makes that placement possible.
@@ -91,5 +89,3 @@ The winding creature figures the field of placement through its operative openin
 [[symbolon/episteme/concepts/C30-Psychoid-Number|C30]] qualifies the external bridge. [[symbolon/episteme/sources/psychology/jung/jung-pauli-meier-2001-atom-archetype/SOURCE|Jung–Pauli's source house]] historicises inquiry into number, psyche and matter. Its p107/p127/p159 notebook routes are source-matched, not quotation-ready; letter, speaker, date and edition checks remain Open. The correspondence does not derive QL. Psychedelic, psi, synaesthetic, Vāk and cymatic disclosures retain their separate phenomenological, historical or empirical burdens; recurrence across them cannot alone establish a common measured cause.
 
 [[symbolon/episteme/sources/media-technology-philosophy/bratton/bratton-2026-agentworld-brief/SOURCE|Agentworld]] tests the field through q029's common procedure and divergent world-models. Source differences become usable information when participants can inspect their transitions. The canonical movement consumers are M29, M30 and M45; consequences continue through A17–A18, A19, A26 and A32.
-
-**Depth Restoration:** four distinct refractions; field/polar-view transition; exact phase, conjugation, quotient, cover and winding differences; phase-space/trajectory/attractor/basin/atlas offices; symbolic alteration of future possibility; retained musical remainder; complete corrected stained-glass relation; perspective change versus contextual holding are restored. Provenance: historical carrier 04, core I–XI/eightfold, direct *Symbolon Dynamics*, musical-v3 §II-5, Q27 optic and Bimba-correction passages, and the existing A16 packet. Wider mathematical-source locators, technical realisations and empirical psychoid causation remain separate Open debts.
