@@ -1487,3 +1487,80 @@ Restore exact paradox cases and criteria separating productive field transformat
 ### displaced block 2
 
 **Unresolved Delta:** the actual linguistic effects — whether and how agent speech recomposes human language and thought — are empirical questions the brief itself poses as open; no findings are claimed. The mapping between the Śaiva speech-levels and the technological levels is an operational homology at evidence register 3, not a doctrinal identification; passage-level verification of the levels of Vāk remains A06's own open debt, inherited, not discharged, here.
+
+## submission-package/essay/symbolon/episteme/conjugate/A07-prime-Purpose-That-Survives-the-Metric.md
+
+### displaced block 1
+
+**Depth Restoration:** saṃkalpa's indispensable gathering and the script-freeze on objective functions/RLHF/guardrails, the fragility warning as the criterion-versus-purpose gap, shadow/body from the observer's side, commission (S3/P2) as the keeper of purpose, co-evolutionary contact as commissioned direction, and the restoration of alternative-forming capacity are restored from A07, C12/C17, C44, A24/A31 and q015/q017/q030/q040, verified in pass 1 against the source house and the local transcription.
+
+### displaced block 2
+
+**Unresolved Delta:** concrete commission records — the recoverable entrustment artifacts an actual deployment would keep — remain Offered until implemented per [[symbolon/episteme/concepts/C45-Operational-Parity|Operational Parity]]. Whether any given alignment regime *is* script-like is an empirical judgment requiring direct evidence; this page supplies the structure, not the diagnosis.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A08-prime-Exclusion-That-Remembers.md
+
+### displaced block 1
+
+**Depth Restoration:** constitutive exclusion on the corridor's two failures, shadow/body as severance diagnosed, the scope grounding, the world/wall seam of the dream-meme, and the retained-alternatives return are restored from A08, C18/C23, C40/C45 and q029/q030 plus the §8.3–8.4 raw text, verified in pass 1 against the source house and the local transcription.
+
+### displaced block 2
+
+**Unresolved Delta:** implemented systems that retain materially constitutive negative fields — with what representations, at what cost, for which judgment classes — remain Offered until built and varied per [[symbolon/episteme/concepts/C45-Operational-Parity|Operational Parity]]. The corridor is the brief's scenario; whether any real ecology occupies it is an empirical question. The apoha scholarship's own debts remain A08's, not discharged here.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A09-prime-The-Stack-as-Descent.md
+
+### displaced block 1
+
+**Depth Restoration:** the tattvic descent on the five strata with offices held as operational homology, each stratum cross-housed with its Arc I argument (persona→A04′, skills→A08′, memory→A02′, drives→A07′, fabric→A05′), the sixfold ordering of the stack, §2.6's non-separability rider, amnesia-not-stratification, and enforceability via inspectability are restored from A09, C14–C16, A26 and q016/q017 plus the §2.6 raw text, verified in pass 1 against the source house and the local transcription; Dyczkowski's p.75 axes are cited source-distinct per its house.
+
+### displaced block 2
+
+**Unresolved Delta:** the stratum-to-tattva offices are an Offered cross-reading in exactly the sense A09's gnomon is — exact arithmetic, mapping not proven; here no gnomon is claimed, only the homology stated and bounded. Which live deployments actually expose their strata to the audit remains an implementation question, Offered until tested. The composite "associated milieu" of §2.6 crosses into Arc II's territory ([A14′ — Code as the Age's Logos](A14-prime-Code-as-the-Ages-Logos.md)'s ensemble) and is flagged there, not resolved here.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A10-prime-Uncounted-Enters-the-Account.md
+
+### displaced block 1
+
+**Standing:** conjugate argument-proposal; the prime face of [A10 — Advent of Zero](../arguments/A10-Advent-of-Zero.md). The advent discipline is the partner's argued operation re-sited at the demographic-cognitive register. The crossover instance is **Paraphrased** venue material under the brief's standing scenario modality. C-ground: S4/P5 — observed state, material evidence.
+
+### displaced block 2
+
+**Depth Restoration:** advent discipline (determination before settlement), the Count/Account operation at technological register, the double-advent structure from Taylor's manuscript, the brief's 1900 precedent, and the undercount theorem (q031) are restored. Pass 2 recomposes the prose from the argument outward; every brief attribution keeps its pass-1 verification against the source house and the local transcription.
+
+### displaced block 3
+
+**Unresolved Delta:** §1.1's demographic tilt and the 1900 reception history are the brief's scenario material and remain uncarded in the source house. The crossover's empirical shape ("obviously not evenly distributed") is asserted by the venue, not measured here; no labour-market or welfare outcome is established. The second-advent completion depends on A36′ and the root's promotion.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A11-prime-One-Field-Two-Faces.md
+
+### displaced block 1
+
+**Standing:** conjugate argument-proposal; the prime face of [A11 — The Two Ones](../arguments/A11-The-Two-Ones-0-One-1-All.md). The Two-Ones offices are the partner's argued derivation re-sited at the hybrid society. Brief material is **Paraphrased** and scenario-modal. C-ground: S/P0 — Self/Other situated positions.
+
+### displaced block 2
+
+**Depth Restoration:** the Two-Ones offices, reciprocal-dependency-in-different-respects, the corridor read as slash-not-collapse, the membership-not-identity inclusion, and the conjugate-field self-description are restored from the partner derivation, the Mono-Poly source field, and verified brief pages. Pass 2 grounds the self-description on charter ruling 1 and recomposes the prose from the argument outward.
+
+### displaced block 3
+
+**Unresolved Delta:** the p. 4 "two societies" passage and §9.2's failure-mode pair are uncarded in the source house (verified against the local transcription; q029 carries the corridor). The conjugate constitution is ratified by charter ruling 1 and acquires canonical standing with the root's promotion. No empirical claim about actual societal cohesion is made.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A12-prime-Against-Monoculture.md
+
+### displaced block 1
+
+**Standing:** conjugate argument-proposal; the prime face of [A12 — Mono/Poly](../arguments/A12-Mono-Poly-One-All-Whole-Many.md). The monopoly/monoculture derivation is the partner's argued operation re-sited against the agentworld's flattening pressures. Brief material is **Paraphrased** and scenario-modal. C-ground: S/P3 — inter-world relation, with the primitive registers in play.
+
+### displaced block 2
+
+**Depth Restoration:** exclusion-constitution of diversity, monopoly as source-office occupation, correlated-failure dynamics, commons/federation counterpart, the counterculture recurrence, and the corridor as retained relation are restored from the partner derivation and verified brief passages (q021, q027, q029, q039, q041; FROM → TO rows verified against the local transcription, p. 56). Pass 2 recomposes the prose from the argument outward.
+
+### displaced block 3
+
+**Unresolved Delta:** the FROM → TO matrix rows are uncarded in the source house. Whether specific deployed ecosystems exhibit the correlated-failure dynamic is an empirical question this page does not answer; the argument establishes the structural condition and the brief's own mechanism, not measured instances. Ostrom-sourced governance comparisons remain with the Commons concept.
