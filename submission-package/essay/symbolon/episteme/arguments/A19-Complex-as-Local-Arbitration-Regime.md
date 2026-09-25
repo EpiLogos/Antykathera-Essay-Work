@@ -13,8 +13,6 @@ source_relation: "Argued from authorial Symbolon Dynamics and Jungian developmen
 [Argument field](README.md) · [Other face: A19′ — The Local Regime](../conjugate/A19-prime-The-Local-Regime.md) · [Shared A/C root](../conjugate/AC.md)
 <!-- /paired-field-navigation -->
 
-**Standing:** canonical semantic Argument. The local-jurisdiction account is the essay's Argued psychological construction. Jung's exact complex/autonomy passages remain a distinct source task; no clinical diagnosis or technical attribution follows from the formal analogy.
-
 ## #0
 
 A complex orders a local psychic world before reflective judgment begins. Images, affects, memories, bodily responses and expectations have already gathered around a criterion: what counts as welcome or threat, what can be recalled, what deserves value, which responses are available. This is a real achievement of organisation. The same achievement becomes possession when its derivative jurisdiction claims to speak for the whole person or world.
@@ -72,5 +70,3 @@ The [complete Aion telling](../../mytheme/worlds/analytical-psychology/jung-aion
 The [Psychology development](../histories/traditions-and-disciplines/psychology/DEVELOPMENT.md) **qualifies** the local-regime comparison by distinguishing psychic fixation from institutional powers. Recognition can change a complex’s jurisdiction; a political return also requires the offices, coercive means and routes of challenge through which decisions acquire consequence.
 
 
-
-**Depth Restoration:** local selection/affect feedback, basin/boundary transformation, archetype–complex–image distinction, necessary arbitration, usurped office and nonannihilating return restored from the existing A19 packet, direct Symbolon Dynamics and Q27 §6, with protected Van Eenwyk encounter and whole Etymology/Aion relations. **Remaining debt:** exact Jung complex/autonomy and individuation passages, external clinical/dynamical specifications and implemented agent cases. P1 consumers M23/M27/M31 retain their separate Movement homes.
