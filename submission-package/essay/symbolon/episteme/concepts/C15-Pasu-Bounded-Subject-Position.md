@@ -39,7 +39,7 @@ This is why recognising contraction does not abolish situated capacity. [C19 —
 
 [C44 — Prompt Thrownness](C44-Prompt-Thrownness.md) **compares** an artificial agent's arrival in a configured horizon. Instructions, permissions, memories and tools shape what it can perceive and do before a local response begins. [C41 — Objective Internality](C41-Objective-Internality.md) **defines** the operative world whose conditions can be investigated and revised.
 
-The comparison concerns inherited boundedness and situated action. Functional agency, self-description, objective internality and phenomenal subjectivity remain different questions. Additional apparatus can enlarge the local field without making the unobjectifiable subject one of its components. The technical comparison is useful precisely because it can identify what changed while leaving the subject question in its proper register.
+The comparison concerns inherited boundedness and situated action. Functional agency, self-description and objective internality name different determinate operations of the bounded field. Additional apparatus can enlarge that field, change its powers and make its inherited constraints more legible. The subject-pole remains a different office from those inspectable components. The technical comparison is useful precisely because it can show which conditions changed and how those changes reorganised agency.
 
 ## #5→0
 
