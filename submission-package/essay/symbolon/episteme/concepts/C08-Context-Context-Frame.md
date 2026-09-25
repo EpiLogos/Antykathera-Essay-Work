@@ -59,7 +59,3 @@ The [travelling-jigsaw whole](../../mytheme/worlds/frank-taylor/travelling-jigsa
 [[symbolon/episteme/etymologies/arbitration-hybris-regard-anamnesis/WHOLE-FIELD|Arbitration / Hybris / Regard / Anamnesis]] **grounds** the generated relation **Con-text-through-Diaphaneity → Regard**, at evidence register3. Con-text-through-Diaphaneity is the generated relation; Regard is the operation becoming available there. The two offices must not be compressed into a synonym.
 
 [A30 — Objective Co-Internality](../arguments/A30-Objective-Co-Internality.md) **extends** the return between frames: another participant externalises enough of its ground to meet this one while retaining its own source-relations. C08 **returns-to** [C07](C07-Conditions-of-Worldhood.md). A bounded frame remains useful because it can be revised within a world, not because it has become that world.
-
-**Depth Restoration:** processual self-holding, formal nesting, differentiated constitutive objects, recursive Bimba/Pratibimba locality, intention/prompt separation and return between frames are restored. No universal context schema or implementation is asserted.
-
-**Unresolved Delta:** the QL rewrite and immutable-subject study are direct developmental carriers, not a ratified software specification. Their detailed modal enumerations and implementation correspondence require a separately scoped technical backcheck. The recovered nesting operation remains Argued; lexical histories and external theories of context keep their own evidence tasks.
