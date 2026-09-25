@@ -42,5 +42,3 @@ The essay's two-logics reading retains a common field in which differences can m
 ## #5→0
 
 [[symbolon/episteme/concepts/C47-Deferential-Intelligence|Deferential Intelligence]] returns attribution to evidence and encounter. The [[symbolon/episteme/etymologies/encounter-region-name-count/WHOLE-FIELD|Encounter / Name / Countenance field]] supplies the register-3 operation: an inherited Name/Account must remain answerable to Countenance instead of predetermining everything that can appear.
-
-**Consumers:** A27, A31, A33–A34 and their open-subjectivity, prompt/Agentworld and idealism movements. **Depth Restoration:** contingent interface, inherited translation, glove metaphor, separable memory/selfhood claims and reciprocal revision restored from direct carriers and source-controlled brief passages. Concrete utterances here are analytic cases, not fabricated observations. Consciousness evidence and the brief's projected social outcomes remain Open; no empirical verdict is smuggled through either resemblance or substrate.
