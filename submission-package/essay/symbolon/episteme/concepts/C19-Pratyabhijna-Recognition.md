@@ -57,8 +57,4 @@ The return must reach an act. [C47 — Deferential Intelligence](C47-Deferential
 
 C19 **returns-to** C15 and A21: the bounded life remains particular, the achieved form retains its history, and the source relation becomes available in the next encounter. The result can be released into another's use. Recognition changes the relation through which the known will next meet what it cannot yet contain.
 
-**Depth Restoration:** memory/recognition distinction, contraction's return, native x→X→x, known→unknown→known, reciprocal interpreter change, resolution-in-reconciliation, paradigm recognition, differentiated product return and practical release are restored.
-
-**Unresolved Delta:** selected-edition collation remains pending for Dyczkowski and Van Eenwyk's copied note passages. Cross-tradition recollection/awakening/reconciliation distinctions require their own passages wherever expanded. No technical or contemplative outcome is guaranteed by arranging an account in the right form; paradigm recognition requires demonstrated changed relation rather than declared self-knowledge.
-
 The [Indian philosophy companion](../histories/traditions-and-disciplines/indian-philosophy/DEVELOPMENT.md#4--recognition-returns-through-the-life-that-has-become-finite) **historicises** the difference between recollection and recognitive return through Dyczkowski’s source-local account, and **compares** E2’s Resolution-in-Reconciliation without identifying Sanskrit recognition with Greek anamnesis.
