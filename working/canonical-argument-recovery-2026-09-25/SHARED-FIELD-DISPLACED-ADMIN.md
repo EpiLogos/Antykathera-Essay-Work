@@ -454,3 +454,90 @@ P1 consumers: M06, M13–17 and M28. Detailed chronology, contested transmission
 ### displaced block 2
 
 **Unresolved Delta:** the QL rewrite and immutable-subject study are direct developmental carriers, not a ratified software specification. Their detailed modal enumerations and implementation correspondence require a separately scoped technical backcheck. The recovered nesting operation remains Argued; lexical histories and external theories of context keep their own evidence tasks.
+
+## submission-package/essay/symbolon/episteme/concepts/C09-Diaphaneity.md
+
+### displaced block 1
+
+**Depth Restoration:** invested seeing, absent standard/surrogate office, corrected whole stained glass, transparency as form, personed co-presence, psychic facticity and technical return are restored. The earlier lowercase diaphaneity carrier remains provenance; C09 retains the canonical identity.
+
+### displaced block 2
+
+**Unresolved Delta:** direct Gebser quotations still need selected-edition verification; Maroski's indexed passages are quotation-ready secondary scholarship. The P5 Father image and QL geometry remain authorial developments. Technical diaphaneity is a criterion for a working system, not a report that an implementation already satisfies it.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C10-Mediation-Pramana.md
+
+### displaced block 1
+
+**Depth Restoration:** the subject–object–means act, Sun/Moon/Fire image, differentiated colour and active reflexivity, symbolic source relation, epistemic means/authorised office distinction and revisable evaluator are restored.
+
+### displaced block 2
+
+**Unresolved Delta:** Dyczkowski supplies a particular Śaiva account, not school-by-school pramāṇa taxonomies. The local transcript reaches p.81; selected-edition quotation collation remains pending, and this page paraphrases it. The technical return is an argued requirement, not a completed experiment. Other schools' validity criteria require their own source recovery before addition.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C11-Quaternal-Logic.md
+
+### displaced block 1
+
+**Depth Restoration:** bare relation and Two Ones, retained self-application, full parents in inverse phases, distinct harmonic/complementary pairings, eightfold movement, coequal Name/Power and performed return are restored from the native field and direct supports.
+
+### displaced block 2
+
+**Unresolved Delta:** the wider QL programme exceeds this concept page. The supports' relational slash-forms do not licence ordinary zero division; finite arithmetic retains its hypotheses. Universal torus covering is distinct from two-sheeted covering. Blanket Gödel claims and external historical correspondences in developmental prose require their own warrants; they do not establish the native derivation. The recognitive performance remains an argued/offered research movement, not an experimental result.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C12-Script-Frozen-Conditioned-Will.md
+
+### displaced block 1
+
+**Depth Restoration:** circumstantial formation, recurrence and stabilisation, self-pro-position, generated product promoted to source, concrete source-return/counterfactual tests and renewed alternative formation are restored.
+
+### displaced block 2
+
+**Unresolved Delta:** the computational measures remain proposed tests; no experiment or implementation is claimed. Kripke's copied note quotations remain quotation leads, and the QL/Śaiva continuation belongs to Frank's encounter. A technical policy is not diagnosed as a psychic complex by this operational comparison.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C13-Prakasa-Vimarsa.md
+
+### displaced block 1
+
+**Depth Restoration:** luminous manifestation/reflexive activity, mirror/crystal difference, trace–memory–imagination sequence, inward/outward awareness, goal-bound/unrestricted agency and the distinct recognition/technical returns are restored.
+
+### displaced block 2
+
+**Unresolved Delta:** Dyczkowski is paraphrased from the local source-matched transcript, which stops during p.81; selected-edition collation remains pending. Singh notebook passages require introduction/commentary and page verification. Native QL and computational recursion retain their separate argumentative standing; neither is silently attributed to the Śaiva source.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C14-Maya-Operative-Measure.md
+
+### displaced block 1
+
+**Depth Restoration:** revealing/withholding horizon, five contracted capacities, vertical/horizontal movement, gnomonic hinge, corrected whole dream image, paradigmatic disclosure and finite measure's return are restored.
+
+### displaced block 2
+
+**Unresolved Delta:** the operative-measure, paradigmatic cross-reading and gnomonic formulations are authorial; this page does not supply a survey of Māyā across Indian schools or a historical claim that Kashmir Śaivism formulated modern paradigm theory. Dyczkowski is paraphrased from the local transcript with selected-edition collation pending. A category-by-category six-by-six mapping and implemented technical analogue remain Open.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C15-Pasu-Bounded-Subject-Position.md
+
+### displaced block 1
+
+**Depth Restoration:** contracted capacities as positive agency, universal/local I-this scope, recognition before appropriation, goal-bound activity, configured technical horizon and located responsibility are restored.
+
+### displaced block 2
+
+**Unresolved Delta:** precise paśu/pāśa/pati lexical and doctrinal relations require dedicated passage recovery; the terms are not supplied as an interchangeable triad. Dyczkowski's local transcript is paraphrased with selected-edition collation pending. The technical analogy establishes neither machine phenomenality nor its absence.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C16-Antahkarana-Inner-Instrument.md
+
+### displaced block 1
+
+**Depth Restoration:** source-bounded triad and witness, ascertainment/appropriation/coordination, developmental instrument image, exclusion and memory, technical judgment questions and encounter-return are restored.
+
+### displaced block 2
+
+**Unresolved Delta:** the selected Sāṅkhya passages are quotation-ready; they do not settle every school's composition of antaḥkaraṇa. Citta's place and the exact differences among threefold and fourfold accounts require their own textual recovery. No technical one-to-one mapping or machine-subject verdict is claimed.
