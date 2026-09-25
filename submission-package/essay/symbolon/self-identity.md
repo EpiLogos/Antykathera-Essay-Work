@@ -20,7 +20,7 @@ Self-Identity names the capacity to differentiate from itself while remaining it
 
 ## #1 — To, for, as, with
 
-The four prepositions in the author's [Self-Identity development](../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/self-identity.md) give self-relation four distinct modalities. This copied native resource sources their direct development; the central plan's twelvefold amendment ratifies the root's present office.
+Self-relation unfolds through four prepositions—**to, for, as, with**—each changing what identity is doing. The [Self-Identity development](../../../working/sources-texts-references/epi-logos-plugin-resources-copy-10-07/resources/updated-ql-mef/self-identity.md) carries their complete derivation.
 
 **Identical to itself** gives the reflexive relation: identity becomes expressible across two appearances. **Identical for itself** gives that relation a direction: the source gives itself to itself through expression. Self-gift is the purposive dimension of manifestation in the native account. **Identical as itself** follows the gift into its determinate face: the one appears as many, with each expression actually distinct. **Identical with itself** carries the accompaniment that persists through those distinctions. The source remains implicated in its expression.
 
@@ -28,7 +28,7 @@ These modalities build upon one another. Reflexivity permits self-disclosure; di
 
 ## #2 — Identity takes its own difference into account
 
-The [Binary Explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md), File 1 §§1–2, develops the copula from the minimal marks. Two parallel strokes write `=`. Crossing them with `/` writes `≠`. The difference-sign is thus composed of equality under cut. The graphical construction makes visible the native relation: identity needs the difference through which it can be asserted, while difference has to remain recognisable as a difference.
+The [Binary Explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) develops the copula from the minimal marks. Two parallel strokes write `=`. Crossing them with `/` writes `≠`. The difference-sign is thus composed of equality under cut. The graphical construction makes the relation visible: identity needs the difference through which it can be asserted, while difference has to remain recognisable as a difference.
 
 The expanded expression is:
 
@@ -42,7 +42,7 @@ The [definition register](matheme/definition/README.md) extends these worked ste
 
 ## #3 — The two includes its relation to itself
 
-[0/1](0-1.md) grounds the native pair: singular One and polyvalent All, conscious circumstance and determinate articulation, held through the differentiating slash. To account for that pair as self-relating, QL retains the original two and opens the four ordered pairings through which two terms can relate to themselves:
+[0/1](0-1.md) gives the pair its first determinate face: singular One and polyvalent All, conscious circumstance and determinate articulation, held through the differentiating slash. To account for that pair as self-relating, QL retains the original two and opens the four ordered pairings through which two terms can relate to themselves:
 
 $$
 (0,0),\quad(0,1),\quad(1,0),\quad(1,1).
@@ -60,9 +60,9 @@ The four are not four further substances. They account for the internal relation
 
 ## #4 — The inversion can be recognised
 
-Manifestation gives the source a form through which it becomes available. Recognition turns through that form towards its source. The native development calls this the **inversion of inversion**: the first turn differentiates, the second recognises that differentiation as the source's own activity. Their relation retains the journey. Recognition does not require the achieved expression to disappear.
+Manifestation gives the source a form through which it becomes available. Recognition turns through that form towards its source. This is the **inversion of inversion**: the first turn differentiates, the second recognises that differentiation as the source's own activity. Their relation retains the journey. Recognition does not require the achieved expression to disappear.
 
-The native development unfolds this generative root through **(No)Name and Power**. The ontological Day arc gives the movement from Truth to Image of Truth; the social Power arc gives the movement from Play to Work. Naming and exercising power are the two faces through which Self-Identity takes form: a name expresses what a being is, and its exercise changes the conditions under which that identity is lived. Their unity is the Power of the Name and the Names of Power. This is the root's parenthood made determinate, the same generative relation able to be read as what is named and as what its naming does.
+The same generative root unfolds through **(No)Name and Power**. The ontological Day arc gives the movement from Truth to Image of Truth; the social Power arc gives the movement from Play to Work. Naming and exercising power are the two faces through which Self-Identity takes form: a name expresses what a being is, and its exercise changes the conditions under which that identity is lived. Their unity is the Power of the Name and the Names of Power. This is the root's parenthood made determinate, the same generative relation able to be read as what is named and as what its naming does.
 
 [AM/IS](AM-IS.md) embodies the personed turn. A statement about the self becomes an identification undertaken from within. The person can recognise the description as theirs without making the description the owner of the act recognising it. [Subject-logics](subject-logics.md) extends the difference between an apparent subject produced by the inner instrument and the subject-position to which that instrument appears.
 
