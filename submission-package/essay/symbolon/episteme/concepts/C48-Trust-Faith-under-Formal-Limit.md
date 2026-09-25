@@ -39,19 +39,3 @@ Reliance returns through encounter and can be investigated, corrected, withdrawn
 [the Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-account-answerability) **figures** assurances whose working conditions remain withheld from the person asked to rely on them. Arrival's escape route returns Six to confinement; an electoral mandate later fails to give his command operative force. Trust therefore requires an answerable undertaking, not simply another account promising freedom. The possibility of refusing the offered relation belongs to this return where assurance itself administers capture.
 
 ### Declared field
-
-**Argument consumers:** A01, A23–A25, A27, A31, A35. **Movement consumers:** trust/faith, covenant, Other and final vocation movements.
-
-**Etymology relation:** *Fides / Topos / Logos / Nomos / Natio / Credere* and *Symbol / Account / Trust*; exact operation: historically attested faith/trust/entrusting senses are register **2**, while the formal-limit structure is register **3**. What changes: trust becomes disciplined dependence rather than anti-rational belief. Return C48 → A23 → C28/A25 → C47/A31.
-
-**Source/tradition standing:** live `18-trust-faith-formal-limit.md` and authorial formal-limit work primary; theological, legal and epistemic trust traditions remain source-distinct.
-
-### Provenance
-
-Direct carriers: [Deferential Intelligence](../../../section-rooms/arguments/08-deferential-intelligence.md), [Trust and formal limit](../../../section-rooms/arguments/18-trust-faith-formal-limit.md), [trust revision](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md), [Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>), [compassion's authorial formulation](compassion-as-sensitivity-to-origins.md), and [Q27's root-trust and encounter corrections](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md). [Watson SOURCE](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and protected notes preserve the authorial encounter; its Gans/Levinas quotations retain nested-source and selected-edition debts. Proposed comparisons are not reported as executed experiments. Particular philosophical, theological and institutional histories retain their own source tasks.
-
-### Remaining depth
-
-Restore fides/credere philology and distinguish theological faith, testimony, confidence, reliance and institutional trust.
-
-**Depth Restoration: enriched; experimental/historical debts retained.**
