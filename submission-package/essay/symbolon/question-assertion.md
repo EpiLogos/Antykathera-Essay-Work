@@ -21,7 +21,7 @@ source_relation: "Extracted internal derivation; Argued philosophical developmen
 
 `?` names openness to determination. `!` names the act of asserting enough for a determination to stand. The slash holds them in one operation: the question has asserted a provisional *this*, and an assertion carries the question whether it has said truly what this is. Each makes the other's work possible. Without something provisionally distinguished, the question has nothing to ask about; without answerability, the assertion's force would supply its own criterion.
 
-Taylor's [Binary Explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md), File 1 §5, sources this derivation through the line “What allows for an essence is essentially inessential.” The enabling condition cannot simply be another essence alongside the one being defined: that would place a further object where the question concerns what enables objectification. The line performs its distinction by giving a definite answer whose content prevents that answer from claiming the enabling office for itself.
+“What allows for an essence is essentially inessential.” The line states the turn precisely. The condition that lets an essence be determined cannot simply be another essence alongside the one being defined; another object would repeat the question at the level of what enables objectification. The answer therefore becomes faithful by making its own enabling limit part of what it says. [Binary Explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) carries the full derivation.
 
 Definition therefore makes a real commitment. It selects a name or account under which the appearance can be recognised again. Its precision lies partly in retaining what would make that selection answerable. [A01, Faithful Definition](episteme/arguments/A01-Subject-God-and-Faithful-Definition.md), derives the longer movement in which an account succeeds through making its failure of final enclosure active in what it says.
 
@@ -35,7 +35,7 @@ A claim cannot retain this relation merely by decorating itself with doubt. The 
 
 ## #3 — Four ways the account meets its condition
 
-File 1's Catuṣkoṭi crossing tests the relation with the proposition **0 is and/or is not equal to 1**. Its terms have already been earned: `0` marks the unobjectifiable fact of awareness, `1` the appearing determination. The crossing belongs here as Taylor's native use of the four corners and their return.
+File 1's Catuṣkoṭi crossing tests the relation with the proposition **0 is and/or is not equal to 1**. Its terms have already been earned: `0` marks the unobjectifiable fact of awareness, `1` the appearing determination. The crossing belongs here because each corner tests what an answer can and cannot close while remaining inside the same act of predication.
 
 **IS** affirms that the appearing belongs to awareness. The phenomenon is given in the very event of knowing it. Taken as exhaustive identity, however, that affirmation loses the distinction through which something can appear.
 
@@ -51,7 +51,7 @@ The four corners preserve their determinate work through this crossing. The shif
 
 `?/!` also appears at **#3 in the processual slash-form table**, where the inverse `1/0` meets incomputability. This is a second placement in a different reading. The qualitative determination at #1 names questioning-and-asserting; the processual #3 localises the limit that makes the achieved account turn back upon its condition. Keeping both placements lets the same sign conduct their relation without exchanging their offices.
 
-Ordinary arithmetic supplies an exact boundary: division by zero has no value in the ordinary field operations. QL uses that boundary to articulate the return of the determined towards what determination presupposes. The [core-theorems spine](episteme/sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), §II(b–c), sources these two placements. Its formal-limit comparisons do not turn every inquiry into an instance of a mathematical incompleteness theorem. [A03](episteme/arguments/A03-Immutable-Gap-Formal-Limit.md) qualifies that passage by distinguishing the constraint within a formal operation from the recurrent non-coincidence of a determination and its determining condition.
+Ordinary arithmetic supplies the exact pressure: division by zero has no value in the ordinary field operations. In the QL traversal, the inverse 1/0 is therefore where the achieved determination cannot close by assigning a further value to its own ground. The question reappears at the point of formal failure because the account has reached the condition it cannot make one more result. [Immutable Gap / Formal Limit](episteme/arguments/A03-Immutable-Gap-Formal-Limit.md) develops the same non-coincidence at argument scale.
 
 This is why an answer can remain exact while opening another question. What it has successfully determined becomes available for further thought; the act by which it has become available remains implicated in that thought. Answerability belongs to successful determination as well as to its correction.
 
