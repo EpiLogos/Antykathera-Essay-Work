@@ -45,19 +45,3 @@ A35 gives the practice its motive: loving sensitivity to origins. Eros moves the
 The practical difference between **adaptation** and **cultivation** is now explicit. Adaptation can improve performance under an unchanged paradigm. Cultivation can include such improvement but also keeps the pattern of knowing open to warranted revision. A system which optimises indefinitely against one hidden measure may adapt brilliantly while becoming epistemically barren. A cultivated paradigm preserves the ability to discover that its measure was part of the problem.
 
 ### Declared field
-
-**Argument consumers:** A31, A33, A35. **Product consumers:** S0–S5 as one cultivated Objective Internality. **Movement consumers:** MEF, agent evaluation, six-product §5 and final vocation movements.
-
-**Etymology relation:** *Arbitration / Hybris / Regard / Anamnesis*; consumed operation: **Regard** makes contextual determinants visible and **Anamnesis/Return** re-situates the achieved judgment. Register **3**. Return C46 → A33 → C47/A31 → C41/C51 → C56/A35.
-
-**Source/tradition standing:** authorial MEF/technical work primary; epistemology, pedagogy and cultivation traditions are comparative.
-
-### Provenance
-
-Direct carriers: [Deferential Intelligence](../../../section-rooms/arguments/08-deferential-intelligence.md), [Trust and formal limit](../../../section-rooms/arguments/18-trust-faith-formal-limit.md), [trust revision](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md), [Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>), [compassion's authorial formulation](compassion-as-sensitivity-to-origins.md), and [Q27's root-trust and encounter corrections](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md). [Watson SOURCE](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and protected notes preserve the authorial encounter; its Gans/Levinas quotations retain nested-source and selected-edition debts. The September 15 [paradigm / Epi-Logos minute](../../../../../working/pre-manuscript-refinement-2026-09-10/R3-PARADIGM-EPILOGOS-MINUTE.md) supplies the later paradigm-level articulation. Proposed comparisons are not reported as executed experiments. Particular philosophical, theological and institutional histories retain their own source tasks.
-
-### Remaining depth
-
-Restore actual experimental loops and standards for epistemic revision, including versioning and disagreement retention. Distinguish adaptation under a fixed paradigm from cultivation that can revise the paradigm's own mediating conditions.
-
-**Depth Restoration: enriched; paradigm-cultivation office restored; experimental/historical debts retained.**
