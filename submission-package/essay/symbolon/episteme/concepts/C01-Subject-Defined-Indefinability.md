@@ -62,7 +62,7 @@ The second person makes the consequence unavoidable. I can know things about you
 
 This carries ontological force. The essay argues the order **Subject → objective internality → object**: a determinable world is available through the field of appearing, not through a private ego manufacturing everything it encounters. [[symbolon/episteme/arguments/A34-Idealism-Order-of-Dependence|A34 — Idealism / Order of Dependence]] **extends** that position while distinguishing the directions and registers of dependence. Defined indefinability supplies its subject-pole; it does not collapse the ontological argument into the weaker observation that descriptions are incomplete.
 
-An artificial system's memory, self-model, report or internal organisation can be richly determinate. No accumulation of those objects by itself establishes an unobjectifiable subject-pole. Equally, their objectifiability does not prove its absence. The exact phenomenal status and partition of a particular artificial process remain **Open**. This local empirical question neither settles nor suspends the essay's **Argued** order of dependence.
+Memory, self-model, report and internal organisation are all determinate contents and operations. Their technical inspectability is philosophically useful because it makes the mediating field increasingly explicit. The concept's stronger claim is categorical: no accumulation of determinate objects converts those objects into the unobjectifiable subject-pole to which determination is present. This is not a machine exception. It is what defined indefinability means wherever first-person appearing is at issue.
 
 ## #5→0
 
