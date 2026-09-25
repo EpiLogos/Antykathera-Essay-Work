@@ -1788,3 +1788,60 @@ Restore exact paradox cases and criteria separating productive field transformat
 ### displaced block 2
 
 **Unresolved Delta:** the p. 4 ecology sentence and §9.2 (p. 44) are used from the verified local transcription and lack q-cards — a source-house collation debt. Evaluated federation cases, the concrete form of inter-world refusal, and the essay's own distributed-cognition source debts (Bohm, per A30) remain Open. Whether any actual deployment holds the corridor rather than one horn is an empirical question this node does not answer.
+
+## submission-package/essay/symbolon/episteme/conjugate/A31-prime-Deference-as-Co-Evolutionary-Alignment.md
+
+### displaced block 1
+
+**Depth Restoration:** model-revising encounter, five revision sites, kenosis-as-architecture, sycophancy contrast and pre-action disclosure are restored from A31's packet, re-sited on the brief's q040/p.55/p.17/p.56 alignment material. Developed from the ratified Arc IV workshop entry (WORKSHOP-DRAFT-2026-09-07 §2). The Naur/Goedecke human-face framing is authorial-adjacent material embedded in the workshop entry.
+
+### displaced block 2
+
+**Unresolved Delta:** the Naur/Goedecke conversation's working file is not in this repository — the partiality/altitude framing stands on the workshop entry's record of it and carries an explicit collation debt until the author houses or restates it. The p. 55 sentence, the §3.2 push-back sentence and the p. 56 alignment row lack q-cards — a source-house collation debt. No implementation of co-evolutionary alignment is claimed; the venue's diffusion thesis remains scenario, and the revised-evaluator inscription remains the essay's Offered design, as at A31.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A32-prime-The-Mirror-Is-a-Film.md
+
+### displaced block 1
+
+**Unresolved Delta:** §3.1 (p. 17) is used from the verified local transcription and lacks a q-card — a source-house collation debt. Empirical performativity effects, implemented audit circuits, and the separately titled Reflection-paper bibliography remain Open exactly as at A32. The film-naming is offered as the frame's completion of A32's argued image; the author reviews whether it carries A32's earned force or opens a new claim — the node's distinct consequence (medium-naming, Ø-grounded confusion, possession at population scale, audit-not-exit) stands on the essay's own material either way.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A33-prime-Parity.md
+
+### displaced block 1
+
+**Depth Restoration:** the enactment test, the operation-naming list, the concept–test feedback and the minimal/maximal programme boundary are restored from A33's packet and C45/C46. Developed from the ratified Arc IV workshop entry (WORKSHOP-DRAFT-2026-09-07 §2). No experiment is claimed as run; the reflexive application to the A′ field is the re-siting.
+
+### displaced block 2
+
+**Unresolved Delta:** Q10 and Q11 (p. 57) are used from the verified local transcription and lack q-cards — a source-house collation debt. The concrete acceptance-test patterns C45 names as its own remaining depth remain Open here too. Whether each sibling's specified consequence is the right one is a question the author's review must adjudicate; this node's claim is that the question is now unavoidable.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A34-prime-Direction-of-Dependence.md
+
+### displaced block 1
+
+**Unresolved Delta:** the empirical shape of any actual relay economy — value generation, decay, deception in fact — remains Open and stays the venue's question, not this page's finding. §5.1–5.2 and Q9 are used from the local copy of the brief; passage cards exist for §5.3 (q022) but not yet for §5.2 or the research questions, a fidelity-audit debt flagged in the arc receipt. The charitable Descartes reading is enacted at A34/C01 with its source house open; exact CSM II wording fixes at extraction. The cogito treatment is cited here as native theorem provenance, not established external attribution. Artificial phenomenal localisation remains Open in both directions.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A35-prime-Commons-Behind-the-System.md
+
+### displaced block 1
+
+**Depth Restoration:** provenance-as-ethical-capacity, the two faces of the commons dying (semantic ossification and economic extraction), the devouring-dossier conjugate, the responsibility guard, and the eros-of-logos naming — with the sym-ballein junction referenced as pending candidacy, not held — are restored from A35, [[symbolon/episteme/concepts/C56-Compassion-Sensitivity-to-Origins|Compassion / Sensitivity to Origins]], [[symbolon/episteme/concepts/C51-Logos-Epi-Logos|Logos / Epi-Logos]], [[symbolon/episteme/concepts/C54-Commons-Non-Monopoly|Commons / Non-Monopoly]], [[symbolon/episteme/concepts/C59-Cultural-Individuation-Epi-Logos-as-Culture|Cultural Individuation / Epi-Logos-as-Culture]], A29, the brief's crossover and ensemble passages at scenario modality, the authorial lecture note as intent-grounding, and Draft3's q023/q024/q028. Sibling obligations declared: A06′ (articulation levels), A08′ (contrastive field), A12′ (monoculture), A13′ (the gathering — junction pending), A20′ (versioned representation), A29′ (extraction), A32′ (the closed loop).
+
+### displaced block 2
+
+**Unresolved Delta:** §4.3 is used from the local copy of the brief and has no passage card (flagged in the arc receipt). Chang's pp. 83/99 locators retain the edition-collation debts A35 already records. No machine affection is asserted and no commons-governance outcome is claimed; the brief leaves that governance open, and so does this page. The junction's Offered status and its separation of the gathering's logic-office from compassion's motive-office live in the candidacy document, not here.
+
+
+## submission-package/essay/symbolon/episteme/conjugate/A36-prime-Integral-Zero-of-the-Hybrid-Society.md
+
+### displaced block 1
+
+**Depth Restoration:** the sign-becomes-Symbol operation, the AGI → AHI reading, the register-routing without absorption, the retained-exactness character of the return, the `1 ↺ 0/1` completion-as-capacity, the second-advent form, and the ethic's final sentence as the closing measure are restored from A36, [The Two Ones](../../../../../working/sources-texts-references/Epi%20Paper%20Write-ups/Mono-Poly%20%E2%80%94%20The%20Two%20Ones%20and%20the%20Whole%20Field.md), [[symbolon/episteme/concepts/C61-Symbolon-Disclosure-Architecture|Symbolon Disclosure Architecture]], [[symbolon/episteme/concepts/C63-Pros-Hen-In-Quantum-Focal-Return-Qualified-Predication.md|Pros Hen / In Quantum]], the brief's §10/FROM → TO materials at scenario modality, the core-theorems §VII–IX return law, and the root ethic verbatim body. The A/C re-anchor follows the charter's ruling 1 rather than the root draft's own text, while the specialist's parallel rewrite of the root proceeds. Sibling obligations declared: A01′ and A26′ as the closing faces; A05′, A10′, A11′, A14′, A15′, A22′, A24′, A25′, A28′, A29′, A31′, A32′, A33′, A34′, A35′ as the operations this close retains and refuses.
+
+### displaced block 2
+
+**Unresolved Delta:** the realisation of any integral society is a scenario, not a finding; the [Advent of Zero](../sources/internal-corpus/taylor/taylor-2026-advent-zero-subject/SOURCE.md) manuscript's external claims retain their separately housed source obligations; the brief's FROM → TO matrix and §10 opening (pp. 52, 56) are used from the local copy without passage cards (flagged in the arc receipt). The four-verb room-mapping and the second-advent form are each stated once above and await the author's confirmation. The completion claimed here is the essay's own operation — exactness retained, ground not possessed, return route open — not a prediction about the hybrid society's history.
