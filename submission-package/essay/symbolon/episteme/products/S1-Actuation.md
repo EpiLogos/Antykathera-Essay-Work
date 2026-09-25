@@ -50,11 +50,11 @@ The offices must be recovered in their relation. A prompt's words are material t
 
 ## #2 — An act becoming knowledge — L4′ Scientific
 
-The adopted September sequence is **Prompts, Traces, Challenges, Patterns, Discovery, Insight**. A **Prompt** occasions a directed act. **Traces** retain what actually happened and under which conditions. **Challenges** bring contrary evidence, resistance and excluded alternatives into the inquiry. **Patterns** disclose relations across those traces and differences. **Discovery** changes what the inquiry knows or can do. **Insight** integrates that change into the understanding from which another act begins.
+The Scientific sequence is **Prompts, Traces, Challenges, Patterns, Discovery, Insight**. A **Prompt** occasions a directed act. **Traces** retain what actually happened and under which conditions. **Challenges** bring contrary evidence, resistance and excluded alternatives into the inquiry. **Patterns** disclose relations across those traces and differences. **Discovery** changes what the inquiry knows or can do. **Insight** integrates that change into the understanding from which another act begins.
 
 Together with L1, this pair joins production and encounter: a formed act leaves a trace; a challenge can expose its causal or evaluative conditions; a discovered relation can change the next act. A more elaborate explanation is not automatically a richer trace of actual processing. The minimum account must locate which source, model state, permission or evaluator was involved and what the return changed.
 
-The June twelve-lens compilation has a different Scientific sequence, Observe through Verify. Its source remains intact. The [commission house](../sources/internal-corpus/taylor/chat-logs/taylor-2026-oi-product-field-commission/SOURCE.md) records the adopted version used here, so the paired disclosure has a recoverable temporal identity rather than an unmarked substitution.
+The sequence is used here for its operation rather than its revision history: an act is prompted, leaves traces, meets challenge, discloses pattern, produces discovery and returns as insight. What matters is whether that insight changes the field from which another act begins.
 
 ## #3 — A model differentiates a world of possible judgments
 
@@ -82,7 +82,7 @@ Actuation's local sixfold begins from an agentic locus and its lineage; takes fo
 
 The offered comparison holds the task, available sources and relevant runtime conditions constant while varying a declared lens or disclosure. It asks whether a challenge changes the answer, task, model, gauge or commission, and whether that changed condition governs the next act. A null result belongs to the claim: it can expose an ineffective implementation, a mistaken mapping or an inadequate discriminator. No amount of self-description discharges the result in advance.
 
-M38 carries this complete subject. Central supplies attributable ground; AIKit supplies a situated horizon of powers; Factory develops the act's returned transformation; Workcell locates its actual conditions; QL retains the relations through which the produced judgment remains answerable to a wider whole.
+Actuation belongs among the six product offices because it is where potential becomes consequential event. Central supplies attributable ground; AIKit supplies a situated horizon of powers; Factory develops the returned transformation; Workcell locates actual conditions; QL keeps the produced judgment related to a wider whole.
 
 
 <a id="inherited-model-field"></a>
