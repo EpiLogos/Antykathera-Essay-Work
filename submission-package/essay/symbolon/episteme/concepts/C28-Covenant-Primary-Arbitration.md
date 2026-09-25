@@ -38,25 +38,3 @@ The [Foucault lens](../lenses/foucault.md#foucault-distributed-office) **compare
 Covenant renews authority through answerability to the shared condition. In this canonical usage it exceeds contract between supposedly self-sufficient parties because their relation helps constitute the parties and the field in which they act. This is the essay's relational distinction, not a universal legal definition of contract. Renewed authorisation remains finite: the office can decide, receive dissent and consequence, revise its scope and return its power without claiming to be the source it serves.
 
 ### Declared field
-
-**Argument consumers:** A19, A23–A25, A28–A31, A35. **Movement consumers:** faith/covenant, delegation, commons and agent-governance movements.
-
-**Etymology relation:** *Fides / Topos / Logos / Nomos / Natio / Credere* plus *Apportionment / Economy*; consumed operation: trust/order authorises an apportionment of office. Registers **2/3**. Return C28 → A25 → C29 → C53/A29 → C28.
-
-**Source/tradition standing:** covenantal/legal/theological histories are source warrants; “primary arbitration” is authorial relational terminology.
-
-**Carrier disposition:** CREATE as canonical C28.
-
-### Developmental provenance
-
-[Core SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and its [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>) govern the native operation. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and [QH](../../../quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md) are developmental/ratified carriers, with mixed dialogue attribution retained. The [covenant seam](../../../../../working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md) specifies primary arbitration and derivative offices. These establish the essay's argument; historical claims inside them require their own sources.
-
-[Trust revision SOURCE](../sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md) and [direct carrier](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md) supply trust and delegated responsibility. [Ostrom SOURCE](../sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md), q001–002, supplies a qualified comparison, not proof of a proposed AI commons. Exact covenant/compact/contract/mandate distinctions and each theological lineage remain separate historical debts.
-
-### Remaining depth
-
-Restore legal/theological distinctions among covenant, compact, contract, mandate and trust; clarify finite versus ultimate source offices.
-
-**Depth Restoration: enriched; named historical and implementation debts retained.**
-
-The entrusted undertaking **returns-to** [Apportionment / Economy whole — Delegated labour distributes capacity and return](../etymologies/apportionment-and-economy/WHOLE-FIELD.md#delegated-labour-distributes-capacity-and-return) at evidence register 3. The undertaking apportions a responsible office. Encountered cost, objection and consequence must be able to return to the terms of that undertaking; a report used only to grade the delegate leaves primary arbitration protected.
