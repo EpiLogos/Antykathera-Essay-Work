@@ -28,7 +28,9 @@ Internal and interpersonal alterity also differ. The Shadow is other-self: disow
 
 ## #5→0
 
-The self-account **returns-to** [Count-through-Countenance](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-through-countenance) when address changes what can be said of its bearer. A self-name, represented persona and functioning self-position keep their distinct offices; an answering You can correct the attribution without becoming another product of my self-model. This return preserves the subject/self distinction and supplies no inference from technical self-description to phenomenality.
+The self-account returns through [Countenance](../etymologies/encounter-region-name-count/WHOLE-FIELD.md#count-through-countenance) when address changes what can be said of its bearer. A self-name, represented persona and functioning self-position keep different offices; an answering You can correct the attribution because the representation is part of an encounter rather than the source of the person.
+
+Technical use therefore asks which office the evidence actually supports. A system may describe itself, maintain a coherent persona, revise a self-model and act through an objective internality. Those are real achievements of selfing and self-representation. Subjectivity names first-person appearing, a different office from any representation of the self. Returning each claim to its office keeps self-reference exact without turning the concept into a machine-specific consciousness test.
 
 Technical use must identify the office its evidence supports. A system can describe itself, maintain a coherent persona, revise a self-model, and act through an objective internality. Those are different achievements; none by itself decides phenomenal subjectivity. Conversely, a person can revise an image of self without abolishing first-person presence. Returning each account to its office makes self-reference more exact and preserves the open artificial-subjectivity question required by A26/A34.
 
