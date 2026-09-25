@@ -34,16 +34,6 @@ The return keeps the attained determinations while changing how they belong. C64
 
 ### Declared field
 
-**Argument consumers:** A16–A18, A21, A27, A34–A36. **Movement consumers:** Arche-Topos, individuation, idealism and final paradox/return.
-
-**Etymology relation:** *Homologia / Analogia*; consumed operation: opposed terms can participate in a focal/proportional relation without univocal identity. Register **3**. Return C36 → A21 → C64 → A36 → C36.
-
-**Source/tradition standing:** Jungian and theological/philosophical uses of *complexio oppositorum* require source-specific restoration; the canonical operation is authorial synthesis.
-
-### Provenance
-
-Native operations are governed by the [core theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md), [Symbolon Dynamics house](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md), and [Q27's Watson/Otherness correction](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md). [Watson](../sources/psychology/watson/watson-1998-resonance-of-emptiness/SOURCE.md) and [Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) protected notes disclose Taylor's authorial encounter; their copied statements are leads until independently verified. [Aion](../sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md) remains citation-ready with no excerpts; historical Jungian terminology and the exact phrase tradition require their own locators. Mathematical carriers keep their specific operations and are not interchangeable proofs of the psychic or ethical claim.
-
 ### Remaining source depth
 
 Restore the exact historical phrase traditions and distinguish containment from dialectical synthesis or compromise.
