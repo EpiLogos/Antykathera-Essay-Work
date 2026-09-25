@@ -34,16 +34,6 @@ Recognition returns the achieved differentiation to its sources and history. Gre
 
 ### Declared field
 
-**Argument consumers:** A21, A27, A35–A36. **Movement consumers:** Jung/recognition, Self/Other, cultural vocation and final return.
-
-**Etymology relation:** *Arbitration / Hybris / Regard / Anamnesis*; exact operation: **Resolution-in-Reconciliation → Anamnesis / Recognition / Return**. Register **3**. Return C34 → A21 → C19 → C59/A35 → C34.
-
-**Source/tradition standing:** Jungian individuation is the primary historical warrant; Śaiva recognition and cultural individuation are source-distinct operational relations.
-
-### Provenance
-
-[Symbolon Dynamics source house](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) carries the authorial synthesis; [Van Eenwyk](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) and its protected sibling notes carry the source encounter. Notes are authorial provenance and copied quotation leads; the source has no verified passages. [Jung's Aion](../sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE.md) is citation-ready with no excerpts. The native operations retain their Argued standing while exact Jung/Van Eenwyk attribution remains Open.
-
 ### Remaining source depth
 
 Restore Jung's changing formulations and distinguish individuation from integration, self-actualisation and social independence.
