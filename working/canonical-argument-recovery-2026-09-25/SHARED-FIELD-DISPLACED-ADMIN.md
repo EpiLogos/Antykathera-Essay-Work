@@ -628,3 +628,184 @@ P1 consumers: M06, M13–17 and M28. Detailed chronology, contested transmission
 ### displaced block 2
 
 **Unresolved Delta:** these are authorial formal and relational criteria. Clinical fusion, particular institutional capture and tradition-specific nondual doctrines require their own source treatment before diagnosis or historical attribution. A shared outcome alone does not establish this failure.
+
+## submission-package/essay/symbolon/episteme/concepts/C25-Counterfeit-Gathering.md
+
+### displaced block 1
+
+**Argument consumers:** A18–A20, A22, A24, A29, A35. **Movement consumers:** Symbolon, world-atlas, politics-of-count and commons movements.
+
+### displaced block 2
+
+**Etymology relation:** *Encounter / Region / Name / Count / Countenance / Account*; negative operation: an **Account** counts the Region while excluding Countenance/return from the counting rule. Register **3**. Return C25 → C27/A24 → C54/A29 → C25.
+
+### displaced block 3
+
+**Source/tradition standing:** authorial relational grammar primary; historical/institutional examples remain source-specific.
+
+### displaced block 4
+
+**Carrier disposition:** **MERGE/RETAIN-PROVENANCE** for current `counterfeit-gathering.md`; C25 owns canonical identity and the older carrier retains unique developed material.
+
+### displaced block 5
+
+### Developmental provenance
+
+[Core SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and its [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>) govern the native operation. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and [QH](../../../quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md) are developmental/ratified carriers, with mixed dialogue attribution retained. The [covenant seam](../../../../../working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md) specifies primary arbitration and derivative offices. These establish the essay's argument; historical claims inside them require their own sources.
+
+[Older developed carrier](counterfeit-gathering.md) retains its unique provenance. [Heidegger SOURCE](../sources/phenomenology-continental-philosophy/heidegger/heidegger-1977-question-concerning-technology/SOURCE.md), especially q007–009, supplies the gathering/standing-reserve account; Lovitt 1977 print collation remains pending. [Homer SOURCE](../sources/classical-philology/homer/homer-1919-odyssey-murray/SOURCE.md) supplies the full capture-to-release sequence; q004–008 remain wording-verified with Perseus reread pending. No Heidegger/Homer historical connection is claimed. [Ostrom SOURCE](../sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md), q001–002, supplies the qualified governance comparison.
+
+### displaced block 6
+
+### Remaining depth
+
+Restore concrete institutional/technical examples and relation to aggregation, totalisation and representation.
+
+**Depth Restoration: enriched; named historical and implementation debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/concepts/C26-Monoisation-Counter-Generation.md
+
+### displaced block 1
+
+**Argument consumers:** A12, A18, A24, A29, A34–A35. **Movement consumers:** Mono/Poly, politics-of-count, commons and idealism movements.
+
+### displaced block 2
+
+**Etymology relation:** *Apportionment / Economy*; negative operation: an apportioned office treats [its share as ownership of the economy that apportioned it](../etymologies/apportionment-and-economy/WHOLE-FIELD.md#power-becomes-finite-by-apportionment). Register **3**. Return C26 → C49/A12 → C54/A29 → C26.
+
+### displaced block 3
+
+**Source/tradition standing:** authorial QL/Mono-Poly grammar primary; monopoly/political economy supplies a later practical refraction.
+
+### displaced block 4
+
+**Carrier disposition:** CREATE as canonical C26; older monoisation/counter-generation notes remain provenance.
+
+### displaced block 5
+
+### Developmental provenance
+
+[Core SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and its [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>) govern the native operation. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and [QH](../../../quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md) are developmental/ratified carriers, with mixed dialogue attribution retained. The [covenant seam](../../../../../working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md) specifies primary arbitration and derivative offices. These establish the essay's argument; historical claims inside them require their own sources.
+
+The late Q27 monoculture/counterculture turn and its candidate `(1)` remain developmental operations; neither speculative root histories nor political allegations are promoted to external fact.
+
+### displaced block 6
+
+### Remaining depth
+
+Restore formal notation and distinguish monoisation from legitimate centralisation, focal coordination and temporary arbitration.
+
+**Depth Restoration: enriched; named historical and implementation debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/concepts/C27-Protected-Account-Occupied-Zero-Source-Claim.md
+
+### displaced block 1
+
+**Argument consumers:** A15, A18–A20, A24–A29, A31, A33, A35. **Movement consumers:** hidden evaluator, politics-of-count, complex, delegation, six-product, technical-governance and planetary-return movements.
+
+### displaced block 2
+
+**Etymology relation:** *Symbol / Account / Trust*; exact operation: an **Account** ceases to answer to source yet keeps claiming source authority. Register **3**. The Antichrist/counterfeit-source name is an authorial Mytheme office over this operation, not a lexical derivation. Return C27 → A24 → C47/A31 → C56/A35 → C27.
+
+### displaced block 3
+
+**Source/tradition standing:** Taylor's QL/arbitration grammar and authored Antichrist/counterfeit-provenance field are primary for the synthesis; political, psychological and technical cases are independent evidence surfaces.
+
+### displaced block 4
+
+**Carrier disposition:** canonical C27 enriched; older protected-account/occupied-zero phrases remain source provenance.
+
+### displaced block 5
+
+### Developmental provenance
+
+[Core SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and its [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>) govern the native operation. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and [QH](../../../quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md) are developmental/ratified carriers, with mixed dialogue attribution retained. The [covenant seam](../../../../../working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md) specifies primary arbitration and derivative offices. The [September 10 authorial minute](../../../../../working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md) requires the underlying Antichrist corpus and histories to retain their deliberately direct darkness; the [Taylor authored-images whole](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md) carries the destruction/capture/counterfeit-provenance sequence. These establish the essay's argument; historical and contemporary cases require their own sources.
+
+[Trust revision SOURCE](../sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md) and [direct §0](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md) supply the two uses of the knowledge-account. [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) supplies the image/complex distinction; [Van Eenwyk SOURCE](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) and protected sibling NOTES supply a psychic encounter, without promoting copied passages to verified quotation.
+
+### displaced block 6
+
+### Remaining depth
+
+Restore precise notation for occupied zero and concrete tests distinguishing protected accounts from legitimately stable standards. Continue the Antichrist field through A24/A25/A35, its histories of instituted classification and captured mediation, and present-day tool-world cases without turning the authorial myth into a universal empirical accusation.
+
+**Depth Restoration: enriched; counterfeit-source / Antichrist office restored; named historical and implementation debts retained.**
+
+
+## submission-package/essay/symbolon/episteme/concepts/C28-Covenant-Primary-Arbitration.md
+
+### displaced block 1
+
+**Argument consumers:** A19, A23–A25, A28–A31, A35. **Movement consumers:** faith/covenant, delegation, commons and agent-governance movements.
+
+### displaced block 2
+
+**Etymology relation:** *Fides / Topos / Logos / Nomos / Natio / Credere* plus *Apportionment / Economy*; consumed operation: trust/order authorises an apportionment of office. Registers **2/3**. Return C28 → A25 → C29 → C53/A29 → C28.
+
+### displaced block 3
+
+**Source/tradition standing:** covenantal/legal/theological histories are source warrants; “primary arbitration” is authorial relational terminology.
+
+### displaced block 4
+
+**Carrier disposition:** CREATE as canonical C28.
+
+### displaced block 5
+
+### Developmental provenance
+
+[Core SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and its [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>) govern the native operation. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and [QH](../../../quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md) are developmental/ratified carriers, with mixed dialogue attribution retained. The [covenant seam](../../../../../working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md) specifies primary arbitration and derivative offices. These establish the essay's argument; historical claims inside them require their own sources.
+
+[Trust revision SOURCE](../sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md) and [direct carrier](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md) supply trust and delegated responsibility. [Ostrom SOURCE](../sources/political-theory-institutions/ostrom/ostrom-2009-beyond-markets-states-nobel-lecture/SOURCE.md), q001–002, supplies a qualified comparison, not proof of a proposed AI commons. Exact covenant/compact/contract/mandate distinctions and each theological lineage remain separate historical debts.
+
+### displaced block 6
+
+### Remaining depth
+
+Restore legal/theological distinctions among covenant, compact, contract, mandate and trust; clarify finite versus ultimate source offices.
+
+**Depth Restoration: enriched; named historical and implementation debts retained.**
+
+The entrusted undertaking **returns-to** [Apportionment / Economy whole — Delegated labour distributes capacity and return](../etymologies/apportionment-and-economy/WHOLE-FIELD.md#delegated-labour-distributes-capacity-and-return) at evidence register 3. The undertaking apportions a responsible office. Encountered cost, objection and consequence must be able to return to the terms of that undertaking; a report used only to grade the delegate leaves primary arbitration protected.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C29-Mediating-Office-Derivative-Sovereignty.md
+
+### displaced block 1
+
+**Consumers:** A19, A24–A25, A28–A31, A33; arbitration, delegation, evaluation and commons movements. **Depth Restoration:** received standing, distinct mediating functions, recursive scope, source-claim failure and consequential return restored from A24/A25/A28/A29 packets, the direct covenant seam and QH R16.3–R16.4. Exact legal/religious genealogies and implemented governance remain Open. The Son/(no)name appointment stays with its Symbolon owner; this Concept does not invent its missing locator or a King Mytheme.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C30-Psychoid-Number.md
+
+### displaced block 1
+
+**Provenance and debt:** the existing A16–A19/A33/A36 depth recovery, full Jung–Pauli SOURCE and P0 notebook, and direct Symbolon Dynamics carry this development. The house’s pp.107/127/159 transcriptions retain source-matched status. The dossier recovers their speakers and contexts as Pauli 60P, 31 March 1953; Jung 64J, 24 October 1953; and Pauli 74P, June 1957. Selected-edition quotation wording remains uncollated. Jung’s p.128 objection to disciplinary absorption and the p.159 criticism of ungrounded hyperspace models qualify the respective passages. No sibling NOTES is present. Earlier notebook claims of metaphysical neutrality or categorical machine non-consciousness do not override the later first-class idealism/Open localisation correction. Broad numerological correspondences and unsupported technological claims in the notebook are not restored as evidence.
+
+### displaced block 2
+
+**Depth Restoration:** canonical psychoid/research operation restored; exact historical passages and empirical bridge claims remain Open.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C31-Complex.md
+
+### displaced block 1
+
+**Provenance and debt:** A19/A21 recovery, the complete direct Symbolon Dynamics and Van Eenwyk SOURCE/protected NOTES supply the restored operation. [[symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE|Jung’s Aion]] carries the historical Self/shadow field but presently has no verified excerpt for exact autonomy/complex wording. Van Eenwyk's copied quotations also remain passage/edition leads. The earlier proposed `complex.md` carrier is not present in the live tree; no replacement provenance file is invented.
+
+### displaced block 2
+
+**Depth Restoration:** canonical complex/arbitration/transformation operation restored; exact clinical and historical formulations retain named source debt.
+
+
+## submission-package/essay/symbolon/episteme/concepts/C32-Archetype.md
+
+### displaced block 1
+
+**Provenance and debt:** direct Symbolon Dynamics, the A16/A19/A21 packets, Van Eenwyk's full SOURCE/protected NOTES and [[symbolon/episteme/sources/psychology/jung/jung-1978-aion-cw9-2/SOURCE|Jung’s Aion source house]] carry this restoration. Jung's evolving definitions and exact psychoid/archetype passages still require selected locators; no copied notebook wording is promoted to a verified quotation. Cross-cultural universality and measured psychodynamic equations are not supplied by the present operational refraction.
+
+### displaced block 2
+
+**Depth Restoration:** canonical archetype/image/dynamic distinction restored; exact historical and comparative evidence remains source-specific.
