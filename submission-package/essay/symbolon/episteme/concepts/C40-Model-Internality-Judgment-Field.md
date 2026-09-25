@@ -42,7 +42,7 @@ The Judgment Field **returns-to** [Count-to-Account](../etymologies/encounter-re
 
 The [Symbol / Account / Trust whole-field — Account does not replace source](../etymologies/symbol-account-and-trust/WHOLE-FIELD.md#account-does-not-replace-source) **qualifies** this operation at evidence register 3. The exposed judgment field makes actual conditioning inspectable. Its resulting account retains its scope when reused as input, and cannot claim the whole world through that reuse. The resulting distinction **returns-to** that whole field with the consumer’s own source and evidential limits retained.
 
-The returned judgment can become a source for later work only with its scope and provenance retained. C39 supplies the lens discipline, C43 computational self-return and C45 the check that a distinction made a discriminable operational difference. C41 supplies the paradigm boundary; C51 asks whether explicit articulation can return into the lived pattern. The result is an accountable model field, not possession of the world or a demonstration of subjectivity. Exact J-Space experiment history and observability requirements remain research tasks under this wider Concept.
+The returned judgment can become a source for later work only with its scope and provenance retained. C39 supplies the lens discipline, C43 computational self-return and C45 the check that a distinction made a discriminable operational difference. C41 supplies the paradigmatic boundary; C51 asks whether explicit articulation can return into the lived pattern. The result is an accountable model field: a determinate means of judgment whose sources, relations and consequences can become part of the next judgment instead of disappearing behind the output.
 
 ### Declared field
 
