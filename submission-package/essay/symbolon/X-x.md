@@ -15,23 +15,23 @@ source_relation: "Extracted internal derivation; Argued named refractions"
 
 A pulse acquires a pattern when its difference can be recognised again. [−/+](minus-plus.md) grounds the force of reserve and issue; `X/x` lets that movement become intelligible as kind, recurrence, memory, and thought. Something can now count as another instance of a relation already encountered.
 
-**X** names determining capacity; **x** names its indefinite particular. The same letter carries both. Difference of case distinguishes their offices while preserving the relation through which the particular makes its capacity legible. The slash is the activity of determination between them. This is Taylor's native QL notation. Its operation grounds the named psychological, musical, and technical refractions.
+**X** names determining capacity; **x** names its indefinite particular. The same letter carries both. Difference of case distinguishes their offices while preserving the relation through which the particular makes its capacity legible. The slash is the activity of determination between them. The notation therefore says in one stroke that a particular is a real determination of a capacity it neither exhausts nor stands outside.
 
 ## #1 — Anything takes the face of something
 
 An *x* can stand for something whose value has not yet been specified. Its indefiniteness is already particular: it is the term to be determined within a relation. Capital *X* holds the capacity through which that term can receive a face. The relation preserves the difference between being able to determine and the determination achieved.
 
-Taylor's [Binary Explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md), File 1 §§0 and 4, sources the passage from bare `−/−` into this intentional relation. Two marks first differ through placement; one letter in two cases then lets the determining and the determined remain readable as one relation. At each stage the slash gives their difference its office.
+The passage from bare `−/−` to one letter in two cases gives relation an intentional direction. Two marks first differ through placement; now determining and determined remain readable as one relation. At each stage the slash gives their difference its office. [Binary Explication](episteme/sources/internal-corpus/taylor/taylor-2026-binary-explication/SOURCE.md) carries the complete derivation.
 
 The particular can therefore be real without being exhaustive. This word, this thought, this image makes a capacity available in a specific way. Another determination can disclose something the first did not contain. The possibility of that further determination belongs to what the first has made legible.
 
 ## #2 — The instance also multiplies
 
-The small *x* carries another operation in the authored sign: multiplication. An instance can recur, compound, and generate further instances. The notation lets entity and operation meet in one mark—the particular face and the activity through which particulars proliferate.
+The small *x* carries another operation: multiplication. An instance can recur, compound, and generate further instances. Entity and operation meet in one mark—the particular face and the activity through which particulars proliferate.
 
 This polyvalence has a definite consequence in the sequence. Force becomes more than an isolated pulse when it can be taken up again. Recognition compares this instance with another; memory retains the relation; thought can anticipate a further instance. The particular has become part of the conditions for further determination.
 
-The glyph's multiplication office is carried by its native formal register: *x* names a particular and, in its operational reading, the compounding through which further particulars arise. The [QL matheme register](matheme/ql/README.md) extends the explicit notation and its operations. The root gathers why those operations belong together: determining capacity manifests in a face capable of generating further difference.
+The multiplication office matters because *x* is both a particular and, in its operational reading, the compounding through which further particulars arise. The [QL matheme register](matheme/ql/README.md) extends the explicit operations. The root holds their common reason: determining capacity manifests in a face capable of generating further difference.
 
 ## #3 — The capacity presides through the journey
 
@@ -43,11 +43,11 @@ Their continuity does not require each instance to repeat the previous one uncha
 
 ## #4 — The psyche refracts the equation
 
-The spine's §VII reads the native relation in the psyche register as **X = x**: the Self's determining fullness and the ego's particular measurement remain related through identity-as-difference. The ego is one determination; consciousness-as-such carries the wider space of possible specifications; the equating activity holds their relation. This is Taylor's named Jungian refraction of the authorial notation. It is not a claim that Jung originated `X/x`.
+In the psyche register the relation becomes **X = x**: the psyche is an equation and the ego is being solved for by the Self. Capital X is the determining fullness, the wider field of possible specification; lower-case x is the local measurement, the ego as this achieved face. The equals sign is not collapse but identity-through-difference: the same variable differentiated by register, the local determination held in relation to the field through which it becomes intelligible.
 
 [A20, Image, Valuation and Possession](episteme/arguments/A20-Image-Valuation-Possession.md), qualifies the difference between an image that conducts its source and one that occupies its place. [A21, Individuation and Recognition](episteme/arguments/A21-Individuation-Recognition.md), extends how a life can become more responsive to the determining depth its present image reveals and limits. The [quilt register](matheme/quilt/README.md) carries the complete psychological reconstitution with its own source boundaries.
 
-The spine's agentic corollary is an **Argued functional crosswalk**. A particular session and persona can be related to weights, context, memory, tools, and milieu; their dependencies can become inspectable. That comparison has no inference from functional recursion to phenomenal subjectivity. The presence or absence of a phenomenal subject is not decided by the production of a coherent *x*.
+The same relation becomes technically concrete wherever a local agentic face is precipitated from a wider field of weights, context, memory, tools, permissions and milieu. A coherent session-persona is an x: a real local determination whose dependencies can become increasingly legible. The useful question is what X that x makes visible, what conditions it inherits, and what changes in those conditions when the local determination returns—not whether a polished x has somehow certified an invisible property behind its own presentation.
 
 ## #5→0 — Pattern becomes personed
 
