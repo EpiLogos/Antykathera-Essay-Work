@@ -43,21 +43,3 @@ Return states the container and the relation preserving the earlier result. Rati
 [Homologia / Analogia](../etymologies/homology-and-analogy/WHOLE-FIELD.md#e5-whole-returns) **qualifies** reframing by requiring the preserving relation and the changed law to be named together. A coordinate transformation relates descriptions of one point; a quotient identifies representatives; a cover retains distinct lifts; an altered algebra changes its permitted operations. Their shared methodological office is to make an obstruction tractable while keeping the earlier result's stated scope. No common word for return makes these transformations interchangeable, and a failed proposed equivalence revises that comparison rather than cancelling every neighbouring formal result.
 
 ### Declared field
-
-**Argument consumers:** A10, A16–A18, A36. **Movement consumers:** zero, torus/topology, eightfold and final return.
-
-**Etymology relation:** *Homologia / Analogia* only at register **3**: different mathematical/formal examples are compared by the operation of reframing, not by shared historical essence. Return C52 → A17 → C64/A36 → C52.
-
-**Source/tradition standing:** Taylor formal research plus local mathematics/topology sources; every mathematical example retains its own theorem conditions.
-
-### Provenance
-
-Native derivation: [core theorem SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md) and [full theorem spine](../../../../../working/sources-texts-references/10-7-2026-core-theorems-pithy.md); [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>); [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md). The [Draft3 SOURCE](../sources/internal-corpus/taylor/taylor-2026-definition-god-draft3/SOURCE.md) and [direct Draft3](<../../../../../working/sources-texts-references/definition-of-god-working/The Definition of God — Draft 3.md>) preserve the author's corrections and vocational return. The derivation does not turn mathematical, linguistic or historical neighbours into borrowed proofs.
-
-[Kaplan](../sources/mathematics-logic/kaplan/kaplan-1999-nothing-that-is/SOURCE.md) supplies distinct worked constructions at citation-ready/no-verified-quotation standing; [Colebrooke](../sources/mathematics-logic/brahmagupta/colebrooke-1817-brahmagupta-bhaskara/SOURCE.md) supplies selected primary translation passages; [Dutta](../sources/mathematics-logic/dutta/dutta-2023-zero-divided-numbers-india/SOURCE.md) supplies the changed-law corrective. Exact topological/projective source expositions remain separate formal-control tasks.
-
-### Remaining depth
-
-Restore exact mathematical examples and distinguish limit, singularity, compactification, coordinate change and dimensional extension.
-
-**Depth Restoration: enriched; exact external attribution debts retained.**
