@@ -18,6 +18,8 @@ Before editing any canonical essay record or drafting manuscript prose, read `do
 
 The present canonical bodies are themselves under semantic review. In theorem-bearing and authorial material, do not assume that the latest canonical summary has preserved the argument. Recover the complete operation from direct authorial sources and later explicit authorial corrections, then repair the public record. The recovery protocol governs this work before ordinary writing/review rules. In particular, do not reintroduce generic AI-consciousness caveats, provenance theatre, internal record addresses as prose, or notation without its generating argument.
 
+For every canonical record touched during recovery, run `python tools/audit-canonical-argument-recovery.py --strict --path <record>`. The audit is intentionally narrow: hard failures block the touched record; review candidates require semantic inspection and are never auto-rewritten. A record is not complete merely because the audit passes.
+
 ## Read in this order
 
 1. `README.md` — orientation and the argument in brief.
