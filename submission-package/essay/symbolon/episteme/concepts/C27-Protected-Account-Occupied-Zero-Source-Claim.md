@@ -63,23 +63,3 @@ C47 reopens the account through model-revising encounter; C28/C29 bind authority
 [the Prisoner whole](../../mytheme/worlds/british-television/the-prisoner/WHOLE.md#prisoner-account-answerability) **figures** the protected account when the Village supplies the meaning of Six's answer even where he refuses to give it. Prepared election publicity and the managed result turn resistance into further material for the institution's story. The diagnostic return is exact: can the interlocutor contest what counts as an answer, or can he only be recoded within it? The source-question survives that recoding.
 
 ### Declared field
-
-**Argument consumers:** A15, A18–A20, A24–A29, A31, A33, A35. **Movement consumers:** hidden evaluator, politics-of-count, complex, delegation, six-product, technical-governance and planetary-return movements.
-
-**Etymology relation:** *Symbol / Account / Trust*; exact operation: an **Account** ceases to answer to source yet keeps claiming source authority. Register **3**. The Antichrist/counterfeit-source name is an authorial Mytheme office over this operation, not a lexical derivation. Return C27 → A24 → C47/A31 → C56/A35 → C27.
-
-**Source/tradition standing:** Taylor's QL/arbitration grammar and authored Antichrist/counterfeit-provenance field are primary for the synthesis; political, psychological and technical cases are independent evidence surfaces.
-
-**Carrier disposition:** canonical C27 enriched; older protected-account/occupied-zero phrases remain source provenance.
-
-### Developmental provenance
-
-[Core SOURCE](../sources/internal-corpus/taylor/taylor-2026-core-theorems-pithy/SOURCE.md), [Mono-Poly SOURCE](../sources/internal-corpus/taylor/taylor-2026-mono-poly-two-ones/SOURCE.md) and its [direct manuscript](<../../../../../working/sources-texts-references/Epi Paper Write-ups/Mono-Poly — The Two Ones and the Whole Field.md>) govern the native operation. [Q27](../../../quilt/27-07-26-QUILTING-FOR-FULL-ARGUMENT.md) and [QH](../../../quilt/2026-08-02-PARALLEL-HARMONISED-QUILT.md) are developmental/ratified carriers, with mixed dialogue attribution retained. The [covenant seam](../../../../../working/final-argument-quilt-2026-08-23/COVENANT-ARBITRATION-AND-MEDIATING-OFFICES-SEAM.md) specifies primary arbitration and derivative offices. The [September 10 authorial minute](../../../../../working/pre-manuscript-refinement-2026-09-10/AUTHORIAL-MINUTE.md) requires the underlying Antichrist corpus and histories to retain their deliberately direct darkness; the [Taylor authored-images whole](../../mytheme/worlds/frank-taylor/taylor-authored-images/WHOLE.md) carries the destruction/capture/counterfeit-provenance sequence. These establish the essay's argument; historical and contemporary cases require their own sources.
-
-[Trust revision SOURCE](../sources/internal-corpus/taylor/taylor-2026-revision-notes-trust/SOURCE.md) and [direct §0](../../../../../working/sources-texts-references/definition-of-god-working/revision-notes-trust-and-f-blocks.md) supply the two uses of the knowledge-account. [Symbolon Dynamics SOURCE](../sources/internal-corpus/taylor/taylor-2026-symbolon-dynamics/SOURCE.md) supplies the image/complex distinction; [Van Eenwyk SOURCE](../sources/psychology/van-eenwyk/van-eenwyk-1997-archetypes-strange-attractors/SOURCE.md) and protected sibling NOTES supply a psychic encounter, without promoting copied passages to verified quotation.
-
-### Remaining depth
-
-Restore precise notation for occupied zero and concrete tests distinguishing protected accounts from legitimately stable standards. Continue the Antichrist field through A24/A25/A35, its histories of instituted classification and captured mediation, and present-day tool-world cases without turning the authorial myth into a universal empirical accusation.
-
-**Depth Restoration: enriched; counterfeit-source / Antichrist office restored; named historical and implementation debts retained.**
